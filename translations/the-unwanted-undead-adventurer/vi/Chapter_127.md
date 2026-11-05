@@ -22,7 +22,7 @@ Bề ngoài tôi trông y hệt con người, nhưng lại có khả năng hồi
 
 Xem ra tiếng tăm của Nive đến cả các hội trưởng cũng rành.
 
-"Không hẳn," tôi lắc đầu. "Cô ấy đuổi theo một con Ma Cà Rồng đến tận đây thật, nhưng không phải tôi. Có điều mấy việc tôi làm quanh thị trấn khiến cô ấy nghi ngờ nên mới bám theo."
+"Không phải," tôi lắc đầu. "Cô ấy đuổi theo một con Ma Cà Rồng đến tận đây thật, nhưng không phải tôi. Có điều mấy việc tôi làm quanh thị trấn khiến cô ấy nghi ngờ nên mới bám theo."
 
 Nive tính khí như trẻ con, nhưng lại đáng sợ hơn vẻ bề ngoài gấp bội, nên tôi có muốn tránh cũng chẳng được.
 
@@ -30,9 +30,9 @@ Nive tính khí như trẻ con, nhưng lại đáng sợ hơn vẻ bề ngoài g
 
 Ma Cà Rồng vốn có sức mạnh đáng sợ, nhưng điều khiến chúng nguy hiểm hơn cả là khả năng trà trộn giữa loài người. Chỉ những ai có kỹ năng đặc biệt mới phân biệt nổi người với Ma Cà Rồng, nên hội sẽ phải dồn toàn lực để lùng bắt, chưa kể còn phải triệu tập các Thợ Săn Ma Cà Rồng lão luyện từ nơi khác. Tôi không có mấy ấn tượng tốt về Nive, nhưng cô ấy là một Thợ Săn Ma Cà Rồng lừng danh và đã có mặt ở thị trấn rồi. Đó là tin mừng cho hội... ngoại trừ việc miễn là săn được Ma Cà Rồng, cô ta chẳng thèm bận tâm đến những thiệt hại mình gây ra cho xung quanh.
 
-Đó hẳn là lý do khiến Wolf phải lo lắng, nhưng ông tạm gác chuyện đó sang một bên. "Thế làm sao cậu khiến Nive Maris chịu buông tha cho mình? Đâu thể dễ dàng như thế được."
+Đó hẳn là lý do khiến Wolf phải lo lắng, nhưng ông tạm gác chuyện đó sang một bên. "Thế làm sao cậu khiến Nive Maris chịu buông tha cho cậu? Đâu thể dễ dàng như thế được."
 
-"Thực ra tôi cũng chẳng làm gì mấy. Cô ấy dùng một kỹ năng hệ Thần Lực tên là Thánh Hỏa để kiểm tra xem tôi là thứ gì, và tôi không né được. Tôi cứ ngỡ phen này toi đời rồi, nhưng rốt cuộc nó lại chứng minh tôi vô tội. Lúc đó tôi cũng hoang mang vì cứ nghĩ mình là Ma Cà Rồng cơ mà, dẫu sao thì mọi chuyện cũng xong xuôi rồi."
+"Tôi cũng chẳng làm gì mấy. Cô ấy dùng một kỹ năng hệ Thần Lực tên là Thánh Hỏa để kiểm tra xem tôi là thứ gì, và tôi không né được. Tôi cứ ngỡ phen này toi đời rồi, nhưng rốt cuộc nó lại chứng minh tôi vô tội. Lúc đó tôi cũng hoang mang vì cứ nghĩ mình là Ma Cà Rồng cơ, nhưng coi bộ mọi chuyện cũng xong xuôi rồi."
 
 "Thế là chứng minh được cậu không phải Ma Cà Rồng rồi còn gì, đúng như lời cậu nói nãy giờ."
 
@@ -46,7 +46,7 @@ Tôi chẳng thể phủ nhận điều đó. Dù sao thì đây cũng là thử
 
 "Tôi cũng thấy số mình đen thật. Thế nên tôi có cảm giác nếu còn ở lại Maalt thì thể nào cũng còn lắm chuyện rắc rối, nhất là dính tới Nive. Tôi tính rời khỏi thị trấn một thời gian," tôi nói thật suy nghĩ của mình.
 
-Tôi cũng thấy đúng là các vụ việc này dường như xoay quanh mình thật. Nhưng nhìn ở một góc độ khác, cũng có thể nói chúng đang xoay quanh Maalt, còn tôi chỉ vô tình bị cuốn vào mớ bòng bong ấy thôi—chí ít thì tôi mong là vậy. Miễn là Nive còn ở lại Maalt thì đi nơi khác đổi gió xem ra vẫn là lựa chọn sáng suốt.
+Tôi cũng thấy đúng là các vụ việc này dường như xoay quanh mình thật. Nhưng nhìn ở một góc độ khác, cũng có thể nói chúng đang xoay quanh Maalt, còn tôi chỉ vô tình bị cuốn vào mớ bòng bong ấy thôi, chí ít thì tôi mong là vậy. Miễn là Nive còn ở lại Maalt một thời gian thì đi nơi khác đổi gió xem ra vẫn là lựa chọn sáng suốt.
 
 "Cậu định đi đâu?" Wolf hỏi.
 
@@ -62,19 +62,19 @@ Hầu hết các ngôi làng quanh Maalt đều nhờ hội giúp đỡ mỗi kh
 
 "Chà, làng quê cậu thế nào thì tính sau, nhưng tạm rời Maalt một thời gian khéo lại là nước hay nhất. Cậu nói đúng, ở lại khéo lại sinh chuyện. Tôi cứ tưởng cậu giải nghệ mạo hiểm giả rồi cơ, mà cậu bỏ thật thì đời bớt vui," Wolf toét miệng cười với tôi. "Có người như cậu ở quanh đây kể cũng hay. Cố đừng để mất mạng đấy nhé. Trừ phi cậu chết rồi. Vụ đó rốt cuộc là thế nào?"
 
-"Tôi cũng chẳng rõ nữa, nhưng hồi còn là Khô Lâu, cả người tôi chỉ trơ trọi mỗi bộ xương. Đến giờ tôi còn chẳng biết mình có tim hay không nữa." Chí ít thì tôi không có mạch đập, nhưng lại cảm thấy có thứ gì đó đang chảy qua nơi đáng lẽ là lồng ngực. Người ta diệt Ma Cà Rồng bằng cách đóng cọc thánh xuyên tim, nên có khi điều đó cũng có liên quan chăng. Hoặc cũng có thể chẳng dính dáng gì đến tôi.
+"Tôi cũng chẳng rõ nữa, nhưng hồi còn là Khô Lâu, cả người tôi chỉ trơ trọi mỗi bộ xương. Tôi còn chẳng biết mình có tim hay không nữa." Chí ít thì tôi không có mạch đập, nhưng lại cảm thấy có thứ gì đó đang chảy qua nơi đáng lẽ là trái tim. Người ta diệt Ma Cà Rồng bằng cách đóng cọc thánh xuyên tim, nên có khi điều đó cũng có liên quan chăng. Hoặc cũng có thể chẳng dính dáng gì đến tôi.
 
-"Chịu, tôi chẳng biết cậu là giống gì, nhưng chắc chắn không phải con người rồi. Bảo cậu là quái vật cũng chẳng sai, thế nên cậu phải gan cùng mình mới dám mò đến đây đấy. Mà cậu định giải thích vụ đăng ký hai lần với tôi kiểu gì hả? Nhìn phản ứng của cậu lúc nãy thì đâu có ngờ tôi nắm thóp nhiều thế, đúng không?"
+"Trời ạ, tôi chẳng biết cậu là giống gì, nhưng chắc chắn không phải con người rồi. Bảo cậu là quái vật cũng chẳng sai, thế nên cậu phải gan cùng mình mới dám mò đến đây đấy. Mà cậu định giải thích vụ đăng ký hai lần với tôi kiểu gì hả? Nhìn phản ứng của cậu lúc nãy thì đâu có ngờ tôi nắm thóp nhiều thế, đúng không?"
 
 Ông nói trúng phóc. Tôi tưởng ông chỉ biết sơ sơ, không ngờ lại theo dõi tôi sát sao đến thế. Dù vậy, tôi vẫn tin chắc Wolf sẽ chịu dàn xếp vụ đăng ký hai lần giúp mình, tất cả là nhờ tệp tài liệu mang theo người. Tôi đặt tệp giấy lên bàn của Wolf. Ông tò mò nhìn rồi mở ra đọc, nhưng mới đọc được nửa chừng đã khựng lại, thở dài thườn thượt.
 
 "Gom được ngần này tài liệu kể cũng kỳ công đấy. Giờ thì tôi hiểu sao cậu lại tự tin thế rồi. Cơ mà tôi đã nhận lời giúp theo ý cậu rồi thì còn đưa ra làm gì? Cứ lờ đi rồi giấu kỹ để dịp khác dùng có phải hơn không," Wolf bảo.
 
-Tập giấy liệt kê những sai phạm của chính Hội Maalt. Trong đó ghi chi tiết các vụ đăng ký hai lần khác, những nhiệm vụ bí mật, cùng đủ thứ chuyện tương tự. Tôi gom số thông tin này từ nhiều nguồn, chủ yếu là nhờ Edel đi thám thính hoặc mua lại từ dân buôn tin tức. Là giải pháp cuối cùng, tôi thậm chí từng tính nhờ Laura giúp. Cô bé biết khá nhiều chuyện và có khi cũng chẳng ngại chia sẻ vài tin quan trọng. Nhưng Laura là thân chủ, lại là người tôi đang mang nợ ơn nghĩa, nên tôi không nỡ mở lời. Vả lại tôi vẫn còn cách khác.
+Tập giấy liệt kê những sai phạm của chính Hội Maalt. Trong đó ghi chi tiết các vụ đăng ký hai lần khác, những nhiệm vụ bí mật, cùng đủ thứ chuyện tương tự. Tôi gom số thông tin này từ nhiều nguồn, chủ yếu là nhờ Edel đi thám thính hoặc qua cánh tình báo. Cùng đường lắm thì tôi thậm chí từng tính nhờ Laura giúp. Cô bé biết khá nhiều chuyện và có khi cũng chẳng ngại chia sẻ vài tin quan trọng. Nhưng Laura là thân chủ, lại là người tôi đang mang nợ ơn nghĩa, nên tôi không nỡ mở lời. Vả lại tôi vẫn còn cách khác.
 
-Ít nhất cũng phải nói là Edel đã chứng tỏ mình rất có năng lực. Nó có thể chui rúc ở bất cứ xó xỉnh nào lại còn hiểu tiếng người, những khả năng giúp nó thu thập thông tin cực kỳ cừ khôi. Thành quả rành rành ra đó. Dĩ nhiên chỉ riêng những phát hiện của Edel thì chưa đủ để uy hiếp Wolf, nên tôi nhờ cả dân buôn tin tức để kiếm thêm chứng cứ. Được cái tôi quen biết khá rộng ở thị trấn này. Đám buôn tin bình thường khó mà lần ra tung tích, nhưng tôi biết cách khiến họ chịu đi gom rồi bán lại tin cho tôi. Kết tinh từ bao công sức ấy là tập tài liệu này, dùng nó chỉ để dàn xếp vụ đăng ký hai lần thì đúng là hơi phí của giời, nhưng lúc đó tôi cần thật. Giờ Wolf đã tin tôi rồi thì chẳng cần đến chúng nữa, thế lại hay.
+Ít nhất cũng phải nói là Edel đã chứng tỏ mình rất có năng lực. Nó có thể chui rúc ở bất cứ xó xỉnh nào lại còn hiểu tiếng người, những khả năng giúp nó thu thập thông tin cực kỳ cừ khôi. Thành quả rành rành ra đó. Dĩ nhiên chỉ riêng những phát hiện của Edel thì chưa đủ để uy hiếp Wolf, nên tôi nhờ cả cánh tình báo để kiếm thêm chứng cứ. Được cái tôi quen biết khá rộng ở thị trấn này. Cánh tình báo bình thường khó mà lần ra tung tích, nhưng tôi biết cách khiến họ chịu đi gom rồi bán lại tin cho tôi. Kết tinh từ bao công sức ấy là tập tài liệu này, dùng nó chỉ để dàn xếp vụ đăng ký hai lần thì đúng là hơi phí của giời, nhưng lúc đó tôi cần thật. Giờ Wolf đã tin tôi rồi thì chẳng cần đến chúng nữa, thế lại hay.
 
-"Nói thật thì, tôi đâu muốn mối quan hệ giữa đôi bên được dựng trên sự đe dọa," tôi nói. "Mà đưa ra thế này thì cũng chẳng khác gì đe dọa, khéo tôi chẳng nên mở mồm thì hơn." Giờ nghĩ lại, thấy vụ này không phải ý hay cho lắm. Lẽ ra tôi không nên lôi ra thì hơn. Có điều rơi vào đường cùng thì tôi vẫn sẽ dùng đến đống giấy tờ đó thôi.
+"Nói thật thì, tôi đâu muốn mối quan hệ giữa đôi bên được xây dựng trên sự đe dọa," tôi nói. "Mà đưa ra thế này thì cũng chẳng khác gì đe dọa, khéo tôi chẳng nên nói gì thì hơn." Giờ nghĩ lại, thấy vụ này không phải ý hay cho lắm. Lẽ ra tôi không nên lôi ra thì hơn. Có điều rơi vào đường cùng thì tôi vẫn sẽ dùng đến đống giấy tờ đó thôi.
 
 "Chẳng biết cậu là thiên tài hay gã ngớ ngẩn nữa," Wolf nhận xét. "Thôi, sao cũng được. Ít ra cậu đến đây cũng có tính toán từ trước. Chứ nếu cậu tưởng cứ xông thẳng vào nói thẳng tuột mọi chuyện là xong thì cậu còn vô dụng hơn tôi tưởng đấy. Theo nghĩa đó thì việc cậu lọt vào mắt xanh của tôi cũng có lý do cả." Ông bỏ qua cho tôi ngay rồi cất tập giấy vào ngăn bàn.
 
@@ -82,7 +82,7 @@ Trông ông chẳng có vẻ gì là định đem đốt hay xé vụn chúng. T
 
 "Ồ, mớ này ấy hả? Chà, trong này ghi cả đống việc đến tôi còn chẳng hay biết. Toàn chuyện từ trước khi tôi lên làm Hội Trưởng. Tôi tò mò không biết cậu moi đâu ra đống này đấy."
 
-"Bí mật nghề nghiệp rồi," tôi đáp.
+"Bí mật nghề nghiệp."
 
 "Biết ngay mà. Để tôi xác minh lại toàn bộ chỗ này rồi ghi nhớ cho kỹ. Về sau khéo lại có lúc dùng đến."
 
@@ -94,7 +94,7 @@ Xem ra Wolf muốn giữ số tài liệu tôi cất công tìm kiếm để dù
 
 "Này," tôi kêu lên. Tôi thì cũng chẳng bận lòng lắm đâu, nhưng Lorraine đời nào chịu đùng một cái cưới xin như thế, nên tôi đành gạt phắt đi.
 
-"Đùa cậu tí thôi, còn cách khác mà. Ta cứ xóa quách cái tên cậu không dùng đi rồi bảo người đó không tồn tại, hoặc bảo một trong hai họ đó là tên đệm rồi ghép hai cái lại làm một," Wolf gợi ý.
+"Đùa cậu tí thôi, còn cách khác mà. Chúng tôi cứ xóa quách cái tên cậu không dùng đi rồi bảo người đó không tồn tại, hoặc bảo một trong hai họ đó là tên đệm rồi ghép hai cái lại làm một," Wolf gợi ý.
 
 Cách nào nghe cũng vô trách nhiệm cả, nhưng rõ ràng việc đăng ký hai lần chẳng phải tội tày đình gì. Đành rằng làm thế chẳng đúng đắn cho cam, nhưng hội vốn là tổ chức khá dễ dãi nên ở vài nơi có chuyện này cũng dễ hiểu thôi. Có điều nếu làm theo một trong hai cách Wolf nêu, tôi chỉ sợ Nive sẽ mò tới tận cửa nhà mình.
 
@@ -110,7 +110,7 @@ Tôi chưa từng nghe chuyện đó bao giờ, nhưng đích thân Hội Trư�
 
 ◆◇◆◇◆
 
-Được chấp thuận đăng ký hai lần thì quá tiện cho tôi rồi. Có hai thân phận tách biệt sẽ phát huy tác dụng ở không ít chỗ. Chẳng hạn như quanh Nive, tôi đóng vai Rentt Vivie—một kẻ có lai lịch bí ẩn. Đó là một phần lý do khiến cô ấy nghi ngờ, nhưng nếu biết tôi là Rentt Faina rồi đào sâu vào quá khứ, cô ấy có thể tin rằng tôi đã biến thành Ma Cà Rồng trong mê cung. Nếu cô ấy lùng sục Mê Cung Nguyệt Ảnh rồi tìm ra lối đi bí mật kia thì to chuyện. Người phụ nữ tôi gặp lúc đó tính tình nóng như lửa, biết tôi làm lộ căn phòng khéo bà ta nổi trận lôi đình mất. Nhưng chuyện đó khi nào tới hẵng hay, tôi sao quản được Nive sẽ làm gì.
+Được chấp thuận đăng ký hai lần thì quá tiện cho tôi rồi. Có hai thân phận tách biệt sẽ phát huy tác dụng ở không ít chỗ. Chẳng hạn như quanh Nive, tôi đóng vai Rentt Vivie, một kẻ có lai lịch bí ẩn. Đó là một phần lý do khiến cô ấy nghi ngờ, nhưng nếu biết tôi là Rentt Faina rồi đào sâu vào quá khứ, cô ấy có thể tin rằng tôi đã biến thành Ma Cà Rồng trong mê cung. Nếu cô ấy lùng sục Mê Cung Nguyệt Ảnh rồi tìm ra lối đi bí mật kia thì to chuyện. Người phụ nữ tôi gặp lúc đó tính tình khá nóng nảy, biết tôi làm lộ chuyện của bà ta khéo bà ta nổi giận mất. Nhưng chuyện đó khi nào tới hẵng hay, tôi sao quản được Nive sẽ làm gì.
 
 "Nghe qua thì quy chế này giúp được tôi thật đấy, nhưng ông làm thế cho tôi được thật à?" tôi hỏi Wolf.
 
@@ -132,11 +132,11 @@ Nghe thì có vẻ hào sảng đấy, nhưng ông có thật lòng hay không t
 
 Trông ông chẳng khác nào gã chào hàng nhiệt tình thái quá, nhưng nghe cũng bùi tai thật. Tôi vẫn có thể sống như trước giờ, chỉ là nay được dùng dịch vụ của hội thỏa thích, mua đồ giá rẻ hơn, bán nguyên liệu lại được giá hơn. Suýt nữa tôi đã đòi ông tuyển ngay tại chỗ, nhưng tôi đâu có ngây thơ đến thế. Mọi điều Wolf nói đều là điểm cộng, nhưng đời nào lại không có điểm trừ. Tôi nghĩ ngay ra một cái.
 
-"Vào làm thì phải gánh việc cho hội chứ gì? Ông nghĩ tôi rảnh lắm chắc?" tôi hỏi.
+"Vào làm thì phải gánh việc cho hội chứ gì? Ông nghĩ tôi rảnh lắm chắc?"
 
 Thực ra tôi rảnh nhiều đến bất ngờ. Đủ để kèm cặp một đứa đệ tử rồi hứng lên thì học thêm ma thuật, nhưng dại gì mà kể ra. Không bắt buộc thì tội gì tôi phải ôm thêm việc.
 
-"Cũng đúng," Wolf ngẫm nghĩ một thoáng rồi nói. "Tôi sẽ giao cho cậu càng ít việc càng tốt. Cứ coi như ghi danh cậu vào sổ nhân viên thôi, thấy sao? Thi thoảng có thể tôi sẽ nhờ vả vài việc, nhưng tới lúc đó hẵng tính. Cũng có thể tôi sẽ ra lệnh cho cậu khi khẩn cấp, cơ mà nếu cậu thấy cấn thì cứ bảo tôi, hội sẽ châm chước cho."
+"Cũng đúng," Wolf ngẫm nghĩ một thoáng rồi nói. "Tôi sẽ giao cho cậu càng ít việc càng tốt. Cứ coi như ghi danh cậu vào sổ nhân viên thôi, thấy sao? Thi thoảng có thể tôi sẽ nhờ vả vài việc, nhưng tới lúc đó hẵng tính. Cũng có thể tôi sẽ ra lệnh cho cậu khi khẩn cấp, cơ mà nếu cậu thấy quá phiền hà với chuyện đó thì cứ bảo tôi, hội sẽ châm chước cho."
 
 Lại thêm một chuyện quá đỗi tiện lợi. Nhìn ánh mắt ông, tôi biết đây chẳng phải lời nói đùa.
 
@@ -154,9 +154,9 @@ Lại thêm một chuyện quá đỗi tiện lợi. Nhìn ánh mắt ông, tôi
 
 "Cậu đeo cái mặt nạ đó vì không để lộ mặt được, mà hồi trước là do cậu còn là Khô Lâu với Ngạ Quỷ, đúng không?"
 
-"Đúng thế. Chẳng ai muốn nhìn thấy mớ thịt thối khô khốc phơi hết cả ra ngoài đâu," tôi đáp.
+"Đúng thế. Chẳng ai muốn nhìn thấy mớ cơ bắp thối rữa, khô khốc phơi hết cả ra ngoài đâu," tôi đáp.
 
-Wolf hình dung cảnh đó rồi nhăn nhó mặt mày. "Cũng phải. Cơ mà giờ cậu dù có phải Ma Cà Rồng hay không thì trông cũng na ná như thế rồi, đúng chứ?"
+Wolf hình dung cảnh đó rồi nhăn nhó mặt mày. "Cũng phải. Cơ mà giờ cậu dù có phải Ma Cà Rồng hay không thì trông cũng na ná Ma Cà Rồng rồi, đúng chứ?"
 
 "Đúng vậy." Tôi gật đầu, thừa hiểu ông định nói gì. "Ông thắc mắc về cái mặt nạ của tôi hả?"
 

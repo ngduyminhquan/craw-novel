@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T06:28:58Z",
+  "generatedAt": "2026-11-05T06:35:06Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2914,19 +2914,19 @@
           "number": 127,
           "title": "Chương 127: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_127.md",
-          "sha": "ebcfa13813d805bd7aa5a14e84624438a277a277"
+          "sha": "1f56e411600842d173403205126761af9aa36093"
         },
         {
           "number": 128,
           "title": "Chương 128: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_128.md",
-          "sha": "6c7a99550636e2ffea2e4736f1d4733466f5b203"
+          "sha": "e3102e12ca56593d56d87114f7c752ed06b5ab03"
         },
         {
           "number": 129,
           "title": "Chương 129: Tập 5 Chương 3 - Sự Tồn Tại và Thân Phận (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_129.md",
-          "sha": "fa0561cd17f62ec45c45b989a9ec599880dd3ec1"
+          "sha": "45d3eaee17f4f6a9fcfe4ec6708a9c02207d135f"
         },
         {
           "number": 130,
