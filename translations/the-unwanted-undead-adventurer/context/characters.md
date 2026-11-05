@@ -621,7 +621,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Nauss Ancro
 - Giới tính, vai trò: Nam, kỵ sĩ lớn tuổi, đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran.
-- Đặc điểm: Khoác giáp bạc có khắc gia huy hình kỳ lân đâm xuyên ma vật trên vai; kiếm thuật điêu luyện; tính tình thẳng thắn, cảnh giác nhưng biết ơn ân nhân cứu mạng; tận tụy bảo vệ Công Chúa Jia; trao huân chương gia huy chứa ma thuật để nhóm Rentt làm tín vật vào vương cung.
+- Đặc điểm: Khoác giáp bạc có khắc gia huy hình kỳ lân đâm xuyên quái vật trên vai; kiếm thuật điêu luyện; tính tình thẳng thắn, cảnh giác nhưng biết ơn ân nhân cứu mạng; tận tụy bảo vệ Công Chúa Jia; trao huân chương gia huy chứa ma thuật để nhóm Rentt làm tín vật vào vương cung.
 - Xuất hiện từ: #157.
 
 ### Jia Regina Yaaran
