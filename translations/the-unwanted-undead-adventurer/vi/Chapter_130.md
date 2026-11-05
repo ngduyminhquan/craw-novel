@@ -1,117 +1,117 @@
 # Chương 130: Tập 5 Chương 4 - Chuyến Hành Trình (1)
 
-"Còn việc gì chưa làm không? Anh có quên thứ gì không đấy?"
+"Còn sót việc gì không? Có quên gì không đấy?"
 
-Sáng sớm tinh mơ, Lorraine đứng ngay lối vào nhà và cất giọng hỏi như thể cô là mẹ tôi vậy. Tôi nhớ lại toàn bộ những việc mình đã giải quyết ổn thỏa trong vài ngày qua, bao gồm cả việc giao Hoa Long Huyết cho Laura và chuyển lời nhắn của Idoles tới Rina. Mọi chuyện đều đã thu xếp xong xuôi. Có lẽ vậy. Khổ nỗi cái sự quên là người ta cứ thế quên béng đi mất. Biết đâu chừng vẫn còn chuyện gì đó mà tôi có vắt óc suy nghĩ cũng chẳng tài nào nhớ nổi. Điều ấy quả thực khiến người ta phải bận lòng, nhưng nếu tôi đã không nhớ ra thì hẳn nó cũng chẳng quan trọng đến thế.
+Sáng sớm tinh mơ, Lorraine đã đứng ngay cửa ra vào hỏi tôi, hệt như mẹ dặn con vậy. Tôi điểm lại những việc mình đã giải quyết xong xuôi mấy ngày qua, từ giao Hoa Long Huyết cho Laura đến chuyển lời nhắn của Idoles cho Rina. Đâu vào đấy cả rồi. Chắc thế. Ngặt nỗi, đã gọi là quên thì ai mà biết mình quên cái gì. Biết đâu vẫn còn việc gì đó mà tôi có vắt óc cũng chẳng tài nào nhớ ra. Nghĩ thế cũng lo thật, nhưng nếu đã không nhớ nổi thì chắc nó cũng chẳng quan trọng đến vậy.
 
-"À, tôi nghĩ là không đâu. Nếu có thì đợi khi nào trở về hẵng hay," tôi nói, lặp lại câu cửa miệng của biết bao gã đàn ông hay quên trước đây.
+"À, chắc không đâu. Có sót gì thì để lúc về tính sau," tôi đáp, lặp lại câu mà biết bao gã đàn ông hay quên từng nói trước đây.
 
-Lorraine tỏ vẻ ngán ngẩm. "Ít nhất thì anh cũng phải chịu khó động não nhớ lại chút đỉnh chứ. Mà thôi, dù sao cũng đâu phải chúng ta đi luôn không về. Được rồi, xuất phát thôi," cô vừa nói vừa mở cửa.
+Lorraine tỏ vẻ ngán ngẩm. "Ít nhất anh cũng phải ráng mà nhớ lại một chút chứ. Mà thôi, đằng nào cũng có phải đi luôn không về đâu. Thôi được rồi, lên đường nào," cô vừa nói vừa mở cửa.
 
 Đã đến lúc lên đường về Hathara, quê hương tôi.
 
 ◆◇◆◇◆
 
-Maalt tuy nằm cách xa trung tâm vương quốc, nhưng quy mô vẫn đủ lớn để được gọi là một thành thị. Lẽ dĩ nhiên là chẳng thể sánh bằng vương đô, song nơi đây vẫn đón một lượng lữ khách qua lại tương đối đông đúc. Rất nhiều cỗ xe ngựa đang dừng đỗ gần cổng thành Maalt, những người đánh xe không ngừng cất tiếng rao vang từ trên ghế lái. Khá đông người muốn lên xe, họ đồng loạt chen nhau trả tiền cho các bác tài. Đó là một khung cảnh vô cùng nhộn nhịp.
+Maalt tuy nằm xa trung tâm đất nước, nhưng vẫn đủ lớn để được gọi là một thành thị. Dĩ nhiên chẳng thể bì với vương đô, song lượng lữ khách qua lại nơi đây vẫn khá đông đúc. Gần cổng thành Maalt, vô số cỗ xe đang dừng đỗ, cánh đánh xe ngồi trên ghế lái cất tiếng rao vang. Khá đông người muốn lên xe, họ chen nhau trả tiền cho các bác tài. Đó là một khung cảnh vô cùng nhộn nhịp.
 
-Phần lớn trong số họ đều đang hướng về các thành phố ở phía tây. Mỗi khu vực trong bến xe đều bố trí các cỗ xe đi tới những thành phố khác nhau, thế nên một khi đã quen thuộc với nơi này thì việc tìm được cỗ xe mình cần chẳng có gì khó khăn. Cánh tài xế hò hét cốt chỉ để những ai không phải dân cư ngụ tại Maalt có thể tìm thấy họ dễ dàng hơn. Tôi và Lorraine chẳng có việc gì với quang cảnh tấp nập ấy, hai chúng tôi rảo bước tiến về một góc gần như im ắng như tờ.
+Đa phần trong số họ đều đến các thành phố phía tây. Bến xe chia thành từng khu đi các thành phố khác nhau, nên hễ quen chỗ là tìm được chuyến mình cần ngay. Cánh đánh xe hò hét cốt để khách phương xa dễ tìm thấy xe hơn. Tôi và Lorraine chẳng màng đến cảnh tượng tấp nập ấy, mà đi thẳng về một góc gần như im phăng phắc.
 
-"Là chiếc này sao?" Lorraine hỏi khi chúng tôi dừng chân trước một cỗ xe.
+"Là chiếc này sao?" Lorraine hỏi khi chúng tôi dừng trước một cỗ xe.
 
-"Ừ," tôi gật đầu đáp. "Cơ mà lần nào thấy nó tôi cũng thấy bồn chồn lo lắng. Thật khó tin là thứ này lại có thể lết tới tận Hathara đấy." Tôi từng ngồi cỗ xe này về quê không biết bao nhiêu lần, vậy mà cứ mỗi bận nhìn thấy nó, nỗi âu lo trong tôi lại trỗi dậy từ đầu. Trong khi phần lớn xe kéo đều do ngựa đảm nhiệm, thì cỗ xe này lại dùng một con rùa khổng lồ. Ngựa vốn là loài động vật điển hình dùng để kéo xe, song người ta cũng có thể sử dụng những loài vật khác. Ngựa vẫn chiếm đa số, nhưng tùy thuộc vào lộ trình và tốc độ yêu cầu, đôi khi lại có những lựa chọn tối ưu hơn.
+"Ừ," tôi gật đầu đáp. "Có điều lần nào nhìn thấy nó tôi cũng lo ngay ngáy. Không thể tin nổi cái thứ này lại lết được tới tận Hathara." Tôi ngồi xe này về quê không biết bao nhiêu bận rồi, vậy mà lần nào trông thấy nó, tôi vẫn lo nơm nớp. Trong khi phần lớn các cỗ xe đều do ngựa kéo, thì chiếc này lại dùng một con rùa khổng lồ. Ngựa là loài vật kéo xe phổ biến nhất, nhưng người ta cũng dùng cả những loài khác. Phần lớn vẫn là ngựa, nhưng tùy theo tuyến đường và yêu cầu tốc độ, đôi khi sẽ có những lựa chọn tốt hơn.
 
-Sau xe ngựa, loại phổ biến tiếp theo là xe rồng, sử dụng một loài sinh vật có hình dáng tương tự như ngựa nhưng thực chất lại có họ hàng với loài Drake. Chúng chạy nhanh hơn ngựa, bền bỉ hơn và chẳng hề khiếp sợ quái vật. Dẫu vậy, người ta có thể thắng nhiều con ngựa cùng một lúc, đồng thời chúng cũng dễ điều khiển hơn nhờ sức vóc không quá áp đảo. Nhìn chung thì ngựa vẫn tiện lợi hơn, do đó những sinh vật thuộc loài Drake này chỉ được trưng dụng khi tốc độ là yếu tố tối quan trọng. Chúng cũng quá đắt đỏ đối với thường dân, chủ yếu phục vụ giới quý tộc và kỵ sĩ.
+Sau xe ngựa, phổ biến tiếp theo là xe rồng. Chúng dùng một loài vật có hình dáng giống ngựa nhưng thực chất lại mang họ hàng với Drake. Chúng chạy nhanh hơn ngựa, dai sức hơn và chẳng hề sợ quái vật. Có điều, người ta có thể đóng nhiều ngựa vào cùng một xe, và chúng cũng dễ kiểm soát hơn vì không quá khỏe. Tính ra thì dùng ngựa vẫn tiện hơn, nên loài vật thuộc dòng Drake này chỉ được dùng khi tốc độ là ưu tiên hàng đầu. Giá của chúng cũng quá đắt đỏ với thường dân, chủ yếu chỉ dành cho giới quý tộc và kỵ sĩ.
 
-Thế nhưng, cỗ xe này lại sử dụng một loài sinh vật gọi là rùa khổng lồ. Chúng khỏe hơn ngựa, nhưng tốc độ lại chậm hơn. Bù lại, chúng sở hữu độ bền bỉ đến kinh ngạc. Nếu bị quái vật tấn công, chúng có thể rụt người vào trong mai, vì thế chúng thường được sử dụng cho những cung đường hiểm trở hoặc đường miền núi. Lộ trình tới Hathara không được tu sửa bằng phẳng như con đường hướng tây, đã vậy lại dốc hơn rất nhiều, thế nên rùa khổng lồ là một lựa chọn lý tưởng. Dẫu vậy, nhìn thế nào thì chúng cũng chỉ là một con rùa to xác. Nhìn vào đó, ắt hẳn người ta sẽ nghĩ phải mất cả thế kỷ mới tới được quê hương tôi. Song trên thực tế, dẫu có chậm hơn ngựa đôi chút, chúng vẫn bước đi khá nhanh. Đôi chân của chúng dài hơn loài rùa bình thường, tạo nên một dáng vẻ trông khá buồn cười.
+Còn cỗ xe này thì dùng một loài vật gọi là rùa khổng lồ. Chúng khỏe hơn ngựa nhưng lại chậm chạp hơn. Bù lại, loài này cực kỳ lỳ đòn. Hễ bị quái vật tấn công, chúng có thể rụt ngay vào mai, nên rất hay được dùng trên những cung đường núi non hiểm trở. Đường về Hathara không được bằng phẳng như đường về phía tây, lại dốc hơn nhiều, nên rùa khổng lồ là lựa chọn lý tưởng. Dẫu vậy, nhìn thế nào thì nó vẫn cứ là một con rùa to xác. Trông qua ai cũng ngỡ phải mất cả thế kỷ mới lết về được tới quê tôi. Thực tế, dù chậm hơn ngựa một chút nhưng chúng bước khá nhanh. Chân loài này dài hơn rùa thường, tạo nên một dáng vẻ trông khá buồn cười.
 
-"Lần nào nó cũng tới được đích mà, đúng không? Thế thì lo lắng làm gì? Giờ thì người đánh xe đâu rồi nhỉ? Ồ, ông ấy đằng kia kìa," Lorraine vừa nói vừa nhìn thấy một ông lão.
+"Lần nào nó chẳng tới nơi, đúng không? Thế thì lo làm gì? Mà bác tài đâu rồi nhỉ? À, đằng kia kìa," Lorraine nói khi trông thấy một ông lão.
 
-Trong khi mọi người đánh xe ở khu vực đằng trước đều đang rao khản cả cổ, thì ông lão này lại đang ngậm tẩu thuốc và dựa lưng vào cỗ xe của mình. Trông ông chẳng có chút nhiệt tình nào, nhưng tôi có thể thấu hiểu điều đó. Cất tiếng mời mọc những người đi về hướng đông chẳng mang lại nhiều ý nghĩa. Lượng người vốn chẳng có là bao, mà phần lớn trong số họ cũng đều làm trong ngành vận chuyển, thế nên việc đó chỉ tổ tốn công vô ích.
+Trong khi cánh đánh xe ở khu đằng trước rao đến khản cổ thì ông lão này lại thong thả ngậm tẩu thuốc, dựa lưng vào cỗ xe của mình. Trông ông chẳng có vẻ gì là sốt sắng, nhưng tôi cũng hiểu được. Hò hét mời khách đi về hướng đông cũng chẳng để làm gì. Khách đi ngả này ít ỏi vô cùng, đa phần lại là dân trong nghề vận tải, nên rao chỉ tổ phí sức.
 
-"Này ông lão, chúng tôi muốn đi xe tới Hathara. Giá cả thế nào vậy?" Lorraine hỏi.
+"Bác ơi, chúng tôi muốn đi xe về Hathara. Bác tính giá thế nào vậy?" Lorraine hỏi.
 
-Ông lão ngước nhìn lên. "Năm đồng bạc. Có bao bữa trưa, nhưng nếu các người muốn ăn nhiều hơn thế thì tự mua ở các thị trấn dừng chân dọc đường. Đợi gom thêm người rồi chúng ta mới khởi hành, nên cứ đứng loanh quanh đây chờ đi," ông nói.
+Ông lão ngước lên. "Năm đồng bạc. Có bao bữa trưa, còn muốn ăn thêm thì tự mua ở mấy thị trấn dừng chân dọc đường. Đợi gom thêm người nữa rồi mới khởi hành, cứ loanh quanh đâu đây chờ đi," ông nói.
 
-Thật khó để khẳng định năm đồng bạc là đắt hay rẻ, nhưng Hathara gần như là điểm dừng chân cuối cùng của lộ trình. Xét việc phải mất khoảng một tuần mới tới nơi mà lại còn bao cả bữa trưa, mức giá này nhiều khả năng là thuộc diện rẻ. Những cỗ xe đi về phía tây thậm chí còn rẻ hơn. Nhiều người đi về phía tây hơn nên họ có lượng hành khách đông hơn. Thêm vào đó, họ có đường sá lát đá đàng hoàng để đi, thế nên cùng một quãng đường sẽ tốn ít thời gian hơn so với các chuyến xe hướng đông. Sống ở một chốn hẻo lánh xa xôi thật bất tiện về nhiều mặt, vì thế nên tôi hiếm khi về quê. Vừa không có tiền, mà nếu phải cuốc bộ về thì quả là một cực hình.
+Khó mà nói năm đồng bạc là đắt hay rẻ, nhưng Hathara gần như là chặng cuối cùng. Tính ra phải đi mất chừng một tuần mà lại bao cả bữa trưa thì mức giá này coi như khá rẻ. Xe đi ngả phía tây còn rẻ hơn nữa. Khách đi phía tây đông hơn nên xe lúc nào cũng đông khách. Chưa kể đường bên đó được lát đá đàng hoàng, cùng một quãng đường mà đi mất ít thời gian hơn nhiều so với xe đi về hướng đông. Sống ở nơi hẻo lánh xa xôi đủ đường bất tiện, thế nên tôi hiếm khi về quê. Tiền thì không có, mà đi bộ về thì đúng là cực hình.
 
-"Vậy thì một đồng vàng là đủ cho cả hai chúng tôi rồi. Của ông đây," Lorraine nói rồi thanh toán ngay tắp lự. Tôi lấy ra năm đồng bạc định đưa cho Lorraine, nhưng cô đã gạt đi. "Về tới nhà rồi trả tôi sau. Tôi không muốn phải mang theo quá nhiều tiền lẻ bên người đâu," cô kiên quyết. Trông cô hành xử còn nam tính hơn cả tôi nữa. Biết đâu chừng tôi mới là kẻ ẻo lả. Tôi thấy hơi ngại, nhưng tôi cứ làm theo lời cô bảo và trả lại tiền cho cô trên đường về cũng được. Không thì tôi sẽ chi trả tiền ăn của hai đứa ở các thị trấn.
+"Vậy một đồng vàng là đủ cho cả hai chúng tôi rồi. Của bác đây," Lorraine nói rồi trả tiền luôn. Tôi móc năm đồng bạc định đưa Lorraine, nhưng cô gạt đi. "Bao giờ về nhà rồi trả tôi sau. Tôi không muốn vác thêm tiền lẻ cho nặng người đâu," cô khăng khăng. Trông cô còn ga lăng hơn cả tôi nữa. Có khi tôi mới là đứa ẻo lả cũng nên. Ngại thì có ngại, nhưng thôi cứ theo ý cô, đợi lượt về rồi trả cũng được. Không thì tôi trả tiền ăn cho hai đứa ở mấy thị trấn dọc đường.
 
-Niềm vui của những chuyến đi xa chính là được thưởng thức những món mỹ vị chỉ có thể tìm thấy ở xứ khác. Thông thường thì chỉ có những món ăn dân dã của nông dân, nhưng đôi khi người ta lại bắt gặp vài món đặc sản mà dân địa phương coi là bình thường, song hóa ra lại là những món ăn vô cùng hiếm có khó tìm. Có thể kể đến như món trứng ếch mùa đông lớn hay món Curtis Mant chiên giòn, một chủng thuộc loài bọ ngựa sát thủ. Cả hai món đều ngon tuyệt đỉnh, nhưng trông vẻ ngoài thì lại đáng sợ đến mức rợn người khi ăn. Chúng nhiều khả năng sẽ được bày bán tại các thị trấn dọc đường, thế nên tôi có thể mời Lorraine nếm thử xem sao.
+Cái thú của những chuyến đi xa là được nếm thử những món ngon chỉ nơi đó mới có. Thường thì cũng chỉ toàn mấy món thôn quê bình dị, nhưng thỉnh thoảng ta lại vớ được vài món đặc sản mà dân địa phương coi là chuyện thường, song kỳ thực lại là của ngon vật lạ hiếm thấy. Chẳng hạn như món trứng ếch mùa đông khổng lồ, hay món Curtis Mant chiên giòn — một nhánh của loài bọ ngựa sát thủ. Cả hai đều ngon tuyệt, có điều nhìn bề ngoài thì sợ chẳng dám ăn. Chắc mấy thị trấn dọc đường sẽ có bán, để tôi dụ Lorraine ăn thử xem sao.
 
-"Giờ thì chắc là phải chờ đợi rồi. Tôi đang mong chờ chuyến đi này đấy," Lorraine nói.
+"Giờ chắc chỉ còn nước ngồi đợi thôi. Tôi bắt đầu thấy háo hức rồi đấy," Lorraine nói.
 
-"Ừ, tôi cũng vậy," tôi đồng tình.
+"Ừ, tôi cũng thế," tôi tán thành.
 
-Không biết Lorraine sẽ nói gì về những món mỹ vị này nhỉ? Có khi ép cô ăn chúng lại là một việc tàn nhẫn cũng nên. Dù sao cô cũng là người thành thị, những món ấy có thể sẽ quá sức đối với cô. Tôi vừa mường tượng viễn cảnh ấy vừa chờ đợi những hành khách khác tìm tới.
+Không biết nếm mấy món đặc sản đó xong Lorraine sẽ phản ứng thế nào nhỉ? Nghĩ lại, bắt cô ăn khéo hơi ác. Dù sao cô cũng là tiểu thư thành thị, mấy món đó có khi lại quá sức. Tôi vừa mường tượng cảnh tượng đó vừa chờ gom đủ khách.
 
 ◆◇◆◇◆
 
-"Đến giờ khởi hành rồi. Lên xe đi," người đánh xe cất tiếng sau khi đã gom đủ một lượng hành khách.
+"Đến giờ đi rồi. Lên xe thôi," người đánh xe cất tiếng sau khi đã gom đủ một lượng khách.
 
-Chúng tôi trèo lên khoang sau và nhìn quanh những người đi cùng. Tính cả hai chúng tôi, tổng cộng có sáu hành khách. Tôi chẳng rõ con số đó là nhiều hay ít. Có một cô bé đi cùng người đàn ông trung niên, một đôi vợ chồng già, và chỉ có bấy nhiêu thôi. Đôi vợ chồng già kia hoàn toàn có thể là một cặp ma pháp sư xuất chúng, song tôi lại chẳng cảm nhận được mảy may chút Ma Lực nào từ họ, nên chắc là không phải rồi. Trừ phi họ sở hữu thực lực hùng mạnh đến mức quái vật để có thể che giấu hoàn toàn Ma Lực của mình, nhưng nói đi cũng phải nói lại, khả năng ấy rất khó xảy ra.
+Chúng tôi trèo lên khoang sau, đưa mắt nhìn quanh các bạn đồng hành. Tính cả hai chúng tôi thì vừa vặn sáu người. Chẳng biết chừng đó là đông hay vắng. Chỉ có một bé gái đi cùng người đàn ông trung niên, một đôi vợ chồng già, thế là hết. Hai ông bà cụ kia biết đâu lại là cao thủ ma pháp ẩn danh, nhưng tôi chẳng cảm nhận được tí Ma Lực nào, nên chắc không phải đâu. Trừ phi họ mạnh đến mức quái dị, thừa sức phong tỏa toàn bộ Ma Lực, cơ mà chắc chẳng có chuyện đó đâu.
 
-Tuy nhiên, xét đến đích đến của chuyến đi, chí ít thì người đánh xe cũng phải có chút bản lĩnh chiến đấu. Quái vật hiếm khi xuất hiện trên những lối mòn do con người khai phá, nhưng không phải là không có. Quái vật cũng chẳng phải là mối hiểm nguy duy nhất trên đường. Nơi đây còn có cả lũ trộm cướp nữa, thế nên nếu tình huống xấu xảy ra, chúng tôi sẽ phải tự mình chống trả. Chúng tôi không thể nào bắt người già và một cô bé con phải chiến đấu được. Lorraine tuy cũng trẻ tuổi thật đấy, nhưng cô là một mạo hiểm giả kiêm pháp sư tài ba. Cứ để cô tham chiến cũng chẳng sao.
+Cơ mà nhìn vào điểm đến của chuyến này, chí ít bác tài cũng phải có chút ngón nghề thực chiến. Quái vật hiếm khi bén mảng tới những con đường do con người mở ra, nhưng không phải là không có. Mà hiểm nguy dọc đường đâu chỉ có quái vật. Còn cướp bóc nữa, nên nếu hữu sự thì chúng tôi sẽ phải tự mình ứng chiến. Đâu thể bắt người già với trẻ con ra đánh nhau được. Lorraine thì đúng là cũng còn trẻ, nhưng cô là mạo hiểm giả kiêm ma pháp sư lão luyện. Bắt cô chiến đấu thì chẳng vấn đề gì.
 
-Người đánh xe ngồi vào ghế lái với cây roi da trên tay. Khi ông quất nhẹ lên chiếc mai rùa, nó liền tỉnh giấc và bắt đầu ì ạch bò về phía trước. Tốc độ chậm chạp đến phát ngán, nhưng đó là chỉ cho tới khi nó rời khỏi thành thị mà thôi.
+Người đánh xe ngồi vào ghế lái, tay cầm roi. Ông quất nhẹ vào mai, con rùa liền bừng tỉnh rồi ì ạch bò tới. Chậm đến phát ngán, nhưng cũng chỉ là cho tới khi ra khỏi thành phố mà thôi.
 
-"Đây là lần đầu tiên tôi đi xe rùa đấy. Bất ngờ là nó lại chạy nhanh đến thế này," Lorraine nói, có phần thán phục.
+"Lần đầu tiên tôi đi xe rùa đấy. Không ngờ nó lại đi nhanh đến thế," Lorraine bảo, giọng có chút thán phục.
 
-Tôi ngó ra ngoài từ dưới mái che và thấy cảnh vật lướt qua với tốc độ đáng kể. Tốc độ này chắc chắn là nhanh hơn chạy bộ bằng chân rồi. Tôi thò đầu sang bên phía ghế lái để quan sát con rùa khổng lồ, và đôi chân của nó đang thoăn thoắt di chuyển với nhịp độ mau lẹ hơn bất cứ con rùa nào tôi từng thấy trong đời. Khởi động thì chậm thật đấy, nhưng một khi đã tăng tốc thì nó đạt được tốc độ khá ổn định. Sức kéo khỏe như ngựa chính là lý do khiến chúng được trọng dụng. Đã vậy bản tính chúng lại thuần hậu và có thể chịu đòn tốt. Dẫu thế, nếu nó có thể nhanh thêm một chút nữa thì càng hay.
+Tôi ngó ra ngoài mái che, thấy cảnh vật trôi qua khá nhanh. Chắc chắn là nhanh hơn người chạy bộ rồi. Thò đầu sang phía ghế lái dòm con rùa khổng lồ, tôi thấy bốn chân nó thoăn thoắt bước lẹ hơn bất cứ con rùa nào tôi từng thấy trong đời. Lúc khởi động thì chậm thật, nhưng khi đã lấy được trớn thì tốc độ cũng ra trò. Sức kéo khỏe mới là lý do chúng được chuộng. Thêm nữa, tính tình loài này hiền lành, lại chịu đòn cực giỏi. Dù vậy, giá mà nó nhanh thêm một chút nữa thì tốt biết mấy.
 
-"Hôm nay chúng ta chỉ đi tới đây thôi. Xin lỗi vì các người sẽ phải dựng trại ngủ ngoài trời, nhưng chúng ta đang ở cách rất xa bất kỳ thị trấn nào. Quanh đây không có nhiều quái vật lắm, nên chắc sẽ an toàn thôi," người đánh xe nói rồi hãm xe dừng lại.
+"Hôm nay ta chỉ đi tới đây thôi. Xin lỗi vì mọi người phải dựng trại ngủ ngoài trời, nhưng quanh đây chẳng gần thị trấn nào cả. Quái vật ở vùng này cũng ít nên chắc sẽ an toàn thôi," người đánh xe vừa nói vừa hãm xe lại.
 
-Trong số các hành khách, duy chỉ có Lorraine là lộ vẻ bàng hoàng. "Ra vậy, hóa ra cảnh tượng của người dân quê mùa là thế này đây," cô buông một lời nhận xét đầy vẻ chê bai.
+Trong số các hành khách, duy chỉ có Lorraine là lộ vẻ sửng sốt. "Ra thế, sống ở chốn thôn quê là phải thế này đây," cô buông một câu nhận xét đầy vẻ châm chọc.
 
-Tôi thừa nhận mình có hơi phật ý trước câu nói của cô, song đồng thời tôi cũng hiểu được lý do vì sao cô lại nghĩ như vậy. Con đường đi về phía tây chỉ mất nửa ngày di chuyển giữa các thị trấn với nhau. Chuyện này sẽ chẳng bao giờ xảy ra trên đường dẫn tới một thành phố lớn, nhưng chúng tôi hiện đang đi trên cung đường về vùng nông thôn, thế nên ngày đầu tiên của chuyến hành trình luôn kết thúc theo kịch bản thế này. Đáng lẽ người ta có thể xây dựng thêm nhiều ngôi làng nhỏ dọc đường, nhưng những ngôi làng từng tồn tại ở đây từ vài thập kỷ trước đã bị quái vật phá hủy hoàn toàn. Đám quái vật gây họa khi ấy tuy đã bị tiêu diệt, song những người sống sót lại chẳng còn thiết tha bám trụ mảnh đất này nữa, họ dọn đến Maalt hoặc đi xa hơn về phía tây. Kể từ dạo đó, vùng đất này đã bị bỏ hoang không một bóng người cư ngụ.
+Nghe câu đó tôi cũng hơi tự ái, nhưng đồng thời cũng hiểu vì sao cô lại nói vậy. Đường sang phía tây cứ nửa ngày đường lại có một thị trấn. Đi về hướng các đô thị lớn thì chẳng bao giờ có chuyện thế này, nhưng đây là đường về quê, nên ngày đầu tiên lúc nào cũng kết thúc y như vậy. Đáng ra dọc đường có thể dựng thêm vài ngôi làng nhỏ, nhưng những ngôi làng từng tồn tại ở đây mấy chục năm trước đã bị quái vật xóa sổ sạch trơn. Bầy quái vật hồi đó đã bị diệt trừ, song những người sống sót chẳng còn thiết tha bám trụ, họ chuyển tới Maalt hoặc dạt sang phía tây. Từ đó đến nay, vùng đất này hoàn toàn không một bóng người sinh sống.
 
-Ký ức về thảm họa năm nào đã phai mờ dần theo thời gian, thế nên ai đó hoàn toàn có thể đứng ra khởi xướng lập nên một ngôi làng mới, song những người có chí khí như vậy cũng chỉ thỉnh thoảng mới xuất hiện. Chuyện đó vốn chẳng hề dễ dàng chút nào.
+Ký ức về thảm họa năm xưa đã phai mờ theo thời gian, nên nếu có ai đứng ra khởi xướng lập làng mới thì cũng tốt, ngặt nỗi những người như thế hiếm khi xuất hiện. Chuyện đó vốn chẳng dễ dàng gì.
 
-"Cô từng đi cắm trại nhiều rồi còn gì, phải không?" tôi hỏi Lorraine.
+"Cô cắm trại suốt rồi còn gì?" tôi hỏi Lorraine.
 
-"Chắc là vậy. Hồi đó anh cứ lôi xềnh xệch tôi theo rồi bắt tôi học cách cắm trại dã ngoại, nên mới được thế này đấy," cô đáp.
+"Cũng phải. Hồi xưa bị anh lôi đi khắp nơi rồi bắt học cách cắm trại, nhờ thế mới biết đấy chứ," cô đáp.
 
-Nghe giọng cô cứ như thể đang ôm mối ấm ức trong lòng, nhưng dĩ nhiên đó chỉ là lời nói đùa mà thôi. Dẫu vậy thì đúng là hồi ấy tôi từng lôi cô đi khắp nơi thật. Thuở đó Lorraine chẳng biết làm bất cứ việc gì cả. Giờ đây cô thông tuệ và thuần thục đủ mọi chuyện, nhưng thời điểm ấy cô thậm chí còn không biết cách nhặt củi để nhóm lửa. Cô biết vài câu thần chú nhưng chưa từng nghĩ đến việc vận dụng chúng vào đời sống sinh hoạt hàng ngày. Đó là lý do vì sao ngày trước cô chẳng thể tự mình cắm trại, song giờ thì có cô bên cạnh lại tiện lợi biết bao.
+Nghe giọng cứ như thể cô đang ấm ức lắm, nhưng dĩ nhiên đó chỉ là nói đùa. Dù nói thế chứ hồi ấy đúng là tôi có lôi cô đi thật. Hồi đó Lorraine chẳng biết làm gì hết. Giờ thì cô giỏi giang, tháo vát đủ đường, chứ ngày ấy ngay cả nhặt củi nhóm lửa cô cũng chịu. Cô biết vài phép nhưng chẳng bao giờ nghĩ đến chuyện đem ra dùng trong sinh hoạt. Thế nên ngày trước cô mới không thể tự cắm trại một mình, chứ bây giờ đi đâu có cô theo cùng đúng là tiện thật.
 
 "Bác tài ơi, để chúng tôi nấu bữa tối nhé?" Lorraine hỏi.
 
-"Chúng tôi có sẵn ít thịt khô, nhưng nếu hai người muốn nấu thì cứ tự nhiên," ông đáp.
+"Ở đây có sẵn ít thịt khô, nhưng hai cô cậu thích nấu thì cứ tự nhiên," ông đáp.
 
-"Vậy thì chúng tôi sẽ nấu. Chỉ với ba đồng xu đồng, chúng tôi cũng có thể nấu phần cho bác nữa đấy."
+"Thế thì để chúng tôi nấu. Thêm ba đồng xu đồng nữa là chúng tôi nấu luôn phần cho bác đấy."
 
-"Hừm, thế thì nhờ hai người vậy, nếu không phiền," ông nói rồi đưa mấy đồng xu cho Lorraine. Cô cũng hỏi câu tương tự với những hành khách khác rồi thu tiền của họ.
+"Ừm, thế thì nhờ hai cô cậu nhé," ông nói rồi đưa mấy đồng xu cho Lorraine. Cô cũng hỏi những hành khách khác câu tương tự rồi thu tiền.
 
-"Bắt tay vào nấu nướng thôi, Rentt," cô giục.
+"Bắt tay vào nấu thôi, Rentt," cô giục.
 
-Trước khi rời thị trấn, chúng tôi đã gom mua một lượng kha khá lương thực thực phẩm. Giá cả có hơi bị đội lên một chút, song với chúng tôi thì chẳng đáng là bao thiệt hại. Tôi lấy thức ăn và một chiếc nồi nấu ra khỏi túi ma thuật của mình rồi bắt đầu sơ chế, trong khi Lorraine vẽ một ma pháp trận trên mặt đất. Đoạn, cô niệm một câu chú ngắn và ngọn lửa liền bùng lên. Những hành khách khác chăm chú dõi theo với vẻ đầy thích thú.
+Trước khi rời thị trấn, chúng tôi đã gom mua một lượng kha khá thức ăn. Giá có hơi đắt một chút, nhưng cũng chẳng tổn hại gì đến túi tiền của chúng tôi. Tôi lấy thức ăn và cái nồi ra khỏi túi ma thuật rồi bắt đầu sơ chế, còn Lorraine thì vẽ một ma pháp trận xuống đất. Đoạn, cô niệm một câu chú ngắn, ngọn lửa liền bùng lên. Những hành khách khác nhìn theo đầy thích thú.
 
-Pháp sư vốn chẳng khó tìm nếu người ta chịu cất công tìm kiếm, nhưng họ lại hiếm khi phô diễn ma pháp của mình cho người ngoài xem. Đặc biệt là những phép thuật dùng trong đời sống thường nhật thường không mấy khi được thi triển trong lúc cắm trại dã ngoại, bởi làm thế có thể gây lãng phí Ma Lực. Thế nhưng Lorraine lại sở hữu lượng Ma Lực dồi dào, đã vậy các ma pháp trận của cô đều được tinh giản hết mức có thể, khiến chúng đạt hiệu quả cao đến mức gần như chẳng tốn hao năng lượng là bao. Chí ít thì tôi suy đoán là như vậy. Tôi không am hiểu tường tận về ma pháp của Lorraine cho lắm, nên có rất nhiều điều tôi chẳng thể nào khẳng định chắc chắn. Dù sao đi nữa thì việc này đối với cô cũng dễ như trở bàn tay. Bản thân ma pháp trận ấy chỉ ứng dụng những kiến thức sơ cấp, nhưng trông nó lại được khắc họa vô cùng tinh xảo và đẹp mắt. Nếu tôi theo học Lorraine, ắt hẳn rồi cũng sẽ có ngày tôi làm được điều tương tự. Đoán vậy.
+Muốn tìm ma pháp sư thì chẳng khó, nhưng họ hiếm khi biểu diễn phép thuật trước mặt người ngoài. Mấy phép dùng trong sinh hoạt lại càng ít khi đem ra xài lúc cắm trại, bởi làm thế rất phí Ma Lực. Nhưng Lorraine thì dồi dào Ma Lực, vả lại các ma pháp trận của cô đều được tối giản hết mức, vận hành hiệu quả đến độ gần như chẳng tốn hao năng lượng là bao. Ít nhất tôi đoán là thế. Tôi không rành ma pháp của Lorraine đến mức ấy, nên có nhiều chỗ không dám chắc. Dù thế nào đi nữa, chuyện này với cô chỉ là chuyện nhỏ. Ma pháp trận đó chỉ dựa trên kiến thức sơ đẳng, nhưng từng nét vẽ lại vô cùng đẹp mắt. Nếu được Lorraine chỉ dạy, khéo rồi cũng có ngày tôi làm được như thế. Chắc vậy.
 
-Những khi phải cắm trại một mình, tôi thường nhóm lửa trại mà không dùng tới ma pháp trận. Thông thường tôi làm việc đó bằng cách niệm phép lên một mẩu bùi nhùi, nhưng việc duy trì ngọn lửa cháy liên tục lại tiêu tốn quá nhiều Ma Lực, nhất là vào cái thuở tôi vốn chẳng có lấy bao nhiêu Ma Lực tích trữ trong người. Phương pháp của Lorraine phổ biến hơn trong giới mạo hiểm giả nhờ tầm quan trọng của việc tiết kiệm Ma Lực.
+Những bận phải cắm trại một mình, tôi thường nhóm lửa mà chẳng cần ma pháp trận. Thường thì tôi niệm chú vào một mẩu bùi nhùi, nhưng giữ cho ngọn lửa cháy liên tục tốn rất nhiều Ma Lực, nhất là vào cái thời tôi vốn chẳng có bao nhiêu Ma Lực trong người. Cách của Lorraine phổ biến hơn trong giới mạo hiểm giả, bởi ai cũng phải tiết kiệm Ma Lực.
 
-Dù sao đi nữa, trong lúc tôi mải mê suy nghĩ về tất cả những điều ấy, chúng tôi đã hoàn tất khâu chuẩn bị nấu nướng. Tôi cho các nguyên liệu vào nồi rồi bảo Lorraine thi triển ma pháp. Mặt đất liền nhô cao lên và tạo thành hình dáng của một chiếc bếp lò. Tôi đặt chiếc nồi lên trên bếp, rồi Lorraine dùng ma thuật để đổ đầy nước vào nồi. Tôi cũng có thể làm điều tương tự, nhưng tôi e rằng mình có thể lỡ tay làm nước tràn trề ra ngoài nồi, nên tôi lại phó thác việc đó cho Lorraine. Cô rót vào một lượng nước chuẩn xác vừa vặn với nhu cầu, kiểm tra lại những thứ bên trong nồi rồi đậy nắp lại. Một khi nước sôi sùng sục, chúng tôi sẽ có một món hầm tuy làm vội nhưng hương vị lại khá đậm đà ngon miệng. Nếu đem món này phục vụ tại một nhà hàng trong thị trấn thì khó lòng có thể gọi đây là nấu nướng cho đàng hoàng được, nhưng trong lúc cắm trại ngoài trời thì đây đã là một bữa tiệc thịnh soạn lắm rồi.
+Trong lúc tôi mải nghĩ ngợi miên man, cả hai đã chuẩn bị xong xuôi. Tôi trút nguyên liệu vào nồi rồi bảo Lorraine niệm chú. Mặt đất liền đội lên, biến thành một cái bếp lò. Tôi đặt nồi lên trên, Lorraine liền dùng ma pháp rót nước vào. Tôi cũng làm được, nhưng sợ lỡ tay làm nước tràn ra ngoài nên lại nhường cho cô. Cô rót đúng lượng nước cần thiết, ngó lại đồ trong nồi rồi đậy vung. Chỉ cần đun sôi lên là chúng tôi có một nồi thịt hầm nấu vội nhưng cũng khá ngon lành. Ở quán ăn trong thị trấn thì chẳng ai gọi đây là nấu nướng đàng hoàng, nhưng giữa chốn cắm trại hoang vu thì thế này đã là một bữa thịnh soạn lắm rồi.
 
-Một lúc sau, chúng tôi mở nắp nồi để hơi nước phả ra, kèm theo một mùi thơm phức nức mũi. Hai cha con, đôi vợ chồng già và bác tài đều háo hức ngóng trông. Chúng tôi chia từng bát món hầm, kèm theo bánh mì kẹp giăm bông và phô mai làm từ bánh mì lúa mạch đen.
+Một lát sau, chúng tôi mở vung. Hơi nước bốc lên nghi ngút kèm theo mùi thơm nức mũi. Hai cha con, đôi vợ chồng già và bác tài ai nấy đều háo hức ngóng chờ. Chúng tôi múc từng bát thịt hầm đưa cho mọi người, kèm theo bánh mì lúa mạch đen kẹp giăm bông và phô mai.
 
-"Được rồi, chúng ta cùng ăn nhé?" Lorraine nói, và tất cả chúng tôi bắt đầu thưởng thức.
+"Được rồi, ăn thôi nhỉ?" Lorraine nói, rồi mọi người cùng bắt đầu dùng bữa.
 
-Đôi vợ chồng già cầu nguyện trước khi dùng bữa, nhưng tôi không thể nghe rõ họ nói những gì. Đó có lẽ là lời cầu nguyện từ một tôn giáo địa phương nào đó. Khi rời xa nền văn minh, người ta sẽ bắt gặp những ngôi làng tôn thờ đủ loại thần linh kỳ lạ. Tôi chẳng hề phán xét họ vì điều ấy, cũng không nghĩ ngợi gì nhiều ngoài việc thầm cảm thán trước đức tin sâu sắc của họ. Thậm chí bản thân tôi còn chẳng biết ngôi đền ở làng mình là để thờ vị thần nào nữa là.
+Đôi vợ chồng già cầu nguyện trước khi ăn, nhưng tôi nghe không rõ họ nói gì. Đó có lẽ là lời cầu nguyện theo một tín ngưỡng địa phương nào đó. Khi rời xa những chốn văn minh, ta sẽ thấy nhiều ngôi làng thờ phụng đủ thứ thần linh kỳ lạ. Tôi chẳng hề chê bai họ, cũng không nghĩ ngợi gì nhiều ngoài việc thầm cảm thán trước lòng thành kính của họ. Đến cả ngôi đền ở làng mình thờ vị thần nào tôi còn chẳng rõ nữa là.
 
-Món hầm được mọi người đón nhận rất nhiệt tình, nhiệt tình tới mức cả nhóm sẵn lòng trả tiền ăn cho chúng tôi trong suốt quãng đường còn lại đến đích. Vốn dĩ ban đầu chúng tôi mua ngần ấy thức ăn cũng vì mục đích đó, nên chuyện này chẳng hề khiến chúng tôi phiền lòng. Chiếc túi ma thuật của tôi có đủ không gian để nhét vừa cả một con Tarasque khổng lồ, thế nên việc tích trữ lượng lương thực đủ dùng trong một tuần cho sáu con người chỉ là chuyện quá đỗi đơn giản.
+Món thịt hầm được mọi người tấm tắc khen ngợi, đến mức cả nhóm sẵn lòng bao trọn tiền ăn của chúng tôi trong suốt chặng đường còn lại. Ban đầu chúng tôi mua nhiều đồ ăn cũng vì tính trước chuyện này, nên cả hai đều thấy ổn. Túi ma thuật của tôi nhét vừa cả một con Tarasque khổng lồ, nên trữ thức ăn một tuần cho sáu người chỉ là chuyện nhỏ.
 
-Khi bữa tối kết thúc cũng là lúc phải canh chừng quái vật. Khu vực này tương đối an toàn, nhưng không hẳn là hoàn toàn sạch bóng hiểm nguy. Lực lượng canh gác là điều tối cần thiết. Trong trường hợp này chỉ có duy nhất một bác tài, thế nên những hành khách dồi dào thể lực nhất sẽ phải thay phiên nhau đứng gác. Điều đó đồng nghĩa với việc tôi, Lorraine và người đàn ông trung niên sẽ nhận nhiệm vụ này. Thành thực mà nói, tôi là người thích hợp nhất cho công việc nhờ vào việc chẳng cần phải ngủ nghê gì, nhưng tôi lại không thể bộc bạch ra rằng mình là một Undead, nên người đánh xe cùng những người còn lại chúng tôi đã định kỳ đổi ca cho nhau. Đầu tiên là người đánh xe, kế đến là người đàn ông trung niên, sau đó tới Lorraine và cuối cùng là tôi. Tôi chỉ chợp mắt một thoáng ngắn ngủi trong ca trực của người đánh xe, còn lại thì thức suốt thời gian sau đó. Tôi và Lorraine trò chuyện rôm rả bên đống lửa trại cho đến khi có thứ gì đó thu hút sự chú ý của hai chúng tôi.
+Ăn tối xong xuôi cũng là lúc phải đề phòng quái vật. Quanh đây tương đối an toàn nhưng không phải là sạch bóng hiểm nguy, nên việc cắt cử người gác đêm là rất cần thiết. Chuyến này chỉ có một bác tài, nên những hành khách khỏe khoắn nhất phải thay phiên nhau canh gác. Tức là tôi, Lorraine và người đàn ông trung niên. Nói thật, nhờ không cần ngủ nên tôi là người thích hợp nhất cho việc này, ngặt nỗi tôi đâu thể bô bô mình là Undead, nên bác tài và ba chúng tôi cứ định kỳ đổi ca cho nhau. Đầu tiên là bác tài, kế đến là người đàn ông trung niên, tiếp theo là Lorraine và cuối cùng là tôi. Tôi chỉ chợp mắt một lát vào ca trực của bác tài, còn lại thì thức suốt. Tôi với Lorraine ngồi trò chuyện bên đống lửa cho đến khi có thứ thu hút sự chú ý của hai đứa.
 
-"Tôi nghĩ chúng ta có khách không mời mà đến rồi đấy," Lorraine thì thầm.
+"Hình như chúng ta có khách không mời mà đến rồi," Lorraine thì thầm.
 
-Tôi cảm nhận được có ai đó đang lẩn khuất trong cánh rừng phía sau lưng chúng tôi.
+Tôi cảm nhận được có ai đó đang lẩn khuất trong cánh rừng sau lưng.
 
 ◆◇◆◇◆
 
-Chúng tôi nhìn đăm đăm vào cánh rừng cho tới khi nhận diện được chúng là thứ gì.
+Chúng tôi căng mắt nhìn vào cánh rừng cho tới khi nhận rõ chúng là thứ gì.
 
-"Trông chúng chẳng giống người sống. Nói đúng hơn thì giống tàn tích của con người hơn," Lorraine lẩm bẩm với giọng xót xa.
+"Trông chúng không giống người sống. Đúng hơn thì giống những cái xác tàn tạ của con người," Lorraine lẩm bẩm với giọng xót xa.
 
-"Cái chết kéo dài vài thập kỷ chẳng có nhiều ý nghĩa đối với Undead. Có chăng là đối với những kẻ cần phải tiêu thụ thứ gì đó để duy trì sự tồn tại như tôi, chứ với lũ này thì không."
+"Chết vài chục năm thì với Undead cũng chẳng thấm vào đâu. Họa chăng loại cần ăn uống gì đó để duy trì sự sống như tôi thì mới bận tâm, chứ lũ này thì không."
 
-"Đúng vậy."
+"Ừ."
 
-Đó là những con Zombie.
+Đó là Zombie.
