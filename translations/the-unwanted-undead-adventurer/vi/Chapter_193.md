@@ -2,160 +2,160 @@
 
 "Sao cô bé lại biết chuyện đó?" tôi hỏi.
 
-Có lẽ Laura không thực sự biết mà chỉ đang gài để moi câu trả lời từ tôi chăng. Nếu vậy thì chính câu hỏi vừa rồi của tôi đã là một sự thừa nhận, nhưng dù sao tôi cũng chẳng có ý định giấu giếm chuyện về Edel làm gì. Bản thân Laura cũng làm được điều tương tự, nên việc cô bé có biết hay không có lẽ cũng chẳng khác biệt là bao. Huống hồ cô bé còn có thể giúp người khác nhìn qua đôi mắt của loài vật, điều vượt trội hơn nhiều so với những gì tôi làm được. Thật khó để tôi có thể bắt bẻ hay phàn nàn gì về cô bé.
+Có khi Laura chẳng biết gì mà chỉ buông câu dò hỏi thôi. Nếu thế thì câu hỏi vừa rồi của tôi coi như tự nhận rồi còn gì, nhưng dù sao tôi cũng đâu định giấu chuyện về Edel. Chính Laura cũng làm được điều tương tự, nên cô bé biết hay không cũng chẳng khác gì nhau. Huống hồ cô bé còn có thể chia sẻ tầm nhìn của động vật cho người khác, vượt xa những gì tôi làm được. Tôi còn bắt bẻ cô bé nỗi gì nữa.
 
-Vả lại, nếu Laura muốn hãm hại tôi, chắc hẳn cô bé đã khiến tôi không còn đất dung thân ở Maalt từ lâu rồi. Bình thường tôi không hay nghĩ ngợi về chuyện này bởi cô bé đối xử với tôi rất tốt, nhưng với tầm ảnh hưởng sâu rộng tại Maalt, trên thực tế cô bé chẳng khác nào lãnh chúa của nơi này. Nếu cô bé thực sự muốn làm gì tôi, cô bé đã tống cổ tôi ra khỏi thị trấn rồi. Đó là lý do khiến tôi có cái nhìn lạc quan về ý đồ của cô bé.
+Vả lại, nếu Laura muốn hại tôi thì cô bé đã khiến tôi hết đường sống ở Maalt từ lâu rồi. Bình thường tôi chẳng mấy khi để ý vì cô bé đối xử với tôi rất tốt, nhưng tầm ảnh hưởng của cô bé ở Maalt lớn đến mức chẳng khác nào lãnh chúa vùng này. Nếu thực sự muốn ra tay với tôi, cô bé đã tống cổ tôi khỏi thị trấn rồi. Thế nên tôi hoàn toàn có thể tin tưởng vào ý tốt của cô bé.
 
-"Giải thích chuyện đó sẽ mất khá nhiều thời gian, nên sau khi giải quyết xong xuôi mớ rắc rối này tôi sẽ kể cho ngài nghe nhé," Laura nói. "Dù sao thì, xin ngài hãy nhìn xuống phía dưới đi. Tôi biết ngài có thể bao quát toàn bộ Maalt, nhưng ngài có nhận ra điều gì bất thường không?"
+"Chuyện đó giải thích hơi dài dòng, để giải quyết xong xuôi mọi chuyện rồi tôi kể cho ngài nghe nhé," Laura nói. "Còn bây giờ, ngài nhìn xuống dưới xem. Tôi biết ngài có thể quan sát toàn bộ Maalt, nhưng ngài có nhận ra điều gì lạ không?"
 
-Tôi hoàn toàn có thể gặng hỏi tiếp, nhưng chúng tôi không có thời gian để lãng phí. Nếu cô bé đã bằng lòng giải thích sau, tôi cũng sẵn sàng tạm gác chuyện đó lại. Tôi làm theo lời Laura và dõi mắt nhìn xuống Maalt.
+Tôi có thể gặng hỏi tiếp, nhưng lúc này chẳng có thì giờ đâu mà lần lữa. Cô bé đã hứa kể sau thì tôi cũng tạm gác lại. Tôi làm theo lời Laura, nhìn xuống Maalt.
 
-"Kia là ma pháp trận sao?" tôi hỏi. Vài khu vực dưới mặt đất Maalt đang phát ra ánh sáng lờ mờ. Nhìn tổng thể lại, chúng dường như đang tạo thành một ma pháp trận khổng lồ.
+"Kia là ma pháp trận sao?" tôi hỏi. Dưới mặt đất thị trấn Maalt có những mảng phát ra ánh sáng lờ mờ. Nhìn tổng thể, những vệt sáng ấy dường như đang tạo thành một ma pháp trận khổng lồ.
 
-"Đúng vậy, và đây là một ma pháp trận cổ đại. Nó lớn hơn và hiệu quả hơn nhiều so với các biến thể thời nay. Tôi không ngờ vẫn còn có người biết đến loại ma pháp trận này đấy."
+"Đúng vậy, đây là một ma pháp trận cổ đại. Nó lớn hơn và hiệu quả hơn nhiều so với ma pháp trận thời nay. Tôi không ngờ đến tận bây giờ vẫn còn người biết về loại ma pháp trận này đấy."
 
-"Những gì đang diễn ra ở Maalt là hậu quả của một ma pháp diện rộng sao? Cái giá phải trả để thi triển thứ này hẳn phải vô cùng đắt đỏ," Lorraine nói, giọng cô nghe như thể phát ra từ hư không. Cảm giác nghe thấy tiếng một người ở ngay gần mà lại không nhìn thấy mặt mũi đâu thật quái lạ. Tôi cần phải làm quen với chuyện này thôi.
+"Chuyện đang xảy ra ở Maalt là do ma pháp diện rộng gây ra sao? Thi triển thứ này hẳn phải tốn kém khủng khiếp," Lorraine cất tiếng, giọng cô như vọng ra từ hư không. Nghe tiếng một người ở ngay sát bên mà không thấy mặt mũi đâu quả là kỳ quặc. Xem ra tôi phải tập quen dần thôi.
 
-"Đúng vậy," Laura đáp lời. "Tôi tin là mọi người đều biết cái giá đó là gì rồi. Những con người bị biến thành Thi Quỷ, máu của các vật tế đó, và khi chừng ấy vẫn chưa đủ..."
+"Đúng thế," Laura đáp. "Tôi tin mọi người đều rõ cái giá ấy là gì rồi. Những người bị biến thành Thi Quỷ, máu của những vật tế đó, và khi chừng ấy vẫn chưa đủ..."
 
-"Shumini đã hy sinh chính mình để bù đắp vào phần còn thiếu," Isaac ủ rũ nói.
+"Shumini đã hiến tế chính bản thân để bù đắp phần còn thiếu," Isaac trầm giọng nói.
 
-"Tôi đoán gã cũng đã sử dụng rất nhiều Ma Tinh và ma cụ nữa. Việc kích hoạt ma pháp này khó khăn đến mức ấy đấy. Nhưng thật không may, gã đã làm được."
+"Tôi đoán gã còn dùng rất nhiều Ma Tinh và ma cụ nữa. Kích hoạt ma pháp này gian nan đến thế cơ mà. Ngặt nỗi gã lại làm được mất rồi."
 
-Nếu bỏ qua sự tà ác của hành vi này, người ta có thể gọi đó là một thành tựu vĩ đại. Nhưng tôi chẳng thể nào đánh giá cao bất kỳ ma pháp nào biến cư dân trong thị trấn thành quái vật cả.
+Nếu bỏ qua việc làm tàn độc này thì đây đúng là một kỳ tích. Nhưng tôi chẳng tài nào khen nổi một ma pháp biến người dân trong thị trấn thành quái vật.
 
-"Nhưng rốt cuộc thì Shumini làm chuyện này để đạt được điều gì cơ chứ?" tôi hỏi.
+"Nhưng rốt cuộc Shumini làm trò này để được cái gì chứ?" tôi hỏi.
 
 "Gã muốn phá hủy Maalt sao?"
 
-Laura lắc đầu. "Tôi đoán là không. Tác dụng của ma pháp này, nói một cách đơn giản, là tạo ra một mê cung. Nhiều khả năng gã muốn trở thành Chủ Nhân Mê Cung của nơi đó."
+Laura lắc đầu. "Tôi đoán là không. Tác dụng của ma pháp này, nói đơn giản thì là tạo ra một mê cung. Hẳn là gã muốn làm Chủ Nhân Mê Cung của nơi đó."
 
-"Gã tạo ra một mê cung ư?!" Lorraine thốt lên kinh ngạc. "Ma pháp có thể làm được chuyện đó sao? Điều đó mà cũng khả thi à?"
+"Gã tạo ra một mê cung ư?!" Lorraine kêu lên kinh ngạc. "Ma pháp làm được cả chuyện đó sao? Chuyện như thế mà cũng có thể à?"
 
-"Có rất nhiều chủng loại mê cung, nhưng loại chúng ta thấy ở đây được tạo ra bằng ma pháp. Chúng chắc chắn tồn tại, vì vậy chúng ta buộc phải chấp nhận rằng điều đó là khả thi."
+"Có rất nhiều loại mê cung, nhưng loại chúng ta thấy ở đây được tạo ra bằng ma pháp. Loại này chắc chắn có thật, nên chúng ta đành phải chấp nhận là chuyện này hoàn toàn có thể thôi."
 
-"Nhưng tại sao thị dân lại bị biến thành quái vật?" tôi hỏi. "Tôi cứ nghĩ quái vật trong mê cung là do được triệu hồi, hoặc chúng xuất hiện một cách tự nhiên chứ."
+"Nhưng tại sao người dân lại bị biến thành quái vật?" tôi hỏi. "Tôi cứ nghĩ quái vật trong mê cung là do triệu hồi ra, hoặc tự nhiên sinh ra chứ."
 
-"Điều đó đúng với những mê cung đã hoàn thiện. Tuy nhiên, như chúng ta vừa nói, ma pháp này đòi hỏi cái giá rất đắt. Shumini nhiều khả năng đã trả cái giá nhiều nhất trong khả năng của gã, nhưng chừng đó vẫn chưa đủ. Dẫu vậy ma pháp vẫn đã được kích hoạt, và mê cung đang hấp thụ phần còn thiếu từ môi trường xung quanh nó. Trên thực tế, tôi dám cược rằng Shumini biết rõ điều này sẽ xảy ra nhưng vẫn cứ kích hoạt ma pháp. Mọi người nhìn xem."
+"Điều đó đúng với những mê cung đã hoàn thiện. Có điều như đã nói, cái giá của ma pháp này rất đắt. Shumini chắc đã dốc hết những gì gã có để trả, nhưng vẫn không thấm vào đâu. Dù vậy ma pháp vẫn phát động, và mê cung đang rút nốt phần còn thiếu từ vạn vật xung quanh. Thậm chí tôi dám cược là Shumini thừa biết chuyện này sẽ xảy ra nhưng vẫn cứ kích hoạt ma pháp. Mọi người nhìn kìa."
 
-Laura điều khiển chú chim bay thấp xuống. Một tia chớp lóe lên ngăn không cho nó sà xuống quá sâu. Kế tiếp, chú chim thử bay quanh Maalt để tìm đường vào bên trong, nhưng từ mọi hướng và ở bất kỳ độ cao nào, một bức tường vô hình đều đánh bật nó ra.
+Laura cho chú chim sà xuống thấp hơn. Một tia sáng như sấm sét lóe lên, cản không cho nó xuống quá sâu. Tiếp đó chú chim thử lượn quanh Maalt tìm đường vào trong, nhưng từ mọi hướng và ở bất kỳ độ cao nào, nó đều bị một bức tường vô hình đánh bật ra.
 
-"Đây là thứ gì thế?" tôi hỏi.
+"Cái này là gì thế?" tôi hỏi.
 
-"Ma pháp mê cung ngăn không cho bất kỳ ai ra vào," Laura nói.
+"Ma pháp mê cung chặn không cho ai ra vào cả," Laura nói.
 
-"Ít nhất là cho đến khi mê cung được hoàn thành."
+"Ít nhất là chừng nào mê cung chưa hoàn thành."
 
-Khi chú chim bay quanh Maalt, tôi trông thấy nhiều người đang va rầm rầm vào bức tường vô hình để cố gắng lọt vào trong. Trong số họ có một gương mặt quen thuộc.
+Khi chú chim lượn quanh Maalt, tôi thấy có người đang lao rầm rầm vào bức tường vô hình để cố lọt vào trong. Trong số đó có một gương mặt quen quen.
 
-"Mãi mới về tới nơi, thế mà giờ lại có cái bức tường quái quỷ nào chắn đường thế này!" cô gái ấy gào lên.
+"Khó khăn lắm mới về tới nơi, thế mà lại có bức tường quái quỷ nào chắn đường thế này!" cô ấy hét lên.
 
-"Rentt! Tôi tới ngay đây! Đừng có hạ gục tên Ma Cà Rồng mà không có tôi đấy nhé!"
+"Rentt! Tôi vào ngay đây! Đừng có diệt tên Ma Cà Rồng mà không đợi tôi đấy nhé!"
 
-Trông cô ấy giống một mạo hiểm giả Kim Cấp mà tôi quen biết, nhưng có lẽ do tôi tưởng tượng chăng. Đùa chút thôi, đó chính là Nive, và ngay cả cô ấy cũng chẳng thể phá vỡ bức tường. Đó hẳn phải là một kết giới vô cùng đáng sợ.
+Trông cô ấy giống hệt một mạo hiểm giả Kim Cấp mà tôi quen, nhưng khéo lại do tôi tưởng tượng thôi. Đùa đấy, chính là Nive, và ngay cả cô ấy cũng không sao phá nổi bức tường kia. Rào chắn này hẳn phải đáng sợ lắm.
 
-"Chúng ta phải làm gì đây? Liệu có thể chặn đứng ma pháp bằng cách tiêu diệt con quái vật do Shumini biến thành không?" tôi hỏi.
+"Giờ phải làm sao đây? Liệu tiêu diệt con quái vật do Shumini biến thành có chặn đứng được ma pháp không?" tôi hỏi.
 
-Một quy tắc cơ bản của ma pháp chỉ ra rằng nếu thiếu người thi triển để duy trì sự ổn định của Ma Lực, ma pháp sẽ thất bại. Điều đó có thể đồng nghĩa với việc ma pháp không được kích hoạt, kích hoạt sai lệch, hoặc một ma pháp hoàn toàn khác sẽ được phóng ra. Dù rơi vào trường hợp nào đi nữa thì nó cũng sẽ không vận hành đúng như dự tính.
+Quy tắc cơ bản của ma pháp là nếu không có người thi triển duy trì sự ổn định của Ma Lực thì ma pháp sẽ thất bại. Khi ấy ma pháp có thể không phát động được, phát động sai lệch, hoặc biến thành một ma pháp hoàn toàn khác. Đằng nào thì nó cũng không thể vận hành như ý muốn ban đầu.
 
-"Một khi ma pháp này đã được kích hoạt, nó sẽ tự động vận hành cho đến khi hoàn tất," Laura nói. "Giết chết kẻ thi triển cũng chẳng thay đổi được điều đó đâu."
+"Một khi ma pháp này đã phát động, nó sẽ tự động tiếp diễn cho đến khi hoàn tất," Laura nói. "Giết kẻ thi triển cũng chẳng thay đổi được gì đâu."
 
-Nghe chừng như không có cách nào ngăn chặn được nó cả. Tôi sợ rằng đây chính là ngày tàn của Maalt.
+Nghe như thể chẳng có cách nào ngăn lại được. Tôi chỉ sợ đây là ngày tàn của Maalt.
 
-"Nhưng điều đó không có nghĩa là vô phương cứu chữa," Laura tiếp tục. "Mỗi một mê cung đều có một thứ gọi là lõi."
+"Nhưng thế không có nghĩa là hết cách," Laura nói tiếp. "Mê cung nào cũng có một thứ gọi là lõi."
 
-"Vậy chỉ cần phá hủy thứ đó là được sao?" tôi đoán.
+"Vậy chỉ cần phá hủy nó là xong à?" tôi đoán thử.
 
-"Xin ngài đừng vội manh động. Tuyệt đối không được phá hủy nó. Thay vào đó, chúng ta phải đoạt lấy quyền kiểm soát nó. Làm vậy sẽ ngăn mê cung tiếp tục bành trướng, chấm dứt mớ hỗn loạn này."
+"Ngài đừng vội thế chứ. Tuyệt đối không được phá hủy nó đâu. Đúng hơn là chúng ta phải chiếm quyền kiểm soát. Như vậy mê cung sẽ ngừng bành trướng, chấm dứt tình trạng hỗn loạn này."
 
-"Thứ đó có thể kiểm soát được sao?" Trước đây tôi chưa từng nghe nói về Lõi Mê Cung bao giờ, và tôi cũng chẳng mảy may biết làm thế nào người ta có thể điều khiển một thứ như thế.
+"Kiểm soát được sao?" Tôi chưa từng nghe nói về Lõi Mê Cung bao giờ, càng không biết làm cách nào để điều khiển một thứ như vậy.
 
-"Có thể chứ. Ngài phải tiêu diệt kẻ đang kiểm soát chiếc lõi và chạm vào nó để trở thành chủ sở hữu mới."
+"Được chứ. Chỉ cần tiêu diệt kẻ đang kiểm soát chiếc lõi rồi chạm vào nó để trở thành chủ nhân mới thôi."
 
-"Và hiện tại nó đang nằm dưới sự kiểm soát của Shumini sao?" Lorraine hỏi.
+"Và hiện tại Shumini đang nắm quyền kiểm soát nó à?" Lorraine hỏi.
 
-"Rất có thể là vậy. Gã là người đã sử dụng ma pháp mê cung, nên tôi không thấy có lý do gì để gã trao quyền kiểm soát cho bất kỳ ai khác."
+"Nhiều khả năng là vậy. Gã là người dùng ma pháp mê cung, chẳng có lý do gì gã lại trao quyền kiểm soát cho người khác cả."
 
-Đúng là Shumini đã bày mưu tính kế rất nhiều vì chuyện này. Nhưng nó cũng đã biến gã thành sinh vật kỳ dị kia, nên tôi vẫn có chút nghi hoặc. Dù vậy, gã quả thực từng nói muốn phó thác mọi sự cho Isaac. Có lẽ điều đó cũng không lạ lẫm cho lắm, nhưng tôi không chắc liệu đây có phải là kế hoạch của gã hay không. Dù thế nào đi nữa, tôi cũng phải tạm gác chuyện đó sang một bên.
+Đúng là Shumini đã dày công bày mưu tính kế cho chuyện này. Có điều nó cũng biến gã thành sinh vật quái dị kia, nên tôi vẫn thấy gợn gợn. Dù sao thì trước đó gã có nói muốn giao phó mọi chuyện cho Isaac. Nghĩ thế thì cũng chẳng lạ, nhưng tôi không dám chắc đây có đúng là kế hoạch của gã hay không. Đằng nào thì lúc này cũng đành gác chuyện đó lại đã.
 
-Tôi nảy ra một ý tưởng và liền hỏi Laura. "Sẽ thế nào nếu chúng ta bắt đại một con Puchi Suri nào đó rồi biến nó thành chủ nhân mới?"
+Tôi nảy ra một ý nên hỏi Laura luôn: "Hay là chúng ta bắt đại một con Puchi Suri nào đó làm chủ nhân mới đi?"
 
-Shumini vốn khá điên rồ, nên cũng có khả năng gã từng tính đến chuyện để một con Puchi Suri cưng làm Chủ Nhân Mê Cung chăng. Chà, có lẽ thực sự chẳng có khả năng nào như thế đâu. Nhưng gác chuyện đùa sang một bên, nếu Chủ Nhân Mê Cung là một thứ gì đó khó lòng bị phát hiện, sẽ chẳng ai khác có thể tiếp quản được mê cung. Đối với tôi thì nghe đó cũng là một ý tưởng hợp lý.
+Shumini vốn khá điên cuồng, biết đâu gã lại từng nghĩ tới chuyện biến một con Puchi Suri nuôi trong nhà thành Chủ Nhân Mê Cung cũng nên. Mà thôi, chắc chẳng có chuyện đó đâu. Đùa chút vậy chứ nếu Chủ Nhân Mê Cung là thứ gì đó khó bị phát hiện thì sẽ chẳng ai chiếm lại mê cung được. Tôi thấy ý này cũng có lý đấy chứ.
 
-"Không phải bất kỳ ai cũng có thể kiểm soát Lõi Mê Cung đâu," Laura nói. "Những điều kiện cụ thể cần thiết phụ thuộc vào quy mô của mê cung, nhưng đây là một mê cung tương đối lớn, vì vậy một con người bình thường khó lòng mà kiểm soát nổi. Tôi nghĩ Shumini không còn lựa chọn nào khác ngoài việc tự mình làm chủ nhân. Nếu có ai khác sở hữu sức mạnh tương đương thì lại là chuyện khác, nhưng tôi không nghĩ là có, xét đến việc gã từng hy vọng dựa dẫm vào Isaac."
+"Không phải ai cũng điều khiển được Lõi Mê Cung đâu," Laura nói. "Yêu cầu cụ thể thế nào còn tùy vào quy mô của mê cung, nhưng nơi này tương đối lớn nên một người bình thường khó lòng gánh nổi. Tôi nghĩ Shumini chẳng còn cách nào khác ngoài việc tự mình làm chủ nhân. Nếu có kẻ khác mạnh tương đương thì câu chuyện đã khác, nhưng gã đã phải trông cậy vào anh Isaac thì chắc chẳng còn ai đâu."
 
-"Và nếu đây là một mê cung đủ nhỏ để một con Puchi Suri có thể kiểm soát, thì dẫu cho Shumini có chọn dùng một con đi chăng nữa cũng chẳng phải là vấn đề đối với chúng ta. Đánh bại con Puchi Suri đó rồi thay thế nó sẽ rất đơn giản, tương tự như những gì chúng ta đang cố làm lúc này. Tuy nhiên, một thực thể mạnh hơn con Puchi Suri hoàn toàn có thể chỉ cần chạm vào chiếc lõi là đã ghi đè được quyền kiểm soát của nó rồi. Thế nhưng Chủ Nhân Mê Cung phải yếu hơn ngài rất nhiều thì cách đó mới phát huy tác dụng, chưa kể nó còn có thể dẫn đến đủ loại rắc rối về sau. Với việc Shumini là Chủ Nhân Mê Cung, chuyện đó sẽ đặc biệt khó khăn."
+"Mà giả sử mê cung này đủ nhỏ để một con Puchi Suri kiểm soát được, thì dù Shumini có chọn cách đó cũng chẳng làm khó được chúng ta. Đánh bại con Puchi Suri ấy rồi thay thế nó thì quá đơn giản, giống như việc chúng ta đang định làm bây giờ vậy. Có điều, một kẻ mạnh hơn Puchi Suri chỉ cần chạm vào chiếc lõi là có thể ghi đè quyền kiểm soát. Nhưng cách đó chỉ hiệu quả khi Chủ Nhân Mê Cung yếu hơn ngài rất nhiều, chưa kể về sau còn nảy sinh đủ thứ rắc rối. Giờ Shumini đang là Chủ Nhân Mê Cung thì chuyện đó lại càng khó."
 
-Có rất nhiều chi tiết trong lời giải thích đó, nhưng dường như điểm mấu chốt là chúng tôi có thể tìm ra cách giải quyết miễn sao đánh bại được Shumini. Mục tiêu của chúng tôi vẫn y nguyên như trước. Dẫu vậy, nếu không biết điều này, chúng tôi hẳn đã hoang mang không hiểu vì sao đánh bại Shumini rồi mà mọi chuyện vẫn chưa được giải quyết. May mắn thay là Laura đã nói cho chúng tôi biết trước.
+Thông tin thì nhiều, nhưng tóm lại là chỉ cần hạ được Shumini thì kiểu gì cũng có cách giải quyết. Mục tiêu của chúng tôi vẫn chẳng có gì thay đổi. Nhưng nếu không biết trước chuyện này, có khi đánh bại Shumini xong thấy tình hình chưa êm xuôi thì chúng tôi lại phát hoang mang. Cũng may là Laura đã nói cho cả nhóm biết.
 
-"Giờ thì đã rõ chúng ta phải làm gì rồi," tôi nói. "Xem ra đã đến lúc đi gặp Shumini." Isaac và Lorraine cùng gật đầu.
+"Giờ thì rõ việc phải làm rồi," tôi nói. "Đến lúc đi gặp Shumini thôi nhỉ." Isaac và Lorraine gật đầu đồng tình.
 
-"Tôi sẽ đi cùng mọi người, nếu mọi người không phiền," Laura nói. "Tôi hứa sẽ không trở thành gánh nặng đâu."
+"Nếu mọi người không phiền thì cho tôi đi cùng với nhé," Laura nói. "Tôi hứa sẽ không làm vướng chân ai đâu."
 
-Tôi chẳng thể hình dung nổi cô bé sẽ chiến đấu hiệu quả ra sao trong bộ váy đầm ấy. Dẫu vậy, cô bé quả thực biết rất nhiều điều. Kiến thức của cô bé vượt xa một con người bình thường. Huống hồ, cô bé còn là chủ nhân của Isaac. Chắc hẳn cô bé hoàn toàn có lý khi nói mình sẽ không trở thành gánh nặng. Phong thái điềm đạm và lễ phép ấy hẳn chỉ là vỏ bọc bên ngoài mà thôi.
+Tôi chẳng thể hình dung nổi mặc cái váy đầm ấy thì cô bé đánh đấm kiểu gì. Dù vậy, cô bé biết nhiều thật. Hiểu biết của cô bé vượt xa người bình thường. Huống hồ cô bé còn là chủ nhân của Isaac, nên việc cô bé bảo sẽ không làm vướng chân chắc chắn là thật. Vẻ ngoài hiền lành, lễ phép kia ắt hẳn chỉ là lớp ngụy trang thôi.
 
-"Tiểu thư mạnh hơn tôi rất nhiều," Isaac nói, khẳng định thêm cho mối hoài nghi của tôi. Điều đó đồng nghĩa với việc cô bé mạnh hơn tôi cả một bậc trời vực, thế nên tôi chẳng còn gì để phàn nàn.
+"Tiểu thư mạnh hơn tôi rất nhiều," lời của Isaac càng khẳng định mối nghi ngờ của tôi. Nghĩa là cô bé mạnh hơn tôi cả một trời một vực, thế thì tôi còn phàn nàn gì được nữa.
 
-Nghĩ lại thì, Lorraine và Nive cũng đều rất mạnh. Cảm giác như ở Maalt, phụ nữ mạnh mẽ hơn là chuyện đương nhiên thì phải. Điều đó có phần khiến chặng đường làm mạo hiểm giả của tôi trở thành một cuộc chiến đầy gian nan, nhưng tôi đành phải chấp nhận sự thật. Ở Maalt có khoảng hơn chục câu tục ngữ dạy rằng chớ có làm trái ý phụ nữ, nên có lẽ đây vốn là tập tục ở nơi này chăng.
+Nghĩ lại thì Lorraine với Nive cũng mạnh gớm. Cứ như ở Maalt này, phụ nữ mạnh hơn đàn ông là chuyện hiển nhiên vậy. Là một mạo hiểm giả, điều đó làm cho cuộc đời tôi trắc trở thêm bội phần, nhưng biết làm sao được, sự thật rành rành ra đấy. Ở Maalt có dễ đến cả chục câu tục ngữ khuyên chớ dại làm trái ý phụ nữ, có khi ở đây thành lệ mất rồi cũng nên.
 
-"Vậy chúng ta cùng đi thôi," tôi nói. "Cô thấy thế nào, Lorraine?"
+"Vậy cùng đi nhé," tôi nói. "Cô thấy sao, Lorraine?"
 
-Lorraine nhún vai. "Được chứ, thế vẫn tốt hơn nhiều so với việc trong nhóm toàn mấy gã đàn ông hôi hám."
+Lorraine nhún vai: "Được thôi, còn hơn là cả nhóm chỉ toàn mấy gã đàn ông bốc mùi."
 
-Tôi đâu nghĩ hai người bọn tôi lại hôi hám đến mức ấy. Isaac là một người đàn ông khá điển trai. Còn tôi thì có thể bị coi là kẻ đáng ngờ, nhưng chưa đến nỗi "hôi hám". Chà, dù sao cô ấy cũng chỉ đang nói đùa thôi.
+Tôi đâu thấy hai chúng tôi bốc mùi đến thế. Isaac trông bảnh bao thế kia cơ mà. Còn tôi thì mang tiếng đáng ngờ thật đấy, nhưng làm gì đến mức "bốc mùi". Cơ mà thôi, cô ấy chỉ nói đùa ấy mà.
 
-"Cảm ơn mọi người đã cho tôi đi cùng," Laura nói rồi nhún gối chào. Cử chỉ ấy vừa đáng yêu lại vừa tao nhã, nhưng đáng lẽ cô bé lại mạnh hơn cả tôi lẫn Isaac rất nhiều. Tôi phải học cách không trông mặt mà bắt hình dong mới được. Cô bé cũng chẳng mang theo vũ khí nào, nhưng hỏi về chuyện đó thì có vẻ thất lễ quá.
+"Cảm ơn mọi người đã cho tôi đi cùng," Laura nói rồi nhún gối cúi chào. Động tác vừa đáng yêu vừa tao nhã, thế mà cô bé lại mạnh hơn cả tôi lẫn Isaac nhiều. Tôi phải học cách đừng trông mặt mà bắt hình dong thôi. Cô bé cũng chẳng mang theo vũ khí gì, nhưng hỏi chuyện đó thì khiếm nhã quá.
 
 ![](images/ch193-01.webp)
 
-Tôi quyết định sẽ hỏi chi tiết sau, chỉ để lại một câu hỏi quan trọng duy nhất.
+Tôi quyết định để dành mấy chuyện chi tiết hỏi sau, chỉ hỏi nốt một câu quan trọng.
 
-"Nhân tiện thì, Lõi Mê Cung trông như thế nào vậy?" tôi hỏi. Chúng tôi sẽ chẳng thể nào kiểm soát hay phá hủy nó nếu không biết hình dáng của nó ra sao. Dù rằng chúng tôi vốn không được phép phá hủy nó.
+"Nhân tiện, Lõi Mê Cung trông ra làm sao thế?" tôi hỏi. Không biết hình dáng nó thế nào thì làm sao mà kiểm soát hay phá hủy được. Dù chúng tôi đâu được phép phá hủy nó.
 
-Laura lộ vẻ mặt như thể cô bé suýt quên mất chuyện đó. "Có rất nhiều loại, nhưng chúng thường mang hình dạng những quả cầu màu đen. Cũng có những loại hiếm hơn, nhưng nhìn vào ma pháp trận này thì nó sẽ chẳng phải thứ gì quá đặc biệt đâu. Ngài không cần lo lắng về chuyện đó, và nếu nó có là thứ gì đó khó nhận biết hơn thì chỉ cần nhìn thấy là tôi sẽ nhận ra ngay thôi."
+Laura lộ vẻ mặt như thể vừa sực nhớ ra. "Có nhiều loại lắm, nhưng thường thì trông như những quả cầu màu đen. Cũng có những dạng hiếm hơn, nhưng nhìn ma pháp trận này thì chắc chẳng có gì đặc biệt đâu. Ngài không phải lo, còn nếu nó rơi vào dạng khó nhận biết hơn thì chỉ cần nhìn thấy là tôi nhận ra ngay."
 
-Ít nhất thì một quả cầu đen nghe có vẻ không phải thứ tôi sẽ vô tình đập vỡ. Tôi không rõ liệu có phải do cơ thể mới của mình hay không, nhưng dạo gần đây tôi thường xuyên nảy sinh những xung động muốn phá hủy đồ đạc. Tôi quyết định sẽ dành những xung động ấy cho Shumini.
+Ít nhất thì một quả cầu đen nghe có vẻ không phải thứ tôi dễ lỡ tay đập vỡ. Chẳng biết có phải do cơ thể mới này không, nhưng dạo gần đây tôi cứ hay nổi hứng muốn đập phá. Thôi thì tôi đành để dành ham muốn đập phá ấy cho Shumini vậy.
 
-"Vậy chúng ta đi chứ?" tôi hỏi. Những người còn lại trong nhóm cùng gật đầu, và chúng tôi bước vào trong ngôi nhà. Tôi cảm thấy cả đội có phần thiếu tổ chức, nhưng điều đó cũng là dễ hiểu.
-
-◆◇◆◇◆
-
-Chúng tôi đi xuống lòng đất. Thật đáng kinh ngạc, lối đi đã rơi vào tình trạng khác xa so với lúc chúng tôi rời đi trước đó. Lần đầu tiên chúng tôi đi qua đây, nơi này chỉ là một đường hầm ngầm bình thường với sàn lát đá. Nó được xây dựng kiên cố và đã tồn tại qua nhiều năm tháng kể từ khi được kiến thiết. Thế nhưng con đường thẳng tắp khi xưa giờ đây lại ngoằn ngoèo uốn lượn. Nó đầy rẫy những khúc quanh co bất tự nhiên, trên mặt sàn còn gồ lên những khối u lớn. Dù vẫn được làm từ vật liệu nhân tạo, nhưng thỉnh thoảng nó lại nhấp nhô như thể một sinh vật sống. Thậm chí còn có những thứ trông như mạch máu to bằng đường ống dẫn, và khi nhìn kỹ hơn, tôi có thể thấy chúng đang đập thoi thóp.
-
-"Xem chừng không còn nhiều thời gian nữa rồi," Laura nói.
-
-"Ma pháp mê cung đã gây ra chuyện này sao?" Lorraine hỏi khi chúng tôi tiếp tục tiến sâu vào lối đi.
-
-"Phải. Cách thức vận hành của ma pháp này là đối xử với mê cung như một sinh vật sống, và nó sẽ tiếp tục bành trướng nếu chúng ta không chặn nó lại. Đây là một phiên bản đơn giản nhưng cực kỳ nguy hiểm của ma pháp này. Ôi trời, quái vật cũng đã trở nên mạnh hơn rồi."
-
-Lũ quái vật bất thình lình lao ra từ góc ngoặt, và lần này chúng không phải là Goblin hay Slime nữa. Có ba con Lizardman trang bị đồ sắt. Chúng không phải là loài quái vật mạnh mẽ vượt trội, nhưng lại khá nguy hiểm nếu so với lũ Goblin thông thường. Lizardman vốn chỉ xuất hiện từ tầng bốn trở đi trong Mê Cung Tân Nguyệt. Dẫu vậy, việc chúng có tạo thành mối đe dọa cho tổ đội này hay không thì vẫn còn là một dấu hỏi lớn.
-
-Chẳng cần trao đổi một lời, tất cả chúng tôi đều vào thế chuẩn bị chiến đấu. Isaac và tôi lao lên phía trước vung kiếm, chém rách khiên của hai con Lizardman. Khi Lorraine nhìn thấy sơ hở, cô liền bắn ra vài ngọn Thạch Thương, giáng những đòn chí mạng.
-
-Mọi chuyện cho đến lúc này vẫn diễn ra hết sức bình thường, nhưng Laura mới là người xử lý con Lizardman cuối cùng. Khi cô bé giơ lòng bàn tay về phía con quái vật, một khoảng hư không màu đen xuất hiện nơi bụng nó và toàn bộ cơ thể nó bị nén chặt vào bên trong. Xương cốt của nó vỡ vụn rôm rốp và trang bị kim loại kêu răng rắc. Khối cầu tí hon từng là con Lizardman rơi đánh phịch xuống sàn.
-
-"Chúng ta đi tiếp chứ?" Laura nói.
-
-Những gì cô bé vừa làm tương tự như Thần Ma Khí Dung Hợp Thuật của tôi, nhưng để làm được điều đó dù chỉ một lần thôi cũng sẽ ngốn nhiều hơn toàn bộ năng lượng mà tôi có. Thế nhưng Laura lại làm điều ấy trông nhẹ tựa lông hồng. Tôi đã hiểu vì sao Isaac lại bảo cô bé rất mạnh. Tôi muốn hỏi cặn kẽ mọi chuyện, nhưng điều đó có thể đợi đến sau này. Chúng tôi lao nhanh về phía trước, lòng nóng như lửa đốt muốn giải quyết bài toán hóc búa này cho kịp thời gian.
+"Thế chúng ta đi nhé?" tôi hỏi. Cả nhóm gật đầu rồi cùng bước vào trong căn nhà. Cảm giác đội ngũ của chúng tôi hơi lộn xộn một chút, nhưng tình huống này thì cũng đành chịu thôi.
 
 ◆◇◆◇◆
 
-"Có vẻ chúng ta đã tới nơi rồi," Laura nói ngay bên ngoài căn phòng nơi chúng tôi từng đối đầu với Shumini.
+Chúng tôi đi xuống lòng đất. Lối đi ngầm đã đổi khác hoàn toàn so với lúc chúng tôi rời đi, khiến ai nấy đều kinh ngạc. Lúc chúng tôi đi qua đây lần đầu, nơi này chỉ là một đường hầm ngầm bình thường lát sàn đá, xây dựng kiên cố và đứng vững suốt bao năm kể từ ngày xây. Thế nhưng con đường thẳng tắp khi nãy giờ lại ngoằn ngoèo uốn lượn, đầy những khúc quanh kỳ dị, mặt sàn gồ ghề từng khối lớn. Dù vẫn làm bằng vật liệu nhân tạo, nhưng thỉnh thoảng nó lại nhấp nhô như một sinh vật sống. Lại còn có những thứ trông như mạch máu to bằng đường ống dẫn, nhìn kỹ thì thấy chúng đang đập từng nhịp phập phồng.
 
-"Ừm, tôi vẫn nhớ vị trí đại khái của nó," tôi đáp lại. "Lần này đường đi ngoằn ngoèo hơn, nhưng lộ trình nhìn chung vẫn như cũ."
+"Xem ra chúng ta không còn nhiều thời gian đâu," Laura nói.
 
-"Có vẻ là vậy. Ma pháp mê cung sẽ làm thay đổi cấu trúc của mê cung theo thời gian, nên may mắn thay là chúng ta đã không chần chừ quá lâu. Tôi muốn vào trong đó ngay bây giờ, nếu mọi người đã sẵn sàng."
+"Do ma pháp mê cung gây ra đấy à?" Lorraine vừa đi tiếp vừa hỏi.
 
-Bản thân căn phòng có lẽ vẫn giữ nguyên không đổi, nhưng ma pháp đã kiến tạo nên một cánh cửa ở bên ngoài. Nó tương tự như cánh cửa dẫn vào phòng Thống Lĩnh Tầng thường thấy ở bất kỳ mê cung nào. Điểm khác biệt duy nhất là cánh cửa này lòe loẹt hơn và được điểm xuyết nhiều hoa văn trang trí. Có lẽ phòng của Chủ Nhân Mê Cung khác biệt với phòng của Thống Lĩnh Tầng chăng.
+"Vâng. Cơ chế của ma pháp này là biến mê cung thành một sinh vật sống, và nó sẽ không ngừng bành trướng nếu chúng ta không chặn lại. Đây là một dạng thức đơn giản nhưng cực kỳ nguy hiểm của ma pháp này. Ôi chà, quái vật cũng mạnh lên rồi kìa."
 
-"Phải rồi, chúng ta đã đến tận đây," tôi nói. "Đành phải thử một phen thôi."
+Lũ quái vật nhảy bổ ra từ góc ngoặt, và lần này chẳng phải Goblin hay Slime nữa. Đó là ba con Lizardman mang trang bị sắt. Chúng không phải quái vật quá mạnh, nhưng so với Goblin thông thường thì khỏe hơn hẳn. Trong Mê Cung Tân Nguyệt, phải từ tầng bốn trở đi mới thấy Lizardman. Có điều, bảo chúng đe dọa được nhóm này thì e là hơi khó.
 
-"Tôi không biết mình còn bao nhiêu cơ hội khác để tận mắt chứng kiến Chủ Nhân Mê Cung và Lõi Mê Cung ở cự ly gần thế này nữa," Lorraine nói. "Tôi rất mong chờ đấy."
+Chẳng cần nói với nhau lời nào, cả nhóm lập tức vào thế chiến đấu. Isaac và tôi lao lên vung kiếm chém toạc khiên của hai con Lizardman. Thấy sơ hở, Lorraine lập tức phóng ra mấy ngọn Thạch Thương, tung những đòn kết liễu.
 
-"Nếu có thể, tôi muốn tự tay tiễn gã xuống mồ," Isaac nói. "Nhưng tôi sẽ không đòi hỏi mình phải là người tung đòn kết liễu, nên mọi người đừng vì thế mà nương tay."
+Đến đó thì mọi thứ vẫn bình thường, nhưng con Lizardman cuối cùng lại do Laura xử lý. Cô bé chìa lòng bàn tay về phía con quái vật, lập tức một khoảng hư không đen ngòm xuất hiện ngay giữa bụng nó, hút trọn cả cơ thể nó nén lại vào trong. Tiếng xương gãy rôm rốp lẫn tiếng kim loại vỡ vụn vang lên. Cục tròn tí hin từng là con Lizardman rơi đánh cộp xuống sàn.
 
-Tôi vốn đã đắn đo xem liệu có nên nhường cho anh vinh dự đó hay không, nên nghe vậy tôi cũng thấy nhẹ nhõm phần nào. Khi ấy tôi sẽ dễ dàng chiến đấu hơn.
+"Đi tiếp thôi nhỉ?" Laura nói.
 
-Các mạo hiểm giả đôi khi nhường cho mạo hiểm giả khác tung đòn kết liễu vì đủ thứ lý do. Có lẽ cú hạ gục đó sẽ quyết định ai được quyền nhận chiến lợi phẩm của Thống Lĩnh Tầng. Hoặc có khi chỉ đơn thuần là vì lý do cá nhân, như tình huống hiện tại của chúng tôi. Dĩ nhiên, việc đảm bảo cho mọi người đều sống sót vẫn là quan trọng hơn cả, nên không phải lúc nào điều đó cũng khả thi.
+Chiêu cô bé vừa tung ra khá giống Thần Ma Khí Dung Hợp Thuật của tôi, nhưng chỉ một lần thi triển thôi cũng đã vượt quá tổng năng lượng tôi có rồi. Vậy mà Laura làm cứ như không. Giờ thì tôi hiểu tại sao Isaac lại khen cô bé mạnh đến vậy. Tôi muốn hỏi cho ra nhẽ lắm, nhưng đành để sau thôi. Cả nhóm vội vã lao về phía trước, sốt ruột muốn giải quyết mớ rắc rối này cho kịp giờ.
 
-"Vậy thì chúng ta vào thôi," Laura nói khi đặt một tay lên cánh cửa. Chúng tôi nắm chặt vũ khí và hít một hơi thật sâu, mường tượng xem thứ gì đang chờ đợi ở phía bên kia.
+◆◇◆◇◆
+
+"Có vẻ tới nơi rồi," Laura cất tiếng ngay bên ngoài căn phòng mà chúng tôi từng chạm trán Shumini.
+
+"Thì tôi vẫn nhớ đại khái vị trí mà," tôi đáp. "Lần này đường ngoằn ngoèo hơn, nhưng lộ trình nhìn chung vẫn thế."
+
+"Đúng là vậy. Ma pháp mê cung sẽ làm thay đổi cấu trúc mê cung theo thời gian, may mà chúng ta không chần chừ quá lâu. Nếu mọi người đã sẵn sàng thì tôi muốn vào trong ngay bây giờ."
+
+Căn phòng bên trong có lẽ vẫn giữ nguyên, nhưng ma pháp đã dựng thêm một cánh cửa ở bên ngoài. Trông nó chẳng khác gì cửa phòng Thống Lĩnh Tầng ở các mê cung khác, chỉ có điều cánh cửa này lòe loẹt hơn và đính đầy hoa văn trang trí. Biết đâu phòng của Chủ Nhân Mê Cung lại khác với phòng Thống Lĩnh Tầng cũng nên.
+
+"Ừ, đã đến tận đây rồi," tôi nói. "Đành liều một phen vậy."
+
+"Chẳng biết đời này còn mấy dịp được tận mắt nhìn thấy kẻ thống trị mê cung với Lõi Mê Cung ở cự ly gần thế này nữa," Lorraine nói. "Tôi mong chờ lắm đấy."
+
+"Nếu được, tôi muốn tự tay tiễn gã xuống mồ," Isaac nói. "Nhưng tôi không đòi phải là người tung đòn dứt điểm đâu, mọi người đừng vì thế mà nương tay."
+
+Tôi vốn đang tính xem có nên nhường vinh dự đó cho anh ấy không, nên nghe vậy cũng thấy nhẹ cả người. Như thế thì lúc đánh nhau tôi sẽ dễ xử hơn.
+
+Đôi khi mạo hiểm giả vẫn nhường nhau tung đòn dứt điểm vì đủ loại lý do. Có khi đòn hạ gục đó sẽ quyết định ai được hưởng chiến lợi phẩm của Thống Lĩnh Tầng. Cũng có lúc chỉ vì ân oán cá nhân, như trường hợp của chúng tôi lúc này. Dĩ nhiên bảo toàn tính mạng cho cả nhóm vẫn là trên hết, nên đâu phải lúc nào cũng nhường được.
+
+"Vậy thì vào thôi," Laura vừa nói vừa đặt tay lên cánh cửa. Cả nhóm siết chặt vũ khí, hít sâu một hơi rồi mường tượng xem thứ gì đang chờ đợi mình ở phía bên kia.
