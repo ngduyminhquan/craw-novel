@@ -49,7 +49,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Aaruz | Sir Aaruz | Aaruz | Tư tế xuất chúng của Giáo Hội Lobelia | #112 |
 | Millia | Lady Millia | Millia | Thánh Nữ xuất chúng của Giáo Hội Lobelia | #112 |
 | Adone | Adone the Courtesan | Adone | Kỹ nữ trong lịch sử sở hữu Mị Nhãn mê hoặc quốc vương khiến vương quốc sụp đổ | #113 |
-| Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm rồng lửa trong một nghi lễ | #121 |
+| Conra |  | Conra | Pháp sư thời xưa không có năng khiếu vẽ vời, triệu hồi nhầm Rồng Lửa trong một nghi lễ | #121 |
 | Saint Myullias |  | Thánh Nữ Myullias | Cách gọi kèm danh hiệu của Myullias Raiza | #117 |
 | Wolf Hermann | Wolf; Guildmaster Wolf; Hermann | Wolf Hermann | Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả | #125 |
 | Alhildis |  | Alhildis | Nữ mạo hiểm giả Kim Cấp chủng tộc Elf, bậc thầy Thần Thuật mang ngoại hình bé gái nhưng tính cách bà lão | #131 |

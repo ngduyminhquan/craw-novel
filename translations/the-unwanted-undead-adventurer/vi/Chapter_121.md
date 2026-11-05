@@ -1,137 +1,137 @@
 # Chương 121: Tập 5 Chương 2 - Chế Tạo Vật Dẫn (2)
 
-Tôi và Alize phân vân mãi không biết nên dùng nguyên liệu nào, nhưng sau một lúc thì chúng tôi cũng đưa ra quyết định. Lẽ dĩ nhiên là tôi để Alize chọn trước. Dẫu sao thì ngay từ đầu tôi đã thu thập toàn bộ số đồ này cho cô bé, nên nếu tôi tranh mất phần tốt nhất trước khi em kịp chọn thì mọi chuyện coi như công cốc. Tôi dùng đồ thừa cũng chẳng sao. Chung quy lại, nếu muốn thì tôi hoàn toàn có thể đi kiếm thêm nguyên liệu khác.
+Tôi với Alize phân vân mãi không biết nên dùng nguyên liệu nào, nhưng đắn đo một hồi rồi cả hai cũng chọn xong. Dĩ nhiên là tôi nhường Alize chọn trước. Dù sao ngay từ đầu đống đồ này tôi kiếm về là cho cô bé, nếu lại hớt tay trên lấy mất phần tốt nhất trước khi con bé kịp chọn thì công cốc hết. Tôi dùng phần còn lại cũng chẳng sao. Cùng lắm sau này cần thì tôi lại đi kiếm thêm, có sao đâu.
 
-Alize chọn khúc gỗ từ một con Ent Bụi Cây bạch dương cùng viên Ma Tinh của Goblin Mỏ Quặng. Tôi khuyên cô bé nên dùng Ma Tinh của Terra Drake thay vào đó.
+Alize chọn gỗ Ent Bụi Cây bạch dương cùng viên Ma Tinh của Goblin Mỏ Quặng. Tôi khuyên cô bé nên đổi sang lấy Ma Tinh của Terra Drake thì hơn.
 
-"Viên này trông đẹp hơn nên em muốn lấy viên này ạ," cô bé nói rồi nhặt viên Ma Tinh của Goblin Mỏ Quặng lên. Nó có màu xanh lam tuyệt đẹp và bắt mắt, nhưng phẩm chất chỉ ở mức trung bình. Trái lại, Ma Tinh của Terra Drake có màu đỏ tươi và thuộc hàng chất lượng cao. Nó chẳng thể nào sánh được với Ma Tinh của Tarasque, nhưng trong số những thứ hiện có thì của Terra Drake là tốt nhất.
+"Viên này trông đẹp hơn, em muốn lấy viên này cơ," cô bé vừa nói vừa cầm viên Ma Tinh của Goblin Mỏ Quặng lên. Viên đá ánh sắc xanh lam rất đẹp và bắt mắt, nhưng phẩm chất chỉ vào loại tầm tầm. Trái lại, Ma Tinh của Terra Drake đỏ rực và thuộc hàng chất lượng cao. Đem so với Ma Tinh của Tarasque thì dĩ nhiên chẳng thấm vào đâu, nhưng trong số những thứ đang có sẵn ở đây thì viên của Terra Drake là xịn nhất rồi.
 
-Lorraine dường như đọc thấu được suy nghĩ của tôi. "Chúng ta đâu phải đang chế tạo cây đũa phép tối thượng ở đây. Đây là cây đầu tiên của con bé, cứ để con bé làm thứ mình thích đi. Làm vậy thì tỷ lệ thành công sẽ cao hơn. Chẳng việc gì phải ép con bé dùng thứ tốt hơn cả," Lorraine nói.
+Lorraine dường như đọc thấu suy nghĩ của tôi. "Chúng ta có phải đang làm cây đũa phép tối thượng đâu. Đây mới là cây đầu tiên của con bé, cứ để nó làm thứ mình thích đi. Thế thì tỉ lệ thành công mới cao. Cần gì phải ép con bé dùng đồ xịn hơn chứ," Lorraine bảo.
 
-Nếu vậy thì tôi cho là thế cũng ổn. Dù sao thì Ma Tinh của Terra Drake cũng là thứ tôi ưng ý nhất trong đống này, và tôi cũng thích khúc gỗ mun nữa.
+Nghe vậy thì tôi thấy cũng ổn. Dù sao trong đống nguyên liệu tôi cũng ưng viên Ma Tinh của Terra Drake nhất, lại còn thích cả khúc gỗ mun nữa.
 
-"Giờ hai người đã chọn xong nguyên liệu rồi, đến lúc vẽ ma pháp trận. Hai người có cọ vẽ chưa?" Lorraine hỏi.
+"Chọn xong nguyên liệu rồi thì giờ đến lúc vẽ ma pháp trận. Hai người có cọ vẽ chưa đấy?" Lorraine hỏi.
 
-Cả hai chúng tôi đều có sẵn. Hai lọ mực cũng đã được đặt sẵn trên bàn.
+Cả hai chúng tôi đều có sẵn. Trên bàn cũng đã đặt sẵn hai lọ mực.
 
-"Tốt. Vậy trước hết hãy rót Ma Lực vào cọ vẽ. Lúc nãy tôi đã làm rồi đấy, nhưng chắc là hai người không nhận ra đâu. Không cần dùng quá nhiều đâu nhé. Nếu làm quá tay, ừm, nói chung là không nên làm quá nên chắc tôi chẳng cần giải thích thêm làm gì. Dù thế nào đi nữa, hãy rót Ma Lực vào cọ từng chút một, rồi duy trì Ma Lực ổn định khi nhúng cọ vào mực. Chúng ta bắt đầu thôi."
+"Tốt. Trước hết hãy rót Ma Lực vào cọ vẽ. Lúc nãy tôi có làm rồi đấy, nhưng chắc hai người chẳng để ý đâu. Không cần dùng nhiều quá đâu nhé. Làm quá tay thì... ừm, nói chung là không nên, tôi khỏi cần giải thích thêm làm gì. Cứ rót Ma Lực vào cọ từng chút một, rồi giữ cho Ma Lực thật ổn định lúc chấm cọ vào mực. Chúng ta bắt đầu thôi."
 
-Tôi làm theo hướng dẫn và rót một lượng nhỏ Ma Lực vào cọ. Giờ tôi đã quen với kiểu thao tác này nên chuyện dễ như trở bàn tay. Nó chẳng khác gì việc truyền Ma Lực vào vũ khí cả. Tuy nhiên, Alize chưa từng làm việc này bao giờ nên cô bé gặp chút khó khăn. Mười năm kinh nghiệm tạo nên sự khác biệt hoàn toàn so với một người mới bắt đầu, nhưng Alize dường như thấy hơi ấm ức vì điều đó.
+Tôi làm theo lời dặn và rót một lượng nhỏ Ma Lực vào cọ. Giờ tôi đã quen với kiểu việc này nên mọi thứ dễ như bỡn. Nó chẳng khác gì chuyện truyền Ma Lực vào vũ khí cả. Còn Alize thì chưa từng làm bao giờ nên cô bé hơi chật vật. Mười năm kinh nghiệm dĩ nhiên khác xa một người mới chập chững, nhưng có vẻ Alize thấy hơi ấm ức vì chuyện đó.
 
-"Anh không thắng được em đâu, anh Rentt!" cô bé nói rồi tự lên dây cót tinh thần cho mình, nhưng chẳng có ích gì.
+"Anh đừng hòng thắng được em nhé, anh Rentt!" cô bé nói rồi tự lên dây cót tinh thần, nhưng cũng uổng công.
 
-"Ồ này, đừng dùng quá nhiều Ma Lực đấy," Lorraine nhắc nhở.
+"Ấy ấy, đừng dùng nhiều Ma Lực quá đấy," Lorraine nhắc nhở.
 
 "Hở?"
 
-Alize rót một lượng lớn Ma Lực vào cọ rồi nhúng vào mực, khiến thứ chất lỏng màu đen rung lên bần bật rồi bắn phụt ra khỏi lọ như một đài phun nước. Tôi nhoẻn miệng cười, và nhận lại một cái lườm tóe lửa từ khuôn mặt đen nhẻm của cô bé.
+Alize dồn cả đống Ma Lực vào cọ rồi nhúng vào mực, khiến thứ chất lỏng màu đen rung lên bần bật rồi bắn phụt ra khỏi lọ như vòi nước. Tôi cười toe toét, liền bị khuôn mặt đen nhẻm của cô bé lườm cho một cái cháy mặt.
 
-Tôi nén cười và cố làm vẻ mặt nghiêm túc. "Ra là vậy, rót quá nhiều Ma Lực sẽ làm mực bắn tung tóe. Tốt hơn là nên cẩn thận," tôi nói.
+Tôi nén cười, cố làm vẻ nghiêm túc. "Ra là thế, dồn nhiều Ma Lực quá là mực bắn tung tóe ngay. Tốt nhất là phải cẩn thận," tôi nói.
 
-Lorraine gật đầu. "Đúng thế đấy, nhưng anh đừng có mà thêm dầu vào lửa. Còn Alize, em đừng có cuống lên. Tôi nghĩ tranh đua là tốt, nhưng không phải trong công việc cụ thể này."
+Lorraine gật đầu. "Đúng thế đấy, nhưng anh đừng có thêm dầu vào lửa. Còn Alize, em đừng có nóng vội. Tranh đua thì tốt thật, nhưng với việc này thì không nên đâu."
 
-"Tại sao lại thế ạ?" Alize gặng hỏi. Cô bé dường như chưa hiểu nên Lorraine giải thích.
+"Sao lại thế ạ?" Alize hỏi. Thấy cô bé có vẻ chưa hiểu, Lorraine liền giải thích.
 
-"Tôi đoán em chưa từng truyền Ma Lực vào cọ vẽ bao giờ, nhưng Rentt luôn truyền Ma Lực vào vũ khí khi chiến đấu. Anh ấy đã làm việc đó suốt một thập kỷ rồi. Điều đó có nghĩa là xét riêng công việc này, anh ấy còn lâu mới là tay mơ."
+"Tôi đoán em chưa từng truyền Ma Lực vào cọ vẽ bao giờ, nhưng Rentt thì lúc chiến đấu luôn truyền Ma Lực vào vũ khí. Anh ấy làm việc đó suốt mười năm nay rồi. Thành thử riêng chuyện này thì anh ấy còn lâu mới là tay mơ."
 
-"Cái gì cơ ạ? Thế thì ăn gian quá!" Alize kêu lên.
+"Hả? Thế thì ăn gian quá!" Alize kêu lên.
 
-"Em muốn sao nào? Giờ tôi đâu thể quay lại làm người mới bắt đầu được nữa. Đây là lần đầu tiên tôi thử sức với thuật giả kim, nhưng kiểm soát Ma Lực lại là sở trường của tôi. Nếu là em, tôi sẽ từ bỏ ý định so bì với tôi ở khoản này đấy," tôi giải thích.
+"Chứ em muốn sao nào? Giờ tôi làm sao quay lại làm lính mới được nữa. Đây đúng là lần đầu tôi học thuật giả kim thật, nhưng kiểm soát Ma Lực lại là sở trường của tôi rồi. Nếu là em thì tôi bỏ ngay ý định so bì khoản này đi cho rồi," tôi giải thích.
 
-Lẽ ra đó là chuyện hiển nhiên, nhưng giọng Alize vẫn có phần hậm hực. Dẫu vậy, cô bé vốn ngoan ngoãn và dễ mến. "Em cứ ngỡ hai ta sẽ cùng nhau học cơ," cô bé bảo. Nói cách khác, em ấy hy vọng hai chúng tôi sẽ tiến bộ cùng một tốc độ. Tôi hiểu được tâm trạng của cô bé.
+Đó vốn là chuyện hiển nhiên, cơ mà nghe giọng Alize vẫn có vẻ chưa phục lắm. Dẫu vậy, cô bé vốn ngoan ngoãn và biết điều. "Em cứ tưởng hai anh em mình cùng học cơ," cô bé nói. Nói cách khác, em ấy hy vọng hai chúng tôi sẽ tiến bộ cùng một tốc độ. Tôi hiểu cảm giác đó của cô bé.
 
-"Hai ta vẫn học cùng nhau mà, chỉ là có vài mảng tôi đã thành thạo từ trước, thế thôi. Ma thuật và thuật giả kim đâu phải thứ người ta có thể dùng mà không học hỏi trước."
+"Thì hai anh em mình vẫn học cùng nhau đấy thôi, chỉ là có vài chỗ tôi rành từ trước rồi, thế thôi. Ma thuật với thuật giả kim đâu phải thứ cứ đụng vào là dùng được ngay mà không cần học."
 
-"Có thật thế không ạ?" Alize nghiêng đầu, vẻ mặt chưa hoàn toàn tin phục.
+"Thật thế không anh?" Alize nghiêng đầu, vẻ mặt vẫn chưa xuôi lắm.
 
-"Anh ấy nói đúng đấy," Lorraine nói. "Em giỏi hơn Rentt của mười năm trước nhiều. Nếu mười năm nữa em giỏi hơn anh ấy thì coi như em thắng."
+"Anh ấy nói đúng đấy," Lorraine lên tiếng. "Em bây giờ giỏi hơn Rentt của mười năm trước nhiều. Nếu mười năm nữa em vượt qua được anh ấy thì coi như em thắng rồi."
 
-Đúng là như vậy, và tôi tin chắc cô bé sẽ bỏ xa tôi phía sau. Tôi vẫn dự định tiếp tục mạnh mẽ hơn, nhưng trong mười năm nữa, Alize hoàn toàn có tiềm năng trở nên mạnh bằng tôi lúc này.
+Đúng thật, mà tôi chắc mẩm con bé sẽ cho tôi hít khói sớm muộn thôi. Tôi cũng tính tiếp tục rèn luyện để mạnh hơn nữa, nhưng trong mười năm tới, Alize thừa sức mạnh ngang ngửa tôi lúc này.
 
-"Em sẽ cố gắng hết sức ạ," Alize chân thành đáp.
+"Em sẽ cố gắng hết sức ạ," Alize ngoan ngoãn đáp.
 
-Sau đó, Lorraine thi triển Linpio lên người cô bé rồi mang lọ mực mới ra để chúng tôi quay lại làm việc. Thứ này chắc chắn chẳng rẻ rúng gì, nên tôi tự hỏi cô đang có sẵn bao nhiêu lọ trong tay, nhưng chuyện đó cũng chẳng quan trọng.
+Sau đó, Lorraine niệm Linpio làm sạch cho cô bé rồi lấy ra lọ mực mới để chúng tôi quay lại làm việc. Mực này chắc chắn chẳng rẻ chút nào, tôi cũng tự hỏi không biết trong tay cô còn bao nhiêu lọ nữa, cơ mà chuyện đó cũng chẳng quan trọng.
 
-Tôi đã thành công truyền Ma Lực vào cọ vẽ ngay từ lần thử đầu tiên, nhưng với Alize thì đó là cả một sự chật vật. Dù vậy, cô bé đã làm chuẩn xác chỉ sau khoảng một giờ đồng hồ. Tài năng của em thật đáng ghen tị. Hồi trước tôi phải mất nhiều thời gian hơn thế nhiều mới học được kỹ năng này. Ma Lực bên trong cơ thể thì khá dễ thao túng một khi người ta đã nhận thức được nó, nhưng giải phóng nó ra ngoài cơ thể lại đòi hỏi những cảm nhận rất khác biệt. Tôi xoay xở nắm bắt được việc đó sau khoảng một tuần, còn lâu mới nhanh bằng Alize.
+Tôi truyền Ma Lực vào cọ được ngay từ lần thử đầu tiên, còn Alize thì chật vật mãi. Ấy thế mà chỉ mất chừng một tiếng là cô bé đã làm đúng cách. Tài năng của em đúng là đáng ghen tị thật. Hồi trước tôi phải mất nhiều thời gian hơn thế nhiều mới học được món này. Ma Lực bên trong cơ thể một khi đã cảm nhận được thì điều khiển khá dễ, nhưng dẫn nó ra ngoài cơ thể lại đòi hỏi những cảm nhận rất khác. Tôi phải mất tầm một tuần mới mò ra được, đâu có nhanh bằng Alize.
 
-"Vậy thì chúng ta chuyển sang bước vẽ ma pháp trận nhé. Hai người phải duy trì Ma Lực trong cọ vẽ, nên việc này đòi hỏi sự tập trung nhất định đấy. Chúc hai người may mắn," Lorraine nói.
+"Giờ chuyển sang vẽ ma pháp trận nhé. Cả hai phải giữ Ma Lực liên tục trong cọ, nên việc này đòi hỏi tập trung lắm đấy. Chúc may mắn," Lorraine bảo.
 
-Tôi và Alize bắt tay vào việc. Duy trì Ma Lực trong cọ đối với tôi tự nhiên như hơi thở, nên tôi chẳng cần phải tập trung cao độ đến thế, nhưng Alize thì đang phải gắng hết sức mình. Cô bé có thể làm được, nhưng sự chật vật ấy cho thấy em vẫn còn nhiều điều phải học hỏi. Nếu em đạt đến trình độ của tôi chỉ trong một ngày, chắc tôi chẳng còn mặt mũi nào mà nhìn ai nữa. Dẫu vậy, nếu điều đó thực sự xảy ra thì cũng chỉ chứng tỏ thiên phú của Alize phi thường đến mức nào, nên tôi cũng chẳng thể phàn nàn gì được.
+Tôi với Alize bắt tay vào việc. Duy trì Ma Lực trong cọ đối với tôi tự nhiên như hơi thở nên chẳng cần phải quá căng thẳng, trong khi Alize thì phải gắng hết sức mình. Cô bé làm được, nhưng vẻ chật vật ấy cho thấy em vẫn còn khối điều phải học. Nếu con bé đạt tới trình độ của tôi chỉ trong một ngày thì chắc tôi chẳng còn mặt mũi nào nhìn ai nữa. Cơ mà nếu có thế thật thì cũng chỉ chứng tỏ thiên phú của Alize quá đỗi phi thường, tôi lấy tư cách gì mà phàn nàn cơ chứ.
 
 "Anh vẽ xong rồi đấy à, Rentt?" Lorraine hỏi.
 
-"Ừ, cô kiểm tra giùm xem ổn không nhé?"
+"Ừ, cô xem giùm tôi xem được chưa với?"
 
-"Tôi luôn biết là tay anh khéo léo mà. Anh vẽ hoàn hảo lắm. Nhân tiện thì, anh có khiếu hội họa không đấy?"
+"Tôi biết tay anh khéo từ trước rồi, vẽ chuẩn lắm. Nhắc mới nhớ, anh vẽ tranh cũng đẹp à?"
 
-"Tôi chẳng rõ liệu có thể nói là giỏi không nữa. Chắc ở mức bình thường thôi."
+"Bảo đẹp thì chắc chưa tới, cùng lắm là mức tàm tạm thôi."
 
-Những lúc đi mạo hiểm và phải miêu tả đặc điểm quái vật mình chạm trán cho các mạo hiểm giả khác cùng làm nhiệm vụ, tôi thường vẽ xuống mặt đất để minh họa. Nhờ đó mà tôi cũng được tôi luyện đôi chút. Trải qua muôn vàn trải nghiệm như thế chính là ý nghĩa của cuộc sống này mà.
+Hồi đi làm nhiệm vụ mạo hiểm, mỗi khi cần miêu tả đặc điểm quái vật mình chạm trán cho những người cùng tổ đội, tôi hay vẽ xuống đất để minh họa. Nhờ đó mà tôi cũng luyện tay được đôi chút. Sống ở đời là nhờ tích cóp những trải nghiệm vụn vặt như thế cả đấy.
 
-"Thế thì anh chẳng gặp vấn đề gì đâu. Bản này dùng được đấy. Giờ xem của Alize nào," Lorraine nói rồi ngó sang phía cô bé.
+"Thế thì anh chẳng phải lo. Bản này dùng được rồi. Giờ xem bên Alize nào," Lorraine nói rồi ngó sang phía cô bé.
 
-"Thế nào rồi ạ?" Alize hỏi.
+"Sao rồi cô?" Alize hỏi.
 
-"Không tệ, nhưng chỗ này hơi bị méo một chút. Nó vẫn sẽ hoạt động được, nhưng những lỗi sai lớn hơn có thể khiến ma pháp trận mất tác dụng, hoặc thậm chí gây ra những hiệu ứng ngoài ý muốn. Hãy cố gắng cẩn thận hơn nhé," Lorraine nhắc nhở cô bé.
+"Không tệ, có điều chỗ này hơi méo một chút. Thế này vẫn dùng được, nhưng nếu sai sót lớn hơn thì ma pháp trận có thể mất tác dụng, hoặc thậm chí gây ra những hiệu ứng ngoài ý muốn đấy. Lần sau nhớ cẩn thận hơn nhé," Lorraine nhắc nhở cô bé.
 
-"Những hiệu ứng ngoài ý muốn kiểu gì cơ ạ?" Alize hỏi.
+"Là hiệu ứng ngoài ý muốn kiểu gì cơ ạ?" Alize hỏi.
 
-"Đủ loại cả, nhưng có một câu chuyện thường được lưu truyền trong giới ma pháp sư kể về một pháp sư tên là Conra, người hoàn toàn không có khiếu vẽ vời. Conra có tài ăn nói thuyết phục đến mức ông ta trở thành Pháp Sư Cung Đình, nhưng một ngày nọ, ông ta được giao phụ trách một trong những nghi lễ của đất nước mình. Tự bản thân chuyện đó không có vấn đề gì, nhưng nghi lễ ấy bao gồm việc tạo ra một ma pháp trận bắn pháo hoa. Conra biết mình vô vọng ở khoản hội họa, nhưng ông ta quyết định rằng nếu ma pháp trận thất bại, ông ta sẽ chỉ việc dùng ma pháp bắn pháo hoa lên bầu trời thay thế. Thế nhưng khi ông ta tạo ra ma pháp trận và kích hoạt nó, một điều kinh hoàng đã xảy ra. Em đoán xem chuyện gì đã xảy ra nào?"
+"Đủ loại cả, nhưng trong giới pháp sư hay lưu truyền câu chuyện về một pháp sư tên Conra, người hoàn toàn không có hoa tay nào. Conra có tài ăn nói thuyết phục đến mức leo lên tận chức Pháp Sư Cung Đình, rồi một ngày nọ được giao phụ trách một nghi lễ quốc gia. Giao việc đó thì chẳng sao, ngặt nỗi nghi lễ lại đòi hỏi vẽ một ma pháp trận bắn pháo hoa. Conra thừa biết tài vẽ vời của mình là vô phương cứu chữa, nhưng ông ta nghĩ bụng nếu ma pháp trận thất bại thì cứ việc dùng ma pháp bắn pháo hoa lên trời thay thế là xong. Thế nhưng khi vẽ xong và kích hoạt ma pháp trận, một chuyện kinh hoàng đã xảy ra. Em đoán xem là chuyện gì nào?"
 
-"Em không biết, chuyện gì thế ạ?"
+"Em chịu thôi, chuyện gì thế ạ?"
 
-"Ông ta triệu hồi một con rồng lửa thiêu rụi toàn bộ vùng đất thành bình địa."
+"Ông ta triệu hồi một con Rồng Lửa, thiêu rụi cả vùng đất thành bình địa."
 
-Đoạn kết kinh hoàng khiến mặt Alize tái mét. Khả năng ma pháp trận của mình có thể dẫn tới hậu quả tương tự hẳn đã làm cô bé khiếp đảm.
+Cái kết kinh hoàng khiến mặt Alize tái mét. Nghĩ đến chuyện ma pháp trận của mình cũng có thể dẫn tới hậu quả tương tự hẳn đã làm cô bé sợ khiếp vía.
 
-"Chà, đây chỉ là câu chuyện xưa cũ chúng tôi thường kể cho nhau nghe thôi. Chẳng có điều gì tàn khốc đến mức đó xảy ra đâu. Conra vẽ ma pháp trận tệ thật, nhưng ông ta vẫn là một ma pháp sư cự phách với lượng Ma Lực khổng lồ. Người ta bảo đó là lý do vì sao sai lầm của ông ta lại thảm khốc đến thế. Còn sai sót của em cùng lắm thì cũng chỉ triệu hồi ra một con Slime nhỏ mà chúng ta có thể giẫm bẹp dí thôi. Hoặc nó chỉ tạo ra một tiếng động lớn hay một vụ nổ yếu ớt chẳng gây chút thiệt hại nào. Em không cần phải lo lắng về chuyện đó đâu. Bất kể chuyện gì xảy ra thì đã có tôi lo liệu rồi," Lorraine nói, làm Alize yên lòng.
+"Chà, đây chỉ là chuyện tiếu lâm ngày xưa chúng tôi hay kể cho nhau nghe thôi. Chẳng có điều gì tàn khốc đến mức đó xảy ra đâu. Conra vẽ ma pháp trận tệ thật, nhưng ông ta vẫn là một ma pháp sư cự phách với lượng Ma Lực khổng lồ, người ta bảo chính vì thế nên sai lầm của ông ta mới thảm khốc như vậy. Còn sai sót của em cùng lắm chỉ triệu hồi ra một con Slime bé tí cho chúng ta giẫm bẹp dí là cùng. Bằng không thì cũng chỉ phát ra tiếng động lớn hay tạo một vụ nổ lép kẹp chẳng gây thương tích gì. Em không cần phải lo lắng về chuyện đó đâu. Bất kể chuyện gì xảy ra thì đã có tôi lo liệu rồi," Lorraine nói, làm Alize yên lòng.
 
 ◆◇◆◇◆
 
-Ngay cả quá trình rót Ma Lực vào tấm bảng đồng cũng khiến Alize gặp nhiều khó khăn. Đối tượng truyền vào tuy khác nhau, nhưng về cơ bản cũng tương tự như việc truyền Ma Lực vào cọ vẽ. Việc cô bé gặp trở ngại với cả hai là điều hoàn toàn có thể đoán trước. Với tôi thì trường hợp lại trái ngược. Truyền Ma Lực vào vũ khí, cọ vẽ hay tấm bảng đồng đều y như nhau, đồng nghĩa với việc mười năm kinh nghiệm luôn duy trì một chút Ma Lực trong vũ khí mọi lúc mọi nơi đã khiến công việc này trở nên đơn giản.
+Đến cả việc rót Ma Lực vào tấm bảng đồng cũng làm Alize chật vật. Dù vật truyền dẫn có khác, song về cơ bản cũng chẳng khác gì việc truyền Ma Lực vào cọ vẽ. Cô bé gặp khó ở cả hai bước cũng là chuyện dễ hiểu. Còn với tôi thì hoàn toàn ngược lại. Truyền Ma Lực vào vũ khí, cọ vẽ hay tấm bảng đồng đều như một, thành thử mười năm kinh nghiệm luôn duy trì một chút Ma Lực trong vũ khí mọi lúc mọi nơi đã khiến công việc này trở nên đơn giản.
 
-Tôi suýt chút nữa cảm thấy áy náy cho Alize, nhưng chuyện này đâu phải tự nhiên mà dễ dàng với tôi. Thứ cô bé đang nỗ lực đạt được trong một ngày lại chính là điều tôi đã phải dày công khổ luyện suốt nhiều năm. Nói đúng hơn thì, thật bất công khi kỹ năng của cô bé lại bắt đầu thành hình nhanh đến thế. Mọi chuyện đều suôn sẻ khi người ta có tài năng, nhưng có lẽ việc tôi thiếu hụt tài năng trầm trọng mới là vấn đề thực sự. Hoặc có lẽ chuyện này là bình thường. Tôi cũng chẳng rõ nữa.
+Thấy vậy tôi cũng thấy hơi tội nghiệp cho Alize, cơ mà bản thân tôi cũng đâu phải tự dưng làm được ngay. Thứ cô bé đang cố làm cho bằng được trong một ngày lại là điều tôi đã phải trầy trật suốt nhiều năm trời. Nói đúng hơn thì, việc kỹ năng của cô bé bắt đầu thành hình nhanh đến thế mới là bất công ấy chứ. Có tài thì đụng vào đâu cũng suôn sẻ, hoặc có khi việc tôi thiếu hụt tài năng trầm trọng mới là vấn đề thực sự. Hay người bình thường vốn dĩ phải thế nhỉ? Tôi cũng chịu, chẳng rõ nữa.
 
-"Được rồi, giờ hãy đặt viên Ma Tinh của hai người lên tấm bảng đồng," Lorraine chỉ dẫn sau khi chúng tôi vẽ xong ma pháp trận. "Lúc nãy khi thị phạm tôi đã rút ngắn quy trình để tiết kiệm thời gian, nhưng giờ còn quá sớm để hai người thử làm cách đó. Hai người sẽ dùng phương pháp cơ bản là chỉ việc đặt viên Ma Tinh lên tấm bảng. Dần dà nó sẽ tự nhiên hấp thụ ma pháp trận."
+"Được rồi, giờ hãy đặt viên Ma Tinh của hai người lên tấm bảng đồng," Lorraine chỉ dẫn sau khi chúng tôi vẽ xong ma pháp trận. "Lúc nãy làm mẫu tôi có rút ngắn bớt quy trình để tiết kiệm thời gian, nhưng giờ còn quá sớm để hai người thử làm cách đó. Hai người cứ dùng phương pháp cơ bản là đặt viên Ma Tinh lên mặt bảng thôi. Cứ để đấy rồi nó sẽ tự khắc hấp thụ ma pháp trận."
 
-Lorraine đã dùng thủ thuật nào đó để hoàn thành công việc ngay tức khắc, nhưng nghe chừng đó là một kỹ thuật khó. Tôi cũng có hứng thú muốn thử, nhưng Lorraine bảo vẫn còn quá sớm đối với chúng tôi, nên tôi ngờ rằng mình khó lòng làm nổi. Tôi quyết định chấp nhận đi theo con đường thông thường cùng Alize.
+Lorraine đã dùng mẹo gì đó để hoàn thành công việc ngay tức khắc, nhưng nghe chừng đó là một kỹ thuật khó. Tôi cũng tò mò muốn thử, cơ mà Lorraine bảo vẫn còn quá sớm đối với chúng tôi, nên tôi nghĩ chắc mình cũng khó lòng làm nổi. Thôi thì tôi đành chấp nhận đi theo cách thông thường cùng Alize vậy.
 
-Nếu tôi đang vội vã học thuật giả kim thì lại là chuyện khác, đằng này tôi là một kiếm sĩ. Tinh thông nhiều kỹ năng có thể mang lại sự tiện lợi, nhưng với thuật giả kim thì tôi không dám chắc. Đó không phải là bộ kỹ năng có thể đem lại kết quả nhanh chóng cho một mạo hiểm giả. Khả năng tự mình bào chế thuốc chất lượng cao chắc chắn là điều đáng quý, nhưng tôi đã học cách bào chế thuốc từ bà lão thầy thuốc ở quê nhà, dẫu thuốc ấy có phần yếu hơn so với thuốc của một nhà giả kim. Ngoài ra, nếu rơi vào tình thế thực sự nguy ngập, tôi còn có thể vận dụng Thần Lực.
+Nếu tôi đang vội học thuật giả kim thì lại là chuyện khác, đằng này tôi vốn là một kiếm sĩ. Biết nhiều ngón nghề thì tiện thật đấy, nhưng với thuật giả kim thì tôi không dám chắc. Đây chẳng phải bộ kỹ năng có thể đem lại hiệu quả tức thì cho một mạo hiểm giả. Khả năng tự mình bào chế thuốc xịn đúng là điều đáng quý, nhưng tôi đã học lỏm cách bốc thuốc từ bà lang ở quê nhà rồi, dẫu dược tính có phần yếu hơn so với thuốc của nhà giả kim. Vả lại nếu rơi vào tình thế thực sự hiểm nghèo, tôi vẫn còn có thể vận dụng Thần Lực cơ mà.
 
-Tôi làm theo chỉ dẫn của Lorraine và đặt viên Ma Tinh lên tấm bảng đồng. Vết mực đã khô của ma pháp trận dường như bong ra rồi bị hút vào bên trong. Với Lorraine thì chuyện xảy ra trong chớp mắt, một luồng sáng lóe lên là xong xuôi, nên lúc trước tôi không có cơ hội quan sát phần này. Giờ đây khi được tận mắt chứng kiến nó chuyển động, đó quả là một cảnh tượng khác thường, dẫu chẳng quá đỗi kỳ lạ. Lorraine khẽ gật đầu khi quan sát, ngụ ý quá trình chế tạo đũa phép cho đến lúc này vẫn diễn ra êm đẹp. Khoảng mười phút sau, mảnh cuối cùng của ma pháp trận đã đi vào bên trong viên Ma Tinh.
+Tôi làm theo chỉ dẫn của Lorraine và đặt viên Ma Tinh lên tấm bảng đồng. Nét mực khô của ma pháp trận như bong ra khỏi mặt bảng rồi bị hút dần vào bên trong. Với Lorraine thì chuyện xảy ra trong chớp mắt, ánh sáng lóe lên là xong xuôi nên lúc nãy tôi không có cơ hội quan sát phần này. Giờ đây khi được tận mắt chứng kiến quá trình diễn ra từ từ, đó quả là một cảnh tượng khác thường, dẫu chẳng tới mức quá đỗi kỳ lạ. Lorraine vừa quan sát vừa khẽ gật đầu, ý bảo quá trình chế tạo đũa phép cho đến lúc này vẫn suôn sẻ. Khoảng mười phút sau, mẩu cuối cùng của ma pháp trận cũng chui tọt vào bên trong viên Ma Tinh.
 
-"Được rồi, thế là đủ rồi đấy. Hai người hãy kiểm tra xem ma pháp trận của mình đã vào bên trong trọn vẹn chưa nào," Lorraine gợi ý. Chúng tôi vốn đã nóng lòng muốn xem lắm rồi, nên ngay khi Lorraine vừa dứt lời, cả hai liền chộp lấy viên tinh thể của mình và ngó vào bên trong.
+"Được rồi, thế là xong đấy. Hai người kiểm tra xem ma pháp trận đã vào bên trong trọn vẹn chưa nào," Lorraine bảo. Chúng tôi vốn đã nóng lòng muốn xem lắm rồi, nên ngay khi Lorraine vừa dứt lời, cả hai liền chộp lấy viên tinh thể của mình ngó vào bên trong.
 
-"Ôi, em làm được rồi! Thành công rồi thưa Học Sĩ Lorraine!" Alize reo lên. Nghe chừng viên của cô bé diễn ra rất suôn sẻ.
+"Ôi, em làm được rồi! Thành công rồi thưa Học Sĩ Lorraine!" Alize reo lên. Nghe giọng là biết viên của cô bé rất ổn thỏa.
 
-"Để tôi xem nào," Lorraine nói rồi cầm lấy viên Ma Tinh để nhìn vào bên trong. "Ừ, thành phẩm đẹp lắm. Ma pháp trận hơi méo một chút, nhưng chuyện đó không thành vấn đề đâu. Lần đầu làm thế này là rất giỏi đấy, Alize." Cùng với lời khen ngợi ấy, Lorraine xoa đầu cô bé.
+"Đưa tôi xem nào," Lorraine nói rồi cầm lấy viên Ma Tinh ngó vào bên trong. "Ừ, thành phẩm đẹp lắm. Ma pháp trận hơi méo một chút, nhưng không thành vấn đề đâu. Lần đầu làm thế này là rất giỏi đấy, Alize." Kèm theo lời khen ngợi ấy, Lorraine đưa tay xoa đầu cô bé.
 
-Cô chuyển chủ đề sang tôi. "Vậy còn của anh thì sao?"
+Rồi cô quay sang hỏi tôi: "Thế còn của anh thì sao?"
 
-"À thì, ừm..." tôi ấp úng. Tôi chẳng muốn thừa nhận mình đang cảm thấy xấu hổ, nhưng đúng là như vậy thật. Dẫu tôi dám thề rằng mình đã làm đúng theo lời chỉ dẫn của Lorraine.
+"À thì, ừm..." tôi ấp úng. Tôi chẳng muốn thừa nhận mình đang thấy ngượng, nhưng đúng là bẽ mặt thật. Dù tôi dám chắc là mình đã làm đúng y theo lời Lorraine chỉ dẫn.
 
-Thấy điệu bộ kỳ quặc của tôi, Lorraine cau mày lại. "Rentt, anh bị làm sao thế?" cô vừa hỏi vừa bước lại gần, giật lấy viên tinh thể của tôi, giơ lên quá đầu rồi nhìn chăm chú vào bên trong.
+Thấy điệu bộ là lạ của tôi, Lorraine nhíu mày lại. "Rentt, anh sao thế?" Cô vừa hỏi vừa bước lại gần, giật lấy viên tinh thể từ tay tôi, giơ cao lên ngang tầm mắt rồi ngó vào bên trong.
 
-"Anh không thể làm chuyện gì cho bình thường được à? Anh biết thứ này kỳ dị lắm đúng không?" cô hỏi rồi trả lại viên Ma Tinh.
+"Anh không thể làm cái gì cho bình thường như người ta được à? Anh cũng biết thứ này kỳ dị lắm đúng không?" cô hỏi rồi trả lại viên Ma Tinh.
 
-Tôi nhìn vào bên trong và thấy một ma pháp trận có phần kỳ quặc. Tôi biết rõ mình đã vẽ nó lên tấm bảng đồng bằng mực của Lorraine và nó đã đi vào trong viên tinh thể. Đáng lẽ nó phải giống như lúc Lorraine làm, tức là ma pháp trận vẫn giữ nguyên màu sắc sau khi vào bên trong, thế nhưng viên tinh thể của tôi lại chứa một ma pháp trận mang hoa văn loang lổ sắc vàng và xanh lục. Thành thực mà nói thì đó chẳng phải một màu sắc ưa nhìn cho lắm.
+Tôi nhìn vào bên trong thì thấy một ma pháp trận quả có phần quái dị. Rõ ràng tôi đã vẽ nó lên tấm bảng đồng bằng mực của Lorraine rồi để nó ngấm vào viên tinh thể. Đáng lẽ nó phải giống như lúc Lorraine làm, tức là ma pháp trận chui vào trong vẫn giữ nguyên màu sắc cũ, thế nhưng viên tinh thể của tôi lại chứa một ma pháp trận mang hoa văn loang lổ sắc vàng khè lẫn xanh lục. Nói thật là cái màu nhìn chẳng ưa nổi.
 
-"Tôi phải công nhận là nó chẳng đẹp đẽ gì," tôi lẩm bẩm.
+"Tôi phải công nhận là nó chẳng đẹp đẽ gì thật," tôi lẩm bẩm.
 
-"Đó không phải là vấn đề, nhưng đôi khi những chuyện thế này vẫn xảy ra. Nếu người ta sở hữu Ma Lực dị biệt hoặc nhận được phước lành của thần tinh linh, những ma pháp trận kỳ lạ có thể xuất hiện trong ma cụ. Trong trường hợp của anh, tôi nghĩ chúng ta đều biết nguyên nhân là gì rồi đấy," cô khẳng định.
+"Vấn đề không nằm ở chỗ đẹp hay xấu, có điều thỉnh thoảng những chuyện thế này vẫn xảy ra. Nếu người ta sở hữu Ma Lực dị biệt hoặc nhận được phước lành của thần tinh linh thì ma pháp trận hiện trong ma cụ có thể sẽ rất kỳ lạ. Trường hợp của anh thì tôi nghĩ cả hai chúng ta đều biết rõ nguyên nhân là gì rồi đấy," cô bảo.
 
-Tôi biết cô đang ám chỉ điều gì. Tôi sở hữu Thần Lực cùng phước lành của một thần tinh linh nào đó. Ma Lực của tôi có lẽ cũng khác thường do bản chất Undead của mình. Nói đúng hơn thì, sau chuyện này, hoàn toàn có thể khẳng định chắc chắn rằng có điều gì đó bất thường về Ma Lực của tôi. Tôi tự hỏi liệu mình có thể thực hiện thuật giả kim một cách chuẩn chỉnh được hay không nữa.
+Tôi biết cô đang ám chỉ điều gì. Tôi có Thần Lực cùng phước lành của một thần tinh linh nào đó. Ma Lực của tôi có lẽ cũng khác thường do bản chất Undead. Nói đúng hơn thì, qua chuyện này, hoàn toàn có thể khẳng định chắc chắn rằng Ma Lực của tôi dứt khoát có vấn đề. Tôi tự hỏi liệu một kẻ như mình có khả năng làm thuật giả kim cho đàng hoàng được hay không nữa.
 
-Tôi bắt đầu cảm thấy chán nản. "Tệ lắm đúng không?" tôi hỏi Lorraine.
+Lòng tôi bắt đầu chùng xuống. "Thế này là hỏng rồi hả cô?" tôi hỏi Lorraine.
 
-"Không đâu. Đây là một hiện tượng hiếm gặp, nhưng nó vẫn xảy ra. Có những người bẩm sinh đã mang Ma Lực bất thường, và những người nhận được phước lành thần thánh cũng chẳng hề thiếu. Nhưng bất kỳ cây đũa phép nào anh làm ra cũng sẽ mang những đặc tính bất thường. Miễn là anh chuẩn bị sẵn tâm lý cho chuyện đó thì sẽ chẳng có vấn đề gì cả," cô trấn an tôi.
+"Không hẳn. Hiện tượng này hiếm gặp thật nhưng không phải không có. Có những người bẩm sinh đã mang Ma Lực bất thường, và những người nhận được phước lành thần thánh cũng chẳng hề thiếu. Chỉ là bất kỳ cây đũa phép nào anh làm ra cũng sẽ mang những đặc tính kỳ dị. Miễn là anh chuẩn bị sẵn tâm lý cho chuyện đó thì sẽ chẳng có vấn đề gì cả," cô trấn an tôi.
 
-Nghe cô nói vậy cứ như thể vẫn sẽ có vấn đề xảy ra, nhưng chí ít thì tôi vẫn có thể học thuật giả kim. Như thế cũng đã đủ tốt rồi, song tôi không rõ những đặc tính bất thường ấy sẽ ra sao. Đó là câu hỏi tiếp theo, nhưng chỉ khi cây đũa phép hoàn thành thì mới có câu trả lời.
+Nghe cô nói vậy cứ như thể vẫn sẽ có chuyện gì đó, nhưng chí ít thì tôi vẫn có thể học thuật giả kim. Như thế cũng đã đủ tốt rồi, song tôi không rõ những đặc tính kỳ dị ấy rốt cuộc sẽ ra sao. Đó là câu hỏi tiếp theo, nhưng đành phải đợi làm xong cây đũa phép mới có câu trả lời.
 
-"Cho em xem viên tinh thể của anh với," Alize đề nghị trong lúc tôi đang mải suy nghĩ, nên tôi nhìn sang Lorraine. Tôi muốn xem liệu để cô bé nhìn thấy thứ kỳ quái như vậy có ảnh hưởng xấu đến việc học tập của em hay không, nhưng Lorraine gật đầu, vậy nên tôi trao viên tinh thể cho Alize.
+"Cho em xem viên tinh thể của anh với ạ," Alize lên tiếng trong lúc tôi đang mải suy nghĩ, thế là tôi quay sang nhìn Lorraine. Tôi hơi băn khoăn không biết để cô bé nhìn thấy thứ kỳ quái như vậy có ảnh hưởng xấu đến việc học tập của em hay không, nhưng thấy Lorraine gật đầu nên tôi liền trao viên tinh thể cho Alize.
 
-"Oa, đẹp quá đi mất. Của em chỉ là ma pháp trận màu đen bình thường thôi. Em thấy hơi ghen tị đấy ạ," cô bé ngây thơ bảo.
+"Oa, đẹp quá đi mất! Của em chỉ là ma pháp trận màu đen bình thường thôi. Em thấy hơi ghen tị đấy ạ," cô bé hồn nhiên bảo.
 
-Dẫu vậy, nghe những lời ấy cũng giúp ích cho tôi nhiều. Tôi ý thức sâu sắc mình dị thường đến mức nào, nhưng khi ngay cả chuyện đơn giản thế này cũng bị sai lệch, điều đó khiến tôi chạnh lòng đôi chút. Đó là kiểu chán nản mà tôi có thể vượt qua sau vài ngày, nhưng đây vẫn là lời nhắc nhở cay đắng và cô quạnh rằng tôi không còn là con người nữa. Việc bản thân chẳng cần ngủ nhiều và khả năng hồi phục những vết thương nhỏ chỉ trong vài giây cũng đem lại cho tôi cảm giác tương tự.
+Dẫu vậy, nghe những lời ấy cũng giúp lòng tôi nhẹ nhõm phần nào. Tôi vốn ý thức sâu sắc mình dị thường đến mức nào, nhưng khi ngay cả chuyện đơn giản thế này cũng chẳng ra đâu vào đâu, điều đó khiến tôi chạnh lòng đôi chút. Đó là kiểu buồn bực mà tôi có thể nguôi ngoai sau vài ngày, nhưng đây vẫn là lời nhắc nhở cay đắng và cô quạnh rằng tôi không còn là con người nữa. Chuyện bản thân chẳng cần ngủ nghê mấy và khả năng hồi phục những vết thương nhỏ chỉ trong vài giây cũng từng đem lại cho tôi cảm giác tương tự.
 
-Nhưng những lời Alize nói đã thổi bay những cảm xúc ấy. Cô bé quả là một đệ tử tuyệt vời. Tôi chẳng còn biết rốt cuộc ai mới là người đang động viên ai nữa. Những suy nghĩ ấy ngập tràn nơi đáy lòng tôi khi chúng tôi tiếp tục chế tạo đũa phép. Tất cả những gì còn lại lúc này chỉ là bản thân cây đũa phép mà thôi.
+Nhưng lời Alize nói đã thổi bay những muộn phiền ấy. Cô bé quả là một đệ tử tuyệt vời. Tôi chẳng còn biết rốt cuộc ai mới là người đang động viên ai nữa. Giữ những suy nghĩ ấy nơi đáy lòng, chúng tôi tiếp tục công việc làm đũa phép. Giờ chỉ còn bước hoàn thiện thân đũa nữa mà thôi.
