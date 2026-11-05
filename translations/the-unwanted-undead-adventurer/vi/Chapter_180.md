@@ -1,81 +1,81 @@
 # Chương 180: Ngoại truyện Tập 7 - Quản Lý Gia Bảo
 
-"Xin lỗi nhé, Rentt. Cậu là một mạo hiểm giả khá mạnh cơ mà, đúng không? Đáng lẽ cậu không nên làm mấy việc vặt này mới phải," một người phụ nữ trung niên vừa nói vừa bồn chồn cử động đôi tay. Tên chị ấy là Rota, xuất thân từ một gia đình bình thường ở Maalt. Ông của chị từng là một mạo hiểm giả, nhưng tôi chưa từng quen biết ông ấy.
+"Xin lỗi cậu nhé, Rentt. Cậu là một mạo hiểm giả khá cừ cơ mà, đúng không? Cỡ cậu đâu phải hạ mình làm mấy việc vặt này," một người phụ nữ trung niên vừa nói, đôi tay vừa bồn chồn không yên. Chị tên là Rota, người một gia đình bình thường ở Maalt. Ông của chị từng là mạo hiểm giả, có điều tôi không quen biết ông.
 
-"Ồ, tôi không bận tâm đâu. Bản chất công việc này vốn là vậy mà. Tôi thấy yêu cầu là dọn dẹp nhà cửa nhưng vẫn nhận, nên trách nhiệm thuộc về tôi thôi."
+"À, tôi không phiền đâu. Tính chất công việc này vốn thế mà. Thấy ghi là dọn nhà mà tôi vẫn nhận đấy chứ, nên là do tôi cả thôi."
 
-Tôi đến đây để làm công việc dọn dẹp nhà cửa. Không phải nhà của Rota, mà là nhà của ông chị ấy. Ông vừa qua đời cách đây ít ngày và Rota được thừa kế căn nhà cùng toàn bộ tài sản của ông, nên chị cần thu dọn mọi thứ. Gia đình chị hoàn toàn có thể tự làm việc đó, nhưng việc ông của Rota từng là mạo hiểm giả lại làm nảy sinh một vấn đề.
+Tôi đến đây để nhận việc dọn dẹp nhà cửa. Không phải nhà của Rota, mà là nhà ông chị. Ông vừa qua đời mấy hôm trước, Rota được thừa kế căn nhà cùng toàn bộ tài sản nên cần thu dọn lại mọi thứ. Người nhà chị vốn có thể tự làm việc đó, ngặt nỗi ông của Rota từng là mạo hiểm giả, thành ra mới rắc rối.
 
-Phần lớn mạo hiểm giả đều từng thám hiểm mê cung, mà trong mê cung lại đầy rẫy các ma cụ đặc biệt. Tìm kiếm và bán chúng là cách nhanh nhất để một mạo hiểm giả kiếm tiền. Có vẻ như ông của Rota khi xưa cũng làm như vậy. Nhưng trong khi vài món ma cụ bán rất chạy, thì những món khác lại chẳng bán được vì công dụng không rõ ràng. Không biết phải xử lý những món đồ ấy ra sao, nhiều mạo hiểm giả đành cứ để bừa bãi khắp nhà.
+Phần lớn mạo hiểm giả đều từng xuống mê cung, mà dưới đó lại đầy ắp những món ma cụ đặc biệt. Tìm rồi đem bán chúng là cách kiếm tiền nhanh nhất của mạo hiểm giả. Ông của Rota trước kia có vẻ cũng làm như vậy. Có điều, trong khi vài món ma cụ bán rất chạy thì những món khác lại chẳng ai mua vì công dụng không rõ ràng. Không biết phải xử lý ra sao, nhiều mạo hiểm giả cứ thế vứt lăn lóc khắp nhà.
 
-Chuyện đó chẳng sao chừng nào người mạo hiểm giả còn nắm rõ chúng, nhưng lại biến thành vấn đề lớn khi người nhà thừa kế số tài sản ấy. Họ sẽ không thể phân biệt được món nào nguy hiểm và món nào vô hại. Đôi khi, một món ma cụ có thể gây thương tích hoặc kéo theo một thảm họa khôn lường. Để phòng tránh điều đó, phần lớn các gia đình đều tìm kiếm sự giúp đỡ từ những mạo hiểm giả khác khi thu dọn đồ đạc để lại. Đó chính là mục đích của công việc này.
+Bản thân người mạo hiểm giả còn nhớ thì chẳng sao, nhưng khi gia đình thừa kế lại thì thành chuyện lớn. Họ làm sao biết được món nào nguy hiểm, món nào không. Sơ sẩy một cái, ma cụ có thể gây thương tích hoặc kéo theo đại họa khôn lường. Để tránh điều đó, phần lớn các gia đình đều nhờ mạo hiểm giả khác tới giúp khi thu dọn di vật. Mục đích của ủy thác này chính là vậy.
 
-"Tôi rất cảm kích sự nhiệt tình của cậu. Tôi cũng muốn tự mình dọn dẹp số đồ này, nhưng di chúc của ông lại dặn rằng vài món ma cụ có thể nguy hiểm. Dù vậy, chí ít điều đó cũng ngăn được đám họ hàng bu quanh làm phiền tôi về chuyện thừa kế."
+"Được cậu thông cảm thế này mừng quá. Tôi cũng muốn tự tay dọn dẹp, nhưng di chúc của ông lại dặn rằng vài món ma cụ có thể nguy hiểm. Dù vậy, ít ra nhờ thế mà đám họ hàng không dám bu vào xâu xé chuyện thừa kế."
 
-"Dù sao chúng cũng từng thuộc về một mạo hiểm giả mà. Tôi đoán họ nghĩ vài món trong số này có thể khá giá trị. Nhưng họ quý mạng sống của mình hơn. Nghĩ vậy có lẽ cũng khôn ngoan đấy."
+"Dù sao cũng là đồ của mạo hiểm giả mà. Chắc họ nghĩ trong này có thứ đáng tiền lắm. Nhưng xem ra họ quý mạng mình hơn. Thế lại khôn đấy chứ."
 
-"Và cũng đầy toan tính nữa, nhưng đúng là vậy thật. Dù sao thì cho đến giờ có vẻ như chẳng có thứ gì nguy hiểm cả."
+"Tính toán gớm lắm cơ, nhưng đúng là thế thật. Cơ mà từ nãy tới giờ xem chừng chẳng có món nào nguy hiểm cả."
 
-Tôi đã kiểm tra gần hết số di vật, nhưng tất cả dường như đều an toàn. Hoàn toàn có khả năng di chúc của người ông chỉ ghi như vậy nhằm xua đuổi đám họ hàng đi.
+Tôi đã xem qua gần hết chỗ di vật, tất cả dường như đều an toàn. Rất có thể trong di chúc người ông viết thế chỉ để dọa đám họ hàng tránh xa.
 
-Khi tôi nói điều đó với Rota, chị ngẫm nghĩ một lát rồi gật đầu. "Ông ấy quả thực rất thông thái," chị nói. "Có lẽ đúng là ông đã tính đến chuyện đó. Nếu vậy thì khéo tôi đã uổng tiền thuê người làm công việc này rồi."
+Khi tôi nói điều đó với Rota, chị ngẫm nghĩ một lát rồi gật đầu. "Ông tôi quả là người thấu đáo," chị bảo. "Biết đâu ông tính thế thật. Nếu vậy thì khéo tôi tốn tiền thuê người dọn oan uổng rồi."
 
-Tôi suýt chút nữa đã đồng tình với ý kiến đó, nhưng rồi lại bất chợt nhận thấy một thứ kỳ lạ nằm kẹp giữa hai chiếc kệ. "Có lẽ chị không hề uổng tiền chút nào đâu."
+Tôi suýt nữa thì gật gù đồng ý, nhưng rồi lại chợt thấy một vật kỳ lạ nằm kẹp giữa hai chiếc kệ. "Có khi chị không mất tiền oan đâu."
 
-"Ồ, cậu tìm thấy thứ gì à?"
+"Ủa, cậu thấy gì à?"
 
-"Vâng, chị nhìn cái này xem." Tôi vừa tìm thấy một khối lập phương cỡ bằng lòng bàn tay.
+"Vâng, chị xem này." Tôi vừa lôi ra một khối lập phương cỡ bằng lòng bàn tay.
 
-"Đó là cái gì thế?"
+"Cái gì thế nhỉ?"
 
-"Có lẽ là một ma cụ. Tôi có thể cảm nhận được Ma Lực đang lưu chuyển bên trong nó. Dù vậy, nó dường như chưa được kích hoạt, và sẽ cần phải nghiên cứu một chút mới biết được công dụng. Tôi nghĩ Lorraine có thể giám định nó, nếu chị có hứng thú."
+"Chắc là ma cụ. Tôi cảm nhận được luồng Ma Lực bên trong. Cơ mà nó chưa kích hoạt, phải tìm hiểu thêm mới rõ tác dụng thế nào. Nếu chị muốn, tôi nghĩ có thể nhờ Lorraine giám định xem sao."
 
-Rota quen biết rất nhiều người quanh Maalt, bao gồm cả Lorraine. Chị biết tính cách của Lorraine và cũng rõ nghề nghiệp của cô. "Nghe được đấy. Cậu nhờ cô ấy giúp tôi được không? Dĩ nhiên là tôi sẽ trả thù lao cho cô ấy."
+Rota quen biết rộng ở Maalt, trong đó có cả Lorraine. Chị biết tính nết của Lorraine và cũng rõ nghề nghiệp của cô. "Được thế thì tốt quá. Cậu hỏi giúp tôi nhé? Dĩ nhiên là tôi sẽ gửi thù lao đàng hoàng."
 
-"Được chứ, vậy tôi xin phép mang món này đi."
+"Được chứ, vậy tôi xin phép cầm món này đi."
 
 "Cảm ơn cậu nhé."
 
-Tôi hoàn thành việc dọn dẹp căn nhà vào tối hôm đó, rồi lên đường đến gặp Lorraine.
+Dọn dẹp xong căn nhà thì trời cũng đã tối, tôi liền ghé qua chỗ Lorraine.
 
 ◆◇◆◇◆
 
-"Ra vậy, thứ này từng thuộc về ông của Rota sao? Đúng là một ma cụ thật," Lorraine nói sau khi quan sát kỹ khối lập phương.
+"Ra vậy, thứ này từng thuộc về ông của Rota sao? Đúng là ma cụ rồi," Lorraine ngắm nghía kỹ khối lập phương một hồi rồi nói.
 
-"Ừm, tôi không nghĩ nó là thứ gì quá nguy hiểm, nhưng cẩn thận vẫn hơn. Không mấy khi thấy ma cụ nào có hình dạng thế này, nên tôi quyết định không truyền Ma Lực vào đó lúc còn ở bên ấy."
+"Ừm, tôi thấy chắc chẳng có gì quá nguy hiểm đâu, nhưng cẩn thận vẫn hơn. Hiếm khi thấy ma cụ nào có hình dạng thế này, nên lúc ở bên đó tôi quyết định không rót Ma Lực vào."
 
-"Đúng là loại này hiếm thật, nhưng tôi từng thấy một cái trước đây rồi."
+"Loại này hiếm thì có hiếm, nhưng tôi từng thấy một lần rồi."
 
-"Ồ, cô đã biết gì về món này rồi sao?"
+"Ồ, cô biết về món này rồi à?"
 
-"Ừ. Giờ tôi sẽ rót Ma Lực vào nó."
+"Ừ. Giờ tôi rót Ma Lực vào đây."
 
-Lorraine truyền một chút Ma Lực vào khối lập phương. Nó đang được đặt trên bàn ăn, nên tôi không chắc làm vậy có phải ý hay không, nhưng Lorraine sẽ không làm điều gì nguy hiểm đâu. Chà, có khi cô cũng làm thật, nhưng chí ít thì chắc hẳn cô nghĩ chuyện này an toàn.
+Lorraine truyền một chút Ma Lực vào khối lập phương. Đồ thì đặt ngay trên bàn ăn, tôi chẳng biết làm thế có phải ý hay không, nhưng Lorraine thường không làm chuyện gì nguy hiểm. À thì, biết đâu cô dám thật, nhưng chí ít lúc này chắc chắn cô tin là nó an toàn.
 
-Khối lập phương không có vẻ gì là nguy hiểm, nhưng những hạt ánh sáng lấp lánh bắt đầu bay lơ lửng ra từ nó. Rồi chúng tụ lại thành một hình ảnh giữa không trung. Giờ thì tôi cũng đã biết khối lập phương này là thứ gì.
+Khối lập phương không có dấu hiệu gì nguy hiểm, chỉ thấy những hạt sáng lấp lánh bắt đầu tỏa ra từ nó. Rồi chúng tụ lại thành một hình ảnh lơ lửng giữa không trung. Giờ thì tôi cũng biết khối lập phương này là thứ gì rồi.
 
-"Ma cụ này dùng để trình chiếu hình ảnh, phải không? Loại này khá hiếm, nhưng không phải là không thể kiếm được. Dù vậy tôi chưa từng thấy cái nào hình khối lập phương thế này bao giờ. Cả kích cỡ này nữa. Chúng thường trông như những viên tinh thể cơ mà."
+"Ma cụ này dùng để trình chiếu hình ảnh, phải không? Loại này khá hiếm nhưng cũng không phải là không tìm ra. Cơ mà tôi chưa thấy cái nào hình khối lập phương thế này bao giờ. Cỡ nhỏ thế này lại càng chưa. Chúng thường trông như những viên tinh thể cơ mà."
 
-"Phải, ở Maalt chúng thường có hình dạng như thế. Còn ở Đế Quốc, chúng thường có hình khối lập phương. Tuy nhiên, những cái nhỏ cỡ này chỉ được tìm thấy ở tầng khá sâu trong mê cung thôi. Ông của Rota hẳn phải là một mạo hiểm giả cừ khôi."
+"Phải, ở Maalt chúng thường có dạng như thế. Còn ở Đế Quốc thì đa phần là hình khối lập phương. Có điều, những cái nhỏ cỡ này chỉ được tìm thấy ở tầng khá sâu trong mê cung thôi. Ông của Rota trước kia hẳn phải là một mạo hiểm giả có thực lực."
 
-"Tôi hiểu rồi. Dù vậy, hình ảnh này đúng là ngoài dự liệu thật."
+"Ra thế. Cơ mà hình ảnh này đúng là bất ngờ thật."
 
-Lorraine khựng lại một nhịp trước khi nói, "Tôi nghĩ ma cụ này sẽ bán được giá khá cao đấy, nhưng tôi không nghĩ Rota sẽ bán nó đâu."
+Lorraine khựng lại một nhịp rồi bảo, "Tôi nghĩ ma cụ này bán được bộn tiền đấy, nhưng tôi đoán Rota sẽ không bán đâu."
 
-"Chắc là không rồi. Có lẽ ông của chị ấy muốn đuổi khéo đám họ hàng đi là để món đồ này không bị đem bán."
+"Chắc chắn là không rồi. Có khi người ông đuổi khéo đám họ hàng đi cũng là để món này khỏi bị đem bán."
 
-"Nghe có lý đấy. Thôi được, ngày mai anh hãy mang trả nó cho cô ấy nhé," Lorraine nói. Tôi gật đầu.
+"Thế thì có lý đấy. Mai anh cứ đem trả lại cho chị ấy đi," Lorraine nói. Tôi gật đầu.
 
 ◆◇◆◇◆
 
-"Ra là vậy, đây là công dụng của món ma cụ này sao. Thật là một hình ảnh quá khứ vô cùng rõ nét."
+"Hóa ra là thế, ma cụ này có tác dụng như vậy sao. Hình ảnh ngày xưa mà sắc nét thật đấy."
 
-Tôi mang ma cụ đến trả cho Rota vào ngày hôm sau, và khi tôi chỉ cho chị cách nó hoạt động, chị chăm chú ngắm nhìn nó với vẻ mặt bồi hồi hoài niệm. Hình ảnh tái hiện lại người ông của Rota, con trai và con dâu của ông, cùng với đứa con thơ của họ, chính là Rota.
+Hôm sau, tôi mang ma cụ đến trả cho Rota. Khi tôi hướng dẫn chị cách nó hoạt động, chị chăm chú ngắm nhìn nó với vẻ mặt bồi hồi hoài niệm. Hình ảnh tái hiện lại người ông của Rota, con trai và con dâu của ông, cùng với đứa con thơ của hai người—chính là Rota thuở bé.
 
-"Tôi có thể chỉ cho chị một nơi mua lại món này với giá khá hời đấy," tôi nói, nhưng tôi không nghĩ chị sẽ nhận lời đề nghị ấy.
+"Nếu chị muốn, tôi có thể chỉ cho chị chỗ bán món này được giá khá hời đấy," tôi nói, dù biết chắc chị sẽ không nghe theo.
 
-Chị mỉm cười rồi lắc đầu. "Cảm ơn cậu, nhưng tôi sẽ giữ nó lại. Dù sao thì tôi cũng chẳng đến mức túng thiếu tiền bạc. Mà dẫu có túng quẫn, tôi cũng chẳng đời nào bán thứ này. Cảm ơn cậu nhé, Rentt. Tôi thật may mắn vì đã nhờ cậu giúp đỡ. Nếu không, có lẽ tôi sẽ chẳng bao giờ biết được đây là món đồ gì."
+Chị mỉm cười lắc đầu. "Cảm ơn cậu, nhưng tôi sẽ giữ nó lại. Dù sao thì tôi cũng đâu túng thiếu tiền bạc. Mà dẫu có túng quẫn đi nữa, tôi cũng chẳng đời nào bán thứ này. Cảm ơn cậu nhiều nhé, Rentt. May mà tôi nhờ cậu giúp, chứ không thì có khi tôi chẳng bao giờ biết đây là món đồ gì."
 
-Tôi không nghĩ đến mức đó, nhưng nếu để đám họ hàng của chị dọn dẹp thì có khi chuyện ấy cũng xảy ra thật.
+Tôi thì không nghĩ đến mức đó, nhưng nếu để đám họ hàng của chị dọn dẹp thì có khi chuyện ấy cũng xảy ra thật.
 
-"Không có gì đâu," tôi nói.
+"Không có gì đâu chị," tôi đáp.
