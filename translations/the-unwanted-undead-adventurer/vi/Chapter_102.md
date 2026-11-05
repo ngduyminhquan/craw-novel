@@ -20,88 +20,88 @@ Nói xong, tôi khẽ vẫy tay rồi rời khỏi nhà Lorraine, rảo bước 
 
 ◆◇◆◇◆
 
-Tọa lạc trên một con phố sầm uất ở vị trí khá nổi bật chính là trụ sở chính của Thương hội Stheno. Đúng như mong đợi từ một trong những thương hội hàng đầu Maalt, bản thân tòa nhà trông vô cùng bề thế.
+Nằm trên một con phố sầm uất, ở vị trí khá dễ thấy, chính là trụ sở chính của Thương hội Stheno. Đúng như những gì tôi hình dung về một trong những thương hội hàng đầu Maalt, tòa nhà trông rất bề thế.
 
-Đó là một tòa nhà năm tầng xây bằng gạch đá. Hai tầng đầu tiên là nơi đặt các gian hàng buôn bán, còn các tầng trên là văn phòng điều hành và kho chứa của thương hội. Nhìn dòng người ra vào tấp nập qua những cánh cửa, đủ thấy nơi đây chẳng bao giờ thiếu vắng khách hàng. Nơi này bán đủ mọi thứ, từ đồ tạp hóa sinh hoạt thường nhật cho đến dụng cụ dành cho mạo hiểm giả, cùng vô số mặt hàng linh tinh khác nữa. Nói một cách nhẹ nhàng nhất thì chủng loại hàng hóa ở đây cực kỳ phong phú.
+Đó là một tòa nhà năm tầng xây bằng gạch đá. Hai tầng đầu là khu cửa hàng buôn bán, còn các tầng trên là văn phòng điều hành và kho chứa của thương hội. Nhìn dòng người ra vào không ngớt qua cánh cửa, đủ thấy nơi đây chẳng bao giờ thiếu khách. Nơi này bán đủ mọi thứ, từ đồ tạp hóa sinh hoạt thường ngày cho đến dụng cụ cho mạo hiểm giả, cùng đủ thứ mặt hàng linh tinh khác. Ít nhất cũng phải nói là mặt hàng ở đây rất đa dạng.
 
-Đứng lẫn trong dòng khách gần lối vào cửa hàng lúc này không ai khác ngoài tôi, dù phần lớn họ chẳng ai trùm áo choàng hay đeo mặt nạ như tôi cả. Đúng là cũng có vài người khoác áo choàng hoặc đeo mặt nạ, song tôi chẳng thấy vị khách nào mang chiếc mặt nạ nổi bật đến mức như chiếc mặt nạ hình đầu lâu của mình.
+Đứng lẫn trong đám khách gần lối vào cửa hàng lúc này không ai khác chính là tôi, dù phần lớn họ không đeo mặt nạ và khoác áo choàng như tôi. Đúng là cũng có vài người trùm áo choàng hoặc đeo mặt nạ, nhưng tôi chẳng thấy vị khách nào mang chiếc mặt nạ nổi bật như chiếc mặt nạ hình đầu lâu của mình.
 
-Đa số những vị khách đeo mặt nạ ấy đều là nạn nhân của các vết bỏng hoặc vết sẹo, họ đeo mặt nạ cốt để che đi thương tật của mình. Riêng từ nhóm khách này, tôi cảm nhận rõ những ánh nhìn phảng phất vẻ thương cảm. Trước đây tôi từng nghe nói rằng những ai đeo mặt nạ đặc biệt lớn và cầu kỳ thường nhận được sự kính nể theo một cách kỳ lạ như thế.
+Đa số những vị khách đeo mặt nạ ấy đều bị bỏng hoặc có sẹo, nên họ dùng mặt nạ để che đi vết thương. Riêng từ những người này, tôi cảm nhận được ánh nhìn phảng phất vẻ thương cảm. Trước đây tôi từng nghe nói những người đeo mặt nạ đặc biệt lớn và cầu kỳ thường được nể trọng theo một kiểu kỳ lạ như thế.
 
-Dẫu vậy, dẫu có ai mang mặt nạ hoa mỹ thì thường họ cũng diện luôn trang phục lộng lẫy tương xứng. Còn kiểu người như tôi, đeo chiếc mặt nạ cầu kỳ mà lại khoác chiếc áo choàng tương đối giản dị, ngược lại càng lạc lõng chướng mắt, đập ngay vào mắt người khác.
+Dù vậy, những người đeo mặt nạ cầu kỳ thì thường cũng mặc trang phục lộng lẫy tương xứng. Còn một kẻ như tôi, đeo chiếc mặt nạ hoa mỹ mà lại khoác chiếc áo choàng khá giản dị, thành ra càng lạc lõng, đập ngay vào mắt người khác.
 
-Nhưng tôi đâu thể cứ đứng trơ ra đây mãi. Lúc này tôi đã ở ngay lối vào trụ sở chính của Thương hội Stheno rồi. Liệu tôi có nên cứ để nguyên bộ dạng này mà bước vào không? Vì trước giờ tôi chỉ quen hoạt động vào đêm muộn hoặc sáng sớm, hay chí ít là những khung giờ ban chiều vắng bóng người, nên việc đứng giữa đám đông chen chúc thế này với tôi quả là trải nghiệm mới mẻ. Dù có đôi chút hoài niệm, tôi vẫn thấy bồn chồn, tự hỏi liệu mình có nên thay bộ đồ khác hay không. Có khi cái chốn này còn làm tôi bối rối hơn cả lần chạm trán Rồng Đất...
+Nhưng tôi không thể cứ đứng mãi ở đây mà chẳng làm gì. Lúc này tôi đã ở ngay lối vào trụ sở chính của Thương hội Stheno rồi. Cứ để nguyên thế này mà bước vào có ổn không? Vì thường ngày tôi chỉ hoạt động vào đêm muộn hoặc sáng sớm, hay chí ít là vào những giờ chiều vắng người, nên đứng giữa đám đông chen chúc thế này với tôi quả là mới lạ. Dù có chút hoài niệm, tôi vẫn thấy hồi hộp, tự hỏi có nên đổi bộ đồ khác không. Có khi nơi này còn làm lòng tôi xáo động hơn cả lần chạm trán Rồng Đất...
 
-Xì. Đúng là phóng đại quá rồi. Đến con quái thú cỡ đó mình còn dám đương đầu cơ mà! Cớ sao mày lại phải khiếp sợ một đám người bình thường chứ hả, Rentt?
+Xì. Thế thì nói quá rồi. Đến con quái thú cỡ đó mình còn dám đối mặt cơ mà! Sao mày lại phải sợ một đám đông người bình thường chứ hả, Rentt?
 
-Nghĩ vậy, tôi rảo bước tiến thẳng vào sảnh, bước qua cánh cửa lớn.
+Nghĩ vậy, tôi bước thẳng vào lối vào rồi đi qua cánh cửa.
 
-"Kính chào quý khách! Hôm nay tôi có thể giúp gì cho ngài ạ?"
+"Xin kính chào quý khách! Hôm nay tôi có thể giúp gì cho ngài?"
 
-Vừa đặt chân qua cánh cửa, một giọng nói đã cất lên chào đón tôi. Ngay sau đó, một người đàn ông dong dỏng cao tiến lại gần. Toát lên từ người này là phong thái chuyên nghiệp rõ rệt. Dù không chạy, nhưng chỉ nhìn nhịp bước chân, tôi đã nhận ra anh ta là một mạo hiểm giả.
+Vừa bước qua cánh cửa, một giọng nói đã cất lên chào tôi. Chẳng mấy chốc, một người đàn ông dong dỏng cao tiến lại gần. Từ anh ta toát lên vẻ chuyên nghiệp rõ rệt. Dù anh ta không chạy, nhưng nhìn nhịp bước chân, tôi nhận ra được anh ta từng là mạo hiểm giả.
 
-Quả không hổ danh là trụ sở chính của một thương hội lớn... Đến cả nhân viên cũng chẳng phải hạng tầm thường.
+Đúng là cửa hàng chính quy mô lớn có khác... Đến nhân viên cũng chẳng phải tay vừa.
 
-Các cửa hàng bình thường thì khác, khách thích ra vào lúc nào tùy ý. Thú thật là tôi thích kiểu tiệm như thế hơn, nhưng nếu muốn tìm những món đồ đạt độ tinh xảo và chất lượng nhất định thì một cửa hàng tầm cỡ như nơi này đáng tin cậy hơn nhiều.
+Các cửa hàng bình thường thì khác, khách thích ra vào lúc nào tùy ý. Thật lòng thì tôi chuộng những tiệm như thế hơn, nhưng nếu muốn tìm những món đồ có độ tinh xảo và chất lượng nhất định, một cửa hàng như nơi này đáng tin cậy hơn nhiều.
 
-Phong thái của người đàn ông này đem lại cho người ta cảm giác rất an tâm. Cứ như thể chỉ cần giao trọn danh mục cần mua cho anh ta, anh ta sẽ chỉ chọn ra đúng những món thích hợp nhất với nhu cầu vậy. Lẽ dĩ nhiên, một nơi thế này hoàn toàn có thể tìm cách chèo kéo khách mua đủ thứ họ chẳng hề cần đến. Nhưng nghĩ lại thì, một thương hội tầm cỡ này thừa hiểu làm vậy chỉ tổ khiến lượng khách của họ ngày một hao hụt đi.
+Ở người đàn ông này có vẻ điềm tĩnh khiến người ta yên tâm. Cảm giác như chỉ cần giao cả danh sách đồ cần mua cho anh ta, anh ta sẽ chọn ra đúng những món phù hợp nhất. Một cửa hiệu như thế này dĩ nhiên hoàn toàn có thể chào mời khách mua đủ thứ họ chẳng cần đến. Nhưng nghĩ lại thì, một cơ sở tầm cỡ này chắc hẳn thừa hiểu làm vậy chỉ khiến khách khứa của họ ngày một vơi đi.
 
-"À... Hừm. Khụ. Vâng. Tôi là Rentt Vivie. Tôi chính là người đợt trước đã hạ gục con Tarasque..."
+"À... Ừm. Khụ. Vâng. Tôi là Rentt Vivie. Tôi là người hôm trước đã hạ con Tarasque..."
 
-Vừa nghe thấy tên tôi, người đàn ông tỏ vẻ đã hiểu ra ngay, nhưng anh ta liền nhanh chóng ngắt lời tôi.
+Vừa nghe tên tôi, người đàn ông tỏ vẻ đã hiểu ra ngay, nhưng liền ngắt lời tôi giữa chừng.
 
-"Tôi đã nhận được tin ngài sẽ ghé thăm rồi ạ. Xin mời ngài đi lối này," người nhân viên nói rồi dẫn tôi ra phía sau cửa hàng.
+"Tôi đã được báo trước là ngài sẽ tới rồi. Xin mời ngài đi lối này," người nhân viên nói rồi dẫn tôi ra phía sau cửa hàng.
 
-Chỗ này không còn thuộc khu bán hàng nữa, mà là sảnh chờ của một loại thang máy, có lẽ dùng để đưa chúng tôi lên các phòng điều hành của tòa nhà.
+Khu vực này không còn thuộc sảnh bán hàng nữa, mà là sảnh chờ của một kiểu thang máy, chắc là dùng để đưa chúng tôi lên khu văn phòng của tòa nhà.
 
-"Lâu rồi tôi không ghé lại nơi này. Không ngờ bây giờ ở đây lại có một thứ như thế này..." Tôi ngạc nhiên nhìn cỗ thang máy, buột miệng nói.
+"Lâu rồi tôi không ghé qua đây. Không ngờ giờ ở đây lại có cả thứ như thế này..." Tôi ngạc nhiên nhìn chiếc thang máy, nói.
 
-"À, vâng. Chúng tôi mới nhận và lắp đặt cỗ máy này gần đây thôi ạ. Nó do các nghệ nhân, tức những thợ chế tác ma cụ từ thủ đô làm ra. Khắp Maalt chỉ có riêng cửa hàng này là trang bị một cỗ máy như vậy thôi. Nhưng... ngài đã từng ghé qua cửa hàng chúng tôi trước đây rồi ư? Xin mạn phép thứ lỗi, nhưng đã bao lâu rồi kể từ lần cuối ngài ghé thăm nơi này vậy ạ...?"
+"À, vâng. Chúng tôi mới nhận và lắp đặt thiết bị này gần đây thôi. Nó do các nghệ nhân, tức những thợ chế tác ma cụ trên kinh đô làm ra đấy. Ở Maalt chỉ có riêng cửa hàng này là lắp đặt thứ như vậy thôi. Nhưng... trước đây ngài từng ghé cửa hàng chúng tôi rồi ư? Xin thứ lỗi cho tôi hỏi câu này, đã bao lâu rồi kể từ lần cuối ngài ghé thăm nơi đây...?"
 
-Thợ chế tác ma cụ từ thủ đô cơ à...
+Thợ chế tác ma cụ trên kinh đô cơ à...
 
-Trước đây tôi từng đọc về thang máy trong một cuốn sách dày cộp của Lorraine, nhưng đây là lần đầu tiên tôi được tận mắt nhìn thấy ngoài đời thực. Theo những gì tôi nhớ thì cỗ máy này được tạo ra bằng kỹ thuật từ các vùng đất phía tây. Từng có lúc tôi tự hỏi bao giờ thì Vương Quốc Yaaran mới du nhập kỹ thuật như thế này, nhưng xem ra vương quốc đã sớm áp dụng rồi.
+Trước đây tôi từng đọc về thang máy trong một cuốn sách dày của Lorraine, nhưng đây là lần đầu tiên tôi được tận mắt nhìn thấy ngoài đời thực. Theo những gì tôi nhớ thì những cỗ máy này được làm ra nhờ kỹ thuật từ các vùng đất phía tây. Từng có lúc tôi tự hỏi bao giờ Vương Quốc Yaaran mới tiếp nhận những kỹ thuật như thế, nhưng xem ra nơi này đã áp dụng rồi.
 
-Nếu một thị trấn biên ải như Maalt cũng có thang máy, thì liệu ở thủ đô đã có vô số cỗ máy thế này rồi chăng? Hừm... Vì chúng chỉ có thể được làm ra bởi một số nghệ nhân nhất định, tôi đoán chúng cũng chẳng phổ biến đến mức ấy. Phải chăng đây là cách thương hội này phô trương thế lực? Một lời khẳng định về độ giàu có chăng?
+Nếu một thị trấn vùng biên như Maalt cũng có thang máy, vậy có nghĩa là trên kinh đô đã có rất nhiều cỗ máy thế này rồi chăng? Hừm... Xét việc chỉ một số nghệ nhân nhất định mới chế tạo được chúng, tôi đoán chúng cũng chẳng phổ biến đến thế. Phải chăng đây là màn phô trương thanh thế của riêng thương hội này? Một cách khẳng định sự giàu có chăng?
 
-Quan trọng hơn, anh nhân viên này lại đang gặng hỏi về lần ghé thăm trước của tôi. Chẳng lẽ anh ta nhớ được mặt mũi của mọi vị khách từng đến đây sao?
+Quan trọng hơn, người nhân viên này đang hỏi về lần ghé thăm trước của tôi. Chẳng lẽ anh ta nhớ được mặt hết thảy khách hàng của mình sao?
 
-Chà, cũng có thể lần trước tôi nói chuyện với một nhân viên khác chứ không phải người này, mà anh ta vẫn hỏi câu tương tự. Chỉ là tôi không nhớ rõ lắm thôi. Biết đâu việc nhớ mặt khách hàng là quy định bắt buộc của riêng nơi này đối với nhân viên cũng nên.
+Mà biết đâu lần trước tôi nói chuyện với một nhân viên khác chứ không phải anh ta, nhưng vẫn sẽ bị hỏi câu tương tự thôi. Chỉ là tôi không nhớ rõ lắm. Có khi nhớ mặt khách hàng là yêu cầu của riêng thương hội này đối với nhân viên cũng nên.
 
-Dù vậy, đây vẫn là câu hỏi hết sức rắc rối đối với tôi. Tôi phải mau mau nghĩ ra cái cớ nào đó để thoái thác mới được.
+Dù vậy, đây vẫn là một câu hỏi rất phiền phức với tôi. Tôi phải nhanh chóng nghĩ ra cái cớ nào đó mới được.
 
-"Từ hồi nào ấy nhỉ... Có khi là một cửa tiệm khác chứ chẳng phải nơi này. Nếu nhớ không nhầm thì dạo ấy tôi ghé qua định bụng tìm mua lá Hoonoki Maalt..."
+"Lần đó là khi nào nhỉ... Cũng có thể là một cửa tiệm khác chứ không phải nơi này. Nếu tôi nhớ không nhầm thì dạo ấy tôi ghé qua để tìm mua lá Hoonoki Maalt..."
 
-"À, nếu thế thì thưa ngài, hẳn là ngài đang nhắc tới Thương hội Witta rồi ạ. Bên đó nhập về rất nhiều mặt hàng phục vụ cho mạo hiểm giả, chất lượng cũng rất ra trò. Dĩ nhiên, cửa hàng chúng tôi cũng sẽ đáp ứng nhu cầu của ngài chẳng hề kém cạnh, nếu không muốn nói là còn tốt hơn."
+"À, nếu thế thì thưa ngài, chắc hẳn ngài đang nói tới Thương hội Witta rồi. Bên đó có trữ rất nhiều mặt hàng phục vụ cho mạo hiểm giả, chất lượng cũng rất đáng nể. Dĩ nhiên, cửa hàng chúng tôi cũng sẽ đáp ứng nhu cầu của ngài tốt không kém, nếu không muốn nói là còn hơn thế."
 
-Đúng như người đàn ông nói, lá Hoonoki Maalt chỉ có bán ở Thương hội Witta, còn Thương hội Stheno thì không hề nhập về. Nhưng dĩ nhiên, đó chỉ là cái cớ tôi bịa ra thôi. Dẫu sao thấy người nhân viên có vẻ tin lời, tôi cũng thở phào nhẹ nhõm.
+Đúng như người đàn ông nói, lá Hoonoki Maalt chỉ có Thương hội Witta bán, còn Thương hội Stheno thì không nhập mặt hàng này. Nhưng dĩ nhiên, đó chỉ là cái cớ tôi nghĩ ra thôi. Dù sao thấy người nhân viên có vẻ tin lời, tôi cũng nhẹ cả người.
 
-Nói đi cũng phải nói lại, loại lá đó cũng chẳng phải thứ hàng họ gì đắt như tôm tươi. Cửa hàng có muốn nhập về bán ngay từ đầu hay không vốn hoàn toàn tùy thuộc vào họ. Có điều với cánh mạo hiểm giả chúng tôi, nó lại là món đồ thiết yếu, và Thương hội Witta đã chuyên bán loại lá này từ xa xưa. Cũng bởi mặt hàng này gắn liền với tên tuổi của Witta, những cửa hiệu khác hiếm khi bày bán, thậm chí là chẳng buồn nhập về.
+Nhân tiện nói thêm, loại lá đó cũng chẳng phải mặt hàng bán đắt như tôm tươi. Ngay từ đầu cửa hàng có muốn bày bán hay không hoàn toàn là tùy ở họ. Có điều với cánh mạo hiểm giả chúng tôi, nó cũng coi như một thứ đồ thiết yếu, và Thương hội Witta đã bán loại lá này từ xưa đến nay rồi. Vì mặt hàng này đã gắn liền với tên tuổi tiệm đó, các cửa hiệu khác hiếm khi nhập về, hoặc thậm chí chẳng bán bao giờ.
 
-Vì giống cây này mọc bạt ngàn quanh Maalt, người của Thương hội Stheno muốn thu gom về bán cũng chẳng khó khăn gì, nhưng bởi phần lớn mạo hiểm giả đều quen mua ở Witta nên làm vậy cũng không bõ công. Đằng nào họ cũng có vô số mặt hàng khác thừa sức thu hút khách tìm đến tận cửa.
+Vì loài cây này mọc rất nhiều quanh Maalt, nhân viên Thương hội Stheno muốn bán cũng chẳng khó khăn gì, nhưng xét việc phần lớn mạo hiểm giả đều cứ thế sang Witta mua nên làm vậy cũng chẳng có mấy ý nghĩa. Họ còn có bao nhiêu mặt hàng khác kéo khách đến tận cửa rồi.
 
-Thú thật thì lượng khách của họ vốn dĩ đã quá đông rồi. Chuyện thiếu đi một món hàng nhỏ nhặt chẳng thể là vấn đề đối với Thương hội Stheno.
+Thật lòng mà nói, lượng khách hiện tại của họ đã đủ đông rồi. Chuyện đó chẳng phải vấn đề gì với Thương hội Stheno cả.
 
-"...Đã tới nơi rồi thưa ngài. Đây là tầng năm của cửa hàng chúng tôi. Phòng tiếp khách ở hướng này, xin mời ngài đi theo tôi," người đàn ông cất lời, lại tiếp tục dẫn đường khi chúng tôi bước ra khỏi thang máy.
+"...Chúng ta tới nơi rồi, thưa ngài. Đây là tầng năm của cửa hàng chúng tôi. Phòng tiếp khách ở hướng này, xin mời ngài," người đàn ông nói, lại tiếp tục dẫn đường khi chúng tôi bước ra khỏi thang máy.
 
-Cuối cùng, chúng tôi dừng lại trước một cánh cửa gỗ hai cánh, mà trông còn có vẻ đắt tiền nữa là đằng khác.
+Cuối cùng, chúng tôi dừng lại trước một cánh cửa gỗ hai cánh, trông cũng khá đắt tiền.
 
-Mà không, đâu chỉ đơn thuần là trông đắt tiền. Bản thân cánh cửa đó chắc hẳn phải đáng giá cả một món tiền lớn. Bề mặt gỗ được chạm trổ những hoa văn tinh xảo, cầu kỳ, còn tay nắm cửa dường như được đúc bằng bạc ròng. Cánh cửa xa hoa đến mức này là vì đây là phòng tiếp khách, hay đơn thuần do thương hội này quá đỗi giàu có...?
+Mà không, đâu chỉ là trông đắt tiền. Bản thân cánh cửa đó chắc hẳn phải đáng giá cả một khoản tiền lớn. Cánh cửa được chạm trổ hoa văn tinh xảo, cầu kỳ, còn tay nắm cửa dường như làm bằng bạc nguyên khối. Cửa làm xa hoa đến mức này là vì đây là phòng tiếp khách, hay đơn giản là do thương hội này giàu có đến thế...?
 
-Dù sao đi nữa...
+Dù là lý do gì đi nữa...
 
 "Xin mời ngài đi lối này."
 
-Cạch một tiếng, tay nắm cửa xoay chuyển rồi cánh cửa mở ra. Tôi bước vào theo lời mời, người đàn ông cũng theo chân bước vào rồi nhanh chóng khép cửa lại sau lưng.
+Cạch một tiếng, tay nắm cửa xoay rồi cánh cửa mở ra. Tôi bước qua cửa theo lời chỉ dẫn, người đàn ông cũng bước vào ngay sau tôi rồi khép cửa lại.
 
-"Xin mời ngài cứ tự nhiên ạ," người nhân viên nói rồi mời tôi ngồi xuống chiếc ghế sô-pha trông rất êm ái. Ngay sau đó, anh ta lấy từ trên kệ trong phòng xuống một bộ ấm trà tinh xảo toát lên vẻ trang nhã, tỏa ra hương thơm dìu dịu, ấm áp.
+"Xin mời ngài cứ tự nhiên," người nhân viên nói rồi mời tôi ngồi xuống chiếc ghế sô-pha trông rất êm ái. Chẳng mấy chốc, anh ta lấy từ trên kệ trong phòng xuống một bộ ấm chén tinh xảo, toát lên vẻ thanh lịch cùng hương thơm dịu nhẹ, ấm áp.
 
-"Trà đen thưa ngài. Đây là trà được pha từ những búp trà hảo hạng nhất của thương hội chúng tôi. Nếu ngài muốn dùng thêm, nơi này có chuẩn bị vài món điểm tâm rất hợp để thưởng thức cùng trà. Giờ thì xin phép ngài, tôi sẽ đi mời chủ nhân đến. Trong lúc chờ đợi, xin ngài cứ tự nhiên nghỉ ngơi ạ."
+"Trà đen, thưa ngài. Được pha từ loại lá trà hảo hạng nhất của cửa hàng chúng tôi. Nếu ngài muốn dùng thêm, ở đây có chuẩn bị vài món bánh trái rất hợp để thưởng thức cùng trà. Giờ thì xin phép ngài, tôi sẽ đi mời chủ nhân tới. Trong lúc chờ đợi, xin ngài cứ tự nhiên nghỉ ngơi."
 
-Dứt lời, người đàn ông cúi gập người rồi lặng lẽ rời khỏi phòng.
+Nói rồi, người đàn ông cúi đầu thật sâu, lặng lẽ rời khỏi phòng.
 
-"Hừm... Ngon thật đấy. Mấy món điểm tâm này cũng vậy..."
+"Hừm... Ngon thật. Mấy món ăn nhẹ này cũng thế..."
 
-Đang mải mê đắm chìm trong hương vị tuyệt hảo của trà bánh, tôi bất ngờ giật mình khi vài tiếng gõ cửa lớn đột ngột vang lên. Hoảng hốt, tôi vội vàng đặt tách trà trở lại đĩa lót, cố trấn tĩnh hết mức có thể rồi cẩn trọng cất tiếng đáp lời.
+Đang mải đắm chìm trong hương vị thơm ngon của trà bánh, tôi bỗng giật mình khi có mấy tiếng gõ cửa khá lớn vang lên báo hiệu. Hoảng hốt, tôi vội đặt tách trà về lại đĩa lót, cố trấn tĩnh hết mức có thể rồi thận trọng lên tiếng đáp lại.
 
-"...Xin mời vào."
+"...Mời vào."

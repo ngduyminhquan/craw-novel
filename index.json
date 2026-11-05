@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T02:36:51Z",
+  "generatedAt": "2026-11-05T02:42:13Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2752,19 +2752,19 @@
           "number": 100,
           "title": "Chương 100: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_100.md",
-          "sha": "179394a78e2e8773e034a07557f8ad4ca264ee78"
+          "sha": "44e7548bf539a7e7d0ca1f64b599710057d09e07"
         },
         {
           "number": 101,
           "title": "Chương 101: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (8)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_101.md",
-          "sha": "0ea0103568a1d2b7e2ea28b0259b5ae8fb57de37"
+          "sha": "44dc742828e8cb9c671ea0ff167055bb1d8efdf2"
         },
         {
           "number": 102,
           "title": "Chương 102: Tập 4 Chương 3 - Thương Hội Stheno (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_102.md",
-          "sha": "825cf4bfa8f5ce28498d66e28cacf4cdbcc1f9b6"
+          "sha": "235c9cdd3f0e1b516b5c97361f94965c78972374"
         },
         {
           "number": 103,
