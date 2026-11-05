@@ -38,7 +38,7 @@ Người đàn ông lắc đầu. "Đằng nào chúng tôi cũng hết cách r�
 
 "Tôi hiểu rồi. Mà sao ban nãy ông lại giữ tôi lại thế? May là tôi nảy ra được một ý, chứ nhìn tôi thế này đâu có lý do gì để ông nghĩ là tôi giúp được."
 
-"À, thật ra tôi đâu có định nhờ cậu chuyện ấy, mà là..."
+"À, thật ra tôi đâu có định nhờ anh chuyện ấy, mà là..."
 
 Thế rồi ông trưởng đoàn mới nói rõ lý do giữ tôi lại, và câu trả lời quả thực khiến tôi sửng sốt.
 

@@ -52,11 +52,11 @@ Tôi lao ra khỏi phòng làm việc, chạy vội ra ngoài đường phố.
 
 ◆◇◆◇◆
 
-Tôi chạy băng qua thị trấn, trong đầu đã định sẵn điểm đến. Khắp nơi đang rơi vào cảnh nguy ngập, nên trước hết tôi đưa mắt nhìn quanh để nắm bắt tình hình. Nhưng tôi về Maalt vốn là vì Edel, nên nhóc ấy là ưu tiên hàng đầu của tôi. Sở dĩ tôi nấn ná tới tận lúc này mới đi tìm là vì đã chắc chắn nhóc vẫn còn sống và đang ở một nơi tạm thời an toàn.
+Tôi chạy băng qua thị trấn, trong đầu đã định sẵn điểm đến. Khắp nơi đang rơi vào cảnh nguy ngập, nên trước hết tôi đưa mắt nhìn quanh để nắm bắt tình hình. Nhưng tôi về Maalt vốn là vì Edel, nên chú chuột mới là ưu tiên hàng đầu của tôi. Sở dĩ tôi nấn ná tới tận lúc này mới đi tìm là vì đã chắc chắn Edel vẫn còn sống và đang ở một nơi tạm thời an toàn.
 
 Khác với quái vật thông thường, Undead có thể sống sót và hồi phục dù chịu thương tổn nặng nề đến đâu, miễn là cái đầu vẫn còn nguyên vẹn, nên tôi biết Edel sẽ ổn thôi. Tôi hơi chờn khi nghĩ đến việc tự nổ tung đầu mình để xem có sống lại được không, nhưng biết đâu có đủ thời gian thì ngay cả chuyện đó cũng làm được. Dẫu vậy, tôi chẳng dại gì đi thử nghiệm.
 
-Nơi tôi đang hướng tới là Cô Nhi Viện Thứ Hai Maalt. Đó là nơi ở của Alize, Sơ Lillian cùng những đứa trẻ khác, đồng thời cũng là căn cứ hoạt động của Edel. Cảm ứng giữa tôi và Edel cho thấy tín hiệu phát ra từ đó. Dù nhóc dường như vẫn đang bất tỉnh, nhưng nhóc vẫn còn sống, nên ít ra như vậy cũng coi như tạm ổn. Tôi cũng muốn biết xem Alize, Sơ Lillian và lũ trẻ có được an toàn hay không.
+Nơi tôi đang hướng tới là Cô Nhi Viện Thứ Hai Maalt. Đó là nơi ở của Alize, Sơ Lillian cùng những đứa trẻ khác, đồng thời cũng là căn cứ hoạt động của Edel. Cảm ứng giữa tôi và Edel cho thấy tín hiệu phát ra từ đó. Dù chú chuột dường như vẫn đang bất tỉnh, nhưng vẫn còn sống, nên ít ra như vậy cũng coi như tạm ổn. Tôi cũng muốn biết xem Alize, Sơ Lillian và lũ trẻ có được an toàn hay không.
 
 Tôi vội vã băng qua thị trấn cho tới khi đến được cô nhi viện. Dọc đường, thấy mọi người nháo nhào chạy loạn, tôi tiện tay cứu vài người bị kẹt dưới đống đổ nát, nhưng không thấy bóng dáng con Ma Cà Rồng hay Thi Quỷ nào. Cứu người chẳng mất bao nhiêu thì giờ. Với cơ thể này, tôi dễ dàng nhấc bổng những vật nặng và tránh được hiểm nguy. Sức mạnh này là điều trước đây tôi có nằm mơ cũng không dám nghĩ tới.
 
@@ -102,11 +102,11 @@ Rốt cuộc, nghe chừng để các mạo hiểm giả đi lùng sục vẫn h
 
 "Vậy thì tốt rồi. Sơ có biết tình hình bên dưới cô nhi viện thế nào không?"
 
-Tôi hỏi vì đó là nơi Edel trú ngụ. Cả Alize lẫn Sơ Lillian đều biết nhóc sống ở dưới đó.
+Tôi hỏi vì đó là nơi Edel trú ngụ. Cả Alize lẫn Sơ Lillian đều biết chú chuột sống ở dưới đó.
 
-"Anh muốn biết về Edel sao?" Alize hỏi, vẫn ôm chặt lấy tôi nhưng ngước nhìn lên mặt tôi. "À phải rồi, em chẳng thấy nhóc ấy đâu cả. Vào lúc như thế này, tưởng nhóc ấy phải mò ra ngoài để bàn bạc với những con chuột khác chứ nhỉ."
+"Anh muốn biết về Edel sao?" Alize hỏi, vẫn ôm chặt lấy tôi nhưng ngước nhìn lên mặt tôi. "À phải rồi, em chẳng thấy nó đâu cả. Vào lúc như thế này, tưởng nó phải mò ra ngoài để bàn bạc với những con chuột khác chứ nhỉ."
 
-Tôi biết mạng lưới liên lạc của Edel rất rộng lớn và bầy chuột thường xuyên trao đổi với nhau. Đây đúng là thời điểm hoàn hảo để tận dụng điều đó, thế nên việc không thấy bóng dáng nhóc ở đâu quả là kỳ lạ.
+Tôi biết mạng lưới liên lạc của Edel rất rộng lớn và bầy chuột thường xuyên trao đổi với nhau. Đây đúng là thời điểm hoàn hảo để tận dụng điều đó, thế nên việc không thấy bóng dáng chú chuột ở đâu quả là kỳ lạ.
 
 "Tôi sẽ xuống kiểm tra tầng hầm. Hai người nên trốn sâu vào bên trong thì hơn. Nếu có chuyện gì xảy ra, cứ hét to gọi tôi nhé. Tôi sẽ chạy ngay lên đây," tôi dặn dò rồi tiến về phía tầng hầm.
 
@@ -120,17 +120,17 @@ Năm chú chuột tất tả chạy lại gần tôi. Chúng là đám chuột �
 
 "Này!"
 
-Tôi vội bước tới và đặt tay lên mình nhóc. Trông nhóc như đã chết, nhưng rõ ràng là không phải. Dẫu vậy, tôi không rõ chính xác nhóc đang ở trong tình trạng thế nào. Tôi vẫn cảm nhận được hơi thở của nhóc và không thấy vết thương nào đáng kể, dù chẳng biết chuyện còn thở thì có ý nghĩa gì với Undead hay không. Bản thân tôi cũng thở, nhưng chủ yếu chỉ để hòa nhập với xung quanh. Đôi khi tôi nhận ra mình nín thở trong những tình huống cam go, nên tôi biết tình cảnh này chưa đến mức nguy ngập đối với Edel. Nhóc dường như chỉ đang bất tỉnh mà thôi.
+Tôi vội bước tới và đặt tay lên mình chú chuột. Trông nó như đã chết, nhưng rõ ràng là không phải. Dẫu vậy, tôi không rõ chính xác nó đang ở trong tình trạng thế nào. Tôi vẫn cảm nhận được hơi thở của Edel và không thấy vết thương nào đáng kể, dù chẳng biết chuyện còn thở thì có ý nghĩa gì với Undead hay không. Bản thân tôi cũng thở, nhưng chủ yếu chỉ để hòa nhập với xung quanh. Đôi khi tôi nhận ra mình nín thở trong những tình huống cam go, nên tôi biết tình cảnh này chưa đến mức nguy ngập đối với Edel. Chú chuột dường như chỉ đang bất tỉnh mà thôi.
 
-Tôi nghĩ có lẽ đánh thức nhóc dậy lúc này cũng an toàn, nên liền truyền Ma Lực và Khí Lực chảy vào người nhóc. Có vẻ như nhóc đang cạn kiệt cả hai thứ đó. Chắc tại vừa rồi tôi đi xa quá nên lượng năng lượng truyền sang cho nhóc bị yếu đi. Tôi không dám chắc, nhưng đợi nhóc tỉnh dậy rồi hỏi là rõ.
+Tôi nghĩ có lẽ đánh thức Edel dậy lúc này cũng an toàn, nên liền truyền Ma Lực và Khí Lực chảy vào người nó. Có vẻ như chú chuột đang cạn kiệt cả hai thứ đó. Chắc tại vừa rồi tôi đi xa quá nên lượng năng lượng truyền sang cho Edel bị yếu đi. Tôi không dám chắc, nhưng đợi nó tỉnh dậy rồi hỏi là rõ.
 
-"Chít!" Edel kêu ré lên rồi mở choàng mắt bật dậy. Nhóc cảnh giác nhìn quanh quất, mãi đến khi thấy tôi mới an tâm thả lỏng. Hẳn phải có điều gì kỳ lạ xảy ra thì nhóc mới căng thẳng đến thế, chỉ là tôi chưa biết đó là chuyện gì thôi.
+"Chít!" Edel kêu ré lên rồi mở choàng mắt bật dậy. Chú chuột cảnh giác nhìn quanh quất, mãi đến khi thấy tôi mới an tâm thả lỏng. Hẳn phải có điều gì kỳ lạ xảy ra thì nó mới căng thẳng đến thế, chỉ là tôi chưa biết đó là chuyện gì thôi.
 
-Edel đọc được suy nghĩ của tôi và truyền lại ý nghĩ của nhóc qua các hình ảnh. Trong tâm trí, tôi có thể nhìn thấy sống động những gì nhóc từng chứng kiến. Những điều Edel có thể làm cứ ngày một nhiều thêm. Tôi không nhớ nhóc từng làm được điều này trước đây, nhưng có một quyến thuộc xuất sắc thế này thì thật đáng quý biết bao.
+Edel đọc được suy nghĩ của tôi và truyền lại ý nghĩ của mình qua các hình ảnh. Trong tâm trí, tôi có thể nhìn thấy sống động những gì chú chuột từng chứng kiến. Những điều Edel có thể làm cứ ngày một nhiều thêm. Tôi không nhớ trước đây nó làm được điều này, nhưng có một quyến thuộc xuất sắc thế này thì thật đáng quý biết bao.
 
 "Đây là mê cung ư? Mê Cung Nguyệt Ảnh? Không, là Mê Cung Tân Nguyệt?" tôi thốt lên thành tiếng.
 
-Hình ảnh này có lẽ bắt nguồn từ góc nhìn của một trong những chú chuột đàn em của Edel. Nó kém nhanh nhẹn hơn nhóc. Hành động của nó trông cũng chẳng thông minh hơn loài chuột thông thường là bao. Nó chạy ngoằn ngoèo không cần thiết, nhưng chắc chắn là đang hướng tới một nơi nào đó.
+Hình ảnh này có lẽ bắt nguồn từ góc nhìn của một trong những chú chuột đàn em của Edel. Con chuột này kém nhanh nhẹn hơn Edel. Hành động của nó trông cũng chẳng thông minh hơn loài chuột thông thường là bao. Nó chạy ngoằn ngoèo không cần thiết, nhưng chắc chắn là đang hướng tới một nơi nào đó.
 
 Rồi tôi nhìn thấy một người. Mọi chuyện sẽ chẳng có gì đáng nói, có điều kẻ này lại đang cắn ngập vào cổ một mạo hiểm giả, máu nhỏ giọt tong tỏng nơi khóe miệng. Phát hiện ra con chuột, gã buông lời rằng nhìn lén như thế là không lịch sự đâu. Sau đó gã phóng ra một luồng lửa và hình ảnh tối sầm lại. Buồn cái là con chuột có lẽ đã bỏ mạng. Tôi có thể cảm nhận rõ cơn giận ngùn ngụt của Edel trước cái chết của thuộc hạ mình.
 
@@ -138,13 +138,13 @@ Tôi tự hỏi kẻ này là ai. Thấy gã hút máu thì chắc chắn là Ma
 
 Đúng lúc ấy, một mảnh ký ức thoáng qua chợt ùa về trong tôi. Đó là vào một lần tôi thám hiểm Mê Cung Tân Nguyệt. Hồi ấy tôi đang đi săn Orc, và khi rời khỏi mê cung, tôi đi lướt qua một người. Giọng kẻ đó y hệt con Ma Cà Rồng này. Tôi ngạc nhiên khi mình lại nhớ ra một kẻ từng gặp ở Maalt từ thuở ấy, nhưng tôi cũng sực nhớ rằng đó chính là khoảng thời gian các tân binh mạo hiểm giả bắt đầu mất tích. Mọi chuyện bỗng đâu vào đấy. Nơi tôi gặp gã cách không xa chỗ hai mạo hiểm giả tân binh Raiz và Laura Satii đang chiến đấu khi tôi lần đầu nhìn thấy họ. Trước giờ tôi cứ ngỡ cuộc gặp đó chỉ là tình cờ, nhưng xét đến chân tướng thực sự của gã, biết đâu gã lại đang nhắm vào hai người bọn họ. Thế nhưng sự xuất hiện của tôi ở đó đã khiến gã sợ bị bại lộ nên chẳng dám làm gì... hoặc đại loại thế. Nếu đúng là vậy thì Raiz và Laura quả là gặp may. Dù thế nào đi nữa, giờ đây tôi đã nắm được danh tính của con Ma Cà Rồng và rất có thể là cả thủ phạm đứng sau những vụ mạo hiểm giả mất tích.
 
-Tôi phải báo cáo chuyện này với Hội, nhưng tôi lại không biết con Ma Cà Rồng đó đang ở đâu, manh mối duy nhất mà tôi đoán được chỉ là Mê Cung Tân Nguyệt. Tôi hỏi Edel, nhưng nhóc bảo không biết. Từ những hình ảnh nhóc cho tôi xem, rốt cuộc nhóc cũng không thể nắm bắt được vị trí chính xác. Xét đến việc cú sốc khi chứng kiến qua đôi mắt con chuột lúc nó chết đã khiến nhóc ngất đi, điều đó cũng hoàn toàn dễ hiểu.
+Tôi phải báo cáo chuyện này với Hội, nhưng tôi lại không biết con Ma Cà Rồng đó đang ở đâu, manh mối duy nhất mà tôi đoán được chỉ là Mê Cung Tân Nguyệt. Tôi hỏi Edel, nhưng chú chuột bảo không biết. Từ những hình ảnh Edel cho tôi xem, rốt cuộc cũng không thể nắm bắt được vị trí chính xác. Xét đến việc cú sốc khi chứng kiến qua đôi mắt con chuột lúc nó chết đã khiến Edel ngất đi, điều đó cũng hoàn toàn dễ hiểu.
 
 Tôi chưa biết chính xác nên xử lý chuyện này ra sao. Nếu cứ thế chạy đi kể với mọi người rằng có một con Ma Cà Rồng trong Mê Cung Tân Nguyệt, nghe sẽ rất đáng ngờ. Hơn nữa, tôi cũng chẳng có cách nào biết được liệu gã có còn ở đó hay không. Tôi cần thứ gì đó có sức thuyết phục hơn.
 
-"Gì cơ? Mày bảo là mày biết khá rõ đám Thi Quỷ đang ở đâu á?" tôi hỏi Edel. Nhóc gật đầu xác nhận.
+"Gì cơ? Mày bảo là mày biết khá rõ đám Thi Quỷ đang ở đâu á?" tôi hỏi Edel. Chú chuột gật đầu xác nhận.
 
-Theo lời nhóc, bầy chuột đang thông báo cho nhóc về những hành vi kỳ quặc diễn ra khắp thị trấn, từ lảng vảng rình mò cho tới phóng hỏa. Chúng có lẽ đang nhìn thấy đám Thi Quỷ. Hầu hết chuột đàn em của Edel không khỏe như nhóc nên chẳng thể tiêu diệt quái vật, nhưng ít nhất chúng có thể để mắt theo dõi hành tung của lũ đó.
+Theo lời Edel, bầy chuột đang thông báo về những hành vi kỳ quặc diễn ra khắp thị trấn, từ lảng vảng rình mò cho tới phóng hỏa. Chúng có lẽ đang nhìn thấy đám Thi Quỷ. Hầu hết chuột đàn em của Edel không khỏe như nó nên chẳng thể tiêu diệt quái vật, nhưng ít nhất chúng có thể để mắt theo dõi hành tung của lũ đó.
 
 Nếu vậy, có lẽ tốt nhất là nên dọn sạch toàn bộ đám Thi Quỷ khỏi thành phố trước. Ma Cà Rồng tuy tạo thêm được Thi Quỷ, nhưng cũng chẳng dễ dàng gì. Việc này đâu giống như nướng một chiếc bánh. Ngay cả nướng bánh cũng mất thời gian, mà tạo ra một con quái vật thì còn lâu hơn nhiều. Trước hết chúng cần con người để làm nguyên liệu gốc, sau đó phải hút cạn máu của họ rồi thay thế bằng một lượng máu của chính mình. Nhưng ngay cả khi đó, chúng vẫn phải đợi một thời gian trước khi người đó biến thành Thi Quỷ. Phải để họ lên men trước đã, dù ví von thế này nghe chẳng vui vẻ gì cho cam.
 
@@ -152,9 +152,9 @@ Con người phải mất khá lâu mới biến thành quái vật, bởi vậy
 
 Nếu đúng như lời Wolf nói là có gần một trăm con Thi Quỷ quanh đây, thì không đời nào chúng mới bị biến đổi tức thì được. Hẳn chúng đã được tạo ra suốt một thời gian dài rồi giấu kín ở đâu đó. Chỉ trong vài tiếng đồng hồ thì không tài nào làm kịp, nhưng nếu có hàng tuần trời, gã hoàn toàn có thể tạo ra cả trăm con Thi Quỷ.
 
-"Được rồi, xem ra tao sẽ bắt đầu với đám Thi Quỷ trước. Nhưng con Ma Cà Rồng đó có thể cũng đã rời khỏi Mê Cung Tân Nguyệt và quay trở lại thị trấn rồi. Nếu tao tìm thấy gã, chúng ta sẽ ưu tiên xử lý gã trước," tôi nói với Edel, và nhóc liền đồng ý. Nhóc luôn luôn đáng tin cậy, chưa kể có nhóc bên cạnh đúng là tiện đủ đường. "Mày có thể trông chừng cả cô nhi viện này được không? Nếu có bất kỳ con Thi Quỷ nào bén mảng tới, hãy cảnh báo cho Sơ Lillian và Alize càng sớm càng tốt nhé."
+"Được rồi, xem ra tao sẽ bắt đầu với đám Thi Quỷ trước. Nhưng con Ma Cà Rồng đó có thể cũng đã rời khỏi Mê Cung Tân Nguyệt và quay trở lại thị trấn rồi. Nếu tao tìm thấy gã, chúng ta sẽ ưu tiên xử lý gã trước," tôi nói với Edel, và chú chuột liền đồng ý. Edel lúc nào cũng đáng tin cậy, chưa kể có nó bên cạnh đúng là tiện đủ đường. "Mày có thể trông chừng cả cô nhi viện này được không? Nếu có bất kỳ con Thi Quỷ nào bén mảng tới, hãy cảnh báo cho Sơ Lillian và Alize càng sớm càng tốt nhé."
 
-Nhóc bảo rằng nhóc sẽ làm, thế là đã giải quyết xong một mối bận tâm. Giờ thì tôi có thể yên tâm đi săn Thi Quỷ mà chẳng còn gì phải vướng bận. Nhưng trước hết, tôi cần báo cho Sơ Lillian và Alize biết rằng đàn chuột tay chân của Edel sẽ túc trực canh gác quanh cô nhi viện.
+Chú chuột bảo sẽ làm ngay, thế là đã giải quyết xong một mối bận tâm. Giờ thì tôi có thể yên tâm đi săn Thi Quỷ mà chẳng còn gì phải vướng bận. Nhưng trước hết, tôi cần báo cho Sơ Lillian và Alize biết rằng đàn chuột tay chân của Edel sẽ túc trực canh gác quanh cô nhi viện.
 
 ◆◇◆◇◆
 
@@ -162,7 +162,7 @@ Nhóc bảo rằng nhóc sẽ làm, thế là đã giải quyết xong một m�
 
 "Nhưng sử dụng quyến thuộc theo cách này có an toàn không? Tôi không phải chuyên gia, nhưng tôi nghe nói người ta không thể kiểm soát cùng lúc nhiều quái vật đến thế." Sơ không lo ngại về việc liệu chúng có hoàn thành nhiệm vụ hay không, mà bận tâm về việc liệu chúng có vô tình cản trở cuộc săn lùng Thi Quỷ theo cách nào đó hay không.
 
-"Thực ra tôi chỉ điều khiển mỗi Edel thôi, còn nhóc ấy kiểm soát những con khác. Nhóc dường như có cả đàn chuột tay chân đông đảo, nên chúng có thể làm nhiều việc cùng một lúc," tôi nói.
+"Thực ra tôi chỉ điều khiển mỗi Edel thôi, còn chú chuột ấy kiểm soát những con khác. Edel dường như có cả đàn chuột tay chân đông đảo, nên chúng có thể làm nhiều việc cùng một lúc," tôi nói.
 
 "Tôi hiểu rồi, vậy là tính ra cậu gián tiếp nắm quyền chi phối tất cả lũ quái vật này."
 

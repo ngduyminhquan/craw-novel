@@ -12,19 +12,19 @@ Gặp lúc phải chờ thế này, tôi thường tranh thủ đọc mấy cu�
 
 Đúng kiểu của Hội, các điều lệ tuy rất khái quát nhưng vẫn được xây dựng tỉ mỉ để duy trì trật tự hết mức có thể. Mặt khác, họ cũng rất cẩn trọng để không xâm phạm quyền tự do của mạo hiểm giả. Người soạn ra những quy định này hẳn phải hiểu mạo hiểm giả lắm. Dù vậy, vẫn có không ít mạo hiểm giả phớt lờ chúng. Ở đâu cũng thế thôi, chỗ nào mà chẳng có kẻ không chịu tuân theo quy củ.
 
-"Dạ, xin lỗi cho em hỏi một chút," có ai đó cất tiếng từ phía sau khi tôi đang đọc tập sách mỏng. Tôi quay lại, nhìn thấy một gương mặt lạ lẫm. Bộ đồng phục cho thấy cô ấy là nhân viên của Hội, nhưng trông lại là một cô gái còn rất trẻ. Hẳn cô bé mới vào nghề.
+"À, xin lỗi cho em hỏi một chút," có ai đó cất tiếng từ phía sau khi tôi đang đọc tập sách mỏng. Tôi quay lại, nhìn thấy một gương mặt lạ lẫm. Bộ đồng phục cho thấy cô ấy là nhân viên của Hội, nhưng trông lại là một cô gái còn rất trẻ. Hẳn cô bé mới vào nghề.
 
-"Có chuyện gì thế?" tôi hỏi.
+"Gì thế?" tôi hỏi.
 
-"Em có thắc mắc về các điều lệ trong cuốn đó ạ. Cụ thể là ở Mục 15, Điều 7, chỗ bồi thường khi không hoàn thành ủy thác ấy ạ."
+"Em có thắc mắc về các điều lệ trong cuốn đó. Cụ thể là ở Mục 15, Điều 7, chỗ bồi thường khi không hoàn thành ủy thác ấy."
 
 "À, khoản đó hả?"
 
 Tôi giải thích cặn kẽ cho cô bé nghe. Tập sách mỏng không ghi chi tiết, mà điều khoản ấy nếu không đọc bản chú giải thì khó hiểu lắm, nên cô bé có thắc mắc cũng phải. Hồi trước tôi cũng từng gặp cảnh tương tự, mãi tới khi đọc bản chú giải mới vỡ lẽ ra.
 
-"Ra là vậy ạ!" cô bé nói. "Giờ thì em hiểu rồi. À, em còn mấy chỗ muốn hỏi thêm nữa ạ." Đằng nào cũng đang rảnh, tôi giải đáp nốt những thắc mắc còn lại của cô bé. Đến khi hỏi xong xuôi hết, trông cô bé có vẻ đã nắm rõ đầu đuôi.
+"Ra là vậy!" cô bé nói. "Giờ thì em hiểu rồi. À, em còn mấy chỗ muốn hỏi thêm nữa." Đằng nào cũng đang rảnh, tôi giải đáp nốt những thắc mắc còn lại của cô bé. Đến khi hỏi xong xuôi hết, trông cô bé có vẻ đã nắm rõ đầu đuôi.
 
-"Hay quá! Em cảm ơn anh nhiều nhé! Giờ thì mọi thứ thông suốt cả rồi. Đúng là người làm việc ở đây lâu năm có khác, cừ thật đấy ạ! Hẹn gặp lại anh sau nhé."
+"Hay quá! Em cảm ơn anh nhiều nhé! Giờ thì mọi thứ thông suốt cả rồi. Đúng là người làm việc ở đây lâu năm có khác, cừ thật đấy! Hẹn gặp lại anh sau nhé."
 
 Cô bé cảm ơn tôi rồi rời đi. Tôi toan nói gì đó, nhưng chưa kịp mở lời thì cô bé đã chạy biến đi mất.
 

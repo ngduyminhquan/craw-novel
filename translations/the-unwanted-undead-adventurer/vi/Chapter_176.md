@@ -58,13 +58,13 @@ Mạo hiểm giả dù có ba hoa đến đâu thì trong lòng ít nhiều vẫ
 
 "Chắc chỉ cần được đấu với một con quái vật cỡ này là anh ấy thấy sướng rồi. Thành ra mới quên bẵng cả sợ hãi, chỉ thế thôi."
 
-"Cái gì? Anh ta là Đồng Cấp á? Vô lý thật. Thực lực cỡ đó, tôi cứ ngỡ phải lên Ngân Cấp rồi chứ."
+"Cái gì? Anh ấy là Đồng Cấp á? Vô lý thật. Thực lực cỡ đó, tôi cứ ngỡ phải lên Ngân Cấp rồi chứ."
 
 Khi mạo hiểm giả được chỉ định đích danh cho ủy thác, họ chỉ cần ký tên chứ không phải ghi cấp bậc. Phía Hội mặc định người thuê đã bàn bạc trước với mạo hiểm giả nên nhân viên cũng chẳng buồn hỏi cấp. Thành ra tận bây giờ Hayden mới nghe nói tới cấp bậc của Rentt. Anh cứ đinh ninh Rentt là Ngân Cấp, nào ngờ lại không phải.
 
 "Chà, chuyện dài dòng lắm. Nhưng chuyện đó đâu làm giảm thực lực của anh ấy."
 
-"Đương nhiên rồi. Đâu phải Ngân Cấp nào cũng làm được như anh ta. Đến tôi mà muốn xoay xở như thế cũng thấy trầy trật nữa là."
+"Đương nhiên rồi. Đâu phải Ngân Cấp nào cũng làm được như anh ấy. Đến tôi mà muốn xoay xở như thế cũng thấy trầy trật nữa là."
 
 "Dạo gần đây anh ấy mới tiến bộ vượt bậc như thế. Thế nên mới hào hứng đấy."
 
@@ -72,7 +72,7 @@ Khi mạo hiểm giả được chỉ định đích danh cho ủy thác, họ c
 
 Phần lớn mạo hiểm giả chẳng bao giờ vượt qua nổi Đồng Cấp. Không ít người chôn chân hàng năm trời, thậm chí cả chục năm mà chẳng nhích lên được. Thế nhưng có một số ít, sau nhiều năm kiên trì rốt cuộc cũng ngộ ra điều gì đó rồi đột phá thực lực trong chớp mắt. Những người như vậy được ví là đã phá kén vươn lên. Hayden nghĩ Rentt chính là một trong số họ.
 
-"Nhưng mấy người kiểu đó lại hay có tật lao đầu vào nguy hiểm. Nhìn cách anh ta đánh lúc này thì chưa đến mức đáng ngại, nhưng tốt nhất chúng ta nên dứt điểm chuyện này cho sớm."
+"Nhưng mấy người kiểu đó lại hay có tật lao đầu vào nguy hiểm. Nhìn cách anh ấy đánh lúc này thì chưa đến mức đáng ngại, nhưng tốt nhất chúng ta nên dứt điểm chuyện này cho sớm."
 
 "Được. Tôi sẽ mở đường. Hayden, anh đâm xuyên trán con Ent Cổ Đại giúp tôi."
 
@@ -90,7 +90,7 @@ Lorraine gật đầu. "Theo quan sát vừa rồi của tôi thì đúng là th
 
 "Hiểu rồi, ra đây là cách cô mở đường," anh nói rồi lao vụt về phía mục tiêu. Tiếp cận được gã khổng lồ bằng gỗ, anh bật nhảy lên cao, giương kiếm quá đầu. "Rentt, lùi lại!" anh hét lớn.
 
-Nếu Rentt đang quá phấn khích như lời Lorraine nói thì có khi đã chẳng nghe thấy tiếng Hayden gọi, vậy mà anh lại lùi ra nhanh đến bất ngờ. Xem ra anh không hề hăng máu đến mức mất kiểm soát như vậy. Biết đâu Rentt không biết sợ là vì lý do khác. Hayden đầy bụng thắc mắc, nhưng đây không phải lúc nghĩ ngợi. Dù hai người họ dường như có bí mật gì đó, nhưng họ đã làm việc cực kỳ xuất sắc và cho thấy bản lĩnh khoáng đạt đúng chất mạo hiểm giả. Giờ chẳng có lý do gì để không tin tưởng họ. Việc duy nhất Hayden có thể làm lúc này là dồn lực bổ thanh kiếm xuống con quái vật.
+Nếu Rentt đang quá phấn khích như lời Lorraine nói thì có khi đã chẳng nghe thấy tiếng Hayden gọi, vậy mà anh lại lùi ra nhanh đến bất ngờ. Xem ra anh không hề hăng máu đến mức mất kiểm soát như vậy. Biết đâu Rentt không biết sợ là vì lý do khác. Hayden đầy bụng thắc mắc, nhưng đây không phải lúc nghĩ ngợi. Dù Rentt và Lorraine dường như có bí mật gì đó, nhưng họ đã làm việc cực kỳ xuất sắc và cho thấy bản lĩnh khoáng đạt đúng chất mạo hiểm giả. Giờ chẳng có lý do gì để không tin tưởng họ. Việc duy nhất Hayden có thể làm lúc này là dồn lực bổ thanh kiếm xuống con quái vật.
 
 "Nếm đòn này đi!" Hayden gầm lên, cắm phập lưỡi kiếm vào trán con Ent Cổ Đại. Lớp vỏ cây anh chém lúc nãy cứng hơn nhiều, nên anh không khỏi bất ngờ khi thấy mũi kiếm xuyên qua dễ dàng đến thế, cắm sâu vào tận bên trong con quái vật. Con Ent Cổ Đại rú lên một tiếng khiến ngay cả Mandragora nghe thấy cũng phải bạt vía, rồi đổ ầm xuống đất sau một tiếng vang trời.
 
@@ -124,7 +124,7 @@ Nói rồi, bá tước rời khỏi Maalt.
 
 Ent Cổ Đại là loài quái vật hiếm gặp, nhưng nghe đồn Ent Bụi Cây sau hàng trăm, thậm chí hàng nghìn năm có thể phát triển thành chúng. Thành thử hai loài này khá giống nhau, mà Ent Bụi Cây thì tôi đụng độ suốt nên đã quá quen tay rồi.
 
-Nhưng Lorraine lắc đầu bảo: "Tôi không nghĩ bản thân trận đánh làm anh gặp nguy hiểm đâu, nhưng ý tôi không phải chuyện đó. Hayden đã nhận thấy điểm bất thường trong cách anh đánh, nên tôi mới lo anh ta nhìn ra thân phận thật của anh."
+Nhưng Lorraine lắc đầu bảo: "Tôi không nghĩ bản thân trận đánh làm anh gặp nguy hiểm đâu, nhưng ý tôi không phải chuyện đó. Hayden đã nhận thấy điểm bất thường trong cách anh đánh, nên tôi mới lo anh ấy nhìn ra thân phận thật của anh."
 
 "Ồ. Thật à?"
 
@@ -132,13 +132,13 @@ Nhưng Lorraine lắc đầu bảo: "Tôi không nghĩ bản thân trận đánh
 
 "Thì đúng, nhưng ngoài cô ra chắc chẳng ai nhìn thấu được đâu."
 
-"Anh nên nhớ Hayden là Kim Cấp đấy nhé. Sẽ chẳng có gì lạ nếu anh ta cũng giấu ma nhãn làm con bài tẩy đâu."
+"Anh nên nhớ Hayden là Kim Cấp đấy nhé. Sẽ chẳng có gì lạ nếu anh ấy cũng giấu ma nhãn làm con bài tẩy đâu."
 
 Người càng mạnh thì càng hay giấu những chiêu lợi hại nhất, chỉ đem ra dùng khi nguy cấp. Lorraine muốn nhắc rằng Hayden rất có thể cũng như vậy, và cô cảnh báo chẳng sai chút nào.
 
-"Tôi hiểu rồi. Chắc tôi hơi bất cẩn thật. Nhưng ngộ nhỡ anh ta có thấy gì, tôi tính sẽ bảo là do hiệu ứng của chiếc áo choàng."
+"Tôi hiểu rồi. Chắc tôi hơi bất cẩn thật. Nhưng ngộ nhỡ anh ấy có thấy gì, tôi tính sẽ bảo là do hiệu ứng của chiếc áo choàng."
 
-"Ra vậy, cái cớ đó cũng không tồi. Đến tôi còn chưa hiểu hết chiếc áo choàng đó nữa là. Có khi anh ta cũng đành phải chấp nhận lời giải thích ấy thôi. Ít ra anh cũng biết tính trước một bước."
+"Ra vậy, cái cớ đó cũng không tồi. Đến tôi còn chưa hiểu hết chiếc áo choàng đó nữa là. Có khi anh ấy cũng đành phải chấp nhận lời giải thích ấy thôi. Ít ra anh cũng biết tính trước một bước."
 
 "Này, thỉnh thoảng tôi cũng biết động não chứ bộ. Nhưng dù sao thì sau này tôi sẽ cẩn thận hơn."
 
@@ -168,7 +168,7 @@ Dấu sáp niêm phong trên phong thư trông quen mắt thật. Đó chính l�
 
 "Nghe ghê thật, nhưng có vẻ bá tước vẫn duy trì điều chế thuốc được, thế là dàn xếp êm xuôi vụ này rồi."
 
-"Chưa chắc đâu. Ông ấy cũng viết là tỷ lệ lây nhiễm vẫn chưa hề thuyên giảm. Chắc chắn trận chiến này mới chỉ bắt đầu thôi. Dịch bệnh bao giờ cũng thế mà. Nhưng Bá tước Robista là người đứng đầu lãnh địa đó, lại biết cách đối phó chuẩn xác, nên tôi tin sớm muộn gì ông ấy cũng sẽ dập tắt được nó thôi."
+"Không chắc đâu. Ông ấy cũng viết là tỷ lệ lây nhiễm vẫn chưa hề thuyên giảm. Chắc chắn trận chiến này mới chỉ bắt đầu thôi. Dịch bệnh bao giờ cũng thế mà. Nhưng Bá tước Robista là người đứng đầu lãnh địa đó, lại biết cách đối phó chuẩn xác, nên tôi tin sớm muộn gì ông ấy cũng sẽ dập tắt được nó thôi."
 
 "Phải rồi. Chúng ta có nên viết thư hồi âm không? Nhắn bảo ông ấy cứ liên hệ với mình nếu cần săn thêm con Ent Cổ Đại nào khác."
 

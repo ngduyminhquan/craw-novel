@@ -14,19 +14,19 @@ Thực ra giới quý tộc thường có thói quen đến điểm hẹn đàm 
 
 Đứng sau anh là một người phụ nữ xinh đẹp. Trông cô thông minh nhưng ánh mắt có phần lạnh lùng, quanh người toát ra luồng Ma Lực mạnh mẽ. Hẳn đây chính là nhà nghiên cứu mà Rentt đã nhắc tới hôm trước.
 
-Người phụ nữ quay sang bá tước rồi nhẹ nhàng mở lời: "Kính chào Bá tước. Tôi là Lorraine Vivie, mạo hiểm giả Ngân Cấp. Rất hân hạnh được gặp ngài. Tôi sẽ cùng Rentt giới thiệu cho ngài các loại nguyên liệu có thể dùng làm thuốc. Bản thân tôi cũng là một y sĩ ma thuật nên khá am hiểu lĩnh vực này. Tôi tin mình sẽ giúp ích được cho ngài."
+Người phụ nữ quay sang bá tước rồi nhẹ nhàng mở lời: "Kính chào Bá tước. Tôi là Lorraine Vivie, mạo hiểm giả Ngân Cấp. Rất hân hạnh được diện kiến ngài. Tôi sẽ cùng Rentt giới thiệu cho ngài các loại nguyên liệu có thể dùng làm thuốc. Bản thân tôi cũng là một y sĩ ma thuật nên khá am hiểu lĩnh vực này. Tôi tin mình sẽ giúp ích được đôi chút cho ngài."
 
-Lời tự giới thiệu của cô rất chuẩn mực, không hề có chút khúm núm tự ti. Rõ ràng cô nhận ra mình đang nói chuyện với một đại quý tộc, vậy mà vẫn giữ được phong thái tự nhiên như đã quen với những dịp thế này. Điều đó chứng tỏ vốn hiểu biết của cô về y dược quả thực rất đáng nể. Thứ hạng Ngân Cấp cho thấy cô là mạo hiểm giả có thực lực, nhưng giới đại quý tộc vốn chẳng mấy khi thuê người ở cấp bậc này. Tay nghề y sĩ ma thuật của cô xem ra mới là thứ đáng giá hơn cả. Bá tước rất hài lòng khi gặp được Lorraine.
+Lời tự giới thiệu của cô hết sức thuần thục, lại không hề có chút khúm núm tự ti. Rõ ràng cô nhận ra mình đang nói chuyện với một đại quý tộc, vậy mà vẫn rất điềm nhiên trước những tình huống thế này. Nói cách khác, cô tự tin vào vốn hiểu biết y dược của mình đến mức đó. Thứ hạng Ngân Cấp cho thấy cô là mạo hiểm giả có thực lực, nhưng giới đại quý tộc vốn chẳng mấy khi thuê người ở cấp bậc này. Tay nghề y sĩ ma thuật của cô xem ra mới là thứ đáng giá hơn cả. Bá tước rất hài lòng khi gặp được Lorraine.
 
-Bá tước liếc nhìn Hayden xem anh có ý kiến gì không. Thấy anh chẳng có vẻ gì phản đối, bá tước liền quay sang Lorraine rồi chìa tay ra: "Cảm ơn cô vì lời chào lịch thiệp. Tôi là Curt. Xem chừng cô đã biết tôi là ai rồi, nhưng như cô thấy đấy, tôi không muốn gây chú ý. Cứ đối xử với tôi như người bình thường thôi, xin đừng quá câu nệ."
+Bá tước liếc nhìn Hayden xem anh có ý kiến gì không. Thấy anh chẳng có vẻ gì phàn nàn, bá tước liền quay sang Lorraine rồi chìa tay ra: "Cảm ơn cô vì lời chào lịch thiệp. Tôi là Curt. Xem chừng cô đã biết tôi là ai rồi, nhưng như cô thấy đấy, tôi không muốn gây chú ý. Xin cứ đối xử với tôi bình thường như bao người khác thôi."
 
-"Hiểu rồi. Thế này được chứ?" Lorraine lập tức đổi giọng sang phong thái thoải mái, tự nhiên hơn. Cũng giống như Rentt, cô nắm bắt bầu không khí rất nhanh nhạy.
+"Hiểu rồi. Thế này được chứ?" Lorraine lập tức đổi từ lối nói trang trọng vừa nãy sang thái độ thoải mái, tự nhiên hơn. Cũng giống như Rentt, cô nắm bắt tình ý rất nhạy.
 
-"Như thế là được rồi. Giờ thì thời gian không có nhiều, nhờ hai người dẫn tôi đi một vòng được chứ?"
+"Như thế là được rồi. Giờ thì thời gian của chúng ta có hạn, nhờ hai người dẫn tôi đi một vòng được chứ?"
 
 ◆◇◆◇◆
 
-"Tôi không ngờ ở đây lại có những nguyên liệu hữu dụng đến thế," bá tước tấm tắc sau khi cả nhóm đi một vòng khắp Maalt.
+"Tôi không ngờ những nguyên liệu hữu dụng đến thế lại ẩn mình ở nơi này," bá tước tấm tắc sau khi cả nhóm đi một vòng khắp Maalt.
 
 "Ở thị trấn này mấy thứ đó cũng chẳng hiếm gì," Lorraine đáp. "Chỉ có điều chúng khó giữ được độ tươi nên không ai chuyển về vương đô cả. Tôi nghĩ chắc ông sẽ cần, nhưng không biết đã vừa ý ông chưa?"
 
@@ -80,11 +80,11 @@ Viroget là Thần Thực Vật và sinh sôi màu mỡ. Nghề chính ở lãnh
 
 "Thế thì còn vấn đề gì nữa?" bá tước hỏi.
 
-"Sẽ chẳng có vấn đề gì nếu đem dùng cho dân làng Chiweb, nơi chứng bệnh này xảy ra như cơm bữa. Họ đã quen sống chung với lũ bọ quái vật rồi, nên không cần thuốc thang gì nhiều. Thuốc đó chỉ kìm hãm lũ bọ để chúng không gây hại quá nặng mà thôi. Nhưng con gái ngươi đâu có giống dân làng ở đó, thuốc ấy làm sao ăn thua."
+"Sẽ chẳng có vấn đề gì nếu đem dùng cho dân làng Chiweb, nơi chứng bệnh này xảy ra như cơm bữa. Họ đã quen sống cạnh lũ bọ quái vật, coi như chung sống với chúng rồi nên không cần thuốc thang hỗ trợ gì nhiều. Thuốc đó chỉ kìm hãm lũ bọ để chúng không gây hại quá nặng mà thôi. Nhưng con gái ngươi đâu có giống dân làng ở đó, thuốc ấy làm sao ăn thua."
 
-"Trời ơi... Vậy chẳng lẽ không còn cách nào cứu con bé sao?" Thuốc thang gom được hóa ra đều vô nghĩa. Biết được bệnh gì mà lại không có cách chữa. Bá tước thầm nghĩ con gái mình coi như đã cầm chắc cái chết.
+"Trời ơi... Vậy chẳng lẽ không còn cách nào cứu con gái tôi sao?" Thuốc thang hóa ra đều vô nghĩa. Biết được bệnh gì mà lại không có cách chữa. Bá tước nghĩ bụng con gái mình coi như đã cầm chắc cái chết.
 
-"Khoan hẵng cuống lên nào," con búp bê nói. "Đừng vội bi quan thế chứ. Có cách cứu con bé đấy. Nếu tăng dược lực của thuốc lên, ngươi có thể đẩy hết lũ bọ ra khỏi người nó. Ngươi đang muốn biết cần nguyên liệu gì đúng không? Ta nhập vào con búp bê này chính là để mách nước cho ngươi đấy."
+"Khoan đã nào," con búp bê nói. "Chớ có vội kết luận thế chứ. Có cách cứu con bé đấy. Nếu tăng dược lực của thuốc lên, ngươi có thể đẩy hết lũ bọ ra khỏi người nó. Ngươi đang muốn biết cần nguyên liệu gì đúng không? Ta nhập vào con búp bê này chính là để mách nước cho ngươi đấy."
 
 "Thật sao?! Vậy xin ngài, xin hãy nói cho tôi biết đi!" Ông không kìm được mà chộp lấy con búp bê lắc lấy lắc để.
 
@@ -96,7 +96,7 @@ Viroget là Thần Thực Vật và sinh sôi màu mỡ. Nghề chính ở lãnh
 
 Hayden gật đầu. "Tôi cũng vậy."
 
-"Vậy thì công việc của chúng ta vẫn chưa xong rồi," Rentt nói. "Chúng tôi sẽ dẫn đường cho hai người đến đó. Ngày mai chúng ta lên đường tới Rừng Cổ Đại Rasta luôn nhé? Từ giờ đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
+"Vậy thì công việc của chúng tôi vẫn chưa xong rồi," Rentt nói. "Chúng tôi phải dẫn đường cho ngài đến đó thôi. Ngày mai chúng ta lên đường tới Rừng Cổ Đại Rasta luôn nhé? Từ giờ đến lúc đó tôi sẽ chuẩn bị sẵn ngựa."
 
 Bá tước nghe vậy mà chực rơi nước mắt. Họ đâu nhất thiết phải làm thế. Đúng là ông cần người dẫn đường, nhưng việc này đã vượt xa thỏa thuận ban đầu của họ. Chưa kể chuyến đi sẽ rất nguy hiểm, bởi Ent Cổ Đại là mối đe dọa không hề nhỏ. Vậy mà họ vẫn sẵn lòng giúp đỡ hết mình.
 

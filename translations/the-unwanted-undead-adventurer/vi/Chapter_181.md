@@ -20,7 +20,7 @@ Mới đầu tôi cứ tưởng lại có ai đến xin thuốc, nhưng nếu v�
 
 Nghe chuyện Lorraine kể lại mà tôi thấy hơi ngán ngẩm. Giọng cô như thể chính mình còn chẳng muốn nhắc tới, nhưng tôi biết đây là việc không giải quyết không được.
 
-"Vậy là một học giả cô quen đã gây ra sự cố ở cơ sở nghiên cứu tại Maalt. Bản thân người đó thì không sao, nhưng giờ trong ấy ngập khí độc hại, lại có thể có đám quái vật bị biến đổi đang sống ở trong đó. Thế nên cô muốn nhờ tôi xử lý vụ này?"
+"Vậy là một học giả cô quen đã gây ra sự cố ở cơ sở nghiên cứu tại Maalt. Bản thân người đó thì không sao, nhưng giờ trong ấy ngập khí nguy hiểm, lại có thể có đám quái vật bị biến đổi đang sống ở trong đó. Thế nên cô muốn nhờ tôi xử lý vụ này?"
 
 "Đại khái là thế đấy. Chỗ đó cũng chẳng lớn lắm đâu. Anh biết tòa nhà trông như cái kho nằm cạnh ngọn tháp nhọn màu xanh chứ?"
 
@@ -28,11 +28,11 @@ Tôi nhận ra ngay tòa nhà cô nói. Sống ở thị trấn này suốt mư�
 
 "Chỗ đó á? Trước giờ tôi đâu biết nơi ấy dùng để làm thí nghiệm."
 
-"Cơ sở tư nhân mà, nên chẳng treo biển hiệu gì đâu. Nhưng nơi đó cũng đạt được vài kết quả khá tốt, kinh phí lại chẳng thiếu. Chỉ là gây ra mớ hỗn độn này xong thì chẳng dọn dẹp nổi, nên mới mếu máo chạy sang nhờ tôi. Tôi cũng có thể nhờ mạo hiểm giả khác, nhưng thứ khí đó xem chừng độc hại lắm. Họ đã phong tỏa không cho nó rò ra ngoài, nhưng bên trong thì chẳng ai vào nổi."
+"Cơ sở tư nhân mà, nên chẳng treo biển hiệu gì đâu. Nhưng nơi đó cũng đạt được vài kết quả khá tốt, kinh phí lại chẳng thiếu. Chỉ là gây ra mớ hỗn độn này xong thì chẳng dọn dẹp nổi, nên mới mếu máo chạy sang nhờ tôi. Tôi cũng có thể nhờ mạo hiểm giả khác, nhưng thứ khí đó xem chừng nguy hại lắm. Họ đã phong tỏa không cho nó rò ra ngoài, nhưng bên trong thì chẳng ai vào nổi."
 
 "Thế người quen đó nghĩ là cô vào trong được à?"
 
-"Dù sao tôi cũng là Ngân Cấp mà. Lại thêm am hiểu thuật giả kim nữa, nên người ta mới nghĩ tôi xử lý được. Có điều họ đánh giá tôi quá cao rồi. Tôi vốn định bảo đành chịu thôi, nhưng lại có anh ở đây. Thứ khí độc đó đâu ảnh hưởng gì tới anh, đúng chứ?"
+"Dù sao tôi cũng là Ngân Cấp mà. Lại thêm am hiểu thuật giả kim nữa, nên người ta mới nghĩ tôi xử lý được. Có điều họ đánh giá tôi quá cao rồi. Tôi vốn định bảo đành chịu thôi, nhưng lại có anh ở đây. Thứ khí đó đâu ảnh hưởng gì tới anh, đúng chứ?"
 
 "Đúng thế thật, nó chẳng làm gì được tôi đâu. Được rồi, tôi hiểu rồi. Chỉ cần giết sạch đám quái vật ở đó là xong, đúng không?"
 
@@ -48,7 +48,7 @@ Tôi nhận ra ngay tòa nhà cô nói. Sống ở thị trấn này suốt mư�
 
 Tới cơ sở nghiên cứu, tôi thấy vài ma pháp sư mặc áo choàng đang đứng bên ngoài tòa nhà, chắc hẳn là các nhà nghiên cứu. Nghe tôi bảo đến để tiêu diệt quái vật, họ liền dẫn tôi tới lối vào.
 
-"Anh có thể vào từ lối này," một người lên tiếng. "Bọn tôi đã dùng ma pháp ngăn không cho khí độc rò rỉ ra ngoài rồi, nên anh không cần bận tâm chuyện đó đâu. Có điều thứ khí này khiến lũ quái vật phát cuồng lên đấy, cẩn thận nhé."
+"Anh có thể vào từ lối này," một người lên tiếng. "Bọn tôi đã dùng ma pháp ngăn không cho luồng khí rò rỉ ra ngoài rồi, nên anh không cần bận tâm chuyện đó đâu. Có điều thứ khí này khiến lũ quái vật phát cuồng lên đấy, cẩn thận nhé."
 
 "Cảm ơn vì một thông tin chẳng lấy gì làm vui vẻ. Mà thôi, ít ra cũng biết thứ khí đó có tác dụng gì. Trong ấy có những loại quái vật nào thế?"
 
