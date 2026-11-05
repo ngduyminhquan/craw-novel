@@ -1,97 +1,97 @@
 # Chương 153: Ngoại truyện Tập 6 - Cờ Bạc
 
-Lúc ấy tôi đang ở Làng Wega, một ngôi làng cách Maalt không xa. Ngôi làng này chỉ có vỏn vẹn một quán rượu duy nhất. Lorraine và tôi cùng mấy cậu thanh niên trong làng đang ngồi uống rượu với nhau thì bỗng nhiên có người tiến lại từ phía sau lưng tôi cất tiếng hỏi: "Có phải cậu... Ức, cậu là kẻ đã hạ gục chúa tể khu rừng không hả?"
+Tôi đang có mặt ở Làng Wega, cách Maalt chẳng bao xa. Cả làng chỉ có đúng một quán rượu. Lorraine và tôi cùng mấy thanh niên trong làng đang ngồi uống thì bỗng có người tiến lại từ sau lưng tôi: "Cậu là người... Ức, người đã hạ chúa tể khu rừng đấy hả?"
 
-"Anh đang nói chuyện với tôi đấy à?" Tôi hỏi lại. Người này bỗng dưng từ đâu xộc tới với đôi mắt đờ đẫn mất tiêu cự, nên thoạt đầu tôi chẳng rõ anh ta đang nói với ai, nhưng gã đàn ông dường như không nhận ra điều đó.
+"Anh đang nói với tôi đấy à?" tôi hỏi. Anh ta từ đâu lù lù xuất hiện, mắt thì đờ đẫn chẳng nhìn vào đâu, nên lúc đầu tôi cũng không chắc là anh ta đang bắt chuyện với ai. Có điều người đàn ông dường như chẳng buồn hiểu ý tôi.
 
-"Không nói với cậu thì tôi nói với ai nữa hả?"
+"Không nói với cậu thì tôi nói với ai vào đây nữa hả?"
 
-Quanh chúng tôi còn có bốn người đàn ông trong làng cùng với Lorraine. Anh ta hoàn toàn có thể đang bắt chuyện với bất kỳ ai trong số họ, nhưng lý lẽ logic sẽ chẳng có tác dụng gì với kiểu người thế này. Rõ ràng anh ta đã say mèm rồi. Tôi đưa mắt nhìn Lorraine, rồi quyết định sẽ tùy cơ ứng biến để xử lý cho thỏa đáng.
+Ngồi quanh bàn ngoài Lorraine ra còn có bốn người đàn ông trong làng. Anh ta hoàn toàn có thể đang bắt chuyện với bất kỳ ai trong số đó, nhưng nói lý lẽ với người say thì có ích gì. Rõ ràng anh ta đã say mèm rồi. Tôi đưa mắt nhìn Lorraine rồi quyết định cứ tùy cơ ứng biến cho xong chuyện.
 
-"Được rồi, thế anh muốn gì cứ nói thẳng ra đi."
+"Được rồi, thế anh muốn gì cứ nói đi."
 
-"Tôi vừa mới hỏi cậu đấy thôi! Cậu có phải là kẻ đã hạ gục chúa tể khu rừng không?"
+"Tôi vừa mới hỏi cậu đấy thôi! Cậu có phải là người đã hạ chúa tể khu rừng không?"
 
-"À, chúa tể khu rừng ấy à? Ý anh là con Goblin to hơn bình thường một chút đó sao?"
+"À, chúa tể khu rừng ấy hả? Ý anh là con Goblin to con hơn bình thường một chút đấy à?"
 
-Lorraine và tôi có mặt ở đây là vì đúng như người đàn ông này vừa nói, một con Goblin to lớn đã xuất hiện trong khu rừng. Nó tấn công làng mạc và các nông trang, nên mới có một ủy thác được đưa ra để tiêu diệt nó. Ban đầu thiệt hại có vẻ không quá nghiêm trọng, nhưng con Goblin dần trở nên trơ tráo hơn cho đến khi nó thậm chí tấn công ngôi làng vào giữa ban ngày và cướp bóc hoa màu cùng gia súc của dân làng. Thế nhưng không giống như phần lớn đồng loại, nó chưa từng nhắm vào bản thân dân làng. Dường như nó biết rằng làm như vậy thì hành vi trộm cướp của mình sẽ kéo dài được lâu hơn mà không bị tiêu diệt ráo riết. Những cá thể Goblin biết cân nhắc hậu quả từ hành vi của mình như thế đôi khi khá ôn hòa, và chúng sẽ lập nên những khu định cư riêng để giao thương với con người. Nhưng con này thì chẳng ôn hòa đến mức ấy. Và nếu cứ mặc kệ nó tự do hành động, rất có thể nó sẽ tập hợp thành một băng đảng Goblin có khả năng tổ chức tấn công theo bầy đàn.
+Chuyện là Lorraine và tôi tới đây cũng vì trong rừng xuất hiện một con Goblin to lớn, đúng như lời người đàn ông này vừa nói. Nó quấy phá làng xóm lẫn các trang trại, thế nên mới có ủy thác cử người tới tiêu diệt. Ban đầu nghe đâu thiệt hại chưa nghiêm trọng lắm, nhưng con quái ngày một lấn tới, thậm chí còn dám mò vào làng giữa ban ngày ban mặt để cướp hoa màu với gia súc. Có điều, khác với đa số Goblin, nó chưa từng làm hại dân làng. Xem chừng nó hiểu rằng làm thế thì mới trộm cắp được lâu dài. Những con Goblin biết tính toán trước sau kiểu này đôi khi khá hiền lành, thậm chí còn dựng cả khu định cư riêng để giao thương với loài người. Nhưng con này thì không hiền như thế. Cứ mặc kệ thì có khi nó lại tụ tập được cả một đàn Goblin để kéo nhau đi cướp phá theo bầy.
 
-Ngay khi tới làng và nghe rõ đầu đuôi câu chuyện, chúng tôi liền lên đường đi săn con Goblin. Chúng tôi đã hoàn thành công việc trước lúc màn đêm buông xuống. Khi chúng tôi báo lại tin này cho dân làng, họ đã tổ chức một bữa tiệc ngay tại quán rượu mà chúng tôi đang ngồi đây.
+Vừa tới làng nghe rõ ngọn ngành, chúng tôi liền lên đường đi săn con quái. Đến khi trời sập tối thì công việc đã xong xuôi. Vừa nghe chúng tôi báo tin, dân làng liền mở tiệc thết đãi ngay tại quán rượu chúng tôi đang ngồi.
 
-"Phải, chính là nó. Đó vốn là con mồi của tôi! Cậu cứ thế ngang nhiên mò tới đây nẫng tay trên của tôi, chết tiệt thật chứ!" Gã đàn ông càu nhàu.
+"Phải, chính nó! Đó vốn là mồi của tôi! Cậu cứ thế nhảy bổ vào nẫng tay trên của tôi, chết tiệt thật chứ!" người đàn ông càu nhàu.
 
-Một người đàn ông khác đang ngồi uống rượu cùng chúng tôi ghé sát tai tôi thì thầm giải thích.
+Một người ngồi uống cùng bàn ghé sát tai tôi thì thầm giải thích.
 
-"Đó là Rudol, thợ săn của làng này. Anh ấy chuyên đi diệt những quái vật nhỏ không bõ công nhờ đến mạo hiểm giả. Đáng lẽ ban đầu anh ấy là người sẽ ra tay ngăn chặn con Goblin đó."
+"Đó là Rudol, thợ săn trong làng. Mấy con quái nhỏ không bõ công thuê mạo hiểm giả đều do anh ấy xử lý cả. Ban đầu đáng lẽ anh ấy là người nhận việc ngăn chặn con Goblin đó."
 
-"Tôi hiểu rồi. Vậy sao mọi chuyện lại thay đổi?"
+"Ra vậy. Thế sao lại đổi ý?"
 
-"Anh ấy cùng những thợ săn khác đi trinh sát, và hóa ra nó lại quá mạnh so với sức họ. Thực ra chính Rudol là người đã đề xuất chúng tôi nhờ mạo hiểm giả giúp đỡ đấy. Do lo ngại chi phí, trưởng làng kỳ thực đã mong cánh thợ săn của làng có thể tự giải quyết, nhưng lần này thì không thể được rồi. Và hóa ra chúng tôi đã đưa ra quyết định đúng đắn. Tôi đã nhìn thấy cái xác của con Goblin đó rồi. Nó cao tới hai mét cơ mà nhỉ? Thậm chí nó còn cầm cả một thanh đại kiếm nữa chứ. Hạ gục con quái đó chắc chắn không hề đơn giản chút nào."
+"Anh ấy dẫn mấy thợ săn nữa đi thăm dò, nhưng con quái vượt quá sức họ. Thật ra chính Rudol là người khuyên làng nên nhờ mạo hiểm giả giúp đỡ. Vì ngại tốn kém nên trưởng làng cũng mong thợ săn trong làng tự lo liệu được, chứ lần này thì không kham nổi rồi. Rốt cuộc quyết định của chúng tôi là hoàn toàn đúng đắn. Tôi xem xác con Goblin rồi, dễ chừng phải cao tới hai mét ấy chứ? Đã thế lại còn vác cả đại kiếm nữa. Hạ được con quái đó chắc chắn chẳng dễ dàng gì."
 
-"Phải đấy, một tổ đội mạo hiểm giả Đồng Cấp có thể hạ gục nó mà không gặp mấy khó khăn, nhưng tôi chắc là các thợ săn địa phương sẽ phải chật vật lắm đấy. Dù sao thì nếu mọi chuyện đúng là như thế, cớ sao anh ta lại cứ nhắm vào tôi gây sự thế này?" Tôi hỏi rồi quay lại nhìn Rudol.
+"Đúng vậy, một tổ đội Đồng Cấp thì xử lý nó không mấy khó khăn, nhưng thợ săn địa phương chắc chắn sẽ chật vật lắm. Cơ mà nếu đúng như anh nói, sao anh ta lại cứ nhắm vào tôi gây sự thế này?" tôi hỏi rồi quay lại nhìn Rudol.
 
-Rudol đặt một tay lên vai tôi và bảo: "Tôi thách đấu cậu một trận."
+Rudol đặt một tay lên vai tôi: "Tôi thách đấu với cậu một trận."
 
 "Ơ, cái gì cơ?"
 
-"Đấu với tôi một trận đi, chết tiệt! Rồi tôi sẽ bỏ qua cho cậu!"
+"Đấu với tôi một trận đi, đồ chết tiệt! Rồi tôi sẽ bỏ qua cho cậu!"
 
-"Tôi xin kiếu thì hơn."
+"Thôi, cho tôi xin kiếu."
 
-Chuyện này chỉ mang lại rắc rối mà thôi. Huống hồ sự việc lần này đã kết thúc êm thấm mà không có bất kỳ ai trong làng bị thương tổn, nên việc lao vào đánh nhau rồi làm người đàn ông này bị thương sẽ hoàn toàn phản tác dụng. Tôi muốn từ chối yêu cầu của anh ta, nhưng những người đàn ông khác lại nghĩ khác.
+Dây vào chuyện này chỉ tổ rước phiền toái. Nhất là khi mọi việc đã kết thúc êm đẹp mà không ai trong làng mảy may sứt mẻ, tự dưng nhảy vào đấm đá rồi làm người đàn ông này bị thương thì phản tác dụng hoàn toàn. Tôi định bụng gạt phắt đi, nhưng mấy người ngồi cùng bàn lại nghĩ khác.
 
-"Rentt này, xin cậu hãy đấu với anh ấy một trận đi," một người trong số họ lên tiếng. "Tôi nghĩ làm vậy sẽ giúp anh ấy nguôi giận đấy."
+"Rentt này, cậu đấu với anh ấy một trận đi," một người lên tiếng. "Tôi nghĩ thế là anh ấy hả dạ thôi."
 
-Một người khác tiếp lời: "Phải đấy, bình thường anh ấy tốt tính lắm. Tôi chắc anh ấy chỉ uống hơi quá chén thôi."
+Một người khác phụ họa: "Đúng đấy, bình thường anh ấy tốt tính lắm. Chắc tại hôm nay uống hơi quá chén thôi mà."
 
-Ngay cả Lorraine cũng bảo: "Chà, sao lại không chứ? Anh có thể nương tay với anh ta mà, đúng không?"
+Ngay cả Lorraine cũng bảo: "Thì có sao đâu? Anh nương tay một chút là được chứ gì?"
 
-"Phải đấy, đúng như họ nói!" Rudol hét lên. "Nào, chìa cánh tay của cậu ra xem nào! Chúng ta sẽ dùng chiếc bàn này."
+"Phải đấy, đúng như họ nói!" Rudol lớn tiếng. "Nào, chìa tay ra xem nào! Dùng luôn cái bàn này đi."
 
-Tôi còn đang hoang mang không hiểu dùng chiếc bàn để làm gì thì một người đàn ông liền giải thích. "À tôi hiểu rồi, chắc cậu chưa biết bọn tôi đang nói về chuyện gì. Đấu một trận ở đây nghĩa là thi vật tay đấy," anh ta nói.
+Tôi còn đang ngớ người chưa hiểu dùng bàn làm gì thì một người đàn ông liền giải thích: "À, tôi hiểu rồi, chắc cậu chưa rõ bọn tôi định làm gì. Thách đấu ở đây là thi vật tay đấy."
 
-"Ồ, sao các anh không nói sớm hơn cơ chứ. Nếu chỉ có thế thì tôi rất sẵn lòng. Thực ra thì tôi cũng đang muốn vận động gân cốt một chút đây. Được rồi, Rudol, làm một trận nào."
+"Ồ, sao không nói sớm cơ chứ. Nếu chỉ có thế thì tôi sẵn lòng thôi. Đằng nào tôi cũng đang muốn vận động gân cốt một chút. Được rồi, Rudol, làm một trận nào."
 
-Tôi đứng dậy khỏi ghế, bước tới chiếc bàn nơi Rudol đang ngồi rồi khóa chặt tay với anh ta. Một trong những người đàn ông trong làng sẽ làm trọng tài. Lúc này tôi mới nhận ra có khá nhiều người đã tụ tập xung quanh để theo dõi, và một vài người trong số họ thậm chí còn đang đặt cược vào trận đấu. Tôi lắng tai nghe ngóng và nhận thấy hầu hết bọn họ đều tin rằng Rudol sẽ giành chiến thắng. Chắc hẳn họ phải cực kỳ tự tin vào thực lực của anh ta.
+Tôi rời ghế, bước sang bàn của Rudol rồi vào thế đan tay với anh ta. Một người trong làng đứng ra làm trọng tài. Lúc này tôi mới để ý thấy khá nhiều người đã xúm lại xem, thậm chí có người còn bắt độ cho trận đấu nữa. Tôi lắng tai nghe thì thấy đa phần đều tin Rudol sẽ thắng. Hẳn là họ rất tin tưởng vào bản lĩnh của anh ta.
 
-"Thông cảm cho tôi nhé, người anh em," Rudol ghé sát mặt thì thào. Trông anh ta lúc này chẳng còn vẻ gì là say rượu nữa.
+"Thông cảm cho tôi nhé, người anh em," Rudol ghé sát mặt nói nhỏ. Trông anh ta lúc này chẳng còn chút vẻ say xỉn nào nữa.
 
-Tôi nhìn anh ta đầy tò mò, thắc mắc không hiểu ý anh ta là gì.
+Tôi tò mò nhìn anh ta, không hiểu anh ta có ý gì.
 
-"Dân làng ở đây không hiểu mạo hiểm giả mạnh đến mức nào đâu. Một vài người thậm chí còn tưởng rằng tôi còn mạnh hơn cả mạo hiểm giả cơ. Tôi chỉ muốn cho họ thấy sự thật không phải như thế thôi. Cậu hãy dốc toàn lực ra đi. Nếu cậu không làm vậy thì lần tới khi có chuyện tương tự xảy ra, tôi lại phải bở hơi tai đi thuyết phục họ thuê mạo hiểm giả từ đầu mất."
+"Dân làng ở đây chẳng hiểu mạo hiểm giả mạnh cỡ nào đâu. Có người thậm chí còn tưởng tôi mạnh hơn cả các cậu cơ. Tôi chỉ muốn cho họ sáng mắt ra thôi. Cậu cứ dốc hết sức đi. Không làm thế thì lần sau gặp chuyện tương tự, tôi lại bở hơi tai đi thuyết phục họ thuê mạo hiểm giả từ đầu mất."
 
-Giờ thì tôi đã hiểu dụng ý của Rudol. Tất cả chỉ là một màn kịch. Anh ta là một người đàng hoàng, sẵn sàng tự bôi xấu bản thân vì lợi ích của dân làng.
+Giờ thì tôi đã hiểu dụng ý của Rudol. Tất cả chỉ là một màn kịch. Anh ta là người tử tế, sẵn sàng chịu mất mặt vì cái chung của cả làng.
 
-"Tôi hiểu rồi, nhưng tôi cũng muốn anh dốc hết sức mình đấy nhé. Đừng có nương tay."
+"Hiểu rồi, nhưng anh cũng phải dốc hết sức đấy nhé. Đừng có nương tay."
 
-"Cậu nói đấy nhé. Có thể tôi không thắng nổi trong một trận đánh nhau, nhưng nếu xét về lực tay thì tôi từng quật ngã cả mấy mạo hiểm giả rồi đấy. Cậu có chắc là chịu nổi không?"
+"Cậu bảo đấy nhé. Đánh nhau thì có thể tôi không thắng nổi, chứ đọ lực tay thì tôi từng quật ngã cả mạo hiểm giả rồi đấy. Cậu chắc mình chịu nổi chứ?"
 
-"Không sao đâu."
+"Cứ yên tâm."
 
 "Thế thì được."
 
-Khi chúng tôi dứt lời, người trọng tài liền tuyên bố trận đấu bắt đầu.
+Chúng tôi vừa dứt lời, người làm trọng tài liền hô bắt đầu trận đấu.
 
 ◆◇◆◇◆
 
-"Đáng lẽ anh có thể nương tay hơn thế một chút chứ," Lorraine lẩm bẩm trên đường trở về quán trọ của làng.
+"Anh nương tay thêm chút nữa thì có sao đâu," Lorraine lẩm bẩm trên đường về quán trọ trong làng.
 
-Tôi đã giành chiến thắng trong màn vật tay. Chẳng có người bình thường nào đọ nổi sức mạnh quái vật đã được cường hóa của tôi. Anh ta bảo tôi hãy dốc toàn lực, nên tôi suýt nữa đã bẻ gãy đôi chiếc bàn. Nhưng bản thân Rudol nhìn chung không hề hấn gì. Tôi chỉ làm anh ta bầm tím một chút, nhưng tôi đã dùng Thần Lực để chữa lành vết bầm đó rồi.
+Màn vật tay dĩ nhiên là tôi thắng. Người thường làm sao đọ lại sức mạnh quái vật đã được cường hóa của tôi. Nghe anh ta bảo cứ dốc toàn lực, tôi suýt nữa bẻ đôi cả cái bàn. Nhưng bản thân Rudol thì chẳng hề hấn gì. Tôi chỉ làm anh ta bầm tím một chút, rồi đã dùng Thần Lực chữa lành ngay.
 
-"Anh ta bảo tôi không được nương tay mà. Vả lại, anh ta nói mình chỉ muốn dân làng tận mắt chứng kiến anh ta thua cuộc thôi."
+"Anh ta bảo tôi đừng nương tay mà. Vả lại, anh ta cũng bảo chỉ muốn cho mọi người thấy mình thua thôi."
 
-"Hả? Ra đó là chủ ý của anh ta sao? Thú vị thật đấy. Anh ta quả là một người tốt," Lorraine nói, chỉ dựa vào chi tiết đó là cô đã nhận ra ngay dụng ý của Rudol.
+"Hả? Ra là tính thế à? Thú vị đấy. Anh ta là người tốt đấy chứ," Lorraine nói, chỉ nghe có bấy nhiêu là cô đã hiểu ngay dụng ý của Rudol.
 
-"Tôi cũng nghĩ thế. Mà này, cái gì kia thế?" Tôi hỏi khi để ý thấy chiếc túi Lorraine đang cầm trên tay. Lúc chúng tôi mới tới quán rượu thì cô chưa hề có nó.
+"Chắc thế. Mà này, cái gì kia vậy?" tôi hỏi khi để ý thấy chiếc túi Lorraine đang cầm trên tay. Lúc mới tới quán cô làm gì có nó.
 
-"Ồ, cái này ấy hả? Tôi vừa thắng cược đấy. Kiếm được một khoản kha khá từ vụ này."
+"Ồ, cái này hả? Tôi vừa thắng cược đấy. Kiếm được một khoản kha khá."
 
-"Cô cũng tham gia đánh bạc đấy à?"
+"Cô cũng cá cược đấy à?"
 
-"Ừ. Phần lớn bọn họ đều đặt cược vào Rudol mà lại. Hay là chúng ta tìm một ngôi làng khác rồi làm trò tương tự đi? Đảm bảo sẽ kiếm bộn tiền cho xem."
+"Ừ. Đa số bọn họ đều đặt cửa Rudol mà lại. Hay là chúng ta tìm một ngôi làng khác rồi diễn lại trò này đi? Kiếm bộn tiền là cái chắc."
 
-"Nghe có vẻ hơi giống lừa đảo đấy, nhưng cũng có thể là một ý hay. Dù vậy, lần tới hay là để cô làm người thi đấu đi? Như thế thì họ sẽ càng dễ mất cảnh giác hơn đấy."
+"Nghe cứ như đi lừa đảo ấy, nhưng có khi lại là ý hay. Cơ mà lần tới hay là để cô lên thi đấu đi? Như thế họ càng dễ mất cảnh giác hơn."
 
-"Có lẽ vậy. Thế thì lần tới khi có cơ hội, anh sẽ là người đi đặt cược nhé."
+"Có lý. Thế thì lần tới hễ có dịp, anh sẽ là người đi đặt cược nhé."
 
 "Ừ, cứ làm thế đi."
