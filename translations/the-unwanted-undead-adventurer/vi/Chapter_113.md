@@ -1,135 +1,135 @@
 # Chương 113: Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (2)
 
-"À, xin chào, Thánh Nữ Myullias Raiza. Tôi là Nive Maris. Chỉ là một mạo hiểm giả Kim Cấp bình thường, tẻ nhạt mà thôi. Rất hân hạnh được làm quen với cô."
+"Chào cô nhé, Thánh Nữ Myullias Raiza. Tôi là Nive Maris. Chỉ là một mạo hiểm giả Kim Cấp bình thường, chẳng có gì đặc biệt đâu. Rất vui được gặp cô."
 
-Người đó vừa bước vào căn phòng tôi đang chờ vừa cất tiếng chào. Cô ấy chẳng giống bất kỳ ai tôi từng tiếp xúc từ trước đến nay. Tôi thực sự chẳng biết phải đối phó với cô ấy thế nào cho phải.
+Người đó cất tiếng chào ngay khi vừa bước vào căn phòng tôi đang đợi. Cô ấy chẳng giống bất kỳ ai tôi từng tiếp xúc từ trước đến nay. Tôi thực sự chẳng biết phải đối phó với kiểu người này thế nào.
 
-Khí chất toát ra từ cô ấy rất đỗi tương đồng với ngài Aaruz.
+Khí chất toát ra từ cô ấy rất giống với ngài Aaruz.
 
-Điều khác biệt duy nhất chính là tia sáng lập lòe nơi đáy mắt cô ấy. Cứ như thể cô ấy đang thèm thuồng liếm môi trông đợi cuộc đi săn, tựa hồ đang đứng trước con mồi của chính mình vậy. Đó chính là nỗi bất an trào dâng trong lòng khi tôi đối diện với con người này.
+Điểm khác biệt nằm ở ánh mắt cô ấy. Trông như thể cô ấy đang thòm thèm liếm môi ngóng chờ cuộc đi săn, như thể đang đứng trước con mồi vậy. Nỗi bất an ấy cứ thế trào lên khi tôi đối diện với con người này.
 
-"Vâng. Tôi cũng rất hân hạnh được diện kiến cô. Nếu không phiền, xin cho tôi hỏi... Tôi nhận được lệnh triệu tập đi cùng cô tới một cuộc đàm phán với một mạo hiểm giả nào đó phải không...?"
+"Vâng, tôi cũng rất hân hạnh. Cho tôi mạn phép hỏi... Tôi nhận được lệnh triệu tập đi cùng cô tới cuộc đàm phán với một mạo hiểm giả nào đó phải không...?"
 
-Tôi muốn giải quyết mọi chuyện cho xong xuôi càng sớm càng tốt để mau chóng thoát khỏi cô ấy, nên liền đi thẳng vào vấn đề chính.
+Tôi muốn sớm giải quyết xong xuôi để thoát khỏi cô ấy, nên liền đi thẳng vào vấn đề chính.
 
-"À, ừ. Tiểu thư Myullias, cô là người tinh thông Thần Lực thanh tẩy đúng không? Tôi thì chẳng giỏi mấy trò đó cho lắm, cô thấy đấy. Bọn chúng có thể ranh ma xảo quyệt lắm, cô biết chứ? Tôi nghĩ mình chưa bị lộ đâu, nhỉ? Nhưng chúng ta vẫn phải cẩn thận xem đồ ăn thức uống có bị bỏ thuốc hay không, hiểu chứ? Cẩn tắc vô áy náy mà."
+"À, phải rồi. Tiểu thư Myullias, cô dùng được Thần Lực thanh tẩy đúng không? Khoản đó tôi không thạo lắm đâu. Bọn chúng ranh ma lắm, ai mà biết được chứ? Chắc tôi chưa bị lộ đâu, nhưng vẫn phải đề phòng lỡ đồ ăn thức uống bị bỏ thuốc. Cẩn thận vẫn hơn mà."
 
-Tôi chẳng thể hiểu nổi lấy một lời. Tôi nghiêng đầu bối rối.
+Tôi chẳng hiểu cô ấy đang nói cái gì cả, chỉ biết nghiêng đầu bối rối.
 
-"Bọn chúng...? 'Bọn chúng' ở đây là ai cơ chứ? Lại còn bỏ thuốc? Độc dược sao? Tôi cứ ngỡ cô chỉ đơn thuần định mua nguyên liệu từ mạo hiểm giả này thôi chứ..."
+"Bọn chúng...? 'Bọn chúng' là ai cơ chứ? Lại còn bỏ thuốc? Bỏ thuốc độc sao? Tôi cứ ngỡ cô chỉ định mua nguyên liệu từ mạo hiểm giả đó thôi chứ..."
 
-Ít nhất thì đó là những gì được ghi trong thư truyền đạt từ Đại Giáo Phụ. Thế nhưng Nive thì lại...
+Ít nhất trong thư truyền đạt của Đại Giáo Phụ cũng viết như thế. Nhưng Nive thì lại...
 
-"À, ừ. Chà. Đó đúng là một trong các mục đích của tôi, nhưng việc quan trọng nhất là săn Ma Cà Rồng kia, cô thấy đấy. Tôi đang nghi ngờ không biết liệu mạo hiểm giả đó có phải là một Ma Cà Rồng hay không, hiểu chứ? Tôi đã điều tra kỹ lưỡng lắm rồi, và tôi khá chắc chắn về linh cảm của mình. Thế nên cứ chuẩn bị sẵn sàng cho mọi tình huống thì hơn. Tôi muốn cô hiểu đơn giản như vậy đấy, nhé."
+"À, ừ. Thì đó cũng là một mục đích của tôi, nhưng quan trọng nhất vẫn là săn Ma Cà Rồng cơ. Tôi đang nghi ngờ mạo hiểm giả đó là Ma Cà Rồng đấy. Tôi điều tra kỹ rồi, và trực giác của tôi hiếm khi sai lắm. Cho nên cứ chuẩn bị sẵn sàng cho chắc ăn. Cô cứ hiểu đơn giản như vậy nhé."
 
-Một lời tuyên bố khiến người ta phải kinh ngạc tột cùng.
+Lời cô ấy nói làm tôi không khỏi kinh ngạc.
 
-"Ma Cà Rồng đang ở trong thị trấn này sao...?"
+"Có Ma Cà Rồng trong thị trấn này sao...?"
 
-Quả thực chẳng có nơi đâu là mảnh đất săn mồi lý tưởng hơn cho một con quái vật như thế. Nhưng Nive vội vàng lắc đầu, dáng vẻ gần như hốt hoảng.
+Với loại quái vật như thế thì chẳng có nơi nào là mảnh đất kiếm ăn lý tưởng hơn. Nhưng Nive liền lắc đầu lia lịa, dáng vẻ gần như hốt hoảng.
 
-"Chuyện đó có gì mà phải giật mình đến thế chứ, hả? Chuyện như cơm bữa ấy mà, cô thấy đấy. Như tôi vừa nói ban nãy, bọn chúng ranh mãnh lắm. Chúng chẳng tốn chút công sức nào cũng có thể dễ dàng trà trộn vào dòng người trên phố. Vậy nên, giờ cô đã rõ mọi chuyện rồi, tôi sẽ nhờ cô giúp tôi một tay săn Ma Cà Rồng nhé, Tiểu thư Myullias. Dù sao thì Giáo Hội Lobelia cũng có lực lượng thợ săn quái vật của riêng mình mà, phải không? Phía các cô cũng có những thợ săn chuyên trách, nên cô cứ coi đây như một phần bổn phận của mình đi, nhé."
+"Có gì mà phải giật mình thế? Chuyện thường tình thôi mà. Như tôi vừa nói đấy, bọn chúng ranh ma lắm. Trà trộn vào dòng người trên phố với chúng chẳng tốn chút công sức nào. Thế nên, giờ cô rõ rồi thì giúp tôi một tay săn Ma Cà Rồng nhé, Tiểu thư Myullias. Dù sao Giáo Hội Lobelia cũng có thợ săn quái vật riêng còn gì? Phía các cô cũng có lực lượng chuyên trách, nên cô cứ xem đây là một phần phận sự đi."
 
-Lực lượng thợ săn mà cô ấy nhắc tới chẳng phải ai khác ngoài Giáo Đoàn Thẩm Phán Tiệt Trừ danh giá. Họ là tập hợp những thợ săn kiêm sát thủ chuyên phụ trách tiệt trừ Ma Cà Rồng, Người Sói, ác ma chiếm xác, cùng đủ mọi thể loại quái vật trà trộn và ký sinh trên lưng xã hội loài người. Bản thân tôi chưa từng một lần tiếp xúc với họ, cũng chẳng thực sự biết hàng ngày họ làm những gì hay thi hành nhiệm vụ ra sao. Có lẽ Nive quen thuộc với những chuyện này hơn, xét theo cách cô ấy có thể thản nhiên đề cập tới bọn họ như vậy.
+Lực lượng thợ săn mà cô ấy nhắc tới chính là Giáo Đoàn Thẩm Phán Tiệt Trừ lừng danh. Họ là tập đoàn thợ săn kiêm sát thủ chuyên phụ trách tiệt trừ Ma Cà Rồng, Người Sói, ác ma chiếm xác, cùng đủ mọi quái vật trà trộn và sống bám vào xã hội loài người. Tôi chưa từng tiếp xúc với họ lần nào, cũng chẳng rõ ngày thường họ làm những gì hay thi hành nhiệm vụ ra sao. Thấy Nive nhắc đến một cách thản nhiên như vậy, hẳn cô ấy rành rẽ mấy chuyện này hơn tôi.
 
-Dù vậy... một Ma Cà Rồng sao? Nếu chuyện này quả thực là thật, thì đây sẽ là một sự vụ vô cùng hệ trọng.
+Dù vậy... Ma Cà Rồng ư? Nếu quả đúng như vậy thì đây là chuyện chẳng hề đơn giản.
 
-Dù trong lòng tôi luôn canh cánh những mối hoài nghi và ngờ vực về Giáo Hội Lobelia, nhưng dù nói gì đi nữa, trên danh nghĩa tôi vẫn là một Thánh Nữ. Bổn phận của tôi là mưu cầu phúc lợi cho bách tính muôn dân, và tôi không được phép do dự trước những vấn đề hệ trọng nhường này. Việc hỗ trợ Nive nếu mục tiêu của cô ấy là tiêu diệt Ma Cà Rồng cũng không phải điều vô lý. Tôi đồ rằng đích thân Đại Giáo Phụ đã chấp thuận các hoạt động của Nive, và ban mệnh lệnh để tôi đi cùng cô ấy nhằm thúc đẩy tiến trình cho nhanh chóng.
+Dù trong lòng vẫn có những mối hoài nghi về Giáo Hội Lobelia, nhưng nói gì thì nói, tôi vẫn là một Thánh Nữ. Tôi phải làm điều tốt cho dân chúng, và không thể chần chừ trước những chuyện hệ trọng thế này. Nếu mục tiêu của Nive là tiêu diệt Ma Cà Rồng thì việc tôi hỗ trợ cô ấy cũng hoàn toàn có lý. Tôi đoán đích thân Đại Giáo Phụ đã chấp thuận hành động của Nive, và hạ lệnh cho tôi đi cùng để thúc đẩy mọi việc nhanh hơn.
 
-Chính vì vậy, tôi đã khẽ gật đầu.
+Vì thế, tôi gật đầu.
 
-"Tôi không dám chắc mình có thể giúp ích được nhiều đến mức nào, nhưng tôi đã hiểu. Xin nhờ cô chỉ giáo thêm."
+"Tôi không dám chắc mình giúp được nhiều đến đâu, nhưng tôi hiểu rồi. Nhờ cô giúp đỡ vậy."
 
 ◆◇◆◇◆
 
-"Phải hết sức, hết sức cẩn thận đấy. Bọn chúng sở hữu Mị Nhãn, cô thấy đấy. Chỉ bằng một ánh nhìn là có thể khiến bất kỳ ai khác giới mê mẩn không tài nào kháng cự nổi. Dù cô có là Thánh Nữ đi chăng nữa, cũng chẳng có gì đảm bảo cô sẽ miễn nhiễm... hay có thể chống cự được đâu. Đừng có ỷ lại quá nhiều vào điều đó đấy, nghe chưa...?" Nive dặn dò khi hai chúng tôi đứng trước địa điểm đàm phán—tổng hành dinh của Thương hội Stheno.
+"Phải hết sức, hết sức cẩn thận đấy. Bọn chúng có Mị Nhãn cơ mà. Chỉ cần một ánh nhìn là bất cứ ai khác giới cũng mê mệt, không tài nào kháng cự nổi. Dù cô là Thánh Nữ đi nữa thì cũng chẳng ai dám chắc cô sẽ miễn nhiễm... hay chống cự được đâu. Đừng có ỷ y quá đấy nhé...?" Nive dặn dò khi hai chúng tôi đứng trước địa điểm đàm phán—tòa nhà chính của Thương hội Stheno.
 
-"Cô nói là Mị Nhãn sao..."
+"Cô bảo là Mị Nhãn ư..."
 
-Tôi quả thực từng biết về vài người sở hữu loại ma nhãn này. Tôi thậm chí còn từng gặp qua bọn họ.
+Tôi quả thực có biết vài người sở hữu thứ ma nhãn này, thậm chí còn từng gặp họ rồi.
 
-Thế nhưng đôi mắt ấy... Không phải bất cứ ai sở hữu chúng đều là Ma Cà Rồng. Cũng có những con người sinh ra đã bẩm sinh mang theo đôi mắt này. Tuy nhiên, hễ những kẻ như thế bị phát hiện, chắc chắn họ sẽ bị khống chế và phong ấn năng lực.
+Thế nhưng đôi mắt ấy... Không phải ai sở hữu chúng cũng là Ma Cà Rồng. Cũng có những người bẩm sinh đã mang đôi mắt này. Tuy nhiên, hễ bị phát hiện, chắc chắn họ sẽ bị bắt giữ và phong ấn năng lực.
 
-Đúng như tên gọi, đôi mắt ấy có thể mê hoặc những người khác giới, khiến họ si mê điên cuồng người sở hữu nó. Dĩ nhiên, đó không phải là tất cả những gì nó làm được. Trong lịch sử từng ghi nhận không ít trường hợp thứ năng lực này còn đi xa hơn thế rất nhiều. Nói một cách chính xác, những kẻ bị mê hoặc thường sẵn sàng làm bất cứ điều gì vì đối tượng mà mình si mê mù quáng. Họ hoàn toàn bất lực trong việc cưỡng lại ý muốn đó.
+Đúng như tên gọi, đôi mắt ấy có thể mê hoặc người khác giới, khiến họ si mê chủ nhân của nó đến điên cuồng. Dĩ nhiên, sức mạnh của nó không chỉ dừng lại ở đó. Lịch sử từng ghi nhận không ít trường hợp thứ năng lực này đi xa hơn thế rất nhiều. Chính xác hơn là, kẻ bị mê hoặc thường sẵn sàng làm bất cứ điều gì vì đối tượng mà mình si mê. Họ không tài nào cưỡng lại nổi.
 
-Nếu một kẻ như thế lọt vào trong một tổ chức hay phe phái, rồi thâm nhập vào tầng lớp cốt cán, làm mưa làm gió theo ý mình... Thật khó lòng tưởng tượng nổi hậu quả sẽ ra sao, ngoại trừ một điều chắc chắn rằng đó sẽ là một thảm họa khôn lường.
+Nếu một kẻ như thế len lỏi vào một tổ chức hay phe phái, rồi thâm nhập vào hàng ngũ cốt cán, muốn làm mưa làm gió thế nào tùy thích... Hậu quả thật khó mà lường hết, chỉ biết chắc chắn đó sẽ là một thảm họa khôn lường.
 
-Từng có một nhân vật làm nên chuyện tày trời như thế: Kỹ nữ Adone. Ả ta đã để mắt tới một vị quốc vương nào đó, khiến ông ta mê muội phát cuồng vì ả. Hệ quả là cả vương quốc của ông ta rơi vào cảnh loạn lạc điêu linh. Vô số dân lành bị giết hại, và của cải ngập tràn bị vương quyền vơ vét. Đến cuối cùng, vương quốc ấy sụp đổ trong hoang tàn và bị xóa sổ hoàn toàn. Để ngăn chặn thảm kịch tương tự tái diễn, bất cứ ai sở hữu loại ma nhãn này đều lập tức bị bắt giữ và phong ấn năng lực.
+Từng có một người làm nên chuyện tày trời như thế: Kỹ nữ Adone. Cô ta đã để mắt tới một vị quốc vương, khiến ông ta mê muội phát cuồng. Kéo theo đó, cả vương quốc rơi vào cảnh loạn lạc. Vô số người bị giết hại, còn của cải thì bị hoàng gia vơ vét sạch. Đến cuối cùng, vương quốc ấy sụp đổ và hoàn toàn bị xóa sổ. Để ngăn chặn những thảm kịch tương tự tái diễn, bất cứ ai sở hữu thứ ma nhãn này đều lập tức bị bắt giữ và phong ấn năng lực.
 
-Còn về việc phong ấn... những phương pháp thời xưa thực sự vô cùng tàn nhẫn và vô nhân đạo. Đôi mắt của họ hoặc là bị nghiền nát, hoặc là bị móc hẳn ra ngoài. Đáng tiếc thay, hồi đó chẳng còn cách nào khác. Bởi thế, các bậc cha mẹ có con cái sinh ra với đôi mắt như vậy thường giấu giếm không trình báo với chính quyền, và việc này hiển nhiên đã dẫn đến hàng loạt rắc rối khôn lường về sau...
+Còn về việc phong ấn... phương pháp thời xưa thực sự vô cùng tàn nhẫn. Mắt họ hoặc bị chọc hỏng, hoặc bị móc hẳn ra ngoài. Buồn thay, thời đó chẳng còn cách nào khác. Bởi thế, các bậc cha mẹ có con sinh ra với đôi mắt như vậy thường giấu giếm không trình báo với nhà chức trách, và việc này hiển nhiên đã dẫn đến hàng loạt rắc rối khôn lường về sau...
 
-Các biện pháp thời nay đã nhân đạo hơn rất nhiều, sử dụng ma thuật để phong ấn ma nhãn của một người, thậm chí có thể duy trì vĩnh viễn. Cách này cũng không gây ra mù lòa dưới bất kỳ hình thức nào.
+Phương pháp thời nay đã nhân đạo hơn rất nhiều, người ta dùng ma thuật để phong ấn ma nhãn của một người, thậm chí có thể duy trì vĩnh viễn. Cách này cũng không khiến họ bị mù.
 
-Dù những người trải qua quá trình ấy đôi khi có thể bị cận thị nhẹ, nhưng đó cũng là hậu quả tệ hại nhất có thể xảy ra. Nếu cần thiết, vương quốc hay quốc gia sở tại thường sẽ cung cấp các ma cụ được chế tác nhằm hỗ trợ thị lực. Nhờ vậy, hầu hết những cá nhân bẩm sinh có đôi mắt này đều vui vẻ chấp nhận để người ta phong ấn.
+Tuy thỉnh thoảng người trải qua quá trình ấy có thể bị cận thị nhẹ, nhưng nặng lắm thì cũng chỉ đến thế. Nếu cần, vương quốc hay quốc gia sở tại thường sẽ cung cấp các ma cụ hỗ trợ thị lực. Nhờ vậy, phần lớn những người bẩm sinh mang đôi mắt này đều vui vẻ để người ta phong ấn.
 
-Dẫu thi thoảng vẫn có kẻ trốn thoát rải rác đây đó, nhưng số lượng của họ rất ít. Họa hoằn lắm mỗi thập kỷ mới xuất hiện chừng một cá nhân như thế, điều này cũng không thể loại trừ.
+Dù rải rác đâu đó vẫn có kẻ trốn thoát, nhưng số lượng chẳng đáng là bao. Cùng lắm mươi năm mới xuất hiện một người, điều này cũng không thể loại trừ.
 
-Nói cách khác, những cá nhân sở hữu Mị Nhãn là vô cùng hiếm hoi. Trái lại, Ma Cà Rồng thì...
+Nói cách khác, những người sở hữu Mị Nhãn là vô cùng hiếm hoi. Còn Ma Cà Rồng thì...
 
-"Ma Cà Rồng ai nấy đều sở hữu Mị Nhãn sao?" Tôi gặng hỏi.
+"Ma Cà Rồng nào cũng có Mị Nhãn sao?" Tôi hỏi.
 
-"Tôi chẳng dám chắc chắn đâu. Tất cả những gì tôi biết là rất nhiều đứa trong số chúng sở hữu nó, và ánh nhìn của chúng thường mạnh hơn con người rất nhiều lần. Bởi thế nên chúng mới nguy hiểm, hiểu chứ? Phải hết sức, hết sức cẩn thận đấy."
+"Cái đó thì tôi không chắc. Tôi chỉ biết rất nhiều đứa trong số chúng có đôi mắt ấy, và ánh nhìn của chúng thường mạnh hơn con người rất nhiều lần. Thế nên chúng mới nguy hiểm đấy. Phải hết sức, hết sức cẩn thận vào."
 
-Nói đoạn, Nive bất ngờ rảo bước bước qua cánh cửa của Thương hội Stheno, và tôi vội vã nối gót theo sau cô ấy.
+Dứt lời, Nive đột ngột bước qua cánh cửa của Thương hội Stheno, còn tôi vội vã rảo bước theo sau cô ấy.
 
 ◆◇◆◇◆
 
 "Mời đi lối này."
 
-Được một nhân viên thương hội dẫn đường, chúng tôi nhanh chóng có mặt trong căn phòng nơi Sharl Stheno, người đứng đầu Thương hội Stheno, đang ngồi cùng một người đàn ông đơn độc mang dáng dấp của một mạo hiểm giả.
+Được một nhân viên thương hội dẫn đường, chúng tôi nhanh chóng có mặt trong căn phòng nơi Sharl Stheno, chủ Thương hội Stheno, đang ngồi cùng một người đàn ông trông như mạo hiểm giả.
 
-Sharl là một trong những nhân vật mà tôi phải đi một vòng để diện kiến và chào hỏi lễ phép. Ông ấy là một nhân vật đầy quyền lực ở thị trấn này. Thế nhưng, người còn lại thì...
+Sharl là một trong những nhân vật tôi phải đi một vòng chào hỏi xã giao. Ông ấy là một người đầy quyền thế ở thị trấn này. Thế nhưng, người còn lại thì...
 
-Thành thực mà nói, có nhìn nhận nhẹ nhàng nhất thì diện mạo của anh ta cũng kỳ quặc hết chỗ nói. Tôi nhìn vào gương mặt anh ta, nửa dưới được che giấu bởi một chiếc mặt nạ tinh xảo, chạm trổ tỉ mỉ từng chi tiết. Tôi nghĩ đó là hình dạng một loại đầu lâu nào đó. Cảm giác vô cùng bất an. Cả người anh ta khoác một tấm áo choàng đen tuyền bồng bềnh. Dáng đứng của anh ta không để lộ một sơ hở nào, và ánh mắt đang nhìn thẳng về phía chúng tôi.
+Thật lòng mà nói, nhẹ nhất thì diện mạo của anh ta cũng phải gọi là kỳ quặc. Nửa dưới gương mặt anh ta bị che khuất bởi một chiếc mặt nạ tinh xảo, chạm trổ tỉ mỉ từng chi tiết. Hình như là hình đầu lâu thì phải, nhìn rất rợn người. Toàn thân anh ta khoác một tấm áo chùng thụng đen tuyền. Dáng đứng không để lộ chút sơ hở nào, và ánh mắt đang nhìn thẳng về phía chúng tôi.
 
-...Tôi vừa mới sực nhớ ra rằng mình không được phép nhìn thẳng vào mắt anh ta, nhưng có lẽ mọi chuyện đã quá muộn màng. Nếu đôi mắt ấy sở hữu sức mạnh quá lớn không thể kháng cự, có lẽ tôi đã...
+...Tôi vừa sực nhớ ra mình không được nhìn thẳng vào mắt anh ta, nhưng khéo đã muộn mất rồi. Nếu đôi mắt ấy có sức mạnh quá lớn khiến người ta không thể cưỡng lại, có lẽ tôi đã...
 
-"Hiện tại vẫn ổn đấy. Nhớ là đừng nhìn vào mắt anh ta, nghe chưa? Nếu thực sự phải nhìn vào mặt anh ta, thì chỉ được nhìn vào cằm thôi đấy," Nive vừa thì thào vừa vỗ mạnh vào lưng tôi.
+"Giờ thì vẫn ổn đấy. Nhớ là đừng nhìn vào mắt anh ta nhé? Nếu thực sự phải nhìn vào mặt thì chỉ nhìn vào cằm thôi," Nive vừa thì thào vừa vỗ vào lưng tôi một cái.
 
-Có vẻ như Nive rất am hiểu cách thức vận hành của thứ Mị Nhãn kia. Những lời của Nive đã đem lại cho tôi đôi chút yên lòng.
+Có vẻ Nive rất am hiểu cách thức hoạt động của Mị Nhãn. Lời dặn của cô ấy làm tôi yên tâm hơn đôi chút.
 
-Chúng tôi chuyển sang những lời chào hỏi xã giao thông thường, và sau đó, tôi ban một lời chúc phúc thần thánh lên người anh ta. Rentt Vivie, anh ta nói vậy phải không nhỉ? Đó chính là tên của anh ta.
+Sau vài lời chào hỏi xã giao, tôi ban lời chúc phúc lên người anh ta. Rentt Vivie thì phải? Đó là tên của anh ta.
 
-Đây chính là lý do vì sao Nive dẫn tôi theo ngay từ đầu. Khi sức mạnh thanh tẩy của tôi lan tỏa và thẩm thấu vào cơ thể anh ta, tôi cảm nhận được một tia Thần Lực lập lòe lóe lên từ sâu bên trong cơ thể ấy.
+Đây chính là lý do Nive dẫn tôi theo ngay từ đầu. Khi sức mạnh thanh tẩy của tôi lan tỏa và ngấm vào người anh ta, tôi cảm nhận được một tia Thần Lực le lói từ sâu bên trong cơ thể ấy.
 
-Liệu Ma Cà Rồng có khả năng chứa Thần Lực trong người được sao? Tôi từng nghe nói Ma Cà Rồng rất kỵ Thần Lực, vậy nên việc một Ma Cà Rồng tự thân sử dụng Thần Lực là điều bất khả thi. Chẳng phải như thế là đã đủ để xóa sạch mọi mối nghi ngờ dành cho anh ta rồi hay sao? Người đàn ông này gần như chắc chắn không phải Ma Cà Rồng.
+Lẽ nào Ma Cà Rồng lại có Thần Lực trong người được? Tôi từng nghe nói Ma Cà Rồng rất sợ Thần Lực, nên việc Ma Cà Rồng tự mình dùng Thần Lực là chuyện không tưởng. Thế chẳng phải đã đủ để xóa sạch mọi nghi ngờ đối với anh ta rồi sao? Người đàn ông này gần như chắc chắn không phải Ma Cà Rồng.
 
-Tôi đã nghĩ như thế, nhưng Nive vẫn chưa hề buông lỏng cảnh giác.
+Tôi nghĩ vậy, nhưng Nive vẫn chưa hề buông lỏng cảnh giác.
 
-Thế nhưng, tại sao chứ...? Tôi chẳng thể nào hiểu nổi.
+Nhưng tại sao chứ...? Tôi chẳng tài nào hiểu nổi.
 
-Tôi từng nghe nói bản thân Nive cũng là một người sử dụng Thần Lực. Nếu quả thực là như vậy, lẽ ra cô ấy phải cảm nhận được phản ứng ban nãy rồi chứ... Dẫu thế, Nive vẫn tiếp tục đối đãi với Rentt như thể anh ta là một Ma Cà Rồng, dồn dập chất vấn anh ta bằng vô số câu hỏi, trước khi cưỡng ép kiểm tra anh ta bằng một ứng dụng Thần Lực cấp cao: Thánh Hỏa.
+Tôi nghe nói bản thân Nive cũng biết dùng Thần Lực. Nếu quả thực như vậy, lẽ ra ban nãy cô ấy phải cảm nhận được phản ứng đó rồi chứ... Dẫu thế, Nive vẫn xem Rentt như Ma Cà Rồng, dồn dập chất vấn anh ta bằng đủ thứ câu hỏi, rồi ép anh ta kiểm tra bằng một phép Thần Lực cấp cao: Thánh Hỏa.
 
-Trên đường tới đây, Nive từng nói với tôi rằng cô ấy chỉ là tay mơ trong việc ứng dụng Thần Lực. Thật không ngờ cô ấy lại có thể thi triển được cả Thánh Hỏa cơ đấy... Tôi đã vô cùng kinh ngạc. Tôi đồ rằng đây chính là lý do vì sao cô ấy lại nổi danh là một Thợ Săn Ma Cà Rồng cừ khôi.
+Trên đường tới đây, Nive bảo cô ấy chỉ là tay mơ trong việc ứng dụng Thần Lực. Ai ngờ cô ấy lại thi triển được cả thứ như Thánh Hỏa... làm tôi ngạc nhiên không ít. Có lẽ nhờ thế mà cô ấy mới nổi danh là một Thợ Săn Ma Cà Rồng cừ khôi.
 
-Mặt khác, rốt cuộc thì Nive cũng đã giải thích lý do vì sao cô ấy lại nảy sinh mối nghi ngờ sâu sắc đến thế đối với Rentt. Trước đó tôi chẳng thể nhận ra điều gì từ thái độ xuề xòa và có phần cợt nhả của cô ấy, nhưng xem chừng cô ấy thực sự có những lý lẽ xác đáng cho hành vi của mình. Khi nhận ra điều này, tôi bỗng cảm thấy bản thân có chút xìu xuống.
+Về sau, rốt cuộc Nive cũng giải thích lý do cô ấy nghi ngờ Rentt dữ dội đến thế. Trước đó nhìn thái độ xuề xòa có phần cợt nhả của cô ấy tôi chẳng nhận ra, nhưng xem chừng hành động của cô ấy đều có lý do chính đáng cả. Nghĩ tới đó, tôi bỗng thấy mình hơi tiu nghỉu.
 
-Về cơ bản, Rentt đã để lộ ra không ít cử chỉ hành vi đáng ngờ, nhưng đến cuối cùng, anh ta bước ra khỏi Thánh Hỏa mà hoàn toàn bình an vô sự. Điều đó đồng nghĩa với việc người đàn ông này hoàn toàn chẳng phải Ma Cà Rồng.
+Tựu trung lại, Rentt có khá nhiều biểu hiện đáng ngờ, nhưng sau cùng anh ta vẫn bước ra khỏi Thánh Hỏa bình an vô sự. Nghĩa là người đàn ông này hoàn toàn không phải Ma Cà Rồng.
 
-Tuy nhiên, trong khi bản thân Nive có vẻ đã bị thuyết phục trước lời giải thích của Rentt, tôi lại cảm thấy có điều gì đó không ổn. Tôi không tài nào chỉ rõ được nguyên cớ đích xác vì sao lại như vậy. Nếu thực sự phải diễn đạt thành lời, thì đó chỉ đơn thuần là trực giác mách bảo của tôi mà thôi.
+Có điều, dù Nive có vẻ đã tin vào lời giải thích của Rentt, tôi vẫn thấy có gì đó gợn gợn. Tôi không tài nào chỉ ra được điểm bất thường rốt cuộc nằm ở đâu. Nếu bắt buộc phải diễn đạt thành lời, thì đó chỉ là linh cảm của tôi mà thôi.
 
-Thật là một dòng suy nghĩ ngớ ngẩn làm sao. Rentt đã được rửa sạch mọi mối nghi ngờ rồi cơ mà. Chính Nive cũng đã khẳng định như thế, nên tôi cho rằng chuyện đến đây là dừng lại được rồi.
+Nghĩ vậy thật ngớ ngẩn. Rentt đã được gạt bỏ mọi mối nghi ngờ rồi cơ mà. Chính Nive cũng bảo thế, nên chắc tới đây là xong rồi.
 
-Sau đó, Nive đã đưa ra một số tiền khổng lồ như một cử chỉ tạ lỗi. Thế nhưng, Nive liền nhanh chóng thuận nước đẩy thuyền lợi dụng tâm lý ấy, và sớm khiến Rentt đồng ý một thỉnh cầu mà nếu trong hoàn cảnh bình thường thì anh ta sẽ chẳng bao giờ chấp thuận.
+Sau đó, Nive đưa ra một món tiền lớn coi như tạ lỗi. Nhưng rồi cô ấy liền thuận nước đẩy thuyền, nhanh chóng khiến Rentt đồng ý một thỉnh cầu mà nếu bình thường chắc chắn anh ta sẽ chẳng bao giờ chấp thuận.
 
-Nhưng người mang tên Rentt Vivie này xem ra lại là một mạo hiểm giả vô cùng tử tế và mềm lòng. Anh ta chẳng giống chút nào với những gì vẻ ngoài toát lên, luôn giữ vững thái độ hòa nhã và thân thiện suốt cuộc đàm phán với Nive, lại còn gật đầu đồng ý lời thỉnh cầu thêm của cô ấy nữa. Điều này quả thực chứng minh người ta không nên trông mặt mà bắt hình dong. Hơn nữa, người đàn ông này thậm chí còn chẳng phải Ma Cà Rồng.
+Nhưng anh chàng Rentt Vivie này xem ra lại là một mạo hiểm giả rất tốt bụng và cả nể. Khác hẳn với vẻ ngoài đáng sợ, anh ta luôn giữ thái độ hòa nhã, thân thiện trong suốt cuộc đàm phán với Nive, lại còn gật đầu nhận thêm yêu cầu của cô ấy. Đúng là không nên trông mặt mà bắt hình dong. Huống hồ người ta còn chẳng phải Ma Cà Rồng.
 
-Cứ như vậy, cuộc đàm phán giữa Nive và Rentt tại Thương hội Stheno đã khép lại, và chúng tôi nhanh chóng bước ra khỏi tòa nhà.
+Thế là cuộc đàm phán giữa Nive và Rentt tại Thương hội Stheno kết thúc, chúng tôi nhanh chóng bước ra ngoài tòa nhà.
 
-"Vậy là coi như chúng ta mất công toi rồi nhỉ," Nive thở dài lắc đầu nói.
+"Vậy là coi như chúng ta mất công toi rồi nhỉ," Nive vừa thở dài vừa lắc đầu nói.
 
 "Vì sao cô lại nghi ngờ ngài Rentt nhiều đến thế...?"
 
-"Hừm... Tôi có thể kể ra hàng đống lý do, cô thấy đấy, nhưng chung quy lại thì rốt cuộc vẫn quy về trực giác mà thôi, cô hiểu chứ? Khi truy tìm Ma Cà Rồng, người ta phải có một giác quan nhạy bén nhất định, cô thấy không. Chính là thứ trực giác mách bảo mà tôi vừa nhắc tới đấy. Và trực giác tương đối hiếm khi sai của tôi đối với những chuyện này đã mách bảo rằng anh ta là một Ma Cà Rồng. Nhưng xem ra trên thực tế thì giác quan của tôi cũng đã bị cùn mòn đi rồi. Từ trước tới giờ tôi luôn chuẩn xác tuyệt đối—tỷ lệ thành công 100% cơ đấy! Tôi đoán tỷ lệ ấy giờ tụt xuống còn 99% mất rồi, ha."
+"Hừm... Tôi kể ra được cả đống lý do đấy, nhưng chung quy lại thì vẫn là linh cảm thôi. Muốn lùng Ma Cà Rồng thì phải có một giác quan đặc biệt. Chính là cái linh cảm tôi vừa nói đấy. Mà trực giác hiếm khi sai của tôi về mấy chuyện này lại mách bảo anh ta là Ma Cà Rồng. Cơ mà chắc giác quan của tôi cũng cùn đi thật rồi. Từ trước tới giờ tôi chưa đoán trật bao giờ đâu nhé—trúng một trăm phần trăm đấy! Giờ chắc tụt xuống còn chín mươi chín phần trăm rồi, ha."
 
-Liệu Nive có thực lòng với những gì mình nói hay không? Tôi thực sự chẳng rõ. Nhưng những điều cô ấy nói về giác quan và trực giác xem chừng rất chân thành. Chẳng hiểu sao tôi lại cảm thấy như vậy.
+Nive có nói thật lòng không? Tôi cũng chẳng rõ. Nhưng những gì cô ấy nói về giác quan và trực giác xem chừng rất chân thành. Không hiểu sao tôi lại cảm thấy thế.
 
-Trong chốc lát, tôi giữ im lặng, không thốt ra lời nào. Nive liền tiếp tục.
+Tôi im lặng một hồi, không nói gì. Nive lại tiếp tục.
 
-"Chà, tôi đoán chuyện đích thân cất công lặn lội điều tra cũng rất quan trọng, nhỉ? Còn về vụ việc lần này... chúng ta có thể kết luận rằng Rentt không phải là Ma Cà Rồng và khép lại ở đó được rồi, phải không? Nhưng điều này đâu có nghĩa là con Ma Cà Rồng đã cắm rễ trong thị trấn này đã biến mất. Tôi sẽ tiếp tục truy lùng. Ngày mai cô cũng sẽ giúp tôi một tay chứ, Tiểu thư Myullias?" Nive khẽ mỉm cười khi hỏi tôi.
+"Chà, chịu khó cất công lặn lội tìm kiếm cũng quan trọng mà, đúng không? Còn vụ lần này... coi như kết luận Rentt không phải Ma Cà Rồng rồi khép lại ở đây được rồi nhỉ? Cơ mà đâu có nghĩa là con Ma Cà Rồng đang lẩn trốn trong thị trấn này đã biến mất. Tôi sẽ tiếp tục truy lùng. Ngày mai cô cũng giúp tôi một tay nhé, Tiểu thư Myullias?" Nive khẽ mỉm cười hỏi tôi.
 
-Liệu tôi sẽ còn phải tiếp tục giúp đỡ con người này sao? Cả từ nay về sau nữa ư...? Tôi cứ ngỡ nhiệm vụ của mình sẽ kết thúc sau khi tháp tùng cô ấy tới sự kiện lần này chứ...
+Tôi sẽ còn phải giúp đỡ con người này nữa sao? Cả sau này nữa ư...? Tôi cứ ngỡ nhiệm vụ của mình sẽ kết thúc sau khi đi cùng cô ấy tới sự kiện lần này thôi chứ...
 
-Nghĩ lại bức thư của Đại Giáo Phụ, tôi không tài nào nhớ nổi có mốc thời hạn nào được ghi trong đó, cũng chẳng hề giới hạn phạm vi hoạt động của tôi là chỉ đi theo Nive trong một lần duy nhất này. Tuy nhiên, tôi lại nhớ rõ mồn một một câu văn ở cuối phong thư: "...hãy đáp ứng các nhu cầu của cô ấy trong khả năng nhiều nhất có thể."
+Nghĩ lại bức thư của Đại Giáo Phụ, tôi không nhớ có mốc thời hạn nào được ghi trong đó, và cũng không hề giới hạn việc tôi chỉ đi theo Nive lần này. Tuy nhiên, tôi lại nhớ rõ một câu ở cuối thư: "...hãy đáp ứng các yêu cầu của cô ấy trong khả năng có thể."
 
-Cứ thế này thì tôi sẽ chẳng thể nào thực hiện được các bổn phận chính thức của một Thánh Nữ nữa mất. Tôi ôm đầu khi nghĩ tới viễn cảnh đó. Tôi đã có thể cảm thấy một nỗi kiệt quệ tinh thần ập tới chỉ từ việc mường tượng ra cảnh phải lẽo đẽo theo sau cô nàng mạo hiểm giả Kim Cấp kỳ quặc này thêm một thời gian dài nữa...
+Cứ thế này thì tôi chẳng thể nào hoàn thành phận sự chính thức của một Thánh Nữ nữa mất. Nghĩ đến đó, tôi ôm đầu ngán ngẩm. Chỉ mới tưởng tượng ra cảnh còn phải lẽo đẽo theo sau cô mạo hiểm giả Kim Cấp kỳ quặc này thêm một thời gian dài nữa thôi là tôi đã thấy kiệt sức cả tinh thần rồi...
