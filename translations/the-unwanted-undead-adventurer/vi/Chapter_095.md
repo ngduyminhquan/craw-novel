@@ -1,8 +1,8 @@
 # Chương 95: Tập 4 Chương 2 - Nguyên Liệu Chế Tạo Vũ Khí Cho Đệ Tử (2)
 
-Bước ra khỏi lối cầu thang, đập vào mắt tôi là một ngọn núi khổng lồ bằng đá phong hóa cứng chắc. Vậy là đã lên tới tầng bốn. Cả ngọn núi lơ lửng, như một khối đá khổng lồ cứ thế trôi nổi giữa không trung. Bao quanh cảnh tượng kỳ ảo ấy chỉ toàn là khoảng không thăm thẳm không thấy đáy.
+Bước ra khỏi lối cầu thang, đập vào mắt tôi là một ngọn núi khổng lồ bằng đá phong hóa cứng chắc. Vậy là chúng tôi đã xuống tới tầng bốn. Cả ngọn núi lơ lửng, như một khối đá khổng lồ cứ thế trôi nổi giữa không trung. Bao quanh cảnh tượng kỳ ảo ấy chỉ toàn là khoảng không thăm thẳm không thấy đáy.
 
-Chỗ tôi đứng nối với ngọn núi bay khổng lồ kia bằng một con đường độc đạo. Nói đúng hơn thì chân cầu thang đi xuống nằm trên một mỏm đá bay nhỏ... à thì, nhỏ là so với ngọn núi kia thôi. Nền đá nơi tôi đứng rộng cỡ một căn nhà ba tầng. Cả hai quả thực đều là những khối đá lơ lửng, và đứng từ đây, tôi chẳng thấy thêm lối nào khác.
+Chỗ tôi đứng nối với ngọn núi bay khổng lồ kia bằng một con đường độc đạo. Nói đúng hơn thì chân cầu thang đi xuống nằm trên một mỏm đá bay nhỏ... à thì, nhỏ là so với ngọn núi kia thôi. Nền đá nơi tôi đứng rộng cỡ một căn nhà ba tầng. Cả hai đúng là những khối đá trơ trọi lơ lửng giữa không trung, và đứng từ đây, tôi chẳng thấy thêm lối đi nào khác.
 
 Nếu sẩy chân rơi xuống khoảng không thăm thẳm kia thì sao nhỉ...? Ai biết được câu trả lời thì đều chẳng thấy trở về. Có vẻ là thế, chứ chưa từng có ai biết bên dưới có gì. Muốn biết thì chắc chỉ có nước tự nhảy xuống màn đêm không đáy đó mà nhìn thử. Tận mắt mình nhìn, dĩ nhiên rồi.
 
@@ -32,7 +32,7 @@ Có nhiều cách để đối phó với tình huống này, tùy theo đội h
 
 Cách này ăn may là chính. Quái vật hoàn toàn có thể xuất hiện ngay giữa con đường hẹp, đẩy cả đội vào tình cảnh hiểm nghèo. Thành thử tôi cũng chẳng khuyến khích.
 
-Thế thì còn cách nào khác? Cách an toàn và đơn giản nhất là dùng ma thuật bắn sẻ từ xa. Con đường đá ngoằn ngoèo này là một phần quan trọng của mê cung nên cứng chắc đến bất ngờ, đòn ma thuật thông thường không tài nào làm sứt mẻ hay phá hủy. Nhờ vậy, người ta có thể nhắm bắn ma pháp tầm xa vào lũ quái đang chạy dọc lối đi. Nếu nhắm khéo, đòn đánh chẳng cần đoạt mạng, chỉ cần làm con quái mất thăng bằng sẩy chân rơi khỏi mép đường xuống khoảng không không đáy là xong. Làm thế thì tiếc là không thu hồi được nguyên liệu, nhưng trên ngọn núi bay còn đầy quái vật nên cũng chẳng việc gì phải lo.
+Thế thì còn cách nào khác? Cách an toàn và đơn giản nhất là tấn công từ xa bằng ma thuật. Con đường đá ngoằn ngoèo này là một phần quan trọng của mê cung nên cứng chắc đến bất ngờ, đòn ma thuật thông thường không tài nào làm sứt mẻ hay phá hủy. Nhờ vậy, người ta có thể nhắm bắn ma pháp tầm xa vào lũ quái đang chạy dọc lối đi. Nếu nhắm khéo, đòn đánh chẳng cần đoạt mạng, chỉ cần làm con quái mất thăng bằng sẩy chân rơi khỏi mép đường xuống khoảng không không đáy là xong. Làm thế thì tiếc là không thu hồi được nguyên liệu, nhưng trên ngọn núi bay còn đầy quái vật nên cũng chẳng việc gì phải lo.
 
 Cách này với tôi cũng coi như vô dụng. Tôi chưa học ma pháp tầm xa nào, đến ma pháp tấn công còn chẳng dùng nổi. Tất cả những gì tôi có chỉ là Ma Thuật Sinh Hoạt.
 
@@ -50,7 +50,7 @@ Có điều tôi chẳng rõ mình còn bao nhiêu thời gian. Tốt nhất là
 
 ◆◇◆◇◆
 
-Dù tầng bốn có đủ loại quái vật, nhưng thành phần của "bữa tiệc đón tiếp" này lại cố định từ trước. Lũ quái này đi bằng hai chân như người, toàn thân phủ lớp da bóng lẫy với những chiếc vảy sáng lấp lánh. Hàm mở ra để lộ những hàng răng sắc nhọn. Chúng mang vũ khí và giáp kim loại, đôi mắt óng ánh thu lại thành hai khe hẹp dựng dọc, trừng trừng nhìn về phía tôi.
+Dù tầng bốn có đủ loại quái vật, nhưng thành viên của "đội nghênh đón" này thì lúc nào cũng cố định. Lũ quái này đi bằng hai chân như người, toàn thân phủ lớp da bóng lẫy với những chiếc vảy sáng lấp lánh. Hàm mở ra để lộ những hàng răng sắc nhọn. Chúng mang vũ khí và giáp kim loại, đôi mắt óng ánh thu lại thành hai khe hẹp dựng dọc, trừng trừng nhìn về phía tôi.
 
 Đó chính là loài Lizardman.
 
@@ -68,7 +68,7 @@ Lũ Lizardman xem chừng chẳng có nỗi lo ấy. Chúng cứ thế lao thẳ
 
 "Gigiii!!"
 
-Rít lên một tiếng the thé đầy kinh ngạc, con quái trước mặt tôi bay ngược ra sau, đâm sầm vào con Lizardman kế tiếp đang lao lên. Con quái đó to hơn tôi ít nhất gấp đôi, có khi gấp ba, và cân nặng chắc cũng tương xứng.
+Kêu lên một tiếng chói tai đầy kinh ngạc, con quái trước mặt tôi văng ngược ra sau, đâm sầm vào con Lizardman kế tiếp đang lao lên. Con Lizardman đó to lớn hơn tôi ít nhất gấp đôi, có khi gấp ba, và cân nặng chắc cũng tương xứng.
 
 Con Lizardman cuối cùng do đang đà lao tới không kìm lại được, đâm sầm vào hai con phía trước rồi trượt chân ngã nhào xuống vực sâu. Nét mặt nó ngay trước lúc rơi như lộ rõ vẻ bàng hoàng tiếc nuối, cứ như muốn nói: "A, toi thật rồi..."
 
@@ -106,7 +106,7 @@ Vả lại, dù đòn ban nãy chỉ sượt qua da thịt con quái, nhưng ch�
 
 Tôi lại thủ thế, cất bước áp sát con Lizardman. Còn con quái cũng hơi đổi thế đứng, rụt hai tay ép sát vào người để đỡ đòn tương tự. Có lẽ nó sợ tôi chém vào ngực thêm lần nữa.
 
-Thế nhưng đổi thế đứng như vậy, con Lizardman lại vô tình để lộ sơ hở và mở ra góc tấn công cho tôi. Đúng là thế thủ thật, nhưng chẳng hề hoàn hảo. Vì giữ vũ khí sát người, tầm với của nó bị thu hẹp đáng kể. Ban đầu, chính thân hình to xác của nó đã khiến tôi lép vế hẳn về tầm đánh khi áp sát.
+Thế nhưng đổi thế đứng như vậy, con Lizardman lại vô tình để lộ sơ hở và mở ra góc tấn công cho tôi. Đúng là thế thủ thật, nhưng chẳng hề hoàn hảo. Vì giữ vũ khí sát người, tầm với của nó bị thu hẹp đáng kể. Vốn dĩ ngay từ đầu tôi phải chủ động áp sát con Lizardman cũng chỉ vì thân hình nó to lớn khiến tôi thua thiệt rõ rệt về tầm đánh.
 
 Tôi liền chớp thời cơ áp sát, tung ra một nhát chém nhanh. Con quái vật tự vứt bỏ lợi thế để lo phòng thủ thì cục diện chỉ càng có lợi cho tôi.
 
@@ -118,7 +118,7 @@ Thế nhưng con quái không ngờ tôi lại bồi tiếp đòn thứ hai ch�
 
 Rú lên đau đớn, con Lizardman chồm dậy, vừa đau vừa điên tiết vung kiếm loạn xạ. Tôi lập tức lùi lại né tránh.
 
-Lui về khoảng cách an toàn, tôi nhìn lại đối thủ. Con Lizardman bị thương ở mặt đã ngừng vung kiếm, đang trừng trừng nhìn tôi như muốn ăn tươi nuốt sống. Máu xanh lam nhỏ tong tỏng xuống đất, vừa chạm mặt đá liền bốc lên từng làn khói trắng mỏng. Máu chúng có tính axit mạnh thì phải. Xem ra đây là đối thủ mà tôi chẳng dám nếm thử... dù cái thói háu ăn của tôi cũng chẳng vừa.
+Lui về khoảng cách an toàn, tôi nhìn lại đối thủ. Con Lizardman bị thương ở mặt đã ngừng vung kiếm, đang trừng trừng nhìn tôi như muốn ăn tươi nuốt sống. Những giọt máu xanh lam nhỏ xuống nền đất, vừa chạm mặt đá liền bốc lên từng làn khói trắng mảnh. Máu chúng có tính axit mạnh thì phải. Xem ra đây là đối thủ mà tôi chẳng dám nếm thử... dù cái thói háu ăn của tôi cũng chẳng vừa.
 
 Con Lizardman đã dính đòn khá nặng. Có nên kết liễu nó ngay trong đợt tấn công tới không nhỉ? Tôi cũng chưa dám chắc.
 
@@ -136,11 +136,11 @@ Cơ mà giờ chẳng phải lúc bận tâm chuyện ấy. Con Lizardman bị t
 
 Có điều đã quá muộn. Kiếm của tôi nhanh hơn phản xạ của nó nhiều.
 
-Tôi vung một nhát chém ngang trúng giữa người con quái, hất văng nó khỏi lối đi hẹp. Lực chém đẩy dạt con thú sang một bên, tống nó rơi thẳng xuống vực thẳm thăm thẳm bên dưới.
+Tôi vung một nhát chém ngang trúng giữa người con quái, hất văng nó khỏi lối đi hẹp. Lực chém đẩy dạt con thú sang một bên, tống nó rơi thẳng xuống vực sâu không đáy bên dưới.
 
 Chưa phải lúc dừng lại. Tôi lấy đà chạy tiếp về phía ngọn núi bay. Biết rõ sau lưng vẫn còn một con Lizardman, nhưng không thể nán lại đây đánh tiếp. Tôi chẳng ham hố gì cảnh vừa giao chiến vừa nơm nớp lo rơi xuống vực.
 
-Vả lại tôi vốn sợ độ cao. Đứng trên cao ngắm cảnh thì cũng thích thật, nhưng rơi tự do thì lại là chuyện kinh hoàng. Thế nên tôi mới cắm đầu chạy thục mạng để tới được nền đất vững chãi... Cốt sao lên được ngọn núi bay kia, nơi tôi không còn phải lo sợ vực thẳm nữa.
+Vả lại tôi cũng chẳng giỏi chịu độ cao. Tuy có vài điểm tôi cũng thích, nhưng rơi vào hoàn cảnh có thể sẩy chân mất mạng bất cứ lúc nào thì quả thực kinh hoàng. Thế nên tôi mới dốc sức chạy thục mạng để tới được nền đất vững chãi... Cốt sao chạm tới ngọn núi bay kia, nơi tôi không còn phải lo sợ vực thẳm nữa.
 
 Ngoảnh lại, tôi bắt gặp ánh mắt của con Lizardman cuối cùng đang đuổi rát phía sau. Mắt nó đỏ ngầu, chắc đang điên tiết vì thấy đồng bọn bỏ mạng.
 
@@ -152,7 +152,7 @@ Con Lizardman khựng lại đối mặt với tôi, chĩa sẵn vũ khí rồi 
 
 Mới ban nãy thôi, cảnh này chắc chắn sẽ làm tôi kinh hãi. Thể trọng của nó cộng thêm tầm đánh của ngọn giáo càng nhân đôi nỗi sợ rơi xuống vực. Nhưng giờ đã đứng trên nền đất vững chãi, tôi chẳng còn gì phải sợ nữa.
 
-Tôi cũng lao thẳng về phía con quái, vờ như muốn đối đầu trực diện... nhưng tới giây cuối cùng liền lách sang phải. Một nhát chém ngang chuẩn xác găm sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một đường kiếm vào chân, khiến con Lizardman lảo đảo chúi người về trước trước lực đòn đánh. Đây chính là khoảnh khắc tôi chờ đợi: phần cổ nó đã lộ ra. Dồn một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh kiếm xuống cổ nó, chém phập qua da, gân và xương. Lưỡi kiếm vấp phải lực cản khá mạnh nhưng chẳng cầm cự được lâu, đầu con Lizardman liền rơi xuống.
+Tôi cũng lao thẳng về phía con quái, vờ như muốn đối đầu trực diện... nhưng tới giây cuối cùng liền lách sang phải. Một nhát chém ngang chuẩn xác găm sâu vào thân mình nó. Gần như ngay lập tức, tôi bồi thêm một đường kiếm vào chân, khiến con Lizardman thoáng lảo đảo chúi về phía trước vì lực đòn đánh. Đây chính là khoảnh khắc tôi chờ đợi: phần cổ nó đã lộ ra. Dồn một lượng lớn Ma Lực vào vũ khí, tôi giáng mạnh kiếm xuống cổ nó, chém phập qua da, gân và xương. Lưỡi kiếm vấp phải lực cản khá mạnh nhưng chẳng cầm cự được lâu, đầu con Lizardman liền rơi xuống.
 
 Trận chiến diễn ra rất khác so với những lần đánh rồi rút trước đây của tôi. Thiếu không gian xoay xở quả là một thử thách không nhỏ. Lại thêm một lời nhắc nhở rằng tôi cần phải rèn luyện nhiều hơn trong những tình huống thế này, để có thể bung hết sức khi thực chiến.
 

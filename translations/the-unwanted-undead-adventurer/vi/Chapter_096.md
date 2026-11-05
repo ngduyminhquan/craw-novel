@@ -14,15 +14,15 @@ Tôi tiếp tục trèo lên ngọn núi bay. Chẳng mấy chốc đã thấy m
 
 Bình thường, muốn định hướng ở đây bắt buộc phải có bản đồ chi tiết cấu trúc lòng núi, và mạo hiểm giả hẳn phải bỏ tiền ra mua. Còn tôi thì có Bản Đồ Akasha. Dù nó chỉ hiện những khu vực đích thân tôi từng thám hiểm, nhưng bấy nhiêu cũng đủ để tôi chẳng lo bị lạc. Đỡ tốn tiền mua thêm bản đồ thương mại cũng là một điểm cộng. Bù lại, những ghi chú và điểm đáng lưu ý thường thấy trên bản đồ bán ngoài thị trường lại không có, bao gồm cả các khu vực người ta hay đào quặng. Xem ra tôi đành phải tự thân mò mẫm lấy mọi vị trí thôi.
 
-Rảo bước dọc đường hầm, tôi bắt gặp một vách đá bị sập một phần. Nhìn qua thì hẳn đã có ai đó đào quặng tại đúng chỗ này trước tôi. Thường thì chỉ vài điểm khai thác còn lưu lại dấu vết của người đi trước, phần lớn thì không. Dẫu vậy, khả năng quặng vẫn còn sót lại quanh đây là rất cao.
+Rảo bước dọc đường hầm, tôi bắt gặp một vách đá bị sập một phần. Nhìn qua thì hẳn đã có ai đó đào quặng tại đúng chỗ này trước tôi. Tuy một số chỗ sạt lở kiểu này có lưu lại dấu vết khai thác của người đi trước, nhưng phần lớn thì không. Dẫu vậy, khả năng quặng vẫn còn sót lại quanh đây là rất cao.
 
-Tôi rút từ túi ma thuật ra một vật nhỏ nom như mảnh ván gỗ. Đó là một tấm thẻ rẻ tiền, thứ dụng cụ có khả năng phản ứng với dấu vết ma thuật mờ nhạt. Bản thân nó cũng là một loại ma cụ.
+Tôi rút từ túi ma thuật ra một vật nhỏ trông như mảnh ván gỗ. Đó là một tấm bảng gỗ rẻ tiền, thứ dụng cụ có khả năng phản ứng với dấu vết ma thuật mờ nhạt. Bản thân nó cũng là một loại ma cụ.
 
-Tôi giơ nó lên gần khe hở trên vách đá trước mặt. Đứng đợi một lúc lâu, tôi thấy tấm gỗ khẽ rung rồi phát ra ánh sáng mờ nhạt. Thế là rõ: thứ quặng tôi cất công tìm kiếm bấy lâu quả thực đang nằm đâu đó trong vách đá này.
+Tôi giơ nó lên gần khe hở trên vách đá trước mặt. Đứng đợi một lúc lâu, tôi thấy tấm bảng gỗ khẽ rung rồi phát ra ánh sáng mờ nhạt. Thế là rõ: thứ quặng tôi cất công tìm kiếm bấy lâu quả thực đang nằm đâu đó trong vách đá này.
 
 Cụ thể, thứ tôi tìm là một loại kim loại có tên "Ma Thiết". Nó cứng hơn sắt thường rất nhiều, lại có độ tương thích Ma Lực rất tốt, giá thành cũng thuộc hàng đắt đỏ.
 
-Ma Thiết có vài đặc tính khá thú vị. Khi truyền Ma Lực vào, một phần Ma Lực sẽ bị kim loại hấp thụ, phần còn lại bị phản xạ rồi đẩy ngược ra ngoài. Tấm thẻ trên tay tôi chính là phản ứng với lượng Ma Lực bị đẩy ra đó. Chỉ cần chịu khó đào sâu thêm vào vách đá sạt lở này, chắc chắn tôi sẽ kiếm được một ít Ma Thiết.
+Ma Thiết có vài đặc tính khá thú vị. Khi truyền Ma Lực vào, một phần Ma Lực sẽ bị kim loại hấp thụ, phần còn lại bị phản xạ rồi đẩy ngược ra ngoài. Tấm bảng trên tay tôi chính là phản ứng với lượng Ma Lực bị đẩy ra đó. Chỉ cần chịu khó đào sâu thêm vào vách đá sạt lở này, chắc chắn tôi sẽ kiếm được một ít Ma Thiết.
 
 Giá mà có trình độ như Lorraine, tôi chỉ cần liếc mắt một cái là nhận ra ngay vật nào có Ma Lực, nhưng dĩ nhiên bản lĩnh cỡ đó vượt xa tầm với của tôi.
 
@@ -52,7 +52,7 @@ Nếu dùng loại nguyên liệu này, tôi sẽ phải đào một lượng c�
 
 Đúng là tôi đã tốn không ít công sức mới cuốc được mẩu quặng này, nhưng cuối cùng tôi vẫn vứt nó lại trên đất, quyết đi tìm mạch khác ngon hơn.
 
-Cơ mà tôi chẳng thất vọng chút nào. Thật ra tôi đã lường trước phần nào chuyện này. Nghe đồn quặng trên ngọn núi bay này càng vào sâu thì độ tinh khiết và phẩm chất càng cao, nên tôi đã đoán trước điểm khai thác nằm gần cửa vào thế này sẽ chẳng thu hoạch được bao lăm. Dẫu vậy, tôi vẫn muốn tự tay đào thử một lần để xác nhận những gì mình từng nghe trước khi đi tiếp.
+Cơ mà tôi chẳng thất vọng chút nào. Thật ra tôi đã lường trước phần nào chuyện này. Nghe đồn quặng trên ngọn núi bay này càng vào sâu thì độ tinh khiết và phẩm chất càng cao, nên tôi đã đoán trước điểm khai thác nằm gần cửa vào thế này sẽ chẳng thu được là bao. Dẫu vậy, tôi vẫn muốn tự tay đào thử một lần để xác nhận những gì mình từng nghe trước khi đi tiếp.
 
 Mê cung vốn dĩ là thế, người ta sẽ chẳng bao giờ biết được nó có gì nếu không chịu dấn thân vào những tầng sâu thẳm nhất.
 
@@ -62,11 +62,11 @@ Nơi khóe mắt tôi chợt thoáng thấy thứ gì đó chập chờn, một 
 
 Thế nhưng... có gì đó sai sai. Cứ như thể bản thân sự tồn tại ấy... đang bất định. Tôi cũng chẳng dám chắc.
 
-Dù sao thì tôi cũng nên lại xem thử xem sao...
+Dù sao thì cứ lại gần xem thử đã...
 
 Nhưng... không được. Cũng chính vì cái tính tò mò mà tôi mới rơi vào cảnh mang cái thân xác này. Đáng lẽ tôi phải đặt sự an toàn lên hàng đầu mới phải...
 
-Tôi thầm nghĩ thế. Nhưng chẳng mấy chốc, tôi, Rentt Faina, lại đầu hàng trước tính hiếu kỳ của mình. Nếu không có cái tính ấy, tôi đã chẳng phải trải qua chừng ấy biến cố cho tới tận bây giờ. Cơ mà tôi hành động thế này âu cũng là chuyện thường tình.
+Tôi thầm nghĩ thế. Nhưng chẳng mấy chốc, tôi, Rentt Faina, lại đầu hàng trước tính hiếu kỳ của mình. Nếu không có cái tính ấy, tôi đã chẳng phải trải qua chừng ấy biến cố cho tới tận bây giờ. Cơ mà với tính tôi thì làm vậy cũng là chuyện đương nhiên thôi.
 
 Thấy biến một cái là tôi lập tức co giò chạy ngay. Xét lượng sức lực đã tiêu hao từ nãy tới giờ, tôi hoàn toàn tự tin mình thừa sức chuồn êm với tốc độ không tồi.
 
@@ -82,7 +82,7 @@ Chẳng có ai ở đó cả. Có lẽ chỉ do tôi hoa mắt thôi...
 
 Giật bắn mình, tôi lập tức quay phắt lại thì thấy một bé gái đang đứng trước mặt.
 
-Cô bé nom... còn rất nhỏ, có lẽ mới chừng năm, sáu tuổi.
+Cô bé trông... còn rất nhỏ, có lẽ mới chừng năm, sáu tuổi.
 
 Thế nhưng khí chất toát ra từ cô bé lại chẳng có nét gì là con nít. Ánh mắt ngập tràn vẻ ngờ vực, thậm chí là cáu kỉnh, nét mặt chỉ người lớn mới lộ ra.
 
@@ -94,7 +94,7 @@ Lại một giọng nói khác cất lên từ phía sau tôi. Không phải ph�
 
 Có vẻ như còn ai đó ở sau lưng, nên tôi quay người lại, để rồi chạm mặt một kẻ kỳ dị khoác chiếc áo chùng cũ rách tả tơi.
 
-Kẻ khoác áo chùng kia nom chẳng bình thường chút nào. Nhìn vào người đó, tôi bất giác thấy đây là một sự tồn tại dị thường mà mình không tài nào hiểu nổi, lòng dâng lên nỗi bất an sâu sắc. Có vẻ kẻ đó đang suy nghĩ, chìm trong dòng suy tưởng trước câu hỏi của cô bé.
+Kẻ khoác áo chùng kia trông chẳng bình thường chút nào. Nhìn vào người đó, tôi bất giác thấy đây là một sự tồn tại dị thường mà mình không tài nào hiểu nổi, lòng dâng lên nỗi bất an sâu sắc. Có vẻ kẻ đó đang suy nghĩ, chìm trong dòng suy tưởng trước câu hỏi của cô bé.
 
 Rốt cuộc kẻ này là ai chứ...
 
@@ -106,7 +106,7 @@ Nhìn kỹ lại, kẻ khoác áo chùng dường như cũng hơi trong suốt.
 
 "Không biết ư? Ngươi không biết mình từ đâu tới sao? Muốn tới được đây thì hẳn ngươi phải đi từ nơi khác đến chứ... vậy mà lại không biết ư?" cô bé hỏi.
 
-Bóng người khoác áo chùng lắc đầu. "Ta... Ta không biết. Ta không biết. Ta không biết... gì cả. Ta... Ta là ai? Ta là cái gì? Đây là đâu?!"
+Bóng người khoác áo chùng lắc đầu. "Ta... Ta không biết. Ta không biết. Ta không biết... gì cả. Ta... Ta là... Ta là thứ gì? Đây là đâu?!"
 
 Kẻ đó vừa gào lên vừa run rẩy dữ dội hơn. Ngay sau đó, chiếc mũ trùm đầu tuột hẳn ra.
 
@@ -162,7 +162,7 @@ Dựng nên cơ sở hạ tầng ở quy mô cỡ đó xem chừng chẳng phả
 
 Dẫu vậy, khám phá cho bằng hết mọi ngóc ngách nơi đây có lẽ vẫn là điều bất khả. Với quy mô khổng lồ của tầng này, rất có thể vài xưởng luyện kim đã được xây dở từ trước; hễ một xưởng bị triệt hạ, lũ Goblin chỉ việc dời sang xưởng kế tiếp. Nếu quả đúng như vậy thì các xưởng luyện kim này sẽ chẳng bao giờ bị xóa sổ hoàn toàn, bất kể bao lâu đi nữa. Chúng chỉ việc chuyển vài dụng cụ chuyên dụng từ nơi này sang nơi khác là xong.
 
-Ít nhất thì Goblin Mỏ Quặng cũng có khả năng chế tạo ma cụ đơn giản, lại biết ngăn hơi nóng cùng khói từ xưởng luyện kim làm lộ vị trí. Điều đó khiến việc lùng ra một xưởng như vậy trở nên vô cùng khó khăn. Lũ Goblin này đã nắm được tri thức như thế, sao không sống hòa bình với con người cho xong? Người ta có thể nghĩ vậy, mà thực tế quả thực có vài bộ tộc Goblin từng sống theo cách đó.
+Ít nhất thì Goblin Mỏ Quặng cũng có khả năng chế tạo ma cụ đơn giản, lại biết ngăn hơi nóng cùng khói từ xưởng luyện kim làm lộ vị trí. Điều đó khiến việc lùng ra một xưởng như vậy trở nên vô cùng khó khăn. Có người sẽ thắc mắc: lũ Goblin này đã có tri thức như thế, sao không chung sống hòa bình với con người cho xong? Thực ra ngoài đời cũng có một số bộ tộc Goblin sống như vậy thật.
 
 Thế nhưng Goblin Mỏ Quặng ở tầng bốn dường như lại mang thứ kiêu hãnh mà con người khó lòng hiểu nổi. Có lẽ đó là lý do chúng không thể chung sống hòa bình với nhân loại.
 
@@ -184,17 +184,17 @@ Hay là mình cứ thử chiến đấu ở độ khó đó xem, biết đâu li
 
 Dù sao thì mấy chuyện đó để về nhà hẵng tính. Trước mắt, quan trọng nhất là phải xử lý con Goblin Mỏ Quặng này đã.
 
-Nó đang cầm cây rìu hai tay to bản, thứ vũ khí tôi ghìm còn khó, chứ đừng nói tới chuyện vung vẩy xung quanh. Thế nhưng với con Goblin Mỏ Quặng, cây rìu này xem chừng chẳng nặng nề chút nào.
+Nó đang cầm cây rìu hai tay to bản, thứ vũ khí mà tôi cầm cho vững còn khó, nói gì tới chuyện vung vẩy xung quanh. Thế nhưng với con Goblin Mỏ Quặng, cây rìu này xem chừng chẳng nặng nề chút nào.
 
-Vũ khí của nó nom rất thô sơ; vừa nặng lại vừa khó kiểm soát... vậy mà con Goblin Mỏ Quặng dường như đã thuần thục từ lâu lắm rồi. Nó dùng bản rìu đỡ những nhát chém của tôi, biến món vũ khí hai tay thành chiếc khiên chắn tạm thời. Hễ lưỡi kiếm của tôi dội ngược ra là nó lập tức phản công ngay.
+Vũ khí của nó trông rất thô sơ; vừa nặng lại vừa khó kiểm soát... vậy mà con Goblin Mỏ Quặng dường như đã thuần thục từ lâu lắm rồi. Nó dùng bản rìu đỡ những nhát chém của tôi, biến món vũ khí hai tay thành chiếc khiên chắn tạm thời. Hễ lưỡi kiếm của tôi dội ngược ra là nó lập tức phản công ngay.
 
 "...Hự!"
 
-Tôi vừa né được cú vung rìu của con quái vật trong đường tơ kẽ tóc, con Goblin Mỏ Quặng đã không hề giảm bớt nhịp độ tấn công. Nó nắm chặt rìu, bổ thẳng xuống như muốn chẻ đôi người tôi làm hai nửa. Dù chẳng dám chắc thân thể hiện tại của mình có dễ bị chém đứt phăng ra như thế hay không, nhưng tôi chẳng hào hứng muốn tự mình nếm thử chút nào.
+Tôi vừa né được cú vung rìu của nó trong đường tơ kẽ tóc, nhưng con Goblin Mỏ Quặng vẫn chẳng hề giảm nhịp tấn công. Nó nắm chặt rìu, bổ thẳng xuống như muốn chẻ đôi người tôi làm hai nửa. Dù chẳng dám chắc thân thể hiện tại của mình có dễ bị chém đứt phăng ra như thế hay không, nhưng tôi chẳng hào hứng muốn tự mình nếm thử chút nào.
 
 Thế rồi, tôi chợt nhận ra cái chết hoàn toàn có thể gõ cửa tìm đến mình bất cứ lúc nào.
 
-Hơi hoảng hốt, tôi né hết sức bình sinh để tránh lưỡi đại rìu đang giáng xuống. Tuy nhiên, cú né không trọn vẹn, lưỡi rìu đã sượt qua má tôi. Một vệt rách mảnh khẽ hằn lên mặt... trước khi khép miệng chỉ trong vài giây, biến mất không để lại dấu vết.
+Tôi hoảng hốt dốc hết sức né lưỡi rìu hai tay đang bổ xuống. Thế nhưng cú né vẫn chậm một nhịp, lưỡi rìu sượt qua má tôi. Một vệt rách mảnh khẽ hằn lên mặt... trước khi khép miệng chỉ trong vài giây, biến mất không để lại dấu vết.
 
 Xem ra giờ đây tôi đã có khả năng hồi phục khá nhanh trước những vết chém nhẹ.
 
