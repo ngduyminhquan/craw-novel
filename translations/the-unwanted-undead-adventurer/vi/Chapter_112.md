@@ -1,161 +1,161 @@
 # Chương 112: Ngoại truyện Tập 4 - Thánh Nữ Trị Liệu (1)
 
-Tên tôi là Myullias Raiza, và tôi là một Thánh Nữ của Giáo Hội Lobelia.
+Tôi tên là Myullias Raiza, Thánh Nữ của Giáo Hội Lobelia.
 
-Ngay từ khi còn nhỏ, tôi đã nhận được ân phước Thần Lực từ chính Nữ Thần Lobelia. Ngay khi Thần Lực của tôi bộc lộ và bắt đầu đâm chồi nở hoa, tôi đã được đưa tới giáo hội, và ngày ngày trải qua các khóa huấn luyện để trở thành Thánh Nữ.
+Từ thuở nhỏ, tôi đã được chính Nữ Thần Lobelia ban phước Thần Lực. Khi Thần Lực phát lộ và chớm nở, tôi được đưa vào giáo hội, ngày ngày rèn luyện để trở thành Thánh Nữ.
 
-Hôm nay cũng không phải ngoại lệ.
+Hôm nay cũng chẳng có gì khác.
 
-Chúng tôi đến từ Thánh Vương Quốc Ars xa xôi vạn dặm. Chúng tôi tới đây để soi rọi ân điển cùng ánh sáng của giáo hội đến vùng biên ải thôn quê này. Bằng năng lực của mình, tôi sẽ chữa lành cho thật nhiều người, và cho họ thấy sự đúng đắn của giáo hội. Đó là lý do vì sao tôi có mặt tại nơi này, thị trấn Maalt.
+Chúng tôi đến từ tận Thánh Vương Quốc Ars xa xôi. Mục đích tới đây là đem ân điển và ánh sáng của giáo hội soi rọi vùng biên ải hẻo lánh này. Dùng năng lực của mình cứu chữa cho thật nhiều người, cho họ thấy sự đúng đắn của giáo hội. Đó là lý do tôi có mặt ở đây, tại thị trấn Maalt.
 
-...Chí ít thì mọi sự đáng lẽ phải diễn ra như thế.
+...Chí ít thì đáng ra phải là thế.
 
 ◆◇◆◇◆
 
-Ngôi nguyện đường Lobelia duy nhất hiện diện ở Maalt này khiêm tốn vô cùng, nói một cách nhẹ nhàng nhất là vậy. Nó chẳng là gì nếu đem so sánh với những đại thánh đường tráng lệ tại thánh đô Ars. Nó bé tí tẹo. Tại thánh đô của Thánh Vương Quốc Ars, các đại thánh đường đồ sộ chẳng khác nào những tòa lâu đài và pháo đài. Người ta thậm chí có thể nói kiến trúc tọa lạc ở trung tâm không phải là một lâu đài, mà giống một đại thánh đường khổng lồ hơn.
+Ngôi nguyện đường Lobelia duy nhất ở Maalt này, nói một cách nhẹ nhàng nhất thì cũng khiêm tốn vô cùng. So với những đại thánh đường tráng lệ ở thánh đô Ars thì nó chẳng thấm vào đâu, bé tí teo. Ở thánh đô của Thánh Vương Quốc Ars, các đại thánh đường nguy nga đồ sộ chẳng khác nào thành trì pháo đài. Thậm chí người ta còn bảo công trình sừng sững ở trung tâm không phải lâu đài, mà giống một đại thánh đường khổng lồ hơn.
 
-Thế nhưng, cái xứ Maalt này...
+Thế nhưng, ở cái xứ Maalt này thì...
 
-Mà thực ra, tôi cũng chẳng mấy bận tâm về chuyện nhỏ bé; thật lòng là vậy. Thứ khiến tôi kinh ngạc chính là thái độ của người dân địa phương. Chẳng một ai thèm liếc mắt nhìn ngôi nguyện đường nhỏ nơi đây lấy một lần. Điều đó khiến tôi có đôi chút bận lòng.
+Thực ra tôi chẳng chê chuyện nó nhỏ, không hề. Điều làm tôi bất ngờ là thái độ của dân bản xứ cơ. Chẳng ai thèm đoái hoài liếc nhìn ngôi nguyện đường nhỏ lấy một cái, khiến tôi thấy có chút bận lòng.
 
-Thỉnh thoảng cũng có vài người ghé qua nguyện đường, nhưng họ không tới vì những lời cầu nguyện hay các buổi thuyết giáo. Thay vào đó, họ chỉ muốn mua thứ Nước Thánh phẩm cấp cao do giáo hội bào chế, hoặc loại xà phòng được làm từ chính thứ nước ấy. Họ đến đơn thuần chỉ để mua hàng.
+Thỉnh thoảng cũng có người ghé qua nguyện đường, nhưng không phải để cầu nguyện hay nghe thuyết giáo. Họ chỉ muốn mua Nước Thánh hảo hạng do giáo hội làm ra, hoặc loại xà phòng chế từ chính thứ nước ấy. Đến chỉ cốt để mua đồ.
 
-Thì đúng là họ có bước tới đóng chút tiền thập phân, tiền quyên góp cùng những thứ tương tự, rồi thầm đọc một đôi lời nguyện cầu. Thế nhưng, dù nhìn nhận thế nào đi chăng nữa, trông họ cũng chỉ như đang giả vờ cầu nguyện cho có lệ. Tâm trí họ chẳng hề đặt vào đó; chừng ấy thì tôi hoàn toàn có thể nhận ra.
+Thì đúng là họ có bước tới bỏ chút tiền thập phân, tiền công đức rồi chắp tay cầu nguyện đôi ba câu. Cơ mà nhìn kiểu gì thì trông họ cũng chỉ như đang cầu nguyện lấy lệ. Chẳng có chút thành tâm nào, nhìn là tôi biết ngay.
 
-"Không biết Đại Giáo Phụ sẽ nói gì nếu người nhìn thấy cảnh này nhỉ...?"
+"Đại Giáo Phụ mà thấy cảnh này, chẳng biết người sẽ nói sao nữa...?"
 
-Dẫu tôi có bỏ qua chuyện công khai buôn bán các "sản phẩm" của giáo hội đi chăng nữa, thì nơi này nhìn kiểu gì cũng chẳng khác nào một cửa tiệm. Ngay khi tôi vừa lẩm bẩm câu ấy, người đàn ông với ánh mắt sắc lẹm đứng cạnh tôi lập tức lên tiếng.
+Kể cả có bỏ qua chuyện ngang nhiên bày bán các "sản phẩm" của giáo hội, thì nhìn kiểu gì nơi này cũng chỉ như một cửa tiệm buôn bán. Tôi vừa lẩm bẩm dứt lời, người đàn ông có ánh mắt sắc lẹm đứng cạnh đã lập tức lên tiếng.
 
-"Đại Giáo Phụ nắm rõ chuyện này. Ở các thị trấn thôn quê thì tình hình vốn là như vậy."
+"Đại Giáo Phụ biết rõ chuyện này. Ở các thị trấn vùng quê thì vốn dĩ là như vậy."
 
 "Vậy thì..."
 
-Sao người lại cứ mặc kệ như thế chứ? Đó là điều tôi muốn nói.
+Sao người lại cứ mặc kệ như thế chứ? Tôi toan hỏi vậy.
 
-Thế nhưng người đàn ông mang tên Gilly ấy lại lắc đầu.
+Thế nhưng người đàn ông tên Gilly lại lắc đầu.
 
-"Không. Chính vì đích thân Đại Giáo Phụ cảm thấy đau lòng trước tình cảnh này nên người mới phái cô tới đây, Thánh Nữ Myullias. Trách nhiệm đè nặng trên vai cô quả thực vô cùng lớn lao," anh ta trưng ra bộ mặt nghiêm nghị ấy mà thốt lên những lời như thế.
+"Không đâu. Chính vì đích thân Đại Giáo Phụ xót xa trước tình cảnh này nên người mới phái cô tới đây, Thánh Nữ Myullias. Trách nhiệm trên vai cô quả thực hết sức nặng nề," anh ta vừa thao thao bất tuyệt vừa trưng ra vẻ mặt nghiêm nghị.
 
-Liệu điều đó có thực sự đúng không? Đúng là tôi mang danh Thánh Nữ thật, nhưng kinh nghiệm của tôi lại chẳng có bao nhiêu. Dĩ nhiên trước đây tôi từng trị liệu và thanh tẩy cho vài thị trấn, thậm chí từng thuyết giáo một đôi lần... Song ngoài kia còn có rất nhiều tư tế và Thánh Nữ dày dạn kinh nghiệm hơn, tài năng hơn, hoặc sở hữu trữ lượng Thần Lực dồi dào hơn tôi gấp bội.
+Thật thế không đấy? Đúng là tôi mang danh Thánh Nữ, nhưng kinh nghiệm thì chẳng có bao nhiêu. Trước đây tôi cũng từng chữa trị và thanh tẩy ở vài thị trấn, thậm chí thuyết giáo đôi ba lần... Nhưng ngoài kia còn biết bao tư tế và Thánh Nữ giàu kinh nghiệm hơn, tài năng hơn, hay trữ lượng Thần Lực dồi dào hơn tôi nhiều.
 
-Có lẽ là do nơi đây chỉ là một thị trấn biên ải nhỏ bé. Có lẽ họ nghĩ rằng dẫu không phái bất kỳ ai trong số những thành viên ưu tú hơn đi, thì tôi cũng có thể gánh vác được việc tương tự. Dù Maalt là một thị trấn biên ải vùng quê, nhưng nó lại là một nơi tương đối rộng lớn.
+Có lẽ vì đây chỉ là một thị trấn biên ải hẻo lánh. Chắc bên trên nghĩ chẳng cần cử những nhân vật xuất chúng đi thì tôi cũng gánh vác nổi. Cơ mà dù Maalt là thị trấn biên ải vùng quê, quy mô của nó cũng đâu có nhỏ.
 
-Càng ngẫm nghĩ, gánh nặng trong lòng tôi dường như càng trĩu xuống. Đó là lý do tôi quyết định cứ nói thẳng suy nghĩ của mình ra.
+Càng nghĩ, gánh nặng trong lòng lại càng trĩu xuống. Thế nên tôi quyết định nói toạc suy nghĩ của mình ra.
 
-"Nếu mục tiêu thực sự là gia tăng tầm ảnh hưởng của giáo hội, thì đáng lẽ tôi đã chẳng bị phái tới đây. Người được cử đi phải là Ngài Aaruz, hoặc Thánh Nữ Millia mới đúng."
+"Nếu mục tiêu thực sự là mở rộng ảnh hưởng của giáo hội thì người bị phái đến đây đâu phải là tôi. Đáng ra phải là Ngài Aaruz hoặc Thánh Nữ Millia mới đúng."
 
-Cả hai người họ đều tinh thông bản lĩnh và sở hữu trữ lượng Thần Lực khổng lồ. Dẫu có gom một trăm người như tôi lại thì cũng chẳng hy vọng bắt kịp được họ. Họ thực sự là vị tư tế và Thánh Nữ xuất chúng bậc nhất thế hệ chúng tôi.
+Hai người họ đều tài năng xuất chúng và sở hữu lượng Thần Lực dồi dào. Dẫu có gom cả trăm người như tôi lại cũng đừng hòng bì kịp. Họ quả thực là tư tế và Thánh Nữ kiệt xuất nhất của thế hệ chúng tôi.
 
-Nếu giáo hội thực sự muốn bành trướng tầm ảnh hưởng nơi vùng biên ải, thì đáng lẽ người ở cấp độ như họ mới là người được phái đi. Dẫu bản thân tôi cũng là một Thánh Nữ, nhưng thứ bậc của tôi lại có phần thấp kém. Khá lắm thì tôi cũng chỉ đứng ở rìa ngoài trong hàng ngũ của giáo hội mà thôi. Phái một kẻ như tôi tới đây thì tác dụng đem lại, nói ví von, chẳng khác nào một giọt nước rơi vào lòng đại dương.
+Nếu giáo hội thật tâm muốn mở rộng ảnh hưởng ở vùng biên giới thì phải cử người ở tầm cỡ đó mới phải. Dù cũng mang danh Thánh Nữ, thứ bậc của tôi lại chẳng cao gì cho cam, giỏi lắm cũng chỉ thuộc hàng ngoài rìa giáo hội. Cử một người như tôi tới đây thì tác dụng đem lại khác nào muối bỏ bể.
 
-Tôi chẳng rõ liệu Gilly có hiểu thấu những gì đang lướt qua trong tâm trí mình hay không.
+Tôi chẳng rõ Gilly có hiểu những gì đang diễn ra trong đầu tôi hay không.
 
-"Hai người họ luôn là những cá nhân bận rộn nhất trong Giáo Hội Lobelia. Thật khó để phân định xem ai bận hơn ai. Nói vậy thì chắc cô cũng hiểu rằng việc phái họ đến vùng đất xa xôi như thế này là chuyện gần như bất khả thi," anh ta đáp lại, bằng một câu trả lời hiển nhiên khác.
+"Hai người họ là những người bận rộn nhất Giáo Hội Lobelia rồi, khó mà nói ai bận hơn ai. Nói thế chắc cô cũng hiểu việc cử họ đến vùng đất xa xôi thế này là chuyện gần như bất khả thi," anh ta đáp lại bằng một câu trả lời hiển nhiên khác.
 
-Chuyện đó tôi biết chứ. Hai người họ bận rộn hơn tầng lớp quý tộc hay hoàng gia bình thường rất nhiều. Hoàn toàn không thể đem ra so sánh nổi. Người ta đồn rằng mỗi ngày trôi qua của họ đều được tính toán tới từng phút, chẳng hề có lấy một giây ngơi nghỉ hay nhiều thời gian để chợp mắt. Dĩ nhiên là họ không thể nào tới một nơi xa xôi như thế này rồi.
+Chuyện đó tôi biết chứ. Hai người họ còn bận hơn cả quý tộc hay vương thất bình thường, hoàn toàn không thể đem ra so sánh. Nghe đâu mỗi ngày của họ đều tính từng phút từng giây, chẳng có lấy lúc nghỉ ngơi. Đương nhiên làm sao họ tới nổi một nơi xa xôi thế này.
 
-"Nói vậy, ý anh là tôi bị phái tới đây vì tôi rảnh rỗi hơn chứ gì."
+"Nói vậy ý anh là tôi bị phái tới đây vì rảnh rỗi hơn chứ gì."
 
-"Đương nhiên là không phải thế rồi, Thánh Nữ Myullias. Hoàn toàn không có chuyện đó đâu..."
+"Đương nhiên không phải thế rồi, Thánh Nữ Myullias. Đâu có chuyện đó..."
 
-Anh ta tiếp tục lải nhải giải thích. Ban đầu tôi định lắng nghe, nhưng rồi nhanh chóng đổi ý. Dù sao thì bất kể nghe thấy điều gì, tôi hẳn cũng chẳng thấy vui vẻ gì cho cam.
+Anh ta lại bắt đầu lải nhải. Ban đầu tôi cũng định nghe, nhưng rồi đổi ý ngay. Dù sao nghe tiếp chắc tôi cũng chẳng thấy vui vẻ gì.
 
-Chưa kể, dẫu tôi có bị phái tới đây đơn thuần vì mình đang nhàn rỗi đi chăng nữa, điều đó cũng chẳng thay đổi được nhiệm vụ tôi phải làm. Trách nhiệm của tôi là phô diễn cho những người sống nơi đây thấy được ân điển đúng đắn của Giáo Hội Lobelia.
+Vả lại, dù có bị phái tới đây chỉ vì rảnh rỗi thì chuyện tôi cần làm cũng chẳng thay đổi. Trách nhiệm của tôi là cho người dân nơi này thấy được ân điển chính thống của Giáo Hội Lobelia.
 
-Thôi thì, tôi đành cố hết sức vậy, tôi thầm nghĩ.
+Thôi thì, đành cố hết sức vậy.
 
-Tôi quyết định nhìn nhận vấn đề theo hướng lạc quan hơn, cứ đón nhận bất cứ điều gì sắp tới...
+Tôi tự nhủ phải lạc quan lên, chuyện gì đến thì cứ đón nhận...
 
-"Buổi thuyết giáo được lên lịch vào một tuần nữa, đúng không?" tôi hỏi.
+"Buổi thuyết giáo lên lịch một tuần nữa đúng không?" tôi hỏi.
 
-"Phải." Gilly luôn phản hồi rất nhanh. "Từ giờ cho tới lúc đó sẽ có khá nhiều khâu cần chuẩn bị. Chúng ta cũng phải tới chào hỏi những người có sức ảnh hưởng cùng các nhân vật quyền lực thích hợp trong thị trấn này nữa. Thực ra thì vài người thân của những nhân vật ấy mắc phải thương tật cùng bệnh tật mà ma pháp trị liệu thông thường chẳng thể chữa lành."
+"Phải." Gilly luôn đáp lời rất nhanh. "Từ giờ tới lúc đó còn khá nhiều việc phải chuẩn bị. Chúng ta cũng cần tới chào hỏi những nhân vật có tiếng nói và thế lực trong thị trấn này. Nói cho cùng, vài người thân của họ mắc phải thương tật cùng bệnh tật mà ma pháp trị liệu thông thường không chữa nổi."
 
-Tới nước đó thì tôi đã thừa biết chúng tôi phải làm gì rồi. Để đổi lấy tiền thập phân, tiền quyên góp và tiền ủng hộ, tôi sẽ chữa lành cho họ, còn họ thì vui vẻ chi trả phần thù lao xứng đáng. Xét cho cùng, họ đều là những người sở hữu khối tài sản đáng kể, và sự chữa trị tầm cỡ ấy chẳng thể nào dễ dàng mua được ngoài phố chợ.
+Nghe đến đó là tôi hiểu ngay mình phải làm gì. Đổi lấy tiền thập phân và tiền quyên góp công đức, tôi sẽ trị liệu cho họ, còn họ thì vui lòng chi trả khoản thù lao tương xứng. Dù sao họ cũng thuộc hàng lắm của nhiều tiền, mà phép trị liệu cỡ đó đâu thể cứ ra đường là mua được.
 
-Cứ như thế, số lượng tín đồ của Giáo Hội Lobelia sẽ dần dần gia tăng.
+Cứ thế, tín đồ của Giáo Hội Lobelia sẽ dần tăng lên.
 
-Trên thực tế, rất ít thường dân ở vương quốc này đặt niềm tin vào giáo hội. Tuy nhiên, tầm ảnh hưởng của giáo hội lại lan rộng trong các gia tộc quý tộc và thương nhân—những gia đình nắm giữ quyền lực cùng tài nguyên. Đến lượt mình, những mối quan hệ ấy lại được hình thành và củng cố vững chắc thông qua các hoạt động như thế.
+Thật ra ở vương quốc này, thường dân chẳng mấy ai tin theo giáo hội. Nhưng ảnh hưởng của giáo hội lại lan rộng trong giới quý tộc và thương gia—những gia đình nắm trong tay quyền lực cùng tiền của. Kéo theo đó, những mối quan hệ ấy lại được hình thành và củng cố thông qua các hoạt động như thế.
 
-Thế nhưng khi nhắc tới tầng lớp thường dân, họ sẽ chẳng nhận được bất kỳ ân phước nào trừ phi đã đóng góp một khoản tiền ủng hộ kha khá. Khỏi phải nói, điều này chẳng giúp ích được bao nhiêu trong việc gia tăng lượng tín đồ tại khu vực.
+Còn với thường dân, nếu không đóng góp một khoản tiền công đức kha khá thì đừng mong nhận được ân phước. Khỏi phải nói cũng biết, cách này chẳng giúp tăng thêm được bao nhiêu tín đồ ở vùng này.
 
-Tệ hơn nữa, tôn giáo chiếm ưu thế tuyệt đối ở vương quốc này, Giáo Hội Đông Thiên, lại chẳng hề đòi hỏi bất kỳ khoản tiền thập phân nào, cũng không hề phân biệt đối xử giữa các giai cấp xã hội. Họ đơn thuần trao đi năng lực của mình cho bất cứ ai trong tầm tay với tới. Kết quả là có những trường hợp nhu cầu của các gia đình quý tộc và giàu có lại không được ưu tiên hàng đầu. Giáo Hội Lobelia, vốn ưu tiên người giàu hơn kẻ nghèo, nhờ đó mà chứng kiến sự gia tăng tín đồ trong chính những tầng lớp xã hội này.
+Khổ nỗi, tôn giáo chiếm thế áp đảo ở vương quốc này là Giáo Hội Đông Thiên lại chẳng đòi hỏi chút tiền thập phân nào, cũng không hề phân biệt giai cấp sang hèn. Họ sẵn lòng giúp đỡ tất cả những ai trong khả năng. Hệ quả là đôi khi nhu cầu của các gia đình quý tộc và giàu có lại không được ưu tiên. Giáo Hội Lobelia thì ngược lại, trọng giàu khinh nghèo, nhờ thế mà hút được tín đồ từ chính những tầng lớp này.
 
-Còn về chuyện bên giáo hội nào mới là đúng đắn... Nếu xét theo tiếng gọi con tim, Giáo Hội Đông Thiên rõ ràng là bên chiến thắng. Thế nhưng, nếu tôi suy xét vấn đề này một cách thực tế, thì thực sự rất khó nói.
+Còn chuyện giáo hội nào đúng đắn hơn... Nếu xét theo tình cảm thì Giáo Hội Đông Thiên ăn đứt. Có điều, nếu nghĩ một cách thực tế thì cũng khó mà nói được.
 
-Giả sử một thành viên trong gia đình mắc bạo bệnh và khẩn thiết cần được cứu chữa. Vì phải mất một khoảng thời gian chờ đợi mới tới lượt thăm khám, họ đã đánh mất mạng sống của mình. Chẳng một ai muốn rơi vào hoàn cảnh bi đát như thế, đó là lý do vì sao họ sẵn lòng vung tiền ra để được chữa trị trước. Khi nói tới Giáo Hội Đông Thiên, người bệnh nặng hơn sẽ được chữa trước người bệnh nhẹ, nhưng kết quả là vài người sẽ vô tình bị bỏ lại phía sau. Giáo Hội Lobelia dồn nỗ lực vào những cá nhân bị bỏ sót ấy rồi can thiệp, từ đó từng bước bành trướng phạm vi ảnh hưởng của mình. Dù sao thì cơ chế vận hành của nó vốn là như vậy.
+Giả sử người thân trong nhà mắc bạo bệnh, cần cứu chữa gấp. Nếu vì phải chờ tới lượt khám mà mất mạng thì chẳng ai muốn rơi vào cảnh ngộ đó cả, thế nên người ta mới sẵn sàng bỏ tiền ra để được chữa trước. Giáo Hội Đông Thiên tuy ưu tiên chữa người bệnh nặng trước người bệnh nhẹ, nhưng vô tình cũng sẽ có người bị bỏ sót. Giáo Hội Lobelia nhắm đúng vào những người bị bỏ lại đó mà can thiệp, từng bước mở rộng tầm ảnh hưởng của mình. Cách thức vận hành vốn dĩ là như thế.
 
-Nếu nhìn vào bức tranh toàn cảnh, người ta có thể nói rằng cả hai giáo hội đều có chỗ đứng riêng, và cùng tồn tại tương đối hài hòa ở một mức độ nào đó. Dĩ nhiên, Giáo Hội Lobelia sẽ chẳng đời nào chịu hài lòng với mỗi chừng này.
+Nhìn tổng thể thì cả hai bên đều có chỗ đứng riêng và cùng chung sống tương đối hòa bình ở một chừng mực nào đó. Dĩ nhiên, Giáo Hội Lobelia đời nào chịu bằng lòng với bấy nhiêu.
 
-Lại thêm cả việc tin hay không tin vào một tôn giáo cụ thể vốn là quyền tự do của mỗi cá nhân. Nhìn từ góc độ ấy, vương quốc này quả là một nơi tương đối lý tưởng.
+Lại thêm chuyện tin hay không tin vào một tôn giáo vốn là quyền tự do của mỗi người. Xét theo khía cạnh đó thì vương quốc này quả là nơi lý tưởng.
 
-Giờ đây tôi lại phải làm điều gì đó trước cục diện này. Nghĩ tới thôi cũng thấy thật phức tạp.
+Giờ tôi lại phải làm gì đó trước tình cảnh này. Nghĩ thôi đã thấy phức tạp.
 
-Trong lúc tôi vẫn mải mê suy nghĩ, Gilly bắt đầu mở đọc một phong thư vừa được gửi tới từ giáo hội, rồi quay sang nhìn tôi.
+Trong lúc tôi còn đang mải suy nghĩ, Gilly mở đọc lá thư vừa gửi tới từ giáo hội rồi quay sang tôi.
 
-"Và rồi... hừm. Thế này là..." Anh ta hơi nghiêng đầu sang một bên.
+"Còn nữa... ừm. Chuyện này là..." Anh ta hơi nghiêng đầu.
 
-"Có chuyện gì thế...?"
+"Có chuyện gì vậy anh...?"
 
-"Thực ra đây là mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ. Nhưng cô lại được chỉ thị đi cùng... mạo hiểm giả Kim Cấp, Nive Maris? Thế này rốt cuộc là có ý gì chứ...?" anh ta lẩm bẩm, một vẻ mặt đầy bối rối len lỏi hiện rõ trên từng đường nét.
+"Mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ đấy. Nhưng trong này lại bảo cô đi cùng... mạo hiểm giả Kim Cấp Nive Maris? Rốt cuộc chuyện này là sao chứ...?" anh ta lẩm bẩm, vẻ bối rối lộ rõ trên mặt.
 
 ◆◇◆◇◆
 
-Ngay từ đầu thì rốt cuộc mạo hiểm giả Kim Cấp Nive Maris này là ai cơ chứ? Đó là suy nghĩ đầu tiên của tôi về chuyện này.
+Mạo hiểm giả Kim Cấp Nive Maris rốt cuộc là ai cơ chứ? Đó là ý nghĩ đầu tiên nảy ra trong đầu tôi.
 
-Suốt quãng thời gian làm Thánh Nữ, tôi luôn trau dồi những kiến thức, kỹ năng cùng kỹ thuật được yêu cầu ở bản thân. Thông tin cùng hiểu biết về giới mạo hiểm giả, chưa nói tới việc đi theo sau lưng họ, gần như chẳng bao giờ nằm trong giáo trình huấn luyện của tôi. Dĩ nhiên, tùy vào từng tình huống mà giáo hội cũng từng tiếp nhận những yêu cầu như thế từ quốc vương, quý tộc trọng yếu cùng những nhân vật tương tự, nên ngay cả tôi cũng sẽ biết tới họ nếu đó là một mạo hiểm giả Mithril Cấp lừng danh.
+Từ ngày làm Thánh Nữ, tôi chỉ học những kiến thức, kỹ năng và thánh thuật được yêu cầu. Hiểu biết về giới mạo hiểm giả, chứ đừng nói đến việc đi theo họ, chưa từng nằm trong chương trình học của tôi. Dĩ nhiên tùy tình hình, giáo hội cũng từng nhận yêu cầu tương tự từ quốc vương hay đại quý tộc, nên nếu là mạo hiểm giả Mithril Cấp lừng danh thì đến tôi cũng biết.
 
-Thế nhưng... tên tuổi của một mạo hiểm giả chỉ vỏn vẹn ở Kim Cấp ư?
+Nhưng... một mạo hiểm giả Kim Cấp thôi á?
 
-Tôi có biết về vài cá nhân lập dị sở hữu không ít chiến tích, hoặc những mạo hiểm giả có lẽ chẳng bao lâu nữa sẽ bước chân vào hàng ngũ Mithril Cấp. Dù những nhân vật ấy thường có vô số ánh mắt dõi theo dò xét, nhưng cũng chẳng có tin tức nào khiến tôi phải đặc biệt lưu tâm.
+Tôi cũng có nghe về vài nhân vật lập dị lập được không ít chiến công, hay những người sắp sửa bước lên hàng Mithril Cấp. Tuy những người đó được rất nhiều người để mắt tới, nhưng cũng chẳng có tin tức nào buộc tôi phải đặc biệt chú ý.
 
-Thế nhưng Gilly dường như lại không có chung quan điểm với tôi.
+Thế nhưng Gilly dường như lại không nghĩ như vậy.
 
-"Mạo hiểm giả Kim Cấp Nive Maris là một Thợ Săn Ma Cà Rồng nổi danh. Đúng như danh hiệu ấy, cô ta chuyên về việc săn lùng Ma Cà Rồng."
+"Mạo hiểm giả Kim Cấp Nive Maris là một Thợ Săn Ma Cà Rồng nổi danh. Đúng như danh hiệu đó, cô ta chuyên đi săn Ma Cà Rồng."
 
-"Một Thợ Săn Ma Cà Rồng ư?"
+"Thợ Săn Ma Cà Rồng ư?"
 
-"Phải. Phần lớn mạo hiểm giả thường chọn bất kỳ con mồi hay ủy thác nào hợp với sở thích của mình vào thời điểm đó. Thế nhưng, thỉnh thoảng vẫn có những mạo hiểm giả chuyên săn một loài quái vật cụ thể, vì tính hiệu quả hoặc do thiên hướng cá nhân. Trường hợp này đặc biệt đúng khi nói tới việc săn lùng Ma Cà Rồng. Chúng là loài quái vật rất khó săn, nhưng phần thưởng thu về lại tương xứng vô cùng lớn. Tuy việc bắt giữ một con Thi Quỷ tầm thường chẳng mang lại ý nghĩa gì, nhưng tóm gọn 'chúa tể' của một bầy đàn có thể dễ dàng thu về cả một gia tài kếch xù. Một ngàn đồng vàng? Hoặc thậm chí nhiều hơn thế? Nói một cách nhẹ nhàng nhất thì đó quả là một... nghề nghiệp đầy tính lãng mạn."
+"Phải. Thông thường mạo hiểm giả sẽ chọn con mồi hay ủy thác tùy hứng vào từng thời điểm. Nhưng thỉnh thoảng cũng có người vì hiệu quả hoặc sở thích riêng mà chuyên săn một loài quái vật nhất định. Săn Ma Cà Rồng là một ví dụ điển hình. Loài quái vật này rất khó săn, nhưng đổi lại phần thưởng thu về cực kỳ lớn. Dù bắt một con Thi Quỷ tép riu chẳng bõ bèn gì, nhưng nếu tóm gọn được 'chúa tể' của một bầy đàn thì có thể dễ dàng bỏ túi cả một gia tài. Một ngàn đồng vàng ư? Hay thậm chí còn hơn thế nữa? Ít nhất cũng phải nói đó là một... nghề nghiệp đầy tính lãng mạn."
 
-Chẳng rõ vì lý do gì mà Gilly trông có vẻ hào hứng ra mặt. Thật hiếm thấy. Nói đúng hơn thì chuyện này khá kỳ lạ. Thái độ cùng phong thái của anh ta bình thường chẳng bao giờ bộc lộ nhiều cảm xúc đến thế.
+Chẳng hiểu sao Gilly lại có vẻ hào hứng đến thế. Thật hiếm thấy. Nói đúng hơn là quá đỗi lạ lùng. Bình thường tác phong và nét mặt anh ta chẳng bao giờ lộ chút cảm xúc nào.
 
-"Trông anh có vẻ thích thú nhỉ. Có phải từng có thời điểm anh ước muốn trở thành mạo hiểm giả không?"
+"Trông anh hào hứng ghê nhỉ. Bộ ngày xưa anh từng muốn làm mạo hiểm giả à?"
 
-"À. Xin thứ lỗi cho tôi. Trước khi bước chân vào con đường tu đạo, quả thực hồi nhỏ từng có lúc tôi nghĩ tới chuyện ấy. Tôi chỉ đơn thuần đang hồi tưởng lại thôi."
+"À. Xin thứ lỗi cho tôi. Đúng là hồi nhỏ, trước khi bước chân vào giáo hội, từng có lúc tôi nghĩ tới chuyện đó. Tôi chỉ nhất thời hoài niệm lại thôi."
 
-Người đàn ông này hóa ra lại có một quá khứ khá bất ngờ. Chỉ cần nhìn vào khuôn mặt của anh ta thôi cũng đủ khiến tôi mặc định rằng ngay từ khi còn là một đứa trẻ, anh ta hẳn đã lạnh lùng và cứng nhắc, với một tâm trí cùng con đường độc đạo duy nhất.
+Người đàn ông này hoá ra lại có quá khứ bất ngờ đến vậy. Nhìn cái mặt anh ta, tôi cứ đinh ninh từ bé anh ta đã lạnh lùng cứng nhắc, đầu óc chỉ biết cắm cúi theo đúng một con đường định sẵn.
 
-Ước mơ sao, hừm... Đã nói tới mức đó thì tôi đoán mình cũng có thể thấu hiểu được ở một chừng mực nào đó. Dĩ nhiên, ngay cả người đàn ông trước mắt tôi đây hẳn cũng từng có thời là một đứa trẻ đáng yêu và dễ mến. Một đứa trẻ như thế nuôi dưỡng những suy nghĩ ấy thì đâu có gì là lạ.
+Ước mơ à, hừm... Nghe anh ta nói vậy thì tôi cũng phần nào hiểu được. Dĩ nhiên, ngay cả người đàn ông trước mắt này chắc cũng từng có thời là một đứa trẻ kháu khỉnh đáng yêu. Trẻ con mà mơ mộng thế thì đâu có gì lạ.
 
-Chẳng hiểu sao, trước giờ tôi cứ ngỡ hồi nhỏ Gilly cũng y hệt như bộ dạng bây giờ của anh ta.
+Chẳng hiểu sao trước giờ tôi cứ đinh ninh hồi nhỏ Gilly cũng y hệt bộ dạng bây giờ.
 
-"Tôi hiểu rồi... Hóa ra ngay cả người như anh cũng từng có một tuổi thơ tương đối bình thường đấy nhỉ," tôi cất lời với giọng điệu rõ ràng là khiêu khích trêu chọc. Gilly chẳng hề để tâm tới những lời của tôi.
+"Ra là thế... Hoá ra người như anh cũng từng có một tuổi thơ bình thường đấy nhỉ," tôi cố tình nói bằng giọng trêu chọc. Nhưng Gilly chẳng mảy may bận tâm.
 
-"Đương nhiên rồi. Ngay cả tôi sinh ra đâu phải đã như thế này ngay từ đầu," anh ta đáp, như thể đã nhìn thấu tâm can tôi từ giây phút đầu tiên. "Dù sao đi nữa. Về những mệnh lệnh này... Thánh Nữ Myullias Raiza sẽ đi cùng Nive Maris, sau đó cô ấy sẽ tham gia vào một chuỗi đàm phán với một mạo hiểm giả nào đó. Bức thư viết như vậy đấy."
+"Đương nhiên rồi. Sinh ra tôi đâu đã thế này ngay," anh ta đáp, như thể nhìn thấu ý đồ của tôi ngay từ đầu. "Dù sao đi nữa, về mệnh lệnh lần này... Thánh Nữ Myullias Raiza sẽ đi cùng Nive Maris, để cùng cô ta tham gia đàm phán với một mạo hiểm giả. Thư viết thế đấy."
 
-"Đàm phán với một mạo hiểm giả ư? Sao lại là tôi...?"
+"Đàm phán với mạo hiểm giả? Sao lại là tôi...?"
 
-Tôi chẳng hề bài xích chuyện đó chút nào, nhưng quả thực nó rất đỗi bí ẩn. Bản thân tôi từng có những trải nghiệm tương tự; chuyện giới quý tộc triệu tập các tư tế và Thánh Nữ tới các cuộc đàm phán sang trọng của họ là điều hết sức phổ biến, chẳng hạn như vì lo sợ có kẻ lén bỏ độc vào thức uống của mình. Với một tư tế hoặc Thánh Nữ túc trực bên cạnh, độc dược có thể dễ dàng được thanh tẩy, và đích thân tôi cũng từng tham dự vài sự kiện như thế.
+Tôi không ghét bỏ gì chuyện đó, nhưng thấy thật kỳ quặc. Bản thân tôi từng có trải nghiệm tương tự; quý tộc hay mời tư tế và Thánh Nữ tới các cuộc đàm phán sang trọng là chuyện thường tình, chẳng hạn như để phòng ngừa bị bỏ độc vào rượu. Có tư tế hoặc Thánh Nữ túc trực bên cạnh thì giải độc quá dễ dàng, chính tôi cũng từng dự mấy buổi như vậy rồi.
 
-Dường như nhiệm vụ lần này của tôi cũng là thứ gì đó tương tự. Mặc dù việc triệu tập một Thánh Nữ của Giáo Hội Lobelia vốn chẳng hề dễ dàng chút nào. Tối thiểu thì cá nhân đó phải sở hữu đặc quyền, quyền lực cùng tiền của. Ngay cả một mạo hiểm giả Kim Cấp cũng chẳng thể nào làm nổi chuyện ấy... hoặc ít ra tôi đã nghĩ như vậy.
+Xem ra nhiệm vụ lần này của tôi cũng na ná thế. Có điều muốn mời được Thánh Nữ của Giáo Hội Lobelia đâu phải chuyện dễ. Tối thiểu người đó cũng phải có địa vị, quyền lực và tiền bạc. Cỡ mạo hiểm giả Kim Cấp làm sao với tới được... chí ít là tôi từng nghĩ vậy.
 
-Gilly, cứ như thể đọc thấu suy nghĩ của tôi, tiếp tục lên tiếng.
+Gilly như đọc thấu suy nghĩ của tôi, nói tiếp.
 
-"Tôi không rõ. Tuy nhiên, đây là mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ. Hoàn toàn có cơ sở để suy đoán rằng Nive Maris có khả năng gây ảnh hưởng lên tầng lớp thượng tầng của giáo hội bằng cách này hay cách khác. Nếu không, một mệnh lệnh như thế là chuyện gần như bất khả thi."
+"Tôi không rõ. Có điều đây là mệnh lệnh trực tiếp từ đích thân Đại Giáo Phụ. Hẳn là Nive Maris bằng cách nào đó có thể tác động tới giới chóp bu của giáo hội. Nếu không thì mệnh lệnh thế này gần như là điều không tưởng."
 
-"Cô ta thực sự nổi tiếng đến thế sao? Làm thế nào một mạo hiểm giả chỉ ở Kim Cấp lại có được quyền lực như vậy chứ...?"
+"Cô ta nổi tiếng đến thế thật ư? Làm sao một mạo hiểm giả Kim Cấp lại có được ảnh hưởng cỡ đó chứ...?"
 
-Đây là điều mà ngay cả những quý tộc mang tước vị cao cũng chưa chắc làm nổi.
+Chuyện này đến đại quý tộc chưa chắc đã làm nổi.
 
-Tuy Giáo Hội Lobelia không có nhiều ảnh hưởng tại Vương Quốc Yaaran, song dẫu có lùng sục khắp mọi vùng đất trên thế giới, người ta cũng khó lòng tìm thấy một tổ chức tôn giáo nào lớn hơn, lâu đời hơn và quyền lực hơn.
+Tuy Giáo Hội Lobelia không có nhiều ảnh hưởng ở Vương Quốc Yaaran, nhưng dẫu có lùng khắp thế gian cũng khó lòng tìm ra tổ chức tôn giáo nào quy mô hơn, lâu đời hơn và quyền lực hơn.
 
-Khỏi phải nói, giáo hội nắm giữ tầm ảnh hưởng vô cùng to lớn đối với giới quý tộc cùng các triều đình cai trị của nhiều quốc gia và vương quốc khác nhau. Có thể đưa ra thỉnh cầu trực tiếp tới đích thân Đại Giáo Phụ, cá nhân nắm giữ quyền uy và quyền lực tối cao nhất trong Giáo Hội Lobelia...
+Khỏi phải nói, giáo hội có sức ảnh hưởng cực lớn tới giới quý tộc và chính quyền cai trị của nhiều quốc gia. Vậy mà có thể trực tiếp thỉnh cầu đích thân Đại Giáo Phụ—người nắm giữ quyền uy tối cao nhất của Giáo Hội Lobelia...
 
-"Tôi cũng không biết phải nhìn nhận chuyện đó ra sao nữa." Ngay cả Gilly dường như cũng đầy bối rối.
+"Tôi cũng chẳng biết phải giải thích thế nào." Đến cả Gilly cũng lộ vẻ bối rối.
 
-"Tuy nhiên, thưa Thánh Nữ Myullias, e rằng cô không có quyền từ chối."
+"Có điều, thưa Thánh Nữ Myullias, e là cô không có quyền từ chối đâu."
 
-Chuyện đó tôi biết chứ. Chừng đó thì tôi biết rõ, nhưng mà...
+Tôi biết chứ. Biết thừa là đằng khác, nhưng mà...
 
-"Ngày mai Nive Maris sẽ tới ngôi nguyện đường này," anh ta tiếp tục. "Đến lúc đó, tốt hơn hết cô nên tự mình hỏi cô ta về những chi tiết cụ thể."
+"Ngày mai Nive Maris sẽ tới ngôi nguyện đường này," anh ta nói tiếp. "Đến lúc đó tốt nhất cô cứ trực tiếp hỏi cô ấy cho rõ sự tình."
 
-Tôi cảm thấy một dự cảm bất an mơ hồ, song tôi chẳng thể nào đi ngược lại một mệnh lệnh trực tiếp. Tất cả những gì tôi có thể làm là gật đầu và để tâm trí mình trôi dạt về những suy nghĩ của ngày mai...
+Trong lòng dấy lên linh cảm bất an, nhưng tôi đâu thể làm trái mệnh lệnh trực tiếp. Tôi chỉ đành gật đầu, bụng thầm nghĩ ngợi về ngày mai...
