@@ -858,7 +858,7 @@ Thần tinh linh tuyên bố Rentt và Lorraine là hai tín đồ duy nhất c�
 
 ## 145
 Thần tinh linh đòi rượu ăn mừng có tín đồ mới; Rentt dâng một chai rượu mạnh Hathara và chứng kiến chai rượu tự lơ lửng rồi cạn sạch chất lỏng vào người bức tượng gỗ; Lorraine thử nghiệm Thần Lực mới nhưng nhanh chóng cạn kiệt do lượng ban phước quá ít ỏi.
-Thần tinh linh phát hiện lượng Thần Lực của Rentt lớn gấp trăm lần bình thường; nó khẳng định bản thân không ban thêm mà cho rằng chiếc mặt nạ không tháo được thực chất là vật phẩm thần thánh mang lời chúc phúc của vị thần khác, đồng thời khuyên cả hai tới đền thờ chính của Thần Giám Định để thẩm định.
+Thần tinh linh phát hiện lượng Thần Lực của Rentt lớn gấp trăm lần bình thường; nó khẳng định bản thân không ban thêm mà cho rằng chiếc mặt nạ không tháo được thực chất là Thánh Cụ mang lời chúc phúc của vị thần khác, đồng thời khuyên cả hai tới đền thờ chính của Thần Giám Định để giám định.
 Hết năng lượng duy trì, thần tinh linh cho biết có thể gọi mình là Viro rồi hóa thành hơi nước tan biến khiến bức tượng gỗ vỡ vụn thành cát; Rentt hứa với Lorraine sẽ tìm vật liệu chứa nhiều Ma Lực hơn để tạc lại vật chứa mới.
 Do ngôi đền chính của Thần Giám Định nằm ở ngoại quốc, cả hai thống nhất gác lại chuyến đi sau khi hoàn tất các ủy thác ở Maalt; chương kết thúc khi màn đêm buông xuống và cả hai cùng nhau hướng về nhà bà lão Gharb.
 
