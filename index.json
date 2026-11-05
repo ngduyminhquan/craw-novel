@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T14:26:38Z",
+  "generatedAt": "2026-11-05T14:34:02Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3220,19 +3220,19 @@
           "number": 178,
           "title": "Chương 178: Ngoại truyện Tập 7 - Nhân Viên Kỳ Cựu Lại Là Mạo Hiểm Giả?",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_178.md",
-          "sha": "f5cbd61350afd0ab472c123e4c708f4279adbe4e"
+          "sha": "ff37190382543017c6a4e0fa1eeaf9184e5ca58c"
         },
         {
           "number": 179,
           "title": "Chương 179: Ngoại truyện Tập 7 - Thành Viên Đoàn Kịch Rentt",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_179.md",
-          "sha": "f31e15e325eabd4f7a989f3bdf57d4e95e5d19e9"
+          "sha": "cd02c378a5233610f7869e7f7083f20052c4c702"
         },
         {
           "number": 180,
           "title": "Chương 180: Ngoại truyện Tập 7 - Quản Lý Gia Bảo",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_180.md",
-          "sha": "185e1257460e6d2d2d1dd92fef0f5716b6d99324"
+          "sha": "a49532c7203469af4666439362d37a64edaa11bf"
         },
         {
           "number": 181,
