@@ -1,145 +1,145 @@
 # Chương 185: Tập 8 Chương 1 - Tình Hình Maalt (4)
 
-Wolf nhìn cô gái với vẻ mặt đầy mâu thuẫn. Tôi tiến lại gần ông từ phía sau. "Rentt đấy à?" ông cất tiếng mà không hề quay đầu lại nhìn tôi. Chắc hẳn ông đã nhận ra tôi đứng quan sát toàn bộ sự việc nãy giờ.
+Wolf dõi nhìn cô gái, nét mặt đầy giằng xé. Tôi tiến lại gần từ phía sau. "Rentt đấy à?" ông hỏi mà chẳng buồn quay đầu lại nhìn. Chắc hẳn ông đã nhận ra tôi đứng chứng kiến mọi chuyện nãy giờ.
 
-"Thật tiếc khi ông phải làm điều đó," tôi nói, dù tự thấy những lời ấy có phần sáo rỗng.
+"Để ông phải tự tay làm chuyện đó... tôi rất tiếc," tôi nói, dẫu biết mấy lời an ủi ấy nghe thật sáo rỗng.
 
-"Cậu ấy là một mạo hiểm giả thuộc hội của tôi. Tôi là người thích hợp nhất cho công việc này." Tôi có thể cảm nhận được phẩm giá cùng tinh thần trách nhiệm mà ông gánh vác trên cương vị Hội Trưởng. Chúng tôi thật may mắn khi có ông phụ trách Hội Mạo Hiểm Giả của mình.
+"Cậu ấy là mạo hiểm giả của Hội tôi. Chuyện này chỉ có tôi ra tay là phải nhất." Tôi cảm nhận được sự đĩnh đạc cùng tinh thần trách nhiệm mà ông gánh vác trên cương vị Hội Trưởng. Thật may cho chúng tôi khi có một người như ông đứng đầu Hội Mạo Hiểm Giả.
 
-"Vậy cậu thiếu niên đó là người của Hội Maalt sao?" tôi hỏi. Tôi chỉ mới đứng theo dõi từ giữa chừng nên không nắm được mọi chi tiết, nhưng tôi đã đoán như vậy, và giờ Wolf đã xác nhận điều đó.
+"Vậy cậu thiếu niên đó là người của Hội Maalt sao?" tôi hỏi. Tôi chỉ tình cờ chứng kiến từ giữa chừng nên không rõ đầu đuôi, nhưng tôi cũng đoán là vậy, và giờ đã được Wolf xác nhận.
 
-"Phải, cậu ta là một trong những tân binh mạo hiểm giả mất tích dạo trước. Cô bé đang khóc kia từng đi làm mạo hiểm giả cùng cậu ta. Đùng một cái một ngày nọ cậu ta biến mất tăm, và chuyện cứ thế cho đến khi..."
+"Phải, cậu ta là một trong những tân binh mạo hiểm giả mất tích dạo trước. Cô bé đang khóc kia từng đi làm nhiệm vụ cùng cậu ta. Đùng một cái cậu ta biến mất tăm, rồi bặt vô âm tín cho tới khi..."
 
-"Cậu ta quay trở lại dưới dạng một Thi Quỷ?"
+"Cậu ta quay lại trong hình hài Thi Quỷ ư?"
 
-"Đúng thế. Thật bi thảm. Nếu chúng nhắm vào kẻ chẳng còn nhiều tương lai để trông đợi như tôi thì đã đành một nhẽ, đằng này chúng lại nhắm vào một đứa trẻ đầy hoài bão. Nghĩ mà thấy lợm giọng."
+"Đúng thế. Đau lòng thật đấy. Giá chúng nhắm vào một kẻ chẳng còn mấy tương lai để ngóng đợi như tôi thì đã đành một nhẽ, đằng này lại đi hại một đứa trẻ đầy hoài bão. Nghĩ mà thấy sôi máu."
 
-Nếu tôi là con Ma Cà Rồng đó, có lẽ tôi cũng chẳng dại gì mà đi gây sự với Wolf, nhưng tôi hiểu được cảm xúc của ông. Nhắm vào kẻ yếu là nước đi hợp lý đối với bất kỳ kẻ đi săn nào, nhưng khi mục tiêu ấy là con người thì đó là điều không thể dung thứ. Tân binh mạo hiểm giả thường là những đứa trẻ còn chưa biết sự đời. Chỉ có kẻ hèn hạ mới đi tấn công bọn chúng.
+Nếu tôi là con Ma Cà Rồng đó, có lẽ tôi cũng chẳng dại gì mà đi gây sự với Wolf, nhưng tôi hoàn toàn hiểu được nỗi bức xúc của ông. Nhắm vào kẻ yếu là nước đi hợp lý đối với bất kỳ kẻ đi săn nào, nhưng khi con mồi là con người thì chuyện đó thật đê hèn không thể dung thứ. Tân binh mạo hiểm giả thường là những đứa trẻ còn chưa biết sự đời. Chỉ có kẻ hèn hạ mới đi tấn công bọn chúng.
 
-"Tôi hỏi cậu điều này để cho chắc thôi nhé," Wolf thì thầm với tôi để không ai khác nghe thấy. "Cậu không biết cách nào để biến Thi Quỷ trở lại thành người, đúng chứ?" Wolf đã nói với cô bé kia như thể chẳng còn cách nào, nhưng rõ ràng trong thâm tâm ông vẫn tự hỏi liệu có khả năng nào làm được việc đó hay không. Xét cho cùng, ông đã có tôi làm một minh chứng sống phần nào cho điều ấy.
+"Tôi hỏi cậu điều này để cho chắc thôi nhé," Wolf thì thầm đủ nhỏ để không ai nghe thấy. "Cậu không biết cách nào để biến Thi Quỷ trở lại thành người, đúng chứ?" Wolf đã bảo với cô bé kia như thể chẳng còn cách nào, nhưng rõ ràng trong thâm tâm ông vẫn tự hỏi liệu có khả năng nào làm được việc đó hay không. Xét cho cùng, chẳng phải đã có tôi sờ sờ ra đó làm một minh chứng sao.
 
-"Rất tiếc là tôi không biết liệu có cách nào không. Và hồi còn là Thi Quỷ, tôi chưa từng mất đi lý trí như thế. Giọng tôi lúc đó có hơi khàn, nhưng tôi vẫn có thể nói chuyện như người bình thường và hoàn toàn tỉnh táo. Đánh giá từ những gì tôi quan sát được ở đây, có lẽ giữa tôi và bọn chúng có điểm gì đó khác biệt căn bản."
+"Tiếc là tôi cũng chịu, chẳng rõ có cách nào không. Hồi còn là Thi Quỷ, tôi chưa từng mất đi lý trí như vậy. Giọng tôi lúc đó có hơi khàn, nhưng vẫn nói chuyện được như người bình thường và hoàn toàn tỉnh táo. Nhìn những gì diễn ra ở đây, có lẽ giữa tôi và bọn họ có sự khác biệt căn bản nào đó."
 
-Cậu thiếu niên kia đã không thể trả lời rành rọt câu hỏi của Wolf. Thậm chí còn đáng ngờ liệu cậu ta có nhận thức được mình là một Thi Quỷ hay không. Nhưng tôi thì khác. Tôi hoàn toàn ý thức được bản thân mình là thứ gì. Tôi không dám chắc mình không có bất kỳ thôi thúc quái vật nào, nhưng ngoại trừ lần tôi tấn công Lorraine ra thì tôi đều có thể kiểm soát được chúng. Tôi vẫn uống máu người mỗi ngày, nhưng chưa từng mảy may nảy ra ý định tấn công ai khác. Ngược lại, cậu thiếu niên đó lại phát cuồng trước khi bị bắt giữ. Hẳn phải có điều gì đó khiến cậu ta khác biệt với tôi ở cấp độ căn bản.
+Cậu thiếu niên kia đã chẳng thể trả lời rành rọt câu hỏi của Wolf. Đến cả việc cậu ta có ý thức được mình biến thành Thi Quỷ hay không còn chưa chắc. Nhưng tôi thì khác. Tôi hoàn toàn ý thức được bản thân mình là thứ gì. Bảo là không có chút thôi thúc quái vật nào thì không đúng, nhưng trừ lần tấn công Lorraine ra, tôi vẫn kìm nén được. Tôi vẫn uống máu người mỗi ngày, nhưng chưa từng mảy may nghĩ đến chuyện tấn công người khác. Ngược lại, cậu thiếu niên đó lại phát cuồng trước khi bị bắt giữ. Hẳn phải có điều gì đó khiến cậu ta khác biệt với tôi ngay từ bản chất.
 
-Wolf vừa lộ vẻ thất vọng lại vừa nhẹ nhõm trước câu trả lời của tôi—thất vọng vì không thể cứu vãn những mạo hiểm giả từng là đồng đội của mình, và nhẹ nhõm vì quyết định thanh tẩy mạo hiểm giả đó là lựa chọn đúng đắn. Nếu ra tay kết liễu họ trong khi vẫn còn cách cứu chữa, hẳn sẽ rất khó để chuộc lại lỗi lầm. Dù thế nào đi nữa, đó cũng là lựa chọn duy nhất của ông trong tình thế này. Nếu để lộ chuyện tôi là Undead và còn tuyên bố biết cách chữa trị cho Thi Quỷ, điều đó sẽ đẩy ông vào tình thế ngàn cân treo sợi tóc. Dẫu vậy, ông vẫn sẵn sàng chấp nhận rủi ro đó nếu nó có thể giúp ích cho họ.
+Nghe tôi trả lời, nét mặt Wolf vừa thất vọng lại vừa nhẹ nhõm: thất vọng vì không thể cứu những mạo hiểm giả vốn là cấp dưới của mình, nhưng nhẹ nhõm vì quyết định thanh tẩy họ là lựa chọn đúng đắn. Nếu xuống tay kết liễu trong khi vẫn còn cách cứu chữa, hẳn ngàn lời tạ lỗi cũng chẳng đủ. Dù thế nào đi nữa, đó cũng là lối thoát duy nhất của ông trong tình thế này. Nếu phải công khai chuyện tôi là Undead rồi khẳng định mình biết cách cứu chữa Thi Quỷ, bản thân ông sẽ rơi vào thế ngàn cân treo sợi tóc. Dẫu vậy, ông vẫn sẵn sàng chấp nhận rủi ro đó nếu việc ấy giúp được bọn họ.
 
-"Tôi hiểu rồi, rõ rồi," Wolf nói. "Biết được thế là tốt. À, thêm nữa, bọn tôi đã thu thập được một số thông tin. Cậu nghe chuyện này đi."
+"Tôi hiểu rồi," Wolf nói. "Biết vậy là tốt. À mà, bên tôi cũng thu thập được ít tin tức rồi. Cậu nghe thử xem."
 
-Wolf kể cho tôi nghe về tình hình hiện tại của thị trấn. Tôi cũng đã biết phần nào nhờ những gì nhìn thấy qua việc chia sẻ tầm nhìn với Edel, nhưng tôi không thể phân tích thấu đáo được như Hội. Edel và tôi có thể tự mình tìm hiểu, nhưng chắc chắn sẽ có những mảng thiếu sót. Hội Mạo Hiểm Giả rất rành cách xử lý những tình huống như thế này, và họ có vô số nhân viên để sàng lọc thông tin, vậy nên lắng nghe họ là điều rất có lợi.
+Wolf kể cho tôi nghe về tình hình hiện tại của thị trấn. Tôi cũng đã biết phần nào nhờ chia sẻ tầm nhìn với Edel, nhưng óc phân tích của tôi sao bì được với cả một tổ chức. Edel và tôi có thể tự mình tìm hiểu, nhưng thế nào cũng có chỗ thiếu sót. Phía Hội vốn dày dạn kinh nghiệm đối phó với những biến cố kiểu này, lại có đông đảo nhân sự để tổng hợp và xử lý thông tin, nên lắng nghe họ chỉ có lợi chứ không thiệt.
 
-Trước hết, ông cho tôi biết họ đã phát hiện và tiêu diệt Thi Quỷ rải rác khắp Maalt, và tổng số lượng dường như rơi vào khoảng từ năm mươi đến một trăm con. Một số con trong đó, giống như cậu thiếu niên ban nãy, chính là các tân binh mạo hiểm giả đã mất tích. Điều này coi như đã khẳng định chắc chắn có một con Ma Cà Rồng đứng sau các vụ mất tích.
+Trước hết, ông cho biết khắp Maalt đều đã phát hiện và tiêu diệt được Thi Quỷ, tổng số lượng ước tính chừng năm mươi đến một trăm con. Một vài kẻ trong số đó, giống như cậu thiếu niên ban nãy, chính là các tân binh mạo hiểm giả mất tích dạo trước. Điều này gần như xác nhận chắc chắn có Ma Cà Rồng đứng sau các vụ mất tích.
 
-Họ vừa nỗ lực truy tìm và bắt giữ con Ma Cà Rồng, vừa tiến hành tiêu diệt đám Thi Quỷ, nhưng vẫn chưa thể tìm ra hắn. Họ cũng đã thử đoán vị trí của con Ma Cà Rồng dựa trên cách phân bố Thi Quỷ khắp Maalt, nhưng con Ma Cà Rồng dường như đã tính trước điều đó khi bố trí chúng rải đều khắp thị trấn. Rõ ràng hắn đủ khôn ngoan để không bố trí toàn bộ chúng xung quanh nơi ẩn náu của mình. Nếu hắn liên tục tạo ra Thi Quỷ rồi phái chúng xuất phát từ vị trí của mình thì có lẽ chúng đã chẳng phân bố đồng đều đến vậy. Từ điều đó, chúng tôi có thể suy đoán rằng hắn đã tính toán kỹ lưỡng về mặt vị trí trước khi phát động cuộc tấn công.
+Song song với việc tiêu diệt đám Thi Quỷ, phía Hội cũng nỗ lực truy lùng và bắt sống kẻ chủ mưu, nhưng đến giờ vẫn chưa thấy tăm hơi con Ma Cà Rồng đâu. Họ cũng thử đoán nơi ẩn náu của nó dựa theo mật độ phân bố Thi Quỷ khắp Maalt, nhưng dường như kẻ đứng sau đã tính trước điều này nên rải đều chúng khắp thị trấn. Hắn thừa khôn ngoan để không gom hết tay chân quanh sào huyệt. Nếu cứ liên tục biến đổi Thi Quỷ rồi thả từ nơi ẩn náu tỏa ra, ắt hẳn chúng không thể nào phân bố đồng đều đến vậy. Từ đó có thể suy ra rằng hắn đã tính toán kỹ lưỡng vị trí từ trước khi phát động tấn công.
 
-"Chà, việc săn lùng Thi Quỷ nhìn chung vẫn tiến triển thuận lợi," Wolf nói tiếp. "Tôi nghĩ rốt cuộc chúng ta cũng sẽ tiêu diệt hết bọn chúng thôi, nhưng thiệt hại gây ra là khá đáng kể. Ước gì có thể hạ gục luôn tên đầu sỏ cho rồi. Nhân tiện nhắc tới chuyện đó, tôi muốn hỏi cậu một điều."
+"Chuyện dọn dẹp đám Thi Quỷ thì vẫn đang tiến triển tốt," Wolf nói tiếp. "Sớm muộn gì cũng dọn sạch thôi, cơ mà thiệt hại để lại không nhỏ chút nào. Ước gì tóm gáy được luôn tên đầu sỏ cho xong. Nhắc mới nhớ, tôi có điều này muốn hỏi cậu."
 
-"Chuyện gì thế?"
+"Chuyện gì thế ông?"
 
-"Cậu có biết một con Ma Cà Rồng phải ở cự ly gần đến mức nào để điều khiển một Thi Quỷ không? Tất cả bọn chúng đồng loạt xuất hiện, tấn công người dân và phóng hỏa cùng một lúc, nên có lẽ bọn chúng đều nhận cùng một mệnh lệnh. Tôi nghĩ con Ma Cà Rồng chí ít cũng phải ở đủ gần để truyền chỉ thị cho chúng."
+"Cậu có biết Ma Cà Rồng phải ở cự ly bao gần thì mới điều khiển được Thi Quỷ không? Bọn chúng đồng loạt xuất hiện, cùng lúc tấn công người dân rồi phóng hỏa, chắc chắn là nhận chung một mệnh lệnh. Tôi nghĩ tên Ma Cà Rồng ít nhất cũng phải ở đủ gần mới truyền chỉ thị cho chúng được."
 
-"Về chuyện đó thì tôi chịu thôi," tôi trả lời.
+"Chuyện đó thì tôi chịu rồi," tôi đáp.
 
-"Sao lại thế? Chẳng phải cậu là, cậu biết đấy?" Wolf nghiêng đầu hỏi. Ông tránh nhắc thẳng ra chuyện tôi là Ma Cà Rồng. Tôi rất cảm kích sự chu đáo đó của ông.
+"Sao lại không? Chẳng phải cậu là... cậu biết rồi đấy?" Wolf nghiêng đầu hỏi. Ông tránh nhắc thẳng ra chuyện tôi là Ma Cà Rồng. Tôi rất cảm kích sự ý tứ đó của ông.
 
-"Thì ông cứ nghĩ mà xem. Tôi đâu có tấn công con người, và tôi cũng chưa từng tạo ra hay điều khiển bất kỳ con Thi Quỷ nào. Tôi làm sao biết chính xác phải ở cự ly gần chừng nào mới điều khiển được chúng, hay có thể tạo ra tối đa bao nhiêu con."
+"Thì ông cứ nghĩ mà xem. Tôi đâu có tấn công con người, cũng chưa từng tạo ra hay sai khiến bất kỳ con Thi Quỷ nào. Làm sao tôi biết chính xác cự ly điều khiển là bao xa, hay tạo ra được tối đa bao nhiêu con chứ."
 
-"Phải, tôi hiểu rồi. Nhắc mới nhớ, một con Ma Cà Rồng không tấn công người thì làm sao tạo ra Thi Quỷ được chứ? Nhưng trời ạ, chẳng lẽ chúng ta cứ phải lùng sục từng ngóc ngách để tìm con Ma Cà Rồng này sao?" Wolf khoanh tay nói.
+"Cậu nói cũng phải. Một con Ma Cà Rồng không tấn công người thì làm sao tạo ra Thi Quỷ được chứ. Cơ mà phiền thật đấy, chẳng lẽ chúng ta cứ phải lùng sục từng xó xỉnh để tìm con Ma Cà Rồng này sao?" Wolf khoanh tay nói.
 
-"Khoan đã nào. Tôi có thể chưa từng tạo ra Thi Quỷ, nhưng tôi từng tạo ra quyến thuộc rồi. Đây này," tôi nói và chỉ vào chú chuột trên vai mình. Edel đứng bằng hai chân sau và khoanh hai chân trước lại. Đối với một con chuột, nó quả là khéo léo đến kinh ngạc.
+"Khoan đã nào. Tôi chưa từng tạo ra Thi Quỷ, nhưng quyến thuộc thì có đấy. Đây này," tôi nói rồi chỉ vào chú chuột trên vai mình. Edel liền đứng thẳng bằng hai chân sau, hai chân trước khoanh lại trước ngực. So với loài chuột thì nó khéo léo đến kinh ngạc.
 
-"Tôi cứ tưởng đó chỉ là thú cưng thôi chứ," Wolf lẩm bẩm trong khi trố mắt nhìn Edel. Tôi chẳng thể tưởng tượng nổi đây lại là lựa chọn thú cưng hàng đầu của nhiều người, nhưng tôi đoán ông ấy nghĩ tôi là kẻ lập dị. Có lẽ ai ai cũng nghĩ vậy, và đó là lý do suốt ngần ấy thời gian chẳng có ai thèm bàn tán gì về con vật đang ngự trên vai tôi.
+"Tôi cứ tưởng đó chỉ là thú cưng thôi chứ," Wolf lẩm bẩm, trố mắt nhìn Edel. Tôi chẳng nghĩ loài này lại là lựa chọn hàng đầu của ai đó khi muốn nuôi thú cưng, nhưng chắc ông ấy thấy tôi lập dị. Có lẽ ai cũng nghĩ thế, thành ra suốt từ nãy đến giờ chẳng ai buồn thắc mắc về con vật đang ngự trên vai tôi.
 
-"Nếu nó thực sự chỉ là thú cưng thì việc tôi để nó ngồi trên vai đi khắp một thị trấn đang bị vây khốn nghe chừng có phần điên rồ đấy, ông biết mà."
+"Nếu thật sự chỉ là thú cưng thì để nó đậu trên vai đi khắp một thị trấn đang loạn lạc thế này chẳng phải điên rồ lắm sao, ông cũng thấy đấy."
 
-"Chà, tôi lại cứ nghĩ cậu là kiểu người sẽ làm chuyện như thế. Tiếng tăm của cậu vốn gắn liền với những hành động bất thình lình chẳng hiểu nổi. Xưa nay cậu vẫn luôn như vậy mà. Nhưng giờ nghĩ lại thì tất cả những việc đó đều có lý do cả. Thôi, chuyện quá khứ nói thế đủ rồi. Vậy đó là một quyến thuộc à. Thì sao nào?"
+"Chà, tôi lại cứ ngỡ cậu là kiểu người sẽ làm ba cái trò đó chứ. Cậu vốn nổi tiếng là hay đùng đùng làm mấy chuyện chẳng ai hiểu nổi còn gì. Xưa nay vẫn thế. Nhưng giờ nghĩ lại thì việc nào cậu làm cũng đều có lý do cả. Thôi, chuyện cũ không bàn nữa. Thế con chuột đó là một quyến thuộc à? Rồi sao nữa?"
 
-"Thi Quỷ được tạo ra từ con người, nên có lẽ không hoàn toàn giống nhau, nhưng cách tôi tạo ra quyến thuộc của mình về cơ bản là tương tự. Có thể phạm vi điều khiển chúng cũng giống nhau."
+"Thi Quỷ bị biến đổi từ con người nên có thể hơi khác một chút, nhưng cách tôi tạo ra quyến thuộc của mình về cơ bản cũng tương tự như vậy. Biết đâu phạm vi điều khiển chúng cũng tương đương."
 
-"Tôi hiểu rồi, vậy cự ly phải gần tới mức nào? Này, cậu có thực sự đang điều khiển thứ này không đấy?" Edel bắt đầu nhảy nhót loạn xạ trên vai tôi. Wolf nhìn nó với vẻ đầy ngờ vực. Tôi chẳng rõ có phải Edel chỉ đơn thuần thấy chán hay gì không, nhưng mặc kệ đi.
+"Ra vậy, thế cự ly phải gần tới mức nào? Này, cậu có thực sự điều khiển được cái con này không đấy?" Edel bắt đầu nhảy nhót loạn xạ trên vai tôi. Wolf nhìn nó với vẻ đầy ngờ vực. Tôi chẳng rõ có phải Edel thấy chán hay không, nhưng thôi kệ nó.
 
-"Thì bình thường tôi cứ để nó muốn làm gì thì làm. Nhưng nếu tôi ra lệnh, nó sẽ tuân theo. Vậy nên, xét về cự ly tối đa, chí ít tôi biết rằng chúng tôi có thể liên lạc với nhau từ bất cứ đâu trong Maalt. Và ngay cả khi ở bên ngoài Maalt, tôi vẫn có thể truyền cho nó một vài chỉ thị đơn giản."
+"Thì bình thường tôi cứ để nó muốn làm gì thì làm. Nhưng hễ tôi ra lệnh là nó sẽ nghe theo. Còn về cự ly tối đa, chí ít tôi biết chắc hai bên có thể liên lạc với nhau từ bất cứ đâu trong thị trấn Maalt. Thậm chí đứng từ ngoài thành, tôi vẫn truyền được cho nó vài chỉ thị đơn giản."
 
-"Chà, xa đến thế cơ à? Cụ thể là xa chừng nào?"
+"Chà, xa dữ vậy? Cụ thể là xa chừng nào?"
 
-"Tôi cũng không rõ. Tôi nghĩ có thể vươn tới tận khoảng Mê Cung Tân Nguyệt."
+"Tôi cũng không chắc lắm, nhưng đoán là vươn tới được khoảng Mê Cung Tân Nguyệt."
 
-Thực ra tôi chưa từng thử điều đó trước đây, nhưng cảm giác như sẽ làm được. Tôi sẽ không thể truyền đạt những chỉ thị chi tiết, và có lẽ phải mất chút thời gian thì thông điệp mới tới được chỗ nó, nhưng các mệnh lệnh chung thì vẫn có tác dụng ở khoảng cách đó. Ngoài ra, còn có những gì tôi từng chứng kiến ở Mê Cung Tân Nguyệt nữa. Tôi quyết định đây là thời điểm thích hợp để nêu chuyện đó ra.
+Thực ra tôi chưa từng thử chuyện đó trước đây, nhưng có cảm giác là sẽ làm được. Tôi sẽ không thể truyền đạt những chỉ thị tỉ mỉ, và có lẽ phải mất chút thời gian thông điệp mới tới nơi, nhưng mệnh lệnh chung chung thì ở khoảng cách đó vẫn có tác dụng. Vả lại, còn có chuyện tôi từng chứng kiến ở Mê Cung Tân Nguyệt nữa. Tôi quyết định nhân lúc này nhắc luôn.
 
-"Nhân tiện thì nó có thể chia sẻ giác quan với tôi ở một mức độ nhất định, và nó cũng có những thuộc hạ cùng loài có thể chia sẻ tầm nhìn với nó. Nhờ những năng lực đó, tôi đã biết được một điều khá kỳ lạ."
+"Tiện đây nói luôn, nó có thể chia sẻ giác quan với tôi ở chừng mực nhất định, bản thân nó lại có đàn em cùng loài chia sẻ tầm nhìn cho. Nhờ mấy khả năng đó mà tôi biết được một chuyện khá kỳ lạ."
 
-"Khoan đã nào, lùi lại một chút xem nào. Chia sẻ tầm nhìn á? Được rồi, kích thước và màu sắc của con quyến thuộc của cậu quả là khá khác thường, nhưng chẳng phải nó là một con Puchi Suri sao? Thế nghĩa là nó có thể nhìn thấy những gì mà các con Puchi Suri khác nhìn thấy ư? Hầu như bất kỳ người lớn nào cầm dao cũng có thể giết chết một con Puchi Suri nếu muốn, nên chẳng ai thèm bận tâm đến chúng và cứ mặc kệ cho chúng chạy rông khắp nơi. Nếu cậu có thể cảm nhận được những gì mà mọi con Puchi Suri xung quanh đang cảm nhận, thì điều đó đồng nghĩa với việc..." Wolf lẩm bẩm trong miệng, xâu chuỗi các manh mối lại với nhau. "Có vẻ như tôi đã đúng khi đưa cậu vào hội của mình. Cậu nắm rõ mọi thứ đang diễn ra trong thị trấn này, đúng không?"
+"Khoan khoan, từ từ đã nào. Chia sẻ tầm nhìn á? Được rồi, kích thước và màu sắc của con quyến thuộc của cậu trông hơi dị thật, nhưng chẳng phải nó là một con Puchi Suri sao? Thế nghĩa là nó có thể nhìn thấy những gì mà các con Puchi Suri khác nhìn thấy ư? Một con Puchi Suri thì người lớn cầm con dao quèn cũng xơi tái được, nên chẳng ai thèm bận tâm mà cứ mặc kệ cho chúng chạy rông khắp nơi. Nếu cậu có thể cảm nhận được những gì mà mọi con Puchi Suri xung quanh đang cảm nhận, thì điều đó đồng nghĩa với việc..." Wolf lẩm bẩm trong miệng, bắt đầu xâu chuỗi mọi thứ lại. "Hóa ra tôi nhận cậu vào Hội là quá chuẩn. Cậu nắm tỏng mọi chuyện xảy ra trong cái thị trấn này rồi đúng không?"
 
-"Tôi không dám nhận đến mức đó đâu, nhưng chúng có thể lẻn vào đủ mọi ngóc ngách để thu thập thông tin."
+"Cũng không đến mức đấy đâu, nhưng chúng lẻn được vào đủ mọi xó xỉnh để dò la tin tức."
 
-"Tốt nhất là đừng làm trò đó ở Hội Mạo Hiểm Giả đấy nhé. Mà thôi, chuyện đó lúc này không quan trọng. Dù sao thì cậu đã phát hiện ra điều gì?"
+"Liệu hồn đừng có làm trò đó ở trụ sở Hội đấy nhé. Mà thôi, giờ không phải lúc bàn chuyện ấy. Rốt cuộc cậu biết được gì rồi?"
 
-"Tôi từng thấy một con Ma Cà Rồng cắn người ở Mê Cung Tân Nguyệt. Chuyện đó xảy ra cũng được một dạo rồi, nhưng tôi nghĩ nơi đó có thể là căn cứ của con Ma Cà Rồng."
+"Tôi từng thấy một con Ma Cà Rồng cắn người ở Mê Cung Tân Nguyệt. Chuyện đó xảy ra cũng được một dạo rồi, nhưng tôi ngờ nơi đó chính là sào huyệt của nó."
 
-"Tôi hiểu rồi. Các vụ mất tích phần lớn xảy ra trong các mê cung. Trong thị trấn cũng có nhưng không thường xuyên bằng. Cơ mà tôi không nghĩ là có thể điều khiển Thi Quỷ từ một khoảng cách xa đến vậy đấy. Tôi chưa mở đợt tìm kiếm ra tận ngoài đó, nhưng nghe chừng là nên làm vậy rồi."
+"Ra vậy. Các vụ mất tích phần lớn xảy ra dưới các mê cung. Trong thị trấn cũng có nhưng ít hơn. Cơ mà tôi không ngờ là có thể điều khiển Thi Quỷ từ khoảng cách xa đến thế. Trước giờ tôi chưa tính chuyện mở rộng tìm kiếm ra tận ngoài đó, nhưng xem ra phải làm ngay thôi."
 
-Trong lúc thị trấn chìm trong biển lửa và Thi Quỷ tấn công người dân, chẳng có ai rảnh tay để phái tới mê cung khi mà khả năng tìm thấy thứ gì đó ở nơi ấy là vô cùng mong manh. Bắt sống con Ma Cà Rồng là việc hệ trọng, nhưng không quan trọng bằng việc bảo vệ thị dân. Tuy nhiên, căn cứ vào những gì tôi vừa nói thì khả năng con Ma Cà Rồng đang ở đó là khá cao.
+Trong lúc thị trấn chìm trong biển lửa và Thi Quỷ tấn công người dân, chẳng có ai rảnh tay để phái tới mê cung khi mà khả năng tìm thấy thứ gì đó ở nơi ấy vô cùng mong manh. Bắt sống Ma Cà Rồng tuy hệ trọng, nhưng sao bằng việc bảo vệ mạng sống người dân. Dẫu vậy, qua lời tôi vừa nói, khả năng con quái vật ẩn náu ngoài đó là rất lớn.
 
-"Chà, hiện giờ vẫn chưa có nhiều mạo hiểm giả rảnh tay cho lắm," Wolf trầm ngâm suy nghĩ một lát rồi nói. "Bọn tôi đang dần kiểm soát được tình hình ở đây, nhưng mọi chuyện còn lâu mới kết thúc. Tôi sẽ phải chọn ra vài người để phái tới đó. Rentt, cậu đi chứ?"
+"Ngặt nỗi lúc này chẳng đào đâu ra nhiều mạo hiểm giả rảnh tay," Wolf ngẫm nghĩ một lát rồi nói. "Tình hình ở đây đang dần được kiểm soát, nhưng vẫn chưa xong đâu. Tôi phải lựa ra mấy người để phái tới đó. Rentt, cậu đi được không?"
 
-Tôi gật đầu. Kẻ địch là một con Ma Cà Rồng, và dù không biết cấp bậc của nó ra sao, nhưng theo một nghĩa nào đó thì tôi sẽ là người hiểu rõ về nó nhất.
+Tôi gật đầu. Đối thủ là một con Ma Cà Rồng, và dù chưa rõ cấp bậc của nó, nhưng xét theo nghĩa nào đó thì tôi chính là người hiểu rõ về nó nhất.
 
-"Và có lẽ nếu Lorraine cùng đi thì sẽ tốt hơn, đúng không?" Wolf gợi ý. Có Lorraine đi cùng sẽ giúp đảm bảo tôi không làm hỏng việc, chưa kể cô ấy còn là một trong số ít mạo hiểm giả Ngân Cấp của Maalt. "Còn ai nữa không nhỉ?"
+"Có Lorraine đi cùng chắc sẽ ổn hơn, nhỉ?" Wolf gợi ý. Có Lorraine vừa giúp giữ cho tôi không làm hỏng việc, vừa có thêm một trong số ít mạo hiểm giả Ngân Cấp của Maalt. "Còn ai nữa không đây?"
 
-"Ông cũng sẽ cho tôi đi cùng chứ?" ai đó cất tiếng hỏi, lẻn tới từ phía sau Wolf.
+"Cho tôi đi cùng với chứ?" Một giọng nói bất ngờ cất lên ngay sau lưng Wolf.
 
-"Oái!" Wolf giật mình kêu lên.
+"Oái!" Wolf giật thót mình kêu lên.
 
-Người đứng sau lưng ông, dĩ nhiên, chính là Nive Maris, Thợ Săn Ma Cà Rồng. Tôi chỉ ước gì cô ta biến đi cho khuất mắt.
+Kẻ đứng sau lưng ông không ai khác ngoài Thợ Săn Ma Cà Rồng Nive Maris. Tôi chỉ ước sao cô ta biến đi cho rảnh nợ.
 
-"Cô nghe được những gì rồi?" Wolf nhìn Nive với vẻ bối rối hỏi. Có lẽ ông lo cô đã nghe thấy điều gì đó về tôi. Nhưng tôi đã thấy Nive nhẹ nhàng lướt tới sau lưng Wolf như một con mèo từ lúc nào, và từ khi cô xuất hiện thì chúng tôi chưa thảo luận điều gì có vấn đề cả.
+"Cô nghe được những gì rồi?" Wolf bối rối hỏi Nive. Hẳn ông sợ cô đã nghe thấy điều gì đó liên quan đến tôi. Nhưng tôi đã thấy Nive êm như mèo lướt tới sau lưng Wolf từ lúc nào, và từ khi cô xuất hiện thì hai chúng tôi chưa hề đả động đến chuyện gì nhạy cảm cả.
 
-"Ồ, tôi mới chỉ nghe thấy ông bảo đang chọn người thôi. Trước đó thì chẳng nghe gì cả," Nive đáp. "Nghe chừng như các ông đã tìm ra sào huyệt của tên đầu sỏ hay gì đó rồi thì phải. Cơ mà làm sao các ông tìm ra nhanh hơn tôi được thì tôi chịu chết."
+"Ồ, tôi mới nghe thấy ông bảo đang chọn người thôi, trước đó thì không," Nive đáp. "Nghe như các ông đã tìm ra sào huyệt của tên đầu sỏ rồi thì phải. Cơ mà làm sao các ông mò ra nhanh hơn tôi được thì tôi chịu chết."
 
-Nghe thì có vẻ cô ấy chưa nghe thấy điều gì có thể gây rắc rối, nhưng tôi không thể chắc chắn liệu cô có đang nói dối hay không. Có thể cô đang giả ngây giả ngô, song tôi chẳng có cách nào đoán định được. Trông cô chắc chắn như thể đang cố làm ra vẻ dễ thương, hệt như một đứa trẻ vừa nhìn thấy món đồ chơi và không thể chờ đợi thêm để được chơi nó. Ý đồ của một đứa trẻ có thể hiện rõ mồn một trên mặt, nhưng tôi lại chẳng thể hình dung nổi trong đầu Nive đang toan tính điều gì.
+Nghe thì có vẻ cô ta chưa nghe thấy điều gì gây rắc rối, nhưng tôi không chắc liệu cô ta có nói dối hay không. Biết đâu cô ta đang giả ngây giả ngô, song tôi chẳng có cách nào đoán định được. Trông cô ta lúc này đúng kiểu đang làm ra vẻ dễ thương, hệt như một đứa trẻ vừa thấy món đồ chơi là sốt ruột muốn lao vào nghịch ngay. Ý đồ của một đứa trẻ có thể lộ rõ mồn một trên mặt, nhưng tôi lại chẳng thể mường tượng nổi trong đầu Nive đang toan tính điều gì.
 
-"Chà, hội nào cũng có cách của riêng mình. Cơ mà phần lớn là bọn tôi cứ tung mạo hiểm giả vào xử lý cho đến khi có kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì đã không làm lộ bí mật của tôi. Và trong trường hợp này thì đó cũng không hoàn toàn là lời nói dối, nếu chỉ việc thay thế mạo hiểm giả bằng lũ chuột.
+"Thì Hội nào cũng có cách riêng của mình. Cơ mà phần lớn là bọn tôi cứ tung mạo hiểm giả đi làm cho tới khi ra kết quả thôi," Wolf nói, thở phào nhẹ nhõm vì không làm lộ bí mật của tôi. Mà trong trường hợp này thì đó cũng chẳng hoàn toàn là nói dối, nếu ta thay mạo hiểm giả bằng lũ chuột.
 
-"Ra vậy, và các ông tình cờ tìm ra bằng cách đó đấy à?" Nive đáp lại.
+"Ra vậy, rồi các ông tình cờ tìm ra bằng cách đó sao?" Nive đáp lại.
 
-"Đến cả tôi cũng chẳng thể đọ lại sức mạnh của sự trùng hợp ngẫu nhiên. Dù sao thì, tôi đi cùng được chứ?"
+"Đến cả tôi cũng chẳng địch lại được sức mạnh của sự trùng hợp ngẫu nhiên. Thế tóm lại là tôi đi cùng được chứ?"
 
-Tôi đã thầm hy vọng cô ta quên mất chuyện chúng tôi định làm, nhưng hy vọng đó chỉ là vô ích. Chẳng có gì có thể đánh lạc hướng Nive khỏi nỗi ám ảnh đối với Ma Cà Rồng.
+Tôi từng thầm mong cô ta quên bẵng chuyện chúng tôi định làm, nhưng hy vọng đó tan thành mây khói. Chẳng có gì đánh lạc hướng được Nive khỏi nỗi ám ảnh với Ma Cà Rồng.
 
-"Được chứ," Wolf nói. "Cô là Kim Cấp, chưa kể lại còn là Thợ Săn Ma Cà Rồng nữa. Có cô đi cùng thì tốt quá rồi. Phải không, Rentt?"
+"Được chứ," Wolf nói. "Cô là Kim Cấp, lại còn là Thợ Săn Ma Cà Rồng nữa. Có cô đi cùng thì còn gì bằng. Phải không, Rentt?"
 
-Ông hỏi tôi không hẳn là để lấy sự đồng thuận, mà là để nói rằng chuyện này chẳng còn lựa chọn nào khác và tôi sẽ phải chấp nhận nó. Xét tới sức mạnh cùng năng lực của Nive, việc từ chối cô ta là điều hết sức vô lý. Chúng tôi phải cử đi những người giỏi nhất trong số những người giỏi nhất, và ở Maalt chẳng có ai phù hợp với tiêu chuẩn đó hơn cô. Những cảm xúc của tôi về việc cô ta không đáng tin và bốc đồng một cách nguy hiểm đành phải gạt sang một bên.
+Ông hỏi tôi chẳng qua là để thông báo rằng việc này không có lựa chọn nào khác và tôi phải chấp nhận nó, chứ không hẳn để xin ý kiến. Xét tới thực lực và năng lực của Nive, việc từ chối cô ta quả là ngớ ngẩn. Chúng tôi phải cử đi những người giỏi nhất, mà ở Maalt thì chẳng ai thích hợp hơn cô ta. Mấy mối lo về chuyện cô ta không đáng tin và bốc đồng đến mức nguy hiểm đành phải gạt sang một bên.
 
-"Phải rồi, có một chuyên gia đi cùng sẽ giúp ích rất nhiều," tôi trả lời, nhưng chỉ vì tôi buộc phải nói thế.
+"Vâng, có chuyên gia đi cùng thì đỡ quá rồi," tôi đáp, chỉ vì chẳng đặng đừng mà phải nói thế.
 
-"Tuyệt vời," Nive khúc khích cười. "Đừng lãng phí thời gian nữa. Nhân tiện thì chúng ta sẽ đi đâu thế? Phần đó tôi vẫn chưa được nghe."
+"Tuyệt quá," Nive khúc khích cười. "Đừng lãng phí thời gian nữa. Cơ mà tiện thể thì chúng ta đi đâu thế? Đoạn đó tôi chưa kịp nghe."
 
-"Ồ, Mê Cung Tân Nguyệt," Wolf giải thích. "Không thể bảo đảm chắc chắn con Ma Cà Rồng ở đó, nhưng khả năng cao là vậy."
+"À, Mê Cung Tân Nguyệt," Wolf giải thích. "Không chắc trăm phần trăm con Ma Cà Rồng ở đó, nhưng khả năng cao là vậy."
 
-"Thật sao? Ra vậy, điều đó chắc chắn có thể đúng đấy. Một con Ma Cà Rồng bình thường sẽ thấy khó mà điều khiển Thi Quỷ từ khoảng cách xa đến thế, nhưng một con Ma Cà Rồng hùng mạnh thì có thể làm được. Ngay cả Hạ Cấp Ma Cà Rồng đôi khi cũng có thể làm được nếu vài con hợp lực lại. Khoảng cách tối đa mà một kẻ có thể điều khiển đám Thi Quỷ ở Maalt sẽ rơi vào khoảng xung quanh Mê Cung Tân Nguyệt."
+"Thật sao? Ra vậy, điều đó đúng là có thể lắm. Một con Ma Cà Rồng bình thường sẽ khó mà điều khiển Thi Quỷ từ khoảng cách xa đến thế, nhưng một con cấp cao hùng mạnh thì làm được. Ngay cả Hạ Cấp Ma Cà Rồng đôi khi cũng làm được nếu nhiều con hợp lực lại. Khoảng cách tối đa để điều khiển đám Thi Quỷ ở Maalt quả thực rơi vào tầm Mê Cung Tân Nguyệt."
 
-"Vậy cô nghĩ bọn tôi đoán đúng à?" Wolf hỏi.
+"Vậy cô nghĩ bọn tôi đoán trúng rồi à?" Wolf hỏi.
 
-"Vâng, nhưng ban đầu tôi cứ nghĩ mình đang săn lùng một con Hạ Cấp Ma Cà Rồng hành động đơn độc. Tôi nghĩ có khả năng cao là chúng đang ẩn náu ngay trong chính Maalt. Nhưng xét về chất lượng và số lượng của đám Thi Quỷ, có lẽ tốt nhất là nên dẹp những dự đoán đó sang một bên. Dù vậy, nếu có nhiều con Ma Cà Rồng thì đáng lẽ tôi đã nghĩ con số thương vong phải nhiều hơn thế."
+"Đúng thế, ban đầu tôi cứ ngỡ mình đang săn một con Hạ Cấp Ma Cà Rồng hành động đơn độc, và khả năng cao là nó đang lẩn trốn ngay trong thị trấn Maalt. Nhưng xét về chất lượng và số lượng của đám Thi Quỷ thì tốt nhất nên dẹp phán đoán đó đi. Dẫu vậy, nếu có nhiều con Ma Cà Rồng cùng nhúng tay thì đáng lẽ số người chết và bị thương phải nhiều hơn thế chứ."
 
-"Cơ mà tôi thấy số lượng mạo hiểm giả và thường dân mất tích cũng khá lớn đấy chứ."
+"Cơ mà tôi thấy số lượng mạo hiểm giả với người dân mất tích cũng đâu có ít."
 
-"Nói một cách tương đối thì không nhiều đến thế đâu. Một con Hạ Cấp Ma Cà Rồng cần phải hút máu một vài người mỗi tháng. Chúng không nhất thiết phải giết ai nếu có những con người tự nguyện cung cấp máu cho chúng, nhưng chuyện đó đòi hỏi phải có một tổ chức quy củ thì mới vận hành được. Chí ít thì ở Maalt không hề có tổ chức nào như thế. Có thể chỉ là do tôi chưa điều tra đủ thấu đáo, nhưng tôi đoán là bọn chúng đang sử dụng huyết dược. Thật đáng kinh ngạc."
+"So ra thì chưa thấm vào đâu đâu. Một con Hạ Cấp Ma Cà Rồng mỗi tháng cần hút máu chừng vài người. Chúng không nhất thiết phải giết người nếu có kẻ tự nguyện cung cấp máu, nhưng muốn làm được vậy thì phải có một tổ chức quy củ. Ít nhất là ở Maalt không hề có tổ chức nào như thế. Cũng có thể do tôi chưa điều tra tường tận, nhưng tôi đoán là bọn chúng đang dùng huyết dược. Bất ngờ thật đấy."
 
-Wolf nghiêng đầu. "Huyết dược là thứ gì thế?"
+Wolf nghiêng đầu hỏi. "Huyết dược là thứ gì thế?"
 
-"Một loại thuốc đặc chế có thể ức chế ham muốn hút máu của Ma Cà Rồng. Nhưng nó không hề dễ sản xuất đâu. Một nhúm Ma Cà Rồng sẽ chẳng thể nào tự mình điều chế được nó, tôi dám chắc với các ông điều đó. Hừm, giờ thì tôi thực sự ngứa ngáy muốn bắt sống con Ma Cà Rồng này rồi đấy."
+"Một loại thuốc đặc biệt giúp ức chế cơn thèm máu của Ma Cà Rồng. Nhưng thứ đó không dễ chế tạo đâu. Tôi dám chắc một nhúm Ma Cà Rồng thì chẳng thể nào tự mình bào chế nổi. Hừm, giờ thì tôi ngứa ngáy muốn tóm sống con Ma Cà Rồng này lắm rồi đấy."
 
-"Tại sao chứ?" tôi hỏi.
+"Sao lại thế?" tôi hỏi.
 
-"Bởi vì bọn chúng ắt hẳn phải lấy huyết dược từ một nơi nào đó. Nếu chúng ta bắt sống và tra hỏi chúng, chuyện này sẽ dẫn tới cả một băng đảng Ma Cà Rồng khổng lồ. Đó sẽ là một đại hội săn Ma Cà Rồng! Còn điều gì phấn khích hơn thế nữa chứ?"
+"Vì bọn chúng ắt hẳn phải lấy huyết dược từ đâu đó chứ. Tóm sống được rồi tra hỏi, thế nào cũng lần ra cả một ổ Ma Cà Rồng khổng lồ cho xem. Lúc đó tha hồ mở hội săn Ma Cà Rồng! Còn chuyện gì phấn khích hơn thế nữa chứ?"
 
-Sự hào hứng chân thành của Nive thật đáng sợ. Tôi suýt nữa cảm thấy tội nghiệp cho những con Ma Cà Rồng mà cô đang săn đuổi. Wolf có lẽ cũng nghĩ như vậy nhưng giữ kín trong lòng.
+Sự hào hứng một cách thật lòng của Nive nghe mà rợn người. Tôi suýt nữa thấy tội nghiệp cho mấy con Ma Cà Rồng bị cô ta nhắm tới. Wolf có lẽ cũng nghĩ như vậy nhưng không nói ra.
 
-"Chà, mừng là cô nhiệt huyết với công việc của mình," ông nói. "Nếu cô có thể bắt sống tên đầu sỏ cho bọn tôi, Maalt sẽ trở lại thành thị trấn êm ấm nhỏ bé như trước kia. Trông cậy cả vào cô đấy."
+"Thôi thì mừng là cô nhiệt tình với công việc," ông nói. "Nếu cô tóm sống được tên đầu sỏ về đây, Maalt sẽ lại trở về làm thị trấn nhỏ yên bình như trước. Trông cậy cả vào cô đấy."
 
-"Đương nhiên rồi. Tôi bảo đảm với ông sẽ bắt sống con Ma Cà Rồng đó."
+"Đương nhiên rồi. Tôi bảo đảm với ông sẽ tóm sống con Ma Cà Rồng đó."
 
-Tôi nhìn nụ cười toe toét của Nive, thầm nhớ lại mình ghét việc phải cộng tác với cô ta đến nhường nào, nhưng giờ thì chẳng còn đường lui nữa rồi. May thay, sẽ có một người khác ở bên cạnh để mắt tới cô. Tôi nhìn ra sau lưng Wolf và thấy Myullias đang chạy thục mạng về phía chúng tôi.
+Tôi nhìn nụ cười nhăn nhở của Nive, lại nhớ ra mình ghét phải hợp tác với cô ta đến mức nào, nhưng giờ thì chẳng còn cách nào khác. May thay, vẫn còn người khác đi cùng để mắt tới cô ta. Tôi nhìn ra sau lưng Wolf thì thấy Myullias đang thở không ra hơi chạy lại.
 
-"Tôi đã phải nhắc cô bao nhiêu lần rồi hả, đừng có hơi một tí là lại tự tiện chạy mất hút như thế chứ!" cô vừa thở hổn hển vừa quát to. Hành động đó chẳng ra dáng một Thánh Nữ chút nào.
+"Tôi phải nhắc cô bao nhiêu lần nữa đây hả, đừng có hơi tí là tự tiện chạy mất hút như thế chứ!" Cô vừa thở dốc vừa quát lên. Tác phong đó chẳng ra dáng một Thánh Nữ chút nào.
