@@ -1,111 +1,111 @@
 # Chương 168: Tập 7 Chương 4 - Ma Cà Rồng Thuở Trước (2)
 
-"Chuyện này không làm thay đổi kế hoạch của cháu," tôi trả lời. "Mục tiêu của cháu vẫn là trở thành mạo hiểm giả Mithril Cấp."
+"Chuyện này cũng không làm thay đổi kế hoạch của cháu," tôi đáp. "Mục tiêu của cháu vẫn là trở thành mạo hiểm giả Mithril Cấp."
 
-Gharb đã lường trước được điều đó, nhưng bà vẫn không khỏi kinh ngạc. "Biến thành ma vật mà chẳng khiến cháu thay đổi chút nào nhỉ," bà nói. "Chà, ta còn mong đợi gì khác ở cháu được nữa chứ?"
+Bà Gharb đã đoán trước được điều đó, nhưng vẫn không khỏi thở dài ngao ngán. "Biến thành quái vật rồi mà chẳng chịu đổi tính chút nào nhỉ," bà bảo. "Mà thôi, ta còn trông mong gì khác ở cháu được nữa chứ?"
 
-"Dĩ nhiên, cháu vẫn sẽ tìm kiếm phương pháp để trở lại làm người. Nhưng những kế hoạch cho tương lai của cháu đâu có dễ thay đổi đến thế."
+"Dĩ nhiên, cháu vẫn sẽ tìm cách để trở lại làm người. Nhưng kế hoạch tương lai của cháu đâu dễ gì thay đổi như thế."
 
-Gharb gật đầu, vẻ mặt thoáng chút nhẹ nhõm. "Vậy là cháu định thử làm thế sao? Cứ giữ nguyên dạng Ma Cà Rồng có thể giúp mọi việc dễ dàng hơn cho cháu ở vài phương diện, nhưng những đồng nghiệp mạo hiểm giả có thể sẽ tìm cách tiêu diệt cháu. Cháu nghĩ vậy phải không?"
+Bà Gharb gật đầu, nét mặt thoáng chút nhẹ nhõm. "Vậy là cháu vẫn tính thử làm thế à? Cứ làm Ma Cà Rồng thì về mặt nào đó có khi lại nhàn hơn, nhưng đám mạo hiểm giả cùng nghề sẽ tìm cách trừ khử cháu mất. Cháu nghĩ thế chứ gì?"
 
-"Vâng ạ. Mà thực ra cũng đâu có mấy ai biết cháu là Ma Cà Rồng. Chỉ có những người ở đây, một mạo hiểm giả tập sự cháu tình cờ gặp trong mê cung, một người bạn mạo hiểm giả cháu quen biết từ trước đó, một nhân viên Hội, và Hội Trưởng ở Maalt. Cũng có vài người khác nhận ra cháu có chút khác lạ so với trước kia, nhưng cháu chưa từng nói gì với họ."
+"Đúng thế ạ. Mà thực ra cũng đâu mấy ai biết cháu là Ma Cà Rồng. Chỉ có mọi người ở đây, một tân binh mạo hiểm giả cháu tình cờ gặp trong mê cung, một người bạn mạo hiểm giả quen từ trước đó, một cô nhân viên Hội, với cả Hội Trưởng ở Maalt thôi. Mấy người khác dẫu có nhận ra cháu hơi khác trước kia thì cháu cũng chưa nói gì với họ."
 
-Clope và vợ anh ấy có lẽ cũng biết điều gì đó, nhưng tôi chưa từng giải thích tình hình cho họ. Có lẽ sẽ tốt hơn cho họ nếu tôi không nói. Nếu tôi nói, hẳn họ cũng sẽ phản ứng giống như những người khác mà tôi từng thú nhận từ trước đến nay, nhưng chẳng có lý do gì để họ phải gánh lấy bí mật đó. Clope chỉ cần biết vũ khí của mình giúp ích tốt cho tôi là đã mãn nguyện rồi. Biết đâu anh ấy lại thích thú khi có dữ liệu về việc vũ khí của mình vận hành ra sao trong tay ma vật, nhưng chuyện đó lúc này chưa đáng bận tâm.
+Chắc Clope với vợ anh ấy cũng lờ mờ đoán được đôi điều, nhưng tôi chưa bao giờ giải thích cặn kẽ tình hình cho họ. Không nói khéo lại tốt hơn cho hai người họ. Nếu tôi kể ra, hẳn họ cũng sẽ phản ứng giống như những người tôi từng thú nhận trước đây thôi, nhưng chẳng việc gì phải bắt họ gánh lấy bí mật ấy làm gì. Với Clope, chỉ cần biết vũ khí của mình giúp ích tốt cho tôi là anh ấy đã hài lòng rồi. Biết đâu có dữ liệu xem vũ khí của mình vận hành ra sao trong tay quái vật lại làm anh ấy thích thú, nhưng chuyện đó lúc này chưa đáng bận tâm.
 
-"Chưa tới mười người cơ à. Nhưng xét đến bản chất của bí mật này, thật khó nói chừng đó là nhiều hay ít."
+"Tính ra còn chưa tới mười người. Nhưng với tính chất của một bí mật như thế này thì thật khó nói ngần ấy là nhiều hay ít."
 
-"Có lẽ cháu không nên nói với bất kỳ ai, nhưng cháu biết mình vẫn có những lúc phạm sai lầm, và cháu muốn có được sự hỗ trợ từ một vài người."
+"Đáng lẽ cháu chẳng nên nói cho ai biết mới phải, nhưng cháu tự biết mình vẫn có lúc sơ suất, vả lại cháu cũng muốn có người hỗ trợ."
 
-Suy cho cùng, tôi đã cố gắng tự thân vận động suốt mười năm ròng mà chẳng gặt hái được gì. Đến một lúc nào đó, tôi bắt đầu muốn dựa dẫm vào người khác. Tôi vẫn thích thám hiểm mê cung một mình hơn, nhưng giờ đó chỉ là ngoại lệ. Tôi không còn nghĩ rằng mình có thể tự gánh vác mọi thứ một mình nữa.
+Nói cho cùng, suốt mười năm qua tôi đã cố tự xoay xở một mình rồi chuốc lấy thất bại đấy thôi. Chẳng biết từ lúc nào, tôi bắt đầu muốn dựa vào người khác. Tôi vẫn thích thám hiểm mê cung một mình hơn, nhưng giờ đó chỉ là ngoại lệ hiếm hoi. Tôi không còn ảo tưởng rằng một mình mình có thể gánh vác tất thảy nữa.
 
-"Lorraine là người đầu tiên cháu nói cho biết à?" Capitan hỏi.
+"Lorraine là người đầu tiên cháu kể đấy à?" Capitan hỏi.
 
-"Vâng ạ. Khi biến thành ma vật, cô ấy là người đầu tiên cháu cậy nhờ. Cô ấy hiểu rất rõ về ma vật, và nếu có ai đó mà cháu có thể tin tưởng rằng sẽ không đối xử khác đi với mình sau khi trở thành Undead, thì đó chính là cô ấy."
+"Vâng ạ. Lúc biến thành quái vật, cô ấy là người đầu tiên cháu tìm đến cậy nhờ. Lorraine rất am hiểu quái vật, vả lại nếu có ai không thay đổi thái độ với cháu sau khi trở thành Undead, thì chỉ có cô ấy thôi."
 
-"Và cô thực sự không làm thế sao?" Gharb hỏi, hướng câu hỏi về phía Lorraine.
+"Thế cô không đối xử khác thật đấy à?" bà Gharb hỏi, quay sang nhìn Lorraine.
 
-"Việc Rentt biến thành ma vật không phải là vấn đề đủ lớn để làm tổn hại đến mối quan hệ của chúng tôi," cô nói. "Hơn nữa, tôi vốn nghiên cứu về ma vật. Chuyện này cho tôi sự hỗ trợ từ một ma vật thực thụ, nên tôi càng chẳng có lý do gì để xua đuổi anh ấy. Nói đúng hơn thì, dù thế nào tôi cũng sẽ nằng nặc giữ anh ấy ở lại bên mình."
+"Chuyện Rentt biến thành quái vật đâu đủ để làm sứt mẻ mối quan hệ giữa chúng tôi," cô nói. "Hơn nữa, tôi vốn nghiên cứu quái vật. Có được sự hỗ trợ từ một quái vật bằng xương bằng thịt thì tôi lại càng chẳng có lý do gì để xua đuổi anh ấy. Trái lại, có khi tôi còn nằng nặc giữ anh ấy lại bên cạnh ấy chứ."
 
-"Ồ, thật vậy sao?" Gharb nói. Rồi bà thì thầm điều gì đó vào tai Lorraine. Tôi không thể nghe thấy bà nói gì, nhưng Lorraine khi thì gật đầu khi thì lắc đầu vài lần. Nét mặt cô biến chuyển qua đủ mọi cung bậc cảm xúc.
+"Ồ, thế cơ à?" bà Gharb bảo. Đoạn bà ghé tai Lorraine thì thầm điều gì đó. Tôi chẳng nghe được gì, chỉ thấy Lorraine hết gật đầu lại lắc đầu vài lần, nét mặt liên tục biến đổi qua đủ mọi cung bậc cảm xúc.
 
-"Hai người họ đang nói chuyện gì thế ạ?" tôi hỏi Capitan, người dường như cũng bị cho ra rìa giống như tôi.
+"Hai người họ đang to nhỏ chuyện gì thế chú nhỉ?" tôi quay sang hỏi Capitan, người trông cũng bị cho ra rìa y như mình.
 
-Chú lắc đầu. "Hễ Gharb bắt đầu làm thế thì tốt nhất là nên im lặng. Chõ mũi vào chuyện đó chẳng có kết cục tốt đẹp đâu." Trông chú có vẻ ủ rũ. Thấy tôi nghiêng đầu thắc mắc, chú giải thích. "Có lần nọ trong một bữa tiệc, Gharb và vợ chú cũng to nhỏ như thế này. Chú cố tìm hiểu xem họ nói chuyện gì, và, ừ thì, đó là cả một thảm họa."
+Chú ấy lắc đầu. "Hễ bà Gharb bắt đầu làm cái trò đó thì tốt nhất là im lặng cho lành. Chõ mũi vào mấy chuyện đấy chẳng có kết cục tốt đẹp đâu." Trông mặt chú ỉu xìu thấy rõ. Thấy tôi nghiêng đầu thắc mắc, chú giải thích thêm. "Hồi trước có lần trong bữa tiệc, bà Gharb với vợ chú cũng to nhỏ y hệt thế này. Chú ráng tìm hiểu xem hai người nói chuyện gì, và, ừ thì... đúng là cả một thảm họa."
 
-"Cháu có thể hỏi chuyện gì đã xảy ra không ạ?"
+"Cháu hỏi xem chuyện gì đã xảy ra có được không chú?"
 
-"Vợ chú tìm thấy một món đồ trong phòng chú. Đó là thứ một người phụ nữ đã tặng chú từ lâu lắm rồi, và chú vẫn trân quý nó. Cô ấy đang hỏi xin lời khuyên của Gharb xem nên xử lý nó thế nào."
+"Vợ chú lục thấy một món đồ trong phòng. Thứ đó là do một người phụ nữ tặng chú từ hồi xửa hồi xưa, mà chú vẫn nâng niu giữ lại. Vợ chú đang hỏi xin ý kiến bà Gharb xem nên xử lý nó thế nào."
 
-"Chà, nghe chừng chẳng hay ho chút nào rồi ạ."
+"Chà, nghe chừng chẳng lành chút nào rồi chú."
 
-Đó là thứ cuối cùng mà một người đàn ông muốn vợ mình tìm thấy. Lẽ ra chú ấy nên vứt nó đi sau khi kết hôn mới phải. Chú ấy có quyền giữ lại nếu muốn, nhưng phép lịch sự tối thiểu là ít nhất cũng phải giấu nó ở nơi không bao giờ bị phát hiện.
+Đấy là thứ mà người ta tối kỵ để vợ tìm thấy. Lẽ ra sau khi lấy vợ thì chú ấy phải vứt nó đi từ lâu rồi mới phải. Muốn giữ lại làm kỷ niệm thì tùy, nhưng phép lịch sự tối thiểu là ít ra cũng phải biết đường giấu ở nơi không đời nào bị phát hiện chứ.
 
-Tôi ném cho Capitan một ánh nhìn phán xét, và dường như chú ấy cũng nhận ra điều đó, bởi lẽ chú cuống cuồng lắc đầu. "Thực ra chú đâu có cố tình giữ nó vì trân quý gì đâu! Chú chỉ quên khuấy mất là mình còn giữ nó, vậy thôi. Cả hơn chục năm trời chú có đụng vào món đó đâu. Chỉ là trước mắt cô ấy thì trông như thể chú cất giữ cẩn thận lắm vậy! Rốt cuộc chú phải giải thích toàn bộ chuyện này với Gharb và vợ chú ngay giữa lúc đám cấp dưới đang ngồi nhậu cùng bàn. Thật kinh khủng. Cuối cùng thì mọi chuyện cũng êm xuôi và chú đã làm lành với vợ, nhưng chú không bao giờ muốn nếm trải lại chuyện đó thêm một lần nào nữa đâu. Thế sao, cháu muốn thử chõ mũi vào không? Chú bảo cho mà biết, tốt nhất là cháu nên ngoan ngoãn đứng ngoài thì hơn."
+Tôi ném cho Capitan một ánh nhìn đầy vẻ trách móc, và dường như chú ấy cũng chột dạ nhận ra, liền xua tay lắc đầu lia lịa. "Thực ra chú đâu có cố tình giữ nó vì nâng niu gì đâu! Chỉ là chú quên khuấy mất là mình còn giữ, thế thôi. Hơn chục năm trời chú có thèm đụng vào đâu. Khổ nỗi trong mắt bả thì trông như thể chú cất giữ cẩn thận lắm! Rốt cuộc chú phải trần tình đủ thứ với bà Gharb lẫn vợ mình ngay trước mặt đám cấp dưới đang ngồi nhậu chung bàn. Nhục nhã ê chề. Dù cuối cùng mọi chuyện cũng êm xuôi và chú làm lành được với vợ, nhưng chú cạch đến già, chẳng bao giờ muốn nếm lại lần thứ hai đâu. Thế nào, cháu vẫn muốn thử chõ mũi vào à? Chú khuyên thật lòng đấy, tốt nhất là cứ đứng ngoài mà nhìn thôi."
 
-Capitan trông nghiêm túc đến tột độ khi chú nắm chặt vai tôi và thuật lại tất cả những chuyện này. Bàn tay chú bóp mạnh đến phát đau. Tôi hoàn toàn hiểu ý chú; tôi không nên xen vào. Dù sao thì tôi cũng chẳng có điều gì cảm thấy cần phải giấu giếm Lorraine. Chúng tôi thậm chí còn chưa kết hôn hay gì cả, nên nếu tôi có giấu giếm thứ gì đi nữa, tôi cũng chẳng thấy lý do gì khiến mình phải cảm thấy tội lỗi.
+Capitan tỏ vẻ vô cùng nghiêm túc khi túm chặt vai tôi và thuật lại từng lời. Lực tay chú bóp mạnh đến phát đau. Tôi hoàn toàn thấm thía lời chú dặn: chớ dại mà xen vào. Mà thực ra tôi cũng chẳng có điều gì cần giấu giếm Lorraine cả. Cả hai đứa đã cưới xin gì đâu, nên giả sử tôi có giấu điều gì thì cũng chẳng có lý do gì khiến mình phải cắn rứt lương tâm.
 
-Nhưng dẫu vậy, tôi vẫn cảm nhận được nguy hiểm. Cứ như một loại bản năng hoang dã nào đó. Có điều gì đó mách bảo tôi rằng tốt nhất là không nên chuốc họa vào thân. Những linh cảm dạng này ngày càng trở nên sắc bén hơn kể từ khi tôi biến thành ma vật, vậy nên tôi quyết định nghe theo giác quan thứ sáu đó và đứng ngoài cuộc trò chuyện giữa Gharb và Lorraine. Một lúc sau, hai người họ cũng dứt lời.
+Dẫu vậy, tôi vẫn ngửi thấy mùi nguy hiểm. Cứ như một thứ bản năng hoang dã mách bảo tôi rằng tốt nhất đừng có dại mà chọc vào tổ kiến lửa. Loại trực giác này ngày càng trở nên nhạy bén hơn kể từ lúc tôi biến thành quái vật, nên tôi quyết định nghe theo giác quan thứ sáu mà đứng ngoài cuộc trò chuyện giữa bà Gharb và Lorraine. Mãi một lúc sau, hai người họ mới dứt lời.
 
-"Xin lỗi vì để hai người phải đợi lâu," Gharb nói.
+"Để hai người phải đợi lâu, xin lỗi nhé," bà Gharb bảo.
 
-"Không sao đâu ạ, nhưng hai người nói xong rồi chứ?" tôi hỏi, chủ động không gặng hỏi xem họ vừa bàn luận chuyện gì.
+"Dạ không sao, mà hai người nói chuyện xong xuôi rồi ạ?" tôi hỏi, khôn ngoan không tò mò xem họ vừa bàn bạc chuyện gì.
 
-"Ừ. Dù sao cũng chẳng phải chuyện gì quan trọng lắm. Giờ thì quay lại chuyện của cháu. Ước mơ của cháu không thay đổi và cháu mong muốn trở lại làm người; chuyện đó chúng ta đã thống nhất rồi. Thế nên, ta có một đề xuất này. Nếu cháu và Lorraine ở lại huấn luyện tại làng một thời gian thì sao?"
-
-◆◇◆◇◆
-
-"Huấn luyện làm gì cơ ạ?" tôi hỏi. "Dù cháu đoán là mình cũng chẳng ngại rèn luyện thêm."
-
-Mạo hiểm giả, cũng như bất kỳ ai kiếm sống bằng đao kiếm, đều phải dành cả đời để rèn luyện. Sẽ chẳng có thời điểm nào mà người ta thỏa mãn với sức mạnh của mình rồi ngừng hẳn việc tập luyện. Đặc biệt là trong trường hợp của tôi, khi tôi đã có một mục tiêu cụ thể trong đầu. Nếu tôi nghĩ rằng mình đã đủ giỏi rồi, tôi sẽ chẳng bao giờ đạt được mục tiêu ấy. Đôi khi tôi cảm thấy mình đã làm đủ cho một ngày và quyết định nghỉ ngơi, nhưng cũng chỉ dừng lại ở mức đó mà thôi.
-
-"Ta biết là ta không cần phải bảo cháu rèn luyện những bài tập thông thường," Gharb nói, "nhưng ta đang nghĩ chúng ta có thể truyền dạy những kỹ năng đặc biệt đi kèm với vai trò của chúng ta tại Hathara. Đáng lý chúng ta không được phép, nhưng chúng ta cũng đã cho hai đứa thấy các ma pháp trận dịch chuyển rồi. Đã trót phá vỡ một quy tắc thì phá vỡ hết cho xong. Ông không phiền chứ, Capitan?"
-
-"Không, tôi cũng đang nghĩ như vậy. Vốn dĩ những kỹ năng này sinh ra là để bảo vệ các ma pháp trận dịch chuyển mà. Hai đứa cháu chính là những người hoàn hảo nhất để truyền dạy."
-
-"Thực sự là vậy sao chú?" tôi hỏi Capitan.
-
-"Ít nhất thì người xưa truyền lại cho bọn chú như thế. Dẫu vậy, chúng xuất phát từ thời điểm xa xưa hơn bất kỳ ai có thể nhớ được. Có thể vào một thời điểm nào đó chúng từng phục vụ cho một mục đích khác, nhưng giờ đây đó là tất cả những gì bọn chú biết. Thời gian trôi qua đã quá lâu rồi."
-
-Lorraine có vẻ thất vọng khi nghe thấy điều đó. "Nếu chúng ta tìm hiểu sâu hơn, có lẽ chúng ta cũng có thể biết thêm điều gì đó về cổ thành kia, nhưng chuyện đó e là khó khăn."
-
-Gharb đáp, "Chà, chẳng còn mấy câu chuyện lưu truyền từ thuở ấy, nhưng những ai nắm giữ vai trò đặc biệt tại Hathara như chúng ta đều có một vài tài liệu cổ. Đặc biệt là có rất nhiều thứ được truyền từ đời pháp sư này sang đời pháp sư khác, nên cô hoàn toàn có thể biết thêm điều gì đó bằng cách đọc chúng. Tuy nhiên, nó được viết bằng cổ ngữ và vài trang đã bị thất lạc, nên việc giải mã có thể mất chút thời gian đấy."
-
-"Thực ra tôi lại rất thích dành thời gian cho những chuyện như vậy. Nếu lát nữa bà có thể cho tôi xem, tôi sẽ rất biết ơn."
+"Ừ. Dù sao cũng chẳng phải chuyện gì to tát. Giờ quay lại chuyện của cháu nhé. Ước mơ không đổi và vẫn muốn trở lại làm người, chuyện đó coi như rõ rồi. Thế nên ta có một đề xuất thế này. Cháu với Lorraine ở lại làng rèn luyện một thời gian xem sao?"
 
 ◆◇◆◇◆
 
-"Nào, chúng ta bắt đầu chứ nhỉ?" Capitan nói.
+"Rèn luyện môn gì cơ ạ?" tôi hỏi. "Mà cháu thấy mình cũng nên luyện thêm thật."
 
-Chúng tôi vẫn đang ở giữa rừng, nhưng không phải tại địa điểm chúng tôi đã so tài. Chúng tôi đã quay trở lại làng trong chốc lát, rồi sau đó lại tiến vào rừng, nên chúng tôi đang ở cự ly tương đối gần làng. Còn về lý do tại sao chúng tôi phải quay về làng, ấy là vì con dao săn của Capitan.
+Mạo hiểm giả, cũng như bất kỳ ai kiếm sống bằng đao kiếm, đều phải dành cả đời để khổ luyện. Chẳng bao giờ có chuyện người ta tự mãn với sức mạnh của mình rồi bỏ bẵng việc tập luyện. Nhất là với trường hợp của tôi, một kẻ ôm ấp mục tiêu rõ ràng. Nếu sớm thỏa mãn rằng mình đã đủ giỏi, tôi sẽ không bao giờ chạm tới đích đến. Họa hoằn lắm tôi mới tự cho phép mình dừng lại nghỉ ngơi khi thấy trong ngày đã luyện tập đủ, nhưng cũng chỉ đến thế mà thôi.
 
-Cụ thể là vì tôi đã phá hủy nó tan tành. Nhưng bản thân chú ấy dường như chẳng mấy bận tâm về điều đó. Cứ ngỡ chú sẽ trân quý thứ vũ khí ấy khi đã sử dụng nó suốt bao nhiêu năm trời, nhưng hóa ra không phải. Chú dùng nó cho đủ mọi việc từ chiến đấu đến cắt cỏ; thậm chí chú còn dùng nó để mổ xẻ ma vật. Capitan đã sử dụng nó nhiều đến mức dẫu sao thì nó cũng chỉ trụ được thêm vài năm nữa mà thôi.
+"Ta biết cháu chẳng cần ai nhắc cũng tự rèn luyện những bài tập thông thường," bà Gharb bảo, "nhưng ta đang tính truyền lại cho hai đứa những kỹ năng đặc biệt đi kèm với trọng trách của bọn ta ở Hathara. Vốn dĩ luật làng không cho phép, cơ mà đằng nào cũng đã dẫn hai đứa tới xem ma pháp trận dịch chuyển rồi. Đã trót phá một lệ thì phá hết cho xong. Ông không thấy phiền chứ, Capitan?"
 
-Có lẽ sau đó nó vẫn dùng tốt trước những loài thú thông thường, nhưng ma vật thì không. Chúng cấu tạo từ những chất liệu cứng cáp hơn và được bao bọc bởi Ma Lực, nên người ta không thể dùng mãi một thứ vũ khí để đối phó với chúng được lâu. Trang bị của mạo hiểm giả vốn được chế tạo để chiến đấu với ma vật ngay từ đầu, nên chúng sử dụng rất nhiều quặng đặc biệt và thường có độ bền khá cao. Thế nhưng con dao săn của Capitan lại do một thợ rèn người Hathara đúc từ sắt thông thường; nó chỉ là một món vũ khí bình thường.
+"Không, tôi cũng nghĩ y hệt bà. Suy cho cùng thì mấy kỹ năng này vốn sinh ra là để bảo vệ ma pháp trận dịch chuyển mà. Dạy lại cho hai đứa nó là chuẩn nhất rồi còn gì."
 
-Chú ấy có thể dùng ma pháp trận dịch chuyển để đến một thành phố và mua một con dao săn chắc chắn hơn dành cho mạo hiểm giả, nhưng rất có thể là chú vốn đã có một con rồi. Dẫu vậy, điều đó hẳn sẽ khiến chú trông đáng ngờ hơn trước mắt dân làng nếu chú sử dụng nó quá thường xuyên tại Hathara. Có thể chú dùng nó khi vào rừng một mình, nhưng mỗi khi làm việc cùng một nhóm thợ săn, chú đều sử dụng con dao săn này. Tuy nhiên, Capitan sở hữu sức mạnh của Khí Lực, nên vũ khí của chú dẫu sao cũng bền bỉ được khá lâu. Nếu không nhờ vào điều đó, một con dao săn bằng sắt có lẽ còn chẳng trụ nổi một năm.
+"Thật thế hả chú?" tôi quay sang hỏi Capitan.
 
-Nhưng quay trở lại với những lời Capitan vừa nói, hai chúng tôi bắt đầu bước vào quá trình huấn luyện. Lorraine và Gharb không có mặt ở đây vì hai người họ có khóa huấn luyện của riêng mình. Gharb đang truyền dạy ma thuật cho Lorraine, và với một kẻ mới nhập môn như tôi, thứ ma thuật ấy rất có thể quá cao siêu để tôi có thể lĩnh hội. Chúng tôi quyết định rằng tách nhau ra sẽ tốt hơn. Tôi có lẽ cũng chẳng học hỏi được gì từ việc đứng nhìn, và nếu sau này có cần học những ma pháp đó, Lorraine có thể dạy lại cho tôi sau.
+"Ít nhất thì người xưa truyền miệng lại cho bọn chú như thế. Cơ mà chúng có từ thuở xa xưa đến mức chẳng còn ai nhớ nổi nữa rồi. Biết đâu ngày trước chúng từng phục vụ cho mục đích khác, nhưng đến giờ bọn chú chỉ biết có vậy thôi. Thời gian trôi qua lâu quá rồi mà."
 
-Dù sao đi nữa, tôi muốn học cách sử dụng Khí Lực như cách Capitan đã làm. Cụ thể là tôi muốn có được kỹ năng phòng ngự mà chú ấy đã thi triển. Tôi hoàn toàn mù tịt không biết đó là thứ gì, nhưng tôi rất háo hức chờ xem.
+Lorraine tỏ vẻ tiếc nuối khi nghe vậy. "Nếu đào sâu tìm hiểu, có khi chúng ta sẽ biết thêm đôi điều về Thành Phố Cổ Đại kia, nhưng nghe chừng khó rồi."
 
-"Vậy là chú sẽ dạy cháu những kỹ năng chú đã dùng trong trận đấu của chúng ta, đúng không ạ?" tôi hỏi.
+Bà Gharb đáp, "Chà, chuyện kể từ thời đó thì chẳng còn lại bao nhiêu, nhưng những người gánh vác trọng trách ở Hathara như bọn ta vẫn giữ được mấy tài liệu cổ. Nhất là bên ngạch ma pháp sư được truyền thừa lại khá nhiều, cô đọc qua chắc cũng vỡ ra được đôi điều. Có điều sách viết bằng cổ ngữ lại còn thất lạc vài trang, giải mã e là mất kha khá thời gian đấy."
 
-"Đúng vậy. Thứ đó cùng mọi kỹ thuật vận dụng Khí Lực khác của chú. Hồi xưa chú đã dạy cháu những điều căn bản, nhưng chính xác thì giờ đây cháu có thể làm được những gì rồi?"
+"Thực ra tôi lại rất thích bỏ thời gian cho mấy việc như thế. Lát nữa nếu được bà cho tôi xem qua, tôi sẽ cảm kích lắm."
 
-Trước tiên, chú ấy cần xem năng lực của tôi đến đâu. Chúng tôi quả thực đã so tài với nhau, nhưng đâu phải tôi đã phô diễn toàn bộ kỹ năng của mình. Tôi nhận được nhiều sức mạnh hơn rất nhiều khi biến thành ma vật, và tốt nhất là nên bắt đầu bằng việc thể hiện chi tiết những năng lực hiện tại cho chú xem.
+◆◇◆◇◆
 
-"Khi cơ thể cháu biến đổi, cháu có thêm một vài năng lực mới sử dụng Ma Lực và Thần Lực, nhưng về phương diện Khí Lực thì chẳng có gì thay đổi mấy," tôi nói.
+"Nào, chúng ta bắt tay vào việc chứ nhỉ?" Capitan bảo.
 
-"Thế cháu làm được những gì?"
+Hai chú cháu vẫn đang ở giữa rừng, nhưng không phải chỗ vừa so tài lúc nãy. Cả nhóm có ghé về làng một lát rồi mới quay lại rừng, thành thử vị trí hiện tại khá gần làng. Còn lý do phải tạt về làng là vì con dao săn của Capitan.
 
-"Cải thiện năng lực thể chất cơ bản, gia tăng tốc độ hồi phục, cường hóa vũ khí, và đại khái chỉ có thế thôi ạ. À, cháu cũng có thể kết hợp nó với các dạng năng lượng khác để làm được điều đặc biệt."
+Nói thẳng ra là do tôi đã đánh nát con dao của chú. Cơ mà bản thân Capitan dường như chẳng bận lòng mấy. Tôi cứ đinh ninh chú sẽ nâng niu món vũ khí đã gắn bó bao nhiêu năm trời, ai ngờ không phải thế. Chú dùng nó vào đủ thứ việc, từ chiến đấu đến cắt cỏ, thậm chí kiêm luôn cả mổ xẻ quái vật. Capitan xài nó tơi bời đến mức đằng nào con dao cũng chỉ trụ được thêm dăm ba năm nữa là cùng.
 
-Capitan nhanh chóng nhớ ra. "À phải, cái đó. Đó là cách cháu phá tan tành con dao săn của chú."
+Có lẽ sau đó nó vẫn dùng tốt trước loài thú thông thường, nhưng với quái vật thì chịu. Thịt da chúng cứng cáp hơn nhiều lại còn được Ma Lực bao bọc, nên chẳng ai có thể dùng mãi một món vũ khí để chém giết chúng được lâu. Đồ đạc của mạo hiểm giả vốn sinh ra để đánh quái vật ngay từ đầu, nên người ta rèn bằng nhiều loại quặng đặc biệt và dùng được rất lâu. Còn dao săn của Capitan thì do thợ rèn người Hathara rèn từ sắt thường, bản chất chỉ là thứ vũ khí thông dụng.
 
-Tôi gật đầu và quyết định biểu diễn thử. Nhưng lúc này, tôi chỉ dùng Ma Khí Dung Hợp Thuật và gạt bỏ Thần Lực ra ngoài. Thần Ma Khí Dung Hợp Thuật tiêu hao lượng sức lực khủng khiếp đến điên rồ.
+Chú ấy hoàn toàn có thể dùng ma pháp trận dịch chuyển tới thành phố mua một con dao săn chắc chắn chuyên dụng cho mạo hiểm giả, mà có khi chú đã thủ sẵn một con rồi cũng nên. Khổ nỗi nếu cứ xài món đồ đó quá thường xuyên ở Hathara thì dễ làm dân làng sinh nghi. Có lẽ lúc một mình vào rừng chú mới dùng tới, còn khi đi săn cùng nhóm thợ săn thì chú vẫn dùng con dao săn này. Song nhờ có Khí Lực che chở nên vũ khí của Capitan mới dùng được lâu đến thế. Chứ không thì một con dao bằng sắt thường khéo còn chẳng thọ nổi một năm.
 
-Tôi rót đầy Khí Lực và Ma Lực vào thanh kiếm rồi chém vào một cái cây gần đó. Một mảng thân cây phía đối diện nơi lưỡi kiếm của tôi chạm vào đột ngột phát nổ. Không còn chịu nổi trọng lượng của chính mình, cái cây đổ rạp xuống. Giờ đây tôi đã biết cách chém vào thứ gì đó mà không khiến nó phát nổ, nhưng việc kiểm soát vẫn rất khó khăn. Hơn nữa, màn phô diễn bắt mắt này giúp chú ấy dễ dàng thấy được những gì tôi có thể làm hơn, nên tôi nghĩ như thế cũng chẳng sao.
+Cơ mà gác chuyện đó lại, hai chú cháu tôi bắt đầu bước vào buổi luyện tập. Lorraine với bà Gharb không có mặt ở đây vì hai người họ cũng có việc riêng cần luyện. Bà Gharb đang truyền dạy ma thuật cho Lorraine, mà với một kẻ mới nhập môn như tôi thì mớ ma pháp ấy có lẽ quá cao siêu để tiếp thu. Thế nên cả nhóm thống nhất tách đôi ra là tốt nhất. Đứng ngó khéo tôi cũng chẳng học hỏi được gì, vả lại sau này nếu cần học những ma pháp đó thì Lorraine chỉ lại cho tôi cũng được.
 
-Capitan tròn mắt kinh ngạc trước những gì vừa chứng kiến. "Chà, trông có vẻ giống như việc sử dụng Khí Lực, nhưng uy lực hơn nhiều," chú nói. "Đây là Ma Khí Dung Hợp Thuật sao? Trông chẳng giống thứ cháu dùng lúc phá hủy con dao săn của chú."
+Dù sao thì tôi cũng rất muốn học cách dùng Khí Lực điêu luyện như Capitan. Nhất là kỹ năng phòng ngự mà chú ấy đã thi triển lúc so tài. Tuy chẳng biết đích xác đó là chiêu gì, nhưng tôi háo hức muốn tìm hiểu lắm.
 
-"Kỹ thuật đó phá hủy luôn cả vũ khí của cháu nữa, nên hơi khó để biểu diễn ạ. Nó bao gồm việc dung hợp cả Thần Lực, Ma Lực và Khí Lực, nên cháu chỉ gọi nó là Thần Ma Khí Dung Hợp Thuật."
+"Vậy là chú sẽ dạy cháu mấy kỹ năng chú dùng lúc so tài vừa rồi đúng không ạ?" tôi hỏi.
+
+"Ừ. Chiêu đó với tất cả các kỹ thuật dùng Khí Lực khác của chú nữa. Ngày xưa chú có dạy cháu căn bản rồi, cơ mà chính xác thì giờ cháu làm được những gì rồi?"
+
+Trước hết chú ấy cần kiểm tra xem tay nghề của tôi tới đâu đã. Lúc nãy hai chú cháu quả thực có so tài, nhưng đâu phải tôi đã tung hết ngón nghề ra. Từ ngày biến thành quái vật, tôi có thêm không ít năng lực mới, nên tốt nhất là cứ bắt đầu bằng việc biểu diễn tường tận khả năng hiện giờ cho chú xem.
+
+"Lúc cơ thể biến đổi, cháu có thêm vài năng lực mới dùng Ma Lực với Thần Lực, chứ riêng mảng Khí Lực thì cũng chẳng thay đổi là bao ạ," tôi bảo.
+
+"Thế cụ thể là cháu làm được những gì?"
+
+"Tăng cường thể lực cơ bản, đẩy nhanh tốc độ hồi phục, cường hóa vũ khí, đại khái cũng chỉ có thế thôi ạ. À, cháu còn có thể kết hợp Khí Lực với các dạng năng lượng khác để tạo ra vài trò đặc biệt nữa."
+
+Capitan sực nhớ ra ngay. "À phải, cái đó. Cháu dùng ngón đấy phá nát bươm con dao săn của chú chứ đâu."
+
+Tôi gật đầu rồi quyết định làm mẫu cho chú xem. Nhưng lần này tôi chỉ dùng Ma Khí Dung Hợp Thuật chứ không kết hợp Thần Lực. Thần Ma Khí Dung Hợp Thuật ngốn hao sức lực khủng khiếp lắm.
+
+Tôi dồn Khí Lực và Ma Lực vào thân kiếm rồi vung một nhát chém vào cái cây gần đó. Phần thân cây ở phía đối diện chỗ lưỡi kiếm chạm vào bỗng chốc nổ tung toé. Thân cây không gánh nổi trọng lượng của chính nó nữa liền đổ ầm xuống đất. Đến giờ tôi cũng đã biết cách chém trúng mục tiêu mà không làm nó phát nổ, nhưng kiểm soát lực vẫn còn chật vật lắm. Vả lại, phô diễn một màn khoa trương thế này chú ấy sẽ dễ hình dung hơn, nên tôi thấy vậy cũng chẳng sao.
+
+Capitan há hốc mồm kinh ngạc trước cảnh tượng trước mắt. "Chà, thoạt nhìn cũng giống như dùng Khí Lực, nhưng uy lực mạnh hơn nhiều," chú bảo. "Đây là Ma Khí Dung Hợp Thuật đấy à? Trông đâu có giống thứ cháu tung ra lúc phá nát con dao săn của chú."
+
+"Chiêu đó phá nát luôn cả vũ khí của cháu nên khó làm mẫu lắm ạ. Nó là sự dung hợp của cả ba nguồn Thần Lực, Ma Lực và Khí Lực, nên cháu cứ gọi đại là Thần Ma Khí Dung Hợp Thuật."
