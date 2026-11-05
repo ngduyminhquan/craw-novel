@@ -1,143 +1,143 @@
 # Chương 131: Tập 5 Chương 4 - Chuyến Hành Trình (2)
 
-Lorraine và tôi chăm chú quan sát những cái xác thối rữa biết đi. Chúng khoác trên mình những bộ quần áo rách rưới, tay cầm giáo tre và cuốc cào. Lũ quái vật này được gọi là Zombie, một phân loài khác thuộc chủng Undead. Chúng khác với tôi ở chỗ tôi là Ma Cà Rồng và cần năng lượng từ máu để tồn tại, trong khi Zombie lại không bị ràng buộc bởi giới hạn ấy. Bù lại, có lẽ vì thế mà Zombie thường dễ gãy vụn và yếu ớt.
+Tôi và Lorraine chăm chú quan sát những cái xác biết đi đang bốc mùi thối rữa. Chúng mặc quần áo rách bươm, tay lăm lăm giáo tre và cuốc cào. Lũ quái vật này là Zombie, một phân loài khác thuộc chủng Undead. Khác với một Ma Cà Rồng phải dựa vào năng lượng từ máu để tồn tại như tôi, Zombie chẳng bị giới hạn bởi chuyện ăn uống. Bù lại, có lẽ vì thế mà cơ thể chúng thường khá ọp ẹp và yếu ớt.
 
-Dẫu vậy, chúng vẫn là mối đe dọa lớn đối với những người bình thường. Giới học giả cho rằng về mặt cấu trúc, các sinh vật sống luôn tự kìm hãm để không bộc phát toàn bộ sức mạnh nhằm tránh gây áp lực quá lớn lên cơ thể, nhưng Zombie thì vốn đã chết rồi. Cơ thể chúng có thể cử động và vặn vẹo theo những cách không tưởng. Đầu chúng có thể xoay tít một vòng tròn, còn tay chân thì vung vẩy quái đản như thể không hề có khớp xương. Những đặc tính dị thường ấy đôi khi còn biến chúng thành nỗi phiền toái đáng ngạc nhiên đối với các mạo hiểm giả.
+Nói là vậy, nhưng đối với người bình thường chúng vẫn là mối đe dọa không nhỏ. Giới học giả cho rằng cấu tạo cơ thể của sinh vật sống luôn tự giới hạn để không phát huy hết toàn lực nhằm tránh tự gây tổn thương, nhưng Zombie thì vốn đã chết rồi. Chúng có thể cử động và vặn vẹo thân mình theo những góc độ không tưởng. Đầu xoay ngoắt được cả một vòng tròn, còn tay chân thì vung vẩy như thể chẳng hề có khớp xương. Chính những đặc điểm quái gở ấy đôi lúc lại biến chúng thành mối phiền toái bất ngờ đối với cả các mạo hiểm giả.
 
-Tuy nhiên, lý do lớn nhất khiến người ta phải tránh xa chúng chính là mùi hôi thối nồng nặc cùng thân xác bẩn thỉu. Chúng thường mang theo mầm bệnh trên người. Sẽ chẳng sao nếu chúng cứ lang thang vô định đằng xa, nhưng chúng tôi không thể để chúng bén mảng lại gần khu hạ trại. Cần phải tiêu diệt chúng ngay lập tức. Cả Lorraine và tôi đều nhanh chóng đi đến cùng một kết luận. Vấn đề còn lại chỉ là nên hạ gục chúng bằng cách nào.
+Có điều, lý do lớn nhất khiến ai nấy đều muốn tránh xa chúng là mùi xú uế nồng nặc và cơ thể nhớp nhúa bẩn thỉu, thường xuyên mang theo đủ thứ mầm bệnh. Nếu chúng chỉ lang thang vơ vẩn đằng xa thì mặc kệ cũng chẳng sao, nhưng chúng tôi tuyệt đối không thể để chúng bén mảng lại gần nơi hạ trại. Phải tiêu diệt chúng ngay lập tức. Cả Lorraine và tôi đều nhanh chóng đi đến cùng kết luận đó. Vấn đề còn lại chỉ là nên xử lý chúng bằng cách nào.
 
-"Liệu ma thuật có hiệu quả không?" tôi hỏi Lorraine.
+"Dùng ma thuật có ổn không?" tôi hỏi Lorraine.
 
-"Chắc là được đấy. Nếu anh ra tay thì người sẽ dính bẩn mất, nên việc này cứ để tôi lo," cô nói.
+"Chắc là được đấy. Anh mà xông vào đánh thì dính bẩn mất, nên để việc này cho tôi lo," cô bảo.
 
-Lorraine rút đũa phép ra rồi tiến về phía lũ Zombie. Cô khẽ vung vẩy đũa phép khi bước lại gần. Tôi còn đang tự hỏi cô định làm gì thì nhận ra một luồng gió bắt đầu thổi từ phía chúng tôi về hướng lũ Zombie. Cô đã thi triển ma pháp không niệm chú. Đó chỉ là ma pháp cấp thấp, nhưng việc thi triển nhẹ như không thế này đã phô diễn trọn vẹn thực lực của Lorraine. Bản thân tôi cũng có thể làm được điều tương tự, song chỉ giới hạn ở vài ba phép Ma Thuật Sinh Hoạt mà tôi đã dùng đi dùng lại suốt mười năm qua, nên chẳng có gì đáng để tự hào cả. Những phép ấy không đòi hỏi khả năng tiết chế cao. Tuy nhiên, ma pháp Lorraine đang dùng thì không đơn giản như vậy. Cô phải duy trì luồng gió thổi ổn định liên tục, nên độ khó ắt hẳn không hề nhỏ. Mục đích của việc này là để ngăn mùi hôi thối hoặc những mảnh thịt Zombie văng về phía chúng tôi.
+Lorraine rút đũa phép ra rồi tiến về phía lũ Zombie. Cô vừa bước lại gần vừa khẽ vung đũa phép. Tôi còn đang tự hỏi cô định làm gì thì nhận ra một luồng gió bắt đầu thổi từ chỗ chúng tôi về hướng lũ Zombie. Cô thi triển ma pháp vô niệm. Đó chỉ là phép cấp thấp, nhưng có thể niệm nhẹ tênh như không thế này đủ thấy bản lĩnh của Lorraine xuất chúng đến mức nào. Bản thân tôi cũng làm được tương tự, nhưng chỉ gói gọn trong vài phép Ma Thuật Sinh Hoạt xài đi xài lại suốt mười năm ròng, nên chẳng bõ để khoe khoang. Mấy phép đó vốn không đòi hỏi kiểm soát gắt gao. Còn phép Lorraine đang dùng thì khác hẳn. Cô phải duy trì luồng gió thổi đều đặn liên tục, độ khó chắc chắn không hề nhỏ. Cô làm vậy là để cản mùi xú uế hay bất kỳ mẩu thịt Zombie nào bắn ngược về phía chúng tôi.
 
-Khi Lorraine tiến đến trước mặt lũ Zombie, chúng bắt đầu vây quanh cô. Dấu hiệu của sự sống đã thu hút chúng tới khu trại của chúng tôi, nhưng thị lực của chúng có vẻ rất kém. Chúng chẳng đoái hoài gì đến tôi hay bất cứ thứ gì quanh cỗ xe mà dồn toàn bộ sự chú ý vào một mình Lorraine. Vì lo ngại có thể còn những con khác đang phục kích, tôi vẫn cảnh giác cao độ nhưng không phát hiện điều gì bất thường xung quanh. Vả lại, Zombie cũng chẳng đủ thông minh để biết rình rập ai. Không có lý do gì phải quá đỗi bận tâm. Dù vậy, tôi vẫn cảm nhận được thêm một số con Zombie ở đằng xa, nhưng vì lý do nào đó mà số lượng của chúng đang giảm dần đều, nên cũng không đáng ngại. Có thể chúng đang tàn sát lẫn nhau, đụng độ cướp đường, hoặc chạm trán các mạo hiểm giả khác. Trước mắt, tôi chọn cách giữ cẩn trọng, nhưng tốt nhất vẫn là tập trung chú ý vào Lorraine.
+Lorraine vừa bước tới trước mặt lũ Zombie, chúng liền tản ra vây lấy cô. Hơi thở sự sống dẫn dụ chúng mò tới khu trại của chúng tôi, cơ mà mắt mũi lũ này có vẻ kém lắm. Chúng chẳng mảy may để ý đến tôi hay bất cứ thứ gì quanh cỗ xe, mà dồn hết mọi chú ý vào mỗi mình Lorraine. Đề phòng có con nào khác đang rình rập, tôi vẫn cẩn thận dò xét xung quanh nhưng chẳng thấy gì khả nghi. Vả lại Zombie làm gì có đầu óc mà biết mai phục ai, thành thử cũng không cần lo xa quá. Đúng là tôi có cảm nhận thấy thêm một đám Zombie ở tít đằng xa, cơ mà chẳng hiểu sao số lượng lại đang vơi dần đi, nên chắc không thành vấn đề. Biết đâu chúng đang tự cắn xé lẫn nhau, đụng phải đám thảo khấu, hay chạm trán mạo hiểm giả nào đó cũng nên. Trước mắt tôi vẫn cứ đề phòng, nhưng lúc này tốt nhất là dồn mắt quan sát Lorraine.
 
-"Được rồi, thế này là vừa đẹp," Lorraine cất tiếng khi đã bị bao vây tứ phía. "Không có ai khác ở gần đây chứ? Tốt lắm. 'Gió, ta lệnh cho ngươi hãy thổi. Lửa, ta lệnh cho ngươi hãy cháy. Hãy hóa thành lốc xoáy thiêu rụi vạn vật xung quanh ta. Paloom Igni Su Turbo,'" cô cất lời niệm chú.
+"Được rồi, thế này là vừa đẹp," Lorraine cất tiếng khi đã bị bầy quái vây kín tứ phía. "Không có ai khác ở gần đây chứ? Tốt lắm. 'Gió, ta lệnh cho ngươi thổi. Lửa, ta lệnh cho ngươi bùng cháy. Hãy hoá thành lốc xoáy thiêu rụi mọi thứ quanh ta. Paloom Igni Su Turbo,'" cô cất giọng niệm chú.
 
-Những ngọn lửa bùng lên quanh Lorraine, kéo theo một luồng gió mạnh quét qua. Gió cuộn xoáy quanh biển lửa và tạo thành một cơn lốc rực cháy. Bộ não mục rữa của lũ Zombie dường như vẫn còn hoạt động đôi chút trong vô vọng khi chúng cố tháo chạy khỏi cơn lốc. Thế nhưng uy lực của nó quá đỗi khủng khiếp; ngọn lửa đỏ rực thiêu rụi chúng thành tro tàn.
+Lửa đỏ bùng lên quanh Lorraine, ngay sau đó là một luồng gió mạnh quét tới. Gió cuộn xiết quanh ngọn lửa, dựng thành một cơn lốc rực cháy. Bộ não thối rữa của lũ Zombie dường như vẫn còn sót lại chút tri giác, bởi chúng bắt đầu cuống cuồng tìm cách tháo chạy khỏi cơn lốc. Khổ nỗi sức mạnh của ma pháp quá áp đảo; ngọn lửa đỏ rực thiêu sạch chúng thành tro tàn.
 
 ![](images/ch131-01.webp)
 
-Thi triển hỏa ma pháp ở gần rừng trông chẳng khác nào hành động tự sát, nhưng đó chỉ là chuyện của những ma pháp sư nghiệp dư. Một người ở đẳng cấp như Lorraine hoàn toàn có thể kiểm soát ma pháp đủ tốt để ngăn ngọn lửa lan rộng. Còn nếu là tôi thử làm, chắc chắn chúng tôi sẽ phải đối mặt với một trận cháy rừng dữ dội. Nghĩ đến viễn cảnh ấy thôi cũng đủ thấy rợn người, đến mức tôi chẳng tài nào gom đủ can đảm để thử.
+Thi triển hoả ma pháp gần bìa rừng trông chẳng khác nào tự sát, nhưng đó chỉ là với ma pháp sư tay mơ. Người ở đẳng cấp như Lorraine dư sức kiểm soát ngọn lửa để nó không cháy lan ra ngoài. Chứ cỡ tôi mà thử, khéo lại gây ra một vụ cháy rừng thảm khốc không chừng. Nghĩ tới cảnh đó thôi đã thấy ớn lạnh, bảo tôi thử thì có cho kẹo tôi cũng chẳng dám.
 
-Chỉ một lát sau, toàn bộ lũ Zombie đã bị thiêu ra tro. Phép thuật đó sở hữu uy lực đáng sợ, nhưng Lorraine vẫn còn nương tay. Câu chú của cô có thể hoàn chỉnh hơn thế nhiều, thậm chí cô còn cố tình thêm vào một đoạn để kiềm chế bớt sức mạnh của ma pháp. Khi cơn lốc rực lửa thu nhỏ lại rồi tan biến, Lorraine vẫn đứng sừng sững nguyên vẹn tại nơi nó từng hoành hành. Cô quay người về phía tôi.
+Chỉ một lát sau, toàn bộ lũ Zombie đã cháy rụi thành tro. Phép ấy mang uy lực đáng sợ, nhưng Lorraine vẫn nương tay chán. Câu chú của cô đáng lẽ còn trau chuốt hơn nhiều, cô thậm chí còn chêm thêm một câu để kìm bớt sức mạnh của ngọn lửa. Lúc cơn lốc lửa thu nhỏ dần rồi tắt hẳn, Lorraine vẫn đứng sừng sững, bình an vô sự ở giữa tâm điểm. Cô quay đầu nhìn về phía tôi.
 
 "Rentt, qua đây đi," cô gọi.
 
-Tôi tự hỏi cô muốn gì rồi bước lại gần, để rồi nhìn thấy một đống tro tàn cùng những viên Ma Tinh. Chúng hiển nhiên là rơi ra từ lũ Zombie, nhưng cứ ngỡ chúng đã bị thổi bay tứ tán rồi chứ. Trình độ kiểm soát ma pháp của cô quả thực là điều đáng kinh ngạc, nhưng giờ thì tôi đã hiểu lý do Lorraine gọi mình tới.
+Tôi bước lại xem cô gọi mình có việc gì, thì thấy một đống tro tàn lẫn những viên Ma Tinh. Rõ ràng chúng rơi ra từ lũ Zombie, nhưng tôi cứ ngỡ mọi thứ đã bị thổi bay tứ tán rồi chứ. Khả năng kiểm soát ma pháp của cô ấy quả thực đáng nể, cơ mà giờ thì tôi đã hiểu tại sao Lorraine lại gọi mình qua.
 
-"Tôi cứ nghĩ thiêu rụi chúng thành tro là đủ rồi, nhưng gom hết lại một chỗ thế này thì xem ra vẫn chưa xong. Tôi có thể dùng Nước Thánh, nhưng tiện có anh ở đây. Anh xử lý giùm vụ này được không?" cô đề nghị.
+"Tôi cứ ngỡ đốt chúng thành tro là xong, nhưng gom lại một đống thế này thì xem ra vẫn chưa ổn. Tôi có thể dùng Nước Thánh đấy, cơ mà tiện có anh ở đây. Xử lý giùm tôi vụ này được không?" cô bảo.
 
-Nói cách khác, đống tro tàn và những viên Ma Tinh kia vẫn còn vương đầy tà khí cùng chướng khí. Cô muốn tôi dùng sức mạnh của mình để thanh tẩy chúng.
-
-◆◇◆◇◆
-
-Nhiều loại quái vật ô uế đòi hỏi phải thanh tẩy sau khi bị tiêu diệt, và các mạo hiểm giả thường xử lý việc này theo vài cách khác nhau. Phương pháp Lorraine vừa nhắc tới là dùng Nước Thánh tưới lên xác chết. Cách này khá hiệu quả với hầu hết quái vật, trừ những con hùng mạnh nhất, nên đây là chiến thuật tương đối phổ biến. Thế nhưng phần lớn mạo hiểm giả lại chẳng buồn bận tâm làm gì. Nước Thánh rất tốn kém, và hiếm có mạo hiểm giả nào luôn mang nó bên người. Nếu nhận ủy thác tiêu diệt quái vật ô uế, bất kỳ mạo hiểm giả nào có lương tri và hiểu biết thông thường cũng sẽ mang theo một ít, nhưng không ít người chọn cách phớt lờ vì thấy quá phiền hà hoặc sợ thâm hụt tiền thù lao.
-
-Thay vào đó, họ cứ mặc kệ xác chết ở lại. Đây là một hành động tệ hại bởi xác của quái vật ô uế sẽ nguyền rủa vùng đất nơi chúng gục xuống, dần dà biến nơi đó thành vùng đất không thể sinh sống được, tương tự như trường hợp của Đầm Lầy Tarasque. Chướng khí từ Zombie chỉ đủ mạnh để làm cho vùng đất quanh xác chúng trở nên cằn cỗi trong vài năm, nhưng tốt nhất vẫn là nên xử lý thỏa đáng. Đó chính là lý do Lorraine gom toàn bộ tro tàn lại một chỗ. Có lẽ cô thu thập Ma Tinh chỉ để chúng tôi đem bán sau này, nhưng bản thân chúng cũng cần phải được thanh tẩy.
-
-Khi quái vật bị thiêu thành tro như trường hợp này, đôi lúc việc thanh tẩy là không cần thiết. Nếu chúng bị cơn lốc thổi bay tán loạn, tà khí và chướng khí sẽ bị phân tán đủ mỏng để không gây nguy hại. Nó có thể khiến người qua đường hơi khó chịu một chút hoặc làm chậm sự phát triển của cây cỏ, nhưng cũng chỉ đến thế mà thôi. Dù vẫn chẳng hay ho gì, song mức độ đó vẫn có thể chấp nhận được.
-
-Nhưng Lorraine là một mạo hiểm giả biết nghĩ, nên cô luôn mang theo Nước Thánh bên mình và hẳn sẽ dùng đến nếu không có tôi ở đây. Cơ mà tôi lại đang có mặt ở đây, thành thử cô chẳng cần phải tốn kém nữa. Nước Thánh rất đắt đỏ, nên tiết kiệm được chừng nào hay chừng nấy. Ngược lại, Thần Lực mà tôi tiêu hao rồi cũng sẽ tự hồi phục theo thời gian. Điều đó cho thấy những người sử dụng Thần Lực hữu dụng đến mức nào.
-
-"Vậy thì để tôi làm cho," tôi nói. Tôi đưa hai tay về phía đống tro tàn cùng Ma Tinh rồi bắt đầu rót Thần Lực vào đó. Cả thanh tẩy lẫn trị liệu đều là những việc mà tôi có thể thực hiện theo bản năng, và đó là một điểm rất tuyệt vời của Thần Lực. Phương pháp bài bản có lẽ sẽ mang lại hiệu quả cao hơn, nhưng để học được điều đó, tôi sẽ phải gia nhập một tổ chức tôn giáo nào đó. Bằng không, tôi sẽ phải nhờ cậy một người sử dụng Thần Lực tự do chỉ dạy. Những người như thế tuy hiếm hoi nhưng không phải là không có.
-
-Tôi từ từ rót thêm Thần Lực cho đến khi luồng khí tà ác bốc lên từ đống tro tàn và Ma Tinh tan biến hoàn toàn vào không khí. Có vẻ như chúng đã được thanh tẩy sạch sẽ, tôi khẽ thở phào nhẹ nhõm. Tôi biết cách làm, nhưng chưa từng được học hành bài bản, nên cũng chẳng dám chắc phương pháp của mình có hoàn toàn chuẩn xác hay không. Ít nhất thì lần này cũng không xảy ra vấn đề gì, duy chỉ có một điều kỳ lạ.
-
-"Cái bao phân bón biết đi lại trổ tài rồi đấy à. Đây là chuyện sẽ xảy ra mỗi khi anh thanh tẩy thứ gì đó sao?" Lorraine lẩm bẩm khi nhìn chằm chằm vào đống tro đã được thanh tẩy.
-
-"Đừng có gọi tôi như thế nữa," tôi gắt lên. "Nhưng nhìn vào kết quả này thì tôi cũng đành thừa nhận cô nói chẳng sai chút nào," tôi đáp lời rồi cũng đưa mắt nhìn xuống đống tro tàn. Có những mầm cây non đang nhú lên từ đống tro ấy, và tôi biết chúng đâm chồi được là nhờ có Thần Lực của mình. Cây cối không thể mọc trên vùng đất bị ô uế, nên điều này chứng tỏ phép thanh tẩy đã phát huy tác dụng, thế nhưng việc bản thân lại có thêm một lý do nữa để bị gán cho cái danh bao phân bón biết đi khiến tôi chỉ biết cạn lời.
-
-"Mà thôi, dù sao chuyện này cũng đâu có hại gì," Lorraine kết luận. "Giờ có thể an tâm nhặt Ma Tinh lên rồi chứ?"
-
-Tôi nhìn vào những viên tinh thể và xác nhận không còn sót lại chút tà khí hay chướng khí nào. "Ừ. Cơ mà tôi nghĩ Ma Tinh của Zombie cũng chẳng bán được bao nhiêu tiền đâu."
-
-"Chắc là vậy, nhưng tôi có thể dùng chúng để nghiên cứu Tử Linh Thuật. Chúng sẽ là vật liệu hoàn hảo cho mục đích đó."
-
-Lorraine nói thản nhiên như không, nhưng Tử Linh Thuật vốn được coi là một dạng cấm thuật. Nó không bị chính quyền cấm đoán, và người ta cũng không bị xử tử nếu lỡ dùng nó, song nó lại bị xem là trái với luân thường đạo lý. Bản thân Tử Linh Thuật được cho là một bí thuật truyền kỳ đã thất truyền theo dòng thời gian. Tất cả những gì còn sót lại chỉ là vài lời đồn đại đầy điềm gở. Có lẽ đó là lý do Lorraine muốn nghiên cứu, nhưng nếu quyết tâm thì cô hoàn toàn có khả năng phục dựng lại Tử Linh Thuật, và nghĩ đến điều đó thôi cũng thấy hơi rợn người. Thế nhưng tôi không ngờ Lorraine lại có hứng thú với thứ này.
-
-"Sao cô lại nghiên cứu Tử Linh Thuật?" tôi thắc mắc hỏi.
-
-"Nó có thể giúp hiểu rõ hơn về Undead. Tử Linh Thuật đã bị lãng quên từ lâu, nên nghiên cứu những Undead còn đang tồn tại có lẽ sẽ nhanh hơn, nhưng biết đâu thứ này lại giúp ích được phần nào," cô trả lời.
-
-Giờ thì tôi đã hiểu. "Vậy là cô làm thế vì tôi sao?" tôi hỏi.
-
-Lorraine nhìn tôi như thể tôi vừa hỏi một câu hết sức ngớ ngẩn. "Hiển nhiên là vậy rồi. Bằng không thì tôi việc gì phải dính líu đến cấm thuật làm chi. Mà, đằng nào thì nghiên cứu nó cũng đâu đến mức bị xử tử, nên cũng chẳng phải chuyện gì quá đỗi nghiêm trọng," cô đáp.
-
-Tôi cảm thấy như mình đang đặt thêm một gánh nặng lên vai cô. "Xin lỗi nhé," tôi áy náy nói.
-
-"Đó không phải lời nên nói trong hoàn cảnh này đâu, Rentt à. Anh còn câu khác để nói cơ mà."
-
-"Ừ. Cảm ơn cô vì tất cả sự giúp đỡ nhé."
-
-"Thôi đi, chúng ta là bạn bè mà. Bận tâm làm gì chuyện đó."
+Tức là đống tro tàn và mấy viên Ma Tinh kia vẫn còn bám đầy tà khí với chướng khí. Cô muốn tôi dùng năng lực của mình để thanh tẩy chúng.
 
 ◆◇◆◇◆
 
-Một khoảng thời gian trôi qua sau đó.
+Nhiều loài quái vật mang uế khí sau khi bị hạ gục đều cần phải thanh tẩy, và mạo hiểm giả thường có vài cách để xử lý. Cách Lorraine vừa bảo là tưới Nước Thánh lên xác. Nó có tác dụng khá tốt với hầu hết quái vật, trừ những cá thể cực mạnh, nên cũng là biện pháp tương đối thông dụng. Khổ nỗi phần lớn mạo hiểm giả lại chẳng buồn bận tâm. Nước Thánh tốn tiền lắm, mấy ai hơi đâu kè kè mang theo bên mình suốt ngày. Khi nhận ủy thác đi trừ khử quái vật ô uế, mạo hiểm giả nào có chút hiểu biết căn bản cũng sẽ đem theo một ít, cơ mà không ít kẻ phớt lờ luôn vì lười hoặc sợ thâm hụt tiền thù lao.
 
-"Ồ? Có ai đó đang tới kìa. Lần này là người sống thật sự sao?" Lorraine nói.
+Họ cứ thế bỏ mặc xác quái vật lại. Làm vậy rất tai hại, bởi xác của quái vật ô uế sẽ gieo lời nguyền lên mảnh đất nơi chúng gục xuống, lâu dần khiến vùng đất đó trở nên bất khả sinh sống, hệt như Đầm Lầy Tarasque vậy. Chướng khí từ Zombie chỉ đủ khiến đất đai quanh đó cằn cỗi trong vài năm thôi, nhưng xử lý cho gọn gàng vẫn là tốt nhất. Bởi thế Lorraine mới gom hết tro lại một chỗ. Chắc cô nhặt Ma Tinh để sau này đem bán, nhưng bản thân chúng cũng cần được thanh tẩy trước đã.
 
-Tôi cũng nhận ra điều đó. Lũ Zombie mà tôi cảm nhận được ở đằng xa lúc trước đã biến mất, nên người này hẳn là kẻ vừa giao chiến với chúng. Bất kể thứ gì đang tiến về phía chúng tôi, nó chỉ có một mình. Ngoài kia từng có một lượng Zombie không hề nhỏ, nên nếu đây là con người, ắt hẳn người đó phải đủ mạnh để một mình tiêu diệt toàn bộ số quái vật ấy. Đó chắc chắn là một kẻ sở hữu bản lĩnh phi phàm. Sẽ rất tốt nếu đó là một mạo hiểm giả, nhưng ngộ nhỡ là đạo tặc hay hạng người tương tự thì mọi chuyện có thể trở nên tồi tệ. Cả Lorraine và tôi đều thủ thế cảnh giác, sẵn sàng đón nhận bất cứ điều gì sắp sửa xảy ra.
+Khi quái vật bị thiêu thành tro thế này, đôi khi cũng chẳng cần thanh tẩy làm gì. Nếu tro tàn bị lốc gió thổi tung bay tứ tán, tà khí và chướng khí sẽ loãng dần đến mức vô hại. Cùng lắm nó chỉ làm người qua đường thấy hơi khó ở đôi chút hoặc khiến cây cỏ chậm lớn một thời gian, chứ chẳng nguy hiểm hơn. Dù chẳng tốt đẹp gì, nhưng ở mức đó thì vẫn tạm chấp nhận được.
+
+Có điều Lorraine là mạo hiểm giả chu đáo, nên lúc nào cô cũng thủ sẵn Nước Thánh bên người và chắc chắn sẽ đem ra dùng nếu không có tôi ở cạnh. Ngặt nỗi tôi lại đang đứng sờ sờ ở đây, thành ra cô khỏi cần tốn công phí của. Nước Thánh đắt đỏ lắm, tiết kiệm được chừng nào hay chừng nấy. Trong khi đó Thần Lực của tôi xài hao rồi cũng tự hồi lại theo thời gian. Mới thấy người biết dùng Thần Lực tiện lợi đến mức nào.
+
+"Thế thì để tôi làm cho," tôi bảo. Tôi chìa hai tay về phía đống tro tàn cùng mớ Ma Tinh rồi bắt đầu rót Thần Lực vào. Cả thanh tẩy lẫn trị liệu tôi đều làm được theo bản năng, đấy chính là điểm rất tuyệt của Thần Lực. Dùng đúng phương pháp bài bản có lẽ sẽ hiệu quả hơn nhiều, nhưng muốn học thì tôi lại phải gia nhập một giáo phái nào đó. Bằng không thì phải tìm một người dùng Thần Lực tự do để xin chỉ bảo. Những người như thế tuy hiếm, nhưng không phải là không có.
+
+Tôi từ tốn truyền thêm Thần Lực cho đến khi làn tà khí bốc lên từ đống tro tàn và Ma Tinh tan biến hẳn vào không khí. Thấy mọi thứ có vẻ đã được gột sạch, tôi khẽ thở phào nhẹ nhõm. Dù biết làm, nhưng vì chưa từng được ai dạy dỗ bài bản nên tôi cũng chẳng chắc cách của mình có chuẩn hay không. Ít ra lần này không xảy ra sự cố gì, chỉ có một chuyện hơi kỳ lạ.
+
+"Bao phân bón biết đi lại ra tay rồi đấy à. Lần nào anh thanh tẩy cũng sinh ra chuyện thế này sao?" Lorraine nhìn chằm chằm vào đống tro đã được gột sạch, lẩm bẩm.
+
+"Đừng có gọi tôi như thế nữa," tôi cự lại. "Cơ mà nhìn kết quả này thì tôi cũng đành chịu, cô nói chẳng sai vào đâu được," tôi đáp rồi cũng cúi xuống nhìn đống tro. Mấy mầm cây non đang đâm chồi nhú lên từ đó, và tôi biết tỏng chúng mọc được là nhờ Thần Lực của mình. Cây cối không tài nào mọc nổi trên vùng đất vấy bẩn uế khí, nên chuyện này chứng minh việc thanh tẩy đã thành công mỹ mãn. Có điều, danh sách lý do để người ta gọi tôi là cái bao phân bón biết đi lại dài thêm một dòng thế này quả thực khiến tôi cạn lời.
+
+"Thôi kệ, đằng nào cũng chẳng hại gì," Lorraine chốt một câu. "Giờ nhặt Ma Tinh lên được rồi chứ hả?"
+
+Tôi ngó mấy viên Ma Tinh, xác nhận không còn vương lại chút tà khí hay chướng khí nào. "Ừ. Cơ mà Ma Tinh của Zombie chắc cũng chẳng bán được bao nhiêu tiền đâu."
+
+"Chắc thế, nhưng tôi dùng để nghiên cứu Tử Linh Thuật cũng được. Làm vật liệu cho món đó thì chuẩn không cần chỉnh."
+
+Lorraine nói thản nhiên như không, nhưng Tử Linh Thuật vốn coi như một dạng cấm thuật. Chính quyền không cấm đoán, xài nó cũng chẳng đến mức bị đem ra xử tử, cơ mà người đời coi đó là thứ đi ngược lại luân thường đạo lý. Bản thân Tử Linh Thuật được cho là một bí thuật truyền kỳ đã thất truyền từ lâu, giờ chỉ còn sót lại mấy lời đồn đại đầy điềm gở. Chắc đấy là lý do khiến Lorraine muốn nghiên cứu, nhưng nếu quyết tâm thì cô dư sức phục dựng lại cả môn cấm thuật này, nghĩ tới thôi đã thấy hơi rợn tóc gáy. Cơ mà tôi không ngờ Lorraine lại hứng thú với món này.
+
+"Sao cô lại muốn nghiên cứu Tử Linh Thuật?" tôi hỏi.
+
+"Nó có thể giúp hiểu sâu hơn về Undead. Tử Linh Thuật thất truyền đã lâu, nên nghiên cứu những Undead đang còn tồn tại có lẽ sẽ nhanh hơn, nhưng biết đâu thứ này lại giúp ích được phần nào," cô đáp.
+
+Giờ thì tôi hiểu rồi. "Hoá ra là cô làm vì tôi à?" tôi hỏi.
+
+Lorraine lườm tôi như thể tôi vừa hỏi một câu ngớ ngẩn hết chỗ nói. "Chứ còn gì nữa. Không vì anh thì tôi rỗi hơi đâu mà dính vào cấm thuật làm gì. Mà thôi, đằng nào nghiên cứu món đó cũng đâu bị xử tử, nên chẳng phải chuyện gì to tát cả," cô bảo.
+
+Cảm giác như mình lại trút thêm gánh nặng lên vai cô ấy. "Xin lỗi nhé," tôi cất giọng áy náy.
+
+"Trong hoàn cảnh này nói câu đó không hợp đâu, Rentt à. Anh còn câu khác để nói cơ mà."
+
+"Ừ. Cảm ơn cô đã luôn giúp đỡ tôi nhé."
+
+"Khách sáo làm gì, bạn bè với nhau cả mà. Đừng bận tâm chuyện đó."
 
 ◆◇◆◇◆
 
-"Một đứa trẻ ư?" Lorraine thì thầm khi có một bóng người bước ra từ trong rừng.
+Bẵng đi một lúc.
 
-Cô ấy không thể nào đúng được. "Làm sao một đứa trẻ bình thường lại có mặt ở nơi khỉ ho cò gáy này được chứ?" tôi phản bác. Có thể chuyện đó không hoàn toàn bất khả thi, song xác suất là vô cùng thấp. Dù vậy, đối phương trông đúng là một đứa trẻ thật, ngoại trừ một vài đặc điểm nổi bật đến khác thường.
+"Ủa? Có ai đang tới kìa. Lần này là người sống thật đấy à?" Lorraine lên tiếng.
 
-"Ta cứ ngỡ lũ Zombie chạy trốn về hướng này. Há chẳng phải hai người các ngươi đã hạ sát chúng rồi sao?" đứa trẻ cất lời bằng một giọng điệu cổ xưa đến khó tin. Đó là lối ăn nói mà chẳng còn ai dùng từ trước cả thời ông bà tôi. Dù vậy, chúng tôi vẫn hiểu được ý của cô bé, nên chí ít hai bên vẫn có thể giao tiếp được. Trong làng tôi cũng từng có những bậc cao niên nói chuyện kiểu này, còn Lorraine thì vốn xuất thân từ một thế giới quy tụ toàn những bậc tiền bối lớn tuổi.
+Tôi cũng nhận thấy. Mấy con Zombie tôi cảm nhận được ở đằng xa lúc trước đã biến mất tăm, nên kẻ này ắt hẳn là người vừa giao chiến với chúng. Dù thứ đang tiến lại là gì đi nữa thì cũng chỉ có một mình. Ngoài đó từng có không ít Zombie, nên nếu đây là con người thì người này hẳn phải đủ mạnh để một mình dọn sạch bấy nhiêu con quái vật. Bản lĩnh của kẻ này chắc chắn không phải dạng vừa. Nếu là mạo hiểm giả thì tốt, chứ ngộ nhỡ là đạo tặc hay thành phần bất hảo thì rắc rối to. Cả tôi lẫn Lorraine đều vào thế thủ, sẵn sàng đón nhận bất cứ tình huống nào.
 
-"Đúng vậy, là tôi đã xử lý chúng. Tro tàn của chúng ở ngay đằng kia kìa," Lorraine đáp lời người ngỡ như là một đứa trẻ, vừa nói vừa chỉ tay về phía đống tro.
+◆◇◆◇◆
 
-Đứa trẻ gật đầu. "Tro tàn ư? Ngươi là một ma pháp sư sao? Ra vậy, Ma Lực của ngươi quả thực phi thường. Lũ Zombie đó đối với ngươi chỉ là chuyện cỏn con. Ấy thế nhưng, cũng do ta sơ suất không tiêu diệt được hết nên mới để chúng chạy tới tận đây. Hãy thứ lỗi cho ta," cô bé khiêm nhường nói.
+"Trẻ con sao?" Lorraine thì thầm khi một bóng người bước ra khỏi cánh rừng.
 
-Điều đó có nghĩa lũ quái vật này chính là mục tiêu của cô bé vì một lý do nào đó. "Rốt cuộc lũ Zombie đó từ đâu ra vậy?" tôi tò mò cất tiếng hỏi.
+Chuyện đó làm sao mà đúng được. "Làm sao có đứa trẻ bình thường nào lại đi lang thang ở chốn đồng không mông quạnh này được chứ?" tôi phản bác. Bảo là hoàn toàn không thể thì cũng chẳng hẳn, nhưng xác suất đó cực kỳ thấp. Cơ mà nhìn qua thì đúng là một đứa trẻ thật, chỉ trừ vài nét nổi bật đến khác thường.
 
-"À, chừng bốn thập kỷ trước quanh đây từng có một ngôi làng, nơi dân làng từng sinh sống. Zombie không cần thức ăn để duy trì sinh mạng, bởi thế chúng sẽ tồn tại mãi cho tới khi bị tiêu diệt hoàn toàn. Tuy nhiên, suốt ngần ấy năm chẳng có lấy một bóng người nào đặt chân tới vùng đất này, thành thử lũ Zombie cứ chìm trong trạng thái ngủ đông suốt bấy lâu nay."
+"Ta cứ ngỡ lũ Zombie chạy trốn về ngả này. Há chẳng phải hai ngươi đã hạ sát chúng rồi sao?" đứa trẻ cất lời bằng giọng điệu cổ xưa đến khó tin. Lối ăn nói này chắc chẳng còn ai dùng từ trước cả thời ông bà tôi. Cơ mà chúng tôi vẫn hiểu được ý của đối phương, nên chí ít đôi bên vẫn có thể trò chuyện. Ở làng tôi cũng từng có mấy bậc cao niên nói kiểu này, còn Lorraine thì vốn xuất thân từ giới học giả toàn các bậc lão làng.
 
-Mặc dù Zombie không cần thức ăn, điều đó cũng khiến chúng trở nên chậm chạp và thụ động. Nếu không có ai ở xung quanh để tấn công, chúng sẽ ngưng trệ mọi hoạt động. Đó được gọi là trạng thái ngủ đông. Hẳn là đã có thứ gì đó đánh thức chúng dậy, mà nhiều khả năng chính là đứa trẻ này khi cô bé bước vào tàn tích của ngôi làng.
+"Đúng thế, là tôi đã xử lý chúng. Tro tàn của chúng ở ngay đằng kia kìa," Lorraine đáp lời kẻ trông như một đứa trẻ, vừa nói vừa trỏ tay về phía đống tro.
 
-Tôi chẳng biết phải nói gì trước sự thật ấy. Tôi đồ rằng đó chính là ý nghĩa thực sự của việc trở thành một Undead. Bất tử không đồng nghĩa với đang sống. Người ta vẫn tiếp tục tồn tại, nhưng nếu chẳng còn một ai trên cõi đời này nhớ đến mình, thì sự tồn tại ấy cũng chẳng khác nào đã chết. Tôi cảm thấy điều đó bi thảm khôn cùng, và những cảm xúc ấy ắt hẳn đã thoáng hiện lên nét mặt tôi, khiến đứa trẻ hiểu lầm.
+Đứa trẻ gật gù. "Tro tàn ư? Ngươi là ma pháp sư sao? Ra là vậy, Ma Lực của ngươi quả thực phi phàm. Mấy con Zombie đó với ngươi chỉ là chuyện cỏn con. Ấy thế nhưng, cũng do ta sơ suất không hạ thủ sạch sẽ nên mới để chúng chạy dạt tới tận đây. Hãy lượng thứ cho ta," đứa trẻ khiêm nhường nói.
 
-"Chớ bận lòng, ta đã chôn cất tất cả bọn họ để họ không còn quay lại nữa. Mặc kệ họ vất vưởng như thế quả thực quá đỗi đáng thương," cô bé vừa nói vừa tiến lại gần đống tro tàn. "Ta tình cờ lại là một bậc thầy về thần thuật, và thanh tẩy tà khí chính là sở trường của ta. Có cần ta thanh tẩy luôn đống tro này không? Khoan đã, hử?"
+Hoá ra vì lý do nào đó mà lũ quái vật này chính là mục tiêu của cô bé. "Mấy con Zombie đó rốt cuộc là từ đâu ra thế cô?" tôi tò mò hỏi.
 
-Từ những lời cô bé nói, tôi đã linh cảm chuyện này có thể dẫn tới rắc rối, nhưng mọi sự đã quá muộn màng. Nếu cô bé thực sự có thể sử dụng Thần Lực, thì chẳng có cách nào che giấu được nữa. Và tôi biết cô bé nói thật, bởi tôi có thể nhìn thấy đôi bàn tay cô đang tràn trề Thần Lực. Điều đó lý giải vì sao cô bé lại có thể săn lùng lũ Zombie dễ dàng đến vậy.
+"À, chừng bốn thập kỷ trước quanh đây từng có một ngôi làng, nơi dân cư từng sinh sống. Zombie vốn không cần thức ăn để duy trì mạng sống, bởi thế chúng cứ tồn tại mãi cho tới khi bị tiêu diệt hoàn toàn. Ngặt nỗi suốt ngần ấy năm chẳng có lấy một bóng người bén mảng tới vùng này, thành thử lũ Zombie cứ chìm trong giấc ngủ đông suốt bấy lâu nay."
 
-"Tà khí đã được thanh tẩy rồi sao? Thiêu chúng thành tro đâu thể mang lại hiệu quả như thế này được. Há chẳng lẽ các ngươi đã dùng tới Nước Thánh?" cô bé gặng hỏi.
+Tuy Zombie không cần ăn uống gì, nhưng việc đó cũng khiến chúng trở nên chậm chạp và ì ạch. Nếu không có ai quanh quẩn để tấn công, chúng sẽ ngừng trệ mọi hoạt động. Người ta gọi đó là trạng thái ngủ đông. Hẳn phải có thứ gì đó đánh thức lũ quái vật dậy, mà nhiều khả năng chính là đứa trẻ này khi cô bé đặt chân vào tàn tích ngôi làng.
 
-Lorraine rút ra một lọ Nước Thánh. "Đúng vậy, tôi luôn mang theo phòng những lúc như thế này."
+Tôi chẳng biết phải nói gì trước chuyện đó. Hoá ra trở thành Undead là như vậy đấy. Bất tử đâu có đồng nghĩa với đang sống. Người ta vẫn cứ tiếp tục tồn tại, nhưng nếu chẳng còn lấy một ai nhớ đến mình thì sự tồn tại ấy nào khác gì đã chết. Tôi thấy chuyện đó bi đát khôn cùng, và mớ cảm xúc ấy chắc đã thoáng hiện lên mặt khiến đứa trẻ hiểu nhầm.
 
-Đứa trẻ tỏ vẻ tin phục. "Hô hô, ngươi quả là sáng suốt hơn hẳn đám mạo hiểm giả tầm thường ngày nay. Lũ Undead rình rập khắp nơi nơi, và chúng cần phải được dọn dẹp sạch sẽ sau khi bị tiêu diệt để tránh gieo rắc thảm họa. Ngày xưa, ai nấy trong chúng ta cũng đều thủ sẵn Nước Thánh bên mình, thế mà giờ đây... Ái chà, thứ lỗi cho tật cằn nhằn của ta."
+"Chớ bận lòng, ta đã chôn cất tất cả bọn họ để họ không còn quay lại nữa. Cứ để họ vất vưởng như thế thì tội nghiệp lắm," đứa trẻ vừa nói vừa bước lại gần đống tro tàn. "Ta tình cờ lại là bậc thầy về thần thuật, thanh tẩy tà khí vốn là sở trường của ta. Có cần ta thanh tẩy luôn đống tro này không? Khoan đã, ủa?"
 
-"Sao cũng được," tôi đáp lại một cách mơ hồ, trong lòng thầm nghĩ ngay khoảnh khắc này đây cô bé đang trò chuyện với một Undead đấy thôi. Tôi không chủ tâm che giấu, nhưng cũng chẳng hào hứng gì với việc thổ lộ thân phận cho một người sử dụng Thần Lực, nên đành im lặng chờ xem chuyện gì sẽ xảy ra tiếp theo.
+Nghe những lời cô bé nói, tôi đã linh cảm chuyện này thể nào cũng dính rắc rối, nhưng giờ thì muộn mất rồi. Nếu cô bé thực sự dùng được Thần Lực thì chúng tôi có muốn giấu cũng chẳng giấu nổi. Vả lại tôi biết đứa trẻ này không nói ngoa, bởi tôi có thể thấy rõ hai bàn tay cô bé đang tràn trề Thần Lực. Thảo nào cô bé săn lùng lũ Zombie nhẹ tựa lông hồng như thế.
 
-"Tuy nhiên, toàn bộ đã được thanh tẩy sạch bong không tì vết. Nước Thánh không thể nào triệt để đến nhường này. Khoan đã! Cỏ non ư? Trong đống tro tàn sao? Lại còn tỏa ra Thần Lực nữa chứ! Các ngươi đang giấu giếm ta điều gì đúng không?!" cô bé cuống cuồng gặng hỏi.
+"Tà khí đã được thanh tẩy sạch rồi sao? Đốt chúng thành tro đâu thể mang lại hiệu quả đến mức này. Há chẳng lẽ các ngươi dùng tới Nước Thánh?" đứa trẻ gặng hỏi.
 
-Chúng tôi vốn giữ khoảng cách vì cẩn trọng, thế nhưng cô bé đã áp sát ngay bên cạnh chỉ trong chớp mắt. Chuyện này tuyệt nhiên không phải trò đùa, và tôi chẳng cần dựa vào Thần Lực cũng nhận ra cô bé sở hữu thân thủ vô cùng xuất chúng. Dẫu vậy, nếu đối phương có ý định tấn công, chúng tôi vẫn có đủ khoảng trống để phản kích, nên tình hình vẫn nằm trong tầm kiểm soát. Dù sao thì tôi cũng không cảm nhận được chút sát khí nào và thấy chưa có lý do gì phải rút vũ khí ra.
+Lorraine rút ra một lọ Nước Thánh. "Đúng thế, tôi luôn mang theo phòng hờ những lúc thế này."
 
-Dù sao đi nữa, Lorraine vẫn lên tiếng đáp lại đứa trẻ. "Chúng tôi đâu có ý đó, nhưng hai bên đã kịp trò chuyện câu nào đâu. Thậm chí chúng ta còn chưa biết tên nhau nữa là," cô nói bằng giọng điệu hết sức chân thành.
+Đứa trẻ gật gù tin phục. "Hô hô, ngươi quả là hiểu biết hơn hẳn đám mạo hiểm giả tầm thường ngày nay. Lũ Undead lẩn khuất khắp chốn, sau khi tiêu diệt bắt buộc phải dọn dẹp sạch sẽ để tránh gieo rắc tai họa. Ngày trước ai nấy trong chúng ta cũng đều thủ sẵn Nước Thánh bên mình, thế mà giờ đây... Ái chà, thứ lỗi cho tật cằn nhằn của ta."
 
-Về mặt kỹ thuật, đúng là chúng tôi đang che giấu việc tôi đã dùng Thần Lực để thanh tẩy, nhưng những lời cô nói với đứa trẻ thì chẳng có câu nào là dối trá cả.
+"Sao cũng được ạ," tôi ậm ừ đáp lời, trong bụng thầm nghĩ ngay lúc này đây đứa trẻ đang trò chuyện với một Undead đấy thôi. Tôi chẳng chủ tâm che giấu, nhưng cũng đâu dại gì thổ lộ thân phận trước mặt một kẻ dùng Thần Lực, thành thử chỉ đành im lặng chờ xem chuyện gì sẽ xảy ra tiếp theo.
 
-Đứa trẻ dường như cũng đồng tình với cô. "Quả thật, chính ta còn chưa tự giới thiệu bản thân. Đó là lý do các ngươi lại cảnh giác cao độ đến thế sao?"
+"Cơ mà đống tro đã được thanh tẩy sạch không còn một vết tích. Nước Thánh làm sao triệt để được đến mức này. Khoan đã! Cỏ non ư? Trong đống tro sao? Lại còn tỏa ra Thần Lực nữa chứ! Các ngươi đang giấu giếm ta điều gì đúng không?!" đứa trẻ cuống quýt gặng hỏi.
 
-Đứa trẻ tỏ vẻ ngây thơ vô tội, nhưng xét theo bộ pháp điêu luyện khi cô bé tiếp cận chúng tôi ban nãy thì tất cả chỉ là vỏ bọc. Cô bé này dường như cũng ứng biến rất nhanh nhạy.
+Chúng tôi vốn đứng cách một quãng để đề phòng, thế mà cô bé đã lướt tới áp sát ngay bên cạnh chỉ trong chớp mắt. Chuyện này đùa sao nổi, tôi chẳng cần tới Thần Lực cũng nhận ra đứa trẻ này sở hữu thân thủ cao cường đến chừng nào. Dù vậy, nếu đối phương có ý định tấn công thì chúng tôi vẫn đủ khoảng trống để phản đòn, nên tình hình vẫn trong tầm kiểm soát. Huống hồ tôi chẳng thấy chút ác ý hay sát khí nào, cũng chưa có lý do gì để phải tuốt vũ khí.
 
-"Hừm, đã lâu lắm rồi ta mới thấy những mạo hiểm giả có khí phách cứng cỏi đến vậy. Hãy cho ta biết tên tuổi của các ngươi đi. Dĩ nhiên, ta sẽ bắt đầu trước. Ta là Alhildis, một mạo hiểm giả mọn. Ta thuộc Kim Cấp đấy nhé! Hãy nhìn cho kỹ đây," đứa trẻ cất lời rồi chìa ra tấm thẻ mạo hiểm giả của mình.
+Dù vậy, Lorraine vẫn lên tiếng đáp lại đứa trẻ. "Chúng tôi đâu có ý đó, nhưng hai bên đã kịp trò chuyện câu nào đâu. Thậm chí chúng ta còn chưa biết tên nhau nữa kìa," cô nói bằng vẻ mặt hết sức chân thành.
+
+Xét cho cùng, đúng là chúng tôi đang giấu chuyện tôi dùng Thần Lực để thanh tẩy, nhưng những lời Lorraine nói ra thì chẳng có câu nào là dối trá cả.
+
+Đứa trẻ dường như cũng đồng tình với cô. "Quả đúng thế thật, chính ta còn chưa tự giới thiệu bản thân. Thảo nào các ngươi lại cảnh giác cao độ đến thế sao?"
+
+Đứa trẻ ra vẻ ngây thơ vô số tội, nhưng nhìn bộ pháp thoăn thoắt khi cô bé tiếp cận chúng tôi ban nãy thì rõ ràng tất cả chỉ là diễn. Chưa kể đứa nhỏ này ứng biến cũng nhanh nhạy ra phết.
+
+"Hừm, đã lâu lắm rồi ta mới thấy những mạo hiểm giả có khí phách cứng cỏi nhường này. Hãy cho ta biết tên tuổi của các ngươi đi. Lẽ dĩ nhiên, ta sẽ bắt đầu trước. Ta là Alhildis, một mạo hiểm giả mọn. Ta thuộc Kim Cấp đấy nhé! Mở to mắt nhìn cho kỹ đây," đứa trẻ cất lời rồi chìa ra tấm thẻ mạo hiểm giả của mình.
 
 ![](images/ch131-02.webp)
 
-Khi các mạo hiểm giả chạm trán nhau, đây là phương thức đơn giản nhất để thiết lập niềm tin. Tấm thẻ vàng óng ánh của cô bé trông đúng là hàng thật.
+Khi mạo hiểm giả chạm mặt nhau, đây là cách đơn giản nhất để gây dựng lòng tin. Tấm thẻ vàng kim sáng loáng của cô bé trông đúng là hàng thật giá thật.
 
-Chúng tôi vẫn còn dè chừng, nhưng Alhildis đã hào phóng ném tấm thẻ sang cho chúng tôi. "Cứ kiểm tra cho đến khi các ngươi vừa lòng thì thôi," cô bé nói.
+Chúng tôi vẫn còn dè chừng, nhưng Alhildis đã hào sảng thảy tấm thẻ sang cho chúng tôi. "Cứ kiểm tra cho đến khi các ngươi vừa lòng thì thôi," đứa trẻ nói.
 
-Đến nước này thì chẳng có lý do gì để cho rằng đó là đồ giả mạo nữa, nhưng cũng có một số tên đạo tặc chuyên làm giả thẻ mạo hiểm giả để ngụy trang. Sau tất cả những gì đã chứng kiến ở cô bé từ nãy tới giờ, khả năng đó trong trường hợp này dường như khó lòng xảy ra, song tôi vẫn cẩn thận xem xét tấm thẻ để đảm bảo an toàn.
+Đến nước này thì chẳng có lý do gì để bảo đó là đồ giả mạo nữa, song thỉnh thoảng vẫn có vài tên đạo tặc làm giả thẻ mạo hiểm giả để che mắt thiên hạ. Sau tất cả những gì chứng kiến từ nãy tới giờ, trường hợp đó khó lòng xảy ra với cô bé, nhưng tôi vẫn xem xét kỹ lưỡng tấm thẻ cho chắc ăn.
 
-Cả Lorraine và tôi đều cảm thấy chúng tôi đã quá đa nghi với Alhildis, điều mà đáng lẽ chúng tôi sẽ không làm nếu không phải vì vẻ bề ngoài của cô bé. Chúng tôi tỉ mỉ kiểm tra tấm thẻ cho đến khi xác định nó hoàn toàn hợp lệ rồi ném trả lại cho cô bé.
+Cả tôi lẫn Lorraine đều tự thấy mình đã đa nghi thái quá với Alhildis, điều mà đáng lẽ chúng tôi đã chẳng bận tâm nếu không phải vì vẻ ngoài của đối phương. Hai đứa săm soi tấm thẻ cho tới khi xác nhận nó hoàn toàn hợp lệ rồi mới ném trả lại cho cô bé.
 
-"Xin lỗi vì chúng tôi đã nghi ngờ cô," Lorraine nói. "Nhưng cô cũng phải thông cảm cho tâm trạng của chúng tôi chứ. Quanh vùng này hiếm khi nào thấy người thuộc tộc Elf xuất hiện lắm."
+"Thứ lỗi vì chúng tôi đã trót nghi ngờ cô," Lorraine nói. "Nhưng cô cũng phải thông cảm cho chúng tôi chứ. Quanh vùng này hiếm khi thấy người thuộc tộc Elf xuất hiện lắm."
 
-Phải, những người thuộc tộc Elf như Alhildis quả thực vô cùng hiếm gặp tại vùng này. Cô sở hữu đôi tai nhọn tuyệt đẹp cùng đôi mắt xanh biếc như bầu trời. Mái tóc vàng óng được cắt tỉa kiểu đầu bob dài chấm vai. Cô mang vóc dáng của một bé gái chừng mười tuổi nhưng phong thái toát ra lại chẳng khác nào một bà lão. Gặp một người như vậy, không thể nào không nảy sinh lòng hoài nghi cho được.
+Phải, người thuộc tộc Elf như Alhildis quả thực hiếm gặp vô cùng ở vùng này. Đứa trẻ sở hữu đôi tai nhọn tuyệt đẹp cùng đôi mắt xanh biếc như màu trời. Mái tóc vàng óng cắt theo kiểu đầu bob lửng chấm vai. Trông vóc dáng chỉ như một bé gái chừng mười tuổi, nhưng phong thái toát ra lại chẳng khác nào một bà lão. Chạm trán một người như thế, bảo không sinh lòng hoài nghi sao được.
