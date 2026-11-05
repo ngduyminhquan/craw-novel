@@ -1,89 +1,89 @@
 # Chương 152: Ngoại truyện Tập 6 - Một Ngày
 
-"Anh kiếm đâu ra thứ đó thế?!" Lorraine hỏi khi tôi trở về nhà cô sau khi hoàn thành một công việc.
+"Anh kiếm đâu ra thứ đó thế?!" Lorraine hỏi khi tôi xong việc trở về nhà cô.
 
-Đung đưa sau lưng tôi là một con thỏ bị trói bằng dây. Tôi đã bắt được nó sáng nay và đã rút sạch máu, nên nó vẫn còn rất tươi. Không những thế, phân loài quái vật thỏ này còn thuộc hàng hiếm có và được coi là cao lương mỹ vị. Ngay cả những thợ săn lành nghề cũng chẳng mấy khi bắt được chúng. Đáng lẽ tôi đã cất nó vào trong túi ma thuật để tránh bị kẻ trộm dòm ngó, nhưng tôi đã lôi nó ra trước khi bước vào nhà để có thể khoe khoang với Lorraine. Phản ứng của cô ấy hoàn toàn đúng như tôi mong đợi.
+Lủng lẳng sau lưng tôi là một con thỏ bị trói bằng dây. Tôi bắt được nó hồi sáng và đã xả sạch máu nên thịt vẫn còn tươi nguyên. Không chỉ vậy, giống quái vật thỏ này rất quý hiếm và được xem là cao lương mỹ vị. Ngay cả thợ săn lành nghề cũng hiếm khi tóm được một con. Bình thường tôi sẽ cất nó vào túi ma thuật cho khỏi bị trộm dòm ngó, nhưng tôi đã lấy ra trước khi bước vào nhà để khoe với Lorraine. Phản ứng của cô ấy đúng y như tôi mong đợi.
 
-"Chuyện là thế này," tôi bật cười nói.
-
-◆◇◆◇◆
-
-Bao quanh tôi là những tán lá rậm rạp. Hầu như chẳng có chút ánh sáng nào xuyên qua được cành lá của những tán đại thụ, nhưng điều đó lại có lợi cho một kẻ Undead như tôi. Tuy nhiên, đối với người bình thường, nơi đây chẳng khác nào đêm tối mịt mù. Tại đây có một lối mòn in dấu chân mờ nhạt, điều khiến tôi không khỏi thắc mắc. Tôi chẳng thấy có lý do gì để một ai đó lại sống ở cái nơi bất tiện nhường này, nhưng bản thân tôi cũng xuất thân từ một ngôi làng hẻo lánh nơi khỉ ho cò gáy, nên có lẽ tôi cũng chẳng có tư cách gì để phán xét. Tôi cất bước dọc theo lối mòn, không phải vì tò mò mà là vì công việc của mình. Bên trong túi ma thuật của tôi có một lá thư gửi tới người nhận.
+"Chuyện là thế này này," tôi cười khẽ đáp.
 
 ◆◇◆◇◆
 
-Tôi cứ lẩm bẩm một mình trong lúc rảo bước trên lối mòn. Một phần vì tôi cảm thấy cô độc, phần khác là vì nếu quá lâu không mở lời thì sẽ rất khó nói chuyện khi cần thiết. Ngay cả trên những con đường vắng vẻ nhất thì vẫn luôn có khả năng chạm mặt ai đó, và nếu không cất tiếng nói, người ta có thể tưởng mình là ma quỷ hay quái vật rồi lao vào tấn công. Luôn sẵn sàng cất tiếng nói bất cứ lúc nào là điều mà mọi mạo hiểm giả đều rèn luyện.
+Xung quanh tôi, cây lá rậm rạp um tùm. Ánh sáng hầu như chẳng lọt nổi qua cành lá của những cây đại thụ, nhưng với một kẻ Undead như tôi thì thế lại hay. Còn với người bình thường, nơi này chẳng khác gì đêm hôm tăm tối. Con đường mòn dưới chân in vài vết dấu mờ mờ, khiến tôi nảy ra vài mối băn khoăn. Tôi chẳng nghĩ ra lý do gì để người ta lại đi sống ở một nơi bất tiện đến thế này, cơ mà bản thân tôi cũng xuất thân từ một ngôi làng heo hút xa xôi, nên chắc tôi chẳng có tư cách chê bai. Tôi tiếp tục rảo bước dọc theo lối mòn, không phải vì tò mò mà là vì phận sự. Trong túi ma thuật của tôi có một lá thư cần chuyển tới tận tay đối tượng.
 
-Ở cuối con đường mòn hẹp, tôi nhìn thấy ánh sáng chan hòa. Tôi hớn hở chạy về phía đó và thoát ra khỏi khu rừng tăm tối ngột ngạt, mở ra trước mắt là một khoảng không gian rộng thênh thang. Thứ đầu tiên đập vào mắt tôi là mặt hồ lấp lánh, rồi đến trảng cỏ bao quanh nó. Quan sát kỹ hơn khu vực xung quanh, tôi thấy một túp lều gỗ được bao bọc bởi một mảnh vườn nhỏ trồng rau tươi tốt. Đây chính là đích đến của tôi.
+◆◇◆◇◆
 
-Tôi bước thẳng tới túp lều và gõ cửa, nhưng chẳng có tiếng trả lời. Tôi gõ thêm vài lần nữa, và đến lần thứ năm thì cánh cửa giật phắt ra. Một mũi vũ khí đâm thẳng về phía tôi từ bên kia cánh cửa, nhưng tôi đã hốt hoảng nhảy lùi lại né tránh.
+Vừa rảo bước trên lối mòn, tôi vừa lẩm bẩm một mình. Phần vì thấy quạnh quẽ, phần khác là do nếu quá lâu không hé miệng, lúc cần nói sẽ rất khó mở lời. Bởi dẫu trên những con đường vắng vẻ nhất thì vẫn luôn có khả năng chạm mặt ai đó, mà nếu không chịu lên tiếng, người ta có thể tưởng mình là ma quỷ hay quái vật rồi lao vào tấn công. Tập thói quen luôn sẵn sàng mở lời bất cứ lúc nào là điều mà mọi mạo hiểm giả đều phải rèn luyện.
 
-"Hử?! Ồ, không phải quái vật à," ông lão có dáng vẻ như gấu ở bên kia cánh cửa lẩm bẩm. Ông ấy sở hữu vóc dáng cao to và cơ bắp so với độ tuổi của mình, trông chẳng khác nào một võ sư.
+Đi tới cuối lối mòn hẹp, tôi thấy ánh sáng bừng lên. Tôi hăm hở chạy tới, thoát khỏi khu rừng tối tăm ngột ngạt để bước ra một khoảng đất rộng thênh thang. Đập vào mắt tôi đầu tiên là mặt hồ lấp lánh ánh nước, kế đó là thảm cỏ bao quanh. Nhìn kỹ hơn một chút, tôi thấy một căn lều gỗ được bao quanh bởi mảnh vườn nhỏ xanh mướt rau tươi. Đây chính là đích đến của tôi.
 
-Tôi vẫn giữ vẻ cảnh giác với ông lão khi tiến lại gần. "Tôi xin lỗi vì đã đường đột ghé thăm, nhưng ông có phải là Jid Dalger không ạ? Cha của Razzie Dalger?" Tôi hỏi.
+Tôi đi thẳng tới căn lều rồi gõ cửa, nhưng bên trong không có tiếng trả lời. Tôi gõ thêm vài bận, đến lần thứ năm thì cánh cửa bật mở cái xoạch. Một mũi vũ khí từ phía sau cánh cửa đâm thẳng tới, may mà tôi cuống cuồng nhảy lùi sang một bên né kịp.
 
-"Chính là ta. Thứ lỗi cho ta nhé; dạo này thi thoảng ta cứ bị lũ gấu Gran ghé thăm, chúng thậm chí còn biết gõ cửa nữa cơ. Ta cứ tưởng cậu là một con trong số chúng. Nơi này của ta chẳng mấy khi có khách, mà nếu có thì cũng chỉ toàn mấy người bạn thợ săn thôi."
+"Hử?! Ồ, không phải quái vật à," ông lão với vóc người như gấu sau cánh cửa lẩm bẩm. So với tuổi tác thì vóc người ông vừa cao to vừa vạm vỡ, trông chẳng khác nào một võ sư.
 
-Gấu Gran là một loài quái vật dạng gấu dĩ nhiên là rất nguy hiểm. Chúng dễ đối phó hơn các loài quái vật gấu khác, nên một nhóm mạo hiểm giả Đồng Cấp là đủ sức giải quyết một con, nhưng rõ ràng chẳng ai muốn bị chúng ghé thăm cả. Tôi không hiểu làm sao ông ấy lại có thể nhìn nhầm tôi thành một con trong số chúng, nhưng xét theo vị trí của túp lều này, có lẽ đó lại là điều hợp lý nhất để dự liệu.
+Tôi vẫn dè chừng ông lão trong lúc bước lại gần. "Tôi xin lỗi vì đã đường đột ghé thăm, nhưng ông có phải là Jid Dalger không ạ? Cha của Razzie Dalger?" tôi hỏi.
 
-"Nếu vậy thì tôi nghĩ mình không thể trách ông được," tôi nói. "Chuyện như thế này ở nhà các thợ săn nơi quê tôi cũng từng xảy ra."
+"Chính là ta đây. Thông cảm cho ta nhé, dạo này thỉnh thoảng ta cứ bị lũ gấu Gran mò tới làm phiền, tụi nó còn biết gõ cửa nữa cơ đấy. Ta cứ ngỡ cậu là một con trong số chúng. Chỗ này của ta hiếm khi có khách khứa, mà họa chăng có ai đến thì cũng chỉ toàn mấy tay thợ săn quen biết."
+
+Gấu Gran là một giống quái vật dạng gấu, và dĩ nhiên là chúng rất nguy hiểm. So với các quái vật họ gấu khác thì chúng dễ đối phó hơn, một nhóm mạo hiểm giả Đồng Cấp là đủ sức hạ một con, nhưng dĩ nhiên chẳng đời nào có ai muốn bị chúng mò tới tận nhà. Tôi chẳng hiểu sao ông ấy lại nhìn nhầm tôi thành gấu cho được, cơ mà nhìn vào vị trí hẻo lánh của căn lều này, có khi cảnh giác như thế lại là phản ứng dễ hiểu nhất.
+
+"Thế thì tôi cũng chẳng trách ông được," tôi nói. "Mấy chuyện kiểu này ở nhà thợ săn dưới quê tôi thỉnh thoảng cũng có."
 
 "Cậu là thợ săn à?"
 
-"Không, tôi là mạo hiểm giả. Tôi tới đây để giao thứ này," tôi nói rồi trao bức thư qua.
+"Không, tôi là mạo hiểm giả. Tôi tới để chuyển thứ này cho ông," tôi nói rồi chìa bức thư ra.
 
-Mắt Jid mở to khi nhìn thấy tên người gửi. "Ra là vậy. Thôi, vào trong đi. Cậu sẽ phải kể cho ta nghe về chuyện này đấy."
+Mắt Jid mở to khi nhìn thấy tên người gửi. "Ra thế. Nào, vào nhà đi đã. Cậu phải kể rõ đầu đuôi cho ta nghe đấy nhé."
 
-"Tôi hiểu rồi."
+"Được thôi ạ."
 
 ◆◇◆◇◆
 
-Thợ săn cừ khôi nhất của Làng Shigaon chính là Jid. Ông có một người con trai duy nhất tên là Razzie, người đang điều hành một doanh nghiệp quy mô vừa ở Maalt. Razzie khoảng năm mươi tuổi và cũng đã có con trai. Bức thư viết rằng con trai của Razzie là Dat sắp sửa kết hôn, và ông ấy muốn Jid tới tham dự lễ cưới.
+Thợ săn cừ khôi nhất Làng Shigaon chính là Jid. Ông chỉ có độc một người con trai tên Razzie, hiện đang làm chủ một doanh nghiệp quy mô vừa ở Maalt. Razzie nay đã chừng năm mươi tuổi và cũng có một cậu con trai. Bức thư báo tin Dat, con trai của Razzie, sắp sửa lấy vợ và muốn mời Jid tới dự đám cưới.
 
-Khi đọc xong bức thư, Jid nở nụ cười cay đắng. "Nó rời làng vì không muốn làm thợ săn, rồi còn từ chối mời ta tới đám cưới của chính nó. Ta đoán là suy nghĩ của nó đã thay đổi rồi," Jid nói.
+Đọc xong bức thư, Jid khẽ cười cay đắng. "Nó bỏ làng đi vì không muốn làm thợ săn, đến đám cưới của chính mình mà nó cũng chẳng buồn mời ta. Có lẽ giờ nó nghĩ khác rồi," Jid nói.
 
-Razzie từng bảo với tôi rằng ông ấy và Jid đã bất hòa với nhau suốt một thời gian, và qua cách họ hành xử thì có vẻ điều đó hoàn toàn chính xác.
+Razzie từng kể với tôi rằng hai cha con họ đã bất hòa suốt một thời gian, và nhìn thái độ của hai người thì đúng là thế thật.
 
-"Giờ Razzie đã là một người trưởng thành rồi. Có lẽ ông ấy đã hiểu được cảm xúc của ông khi đó," tôi gợi mở.
+"Giờ Razzie cũng đã lớn tuổi rồi, có lẽ ông ấy đã thấu hiểu nỗi lòng của ông khi xưa," tôi đỡ lời.
 
-"Ừm, ta hiểu ý cậu. Ta không phản đối chuyện đi dự đám cưới đâu, Rentt à, nhưng có một việc ta muốn nhờ cậu."
+"Ừ, ta hiểu ý cậu chứ. Ta cũng chẳng phản đối chuyện đi dự đám cưới đâu Rentt, nhưng có một việc ta muốn nhờ cậu thế này."
 
-"Việc gì vậy ạ?"
+"Việc gì thế ạ?"
 
 "Ồ, cũng chẳng có gì to tát đâu."
 
 ◆◇◆◇◆
 
-Lễ cưới có rất đông quan khách. Đối với một đám cưới của người thừa kế một công ty quy mô vừa, việc chỉ có duy nhất tiệc buffet tự phục vụ làm lựa chọn ăn uống là điều khá bất thường. Nhưng chất lượng món ăn lại rất tuyệt, và phong cách độc đáo của bữa tiệc dường như được mọi người đón nhận nồng nhiệt.
+Đám cưới đông nghẹt quan khách. Với hôn lễ của người thừa kế một công ty quy mô vừa, việc đãi tiệc hoàn toàn bằng hình thức buffet tự chọn là điều khá lạ lẫm. Nhưng chất lượng đồ ăn lại tuyệt hảo, và cách tổ chức độc đáo của bữa tiệc xem chừng rất được lòng mọi người.
 
-Tôi cảm thấy bản thân có chút lạc lõng ở đó, nhưng tôi đã tham dự lễ cưới theo lời mời của gia đình. Vả lại, mọi chuyện cũng không đến nỗi tệ. Mọi món ăn đều hảo hạng, và món chính là một loài quái vật cực kỳ quý hiếm có tên là thỏ Aurum. Lượng thức ăn đủ cho toàn bộ ba trăm vị khách, ai nấy đều bàng hoàng khi nhìn thấy nhưng lại vô cùng thích thú khi thưởng thức. Tôi cũng nếm thử món đó, và dẫu bản thân không còn mấy hứng thú với những món ăn thông thường nữa, tôi lại thấy nó ngon đến bất ngờ. Những con thỏ này không do ai khác bắt ngoài Jid. Tài nghệ của ông ấy rõ ràng là xuất chúng đúng như lời đồn. Không chỉ vậy, tôi còn được tặng nguyên một con thỏ làm quà. Tôi nóng lòng muốn mang nó về nhà cho Lorraine.
+Tôi cảm thấy mình có đôi chút lạc lõng giữa nơi đây, nhưng dẫu sao tôi đến dự đám cưới cũng là theo lời nhờ vả từ gia đình họ. Vả lại, ở đây cũng chẳng tệ chút nào. Đồ ăn món nào cũng hảo hạng, đặc biệt món chính lại là thịt thỏ Aurum — một giống quái vật cực kỳ quý hiếm. Thịt thỏ đủ phần cho toàn bộ ba trăm vị khách; ai nấy nhìn thấy đều trố mắt sửng sốt, rồi hào hứng thưởng thức. Tôi cũng nếm một phần, và dẫu chẳng còn mấy mặn mà với các món ăn thông thường nữa, tôi vẫn thấy nó ngon đến bất ngờ. Số thỏ này không phải do ai khác bắt mà chính là chiến lợi phẩm của Jid. Tay nghề của ông lão rõ ràng cừ khôi đúng như lời đồn. Chẳng những thế, tôi còn được biếu trọn vẹn một con mang về làm quà. Tôi chỉ muốn mau mau mang nó về nhà cho Lorraine.
 
-"Này Rentt, trông ta thế nào? Ta không quá nổi bật đấy chứ?" Jid hỏi. Ông không còn vẻ ngoài của một thợ săn mà tôi từng gặp bên hồ nước trong rừng nữa, giờ đây ông đang khoác lên mình bộ lễ phục đám cưới. Bộ đồ trông có hơi chật chội chỉ đơn giản vì thân hình ông quá đỗi vạm vỡ, nhưng vì là đồ đặt may riêng nên thực ra nó vừa vặn một cách hoàn hảo. Lời nhờ vả của ông chính là muốn tôi dẫn ông dạo quanh thị trấn và giúp ông tìm quần áo mới cho dịp này. Ông đến từ một thị trấn nhỏ, nên theo lời ông thì ông chẳng biết mình phải làm những gì. Tôi đã nhận lời thỉnh cầu đó và giới thiệu cho ông vài cửa tiệm.
+"Này Rentt, trông ta thế nào? Trông ta không đến nỗi quá chướng mắt đấy chứ?" Jid hỏi. Khoác lên mình bộ lễ phục dự tiệc, trông ông chẳng còn chút dáng vẻ nào của người thợ săn tôi từng gặp bên bờ hồ trong rừng. Bộ đồ nom hơi bó một chút đơn thuần là do thân hình ông quá vạm vỡ, nhưng vì là đồ may đo riêng nên thực ra nó vừa khít hoàn hảo. Chuyện ông nhờ tôi trước đó là dẫn ông đi một vòng quanh thị trấn để sắm bộ đồ mới cho dịp này. Ông vốn xuất thân từ vùng quê nhỏ nên tự nhận là chẳng biết đường nào mà lần. Tôi nhận lời và dắt ông tới mấy cửa tiệm.
 
-"Ông Jid, trông ông ổn lắm. Thực ra phải nói là rất tuyệt đấy ạ," tôi nói.
+"Ông Jid, trông ông ổn lắm. Thật ra phải nói là trông rất bảnh đấy ạ," tôi nói.
 
-"Ta mong là cậu nói đúng. Đây là ngày trọng đại của cháu trai ta mà. Thằng bé đâu muốn ông nội mình lại trông chẳng khác nào một gã thợ săn."
+"Mong là cậu nói đúng. Đây là ngày trọng đại của cháu trai ta mà. Thằng bé đâu muốn ông nội nó lại trông như một gã thợ săn."
 
-"Thôi nào, vẻ ngoài đâu có quan trọng. Ông là một người ông tuyệt vời, và cũng là một người cha tuyệt vời."
+"Thôi nào, vẻ ngoài quan trọng gì đâu ạ. Ông là một người ông tuyệt vời, và cũng là một người cha tuyệt vời nữa."
 
-Jid không chỉ cất công ăn diện chỉnh tề, mà ông còn kiếm được những nguyên liệu quý hiếm cần thiết cho món chính. Để một nhân viên công ty quy mô vừa có được ngần ấy con thỏ Aurum, Jid ắt hẳn phải vô cùng hào phóng.
+Jid không chỉ cất công ăn vận chỉnh tề, mà ông còn lặn lội kiếm bằng được thứ nguyên liệu quý hiếm cho món chính. Để một nhân viên ở công ty quy mô vừa có được ngần ấy con thỏ Aurum, Jid ắt hẳn phải vô cùng hào phóng.
 
-"Ta cũng mong là vậy. Dù sao thì cũng cảm ơn cậu đã giúp. Nhớ mang con thỏ đó về nhà đấy nhé. Còn nữa, Rentt, khi nào cậu tổ chức đám cưới thì nhớ báo ta. Ta sẽ bắt thứ gì đó còn tuyệt hơn nữa cho cậu."
+"Được thế thì tốt quá. Dù sao cũng cảm ơn cậu đã giúp nhé. Nhớ mang con thỏ đó về nhà đấy. À mà Rentt này, chừng nào cậu làm đám cưới thì nhớ báo ta. Ta sẽ săn thứ gì đó còn tuyệt hơn nữa cho cậu."
 
-"Tôi cũng chẳng biết bao giờ chuyện đó mới diễn ra, nhưng tôi sẽ ghi nhớ điều đó."
+"Tôi cũng chẳng biết bao giờ mới tới ngày đó, nhưng tôi sẽ ghi nhớ lời ông."
 
 ◆◇◆◇◆
 
-"Món này ngon tuyệt trần. Thỏ Aurum quả thực danh bất hư truyền," Lorraine vừa nói vừa ăn. May mà tôi đã nêm nếm gia vị chuẩn xác.
+"Món này ngon tuyệt. Thỏ Aurum quả không hổ danh," Lorraine vừa ăn vừa nói. May mà tôi nêm nếm vừa miệng.
 
-Trong lúc chúng tôi vừa ăn vừa trò chuyện, Lorraine bỗng lên tiếng, "Đáng tiếc là tôi không nghĩ chúng ta sẽ có cơ hội được thưởng thức món cao lương mỹ vị như thế này thêm lần nào nữa trong ít nhất mười năm tới đâu."
+Trong lúc hai chúng tôi vừa ăn vừa trò chuyện, Lorraine bỗng lên tiếng, "Tiếc là chắc phải ít nhất mười năm nữa chúng ta mới lại có cơ hội nếm thứ cao lương mỹ vị cỡ này."
 
-"Thực ra thì có một cách để chúng ta có thể kiếm được nó sớm hơn đấy."
+"Thật ra có cách để chúng ta kiếm được sớm hơn đấy chứ."
 
 "Ý anh là sao?"
 
-"Jid bảo ông ấy có thể kiếm cho chúng ta một con, vào lần tới khi có cơ hội."
+"Jid bảo khi nào có dịp, ông ấy sẽ lại kiếm cho chúng ta một con."
 
-"Ra vậy! Tôi rất mong chờ đấy."
+"Thế à! Vậy thì tôi mong lắm đấy."
 
-Ông ấy nói cụ thể là phải nhân dịp đám cưới cơ, nhưng tôi đã giấu nhẹm đi chi tiết đó.
+Ông ấy nói rõ là phải nhân dịp đám cưới cơ, nhưng tôi đã giấu nhẹm chi tiết đó đi rồi.
