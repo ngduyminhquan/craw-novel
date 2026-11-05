@@ -1,203 +1,203 @@
 # Chương 116: Tập 5 Chương 1 - Lên Đường Mạo Hiểm (2)
 
-Lorraine và tôi đứng trước cánh cửa cô nhi viện, quay sang nhìn nhau. Chúng tôi đang phân vân xem ai nên là người gõ cửa.
+Lorraine và tôi đứng trước cửa cô nhi viện nhìn nhau, đùn đẩy xem ai sẽ là người gõ cửa.
 
-"Cô gõ đi," tôi gợi ý.
+"Cô gõ đi," tôi giục.
 
-"Không, anh gõ đi," Lorraine đáp lại.
+"Không, anh gõ đi chứ," Lorraine đáp.
 
-Hai đứa tôi trừng mắt nhìn nhau một lúc, nhưng tôi đủ bướng bỉnh để khiến Lorraine phải nhượng bộ. "Được rồi, thế thì để tôi." Cô chạm tay vào chiếc vòng gõ cửa rồi gõ nhẹ lên cánh cửa. Đúng như dự đoán, một tiếng cạch lớn vang lên khi chiếc vòng gõ gãy rời khỏi cửa.
+Hai đứa tôi trừng mắt nhìn nhau một hồi, nhưng tôi lì quá nên rốt cuộc Lorraine đành nhượng bộ. "Được rồi, để tôi." Cô chạm tay vào vòng gõ cửa rồi gõ nhẹ lên cánh cửa. Đúng như dự đoán, một tiếng rắc khô khốc vang lên khi chiếc vòng gõ gãy lìa ra khỏi cửa.
 
-"Biết ngay mà. Thế nên tôi mới không muốn gõ đấy."
+"Biết ngay mà. Thế nên tôi mới không muốn gõ."
 
-Lorraine thở dài nhìn tôi, nhưng tôi đã kịp lấy ra một lọ keo dính Slime cực mạnh.
+Lorraine thở dài nhìn tôi, nhưng tôi đã kịp lôi sẵn lọ keo dán Slime siêu dính ra rồi.
 
-"Chuẩn bị sẵn sàng thế là tốt," Lorraine lẩm bẩm rồi vươn tay định lấy lọ keo dính, nhưng hôm nay chúng tôi lại gặp phải một bất ngờ.
+"Cũng biết lo xa đấy chứ," Lorraine lẩm bẩm rồi chìa tay lấy lọ keo, nhưng hôm ấy hai đứa lại gặp phải một bất ngờ.
 
 "Xin hỏi ai đấy ạ?"
 
-Trước khi chúng tôi kịp dán chiếc vòng gõ cửa lại, ai đó đã hé mở cánh cửa ra một khe nhỏ. Tôi linh cảm chuyện này chẳng lành chút nào, ngặt nỗi đã quá muộn. Gương mặt của một cô bé nhỏ nhắn lấp ló qua khe hẹp, đảo mắt nhìn mặt chúng tôi rồi nhìn xuống đôi bàn tay. Kế đó, cô bé nhìn thấy chiếc vòng gõ cửa trên tay Lorraine và trợn tròn mắt.
+Chưa kịp dán chiếc vòng gõ cửa lại thì ai đó đã hé mở cửa ra một khe nhỏ. Tôi linh cảm thấy chuyện chẳng lành, nhưng đã quá muộn. Một bé gái thò mặt qua khe cửa, nhìn mặt hai đứa tôi rồi nhìn xuống tay. Vừa thấy chiếc vòng gõ cửa trên tay Lorraine, mắt con bé liền tròn xoe.
 
-"Khoan, không phải đâu! Đợi một chút đã nào. Thực ra thì, cái này, ừm, nó đã hỏng từ trước rồi đấy chứ!"
+"Khoan, không phải đâu! Đợi một chút đã nào. Thật ra cái này... ừm, nó vốn gãy sẵn từ trước rồi đấy chứ!"
 
-Lorraine luống cuống thanh minh, nhưng cô bé lại hết sức bình tĩnh. "Mọi người ai cũng bảo phải sửa cái thứ đó rồi ạ. Lúc nó rơi ra làm hai cô chú giật mình đúng không ạ? Cháu xin lỗi."
+Lorraine lúng túng thanh minh, nhưng cô bé lại rất bình tĩnh. "Mọi người ai cũng bảo phải sửa cái đó rồi ạ. Lúc nó rơi ra làm hai cô chú giật mình đúng không ạ? Cháu xin lỗi."
 
-Nghe vậy quả thật có chút bất ngờ.
+Nghe thế làm tôi bất ngờ thật đấy.
 
-"Cần phải sửa ư? Hóa ra nó đã hỏng từ trước thật sao?"
+"Phải sửa ư? Hóa ra nó hỏng từ trước thật đấy à?"
 
-"Dạ vâng. Nhưng chỉ cần một chút keo dán là dính lại được, nên mọi người cứ để nguyên như vậy ạ."
+"Vâng ạ. Nhưng chỉ cần trét chút keo là dính lại được, nên mọi người cứ để nguyên thế thôi ạ."
 
-Nghĩa là mỗi lần nó rơi ra, bọn họ cũng làm y hệt những gì chúng tôi vừa định làm.
+Nghĩa là mỗi lần nó rơi ra, bọn họ cũng làm y hệt cách chúng tôi vừa tính làm.
 
-Lorraine rũ vai xuống. "Thế thì cháu phải nói sớm hơn chứ," cô càu nhàu.
+Lorraine buông thõng hai vai. "Thế thì cháu phải nói sớm hơn chứ," cô càu nhàu.
 
 ◆◇◆◇◆
 
 "Ngày xửa ngày xưa, có một người đàn ông."
 
-Cô bé mồ côi dẫn đường cho chúng tôi đến nhà nguyện bên trong cô nhi viện. Khi chúng tôi tới nơi, Alize đang mở một cuốn sách và dõng dạc đọc một câu chuyện cho lũ trẻ nhỏ nghe. Đó là một câu chuyện cổ tích vô cùng quen thuộc.
+Cô bé mồ côi dẫn hai đứa tôi vào nhà nguyện bên trong cô nhi viện. Đến nơi thì thấy Alize đang mở sách, dõng dạc kể chuyện cho lũ trẻ nhỏ nghe. Đó là một câu chuyện cổ tích quen thuộc.
 
-"‘Người Lữ Hành Hướng Tây’ sao? Hóa ra ở Yaaran người ta cũng kể câu chuyện đó nhỉ," Lorraine thì thầm, nhắc đến tựa đề của câu chuyện.
+"‘Người Lữ Hành Hướng Tây’ sao? Hóa ra ở Yaaran người ta cũng kể chuyện đó à," Lorraine thì thầm, nhắc tới tựa đề câu chuyện.
 
-Đó là một câu chuyện cổ tích nổi tiếng tại Vương Quốc Yaaran, cả người lớn lẫn trẻ nhỏ đều biết rõ. Tiền đề của câu chuyện rất đỗi đơn giản: một người lữ hành đi về phía tây và gặp gỡ đủ mọi kiểu người, giúp họ giải quyết các vấn đề khác nhau. Lý do vì sao anh ta lại đi về phía tây thì không ai rõ. Điểm bí ẩn đó càng trở nên phức tạp hơn bởi mỗi gia đình lại có một dị bản riêng. Tùy thuộc vào người kể mà lý do cho chuyến hành trình của anh ta lại khác nhau. Đôi khi những thay đổi ấy thể hiện truyền thống gia đình và chứa đựng vài yếu tố thú vị. Phần lớn thời gian, người lữ hành lên đường để tìm gặp bạn gái hoặc người vợ của mình. Những dị bản tương tự thì kể rằng anh ta đang trên chuyến hành trình đi gặp anh chị em, cha mẹ hoặc các thành viên khác trong gia đình.
+Đó là câu chuyện cổ tích nổi tiếng ở Vương Quốc Yaaran mà từ người lớn đến trẻ con đều biết. Cốt truyện rất đơn giản: một người lữ hành đi về phía tây, gặp đủ mọi hạng người và giúp họ giải quyết rắc rối. Chẳng ai rõ vì sao anh ta lại đi về phía tây. Đã vậy mỗi nhà lại có một dị bản riêng, thành thử tùy vào người kể mà lý do cho chuyến đi lại khác. Đôi khi những biến tấu ấy phản ánh nét riêng của từng gia đình và lồng ghép thêm vài chi tiết thú vị. Thường thì người lữ hành lên đường để gặp bạn gái hoặc vợ. Các bản tương tự thì kể anh ta đi gặp anh chị em, cha mẹ hay người thân trong nhà.
 
-Tôi tò mò không biết hồi nhỏ Lorraine đã nghe dị bản nào. "Lorraine, ở quê cô thì tại sao người lữ hành lại đi về phía tây?"
+Tôi tò mò không biết hồi nhỏ Lorraine nghe dị bản nào. "Lorraine này, ở chỗ cô thì vì sao người lữ hành lại đi về phía tây?"
 
-"Tôi ư? Với tôi thì anh ta muốn đi gặp Hiền Giả Toàn Tri. Một ngày nọ, người lữ hành nhận ra mình chẳng biết gì cả, thế là anh ta đi về phía tây. Theo câu chuyện tôi từng nghe thì đó là nơi sinh sống của một vị hiền giả nắm giữ câu trả lời cho mọi câu hỏi trên thế gian."
+"Tôi á? Chỗ tôi thì anh ta muốn đi gặp Hiền Giả Toàn Tri. Một ngày nọ, người lữ hành nhận ra mình chẳng biết gì cả, thế là lên đường về phía tây. Theo chuyện tôi nghe kể thì ở đó có một vị hiền giả biết câu trả lời cho mọi thắc mắc trên đời."
 
-Đó là một câu trả lời hoàn toàn có thể đoán trước đến từ Lorraine. Có lẽ chính câu chuyện ấy là lý do khiến cô lớn lên lại trở thành một người như thế này.
+Đúng là câu trả lời mang đậm phong cách Lorraine, chẳng lệch đi đâu được. Có khi chính câu chuyện ấy đã khiến cô lớn lên thành người như bây giờ.
 
-Biểu cảm trên mặt tôi chắc hẳn đã tố cáo những gì tôi đang nghĩ trong đầu. Cô bèn hỏi lại tôi câu tương tự. "Thế còn anh thì sao? Trong dị bản của anh thì tại sao người lữ hành lại đi về phía tây?"
+Chắc nét mặt tôi đã để lộ những gì mình đang nghĩ, nên cô hỏi ngược lại: "Thế còn anh thì sao? Bản anh nghe thì tại sao người lữ hành lại đi về phía tây?"
 
-"Ồ, ở quê tôi thì có lẽ hơi kỳ quặc một chút."
+"À, bản ở quê tôi nghe hơi lạ đời đấy."
 
-"Ý anh là sao?" Lorraine vẻ mặt tò mò.
+"Ý anh là sao?" Lorraine tò mò hỏi.
 
-"Không có gì đâu. Người lữ hành vốn chẳng có mục tiêu nào cả. Nói đúng hơn thì, anh ta đi về phía tây chỉ để tìm kiếm một mục tiêu. Anh ta nghĩ rằng biết đâu ở đó lại có thứ gì đó chăng."
+"Chẳng có gì ghê gớm cả. Người lữ hành vốn không có mục tiêu. Đúng hơn là anh ta đi về phía tây để tìm một mục tiêu. Anh ta nghĩ biết đâu ở đó lại có thứ gì đó."
 
-Lorraine cạn lời một thoáng. Một lát sau, cô gật đầu nói: "Bản thân chuyện đó nghe cũng thú vị đấy chứ. Quả là câu trả lời tôi mong đợi từ một mạo hiểm giả. Ra vậy, đó chính là kiểu câu chuyện nuôi dưỡng một người như anh lớn lên. Ngẫm lại cũng hợp lý thật."
+Lorraine nghẹn lời một thoáng. Một lát sau, cô gật gù bảo: "Nghe thế cũng hay đấy chứ. Đúng là câu trả lời hợp với một mạo hiểm giả. Ra vậy, một người như anh lớn lên từ câu chuyện như thế à. Hợp lý đấy."
 
-Lời đáp của cô rất có lý. Chỉ riêng những câu chuyện cổ tích thì chẳng thể nào định đoạt được lối đi trong cuộc đời một con người, nhưng tôi cho rằng chúng vẫn chiếm giữ một phần nào đó trong tâm trí ta. Đó là lý do vì sao người ta có thể thoáng thấy dấu ấn của chúng in hằn lên tính cách của mỗi người.
+Lời cô nói rất có lý. Chỉ riêng truyện cổ tích thì chẳng thể định đoạt lối đi trong đời một con người, nhưng tôi đồ rằng chúng vẫn nằm lại ở một góc nào đó trong tâm trí. Thế nên tính cách mỗi người mới phảng phất hơi hướng từ chúng.
 
-"Cô nghĩ Alize sẽ kể thế nào?" tôi thì thầm. Ý tôi muốn nói đến mục tiêu của người lữ hành.
+"Cô nghĩ Alize sẽ kể thế nào?" tôi thì thầm, ý muốn hỏi về mục tiêu của người lữ hành.
 
-Lorraine ngẫm nghĩ về câu hỏi. "Chà, Alize là con gái mà. Người lữ hành chắc hẳn sẽ lên đường đi tìm bạn gái thôi. Anh cũng biết kiểu đó rồi đấy."
+Lorraine ngẫm nghĩ một chút rồi bảo: "Chà, Alize là con gái mà. Chắc người lữ hành sẽ đi tìm bạn gái thôi. Mấy kiểu đó anh lạ gì nữa."
 
-Và để làm được điều đó, anh ta sẽ phải vượt qua muôn vàn thử thách xuyên suốt chuyến hành trình. Người lữ hành hầu hết đều là nam trong phần lớn các câu chuyện, nhưng vài dị bản táo bạo hơn cũng thay đổi cả yếu tố ấy. Vì lẽ đó, những câu chuyện mà người lữ hành muốn gặp nửa kia của mình có thể diễn biến theo hai hướng: hoặc là một lữ khách nam phải bươn chải vì bạn gái, hoặc một lữ khách nữ làm điều tương tự vì bạn trai. Cả hai đều là những mô típ quen thuộc rất được lòng các bé gái. Tuy nhiên, các bé trai lại chẳng mấy mặn mà với những dị bản kiểu này. Tình yêu có vẻ là thứ quá đỗi xa lạ với chúng ở độ tuổi đó. Về mặt này thì con gái trưởng thành sớm hơn. Người ta có thể nhận thấy sự khác biệt trong quá trình lớn lên của các bé trai và bé gái thông qua chính những câu chuyện kể ấy.
+Để làm được điều đó, anh ta sẽ phải vượt qua muôn vàn thử thách dọc chuyến hành trình. Đa số các bản kể thì người lữ hành là nam, nhưng vài nơi bạo dạn hơn còn đổi cả chi tiết này. Thành ra, những câu chuyện mà người lữ hành muốn gặp nửa kia có thể diễn biến theo hai hướng: hoặc lữ khách nam lặn lội vì bạn gái, hoặc lữ khách nữ làm điều tương tự vì bạn trai. Cả hai đều là mô típ rất được các bé gái ưa chuộng. Ngược lại, đám con trai lại chẳng mấy hứng thú với kiểu dị bản này. Ở tuổi đó, tình yêu dường như là thứ quá xa lạ với chúng. Về điểm này thì con gái chín chắn hơn hẳn. Qua chính những câu chuyện ấy, người ta có thể thấy rõ sự khác biệt trong quá trình khôn lớn giữa con trai và con gái.
 
-"Nhưng Alize trông chẳng giống kiểu người quá mê đắm chuyện tình yêu cho lắm," tôi ngẫm nghĩ.
+"Cơ mà Alize trông đâu có vẻ mê mấy chuyện yêu đương," tôi ngẫm nghĩ.
 
-"Anh nghĩ vậy sao?"
+"Anh nghĩ thế à?"
 
-"Kiểu như chuyện gì đến thì em ấy đón nhận vậy. Cảm giác như con bé luôn cố tỏ ra chững chạc hơn so với tuổi thật của mình."
+"Con bé hơi có nét chuyện đến đâu hay đến đó. Cảm giác như lúc nào em ấy cũng cố tỏ ra chững chạc hơn tuổi."
 
-Đánh giá của tôi đã thuyết phục được Lorraine. "Ồ, tôi hiểu ý anh rồi. Khi phải vất vả mưu sinh từ khi còn nhỏ, người ta thường có xu hướng trở thành một người thực tế. Ý anh bảo Alize là kiểu người như vậy chứ gì?"
+Lorraine nghe tôi nhận xét thì gật gù: "Ồ, tôi hiểu ý anh rồi. Phải vất vả từ bé thì người ta dễ thành kẻ thực tế. Ý anh Alize là kiểu đó chứ gì?"
 
-"Phải rồi, đúng thế đấy." Tôi vốn chẳng biết phải diễn đạt thành lời thế nào, nên cách miêu tả gãy gọn của Lorraine khiến tôi không khỏi ấn tượng. Tôi gật đầu đồng tình.
+"Phải, đúng thế đấy." Tôi vốn chẳng biết diễn đạt ra sao nên cách đúc kết gãy gọn của Lorraine làm tôi phục lăn. Tôi gật đầu tán thành.
 
-Thế nhưng Lorraine vẫn chưa chịu nhận thua. "Tuy nhiên, đó lại càng có thể là lý do để con bé ngóng đợi một bạch mã hoàng tử đấy chứ," cô nói.
+Nhưng Lorraine vẫn chưa chịu nhận thua. "Cơ mà thế lại càng có lý do để con bé ngóng đợi một chàng kỵ sĩ giáp bạc đến đón đấy chứ," cô nói.
 
-Tôi chẳng thể nói là cô sai được. Nhưng chỉ có một cách duy nhất để biết rõ.
+Tôi chẳng thể bảo cô sai. Nhưng muốn biết thì chỉ có một cách.
 
-"Nghe câu chuyện của em ấy là biết ngay thôi. Chúng ta cứ ngồi xuống lắng nghe một lát đi."
+"Cứ nghe chuyện con bé kể là biết ngay. Ngồi xuống nghe một lát đi."
 
-Hai đứa tôi rón rén bước vào nhà nguyện rồi ngồi xuống cạnh bờ tường. Cả Lorraine lẫn tôi đều dạn dày kinh nghiệm làm mạo hiểm giả, nên việc tránh né sự chú ý của lũ trẻ mồ côi chỉ là chuyện dễ như trở bàn tay. Alize hoàn toàn không nhận ra sự hiện diện của chúng tôi khi vẫn tiếp tục đọc sách.
+Hai đứa tôi rón rén bước vào nhà nguyện, ngồi nép cạnh tường. Cả Lorraine lẫn tôi đều dày dạn kinh nghiệm làm mạo hiểm giả, nên giấu mình trước lũ trẻ mồ côi dễ như trở bàn tay. Alize chẳng hề để ý thấy hai đứa mà vẫn tiếp tục đọc.
 
-"Cuộc sống của người đàn ông cứ thế tiếp diễn cho đến khi một ý nghĩ nảy ra trong đầu: chàng có thể dấn thân vào một chuyến hành trình đi về phía tây." Con bé vẫn đang ở phần mở đầu của câu chuyện.
+"Cuộc sống của người đàn ông cứ thế êm đềm trôi qua, cho đến một ngày nọ anh nảy ra ý nghĩ: mình có thể làm một chuyến đi về phía tây." Con bé vẫn đang ở đoạn mở đầu câu chuyện.
 
-Alize khẽ dừng lại để lấy hơi.
+Alize dừng lại lấy hơi một nhịp.
 
-"Sao chú ấy lại muốn đi ạ?" một cậu bé cất tiếng hỏi chen vào. Có lẽ cậu nhóc đã từng nghe những dị bản khác, hoặc có thể chỉ đơn thuần là tò mò mà thôi.
+"Sao chú ấy lại muốn đi thế ạ?" một cậu bé chen ngang. Chắc cu cậu từng nghe bản khác rồi, hoặc chỉ đơn thuần là tò mò thôi.
 
-Câu hỏi này sẽ định đoạt hướng đi của toàn bộ câu chuyện.
+Câu hỏi này sẽ quyết định ngã rẽ của câu chuyện.
 
-Alize đáp lại thắc mắc của cậu bé: "Bởi vì chú ấy là một đầu bếp. Thế nên chú ấy mới đi về phía tây để tìm kiếm những nguyên liệu và công thức nấu ăn mới. Các vùng đất ở phương tây có nền văn hóa phát triển vượt bậc lắm đấy."
+Alize giải đáp thắc mắc cho thằng bé: "Vì chú ấy là đầu bếp. Thế nên chú ấy mới đi về phía tây tìm kiếm nguyên liệu và công thức nấu nướng mới. Các xứ bên mạn tây có nền văn hóa phát triển lắm đấy."
 
-Anh ta bị thúc đẩy bởi thèm ăn hơn là sắc dục. Nghe có đôi chút hụt hẫng, nhưng dự đoán của tôi xem ra đã trúng phóc. Tính thực tế đã khiến em ấy chọn đồ ăn thay vì tình yêu.
+Hóa ra anh ta bị cái miệng sai khiến chứ chẳng phải con tim. Nghe thì hơi hụt hẫng thật, nhưng dự đoán của tôi trúng phóc rồi còn gì. Tính thực tế đã làm con bé chọn cái ăn thay vì tình yêu.
 
-"Chắc lần này tôi thua rồi. Dù đây chẳng phải là một cuộc thi thố gì," Lorraine nhận xét, nhưng trông cô có vẻ bực bội. Ngược lại, tôi nở một nụ cười đắc thắng về phía cô. Lorraine nghiến răng ken két.
+"Chắc phen này tôi thua rồi. Dù hai đứa có thi thố gì đâu," Lorraine buông một câu, vẻ mặt đầy bực bội. Tôi thì lại nhếch mép cười đắc thắng nhìn cô. Lorraine nghiến răng tức tối.
 
-Vẫn không hề hay biết về sự hiện diện của chúng tôi, Alize tiếp tục đọc.
+Hoàn toàn không biết có hai đứa tôi ở đó, Alize đọc tiếp.
 
 ◆◇◆◇◆
 
-Lộ trình của người đàn ông chẳng hề bằng phẳng. Muôn vàn gian nan trắc trở đã ập đến với chàng.
+Con đường người đàn ông đi chẳng hề êm thấm, biết bao gian nan trắc trở bủa vây lấy anh.
 
-Trên đường đi về phía tây, có một thứ gì đó chắn ngay giữa lối đi. Bị kích thích bởi sự tò mò, người đàn ông bèn tiến lại gần. Những gì chàng nhìn thấy khiến chàng không khỏi ngạc nhiên. Đó là một con quái vật mắt đỏ.
+Trên đường về phía tây, có một thứ chắn ngay giữa lối. Tò mò, người đàn ông bước lại gần. Cảnh tượng trước mắt làm anh giật mình: đó là một con quái vật mắt đỏ ngầu.
 
-Con quái vật cất tiếng: "Nếu muốn đi qua, ngươi phải để lại thứ mà ngươi trân quý nhất."
+Con quái vật gằn giọng: "Muốn qua đây, ngươi phải để lại thứ mình quý nhất."
 
-Người đàn ông bối rối, nhưng chàng vẫn rút ra một con dao làm bếp rồi đưa cho nó.
+Người đàn ông tuy bối rối nhưng vẫn rút con dao bếp ra đưa cho nó.
 
 "Cái gì đây?"
 
-"Ta là một đầu bếp. Nấu nướng thì cần phải có dao bếp. Đã như vậy thì chẳng có thứ gì quan trọng với ta hơn món này cả."
+"Tôi là đầu bếp. Nấu ăn thì phải có dao bếp. Thế nên chẳng có thứ gì quan trọng với tôi hơn món này cả."
 
-Con quái vật lúng túng hoang mang: "Ta chẳng có lý do gì để nhận thứ này cả. Cầm lại đi. Ngươi có thể đi qua."
+Con quái vật ngớ người: "Ta chẳng có lý do gì để nhận thứ này cả. Cầm lại đi. Ngươi được qua."
 
-Người đàn ông gật đầu rồi vội vã tiếp tục lên đường.
+Người đàn ông gật đầu rồi rảo bước đi tiếp.
 
 ◆◇◆◇◆
 
-"Một con dao làm bếp sao? Chà, tôi hiểu mà. Không có dao thì nấu nướng thế nào được."
+"Dao làm bếp à? Mà kể cũng phải, không có dao thì nấu nướng sao được."
 
-Tôi gật đầu, nhưng Lorraine thì lại không nghĩ vậy. "Nếu anh dùng tay xé nhỏ vài cọng rau rồi ném vào chảo xào thì món ăn vẫn ngon lành như thường thôi. Người lữ hành đã rất khôn khéo khi vượt qua chuyện đó đấy chứ." Cô chỉ ra mức độ ranh mãnh đáng ngạc nhiên của anh ta.
+Tôi gật gù, nhưng Lorraine lại không nghĩ thế. "Nếu lấy tay xé rau rồi ném vào chảo xào thì vẫn ra món ngon lành như thường thôi. Người lữ hành này khôn lỏi phết mới qua mặt được nó đấy chứ." Cô chỉ ra sự lém lỉnh đến bất ngờ của anh ta.
 
-Tôi đành phải thừa nhận là cô có lý. Nhưng giờ nghĩ lại thì đầu óc của con quái vật dường như có chút kém cỏi. Dù sao cũng chỉ là truyện cổ tích, có lẽ tôi đã suy nghĩ quá nhiều rồi.
+Tôi đành phải thừa nhận cô có lý. Nhưng thế thì con quái vật xem chừng hơi thiếu não. Mà thôi, dù sao cũng chỉ là truyện cổ tích, có khi tôi nghĩ nhiều quá rồi.
 
 Alize đọc tiếp.
 
 ◆◇◆◇◆
 
-Người đàn ông tiếp tục cất bước cho đến khi đi tới điểm cuối của con đường. Vùng đất trải dài phía trước trông như một hoang mạc vô tận. Quái vật rình rập khắp vùng hiểm địa ấy, nên đó hoàn toàn không phải nơi con người có thể đặt chân tới. Người đàn ông nhớ lại rằng trước khi lên đường, người dân làng chỉ đường cho chàng cũng từng nói như vậy. Nhưng người đàn ông đã có mục tiêu của mình. Chàng phải đi về phía tây để tìm kiếm những nguyên liệu và công thức nấu ăn mới. Chẳng còn con đường nào khác.
+Người đàn ông cứ thế đi mãi cho tới khi con đường chấm dứt. Phía trước là vùng đất hoang vu trải dài ngút tầm mắt. Quái vật rình rập khắp vùng đất hiểm trở ấy, con người tuyệt đối không nên đặt chân vào. Người đàn ông nhớ lại lời người dân làng chỉ đường trước chuyến đi từng dặn y như vậy. Nhưng anh đã có mục tiêu. Anh phải về phía tây tìm kiếm nguyên liệu và công thức nấu nướng mới. Không còn con đường nào khác.
 
-Với lòng quyết tâm, người đàn ông dấn bước. Chàng băng qua vùng đất cằn cỗi lâu đến mức quên bẵng cả thời gian. Rốt cuộc, chàng cũng bắt gặp một thứ gì đó. Đó là gì vậy? Tò mò, người đàn ông tiến lại gần và nhìn thấy một hình bóng hoàn toàn lạc lõng với cảnh vật xung quanh. Đó là một người phụ nữ vận y phục trắng muốt.
+Hạ quyết tâm, người đàn ông cất bước. Anh băng qua vùng đất cằn cỗi lâu đến mức quên cả thời gian. Rốt cuộc, anh cũng bắt gặp một thứ gì đó. Đó là gì vậy? Tò mò, người đàn ông tiến lại gần và nhìn thấy một hình bóng hoàn toàn lạc lõng với cảnh vật xung quanh. Đó là một người phụ nữ mặc bộ đồ trắng toát.
 
-Người phụ nữ cất tiếng nói với người đàn ông: "Nếu chàng quay đầu lại ngay lúc này, chàng vẫn có thể trở về nhà bình an. Cứ đi thẳng theo hướng đó nếu chàng muốn quay về nơi mình đã xuất phát. Nhưng nếu cứ tiếp tục tiến bước về phía trước, chàng có thể sẽ mất mạng đấy."
+Người phụ nữ cất tiếng nói với người đàn ông: "Nếu quay đầu lại lúc này, ngươi vẫn có thể về nhà bình an. Cứ đi thẳng theo hướng đó nếu muốn trở về nơi mình xuất phát. Nhưng nếu tiếp tục tiến lên, ngươi có thể mất mạng đấy."
 
-Chàng không rõ làm sao người phụ nữ lại biết được điều đó. Nhưng người đàn ông đã có mục tiêu của mình. Chàng phải đi về phía tây để tìm kiếm những nguyên liệu và công thức nấu ăn mới. Không một mối đe dọa nào đến tính mạng có thể chấm dứt chuyến hành trình của chàng.
+Anh không rõ sao người phụ nữ lại biết chuyện đó. Nhưng người đàn ông đã có mục tiêu. Anh phải về phía tây tìm kiếm nguyên liệu và công thức nấu nướng mới. Chẳng mối đe dọa tính mạng nào ngăn nổi bước chân anh.
 
-Người đàn ông đáp lời người phụ nữ: "Dù thế nào ta cũng sẽ đi về phía tây. Ta đã hạ quyết tâm rồi," chàng tuyên bố.
+Người đàn ông đáp lại: "Dù thế nào tôi cũng sẽ đi về phía tây. Tôi đã quyết rồi."
 
-Người phụ nữ tỏ vẻ thất vọng: "Tại sao chứ? Chẳng có thứ gì quan trọng hơn mạng sống của chàng cả. Chàng đi về phía tây rốt cuộc là vì điều gì?"
+Người phụ nữ tỏ vẻ thất vọng: "Tại sao chứ? Chẳng thứ gì quan trọng hơn mạng sống của ngươi cả. Rốt cuộc ngươi về phía tây vì điều gì?"
 
-"Phương tây sẽ có những nguyên liệu và công thức nấu ăn mới. Ta là một đầu bếp. Ta muốn đem lại hạnh phúc cho mọi người. Đó là điều mà ta sẵn sàng liều mạng để thực hiện."
+"Phía tây sẽ có những nguyên liệu và công thức nấu nướng mới. Tôi là đầu bếp. Tôi muốn đem lại niềm vui cho mọi người. Đó là điều tôi sẵn sàng liều mạng để làm."
 
-Người phụ nữ trầm ngâm trong giây lát, rồi phất tay một cái. Một gian bếp cùng đầy ắp nguyên liệu lập tức hiện ra giữa chốn hoang mạc trống trải. Nàng nhìn người đàn ông đang sững sờ với một nụ cười mơ hồ: "Nếu chàng thực lòng nghĩ như vậy, hãy chiêu đãi ta một bữa do chính tay chàng nấu xem sao. Hãy chứng minh bản thân nếu chàng muốn đi qua."
+Người phụ nữ ngẫm nghĩ một thoáng rồi phẩy tay. Giữa bãi hoang mạc trống trải bỗng hiện ra một gian bếp cùng đầy đủ nguyên liệu. Người phụ nữ mỉm cười đầy ẩn ý nhìn người đàn ông đang sững sờ: "Nếu ngươi thực bụng nghĩ vậy thì hãy nấu cho ta ăn xem nào. Muốn qua đây thì chứng minh đi."
 
-Người đàn ông hoàn toàn không hiểu nổi vì sao người phụ nữ lại đưa ra yêu cầu này. Nhưng với tư cách là một đầu bếp, chàng không thể từ chối một lời thỉnh cầu được thưởng thức món ăn. Hơn nữa, chuyến hành trình đã kéo dài quá lâu khiến chàng đã lâu lắm rồi chưa được chạm tay vào một gian bếp. Người đàn ông vui vẻ bắt tay vào nấu nướng.
+Người đàn ông chẳng hiểu nổi vì sao người phụ nữ lại đòi hỏi thế. Nhưng đã là đầu bếp, anh không thể chối từ một người muốn thưởng thức món ăn. Vả lại đi đường ròng rã bấy lâu, đã lâu lắm rồi anh chưa được đụng vào bếp núc. Người đàn ông liền vui vẻ bắt tay vào nấu nướng.
 
-Một lát sau, sau khi một chiếc bàn bất thình lình xuất hiện từ hư không trước mặt người phụ nữ, chàng bày biện la liệt các món ăn lên đó. "Chúc ngon miệng."
+Lát sau, một chiếc bàn bỗng dưng xuất hiện trước mặt người phụ nữ, anh liền bày biện thịnh soạn đủ thứ món ăn lên đó. "Mời dùng bữa."
 
-Người phụ nữ gật đầu trước lời mời của người đàn ông rồi bắt đầu ăn. Ban đầu nàng chỉ khẽ nhấm nháp từng chút, nhưng sau đó nàng ăn mỗi lúc một nhanh hơn cho đến khi mọi đĩa thức ăn đều được quét sạch sành sanh.
+Người phụ nữ gật đầu trước lời mời của người đàn ông rồi bắt đầu ăn. Ban đầu người phụ nữ chỉ nhấm nháp từng chút, nhưng rồi ăn càng lúc càng nhanh cho tới khi đĩa nào đĩa nấy đều sạch trơn.
 
-Hài lòng, người phụ nữ cất lời với người đàn ông: "Hóa ra chàng đúng thật là một đầu bếp. Nếu đặt chân được tới phương tây, ta tin chắc chàng sẽ học được cách nấu những món ăn còn ngon lành hơn gấp bội. Hãy để ta ban tặng cho chàng lời chúc phúc của ta."
+Thỏa mãn, người phụ nữ nói với người đàn ông: "Hóa ra ngươi đúng là đầu bếp thật. Nếu tới được phương tây, ta tin chắc ngươi sẽ học được cách nấu những món còn ngon lành hơn gấp bội. Để ta ban cho ngươi lời chúc phúc."
 
-Khi nàng vung tay áo lên, toàn thân người đàn ông phát ra ánh sáng lấp lánh. Cơ thể chàng cảm thấy nhẹ nhõm hơn hẳn. Giờ đây chàng nghĩ mình có thể dễ dàng đi tới phương tây.
+Người phụ nữ phẩy tay, toàn thân người đàn ông liền phát ra ánh sáng lấp lánh. Người anh nhẹ bẫng đi. Lúc này anh ngỡ mình có thể thong dong bước tới phương tây một cách dễ dàng.
 
-Người phụ nữ nói tiếp: "Ta sẽ đi theo hầu hạ chàng," nàng cất lời rồi nhắm mắt lại. Trong khoảnh khắc tiếp theo mà người đàn ông kịp nhận ra, nàng đã phân tách thành bốn người phụ nữ. Người thứ nhất mang một nụ cười u ám. Người thứ hai mang một nụ cười thanh thản. Người thứ ba là một cô bé gái, và nụ cười của em hoàn toàn phù hợp với lứa tuổi của mình. Người thứ tư mang một nụ cười toát lên vẻ quyến rũ mê hồn.
+Người phụ nữ nói tiếp: "Ta sẽ theo hỗ trợ ngươi." Nói rồi người phụ nữ nhắm mắt lại. Chưa kịp định thần, anh đã thấy đối phương tách làm bốn người phụ nữ. Người thứ nhất nở nụ cười u ám. Người thứ hai mang nụ cười thanh thản. Người thứ ba là một bé gái với nụ cười hồn nhiên đúng lứa tuổi. Người thứ tư có nụ cười toát lên vẻ quyến rũ mê hồn.
 
-Bốn người phụ nữ đồng thanh cất tiếng: "Cô bé này sẽ đi cùng chàng. Chúng ta cầu chúc chuyến hành trình của chàng sẽ thành công tốt đẹp." Nói đoạn, ba người phụ nữ lớn tuổi hơn để lại cô bé nhỏ tuổi nhất rồi biến mất về một nơi nào đó không ai hay biết.
+Họ đồng thanh cất tiếng: "Cô bé này sẽ đi cùng ngươi. Chúng ta chúc chuyến đi của ngươi thành công tốt đẹp." Dứt lời, ba người lớn bỏ lại bé gái nhỏ nhất rồi biến mất không tăm tích.
 
-Cô bé cúi đầu chào và nói: "Rất vui được gặp chàng."
+Cô bé cúi đầu cất tiếng: "Rất vui được gặp anh."
 
-Người đàn ông cũng làm điều tương tự. Rồi chuyến hành trình của cặp đôi kỳ quặc chính thức bắt đầu.
+Người đàn ông cũng đáp lễ. Vậy là chuyến hành trình của cặp đôi kỳ quặc chính thức bắt đầu.
 
 ◆◇◆◇◆
 
-"Có bao giờ cô thắc mắc ba người phụ nữ kia đã biến đi đâu không?" tôi quay sang hỏi Lorraine.
+"Cô có bao giờ thắc mắc ba người phụ nữ kia biến đi đâu không?" tôi hỏi Lorraine.
 
-Trong mọi dị bản về người lữ hành, phần này của câu chuyện luôn giữ nguyên không đổi. Thế nhưng những người phụ nữ kia chẳng bao giờ xuất hiện thêm một lần nào nữa sau phân đoạn này. Tôi luôn cảm thấy chuyện đó thật kỳ lạ.
+Trong mọi dị bản về người lữ hành, đoạn này luôn giữ nguyên không đổi. Thế nhưng ba người phụ nữ kia lại chẳng bao giờ xuất hiện nữa sau cảnh đó. Tôi vẫn luôn thấy chuyện ấy thật kỳ lạ.
 
-Lorraine đưa ra quan điểm của mình: "Truyện cổ tích thường lồng ghép rất nhiều hình ảnh ẩn dụ. Người phụ nữ đó có lẽ muốn giúp đỡ người đàn ông bằng lòng tốt, đúng chứ? Chi tiết này hẳn là để thể hiện điều đó hoặc đại loại thế. Ba người phụ nữ còn lại nhiều khả năng tượng trưng cho những khía cạnh khác của bản tính con người. Một trong số họ trông có vẻ chứa đầy ác ý, anh không thấy vậy sao? Ngay cả những người mang ý tốt nhất cũng có bóng tối trong lòng mà thôi. Nhưng ‘Người Lữ Hành Hướng Tây’ có rất nhiều cách diễn giải. Tôi không phải chuyên gia, nên nếu có hứng thú thì anh cứ tìm một cuốn sách về chủ đề đó mà đọc." Cô suy ngẫm về câu hỏi ở một chừng mực nhất định, nhưng cuối cùng đành giơ cờ trắng đầu hàng.
+Lorraine nêu ý kiến: "Truyện cổ tích thường chứa đựng rất nhiều ẩn dụ. Người phụ nữ đó có lẽ muốn giúp đỡ người đàn ông bằng thiện chí, đúng không? Chi tiết này hẳn là để diễn tả điều đó. Ba người phụ nữ còn lại chắc tượng trưng cho những mặt khác trong bản tính con người. Một người trông như chứa đầy dã tâm, anh không thấy thế à? Đến cả kẻ mang ý tốt nhất thì tận sâu trong lòng vẫn có góc tối đấy thôi. Nhưng ‘Người Lữ Hành Hướng Tây’ có vô số cách hiểu. Tôi chẳng phải chuyên gia nên nếu thích anh cứ tìm sách chuyên môn mà đọc." Cô ngẫm nghĩ một hồi nhưng rốt cuộc đành chịu thua.
 
-Tôi nghĩ cách nhìn nhận của cô có phần kỳ quặc, nhưng tôi vẫn có thể hiểu được ý cô muốn nói gì.
+Tôi thấy cách nhìn của cô hơi kỳ quặc, nhưng cũng hiểu được ý cô.
 
-Alize vẫn tiếp tục đọc.
+Alize đọc tiếp.
 
-Người lữ hành tiếp tục gặp gỡ và trò chuyện với nhiều người, giải các câu đố và vượt qua muôn vàn thử thách cho đến khi đặt chân tới phương tây. Chàng đã có được những nguyên liệu cùng công thức nấu ăn hằng tìm kiếm, vận dụng tài năng của mình để biến những công thức ấy thành những món ăn tuyệt hảo hơn nữa, rồi dần dần trở nên nổi danh theo năm tháng. Vô số đầu bếp đã quy tụ về bên người đàn ông. Được tôn lên làm vua nhờ những thành tựu của mình, người đàn ông giành được lãnh thổ và lập nên vương quốc của riêng mình. Được biết đến với danh xưng Vua Đầu Bếp, chàng sống hạnh phúc mãi mãi về sau.
+Người lữ hành tiếp tục gặp gỡ, trò chuyện với biết bao người, giải các câu đố và vượt qua vô vàn thử thách cho tới khi đặt chân đến phương tây. Anh kiếm được những nguyên liệu cùng công thức nấu nướng hằng tìm kiếm, vận dụng tài năng để nâng tầm chúng thành những món ăn tuyệt hảo hơn nữa, rồi dần dà vang danh thiên hạ. Vô số đầu bếp tìm đến quy tụ quanh anh. Nhờ những thành tựu ấy, anh được tôn lên làm vua, gây dựng lãnh thổ và lập nên đất nước của riêng mình. Mang danh xưng Vua Đầu Bếp, anh sống hạnh phúc mãi mãi về sau.
 
-"Hết rồi ạ," Alize cất lời khi khép cuốn sách lại.
+"Hết chuyện rồi ạ," Alize gấp sách lại.
 
-Nghe như con bé đã đọc xong. Nhưng dường như có gì đó sai sai.
+Có vẻ con bé đã đọc xong, nhưng tôi thấy có gì đó khang khác.
 
-"Chỉ có thế thôi ư?" tôi hỏi.
+"Chỉ thế thôi á?" tôi hỏi.
 
-Lorraine trả lời: "Ừ. ‘Người Lữ Hành Hướng Tây’ luôn kết thúc khi anh ta lập quốc. Vài tình tiết có thể thay đổi, nhưng cái kết thì không."
+Lorraine đáp: "Ừ. ‘Người Lữ Hành Hướng Tây’ luôn kết thúc lúc anh ta lập quốc mà. Các tình tiết có thể đổi khác, nhưng cái kết thì không bao giờ."
 
-"Ra vậy." Tôi gật đầu nhưng lòng vẫn đầy bối rối. Câu chuyện tôi từng nghe hồi nhỏ còn tiếp diễn cho đến tận lúc đất nước sụp đổ tan tành.
+"Ra vậy." Tôi gật gù nhưng bụng vẫn thắc mắc. Câu chuyện tôi nghe hồi nhỏ còn kéo dài cho tới tận lúc đất nước sụp đổ cơ mà.
 
-Chẳng hạn, nếu người lữ hành là một đầu bếp, một khi đã tinh thông nghệ thuật nấu nướng, người đàn ông sẽ chiêu mộ các đầu bếp từ khắp nơi trên thế giới để xây dựng nên một quốc gia dựa trên ẩm thực. Điều này đã chuốc lấy sự phẫn nộ từ các nước khác. Lòng ghen tị trước tài năng nấu nướng của đất nước người đàn ông đã thôi thúc họ đem quân tấn công hòng chiếm đoạt nó cho riêng mình.
+Chẳng hạn nếu người lữ hành là đầu bếp, một khi đã tinh thông nghề nấu nướng, anh ta sẽ quy tụ đầu bếp từ khắp nơi trên thế giới để dựng nên một quốc gia ẩm thực. Việc đó chuốc lấy sự thù địch từ các nước lân cận. Lòng ghen ghét trước tài năng nấu nướng của đất nước anh đã thúc đẩy họ cất quân tấn công hòng cướp đoạt về cho mình.
 
-Người đàn ông không hề muốn chiến đấu, nhưng chàng chẳng có sự lựa chọn nào khác. Cuối cùng, đất nước của người đàn ông bị tàn phá nặng nề, và các quốc gia khác cũng kiệt quệ sức tàn. Giấc mơ đem lại hạnh phúc cho mọi người thông qua nấu nướng của người đàn ông đã kết thúc trong thất bại. Chìm trong tuyệt vọng, chàng rời khỏi đất nước và biến mất đến một miền đất vô danh.
+Người đàn ông không muốn chiến tranh nhưng chẳng còn cách nào khác. Rốt cuộc, đất nước của anh bị tàn phá nặng nề, các quốc gia kia cũng kiệt quệ tiêu điều. Ước mơ đem lại niềm vui cho mọi người qua món ăn tan thành mây khói. Tuyệt vọng, anh rời bỏ quê hương rồi biến mất đến một miền đất không ai hay biết.
 
-Chính sức mạnh của người đàn ông đã gầy dựng nên đất nước ấy. Giờ đây khi chàng đã ra đi, cuộc tranh giành quyền kiểm soát quốc gia khiến bọn họ ngày càng kiệt quệ hơn, cho đến khi bị nuốt chửng trong những làn sóng của lịch sử. Theo thời gian, ngay cả tên gọi của đất nước cũng bị người đời lãng quên. Đó mới chính là cách mà câu chuyện khép lại.
+Chính sức mạnh của người đàn ông đã gầy dựng nên đất nước ấy. Giờ anh đã ra đi, cuộc tranh giành quyền lực khiến đất nước ngày một suy tàn, cho tới khi bị sóng cuộn lịch sử vùi lấp. Năm tháng trôi qua, ngay cả cái tên của quốc gia ấy cũng chìm vào quên lãng. Bản tôi nghe kết thúc như thế đấy.
 
-"Chẳng lẽ cha mẹ mình đã tự bịa ra toàn bộ chuyện đó sao?" Đó là một cái kết đầy bi kịch cho câu chuyện, nhưng tôi cho rằng nó lại thực tế hơn nhiều. Dẫu vậy, vẫn có điều gì đó khiến tôi bận lòng.
+"Chẳng lẽ cha mẹ mình tự bịa ra toàn bộ chuyện đó sao?" Cái kết nghe bi kịch thật, nhưng tôi lại thấy thực tế hơn nhiều. Dẫu vậy, trong lòng tôi vẫn gợn lên chút băn khoăn.
 
-"Anh vừa lầm bầm gì đấy à?" Lorraine hỏi.
+"Anh vừa nói gì đấy à?" Lorraine hỏi.
 
-"Không, có gì đâu. Dù sao thì, chúng ta qua nói chuyện với Alize đi."
+"Không, chẳng có gì đâu. Thôi, mình qua nói chuyện với Alize đi."
 
-Hai chúng tôi đứng dậy rồi rảo bước về phía cô bé.
+Hai đứa tôi đứng dậy, bước về phía con bé.
