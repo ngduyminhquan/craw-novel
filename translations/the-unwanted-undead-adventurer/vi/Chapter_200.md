@@ -1,46 +1,46 @@
 # Chương 200: Tập 9 Chương 1 - Đánh Giá Năng Lực (2)
 
-"Tôi rất muốn hỏi thêm về Ma Cà Rồng cùng tập tính của chúng," Lorraine nói, "nhưng chắc để sau cũng được. Dù sao thì cứ coi như sự bình thản của Rina là nhờ tác động khi hóa Ma Cà Rồng kết hợp với việc cô ấy đã quen thấy người biến thành quái vật đi. Thật may là cô ấy không phải kiểu người hoảng loạn đến mất trí."
+"Tôi rất muốn hỏi thêm về Ma Cà Rồng cùng tập tính của chúng," Lorraine nói, "nhưng chắc để sau cũng được. Dù sao thì có thể yên tâm cho rằng thái độ bình thản của Rina bắt nguồn từ cả tác động khi hóa Ma Cà Rồng lẫn việc cô ấy đã quen với người biến thành quái vật. Thật may là cô ấy không phải kiểu người hoảng loạn đến mất trí."
 
 Rina nghiêng đầu. "Nếu tôi hoảng loạn thì chị sẽ làm gì?"
 
-"Nếu cô chịu lắng nghe, tôi sẽ ngồi nói chuyện cho tới khi cô hiểu ra. Đột nhiên biến thành Ma Cà Rồng thì có hoảng hốt hay bối rối một chút cũng là chuyện thường. Nhưng nếu trông cô có vẻ sắp sửa đi lu loa rằng mình đã biến thành Ma Cà Rồng..."
+"Nếu cô chịu nghe lý lẽ, tôi sẽ ngồi xuống nói chuyện cho tới khi cô hiểu ra. Đột nhiên biến thành Ma Cà Rồng thì có hoảng hốt hay bối rối một chút cũng là chuyện tự nhiên. Nhưng nếu trông cô có vẻ sắp đi rêu rao rằng mình đã biến thành Ma Cà Rồng..."
 
 "Thế nếu tôi làm vậy thì sao?"
 
-"Có khi tôi đành phải trừ khử cô. Lúc đó cô sẽ trở thành mối đe dọa. Tôi chẳng còn cách nào khác."
+"Có lẽ tôi sẽ phải trừ khử cô. Lúc đó cô sẽ trở thành mối đe dọa. Tôi chẳng còn lựa chọn nào khác."
 
-Lorraine nói câu ấy rất đỗi thản nhiên, như thể đang nói một điều hiển nhiên. Điều đó càng khiến lời cô ấy nói làm người ta rợn gáy. Không phải cô ấy vô tình vô cảm. Chỉ là cô ấy luôn dùng lý trí để ghìm lại cảm xúc. Nếu chỉ có hai lựa chọn, cô ấy sẽ lập tức chọn điều quan trọng hơn và dứt khoát bỏ bên còn lại.
+Lorraine nói câu ấy hết sức bình thản, như thể chỉ đang nêu ra một điều hiển nhiên. Chính thái độ đó càng khiến lời cô ấy nói làm người ta rợn gáy. Không phải cô ấy vô tình vô cảm, chỉ là cô ấy luôn dùng lý trí để kìm nén cảm xúc. Nếu chỉ có hai lựa chọn, cô ấy sẽ lập tức chọn kết quả quan trọng hơn và dứt khoát gạt bỏ phương án còn lại.
 
-Trong trường hợp này, đó sẽ là lựa chọn giữa Rina và tôi. Không phải cô ấy coi Rina là một gánh nặng phiền toái, nhưng nếu chẳng còn lựa chọn nào khác, cô ấy sẽ trừ khử Rina.
+Trong trường hợp này, đó sẽ là lựa chọn giữa Rina và tôi. Không phải cô ấy coi Rina là kẻ phiền toái, nhưng nếu chẳng còn lựa chọn nào khác, cô ấy sẽ trừ khử Rina.
 
-Tôi thực sự mừng vì Rina là một người tích cực đến vậy. Khi nghĩ kỹ lại, phần lớn mọi người sẽ phản ứng tiêu cực hơn một chút trước những lời của Lorraine. Tuy nhiên, cách cảm nhận của Rina lại có đôi chút khác biệt so với người thường. Có lẽ do sau khi hóa Ma Cà Rồng, cảm xúc của cô ấy giờ đây đã trầm lại đôi chút.
+Tôi thực sự mừng vì Rina là người suy nghĩ tích cực đến vậy. Ngẫm kỹ lại thì hầu hết mọi người hẳn sẽ phản ứng tiêu cực hơn một chút trước những lời của Lorraine. Có điều, cách cảm nhận của Rina hơi khác người thường. Có lẽ là vì sau khi thành Ma Cà Rồng, cảm xúc của cô ấy đã lắng xuống đôi chút.
 
-Bằng giọng hết sức bình thản, Rina bảo: "Tôi hiểu rồi. Nhưng liệu có ai lại làm thế thật không chứ? Ý tôi là, nếu cứ đi bô bô khắp nơi rằng mình đã biến thành Ma Cà Rồng thì kiểu gì cũng bị tống giam hoặc tệ hơn, đúng không? Tôi chưa muốn chết sớm đâu. Dù chắc cũng chẳng rõ Ma Cà Rồng thì tính là còn sống hay đã chết nữa."
+Bằng giọng hết sức điềm tĩnh, Rina nói: "Tôi hiểu rồi. Nhưng liệu có ai lại làm thế thật không chứ? Ý tôi là, nếu cứ chạy khắp nơi la lối rằng mình đã biến thành Ma Cà Rồng thì kiểu gì cũng bị tống giam hoặc tệ hơn, đúng không? Tôi chưa vội chết đâu. Dù rằng cũng chẳng rõ Ma Cà Rồng thì tính là còn sống hay đã chết nữa."
 
-"Cũng đúng," Lorraine đồng tình. "Nhưng có những người suy nghĩ đơn giản, cứ thế chạy ngay tới Giáo Hội để cầu cứu vì nghĩ rằng họ có thể làm được điều gì đó cho mình. Tôi đâu thể gạt phắt khả năng đó đi được."
+"Cũng đúng," Lorraine đồng tình. "Nhưng có những người không suy nghĩ sâu xa mà chạy ngay tới nhà thờ cầu cứu, vì nghĩ rằng ở đó có thể làm được gì đó cho mình. Tôi đâu thể gạt phắt khả năng đó đi được."
 
 "À. Đúng thật. Chuyện đó cũng dễ xảy ra lắm."
 
-Phần lớn mọi người hẳn sẽ nghĩ Giáo Hội có thể cứu chữa cho mình nếu chẳng may biến thành Undead. Đó là vì mọi tổ chức tôn giáo đều coi Undead là những sinh vật ô uế hoặc nhơ bẩn. Chính vì thế mà họ tập hợp rất nhiều tư tế và Thánh Giả có khả năng sử dụng Thần Lực. Một người lỡ hóa Undead đương nhiên sẽ bấu víu vào tia hy vọng rằng thứ sức mạnh ấy có thể chữa lành cho mình.
+Phần lớn mọi người hẳn sẽ nghĩ nhà thờ có thể cứu chữa cho mình nếu chẳng may biến thành Undead. Đó là vì mọi tổ chức tôn giáo đều coi Undead là những sinh vật ô uế hoặc nhơ bẩn. Chính vì thế mà họ tập hợp rất nhiều tư tế và Thánh Giả có khả năng sử dụng Thần Lực. Một người lỡ hóa Undead đương nhiên sẽ bấu víu vào tia hy vọng rằng thứ sức mạnh ấy có thể chữa lành cho mình.
 
-Cơ mà sự thật chắc chắn không phải như thế. Phép thanh tẩy mà các tư tế và Thánh Giả vận dụng chỉ nhằm xóa sổ những sinh vật ô uế khỏi thế giới này; nó không hề biến họ trở lại thành người. Họ có thể giúp ích bằng cách trục xuất quái vật nếu ai đó bị oán linh hay thứ gì tương tự ám vào người, nhưng nếu cơ thể của một người đã hoàn toàn biến thành quái vật... Theo những gì tôi biết, việc đảo ngược quá trình đó là bất khả thi. Thậm chí thử làm thế cũng chỉ tốn công vô ích. Trái lại, điều đó chẳng khác nào tự nguyện đưa đầu vào máy chém.
+Thế nhưng sự thật hoàn toàn không phải vậy. Sự thanh tẩy của các tư tế và Thánh Giả sẽ xóa sổ những sinh vật ô uế khỏi thế giới này, chứ không biến họ trở lại thành người. Họ có thể giúp ích bằng cách trục xuất quái vật nếu ai đó bị oán linh hay thứ gì tương tự ám vào người, nhưng nếu cơ thể của một người đã hoàn toàn biến thành quái vật... Theo những gì tôi biết thì không thể nào đảo ngược quá trình đó được. Có thử cũng chỉ tốn công vô ích. Nói đúng hơn, làm vậy chẳng khác nào tự đưa đầu vào máy chém.
 
 "Tôi chắc chắn không làm thế đâu," Rina quả quyết với Lorraine.
 
 "Có vẻ là vậy. Chà, thế thì tôi nghĩ cô sẽ ổn thôi. Nhưng chúng ta nói lan man hơi xa rồi đấy. Giờ phải kiểm tra ma pháp của cô xem sao đã, Rina. Cô nắm được câu niệm chú rồi chứ?"
 
-"Rồi... nhưng tôi không tự tin lắm là nó sẽ ra trò đâu."
+"Rồi... nhưng tôi không tự tin lắm là nó sẽ ra hồn đâu."
 
-"Chẳng cần phải thế đâu. Nói đúng hơn thì, tôi đang bắt đầu nghĩ rằng màn thị phạm của Rentt chỉ là một ví dụ về những điều không nên làm thôi. Cô có tự tin rằng mình có thể kích hoạt được ma pháp không?"
+"Không cần phải thế đâu. Nói đúng hơn, tôi bắt đầu thấy màn thị phạm của Rentt chỉ là ví dụ về cách làm sai thì có. Cô có tự tin là mình kích hoạt được ma pháp không?"
 
-"Chuyện đó thì không thành vấn đề. Dù tôi chủ yếu dùng Ma Lực để cường hóa cơ thể và vũ khí, tôi vẫn có thể thi triển các ma pháp cơ bản. Còn nếu cao hơn mức đó thì e là khó mà chuẩn xác."
+"Chuyện đó thì không thành vấn đề. Dù tôi chủ yếu dùng Ma Lực để cường hóa cơ thể và vũ khí, tôi vẫn có thể thi triển các ma pháp cơ bản. Còn cao hơn mức đó thì có khi sẽ hơi chệch choạc một chút."
 
-"Không chuẩn là sao?" Lorraine hỏi.
+"Chệch choạc thế nào?" Lorraine hỏi.
 
-"Hầu như mọi thứ tôi đều học từ anh trai mình, vốn là một kỵ sĩ. Cho nên dù tôi thuần thục các kỹ thuật cường hóa liên quan đến kiếm thuật, tôi lại không thực sự học thêm ma pháp nào khác cả?"
+"Hầu như mọi thứ tôi đều học từ anh trai mình, vốn là một kỵ sĩ. Cho nên dù tôi khá thạo các phép cường hóa phục vụ kiếm thuật, chứ mấy ma pháp khác thì tôi đâu có được học mấy?"
 
-Nếu tôi nhớ không nhầm, anh trai của Rina là Idoles Rogue, một kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran. Anh ấy có lẽ đang làm việc tại vương đô. Tôi tự hỏi không biết anh ấy cùng những người còn lại trong gia đình Rina sẽ phản ứng ra sao. Rõ ràng là sẽ có vấn đề khá lớn nếu họ biết cô ấy giờ đây đã là một Ma Cà Rồng. Tôi quyết định sau này mình nên hỏi lại cô ấy về chuyện đó.
+Nếu tôi nhớ không nhầm thì anh trai Rina là Idoles Rogue, kỵ sĩ thuộc Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran. Chắc giờ anh ấy đang làm nhiệm vụ ở vương đô. Không biết anh ấy cùng gia đình Rina sẽ phản ứng ra sao. Rõ ràng nếu họ biết giờ cô ấy đã thành Ma Cà Rồng thì sẽ rắc rối to. Tôi tự nhủ để sau hỏi lại cô ấy chuyện này.
 
 "Ừm, một kỵ sĩ à. Tôi không rõ về các kỵ sĩ Yaaran, nhưng phần lớn Kỵ Sĩ Đế Quốc ít nhất cũng dùng được ma pháp trung cấp. Chà, nếu cô có thể thi triển được thì sẽ không thành vấn đề đâu. Thử xem nào."
 
@@ -58,13 +58,13 @@ Sau khi ngọn lửa tàn, Lorraine hỏi: "Lúc dùng ma pháp cô thấy thế
 
 "Tôi không thấy mệt mỏi như mọi khi. Cũng chẳng có cảm giác là mình vừa tiêu hao chút Ma Lực nào cả."
 
-"Hừm, phải rồi. Đối với một người mới nhập môn, cô sở hữu lượng Ma Lực rất nhiều đấy. Dĩ nhiên, tôi không rõ mức trung bình của một Hạ Cấp Ma Cà Rồng là bao nhiêu. Anh thấy sao, Isaac?" Lorraine quay sang Isaac để hỏi ý kiến.
+"Hừm, phải rồi. So với một người mới học thì cô có rất nhiều Ma Lực đấy. Dĩ nhiên, tôi không rõ mức trung bình của một Hạ Cấp Ma Cà Rồng là bao nhiêu. Anh thấy sao, Isaac?" Lorraine quay sang hỏi Isaac.
 
 "Để tôi xem nào. Chắc hẳn cô sẽ thấy mình có thể thi triển Ma Thuật Sinh Hoạt thoải mái mà chẳng sợ cạn Ma Lực. Lại thêm Ma Cà Rồng hồi phục Ma Lực nhanh hơn rất nhiều, nên hiện giờ cô có lẽ ngang ngửa với một ma pháp sư trung cấp của nhân loại."
 
 "Hạ Cấp Ma Cà Rồng lại mạnh đến thế sao?" Rina hơi ngạc nhiên. "Ừm. Vậy thì những kẻ ở cấp bậc cao hơn hẳn phải đáng sợ lắm."
 
-Điều đó nghe qua có vẻ không có gì to tát, nhưng các ma pháp sư lại sở hữu hỏa lực cực kỳ khủng khiếp. Với mức Ma Lực đó cùng quá trình rèn luyện để vận dụng, bấy nhiêu là quá đủ để kiếm một cuộc sống sung túc. Dĩ nhiên, tất cả sẽ đổ sông đổ biển nếu người ta không thể sử dụng ma pháp.
+Nghe qua có vẻ chẳng có gì to tát, nhưng ma pháp sư vốn sở hữu hỏa lực cực kỳ đáng gờm. Có chừng ấy Ma Lực lại được rèn luyện bài bản để sử dụng thì thừa sức kiếm sống sung túc. Dĩ nhiên, không biết dùng ma pháp thì cũng bằng thừa.
 
 ◆◇◆◇◆
 
@@ -76,23 +76,23 @@ Sau khi ngọn lửa tàn, Lorraine hỏi: "Lúc dùng ma pháp cô thấy thế
 
 Dù Lorraine hiểu biết khá nhiều về Ma Cà Rồng, nhưng có sẵn một Ma Cà Rồng thực thụ ở đây thì cứ hỏi thẳng anh ấy là nhanh nhất.
 
-Isaac gật đầu. "Vâng, tôi nghĩ đúng là như vậy. Quyến thuộc của Ma Cà Rồng có thể phá vỡ mối ràng buộc đó nếu họ trở nên mạnh hơn chủ nhân của mình, nhưng đó là ngoại lệ hiếm hoi. Có điều, tôi không nghĩ con người biết đến chuyện này rộng rãi đâu," anh ấy nói rồi nhìn sang Lorraine.
+Isaac gật đầu. "Vâng, tôi nghĩ đúng là như vậy. Quyến thuộc của Ma Cà Rồng có thể phá vỡ mối ràng buộc đó nếu họ trở nên mạnh hơn chủ nhân của mình, nhưng đó là ngoại lệ hiếm hoi. Có điều, tôi không nghĩ nhiều con người biết chuyện này đâu," anh ấy vừa nói vừa nhìn sang Lorraine.
 
 Lorraine nghiêng đầu: "Đây là lần đầu tiên tôi nghe tới đấy. Chắc vì con người chẳng có cách nào để tìm hiểu. Chuyện đó có hay xảy ra không?"
 
-"Không hẳn. Làm được chuyện đó cực kỳ hiếm hoi. Nếu quyến thuộc gia tăng thực lực thì chủ nhân cũng sẽ rút bớt Ma Lực và máu của họ, nên bằng cách thông thường thì quyến thuộc không đời nào vượt mặt được. Dĩ nhiên, nếu chủ nhân chủ ý muốn quyến thuộc làm vậy thì vẫn có khả năng. Song những Ma Cà Rồng đủ năng lực làm thế đều mạnh vô cùng, nên nội việc vượt qua sức mạnh của họ thôi đã khó như lên trời rồi."
+"Không hẳn. Đó là chuyện cực kỳ khó làm được. Nếu quyến thuộc gia tăng thực lực thì chủ nhân cũng sẽ rút bớt Ma Lực và máu của họ, nên bằng cách thông thường thì quyến thuộc không đời nào vượt mặt được. Dĩ nhiên, nếu chủ nhân chủ ý muốn quyến thuộc làm vậy thì vẫn có khả năng. Song những Ma Cà Rồng đủ năng lực làm thế đều mạnh vô cùng, nên nội việc vượt qua sức mạnh của họ thôi đã khó như lên trời rồi."
 
 "Tôi hiểu rồi." Lorraine ngưng lại một chút rồi hỏi: "Ý anh là sao khi nói chủ nhân rút bớt Ma Lực và máu của họ?"
 
 "Chủ nhân có thể cưỡng chế đoạt lấy bất kỳ lượng máu hay Ma Lực nào mà quyến thuộc thu thập được. Nghe thì có vẻ như chủ nhân đối xử với Ngạ Quỷ và Hạ Cấp Ma Cà Rồng chẳng khác nào nô lệ, nhưng vì họ cũng có thể cung cấp Ma Lực hoặc máu cho quyến thuộc, nên đây không hẳn là mối quan hệ một chiều. Chẳng hạn, một chủ nhân có nhiều quyến thuộc sai họ đi thu thập máu, nhưng lượng máu mỗi bên kiếm được lại không đều nhau. Trong trường hợp đó, người chủ có thể gom toàn bộ số máu lại rồi phân phát đồng đều cho các quyến thuộc. Việc này sẽ giúp giảm thiểu rủi ro trong những chuyến săn thất bại."
 
-Nghe qua thì chuyện đó cũng có những mặt bất lợi, nhưng máu người vốn khá khó kiếm. Do còn có những Thợ Săn Ma Cà Rồng, tôi chắc rằng có không ít trường hợp dẫu đã cẩn trọng săn mồi nhưng vẫn chuốc lấy thất bại.
+Nghe qua thì cách đó cũng có mặt bất lợi, nhưng máu người vốn khá khó kiếm. Lại thêm sự xuất hiện của các Thợ Săn Ma Cà Rồng, tôi dám chắc có không ít trường hợp dù đã cẩn thận đi săn mà vẫn thất bại.
 
 "Vậy tôi cũng làm thế được chứ?" tôi hỏi Isaac.
 
 "Tôi cũng không dám khẳng định chắc chắn. Có điều, vì ngài có thể hấp thụ máu và thu nạp quyến thuộc như một Ma Cà Rồng, nên quyến thuộc của ngài có lẽ cũng sẽ cần đến máu. Edel, chú chuột Puchi Suri kia cũng vậy, đúng chứ? Từ trước đến nay ngài đã xử lý chuyện đó ra sao?"
 
-Tôi vẫn thường cho Edel máu của Lorraine. Nhưng chú ta nhỏ hơn tôi rất nhiều và không cần quá nhiều máu đến thế. Chỉ một giọt thôi cũng đủ cho nó cầm cự suốt ba ngày.
+Tôi vẫn thường cho Edel máu của Lorraine. Nhưng chú chuột nhỏ hơn tôi rất nhiều và chẳng cần nhiều máu đến thế. Chỉ một giọt thôi cũng đủ cho chú ta cầm cự suốt ba ngày.
 
 Sau khi tôi giải thích chuyện đó với Isaac, anh ấy đáp: "Có vẻ ngài không cần quá nhiều máu, đó hẳn là lý do tại sao Edel cũng giống như vậy. Hoặc cũng có thể chú ta chỉ đang lén lấy máu từ ngài mà ngài không hề hay biết."
 
@@ -108,7 +108,7 @@ Isaac có ý bảo Edel có thể cũng đang làm điều tương tự. Giờ a
 
 Rina vốn là con người, còn Edel là chuột Puchi Suri, nhưng cả hai đều là quyến thuộc. Chắc chắn Rina cũng làm được như vậy. Hay đúng hơn, đây mới chính là điều tôi định hỏi ngay từ đầu.
 
-Nếu Rina có thể vay mượn và sử dụng Ma Lực của tôi như Edel thì điều đó sẽ khá hữu ích. Nó cũng sẽ gia tăng năng lực của cô ấy. Rốt cuộc thì điều quan trọng nhất đối với Ma Lực chính là tổng lượng sẵn có. Vì giờ đây tôi sở hữu một trữ lượng Ma Lực tương đối dồi dào, sẽ rất có lợi nếu cô ấy có thể khai thác nguồn năng lượng đó. Hiện tại khi cô ấy đã là một quái vật, chẳng ai dám chắc được liệu có kẻ nào sẽ tìm cách tấn công cô ấy hay không. Dù xét về mặt kỹ thuật thì chúng tôi không hẳn là Ma Cà Rồng mà chỉ là bán Ma Cà Rồng, và chúng tôi trông giống con người, nhưng cẩn trọng quá mức cũng không bao giờ là thừa cả.
+Nếu Rina có thể mượn và dùng Ma Lực của tôi như Edel thì sẽ rất tiện, lại giúp cô ấy mạnh thêm. Dù sao với Ma Lực thì quan trọng nhất vẫn là tổng trữ lượng. Giờ tôi đã có lượng Ma Lực khá dồi dào, nếu cô ấy lấy dùng được thì tốt quá. Giờ cô ấy đã thành quái vật, biết đâu sẽ có kẻ nhắm vào tấn công. Tuy nói đúng ra chúng tôi chỉ là bán Ma Cà Rồng chứ không hẳn là Ma Cà Rồng, vẻ ngoài cũng chẳng khác gì con người, nhưng cẩn tắc vẫn vô áy náy.
 
 "Hừm... Tôi cũng không rõ nữa. Phải thử thế nào đây?" Rina hỏi.
 
@@ -124,13 +124,13 @@ Tôi nhìn Rina: "Cô làm được rồi sao?"
 
 "Hở? A, vâng. Edel đã dạy tôi cách làm."
 
-Hóa ra ngay khoảnh khắc Edel nhảy lên đầu cô ấy, Rina đã có thể hiểu được những gì chú chuột đang cố truyền đạt. Sau đó chú ta đã dạy cô ấy cách rút Ma Lực từ tôi. Theo lời Rina, lời khuyên của Edel là cứ việc dứt khoát giật mạnh nó từ tôi mà không cần do dự. Cảm giác như cô ấy không lấy đi quá nhiều, nên tôi đoán đó là cách làm chuẩn xác.
+Hóa ra ngay lúc Edel nhảy lên đầu, Rina đã hiểu được điều chú chuột muốn truyền đạt. Sau đó chú ta bèn chỉ cô ấy cách rút Ma Lực từ tôi. Nghe Rina kể lại thì Edel khuyên cứ việc dứt khoát giật thẳng từ người tôi mà chẳng cần đắn đo. Tôi thấy cô ấy cũng không lấy đi bao nhiêu, nên chắc làm vậy là chuẩn rồi.
 
-Tôi hỏi lại Edel khi chú chuột quay về đậu trên vai mình, và chú ta xác nhận lúc đầu nó cũng chẳng rút được bao nhiêu Ma Lực từ tôi. Nhưng chỉ cần luyện tập một chút thì thực sự chẳng có giới hạn nào cả.
+Khi Edel quay về đậu trên vai tôi, tôi hỏi lại thì chú ta xác nhận lúc đầu cũng chẳng rút được bao nhiêu Ma Lực từ tôi. Nhưng chỉ cần quen tay một chút thì gần như chẳng có giới hạn nào cả.
 
 Nghe nguy hiểm thật đấy chứ. Edel đáp lại suy nghĩ của tôi, bảo rằng tôi có thể siết bớt dòng chảy lại, nên bản thân tôi cũng cần phải học cách tự kiểm soát.
 
-Đây là bài thử thách dành cho tôi trong vai trò thủ lĩnh của họ sao? Cấp dưới của tôi là một con chuột kênh kiệu và một thiếu nữ trẻ tuổi. Quả là một sự kết hợp có phần kỳ quặc.
+Đây là bài thử thách dành cho tôi trong vai trò thủ lĩnh của họ sao? Cấp dưới của tôi là một con chuột kênh kiệu và một cô gái trẻ. Quả là một sự kết hợp có phần kỳ quặc.
 
 Dù sao đi nữa, tôi muốn xem liệu Rina có thể rút thêm thứ gì khác ngoài Ma Lực hay không, chẳng hạn như sử dụng một chút Thần Lực.
 
@@ -142,9 +142,9 @@ Rina nghiêng đầu: "Khí Lực thì tôi không rõ, nhưng Thần Lực thì
 
 Rina nhíu mày rồi bắt đầu tập trung vào điều gì đó. Một thoáng sau, tôi cảm nhận được Thần Lực chảy ra khỏi cơ thể mình và tràn sang cô ấy.
 
-Lượng chuyển dịch vẫn không nhiều, chỉ tương đương với lượng tôi có thể sử dụng khi còn sống. Khi đó tác dụng lớn nhất của nó chỉ là thanh lọc nước uống. Điều ấy cực kỳ hữu ích khi đi mạo hiểm, nhưng lại chẳng bõ bèn gì nếu đem so với những phép màu mà các tư tế và Thánh Giả có thể thực hiện.
+Lượng Thần Lực truyền sang vẫn không nhiều, chỉ ngang mức tôi dùng được hồi còn sống. Hồi đó tối đa tôi cũng chỉ lọc sạch được nước uống. Đi mạo hiểm thì tiện vô cùng, nhưng đem so với những phép màu của các tư tế và Thánh Giả thì chẳng thấm vào đâu.
 
-Tôi có cảm giác Isaac đang hơi lùi ra xa khỏi tôi và Rina. Bộ anh ấy không chịu nổi cảm giác của Thần Lực sao?
+Tôi có cảm giác Isaac đang giữ khoảng cách với tôi và Rina. Phải chăng anh ấy không ưa cảm giác của Thần Lực?
 
 "Isaac, tôi đoán Thần Lực—"
 
@@ -162,15 +162,15 @@ Trong khi Isaac bài xích cảm giác của Thần Lực ra mặt thì Rina l�
 
 "Cô có thể điều khiển Thần Lực không?" tôi hỏi cô ấy. "Chẳng hạn như, cô có thể dùng nó để thanh tẩy hay trị liệu, hoặc truyền nó vào vũ khí và giáp trụ của mình không?"
 
-Thần Lực khác với Ma Lực. Người ta có thể sử dụng nó theo trực giác ngay cả khi không hiểu rõ cấu tạo hay cơ chế vận hành của nó. Tuy nhiên, Rina mượn Thần Lực từ tôi chứ không phải sử dụng nguồn năng lượng của chính mình. Đối với phần lớn mọi người, Thần Lực hoặc là sức mạnh bẩm sinh từ khi chào đời, hoặc được một tinh linh hay thần linh ban phước trực tiếp. Dù vậy, vì Edel dùng được nó, khả năng cao là Rina cũng có thể.
+Thần Lực khác với Ma Lực. Người ta có thể sử dụng nó theo trực giác ngay cả khi không hiểu rõ cấu tạo hay cơ chế vận hành của nó. Tuy nhiên, Rina mượn Thần Lực từ tôi chứ không phải sử dụng nguồn năng lượng của chính mình. Đối với phần lớn mọi người, Thần Lực hoặc là sức mạnh có sẵn từ lúc chào đời, hoặc được một tinh linh hay thần linh ban phước trực tiếp. Dù vậy, vì Edel dùng được nó, khả năng cao là Rina cũng có thể.
 
 "Tôi nghĩ mình có thể phần nào nắm bắt được cách làm," Rina nói. Cô ấy nhìn quanh, như thể không chắc nên nhắm vào mục tiêu nào.
 
 Lorraine nói thêm: "Cứ dùng đại vào đâu đó đi. Như thế này này." Cô ấy nhắm Thần Lực của mình vào đám cỏ dại mọc dưới chân.
 
-Lorraine hiện là tín đồ của một trong các vị thần—tôi nhớ mang máng là Viro hay Gedo-gì-đấy—và ngài ấy đã ban tặng Thần Lực cho cô ấy. Vì vị thần đó không đặc biệt hùng mạnh cho lắm, Lorraine không có nhiều Thần Lực. Dẫu vậy, cô ấy vẫn có thể thanh tẩy nhẹ và trị thương. Đứng từ góc nhìn của một tổ chức tôn giáo, điều đó biến cô ấy thành một nữ tư tế thần thánh. Cơ mà, ở cô ấy chẳng có điểm nào đặc biệt thần thánh cả. Nói đúng hơn thì, trông cô ấy giống một phù thủy hơn.
+Lorraine hiện là tín đồ của một vị thần, tôi nhớ mang máng là Viro hay Gedo-gì-đấy, và được vị thần đó ban cho Thần Lực. Vì vị thần ấy không mạnh cho lắm nên Lorraine cũng chẳng có nhiều Thần Lực, nhưng vẫn đủ để thanh tẩy nhẹ và trị thương. Chiếu theo cách nhìn của các tổ chức tôn giáo thì cô ấy chẳng khác nào một nữ tư tế thánh khiết. Có điều, ở cô ấy chẳng có nét nào ra dáng thánh khiết cả. Nói đúng hơn thì giống một phù thủy hơn.
 
-Đám cỏ dại mà Lorraine thanh tẩy mọc dài thêm vài milimét và trông tươi tốt hơn hẳn. Nói theo góc độ của một bao phân bón di động tại gia, Lorraine vẫn còn nhiều điều phải học hỏi, nhưng dễ thấy rằng một vị Thần Thực Vật đã ban phước cho cô ấy. Dẫu vậy, cô ấy không thể truyền Thần Lực vào đồ vật. Xét theo khía cạnh đó thì tôi vẫn thuộc dạng độc nhất vô nhị.
+Đám cỏ dại mà Lorraine thanh tẩy mọc dài thêm vài milimét và trông tươi tốt hơn hẳn. Dưới con mắt của một bao phân bón di động chính hiệu là tôi đây, Lorraine vẫn còn phải học hỏi nhiều, nhưng nhìn là biết ngay cô ấy được một vị Thần Thực Vật ban phước. Có điều cô ấy không thể truyền Thần Lực vào đồ vật. Ở khoản đó thì tôi vẫn thuộc hàng độc nhất vô nhị.
 
 Rina quan sát màn thị phạm của Lorraine rồi gật đầu. Cô ấy hướng Thần Lực vào mấy ngọn cỏ dại gần đó. Chúng cũng mọc dài thêm vài milimét và trông tươi mơn mởn. Nhưng cũng giống như Lorraine, cô ấy không truyền được chút Thần Lực nào vào chúng.
 
@@ -180,13 +180,13 @@ Tôi làm điều tương tự, và đám cỏ dại mọc cao thêm cả chục
 
 Isaac nhún vai. "Nó chỉ là một góc nhỏ trong sân thôi, vả lại tôi tin tiểu thư nhà tôi sẽ muốn thấy nó, nên ngài cứ để lại cũng được." Một tiếng cười khô khốc bật ra khỏi môi anh ấy.
 
-Một trong những sở thích của Laura là sưu tầm các ma cụ quý hiếm. Theo một nghĩa hết sức rộng thì đám cỏ dại Thần Lực của tôi cũng đạt chuẩn. Ngay cả khi xét về mặt kỹ thuật chúng không được tính, chúng vẫn có khả năng hữu ích cho việc chế tạo ma cụ, thế nên việc cô bé muốn giữ chúng lại cũng là điều dễ hiểu.
+Một trong những sở thích của Laura là sưu tầm các ma cụ quý hiếm. Hiểu theo nghĩa thật rộng thì đám cỏ dại thấm Thần Lực của tôi cũng đủ chuẩn. Mà kể cả không tính là ma cụ đi nữa, biết đâu chúng vẫn có ích cho việc chế tạo ma cụ, nên cô bé có muốn giữ lại cũng là chuyện dễ hiểu.
 
 "Vậy thì tôi cứ để chúng lại đó. Nhưng nếu sau này chúng gây ra rắc rối gì thì cứ báo cho tôi biết, tôi sẽ đến dọn đi ngay."
 
 Isaac gật đầu.
 
-Chúng tôi đã xác định được rằng Rina có thể rút Ma Lực và Thần Lực từ tôi để sử dụng, nhưng hiển nhiên là cô ấy không thể làm điều tương tự với Khí Lực.
+Chúng tôi đã xác định được rằng Rina có thể rút Ma Lực và Thần Lực từ tôi để sử dụng, nhưng xem ra cô ấy lại không làm thế được với Khí Lực.
 
 "Không có cách nào để cô rút chút Khí Lực nào từ tôi sao?" tôi hỏi Rina.
 
@@ -198,4 +198,4 @@ Tôi chẳng rõ lý do tại sao lại như thế, nhưng Lorraine đưa ra m�
 
 Nghe cũng có lý. Người ta không thể sử dụng một thứ sức mạnh mà mình chẳng biết chút gì về nó. Nhưng trong trường hợp đó, liệu có nghĩa là Edel đã biết về Khí Lực từ trước khi chúng tôi gặp nhau không? Edel khá dẻo dai đối với một con Puchi Suri, rất có thể chú ta đã biết cách sử dụng nó. Khí Lực dựa trên sinh mệnh lực của mọi sinh vật sống, thế nên những sinh vật khác ngoài con người có thể sử dụng nó cũng là điều dễ hiểu.
 
-Điều đó có lẽ đồng nghĩa với việc Rina chỉ là chưa quen với nó mà thôi. Chúng tôi có thể cải thiện chuyện đó. Tôi cũng luôn có thể chỉ dạy cho cô ấy cách sử dụng nó cơ mà.
+Vậy có lẽ chỉ là do Rina chưa quen với Khí Lực mà thôi. Chuyện đó hoàn toàn có thể khắc phục được, lúc nào tôi chẳng dạy cô ấy cách dùng được.
