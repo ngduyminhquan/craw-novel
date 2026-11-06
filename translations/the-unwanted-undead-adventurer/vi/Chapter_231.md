@@ -12,7 +12,7 @@ Rất có thể đó chính là ý ngầm mà lúc ấy tôi đã vô tình bỏ
 
 "Tôi nghĩ mình bắt đầu hiểu vì sao Wolf lại cho tôi nhiều quyền tự quyết trong chuyến này đến thế rồi," tôi lẩm bẩm.
 
-"Chắc ông ấy chẳng muốn tự mình dính vào cái của nợ này đấy thôi."
+"Chắc ông ấy chẳng muốn tự mình dây vào chuyện này đấy thôi."
 
 Tóm lại chắc chỉ có thế. Thảo nào lúc giao việc trông mặt Wolf cứ bứt rứt lạ lùng. Tôi quyết định khi nào về Maalt nhất định phải nói cho ông ấy một bài.
 
@@ -24,11 +24,11 @@ Nói cho cùng, đằng nào chúng tôi cũng phải tới vương đô một c
 
 Lorraine nói rất có lý. Dù Augurey cần lập tổ đội để làm việc mình định nhận, thì người giúp cũng đâu nhất thiết phải là tôi với Lorraine. Dù sao tôi cũng chỉ là mạo hiểm giả Đồng Cấp, còn Lorraine tuy giỏi giang uyên bác nhưng cũng không rành vùng quanh vương đô bằng mạo hiểm giả bản địa. Tôi đồng ý với cô rằng cứ hợp tác với những ai quen thuộc địa hình nơi này sẽ hiệu quả hơn nhiều.
 
-"Việc bình thường thì làm thế được," Augurey lắc đầu, "nhưng việc tôi định nhận lại là thứ mà phần lớn mạo hiểm giả ở đây hiếm khi làm. Nếu nhắc lại vụ hái thiến thảo hỏa tinh linh lần trước thì hai người có dễ hình dung hơn không?"
+"Việc bình thường thì làm thế được," Augurey lắc đầu, "nhưng việc tôi nhận lại là thứ mà phần lớn mạo hiểm giả ở đây hiếm khi làm. Nếu nhắc lại vụ hái thiến thảo hỏa tinh linh lần trước thì hai người có dễ hình dung hơn không?"
 
 Hồi cải trang tới vương đô, chúng tôi từng cùng Augurey nhận một ủy thác. Nói đúng ra thì đó là việc riêng của anh ta, vì anh ta cần một loại cây đặc biệt để nhuộm quần áo, nhưng mục đích thật sự không chỉ dừng lại ở đó.
 
-"À, vụ đó. Cây đó có cứu được mẹ cô bé kia không?" nhớ lại chuyện cũ, Lorraine hỏi.
+"À, vụ đó. Cây đó có cứu được mẹ cô bé kia không?" Lorraine nhớ lại chuyện cũ rồi hỏi.
 
 Augurey chớp mắt ngạc nhiên. "Hử...? Sao cô lại...?"
 
@@ -46,7 +46,7 @@ Ngoài công dụng nhuộm quần áo, thiến thảo hỏa tinh linh còn dùn
 
 Tôi cũng mong anh ta nói đúng, nhưng bụng thì chẳng dám chắc.
 
-"Thế việc anh muốn tụi tôi làm cũng thuộc dạng thù lao bèo bọt, gần như làm không công để giúp người khó khăn à?" tôi hỏi.
+"Thế việc anh muốn chúng tôi làm cũng thuộc dạng thù lao bèo bọt, gần như làm không công để giúp người khó khăn à?" tôi hỏi.
 
 "Không, lần này thì không," Augurey đáp. "Lần trước chỉ là ngoại lệ thôi. Sở dĩ tôi nhắc tới việc đó là vì ủy thác lần này cũng đòi hỏi con mắt tìm nguyên liệu mà mạo hiểm giả vương đô bình thường khó nhìn ra được. Không phải tôi bảo thỉnh thoảng làm từ thiện là dở đâu nhé, nhưng may là ngay ở vương đô cũng có vài kẻ gàn chịu làm mấy việc đó. Hai người khỏi lo chuyện đấy. Vụ thiến thảo hỏa tinh linh dạo trước, chẳng ai nhận chỉ vì họ không biết tìm ở đâu thôi."
 
@@ -86,7 +86,7 @@ Nghe tôi gọi tên, Augurey gỡ vài tờ giấy dán trên bảng ủy thác
 
 Thấy vậy, cô tiếp tân gật đầu. "A, thế thì đúng rồi. Nếu tôi nhớ không nhầm thì trước đây ngài Augurey từng hoạt động ở Maalt. Hai người quen nhau từ hồi đó sao?"
 
-"Đúng thế. Gặp lại nhau, chúng tôi ôn lại chuyện cũ rồi quyết định cùng nhận mấy ủy thác trong lúc chờ Tổng Hội Trưởng về. Chắc tụi tôi không đi đâu xa, nhưng tranh thủ khoảng thời gian này làm chút việc vẫn hơn."
+"Đúng thế. Gặp lại nhau, chúng tôi ôn lại chuyện cũ rồi quyết định cùng nhận mấy ủy thác trong lúc chờ Tổng Hội Trưởng về. Chắc chúng tôi không đi đâu xa, nhưng tranh thủ khoảng thời gian này làm chút việc vẫn hơn."
 
 Mặt cô tiếp tân tươi tỉnh hẳn lên. Tôi đoán cô mừng vì tôi không định gặng hỏi ép mình về Tổng Hội Trưởng. Chưa kể, việc chúng tôi đi làm ủy thác cũng có lợi cho cô.
 
@@ -94,7 +94,7 @@ Mặt cô tiếp tân tươi tỉnh hẳn lên. Tôi đoán cô mừng vì tôi 
 
 Rõ ràng đang nói về cấp trên của cô ấy, thế mà ai không biết chuyện bước vào chắc tưởng chúng tôi đang bàn cách tóm một tên tội phạm nào đó. Đúng là tại Tổng Hội Trưởng cứ hơi tí lại đi rong thật, nhưng mà...
 
-Dù sao thì, dẫu được bật đèn xanh cho câu giờ, tôi vẫn tính quay lại đúng hẹn. Dây dưa quá lâu khéo lại bị cuốn vào thêm nhiều rắc rối dính tới hoàng cung. Đó là điều tôi muốn tránh bằng mọi giá.
+Dù sao thì, dẫu được cho phép câu giờ, tôi vẫn tính quay lại đúng hẹn. Dây dưa quá lâu khéo lại bị cuốn vào thêm nhiều rắc rối dính tới hoàng cung. Đó là điều tôi muốn tránh bằng mọi giá.
 
 Tôi nhận mẫu đăng ký tổ đội tạm thời từ cô tiếp tân rồi quay sang bàn với Augurey và Lorraine. Thật ra cũng chẳng có gì nhiều để nói. Chỉ cần thống nhất mấy điều cơ bản là xong.
 
@@ -144,10 +144,10 @@ Về cơ bản, Hội ai cũng nhận nên quy định về tỷ lệ hoàn thà
 
 Công việc của Hội đâu chỉ có mỗi mấy tờ giấy dán trên bảng thông báo chung. Hội luôn giữ lại những ủy thác riêng cho các mạo hiểm giả chọn lọc, thế nên ai biết rõ nồi cơm của mình từ đâu ra đều hết sức để ý tới tỷ lệ thành công. Nói nôm na, ý cô tiếp tân là nếu có lỡ làm hỏng mấy việc này thì cũng không bị tính vào tỷ lệ thành công hay làm ảnh hưởng tới uy tín của chúng tôi với Hội.
 
-Loại ủy thác như thế tuy hiếm nhưng không phải không có. Thường thì đó là những việc nằm phủ bụi từ đời nào, hoặc khó đến mức cầm chắc thất bại. Nói thế không có nghĩa là làm xong thì không được ghi nhận công lao, chỉ là phần lớn chẳng ai thèm ngó tới vì không phí thời gian thì cũng tổ ném mạng qua cửa sổ.
+Loại ủy thác như thế tuy hiếm nhưng không phải không có. Thường thì đó là những việc nằm phủ bụi từ đời nào, hoặc khó đến mức cầm chắc thất bại. Nói thế không có nghĩa là làm xong thì không được ghi nhận công lao, chỉ là phần lớn chẳng ai thèm ngó tới vì không phí thời gian thì cũng phí mạng.
 
 Còn mấy việc chúng tôi vừa nhận thì cùng lắm chỉ mất thời gian mà thôi.
 
-"Ra vậy. Thế thì tôi không còn gì để can nữa rồi." Cô tiếp tân hoàn tất thủ tục giấy tờ cho chúng tôi. "Xong cả rồi đấy ạ. Chúc các vị may mắn và xin hãy cẩn thận nhé."
+"Ra vậy. Thế thì tôi không còn gì để nói thêm nữa." Cô tiếp tân hoàn tất thủ tục giấy tờ cho chúng tôi. "Xong cả rồi đấy. Chúc các vị may mắn và xin hãy cẩn thận nhé."
 
 Cả nhóm gật đầu rồi quay bước rời khỏi trụ sở Hội.
