@@ -1,205 +1,205 @@
 # Chương 255: Tập 11 Chương 2 - Khởi Hành (4)
 
-"À, phải rồi, Lorraine." Augurey trông đầy vẻ thích thú. "Cô nên nghe chuyện vừa xảy ra ở Hội lúc nãy đi."
+"À, phải rồi, Lorraine." Augurey hào hứng ra mặt. "Cô phải nghe chuyện vừa rồi ở Hội mới được."
 
-Dù là tôi thì cũng chẳng khó để đoán ra anh ta sắp sửa nói điều gì.
+Đến tôi còn thừa đoán được anh ấy sắp sửa nói gì.
 
-"Có chuyện gì xảy ra sao?" Lorraine hỏi.
+"Có chuyện gì thế?" Lorraine hỏi.
 
-"Chắc chắn là có rồi!" Augurey đáp. "Rentt cuối cùng cũng đủ điều kiện tham gia kỳ thi thăng hạng Ngân Cấp đấy!"
+"Sao lại không chứ!" Augurey đáp. "Rentt cuối cùng cũng đủ điều kiện tham gia kỳ thi thăng hạng Ngân Cấp rồi đấy!"
 
-"Thật sao? Chúc mừng anh nhé, Rentt! Sau bao nhiêu lâu cuối cùng ngày này cũng tới. Dù có hơi bực mình một chút khi anh sắp sửa ngang hàng với tôi... nhưng những dịp vui thế này đâu phải lúc nào cũng có. Tối nay chúng ta làm một chầu rượu ăn mừng chứ?"
+"Thật sao? Chúc mừng anh nhé, Rentt! Chờ mãi mới có ngày hôm nay đấy. Dù hơi ấm ức vì sắp bị anh bắt kịp ngang hàng... nhưng mấy khi có dịp vui thế này. Tối nay làm chầu rượu ăn mừng chứ?"
 
-Nhìn Lorraine hào hứng thế kia, người ngoài khéo lại tưởng chuyện đó xảy ra với cô ấy chứ chẳng phải tôi.
+Thấy Lorraine phấn khởi đến thế, khéo người ta lại tưởng chuyện xảy đến với cô ấy chứ chẳng phải tôi.
 
-Ông lão tỏ vẻ khó hiểu trước thái độ của Lorraine và Augurey. "Với thực lực của cậu, việc đạt được tư cách thi Ngân Cấp chẳng phải quá đỗi dễ dàng sao? Đó thực sự là chuyện đáng để vui mừng đến thế à?"
+Ông lão tỏ vẻ khó hiểu trước phản ứng của Lorraine và Augurey. "Với thực lực của cậu, kiếm cái tư cách thi Ngân Cấp chẳng phải quá dễ dàng sao? Có chuyện thế thôi mà cũng đáng để mừng đến vậy à?"
 
-"Vấn đề là," Lorraine giải thích, "dưới góc nhìn của ông thì có lẽ đúng là vậy. Nhưng với chúng tôi... lại hoàn toàn khác. Thực sự là vậy đấy."
+"Chuyện là thế này," Lorraine giải thích, "đứng ở góc độ của ông thì có lẽ đúng là vậy. Nhưng với bọn tôi... lại hoàn toàn khác. Thực sự là vậy đấy."
 
-Khóe mắt cô thoáng chút ngấn lệ. Dẫu vậy cô nhanh chóng trấn tĩnh lại và kìm nén không để giọt nước mắt nào rơi xuống, có lẽ là bởi lòng tự tôn của cô không cho phép điều đó.
+Khóe mắt cô ấy hơi rơm rớm. Dù vậy, cô ấy nhanh chóng trấn tĩnh, kìm không để giọt nước mắt nào rơi xuống, có lẽ vì lòng kiêu hãnh không cho phép.
 
-Ông lão nghiêng đầu sang một bên. "Ý cô là sao? Tất cả chúng ta đều thấy rõ uy lực của đòn đánh mà cậu ta giáng vào ta rồi mà. Với cậu ta, một kỳ thi thăng hạng cỏn con đáng lý phải..."
+Ông lão hơi nghiêng đầu. "Ý cô là sao? Ai nấy đều thấy rõ uy lực của đòn đánh cậu ta giáng vào ta rồi còn gì. Với cậu ta thì một kỳ thi thăng hạng cỏn con đáng ra phải..."
 
 ![](images/ch255-01.webp)
 
-Từ diễn biến của cuộc trò chuyện, ông ta có lẽ đã phần nào đoán được rằng tôi phải mất rất nhiều thời gian mới chạm được đến cột mốc này, nhưng lại hoàn toàn mù tịt về nguyên do đằng sau. Chuyện đó thực ra cũng hoàn toàn dễ hiểu.
+Qua mạch câu chuyện, ông lão hẳn đã đoán được tôi phải mất rất nhiều thời gian mới chạm tới cột mốc này, nhưng hoàn toàn mù tịt về nguyên do đằng sau. Mà thực ra chuyện đó cũng dễ hiểu thôi.
 
-Dẫu vậy, chúng tôi đâu thể đi sâu vào chi tiết mà không để lộ chuyện tôi là quái vật, nên tôi đành trả lời một cách lấp lửng. "Biết nói sao nhỉ? Tôi đã trải qua mười năm ở Đồng Cấp, kiếm sống bằng việc săn Slime và Goblin. Suốt khoảng thời gian đó, tôi luôn nuôi mục tiêu vươn lên... nhưng chưa từng làm được. Khi ấy, tôi cảm thấy như mình hoàn toàn mù mịt trước con đường phía trước."
+Dù vậy, bọn tôi không thể nói rõ chi tiết mà không làm lộ chuyện tôi là quái vật, nên tôi đành trả lời ậm ừ cho qua. "Biết nói sao nhỉ? Tôi kẹt ở Đồng Cấp suốt mười năm, chỉ kiếm sống bằng việc săn Slime và Goblin. Suốt thời gian đó, lúc nào tôi cũng nhắm đến mục tiêu leo hạng... nhưng chưa từng làm được. Hồi ấy, tôi cảm thấy như mình hoàn toàn mù mịt trước con đường phía trước."
 
-"Ngay cả với thực lực của cậu sao?" ông lão hỏi.
+"Kể cả với thực lực như cậu sao?" ông lão hỏi.
 
-"Vâng. Chuyện tôi mạnh lên phần nào cũng chỉ là sự trùng hợp ngẫu nhiên mà thôi. Tôi... chưa từng nghĩ chuyện đó sẽ xảy đến. Dẫu vậy, giờ đây cuối cùng tôi cũng đã có cơ hội trở thành mạo hiểm giả Ngân Cấp. Tôi vui sướng khôn xiết."
+"Đúng thế. Chuyện tôi mạnh lên được chút đỉnh cũng chỉ là tình cờ thôi. Tôi... chưa từng nghĩ chuyện đó lại xảy đến. Dù sao thì giờ đây rốt cuộc tôi cũng có cơ hội trở thành mạo hiểm giả Ngân Cấp rồi. Mừng không để đâu cho hết."
 
-"Hừm... Trùng hợp sao? Ta nghĩ ta hiểu ý cậu rồi. Vậy là dị năng của cậu mới chỉ thức tỉnh gần đây thôi à?"
+"Hừm... Tình cờ sao? Ta hiểu ý cậu rồi. Vậy là dị năng của cậu mới thức tỉnh gần đây thôi à?"
 
-Giọng điệu của ông lão như thể vừa nảy ra một ý tưởng. Đáng tiếc là ông ta hoàn toàn đoán sai bét. Đúng là gần đây tôi mới biến thành quái vật, nhưng đâu phải tôi có thể cứ thế toạc móng heo ra được. Dẫu vậy, sau khi ngẫm nghĩ một chút, tôi nhận ra suy đoán của ông ta thực chất lại khá sát với tình cảnh của mình. Nghe có vẻ cũng là một vỏ bọc hữu ích, nên tôi quyết định hùa theo luôn.
+Giọng ông lão nghe như thể vừa nghĩ ra manh mối gì đó. Tiếc là ông ấy đoán trật lất. Đúng là gần đây tôi mới biến thành quái vật thật, nhưng chuyện đó đâu thể cứ thế nói toẹt ra được. Dù vậy, sau khi ngẫm lại một chút, tôi nhận ra suy đoán của ông ấy thực ra lại khá sát với tình cảnh của mình. Nghe chừng đây là một vỏ bọc hữu ích, nên tôi quyết định hùa theo luôn.
 
 "Ừm, đại khái là thế đấy," tôi nói.
 
-"Ra là vậy. Chà, chẳng có quy luật hay lý do cụ thể nào cho thời điểm mà dị năng quyết định thức tỉnh cả. Cũng giống như việc có người sở hữu chúng ngay từ lúc mới lọt lòng, lại có những kẻ bỗng một ngày thức giấc nhận ra mình có được nó. Xét theo khía cạnh đó thì cậu thuộc diện nở muộn đấy."
+"Ra là vậy. Chà, thời điểm dị năng thức tỉnh vốn chẳng theo quy luật hay lý lẽ nào cả. Có người dùng được ngay từ lúc mới lọt lòng, lại có kẻ bỗng một sớm thức dậy đã thấy mình sở hữu nó. Xét theo khía cạnh đó thì cậu thuộc diện nở muộn đấy."
 
-Lorraine lên tiếng, giọng đầy vẻ tò mò. "Vậy với ông thì chuyện đó xảy ra khi nào?"
+Lorraine lên tiếng, vẻ tò mò. "Vậy với ông thì chuyện đó xảy ra khi nào?"
 
-"Ta có thể vận dụng dị năng từ hồi còn bé xíu. Siren và Goblin cũng vậy. Nếu bị gặng hỏi thì ta sẽ bảo những trường hợp như bọn ta chiếm đại đa số, nhưng ai mà biết được chứ? Đây đâu phải một lĩnh vực được nghiên cứu bài bản, và những kẻ thức tỉnh dị năng muộn thường có số phận bi kịch hơn bọn ta nhiều."
+"Ta dùng được dị năng từ hồi còn bé xíu. Siren và Goblin cũng vậy. Nếu buộc phải đoán thì ta sẽ bảo những trường hợp như bọn ta chiếm đa số, nhưng ai mà biết được chứ? Chuyện này đâu có ai nghiên cứu bài bản, vả lại những kẻ thức tỉnh dị năng muộn thường có số phận bi đát hơn bọn ta nhiều."
 
 "Ý ông là sao?"
 
-"Cô sẽ cảm thấy thế nào nếu một ngày nọ, bạn của cô đột nhiên biến thành quái vật?"
+"Cô sẽ thấy thế nào nếu một ngày nọ, bạn bè của cô bỗng dưng biến thành quái vật?"
 
-Lorraine và Augurey có vẻ sững sờ trước câu hỏi của ông lão. Bản thân tôi cũng hơi giật mình—ông ta vừa miêu tả trúng phóc tình cảnh của tôi—nhưng khi ông ta nói tiếp, tôi hiểu ra hướng đi của câu chuyện và dần thả lỏng.
+Lorraine và Augurey có vẻ sững sờ trước câu hỏi của ông lão. Bản thân tôi cũng hơi giật mình—ông ấy vừa tả trúng phóc tình cảnh của tôi—nhưng khi ông ấy nói tiếp, tôi nhận ra hướng câu chuyện nên mới dần thả lỏng.
 
-"Hai người hiểu ý ta rồi đấy. Chuyện một ai đó thức tỉnh dị năng khi đã lớn tuổi cũng tương tự như vậy thôi. Còn nhớ cuộc thảo luận của chúng ta về việc những kẻ ngoại tộc bị bài xích không? Thực tế đó lại càng đúng đắn hơn bao giờ hết. Một đứa trẻ... vẫn có thể được yêu thương, cũng như được thương hại, vì chúng sinh ra vốn dĩ đã như thế. Nhưng người lớn thì... Chà, họ trở thành những con quái vật không thể giải thích nổi. Đó là cách duy nhất mà người đời nhìn nhận họ. Và chẳng có mấy ai muốn tiếp tục làm bạn với một con quái vật, phải không?"
+"Hai người hiểu ý ta rồi đấy. Chuyện một ai đó thức tỉnh dị năng khi đã có tuổi cũng tương tự như vậy thôi. Còn nhớ chuyện lúc nãy chúng ta bàn về việc những kẻ dị biệt bị bài xích không? Trong trường hợp này thì chuyện đó lại càng đúng hơn nữa. Một đứa trẻ... dẫu sao vẫn có thể được yêu thương, hay ít ra là được thương hại, vì chúng sinh ra vốn đã như thế. Nhưng người lớn thì... Chà, họ lại biến thành những con quái vật không sao giải thích nổi. Trong mắt người đời, họ chỉ là thứ như vậy thôi. Mà nào có mấy ai chịu tiếp tục làm bạn với quái vật, phải không?"
 
-Lorraine và Augurey nở nụ cười cay đắng.
+Lorraine và Augurey cười gượng.
 
-"Tôi sẽ không bao giờ bỏ rơi một người bạn chỉ vì vẻ ngoài của họ thay đổi," Lorraine nói, giọng điệu ôn tồn. "Miễn là con người bên trong họ vẫn trước sau như một, thì điều đó sẽ mãi mãi không đổi. Dù rằng... có lẽ tôi sẽ yêu cầu họ hợp tác trong vài cuộc thí nghiệm của mình."
+"Tôi chẳng đời nào bỏ rơi bạn bè chỉ vì vẻ ngoài của họ thay đổi," Lorraine ôn tồn nói. "Miễn là bản chất bên trong họ không đổi, thì tình cảm đó sẽ mãi như xưa. Có điều... khéo tôi lại nhờ họ phối hợp làm vài thí nghiệm cũng nên."
 
-Augurey lên tiếng với vẻ hòa nhã không kém. "Tôi cũng vậy thôi. Nếu việc khác biệt với đám đông là đủ để cắt đứt một tình bạn, thì tôi mới là kẻ gặp rắc rối to đấy. Mọi người đều nhìn tôi như một gã lập dị, ông biết mà. Vì trang phục của tôi. Nhưng cũng chính là vì trang phục của tôi nữa."
+Augurey cũng cất giọng hòa nhã không kém. "Tôi cũng thế thôi. Nếu chỉ vì khác biệt với đám đông mà cắt đứt tình bạn, thì tôi mới là kẻ gặp rắc rối to đấy. Ông biết đấy, ai nấy đều coi tôi là một gã lập dị. Tất cả là vì trang phục của tôi. Nhưng mà, cũng chính là vì trang phục của tôi nữa chứ đâu."
 
-Cả hai bọn họ đều kết thúc bằng một câu đùa, nhưng tôi biết họ đang hoàn toàn nghiêm túc. Tôi tự hỏi không biết họ đang nói về ai nhỉ. Đùa chút thôi. Dĩ nhiên người đó là tôi rồi.
+Cả hai đều kết lại bằng một câu đùa, nhưng tôi biết họ hoàn toàn nghiêm túc. Chẳng biết hai người đang nói về ai nữa đây. Đùa chút thôi. Dĩ nhiên là tôi rồi.
 
-Ông lão dường như cũng nhận ra điều đó. "Cậu có những người bạn tốt đấy, Rentt."
+Dường như ông lão cũng nhận ra điều đó. "Cậu có những người bạn tốt đấy, Rentt."
 
-"Tôi đoán là vậy nhỉ?"
+"Chắc là vậy rồi nhỉ?"
 
-Khóe mắt tôi nóng lên, nhưng nước mắt vốn chẳng phải thứ mà cơ thể tôi có thể tiết ra. Tôi có thể khóc nếu muốn, nhưng kìm nén chúng lại cũng dễ dàng chẳng kém. Cảm giác như tôi có khả năng kiểm soát cơ thể chuẩn xác hơn rất nhiều so với thời còn làm người. Đó không phải chuyện xấu, nhưng nó lại khiến tôi cảm thấy có phần cô độc. Vào những khoảnh khắc như thế này, sẽ tuyệt biết bao nếu tôi có thể thành thật với cảm xúc của mình mà bật khóc.
+Khóe mắt tôi cay cay, nhưng nước mắt vốn chẳng phải thứ cơ thể tôi còn tự tiết ra được. Muốn khóc thì tôi vẫn làm được thôi, nhưng kìm lại cũng chẳng khó khăn gì. Cảm giác như tôi kiểm soát cơ thể chuẩn xác hơn hồi còn làm người rất nhiều. Đó chẳng phải chuyện xấu, nhưng lại khiến tôi thấy có chút chạnh lòng. Những lúc thế này, giá mà tôi có thể thành thật với lòng mình mà rơi nước mắt thì hay biết mấy.
 
-"Ta cho rằng lý do cậu vẫn giữ được sự điềm tĩnh phi thường đến vậy dẫu cho dị năng thức tỉnh muộn màng là bởi bên cạnh cậu có những người như hai vị này," ông lão nói. "Nhưng với phần lớn đồng loại của bọn ta, thế giới này không hề tử tế đến thế. Những kẻ sở hữu dị năng luôn phải hứng chịu ác ý cùng sự phản bội... và rất nhiều người rốt cuộc đã bị tha hóa vì điều đó."
+"Ta đồ rằng sở dĩ cậu giữ được bình tĩnh đến thế dù dị năng thức tỉnh muộn màng là nhờ bên cạnh có hai người như bọn họ," ông lão nói. "Nhưng với phần lớn đồng loại của bọn ta, thế giới này chẳng hề tử tế như vậy. Kẻ có dị năng thường phải hứng chịu ác ý cùng phản bội... và rốt cuộc không ít người đã trở nên méo mó vì chuyện đó."
 
-"Trông ông chẳng giống một người trong số họ chút nào," Lorraine nói.
+"Trông ông chẳng giống những người đó chút nào," Lorraine nói.
 
-"Ta khiến tất cả phải câm miệng bằng chính sức mạnh của mình. Vả lại, giờ ta cũng đã già rồi. Việc nuôi dưỡng ngọn lửa thù hận đối với người khác là một điều khó khăn đến bất ngờ đấy. Hơn nữa, hiện tại ta cũng có thứ cần phải bảo vệ. Chính mối liên kết giữa một người với những người xung quanh mới giúp họ được làm người, phải không? Kể cả khi họ có lỡ là một con quái vật đi chăng nữa."
+"Ta dùng sức mạnh bịt miệng tất cả. Vả lại giờ ta già rồi. Cứ ôm khư khư mối thù hận với người đời hóa ra lại khó khăn đến không ngờ đấy. Hơn nữa, giờ ta cũng có thứ cần bảo vệ. Chính mối dây ràng buộc giữa người với người mới giữ cho người ta còn là con người, phải không? Dẫu cho có lỡ biến thành một con quái vật đi chăng nữa."
 
-Ông lão rõ ràng đang nghĩ về bản thân mình, Goblin và Siren, nhưng những lời lẽ ấy cũng vang vọng sâu sắc trong lòng tôi bởi tôi nghĩ ông ta nói hoàn toàn chuẩn xác. Tôi có những người như Lorraine và Augurey, những người chấp nhận con người thật của tôi. Chính vì lẽ đó, dẫu cho thể xác này là của một con quái vật, tôi vẫn có thể là chính mình. Tôi dám chắc về điều đó.
+Ông lão rõ ràng đang nghĩ về bản thân mình, Goblin và Siren, nhưng những lời ấy cũng chạm đến lòng tôi, bởi tôi thấy ông ấy nói chẳng sai chút nào. Tôi có những người như Lorraine và Augurey bên cạnh, những người chấp nhận con người thật của tôi. Nhờ thế, dẫu mang thân xác của một con quái vật, tôi vẫn có thể là chính mình. Tôi tin chắc vào điều đó.
 
-Nếu thủ lĩnh của tổ chức những kẻ sở hữu dị năng kia cũng có nét gì đó giống ông lão, thì đó có lẽ chẳng phải một nhóm quá đỗi tồi tệ—nói đúng hơn là đối với một tổ chức chuyên nhận nhiệm vụ ám sát. Nhưng mà này, khéo họ cũng nhận cả những loại ủy thác khác nữa chứ nhỉ?
+Nếu thủ lĩnh của tổ chức những kẻ mang dị năng kia cũng có nét giống ông lão, thì đó có lẽ không đến nỗi là một nhóm quá tệ—dù sao cũng là tổ chức chuyên nhận ám sát mà. Nhưng mà, biết đâu họ cũng nhận cả những kiểu ủy thác khác nữa thì sao?
 
 ◆◇◆◇◆
 
 Phành phạch phành phạch!
 
-Một âm thanh vang lên từ bên ngoài cửa sổ. Tôi nhìn sang và thấy đó là một con bồ câu, và sau khi quan sát kỹ hơn, tôi nhận ra có thứ gì đó được buộc vào chân nó.
+Một tiếng động vọng vào từ bên ngoài cửa sổ. Tôi nhìn ra thì thấy một con bồ câu, nhìn kỹ hơn mới nhận ra có vật gì đó buộc ở chân nó.
 
-"Đó là chim bồ câu đưa thư mà Goblin hay dùng đấy," ông lão nói. "Nếu muốn, các cậu có thể mở cửa sổ cho nó bay vào."
+"Đó là bồ câu đưa thư Goblin hay dùng đấy," ông lão nói. "Các cậu mở cửa sổ cho nó vào cũng được đấy."
 
-Tôi đoán ông ta cho chúng tôi cơ hội từ chối là bởi có khả năng nó sẽ gây hại cho chúng tôi theo cách nào đó. Suy cho cùng, vẫn có khả năng mảnh giấy đã được khắc một ma pháp trận kích hoạt ma pháp ngay khoảnh khắc mở ra. Dẫu rằng việc sản xuất hàng loạt thứ như thế sẽ rất hiệu quả cho các phi vụ ám sát, nhưng nó lại không thực tế chút nào nếu tính đến tất cả các khoản chi phí liên quan.
+Tôi đoán sở dĩ ông ấy để bọn tôi có quyền từ chối là vì sợ nó có thể gây hại cho chúng tôi bằng cách nào đó. Dù sao thì cũng có khả năng trên giấy được khắc ma pháp trận kích hoạt phép thuật ngay khi mở ra. Tuy sản xuất hàng loạt thứ như vậy sẽ rất hữu dụng cho các phi vụ ám sát, nhưng xét đến chi phí thì lại chẳng thực tế chút nào.
 
-Khoản đầu tư đắt đỏ nhất chính là bản thân con bồ câu. Việc huấn luyện một con chim có thể bay tới đúng đích đến mong muốn đòi hỏi thời gian, tiền bạc cùng vô vàn thứ khác. Để rồi nó sẽ tan biến trong tích tắc. Chẳng hiệu quả chút nào.
+Khoản tốn kém nhất chính là bản thân con bồ câu. Huấn luyện một con chim bay chuẩn xác đến đích đòi hỏi thời gian, tiền bạc cùng bao công sức. Thế rồi nó lại mất mạng chỉ trong chớp mắt. Chẳng hiệu quả chút nào.
 
-Sau khi nhìn con bồ câu, chúng tôi quay sang Lorraine. Với ma nhãn của mình, cô ấy có thể nhìn thấu những cạm bẫy kiểu đó.
+Nhìn con bồ câu xong, cả bọn quay sang Lorraine. Với ma nhãn của mình, cô ấy có thể nhìn thấu những loại bẫy như thế.
 
-Giấy có khắc ma pháp trận là một dạng ma cụ, và vì ma pháp chắc chắn sẽ kích hoạt khi mở giấy ra, nên nó thường được nạp sẵn Ma Lực từ trước. Đó là lý do nó không thực sự được ứng dụng làm vũ khí; một con mắt tinh tường hoàn toàn có thể nhìn thấu nó.
+Giấy vẽ ma pháp trận cũng là một dạng ma cụ, và vì ma pháp sẽ kích hoạt ngay khi mở giấy ra, nên người ta thường phải nạp sẵn Ma Lực từ trước. Đó là lý do nó không mấy khi được dùng làm vũ khí; người có mắt nhìn đều dễ dàng nhận ra.
 
-Lorraine cẩn thận quan sát nó một lúc rồi gật đầu. "Chắc không sao đâu."
+Lorraine cẩn thận quan sát con chim một lát rồi gật đầu. "Chắc không sao đâu."
 
-Tôi mở cửa sổ ra và con bồ câu vỗ cánh bay tới đậu ngay trên đầu Siren.
+Tôi mở cửa sổ, con bồ câu liền vỗ cánh bay vào rồi đậu ngay trên đầu Siren.
 
-Cô ta khựng lại một nhịp rồi mới nói, "Biến đi coi," nhưng lại chẳng hề có động thái xua nó đi. Có lẽ cô ta thích động vật.
+Ả khựng lại một thoáng rồi mới nói, "Xéo đi coi," nhưng chẳng hề có ý xua nó xuống. Có lẽ ả cũng thích động vật.
 
-Ông lão bước lại gần cô ta, vừa đi vừa nói với chúng tôi. "Thấy chưa? Ta đã bảo là động vật rất thích con bé mà." Ông ta tháo mảnh giấy ghi chú khỏi chân con bồ câu, mở ra rồi đưa cho chúng tôi xem.
+Ông lão bước lại gần ả, vừa đi vừa nói với bọn tôi. "Thấy chưa? Ta đã bảo lũ thú vật quấn con bé lắm mà." Ông ấy gỡ mẩu giấy buộc ở chân bồ câu, mở ra rồi đưa cho bọn tôi xem.
 
-Đáng tiếc là toàn bộ đều được viết bằng mật mã, nên chúng tôi chịu chết chẳng hiểu nó ghi cái gì. Chúng tôi nhờ ông lão giải mã, và trong lúc ông ta làm việc đó, cuộc trò chuyện dần dà chuyển hướng sang dị năng của Siren.
+Tiếc là toàn bộ đều viết bằng mật mã nên bọn tôi chịu chết chẳng hiểu gì. Bọn tôi đành nhờ ông lão giải mã giùm, và trong lúc ông ấy dịch thư, câu chuyện dần dà chuyển sang dị năng của Siren.
 
-"Hay thật đấy," tôi nói. "Nó bay thẳng tới chỗ Siren luôn. Trông cũng vui mắt phết."
+"Hay thật đấy," tôi nói. "Nó bay thẳng tới chỗ Siren luôn. Trông cũng thích mắt phết."
 
-"Ừ, một con chim thì dễ thương đấy," Siren uể oải nói, "nhưng anh cứ thử vác cái dị năng này đi đến nơi nào có hàng trăm con chim mà xem. Cảm giác như sắp chết đến nơi ấy."
+"Ừ, một con thì thấy dễ thương đấy," Siren uể oải nói, "nhưng anh cứ thử vác cái dị năng này tới chỗ nào có hàng trăm con chim mà xem. Cảm giác chẳng khác nào muốn chết đi cho xong ấy."
 
-Tôi mường tượng ra cảnh tượng đó, và quả thực kinh hoàng. Ngay từ đầu, chim chóc—nhất là lũ chim hoang dã—vốn là loài động vật bẩn thỉu đến bất ngờ. Với số lượng đủ lớn, phân của chúng sẽ rơi lộp bộp vung vãi khắp mọi nơi. Thật tởm lợm.
+Tôi mường tượng cảnh đó thôi cũng thấy rùng mình. Vốn dĩ chim chóc—nhất là lũ chim hoang dã—là loài bẩn thỉu đến không ngờ. Nếu tụ tập đông như thế, phân chim sẽ rơi lộp bộp vung vãi khắp nơi. Nghĩ thôi đã thấy tởm.
 
-"Nhưng ở trong rừng cô đâu có gặp vấn đề gì," tôi nói. Chúng tôi vừa băng qua những cánh rừng cách đây vài ngày, và tôi không hề thấy bất kỳ sự tụ tập bất thường nào của chim muông hay muông thú quanh cô ta cả.
+"Nhưng lúc ở trong rừng cô đâu có bị gì," tôi nói. Bọn tôi mới băng qua rừng cách đây vài hôm, mà tôi đâu thấy chim muông hay thú rừng kéo đến quanh ả bất thường đâu.
 
-"Tôi có thể kiềm chế nó nếu muốn," Siren đáp. "Nhưng không phải lúc nào tôi cũng làm được như vậy đâu. Những gì tôi từng phải trải qua..."
+"Muốn kiềm lại thì tôi vẫn kiềm được," Siren đáp. "Nhưng không phải từ xưa đến giờ lúc nào cũng làm được đâu. Những chuyện tôi từng trải qua..."
 
-Có vẻ như cô ta lập tức mang những gì mình vừa nói ra thực hành ngay, bởi tư thế của cô ta hơi chuyển dịch như thể đang tập trung vào một luồng sức mạnh vô hình nào đó. Con bồ câu lập tức bay khỏi đầu cô ta như thể vừa được giải thoát khỏi một câu thần chú và đậu lên chiếc giá treo mũ ở góc phòng.
+Dường như ả lập tức thực hành ngay điều mình vừa nói, bởi dáng người ả hơi khẽ động như đang tập trung vào một nguồn sức mạnh vô hình nào đó. Con bồ câu liền rời khỏi đầu ả như thể vừa được giải thoát khỏi một ma pháp, rồi sà xuống đậu trên chiếc giá treo mũ ở góc phòng.
 
-Siren thở hắt ra. "Làm vậy lúc nào cũng khiến tôi mệt lử." Cô ta vừa thả lỏng người thì con bồ câu liền giật nảy mình rồi bay vù trở lại ngự trên đỉnh đầu cô ta.
+Siren thở hắt ra. "Lần nào làm thế tôi cũng mệt lử cả người." Ả vừa thả lỏng ra một cái, con bồ câu liền giật bắn mình rồi lại bay vù tới đậu chễm chệ trên đỉnh đầu ả.
 
-"Nếu việc đó làm cô kiệt sức nhanh đến vậy, thì chuyến hành trình vừa qua hẳn phải vất vả lắm," Lorraine nói.
+"Mới thế đã mệt lử thì dọc đường đi hẳn phải khổ sở lắm," Lorraine nói.
 
-"Khoảng cách cũng là một yếu tố nữa," Siren đáp. "Nếu chúng ở cự ly gần thế này, tôi cần phải tập trung cao độ. Nhưng nếu chúng ở, chẳng hạn như bên ngoài căn phòng này hay ở xa hơn, thì tôi không cần phải cố gắng nhiều đến thế."
+"Còn tùy vào khoảng cách nữa," Siren đáp. "Ở gần cỡ này thì tôi phải tập trung cao độ. Chứ nếu chúng ở tít ngoài phòng này hay xa hơn nữa, tôi chẳng cần phải tốn sức đến thế."
 
-Dẫu thoạt nghe qua thì đó có vẻ là một thứ sức mạnh cực kỳ tiện lợi, xét đến việc nó về cơ bản là ma thuật không cần tiêu tốn Ma Lực để duy trì, nhưng dường như nó không hẳn chỉ toàn những điểm ưu việt. Nó cũng đi kèm với những nỗi khổ riêng. Vốn dĩ những dị năng đặc thù luôn gắn liền với gian truân trắc trở, nên thực sự khó lòng mà ghen tị với việc sở hữu chúng được.
+Thoạt nghe qua thì đây có vẻ là một năng lực vô cùng tiện lợi, bởi về cơ bản nó chẳng khác nào ma thuật không tốn Ma Lực để duy trì, nhưng xem ra không phải chỉ toàn điều tốt. Bản thân nó cũng đi kèm bao nỗi khổ sở riêng. Vốn dĩ dị năng độc nhất luôn gắn liền với trắc trở gian truân, nên nói thật cũng chẳng có gì đáng để thèm muốn cả.
 
-Ông lão trông như thể đã đọc xong, nên tôi liền lên tiếng. "Vậy trong thư nói gì thế ông?"
+Thấy ông lão dường như đã đọc xong, tôi liền lên tiếng. "Sao rồi, trong thư viết gì thế ông?"
 
-"Goblin đã gặp thủ lĩnh và thu xếp đạt được một thỏa thuận rồi," ông ta đáp.
+"Goblin đã gặp thủ lĩnh và thỏa thuận xong xuôi rồi," ông ấy đáp.
 
-"Tôi biết ngay giao việc đó cho anh ta là hoàn toàn đúng đắn mà."
+"Biết ngay giao việc đó cho hắn là không sai mà."
 
-Augurey huýt sáo một tiếng. "Không tệ." Cử chỉ đó trông có vẻ hờ hững, nhưng tính cách anh ta vốn dĩ là như vậy. "Vậy địa điểm gặp mặt ở đâu? Và chúng ta đi ngay bây giờ sao?"
+Augurey huýt sáo một tiếng. "Không tệ." Nghe thì có vẻ hờ hững, nhưng tính anh ấy vốn thế. "Vậy điểm hẹn ở đâu? Giờ đi luôn à?"
 
-"Không, như thế thì gấp gáp quá," ông lão nói. "Ngày mai các cậu mới tới căn cứ của bọn ta."
+"Không, thế thì vội quá," ông lão nói. "Ngày mai các cậu mới đến căn cứ của bọn ta."
 
-"Ông sẽ dẫn chúng tôi tới đó chứ?"
+"Ông sẽ dẫn bọn tôi tới đó chứ?"
 
-"Nếu các cậu không phiền. Nhưng ta có chút đắn đo nếu tất cả chúng ta cùng đi. Một người trong số các cậu nên ở lại. Nếu có thể, ta cũng muốn Siren làm điều tương tự."
+"Nếu các cậu không ngại. Nhưng ta thấy hơi lấn cấn nếu tất cả chúng ta cùng đi. Nên có một người trong các cậu ở lại đây. Nếu được, ta cũng muốn Siren ở lại."
 
-Ông lão, theo mọi lẽ thường tình, hẳn đang nghĩ đến việc bọn họ có thể bị xử tử vì làm thất bại nhiệm vụ nếu cùng đi. Nghe như thể ông ta muốn ít nhất Siren cũng có thể giữ được mạng sống. Thêm vào đó, nếu chúng tôi để cô ta ở lại cùng một người trong nhóm và tổ chức quyết định ra tay thủ tiêu những người còn lại đến căn cứ, chúng tôi có thể đe dọa sẽ vạch trần bọn chúng để khiến chúng phải cân nhắc lại. Nhìn chung, đề xuất của ông lão dường như là phương án tốt nhất. Vấn đề duy nhất là...
+Nhiều khả năng ông lão đang nghĩ đến chuyện nếu cùng đi, bọn họ có thể bị xử tử vì làm hỏng nhiệm vụ. Có vẻ như ông ấy muốn ít nhất Siren cũng giữ được mạng sống. Thêm nữa, nếu để ả ở lại cùng một người trong nhóm bọn tôi, lỡ tổ chức có tính nước thủ tiêu những người đến căn cứ thì bọn tôi vẫn có thể đem chuyện vạch trần bọn chúng ra đe dọa để chúng phải suy nghĩ lại. Nhìn chung, đề xuất của ông lão xem ra là phương án tối ưu nhất. Vấn đề duy nhất là...
 
-"Ai sẽ ở lại đây?" Lorraine hỏi, nhìn tôi và Augurey.
+"Ai sẽ ở lại?" Lorraine hỏi, đưa mắt nhìn tôi và Augurey.
 
-Augurey nhanh nhảu đáp, "Tôi nghĩ người đó nên là tôi. Ồ, nhưng không phải vì tôi sợ đâu đấy nhé, hiểu chứ? Bọn chúng có thể phái người tới đây sau khi các cậu rời đi, và vì tôi am hiểu thành phố này hơn, tôi sẽ làm tốt hơn trong việc dắt mũi bọn chúng."
+Augurey nhanh nhảu đáp. "Tôi nghĩ để tôi ở lại là hợp nhất. Ồ, nhưng không phải vì tôi sợ đâu đấy nhé, rõ chưa? Bọn chúng có thể phái người tới đây sau khi hai người đi, mà tôi lại rành rẽ thành phố này hơn, nên sẽ dễ dắt mũi bọn chúng hơn nhiều."
 
-"Đúng vậy, anh làm được đấy," Lorraine nói. "Rentt và tôi không rành rẽ vương đô cho lắm. Anh thấy thế này có ổn không, Rentt?"
+"Cũng đúng, anh làm được đấy," Lorraine nói. "Rentt với tôi không rành vương đô cho lắm. Anh thấy thế nào, Rentt?"
 
 Tôi gật đầu.
 
 ◆◇◆◇◆
 
-"Này," Goblin nói khi bước vào phòng. "Mọi người chắc chẳng cần tôi nữa đâu, nhưng tôi vẫn quay lại đây. Tôi cũng có chuyện này cần phải nói với mọi người nữa."
+"Chào cả nhà," Goblin nói khi bước vào phòng. "Chắc mọi người chẳng cần đến tôi nữa đâu, nhưng tôi vẫn quay lại. Với lại tôi cũng có chuyện này cần nói nữa."
 
-Hôm nay là ngày chúng tôi sẽ hướng tới căn cứ của tổ chức, với sự dẫn đường của ông lão. Đáng lý chẳng có lý do thực sự nào để Goblin phải tạt qua đây, xét đến việc chúng tôi đã nhận được chim bồ câu đưa thư của hắn, nhưng nghe qua sự tình thì dù sao bọn họ cũng đã phái hắn tới đón chúng tôi. Trông hắn có vẻ hơi bơ phờ, và nhìn vào diện mạo của hắn, tôi phần nào đoán ra được lý do.
+Hôm nay là ngày bọn tôi lên đường đến căn cứ của tổ chức dưới sự dẫn đường của ông lão. Đáng ra Goblin chẳng cần phải tạt qua đây làm gì sau khi đã gửi bồ câu đưa thư, nhưng nghe chừng bọn chúng vẫn phái hắn tới đón bọn tôi. Trông hắn có vẻ hơi phờ phạc, và nhìn vẻ ngoài của hắn thì tôi cũng đoán được phần nào lý do.
 
-"Sao anh lại tơi tả thế kia?" tôi hỏi.
+"Sao trông anh tơi tả thế kia?" tôi hỏi.
 
-Khắp người Goblin đầy rẫy những vết thương. Bộ quần áo hắn mặc tuy còn mới nhưng chẳng thể che giấu hết mọi thương tích. Dẫu không có vết thương nào trông quá nghiêm trọng, nhưng những vết sẹo và bầm tím thực tế đã phủ kín khắp cơ thể hắn. Chắc hẳn tổ chức đã phát hiện ra từ trước việc hắn làm hỏng nhiệm vụ và tra tấn hắn một trận tơi bời.
+Khắp người Goblin chằng chịt vết thương. Quần áo hắn mặc tuy mới nhưng chẳng thể che hết mọi thương tích. Dẫu không có vết thương nào quá nặng, nhưng vết trầy xước và bầm tím gần như phủ kín khắp người hắn. Hẳn là tổ chức đã sớm đánh hơi được việc hắn làm hỏng nhiệm vụ nên tra tấn cho một trận tơi bời.
 
-"À, về chuyện đó thì..." Goblin gãi đầu. "Tôi đã giải thích những gì xảy ra cho mọi người nghe—ý tôi khi nói 'mọi người' là chỉ những người đích thân ông già chiêu mộ thôi, chứ không phải những kẻ khác—nhưng chẳng ai thèm tin khi tôi nói rằng ông già đã thua hai Ngân Cấp và một Đồng Cấp cả. Dù rằng tôi đã có lời khẳng định của ông già về chuyện đó, lại tận mắt thấy ma pháp khổng lồ mà cô bắn ra đằng xa, nên tôi cứ khăng khăng lặp đi lặp lại mãi... nhưng vô ích. Rốt cuộc lại biến thành một vụ ẩu đả nhỏ, nên tôi mới ra nông nỗi này đây."
+"À, chuyện đó thì..." Goblin gãi đầu. "Tôi có giải thích sự tình cho mọi người nghe—mà ý tôi 'mọi người' ở đây chỉ là mấy người đích thân ông già chiêu mộ thôi, chứ không phải đám khác—nhưng chẳng ai thèm tin khi tôi bảo ông già đã thua hai Ngân Cấp và một Đồng Cấp. Dù tôi có lời ông già xác nhận, lại còn tận mắt thấy ma pháp khổng lồ cô bắn ra từ đằng xa, nên tôi cứ khăng khăng cãi lại... nhưng chẳng ăn thua. Rốt cuộc lại biến thành một vụ ẩu đả nhỏ, thế là tôi mới thành ra nông nỗi này."
 
-Ông lão lộ vẻ bực dọc. "Lũ nhóc ranh này... Thôi, thây kệ vậy. Bọn chúng sẽ hiểu ra nếu nghe chính miệng ta nói."
+Ông lão lộ vẻ bực dọc. "Mấy cái thằng ranh này... Thôi, thây kệ vậy. Bọn chúng sẽ hiểu ra nếu nghe chính miệng ta nói."
 
-Hôm nay ông ta sẽ cùng chúng tôi tới căn cứ, nên tôi cho rằng mọi khúc mắc rồi sẽ được làm sáng tỏ thôi. Bọn chúng chắc chắn phải tin nếu điều đó thốt ra từ chính đương sự... phải chứ? Dù sao thì tôi cũng mong là vậy.
+Hôm nay ông ấy sẽ cùng bọn tôi tới căn cứ, nên tôi nghĩ mọi chuyện rồi cũng được làm sáng tỏ thôi. Chính người trong cuộc nói ra thì bọn chúng buộc phải tin... đúng không nhỉ? Dù sao thì tôi cũng mong là thế.
 
-Goblin dường như cũng có cùng mối hoài nghi như tôi, bởi hắn lên tiếng với ánh mắt nhìn xa xăm. "Chúng ta chỉ có thể hy vọng vậy thôi... Dù sao thì tôi tới đây cũng là để nhắc mọi người hãy cẩn thận. Chẳng biết đằng nào mà lần với lũ người đó đâu. À, còn về vấn đề chính thì không có khúc mắc gì cả. Thủ lĩnh rất sẵn lòng gặp mặt mọi người."
+Goblin dường như cũng có mối hoài nghi giống tôi, bởi ánh mắt hắn nhìn xa xăm khi cất tiếng. "Cũng chỉ biết hy vọng thế thôi... Dù sao thì tôi tới đây là để nhắc mọi người cẩn thận. Với đám người đó thì chẳng biết đằng nào mà lần đâu. À, còn chuyện chính thì không vấn đề gì. Thủ lĩnh rất sẵn lòng gặp mặt mọi người."
 
-"Làm cách nào anh thuyết phục được ông ta đồng ý thế?" Lorraine hỏi.
+"Làm sao anh thuyết phục được người đó đồng ý thế?" Lorraine hỏi.
 
-"Tôi đã bảo là, 'Sau khi quan sát kỹ lưỡng các mục tiêu, chúng tôi phát hiện ra có sự sai lệch trong những thông tin trước đó được cung cấp. Do đó, thật vô cùng đáng tiếc khi việc tiếp xúc trực tiếp đã trở nên cần thiết. Hơn nữa, theo đánh giá của Spriggan, các mục tiêu là những nhân vật mà việc biến họ thành kẻ thù sẽ rất rắc rối. Chúng tôi không chắc về cơ hội thành công của mình nếu không có viện binh, nhưng chẳng còn lựa chọn nào khác, chúng tôi buộc phải đối đầu với họ.'"
+"Tôi bảo là, 'Sau khi quan sát kỹ các mục tiêu, chúng tôi phát hiện thông tin được cung cấp từ trước có sai lệch. Vì vậy, dẫu vô cùng đáng tiếc nhưng việc tiếp xúc trực tiếp là bất khả kháng. Hơn nữa, theo đánh giá của Spriggan, các mục tiêu là những kẻ mà nếu biến họ thành kẻ thù thì sẽ rất phiền phức. Chúng tôi không nắm chắc phần thắng nếu thiếu quân chi viện, nhưng chẳng còn lựa chọn nào khác, chúng tôi buộc phải giáp mặt họ.'"
 
-Goblin tiếp tục. "'Sau đó, các mục tiêu bày tỏ với chúng tôi mong muốn được gặp mặt cấp trên của chúng ta. Lẽ dĩ nhiên đây không phải là một yêu cầu đơn giản, nhưng vì tin rằng điều đó đem lại lợi ích, chúng tôi đã quay về để báo cáo và xin ý kiến chỉ thị tiếp theo. Nếu ngài không muốn lắng nghe họ phân trần, thì có lẽ việc dẫn họ trở về căn cứ của chúng ta cũng có thể coi là chúng tôi đã hoàn thành nhiệm vụ chăng?' Đại khái đó là những gì tôi cố gắng truyền đạt."
+Goblin nói tiếp. "'Sau đó, các mục tiêu bày tỏ mong muốn được gặp mặt cấp trên của chúng ta. Lẽ dĩ nhiên đây không phải yêu cầu đơn giản, nhưng vì tin rằng chuyện này có lợi, chúng tôi đã quay về để báo cáo và xin chỉ thị tiếp theo. Nếu ngài không muốn lắng nghe họ phân trần, thì việc dẫn họ về căn cứ của chúng ta liệu có thể xem là chúng tôi đã hoàn thành nhiệm vụ chăng?' Đại khái tôi đã cố gắng diễn đạt như thế đấy."
 
-Hử, vậy là hắn đã quyết định bám sát phần lớn sự thật sao? Nghe qua thì có vẻ hắn không hề đả động đến chuyện bọn họ đã thua chúng tôi hay chuyện chúng tôi muốn họ chấm dứt việc nhắm vào mình, nhưng đó vốn dĩ là những chủ đề rất khó nói ra. Tôi nghĩ đó là một lựa chọn đúng đắn, bởi nếu hắn đi quá sâu vào chi tiết, nhiều khả năng bọn chúng sẽ chỉ coi hắn là kẻ phản bội mà thôi.
+Hử, vậy là hắn quyết định bám sát phần lớn sự thật à? Nghe qua thì có vẻ hắn không hề đả động chuyện bọn họ bị bọn tôi đánh bại, hay chuyện bọn tôi muốn họ ngừng nhắm vào mình, nhưng đó vốn là những điều rất khó mở lời. Tôi nghĩ đó là lựa chọn đúng đắn, bởi nếu nói quá chi tiết, nhiều khả năng bọn chúng sẽ gán cho hắn cái mác phản bội ngay.
 
-Dẫu vậy, dựa trên những gì Goblin vừa nói, chắc chắn vẫn có khả năng tổ chức sẽ tìm cách giết chúng tôi khi chúng tôi đến căn cứ của họ. Tôi thì bằng cách này hay cách khác vẫn sẽ xoay xở được, nhưng Lorraine thì... Thực ra, cô ấy hoàn toàn đủ khả năng tự bảo vệ bản thân. Dù sao đi nữa, trong trường hợp xấu nhất, chúng tôi vẫn có nhiều phương án ứng phó. Gác chuyện đó sang một bên...
+Dù vậy, dựa theo lời Goblin nói, chắc chắn vẫn có nguy cơ tổ chức sẽ tìm cách trừ khử bọn tôi khi tới căn cứ. Tôi thì kiểu gì cũng xoay xở được thôi, nhưng còn Lorraine... Mà thực ra, cô ấy thừa sức tự bảo vệ bản thân. Dù sao đi nữa, nếu tình thế chuyển biến xấu nhất, bọn tôi vẫn có nhiều cách ứng phó. Tạm gác chuyện đó sang một bên...
 
 "'Spriggan' sao?" tôi hỏi.
 
-Một trong những từ ngữ mà Goblin vừa dùng khiến tôi thấy tò mò. Chà, qua ngữ cảnh thì tôi có thể nhận ra cái tên đó đang ám chỉ ai. Tôi chỉ nêu ra vì muốn có một câu trả lời chắc chắn hơn mà thôi.
+Một trong những cái tên Goblin vừa dùng khiến tôi thấy tò mò. Thật ra nhìn vào ngữ cảnh thì tôi cũng đoán ra là đang nói đến ai rồi. Tôi chỉ hỏi lại cho chắc chắn mà thôi.
 
-"Ta dám chắc cậu đã đoán ra rồi, nhưng đó chính là ta đấy," ông lão nói. "Ta được gọi là 'Spriggan'."
+"Chắc cậu cũng đoán ra rồi, người đó chính là ta đấy," ông lão nói. "Mật danh của ta là 'Spriggan'."
 
-"Spriggan..." Lorraine lặp lại. "Một loài tiên có khả năng hóa khổng lồ. Tương truyền chúng có nét tương đồng với Người Lùn, nhưng người ta không biết nhiều chi tiết cụ thể về chúng. Tôi đoán mật danh đó bắt nguồn từ chính dị năng của ông."
+"Spriggan..." Lorraine nhắc lại. "Một loài tiên có khả năng hóa lớn. Nghe đồn chúng có nét giống Người Lùn, nhưng người ta không rõ thông tin cụ thể về loài này. Tôi đoán mật danh đó bắt nguồn từ chính dị năng của ông."
 
-"Phải. Cũng giống hệt như 'Goblin' và 'Siren' vậy. Dù ta phải thú nhận rằng hiếm khi ta phải giải thích điều đó cho người khác nghe thế này."
+"Phải. Cũng y hệt như 'Goblin' với 'Siren' vậy. Có điều thú thật là hiếm khi ta phải giải thích chuyện đó cho người khác nghe thế này."
 
-Ông lão nở nụ cười gượng gạo. Ông ta vẫn buộc phải nói thật với chúng tôi, nên rõ ràng là chúng tôi đã tình cờ nắm được một điều gì đó hết sức quan trọng.
+Ông lão cười gượng. Ông ấy vẫn bị ràng buộc phải nói thật với bọn tôi, nên xem ra bọn tôi đã vô tình chạm phải một bí mật khá quan trọng.
 
-Augurey quay sang nhìn ông lã—nhìn Spriggan, vẻ đầy tò mò. "Các thành viên khác trong tổ chức của ông cũng có những cái tên tương tự sao?"
+Augurey quay sang nhìn ông lã—nhìn Spriggan, vẻ đầy tò mò. "Các thành viên khác trong tổ chức của ông cũng có mật danh tương tự à?"
 
-"Không phải tất cả mọi người, nhưng phần lớn các nhân vật chủ chốt thì đúng là như vậy."
+"Không phải ai cũng có, nhưng phần lớn các nhân vật chủ chốt thì đúng là vậy."
 
-"Tại sao những người khác lại không?"
+"Thế sao những người khác lại không có?"
 
-"Trong số bọn ta có không ít người sở hữu dị năng yếu ớt, hoặc những năng lực khá mơ hồ. Việc tìm ra một cái tên đại diện chính xác cho nét riêng biệt của họ là rất khó. Nhưng đằng nào bọn ta cũng chỉ sử dụng mật danh trong nội bộ tổ chức mà thôi. Tất cả chúng ta dĩ nhiên đều có tên thật của riêng mình, nên bọn ta không quá câu nệ về mật danh. Cậu có thể coi đó như một hình thức giải trí cũng được."
+"Trong số bọn ta có không ít kẻ dị năng yếu ớt, hoặc năng lực khá mơ hồ. Tìm được cái tên lột tả chính xác nét đặc trưng của từng đứa là rất khó. Nhưng đằng nào bọn ta cũng chỉ dùng mật danh trong nội bộ tổ chức thôi. Dĩ nhiên ai nấy đều có tên thật, nên chẳng việc gì phải câu nệ chuyện mật danh làm gì. Cứ coi đó như một trò tiêu khiển cũng được."
 
-Ông ta nói đúng; cái cách họ chọn mật danh nghe qua quả thực có phần hơi qua loa. Nếu chỉ sử dụng chúng trong nội bộ, thì việc giữ mọi thứ đơn giản cũng là điều hợp lý. Xét đến thực tế là chúng đáng lý phải được giữ bí mật, thì việc chúng tôi phát hiện ra có phần hơi đen đủi cho bọn họ.
+Ông ấy nói đúng; cách bọn họ đặt mật danh nghe qua quả thực có phần hơi tùy tiện. Nếu chỉ dùng trong nội bộ thì cứ đơn giản lại là hợp lý nhất. Xét việc đáng lý chúng phải được giữ bí mật, thì chuyện bọn tôi vô tình biết được cũng hơi xui xẻo cho bọn họ thật.
 
-"Thủ lĩnh cũng có mật danh chứ?" Lorraine hỏi.
+"Tên thủ lĩnh cũng có mật danh chứ?" Lorraine hỏi.
 
-Có lẽ cô ấy tính toán rằng nếu biết được mật danh của hắn, chúng tôi có thể nghĩ ra vài biện pháp đối phó. Tính tò mò nhiều khả năng cũng là một lý do lớn khiến cô ấy hỏi câu đó. Nếu tất cả những gì cô ấy muốn chỉ là biện pháp đối phó, cô ấy đã có thể hỏi thẳng về dị năng của tên thủ lĩnh rồi.
+Có lẽ cô ấy tính rằng nếu biết được mật danh của hắn, bọn tôi có thể nghĩ ra vài biện pháp đối phó. Dĩ nhiên sự tò mò cũng chiếm phần lớn lý do cô ấy hỏi câu đó. Bởi nếu chỉ đơn thuần muốn tìm kế đối phó, cô ấy đã hỏi thẳng về dị năng của tên thủ lĩnh rồi.
 
-"Thủ lĩnh chỉ là thủ lĩnh thôi," Goblin nói. "Cái tên đó cũng chẳng đại diện cho bất kỳ loại năng lực nào cả."
+"'Thủ lĩnh' chỉ là 'thủ lĩnh' thôi," Goblin nói. "Cái tên đó cũng chẳng đại diện cho loại năng lực nào cả."
 
 "Dị năng của tên thủ lĩnh là gì?"
 
-"Lẽ tự nhiên là tôi rất muốn bảo rằng mình không thể nói cho cô biết... Như thế trông tôi chẳng phải sẽ vô cùng dũng cảm và bảnh bao sao? Nhưng sự thật thì, tôi e là mình thực sự chẳng biết gì cả."
+"Tất nhiên là tôi rất muốn bảo mình không thể nói cho cô biết... Như thế trông chẳng phải bảnh bao và can trường lắm sao? Nhưng ngặt nỗi, sự thật là tôi cũng chẳng biết tí gì cả."
