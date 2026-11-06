@@ -142,7 +142,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ancient Vampire | Ancient Vampires | Ma Cà Rồng Cổ Đại | quái vật | 70 | Ma Cà Rồng sống qua năm tháng dài đằng đẵng (古代吸血鬼) |
 | Vampire Princess | Vampire Princesses | Công Chúa Ma Cà Rồng | quái vật | 70 | Ma Cà Rồng nữ xuất hiện trong truyện cổ dân gian (吸血姫) |
 | Twilight Vampire | Twilight Vampires | Ma Cà Rồng Hoàng Hôn | quái vật | 70 | Ma Cà Rồng truyền thuyết trong thần thoại phương xa (黄昏の吸血鬼) |
-| Maaltesian | Maaltesians | cư dân Maalt | khác | 71 | Người dân sinh sống tại thị trấn Maalt |
+| Maaltesian | Maaltesians | cư dân Maalt | khác | 71 | Người dân sinh sống tại thị trấn Maalt; dạng tính từ đi với danh từ chỉ người ("a Maaltesian adventurer") thì dịch "mạo hiểm giả Maalt" |
 | flight membrane | flight membranes; Flight membranes | màng bay | khác | 71 | Cơ quan dạng màng giúp bay lượn ở quái vật dơi/Undead (飛膜) |
 | Compulsory Request | Compulsory Requests; compulsory request; compulsory requests | Ủy Thác Cưỡng Chế | khác | 73 | Ủy thác mang tính bắt buộc do Hội Mạo Hiểm Giả ban bố để tổng động viên thành viên khi quái vật gia tăng bất thường (強制依頼) |
 | scholar-magus |  | học giả ma thuật | chức nghiệp | 74 | Danh xưng học thuật kiêm ma thuật của Lorraine (魔術学者) |

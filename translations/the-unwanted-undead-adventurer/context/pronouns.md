@@ -19,7 +19,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zarid | Zarid / người đàn ông | 28 | Kiếm sĩ kỳ cựu Thượng Đồng Cấp |
 | Raiz Dunner | Raiz / cậu thiếu niên | 33 | Thiếu niên mạo hiểm giả kiếm sĩ Thiết Cấp |
 | Laura Satii | Laura / cô gái / thiếu nữ | 33 | Nữ mạo hiểm giả ma pháp sư Thiết Cấp |
-| Augurey | Augurey / gã / anh ta | 42 | Mạo hiểm giả kỳ dị chuyên mặc đồ bảy sắc cầu vồng |
+| Augurey | Augurey / gã / anh ta; từ #229 là Augurey / anh ấy | 42 | Mạo hiểm giả kỳ dị chuyên mặc đồ bảy sắc cầu vồng; từ Tập 10 là đồng đội thân thiết của Rentt |
 | Ryuntus | Ryuntus / cậu thanh niên / cậu | 45 | Cậu thanh niên Làng Todds |
 | Amiris | Amiris / cô gái / thiếu nữ | 46 | Thiếu nữ Làng Todds, em gái Ryuntus |
 | Lillian | Lillian / Sơ Lillian / người phụ nữ | 49 | Nữ tu phụ trách Cô Nhi Viện Thứ Hai Maalt |
