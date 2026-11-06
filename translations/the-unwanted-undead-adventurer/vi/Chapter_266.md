@@ -1,247 +1,247 @@
 # Chương 266: Tập 11 Chương 4 - Thánh Giả và Cô Nhi Viện (3)
 
-Con chó vừa mới nói đấy ư? Về mặt lý thuyết, tôi đoán thực chất nó là một con quái vật thuộc phân loài chó. Nhưng dẫu vậy, việc nó biết nói vẫn là điều vô cùng kỳ lạ. Nền văn minh không phải là thứ chưa từng tồn tại ở loài quái vật; các chủng Goblin từng lập nên các khu định cư, và đôi khi thậm chí còn học được cả tiếng người.
+Con chó vừa cất tiếng đấy ư? Nói cho đúng thì tôi đoán nó là một con quái vật họ chó. Cơ mà dù thế đi nữa, việc một con chó biết nói vẫn quá đỗi kỳ lạ. Quái vật biết đến văn minh không phải là chuyện chưa từng có; loài Goblin cũng biết lập khu định cư, đôi khi còn học được cả tiếng người.
 
-Cũng hợp lý khi cho rằng các loài quái vật hình người sở hữu những cơ quan tương tự con người, nên nếu cố gắng nói chuyện, có lẽ chúng hoàn toàn có thể làm được. Ngoài bản thân tôi ra thì Isaac và Laura cũng thuộc nhóm đó. Dẫu vậy, mọi chuyện lại hoàn toàn khác khi nhắc tới quái vật dạng thú. Họa chăng chỉ có những cá thể cấp bậc cao mới có khả năng nói tiếng người.
+Quái vật dạng người sở hữu các cơ quan tương tự con người là điều dễ hiểu, nên nếu chịu khó tập tành thì chắc chúng cũng nói được. Ngoài bản thân tôi ra thì Isaac và Laura cũng nằm trong diện này. Nhưng với quái vật dạng thú thì lại là chuyện khác. Họa chăng chỉ những loài cấp cao mới biết nói.
 
-Người ta đồn rằng trong những trường hợp như thế, chúng hoặc là sử dụng chính dây thanh đới của mình, hoặc là cất lời thông qua một năng lực gọi là thần giao cách cảm.
+Nghe đâu trong những trường hợp đó, chúng hoặc dùng thanh đới của chính mình, hoặc nói chuyện bằng một năng lực gọi là thần giao cách cảm.
 
-Sinh vật trước mặt tôi—tên là Pochi thì phải?—rõ ràng vừa cất tiếng sủa bằng miệng như một con chó thông thường, nhưng... tôi tự hỏi rốt cuộc nó đã dùng phương thức nào.
+Con vật trước mặt tôi—hình như tên là Pochi thì phải?—rõ ràng vừa sủa thành tiếng như bao con chó khác, nhưng... không biết rốt cuộc nó đã dùng cách nào.
 
-Kinh ngạc, tôi cất lời: "Vừa rồi có ai khác...?"
+Kinh ngạc quá, tôi buột miệng: "Vừa rồi có ai khác...?"
 
-"Hửm? Có chuyện gì sao anh?" người phụ nữ trẻ vừa ngăn Pochi ban nãy cất tiếng hỏi.
+"Hửm? Có chuyện gì sao anh?" cô gái trẻ vừa giữ Pochi lại ban nãy cất tiếng hỏi.
 
-"À thì, ý tôi là... Hử?"
+"À thì, ý tôi là... Hửm?"
 
-Nhìn phản ứng của cô ấy, có vẻ như cô không hề nhận ra con chó vừa nói chuyện. Chẳng lẽ chỉ có mỗi mình tôi nghe thấy thôi sao?
+Trông phản ứng của cô ấy, dường như cô chẳng hề để ý thấy con chó vừa cất tiếng. Chẳng lẽ chỉ mỗi mình tôi nghe ra?
 
-"Rentt," Lorraine lên tiếng. "Trước mắt thì sao chúng ta không tự giới thiệu bản thân trước đã nhỉ?"
+"Rentt này," Lorraine lên tiếng. "Trước mắt chúng ta cứ giới thiệu bản thân trước đã nhỉ?"
 
-Vậy ra đó không phải là do tôi tưởng tượng.
+Vậy ra không phải do tôi tưởng tượng.
 
-Cụm từ "trước mắt thì" chứa đựng rất nhiều hàm ý sâu xa. Với mọi người xung quanh thì nghe nó hoàn toàn bình thường, nhưng tôi đã nắm bắt được ngụ ý ẩn giấu bên trong. Việc chúng tôi có thể thấu hiểu nhau theo cách này chỉ càng chứng minh Lorraine và tôi đã quen biết nhau lâu đến nhường nào. Cô ấy cũng nghe thấy con chó nói chuyện.
+Hai chữ "trước mắt" mang theo sức nặng không hề nhỏ. Người ngoài nghe thì thấy bình thường, nhưng tôi thừa hiểu ngụ ý ẩn sau câu nói. Phải quen nhau đủ lâu thì Lorraine và tôi mới có thể ngầm hiểu ý nhau như vậy. Cô ấy cũng nghe thấy con chó cất tiếng.
 
-"Cô nói phải," tôi bảo. "Thật thất lễ quá. Tôi là Rentt, còn đây là Lorraine. Chúng tôi kiếm sống bằng nghề mạo hiểm giả."
+"Cô nói phải," tôi bảo. "Thất lễ quá. Tôi là Rentt, còn đây là Lorraine. Chúng tôi kiếm sống bằng nghề mạo hiểm giả."
 
-Tôi bỏ lửng câu hỏi "Còn cô là...?", nhưng người phụ nữ trẻ đang ghì chặt lấy chú chó đã nhanh chóng hiểu ý.
+Tôi không hỏi "Còn cô là...?", nhưng cô gái trẻ đang ghì chặt con chó đã nhanh chóng hiểu ý.
 
-"Tôi là Mel Patiche, người phụ trách Cô Nhi Viện Thứ Ba Vistelya, chính là nơi chúng ta đang đứng đây. Đây là Pochi. Còn đây là..."
+"Tôi là Mel Patiche, người phụ trách Cô Nhi Viện Thứ Ba Vistelya, cũng chính là nơi chúng ta đang đứng. Đây là Pochi. Còn đây là..."
 
-Cô nhìn lũ trẻ, và từng đứa một bắt đầu cất lời tự giới thiệu.
+Cô nhìn đám trẻ, thế là từng đứa một bắt đầu tự giới thiệu.
 
-Có hơn một chục đứa trẻ ở đây, nhưng tôi vẫn cố gắng ghi nhớ hết tên của chúng... hoặc ít nhất là tôi nghĩ mình làm được. Đó là một kỹ năng vô giá đối với mạo hiểm giả. Nếu không thể nắm vững điều đó, bạn sẽ gặp rắc rối to mỗi khi gia nhập một tổ đội ngẫu nhiên để làm nhiệm vụ.
+Ở đây có hơn chục đứa, nhưng tôi vẫn kịp nhớ hết tên... hay ít ra là tôi tưởng mình nhớ được. Với một mạo hiểm giả, đây là kỹ năng vô cùng đắt giá. Không thạo món này thì mỗi lần ghép đội ngẫu nhiên đi làm ủy thác sẽ dễ gặp rắc rối to.
 
-Khỏi phải nói, Lorraine đã thuộc lòng tên của tất cả lũ trẻ chỉ trong chốc lát. Cô ấy chẳng giống tôi chút nào, kẻ luôn chật vật với những mẹo ghi nhớ. Đôi khi, tôi ước gì cô ấy có thể chia cho tôi bớt một phần trí thông minh của mình.
+Khỏi phải nói, Lorraine đã thuộc lòng tên của lũ trẻ chỉ trong chớp mắt. Cô ấy chẳng giống tôi, kẻ luôn chật vật với mấy mẹo ghi nhớ. Lắm lúc tôi chỉ ước cô ấy san bớt chút chất xám sang cho mình.
 
-"Còn tôi là Elza Olgado," Elza nói, khép lại màn giới thiệu. "Dù là mọi người đều biết cả rồi. Nào các em, tôi có mang quà đến này. Đủ cho tất cả mọi người luôn nhé."
+"Còn tôi là Elza Olgado," Elza khép lại màn giới thiệu. "Dù là mấy đứa biết tỏng rồi đấy. Nào các em, tôi có quà cho mọi người đây. Đủ phần cho tất cả nhé."
 
-Cô hướng lũ trẻ về phía những chồng bánh ngọt, thứ chẳng biết từ lúc nào đã được chuyển từ tay tôi sang tay Lorraine. Lũ trẻ lập tức ùa tới vây quanh cô ấy rồi bắt đầu giật lấy bánh từ tay cô như thể một đám cướp đang lột sạch toàn bộ tài sản trần tục của nạn nhân.
+Cô chỉ cho đám trẻ mấy chồng bánh ngọt, thứ chẳng biết đã sang tay Lorraine từ lúc nào. Bọn nhóc lập tức ùa tới vây kín lấy cô, nhao nhao giật bánh trên tay chẳng khác nào toán cướp đang lột sạch sành sanh của nả trên người.
 
-"Đến lũ cướp còn biết giữ chút chừng mực hơn đấy," Lorraine lầm bầm sau khi mọi chuyện đã xong xuôi. Mái tóc cô rối bời và hơi thở thì đứt quãng.
+"Đến cướp có khi còn biết ý hơn thế này," Lorraine lầm bầm khi đám trẻ tản ra. Đầu tóc cô rối bù, hơi thở đứt quãng.
 
-Dĩ nhiên là cô ấy chỉ nói đùa thôi. Lũ cướp thực sự mà dám tấn công cô thì sẽ phải nếm mùi bất ngờ cay đắng ngay. Dẫu vậy, cảnh tượng cô bị bao vây nồng nhiệt đến mức ấy khiến sự so sánh kia quả thực hết sức xác đáng.
+Tất nhiên cô chỉ đùa thôi. Cướp thật mà dám nhào vào cô thì chỉ có chuốc lấy vạ lớn. Dù vậy, thấy cô bị bu kín nhiệt tình đến thế thì ví von như vậy cũng chẳng ngoa chút nào.
 
-Lũ trẻ vừa quét qua người Lorraine như một cơn bão đã biến mất tăm đi đâu đó cùng với chiến lợi phẩm của mình.
+Càn quét qua Lorraine như một cơn lốc xong, đám trẻ ôm chiến lợi phẩm biến đi đằng nào mất tăm.
 
-"Tôi nghĩ tụi nhỏ đang mang vào bếp đấy," Elza giải thích. "Một lát nữa các em sẽ mang ra lại cho chúng ta, kèm cả trà nữa."
+"Chắc tụi nhỏ mang xuống bếp rồi," Elza giải thích. "Lát nữa các em sẽ dọn ra cho chúng ta, có cả trà nữa đấy."
 
-Việc lũ trẻ chủ động đi chuẩn bị đồ ăn cho thấy chúng đã khá quen với chuyện này. Tôi tự hỏi liệu có phải lần nào ghé qua Elza cũng mang theo quà hay không.
+Thấy lũ trẻ tự giác đi chuẩn bị, có thể hiểu chúng đã quá quen với việc này. Không biết có phải lần nào ghé qua Elza cũng xách theo quà như thế không.
 
-"Hôm nay có dịp gì thế ạ, Sơ Elza?" Mel hỏi. "Em thấy chị không dẫn theo đoàn tùy tùng nào cả."
+"Hôm nay có dịp gì thế ạ, Sơ Elza?" Mel hỏi. "Em thấy chị chẳng dẫn theo ai cả."
 
-Tôi đoán cô ấy không tính Lorraine và tôi vào số đó vì chúng tôi đã tự giới thiệu mình là mạo hiểm giả.
+Tôi đoán cô ấy không tính tôi với Lorraine vào, bởi chúng tôi đã tự giới thiệu mình là mạo hiểm giả.
 
-Elza là một Nữ Tu Viện Trưởng. Đoàn tùy tùng của cô hẳn nhiên phải là các giáo sĩ và người hầu cận thuộc Giáo Hội Đông Thiên. Phần lớn mạo hiểm giả đều thô kệch và thiếu lễ độ, nên họ chẳng bao giờ đủ chuẩn để trở thành người hầu cận của một quý tộc hay thành viên giáo phẩm. Hộ vệ thì được, nhưng khi đó thân chủ vẫn sẽ cần thêm người hầu cận đi kèm.
+Elza vốn là Nữ Tu Viện Trưởng. Người đi cùng cô đương nhiên phải là các giáo sĩ và người hầu cận của Giáo Hội Đông Thiên. Mạo hiểm giả phần đông đều ăn sóng nói gió, không đời nào đủ tiêu chuẩn làm người hầu cận cho giới quý tộc hay chức sắc giáo hội. Làm hộ vệ thì được, nhưng khi ấy thân chủ vẫn phải dắt theo người hầu cận.
 
-Điều đó lại càng đúng với một thành viên giáo phẩm cấp cao như Elza. Thế nhưng lúc này cô lại chẳng có ai đi cùng. Chẳng trách Mel lại thấy chuyện này lạ lùng.
+Điều đó lại càng đúng với một chức sắc cấp cao như Elza. Thế mà hôm nay cô lại đi một mình. Chẳng trách Mel thấy lạ.
 
-"Nếu dẫn họ theo thì họ sẽ cằn nhằn không dứt về thời gian cho mà xem," Elza nói. Rồi cô nhoẻn miệng cười. "Đùa chút thôi. Thực ra tôi chỉ muốn dẫn hai người này đến đây hôm nay. Họ là người quen của Lillian ở Maalt đấy."
+"Nếu dắt theo thì bọn họ cứ cằn nhằn giục giã giờ giấc suốt cho mà xem," Elza bảo, rồi nhoẻn miệng cười. "Đùa chút thôi. Thật ra chị chỉ muốn đưa hai người này đến đây hôm nay. Họ là chỗ quen biết với Lillian ở Maalt đấy."
 
-"Gì cơ ạ? Thật sao?!" Mel quay sang phía chúng tôi. "Sơ Lillian dạo này thế nào rồi ạ? Em có viết thư cho chị ấy, nhưng chị ấy chẳng bao giờ hồi âm cả."
+"Gì cơ ạ? Thật sao?!" Mel quay sang chúng tôi. "Sơ Lillian dạo này thế nào rồi ạ? Em có viết thư cho chị ấy, nhưng chẳng bao giờ thấy hồi âm."
 
-Elza cũng từng nói điều tương tự.
+Elza cũng từng bảo y như vậy.
 
-Lillian không hồi âm cho Elza là bởi sơ ấy bị điều chuyển ra vùng biên giới do một cuộc tranh giành quyền lực bên trong Giáo Hội Đông Thiên tại Vistelya. Nếu sơ ấy viết thư trả lời, điều đó có thể mang lại rắc rối cho Elza. Rất có thể tình cảnh của Mel cũng tương tự như vậy.
+Sơ Lillian không hồi âm cho Elza vì từng bị điều chuyển ra vùng biên ải do đấu đá quyền lực bên trong Giáo Hội Đông Thiên tại Vistelya. Nếu sơ ấy viết thư trả lời thì khéo lại mang vạ đến cho Elza. Chắc với Mel cũng chẳng khác là bao.
 
-"Chuyện đó giờ không còn là mối bận tâm nữa rồi," Elza nói. "Lillian đã lấy lại được sức khỏe. Sơ ấy thậm chí còn gửi thư cho tôi nữa cơ."
+"Bây giờ thì không phải lo chuyện đó nữa rồi," Elza nói. "Lillian đã bình phục hẳn. Sơ ấy còn gửi thư cho chị nữa cơ."
 
-Elza chìa bức thư chúng tôi mang từ Maalt tới cho Mel, đôi mắt cô ấy mở to kinh ngạc trước khi đưa tay ra chạm vào bức thư.
+Elza chìa bức thư chúng tôi mang từ Maalt về cho Mel. Mắt cô mở to, run run đưa tay chạm vào nó.
 
-"Cảm giác này quen thuộc quá..." Mel thì thầm.
+"Cảm giác này quen thuộc quá..." Mel lẩm bẩm.
 
-"Thần Lực của Lillian lưu lại trong đó đấy," Elza giải thích. "Phần lớn đã tan biến sau khi tôi mở phong bì, nhưng vẫn còn sót lại một chút."
+"Có Thần Lực của Lillian trong đó đấy," Elza giải thích. "Lúc chị bóc thư thì phần lớn đã tan đi rồi, nhưng vẫn còn sót lại một chút."
 
-"Thật sao ạ? Tạ ơn trời đất vì chị ấy vẫn bình an vô sự. Vậy điều này có nghĩa là rồi chị ấy sẽ quay về đây chứ ạ?"
+"Thật thế sao ạ? May quá, chị ấy vẫn bình yên vô sự. Thế này là chị ấy sắp được về đây rồi phải không chị?"
 
-"Tôi... không dám chắc. Nhưng nếu sơ ấy chọn quay về, sẽ chẳng còn ai có thể phản đối được nữa. Và ngay cả khi sơ ấy không muốn trở lại, sơ ấy vẫn có thể tự do đi lại để thăm nom. Tôi tin chắc em sẽ sớm được gặp lại sơ ấy thôi."
+"Chị... không dám chắc. Nhưng nếu sơ ấy muốn quay về thì chẳng ai dám phản đối nữa đâu. Mà kể cả không muốn về hẳn, sơ ấy vẫn có thể tự do qua lại thăm nom. Chị tin chắc em sẽ sớm được gặp lại sơ ấy thôi."
 
-"Ôi, em nóng lòng quá chừng!" Mel ôm chặt bức thư vào lòng.
+"Ôi, em mong quá đi mất!" Mel ôm chặt bức thư vào ngực.
 
-Cô ấy có vẻ vô cùng yêu quý Lillian, và tôi nhận thấy mình bắt đầu tò mò. Tôi tự hỏi không biết câu chuyện giữa họ là thế nào.
+Trông cô ấy quý Sơ Lillian vô cùng, khiến tôi cũng đâm tò mò không rõ giữa họ có câu chuyện gì.
 
 ◆◇◆◇◆
 
-"Mel đến cô nhi viện này khi còn là một đứa trẻ, ngay trước lúc Lillian rời đi để gia nhập giáo hội," Elza giải thích. "Sau khi trở thành giáo sĩ, cả Lillian và tôi vẫn thường xuyên ghé qua đây để phụ giúp. Đối với chúng tôi, Mel giống như một người em gái, hoặc có lẽ là một đứa con gái vậy."
+"Mel vào cô nhi viện này từ hồi còn bé tí, ngay trước lúc Lillian rời đi phụng sự giáo hội," Elza giải thích. "Sau khi khoác áo giáo sĩ, cả Lillian lẫn tôi vẫn thường xuyên ghé qua đây đỡ đần. Với chúng tôi, Mel chẳng khác nào một người em gái, hay đúng hơn là một đứa con gái vậy."
 
-Vậy ra Lillian, Elza và Mel về cơ bản chẳng khác nào chị em ruột thịt. Trong trường hợp đó, hẳn họ đã phải cảm thấy vô cùng đau lòng khi không thể giữ liên lạc với nhau.
+Hóa ra Lillian, Elza và Mel thân thiết chẳng khác gì chị em ruột. Thành thử việc bặt vô âm tín suốt ngần ấy năm hẳn đã khiến họ buồn lòng lắm.
 
-Vì cô nhi viện của Lillian chịu sự quản lý của Giáo Hội Đông Thiên và Elza lại nắm giữ một vị trí khá cao, nên cô ấy có thể kiểm tra xem sơ Lillian còn sống hay không bất cứ lúc nào mình muốn. Nhưng điều đó chẳng thể nào sánh được với việc tận mắt nhìn thấy người chị em của mình vẫn bình an khỏe mạnh.
+Do cô nhi viện của Sơ Lillian trực thuộc Giáo Hội Đông Thiên mà Elza lại giữ địa vị khá cao, nên cô ấy muốn dò la tin tức xem người kia còn sống hay không lúc nào chẳng được. Song biết tin sao sánh nổi với việc tận mắt thấy người chị em của mình vẫn bình an vô sự.
 
-Elza không thể đến một vùng hẻo lánh như Maalt, còn Mel thì chẳng thể bỏ bê bổn phận của mình tại cô nhi viện. Không giống như Giáo Hội Lobelia, Giáo Hội Đông Thiên không có nguồn tài chính dư dả. Số lượng nhân viên cô nhi viện mà họ có thể duy trì là rất có hạn. Và dẫu cho các giáo sĩ của Giáo Hội Đông Thiên rất được yêu mến ở Vương Quốc Yaaran và người dân hỗ trợ họ bằng đủ mọi cách, thì vẫn có một số công việc ở cô nhi viện mà người ngoài không thể nào cáng đáng nổi.
+Elza không thể cất công đến một nơi hẻo lánh như Maalt, còn Mel cũng chẳng thể bỏ bê công việc ở cô nhi viện. Không như Giáo Hội Lobelia, Giáo Hội Đông Thiên không có hầu bao rủng rỉnh. Lực lượng trông coi cô nhi viện mà họ chu cấp được rất có hạn. Dù các giáo sĩ của Giáo Hội Đông Thiên rất được lòng người dân ở Vương Quốc Yaaran và ai nấy đều hết lòng đỡ đần, vẫn có những việc ở cô nhi viện mà người ngoài không thể nào gánh vác thay.`
 
-Thực hiện một chuyến đi để gặp Lillian đồng nghĩa với việc phải bỏ mặc cô nhi viện không người trông nom suốt nhiều tuần liền. Maalt không hẳn là gần Vistelya. Lorraine và tôi có thể thực hiện chuyến hành trình chỉ trong chớp mắt nhờ các ma pháp trận dịch chuyển, và một phần trong tôi thực sự muốn giúp đỡ những người chị em này, nhưng nguy cơ lộ bí mật lại quá lớn. Bản thân Elza có vẻ đáng tin, nhưng cô ấy là một thành viên cấp cao của Giáo Hội Đông Thiên. Tôi không thể loại trừ khả năng cô ấy sẽ sẵn sàng đặt lợi ích của giáo hội lên hàng đầu nếu thời khắc đó xảy đến.
+Lặn lội đi thăm Sơ Lillian đồng nghĩa với việc bỏ mặc cô nhi viện suốt mấy tuần ròng. Maalt đâu có gần Vistelya cho cam. Lorraine và tôi có thể qua lại trong chớp mắt nhờ ma pháp trận dịch chuyển, thâm tâm tôi cũng rất muốn giúp mấy chị em họ hội ngộ, nhưng nguy cơ bại lộ bí mật lại quá lớn. Bản thân Elza trông có vẻ đáng tin, nhưng dẫu sao cô ấy vẫn là chức sắc cấp cao của Giáo Hội Đông Thiên. Tôi không thể loại trừ khả năng cô ấy sẽ đặt lợi ích của giáo hội lên đầu nếu tình thế bắt buộc.
 
-"Thật đáng tiếc khi Sơ Lillian không viết thư cho cô nữa, nếu hai người thân thiết đến nhường ấy," tôi nói.
+"Hai người thân nhau thế mà Sơ Lillian không viết cho cô một lá thì tiếc thật đấy," tôi bảo.
 
-"Không phải là tôi không thấu hiểu hoàn cảnh của cô. Dù sao thì bản thân Sơ Lillian cũng ốm khá nặng cho tới tận gần đây."
+"Cơ mà tôi cũng hiểu cho hoàn cảnh ngặt nghèo của hai bên. Huống hồ mãi tới gần đây Sơ Lillian mới khỏi bệnh nặng."
 
-Vẻ mặt của Mel lộ rõ nỗi lo lắng. "Sao cơ ạ? S-Sơ Lillian có sao không anh?"
+Nét mặt Mel thoáng vẻ lo âu. "Sao cơ ạ? S-Sơ Lillian có sao không anh?"
 
-"Chúng tôi đã kể cho Elza nghe rồi, sơ ấy từng mắc Bệnh Tích Tụ Chướng Khí. Nhưng giờ thì không sao nữa rồi. Sơ ấy đã khỏe lại rồi."
+"Chúng tôi có nói với Elza rồi đấy, sơ ấy từng mắc Bệnh Tích Tụ Chướng Khí. Nhưng giờ thì khỏi hẳn rồi, không sao nữa đâu."
 
-"Căn bệnh đó chữa trị khó khăn lắm đúng không anh? Nếu tôi nhớ không nhầm thì cần phải có..."
+"Bệnh đó nghe đâu khó trị lắm đúng không anh? Nếu tôi nhớ không lầm thì phải cần tới..."
 
-"Hoa Long Huyết, đúng vậy đấy. Tôi đã đi hái vài bông cho sơ ấy, và một dược sư tài ba đã bào chế thành thuốc cho sơ dùng. Giờ thì sơ ấy đã qua khỏi cơn nguy kịch, đi lại bình thường và đang quán xuyến cô nhi viện rồi."
+"Hoa Long Huyết chứ gì, chuẩn rồi đấy. Tôi đã hái về cho sơ ấy, rồi nhờ một dược sư tài ba bốc thuốc chữa trị. Giờ sơ ấy bình phục hẳn rồi, ngày ngày vẫn đi lại quán xuyến cô nhi viện như thường."
 
-"Thật thế sao?! Vậy là Sơ Lillian mang nợ anh, đồng nghĩa với việc tôi cũng mang nợ anh rồi! Cảm ơn anh, Rentt!"
+"Thật thế ư?! Vậy là Sơ Lillian mang ơn anh, tính ra tôi cũng chịu ơn anh rồi! Cảm ơn anh nhiều lắm, Rentt!"
 
-"Không, có gì đâu..."
+"À, có gì to tát đâu..."
 
-Chuyện đó thực sự chẳng có gì to tát cả. Ủy thác đó là một trải nghiệm tuyệt vời đối với tôi, và cũng nhờ nó mà tôi mới gặp được Isaac, rồi sau đó là Laura. Có lẽ dù thế nào đi nữa tôi cũng sẽ tình cờ chạm mặt họ vào một thời điểm muộn hơn, nhưng ai mà biết tôi sẽ vướng phải những rắc rối kiểu gì nếu không gặp họ từ sớm cơ chứ? Sẽ không hề quá lời khi nói rằng tôi có được ngày hôm nay chính là nhờ đã nhận ủy thác của Alize.
+Thực tình cũng chẳng có gì ghê gớm. Ủy thác đó cho tôi nhiều trải nghiệm quý giá, vả lại nhờ nó mà tôi mới quen biết Isaac, rồi sau đó là Laura. Dù sớm hay muộn có lẽ tôi cũng sẽ chạm mặt họ thôi, nhưng nếu không gặp sớm thì ai biết tôi còn vướng vào bao nhiêu rắc rối nữa? Bảo rằng tôi có được ngày hôm nay là nhờ nhận ủy thác của Alize cũng chẳng ngoa chút nào.
 
-Tôi quay sang Elza. "Gạt chuyện đó sang một bên, cô dẫn chúng tôi đến đây là để có thể nói chuyện về Sơ Lillian sao?"
+Tôi quay sang Elza. "Chuyện đó gác lại đã, cô dẫn chúng tôi tới đây là để hàn huyên về Sơ Lillian đấy à?"
 
-"Phải. Tôi muốn biết liệu hai cậu có sẵn lòng kể cho chúng tôi nghe về cuộc sống của sơ ấy ở Maalt không. Tôi vốn có thể hỏi các cậu sớm hơn, nhưng tôi muốn có cả Mel ở đây nữa." Elza mỉm cười.
+"Đúng thế. Tôi muốn nghe hai cậu kể về cuộc sống của sơ ấy ở Maalt. Thật ra tôi hỏi trước cũng được, nhưng muốn để cả Mel cùng nghe nữa." Elza mỉm cười.
 
-"Hơn nữa, tôi cũng muốn các cậu giúp xách đống đồ mua sắm nữa."
+"Với lại, tôi cũng muốn nhờ hai người xách phụ đống đồ mua sắm nữa chứ."
 
-Tôi khá chắc vế sau chỉ là một câu nói đùa. Dù có lẽ suy nghĩ thật lòng của cô ấy cũng đã lọt ra ngoài đôi chút. Chắc chắn cô ấy sẽ gặp rất nhiều khó khăn nếu phải tự mình mang ngần ấy hộp bánh ngọt một mình. Không hẳn vì trọng lượng, mà phần nhiều là do chúng quá cồng kềnh.
+Tôi khá chắc vế sau chỉ là nói đùa, dù khéo cô ấy cũng buột miệng nói thật một phần. Tự tay ôm hết ngần ấy bánh ngọt thì đúng là quá sức với cô ấy, không hẳn vì nặng mà chủ yếu là do quá cồng kềnh.
 
-"Được chứ, tôi có thể kể cho hai người nghe về Sơ Lillian," tôi bảo. "Lorraine cũng có thể kể nữa."
+"Được thôi, tôi có thể kể chuyện của Sơ Lillian cho hai người nghe," tôi nói. "Lorraine cũng kể được đấy."
 
-Cô ấy cũng đã nhận Alize làm đệ tử của mình, nên bản thân Lorraine cũng có mối quan hệ riêng với Sơ Lillian. Thỉnh thoảng cô ấy lại quyên góp ma cụ dư thừa cùng các loại thuốc và những thứ tương tự. Rất có thể cô ấy còn gặp Sơ Lillian thường xuyên hơn cả tôi.
+Lorraine đã nhận Alize làm học trò, nên cô ấy cũng có mối liên hệ riêng với Sơ Lillian. Thi thoảng cô ấy vẫn đem quyên góp ma cụ hay thuốc men thừa thãi, đại loại thế. Có khi số lần cô ấy gặp Sơ Lillian còn nhiều hơn cả tôi.
 
-"Tôi rất sẵn lòng," Lorraine nói.
+"Tôi rất sẵn lòng," Lorraine đáp.
 
-Chúng tôi dành một khoảng thời gian trò chuyện rôm rả về Sơ Lillian. Không chỉ riêng chúng tôi—cả Elza và Mel cũng cùng góp vui bằng những câu chuyện về quãng thời gian thời thơ ấu của sơ ấy tại cô nhi viện này, cũng như chuỗi ngày sơ ở giáo hội. Tuy nhiên, chủ đề về lý do tại sao Sơ Lillian lại bị trục xuất khỏi vương đô không bao giờ được đề cập tới. Tôi đoán đó là chuyện nội bộ của giáo hội.
+Chúng tôi ngồi hàn huyên rôm rả về Sơ Lillian một hồi lâu. Không chỉ riêng chúng tôi, cả Elza lẫn Mel cũng góp vui bằng những mẩu chuyện hồi nhỏ của sơ ấy ở cô nhi viện này, rồi cả quãng thời gian sơ ở giáo hội. Dẫu vậy, tuyệt nhiên không ai đả động tới lý do Sơ Lillian bị điều chuyển khỏi vương đô. Tôi đoán đó là chuyện tế nhị nội bộ của giáo hội.
 
-Theo lời Elza và Mel, thuở nhỏ Lillian là một cô bé khá hiếu động, đến mức gần như biến họ thành chân sai vặt của mình. Song đồng thời, sơ ấy cũng là một người chị cả ân cần, chu đáo được tất cả mọi người trong cô nhi viện hết mực yêu quý.
+Theo lời Elza và Mel, thuở nhỏ Lillian là một cô bé hiếu động ra phết, đến mức biến cả hai thành chân sai vặt cho mình. Nhưng cùng với đó, sơ ấy cũng là một người chị chu đáo, được lũ trẻ trong cô nhi viện hết mực yêu thương.
 
-Tôi cũng từng cảm nhận được điều đó ở cô nhi viện tại Maalt. Khi bước vào bên trong, người ta có cảm giác không thể nào làm trái lời sơ ấy. Lũ trẻ cũng chẳng bao giờ dám chống đối lại sơ. Dạo này, sơ luôn giữ vẻ dịu dàng và thân thiện, và dường như cái tính nghịch ngợm ngày xưa đã biến mất hoàn toàn, nhưng có lẽ lũ trẻ vẫn cảm nhận được nó vẫn còn lẩn khuất đâu đó bên trong con người sơ.
+Ở cô nhi viện Maalt tôi cũng từng lờ mờ nhận ra điều đó. Hễ bước chân vào là người ta có cảm giác tuyệt đối không thể làm trái lời sơ. Lũ trẻ ở đó cũng chẳng đứa nào dám ho he chống đối. Bây giờ sơ luôn dịu dàng, hòa nhã, tưởng như tính nghịch ngợm ngày bé đã bay biến sạch trơn, nhưng khéo đám nhóc vẫn đánh hơi thấy cái uy ấy còn lẩn khuất bên trong.
 
-Sau khoảng thời gian cười nói rôm rả đầy thú vị...
+Sau một hồi chuyện trò rôm rả...
 
-"Tôi nghĩ hôm nay đến đây thôi là được rồi. Ôi, suýt nữa thì tôi quên khuấy mất. Cầm lấy này."
+"Tôi nghĩ hôm nay thế là được rồi đấy. Ôi, suýt nữa thì tôi quên béng mất. Này, cầm lấy đi."
 
-Elza rút từ trong túi áo ngực ra một phong thư rồi chìa về phía tôi. Nó được niêm phong cẩn thận và tỏa ra một luồng khí tức Thần Lực thoang thoảng. Chẳng có gì bất ngờ khi Elza cũng niêm phong bức thư của mình hệt như cách Lillian đã làm.
+Elza rút từ trong túi áo ngực ra một phong thư rồi chìa về phía tôi. Thư được dán kín và tỏa ra luồng Thần Lực nhàn nhạt. Chẳng có gì lạ khi Elza cũng niêm phong thư hệt như cách Lillian đã làm.
 
-Điều đó đồng nghĩa với việc họ sẽ phát hiện ra ngay nếu tôi lén mở ra xem. Không phải là tôi sẽ làm thế, nên thực ra họ chẳng cần phải cất công làm phiền phức đến mức này đâu.
+Nghĩa là tôi mà táy máy bóc ra xem trộm thì họ biết ngay. Mà tôi đâu rảnh làm trò đó, nên hai người thực sự chẳng cần nhọc công đến mức này.
 
-Hít. Hít.
+Khịt. Khịt.
 
-Pochi, kẻ nãy giờ vẫn nằm bẹp dí sau lưng Mel làm bộ như một chiếc ghế sô-pha, đã nhỏm dậy và bắt đầu hít hà bức thư. Tôi chăm chú quan sát nó, tự hỏi điều gì đã thu hút sự chú ý của nó, nhưng rõ ràng là chỉ vài cái hít mũi đã đủ để khiến nó thỏa mãn.
+Pochi, con chó nãy giờ vẫn nằm ườn sau lưng Mel như một chiếc ghế sô-pha, bỗng nhỏm dậy khịt mũi hít hà phong thư. Tôi dõi theo nó, bụng bảo dạ không biết thứ gì đã làm nó chú ý, nhưng xem chừng chỉ cần mấy cái hít mũi là nó đã thấy hài lòng.
 
 "Gâu, gâu."
 
 [Được đấy.]
 
-Tôi biết là mình không hề tưởng tượng mà.
+Tôi biết ngay không phải mình tưởng tượng mà.
 
-"Pochi không cần phải lo lắng thái quá thế đâu," Elza bảo. "Phong ấn của tôi đâu có dễ phá vỡ như vậy."
+"Pochi không cần phải lo lắng thái quá thế đâu," Elza bảo. "Phong ấn của tôi đâu có dễ phá thế."
 
 "Gâu?"
 
-[Cô nghĩ vậy thật à?]
+[Cô nghĩ thế thật à?]
 
-"Tôi nghĩ vậy đấy."
+"Nghĩ thế chứ sao."
 
-Do tôi tưởng tượng hay là họ thực sự đang trò chuyện với nhau vậy? Hẳn là chút hoài nghi đã lộ rõ trên nét mặt tôi, bởi ngay sau đó Elza đột ngột cất tiếng nói với tôi.
+Do tôi hoang tưởng hay hai người họ đang đối đáp với nhau thật đấy? Chắc vẻ ngờ vực đã lộ rõ mồn một trên mặt tôi, bởi Elza bỗng quay ngoắt sang bảo:
 
-"Tôi biết ngay mà. Cậu có thể nghe thấy nó nói, phải không hả Rentt?"
+"Biết ngay mà. Cậu nghe được nó nói đúng không, Rentt?"
 
 ◆◇◆◇◆
 
-"N-Nghe c-c-cái gì cơ chứ?"
+"N-Nghe c-c-cái gì cơ?"
 
-Tôi run rẩy khi nói, bởi tôi vừa mới chứng kiến một điều vô cùng gây sốc. Đó cũng là lý do tại sao tôi lắp ba lắp bắp. Phải rồi, tôi chắc chắn đã bị sốc vì—
+Tôi run như cầy sấy lúc mở miệng, bởi vừa mới chứng kiến một chuyện chấn động kinh hoàng. Vì thế tôi mới lắp ba lắp bắp thế này đây. Ừ, chắc chắn là tôi đang chết lặng vì—
 
-"Cậu thôi diễn đi được rồi đấy," Elza điềm đạm nói. "Tôi đang nói về những lời của Pochi. Cậu hiểu được nó nói gì, đúng không?"
+"Bớt diễn lại giùm tôi cái," Elza điềm nhiên cắt ngang. "Tôi đang nói chuyện Pochi cất tiếng đấy. Cậu hiểu nó nói gì, đúng chứ?"
 
-Tôi thở dài. "Chắc là vậy. Tôi cứ tưởng do mình tưởng tượng ra, nhưng rõ ràng là không phải. Làm sao một con chó lại biết nói chuyện được chứ...?"
+Tôi thở dài. "Chắc vậy rồi. Tôi cứ ngỡ mình tưởng tượng ra, nhưng hóa ra không phải. Mà làm sao một con chó lại biết nói tiếng người được chứ...?"
 
-Tôi đã cố giả ngu khi cô ấy lần đầu hỏi tôi, nhưng chỉ cần thoáng nhìn vào ánh mắt của cô là tôi biết chiêu này vô tác dụng rồi. Dẫu vẻ ngoài có vẻ vô tâm vô tính, nhưng khi cần kíp thì cô ấy thực sự là một thành viên giáo phẩm cấp cao. Tôi luôn biết rõ khi nào một trận chiến đã cầm chắc phần thất bại.
+Tôi toan giả ngây lúc cô ấy mới hỏi, nhưng chỉ liếc qua ánh mắt ấy là biết không xong rồi. Bình thường trông vô tâm vô tính thế thôi, chứ lúc nghiêm túc thì cô ấy đích thị là một chức sắc giáo phẩm cấp cao. Cục diện đã cầm chắc phần thua thì tôi nhận thua ngay.
 
-Còn về màn kịch lố bịch của mình, tôi đã nghĩ giả ngây giả ngô một chút cũng chẳng sao vì tình hình có vẻ sẽ không trở nên quá căng thẳng, vả lại tôi cũng muốn đánh lạc hướng sự chú ý khỏi Lorraine, bởi dường như Elza chỉ để ý tới mỗi mình tôi.
+Còn cái màn kịch lố bịch vừa rồi, tôi nghĩ pha chút tếu táo cũng chẳng hại gì vì không khí chưa đến mức căng thẳng, hơn nữa tôi cũng muốn kéo sự chú ý khỏi Lorraine, khi thấy dường như Elza chỉ mới nhắm vào mỗi mình tôi.
 
-Trên thực tế, Lorraine hoàn toàn bình thản. Vẻ mặt hiếu kỳ đôi chút của cô ấy như muốn gào lên rằng: "Ôi, chuyện gì đang xảy ra thế này? Tôi chẳng hiểu gì cả." Đúng là một diễn viên tài ba.
+Trên thực tế, Lorraine bình thản đến lạ lùng. Nét mặt thoáng vẻ tò mò của cô ấy như muốn nói: "Ơ kìa, có chuyện gì thế nhỉ? Tôi chẳng hiểu gì đâu nhé." Diễn sâu thật đấy.
 
-"Ơ, có chuyện gì không ổn sao ạ? Ý chị 'lời của Pochi' là thế nào cơ?"
+"Ơ, có chuyện gì thế ạ? Ý chị 'Pochi nói' là sao cơ?"
 
-Còn về Sơ Mel, cô ấy trông thực sự chẳng hiểu đầu cua tai nheo gì cả.
+Riêng Sơ Mel thì mặt mũi ngơ ngác thấy rõ, chẳng hiểu đầu cua tai nheo gì cả.
 
-Tôi từng nghĩ cô ấy cũng có thể nghe thấy Pochi, nhưng có lẽ tôi đã lầm. Nếu vậy thì rốt cuộc điều gì đã tạo nên sự phân biệt giữa những người nghe được và những người không nghe được chứ?
+Tôi cứ ngỡ cô ấy cũng nghe được tiếng Pochi, nhưng xem ra tôi nhầm. Vậy rốt cuộc điều gì tạo nên ranh giới giữa người nghe được và người không?
 
-Elza quay sang Mel. "Chị đã nói với em từ bao đời nay rồi còn gì? Pochi biết nói chuyện đấy. Nhưng trước giờ chỉ có Lillian và chị là nghe thấy nó thôi."
+Elza quay sang Mel. "Chị nói với em biết bao nhiêu lần rồi còn gì? Pochi biết nói thật đấy. Cơ mà trước giờ chỉ có Lillian với chị là nghe ra thôi."
 
-"Gì cơ ạ?! Chuyện đó là thật sao? Em cứ tưởng hai chị chỉ trêu chọc em thôi chứ..."
+"Hả?! Chuyện đó là thật ạ? Em cứ tưởng hai chị chỉ hùa nhau trêu em..."
 
-À, ra là thế. Không phải Mel không biết, mà là cô ấy không tin họ. Người trong nhà trêu đùa nhau thì ở đâu mà chẳng có. Bị cha mẹ, anh chị em hoặc một người họ hàng nào đó lừa cho tin sái cổ vào một câu chuyện bịa đặt rồi sau đó họ chạy đến vỗ vai bảo "Bị lừa rồi nhé!" chính xác là những gì Mel nghĩ đang diễn ra ở đây.
+À, ra thế. Không phải Mel không hay biết, mà là cô không chịu tin. Người một nhà trêu nhau thì ở đâu chẳng có. Bị cha mẹ, anh chị em hay họ hàng lừa cho tin sái cổ một chuyện hoang đường, để rồi sau đó bị người ta nhảy ra vỗ vai cười bảo "Bị lừa rồi nhé!", Mel đinh ninh chuyện vừa rồi cũng chỉ y như thế.
 
-"Con chó đó biết nói đấy!" chính là ví dụ kinh điển cho kiểu lời nói dối như vậy. Lâu dần, Mel chắc hẳn sẽ chỉ đảo tròn mắt rồi gạt phắt đi mà bảo: "Lại trò cũ rích chứ gì? Vâng, vâng." Đó là thông lệ xưa như Trái Đất rồi.
+"Con chó kia biết nói đấy!" đích thị là ví dụ điển hình cho mấy trò bịp bợm kiểu đó. Lâu dần, chắc Mel chỉ biết đảo mắt xua tay: "Lại bài cũ rích chứ gì? Vâng, vâng." Đúng là câu chuyện muôn thuở.
 
-"Đúng là chị có trêu em nhiều chuyện khác, nhưng chưa từng đùa về Pochi đâu. Nó thực sự biết nói đấy." Elza ghé tai về phía Pochi. "Hửm, Pochi vừa nói gì cơ?"
+"Mấy chuyện khác thì chị trêu thật, chứ riêng vụ Pochi thì chưa bao giờ. Nó biết nói thật đấy." Elza ghé sát tai về phía Pochi. "Hử, gì cơ?"
 
 "Gâu, gâu, gâu gâu, ẳng. Gâu gâu, gâu gâu, gâu gâu gâu. Gâu."
 
-[Này nghe nhé. Hôm nọ Mel lén ăn đồ ngọt một mình, xong rồi sau đó lại lo sốt vó không biết mình có bị tăng cân không. Chẳng buồn cười chết đi được à?]
+[Kể cho mà nghe nhé. Hôm nọ Mel lén ăn đồ ngọt một mình, xong rồi sau đó cứ ngồi lo sốt vó sợ béo lên. Không buồn cười chết đi được à?]
 
-Tôi cảm thấy áy náy vô cùng khi bản thân lại nghe được toàn bộ những lời này. Mà chà, tính cách của con chó này cũng có phần vặn vẹo ghê gớm nhỉ?
+Nghe được ngần ấy chuyện làm tôi thấy áy náy ghê gớm. Mà chà, tính nết con chó này cũng tinh quái thật đấy chứ?
 
-"Mel này," Elza nói, "em nên dừng việc lén ăn đồ ngọt một mình đi thôi. Với lại em cũng không có tăng cân đâu. Em chỉ... tròn trịa hơn một chút thôi."
+"Mel này," Elza bảo, "em bớt lén ăn đồ ngọt một mình đi nhé. Cơ mà em cũng không béo lên đâu. Chỉ là... trông có da có thịt hơn một tí thôi."
 
-Mel lộ rõ vẻ kinh hãi. "S-Sao chị lại biết được chuyện đó cơ chứ?! Em đã đảm bảo không có ai nhìn thấy rồi mà! Chỉ có— Khoan đã, Pochi?! Là mày đấy ư?! Mày thực sự biết... nói...?!"
+Mel thất thần kinh ngạc. "S-Sao chị biết được hay vậy?! Rõ ràng em canh không có ai nhìn thấy rồi mà! Chỉ có mỗi— Khoan đã, Pochi?! Là mày mách lẻo đấy hả?! Mày thực sự biết... nói thật ư...?!"
 
-Qua tiếng la hét đó, tôi hiểu rằng cô ấy rốt cuộc cũng đã tin vào điều mà Elza đã cố nói với cô suốt bao năm qua.
+Nghe tiếng thét ấy là đủ hiểu rốt cuộc cô cũng chịu tin điều Elza ra sức thuyết phục bấy lâu nay.
 
-Mel túm lấy mặt Pochi. "Có phải mày cũng là kẻ đã mách với hai chị ấy chuyện lần trước nữa không hả?! Nhớ không?! Tao chưa từng kể với ai về chuyện đó cả, thế mà chẳng hiểu sao Elza và Lillian vẫn biết tỏng!"
+Mel túm chặt lấy mặt Pochi. "Có phải mày cũng mách vụ lần trước không hả?! Nhớ không?! Tao chưa từng kể cho ai cả, thế mà chẳng hiểu sao Elza với Lillian vẫn biết tỏng!"
 
 ![](images/ch266-01.webp)
 
-Cô ấy đang tra khảo Pochi một cách không thương tiếc. Nhìn cách hành xử lúc này của cô, người ta sẽ chẳng bao giờ nghĩ cô lại là người phụ trách của một cô nhi viện. Phong thái dịu dàng và đoan trang của một thiếu nữ ban đầu đã hoàn toàn biến mất không một dấu vết. Hoặc có lẽ đó chỉ là minh chứng cho thấy cô đang cuống cuồng đến mức nào. Thật khó mà nói chắc được.
+Cô gái không ngừng tra khảo Pochi ráo riết. Trông bộ dạng lúc này, chẳng ai nghĩ cô lại là người phụ trách cô nhi viện. Nét dịu dàng, thục nữ ban đầu đã bay biến sạch trơn. Hoặc có lẽ cũng chỉ tại cô đang cuống quá mà thôi. Thật chẳng biết đâu mà lần.
 
-Mặc kệ cuộc cãi vã đang tiếp diễn giữa con chó và người phụ trách cô nhi viện, Elza quay sang phía Lorraine và tôi. "Đấy, như các cậu thấy rồi đó. Pochi biết nói chuyện, nhưng chỉ có một vài người là nghe thấy được nó. Ở cô nhi viện này, từ trước tới nay cũng chỉ có mỗi Lillian và tôi. Các cậu có biết tại sao không?"
+Mặc kệ màn tranh cãi nảy lửa giữa một người một chó, Elza quay sang tôi và Lorraine. "Đấy, như hai cậu thấy rồi đấy. Pochi biết nói, nhưng chỉ số ít người nghe được thôi. Ở cô nhi viện này từ trước tới nay cũng chỉ có Lillian với tôi nghe ra. Hai cậu biết vì sao không?"
 
-Thành thật mà nói thì tôi chẳng có câu trả lời nào cho cô ấy cả. Có một số điểm tương đồng giữa Elza và tôi, nhưng mọi chuyện lại trở nên rắc rối hơn khi thêm cả Lorraine vào đó.
+Thú thật là tôi chẳng biết trả lời sao. Giữa Elza và tôi thì có vài điểm tương đồng đấy, nhưng lôi cả Lorraine vào thì câu chuyện lại rối rắm hơn nhiều.
 
-Thực ra, tôi có nghĩ đến một giả thuyết có vẻ rất khả dĩ. Tuy nhiên, điều đó đồng nghĩa với việc làm lộ bí mật của chính mình, nên tôi quyết định cố tình đưa ra một câu trả lời sai.
+Thật ra tôi cũng đoán được một khả năng khá hợp lý. Khổ nỗi nói ra thì lại lộ mất bí mật của bản thân, nên tôi quyết định cố tình trả lời bừa một câu.
 
-"Có phải là vào thời điểm hai người trở thành giáo sĩ của giáo hội không?"
+"Có phải từ hồi hai người trở thành giáo sĩ của giáo hội không?"
 
-"Điều đó... gần đúng rồi, nhưng vẫn chưa hẳn là vậy. Tôi không nghĩ kéo dài chuyện này thì có ích gì, nên tôi sẽ nói thẳng cho các cậu luôn. Đó là bởi vì—"
+"Gần... đúng rồi đấy, nhưng chưa hẳn. Dây dưa mãi cũng chẳng ích gì nên tôi nói thẳng luôn nhé. Đó là vì—"
 
-"Này! Tại sao lại chỉ có mỗi tao là không nghe được mày nói cơ chứ?! Pochi! Tao ở bên mày lâu hơn hẳn Sơ Elza và Sơ Lillian cơ mà! Mày nghĩ ai là người cho mày ăn hả?! Với lại từ nhỏ đến giờ tao luôn là người tắm rửa cho mày đấy nhé! Vậy tại sao cơ chứ?!" Mel càng lúc càng trở nên kích động, cô bám chặt lấy Pochi trong lúc trút hết mọi nỗi ấm ức của mình ra.
+"Này! Sao lại có mỗi tao là không nghe được mày nói hả?! Pochi! Tao ở bên mày còn lâu hơn cả Sơ Elza với Sơ Lillian đấy nhé! Mày nghĩ ai cho mày ăn mỗi ngày hả?! Từ bé đến giờ ai là người tắm rửa cho mày?! Thế thì cớ làm sao hả?!" Mel càng lúc càng hăng máu, ôm ghì lấy Pochi mà trút sạch bao nhiêu ấm ức bấy lâu.
 
-Pochi trông có vẻ chán ngấy đến tận cổ. Nó liếc nhìn tôi, rồi chạm mắt với Elza.
+Mặt Pochi lộ rõ vẻ ngán ngẩm cùng cực. Nó liếc nhìn tôi, rồi quay sang nhìn thẳng vào mắt Elza.
 
-Elza thở dài, suy nghĩ một thoáng rồi bảo: "Tôi cho là chẳng còn cách nào khác rồi. Dù sao thì chuyện này sớm muộn gì cũng sẽ xảy ra thôi. Tôi đã leo lên vị trí khá cao trong giáo hội, và Lillian cũng đã hồi phục rồi. Chúng tôi chắc hẳn đủ khả năng giải quyết các hậu quả kéo theo."
+Elza thở dài, ngẫm nghĩ một chốc rồi bảo: "Xem chừng chẳng còn cách nào khác. Đằng nào thì ngày này sớm muộn cũng tới. Địa vị của tôi trong giáo hội giờ cũng đủ cao rồi, vả lại Lillian cũng đã bình phục. Mấy chuyện phiền toái phát sinh chắc chúng tôi gánh nổi."
 
-Cô quay sang nhìn Pochi rồi gật đầu.
+Cô quay sang gật đầu với Pochi.
 
-Ngay khi tôi bắt đầu tự hỏi chuyện gì đang diễn ra, Pochi đột nhiên phát ra ánh sáng nhàn nhạt. Luồng ánh sáng ấy tĩnh lặng, thuần khiết... và quen thuộc.
+Ngay lúc tôi còn đang mải thắc mắc xem chuyện gì sắp diễn ra, Pochi bỗng tỏa ra luồng sáng nhè nhẹ. Ánh sáng ấy tĩnh lặng, thuần khiết... và quen thuộc khôn cùng.
 
-Khi Lorraine nhìn thấy nó, cô thì thầm: "Rentt. Đó là Thần Lực."
+Trông thấy cảnh đó, Lorraine khẽ thì thào: "Rentt. Là Thần Lực đấy."
 
-Tôi nhận ra cô ấy nói đúng. Thứ năng lượng đó chưa bao giờ quá mạnh mẽ mỗi khi bản thân tôi vận dụng, và kể từ lúc học được cách che giấu, tôi đã giấu kín luôn cả nó, nên dạo này Thần Lực của tôi hoàn toàn vô hình. Lần cuối cùng tôi nhìn thấy Thần Lực ở quy mô cỡ này là từ vị thánh nữ từng đến Maalt và phô diễn ma pháp trị liệu của mình như một hình thức quảng bá.
+Tôi biết cô ấy nói không sai. Bản thân tôi mỗi lần dùng Thần Lực thì cũng chẳng mạnh được như vậy, vả lại từ hồi học được cách che giấu thì tôi ém tiệt luôn, nên dạo này Thần Lực của tôi không còn phát ra ánh sáng nữa. Lần gần nhất tôi chứng kiến Thần Lực quy mô cỡ này là từ vị Thánh Nữ từng ghé Maalt phô diễn ma pháp trị liệu để quảng bá thanh thế.
 
-Tôi cũng từng nhìn thấy Thần Lực của Nive, nhưng của cô ấy không thực sự tỏa sáng. Có lẽ là do cô ấy đã rèn luyện thành thục với nó.
+Tôi cũng từng thấy Thần Lực của Nive, nhưng của cô ấy không phát sáng rõ rệt thế này. Chắc do cô ấy đã vận dụng quá thuần thục.
 
-Nhưng liệu con chó này có đang làm đúng điều mà tôi nghĩ hay không? Sau một lúc ngắn ngủi, luồng ánh sáng ấy chuyển sang người Mel và được hấp thu vào bên trong cơ thể cô.
+Nhưng liệu con chó này có đang làm đúng điều tôi nghĩ không? Thoáng chốc, vầng sáng ấy lan sang người Mel rồi lặn dần vào cơ thể cô.
 
 "Gâu?"
 
 [Thế nào rồi?]
 
-Mel mở mắt ra. "E-Em nghe được nó rồi! Em nghe thấy tiếng Pochi rồi!" Sau đó cô ôm chầm lấy nó.
+Mel mở choàng mắt. "E-Em nghe được rồi! Em nghe thấy tiếng Pochi rồi!" Nói đoạn, cô ôm chầm lấy nó.
 
-Elza dõi mắt nhìn hai người họ và cất lời: "Đấy, xong rồi nhé. Pochi là... thứ mà người ta hay gọi là thần thú, hay thánh thú, điều đó khiến nó có nét tương đồng với các thần tinh linh. Chỉ những ai từng nhận được sự ban phước của Thần Lực mới có thể nghe thấy nó nói. Trong đó có cả cậu nữa, phải không hả Rentt?"
+Elza nhìn hai người họ rồi bảo: "Đấy, thấy chưa. Pochi vốn là... loài mà người ta hay gọi là thần thú hoặc thánh thú, xét ra cũng tương tự như thần tinh linh vậy. Chỉ những ai từng nhận được ân phước của Thần Lực mới có thể nghe nó nói. Trong đó có cả cậu nữa, phải không hả Rentt?"
