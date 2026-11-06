@@ -20,9 +20,9 @@ Tôi lại một lần nữa thán phục khả năng kiếm sống ở bất c�
 
 Qua lời ông lão nói, tôi cảm nhận được ông ấy nghiêm túc đến mức nào. Tự dưng tôi thấy hơi đồng cảm với ông ấy. Xưa nay tôi chưa từng bận tâm nghĩ về nghề sát thủ vì chưa từng dính dáng tới, nhưng càng ngẫm thì...
 
-Cái nghề này tính ra lại chẳng bõ công đến không ngờ. Lúc nào cũng thành đích ngắm cho người khác oán hận hay nghi kỵ, chẳng bao giờ có lấy một phút giây thanh thản. Tiền thù lao hẳn là cao tương xứng, cơ mà bận rộn tối mắt tối mũi. Tiền kiếm được chẳng có thời gian tiêu, cứ hết phi vụ này lại cuốn sang phi vụ khác, ngày này qua ngày nọ. Nếu kiếm được việc khác hợp hơn, ai mà chẳng muốn bỏ nghề ngay cho xong.
+Cái nghề này tính ra lại chẳng bõ công đến không ngờ. Lúc nào cũng thành đích ngắm cho người khác oán hận hay nghi kỵ, chẳng bao giờ có lấy một phút giây thanh thản. Tiền thù lao hẳn là cao tương xứng, nhưng lại bận rộn tối mắt tối mũi. Tiền kiếm được chẳng có thời gian tiêu, cứ hết phi vụ này lại cuốn sang phi vụ khác, ngày này qua ngày nọ. Nếu kiếm được việc khác hợp hơn, ai mà chẳng muốn bỏ nghề ngay cho xong.
 
-Goblin chính là một ví dụ điển hình. Mà nghe cách Spriggan nói, có vẻ ông ấy cũng muốn rửa tay gác kiếm lắm rồi, ngặt nỗi dưới trướng còn cả đống thuộc cấp phải lo. Ông ấy đâu thể cứ thế phủi tay dứt áo ra đi. Đời là thế đấy: trừ phi tính toán trọn vẹn từ đầu, chứ càng leo lên cao thì trách nhiệm đổ lên đầu lại càng nặng.
+Goblin chính là một ví dụ điển hình. Mà nghe cách Spriggan nói, có vẻ ông ấy cũng muốn rửa tay gác kiếm lắm rồi, chỉ là dưới trướng còn cả đống thuộc cấp phải lo. Ông ấy đâu thể cứ thế phủi tay dứt áo ra đi. Đời là thế đấy: trừ phi tính toán trọn vẹn từ đầu, chứ càng leo lên cao thì trách nhiệm đổ lên đầu lại càng nặng.
 
 "Nhưng thôi, gác chuyện đó lại đã." Ông lão đảo mắt nhìn quanh. "Đây là chỗ bọn ta được bảo đến. Lẽ ra phải có ai ở đây rồi chứ..."
 
@@ -108,7 +108,7 @@ Chắc Lorraine cảm nhận được tâm trạng của tôi nên cô ấy kh�
 
 "Nhưng Ma Lực của cô ta gấp ba lần tôi cơ mà?"
 
-"Thì... đúng là thế. Cô ta thừa sức làm mạo hiểm giả, khéo còn là ma pháp sư thượng thặng nữa kia. Chẳng trách ông lão dặn không được đánh giá thấp họ."
+"Thì... đúng là vậy. Cô ta thừa sức làm mạo hiểm giả, có khi còn là một ma pháp sư hạng nhất nữa. Chẳng trách ông lão dặn không được đánh giá thấp họ."
 
 "Thế cơ à...? Bản thân tôi thì chẳng thấy vậy. Trông hai người đó cứ ngờ nghệch sao ấy."
 
@@ -132,9 +132,9 @@ Tôi với Lorraine nghiêm nghị gật đầu, tiếp tục quan sát bộ đ�
 
 "Vũ khí của anh có ổn không đấy? Thanh kiếm của anh tả tơi sau trận chiến hôm nọ rồi còn gì."
 
-"Tàm tạm thôi. Dáng kiếm vẫn chưa cong gãy nên không đến nỗi không xài được... cơ mà tôi sẽ đổi sang kiếm dự phòng. Đồ rẻ tiền thôi, chỉ dẫn được Khí Lực, nhưng trong trường hợp này khéo thế lại tốt hơn."
+"Tàm tạm thôi. Dáng kiếm vẫn chưa cong gãy nên không đến nỗi không xài được... nhưng tôi sẽ đổi sang kiếm dự phòng. Đồ rẻ tiền thôi, chỉ dẫn được Khí Lực, có điều trong trường hợp này thế lại tốt hơn."
 
-"Thế khéo lại hay nhất, nghe đâu gã gạt phăng được ma pháp tầm xa cơ mà. Chẳng biết lưỡi kiếm bọc Ma Lực có tác dụng tới đâu với gã nữa."
+"Có lẽ vậy là tốt nhất, vì nghe nói gã gạt phăng được ma pháp tầm xa. Chẳng biết lưỡi kiếm bọc Ma Lực sẽ có tác dụng tới đâu với gã nữa."
 
 ◆◇◆◇◆
 
@@ -142,7 +142,7 @@ Tôi với Lorraine nghiêm nghị gật đầu, tiếp tục quan sát bộ đ�
 
 "Cô nói chuẩn đấy, Fuana!"
 
-Tôi nghe rõ mồn một sự hào hứng của hai người họ, và Lorraine hẳn cũng thế. Nhìn vẻ ngán ngẩm chung của hai chúng tôi, dù cô ấy đâu thực sự thấy được mặt tôi, thì cũng thừa hiểu cả hai đang nghĩ gì: vụ này không thể giải quyết bằng lời nói được rồi.
+Tôi nghe rõ mồn một sự hào hứng của hai người họ, và Lorraine hẳn cũng thế. Nhìn vẻ ngán ngẩm của hai chúng tôi, dù thực ra cô ấy đâu thấy được mặt tôi, cũng đủ hiểu cả hai đang nghĩ gì: vụ này không thể giải quyết bằng lời nói được rồi.
 
 "Thế các cậu muốn thế nào?" ông lão hỏi.
 
@@ -160,17 +160,17 @@ Tôi chẳng ngạc nhiên nếu ông lão đã đoán trước được cơ s�
 
 "Có phải ai được ông chiêu mộ cũng là kiểu người ngốc nghếch thẳng tuột thế này không?" tôi hỏi.
 
-Nếu đúng thế thật thì đủ hiểu ông lão đã vất vả đến mức nào. Goblin thuộc tuýp người thông minh, còn Siren xem chừng lại na ná hai người này, dẫu có phần trầm tính hơn. Dù sao thì cô bé vẫn chịu ngồi nghe chúng tôi giải thích cơ mà.
+Nếu đúng thế thật thì đủ hiểu ông lão đã vất vả đến mức nào. Goblin thuộc tuýp người thông minh, còn Siren xem chừng lại na ná hai người này, dẫu có phần trầm tính hơn. Ít ra cô bé vẫn chịu ngồi nghe chúng tôi giải thích.
 
-Ông lão lắc đầu. "Lạy trời, làm gì có chuyện đó. Hai đứa này chỉ là ngoại lệ thôi. Ai tháo vát biết việc thì đều được phái đi làm nhiệm vụ cả rồi, thành thử ít khi ở đây. Hai đứa nó quanh năm suốt tháng ru rú ở chỗ này là vì bọn ta chỉ có thể giao cho chúng mấy việc đơn giản, một đường một nẻo mà thôi."
+Ông lão lắc đầu. "Lạy trời, làm gì có chuyện đó. Hai đứa này chỉ là ngoại lệ thôi. Ai tháo vát biết việc thì đều được phái đi làm nhiệm vụ cả rồi, nên ít khi ở đây. Hai đứa nó quanh năm suốt tháng ru rú ở chỗ này là vì bọn ta chỉ có thể giao cho chúng mấy việc đơn giản, một đường một nẻo mà thôi."
 
 Chà, không để hai người họ đi làm nhiệm vụ ngoài nghe chừng lại hợp lý phết.
 
-"Nói thế không có nghĩa là bọn ta để chúng chơi không," ông lão nói tiếp. "Vẫn còn việc giấy tờ sổ sách, vả lại tổ chức cũng phải quản lý đấu trường nữa. Lúc nào không có mấy vụ ám toán ngấm ngầm thì bọn ta giao cho hai đứa xử lý mấy việc lặt vặt đó. Chắc đợt này chúng đang rảnh rỗi quá đỗi đây. Chẳng có giải đấu nào, cũng không có sự kiện gì được lên lịch. Đấu trường cũng có những ngày đóng cửa nghỉ ngơi, thành thử..."
+"Nói thế không có nghĩa là bọn ta để chúng chơi không," ông lão nói tiếp. "Vẫn còn việc giấy tờ sổ sách, vả lại tổ chức cũng phải quản lý đấu trường nữa. Lúc nào không có mấy vụ ám toán ngấm ngầm thì bọn ta giao cho hai đứa xử lý mấy việc lặt vặt đó. Chắc đợt này chúng đang rảnh rỗi quá đây. Chẳng có giải đấu nào, cũng không có sự kiện gì được lên lịch. Đấu trường cũng có những ngày đóng cửa nghỉ ngơi, thành ra..."
 
-"Một phần lý do hai đứa nó bày trò này khéo chỉ để giết thời gian thôi," Goblin lầm bầm.
+"Một phần lý do hai đứa nó bày trò này chắc chỉ để giết thời gian thôi," Goblin lầm bầm.
 
-Tôi chẳng muốn tin vào chuyện đó chút nào, nhưng nhìn cái màn xuất hiện màu mè của hai người kia thì rõ là họ rảnh rỗi thật. Cơ mà dẫu chúng tôi có muốn chuồn khỏi mớ bòng bong này thì cũng đâu còn đường lui.
+Tôi chẳng muốn tin vào chuyện đó chút nào, nhưng nhìn cái màn xuất hiện màu mè của hai người kia thì rõ là họ rảnh rỗi thật. Dù vậy, kể cả chúng tôi có muốn chuồn khỏi mớ bòng bong này thì cũng đâu còn đường lui.
 
 Tôi nhìn sang Lorraine, cả hai khẽ gật đầu với nhau.
 

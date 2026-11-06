@@ -10,7 +10,7 @@ Hai người kia thì chẳng hay biết gì về toan tính đó. Fuana lúc n�
 
 Nói thế chắc ai cũng đoán ra cậu ta là một giáo thủ. Tôi thì vẫn cầm thanh kiếm một tay như thường lệ, dẫu rằng đó là thanh kiếm không thể truyền Ma Lực hay Thần Lực. Dù vậy, đằng nào Ma Lực cũng chẳng có tác dụng với cậu ta, nên tôi không dùng được cũng chẳng sao. Còn về Thần Lực, hiện tại tôi muốn tiếp tục giấu kín. Tôi đâu thể tùy tiện phơi hết bài tẩy của mình ra. Tôi từng làm thế khi đối đầu với ông lão, nhưng đó là vì khi ấy chúng tôi bị dồn vào đường cùng.
 
-Không phải tôi quá tự phụ. Nói đúng hơn, chính vì thiếu tự tin nên tôi mới phải cất công giấu bớt ngón nghề. Cơ mà nếu tôi phán đoán sai rồi thua trận vì việc đó, thì mọi toan tính giấu giếm cũng thành vô nghĩa.
+Không phải tôi quá tự phụ. Nói đúng hơn, chính vì thiếu tự tin nên tôi mới phải cất công giấu bớt ngón nghề. Dù nếu tôi phán đoán sai rồi thua trận vì việc đó, thì mọi toan tính giấu giếm cũng thành vô nghĩa.
 
 "Dùng kiếm cơ à?" Vaasa nói. "Cây kim bé tẹo thế kia mà đòi đánh gục được ông già á, đời nào."
 
@@ -70,9 +70,9 @@ Cậu ta phản ứng thế cũng phải. Hồi còn là con người mà thấy
 
 Vaasa đực mặt ra vì sốc trong chớp mắt, biến cậu ta thành mục tiêu không thể tuyệt vời hơn. Từ tư thế này, mũi kiếm của tôi chỉ cách mặt đất một khoảng ngắn, và tôi vung thốc lên chém về phía cậu ta.
 
-Để dễ hình dung cảnh tượng lúc đó, tôi đang ngửa rạp người ra sau gần như ở tư thế uốn cầu, tay phải vung kiếm chém ngược từ dưới lên. Một đòn đánh bất khả thi với người bình thường, nhưng với tôi lại dễ như bỡn. Dù sao tôi cũng đã thử nghiệm chán chê xem cơ thể này làm được tới đâu rồi. Tôi thậm chí còn tập dượt trước đúng tình huống này, vì nghĩ đối thủ là con người sẽ để lộ nhiều sơ hở từ phía dưới.
+Để dễ hình dung cảnh tượng lúc đó, tôi đang ngửa rạp người ra sau gần như ở tư thế bắc cầu, tay phải vung kiếm chém ngược từ dưới lên. Một đòn đánh bất khả thi với người bình thường, nhưng với tôi lại dễ như bỡn. Dù sao tôi cũng đã thử nghiệm chán chê xem cơ thể này làm được tới đâu rồi. Tôi thậm chí còn tập dượt trước đúng tình huống này, vì nghĩ đối thủ là con người sẽ để lộ nhiều sơ hở từ phía dưới.
 
-Ngặt nỗi, vì trụ không vững nên tôi khó lòng phát lực mạnh vào đường kiếm. Dù vậy, tôi có thể bù đắp bằng cách cường hóa thể chất hai cánh tay và rót Khí Lực vào thân kiếm. Tựu trung lại, đây là đòn đánh kết hợp hoàn hảo giữa cơ thể dị thường và nỗ lực rèn luyện của tôi. Chắc trên đời này chẳng mấy ai từng nếm phải một nhát kiếm quái gở đến thế.
+Vấn đề là vì trụ không vững nên tôi khó lòng phát lực mạnh vào đường kiếm. Dù vậy, tôi có thể bù đắp bằng cách cường hóa thể chất hai cánh tay và rót Khí Lực vào thân kiếm. Tựu trung lại, đây là đòn đánh kết hợp hoàn hảo giữa cơ thể dị thường và nỗ lực rèn luyện của tôi. Chắc trên đời này chẳng mấy ai từng nếm phải một nhát kiếm quái gở đến thế.
 
 "Grrraaahhh!"
 
@@ -80,7 +80,7 @@ Ngặt nỗi, vì trụ không vững nên tôi khó lòng phát lực mạnh v�
 
 Tôi toan lao lên truy kích... nhưng rồi gạt phắt ý nghĩ đó đi. Mấy con dao găm ban nãy đã biến mất. Vaasa hẳn đang chờ tôi xông thẳng tới để chớp thời cơ phản kích.
 
-Vả lại, tôi cũng cần khoảng lặng ngắn này để chỉnh lại thế đứng. Tôi nhổm dậy khỏi tư thế uốn cầu, trở về thế đứng ban đầu. Vaasa đáp xuống cách một quãng khá xa rồi lập tức vào lại thế thủ. Khá đấy chứ, căn bản của cậu ta rất vững. Có điều, tôi thấy rõ vẻ bàng hoàng trong mắt đối phương.
+Vả lại, tôi cũng cần khoảng lặng ngắn này để chỉnh lại thế đứng. Tôi nhổm dậy khỏi tư thế bắc cầu, trở về thế đứng ban đầu. Vaasa đáp xuống cách một quãng khá xa rồi lập tức vào lại thế thủ. Khá đấy chứ, căn bản của cậu ta rất vững. Có điều, tôi thấy rõ vẻ bàng hoàng trong mắt đối phương.
 
 Khoan, không phải, là kinh khiếp mới đúng. Thôi nào, có cần phải nhìn tôi như thế không chứ?
 
@@ -98,7 +98,7 @@ Cô cũng muốn nói toạc ra cho xong, nhưng biết là không thể. Ông l
 
 Ở một khía cạnh nào đó, câu ấy lại đúng là sự thật. Rốt cuộc Rentt là loại quái vật gì? Cô vẫn chưa thể chắc chắn. Biết anh là một dạng Ma Cà Rồng hay họ hàng với Ma Cà Rồng thì biết thế thôi, chứ thông tin để định danh chuẩn xác thì hoàn toàn thiếu hụt. Chuyện tìm thấy một sinh vật trông như thỏ ngoài tự nhiên rồi xếp nó vào loài thỏ, thỏ hoang hay họ hàng nhà thỏ, để rồi rốt cuộc hóa ra nó lại thuộc họ chó, đâu phải chuyện chưa từng có.
 
-Cô thực lòng chẳng biết rốt cuộc Rentt là giống loài gì. Nghĩ tới đây suýt nữa cô đã muốn đưa anh tới nhờ Thần Giám Định soi ra chân tướng ngay lập tức, ngặt nỗi trước mắt còn quá nhiều việc phải lo. Nhiều đến độ cô còn chẳng rõ bao giờ mới xong xuôi hết thảy. Dù vậy, cũng chẳng việc gì phải vội. Chừng nào chưa có câu trả lời rõ ràng thì cô vẫn có thể thỏa sức nghiên cứu anh bằng đủ mọi cách. Biết sớm muộn gì cũng tìm ra manh mối, cô chẳng có gì phải sốt ruột.
+Cô thực lòng chẳng biết rốt cuộc Rentt là giống loài gì. Nghĩ tới đây suýt nữa cô đã muốn đưa anh tới nhờ Thần Giám Định soi ra chân tướng ngay lập tức, nhưng trước mắt còn quá nhiều việc phải lo. Nhiều đến độ cô còn chẳng rõ bao giờ mới xong xuôi hết thảy. Dù vậy, cũng chẳng việc gì phải vội. Chừng nào chưa có câu trả lời rõ ràng thì cô vẫn có thể thỏa sức nghiên cứu anh bằng đủ mọi cách. Biết sớm muộn gì cũng tìm ra manh mối, cô chẳng có gì phải sốt ruột.
 
 "Hừm..." ông lão lẩm bẩm. "Cũng phải. Dị năng đơn giản dễ hiểu như của ta tính ra lại hiếm gặp đến không ngờ."
 
@@ -108,7 +108,7 @@ Xem chừng ông lão đã tự tìm được lời giải thích hợp lý cho 
 
 "Hừm. Cô biết cậu ta tự xưng là 'Cường Thiết' rồi chứ? Đó là vì cậu ta đinh ninh mình có thể tạo ra kim loại từ hư không đấy."
 
-Ý ông là những kẻ khác trong tổ chức không thừa nhận danh xưng tự đặt đó của Vaasa? Lorraine thấy chuyện họ có công nhận hay không cũng chẳng đáng để cô bận tâm, vì mật danh với đám người này chẳng qua chỉ như trò đùa, nhưng quả thật có tên mà chẳng ai thèm gọi thì cũng vô nghĩa. Nghĩ lại mới thấy, cả ông lão lẫn đám lính gác cổng vào đều gọi cậu ta là 'Vaasa'.
+Thế nghĩa là những người khác trong tổ chức không công nhận cái biệt hiệu tự phong đó của Vaasa sao? Lorraine thấy chuyện họ có công nhận hay không cũng chẳng đáng để cô bận tâm, vì mật danh với đám người này chẳng qua chỉ như trò đùa, nhưng quả thật có tên mà chẳng ai thèm gọi thì cũng vô nghĩa. Nghĩ lại mới thấy, cả ông lão lẫn đám lính gác cổng vào đều gọi cậu ta là "Vaasa".
 
 "Chẳng lẽ không phải thế à?" cô hỏi.
 
@@ -134,7 +134,7 @@ Vaasa hãm được đà sau cú đánh văng của Rentt và lập tức vào l
 
 "N-Này! Trò gì thế hả?! Người ngợm anh là cái giống gì vậy?!"
 
-Vaasa nhìn tôi trân trân như thể thấy một sinh vật quái dị chưa từng gặp bao giờ. Khác hẳn cái vẻ hăng máu lúc nãy, và dù mới gặp cậu ta hôm nay, tôi vẫn có cảm giác như cậu ta đang đánh mất chính mình vậy.
+Vaasa nhìn tôi trân trân như thể thấy một sinh vật quái dị chưa từng gặp bao giờ. Khác hẳn cái vẻ hăng máu lúc nãy, và dù mới gặp cậu ta hôm nay, tôi vẫn thấy bộ dạng này chẳng giống cậu ta chút nào.
 
 "Giống gì cơ?" tôi đáp. "Thế này này."
 
@@ -148,17 +148,17 @@ Sau một tràng răng rắc, tôi vặn đầu lại vị trí cũ và thấy m
 
 "Thì cũng phải, nhưng anh cũng một chín một mười chứ kém gì!"
 
-Ồ, chịu đồng tình với tôi cơ đấy. Tôi không ngờ cậu ta lại coi đồng nghiệp của mình như quái vật tỉnh bơ vậy luôn. Cơ mà thế không có nghĩa là tôi đồng ý với cậu ta được. Tôi là con người hẳn hoi nhé. Ờ thì, thực ra vẫn đang trong quá trình phấn đấu quay lại làm người thôi, nhưng dẫu sao thì...
+Ồ, chịu đồng tình với tôi cơ đấy. Tôi không ngờ cậu ta lại coi đồng nghiệp của mình như quái vật tỉnh bơ vậy luôn. Nhưng thế không có nghĩa là tôi đồng ý với cậu ta được. Tôi là con người hẳn hoi nhé. Ờ thì, thực ra vẫn đang trong quá trình phấn đấu quay lại làm người thôi, nhưng dẫu sao thì...
 
 "Không hề, tôi bình thường tuyệt đối," tôi đáp. "Mà cậu cũng có vừa đâu mà đi chê người khác. Mấy con dao găm ban nãy là thế nào hả? Tự dưng thình lình xuất hiện rồi cũng biến mất nhanh như chớp."
 
-Tôi biết tỏng nguyên do rồi, nhưng hỏi một câu cũng chẳng mất mát gì. Không phải tôi nghi ông lão nói dối, chỉ là biết đâu Vaasa lại vô tình hớ miệng lộ thêm thông tin mới thì sao. Còn ai để khai thác tốt hơn chính khổ chủ chứ?
+Tôi biết tỏng nguyên do rồi, nhưng hỏi một câu cũng chẳng mất mát gì. Không phải tôi nghi ông lão nói dối, chỉ là biết đâu Vaasa lại vô tình hớ miệng lộ thêm thông tin mới thì sao. Còn ai để hỏi tốt hơn chính đương sự chứ?
 
 "Dị năng của tôi thì bình thường chán," Vaasa bảo. "Tôi gọi nó là 'Cường Thiết'. Tôi có thể tạo ra và làm biến mất kim loại dưới mọi hình thù, bất cứ khi nào và ở bất cứ đâu tôi muốn."
 
 "Thế cậu tạo ra vàng rồi đem bán được không?"
 
-Nghĩ tới cảnh đó mà thấy hào hứng ghê. Cơ mà nhìn phản ứng của Vaasa, chắc cậu ta lại nghĩ tôi đang chọc quê mình.
+Nghĩ tới cảnh đó mà thấy hào hứng ghê. Có điều nhìn phản ứng của Vaasa, chắc cậu ta lại nghĩ tôi đang chọc quê mình.
 
 "Có mà nằm mơ! Ờ... chà, thật ra cũng không hẳn là không làm được, nhưng tôi đâu tạo ra được nhiều vàng đến thế. Vả lại, hễ tôi thu hồi dị năng là kim loại tạo ra cũng biến mất tiệt."
 

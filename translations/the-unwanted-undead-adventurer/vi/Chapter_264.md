@@ -72,7 +72,7 @@ Hay khoan đã, lẽ nào Elza đã biết tình cảnh của chúng tôi và đ
 
 Không, tôi đa nghi quá rồi. Giáo Hội Đông Thiên đúng là một tổ chức tôn giáo rộng lớn trải khắp Yaaran, nhưng điều đó khó lòng biến họ thành một tổ chức tình báo thấu suốt mọi sự được. Vả lại, thu thập thông tin về vương quốc, giới quý tộc hay các thương nhân có tiếng thì còn có lý, chứ tôi không nghĩ tin tức tình báo về tôi với Lorraine lại đáng giá đến thế.
 
-Gác những bí mật khó nói của bản thân sang một bên, xét trên mọi phương diện thì chúng tôi vẫn chỉ là những mạo hiểm giả bình thường. Đâu phải kiểu nhân vật có máu mặt sẽ dính líu tới những sự kiện trọng đại. Dù rằng, càng ngày càng khó mà khẳng định điều đó...
+Gác những bí mật khó nói của bản thân sang một bên, về cơ bản chúng tôi vẫn chỉ là những mạo hiểm giả bình thường. Đâu phải kiểu nhân vật tầm cỡ sẽ dính líu tới những sự kiện trọng đại. Dù rằng, càng ngày càng khó mà khẳng định điều đó...
 
 "Xin lỗi vì đã làm ngài lo lắng," Lorraine nói. "Nhưng như ngài thấy đấy, chúng tôi vẫn hoàn toàn khỏe mạnh. Ngày mai chúng tôi cũng sẽ quay về Maalt, nên bức thư của ngài đến đúng lúc lắm."
 
@@ -142,9 +142,9 @@ Tôi vừa định hỏi thêm về thời thơ ấu của họ, nhưng Elza đ�
 
 "Ồ, nói mới nhớ, hai vị muốn đi những đâu? Tôi vẫn chưa hỏi nữa."
 
-Tôi nghi là cô ấy cố tình làm vậy, và Lorraine cũng đang nhìn tôi lắc đầu. Thấy không cần thiết phải gặng hỏi, tôi từ bỏ câu hỏi của mình rồi đưa cho Elza cuốn sổ nhỏ mà Rina đã gửi chúng tôi.
+Tôi nghi là cô ấy cố tình làm vậy, và Lorraine cũng đang nhìn tôi lắc đầu. Thấy không cần thiết phải gặng hỏi, tôi thôi không hỏi nữa mà đưa cho Elza cuốn sổ nhỏ Rina đã gửi chúng tôi.
 
-Về lý mà nói, nó có thể bị xếp vào loại sách vở đáng ngờ do một Undead viết ra, nhưng ít nhất mở ra sẽ không có ác linh nào lao ra tấn công. Tôi đã kiểm tra nội dung từ trước và xác nhận bên trong không có gì có vấn đề cả. Trừ khi tính cả mấy hình phác họa Khô Lâu và Ma Cà Rồng rải rác khắp trong đó.
+Về lý mà nói, nó có thể bị xếp vào loại sách vở đáng ngờ do một Undead viết ra, nhưng ít nhất mở ra sẽ không có ác linh nào lao ra tấn công. Tôi đã kiểm tra nội dung từ trước và xác nhận bên trong không có gì đáng ngại cả. Trừ việc có mấy hình phác họa Khô Lâu và Ma Cà Rồng rải rác khắp trong đó.
 
 "Cái này có phần... báng bổ thần thánh đấy. Sở thích của hai vị sao?"
 
@@ -164,4 +164,4 @@ Vậy là dù có một cô gái sinh ra và lớn lên ở chốn đô thành g
 
 "Không thành vấn đề đâu. Có điều sau khi xong việc, có một nơi tôi muốn ghé qua. Tôi nhờ hai vị đi cùng được không?"
 
-Nhiều khả năng cô ấy chẳng cần đến chúng tôi, nhưng cô ấy đã tình nguyện làm người dẫn đường và chúng tôi cũng không có lý do gì để từ chối, nên chúng tôi đã đồng ý.
+Nhiều khả năng cô ấy chẳng cần chúng tôi đi theo làm gì, nhưng người ta đã tình nguyện dẫn đường, chúng tôi lại chẳng có lý do gì để từ chối nên gật đầu đồng ý.

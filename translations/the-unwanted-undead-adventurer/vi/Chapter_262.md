@@ -90,7 +90,7 @@ Lorraine nghe hoang mang chẳng kém gì tôi. Tại sao mọi chuyện lại r
 
 Nhưng tôi không hiểu vì sao họ lại muốn thế. Không có quyền trượng, Undead trong vương quốc sẽ nhiều lên. Mang một cây mới về chẳng phải là chuyện tốt ư?
 
-Tôi biết Gisel, người đứng sau chống lưng cho Đệ Nhất Công Chúa và là bên thuê tổ chức, không muốn Nhị Công Chúa lập công rồi ẵm hết công trạng, nhưng mà... Chà, khéo thực sự chỉ có bấy nhiêu thôi sao?
+Tôi biết Gisel, người đứng sau chống lưng cho Đệ Nhất Công Chúa và là bên thuê tổ chức, không muốn Nhị Công Chúa lập công rồi ẵm hết công trạng, nhưng mà... Chà, có khi thực sự chỉ đơn giản vậy thôi sao?
 
 "Các cậu đã nghe kể về quyền trượng rồi, đúng chứ?" Jean hỏi.
 
@@ -138,7 +138,7 @@ Jean gật đầu. "Ta hiểu rồi. Tình trạng của nhà vua dù không cô
 
 "Làm sao ông biết được?"
 
-"Ta... nói đúng ra là biết từ kẻ gián điệp ta vừa nhắc lúc nãy. Bản thân cây quyền trượng thì Kars từng cho ta xem hồi hắn còn trẻ, chỉ là lúc ấy ta không biết nó lại nguy hiểm đến thế. Ta đến gặp hắn ngay khi phát hiện ra, nhưng hắn chỉ xua tay gạt đi rồi bảo 'chẳng còn lựa chọn nào khác', cái tên ngốc đó. Đời nào hắn lại không có lựa chọn chết tiệt nào khác chứ."
+"Ta... nói đúng ra là biết từ kẻ gián điệp ta vừa nhắc lúc nãy. Bản thân cây quyền trượng thì Kars từng cho ta xem hồi hắn còn trẻ, chỉ là lúc ấy ta không biết nó lại nguy hiểm đến thế. Ta đến gặp hắn ngay khi phát hiện ra, nhưng hắn chỉ xua tay gạt đi rồi bảo 'chẳng còn lựa chọn nào khác', cái tên ngốc đó. Làm quái gì có chuyện không còn lựa chọn nào khác chứ."
 
 Kars? Khoan đã, chẳng lẽ đó là...?
 

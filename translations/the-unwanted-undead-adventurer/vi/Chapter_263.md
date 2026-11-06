@@ -100,7 +100,7 @@ Tôi nhớ ông lão từng nói điều gì đó tương tự như vậy.
 
 "Có vẻ phó thủ lĩnh đã bị Gisel mua chuộc từ rất lâu rồi. Nhưng ta đã xử lý xong chuyện đó. Giờ bọn ta chẳng còn phó thủ lĩnh nào nữa, mà cũng chẳng còn tay trong nào ở triều đình nữa."
 
-Một câu nói đáng sợ đến thế mà ông ấy thốt ra nhẹ tênh. Khoan nói tới chuyện 'không còn ở trong tổ chức', ý ông ấy chắc là 'không còn trên cõi đời này nữa'.
+Một câu nói đáng sợ đến thế mà ông ấy thốt ra nhẹ tênh. Khoan nói tới chuyện "không còn ở trong tổ chức", ý ông ấy chắc là "không còn trên cõi đời này nữa".
 
 Tôi đoán gần đây Jean bận xử lý chính là chuyện đó. Dù có là thủ lĩnh của một tổ chức ngầm hay không, mấy cuộc đấu đá quyền lực chính trị hẳn chẳng bao giờ dễ đối phó. Có điều vẫn còn một chuyện làm tôi thắc mắc.
 
@@ -112,9 +112,9 @@ Tôi đoán gần đây Jean bận xử lý chính là chuyện đó. Dù có l�
 
 Vậy là phó thủ lĩnh đã giữ kín bí mật đó suốt cả cuộc đời mình, kiên nhẫn chờ đợi thời khắc quyết định và cần mẫn làm việc mà không hề nói với đồng nghiệp hay cấp dưới. Hèn chi chẳng ai nghĩ tới chuyện nghi ngờ.
 
-Cuối cùng thì kết cục vẫn là thất bại. Nghe như một cuộc đời thật đáng buồn, nhưng nếu bản thân người đó cam tâm tình nguyện hy sinh vì lòng trung thành của mình, thì có lẽ cũng không đến nỗi quá tệ. Dù người ấy là thủ phạm gây cho chúng tôi bao nhiêu rắc rối, nhưng nhìn theo một góc độ nào đó, họ chắc chắn là người sống có nguyên tắc, thành ra trong lòng tôi lại thoáng chút ngậm ngùi.
+Cuối cùng thì kết cục vẫn là thất bại. Nghe như một cuộc đời thật đáng buồn, nhưng nếu bản thân người đó cam tâm tình nguyện hy sinh vì lòng trung thành của mình, thì có lẽ cũng không đến nỗi quá tệ. Dù người ấy là thủ phạm gây cho chúng tôi bao nhiêu rắc rối, nhưng nhìn theo một góc độ nào đó, kẻ đó chắc chắn là người sống có nguyên tắc, thành ra trong lòng tôi lại thoáng chút ngậm ngùi.
 
-Có lẽ tôi chỉ nghĩ được như vậy vì chưa từng gặp mặt họ, và chúng tôi đã bước ra khỏi âm mưu đó mà vẫn lành lặn. Nếu chúng tôi thực sự chịu tổn hại gì đó, chắc tôi đã ôm mối hận cay đắng với họ rồi.
+Có lẽ tôi chỉ nghĩ được như vậy vì chưa từng gặp mặt người đó, và chúng tôi đã bước ra khỏi âm mưu kia mà vẫn lành lặn. Nếu chúng tôi thực sự chịu tổn hại gì đó, chắc tôi đã ôm mối hận cay đắng với kẻ đó rồi.
 
 "Vậy nếu đã thế," tôi mở lời, "bây giờ ngài định làm gì? Nhìn tình hình này, Gisel đang bất chấp tất cả và làm mọi cách để đưa Đệ Nhất Công Chúa lên ngôi. Ngài vẫn định tiếp tục làm việc với bà ta sao?"
 

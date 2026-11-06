@@ -4,13 +4,13 @@ Giờ thì, tôi đã nắm khá rõ dị năng của Vaasa. Cũng như tôi, c�
 
 "Được rồi, tiếp tục nào," tôi nói. "Tôi tới đây."
 
-Tôi vốn chẳng cần phải báo trước như vậy, nhưng nhìn bộ dạng Vaasa thì dường như cậu ta vẫn còn đôi chút thất thần sau những cú sốc vừa rồi. Dù hoàn toàn có thể tận dụng lợi thế đó để tấn công, tôi lại không muốn cậu ta kêu ca thua không phục sau trận đấu. Tôi muốn thắng trận này một cách đường đường chính chính. Đấy là nếu như chuyện sở hữu một cơ thể chịu đòn chí mạng vẫn lành lặn lại như mới được coi là "công bằng."
+Tôi vốn chẳng cần phải báo trước như vậy, nhưng nhìn bộ dạng Vaasa thì dường như cậu ta vẫn còn đôi chút thất thần sau những cú sốc vừa rồi. Dù hoàn toàn có thể tận dụng lợi thế đó để tấn công, tôi lại không muốn cậu ta kêu ca thua không phục sau trận đấu. Tôi muốn thắng trận này một cách đường đường chính chính. Đấy là nếu như chuyện sở hữu một cơ thể chịu đòn chí mạng vẫn lành lặn lại như mới được coi là "công bằng".
 
 Vaasa gằn giọng. "Tới đi!"
 
 Mấy lời của tôi đã kéo cậu ta ra khỏi cơn thất thần, và vẻ mặt cậu ta nghiêm túc trở lại khi siết chặt cây giáo trên tay. Thế thủ của cậu ta rất kín kẽ, chẳng lộ chút sơ hở nào. Tôi không rõ cậu ta đã hồi sức được bao nhiêu phần, nhưng rõ ràng cậu ta không còn để cái vẻ quái dị của tôi làm lung lạc tinh thần nữa.
 
-Thấy vậy, tôi lại lao lên. Lần này, tôi vận dụng kiếm thuật bài bản để chém tới. Làm đối thủ con người trở tay không kịp bằng những cử động phi nhân loại thì cũng hay đấy, nhưng xét về mặt uy lực, những động tác gượng gạo, trái tự nhiên đó chỉ đạt chừng bảy mươi phần trăm hiệu quả so với đòn đánh chuẩn mực. Lý do duy nhất tôi làm được là nhờ dùng Khí Lực và Ma Lực để cưỡng ép cơ thể. Còn trong một trận đấu nghiêm túc, thứ kiếm thuật mà tôi dày công mài giũa từ hồi mới vào nghề mạo hiểm giả vẫn thoải mái và thuận tay hơn nhiều.
+Thấy vậy, tôi lại lao lên. Lần này, tôi vận dụng kiếm thuật bài bản để chém tới. Làm đối thủ con người trở tay không kịp bằng những cử động khác người thì cũng hay đấy, nhưng xét về mặt uy lực, những động tác gượng gạo, trái tự nhiên đó chỉ đạt chừng bảy mươi phần trăm hiệu quả so với đòn đánh chuẩn mực. Lý do duy nhất tôi làm được là nhờ dùng Khí Lực và Ma Lực để cưỡng ép cơ thể. Còn trong một trận đấu nghiêm túc, thứ kiếm thuật mà tôi dày công mài giũa từ hồi mới vào nghề mạo hiểm giả vẫn thoải mái và thuận tay hơn nhiều.
 
 Thế nhưng, có lẽ đòn tấn công quá dễ đoán nên Vaasa đã dùng giáo gạt thanh kiếm của tôi sang bên. Cậu ta liền thuận đà hạ giáo xuống, nhắm thẳng vào lồng ngực đang hoàn toàn sơ hở của tôi mà đâm tới. Nhưng thế cũng chẳng sao, bởi tôi chỉ việc ngửa rạp người ra sau là né được đòn đâm của cậu ta.
 
@@ -70,7 +70,7 @@ Thế đánh của Vaasa lúc này đã có đôi chút khác biệt. Không ph�
 
 Xét theo nghề nghiệp của cậu ta, tôi đoán không phải lúc nào cậu ta cũng cần giết mục tiêu. Đôi khi còn phải bắt sống mang về. Chuyện tổ chức nhúng tay vào các vụ bắt cóc tống tiền nghe chừng hoàn toàn có cơ sở. Gặp những trường hợp đó, đâm một lỗ trên người nạn nhân làm họ mất mạng thì rắc rối to. Dùng côn giúp cậu ta dễ bề kiềm chế đòn đánh, có thể dùng để tẩn cho một trận, đánh bất tỉnh đối phương, đại loại thế.
 
-Cây côn của Vaasa đảo qua đảo lại như múa để đỡ gạt, trong khi kiếm của tôi đâm chém từ những góc độ và thời điểm phi nhân loại khiến cậu ta không tài nào tập trung nổi lấy một giây. Có vẻ cậu ta đã dần quen với sự kỳ dị và khó lường từ cơ thể tôi, nhưng thói quen vận động đã ăn sâu bám rễ bao năm đâu phải muốn sửa ngay lập tức là được. Thứ thương thuật vốn xây dựng trên tiền đề đối thủ có phạm vi cử động của một con người bình thường thì khó lòng đối phó tốt với các đòn đánh của tôi.
+Cây côn của Vaasa đảo qua đảo lại như múa để đỡ gạt, trong khi kiếm của tôi đâm chém từ những góc độ và nhịp điệu vượt ngoài khả năng con người khiến cậu ta không tài nào tập trung nổi lấy một giây. Có vẻ cậu ta đã dần quen với sự kỳ dị và khó lường từ cơ thể tôi, nhưng thói quen vận động đã ăn sâu bám rễ bao năm đâu phải muốn sửa ngay lập tức là được. Thứ thương thuật vốn xây dựng trên tiền đề đối thủ có phạm vi cử động của một con người bình thường thì khó lòng đối phó tốt với các đòn đánh của tôi.
 
 Nếu đụng độ những cao thủ hàng đầu thì mấy chiêu lắt léo của tôi hiển nhiên chẳng ăn thua gì. Ngoài kia có những người như Nive, di chuyển mượt mà tới mức có thể đối phó cả Ma Cà Rồng dùng Phân Liệt.
 
@@ -84,7 +84,7 @@ Trái lại, với tôi thì ngay từ đầu vốn dĩ chẳng có khái niệm
 
 "Đừng hòng!" Cậu ta thủ thế giáo rồi đâm thẳng về phía tôi.
 
-So với một kẻ mình mẩy đầy vết thương như cậu ta, tôi về cơ bản vẫn bình an vô sự. Nói đúng ra thì chúng tôi gây thương tích cho nhau ngang ngửa, chỉ có điều tôi chịu đòn đập thay vì những vết chém. Cơ mà thân xác Undead của tôi lần nào cũng lành lại rất nhanh, nên nhìn bề ngoài, tôi hoàn toàn nguyên vẹn không chút xây xát. Dĩ nhiên lượng sinh mệnh lực tôi rút ra được là có hạn, nhưng việc cơ thể luôn giữ được trạng thái hoàn hảo cho tới lúc cạn kiệt quả thực khá là bất công.
+So với một kẻ mình mẩy đầy vết thương như cậu ta, tôi về cơ bản vẫn bình an vô sự. Nói đúng ra thì chúng tôi gây thương tích cho nhau ngang ngửa, chỉ có điều tôi chịu đòn đập thay vì những vết chém. Có điều thân xác Undead của tôi lần nào cũng lành lại rất nhanh, nên nhìn bề ngoài, tôi hoàn toàn nguyên vẹn không chút xây xát. Dĩ nhiên lượng sinh mệnh lực tôi rút ra được là có hạn, nhưng việc cơ thể luôn giữ được trạng thái hoàn hảo cho tới lúc cạn kiệt quả thực khá là bất công.
 
 Nó vốn vận hành như thế đâu phải lỗi của tôi, nên có gì thì cũng thông cảm cho tôi một chút. Dẫu vậy, tôi vẫn thấy hơi áy náy khi chẳng có điều gì trong chuyện này mang lại cảm giác "đường đường chính chính" cả.
 
@@ -122,7 +122,7 @@ Thấy cậu ta quả thực vẫn còn thở, tôi nhìn về phía ông lão.
 
 Dù làm trọng tài của trận đấu, tất cả những gì ông cần làm chỉ là tuyên bố bắt đầu và ngăn người ngoài can thiệp, nên ngồi trên khán đài cũng chẳng có vấn đề gì. Dù vậy, ông vẫn phải xuống tận nơi để xác nhận xem Vaasa còn sống hay chỉ ngất đi, đó là chuyện hiển nhiên.
 
-Lorraine nhìn về hướng phát ra tiếng hét và thấy Fuana Thông Ma Pháp. Cô bé dường như không thể tin vào mắt mình sau trận đấu vừa rồi. Sự bàng hoàng của cô bé hẳn không bắt nguồn từ thất bại của Vaasa hay tình đồng đội và niềm tin dành cho cậu ta, mà đơn giản chỉ vì những cử động của Rentt.
+Lorraine nhìn về hướng phát ra tiếng hét và thấy Fuana Thông Ma Pháp. Cô ta dường như không thể tin vào mắt mình sau trận đấu vừa rồi. Sự bàng hoàng của cô ta hẳn không bắt nguồn từ thất bại của Vaasa hay tình đồng đội và niềm tin dành cho cậu ta, mà đơn giản chỉ vì những cử động của Rentt.
 
 Lorraine là người ở bên cạnh Rentt lâu nhất kể từ lúc anh có được cơ thể Undead, thế mà đôi khi chính cô vẫn thấy khó tin. Thật dễ hình dung một người lần đầu chứng kiến sẽ sốc đến mức nào.
 
@@ -136,7 +136,7 @@ Thấy có cơ hội trêu đùa đôi chút, Lorraine lên tiếng hỏi Fuana:
 
 Undead thực ra vẫn có xương sống, nhưng cơ thể họ lại mềm dẻo chẳng khác nào loài thân mềm. Đặc điểm độc nhất vô nhị của họ là hầu như mọi thương tổn trên cơ thể đều vô nghĩa cho đến khi bản thể không còn duy trì được nữa và tan biến. Đó là lý do Rentt không hề phản ứng trước các đòn đánh của Vaasa, kể cả mũi giáo kia. Nhưng cô đâu thể giải thích chuyện đó ra, mà dẫu có giải thích được thì cũng chẳng có gì đảm bảo Fuana sẽ tin lấy nửa lời. Chẳng còn cách nào khác, Lorraine đành đưa ra một lý do nghe có phần hơi thiếu chính xác.
 
-"Đó chỉ là dị năng của anh ấy thôi mà, phải không? Khi thấy Vaasa dùng dị năng của cậu ta—tên là Cường Thiết đúng chứ?—tôi cũng có cảm giác y hệt. Một dị năng tạo ra vũ khí từ hư không ư? Tôi đã muốn hét vào mặt cậu ta là hãy biết tôn trọng các định luật vật lý hơn một chút đấy."
+"Đó chỉ là dị năng của anh ấy thôi mà, phải không? Khi thấy Vaasa dùng dị năng của cậu ta, tên là Cường Thiết đúng chứ, tôi cũng có cảm giác y hệt. Một dị năng tạo ra vũ khí từ hư không ư? Tôi đã muốn hét vào mặt cậu ta là hãy biết tôn trọng các định luật vật lý hơn một chút đấy."
 
 Thú thật, cô cũng đang thắc mắc không hiểu Vaasa làm thế bằng cách nào. Cô hiểu được ma pháp và khí thuật, vì chúng là những hiện tượng biểu hiện qua việc dùng Ma Lực và Khí Lực tương ứng. Nhưng cô vẫn có cảm giác dị năng bắt nguồn từ một thứ gì đó khác. Chúng dường như không dùng bất kỳ loại năng lượng nào. Có lẽ cũng giống như Ma Lực, chỉ ai sở hữu mới cảm nhận được, nhưng...
 
@@ -150,7 +150,7 @@ Trước khi cuộc trò chuyện tréo ngoe của họ kịp tiếp diễn...
 
 "Phù, cuối cùng cũng thắng được rồi."
 
-Rentt bước lại gần khán đài. Bên cạnh anh là ông lão đang vác Vaasa trên vai một cách nhẹ nhàng đến kỳ lạ nếu xét theo thân hình đồ sộ của gã thanh niên đang bất tỉnh, nhưng biết bản chất thật của ông lão thì chuyện đó lại hoàn toàn dễ hiểu. Nếu muốn, ông có thể hóa lớn gấp nhiều lần Vaasa.
+Rentt bước lại gần khán đài. Bên cạnh anh là ông lão đang vác Vaasa trên vai nhẹ nhàng đến lạ nếu xét theo thân hình đồ sộ của gã thanh niên đang bất tỉnh, nhưng biết bản chất thật của ông lão thì chuyện đó lại hoàn toàn dễ hiểu. Nếu muốn, ông có thể hóa lớn gấp nhiều lần Vaasa.
 
 Ông lão bước tới khán đài rồi tiện tay quẳng Vaasa vào trong.
 
@@ -190,4 +190,4 @@ Họ đến đây chính là để ngăn chặn chuyện đó, nhưng chưa bi�
 
 "Hả?!" Fuana giật mình. "Ơ, t-tôi, ừm, phải rồi, lúc nào tôi chẳng sẵn sàng!"
 
-Giọng cô bé nghe run rẩy một cách kỳ lạ. Rõ ràng trận đấu của Rentt đã giáng cho cô bé một cú sốc không nhỏ.
+Giọng cô ta nghe run rẩy thấy rõ. Rõ ràng trận đấu của Rentt đã giáng cho cô ta một cú sốc không nhỏ.
