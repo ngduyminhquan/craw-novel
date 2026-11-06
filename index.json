@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T02:05:45Z",
+  "generatedAt": "2026-11-06T02:14:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3400,19 +3400,19 @@
           "number": 208,
           "title": "Chương 208: Ngoại truyện Tập 9 - Ma Cà Rồng Isaac",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_208.md",
-          "sha": "e6b91cd83f82261c13ac03cf6754784ca1ce287a"
+          "sha": "1febf0e66cda3bfb766d4c6bd92fc9f97af6241e"
         },
         {
           "number": 209,
           "title": "Chương 209: Tập 9 Chương 4 - Tòa Tháp và Học Viện (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_209.md",
-          "sha": "024c2e5ce76dc83960784c1c3f3fb7698eae71cc"
+          "sha": "54efb44924831a44c069416c31bdfe4140c075d5"
         },
         {
           "number": 210,
           "title": "Chương 210: Tập 9 Chương 4 - Tòa Tháp và Học Viện (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_210.md",
-          "sha": "8129362de0db2073e7d0ba60e73515f63e0e7b2a"
+          "sha": "12ffcdd720feaec0b838c9a959d5196348464f47"
         },
         {
           "number": 211,

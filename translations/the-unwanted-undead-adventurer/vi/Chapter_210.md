@@ -1,205 +1,205 @@
 # Chương 210: Tập 9 Chương 4 - Tòa Tháp và Học Viện (2)
 
-"Đã có duyên gặp lại nhau thế này thì lúc đó nhớ kể cho tôi nghe tường tận về mấy lễ hội sắp tới đấy nhé, Rentt. Cũng đến lúc tôi phải đi rồi, nên thôi chào tạm biệt ở đây vậy."
+"Đã có duyên gặp lại nhau thế này thì lúc đó chắc cậu sẽ kể cho tôi nghe đủ chuyện náo nhiệt sắp tới đấy nhỉ, Rentt. Cũng đến lúc tôi phải đi rồi, nên thôi chào tạm biệt ở đây vậy."
 
-Thực lòng tôi chẳng muốn có cái duyên gặp lại cô ấy chút nào, nhưng trực giác của Nive xưa nay khá chuẩn xác. Tôi thầm nhủ bản thân nhất định phải cẩn thận mới được.
+Thực lòng tôi chẳng muốn có cái duyên gặp lại cô ấy chút nào, nhưng trực giác của Nive xưa nay khá chuẩn xác. Tôi tự dặn mình nhất định phải cẩn thận mới được.
 
-Nhìn theo hướng Nive vừa hướng mắt tới, tôi thấy một người đàn ông mặt mày bực bội đang đứng trước cỗ xe ngựa. Vừa rồi Nive vừa nói vừa liếc về phía đó, nên đây hẳn là cỗ xe của cô ấy và Myullias, còn người kia chắc là phu xe hoặc đại loại thế.
+Nhìn theo hướng Nive vừa nhìn, tôi thấy một người đàn ông mặt mày bực bội đang đứng trước cỗ xe. Vừa rồi Nive vừa nói vừa liếc về phía đó, nên đây hẳn là cỗ xe của cô ấy và Myullias, còn người kia chắc là người đánh xe hoặc đại loại thế.
 
-Thấy người nọ nhìn Myullias với vẻ cung kính, tôi đoán anh ấy có liên quan đôi chút đến Giáo Hội Lobelia. Tôi cũng để ý thấy trên thân xe có biểu tượng của giáo hội. Cỗ xe trông không đến mức đắt đỏ xa xỉ, nhưng vẫn tươm tất hơn xe ngựa bình thường nhiều. Thứ đó hẳn nhiên vượt xa túi tiền của tôi rồi.
+Thấy ông ta nhìn Myullias với vẻ kính trọng, tôi đoán người đó có liên hệ với Giáo Hội Lobelia theo cách nào đó. Tôi cũng để ý thấy trên thân xe có biểu tượng của giáo hội. Cỗ xe trông không quá đắt tiền, nhưng vẫn tốt hơn xe bình thường nhiều. Thứ đó hiển nhiên vượt quá tầm túi tiền của tôi rồi.
 
-Từ đợt dốc một khoản lớn mua chiếc túi ma thuật, tôi luôn phải thắt lưng buộc bụng. Dù giờ đã rủng rỉnh hơn xưa nhiều, nhưng chẳng ai biết trước khi nào lại phát sinh khoản chi ngoài dự tính. Với mạo hiểm giả, quái vật càng mạnh thì phí tổn để trừ khử chúng càng tốn kém. Muốn tạo dựng tên tuổi bao giờ cũng cần một khoản tích lũy nhất định. Dẫu vậy, vẫn có không ít mạo hiểm giả giữ thói quen sống ngày nào hay ngày đó. Chưa kể, làm một mạo hiểm giả kiểu ấy trông lại ngầu hơn nhiều.
+Từ đợt chi một khoản lớn mua chiếc túi ma thuật, tôi luôn phải thắt chặt hầu bao. Dù giờ đã khá giả hơn xưa nhiều, nhưng chẳng biết trước được khi nào lại phát sinh khoản chi ngoài dự tính. Với mạo hiểm giả, quái vật càng mạnh thì chi phí bỏ ra để hạ chúng càng tốn kém. Muốn tạo dựng tên tuổi bao giờ cũng cần một khoản tích lũy nhất định. Dù vậy, vẫn có khối mạo hiểm giả giữ thói quen làm ngày nào tiêu ngày đó. Chưa kể, làm một mạo hiểm giả kiểu ấy trông lại ngầu hơn.
 
-Có lẽ mình cũng nên thử sống kiểu ấy xem sao. Tôi vừa thoáng nghĩ thế đã vội gạt phăng đi, bởi cái tính cẩn trọng ăn sâu vào máu khiến tôi chẳng thể nào sống tùy hứng như vậy được.
+Hay là mình cũng thử sống kiểu ấy xem sao nhỉ. Tôi thoáng nghĩ vậy, nhưng tính tôi vốn quá cẩn trọng để sống kiểu đó, nên lập tức gạt ngay ý nghĩ ấy đi.
 
-"Mọi chuyện suôn sẻ hơn tôi tưởng đấy," tôi nói với Nive, "nhưng tôi cũng có cảm giác chúng ta sẽ còn gặp lại nhau. Thế nên chí ít từ giờ tới lúc ấy, cô nhớ bảo trọng."
+"Mọi chuyện êm xuôi hơn tôi tưởng một chút đấy," tôi nói với Nive, "nhưng tôi cũng cảm thấy chúng ta sẽ còn gặp lại nhau. Thế nên ít nhất từ giờ tới lúc ấy, cô nhớ giữ gìn an toàn."
 
-Thật lòng mà nói, tôi chỉ mong cô ấy gặp đủ thứ trắc trở để quên khuấy cái ý định lấy mạng tôi trong lúc ngủ. Cơ mà hiển nhiên là tôi chẳng thể nói toẹt ra mồm rồi.
+Thật lòng mà nói, tôi chỉ mong cô ấy gặp đủ thứ vất vả để quên đi cái ý định giết tôi trong lúc ngủ. Nhưng hiển nhiên là tôi chẳng thể nói toẹt câu đó ra được.
 
-"Nghe thường đến lạ đấy. Chẳng giống cậu chút nào, cơ mà chắc là đang giữ phép lịch sự thôi nhỉ. Khỏi phải lo đâu. Thứ duy nhất làm tôi nản chí được là khi trên đời này chẳng còn con Ma Cà Rồng nào cho tôi xử lý nữa kìa."
+"Câu đấy nghe bình thường thế. Chẳng giống kiểu của cậu chút nào, nhưng chắc cậu đang nói xã giao thôi nhỉ. Khỏi phải lo. Thứ duy nhất làm tôi nản lòng được là khi trên đời chẳng còn con Ma Cà Rồng nào để giết nữa kìa."
 
-"Ừm-hửm."
+"À ừm."
 
-Nghe chẳng khác nào cô ấy đang bảo chuyện đó sẽ chẳng xảy ra chừng nào tôi chưa chết vậy, cơ mà... Không, tôi chỉ giống Ma Cà Rồng thôi chứ đâu phải Ma Cà Rồng thật sự. Ít nhất thì tôi cũng cố tự nhủ với mình như thế.
+Nghe cứ như cô ấy đang bảo chuyện đó sẽ chẳng xảy ra chừng nào tôi chưa chết vậy, nhưng mà... Không, tôi chỉ giống Ma Cà Rồng thôi chứ đâu phải Ma Cà Rồng thật sự. Hoặc ít ra tôi đã cố tự thuyết phục mình như thế.
 
-Nive và Myullias vẫy tay chào rồi bước lên xe. Cỗ xe rời đi lặng lẽ đến mức khiến người ta dễ dàng quên bẵng mất hai người họ từng khuấy đảo Maalt dữ dội đến mức nào trong suốt quãng thời gian lưu lại nơi này.
+Nive và Myullias vẫy tay chào rồi bước lên xe. Họ rời đi bình lặng đến mức người ta dễ dàng quên mất hai người từng gây ra sóng gió lớn cỡ nào trong suốt thời gian ở Maalt.
 
 "Coi như cũng trút được một gánh nặng rồi," Lorraine lẩm bẩm khi nhìn theo cỗ xe đang rời đi.
 
-"Chưa biết chừng đâu. Dự đoán của Nive, hay nói đúng hơn là lời tiên tri của cô ấy, nghe chừng sắp có rắc rối xảy ra rồi."
+"Chưa biết được đâu. Dự đoán của Nive, hay lời tiên tri của cô ấy, cho thấy sắp có rắc rối xảy ra rồi."
 
-"Đáng tiếc là có lẽ cô ấy nói đúng. Tòa Tháp, Học Viện rồi cả một mê cung cùng tụ lại một chỗ. Từng ấy người đổ dồn về thị trấn, kiểu gì chẳng có chuyện xảy ra. Cơ mà chí ít thì anh cũng thấy nhẹ nhõm hơn khi biết mình với Rina không bị nghi ngờ là Ma Cà Rồng chứ?"
+"Tiếc là có lẽ cô ấy nói đúng. Tòa Tháp, Học Viện rồi cả một mê cung cùng tụ lại một chỗ. Ngần ấy người đổ về thị trấn, kiểu gì chẳng có chuyện xảy ra. Nhưng ít ra anh cũng thấy nhẹ người hơn khi biết mình với Rina sẽ không bị nghi là Ma Cà Rồng chứ?"
 
-"Tôi cũng mong thế, nhưng từ mấy chuyện vừa rồi mới thấy, những kẻ sở hữu trực giác nhạy bén ngoài kia chẳng hề thiếu đâu. Tôi thực sự không dám lơ là cảnh giác chút nào."
+"Tôi cũng mong thế, nhưng qua mấy chuyện gần đây thì thấy những người có trực giác nhạy bén ngoài kia chẳng thiếu đâu. Tôi không thể lơ là cảnh giác được."
 
-Như Nive, trực giác của cô ấy được bồi đắp từ kinh nghiệm dạn dày lẫn suy luận logic. Tôi không nghĩ mình sẽ sớm đụng phải ai đáng gờm như cô ấy nữa, nhưng nói vậy không có nghĩa là tôi được phép bớt cẩn trọng.
+Như trường hợp của Nive, trực giác của cô ấy được củng cố bằng kinh nghiệm và suy luận logic. Tôi không nghĩ mình sẽ sớm gặp lại ai đáng gờm như cô ấy nữa, nhưng nói vậy không có nghĩa là tôi được phép ngừng cẩn trọng.
 
-"Tôi hiểu là không được lơ là cảnh giác, nhưng cụ thể thì chúng ta phải làm gì bây giờ? Tôi chưa có chút kinh nghiệm nào về chuyện này, nên thật tình mù tịt chẳng biết gì cả," Rina nhíu mày băn khoăn.
+"Tôi hiểu là không được lơ là cảnh giác, nhưng cụ thể thì chúng ta phải làm gì? Tôi chưa có kinh nghiệm chuyện này, nên chẳng biết tí gì cả," Rina nhíu mày khó nghĩ.
 
-Cũng phải thôi. Tôi làm Undead được một dạo rồi nên nắm rõ những hành vi nào dễ khiến người ta sinh nghi. Còn Rina thì mới biến thành Undead được vài hôm. Đây chính là những điều tôi cần chỉ bảo cho cô ấy, vả lại chuyện đó cũng chẳng có gì quá phức tạp.
+Cũng phải thôi. Tôi làm Undead được một thời gian rồi nên biết rõ những gì dễ khiến người ta nghi ngờ. Còn Rina thì mới thành Undead được vài ngày. Đó là những điều tôi cần chỉ cho cô ấy, mà thực ra cũng chẳng có gì phức tạp.
 
-"Trước hết, đêm hôm đừng có đi lang thang ra ngoài," tôi dặn dò.
+"Trước hết, nửa đêm đừng có đi lang thang ra ngoài," tôi dặn.
 
-Tôi mong là điều này không nói thì ai cũng hiểu. Cái giống như chúng tôi mà cứ đi loanh quanh giữa đêm hôm khuya khoắt thì khả nghi lắm. Hành tung kiểu ấy chỉ tổ chuốc lấy sự chú ý của những người như Nive.
+Tôi mong là điều này khỏi nói cũng rõ. Những người như chúng tôi mà cứ đi loanh quanh giữa đêm khuya thì khả nghi lắm. Hành động kiểu ấy sẽ thu hút sự chú ý của những người như Nive.
 
-"Ừm, đúng là hợp lý thật. Còn gì nữa không anh?"
+"Ưm, vâng, đúng là hợp lý thật. Còn gì nữa không?"
 
-"Để xem nào. Điều nữa là phải tỏ ra thân thiện hết mức có thể. Đa phần mọi người đều nghĩ Undead là giống u ám, ủ rũ. Nhớ là sáng nào cũng phải chịu khó niềm nở, hăng hái cất lời chào mọi người."
+"Để xem nào. Điều nữa là phải tỏ ra thân thiện hết mức có thể. Đa số mọi người đều nghĩ Undead là loài u ám. Nhớ là sáng nào cũng phải chịu khó vui vẻ chào hỏi mọi người."
 
-Tôi vẫn làm thế suốt từ ngày dọn đến sống ở nhà Lorraine. Cơ mà cũng chẳng phải tôi giao du gì sâu sắc với ai; chỉ là hễ tình cờ đụng mặt bà con lối xóm lúc ra đốt rác hay làm việc vặt, tôi đều chủ động cất lời chào. Khi đi chợ búa mua sắm, tôi cũng hay bắt chuyện đôi ba câu với mấy bà cụ.
+Tôi vẫn làm thế suốt từ ngày dọn đến sống ở nhà Lorraine. Tất nhiên cũng chẳng phải tôi giao thiệp sâu sắc gì với ai; chỉ là hễ tình cờ gặp hàng xóm lúc ra đốt rác hay làm việc vặt thì tôi chào một tiếng. Đi chợ mua đồ tôi cũng hay trò chuyện đôi câu với mấy bà cụ.
 
-"Chào hỏi là một trong những điều căn bản nhất để làm người mà!" Rina bồi thêm.
+"Chào hỏi là một trong những điều căn bản nhất để làm người mà!" Rina nói thêm.
 
-"Chính thế. Để xem còn gì nữa nào..."
+"Đúng thế. Để xem còn gì nữa nào..."
 
-Sau khi tôi chỉ cho Rina vài điều căn bản để trà trộn vào xã hội loài người, Lorraine nhìn tôi rồi lẩm bẩm: "Nghe cứ như mấy lời dặn dò con nít lần đầu tiên xa nhà vậy."
+Sau khi tôi chỉ cho Rina vài điều cơ bản để hòa nhập vào xã hội con người, Lorraine nhìn tôi rồi lẩm bẩm: "Nghe cứ như lời dặn dò một đứa trẻ lần đầu tiên sống xa nhà vậy."
 
-Đâu đến mức như thế chứ nhỉ? Khi tôi nhìn sang Rina để tìm kiếm sự đồng tình, cô ấy đang cặm cụi chép lời khuyên của tôi vào cuốn sổ tay—món ma cụ do Lorraine tự tay chế tạo rồi tặng cho cô ấy. Thứ đó mà đem mua bên ngoài thì hẳn đắt đỏ lắm.
+Nghe đâu giống thế nhỉ? Khi tôi nhìn sang Rina để tìm sự đồng tình, cô ấy đang cắm cúi chép lời khuyên của tôi vào cuốn sổ tay, một ma cụ do Lorraine tự làm rồi tặng cho cô ấy. Thứ đó nếu đem mua thì hẳn đắt lắm.
 
-Tôi nghé mắt qua vai cô ấy dòm vào trang giấy. "Đêm hôm cấm ra ngoài!", "Chào hỏi là rất quan trọng!" rồi "Phải hòa nhã với hàng xóm láng giềng! v.v." Tất cả đều được nắn nót bằng những nét chữ tròn trĩnh dễ thương.
+Tôi ghé mắt nhìn qua vai cô ấy xem nội dung bên trong. "Không được ra ngoài ban đêm!", "Chào hỏi là rất quan trọng!" và "Phải thân thiện với hàng xóm! v.v." Tất cả đều được viết bằng những nét chữ tròn trịa dễ thương.
 
 ![](images/ch210-01.webp)
 
-Trông đúng là chẳng khác nào mấy lời dặn dò dành cho con nít thật. Tôi dời mắt từ Rina sang Lorraine và thấy cô ấy đang cười khúc khích. Bụng bảo dạ muốn cằn nhằn thái độ của cô ấy đôi câu, cơ mà nếu đổi vị trí cho nhau, khéo tôi cũng cười trêu cô ấy mất.
+Đúng là nghe giống hệt lời dặn trẻ con thật. Tôi đưa mắt từ Rina sang Lorraine và thấy cô ấy đang cười khúc khích. Trong lòng tôi cũng muốn phàn nàn thái độ của cô ấy lắm, nhưng nếu đổi vị trí cho nhau, chắc tôi cũng cười cô ấy thôi.
 
-"Cơ mà tôi nói đâu có sai, đúng chứ?" tôi hỏi lại cho chắc.
+"Nhưng tôi nói đâu có sai, đúng không?" tôi hỏi lại cho chắc.
 
-"Không, anh chẳng sai chút nào. Bà con quanh xóm đều nghĩ anh chỉ là một kẻ ăn bám dễ tính đang sống nhờ ở nhà tôi thôi mà."
+"Không, anh không sai. Hàng xóm quanh nhà đều nghĩ anh chỉ là một kẻ ăn bám dễ mến đang sống ở nhà tôi thôi."
 
-Không bị ai nghi ngờ thì tốt thật đấy, nhưng mà... một kẻ ăn bám dễ tính ư? Thế này có khi làm hoen ố thanh danh của loài Undead mất thôi. Cơ mà tôi cũng chẳng bận lòng làm gì.
+Không bị ai nghi ngờ thì tốt thật, nhưng mà... một kẻ ăn bám dễ mến ư? Thế này có khi làm mất hết danh tiếng của loài Undead mất. Dù tôi cũng chẳng để tâm làm gì.
 
-Đúng lúc tôi vừa nghĩ bụng thế, một tiếng quát tháo giận dữ bỗng vang lên khắp bến xe ngựa.
+Đúng lúc tôi đang nghĩ vậy, một tiếng quát giận dữ bỗng vang lên khắp bến xe.
 
-"Này ông kia! Ông tính chịu trách nhiệm chuyện này thế nào đây hả?!"
+"Này ông kia! Ông tính trả lời chuyện này thế nào đây hả?!"
 
 ◆◇◆◇◆
 
-"Gì thế nhỉ? Có chuyện gì vậy?" Lorraine hỏi rồi quay người về phía có tiếng quát tháo.
+"Gì thế? Có chuyện gì vậy?" Lorraine hỏi rồi quay về hướng có tiếng quát.
 
-Rina và tôi cũng quay sang nhìn. Ở đó, chúng tôi thấy một cậu thiếu niên khoác chiếc áo choàng trông có vẻ đắt tiền cùng một người đàn ông trung niên mang dáng dấp thương nhân lữ hành.
+Rina và tôi cũng quay sang nhìn. Ở đó, chúng tôi thấy một cậu thiếu niên mặc chiếc áo choàng trông có vẻ đắt tiền và một người đàn ông trung niên trông giống thương nhân lữ hành.
 
 "Một đứa trẻ à?" tôi lẩm bẩm.
 
-Lorraine gật đầu. "Có vẻ thế. Thằng bé trông chừng mười tuổi thôi. Nhỏ tuổi thế mà đã hợm hĩnh ra phết rồi, cơ mà... À, chiếc áo choàng kia trông quen lắm. Rina cũng từng thấy rồi đúng không?"
+Lorraine gật đầu. "Có vẻ thế. Trông chừng mười tuổi thôi. Nhỏ tuổi thế mà thái độ đã trịch thượng gớm, nhưng mà... À, chiếc áo choàng kia trông quen lắm. Rina cũng từng thấy rồi đúng không?"
 
-"Đó là đồng phục của Học Viện," Rina xác nhận. "Chắc cậu bé vừa đến trên một trong mấy cỗ xe ngựa lúc nãy." Nét mặt cô ấy thoáng vẻ băn khoăn, có lẽ vì cảnh tượng này gợi lại ký ức về đám học viên Học Viện thô lỗ dạo trước.
+"Đó là đồng phục của Học Viện," Rina xác nhận. "Chắc cậu bé vừa đến trên một trong mấy cỗ xe lúc nãy." Nét mặt cô ấy thoáng vẻ bối rối, có lẽ vì cảnh này gợi lại ký ức về đám học viên Học Viện thô lỗ dạo trước.
 
-Đây là lần đầu tiên tôi thấy đồng phục của Học Viện. Cũng phải thôi, một gã nhà quê như tôi thì hiếm khi nào có dịp giáp mặt người của Học Viện. Đợt trước đến vương đô khéo tôi cũng từng thấy rồi, ngặt nỗi lại chẳng nhớ nổi. Có lẽ do hồi ấy tôi ăn mặc kỳ quặc quá nên chẳng còn bụng dạ đâu để ý đến người xung quanh.
+Đây là lần đầu tiên tôi thấy đồng phục của Học Viện. Cũng phải thôi, một gã nhà quê như tôi thì hiếm khi có dịp thấy người của Học Viện. Đợt trước ở vương đô có thể tôi từng gặp rồi, nhưng lại chẳng nhớ là có thấy hay không. Có lẽ do hồi ấy tôi ăn mặc kỳ quặc nên chẳng để ý người khác trông thế nào.
 
-"Bộ đồng phục đẹp đấy chứ nhỉ?" tôi nhận xét. Một mặt, nó đơn giản là bộ đồng phục được may cắt khéo léo và trông đắt tiền, nhưng dưới con mắt của một mạo hiểm giả, bộ đồ ấy cũng rất cừ.
+"Bộ đồng phục đẹp đấy nhỉ?" tôi nhận xét. Một mặt, đó chỉ là bộ đồng phục được may đo khéo léo và trông đắt tiền, nhưng dưới góc nhìn của một mạo hiểm giả như tôi thì bộ đồ ấy cũng rất tốt.
 
-"Đúng thế. Nó dệt từ len Ma Lực gia cố qua thuật giả kim, lại còn thêu vài ma pháp trận bằng chỉ tơ. Học viên của Học Viện thường phải đối mặt với đủ thứ nguy cơ như luyện tập ma pháp hay thí nghiệm hóa học, nên một bộ đồ đa năng là thích hợp nhất. Đó là một món ma cụ được chế tác rất tuyệt mỹ."
+"Ừ. Nó làm từ len Ma Lực gia cố bằng thuật giả kim, lại còn thêu vài ma pháp trận bằng chỉ tơ. Học viên Học Viện thường phải đối mặt với nhiều nguy hiểm như tập ma pháp hay thí nghiệm hóa học, nên một bộ đồ đa dụng là tốt nhất. Đó là một ma cụ được chế tác rất đẹp."
 
-Tôi thầm thán phục khi thấy Lorraine đứng từ xa mà nhìn ra được ngần ấy thứ, nhưng dẫu sao thuật giả kim cũng là chuyên môn của cô ấy. Còn tôi chỉ mơ hồ cảm nhận chút Ma Lực toát ra từ đó. Tôi chẳng thể thấy dòng chảy ma thuật hay hiểu cấu trúc các ma pháp trận như Lorraine. Dù vậy, dẫu thiếu kiến thức chuyên sâu thì tôi vẫn nhận ra được khối điều. Chẳng hạn như bộ đồng phục kia hẳn là chịu được ma pháp, chất vải của nó nhiều khả năng cũng đỡ được cả đòn đánh từ vũ khí.
+Tôi cũng hơi nể khi thấy Lorraine đứng từ xa mà nhận ra được ngần ấy thứ, nhưng thuật giả kim vốn là chuyên môn của cô ấy. Còn tôi chỉ mơ hồ cảm nhận được chút Ma Lực từ nó. Tôi không thể nhìn thấy dòng chảy ma thuật hay hiểu cấu trúc ma pháp trận như Lorraine. Dù vậy, thiếu kiến thức chuyên môn thì tôi vẫn nhìn ra được khối điều. Chẳng hạn như bộ đồng phục kia trông có vẻ chịu được ma pháp, mà chất vải chắc cũng đỡ được cả đòn đánh từ vũ khí.
 
-"Cô đoán bộ đó tầm bao nhiêu tiền?" tôi hỏi.
+"Cô đoán bộ đó giá khoảng bao nhiêu?" tôi hỏi.
 
-"Để xem nào. Ở tầm đó thì khoảng năm mươi đồng vàng. Nếu chỉ muốn mức độ bảo hộ tương đương thì mua một bộ giáp bình thường còn rẻ hơn nhiều."
+"Để xem nào. Tầm đó thì khoảng năm mươi đồng vàng. Nếu chỉ cần mức bảo vệ tương đương thì mua một bộ giáp bình thường sẽ rẻ hơn."
 
-"Năm mươi đồng vàng cơ á?" Rina há hốc mồm kinh ngạc.
+"Năm mươi đồng vàng á?" Rina há hốc miệng.
 
-Đó là một món tiền khổng lồ. Ngần ấy tiền đủ để người ta trọ ở một quán bình dân suốt chừng hai năm trời. Giờ thì tôi đủ sức chi trả rồi, nhưng bảo bấm bụng mua lấy một bộ thì chắc là không. Chiếc áo choàng hiện tại của tôi chất lượng vốn rất tốt rồi, tôi chẳng việc gì phải sắm thứ như thế. Cơ mà nếu không có nó thì khéo tôi đã tính khác. Mỗi lần ra ngoài đi dạo quanh thị trấn mà cứ phải tháo ra mặc vào cả bộ giáp thì phiền toái chết đi được. Xét theo nghĩa đó, áo choàng tiện hơn nhiều, lại còn nhẹ nữa. Nhưng nếu tôi mà mua bộ đồng phục ấy về mặc thì khác nào một gã trơ trẽn mạo danh học viên Học Viện.
+Đó là một khoản tiền lớn. Ngần ấy tiền đủ để trọ ở một quán trọ rẻ tiền suốt khoảng hai năm. Giờ thì tôi đủ tiền mua rồi, nhưng chắc chẳng đời nào tôi chịu bỏ tiền sắm một bộ. Chiếc áo choàng hiện tại của tôi chất lượng vốn rất cao, tôi chẳng cần thứ gì như thế. Nhưng nếu không có chiếc áo choàng này thì có thể tôi đã nghĩ khác. Mỗi lần ra ngoài đi dạo quanh thị trấn mà cứ phải mặc vào cởi ra cả bộ giáp thì phiền lắm. Xét về khoản đó, áo choàng tiện hơn nhiều, lại còn nhẹ nữa. Có điều nếu tôi mà mua bộ đồng phục ấy mặc vào thì chẳng khác nào một gã mặt dày giả danh học viên Học Viện.
 
-Thực ra chuyện đàn ông chẳng phải kỵ sĩ mà ăn vận như kỵ sĩ, hay phụ nữ ở quán rượu hóa trang thành nữ tu dù không thuộc tu viện, vốn diễn ra khá phổ biến. Tôi mà làm thế thì cũng chẳng khác gì họ. Mấy bộ trang phục ấy thậm chí còn phong phanh hơn đồ thật nhiều. Chà, người ta làm vậy cũng chỉ để vui vẻ thôi mà. Tùy tình hình, kỵ sĩ hoặc nữ tu thực thụ có thể ghé qua bắt giữ hay tố cáo. Cơ mà mọi chuyện phần nhiều phụ thuộc vào cách dàn xếp của chủ quán.
+Thực ra chuyện đàn ông chẳng phải kỵ sĩ mà ăn mặc như kỵ sĩ, hay phụ nữ ở quán rượu hóa trang thành nữ tu dù không phải nữ tu, vốn khá phổ biến. Tôi mà mặc vào thì cũng giống hệt họ. Mấy bộ đồ hóa trang ấy còn hở hang hơn đồ thật nữa. Thôi thì họ cũng chỉ mặc cho vui. Tùy tình huống mà kỵ sĩ hoặc nữ tu thật có thể ghé qua bắt giữ hay trình báo họ. Nhưng chuyện đó còn tùy thuộc vào cách xử sự của chủ quán rượu nữa.
 
 "Còn vụ ầm ĩ đằng kia thì... À."
 
-Tôi hướng mắt nhìn lại cậu thiếu niên và người thương nhân.
+Tôi quay lại nhìn cậu thiếu niên và người thương nhân.
 
-"Ông tính đền chiếc áo choàng của tôi thế nào đây?!" cậu bé gắt với người đàn ông trung niên.
+"Ông tính giải quyết chiếc áo choàng của tôi thế nào đây?!" cậu bé gắt với người đàn ông trung niên.
 
-Người đàn ông lúng túng chẳng biết nói gì. Trông ông ấy có vẻ hơi bực mình khi phân trần: "Cậu bảo đền là sao chứ? Tôi chỉ lỡ va phải một cái thôi mà. Đã xin lỗi rồi còn gì. Bộ cậu muốn bắt tôi đền tiền chỉ vì nó bị dính bẩn đấy à?"
+Người đàn ông chẳng biết phải làm sao. Trông ông ấy hơi bực mình khi nói: "Cậu bảo giải quyết là giải quyết thế nào? Tôi chỉ va nhẹ vào cậu một cái thôi. Tôi cũng xin lỗi chuyện đó rồi. Bộ cậu định bắt tôi đền tiền vì nó bị bẩn chắc?"
 
-"Không phải vì bẩn! Mà là vì ông làm hỏng nó rồi! Thứ người như ông chắc chẳng biết đâu, nhưng đây là đồng phục của Học Viện đấy! Một món đồ thủ công tinh xảo có cường hóa ma thuật cao cấp hẳn hoi! Vậy mà ông—"
+"Không phải vì bẩn, mà là vì ông làm hỏng nó rồi! Thứ người như ông chắc chẳng biết đâu, nhưng đây là đồng phục của Học Viện đấy! Một món đồ thủ công tinh xảo có cường hóa ma thuật cao cấp hẳn hoi. Vậy mà ông—"
 
-"Cường hóa ma thuật cao cấp á? Thế thì làm sao chỉ va quẹt một cái mà hỏng được. Hay là cậu vớ phải đồ dỏm rồi?"
+"Cường hóa ma thuật cao cấp á? Thế thì làm sao chỉ va nhẹ một cái mà hỏng được. Hay là cậu mua phải đồ dỏm rồi?"
 
-"Ông dám ăn nói thế à...!"
+"Ông dám ăn nói thế à!"
 
-Cuộc cãi vã nhanh chóng trở nên gay gắt, người xung quanh bắt đầu túm tụm lại xem.
+Cuộc cãi vã nhanh chóng leo thang, người xung quanh bắt đầu xúm lại xem.
 
-Dù Maalt là một thị trấn tương đối thanh bình, chuyện cãi cọ xích mích ở đây vẫn xảy ra như cơm bữa. Mạo hiểm giả nơi này cư xử chừng mực hơn so với các thành phố khác, nhưng bản chất họ vẫn là dân thô lỗ cộc cằn. Ngày nào ở xó xỉnh nào đó tại Maalt cũng có đôi co xô xát. Hễ có ẩu đả bùng lên, người xem lại xúm vào hò reo kích động, tiện thể đặt cược xem bên nào thắng.
+Dù Maalt là một thị trấn tương đối yên bình, chuyện cãi cọ ở đây vẫn xảy ra thường xuyên. Mạo hiểm giả nơi này cư xử biết điều hơn so với các thành phố khác, nhưng bản chất vẫn là dân thô lỗ. Ngày nào ở đâu đó tại Maalt cũng có cãi vã đánh lộn. Mà hễ có đánh nhau là người xem lại tụ tập kích động đôi bên, tiện thể đặt cược xem ai thắng.
 
-Màn chạm trán giữa cậu thiếu niên và người đàn ông trung niên xem chừng cũng sắp biến thành một trò vui náo loạn trước bàn dân thiên hạ như thế, thế nhưng...
+Cuộc đụng độ giữa cậu thiếu niên và người đàn ông trung niên này sắp sửa biến thành một màn náo nhiệt giữa phố như thế, tuy nhiên...
 
 "Xin lỗi! Cho tôi qua với!"
 
-Một thiếu nữ chen qua đám đông đang xúm lại rồi lách mình tiến vào giữa. Cô ấy cũng mặc bộ đồng phục của Học Viện, chứng tỏ là một học viên ở đó. Phải chăng cô ấy đến để giúp đỡ cậu bé kia?
+Một thiếu nữ chen qua đám đông đang tụ tập rồi lách vào giữa. Cô ấy cũng mặc đồng phục của Học Viện, nhìn là biết học viên ở đó. Chẳng lẽ cô ấy đến để giúp cậu bé kia?
 
-Rất nhiều học viên của Học Viện biết dùng ma thuật. Dù không có năng lực ấy thì người ta vẫn có thể nhập học, nhưng nếu biết dùng ma thuật thì việc thi đỗ sẽ dễ dàng hơn nhiều. Giữa những gia đình đủ giàu để trang trải học phí, chuyện con cái có thiên phú ma thuật vốn khá phổ biến.
+Nhiều học viên Học Viện biết dùng ma thuật. Dù không có năng lực ấy thì vẫn có thể nhập học, nhưng nếu dùng được ma thuật thì thi đỗ sẽ dễ hơn. Trong những gia đình đủ giàu để đóng học phí, chuyện con cái có năng khiếu ma thuật cũng khá phổ biến.
 
-Hai học viên Học Viện là mối đe dọa khá lớn, chí ít là đối với người thương nhân trung niên tội nghiệp kia. Khỏi phải nói ma pháp sư nguy hiểm đến mức nào. Chỉ bằng một câu niệm chú ngắn ngủi, họ đã có thể nhấn chìm một người trong biển lửa. Tình thế này e là cần sự can thiệp từ bên ngoài.
+Hai học viên Học Viện là mối đe dọa khá lớn, ít nhất là với người thương nhân trung niên tội nghiệp kia. Khỏi phải nói ma pháp sư nguy hiểm đến mức nào. Chỉ cần niệm một câu chú ngắn là họ đã có thể nhấn chìm một người trong lửa. Tình huống này có lẽ cần người ngoài can thiệp rồi.
 
-Mọi người xung quanh dường như cũng có chung suy nghĩ ấy. Thế nhưng, thiếu nữ nọ lại khiến tất cả chúng tôi phải bất ngờ.
+Mọi người xung quanh có vẻ cũng nghĩ giống chúng tôi. Thế nhưng, thiếu nữ kia lại làm tất cả bất ngờ.
 
-"Noel. Noel Kruege! Cậu thôi ngay cái trò kiếm chuyện với thường dân đi! Cậu đang làm hoen ố thanh danh của cả Học Viện đấy!" cô ấy quát lớn.
+"Noel. Noel Kruege! Cậu thôi ngay cái trò gây sự với thường dân đi! Cậu đang làm mất thanh danh của cả Học Viện đấy!" cô ấy quát lớn.
 
 ◆◇◆◇◆
 
-Khác với cậu thiếu niên lộ rõ vẻ kiêu căng, cô gái trông nghiêm nghị và chín chắn hơn nhiều. Những món trang sức cô ấy mang cùng chiếc áo choàng, như đôi hoa tai đung đưa và chiếc vòng tay mảnh mai lấp ló dưới ống tay áo, đều cho thấy cô ấy xuất thân từ một gia đình bề thế.
+Khác với cậu thiếu niên kiêu ngạo ra mặt, cô gái trông điềm tĩnh và nghiêm túc hơn nhiều. Những món phụ kiện cô ấy đeo cùng áo choàng, như đôi hoa tai đung đưa trên tai và chiếc vòng tay mảnh lấp ló dưới tay áo, cho thấy cô ấy xuất thân từ một gia đình giàu có.
 
-"Giàu có thích thật đấy, được diện toàn những món đồ tinh xảo đến thế," Lorraine nhận xét sau khi liếc nhanh qua chỗ trang sức của cô gái. "Hoa tai của cô bé giúp cường hóa Ma Lực, còn vòng tay thì tăng phòng ngự ma pháp. Chúng đâu chỉ đơn thuần là đồ hỗ trợ hữu dụng, mà còn là những phụ kiện được chế tác tinh xảo với kiểu dáng tuyệt đẹp. Có lẽ cô bé là quý tộc chăng?"
+"Giàu có thích thật đấy, được đeo toàn đồ tinh xảo thế kia," Lorraine nói sau khi liếc nhìn trang sức của cô gái. "Hoa tai của cô bé giúp tăng cường Ma Lực, còn vòng tay thì tăng phòng ngự ma pháp. Chúng không chỉ có công năng thực tế đâu, mà còn là những phụ kiện được chế tác khéo léo và thiết kế rất đẹp. Có khi nào cô bé là quý tộc không nhỉ?"
 
 "Hầu hết học viên Học Viện đều là quý tộc cả, nên chuyện đó cũng chẳng có gì lạ," tôi đáp.
 
-Thông thường, mạo hiểm giả phải kiên trì dành dụm tiền nong để dần nâng cấp trang bị tốt hơn. Quý tộc thì đâu cần làm thế, họ thừa sức sắm sửa trang bị chất lượng cao ngay từ đầu. Cơ mà rất nhiều món đồ đòi hỏi người dùng phải có trình độ nhất định mới phát huy được tác dụng, nên đồ đạc của họ thường thiên về phô trương hơn là thực chiến.
+Nhìn chung, mạo hiểm giả phải kiên trì tích góp tiền bạc để thay dần sang trang bị tốt hơn. Nhưng quý tộc thì không cần làm thế. Họ đủ tiền sắm trang bị chất lượng cao ngay từ đầu. Có điều rất nhiều món đồ đòi hỏi trình độ nhất định mới dùng được, nên đồ của họ thường đẹp mã hơn là thực dụng.
 
-Mặt khác, những món đồ tăng cường Ma Lực mạnh mẽ lại hoàn toàn vô dụng—chưa kể còn rất nguy hiểm—đối với một ma pháp sư non nớt. Chuyện đó chẳng khác nào trao một thanh đại kiếm nặng trịch vào tay kiếm sĩ yếu ớt. Một ma pháp sư mới vào nghề rất dễ mất kiểm soát ma thuật rồi bỏ mạng vì tai nạn. Vả lại, nếu đeo quá nhiều trang bị gây ảnh hưởng đến dòng chảy Ma Lực, chúng có thể xung đột lẫn nhau và dẫn đến hậu quả tai hại. Việc cô gái kia mang cùng lúc cả áo choàng, hoa tai lẫn vòng tay chứng tỏ cô ấy chí ít cũng đủ năng lực để dung hòa cả ba món mà không gặp trở ngại gì.
+Mặt khác, những món đồ tăng cường Ma Lực mạnh lại hoàn toàn vô dụng, chưa kể còn rất nguy hiểm đối với một ma pháp sư non kinh nghiệm. Chuyện đó chẳng khác nào đưa một thanh đại kiếm nặng trịch cho một kiếm sĩ yếu sức. Một ma pháp sư mới học nghề rất dễ mất kiểm soát ma thuật rồi chết vì sự cố. Hơn nữa, nếu đeo quá nhiều món đồ tác động đến dòng chảy Ma Lực, chúng có thể nhiễu loạn lẫn nhau và gây ra hậu quả tai hại. Việc cô gái kia đeo cùng lúc áo choàng, hoa tai và vòng tay chứng tỏ cô ấy ít nhất cũng đủ trình độ để cân bằng cả ba món mà không gặp vấn đề gì.
 
-Từng có dạo Lorraine đeo nhẫn ma thuật kín mọi ngón tay ngón chân, bấm năm chiếc hoa tai mỗi bên, khoác mười lớp áo choàng rồi chồng năm chiếc mũ lên đầu. Dĩ nhiên, ma pháp đầu tiên cô ấy thi triển trong bộ dạng đó đã gây ra một vụ nổ long trời lở đất. Dù thất bại ê chề, cô ấy vẫn kiểm soát được ngần ấy món đồ suốt gần ba mươi giây đồng hồ. Làm được thế đòi hỏi một nỗ lực không tưởng, nên trò đó có ích trong thực chiến hay không vẫn còn là điều đáng bàn. Họa chăng nó chỉ phát huy tác dụng trong tình huống đòi hỏi hỏa lực khủng khiếp chỉ trong một tích tắc.
+Có lần Lorraine từng đeo nhẫn ma thuật kín cả mười ngón tay lẫn mười ngón chân, đeo năm chiếc hoa tai mỗi bên, mặc mười lớp áo choàng rồi đội chồng năm cái mũ lên đầu. Dĩ nhiên, phép đầu tiên cô ấy tung ra trong bộ dạng đó đã gây ra một vụ nổ lớn. Dù thất bại thảm hại, cô ấy vẫn kiểm soát được ngần ấy món đồ suốt gần ba mươi giây. Làm được thế tốn một lượng công sức kinh khủng, nên nó có ích trong thực chiến hay không thì còn phải bàn. Biết đâu lại dùng được trong tình huống cần hỏa lực thật mạnh chỉ trong một khoảnh khắc.
 
-Dù sao đi nữa, đem cô gái kia ra so sánh với một học giả điên như Lorraine thì thật quá bất công cho cô ấy.
+Dù sao thì đem cô gái kia ra so sánh với một học giả điên rồ như Lorraine thì bất công cho cô ấy quá.
 
-Lorraine và tôi đang trò chuyện bâng quơ thì tôi nhận thấy Rina bỗng im lặng khác thường. Tôi liếc sang bên cạnh và thấy cô ấy đang sững sờ nhìn chằm chằm vào hai cô cậu của Học Viện với vẻ mặt bàng hoàng.
+Lorraine và tôi đang tán gẫu thì tôi nhận thấy Rina bỗng im lặng lạ thường. Tôi nhìn sang bên cạnh và thấy cô ấy đang nhìn chằm chằm vào cậu bé và cô gái của Học Viện với vẻ mặt sững sờ.
 
-Thật hiếm khi thấy Rina lộ vẻ kinh ngạc đến mức ấy. Suy cho cùng, cô ấy đâu phải kiểu thiếu nữ yếu đuối nhút nhát. Cô ấy từng thản nhiên chấp nhận tôi khi tôi chỉ là một đống xương khô, lại còn nghĩ ra cách lén đưa tôi vào thị trấn. Rất khó để làm cô ấy giật mình. Đành rằng cô ấy luôn giàu biểu cảm hơn Lorraine hay tôi, nên theo một nghĩa nào đó cô ấy thường hay ngạc nhiên vì chuyện này chuyện nọ, nhưng việc cô ấy sững sờ đến mức lặng người thế này thì quả là hiếm thấy.
+Hiếm khi thấy Rina ngạc nhiên đến thế. Dù sao cô ấy cũng đâu phải người nhút nhát yếu bóng vía. Cô ấy từng bình tĩnh chấp nhận tôi khi tôi chỉ là một đống xương, thậm chí còn nghĩ ra cách lén đưa tôi vào thị trấn. Làm cô ấy giật mình đâu phải chuyện dễ. Đành rằng cô ấy giàu biểu cảm hơn Lorraine hay tôi, nên theo một nghĩa nào đó cũng hay ngạc nhiên vì chuyện này chuyện nọ, nhưng sững sờ đến mức không nói nên lời thế này thì hiếm thấy thật.
 
-"Rina, có chuyện gì thế?" tôi hỏi.
+"Rina, sao thế?" tôi hỏi.
 
-Rina bừng tỉnh khỏi cơn ngơ ngác, nhưng mắt cô ấy vẫn dán chặt vào hai cô cậu kia khi thốt lên: "Cô gái đó! Bạn ấy chính là người bạn mà lúc nãy tôi vừa kể đấy!"
+Rina giật mình tỉnh lại, nhưng mắt vẫn nhìn chằm chằm vào hai người kia khi thốt lên: "Cô gái đó! Bạn ấy chính là người bạn mà lúc nãy tôi kể đấy!"
 
 ◆◇◆◇◆
 
-"Đừng có xía vào, Elise Georges," cậu bé nói. "Tôi đang bận nói chuyện với tay thương nhân này. Giờ tôi không rảnh mà tiếp cô đâu."
+"Đừng có xen vào, Elise Georges," cậu bé nói. "Tôi đang bận nói chuyện với gã thương nhân này. Giờ tôi không có thời gian đôi co với cô đâu."
 
-Dựa vào những gì họ nói với nhau từ nãy đến giờ, tôi đoán được cậu thiếu niên tên là Noel, còn cô gái là Elise.
+Nghe những gì họ nói với nhau nãy giờ, tôi biết được cậu bé tên là Noel, còn cô gái là Elise.
 
-Bực bội, Noel nhìn sang Elise rồi phẩy tay như muốn xua cô ấy đi. Đôi mắt Elise nheo lại, cô ấy trừng mắt nhìn cậu thiếu niên đầy giận dữ.
+Noel bực bội nhìn Elise rồi phẩy tay như muốn xua đi. Elise nheo mắt, trừng nhìn cậu ta sắc lẻm.
 
 "Cậu...!"
 
 ![](images/ch210-02.webp)
 
-Tôi cảm nhận được Ma Lực đang dồn vào cơ thể Elise. Dù vậy, cô ấy không hề chuẩn bị thi triển ma pháp. Đó chỉ là phản ứng tự nhiên bột phát từ trạng thái cảm xúc của cô ấy mà thôi. Bởi lẽ cảm xúc có thể ảnh hưởng đến cường độ Ma Lực cũng như thời điểm phát động ma pháp, nên các ma pháp sư dạn dày kinh nghiệm luôn khổ luyện để tránh điều đó. Vậy thì có lẽ Elise vẫn chỉ là người mới học việc. Dù có thực lực, việc cô ấy chưa thể kiềm chế được phản ứng này cũng là điều dễ hiểu.
+Tôi cảm nhận được Ma Lực đang chảy vào người Elise. Nhưng cô ấy không định niệm phép. Đó chỉ là phản ứng tự nhiên do cảm xúc kích động mà thôi. Vì cảm xúc có thể làm ảnh hưởng đến độ mạnh của Ma Lực và thời điểm tung phép, nên các ma pháp sư giàu kinh nghiệm luôn rèn luyện để tránh chuyện đó. Xem ra Elise vẫn chỉ là người mới học việc. Dù cô ấy có trình độ, nhưng chưa kiểm soát được phản ứng này cũng là điều dễ hiểu.
 
-Nhìn hai đứa trẻ đôi co, Lorraine xoa cằm rồi lẩm bẩm: "Bạn của Rina hử? Thế thì tình hình này gay go rồi đây."
+Nhìn hai người họ cãi nhau, Lorraine xoa cằm lẩm bẩm: "Bạn của Rina hả? Thế thì tình hình hơi rắc rối rồi."
 
-"Thật thế sao?" tôi hỏi. "Ý tôi là, dù chuyện gì xảy ra đi nữa, họ cũng đâu đến mức ném ma pháp vào nhau ngay tại đây. Mà dẫu họ có làm thế thật thì chúng ta vẫn xử lý được cơ mà."
+"Thật sao?" tôi hỏi. "Ý tôi là dù có chuyện gì đi nữa, họ cũng đâu đến mức tung phép vào nhau ngay tại đây. Mà kể cả có làm thế thật thì chúng ta vẫn xử lý được mà."
 
-Bắn các ma pháp uy lực mạnh giữa lòng đô thị là điều bị cấm kỵ. Tại Vương Quốc Yaaran cũng như phần lớn các quốc gia khác, luật pháp đều quy định như vậy. Thỉnh thoảng vẫn có ngoại lệ, nhưng tôi mong là họ không khinh suất đến mức khơi mào một trận chiến ma thuật tại đây. Hơn nữa, tôi khá tin chắc Học Viện luôn tự hào về trí tuệ và khuôn phép của học viên mình.
+Bắn phép uy lực lớn giữa thành phố là điều bị cấm. Ở Yaaran cũng như phần lớn các nước khác, luật đều quy định thế. Thỉnh thoảng vẫn có ngoại lệ, nhưng tôi mong họ không liều lĩnh đến mức đánh nhau bằng ma thuật ở đây. Vả lại, tôi khá chắc Học Viện luôn tự hào về trí tuệ và phép tắc của học viên mình.
 
-Cơ mà nghĩ đi thì cũng phải nghĩ lại, những vụ ẩu đả giữa đám mạo hiểm giả vốn là chuyện thường tình, và người ta thường để mặc chúng leo thang tới mức đội cảnh vệ thị trấn phải can thiệp. Do đó, trừ phi gây ra chuyện như phá hoại tài sản của thị trấn hay làm đả thương những người đứng xem vô tội, việc đánh nhau hiếm khi bị coi là trọng tội. Chính vì thế mà mạo hiểm giả chẳng hề ngần ngại xô xát với nhau. Không phải họ phớt lờ luật pháp, chỉ là họ chỉ bận tâm đến những chuẩn mực tối thiểu cần thiết để sống trong xã hội mà thôi. Đó là lý do tại sao mọi người luôn xem mạo hiểm giả như đám du côn thô lỗ.
+Mà nghĩ lại thì chuyện mạo hiểm giả cãi lộn vốn xảy ra như cơm bữa, và người ta thường cứ để mặc cho tới khi lính gác thị trấn phải ra mặt. Nên trừ khi phá hoại tài sản thị trấn hay làm bị thương nhiều người đứng xem vô tội, chuyện đánh lộn hiếm khi bị coi là tội nặng. Cũng vì thế mà mạo hiểm giả chẳng ngại xô xát với nhau. Không phải họ coi thường luật pháp, chỉ là họ chỉ quan tâm tới mức tối thiểu để sống được trong xã hội mà thôi. Bởi vậy người ngoài mới coi mạo hiểm giả như đám du côn thô lỗ.
 
-Cứ theo đó mà xét, dẫu Noel và Elise có bắt đầu tung ma pháp ra ở đây, bản thân họ nhiều khả năng cũng chẳng gặp mấy rắc rối. Chuyện đó sẽ gây nguy hiểm cho người đứng xem, nhưng Lorraine thừa sức dựng một kết giới ma pháp hay thứ gì đó tương tự. Hơn nữa, tôi cũng đã đảo mắt nhìn xem quanh đây có ma pháp sư nào khác không. Gần đó có vài mạo hiểm giả là ma pháp sư, hẳn họ cũng sẽ ra tay can thiệp. Tôi không nghĩ tình hình lại nguy hiểm đến mức như vậy.
+Theo đó mà xét, dù Noel và Elise có tung phép ở đây thì bản thân họ chắc cũng chẳng gặp rắc rối gì lớn. Chuyện đó sẽ gây nguy hiểm cho người đứng xem, nhưng Lorraine có thể dựng kết giới ma pháp hay gì đó tương tự. Hơn nữa, tôi cũng đã nhìn quanh xem có ma pháp sư nào khác không. Gần đó có vài mạo hiểm giả là ma pháp sư, chắc họ cũng sẽ can thiệp thôi. Tôi không nghĩ tình hình nguy hiểm đến mức ấy.
 
-Thế nhưng Lorraine lại lắc đầu: "Mấy đứa trẻ của Học Viện là một chuyện. Nhưng anh nhìn thứ bên hông người thương nhân kia xem."
+Thế nhưng Lorraine lại lắc đầu nói: "Mấy đứa trẻ của Học Viện là một chuyện. Nhưng anh nhìn thứ bên hông người thương nhân kia xem."
 
-"Ồ, cái đó là của Cộng Hòa Hàng Hải Ariana. Hóa ra người thương nhân đến từ nơi ấy."
+"Ồ, cái đó là của Cộng Hòa Hàng Hải Ariana. Ra là người thương nhân đến từ đó."
 
-Bên thắt lưng người thương nhân có giắt một thanh đoản kiếm. Nhìn kích thước và kiểu dáng thì nó không dùng để chiến đấu mà mang tính trưng diện nhiều hơn. Hai chiếc huy hiệu hiện rõ mồn một được khắc trên chuôi kiếm. Tôi từng thấy một trong hai chiếc trước đây rồi. Đó là biểu tượng của Cộng Hòa Hàng Hải Ariana, khắc họa hình ảnh một con rồng biển đang siết chặt một con bạch tuộc khổng lồ giữa lòng đại dương bao la.
+Bên thắt lưng người thương nhân có đeo một thanh đoản kiếm. Nhìn kích thước và kiểu dáng thì nó dùng để làm cảnh hơn là chiến đấu. Trên chuôi kiếm có khắc hai huy hiệu rất rõ. Tôi từng thấy một cái trong số đó rồi. Đó là huy hiệu của Cộng Hòa Hàng Hải Ariana, khắc hình một con rồng biển đang cuốn chặt một con bạch tuộc khổng lồ giữa đại dương.
 
-Cộng Hòa Hàng Hải Ariana là một quốc gia ven biển phồn thịnh chủ yếu nhờ mậu dịch đường biển. Do đó, phần lớn cư dân nước này đều làm nghề buôn bán, và người ta có thể bắt gặp họ ở hầu khắp mọi quốc gia trên đại lục. Dẫu vậy, tôi vẫn chưa rõ tại sao chuyện đó lại thành vấn đề vào lúc này.
+Cộng Hòa Hàng Hải Ariana là một quốc gia ven biển phát triển thịnh vượng chủ yếu nhờ buôn bán đường biển. Vì thế, rất nhiều công dân nước này làm nghề buôn, và người ta có thể bắt gặp họ ở gần như mọi quốc gia trên đại lục. Tuy nhiên, tôi vẫn chưa rõ tại sao chuyện đó lại thành vấn đề vào lúc này.
 
-"Huy hiệu còn lại cho thấy ông ấy thuộc về Hội Thương Nhân Ariana," Lorraine giải thích. "Những thanh đoản kiếm đó chỉ được trao cho những ai có địa vị nhất định trong hội mà thôi. Xích mích với ông ấy có thể sẽ rất nguy hiểm. Vả lại họ đều là người xa lạ, chúng ta vốn dĩ có thể mặc kệ tranh chấp của họ, thế nhưng..."
+"Huy hiệu còn lại cho thấy ông ta thuộc Hội Thương Nhân Ariana," Lorraine giải thích. "Những thanh đoản kiếm đó chỉ được trao cho người có địa vị nhất định trong hội thôi. Xích mích với ông ta có thể rất nguy hiểm. Vả lại họ đều là người dưng, chúng ta vốn có thể mặc kệ chuyện cãi vã của họ, thế nhưng..."
 
-Hội Thương Nhân Ariana vốn khét tiếng là sẵn sàng làm bất cứ điều gì để kiếm tiền. Họ thuê mướn một lượng lớn lính đánh thuê và mạo hiểm giả thiện chiến, thậm chí người ta đồn rằng thỉnh thoảng họ còn sử dụng cả sát thủ. Đó là một tổ chức nguy hiểm bị bủa vây bởi những sự thật mập mờ và những lời đồn đáng ngại. Họ chẳng phải là mối bận tâm nếu người ta giao thiệp theo quy tắc xã hội thông thường, nhưng nếu phải đối đầu thì đòi hỏi người ta phải có một mức độ quyết tâm nhất định.
+Hội Thương Nhân Ariana vốn tai tiếng là sẵn sàng làm bất cứ giá nào để kiếm tiền. Họ thuê rất nhiều lính đánh thuê và mạo hiểm giả mạnh, thậm chí nghe đồn thỉnh thoảng còn dùng cả sát thủ. Đó là một tổ chức nguy hiểm với nhiều sự thật mập mờ và lời đồn đáng sợ xoay quanh. Nếu giao dịch với họ theo quy tắc thông thường thì chẳng sao, nhưng một khi đã đối đầu với họ thì phải chuẩn bị sẵn tinh thần.
 
-Ý của Lorraine là việc vô tình đụng chạm với họ, dẫu chỉ vì thiếu hiểu biết, cũng cực kỳ mạo hiểm. Nhưng vì giờ đây bạn của Rina đã dính vào, nên cô ấy cũng ngầm bảo rằng chúng tôi không thể cứ thế mà giương mắt làm ngơ.
+Ý Lorraine là vô tình gây chuyện với họ, dù chỉ vì không biết, cũng cực kỳ mạo hiểm. Nhưng vì giờ bạn của Rina đã dính vào, nên cô ấy cũng ngầm bảo chúng tôi không thể cứ thế làm ngơ.
 
-"Đôi bên đã cãi vã đến nước này rồi thì nhảy vào can thiệp chẳng phải hơi mạo hiểm sao?" tôi lên tiếng.
+"Hai bên đã cãi nhau đến mức này rồi mà nhảy vào can thiệp chẳng phải hơi gay go sao?" tôi nói.
 
-Tôi không ngại đứng ra can thiệp, nhưng nhìn bộ dạng thì Noel và người thương nhân chẳng hề có ý định giảng hòa chút nào. Khéo chúng tôi sẽ chỉ tổ gây thêm chuyện rồi tự rước mối thù oán vào thân.
+Tôi không ngại đứng ra can, nhưng nhìn thì thấy Noel và người thương nhân chẳng có vẻ gì là chịu giảng hòa. Có khi chúng tôi lại gây thêm rắc rối rồi bị cuốn luôn vào mối bất hòa của họ.
 
-"Tôi nghĩ chúng ta sẽ ổn thôi. Tôi nhận ra một điểm khi nhìn vào chiếc áo choàng của thằng bé. Nhưng vấn đề mấu chốt là ở chỗ này: Rina, cô có muốn giúp họ không?"
+"Tôi nghĩ chúng ta sẽ ổn thôi. Lúc nhìn áo choàng của thằng bé tôi có nhận ra một điểm. Nhưng câu hỏi quan trọng là ở đây này: Rina, cô có muốn giúp họ không?"
 
-Rina gật đầu quả quyết rồi đáp: "Có chứ, nếu có thể. Làm vậy liệu có được không anh chị?"
+Rina gật đầu chắc nịch rồi đáp: "Có, nếu giúp được. Như vậy có ổn không?"
