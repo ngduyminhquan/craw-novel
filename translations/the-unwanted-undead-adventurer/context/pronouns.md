@@ -97,7 +97,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ferrici | Ferrici / cô gái / thiếu nữ / cô bé | 235 | Thiếu nữ tại quán rượu Làng Looza; không dùng "em ấy" trong lời dẫn chuyện của Rentt |
 | Leo | Leo / người đàn ông / ông ấy / người cha | 240 | Cha của Ferrici tại Làng Looza |
 | Lenora | Lenora / người phụ nữ / bà ấy / người mẹ | 240 | Mẹ của Ferrici tại Làng Looza |
-| Spriggan | Spriggan / ông lão / ông ta | 255 | Mật danh của ông lão mang dị năng Cự Nhân |
+| Spriggan | Spriggan / ông lão / ông ấy | 255 | Mật danh của ông lão mang dị năng Cự Nhân; từ #250 Rentt gọi "ông ấy" (style.md #58) |
 | Vaasa | Vaasa / gã / người đàn ông | 257 | Thành viên tổ chức sát thủ, có khả năng kháng ma pháp cao |
 | Fuana | Fuana / cô gái / thiếu nữ / cô ta | 257 | Nữ thành viên tổ chức sát thủ mê ma pháp cổ đại |
 | Gilli Flood | Gilli Flood / Gilli / ông lão / Spriggan | 261 | Tên thật của Spriggan, cựu đấu sĩ |
