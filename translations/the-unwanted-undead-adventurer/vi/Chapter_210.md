@@ -110,9 +110,9 @@ Tôi quay lại nhìn cậu thiếu niên và người thương nhân.
 
 Người đàn ông chẳng biết phải làm sao. Trông ông ấy hơi bực mình khi nói: "Cậu bảo giải quyết là giải quyết thế nào? Tôi chỉ va nhẹ vào cậu một cái thôi. Tôi cũng xin lỗi chuyện đó rồi. Bộ cậu định bắt tôi đền tiền vì nó bị bẩn chắc?"
 
-"Không phải vì bẩn, mà là vì ông làm hỏng nó rồi! Thứ người như ông chắc chẳng biết đâu, nhưng đây là đồng phục của Học Viện đấy! Một món đồ thủ công tinh xảo có cường hóa ma thuật cao cấp hẳn hoi. Vậy mà ông—"
+"Không, không phải vì bẩn. Mà là vì ông làm hỏng nó rồi. Thứ người như ông chắc chẳng biết đâu, nhưng đây là đồng phục của Học Viện đấy! Một món đồ chế tác tinh xảo có cường hóa ma thuật cao cấp hẳn hoi. Vậy mà ông—"
 
-"Cường hóa ma thuật cao cấp á? Thế thì làm sao chỉ va nhẹ một cái mà hỏng được. Hay là cậu mua phải đồ dỏm rồi?"
+"Cường hóa ma thuật cao cấp á? Thế thì làm sao chỉ va nhẹ một cái mà hỏng được. Hay là cậu mua phải đồ lỗi rồi?"
 
 "Ông dám ăn nói thế à!"
 
@@ -176,7 +176,7 @@ Nhìn hai người họ cãi nhau, Lorraine xoa cằm lẩm bẩm: "Bạn của 
 
 "Thật sao?" tôi hỏi. "Ý tôi là dù có chuyện gì đi nữa, họ cũng đâu đến mức tung phép vào nhau ngay tại đây. Mà kể cả có làm thế thật thì chúng ta vẫn xử lý được mà."
 
-Bắn phép uy lực lớn giữa thành phố là điều bị cấm. Ở Yaaran cũng như phần lớn các nước khác, luật đều quy định thế. Thỉnh thoảng vẫn có ngoại lệ, nhưng tôi mong họ không liều lĩnh đến mức đánh nhau bằng ma thuật ở đây. Vả lại, tôi khá chắc Học Viện luôn tự hào về trí tuệ và phép tắc của học viên mình.
+Bắn phép uy lực lớn giữa thành phố là điều bị cấm. Ở Vương Quốc Yaaran cũng như phần lớn các nước khác, luật đều quy định thế. Thỉnh thoảng vẫn có ngoại lệ, nhưng tôi mong họ không liều lĩnh đến mức đánh nhau bằng ma thuật ở đây. Vả lại, tôi khá chắc Học Viện luôn tự hào về trí tuệ và phép tắc của học viên mình.
 
 Mà nghĩ lại thì chuyện mạo hiểm giả cãi lộn vốn xảy ra như cơm bữa, và người ta thường cứ để mặc cho tới khi lính gác thị trấn phải ra mặt. Nên trừ khi phá hoại tài sản thị trấn hay làm bị thương nhiều người đứng xem vô tội, chuyện đánh lộn hiếm khi bị coi là tội nặng. Cũng vì thế mà mạo hiểm giả chẳng ngại xô xát với nhau. Không phải họ coi thường luật pháp, chỉ là họ chỉ quan tâm tới mức tối thiểu để sống được trong xã hội mà thôi. Bởi vậy người ngoài mới coi mạo hiểm giả như đám du côn thô lỗ.
 

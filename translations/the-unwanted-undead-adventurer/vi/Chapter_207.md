@@ -2,7 +2,7 @@
 
 Đường nét nơi đầu ngón tay Rina bắt đầu chập chờn, như thể ranh giới giữa cơ thể cô ấy và thế giới xung quanh đang mờ dần. Rồi nó hóa thành một làn sương đen, trông ngày càng giống một cái bóng trước khi bất chợt lao vụt ra ngoài.
 
-Cả bàn tay Rina đã biến mất. Khối bóng vừa tách ra bắt đầu bay lượn vòng quanh cô ấy.
+Cả bàn tay Rina đã biến mất. Thứ vừa tách ra bắt đầu lượn vòng quanh cô ấy.
 
 "Cô ấy làm được rồi," Isaac nói.
 
@@ -22,9 +22,9 @@ Vì tò mò, tôi hỏi: "Trông nó không giống thật lắm. Vốn dĩ nó 
 
 "Khi cô ấy quen dần, nó sẽ bắt đầu giống thật hơn. Chẳng hạn như..."
 
-Isaac phân liệt ngay đầu ngón tay mình. Chỉ thoáng sau, nó đã tụ lại thành một con dơi, và không như những ví dụ trước đó, con dơi này trông y hệt một con dơi bằng xương bằng thịt thật sự. Nó có mắt, có miệng, nhìn kỹ còn thấy cả lớp lông mao. Thật tình, nếu không biết từ trước, tôi chẳng tài nào nhận ra nó vốn là một phần cơ thể của Isaac.
+Isaac phân liệt ngay đầu ngón tay mình. Chỉ thoáng sau, nó đã tụ lại thành một con dơi, và không như những ví dụ trước đó, con dơi này trông y hệt một con dơi bằng xương bằng thịt thật sự. Nó có mắt, có miệng, nhìn kỹ còn thấy cả lớp lông. Thật tình, nếu không biết từ trước, tôi chẳng tài nào nhận ra nó vốn là một phần cơ thể của Isaac.
 
-"Còn dạng này vẫn là dễ tạo nhất," Isaac nói tiếp trong lúc các chi tiết trên con dơi mờ dần đi, biến lại thành một cái bóng hình dơi.
+"Còn dạng này vẫn là dễ tạo nhất," Isaac nói tiếp. Các chi tiết trên con dơi mờ dần đi, biến thành một hình bóng mô phỏng loài dơi.
 
 "Hừm, thú vị thật đấy," Lorraine lẩm bẩm. "Tôi cũng muốn thử xem sao, nhưng người bình thường chắc chịu rồi," cô ấy nói, giọng thoáng chút ghen tị.
 
@@ -100,7 +100,7 @@ Isaac có ý cảnh báo, nhưng trong lúc nghe hai người họ trao đổi, 
 
 Này, chẳng phải đó là... Thôi xong rồi. Cành cây, lá cây...
 
-Tôi cố hãm lại, nhưng sự biến đổi đã lan dọc khắp cánh tay. Cả cánh tay tôi đã hóa thành một cành cây. Tôi, cái bao phân bón biết đi này, rốt cuộc lại sắp sửa tự biến mình thành cây cỏ luôn rồi. Nghe thì như chuyện đùa, nhưng thật tình chẳng buồn cười chút nào.
+Tôi cố hãm lại, nhưng sự biến đổi đã lan dọc khắp cánh tay. Cả cánh tay tôi đã hóa thành một cành cây. Tôi, cái bao phân bón di động này, rốt cuộc lại sắp sửa tự biến mình thành cây cỏ luôn rồi. Nghe thì như chuyện đùa, nhưng thật tình chẳng buồn cười chút nào.
 
 Giờ thì tôi đã là một tập hợp cây cối rồi. Nghĩa là cơ thể tôi đang biến thành một khu rừng sao? Khoan đã, rừng thì phải có muông thú chứ, như chim chóc, thỏ này nọ. Rồi tùy xem khu rừng nằm ở đâu, thậm chí khéo còn có cả Rồng nữa ấy chứ.
 

@@ -16,11 +16,11 @@ Tuy Thi Quỷ cũng được tính là một dạng Ma Cà Rồng, nhưng Nive h
 
 Tôi có cảm giác nếu lỡ chạm mặt lúc này, thể nào cô ấy cũng trút giận lên đầu tôi. Thật lòng tôi chỉ mong sao đừng gặp phải cô ấy.
 
-Wolf nói tiếp, "Còn chuyện nữa, lũ quái vật xuất hiện trong thành phố bỗng dưng biến mất tăm. Tôi đoán cũng là vì Shumini đã chết. Chuyện đó diễn ra sau khi đám Thi Quỷ chậm lại một lúc, nhưng tôi chẳng nghĩ ra được lý do nào khác. Cậu có nghĩ ra điều gì không?"
+Wolf nói tiếp, "Còn chuyện nữa, lũ quái vật xuất hiện trong thành phố bỗng dưng biến mất tăm. Tôi đoán cũng là vì Shumini đã chết. Chuyện đó diễn ra một lúc sau khi đám Thi Quỷ chậm lại, nhưng tôi chẳng nghĩ ra được lý do nào khác. Cậu có nghĩ ra điều gì không?"
 
 Tôi lắc đầu. "Không, tôi chẳng nghĩ ra điều gì đặc biệt cả."
 
-Tôi đành nói một lời nói dối vô hại. Thực chất chuyện đó xảy ra không phải vì Shumini chết mà là do Lõi Mê Cung. Khi Laura lấy lõi ra khỏi người Rina rồi tự mình hấp thụ, cô bé đã khiến lũ quái vật biến mất. Có vẻ ngay từ đầu cư dân trong thành phố bị biến thành quái vật vốn là do mê cung tác động, nên ngoài lý do đó ra, tôi cũng chẳng nghĩ được vì sao chúng lại đột ngột biến mất như vậy. Dù vậy, vì để lộ chuyện này sẽ kéo theo đủ bề rắc rối nên tôi quyết định giữ kín như bưng.
+Tôi đành nói một lời nói dối vô hại. Thực chất chuyện đó xảy ra không phải vì Shumini chết mà là do Lõi Mê Cung. Khi Laura lấy lõi ra khỏi người Rina rồi tự mình hấp thụ, cô bé đã khiến lũ quái vật biến mất. Có vẻ ngay từ đầu cư dân trong thành phố bị biến thành quái vật vốn là do mê cung tác động, nên ngoài lý do đó ra, tôi cũng chẳng nghĩ được vì sao họ lại đột ngột biến mất như vậy. Dù vậy, vì để lộ chuyện này sẽ kéo theo đủ bề rắc rối nên tôi quyết định giữ kín.
 
 "Hiểu rồi. Dù sao thì lũ quái vật cũng đã biến mất. Thành phố cơ bản đang dần trở lại nhịp sống thường ngày. Nhà cửa vẫn còn chút hư hại và người bị thương cần chăm sóc, nhưng xem chừng mọi người đã kiểm soát được tình hình. Lãnh chúa cùng hội đồng thị trấn đã giải ngân quỹ cứu trợ, còn về người bị thương thì các giáo hội đã cử các tư tế cả nam lẫn nữ tới giúp. Phía Hội chúng ta cũng cắt cử vài người đi hỗ trợ. Chẳng mấy chốc mà Maalt sẽ trở lại bình thường thôi."
 
@@ -42,9 +42,9 @@ Tuy nguồn gốc xuất hiện của các mê cung vẫn là chủ đề gây n
 
 "Có," Lorraine lên tiếng trả lời Wolf. "Nhưng cũng chẳng có gì nhiều để nói thêm cả. Khi mê cung đang hiển hiện, cấu trúc của nó rất bất ổn, dẫn đến hàng loạt hiện tượng dị thường xảy ra bên trong và xung quanh. Chẳng hạn, nếu hiển hiện giữa thành phố, nó có thể nuốt trọn một phần đô thị và làm biến đổi hoàn toàn kiến trúc. Nếu hiển hiện trong rừng hay trên núi, nó sẽ biến thú vật bản địa thành quái vật. Một ví dụ dị thường hơn có thể là... À thôi, tôi lạc đề mất rồi. Dù sao thì tôi cũng đồng tình rằng lũ quái vật ở Maalt vừa qua là một phần của hiện tượng đó."
 
-Tôi tự hỏi ví dụ dị thường mà cô ấy định nhắc tới là gì. Có thể là một mê cung nuốt chửng nguyên cả một thành phố chăng? Hay cô ấy đang nghĩ tới Thành Phố Cổ Đại mà chúng tôi từng đặt chân tới? Dĩ nhiên, đó lại là một chuyện nữa tuyệt đối không thể hé lộ. Tôi có cảm giác những bí mật chẳng thể chia sẻ cùng ai của chúng tôi đang ngày một chất cao như núi.
+Tôi tự hỏi ví dụ dị thường mà cô ấy định nhắc tới là gì. Có thể là một mê cung nuốt chửng nguyên cả một thành phố chăng? Hay cô ấy đang nghĩ tới Thành Phố Cổ Đại mà chúng tôi từng đặt chân tới? Dĩ nhiên, đó lại là một chuyện nữa không thể hé lộ. Tôi có cảm giác những bí mật chẳng thể chia sẻ cùng ai của chúng tôi đang ngày một chồng chất thêm.
 
-Có vẻ như sự ngập ngừng của Lorraine chưa khiến Wolf mảy may nghi ngờ. Việc cô ấy thao thao bất tuyệt về một chủ đề rồi đột ngột khựng lại giữa chừng vốn là chuyện thường ngày ở huyện rồi.
+Có vẻ như sự ngập ngừng của Lorraine chưa khiến Wolf mảy may nghi ngờ. Việc cô ấy thao thao bất tuyệt về một chủ đề rồi đột ngột dừng bặt giữa câu vốn là chuyện thường ngày rồi.
 
 "Chà, tôi nghĩ ngần ấy là đủ hiểu rồi," Wolf nói. "Tôi không phải học giả, mấy chuyện sâu xa tỉ mỉ tôi chẳng rành mà cũng chẳng bận tâm; cứ để cánh chuyên gia lo. Có điều sắp tới Maalt sẽ bận rộn lắm đây. Dù sao thì chúng ta cũng vừa có thêm một mê cung mới mà."
 
@@ -52,19 +52,19 @@ Có vẻ như sự ngập ngừng của Lorraine chưa khiến Wolf mảy may ng
 
 Vì sao có thêm một mê cung mới lại khiến khối lượng công việc của Hội tăng vọt? Trước hết là vì sẽ có một làn sóng mạo hiểm giả mới ùn ùn đổ về. Dù mê cung luôn liên tục sản sinh nguyên liệu mới, nhưng sản lượng nào cũng có giới hạn. Nếu quá nhiều mạo hiểm giả cùng đổ vào một khu vực, mê cung có thể cạn sạch tài nguyên để thu thập. Có điều, chuyện một mê cung mà hết sạch quái vật thì gần như chưa từng nghe thấy bao giờ.
 
-Thế nhưng với các loại kho báu rải rác khắp mê cung thì lại khác. Chúng vốn chẳng dễ tìm, mà càng đông người cùng lùng sục thì cơ hội tìm thấy lại càng mong manh. Mạo hiểm giả nhìn chung kiếm sống qua ngày bằng việc săn quái vật rồi bán Ma Tinh cùng nguyên liệu thu nhặt được, nhưng ai trong số họ cũng ấp ủ giấc mộng đổi đời nhờ đào ra một món ma cụ quý hiếm đem bán ra thị trường. Nhặt được món đồ đủ giá trị để dưỡng già an nhàn là chuyện nghìn năm có một, nhưng chỉ riêng hy vọng đổi đời đó thôi đã là động lực lớn nhất của cánh mạo hiểm giả. Lẽ dĩ nhiên, khi từng đàn người nườm nượp đổ vào một mê cung, cơ hội mò ra kho báu sẽ giảm đi trông thấy.
+Thế nhưng với các loại kho báu rải rác khắp mê cung thì lại khác. Chúng vốn chẳng dễ tìm, mà càng đông người cùng lùng sục thì cơ hội tìm thấy lại càng mong manh. Mạo hiểm giả nhìn chung kiếm sống qua ngày bằng việc săn quái vật rồi bán Ma Tinh cùng nguyên liệu thu nhặt được, nhưng ai trong số họ cũng ấp ủ giấc mộng đổi đời nhờ tìm ra một món ma cụ quý hiếm đem bán ra thị trường. Bắt gặp món đồ đủ giá trị để dưỡng già an nhàn là chuyện cực kỳ hiếm có, nhưng chỉ riêng hy vọng đổi đời đó thôi đã là một trong những động lực chính của cánh mạo hiểm giả. Lẽ dĩ nhiên, khi từng đoàn người nườm nượp đổ vào một mê cung, cơ hội tìm ra kho báu sẽ giảm đi trông thấy.
 
-Chưa kể, sẽ cực kỳ ức chế nếu một kẻ mới chân ướt chân ráo tới bỗng dưng vớ bẫm ở nơi mà mình đã dày công lùng sục bao năm trời. Để tránh những chuyện như thế, Hội thường âm thầm điều tiết số lượng mạo hiểm giả ra vào từng mê cung. Nhưng giờ Maalt đã có thêm một mê cung nữa, thành phố hoàn toàn đủ sức đón nhận một lượng lớn mạo hiểm giả đổ về. Dù Hội chưa nắm rõ quy mô của nó, nhưng tùy mức độ rộng hẹp, có khi sẽ có thêm vài trăm mạo hiểm giả chuyển hẳn tới đây sinh sống.
+Chưa kể, sẽ cực kỳ ức chế nếu một người mới tới bỗng dưng kiếm bộn ở nơi mà mình đã dày công lùng sục bao năm trời. Để tránh những chuyện như thế, Hội thường âm thầm điều tiết số lượng mạo hiểm giả ra vào từng mê cung. Nhưng giờ Maalt đã có thêm một mê cung nữa, thành phố hoàn toàn đủ sức đón nhận một lượng lớn mạo hiểm giả đổ về. Dù Hội chưa nắm rõ quy mô của nó, nhưng tùy mức độ rộng hẹp, có khi sẽ có thêm vài trăm mạo hiểm giả chuyển hẳn tới đây sinh sống.
 
-Đó là lý do vì sao Wolf bảo sắp tới ông ấy sẽ bận tối mắt tối mũi. Mê cung mới hình thành vốn là vùng đất chưa ai khai phá, tràn ngập kho báu lẫn quái vật mới mẻ, nên ai cũng muốn tranh thủ vào kiếm chác từ sớm. Ban đầu chắc chắn sẽ có một làn sóng người ồ ạt đổ xô tới, kế đó giảm mạnh rồi mới nhích dần lên mức ổn định. Hội có lẽ chỉ bận rộn trong khoảng nửa năm đến một năm đầu, nhưng chừng đó cũng đủ mệt rồi...
+Đó là lý do vì sao Wolf bảo sắp tới ông ấy sẽ bận rộn. Mê cung mới hình thành vốn là vùng đất chưa ai khai phá, có nhiều kho báu lẫn quái vật mới mẻ, nên tốt nhất là tranh thủ vào từ sớm. Ban đầu sẽ có một làn sóng mạo hiểm giả đổ xô tới, kế đó giảm mạnh rồi mới tăng dần lên mức ổn định. Hội có lẽ chỉ bận rộn trong khoảng nửa năm đến một năm đầu, nhưng dù sao thì...
 
-"Giới nghiên cứu và học giả cũng sẽ nằm trong số những người kéo tới đấy," Lorraine nhận xét.
+"Giới nghiên cứu và học giả cũng sẽ nằm trong số những người mới tới đấy," Lorraine nhận xét.
 
-"Dù nơi này chỉ là chốn biên viễn hẻo lánh, nhưng mê cung mới thành hình vốn là hiện tượng xưa nay hiếm. Bản thân tôi cũng muốn đích thân khảo sát kỹ lưỡng về nó."
+"Dù chúng ta ở nơi biên viễn của nền văn minh, nhưng mê cung mới thành hình vốn là hiện tượng hiếm gặp. Bản thân tôi cũng muốn khảo sát kỹ lưỡng về nó."
 
-Hướng nghiên cứu của Lorraine vốn chuyên sâu về quái vật và mê cung nên tôi rất hiểu khao khát của cô ấy. Huống hồ cô ấy còn can dự sâu vào sự ra đời của mê cung này theo cái cách mà chẳng học giả bình thường nào làm được, dẫu họ có thèm muốn đến mấy. Chẳng nghi ngờ gì nữa, hẳn cô ấy đang muốn lao ngay xuống đó, gõ cho Laura tỉnh ngủ rồi dồn dập tra hỏi đủ điều. Có điều trên thực tế cô ấy đâu thể làm vậy được.
+Hướng nghiên cứu của Lorraine vốn chuyên sâu về quái vật và mê cung nên tôi rất hiểu mong muốn của cô ấy. Huống hồ cô ấy còn can dự sâu vào sự ra đời của mê cung này theo cái cách mà chẳng học giả bình thường nào có được, dẫu họ có muốn đến mấy. Chẳng nghi ngờ gì nữa, hẳn cô ấy đang muốn xuống đó, đập cho Laura tỉnh ngủ rồi dồn dập hỏi đủ điều. Có điều trên thực tế cô ấy đâu thể làm vậy được.
 
-Wolf gật đầu với Lorraine. "Ừ, tôi dám chắc thể nào cũng có những người như vậy kéo tới. Ở vương đô có Học Viện và Tòa Tháp danh tiếng, nghĩa là sẽ có các giáo sư cùng ma pháp sư từ đó mò tới đây. Nhưng họ thường được hoàng gia bảo trợ, và tôi chắc chắn họ sẽ đem theo kỵ sĩ này nọ hộ tống bảo vệ. Hội có lẽ chẳng cần nhúng tay vào nhiều đâu. Ít nhất linh cảm của tôi là vậy. Dẫu thế tôi vẫn dự tính chuẩn bị sẵn vài phương án, phòng khi mình đoán sai."
+Wolf gật đầu với Lorraine. "Ừ, tôi dám chắc thể nào cũng có những người như vậy kéo tới. Ở vương đô có Học Viện và Tòa Tháp danh tiếng, nghĩa là sẽ có các giáo sư cùng ma pháp sư từ đó tới đây. Nhưng họ thường được nhà nước bảo trợ, và tôi chắc chắn họ sẽ có kỵ sĩ này nọ đi theo bảo vệ. Hội có lẽ chẳng cần nhúng tay vào nhiều đâu. Ít nhất linh cảm của tôi là vậy. Dẫu thế tôi vẫn tính chuẩn bị sẵn vài bước, phòng khi mình đoán sai."
 
 Học Viện là cơ sở đào tạo bậc cao do vương quốc vận hành, quy tụ những học giả và quan chức ưu tú bậc nhất của Vương Quốc Yaaran trong số các cựu học viên. Mọi sinh viên ở đó đều học ma thuật nên thỉnh thoảng nơi này còn được gọi là Học Viện Ma Thuật, nhưng tên chính thức chỉ đơn giản là Học Viện. Phần lớn học viên là con em giới quý tộc và các gia đình thương nhân giàu có, dù vậy thường dân có tư chất cũng được phép theo học. Về độ tuổi thì không có giới hạn ngặt nghèo, song đa số người theo học đều là thanh thiếu niên ở độ tuổi mười mấy.
 
@@ -96,7 +96,7 @@ Thấy Rina gật đầu, Wolf bèn đáp: "Mấy người được tìm thấy 
 
 ◆◇◆◇◆
 
-Cả nhóm quyết định đi tới Phòng Khám Kohm. Lúc gặp Raiz và Laura trong mê cung, tôi thấy họ không bị thương tích gì nặng nhưng đã suy kiệt nghiêm trọng. Dù ma thuật trị liệu và Thần Lực có thể chữa lành vết thương, chúng lại chẳng thể giải quyết cơn đói hay sự kiệt sức. Cách duy nhất để hồi phục những thứ đó chỉ có ăn uống và nghỉ ngơi.
+Chúng tôi quyết định đi tới Phòng Khám Kohm. Lúc gặp Raiz và Laura trong mê cung, tôi thấy họ không bị thương tích gì nặng nhưng đã suy kiệt nghiêm trọng. Dù ma thuật trị liệu và Thần Lực có thể chữa lành vết thương, chúng lại chẳng thể giải quyết cơn đói hay sự kiệt sức. Cách duy nhất để hồi phục những thứ đó chỉ có ăn uống và nghỉ ngơi.
 
 Dù có được trị liệu nhiều đến mấy, một khi cơ thể đã chạm tới giới hạn thì người ta vẫn sẽ chết. Hoặc ít nhất, khả năng đó hoàn toàn có thể xảy ra. Đó là lý do vì sao dùng ma pháp trị liệu cho một người sắp qua đời vì tuổi già cũng chẳng ích gì. Do chưa rõ tình trạng cụ thể của hai người họ ra sao, chúng tôi vẫn không khỏi lo lắng cho Raiz và Laura.
 
@@ -134,9 +134,9 @@ Tôi hiểu lý lẽ của cô ấy, nhưng trong lòng vẫn thấy khó chịu
 
 Trên người Nive chẳng có lấy một vết trầy, thế thì cô ấy tới phòng khám chữa bệnh làm gì cơ chứ? Còn về Myullias, tôi cứ ngỡ hai người họ lúc nào cũng đi theo cặp.
 
-"Dù sao đi nữa thì Tiểu thư Myullias vẫn là Thánh Nữ mà," Nive nói. "Hiện giờ cô ấy đang ở Giáo Hội Lobelia trong thành phố, thuyết giảng an ủi những người chịu ảnh hưởng sau đợt biến cố vừa rồi. Vả lại danh nghĩa dẫu sao cũng là Thánh Nữ nên cô ấy đang làm tròn vai, hết trị liệu rồi lại thanh tẩy này nọ. Tôi sợ khéo trời sắp đổ mưa bất chợt đến nơi rồi cũng nên."
+"Dù sao đi nữa thì Tiểu thư Myullias vẫn là Thánh Nữ mà," Nive nói. "Hiện giờ cô ấy đang ở Giáo Hội Lobelia tại đây, thuyết giảng an ủi những người chịu ảnh hưởng sau đợt biến cố vừa rồi. Vả lại về danh nghĩa cô ấy cũng là Thánh Nữ nên đang đóng tròn vai, hết trị liệu rồi lại thanh tẩy này nọ. Tôi sợ khéo trời sắp đổ mưa bất chợt đến nơi rồi cũng nên."
 
-Nive không quên chêm vào mấy câu xỏ xiên như "danh nghĩa dẫu sao cũng là Thánh Nữ" hay câu đùa về cơn mưa, những lời lẽ mà nếu Myullias có mặt ở đây thì thể nào cũng nổi đóa. Nhưng tôi phải công nhận cô ấy nói chẳng sai tí nào. Tôi chưa từng thực sự thấy Myullias ra dáng một Thánh Nữ bao giờ. Dù vậy, tôi đoán nếu mình mà nói ra câu đó trước mặt cô ấy thì thể nào cũng bị mắng té tát cho xem.
+Nive không quên chêm vào mấy câu châm chọc như "về danh nghĩa là Thánh Nữ" hay câu đùa về cơn mưa, những lời lẽ mà nếu Myullias có mặt ở đây thì thể nào cũng nổi đóa. Nhưng tôi phải công nhận cô ấy nói chẳng sai tí nào. Tôi chưa từng thực sự thấy Myullias hành xử giống một Thánh Nữ mấy khi. Dù vậy, tôi đoán nếu mình mà nói câu đó với cô ấy thì thể nào cô ấy cũng nổi trận lôi đình với tôi cho xem.
 
 "Thế rốt cuộc cô tới đây làm gì?" tôi hỏi lại. "Cô vẫn chưa giải thích đấy nhé."
 

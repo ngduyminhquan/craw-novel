@@ -12,7 +12,7 @@ Nhìn chung, đa số mọi người cũng chỉ biết về Ma Cà Rồng đế
 
 Xác suất để một người hiểu thấu mọi chuyện khi chẳng biết chút gì về những biến cố vừa qua là bao nhiêu cơ chứ? Chắc chắn gần như bằng không. Chúng tôi biết được chẳng qua vì đã bị cuốn vào ngay từ đầu. Âu cũng chỉ là nhờ ngẫu nhiên mà thôi.
 
-Dù Wolf có sắc sảo đến đâu, ông ấy cũng phải có tài tiên tri thần dụ thì mới xâu chuỗi nổi các manh mối. Ông ấy chỉ biết chuyện Thi Quỷ tấn công thành phố, Ma Cà Rồng xuất hiện, và một mê cung mới bất ngờ lộ diện ngay dưới lòng thành phố mà thôi.
+Dù Wolf có sắc sảo đến đâu, ông ấy cũng phải có tài tiên tri thì mới xâu chuỗi nổi các manh mối. Ông ấy chỉ biết chuyện Thi Quỷ tấn công thành phố, Ma Cà Rồng xuất hiện, và một mê cung mới bất ngờ lộ diện ngay dưới lòng thành phố mà thôi.
 
 "Tôi hiểu rồi," Isaac gật đầu. "Đúng vậy, ngay cả Hội cũng chẳng thể thu thập tin tức về những chuyện họ hoàn toàn mù tịt. Hơn nữa, Hội Trưởng Wolf vốn là người thực tế. Ông ấy sẽ ưu tiên giải quyết những vấn đề trước mắt nằm trong tầm tay của mình hơn."
 
@@ -86,7 +86,7 @@ Thanh kiếm hiện tại của tôi chỉ là ma kiếm thông thường. Một
 
 "Vậy ra thợ rèn Ma Cà Rồng có thể chế tác Ma Lực Kiếm sao," Lorraine lẩm bẩm với vẻ ngạc nhiên.
 
-Nhìn chung, Ma Lực Kiếm thường là chiến lợi phẩm từ các mê cung cấp cao hoặc cổ vật được khai quật ở nơi nào đó. Bằng không thì họa hoằn lắm chúng mới xuất hiện tại một buổi đấu giá. Rèn mới từ đầu đã khó vô cùng, lại gần như chẳng thể chế tạo lại, nên tôi hoàn toàn hiểu vì sao Lorraine lại kinh ngạc đến thế.
+Nhìn chung, Ma Lực Kiếm thường là vật phẩm từ các mê cung cấp cao hoặc cổ vật được tìm thấy ở nơi nào đó. Bằng không thì họa hoằn lắm chúng mới xuất hiện tại một buổi đấu giá. Rèn mới từ đầu đã cực kỳ khó, lại gần như chẳng thể tái tạo lại, nên tôi hoàn toàn hiểu vì sao Lorraine lại kinh ngạc đến thế.
 
 Isaac nói tiếp: "Theo như tôi được biết, chỉ có duy nhất một thợ rèn Ma Cà Rồng có thể chế tạo những vũ khí như vậy, và chẳng ai sao chép nổi kỹ thuật của người đó. Đây không phải thứ mà loài Ma Cà Rồng nói chung có thể rèn ra. Chẳng qua chỉ có một cá nhân mang tài năng xuất chúng dị thường mà thôi."
 
@@ -112,7 +112,7 @@ Dù hiểu những gì anh ấy nói, tôi vẫn có cảm giác mình chắc ch
 
 "Mới nghĩ đến thôi đã thấy hơi ớn rồi," tôi thốt lên.
 
-"Không có gì phải sợ đâu, thưa ngài," Isaac trấn an tôi. "Nếu người mới tự ý thử một mình, họ có thể bị phân tán đến mức ý thức tiêu tán hoàn toàn rồi biến mất, nhưng ở đây đã có tôi là người đi trước kèm cặp. Nếu ngài gặp nguy hiểm, tôi có thể cưỡng ép ngài gom lại thành một hình hài duy nhất."
+"Không có gì phải sợ đâu," Isaac trấn an tôi. "Nếu người mới tự ý thử một mình, họ có thể bị phân tán đến mức ý thức tiêu tán hoàn toàn rồi biến mất, nhưng ở đây đã có tôi là người đi trước có kinh nghiệm hơn. Nếu ngài gặp nguy hiểm, tôi có thể cưỡng ép ngài gom lại thành một hình hài duy nhất."
 
 Nghe anh ấy nói thế chỉ tổ khiến mọi chuyện nghe ghê hơn. Thất bại là có thể tan biến luôn sao? Giờ thì tôi đâu chỉ dừng ở mức ngần ngại nữa.
 
@@ -134,6 +134,6 @@ Rina hào hứng gật đầu. "Vâng! Tôi sẽ cố gắng hết sức!"
 
 Trong giọng nói của cô ấy chẳng hề vương chút sợ sệt nào. Xem chừng gan cô ấy còn to hơn tôi nhiều. Cơ mà điều đó vốn đã đúng từ tận ngày đầu chúng tôi gặp nhau rồi. Hồi ấy Rina cứ khăng khăng bảo tôi hoàn toàn có thể vào thành phố bất chấp diện mạo của mình. Có lẽ làm vậy hơi liều mạng, nhưng đôi khi mạo hiểm giả lại cần thứ dũng khí như thế. Dĩ nhiên, dũng cảm quá trớn rất dễ mất mạng như chơi. Có điều giờ đây Rina khó chết lắm rồi, nên suy cho cùng mọi chuyện vẫn ổn cả.
 
-"Chúng ta thử một lần xem sao nhé, cô Rina?" Isaac hỏi. Khi cô ấy gật đầu, anh ấy hướng dẫn: "Hãy làm theo những gì tôi vừa giải thích lúc nãy. Trước hết, hãy coi cơ thể mình như một tập hợp của những thứ khác. Sau đó hình dung đầu ngón tay của cô có thể tự cử động độc lập. Vì tiềm thức cũng tác động lên hình thái biến đổi, nên thứ xuất hiện từ đầu ngón tay có thể sẽ khác với những gì cô tưởng tượng, nhưng đừng hoảng sợ, hãy cứ coi thực thể mới ấy như một phần cơ thể mình."
+"Chúng ta thử một lần xem sao nhé, cô Rina?" Isaac hỏi. Khi cô ấy gật đầu, anh ấy hướng dẫn: "Hãy thử làm theo những gì tôi vừa giải thích lúc nãy. Trước hết, hãy coi cơ thể mình như một tập hợp của những thứ khác. Sau đó hình dung đầu ngón tay của cô có thể tự cử động độc lập. Vì tiềm thức cũng tác động lên hình dạng biến đổi, nên thứ xuất hiện từ đầu ngón tay có thể sẽ khác với những gì cô tưởng tượng, nhưng đừng hoảng sợ, hãy cứ coi vật thể mới ấy như một phần cơ thể mình."
 
 Nghe Isaac dặn dò, Rina hẳn đang thả cho trí tưởng tượng bay bổng. Cô ấy nhắm nghiền mắt lại, tập trung cao độ. Và rồi, chỉ vài khoảnh khắc sau, điều đó đã xảy ra.

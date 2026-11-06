@@ -8,7 +8,7 @@ Hơn nữa, Ma Cà Rồng cực kỳ giỏi ẩn mình, một khi đã lẩn và
 
 Nive làm được việc đó chỉ nhờ cô ấy có năng lực phát hiện Ma Cà Rồng. Đã vậy, cô ấy còn hiểu về Ma Cà Rồng hơn bất kỳ ai còn sống trên đời. Nive có sự bền bỉ dai dẳng như loài chó săn cùng đầu óc phân tích sắc bén để phục vụ cho nỗi ám ảnh săn lùng của mình. Mạo hiểm giả lính mới hiếm ai hội đủ những phẩm chất đó, nên Raiz thấy thất vọng cũng phải thôi.
 
-"Raiz à, đâu việc gì phải vội vàng rồi đâm đầu vào chỗ nguy hiểm chứ," Laura trấn an cậu ấy. "Tụi mình cứ kiên nhẫn tiến lên từng bước một thôi. Cậu còn nhớ những gì anh Rentt dặn tụi mình không?"
+"Raiz à, đâu việc gì phải vội vàng rồi đâm đầu vào chỗ nguy hiểm chứ," Laura Satii trấn an cậu ấy. "Tụi mình cứ kiên nhẫn tiến lên từng bước một thôi. Cậu còn nhớ những gì anh Vivie dặn tụi mình không?"
 
 Tôi từng nói thế thật sao? Có lẽ tôi đã buột miệng nhắc tới lúc nói chuyện phiếm, nhưng giờ chẳng nhớ nổi. Mà nếu có nói thật thì tôi cũng không nói qua loa cho có đâu. Tự đáy lòng tôi nghĩ vậy thật mà. Dù sao chính tôi cũng đã mất mười năm ròng chậm rãi, bền bỉ đi lên từng bước một.
 
@@ -32,7 +32,7 @@ Nive sắp giải thích những gì cô ấy định làm. Điều đó quả t
 
 "Xác nhận sao? Chị muốn xác nhận chuyện gì thế?" Raiz hỏi.
 
-"Xác nhận xem hai bạn có bị biến thành Ma Cà Rồng hay không. Hai bạn từng bị Ma Cà Rồng bắt cóc, đúng chứ? Vẫn có một khả năng nhỏ là hai bạn đã bị biến thành Thi Quỷ trong lúc đó. Tôi muốn loại bỏ mọi mối nghi ngờ."
+"Xác nhận xem hai bạn có bị biến thành Ma Cà Rồng hay không. Hai bạn từng bị Ma Cà Rồng bắt cóc, đúng chứ? Vẫn có một khả năng nhỏ là hai bạn đã bị khống chế trong lúc đó. Tôi muốn loại bỏ mọi mối nghi ngờ."
 
 Nive đang mỉm cười, chỉ nhìn bề ngoài thì cô ấy rất lịch thiệp. Thế nhưng cảm xúc phản chiếu trong tròng mắt đỏ rực của cô ấy lại hoàn toàn trái ngược.
 
@@ -116,7 +116,7 @@ Nive bước lại gần, dừng lại khi mặt chỉ còn cách mặt tôi tro
 
 "Một phần thôi. Nhưng rốt cuộc vẫn là trực giác. Không phải lý trí, cũng chẳng phải Thánh Hỏa, mà là trực giác của tôi. Trước giờ nó chưa từng đánh lừa tôi bao giờ. Cho tới khi gặp cậu đấy. Vì vậy, Rentt à, tôi vẫn để mắt đến cậu đấy nhé."
 
-Nive càng nhích lại gần hơn. Đúng lúc ấy, cửa phòng khám khẽ cạch mở, Rina thò đầu ra ngoài. Cô ấy nhìn Nive rồi nhìn tôi. Thời gian dường như ngưng đọng trong thoáng chốc.
+Nive càng nhích lại gần hơn. Đúng lúc ấy, cửa phòng bệnh khẽ cạch mở, Rina thò đầu ra ngoài. Cô ấy nhìn Nive rồi nhìn tôi. Thời gian dường như ngưng đọng trong thoáng chốc.
 
 ![](images/ch205-01.webp)
 
@@ -132,7 +132,7 @@ Vẻ mặt của Lorraine thật khó mà diễn tả khi để mặc cho Rina l
 
 "H-Hôn nhau... chẳng hạn..."
 
-"Hừm. Ai biết được. Liệu họ có làm không nhỉ? Rina này, tụi mình thử xem họ có làm không nhé," Lorraine nói giọng trêu chọc.
+"Hừm. Ai biết được. Liệu họ có làm không nhỉ? Rina này, chúng ta thử xem họ có làm không nhé," Lorraine nói giọng trêu chọc.
 
 Nive quay sang tôi. "Ừm, hay mình làm thế luôn đi Rentt? Tôi thì chẳng ngại đâu."
 
@@ -192,4 +192,4 @@ Trong lúc chúng tôi trao đổi, Nive và Rina cũng dứt câu chuyện.
 
 "Vậy tôi xin phép cáo từ trước nhé. Ngày mai tôi sẽ rời khỏi thành phố, nếu có lòng ra tiễn thì tôi rất hoan nghênh. Chào nhé." Nói rồi, Nive rời khỏi phòng khám.
 
-Nhiều lúc tôi thực sự chẳng hiểu nổi Nive. Đi tiễn cô ấy sao? Ừ thì, tôi cũng phải đắn đo xem có nên đi hay không đây.
+Nhiều lúc tôi thực sự chẳng hiểu nổi Nive. Đi tiễn cô ấy sao? Đúng là tôi phải đắn đo xem có nên đi hay không đây.
