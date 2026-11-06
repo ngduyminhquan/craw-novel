@@ -1,141 +1,141 @@
 # Chương 250: Tập 11 Chương 1 - Tập Kích Bất Ngờ (7)
 
-"Đệ Nhất Công Chúa, Điện Hạ Nadia Regina Yaaran," ông lão đáp. "Có điều không, cũng không hẳn là vậy. Thực ra Điện Hạ chẳng hề hay biết gì về mấy chuyện này đâu."
+"Đệ Nhất Công Chúa, Điện Hạ Nadia Regina Yaaran," ông lão đáp. "Nhưng không, cũng không hẳn. Thực ra Điện Hạ chẳng hề hay biết gì về mấy chuyện này đâu."
 
 Lorraine gặng hỏi tiếp, "Vậy kẻ chủ mưu là ai?"
 
-"Còn phải hỏi nữa sao? Là Nữ Bá tước Gisel Georgiou, người chống lưng lớn nhất của Điện Hạ. Một người phụ nữ can trường, luôn mong muốn một ngày nào đó Đệ Nhất Công Chúa sẽ kế vị ngai vàng."
+"Còn phải hỏi nữa sao? Là Nữ Bá tước Gisel Georgiou, người chống lưng lớn nhất của Điện Hạ. Một người phụ nữ can trường, luôn mong một ngày nào đó Đệ Nhất Công Chúa sẽ kế vị ngai vàng."
 
 "Nghe hợp lý đấy," Lorraine bảo.
 
-Xem ra những phỏng đoán của chúng tôi về Đệ Nhất Công Chúa chẳng sai chút nào. Cô ấy—à thì, nói đúng hơn là phe cánh của cô ấy, khiến mọi chuyện càng thêm rắc rối—đã nhắm vào chúng tôi chỉ vì chúng tôi có dính dáng tới Nhị Công Chúa, biến chúng tôi thành cái gai trong mắt họ.
+Xem ra những phỏng đoán của chúng tôi về Đệ Nhất Công Chúa chẳng sai chút nào. Cô ấy—à thì, nói đúng hơn là phe cánh của cô ấy, khiến mọi chuyện càng thêm rối rắm—đã nhắm vào chúng tôi chỉ vì chúng tôi có dính dáng tới Nhị Công Chúa, và điều đó biến chúng tôi thành cái gai trong mắt họ.
 
-Nếu đích thân Đệ Nhất Công Chúa chủ mưu, chúng tôi đã có thể báo vụ tập kích này cho Nhị Công Chúa làm bằng chứng để cô ấy tố giác chị gái mình, đằng này kẻ nhúng tay chỉ là người chống lưng...
+Nếu đích thân Đệ Nhất Công Chúa ra tay, chúng tôi đã có thể báo vụ tập kích này cho Nhị Công Chúa làm bằng chứng để cô ấy tố giác chị gái mình, đằng này kẻ nhúng tay chỉ là người chống lưng...
 
-Dù chuyện này dĩ nhiên vẫn sẽ gây ra điều tiếng, tôi không nghĩ nó đủ sức làm lung lay vị thế của chính Đệ Nhất Công Chúa.
+Dù chuyện này dĩ nhiên vẫn sẽ để lại hệ lụy, tôi không nghĩ nó đủ sức làm lung lay vị thế của chính Đệ Nhất Công Chúa.
 
-Dù sao mấy mưu mô chính trị phức tạp ấy vốn chẳng phải chuyện chúng tôi rành rẽ—chúng tôi rốt cuộc cũng chỉ là mạo hiểm giả. Báo cho Nhị Công Chúa biết rồi chúc cô ấy may mắn có lẽ là ổn nhất, chỉ hiềm nỗi tôi chẳng muốn biến mình thành bia ngắm cho kẻ khác nhắm vào thêm lần nào nữa. Nghĩ tới nghĩ lui, tôi vẫn chưa tìm ra cách giải quyết nào thực sự êm đẹp.
+Dù sao mấy màn đấu đá chính trị rắc rối kiểu đó cũng chẳng thuộc sở trường của chúng tôi, bởi chúng tôi vốn chỉ là mạo hiểm giả. Báo cho Nhị Công Chúa biết rồi chúc cô ấy may mắn có lẽ là ổn nhất, chỉ có điều tôi chẳng muốn biến cả bọn thành bia ngắm thêm lần nào nữa. Nghĩ tới nghĩ lui, tôi vẫn chưa tìm ra cách giải quyết nào thực sự ổn thỏa.
 
-Mà công nhận, làm người hoàng tộc đúng là chẳng sung sướng gì. Phải bày mưu tính kế với chính người nhà như thế thì... Khoan đã, ở đây có đúng là thế không nhỉ? Đệ Nhất Công Chúa đâu phải người vạch ra kế hoạch này. Tôi cũng chẳng rõ tình cảm giữa cô ấy với em gái ra sao. Trước giờ tôi cứ ngỡ nếu có ai muốn hãm hại Nhị Công Chúa thì chỉ có thể là Đệ Nhất Hoàng Tử hoặc Đệ Nhất Công Chúa, nhưng thực bụng tôi hoàn toàn mù tịt về thái độ của họ dành cho nhau. Thôi thì khi nào có cơ hội tôi sẽ hỏi thử xem sao.
+Mà công nhận, làm người hoàng tộc đúng là chẳng sung sướng gì. Phải bày mưu tính kế quanh chính người nhà mình như thế thì... Khoan đã, ở đây có đúng là thế không nhỉ? Đệ Nhất Công Chúa đâu phải người vạch ra kế hoạch này. Tôi cũng chẳng rõ quan hệ giữa cô ấy với em gái tốt đẹp đến mức nào. Trước giờ tôi cứ đinh ninh nếu có ai muốn nhắm vào Nhị Công Chúa thì chỉ có thể là Đệ Nhất Hoàng Tử hoặc Đệ Nhất Công Chúa, nhưng thực tình tôi hoàn toàn mù tịt về tình cảm của họ dành cho nhau. Thôi thì khi nào có cơ hội tôi sẽ hỏi thử xem sao.
 
 "Tóm lại, người thuê các người là Nữ Bá tước Gisel Georgiou?" Lorraine hỏi.
 
-Ông lão gật đầu. "Nhưng nói cho đúng ra thì cũng chưa hẳn. Bà ta thuê Goblin, Siren cùng ta thì đúng, song thực chất bọn ta thuộc về một tổ chức, và tổ chức đã nhận lệnh điều động bọn ta phục vụ bà ta trong một thời hạn nhất định."
+Ông lão gật đầu. "Nhưng nói cho đúng ra thì cũng chưa hẳn. Bà ta thuê Goblin, Siren cùng ta thì đúng, song thực chất bọn ta thuộc về một tổ chức, nơi đã bán dịch vụ của bọn ta cho bà ta trong một thời hạn nhất định."
 
 "Tổ chức?"
 
-"Phải. Một nơi tập hợp những người mang dị năng kỳ lạ hay đặc thù như bọn ta. Tùy theo yêu cầu mà bọn ta được phái đi làm đủ thứ việc. Chuyến này cũng là một trong số ấy."
+"Phải. Một nơi tập hợp những người mang dị năng độc nhất hoặc đặc thù như bọn ta. Tùy theo yêu cầu mà bọn ta được phái đi làm đủ thứ việc. Chuyến này cũng là một trong số đó."
 
-Augurey tròn mắt kinh ngạc. "Tôi chưa từng ngờ trên đời lại có một tổ chức như thế đấy..."
+Augurey tròn mắt kinh ngạc. "Tôi chưa từng ngờ trên đời lại có một hội nhóm như thế đấy..."
 
-Ông lão mỉm cười. "Chắc các ngươi cũng biết rồi, những kẻ mang dị năng như bọn ta chẳng được ai chào đón cho cam. Đi đến đâu cũng cùng một cảnh ngộ cả thôi. Ở mấy làng quê hẻo lánh người ta đối xử với bọn ta còn tàn nhẫn hơn. Bị đuổi đi đã là may mắn lắm rồi, lắm lúc họ còn giết luôn ấy chứ. Tổ chức đứng ra cưu mang những mảnh đời như vậy, đào tạo họ thành sát thủ lành nghề rồi giao việc cho làm. Nói thật, chẳng khác nào làm việc thiện. Đâu phải chuyện tệ, đúng không? Ta chắc cậu bạn quái vật đằng kia hiểu rõ nhất."
+Ông lão mỉm cười. "Chắc các ngươi cũng biết rồi, những kẻ mang dị năng như bọn ta chẳng được ai hoan nghênh cho cam. Đi đến đâu cũng cùng một cảnh ngộ cả thôi. Ở mấy làng quê hẻo lánh người ta đối xử với bọn ta còn tệ hơn. Bị đuổi đi đã là may mắn lắm rồi; lắm lúc họ còn giết luôn ấy chứ. Tổ chức đứng ra cứu giúp những người như vậy, nuôi dạy họ thành sát thủ thực thụ rồi giao việc cho làm. Thực sự chẳng khác nào làm việc thiện. Đâu phải một thỏa thuận tồi, đúng không? Ta chắc cậu bạn quái vật đằng kia hiểu rõ điều đó."
 
-Câu cuối là ông ta nhắm thẳng vào tôi. Quái vật cơ đấy? Đau thật đấy chứ. Nghe giọng điệu thì có vẻ ông ta tưởng tôi cũng là một kẻ mang dị năng, điều này kể ra cũng dễ hiểu. Nếu không soi thật kỹ ở cự ly gần thì chẳng ai nhìn ra được tôi thực sự là một con quái vật thứ thiệt. Mà lỡ ai đó phát hiện ra thật, tôi cũng đành phải bịt miệng họ thôi.
+Câu cuối là ông ấy nhắm thẳng vào tôi. Quái vật cơ đấy? Đau lòng thật. Nghe giọng điệu thì ông ấy tưởng tôi cũng là một kẻ mang dị năng, điều này kể ra cũng dễ hiểu. Nếu không kiểm tra thật kỹ ở cự ly gần thì chẳng ai nhìn ra được tôi thực chất là một con quái vật hàng thật giá thật. Mà lỡ họ có phát hiện ra, tôi cũng đành phải khử họ thôi.
 
-Tôi quyết định cứ để mặc ông lão hiểu nhầm như thế. Cơ mà ai ngờ được trên đời lại có một tổ chức như vậy tồn tại chứ. Thế giới này rộng lớn thật đấy, và có lẽ người khác cũng sẽ thấy ngỡ ngàng như thế nếu biết chuyện của tôi. Vả lại, dù điểm xuất phát trong suy nghĩ của ông lão có sai lệch, tôi vẫn hiểu điều ông ta muốn nói.
+Tôi quyết định cứ để mặc ông lão hiểu nhầm như thế. Dù vậy, ai ngờ được một tổ chức như thế lại tồn tại cơ chứ? Thế giới này rộng lớn thật đấy, và có lẽ người khác cũng sẽ thấy y hệt như vậy nếu biết chuyện của tôi. Vả lại, dù tiền đề của ông lão có sai lệch, tôi vẫn hiểu điều ông ấy đang nói.
 
-Những người mang dị năng kỳ lạ không được chào đón và hay bị hắt hủi. Nói cách khác, họ phải hứng chịu đúng nỗi sợ hãi mà tôi từng cảm nhận được từ người đời hồi còn là một Khô Lâu và Ngạ Quỷ. Chỉ cần nhìn thoáng qua đã thấy khác người là coi như đã cầm chắc muôn vàn gian nan nếu muốn được đón nhận.
+Những người mang dị năng kỳ lạ không được chào đón và bị bài xích. Nói cách khác, họ phải hứng chịu đúng nỗi sợ hãi mà tôi từng cảm nhận được từ người đời hồi còn là một Khô Lâu và Ngạ Quỷ. Nếu người ta chỉ cần nhìn thoáng qua đã thấy mình khác biệt, thì ngay từ đầu việc giành được sự chấp nhận của họ đã là cả một cuộc chiến gian nan rồi.
 
-Bị chỉ trích là dị loài, bị xua đuổi rồi bị cô lập ra ngoài rìa xã hội. Xét theo khía cạnh nào đó, bản năng ấy chính là cách những kẻ yếu thế giữ gìn và bảo vệ chỗ đứng của mình trong thế giới này, nhưng đối với những nạn nhân còn yếu ớt hơn, cảm giác chẳng khác nào bị cả thế gian quay lưng ruồng bỏ.
+Mình sẽ bị kết tội là kẻ khác biệt, bị xua đuổi rồi bị gạt ra ngoài lề. Theo một nghĩa nào đó, những bản năng ấy là cách kẻ yếu duy trì và bảo vệ chỗ đứng của mình trên thế giới này, nhưng đối với những nạn nhân còn yếu thế hơn họ, cảm giác chẳng khác nào bị tất cả mọi thứ và mọi người ruồng bỏ.
 
-Tôi vẫn còn may mắn chán; bên cạnh tôi có Lorraine, Rina, Sheila, và thậm chí cả Augurey—những con người tốt bụng sẵn sàng đón nhận tôi ngay cả khi tôi đã biến thành quái vật.
+Tôi đã may mắn; tôi có Lorraine, Rina, Sheila, và thậm chí cả Augurey, những con người nhân hậu đã chấp nhận tôi ngay cả khi tôi biến thành quái vật.
 
-Nhưng nếu không có họ, rất có thể kết cục của tôi cũng chẳng khác nào một con quái vật thực thụ từ thể xác cho đến tâm can. Lang thang chốn hoang dã cách biệt khỏi xã hội, giết chóc rồi ăn thịt người—chỉ nghĩ tới thôi đã thấy lạnh sống lưng. Bảo sao một tổ chức như lời ông lão vừa kể lại được những người mang dị năng xem như chiếc phao cứu sinh.
+Nhưng nếu không có họ, rất có thể kết cục của tôi cũng chẳng hơn gì một con quái vật thực thụ cả về thể xác lẫn tâm hồn. Lang thang chốn hoang dã cách biệt khỏi xã hội, giết chóc rồi ăn thịt người, chỉ nghĩ tới thôi đã khiến tôi rùng mình sợ hãi. Bảo sao một tổ chức như lời ông lão vừa tả lại giống như nguồn cứu rỗi đối với những người mang dị năng.
 
-Song, đó cũng là đối thủ vô cùng đáng gờm nếu phải chạm trán. Cứ lấy ông lão làm thước đo thì những kẻ mang dị năng đáng sợ thật sự. Cứ bị những kẻ tầm cỡ như ông ta rình rập suốt thì có cho tôi thêm bao nhiêu cái mạng nữa cũng chẳng đủ.
+Song, đó cũng là một đối thủ đáng sợ nếu phải đối đầu. Cứ nhìn vào ông lão mà suy ra thì những kẻ mang dị năng quả thực rất đáng gờm. Cứ bị những người như ông ấy săn đuổi suốt thì tôi có thêm bao nhiêu cái mạng nữa cũng chẳng đủ.
 
-Sau một hồi suy tính, Lorraine, Augurey và tôi quyết định bàn bạc với nhau về những gì ông lão vừa nói. Để ông ta không nghe thấy, Lorraine liền dựng lên một kết giới.
+Sau một hồi cân nhắc, Lorraine, Augurey và tôi quyết định bàn bạc với nhau về những gì ông lão vừa nói. Để ông ấy không nghe thấy, Lorraine liền dựng lên một kết giới.
 
-"Có cao kiến gì về việc chúng ta nên làm tiếp theo không?" cô ấy hỏi. "Giờ thì biết kẻ thù là ai rồi đấy, nhưng mà..."
+"Có ý tưởng gì về việc chúng ta nên làm tiếp theo không?" cô ấy hỏi. "Giờ thì biết kẻ thù là ai rồi đấy, nhưng mà..."
 
-"Thì cứ tính chuyện trước mắt đã. Hay là hỏi thử xem liệu ông ta có bảo phe mình dừng tay được không?" Augurey gợi ý.
+"Thì cứ việc gì cần làm trước thì làm. Hay là hỏi thử xem liệu ông ấy có bảo bọn họ rút lui được không?" Augurey gợi ý.
 
-Bản thân tôi thấy tính vậy thì lạc quan quá, nhưng dù sao thử một phen cũng chẳng mất gì.
+Cá nhân tôi thấy nghĩ vậy là hơi quá lạc quan, nhưng thử xem sao cũng chẳng hại gì.
 
-"Cũng được thôi," tôi tiếp lời. "Được thì tốt quá, còn không thì lúc đó hẵng tính tiếp."
+"Sao lại không chứ?" tôi tiếp lời. "Được thì tốt quá. Còn không thì lúc đó hẵng tính tiếp."
 
-Lorraine gật đầu. "Cũng phải. Chúng ta vẫn còn phương án tìm thẳng tới nữ bá tước và cái ‘tổ chức’ này để nói chuyện trực tiếp. Có điều làm vậy thì rủi ro khá cao."
+Lorraine gật đầu. "Cũng phải. Chúng ta vẫn còn phương án tìm tới nữ bá tước cùng cái ‘tổ chức’ này để nói chuyện trực tiếp. Có điều làm vậy thì khá mạo hiểm."
 
-Tôi muốn tránh xa một nơi tụ tập toàn những kẻ như ông lão càng xa càng tốt, nhưng cũng khó lòng phủ nhận khả năng cuối cùng vẫn phải mò tới đó. Nhờ Nhị Công Chúa đứng ra hòa giải—hoặc chí ít là can thiệp đôi chút với chị gái cô ấy—cũng là một lựa chọn, nhưng tôi chẳng rõ liệu việc đó có khả thi hay không.
+Tôi muốn tránh một nơi toàn những kẻ như ông lão hết mức có thể, nhưng cũng khó lòng phủ nhận rằng sớm muộn gì chúng tôi cũng phải tới đó. Nhờ Nhị Công Chúa giảng hòa—hoặc chí ít là làm gì đó—với chị gái cô ấy cũng là một lựa chọn, nhưng tôi chẳng rõ liệu việc đó có khả thi hay không.
 
-"Cứ bắt đầu từ nước đi dễ nhất rồi hẵng tính tiếp vậy," tôi nói, kết thúc cuộc bàn bạc của cả nhóm.
+"Tôi đoán cứ bắt đầu từ cách dễ nhất rồi nâng dần lên vậy," tôi nói, khép lại cuộc bàn bạc của cả nhóm.
 
-Lorraine giải trừ kết giới rồi quay sang ông lão. "Tôi biết yêu cầu này có phần làm khó ông, nhưng liệu ông có thể bảo người bên mình rút lui, đừng nhắm vào chúng tôi nữa được không? Hoặc nếu bản thân ông không đủ quyền quyết định, ông có thể sắp xếp cho chúng tôi gặp người có tiếng nói hơn được chăng?"
+Lorraine hạ kết giới xuống rồi quay sang ông lão. "Tôi biết mình có thể đang đòi hỏi điều bất khả thi, nhưng liệu ông có thể bảo người của mình rút lui, đừng nhắm vào chúng tôi nữa được không? Hoặc nếu bản thân ông không có thẩm quyền làm việc đó, ông có thể thu xếp cho chúng tôi gặp người có thẩm quyền không?"
 
-Người đó chắc hẳn phải là nữ bá tước hoặc thủ lĩnh của tổ chức, mà cả hai khả năng nghe chừng đều quá đỗi xa vời.
+Người đó nhiều khả năng sẽ là nữ bá tước hoặc thủ lĩnh của tổ chức, mà cả hai phương án nghe chừng đều khá xa vời.
 
-Thế nhưng sau một thoáng trầm ngâm, ông lão lại đáp, "Hừm. Sao lại không chứ? Đằng nào với tình cảnh này ta cũng coi như kẻ chết rồi."
+Thế nhưng sau một thoáng cân nhắc, ông lão lại đáp, "Hừm. Sao lại không chứ? Đằng nào với tình cảnh hiện tại ta cũng coi như kẻ chết rồi."
 
-Dù chính mình là người mở lời trước, chúng tôi vẫn không khỏi có phần bất ngờ.
+Dù chính mình là người mở lời, chúng tôi vẫn có phần bất ngờ.
 
 ◆◇◆◇◆
 
 "Tôi biết đó là ý kiến của chúng ta, nhưng thế này có thực sự ổn không đấy?" Lorraine vừa đi vừa hỏi.
 
-Cả nhóm ít nhiều đã đạt được một thỏa thuận, song vẫn thấy thật khó tin. Việc ông lão đồng ý mau lẹ đến thế cũng có đôi phần đáng ngờ.
+Cả nhóm ít nhiều đã đạt được thỏa thuận, nhưng vẫn thấy hơi khó tin. Việc ông lão chấp nhận yêu cầu của chúng tôi nhanh chóng đến thế cũng có chút đáng ngờ.
 
-Còn về điểm đến, chúng tôi đang trên đường quay lại chỗ Ferrici. Nói thêm cho rõ thì ông lão vẫn đang bị trói nghiến bằng ma pháp, chỉ có thể cử động mỗi đôi chân.
+Còn về điểm đến, chúng tôi đang trên đường quay lại chỗ Ferrici. Mà nếu có ai thắc mắc thì ông lão vẫn đang bị trói chặt bằng ma pháp, chỉ cử động được mỗi đôi chân.
 
-Biết ông ta không thể khổng lồ hóa được nữa thì cũng an tâm phần nào, nhưng sức mạnh thể chất tự thân của ông ta vốn dĩ đã quá đỗi phi phàm. Chúng tôi bắt ông ta đi đằng trước, mắt không rời nửa bước để sẵn sàng ứng phó ngay khoảnh khắc ông ta có bất kỳ động thái mờ ám nào.
+Biết ông ấy không thể khổng lồ hóa được nữa thì cũng yên tâm, nhưng năng lực thể chất cơ bản của ông ấy vốn dĩ đã rất đáng kinh ngạc rồi. Chúng tôi bắt ông ấy đi đằng trước và sẵn sàng phản ứng ngay khoảnh khắc ông ấy có bất kỳ hành động mờ ám nào.
 
-Cứ hình dung cảnh tượng lúc này mà xem: một gã đeo mặt nạ đầu lâu, một ma pháp sư mờ ám cùng một kẻ thích làm màu sặc sỡ đang áp giải một ông lão bị trói đi phía trước, vừa đi vừa chằm chằm canh chừng sau lưng. Ai mà nhìn thấy cảnh này, tôi dám chắc họ sẽ đinh ninh chúng tôi là phường buôn nô lệ cho mà xem. Nói đi cũng phải nói lại, ông lão này trông thế kia chắc bán được khối tiền. Nhỡ mà nhân cơ hội này đổi nghề sang buôn người, có khi chúng tôi lại kiếm bộn ấy chứ.
+Hình dung lại cảnh tượng lúc này mà xem: một gã đeo mặt nạ đầu lâu, một ma pháp sư mờ ám cùng một kẻ thích khoe mẽ lòe loẹt bắt một ông lão bị trói đi phía trước, vừa đi vừa canh chừng từ phía sau. Ai mà nhìn thấy cảnh này, tôi dám chắc họ sẽ nghĩ chúng tôi là bọn buôn nô lệ hay gì đó tương tự. Công bằng mà nói, ông lão trông có vẻ bán được khá nhiều tiền. Nếu quyết định nhân cơ hội này đổi nghề, có khi chúng tôi lại vớ bẫm ấy chứ.
 
-"Như lúc nãy ta đã bảo rồi đấy, nắm chắc là ta coi như xong đời rồi," ông lão cất tiếng.
+"Lúc nãy ta cũng nói rồi đấy, khả năng cao là ta coi như chết rồi," ông lão cất tiếng.
 
-"Ai nhìn vào cũng thấy rành rành là ta đã làm hỏng việc. Ta đâu thể cứ thế vác mặt quay về như chưa hề có chuyện gì xảy ra. Ta thì trốn chui trốn lủi được, chứ hai đứa kia mà làm thế thì chẳng đời nào sống sót nổi."
+"Ai nhìn vào cũng thấy rành rành là ta đã làm hỏng việc. Ta đâu thể cứ thế nghênh ngang quay về như chưa hề có chuyện gì xảy ra. Ta thì có thể bỏ trốn, chứ hai đứa kia mà làm thế thì chẳng bao giờ trụ nổi."
 
-"Ý ông là Goblin và Siren hả?" tôi hỏi. "Tôi thấy ông nói cũng đúng. Hai người đó trông chẳng giống những kẻ rành chuyện đánh đấm cho lắm."
+"Ý ông là Goblin và Siren hả?" tôi hỏi. "Tôi đoán ông nói đúng. Hai người đó trông chẳng giống những kẻ rành chuyện đánh đấm cho lắm."
 
-"Nhắc mới nhớ, ta biết giờ mới hỏi thì hơi muộn, nhưng Siren vẫn bình an chứ?" ông lão hỏi. "Ta cứ ngỡ có khi các ngươi đã giết con bé rồi."
+"Nghĩ lại thì, ta biết giờ mới hỏi câu này là hơi muộn, nhưng Siren vẫn ổn chứ?" ông lão hỏi. "Ta từng nghĩ có khả năng các ngươi đã giết con bé rồi."
 
-Trông ông ta có vẻ khá thảnh thơi, đôi vai thả lỏng theo từng bước chân. Dù vậy, bản lĩnh vững vàng trước nghịch cảnh ấy cho thấy rõ đây tuyệt đối không phải người có thể xem thường.
+Trông ông ấy khá thoải mái, đôi vai thả lỏng theo từng bước đi. Dù vậy, sự điềm tĩnh trước tình cảnh ngặt nghèo ấy cho thấy rõ ông ấy là người mà không ai được phép xem thường.
 
-Đây chẳng phải lần đầu tôi thấy nể phục con người này. Dù không muốn để lộ thông tin cho đối phương, tôi nghĩ nói cho ông ta biết đồng nghiệp của mình vẫn bình an vô sự chắc cũng chẳng sao. Qua những lời trò chuyện nãy giờ, tôi nhận thấy ông ta là kiểu người thực lòng lo lắng cho đồng đội. Có lẽ suy nghĩ đó bắt nguồn từ chính cách mà thế giới này đối xử với những kẻ mang dị năng.
+Đây chẳng phải lần đầu tôi thấy kinh ngạc trước con người ông ấy. Dù không muốn tiết lộ thông tin cho đối phương, tôi nghĩ nói cho ông ấy biết đồng sự của mình vẫn bình an chắc cũng chẳng sao. Trò chuyện với ông ấy nãy giờ, tôi nhận ra ông ấy thuộc kiểu người thực sự quan tâm đến đồng đội. Có lẽ suy nghĩ đó bắt nguồn từ cách thế giới này đối xử với những người mang dị năng.
 
-Bị bỏ mặc một thân một mình thì ai mà chẳng cô đơn. Hồi còn kẹt lại dưới mê cung, tôi cũng từng nơm nớp lo sợ không biết liệu mình có phải cô độc mãi mãi hay không. Nghĩ lại chuỗi ngày đó, tôi thực sự chẳng muốn chút nào.
+Bị bỏ mặc một mình thì ai mà chẳng cô đơn. Hồi còn kẹt lại trong mê cung, đôi khi tôi cũng lo sợ không biết liệu mình có phải cô độc mãi mãi hay không. Tôi chẳng muốn nhớ lại quãng thời gian đó chút nào.
 
-Tôi đưa mắt nhìn Lorraine và Augurey, cả ba dường như đều ngầm hiểu rằng trả lời câu hỏi của ông lão cũng chẳng hề hấn gì.
+Tôi đưa mắt nhìn Lorraine và Augurey, cả ba dường như đều đồng tình rằng trả lời ông lão cũng chẳng sao.
 
-"Cô ta vẫn ổn," Augurey đáp. "Bọn tôi đâu có tra tấn hay làm gì cô ta. Ờ... chúng ta không làm vậy thật, phải không nhỉ?"
+"Ả vẫn ổn," Augurey đáp. "Bọn tôi đâu có tra tấn hay làm gì ả. Ờ... chúng ta không làm vậy thật, phải không?"
 
-Vế sau đầy vẻ bất an là anh ấy hướng thẳng về phía Lorraine. Cô ấy chính là người trực tiếp tra khảo Siren, và chúng tôi chẳng rõ cô ấy đã làm thế nào. Không hoàn toàn loại trừ khả năng cô ấy đã dùng những thủ đoạn khá kinh khủng để ép cung.
+Vế sau đầy vẻ bất an đó anh ấy hướng thẳng về phía Lorraine. Cô ấy là người đã tra khảo Siren, và chúng tôi chẳng rõ cô ấy đã làm thế nào. Không hoàn toàn loại trừ khả năng cô ấy đã làm mấy chuyện khá kinh khủng để ép cung.
 
-"Làm gì có chuyện đó," Lorraine đáp. "Tôi chẳng hề gây tổn hại gì đến thể xác của cô ta, mà tinh thần cô ta cũng hoàn toàn bình thường. Tôi có thể đảm bảo với ông rằng nhận thức bản thân của cô ta vẫn y nguyên như trước đây."
+"Không hề nhé," Lorraine đáp. "Tôi không thể nói là mình đã gây tổn hại thể xác nào cho cô ta, mà tâm trí cô ta cũng hoàn toàn bình thường. Tôi có thể đảm bảo với ông rằng ý thức bản thân của cô ta vẫn y nguyên như trước đây."
 
-Tôi thấy cách giải thích ấy nghe có vẻ đáng ngờ thật, nhưng chắc có thể hiểu là Siren vẫn ổn thỏa. Phải không nhỉ? Phải rồi. Chí ít thì tôi cũng mong là vậy.
+Tôi thấy cách nói ấy nghe hơi đáng ngờ, nhưng chắc có thể hiểu là Siren vẫn ổn. Phải không? Phải rồi. Chí ít thì tôi cũng mong là vậy.
 
-Ông lão xem chừng chẳng bận lòng về điều đó. Trái lại, ông ta thở phào một hơi nhẹ nhõm hiếm thấy. "Ra vậy. Thế thì tốt rồi." Đoạn, ông ta dừng lại một chút rồi nói thêm, "Lúc nãy ta có bảo sẽ đưa các ngươi tới gặp người thuê bọn ta, đúng không?"
+Ông lão xem chừng không mấy bận tâm. Thay vào đó, ông ấy thở phào một hơi nhẹ nhõm hiếm thấy. "Ra vậy. Thế thì tốt." Đoạn, dừng lại một chút, ông ấy nói thêm, "Lúc nãy ta có bảo sẽ đưa các ngươi tới gặp người thuê ta, đúng không?"
 
-"Đừng bảo là giờ ông định nuốt lời đấy nhé," tôi nói. Chỉ nghĩ tới mớ bòng bong mà chúng tôi sẽ phải gánh nếu ông ta lật lọng thôi cũng đủ làm tôi phát mệt, và nỗi ngán ngẩm ấy có lẽ đã lộ rõ qua từng lời nói.
+"Xin đừng bảo là giờ ông định nuốt lời đấy nhé," tôi nói. Chỉ nghĩ tới mớ bòng bong mà chúng tôi sẽ phải xử lý nếu ông ấy làm vậy thôi cũng đủ làm tôi rã rời, và điều đó có lẽ đã lộ rõ qua giọng điệu của tôi.
 
-Ông lão mỉm cười. "Cứ bình tĩnh. Ta sẽ giữ lời. Có điều chúng ta cần một cách thức để liên lạc. Ta muốn để Goblin và Siren làm người đưa tin."
+Ông lão mỉm cười. "Cứ yên tâm. Ta sẽ giữ lời. Có điều chúng ta cần một cách thức để liên lạc. Ta muốn để Goblin và Siren làm người đưa tin."
 
-À, thì ra ông ta đang bàn về các bước triển khai. Ngẫm lại thì ông ta nói cũng phải. Nếu chúng tôi cứ thế túm gáy lôi ông ta xộc vào đòi gặp cấp trên của họ, chắc chắn một trận ẩu đả sẽ bùng nổ ngay tắp lự. Đằng nào thì đó cũng chỉ là hạ sách, mà người ta gọi là hạ sách thì ắt phải có lý do. Đánh tiếng báo trước rằng chúng tôi sắp đến có lẽ là ý kiến hay hơn.
+À, hóa ra ông ấy đang nói về cách chúng tôi triển khai chuyện này. Mà chắc ông ấy nói cũng đúng. Nếu chúng tôi cứ thế túm gáy lôi ông ấy vào rồi đòi gặp cấp trên của họ, chắc chắn một trận ẩu đả sẽ nổ ra ngay tại chỗ. Đằng nào thì đó có lẽ cũng chỉ là hạ sách của chúng tôi, mà người ta gọi là hạ sách thì đều có lý do cả. Đánh tiếng báo trước rằng chúng tôi sắp đến có lẽ là ý hay.
 
-"Ông nói đúng. Đúng là cần phải thế thật," Augurey lên tiếng, giọng đầy vẻ lo ngại. "Chỉ có điều, tôi không chắc liệu chúng ta có tin tưởng bọn họ được hay không."
+"Ông nói đúng. Đúng là cần phải thế thật," Augurey lên tiếng, giọng lộ vẻ lo ngại. "Chỉ là, tôi không chắc liệu chúng ta có tin tưởng bọn họ được hay không."
 
-Điều đó chẳng sai chút nào. Hoàn toàn có nguy cơ nếu chúng tôi thả một trong hai kẻ đó quay về đưa tin, kết cục sẽ là cả một toán người quái dị chẳng kém gì ông lão kéo tới bủa vây, thế nên chúng tôi dĩ nhiên đâu thể cứ thế tươi cười gật đầu theo gợi ý của ông ta. Có điều xem ra ông lão cũng đã tính trước nước cờ này.
+Điều đó quả thực không sai. Hoàn toàn có khả năng nếu chúng tôi thả một trong hai kẻ đó quay về đưa tin, kết cục sẽ chỉ là một đám người quái dị chẳng kém gì ông lão kéo tới truy lùng chúng tôi, nên dĩ nhiên chúng tôi đâu thể cứ thế tươi cười gật đầu theo gợi ý của ông ấy. Tuy nhiên, xem ra ông ấy cũng đã tính trước chuyện đó rồi.
 
-"Các ngươi không tin bọn ta cũng là lẽ thường tình," ông lão bảo. "Dù vậy, chúng ta vẫn cần một người đưa tin. Liệu có yên tâm hơn chút nào không nếu các ngươi giữ một đứa lại làm con tin và cử đứa còn lại đi? Về phần mình, ta khuyên nên để Goblin đi. Ta chẳng dám chắc con bé Siren có giở trò thừa thãi gì không đâu. Thế nào, thấy sao?"
+"Các ngươi không tin bọn ta cũng là lẽ thường tình," ông lão bảo. "Dù vậy, chúng ta vẫn cần một người đưa tin. Liệu có yên tâm hơn chút nào không nếu các ngươi giữ một đứa lại làm con tin và cử đứa còn lại đi? Về phần mình, ta khuyên nên cử Goblin đi. Ta không dám chắc con bé Siren sẽ không làm chuyện thừa thãi đâu. Vậy, thấy sao?"
 
-Thú thật, chúng tôi cũng chẳng có mấy lựa chọn khả dĩ. Siren đích thị là kiểu người tự tin thái quá, lại háo danh, nên lúc nào cũng chực chờ nguy cơ cô ta sẽ bỏ mặc ông lão cùng Goblin mà cao chạy xa bay nếu chúng tôi thả cô ta ra.
+Thú thật, chúng tôi cũng chẳng có mấy lựa chọn khác. Siren đích thị thuộc kiểu người tự tin thái quá, muốn tạo dựng tên tuổi cho bản thân, nên luôn có khả năng ả sẽ bỏ mặc ông lão cùng Goblin nếu chúng tôi thả ả đi.
 
-Chẳng ai lường trước được ông lão sẽ làm gì nếu chúng tôi thả chính ông ta đi, nghĩ tới thôi đã thấy đáng sợ rồi. Còn nếu phái cả Goblin lẫn Siren đi, khéo ông ta cũng tìm cách chuồn mất dạng. Lựa chọn duy nhất còn lại là cử Goblin làm người đưa tin, đồng thời giữ ông lão cùng Siren bên mình làm con tin.
+Chẳng biết ông lão sẽ làm gì nếu chúng tôi thả chính ông ấy đi, nghĩ tới đã thấy đáng sợ rồi. Còn nếu phái cả Goblin lẫn Siren đi, khéo ông ấy sẽ nhân cơ hội mà chuồn mất. Lựa chọn duy nhất còn lại là cử Goblin làm người đưa tin và giữ ông lão cùng Siren bên mình làm con tin.
 
-"Được rồi, cứ làm vậy đi," Lorraine nói, sau khi thấy Augurey và tôi gật đầu tán thành.
+"Được rồi, cứ làm vậy đi," Lorraine nói, sau khi thấy Augurey và tôi gật đầu.
 
-"Nhưng lúc nãy ông có nhắc quay về rủi ro lắm mà. Liệu cậu ta có sao không đấy?"
+"Nhưng lúc nãy ông có nhắc chuyện quay về rủi ro thế nào mà. Liệu hắn có ổn không?"
 
-Khả năng thực chiến của Goblin thua xa ông lão một trời một vực. Nếu tình huống xấu nhất xảy ra, việc để cậu ta quay về một mình chẳng khác nào đẩy người ta vào chỗ chết.
+Trong giao chiến, Goblin yếu hơn ông lão rất, rất nhiều. Nếu tình huống xấu nhất xảy ra, để hắn quay về một mình chẳng khác nào chúng tôi gián tiếp đẩy hắn vào chỗ chết.
 
-"Chừng nào ta còn ở đây thì thằng bé sẽ bình an vô sự thôi," ông lão đáp. "Bọn họ sẽ chỉ đoán già đoán non xem liệu ta có đang toan tính mưu kế gì không. Trông vẻ ngoài thế này thôi chứ ta thuộc nhóm thiện chiến hàng đầu trong tổ chức đấy. Dĩ nhiên là với điều kiện ta được sử dụng dị năng."
+"Chừng nào ta còn ở đây, thằng bé sẽ ổn thôi," ông lão đáp. "Bọn họ sẽ chỉ thắc mắc liệu ta có đang giấu mưu tính gì hay không. Dù trông ta thế này, ta vẫn là một trong những tay thiện chiến hàng đầu trong tổ chức đấy. Tất nhiên là với điều kiện ta được dùng dị năng của mình."
 
 "Hửm? Ý ông là..."
 
-"Đâu khó để đoán ra, phải không? Bọn ta là một tổ chức của những kẻ mang dị năng, nên việc bọn ta có cách đối phó với những năng lực ấy cũng là lẽ thường tình thôi. Cậu bạn quái vật đằng kia—tên là Rentt nhỉ? Cậu cũng nên đề cao cảnh giác đi là vừa."
+"Đâu khó để suy ra, phải không? Bọn ta là một tổ chức của những người mang dị năng. Việc bọn ta có cách khắc chế những dị năng đó cũng là lẽ tự nhiên thôi. Cậu bạn quái vật đằng kia—tên là Rentt nhỉ? Cậu cũng nên đề cao cảnh giác đi là vừa."
 
-Xét đến việc ông ta đang hiểu nhầm về tôi thì lời cảnh báo này có lẽ chẳng mấy ăn nhập, song việc ông ta cất công nhắc nhở chứng tỏ con người này tuyệt nhiên không phải kẻ máu lạnh vô tình. Thậm chí nói đúng hơn, ông ta còn là kiểu người chu đáo biết lo nghĩ. Chỉ là khi đối đầu với kẻ thù thì ông ta không hề nương tay chút nào mà thôi.
+Xét đến việc ông ấy đang hiểu nhầm về tôi thì lời cảnh báo này có lẽ chẳng mấy ý nghĩa, song việc ông ấy mở lời nhắc nhở đã chứng minh rõ ràng ông ấy không phải kẻ vô tình. Nói đúng hơn, ông ấy dường như thuộc kiểu người biết quan tâm lo lắng. Chỉ là khi đối mặt với kẻ thù thì ông ấy không hề nương tay mà thôi.
 
-Bởi vậy nên tôi mới đáp, "Tôi hiểu rồi. Tôi sẽ cẩn thận. Cảm ơn ông đã nhắc nhở; ông vốn chẳng việc gì phải làm thế."
+Bởi vậy nên tôi đáp, "Tôi hiểu rồi. Tôi sẽ cẩn thận. Cảm ơn ông đã cảnh báo; ông vốn chẳng cần phải làm thế."
 
-Ông lão nhìn tôi với ánh mắt kỳ lạ. "Cậu cũng đâu việc gì phải cảm ơn ta. Bản thân cậu cũng là một kẻ kỳ quặc đấy chứ."
+Ông lão nhìn tôi với ánh mắt kỳ lạ. "Cậu cũng đâu cần phải cảm ơn ta. Bản thân cậu cũng là một kẻ kỳ quặc đấy thôi."
