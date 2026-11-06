@@ -4,7 +4,7 @@ Chúng tôi bàn bạc xem các trận đấu sẽ diễn ra theo hình thức n
 
 Sàn đấu này, cũng như sàn đấu phía trên, đều được lắp đặt ma cụ tạo ma pháp khiên chắn đủ sức chặn đứng mọi đòn công kích từ ma pháp cho tới vật lý bắn lên khán đài, nhờ thế chúng tôi có thể thoải mái so tài mà chẳng cần bận tâm chuyện đó.
 
-Ai trong tổ chức cũng vận hành được mớ thiết bị đó nên Goblin đã xung phong nhận việc. Chúng tôi cần ông lão để mắt trông chừng cả khu vực, đặng ngộ nhỡ tình hình trở nên căng thẳng, ông còn dùng dị năng ép Vaasa và Fuana phải chịu nghe lời.
+Ai trong tổ chức cũng vận hành được mớ thiết bị đó nên Goblin đã xung phong nhận việc. Chúng tôi cần ông lão để mắt trông chừng cả khu vực, để phòng khi tình hình căng thẳng, ông ấy còn dùng dị năng ép Vaasa và Fuana phải chịu nghe lời.
 
 Hai người kia thì chẳng hay biết gì về toan tính đó. Fuana lúc này đang ngồi trên khán đài, trông có vẻ rất hào hứng chờ xem trận đấu sắp tới, còn Vaasa thì đứng ngay trước mặt tôi, lăm lăm ngọn giáo thủ thế sẵn sàng.
 
@@ -14,7 +14,7 @@ Không phải tôi quá tự phụ. Nói đúng hơn, chính vì thiếu tự ti
 
 "Dùng kiếm cơ à?" Vaasa nói. "Cây kim bé tẹo thế kia mà đòi đánh gục được ông già á, đời nào."
 
-Cậu ta nói cũng chẳng sai; so với thân hình Cự Nhân khổng lồ của ông lão thì kiếm của tôi đúng là chẳng khác nào cây kim. Tùy vào chỗ đâm, khéo dùng nó châm cứu lại hợp. Tiếc là rốt cuộc tôi chỉ đánh ngất được ông ấy thôi.
+Cậu ta nói cũng chẳng sai, so với thân hình Cự Nhân khổng lồ của ông lão thì kiếm của tôi đúng là chẳng khác nào cây kim. Tùy vào chỗ đâm, khéo dùng nó châm cứu lại hợp. Tiếc là rốt cuộc tôi chỉ đánh ngất được ông ấy thôi.
 
 "Kim châm đúng chỗ vẫn đau điếng đấy chứ," tôi đáp. "Cậu muốn tự mình thử xem không?"
 
@@ -24,15 +24,15 @@ Cậu ta nói cũng chẳng sai; so với thân hình Cự Nhân khổng lồ c�
 
 Ông lão đứng giữa hai chúng tôi ở trung tâm sàn đấu làm trọng tài. "Được rồi, trận đấu chuẩn bị bắt đầu. Cả hai đã sẵn sàng chưa?"
 
-Lúc chọn trọng tài thì câu trả lời đã quá rõ ràng. Lorraine cũng làm được, nhưng đấu xong mà họ lại quay sang bảo cô thiên vị tôi thì rắc rối to.
+Lúc chọn trọng tài thì câu trả lời đã quá rõ ràng. Lorraine cũng làm được, nhưng đấu xong mà họ lại quay sang bảo cô ấy thiên vị tôi thì rắc rối to.
 
-Cứ ngỡ ông lão cũng sẽ bị nghi ngờ tương tự vì cái mác phản bội, nhưng Vaasa lại tin tưởng ông tuyệt đối, bảo rằng những chuyện thế này ông luôn chí công vô tư.
+Cứ ngỡ ông lão cũng sẽ bị nghi ngờ tương tự vì cái mác phản bội, nhưng Vaasa lại tin tưởng ông ấy tuyệt đối, bảo rằng trong những chuyện thế này ông ấy luôn hoàn toàn công bằng.
 
 Thấy tôi và Vaasa đều gật đầu, ông lão cũng gật theo, giơ cao tay lên, rồi...
 
 "Bắt đầu!"
 
-Ông dứt khoát hạ tay xuống, báo hiệu trận đấu tập chính thức bắt đầu.
+Ông ấy dứt khoát vung tay xuống, báo hiệu trận đấu tập chính thức bắt đầu.
 
 ◆◇◆◇◆
 
@@ -44,7 +44,7 @@ Tôi đã biết ma pháp chẳng mấy tác dụng với Vaasa, nhưng không d
 
 "Hử?!"
 
-Vaasa lộ rõ vẻ ngạc nhiên khi thấy tôi áp sát trong chớp mắt, à thì, có lẽ chưa tới mức chớp mắt, nhưng tôi tính thế đấy. Cậu ta vội kéo giáo về thủ sát người, sẵn sàng vung chém về phía tôi.
+Vaasa lộ rõ vẻ ngạc nhiên khi thấy tôi áp sát trong chớp mắt, à thì, có lẽ chưa tới mức chớp mắt, nhưng tôi tính thế đấy. Cậu ta vội kéo giáo về thủ sát người, chuẩn bị chém về phía tôi.
 
 Tốc độ phản xạ của cậu ta ấn tượng thật. Thấy màn làm trò ngớ ngẩn trước trận đấu tôi đâm ra có phần coi nhẹ, nhưng giờ thì phải thầm nhận lỗi và nhìn nhận lại cậu ta rồi.
 
@@ -52,25 +52,25 @@ Dĩ nhiên tôi vẫn nắm thế chủ động. Tôi lao lên tấn công thừ
 
 Bất chợt, linh cảm chẳng lành ập đến. Từ khóe mắt, tôi thoáng thấy miệng Vaasa nhếch lên thành một nụ cười. Đúng lúc ấy, tôi nhận ra có thứ gì đó đang lao thẳng vào mạn sườn trái của mình.
 
-Tôi phải nghĩ thật nhanh. Tôi né được ngọn giáo, và mũi giáo tiếp tục sượt xuống phía bên phải tôi. Trông Vaasa chẳng có vẻ gì là sẽ làm thêm trò gì khác, nhưng tôi đã đoán ra lý do cậu ta chịu cắn câu. Đó là vì dị năng của cậu ta. Quả nhiên không sai, khi liếc nhanh sang bên trái, tôi thấy mấy lưỡi dao găm sắc lẹm lấp lánh đang lao vun vút tới. Chúng phóng đi ngay khoảnh khắc tôi né ngọn giáo, và tốc độ bay cực nhanh.
+Tôi phải nghĩ thật nhanh. Tôi né được ngọn giáo, và mũi giáo tiếp tục sượt xuống phía bên phải tôi. Trông Vaasa chẳng có vẻ gì là sẽ làm thêm trò gì khác, nhưng tôi đã đoán ra lý do cậu ta chịu cắn câu. Đó là vì dị năng của cậu ta. Quả nhiên không sai, khi liếc nhanh sang bên trái, tôi thấy mấy lưỡi đao sáng loáng trông như dao găm đang lao vun vút tới. Chúng phóng đi ngay khoảnh khắc tôi né ngọn giáo, và tốc độ bay cực nhanh.
 
-Nếu Vaasa cố tình nhắm vào sơ hở lúc tôi không thể né vì bị quán tính kéo đi, thì cậu ta chẳng hề đơn giản như tôi tưởng. Hèn chi ông lão bảo cậu ta có tài và dặn không được khinh địch. Chỉ cần có thêm chút đầu óc thực tế và biết chừng mực, Vaasa thừa sức trở thành một sát thủ cừ khôi của tổ chức. Thấy cũng hơi tiếc cho cậu ta, dù tôi chẳng việc gì phải bận tâm tới cái tổ chức đó.
+Nếu Vaasa cố tình nhắm vào sơ hở lúc tôi không thể né vì bị quán tính kéo đi, thì cậu ta chẳng hề đơn giản như tôi tưởng. Hèn chi ông lão bảo cậu ta có tài và dặn không được khinh địch. Chỉ cần có thêm chút đầu óc thực tế và biết chừng mực, Vaasa thừa sức trở thành một điệp viên cừ khôi của tổ chức. Thấy cũng hơi tiếc cho cậu ta, dù tôi chẳng việc gì phải bận tâm tới cái tổ chức đó.
 
 Nhưng không vì thế mà tôi chịu đứng yên ăn đòn. Trận đấu mới mở màn thôi. Để cậu ta đánh trúng đòn đầu coi như dâng quyền chủ động vào tay đối phương, đời nào tôi chịu thế. Cơ mà lúc này dùng Phân Liệt thì lại chưa tiện.
 
-Tôi buộc phải né mấy con dao găm đó bằng mọi giá. May mà việc không còn là người cho tôi thêm nhiều lựa chọn. Mọi khớp xương trên người tôi có biên độ cử động rộng hơn người bình thường rất nhiều. Thậm chí nếu thích, tôi xoay đầu ra sau một vòng cũng được, dù chính tôi nhìn vào cũng thấy rợn tóc gáy.
+Tôi buộc phải né mấy con dao găm đó bằng mọi giá. May mà việc không còn là người cho tôi thêm nhiều lựa chọn. Mọi khớp xương trên người tôi có biên độ cử động rộng hơn người bình thường rất nhiều. Thậm chí nếu thích, tôi xoay ngược đầu ra sau cũng được, dù tự tôi cũng phải công nhận trò đó trông kinh dị chết đi được.
 
-Đâu chỉ có khớp xương, tôi còn uốn được đủ bộ phận trên cơ thể theo những cách cực kỳ dị thường. Chẳng hạn, tôi có thể gập người ra sau thành một góc vuông chuẩn chỉnh. Tận dụng triệt để độ dẻo dai ấy—ờ thì, gọi là độ quái đản có khi đúng hơn—tôi vặn người né được ba lưỡi dao găm mà giờ đã đếm rõ, vốn dĩ sẽ cắm thẳng vào đầu, ngực và bụng.
+Đâu chỉ có khớp xương, tôi còn uốn được đủ bộ phận trên cơ thể theo những cách cực kỳ dị thường. Chẳng hạn, tôi có thể gập người ra sau thành một góc vuông chuẩn chỉnh. Tận dụng triệt để độ dẻo dai ấy, ờ thì gọi là độ quái đản có khi đúng hơn, tôi vặn người né được ba lưỡi dao găm mà giờ đã đếm rõ, vốn dĩ sẽ cắm thẳng vào đầu, ngực và bụng.
 
-Nói tóm lại, tôi đã uốn mình ở một mức độ kinh người, đến mức người bình thường mà thử thì cột sống gãy làm đôi là cái chắc. Và công sức bỏ ra không hề uổng phí: mấy con dao găm cứ thế bay thẳng sượt qua tôi.
+Nói tóm lại, tôi đã uốn mình ở một mức độ kinh người, đến mức người bình thường mà thử thì cột sống gãy vụn thành từng mảnh là cái chắc. Và công sức bỏ ra không hề uổng phí: mấy con dao găm cứ thế bay thẳng sượt qua tôi.
 
-Trước động tác phi nhân loại của tôi, Vaasa chết trân mất một lúc rồi mới lắp bắp thành tiếng. "Cái—? Cái quái gì thế này?!"
+Trước những cử động quái dị chẳng giống con người của tôi, Vaasa chết trân mất một lúc rồi mới lắp bắp thành tiếng. "Cái—? Cái quái gì thế này?!"
 
 Cậu ta phản ứng thế cũng phải. Hồi còn là con người mà thấy ai cử động kiểu đó, dám tôi cũng phản ứng y chang, từ nét mặt cho tới lời thốt ra. Nhưng giờ tôi biết tỏng mình làm được trò này, nên thấy cũng thường thôi.
 
 Vaasa đực mặt ra vì sốc trong chớp mắt, biến cậu ta thành mục tiêu không thể tuyệt vời hơn. Từ tư thế này, mũi kiếm của tôi chỉ cách mặt đất một khoảng ngắn, và tôi vung thốc lên chém về phía cậu ta.
 
-Để dễ hình dung cảnh tượng lúc đó, tôi đang ngửa rạp người ra sau gần như thành hình cây cầu kiều, tay phải vung kiếm chém ngược từ dưới lên. Một đòn đánh bất khả thi với người bình thường, nhưng với tôi lại dễ như bỡn. Dù sao tôi cũng đã thử nghiệm chán chê xem cơ thể này làm được tới đâu rồi. Tôi thậm chí còn tập dượt trước đúng tình huống này, vì nghĩ đối thủ là con người sẽ để lộ nhiều sơ hở từ phía dưới.
+Để dễ hình dung cảnh tượng lúc đó, tôi đang ngửa rạp người ra sau gần như ở tư thế uốn cầu, tay phải vung kiếm chém ngược từ dưới lên. Một đòn đánh bất khả thi với người bình thường, nhưng với tôi lại dễ như bỡn. Dù sao tôi cũng đã thử nghiệm chán chê xem cơ thể này làm được tới đâu rồi. Tôi thậm chí còn tập dượt trước đúng tình huống này, vì nghĩ đối thủ là con người sẽ để lộ nhiều sơ hở từ phía dưới.
 
 Ngặt nỗi, vì trụ không vững nên tôi khó lòng phát lực mạnh vào đường kiếm. Dù vậy, tôi có thể bù đắp bằng cách cường hóa thể chất hai cánh tay và rót Khí Lực vào thân kiếm. Tựu trung lại, đây là đòn đánh kết hợp hoàn hảo giữa cơ thể dị thường và nỗ lực rèn luyện của tôi. Chắc trên đời này chẳng mấy ai từng nếm phải một nhát kiếm quái gở đến thế.
 
@@ -80,19 +80,19 @@ Ngặt nỗi, vì trụ không vững nên tôi khó lòng phát lực mạnh v�
 
 Tôi toan lao lên truy kích... nhưng rồi gạt phắt ý nghĩ đó đi. Mấy con dao găm ban nãy đã biến mất. Vaasa hẳn đang chờ tôi xông thẳng tới để chớp thời cơ phản kích.
 
-Vả lại, tôi cũng cần khoảng lặng ngắn này để chỉnh lại thế đứng. Tôi nhổm dậy khỏi tư thế cầu kiều, trở về bộ pháp ban đầu. Vaasa đáp xuống cách một quãng khá xa rồi lập tức vào lại thế thủ. Khá đấy chứ, căn bản của cậu ta rất vững. Có điều, tôi thấy rõ vẻ bàng hoàng trong mắt đối phương.
+Vả lại, tôi cũng cần khoảng lặng ngắn này để chỉnh lại thế đứng. Tôi nhổm dậy khỏi tư thế uốn cầu, trở về thế đứng ban đầu. Vaasa đáp xuống cách một quãng khá xa rồi lập tức vào lại thế thủ. Khá đấy chứ, căn bản của cậu ta rất vững. Có điều, tôi thấy rõ vẻ bàng hoàng trong mắt đối phương.
 
 Khoan, không phải, là kinh khiếp mới đúng. Thôi nào, có cần phải nhìn tôi như thế không chứ?
 
 ◆◇◆◇◆
 
-"Thằng nhóc đó có loại dị năng gì vậy...? Cử động... uốn éo như sâu bọ thế kia. Làm thế quái nào...?"
+"Cậu ta có loại dị năng gì vậy...? Cử động... uốn éo như sâu bọ thế kia. Làm thế quái nào...?"
 
-Ngồi cạnh Lorraine trên khán đài sàn đấu ngầm, mặt Spriggan ngẩn tò te vì kinh ngạc. Chẳng khó để đoán nguyên nhân chính là mấy động tác quái đản chẳng giống con người của Rentt.
+Ngồi cạnh Lorraine trên khán đài sàn đấu ngầm, vẻ mặt Spriggan ngơ ngác đầy sửng sốt. Chẳng khó để đoán nguyên nhân chính là mấy động tác quái đản chẳng giống con người của Rentt.
 
 Thế nhưng Lorraine chẳng biết phải trả lời thế nào. Cô thừa biết đáp án, đương nhiên rồi. Đơn giản thôi: Rentt Faina đâu phải con người. Vì thế, anh mới làm được những động tác vượt ngoài khả năng con người. Bài toán kết thúc, đã chứng minh xong.
 
-Cô cũng muốn nói toạc ra cho xong, nhưng biết là không thể. Ông lão chịu hợp tác thế này là vì tưởng nhầm Rentt là kẻ sở hữu dị năng. Quan trọng hơn cả, sự thật Rentt là quái vật càng ít người biết càng tốt. Dù nói đi cũng phải nói lại, số người biết chuyện giờ cũng kha khá rồi, nhưng không ai trong số họ là kiểu bép xép làm lộ bí mật. Về điểm này trông ông lão cũng có vẻ đáng tin, ngặt nỗi ông lại thuộc tổ chức thù địch, nên cô quyết không thể hé răng.
+Cô cũng muốn nói toạc ra cho xong, nhưng biết là không thể. Ông lão chịu hợp tác thế này là vì tưởng nhầm Rentt là kẻ sở hữu dị năng. Quan trọng hơn cả, sự thật Rentt là quái vật càng ít người biết càng tốt. Dù nói đi cũng phải nói lại, số người biết chuyện giờ cũng kha khá rồi, nhưng không ai trong số họ là kiểu bép xép làm lộ bí mật. Về điểm này trông ông lão cũng có vẻ đáng tin, ngặt nỗi ông lại thuộc tổ chức thù địch, nên cô quyết không thể tiết lộ với ông.
 
 "Chính tôi cũng chưa dám chắc," cô nói. "Tôi đã thử nghiên cứu theo nhiều hướng, nhưng chuyện này dường như khó mà đúc kết trong đôi ba câu."
 
@@ -120,7 +120,7 @@ Xem chừng ông lão đã tự tìm được lời giải thích hợp lý cho 
 
 "Thế mà Vaasa lại..."
 
-"Lại mất, đúng thế. Theo ta nghĩ thì đây là vấn đề về mặt định kiến tâm lý. Dị năng của cậu ta không hề biến mất; chỉ là trong tiềm thức, cậu ta đinh ninh dùng vũ khí kim loại tấn công là mạnh nhất, thành ra rốt cuộc chẳng làm được trò gì khác. Cũng giống như một kẻ nếu tận đáy lòng cứ đinh ninh mình không thể trèo lên chỗ cao thì sẽ mãi mãi chẳng trèo lên nổi."
+"Lại mất, đúng thế. Cá nhân ta nghĩ đây là vấn đề về mặt nhận thức. Dị năng của cậu ta không hề biến mất, chỉ là trong tiềm thức, cậu ta cứ tin rằng dùng vũ khí kim loại tấn công là mạnh nhất, thành ra rốt cuộc chẳng làm được trò gì khác. Cũng giống như một người nếu tận đáy lòng cứ đinh ninh mình không thể trèo lên chỗ cao thì sẽ thực sự chẳng tài nào trèo lên nổi."
 
 "Ý ông là nhận thức của chính bản thân người đó ảnh hưởng rất lớn đến dị năng của họ à?"
 
@@ -134,11 +134,11 @@ Vaasa hãm được đà sau cú đánh văng của Rentt và lập tức vào l
 
 "N-Này! Trò gì thế hả?! Người ngợm anh là cái giống gì vậy?!"
 
-Vaasa nhìn tôi trân trân như thể thấy một sinh vật quái dị chưa từng gặp bao giờ. Khác hẳn cái vẻ hăng máu lúc nãy, và dù mới gặp cậu ta hôm nay, tôi vẫn cảm thấy thằng nhóc này đang mất hết cả phong độ thường ngày.
+Vaasa nhìn tôi trân trân như thể thấy một sinh vật quái dị chưa từng gặp bao giờ. Khác hẳn cái vẻ hăng máu lúc nãy, và dù mới gặp cậu ta hôm nay, tôi vẫn có cảm giác như cậu ta đang đánh mất chính mình vậy.
 
 "Giống gì cơ?" tôi đáp. "Thế này này."
 
-Tôi vặn thử mấy khớp xương khắp người cho cậu ta xem, kể cả khớp cổ, tôi ngoẹo đầu hẳn ra sau 180 độ. Hừm. Nhìn mọi thứ từ góc độ này đúng là kỳ quặc thật, nhưng không có nghĩa là tôi mất cảnh giác; các giác quan của tôi vẫn tập trung cảm nhận nhất cử nhất động phía sau mình.
+Tôi xoay thử mấy khớp xương khắp người cho cậu ta xem, kể cả khớp cổ, vặn cho đầu quay hẳn về phía sau. Hừm. Phải tự nhận là nhìn mọi thứ từ góc độ này thấy kỳ quặc thật, nhưng không có nghĩa là tôi lơ là cảnh giác, vì mọi giác quan của tôi vẫn đang tập trung về phía sau lưng.
 
 Sau một tràng răng rắc, tôi vặn đầu lại vị trí cũ và thấy mặt Vaasa còn tái mét hơn ban nãy. Nghiêm túc đấy à? Người ta đã cất công làm mẫu tỉ mỉ cho xem rồi cơ mà... Đùa thôi, cậu ta phản ứng thế cũng phải.
 

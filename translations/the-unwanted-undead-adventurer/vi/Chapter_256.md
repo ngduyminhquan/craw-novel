@@ -2,21 +2,21 @@
 
 "Tới nơi rồi."
 
-Được Spriggan dẫn đường, chúng tôi rảo bước qua các con phố rồi dừng lại trước một công trình—nơi nổi bật thấy rõ, ngay cả so với mặt bằng chung của vương đô.
+Được Spriggan dẫn đường, chúng tôi đi bộ xuyên qua thành phố rồi dừng chân trước một tòa nhà nổi bật thấy rõ, ngay cả khi so với mặt bằng chung của vương đô.
 
-Lorraine trố mắt nhìn tòa nhà, vẻ đầy kinh ngạc. "Ông có chắc không đấy? Chẳng phải tổ chức của các ông là nơi quy tụ những kẻ mang dị năng chuyên nhận việc trong thế giới ngầm sao? Đừng bảo ông định cho chúng tôi tin đây chính là căn cứ đấy nhé..."
+Lorraine nhìn tòa nhà chằm chằm, vẻ đầy kinh ngạc. "Ông có chắc không đấy? Chẳng phải tổ chức của các ông là nơi quy tụ những người mang dị năng đặc thù, chuyên nhận các phi vụ ngầm sao? Đừng bảo ông định bắt chúng tôi tin đây là căn cứ của các ông đấy nhé..."
 
-"Ta hiểu cảm giác của cô, nhưng cứ thử nghĩ xem: ai mà ngờ được bọn ta lại ở chỗ này chứ? Người ta thường chẳng mấy bận tâm tới những thứ lù lù ngay trước mắt. Ta cá là cả hai người chưa từng thoáng nghĩ một nơi thế này lại che giấu bí mật mờ ám đến vậy."
+"Ta hiểu cảm giác của cô, nhưng cứ thử nghĩ xem: ai mà ngờ được bọn ta lại ở chỗ này chứ? Người ta thường chẳng mấy để tâm tới những thứ bày ra sờ sờ ngay trước mắt. Ta cá là cả hai người chưa từng thoáng nghĩ một nơi thế này lại che giấu bí mật mờ ám đến vậy."
 
-"Dĩ nhiên là chưa rồi," Lorraine nói. "Đúng là nó lộ liễu thật. Còn tính về diện tích chiếm đất, nơi này chắc chắn phải rộng hơn cả nhà thờ lẫn hoàng cung."
+"Dĩ nhiên là chưa rồi," Lorraine nói. "Ông nói đúng, nó bày ra sờ sờ ngay trước mắt thật. Tính riêng về diện tích mặt đất, nơi này chắc chắn phải rộng hơn cả nhà thờ lẫn hoàng cung."
 
-Lorraine nói đúng, dẫu nếu xét về chiều cao thì hoàng cung và nhà thờ ăn đứt. Có điều diện tích mặt bằng của nơi này trong thành phố quả thực rộng hơn hẳn. Tôi tự hỏi công trình nào tốn kém chi phí xây dựng hơn. Nghĩ đến công năng của nó, khoảng cách tới hoàng cung, cùng vị trí nằm tít ngoài rìa thành phố thay vì khu trung tâm, có thể đoán hoàng cung tốn nhiều tiền nhất, kế đến là nhà thờ, rồi mới tới đấu trường này.
+Lorraine nói đúng, dẫu nếu xét về chiều cao thì hoàng cung và nhà thờ ăn đứt. Có điều diện tích mặt bằng của nơi này trong thành phố quả thực rộng hơn hẳn. Tôi tự hỏi bên nào tốn kém hơn. Nghĩ đến mục đích sử dụng của tòa nhà này, khoảng cách tới hoàng cung, cùng vị trí nằm ở rìa thành phố thay vì khu trung tâm, có thể đoán hoàng cung tốn nhiều tiền nhất, kế đến là nhà thờ, rồi mới tới nơi này.
 
-"Đấu trường sao?" tôi lẩm bẩm. "Mình vẫn luôn muốn đến đây một lần, ai ngờ lần đầu tiên lại trong hoàn cảnh này..."
+"Đấu trường à?" tôi lẩm bẩm. "Trước giờ tôi vẫn luôn muốn tới thăm một nơi thế này, ai ngờ lại đến trong hoàn cảnh này..."
 
 Đúng vậy, trước mắt chúng tôi chính là một trong những công trình đồ sộ nhất khắp vương đô, Đại Đấu Trường Vistelya.
 
-Một vài thành phố tại Vương Quốc Yaaran cũng có đấu trường, nhưng nơi đây vẫn ngạo nghễ dẫn đầu về quy mô. Nơi này là điểm đến thu hút du khách bậc nhất của thành phố. Từng có vô số chiến binh dũng mãnh cùng ma pháp sư so tài tại đây qua biết bao trận thư hùng, viết nên bề dày lịch sử giải trí đầy kịch tính cho người dân Yaaran.
+Một vài thành phố tại Vương Quốc Yaaran cũng có đấu trường, nhưng nơi đây tự hào dẫn đầu về quy mô. Đây là một trong những điểm thu hút du khách bậc nhất của thành phố. Tại nơi này, vô số chiến binh dũng mãnh cùng ma pháp sư đã trải qua biết bao trận chiến, tạo nên bề dày lịch sử giải trí đầy hào hứng cho người dân Yaaran.
 
 Vé vào cửa là những thẻ bài bằng gỗ, giá rẻ đến mức một người dân quê bình thường cũng mua nổi, nhưng không phải lúc nào muốn mua là được. Đặc biệt là giải đấu lớn mỗi năm một lần quy tụ những đấu sĩ gan dạ khắp Yaaran, vé khan hiếm đến độ người ta sẵn sàng bỏ ra cả đống tiền chỉ mong kiếm được một chiếc. Thế mà phần lớn người có vé vẫn nhất quyết không chịu bán lại, đủ hiểu giải đấu này được hâm mộ đến mức nào.
 
@@ -24,7 +24,7 @@ Còn tôi thì sao? Dĩ nhiên tôi cũng muốn xem, nhưng khao khát lớn h�
 
 Chẳng cần nói cũng biết tôi chưa từng lọt vào mắt xanh của ai như vậy. Hơn nữa, tôi rất ghét cảm giác phải bỏ tiền mua vé xem giải đấu mà mình khao khát được đứng trên sàn đấu nhưng lại biết thừa bản thân không có cửa. Tôi vẫn luôn muốn, thực lòng rất muốn, lần đầu tiên mình đặt chân tới đây phải là với tư cách một đấu sĩ. Cơ mà nếu lần đầu lại diễn ra éo le thế này, thà rằng hồi trước tôi cứ dẹp bỏ tự ái rồi đi xem như một khán giả cho xong.
 
-Dù sao thì dạo này chuyện làm đấu sĩ cũng quá xa vời với tôi rồi. Lỡ đâu bị một đấu sĩ vu vơ nào đó tung đòn kỳ lạ đánh trúng, thế là ôi thôi, lộ tẩy là Ma Cà Rồng ngay! Lúc đó sẽ có cả đống người như Nive bám đuôi rình rập, mà tôi thì chẳng ham hố gì chuyện bị những kẻ như cô ấy theo dõi đâu. Một mình cô ấy thôi đã quá đủ mệt rồi, xin kiếu.
+Dù sao thì dạo này chuyện làm đấu sĩ cũng quá xa vời với tôi rồi. Lỡ đâu bị một đấu sĩ ất ơ nào đó tung chiêu kỳ lạ đánh trúng, thế là ối chà nhìn kìa, gã này là Ma Cà Rồng! Lúc đó sẽ có những người như Nive bám đuôi rình rập, mà tôi thì chẳng ham bị những người như cô ấy theo dõi chút nào. Nội một mình cô ấy thôi đã quá đủ mệt rồi, xin cảm ơn.
 
 "Sao thế, cậu chưa từng đăng ký tham gia thi đấu à?" ông lão hạ giọng hỏi. "Ta nghĩ tay nghề như cậu thì phải tiến xa lắm chứ... cơ mà cậu mới thức tỉnh dị năng gần đây. Chắc là vì thế rồi."
 
@@ -32,7 +32,7 @@ Dù sao thì dạo này chuyện làm đấu sĩ cũng quá xa vời với tôi 
 
 Có khi mò tới đây là một quyết định sai lầm rồi.
 
-Cơ mà giờ thì đâm lao đành phải theo lao thôi, tới đâu hay tới đó vậy. Xui xẻo nhất thì chúng tôi vẫn còn Laura chống lưng. Cô bé thừa sức giải quyết gọn gàng mấy chuyện cỏn con cỡ... cả Vương Quốc Yaaran này, miễn là lúc ấy cô bé không đang lăn ra ngủ.
+Cơ mà giờ thì đâm lao đành phải theo lao thôi, tới đâu hay tới đó vậy. Xui xẻo nhất thì chúng tôi vẫn còn Laura chống lưng. Cô bé thừa sức giải quyết gọn gàng mấy chuyện cỏn con cỡ... cả Vương Quốc Yaaran này, miễn là lần này cô bé không đang lăn ra ngủ.
 
 Dĩ nhiên tôi chỉ đùa thôi, nhưng cái đáng sợ ở Laura là cô bé luôn khiến người ta có cảm giác mình thực sự làm được chuyện đó. Dù vậy tôi không nghĩ cô bé sẽ làm thật đâu. Nếu có ý đó thì cô bé đã chẳng chọn cách ru rú ở tận vùng biên ải xa xôi làm gì. Nói vậy thôi, chứ nhiều khả năng cô bé ẩn cư ở đó là có mục đích sâu xa hơn.
 
@@ -40,9 +40,9 @@ Dĩ nhiên tôi chỉ đùa thôi, nhưng cái đáng sợ ở Laura là cô bé
 
 "Ô-Ồ! Mừng ngài đã trở về ạ!"
 
-Nghe ông lão kể từ trước, chúng tôi biết ông ấy giữ địa vị khá cao trong tổ chức. Lý do lớn khiến vị thủ lĩnh tin vào câu chuyện của Goblin chắc hẳn là nhờ vào uy tín và danh tiếng của Spriggan. Chứ phải vào tay người khác, mọi chuyện nhiều khả năng sẽ kết thúc bằng một câu của thủ lĩnh: "Ta không quan tâm. Cứ khử quách chúng đi cho xong." Spriggan hẳn đã lường trước khả năng đó khi cử Goblin đi.
+Nghe ông lão kể từ trước, chúng tôi biết ông ấy giữ vị trí khá cao trong tổ chức. Lý do lớn khiến vị thủ lĩnh tin vào câu chuyện của Goblin chắc hẳn là nhờ địa vị và danh tiếng của Spriggan. Trong hầu hết các tình huống khác, mọi chuyện nhiều khả năng đã kết thúc bằng một câu của thủ lĩnh: "Ta không quan tâm. Cứ khử quách chúng đi cho xong." Spriggan hẳn đã tính đến khả năng đó khi cử Goblin đi.
 
-Một lần nữa, sự già rơ của ông lão lại khiến tôi phải nể phục. May mà hiện tại đôi bên có cùng lợi ích; ông ấy chắc chắn không phải kiểu đối thủ mà chúng tôi dám lơ là. Đúng là tôi thấy ông lão khá dễ mến, bản thân ông ấy cũng toát ra vẻ đáng tin cậy khiến người khác muốn dựa dẫm, nhưng tôi biết trong những chuyện này mình phải giữ một cái đầu lạnh.
+Một lần nữa, sự già rơ của ông lão lại khiến tôi phải nể phục. May mà hiện tại đôi bên có cùng lợi ích, chứ ông ấy chắc chắn không phải kiểu kẻ địch mà chúng tôi dám lơ là cảnh giác. Đúng là tôi thấy ông lão khá dễ mến, bản thân ông ấy cũng toát ra vẻ đáng tin cậy khiến người khác muốn dựa dẫm, nhưng tôi biết trong những chuyện này mình phải giữ cái đầu lạnh.
 
 "Ừm, về được là tốt rồi," ông lão nói. "Thủ lĩnh có ở đây không? Ta tới gặp ông ấy. Các cậu nhận được tin báo rồi chứ?"
 
@@ -52,23 +52,23 @@ Một lần nữa, sự già rơ của ông lão lại khiến tôi phải nể 
 
 "Tất nhiên rồi ạ! Mời ngài vào trong!"
 
-Ông lão ngoắc tay ra hiệu bảo chúng tôi đi theo. Đáng ngạc nhiên là hai người lính gác không hề nhìn chúng tôi với ánh mắt ngờ vực. Thậm chí dường như họ chẳng buồn để tâm tới chúng tôi. Tôi đoán là họ chẳng nắm được tình hình bên trong. Trông họ không giống những kẻ do đích thân Spriggan chiêu mộ, nhưng qua ánh mắt gật đầu chào Goblin, rõ ràng họ là người của tổ chức.
+Ông lão ngoắc tay ra hiệu bảo đi theo, nên chúng tôi bước theo ông ấy. Đáng ngạc nhiên là hai người lính gác không hề nhìn chúng tôi với ánh mắt ngờ vực. Thậm chí dường như họ chẳng buồn để tâm tới chúng tôi. Tôi đoán là họ không nằm trong diện biết chuyện nội bộ. Trông họ không giống những người do đích thân Spriggan chiêu mộ, nhưng qua ánh mắt chào hỏi hướng về phía Goblin, rõ ràng họ là thành viên của tổ chức.
 
 ◆◇◆◇◆
 
 "Này, ông già..." Giọng Goblin có vẻ căng thẳng khi cả nhóm cất bước.
 
-Ông lão—Spriggan thở dài. "Ta biết rồi. Thủ lĩnh sẽ không ở dưới hầm đâu."
+Ông lão, tức Spriggan, khẽ thở dài. "Ta biết rồi. Thủ lĩnh sẽ không ở dưới hầm đâu."
 
 Lorraine và tôi nhìn ông ấy với vẻ dò hỏi. Dù sao mục đích chúng tôi tới đây cũng là để gặp thủ lĩnh của họ.
 
-"Hai đứa ở lối vào," Spriggan giải thích. "Chúng nó vừa nhắc tới Vaasa."
+"Hai gã ở lối vào ấy," Spriggan giải thích. "Họ vừa nhắc tới Vaasa."
 
 "Đó là một thành viên trong tổ chức của ông, đúng chứ?" tôi hỏi. "Chẳng phải thế nghĩa là tin báo của chúng ta đã tới nơi rồi sao?"
 
-Ông lão gật đầu. "Đúng thế. Nhưng Vaasa lại là... một trong những đứa do đích thân ta chiêu mộ, và..."
+Ông lão gật đầu. "Đúng thế. Nhưng Vaasa lại là... một trong những người do đích thân ta chiêu mộ, và..."
 
-"Và gã chính là kẻ hôm nọ gây sự đánh tôi đấy," Goblin nói đỡ lời cho ông lão.
+"Và gã chính là kẻ hôm nọ gây sự đánh nhau với tôi đấy," Goblin nói tiếp lời ông lão.
 
 Cả Lorraine lẫn tôi đều hiểu ngay mối lo của ông lão và Goblin.
 
@@ -92,7 +92,7 @@ Có người sẽ nghĩ đã vào tận đây rồi thì giữ dây trói làm g
 
 Giọng ông lão có phần hơi đùa cợt, nhưng ông ấy nói đúng ở chỗ chúng tôi phải đưa ra lựa chọn. Lorraine và tôi nhìn nhau đầy trầm ngâm.
 
-"Anh nghĩ sao?" cô hỏi.
+"Anh nghĩ sao?" cô ấy hỏi.
 
 "Tôi thấy bước chân vào mấy chỗ nguy hiểm thế này thì chưa bao giờ gặp điều gì tốt lành cả."
 
@@ -118,7 +118,7 @@ Goblin gật đầu. "Thật đấy. Trông tôi thế này thôi chứ trong t�
 
 "Nghĩa là gã Vaasa này chẳng hề chuộng hòa bình, thuộc diện tấn công, nghĩ mình có cơ hội thắng, và thế là thích đi gây sự à?" Lorraine nửa đùa nửa thật hỏi.
 
-Tôi thầm đảo mắt trước màn tóm tắt cợt nhả của cô, nhưng tính Lorraine xưa nay vốn thế rồi.
+Tôi thầm đảo mắt trước lời tóm tắt tưng tửng của cô ấy, nhưng tính Lorraine xưa nay vốn thế rồi.
 
 Ông lão gật đầu, thản nhiên đón nhận: "Chuẩn là gã rồi. Có điều cái tính ấy cũng khiến gã biết điều hơn hẳn một khi nếm mùi thất bại."
 
@@ -146,7 +146,7 @@ Lorraine gật đầu. "Đúng thế. Vốn có những người bẩm sinh sở
 
 "Chuẩn là vậy," Lorraine đáp. "Nhưng không có nghĩa chúng ta hết cách. Hơn nữa, kháng ma pháp thì kháng luôn cả ma pháp trị liệu. Hừm. Nếu thế thì tôi cho rằng xử lý gã trước hóa ra lại là quyết định sáng suốt nhất."
 
-"Sao lại... Ồ, hiểu rồi. Cô nói chí phải." Tôi nhanh chóng bắt kịp ý cô.
+"Sao lại... Ồ, hiểu rồi. Cô nói chí phải." Tôi nhanh chóng bắt kịp ý cô ấy.
 
 "Nếu chúng ta nện cho gã một trận," Lorraine nói, "gã sẽ phải nằm yên một chỗ mà không gượng dậy nổi."
 
@@ -160,25 +160,25 @@ Nghe chí lý đến không thể chối cãi.
 
 "Thế à? Vậy nếu phải đặt cho gã một mật danh, ông sẽ gọi gã là gì?"
 
-"Cô không cần phải hỏi vòng vo thế đâu. Đâu phải tới nước này ta lại đột nhiên tự ái hay tức giận vì chuyện bán đứng đồng minh chứ. Vả lại, các cậu nện cho Vaasa một trận cũng có lợi cho bọn ta mà."
+"Cô không cần phải hỏi vòng vo thế đâu. Đâu phải tới nước này ta lại đột nhiên nổi đóa vì chuyện chỉ điểm đồng bọn chứ. Vả lại, các cậu nện cho Vaasa một trận cũng có lợi cho bọn ta mà."
 
-"Hóa ra là tôi lo thừa rồi. Tôi cứ tưởng hỏi khéo như thế thì lỡ sau này có bị ai tra hỏi, ông vẫn có cớ để chối là mình không hề bán đứng đồng minh chứ."
+"Hóa ra là tôi lo thừa rồi. Tôi cứ tưởng hỏi khéo như thế thì lỡ sau này có bị ai buộc tội, ông vẫn vừa vặn chối được là mình không bán đứng đồng bọn chứ."
 
-Ý Lorraine muốn nhắm tới là việc mật danh nội bộ của tổ chức vốn đã lù lù nói lên dị năng của người sở hữu. Nếu lách theo hướng đó, ông lão hoàn toàn có thể thoái thác rằng: "Đâu có, ta chỉ nói cho họ biết tên của gã thôi mà!"
+Ý Lorraine muốn nhắm tới là việc mật danh nội bộ của tổ chức vốn đã lù lù nói lên dị năng của người sở hữu. Nghĩ theo hướng đó, có lẽ vẫn có một khoảng mờ để ông lão thoái thác rằng: "Đâu có, ta chỉ nói cho họ biết tên của gã thôi mà!"
 
-Quả thực, tôi tin chắc ông lão thừa sức lái câu chuyện sao cho nghe như thể ông ấy chẳng hé răng nửa lời nào ngoài cái tên của Vaasa. Còn bản thân Vaasa nghe qua có vẻ là người thẳng ruột ngựa—nói trắng ra là đầu óc đơn giản, nếu tôi có hơi khó tính một chút.
+Quả thực, tôi tin chắc ông lão thừa sức lái câu chuyện sao cho nghe như thể ông ấy chẳng tiết lộ điều gì khác ngoài cái tên của Vaasa. Còn bản thân Vaasa nghe qua có vẻ là kiểu người thẳng tuột, hay nói trắng ra là đầu óc đơn giản, nếu tôi nhận xét hơi khắt khe một chút.
 
 "Ta ghi nhận lòng tốt đó, nhưng không sao đâu," ông lão nói. "Giờ thì, về dị năng của Vaasa..."
 
-Ông lão kể tường tận cho chúng tôi nghe về dị năng của Vaasa, từ điểm yếu cho tới các biện pháp đối phó. Ông ấy nói cặn kẽ đến mức tôi cảm giác chẳng còn sót lại điều gì, nhưng nói đi cũng phải nói lại, tôi không thể tin răm rắp vào lời ông ấy được. Một phần vì bản tính của ông lão, nhưng phần khác là bởi trong thực chiến, có rất nhiều thứ nếu không tự mình nếm trải thì không tài nào hiểu thấu. Cứ chủ quan lao vào trận đánh chỉ vì nắm trong tay đủ thông tin, người ta sẽ ngã ngựa vào lúc ít ngờ tới nhất.
+Ông lão kể tường tận cho chúng tôi nghe về dị năng của Vaasa, từ điểm yếu cho tới các biện pháp đối phó. Ông ấy nói cặn kẽ đến mức tôi cảm giác chẳng còn sót lại điều gì, nhưng nói đi cũng phải nói lại, tôi không thể tin răm rắp vào lời ông ấy được. Một phần vì con người ông lão, nhưng phần khác là bởi trong thực chiến, có rất nhiều thứ nếu không tự mình nếm trải thì không tài nào hiểu thấu. Cứ chủ quan lao vào trận đánh chỉ vì nắm trong tay đủ thông tin, người ta sẽ sẩy chân vào lúc ít ngờ tới nhất.
 
-Đó cũng chính là bài học nhãn tiền của nhóm ông lão khi tìm cách đối phó với chúng tôi. Ai mà ngờ được một gã mạo hiểm giả Đồng Cấp ngỡ là mắt xích yếu nhất lại thực chất là một con quái vật dị thường, trúng bao nhiêu đòn cũng vẫn bò dậy được.
+Đó cũng chính là bài học nhãn tiền của nhóm ông lão khi tìm cách đối phó với chúng tôi. Ai mà ngờ được một gã mạo hiểm giả Đồng Cấp ngỡ là mắt xích yếu nhất lại thực chất là một con quái vật vượt ngoài lẽ thường, trúng đòn cỡ nào cũng vẫn bò dậy được.
 
-Dẫu những chuyện quái đản như thế chẳng mấy khi xảy ra, nhưng không thể phủ nhận thế giới này vốn dĩ được dệt nên từ vô vàn sự trùng hợp đến rợn người như vậy. Bản thân tôi chính là minh chứng sống: có nằm mơ tôi cũng chưa từng nghĩ mình lại rơi vào cảnh sống dở chết dở với một thân xác thế này. Lơ là cảnh giác thì chỉ tổ rước họa vào thân.
+Dẫu sẽ thật kinh hãi nếu những chuyện như thế xảy ra thường xuyên, nhưng không thể phủ nhận thế giới này suy cho cùng lại được tạo nên từ những sự trùng hợp rợn tóc gáy chồng chất lên nhau như vậy. Bản thân tôi chính là bằng chứng cho điều đó: có nằm mơ tôi cũng chưa từng nghĩ mình lại kết thúc với một thân xác thế này. Lơ là cảnh giác thì chỉ tổ rước họa vào thân.
 
 Lorraine gật đầu. "Tôi nắm được rồi, cảm ơn ông đã giải thích. Anh nghe rõ hết rồi chứ, Rentt?"
 
-Tôi là người sẽ giáp mặt với Vaasa, nên thông tin này quan trọng với tôi nhất. Dĩ nhiên là tôi đã nuốt từng lời, liền gật đầu đáp lại.
+Tôi là người sẽ giáp mặt với Vaasa, nên thông tin này quan trọng với tôi nhất. Dĩ nhiên là tôi đã chú tâm lắng nghe từng lời, liền gật đầu đáp lại.
 
 Ông lão tiếp tục: "Ngoài Vaasa ra, những thành viên khác chắc cũng đang quanh quẩn đâu đó trong căn cứ này. Ta sẽ kể cho các cậu nghe về dị năng của họ, nhất là người nhiều khả năng sẽ nhắm vào cô đấy, Lorraine. Goblin, cậu có kể với bọn họ chuyện Lorraine dùng ma pháp làm ta bị thương không?"
 
@@ -186,27 +186,27 @@ Tôi là người sẽ giáp mặt với Vaasa, nên thông tin này quan trọn
 
 "Tôi chỉ dùng mấy phép cổ đại mà mình nghiên cứu lúc rảnh rỗi thôi," Lorraine đáp. "Chúng bắt nguồn từ những bản thảo cổ tôi tìm được. Dù thất lạc khá nhiều phần, tôi vẫn xoay xở chắp vá lại được. Sau này tôi định tổng hợp cách thức thi triển, cấu trúc và đặc tính của chúng thành một cuốn sách để bán cho hội ma pháp sư. Cơ mà hiện tại không có nhiều người biết đến các phép này, dù không phải hoàn toàn không có ai. Chỉ là giới ma pháp sư chúng tôi thường khá kín tiếng về thành quả nghiên cứu của mình thôi."
 
-Chuyện đó đáng ngạc nhiên đến mức... mà thực ra thì chẳng có gì đáng ngạc nhiên cả. Việc Lorraine tùy tiện tung ra mấy phép thuật kỳ quặc bất cứ lúc nào vốn là phong cách quen thuộc của cô rồi. Tôi thấy cô ấy khá liều lĩnh, nhưng nói đi cũng phải nói lại, ma pháp trên đời này nhiều không xuể. Vô số phép thuật chắc hẳn đã thất truyền do không có ai kế thừa từ người sáng tạo. Lắm pháp sư giữ kín bí quyết cho riêng mình như lời Lorraine vừa bảo, nhưng đôi khi đơn giản chỉ là vì những phép đó chẳng có tích sự gì, thành ra chẳng ai buồn học.
+Chuyện đó đáng ngạc nhiên đến mức... mà thực ra thì chẳng có gì đáng ngạc nhiên cả. Việc Lorraine tùy tiện tung ra mấy phép thuật kỳ quặc bất cứ lúc nào vốn là phong cách quen thuộc của cô ấy rồi. Tôi thấy cô ấy khá liều lĩnh, nhưng nói đi cũng phải nói lại, ma pháp trên đời này nhiều không xuể. Vô số phép thuật chắc hẳn đã thất truyền do không có ai kế thừa từ người sáng tạo. Lắm pháp sư giữ kín bí quyết cho riêng mình như lời Lorraine vừa bảo, nhưng đôi khi đơn giản chỉ là vì những phép đó chẳng có tích sự gì, thành ra chẳng ai buồn học.
 
 Nếu được ghi chép lại, hậu thế có thể lần theo manh mối để khôi phục như cách Lorraine đã làm, nhưng tôi e chuyện đó chẳng mấy khi xảy ra. Trừ khi một ma pháp thực sự hữu dụng, bằng không số phận của nó sẽ là chìm dần vào quên lãng, khiến người đời sau hoài nghi liệu nó có từng thực sự tồn tại hay không.
 
-Lorraine lại hơi bị ám ảnh bởi những thứ như thế. Một khi đã tò mò thì nó có ích hay không chẳng thành vấn đề—cô thuộc tuýp người sẽ lập tức lao vào nghiên cứu với mục tiêu dùng được mới thôi. Có khi tìm thấy mấy bản thảo cổ đó rơi vào tay cô lại là điều may mắn.
+Lorraine lại hơi bị ám ảnh bởi những thứ như thế. Một khi đã tò mò thì nó có ích hay không chẳng thành vấn đề, cô ấy thuộc tuýp người sẽ lập tức bắt tay vào nghiên cứu với mục tiêu mang ra sử dụng được mới thôi. Có khi việc mấy bản thảo cổ đó rơi vào tay cô ấy lại là điều may mắn.
 
 "Ma pháp cổ đại à..." Goblin nói. "Chà, đâu phải không có ai dùng. Bên mình cũng có một người dùng được mà, đúng không ông già?"
 
 "Ý cậu là Fuana à? Ta thấy cậu nói cũng đúng. Nhưng con bé xưa nay đâu phải đứa dễ nổi nóng nhỉ?"
 
-"Bình thường thì không, nhưng hễ đụng tới ma pháp là khác hẳn... Có lần tôi hỏi cô nàng về một phép dùng độc cho một phi vụ, thế là cô nàng lải nhải thủng tai tôi suốt cả đêm. Không phải cô nàng nổi giận đâu nhé. Nhưng khi tôi bảo thôi đi, cô nàng nhất quyết không chịu dừng lại vì bảo vẫn chưa nói xong, còn bảo kiến thức chắp vá nửa vời sẽ chỉ hại tôi mà thôi."
+"Bình thường thì không, nhưng hễ đụng tới ma pháp là khác hẳn... Có lần tôi hỏi cô ta về một phép dùng độc cho một phi vụ, thế là cô nàng nói thao thao bất tuyệt suốt cả đêm làm tôi muốn thủng cả màng nhĩ. Không phải cô ta nổi giận gì đâu nhé. Nhưng khi tôi bảo thôi đi, cô ta nhất quyết không chịu dừng vì bảo vẫn chưa nói xong, rằng kiến thức chắp vá nửa vời sẽ chỉ hại tôi mà thôi."
 
-Lorraine tỏ vẻ tâm đắc: "Nghe chừng tôi với cô ấy sẽ hợp tính nhau đấy. Dù tôi không chắc mình đủ kiên nhẫn giảng giải thâu đêm suốt sáng như thế. Tôi thích lập một lộ trình học tập bài bản để bám sát hơn, kèm theo các bài kiểm tra định kỳ xem đối phương đã nắm vững kiến thức chưa, và chỉ khi đạt yêu cầu tôi mới chịu tha."
+Lorraine tỏ vẻ tâm đắc: "Nghe chừng tôi với cô ấy sẽ hợp tính nhau đấy. Dù tôi không chắc mình đủ kiên nhẫn giảng giải thâu đêm suốt sáng như thế. Tôi thích lập một lộ trình học tập bài bản để bám sát hơn, kèm theo các bài kiểm tra định kỳ xem anh đã nắm vững kiến thức tới mức yêu cầu chưa, và chỉ khi đạt yêu cầu tôi mới chịu tha cho anh."
 
-Goblin nhìn Lorraine bằng ánh mắt nửa kinh ngạc nửa khiếp hãi: "Ông già này, tôi thấy cô ấy hợp với Fuana thật đấy. Mong là hai người họ không lao vào choảng nhau, tôi chẳng muốn chứng kiến cảnh đó đâu. Ý tôi là, tôi biết chuyện đó sẽ giúp đỡ cho bọn mình. Cơ mà... thôi xin can."
+Goblin nhìn Lorraine bằng ánh mắt nửa kinh ngạc nửa khiếp hãi: "Ông già này, tôi thấy cô ấy hợp với Fuana thật đấy. Mong là hai người họ không lao vào choảng nhau, tôi chẳng muốn chứng kiến cảnh đó đâu. Ý tôi là, tôi biết chuyện đó sẽ giúp mọi việc bên mình dễ thở hơn. Cơ mà... thôi xin can."
 
 "Ta hiểu ý cậu, cơ mà... hừm, khó nói lắm," ông lão bảo.
 
 "Fuana vốn rất tự tin về khoản ma pháp. Vả lại..."
 
-"Phải rồi, cô nàng bám ông dữ lắm. Tôi đoán phen này khó tránh một trận rồi."
+"Phải rồi, cô ta bám ông dữ lắm. Tôi đoán phen này khó tránh một trận rồi."
 
 "Ta e là vậy. Lorraine, tốt nhất cô nên chuẩn bị tinh thần đi. Đương nhiên ta cũng sẽ kể cho cô nghe về dị năng của Fuana, nên cứ cố hết sức nhé. Bọn ta thì chỉ việc... ngồi khoanh tay thưởng thức màn kịch hay thôi."
 
