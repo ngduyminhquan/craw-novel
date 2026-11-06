@@ -30,7 +30,7 @@ Dẫu vậy, cũng chẳng phải ai trong chúng tôi sẽ suy sụp nếu có 
 
 "Đúng thế. Thật ra trên người chúng cũng còn vài thứ lấy được," Lorraine tiếp lời, "nhưng ở vương đô thì chắc chẳng ai cần. Tôi không nghĩ là bán nổi đâu, thôi thì để tôi thiêu luôn cho rồi."
 
-Lorraine cất giọng niệm chú, thiêu rụi đống xác Hobgoblin thành tro tàn. Nếu ở giữa rừng sâu thì cứ mặc kệ xác đó cho tự rữa cũng xong, nhưng đây lại nằm ngay sát đường cái. Để mùi xác chết dẫn dụ quái vật khác bu tới thì rắc rối to. Có khi mọi chuyện còn trượt dài đến mức những con quái vật mạnh hơn nữa lại kéo đến săn chính lũ quái vật bị mùi xác thu hút. Đến nước ấy thì con đường sẽ bị phong tỏa cho tới khi dọn sạch bóng quái vật mới thôi. Chẳng ai muốn chuốc lấy phiền phức như vậy, nên hễ thấy quái vật xuất hiện ven đường lớn, việc xử lý xác càng sớm càng tốt đã thành thông lệ.
+Lorraine cất giọng niệm chú, thiêu rụi đống xác Hobgoblin thành tro tàn. Nếu ở giữa rừng sâu thì cứ vứt xác lại đó cho tự phân hủy cũng được, nhưng đây lại nằm ngay sát đường cái. Để mùi xác chết dẫn dụ quái vật khác bu tới thì rắc rối to. Có khi mọi chuyện còn trượt dài đến mức những con quái vật mạnh hơn nữa lại kéo đến săn chính lũ quái vật bị mùi xác thu hút. Đến nước ấy thì con đường sẽ bị phong tỏa cho tới khi dọn sạch bóng quái vật mới thôi. Chẳng ai muốn chuốc lấy phiền phức như vậy, nên hễ thấy quái vật xuất hiện ven đường lớn, việc xử lý xác càng sớm càng tốt đã thành thông lệ.
 
 Dù trong nhóm không ai biết dùng ma pháp thì hầu như mạo hiểm giả nào cũng có cách nhóm lửa. Còn nếu không thể đốt xác thì đành phải khiêng ra xa đường rồi đào hố chôn. Tuy mất công mất sức, nhưng vẫn hơn là ngồi chờ rắc rối ập đến.
 
@@ -42,7 +42,7 @@ Có vẻ Lorraine cũng đang nghĩ như vậy, bởi chỉ một thoáng sau, c
 
 "Có thể là thế, mà cũng có thể không. Biết đâu đây lại là mầm mống cho biến cố tồi tệ hơn nhiều. Mỗi khi Vua Goblin sắp ra đời, mọi sự thường mở màn bằng những trận xung đột lẻ tẻ giữa các bầy Goblin với nhau. Đã có không ít vụ việc thoạt nhìn chỉ như va chạm nhỏ nhặt giữa lũ Goblin, rốt cuộc lại chính là dấu hiệu báo trước sự xuất hiện của Vua Goblin đấy."
 
-Cô ấy nói chẳng sai, có điều lại đang suy diễn sang thái cực đối lập mất rồi.
+Cô ấy nói chẳng sai, có điều lại đang lo xa sang tận thái cực bên kia mất rồi.
 
 Augurey nhún vai. "Ngồi bàn chuyện này cả ngày cũng chẳng hết. Thảm họa lớn đến đâu thì trước đó cũng có những dấu hiệu nhỏ báo trước, nhưng nếu cứ thấy chút dấu hiệu của mối nguy tiềm tàng nào cũng đuổi theo điều tra thì chẳng mấy chốc sẽ thiếu người trầm trọng mất."
 
@@ -134,7 +134,7 @@ Chẳng bao lâu sau, dự đoán của Augurey đã thành sự thật.
 
 Cả ba chúng tôi đều gật đầu.
 
-"Không sao đâu bác. Cơ mà bác có biết chỗ này là chỗ nào không?" tôi hỏi.
+"Không sao đâu bác. Nhưng bác có biết chỗ này là đâu không?" tôi hỏi.
 
 "Đến nước này thì tôi cũng chẳng dám chắc nữa. Khổ quá, nhưng nếu quay xe lại thì chắc không sao đâu. À, còn tiền xe thì tôi xin gửi lại vì lỗi lạc đường là do tôi. Nhưng tôi bảo đảm nhất định sẽ đưa các vị tới nơi tới chốn!"
 

@@ -14,7 +14,7 @@ Lorraine lên tiếng tiếp lời người đánh xe trong khi tôi còn đang 
 
 Thực chất là chúng tôi muốn có người để mắt canh chừng gã. Đó là một đề nghị hoàn toàn hợp lý, vả lại suốt dọc đường chúng tôi vẫn luôn giữ thói quen này.
 
-Thế nhưng lần này, Yattul lại mượn cớ người mở lời là Lorraine để thoái thác. "Không được, không được đâu! Ai lại để một quý cô đi cùng mình bao giờ! Thế thì tôi căng thẳng đến chẳng giải quyết nổi mất!" gã nói rồi nhảy tót xuống xe trước khi bất kỳ ai khác, ý tôi là Augurey, kịp chen vào lấy nửa lời.
+Thế nhưng lần này, Yattul lại mượn cớ người mở lời là Lorraine để thoái thác. "Không được, không được đâu! Ai lại để một quý cô đi cùng mình bao giờ! Thế thì tôi căng thẳng đến chẳng giải quyết nổi mất!" gã nói rồi nhảy tót xuống xe trước khi người còn lại — ý tôi là Augurey — kịp chen vào nửa lời.
 
 Nếu chúng tôi là một bọn cả tin, hẳn đã tin ngay rằng gã chỉ đi giải quyết nỗi buồn như đã nói, dẫu nếu thực sự là vậy thì có Augurey đi kèm sẽ an toàn hơn nhiều. Yattul đã tính toán thời điểm lên tiếng rất khôn khéo: canh lúc tôi đang vờ ngủ rồi nói thẳng với Lorraine để cô ấy tự khắc đứng ra nhận việc hộ tống. Biết đâu gã còn chuẩn bị sẵn một cái cớ khác nếu nước cờ đó không thành.
 
@@ -82,7 +82,7 @@ Yattul vẫn chưa quay lại, nhưng tôi nhận thấy Cách Âm Kết Giới 
 
 Tôi trả lời: "Không nhiều lắm. Bọn chúng không bàn chi tiết. Chắc hẳn chúng đã lên kế hoạch từ trước rồi."
 
-"Thế là 'Chiến Dịch Lén Nghe Cuộc Đàm Thoại Bí Mật Của Bọn Chúng Để Đoán Trước Và Đập Tan Từng Nước Đi' không phải là kế sách bậc thầy như cậu tưởng à?" Augurey hỏi.
+"Thế là 'Chiến Dịch Nghe Lén Cuộc Trò Chuyện Bí Mật Của Bọn Chúng Để Đoán Trước Và Đập Tan Từng Nước Đi' không phải là kế sách bậc thầy như cậu tưởng à?" Augurey hỏi.
 
 "Chúng ta gọi nó như thế từ bao giờ đấy?"
 
@@ -94,7 +94,7 @@ Tôi trả lời: "Không nhiều lắm. Bọn chúng không bàn chi tiết. Ch
 
 "Cái gì? T-Thì..." Lorraine bối rối thấy rõ, một điều hiếm khi xảy ra ở cô ấy. Cô ấy vừa uyên bác lại vừa giàu óc sáng tạo, nhưng tài năng ấy chỉ giới hạn trong lĩnh vực học thuật và ma thuật, chứ không nằm ở khoản đặt tên chiến dịch cho dí dỏm.
 
-Sau một hồi nhăn nhó suy nghĩ, cuối cùng cô ấy nói: "Tôi rút lại lời vừa rồi. Chúng ta có thể gọi nó là 'Chiến Dịch Lén Nghe Cuộc Đàm Thoại Bí Mật Của Bọn Chúng Để Đoán Trước Và Đập Tan Từng Nước Đi'."
+Sau một hồi nhăn nhó suy nghĩ, cuối cùng cô ấy nói: "Tôi rút lại lời vừa rồi. Chúng ta có thể gọi nó là 'Chiến Dịch Nghe Lén Cuộc Trò Chuyện Bí Mật Của Bọn Chúng Để Đoán Trước Và Đập Tan Từng Nước Đi'."
 
 "Chiến thắng rồi!" Augurey reo mừng. Thắng cái gì thì tôi chịu, chẳng tài nào hiểu nổi.
 

@@ -124,7 +124,7 @@ Chúng tôi thử đủ mọi cách để đánh thức ít nhất một trong b
 
 Hóa ra cái tát của cô ấy không đơn thuần là trò xả giận bằng bạo lực. Tôi chẳng dám khẳng định chắc nịch rằng Lorraine sẽ không bao giờ làm trò đó, nhưng cô ấy vốn không phải tuýp người như vậy, nên nghe lý do này tôi thấy xuôi tai hơn hẳn.
 
-"Thế thì tốt," tôi bảo. "Ý tôi là tình hình chẳng tốt tí nào, vì họ vẫn ngất lịm ra đấy. Tôi chỉ còn một nước tính... Phải tóm sống Siren thôi."
+"Thế thì tốt," tôi bảo. "Ý tôi là tình hình chẳng tốt tí nào, vì họ vẫn ngất lịm ra đấy. Tôi chỉ còn nghĩ ra được một cách... Phải tóm sống Siren thôi."
 
 "Có vẻ là thế," Lorraine đồng tình. "Vấn đề là ả đang ở đâu? Ả là một trong ba người này, đang trốn trong làng, hay ở một nơi nào đó xa hơn? Thậm chí có khi ả đã cao chạy xa bay từ lâu rồi cũng nên."
 

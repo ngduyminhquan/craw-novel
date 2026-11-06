@@ -10,21 +10,21 @@
 
 "Vâng, cảm ơn người. Tôi không hề hay biết cây quyền trượng lại có năng lực như vậy, nhưng nghe Điện Hạ nhắc mới nhớ, Khô Lâu ở vùng này đúng là rất hiếm."
 
-Quanh Maalt thỉnh thoảng chúng tôi vẫn chạm trán chúng, nhưng vì Maalt nằm xa vương đô nên điều đó chỉ cho thấy Maalt hẻo lánh tới mức ngay cả quyền năng của cây quyền trượng cũng chẳng mấy tác dụng. Cơ mà nếu cây quyền trượng dám coi Maalt là chốn khỉ ho cò gáy, tôi chỉ muốn bẻ gãy quách nó đi. Nói vậy thôi chứ tôi chẳng đời nào làm thế. Dại dột làm thật thì thứ chờ đợi tôi chắc chắn còn kinh khủng hơn việc bị tống giam vào ngục nhiều.
+Quanh Maalt thỉnh thoảng chúng tôi vẫn chạm trán chúng, nhưng vì Maalt nằm xa vương đô nên điều đó chỉ cho thấy thị trấn này hẻo lánh tới mức ngay cả quyền năng của cây quyền trượng cũng chẳng mấy tác dụng. Mà nghĩ tới chuyện cây quyền trượng coi Maalt là chốn khỉ ho cò gáy, tôi chỉ muốn bẻ gãy quách nó đi. Nói vậy thôi chứ tôi chẳng đời nào làm thế. Dại dột làm thật thì thứ chờ đợi tôi chắc chắn còn kinh khủng hơn việc bị tống giam vào ngục nhiều.
 
 "Đó chính là quyền năng của cây quyền trượng," công chúa nói thêm. "Đáng tiếc là trên đời chẳng có ma cụ nào mang lại hiệu quả mà không phải trả giá. Cũng như cối xay nước cần dòng nước chảy để vận hành, ma cụ đòi hỏi Ma Lực để kích hoạt. Còn với cây quyền trượng, nguồn năng lượng cần thiết lại chính là sinh mệnh lực của đích thân nhà vua."
 
-"Nghe rợn người quá..." Augurey làu bàu rên rỉ. Tôi hiểu cảm giác của anh ta. Xét việc nó bảo vệ cả vương quốc thì sinh mệnh lực của nhà vua cũng là cái giá tương xứng, nhưng nghe thế này thì giờ nó thực sự chẳng khác nào một món Nguyền Cụ.
+"Nghe rợn người quá..." Augurey làu bàu rên rỉ. Tôi hiểu cảm giác của anh ấy. Xét việc nó bảo vệ cả vương quốc thì sinh mệnh lực của nhà vua cũng là cái giá tương xứng, nhưng nghe thế này thì giờ nó thực sự chẳng khác nào một món Nguyền Cụ.
 
 "Ban đầu nó vốn không đòi hỏi nhiều ở người dùng," công chúa giải thích.
 
 "Nhiều nhất thì dùng xong cũng chỉ thấy mệt mỏi chừng một tiếng đồng hồ. Thế nhưng giờ đây, nó đã biến thành một vật thể nguy hiểm, không ngừng bòn rút sinh mệnh lực của Bệ Hạ."
 
-"Sao lại ra nông nỗi ấy?" Lorraine hỏi.
+"Sao lại thành ra như vậy?" Lorraine hỏi.
 
 "Theo lời Pháp Sư Cung Đình, cây quyền trượng qua bao năm dài bị đem ra sử dụng quá độ nên đã hao mòn, hiện đang gánh chịu quá tải. Tôi đã tận mắt chứng kiến, trên bề mặt cây quyền trượng thực sự chằng chịt vết nứt."
 
-"Tôi đoán vậy là hiệu suất chuyển hóa năng lượng của nó đã sụt giảm nghiêm trọng. Bản thân tôi thỉnh thoảng cũng tự chế tạo vài ma cụ đơn giản, nhưng ngay cả đồ đơn giản mà cứ dùng liên tục không bảo dưỡng thì cũng nứt vỡ, lúc đó nó sẽ ngốn nhiều Ma Lực tới mức ngay cả người làm ra nó như tôi cũng phải giật mình kinh ngạc."
+"Tôi đoán vậy là hiệu suất chuyển hóa năng lượng của nó đã sụt giảm nghiêm trọng. Bản thân tôi thỉnh thoảng cũng tự chế tạo vài ma cụ đơn giản, nhưng ngay cả đồ đơn giản mà cứ dùng liên tục không bảo dưỡng thì cũng nứt vỡ, lúc đó nó sẽ ngốn nhiều Ma Lực tới mức ngay cả người làm ra nó như tôi cũng phải giật mình."
 
 "Đúng là vậy. Đáng tiếc là Bệ Hạ nhất quyết không chịu ngừng truyền sinh mệnh lực vào cây quyền trượng, vì người bảo nếu dừng lại thì thảm kịch sẽ xảy ra trên khắp vương quốc. Dẫu biết chắc một khi hiệu lực của quyền trượng suy giảm, sức mạnh của quái vật Undead sẽ gia tăng và tỷ lệ chúng sinh ra cũng tăng theo, nhưng nhiều cố vấn chỉ ra rằng các hội mạo hiểm giả và đoàn kỵ sĩ khắp vương quốc phần nào vẫn đối phó được, nên đã ra sức khuyên can nhà vua ngừng sử dụng."
 
@@ -84,7 +84,7 @@ Giờ thì tôi đã hiểu vì sao công chúa không thể tự mình thốt r
 
 Nauss nhanh chóng đáp lời: "Đó là bởi rất có khả năng Công Chúa Jia sẽ trở thành người thừa kế được chỉ định sau chuyến đi tới Vùng Đất Cổ Thánh Thụ. Tôi tin rằng họ muốn bóp chết mầm mống đó ngay từ trong trứng nước."
 
-Nếu đúng là như vậy thì việc hoàng tử và công chúa kia ra tay hành động quả là dễ hiểu. Dẫu thế, điều đó lại làm dấy lên thêm một câu hỏi khác. Tại sao chỉ nhờ chuyến ghé thăm Vùng Đất Cổ Thánh Thụ mà Công Chúa Jia lại có thể trở thành người thừa kế được chỉ định?
+Nếu đúng là như vậy thì việc vị hoàng tử và công chúa kia ra tay cũng là điều dễ hiểu. Dẫu thế, điều đó lại làm dấy lên thêm một câu hỏi khác. Tại sao chỉ nhờ chuyến ghé thăm Vùng Đất Cổ Thánh Thụ mà Công Chúa Jia lại có thể trở thành người thừa kế được chỉ định?
 
 "Trước đó tôi đã giải thích rằng cây quyền trượng sắp đi tới giới hạn do nhiều năm dài sử dụng quá độ, vậy mà Bệ Hạ vẫn tiếp tục dùng nó bất chấp thực tế ấy," công chúa tiếp lời. "Dĩ nhiên đây không phải là điều ai mong muốn. Chúng tôi buộc phải tìm ra giải pháp, và có hai phương án xem chừng là đơn giản nhất. Phương án thứ nhất là sửa chữa cây quyền trượng, như thế may ra nhà vua mới có thể tiếp tục sử dụng. Nhưng vì ngày nào Bệ Hạ cũng phải dùng tới nó, chúng tôi lại chẳng có lựa chọn nào khác ngoài việc nhờ các High Elf sửa giúp, nên nếu mang nó rời khỏi vương đô suốt nhiều tuần lễ để sửa chữa thì hậu quả sẽ vô cùng khôn lường."
 
@@ -106,11 +106,11 @@ Một mặt tôi thừa biết sẽ có điều kiện kèm theo, nhưng mặt k
 
 Sau một thoáng ngập ngừng, Augurey lên tiếng: "Điều kiện ư? Họ đã đưa ra những điều kiện gì vậy, thưa Điện Hạ? Liệu có phải họ yêu cầu cắt nhượng đất đai không?"
 
-Nghĩ lại thì tôi cũng chẳng mường tượng được người Elf muốn đòi hỏi gì để đổi lại. Quan niệm sống của họ rất khác biệt so với loài người. Dẫu cho tiền tài và đất đai là những hình thức của cải cơ bản nhất, nhưng nếu phải nói liệu người Elf có thèm khát những thứ như thế hay không, tôi sẽ bảo rằng họ không màng tới. Bản thân Augurey cũng chẳng thực sự tin rằng họ đòi đất đai, anh ta chỉ dùng điều đó làm ví dụ về các điều khoản họ có thể yêu cầu mà thôi.
+Nghĩ lại thì tôi cũng chẳng mường tượng được người Elf muốn đòi hỏi gì để đổi lại. Quan niệm sống của họ rất khác biệt so với loài người. Dẫu cho tiền tài và đất đai là những hình thức của cải cơ bản nhất, nhưng nếu phải nói liệu người Elf có thèm khát những thứ như thế hay không, tôi sẽ bảo rằng họ không màng tới. Bản thân Augurey cũng chẳng thực sự tin rằng họ đòi đất đai, anh ấy chỉ lấy đó làm ví dụ về các điều khoản họ có thể yêu cầu mà thôi.
 
 Đúng như dự đoán, công chúa lắc đầu. "Không, họ không hề hứng thú với những thứ như vậy. Nói một cách khái quát, họ đã yêu cầu hai điều. Thứ nhất, họ sẽ tự mình quyết định các nguyên liệu chế tác nên cây quyền trượng. Điều này thực ra không hẳn là một điều kiện mà giống một yêu cầu tất yếu hơn, xét tới việc họ am hiểu tường tận hơn về cách tạo ra một vật phẩm như thế. Còn về điều thứ hai... trước khi tôi nói ra, các bạn có biết về Thánh Thụ không?"
 
-Lorraine thực chất quan tâm hơn đến việc tìm hiểu về các nguyên liệu sẽ được dùng để chế tác quyền trượng, nhưng cô quyết định rằng thận trọng hơn cả là cứ trả lời câu hỏi của công chúa trước.
+Lorraine thực chất quan tâm hơn đến việc tìm hiểu về các nguyên liệu sẽ được dùng để chế tác quyền trượng, nhưng cô ấy nghĩ khôn ngoan hơn cả là cứ trả lời câu hỏi của công chúa trước đã.
 
 "Có chứ. Đến cả đất nước của họ cũng được gọi là Vùng Đất Cổ Thánh Thụ mà. Thánh Thụ chính là rường cột gắn kết toàn thể quốc gia của người Elf, thứ mà họ bảo vệ và ca tụng trên hết thảy mọi điều. Đáng tiếc là tôi chưa từng được tận mắt chiêm ngưỡng, nhưng tôi nghe đồn rằng nó chứa đựng một lượng Thần Lực khổng lồ, và thậm chí chỉ một chiếc lá rụng từ cái cây ấy thôi cũng được giao dịch với mức giá trên trời. Đối với giới mạo hiểm giả, cái cây đó đúng nghĩa là quý hơn vàng ròng."
 
@@ -120,13 +120,13 @@ Có lẽ cách ví von đó có phần trần tục, nhưng đó chính xác là
 
 Lorraine lộ vẻ ngạc nhiên. "Tôi không ngờ quan hệ giữa hai quốc gia lại thân thiết đến mức ấy."
 
-Tôi nhìn cô ấy chờ giải thích, thế là cô nghiêng người thì thầm vào tai tôi: "Người ta đồn rằng người Elf không bao giờ cho bất kỳ ai, kể cả hoàng tộc của những cường quốc quan trọng nhất, được nhìn thấy Thánh Thụ. Ngay cả hoàng đế cũng không thể thuyết phục được họ làm điều đó. Ngài ấy có thể dùng vũ lực nếu muốn, nhưng điều đó sẽ đòi hỏi phải phát động một cuộc chiến tranh. Cái cây ấy quan trọng với người Elf đến mức như vậy đấy."
+Tôi nhìn cô ấy chờ giải thích, thế là cô ấy nghiêng người thì thầm vào tai tôi: "Người ta đồn rằng người Elf không bao giờ cho bất kỳ ai, kể cả hoàng tộc của những cường quốc quan trọng nhất, được nhìn thấy Thánh Thụ. Ngay cả hoàng đế cũng không thể thuyết phục được họ làm điều đó. Ngài ấy có thể dùng vũ lực nếu muốn, nhưng điều đó sẽ đòi hỏi phải phát động một cuộc chiến tranh. Cái cây ấy quan trọng với người Elf đến mức như vậy đấy."
 
-Liệu điều đó có nghĩa là hoàng tộc Yaaran có một mối liên hệ đặc biệt thân thiết với người Elf? Hay mối quan hệ đó chỉ đơn thuần là giữa đích thân nhà vua và người Elf? Chà, xét tới việc Công Chúa Jia có thể tới thăm Vùng Đất Cổ Thánh Thụ, trò chuyện với các High Elf và thỉnh cầu họ chế tác một cây quyền trượng mới, hoàng tộc hẳn phải có mối quan hệ rất tốt đẹp với họ. Hơn nữa, cây quyền trượng ban đầu vốn là món quà do các High Elf trao tặng từ thời xa xưa. Người ta dễ dàng hình dung ra được rằng giữa hai bên ắt hẳn phải có một sợi dây liên kết nào đó.
+Liệu điều đó có nghĩa là hoàng tộc Yaaran có một mối liên hệ đặc biệt thân thiết với người Elf? Hay mối quan hệ đó chỉ đơn thuần là giữa đích thân nhà vua và người Elf? Chà, xét tới việc Công Chúa Jia có thể tới thăm Vùng Đất Cổ Thánh Thụ, trò chuyện với các High Elf và thỉnh cầu họ chế tác một cây quyền trượng mới, hoàng tộc hẳn phải có mối quan hệ rất tốt đẹp với họ. Hơn nữa, cây quyền trượng ban đầu vốn là món quà do các High Elf trao tặng từ thời xa xưa. Không khó để hình dung giữa hai bên hẳn phải có mối liên hệ nào đó.
 
 "Khi tận mắt nhìn thấy, tôi đã hiểu vì sao cả một đất nước lại có thể sùng kính cái cây ấy đến vậy. Vì là một tín đồ của Giáo Hội Đông Thiên, tôi không thể đơn giản tôn thờ hay cầu nguyện trước cái cây, nhưng vẻ rực rỡ choáng ngợp, sự hiện diện uy nghiêm cùng bầu không khí thuần khiết mà nó tỏa ra đủ để thuyết phục bất cứ ai tin rằng bản thân nó chính là một vị thần."
 
-Thần linh rốt cuộc là gì? Khái niệm đó còn tùy thuộc vào từng tôn giáo, nên chẳng có một định nghĩa đơn giản duy nhất nào, nhưng công chúa quả thực đã cảm nhận được một điều gì đó siêu nhiên và thoát tục từ Thánh Thụ. Có những thứ trên thế giới này khiến người ta chỉ biết lặng người đi vì kinh sợ và thán phục. Con rồng mà tôi từng chạm trán là một trong số đó, và rõ ràng Thánh Thụ cũng thuộc về phạm trù này. Tôi cảm thấy đôi chút bồn chồn khi chờ đợi công chúa tiếp tục câu chuyện.
+Thần linh rốt cuộc là gì? Khái niệm đó còn tùy thuộc vào từng tôn giáo, nên chẳng có một định nghĩa đơn giản duy nhất nào, nhưng công chúa quả thực đã cảm nhận được một điều gì đó siêu nhiên và thoát tục từ Thánh Thụ. Có những thứ trên thế giới này khiến người ta chỉ biết lặng người đi vì kinh sợ và thán phục. Con rồng mà tôi từng chạm trán là một trong số đó, và rõ ràng Thánh Thụ cũng thuộc về phạm trù này. Tôi cảm thấy hơi sốt ruột khi chờ công chúa kể tiếp.
 
 "Tôi nghe nói một số người Elf thậm chí còn có thể nghe thấy tiếng nói của Thánh Thụ. Đặc biệt là các High Elf, họ có thể phân biệt rõ ràng từng lời từng chữ phát ra từ nó."
 

@@ -22,11 +22,11 @@ Nói cho cùng, đằng nào chúng tôi cũng phải tới vương đô một c
 
 "Lại công việc à. Giờ anh lên Ngân Cấp rồi, chẳng phải hầu hết các ủy thác đều có thể tự làm một mình sao?" Lorraine hỏi. "Kể cả không làm một mình được, anh vẫn có thể tìm người lập tổ đội tạm thời cho riêng việc đó mà."
 
-Lorraine nói rất có lý. Dù Augurey cần lập tổ đội để làm việc mình định nhận, thì người giúp cũng đâu nhất thiết phải là tôi với Lorraine. Dù sao tôi cũng chỉ là mạo hiểm giả Đồng Cấp, còn Lorraine tuy giỏi giang uyên bác nhưng cũng không rành vùng quanh vương đô bằng mạo hiểm giả bản địa. Tôi đồng ý với cô rằng cứ hợp tác với những ai quen thuộc địa hình nơi này sẽ hiệu quả hơn nhiều.
+Lorraine nói rất có lý. Dù Augurey cần lập tổ đội để làm việc mình định nhận, thì người giúp cũng đâu nhất thiết phải là tôi với Lorraine. Dù sao tôi cũng chỉ là mạo hiểm giả Đồng Cấp, còn Lorraine tuy giỏi giang uyên bác nhưng cũng không rành vùng quanh vương đô bằng mạo hiểm giả bản địa. Tôi đồng ý với cô ấy rằng cứ hợp tác với những ai quen thuộc địa hình nơi này sẽ hiệu quả hơn nhiều.
 
 "Việc bình thường thì làm thế được," Augurey lắc đầu, "nhưng việc tôi nhận lại là thứ mà phần lớn mạo hiểm giả ở đây hiếm khi làm. Nếu nhắc lại vụ hái thiến thảo hỏa tinh linh lần trước thì hai người có dễ hình dung hơn không?"
 
-Hồi cải trang tới vương đô, chúng tôi từng cùng Augurey nhận một ủy thác. Nói đúng ra thì đó là việc riêng của anh ta, vì anh ta cần một loại cây đặc biệt để nhuộm quần áo, nhưng mục đích thật sự không chỉ dừng lại ở đó.
+Hồi cải trang tới vương đô, chúng tôi từng cùng Augurey nhận một ủy thác. Nói đúng ra thì đó là việc riêng của anh ấy, vì anh ấy cần một loại cây đặc biệt để nhuộm quần áo, nhưng mục đích thật sự không chỉ dừng lại ở đó.
 
 "À, vụ đó. Cây đó có cứu được mẹ cô bé kia không?" Lorraine nhớ lại chuyện cũ rồi hỏi.
 
@@ -44,7 +44,7 @@ Ngoài công dụng nhuộm quần áo, thiến thảo hỏa tinh linh còn dùn
 
 "Chà, mạo hiểm giả Maalt vốn thế mà. Tôi tin mạo hiểm giả nào đến từ Maalt cũng sẽ làm điều tương tự thôi."
 
-Tôi cũng mong anh ta nói đúng, nhưng bụng thì chẳng dám chắc.
+Tôi cũng mong anh ấy nói đúng, nhưng bụng thì chẳng dám chắc.
 
 "Thế việc anh muốn chúng tôi làm cũng thuộc dạng thù lao bèo bọt, gần như làm không công để giúp người khó khăn à?" tôi hỏi.
 
@@ -58,7 +58,7 @@ Nghe Augurey tuôn một tràng việc, lòng tôi chùng hẳn xuống. "Khoan 
 
 "Tất nhiên rồi. Mấy ngày tới hai người rảnh mà, đúng không? Đúng dịp quá còn gì. Chẳng lẽ hai người tính ru rú ngủ cả ngày ở quán trọ? Tuổi nghề mạo hiểm giả ngắn ngủi lắm, còn kiếm được thì phải tranh thủ mà kiếm chứ."
 
-Nói chung thì anh ta chẳng sai, nhưng ngần ấy việc nghe chừng mệt mỏi ra trò. Dù vậy, còn những bốn ngày nữa Tổng Hội Trưởng mới về vương đô, chúng tôi quả thật đang thừa mứa thời gian. Coi như đây cũng là cách giết thời gian không tồi. Tôi với Lorraine nhìn nhau, cả hai cùng cười trừ một tiếng rồi quyết định nghe theo đề xuất của Augurey.
+Nói chung thì anh ấy chẳng sai, nhưng ngần ấy việc nghe chừng mệt mỏi ra trò. Dù vậy, còn những bốn ngày nữa Tổng Hội Trưởng mới về vương đô, chúng tôi quả thật đang thừa mứa thời gian. Coi như đây cũng là cách giết thời gian không tồi. Tôi với Lorraine nhìn nhau, cả hai cùng cười trừ một tiếng rồi quyết định nghe theo đề xuất của Augurey.
 
 ◆◇◆◇◆
 
@@ -66,7 +66,7 @@ Nói chung thì anh ta chẳng sai, nhưng ngần ấy việc nghe chừng mệt
 
 Chắc cô ấy nhớ mặt tôi, hay đúng hơn là nhớ bộ dạng của tôi từ lần trước ghé qua. Một gã quái dị khoác áo chùng, đeo mặt nạ đầu lâu thì khó quên thật, nhưng giới mạo hiểm giả vốn đủ mọi thành phần. Từ mấy gã ăn diện lòe loẹt như Augurey cho đến tuýp u ám lầm lì như tôi, kiểu gì cũng có. Không thiếu những kẻ kỳ dị trông còn như chứa chấp nhiều câu chuyện thú vị hơn tôi nhiều, chứng tỏ cô tiếp tân nhớ được tôi thì đúng là rất thạo nghề.
 
-Cơ mà một phần chắc cũng vì lần ghé trước cách đây chưa lâu. Giờ đã biết thêm chuyện về Tổng Hội Trưởng, tôi nhận ra cô tiếp tân có phần hơi bồn chồn khi bảo ngài ấy chưa về. Xem chừng Augurey nói trúng phóc, chính cô tiếp tân cũng chẳng dám chắc ông ấy có xuất hiện đúng hẹn hay không.
+Mà một phần chắc cũng vì lần ghé trước cách đây chưa lâu. Giờ đã biết thêm chuyện về Tổng Hội Trưởng, tôi nhận ra cô tiếp tân có phần hơi bồn chồn khi bảo ngài ấy chưa về. Xem chừng Augurey nói trúng phóc, chính cô tiếp tân cũng chẳng dám chắc ông ấy có xuất hiện đúng hẹn hay không.
 
 Dù trên danh nghĩa tôi tới đây với tư cách nhân viên Hội, nhưng mối dây liên kết giữa các chi nhánh vốn chẳng mấy khăng khít. Hẳn có những chuyện họ không muốn người ngoài biết. Nhưng nghĩ lại, riêng chuyện về Jean Seebeck thì đến Augurey còn rành mấy trò dở chứng của ông ấy, nên tôi đoán mạo hiểm giả ở vương đô hay lớp mạo hiểm giả kỳ cựu ở các vùng khác chắc còn khối chuyện để kể. Trước giờ tôi không hay biết chỉ vì thế hệ chúng tôi chưa từng phải trải qua đại thảm họa nào. Tôi chỉ nghe kể ông ấy là một huyền thoại, chứ chưa từng tận mắt chứng kiến, cũng chẳng rõ tính khí ngài ấy ra sao.
 
@@ -82,15 +82,15 @@ Cô tiếp tân thoáng ngạc nhiên, rồi thở phào nhẹ nhõm. "Ra là v�
 
 "Như tôi vừa nói, tôi có người quen trong giới mạo hiểm giả ở đây. Augurey."
 
-Nghe tôi gọi tên, Augurey gỡ vài tờ giấy dán trên bảng ủy thác rồi lững thững đi lại chỗ tôi. Lorraine cũng đi cùng anh ta.
+Nghe tôi gọi tên, Augurey gỡ vài tờ giấy dán trên bảng ủy thác rồi lững thững đi lại chỗ tôi. Lorraine cũng đi cùng anh ấy.
 
 Thấy vậy, cô tiếp tân gật đầu. "A, thế thì đúng rồi. Nếu tôi nhớ không nhầm thì trước đây ngài Augurey từng hoạt động ở Maalt. Hai người quen nhau từ hồi đó sao?"
 
 "Đúng thế. Gặp lại nhau, chúng tôi ôn lại chuyện cũ rồi quyết định cùng nhận mấy ủy thác trong lúc chờ Tổng Hội Trưởng về. Chắc chúng tôi không đi đâu xa, nhưng tranh thủ khoảng thời gian này làm chút việc vẫn hơn."
 
-Mặt cô tiếp tân tươi tỉnh hẳn lên. Tôi đoán cô mừng vì tôi không định gặng hỏi ép mình về Tổng Hội Trưởng. Chưa kể, việc chúng tôi đi làm ủy thác cũng có lợi cho cô.
+Mặt cô tiếp tân tươi tỉnh hẳn lên. Tôi đoán cô ấy mừng vì tôi không định gặng hỏi ép mình về Tổng Hội Trưởng. Chưa kể, việc chúng tôi đi làm ủy thác cũng có lợi cho cô ấy.
 
-"Tôi sẽ làm thủ tục đăng ký tổ đội tạm thời cho các vị ngay đây," cô nói. "Xin các vị điền thông tin cần thiết vào đây để tôi xử lý luôn. Với lại, các vị cứ để Tổng Hội Trưởng đợi cũng chẳng sao đâu. Dù có trễ vài ngày thì cũng là tại ngài ấy tự ý bỏ đi lang thang. Các vị cứ yên tâm, hễ ngài ấy về là chúng tôi sẽ giữ chân thật chặt."
+"Tôi sẽ làm thủ tục đăng ký tổ đội tạm thời cho các vị ngay đây," cô ấy nói. "Xin các vị điền thông tin cần thiết vào đây để tôi xử lý luôn. Với lại, các vị cứ để Tổng Hội Trưởng đợi cũng chẳng sao đâu. Dù có trễ vài ngày thì cũng là tại ngài ấy tự ý bỏ đi lang thang. Các vị cứ yên tâm, hễ ngài ấy về là chúng tôi sẽ giữ chân thật chặt."
 
 Rõ ràng đang nói về cấp trên của cô ấy, thế mà ai không biết chuyện bước vào chắc tưởng chúng tôi đang bàn cách tóm một tên tội phạm nào đó. Đúng là tại Tổng Hội Trưởng cứ hơi tí lại đi rong thật, nhưng mà...
 
@@ -108,21 +108,21 @@ Augurey bảo: "Nếu chỉ xét cấp bậc thì thông thường đúng là th
 
 "Thật thế à?"
 
-Anh ta đang nhắc tới vụ cứu công chúa. Quả thật thể chất của tôi đã tăng lên không ít. Tôi biết mình mạnh hơn trước, nhưng Augurey cũng mạnh lên. Nếu đấu một trận nghiêm túc, chưa biết chừng ai sẽ thắng ai. Tuy tôi có giấu vài năng lực quái vật làm con bài tẩy để đánh bất ngờ, nhưng chẳng ai dám chắc Augurey không có thứ gì tương đương. Ngân Cấp vốn là mốc mà hầu hết mạo hiểm giả bắt đầu phát triển những chiêu bài kiểu đó. Xem thường một mạo hiểm giả Ngân Cấp rồi đinh ninh họ không có bài tẩy giấu tay áo là con đường nhanh nhất để nếm trái đắng.
+Anh ấy đang nhắc tới vụ cứu công chúa. Quả thật thể chất của tôi đã tăng lên không ít. Tôi biết mình mạnh hơn trước, nhưng Augurey cũng mạnh lên. Nếu đấu một trận nghiêm túc, chưa biết chừng ai sẽ thắng ai. Tuy tôi có giấu vài năng lực quái vật làm con bài tẩy để đánh bất ngờ, nhưng chẳng ai dám chắc Augurey không có thứ gì tương đương. Ngân Cấp vốn là mốc mà hầu hết mạo hiểm giả bắt đầu phát triển những chiêu bài kiểu đó. Xem thường một mạo hiểm giả Ngân Cấp rồi đinh ninh họ không có bài tẩy giấu tay áo là con đường nhanh nhất để nếm trái đắng.
 
 "Với lại," Augurey nói tiếp, "mấy việc chúng ta định nhận đều cần kiến thức với kỹ năng chuyên biệt hơn là sức chiến đấu. Mà khoản đó thì cậu ăn đứt hai chúng tôi rồi, thật đấy."
 
 "Augurey nói đúng đấy," Lorraine góp lời. "Rentt, anh chính là người thầy đã dạy tôi cách sinh tồn trong rừng mà."
 
-Chuyện đó đúng là có thật, nhưng từ lâu lắm rồi, vả lại Lorraine nắm mấy kỹ năng ấy nhanh như chớp. Tôi chẳng dám nhận mình làm được gì to tát để được gọi là thầy của cô, nhưng được hai mạo hiểm giả Ngân Cấp đánh giá sòng phẳng thế này, tôi thực sự rất biết ơn.
+Chuyện đó đúng là có thật, nhưng từ lâu lắm rồi, vả lại Lorraine nắm mấy kỹ năng ấy nhanh như chớp. Tôi chẳng dám nhận mình làm được gì to tát để được gọi là thầy của cô ấy, nhưng được hai mạo hiểm giả Ngân Cấp đánh giá sòng phẳng thế này, tôi thực sự rất biết ơn.
 
 "Hai người nói đến nước này thì tôi còn từ chối sao được," tôi đành nhận. "Được rồi, tôi sẽ nhận phần đều nhau."
 
 Sau đó, chúng tôi nhanh chóng điền nốt các mục còn lại theo điều khoản mặc định của tổ đội tạm thời rồi đưa lại tờ đơn cho cô tiếp tân.
 
-Cô lướt mắt qua các trang giấy rồi gật đầu. "Mọi thứ đều ổn rồi. Tôi sẽ đăng ký cho các vị ngay. Tiếp theo là về các ủy thác..."
+Cô ấy lướt mắt qua các trang giấy rồi gật đầu. "Mọi thứ đều ổn rồi. Tôi sẽ đăng ký cho các vị ngay. Tiếp theo là về các ủy thác..."
 
-Augurey gật đầu rồi đưa mấy tờ giấy nhận ủy thác cho cô. Đọc lướt qua nội dung, cô tiếp tân khẽ nhướng mày.
+Augurey gật đầu rồi đưa mấy tờ giấy nhận ủy thác cho cô ấy. Đọc lướt qua nội dung, cô tiếp tân khẽ nhướng mày.
 
 "Mấy việc này đều bị bỏ xó lâu lắm rồi. Địa điểm thu thập nguyên liệu tuy cùng một chỗ, nhưng vì khó quá nên chưa ai dám nhận. Các vị có chắc muốn nhận hết không?"
 

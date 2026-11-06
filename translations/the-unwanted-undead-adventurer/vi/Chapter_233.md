@@ -82,7 +82,7 @@ Chuyện các mạo hiểm giả lệch cấp bậc lập đội với nhau vố
 
 Như để chứng thực cho suy đoán ấy, vừa thấy xe lăn bánh là Rentt liền ngả lưng xuống đánh một giấc. Cả đêm thức trắng canh chừng chắc hẳn đã vắt kiệt sức lực của hắn.
 
-Tuy không phải mọi chuyện đều diễn ra đúng như dự tính, Goblin trước đây cũng từng trải qua nhiều phi vụ thoạt đầu chẳng mấy suôn sẻ, nên gã vẫn chưa quá nao núng... ít nhất là vào lúc này.
+Ít ra vẫn có vài việc đi đúng kế hoạch, vả lại trước đây Goblin cũng từng thực hiện nhiều nhiệm vụ ban đầu chẳng mấy suôn sẻ, nên gã vẫn chưa quá nao núng... ít nhất là vào lúc này.
 
 ◆◇◆◇◆
 
@@ -110,4 +110,4 @@ Lorraine lúc nãy cũng vừa nói bằng cái giọng y hệt, khiến tôi th
 
 "Lorraine chỉ lộ đúng bản tính thôi mà. Cô ấy là kiểu học giả sẵn sàng liều cả mạng sống để theo đuổi tri thức đấy," tôi chen vào.
 
-"Thế thì lại càng đáng sợ hơn. Cơ mà tôi chẳng cãi lại lý lẽ của cô được, Lorraine à. Thôi thì cứ tiếp tục diễn kịch, làm một lũ ngây thơ dễ bị dắt mũi xem sao."
+"Thế thì lại càng đáng sợ hơn. Nhưng tôi chẳng cãi lại lý lẽ của cô được, Lorraine à. Thôi thì cứ tiếp tục diễn kịch, làm một lũ ngây thơ dễ bị dắt mũi xem sao."

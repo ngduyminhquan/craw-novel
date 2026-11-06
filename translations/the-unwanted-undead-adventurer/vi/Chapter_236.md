@@ -82,7 +82,7 @@ Dứt lời, cánh tay Ferrici vung mạnh trở lại, nhắm thẳng sườn A
 
 Augurey hóa giải đòn đâm liều lĩnh của cô gái khi tóm chặt lấy cổ tay cô rồi siết một lực vừa đủ làm cô đau nhói mà không để lại vết hằn, khiến con dao rơi tuột khỏi tay.
 
-Mọi sự kháng cự thêm từ phía Ferrici lúc này rõ ràng đều vô ích, nhưng cô không hề chịu đứng yên. Trái lại, cô bắt đầu gào thét thất thanh và giãy giụa điên cuồng, chẳng còn giống người thiếu nữ ở quán rượu cho tới tận vừa nãy, mà y hệt một con thú dại.
+Mọi sự kháng cự thêm từ phía Ferrici lúc này rõ ràng đều vô ích, nhưng cô không hề chịu đứng yên. Trái lại, cô bắt đầu gào thét thất thanh và giãy giụa điên cuồng, chẳng còn vẻ gì của cô thiếu nữ ở quán rượu và suốt từ nãy tới giờ, mà y hệt một con thú dại.
 
 Nhận ra điều gì đó bất thường ở cô gái, Augurey khẽ kéo nhẹ cô về phía mình khiến cô chới với, để lộ chiếc cổ thon thả. Anh nhanh như cắt chặt cạnh bàn tay vào gáy cô; một động tác tưởng chừng nhẹ tênh nhưng đủ để tước đi ý thức của Ferrici, làm cô đổ gục xuống.
 

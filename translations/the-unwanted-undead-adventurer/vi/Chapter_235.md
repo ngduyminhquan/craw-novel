@@ -12,7 +12,7 @@ Cũng phải nói thêm rằng tôi hoàn toàn miễn nhiễm với thứ thu�
 
 Cứ mỗi lần tiếp xúc, tôi lại càng tin rằng Yattul lên sân khấu kịch kiếm sống có khi còn khấm khá hơn là lăn lộn trong thế giới ngầm. Gã không hẳn đẹp trai, nhưng nét mặt và phong thái lại rất riêng. Đêm qua, khi nói chuyện với đồng bọn, gã còn toát ra chút uy quyền, dù lúc này vẻ uy quyền ấy đã được che giấu rất kỹ. Tôi đồ rằng gã có khi phải luyện thêm về cách phóng giọng và nhả chữ, nhưng chắc phải nghe gã đọc mấy câu líu lưỡi mới đánh giá chuẩn được.
 
-Tôi bật cười sảng khoái. "Tôi chắc từ giờ mọi chuyện sẽ êm xuôi cả thôi. Chúng tôi nghỉ ngơi ở phía sau này một lát nhé, Yattul. Bác cứ tập trung điều khiển lũ ngựa đi."
+Tôi bật cười sảng khoái. "Tôi chắc từ giờ mọi chuyện sẽ êm xuôi cả thôi. Chúng tôi nghỉ ngơi ở phía sau này một lát nhé, bác Yattul. Bác cứ tập trung điều khiển lũ ngựa đi."
 
 "Rõ rồi, ông chủ." Yattul kéo kín mui bạt lại rồi quay sang tập trung cầm cương. Nói thì nói vậy, việc duy nhất gã còn phải làm chỉ là tìm chỗ trọ cho chúng tôi và chuồng cho bầy ngựa, chẳng tốn bao nhiêu tâm trí.
 
