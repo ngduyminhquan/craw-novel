@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T11:20:00Z",
+  "generatedAt": "2026-11-06T11:28:11Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3796,7 +3796,7 @@
           "number": 274,
           "title": "Chương 274: Tập 12 Chương 1 - Thêm Những Thánh Giả và Trở Về Maalt (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_274.md",
-          "sha": "004ff8e6fbbe14fb4138ee059f83b55c87e70e31"
+          "sha": "44fe3ceca1cda5ca325d2310c3d8f433703d7467"
         }
       ]
     },
