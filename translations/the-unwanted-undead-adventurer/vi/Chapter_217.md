@@ -6,27 +6,27 @@
 
 "Cô Lorraine!"
 
-Bao nhiêu tiếng gọi bên trong căn phòng chật chội thi nhau réo tên tôi. Chúng tôi đang có mặt tại một lớp học tư thục ở thị trấn Maalt. Thỉnh thoảng tôi lại ghé qua chỉ bài cho lũ trẻ, nên tụi nhỏ đã khá quen mặt tôi.
+Bao nhiêu giọng nói trong căn phòng chật chội thi nhau gọi tên tôi. Chúng tôi đang ở một lớp học tư thục trong thị trấn Maalt. Thỉnh thoảng tôi lại ghé qua chỉ bài cho lũ trẻ, nên tụi nhỏ đã khá quen mặt tôi.
 
-Vì đây là lớp học tư thục, rèn lũ trẻ vào quy củ chẳng dễ chút nào. Tụi nhỏ đủ mọi lứa tuổi, trình độ lại chênh lệch, nên rất khó để gắn kết cả lớp. Trong cảnh ấy, đòi hỏi đứa nào cũng ngồi im phăng phắc tập trung học bài thì quả là quá sức.
+Vì đây là lớp học tư thục, rèn lũ trẻ vào nề nếp chẳng dễ chút nào. Tụi nhỏ đủ mọi lứa tuổi, trình độ lại chênh lệch, nên rất khó tạo sự gắn kết cho cả lớp. Trong hoàn cảnh ấy, đòi hỏi đứa nào cũng ngồi im tập trung học bài thì hơi quá sức.
 
-Mỗi khi có đứa nghịch ngợm quá trớn, thi thoảng tôi cũng phải răn đe. Có điều trong lớp còn có cả những đứa bé mới lên ba, lên bốn, nên to tiếng gắt gỏng chẳng phải cách hay. Tôi đành tự học cách giữ giọng điệu sao cho thật chừng mực. Rốt cuộc thì lũ trẻ vẫn chịu lắng nghe mỗi khi có chuyện hệ trọng, và đứa nào cũng coi trọng việc học.
+Đôi khi có đứa nghịch quá trớn, tôi cũng phải lên tiếng răn đe. Nhưng vì trong lớp còn có cả những đứa bé mới lên ba, lên bốn, nên lớn tiếng quát mắng chẳng phải cách hay. Tôi đã quen với việc giữ giọng sao cho vừa phải, chừng mực. Rốt cuộc thì lũ trẻ vẫn chịu lắng nghe mỗi khi có chuyện hệ trọng, và đứa nào cũng coi trọng việc học.
 
-Có điều, tôi làm những việc này đâu phải để lấy thù lao. Tôi chỉ đến dạy tình nguyện thôi. Cộng đồng cư dân ở Maalt vốn sống dựa trên tinh thần tương trợ lẫn nhau, và việc này cũng là một phần trong nếp sống ấy.
+Mà tôi làm những việc này đâu phải vì thù lao. Tôi chỉ dạy tình nguyện thôi. Cộng đồng cư dân ở Maalt vốn sống dựa trên tinh thần tương trợ lẫn nhau, và việc này cũng là một phần trong nếp sống ấy.
 
 Phần lớn học sinh ở đây là con em nông dân nghèo hay những gia đình khó khăn, chẳng đủ tiền cho con vào các trường tư thục đắt đỏ. Nói đúng ra lớp này cũng có thu học phí, nhưng chỉ là một khoản tượng trưng, nên nhiều bậc phụ huynh mới gửi con tới đây mong chúng có tương lai khá khẩm hơn.
 
-Tôi thấy đó là việc rất đáng làm. Con đường học vấn chính là cách hữu hiệu nhất để người nghèo vươn lên trong xã hội. Dĩ nhiên, họ vẫn có thể chọn làm mạo hiểm giả rồi vươn lên bằng đao kiếm, song con đường ấy chỉ dành cho số ít. Hơn nữa, một lớp học đông vui nhộn nhịp thế này cũng là dấu hiệu cho thấy thị trấn đang sống tốt. Nói thế không có nghĩa là ngày nào tôi cũng được yên ổn mà không phải đau đầu vì đủ thứ chuyện.
+Tôi thấy đó là việc rất đáng làm. Học vấn chính là con đường hữu hiệu nhất để người nghèo vươn lên trong xã hội. Dĩ nhiên, người ta vẫn có thể chọn làm mạo hiểm giả rồi gặt hái thành công bằng vũ lực, song con đường ấy chỉ dành cho số ít. Hơn nữa, những lớp học đông đúc nhộn nhịp thế này cũng là dấu hiệu cho thấy thị trấn đang phát triển tốt. Tuy vậy, nói thế không có nghĩa là ngày nào tôi cũng tránh khỏi đủ thứ rắc rối nối đuôi nhau phát sinh.
 
 "Cô Lorraine!"
 
-Một đứa trẻ đột ngột xộc vào phòng, réo tên tôi. Hôm nay thằng bé đâu có tiết, lẽ ra chẳng có lý do gì để đến đây. Vậy mà nó lại đang đứng trước mặt tôi với vẻ mặt căng thẳng tột độ.
+Một đứa trẻ đột ngột xộc vào phòng, gọi lớn tên tôi. Hôm nay thằng bé đâu có tiết, lẽ ra chẳng có lý do gì để đến đây. Vậy mà giờ nó lại đang đứng đó với vẻ mặt đầy căng thẳng.
 
 "Có chuyện gì thế?" tôi hỏi thằng bé.
 
 "Jad rơi xuống cống ngầm rồi ạ!"
 
-Jad, một học trò khác của tôi, vốn là đứa làm trước nghĩ sau và chuyên gia rước rắc rối vào mình. Đây cũng chỉ là một vụ việc nữa nối dài cái danh sách bất hảo ấy. Có điều, dính đến cống ngầm lại là chuyện rất đáng lo ngại. Ai cũng biết hiện giờ dưới lòng Maalt có một mê cung, nhưng một số khu vực lại thông với cống ngầm, hay đúng hơn là sinh ra từ chính đường cống. Người ta vẫn chưa tìm ra hết mọi ngóc ngách thông sang mê cung, thi thoảng quái vật mạnh vẫn mò lên đó. Bình thường luôn có mạo hiểm giả lành nghề đi tuần hoặc canh gác các cửa cống, nên lẽ ra chuyện này chẳng có gì đáng ngại.
+Jad, một học trò khác của tôi, vốn là đứa hay làm mà chẳng chịu nghĩ, suốt ngày vướng vào rắc rối. Đây cũng chỉ là một vụ nữa nối dài cái danh sách rắc rối ngày một dày thêm của thằng bé. Có điều, dính đến cống ngầm lại là chuyện rất đáng lo. Ai cũng biết hiện giờ dưới lòng Maalt có một mê cung, nhưng một số khu vực của nó lại thông với cống ngầm, hay đúng hơn là sinh ra từ chính đường cống. Người ta vẫn chưa tìm ra hết các lối thông giữa cống ngầm và mê cung, thi thoảng quái vật mạnh vẫn xuất hiện ở đó. Bình thường luôn có mạo hiểm giả lành nghề đi tuần hoặc canh gác các cửa cống, nên lẽ ra không đến mức xảy ra chuyện này.
 
 "Nó vào bằng lối nào?" tôi hỏi.
 
@@ -40,9 +40,9 @@ Lũ trẻ trong lớp đứa nào cũng nghiêm túc gật đầu. Chúng thừa
 
 "Ồ, ở đây có lối vào thật này," tôi lẩm bẩm.
 
-Chúng tôi đang ở một góc hẻo lánh của Maalt, nơi nhà cửa đổ sập ngổn ngang. Chẳng mấy ai lai vãng qua khu vực này. Giữa đống đổ nát có một khe hở nhỏ, chỉ vừa vặn cho một đứa trẻ chui lọt. Tôi lách mình qua đống gạch vỡ, cẩn thận bước qua từng tảng đá tiến vào trong.
+Chúng tôi đang ở một góc hẻo lánh của Maalt, nơi nhà cửa đổ sập ngổn ngang. Chẳng mấy ai lai vãng qua khu vực này. Giữa đống đổ nát có một khe hở nhỏ, chỉ vừa đủ cho một đứa trẻ chui lọt. Tôi lách người qua đống gạch vụn rồi chậm rãi nhảy từng bước tiến vào trong.
 
-Gerge, cậu bé chạy tới tìm tôi cầu cứu, xung phong dẫn đường. Thằng bé đưa tôi tới một nơi rõ ràng là cửa cống ngầm, nhưng lối này nhỏ đến mức trước giờ chưa ai phát hiện ra cũng phải. Tôi cũng hơi bất ngờ khi lũ trẻ mò ra được chỗ này, nhưng khi tính tò mò của con nít đi đôi với thói nghịch dại thì xảy ra chuyện cũng chẳng lạ. Dù sao đi nữa, việc quan trọng nhất lúc này là phải tìm ra Jad.
+Gerge, cậu bé chạy tới tìm tôi cầu cứu, đi theo dẫn đường cho tôi. Thằng bé đưa tôi tới một nơi rõ ràng là cửa cống ngầm, nhưng lối này nhỏ đến mức trước giờ chưa ai phát hiện ra cũng phải. Tôi cũng hơi nể việc lũ trẻ tìm ra được chỗ này, nhưng khi tính tò mò của con nít cộng với cái tật hay gây chuyện thì thế cũng chẳng lạ. Dù sao đi nữa, việc quan trọng nhất lúc này là phải tìm thấy Jad.
 
 "Gerge, em ở lại đây," tôi dặn.
 
@@ -68,17 +68,17 @@ Bất chợt, câu trả lời cho mối nghi hoặc ấy hiện ra ngay trướ
 
 "Ngươi định... mang nó đi sao?"
 
-Ngước lên, tôi thấy hình bóng mờ ảo của một bé gái mặc đồ trắng. Tôi đứng dậy, chĩa pháp trượng về phía cái bóng quái dị ấy.
+Ngước lên, tôi thấy hình bóng mờ ảo của một cô bé mặc đồ trắng. Tôi đứng dậy, chĩa cây trượng về phía cái bóng quái dị ấy.
 
 "E là vậy đấy. Ngươi cũng nên rời khỏi đây đi thì hơn," tôi khuyên.
 
-Tôi đã cất công cảnh cáo trước, nhưng con bé mặc đồ trắng lại ngoác rộng miệng đến mức dị thường, rồi rít lên the thé: "Ta không cho! Không cho! KHÔNG ĐỜI NÀO CHO ĐÂU!"
+Tôi đã cẩn thận cảnh cáo trước, nhưng cô bé mặc đồ trắng lại ngoác rộng miệng đến mức chẳng giống người thường chút nào, rồi rít lên the thé: "Ta không cho! Không cho! KHÔNG ĐỜI NÀO CHO ĐÂU!"
 
-Cái miệng nó to hơn người thường gấp bội, từ cái họng hoác rộng mọc ra những chiếc răng nanh nhọn hoắt lao thẳng về phía tôi. Đó là một con Mimic, loài quái vật chuyên giả dạng con người để hút kiệt sức con mồi rồi ăn thịt. May thay, con này có vẻ khá yếu.
+Cái miệng nó to hơn người thường gấp bội, từ cái họng ngoác rộng phóng ra những chiếc răng nanh lao thẳng về phía tôi. Đó là một con Mimic, loài quái vật chuyên giả dạng con người để hút kiệt sức con mồi rồi ăn thịt. May thay, con này có vẻ khá yếu.
 
 "Foteia Borivaas."
 
-Tôi chỉ tung ra một đòn ma pháp lửa, ngọn lửa lập tức nuốt trọn rồi thiêu rụi con Mimic thành tro. Nhặt viên Ma Tinh rơi lại trong đống tàn tro, tôi cõng Jad lên rồi nhanh chóng rời khỏi cống ngầm. Trong bụng tôi cũng tự nhắc mình phải báo cáo lối vào này cho Hội Mạo Hiểm Giả.
+Tôi tung ra một ma pháp lửa duy nhất, ngọn lửa lập tức nuốt trọn rồi thiêu rụi con Mimic thành tro. Nhặt viên Ma Tinh rơi lại trong đống tro tàn, tôi cõng Jad lên rồi nhanh chóng rời khỏi cống ngầm. Tôi cũng thầm nhắc mình phải báo lại lối vào này cho Hội Mạo Hiểm Giả.
 
 ◆◇◆◇◆
 

@@ -1,6 +1,6 @@
 # Chương 219: Ngoại truyện Tập 9 - Chiếc Bàn Của Công Chúa
 
-"Anh nói nghiêm túc đấy à?" Lorraine hỏi, vẻ mặt như thể sắp đau đầu đến nơi.
+"Anh nghiêm túc đấy à?" Lorraine hỏi, vẻ mặt trông như đang đau đầu.
 
 Thực lòng tôi cũng đồng tình với cô ấy, nhưng lúc này chỉ biết lặng lẽ gật đầu.
 
@@ -20,7 +20,7 @@ Wolf nói thêm: "Nghe đâu chiếc bàn này được đóng từ năm mươi 
 
 "Thì như tôi vừa bảo đấy, nó có từ năm mươi năm trước rồi. Người thợ mộc đóng nó hồi đó cũng tầm đôi mươi."
 
-"Thế thì tính ra bây giờ người ta đã ngoài bảy mươi rồi còn gì. Hẳn là đã nghỉ nghề từ lâu. Giờ mà muốn tìm một người đã nghỉ hưu..." Tôi dám chắc chuyện đó là bất khả thi.
+"Thế thì tính ra bây giờ người ta đã ngoài bảy mươi rồi còn gì. Hẳn là đã nghỉ nghề từ lâu. Giờ mà muốn tìm một người đã nghỉ làm nghề..." Tôi dám chắc chuyện đó là bất khả thi.
 
 Wolf nhìn tôi bằng ánh mắt khẩn khoản, nét mặt hiếm thấy ở ông. "Khổ nỗi đúng là thế đấy. Mấy người được hỏi đều bảo chịu không làm nổi, nên rốt cuộc việc này mới đẩy sang tay tôi. Coi như làm ơn giúp tôi đi mà. Yêu cầu của một công chúa đấy, khó từ chối lắm."
 
@@ -64,13 +64,13 @@ Nữ quý tộc nhìn tôi với vẻ hơi áy náy, nhưng rồi vẫn nói ti�
 
 "Quý tộc ai mà chẳng thế. Nhưng cô ấy khá thân thiện đấy chứ, tôi thấy là một quý tộc tốt đấy," Lorraine nhận xét.
 
-Tôi gật đầu. Dù cảm thấy cô ấy là kiểu người chỉ làm theo ý mình, nhưng tôi không thấy có dấu hiệu nào cho thấy cô ấy cố ý coi thường chúng tôi cả.
+Tôi gật đầu. Dù có cảm giác cô ấy là kiểu người thích làm theo ý mình, nhưng chẳng thấy dấu hiệu nào là cô ấy cố tình coi thường chúng tôi cả.
 
 Sau đó chúng tôi theo cô ấy bước vào trong nhà.
 
 ◆◇◆◇◆
 
-"Ta không phải người thợ đó," ông lão hạ giọng phủ nhận với vẻ mặt khó chịu.
+"Ta không phải người thợ đó," ông lão hạ giọng phủ nhận với vẻ mặt lầm lì.
 
 Nữ quý tộc quay sang nhìn chúng tôi như muốn bảo: "Thấy chưa, tôi đã bảo thể nào cũng thế mà."
 
@@ -94,7 +94,7 @@ Ngay trước khi cây búa kịp giáng xuống chiếc bàn, ông lão đã v�
 
 Nữ quý tộc đặt cây búa tạ xuống: "Thế thì ông phải nói sớm hơn chứ."
 
-Sau đó cũng chẳng có chuyện gì đặc biệt xảy ra. Ông lão giải thích lý do vì sao lại gửi tặng chiếc bàn cho bà nội của cô ấy. Hai người họ từng yêu nhau, nhưng gia đình bà đã chia rẽ đôi lứa. Vì không thể lấy bà làm vợ, ông đã đóng chiếc bàn này tặng bà để bà luôn có thứ nhớ về ông. Cũng vì bà giữ trọn lời hứa năm xưa, chúng tôi mới mang chiếc bàn này đến trao lại cho ông.
+Sau đó cũng chẳng có chuyện gì đặc biệt xảy ra. Ông lão giải thích lý do vì sao lại gửi tặng chiếc bàn cho bà nội của cô ấy. Hai người họ từng yêu nhau, nhưng gia đình bà đã ép hai người phải chia lìa. Vì không thể lấy bà làm vợ, ông đã đóng chiếc bàn này tặng bà để bà luôn có thứ gợi nhớ về ông. Cũng vì bà giữ trọn lời hứa năm xưa, chúng tôi mới mang chiếc bàn này đến trao lại cho ông.
 
 Đợi ông lão kể xong câu chuyện, nữ quý tộc liền hỏi: "Vậy thì, mở thứ này thế nào đây?"
 
