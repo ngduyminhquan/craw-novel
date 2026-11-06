@@ -1,131 +1,131 @@
 # Chương 235: Tập 10 Chương 4 - Đến Nơi (1)
 
-"Cuối cùng chúng ta cũng tới nơi rồi các vị."
+"Cuối cùng chúng ta cũng tới nơi rồi thưa các vị."
 
-Đã được một lúc kể từ khi chúng tôi quay ngược lại con đường đã đi và trở về đúng lộ trình ban đầu. Dù vẫn có đôi chút khả năng chúng tôi lại bị dẫn đi lệch đường lần nữa, nhưng lần này Yattul đã đưa chúng tôi đến Làng Looza một cách chuẩn xác. Yattul vẫn duy trì thái độ thân thiện, xởi lởi của một thương nhân lữ hành và không để lộ bất kỳ dấu hiệu nào của việc giăng thêm một cái bẫy mới. Có lẽ Goblin đã cạn mưu hèn kế bẩn sau khi thả cả bầy Hobgoblin tấn công chúng tôi và hạ thuốc ngủ vào bữa tối. Hoặc có lẽ gã nghĩ rằng nếu tiếp tục giở trò thì chúng tôi sẽ sinh nghi. Dĩ nhiên, thực tế là chúng tôi vốn đã nghi ngờ gã từ lâu rồi.
+Sau khi quay xe trở lại đúng lộ trình ban đầu, cỗ xe chạy thêm được một quãng. Dù vẫn có khả năng gã lại dắt chúng tôi đi chệch đường lần nữa, nhưng lần này Yattul đã đưa cả nhóm đến Làng Looza trót lọt. Gã vẫn giữ vẻ thân thiện, xởi lởi của một thương nhân lữ hành và chẳng để lộ dấu hiệu nào cho thấy sắp giăng thêm bẫy mới. Có lẽ sau khi xua cả bầy Hobgoblin tấn công rồi lại lén bỏ thuốc ngủ vào bữa tối của chúng tôi, Goblin đã cạn sạch trò. Hoặc có khi gã sợ nếu giở thêm mánh gì nữa thì chúng tôi sẽ sinh nghi. Dĩ nhiên, thực ra chúng tôi đã đề phòng gã từ lâu rồi.
 
-Cũng đáng nhắc lại rằng tôi hoàn toàn miễn nhiễm với thuốc ngủ, nhưng Lorraine và Augurey cũng đã tự hóa giải liều thuốc ấy theo cách riêng của mỗi người—Lorraine dùng ma pháp, còn Augurey thì bằng một phương pháp bí ẩn nào đó mà anh ta chẳng hề chia sẻ với tôi. Dù sao thì anh ta cũng là một mạo hiểm giả Ngân Cấp. Cả hai người họ đều thừa sức nhìn thấu bất kỳ mánh khóe rẻ tiền nào và bóp nghẹt nó từ trước khi nó kịp phát tác.
+Cũng phải nói thêm rằng tôi hoàn toàn miễn nhiễm với thứ thuốc đó, còn Lorraine và Augurey thì tự giải độc theo cách của riêng mình: Lorraine dùng ma pháp, còn Augurey thì bằng mánh khóe bí ẩn nào đó mà anh ấy chẳng hé răng với tôi nửa lời. Dù sao thì anh ấy cũng là một mạo hiểm giả Ngân Cấp. Cả hai người họ đều thừa sức nhìn thấu mấy trò vặt vãnh ấy và dập tắt ngay từ đầu.
 
-"Cuối cùng cũng tới nơi. Mừng là chúng ta vẫn lành lặn đến được đây. Bác làm chúng tôi toát cả mồ hôi hột đấy," tôi nói.
+"Cuối cùng cũng tới nơi. Mừng là mọi người vẫn nguyên vẹn đến được đây. Bác làm chúng tôi toát mồ hôi hột một phen đấy," tôi nói.
 
-"Thôi nào ông chủ, chuyện cũ mình xí xóa cho qua được không ạ?" Yattul nói với giọng hài hước nhún nhường cùng vẻ hối lỗi đầy thuyết phục.
+"Thôi mà ông chủ, chuyện cũ mình xí xóa cho nhau được không ạ?" Yattul đùa bằng giọng nhún nhường, lại thoáng nét hối lỗi trông rất thật.
 
-Cứ qua mỗi lần tiếp xúc, tôi lại càng thêm tin chắc rằng Yattul lên sân khấu kịch kiếm sống có khi còn khấm khá hơn là hoạt động trong thế giới ngầm. Gã không hẳn là đẹp trai, nhưng lại sở hữu diện mạo cùng phong thái rất riêng, và gã từng toát ra uy quyền nhất định khi ăn nói với đồng bọn vào đêm qua, dẫu rằng khí thế ấy lúc này đã được che giấu rất kỹ. Tôi đồ rằng gã có thể cần luyện thêm về đài từ và nhả chữ, nhưng chắc tôi phải nghe gã đọc vài câu líu lưỡi thì mới đánh giá chính xác được.
+Cứ mỗi lần tiếp xúc, tôi lại càng tin rằng Yattul lên sân khấu kịch kiếm sống có khi còn khấm khá hơn là lăn lộn trong thế giới ngầm. Gã không hẳn đẹp trai, nhưng nét mặt và phong thái lại rất riêng. Đêm qua, khi nói chuyện với đồng bọn, gã còn toát ra chút uy quyền, dù lúc này cái vẻ uy quyền ấy đã được giấu biến. Tôi đồ rằng gã có khi phải luyện thêm về đài từ và nhả chữ, cơ mà chắc phải nghe gã đọc mấy câu líu lưỡi mới đánh giá chuẩn được.
 
-Tôi bật cười sảng khoái. "Tôi chắc là từ giờ mọi chuyện sẽ thuận buồm xuôi gió thôi. Chúng tôi sẽ nghỉ ngơi ở phía sau này một lát, Yattul. Bác cứ tập trung vào bầy ngựa đi nhé."
+Tôi cười xòa. "Tôi chắc từ giờ mọi chuyện sẽ êm xuôi cả thôi. Chúng tôi nghỉ ngơi ở phía sau này một lát nhé, Yattul. Bác cứ tập trung dắt ngựa đi."
 
-"Rõ rồi ạ." Yattul kéo kín mui xe lại rồi quay sang tập trung cầm cương. Nói là vậy, nhưng công việc duy nhất còn lại của gã chỉ là tìm chỗ trọ cho chúng tôi và chuồng cho bầy ngựa. Việc đó cũng chẳng đòi hỏi gã phải tập trung quá nhiều.
+"Vâng ạ." Yattul kéo kín mui bạt lại rồi quay sang tập trung điều khiển xe. Nói thì nói vậy, việc duy nhất gã còn phải làm chỉ là tìm chỗ trọ cho chúng tôi và chuồng cho bầy ngựa, chẳng tốn bao nhiêu tâm trí.
 
-"Chuyến đi êm ả đến bất ngờ đấy chứ," Lorraine nói sau khi thùng xe đã được đóng kín.
+"Chuyến đi êm ả đến bất ngờ đấy chứ," Lorraine nói sau khi mui xe đã khép kín.
 
-"Phải không?" Augurey đồng tình, vẫn không lơ là cảnh giác. "Tôi cứ ngỡ sẽ có chuyện xảy ra trên đường đi cơ đấy. Chắc giờ chúng ta có thể trông chờ vào điều đó rồi."
+"Chuẩn đấy," Augurey phụ họa, nhưng vẫn không lơ là cảnh giác. "Tôi cứ ngỡ dọc đường phải có biến gì cơ. Xem ra giờ mới là lúc để chờ xem sao."
 
-"Tôi thì muốn được thư thả nghỉ ngơi trong làng một khi nhận phòng, nhưng lần này chắc số chúng ta không được thảnh thơi như thế rồi," tôi nhận xét.
+"Có phòng rồi thì tôi chỉ muốn thảnh thơi nghỉ ngơi trong làng, nhưng chuyến này chắc số chúng ta không được nhàn hạ như thế," tôi góp lời.
 
-Cơ thể tôi không biết mệt mỏi, nhưng đôi khi tinh thần tôi lại rơi vào trạng thái kiệt quệ. Dù không có một giấc ngủ dài suốt đêm, tôi thường vẫn có thể hồi phục nếu được thả lỏng lười biếng một chút. Nhưng khi biết mình phải luôn giữ vững cảnh giác thì chuyện nghỉ ngơi coi như đã bị gạt phăng khỏi bàn.
+Cơ thể tôi không biết mệt, nhưng đôi khi đầu óc cũng kiệt sức. Dù không ngủ đẫy mắt cả đêm, tôi vẫn thường lại sức nếu được thảnh thơi lười biếng một lúc. Nhưng khi biết mình phải luôn căng mắt cảnh giác thì chuyện nghỉ ngơi coi như đành gác lại.
 
-"Đành vậy thôi," Lorraine nói. "Cứ coi như một trò tiêu khiển để khuấy động chuỗi ngày lưu lại vốn thường rất tẻ nhạt của chúng ta đi. Dẫu vậy, dĩ nhiên là chúng ta không nên đánh giá thấp đối thủ."
+"Đành vậy thôi," Lorraine nói. "Cứ coi như trò giải khuây cho đỡ buồn chán trong thời gian ở lại đây đi. Dù sao thì, tất nhiên chúng ta cũng không được coi thường đối thủ."
 
-Tôi không khỏi cảm thấy ngỡ ngàng trước sự lạc quan không chút e dè của Lorraine.
+Thấy Lorraine lạc quan đến thản nhiên như vậy, tôi cũng đến chịu.
 
 ◆◇◆◇◆
 
-Looza là một trong vô số ngôi làng thuộc Vương Quốc Yaaran, và cũng như phần lớn các ngôi làng khác, nơi đây vô cùng hẻo lánh và đậm chất thôn quê. Dù chưa tới mức như quê hương tôi, nhưng tôi đoán ngôi làng này không có những đặc thù riêng biệt như Hathara. Cuộc sống nơi đây có vẻ rất đỗi thanh bình, bình lặng đến mức nếu đem so sánh thì thị trấn Maalt bỗng chốc trông chẳng khác nào trung tâm của xã hội văn minh. Mỗi người dân ở đây hẳn đều là nông dân, thợ săn, tiều phu, thợ thủ công, thương nhân hoặc người trông coi quán rượu. Ngay cả ngôi làng này cũng có một quán rượu, giúp cho cư dân thỉnh thoảng có nơi để xả hơi.
+Looza là một trong vô số ngôi làng của Vương Quốc Yaaran, và cũng như bao làng quê khác, nơi đây vô cùng hẻo lánh. Chưa đến mức như quê tôi, nhưng tôi đoán ở đây chẳng có nét đặc thù nào như Hathara. Cuộc sống nơi này bình lặng đến nỗi nếu đem so, thị trấn Maalt bỗng trông như trung tâm sầm uất. Dân cư quanh quẩn chắc toàn là nông dân, thợ săn, tiều phu, thợ thủ công, thương nhân hoặc chủ quán rượu. Dù hẻo lánh vậy mà làng vẫn có một quán rượu để bà con thỉnh thoảng ghé xả hơi.
 
-"Chỗ chúng tôi hiếm khi thấy mạo hiểm giả ghé qua lắm. Ở đây chẳng có gì nhiều để xem đâu, nhưng đồ uống thì bao la. Tôi sẽ rót liên tục cho tới khi các vị say mèm mới thôi," chủ quán rượu cất tiếng. Vóc dáng cao lớn lừng lững của ông ta khiến tôi liên tưởng đến một con gấu, nhưng trông ông có vẻ thân thiện hơn là đáng sợ. Trái ngược với vẻ bề ngoài, theo lời những vị khách khác trong quán thì ông lại là một người có tâm hồn hết sức tinh tế.
+"Chỗ này hiếm khi có mạo hiểm giả ghé qua lắm. Ở đây chẳng có cảnh gì để ngắm đâu, nhưng rượu thì ê hề. Tôi sẽ rót tới chừng nào các vị gục hết thì thôi," chủ quán cất tiếng. Vóc dáng hộ pháp của ông khiến tôi liên tưởng đến một con gấu, nhưng trông hiền chứ không đáng sợ. Trái ngược với vẻ ngoài, nghe mấy vị khách quen trong quán kháo nhau thì ông lại là người có tâm hồn rất mực tinh tế.
 
-"Tôi không chắc bọn tôi có thể quậy tưng bừng tới mức đó không, nhưng mừng là chúng tôi có thể thư giãn ở đây. Nhân tiện, tôi muốn hỏi thăm ông đôi điều về Hồ Petorama," tôi nói.
+"Chắc chúng tôi không uống nổi tới mức đó đâu, nhưng được ghé vào đây nghỉ chân là mừng rồi. Nhân tiện, tôi muốn hỏi thăm ông đôi điều về Hồ Petorama," tôi nói.
 
-"Hồ Petorama ư? Hóa ra các vị đến đây vì chỗ đó à. Tầm này trong năm ngay cả dân chúng tôi cũng chẳng dám bén mảng lại gần, nhưng tôi biết một người có thể kể cho các vị nghe về tình hình thường ngày ở hồ đấy. Này, Ferrici! Mấy vị khách này muốn nghe ngóng về cái hồ kìa!"
+"Hồ Petorama ư? Hóa ra các vị đến đây vì chỗ đó à. Tầm này trong năm ngay cả dân làng chúng tôi cũng chẳng dám bén mảng lại gần, nhưng tôi biết một người có thể kể cho các vị nghe hồ dạo này thế nào. Này, Ferrici! Có mấy vị khách muốn hỏi chuyện về cái hồ kìa!"
 
-Chủ quán rượu gọi với về phía bàn của ba người phụ nữ đang thưởng thức đồ ăn thức uống. Người phản ứng lại là cô gái có diện mạo bình dị nhất trong nhóm ba người, và cô có vẻ rụt rè khi ngập ngừng không đáp lời ngay. Tuy nhiên, được hai người bạn cùng bàn khích lệ, cuối cùng cô cũng bước về phía chúng tôi với vẻ đôi chút bối rối.
+Chủ quán gọi với về phía bàn của ba cô gái đang ngồi ăn uống. Người đáp lại trông mộc mạc nhất trong ba người, lại có vẻ bẽn lẽn khi ngập ngừng chưa dám trả lời. Nhưng được hai cô bạn cùng bàn giục giã, cuối cùng cô cũng rụt rè bước lại phía chúng tôi.
 
-Hẳn là rất đáng sợ khi bị gọi tới trước mặt một nhóm mạo hiểm giả vừa mới dạt vào ngôi làng hẻo lánh này. Phần lớn mạo hiểm giả đều có vẻ ngoài bặm trợn, và nhiều kẻ trong số họ thường kiếm chuyện quậy phá trong quán rượu một khi đã ngà ngà hơi men. Người ta có thể dễ dàng hình dung mọi chuyện thường diễn ra thế nào khi một đám mạo hiểm giả say xỉn gọi một thiếu nữ trẻ lại gần. Dĩ nhiên, tình huống kiểu này đôi khi cũng mang lại kết quả tích cực. Một cô gái có thể kiếm được một đồng tiền vàng—khoản tiền tương đương cả năm thu nhập ở những ngôi làng hẻo lánh—chỉ bằng việc rót rượu cho mạo hiểm giả, hoặc thậm chí nhận được một lời mời hẹn hò nghiêm túc.
+Hẳn là sợ lắm khi bị gọi lại chỗ đám mạo hiểm giả vừa đặt chân tới ngôi làng hẻo lánh này. Phần lớn mạo hiểm giả đều thô lỗ, cộc cằn, và không ít kẻ cứ có chút men vào là gây chuyện trong quán rượu. Chẳng khó để hình dung mọi chuyện thường đi đến đâu khi một đám mạo hiểm giả say khướt gọi một cô gái trẻ lại bàn. Dĩ nhiên, chuyện này đôi khi cũng có cái kết êm đẹp. Biết đâu cô gái lại kiếm được một đồng vàng—khoản tiền bằng cả năm thu nhập ở chốn thôn quê hẻo lánh—chỉ nhờ rót rượu cho mạo hiểm giả, hay thậm chí nhận được một lời ngỏ ý hẹn hò đàng hoàng.
 
-Ít nhất thì những người bạn đã cổ vũ cô gái dường như tin rằng cuộc trò chuyện này sẽ kết thúc êm đẹp. Có lẽ họ nghĩ rằng chúng tôi sẽ không làm điều gì quá khiếm nhã khi trong nhóm có một phụ nữ—dẫu rằng chuyện một gã đàn ông nguy hiểm đi cùng phụ nữ cũng chẳng phải là không có.
+Ít nhất thì mấy cô bạn vừa giục giã dường như cũng tin rằng chuyện này sẽ suôn sẻ. Có lẽ họ đinh ninh chúng tôi sẽ chẳng làm gì quá trớn khi trong nhóm có phụ nữ—dù đàn ông nguy hiểm dắt theo phụ nữ cũng chẳng phải chuyện hiếm.
 
 "T-Tôi..." Ferrici lí nhí, lộ rõ vẻ căng thẳng.
 
-Lorraine mỉm cười với cô gái. "Em cứ thả lỏng đi. Chúng tôi không làm hại em đâu. Bọn tôi chỉ có vài câu muốn hỏi thôi. Ngày mai chúng tôi sẽ lên đường đến Hồ Petorama, và muốn tìm hiểu đôi chút về địa hình tổng thể quanh đó, khoảng cách từ đây tới hồ, quy mô của nó, cùng bất kỳ thông tin nào về hệ sinh thái ở đấy. Bác chủ quán bảo em là chuyên gia đấy."
+Lorraine mỉm cười với cô: "Em cứ bình tĩnh, chúng tôi không làm hại em đâu. Chúng tôi chỉ muốn hỏi vài câu thôi. Ngày mai nhóm tôi sẽ đến Hồ Petorama, nên muốn tìm hiểu xem địa hình quanh đó thế nào, cách đây bao xa, hồ rộng cỡ nào, với lại hệ sinh thái ở đó ra sao. Bác chủ quán bảo em rành chuyện này nhất."
 
 ◆◇◆◇◆
 
-Hồ Petorama là điểm đến cuối cùng trong chuyến hành trình của chúng tôi. Looza là ngôi làng nằm gần hồ nhất, đó là lý do vì sao chúng tôi quyết định dừng chân tại đây. Chúng tôi nhắm tới một số nguyên liệu quý giá có thể tìm thấy quanh hồ: Aqua Hathur, Golem Luteum, và thậm chí cả lanh Phi Long. Nơi này có đầy đủ mọi chiến lợi phẩm chủ chốt mà chúng tôi đang tìm kiếm.
+Hồ Petorama là điểm đến cuối cùng của chuyến đi. Looza lại là ngôi làng gần hồ nhất, nên chúng tôi mới quyết định nghỉ lại đây. Cả nhóm đang cần tìm vài loại nguyên liệu quý quanh vùng hồ: Aqua Hathur, Golem Luteum, và cả lanh Phi Long. Mọi chiến lợi phẩm quan trọng nhất mà chúng tôi nhắm tới đều tập trung ở nơi này.
 
-Dù vậy, rất hiếm mạo hiểm giả cất công lặn lội tới Looza, phần lớn là bởi tất cả các nguyên liệu khác có ở Hồ Petorama đều có thể dễ dàng thu thập được ở những nơi khác. Chẳng mấy ai buồn đi sâu vào tận vùng nông thôn xa xôi này. Thế nhưng chúng tôi lại chẳng có nhiều sự lựa chọn ngoài việc thực hiện chuyến đi, bởi đây là địa điểm duy nhất mà chúng tôi có thể thu thập tất cả các nguyên liệu mình cần trong một lần, hoặc ít nhất là kịp trước thời hạn chót.
+Dù vậy, hiếm có mạo hiểm giả nào lặn lội tới Looza, chủ yếu vì những nguyên liệu khác ở Hồ Petorama đều có thể dễ dàng tìm thấy ở nơi khác. Chẳng mấy ai rảnh rỗi mà đi sâu vào vùng thôn quê hẻo lánh thế này. Chúng tôi đành phải đi chuyến này là vì đây là nơi duy nhất có thể gom đủ mọi thứ cần tìm trong một lần, hoặc chí ít là kịp trước thời hạn chót.
 
-Nếu cố thu thập chúng ở những địa điểm thuận tiện hơn, chúng tôi sẽ mất toi một tuần chỉ riêng cho việc đi lại, nhưng cố gom hết chúng trong một lần cũng chẳng khá khẩm hơn là bao. Mỗi loại nguyên liệu trong số đó chúng tôi vốn có thể thu thập chỉ trong vòng hai ngày. Ý nghĩ rằng chúng tôi rơi vào tình cảnh rối ren này chỉ vì Augurey đã nhồi nhét lịch trình quá mức lại len lỏi vào tâm trí tôi, nhưng tôi đoan chắc Augurey sẽ bảo rằng anh ta lên lịch trình với sự tự tin tuyệt đối rằng chúng tôi có thể làm được. Trên thực tế, có vẻ như chúng tôi sắp sửa làm đúng như thế và khẳng định tài lên kế hoạch của anh ta. Thật là bực mình làm sao.
+Nếu tìm ở những nơi thuận tiện hơn, chỉ riêng tiền trạm đi lại đã ngốn đứt một tuần, nhưng gom hết một mẻ thế này cũng chẳng khá hơn bao nhiêu. Mỗi thứ trong số đó vốn dĩ có thể thu thập trong vòng hai ngày. Tôi lại thầm nghĩ cả nhóm dính vào mớ bòng bong này chỉ vì Augurey nhồi nhét lịch trình quá mức, nhưng tôi tin chắc anh ấy sẽ khăng khăng rằng mình lên kế hoạch dựa trên niềm tin tuyệt đối vào năng lực của chúng tôi. Mà khéo chúng tôi sắp làm được thật, chẳng khác nào chứng minh tài lên lịch của anh ấy là đúng. Nghĩ mà bực cả mình.
 
-"C-Các vị muốn hỏi tôi về Hồ Petorama ư?"
+"C-Các vị muốn hỏi tôi về Hồ Petorama sao?"
 
-Tôi quay trở lại với thực tại, nhớ ra rằng chúng tôi sắp sửa hỏi Ferrici vài câu. Chúng tôi đã giao phó cuộc dò hỏi cho một Lorraine luôn bình tĩnh và điềm đạm, thuần túy xuất phát từ toan tính rằng cô sẽ có cơ hội thành công cao hơn nhiều so với một kẻ mang gương mặt đầu lâu như tôi, hay Augurey, hiện thân sống của sự lòe loẹt.
+Tôi giật mình trở về thực tại, nhớ ra cả nhóm đang định hỏi chuyện Ferrici. Chúng tôi giao việc bắt chuyện cho một Lorraine luôn bình tĩnh và hòa nhã, xuất phát từ toan tính rõ ràng rằng cô ấy có cơ hội thành công cao hơn hẳn một kẻ mang bộ mặt đầu lâu như tôi, hay Augurey—hiện thân sống của sự lòe loẹt.
 
-"Đúng vậy," Lorraine mở lời. "Bọn tôi dự định thu thập một số nguyên liệu ở trên đó."
+"Phải," Lorraine mở lời. "Chúng tôi định lên đó tìm vài món nguyên liệu."
 
-Ferrici vội vàng chen ngang. "Cái gì cơ?! K-Không được đến đó lúc này đâu! Đang là mùa giao phối của Phi Long, bọn chúng bảo vệ lãnh thổ dữ lắm. Nếu các vị tới đó, chúng sẽ tấn công các vị ngay đấy!"
+Ferrici vội ngắt lời: "Gì cơ ạ?! K-Không được đến đó lúc này đâu! Đang là mùa giao phối của Phi Long nên bọn chúng giữ lãnh thổ dữ lắm. Các vị mà tới, chúng sẽ xông vào tấn công ngay đấy!"
 
-Hồ Petorama là địa điểm giao phối nổi tiếng của loài Phi Long. Phi Long có rất nhiều chủng loại, nhưng cái hồ này lại là điểm đến ưa thích của loài Phi Long Mime màu xanh lam nhạt, một phân loài của Phi Long Zeva. Chuyến hành hương của loài Phi Long không phải sự kiện diễn ra thường niên, bởi cứ cách vài năm chúng mới tụ tập lại vào một thời điểm nhất định trong năm. Trong khoảng thời gian đó, chúng đẻ trứng, nuôi nấng bầy con non cho tới khi biết bay, rồi bay tới vùng khí hậu ấm áp hơn trước khi mùa đông kéo đến. Ferrici đang cho chúng tôi hay rằng bầy Phi Long Mime gần đây đã chiếm cứ cái hồ vì mục đích này.
+Hồ Petorama vốn là bãi giao phối nổi tiếng của loài Phi Long. Phi Long có nhiều chủng loại, nhưng vùng hồ này là điểm đến ưa thích của loài Phi Long Mime màu xanh lam nhạt, một phân loài của Phi Long Zeva. Đợt di trú của Phi Long không diễn ra hằng năm, mà cứ cách vài năm chúng mới tụ họp lại vào một thời điểm nhất định. Trong khoảng thời gian đó, chúng đẻ trứng, nuôi con non cho tới khi chúng biết bay, rồi rời đi tìm nơi ấm áp hơn trước khi mùa đông tới. Ferrici cho chúng tôi biết bầy Phi Long Mime gần đây đã chiếm cứ vùng hồ vì mục đích ấy.
 
-"Bọn tôi biết chuyện đó," Lorraine đáp lại. "Chúng tôi định thu hoạch một ít lanh Phi Long, bởi nó chỉ mọc ở những nơi có sự hiện diện của Phi Long."
+"Chúng tôi biết chứ," Lorraine đáp lời. "Chúng tôi định thu hoạch một ít lanh Phi Long, vì loài cây này chỉ mọc ở những nơi có Phi Long sinh sống."
 
-"Phân của Phi Long là nguồn phân bón cho cây lanh, phải vậy không?" tôi xen vào, nhớ lại một trang sách từng đọc.
+"Phân của Phi Long bón cho cây lanh mọc, đúng không?" tôi góp lời, nhớ lại một trang sách từng đọc.
 
-"Phải. Dù sao thì lý thuyết là như vậy. Một số loài Phi Long nhỏ hơn được các long kỵ sĩ hoặc người điều khiển xe kéo Phi Long cưỡi, và tôi từng nghe nói về việc trồng thử nghiệm lanh Phi Long, nhưng chúng chưa bao giờ phát triển lớn bằng những cây mọc tự nhiên ngoài hoang dã. Hẳn là còn có những điều kiện khác để nó sinh trưởng."
+"Đúng thế. Về mặt lý thuyết thì là vậy. Một vài phân loài Phi Long nhỏ hơn được kỵ sĩ rồng hoặc người lái xe kéo Phi Long cưỡi, và tôi từng nghe người ta trồng thử nghiệm lanh Phi Long, nhưng cây trồng không bao giờ lớn bằng cây mọc tự nhiên. Chắc hẳn phải có thêm điều kiện nào khác thì nó mới phát triển được."
 
 "Vậy là người ta từng trồng được nó rồi à?" tôi hỏi.
 
-"Đúng vậy, nhưng cả về số lượng lẫn chất lượng đều không đủ để phương pháp này mang lại hiệu quả kinh tế. Việc thu hoạch chúng từ tự nhiên cho ra sản phẩm tốt hơn và nhanh hơn nhiều. Thử nghiệm đó không mấy thành công."
+"Đúng thế, nhưng cả sản lượng lẫn chất lượng đều không đủ để đem lại hiệu quả kinh tế. Đi thu hoạch ngoài tự nhiên vừa nhanh hơn lại vừa cho chất lượng tốt hơn. Thử nghiệm đó coi như không mấy thành công."
 
-Tôi thầm cảm kích khi ở đâu đó ngoài kia luôn có những người sẵn sàng dấn thân vào bất kỳ dự án nào. Dẫu vậy, cuộc thử nghiệm này lại không hề xuất hiện trong bất kỳ cuốn sách nào tôi từng đọc. Có lẽ vì nó không đáng để đưa vào sách, hoặc thử nghiệm đã được tiến hành trong vòng bí mật, hay đơn giản là do tôi đọc chưa đủ nhiều, hoặc cũng có thể là do tất cả những lý do trên gộp lại.
+Tôi thầm nể phục việc ở đâu đó ngoài kia luôn có những người bắt tay vào đủ thứ dự án. Cơ mà vụ này chẳng thấy cuốn sách nào tôi từng đọc nhắc tới. Có lẽ vì nó không đáng đưa vào sách, hoặc cuộc thử nghiệm được làm bí mật, hay chỉ đơn giản là do tôi đọc chưa đủ nhiều, hoặc cũng có khi là do cả ba.
 
-"Chúng ta nói chệch hướng mất rồi. Em tên Ferrici phải không? Tóm lại là bọn tôi biết có Phi Long ở cái hồ đó," Lorraine nói.
+"Chúng ta lạc đề rồi. Em tên Ferrici phải không? Nói ngắn gọn thì, chúng tôi biết có Phi Long ở quanh hồ," Lorraine nói.
 
-Sắc mặt Ferrici chùng xuống. "Có lẽ các vị nên đổi kế hoạch thì hơn..."
+Vẻ mặt Ferrici chùng xuống: "Thế thì có lẽ các vị nên đổi kế hoạch đi ạ..."
 
-Lorraine lắc đầu. "Bọn tôi là mạo hiểm giả, Ferrici à. Chúng tôi không lùi bước trước thử thách đâu. Chà, nói vậy nghe có vẻ bọn tôi dũng cảm hơn thực tế một chút, nhưng chúng tôi biết chuyến đi này hoàn toàn khả thi. Đã có những ghi chép cho thấy một lượng nhỏ lanh Phi Long từng được xuất khẩu từ ngôi làng này ngay giữa mùa giao phối của Phi Long. Chắc chắn phải có cách nào đó để tiếp cận cái hồ."
+Lorraine lắc đầu: "Chúng tôi là mạo hiểm giả, Ferrici à, không dễ lùi bước trước thử thách đâu. Chà, nói thế nghe hơi quá dũng cảm so với thực tế, nhưng chúng tôi biết chuyến đi này hoàn toàn có thể thực hiện được. Hồ sơ lưu lại cho thấy từng có một lượng nhỏ lanh Phi Long được xuất khẩu từ ngôi làng này ngay giữa mùa giao phối. Nhất định phải có cách nào đó để đến được bờ hồ chứ."
 
-Chừng đó thông tin chúng tôi đã điều tra được khi còn ở vương đô. Chúng tôi đã tra cứu danh sách một vài thương nhân lữ hành từng tới Looza trước đây và hỏi han họ. Yattul là một trong số những thương nhân đó. Dĩ nhiên, giờ chúng tôi đã biết gã hoàn toàn chẳng phải thương nhân gì cả—trừ phi gã vốn là thương nhân thật và chỉ làm thêm nghề gián điệp. Nghe cũng có vẻ hợp lý. Một thương nhân lữ hành sẽ dễ dàng thu thập thông tin hơn đa phần người khác, và đó là vỏ bọc hoàn hảo trong hầu hết mọi tình huống. Ban đầu gã thậm chí còn lừa được cả chúng tôi nữa là.
+Chừng đó thông tin là những gì chúng tôi đã điều tra được từ hồi còn ở vương đô. Chúng tôi tìm hỏi vài thương nhân lữ hành từng tới Looza, và Yattul chính là một trong số đó. Dĩ nhiên, giờ thì chúng tôi biết thừa gã chẳng phải thương nhân gì cả—trừ phi gã là thương nhân thật và chỉ đi làm thêm gián điệp. Nghe cũng có lý. Nghề thương nhân lữ hành thu thập tin tức dễ hơn phần lớn mọi người, lại là vỏ bọc hoàn hảo trong hầu hết mọi hoàn cảnh. Ban đầu gã còn qua mặt được cả chúng tôi nữa là.
 
-Đôi mắt Ferrici mở to. "C-Chuyện đó..."
+Mắt Ferrici mở to: "C-Chuyện đó..."
 
-Rõ ràng là cô gái, hay nói rộng ra là cả ngôi làng, không hề muốn thông tin đó bị rò rỉ ra ngoài. Nhưng tại sao lại không chứ? Nếu có bí quyết cho phép họ tiến vào lãnh địa giao phối của Phi Long, đó hẳn phải là một mánh khóe cực kỳ hữu dụng. Có lẽ bí mật ấy đem lại quá nhiều lợi nhuận để có thể chia sẻ cho người ngoài. Trứng và con non của Phi Long bán được giá rất cao, bởi Phi Long có thể thuần hóa nếu được con người nuôi nấng từ nhỏ. Các long kỵ sĩ và người điều khiển xe kéo Phi Long sẽ huấn luyện chúng theo cách phù hợp nhất với mục đích sử dụng. Dù trong trường hợp nào, tất cả đều phải bắt đầu bằng việc uốn nắn từ khi chúng còn rất nhỏ. Nếu có cách thu được cả mớ trứng hoặc con non Phi Long, bất kỳ quốc gia nào cũng sẽ thèm khát có được nó.
+Rõ ràng cô ấy, hay nói đúng hơn là cả ngôi làng, chẳng hề muốn để lộ chuyện đó ra ngoài. Nhưng tại sao lại giấu chứ? Nếu có bí quyết giúp họ tiến vào vùng đất giao phối của Phi Long, đó hẳn là mánh khóe vô cùng giá trị. Có lẽ bí mật này hái ra quá nhiều tiền nên họ không đời nào muốn chia sẻ. Trứng và con non của Phi Long đều bán được giá rất cao, bởi Phi Long có thể thuần hóa nếu được người nuôi nấng từ bé. Kỵ sĩ rồng hay người lái xe kéo Phi Long đều huấn luyện chúng theo cách phù hợp nhất với mục đích sử dụng. Đằng nào thì mọi thứ cũng phải bắt đầu rèn giũa từ khi chúng còn rất nhỏ. Nếu có cách kiếm được một mẻ lớn trứng hoặc con non Phi Long, quốc gia nào mà chẳng thèm khát.
 
-Bất luận suy đoán của tôi có trúng đích hay không, Lorraine trông như thể cũng có chung mạch suy nghĩ tương tự.
+Dù phỏng đoán của tôi có trúng hay không, trông nét mặt Lorraine có vẻ cô ấy cũng nghĩ như vậy.
 
-"Có điều gì đó em không muốn nói ra ư? Tôi cũng có thể đoán được phần nào, nhưng chúng tôi chỉ muốn thu thập những nguyên liệu mình cần, và chỉ lấy đúng số lượng cần thiết mà thôi. Cả con non lẫn trứng Phi Long đều không nằm trong danh sách đó. Nếu em không thể tiết lộ cách thức... thì liệu em có thể dẫn đường cho chúng tôi tới đó không? Dĩ nhiên chúng tôi sẽ trả công hậu hĩnh cho em, và chúng tôi thề sẽ ngậm chặt miệng về bất cứ điều gì mình nhìn thấy."
+"Có chuyện gì khó nói sao em? Tôi cũng đoán được phần nào, nhưng chúng tôi chỉ muốn thu thập nguyên liệu mình cần, và chỉ lấy vừa đủ dùng mà thôi. Cả trứng lẫn con non Phi Long đều không nằm trong mục đích của chúng tôi. Nếu em không thể nói rõ cách đi... thì liệu có thể dẫn đường cho chúng tôi tới đó được không? Dĩ nhiên chúng tôi sẽ trả thù lao chu đáo, và xin thề sẽ kín miệng tuyệt đối về mọi thứ mình nhìn thấy."
 
 "Tôi xin lỗi. Tôi không làm được đâu!" Ferrici thốt lên rồi vụt chạy ra ngoài cửa.
 
-Lorraine dõi mắt nhìn cô gái lao vụt đi, rồi quay sang nhìn chúng tôi với vẻ áy náy. "Xin lỗi nhé. Tôi không thể chốt được thỏa thuận rồi."
+Lorraine nhìn theo bóng cô gái chạy biến, rồi quay sang nhìn chúng tôi với vẻ áy náy: "Xin lỗi nhé, tôi không dàn xếp xong được rồi."
 
 ◆◇◆◇◆
 
-"Cô cũng chẳng thể làm gì hơn được đâu," tôi nói, cố gắng trấn an Lorraine. "Đời nào người ta lại dễ dàng tiết lộ cách tiếp cận bầy Phi Long đang mùa giao phối, nhất là với mấy tay mạo hiểm giả ất ơ mà họ chẳng hề quen biết."
+"Cô cũng đã làm hết nước hết cái rồi," tôi nói để trấn an Lorraine. "Đời nào dân làng chịu hé răng bí quyết tiếp cận Phi Long mùa giao phối, nhất là với đám mạo hiểm giả xa lạ từ đẩu từ đâu tới mà họ chẳng quen biết."
 
-Lorraine gật đầu, nhưng cô vẫn có đôi chút thất vọng. "Cũng đúng. Cá nhân tôi thực sự rất muốn tìm hiểu phương pháp đó, nhưng chúng ta cũng chẳng thể làm gì khác được."
+Lorraine gật đầu, nhưng cô ấy vẫn thoáng chút tiếc nuối. "Cũng phải. Cá nhân tôi thực lòng muốn biết cách đó, nhưng cũng đành chịu thôi."
 
-Lorraine vốn sở hữu tính hiếu kỳ mãnh liệt đến mức thèm khát. Cô muốn biết bí mật cụ thể này nhiều hơn những gì mình thể hiện ra ngoài, nhưng cô có đủ lương tri thông thường và—ở một chừng mực nào đó—lương tâm. Chí ít thì cô sẽ không đời nào tính đến chuyện tra khảo Ferrici để moi thông tin hay bất kỳ điều gì tương tự như thế.
+Lorraine vốn mang tính tò mò vô độ. Cô ấy muốn biết bí mật này nhiều hơn những gì lộ ra ngoài mặt, nhưng cô ấy vẫn có đủ lý trí và—phần nào đó—lương tâm. Chí ít thì cô ấy sẽ không bao giờ nghĩ đến chuyện tra khảo Ferrici để moi tin hay làm trò gì đại loại thế.
 
-"Ảo thuật gia không chịu chia sẻ mánh khóe với chúng ta thì cũng chẳng sao. Cửa sau đã đóng thì ta cứ đường đường chính chính đi vào bằng cửa trước," Augurey nói.
+"Nhà ảo thuật không chịu chia sẻ mánh khóe thì cũng chẳng sao. Cửa sau đã đóng thì chúng ta cứ đường đường chính chính đi vào bằng cửa trước," Augurey bảo.
 
-Đi vào bằng cửa trước, trong trường hợp này, đồng nghĩa với việc xông thẳng vào lãnh địa của Phi Long. Bầy Phi Long sẽ ùa tới tấn công chúng tôi, nhưng tất cả những gì chúng tôi cần làm là hạ gục toàn bộ bọn chúng. Mọi bộ phận của Phi Long Mime đều hữu dụng, nên điều này sẽ mang lại cho chúng tôi một khoản lợi nhuận kha khá. Ma Tinh thuộc tính thủy của chúng cũng vô cùng đa dụng.
+Đi bằng cửa trước trong trường hợp này nghĩa là xông thẳng vào lãnh địa của Phi Long. Lũ Phi Long chắc chắn sẽ lao vào tấn công, nhưng việc của chúng tôi chỉ là hạ gục hết bọn chúng. Mọi bộ phận trên người Phi Long Mime đều có giá trị sử dụng, nên chuyến này sẽ đem lại một khoản hời kha khá. Ma Tinh thuộc tính thủy của chúng cũng dùng được vào rất nhiều việc.
 
-Vấn đề là liệu chúng tôi có thực sự đương đầu nổi với ngần ấy con Phi Long hay không. Tôi thì rõ ràng là không thể rồi. Augurey cũng vậy, theo như những gì tôi biết. Kế hoạch của chúng tôi đặt trọn lên đôi vai của nữ ma pháp sư trong nhóm, Lorraine Vĩ Đại. Cách miêu tả nửa đùa nửa thật kiểu này có thể khiến cô ấy nổi đóa, nhưng cô chắc chắn sẽ là thành viên hữu dụng nhất trong nhóm nếu chúng tôi định xông thẳng vào một bầy Phi Long Mime đang trong mùa giao phối.
+Ngặt nỗi, vấn đề là liệu chúng tôi có kham nổi ngần ấy con Phi Long hay không. Tôi thì rõ ràng chịu chết rồi. Augurey theo tôi biết cũng chẳng hơn là bao. Toàn bộ kế hoạch đều trông cậy cả vào nữ ma pháp sư của nhóm chúng tôi, Lorraine Vĩ Đại. Cách gọi trêu ngươi này khéo sẽ chọc cô ấy nổi đóa, nhưng cô ấy chắc chắn là người đắc lực nhất nếu cả nhóm muốn xông thẳng vào bầy Phi Long Mime đang mùa giao phối.
 
-Sức mạnh của Phi Long chỉ đến từ mỗi một thực tế là chúng có thể bay lượn trên không trung, nhưng một khi ma pháp phong hệ đánh rớt chúng xuống đất thì Augurey và tôi hoàn toàn có thể xử lý được. Dĩ nhiên là không thể chọi lại hàng chục hay hàng trăm con, nhưng mọi phân loài Phi Long đều có trí khôn tương đối, thế nên một khi vài con bị đánh rơi xuống đất thì phần lớn những con khác sẽ tự khắc tránh xa chúng tôi. Nếu có cá thể bướng bỉnh nào lao tới, chúng tôi có thể xử lý từng con một.
+Thế mạnh của Phi Long thực chất chỉ nằm ở chỗ chúng bay lượn được trên trời, chứ một khi bị ma pháp phong hệ đánh rụng xuống đất thì Augurey và tôi thừa sức xử lý. Đương nhiên chẳng thể nào chọi lại hàng chục hay hàng trăm con cùng lúc, nhưng các phân loài Phi Long đều khá thông minh, hễ thấy vài đồng loại bị hạ đo ván là đa phần sẽ tự động tránh xa. Còn nếu có con nào ngoan cố lao tới, chúng tôi hoàn toàn có thể tỉa từng con một.
 
-Nếu nhiệm vụ tỏ ra quá sức, việc cúp đuôi chạy trốn vẫn luôn là một phương án khả thi. Chẳng việc gì phải cố đấm ăn xôi để rồi ôm đồm quá sức. May mắn là phía Hội đã hứa sẽ không đánh dấu nhiệm vụ này là thất bại nếu tình huống tệ nhất xảy ra.
+Còn nếu nhiệm vụ quá khó nhằn, chúng tôi vẫn có thể cúp đuôi chạy lấy người. Tội gì phải cố đấm ăn xôi để rồi ôm đồm quá sức. Cũng may là phía Hội đã đồng ý không tính ủy thác này là thất bại nếu chẳng may rơi vào cảnh đó.
 
-"Tính toán vậy thì tốt thôi," Lorraine đáp, "nhưng nếu vài trăm con cùng lúc bay tới thì tôi sẽ chuồn trước đấy. Chẳng có lý do gì để thảm sát cả một quần thể Phi Long Mime cả."
+"Nói thì hay lắm," Lorraine đáp lại, "nhưng nếu có vài trăm con cùng bay tới thì tôi chạy trước đấy. Chẳng việc gì phải thảm sát cả một quần thể Phi Long Mime làm gì."
 
-Lorraine có vẻ bận tâm về tác động môi trường hơn là món lợi nhuận tiềm năng của chúng tôi, và cô nói thêm rằng bầy Phi Long hẳn đang kìm hãm số lượng của các loài quái vật khác. Những quái vật mạnh hơn thường săn bắt những loài yếu hơn như Goblin, loài vốn sinh sôi nảy nở rất nhanh. Nói là vậy, nhưng ngay cả Goblin cũng có thể trở thành mối đe dọa nghiêm trọng đối với một ngôi làng nhỏ như thế này, nên tôi đoán dân làng cũng rất biết ơn việc bầy Phi Long Mime giúp họ diệt trừ bớt mối họa đó.
+Lorraine có vẻ bận tâm đến tác động môi trường hơn là khoản lợi nhuận tiềm năng của cả nhóm. Cô ấy nói thêm rằng bầy Phi Long hẳn đang kìm hãm số lượng các loài quái vật khác. Lũ quái vật mạnh thường săn bắt những loài yếu hơn như Goblin, vốn là giống loài sinh sôi rất nhanh. Dù vậy, ngay cả Goblin cũng có thể trở thành hiểm họa lớn cho một ngôi làng nhỏ thế này, nên tôi đoán dân làng chắc cũng đội ơn bầy Phi Long Mime vì đã giúp họ trừ bớt lũ dịch họa.
 
-Cũng đáng lưu ý rằng loài Phi Long hiếm khi vô cớ tấn công con người. Trên thực tế, quái vật càng mạnh mẽ và thông minh thì lại càng ít khi làm chuyện đó. Người ta tin rằng chúng nhận thức được việc ăn thịt quái vật đem lại nhiều dinh dưỡng hơn là ăn thịt người. Dẫu vậy, dù chẳng có gì là tuyệt đối khi nhắc tới quái vật, tôi vẫn cho rằng Phi Long dễ đối phó hơn nhiều so với những loài như Goblin, vốn dường như rất thích thú với việc tấn công loài người.
+Cũng cần nói thêm rằng loài Phi Long hiếm khi vô cớ tấn công con người. Thường thì quái vật càng mạnh và thông minh, chúng lại càng ít khi làm vậy. Người ta cho rằng chúng thừa biết ăn thịt quái vật bổ béo hơn thịt người nhiều. Dù đối với quái vật chẳng có gì là chắc chắn, tôi vẫn thấy Phi Long dễ đối phó hơn nhiều so với cái giống như Goblin—lũ vốn dường như khoái tấn công con người.
 
-"Quả thực là vậy," Augurey đồng tình. "Chúng ta không muốn mang lại tai họa cho ngôi làng này. Quay về quán trọ thôi nhỉ? Chúng ta nên nghỉ ngơi một chút. Ngày mai sẽ là một ngày bận rộn đấy."
+"Đúng thế," Augurey đồng tình. "Chúng ta đâu muốn gieo rắc tai họa cho ngôi làng này. Mình quay về quán trọ thôi nhỉ? Phải nghỉ ngơi một chút, mai còn khối việc đấy."
 
-Khi tôi liếc mắt nhìn ra ngoài trời, vầng trăng đã báo cho tôi biết giờ giấc. Với rất nhiều việc cần làm trong kế hoạch ngày mai, tốt nhất là chúng tôi nên đi ngủ sớm để có thể bắt đầu từ sáng tinh mơ.
+Liếc nhìn ra ngoài, bóng trăng đã ngả báo hiệu đêm muộn. Ngày mai còn cả đống việc đang chờ, nên tốt nhất là cả nhóm phải đi ngủ sớm để mai còn dậy thật sớm bắt tay vào việc.
 
-"Ừm, chúng ta về thôi," tôi hưởng ứng.
+"Ừ, về thôi," tôi hưởng ứng.
 
-Chúng tôi thanh toán tiền cho chủ quán, kèm thêm vài đồng xu vì đã làm phiền ông, rồi bước ra khỏi cửa.
+Chúng tôi thanh toán tiền rượu cho chủ quán, boa thêm vài đồng vì đã làm phiền ông, rồi rảo bước ra cửa.
