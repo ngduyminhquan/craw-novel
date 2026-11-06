@@ -2,184 +2,184 @@
 
 "Họ tới rồi!"
 
-Lorraine có thể nhìn thấy gã Cự Nhân đang tiến xuyên qua khu rừng về phía mình, húc đổ và bứng gốc cây cối như một cơn lốc xoáy hủy diệt. Kích thước khổng lồ của hắn từng dấy lên nỗi sợ hãi mang tính bản năng bên trong cô khi nhìn thấy hắn ở cự ly gần trước đó, nhưng việc quan sát hắn từ đằng xa cũng đáng sợ theo cách riêng. Khi ngẫm về việc Cự Nhân từng phổ biến hơn nhiều vào các thời đại đã qua và hẳn đã có lúc họ từng đe dọa con người, điều đó khiến cô tự hỏi làm thế nào mà nhân loại lại có thể sống sót để phát triển rực rỡ như ngày nay.
+Lorraine thấy gã Cự Nhân đang xộc qua cánh rừng về phía mình, húc đổ và bứng gốc cây cối chẳng khác nào một cơn lốc hủy diệt. Lúc chạm trán ở cự ly gần trước đó, vóc dáng đồ sộ của hắn từng dấy lên trong cô nỗi sợ theo bản năng, nhưng giờ nhìn từ xa thế này cũng rợn ngợp chẳng kém. Nghĩ tới chuyện thời xa xưa Cự Nhân từng đông đúc hơn nhiều và hẳn từng không ít lần đe dọa con người, cô lại tự hỏi làm sao mà nhân loại thuở ấy có thể sống sót để rồi sinh sôi phát triển được như ngày nay.
 
-Dẫu vậy, cô có thể ngẫm nghĩ về quá khứ sau. Ngay lúc này, chỉ có duy nhất một điều cô cần phải làm: chuẩn bị một đòn tấn công đủ uy lực để hạ gục gã Cự Nhân.
+Có điều, chuyện quá khứ cứ để sau hãy tính. Ngay lúc này, cô chỉ có một việc duy nhất phải làm: chuẩn bị một đòn ma pháp đủ uy lực để hạ gục gã Cự Nhân.
 
-Nhằm tạo cho mình góc bắn chuẩn xác nhất vào mục tiêu, Lorraine đã nhờ Augurey nhắn lại với Rentt rằng hãy "dụ gã Cự Nhân tới nơi nào đó mà tôi có thể tung ma pháp đánh vào mạn sườn hắn". Dường như Augurey đã hoàn thành tốt nhiệm vụ của mình, bởi lẽ gã Cự Nhân già đang tiến thẳng về đúng hướng họ đã dự trù.
+Để có góc ra đòn thuận lợi nhất nhắm vào mục tiêu, Lorraine từng nhờ Augurey bảo Rentt hãy "dụ gã Cự Nhân tới chỗ nào đó để tôi có thể đánh ma pháp vào mạn sườn hắn". Xem chừng Augurey đã làm tròn phận sự, bởi gã Cự Nhân già đang lao đúng về hướng họ đã dự tính.
 
-Tất cả những gì còn lại là định hình Ma Lực, cấu trúc ma pháp và khai hỏa, nhưng nói thì bao giờ cũng dễ hơn làm. Ngay cả Lorraine cũng chẳng sở hữu nguồn Ma Lực vô tận. Tình hình càng chẳng mấy khả quan khi cô có lẽ đã tiêu tốn nhiều Ma Lực hơn mức cần thiết cho phép Glacies Cometes thi triển trước đó. Ban đầu ma pháp ấy vốn không được thiết kế để tạo ra một khối cầu băng khổng lồ đến nhường ấy—nó chỉ thành ra như vậy bởi cô đã chắp vá nó bằng cách cưỡng ép dồn lực. Tất nhiên cô vẫn còn Ma Lực để xoay xở, nhưng chưa đủ để có thể hoàn toàn an tâm về những gì mình sắp sửa làm.
+Việc còn lại chỉ là ngưng tụ Ma Lực, kiến tạo ma pháp rồi tung đòn, nhưng nói thì bao giờ cũng dễ hơn làm. Đến cả Lorraine cũng đâu có nguồn Ma Lực vô tận. Đã vậy, có lẽ cô còn tiêu tốn nhiều Ma Lực hơn mức cần thiết cho chiêu Glacies Cometes lúc nãy. Ban đầu phép đó vốn không tạo ra khối cầu băng to đến cỡ ấy—nó chỉ thành ra như vậy vì cô đã gượng ép dồn lực để chắp vá cho xong. Dĩ nhiên Ma Lực vẫn còn để xoay xở, nhưng chưa dồi dào tới mức khiến cô hoàn toàn yên tâm với những gì mình sắp làm.
 
-Dù vậy, cô đâu còn sự lựa chọn nào khác. Một đám mây bụi mù mịt đang không ngừng áp sát. Rentt và Augurey hẳn đang ở ngay dưới chân gã Cự Nhân, chạy thục mạng như điên. Nếu cô thất bại, đó sẽ là dấu chấm hết cho tất cả bọn họ. Cô không thể để điều đó xảy ra.
+Nhưng cô cũng chẳng còn lựa chọn nào khác. Bụi đất mù mịt đang cuồn cuộn áp sát. Rentt và Augurey chắc đang ở ngay sát dưới chân gã Cự Nhân, chạy trối chết. Nếu cô thất bại, tất cả bọn họ sẽ xong đời. Cô không thể để chuyện đó xảy ra.
 
-Lorraine bắt đầu định hình Ma Lực. Vì không rõ gã Cự Nhân già sở hữu những loại dị năng nào, cô cẩn trọng thực hiện hết mức có thể để tránh bị hắn chú ý. Việc này tốn nhiều thời gian hơn thường lệ, nhưng cô đã ước lượng sơ bộ được tốc độ cùng khoảng cách của mục tiêu. Chỉ cần giữ được bình tĩnh, mọi chuyện rồi sẽ ổn thỏa. Và rồi thời khắc ấy đã điểm.
+Lorraine bắt đầu định hình Ma Lực. Vì không rõ gã Cự Nhân già sở hữu những dị năng gì, cô thao tác cẩn thận hết mức để tránh bị hắn chú ý. Dù tốn thời gian hơn bình thường, nhưng cô đã ước lượng được tốc độ và cự ly của mục tiêu. Chỉ cần giữ bình tĩnh, mọi chuyện sẽ ổn thôi. Rồi thời cơ cũng tới.
 
 "Lorraine!"
 
-Cô nghe thấy giọng của Rentt. Tiếng gọi không quá lớn; trên thực tế, âm thanh gã Cự Nhân tàn phá xung quanh gần như đã át đi nó. Dù vậy, Lorraine vẫn nghe thấy. Với cô, việc bỏ lỡ nó là điều bất khả thi. Đôi mắt cô chợt lóe lên mở to, và ngay khoảnh khắc gã Cự Nhân già đặt chân vào vị trí cô đã chọn, cô ngâm xướng câu chú của mình.
+Cô nghe thấy tiếng Rentt. Tiếng gọi không quá lớn, thậm chí tiếng gã Cự Nhân càn quét xung quanh gần như đã át mất. Nhưng Lorraine vẫn nghe thấy. Làm sao cô nghe sót cho được. Lorraine mở bừng mắt, và đúng khoảnh khắc gã Cự Nhân già bước vào vị trí đã chọn, cô cất lời ngâm xướng.
 
 "Terra Cavus!"
 
-Một lượng Ma Lực khổng lồ tụ lại quanh chân gã Cự Nhân già, tạo nên một tiếng nổ lớn khi làm sụt lún khoảng đất xung quanh. Chiếc hố đủ lớn để nuốt trọn toàn bộ cơ thể gã Cự Nhân già. Việc mặt đất dưới chân đột ngột biến mất khiến hắn ngã nhào, nhưng hắn nhanh chóng gượng dậy. Thế nhưng, Lorraine vẫn chưa dừng lại ở đó.
+Một lượng Ma Lực khổng lồ tụ lại dưới chân gã Cự Nhân già, kéo theo tiếng nổ rền vang khi cả khoảng đất xung quanh sụt lún xuống. Miệng hố to tới mức lọt thỏm cả thân hình hộ pháp của hắn. Hẫng chân đột ngột làm hắn ngã nhào, nhưng lão lập tức gượng dậy. Có điều, Lorraine vẫn chưa dừng lại ở đó.
 
 "Chưa hết đâu! Yiesh Gadólmagén!"
 
-Vô số ngọn giáo kim loại cỡ lớn thành hình, mỗi ngọn đều tích tụ một lượng Ma Lực hùng hậu để gia tăng uy lực. Ngay khoảnh khắc ngưng tụ hoàn toàn, chúng lao thẳng về phía gã Cự Nhân đang ngã trên mặt đất.
+Hàng loạt ngọn giáo kim loại to bản ngưng tụ giữa không trung, cây nào cây nấy đều nén chặt Ma Lực cuồn cuộn để gia tăng uy lực. Vừa thành hình trọn vẹn, chúng đồng loạt phóng thẳng về phía gã Cự Nhân đang ngã nhào.
 
-Lớp da của gã Cự Nhân già cứng đến mức từng bật nảy cả một nhát chém tích tụ Khí Lực của Rentt, nhưng Lorraine chẳng hề ngần ngại dồn đầy Ma Lực vào những ngọn giáo, mang lại cho chúng sức công phá đáng kể. Dù vậy, dẫu đã đâm xuyên qua cơ thể gã Cự Nhân già, chúng làm được điều đó một cách đầy chật vật, và dường như chẳng có vết thương nào thực sự nghiêm trọng. Độ bền bỉ đến khó tin của hắn quả thực vô cùng ấn tượng.
+Lớp da của gã Cự Nhân già cứng tới mức từng bật nảy cả nhát kiếm dồn Khí Lực của Rentt, nhưng Lorraine chẳng ngần ngại nén đầy Ma Lực vào từng ngọn giáo, tạo nên sức công phá đáng gờm. Dẫu vậy, dù cắm được vào người gã Cự Nhân già, những ngọn giáo cũng chỉ xuyên qua một cách chật vật và chẳng gây ra vết thương nào thực sự nghiêm trọng. Sự cứng cáp trơ trơ của lão quả thật đáng nể.
 
 "Và giờ thì, đòn cuối cùng... Hazina Barqrasūl!"
 
-Chỉ trong chớp mắt, những đám mây đen vần vũ cuồn cuộn ngưng tụ trên bầu trời, rồi từ đó giáng xuống một tia sét khổng lồ. Nó đánh trúng gã Cự Nhân già với một tiếng nổ vang rền đinh tai nhức óc, và ánh sáng phát ra từ nó nhuộm trắng xóa cả một vùng xung quanh đến lóa mắt.
+Chỉ trong chớp mắt, mây đen cuồn cuộn vần vũ trên bầu trời, rồi từ đó phóng xuống một cột sét khổng lồ. Nó giáng thẳng vào gã Cự Nhân già bằng một tiếng nổ đinh tai nhức óc, ánh chớp chói lòa nhuộm trắng xóa cả một vùng xung quanh.
 
 ![](images/ch248-01.webp)
 
 ◆◇◆◇◆
 
-Không gian ngập ngụa mùi khét lẹt của da thịt cháy sém cùng thứ mùi hăng hắc đặc trưng đọng lại sau một cú sét đánh. Cộng thêm bụi mù mịt khắp không khí, cảm giác thực sự chẳng mấy dễ chịu. Tạm gác chuyện đó sang một bên, có vẻ như chuỗi ma pháp của Lorraine đã phát huy tác dụng. Ngoài kia hẳn vẫn có những sinh vật đủ sức chịu đựng được đòn oanh kích dữ dội đến nhường ấy, nhưng tôi khá chắc chắn rằng số lượng đó chẳng có là bao.
+Xung quanh nồng nặc mùi khét lẹt của da thịt cháy sém lẫn thứ mùi hăng nồng đặc trưng đọng lại sau cú sét đánh. Thêm cả bụi đất mịt mù trong không khí, cảm giác chẳng dễ chịu chút nào. Gác chuyện đó lại, xem chừng loạt ma pháp của Lorraine đã phát huy tác dụng. Ngoài kia hẳn vẫn có những sinh vật đủ sức chịu đựng nổi đòn oanh kích dữ dội cỡ đó, nhưng tôi dám chắc số lượng chẳng có bao nhiêu.
 
-"Thật là... điên rồ," Augurey thốt lên. Hai chúng tôi vừa kịp thoát ra khỏi phạm vi công kích từ ma pháp của Lorraine và chứng kiến toàn bộ sự việc ở cự ly gần.
+"Quá... kinh khủng," Augurey thốt lên. Hai chúng tôi vừa kịp chạy thoát khỏi tầm ma pháp của Lorraine và được chứng kiến tận mắt toàn bộ sự việc ở cự ly gần.
 
-Nếu bị đòn đó đánh trúng, tôi có cảm giác rằng ngay cả cơ thể Undead của mình cũng khó lòng tránh khỏi kết cục bị xóa sổ hoàn toàn. Và dẫu không cảm thấy đau đớn, rõ ràng tôi vẫn biết sợ, bởi lẽ bản năng mách bảo tôi rằng nếu tia sét đó giáng trúng mình, tôi sẽ vĩnh viễn tan biến. Liệu điều đó có nghĩa là tôi vẫn còn sống, dẫu cho bản thân là một Undead chăng? Ý nghĩa của sự sống cùng những câu hỏi triết học tương tự như sắp sửa bung ra và quay cuồng trong đầu tôi, nhưng tôi đã đè nén chúng xuống. Giờ không phải là lúc.
+Nếu dính phải đòn đó, tôi có cảm giác ngay cả cái thân xác Undead này cũng khó tránh khỏi cảnh tan thành mây khói. Mà dù chẳng biết đau, rõ ràng tôi vẫn biết sợ, bởi bản năng mách bảo rằng nếu tia sét ấy đánh trúng mình, tôi sẽ bốc hơi vĩnh viễn. Thế nghĩa là tôi vẫn còn sống, dù bản thân là Undead sao? Ý nghĩa của sinh mệnh cùng hàng loạt câu hỏi triết học tương tự chực bung ra quay cuồng trong đầu, nhưng tôi lập tức gạt phăng đi. Giờ chẳng phải lúc nghĩ vẩn vơ.
 
-"Người ta vẫn bảo một ma pháp sư dày dạn kinh nghiệm có thể sánh ngang với cả một đạo quân," tôi nói. "Và sau khi chứng kiến cảnh tượng vừa rồi, tôi hoàn toàn hiểu được lý do tại sao."
+"Người ta vẫn bảo một ma pháp sư lão luyện có thể sánh ngang cả một đạo quân," tôi nói. "Tận mắt thấy cảnh vừa rồi thì tôi hiểu vì sao rồi đấy."
 
-"Một đạo quân cơ à?" Augurey đáp lại. "Linh tính mách bảo tôi rằng chỉ một đạo quân thôi thì e là chưa đủ đâu. Tôi chưa từng nhìn thấy bất kỳ ma pháp nào trong số đó trước đây cả."
+"Một đạo quân cơ à?" Augurey đáp. "Tôi thấy chừng đó e là chưa đủ đâu. Mấy ma pháp vừa rồi tôi còn chưa thấy bao giờ nữa là."
 
-"Lorraine am hiểu kha khá ma pháp cổ đại. Tôi sẽ chẳng ngạc nhiên nếu toàn bộ số đó đều là những ví dụ điển hình đâu. Cô ấy bảo mình không hay dùng chúng vì chúng ngốn quá nhiều Ma Lực, nhưng tôi đoán dẫu không tốn Ma Lực đi chăng nữa, chúng cũng chẳng phải loại ma pháp mà người ta sẽ đem ra xài mỗi ngày."
+"Lorraine biết kha khá ma pháp cổ đại. Mấy phép vừa rồi có thuộc loại đó cả thì tôi cũng chẳng ngạc nhiên. Cô ấy bảo ít khi dùng vì chúng ngốn quá nhiều Ma Lực, cơ mà dẫu không tốn thì đó cũng chẳng phải thứ ma pháp người ta đem ra xài mỗi ngày."
 
-Gã Cự Nhân già đã đập phá, nghiền nát và bứng gốc cả một khoảng rừng rộng lớn, nhưng Lorraine cũng chẳng hề kém cạnh chút nào nếu xét về mức độ tàn phá thuần túy mà cô gây ra.
+Gã Cự Nhân già đã đập phá, nghiền nát và bứng gốc cả một mảng rừng lớn, nhưng xét về độ tàn phá thì Lorraine cũng chẳng hề kém cạnh chút nào.
 
-Tôi vẫn luôn coi gã Cự Nhân già như một con quái vật, nhưng hóa ra bấy lâu nay tổ đội của chúng tôi cũng có một con quái vật khác. Nói đúng hơn là hai; tôi không thể quên tính cả bản thân mình vào. Khoan đã, vậy điều đó có nghĩa Augurey là người bình thường duy nhất sao? Tự dưng tôi cảm thấy có chút áy náy. Thôi thì, sao cũng được. Dù sao thì chính những ủy thác của anh ấy mới dẫn tới tất cả những chuyện này. Tôi cho rằng thế là huề cả làng rồi.
+Tôi cứ xem gã Cự Nhân già là quái vật, nhưng hóa ra trong nhóm chúng tôi từ đầu đã có một con quái vật khác rồi. À không, phải là hai mới đúng, sao quên tính cả mình được chứ. Khoan, vậy tính ra Augurey là người bình thường duy nhất ở đây à? Tự dưng tôi thấy hơi áy náy. Cơ mà thôi, sao cũng được. Dù gì cũng tại mấy vụ ủy thác của anh ấy mới dẫn tới nông nỗi này. Coi như huề cả làng.
 
-"Dù vậy, cậu nghĩ thế đã đủ chưa?" Augurey hỏi, vẻ mặt nghiêm trọng. "Ý tôi là, nếu chưa đủ thì tôi mới thấy kinh ngạc đấy, nhưng mà..."
+"Cơ mà cậu nghĩ chừng đó đã đủ chưa?" Augurey hỏi, vẻ mặt căng thẳng. "Ý tôi là không ăn thua thì mới lạ đấy, nhưng mà..."
 
-Anh ấy đang nhìn về phía gã Cự Nhân già, nhưng cây cối xung quanh vẫn đang bốc khói nghi ngút sau cú sét đánh, nên chẳng ai trong hai chúng tôi có thể xác nhận được điều gì vào lúc này. Tôi khá chắc rằng mọi chuyện đã kết thúc, nhưng cẩn tắc vô ưu vẫn hơn.
+Anh ấy nhìn về phía gã Cự Nhân già, nhưng cây cối xung quanh vẫn đang bốc khói nghi ngút sau tia sét, nên cả hai chúng tôi đều chưa xác nhận được gì. Tôi khá chắc là xong rồi đấy, nhưng cẩn thận kiểm tra lại chẳng thừa.
 
-Làn khói dần tan biến, để lộ ra trước mắt chúng tôi một thứ gì đó khổng lồ và cháy sém—gã Cự Nhân già. Hắn không bị cháy đen thui toàn thân—có lẽ do kích thước quá đồ sộ—nhưng phần lớn cơ thể hắn đã bị thiêu đốt thành một màu đen kịt pha nâu cháy. Tia sét rõ ràng đã đánh trúng đích.
+Khói tan dần, để lộ ra trước mắt chúng tôi một khối đen khổng lồ cháy sém—chính là gã Cự Nhân già. Lão không bị cháy đen thui toàn thân—chắc do vóc dáng quá đồ sộ—nhưng phần lớn da thịt đã bị xém thành một màu đen kịt pha nâu cháy. Tia sét rõ ràng đã đánh trúng phóc.
 
-Tôi không thấy bóng dáng những ngọn giáo kim loại của Lorraine đâu nữa, nên tôi đoán chúng đã cạn kiệt Ma Lực mà tan biến. Thế nhưng, những vết thủng mà chúng đâm vào người gã Cự Nhân già vẫn còn đó, và tôi có thể thấy khói đang phụt ra từ những lỗ thủng ấy. Xem chừng tia sét đã xuyên vào khá sâu.
+Mấy ngọn giáo kim loại của Lorraine chẳng còn thấy tăm hơi đâu, chắc đã cạn sạch Ma Lực rồi tan biến. Có điều, những vết đâm trên người gã Cự Nhân già vẫn còn trơ ra đó, khói bốc nghi ngút từ bên trong phì ra. Xem chừng tia sét đã đánh vào rất sâu.
 
-Bất chấp kích thước của gã Cự Nhân già và bất chấp việc hắn đi ngược lại lẽ thường đến mức nào, xét cho cùng thì hắn vẫn là một sinh vật sống. Một tia sét hùng mạnh chạy dọc khắp cơ thể rõ ràng không phải là thứ có thể xem thường.
+Dù thân hình có to lớn cỡ nào và có phi lý đến đâu, rốt cuộc lão vẫn là một sinh vật bằng xương bằng thịt. Bị một tia sét uy lực chạy dọc khắp cơ thể như thế thì chẳng đùa được đâu.
 
-"Chúng ta hạ được hắn rồi, phải không?" Augurey lẩm bẩm. Cả hai chúng tôi đều chầm chậm tiến lại gần gã Cự Nhân già. Dù vậy, chúng tôi vẫn giương cao kiếm, sẵn sàng cho khả năng hắn có thể gượng dậy.
+"Hạ được lão rồi nhỉ?" Augurey lẩm bẩm. Hai chúng tôi chầm chậm tiến lại gần gã Cự Nhân già, nhưng vẫn lăm lăm kiếm trên tay phòng khả năng lão có thể gượng dậy.
 
-Augurey bước tới chỗ gã Cự Nhân già và dùng mũi kiếm chọc chọc vào người hắn. Không có phản hồi nào.
+Augurey bước tới chỗ gã Cự Nhân già, lấy mũi kiếm chọc chọc vào người lão. Chẳng có động tĩnh gì.
 
-"Có vẻ chúng ta hạ được hắn thật rồi," Augurey quay lại bảo tôi. "Ơn trời là thế."
+"Xong thật rồi," Augurey quay lại bảo tôi. "Ơn trời, may quá đi mất."
 
-Thế nhưng ngay khi anh vừa thở phào nhẹ nhõm...
+Nhưng vừa lúc anh ấy thở phào nhẹ nhõm...
 
 "Augurey!" tôi hét lên.
 
-Kèm theo một luồng gió rít rền rĩ, cánh tay của gã Cự Nhân già vung rộng ra ngoài. Tôi chộp lấy Augurey rồi bật nhảy lùi lại phía sau, nhanh chóng kéo dãn khoảng cách.
+Kèm theo luồng gió rít bạt mạng, cánh tay của gã Cự Nhân già quạt mạnh ra. Tôi túm lấy Augurey, bật lùi phắt ra sau để kéo giãn khoảng cách.
 
-"Grrraaahhh!" Gã Cự Nhân già phát ra một tiếng gầm nửa người nửa thú, rồi bắt đầu chậm rãi ngồi dậy. Hắn chống tay xuống đất, dồn sức đẩy mạnh để đứng lên.
+"Grrraaahhh!" Gã Cự Nhân già rống lên một tiếng nửa người nửa thú, rồi chậm rãi ngồi dậy. Lão chống tay xuống đất, gồng mình đẩy người toan đứng dậy.
 
-"Đùa nhau chắc?!" Augurey nói. Anh vẫn đang nằm trong vòng tay tôi, trừng mắt nhìn gã Cự Nhân già.
+"Đùa nhau đấy à?!" Augurey kêu lên. Anh ấy vẫn đang được tôi ôm chặt, trố mắt nhìn gã Cự Nhân già.
 
-Tôi chẳng thể trách việc anh ấy bị sốc; bản thân tôi cũng vậy. Từ "phi thường" thậm chí còn chưa đủ để miêu tả sức chịu đựng cùng độ trâu bò cần thiết để có thể đứng dậy sau khi lĩnh trọn một trận oanh tạc ma pháp dữ dội đến nhường ấy. Gã Cự Nhân già đơn giản là một con quái vật phá vỡ mọi quy tắc.
+Tôi chẳng trách anh ấy hoảng hốt; chính tôi cũng sững sờ. Dùng từ "phi thường" e là còn chưa đủ để lột tả sức chịu đựng và thể chất dẻo dai cần có để đứng dậy sau khi ăn trọn loạt ma pháp dữ dội cỡ đó. Gã Cự Nhân già này đích thị là một con quái vật đứng ngoài mọi lẽ thường.
 
-"Nhưng hắn cũng bị thương nặng rồi," tôi nói, đặt Augurey xuống đất. "Điều đó là chắc chắn."
+"Cơ mà lão cũng ngấm đòn rồi," tôi nói rồi thả Augurey xuống. "Chắc chắn là vậy."
 
-Bình tĩnh quan sát gã Cự Nhân già, tôi có thể nhận ra các chuyển động của hắn rõ ràng đã chậm chạp hơn hẳn. Tôi cũng có thể nghe thấy các khớp xương của hắn kêu răng rắc khi hắn cố gượng đứng dậy. Tia sét của Lorraine đã gây ra một lượng sát thương rất lớn.
+Bình tĩnh quan sát gã Cự Nhân già, tôi thấy chuyển động của lão rõ ràng đã chậm chạp hơn nhiều. Khớp xương lão kêu răng rắc khi cố gượng đứng lên. Tia sét của Lorraine đã đả thương lão không hề nhẹ.
 
-Cuối cùng, gã Cự Nhân già cũng đứng thẳng dậy. Đôi mắt đỏ ngầu trên khuôn mặt cháy sém ghim chặt vào Augurey và tôi, rồi kèm theo một tiếng gầm gừ, hắn lao thẳng về phía hai chúng tôi. Mọi nét điềm tĩnh trước đây của hắn đều đã biến mất hoàn toàn.
+Cuối cùng, gã Cự Nhân già cũng đứng lên được. Đôi mắt đỏ ngầu trên khuôn mặt cháy sém ghim chặt vào tôi và Augurey, rồi gầm gừ một tiếng, lão lao thẳng tới. Vẻ điềm tĩnh trước đó của lão đã bay biến sạch trơn.
 
-"Augurey! Anh tiếp tục được chứ?!" tôi hét lớn.
+"Augurey! Còn trụ được không?!" tôi quát to.
 
-"Tôi có thể chơi cả ngày cũng được! Vấn đề duy nhất là làm thế quái nào chúng ta hạ gục được hắn đây?"
+"Chiến cả ngày cũng được! Vấn đề duy nhất là làm sao hạ gục được lão đây?"
 
-"Để tôi lo. Tôi có một con bài tẩy có thể đem ra dùng. Dù vậy tôi không rõ liệu thanh kiếm của mình có chịu nổi quá một lần hay không, nên nếu tôi chém trượt thì coi như chúng ta xong đời."
+"Để tôi lo. Tôi có con át chủ bài này dùng được. Cơ mà không biết kiếm của tôi có chịu nổi quá một lần không, nên nếu chém trượt là coi như xong đời đấy."
 
-Gã Cự Nhân già đã bắt đầu cuộc tấn công nhắm vào chúng tôi, nên cả hai chúng tôi vừa né tránh vừa gọi nhau. "Con bài tẩy" mà tôi nhắc tới chính là Thần Ma Khí Dung Hợp Thuật. Dẫu thanh kiếm của tôi từng được rèn để chịu được bất kỳ nguồn năng lượng nào trong cả ba, nó nhiều khả năng chẳng thể nào chống đỡ nổi khi cả ba kết hợp lại cùng một lúc.
+Gã Cự Nhân già đã lại lao vào tấn công, nên hai chúng tôi phải vừa né đòn vừa hét sang nhau. "Con át chủ bài" tôi vừa nói chính là Thần Ma Khí Dung Hợp Thuật. Dù thanh kiếm của tôi được rèn để chịu được riêng lẻ nguồn năng lượng nào trong cả ba, nhưng gộp chung cả ba lại thì chắc nó khó lòng chịu nổi.
 
-Kỹ thuật này khiến cho bất cứ thứ gì nó đánh trúng đều bị co rúm lại một cách dữ dội vào bên trong, và rất có thể điều tương tự cũng sẽ xảy ra với thanh kiếm của tôi. Đó là lý do tại sao tôi muốn tránh dùng nó nhiều nhất có thể, nhưng nếu bây giờ không phải thời điểm thích hợp thì tôi cũng chẳng biết khi nào mới phải nữa. Vẫn có khả năng nó thậm chí chẳng phát huy tác dụng, hoặc không đủ để trở thành một đòn kết liễu, nhưng điều đó vẫn tốt hơn là chẳng làm gì rồi ngồi chờ thất bại. Nếu tôi phải thua—dù tôi chẳng hề có ý định đó—thì đó cũng chỉ là sau khi tôi đã dốc hết mọi thứ mình có. Và ngay cả khi ấy, tôi cũng đã chuẩn bị sẵn tâm lý bỏ chạy trước khi gục ngã.
+Kỹ thuật này khiến bất cứ thứ gì trúng đòn đều bị vặn xoắn co rúm lại dữ dội, và thanh kiếm của tôi rất có thể cũng chịu chung số phận. Thế nên tôi mới hạn chế dùng hết mức có thể, nhưng nếu lúc này không xài thì còn đợi đến khi nào nữa. Vẫn có khả năng đòn đánh chẳng ăn thua, hoặc không đủ để hạ gục lão, nhưng dẫu sao vẫn tốt hơn là khoanh tay chờ chết. Nếu có thua—dù tôi chẳng hề muốn thế—thì cũng phải sau khi đã dốc cạn vốn liếng. Thậm chí kể cả vậy, tôi cũng đã chuẩn bị sẵn đường chuồn trước khi ngã gục.
 
-Đào tẩu trước đây dường như không phải là một lựa chọn khả dĩ, nhưng giờ đây khi gã Cự Nhân già đã bị thương nặng đến mức này, cả ba chúng tôi có lẽ có thể xoay xở được. Tôi không nghĩ hắn sẽ đuổi theo chúng tôi trong tình trạng hiện tại, và tôi cũng tự tin vào khả năng tẩu thoát của cả nhóm.
+Trước đó thì chạy trốn không phải là phương án khả thi, nhưng giờ gã Cự Nhân già đã trọng thương thế này, ba người chúng tôi chắc có thể xoay xở chuồn được. Với tình trạng hiện tại, tôi không nghĩ lão sẽ đuổi theo, vả lại tôi cũng tự tin vào khả năng rút lui của cả nhóm.
 
-Điều đó làm dấy lên vấn đề về Ferrici cùng dân làng, nhưng tôi cho rằng chúng tôi luôn có thể sơ tán họ tới nơi khác. Hoặc là bắt Goblin và Siren làm con tin rồi cố gắng mặc cả. Việc cân nhắc điều đó chắc chắn biến tôi thành kẻ phản diện, nhưng này, bất kỳ thủ đoạn cần thiết nào cũng phải đem ra dùng thôi.
+Như thế thì vướng mỗi chuyện Ferrici và dân làng, nhưng cùng lắm chúng tôi đưa họ đi sơ tán là xong. Hoặc không thì tóm Goblin và Siren làm con tin để mặc cả. Tính nước đó thì đúng là hơi phản diện thật, cơ mà thôi, tình thế bắt buộc thì thủ đoạn nào cũng phải chơi.
 
-Dù sao đi nữa, chẳng có điều gì trong số đó quan trọng bằng những việc tôi phải làm ngay lúc này, nên tốt nhất là tôi nên tập trung vào hiện tại.
+Dù sao đi nữa, mấy chuyện đó đâu quan trọng bằng việc trước mắt, nên tốt nhất tôi cứ tập trung vào hiện tại đã.
 
-"Được ăn cả ngã về không hả?" Augurey nói. "Được thôi, tôi không ghét ý đó đâu. Lần này tôi làm mồi nhử chứ gì?"
+"Được ăn cả ngã về không à?" Augurey nói. "Được thôi, tôi không phản đối đâu. Lần này để tôi làm mồi nhử chứ gì?"
 
 "Anh chắc chứ?" tôi hỏi.
 
-"Tôi sẽ cứ thế cắm đầu chạy nếu thấy mình sắp chết, nên đừng trách tôi nếu chuyện đó xảy ra đấy nhé. Vả lại, tôi đâu thể để cậu và Lorraine ôm đồm hết mọi việc được."
+"Thấy sắp mất mạng là tôi cắm đầu chạy đấy, lúc đó đừng có trách tôi. Vả lại, tôi đâu thể để cậu với Lorraine ôm hết việc được."
 
-"Vậy trông cậy cả vào anh đấy. Nhưng đừng có làm quá sức. Không như tôi, anh đâu thể bị nghiền nát bấy mà vẫn ung dung bước đi lành lặn được đâu."
+"Vậy trông cậy vào anh đấy. Cơ mà đừng có ráng quá. Không như tôi, anh mà bị đè nát bấy thì đâu có ung dung bước đi lành lặn được."
 
-Mặc dù sự thật là bản thân tôi cũng chẳng hẳn làm được điều đó, bởi lẽ tôi không rõ mình phải chịu đựng bao nhiêu lần trước khi tan biến hoàn toàn. Tôi có thể phỏng đoán dựa trên những con Ma Cà Rồng trẻ tuổi mà mình từng chạm trán ở Maalt, nhưng điều đó còn lâu mới chắc chắn.
+Nói thật thì chính tôi cũng chẳng chắc mình làm nổi điều đó không, bởi bản thân còn chưa rõ phải chịu nát bấy bao nhiêu lần trước khi tan biến hoàn toàn. Tôi có thể đoán chừng dựa vào mấy tên Ma Cà Rồng trẻ tuổi từng đụng độ ở Maalt, nhưng cũng chẳng có gì đảm bảo.
 
-Nói tóm lại, mối nguy hiểm là chia đều cho cả hai. Augurey và tôi chỉ việc dốc hết sức mình có thể. Chúng tôi siết chặt tinh thần cho nhiệm vụ trước mắt—dù trước đó chúng tôi cũng đâu phải chưa sẵn sàng.
+Tóm lại, đôi bên đều gặp nguy hiểm như nhau. Tôi và Augurey chỉ còn nước dốc hết sức mình. Cả hai sốc lại tinh thần cho việc trước mắt—dù trước đó cũng đâu phải chưa sẵn sàng.
 
 ◆◇◆◇◆
 
-"Này! Đằng này cơ mà!" Augurey hét lớn. Đúng như những gì vừa nói với tôi, anh đã cố tình lao ra ngay trước mặt gã Cự Nhân già để làm mồi nhử.
+"Này! Đằng này cơ mà!" Augurey hét lớn. Đúng như lời vừa nói, anh ấy chủ động lao ngay ra trước mặt gã Cự Nhân già để làm mồi nhử.
 
-Vấn đề là liệu đối thủ của chúng tôi có cắn câu hay không, nhưng tôi đoán rằng nếu hắn không nhìn thấy tôi, hắn sẽ chẳng còn lựa chọn nào khác ngoài việc nhắm vào mục tiêu hữu hình duy nhất. Do đó, tôi sử dụng Phân Liệt và ẩn mình vào những bóng râm của khu rừng để đảm bảo hắn dồn hết sự chú ý vào Augurey.
+Vấn đề là đối thủ có chịu cắn câu hay không, nhưng tôi tính nếu không thấy tôi đâu, lão chẳng còn lựa chọn nào khác ngoài việc nhắm vào mục tiêu duy nhất trước mắt. Vì thế, tôi dùng Phân Liệt ẩn mình vào bóng cây trong rừng để đảm bảo lão dồn hết sự chú ý sang Augurey.
 
-Nếu có ai nhìn thấy tôi trong trạng thái này, trừ khi họ nắm được manh mối về thân phận của tôi, bằng không họ sẽ nghĩ tôi chẳng qua chỉ là một vệt bóng tối. Dù gã Cự Nhân già hẳn có đôi chút mường tượng rằng tôi không phải người bình thường, tôi không nghĩ hắn đã nắm rõ về tôi đến mức biết tôi có thể hòa mình vào bóng tối.
+Ở trạng thái này, trừ phi biết tỏng tôi là thứ gì, bằng không người ngoài nhìn vào sẽ chỉ nghĩ tôi là một vệt bóng tối. Dù gã Cự Nhân già hẳn cũng lờ mờ nhận ra tôi chẳng phải kẻ bình thường, nhưng tôi không nghĩ lão hiểu rõ về tôi tới mức biết tôi có thể biến mình thành bóng đêm.
 
-Thực tế đã chứng minh tôi đúng. Gã Cự Nhân già liếc về phía tôi trong thoáng chốc, nhưng dường như hắn không nhận ra tôi, bởi hắn nhanh chóng chuyển sự tập trung trở lại Augurey và bắt đầu di chuyển ra xa. Hắn thậm chí có thể đang nghi ngờ có một cái bẫy nào đó, nhưng đằng nào thì hắn cũng chẳng còn sự lựa chọn nào khác.
+Và tôi đã đoán đúng. Gã Cự Nhân già liếc về phía tôi một thoáng, nhưng xem chừng chẳng nhận ra điều gì, vì lão lập tức dời mắt về Augurey rồi sải bước đuổi theo. Có khi lão cũng ngờ là có bẫy, nhưng đằng nào thì lão cũng chẳng còn lựa chọn nào khác.
 
-Tôi từng lo lắng về việc Augurey sẽ cầm cự tốt đến mức nào, nhưng trước sự kinh ngạc của tôi, anh ấy đang làm rất tốt. Việc phong cách chiến đấu của anh chú trọng vào tốc độ thay vì sức mạnh đang mang lại hiệu quả rõ rệt. Một phần là do các chuyển động của đối thủ đã chậm chạp đi đáng kể, nhưng Augurey đang né tránh những đòn tấn công của gã Cự Nhân già một cách vô cùng dư dả. Dĩ nhiên, điều đó chẳng hề làm giảm bớt mối nguy hiểm mà Augurey đang phải đối mặt, bởi lẽ chỉ cần một sơ sẩy nhỏ thôi cũng đủ khiến anh chịu trọng thương—hoặc thậm chí có thể bỏ mạng.
+Tôi vốn lo không biết Augurey cầm cự được bao lâu, nhưng thật bất ngờ là anh ấy vẫn xoay xở rất tốt. Lối đánh thiên về tốc độ thay vì sức mạnh của anh ấy đang phát huy tác dụng rõ rệt. Một phần nhờ cử động của đối thủ đã chậm đi trông thấy, nhưng Augurey né các đòn tấn công của gã Cự Nhân già vô cùng ung dung. Dĩ nhiên mối hiểm nguy với anh ấy chẳng vì thế mà bớt đi, bởi chỉ cần một sơ sẩy nhỏ thôi cũng đủ để dính trọng thương—hoặc thậm chí bỏ mạng.
 
-Càng hạ gục gã Cự Nhân già sớm chừng nào thì càng tốt chừng nấy. Tôi ngẫm nghĩ xem mình nên nhắm đòn đánh vào đâu và đi đến kết luận rằng nhắm vào đầu có lẽ là phương án tốt nhất. Gã Cự Nhân già đã chứng minh rằng tay chân hắn có thể chịu đòn bầm dập mà vẫn tiếp tục chiến đấu. Trong trường hợp đó, làm thế nào để tôi với tới đầu hắn? Tôi cân nhắc việc dùng đôi cánh để bay lên, nhưng điều đó quá mạo hiểm. Tôi chỉ có duy nhất một cơ hội trong chuyện này; tôi không thể lãng phí nó vào một thứ quá đỗi bấp bênh như vậy. Tôi phải nghĩ ra cách khác—
+Hạ gục gã Cự Nhân già càng sớm thì càng tốt. Tôi tính xem nên nhắm đòn vào đâu và thấy đánh vào đầu có lẽ là phương án ăn chắc nhất. Gã Cự Nhân già đã cho thấy chân tay lão dẫu chịu đòn bầm dập vẫn đánh tiếp ngon ơ. Cơ mà làm sao để tôi với tới đầu lão đây? Tôi từng tính dùng cánh bay lên, nhưng thế thì mạo hiểm quá. Tôi chỉ có đúng một cơ hội, không thể phung phí vào một nước đi bấp bênh như thế. Phải nghĩ cách khác—
 
 "Á!"
 
-Nhưng trước khi tôi kịp nghĩ ra, tôi thấy chân của Augurey vướng phải một rễ cây.
+Nhưng chưa kịp nghĩ thông thì chân Augurey đã vấp phải rễ cây.
 
-Nắm đấm của gã Cự Nhân già vung thẳng vào Augurey, nhưng trước khi nó kịp chạm tới, tôi lao vụt ra, túm lấy người bạn của mình và chạy dạt sang một bên... nơi tôi nhận ra đường đi của mình đã bị cây cối chặn đứng.
+Nắm đấm của gã Cự Nhân già vung thẳng tới Augurey, nhưng trước khi nó chạm đích, tôi lao vụt ra chộp lấy anh ấy rồi dạt sang bên... để rồi nhận ra cây cối đã chắn sạch đường.
 
-Không còn lựa chọn nào khác, tôi dậm chân nhảy lên hết sức có thể. Cánh tay của gã Cự Nhân già quét qua bên dưới tôi, chỉ sượt qua trong gang tấc, và tôi đáp xuống ngay trên cánh tay hắn khi nó lướt qua. Nhưng ngay khi sự chú ý của gã Cự Nhân già sắp sửa dồn vào tôi, tôi nghe thấy âm thanh của một câu ngâm xướng.
+Hết cách, tôi dậm chân nhảy vọt lên hết sức bình sinh. Cánh tay gã Cự Nhân già quét hụt bên dưới tôi trong gang tấc, và tôi đáp ngay lên cánh tay lão khi nó lướt qua. Thế nhưng đúng lúc gã Cự Nhân già chực dồn sự chú ý vào tôi, một tiếng ngâm xướng vang lên.
 
 "Gadól Barák!"
 
-Một tia sét dày đặc giáng thẳng xuống người gã Cự Nhân già. Nó phát ra từ Lorraine. Rõ ràng cô vẫn có thể xoay xở thi triển những ma pháp như thế này ngay cả sau trận oanh tạc hoành tráng mà cô đã tung ra trước đó.
+Một tia sét to bản giáng thẳng xuống người gã Cự Nhân già. Đòn đánh phát ra từ Lorraine. Rõ ràng sau màn oanh tạc dữ dội lúc nãy, cô vẫn còn đủ sức tung ra những ma pháp cỡ này.
 
-Một âm thanh tanh tách vang lên bên tai tôi khi một phần tia sét truyền qua cơ thể gã Cự Nhân già rồi chạy vào người tôi, nhưng ngoài điều đó ra, nhìn chung tôi không bị ảnh hưởng mấy. Tôi vẫn cử động được. Lần này tôi không phải cảm ơn cơ thể quái vật của mình; chính chiếc áo choàng của tôi đã hoàn thành tốt nhiệm vụ đó.
+Tiếng lách tách nổ râm ran bên tai khi một phần dòng điện truyền qua người gã Cự Nhân già xộc vào tôi, nhưng ngoài chuyện đó ra thì tôi gần như chẳng hề hấn gì. Tôi vẫn cử động bình thường. Lần này không phải nhờ cơ thể quái vật, mà chính chiếc áo choàng đã làm tròn nhiệm vụ của nó.
 
-Dù vậy, người tôi đã bắt đầu hơi tê dại, và tôi khá chắc rằng việc lãnh thêm bất kỳ luồng điện nào nữa cũng sẽ là một ý tồi. Tôi nhảy phắt khỏi người gã Cự Nhân già trong lúc hắn còn đang mải lùi lại vì cơn co giật từ tia sét và một lần nữa ẩn mình vào trong những tán cây.
+Cơ mà người tôi cũng bắt đầu thấy tê rần, và tôi dám chắc lãnh thêm phát nào nữa thì chẳng hay ho gì. Thừa dịp gã Cự Nhân già còn đang loạng choạng vì trúng sét, tôi nhảy phắt khỏi người lão rồi lại lẩn vào tán cây.
 
-Tôi đặt Augurey xuống, rồi khi nhận thấy âm thanh duy nhất anh phát ra chỉ là những tiếng lầm bầm lắp bắp không thành lời, tôi dùng một chút Thần Lực để chữa trị cho anh.
+Tôi thả Augurey xuống, thấy miệng anh ấy chỉ lầm bầm lắp bắp mấy tiếng vô nghĩa, liền dùng một chút Thần Lực để trị liệu cho anh.
 
-"Chao ôi, ma pháp đó làm tôi tơi tả thật đấy," anh nói. "Xin lỗi nhé. Tôi chưa hoàn thành nhiệm vụ rồi."
+"Hú hồn, ma pháp đó làm tôi tơi tả thật đấy," anh ấy nói. "Xin lỗi nhé. Tôi làm hỏng việc rồi."
 
-Tôi không nghĩ điều đó là đúng, xét theo màn thể hiện vừa rồi của anh ngoài kia. Trên hết, tình huống ấy vừa nảy ra cho tôi một ý tưởng. Nó tương đối đơn giản, nhưng tôi nghĩ nó có cơ hội thành công. Tôi nói với Augurey, và anh gật đầu.
+Nhìn những gì anh ấy vừa thể hiện ngoài kia, tôi đâu nghĩ thế. Chưa kể, sự cố vừa rồi còn gợi cho tôi một ý tưởng. Kế này tương đối đơn giản, nhưng tôi nghĩ có cơ may thành công. Tôi nói với Augurey, và anh ấy gật đầu.
 
-"Cách đó... có khi hiệu quả đấy. Ý tôi là, nó cũng chẳng khác mấy so với những gì cậu vừa làm. Chà, nó vẫn điên rồ thật, nhưng vì là cậu nên mới thế cơ mà."
+"Cách đó... có khi được đấy. Dù sao cũng chẳng khác mấy trò cậu vừa làm. Chà, nghe vẫn điên rồ thật, nhưng đã là cậu thì cũng chẳng lạ."
 
-Và thế là tôi đã nhận được sự đồng thuận của Augurey.
+Thế là Augurey đã gật đầu đồng ý.
 
-Hai chúng tôi lại xông ra nghênh chiến với gã Cự Nhân già một lần nữa. Augurey, y hệt như lúc nãy, lao ra phía trước và bắt đầu né tránh những đòn tấn công của đối phương. Trong khi đó, tôi dõi mắt quan sát hắn thật kỹ, chờ đợi thời cơ hoàn hảo...
+Hai chúng tôi lại xông ra nghênh chiến với gã Cự Nhân già. Y hệt lúc nãy, Augurey lao ra đằng trước nhử đòn rồi thoăn thoắt né tránh. Còn tôi thì dán mắt quan sát lão thật kỹ, chờ đợi thời cơ chín muồi...
 
 Chính là lúc này!
 
-Tôi bung hết sức bình sinh lao nhanh nhất có thể. Gã Cự Nhân già vừa tung ra một cú đấm, và hệ quả là người hắn hơi khom xuống. Góc nghiêng nhẹ giữa hai chân và đầu khiến lưng hắn tạo thành một con dốc đứng.
+Tôi phóng hết tốc lực lao tới. Gã Cự Nhân già vừa vung một cú đấm nên người hơi khom xuống. Góc nghiêng giữa chân và đầu biến tấm lưng lão thành một sườn dốc đứng.
 
-Đúng vậy, một con dốc. Tôi nhảy tót lên. Sau khi thấy tôi làm vậy, Augurey lách người né tránh cú đấm trong gang tấc rồi lùi lại phía sau.
+Đúng vậy, một sườn dốc. Tôi nhảy tót lên. Thấy tôi vào vị trí, Augurey lách người né cú đấm trong gang tấc rồi vội vã lùi lại.
 
 "Hử?!" Gã Cự Nhân già lập tức cố rướn thẳng người dậy.
 
-May mắn thay, tôi đã kịp tới được đích đến của mình: sau gáy hắn. Đó là tử huyệt trên cơ thể của bất kỳ sinh vật sống nào, đồng thời cũng là điểm mù dễ tổn thương nhất, và dẫu có một số sinh vật dai sức phi thường hay mang gai nhọn sắc bén cùng những lớp phòng ngự tương tự, cơ thể của một Cự Nhân về cơ bản cũng giống như con người, chỉ là to lớn và cứng cáp hơn mà thôi.
+May sao, tôi đã kịp leo tới đích: sau gáy lão. Đó là tử huyệt của bất kỳ sinh vật sống nào, đồng thời cũng là điểm mù dễ thương tổn nhất. Dẫu có vài loài dai sức phi thường hay mọc gai nhọn cùng những lớp phòng ngự tương tự, thì cơ thể Cự Nhân về cơ bản cũng giống hệt con người, chỉ to lớn và cứng cáp hơn thôi.
 
-Nói tóm lại, các cơ quan trọng yếu cùng những điểm yếu của họ cũng nằm ở các vị trí tương tự, nên sau gáy của gã Cự Nhân già chính là điểm hoàn hảo để tôi giáng đòn. Có lẽ vậy. Dù trường hợp nào đi nữa thì tôi cũng đã phóng lao phải theo lao rồi. Nếu cách này không hiệu quả, tôi sẽ chuyển sang hạ sách tiếp theo: vội vã rút lui. Còn ở thời điểm hiện tại, tôi truyền toàn bộ Ma Lực, Thần Lực cùng Khí Lực của mình vào thanh kiếm rồi vung nó hết sức bình sinh.
+Nói ngắn gọn, hiểm huyệt và điểm yếu của họ cũng nằm ở những vị trí tương đương, nên sau gáy gã Cự Nhân già chính là chỗ hoàn hảo để tôi ra tay. Chắc thế. Cơ mà đằng nào thì tôi cũng đã đâm lao phải theo lao rồi. Nếu chiêu này không ăn thua, tôi đành dùng tới kế sách tiếp theo: co cẳng rút lui. Còn trước mắt, tôi dồn toàn bộ Ma Lực, Thần Lực cùng Khí Lực vào thanh kiếm rồi chém mạnh hết sức bình sinh.
 
-Gã Cự Nhân già bị thương quá nặng nên không kịp trở tay. Hắn đã không thể phòng thủ trước đòn đánh của tôi. Nhát chém trúng thẳng vào sau gáy hắn, và bất chấp thực tế là tôi lúc này đang rơi tự do giữa không trung, tôi vẫn nhìn thấy rõ mồn một da thịt hắn lập tức bắt đầu co rúm lại.
+Gã Cự Nhân già bị thương quá nặng nên chẳng kịp trở tay chống đỡ. Nhát kiếm chém trúng phóc sau gáy lão, và dù bản thân đang rơi tự do giữa không trung, tôi vẫn thấy rõ mồn một da thịt lão lập tức vặn xoắn co rúm lại.
 
 ![](images/ch248-02.webp)
 
-Rồi tôi thấy một tia máu phụt bắn ra từ cổ gã Cự Nhân già, kèm theo âm thanh của thứ gì đó vỡ toạc.
+Kế đó, một vòi máu phụt bắn ra từ cổ gã Cự Nhân già, kèm theo âm thanh như thứ gì đó vỡ toạc.
 
-"Được rồi!" Tôi tạo dáng ăn mừng chiến thắng giữa không trung... rồi chợt nhận ra điều gì sắp sửa xảy ra. "Khoan đã, chết tiệt!"
+"Ngon rồi!" Tôi tạo dáng ăn mừng giữa không trung... rồi chợt nhận ra chuyện sắp xảy đến. "Khoan, thôi chết!"
 
-Nhưng mọi chuyện đã quá muộn. Gã Cự Nhân già gục rũ rượi về phía trước và bắt đầu đổ sụp xuống theo đúng hướng tôi đang rơi. Chẳng cần phải là thiên tài cũng đủ hiểu tôi sắp sửa bị đè bẹp dí thành tương, và xét theo tình hình lúc này, xem chừng tôi khó lòng nhận được một sự giải cứu kịp thời. Chà, ít nhất thì tôi khá chắc rằng mình sẽ không chết.
+Nhưng đã quá muộn. Gã Cự Nhân già mềm oặt người chúi về phía trước rồi đổ sụp xuống đúng hướng tôi đang rơi. Chẳng cần thông minh cũng biết tôi sắp sửa bị đè bẹp dí thành tương, mà tình hình này thì mong gì có ai kịp tới cứu. Thôi thì, ít nhất tôi dám chắc mình sẽ không chết.
 
-Truyền Khí Lực vào đôi cánh có lẽ đã cứu được tôi, nhưng đáng tiếc thay, tôi vừa tiêu hao đến giọt sức lực cuối cùng của mình. Dù mười giây nữa có lẽ là đủ để tôi hồi phục lượng Khí Lực cần thiết để truyền vào cánh, tôi chắc chắn sẽ bị đè bẹp dí trước khi thời khắc đó đến.
+Dồn Khí Lực vào đôi cánh có lẽ sẽ cứu được tôi, ngặt nỗi tôi vừa vắt kiệt đến giọt sức lực cuối cùng. Dù chỉ cần thêm mười giây nữa là đủ để hồi lại chút Khí Lực cần thiết, nhưng chắc chắn trước lúc đó tôi đã bị đè bẹp dí rồi.
 
-Tôi thầm cầu nguyện rằng đây không phải là lần bị đè bẹp cuối cùng của mình. Dĩ nhiên, tôi đang nói về việc sử dụng Phân Liệt để hồi phục cơ thể. Tôi nghĩ mình vẫn có thể xoay xở được, nhưng tôi chẳng thể dám chắc chắn.
+Tôi thầm cầu nguyện đây không phải lần bị đè bẹp dí cuối cùng của mình. Dĩ nhiên ý tôi là dùng Phân Liệt để tái tạo lại cơ thể. Tôi nghĩ mình vẫn xoay xở được, nhưng chẳng dám khẳng định chắc chắn.
 
-Và rồi, kèm theo một tiếng bẹp vang dội, tôi bị đè bẹp dí. Và tôi nói nghiêm túc đấy—chẳng có chút nghi ngờ nào, chẳng có pha né đòn vào phút chót nào, chẳng có gì cả. Tôi thực sự đã bị nghiền nát bấy thành tương.
+Rồi kèm theo một tiếng bẹp vang dội, tôi bị đè bẹp dí. Tôi nói nghiêm túc đấy—chẳng có phép màu nào, chẳng có cú né đòn phút chót nào, chẳng có gì hết. Tôi thực sự đã bị nghiền nát bấy thành tương.
