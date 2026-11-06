@@ -1,113 +1,113 @@
 # Chương 233: Tập 10 Chương 3 - Công Việc Cùng Augurey (3)
 
-Trong bữa ăn tối, Lorraine đã âm thầm kiểm tra xem Yattul có điểm gì bất thường hay không và đi đến kết luận rằng có dấu hiệu cho thấy bác ta đã bị chuốc một loại thuốc nào đó. Bản thân tôi tuy cũng từng được đào tạo làm thầy trị liệu và có thể nhận biết được loại thuốc nếu được trực tiếp thăm khám các triệu chứng của bác ta, nhưng để làm được điều đó mà không cần chạm vào người đối phương thì đòi hỏi trình độ tri thức ma thuật rất cao, chính vì thế Lorraine mới là người đảm nhận việc kiểm tra.
+Trong bữa tối, Lorraine kín đáo kiểm tra xem Yattul có gì bất thường không rồi kết luận rằng bác ấy có dấu hiệu bị chuốc thuốc. Tôi tuy cũng từng học nghề thầy trị liệu và có thể đoán ra loại thuốc nếu được trực tiếp xem xét triệu chứng, nhưng muốn làm thế mà không chạm vào người bác ấy thì đòi hỏi hiểu biết ma thuật rất sâu, nên Lorraine mới là người đứng ra kiểm tra.
 
-Sau khi Lorraine miêu tả xong tình trạng của Yattul, tôi đã xác định những loại thuốc tiềm tàng có thể đã được dùng lên người bác ta rồi lén bỏ các loại thuốc giải tương ứng vào phần món hầm của bác. Dù đó là loại thuốc gì thì dược lực của nó cũng không quá mạnh, và thuốc giải cũng chỉ nhẹ tương đương với rất ít tác dụng phụ, nên bác ta hẳn sẽ không mất mạng vì chuyện này. Mọi chuyện sẽ khác nếu trước đó bác ta đã mắc sẵn căn bệnh nào trong người, nhưng tôi nhớ Yattul từng kể rằng bác vốn được trời phú cho một thể chất cường tráng và chưa từng nhớ nổi lần nào mình bị ốm, nên ắt hẳn sẽ không có vấn đề gì.
+Sau khi nghe Lorraine miêu tả tình trạng của Yattul, tôi khoanh vùng những loại thuốc có khả năng được dùng rồi lén bỏ thuốc giải tương ứng vào bát thịt hầm của bác ấy. Dù đó là thứ thuốc gì thì dược tính của nó cũng chẳng mạnh cho lắm, thuốc giải đi kèm cũng nhẹ và hầu như không có tác dụng phụ, nên bác ấy chắc chắn không nguy hiểm đến tính mạng. Trừ phi bác ấy vốn mang sẵn bệnh trong người thì mới đáng lo, chứ tôi nhớ Yattul từng bảo mình được trời phú cho thể chất khỏe khoắn, xưa nay chẳng mấy khi ốm đau, thành thử sẽ không sao đâu.
 
-Ăn tối xong xuôi, Lorraine và Augurey bắt đầu buồn ngủ rồi gật gà gật gù.
+Ăn tối xong xuôi, Lorraine và Augurey bắt đầu ngấm cơn buồn ngủ, mắt díu lại rồi gà gật.
 
-"Hai người cứ ngủ đi. Tôi sẽ trông chừng đống lửa cho," tôi lên tiếng đề nghị khi hướng mắt nhìn về phía đống lửa trại mà Lorraine đã nhóm lên.
+"Hai người cứ ngủ đi. Để tôi trông đống lửa cho," tôi nói rồi đưa mắt nhìn về phía đống lửa trại Lorraine nhóm lúc nãy.
 
-"Được rồi. Cảm ơn anh," Lorraine nói. "Chắc dạo này bận rộn quá nên mắt tôi cứ díp lại rồi. Chúc anh ngủ ngon."
+"Được rồi. Cảm ơn anh," Lorraine đáp. "Chắc dạo này bận rộn quá nên mắt tôi cứ díu cả lại. Chúc ngủ ngon nhé."
 
-"Vậy tôi cũng ngủ đây," Augurey nói thêm. "Có biến gì thì gọi tôi dậy nhé. Có thể tôi sẽ tự tỉnh giấc, nhưng cũng có khả năng là không đâu." Anh ta nhún vai, rồi tìm một cành cây vừa vặn để kê đầu làm gối và ngả lưng nằm xuống.
+"Vậy tôi cũng ngủ đây," Augurey góp lời. "Có biến gì thì cứ gọi tôi dậy nhé. Có khi tôi tự tỉnh được đấy, nhưng biết đâu chừng lại ngủ say như chết thì khổ." Anh ta nhún vai, tìm một cành cây vừa tầm kê đầu làm gối rồi ngả lưng nằm xuống.
 
-Người cuối cùng còn thức, Yattul, dường như cũng đang gà gật.
+Người cuối cùng còn thức là Yattul dường như cũng bắt đầu gà gật.
 
-"Bác cũng đi ngủ đi, bác Yattul."
+"Bác cũng ngủ đi thôi, bác Yattul."
 
-"Không được đâu, để ông chủ phải làm thế thì tôi áy náy lắm. Lẽ ra tôi mới là người phải gác đêm..."
+"Đâu có được, để ông chủ phải làm thế thì tôi áy náy lắm. Lẽ ra tôi mới là người phải gác đêm..."
 
-Bác ta rõ ràng vẫn đang tự trách bản thân và cố gắng gượng thức vì tinh thần trách nhiệm. Tôi không nghĩ bác ta tính thức suốt cả đêm, nhưng bác ta muốn các hành khách của mình được nghỉ ngơi trước. Về phần tôi, tôi có thể trụ vững vài ngày, thậm chí cả tuần mà không cần ngủ—đây là một trong những lợi thế lớn nhất của việc biến thành quái vật. Mặt khác, có lẽ tôi đã đánh mất nhiều cơ hội để tìm thấy sự thanh thản và nghỉ ngơi trong cuộc đời này, nhưng xét việc mình là một mạo hiểm giả thì mối lợi này vẫn vượt trội hơn hẳn so với những mặt bất lợi.
+Bác ấy rõ ràng vẫn đang tự trách mình và cố gượng thức vì trách nhiệm. Tôi không nghĩ bác ấy tính thức trắng cả đêm, chẳng qua muốn khách đi xe được nghỉ ngơi trước mà thôi. Riêng tôi thì có thể trụ vài ngày, thậm chí cả tuần không ngủ—đây là một trong những điểm tiện lợi nhất kể từ khi biến thành quái vật. Nghĩ đi nghĩ lại, có lẽ tôi đã đánh mất cơ hội được yên ổn nghỉ ngơi trong cuộc đời này, nhưng đối với một mạo hiểm giả thì lợi vẫn nhiều hơn hại.
 
-Lorraine và Augurey đã đi ngủ ngay—không phải vì họ không quan tâm đến tôi, mà vì họ hiểu rằng tôi sẽ không sao cả. Tuy nhiên, Yattul thì chẳng có cách nào biết được điều đó. Thấy bác ta đang do dự, tôi quyết định thúc giục bác ta đi ngủ.
+Lorraine và Augurey ngủ ngay không phải vì vô tâm với tôi, mà vì hai người họ thừa hiểu tôi chẳng hề hấn gì. Khổ nỗi Yattul thì làm sao biết được chuyện đó. Thấy bác ấy còn chần chừ, tôi bèn khuyên thêm vài câu giục bác ấy đi nghỉ.
 
-"Nếu bác thiếu ngủ rồi làm ảnh hưởng đến tay lái vào ngày mai thì dở lắm. Nếu bác đặt công việc lên hàng đầu thì cứ yên tâm đi ngủ đi. Bác có thể ngủ một mạch tới sáng. Trong đêm tôi sẽ thay phiên với Augurey và Lorraine, ba người chúng tôi chia ca thì chẳng vất vả gì đâu."
+"Ngày mai mà thiếu ngủ làm ảnh hưởng đến việc đánh xe thì dở lắm. Nếu bác coi trọng công việc thì cứ yên tâm đi ngủ đi, ngủ một mạch tới sáng cũng được. Đêm nay tôi sẽ thay phiên với Augurey và Lorraine, ba người chia nhau canh chừng thì chẳng vất vả gì đâu."
 
-Thực ra tôi tính thức gác suốt đêm, nhưng tôi đã nói dối một chút vô hại để tránh khiến bác ta nghi ngờ.
+Thực ra tôi định thức gác cả đêm, nhưng đành nói dối một câu vô hại để bác ấy khỏi ngờ vực.
 
-Yattul bị lý lẽ của tôi thuyết phục và gật đầu, dù vẫn còn chút ngập ngừng.
+Yattul nghe tôi nói có lý bèn gật đầu, dẫu nét mặt vẫn còn đôi phần ngập ngừng.
 
-"Ông chủ nói phải. Hôm nay đầu óc tôi cứ sao sao ấy. Xin lỗi vì đã gây ra mớ rắc rối này. Giờ tôi sẽ ngủ để ngày mai bù lại..."
+"Ông chủ nói phải. Hôm nay người tôi cứ lú lẫn thế nào ấy, thành thật xin lỗi vì đã gây ra mớ rắc rối này. Giờ tôi đi ngủ đây, để mai còn lấy sức chuộc lỗi..."
 
-Nói rồi, bác ta ngả lưng nằm xuống.
-
-◆◇◆◇◆
-
-Dù Yattul đã nằm xuống, gã vẫn còn thức và chỉ đang vờ ngủ. Thương nhân Yattul—hay đúng hơn là điệp viên mang mật danh "Goblin"—đang hành động theo mệnh lệnh mà cấp trên giao phó. Gã được chỉ thị tiếp cận ba mạo hiểm giả tên là Rentt, Lorraine và Augurey tại vương đô, hứa hẹn sẽ dùng xe kéo chở họ tới điểm đến, và thực hiện lời hứa đó. Sau đó, gã phải tìm cách khử sạch bọn họ ngay trên đường đi.
-
-Dù chẳng thèm bận tâm tìm hiểu về gã mạo hiểm giả Đồng Cấp, gã đã được cung cấp kha khá thông tin về hai kẻ mang cấp bậc Ngân Cấp. Gã hiểu rằng đây sẽ chẳng phải nhiệm vụ dễ xơi, nhưng khi đào sâu tìm hiểu thêm, gã phát hiện ra Augurey mới chỉ vừa được thăng lên Ngân Cấp gần đây và trước đó từng mắc kẹt ở bậc Đồng Cấp tại một thị trấn hẻo lánh nào đó.
-
-Hơn nữa, gã cũng nắm được rằng chức nghiệp chính của Lorraine là học giả và cô ta chỉ được trao cấp bậc Ngân Cấp nhằm công nhận những thành tựu học thuật của mình. Về cơ bản, Yattul thấy rõ ràng cô ta không hề sở hữu thực lực tác chiến thực sự của một mạo hiểm giả Ngân Cấp.
-
-Bản thân Goblin sở hữu thực lực ngang ngửa với một mạo hiểm giả Ngân Cấp, và trước đây gã đã từng thủ tiêu không ít mạo hiểm giả ở cấp bậc đó, vì vậy dù nghĩ nhiệm vụ này sẽ gian nan, nó cũng chẳng vượt quá khả năng của gã. Gã cũng không hề có ý định đánh giá thấp bộ ba kia và đã chuẩn bị kỹ lưỡng mọi bề để đảm bảo những mục tiêu của mình sẽ bị xóa sổ không để lại chút dấu vết.
-
-Về mật danh của Goblin, nó bắt nguồn từ một năng lực đặc biệt mà gã sở hữu. Ngoại hình của gã cũng có phần giống một con Goblin—gã thấp bé và toát ra một vẻ hoang dã phảng phất—nhưng cái tên này xuất phát từ việc gã đã có khả năng chỉ huy Goblin và Hobgoblin ngay từ khi mới lọt lòng. Năng lực của gã tương tự như một người thuần hóa quái vật, chỉ khác là gã đã có nó từ lúc còn là đứa trẻ sơ sinh. Gã nghe cha mẹ kể lại rằng họ suýt nữa đã đứng tim vì kinh hãi khi một con Goblin tiến lại gần đứa bé đang bị bỏ mặc và bắt đầu chăm sóc nó, dẫu bản thân gã chẳng còn ký ức nào về chuyện đó.
-
-Năng lực của gã là điều vô cùng dị thường ở ngôi làng nhỏ nơi gã sinh ra, và tin tức về chuyện đó nhanh chóng lan truyền khắp nơi. Một ngày nọ, có một người từ vương đô tìm đến và muốn nhận nuôi gã. Để đền bù, cha mẹ gã đã nhận một món tiền khổng lồ, còn gã thì được đưa tới vương đô để lớn lên trong một môi trường lý tưởng.
-
-Ban đầu gã chỉ có thể khiến một con Goblin duy nhất lắng nghe mệnh lệnh của mình, nhưng quá trình huấn luyện tại mái nhà mới đã giúp gã phát triển năng lực đến mức hiện giờ gã có thể kiểm soát cả tá Hobgoblin đã tiến hóa. Đúng vậy, vụ quái vật tấn công không hề là sự ngẫu nhiên; Goblin đã dàn dựng chuyện đó bằng năng lực đặc biệt của mình. Gã cũng được huấn luyện nhiều kỹ năng và kỹ thuật chiến đấu cần thiết của một điệp viên, song song với việc trui rèn khả năng kháng các loại độc dược và độc chất khác nhau.
-
-Dù vậy, gã cũng không kỳ vọng vỏn vẹn một tá Hobgoblin ít ỏi có thể hạ gục được hai mạo hiểm giả Ngân Cấp. Gã ra lệnh cho chúng tấn công tổ đội chỉ nhằm thăm dò thực lực của bộ ba. Cho dù đã có tình báo sơ bộ về năng lực tiềm tàng của họ, Goblin từ kinh nghiệm thực tế vẫn biết rằng đôi mắt của chính mình mới là nguồn tình báo đáng tin cậy nhất. Gã từng chứng kiến không ít điệp viên thất bại thảm hại chỉ vì quá dựa dẫm vào những thông tin được cung cấp từ trước.
-
-Đó là lý do gã thả bầy Hobgoblin ập vào bọn họ, và kết quả của cuộc tấn công đó đã chứng minh niềm tin của Goblin vào đôi mắt của chính mình là hoàn toàn có cơ sở. Ngay cả ba mạo hiểm giả Ngân Cấp cũng phải mất một khoảng thời gian mới giải quyết xong cả tá Hobgoblin, thế nhưng bộ ba này đã tiêu diệt chúng một cách dễ dàng, thậm chí còn có thừa thời gian để thu hoạch Ma Tinh từ xác của chúng.
-
-Dù gã vẫn cảm thấy mình đủ sức đối đầu với họ trong một trận chiến trực diện, gã vẫn cần phải đảm bảo hoàn thành nhiệm vụ được giao. Gã quyết định chọn một phương thức xảo quyệt hơn nhưng chắc ăn hơn—đưa những mạo hiểm giả đó vào trạng thái không còn khả năng kháng cự rồi mới ra tay kết liễu. May mắn thay, gã đã chủ động đi nhầm đường và thu xếp ổn thỏa để hạ trại qua đêm bên đường. Gã cũng đã chuẩn bị sẵn khẩu phần lương khô tẩm đầy thuốc ngủ. Đó lại là một loại thuốc ngủ cực mạnh, đủ sức đánh gục một con quái vật có kích thước gấp năm lần con người.
-
-Goblin từng dự tính cho các mạo hiểm giả ăn số lương khô đó, chuốc cho họ ngủ say rồi mới ra tay hạ sát—hay đúng hơn là để lũ Goblin giết họ—nhưng ngay cả kế hoạch đó cũng đi chệch hướng. Một kẻ trong số họ đã chuẩn bị chu đáo đến kỳ lạ, lôi cả dụng cụ nấu nướng từ một chiếc túi ma thuật ra và nấu một nồi món hầm. Thế nhưng Goblin là kẻ rất kiên trì bám đuổi, và gã đã lén bỏ phần thuốc ngủ dự phòng của mình vào trong nồi. Những mạo hiểm giả đó đã ăn món hầm, và hai kẻ Ngân Cấp đã lăn ra ngủ say như chết.
-
-Không may là thuốc lại mất nhiều thời gian mới phát huy tác dụng lên gã Đồng Cấp. Có lẽ gã đã quá vội vàng nên không bỏ đủ liều lượng. Dù vậy, đó cũng chỉ là vấn đề thời gian. Rõ ràng là tên kia rốt cuộc rồi cũng sẽ ngủ thiếp đi thôi, và khi đó Goblin sẽ thủ tiêu gọn ghẽ cả ba mạo hiểm giả.
-
-Goblin nằm xuống, sốt ruột chờ đợi thuốc phát huy tác dụng.
+Nói xong, bác ấy liền ngả lưng nằm xuống.
 
 ◆◇◆◇◆
 
-Đêm đã qua rồi, Goblin thầm nghĩ khi ánh rạng đông màu cam vàng bắt đầu rạng rỡ tỏa sáng trên rặng núi xa xăm.
+Yattul tuy đã nằm xuống nhưng mắt vẫn mở thao láo, chỉ vờ say giấc mà thôi. Thương nhân Yattul, hay đúng hơn là điệp viên mang mật danh "Goblin", thực chất đang hành động theo mệnh lệnh từ cấp trên. Gã nhận chỉ thị tiếp cận ba mạo hiểm giả tên Rentt, Lorraine và Augurey tại vương đô, hứa đánh xe đưa họ tới đích rồi tìm cách trừ khử cả ba ngay trên đường đi.
 
-Làm sao chuyện này có thể xảy ra được chứ? Câu trả lời vô cùng đơn giản. Mạo hiểm giả Đồng Cấp Rentt đơn giản là không bao giờ ngủ.
+Tuy chẳng thèm để tâm tới tên mạo hiểm giả Đồng Cấp, tay điệp viên đã được cung cấp kha khá thông tin về hai kẻ mang cấp bậc Ngân Cấp. Gã biết đây không phải phi vụ dễ xơi, nhưng khi đào sâu hơn, gã phát hiện Augurey chỉ mới lên Ngân Cấp gần đây, còn trước đó từng mắc kẹt ở hạng Đồng Cấp tại một thị trấn hẻo lánh.
+
+Chưa hết, gã còn biết Lorraine vốn dĩ là học giả, được trao hạng Ngân Cấp chỉ nhờ vào những cống hiến học thuật. Nói trắng ra, đối với Yattul thì cô ta rõ ràng chẳng có thực lực tương xứng với một mạo hiểm giả Ngân Cấp thực thụ.
+
+Bản thân Goblin có bản lĩnh ngang ngửa một mạo hiểm giả Ngân Cấp và từng trừ khử không ít kẻ ở thứ hạng này, nên dù biết nhiệm vụ không dễ nuốt, nó cũng chẳng vượt quá tầm tay. Gã cũng không hề chủ quan khinh địch trước bộ ba kia mà đã chuẩn bị chu toàn mọi bề, cốt sao quét sạch mục tiêu không để lại chút tăm hơi.
+
+Còn về mật danh Goblin, nó bắt nguồn từ năng lực đặc biệt mà gã sở hữu. Ngoại hình gã quả thật có nét giống Goblin với vóc dáng thấp bé và phảng phất khí tức hoang dã, song cái tên ấy chủ yếu đến từ việc gã có thể sai khiến Goblin và Hobgoblin ngay từ thuở mới lọt lòng. Khả năng này tương tự như một người thuần hóa quái vật, chỉ khác là gã bộc lộ nó từ lúc sơ sinh. Cha mẹ gã từng kể họ suýt đứng tim khi thấy một con Goblin lại gần đứa bé không người trông nom rồi bắt đầu chăm sóc nó, dẫu bản thân gã chẳng còn chút ký ức nào về chuyện đó.
+
+Năng lực dị thường ấy nhanh chóng đồn xa khắp ngôi làng hẻo lánh nơi gã cất tiếng khóc chào đời. Rồi một ngày, có người từ vương đô tìm đến ngỏ ý nhận nuôi gã. Đổi lấy một món tiền kếch xù, cha mẹ đã gật đầu để gã theo người ta về vương đô, lớn lên trong một môi trường đào tạo lý tưởng.
+
+Thuở đầu gã chỉ sai bảo được độc một con Goblin, nhưng những năm tháng huấn luyện tại nơi ở mới đã giúp gã mài giũa năng lực đến độ khống chế được cả chục con Hobgoblin tiến hóa. Đúng thế, vụ quái vật chặn đường trước đó chẳng hề là ngẫu nhiên; chính Goblin đã dùng dị năng để dàn xếp tất cả. Gã còn được rèn luyện đủ ngón nghề chiến đấu cần có của một điệp viên, đồng thời tôi luyện cơ thể kháng được nhiều loại độc tố và thuốc thang khác nhau.
+
+Dĩ nhiên gã chẳng ngây thơ đến mức nghĩ vỏn vẹn chục con Hobgoblin có thể hạ gục được hai mạo hiểm giả Ngân Cấp. Mục đích thả quái ra chỉ là để thử nắn gân bộ ba. Dù đã nắm thông tin sơ bộ về thực lực của họ, kinh nghiệm mách bảo Goblin rằng chỉ có tận mắt chứng kiến mới đáng tin cậy nhất. Gã từng thấy không ít điệp viên ngậm quả đắng chỉ vì quá dựa dẫm vào tin tức được mớm sẵn từ trước.
+
+Chính vì thế gã mới xua bầy Hobgoblin xông vào, và kết quả thực tế cho thấy sự cẩn trọng của gã hoàn toàn đúng đắn. Thông thường ngay cả một nhóm ba người cấp bậc Ngân Cấp cũng phải trầy trật một hồi mới dọn sạch chục con Hobgoblin, đằng này bộ ba kia xử lý gọn ơ, thậm chí còn thong thả mổ xác thu hoạch Ma Tinh.
+
+Tuy tự tin có thể ăn thua đủ nếu đối đầu trực tiếp, gã vẫn đặt mục tiêu hoàn thành nhiệm vụ lên hàng đầu. Gã chọn nước cờ hiểm độc mà chắc thắng hơn: tước sạch khả năng kháng cự của đám mạo hiểm giả rồi mới xuống tay. May sao gã đã cố tình rẽ nhầm đường từ trước và khéo léo sắp đặt việc hạ trại qua đêm. Gã còn chuẩn bị sẵn phần lương khô tẩm thuốc ngủ loại nặng, đủ sức đánh gục cả quái vật to gấp năm lần con người.
+
+Goblin tính cho họ ăn chỗ lương khô đó rồi mượn tay bầy quái vật kết liễu khi tất cả đã ngấm thuốc, ngặt nỗi tính toán ấy lại đổ bể giữa chừng. Ai ngờ trong nhóm lại có kẻ chuẩn bị chu đáo đến kỳ quặc, lôi cả xoong nồi từ túi ma thuật ra nấu một bữa hầm nóng sốt. Song gã cũng rất nhanh trí, lén dốc sạch chỗ thuốc ngủ dự phòng giấu sẵn vào nồi. Đám mạo hiểm giả đã ăn món đó, và hai kẻ Ngân Cấp quả nhiên lăn ra ngủ say như chết.
+
+Chỉ phiền nỗi thuốc mãi vẫn chưa thấy phát huy tác dụng lên tên Đồng Cấp. Chắc tại lúc nãy vội quá nên chưa kịp bỏ đủ liều. Có điều đây cũng chỉ là vấn đề thời gian. Trước sau gì tên kia cũng gục xuống, và lúc đó gã sẽ ra tay thủ tiêu gọn gàng cả ba.
+
+Goblin nằm im, nóng lòng chờ thuốc phát tác.
+
+◆◇◆◇◆
+
+Trời sáng mất rồi, Goblin thầm nghĩ khi rặng núi đằng xa bắt đầu le lói ánh rạng đông màu cam vàng.
+
+Làm sao có thể như thế được? Câu trả lời kỳ thực hết sức đơn giản: mạo hiểm giả Đồng Cấp Rentt vốn dĩ chẳng bao giờ ngủ.
 
 ![](images/ch233-01.webp)
 
-Tên mạo hiểm giả không thể chối cãi là đã ăn món hầm mà Goblin hạ độc, và liều lượng gã dùng lẽ ra phải có tác dụng gây mê cực mạnh, thế nhưng tên mạo hiểm giả đó đã thức trắng suốt đêm mà chẳng thèm ngáp lấy một cái. Goblin đã nín thở dõi theo, tự hỏi liệu Rentt sẽ chìm vào giấc ngủ trong khoảnh khắc này, hay khoảnh khắc sau, hay vào phút kế tiếp... cho đến khi đêm tàn.
+Rõ ràng tên mạo hiểm giả kia đích thực đã ăn món thịt hầm bị hạ độc, mà liều lượng gã dốc vào thừa sức gây mê cực nặng, ấy thế mà hắn thức trắng cả đêm chẳng thèm ngáp lấy nửa cái. Goblin nín thở dõi theo, thầm đếm từng giây từng phút xem liệu hắn sẽ gục vào lúc này, lúc sau, hay chốc nữa... cứ thế cho tới khi đêm tàn.
 
-Điều bất khả thi đã xảy ra, và Goblin muốn thét lên để đòi câu trả lời từ một ai đó—bất kỳ ai cũng được. Phải chăng gã đã không khuấy đều nồi món hầm khi vội vàng lén bỏ độc vào? Phải chăng Lorraine và Augurey đã húp phần lớn liều thuốc, chẳng còn sót lại chút nào cho Rentt?
+Điều không tưởng đã sờ sờ trước mắt, khiến Goblin phát điên muốn túm lấy ai đó mà gào lên đòi câu trả lời. Phải chăng gã đã không khuấy đều nồi thịt hầm khi vội vàng lén bỏ độc vào? Hay là Lorraine với Augurey đã húp sạch phần lớn chỗ thuốc, thành thử chẳng còn giọt nào cho Rentt?
 
-Chuyện đó không phải là không thể, nhưng Goblin nhớ rất rõ rằng... Không, gã khựng lại và suy xét lại. Sự thật là những gì mắt thấy tai nghe, những gì có thể kiểm chứng được. Gã phải kiên định bám lấy triết lý sống đó của mình.
+Chuyện đó không phải không thể xảy ra, nhưng Goblin nhớ mồn một rằng... Không, gã bỗng khựng lại, ngẫm lại. Sự thật là những gì mắt thấy tay sờ, những gì có thể kiểm chứng rõ ràng. Gã phải giữ vững nguyên tắc sống đó của mình.
 
-Rentt đã không ngủ. Đó là sự thật hiển nhiên. Mưu kế của Goblin đã kết thúc trong thất bại, nhưng giờ gã chẳng thể làm gì để thay đổi điều đó. Huống hồ, đó đâu phải là ngón đòn duy nhất mà gã nắm trong tay áo. Goblin không tự cao tự đại đến mức nghĩ rằng mình có thể một thân một mình hoàn thành trót lọt mọi phi vụ ngay từ lần thử đầu tiên. Tất cả những gì quan trọng chỉ là kết quả sau cùng.
+Rentt không hề ngủ. Đó là sự thật không thể chối cãi. Mưu kế của Goblin đã đổ sông đổ bể, song giờ gã có muốn thay đổi cũng chẳng được. Huống hồ, đó đâu phải con bài duy nhất gã nắm trong tay. Goblin chẳng tự phụ đến mức nghĩ mình có thể đơn thương độc mã giải quyết êm thấm mọi chuyện ngay từ lần ra tay đầu tiên. Thứ duy nhất có ý nghĩa là kết quả sau cùng.
 
-Tạm thời, gã sẽ chấp nhận một chiến thắng nhỏ là đã buộc một kẻ trong số họ phải thức gác suốt đêm, điều ắt hẳn đã làm suy yếu Rentt ở một chừng mực nào đó. Goblin vốn muốn làm suy yếu hai mạo hiểm giả Ngân Cấp hơn, nhưng vì lý do nào đó mà Rentt đã không đánh thức người nào trong số họ. Goblin có thoáng lo lắng rằng bộ ba đã nhìn thấu âm mưu phá hoại của mình, nhưng gã nhanh chóng xua tan ý nghĩ đó. Nếu họ nhận ra, họ đã chẳng giữ gã lại bên cạnh. Họ hoàn toàn có thể bỏ mặc gã làm mồi cho quái vật rồi tự tìm đường đi tiếp. Còn về lý do tại sao Rentt không đánh thức những đồng đội Ngân Cấp của mình, Goblin chỉ phỏng đoán rằng họ là những tay chiến đấu cừ khôi hơn, và Rentt muốn họ được nghỉ ngơi đầy đủ.
+Trước mắt, gã đành tạm hài lòng với chiến thắng nhỏ nhoi là ép được một đứa phải thức gác cả đêm, ít nhiều cũng bào mòn được thể lực của Rentt. Bụng gã vốn muốn nhắm vào hai tên Ngân Cấp hơn, ngặt nỗi Rentt chẳng hiểu sao không hề lay người nào dậy. Goblin từng thoáng chột dạ lo bộ ba đã đánh hơi thấy điều bất thường, nhưng rồi mau chóng gạt phăng ý nghĩ đó. Nếu phát hiện ra, đời nào họ chịu để gã kè kè bên cạnh. Họ hoàn toàn có thể bỏ mặc gã làm mồi cho quái vật rồi tự mò mẫm đi tiếp. Còn chuyện vì sao Rentt không gọi đồng đội dậy thay ca, gã chỉ đoán rằng do hai kẻ kia là tay đấm chủ lực, nên Rentt mới muốn họ được nghỉ ngơi trọn giấc.
 
-Chuyện các mạo hiểm giả có cấp bậc chênh lệch nhau cùng lập tổ đội không phải là hiếm, nhưng thành viên có cấp bậc thấp hơn thường sẽ tình nguyện làm những công việc lặt vặt quanh khu hạ trại để bù đắp cho khoảng cách về năng lực chiến đấu. Có lẽ họ cảm thấy áp lực phải tự chứng minh giá trị bản thân, hoặc có lẽ họ thực tâm tin rằng nhiệm vụ của mình là vì lợi ích chung của toàn đội. Đó chắc chắn là cách vận hành tổ đội hiệu quả hơn, và miễn là các thành viên hòa thuận với nhau thì mọi việc sẽ diễn ra suôn sẻ. Tổ đội phối hợp cùng nhau càng lâu thì càng dễ nảy sinh rạn nứt trong mối quan hệ, nhưng tổ đội của Rentt dường như chẳng hề có chút xích mích nào như thế, thành thử việc Rentt để hai người kia ngủ là điều hoàn toàn hợp lý.
+Chuyện các mạo hiểm giả lệch cấp bậc lập đội với nhau vốn không hiếm, song kẻ bậc thấp thường sẽ tự nguyện gánh vác việc vặt quanh chỗ hạ trại để bù đắp khoảng cách về thực lực chiến đấu. Có thể do họ chịu áp lực không muốn thành gánh nặng ăn bám, hoặc thực lòng tin việc mình làm là vì lợi ích chung của cả nhóm. Đó dĩ nhiên là cách vận hành đội ngũ hiệu quả nhất, và chừng nào các thành viên còn hòa thuận thì mọi chuyện vẫn cứ êm xuôi. Đi cùng nhau càng lâu thì tổ đội càng dễ nảy sinh rạn nứt, song nhóm của Rentt xem chừng chẳng có chút tì vết nào như thế, nên chuyện Rentt để hai người kia ngủ cũng là điều dễ hiểu.
 
-Như thể để khẳng định phỏng đoán của Goblin, ngay khi Goblin bắt đầu cho cỗ xe lăn bánh, Rentt liền ngả lưng nằm xuống ngủ. Việc thức gác suốt đêm ắt hẳn đã vắt kiệt sức lực của anh ta.
+Như để chứng thực cho suy đoán ấy, vừa thấy xe lăn bánh là Rentt liền ngả lưng xuống đánh một giấc. Cả đêm thức trắng canh chừng chắc hẳn đã vắt kiệt sức lực của hắn.
 
-Một vài chuyện đã không diễn ra theo đúng kế hoạch, nhưng Goblin trước đây từng thực hiện những nhiệm vụ mà thoạt đầu mọi sự cũng chẳng hề hoàn hảo, nên gã vẫn chưa quá nao núng về chuyện đó... ít nhất là lúc này.
+Tuy không phải mọi chuyện đều diễn ra đúng như dự tính, Goblin trước đây cũng từng trải qua nhiều phi vụ thoạt đầu chẳng mấy suôn sẻ, nên gã vẫn chưa quá nao núng... ít nhất là vào lúc này.
 
 ◆◇◆◇◆
 
-"Sao rồi? Giờ chúng ta tính thế nào đây, Rentt?" Lorraine hỏi sau khi đã âm thầm dựng lên một Cách Âm Kết Giới bao bọc quanh chúng tôi.
+"Sao rồi? Giờ tính sao đây, Rentt?" Lorraine kín đáo phủ một lớp Cách Âm Kết Giới quanh nhóm rồi hỏi.
 
-Kết giới được kiến tạo tài tình đến mức ngay cả tôi, với độ nhạy cảm tăng cao đối với Ma Lực, cũng khó lòng cảm nhận được lớp màn mỏng vô hình đang che phủ lấy chúng tôi. Đây quả là một ma pháp tiện lợi, xét tới việc nó cách âm hoàn hảo cho khu vực bên trong. Lẽ dĩ nhiên, một ma pháp sư bình thường khó mà thi triển nổi ma pháp kiểu này. Chúng tôi có thể tùy ý sử dụng nó hoàn toàn là nhờ vào Lorraine. Dù thế nào đi nữa, dám chắc một con người bình thường sẽ chẳng thể mảy may nhận ra có một kết giới đang được dựng lên.
+Lớp kết giới được dựng khéo léo đến độ ngay cả tôi, kẻ vốn cực kỳ nhạy bén với Ma Lực, cũng chỉ lờ mờ cảm nhận được bức màn mỏng vô hình đang bao bọc cả nhóm. Đây quả là một ma pháp tiện lợi khi có thể cách âm tuyệt đối toàn bộ không gian bên trong. Dĩ nhiên ma pháp sư hạng xoàng chẳng đời nào thi triển nổi, chúng tôi có cái dùng hoàn toàn là nhờ tài nghệ của Lorraine. Dù thế nào đi nữa, một người bình thường dám chắc sẽ chẳng mảy may nhận ra sự tồn tại của kết giới này.
 
-Minh chứng rõ ràng là Yattul chẳng hề mảy may nhúc nhích một thớ cơ nào khi Lorraine cất tiếng. Nếu gã đang giả vờ ngây ngô thì gã hoàn toàn có thể theo đuổi sự nghiệp diễn xuất chuyên nghiệp được rồi đấy. Dù vậy, xét đến việc gã đã lộ liễu thế nào khi lén bỏ thuốc vào nồi món hầm của chúng tôi, tôi không nghĩ gã đủ mạnh để vô hiệu hóa Cách Âm Kết Giới này.
+Bằng chứng là Yattul chẳng hề nhúc nhích lấy một ngón tay khi Lorraine cất tiếng. Nếu gã đang giả vờ làm ngơ thì đúng là đủ tài để đi làm diễn viên kịch nghệ chuyên nghiệp rồi đấy. Nhưng nhìn cái bộ dạng lén lút vụng về lúc gã bỏ thuốc vào nồi thịt hầm, tôi không nghĩ gã đủ bản lĩnh để vô hiệu hóa Cách Âm Kết Giới này đâu.
 
-"Còn tính sao nữa?" tôi đáp. "Chúng ta đang quay lại đúng tuyến đường cần đi rồi. Tôi nghĩ cứ thế này là ổn."
+"Còn tính sao nữa?" tôi đáp. "Xe đang quay lại đúng tuyến đường rồi, tôi thấy cứ để thế là ổn."
 
-Tôi đã nhặt một chiếc mũ từ sàn xe rồi úp lên mặt để nhấn mạnh vẻ ngoài đang say ngủ của mình. Tôi cũng đã nhét Bản Đồ Akasha vào trong đó, thứ liên tục hiển thị vị trí hiện tại của chúng tôi.
+Tôi tiện tay nhặt chiếc mũ trên sàn xe úp lên mặt để vờ như đang say ngủ. Tôi còn giấu luôn Bản Đồ Akasha vào bên trong, nhờ thế mà liên tục nắm rõ vị trí hiện tại của cả nhóm.
 
-Mới gần đây, tôi đã phát hiện ra rằng vật phẩm này còn có nhiều công dụng hơn là việc chỉ lập bản đồ mê cung. Trong lúc táy máy nghịch ngợm nó, tôi đã vô tình mở ra một tấm bản đồ thế giới. Tôi rất có thể sẽ phát hiện thêm những tính năng tiềm ẩn khác, nhưng việc tìm ra chức năng bản đồ thế giới cũng đã ngốn của tôi một khoảng thời gian, nên ngay cả khi còn có những công năng bổ sung khác thì cũng sẽ mất một thời gian tôi mới mò mẫm ra được.
+Cách đây không lâu, tôi mới phát hiện vật phẩm này không chỉ dùng để vẽ bản đồ mê cung. Trong lúc táy máy nghịch ngợm, tôi đã vô tình mở ra bản đồ thế giới. Biết đâu chừng nó còn những tính năng ẩn khác nữa, nhưng ngay cả tính năng bản đồ thế giới cũng ngốn của tôi khối thời gian mới mò ra, nên nếu còn công dụng nào khác thì chắc cũng phải tốn công tìm hiểu lắm.
 
-Nói thêm thì tính năng bản đồ thế giới khác với bản đồ mê cung ở chỗ nó hiển thị vị trí hiện tại của chúng tôi dẫu cho tôi chắc chắn chưa từng đi ngang dọc khắp toàn bộ thế giới. Tuy vậy, cũng giống như bản đồ mê cung, nó chỉ ghi chú tên những thị trấn và điểm định cư mà đích thân tôi đã từng đặt chân tới. Tôi đoán việc sử dụng thành thạo bất kỳ vật phẩm nào cũng chẳng hề dễ dàng. Dẫu vậy, như hiện tại thì nó cũng đã quá đỗi hữu dụng rồi, đặc biệt là trong tình cảnh hiện thời của chúng tôi.
+Nói thêm thì tính năng bản đồ thế giới khác bản đồ mê cung ở chỗ nó hiển thị được vị trí hiện tại của chúng tôi dù tôi chưa từng đi khắp thế giới bao giờ. Có điều, cũng giống bản đồ mê cung, nó chỉ đánh dấu tên các thị trấn và khu định cư mà đích thân tôi từng đặt chân tới. Xem ra muốn dùng thành thạo bất kỳ món đồ nào cũng chẳng dễ dàng gì. Dù vậy, chừng này thôi cũng đã quá đỗi hữu dụng rồi, nhất là trong hoàn cảnh lúc này.
 
-"Hai người điềm nhiên quá nhỉ. Rõ ràng là gã đang làm việc cho kẻ nào đó. Theo tôi thì chi bằng cứ bắt giữ rồi tra khảo gã càng sớm càng tốt," Augurey nói với một nụ cười thân thiện. Giọng điệu châm chọc của anh ta hoàn toàn tương phản với vẻ mặt ấy, tạo nên sự đối lập lạnh người.
+"Hai người bình chân như vại gớm nhỉ. Rõ ràng là gã đang làm việc cho ai đó. Theo tôi thì bắt giữ rồi tra khảo càng sớm càng tốt," Augurey nở nụ cười thân thiện nói, có điều cái giọng mỉa mai lại bóc trần lớp mặt nạ ấy, tạo nên sự tương phản đến lạnh gáy.
 
-Lorraine cũng vừa nói chuyện theo cung cách tương tự, và tôi thầm khâm phục tài nghệ diễn xuất của hai người họ. Mặt khác, tôi lại chẳng phải chịu gánh nặng đó nhờ vào chiếc mũ đang che kín mặt mình. Không phải là tôi không làm được nếu cố thử, nhưng cách che giấu cảm xúc kiểu này của tôi đỡ tốn công sức hơn nhiều.
+Lorraine lúc nãy cũng vừa nói bằng cái giọng y hệt, khiến tôi thầm nể tài diễn kịch của cả hai. Riêng tôi thì đỡ được cái gánh nặng ấy nhờ có chiếc mũ úp trên mặt. Không phải tôi không diễn được nếu muốn, chỉ là cách giấu biểu cảm kiểu này đỡ tốn sức hơn nhiều.
 
-"Dù có tra khảo gã ngay bây giờ thì cũng chẳng có gì đảm bảo gã sẽ khai sạch mọi thứ," Lorraine phản bác. "Nếu gã chỉ khai nửa thật nửa giả rồi để chúng ta nắm thông tin mù mờ thì sau này lại càng rắc rối hơn. Chúng ta cần làm rõ tình hình hơn đã. Việc gã vẫn đi cùng chúng ta, ngay cả lúc này khi đã nghi ngờ chúng ta có thể đã đánh hơi thấy điều bất thường, cho thấy gã sắp sửa tung thêm chiêu trò khác. Trường hợp tốt nhất là vài kẻ đồng bọn của gã sẽ tự chui đầu ra. Khi đó, dù chúng ta có lỡ tay xử lý vài tên đi chăng nữa, chúng ta vẫn có thể thu thập được chút thông tin."
+"Có tra khảo gã ngay lúc này cũng chẳng lấy gì đảm bảo gã sẽ nhả hết mọi chuyện," Lorraine phản bác. "Gã mà khai nửa nạc nửa mỡ để chúng ta ôm một mớ thông tin mập mờ thì chỉ tổ rước thêm rắc rối về sau. Chúng ta cần nắm rõ tình hình hơn đã. Việc gã vẫn bám theo nhóm mình, kể cả khi đã nghi ngờ chúng ta đánh hơi thấy điều bất thường, chứng tỏ gã sắp sửa giở thêm trò mới. Tốt nhất là chờ đồng bọn của gã tự chui đầu ra. Khi ấy, dù có lỡ tay dọn bớt vài tên thì chúng ta vẫn moi được chút tin tức."
 
-"Nhiều lúc cô làm tôi thấy ớn lạnh thật đấy, Lorraine," Augurey thừa nhận với một hơi thở run rẩy, nhưng anh ta không hề chỉ trích luồng suy nghĩ của Lorraine, ắt hẳn vì cũng thấy nó hoàn toàn hợp lý.
+"Nhiều lúc cô làm tôi thấy ớn lạnh thật đấy, Lorraine," Augurey khẽ rùng mình thừa nhận, nhưng anh ta không hề phản đối cách tính toán của cô, chứng tỏ cũng thấy nó hoàn toàn có lý.
 
-"Lorraine chỉ đang bộc lộ bản tính thực sự thôi. Cô ấy là học giả sẵn sàng đánh đổi cả tính mạng để theo đuổi tri thức mà," tôi nói.
+"Lorraine chỉ lộ đúng bản tính thôi mà. Cô ấy là kiểu học giả sẵn sàng liều cả mạng sống để theo đuổi tri thức đấy," tôi chen vào.
 
-"Thế thì còn đáng sợ hơn. Nhưng tôi không cãi lại lý lẽ của cô được, Lorraine. Thôi được rồi. Cứ tiếp tục diễn kịch và vờ như chúng ta là một đám ngây thơ dễ bị dắt mũi đi."
+"Thế thì lại càng đáng sợ hơn. Cơ mà tôi chẳng cãi lại lý lẽ của cô được, Lorraine à. Thôi thì cứ tiếp tục diễn kịch, làm một lũ ngây thơ dễ bị dắt mũi xem sao."
