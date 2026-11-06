@@ -10,13 +10,13 @@ Rina đã thực hiện thành công Phân Liệt một phần, bước đầu t
 
 "Cô ấy có sao không?" tôi hỏi Isaac.
 
-"Mới đầu ai cũng thế cả thôi," anh trả lời. "Cứ làm nhiều rồi sẽ quen với cảm giác đó. Dù vậy, Phân Liệt của cô ấy khá khác thường."
+"Mới đầu ai cũng thế cả thôi," Isaac trả lời. "Cứ làm nhiều rồi sẽ quen với cảm giác đó. Dù vậy, Phân Liệt của cô ấy khá khác thường."
 
 Isaac nhìn thứ vừa tách khỏi người Rina. Tôi và Lorraine cũng nhìn theo.
 
 "Hửm? Là một con mèo à?" Lorraine nghiêng đầu thắc mắc.
 
-Với những đường nét uyển chuyển, chiếc đuôi dài và đôi tai nhọn, nó đích thị là một con mèo. Có điều, trông nó không giống một con mèo thật sự mà như cái bóng của một con mèo được thổi hồn sống dậy. Nếu là mèo thật, nó hẳn sẽ có đôi mắt phát sáng trong bóng tối và chiếc lưỡi hồng thè ra nơi khóe miệng. Con mèo này chẳng có đặc điểm nào như thế. Toàn thân nó đen tuyền một màu, từ bốn chân cho đến đôi tai.
+Với những đường nét uyển chuyển, chiếc đuôi dài và đôi tai nhọn, nó đích thị là một con mèo. Có điều, trông nó không giống một con mèo thật sự mà như cái bóng của một con mèo được thổi hồn sống dậy. Nếu là mèo thật, nó hẳn sẽ có đôi mắt phát sáng trong bóng tối và chiếc lưỡi hồng lấp ló trong miệng. Con mèo này chẳng có đặc điểm nào như thế. Toàn thân nó đen tuyền một màu, từ bốn chân cho đến đôi tai.
 
 Vì tò mò, tôi hỏi: "Trông nó không giống thật lắm. Vốn dĩ nó phải như thế à?"
 
@@ -24,7 +24,7 @@ Vì tò mò, tôi hỏi: "Trông nó không giống thật lắm. Vốn dĩ nó 
 
 Isaac phân liệt ngay đầu ngón tay mình. Chỉ thoáng sau, nó đã tụ lại thành một con dơi, và không như những ví dụ trước đó, con dơi này trông y hệt một con dơi bằng xương bằng thịt thật sự. Nó có mắt, có miệng, nhìn kỹ còn thấy cả lớp lông mao. Thật tình, nếu không biết từ trước, tôi chẳng tài nào nhận ra nó vốn là một phần cơ thể của Isaac.
 
-"Dạng này vẫn là dễ tạo nhất," Isaac nói tiếp. Những đường nét chi tiết trên con dơi mờ dần đi, rồi nó biến thành một ảo ảnh dạng bóng mờ của loài dơi.
+"Còn dạng này vẫn là dễ tạo nhất," Isaac nói tiếp trong lúc các chi tiết trên con dơi mờ dần đi, biến lại thành một cái bóng hình dơi.
 
 "Hừm, thú vị thật đấy," Lorraine lẩm bẩm. "Tôi cũng muốn thử xem sao, nhưng người bình thường chắc chịu rồi," cô ấy nói, giọng thoáng chút ghen tị.
 
@@ -42,7 +42,7 @@ Tôi tiếp lời: "Tốt nhất cô nên nằm nghỉ một chút đi."
 
 Dù khuôn mặt ướt đẫm mồ hôi, cô ấy vẫn đáp lại bằng giọng quả quyết: "Không, tôi không sao đâu. Cảm giác chỉ như vừa dốc hết sức mà chạy thôi. Nghỉ một lát là tôi ổn ngay ấy mà. Tôi nghĩ vậy..."
 
-À, ra cảm giác giống như chạy nước rút—hoặc việc gì đó tiêu tốn chừng ấy thể lực. Cô ấy mệt lả đi chỉ vì chưa quen với việc gắng sức như thế. Ít nhất tôi đoán đó là lý do khiến cô ấy thấm mệt.
+À, ra cảm giác giống như chạy nước rút, hoặc làm việc gì đó tiêu tốn chừng ấy thể lực. Cô ấy mệt lả đi chỉ vì chưa quen với việc gắng sức như thế. Ít nhất tôi đoán đó là lý do khiến cô ấy thấm mệt.
 
 Đám Ma Cà Rồng chúng tôi đụng độ ở Mê Cung Tân Nguyệt cũng kiệt sức sau khi dùng Phân Liệt, nhưng không đến mức như Rina. Tôi đoán chúng chịu được là nhờ đã quen dùng kỹ thuật này từ trước. Dẫu thế, đúng như Nive từng giải thích, thời gian duy trì của chúng cũng có hạn. Đây đâu phải thứ năng lực toàn năng giúp miễn nhiễm mọi tổn thương.
 
@@ -60,11 +60,11 @@ Tôi thấy hơi áy náy khi gặng hỏi lúc cô ấy đang mệt, nhưng tr�
 
 Cảm giác đó hẳn là quá đỗi xa lạ với một con người. Dù tôi chẳng còn là con người nữa, nhưng đây chắc chắn là thứ phải đích thân trải nghiệm thì tôi mới thực sự hiểu nổi.
 
-Lorraine đầy hứng thú lắng nghe lời giải thích của Rina. Trông cô ấy như thể đang có cả ngàn câu hỏi trong đầu, nhưng rõ ràng không nỡ đem Rina ra tra hỏi dồn dập lúc người ta đang kiệt sức thế kia. Nói đôi ba câu thì không sao, chứ những cuộc gặng hỏi của Lorraine thường kéo dài dông dài và cô ấy luôn muốn đào sâu đến từng chân tơ kẽ tóc. Trải nghiệm đó dễ vắt kiệt sức người ta lắm.
+Lorraine đầy hứng thú lắng nghe lời giải thích của Rina. Trông cô ấy như thể đang có cả ngàn câu hỏi trong đầu, nhưng rõ ràng không nỡ đem Rina ra tra hỏi dồn dập lúc người ta đang kiệt sức thế kia. Trò chuyện đôi ba câu thì không sao, chứ những màn hỏi han của Lorraine thường kéo dài lê thê và cô ấy luôn muốn đào sâu đến từng chân tơ kẽ tóc. Bị hỏi thế dễ vắt kiệt sức người ta lắm.
 
 "Dù sao đi nữa," Isaac cất giọng nghiêm túc chen ngang, "có vẻ cô Rina đã vượt qua cửa ải đầu tiên rồi. Nếu tiếp tục luyện tập, cô ấy cũng sẽ làm chủ được Phân Liệt toàn thân thôi. Cô ấy nắm bắt rất nhanh. Có thể nói là một học trò đầy triển vọng."
 
-Học trò đầy triển vọng ư? Với một kẻ bán Ma Cà Rồng thì điều đó rốt cuộc mang ý nghĩa gì cơ chứ? Chẳng lẽ cô ấy có thể trở thành Ma Vương sao? Tôi từng nghe nói xưa nay chưa có Ma Vương nào thuộc tộc Ma Cà Rồng cả, nên nghĩ kỹ thì khéo đó lại là một mục tiêu hay ho. Trong đầu tôi bỗng hiện lên cảnh Rina ngồi ngả ngớn trên ngai vàng trong tòa lâu đài nào đó trên đỉnh núi cao, tay lắc lắc ly máu như lắc rượu vang, xung quanh là cả bầy trai trẻ tuấn tú cởi trần vây bọc...
+Học trò đầy triển vọng ư? Với một kẻ bán Ma Cà Rồng thì điều đó rốt cuộc mang ý nghĩa gì cơ chứ? Chẳng lẽ cô ấy có thể trở thành Ma Vương sao? Tôi từng nghe nói xưa nay chưa có Ma Vương nào thuộc tộc Ma Cà Rồng cả, nên nghĩ kỹ thì khéo đó lại là một mục tiêu hay ho. Trong đầu tôi bỗng hiện lên cảnh Rina ngả lưng trên ngai vàng trong tòa lâu đài nào đó trên đỉnh núi cao, tay lắc lắc ly máu như rượu vang, xung quanh là cả dàn trai trẻ tuấn tú cởi trần vây quanh...
 
 Được rồi, đúng là suy nghĩ quái đản thật. Cơ mà biết đâu cô ấy lại hợp với cái vai đó đấy chứ. Thôi, tôi chỉ đùa chút thôi.
 
@@ -72,11 +72,11 @@ Học trò đầy triển vọng ư? Với một kẻ bán Ma Cà Rồng thì đ
 
 "Xem ra Rina sẽ không gặp rắc rối gì đâu," Lorraine nói. "Cứ đà này thì cô ấy sẽ làm chủ được cả những năng lực Ma Cà Rồng khác nữa thôi. Dù chuyện đó có tốt hay không thì vẫn còn phải xem lại."
 
-Tôi hiểu ý cô ấy muốn nói. Rina đâu hề muốn trở thành một bán Ma Cà Rồng. Cô ấy cũng chẳng mảy may hé răng rằng mình muốn trở thành một cá thể hùng mạnh trong số đó. Thành thử chuyện sở hữu thứ tài năng đầy hứa hẹn này là họa hay phúc vẫn còn chưa rõ. Dẫu vậy, Rina là một mạo hiểm giả. Việc cô ấy mạnh lên tự nó đã là điều đáng ăn mừng rồi.
+Tôi hiểu ý cô ấy muốn nói. Rina đâu hề muốn trở thành một bán Ma Cà Rồng. Cô ấy cũng chưa từng nói là mình muốn trở thành một cá thể hùng mạnh trong số đó. Thành thử chuyện sở hữu thứ tài năng đầy hứa hẹn này là họa hay phúc vẫn còn chưa rõ. Dẫu vậy, Rina là một mạo hiểm giả. Việc cô ấy mạnh lên tự nó đã là điều đáng ăn mừng rồi.
 
 Sẽ rắc rối to nếu sau này Rina tìm ra cách trở lại làm người. Chẳng ai biết được liệu cô ấy có giữ lại được những năng lực quái vật hiện tại hay không. Nhưng lúc này lo xa chuyện đó cũng bằng thừa. Có lẽ rồi sẽ đến ngày cô ấy phải chọn lựa giữa sức mạnh hay giống loài của mình, nhưng nếu chuyện đó xảy ra, quyền quyết định hoàn toàn thuộc về cô ấy.
 
-"Sống như một Ma Cà Rồng cũng chẳng đến nỗi tệ," Isaac đáp. "Sẽ không phải chết vì tuổi già. Có điều, cảm giác chán chường khó tả khi bị bỏ lại phía sau lúc thời thế đổi thay, cộng thêm việc nấn ná mãi ở một nơi duy nhất dễ sinh ra rắc rối, nên tôi không dám chắc đây là một cuộc đời tuyệt vời. Đáp án cho những trăn trở ấy chẳng thể có được trong một sớm một chiều, nên Rina sẽ phải tự mình đối mặt với chúng thôi."
+"Sống như một Ma Cà Rồng cũng chẳng đến nỗi tệ đâu," Isaac đáp. "Người ta sẽ không chết vì tuổi già. Có điều, bị bỏ lại phía sau khi thời thế đổi thay sẽ sinh ra một nỗi chán chường khó tả, mà ở mãi một nơi cũng dễ nảy sinh rắc rối, nên tôi không dám chắc đây là một cuộc sống tuyệt vời. Lời giải cho những trăn trở ấy chẳng thể có được trong một sớm một chiều, nên cô Rina sẽ phải tự mình trăn trở với chúng thôi."
 
 Isaac khựng lại một lát rồi nói: "Giờ hãy thử Phân Liệt của ngài xem sao nhé, Rentt. Ngài sẵn sàng chưa?"
 
@@ -84,13 +84,13 @@ Tôi tự tin gật đầu. Từng kinh qua vô số tình huống quái đản 
 
 "Đã chuẩn bị tâm lý xong xuôi rồi thì chúng ta bắt đầu thôi. Cách làm thì ngài cũng nghe khi tôi hướng dẫn cho cô Rina rồi đấy, giờ chỉ việc tự mình thử xem sao thôi. Ngài còn nhớ chứ?"
 
-Phải rồi, ngay cả một kẻ có trí nhớ như chim như tôi thì những gì vừa nghe mười phút trước vẫn còn nhớ rõ. Trước tiên, tôi cần hình dung cơ thể mình là tập hợp của nhiều phần tách biệt. Nếu nhớ không lầm, tôi phải xem chúng như những thực thể độc lập, rồi mới có thể phân liệt. Dù sao để cho chắc ăn, tôi vẫn xác nhận lại các bước với Isaac.
+Phải rồi, ngay cả kẻ đãng trí như tôi thì chuyện vừa nghe mười phút trước vẫn còn nhớ được. Trước tiên, tôi cần hình dung cơ thể mình là tập hợp của nhiều phần tách biệt. Nếu nhớ không lầm, tôi phải xem chúng như những thực thể độc lập, rồi mới có thể phân liệt. Dù sao để cho chắc ăn, tôi vẫn xác nhận lại các bước với Isaac.
 
 "Vâng, hoàn toàn chính xác. Điều cốt yếu là ngài hình dung bản thân sẽ phân tách thành thứ gì. Vì ngài đã thấy bầy dơi của tôi và con mèo của cô Rina rồi, nên việc đó chắc cũng không khó chứ?"
 
 "Đúng thế. Tôi cảm thấy mình đã nắm được đại khái cách vận hành rồi."
 
-Thực sự phải bắt tay vào cân nhắc, tôi lại chẳng biết sinh vật đó nên là con gì. Tôi biết mình vốn mắc bệnh do dự mỗi khi đụng tới mấy chuyện kiểu này. Hay là chó nhỉ, vì Rina là mèo rồi mà? Thôi được rồi, nghĩ thế thì tùy tiện quá. Ồ, hay là chuột chăng, vì tôi có Edel mà? Nhưng ngẫm lại chuột đâu có biết bay. Nhớ lại trải nghiệm cưỡi phi thuyền dạo trước, tôi nhận ra mình thích cảm giác tự do khi sải cánh giữa trời xanh. Cơ mà tôi vốn đã tự bay được rồi, nên chẳng biết có lý do gì để cứ phải bận lòng với chi tiết ấy không nữa. Trời ạ, chuyện này khó hơn tôi tưởng nhiều!
+Giờ đến lúc phải nghĩ thật thì tôi lại chẳng biết nên chọn con gì. Tôi biết mình vốn hay do dự mỗi khi đụng tới mấy chuyện kiểu này. Hay là chó nhỉ, vì Rina là mèo rồi mà? Thôi được rồi, nghĩ thế thì tùy tiện quá. Ồ, hay là chuột chăng, vì tôi có Edel mà? Nhưng ngẫm lại chuột đâu có biết bay. Qua trải nghiệm điều khiển chiếc phi thuyền dạo trước, tôi nhận ra mình rất thích cảm giác tự do khi bay lượn giữa bầu trời xanh. Cơ mà tôi vốn đã tự bay được rồi, nên chẳng biết có lý do gì để cứ phải bận lòng với chi tiết ấy không nữa. Trời ạ, chuyện này khó hơn tôi tưởng nhiều!
 
 "Ồ, nhắc mới nhớ," Lorraine chợt lên tiếng như vừa sực nhớ ra điều gì, "anh và Rina đều dùng động vật để làm hình tượng, nhưng liệu có thể hình dung ra thứ gì khác không? Chẳng hạn như thực vật ấy."
 

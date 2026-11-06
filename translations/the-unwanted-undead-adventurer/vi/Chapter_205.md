@@ -1,26 +1,26 @@
 # Chương 205: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (4)
 
-"Ừ nhỉ. Săn Ma Cà Rồng nghe chẳng dễ tí nào," Raiz lẩm bẩm một mình, hai vai cậu ấy chùng xuống.
+"Ừ nhỉ. Săn Ma Cà Rồng nghe chẳng dễ tí nào," Raiz tự lẩm bẩm, hai vai chùng xuống.
 
-Phản ứng của cậu ấy cũng dễ hiểu. Bắt những mạo hiểm giả Đồng Cấp vừa mới thăng hạng đi săn Ma Cà Rồng thì chẳng khác nào bảo họ đi săn Rồng. Cả hai việc đều quá xa tầm với. Dù góc nhìn của tôi có phần lệch lạc vì thấy Nive ra tay nhẹ bẫng, nhưng săn Ma Cà Rồng vốn là công việc nguy hiểm mà ngay cả mạo hiểm giả cấp cao cũng phải dè chừng. Đâu phải thứ mà một mạo hiểm giả bình thường có thể tùy tiện nhận làm.
+Phản ứng của cậu ấy cũng dễ hiểu. Bắt những mạo hiểm giả Đồng Cấp vừa mới thăng hạng đi săn Ma Cà Rồng thì chẳng khác nào bảo họ đi săn Rồng. Cả hai việc đều quá xa tầm với. Dù thước đo của tôi hơi bị lệch vì thấy Nive ra tay nhẹ như không, nhưng săn Ma Cà Rồng vốn là công việc nguy hiểm mà ngay cả mạo hiểm giả cấp cao cũng phải dè chừng. Đâu phải thứ mà một mạo hiểm giả bình thường có thể tùy tiện nhận làm.
 
-Hơn nữa, Ma Cà Rồng cực kỳ giỏi ẩn mình, một khi đã lẩn vào đám đông thì hầu như không tài nào tìm ra nổi. Dẫu có giao chiến được với chúng, một con Hạ Cấp Ma Cà Rồng chí ít cũng ngang ngửa với mạo hiểm giả Ngân Cấp bậc trung. Chưa kể chúng còn liên tục tạo ra Thi Quỷ nếu để mặc cho tự do hành động. Cứ cho là may mắn tìm thấy, chúng vẫn có thể biến cả ngôi làng hay thành phố thành chốn địa ngục trần gian nếu không có đối sách thích hợp. Lũ quái vật này vừa khó nhằn vừa cực kỳ quỷ quyệt, tuyệt đối không phải con mồi mà mạo hiểm giả cấp thấp có thể tùy hứng đi săn.
+Hơn nữa, Ma Cà Rồng cực kỳ giỏi ẩn mình, một khi đã lẩn vào đám đông thì hầu như không tài nào tìm ra nổi. Dẫu có giao chiến được với chúng, một con Hạ Cấp Ma Cà Rồng chí ít cũng ngang ngửa với mạo hiểm giả Ngân Cấp bậc trung. Chưa kể chúng còn liên tục tạo ra Thi Quỷ nếu cứ để mặc chúng lộng hành. Cứ cho là may mắn tìm thấy một con, chúng vẫn có thể biến cả ngôi làng hay thành phố thành chốn địa ngục hỗn loạn nếu không có chiến thuật đối phó thích hợp. Chúng là những con mồi cực kỳ khó nhằn, đâu phải thứ mà mạo hiểm giả cấp thấp có thể tùy hứng đi săn.
 
 Nive làm được việc đó chỉ nhờ cô ấy có năng lực phát hiện Ma Cà Rồng. Đã vậy, cô ấy còn hiểu về Ma Cà Rồng hơn bất kỳ ai còn sống trên đời. Nive có sự bền bỉ dai dẳng như loài chó săn cùng đầu óc phân tích sắc bén để phục vụ cho nỗi ám ảnh săn lùng của mình. Mạo hiểm giả lính mới hiếm ai hội đủ những phẩm chất đó, nên Raiz thấy thất vọng cũng phải thôi.
 
 "Raiz à, đâu việc gì phải vội vàng rồi đâm đầu vào chỗ nguy hiểm chứ," Laura trấn an cậu ấy. "Tụi mình cứ kiên nhẫn tiến lên từng bước một thôi. Cậu còn nhớ những gì anh Rentt dặn tụi mình không?"
 
-Tôi từng nói thế thật sao? Có lẽ tôi đã nói gì đó trong một buổi trò chuyện bâng quơ, nhưng quả thật tôi chẳng nhớ nổi. Mà nếu có nói, tôi cũng không bao giờ nói đãi bôi cho qua chuyện. Tôi thực sự nghĩ vậy. Dẫu sao thì chính tôi cũng đã trải qua mười năm ròng chậm rãi nhưng kiên trì vươn lên từng bước.
+Tôi từng nói thế thật sao? Có lẽ tôi đã buột miệng nhắc tới lúc nói chuyện phiếm, nhưng giờ chẳng nhớ nổi. Mà nếu có nói thật thì tôi cũng không nói qua loa cho có đâu. Tự đáy lòng tôi nghĩ vậy thật mà. Dù sao chính tôi cũng đã mất mười năm ròng chậm rãi, bền bỉ đi lên từng bước một.
 
-Dù tôi mạnh lên là nhờ vào vài biến cố kỳ quặc có một không hai, nhưng nỗ lực bền bỉ vẫn là con đường tiến bộ hiệu quả nhất. Mọi chuyện sẽ khác nếu người ta sở hữu thiên phú hay năng lực phi thường, còn nếu cứ mơ hồ trông chờ tài năng giúp mình đổi đời thì rất có thể sẽ phải giải nghệ trước khi chạm tới được cái đích mình mong muốn.
+Dù tôi mạnh lên là nhờ vào vài biến cố kỳ quặc có một không hai, nhưng nỗ lực bền bỉ vẫn là con đường tiến bộ hiệu quả nhất. Mọi chuyện sẽ khác nếu người ta sở hữu thiên phú hay năng lực phi thường, còn nếu cứ mơ hồ trông chờ tài năng giúp mình bứt phá thì rất có thể sẽ phải giải nghệ trước khi chạm tới được cái đích mình mong muốn.
 
-"Hừm, nhận xét hay đấy. Tôi hoàn toàn đồng ý với Rentt," Nive bất ngờ cất lời khen ngợi tôi. "Dĩ nhiên, nếu hai bạn săn được Ma Cà Rồng thì quả là đóng góp to lớn cho thế giới và cho toàn thể nhân loại. Nhưng Ma Cà Rồng là con mồi của tôi, nên tốt hơn hết là hai bạn hãy tích lũy kinh nghiệm theo cách khác. Cứ tìm việc vừa sức với thực lực của mình rồi vững vàng hoàn thành từng việc một. Cứ lặp đi lặp lại như thế. Cách đó nghe chẳng vẻ vang hào nhoáng gì, nhưng lại là con đường tốt nhất để trở thành mạo hiểm giả dày dạn và toàn diện. Chướng ngại lớn nhất của lính mới chính là thói tự tin hão huyền và ham muốn danh vọng. Ưu tiên hàng đầu là phải vượt qua được những thứ ấy."
+"Hừm, nhận xét hay đấy. Tôi hoàn toàn đồng ý đấy, Rentt," Nive bất ngờ lên tiếng khen tôi. "Dĩ nhiên, nếu hai bạn săn được Ma Cà Rồng thì quả là đóng góp to lớn cho thế giới và cho toàn thể nhân loại. Nhưng Ma Cà Rồng là con mồi của tôi, nên tốt hơn hết là hai bạn hãy tích lũy kinh nghiệm theo cách khác. Cứ tìm những việc vừa sức mình rồi đều đặn hoàn thành từng việc một. Cứ lặp đi lặp lại như thế. Cách đó nghe chẳng vẻ vang hào nhoáng gì, nhưng lại là con đường tốt nhất để trở thành mạo hiểm giả dày dạn và toàn diện. Chướng ngại lớn nhất của lính mới chính là thói tự tin hão huyền và ham muốn danh vọng. Ưu tiên hàng đầu là phải vượt qua được những thứ ấy."
 
 Nive vừa đưa ra lời khuyên thực sự chí lý. Tôi vốn đã quen với việc cô ấy hành xử như thể bị rơi mất vài con ốc vít trong đầu. Nhìn nét mặt Lorraine lúc chăm chú quan sát Nive, tôi đoán cô ấy cũng đang nghĩ điều tương tự. Đồng thời, trong mắt Lorraine còn phảng phất chút thán phục, dường như cũng ấn tượng khi thấy Nive quả thực là một mạo hiểm giả cấp cao đúng nghĩa.
 
 Raiz và Laura dường như vô cùng xúc động trước những lời Nive vừa nói.
 
-"Ra là vậy. Hoá ra những gì anh Rentt nói đều đúng cả. Tụi mình cứ chăm chỉ rồi cố gắng tiếp thôi, Laura."
+"Ra là vậy. Hóa ra những gì anh Rentt nói đều đúng cả. Tụi mình cứ chăm chỉ rồi cố gắng tiếp thôi, Laura."
 
 "Ừm. Cậu đừng có gắng gượng quá sức đấy nhé."
 
@@ -28,11 +28,11 @@ Laura nhìn Nive với ánh mắt đầy biết ơn. Tôi đoán Raiz hay có t�
 
 Nive nói tiếp: "Đó cũng là lý do tôi muốn nói chuyện. Tôi muốn hai bạn tiếp tục trưởng thành để kế thừa lớp mạo hiểm giả kế cận. Có điều, tôi có một việc muốn xác nhận với hai bạn."
 
-Nive sắp giải thích những gì cô ấy định làm. Điều đó quả thật nằm ngoài dự liệu. Có lẽ khá lắm thì hai người họ trông cũng chẳng hay biết gì. Đúng là theo thời gian có khả năng họ sẽ biến thành Ma Cà Rồng, nhưng lúc này thì chịu, không sao nhận biết nổi. Cả hai đều không hề hay rằng mình có nguy cơ biến thành Ma Cà Rồng. Nếu đã hoá thành Ma Cà Rồng và nhận thức được điều đó, hẳn họ đã bỏ trốn rồi. Nhưng vì họ mù tịt hoàn toàn... Chà, ít nhất thì Nive vẫn luôn nhất quán trong cách làm việc.
+Nive sắp giải thích những gì cô ấy định làm. Điều đó quả thật nằm ngoài dự liệu. Có lẽ vì nhìn theo hướng tích cực nhất thì trông hai người họ hoàn toàn ngơ ngác chẳng biết gì. Đúng là theo thời gian có khả năng họ sẽ biến thành Ma Cà Rồng, nhưng lúc này thì chịu, không sao nhận biết nổi. Cả hai đều không hề hay rằng mình có nguy cơ biến thành Ma Cà Rồng. Nếu đã hóa thành Ma Cà Rồng và nhận thức được điều đó, hẳn họ đã bỏ trốn rồi. Nhưng vì họ mù tịt hoàn toàn... Chà, ít nhất thì Nive vẫn luôn nhất quán trong cách làm việc.
 
 "Xác nhận sao? Chị muốn xác nhận chuyện gì thế?" Raiz hỏi.
 
-"Xác nhận xem hai bạn đã biến thành Ma Cà Rồng hay chưa. Hai bạn từng bị Ma Cà Rồng bắt cóc, đúng chứ? Rất có thể hai bạn đã bị thao túng tâm trí trong suốt thời gian đó. Tôi muốn loại bỏ mọi mối nghi ngờ."
+"Xác nhận xem hai bạn có bị biến thành Ma Cà Rồng hay không. Hai bạn từng bị Ma Cà Rồng bắt cóc, đúng chứ? Vẫn có một khả năng nhỏ là hai bạn đã bị biến thành Thi Quỷ trong lúc đó. Tôi muốn loại bỏ mọi mối nghi ngờ."
 
 Nive đang mỉm cười, chỉ nhìn bề ngoài thì cô ấy rất lịch thiệp. Thế nhưng cảm xúc phản chiếu trong tròng mắt đỏ rực của cô ấy lại hoàn toàn trái ngược.
 
@@ -64,19 +64,19 @@ Hiện tại Nive, Lorraine và tôi đang đứng ngoài hành lang phòng bệ
 
 Lorraine và tôi tự hỏi liệu họ có nhắc đến tình trạng hiện tại của Rina hay không. Tôi hiểu tính cách của Raiz và Laura khá rõ qua những lần chạm mặt trong kỳ thi thăng hạng Đồng Cấp, tuy vậy tôi đoán Rina sẽ giấu chuyện mình đã biến thành quái vật. Biết đâu tới một lúc nào đó cho họ hay bí mật này cũng chẳng sao. Nhưng hiện giờ, đây là gánh nặng quá lớn đối với hai mạo hiểm giả Đồng Cấp.
 
-Raiz và Laura còn rất trẻ, tôi muốn họ cứ vô tư tận hưởng nghiệp mạo hiểm giả. Có lẽ tốt nhất là chờ đến khi họ cũng dày dạn sương gió như tôi. Cơ mà không khéo thế lại còn tệ hơn. Biết đâu họ sẽ bán tin tức này cho ai đó để kiếm tiền thì sao. Ít nhất thì nếu là tôi, tôi sẽ làm vậy.
+Raiz và Laura còn rất trẻ, tôi muốn họ cứ vô tư tận hưởng nghiệp mạo hiểm giả. Có lẽ tốt nhất là đợi tới khi họ cũng chai sạn như tôi. Không, thế khéo lại còn tệ hơn. Biết đâu họ sẽ đem bán bí mật này cho ai đó để lấy tiền thì sao. Ít nhất nếu là tôi thì tôi sẽ làm vậy.
 
 "Ồ, nhắc đến Ma Cà Rồng mới nhớ," Lorraine xen vào, quay sang Nive, "cô đã trừ khử con từng chạm trán trong Mê Cung Tân Nguyệt chưa?"
 
 Ồ phải rồi, chúng tôi còn chưa buồn hỏi Nive về chuyện đó nữa.
 
-"Diệt rồi, tôi đã trừ khử nó tận gốc. Vì muốn tra hỏi nhiều điều nên tôi dừng tay khi nó vẫn còn trả lời được, nhưng phải công nhận đối thủ quả là ngoan cố. Nó thà chọn cái chết rồi tự hoá thành tro bụi. Thành ra tôi chẳng moi được mẩu thông tin nào từ nó cả. Tiếc thật đấy. Chính vì thế tôi mới dồn hy vọng vào tên trùm ở Maalt, vậy mà bức tường đó... Thật là một nỗi thất vọng ghê gớm." Đôi vai Nive chùng xuống trong một thoáng buồn bã hiếm thấy.
+"Diệt rồi, tôi đã trừ khử nó tận gốc. Vì muốn tra hỏi nhiều điều nên tôi dừng tay khi nó vẫn còn trả lời được, nhưng phải công nhận đối thủ quả là ngoan cố. Nó thà chọn cái chết rồi tự hóa thành tro bụi. Thành ra tôi chẳng moi được mẩu thông tin nào từ nó cả. Tiếc thật đấy. Chính vì thế tôi mới dồn hy vọng vào tên trùm ở Maalt, vậy mà bức tường đó... Đúng là thất vọng tràn trề." Đôi vai Nive chùng xuống trong một thoáng buồn bã hiếm thấy.
 
 Tôi hiểu chuyện đó cay đắng ra sao đối với một người ở vị thế của Nive. Cô ấy tốn biết bao thời gian và tiền bạc chuẩn bị cho sự xuất hiện của Ma Cà Rồng, để rồi cuối cùng đòn kết liễu lại rơi vào tay chúng tôi. Tôi không nghĩ Nive quá bận tâm về công trạng, nhưng vì cô ấy khát khao tiêu diệt Ma Cà Rồng đến cháy bỏng, nên hai chuyện đó cũng chẳng khác gì nhau.
 
 "Chuyện đó thì tôi chỉ biết xin lỗi thôi. Chúng tôi cũng chẳng tìm hiểu được thêm bao nhiêu đâu," tôi đáp.
 
-Chuyện đó cũng chẳng phải nói dối. Chúng tôi biết Shumini tạo ra một mê cung rồi tìm cách trở thành Chủ Nhân Mê Cung, nhưng lại không rõ tại sao hắn phải cất công làm vậy. Trở thành Chủ Nhân Mê Cung thì có bổng lộc gì đặc biệt chăng? Hay là vì nguyên do nào khác? Chẳng có cách nào biết được. Chúng tôi có thể hỏi Laura, nhưng hiện giờ cô bé đang say giấc dưỡng nhan rồi. Cũng chẳng biết lúc nào cô bé mới thức dậy nữa. Dù sao thì các tiểu thư quý tộc lúc nào cũng xem trọng giấc ngủ của mình.
+Chuyện đó cũng chẳng phải nói dối. Chúng tôi biết Shumini tạo ra một mê cung rồi tìm cách trở thành Chủ Nhân Mê Cung, nhưng lại không rõ tại sao hắn phải cất công làm vậy. Làm Chủ Nhân Mê Cung thì có lợi ích gì đặc biệt chăng? Hay là vì nguyên do nào khác? Chẳng có cách nào biết được. Chúng tôi có thể hỏi Laura, nhưng hiện giờ cô bé đang say giấc dưỡng nhan rồi. Cũng chẳng biết lúc nào cô bé mới thức dậy nữa. Dù sao thì các tiểu thư quý tộc lúc nào cũng xem trọng giấc ngủ của mình.
 
 "Không, đâu phải lỗi của cậu, Rentt," Nive lắc đầu nói. "Chỉ là tôi tính toán sai tình hình thôi. Đáng lẽ tôi nên mặc kệ Mê Cung Tân Nguyệt ở đó mà chạy thẳng về Maalt. Có điều, nếu làm vậy thì những mạo hiểm giả như Raiz và Laura hẳn đã phải bỏ mạng rồi. Dù tôi không có cơ hội trừ khử tên trùm Ma Cà Rồng, nhưng rốt cuộc cậu đã hạ được hắn, Rentt à. Như vậy có khi lại là kết cục tốt nhất rồi, nên tôi chẳng có gì để phàn nàn về chuyện đó cả. Chỉ tiếc là tôi không thể tự tay kết liễu chúng mà thôi."
 
@@ -104,9 +104,9 @@ Thế nhưng Nive đáp: "Tôi thấy cũng đến lúc phải đi rồi. Tôi c
 
 Nghe tôi nói vậy, Nive nhìn chằm chằm vào mắt tôi, thở dài rồi nhún vai.
 
-"Cũng không hẳn là nói dối, nhưng trong lòng cậu đâu có nghĩ thế hả Rentt. Cơ mà không sao. Tôi bận lắm, vẫn còn nhiều Ma Cà Rồng phải tiêu diệt. Lúc tôi đi rồi thì đừng có nhớ tôi quá đấy nhé. Mặc dù, nếu cậu thực sự là Ma Cà Rồng thì chuyện lại khác..."
+"Cũng không hẳn là nói dối, nhưng trong lòng cậu đâu có nghĩ thế, Rentt. Cơ mà không sao. Tôi bận lắm, vẫn còn nhiều Ma Cà Rồng phải tiêu diệt. Lúc tôi đi rồi thì đừng có nhớ tôi quá đấy nhé. Dù nếu cậu thực sự là Ma Cà Rồng thì lại là chuyện khác..."
 
-Nive bước sát lại gần, mặt ghé sát mặt tôi chỉ độ vài gang tấc rồi lắc đầu. "Lạ thật đấy. Sao cậu lại không phải là Ma Cà Rồng chứ, Rentt?"
+Nive bước lại gần, dừng lại khi mặt chỉ còn cách mặt tôi trong gang tấc rồi lắc đầu. "Lạ thật đấy. Sao cậu lại không phải là Ma Cà Rồng chứ, Rentt?"
 
 "Ý cô là thế nào chứ?" tôi hỏi.
 
@@ -114,7 +114,7 @@ Nive bước sát lại gần, mặt ghé sát mặt tôi chỉ độ vài gang 
 
 "Đó là vì hành tung đáng ngờ của tôi với mấy chuyện linh tinh, đúng không?"
 
-"Một phần thôi. Nhưng rốt cuộc vẫn là trực giác. Không phải lý trí, cũng chẳng phải Thánh Hỏa, mà là trực giác của tôi. Trước giờ nó chưa từng sai bao giờ. Cho tới khi gặp cậu mới thế đấy. Vì vậy, Rentt à, tôi vẫn để mắt đến cậu đấy nhé."
+"Một phần thôi. Nhưng rốt cuộc vẫn là trực giác. Không phải lý trí, cũng chẳng phải Thánh Hỏa, mà là trực giác của tôi. Trước giờ nó chưa từng đánh lừa tôi bao giờ. Cho tới khi gặp cậu đấy. Vì vậy, Rentt à, tôi vẫn để mắt đến cậu đấy nhé."
 
 Nive càng nhích lại gần hơn. Đúng lúc ấy, cửa phòng khám khẽ cạch mở, Rina thò đầu ra ngoài. Cô ấy nhìn Nive rồi nhìn tôi. Thời gian dường như ngưng đọng trong thoáng chốc.
 
@@ -136,15 +136,15 @@ Vẻ mặt của Lorraine thật khó mà diễn tả khi để mặc cho Rina l
 
 Nive quay sang tôi. "Ừm, hay mình làm thế luôn đi Rentt? Tôi thì chẳng ngại đâu."
 
-"Nhưng tôi thì ngại đấy. Xin cô lùi lại giùm cho."
+"Nhưng tôi thì ngại đấy. Làm ơn lùi lại giùm tôi đi."
 
 Tôi nắm lấy hai vai Nive đẩy ra. Chẳng biết cô ấy đùa hay thật, nhưng việc Nive hơi chu môi lại càng làm tôi rợn tóc gáy. Tôi có cảm giác nếu cô ấy mà hôn thật thì sẽ hút sạch sinh khí của tôi mất. Nghiêm túc đấy. Ý tôi là, đáng lẽ tôi mới phải là kẻ làm chuyện hút đó, nhưng... tôi thậm chí chẳng dám tưởng tượng mình lại làm thế với cô ấy.
 
 Chẳng hiểu sao Rina lại có vẻ thất vọng, còn Lorraine thì bật cười khúc khích.
 
-"Thôi mà, đừng chơi xỏ tôi thế chứ Lorraine," tôi khẩn khoản.
+"Thôi nào, đừng làm khổ tôi thế chứ Lorraine," tôi nài nỉ.
 
-Lorraine châm chọc lại: "Ồ, nhưng mà vui mà. Không ngờ Rina lại rành mấy chuyện này thế. Cô thất vọng đấy à?" cô ấy hỏi Rina.
+Lorraine trêu lại: "Ồ, nhưng vui mà. Không ngờ Rina lại rành mấy chuyện này hơn tôi tưởng đấy. Cô thất vọng à?" cô ấy hỏi Rina.
 
 Rina đỏ ửng mặt, lắp bắp: "L-L-Làm gì có chuyện đó! Ừm, vậy hai người... không phải ở trong mối quan hệ kiểu đó sao?"
 
@@ -164,15 +164,15 @@ Một lần nữa tôi lại thắc mắc sao trông Rina thất vọng đến t
 
 "Ồ, nghe cũng có lý. Dù tôi có nghe bảo vài người lại thích kiểu như thế," Rina trầm ngâm.
 
-"Cô Rina này, không phải cô đang giả ngô giả nghê đấy chứ? Tôi bắt đầu nghi là vậy rồi đấy."
+"Cô Rina này, không phải cô đang giả ngây giả ngô đấy chứ? Tôi bắt đầu nghi là vậy rồi đấy."
 
 "Không, không, không! Hoàn toàn không phải thế đâu mà!"
 
 Tôi đoán Nive và Rina tính tình khá hợp nhau, vì lúc này hai người nói chuyện với nhau rất ăn ý. Do tôi tưởng tượng hay là Nive thực sự đang bị dồn vào thế phòng thủ vậy? Chuyện này đúng là nằm ngoài dự liệu.
 
-Mặc cho hai người họ tiếp tục trêu đùa, Lorraine bước lại gần tôi. "Thế rốt cuộc cảm giác thật của anh ra sao? Dù Nive có là Thợ Săn Ma Cà Rồng điên cuồng và ám ảnh, nhưng cô ấy đẹp hiếm thấy đấy chứ. Anh chắc là không thấy sướng rơn khi mặt đối mặt sát sạt như thế à?"
+Mặc cho hai người họ tiếp tục trêu đùa, Lorraine bước lại gần tôi. "Thế rốt cuộc cảm giác thật của anh ra sao? Dù Nive có là một Thợ Săn Ma Cà Rồng điên rồ và đầy ám ảnh, nhưng cô ấy vẫn là mỹ nhân hiếm có trên đời đấy. Anh chắc là không thấy vui chút nào khi mặt cô ấy ghé sát mặt mình thế à?"
 
-Lorraine chỉ bông đùa thôi, nhưng tôi lắc đầu nguầy nguậy ngay. "Trái lại, cảm giác chẳng khác nào một con Rồng đang ghé sát mặt chuẩn bị khạc đòn hơi thở thì có."
+Lorraine chỉ nói đùa thôi, nhưng tôi lập tức lắc đầu. "Nói đúng hơn thì cảm giác chẳng khác nào một con Rồng đang ghé sát mặt chuẩn bị phun hơi thở vào người tôi ấy."
 
 "Ồ, à, xin chia buồn nhé."
 
@@ -192,4 +192,4 @@ Trong lúc chúng tôi trao đổi, Nive và Rina cũng dứt câu chuyện.
 
 "Vậy tôi xin phép cáo từ trước nhé. Ngày mai tôi sẽ rời khỏi thành phố, nếu có lòng ra tiễn thì tôi rất hoan nghênh. Chào nhé." Nói rồi, Nive rời khỏi phòng khám.
 
-Nhiều lúc tôi thực sự chẳng thể nào hiểu nổi Nive. Đi tiễn cô ấy sao? Ừ thì, tôi đang phải đắn đo suy nghĩ xem có nên đi hay không đây.
+Nhiều lúc tôi thực sự chẳng hiểu nổi Nive. Đi tiễn cô ấy sao? Ừ thì, tôi cũng phải đắn đo xem có nên đi hay không đây.
