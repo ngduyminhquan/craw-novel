@@ -2,13 +2,13 @@
 
 Sơ Lillian không còn dùng được Thần Lực nữa ư? Điều đầu tiên tôi nghĩ đến là căn Bệnh Tích Tụ Chướng Khí mà sơ ấy từng mắc phải, nhưng ngẫm lại chuyện hồi đó thì chính Sơ Lillian cũng chỉ biết mình mắc bệnh khi được chữa trị mà thôi. Nữ Tu Viện Trưởng Elza suốt thời gian qua luôn ở vương đô, lại đã lâu không có tin tức gì từ Sơ Lillian, nên nếu cô ấy biết chuyện thì thật kỳ lạ.
 
-Dẫu vậy, nếu Elza thu thập tin tức bằng cách nào đó mà chính Sơ Lillian không hay biết thì chuyện cô ấy rõ sự tình cũng chẳng có gì lạ. Thế nhưng lời của Elza dường như không mang hàm ý ấy. Đúng hơn, cô ấy ngụ ý rằng Sơ Lillian đã mất khả năng dùng Thần Lực từ trước cả khi mắc Bệnh Tích Tụ Chướng Khí. Như vậy mới giải thích được vì sao một Thánh Giả sở hữu Thần Lực quý giá như Sơ Lillian lại bị điều về phụ trách một cô nhi viện ở Maalt, nơi hẻo lánh bậc nhất trong những vùng đất xa xôi.
+Mà nghĩ lại, nếu Elza thu thập tin tức bằng cách nào đó mà chính Sơ Lillian không hay biết thì chuyện cô ấy rõ sự tình cũng chẳng có gì lạ. Có điều, lời của Elza nghe không giống như mang hàm ý ấy. Đúng hơn, cô ấy ngụ ý rằng Sơ Lillian đã mất khả năng dùng Thần Lực từ trước cả khi mắc Bệnh Tích Tụ Chướng Khí. Như vậy mới giải thích được vì sao một Thánh Giả sở hữu Thần Lực quý giá như Sơ Lillian lại bị điều về phụ trách một cô nhi viện ở Maalt, nơi hẻo lánh bậc nhất trong những vùng đất xa xôi.
 
-"Không rõ hai vị đã biết chưa," Elza nói tiếp, "nhưng khoảng mười năm trước, Lillian từng là nữ tu tại Tu Viện Ephas này. Cô ấy trở thành nữ tu từ năm mười lăm tuổi, và ngay từ lúc đó đã bộc lộ thiên phú Thần Lực xuất chúng. Mọi người khi ấy đều xem cô ấy là một Thánh Giả đầy triển vọng sẽ gánh vác tương lai của Giáo Hội trên vai."
+"Không rõ hai vị đã biết chưa," Elza nói tiếp, "nhưng cho đến khoảng mười năm trước, Lillian vẫn là nữ tu tại Tu Viện Ephas này. Sơ ấy trở thành nữ tu từ năm mười lăm tuổi, và ngay ở độ tuổi đó đã bộc lộ thiên phú Thần Lực xuất chúng. Mọi người khi ấy đều xem sơ ấy là một Thánh Giả đầy triển vọng sẽ gánh vác tương lai của Giáo Hội trên vai."
 
-Ra là vậy, quả nhiên có lý do xác đáng đằng sau việc Sơ Lillian bị điều về một nơi xa xôi hẻo lánh như Maalt. À mà khoan, Maalt đâu phải chốn quê mùa. Đó là một thành phố biên ải tương đối sầm uất đấy chứ. Tôi rất muốn lên tiếng đính chính điều đó, nhưng Elza đâu có bảo Maalt là nơi khỉ ho cò gáy, nên tôi đành nín thinh.
+Ra là vậy, quả nhiên có lý do xác đáng đằng sau việc Sơ Lillian được điều về một nơi quê mùa như Maalt. À mà khoan, Maalt đâu có quê mùa. Đó là một thành phố biên ải tương đối sầm uất đấy chứ. Dù rất muốn lên tiếng đính chính điều đó, nhưng người gọi Maalt là nơi hẻo lánh đâu phải Elza, nên tôi đành im lặng.
 
-"Vậy mà sơ ấy lại được điều đến Maalt sao?" Lorraine hỏi. "Không phải tôi muốn chê bai nơi mình đang sống, nhưng so với vương đô thì Maalt quả thực chỉ là một thị trấn tỉnh lẻ. Nơi đó dường như chẳng phải chốn dừng chân cho một Thánh Giả tài năng nhường ấy."
+"Vậy mà sơ ấy lại được điều đến Maalt sao?" Lorraine hỏi. "Không phải tôi muốn chê bai nơi mình đang sống, nhưng so với vương đô thì Maalt quả thực chỉ là một thị trấn tỉnh lẻ. Nơi đó dường như chẳng phải nơi dành cho một Thánh Giả tài năng đến thế."
 
 Nghe ngay cả Lorraine cũng xem nhẹ Maalt như vậy, tôi không khỏi chạnh lòng đôi chút, nhưng cô ấy vốn đến từ Đế Quốc, lại sinh ra và lớn lên ở chốn đô thành, nên tôi cũng chẳng thể trách cô ấy được. Hóa ra ở đây chỉ có mỗi tôi là dân quê. Thoáng thấy chút tự ti, tôi quyết định tạm thời đứng ngoài cuộc trò chuyện.
 
@@ -22,7 +22,7 @@ Elza dành những lời khen ngợi cho Maalt với phong thái tự tin của 
 
 Việc thành phố bùng nổ trong tương lai là điều thấy rõ, và Maalt rồi sẽ bước chân vào hàng ngũ những đại đô thị trên thế giới. Mà thôi, chưa biết chừng có tiến xa được đến mức đó hay không, nhưng tôi vẫn hy vọng là có. Có điều, dân số tăng lên nhờ đà phát triển tuy đem lại lợi ích nhưng cũng đi kèm không ít mặt trái. Khó mà nói rằng sự phát triển chỉ toàn mang lại điều tốt. Những ngõ ngách khuất nẻo có thể ngày càng lụi bại rồi biến thành các khu ổ chuột, kéo theo tranh chấp và tội phạm nảy sinh.
 
-Ngay lúc này đã manh nha những dấu hiệu như thế. Vụ cãi cọ giữa đám học viên Học Viện với người thương nhân hôm trước, hay những xích mích giữa đám nghiên cứu viên Tòa Tháp với mạo hiểm giả mà chúng tôi thấy trước lúc rời đi, chắc chắn mới chỉ là mở đầu. Đồng nghĩa với việc Wolf sẽ ngày càng ngập đầu trong đống công việc. Dù đó chẳng phải chuyện của tôi, nhưng tôi nghĩ mình cũng có thể giúp ông ấy một tay.
+Ngay lúc này đã manh nha những dấu hiệu như thế. Vụ cãi cọ giữa đám học viên Học Viện với người thương nhân hôm trước, hay những xích mích giữa đám nghiên cứu viên Tòa Tháp với mạo hiểm giả mà chúng tôi thấy trước lúc rời đi, chắc chắn mới chỉ là mở đầu. Thế nghĩa là Wolf sẽ ngày càng ngập đầu trong công việc. Dù đó chẳng phải chuyện của tôi, nhưng tôi nghĩ mình cũng có thể giúp ông ấy một tay.
 
 ![](images/ch224-01.webp)
 
@@ -34,17 +34,17 @@ Elza gật đầu đồng tình. "Phải, đúng là như vậy."
 
 Lorraine ngập ngừng dừng lại, hẳn là cảm thấy mình có thể đang tọc mạch vào chuyện riêng của Sơ Lillian, nhưng Elza đã chủ động giải đáp câu hỏi chưa kịp thốt ra của cô ấy.
 
-"Không sao, có lẽ tôi mới là người lỡ miệng nói nhiều quá. Sau này phải xin lỗi Lillian một tiếng mới được. Dù vậy, nếu chỉ nói lấp lửng thế này e là hai vị khó lòng hiểu rõ. Nói cụ thể hơn một chút thì lý do Lillian phải đến Maalt không phải do cô ấy phạm lỗi gì, mà bắt nguồn từ mâu thuẫn nội bộ trong giáo phái của chúng tôi."
+"Không sao, có lẽ tôi mới là người lỡ miệng nói nhiều quá. Sau này tôi phải xin lỗi Lillian một tiếng mới được. Dù vậy, nếu chỉ nói lấp lửng thế này e là hai vị khó lòng hiểu rõ. Nói cụ thể hơn một chút thì lý do Lillian phải đến Maalt không phải do sơ ấy phạm lỗi gì, mà bắt nguồn từ mâu thuẫn nội bộ trong giáo phái của chúng tôi."
 
 Chuyện này nghe thì quen tai thật đấy, nhưng vốn không phải điều hay thấy ở Giáo Hội Đông Thiên. Hay nói đúng hơn, dẫu có xảy ra thì đây cũng chẳng phải chuyện để lọt ra ngoài cho công chúng biết. Thường thì chỉ có các tôn giáo khác mới hay xảy ra chuyện như vậy, thế mà...
 
-Elza nói tiếp, "Chính vì thế mà trong lòng tôi luôn thấy áy náy. Ngay cả sau khi Lillian chuyển đến Maalt, tôi vẫn cố giữ liên lạc, nhưng chính cô ấy lại bảo rằng qua lại với cô ấy sẽ gây bất lợi cho tôi, rồi dần dà cô ấy ngưng hẳn liên lạc. Bức thư này là lần đầu tiên sau ngần ấy năm tôi mới nhận được tin tức từ cô ấy. Lát nữa tôi sẽ đọc kỹ nội dung và viết thư hồi âm nếu có thể. Dù rất ngại làm phiền, nhưng tôi sẽ vô cùng cảm kích nếu hai vị có thể đích thân mang thư trả lời về cho cô ấy. Chúng ta có thể lập một ủy thác chính thức thông qua Hội..."
+Elza nói tiếp, "Chính vì thế mà trong lòng tôi luôn thấy áy náy. Ngay cả sau khi Lillian chuyển đến Maalt, tôi vẫn cố giữ liên lạc, nhưng chính sơ ấy lại bảo rằng qua lại với sơ ấy sẽ gây bất lợi cho tôi, rồi dần dà sơ ấy ngưng hẳn liên lạc. Bức thư này là lần đầu tiên sau một thời gian dài tôi mới nhận được tin tức từ sơ ấy. Lát nữa tôi sẽ đọc kỹ nội dung và viết thư hồi âm nếu có thể. Dù rất ngại làm phiền, nhưng tôi sẽ vô cùng cảm kích nếu hai vị có thể đích thân mang thư trả lời về cho sơ ấy. Chúng ta có thể lập một ủy thác chính thức thông qua Hội..."
 
 Cuộc trò chuyện đã rẽ sang một hướng bất ngờ. Vừa nhận được thư mà muốn viết hồi âm ngay cũng là lẽ thường tình, nhất là khi lá thư ấy lại đến từ một người quen đã lâu không có tin tức. Xem ra Sơ Lillian và Elza không chỉ đơn thuần là người quen hay cấp trên cấp dưới trong Giáo Hội, mà còn là bạn bè thân thiết, nên chuyện Elza muốn gửi thư trả lời cho sơ ấy lại càng dễ hiểu hơn.
 
-Điều đó làm dấy lên trong tôi một thắc mắc: Liệu Sơ Lillian và Elza có trạc tuổi nhau không? Sơ Lillian là một phụ nữ trung niên đẫy đà trông chừng ngoài bốn mươi, thế nhưng Elza lại nói như thể đã quen biết Sơ Lillian từ thuở thiếu thời. Tôi phải cố kìm nén thôi thúc muốn hỏi Elza: "Ngài bao nhiêu tuổi rồi?", bởi tôi thừa hiểu thứ duy nhất đón đợi một câu hỏi như thế chỉ có đau đớn mà thôi.
+Điều đó làm dấy lên trong tôi một thắc mắc: Liệu Sơ Lillian và Elza có trạc tuổi nhau không? Sơ Lillian là một phụ nữ trung niên đẫy đà trông chừng ngoài bốn mươi, thế nhưng Elza lại nói như thể đã quen biết Sơ Lillian từ thuở thiếu thời. Tôi phải cố kìm nén thôi thúc muốn hỏi Elza: "Ngài bao nhiêu tuổi rồi?", bởi tôi thừa hiểu kết cục duy nhất chờ đợi mình nếu hỏi câu đó chỉ là đòn đau mà thôi.
 
-Tôi đã thấy chuyện tương tự xảy ra quá nhiều lần với mấy gã bạn mạo hiểm giả lỡ mồm hỏi câu đó với các nữ mạo hiểm giả kỳ cựu trong quán rượu. Câu trả lời họ nhận được là một hai cú đấm, rồi kết cục là nuốt trọn một mồm đầy đất để nhắm cùng cốc bia. Chứng kiến cảnh ấy vài lần, tôi đã rút ra bài học xương máu là chớ dại hỏi tuổi phụ nữ. Nói vậy không có nghĩa là điều đó ngăn được hoàn toàn cái tính tò mò của tôi, ngay cả lúc này. Có lẽ tôi cần phải rèn giũa bản thân thêm nữa.
+Tôi đã thấy chuyện tương tự xảy ra quá nhiều lần với mấy đồng nghiệp mạo hiểm giả lỡ mồm hỏi câu đó với các nữ mạo hiểm giả kỳ cựu trong quán rượu. Câu trả lời họ nhận được là một hai cú đấm, rồi kết cục là nuốt trọn một mồm đầy đất để nhắm cùng cốc bia. Chứng kiến cảnh ấy vài lần, tôi đã rút ra bài học xương máu là chớ dại hỏi tuổi phụ nữ. Dù vậy, ngay cả lúc này tôi vẫn chưa dẹp hẳn được cái tật muốn hỏi đó. Có lẽ tôi cần phải rèn lại tính tự chủ nhiều hơn nữa.
 
 Dù sao thì việc mang thư hồi âm về... Đằng nào chúng tôi cũng phải quay lại Maalt nên chuyện đó chẳng có vấn đề gì. Chắc hẳn Lorraine cũng nghĩ vậy, bởi cô ấy đã liếc sang tôi để thăm dò ý tứ trước khi đáp lời Elza.
 
@@ -54,9 +54,9 @@ Dù sao thì việc mang thư hồi âm về... Đằng nào chúng tôi cũng p
 
 ◆◇◆◇◆
 
-Sau đó, Lorraine và tôi mỗi người quyên góp một khoản rồi mới rời khỏi Tu Viện Ephas, đại tu viện phân nhánh Vương Quốc Yaaran của Giáo Hội Đông Thiên. Lorraine thì thỉnh thoảng vẫn quyên góp, chứ tôi thì trước giờ hiếm khi bỏ tiền làm chuyện này; có điều dạo này tài chính cuối cùng cũng rủng rỉnh đôi chút nên hôm nay tôi mới có thể góp một lần. Tôi chỉ dằn túi được vài đồng bạc, nhưng số tiền đó đủ nuôi một gia đình cả tháng nên chẳng phải khoản quyên góp nhỏ đâu. À mà thôi được rồi, chắc chỉ đủ mua chừng hai mươi ổ bánh mì là cùng.
+Sau đó, Lorraine và tôi mỗi người quyên góp một khoản rồi mới rời khỏi Tu Viện Ephas, đại tu viện phân nhánh Vương Quốc Yaaran của Giáo Hội Đông Thiên. Lorraine thì thỉnh thoảng vẫn quyên góp, chứ tôi thì trước giờ hiếm khi bỏ tiền làm chuyện này; có điều dạo này tài chính cuối cùng cũng rủng rỉnh đôi chút nên hôm nay tôi mới có thể góp một lần. Tôi chỉ bỏ ra được vài đồng bạc, nhưng số tiền đó đủ nuôi một gia đình cả tháng nên chẳng phải khoản quyên góp nhỏ đâu. À thì, nói thật là đủ mua tầm hai mươi ổ bánh mì thôi.
 
-Tôi chẳng rõ Lorraine đã quyên bao nhiêu, nhưng khoản tiền trung bình của một tín đồ bình thường cùng lắm chỉ vài đồng xu đồng. Con số này sẽ vọt lên khi có mạo hiểm giả nhúng tay vào, nhưng tiền mạo hiểm giả kiếm được vốn chảy đi như nước, nên chuyện ấy âu cũng là điều khó tránh. Nghề mạo hiểm kiếm ra tiền thật đấy, nhưng chi phí duy trì cũng cực kỳ tốn kém. Chỉ riêng tiền vũ khí, giáp trụ cùng đồ nghề thôi cũng đủ khiến tôi nhức đầu mỗi khi cân đối chi tiêu. Ngay cả mạo hiểm giả cấp thấp kiếm cũng không tệ, nhưng với nhiều người trong số họ, một khi đã tính đến chi phí trang bị và bảo dưỡng thì chỉ thấy thâm hụt chứ chẳng có dư. Cách duy nhất để giới mạo hiểm giả ổn định tài chính là phải cày cuốc chăm chỉ và trở nên mạnh hơn.
+Tôi chẳng rõ Lorraine đã góp bao nhiêu, nhưng mức quyên góp trung bình của một tín đồ Giáo Hội cùng lắm chỉ vài đồng xu đồng. Con số này tăng vọt khi người quyên góp là mạo hiểm giả, nhưng tiền của dân mạo hiểm giả vốn vào nhanh ra cũng nhanh như nước chảy, nên chuyện ấy âu cũng khó tránh. Nghề mạo hiểm giả kiếm ra tiền thật đấy, nhưng chi phí duy trì cũng cực kỳ đắt đỏ. Chỉ riêng tiền vũ khí, giáp trụ cùng đồ nghề thôi cũng đủ khiến tôi nhức đầu mỗi khi cân đối chi tiêu. Ngay cả mạo hiểm giả cấp thấp kiếm cũng không tệ, nhưng với nhiều người trong số họ, một khi đã trừ đi chi phí trang bị và bảo dưỡng thì thường là thâm hụt chứ chẳng có dư. Cách duy nhất để mạo hiểm giả ổn định tài chính là phải chăm chỉ làm việc và trở nên mạnh hơn.
 
 Rời khỏi tu viện được một đoạn, Lorraine lên tiếng, "Vậy là những việc còn lại ở vương đô giờ chỉ còn mua quà cho mọi người và vào yết kiến Điện Hạ thôi nhỉ."
 
@@ -64,9 +64,9 @@ Rời khỏi tu viện được một đoạn, Lorraine lên tiếng, "Vậy là
 
 "Đồ ăn thức uống thì dùng ma thuật bảo quản cũng được, nhưng dù vậy tốt nhất vẫn nên để sát ngày về hẵng mua."
 
-Ý cô ấy không phải thao túng không-thời gian, mà chỉ đơn thuần là dùng ma thuật làm lạnh hoặc hút ẩm. Chẳng phải trên đời không có ma thuật thao túng không-thời gian, nhưng loại ma thuật đó khó thi triển hơn các loại phép thuật khác rất nhiều, tuyệt đối không phải thứ có thể tùy tiện đem ra dùng.
+Ý cô ấy không phải là điều khiển không gian và thời gian, mà chỉ đơn thuần là dùng ma thuật để làm mát hoặc hút ẩm. Không phải là không có ma thuật can thiệp vào không-thời gian, nhưng loại ma thuật đó khó thi triển hơn các loại phép thuật khác rất nhiều, không phải thứ có thể đem ra dùng tùy tiện.
 
-Để dễ hình dung loại ma thuật ấy khó đến mức nào, thì Dịch chuyển tức thời về cơ bản cũng là một dạng thao túng không-thời gian. Ngay cả Lorraine cũng chịu, chẳng thể dùng nó để bảo quản thức ăn. Dĩ nhiên nếu có đủ thời gian chuẩn bị, vật tư và người hỗ trợ thì chắc cô ấy cũng làm được thôi, nhưng chẳng ai lại bỏ ra ngần ấy công sức chỉ vì mấy món quà lưu niệm cỏn con.
+Để dễ hình dung những phép thuật ấy khó đến mức nào, cứ hiểu rằng Dịch chuyển tức thời về cơ bản là một dạng ma thuật điều khiển không-thời gian. Ngay cả Lorraine cũng chịu, chẳng thể dùng nó để bảo quản thức ăn. Dĩ nhiên nếu có đủ thời gian chuẩn bị, vật tư và người hỗ trợ thì chắc cô ấy cũng làm được thôi, nhưng chẳng ai lại bỏ ra ngần ấy công sức chỉ vì mấy món quà lưu niệm cỏn con.
 
 Cảnh tượng cả tá pháp sư đứng trong một ma pháp trận khổng lồ, vừa ngâm xướng vừa rót lượng Ma Lực đồ sộ vào một chiếc bánh ngọt hẳn sẽ khiến ai nhìn vào cũng phải chặc lưỡi chê bai là lãng phí ma thuật cao cấp. Thế nhưng Lorraine lại có phần tính cách rất khoái làm những trò như thế, nên tôi chẳng dám chắc là cô ấy sẽ không bao giờ thử. Mà nghĩ lại thì chính tôi cũng có chút tò mò muốn thử một phen. Đúng là có một nét cuốn hút rất riêng ở những thí nghiệm nực cười đến mức chưa từng có kẻ nào đủ điên rồ để thử qua.
 
@@ -74,13 +74,13 @@ Trong lúc tôi còn mải mơ màng về viễn cảnh lãng phí ma thuật n�
 
 "Giờ chỉ còn vụ yết kiến Điện Hạ nữa thôi. Rentt, anh có nhớ mang theo tấm huân chương đó không đấy?"
 
-Tấm huân chương mà Lorraine nhắc tới là thứ do Nauss Ancro trao cho chúng tôi; ông ấy là Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran, người đã hộ tống công chúa lúc chúng tôi giải cứu cô ấy. Trên đó khắc họa lại một phần họa tiết trên giáp trụ của Nauss—hình ảnh một con kỳ lân dùng sừng húc xuyên qua một con quái vật—vốn thuộc về gia huy của ông ấy. Đó là một món ma cụ dùng để chứng thực thân phận, được ông ấy giao cho chúng tôi để xuất trình với lính gác cổng hoàng cung khi muốn xin diện kiến công chúa. Nói cho đúng thì ông ấy chỉ cho mượn chứ chẳng phải tặng đứt, nên đời nào tôi dám làm mất. Chuyến đi này lại rất cần tới nó nên đương nhiên tôi phải đem theo bên mình rồi. Ít nhất thì tôi cũng đinh ninh là vậy.
+Tấm huân chương mà Lorraine nhắc tới là thứ do Nauss Ancro trao cho chúng tôi; ông ấy là Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran, người đã hộ tống công chúa lúc chúng tôi giải cứu cô ấy. Trên đó khắc họa lại một phần họa tiết trên giáp trụ của Nauss, hình ảnh một con kỳ lân dùng sừng đâm xuyên qua một con quái vật, vốn thuộc về gia huy của ông ấy. Đó là một món ma cụ dùng để chứng thực thân phận, được ông ấy giao cho chúng tôi để xuất trình với lính gác cổng hoàng cung khi muốn xin yết kiến công chúa. Nói cho đúng thì ông ấy chỉ cho mượn chứ chẳng phải tặng đứt, nên đời nào tôi dám làm mất. Chuyến đi này lại rất cần tới nó nên đương nhiên tôi phải đem theo bên mình rồi. Ít nhất thì tôi cũng đinh ninh là vậy.
 
 "Khụ... Tôi nhớ chắc chắn là mình để ở đây mà..." Tôi thò tay vào túi ma thuật và tập trung nghĩ về tấm huân chương.
 
 "Sao giọng anh nghe có vẻ thiếu chắc chắn thế?" Lorraine gặng hỏi, nét mặt thoáng chút lo lắng.
 
-Ý tôi là, tôi nhớ rõ mình đã nhét nó vào túi, nhưng vẫn có khả năng là tôi đã bỏ quên ở đâu đó. Dù vậy, tôi tin chắc mình đã cất nó vào đây—ít ra thì cũng khá chắc là thế. Đang lúc lòng dạ bồn chồn thì tay tôi chạm phải sức nặng đầm tay của kim loại, khiến tôi thở phào nhẹ nhõm. Tôi rút tay ra, tấm huân chương quả nhiên đang nằm ngay ngắn trong lòng bàn tay.
+Thì tôi biết là mình đã cất nó vào túi, nhưng lúc nào chẳng có khả năng là tôi đã bỏ quên ở đâu đó. Dù vậy, tôi tin chắc mình đã cất vào đây, ít ra thì cũng khá chắc là thế. Đang lúc lòng dạ bồn chồn thì tay tôi chạm phải sức nặng đầm tay của kim loại, khiến tôi thở phào nhẹ nhõm. Tôi rút tay ra, tấm huân chương quả nhiên đang nằm ngay ngắn trong lòng bàn tay.
 
 "Aha!"
 
@@ -110,7 +110,7 @@ Kế hoạch nghe chừng khá kín kẽ, nhưng rốt cuộc làm sao Lorraine 
 
 Chắc hẳn Lorraine đã nhận ra vẻ mặt khó hiểu của tôi, bởi cô ấy nói thêm, "Tôi phải cân nhắc rất nhiều về chuyến viếng thăm này, nên cứ lẩm bẩm một mình rằng muốn kiểm tra trước xem liệu có an toàn không. Edel hẳn là nghe thấy tôi lẩm bẩm, thế là nó dẫn thuộc hạ tới trước mặt tôi. Cảm giác như thể Edel đang bảo tôi cứ việc sai bảo nó vậy. Không hẳn là chúng tôi có thể trò chuyện, nhưng nó biết gật hoặc lắc đầu đáp lại lời tôi, nên khi thấy hai bên có thể hiểu ý nhau, tôi liền cho nó đi theo hỗ trợ."
 
-Con chuột này tự chủ quá mức rồi đấy nhỉ? Mà thôi, dù sao nó làm thế cũng là vì tôi, nên chắc chẳng sao.
+Thế này thì con chuột đó hơi tự biên tự diễn quá rồi đấy nhỉ? Mà thôi, dù sao nó làm thế cũng là vì tôi, nên chắc chẳng sao.
 
 "Nhưng Edel thì chẳng bao giờ chịu thiệt đâu," Lorraine tiếp tục, "nó còn không quên đòi phần thưởng nữa đấy."
 
@@ -118,8 +118,8 @@ Con chuột này tự chủ quá mức rồi đấy nhỉ? Mà thôi, dù sao n�
 
 "Phải. Anh biết món ma cụ điều chỉnh nhiệt độ ở nhà chứ? Nó cũng muốn một cái cho tầng hầm cô nhi viện. Bắt chúng nhận một công việc nguy hiểm như thế thì cái giá đó quá nhỏ bé rồi."
 
-Ra là có toan tính riêng nên nó mới im ỉm bấy lâu nay phỏng? Dù sao cũng chẳng tốn kém gì của tôi, nên tôi thấy vậy cũng ổn.
+Ra là con chuột này chịu im hơi lặng tiếng bấy lâu nay là vì có tính toán riêng cả đấy hả? Dù sao cũng chẳng tốn kém gì của tôi, nên tôi thấy vậy cũng ổn.
 
-"Tôi hiểu đầu đuôi câu chuyện rồi," tôi nói. "Nhưng kể cả chuyện đó có xong xuôi thì người tới diện kiến Điện Hạ vẫn là ba chúng ta mà."
+"Tôi hiểu đầu đuôi câu chuyện rồi," tôi nói. "Nhưng kể cả chuyện đó có xong xuôi thì người tới yết kiến Điện Hạ vẫn là ba chúng ta mà."
 
 Lorraine gật đầu. "Đúng vậy. Chúng ta cần liên lạc với Augurey. Tôi biết quán trọ của anh ta ở đâu. Hay chúng ta thử bắt đầu từ chỗ đó xem sao?"
