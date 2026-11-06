@@ -1,129 +1,129 @@
 # Chương 201: Tập 9 Chương 1 - Đánh Giá Năng Lực (3)
 
-"Tôi nghĩ thế là xong hết rồi. À không, khoan đã, vẫn còn một thứ nữa chúng ta cần kiểm tra. Có thể sẽ chẳng có thay đổi nào đâu, nhưng cũng đáng để xem qua đấy," Lorraine nói. Tôi nghiêng đầu nhìn cô đầy thắc mắc, và cô khẽ thở dài bực dọc. "Đôi cánh. Cụ thể là cánh của anh. Giờ anh đã mạnh hơn nhiều rồi, khéo lại phóng thẳng một mạch lên tận mặt trăng cũng nên. Chúng ta nên thử nghiệm chúng ở nơi rộng rãi trước đã."
+"Tôi nghĩ thế là xong hết rồi. À không, khoan đã, vẫn còn một thứ nữa chúng ta cần kiểm tra. Có thể chẳng có gì thay đổi đâu, nhưng kiểm tra một chút cũng chẳng thừa," Lorraine nói. Tôi nghiêng đầu nhìn cô ấy đầy thắc mắc, và cô ấy khẽ thở dài ngao ngán. "Đôi cánh. Cụ thể là cánh của anh. Giờ anh mạnh hơn nhiều rồi, khéo lại phóng thẳng một mạch lên tận mặt trăng cũng nên. Chúng ta nên ra chỗ nào thoáng đãng mà thử trước đã."
 
-Tôi đã quên bẵng mất đôi cánh của mình. Rất có khả năng tôi sẽ biến thành một trong những gã cơ bắp đầu đất vô tình bóp nát ngón tay người khác chỉ bằng một cái bắt tay đơn giản. Nếu tôi truyền lượng Ma Lực và Khí Lực đã gia tăng vào cánh, có khi tôi sẽ bắn vọt đi tới tận phương trời nào chẳng biết chừng.
+Tôi quên bẵng mất đôi cánh của mình. Rất có thể tôi sẽ biến thành mấy gã vai u thịt bắp lỡ tay bóp nát ngón tay người ta chỉ bằng một cái bắt tay. Nếu truyền lượng Ma Lực và Khí Lực tăng vọt vào cánh, khéo tôi lại bắn vọt đi tận phương trời nào chẳng biết chừng.
 
-"Được rồi," tôi đồng ý. "Cứ thử xem sao. À, nhắc mới nhớ. Ma Cà Rồng bình thường không có cánh đúng không, Isaac?"
+"Được rồi," tôi đồng tình. "Cứ thử xem sao. À, nhân tiện thì... Ma Cà Rồng bình thường đâu có cánh đúng không, Isaac?"
 
-"Vâng, họ không có. Tuy nhiên, chẳng hạn như trong số thú nhân cũng có điểu nhân. Khi những người như vậy trở thành quyến thuộc của Ma Cà Rồng, về mặt lý thuyết thì họ sẽ là Ma Cà Rồng có cánh."
+"Đúng là không có. Tuy nhiên, chẳng hạn như trong các tộc thú nhân có điểu nhân. Khi những người như vậy trở thành quyến thuộc của Ma Cà Rồng, về mặt lý thuyết họ cũng được coi là Ma Cà Rồng có cánh."
 
-Chà, trường hợp của họ có đôi chút khác biệt với tôi, bởi vốn dĩ họ đã sở hữu đôi cánh từ trước khi biến thành Ma Cà Rồng rồi. Dĩ nhiên, lời giải thích của Isaac lại dấy lên câu hỏi rốt cuộc đôi cánh của tôi từ đâu mà ra. Có vẻ ngay cả Isaac cũng không chắc chắn, nên chuyện tìm hiểu tường tận đành phải để sau vậy.
+Chà, họ có đôi chút khác tôi, bởi vốn dĩ họ đã có cánh từ trước khi biến thành Ma Cà Rồng rồi. Dĩ nhiên, nghe Isaac giải thích xong lại càng thắc mắc rốt cuộc đôi cánh của tôi từ đâu mà ra. Có vẻ ngay cả Isaac cũng không rõ, nên chuyện tìm hiểu tường tận đành phải để sau vậy.
 
-"Thôi thì, chắc tôi cứ thử xem sao đã. Đôi cánh— Oái."
+"Thôi được, chắc tôi cứ thử bung xem. Cánh— Oái."
 
-Khi tôi bung cánh ra, một thứ to lớn hơn nhiều so với dự liệu liền mọc ra từ sau lưng tôi. Tôi không nhớ là chúng lại bự đến mức này. Trước đây, cùng lắm chúng cũng chỉ dài vài chục centimet là cùng. Lần này, cảm giác hoàn toàn khác biệt. Tôi ngập ngừng ngoái đầu lại kiểm tra sau lưng và nhận ra...
+Khi tôi bung cánh ra, sau lưng bỗng mọc ra một thứ to hơn tưởng tượng rất nhiều. Tôi không nhớ chúng lại bự đến mức này. Trước đây cùng lắm cánh cũng chỉ dài chừng vài chục phân là cùng. Lần này, cảm giác hoàn toàn khác biệt. Tôi rụt rè ngoái đầu nhìn ra sau lưng thì thấy...
 
-"Chúng to thật đấy," tôi thốt lên.
+"To thật đấy," tôi thốt lên.
 
-Chúng lớn đến mức chỉ riêng một bên cánh thôi đã dài hơn cả chiều cao của tôi. Không chỉ vậy, trước kia chúng trông na ná như cánh dơi. Giờ đây trên cánh lại phủ một lớp vảy gì đó. Màng cánh có màu đỏ, nhưng mọi phần còn lại đều mang sắc xanh lục sẫm xỉn màu. Chúng khiến tôi liên tưởng đến—
+Đôi cánh to đến mức chỉ riêng một bên thôi đã dài hơn cả chiều cao của tôi rồi. Không chỉ vậy, trước kia trông chúng na ná cánh dơi. Giờ đây trên cánh lại phủ một lớp vảy gì đó. Màng cánh có màu đỏ, còn lại toàn một màu xanh lục xỉn. Trông cứ như—
 
-"Trông chúng giống như cánh rồng vậy," Lorraine chen vào. "Thú vị thật đấy. Sao chúng lại mọc ra từ lưng anh được nhỉ?"
+"Trông giống như cánh rồng vậy," Lorraine chen vào. "Thú vị thật đấy. Sao thứ này lại mọc ra sau lưng anh được nhỉ?"
 
-Cô nói đúng. Đôi cánh của tôi chắc chắn trông giống như cánh của loài rồng. So với một con rồng thực thụ, chúng vẫn còn nhỏ bé và chẳng mấy ấn tượng, nhưng vẻ ngoài quả thực mang đậm nét loài rồng.
+Cô ấy nói đúng. Đôi cánh của tôi trông đúng là cánh rồng. So với rồng thật thì vẫn còn bé tẹo và chẳng bõ bèn gì, nhưng nhìn kiểu gì cũng thấy nét của loài rồng.
 
-"Trông ngầu thật đấy ạ! Không biết tôi có mọc được như vậy không nhỉ," Rina đứng sau lưng tôi lẩm bẩm.
+"Trông ngầu thật đấy! Không biết tôi có mọc được như vậy không nhỉ," Rina đứng sau lưng tôi lẩm bẩm.
 
-Ồ, phải rồi. Chúng tôi vẫn chưa kiểm tra điều đó. Biết đâu cô ấy cũng có khả năng mọc ra chúng thì sao.
+Ồ, phải rồi. Nãy giờ chúng tôi vẫn chưa kiểm tra điều đó. Biết đâu cô ấy cũng mọc được cánh thì sao.
 
-"Trong số các thú nhân bậc cao, có những kẻ được gọi là Long Tộc. Tôi tin rằng họ sở hữu đôi cánh trông tương tự thế này," Isaac vừa quan sát cánh của tôi vừa nói.
+"Trong các tộc thú nhân bậc cao, có chủng tộc được gọi là Long Tộc. Tôi nhớ họ cũng có đôi cánh trông tương tự thế này," Isaac vừa ngắm nghía cánh của tôi vừa nói.
 
-Tôi biết Long Tộc có tồn tại, nhưng tôi chưa từng chạm trán chủng tộc của họ bao giờ. Bản thân Maalt và Vương Quốc Yaaran vốn nằm ở vùng rìa của nền văn minh, và dân cư nơi đây chủ yếu là con người.
+Tôi biết Long Tộc có tồn tại, nhưng chưa từng gặp người thuộc tộc ấy bao giờ. Bản thân Maalt hay cả Vương Quốc Yaaran đều nằm ở vùng rìa thế giới văn minh, và dân cư nơi đây chủ yếu là con người.
 
-So với các chủng tộc khác, con người sở hữu ngoại hình khá bình thường, không có bất kỳ đặc điểm nhận dạng thực sự nổi bật nào, nhưng họ lại có khả năng thích nghi cực kỳ cao và có thể sinh sống ở bất cứ nơi đâu mình muốn. Điều đó kết hợp với khả năng sinh sản nhiều con cháu chính là một trong những thế mạnh của họ với tư cách là một chủng tộc. Các chủng tộc khác thường rất kén chọn nơi cư trú, hoặc họ cần những môi trường đặc biệt để sinh tồn, nên họ không thể phân bố rộng khắp thế giới một cách dễ dàng như con người.
+So với các tộc khác, con người có vẻ ngoài khá bình thường, chẳng có đặc điểm gì thực sự nổi bật, nhưng bù lại khả năng thích nghi cực cao, ở đâu cũng sống được. Điểm đó kết hợp với khả năng sinh sôi nảy nở chính là một thế mạnh lớn của loài người. Các chủng tộc khác thường rất kén nơi ở, hoặc phải có môi trường đặc thù mới sinh tồn được, nên khó lòng tỏa đi khắp nơi dễ dàng như con người.
 
-Một ví dụ điển hình cho điều này chính là loài elf. Họ gặp rất nhiều khó khăn khi sống ngoài các vùng rừng rậm. Họ sẽ không mắc phải "hội chứng cai rừng" hay thứ gì tương tự rồi chết lăn ra vì nó, nhưng họ sẽ rơi vào trạng thái trầm cảm u uất khi rời xa cánh rừng quá lâu. Tình trạng đó có thể bào mòn dần ý chí sinh tồn của họ. Nghe đâu về lâu về dài, họ thậm chí còn có thể mất mạng vì chuyện đó. Vẫn có những cá thể elf chẳng hề bận tâm đến việc phải xa rời rừng rậm, nhưng họ chỉ chiếm một thiểu số ít ỏi.
+Ví dụ rõ nhất là tộc Elf. Họ gặp rất nhiều khó khăn khi sống ngoài các vùng rừng rậm. Không đến mức mắc phải "chứng thiếu rừng" gì đó rồi lăn đùng ra chết, nhưng nếu xa rừng quá lâu thì họ sẽ rơi vào trầm cảm. Tình trạng ấy có thể bào mòn dần ý chí sống của họ, nghe đâu lâu ngày khéo mất mạng thật cũng nên. Vẫn có những cá thể Elf chẳng hề bận tâm đến việc phải xa rời rừng rậm, nhưng họ chỉ chiếm số ít.
 
-Đó là lý do vì sao tôi chưa từng gặp bất kỳ ai thuộc Long Tộc, dẫu rằng nếu tôi nhớ không lầm thì vốn dĩ họ cũng cực kỳ hiếm thấy rồi.
+Chính vì thế mà tôi chưa từng gặp ai thuộc Long Tộc, vả lại nếu tôi nhớ không lầm thì vốn dĩ họ cũng cực kỳ hiếm hoi.
 
-"Cô đã từng gặp ai chưa, Lorraine?" tôi hỏi. "Ý tôi là Long Tộc ấy."
+"Cô đã gặp ai bao giờ chưa, Lorraine?" tôi hỏi. "Ý tôi là người Long Tộc ấy."
 
-Cô lắc đầu. "Chưa, tôi chưa từng. Tôi có đọc được rằng ngay trong nội bộ thú nhân thì họ cũng là những cá thể đặc biệt. Đó là lý do họ hiếm khi để lộ diện trước các chủng tộc khác. Vì Đế Quốc tuy không công khai theo chủ nghĩa con người thượng đẳng nhưng lại có xu hướng phân biệt đối xử khá nặng nề, nên thú nhân nói chung vốn dĩ cũng chẳng mấy khi lui tới đó. Còn anh thì sao, Isaac?"
+Cô ấy lắc đầu. "Chưa, tôi chưa từng. Tôi có đọc được rằng ngay trong các tộc thú nhân thì họ cũng rất đặc biệt. Đó là lý do họ hiếm khi xuất hiện trước các tộc khác. Vì Đế Quốc tuy không công khai theo chủ nghĩa tôn sùng con người nhưng lại có xu hướng phân biệt đối xử khá gay gắt, nên nhìn chung thú nhân cũng chẳng mấy khi lui tới đó. Còn anh thì sao, Isaac?"
 
-"Có, vài lần rồi, nhưng chuyện đó cũng từ khá lâu về trước. Tuy nhiên, chúng tôi không hề ngồi lại trò chuyện với họ. Nói đúng hơn đó là những cuộc chạm trán đụng độ. Họ là những đối thủ rất khó nhằn."
+"Có, vài lần rồi, nhưng chuyện đó cũng từ lâu lắm rồi. Có điều chúng tôi chẳng hề ngồi xuống trò chuyện tử tế gì với họ, mà nói đúng hơn là xô xát thì phải. Họ là những đối thủ rất khó xơi."
 
-Đối thủ khó nhằn ư? Chắc chắn đó chẳng phải cuộc tao ngộ hòa bình gì rồi. Chà, điều đó cũng hợp lý thôi. Isaac là Ma Cà Rồng cơ mà. Tôi đồ rằng hầu hết những cuộc chạm trán của anh ta đều kết thúc trong cảnh đổ máu.
+Đối thủ khó xơi ư? Thế thì chắc chắn chẳng phải một cuộc gặp gỡ hòa bình gì cho cam. Chà, nghĩ lại cũng đúng thôi. Isaac là Ma Cà Rồng cơ mà. Tôi dám cá hầu hết những lần đụng độ của anh ấy đều kết thúc trong cảnh đổ máu.
 
-"Anh có phiền giải thích lý do vì sao hai bên lại đánh nhau không?" tôi hỏi.
+"Anh kể cho tôi nghe vì sao hai bên lại đánh nhau được không?" tôi hỏi.
 
-"Chúng tôi cùng nhắm vào một thứ như họ, và chuyện đó đã leo thang thành một cuộc tranh chấp quyền sở hữu. Trong trận chiến ấy, họ đã mọc ra đôi cánh y hệt như đôi cánh sau lưng ngài Rentt. Tôi nghe nói họ là những người sử dụng Khí Lực cực kỳ điêu luyện."
+"Hai bên cùng nhắm vào một món đồ, rồi việc đó leo thang thành tranh chấp xem ai là chủ. Trong trận chiến ấy, họ đã mọc ra đôi cánh y hệt như đôi cánh sau lưng ngài Rentt. Tôi nghe nói họ là những kẻ vận dụng Khí Lực cực kỳ điêu luyện."
 
-Những người sử dụng Khí Lực thường dựa vào cận chiến thể thuật nhiều hơn là ma pháp. Phần lớn thú nhân đều như vậy, dẫu rằng cũng có một vài chủng tộc trong số họ giỏi ma pháp nên không phải lúc nào cũng rập khuôn theo quy luật đó. Có điều chuyện đó lúc này cũng chẳng quan trọng đến thế.
+Người dùng Khí Lực thường thiên về cận chiến hơn là ma pháp. Phần lớn thú nhân đều như vậy, dẫu cũng có vài tộc giỏi ma pháp nên không phải lúc nào cũng thế. Cơ mà chuyện đó lúc này cũng chẳng quan trọng lắm.
 
-"Tôi đoán cánh của mình trông giống của Long Tộc thật. Giá mà được gặp một người trong số họ để hỏi thì hay biết mấy."
+"Xem ra cánh của tôi giống cánh của Long Tộc thật. Giá mà được gặp một người trong số họ để hỏi thì hay biết mấy."
 
-Nếu tôi có thể trực tiếp hỏi họ, có khi họ sẽ bảo "Không đời nào, chẳng phải của tộc chúng tôi đâu," hoặc biết đâu lại là "Ồ, xin chào người anh em Long Tộc!"
+Nếu hỏi trực tiếp được, có khi họ sẽ bảo "Đâu có, chẳng phải cánh tộc tôi đâu", hoặc biết đâu lại là "Ồ, xin chào người anh em Long Tộc!"
 
-Tôi không hề có ý nghiêm túc khi nói vậy, nhưng Isaac lại chau mày lắc đầu. "Không, ngài nên kiềm chế ý định đó lại. Họ là một chủng tộc đầy lòng kiêu hãnh. Nếu cánh của ngài không giống hệt cánh của họ, họ có thể diễn giải rằng ngài đang bắt chước để nhạo báng họ và lao vào tấn công ngài. Thêm vào đó, việc ngài là một bán Ma Cà Rồng cũng có thể trở thành vấn đề. Vì họ cực kỳ tự hào về dòng dõi xuất thân của mình, nên khó có khả năng họ sẽ tha thứ cho một Ma Cà Rồng dám sở hữu một trong những đặc điểm đáng tự hào của họ."
+Tôi chỉ nói đùa vậy thôi, nhưng Isaac lại chau mày lắc đầu. "Không, ngài chớ nên làm vậy. Họ là một tộc rất giàu lòng kiêu hãnh. Nếu cánh của ngài không giống hệt của họ, khéo họ lại nghĩ ngài đang nhại theo để chế giễu rồi lao vào tấn công cũng nên. Đã vậy, chuyện ngài là bán Ma Cà Rồng cũng có thể gây phiền toái. Vốn dĩ cực kỳ tự hào về dòng dõi của mình, họ khó lòng tha thứ cho việc một Ma Cà Rồng lại mang đặc điểm đáng hãnh diện của tộc họ."
 
-Nghe có vẻ hơi đáng sợ đấy. Thêm nữa, sẽ rất rắc rối nếu có quá nhiều người nhìn thấy đôi cánh của tôi. Tôi không thể tùy tiện sử dụng chúng theo ý thích được. Dù sao thì trước đây tôi cũng chẳng mấy khi dùng tới chúng vì cùng một lý do đó, nên tôi cũng không phiền lòng khi phải kiềm chế bản thân. Dẫu vậy, chúng vẫn là một lựa chọn tuyệt vời trong những tình huống khẩn cấp. Tôi chỉ cần cẩn thận hơn là được.
+Nghe cũng hơi ghê thật. Với lại, nếu quá nhiều người trông thấy cánh của tôi thì cũng rắc rối to. Tôi đâu thể thích là vác ra dùng được. Dù sao trước giờ vì lý do tương tự mà tôi cũng hiếm khi dùng, nên bảo hạn chế thì tôi cũng chẳng nề hà gì. Dẫu vậy, đây vẫn là một giải pháp hữu ích trong tình huống khẩn cấp. Tôi chỉ cần cẩn thận hơn là được.
 
-"Vậy thì tôi đoán mình cần phải tìm đến Thần Giám Định rồi," tôi kết luận.
+"Vậy chắc tôi phải đến chỗ Thần Giám Định một chuyến rồi," tôi kết luận.
 
-Đó là lựa chọn duy nhất của tôi để tìm ra chủng tộc của mình cũng như giám định chiếc mặt nạ này. Mặc dù vậy, tôi vẫn hoài nghi liệu Thần Giám Định có trực tiếp thực hiện việc giám định hay không.
+Đó là cách duy nhất để tôi biết mình thuộc chủng tộc nào, cũng như giám định chiếc mặt nạ này. Có điều, tôi vẫn bán tín bán nghi không biết Thần Giám Định có đích thân đứng ra giám định hay không.
 
-"Đó hẳn là hướng đi an toàn nhất," Isaac xác nhận. "Tạm thời, nếu chúng ta muốn đặt một cái tên tạm cho chủng tộc của ngài để tiện gọi, tôi cho rằng ngài là một Ma Cà Rồng Long Tộc. Dù rằng chẳng có chủng tộc nào như thế tồn tại cả."
+"Đó là phương án an toàn nhất," Isaac đồng tình. "Tạm thời, nếu cần một cái tên tạm cho tiện gọi chủng tộc của ngài, tôi nghĩ ngài là một Ma Cà Rồng - Long Tộc. Dù trên đời làm gì có tộc nào như thế tồn tại."
 
-Isaac rõ ràng đã chọn cái tên dễ nhất có thể cho tình hình hiện tại. Có lẽ anh ta cũng đã suy nghĩ đôi chút, nhưng nó chỉ hơi quá sát nghĩa đen một tẹo. Tôi cũng chẳng biết mình nên cảm thấy thế nào về nó nữa.
+Rõ ràng Isaac chỉ chọn bừa cái tên dễ gọi nhất cho xong chuyện. Có thể anh ấy cũng suy nghĩ đôi chút, nhưng cái tên này nghe thô thiển quá. Tôi cũng chẳng biết mình nên cảm thấy thế nào về nó nữa.
 
 ◆◇◆◇◆
 
-Rốt cuộc, dù chúng tôi đã kiểm tra toàn bộ những biến đổi thể chất của tôi, tôi vẫn chẳng thể tìm ra bất kỳ điều gì cụ thể về việc bản thân đã trở thành thứ gì. Tuy nhiên, điều quan trọng nhất vẫn là nắm rõ được khả năng của mình có thể làm được những gì. Hoặc ít nhất, đó là những gì tôi tự nhủ với bản thân.
+Rốt cuộc, dù đã kiểm tra toàn bộ những biến đổi của cơ thể, tôi vẫn chẳng biết cụ thể mình đã trở thành thứ gì. Nhưng điều quan trọng nhất vẫn là nắm rõ bản thân có thể làm được những gì. Ít nhất thì tôi tự nhủ như thế.
 
-Điều tiếp theo chúng tôi cần thảo luận là về thành phố.
+Chuyện tiếp theo chúng tôi cần bàn là về thành phố.
 
-"Cảm giác giờ mới nhắc tới chuyện này thì hơi muộn màng một chút, nhưng sự bành trướng của mê cung đã dừng lại rồi đúng không?" tôi hỏi Isaac.
+"Giờ mới nhắc thì hơi muộn, nhưng mê cung đã ngừng mở rộng rồi đúng không?" tôi hỏi Isaac.
 
-"Vâng. Tôi tin rằng đó là vì tiểu thư Laura đang kiểm soát nó. Kể từ sau biến cố đó, không còn bất kỳ dấu hiệu bành trướng nào nữa. Tuy nhiên..."
+"Vâng. Tôi nghĩ là nhờ Tiểu thư Laura đang khống chế nó. Kể từ sau biến cố đó, không còn dấu hiệu mở rộng nào nữa. Có điều..."
 
-"Tuy nhiên ư? Có vấn đề gì sao?"
+"Có điều gì? Bộ có vấn đề gì sao?"
 
-"Vốn dĩ cũng không hẳn là một vấn đề nghiêm trọng cho lắm. Tốt nhất là ngài nên tự mình tận mắt chứng kiến thì hơn. Ít nhất thì đó cũng không phải chuyện gì quá mức hệ trọng đâu."
+"Thực ra cũng không hẳn là vấn đề gì to tát. Tốt nhất ngài cứ tự mình đến xem thì hơn. Ít nhất cũng chẳng phải chuyện gì quá nghiêm trọng đâu."
 
-"Chà, nếu anh đã nói vậy thì thôi."
+"Anh đã nói vậy thì tôi nghe vậy."
 
-Lorraine nhận ra nỗi hoài nghi của tôi và khẽ gật đầu ra hiệu rằng hiện tại không có vấn đề gì cấp bách cả. Tôi cho rằng như thế nghĩa là mọi chuyện vẫn ổn thỏa.
+Thấy vẻ ngờ vực của tôi, Lorraine khẽ gật đầu ra hiệu rằng trước mắt không có vấn đề gì. Tôi cho rằng như thế nghĩa là mọi chuyện vẫn ổn thỏa.
 
-"Thế còn việc báo cáo cho Hội thì sao?" tôi nói thêm.
+"Thế còn chuyện báo cáo với Hội thì sao?" tôi hỏi thêm.
 
-"Chúng tôi vẫn chưa đưa ra báo cáo chính thức nào cả," Isaac đáp. "Chúng tôi nghĩ tốt nhất là nên thống nhất câu chuyện của mình trước đã. Đặc biệt là, chúng tôi muốn giữ kín chuyện tiểu thư Laura đã trở thành Chủ Nhân Mê Cung."
+"Chúng tôi vẫn chưa gửi báo cáo chính thức nào cả," Isaac đáp. "Chúng tôi nghĩ tốt nhất nên thống nhất lời khai trước đã. Đặc biệt là chuyện Tiểu thư Laura đã trở thành Chủ Nhân Mê Cung, chúng tôi muốn giữ kín."
 
-Chuyện đó quả thực rất hệ trọng. Nếu chúng tôi đả động bất cứ điều gì về việc ấy, nó có thể vô tình để lộ việc Laura là Ma Cà Rồng. Laura và Isaac vốn chẳng xa lạ gì với khái niệm Lõi Mê Cung, nhưng hiểu biết đó lại không hề phổ biến trong giới con người. Ngay cả tôi dù đã trải qua bao năm làm mạo hiểm giả cũng chẳng hề hay biết về chúng, nên tôi ngờ rằng phía Hội cũng hoàn toàn mù tịt về điều này. Dẫu vậy, nếu họ có biết ít nhiều đôi chút, nếu họ nắm được các đặc tính của một chiếc lõi, họ hoàn toàn có thể đoán ra Laura là một nhân vật phi thường và dị biệt tới mức nào.
+Chuyện đó quả thực rất hệ trọng. Chỉ cần hé môi nửa lời về chuyện đó, rất có thể sẽ vô tình để lộ Laura là Ma Cà Rồng. Laura và Isaac vốn chẳng xa lạ gì với khái niệm Lõi Mê Cung, nhưng hiểu biết đó lại không hề phổ biến trong giới con người. Bao năm làm mạo hiểm giả tôi còn chưa từng nghe nói, nên đoán chừng phía Hội cũng mù tịt thôi. Dẫu vậy, nếu họ có biết ít nhiều đôi chút, nếu họ nắm được các đặc tính của Lõi Mê Cung, người ta hoàn toàn có thể đoán ra Laura là một nhân vật dị thường tới mức nào.
 
-Thêm vào đó, Nive vẫn còn đang ở Maalt. Từ những lần tiếp xúc trước đây, quá rõ ràng là cô ta sẽ điên cuồng săn đuổi một Ma Cà Rồng đến tận cùng trời cuối đất nếu phát hiện ra có một kẻ ở quanh đây.
+Thêm vào đó, Nive vẫn còn đang ở Maalt. Qua những lần tiếp xúc trước đây, quá rõ ràng là cô ấy sẽ ráo riết săn đuổi Ma Cà Rồng đến chân trời góc bể nếu phát hiện ra có một kẻ ở quanh đây.
 
-"Tôi đồng ý. Nếu mọi người phát hiện ra Laura là Ma Cà Rồng, họ cũng sẽ nghi ngờ chúng ta có khả năng là Ma Cà Rồng nốt. Nhưng chúng ta nên nói gì trong bản báo cáo đây?" Tôi khẽ thì thào câu cuối cùng kèm một tiếng thở dài.
+"Tôi đồng tình. Nếu người ta biết Laura là Ma Cà Rồng, họ cũng sẽ nghi ngờ chúng ta có khả năng là Ma Cà Rồng nốt. Nhưng chúng ta nên nói gì trong bản báo cáo đây?" Tôi thở dài thì thào câu cuối cùng.
 
-"Có khi anh đang suy nghĩ quá nhiều rồi đấy," Lorraine lên tiếng góp ý. "Dù sao thì anh cũng đã nói với Wolf rằng mình đi truy lùng Shumini rồi. Cách dễ dàng nhất là báo cáo rằng mọi chuyện đã lắng xuống khi anh đánh bại hắn ta."
+"Khéo anh lo xa quá rồi đấy," Lorraine góp ý. "Dù sao anh cũng đã bảo với Wolf rằng mình đi lùng Shumini rồi còn gì. Cách dễ nhất là báo cáo rằng mọi chuyện đã êm xuôi sau khi anh đánh bại cậu ta."
 
-Đó là một lời giải thích cực kỳ đơn giản, nhưng lại đúng là sự thật. Wolf có lẽ sẽ không gặng hỏi quá nhiều nếu tôi bảo với ông ấy rằng chúng tôi đã đánh bại Shumini và giấu nhẹm đi toàn bộ những phần liên quan đến Lõi Mê Cung cùng Chủ Nhân Mê Cung. Laura đã vãn hồi nền hòa bình cho thành phố bằng việc hấp thụ chiếc lõi, nhưng Wolf sẽ đinh ninh rằng đó là nhờ Shumini đã chết. Mọi chuyện đã trở lại bình thường, nên cũng chẳng có nhiều kẽ hở cho sự nghi ngờ. Dù vậy, mê cung vẫn còn nằm đó bên dưới lòng thành phố, và tôi tin chắc Hội sẽ phái các tổ đội của riêng họ xuống điều tra. Tuy nhiên, Laura đang nắm giữ chiếc lõi và cô bé chính là chủ nhân của nó. Việc kiểm tra mê cung sẽ chẳng hé lộ thêm được bất cứ điều gì khác.
+Cách giải thích đó cực kỳ đơn giản mà lại đúng là sự thật. Nếu tôi bảo với Wolf rằng cả nhóm đã hạ được Shumini và giấu nhẹm chuyện Lõi Mê Cung cùng Chủ Nhân Mê Cung, chắc ông ấy cũng chẳng gặng hỏi nhiều làm gì. Laura đã đem lại bình yên cho thành phố nhờ hấp thụ chiếc lõi, nhưng Wolf sẽ chỉ đinh ninh rằng đó là nhờ Shumini đã chết. Mọi chuyện đã trở lại bình thường nên cũng chẳng có mấy kẽ hở cho sự nghi ngờ. Dẫu vậy, mê cung vẫn nằm dưới lòng thành phố, và tôi tin chắc phía Hội sẽ cử các tổ đội của họ xuống điều tra. Nhưng Laura đã giữ chiếc lõi và trở thành chủ nhân của nó rồi. Có kiểm tra mê cung thì họ cũng chẳng mò ra được gì khác.
 
-"Được rồi, cứ theo hướng đó đi," tôi gật đầu nói. "Isaac, anh thấy phương án đó có ổn thỏa không?"
+"Được rồi, cứ theo hướng đó đi," tôi gật đầu. "Isaac, anh thấy phương án đó có ổn thỏa không?"
 
-"Nghe rất ổn đấy ạ. Còn về phần cô Rina, có lẽ nên ghi nhận rằng ngài tìm thấy cô ấy đang bị trói trong một căn phòng phía sau. Ngài có thể báo cáo là mình tình cờ phát hiện ra cô ấy, nhưng cô Rina ở đó là vì bị Shumini bắt giữ, đúng không?"
+"Phương án đó rất ổn. Còn về cô Rina, có lẽ cứ bảo ngài tìm thấy cô ấy đang bị trói trong gian phòng phía sau. Ngài có thể báo cáo là mình tình cờ phát hiện ra cô ấy, bởi vốn dĩ cô Rina ở đó là do bị Shumini bắt giữ, đúng không?"
 
-Isaac nhìn sang Rina, và cô đáp: "Đúng vậy ạ. Tôi đột nhiên mất liên lạc với hai thành viên trong tổ đội của mình nên đã đi tìm họ. Đó là lúc hắn ta bắt giữ tôi. Sau đó hắn hút máu của tôi. Đến khi tôi kịp nhận thức được chuyện gì vừa xảy ra thì anh Rentt đã tìm thấy tôi rồi."
+Isaac nhìn sang Rina, và cô ấy đáp: "Đúng vậy. Tôi đột ngột mất liên lạc với hai thành viên trong tổ đội nên đã đi tìm họ. Đúng lúc đó thì bị hắn bắt giữ. Rồi hắn hút máu tôi. Đến khi tôi kịp nhận ra chuyện gì vừa xảy ra thì anh Rentt đã tìm thấy tôi rồi."
 
-Hóa ra Shumini đã bắt giữ Raiz và Laura Satii trước. Tôi gặng hỏi Rina chi tiết, và cô giải thích thêm rằng họ vốn lấy một quán trọ làm căn cứ hoạt động. Cả hai người kia đều không trở về vào đêm đó, nên cô đã ra ngoài tìm họ, để rồi bị Shumini bắt giữ và biến thành Ma Cà Rồng.
+Hóa ra Shumini đã bắt giữ Raiz và Laura Satii trước. Tôi gặng hỏi thêm chi tiết thì Rina giải thích rằng cả nhóm vốn thuê phòng ở một quán trọ làm chỗ nghỉ chân. Đêm đó cả hai người kia đều không trở về nên cô ấy mới ra ngoài tìm, để rồi bị Shumini bắt và biến thành Ma Cà Rồng.
 
-"Nếu vậy thì," tôi nói, "quán trọ các cô ở hẳn đang thắc mắc vì sao tổ đội của cô mãi không thấy quay về. Chúng ta không thể cứ thế bỏ qua chuyện cô ấy bị bắt cóc được. Sẽ dễ dàng hơn nếu bảo rằng cô ấy từng bị bắt giữ nhưng giờ vẫn bình an vô sự."
+"Nếu vậy thì," tôi nói, "quán trọ chỗ mấy người ở hẳn đang thắc mắc vì sao tổ đội mãi không thấy quay về. Chúng ta không thể cứ thế bỏ qua chuyện cô bị bắt cóc được. Sẽ dễ hơn nếu bảo rằng cô từng bị bắt giữ nhưng giờ vẫn bình an vô sự."
 
-Chúng tôi hoàn toàn có thể ghi nhận rằng tôi tình cờ chạm mặt cô ấy, nhưng vì đã có những người biết chuyện cô ấy mất tích suốt một thời gian, điều đó có thể biến thành một rắc rối. Họ có thể quyết định tự mình đến kiểm tra khu vực đó của thành phố. Dựng lên một lời nói dối càng sát với sự thật càng tốt sẽ hiệu quả hơn nhiều. Đúng là cô ấy từng bị bắt giữ, và điều đó giải thích hoàn hảo cho sự biến mất của cô. Chúng tôi chỉ cần giấu nhẹm đi việc Rina đã biến thành Ma Cà Rồng và Laura đã trở thành Chủ Nhân Mê Cung là xong.
+Bảo rằng tôi tình cờ chạm mặt cô ấy cũng được thôi, nhưng vì đã có người biết chuyện cô ấy mất tích suốt một thời gian nên khéo lại sinh rắc rối. Họ có thể quyết định tự mình đến kiểm tra khu vực đó của thành phố. Dựng lên một lời nói dối càng sát với sự thật càng tốt sẽ hiệu quả hơn nhiều. Đúng là cô ấy từng bị bắt giữ, và điều đó giải thích hoàn hảo cho việc cô ấy biến mất. Chúng tôi chỉ cần giấu nhẹm chuyện Rina đã biến thành Ma Cà Rồng và Laura đã trở thành Chủ Nhân Mê Cung là xong.
 
-"Tôi hiểu rồi. Tôi sẽ trả lời theo cách đó khi có ai gặng hỏi," Rina nói.
+"Tôi hiểu rồi. Có ai gặng hỏi thì tôi sẽ trả lời như vậy," Rina nói.
 
-"Mặc dù tôi cũng chẳng rõ liệu ngay từ đầu có ai thèm hỏi han gì hay không nữa."
+"Có điều, chẳng biết ngay từ đầu liệu có ai buồn hỏi han gì không nữa."
 
-Điều đó có lẽ đúng thật. Nghe thì có vẻ nghiệt ngã, nhưng chẳng mấy ai bận tâm nếu một mạo hiểm giả bị mất tích cả. Cùng lắm thì họ cũng chỉ cho rằng người mạo hiểm giả đó đã bỏ mạng ở xó xỉnh nào đó và xem nó như một thảm kịch xảy ra như cơm bữa hằng ngày. Còn về phía Hội, trừ phi đó là một nhân vật cực kỳ quan trọng hoặc là người mà họ cần vì một lý do đặc biệt nào đó, họ sẽ chẳng buồn nhọc công tìm kiếm các mạo hiểm giả mất tích đâu. Rina không phải đối tượng mà họ sẽ bỏ công tìm kiếm.
+Có lẽ đúng thế thật. Nghe thì có vẻ nghiệt ngã, nhưng chẳng mấy ai bận tâm khi một mạo hiểm giả mất tích. Cùng lắm người ta cũng chỉ cho rằng mạo hiểm giả đó đã bỏ mạng ở xó xỉnh nào đấy rồi xem như chuyện thường ngày ở huyện. Còn về phía Hội, trừ phi đó là nhân vật cực kỳ quan trọng hoặc người họ cần vì lý do đặc biệt nào đó, họ sẽ chẳng buồn nhọc công tìm kiếm các mạo hiểm giả mất tích đâu. Rina hiển nhiên không phải đối tượng mà họ sẽ cất công tìm kiếm.
 
-"Nhưng hoàn cảnh lần này có đôi chút khác biệt," tôi chỉ ra.
+"Nhưng hoàn cảnh lần này hơi khác một chút," tôi lưu ý.
 
-"Người dân bị biến thành ma vật, và một vài mạo hiểm giả thì bị biến thành Thi Quỷ. Nếu một mạo hiểm giả từng mất tích một thời gian bỗng dưng xuất hiện trở lại, ít nhất họ cũng sẽ đặt ra vài câu hỏi gặng xét."
+"Bao nhiêu người bị biến thành quái vật, lại có cả mạo hiểm giả biến thành Thi Quỷ. Nếu một mạo hiểm giả mất tích bấy lâu bỗng dưng xuất hiện trở lại, ít nhất họ cũng sẽ đặt ra vài câu hỏi gặng xét."
 
-Họ sẽ kiểm tra cẩn thận để đảm bảo rằng mạo hiểm giả đó không phải ma vật hay Thi Quỷ. Sẽ thật kinh hãi nếu có những Ma Cà Rồng và Thi Quỷ lang thang khắp nơi rồi hành nghề mạo hiểm giả. Phải thừa nhận rằng chính tôi cũng đang làm điều đó, và kể từ giờ trở đi Rina cũng sẽ làm y như vậy.
+Họ sẽ kiểm tra cẩn thận để đảm bảo rằng mạo hiểm giả đó không phải quái vật hay Thi Quỷ. Nghĩ mà xem, Ma Cà Rồng với Thi Quỷ cứ nhởn nhơ đi lại rồi hành nghề mạo hiểm giả thì ai mà chẳng khiếp. Phải thừa nhận rằng chính tôi cũng đang làm điều đó, và từ giờ trở đi Rina cũng sẽ làm y như vậy.
 
-"Nếu anh nói theo cách đó thì..." Rina ngập ngừng một thoáng rồi nói: "Vâng, anh nói đúng. Tôi nhất định sẽ cẩn trọng để không làm lộ bất cứ điều gì đâu ạ."
+"Nghe anh nói vậy thì..." Rina ngập ngừng một thoáng rồi nói: "Vâng, anh nói đúng. Tôi nhất định sẽ cẩn trọng để không làm lộ bất cứ điều gì."
 
-"Vậy thì tôi đoán chúng ta nên tới Hội báo cáo thôi. Câu chuyện của chúng ta sẽ là những gì vừa bàn bạc, còn về chi tiết cụ thể... đến nơi rồi tính tiếp."
+"Vậy thì tôi đoán chúng ta nên tới Hội báo cáo thôi. Lời khai của chúng ta cứ theo những gì vừa bàn bạc, còn về chi tiết cụ thể... đến nơi rồi tính tiếp."
 
-Chắc sẽ ổn thỏa cả thôi. Ý tôi là, chẳng có lý do thực sự nào để người ta phải nghi ngờ chúng tôi cả. Dẫu vậy, Wolf lại có tài đánh hơi nhạy bén phi thường. Tôi cố gắng tự trấn an bản thân rằng mọi chuyện rồi sẽ ổn.
+Chắc sẽ ổn thỏa cả thôi. Ý tôi là, người ta cũng chẳng có lý do thực sự nào để nghi ngờ chúng tôi cả. Dẫu vậy, Wolf lại có tài đánh hơi nhạy bén phi thường. Tôi cố gắng tự trấn an bản thân rằng mọi chuyện rồi sẽ ổn.
