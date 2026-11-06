@@ -28,11 +28,11 @@ Thế nhưng lạ lùng thay, người thầy bói lại lắc đầu bảo: "Kh
 
 "Rốt cuộc anh là ai thế? Ý tôi là, tôi biết thừa chắc anh chỉ bịa chuyện thôi, nhưng..."
 
-"Cậu muốn tin thế nào thì tùy, tôi không bận lòng đâu. Tôi chỉ đơn giản là muốn cảnh báo cậu thôi. À, còn vài điều nữa. Nếu gặp rắc rối, cậu có thể tìm thấy thứ mình cần ở quảng trường đài phun nước. Đồ vật thất lạc nằm ở góc giá sách trong một căn phòng. Với lại, trời sẽ đổ mưa đấy. Giờ thì đã đến lúc tôi phải dọn hàng rồi."
+"Cậu muốn tin thế nào thì tùy, tôi không bận lòng đâu. Tôi chỉ đơn giản là muốn cảnh báo cậu thôi. À, còn vài điều nữa. Nếu gặp rắc rối, cậu có thể tìm thấy thứ mình cần ở quảng trường đài phun nước. Đồ vật thất lạc nằm ở góc giá sách trong một căn phòng. Với lại, trời sẽ đổ mưa đấy. Giờ thì đến lúc tôi phải dọn hàng rồi."
 
 "Hả? Khoan, đợi đã nào— Cái gì cơ?"
 
-Sau tràng cảnh báo dồn dập, người thầy bói tan biến vào thinh không tựa như làn sương mờ trước khi tôi kịp dứt lời. Chẳng còn sót lại một chút dấu vết nào.
+Sau tràng cảnh báo dồn dập, người thầy bói tan biến vào thinh không như làn sương mờ trước khi tôi kịp dứt lời. Chẳng còn sót lại một chút dấu vết nào.
 
 Còn lại một mình, tôi chỉ biết lẩm bẩm tự nhủ.
 
@@ -44,7 +44,7 @@ Sáng hôm sau, lúc tôi bước vào phòng khách, Lorraine đang đi đi l�
 
 "Có chuyện gì thế?" tôi hỏi.
 
-"À, chỉ là tôi tự dưng muốn đọc lại cuốn sách từ hai năm trước," Lorraine giải thích. "Khổ nỗi tôi chẳng nhớ mình đã để nó ở đâu."
+"À, chỉ là tự dưng tôi muốn đọc lại một cuốn sách từng đọc hai năm trước," Lorraine giải thích. "Khổ nỗi tôi chẳng nhớ mình đã để nó ở đâu."
 
 Nhớ lại lời người thầy bói hôm qua, tôi bảo: "Tôi nghĩ nó nằm ở góc giá sách trong phòng cô đấy."
 
@@ -84,44 +84,44 @@ Tôi ngẫm một lúc. "Cô nói thế thì chuyện một thầy bói đoán c
 
 "Lúc đi quanh thị trấn, tôi bị tạt nước trúng người những năm lần."
 
-Lorraine cố giữ giọng thật bình thản: "Thế à?"
+Lorraine cố giữ giọng thật bình thản: "Ồ?"
 
-"Chưa kể chậu hoa từ trên rơi xuống, rồi một tên trộm đang tháo chạy đâm sầm vào người tôi, cùng đủ thứ chuyện linh tinh khác nữa..."
+"Chưa kể một chậu hoa từ trên rơi xuống, rồi một tên trộm đang tháo chạy đâm sầm vào người tôi, cùng đủ thứ chuyện linh tinh khác nữa..."
 
-Lorraine phì cười: "Chắc chắn rồi, đích thị là tại cái điềm gở đó đấy!"
+Lorraine bật cười: "Chắc chắn rồi, đích thị là tại cái điềm gở đó đấy!"
 
 "Còn về vụ đài phun nước," tôi nói tiếp, "cô biết chập tối nay trời mưa to thế nào rồi đấy?"
 
 "Ừm, mưa như trút nước luôn mà."
 
-"Thì nước dồn hết vào mấy con kênh. Thấy một đứa trẻ chơi gần đó trượt chân ngã xuống, tôi phải nhảy xuống cứu trước khi nước kịp dâng thành dòng lũ cuốn."
+"Thì nước dồn hết vào mấy con kênh. Thấy một đứa trẻ chơi gần đó trượt chân ngã xuống, tôi phải nhảy xuống cứu trước khi nước kịp thành lũ quét."
 
 "Đúng là tính anh. Thằng bé có sao không?"
 
-"May mà không sao. Thằng bé ngất đi vì sặc quá nhiều nước, nhưng sau khi tôi vớt lên thì nó đã tỉnh lại và thở được."
+"May mà không sao. Thằng bé ngất đi vì sặc quá nhiều nước, nhưng sau khi tôi vớt lên thì nó tỉnh lại và thở được rồi."
 
 "Thế thì đỡ rồi. Vậy còn chuyện đài phun nước thì sao?"
 
-"Thì thằng bé bảo nó bị lạc cha mẹ. Tôi tính thử đưa nó ra quảng trường đài phun nước xem sao, ai ngờ họ đang ở đó thật."
+"Thì thằng bé bảo nó bị lạc cha mẹ. Tôi nghĩ bụng thử đưa nó ra quảng trường đài phun nước xem sao, ai ngờ họ đang ở đó thật."
 
 "Chà. Thế tính ra người thầy bói của anh đã đoán đúng hết mọi chuyện rồi còn gì."
 
-"Cô nghĩ người đó là ai được nhỉ?"
+"Cô nghĩ người đó là ai?"
 
-Tôi thấy trong chuyện này có quá nhiều điểm đáng ngờ. Cảm giác như người thầy bói đó ẩn giấu một mưu tính sâu xa nào đấy. Lúc này Maalt đang náo nhiệt hơn bao giờ hết, và chẳng thiếu những kẻ đổ về đây mang theo mưu đồ bất chính.
+Tôi thấy trong chuyện này có quá nhiều điểm đáng ngờ. Cảm giác như người thầy bói đó có mưu tính sâu xa nào đấy. Lúc này Maalt đang náo nhiệt hơn bao giờ hết, và chẳng thiếu những kẻ đổ về đây mang theo mưu đồ bất chính.
 
-Thế nhưng Lorraine đáp lại với vẻ khá lạc quan. "Anh đang nghĩ nếu người đó thực sự lợi hại đến mức ấy thì cớ gì phải cất công cảnh báo anh, đúng chứ?" cô ấy bảo. "Dù sao họ cũng thừa sức tự đạt được những gì mình muốn kia mà. Tôi thì chẳng buồn mất ngủ vì chuyện đó đâu."
+Thế nhưng câu trả lời của Lorraine nghe lại khá lạc quan. "Anh đang nghĩ nếu người đó thực sự lợi hại đến mức ấy thì cớ gì phải cất công cảnh báo anh, đúng chứ?" cô ấy bảo. "Dù sao họ cũng thừa sức tự đạt được những gì mình muốn kia mà. Tôi thì chẳng buồn mất ngủ vì chuyện đó đâu."
 
 "Cô không thấy lo à?"
 
-"Maalt là một thị trấn kỳ lạ mà. Tôi đâu thể cứ bận tâm mãi vì dăm ba cái bí ẩn cỏn con. Đùng một cái, người bạn thân của tôi trở về nhà trong hình hài một Undead. Một thầy bói thì đã là gì so với chuyện đó chứ?"
+"Maalt là một thị trấn kỳ lạ mà. Tôi đâu thể cứ bận tâm mãi vì từng chuyện bí ẩn cỏn con. Đùng một cái, người bạn thân của tôi trở về nhà trong hình hài một Undead. Một thầy bói thì đã là gì so với chuyện đó chứ?"
 
-Nghe cô ấy nói thế thì cũng có lý thật.
+Nghe cô ấy nói thế thì cũng thuyết phục thật.
 
 "Chắc cô nói đúng," tôi bảo.
 
 "Quan trọng hơn là sớm muộn gì tôi cũng muốn đích thân gặp người thầy bói đó."
 
-"Tôi có đi ngang qua chỗ tôi gặp người đó hôm qua, nhưng chẳng thấy đâu nữa. Có khi người ta đã rời khỏi thị trấn rồi cũng nên."
+"Tôi có đi ngang qua chỗ gặp người đó hôm qua, nhưng chẳng thấy đâu nữa. Có khi người ta đã rời khỏi thị trấn rồi cũng nên."
 
-"Tiếc thật đấy. À mà thôi, Maalt chẳng bao giờ cạn những điều kỳ thú, nên tôi nghĩ cũng không sao." Lorraine mỉm cười nhẹ. "Chắc tôi sẽ chẳng bao giờ thấy chán nơi này đâu."
+"Tiếc thật đấy. À mà thôi, Maalt chẳng bao giờ thiếu những điều kỳ thú, nên tôi nghĩ cũng không sao." Lorraine mỉm cười nhẹ. "Chắc tôi sẽ chẳng bao giờ thấy chán nơi này đâu."
