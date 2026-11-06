@@ -4,7 +4,7 @@
 
 Augurey đang đứng trước cỗ xe, trò chuyện với Ferrici. Phía sau cô bé là một nhóm dân làng khác, trong đó có cả người chủ quán trọ lẫn những người từng bị Siren thao túng. Ánh mắt họ nhìn chúng tôi đầy ấm áp.
 
-Vì đã thu thập đủ toàn bộ nguyên liệu cần thiết cho các ủy thác, chúng tôi lên đường trở về vương đô, còn họ thì ra tận nơi để tiễn chúng tôi. Xem ra nỗi lo sợ rằng họ sẽ xua đuổi chúng tôi đã hoàn toàn vô căn cứ. Chà, cũng có thể là nhờ vài người trong số họ đã nói đỡ cho chúng tôi trước mặt những dân làng khác—chẳng hạn như cha mẹ Ferrici hay người chủ quán trọ.
+Vì đã thu thập đủ toàn bộ nguyên liệu cần thiết cho các ủy thác, chúng tôi lên đường trở về vương đô, còn họ thì ra tận nơi để tiễn chúng tôi. Xem ra nỗi lo sợ rằng họ sẽ xua đuổi chúng tôi đã hoàn toàn vô căn cứ. Chà, cũng có thể là nhờ vài người trong số họ đã nói đỡ cho chúng tôi trước mặt những dân làng khác, chẳng hạn như cha mẹ Ferrici hay người chủ quán trọ.
 
 Có mặt ở đây lúc này gồm tôi, Lorraine, Augurey và Goblin. Ông lão và Siren thì đang trốn trong xe. Riêng người sau thì bắt buộc phải ở yên bên trong, bởi mọi chuyện sẽ trở nên khá rắc rối nếu ả lộ diện. Chỉ có nhóm chúng tôi biết diện mạo thật của ả, vả lại chúng tôi cũng không công khai chuyện ả là kẻ đứng sau vụ tẩy não, nhưng dù sao đây cũng là một ngôi làng nhỏ. Xuất hiện một gương mặt lạ hoắc là người ta sẽ săm soi và gặng hỏi lai lịch ngay. Với Siren thì chưa chắc đã bị thế, vì trước khi xảy ra chuyện, ả từng giả làm nghệ nhân biểu diễn lưu động và ở nhờ nhà một người dân làng, nhưng thể nào ả cũng bị gặng hỏi xem tại sao lại đi cùng chúng tôi.
 
@@ -58,7 +58,7 @@ Trong thoáng chốc, một nụ cười khẩy thoáng hiện trên mặt ông 
 
 "Vậy dị năng của Goblin cũng có thể có chút ảnh hưởng lên con người sao?" Lorraine hỏi.
 
-Ông lão gật đầu; chắc cô ấy đã nói trúng phóc điều ông ấy định nói.
+Ông lão gật đầu, chắc cô ấy đã nói trúng phóc điều ông ấy định nói.
 
 "Đúng vậy. Cô sẽ phải đi hỏi chính cậu ta mới biết... mà nói đi cũng phải nói lại, có khi cậu ta cũng chẳng biết đâu. Dù sao thì chuyện người mang dị năng nhận ra những nét tinh tế như thế về năng lực của mình cũng không phải là hiếm. Cậu có từng cảm thấy điều gì tương tự chưa?"
 
@@ -102,7 +102,7 @@ Dù việc họ hành động như vậy là hoàn toàn hợp lý, tôi vẫn n
 
 "Vậy tôi xin phép đi đây," Goblin nói. "Mọi người tính làm gì?"
 
-Ngoại trừ hắn ra, tất cả chúng tôi đều đã xuống xe—chắc hắn định đánh xe thẳng tới căn cứ của bọn họ. Một phần trong tôi muốn đi cùng hắn vì tò mò, nhưng làm thế chỉ tổ tự chuốc lấy rắc rối. Lúc này, khôn ngoan nhất là cứ giao phó mọi chuyện cho hắn.
+Ngoại trừ hắn ra, tất cả chúng tôi đều đã xuống xe, chắc hắn định đánh xe thẳng tới căn cứ của bọn họ. Một phần trong tôi muốn đi cùng hắn vì tò mò, nhưng làm thế chỉ tổ tự chuốc lấy rắc rối. Lúc này, khôn ngoan nhất là cứ giao phó mọi chuyện cho hắn.
 
 Augurey trả lời, "Xem nào... Ai trong chúng tôi đi cũng được, nhưng trước hết chúng tôi phải đem nộp số nguyên liệu đã thu thập được cái đã. Vốn dĩ ban đầu chúng tôi lên đường cũng vì lý do đó."
 
@@ -114,7 +114,7 @@ Nếu người ta thấy chán ngán những điều như thế, chúng rồi s�
 
 Ông lão lộ vẻ hơi chạnh lòng. "Giờ mà ta bỏ chạy thì thật vô nghĩa. Đằng nào ta cũng khó lòng dùng dị năng của mình ngay giữa lòng thành phố thế này. Còn nếu Siren dùng năng lực của con bé, ai mà biết được liệu có ai để ý rồi bắt giữ nó lại hay không. Những người mang dị năng như bọn ta vốn dĩ khá bị coi thường ở các thành phố đấy."
 
-Nghe vất vả thật. Dù vậy ông ấy nói cũng đúng; có không ít mạo hiểm giả khá ghê gớm—cả những mạo hiểm giả Kim Cấp nữa—cùng các hiệp sĩ thường lảng vảng quanh vương đô. Đôi khi, những người thậm chí còn mạnh hơn thế cũng tạm trú ở đây, dù khá hiếm. Nếu ông lão dùng dị năng của mình, ông ấy sẽ chỉ tự biến bản thân thành một cái bia ngắm khổng lồ. Bất kể ông ấy có lì đòn đến đâu, tôi không nghĩ ông ấy có thể phủi tay bình yên vô sự nếu bị cả một đám đông mạo hiểm giả bu vào vây đánh. Còn về phần Siren, sức chiến đấu cá nhân của ả khá thấp. Việc kiểm soát được vài chục người dân thường sẽ chẳng có nghĩa lý gì khi phải đối đầu với khoảng một trăm mạo hiểm giả.
+Nghe vất vả thật. Dù vậy ông ấy nói cũng đúng, có không ít mạo hiểm giả khá ghê gớm, cả những mạo hiểm giả Kim Cấp nữa, cùng các hiệp sĩ thường lảng vảng quanh vương đô. Đôi khi, những người thậm chí còn mạnh hơn thế cũng tạm trú ở đây, dù khá hiếm. Nếu ông lão dùng dị năng của mình, ông ấy sẽ chỉ tự biến bản thân thành một cái bia ngắm khổng lồ. Bất kể ông ấy có lì đòn đến đâu, tôi không nghĩ ông ấy có thể phủi tay bình yên vô sự nếu bị cả một đám đông mạo hiểm giả bu vào vây đánh. Còn về phần Siren, sức chiến đấu cá nhân của ả khá thấp. Việc kiểm soát được vài chục người dân thường sẽ chẳng có nghĩa lý gì khi phải đối đầu với khoảng một trăm mạo hiểm giả.
 
 Lorraine khẽ lắc đầu, vẻ mặt có chút áy náy. "Dù vậy, điều đó đâu có nghĩa là chúng tôi được phép vứt bỏ mọi sự cẩn trọng. Ít nhất thì tôi vẫn cần phải trông chừng hai người."
 

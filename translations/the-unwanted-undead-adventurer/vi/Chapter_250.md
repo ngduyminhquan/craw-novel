@@ -4,7 +4,7 @@
 
 Lorraine gặng hỏi tiếp, "Vậy kẻ chủ mưu là ai?"
 
-"Còn phải hỏi nữa sao? Là Nữ Bá tước Gisel Georgiou, người chống lưng lớn nhất của Điện Hạ. Một người phụ nữ can trường, luôn mong một ngày nào đó Đệ Nhất Công Chúa sẽ kế vị ngai vàng."
+"Còn phải hỏi nữa sao? Là Nữ Bá tước Gisel Georgiou, người chống lưng lớn nhất của Điện Hạ. Một người phụ nữ can đảm, luôn mong một ngày nào đó Đệ Nhất Công Chúa sẽ kế vị ngai vàng."
 
 "Nghe hợp lý đấy," Lorraine bảo.
 
@@ -56,7 +56,7 @@ Cá nhân tôi thấy nghĩ vậy là hơi quá lạc quan, nhưng thử xem sao
 
 Lorraine gật đầu. "Cũng phải. Chúng ta vẫn còn phương án tìm tới nữ bá tước cùng cái ‘tổ chức’ này để nói chuyện trực tiếp. Có điều làm vậy thì khá mạo hiểm."
 
-Tôi muốn tránh một nơi toàn những kẻ như ông lão hết mức có thể, nhưng cũng khó lòng phủ nhận rằng sớm muộn gì chúng tôi cũng phải tới đó. Nhờ Nhị Công Chúa giảng hòa—hoặc chí ít là làm gì đó—với chị gái cô ấy cũng là một lựa chọn, nhưng tôi chẳng rõ liệu việc đó có khả thi hay không.
+Tôi muốn tránh một nơi toàn những kẻ như ông lão hết mức có thể, nhưng cũng khó lòng phủ nhận rằng sớm muộn gì chúng tôi cũng phải tới đó. Nhờ Nhị Công Chúa giảng hòa, hoặc chí ít là làm gì đó, với chị gái cô ấy cũng là một lựa chọn, nhưng tôi chẳng rõ liệu việc đó có khả thi hay không.
 
 "Tôi đoán cứ bắt đầu từ cách dễ nhất rồi nâng dần lên vậy," tôi nói, khép lại cuộc bàn bạc của cả nhóm.
 
@@ -132,10 +132,10 @@ Trong giao chiến, Goblin yếu hơn ông lão rất, rất nhiều. Nếu tìn
 
 "Hửm? Ý ông là..."
 
-"Đâu khó để suy ra, phải không? Bọn ta là một tổ chức của những người mang dị năng. Việc bọn ta có cách khắc chế những dị năng đó cũng là lẽ tự nhiên thôi. Cậu bạn quái vật đằng kia—tên là Rentt nhỉ? Cậu cũng nên đề cao cảnh giác đi là vừa."
+"Đâu khó để suy ra, phải không? Bọn ta là một tổ chức của những người mang dị năng. Việc bọn ta có cách khắc chế những dị năng đó cũng là lẽ tự nhiên thôi. Cậu bạn quái vật đằng kia, tên là Rentt nhỉ? Cậu cũng nên đề cao cảnh giác đi là vừa."
 
 Xét đến việc ông ấy đang hiểu nhầm về tôi thì lời cảnh báo này có lẽ chẳng mấy ý nghĩa, song việc ông ấy mở lời nhắc nhở đã chứng minh rõ ràng ông ấy không phải kẻ vô tình. Nói đúng hơn, ông ấy dường như thuộc kiểu người biết quan tâm lo lắng. Chỉ là khi đối mặt với kẻ thù thì ông ấy không hề nương tay mà thôi.
 
-Bởi vậy nên tôi đáp, "Tôi hiểu rồi. Tôi sẽ cẩn thận. Cảm ơn ông đã cảnh báo; ông vốn chẳng cần phải làm thế."
+Bởi vậy nên tôi đáp, "Tôi hiểu rồi. Tôi sẽ cẩn thận. Cảm ơn ông đã cảnh báo, ông vốn chẳng cần phải làm thế."
 
 Ông lão nhìn tôi với ánh mắt kỳ lạ. "Cậu cũng đâu cần phải cảm ơn ta. Bản thân cậu cũng là một kẻ kỳ quặc đấy thôi."

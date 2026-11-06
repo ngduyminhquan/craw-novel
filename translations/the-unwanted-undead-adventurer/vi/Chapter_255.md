@@ -46,7 +46,7 @@ Lorraine lên tiếng, giọng đầy tò mò: "Vậy với ông thì chuyện �
 
 "Cô sẽ thấy thế nào nếu một ngày nọ, người bạn của cô bỗng dưng biến thành quái vật?"
 
-Lorraine và Augurey có vẻ sững sờ trước câu hỏi của ông lão. Bản thân tôi cũng hơi giật mình—ông ấy vừa tả trúng phóc tình cảnh của tôi—nhưng khi ông ấy nói tiếp, tôi nhận ra hướng đi của câu chuyện nên dần thả lỏng.
+Lorraine và Augurey có vẻ sững sờ trước câu hỏi của ông lão. Bản thân tôi cũng hơi giật mình vì ông ấy vừa tả trúng phóc tình cảnh của tôi, nhưng khi ông ấy nói tiếp, tôi nhận ra hướng đi của câu chuyện nên dần thả lỏng.
 
 "Hai người hiểu ý ta muốn nói rồi đấy. Chuyện một ai đó thức tỉnh dị năng khi đã lớn tuổi cũng tương tự như vậy thôi. Còn nhớ chuyện lúc nãy chúng ta bàn về việc những kẻ ngoại lai bị bài xích không? Trong trường hợp này thì điều đó lại càng đúng hơn nữa. Một đứa trẻ... vẫn có thể được yêu thương, cũng như được thương hại, vì chúng sinh ra vốn đã như thế. Nhưng người lớn thì... Chà, họ bỗng biến thành những con quái vật không sao giải thích nổi. Trong mắt người đời, họ chỉ là thứ như vậy thôi. Mà nào có mấy ai chịu tiếp tục làm bạn với một con quái vật, phải không?"
 
@@ -72,7 +72,7 @@ Mắt tôi bắt đầu nóng lên, nhưng cơ thể tôi vốn chẳng còn t�
 
 Ông lão rõ ràng đang nghĩ đến bản thân mình, Goblin và Siren, nhưng những lời ấy cũng chạm sâu vào lòng tôi, bởi tôi thấy ông ấy nói hoàn toàn đúng. Tôi có những người như Lorraine và Augurey luôn chấp nhận con người thật của tôi. Nhờ vậy, dẫu mang thân xác của một con quái vật, tôi vẫn có thể là chính mình. Tôi tin chắc vào điều đó.
 
-Nếu thủ lĩnh của tổ chức những người mang dị năng kia cũng có nét giống ông lão, thì đó có lẽ không phải một nhóm quá tệ—ý là so với một tổ chức chuyên nhận việc ám sát ấy. Mà biết đâu họ cũng nhận cả những kiểu công việc khác nữa nhỉ?
+Nếu thủ lĩnh của tổ chức những người mang dị năng kia cũng có nét giống ông lão, thì đó có lẽ không phải một nhóm quá tệ, ý là so với một tổ chức chuyên nhận việc ám sát ấy. Mà biết đâu họ cũng nhận cả những kiểu công việc khác nữa nhỉ?
 
 ◆◇◆◇◆
 
@@ -88,7 +88,7 @@ Khoản tốn kém nhất chính là bản thân con bồ câu. Huấn luyện m
 
 Nhìn con bồ câu xong, chúng tôi quay sang Lorraine. Với ma nhãn của mình, cô ấy có thể nhìn thấu những loại bẫy như thế.
 
-Giấy có vẽ ma pháp trận cũng là một dạng ma cụ, và vì ma pháp chắc chắn sẽ kích hoạt ngay khi mở giấy ra, nên người ta thường phải nạp sẵn Ma Lực từ trước. Đó là lý do nó không mấy khi được dùng làm vũ khí; người có con mắt tinh tường đều dễ dàng nhìn thấu.
+Giấy có vẽ ma pháp trận cũng là một dạng ma cụ, và vì ma pháp chắc chắn sẽ kích hoạt ngay khi mở giấy ra, nên người ta thường phải nạp sẵn Ma Lực từ trước. Đó là lý do nó không mấy khi được dùng làm vũ khí, người có con mắt tinh tường đều dễ dàng nhìn thấu.
 
 Lorraine cẩn thận quan sát một lát rồi gật đầu. "Chắc không sao đâu."
 
@@ -104,7 +104,7 @@ Tiếc là toàn bộ đều viết bằng mật mã nên chúng tôi chịu ch�
 
 "Ừ, một con chim thì dễ thương đấy," Siren lộ vẻ mệt mỏi nói, "nhưng anh cứ thử mang cái dị năng này của tôi tới chỗ nào có hàng trăm con chim mà xem. Cảm giác như muốn chết đi cho xong ấy."
 
-Tôi mường tượng thử cảnh đó, và quả thực kinh khủng. Vốn dĩ chim chóc—nhất là chim hoang dã—là loài động vật bẩn thỉu đến không ngờ. Tụ tập đủ đông thì phân của chúng sẽ rơi lộp bộp khắp nơi. Thật gớm ghiếc.
+Tôi mường tượng thử cảnh đó, và quả thực kinh khủng. Vốn dĩ chim chóc, nhất là chim hoang dã, là loài động vật bẩn thỉu đến không ngờ. Tụ tập đủ đông thì phân của chúng sẽ rơi lộp bộp khắp nơi. Thật gớm ghiếc.
 
 "Nhưng lúc ở trong rừng cô đâu có gặp rắc rối gì," tôi nói. Chúng tôi mới băng qua rừng cách đây vài hôm, mà tôi đâu thấy chim muông hay thú rừng tụ tập bất thường quanh ả đâu.
 
@@ -154,7 +154,7 @@ Hôm nay là ngày chúng tôi lên đường đến căn cứ của tổ chức
 
 Khắp người Goblin đầy vết thương. Quần áo hắn mặc tuy mới nhưng chẳng che hết được thương tích. Dù không có vết thương nào trông quá nặng, nhưng vết sẹo và bầm tím gần như phủ kín người hắn. Hẳn là tổ chức đã phát hiện ra từ trước chuyện hắn làm hỏng nhiệm vụ nên tra tấn hắn một trận tơi bời.
 
-"À, chuyện đó thì..." Goblin gãi đầu. "Tôi đã giải thích sự tình cho mọi người nghe—mà 'mọi người' ở đây ý tôi chỉ là những người đích thân ông già chiêu mộ thôi, chứ không phải đám khác—nhưng chẳng ai thèm tin khi tôi bảo ông già đã thua hai Ngân Cấp và một Đồng Cấp. Dù tôi có lời ông già xác nhận chuyện đó, lại tận mắt thấy ma pháp khổng lồ cô bắn ra từ đằng xa, nên tôi cứ khăng khăng nói đi nói lại mãi... nhưng chẳng ăn thua. Rốt cuộc lại thành ra xô xát một trận, nên tôi mới ra nông nỗi này đây."
+"À, chuyện đó thì..." Goblin gãi đầu. "Tôi đã giải thích sự tình cho mọi người nghe, mà 'mọi người' ở đây ý tôi chỉ là những người đích thân ông già chiêu mộ thôi, chứ không phải đám khác, nhưng chẳng ai thèm tin khi tôi bảo ông già đã thua hai Ngân Cấp và một Đồng Cấp. Dù tôi có lời ông già xác nhận chuyện đó, lại tận mắt thấy ma pháp khổng lồ cô bắn ra từ đằng xa, nên tôi cứ khăng khăng nói đi nói lại mãi... nhưng chẳng ăn thua. Rốt cuộc lại thành ra xô xát một trận, nên tôi mới ra nông nỗi này đây."
 
 Ông lão lộ vẻ bực dọc. "Mấy cái đứa này... Thôi, kệ vậy. Bọn chúng sẽ hiểu ra khi nghe chính miệng ta nói."
 
@@ -192,7 +192,7 @@ Augurey quay sang nhìn ông lã—nhìn Spriggan, vẻ đầy tò mò. "Các th
 
 "Trong số bọn ta có không ít người mang dị năng yếu, hoặc những năng lực khá mơ hồ. Tìm ra một cái tên thể hiện chính xác nét riêng của từng người là rất khó. Nhưng đằng nào bọn ta cũng chỉ dùng mật danh trong nội bộ tổ chức thôi. Dĩ nhiên ai nấy đều có tên thật của riêng mình, nên bọn ta không quá câu nệ chuyện mật danh. Cứ coi đó như một trò tiêu khiển cũng được."
 
-Ông ấy nói đúng; cách họ đặt mật danh nghe qua quả thực hơi qua loa. Nếu chỉ dùng trong nội bộ thì giữ cho đơn giản cũng là hợp lý. Xét việc đáng lý chúng phải được giữ bí mật, thì chuyện chúng tôi vô tình phát hiện ra cũng hơi xui cho bọn họ.
+Ông ấy nói đúng, cách họ đặt mật danh nghe qua quả thực hơi qua loa. Nếu chỉ dùng trong nội bộ thì giữ cho đơn giản cũng là hợp lý. Xét việc đáng lý chúng phải được giữ bí mật, thì chuyện chúng tôi vô tình phát hiện ra cũng hơi xui cho bọn họ.
 
 "Thủ lĩnh cũng có mật danh chứ?" Lorraine hỏi.
 

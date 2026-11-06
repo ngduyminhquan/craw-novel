@@ -12,7 +12,7 @@ Cô tiếp tân mỉm cười gật đầu. "Một quyết định sáng suốt.
 
 Nhìn vẻ mặt có phần nhẹ nhõm của cô ấy, chẳng khó để đoán ra có không ít người vừa đủ điều kiện là đăng ký thi ngay. Có lẽ sự tự tin đó bắt nguồn từ việc họ đã từng thi đỗ Đồng Cấp.
 
-Theo tôi thấy, kỳ thi Đồng Cấp đã khoai đến thế thì lên Ngân Cấp chắc chắn chỉ có tệ hơn. Nghĩ vậy mới hợp lý, có điều mạo hiểm giả bình thường lại hay thuộc tuýp tự tin thái quá. Có lẽ phần đông trong giới chúng tôi đều coi việc đỗ Đồng Cấp như dấu hiệu bảo đảm lên Ngân Cấp cũng sẽ đậu tuốt. Rồi phải trượt vài bận mới vỡ lẽ ra sự thật. Xét ở điểm đó thì có khi nó cũng khá giống kỳ thi Đồng Cấp. Suy cho cùng, người ta vốn chẳng ưa chuyện học hành nghiêm túc chút nào.
+Theo tôi thấy, kỳ thi Đồng Cấp đã khó nhằn đến thế thì lên Ngân Cấp chắc chắn chỉ có tệ hơn. Nghĩ vậy mới hợp lý, có điều mạo hiểm giả bình thường lại hay thuộc kiểu tự tin thái quá. Có lẽ phần đông trong giới chúng tôi đều coi việc đỗ Đồng Cấp như dấu hiệu bảo đảm lên Ngân Cấp cũng sẽ đậu tuốt. Rồi phải trượt vài bận mới vỡ lẽ ra sự thật. Xét ở điểm đó thì có khi nó cũng khá giống kỳ thi Đồng Cấp. Suy cho cùng, người ta vốn chẳng ưa chuyện học hành nghiêm túc chút nào.
 
 "Tôi cũng không dám nhận thế đâu," tôi nói. "Thật ra tôi chẳng nghĩ mình đáng khen đến mức ấy. Tôi chỉ quen làm từng bước chậm mà chắc thôi. Xưa giờ tôi vẫn làm vậy, và sau này cũng thế."
 
@@ -46,7 +46,7 @@ Tôi chỉ dạy họ những điều cơ bản mà mạo hiểm giả nào cũn
 
 "Đúng không?"
 
-Hóa ra tôi cũng dạy được cho đám tân binh ở Maalt chút kiến thức có ích. Dù vậy, điều đó cũng chẳng ngăn được chuyện tôi bị Rồng ăn thịt, càng chứng tỏ tôi vẫn chưa đủ cẩn trọng. Tôi đã để tính tò mò lấn át lý trí. Những phen hú vía của Augurey có thể không sánh bằng tôi, nhưng tôi dám chắc anh ấy cũng từng nếm trải không ít. Cả hai chúng tôi đều nên rút kinh nghiệm từ bài học của tôi. Chúng tôi không được phép quên đi cảm giác khi còn là những tân binh hoàn toàn mới vào nghề, luôn hết sức cẩn trọng để làm cho tử tế từng công việc một. Dù là bây giờ hay mãi về sau cũng vậy.
+Hóa ra tôi cũng dạy được cho đám tân binh ở Maalt chút kiến thức có ích. Dù vậy, điều đó cũng chẳng ngăn được chuyện tôi bị rồng ăn thịt, càng chứng tỏ tôi vẫn chưa đủ cẩn trọng. Tôi đã để tính tò mò lấn át lý trí. Những phen hú vía của Augurey có thể không sánh bằng tôi, nhưng tôi dám chắc anh ấy cũng từng nếm trải không ít. Cả hai chúng tôi đều nên rút kinh nghiệm từ bài học của tôi. Chúng tôi không được phép quên đi cảm giác khi còn là những tân binh hoàn toàn mới vào nghề, luôn hết sức cẩn trọng để làm cho tử tế từng công việc một. Dù là bây giờ hay mãi về sau cũng vậy.
 
 "Vậy là tôi đã làm xong thủ tục thẻ mạo hiểm giả cho hai vị rồi." Cô tiếp tân đưa trả thẻ cho chúng tôi. "Hôm nay hai vị còn cần gì khác nữa không?"
 
@@ -122,13 +122,13 @@ Siren đang ngồi bó gối ở góc phòng liền lí nhí: "Ông ấy biết 
 
 "Mười bảy tuổi á?!" Augurey thốt lên. "Tôi cứ tưởng cô ta phải lớn hơn nhiều chứ."
 
-Tôi cũng vậy. Nhìn cái phong thái mỹ nhân quyến rũ chết người mà ả tạo ra, tôi còn đoán ả phải ngoài đôi mươi rồi—chẳng phải vì trông chín chắn gì cho cam, mà chủ yếu do sức hút mê hoặc toát ra từ người ả... hay đại loại thế. Có điều giờ đã biết rõ, tôi mới nhận ra dưới lớp trang điểm dày cộp kia, đường nét khuôn mặt ả trông vẫn còn khá non nớt.
+Tôi cũng vậy. Nhìn cái phong thái mỹ nhân quyến rũ chết người mà ả tạo ra, tôi còn đoán ả phải gần ba mươi rồi, chẳng phải vì trông chín chắn gì cho cam, mà chủ yếu do sức hút mê hoặc toát ra từ người ả... hay đại loại thế. Có điều giờ đã biết rõ, tôi mới nhận ra dưới lớp trang điểm dày cộp kia, đường nét khuôn mặt ả trông vẫn còn khá non nớt.
 
 "Giờ thì các cậu biết sự thật rồi đấy," ông lão nói. "Với Goblin và ta thì con bé cũng giống như con gái hay cháu gái vậy. Bọn ta vốn định sẽ từng bước giúp con bé tự lập và trưởng thành."
 
 "Vậy khi lập tổ đội trong tổ chức của các ông, mọi người sẽ làm việc cùng nhau đủ lâu để gắn bó thân thiết sao?" Lorraine hỏi.
 
-"Chắc cũng có thể nói vậy. Mà đúng hơn là người có thâm niên cao nhất—như trong trường hợp này là ta—sẽ đi khắp nơi tìm kiếm những người mang dị năng khác. Những ai được bọn ta chọn sẽ trở thành cấp dưới, gắn kết với nhau như một gia đình, rồi từ đó tạo nên mối liên kết bền chặt như sắt thép. Đại khái mọi chuyện là thế."
+"Chắc cũng có thể nói vậy. Mà đúng hơn là người có thâm niên cao nhất, như trong trường hợp này là ta, sẽ đi khắp nơi tìm kiếm những người mang dị năng khác. Những ai được bọn ta chọn sẽ trở thành cấp dưới, gắn kết với nhau như một gia đình, rồi từ đó tạo nên mối liên kết bền chặt như sắt thép. Đại khái mọi chuyện là thế."
 
 "Tôi hiểu rồi... Vậy ngoài Goblin và Siren ra, ông vẫn còn những đồng minh khác sao?"
 

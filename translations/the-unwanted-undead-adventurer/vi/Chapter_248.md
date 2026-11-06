@@ -2,13 +2,13 @@
 
 "Họ tới rồi!"
 
-Lorraine thấy gã Cự Nhân đang xộc qua cánh rừng về phía mình, húc đổ và bứng gốc cây cối chẳng khác nào một cơn lốc hủy diệt. Lúc chạm trán ở cự ly gần trước đó, vóc dáng đồ sộ của hắn từng dấy lên trong cô nỗi sợ theo bản năng, nhưng giờ nhìn từ xa thế này cũng rợn ngợp chẳng kém. Nghĩ tới chuyện thời xa xưa Cự Nhân từng đông đúc hơn nhiều và hẳn từng không ít lần đe dọa con người, cô lại tự hỏi làm sao mà nhân loại thuở ấy có thể sống sót để rồi sinh sôi phát triển được như ngày nay.
+Lorraine thấy gã Cự Nhân đang xộc qua cánh rừng về phía mình, húc đổ và bứng gốc cây cối chẳng khác nào một cơn lốc hủy diệt. Lúc chạm trán ở cự ly gần trước đó, vóc dáng đồ sộ của hắn từng dấy lên trong cô nỗi sợ theo bản năng, nhưng giờ nhìn từ xa thế này cũng đáng sợ chẳng kém. Nghĩ tới chuyện thời xa xưa Cự Nhân từng đông đúc hơn nhiều và hẳn từng không ít lần đe dọa con người, cô lại tự hỏi làm sao mà nhân loại thuở ấy có thể sống sót để rồi sinh sôi phát triển được như ngày nay.
 
 Có điều, chuyện quá khứ cứ để sau hãy tính. Ngay lúc này, cô chỉ có một việc duy nhất phải làm: chuẩn bị một đòn ma pháp đủ uy lực để hạ gục gã Cự Nhân.
 
 Để có góc ra đòn thuận lợi nhất nhắm vào mục tiêu, Lorraine đã nhờ Augurey bảo Rentt hãy "dụ gã Cự Nhân tới chỗ nào đó để tôi có thể đánh ma pháp vào bên sườn hắn". Xem chừng Augurey đã làm tròn nhiệm vụ, bởi gã Cự Nhân già đang lao đúng về hướng họ đã dự tính.
 
-Việc còn lại chỉ là định hình Ma Lực, dựng cấu trúc ma pháp rồi tung đòn, nhưng nói thì bao giờ cũng dễ hơn làm. Đến cả Lorraine cũng đâu có nguồn Ma Lực vô tận. Đã vậy, có lẽ cô còn tiêu tốn nhiều Ma Lực hơn mức cần thiết cho chiêu Glacies Cometes lúc nãy. Ban đầu phép đó vốn không tạo ra khối cầu băng to đến cỡ ấy—nó chỉ thành ra như vậy vì cô đã gượng ép dồn sức để chắp vá cho xong. Dĩ nhiên Ma Lực vẫn còn để xoay xở, nhưng chưa đủ để cô hoàn toàn yên tâm với những gì mình sắp làm.
+Việc còn lại chỉ là định hình Ma Lực, dựng cấu trúc ma pháp rồi tung đòn, nhưng nói thì bao giờ cũng dễ hơn làm. Đến cả Lorraine cũng đâu có nguồn Ma Lực vô tận. Đã vậy, có lẽ cô còn tiêu tốn nhiều Ma Lực hơn mức cần thiết cho chiêu Glacies Cometes lúc nãy. Ban đầu phép đó vốn không tạo ra khối cầu băng to đến cỡ ấy, nó chỉ thành ra như vậy vì cô đã gượng ép dồn sức để chắp vá cho xong. Dĩ nhiên Ma Lực vẫn còn để xoay xở, nhưng chưa đủ để cô hoàn toàn yên tâm với những gì mình sắp làm.
 
 Nhưng cô cũng chẳng còn lựa chọn nào khác. Bụi đất mù mịt đang không ngừng áp sát. Rentt và Augurey chắc đang ở ngay sát dưới chân gã Cự Nhân, chạy bán sống bán chết. Nếu cô thất bại, tất cả bọn họ sẽ xong đời. Cô không thể để chuyện đó xảy ra.
 
@@ -56,7 +56,7 @@ Tôi cứ xem gã Cự Nhân già là quái vật, nhưng hóa ra trong nhóm ch
 
 Anh ấy đang nhìn về phía gã Cự Nhân già, nhưng cây cối xung quanh vẫn bốc khói nghi ngút sau cú sét đánh, nên cả hai chúng tôi đều chưa xác nhận được gì. Tôi khá chắc mọi chuyện đã xong xuôi, nhưng kiểm tra cho chắc ăn cũng chẳng thừa.
 
-Khói tan dần, để lộ ra trước mắt chúng tôi một khối khổng lồ cháy sém—chính là gã Cự Nhân già. Hắn không bị cháy đen thui toàn thân—chắc do quá to lớn—nhưng phần lớn cơ thể đã bị thiêu xém thành màu đen và nâu sẫm. Tia sét rõ ràng đã đánh trúng đích.
+Khói tan dần, để lộ ra trước mắt chúng tôi một khối khổng lồ cháy sém, chính là gã Cự Nhân già. Hắn không bị cháy đen thui toàn thân, chắc do quá to lớn, nhưng phần lớn cơ thể đã bị thiêu xém thành màu đen và nâu sẫm. Tia sét rõ ràng đã đánh trúng đích.
 
 Tôi không thấy những ngọn giáo kim loại của Lorraine đâu nữa, nên tôi đoán chúng đã cạn sạch Ma Lực. Có điều, những lỗ thủng mà chúng đâm vào người gã Cự Nhân già vẫn còn đó, và tôi thấy khói đang phì ra từ những vết thương ấy. Xem chừng tia sét đã đánh xuyên vào khá sâu.
 
@@ -78,7 +78,7 @@ Kèm theo một luồng gió rít mạnh, cánh tay của gã Cự Nhân già vu
 
 "Đùa nhau đấy à!" Augurey kêu lên. Anh ấy vẫn đang nằm trên tay tôi, mắt nhìn chằm chằm gã Cự Nhân già.
 
-Tôi chẳng trách anh ấy bị sốc; chính tôi cũng vậy. Dùng từ "phi thường" còn chưa đủ để lột tả sức chịu đựng và thể chất dẻo dai cần có để đứng dậy sau khi ăn trọn loạt ma pháp dữ dội cỡ đó. Gã Cự Nhân già đơn giản là một con quái vật phá vỡ mọi quy tắc.
+Tôi chẳng trách anh ấy bị sốc, chính tôi cũng vậy. Dùng từ "phi thường" còn chưa đủ để tả nổi sức chịu đựng và độ dẻo dai cần có để đứng dậy sau khi ăn trọn loạt ma pháp dữ dội cỡ đó. Gã Cự Nhân già đơn giản là một con quái vật phá vỡ mọi quy tắc.
 
 "Nhưng hắn cũng ngấm đòn rồi," tôi nói rồi đặt Augurey xuống đất. "Chắc chắn là vậy."
 
@@ -126,7 +126,7 @@ Thực tế chứng minh tôi đã đúng. Gã Cự Nhân già liếc về phía
 
 Tôi vốn lo không biết Augurey cầm cự được tới đâu, nhưng thật bất ngờ là anh ấy đang xoay xở rất tốt. Lối chiến đấu thiên về tốc độ thay vì sức mạnh của anh ấy đang phát huy hiệu quả rõ rệt. Một phần là nhờ chuyển động của đối thủ đã chậm đi đáng kể, nhưng Augurey đang né các đòn tấn công của gã Cự Nhân già một cách rất dư dả. Dĩ nhiên mối nguy hiểm với Augurey chẳng vì thế mà vơi đi chút nào, bởi chỉ cần một sơ sẩy nhỏ thôi cũng đủ khiến anh ấy dính trọng thương—hoặc thậm chí mất mạng.
 
-Hạ gục gã Cự Nhân già càng sớm thì càng tốt. Tôi tính xem nên nhắm đòn vào đâu và đi đến kết luận rằng đánh vào đầu có lẽ là phương án tốt nhất. Gã Cự Nhân già đã chứng minh chân tay hắn có bị đánh bầm dập thì vẫn tiếp tục chiến đấu được. Vậy thì làm sao để tôi với tới đầu hắn đây? Tôi từng tính dùng cánh bay lên, nhưng thế thì mạo hiểm quá. Tôi chỉ có đúng một cơ hội cho đòn này; không thể phung phí vào một cách làm bấp bênh như thế. Phải nghĩ ra cách khác—
+Hạ gục gã Cự Nhân già càng sớm thì càng tốt. Tôi tính xem nên nhắm đòn vào đâu và đi đến kết luận rằng đánh vào đầu có lẽ là phương án tốt nhất. Gã Cự Nhân già đã chứng minh chân tay hắn có bị đánh bầm dập thì vẫn tiếp tục chiến đấu được. Vậy thì làm sao để tôi với tới đầu hắn đây? Tôi từng tính dùng cánh bay lên, nhưng thế thì mạo hiểm quá. Tôi chỉ có đúng một cơ hội cho đòn này, không thể phung phí vào một cách làm bấp bênh như thế. Phải nghĩ ra cách khác—
 
 "Á!"
 

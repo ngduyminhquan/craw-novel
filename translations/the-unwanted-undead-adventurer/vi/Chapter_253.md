@@ -114,9 +114,9 @@ Có điều, việc vặt kiểu đó có gom bao nhiêu đi nữa thì tôi v�
 
 Tin tức ập đến quá bất ngờ làm tôi ngẩn người ra. Tôi vốn biết rồi cũng sẽ có ngày này. Suy cho cùng, khác với tôi trước kia, giờ càng bỏ công sức rèn luyện thì cơ thể tôi càng mạnh lên. Dạo gần đây lại liên tục đụng độ một loạt đối thủ sừng sỏ, nên tôi dám chắc kỹ năng của mình cũng đang tiến bộ rõ rệt.
 
-Xét mọi mặt thì chuyện này xảy ra cũng chẳng có gì lạ. Nói đúng hơn là tôi đã lường trước rồi. Thế nhưng, nếu có ai hỏi tôi câu đó chỉ mới một năm trước thôi, liệu tôi có thốt ra được như vậy không? Tôi luôn tin chắc một ngày nào đó mình sẽ trở thành mạo hiểm giả Mithril Cấp—niềm tin ấy chưa bao giờ lay chuyển—nhưng có phải vì thế mà sự thật phũ phàng của thực tại chưa từng một lần thoáng qua đầu tôi đâu?
+Xét mọi mặt thì chuyện này xảy ra cũng chẳng có gì lạ. Nói đúng hơn là tôi đã lường trước rồi. Thế nhưng, nếu có ai hỏi tôi câu đó chỉ mới một năm trước thôi, liệu tôi có thốt ra được như vậy không? Tôi luôn tin chắc một ngày nào đó mình sẽ trở thành mạo hiểm giả Mithril Cấp, niềm tin ấy chưa bao giờ lay chuyển, nhưng có phải vì thế mà sự thật phũ phàng của thực tại chưa từng một lần thoáng qua đầu tôi đâu?
 
-Không. Dĩ nhiên là không rồi. Cứ mỗi lần chém giết có vài con Slime hay Khô Lâu—mấy thứ quái vật yếu nhớt—mà cũng vắt kiệt sức lực của mình, thì trên suốt quãng đường lê bước về nhà, thực tại ấy lại đè nặng lên tâm trí tôi.
+Không. Dĩ nhiên là không rồi. Cứ mỗi lần chém giết có vài con Slime hay Khô Lâu, mấy thứ quái vật yếu nhớt, mà cũng vắt kiệt sức lực của mình, thì trên suốt quãng đường lê bước về nhà, thực tại ấy lại đè nặng lên tâm trí tôi.
 
 Tương lai trước mắt tôi khi ấy sao mà mịt mờ và nặng nề đến thế. Mỗi lúc đầu óc lơ đãng, từng câu hỏi quen thuộc lại bất ngờ ùa tới bủa vây. Liệu ngày mai có phải là ngày mình bỏ mạng? Chẳng lẽ đời mình cứ thế mà kết thúc sao? Chưa làm nên được bất kỳ trò trống gì. Chỉ là một cái xác vô danh nơi tầng trên của Mê Cung Nguyệt Ảnh.
 

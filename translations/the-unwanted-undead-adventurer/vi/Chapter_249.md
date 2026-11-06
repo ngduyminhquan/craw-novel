@@ -20,7 +20,7 @@ Thôi, đùa thế lúc này là đủ rồi.
 
 Tôi nhìn gã Cự Nhân già, giờ đã quay lại thành một ông lão gầy gò. Ông ta nằm gọn trong cái hố sâu do cú ngã của thân hình khổng lồ lúc trước tạo ra, mảnh vải vắt ngang người. Nhìn cảnh tượng ấy, thực ra lại thấy hơi buồn và cô độc.
 
-Quanh vùng này thì hiếm khi nghe thấy, nhưng đôi lúc ở những ngôi làng nghèo đói, người ta sẽ bỏ rơi người già vào rừng khi họ đến một độ tuổi nhất định. Tôi từng bắt gặp họ vài lần trong những chuyến đi về miền quê, và lần nào trông thấy cũng rất xót xa. Lẽ dĩ nhiên tôi chẳng thể cứ thế bỏ mặc, nên lúc nào cũng bảo họ đi cùng mình. Về lại làng cũ rõ ràng không xong, nên tôi giúp họ tìm một chỗ để tự kiếm sống nuôi thân—thực ra chuyện đó cũng không quá khó. Hóa ra chỉ cần biết tìm đúng chỗ là được.
+Quanh vùng này thì hiếm khi nghe thấy, nhưng đôi lúc ở những ngôi làng nghèo đói, người ta sẽ bỏ rơi người già vào rừng khi họ đến một độ tuổi nhất định. Tôi từng bắt gặp họ vài lần trong những chuyến đi về miền quê, và lần nào trông thấy cũng rất xót xa. Lẽ dĩ nhiên tôi chẳng thể cứ thế bỏ mặc, nên lúc nào cũng bảo họ đi cùng mình. Về lại làng cũ rõ ràng không xong, nên tôi giúp họ tìm một chỗ để tự kiếm sống nuôi thân; thực ra chuyện đó cũng không quá khó. Hóa ra chỉ cần biết tìm đúng chỗ là được.
 
 Có điều, tôi không nghĩ ông lão nằm trước mặt mình cần phải lo chuyện đó. Cứ thả ông ta vào một quán rượu bất kỳ nào đấy, khéo ông ta chỉ cần cá cược vật tay với người ta là đủ kiếm tiền nuôi thân rồi. Gia nhập kỵ sĩ đoàn hay vào quân ngũ cũng được, mà đi làm mạo hiểm giả thì chắc chắn sống khỏe.
 
@@ -136,7 +136,7 @@ Lorraine nói không hẳn sai. Nếu lược bỏ chi tiết cụ thể thì th
 
 "Ông đang nói cái gì thế?" Lorraine hỏi.
 
-"Khỏi tốn công chối," ông lão đáp. "Nếu bọn ta không nắm được chừng đó chuyện thì ngay từ đầu đã chẳng có mặt ở đây. Và xét theo thực lực của các ngươi, ta đoán chắc cô ta đã ra lệnh cho các ngươi đi thu hồi cây quyền trượng mới. Mà cô ta tìm ra được các ngươi cũng giỏi thật đấy; khoản đó ta phải công nhận. Ta cứ đinh ninh bọn ta đã dẹp yên hết mọi nhân vật sáng giá trong tầm ngắm của cô ta rồi cơ."
+"Khỏi tốn công chối," ông lão đáp. "Nếu bọn ta không nắm được chừng đó chuyện thì ngay từ đầu đã chẳng có mặt ở đây. Và xét theo thực lực của các ngươi, ta đoán chắc cô ta đã ra lệnh cho các ngươi đi thu hồi cây quyền trượng mới. Mà cô ta tìm ra được các ngươi cũng giỏi thật đấy, khoản đó ta phải công nhận. Ta cứ đinh ninh bọn ta đã dẹp yên hết mọi nhân vật sáng giá trong tầm ngắm của cô ta rồi cơ."
 
 Ông lão gần như đã đoán trúng phóc, nhưng vẫn trật một chút. Nghe giọng thì có vẻ ông ta không biết rằng, dù công chúa có nhờ chúng tôi đi lấy cây quyền trượng mới, nhưng rốt cuộc chuyện đó lại thành một thỏa thuận có điều kiện. Về lý thuyết thì hiện giờ chúng tôi chẳng nhận mệnh lệnh nào cả. Ông ta dường như cũng chẳng hay biết gì về lời tiên tri mà cô ấy đã kể cho chúng tôi nghe.
 
@@ -150,7 +150,7 @@ Tương tự như cách tộc High Elf trao cho công chúa một lời tiên tr
 
 Có điều, tôi tự hỏi sao bọn họ lại không biết những chi tiết quan trọng nhất. Đến cả thuật sĩ bói toán chắc cũng phải tò mò chứ. Thể nào kẻ đó chẳng soi thử chuyện đó rồi, đúng không? Dù sao đi nữa, nghĩ ngợi chuyện này cũng chẳng đi đến đâu.
 
-Mà khoan... trong truyện dân gian cũng có kể về những chuyện tương tự—kiểu như thần linh can thiệp vào thuật bói toán và mấy thứ đại loại thế. Mà toàn bộ vụ việc này lại liên quan tới lời tiên tri của tộc High Elf, nghĩa là dính dáng đến Thánh Thụ—thứ nghe nói gần như là một vị thần. Biết đâu vì thế mà thuật bói toán mới bị hạn chế tầm nhìn như vậy.
+Mà khoan... trong truyện dân gian cũng có kể về những chuyện tương tự, kiểu như thần linh can thiệp vào thuật bói toán và mấy thứ đại loại thế. Mà toàn bộ vụ việc này lại liên quan tới lời tiên tri của tộc High Elf, nghĩa là dính dáng đến Thánh Thụ, thứ nghe nói gần như là một vị thần. Biết đâu vì thế mà thuật bói toán mới bị hạn chế tầm nhìn như vậy.
 
 Lorraine sau đó liền hỏi câu quan trọng nhất.
 

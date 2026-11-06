@@ -6,7 +6,7 @@ Vừa gặp lại, Ferrici đã hỏi dồn chúng tôi một tràng câu hỏi,
 
 "Thật sao?" Ferrici hỏi.
 
-Khổ nỗi cô bé đâu có hỏi tôi; cô bé đang hỏi Augurey đấy chứ. Chắc hẳn cô bé tin tưởng anh ấy lắm.
+Khổ nỗi cô bé đâu có hỏi tôi, cô bé đang hỏi Augurey đấy chứ. Chắc hẳn cô bé tin tưởng anh ấy lắm.
 
 Augurey mỉm cười. "Phải rồi. Còn bác lớn tuổi này thì... là một trong số đồng bọn của kẻ địch. Bọn anh còn phải hỏi bác ấy vài chuyện. Bọn anh không hề ngược đãi người già đâu nhé, được chứ?"
 
@@ -20,7 +20,7 @@ Ferrici chỉ đáp, "Em thấy hơi tội cho ông ấy, nhưng chắc các anh
 
 ◆◇◆◇◆
 
-Đáng ngạc nhiên là lúc quay về quán trọ, người chủ quán lại nồng nhiệt chào đón chúng tôi. Tôi mừng lắm; cứ đinh ninh rằng về đến nơi là thấy hành lý bị vứt chỏng chơ trước cửa, còn chủ quán thì đứng chực sẵn để đuổi chúng tôi đi. Mà nghĩ lại thì cảnh đó khéo cũng buồn cười, vì như thế nghĩa là Siren—ả vốn bị nhốt trong phòng Lorraine—cũng sẽ bị quẳng ra ngoài đường. Nhưng chắc Lorraine đã giải thích gì đó với chủ quán về ả rồi. Về mấy chuyện kiểu này thì cô ấy lúc nào cũng chu đáo.
+Đáng ngạc nhiên là lúc quay về quán trọ, người chủ quán lại nồng nhiệt chào đón chúng tôi. Tôi mừng lắm, cứ đinh ninh rằng về đến nơi là thấy hành lý bị vứt chỏng chơ trước cửa, còn chủ quán thì đứng chực sẵn để đuổi chúng tôi đi. Mà nghĩ lại thì cảnh đó khéo cũng buồn cười, vì như thế nghĩa là Siren, ả vốn bị nhốt trong phòng Lorraine, cũng sẽ bị quẳng ra ngoài đường. Nhưng chắc Lorraine đã giải thích gì đó với chủ quán về ả rồi. Về mấy chuyện kiểu này thì cô ấy lúc nào cũng chu đáo.
 
 Thực ra chúng tôi đâu có bị đuổi khỏi làng hay gì đâu, nên tôi cũng không đến mức quá lo lắng chuyện quay về thấy toàn bộ đồ đạc bị vứt ra ngoài.
 
@@ -36,7 +36,7 @@ Vừa thấy chúng tôi, ả liền cố lên tiếng, nhưng miếng giẻ nh�
 
 "Chắc chúng ta nên cởi trói cho cô ta nhỉ?" Lorraine hỏi ông lão.
 
-Lorraine có lẽ nghĩ rằng với bao nhiêu chuyện cần giải thích, cứ để ả bị trói thế này sẽ rất bất tiện. Tuy nhiên, ông lão—người mà tôi từng nghĩ thuộc kiểu biết quan tâm tới đồng đội—chỉ liếc nhìn Siren một cái rồi thở dài.
+Lorraine có lẽ nghĩ rằng với bao nhiêu chuyện cần giải thích, cứ để ả bị trói thế này sẽ rất bất tiện. Tuy nhiên, ông lão, người mà tôi từng nghĩ thuộc kiểu biết quan tâm tới đồng đội, chỉ liếc nhìn Siren một cái rồi thở dài.
 
 "Không, cứ mặc kệ con bé đó một lúc đi," ông ấy nói. "Nó sẽ chỉ cằn nhằn đến điếc cả tai chúng ta thôi. Gọi Goblin qua đây trước đi. Thằng bé hiểu chuyện nhanh hơn."
 
@@ -58,13 +58,13 @@ Goblin, kẻ mà trước đó chúng tôi biết đến dưới cái tên Yattu
 
 Dù vậy, có vẻ ông lão đã nói đúng về khả năng giữ cái đầu lạnh của Goblin, bởi sự căng thẳng nhanh chóng tan biến khỏi đôi vai hắn. Hắn chẳng hề có biểu hiện gì là định manh động. Tôi nhận thấy việc giải thích mọi chuyện cho hắn sẽ dễ dàng hơn nhiều so với Siren.
 
-"Có nhiều chuyện đã xảy ra," ông lão nói, "nhưng ta sẽ đi thẳng vào vấn đề. Ta đã thua—thua hoàn toàn—trong một trận đấu trực diện. Vậy nên phi vụ này coi như hỏng rồi."
+"Có nhiều chuyện đã xảy ra," ông lão nói, "nhưng ta sẽ đi thẳng vào vấn đề. Ta đã thua, thua hoàn toàn, trong một trận đấu trực diện. Vậy nên phi vụ này coi như hỏng rồi."
 
 Thật bất ngờ, người lộ vẻ kinh ngạc nhất lại chính là Siren. Những tiếng ú ớ liên hồi của ả im bặt, miệng ả chùng xuống rồi khép chặt lại. Có lẽ dù hay tỏ thái độ chống đối ông lão, ả vẫn đặt rất nhiều niềm tin vào sức mạnh của ông ấy. Goblin trông cũng sững sờ, như thể không tin nổi vào những gì mình vừa nghe thấy.
 
 Ông lão điềm tĩnh nói tiếp, giọng nghe như đang dạy bảo bọn họ. "Bọn họ là những quái vật thực sự. Trong đời mình, hiếm khi nào ta gặp được ai mạnh đến thế. Ta đã phát huy tối đa dị năng và chiến đấu không chút lơ là cảnh giác, nhưng vẫn thua. Chẳng làm gì khác được ngoài việc thừa nhận thất bại. Đó là cảm nghĩ thật lòng của ta."
 
-Trái ngược với lời lẽ ôn tồn của ông lão, giọng Goblin lại đầy vẻ luống cuống. "Tôi chẳng muốn tin đâu, nhưng nếu ông đã nói vậy thì... Cơ mà thế thì chúng ta sẽ ra sao đây?! Chúng ta làm hỏng nhiệm vụ rồi! Tôi biết là chưa chắc họ đã giết mình, nhưng thử nghĩ xem người thuê là ai đi! Họ nhất định sẽ bắt chúng ta trả giá bằng cách nào đó!"
+Trái ngược với lời lẽ ôn tồn của ông lão, giọng Goblin lại đầy vẻ luống cuống. "Tôi chẳng muốn tin đâu, nhưng nếu ông đã nói vậy thì... Nhưng thế thì chúng ta sẽ ra sao đây?! Chúng ta làm hỏng nhiệm vụ rồi! Tôi biết là chưa chắc họ đã giết mình, nhưng thử nghĩ xem người thuê là ai đi! Họ nhất định sẽ bắt chúng ta trả giá bằng cách nào đó!"
 
 "Đúng vậy," ông lão đáp. "Chuyện đó quả thực rất rắc rối, phải không? Nhưng ba người này đã đưa ra cho ta một đề xuất. Họ muốn gặp thủ lĩnh để đàm phán. Hơn nữa, tổ chức và người thuê chúng ta mới là bên phải chịu trách nhiệm cho thất bại này, chứ không phải chúng ta. Họ đã không cung cấp thông tin chính xác cho mình. Nếu có thể làm cho họ hiểu được điều đó, biết đâu tất cả chúng ta lại đi đến được một giải pháp hòa bình."
 
@@ -128,7 +128,7 @@ Câu cuối Goblin quay sang hỏi thẳng chúng tôi. Nhìn vẻ mặt thì c�
 
 Mãi sau, tôi mới lên tiếng, "Có nên cởi trói cho cô ta không nhỉ? Đằng nào chúng ta cũng gần như bàn xong xuôi cả rồi, chắc không sao đâu chứ?"
 
-Ông lão gật đầu. "Cởi cũng được. Nhưng ta cảnh báo trước đấy; sẽ ồn ào lắm cho xem. Các ngươi chắc chắn là chuẩn bị tinh thần rồi chứ?"
+Ông lão gật đầu. "Cởi cũng được. Nhưng ta cảnh báo trước đấy, sẽ ồn ào lắm cho xem. Các ngươi chắc chắn là chuẩn bị tinh thần rồi chứ?"
 
 "Ông nghĩ thế à?" Lorraine hỏi. "Cá nhân tôi thì thấy sẽ ổn thôi mà. Đây, để tôi làm cho."
 
@@ -144,7 +144,7 @@ Vừa nói, cả hai người họ vừa đưa tay bịt tai lại. Cảnh tư�
 
 Siren nhảy phắt xuống giường rồi sấn ngay tới trước mặt bọn họ. "Tôi có nghe đấy chứ! Hai người thực sự nghĩ mình sẽ làm trót lọt chuyện đó sao?! Bộ đã quên mất tổ chức đáng sợ đến mức nào rồi à?!"
 
-Dù vậy, ông lão và Goblin chẳng hề nao núng; họ vẫn giữ nguyên tư thế phòng thủ bịt chặt tai của mình.
+Dù vậy, ông lão và Goblin chẳng hề nao núng, họ vẫn giữ nguyên tư thế phòng thủ bịt chặt tai của mình.
 
 ![](images/ch251-02.webp)
 

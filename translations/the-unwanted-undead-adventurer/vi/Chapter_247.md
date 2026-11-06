@@ -1,12 +1,12 @@
 # Chương 247: Tập 11 Chương 1 - Tập Kích Bất Ngờ (4)
 
-Cự Nhân. Từng có thời chủng tộc của họ phát triển cực thịnh, nhưng ngày nay thì hiếm khi thấy bóng dáng. So với bây giờ, thế giới thời cổ xưa có nhiều chủng tộc hơn hẳn, lại vô cùng đa dạng.
+Cự Nhân. Từng có thời chủng tộc của họ phát triển cực thịnh vào thuở xa xưa, nhưng ngày nay thì hiếm khi thấy bóng dáng. So với bây giờ, thế giới thời cổ xưa có nhiều chủng tộc hơn hẳn, lại vô cùng đa dạng.
 
-Minh chứng rõ nhất là vô số di tích và các câu chuyện dân gian còn lưu truyền tới tận bây giờ. Có điều, phần lớn các chủng tộc đó nay đã bặt vô âm tín. Đáng tiếc là chẳng ai rõ nguyên nhân, và đây vẫn là câu hỏi làm đau đầu biết bao người, bởi không ít chủng tộc đã biến mất—chẳng hạn như Cự Nhân—từng mạnh mẽ vô song theo cách riêng của họ. Thật khó tin là họ lại cứ thế mà tuyệt chủng.
+Minh chứng rõ nhất là vô số di tích và các câu chuyện dân gian còn lưu truyền tới tận bây giờ. Có điều, phần lớn các chủng tộc đó nay đã bặt vô âm tín. Đáng tiếc là chẳng ai rõ nguyên nhân, và đây vẫn là câu hỏi làm đau đầu biết bao người, bởi không ít chủng tộc đã biến mất, chẳng hạn như Cự Nhân, từng mạnh mẽ vô song theo cách riêng của họ. Thật khó tin là họ lại cứ thế mà tuyệt chủng.
 
 Dù vậy, tình cảnh của Cự Nhân có lẽ chưa tệ đến mức đó. Suy cho cùng, nếu tin đồn là thật thì biết chỗ tìm vẫn thấy. Đương nhiên người ta chẳng thể nào tình cờ bắt gặp họ giữa phố xá, nhưng trước đây từng có người trông thấy họ ở những vùng đất hoang sơ con người khó lòng đặt chân tới, như sâu trong rừng rậm hay các vùng núi lửa nóng bỏng.
 
-Hơn nữa, nghe đâu vài chủng tộc trường thọ—như tộc Elf—vẫn còn qua lại với Cự Nhân. Chính từ những mối liên hệ đó mà rộ lên tin đồn rằng chủng tộc này vẫn còn tồn tại. Đâu đó ngoài kia trên thế giới, Cự Nhân vẫn đang sinh sống. Dù vậy, khả năng thực sự chạm mặt một người như thế này gần như bằng không. Mà trước hết...
+Hơn nữa, nghe đâu vài chủng tộc trường thọ, như tộc Elf, vẫn còn qua lại với Cự Nhân. Chính từ những mối liên hệ đó mà rộ lên tin đồn rằng chủng tộc này vẫn còn tồn tại. Đâu đó ngoài kia trên thế giới, Cự Nhân vẫn đang sinh sống. Dù vậy, khả năng thực sự chạm mặt một người như thế này gần như bằng không. Mà trước hết...
 
 "Cô có chắc hắn là Cự Nhân thật không?" tôi hỏi Lorraine.
 
@@ -22,9 +22,9 @@ Gã Cự Nhân trên người chỉ quấn độc một chiếc khố. Tôi th�
 
 Chợt nảy ra một ý, tôi đưa mắt nhìn cánh tay mình chém bị thương ban nãy. Nó vẫn được băng bó chặt chẽ hệt như lúc ông lão còn ở kích thước người thường, nghĩa là những dải băng cũng to lên theo. Điều đó càng củng cố thêm suy đoán của tôi rằng bản thân chất vải hắn dùng có điểm gì đó rất đặc biệt.
 
-Hắn cũng có thể cứ để cánh tay nhỏ nguyên rồi khổng lồ hóa phần cơ thể còn lại, nhưng chẳng hiểu sao tưởng tượng ra cảnh đó trong đầu tôi cứ thấy sai sai thế nào ấy—dù suy nghĩ cá nhân của tôi thì có quan trọng gì đâu. Chưa kể chọn làm vậy sẽ khiến hắn khó giữ thăng bằng hơn, rõ ràng không phải quyết định khôn ngoan.
+Hắn cũng có thể cứ để cánh tay nhỏ nguyên rồi khổng lồ hóa phần cơ thể còn lại, nhưng chẳng hiểu sao tưởng tượng ra cảnh đó trong đầu tôi cứ thấy sai sai thế nào ấy, dù suy nghĩ cá nhân của tôi thì có quan trọng gì đâu. Chưa kể chọn làm vậy sẽ khiến hắn khó giữ thăng bằng hơn, rõ ràng không phải quyết định khôn ngoan.
 
-Gạt chuyện đó sang một bên, giờ chúng tôi phải đánh với hắn thế nào đây? Bảo tôi quen đối đầu với những kẻ địch to xác thì hơi quá lời, nhưng tôi quả thực có kinh nghiệm chạm trán Khô Lâu Khổng Lồ và Tarasque—những con quái vật lớn hơn tôi rất nhiều. Thế nên chỉ riêng kích thước chưa đủ làm tôi chùn bước. Có điều, lũ quái vật kia đều có điểm yếu rõ ràng, và khi bước vào những trận đấu đó tôi nắm lợi thế không nhỏ. Đem chúng ra so với đối thủ hiện tại thì thật ngớ ngẩn hết chỗ nói.
+Gạt chuyện đó sang một bên, giờ chúng tôi phải đánh với hắn thế nào đây? Bảo tôi quen đối đầu với những kẻ địch to xác thì hơi quá lời, nhưng tôi quả thực có kinh nghiệm chạm trán Khô Lâu Khổng Lồ và Tarasque, những con quái vật lớn hơn tôi rất nhiều. Thế nên chỉ riêng kích thước chưa đủ làm tôi chùn bước. Có điều, lũ quái vật kia đều có điểm yếu rõ ràng, và khi bước vào những trận đấu đó tôi nắm lợi thế không nhỏ. Đem chúng ra so với đối thủ hiện tại thì thật ngớ ngẩn hết chỗ nói.
 
 Muốn thắng một trận đấu nói thì dễ, làm mới khó. Ngay từ đầu, lúc ông lão còn ở kích thước người thường, những nhát kiếm thông thường đã chẳng ăn thua gì với hắn. Có lẽ một nhát chém dồn hết Khí Lực cũng giải quyết được việc, nhưng tôi đã dùng thẳng tới Ma Khí Dung Hợp Thuật.
 
@@ -54,9 +54,9 @@ Tiếng giẫm của gã Cự Nhân vang rền khắp xung quanh.
 
 Cú giẫm của gã Cự Nhân nhanh đến vô lý và bao phủ cả một khoảng đất rộng. Dù vậy tôi vẫn ổn, chưa bị nghiền nát bấy. Mà kể cả có bị nghiền nát thì đây cũng là tôi cơ mà. Cỡ đó tôi vẫn bật dậy ngon lành được kha khá lần. Làm Cự Nhân đúng là nắm lợi thế quá bất công khi giao chiến, nhưng tôi là kẻ ít có tư cách chỉ trỏ phàn nàn nhất—người thường bị nghiền bẹp một phát là coi như xong đời. Có điều tôi không thể chủ quan được. Tôi mới chỉ né được một đòn thôi.
 
-"Né được cơ à? Thế thì đỡ chiêu này xem?!" Gã Cự Nhân già bắt đầu giẫm đạp liên tiếp về phía tôi. Bực một nỗi là hắn không hề giậm chân loạn xạ như đứa trẻ con ăn vạ. Hắn vừa chăm chú quan sát tôi, vừa nhắm thẳng vào chỗ tôi đứng—cũng như hướng hắn đoán tôi sẽ chạy tới—với độ chuẩn xác rợn người.
+"Né được cơ à? Thế thì đỡ chiêu này xem?!" Gã Cự Nhân già bắt đầu giẫm đạp liên tiếp về phía tôi. Bực một nỗi là hắn không hề giậm chân loạn xạ như đứa trẻ con ăn vạ. Hắn vừa chăm chú quan sát tôi, vừa nhắm thẳng vào chỗ tôi đứng lẫn hướng hắn đoán tôi sẽ chạy tới với độ chuẩn xác rợn người.
 
-Quái vật to xác mà có trí khôn lúc nào cũng đáng sợ, nhưng gã Cự Nhân già này còn vượt xa mức đó, bởi xét về mọi mặt thì hắn là một con người thực thụ—lại còn là một tay lão luyện dày dạn kinh nghiệm. Con người dù nhỏ bé hơn quái vật rất nhiều, nhưng chúng tôi vẫn sinh tồn được trong thế giới này nhờ trí tuệ vượt trội hơn hẳn. Ấy thế mà gã Cự Nhân già này, với tầm vóc và sức mạnh ngang ngửa hoặc thậm chí hơn cả quái vật, lại thông minh chẳng kém gì một con người. Nói hắn "nguy hiểm" vẫn còn quá nhẹ, nhưng không vì thế mà tôi chịu buông xuôi.
+Quái vật to xác mà có trí khôn lúc nào cũng đáng sợ, nhưng gã Cự Nhân già này còn vượt xa mức đó, bởi xét về mọi mặt thì hắn là một con người thực thụ, lại còn là một tay lão luyện dày dạn kinh nghiệm. Con người dù nhỏ bé hơn quái vật rất nhiều, nhưng chúng tôi vẫn sinh tồn được trong thế giới này nhờ trí tuệ vượt trội hơn hẳn. Ấy thế mà gã Cự Nhân già này, với tầm vóc và sức mạnh ngang ngửa hoặc thậm chí hơn cả quái vật, lại thông minh chẳng kém gì một con người. Nói hắn "nguy hiểm" vẫn còn quá nhẹ, nhưng không vì thế mà tôi chịu buông xuôi.
 
 RẦM!
 
@@ -88,7 +88,7 @@ Bảo tôi sợ bị hắn tóm thì là nói dối. Tôi gom hết lượng Kh�
 
 "Glacies Cometes!"
 
-Một khối cầu băng khổng lồ từ bên sườn bay vút về phía gã Cự Nhân già. Dù chẳng thể nào to bằng hắn—chỉ cỡ một phần ba—nhưng thế cũng đủ ấn tượng lắm rồi. Phải là một ma pháp sư có lượng Ma Lực rất lớn mới tạo ra nổi thứ như thế.
+Một khối cầu băng khổng lồ từ bên sườn bay vút về phía gã Cự Nhân già. Dù chẳng thể nào to bằng hắn, chỉ cỡ một phần ba thôi, nhưng thế cũng đủ ấn tượng lắm rồi. Phải là một ma pháp sư có lượng Ma Lực rất lớn mới tạo ra nổi thứ như thế.
 
 Dù gã Cự Nhân già có khỏe đến đâu hay phản xạ nhanh thế nào, né một tảng băng đồ sộ thình lình xuất hiện từ hư không vẫn là điều quá khó với bất kỳ ai. Khối băng đâm sầm vào người, hất hắn lảo đảo ngã dúi dụi.
 
@@ -106,7 +106,7 @@ Như đã nói từ trước, đôi cánh của tôi rất khó điều khiển,
 
 "Hự!"
 
-Cú tiếp đất vụng về—nói đúng hơn là cú va sầm xuống đất—làm tôi buột ra một tiếng rên kỳ quặc. Tôi đứng bật dậy ngay và lao về phía khoảnh rừng xung quanh mà gã Cự Nhân già chưa kịp tàn phá. Chúng tôi đang ở gần làng, nghĩa là dân làng vẫn hay qua lại khu rừng này, nên khoảng cách giữa các thân cây đủ thoáng để di chuyển, và khi vào sâu bên trong cũng không quá khó để xác định phương hướng.
+Cú tiếp đất vụng về, nói đúng hơn là cú va sầm xuống đất, làm tôi buột ra một tiếng rên kỳ quặc. Tôi đứng bật dậy ngay và lao về phía khoảnh rừng xung quanh mà gã Cự Nhân già chưa kịp tàn phá. Chúng tôi đang ở gần làng, nghĩa là dân làng vẫn hay qua lại khu rừng này, nên khoảng cách giữa các thân cây đủ thoáng để di chuyển, và khi vào sâu bên trong cũng không quá khó để xác định phương hướng.
 
 Nhưng với gã Cự Nhân già thì lại là chuyện khác. Hắn cao vượt cả ngọn cây. Từ góc nhìn của hắn, bên dưới chỉ như một biển lá cây. Hắn sẽ khó lòng tìm ra chúng tôi bên dưới tán lá đó.
 
@@ -114,7 +114,7 @@ Gã Cự Nhân già vừa khỏe vừa nhanh đến mức tưởng như bất kh
 
 "Khôn đấy! Nhưng ta vẫn thấy ngươi!"
 
-Gã Cự Nhân già bắt đầu vung tay quét về hướng tôi đang chạy. Cơ mà có vẻ hắn chẳng nhìn rõ được tôi như miệng tuyên bố, vì hắn nhắm trượt nhiều hơn hẳn lúc trước. Dù vậy, đòn đánh của hắn vốn có tầm quét quá rộng, nên không ít cú vung tay sượt qua sát nút hơn mức tôi mong muốn.
+Gã Cự Nhân già bắt đầu vung tay quét về hướng tôi đang chạy. Có điều xem chừng hắn chẳng nhìn rõ được tôi như miệng nói, vì hắn nhắm trượt nhiều hơn hẳn lúc trước. Dù vậy, đòn đánh của hắn vốn có tầm quét quá rộng, nên không ít cú vung tay sượt qua sát nút hơn mức tôi mong muốn.
 
 Trong lúc vừa chạy vừa tính xem nên làm gì tiếp theo, tôi chợt thoáng thấy bóng Augurey ở bên sườn.
 
