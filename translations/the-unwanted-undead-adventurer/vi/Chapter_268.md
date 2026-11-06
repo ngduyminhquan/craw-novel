@@ -1,137 +1,137 @@
 # Chương 268: Ngoại truyện Tập 11 - Từ Một Góc Nhìn Khác
 
-"Đổi gió nhận một ủy thác hộ tống nhé, Rentt?"
+"Thỉnh thoảng đổi gió nhận một chuyến hộ tống xem sao, Rentt?"
 
-Một ngày nọ, hồi Augurey vẫn còn ở Maalt, anh ấy đến rủ tôi cùng làm một ủy thác—chuyện đó vốn dĩ chẳng có gì hiếm hoi. Dẫu không phải ngày nào cũng diễn ra, nhưng chúng tôi đủ thân thiết để có thể bắt tay hợp tác mỗi khi có hứng.
+Hồi Augurey còn ở Maalt, có bận anh ấy ghé rủ tôi làm chung một ủy thác. Thật ra chuyện này cũng chẳng có gì lạ. Tuy không đến mức ngày nào cũng đi chung, nhưng hai chúng tôi đủ thân để hễ nổi hứng là lại bắt cặp làm cùng.
 
-Tôi vốn nổi danh là kẻ chuyên hành động đơn độc, nên hiếm khi có ai rủ tôi làm ủy thác chung, và thi thoảng tôi lại thấy chạnh lòng vì điều đó. Vào những lúc như vậy, tôi rất biết ơn những người như Augurey, những người luôn ghé qua rủ rê mà chẳng chút e dè. Dù vậy...
+Tôi vốn mang tiếng là mạo hiểm giả độc hành nên hiếm khi được ai rủ đi làm chung, thi thoảng nghĩ đến cũng thấy hơi chạnh lòng. Những lúc ấy, tôi lại thấy quý những người cứ vô tư ghé rủ chẳng chút giữ kẽ như Augurey. Có điều...
 
-"Ủy thác hộ tống sao?" tôi hỏi. "Còn phải xem thân chủ là ai đã."
+"Hộ tống à?" tôi hỏi. "Còn tùy thân chủ là ai đã."
 
-Nếu đó là một quý tộc hống hách hay một thương nhân nghĩ rằng trả tiền là có quyền sai bảo chúng tôi như người hầu kẻ hạ, thì tôi chẳng muốn dính dáng vào. Tôi biết những người như vậy là cần thiết để Hội có thể vận hành, nhưng điều đó không có nghĩa là tôi không được phép chọn lọc công việc mình nhận. Mọi chuyện có thể đã khác nếu tôi túng quẫn vì tiền, nhưng tôi không có thói quen phung phí đó, và hiện tại cũng chẳng có việc gì khiến tôi phải móc cạn hầu bao.
+Nếu là mấy quý tộc hống hách hay hạng thương nhân cậy mình bỏ tiền ra là có quyền coi mạo hiểm giả như nô lệ thì tôi xin kiếu. Tôi biết không có những khách hàng như vậy thì Hội khó lòng vận hành, nhưng đâu có nghĩa là tôi không được phép kén chọn việc. Nếu đang túng tiền thì câu chuyện đã khác, đằng này tôi lại chẳng mắc cái tật hám tiền đó, vả lại dạo này cũng chẳng có việc gì bắt tôi phải dốc cạn hầu bao.
 
-"Là một đứa trẻ," Augurey nói. "Nghe đâu thằng bé hơi... khác biệt so với bạn bè đồng trang lứa một chút, nhưng tất cả những gì chúng ta cần làm chỉ là đưa nó đến thị trấn kế bên. Chẳng mấy chốc là xong xuôi công việc thôi."
+"Chỉ là một đứa nhóc thôi," Augurey nói. "Nghe bảo thằng bé hơi... khác so với bạn bè cùng lứa một chút, nhưng việc của mình chỉ là đưa nó sang thị trấn bên cạnh thôi. Chớp mắt cái là xong việc ấy mà."
 
-"Một đứa trẻ thôi ư? Thằng bé đi một mình à?"
+"Một đứa nhóc thôi á? Nó đi một mình à?"
 
-"Đúng thế. Chúng ta sẽ đưa thằng bé về với cha mẹ nó."
+"Chuẩn luôn. Mình sẽ đưa nó về với bố mẹ."
 
-"Sao họ lại phải tách nhau ra?" tôi hồ nghi hỏi.
+"Sao thằng bé lại phải ở riêng với bố mẹ?" tôi gặng hỏi đầy vẻ nghi hoặc.
 
-Augurey nhanh nhảu đáp. "Cậu còn nhớ trận giông bão dữ dội gần đây chứ? Tôi đoán thị trấn của thằng bé bị thiệt hại kha khá trong trận bão đó, hoặc đại loại thế, nên cha mẹ nó mới gửi nó lại cho họ hàng ở Maalt một thời gian trong lúc khắc phục hậu quả."
+Augurey đáp ngay tắp lự: "Cậu nhớ trận giông bão dữ dội đợt vừa rồi chứ? Hình như thị trấn bên đó bị thiệt hại kha khá sau bão, hoặc đại loại thế, nên bố mẹ mới gửi thằng bé cho họ hàng ở Maalt một dạo trong lúc khắc phục hậu quả."
 
-"Nghe cũng hợp lý. Nếu vậy thì tôi thấy ủy thác này chẳng có gì đáng ngờ cả..." Tôi suy nghĩ một thoáng. "Được rồi, nhận thôi."
+"Nghe cũng có lý. Thế thì ủy thác này chẳng có gì đáng ngờ cả..." Tôi ngẫm nghĩ một thoáng. "Được rồi, nhận đi."
 
-"Tuyệt vời! Vậy hẹn cậu hai ngày nữa nhé!"
+"Tuyệt quá! Vậy hẹn cậu hai ngày nữa nhé!"
 
 "Ừ, hẹn gặp lại."
 
 ◆◇◆◇◆
 
-"Này! Mấy người nghĩ bây giờ là mấy giờ rồi hả?! Muộn rồi đấy!" một bóng dáng nhỏ bé đang đứng khoanh tay tại bến đỗ xe kéo cất tiếng quát lớn.
+"Này! Mấy người có biết bây giờ là mấy giờ rồi không hả?! Đến muộn rồi đấy!" một bóng người nhỏ thó đang đứng khoanh tay ở bến đỗ xe kéo quát tướng lên.
 
-"Đừng nói thằng nhóc đó là thân chủ của chúng ta đấy nhé?" tôi lẩm bẩm với Augurey.
+"Đừng bảo thằng nhóc kia là thân chủ của mình đấy nhé?" tôi lẩm bẩm với Augurey.
 
-Anh ấy nở nụ cười áy náy. "Chính nó đấy. Cậu nhớ lúc tôi bảo thằng bé hơi khác biệt chứ? Nó chỉ hơi bướng bỉnh một chút thôi. Cơ mà chỉ có thế thôi. Thật đấy."
+Anh ấy cười trừ áy náy. "Đúng nó rồi. Cậu nhớ lúc tôi bảo thằng bé hơi khác người không? Nó chỉ hơi xấc xược một tí thôi. Nhưng ngoài chuyện đó ra thì chẳng có gì đâu. Thật đấy."
 
-Tôi không bỏ lỡ việc ánh mắt của Augurey bắt đầu đảo qua đảo lại đầy lấm lét, và một dự cảm chẳng lành nhen nhóm trong lòng tôi.
+Tôi chẳng lạ gì ánh mắt đảo quanh đầy chột dạ ấy của Augurey, và trong lòng bắt đầu dấy lên một linh cảm chẳng lành.
 
-"Augurey..." tôi mở lời.
+"Augurey..." tôi vừa cất tiếng.
 
-"Thôi nào, sẽ ổn cả thôi mà. Chắc thế. Với lại thù lao hậu hĩnh lắm đấy."
+"Kìa, thôi nào, sẽ ổn cả thôi mà. Chắc vậy. Vả lại thù lao hời lắm đấy."
 
-"Thù lao hậu hĩnh chỉ càng làm tôi nghi ngờ thêm thôi." Tôi thở dài. "Nhưng chúng ta đã nhận việc rồi, giờ chẳng còn đường lui nữa. Xem ra dù có chuyện gì thì tôi cũng đành cắn răng chịu đựng vậy."
+"Thù lao càng hời thì tôi lại càng thấy ngờ vực." Tôi thở dài. "Nhưng trót nhận việc rồi thì hết đường lui. Coi như có gặp chuyện gì tôi cũng đành cắn răng mà chịu vậy."
 
-"Đó mới đúng là Rentt mà tôi biết chứ." Augurey quay sang đối mặt với cậu bé đang bước lại gần chúng tôi. "Này! Đằng này! Nhóc là, ừm..."
+"Đó mới đúng là Rentt mà tôi biết chứ." Augurey quay sang đón đứa nhóc đang tiến lại gần. "Này! Đằng này! Nhóc là, ừm..."
 
 "Vitez! Vitez Normorte!"
 
-"Vitez, nhớ rồi. Nhóc còn nhớ tôi từ lần gặp đầu tiên chứ nhỉ? Còn đây là Rentt Faina, một mạo hiểm giả khác. Hai chúng tôi sẽ là hộ vệ của nhóc trong chuyến đi này."
+"Vitez, nhớ rồi nhé. Nhóc vẫn nhớ tôi từ lần gặp trước chứ? Còn đây là Rentt Faina, cũng là mạo hiểm giả. Hai bọn tôi sẽ bảo vệ nhóc suốt chuyến đi này."
 
-Vitez nhìn chúng tôi với vẻ đầy hoài nghi. "Chỉ có hai người thôi á? Chẳng biết có tin được không nữa..."
+Vitez nhìn chúng tôi đầy vẻ hoài nghi. "Có mỗi hai người thôi á? Chẳng biết có ăn thua không nữa..."
 
-"Bọn tôi trông vậy nhưng thạo việc hơn vẻ ngoài nhiều đấy. Cả hai đều là Đồng Cấp cả mà. Nếu chỉ tới thị trấn kế bên thì bọn tôi lo được tất."
+"Bọn tôi trông thế này thôi chứ thạo việc hơn vẻ ngoài nhiều đấy. Cả hai đều là Đồng Cấp cả mà. Chỉ sang thị trấn bên cạnh thì cứ yên tâm, bọn tôi lo được tất."
 
-"Thế à? Được rồi. Tôi sẽ chợp mắt trong toa xe, còn lại nhờ cả vào hai người đấy."
+"Thế à? Vậy cũng được. Tôi vào trong xe chợp mắt một giấc đây, còn lại nhờ cả vào hai người đấy."
 
-"Được thôi."
+"Cứ tự nhiên."
 
-Vitez rời khỏi chúng tôi rồi nhảy thoăn thoắt lên toa xe.
+Vitez dứt lời rồi nhảy tót lên thùng xe.
 
-Dõi mắt nhìn theo cậu bé, tôi nói, "Vậy chúng ta sẽ thay phiên nhau cầm dây cương và cảnh giới chứ?"
+Nhìn theo thằng bé, tôi bảo: "Thế mình cứ luân phiên một người cầm cương, một người cảnh giới nhỉ?"
 
-"Trừ phi cậu có ý kiến nào hay hơn."
+"Trừ phi cậu tính được cách nào hay hơn."
 
-"Không. Bắt tay vào việc thôi."
+"Không có. Bắt tay vào việc thôi."
 
 ◆◇◆◇◆
 
-"Chuyện này là thế nào đây?" tôi hỏi.
+"Rốt cuộc vụ này là sao đây?" tôi hỏi.
 
-"Đừng nhìn tôi," Augurey đáp. "Tôi cũng chịu chẳng biết gì đâu."
+"Đừng có nhìn tôi," Augurey đáp. "Tôi cũng chịu, có biết mô tê gì đâu."
 
-Chúng tôi lúc này đang quan sát khoảng chục tên thổ phỉ đã bao vây cỗ xe của mình. Việc thổ phỉ hoành hành trên đường sá dĩ nhiên chẳng phải chuyện hiếm, nhưng vấn đề là những kẻ chúng tôi chạm trán dường như có tổ chức. Nói ngắn gọn thì có cảm giác như ai đó đã thuê bọn chúng.
+Trước mắt chúng tôi lúc này là khoảng chục tên thổ phỉ đang quây kín cỗ xe. Cướp bóc hoành hành chặn đường thì dĩ nhiên chẳng lạ gì, hiềm nỗi đám này trông có vẻ bài bản, quy củ. Tóm lại, cảm giác như có ai đó đã thuê đứt bọn chúng vậy.
 
-"Dù thế nào đi nữa thì chúng ta cũng không tránh khỏi một trận giao tranh rồi," Augurey nói. "Ít nhất trông bọn chúng không quá mạnh."
+"Dù thế nào thì cũng chẳng tránh khỏi một trận đánh nhau rồi," Augurey nói. "Được cái trông lũ này cũng không mạnh lắm."
 
-"Hy vọng là anh nói đúng." Tôi thở dài. "Tôi sẽ lên. Anh để mắt tới Vitez nhé."
+"Mong là anh đoán đúng." Tôi thở dài. "Để tôi lên cho. Anh ở lại trông chừng Vitez nhé."
 
-"Rõ rồi. Vitez! Cứ ở yên trong toa xe đấy nhé?!"
+"Rõ rồi. Vitez! Ở yên trong xe đấy nhé?!"
 
-Tôi lao nhanh về phía lũ thổ phỉ. Sau vài hiệp giao chiêu ngắn ngủi, tôi nhận ra Augurey đã nói đúng—nếu từng là mạo hiểm giả, chẳng tên nào trong số chúng mạnh hơn Thiết Cấp. Có lẽ trước đây bọn chúng từng là mạo hiểm giả thật. Chuyện những kẻ ở cấp độ đó nản lòng vì dậm chân tại chỗ rồi rẽ sang những ngả đường tăm tối hơn để kiếm tiền vốn là điều thường thấy.
+Tôi lao thẳng về phía lũ thổ phỉ. Chỉ qua vài chiêu qua lại chớp nhoáng, tôi nhận ra Augurey nói không sai: nếu từng làm mạo hiểm giả, chẳng tên nào trong số chúng mạnh hơn Thiết Cấp. Mà khéo trước đây bọn chúng từng làm mạo hiểm giả thật. Ở cấp độ đó, chuyện người ta nản lòng vì mãi không tiến bộ rồi sa vào những ngả đường tăm tối kiếm ăn vốn chẳng còn xa lạ gì.
 
-Một phần trong tôi cũng thấy đôi chút đồng cảm—điều tương tự hoàn toàn có thể xảy đến với tôi vào một ngày nào đó—nhưng điều đó không có nghĩa là tôi sẽ nương tay với bọn chúng. Tôi hạ gục từng tên một, nhưng ngay khi chuẩn bị xử lý tên cuối cùng...
+Nghĩ bụng tôi cũng thấy hơi chạnh lòng, bởi biết đâu một ngày nào đó chính mình cũng rơi vào cảnh ngộ tương tự. Dẫu vậy, không đời nào tôi nương tay với bọn chúng. Tôi lần lượt hạ từng tên một, nhưng đúng lúc chuẩn bị xử lý nốt tên cuối cùng...
 
 ĐOÀNG!
 
-Hắn bị một tia sét giáng thẳng xuống người.
+Một tia sét từ trên trời giáng thẳng xuống đầu hắn.
 
-"Cái quái gì thế?!" tôi thốt lên.
+"Cái quái gì thế này?!" tôi buột miệng thốt lên.
 
-Bầu trời nãy giờ vốn trong xanh suốt cả ngày, giờ đây đã phủ kín những đám mây dông. Sấm sét liên tục giáng xuống xung quanh chúng tôi, nhưng điều kỳ lạ nhất là nó dường như né tránh khu vực quanh cỗ xe. Tôi chạy lại chỗ Augurey.
+Bầu trời vốn trong xanh từ sáng bỗng chốc vần vũ mây dông. Sét đánh liên hồi xuống xung quanh, nhưng quái lạ nhất là dường như mọi tia sét đều chừa lại khu vực quanh cỗ xe. Tôi vội chạy lại chỗ Augurey.
 
-"Chuyện gì đang xảy ra thế này?!" tôi hỏi. "Đây là điều anh giấu tôi đấy à?!"
+"Rốt cuộc có chuyện gì thế này?!" tôi hỏi. "Đây là thứ anh giấu tôi đấy à?!"
 
-"Chuyện là..." Augurey ngập ngừng. "Được rồi, đúng thế. Cậu thấy đấy, Vitez có một dị năng hơi kỳ lạ. Thằng bé sẽ triệu hồi giông bão mỗi khi bị kích động."
+"Ờ thì..." Augurey ngập ngừng một nhịp. "Được rồi, đúng là thế. Số là Vitez có một dị năng hơi kỳ quặc: thằng bé cứ hễ hoảng loạn là lại gọi giông bão kéo tới."
 
-"Vậy ra đây là do thằng bé làm sao?" Tôi quay sang cậu bé được nhắc tới. "Này, Vitez."
+"Hóa ra trò này là do thằng bé làm à?" Tôi quay sang nhìn thủ phạm. "Này. Vitez."
 
-"G-G-Gì cơ?!" Vitez vừa khóc vừa tỏ vẻ kinh hãi tột cùng. "Bọn cướp sao rồi?! Bọn chúng đi hết rồi à?!"
+"C-C-Cái gì cơ?!" Thằng bé vừa mếu máo vừa lộ rõ vẻ hoảng sợ tột độ. "Bọn cướp sao rồi?! Bọn chúng chạy sạch chưa?!"
 
-"Ừ, bọn chúng đi sạch cả rồi," tôi dịu giọng nói. "Cứ bình tĩnh lại đi, được chứ? Nhóc thấy đấy, với một cơn bão như thế thì dẫu đối đầu với cả trăm tên cướp bọn tôi cũng chẳng hề hấn gì đâu."
+"Ừ, dẹp sạch cả rồi," tôi nhẹ giọng dỗ dành. "Bình tĩnh lại đi nào. Bão cỡ này thì kể cả có một trăm tên cướp kéo tới bọn tôi cũng chẳng ngán đâu."
 
-"T-Thật ư? Bọn chúng đi thật rồi sao?! Ơ-Ơn trời..."
+"T-Thật ạ? Bọn chúng đi thật rồi sao?! Ơ-Ơn trời..."
 
-Tiếng sấm chớp bắt đầu dần dần tan biến. Sau khi tất cả chúng tôi đã thở phào lấy lại bình tĩnh đôi chút, Vitez bắt đầu cất lời.
+Tiếng sấm chớp rền vang dần dần lắng xuống. Chờ cho mọi người thở phào lấy lại bình tĩnh đôi chút, Vitez mới lí nhí cất lời.
 
-"Em... không nên ở gần cha mẹ," cậu bé nói. "Hai anh thấy em vừa làm gì rồi đấy. Em có thể khiến họ bị thương."
+"Em... không nên ở gần bố mẹ," cậu bé nói. "Hai anh cũng thấy em vừa làm gì rồi đấy. Em có thể làm họ bị thương mất."
 
-"Tôi không nghĩ đến mức đấy đâu," tôi bảo. "Dù sao thì sấm sét dường như cũng tránh khu vực xung quanh nhóc mà. Trước đây nhóc đã từng gây thiệt hại cho thị trấn của mình vì nó chưa?"
+"Chưa đến mức nghiêm trọng thế đâu," tôi bảo. "Dù sao thì sét cũng chừa khu vực quanh nhóc ra đấy thôi. Trước đây nhóc từng gây họa cho thị trấn của mình lần nào chưa?"
 
-Vitez tỏ vẻ ngạc nhiên, như thể không ngờ tôi lại hỏi câu đó. "Bản thân thị trấn thì chưa ạ," cậu bé nói, "nhưng em từng vô tình triệu hồi mây dông bao quanh nơi đó."
+Vitez ngơ ngác nhìn tôi, dường như không ngờ tôi lại hỏi câu đó. "Trong thị trấn thì chưa ạ," cậu bé đáp, "nhưng em từng lỡ gọi mây dông kéo về quanh vùng."
 
-"Đó là trận bão lớn đợt vừa rồi đúng không?"
+"Chính là trận bão lớn đợt vừa rồi đúng không?"
 
 "Vâng ạ..."
 
-"Vậy thì đừng bận tâm nữa."
+"Thế thì việc gì phải lo."
 
-"Hở?"
+"Dạ?"
 
-"Nhóc sẽ không triệu hồi chúng nếu không bị kích động thôi đúng chứ? Có lẽ cũng đáng để tập luyện một cách nào đó để khống chế nó đấy." Tôi ngẫm nghĩ một thoáng rồi lầm bầm, "Nói thật lòng thì tôi cũng ước gì mình có được sức mạnh như của nhóc..."
+"Chỉ cần nhóc không hoảng lên thì mây bão đâu có kéo tới, đúng không? Với lại nhóc cũng có thể tập cách kiểm soát nó mà." Tôi ngẫm nghĩ một chốc rồi càu nhàu: "Nói thật là tôi còn thèm có được năng lực như nhóc ấy chứ..."
 
-Vitez nhìn tôi với vẻ không thể tin nổi, như thể việc tôi chẳng hề thấy bận tâm đã làm cậu bé sững sờ. Dường như một gánh nặng vừa được trút bỏ khỏi đôi vai cậu bé. "Anh này bị làm sao thế ạ?" cậu bé hỏi Augurey.
+Vitez trố mắt nhìn tôi như không tin nổi vào tai mình, ngỡ ngàng trước thái độ dửng dưng của tôi. Trút được gánh nặng trong lòng, cậu bé quay sang hỏi Augurey: "Anh này bị làm sao thế ạ?"
 
-"Cậu ta lúc nào cũng than thở mình chẳng có chút tài năng nào, nên ghen tị với nhóc đấy mà," Augurey đáp. "Tính nết Rentt xưa nay vốn vậy."
+"Cậu ta lúc nào cũng than thở mình chẳng có tí tài năng nào, nên đâm ra ghen tị với nhóc đấy mà," Augurey cười đáp. "Tính nết Rentt xưa nay vốn thế."
 
-"Ghen tị... với em á?" Vitez khẽ bật cười. "Buồn cười thật đấy. Dù vậy, tìm cách khống chế nó à? Có lẽ em sẽ thử xem sao."
+"Ghen tị... với em á?" Vitez bật cười khúc khích. "Buồn cười thật đấy chứ. Nhưng mà tìm cách kiểm soát nó à? Có khi em sẽ thử xem sao."
 
-"Thế mới được chứ," Augurey nói. "Nếu có chuyện gì xảy ra, cứ liên lạc với bọn tôi. Bọn tôi sẽ giúp trong khả năng có thể."
+"Thế mới được chứ," Augurey nói. "Hễ có chuyện gì cứ nhắn cho bọn tôi. Bọn tôi sẽ giúp hết sức."
 
-"Anh ấy nói phải đấy," tôi bảo. "Cứ thoải mái đến tìm bọn tôi bất cứ khi nào."
+"Anh ấy nói đúng đấy," tôi góp lời. "Cứ tìm bọn tôi bất cứ khi nào cần nhé."
 
-Vitez nhìn qua nhìn lại giữa hai chúng tôi. "Em cảm ơn hai anh."
+Vitez đưa mắt nhìn cả hai chúng tôi. "Em cảm ơn hai anh."
 
-Sau đó, chúng tôi hộ tống Vitez về tận nhà dưới vòm trời trong xanh vời vợi.
+Đoạn đường còn lại, chúng tôi hộ tống Vitez về tận nhà dưới vòm trời quang đãng.
 
-Trong những năm tháng sau đó, những đám mây dông không bao giờ trở nên dữ dội như thế nữa, nên chúng tôi biết chắc hẳn Vitez đã học được cách khống chế dị năng của mình.
+Nhiều năm sau đó, mây dông không còn nổi lên dữ dội lần nào nữa. Chúng tôi biết chắc hẳn Vitez đã học được cách kiểm soát dị năng của mình.
