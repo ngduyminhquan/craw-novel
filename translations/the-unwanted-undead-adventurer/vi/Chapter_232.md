@@ -1,141 +1,141 @@
 # Chương 232: Tập 10 Chương 3 - Công Việc Cùng Augurey (2)
 
-Dĩ nhiên, ngay cả ở vương đô thì khu vực bên ngoài những bức tường thành đồ sộ bao quanh thành phố cũng là một vùng hoang dã rộng lớn. Các hiệp sĩ vương quốc và mạo hiểm giả vẫn thường xuyên tiến hành tiễu trừ quái vật ở khu vực lân cận, vì vậy những cá thể còn sót lại đa phần chỉ là lũ quái vật yếu ớt nhất mới sinh ra rải rác, nhưng ở gần thành phố cũng không đồng nghĩa với việc người ta được đảm bảo an toàn. Chỉ cần di chuyển cách thành phố chừng nửa ngày đường, người ta đã đặt chân vào vùng đất hoàn toàn hoang sơ hiểm trở rồi.
+Hiển nhiên, ngay cả ở vương đô thì cứ bước qua những bức tường thành đồ sộ bao quanh là cả một vùng hoang dã bạt ngàn. Dù hiệp sĩ vương quốc và giới mạo hiểm giả vẫn đều đặn tiễu trừ quái vật ở khu vực sát vách, khiến lũ còn sót lại đa phần chỉ là mấy đám quái yếu ớt nhất mới xuất hiện thành từng nhóm nhỏ, nhưng ở gần thành phố không có nghĩa là an toàn tuyệt đối. Chỉ cần đi cách thành phố chừng nửa ngày đường, người ta đã lọt vào vùng đất hoàn toàn hoang vu chưa từng được khai phá.
 
-"Rentt! Chúng tới kìa!"
+"Rentt! Nó lao tới kìa!"
 
-"Rõ rồi!"
+"Thấy rồi!"
 
-Tôi vốn đã nhận ra sự hiện diện đang lao tới trước khi Augurey lên tiếng cảnh báo, liền xoay người đối mặt và thủ thế thanh kiếm. Trước mắt tôi là một con quái vật da xanh dong dỏng cao và to lớn hơn bình thường đôi chút, tay lăm lăm thứ vũ khí chế tác thô sơ đang hung hăng lao thẳng về phía tôi.
+Tôi vốn đã cảm nhận được luồng khí tức đang áp sát trước khi Augurey lên tiếng cảnh báo, liền xoay người lại, rút kiếm vào thế. Đập vào mắt tôi là một con quái vật da xanh dong dỏng cao, to con hơn Goblin thường đôi chút, tay lăm lăm món vũ khí thô sơ hung hăng lao thẳng về phía tôi.
 
-Đó là loài quái vật mang tên Hobgoblin, to lớn hơn Goblin và có vóc dáng với tỷ lệ cơ thể gần với con người hơn. Người ta suy đoán rằng chúng tiến hóa từ Goblin thông thường, nhưng chẳng ai dám chắc chắn điều đó bởi việc tận mắt chứng kiến quái vật tiến hóa là vô cùng hiếm hoi.
+Đó là loài quái vật tên Hobgoblin, to xác hơn Goblin và có tỉ lệ vóc dáng gần với người hơn. Người ta đồn đoán chúng tiến hóa từ Goblin thường, nhưng chẳng ai dám khẳng định chắc chắn vì việc tận mắt thấy quái vật tiến hóa vốn cực kỳ hiếm.
 
-Trường hợp của tôi thì bản thân đã đích thân trải nghiệm điều đó, dẫu vậy tôi từng được bảo rằng mình sẽ tiến hóa thành Ma Cà Rồng sau khi là Ngạ Quỷ, để rồi rốt cuộc lại biến thành một thứ hoàn toàn khác. Các học thuyết tiến hóa của giới học giả cũng chẳng phải không có lỗ hổng. Chẳng hạn như loài Puchi Suri có rất nhiều nhánh tiến hóa khác nhau, nhưng tôi nghĩ bản thân việc quái vật tiến hóa vốn dĩ đã là một đề tài phức tạp rồi.
+Như tôi đây thì từng tự mình nếm trải rồi, thế nhưng trước kia từng được bảo là sau Ngạ Quỷ sẽ tiến hóa thành Ma Cà Rồng, ai ngờ đâu rốt cuộc lại hóa thành một thứ hoàn toàn khác. Lý thuyết tiến hóa của giới học giả cũng đâu phải lúc nào cũng chuẩn xác. Ngay như loài Puchi Suri cũng có biết bao nhánh tiến hóa khác nhau, thế nên tôi đồ rằng chuyện tiến hóa của quái vật vốn là một chủ đề phức tạp khôn lường.
 
-Dù vậy, trực giác mách bảo tôi rằng Hobgoblin chính là dạng tiến hóa của Goblin. Trông nó chẳng khác nào một con Goblin thông thường vừa trải qua giai đoạn trổ mã, và ngoài việc nhanh nhẹn hơn một chút cùng khả năng toan tính đôi phần thì về mặt năng lực nó cũng gần tương tự một con Goblin bình thường. Tựu trung lại, chúng không mạnh đến mức ấy.
+Nói thì nói thế, nhưng trực giác vẫn mách bảo tôi rằng Hobgoblin chính là dạng tiến hóa của Goblin. Ngoại hình trông chỉ như một con Goblin thường bỗng nhiên trổ mã phổng phao, và ngoài chuyện nhanh hơn một chút với biết tính toán đôi chút ra thì thực lực cũng chẳng hơn Goblin thường là bao. Tóm lại là chúng chẳng mạnh đến thế.
 
-Tôi vung kiếm chém xuống, lưỡi kiếm ngọt xớt lướt qua cổ con Hobgoblin. Thủ cấp của nó bay sang một bên trong khi phần thân còn lại đổ sụp xuống theo đà lao về phía trước. Rồi nó nằm bất động, thậm chí chẳng buồn co giật lấy một cái.
+Tôi vung một nhát chém bổ xuống, lưỡi kiếm dễ dàng tiện đứt cổ con Hobgoblin. Đầu nó văng sang một bên, còn cái xác theo đà lao tới mà đổ vật xuống, nằm im bất động không buồn giật lấy một cái.
 
 ◆◇◆◇◆
 
-Sau khi hạ gục lũ Hobgoblin, chúng tôi lập tức thu hoạch Ma Tinh của chúng. Chúng tôi đều dạn dày kinh nghiệm trong việc này, và ngay cả tôi cũng từng chiến đấu với Hobgoblin vô số lần nên biết chính xác vị trí Ma Tinh cũng như cách mổ xẻ lấy ra. Viên tinh thể nằm ngay dưới tim, và chỉ cần dùng dao găm đâm rạch quanh khu vực đó là có thể dễ dàng tìm thấy.
+Sau khi hạ gục lũ Hobgoblin, chúng tôi lập tức thu hoạch Ma Tinh của chúng. Mấy việc này cả nhóm đều quá quen tay; đến như tôi cũng từng đụng độ Hobgoblin không biết bao nhiêu lần, rành rẽ từng vị trí Ma Tinh lẫn cách lấy ra. Ma Tinh nằm ngay dưới tim, chỉ cần lấy dao găm chọc quanh chỗ đó là mò ra ngay.
 
-Dẫu vậy, tôi không phải là người duy nhất quen tay với công việc này. Lorraine có nền tảng học thức của một học giả, cô đã ghi nhớ nằm lòng các bản vẽ giải phẫu của hầu hết quái vật. Cô cũng từng cống hiến rất nhiều khi hoạt động như một mạo hiểm giả ở Maalt. Vào thời điểm này, việc mổ xẻ một con Hobgoblin đối với cô chỉ là trò trẻ con.
+Mà đâu chỉ mình tôi quen tay. Lorraine xuất thân là học giả, thuộc làu sơ đồ giải phẫu của hầu hết mọi loài quái vật. Cô ấy cũng lăn lộn làm mạo hiểm giả suốt bao năm ở Maalt, nên mổ xẻ một con Hobgoblin giờ đây với cô chỉ là trò trẻ con.
 
-Augurey cũng chẳng khác gì. Dù hiện tại là mạo hiểm giả Ngân Cấp, anh ta cũng từng trải qua một thời gian khá dài ở Đồng Cấp. Trong số các quái vật bậc Đồng Cấp, Hobgoblin sở hữu Ma Tinh tương đối có giá trị. Chúng là nguồn thu nhập ổn định béo bở, thế nên tất cả chúng tôi đều đã quá quen với việc mổ xẻ chúng.
+Augurey cũng vậy. Tuy giờ đã là mạo hiểm giả Ngân Cấp, anh ấy cũng từng trải qua một thời gian dài ở Đồng Cấp. Trong đám quái vật Đồng Cấp, Ma Tinh của Hobgoblin có giá khá hời. Chúng vốn là nguồn kiếm ăn đều đặn và chắc ăn, nên mấy việc mổ xẻ này cả ba chúng tôi đều thuộc như lòng bàn tay.
 
-"Chắc chừng này là xong rồi đấy," Augurey thở dài một tiếng sau khi chúng tôi mổ xẻ xong chừng mười con Hobgoblin và tập kết xác chúng vào một chỗ. Công việc không mấy nặng nhọc, nên anh ta thấy nhẹ nhõm khi không còn xác Hobgoblin vương vãi khắp ven đường. Cảnh tượng trông chẳng khác nào hậu quả của một vụ quái vật tấn công, thứ thường gợi lại những ký ức chẳng mấy dễ chịu đối với phần lớn mạo hiểm giả, nên tôi hoàn toàn hiểu được sự nhẹ nhõm của anh ta.
+"Chắc thế là xong rồi đấy," Augurey thở hắt ra một tiếng sau khi chúng tôi mổ xong cỡ chục con Hobgoblin rồi dọn xác gom lại một chỗ. Việc này cũng chẳng tốn mấy sức, nhưng thấy ven đường không còn vương vãi xác Hobgoblin nữa thì anh ấy cũng nhẹ nhõm hẳn. Cảnh xác chết la liệt ven đường trông hệt như tàn cuộc của một vụ quái vật tập kích, mà cảnh tượng ấy thường gợi lại những ký ức chẳng mấy vui vẻ gì với giới mạo hiểm giả, nên tôi rất hiểu cảm giác của anh ấy.
 
-Dẫu vậy, cũng chẳng phải ai trong chúng tôi sẽ sụp đổ tinh thần nếu có người bị quái vật tấn công mà chúng tôi tới cứu không kịp. Đúng là loại chấn thương tâm lý đó có thể ảnh hưởng đến các mạo hiểm giả trẻ tuổi non kinh nghiệm, nhưng chúng tôi đã bước qua giai đoạn đó trong sự nghiệp từ rất lâu rồi. Không phải là chúng tôi hoàn toàn vô cảm, nhưng chúng tôi có thể giữ được cái đầu lạnh ngay cả khi chứng kiến cảnh tượng như vậy.
+Nhưng mà, bảo chúng tôi suy sụp tinh thần nếu chẳng may đến muộn không cứu kịp người bị quái vật tấn công thì cũng không hẳn. Đúng là ám ảnh tâm lý kiểu đó dễ tác động đến mấy tay tân binh non nớt, nhưng chúng tôi đã qua cái thời đó từ lâu lắm rồi. Chẳng phải chúng tôi trơ lì không cảm xúc, mà là dẫu có tận mắt thấy cảnh tượng đó, cả bọn vẫn đủ bản lĩnh để giữ được cái đầu lạnh.
 
-"Phải đấy. Chẳng phải là chúng ta không thể thu hoạch thêm thứ gì khác từ chúng," Lorraine nhận xét, "nhưng tôi không nghĩ ở vương đô lại có nhu cầu. Tôi chẳng hình dung nổi liệu chúng ta có bán được không nữa, nên tôi sẽ thiêu rụi đống xác này luôn vậy."
+"Đúng thế. Thật ra trên người chúng cũng còn vài thứ lấy được," Lorraine tiếp lời, "nhưng ở vương đô thì chắc chẳng ai cần. Tôi không nghĩ là bán nổi đâu, thôi thì để tôi thiêu luôn cho rồi."
 
-Lorraine bắt đầu ngâm xướng câu thần chú và biến đống xác Hobgoblin thành tro tàn. Nếu chúng tôi đang ở giữa rừng sâu thì cứ việc để mặc đống xác ở đó cho thối rữa, nhưng nơi này lại nằm ngay cạnh một trục đường lớn. Mùi xác chết mà dẫn dụ những con quái vật khác tới thì tệ lắm. Đôi khi tình hình thậm chí có thể leo thang đến mức những quái vật mạnh hơn nữa lại tìm đến săn lùng lũ quái vật bị mùi xác thu hút. Khi chuyện đó xảy ra, con đường sẽ bị cấm lưu thông cho tới khi tiêu diệt sạch bọn chúng. Đó là tin xấu với tất cả mọi người, chính vì thế mỗi khi quái vật xuất hiện gần các trục đường lớn, việc xử lý dọn dẹp chúng càng nhanh càng tốt là thông lệ tiêu chuẩn.
+Lorraine cất giọng niệm chú, thiêu rụi đống xác Hobgoblin thành tro tàn. Nếu ở giữa rừng sâu thì cứ mặc kệ xác đó cho tự rữa cũng xong, nhưng đây lại nằm ngay sát đường cái. Để mùi tử khí dẫn dụ quái vật khác bu tới thì rắc rối to. Có khi mọi chuyện còn trượt dài đến mức lũ quái mạnh hơn lại kéo đến săn chính những con quái bị mùi xác thu hút. Đến nước ấy thì con đường sẽ bị phong tỏa cho tới khi dọn sạch bóng quái vật mới thôi. Chẳng ai muốn chuốc lấy phiền phức như vậy, nên hễ thấy quái vật xuất hiện ven đường lớn, việc xử lý xác càng sớm càng tốt đã thành thông lệ.
 
-Ngay cả khi một tổ đội không có ai sử dụng được ma pháp, hầu như mọi mạo hiểm giả đều có cách để tạo ra lửa. Nếu không thể thiêu hủy xác bằng lửa, người ta sẽ khiêng chúng ra xa khỏi lòng đường rồi chôn lấp. Việc đó thường khá phiền toái, nhưng vẫn tốt hơn nhiều so với việc để mặc hậu quả xảy ra.
+Dù trong nhóm không ai biết dùng ma pháp thì hầu như mạo hiểm giả nào cũng có cách nhóm lửa. Còn nếu không thể đốt xác thì đành phải khiêng ra xa đường rồi đào hố chôn. Tuy mất công mất sức, nhưng vẫn hơn là ngồi chờ rắc rối ập đến.
 
-Dù nói là vậy, nhưng đây không phải chuyện thường xuyên xảy ra. Phần lớn quái vật có chút trí khôn đều hiểu rằng con người hay qua lại các khu vực gần đường xá, và trong số đó sẽ có những mạo hiểm giả hùng mạnh. Đối với những con đường gần vương đô, còn có thêm mối đe dọa từ các hiệp sĩ đi tuần tra hoặc huấn luyện, đồng nghĩa với việc quái vật càng có xu hướng tránh xa nơi này. Thế nhưng chúng tôi lại đụng độ Hobgoblin—chẳng phải một hai con đi lạc, mà là cả một bầy mười con. Điều đó quả thực bất thường.
+Nói vậy thôi chứ chuyện này cũng chẳng mấy khi xảy ra. Lũ quái vật chỉ cần có chút khôn ngoan đều thừa hiểu người ta thường xuyên qua lại quanh các ngả đường, mà trong số đó lại chẳng thiếu những mạo hiểm giả sừng sỏ. Đã vậy, những cung đường quanh vương đô còn có hiệp sĩ tuần tra lẫn thao luyện, nên quái vật lại càng có xu hướng tránh thật xa. Vậy mà chúng tôi lại chạm trán lũ Hobgoblin—chẳng phải một hai con lẻ loi, mà là cả một đàn mười con. Quả là chuyện khác thường.
 
-Dường như Lorraine cũng đang nghĩ tới điều tương tự, bởi sau một thoáng, cô lẩm bẩm tự nói với chính mình: "Có lẽ đang xảy ra một cuộc tranh giành lãnh địa nào đó giữa lũ quái vật quanh khu vực này."
+Có vẻ Lorraine cũng đang nghĩ như vậy, bởi chỉ một thoáng sau, cô đã lẩm bẩm một mình: "Có lẽ lũ quái vật quanh vùng này đang tranh giành lãnh địa chăng."
 
-"Có thể là vậy," tôi nói, "nhưng chúng ta không có cách nào kiểm chứng được. Lựa chọn tốt nhất có lẽ là tiến vào rừng điều tra, nhưng dù sao quanh khu vực này cũng chẳng có làng mạc hay thôn xóm nào. Hơn nữa, nếu thứ tháo chạy chỉ toàn là Hobgoblin thì tình hình hẳn không đến mức quá nghiêm trọng."
+"Có khi thế thật," tôi tiếp lời, "nhưng chúng ta cũng chẳng có cách nào kiểm chứng. Đành rằng mò vào rừng điều tra là tốt nhất, nhưng quanh đây đâu có làng mạc thôn xóm nào. Với lại, nếu thứ chạy dạt ra đây chỉ là Hobgoblin thì chắc tình hình cũng chưa đến mức nghiêm trọng lắm."
 
-"Có lẽ vậy. Mà cũng có lẽ không. Đây có thể là khởi đầu của một điều gì đó tồi tệ hơn nhiều. Khi một Vua Goblin sắp sửa xuất hiện, mọi chuyện thường bắt đầu từ những cuộc giao tranh lẻ tẻ giữa các nhóm Goblin. Chẳng hiếm những sự vụ trông bề ngoài chỉ như xích mích nhỏ nhặt giữa lũ Goblin nhưng rốt cuộc lại hóa ra là dấu hiệu của một Vua Goblin đang trỗi dậy đâu."
+"Có thể là thế, mà cũng có thể không. Biết đâu đây lại là mầm mống cho biến cố tồi tệ hơn nhiều. Mỗi khi Vua Goblin sắp ra đời, mọi sự thường mở màn bằng những trận xung đột lẻ tẻ giữa các bầy Goblin với nhau. Đã có không ít vụ việc thoạt nhìn chỉ như va chạm nhỏ nhặt giữa lũ Goblin, rốt cuộc lại chính là dấu hiệu báo trước sự xuất hiện của Vua Goblin đấy."
 
-Cô ấy nói đúng, nhưng cô đang nhảy sang thái cực đối lập rồi.
+Cô ấy nói chẳng sai, có điều lại đang suy diễn sang thái cực đối lập mất rồi.
 
-Augurey nhún vai. "Chúng ta có thể tranh luận chuyện này cả ngày cũng được. Dù là thảm họa lớn nhất thì cũng đều có những manh mối nhỏ báo trước điềm gở, nhưng nếu cứ đuổi theo từng dấu hiệu tiềm tàng của một mối đe dọa sắp ập đến thì chẳng mấy chốc chúng ta sẽ thiếu nhân lực trầm trọng mất thôi."
+Augurey nhún vai. "Có cãi nhau chuyện này cả ngày cũng chẳng xong. Thảm họa lớn đến đâu thì trước đó cũng lộ ra chút manh mối báo hiệu, nhưng nếu cứ thấy bóng gió đe dọa là lại cuống cuồng đi lùng sục thì có bao nhiêu người cũng chẳng xuể."
 
-Rõ ràng Lorraine cũng hiểu điều đó. Cô mỉm cười nói: "Đúng vậy thật. Tôi không nghĩ chúng ta cần phải điều tra ở giai đoạn này. Tôi chỉ đơn thuần lưu ý tới khả năng đó mà thôi."
+Hiển nhiên Lorraine cũng hiểu điều ấy. Cô mỉm cười: "Đúng thế thật. Tầm này tôi cũng không nghĩ là phải đi điều tra đâu. Chỉ là tôi nêu ra một khả năng vậy thôi."
 
-"Thế thì tốt rồi. Tôi chỉ không muốn phải vác tay không trở về chỉ vì chúng ta mải mê đuổi theo một con Vua Goblin trong tưởng tượng đâu." Dĩ nhiên Augurey chỉ đang đùa. Anh ta không phải kẻ ích kỷ đến mức chỉ lo nghĩ về tiền bạc nếu thực sự có một mối đe dọa lớn đang rình rập nơi chân trời. "Vậy thì tôi đoán chúng ta có thể tiếp tục lên đường rồi chứ?"
+"Thế thì được rồi. Tôi chỉ không muốn phải về tay trắng chỉ vì mải đuổi theo một con Vua Goblin trong tưởng tượng thôi." Dĩ nhiên Augurey chỉ nói đùa. Anh ấy đâu phải hạng ích kỷ đến mức chỉ biết lo chuyện tiền bạc nếu thực sự có mối nguy lớn đang cận kề. "Vậy ta tiếp tục đi tiếp được rồi chứ?"
 
-"Chào các vị!" một giọng nói gọi với về phía chúng tôi.
+"Này, các vị ơi!" một tiếng gọi vọng lại phía chúng tôi.
 
-Tôi quay đầu lại và thấy cỗ xe kéo của chúng tôi đang tiến tới, phía trên là một người đàn ông trung niên đang ngồi ở ghế lái. Đó là người chúng tôi thuê làm tài xế cho chuyến đi lần này. Tên bác ta là Yattul, và nhờ tính chất công việc nên thân hình bác ta vô cùng vạm vỡ. Dẫu vậy bác ta không được đào tạo để chiến đấu, và cũng chẳng đủ mạnh để tự mình đối đầu với một bầy mười con Hobgoblin.
+Tôi quay đầu lại và thấy cỗ xe chở chúng tôi đang tiến tới, trên ghế lái là một người đàn ông trung niên. Đó là người chúng tôi thuê đánh xe cho chuyến đi này. Tên bác ấy là Yattul, và nhờ tính chất công việc nặng nhọc nên vóc người rất vạm vỡ. Có điều bác ấy không được rèn luyện chiến đấu, cũng chẳng đủ sức tự mình chống chọi với cả đàn mười con Hobgoblin.
 
-Ngay khoảnh khắc phát hiện bầy Hobgoblin, chúng tôi đã dặn bác ta ở lại phía sau khi cả nhóm xuống xe tiến lên phía trước để xử lý lũ quái vật. Dù bác ta dừng lại ở khoảng cách đủ xa để khuất khỏi tầm mắt chúng tôi, nhưng hẳn là bác đã nhìn thấy khói bốc lên từ đống xác bị thiêu nên mới tự mình đánh xe tiến lại.
+Vừa phát hiện ra bầy Hobgoblin, chúng tôi đã dặn bác ấy nán lại phía sau rồi cả ba nhảy xuống xe, tiến lên giải quyết lũ quái vật. Bác ấy dừng lại ở khoảng cách khá xa nên không nhìn thấy chúng tôi, nhưng chắc thấy khói bốc lên từ đống xác bị thiêu nên mới tự đánh xe tới.
 
-"Các vị đã dọn sạch lũ quái vật đó rồi chứ?" Yattul vừa tiến lại gần vừa hỏi.
+"Đã dọn sạch lũ quái đó rồi chứ các vị?" Yattul vừa đánh xe lại gần vừa hỏi.
 
-"Vâng," tôi đáp. "Có khoảng mười con Hobgoblin. Chúng tôi đã thu hoạch Ma Tinh của chúng và thiêu xác rồi. Bác có muốn mua số Ma Tinh này không?"
+"Xong xuôi cả rồi bác," tôi đáp. "Có chừng mười con Hobgoblin. Chúng tôi lấy Ma Tinh rồi thiêu xác hết rồi. Bác có muốn mua lại chỗ Ma Tinh này không?"
 
-Yattul không chỉ đơn thuần là người đánh xe. Nghề nghiệp chính của bác ta là thương nhân. Bác thường xuyên qua lại giữa vương đô và ngôi làng nhỏ nơi chúng tôi đang hướng tới. Tuy nhiên, vì công việc đó không thực sự đủ để trang trải cuộc sống nên rõ ràng bác phải làm thêm những việc khác ở nơi này nơi nọ.
+Yattul đâu chỉ là người đánh xe thuê. Nghề chính của bác ấy là thương nhân, chuyên đi lại giữa vương đô và ngôi làng nhỏ chúng tôi đang hướng tới. Nhưng vì buôn bán ở đó không đủ sống, nên bác ấy mới nhận thêm việc này việc nọ bên ngoài.
 
-"Ồ?! Thật sao?! Ma Tinh của lũ Hobgoblin bán được giá lắm, tôi rất sẵn lòng mua lại, nhưng các vị có chắc không đấy? Tôi đồ rằng mang về Hội bán thì các vị được giá hơn chứ?"
+"Ồ?! Thật hả?! Ma Tinh của bọn Hobgoblin này được giá lắm, tôi mua ngay chứ tiếc gì, nhưng các vị tính kỹ chưa đấy? Tôi đồ là đem về Hội thì các vị bán được giá hơn nhiều chứ?"
 
-Yattul nói đúng, nhưng mức chênh lệch giá không quá lớn, và việc bán Ma Tinh cho bác ta cũng chẳng khiến chúng tôi thiệt thòi bao nhiêu. Một phần trong tôi cũng cảm thấy thà bán cho một người như Yattul, người đang bám trụ một cung đường ít lợi nhuận để hỗ trợ một ngôi làng nhỏ thì sẽ tốt hơn. Tôi, Augurey và Lorraine vốn đã đồng ý bán lại Ma Tinh cho Yattul từ trước, vậy nên chẳng có lý do gì để không làm thế vào lúc này. Nếu bác ta từ chối, chúng tôi mới đem bán chúng ở Hội.
+Yattul nói chẳng sai, nhưng mức chênh lệch cũng không lớn lắm, bán cho bác ấy thì chúng tôi cũng chẳng thiệt là bao. Một phần tôi cũng thấy nên ưu tiên bán cho người như Yattul, người chịu bám trụ một tuyến đường ít lời để phục vụ một ngôi làng nhỏ. Tôi, Augurey và Lorraine vốn đã thống nhất từ trước là sẽ bán Ma Tinh cho bác ấy, nên giờ chẳng có lý do gì để đổi ý. Nếu bác ấy không mua thì chúng tôi mới đem về Hội bán.
 
-Tôi gật đầu. "Không sao đâu. Chúng tôi không thể bán hết cho bác được, nhưng..."
+Tôi gật đầu. "Không sao đâu bác. Chúng tôi không để lại hết được, nhưng..."
 
-"Không, không, chia cho tôi ngần này là quá hào phóng rồi. Cảm ơn ông chủ nhé."
+"Đâu có, đâu có, nhượng lại cho tôi chừng này là quý hóa lắm rồi. Cảm ơn ông chủ nhiều nhé."
 
-Số Ma Tinh còn lại Lorraine muốn dùng cho thuật giả kim, nên đó sẽ là phần chia của cô. Tôi giao Ma Tinh cho Yattul, sau khi nhận tiền thanh toán liền chia đều với Augurey, đưa cho anh ta số tiền tương đương ba viên và giữ lại số tiền tương tự cho bản thân. Một viên còn lại chúng tôi sẽ dùng để ăn một bữa khi quay về thị trấn. Có lẽ chúng tôi đang hơi quá rạch ròi trong việc phân chia chiến lợi phẩm, nhưng sự cẩu thả trong những chuyện thế này thường dẫn đến mâu thuẫn nội bộ và bất mãn về sau. Chúng tôi thì vượt lên trên những toan tính tầm thường đó rồi, nhưng tốt nhất vẫn nên đảm bảo vạch rõ ranh giới sòng phẳng bất cứ khi nào có thể.
+Số Ma Tinh còn lại Lorraine muốn giữ để làm thuật giả kim, nên đó coi như phần của cô ấy. Tôi đưa Ma Tinh cho Yattul, nhận tiền xong liền chia với Augurey: đưa anh ấy phần tiền của ba viên và giữ lại một khoản tương đương cho mình. Còn một viên, cả nhóm để dành để ăn một bữa ra trò khi về lại thị trấn. Phân chia chiến lợi phẩm rạch ròi đến từng li như thế trông thì có vẻ tính toán quá, nhưng mấy chuyện này mà qua quýt thì về sau rất dễ sinh bất hòa, ấm ức. Nhóm chúng tôi thì chẳng đến mức so đo như vậy, nhưng rạch ròi sòng phẳng được chừng nào thì vẫn tốt chừng nấy.
 
-Sau khi kiểm tra thấy lũ quái vật đều đã hóa thành tro bụi, chúng tôi leo trở lại lên xe. Yattul vung roi quất một tiếng giòn giã, và cỗ xe lại một lần nữa lăn bánh xuôi theo trục đường lớn.
+Kiểm tra thấy xác quái vật đều đã cháy rụi thành tro, chúng tôi trèo lại lên thùng xe. Yattul vung roi quất một tiếng giòn giã, cỗ xe lại tiếp tục lăn bánh trên trục đường cái.
 
 ◆◇◆◇◆
 
 "Hử...? Lạ thật đấy..."
 
-Trong lúc chúng tôi đang thong thả ngồi nghỉ trong xe, tiếng lầm bầm từ ghế lái bỗng vọng lại. Yattul đang tự nói một mình. Tò mò, tôi liền thò đầu ra ngoài từ phía thùng xe.
+Trong lúc cả bọn đang nằm dài thư thả trong thùng xe thì nghe tiếng lầm bầm từ ghế lái vọng lại. Yattul đang tự nói một mình. Thấy lạ, tôi liền thò đầu ra ngoài.
 
-"Có chuyện gì vậy bác?" tôi hỏi.
+"Có chuyện gì thế bác?" tôi hỏi.
 
-Yattul quay lại nhìn tôi với vẻ mặt bối rối khó xử. "Ô, này ông chủ. Có gì đó sai sai rồi. Đường đi đáng lẽ phải đúng chứ, nhưng trông khác hẳn mọi khi. Thường thì giờ này chúng ta gần tới thôn rồi mới phải, nhưng mà..."
+Yattul quay lại nhìn tôi, vẻ mặt đầy khó xử. "À, ông chủ đấy à. Có gì đó sai lắm. Đáng lẽ đường này phải đúng chứ, mà trông nó cứ khác khác mọi khi. Tầm này bình thường là sắp tới thôn rồi, đằng này..."
 
-"Có khi chỉ là do bác tưởng tượng thôi," tôi gợi ý. "Cảm giác về khoảng cách của bác có thể bị xáo trộn do vụ tấn công của lũ Hobgoblin vừa rồi."
+"Chắc bác cảm giác thế thôi," tôi gợi ý. "Bị lũ Hobgoblin chặn đánh bất ngờ nên bác ước lượng khoảng cách chưa chuẩn đấy mà."
 
-"Hừm... Ông chủ thực sự nghĩ vậy sao? Tôi cũng chẳng rõ nữa. Các vị thỉnh thoảng ngó ra ngoài giùm tôi một chút được không? Thấy có gì bất thường thì ới tôi một tiếng nhé."
+"Hừm... Thế thật sao ông chủ? Tôi cũng chẳng dám chắc. Mấy vị thỉnh thoảng ngó ra ngoài phụ tôi một tay với được không? Thấy có gì khang khác thì ới tôi một tiếng nhé."
 
-Tôi gật đầu rồi quay lại với những người khác. "Hình như chúng ta đang trên đà lạc đường rồi. Bác ấy muốn chúng ta cùng để mắt quan sát."
+Tôi gật đầu rồi thụt vào trong bảo với hai người kia. "Hình như chúng ta sắp lạc đường tới nơi rồi. Bác ấy nhờ chúng ta để mắt phụ một tay."
 
-Augurey nghiêng đầu thắc mắc. "Hử? Đường tới thôn đó phức tạp đến thế cơ à? Tuy không phải đường thẳng tắp, nhưng muốn lạc trên đường đi cũng khó lắm chứ."
+Augurey nghiêng đầu khó hiểu. "Hử? Đường vào thôn đó rắc rối đến thế cơ à? Đành rằng không phải cứ thẳng một mạch, nhưng muốn lạc đường cũng đâu có dễ."
 
-Trục đường lớn có nhiều ngã rẽ, vì vậy nếu chọn nhầm đường thì người ta sẽ lạc tới chốn khỉ ho cò gáy nào không biết chừng. Bác ta mà rẽ nhầm ở ngã ba ngã tư nào đó thì chuyện lạc đường còn hiểu được, đằng này từ nãy tới giờ chẳng hề có ngã rẽ nào, hơn nữa Yattul lại thường xuyên qua lại cung đường này. Nếu bác ta dễ dàng lạc lối đến mức ấy thì hẳn đã phá sản từ đời nào rồi.
+Trục đường cái có nhiều ngã rẽ, chọn nhầm một lối là người ta sẽ dạt ngay vào chốn đồng không mông quạnh. Rẽ nhầm ở ngã ba ngã tư nào đó thì lạc còn hiểu được, đằng này từ nãy tới giờ có ngã rẽ nào đâu, mà Yattul lại chạy tuyến này như cơm bữa. Nếu dễ lạc đến thế thì bác ấy đã sạt nghiệp từ đời nào rồi.
 
-"Việc bị một bầy Hobgoblin tấn công trên trục đường quanh khu vực này là điều bất thường," Lorraine nhận xét. "Tôi có thể hiểu vì sao chuyện đó đủ để khiến bác ta hoang mang bối rối mà lạc đường. Nhưng khoan bàn tới quái vật, tôi từng nghe câu 'chẳng có thương nhân nào chưa từng bị cướp đường chặn lối cả'. Nếu dễ hoảng loạn đến mức ấy thì tôi không nghĩ người ta có thể hành nghề thương nhân được đâu."
+"Bị cả đàn Hobgoblin chặn đánh ngay trên đường cái quanh vùng này đúng là chuyện hiếm," Lorraine lên tiếng. "Nên nếu bảo chuyện đó làm bác ấy hoang mang rồi mất phương hướng thì cũng có thể hiểu được. Nhưng quái vật thì khoan bàn, tôi nhớ người ta hay nói 'làm thương nhân thì chẳng ai chưa từng nếm mùi cướp đường'. Hơi tí đã mất bình tĩnh như thế thì tôi nghĩ khó lòng mà bám nghề buôn được."
 
-Lorraine đang trích dẫn một câu nói cửa miệng quen thuộc trong giới thương nhân. Hiếm ai sở hữu kỹ năng chiến đấu như mạo hiểm giả, nhưng họ vẫn có năng lực tối thiểu để tự vệ. Việc các thương nhân cầm vũ khí lên sát cánh chiến đấu cùng lính đánh thuê và mạo hiểm giả khi đi theo đoàn buôn là chuyện thường tình. Kết quả là thương nhân thường quen với bạo lực hơn nhiều so với người bình thường, nên một chút nguy hiểm lẽ ra không thể gây chấn động tâm lý đến mức đó. Thế nhưng...
+Lorraine đang nhắc lại một câu cửa miệng của dân buôn. Ít thương nhân nào có kỹ năng chiến đấu như mạo hiểm giả, nhưng họ vẫn biết vài chiêu phòng thân tối thiểu. Đi theo đoàn buôn, chuyện thương nhân cầm vũ khí đứng cạnh lính đánh thuê và mạo hiểm giả cùng đánh lại kẻ địch cũng chẳng phải hiếm. Vì thế, dân buôn thường chai dạn với cảnh chém giết hơn hẳn người thường, dăm ba mối hiểm nguy lẻ tẻ lẽ ra không thể làm họ hoảng hồn đến mức ấy. Thế mà...
 
-"Nếu phải nghi ngờ điều gì đó..." Lorraine vừa vuốt cằm vừa tiếp tục.
+"Còn nếu phải nghi ngờ điều gì..." Lorraine vừa xoa cằm vừa nói tiếp.
 
-"Chuyện gì cơ?" tôi hỏi.
+"Gì thế?" tôi hỏi.
 
-"Bác ta đang chịu ảnh hưởng của một loại mê thuật nào đó. Nếu hiệu ứng của nó can thiệp vào phương hướng của bác ta và khiến bác ta rẽ nhầm đường thì hoàn toàn hợp lý."
+"Bác ấy bị trúng một loại mê thuật nào đó. Nếu tác dụng của nó làm nhiễu loạn phương hướng khiến bác ấy rẽ nhầm đường thì rất có lý."
 
 "Mê thuật ư? Ý cô là ma pháp sao?" Augurey hỏi.
 
-"Không. Tôi không cảm nhận được bất kỳ dấu vết ma pháp nào. Nếu là ma pháp thì tôi đã nhận ra ngay lập tức rồi. Chắc hẳn phải là một phương thức khác. Thuốc chăng?"
+"Không. Tôi không cảm nhận được chút dấu vết ma pháp nào. Nếu có thì tôi đã nhận ra ngay rồi. Chắc phải là cách khác. Dùng thuốc chăng?"
 
-"Thuốc hử? Nhưng chuyện đó có thể xảy ra vào lúc nào được chứ?"
+"Dùng thuốc á? Nhưng bị hạ thuốc vào lúc nào mới được chứ?"
 
-"Chuyện đó thì tôi chịu. Có thể là lúc chúng ta rời cỗ xe đi đánh nhau với lũ Hobgoblin, hoặc ai đó đã hạ thuốc bác ta trước khi chúng ta xuất phát. Lo lắng quá nhiều về thời điểm cũng vô ích."
+"Thế thì tôi chịu. Có thể là lúc chúng ta rời xe đi đánh lũ Hobgoblin, cũng có thể ai đó đã hạ độc bác ấy từ trước lúc xuất phát rồi. Đoán già đoán non thời điểm cũng chẳng giải quyết được gì."
 
-Ý cô là loại thuốc đó có thể phát tác chậm. Điều đó không phải là bất khả thi, nhưng...
+Ý cô ấy là loại thuốc đó có thể phát tác chậm. Chuyện ấy không phải không thể xảy ra, nhưng mà...
 
-"Kể cả điều đó là thật thì tại sao lại có kẻ hạ thuốc Yattul chứ?" tôi gãi đầu hỏi. Không có ý thô lỗ đâu, nhưng dù Yattul có lẽ giàu hơn cư dân vương đô bình thường một chút thì bác ta trông cũng chẳng đáng để trở thành mục tiêu nếu kẻ ra tay muốn nhắm vào tiền bạc.
+"Kể cả đúng là thế, thì cớ sao lại có người hạ thuốc bác Yattul chứ?" tôi gãi đầu hỏi. Chẳng phải tôi có ý coi thường, nhưng dẫu Yattul có rủng rỉnh hơn dân vương đô bình thường một chút, thì nếu nhắm vào tiền bạc, bác ấy cũng đâu đáng để ai phải kỳ công ra tay như vậy.
 
-Lorraine trầm ngâm một lát rồi nói: "Câu đó tôi cũng không trả lời được. Có thể ai đó có thù oán với bác ta, hoặc mục tiêu nhắm tới là chúng ta. Nhưng khả năng đó cũng hơi khó xảy ra. Chúng ta đã ở cùng Yattul từ khi quyết định đi nhờ cỗ xe kéo của bác ta. Nếu họ nhắm vào chúng ta thì ắt hẳn họ đã hạ thuốc bác ta sau khi chúng ta đưa ra quyết định đó. Điều đó đồng nghĩa với việc cơ hội duy nhất để ra tay chính là lúc chúng ta chạm trán lũ Hobgoblin vừa rồi."
+Lorraine ngẫm nghĩ một thoáng rồi đáp: "Điều đó tôi cũng chưa rõ. Có thể ai đó ôm thù oán với bác ấy, hoặc mục tiêu thực chất là chúng ta. Nhưng khả năng này cũng hơi khó xảy ra. Chúng ta ở cạnh Yattul từ lúc quyết định đi nhờ cỗ xe. Nếu nhắm vào chúng ta thì kẻ đó ắt phải hạ thuốc bác ấy sau khi chúng ta quyết định đi chuyến này. Nghĩa là cơ hội duy nhất để ra tay chỉ có thể là lúc chúng ta chạm trán lũ Hobgoblin vừa nãy."
 
-"Nếu đúng là như vậy thì kẻ hạ thuốc bác ta có thể vẫn còn ở quanh đây."
+"Nếu thế thì kẻ hạ thuốc có khi vẫn còn lẩn khuất đâu đó quanh đây."
 
-"Phải. Nhưng cả hai cũng chỉ là phỏng đoán. Có khi chỉ đơn giản là bản thân Yattul mù phương hướng tệ hại mà thôi. Muốn xác nhận điều đó thì trước hết chúng ta phải kiểm tra tình trạng của Yattul đã."
+"Đúng thế. Nhưng dẫu sao cũng chỉ là suy đoán. Biết đâu chỉ đơn giản là bản thân Yattul mù đường tệ hại thì sao. Muốn chắc chắn thì trước hết phải kiểm tra bác ấy đã."
 
-"Cô nói có lý. Chúng ta có nên bảo bác ấy dừng xe lại ngay không?"
+"Cô nói phải. Giờ bảo bác ấy dừng xe luôn nhé?"
 
-Augurey thò đầu ra ngoài cỗ xe. "Mặt trời sắp lặn rồi. Đáng lẽ giờ này chúng ta phải tới thôn rồi mới phải, nên tôi chắc chắn Yattul sẽ đề nghị hạ trại thôi. Chúng ta đợi đến lúc đó rồi kiểm tra bác ta cũng được mà, đúng chứ?"
+Augurey thò đầu ngó ra ngoài cỗ xe. "Mặt trời sắp lặn rồi. Đáng lẽ giờ này phải tới nơi rồi chứ, tôi cá là lát nữa Yattul cũng sẽ tính chuyện hạ trại thôi. Đợi đến lúc ấy rồi kiểm tra cũng chưa muộn mà, đúng không?"
 
-Trông thì có vẻ như chúng tôi chưa đủ nghiêm túc với chuyện này, nhưng nếu thực sự có ai đó hạ thuốc Yattul và vẫn đang lảng vảng quanh đây thì việc đột ngột dừng xe sẽ đánh động bọn chúng. Tốt hơn hết là cứ đợi đến khi có một lý do tự nhiên để dừng lại. Nếu rốt cuộc Yattul lại đi theo một hướng kỳ quặc nào đó thì lúc ấy chúng tôi ngăn bác ta lại cũng chưa muộn, nhưng tạm thời đây là giải pháp hợp lý nhất.
+Nghe qua thì có vẻ như chúng tôi xem nhẹ chuyện này, nhưng nếu ai đó thực sự đã hạ thuốc Yattul và vẫn đang bám theo quanh đây, việc đột ngột dừng xe sẽ rút dây động rừng. Cứ đợi một cái cớ tự nhiên để dừng lại thì hơn. Lỡ như bác ấy lại ngoặt sang một hướng kỳ quặc nào khác thì lúc đó hẵng cản lại, còn trước mắt thì đây là cách xử lý êm thấm nhất.
 
-Dự đoán của Augurey chẳng mấy chốc đã trở thành hiện thực.
+Đúng như Augurey đoán, chẳng mấy chốc sau...
 
-"Xin lỗi các vị nhé. Có vẻ như tôi rẽ nhầm đường mất rồi. Chắc hôm nay chúng ta không tới thôn kịp đâu, nên ta phải hạ trại ở đây thôi. Thế có được không các vị?"
+"Thành thật xin lỗi các vị. Có vẻ tôi rẽ nhầm lối mất rồi. Hôm nay chắc không kịp tới thôn đâu, khéo ta phải hạ trại ở đây thôi. Các vị thấy thế nào?"
 
-Tất cả chúng tôi đều gật đầu.
+Cả ba chúng tôi đều gật đầu.
 
-"Không sao đâu. Nhưng bác có biết hiện tại chúng ta đang ở đâu không?" tôi hỏi.
+"Không sao đâu bác. Cơ mà bác có biết chỗ này là chỗ nào không?" tôi hỏi.
 
-"Đến nước này thì tôi cũng chẳng chắc nữa. Xin lỗi các vị, nhưng chỉ cần quay xe lại thì chắc sẽ ổn thôi. À, còn tiền vé xe thì tôi sẽ hoàn lại vì lỗi lạc đường là do tôi. Và tôi đảm bảo sẽ đưa các vị tới nơi tới chốn."
+"Đến nước này thì tôi cũng chẳng dám chắc nữa. Khổ quá, nhưng nếu quay xe lại thì chắc không sao đâu. À, còn tiền xe thì tôi xin gửi lại vì lỗi lạc đường là do tôi. Nhưng tôi bảo đảm nhất định sẽ đưa các vị tới nơi tới chốn!"
 
-Yattul tiu nghỉu nhìn xuống mặt đất. Bộ dạng đó khiến tôi có cảm giác có khi bác ta chỉ là một kẻ mù phương hướng tệ hại thật cũng nên. Dù sao đi nữa thì chúng tôi cũng sẽ hạ trại tại đây. Yattul định chia cho chúng tôi một ít lương khô của bác, nhưng chúng tôi đã tự mang theo đồ ăn của mình. Chúng tôi cũng có sẵn dụng cụ nấu nướng trong túi ma thuật của tôi, nên dẫu có hạ trại ngoài trời thì đây vẫn sẽ là một bữa ăn tươm tất. Yattul mừng rỡ khôn xiết khi chúng tôi mời bác nhập bữa cùng.
+Yattul tiu nghỉu nhìn xuống mặt đất. Trông cái dáng vẻ đó, tôi bất giác có cảm giác khéo bác ấy chỉ mù đường bẩm sinh thật cũng nên. Dù sao thì đêm nay cũng phải hạ trại ở đây rồi. Yattul toan chia bớt phần lương khô của mình cho chúng tôi, nhưng chúng tôi đã thủ sẵn đồ ăn từ trước. Lại thêm đống xoong nồi dụng cụ nấu nướng nằm sẵn trong túi ma thuật của tôi, nên dẫu ngủ bụi giữa đường thì bữa tối này vẫn tươm tất chán. Yattul mừng rỡ ra mặt khi được chúng tôi mời ăn cùng.
