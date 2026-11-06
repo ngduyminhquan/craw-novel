@@ -1,197 +1,197 @@
 # Chương 257: Tập 11 Chương 3 - Tổ Chức (2)
 
-Chúng tôi rảo bước xuyên qua đấu trường và cuối cùng cũng tới đích. Xét việc đang ở dưới lòng đất, khung cảnh hiện ra quả thực nằm ngoài dự kiến.
+Chúng tôi đi qua đấu trường và cuối cùng cũng tới nơi. Ở dưới lòng đất mà lại có cảnh tượng thế này quả thực nằm ngoài dự liệu của tôi.
 
-"Dưới này cũng có một sàn đấu sao?" tôi lẩm bẩm.
+"Dưới này cũng có sàn đấu cơ à?" tôi lẩm bẩm.
 
-"Bọn ta thường dùng nơi này để luyện tập giao đấu," ông lão nói. "Dẫu vậy, điều đó không có nghĩa nơi đây là một bí mật với thế giới bên ngoài. Cậu hoàn toàn có thể thuê nó y hệt như sàn đấu bên trên."
+"Bọn ta thường dùng chỗ này để đấu tập," ông lão nói. "Nhưng nơi đây cũng chẳng phải bí mật gì với bên ngoài đâu. Cậu cứ thuê dùng y như sàn đấu bên trên là được."
 
-Mức phí thuê chính xác của sàn đấu phụ thuộc vào thời lượng mượn, nhưng tối thiểu cũng phải tốn vài trăm đồng vàng. Tôi không phải là không thể chi trả nổi, nhưng muốn tổ chức một buổi biểu diễn đủ sức đem lại lợi nhuận để bù đắp lại khoản tiền đó thì tuyệt nhiên chẳng dễ dàng chút nào.
+Giá thuê sàn đấu cụ thể phụ thuộc vào thời gian mượn, nhưng rẻ nhất cũng phải vài trăm đồng vàng. Không phải tôi không trả nổi, nhưng tổ chức được một buổi biểu diễn đủ sinh lời để gỡ lại số tiền đó thì chẳng dễ dàng gì.
 
-Ờ thì, đó là với trường hợp của tôi. Chứ Lorraine thì thừa sức xoay xở được. Nếu phải đoán xem bằng cách nào, tôi đồ rằng cô có thể đạo diễn một vở kịch nhờ vào khả năng thao túng ma pháp cực kỳ tinh vi của mình. Những ma pháp sư làm được điều đó không hẳn là hiếm, nhưng tôi vẫn dám cá Lorraine sẽ vượt trội hơn hẳn bất kỳ ai được các đoàn kịch hàng đầu thuê mướn. Vốn dĩ những người như vậy cũng chẳng có nhiều, bởi lẽ hầu hết các ma pháp sư lành nghề đều thích kiếm sống ổn định bằng việc săn quái vật và giao nộp nguyên liệu của chúng hơn.
+Ờ thì, đấy là với tôi thôi. Chứ Lorraine thì thừa sức xoay xở. Nếu phải đoán cách làm, tôi đồ rằng cô ấy có thể dàn dựng một vở kịch nhờ khả năng điều khiển ma pháp cực kỳ chuẩn xác của mình. Ma pháp sư làm được trò đó không hẳn là hiếm, nhưng tôi vẫn dám chắc Lorraine sẽ ăn đứt bất kỳ ai đang làm việc cho các đoàn kịch hàng đầu. Vốn dĩ những người như vậy cũng chẳng có mấy, bởi hầu hết ma pháp sư có tay nghề đều chuộng kiếm sống đều đặn bằng việc săn quái vật rồi bán nguyên liệu hơn.
 
-Chắc chắn trên cõi đời này vẫn có những ma pháp sư có khả năng tạo ra các ảo ảnh tinh tế và mang tính nghệ thuật hơn Lorraine, nhưng họ đều là những chuyên gia, những thành phần tinh hoa của tinh hoa không ngừng theo đuổi sự điêu luyện tột cùng. Chẳng ai trong số họ lại hiện diện ở một quốc gia hẻo lánh như Vương Quốc Yaaran, và nếu hoàn cảnh bắt buộc, Lorraine có thể chuyển nghề trong chớp mắt và vẫn sống khỏe re nếu muốn. Chỉ cần thêm vài năm tích lũy kinh nghiệm và rèn giũa, cô thậm chí có thể đạt tới đẳng cấp thế giới.
+Dĩ nhiên trên đời vẫn có những ma pháp sư tạo ra ảo ảnh tinh xảo và giàu tính nghệ thuật hơn Lorraine, nhưng họ là những chuyên gia, tầng lớp tinh hoa không ngừng tôi luyện để chạm tới đỉnh cao. Chẳng ai trong số họ lại ở một xứ hẻo lánh như Vương Quốc Yaaran cả, và nếu hoàn cảnh đưa đẩy, Lorraine hoàn toàn có thể chuyển nghề cái một mà vẫn sống khỏe re. Thêm vài năm tích lũy kinh nghiệm và rèn giũa, khéo cô ấy còn đạt tới đẳng cấp hàng đầu thế giới ấy chứ.
 
-Một lần nữa, tôi lại được nhắc nhở về năng lực kiếm sống ở bất cứ nơi đâu cô đặt chân tới. Tôi tự hỏi mình có thể làm được gì. Có lẽ là làm trò múa rối bóng bằng Phân Liệt chăng. Chà, đúng là sơ sài hết chỗ nói.
+Tôi lại một lần nữa thán phục khả năng kiếm sống ở bất cứ xó xỉnh nào của cô ấy. Tự hỏi mình thì làm được trò trống gì. Có khi là múa rối bóng bằng Phân Liệt chăng. Nghĩ tới mà thấy phèn hết chỗ nói.
 
 "Có vẻ các thành viên của ông luyện tập khá chăm chỉ nhỉ," Lorraine nói.
 
-Ông lão gật đầu. "Dĩ nhiên rồi. Trong cái nghề này, lục nghề đồng nghĩa với mất mạng. Theo một khía cạnh nào đó, điều ấy có thể khiến nghề nghiệp của bọn ta còn khắc nghiệt hơn cả làm mạo hiểm giả. Nếu các cậu thất bại trong nhiệm vụ, các cậu vẫn có thể chuồn êm, còn bọn ta thì không. Như tình cảnh hiện tại của bọn ta đã cho thấy đấy, thất bại hay trốn chạy chỉ khiến ta luôn phải nơm nớp lo sợ không biết đòn đoạt mạng tiếp theo sẽ ập đến từ phương nào."
+Ông lão gật đầu. "Dĩ nhiên rồi. Trong cái nghề này, tay nghề mà sa sút là mất mạng như chơi. Xét theo góc nào đó thì cái nghề của bọn ta còn nghiệt ngã hơn mạo hiểm giả. Các cậu làm hỏng việc còn chuồn êm được, chứ bọn ta thì đừng hòng. Cứ nhìn cảnh ngộ của bọn ta bây giờ là thấy, thất bại hay bỏ trốn cũng chỉ rước vào thân nỗi thắc thỏm xem đòn đoạt mạng tiếp theo sẽ ập tới từ hướng nào thôi."
 
-Qua lời ông nói, tôi cũng có thể cảm nhận được ông nghiêm túc đến nhường nào. Điều đó khiến tôi phần nào đồng cảm với ông. Trước đây tôi chưa từng nghĩ nhiều về nghề sát thủ, bởi lẽ bản thân chưa bao giờ dính dáng gì tới nó, nhưng càng ngẫm nghĩ...
+Nghe giọng ông ấy, tôi hiểu ông hoàn toàn nghiêm túc. Tự dưng tôi thấy hơi đồng cảm với ông lão. Xưa nay tôi chưa từng bận tâm nghĩ về nghề sát thủ vì chưa từng dính dáng tới, nhưng càng ngẫm thì...
 
-Nó dường như chẳng bõ công một cách đáng ngạc nhiên. Người ta sẽ luôn là mục tiêu cho sự oán hận hay ngờ vực của ai đó, và tâm trí chẳng bao giờ có lấy một giây phút bình yên. Thù lao hẳn là tương xứng ở mức cao, nhưng ngay cả như thế thì đây vẫn có vẻ là một nghề bận rộn khôn xiết. Người ta chẳng có chút thời gian nào để tiêu xài số tiền kiếm được, thay vào đó cứ phải quay cuồng từ phi vụ này sang phi vụ khác, ngày này qua ngày nọ. Nếu tìm thấy một công việc khác phù hợp với mình hơn, dĩ nhiên người ta sẽ muốn bỏ nghề ngay.
+Cái nghề này tính ra lại bạc bẽo đến không ngờ. Lúc nào cũng thành đích ngắm cho người khác oán hận hay nghi kỵ, chẳng bao giờ có lấy một phút giây thanh thản. Tiền thù lao hẳn là cao tương xứng, cơ mà bận rộn tối mắt tối mũi. Tiền kiếm được chẳng có thời gian tiêu, cứ hết phi vụ này lại cuốn sang phi vụ khác, ngày này qua ngày nọ. Nếu kiếm được việc khác hợp hơn, ai mà chẳng muốn bỏ nghề ngay cho xong.
 
-Đó chính xác là trường hợp của Goblin. Và qua cái cách Spriggan trò chuyện, có vẻ như ông cũng muốn rửa tay gác kiếm, nhưng ông lại có quá nhiều thuộc cấp cần phải chăm lo. Ông không thể cứ thế phủi tay dứt áo ra đi. Đời là thế đấy: trừ phi khéo léo xoay xở cho vẹn toàn mọi đường, việc leo lên những nấc thang cao hơn sẽ chỉ rước thêm gánh nặng trách nhiệm vào thân mà thôi.
+Goblin chính là một ví dụ điển hình. Mà nghe cách Spriggan nói, có vẻ ông ấy cũng muốn rửa tay gác kiếm lắm rồi, ngặt nỗi dưới trướng còn cả đống thuộc cấp phải lo. Ông ấy đâu thể cứ thế phủi tay dứt áo ra đi. Đời là thế đấy: trừ phi tính toán trọn vẹn từ đầu, chứ càng leo lên cao thì trách nhiệm đổ lên đầu lại càng nặng.
 
-"Nhưng chuyện đó gác lại đã." Ông lão quan sát xung quanh. "Đây là nơi bọn ta được bảo phải tới. Đáng lẽ phải có ai đó ở đây chứ..."
+"Nhưng thôi, gác chuyện đó lại đã." Ông lão đảo mắt nhìn quanh. "Đây là chỗ bọn ta được bảo đến. Lẽ ra phải có ai ở đây rồi chứ..."
 
-Sàn đấu ngầm nơi chúng tôi đang đứng là một bãi đất bằng phẳng được bao quanh bởi các khán đài cao bảy tầng. Diện tích của nó chỉ bằng khoảng một phần tư hoặc một phần năm so với sàn đấu trên mặt đất, nhưng nhờ vào độ thông thoáng theo chiều dọc, nơi này không hề mang lại cảm giác tù túng.
+Sàn đấu ngầm nơi chúng tôi đứng là một khoảng đất bằng phẳng, bao quanh là dãy khán đài vòng tròn cao tới bảy tầng ghế. Diện tích của nó chỉ bằng khoảng một phần tư hay một phần năm sàn đấu bên trên, nhưng nhờ trần cao thoáng đãng nên chẳng hề thấy tù túng chút nào.
 
-Nếu các thành viên tổ chức ngày nào cũng so tài và luyện tập ở đây, thì tôi có thể hiểu được tại sao năng lực chiến đấu của họ lại được mài giũa sắc bén đến thế. Khỏi phải nói, những cuộc đối đầu trực diện chắc hẳn rất hiếm hoi do tính chất công việc của họ, nhưng rèn giũa kỹ năng vì thế cũng chẳng kém phần quan trọng. Đối với những kẻ kiếm sống từ tranh chấp và xung đột, thực lực luôn là điều tất yếu.
+Nếu thành viên của tổ chức ngày nào cũng đấu tập ở đây, tôi có thể hiểu vì sao kỹ năng chiến đấu của họ lại sắc bén đến thế. Dĩ nhiên, do tính chất nghề nghiệp nên họ hiếm khi phải đối đầu trực diện, nhưng không vì thế mà việc rèn giũa thân thủ bớt phần quan trọng. Với những kẻ kiếm sống bằng cảnh đao gươm, thực lực bao giờ cũng là thứ không thể thiếu.
 
-Dù vậy, tôi không nghĩ ông lão có thể khổng lồ hóa ở dưới này—mà thực ra với sức mạnh của ông thì cũng chẳng cần thiết. Chỉ riêng việc vận dụng dị năng lên một cánh tay hoặc cẳng chân cũng đã thừa đủ cho ông sức tấn công để tung ra một đòn chí mạng rồi.
+Dù vậy, tôi đồ rằng dưới này ông lão khó mà khổng lồ hóa được. Cơ mà với sức mạnh của ông ấy thì cũng chẳng cần thiết. Chỉ cần dồn dị năng phóng to một bên tay hay chân thôi là đã thừa sức tung đòn đoạt mạng rồi.
 
-Sau khi chúng tôi ngó nghiêng xung quanh một lát, một luồng ánh sáng chói lọi bỗng rọi thẳng vào sàn đấu. Thực ra nói vậy cũng chưa hẳn chuẩn xác. Nói đúng hơn thì nó đang rọi thành một vệt tròn lên hàng ghế thứ ba của khán đài ngay đối diện chúng tôi, nằm sâu hơn bên trong đấu trường.
+Sau một hồi ngó nghiêng xung quanh, một luồng sáng chói lòa bỗng rọi vào sàn đấu. Thực ra nói vậy cũng chưa hẳn chuẩn xác. Nói đúng ra thì nó rọi thành một vệt tròn lên hàng ghế thứ ba của khán đài đối diện chúng tôi, nằm sâu hơn bên trong sàn đấu.
 
-Nhận thấy nó không hề bập bùng hay lay động, luồng sáng đó rõ ràng không phải là sản phẩm của bất kỳ ngọn lửa nào. Kể cả có dùng gương phản chiếu đi chăng nữa, nó vẫn sẽ lộ ra sự chuyển động. Do đó, hẳn nó phải phát ra từ một ma cụ. Các phương pháp chế tạo dụng cụ chiếu sáng ma pháp đã quá nổi tiếng, và người ta có thể đặt mua thành phẩm từ hầu như bất cứ đâu, song vì chúng rất đắt đỏ nên chỉ những công trình công cộng như nơi này mới sử dụng.
+Thấy luồng sáng không hề bập bùng hay lay động, rõ ràng nó chẳng bắt nguồn từ bất kỳ ngọn lửa nào. Kể cả có dùng gương phản chiếu thì ánh sáng vẫn sẽ rung rinh. Vì thế, hẳn là nó phát ra từ một ma cụ. Cách chế tạo đồ chiếu sáng ma pháp vốn đã quá phổ biến và hầu như đặt mua ở đâu cũng có, nhưng vì giá thành đắt đỏ nên chỉ những cơ sở công cộng như nơi này mới xài.
 
-Tại các hộ gia đình bình thường, hầu hết mọi người vẫn dùng nến. Chúng có thể được sản xuất hàng loạt từ mỡ của quái vật hoặc động vật. Sáp ong và sáp thực vật cũng là những lựa chọn khả dĩ, nhưng hầu như chỉ giới quý tộc mới dùng tới vì giá cả đắt đỏ. Nghĩ đến điều đó, rõ ràng tổ chức này chẳng hề thiếu thốn tiền bạc. Việc duy trì đèn ma pháp chiếu sáng đâu có miễn phí—chúng cần được nạp thêm Ma Lực từ Ma Tinh hoặc một ma pháp sư, kéo theo mọi chi phí liên quan.
+Ở các hộ gia đình bình thường, đa phần người ta vẫn thắp nến. Nến có thể làm số lượng lớn từ mỡ quái vật hoặc động vật. Sáp ong hay sáp thực vật cũng dùng được, nhưng giá đắt nên gần như chỉ giới quý tộc mới xài. Nghĩ vậy mới thấy tổ chức này chẳng hề thiếu tiền. Thắp đèn ma pháp đâu có miễn phí, phải nạp Ma Lực liên tục từ Ma Tinh hoặc thuê ma pháp sư rót vào, tốn kém đủ thứ chi phí đi kèm.
 
-Vậy mà họ lại dùng nó một cách tùy tiện thế này... À, tôi cũng nên nói thêm rằng luồng sáng ấy hiện đang rọi vào hai người. Một người là gã đàn ông có vóc dáng vạm vỡ, còn người kia là một... cô bé khá thấp lùn, tôi nghĩ thế chăng?
+Thế mà họ lại xài tự nhiên như không... À, tiện thể nói luôn là luồng sáng đó đang rọi thẳng vào hai người. Một người là gã đàn ông vạm vỡ, người kia là một... cô bé khá thấp thì phải?
 
-"To gan thật đấy, lũ phản bội và hèn nhát kia! Ta là Vaasa! Vaasa Cường Thiết!"
+"To gan lắm mới dám vác mặt tới đây, lũ phản bội và hèn nhát kia! Ta là Vaasa! Vaasa Cường Thiết!"
 
 "Còn ta là Fuana Thông Ma Pháp!"
 
-Sau khi xưng danh, cả hai nhảy vọt khỏi khán đài, xoay người trên không trung rồi đáp xuống mặt đất. Đáng khen cho sự chuẩn bị tỉ mỉ đến từng chi tiết của họ là luồng sáng bám theo họ suốt dọc đường và lúc này vẫn đang rọi thẳng vào người cả hai.
+Xưng danh xong xuôi, cả hai tung mình khỏi khán đài, nhào lộn một vòng trên không trung rồi đáp xuống đất. Cũng phải khen cho sự chuẩn bị công phu của họ, luồng sáng bám theo hai người suốt cú nhảy và đến giờ vẫn rọi trúng phóc vào cả hai.
 
-"Hai người đó bị làm sao thế?" tôi buột miệng hỏi.
+"Hai người đó làm cái trò gì thế?" tôi buột miệng hỏi.
 
-Ông lão tỏ vẻ kinh ngạc, nhưng theo một cách đầy vẻ mệt mỏi. "Hai đứa ngốc ấy mà. Những đứa ngốc có thực lực... nhưng vẫn cứ là ngốc."
+Ông lão ngớ người ra, nhưng nét mặt lại lộ vẻ ngao ngán. "Hai đứa ngốc ấy mà. Ngốc có bản lĩnh... nhưng chung quy vẫn là ngốc."
 
 ◆◇◆◇◆
 
-Lorraine trông cũng ngán ngẩm chẳng kém. "Ông bảo họ có thực lực, nhưng thú thực... tôi khó lòng mà tin nổi lời ông."
+Lorraine trông cũng ngán ngẩm chẳng kém. "Ông bảo họ có bản lĩnh, nhưng thú thực... tôi khó mà tin nổi lời ông."
 
-"Ta hiểu mà. Ta rất hiểu. Nhưng đó là sự thật. Nếu các cậu đánh giá thấp bọn chúng, các cậu sẽ phải nếm mùi đau khổ đấy. Hãy luôn cảnh giác."
+"Ta hiểu mà. Rất hiểu là đằng khác. Nhưng đó là sự thật đấy. Coi thường hai đứa nó là nếm trái đắng ngay. Liệu mà cẩn thận."
 
-Tôi rất muốn chỉ ra rằng chỉ riêng việc nhìn hai người họ làm trò thôi cũng đã đủ khổ sở lắm rồi, nhưng có lẽ ông cũng thấm thía điều đó quá rõ rồi, nên tôi đành nén lại.
+Tôi ngứa miệng muốn bảo chỉ đứng nhìn hai đứa đó thôi cũng đủ mệt người rồi, cơ mà chắc ông ấy cũng thấm thía quá rồi nên tôi đành nín nhịn.
 
-Bộ đôi đang tạo dáng kỳ quặc cách chúng tôi vài bước chân lên tiếng trước, bắt đầu từ gã đàn ông. Vaasa Cường Thiết, phải không nhỉ? Ừ, chính là gã.
+Hai kẻ đang tạo dáng kỳ cục cách chúng tôi vài bước chân lên tiếng trước, mở màn là gã to con. Vaasa Cường Thiết phải không nhỉ? Ừ, đúng hắn rồi.
 
-"Ông già. Cả Goblin nữa. Hai người to gan thật đấy khi dám nghênh ngang quay lại đây! Đặc biệt là ông già đấy! Tôi thất vọng về ông quá. Tôi nghe Goblin bảo rằng ông đã thua một trận đấu. Tôi nghĩ mình đang nói thay cho tất cả mọi người khi khẳng định chuyện đó hoàn toàn là một trò dối trá trắng trợn!"
+"Ông già. Cả Goblin nữa. Hai người to gan thật đấy, dám vác mặt quay lại đây! Nhất là ông già! Tôi thất vọng về ông quá đấy. Tôi nghe Goblin bảo ông đánh thua một trận. Tôi nói thay cho tất cả mọi người luôn: chuyện đó hoàn toàn là bịa đặt!"
 
-Thoáng chốc tôi cứ ngỡ gã thất vọng vì chuyện thua cuộc, nhưng rõ ràng không phải vậy.
+Thoáng chốc tôi cứ tưởng hắn thất vọng vì chuyện ông lão thua cuộc, hóa ra chẳng phải.
 
-"Với sức mạnh của ông già, làm sao có chuyện ông lại thua một đám Ngân Cấp được chứ!" Vaasa tiếp tục gào lên. "Đến tôi đây còn có thể xơi tái hai tên Ngân Cấp vào bữa sáng! Mà mỗi lần chúng ta so tài, tôi trước mặt ông chẳng khác nào một đứa con nít! Tại sao ông lại bảo mình thua cuộc cơ chứ?!"
+"Với sức của ông già, đời nào lại đi thua một đám Ngân Cấp được chứ!" Vaasa gào tiếp. "Hai tên Ngân Cấp thì tôi xơi tái lúc nào chẳng được! Đằng này lần nào đấu với ông, tôi cũng chỉ như đứa con nít! Sao ông lại bảo mình thua cuộc hả?!"
 
-Tôi bắt đầu lờ mờ hình dung được chuyện gì đang diễn ra ở đây rồi.
+Tôi bắt đầu hiểu đại khái chuyện gì đang xảy ra rồi.
 
-Goblin là người đầu tiên lên tiếng đáp lại. "Tôi đã bảo với cậu rồi cơ mà, đúng không? Phải nói bao nhiêu lần thì cậu mới chịu thông não đây hả? Lúc đó tôi ở khá xa, nhưng tôi vẫn có thể nhận ra ông ấy đã trúng phải một loạt ma pháp quy mô cực lớn dồn dập. Và chính ông ấy cũng đã xác nhận điều đó. Ông ấy tự nhận mình thua, rành rọt và rõ ràng."
+Goblin lên tiếng trước. "Tôi bảo rồi cơ mà? Phải nói bao nhiêu lần thì cậu mới chịu hiểu hả? Lúc đó tôi đứng khá xa nhưng vẫn thấy rõ ông ấy bị dội một tràng ma pháp quy mô khủng khiếp thế nào. Mà chính ông ấy cũng xác nhận rồi, tự miệng nhận thua rành rành ra đó."
 
-"Dối trá! Toàn là dối trá!"
+"Láo toét! Toàn chuyện bịa đặt!"
 
-Goblin vỗ trán một cái rồi quay sang phía chúng tôi. "Không ăn thua rồi," anh ta uể oải nói.
+Goblin lấy tay vỗ trán rồi quay sang phía chúng tôi. "Không ăn thua rồi," anh ta ngao ngán bảo.
 
-Phải rồi, cách tiếp cận này chắc chắn là ngõ cụt. Ông lão xem đó là tín hiệu để tiếp quản cuộc đối thoại.
+Ừ, nói lý lẽ kiểu này thì đúng là chịu chết rồi. Thấy vậy, ông lão bèn đứng ra tiếp lời.
 
-"Tại sao cậu lại nghĩ ta đang nói dối? Ta làm một việc như thế thì được lợi lộc gì chứ?"
+"Sao cậu lại nghĩ ta nói dối? Bịa chuyện như thế thì ta được lợi lộc gì?"
 
-Đó là một câu hỏi thẳng thắn. Ông nói cũng phải; nếu ông có khả năng đánh bại chúng tôi, hoặc đã đánh bại chúng tôi, thì chúng tôi đâu có rơi vào tình cảnh này. Ông chỉ việc giết chết chúng tôi là xong chuyện. Nói cách khác, ông lão đang cố nhấn mạnh rằng việc ông nói dối về chuyện đó là hoàn toàn vô nghĩa. Thế nhưng, bấy nhiêu vẫn chưa đủ để thuyết phục Vaasa.
+Một câu hỏi rất thẳng thắn. Ông ấy nói cũng đúng, nếu ông ấy đánh thắng hay có cửa hạ gục chúng tôi thì giờ này bọn tôi đâu có đứng đây. Cứ việc khử chúng tôi là xong nợ. Nói cách khác, ông lão đang muốn nhấn mạnh rằng mình chẳng có lý do gì để nói dối. Thế nhưng, bấy nhiêu vẫn chưa đủ để thuyết phục Vaasa.
 
-"Ông già đừng có bắt tôi phải đọc suy nghĩ của ông! Ông thừa biết tôi đâu có giỏi mấy chuyện chi tiết vụn vặt như thế! Đầu óc tôi không đủ thông minh! Nhưng điều tôi biết chắc là ông lúc nào cũng suy tính lung tung về những chuyện phức tạp liên quan đến công việc của bọn mình và các thành viên khác trong tổ chức—mấy thứ sâu xa và quy mô lớn lao hơn mức tôi có thể tưởng tượng! Và điều đó đã dẫn ông tới chuyện này! Cho nên chắc chắn phải có uẩn khúc gì đó đằng sau!"
+"Ông già đừng có đánh đố tôi! Thừa biết tôi dốt mấy chuyện chi li tính toán rồi còn gì! Tôi làm gì đủ thông minh! Nhưng tôi biết tỏng là lúc nào ông cũng vắt óc nghĩ ngợi mấy chuyện phức tạp về công việc lẫn các thành viên trong tổ chức, toàn thứ sâu xa đao to búa lớn vượt quá tầm tưởng tượng của tôi! Và chính chuyện đó mới dẫn tới nông nỗi này! Thế nên vụ này chắc chắn phải có uẩn khúc gì đằng sau!"
 
-"Đúng là lý sự cùn nửa vời," Goblin lầm bầm khe khẽ. "'Mấy thứ' là cái quái gì chứ? Thứ gì mới được? Cơ mà, cậu cũng chẳng hẳn là đoán sai trật lấc, nên tôi đoán đôi khi trực giác của một kẻ ngốc cũng phát huy tác dụng đấy chứ..."
+"Lý lẽ nửa mùa hết chỗ nói," Goblin lầm bầm khe khẽ. "Cái gì mà 'mấy thứ'? Thứ gì mới được chứ? Cơ mà cậu nói cũng chẳng trật đi đâu, thành ra lắm lúc trực giác của một kẻ ngốc lại có ích ra phết..."
 
-"Hừm," ông lão điềm đạm cất lời. "Nếu cậu nói đúng, thì ta đang hành động vì lợi ích của tổ chức, đúng chứ? Trong trường hợp đó, cậu chẳng có lý do gì để cản đường bọn ta cả. Chà, như thế thì đúng là trút được gánh nặng trong lòng ta rồi. Nào Vaasa, dẫn bọn ta tới gặp thủ lĩnh đi, được không? Chúng ta có thể nói chuyện trên đường đi. Có rất nhiều chuyện ta cần phải cập nhật với nhau đấy."
+"Hừm," ông lão điềm đạm nói. "Nếu cậu nói đúng thì ta đang làm việc vì tổ chức rồi còn gì? Đã vậy thì cậu cản đường bọn ta làm cái gì nữa. Chà, thế thì trút được gánh nặng cho ta rồi. Nào Vaasa, mau dẫn bọn ta tới gặp thủ lĩnh đi chứ? Cứ vừa đi vừa nói chuyện, có khối thứ ta cần cập nhật với nhau đấy."
 
-Vaasa có vẻ thoáng xuôi xuôi theo lời ông. "Ồ, phải rồi, được thôi. Đi—" Fuana huých cùi chỏ vào hông gã. "Khoan đã, không, sai bét hết rồi! Đâu có diễn ra theo kiểu đó được!"
+Vaasa thoáng nghe bùi tai định xuôi theo. "Ồ, phải rồi, đi—" Fuana bèn huých cùi chỏ vào hông gã. "Khoan đã, không, sai bét rồi! Ai lại làm như thế được!"
 
-"Chậc, ta cứ tưởng đã lừa được cậu rồi chứ." Ông lão có vẻ như đang trả lời Vaasa, nhưng giọng ông nhỏ đến mức gần như chỉ đang tự lẩm bẩm một mình. "Thế rốt cuộc thì sai ở chỗ nào?"
+"Chậc, suýt nữa thì lừa được cậu rồi." Ông lão dường như đang đáp lời Vaasa, nhưng giọng nhỏ tới mức như thể chỉ đang tự lẩm bẩm một mình. "Thế tóm lại là sai ở đâu?"
 
-Fuana "Thông Ma Pháp" dường như quyết định rằng cuối cùng cũng đến lượt mình tham gia vào cuộc đối thoại. "Quả nhiên là trước mặt ông già thì lúc nào cũng chẳng thể lơ là cảnh giác được! Nhưng ông đừng hòng lừa bọn tôi! Cái gì mà ma pháp làm ông bị thương cơ chứ?! Ma pháp của tôi đã bao giờ hạ gục được ông chưa hả?!"
+Fuana "Thông Ma Pháp" xem chừng thấy đã tới lượt mình bèn nhảy vào góp lời. "Ở cạnh ông già đúng là chẳng lúc nào lơ là cảnh giác được! Nhưng ông đừng hòng bịp bọn tôi! Cái gì mà ma pháp làm ông bị thương cơ chứ?! Ma pháp của tôi đã hạ nổi ông lần nào chưa hả?!"
 
-Ánh mắt ông lão thoáng xa xăm trong giây lát khi hồi tưởng lại quá khứ, rồi ông gật đầu sau khi tìm thấy câu trả lời mà mình tìm kiếm. "Chưa. Của cô thiếu lực."
+Ánh mắt ông lão thoáng xa xăm như đang lục lọi ký ức, rồi gật đầu khi tìm ra điều mình muốn nhớ lại. "Chưa. Ma pháp của cô thiếu lực."
 
-"Thiếu lực á?! Tôi có thể thổi bay cả một bức tường thành đấy! Hứ! Thật không thể tin nổi! Ông đang bảo với tôi rằng ông cùng sức chống chịu quái vật của mình lại bị khuất phục bởi ma pháp của một tên Ngân Cấp duy nhất ư?! Tuyệt đối không thể nào!"
+"Thiếu lực á?! Tôi có thể đánh sập cả tường thành đấy nhé! Hứ! Thật không thể tin nổi! Ông định bảo người có sức chịu đòn như quái vật như ông lại bị ma pháp của một tên Ngân Cấp quèn hạ gục ư?! Đời nào có chuyện đó!"
 
-Tôi không khỏi ấn tượng trước việc với cái thân hình nhỏ bé dường ấy mà cô ta lại có thể phát ra âm lượng to đến mức đó.
+Tôi cũng phát phục, cái thân hình bé con thế kia mà sao hét to đến thế không biết.
 
-Lorraine nhìn Fuana bằng ma nhãn của mình. Ngay cả cô cũng chẳng thể xác định một cách hoàn hảo lượng Ma Lực của một người hay trình độ ma pháp của họ đến đâu, nhưng tôi đoán cô muốn thu thập mọi thông tin có thể từ trước.
+Lorraine dùng ma nhãn nhìn Fuana. Dù ngay cả cô ấy cũng chẳng thể đo đếm chính xác tuyệt đối lượng Ma Lực hay trình độ ma pháp của đối phương, nhưng tôi đoán cô ấy muốn nắm trước được chừng nào hay chừng ấy.
 
-Sau một lúc, Lorraine lên tiếng. "Tôi không ngờ cô ta lại có nhiều Ma Lực đến thế. Cô ta có lượng Ma Lực gấp khoảng ba lần anh đấy, Rentt."
+Một lát sau, Lorraine lên tiếng. "Tôi không ngờ cô ta lại có nhiều Ma Lực đến thế. Ma Lực của cô ta phải gấp khoảng ba lần anh đấy, Rentt."
 
-Chà, nghe nản thật đấy. Tôi cứ ngỡ mình đã mạnh lên rồi, nhưng xem chừng bản thân vẫn còn một chặng đường dài thật dài phải đi.
+Nghe nản thật đấy chứ. Cứ tưởng dạo này mình đã mạnh lên rồi, ai ngờ vẫn còn kém xa quá.
 
-Có lẽ Lorraine đã nhận ra tâm trạng của tôi, bởi cô khẽ mỉm cười gượng gạo. "Anh là kiếm sĩ chứ đâu phải ma pháp sư, vả lại anh còn là Tam Chúc Phúc nữa. Chuyện đó đâu thể đơn thuần so sánh xem ai hơn ai được."
+Chắc Lorraine cảm nhận được tâm trạng của tôi nên cô ấy cười trừ. "Anh là kiếm sĩ chứ có phải ma pháp sư đâu, vả lại anh còn là Tam Chúc Phúc nữa. Đâu thể cứ đem ra so đo đơn giản như thế."
 
-"Nhưng cô ta có lượng Ma Lực gấp ba lần tôi cơ mà?"
+"Nhưng Ma Lực của cô ta gấp ba lần tôi cơ mà?"
 
-"Thì... đúng là thế. Cô ta thừa tiêu chuẩn làm mạo hiểm giả và có lẽ cũng là một ma pháp sư hạng nhất nữa. Thảo nào mà chúng ta không nên đánh giá thấp họ."
+"Thì... đúng là thế. Cô ta thừa sức làm mạo hiểm giả, khéo còn là ma pháp sư thượng thặng nữa kia. Chẳng trách ông lão dặn không được đánh giá thấp họ."
 
-"Cô nghĩ vậy sao...? Bản thân tôi thì chẳng thấy thế. Trông họ cứ ngơ ngơ ngác ngác thế nào ấy."
+"Thế cơ à...? Bản thân tôi thì chẳng thấy vậy. Trông hai người đó cứ ngờ nghệch sao ấy."
 
-"Đúng vậy, nhưng điều đó đâu có liên quan gì đến năng lực của họ. Nghĩ mà xem. Nive chẳng phải cũng có chút gì đó như thế sao?"
+"Thì đúng, nhưng cái đó đâu dính dáng gì tới thực lực. Nghĩ mà xem, Nive chẳng phải cũng có nét giống vậy à?"
 
-"Đó là vì cái khí tức đe dọa mà cô ấy luôn tỏa ra thôi. Tôi sẽ không gọi đó là ngơ ngác; đúng hơn là người ta chẳng bao giờ biết được cô ấy đang nghĩ gì trong đầu. Cảm giác hệt như đang nhìn vào một cái hố sâu không đáy vậy."
+"Đấy là do cái khí tức áp bức lúc nào cũng tỏa ra quanh người cô ấy thôi. Ai lại bảo cô ấy ngờ nghệch, chỉ là người ta không tài nào biết cô ấy đang nghĩ gì thôi. Cảm giác hệt như đang nhìn xuống một cái vực không đáy vậy."
 
-"Một cái hố không đáy... Tôi cho là anh nói đúng. Nive đúng là như vậy. Còn tôi thì không hề có cảm giác tương tự từ hai người này."
+"Vực không đáy à... Anh nói cũng có lý. Nive đúng là như vậy thật. Còn hai người này thì chẳng cho tôi chút cảm giác nào như thế cả."
 
-"Đúng chứ?"
+"Đúng chưa?"
 
 "Ừm."
 
-Lorraine và tôi gật đầu vẻ nghiêm trọng trong lúc quan sát cặp đôi trông ngơ ngác đằng kia.
+Tôi với Lorraine nghiêm nghị gật đầu, tiếp tục quan sát bộ đôi trông có vẻ ngớ ngẩn đằng kia.
 
-Đoạn tôi nêu ra chủ đề chính thực sự. "Vậy, cô nghĩ mình nắm chắc phần thắng không?"
+Đoạn, tôi quay lại vấn đề chính. "Sao, cô thấy mình có cửa thắng không?"
 
-"Còn tùy thuộc vào năng lực của cô ta. Nhưng có, tôi nghĩ là được. Còn anh?"
+"Còn tùy vào dị năng của cô ta nữa. Nhưng chắc là có. Còn anh?"
 
-"Tôi cũng vậy. Có vẻ gã hoàn toàn thuộc tuýp thuần vật lý, bao gồm cả dị năng. Gã có lẽ là đối thủ hợp rơ với tôi."
+"Tôi cũng thế. Xem chừng hắn thuộc dạng thuần vật lý, kể cả dị năng. Có lẽ là đối thủ khá hợp với tôi."
 
-"Vũ khí của anh có ổn không đấy? Thanh kiếm của anh đã phải chịu tổn hại nặng nề trong trận chiến hôm trước rồi."
+"Vũ khí của anh có ổn không đấy? Thanh kiếm của anh tả tơi sau trận chiến hôm nọ rồi còn gì."
 
-"Tàm tạm thôi. Hình dạng của nó vẫn còn nguyên vẹn nên không đến mức không dùng được... nhưng tôi sẽ dùng thanh kiếm dự phòng. Nó là hàng rẻ tiền và tôi chỉ có thể truyền Khí Lực qua nó, nhưng với tình huống này thì làm thế có khi lại phát huy tác dụng tốt hơn."
+"Tàm tạm thôi. Dáng kiếm vẫn chưa cong gãy nên không đến nỗi không xài được... cơ mà tôi sẽ đổi sang kiếm dự phòng. Đồ rẻ tiền thôi, chỉ dẫn được Khí Lực, nhưng trong trường hợp này khéo thế lại tốt hơn."
 
-"Có lẽ như vậy là tốt nhất đấy, bởi gã dường như có thể gạt phăng ma pháp tầm xa. Ai mà biết một lưỡi kiếm truyền Ma Lực sẽ có hiệu quả tới mức nào chứ?"
+"Thế khéo lại hay nhất, nghe đâu hắn gạt phăng được ma pháp tầm xa cơ mà. Chẳng biết lưỡi kiếm bọc Ma Lực có tác dụng gì với hắn không nữa."
 
 ◆◇◆◇◆
 
-"Dù sao thì các người cũng sẽ phải dùng nhiều hơn là lời nói suông để thuyết phục bọn tôi đấy! Có đúng không hả, Vaasa?!"
+"Dù sao thì các người đừng hòng dùng mồm mép suông mà thuyết phục được bọn tôi! Có đúng không hả Vaasa?!"
 
 "Cô nói chuẩn đấy, Fuana!"
 
-Tôi có thể nghe thấy rõ mồn một sự hào hứng của họ, đồng nghĩa với việc Lorraine cũng nghe thấy. Từ vẻ mặt nản lòng chung của chúng tôi—dù cô chẳng thể thực sự nhìn thấy mặt tôi—những gì chúng tôi đang nghĩ lộ rõ mười mươi: chúng tôi sẽ không thể nào giải quyết chuyện này bằng cách nói chuyện được rồi.
+Tôi nghe rõ mồn một sự hào hứng của hai người họ, và Lorraine hẳn cũng thế. Nhìn vẻ ngán ngẩm của cả hai đứa tôi, dù cô ấy đâu có thực sự thấy mặt tôi dưới lớp mặt nạ, thì cũng thừa hiểu cả bọn đang nghĩ gì: vụ này đừng hòng giải quyết bằng mồm mép.
 
-"Vậy các cậu muốn thế nào?" ông lão hỏi.
+"Thế các cậu muốn thế nào?" ông lão hỏi.
 
-Cả hai người họ đáp lại không chút do dự.
+Cả hai không chút do dự đồng thanh đáp ngay.
 
-"Hãy để bọn tôi đấu với những kẻ đã đánh bại ông!" Fuana đòi hỏi. "Nếu họ đánh bại được bọn tôi, bọn tôi sẽ dẫn các người tới gặp thủ lĩnh!"
+"Cho bọn tôi đấu với những kẻ đã đánh bại ông!" Fuana đòi. "Họ mà thắng được bọn tôi thì bọn tôi sẽ dẫn các người tới gặp thủ lĩnh!"
 
-"Nếu bọn tôi thắng, thì họ chỉ đi được tới đây thôi!" Vaasa tuyên bố. "Điều đó áp dụng cho cả ông già và Goblin nữa đấy!"
+"Còn nếu bọn tôi thắng thì họ chỉ đi được tới đây thôi!" Vaasa tuyên bố. "Kể cả ông già với Goblin cũng vậy luôn!"
 
-Chà chà.
+Thế đấy.
 
-Ông lão thở dài thắt thẻo. "Được rồi, được rồi. Muốn làm gì thì tùy các cậu." Ông quay sang phía chúng tôi và hạ giọng thì thầm. "Đấy, chuyện là như thế đấy. Chúc hai cậu may mắn."
+Ông lão thở dài thườn thượt. "Được rồi, được rồi. Tùy các cậu đấy." Ông quay sang phía chúng tôi, hạ giọng thì thào. "Đấy, sự thể là thế. Chúc hai cậu may mắn."
 
-Tôi sẽ chẳng hề ngạc nhiên nếu ông đã lường trước chuyện này từ sớm. Ông chắc chắn nắm rất rõ họ là hạng người thế nào. Điều đó bỗng gợi lên trong đầu tôi một suy nghĩ.
+Tôi chẳng ngạc nhiên nếu ông lão đã đoán trước được cơ sự này từ sớm. Chắc chắn ông ấy nắm rất rõ tính nết của hai người kia. Tự dưng trong đầu tôi nảy ra một thắc mắc.
 
-"Có phải tất cả những người ông chiêu mộ đều là những kẻ ngốc thẳng tính như thế không?" tôi hỏi.
+"Có phải ai được ông chiêu mộ cũng là kiểu người ngốc nghếch thẳng tuột thế này không?" tôi hỏi.
 
-Nếu đúng là vậy thì tôi có thể hình dung ông lão đã phải vất vả đến nhường nào. Goblin thuộc tuýp người thông minh, nhưng Siren dường như gần gũi với hai người này hơn, dù nếu so sánh thì cô bé điềm đạm hơn đôi chút. Rốt cuộc thì cô bé vẫn sẵn lòng lắng nghe những gì chúng tôi nói cơ mà.
+Nếu đúng thế thật thì đủ hiểu ông lão đã vất vả đến mức nào. Goblin thuộc tuýp người thông minh, còn Siren xem chừng lại na ná hai người này, dẫu có phần trầm tính hơn. Dù sao thì cô bé vẫn chịu ngồi nghe chúng tôi giải thích cơ mà.
 
-Ông lão lắc đầu. "Trời đất ơi, không có đâu. Chúng chỉ là những ngoại lệ thôi. Tất cả những ai thực sự biết mình đang làm gì đều được phái đi làm nhiệm vụ cả rồi, nên họ thường không có mặt ở đây. Hai đứa này dành phần lớn thời gian ở đây vì bọn ta chỉ có thể giao cho chúng những công việc đơn giản thẳng thừng mà thôi."
+Ông lão lắc đầu. "Lạy trời, làm gì có chuyện đó. Hai đứa này chỉ là ngoại lệ thôi. Ai tháo vát biết việc thì đều được phái đi làm nhiệm vụ cả rồi, thành thử ít khi ở đây. Hai đứa nó quanh năm suốt tháng ru rú ở chỗ này là vì bọn ta chỉ có thể giao cho chúng mấy việc đơn giản, một đường một nẻo mà thôi."
 
-Ồ, bị cách ly khỏi các nhiệm vụ nghe chừng lại khá là hợp với họ đấy chứ.
+Chà, không để hai người họ đi làm nhiệm vụ ngoài nghe chừng lại hợp lý phết.
 
-"Nói thế không có nghĩa là bọn ta không để chúng làm gì," ông lão tiếp tục. "Còn có công việc giấy tờ sổ sách, và tổ chức cũng phải quản lý đấu trường nữa. Khi không có phi vụ lén lút mờ ám nào diễn ra, bọn ta để chúng xử lý những việc đó. Ta đoán lúc này chúng đang rảnh rỗi thừa mứa thời gian lắm đây. Chẳng có giải đấu nào đang diễn ra, mà cũng không có bất kỳ sự kiện nào khác được lên kế hoạch. Đấu trường cũng có những ngày nghỉ của nó, thành thử..."
+"Nói thế không có nghĩa là bọn ta để chúng chơi không," ông lão nói tiếp. "Vẫn còn việc giấy tờ sổ sách, vả lại tổ chức cũng phải quản lý đấu trường nữa. Lúc nào không có mấy vụ ám toán ngấm ngầm thì bọn ta giao cho hai đứa xử lý mấy việc lặt vặt đó. Chắc đợt này chúng đang rảnh rỗi quá đỗi đây. Chẳng có giải đấu nào, cũng không có sự kiện gì được lên lịch. Đấu trường cũng có những ngày đóng cửa nghỉ ngơi, thành thử..."
 
-"Một phần lý do chúng làm trò này có khi chỉ là để giết thời gian thôi đấy," Goblin lẩm bầm.
+"Một phần lý do hai đứa nó bày trò này khéo chỉ để giết thời gian thôi," Goblin lầm bầm.
 
-Tôi thực sự chẳng muốn tin vào điều đó chút nào, nhưng qua cái màn xuất hiện của họ thì quá đỗi rõ ràng là họ thừa mứa thời gian để giết thật. Dẫu vậy, ngay cả khi chúng tôi muốn trốn chạy khỏi mớ bòng bong này, đó cũng chẳng phải là một lựa chọn khả dĩ.
+Tôi chẳng muốn tin vào chuyện đó chút nào, nhưng nhìn cái màn xuất hiện màu mè của hai người kia thì rõ là họ rảnh rỗi thật. Cơ mà dẫu chúng tôi có muốn chuồn khỏi mớ bòng bong này thì cũng đâu còn đường lui.
 
-Tôi nhìn Lorraine, và chúng tôi gật đầu với nhau.
+Tôi nhìn sang Lorraine, cả hai khẽ gật đầu với nhau.
 
-"Được thôi, bọn tôi nhận lời khiêu chiến!" tôi cất tiếng gọi. "Ai đấu với ai đây?"
+"Được thôi, bọn tôi tiếp chiêu!" tôi cất tiếng gọi. "Ai đấu với ai đây?"
 
-Dĩ nhiên, tốt nhất là tôi đấu với Vaasa, còn Lorraine tiếp Fuana, nhưng chúng tôi không thể nói toạc ra như thế; xét theo cái tính hay làm ngược lại của họ, rất có khả năng mọi chuyện sẽ biến thành ngược lại.
+Dĩ nhiên, tốt nhất là tôi đấu với Vaasa còn Lorraine tiếp Fuana, nhưng bọn tôi không thể nói toạc móng heo ra như vậy; cái thói ngang bướng thích làm ngược đời của hai người đó rất dễ khiến mọi chuyện trớ trêu đảo chiều.
 
-Nếu chúng tôi nhường quyền lựa chọn cho họ, Fuana vốn có hứng thú với ma pháp sẽ chọn Lorraine, và khi đó Vaasa sẽ dành phần tôi. Dù sao thì kế hoạch là như thế.
+Nếu để hai người họ tự chọn, Fuana vốn tò mò về ma pháp chắc chắn sẽ nhắm vào Lorraine, và thế là Vaasa sẽ rơi vào tay tôi. Tính toán là thế đấy.
 
-Để hỗ trợ cho kế hoạch, ông lão bèn bồi thêm một câu của mình. "Ồ, phải rồi. Lorraine đây đúng là người đã hạ gục ta bằng những ma pháp hùng mạnh của cô ấy, nhưng cô ấy không đánh bất tỉnh ta. Mà chính Rentt ở đây mới là người tung đòn dứt điểm ta. Bằng một thanh kiếm, không hơn không kém."
+Để tiếp tay cho kế hoạch, ông lão bèn bồi thêm một câu. "Ồ, phải rồi. Cô Lorraine đây đúng là người đã khuất phục ta bằng chuỗi ma pháp khủng khiếp, nhưng cô ấy không hề đánh ta bất tỉnh. Chính cậu Rentt đây mới là người tung đòn dứt điểm ta. Bằng một thanh kiếm hẳn hoi đấy nhé."
 
-Ông vừa dứt lời thì...
+Ông ấy vừa dứt lời thì...
 
-"Vậy thì tôi sẽ là người đấu với anh, Rentt!" Vaasa gào to.
+"Thế thì tôi sẽ đấu với anh, Rentt!" Vaasa gào to.
 
-"Này!" Fuana hét lên. "Sao cậu lại được chọn trước hả?!"
+"Này!" Fuana hét toáng lên. "Sao cậu lại giành chọn trước hả?!"
 
-"Có hề gì chứ? Chẳng phải cô bảo mình rất có hứng thú với ma pháp sư sao? Nếu họ không nói dối, thì cô ấy có thể thi triển cả đống ma pháp cực nhanh với hỏa lực còn mạnh hơn cả của cô đấy. Dù tôi thì chẳng tin điều đó là thật đâu."
+"Quan trọng gì đâu? Chẳng phải cô bảo mình tò mò về ma pháp sư lắm sao? Nếu họ không bốc phét thì cô ta có thể bắn cả đống ma pháp cực nhanh với hỏa lực ăn đứt cô đấy. Dù tôi chẳng tin chuyện đó là thật đâu."
 
-"Hừm... Tôi đoán là cậu nói đúng!" Fuana lập tức gật đầu lia lịa. "Được rồi, vậy thì tôi sẽ tiếp cô, quý cô đằng kia! Rõ chưa?!"
+"Hừm... Cậu nói cũng có lý!" Fuana lập tức gật đầu lia lịa. "Được rồi, thế thì tôi sẽ tiếp cô, cô gái đằng kia! Rõ chưa hả?!"
 
-Đối với một kẻ được gọi là "Thông Ma Pháp", cô ta trông chẳng có vẻ gì là thông minh cả. Dù thế nào đi nữa, hùa theo họ cũng tiện cho chúng tôi. Mọi chuyện đều đang diễn ra đúng như dự tính của chúng tôi, thế nên cả Lorraine lẫn tôi đều không hề đưa ra bất kỳ phản đối nào.
+Mang danh hiệu "Thông Ma Pháp" mà xem chừng đầu óc cô ta chẳng sáng láng cho lắm. Dù sao thì thuận nước đẩy thuyền cũng tiện cho chúng tôi. Mọi sự đang diễn ra đúng y như tính toán nên cả tôi lẫn Lorraine đều chẳng buồn phản đối.
 
-"Được thôi," tôi nói. "Bọn tôi đồng ý."
+"Được thôi," tôi nói. "Chốt như thế đi."
