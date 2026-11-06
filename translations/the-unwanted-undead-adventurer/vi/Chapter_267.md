@@ -4,7 +4,7 @@ Cách đây vài năm, hồi tôi vẫn còn là một mạo hiểm giả con ng
 
 "Cô ta muốn cô đưa tới Mũi Rook à?" tôi hỏi, lúc đó đang ngồi ăn tối ở nhà Lorraine. "Mà nhắc lại xem nào, sao cô ta lại muốn đến đó ấy nhỉ?"
 
-"Nghe đâu là muốn tới ngắm cảnh," Lorraine đáp. "Chà, mấy ủy thác kỳ quặc kiểu này thì thiếu gì. Mạo hiểm giả như chúng ta đâu thể kén cá chọn canh, cơ mà dĩ nhiên tôi vẫn sẽ cẩn thận để ý xem có gì đáng ngờ không."
+"Nghe đâu là muốn tới ngắm cảnh," Lorraine đáp. "Chà, mấy ủy thác kỳ quặc kiểu này thì thiếu gì. Mạo hiểm giả như chúng ta đâu thể kén cá chọn canh, có điều dĩ nhiên tôi vẫn sẽ cẩn thận để ý xem có gì đáng ngờ không."
 
 Chúng tôi đang nói về một ủy thác mà Lorraine mới nhận. Một người phụ nữ tên Hilde thuê người hộ tống tới vùng hẻo lánh gọi là Mũi Rook.
 
@@ -12,19 +12,19 @@ Chúng tôi đang nói về một ủy thác mà Lorraine mới nhận. Một ng
 
 Mà nhắc đến Mũi Rook thì còn một chuyện nữa...
 
-"Cô nhắc đến chuyện cẩn thận nghe khéo thật đấy..." tôi lẩm bẩm. "Liệu cô ta có sao không?"
+"Trùng hợp thật, nghe cô nhắc chuyện cẩn thận mới nói..." tôi lẩm bẩm. "Liệu cô ta có ổn không đấy?"
 
 "Anh cũng lo chuyện đó xảy ra à? Nếu không phải bận tâm mà cứ mặc kệ cô ta được thì tốt quá, nhưng tôi chẳng muốn vô tình nhìn thấy cảnh chẳng lành đâu."
 
 "Hóa ra cô cũng có linh cảm đấy hả?"
 
-Chúng tôi đang bàn xem liệu người phụ nữ tên Hilde đó có định gieo mình từ mũi đất xuống tự vẫn hay không.
+Chúng tôi đang bàn xem liệu người phụ nữ tên Hilde đó có định gieo mình từ mũi đất xuống tự sát hay không.
 
 Về mặt địa thế, Mũi Rook là một mỏm đá nhô cao chót vót nhìn xuống một hồ nước lớn mang tên Hồ Quia.
 
-Bởi thế, nơi đây vốn khét tiếng là một điểm tự sát. Nó cách thị trấn Maalt không quá xa, nếu ráng sức đi bộ thì mất tầm hai ngày, nhưng khoảng cách ấy lại vừa đủ để tạo cảm giác tách biệt. Với những ai đã quyết chí quyên sinh, đó là chốn mà chẳng ai có thể cản đường họ.
+Bởi thế, nơi đây vốn khét tiếng là một điểm tự sát. Nó cách thị trấn Maalt không quá xa, nếu ráng sức đi bộ thì mất tầm hai ngày, nhưng khoảng cách ấy lại vừa đủ để tạo cảm giác tách biệt. Với những ai đã quyết tâm tìm đến cái chết, đó là nơi chẳng ai có thể cản họ lại.
 
-Cơ mà nghĩ theo hướng đó thì dường như chẳng có gì phải lo, bởi thân chủ lại yêu cầu có người hộ tống.
+Dù vậy, nghĩ theo hướng đó thì dường như chẳng có gì phải lo, bởi thân chủ lại yêu cầu có người hộ tống.
 
 Tôi đem thắc mắc đó nói với Lorraine: "Mà này, nếu định làm thế thật thì cô ta việc gì phải cất công thuê người hộ tống chứ?"
 
@@ -80,7 +80,7 @@ Tôi vừa chạy đi thì tiếng nhân viên Hội đã vọng theo sau lưng.
 
 "Hóa ra anh là người trám chỗ à?" Lorraine hỏi khi tôi tới bãi tập kết xe kéo. "Hilde, cô thấy anh này được không?"
 
-Hilde là một cô gái trẻ. Trông cô chẳng có vẻ gì là muốn tìm đến cái chết, nhưng nghĩ đi cũng phải nghĩ lại, chuyện tâm lý phụ nữ thì tôi mù tịt. Lòng dạ họ quả thực khôn lường.
+Hilde là một cô gái trẻ. Trông cô ấy chẳng có vẻ gì là muốn tìm đến cái chết, nhưng nghĩ đi cũng phải nghĩ lại, chuyện tâm lý phụ nữ thì tôi mù tịt. Lòng dạ họ quả thực khôn lường.
 
 "Được chứ, tôi không phiền đâu. Dù sao thì hình như chúng ta cũng chẳng còn lựa chọn nào khác..."
 
@@ -88,7 +88,7 @@ Hilde là một cô gái trẻ. Trông cô chẳng có vẻ gì là muốn tìm 
 
 "Thế thì không được rồi. Tôi muốn tới đó trước tối nay cơ."
 
-"Thế thì chỉ còn cách này thôi. Cơ mà chắc sẽ ổn cả. Anh này—Rentt ấy mà, làm việc đáng tin cậy lắm."
+"Thế thì chỉ còn cách này thôi. Nhưng chắc sẽ ổn cả. Anh này—Rentt ấy mà, làm việc đáng tin cậy lắm."
 
 "Anh ấy là người quen của cô à?"
 
@@ -100,25 +100,25 @@ Hilde mỉm cười chìa tay ra, nên tôi cũng đưa tay bắt.
 
 "À-Ừm. Tôi cũng rất vui được gặp cô."
 
-Chiếc xe kéo này do Hilde thuê trước. Tiền nong cô đã trả đủ cả, nên việc duy nhất còn lại là mang trả xe khi quay về Maalt.
+Chiếc xe kéo này do Hilde thuê trước. Tiền thuê xe cô ấy đã trả đủ cả, nên việc duy nhất còn lại là mang trả xe khi quay về Maalt.
 
-Tôi có đôi chút cảnh giác trước cách cô lo liệu mọi chuyện quá tươm tất, nhưng càng trò chuyện, tôi càng nhận ra mình chẳng việc gì phải lo. Cô ấy hoàn toàn không có ý định tự vẫn.
+Thấy cô ấy thu xếp sẵn mọi việc đâu vào đấy không vướng bận gì làm tôi cũng hơi chột dạ, nhưng càng trò chuyện, tôi càng nhận ra mình chẳng việc gì phải lo. Cô ấy hoàn toàn không có ý định tự sát.
 
-Ấy thế mà, dù tôi và Lorraine đã cố không để lộ vẻ lo lắng, Hilde vẫn cất tiếng hỏi, "Bộ... hai người đang có chuyện gì bận lòng sao?"
+Ấy thế mà, dù tôi và Lorraine đã cố không để lộ vẻ lo lắng, Hilde vẫn cất tiếng hỏi: "À này, hai người đang có chuyện gì bận lòng sao?"
 
 Có lẽ nghĩ đằng nào cũng tới nước này rồi thì thà nói toạc ra cho xong, Lorraine liền lên tiếng giải thích, giọng hơi ngập ngừng lúng túng.
 
 Hilde im lặng mất vài giây, rồi bỗng bật cười giòn giã.
 
-"A ha ha ha! Ra là vậy! Ha ha ha! Hai người nói tôi mới hiểu vì sao lại nghĩ thế. Một thân một mình lặn lội tới Mũi Rook... nghĩ lại thì chỗ đó đúng là dễ khiến người ta liên tưởng đến chuyện ấy thật. Cơ mà hai người cứ yên tâm nhé. Tôi chẳng có ý định làm chuyện dại dột đó đâu."
+"A ha ha ha! Ra là vậy! Ha ha ha! Hai người nói tôi mới hiểu vì sao lại nghĩ thế. Một thân một mình lặn lội tới Mũi Rook... nghĩ lại thì chỗ đó đúng là dễ khiến người ta liên tưởng đến chuyện ấy thật. Nhưng hai người cứ yên tâm nhé. Tôi chẳng có ý định làm chuyện dại dột đó đâu."
 
-"V-Vậy à? Thế thì mừng quá..." Lorraine bảo. "Cơ mà nói thật thì giờ tôi lại càng tò mò không biết cô tới đó làm gì đấy."
+"V-Vậy à? Thế thì mừng quá..." Lorraine bảo. "Mà nói thật thì giờ tôi lại càng tò mò không biết cô tới đó làm gì đấy."
 
 Mũi Rook ngoài phong cảnh đẹp ra thì chẳng còn gì khác. Nơi đó vốn chẳng đáng để người ta cất công lặn lội tìm đến, vậy mà cô ấy lại đang làm đúng cái chuyện ấy.
 
 "Bình thường thì đúng là ai cũng nghĩ thế thật," Hilde nói. "Nhưng mà, ừm... Thật ra ban đầu tôi tính đi ngắm một mình cơ, nhưng hay là hai người đi cùng tôi luôn nhé? Hai người ẩn thân có giỏi không?"
 
-Dù chẳng hiểu sao cô lại hỏi thế, tôi và Lorraine vẫn gật đầu.
+Dù chẳng hiểu sao cô ấy lại hỏi thế, tôi và Lorraine vẫn gật đầu.
 
 ◆◇◆◇◆
 
@@ -150,9 +150,9 @@ Tiếng kêu của nó vang vọng khắp bốn bề tựa như một khúc hát
 
 Một con Rồng khác từ trên trời sà xuống. Con này cũng là Rồng Băng, nhưng nó lại có cánh, trông như thể một phân loài hoàn toàn khác biệt.
 
-"Đôi cánh đó..." Lorraine lẩm bẩm, giọng bắt đầu sặc mùi nghiên cứu học thuật. "Được tạo bằng băng. Hóa ra chúng dùng đôi cánh ấy để bay, rồi nương theo tiếng hát để tìm đến bạn tình sao? Tập tính sinh thái thú vị thật đấy. Nhìn dáng vẻ thì tôi đoán con dưới hồ là rồng cái."
+"Đôi cánh đó..." Lorraine lẩm bẩm, giọng chuyển sang vẻ phân tích. "Chúng được tạo bằng băng. Hóa ra chúng dùng đôi cánh ấy để bay, rồi nương theo tiếng hát để tìm đến bạn tình sao? Tập tính sinh thái thú vị thật đấy. Nhìn qua thì tôi đoán con dưới hồ là con cái."
 
-Đoạn, đôi Rồng Băng liền lặn sâu xuống đáy nước.
+Rồi đôi Rồng Băng lặn sâu xuống đáy hồ.
 
 "Bà tôi bảo chắc chúng xuống dưới đó để giao phối," Hilde nói.
 
@@ -164,29 +164,29 @@ Lorraine gật gù: "Chắc đúng là thế. Chứ thân hình đồ sộ thế
 
 "Đúng thế. Tôi tới đây chỉ cốt nghe tiếng hát thôi mà. Đâu thể làm phiền đôi vợ chồng son được."
 
-"Ừm," Lorraine gật gù. "Cô nói phải. Thôi thì ta về thôi. Lượt này anh lại cầm lái đấy nhé, Rentt."
+"Ừm," Lorraine gật gù. "Cô nói phải. Chúng ta về thôi nhỉ. Lượt này anh lại cầm lái nhé, Rentt."
 
 "Ừ... tôi biết rồi."
 
 ◆◇◆◇◆
 
-Về tới Maalt, chúng tôi chia tay Hilde. Cô ngỏ ý nếu sang năm hai chúng tôi vẫn còn ở đây thì muốn thuê tiếp, và Lorraine đã đồng ý.
+Về tới Maalt, chúng tôi chia tay Hilde. Cô ấy bảo nếu sang năm chúng tôi vẫn còn ở đây thì muốn nhờ tiếp, và Lorraine đã đồng ý.
 
-Lúc về tới nhà Lorraine, nét mặt cô lộ rõ vẻ mãn nguyện.
+Khi đã về tới nhà, nét mặt Lorraine lộ rõ vẻ mãn nguyện.
 
-"Ủy thác lần này tuyệt thật đấy," cô nói.
+"Ủy thác lần này tuyệt thật đấy," cô ấy nói.
 
 Tôi gật gù hỏi lại: "Vì học thêm được điều mới mẻ về tập tính sinh thái của quái vật hả?"
 
-"Ừm. Ở Maalt sướng nhất là thi thoảng lại vớ được những phát hiện như thế. Vùng đất biên viễn này có biết bao trải nghiệm mới lạ. Khéo từ mai tôi phải chịu khó nhận ủy thác hơn mới được..."
+"Ừm. Ở Maalt thích nhất là thi thoảng lại bắt gặp những phát hiện như thế. Vùng biên giới này có biết bao trải nghiệm mới lạ. Có khi từ mai tôi phải chịu khó nhận ủy thác hơn mới được..."
 
-"Cô chịu đi làm thì tôi ủng hộ cả hai tay, có điều tôi e ủy thác bở thế này hiếm hơn cô tưởng nhiều đấy... Mà gác chuyện đó lại đã, nãy giờ nghĩ lại tôi mới nhận ra một chuyện nghe hơi rợn người."
+"Cô chịu đi làm thì tôi ủng hộ cả hai tay, có điều tôi e những ủy thác hay ho thế này hiếm hơn cô tưởng nhiều đấy... Mà gác chuyện đó lại đã, nãy giờ nghĩ lại tôi mới nhận ra một chuyện nghe hơi rợn người."
 
 "Chuyện gì thế?"
 
 "Hồ nước đó là nơi người ta hay ra tự sát đúng không? Mà dưới hồ lại có một con Rồng sinh sống."
 
-"À. Vậy là sau khi có người tự vẫn... Thôi, có lẽ chúng ta không nên nghĩ sâu quá về chuyện này."
+"À. Vậy là sau khi có người tự sát... Thôi, có lẽ chúng ta không nên nghĩ sâu quá về chuyện này."
 
 "Ừ. Cứ quên phắt đi cho rồi."
 

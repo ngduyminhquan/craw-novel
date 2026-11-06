@@ -6,7 +6,7 @@
 
 "Thế là quá đủ rồi! Cảm ơn hai người nhé! Tôi ăn đây!"
 
-Đôi mắt sáng lấp lánh như hai vì sao, Elza chắp hai tay lại rồi bắt tay ngay vào "công việc": cắm cúi xúc từng thìa bánh trước mặt tống lia lịa vào miệng.
+Đôi mắt sáng lấp lánh như hai vì sao, Elza chắp hai tay lại rồi bắt tay ngay vào việc: chăm chú xúc hết món này đến món khác trước mặt đưa vào miệng.
 
 Chúng tôi đang ngồi trong một tiệm bánh ngọt nghe đồn nức tiếng về độ ngon. Tôi bảo "nghe đồn" là vì chúng tôi tới đây theo chỉ dẫn của Rina. Tiệm nằm khuất sâu trong một con ngõ nhỏ, nhưng toàn bộ bánh trái đều do chính tay chủ quán tỉ mẩn làm thủ công.
 
@@ -14,9 +14,9 @@ Rina muốn mua bánh ở đây làm quà lưu niệm, nhưng có ghi là bánh 
 
 Elza chưa từng nghe tên tiệm bánh này bao giờ, nhưng sau khi được mời nếm thử một miếng, cô ấy liền xuýt xoa tỏ vẻ thích thú trước phát hiện mới mẻ này.
 
-Cô ấy bảo muốn ngồi ăn một bữa đàng hoàng ở đây, nên để cảm ơn người dẫn đường, chúng tôi vào bàn rồi ngỏ ý bao trọn chầu này. Elza tần ngần hồi lâu trước vô số loại bánh trong tiệm, nhưng vừa nghe chúng tôi bảo thích bao nhiêu cứ gọi, cô ấy liền gọi một lèo bảy cái.
+Cô ấy bảo muốn ngồi ăn đàng hoàng ở đây, nên để cảm ơn người dẫn đường, chúng tôi vào khu vực ăn tại chỗ rồi ngỏ ý đãi cô ấy bữa này. Elza tần ngần hồi lâu trước đủ loại bánh trong tiệm, nhưng vừa nghe chúng tôi bảo thích bao nhiêu cứ gọi, cô ấy liền gọi một lèo bảy phần.
 
-Đã là Nữ Tu Viện Trưởng thì phải biết tiết chế chứ nhỉ? Mà thật ra, để thói háu ăn cùng đồ ngọt cám dỗ như thế, một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên kiểu gì chẳng mắc tội. Thế nhưng khi tôi thử gặng hỏi cô ấy...
+Đã là Nữ Tu Viện Trưởng thì phải biết tiết chế chứ nhỉ? Mà thật ra, để thói háu ăn cùng đồ ngọt cám dỗ như thế, một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên kiểu gì chẳng mắc tội. Thế nhưng khi tôi nhắc tới chuyện này để hỏi cô ấy...
 
 "Dối lòng mới là điều Thiên Sứ ghét nhất. Miễn là trong lòng tôi không dối trá khi bảo mình thèm ăn bánh, thì tôi cứ việc ăn bánh thôi."
 
@@ -48,11 +48,11 @@ Trông cô ấy có vẻ kiệt sức. Chắc tại chứng kiến một Nữ Tu
 
 "Xin lỗi vì đã để hai người phải đợi! Đi thôi nào!"
 
-Mua xong, đống bánh chất cao như núi trong tay làm Elza trông chẳng khác gì một bà mẹ trẻ đang bồng bế một đàn con thơ. Cứ để mặc cô ấy tự xoay xở thế này ra đường thì khéo tôi lĩnh đủ những ánh mắt hình viên đạn mất.
+Mua sắm xong xuôi, Elza ôm một chồng bánh cao như núi trong tay, trông chẳng khác gì bà mẹ trẻ đang bồng bế cả đàn con nhỏ. Cứ mặc kệ cô ấy tự xoay xở ngoài phố thế này thì kiểu gì người đi đường cũng nhìn tôi bằng ánh mắt khó coi cho xem.
 
 "Để tôi xách hộ cho," tôi nói rồi đỡ lấy chỗ bánh từ tay cô ấy.
 
-"Ồ! Tôi không sao thật mà... nhưng nếu cậu đã có lòng..." Elza mỉm cười, vẻ lơ đễnh trên mặt cô ấy tan biến, nhường chỗ cho nét hiền từ của một người mẹ lộ rõ mồn một.
+"Ồ! Tôi không sao thật mà... nhưng nếu cậu đã có lòng..." Elza mỉm cười, vẻ lơ đễnh trên mặt cô ấy tan biến, nhường chỗ cho nét hiền từ bao dung của một người mẹ, rõ ràng đến mức ngỡ như chạm vào được.
 
 Xem ra cô ấy không phải tự nhiên mà được làm Thánh Giả. Còn "vị thánh" mà tôi quen hơn thì...
 
@@ -86,7 +86,7 @@ Cả đám trẻ đồng thanh đáp "Có ạ".
 
 "Vâng ạ! Đi thôi mọi người ơi!"
 
-Cậu nhóc có vẻ là đầu đàn liền hò hét cả đám nháo nhào ùa vào trong tòa nhà. Nhìn qua thì nơi này vốn là một nhà thờ cũ.
+Cậu nhóc có vẻ là đầu đàn liền dẫn cả đám ríu rít ùa vào trong tòa nhà. Nhìn qua thì nơi này vốn là một nhà thờ cũ.
 
 "Đây là cô nhi viện đúng không?" Lorraine hỏi.
 
@@ -98,7 +98,7 @@ Elza gật đầu. "Phải rồi. Lillian và tôi từng lớn lên ở đây �
 
 Chắc cô ấy nghĩ tự vào sẽ nhanh hơn đứng đợi người ra đón. Dù sao xem chừng cô ấy cũng rất thân với vị giáo sĩ quản lý cô nhi viện, nên ít ra chúng tôi không đến mức đường đột xông vào như người xa lạ.
 
-Elza lớn lên ở đây từ nhỏ, và giờ khi đã là Nữ Tu Viện Trưởng, mối liên kết giữa cô ấy với nơi này lại mang một ý nghĩa khác. Trông cô ấy hoàn toàn tự nhiên và thoải mái. Ít nhất thì đó là những gì tôi cảm nhận được qua lời cô ấy nói cùng bầu không khí lúc này.
+Elza từng được nuôi dưỡng ở đây từ rất lâu về trước, và giờ khi đã là Nữ Tu Viện Trưởng, cô ấy lại gắn bó với nơi này theo một cách khác. Hẳn cô ấy thấy rất thoải mái khi ở đây. Ít nhất thì đó là những gì tôi đoán được qua lời cô ấy nói cùng bầu không khí xung quanh.
 
 "Được thôi," cả tôi và Lorraine cùng đáp rồi bước vào trong.
 
@@ -106,13 +106,13 @@ Elza lớn lên ở đây từ nhỏ, và giờ khi đã là Nữ Tu Viện Trư
 
 "Oái?!"
 
-Vừa bước chân vào, một thứ gì đó to lớn và nặng trịch bất ngờ ập thẳng vào mặt tôi. Tôi cũng tính né sang một bên, nhưng do không cảm nhận được chút sát khí nào nên phản xạ chậm mất một nhịp. Chưa kể tốc độ của nó cũng nhanh hơn tôi tưởng nhiều.
+Tôi vừa bước chân vào thì một thứ to lớn và nặng trịch bất ngờ ập thẳng vào mặt. Tôi cũng tính né sang một bên, nhưng thấy thứ đó chẳng có vẻ gì là ác ý nên mới phản ứng chậm một nhịp. Chưa kể nó còn lao tới nhanh hơn tôi tưởng.
 
 Không biết là cái gì nữa. Tôi hơi nghiêng đầu nhìn thử, và...
 
 Hộc. Hộc. Liếm. Liếm.
 
-Hơi thở nóng hổi cùng một chiếc lưỡi ươn ướt phả thẳng vào mặt nạ của tôi. Lạ lùng là tôi lại chẳng thấy tởm chút nào. Hồi trước tôi từng bị lưỡi của một con gigantes rana—về cơ bản là một con ếch khổng lồ—quấn trúng, so với phen đó thì lần này còn dễ chịu hơn chán vạn.
+Hơi thở nóng hổi phả thẳng vào mặt nạ của tôi, theo sau là một chiếc lưỡi ươn ướt. Lạ là tôi chẳng thấy ghê chút nào. Hồi trước tôi từng bị lưỡi của một con gigantes rana, nôm na là ếch khổng lồ, quấn trúng; so với phen đó thì lần này dễ chịu hơn nhiều.
 
 Lưỡi nó nhớp nháp vô cùng, tôi có giãy giụa cật lực cỡ nào cũng không sao thoát nổi. Cuối cùng, một mạo hiểm giả Đồng Cấp mạnh hơn trong tổ đội lúc bấy giờ đã ra tay cứu tôi.
 
@@ -120,7 +120,7 @@ Quái vật họ ếch trông thì buồn cười nhưng thực chất rất đ�
 
 Thôi, quay lại chuyện chính đã. Mặt tôi vẫn đang bị liếm đây này.
 
-"Này, này! Pochi! Nằm xuống nào, ngoan!" một giọng nói dịu dàng cất lên.
+"Này, này! Pochi! Xuống đi, ngoan nào!" một giọng nói dịu dàng cất lên.
 
 Sinh vật to xác kia lùi ra, lúc này tôi mới nhìn rõ được nó.
 
@@ -132,7 +132,7 @@ Thế nhưng ánh mắt nó lại rất đỗi thân thiện và trong trẻo, t
 
 Trong khi đó, chó lại rơi vào hai thái cực rõ rệt. Có những giống ngoan ngoãn nuôi trong nhà thì rất quấn người, nhưng khả năng chiến đấu lại gần như bằng không. Thành thử nếu muốn tìm bạn chiến đấu, người ta buộc phải nhắm tới các loài quái vật cấp cao.
 
-Tuyệt nhiên chẳng có mức lưng chừng ở giữa. Điểm này khá phiền toái, nhưng một khi đã có được lòng trung thành của nó, nó sẽ theo bạn đến tận hơi thở cuối cùng dù có chuyện gì xảy ra đi nữa. Nghĩ vậy cũng thấy yên tâm phần nào.
+Tuyệt nhiên chẳng có mức lưng chừng ở giữa. Điểm này khá phiền toái, nhưng một khi đã có được lòng trung thành của chúng, chúng sẽ đi theo người ta đến tận lúc nhắm mắt xuôi tay dù có chuyện gì xảy ra đi nữa. Điểm đó lại mang đến cảm giác rất an tâm.
 
 Quái vật họ mèo thì ngược lại, tính tình đỏng đảnh thất thường, hễ thấy có biến là lập tức quay lưng bỏ chạy. Chọn bên nào thì cũng được cái này mất cái kia.
 
@@ -148,7 +148,7 @@ Cô ấy đọc được suy nghĩ của tôi sao?
 
 "Anh có sao không?" cô gái hỏi. "Tôi xin lỗi về chuyện của Pochi nhé. Bình thường nó ngoan lắm..."
 
-Chà. Cử chỉ dịu dàng, phong thái điềm tĩnh, lại thêm nét đoan trang thùy mị của một thiếu nữ. Tựu trung lại, bảo cô ấy là một cô gái xuất sắc cũng chẳng ngoa chút nào. Dù hơi lệch gu tôi một chút, nhưng nếu hỏi bất kỳ đám đàn ông nào xem có muốn tán tỉnh cô ấy không, Rentt Faina này xin bảo đảm tỷ lệ giơ tay đồng ý phải ngót nghét một trăm phần trăm. Mấy gã còn lại khéo cũng chỉ làm bộ làm tịch bảo: "Ừ thì cũng được, nhưng cô ấy phải tỏ tình trước cơ."
+Chà. Cử chỉ dịu dàng, phong thái điềm tĩnh, lại thêm nét đoan trang thùy mị của một thiếu nữ. Tựu trung lại, bảo cô ấy là một cô gái tuyệt vời cũng chẳng ngoa chút nào. Dù hơi lệch gu tôi một chút, nhưng nếu hỏi bất kỳ đám đàn ông nào xem có muốn tán tỉnh cô ấy không, Rentt Faina này xin bảo đảm tỷ lệ giơ tay đồng ý phải ngót nghét một trăm phần trăm. Mấy gã còn lại khéo cũng chỉ làm bộ làm tịch bảo: "Ừ thì cũng được, nhưng cô ấy phải tỏ tình trước cơ."
 
 Đàn ông bọn tôi ngốc nghếch như thế đấy.
 
@@ -164,7 +164,7 @@ Gạt mấy suy nghĩ vớ vẩn ra khỏi đầu, tôi hỏi: "Cô có... chắ
 
 Đó là mảnh đất màu mỡ cho các nhà sinh vật học thỏa sức đào xới. Kéo dài sinh mệnh được bao lâu vốn là câu hỏi muôn thuở của mọi giống loài trên thế gian.
 
-Còn khi nói tới quái vật... Chà, tôi đồ rằng bản thân chẳng có thứ gọi là "tuổi thọ tự nhiên". Tôi là Undead cơ mà. Dù vậy, ngay cả khi tôi không phải Undead, thì nhìn chung quái vật vẫn sống thọ hơn động vật thường.
+Còn khi nói tới quái vật... Chà, chắc tôi chẳng có thứ gọi là "tuổi thọ tự nhiên" đâu. Tôi là Undead cơ mà. Dù vậy, ngay cả khi tôi không phải Undead, thì nhìn chung quái vật vẫn sống thọ hơn động vật thường.
 
 Người ta bảo Ma Lực giúp sinh vật kéo dài tuổi thọ, nhưng thực tế thì chuyện đó vẫn chưa có gì chắc chắn.
 
