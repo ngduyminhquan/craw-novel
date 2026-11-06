@@ -16,160 +16,160 @@
 
 ![](images/ch221-08.webp)
 
-"So với nơi này thì Maalt đúng là trông nhỏ bé thật đấy," tôi nói khi ngó ra ngoài cỗ xe ngắm nhìn khung cảnh của Vistelya, vương đô của Yaaran. Màn đêm vừa lúc buông xuống thành phố.
+"Đặt cạnh nơi này, Maalt đúng là trông bé tí con con," tôi vừa ngó ra ngoài xe ngắm cảnh Vistelya, vương đô của Yaaran, vừa buông một câu. Màn đêm vừa vặn buông xuống thành phố.
 
-Vương Quốc Yaaran vốn là một đất nước hẻo lánh, nhưng dẫu vậy, vương đô vẫn rộng lớn và phồn hoa hơn hẳn các đô thị vùng miền khác. Hoặc có lẽ tôi thấy nơi này đặc biệt lộng lẫy là vì đang so sánh nó với một thị trấn như Maalt. Ý tôi là, quả thực Maalt cũng đang nỗ lực hết mình dù nằm ở nơi biên viễn. Giờ đây nơi đó đã có mê cung riêng cùng lượng cư dân khá đông đúc. Tựu trung lại thì đó là một nơi đáng sống, nhưng nếu đem ra so với vương đô thì...
+Vương Quốc Yaaran vốn là một xứ hẻo lánh xa xôi, nhưng kể cả thế thì vương đô vẫn rộng lớn và sầm uất hơn hẳn các đô thị địa phương khác. Hoặc cũng có thể tôi thấy nơi này lộng lẫy đến vậy chỉ vì đang đem nó so với một nơi như Maalt. Ý tôi là, Maalt dù ở tận chốn biên cương nhưng cũng đã nỗ lực hết mình rồi. Giờ đây thị trấn đã có mê cung riêng, dân cư cũng tương đối đông đúc. Nhìn chung thì đó là một nơi rất đáng sống, nhưng hễ đặt lên bàn cân với vương đô thì...
 
-"Chuyện đó là đương nhiên rồi," Lorraine nhận xét. "Nhưng tôi vẫn thích Maalt hơn Vistelya. Vistelya phồn hoa thật đấy, song nó lại gợi cho tôi nhớ quá nhiều về đế đô."
+"Chuyện đó còn phải nói," Lorraine tiếp lời. "Nhưng tôi vẫn chuộng Maalt hơn Vistelya. Vistelya sầm uất thật đấy, có điều nó làm tôi nhớ về đế đô nhiều quá."
 
-"Trước đây cô từng bảo nhiều chuyện đã xảy ra với mình ở đó mà. Cơ mà Yaaran đâu có ngột ngạt như Đế Quốc, đúng chứ?"
+"Trước cô từng bảo ở đó xảy ra đủ thứ chuyện với cô mà. Nhưng dù sao Yaaran cũng đâu ngột ngạt bằng Đế Quốc, phải không?"
 
-Lorraine từng kể rằng hồi còn ở Đế Quốc, cô thấy những trò chính trị liên miên đi kèm với việc làm thành viên ưu tú của giới học giả thực sự quá đỗi mệt mỏi. Nhìn chung, việc nghiên cứu và học thuật ở Đế Quốc được coi trọng hơn nhiều, nhưng ở Yaaran thì người ta chẳng mấy khi nghe thấy những câu chuyện hào nhoáng về giới học giả. Cùng lắm thì Tòa Tháp và Học Viện chỉ hục hặc cãi vã thi thoảng một lần. Chuyện đó với người trong Tòa Tháp và Học Viện tuy áp lực thật đấy, nhưng vẫn chẳng bõ bèn gì nếu đem so với chính trường học thuật ở Đế Quốc.
+Lorraine từng nhắc chuyện hồi còn ở Đế Quốc, đứng trong hàng ngũ ưu tú của giới học giả đồng nghĩa với việc phải dính vào những trò chính trường đấu đá không dứt, khiến cô mệt mỏi rã rời. Nghiên cứu học thuật ở Đế Quốc nhìn chung được coi trọng hơn hẳn, còn ở Yaaran thì hiếm khi nghe thấy những giai thoại hào nhoáng về giới học giả. Cùng lắm Tòa Tháp và Học Viện chỉ thỉnh thoảng hục hặc cãi vã với nhau đôi chút. Với người của Tòa Tháp hay Học Viện thì thế cũng đủ căng thẳng rồi, nhưng còn xa mới bì được với những màn tranh quyền đoạt lợi của giới học thuật Đế Quốc.
 
-Lorraine gật đầu. "Đúng là vậy. Maalt chính là một minh chứng rõ ràng cho bầu không khí thoải mái hơn ở Yaaran. Xem ra tại vương đô cũng không ngoại lệ."
+Lorraine gật đầu. "Đúng thật. Maalt là ví dụ điển hình cho bầu không khí dễ thở hơn ở Yaaran. Xem ra vương đô này cũng thế."
 
-Vương đô của Yaaran đối với tôi chẳng khác nào một đại đô thị khổng lồ, song với Lorraine thì nơi này vẫn còn đôi phần mộc mạc cổ kính. Nhưng nếu điều đó giúp cô cảm thấy nhẹ nhõm hơn thì hẳn đó là chuyện tốt. Trong lòng tôi thầm cảm tạ Yaaran vì là một đất nước hẻo lánh xa xôi.
+Vương đô của Yaaran với tôi chẳng khác nào một đại đô thị khổng lồ, nhưng dưới mắt Lorraine thì nơi đây vẫn còn đôi nét mộc mạc, bình yên. Dù vậy, nếu nhờ thế mà cô thấy thoải mái, nhẹ nhõm hơn thì cũng tốt thôi. Tôi thầm cảm ơn vì Yaaran vẫn chỉ là một xứ hẻo lánh xa xôi.
 
-"Chúng ta tới nơi rồi," người đánh xe cất tiếng thông báo. "Xin mời hai vị cứ tự nhiên vào chỗ trọ. Tôi sẽ ở một nơi khác, nên hãy liên lạc với tôi khi hai vị đã sẵn sàng quay về Maalt," anh ta nói thêm khi chúng tôi bước xuống xe.
+"Thưa hai vị, chúng ta đã tới nơi rồi," người đánh xe cất tiếng thông báo. "Xin mời hai vị cứ vào chỗ trọ. Tôi sẽ nghỉ lại ở một nơi khác, nên khi nào sẵn sàng quay về Maalt, xin hãy liên lạc với tôi," anh ta nói thêm khi chúng tôi bước xuống xe.
 
-Cũng cần nói thêm rằng người đánh xe đã đưa chúng tôi đến thẳng quán trọ, nhưng anh ta cùng cỗ xe sẽ nghỉ lại ở nơi khác. Chỗ chúng tôi ở không có đủ diện tích để chứa một cỗ xe, hơn nữa vì ma thú kéo xe thuộc loại đặc biệt nên cần phải nhốt trong chuồng chuyên dụng.
+Phải nói thêm là người đánh xe đưa chúng tôi đến thẳng quán trọ, nhưng anh ta và cỗ xe sẽ nghỉ lại chỗ khác. Quán trọ chúng tôi ở không có chỗ để xe, chưa kể thú kéo xe lại thuộc loại đặc biệt nên cần phải nhốt trong chuồng chuyên dụng.
 
-Tính toán mọi mặt thì đây là một chuyến đi đắt đỏ, nhưng Wolf—hay nói đúng hơn là Hội của Maalt—đã đài thọ toàn bộ chi phí, thế nên tôi chẳng phải bận tâm mảy may. Xét việc chúng tôi sẽ dùng chính cỗ xe này để quay về Maalt, chắc hẳn Hội đã tốn một khoản không nhỏ cho các chi phí lưu trú phụ thêm. Wolf đã đặc biệt chu đáo đối đãi tử tế với chúng tôi.
+Tính ra thì chuyến đi này đắt đỏ ra trò, nhưng Wolf—hay nói đúng hơn là Hội Maalt—đã bao trọn toàn bộ chi phí, thế nên tôi chẳng mất một xu một cắc nào. Đằng nào chúng tôi cũng dùng chính cỗ xe này để quay về Maalt, nên Hội chắc hẳn phải tốn thêm một khoản kha khá tiền chỗ ở phụ trội. Wolf quả thực đã rất chu đáo với chúng tôi.
 
-"Đi thôi nào, Rentt," Lorraine giục, rồi chúng tôi cùng bước vào quán trọ.
+"Vào thôi, Rentt," Lorraine giục, rồi hai chúng tôi cùng bước vào quán trọ.
 
 ◆◇◆◇◆
 
-"Vậy là phòng trọ cho hai vị. Xin mời đi theo tôi ạ," người tiếp tân nói.
+"Phòng cho hai người. Xin mời hai vị đi lối này," người tiếp tân nói.
 
-Sau khi người tiếp tân rời đi, Lorraine lẩm bẩm: "Họ chẳng buồn hỏi han câu nào mà cứ thế xếp chúng ta vào chung một phòng luôn kìa."
+Đợi người tiếp tân đi rồi, Lorraine mới khẽ lẩm bẩm: "Người ta chẳng buồn hỏi lấy một câu, cứ thế xếp chung cho chúng mình một phòng luôn kìa."
 
-Giờ đây chỉ còn lại hai chúng tôi. Về phần Edel, tôi đã để chú chuột lại Maalt. Không phải tôi muốn gạt chú chuột ra rìa, mà là vì an ninh ở Vistelya thắt chặt hơn rất nhiều. Do chúng tôi sẽ đích thân tới vương cung, tôi nghĩ sẽ nảy sinh rắc rối nếu dẫn theo một ma vật thực thụ như Edel bên mình. Tôi có thể tự nhận mình là người thuần hóa quái vật, nhưng Vistelya là một đô thị quy củ chứ không như Maalt. Có rất nhiều người thuần hóa quái vật thực thụ tại vương đô, và nếu họ cất công nhìn kỹ hơn thì có khi tôi sẽ để lộ sơ hở.
+Giờ thì chỉ còn lại hai đứa tôi. Về phần Edel, tôi đã để nó lại Maalt. Chẳng phải tôi muốn gạt nó ra rìa, mà là vì an ninh ở Vistelya thắt chặt hơn rất nhiều. Đằng nào chúng tôi cũng sẽ vào tận vương cung, nên nếu dắt theo một con quái vật thực thụ như Edel thì dễ sinh chuyện lắm. Tôi hoàn toàn có thể vờ nhận mình là người thuần hóa quái vật, ngặt nỗi Vistelya là đô thị lớn, chẳng giống như Maalt. Vương đô không thiếu những người thuần hóa quái vật chính cống, chỉ cần họ để mắt nhìn kỹ một chút thôi là tôi dễ lộ tẩy ngay.
 
-Nếu biết trước mình sẽ tới Vistelya thì tôi đã hỏi cha tôi ở Hathara nhiều hơn về việc thuần hóa quái vật, nhưng lần tới tôi hỏi cũng chẳng muộn. Hơn nữa, ông nuôi toàn những con ma vật kỳ dị trong chuồng thú của mình, và tôi cũng chẳng dám chắc liệu vốn hiểu biết của ông có giúp tôi trông giống một người thuần hóa bình thường hay không. Vậy nên xét trên mọi khía cạnh, tôi khá tin chắc rằng mình đã đưa ra quyết định đúng đắn khi để Edel ở nhà.
+Nếu biết trước có ngày lên Vistelya, tôi đã hỏi cha ở Hathara cặn kẽ hơn về nghề thuần hóa quái vật rồi, dẫu sao lần tới hỏi cũng chưa muộn. Vả lại, bầy quái vật cha nuôi trong chuồng toàn loại kỳ dị, tôi cũng chẳng dám chắc mớ kiến thức học từ ông có giúp mình trông giống một người thuần hóa bình thường hay không. Thành thử nghĩ đi nghĩ lại, tôi tin mình quyết định để Edel ở nhà là hoàn toàn đúng đắn.
 
-"Chắc trông hai chúng ta giống anh em ruột hoặc một cặp vợ chồng," tôi đáp.
+"Chắc trông hai đứa mình như hai anh em hoặc một cặp vợ chồng rồi," tôi đáp.
 
-Lorraine bật cười. "Vợ chồng thì họa may, chứ anh em ruột sao? Chúng ta có giống nhau chút nào đâu."
+Lorraine bật cười. "Vợ chồng thì họa may, chứ anh em á? Nhìn chúng mình có nét nào giống nhau đâu."
 
 "Cũng đúng."
 
-Hồi tôi còn sống, mặt mũi hai đứa vốn đã chẳng giống nhau chút nào, nhưng giờ đây khi tôi đeo mặt nạ đầu lâu thì sự khác biệt lại càng rõ rệt hơn nữa. Thực tế, tôi sẽ còn lo ngại hơn nếu một nhân viên quán trọ bảo hai chúng tôi giống nhau. Nhiều khả năng là họ nghĩ chúng tôi đã kết hôn.
+Hồi tôi còn sống, mặt hai đứa đã chẳng có nét nào giống nhau, huống chi bây giờ tôi còn đeo chiếc mặt nạ đầu lâu thì lại càng khác một trời một vực. Thực tình, nếu nhân viên quán trọ mà bảo hai đứa giống nhau thì tôi mới phải lo sốt vó đấy. Chắc mẩm người ta nghĩ chúng tôi là vợ chồng rồi.
 
-"Trông hai chúng ta cư xử giống vợ chồng lắm à?" tôi hỏi.
+"Trông chúng mình cư xử giống vợ chồng lắm à?" tôi hỏi.
 
-Lorraine khựng lại một thoáng, rồi bình thản đáp: "Tôi không nghĩ chúng ta như thế, nhưng cũng khó nói lắm. Trừ phi nhìn từ góc độ người ngoài, chứ bản thân mình đâu thể biết chắc được."
+Lorraine khựng lại một thoáng, rồi bình thản đáp: "Tôi không nghĩ vậy đâu, nhưng cũng khó nói lắm. Chuyện này người ngoài nhìn vào mới thấy, chứ người trong cuộc thì biết thế nào được."
 
-"Cô có muốn tôi lấy phòng riêng cho hai đứa không?" tôi ngỏ ý.
+"Hay để tôi xuống bảo họ đổi thành hai phòng riêng nhé?" tôi ngỏ ý.
 
-Lorraine cau mày ngao ngán. "Chúng ta sống chung dưới một mái nhà cơ mà. Ở chung một phòng thì có khác biệt là bao đâu, đúng không?"
+Lorraine nhăn mày vẻ ngán ngẩm. "Hai đứa mình ở chung một nhà suốt đấy thôi. Giờ chung một phòng thì có khác gì nhau đâu chứ?"
 
-Trong thâm tâm, tôi có phần muốn hỏi xem cô không sợ tôi sẽ giở trò gì sao, nhưng Lorraine là một ma pháp sư hùng mạnh. Cô chỉ cần một chiếc đũa phép là đủ đối phó với đại đa số đàn ông trong vương quốc này, bao gồm cả tôi. Giờ đây tôi có lẽ chịu nổi vài đòn tấn công, nhưng tôi vẫn chẳng thể nào đánh bại cô được. Và đúng như cô vừa chỉ ra, chúng tôi vốn đã sống chung một nhà. Tôi đồng tình với cô rằng việc chia sẻ một phòng trọ cũng chẳng khác biệt là bao.
+Bụng bảo dạ, tôi cũng định hỏi kháy xem cô không sợ tôi giở trò gì à, nhưng nghĩ lại thì Lorraine là một ma pháp sư hùng mạnh. Chỉ với một cây đũa phép, cô thừa sức xử đẹp phần lớn đàn ông trên khắp vương quốc này, tính cả tôi trong đó. Giờ thì có lẽ tôi chịu nổi vài đòn của cô thật, nhưng muốn đánh thắng cô thì vẫn là chuyện không tưởng. Vả lại đúng như cô vừa nói, bình thường hai đứa cũng ở chung một mái nhà. Tôi đành gật gù công nhận, ngủ chung một phòng trọ thì cũng có khác gì nhau đâu.
 
-"Hợp lý đấy. Dù sao thì tôi cũng chỉ hỏi thế thôi. Vậy cô muốn nằm giường nào?"
+"Cũng phải. Hỏi cho biết thế thôi. Thế cô muốn nằm giường nào?"
 
-May thay trong phòng có hai chiếc giường. Lorraine chọn chiếc giường gần cửa sổ hơn, thành thử tôi đành phải nhìn chằm chằm vào bức tường khi đi ngủ.
+May sao trong phòng kê hai cái giường. Lorraine chọn ngay chiếc gần cửa sổ, thành ra lúc đi ngủ tôi chỉ còn nước nằm quay mặt nhìn tường.
 
-Dù sao thì cũng đã đến lúc nghỉ ngơi sau một ngày và chuẩn bị cho ngày mai. Trước hết chúng tôi phải tới Hội, nhưng mà... Hay là nên đi mua quà lưu niệm trước nhỉ? Tôi thầm nghĩ sáng mai sẽ bàn bạc chi tiết với Lorraine sau.
+Dù sao thì một ngày cũng đã qua, đến lúc nghỉ ngơi để chuẩn bị cho ngày mai. Sáng ra chúng tôi phải tới Hội trước, nhưng mà... hay là đi mua quà lưu niệm trước nhỉ? Tôi tự nhủ sáng mai hẵng bàn kỹ lại với Lorraine.
 
 ◆◇◆◇◆
 
-Đã một thời gian trôi qua kể từ lần gần nhất tôi ghé thăm Hội của Vistelya, nhưng đúng như trong ký ức của tôi, Hội của Maalt hoàn toàn không thể sánh bằng. Bản thân tòa nhà được xây dựng kiên cố hơn và đủ rộng lớn để dung nạp lượng lớn mạo hiểm giả coi vương đô là nhà. Lần trước tới đây, tôi chưa kịp quan sát kỹ bên trong, nhưng lần này tôi đã nhìn thấy vài cánh cửa thang máy.
+Đã một thời gian trôi qua kể từ lần gần nhất tôi ghé thăm Hội Vistelya, nhưng đúng như tôi nhớ, Hội Maalt hoàn toàn không có cửa so bì. Bản thân tòa nhà được xây kiên cố hơn hẳn, lại đủ rộng để đón lượng mạo hiểm giả khổng lồ đang coi vương đô là nhà. Lần trước tới đây tôi chưa kịp nhìn ngó bên trong cho kỹ, nhưng lần này tôi bắt gặp ngay mấy cánh cửa thang máy.
 
-Điều đó cũng hợp lý thôi. Tòa nhà cao tới năm tầng, và việc leo cầu thang bộ mỗi lần quả là một thử thách gian nan. Sẽ là một nhẽ nếu các tầng trên hiếm khi được sử dụng, nhưng tôi khá chắc rằng văn phòng Tổng Hội Trưởng nằm ở tầng trên cùng, và việc hàng ngày phải leo năm tầng cầu thang bộ sẽ là một cực hình không nhỏ.
+Nghĩ cũng phải thôi, tòa nhà cao những năm tầng, lần nào cũng cuốc bộ cầu thang thì nhọc bã người. Nếu các tầng trên hiếm khi dùng tới thì còn đỡ, đằng này tôi dám chắc phòng làm việc của Tổng Hội Trưởng nằm tít trên tầng thượng; ngày nào cũng phải leo lên tụt xuống năm tầng lầu thì đúng là cực hình.
 
-"Tôi nghe bảo Tổng Hội Trưởng của Yaaran tuổi tác đã khá cao rồi đấy," Lorraine nói.
+"Tôi nghe nói Tổng Hội Trưởng của Yaaran đã khá cao tuổi rồi đấy," Lorraine cất giọng.
 
-"Dù từng là mạo hiểm giả, chắc hẳn ở độ tuổi này ông ấy không còn hoạt động ngoài tuyến đầu nữa đâu."
+"Dù từng là mạo hiểm giả, nhưng ở cái tuổi ấy thì chắc chắn ông ấy không còn hành nghề nữa rồi."
 
-Lorraine nói đúng. Tôi từng nghe kể rằng vị tổng hội trưởng hiện tại đã ngồi ở vị trí đó từ thời điểm Wolf mới được tuyển mộ vào Hội. Tôi cũng từng nghe câu chuyện về việc tổng hội trưởng là một cựu mạo hiểm giả, nhưng tôi nhớ chắc chắn là mình cũng nghe nói chuyện đó đã từ hơn năm mươi năm trước rồi. Cho dù ông ấy giải nghệ vào những năm ngoài ba mươi tuổi thì đến thời điểm này cũng đã hơn tám mươi rồi. Mạo hiểm giả dẻo dai hơn người bình thường rất nhiều nhờ thể chất và nguồn Ma Lực dồi dào, song vẫn tiếp tục hoạt động tích cực ở độ tuổi tám mươi thì đúng là gượng ép quá mức.
+Lorraine nói chẳng sai. Tôi từng nghe phong phanh rằng vị Tổng Hội Trưởng đương nhiệm đã ngồi ghế đó từ hồi Wolf mới vào Hội. Tôi cũng từng nghe chuyện ông xuất thân là mạo hiểm giả, nhưng dám chắc chuyện đó đã từ hơn năm mươi năm trước. Cho dù ông có giải nghệ từ năm ngoài ba mươi thì tới nay cũng ngót nghét hơn tám mươi tuổi rồi. Mạo hiểm giả tuy dẻo dai hơn người thường rất nhiều nhờ thể chất và Ma Lực dồi dào, nhưng bảo tám mươi tuổi vẫn còn xông pha hành nghề thì hơi khó tin.
 
-"Nhưng vẫn có những ngoại lệ cho quy luật đó, chẳng hạn như Gharb. Thế nên chuyện đó không hẳn là bất khả thi," tôi nhận xét.
+"Nhưng quy luật nào cũng có ngoại lệ, như bà Gharb chẳng hạn. Thế nên chuyện đó không hẳn là không thể," tôi đáp.
 
-Tôi nghĩ về Gharb, bà lão làm thuốc kiêm ma pháp sư trưởng của quê hương tôi. Tuổi tác bà đã cao, nhưng bà vẫn còn rất tráng kiện. Nếu giờ bà quyết định trở thành mạo hiểm giả, họ sẽ xếp bà khởi điểm ở Ngân Cấp, và khi ấy bà sẽ lập tức vượt mặt tôi. Chà, dù sao bà cũng là người thầy của tôi, nên thế cũng ổn thôi.
+Tôi nghĩ tới bà Gharb, bà lão làm thuốc kiêm ma pháp sư trưởng ở quê tôi. Tuổi bà đã cao nhưng trông vẫn còn gân guốc lắm. Nếu giờ bà mà hứng lên đi làm mạo hiểm giả, khéo người ta xếp thẳng bà vào Ngân Cấp ngay từ đầu, thế là lập tức qua mặt tôi luôn. Mà thôi, dẫu sao bà cũng là sư phụ tôi, thế cũng chẳng sao.
 
-"Anh nhắc tôi mới nhớ, đúng là như vậy thật," Lorraine nói. "Sư phụ của tôi cũng tương tự. Tôi tin chắc người đó vẫn đang sống rất vui vẻ ở Đế Quốc."
+"Nói mới nhớ, đúng là vậy thật," Lorraine bảo. "Sư phụ tôi cũng thế. Tôi chắc mẩm người đó vẫn đang vui thú hưởng thụ bên Đế Quốc."
 
 "Người mà cô từng ném đũa phép vào ấy hả?"
 
-Lorraine cau mày. "Hồi đó tôi còn trẻ con bồng bột. Giờ tôi sẽ không làm thế nữa đâu. Tôi cũng chẳng dám làm thế nữa. Đến giờ tôi vẫn không thể quên nổi người đó đã nổi trận lôi đình thế nào..."
+Lorraine cau mày. "Hồi đó tôi còn trẻ con bồng bột. Giờ thì tôi không làm thế đâu, mà có cho tiền cũng chẳng dám. Đến giờ tôi vẫn chưa quên nổi người đó đã nổi trận lôi đình thế nào..."
 
-"Hì, tôi cũng muốn gặp người đó xem sao."
+"Hì hì, nghe thế tôi lại muốn gặp người đó ghê."
 
-Người đó hẳn sẽ là nguồn cung cấp tuyệt vời những câu chuyện thú vị về Lorraine, và sẽ thật tuyệt nếu có thể xoay chuyển tình thế trêu lại cô một lần. Rốt cuộc thì hồi đến Hathara, người dân ở đó đã kể sạch cho cô nghe mọi chuyện xấu hổ thời thơ ấu của tôi rồi còn gì.
+Gặp người đó chắc chắn sẽ moi được khối chuyện hay ho về Lorraine, và có cơ hội lật ngược tình thế để chọc lại cô một phen thì còn gì bằng. Dù sao thì đợt về Hathara, dân làng cũng đã bêu sạch mấy trò xấu hổ hồi bé của tôi cho cô nghe rồi.
 
-"Thật sao? Tôi cũng muốn tới thăm người đó, nhưng đâu phải cứ thích là đường đột bước vào gặp được. Tôi chắc chắn rồi chúng ta cũng sẽ có dịp tới Đế Quốc thôi, nên đến lúc đó hẵng lên kế hoạch."
+"Thật à? Tôi cũng muốn ghé thăm người đó, nhưng đâu phải cứ khơi khơi bước tới là gặp được ngay. Đằng nào sau này chúng mình chẳng có dịp sang Đế Quốc, lúc ấy hẵng tính."
 
-Thật ngạc nhiên, Lorraine lại cởi mở tiếp nhận ý kiến đó hơn tôi tưởng. Tôi cứ ngỡ cô sẽ không muốn tôi gặp sư phụ của mình, nhưng xem chừng Lorraine dành rất nhiều lòng biết ơn cho người đó. Lorraine đã sống ở Maalt một thời gian dài, và dẫu thỉnh thoảng có quay lại Đế Quốc thì cô cũng chưa bao giờ ở lại lâu. Có lẽ cô đã không gặp người đó chừng mười năm nay rồi, nên tôi hoàn toàn hiểu được lý do tại sao cô lại muốn tới thăm.
+Ngạc nhiên là Lorraine lại hào hứng với ý định đó hơn tôi tưởng. Tôi cứ đinh ninh cô sẽ giãy nảy lên không muốn tôi gặp sư phụ cô, nhưng xem chừng cô rất mực kính trọng và biết ơn người đó. Lorraine sống ở Maalt đã lâu, dù thi thoảng có về Đế Quốc nhưng cũng chẳng ở lại được bao lâu. Tính ra có khi ngót chục năm rồi cô chưa gặp lại sư phụ, nên việc cô muốn tới thăm cũng là điều dễ hiểu.
 
-"Tôi sẽ mong chờ dịp đó đấy," tôi bông đùa. "À, quầy tiếp tân vắng người rồi kìa. Để tôi qua giải quyết công việc."
+"Thế thì tôi hóng đấy nhé," tôi đùa. "À, quầy tiếp tân trống rồi kìa. Tôi qua giải quyết công việc đây."
 
-"Vậy tôi sẽ ngồi đợi đằng kia nhé," Lorraine nói rồi chỉ tay về phía quầy bar được dựng ngay trong sảnh Hội.
+"Vậy tôi qua đằng kia ngồi đợi," Lorraine vừa nói vừa chỉ tay về phía quầy bar nằm ngay trong sảnh Hội.
 
-Nói chính xác thì đó là một căng-tin phục vụ đồ ăn nhẹ cùng đủ loại thức uống. Dù không phải sảnh Hội nào cũng có quầy bar như vậy, song chúng là hình ảnh khá phổ biến ở hầu hết các nơi. Thực đơn cùng khẩu phần ăn có phần hơi hạn chế cho một bữa ăn tươm tất, nên nơi đó chủ yếu dùng để nghỉ ngơi chốc lát giữa các công việc hoặc để chờ đợi đồng đội trong tổ đội—đồng nghĩa với việc Lorraine đang sử dụng nó đúng với mục đích vốn có.
+Nói cho đúng thì đó là một quầy căng tin phục vụ đồ ăn nhẹ cùng đủ loại đồ uống. Không phải sảnh Hội nào cũng có, nhưng ở đa số các nơi thì đây là hình ảnh khá quen thuộc. Thực đơn lẫn khẩu phần ăn ở đây hơi ít để có thể tính là một bữa no nê, nên chỗ này chủ yếu để mạo hiểm giả nghỉ chân giữa các chuyến làm việc hoặc ngồi đợi đồng đội—nghĩa là Lorraine đang dùng nó chuẩn chỉnh theo đúng công năng vốn có.
 
-"Được rồi. Lát nữa gặp lại nhé," tôi nói rồi bước về phía quầy tiếp tân.
-
-◆◇◆◇◆
-
-"Ngài ấy đi vắng sao?" tôi nghiêng đầu thắc mắc hỏi người tiếp tân.
-
-Người phụ nữ sau quầy điềm tĩnh đáp: "Vâng. E là ngài Jean Seebeck hiện không có mặt ở đây. Tôi tin rằng ngài ấy sẽ trở lại trong vài ngày tới."
-
-"Nếu tôi đợi đến khi ngài ấy trở về, liệu ngài ấy có chịu gặp tôi không?"
-
-"Tất nhiên rồi ạ. Nếu tôi dám lơ là một nhân viên của Hội do đích thân ngài Wolf Hermann của Maalt phái tới thì chính tôi cũng sẽ gặp rắc rối to mất. Dù vậy, việc Tổng Hội Trưởng vắng mặt thì tôi cũng chẳng biết làm thế nào được. Thành thật xin lỗi anh. Liệu anh có thể quay lại sau khoảng năm ngày nữa được không?"
-
-Tôi cảm thấy cô ấy có phần hơi quá khách khí với một người đồng nghiệp cùng là nhân viên Hội, nhưng điều đó cũng hợp lý thôi. Hội Mạo Hiểm Giả tuy là một tổ chức thống nhất, song mỗi chi nhánh khu vực phần lớn đều hoạt động độc lập. Đối với một nhân viên Hội ở Vistelya thì một người đến từ chi nhánh Maalt về cơ bản cũng chẳng khác nào người xa lạ.
-
-Gác chuyện đó sang một bên, cô ấy tỏ ra rất mực tôn kính đối với Wolf, thậm chí còn gọi ông là "ngài Wolf". Ông ấy thực sự xứng đáng nhận được nhiều sự kính trọng đến thế sao? Thật vậy ư? Nhưng nghĩ kỹ lại thì chẳng có mấy ai làm hội trưởng giỏi như ông ấy, và kết hợp với con mắt tinh tường tường tận chi tiết cùng năng lực của một mạo hiểm giả, ông có lẽ chính là hình mẫu tiêu biểu cho những gì một hội trưởng nên có. Điều đó lý giải cho sự tôn kính kia. Dẫu vậy, Maalt là một nơi hẻo lánh xa xôi, thế nên việc họ công nhận giá trị của Wolf vẫn là điều đáng ngạc nhiên. Cảm giác quen biết một người được kính trọng nhường ấy thực ra cũng khá là nở mày nở mặt.
-
-Dù sao đi nữa, điều duy nhất tôi có thể làm lúc này là chờ đợi. Dẫu vậy chuyện đó có khi cũng chẳng phải là điều tệ hại, bởi tôi vẫn còn một danh sách dài những việc vặt cần giải quyết. Tôi từng dự định sẽ bỏ bớt nếu không đủ thời gian, nhưng giờ đây cả một khoảng thời gian rảnh rỗi khổng lồ lại bất ngờ rơi trúng vào tay tôi.
-
-Tôi gật đầu với người tiếp tân rồi đáp: "Được thôi. Vậy năm ngày nữa nhé?"
-
-"Vâng ạ. Về phần tài liệu, phía chúng tôi sẽ phân loại và sắp xếp trước, như vậy thì buổi báo cáo của anh sẽ diễn ra tương đối thuận lợi."
-
-Tập tài liệu đang nói tới chính là xấp giấy tờ đồ sộ mà Wolf đã giao cho tôi để chuyển đến Hội của Vistelya. Phần lớn trong đó nêu chi tiết về tình hình hiện tại của Maalt, và người ta có thể nghĩ chừng ấy là đủ, song việc có một người nắm rõ tình hình trực tiếp báo cáo lên cấp trên vẫn tốt hơn nhiều. Đó chính là lý do Wolf cử tôi tới đây, và cũng là nguyên nhân dẫn đến lời nhận xét vừa rồi của người tiếp tân.
-
-"Cảm ơn cô. Trông cậy cả vào cô nhé. Hẹn gặp lại sau năm ngày nữa."
+"Được rồi, lát gặp nhé," tôi dứt lời rồi rảo bước về phía quầy tiếp tân.
 
 ◆◇◆◇◆
 
-"Xong việc nhanh thế? Buổi gặp mặt thế nào rồi?" Lorraine hỏi khi tôi bước lại gần.
+"Ngài ấy đi vắng rồi sao?" tôi nghiêng đầu thắc mắc hỏi cô tiếp tân.
 
-"Hình như Tổng Hội Trưởng đang đi vắng. Nghe nói khoảng năm ngày nữa ông ấy mới về."
+Người phụ nữ sau quầy điềm tĩnh đáp: "Vâng. E là lúc này ngài Jean Seebeck không có ở Hội. Chắc vài ngày nữa ngài ấy mới về."
 
-"Đi vắng ư... Chà, tôi đồ rằng ông ấy cũng chẳng thể ở yên một chỗ quá lâu được. Mặc dù tôi từng nghe nói ông ấy không thể rời vương đô quá lâu..." Lorraine nói với vẻ mặt băn khoăn.
+"Nếu tôi đợi đến lúc ngài ấy về, liệu tôi có được diện kiến không?"
 
-Tôi gật đầu đồng tình khi nhớ lại những gì mình từng nghe hồi còn ở Maalt.
+"Tất nhiên rồi ạ. Nếu dám chểnh mảng với người của Hội do đích thân ngài Wolf Hermann từ Maalt phái tới thì chính tôi cũng rước vạ vào thân mất. Có điều Tổng Hội Trưởng vắng mặt thì tôi cũng chịu, không làm thế nào được. Thành thật xin lỗi anh. Liệu anh có thể quay lại sau chừng năm ngày nữa được không?"
 
-"Wolf từng nhắc đến chuyện đó, nhưng có lẽ ý ông ấy là Tổng Hội Trưởng không thể đích thân tới một nơi khỉ ho cò gáy như Maalt thôi."
+Tôi thấy cô ấy có vẻ hơi khách khí quá mức với đồng nghiệp cùng làm cho Hội, nhưng nghĩ lại cũng phải thôi. Hội Mạo Hiểm Giả tuy chung một hệ thống nhưng các chi nhánh địa phương phần lớn đều hoạt động độc lập. Với nhân viên ở Vistelya thì người từ chi nhánh Maalt tới về cơ bản cũng chẳng khác gì người lạ.
 
-Hành trình từ Vistelya tới Maalt mất khoảng một tuần nếu đi bằng phương tiện thông thường. Xét việc Tổng Hội Trưởng phải tới đó rồi quay trở về, một chuyến đi thực tế sẽ ngốn mất ít nhất hai tuần lễ. Ông ấy không thể cứ thế bỏ mặc vương đô lâu đến vậy được. Tuy nhiên, các thành phố thuộc vùng lân cận vương đô thì cả đi lẫn về chỉ mất vài ngày, thành thử việc ông ấy thường xuyên thực hiện những chuyến đi tới các thành phố đó cũng chẳng có gì là lạ.
+Bỏ chuyện đó qua một bên, cô ấy tỏ ra cực kỳ cung kính với Wolf, thậm chí còn gọi ông là "ngài Wolf". Lão ấy thực sự đáng để người ta kính nể đến thế cơ à? Thật luôn? Nhưng nghĩ kỹ lại thì chẳng có mấy ai làm hội trưởng cừ như ông, vừa có con mắt nhìn người tinh tường, vừa sở hữu thực lực thượng thừa của một mạo hiểm giả lão luyện; ông có lẽ chính là hình mẫu lý tưởng của một hội trưởng. Thế thì người ta kính nể cũng phải. Cơ mà Maalt vốn là chốn khỉ ho cò gáy, nên việc họ đánh giá cao Wolf đến vậy vẫn khiến tôi ngạc nhiên. Thực ra quen biết một người được trọng vọng nhường ấy cũng làm tôi thấy nở mày nở mặt đôi phần.
 
-"À, anh nói có lý đấy," Lorraine lẩm bẩm. "Dù thế nào đi nữa thì việc ông ấy vắng mặt chúng ta cũng đâu làm gì được. Hơn nữa, xét theo khía cạnh nào đó thì đây lại là điều may mắn. Giờ chúng ta có dư dả thời gian để giải quyết trước hàng đống việc vặt rồi."
+Dù sao đi nữa, giờ tôi chỉ còn nước chờ. Mà thế có khi lại hay, vì tôi vẫn còn cả đống việc vặt cần lo. Vốn dĩ tôi tính nếu bí thời gian quá thì bỏ bớt, ai ngờ đùng một cái lại dư dả cả mớ thời gian rảnh.
 
-"Phải đấy, tôi cũng nghĩ y như vậy."
+Tôi gật đầu với cô tiếp tân: "Được thôi. Vậy năm ngày nữa tôi quay lại nhé?"
 
-"Danh sách việc cần làm của chúng ta gồm có chuyển bức thư của Sơ Lillian tới Giáo Hội Đông Thiên, vào vương cung yết kiến Điện Hạ, và mua quà lưu niệm cho Alize cùng Rina. Nào, việc đầu tiên chúng ta nên làm là..."
+"Vâng ạ. Về phần giấy tờ tài liệu, phía chúng tôi sẽ phân loại và sắp xếp trước, như vậy khi anh báo cáo sẽ thuận lợi hơn nhiều."
 
-Lorraine nhìn tôi rồi hỏi xem chúng tôi nên giải quyết việc gì trước tiên.
+Số tài liệu này chính là xấp giấy tờ dày cộp mà Wolf giao cho tôi chuyển tới Hội Vistelya. Đa phần trong đó ghi chép cặn kẽ tình hình Maalt hiện giờ. Cứ ngỡ chỉ cần gửi giấy tờ là xong, nhưng có một người nắm rõ thực tế đứng ra báo cáo trực tiếp với cấp trên vẫn tốt hơn nhiều. Đó là lý do Wolf phái tôi đi, và cũng là cội nguồn cho câu nói vừa rồi của cô tiếp tân.
 
-"Chắc là đưa thư đi. Tôi chẳng biết chúng ta sẽ phải ở lại vương cung bao lâu, nhưng với bức thư thì việc duy nhất chúng ta phải làm chỉ là chuyển nó tới nơi," tôi đề xuất, thầm nghĩ tốt nhất nên giải quyết việc đơn giản hơn trước.
+"Cảm ơn cô, trăm sự nhờ cả vào cô nhé. Hẹn năm ngày nữa gặp lại."
 
-"Đúng vậy thật. Vì Sơ Lillian đã giao bức thư cho tôi nên tôi hoàn toàn có thể tự mình đi chuyển, nhưng tôi đoán họ cũng sẽ muốn tôi có mặt ở vương cung nữa."
+◆◇◆◇◆
 
-"Ừm. Ngoài ra còn một người nữa mà chúng ta cần phải lôi theo tới vương cung. Chúng ta cần liên lạc với anh ta, nhưng cách duy nhất tôi có thể nghĩ ra là để lại lời nhắn cho anh ta tại Hội. Bên cạnh đó, chúng ta có thể thử tìm ở quán rượu anh ta hay lui tới."
+"Xong nhanh thế? Việc gặp gỡ thế nào rồi?" Lorraine hỏi khi tôi bước lại gần.
 
-Tôi đang nhắc tới quán bar mà lần trước chúng tôi đã gặp Augurey khi ở đây. Nếu cứ thế mò tới thì chúng tôi có thể tình cờ chạm mặt anh ta, nhưng một lời nhắn để lại Hội sẽ đến tay Augurey ngay khoảnh khắc anh ta bước vào cửa. Ngược lại, dẫu anh ta có thể nhận được lời nhắn vào ngày mai, song cũng có khả năng hiện tại anh ta đang bận làm một ủy thác dài ngày và sẽ chẳng nhận được cho đến khi quay về. Trong trường hợp đó, tôi và Lorraine sẽ phải vào vương cung mà không có anh ta, nhưng chuyện tới đâu thì hay tới đó thôi.
+"Xem chừng Tổng Hội Trưởng đi vắng rồi. Nghe bảo khoảng năm ngày nữa ông ấy mới về."
 
-"Có khi đi hỏi quanh xem có ai nhìn thấy một mạo hiểm giả mặc trang phục kỳ dị không lại dễ tìm thấy anh ta hơn đấy."
+"Đi vắng ư... Mà thôi, chắc ông ấy cũng chẳng ngồi yên một chỗ mãi được. Cơ mà tôi nhớ từng nghe bảo ông ấy đâu thể rời vương đô lâu ngày đâu nhỉ..." Lorraine băn khoăn nói.
 
-Lorraine nói đùa thế thôi, nhưng cô nói cũng có lý. Gu thời trang của Augurey khiến anh ta nổi bần bật giữa đám đông. Dẫu vậy, tôi thà để cách đó làm giải pháp cuối cùng.
+Tôi gật đầu tán thành, chợt nhớ lại những lời mình từng nghe hồi còn ở Maalt.
 
-"Nếu không tìm thấy anh ta thì làm cách đó cũng được," tôi nói, "nhưng hiện tại sao chúng ta không hướng tới Giáo Hội Đông Thiên trước nhỉ. Nơi đó nằm ở phía đông vương đô, đúng không?"
+"Wolf từng nhắc chuyện đó thật, nhưng chắc ý ông là Tổng Hội Trưởng không thể mò tới một nơi khỉ ho cò gáy như Maalt thôi."
 
-"Ừ, chắc đúng là vậy đấy," Lorraine đáp.
+Đi từ Vistelya tới Maalt theo cách thông thường phải mất cỡ một tuần. Tính cả chiều đi lẫn chiều về thì một chuyến viếng thăm ngốn đứt ít nhất hai tuần lễ. Ông ấy đâu thể bỏ mặc vương đô lâu đến thế. Nhưng mấy thành phố vệ tinh gần vương đô thì đi về chỉ mất vài ngày, nên việc ông thường xuyên đảo qua đảo lại những nơi đó cũng chẳng có gì lạ.
 
-Tôi và Lorraine rời khỏi Hội rồi cùng rảo bước hướng về phía nhà thờ.
+"Ừ, anh nói cũng có lý," Lorraine khẽ gật gù. "Mà đằng nào ông ấy vắng mặt thì mình cũng chịu, chẳng làm gì được. Cơ mà ngẫm ra thế lại may, chúng ta có khối thời gian để tranh thủ giải quyết mớ việc vặt trước."
+
+"Ừ, tôi cũng nghĩ thế."
+
+"Việc cần làm thì có chuyển thư của Sơ Lillian tới Giáo Hội Đông Thiên, vào cung yết kiến Điện Hạ, rồi mua quà lưu niệm cho Alize với Rina. Giờ xem nào, nên bắt đầu từ việc gì trước đây..."
+
+Lorraine nhìn sang tôi, dọ ý xem nên bắt tay vào việc nào trước.
+
+"Chắc là đi đưa thư trước đi. Vào cung thì chẳng biết sẽ mất toi bao nhiêu thời gian, chứ đưa thư thì chỉ cần mang tới tận nơi là xong," tôi gợi ý, bụng nghĩ tốt nhất cứ giải quyết mấy việc nhẹ nhàng trước.
+
+"Cũng đúng. Thư thì Sơ Lillian gửi cho tôi nên một mình tôi đi đưa cũng được, cơ mà chắc bên vương cung họ cũng muốn tôi có mặt."
+
+"Chuẩn rồi. Vả lại còn một người nữa chúng ta phải lôi theo vào cung. Cần liên lạc với anh ta, nhưng cách duy nhất tôi nghĩ ra là để lại lời nhắn tại Hội này. Bằng không thì chỉ còn nước mò tới quán ruột của anh ta thôi."
+
+Tôi đang nói tới quán rượu lần trước chúng tôi gặp Augurey khi ở đây. Nếu cứ thế ghé qua thì may ra có thể đụng mặt, nhưng để lại lời nhắn ở Hội thì hễ Augurey bước chân vào là nhận được ngay. Trái lại, dù có thể ngay ngày mai anh ta đã nhận được tin, nhưng cũng không loại trừ khả năng anh ta đang vướng một ủy thác dài ngày và chỉ nhận được khi đã xong việc trở về. Gặp trường hợp đó thì tôi và Lorraine đành vào cung mà không có anh ta vậy, nhưng thôi, chuyện tới đâu tính tới đó.
+
+"Có khi cứ đi hỏi quanh xem có ai thấy một mạo hiểm giả ăn mặc dị hợm không, khéo lại dễ tìm ra anh ta hơn đấy."
+
+Lorraine chỉ nói đùa thế thôi, nhưng ngẫm lại cũng có lý. Gu ăn mặc của Augurey khiến anh ta nổi bần bật giữa chốn đông người. Dù vậy, tôi vẫn muốn giữ cách đó làm giải pháp cuối cùng.
+
+"Tìm không ra thì đành tính cách đó vậy," tôi bảo, "còn bây giờ sao chúng mình không ghé qua Giáo Hội Đông Thiên trước nhỉ? Nhà thờ nằm ở mạn đông vương đô, đúng không?"
+
+"Ừ, chắc đúng là hướng đó rồi," Lorraine đáp.
+
+Hai chúng tôi rời khỏi Hội rồi rảo bước tiến về phía nhà thờ.
