@@ -18,11 +18,11 @@ Tôi có thể gặng hỏi tiếp, nhưng lúc này chẳng có thì giờ đâ
 
 "Đúng thế," Laura đáp. "Chắc mọi người đều rõ cái giá ấy là gì rồi. Những người bị biến thành Thi Quỷ, máu của những vật tế đó, và khi chừng ấy vẫn chưa đủ..."
 
-"Shumini đã lấy mạng mình ra tế để bù vào phần còn thiếu," Isaac trầm giọng nói.
+"Shumini đã lấy mạng mình ra để bù vào phần còn thiếu," Isaac trầm giọng nói.
 
 "Tôi đoán gã còn dùng rất nhiều Ma Tinh và ma cụ nữa. Kích hoạt ma pháp này khó đến thế đấy. Chỉ tiếc là gã lại làm được mất rồi."
 
-Nếu bỏ qua việc làm tàn độc này thì đây đúng là một kỳ tích. Nhưng tôi chẳng tài nào khen nổi một ma pháp biến người dân trong thị trấn thành quái vật.
+Nếu bỏ qua việc làm tàn độc này thì cũng có thể gọi đây là một kỳ tích. Nhưng tôi chẳng tài nào khen nổi một ma pháp biến người dân trong thị trấn thành quái vật.
 
 "Nhưng rốt cuộc Shumini làm trò này để được cái gì chứ?" tôi hỏi.
 
@@ -36,7 +36,7 @@ Laura lắc đầu. "Tôi đoán là không. Tác dụng của ma pháp này, n�
 
 "Nhưng tại sao người dân lại bị biến thành quái vật?" tôi hỏi. "Tôi cứ nghĩ quái vật trong mê cung là do triệu hồi ra, hoặc tự nhiên sinh ra chứ."
 
-"Điều đó đúng với những mê cung đã hoàn thiện. Có điều như đã nói, cái giá của ma pháp này rất đắt. Shumini chắc đã dốc hết những gì gã có để trả, nhưng vẫn không thấm vào đâu. Dù vậy ma pháp vẫn phát động, và mê cung đang rút nốt phần còn thiếu từ vạn vật xung quanh. Thậm chí tôi dám cược là Shumini thừa biết chuyện này sẽ xảy ra nhưng vẫn cứ kích hoạt ma pháp. Mọi người nhìn kìa."
+"Điều đó đúng với những mê cung đã hoàn thiện. Có điều như đã nói, cái giá của ma pháp này rất đắt. Shumini chắc đã trả hết mức gã có thể rồi mà vẫn chưa đủ. Dù vậy ma pháp vẫn phát động, và mê cung đang rút nốt phần còn thiếu từ xung quanh. Thậm chí tôi dám cược là Shumini thừa biết chuyện này sẽ xảy ra nhưng vẫn cứ kích hoạt ma pháp. Mọi người nhìn kìa."
 
 Laura cho chú chim sà xuống thấp hơn. Một tia sáng như sấm sét lóe lên, cản không cho nó xuống quá sâu. Tiếp đó chú chim thử lượn quanh Maalt tìm đường vào trong, nhưng từ mọi hướng và ở bất kỳ độ cao nào, nó đều bị một bức tường vô hình đánh bật ra.
 
@@ -84,15 +84,15 @@ Shumini vốn khá điên cuồng, biết đâu gã lại từng nghĩ tới chu
 
 "Không phải ai cũng điều khiển được Lõi Mê Cung đâu," Laura nói. "Yêu cầu cụ thể thế nào còn tùy vào quy mô của mê cung, nhưng nơi này tương đối lớn nên một người bình thường khó lòng gánh nổi. Tôi nghĩ Shumini chẳng còn cách nào khác ngoài việc tự mình làm chủ nhân. Nếu có kẻ khác mạnh tương đương thì câu chuyện đã khác, nhưng gã đã phải trông cậy vào anh Isaac thì chắc chẳng còn ai đâu."
 
-"Mà giả sử mê cung này đủ nhỏ để một con Puchi Suri điều khiển được, thì dù Shumini có chọn cách đó cũng chẳng làm khó được chúng ta. Đánh bại con Puchi Suri ấy rồi thay thế nó thì quá đơn giản, giống như việc chúng ta đang định làm bây giờ vậy. Chưa kể một kẻ mạnh hơn Puchi Suri chỉ cần chạm vào chiếc lõi là có thể giành lấy quyền điều khiển của nó rồi. Nhưng cách đó chỉ hiệu quả khi Chủ Nhân Mê Cung yếu hơn ngài rất nhiều, mà về sau còn nảy sinh đủ thứ rắc rối nữa. Giờ Shumini đang là Chủ Nhân Mê Cung thì chuyện đó lại càng khó."
+"Mà giả sử mê cung này đủ nhỏ để một con Puchi Suri điều khiển được, thì dù Shumini có chọn cách đó cũng chẳng làm khó được chúng ta. Đánh bại con Puchi Suri ấy rồi thay thế nó thì quá đơn giản, giống như việc chúng ta đang định làm bây giờ vậy. Tuy nhiên, một kẻ mạnh hơn Puchi Suri chỉ cần chạm vào chiếc lõi là có thể ghi đè lên quyền điều khiển của nó ngay. Đương nhiên cách đó chỉ hiệu quả khi Chủ Nhân Mê Cung yếu hơn ngài rất nhiều, mà về sau còn có thể kéo theo đủ thứ rắc rối nữa. Giờ Shumini đang là Chủ Nhân Mê Cung thì chuyện đó lại càng khó."
 
-Thông tin thì nhiều, nhưng tóm lại là chỉ cần hạ được Shumini thì kiểu gì cũng có cách giải quyết. Mục tiêu của chúng tôi vẫn chẳng có gì thay đổi. Nhưng nếu không biết trước chuyện này, có khi đánh bại Shumini xong thấy tình hình chưa êm xuôi thì chúng tôi lại phát hoang mang. Cũng may là Laura đã nói cho cả nhóm biết.
+Thông tin thì nhiều, nhưng tóm lại là chỉ cần hạ được Shumini thì kiểu gì cũng tìm ra cách giải quyết. Mục tiêu của chúng tôi vẫn như cũ. Nhưng nếu không biết trước chuyện này, có khi đánh bại Shumini xong thấy tình hình chưa được giải quyết thì chúng tôi lại đâm ra bối rối. Cũng may là Laura đã nói cho cả nhóm biết.
 
 "Giờ thì rõ việc phải làm rồi," tôi nói. "Đến lúc đi gặp Shumini thôi nhỉ." Isaac và Lorraine gật đầu đồng tình.
 
 "Nếu mọi người không phiền thì cho tôi đi cùng với nhé," Laura nói. "Tôi hứa sẽ không làm vướng chân ai đâu."
 
-Tôi chẳng thể hình dung nổi mặc cái váy đầm ấy thì cô bé đánh đấm kiểu gì. Dù vậy, cô bé biết nhiều thật. Hiểu biết của cô bé vượt xa người bình thường. Huống hồ cô bé còn là chủ nhân của Isaac, nên việc cô bé bảo sẽ không làm vướng chân chắc chắn là thật. Vẻ ngoài hiền lành, lễ phép kia ắt hẳn chỉ là lớp ngụy trang thôi.
+Tôi chẳng thể hình dung nổi mặc bộ váy ấy thì cô bé đánh đấm kiểu gì. Dù vậy, cô bé biết nhiều thật. Hiểu biết của cô bé vượt xa người bình thường. Huống hồ cô bé còn là chủ nhân của Isaac, nên lời cô bé bảo sẽ không làm vướng chân chắc còn quá khiêm tốn ấy chứ. Vẻ ngoài điềm đạm, lễ phép kia hẳn chỉ là vỏ bọc mà thôi.
 
 "Tiểu thư mạnh hơn tôi rất nhiều," Isaac nói, xác nhận luôn nghi ngờ của tôi. Nghĩa là cô bé mạnh hơn tôi cả một trời một vực, thế thì tôi còn phàn nàn gì được nữa.
 
@@ -100,9 +100,9 @@ Nghĩ lại thì Lorraine với Nive cũng mạnh gớm. Cứ như ở Maalt nà
 
 "Vậy cùng đi nhé," tôi nói. "Cô thấy sao, Lorraine?"
 
-Lorraine nhún vai: "Được thôi, còn hơn là cả nhóm chỉ toàn mấy gã đàn ông nhếch nhác."
+Lorraine nhún vai: "Ừ, còn hơn là cả nhóm chỉ toàn mấy gã đàn ông hôi hám."
 
-Tôi đâu thấy hai chúng tôi nhếch nhác đến thế. Isaac trông bảnh bao thế kia cơ mà. Còn tôi thì mang tiếng đáng ngờ thật đấy, nhưng làm gì đến mức "nhếch nhác". Mà thôi, cô ấy chỉ nói đùa ấy mà.
+Tôi đâu thấy hai chúng tôi hôi hám đến thế. Isaac trông bảnh bao thế kia cơ mà. Còn tôi thì mang tiếng đáng ngờ thật đấy, nhưng làm gì đến mức "hôi hám". Mà thôi, cô ấy chỉ nói đùa ấy mà.
 
 "Cảm ơn mọi người đã cho tôi đi cùng," Laura nói rồi nhún gối cúi chào. Động tác vừa đáng yêu vừa tao nhã, thế mà cô bé lại mạnh hơn cả tôi lẫn Isaac nhiều. Tôi phải học cách đừng trông mặt mà bắt hình dong thôi. Cô bé cũng chẳng mang theo vũ khí gì, nhưng hỏi chuyện đó thì khiếm nhã quá.
 
@@ -136,7 +136,7 @@ Chẳng cần nói với nhau lời nào, cả nhóm lập tức vào thế chi�
 
 "Đi tiếp thôi nhỉ?" Laura nói.
 
-Chiêu cô bé vừa tung ra khá giống Thần Ma Khí Dung Hợp Thuật của tôi, nhưng chỉ một lần thi triển thôi cũng đã vượt quá tổng năng lượng tôi có rồi. Vậy mà Laura làm cứ như không. Giờ thì tôi hiểu tại sao Isaac lại khen cô bé mạnh đến vậy. Tôi muốn hỏi cho ra nhẽ lắm, nhưng đành để sau thôi. Cả nhóm vội vã lao về phía trước, sốt ruột muốn giải quyết mớ rắc rối này cho kịp giờ.
+Chiêu cô bé vừa tung ra khá giống Thần Ma Khí Dung Hợp Thuật của tôi, nhưng chỉ một lần thi triển thôi cũng đã vượt quá tổng năng lượng tôi có rồi. Vậy mà Laura làm cứ nhẹ như không. Giờ thì tôi hiểu tại sao Isaac lại bảo cô bé mạnh đến vậy. Tôi muốn hỏi tường tận mọi chuyện lắm, nhưng đành để sau thôi. Cả nhóm chạy vội về phía trước, mong giải quyết được bài toán hóc búa này cho kịp lúc.
 
 ◆◇◆◇◆
 
@@ -148,7 +148,7 @@ Chiêu cô bé vừa tung ra khá giống Thần Ma Khí Dung Hợp Thuật củ
 
 Căn phòng bên trong có lẽ vẫn giữ nguyên, nhưng ma pháp đã dựng thêm một cánh cửa ở bên ngoài. Trông nó chẳng khác gì cửa phòng Thống Lĩnh Tầng ở các mê cung khác, chỉ có điều cánh cửa này lòe loẹt hơn và đính đầy hoa văn trang trí. Biết đâu phòng của Chủ Nhân Mê Cung lại khác với phòng Thống Lĩnh Tầng cũng nên.
 
-"Ừ, đã đến tận đây rồi," tôi nói. "Đành liều một phen vậy."
+"Ừ, đã đi đến tận đây rồi," tôi nói. "Cứ phải thử thôi."
 
 "Chẳng biết đời này còn mấy dịp được tận mắt nhìn thấy kẻ thống trị mê cung với Lõi Mê Cung ở cự ly gần thế này nữa," Lorraine nói. "Tôi mong chờ lắm đấy."
 

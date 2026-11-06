@@ -60,7 +60,7 @@ Sau khi ngọn lửa tàn, Lorraine hỏi: "Lúc dùng ma pháp cô thấy thế
 
 "Hừm, phải rồi. So với một người mới học thì cô có rất nhiều Ma Lực đấy. Dĩ nhiên, tôi không rõ mức trung bình của một Hạ Cấp Ma Cà Rồng là bao nhiêu. Anh thấy sao, Isaac?" Lorraine quay sang hỏi Isaac.
 
-"Để tôi xem nào. Chắc hẳn cô sẽ thấy mình có thể thi triển Ma Thuật Sinh Hoạt thoải mái mà chẳng sợ cạn Ma Lực. Lại thêm Ma Cà Rồng hồi phục Ma Lực nhanh hơn rất nhiều, nên hiện giờ cô có lẽ ngang ngửa với một ma pháp sư trung cấp của nhân loại."
+"Để tôi xem nào. Chắc hẳn cô thấy mình có thể thi triển Ma Thuật Sinh Hoạt thoải mái mà chẳng sợ cạn Ma Lực. Lại thêm Ma Cà Rồng hồi phục Ma Lực nhanh hơn rất nhiều, nên hiện giờ cô có lẽ ngang ngửa với một ma pháp sư trung cấp của nhân loại."
 
 "Hạ Cấp Ma Cà Rồng lại mạnh đến thế sao?" Rina hơi ngạc nhiên. "Ừm. Vậy thì những kẻ ở cấp bậc cao hơn hẳn phải đáng sợ lắm."
 
@@ -90,11 +90,11 @@ Nghe qua thì cách đó cũng có mặt bất lợi, nhưng máu người vốn
 
 "Vậy tôi cũng làm thế được chứ?" tôi hỏi Isaac.
 
-"Tôi cũng không dám khẳng định chắc chắn. Có điều, vì ngài có thể hấp thụ máu và thu nạp quyến thuộc như một Ma Cà Rồng, nên quyến thuộc của ngài có lẽ cũng sẽ cần đến máu. Edel, chú chuột Puchi Suri kia cũng vậy, đúng chứ? Từ trước đến nay ngài đã xử lý chuyện đó ra sao?"
+"Tôi cũng không dám nói chắc. Có điều, vì ngài có thể hấp thụ máu và thu nạp quyến thuộc như một Ma Cà Rồng, nên quyến thuộc của ngài có lẽ cũng sẽ cần đến máu. Edel, chú chuột Puchi Suri kia cũng vậy, đúng chứ? Từ trước đến nay ngài đã xử lý chuyện đó ra sao?"
 
-Tôi vẫn thường cho Edel máu của Lorraine. Nhưng chú chuột nhỏ hơn tôi rất nhiều và chẳng cần nhiều máu đến thế. Chỉ một giọt thôi cũng đủ cho chú ta cầm cự suốt ba ngày.
+Tôi vẫn thường cho Edel máu của Lorraine. Nhưng nó nhỏ hơn tôi rất nhiều và chẳng cần nhiều máu đến thế. Chỉ một giọt thôi cũng đủ cho nó cầm cự suốt ba ngày.
 
-Sau khi tôi giải thích chuyện đó với Isaac, anh ấy đáp: "Có vẻ ngài không cần quá nhiều máu, đó hẳn là lý do tại sao Edel cũng giống như vậy. Hoặc cũng có thể chú ta chỉ đang lén lấy máu từ ngài mà ngài không hề hay biết."
+Sau khi tôi giải thích chuyện đó với Isaac, anh ấy đáp: "Có vẻ ngài không cần quá nhiều máu, đó hẳn là lý do tại sao Edel cũng giống như vậy. Hoặc cũng có thể chú chuột đó đang lén lấy máu từ ngài mà ngài không hề hay biết."
 
 Khoan đã, anh ấy vừa nói gì cơ? Tôi không hề hay biết ư?
 
@@ -124,9 +124,9 @@ Tôi nhìn Rina: "Cô làm được rồi sao?"
 
 "Hở? A, vâng. Edel đã dạy tôi cách làm."
 
-Hóa ra ngay lúc Edel nhảy lên đầu, Rina đã hiểu được điều chú chuột muốn truyền đạt. Sau đó chú ta bèn chỉ cô ấy cách rút Ma Lực từ tôi. Nghe Rina kể lại thì Edel khuyên cứ việc dứt khoát giật thẳng từ người tôi mà chẳng cần đắn đo. Tôi thấy cô ấy cũng không lấy đi bao nhiêu, nên chắc làm vậy là chuẩn rồi.
+Hóa ra ngay lúc Edel nhảy lên đầu, Rina đã hiểu được điều nó muốn truyền đạt. Sau đó nó bèn chỉ cô ấy cách rút Ma Lực từ tôi. Nghe Rina kể lại thì Edel khuyên cứ việc dứt khoát giật thẳng từ người tôi mà chẳng cần đắn đo. Tôi thấy cô ấy cũng không lấy đi bao nhiêu, nên chắc làm vậy là chuẩn rồi.
 
-Khi Edel quay về đậu trên vai tôi, tôi hỏi lại thì chú ta xác nhận lúc đầu cũng chẳng rút được bao nhiêu Ma Lực từ tôi. Nhưng chỉ cần quen tay một chút thì gần như chẳng có giới hạn nào cả.
+Khi Edel quay về đậu trên vai tôi, tôi hỏi lại thì nó xác nhận lúc đầu cũng chẳng rút được bao nhiêu Ma Lực từ tôi. Nhưng chỉ cần quen tay một chút thì gần như chẳng có giới hạn nào cả.
 
 Nghe nguy hiểm thật đấy chứ. Edel đáp lại suy nghĩ của tôi, bảo rằng tôi có thể siết bớt dòng chảy lại, nên bản thân tôi cũng cần phải học cách tự kiểm soát.
 
@@ -196,6 +196,6 @@ Rina nhíu mày và cố thử thêm vài lần, nhưng chẳng có chuyện gì
 
 Tôi chẳng rõ lý do tại sao lại như thế, nhưng Lorraine đưa ra một giả thuyết. "Đây chỉ là giả thuyết thôi, nhưng thông thường người ta cần phải qua rèn luyện mới sử dụng được Khí Lực, đúng chứ? Đó có lẽ là điểm khác biệt. Rina vốn đã biết cách sử dụng Ma Lực, còn Thần Lực thì có thể dùng theo trực giác, nhưng Khí Lực thì lại không như thế."
 
-Nghe cũng có lý. Người ta không thể sử dụng một thứ sức mạnh mà mình chẳng biết chút gì về nó. Nhưng trong trường hợp đó, liệu có nghĩa là Edel đã biết về Khí Lực từ trước khi chúng tôi gặp nhau không? Edel khá dẻo dai đối với một con Puchi Suri, rất có thể chú ta đã biết cách sử dụng nó. Khí Lực dựa trên sinh mệnh lực của mọi sinh vật sống, thế nên những sinh vật khác ngoài con người có thể sử dụng nó cũng là điều dễ hiểu.
+Nghe cũng có lý. Người ta không thể sử dụng một thứ sức mạnh mà mình chẳng biết chút gì về nó. Nhưng trong trường hợp đó, liệu có nghĩa là Edel đã biết về Khí Lực từ trước khi chúng tôi gặp nhau không? Edel khá dẻo dai đối với một con Puchi Suri, rất có thể nó đã biết cách sử dụng Khí Lực. Khí Lực dựa trên sinh mệnh lực của mọi sinh vật sống, thế nên những sinh vật khác ngoài con người có thể sử dụng nó cũng là điều dễ hiểu.
 
 Vậy có lẽ chỉ là do Rina chưa quen với Khí Lực mà thôi. Chuyện đó hoàn toàn có thể khắc phục được, lúc nào tôi chẳng dạy cô ấy cách dùng được.

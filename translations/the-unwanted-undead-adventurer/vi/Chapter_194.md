@@ -14,7 +14,7 @@ Trận chiến bắt đầu.
 
 Isaac là người mở màn. Con quái vật rít lên chói tai như muốn làm sụp cả căn phòng ngầm, nhưng Isaac vẫn lao thẳng tới mà không hề sợ hãi. Hoặc có khi anh ấy cũng đang sợ thật. Đứng trước một sinh vật khổng lồ, lì đòn và đầy sức mạnh thế này, cảm xúc của anh ấy lại còn pha lẫn nỗi xót xa khi phải xuống tay tiêu diệt một người quen cũ, thậm chí từng là bạn bè. Lúc này tôi chưa thể tìm hiểu cặn kẽ vì sao Shumini lại vứt bỏ mạng sống để tạo ra mê cung này rồi làm Chủ Nhân Mê Cung, nhưng biết đâu Isaac đã lờ mờ đoán được. Nghĩ rằng những gì Shumini làm chỉ là vô ích, anh ấy siết chặt chuôi kiếm, tự trách mình đã không ngăn nổi bạn. Tôi nhìn vào thì thấy vậy, nhưng cũng có khi là do mình nghĩ quá nhiều thôi.
 
-Dù sao thì Isaac cũng vừa nhanh vừa tấn công dồn dập. Trước một đối thủ to lớn dị thường, tốc độ của anh ấy ngỡ như không cần thiết đến thế, nhưng con quái vật cũng chẳng hề ỳ ạch cậy xác. Trái lại, nó xoay trở khá linh hoạt so với thân hình đồ sộ, và chỉ cần lơ là một chút thôi là Isaac có thể bị nó ngoạm trọn ngay. Chiếc đuôi dài ngoằng dẻo quẹo của nó cũng quất loạn xạ tứ phía hòng đánh trúng chúng tôi. Rất khó để áp sát, nhưng Isaac đã căn chuẩn từng nhịp né đuôi rồi dần dần rút ngắn khoảng cách với con quái vật cá sấu.
+Dù sao thì Isaac cũng vừa nhanh vừa chủ động tấn công. Trước một đối thủ to lớn dị thường, tốc độ của anh ấy ngỡ như không cần thiết đến thế, nhưng con quái vật cũng chẳng hề ỳ ạch cậy sức. Trái lại, nó xoay trở khá linh hoạt so với thân hình đồ sộ, và chỉ cần lơ là một chút thôi là Isaac có thể bị nó nuốt chửng ngay. Chiếc đuôi dài ngoằng dẻo quẹo của nó cũng quất loạn xạ tứ phía hòng đánh trúng chúng tôi. Rất khó để áp sát, nhưng Isaac đã căn chuẩn từng nhịp né đuôi rồi từng bước rút ngắn khoảng cách với con quái vật cá sấu.
 
 Vừa vào tầm đánh, Isaac lập tức vung thanh đại kiếm đỏ như máu. Nhát kiếm vừa chém xuống, con quái vật cá sấu đã rú lên một tiếng chát chúa nhức óc. Nó quay ngoắt sang Isaac, há toác cái mõm khổng lồ. Isaac giật mình nhảy lùi lại đúng lúc từ miệng nó bắn ra một luồng sáng. Thứ đó nhìn giống tia laser hơn là hơi thở lửa, quét qua thiêu cháy mặt sàn và để lại một vệt đất đá nóng chảy. Trúng một phát đấy chắc người tôi thủng một lỗ lớn. Có điều chắc vẫn chưa giết nổi tôi đâu. Trừ phi nó bắn trúng đầu. Lúc đó thì nguy to thật đấy.
 
@@ -26,7 +26,7 @@ Lớp da của con quái vật rất khó xuyên thủng, nhưng không phải l
 
 Tôi nhảy phắt lên đầu nó, chém thẳng xuống hộp sọ. Khác với lúc nãy, nhờ dồn thêm một lượng lớn Ma Lực, tôi cảm nhận rõ lưỡi kiếm lướt ngọt vào bên trong. Làm thế ngốn của tôi không ít Ma Lực, nhưng kiểu gì tôi cũng phải chém thủng được con quái vật này. Đã ăn thua thế này thì hoàn toàn bõ công.
 
-Tôi cứ ngỡ đâm thủng đầu là giết được nó rồi, nhưng ý nghĩ đó chỉ thoáng qua trong chớp mắt. Con quái vật cá sấu phát ra một thứ âm thanh nửa như gào thét, nửa như gầm gừ đe dọa, cả thân hình của nó rung chuyển dữ dội. Biết nó đang muốn lắc mình hất tôi xuống, tôi quyết định chiều ý nó mà nhảy luôn ra. May thay lưng nó dốc đứng chứ không thẳng tuột, nên tôi vẫn trượt xuống được.
+Tôi cứ ngỡ đâm thủng đầu là giết được nó rồi, nhưng ý nghĩ đó chỉ thoáng qua trong chớp mắt. Con quái vật cá sấu phát ra một thứ âm thanh vừa giống tiếng kêu rên, tiếng gào thét, lại vừa như tiếng gầm đe dọa, cả thân hình của nó rung lên bần bật. Biết nó đang muốn lắc mình hất tôi xuống, tôi quyết định chiều ý nó mà nhảy luôn ra. May thay lưng nó dốc đứng chứ không thẳng tuột, nên tôi vẫn trượt xuống được.
 
 Tôi vừa dãn ra được một khoảng cách thì Lorraine cũng hoàn tất câu chú, phóng ra một cơn lốc sấm sét từ cây đũa phép của cô ấy. Đó là ma pháp cao cấp mang tên Barrack Ceara, uy lực thừa sức thiêu rụi cả trăm con Goblin. Đây là một trong những ma pháp thuộc hàng mạnh của Lorraine. Dù là quái vật khổng lồ đi nữa thì dính trọn đòn này cũng đừng mong lành lặn.
 
@@ -56,7 +56,7 @@ Isaac và tôi cố áp sát chém con quái vật, nhưng chẳng ăn thua. Nó
 
 "Tránh xa nó ra!" Laura hét lên.
 
-Chúng tôi vừa dạt ra thì một quả cầu đen đã xuất hiện ngay phía trên con quái vật. Nhìn nó y hệt hố đen Laura từng dùng lên con Lizardman ngoài hành lang, nhưng quả cầu này dường như lại mang tác dụng hoàn toàn khác. Nó không nén con quái vật vào tâm điểm. Do không thể làm thế hay đơn giản là cô bé không muốn, tôi cũng chịu. Vừa xuất hiện, quả cầu đã đè nghiến con quái vật xuống sàn. Tôi nghe thấy tiếng răng rắc và thấy mặt đất hơi lún xuống, hẳn là quả cầu đang dằn nó xuống với một áp lực kinh hồn.
+Chúng tôi vừa dạt ra thì một quả cầu đen đã xuất hiện ngay phía trên con quái vật. Nhìn nó y hệt hố đen Laura từng dùng lên con Lizardman ngoài hành lang, nhưng quả cầu này dường như lại mang tác dụng hoàn toàn khác. Nó không nén con quái vật vào tâm. Do không thể làm thế hay đơn giản là nó không làm vậy, tôi cũng chịu. Vừa xuất hiện, quả cầu đã đè chặt con quái vật xuống sàn. Tôi nghe thấy tiếng răng rắc và thấy mặt đất hơi lún xuống, hẳn là quả cầu đang ép nó xuống với một lực kinh người.
 
 Nhận thấy cơ hội tấn công đã đến, Isaac và tôi nhìn nhau rồi cùng lao về phía con quái vật. Ngay khi chúng tôi áp sát trước mặt nó, Laura liền giải trừ quả cầu đen. Có lẽ ma pháp của cô bé gây ảnh hưởng lên mọi thứ trong một bán kính nhất định, nên cô bé đã hủy nó trước khi chúng tôi bước vào tầm tác động. Đã cận kề thế này thì không thể trượt được nữa. Isaac và tôi cùng vung kiếm chém xuống, và không như lúc nãy, cả hai chúng tôi đều đánh trúng đích.
 
@@ -80,7 +80,7 @@ Tôi đảo mắt tìm con quái vật thì thấy nó đang bám chặt trên t
 
 Cái trò liên tục tái tạo của nó đúng là rắc rối, nhưng chúng tôi cứ phải đánh tiếp đã. Không ăn thua thì tới lúc đó hẵng tính. Giờ đã nắm được phần lớn ngón nghề của nó, chúng tôi hoàn toàn có thể chấp nhận chút mạo hiểm. Có khi tôi hơi lạc quan quá, nhưng để trận chiến dây dưa kéo dài thì còn rủi ro hơn nhiều. Đáng để thử một phen.
 
-Tôi bắt đầu lao lên. Lorraine giáng một ma pháp sấm sét vào con quái vật, đánh trúng khiến nó rớt từ trần nhà xuống. Giờ đến lượt tôi, nhưng tôi vẫn chưa nghĩ ra cách nào trị một kẻ địch cứ liên tục tái tạo. Dù vậy theo những gì tôi thấy, thể lực và khả năng hồi phục của con quái vật này đâu phải vô hạn. Ngay cả Ma Cà Rồng cũng chẳng thể tái tạo mãi mãi, nên nếu năng lực phục hồi của nó bắt nguồn từ Shumini thì hẳn cũng không thể kéo dài vĩnh viễn. Lúc nãy cũng có những chỗ trên người nó chưa lành hẳn, nên rất có thể nó còn chẳng hồi phục bằng một Ma Cà Rồng thực thụ. Tôi quyết định chọn cách đơn giản nhất là cứ thế đánh tiếp.
+Tôi bắt đầu lao lên. Lorraine giáng một ma pháp sấm sét vào con quái vật, đánh trúng khiến nó rớt từ trần nhà xuống. Giờ đến lượt tôi, nhưng tôi vẫn chưa nghĩ ra cách nào trị một kẻ địch cứ liên tục tái tạo. Dù vậy theo những gì tôi thấy, thể lực và khả năng hồi phục của con quái vật này đâu phải vô hạn. Ngay cả Ma Cà Rồng cũng chẳng thể tái tạo mãi được, nên nếu năng lực phục hồi của nó bắt nguồn từ Shumini thì hẳn cũng không thể kéo dài mãi. Lúc nãy cũng có những chỗ trên người nó chưa lành hẳn, nên rất có thể nó còn chẳng hồi phục tốt bằng một Ma Cà Rồng. Tôi quyết định chọn cách đơn giản nhất là cứ thế đánh tiếp.
 
 Isaac và tôi vung kiếm chém tới tấp vào con quái vật. Chúng tôi chia nhau người đánh đầu kẻ đánh đuôi, phần vì chưa thống nhất được một vị trí để nhắm vào, phần vì đánh sát cạnh Isaac thì khá gò bó do thanh đại kiếm của anh ấy. Ban đầu tôi chưa rõ ai nên vào chỗ nào, nhưng Isaac đã nhanh chóng chọn phần đầu. Đó là khu vực nguy hiểm hơn, nhưng với thực lực của anh ấy thì đó là quyết định hoàn toàn chuẩn xác. Trong căn phòng này, có lẽ tôi là kẻ yếu nhất. Tôi có mạnh hơn trước đôi chút thật, nhưng điều đó đâu có nghĩa tôi không thể là mắt xích yếu nhất trong một tổ đội. Trong nhóm này thì đúng là vậy, chứ ở phần lớn các tổ đội khác thì chí ít tôi cũng thuộc dạng khá. Hoặc ít ra tôi hy vọng là thế. Mà thôi, bàn về sự thiếu tự tin của bản thân bấy nhiêu là đủ rồi.
 
@@ -102,7 +102,7 @@ Chúng tôi tiếp cận những tảng thịt lớn nhất trước và thiêu 
 
 Như thể đó chính là phần cốt lõi của con quái vật, những tảng thịt còn lại cũng đồng loạt hóa thành tro bụi. Chuyện này giúp chúng tôi đỡ mất công tự tay thiêu rụi mọi thứ, nhưng nét mặt Isaac chẳng có vẻ gì là vui mừng. Hẳn trong lòng anh ấy đang ngổn ngang nhiều suy nghĩ. Tôi không ở vào vị thế có thể nói gì, nên chỉ biết giữ im lặng.
 
-Một lát sau, dường như Isaac đã lấy lại được bình tĩnh. "Chúng ta đã đánh bại Shumini rồi. Chẳng phải nên đi tìm Lõi Mê Cung sao, thưa tiểu thư?" Isaac hỏi Laura.
+Một lát sau, dường như Isaac đã lấy lại được bình tĩnh. "Chúng ta đã đánh bại Shumini rồi. Chẳng phải nên đi tìm Lõi Mê Cung sao?" Isaac hỏi Laura.
 
 Cô bé tránh nhắc tới những gì Isaac vừa làm. "Phải, chắc nó ở gần đây thôi. Chúng ta đi sâu vào trong nhé," cô bé nói.
 

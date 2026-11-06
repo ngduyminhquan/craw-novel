@@ -14,7 +14,7 @@ Khi chúng tôi gật đầu, cô bé đặt tay lên cánh cửa. Cửa mở ra
 
 ◆◇◆◇◆
 
-"Sao Rina lại ở đây?!" tôi buột miệng kêu lên.
+"Sao Rina lại ở đây?" tôi buột miệng hỏi.
 
 Laura dời mắt khỏi Rina, quay sang nhìn tôi. "Ngài quen cô ấy sao?" cô bé hỏi.
 
@@ -68,7 +68,7 @@ Nếu chẳng hại đến ai thì nhìn Rina hành xử như Shumini có khi c�
 
 "Đúng vậy, nhưng đâu có nghĩa là biến cô ấy trở lại thành người. Làm được thì tôi cũng làm rồi, nhưng tôi chịu thôi. Tất cả những gì tôi làm được là giải thoát cô ấy khỏi việc làm quyến thuộc của Shumini."
 
-Tôi chẳng biết nên cảm thấy thế nào trước chuyện đó. Cô ấy sẽ không phải nghe theo lệnh Shumini để làm những điều mình không muốn, nhưng rồi vẫn phải kẹt lại trong hình hài không còn là con người. Tôi quá hiểu cảm giác ấy vì bản thân từng trải qua, và nó từng để lại trong tôi bao nỗi u sầu. Với Rina, e rằng chuyện này sẽ rất khó khăn. Nhưng xem ra Laura cũng chẳng làm gì được về chuyện đó. Nếu vậy, ngăn không để ý chí của Shumini điều khiển cô ấy đã là điều tối thiểu chúng tôi có thể làm rồi.
+Tôi chẳng biết nên cảm thấy thế nào trước chuyện đó. Cô ấy sẽ không phải nghe theo lệnh Shumini để làm những điều mình không muốn, nhưng rồi vẫn phải kẹt lại trong hình hài không còn là con người. Tôi quá hiểu cảm giác ấy vì bản thân từng trải qua, và chuyện đó từng khiến tôi buồn rầu không ít. Với Rina, e rằng chuyện này sẽ rất khó khăn. Nhưng xem ra Laura cũng chẳng làm gì được về chuyện đó. Nếu vậy, ngăn không để ý chí của Shumini điều khiển cô ấy đã là điều tối thiểu chúng tôi có thể làm rồi.
 
 "Làm thế nào để giải thoát Rina khỏi sự điều khiển của Shumini?" Lorraine hỏi. "Tôi nghe bảo một khi đã thành quyến thuộc của Ma Cà Rồng, họ sẽ bị kẹt như thế suốt cả đời mà."
 
@@ -76,7 +76,7 @@ Tôi chẳng biết nên cảm thấy thế nào trước chuyện đó. Cô ấ
 
 Nói cách khác, chỉ cần có ai đó nhận Rina làm quyến thuộc. Cụ thể hơn là một Ma Cà Rồng khác phải đứng ra làm việc này. Điều đó cũng đồng nghĩa chúng tôi phải bàn tới một chuyện mà bấy lâu nay chưa ai hỏi tới.
 
-"Chắc mọi người đều nhận ra cả rồi. Tôi và Isaac cũng là Ma Cà Rồng. Thế nên tôi mới biết tất cả những chuyện này," Laura thản nhiên nói. Điều đó vốn đã quá rõ ràng rồi, nên chắc cô bé cũng chẳng định giấu giếm.
+"Chắc mọi người đều nhận ra cả rồi. Tôi và anh Isaac cũng là Ma Cà Rồng. Thế nên tôi mới biết tất cả những chuyện này," Laura thản nhiên nói. Điều đó vốn đã quá rõ ràng rồi, nên chắc cô bé cũng chẳng định giấu giếm.
 
 ![](images/ch195-01.webp)
 
@@ -100,9 +100,9 @@ Nếu lỡ tay làm sai, cả đời này tôi sẽ chẳng hết dằn vặt. T
 
 "Không, thế thì không được," Laura nói.
 
-"Sao lại thế? Cả hai đều mạnh hơn tôi nhiều mà."
+"Sao lại thế? Cả cô bé lẫn Isaac đều mạnh hơn tôi nhiều mà."
 
-"Bảo thế thì không sai, nhưng cũng chẳng đúng hẳn. Tôi và Isaac là Ma Cà Rồng, nhưng ngài thì hơi khác một chút, ngài Rentt à. Sự khác biệt đó nhiều khả năng sẽ định đoạt chuyện sống chết của Rina."
+"Bảo thế thì không sai, nhưng cũng chẳng đúng hẳn. Tôi và anh Isaac là Ma Cà Rồng, nhưng ngài thì hơi khác một chút, ngài Rentt à. Sự khác biệt đó nhiều khả năng sẽ định đoạt chuyện sống chết của Rina."
 
 "Tôi khác sao? Ý cô bé là tôi không phải Ma Cà Rồng à?"
 
@@ -124,7 +124,7 @@ Hóa ra tôi thực sự biến được Rina thành quyến thuộc của mình
 
 "Chúng ta nên làm gì đây?" tôi hỏi Laura.
 
-"Cũng chẳng có gì phức tạp lắm. Chỉ cần ai đó hấp thụ Lõi Mê Cung vào cơ thể mình là được. Nhưng chuyện đó với ngài sẽ rất khó khăn, ngài Rentt à, còn Lorraine hay Isaac thì dĩ nhiên lại càng không thể. Nếu là Lõi Mê Cung bình thường thì đã khác, đằng này nó đã dung hợp với Rina nên tôi không thể chỉ ngài cách hấp thụ được. Tôi sẽ phải tự mình làm thôi, nhưng ước gì tôi có thêm chút thời gian. Ngài Rentt, ngài nhìn sang phía này một lát đi."
+"Cũng chẳng có gì phức tạp lắm. Chỉ cần ai đó hấp thụ Lõi Mê Cung vào cơ thể mình là được. Nhưng chuyện đó với ngài sẽ rất khó khăn, ngài Rentt à, còn cô Lorraine hay anh Isaac thì dĩ nhiên lại càng không thể. Nếu là Lõi Mê Cung bình thường thì đã khác, đằng này nó đã dung hợp với Rina nên tôi không thể chỉ ngài cách hấp thụ được. Tôi sẽ phải tự mình làm thôi, nhưng ước gì tôi có thêm chút thời gian. Ngài Rentt, ngài nhìn sang phía này một lát đi."
 
 Tôi nghiêng đầu quay sang nhìn Laura. Đột nhiên cô bé cào rách cổ tay mình, cạy miệng tôi ra rồi để máu chảy vào trong. Tôi sững sờ, nhưng niềm yêu thích máu của Ma Cà Rồng buộc tôi phải nuốt xuống. Thấy tôi đã nuốt hết, vẻ mặt Laura lộ rõ sự ân hận sâu sắc.
 
@@ -136,7 +136,7 @@ Laura bước lại chỗ Rina, cầm lấy cánh tay trái của cô ấy và c
 
 "Ngài Rentt, có nhiều chuyện tôi muốn giải thích cho ngài, nhưng xem ra việc đó hơi khó rồi. Ít nhất tôi khuyên ngài nên đi tới các ngôi đền và di tích trên khắp thế giới để thu thập những truyền thuyết từ thời cổ đại. Làm vậy sẽ giúp ngài tiến gần hơn tới mục tiêu của mình. Ngài cũng sẽ lên được Mithril Cấp nữa, một công đôi việc," cô bé nói với tôi.
 
-Tiếp đó, cô bé quay sang Lorraine. "Lorraine, nếu được thì tôi muốn nhờ cô hỗ trợ ngài Rentt. Hiểu biết của cô chắc chắn sẽ giúp ích rất nhiều. Còn chuyện này có thể hơi phiền một chút, nhưng nếu mọi thứ trở nên vô vọng, tôi có thể giải quyết giúp hai người. Đừng nghĩ ngợi quá sâu xa về chuyện đó nhé," cô bé nói một cách mơ hồ.
+Tiếp đó, cô bé quay sang Lorraine. "Lorraine, nếu được thì tôi muốn nhờ cô hỗ trợ ngài Rentt. Hiểu biết của cô chắc chắn sẽ giúp ích rất nhiều. Còn chuyện này có thể hơi phiền một chút, nhưng nếu mọi thứ trở nên vô vọng, tôi có thể giải quyết giúp hai người. Đừng nghĩ ngợi quá sâu xa về chuyện đó nhé," cô bé nói lấp lửng.
 
 Cuối cùng, cô bé nhìn sang Isaac. "Đây đã là lần thứ tư rồi. Tôi sẽ sớm chạm tới giới hạn của mình, nên nhiều khả năng tôi sẽ phải ngủ một thời gian. Trong lúc ấy, anh lo liệu mọi việc nhé."
 

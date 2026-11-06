@@ -70,11 +70,11 @@ Xem ra Isaac đã chọn cái tên đơn giản nhất để gọi tạm trướ
 
 Rốt cuộc, dù đã kiểm tra toàn bộ những biến đổi của cơ thể, tôi vẫn chẳng biết cụ thể mình đã trở thành thứ gì. Nhưng điều quan trọng nhất vẫn là nắm rõ bản thân có thể làm được những gì. Ít nhất thì tôi tự nhủ như thế.
 
-Chuyện tiếp theo chúng tôi cần bàn là về thành phố.
+Chuyện tiếp theo chúng tôi cần bàn là về thị trấn.
 
 "Giờ mới nhắc thì hơi muộn, nhưng mê cung đã ngừng mở rộng rồi đúng không?" tôi hỏi Isaac.
 
-"Vâng. Tôi nghĩ là nhờ tiểu thư Laura đang khống chế nó. Kể từ sau biến cố đó, không còn dấu hiệu mở rộng nào nữa. Có điều..."
+"Vâng. Tôi nghĩ là nhờ Tiểu thư Laura đang khống chế nó. Kể từ sau biến cố đó, không còn dấu hiệu mở rộng nào nữa. Có điều..."
 
 "Có điều sao? Có vấn đề gì à?"
 
@@ -86,7 +86,7 @@ Thấy vẻ ngờ vực của tôi, Lorraine khẽ gật đầu ra hiệu rằng
 
 "Thế còn chuyện báo cáo với Hội thì sao?" tôi hỏi thêm.
 
-"Chúng tôi vẫn chưa gửi báo cáo chính thức nào cả," Isaac đáp. "Chúng tôi nghĩ tốt nhất nên thống nhất lời khai trước đã. Đặc biệt là chuyện tiểu thư Laura đã trở thành Chủ Nhân Mê Cung, chúng tôi muốn giữ kín."
+"Chúng tôi vẫn chưa gửi báo cáo chính thức nào cả," Isaac đáp. "Chúng tôi nghĩ tốt nhất nên thống nhất lời khai trước đã. Đặc biệt là chuyện Tiểu thư Laura đã trở thành Chủ Nhân Mê Cung, chúng tôi muốn giữ kín."
 
 Chuyện đó quả thực rất hệ trọng. Chỉ cần hé môi nửa lời về chuyện đó, rất có thể sẽ vô tình để lộ Laura là Ma Cà Rồng. Laura và Isaac vốn chẳng xa lạ gì với khái niệm Lõi Mê Cung, nhưng hiểu biết đó lại không hề phổ biến trong giới con người. Bao năm làm mạo hiểm giả tôi còn chưa từng nghe nói, nên đoán chừng phía Hội cũng mù tịt thôi. Dẫu vậy, nếu họ có biết ít nhiều đôi chút, nếu họ nắm được các đặc tính của Lõi Mê Cung, người ta hoàn toàn có thể đoán ra Laura là một nhân vật dị thường tới mức nào.
 
@@ -94,21 +94,21 @@ Thêm vào đó, Nive vẫn còn đang ở Maalt. Qua những lần tiếp xúc 
 
 "Tôi đồng tình. Nếu người ta biết Laura là Ma Cà Rồng, họ cũng sẽ nghi ngờ chúng ta có khả năng là Ma Cà Rồng nốt. Nhưng chúng ta nên nói gì trong bản báo cáo đây?" Tôi thở dài thì thào câu cuối cùng.
 
-"Khéo anh lo xa quá rồi đấy," Lorraine góp ý. "Dù sao anh cũng đã bảo với Wolf rằng mình đi lùng Shumini rồi còn gì. Cách dễ nhất là báo cáo rằng mọi chuyện đã êm xuôi sau khi anh đánh bại hắn."
+"Khéo anh lo xa quá rồi đấy," Lorraine góp ý. "Dù sao anh cũng đã bảo với Wolf rằng mình đi lùng Shumini rồi còn gì. Cách dễ nhất là báo cáo rằng mọi chuyện đã êm xuôi sau khi anh đánh bại gã."
 
-Cách giải thích đó cực kỳ đơn giản mà lại đúng là sự thật. Nếu tôi bảo với Wolf rằng cả nhóm đã hạ được Shumini và giấu nhẹm chuyện Lõi Mê Cung cùng Chủ Nhân Mê Cung, chắc ông ấy cũng chẳng gặng hỏi nhiều làm gì. Laura đã đem lại bình yên cho thành phố nhờ hấp thụ chiếc lõi, nhưng Wolf sẽ chỉ đinh ninh rằng đó là nhờ Shumini đã chết. Mọi chuyện đã trở lại bình thường nên cũng chẳng có mấy kẽ hở cho sự nghi ngờ. Dẫu vậy, mê cung vẫn nằm dưới lòng thành phố, và tôi tin chắc phía Hội sẽ cử các tổ đội của họ xuống điều tra. Nhưng Laura đã giữ chiếc lõi và trở thành chủ nhân của nó rồi. Có kiểm tra mê cung thì họ cũng chẳng mò ra được gì khác.
+Cách giải thích đó cực kỳ đơn giản mà lại đúng là sự thật. Nếu tôi bảo với Wolf rằng cả nhóm đã hạ được Shumini và giấu nhẹm chuyện Lõi Mê Cung cùng Chủ Nhân Mê Cung, chắc ông ấy cũng chẳng gặng hỏi nhiều làm gì. Laura đã đem lại bình yên cho thị trấn nhờ hấp thụ chiếc lõi, nhưng Wolf sẽ chỉ đinh ninh rằng đó là nhờ Shumini đã chết. Mọi chuyện đã trở lại bình thường nên cũng chẳng có mấy kẽ hở cho sự nghi ngờ. Dẫu vậy, mê cung vẫn nằm dưới lòng thị trấn, và tôi tin chắc phía Hội sẽ cử các tổ đội của họ xuống điều tra. Nhưng Laura đã giữ chiếc lõi và trở thành chủ nhân của nó rồi. Có kiểm tra mê cung thì họ cũng chẳng mò ra được gì khác.
 
 "Được rồi, cứ theo hướng đó đi," tôi gật đầu. "Isaac, anh thấy phương án đó có ổn thỏa không?"
 
 "Phương án đó rất ổn. Còn về cô Rina, có lẽ cứ bảo ngài tìm thấy cô ấy đang bị trói trong gian phòng phía sau. Ngài có thể báo cáo là mình tình cờ phát hiện ra cô ấy, bởi vốn dĩ cô Rina ở đó là do bị Shumini bắt giữ, đúng không?"
 
-Isaac nhìn sang Rina, và cô ấy đáp: "Đúng vậy. Tôi đột ngột mất liên lạc với hai thành viên trong tổ đội nên đã đi tìm họ. Đúng lúc đó thì bị hắn bắt giữ. Rồi hắn hút máu tôi. Đến khi tôi kịp nhận ra chuyện gì vừa xảy ra thì anh Rentt đã tìm thấy tôi rồi."
+Isaac nhìn sang Rina, và cô ấy đáp: "Đúng vậy. Tôi đột ngột mất liên lạc với hai thành viên trong tổ đội nên đã đi tìm họ. Đúng lúc đó thì bị gã bắt giữ. Rồi gã hút máu tôi. Đến khi tôi kịp nhận ra chuyện gì vừa xảy ra thì anh Rentt đã tìm thấy tôi rồi."
 
 Hóa ra Shumini đã bắt giữ Raiz và Laura Satii trước. Tôi gặng hỏi thêm chi tiết thì Rina giải thích rằng cả nhóm vốn thuê phòng ở một quán trọ làm chỗ nghỉ chân. Đêm đó cả hai người kia đều không trở về nên cô ấy mới ra ngoài tìm, để rồi bị Shumini bắt và biến thành Ma Cà Rồng.
 
 "Nếu vậy thì," tôi nói, "chủ quán trọ chỗ nhóm cô ở hẳn đang thắc mắc vì sao cả đội mãi chưa về. Chúng ta không thể cứ thế ỉm đi chuyện Rina bị bắt cóc được. Cứ bảo cô ấy từng bị bắt giữ nhưng giờ vẫn bình an vô sự thì dễ hơn."
 
-Bảo rằng tôi tình cờ chạm mặt cô ấy cũng được thôi, nhưng vì đã có người biết chuyện cô ấy mất tích suốt một thời gian nên khéo lại sinh rắc rối. Họ có thể quyết định tự mình đến kiểm tra khu vực đó của thành phố. Dựng lên một lời nói dối càng sát với sự thật càng tốt sẽ hiệu quả hơn nhiều. Đúng là cô ấy từng bị bắt giữ, và điều đó giải thích hoàn hảo cho việc cô ấy biến mất. Chúng tôi chỉ cần giấu nhẹm chuyện Rina đã biến thành Ma Cà Rồng và Laura đã trở thành Chủ Nhân Mê Cung là xong.
+Bảo rằng tôi tình cờ chạm mặt cô ấy cũng được thôi, nhưng vì đã có người biết chuyện cô ấy mất tích suốt một thời gian nên khéo lại sinh rắc rối. Họ có thể quyết định tự mình đến kiểm tra khu vực đó của thị trấn. Dựng lên một lời nói dối càng sát với sự thật càng tốt sẽ hiệu quả hơn nhiều. Đúng là cô ấy từng bị bắt giữ, và điều đó giải thích hoàn hảo cho việc cô ấy biến mất. Chúng tôi chỉ cần giấu nhẹm chuyện Rina đã biến thành Ma Cà Rồng và Laura đã trở thành Chủ Nhân Mê Cung là xong.
 
 "Tôi hiểu rồi. Có ai gặng hỏi thì tôi sẽ trả lời như vậy," Rina nói.
 

@@ -58,7 +58,7 @@ Rina đã bị Ma Cà Rồng bắt giữ, bị biến thành Ma Cà Rồng, rồ
 
 "Tôi ổn mà," Rina đáp. "Tôi thấy trong người khỏe khoắn, chẳng có vấn đề gì đặc biệt cả. Có điều thỉnh thoảng có những lúc người khác trông cứ như đồ ăn trong mắt tôi vậy."
 
-Những ý nghĩ đó nghe thật kinh khủng, nhưng tôi hiểu cảm giác của cô ấy. Thỉnh thoảng khi nhìn ai đó, một góc trong đầu tôi cũng vô thức nghĩ rằng trông họ có vẻ khá ngon lành, máu của họ hẳn sẽ mượt như lụa, họ sẽ là nguồn dinh dưỡng dồi dào, hay vị thịt của họ sẽ đậm đà lắm. Chắc Rina cũng đang trải qua cảm giác tương tự. Cơn thèm này không phải là không kìm nén được, nên cũng chưa phải vấn đề gì quá to tát.
+Những ý nghĩ đó nghe thật kinh khủng, nhưng tôi hiểu cảm giác của cô ấy. Thỉnh thoảng khi nhìn ai đó, một góc trong đầu tôi cũng vô thức nghĩ rằng trông họ có vẻ khá ngon lành, máu của họ hẳn sẽ sánh mượt như lụa, họ sẽ là nguồn dinh dưỡng dồi dào, hay hương vị sẽ đậm đà lắm. Chắc Rina cũng đang trải qua cảm giác tương tự. Cơn thèm này không phải là không kìm nén được, nên cũng chưa phải vấn đề gì quá to tát.
 
 "Ra thế, vậy cô biết chuyện xảy ra lúc mình bất tỉnh rồi à?" tôi hỏi.
 

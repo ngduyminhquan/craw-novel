@@ -28,11 +28,11 @@ Lorraine và tôi gom được không ít nguyên liệu từ mê cung hoặc tr
 
 "Tôi với Lorraine tự tay kiếm đống này, nên chắc có lẫn không ít món lạ."
 
-"Đúng thế, cơ mà dân giả kim thì ai cũng biết rõ. Tiếc là chẳng mấy mạo hiểm giả nhận ra được chúng."
+"Đúng thế, cơ mà các nhà giả kim thì ai cũng biết rõ. Tiếc là chẳng mấy mạo hiểm giả nhận ra được chúng."
 
 "Mạo hiểm giả thường chỉ nhặt những thứ dễ nhận diện và dễ thu gom thôi. Mấy món ít ai dùng mà giá trị cao thì khó nhớ lắm."
 
-"Ra là vậy. Nghe được góc nhìn từ mạo hiểm giả như cậu thật tốt quá. Có lẽ chúng tôi nên lưu ý điều này khi gửi yêu cầu lên hội."
+"Ra là vậy. Nghe được góc nhìn từ mạo hiểm giả như cậu thật tốt quá. Có lẽ chúng tôi nên lưu ý điều này khi gửi yêu cầu lên Hội."
 
 Chúng tôi cứ đứng tán gẫu trong lúc người ta mang thêm nguyên liệu tới. Rồi dòng người quanh đó cũng bắt đầu thưa dần.
 
@@ -60,11 +60,11 @@ Chúng tôi ngồi vào bàn ăn. Trong lúc dùng bữa, tôi kể lại chuy�
 
 "Tôi cũng bảo thế, nhưng anh ấy là người lịch sự mà."
 
-"Thì xưa nay anh ta vẫn vậy. Với tài năng đó, đáng lẽ anh ta có thể nổi tiếng hơn hiện giờ nhiều, vậy mà lại chọn sống ở thị trấn nhỏ này."
+"Thì xưa nay anh ấy vẫn vậy. Với tài năng đó, đáng lẽ anh ấy có thể nổi tiếng hơn hiện giờ nhiều, vậy mà lại chọn sống ở thị trấn nhỏ này."
 
 "Thật sao?"
 
-"Đúng thế, nếu muốn thì anh ta có thể kiếm được việc ở Vistelya, hoặc thậm chí tìm được việc làm ở Đế Quốc ấy chứ. Tất nhiên là chẳng thể nào sánh bằng tôi rồi."
+"Đúng thế, nếu muốn thì anh ấy có thể kiếm được việc ở Vistelya, hoặc thậm chí tìm được việc làm ở Đế Quốc ấy chứ. Tất nhiên là chẳng thể nào sánh bằng tôi rồi."
 
 Lorraine tự đánh giá mình rất cao, nhưng nếu trình độ giả kim của Adela chỉ kém cô ấy một chút thì anh ấy vẫn thuộc dạng khá có tài. Xét về thực lực của Lorraine, chính tôi cũng chẳng hiểu hết vì sao cô ấy lại chọn sống ở Maalt.
 
@@ -74,7 +74,7 @@ Lorraine tự đánh giá mình rất cao, nhưng nếu trình độ giả kim c
 
 "Nghe cũng vất vả thật."
 
-"Chắc vậy, nhưng anh ta hoàn toàn có thể rời Giáo Hội Giả Kim để gia nhập một nhóm nghiên cứu nào đó cơ mà. Tôi đoán anh ta ở lại với họ là vì bản thân muốn thế, nên chúng ta chẳng có tư cách gì để bàn tán về hoàn cảnh của người ta cả."
+"Chắc vậy, nhưng anh ấy hoàn toàn có thể rời Giáo Hội Giả Kim để gia nhập một nhóm nghiên cứu nào đó cơ mà. Tôi đoán anh ấy ở lại với họ là vì bản thân muốn thế, nên chúng ta chẳng có tư cách gì để bàn tán về hoàn cảnh của người ta cả."
 
 "Chắc thế."
 
@@ -98,11 +98,11 @@ Một hôm, có ai đó gõ cửa nhà Lorraine rồi lớn tiếng gọi tên t
 
 "Hiểu rồi. Để tôi giúp cho."
 
-"Oa, cảm ơn anh! Chị đã bảo với em rồi mà, Mimir? Anh Rentt sẽ tìm bố cho em mà."
+"Oa, cảm ơn anh! Chị đã bảo em rồi thấy chưa, Mimir? Anh Rentt sẽ tìm bố cho em mà."
 
 Chắc hẳn Mimir đã lo lắng về chuyện đó lắm. Con bé cứ im thin thít suốt từ nãy, nhưng giờ thì nhìn tôi với ánh mắt nhẹ nhõm.
 
-"Em cảm ơn anh Rentt ạ," cô bé nói.
+"Em cảm ơn anh Rentt," cô bé nói.
 
 "Không có gì đâu. Dù sao hôm nay tôi cũng chẳng có việc gì khác để làm. Cơ mà nếu em lại đi lạc nữa thì chẳng giúp ích được cho ai cả, nên hai đứa cứ tìm chỗ nào ngồi đợi nhé. Thấy sao?"
 
@@ -110,11 +110,11 @@ Chắc hẳn Mimir đã lo lắng về chuyện đó lắm. Con bé cứ im thin
 
 "Ừ. Nhưng trước đó, Mimir này, tôi cần hỏi em đôi điều về bố em đã. Được không?"
 
-"Vâng ạ!"
+"Vâng!"
 
 "Trả lời ngoan lắm."
 
-Tôi cho hai cô bé vào nhà Lorraine để hỏi chuyện Mimir. Sau đó tôi tiễn hai đứa về cô nhi viện rồi bắt đầu đi tìm. Còn về chuyện Lorraine đang ở đâu thì cô ấy đã đi từ sớm sau khi nhận được một yêu cầu khẩn cấp từ hội. Chắc cô ấy cũng sẽ phụ tìm một tay, nhưng tiếc là đang bận tối tăm mặt mũi. Dù vậy, tôi có mạng lưới thông tin của Edel, nên tôi nghĩ mình sẽ xoay xở ổn thôi.
+Tôi cho hai cô bé vào nhà Lorraine để hỏi chuyện Mimir. Sau đó tôi tiễn hai đứa về cô nhi viện rồi bắt đầu đi tìm. Còn về chuyện Lorraine đang ở đâu thì cô ấy đã đi từ sớm sau khi nhận được một yêu cầu khẩn cấp từ Hội. Chắc cô ấy cũng sẽ phụ tìm một tay, nhưng tiếc là đang bận tối tăm mặt mũi. Dù vậy, tôi có mạng lưới thông tin của Edel, nên tôi nghĩ mình sẽ xoay xở ổn thôi.
 
 ◆◇◆◇◆
 
@@ -122,13 +122,13 @@ Tôi cho hai cô bé vào nhà Lorraine để hỏi chuyện Mimir. Sau đó tô
 
 "A, anh Rentt! Mimir ơi, anh Rentt đến rồi này!"
 
-"Anh Rentt! Anh tìm thấy bố em rồi ạ?" Mimir hỏi.
+"Anh Rentt! Anh tìm thấy bố em rồi hả?" Mimir hỏi.
 
 "Tôi biết ông ấy đang ở đâu rồi, nhưng hình như đang ở ngoài thị trấn. Nghe chừng ông ấy là mạo hiểm giả, nên chắc chuyện đó cũng bình thường thôi."
 
-Bố của Mimir là một mạo hiểm giả Ngân Cấp từ Vistelya tới, và thực lực khá cừ. Ông ấy đang thám hiểm Mê Cung Tân Nguyệt để tìm nguyên liệu cho một quý tộc và bảo tới tối mới về. Tôi nghĩ việc ông ấy để Mimir lại một mình là không phải, nhưng thời gian ông ấy ở lại Maalt có hạn, mà vị quý tộc kia lại đang giục gấp. Trước khi rời thị trấn, ông ấy đã gửi yêu cầu tìm kiếm Mimir ở hội. Tôi không nghĩ ông ấy vui vẻ gì khi làm vậy, nhưng tình thế phức tạp đành chịu. Dù sao Maalt cũng là một thị trấn thanh bình, nguy cơ Mimir gặp nguy hiểm là rất thấp, nên có lẽ điều đó đã ảnh hưởng tới quyết định của ông ấy. Dù gì thì giờ Mimir cũng đã ở đây, chúng tôi lại biết bố cô bé đang ở đâu, nên tối nay hai bố con họ sẽ gặp lại được nhau.
+Bố của Mimir là một mạo hiểm giả Ngân Cấp từ Vistelya tới, và thực lực khá cừ. Ông ấy đang thám hiểm Mê Cung Tân Nguyệt để tìm nguyên liệu cho một quý tộc và bảo tới tối mới về. Tôi nghĩ việc ông ấy để Mimir lại một mình là không phải, nhưng thời gian ông ấy ở lại Maalt có hạn, mà vị quý tộc kia lại đang giục gấp. Trước khi rời thị trấn, ông ấy đã gửi yêu cầu tìm kiếm Mimir ở Hội. Tôi không nghĩ ông ấy vui vẻ gì khi làm vậy, nhưng tình thế phức tạp đành chịu. Dù sao Maalt cũng là một thị trấn thanh bình, nguy cơ Mimir gặp nguy hiểm là rất thấp, nên có lẽ điều đó đã ảnh hưởng tới quyết định của ông ấy. Dù gì thì giờ Mimir cũng đã ở đây, chúng tôi lại biết bố cô bé đang ở đâu, nên tối nay hai bố con họ sẽ gặp lại được nhau.
 
-"May quá rồi," Mimir nói. "Vậy em chỉ cần đợi ở hội thôi ạ?"
+"May quá rồi," Mimir nói. "Vậy em chỉ cần đợi ở Hội thôi hả anh?"
 
 "Ừ."
 
@@ -140,17 +140,17 @@ Bố của Mimir là một mạo hiểm giả Ngân Cấp từ Vistelya tới, v
 
 Tôi biết bệnh của Sơ Lillian đã được chữa khỏi, nhưng chưa từng nghĩ sơ ấy lại khỏe khoắn đến mức đó. Mà thôi, sơ ấy có Thần Lực, nên nếu muốn thì sơ ấy hoàn toàn có thể làm được công việc của một mạo hiểm giả bình thường.
 
-"Vâng ạ!" Mimir nói. "Anh Rentt ơi, thế em nghĩ mình sẽ đợi ở đây ạ."
+"Vâng!" Mimir nói. "Anh Rentt ơi, thế em nghĩ mình sẽ đợi ở đây thôi."
 
-"Nếu vậy thì tôi sẽ báo lại với hội chuyện đó," tôi đáp.
+"Nếu vậy thì tôi sẽ báo lại với Hội chuyện đó," tôi đáp.
 
-"Em cảm ơn anh ạ. Hẹn gặp lại anh sau nhé."
+"Em cảm ơn anh. Hẹn gặp lại anh sau nhé."
 
-Tôi lại quay về hội. Đang sẵn thời gian rảnh, tôi tính sẽ tự mình đợi bố của Mimir.
+Tôi lại quay về Hội. Đang sẵn thời gian rảnh, tôi tính sẽ tự mình đợi bố của Mimir.
 
 ◆◇◆◇◆
 
-Trời đã tối, đến giờ các mạo hiểm giả quay về hội nộp báo cáo. Đa số họ đều báo cáo, nhận thưởng rồi ra về như thường lệ, nhưng tôi thấy một nhóm người hớt hải lao vào hội. Lorraine cũng ở trong nhóm đó, nên tôi lại càng tò mò. Dù vậy, tôi không muốn làm phiền cô ấy ngay, nên đành đợi cô ấy báo cáo xong xuôi và nhận ra tôi.
+Trời đã tối, đến giờ các mạo hiểm giả quay về Hội nộp báo cáo. Đa số họ đều báo cáo, nhận thưởng rồi ra về như thường lệ, nhưng tôi thấy một nhóm người hớt hải lao vào Hội. Lorraine cũng ở trong nhóm đó, nên tôi lại càng tò mò. Dù vậy, tôi không muốn làm phiền cô ấy ngay, nên đành đợi cô ấy báo cáo xong xuôi và nhận ra tôi.
 
 "Có chuyện gì xảy ra thế?" tôi hỏi Lorraine.
 
@@ -162,7 +162,7 @@ Hóa đá có thể do hơi thở quái vật, ma pháp hay lời nguyền gây 
 
 "Anh học rộng hiểu nhiều, giúp được khối việc ấy chứ. Đi thôi nhỉ?"
 
-Lorraine chạy lên trước, còn tôi bám theo sau. Tôi vốn muốn đợi bố của Mimir, nhưng việc này đang khẩn cấp. Tôi đã báo cho hội biết chỗ của Mimir rồi, nên đằng đó không có gì phải lo.
+Lorraine chạy lên trước, còn tôi bám theo sau. Tôi vốn muốn đợi bố của Mimir, nhưng việc này đang khẩn cấp. Tôi đã báo cho Hội biết chỗ của Mimir rồi, nên đằng đó không có gì phải lo.
 
 ◆◇◆◇◆
 
@@ -176,7 +176,7 @@ Lorraine chạy lên trước, còn tôi bám theo sau. Tôi vốn muốn đợi
 
 "Chắc vậy," Lorraine lẩm bẩm. "Lúc này mà đi kiếm ngoài tự nhiên hay mua ở tiệm thì khó lòng có ngay được, nên tôi thấy chẳng còn cách nào khác."
 
-Chúng tôi thống nhất ý kiến rồi cùng tới giáo hội. Cha Adela ra đón chúng tôi.
+Chúng tôi thống nhất ý kiến rồi cùng tới Giáo Hội Giả Kim. Cha Adela ra đón chúng tôi.
 
 "Hai người cứ tự nhiên lấy dùng," anh ấy nói. "Mà mạo hiểm giả gặp nạn là Fazira phải không? Anh ấy đã được đưa tới Viện Trị Liệu của chúng tôi rồi."
 
@@ -210,7 +210,7 @@ Chúng tôi chẳng còn việc gì ở đây nữa, nên Lorraine và tôi đ�
 
 "Chúng ta nên làm gì đây?"
 
-"Cứ đợi xem chuyện gì xảy ra một lát đã. Chắc anh ta tới đây để gặp Fazira đấy."
+"Cứ đợi xem chuyện gì xảy ra một lát đã. Chắc anh ấy tới đây để gặp Fazira đấy."
 
 "Vậy thì việc đó giao cho tôi là hợp nhất rồi."
 
@@ -264,11 +264,11 @@ Với nụ cười méo mó, Adela vung dao. Tôi áp sát lại gần rồi ch�
 
 "Nếu thực sự muốn giết anh ta, anh chỉ việc không đưa chỗ nguyên liệu đó cho chúng tôi là xong. Nhưng anh vẫn đưa. Có phải vì giờ anh đã là một tư tế chân chính rồi không?"
 
-Đến tận lúc này Adela mới nhận ra sự mâu thuẫn ấy. Nước mắt bắt đầu tuôn rơi từ mắt anh ấy. "Đúng thật, lúc đó tôi chẳng hề mảy may đắn đo. Chỉ đơn giản đó là việc tôi phải làm thôi. Tôi xin lỗi, Rentt."
+Đến tận lúc này Adela mới nhận ra sự mâu thuẫn ấy. Nước mắt bắt đầu tuôn rơi từ mắt anh ấy. "Đúng thật, lúc làm việc đó tôi chẳng hề mảy may đắn đo. Chỉ đơn giản đó là việc tôi phải làm thôi. Tôi xin lỗi, Rentt."
 
 "Tôi mừng vì anh đã biết hối hận về việc mình làm," tôi nói.
 
-"Tôi cảm thấy như thể mình vốn dĩ chẳng bao giờ làm nổi chuyện đó. Tôi phải gánh chịu hậu quả cho việc này."
+"Tôi cảm thấy ngay từ đầu mình đã chẳng thể nào xuống tay nổi rồi. Tôi phải gánh chịu hậu quả cho việc này."
 
 "Không cần đâu. Cậu cũng có làm gì tôi đâu nào," Fazira lên tiếng. Tôi đã nhận thấy ông ấy tỉnh lại từ một lúc trước, nhưng vì ông ấy không có phản ứng gì nên tôi tưởng ông ấy vẫn còn mơ màng ngái ngủ. Hóa ra ông ấy hoàn toàn tỉnh táo.
 

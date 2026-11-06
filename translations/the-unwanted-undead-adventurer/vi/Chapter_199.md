@@ -90,7 +90,7 @@ Tôi chỉ đùa chút về chuyện miếng mồi với chuột bạch thôi. C
 
 ◆◇◆◇◆
 
-Tôi nhận rõ Ma Lực của mình đã tăng lên đáng kể. Dù vậy, ngoài kia vẫn còn khối người nhiều Ma Lực hơn tôi xa. Nhưng so với thời còn sống, sức mạnh của tôi bây giờ có khi bằng cỡ một trăm năm mươi Rentt gộp lại. À thì, đấy cũng chỉ là tôi đoán mò thôi.
+Tôi nhận rõ Ma Lực của mình đã tăng lên đáng kể. Dù vậy, ngoài kia vẫn còn khối người nhiều Ma Lực hơn tôi xa. Nhưng so với thời còn sống, Ma Lực của tôi bây giờ có khi bằng cỡ một trăm năm mươi Rentt gộp lại. À thì, đấy cũng chỉ là tôi đoán mò thôi.
 
 Xét về cấp bậc, chắc tôi ngang ngửa một mạo hiểm giả Kim Cấp tầm trung. Nhưng tôi vẫn chưa giỏi ma pháp cho lắm, nên nếu đụng độ thực chiến, tôi chắc mẩm mình sẽ thua một ma pháp sư Đồng Cấp. Tính tổng thể năng lực thì tôi thấy thế cũng ổn rồi.
 
@@ -120,11 +120,11 @@ Lorraine suy nghĩ một lát rồi gật đầu: "Điều đó hoàn toàn có 
 
 "Tôi cứ ngỡ Rentt và Rina là những trường hợp hiếm hoi cơ đấy," Lorraine nhận xét.
 
-"Hóa ra vẫn có những con người biến thành Ma Cà Rồng sao?"
+"Hóa ra vẫn có những con người biến thành Ma Cà Rồng à?"
 
 "Đúng như tiểu thư của tôi từng nói, đôi khi Ma Cà Rồng sẽ biến đổi một con người để làm bạn đời. Tuy nhiên, theo tôi biết thì chuyện đó không hề phổ biến. Ma Cà Rồng thời nay phần lớn đều chọn bạn đời trong chính đồng loại. Cũng có những kẻ qua lại với con người chỉ để mua vui, nhưng ngay cả trong những trường hợp đó thì việc họ biến đổi đối phương cũng rất hiếm gặp."
 
-Nói vậy nghĩa là Ma Cà Rồng có thể sinh con đẻ cái với Ma Cà Rồng khác. Tôi chẳng biết gì về chuyện Ma Cà Rồng tạo ra bạn đời, nhưng thi thoảng vẫn nghe phong phanh mấy tin đồn về kiểu 'trò tiêu khiển' ấy. Đa phần những lời đồn về những đứa trẻ mang nửa dòng máu Ma Cà Rồng, nửa dòng máu con người — Dampir — đều là bịa đặt trắng trợn hoặc hiểu lầm.
+Nói vậy nghĩa là Ma Cà Rồng có thể sinh con đẻ cái với Ma Cà Rồng khác. Tôi chẳng biết gì về chuyện Ma Cà Rồng tạo ra bạn đời, nhưng thi thoảng vẫn nghe phong phanh mấy tin đồn về kiểu "trò tiêu khiển" ấy. Đa phần những lời đồn về những đứa trẻ mang nửa dòng máu Ma Cà Rồng, nửa dòng máu con người — Dampir — đều là bịa đặt trắng trợn hoặc hiểu lầm.
 
 Ở các ngôi làng hẻo lánh, thi thoảng có người bị gán nhầm là Dampir rồi bị xa lánh. Nhưng gần như lần nào sự thật cũng cho thấy họ không phải Dampir, mà chỉ là người sở hữu ma nhãn đặc biệt không kiểm soát nổi, hoặc có quá nhiều Ma Lực nên vô thức phát tán ma pháp ra xung quanh. Dampir thực thụ có lẽ cũng hiếm chẳng kém gì mạo hiểm giả Mithril Cấp. Tôi chưa từng gặp ai như vậy. Mà trên đời này vốn cũng có vô số quái vật tôi chưa từng tận mắt thấy bao giờ.
 

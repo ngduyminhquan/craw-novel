@@ -16,7 +16,7 @@ Thấy tôi ngó nghiêng tìm người, Isaac hẳn đã đoán ra tôi đang t
 
 Thường thì Ma Cà Rồng đâu có già đi. Nghĩa là chỉ cần ăn uống đầy đủ, cô bé sẽ không phải chịu cảnh suy yếu vì tuổi tác.
 
-"Ngài còn nhớ chuyện chúng tôi từng nhờ ngài thu thập Hoa Long Huyết chứ? Loài hoa đó dùng để thanh tẩy oán niệm, rất hữu ích trong việc kìm hãm sức mạnh của Ma Cà Rồng. Có điều đó là khi thu thập một lượng vừa đủ thôi. Dùng quá nhiều sẽ khiến Ma Cà Rồng suy yếu. Suốt nhiều năm qua, Tiểu thư Laura vẫn luôn dùng máu Hoa Long Huyết nguyên chất chiết từ những bông Hoa Long Huyết."
+"Ngài còn nhớ chuyện chúng tôi từng nhờ ngài thu thập Hoa Long Huyết chứ? Loài hoa đó dùng để thanh tẩy oán niệm, rất hữu ích trong việc kìm hãm sức mạnh của Ma Cà Rồng. Có điều đó là khi thu thập một lượng vừa đủ thôi. Dùng quá nhiều sẽ khiến Ma Cà Rồng suy yếu. Suốt nhiều năm qua, Tiểu thư Laura vẫn luôn dùng Long Hoa Huyết nguyên chất chiết từ những bông Hoa Long Huyết."
 
 "Sao cô bé lại làm thế chứ?" Nếu lời Isaac nói là thật thì hành động đó chẳng khác nào tự sát.
 
@@ -42,7 +42,7 @@ Tiếc là giờ tôi chẳng thể nói chuyện với Laura được nữa. Í
 
 "Tôi có thể trả lời ngài đôi phần, nhưng trước đây tôi từng hiểu sai những thông tin này. Tôi tin Shumini cũng vậy. Nếu giờ tôi cố giải thích, tôi nghĩ mình sẽ mắc phải sai sót. Tôi khuyên ngài nên tự mình điều tra và tự rút ra kết luận. Tôi hình dung Tiểu thư Laura cũng sẽ bảo ngài như vậy."
 
-Rốt cuộc Isaac vẫn không trả lời tôi, nhưng tôi hiểu ý anh ấy. Nếu chuyện này bắt nguồn từ thời cổ đại thì theo năm tháng, thông tin tự nhiên sẽ bị thất truyền hoặc sai lệch đi. Tôi phải tự mình thu thập những truyền thuyết đó và tự giải mã lấy. Nhưng ngay cả cách hiểu của riêng tôi cũng có thể có sai sót. Chắc Isaac muốn nói rằng bản thân anh ấy từng trải qua chuyện này. Ý anh ấy muốn nhắc là tôi có thể đi vào vết xe đổ của anh ấy. Ít ra thì tôi rút ra được như vậy. Anh ấy muốn tôi tự tìm thông tin đó và tự suy ngẫm lấy. Nếu vậy thì đây không phải là chuyện tôi có thể hỏi Isaac rồi.
+Rốt cuộc Isaac vẫn không trả lời tôi, nhưng tôi hiểu ý anh ấy. Nếu chuyện này bắt nguồn từ thời cổ đại thì theo năm tháng, thông tin tự nhiên sẽ bị thất truyền hoặc tam sao thất bản. Tôi phải tự mình thu thập những truyền thuyết đó và tự lý giải lấy. Nhưng ngay cả cách hiểu của riêng tôi cũng có thể có sai sót. Chắc Isaac muốn nói rằng bản thân anh ấy từng trải qua chuyện này. Ý anh ấy là tôi có thể đi vào vết xe đổ của anh ấy. Ít ra thì tôi rút ra được như vậy. Anh ấy muốn tôi tự tìm thông tin đó và tự suy ngẫm lấy. Nếu vậy thì đây không phải là chuyện tôi có thể hỏi Isaac rồi.
 
 Việc cần làm đã rõ ràng, tôi chỉ việc lên đường bắt đầu chuyến hành trình đó. Đền thờ và di tích có ở khắp nơi trên thế giới. Có điều xưa nay tôi chỉ làm mạo hiểm giả quanh quẩn ở Maalt, mà những chuyến đi đó đâu thể tính là hành trình đường dài. Mạo hiểm giả Đồng Cấp đi một mình chẳng bao giờ nhận được nhiệm vụ hộ tống, mà sang các vùng khác tôi cũng chẳng có mấy cơ hội kiếm tiền. Ngay cả chi phí đi lại thôi cũng đã nặng gánh lắm rồi. Nhưng giờ tôi đã đủ mạnh để nhận nhiệm vụ hộ tống hoặc nhận ủy thác từ các chi hội trên khắp thế giới để vừa đi vừa kiếm tiền.
 
@@ -66,7 +66,7 @@ Chắc chỉ riêng sức mạnh thể chất thôi thì chưa đủ để đán
 
 "Vậy Rina và tôi không phải Ma Cà Rồng ư? Nhưng tôi vẫn uống máu và thèm khát con người mà. Cô không thế sao?" tôi quay sang hỏi Rina.
 
-"Con người trông ngon mắt lắm anh!" cô ấy đáp.
+"Con người trông ngon lắm!" cô ấy đáp.
 
 ![](images/ch197-01.webp)
 
