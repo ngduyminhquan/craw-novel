@@ -2,54 +2,54 @@
 
 "Hừm..."
 
-Rina—đệ tử của Rentt và Lorraine—đang chau mày khẽ rên lên đầy tập trung, dồn toàn bộ sự chú ý vào nhiệm vụ trước mắt. Cô hiện đang có mặt tại khoảng sân trong của dinh thự Gia tộc Latuule, nằm ở một góc thành phố Maalt. Đứng cách đó không xa, Alize, cô đệ tử còn lại của Rentt và Lorraine, đang dõi theo Rina khi cô gái tập hợp Ma Lực vào cây đũa phép cầm trên tay. Khi sự tập trung đã đạt tới đỉnh điểm, Rina mở mắt và hô vang câu chú.
+Rina—đệ tử của Rentt và Lorraine—đang chau mày, khẽ ậm ừ dồn hết tâm trí vào việc trước mắt. Lúc này cô đang ở khoảng sân trong của dinh thự Gia tộc Latuule, nằm tại một góc thành phố Maalt. Đứng gần đó, Alize—cô đệ tử còn lại của Rentt và Lorraine—chăm chú dõi theo Rina đang tụ Ma Lực vào cây đũa phép trên tay. Đến khi sự tập trung đạt tới đỉnh điểm, Rina mở bừng mắt, hô vang câu chú.
 
 "Gie Vieros!"
 
-Ngay sau đó, thứ vật chất màu nâu trông như đất cát tụ lại giữa khoảng không nơi đầu cây đũa phép, dần dà tạo thành một mũi tên lơ lửng giữa không trung. Rồi Rina làm động tác như thể đẩy nó về phía trước. Mũi tên xé gió lao đi nhanh gần như một mũi tên thông thường, bay thẳng về phía tấm bia gồm nhiều vòng tròn đồng tâm và cắm trúng vòng ngoài cùng.
+Ngay sau đó, một luồng vật chất màu nâu trông như đất cát tụ lại giữa khoảng không ngay đầu đũa phép, từ từ định hình thành một mũi tên lơ lửng giữa không trung. Rina liền làm động tác đẩy tay ra phía trước. Mũi tên vút qua không trung nhanh gần bằng một mũi tên thường, lao thẳng tới tấm bia nhiều vòng tròn đồng tâm rồi găm trúng vòng ngoài cùng.
 
 ![](images/ch225-01.webp)
 
-"Oa," Alize lẩm bẩm sau khi mũi tên của Rina cắm vào bia.
+"Oa," Alize khẽ thốt lên khi mũi tên của Rina cắm trúng bia.
 
-Isaac, người đang đứng bên cạnh Alize, gật đầu tán thưởng. "Xét đến việc đây là lần đầu tiên cô thử nghiệm ma pháp rút ngắn, cô làm vậy là rất tốt rồi. Nếu muốn bắt bẻ thêm đôi chút, tôi chỉ mong cô bắn trúng gần tâm hơn một chút thôi."
+Isaac đứng cạnh Alize, khẽ gật đầu tán thành. "Xét việc đây là lần đầu cô thử dùng ma pháp rút ngắn, làm được như vậy là rất tốt rồi. Nếu có muốn khắt khe đôi chút, thì tôi mong cô bắn trúng gần tâm hơn một tí."
 
-Rina và Alize đang trong quá trình luyện tập ma thuật. Lorraine đã giao cho hai người một danh sách các việc cần làm trong thời gian cô và Rentt vắng nhà, và trong danh sách đó có lời nhắn rằng nếu muốn luyện tập ma pháp tấn công thì hãy nhờ Isaac hướng dẫn. Cả hai đã làm theo chỉ dẫn của người thầy và đến dinh thự Latuule để thỉnh giáo Isaac.
+Rina và Alize lúc này đang luyện tập ma thuật. Trước khi đi xa cùng Rentt, Lorraine đã giao cho hai người một danh sách những việc cần làm, trong đó dặn rằng nếu muốn luyện ma pháp tấn công thì hãy nhờ Isaac chỉ dẫn. Cả hai liền làm theo lời dặn của sư phụ, tìm đến dinh thự Latuule để nhờ Isaac kèm cặp.
 
-Khá bất ngờ là Rina và Alize đã có thể bước vào dinh thự mà không gặp phải bất kỳ trở ngại nào. Thông thường, người ta phải vượt qua một mê cung hàng rào cây mà ngay cả Rentt cũng phải chật vật mới lần ra đường, nhưng cả hai lại được phép bỏ qua thử thách đó. Điều đó cũng đồng nghĩa với việc họ không nhận được phần thưởng dành cho người vượt qua mê cung—một món ma cụ tùy chọn—nhưng vì cả hai đều chẳng hề hay biết về chuyện đó, họ đương nhiên sẽ không phàn nàn gì rồi.
+Có phần bất ngờ là Rina và Alize vào được dinh thự mà chẳng gặp chút trở ngại nào. Bình thường muốn vào đây phải vượt qua một mê cung hàng rào cây mà ngay cả Rentt cũng trầy trật mới tìm được đường, nhưng hai cô gái lại được đặc cách bỏ qua thử thách ấy. Điều đó đồng nghĩa họ không nhận được phần thưởng cho người vượt qua mê cung—một món ma cụ tùy chọn—nhưng vì cả hai đều chẳng hay biết gì nên cũng chẳng ai bận lòng phàn nàn.
 
-Hơn nữa, xét việc Alize là một đứa trẻ đến từ cô nhi viện, việc để cô bé ở đây một mình giữa bầy Ma Cà Rồng và Undead lẽ ra có thể là một ý tồi, nhưng may mắn thay con bé hoàn toàn chẳng hay biết gì về chuyện này; cô bé không nhận ra bất kỳ điều gì bất thường khi gặp Isaac cùng những người hầu khác làm việc trong dinh thự. Dẫu vậy, đó cũng là lẽ tự nhiên, nếu xét đến việc lũ Ma Cà Rồng nơi đây đã sống nhiều năm, nhiều thập kỷ, và thậm chí có thể là hàng thế kỷ tại Maalt mà chưa từng bị bất kỳ ai phát hiện ra thân phận thực sự. Ngay cả khi được dẫn vào tận trung tâm dinh thự, người ta cũng phải sở hữu con mắt quan sát đặc biệt tinh tường—điều mà Alize chắc chắn không có—mới mong nhìn thấu được lớp vỏ bọc ngụy trang của bọn họ.
+Thêm vào đó, với một đứa trẻ xuất thân từ cô nhi viện như Alize, việc đến đây một mình giữa bầy Ma Cà Rồng và Undead đáng lẽ là điều chẳng nên chút nào. May mắn thay, cô bé hoàn toàn không hay biết điều đó; cô bé chẳng nhận thấy điều gì bất thường khi tiếp xúc với Isaac cùng những người hầu khác trong dinh thự. Nhưng âu cũng là lẽ tự nhiên, bởi những Ma Cà Rồng nơi đây đã sống ở Maalt suốt nhiều năm, nhiều thập kỷ, thậm chí cả hàng thế kỷ mà chưa từng bị ai phát hiện thân phận thật. Dẫu có được dẫn vào tận sâu bên trong dinh thự, cũng phải là người có con mắt cực kỳ tinh tường—điều mà Alize hẳn nhiên không có—mới mong nhìn thấu được lớp ngụy trang của họ.
 
-Dưới góc nhìn của Alize, cô bé chỉ đơn thuần bước vào một cơ ngơi tuyệt đẹp với vườn hoa hồng lộng lẫy cùng một đội ngũ người hầu thanh lịch và tao nhã. Dẫu các bà mẹ trên thế gian có thể phản đối việc một đứa trẻ mồ côi ở cùng một chỗ với Ma Cà Rồng, nơi đây lại chẳng có người mẹ nào hiện diện, và vì thế cũng chẳng có ai đứng ra phản đối điều đó.
+Trong mắt Alize, cô bé chỉ đơn giản là đang bước vào một dinh cơ tuyệt đẹp có vườn hoa hồng rực rỡ cùng những người hầu thanh lịch, nhã nhặn. Dẫu những người làm mẹ trên thế gian hẳn sẽ kịch liệt phản đối chuyện để một đứa trẻ mồ côi quẩn quanh bên cạnh Ma Cà Rồng, thì ở đây lại chẳng có người mẹ nào, thành thử cũng không có ai đứng ra can ngăn.
 
-Người "đàng hoàng" duy nhất biết rõ sự thật là Rina, mà bản thân cô gái cũng là một bán Ma Cà Rồng, chẳng cách xa là bao so với những cư dân Undead của dinh thự. Alize, về cơ bản, chẳng khác nào một miếng mồi ngon béo bở—một món tráng miệng để lũ Ma Cà Rồng nhâm nhi bất cứ lúc nào—thế nhưng trên thực tế sẽ chẳng có ai ở đây đi hút máu cô bé cả.
+Người "tốt" duy nhất biết rõ chân tướng là Rina, nhưng bản thân cô cũng là một bán Ma Cà Rồng, chẳng khác là bao so với những cư dân Undead nơi đây. Alize về cơ bản chẳng khác nào con mồi không chút phòng bị—món ngon để đám Ma Cà Rồng nhẩn nha nhấm nháp bất cứ lúc nào—có điều trên thực tế sẽ chẳng ai ở đây lại đi hút máu cô bé cả.
 
-"Anh Isaac, em cũng có thể làm được như thế không ạ?" Alize hỏi.
+"Anh Isaac, em có làm được như thế không ạ?" Alize hỏi.
 
-Isaac nở nụ cười rợn người nhưng đầy tao nhã—thứ có thể đã làm lộ tẩy thân phận Ma Cà Rồng của anh ta nếu ở trước những kẻ cảnh giác hơn—rồi đáp, "Sau này thì có thể. Nhưng ngay lúc này thì khá là khó đấy."
+Isaac nở nụ cười rợn người nhưng đầy tao nhã—nụ cười có thể đã làm lộ tẩy thân phận Ma Cà Rồng nếu đối diện với những kẻ cảnh giác hơn—rồi đáp, "Sau này thì được. Nhưng ngay bây giờ thì e là hơi khó đấy."
 
-"Tại sao lại thế ạ?"
+"Sao lại thế ạ?"
 
-"Những gì cô Rina vừa thi triển không phải là ma pháp ngâm xướng thông thường, mà là ma pháp rút ngắn. Nhìn chung, ma pháp được chia thành ma pháp ngâm xướng, ma pháp rút ngắn và ma pháp vô ngôn, nhưng hai loại sau độ khó sẽ tăng dần lên. Cô Alize, từ trước đến nay em mới chỉ học ma pháp ngâm xướng thôi, phải không?"
+"Thứ cô Rina vừa dùng không phải ma pháp ngâm xướng thông thường, mà là ma pháp rút ngắn. Nói chung, ma pháp được chia làm ma pháp ngâm xướng, ma pháp rút ngắn và ma pháp vô ngôn, càng về sau thì độ khó lại càng tăng. Cô Alize, từ trước tới giờ em mới chỉ học ma pháp ngâm xướng thôi, phải không?"
 
-"Vâng ạ. Có phải là do em không có tài năng làm ma pháp sư không ạ?" Alize lẩm bẩm với vẻ lo âu hiện rõ trên khuôn mặt.
+"Vâng ạ. Có phải tại em không có khiếu làm pháp sư không ạ?" Alize khẽ hỏi, vẻ mặt đầy âu lo.
 
-Isaac lắc đầu và mỉm cười trấn an cô bé.
+Isaac lắc đầu, mỉm cười trấn an cô bé.
 
-"Không, hoàn toàn không phải vậy đâu. Vấn đề nằm ở chỗ nếu em không cẩn thận và chú ý tới lời ngâm xướng khi mới bắt đầu học ma thuật, về sau em sẽ hình thành vài thói quen kỳ quặc của một người thi triển ma pháp. Nói cách khác, ma pháp ngâm xướng cũng tương đương như các chiêu thức bài bản trong kiếm thuật. Phong cách của một kiếm sĩ phụ thuộc rất lớn vào việc họ bắt đầu bằng cách thuần thục các chiêu thức căn bản đó hay bỏ qua chúng hoàn toàn. Cách trước sẽ tạo nên một kiếm sĩ thuộc một môn phái nhất định, trong khi cách sau tạo ra một võ sĩ hoàn toàn tự mày mò học hỏi. Không hẳn là con đường nào cũng luôn tạo ra một chiến binh mạnh mẽ hơn, nhưng cách trước rõ ràng là phương pháp học tập hiệu quả hơn nhiều, chẳng phải sao?"
+"Không, hoàn toàn không phải vậy đâu. Vấn đề ở đây là nếu lúc mới học ma thuật mà không cẩn thận chú ý đến câu ngâm xướng, sau này em sẽ dễ nhiễm những thói quen kỳ lạ khi thi triển ma pháp. Nói cách khác, ma pháp ngâm xướng cũng giống như những thế đánh căn bản trong kiếm thuật vậy. Phong cách của một kiếm sĩ phụ thuộc rất nhiều vào chuyện họ khởi đầu bằng việc thuần thục những thế đánh ấy hay bỏ qua chúng hoàn toàn. Đi theo hướng trước sẽ tạo nên một kiếm sĩ có bài bản môn phái, còn đi theo hướng sau sẽ cho ra một người hoàn toàn tự mày mò. Không phải cứ theo con đường nào thì ắt sẽ thành chiến binh mạnh hơn, nhưng hướng đi trước hiển nhiên là cách học hiệu quả hơn, đúng không nào?"
 
-Alize gật đầu, lời miêu tả đó gợi lại đôi điều trong trí nhớ của cô bé.
+Alize gật đầu, lời giải thích ấy gợi cho cô bé nhớ ra một chuyện.
 
-"Nhắc mới nhớ, anh Rentt điều khiển Ma Lực giỏi lắm, nhưng Học Sĩ Lorraine lại bảo chuyện đó có điểm gì đó quái dị."
+"Nhắc mới nhớ, anh Rentt điều khiển Ma Lực giỏi lắm, nhưng Học Sĩ Lorraine lại bảo cách anh ấy làm có điểm gì đó rất kỳ quái."
 
-"He he. Tôi hiểu ý cô ấy rồi. Rentt giống như một chiến binh tự học mà tôi vừa đề cập vậy. Dẫu thế, Rentt có dự định học lại từ những điều cơ bản nhất, nên vừa giữ được những lợi thế từ phong cách tự học của mình, anh ấy cũng sẽ đạt được sự ổn định nhờ việc nắm vững chúng. Anh ấy hiểu rõ giá trị của việc thuần thục những nền tảng cơ bản."
+"Ha, tôi hiểu ý cô ấy rồi. Rentt giống hệt như trường hợp tự mày mò mà tôi vừa nói tới. Có điều, Rentt đang định học lại từ căn bản, nên vừa giữ được thế mạnh từ lối tự học của mình, anh ấy lại vừa có thêm sự bài bản, vững vàng. Anh ấy hiểu rất rõ giá trị của việc nắm chắc những điều cốt lõi."
 
-"Đúng thế thật ạ. Anh ấy cũng đang học cùng với em từ Học Sĩ Lorraine mà."
+"Đúng thế thật ạ. Anh ấy cũng đang cùng em theo học Học Sĩ Lorraine mà."
 
-"Giờ thì, đối với ma pháp mà cô Rina vừa sử dụng, cô ấy vốn đã thuần thục ma pháp ngâm xướng rồi. Cô ấy đang thử sức với ma pháp rút ngắn như một phần nỗ lực bước sang giai đoạn tiếp theo trong quá trình huấn luyện. Vì cô ấy có vẻ thấy ma pháp thổ hệ đặc biệt khó khăn, nên Gie Vieros cũng rất hữu ích để luyện tập loại ma pháp đó. Còn với em, cô Alize, em vẫn còn nhiều thời gian. Cứ từ từ và trước hết hãy tập trung hoàn thiện ma pháp ngâm xướng của mình đã. Tôi sẽ ở đây để đảm bảo hai người không học phải những thói xấu từ quá trình luyện tập, nên đừng lo lắng về việc phạm sai lầm trong lúc rèn luyện nhé."
+"Còn về ma pháp cô Rina vừa dùng, cô ấy vốn đã thuần thục ma pháp ngâm xướng rồi. Cô ấy đang tập ma pháp rút ngắn để tiến lên bước tiếp theo trong quá trình rèn luyện. Do cô ấy có vẻ thấy ma pháp thổ hệ đặc biệt khó khăn, nên Gie Vieros cũng rất thích hợp để luyện tập hệ này. Còn cô Alize, em vẫn còn nhiều thời gian. Cứ thong thả, trước hết hãy tập trung hoàn thiện ma pháp ngâm xướng đã. Tôi sẽ túc trực ở đây để trông chừng, đảm bảo hai người không nhiễm phải thói quen xấu trong lúc luyện tập, nên đừng lo chuyện mắc lỗi nhé."
 
 "Vâng ạ!"
 
-Dù bề ngoài trông như thể Isaac đang dạy hai người họ cách sử dụng ma thuật, tất cả những gì anh thực sự làm chỉ là trông chừng để đảm bảo không ai làm điều gì quá nguy hiểm, đồng thời thỉnh thoảng đưa ra vài lời khuyên nhỏ. Cả hai vẫn đang học theo đúng những chỉ dẫn của Lorraine, nên xét về mặt lý thuyết thực tế và nền tảng căn bản thì cô vẫn là người thầy của họ.
+Dù nhìn bề ngoài như thể Isaac đang chỉ dạy ma thuật cho hai cô gái, thực chất anh chỉ đứng trông chừng để họ không làm điều gì quá nguy hiểm, tiện thể đưa ra vài lời chỉ bảo nho nhỏ. Cả hai vẫn đang luyện tập theo đúng những chỉ dẫn của Lorraine, nên xét về mặt lý thuyết lẫn nền tảng cốt lõi, cô mới là người thầy thực sự của họ.
 
-Cứ như thế, hai người họ tiếp tục buổi rèn luyện...
+Cứ như thế, hai cô gái lại tiếp tục buổi luyện tập...
