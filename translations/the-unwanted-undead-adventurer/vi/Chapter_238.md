@@ -2,7 +2,7 @@
 
 "Chủ quán trọ đâu rồi nhỉ?" tôi hỏi.
 
-Chúng tôi không muốn chuốc lấy nghi ngờ vô cớ nếu cứ thế rời quán trọ mà không nói tiếng nào, nên tôi quyết định đi tìm ông chủ quán. Mạo hiểm giả từ thành phố đến trọ ở những ngôi làng hẻo lánh thế này thường hay nhậu nhẹt quá chén hoặc nửa đêm mò đi giở trò với gái làng, chuyện đó chẳng hiếm gì. Tôi chỉ muốn chào ông ấy một tiếng để khỏi bị đánh đồng với phường du côn như vậy.
+Chúng tôi không muốn chuốc lấy nghi ngờ vô cớ nếu cứ thế rời quán trọ mà không nói tiếng nào, nên tôi quyết định đi tìm ông chủ quán. Mạo hiểm giả từ thành phố đến trọ ở những ngôi làng hẻo lánh thế này thường hay nhậu nhẹt quá chén hoặc nửa đêm mò đi giở trò với gái làng, chuyện đó chẳng hiếm gì. Tôi chỉ muốn báo với ông ấy một tiếng để khỏi bị đánh đồng với phường du côn như vậy.
 
 "Chẳng thấy đâu cả," tôi lẩm bẩm.
 
@@ -22,7 +22,7 @@ Tôi gật đầu, nhưng nói rõ: "Đừng giết ông ta đấy."
 
 Chủ quán trọ nhảy bổ qua quầy, vung cao cây rìu chắc dùng để bổ củi rồi lao thẳng về phía chúng tôi hết tốc lực. Động tác của ông ta quái dị khác hẳn người thường, rất khó đoán. Chúng tôi có vài cơ hội để phản công, nhưng tôi ngần ngại vung kiếm vì chỉ muốn khống chế ông ta mà ít gây thương tích nhất có thể.
 
-Augurey dùng kiếm đỡ lấy cây rìu. "Lực tay mạnh hơn tôi tưởng đấy, nhưng vẫn chẳng bõ bèn gì so với mạo hiểm giả đâu!" Anh ấy gạt đòn rồi áp sát chủ quán, thúc mạnh chuôi kiếm vào xương ức ông ta. Chủ quán trọ rên lên một tiếng, đầu ngửa ra sau rồi ngã gục xuống sàn. Kiểm tra thấy ông ta đã ngất lịm, Augurey mới nói: "Bất ngờ nho nhỏ đáng yêu ghê."
+Augurey dùng kiếm đỡ lấy cây rìu. "Mạnh hơn tôi tưởng đấy, nhưng vẫn chẳng bõ bèn gì so với mạo hiểm giả đâu!" Anh ấy gạt đòn rồi áp sát chủ quán, thúc mạnh chuôi kiếm vào xương ức ông ta. Chủ quán trọ rên lên một tiếng, đầu ngửa ra sau rồi đổ gục xuống sàn. Augurey kiểm tra chắc chắn ông ta đã ngất lịm rồi mới nói: "Bất ngờ nho nhỏ đáng yêu ghê."
 
 "Ừ. Nhưng đâu phải không lường trước được."
 
@@ -42,13 +42,13 @@ Vừa bước ra khỏi quán trọ, đập vào mắt chúng tôi là cảnh t�
 
 Đến khi chỉ còn một người trụ lại, anh ta bỗng gầm lên, cầm dao toan đâm thẳng vào cổ mình.
 
-"Cái—? Dừng lại!" Tôi vung tay đánh văng con dao rồi đánh ngất cậu ta.
+"Cái—? Dừng lại!" Tôi vung tay đánh văng con dao rồi đánh ngất anh ta.
 
 Sợ những người kia cũng làm trò tương tự, Augurey và tôi phải kiểm tra lại một lượt, chắc chắn ai nấy đều đã ngất lịm mới dám thở phào nhẹ nhõm.
 
 "Suýt nữa thì nguy. Không ngờ anh ta lại định tự sát đấy," Augurey nói.
 
-Tôi lắc đầu. "Nếu còn tự chủ được thì anh ta đâu đời nào làm thế. Cô bạn 'ăn thịt đàn ông' của chúng ta đi hơi quá trớn rồi đấy. Chỉ cần một người trong số họ mất mạng thôi là bọn mình gặp rắc rối to ngay."
+Tôi lắc đầu. "Nếu còn tự chủ được thì anh ta đâu đời nào làm thế. Cô bạn ăn thịt đàn ông của chúng ta đi hơi quá trớn rồi đấy. Chỉ cần một người trong số họ mất mạng thôi là chúng ta gặp rắc rối to ngay."
 
 Rắc rối cỡ nào ư? Có lẽ không nghiêm trọng đến mức như tôi vừa nói. Bình thường thì dân làng chẳng có chút quyền hạn gì trước mạo hiểm giả, nhưng đụng chuyện thế này, chính quyền có thể vào cuộc điều tra rồi bắt giữ chúng tôi. Dĩ nhiên chúng tôi có thể thanh minh đến rát cả cổ rằng mình bị tấn công vô cớ, nhưng mà...
 
@@ -72,7 +72,7 @@ Chợt Augurey hít hà vào không khí. "A, tôi nhớ ra rồi! Đợi ở đ
 
 Anh ấy chạy biến đi, chẳng để tôi kịp mở miệng hỏi xem anh ấy đang nói chuyện gì. Mạo hiểm giả Ngân Cấp đúng là chạy nhanh thật, dù công việc Ngân Cấp đâu phải chỉ mỗi thi chạy đua. Đôi chân nhanh nhẹn là yếu tố sống còn để thoát thân khi đụng phải quái vật vượt cấp, nên mạo hiểm giả hạng cao thường ai cũng chạy rất nhanh.
 
-Dù sao thì Augurey đã dặn đợi, tôi cứ đứng đợi thôi. Cứ thế đứng đực ra đó... đeo mặt nạ Khô Lâu, khoác thêm chiếc áo choàng tối màu có mũ trùm. Đố ai tìm được bộ dạng nào bắt mắt và lộ liễu hơn thế này nữa đấy.
+Dù sao thì Augurey đã dặn đợi, tôi cứ đứng đợi thôi. Cứ thế đứng đực ra đó... đeo mặt nạ Khô Lâu, khoác thêm chiếc áo choàng tối màu có mũ trùm. Còn bộ dạng nào trông khả nghi và lộ liễu hơn thế này nữa chứ.
 
 Một lúc sau, Augurey quay lại. "Cảm ơn đã đợi nhé, Rentt!"
 
@@ -88,7 +88,7 @@ Khỏi phải nói, nghe câu trả lời đó, tôi chỉ biết há hốc mồ
 
 "Ả là Siren á?" Lorraine hỏi ngay khi chúng tôi vừa kể xong chuyện ra ngoài ban nãy.
 
-Tôi chẳng thể trách Lorraine được. Ai nấy đều sẽ hoang mang không hiểu sao mọi chuyện lại đi đến bước này. Ngay cả bản thân tôi vẫn đang thắc mắc làm thế nào Augurey nhận ra ả là thủ phạm. Nếu thông đồng với Goblin thì anh ấy nhận ra ả cũng dễ hiểu, nhưng nếu thế thì chẳng việc gì phải vác một Siren bất tỉnh về đây cho chúng tôi cả. Làm vậy thì hóa ra Augurey phải giăng một kế hoạch hai mang kéo dài suốt nhiều năm trời. Trừ phi bằng cách nào đó anh ấy biết trước được tôi sẽ ra nông nỗi này, bằng không hồi đó hơi đâu lừa tôi làm bạn làm gì cho mất công. Tôi có thể tình cờ xuất hiện sai nơi sai lúc, nhưng khả năng đó thấp lắm. Nói tóm lại, chẳng hiểu bằng cách nào mà Augurey đã nhận diện và bắt được Siren.
+Tôi chẳng thể trách Lorraine được. Ai ở trong hoàn cảnh này cũng sẽ hoang mang không hiểu sao mọi chuyện lại đi đến bước đó. Ngay cả bản thân tôi vẫn đang thắc mắc làm thế nào Augurey nhận ra ả là thủ phạm. Nếu thông đồng với Goblin thì anh ấy nhận ra ả cũng dễ hiểu, nhưng nếu thế thì chẳng việc gì phải vác Siren đang bất tỉnh về đây cho chúng tôi cả. Làm vậy thì hóa ra Augurey phải giăng một kế hoạch hai mang kéo dài suốt nhiều năm trời. Trừ phi bằng cách nào đó anh ấy biết trước được tôi sẽ ra nông nỗi này, bằng không hồi đó hơi đâu lừa tôi làm bạn làm gì cho mất công. Tôi có thể tình cờ xuất hiện sai nơi sai lúc, nhưng khả năng đó thấp lắm. Nói tóm lại, chẳng hiểu bằng cách nào mà Augurey đã nhận diện và bắt được Siren.
 
 "Tôi cũng không dám chắc chắn đâu," Augurey thừa nhận. "Chỉ đoán chừng là ả thôi. Biết đâu tôi lại bắt nhầm người."
 
@@ -120,7 +120,7 @@ Tôi cũng làm được trò đó nếu là mùi máu, chứ nước hoa thì c
 
 "Cô nghĩ ả chịu khai chắc?" tôi hỏi.
 
-"Chỉ cần 'thuyết phục' một chút là được. Hai anh ra ngoài phòng một lát nhé? À, mang luôn ba người kia đi cùng. Mình tôi lo vụ tra khảo là được rồi."
+"Chỉ cần thuyết phục một chút là được. Hai anh ra ngoài phòng một lát nhé? À, mang luôn ba người kia đi cùng. Mình tôi lo vụ tra khảo là được rồi."
 
 "Cô chắc chứ, Lorraine?" Augurey lo lắng hỏi. "Ả có năng lực tẩy não đấy. Để cô ở lại một mình không an toàn đâu..."
 
@@ -180,37 +180,37 @@ Tạm thời chưa có ý nào hay hơn, nên chúng tôi quyết định đánh
 
 ◆◇◆◇◆
 
-"Này... Này..." tôi vừa gọi vừa lay vai cô ấy. Trước khi bắt được Siren, chúng tôi đã thử cách này bao nhiêu lần mà cô ấy chẳng hề phản ứng. Nhưng giờ thì...
+"Này... Này..." tôi vừa gọi vừa lay vai cô bé. Trước khi bắt được Siren, chúng tôi đã thử cách này bao nhiêu lần mà cô bé chẳng hề phản ứng. Nhưng giờ thì...
 
-Ferrici ư hử vài tiếng rồi từ từ mở mắt. Vừa nhìn rõ cảnh tượng trước mặt, cô ấy hét toáng lên.
+Ferrici ư hử vài tiếng rồi từ từ mở mắt. Vừa nhìn rõ cảnh tượng trước mặt, cô bé hét toáng lên.
 
-Tôi chẳng trách cô ấy được. Tỉnh dậy mà thấy trước mặt là một gã đeo mặt nạ Khô Lâu, một mạo hiểm giả ăn diện sặc sỡ như chim công, cùng một ma pháp sư trông hệt nhà khoa học điên thì ai mà chẳng hoảng? Đến tôi còn sợ nữa là. Nếu đúng là bọn bắt cóc thì chắc chúng tôi đã bịt miệng bảo cô ấy im đi rồi, nhưng chúng tôi tuyệt đối không phải bọn bắt cóc.
+Tôi chẳng trách cô bé được. Tỉnh dậy mà thấy trước mặt là một gã đeo mặt nạ Khô Lâu, một mạo hiểm giả ăn diện sặc sỡ như chim công, cùng một ma pháp sư trông hệt nhà khoa học điên thì ai mà chẳng hoảng? Đến tôi còn sợ nữa là. Nếu đúng là bọn bắt cóc thì chắc chúng tôi đã bịt miệng bảo cô bé im đi rồi, nhưng chúng tôi tuyệt đối không phải bọn bắt cóc.
 
-Đang ở trong Cách Âm Kết Giới của Lorraine nên tôi có thể nhẩn nha nghĩ rằng dù cô gái này có la hét to đến mấy thì ngoài kia cũng chẳng một ai nghe thấy. Oa ha ha ha ha! Có điều, với Ferrici thì đây có lẽ là nỗi sợ hãi thật sự. Cả ba đành đứng đợi tiếng hét nhỏ dần cho tới khi cô ấy có vẻ bình tĩnh lại đôi chút. Cô ấy trừng mắt nhìn chúng tôi, ánh mắt không lời như đang hỏi: "Các người định làm gì tôi?!"
+Đang ở trong Cách Âm Kết Giới của Lorraine nên tôi có thể nhẩn nha nghĩ rằng dù cô gái này có la hét to đến mấy thì ngoài kia cũng chẳng một ai nghe thấy. Oa ha ha ha ha! Có điều, với Ferrici thì đây có lẽ là nỗi sợ hãi thật sự. Cả ba đành đứng đợi tiếng hét nhỏ dần cho tới khi cô bé có vẻ bình tĩnh lại đôi chút. Cô bé trừng mắt nhìn chúng tôi, ánh mắt không lời như đang hỏi: "Các người định làm gì tôi?!"
 
 "Các người định làm gì tôi?!" Ferrici hét lớn.
 
-À thôi, cô ấy nói to thành lời luôn rồi.
+À thôi, cô bé nói to thành lời luôn rồi.
 
 "Không làm gì cả," tôi nói. "Trước hết bọn tôi sẽ cởi trói cho em. Rồi bọn tôi sẽ giải thích đầu đuôi chuyện xảy ra ở đây. Sau đó em tự quyết định xem nên làm gì tiếp."
 
-Thấy tôi bước lại gần, cô ấy liền co rúm người lùi ra xa.
+Thấy tôi bước lại gần, cô bé liền co rúm người lùi ra xa.
 
 "Để tôi làm cho," Lorraine thở dài nói.
 
 Có lẽ đang bị trói mà thấy một gã đàn ông tiến lại gần thì đáng sợ thật. Tôi không để bụng đâu. Không để bụng tí nào hết.
 
-Ferrici vẫn cảnh giác nhìn theo khi Lorraine bước lại gần, nhưng lần này không cố lùi ra xa nữa. Ít ra thì cô ấy có vẻ đã tin là chúng tôi đang cởi trói cho mình.
+Ferrici vẫn cảnh giác nhìn theo khi Lorraine bước lại gần, nhưng lần này không cố lùi ra xa nữa. Ít ra thì cô bé có vẻ đã tin là chúng tôi đang cởi trói cho mình.
 
-Thấy dây thừng được nới lỏng và những mảnh vải lót bảo vệ cổ tay, thái độ cô ấy dịu đi đôi chút. "Chuyện này là sao? Nói trước cho rõ, tôi nhất quyết không hé một lời về chỗ ở của Phi Long đâu đấy." Dù vậy, giọng cô ấy vẫn rất đanh thép, chứng tỏ cô ấy nhớ rõ cuộc trò chuyện lần trước của chúng tôi.
+Thấy dây thừng được nới lỏng và những mảnh vải lót bảo vệ cổ tay, thái độ cô bé dịu đi đôi chút. "Chuyện này là sao? Nói trước cho rõ, tôi nhất quyết không hé một lời về chỗ ở của Phi Long đâu đấy." Dù vậy, giọng cô bé vẫn rất đanh thép, chứng tỏ cô bé nhớ rõ cuộc trò chuyện lần trước của chúng tôi.
 
-Nói thật thì Lorraine có cả triệu cách để bắt Ferrici mở miệng dù cô ấy có muốn hay không, nhưng chẳng cần nhắc cho Ferrici biết điều đó làm gì. Chỉ làm cô ấy sợ thêm một cách không cần thiết.
+Nói thật thì Lorraine có cả triệu cách để bắt Ferrici mở miệng dù cô bé có muốn hay không, nhưng chẳng cần nhắc cho Ferrici biết điều đó làm gì. Chỉ làm cô bé sợ thêm một cách không cần thiết.
 
 Thấy tôi chẳng phải người thích hợp để đứng ra đàm phán vụ này, Lorraine liền bước lên nhận việc. "Bọn tôi không hỏi chuyện đó đâu," cô ấy trấn an. "Em có thể nói cho tôi biết điều cuối cùng em còn nhớ không? Chuyện gì cũng được."
 
 Hóa ra là bắt đầu từ chỗ đó. Có lẽ đây là cách tốt nhất để giúp Ferrici hiểu ra chuyện về Siren.
 
-Ferrici thoáng sững người, nhưng vẫn chịu khó lục lại trí nhớ—hẳn cô ấy là một người tốt bụng—cho đến khi chợt nhận ra. "Tôi rời quán rượu để về nhà, nhưng mà... sau đó thì chẳng nhớ gì nữa hết." Vẫn còn hoang mang, cô ấy chưa nghĩ đến nguyên nhân khiến mình bị mất trí nhớ.
+Ferrici thoáng sững người, nhưng vẫn chịu khó lục lại trí nhớ, hẳn cô bé là một người tốt bụng, cho đến khi chợt nhận ra. "Tôi rời quán rượu để về nhà, nhưng mà... sau đó thì chẳng nhớ gì nữa hết." Vẫn còn hoang mang, cô bé chưa nghĩ đến nguyên nhân khiến mình bị mất trí nhớ.
 
 "Nói rõ để em hiểu, bọn tôi không bắt cóc em trên đường về nhà. Lát nữa em có thể hỏi lại chủ quán rượu để kiểm chứng, bọn tôi còn ngồi uống ở quán thêm cỡ một tiếng sau khi em đi. Chuyện em mất trí nhớ là do kẻ khác làm."
 

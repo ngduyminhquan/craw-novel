@@ -16,9 +16,9 @@
 
 ![](images/ch244-08.webp)
 
-"Mục tiêu cuối cùng của chúng ta là Golem Luteum," Lorraine nói, vẻ mặt dở khóc dở cười. "Anh xoay xở nổi không đấy?"
+"Mục tiêu cuối cùng của chúng ta là Golem Luteum," Lorraine nói, vẻ mặt dở khóc dở cười. "Hai người xoay xở nổi không đấy?"
 
-Trước mắt cô ấy, cũng tức là trước mắt cả bọn tôi, là đàn Golem Luteum cô ấy vừa nhắc tới. Phải, không phải một mà là cả bầy Golem, mà đâu chỉ có dăm ba con. Mấy chục con nhão nhoét đang lững thững bò quanh. Rõ là xui xẻo: chúng tôi đụng trúng cái loại ngậm đầy nước. Chỗ chúng lượn lờ lại nằm dưới đáy một vùng trũng trông như cái lòng chảo, dù tôi chẳng đoán nổi sao chúng lại làm thế.
+Trước mắt cô ấy, cũng tức là trước mắt chúng tôi, là đàn Golem Luteum cô ấy vừa nhắc tới. Phải, không phải một mà là cả bầy Golem, mà đâu chỉ có dăm ba con. Mấy chục con nhão nhoét đang lững thững bò quanh. Rõ là xui xẻo: chúng tôi đụng trúng cái loại ngậm đầy nước. Chỗ chúng lượn lờ lại nằm dưới đáy một vùng trũng trông như cái lòng chảo, dù tôi chẳng đoán nổi sao chúng lại làm thế.
 
 Vì chúng không có đường thoát, nếu đến đây chỉ để săn thì chúng tôi đã có thể nhờ Lorraine dọn sạch bách bằng một câu ma pháp rồi. Có điều, mục tiêu lần này là thu thập nguyên liệu. Bùn hay đất sét của Golem Luteum chứa rất nhiều Ma Lực, là nguyên liệu giả kim quý giá, nhưng vì nó cũng rất dễ bị tác động, sơ ý để ma pháp quệt qua một chút thôi là coi như hỏng bét. Tóm lại, chúng tôi không thể trông cậy vào Lorraine, mà phải dùng Khí Lực để tấn công. Thế nên việc này đành dồn cả lên vai Augurey và tôi.
 
@@ -38,7 +38,7 @@ Thế là chúng tôi đã sẵn sàng.
 
 "Được rồi, xuống thôi," tôi nói, đi đầu trượt xuống mép lòng chảo.
 
-Augurey theo sau tôi xuống dưới. "Nếu được thì ráng đừng để bị dính bẩn đấy nhé," anh ấy lầm bầm với tôi. "Tuy giản dị nhưng tôi vẫn thích bộ này lắm đấy."
+Augurey theo sau tôi xuống dưới. "Nếu được thì ráng đừng làm chúng ta bị dính bẩn đấy nhé," anh ấy lầm bầm với tôi. "Tuy giản dị nhưng tôi vẫn thích bộ này lắm đấy."
 
 Xuống đến lưng chừng vách lòng chảo, tôi cảm nhận được lũ Golem Luteum dưới đáy bắt đầu chú ý tới chúng tôi. Thân mình chúng làm bằng bùn nhão, trên đó có những hốc lõm làm mắt và miệng. Dù tôi vẫn rất ngờ vực liệu đôi mắt tối om kia có nhìn thấy được thật không, nhưng hiện tại, rõ ràng là chúng đang hướng thẳng về phía chúng tôi.
 
@@ -56,7 +56,7 @@ Dù Golem Luteum có cách tấn công khá giống Slime, nhưng đối phó v�
 
 "Mấy thứ đó rõ ràng đang nhắm thẳng vào chúng ta nhỉ?" Augurey chỉ vào hàng loạt mũi tên đất mà lũ Golem Luteum vừa triệu hồi giữa không trung.
 
-Mấy mũi tên đó chính là Gê Bélos, một ma pháp của loài người. Nhưng với Golem Luteum thì chẳng sao cả, bởi chúng dùng được nhiều loại ma pháp thổ hệ khác nhau. Vì thế, lòng chảo như thế này là địa bàn hoàn hảo cho chúng; công thủ đều tùy ý. Hèn chi chúng lại tụ tập ở đây nhiều đến vậy.
+Mấy mũi tên đó chính là Gê Bélos, một ma pháp của loài người. Nhưng chuyện đó là bình thường với Golem Luteum, bởi chúng vốn thi triển được nhiều loại ma pháp thổ hệ khác nhau. Vì thế, lòng chảo như thế này là địa bàn hoàn hảo cho chúng; công thủ đều tùy ý. Hèn chi chúng lại tụ tập ở đây nhiều đến vậy.
 
 "Không nhắm vào chúng ta thì nhắm vào đâu nữa chứ?" tôi nói. "Trước hết cứ tỉa bớt số lượng của chúng đã. Anh biết phải làm gì rồi đúng không?"
 
@@ -110,7 +110,7 @@ Tôi vẫn đeo mặt nạ, vì như mọi khi, nó nhất quyết không chịu
 
 "Làm Khô Lâu chán lắm," tôi nói. "Chỉ biết đi lại lách ca lách cách thôi. Thành Ngạ Quỷ cũng chẳng khá hơn mấy, nhưng ít ra tôi cũng tìm được cách nói chuyện theo một nghĩa nào đó. Cảm giác như mình được sống lại lần nữa vậy."
 
-"Nếu làm Ngạ Quỷ mà cũng gọi là 'sống' được," Augurey đáp. "Dù giờ tôi cũng chẳng chắc mình còn dám nói thế nữa không. Có lẽ chỉ cần có ý thức con người là đã đủ xem như một sinh mệnh rồi. Cậu biết đấy, nhờ có cậu mà dạo gần đây tôi cứ nghĩ, liệu mình có thể trò chuyện với những con Ngạ Quỷ mình gặp, hay với các loài quái vật khác không."
+"Nếu làm Ngạ Quỷ mà cũng gọi là 'sống' được," Augurey đáp. "Dù giờ tôi cũng chẳng chắc mình còn dám nói thế nữa không. Có lẽ chỉ cần có ý thức con người là đã đủ xem như một sinh mệnh rồi. Mà này, nhờ có cậu nên dạo gần đây tôi cứ nghĩ, liệu mình có thể trò chuyện với những con Ngạ Quỷ mình gặp, hay với các loài quái vật khác không."
 
 "Thỉnh thoảng tôi cũng nghĩ tới chuyện đó, nhưng chắc là vô phương thôi."
 
@@ -148,7 +148,7 @@ Tiếc là, dù chuyến về suôn sẻ đến tận cùng thì tốt biết m�
 
 Mấy người chúng tôi đã nhận ra từ trước khi cô bé hỏi. Mắt tôi nhìn được khá xa, còn Lorraine và Augurey thì nhận ra có biến qua những cái liếc mắt ngầm của tôi. Cả ba chúng tôi đã kín đáo chuyển hướng đi, nhưng bóng người đằng xa chẳng mất bao lâu đã điều chỉnh theo để chặn đầu chúng tôi.
 
-Bất kể kẻ đó là ai, hành tung rõ ràng rất đáng ngờ. Dù vậy, chúng tôi buộc phải đi qua đó nếu muốn về làng. Chẳng còn cách nào khác, chúng tôi đành tiến về hướng người nọ. Phải bảo vệ Ferrici đồng nghĩa nếu có biến xảy ra thì chúng tôi sẽ phải chịu nhiều bất lợi, nhưng để cô bé đi đường khác một mình thì cũng đáng lo chẳng kém. Cả bọn cứ ở cùng nhau là an toàn nhất.
+Bất kể kẻ đó là ai, hành tung rõ ràng rất đáng ngờ. Dù vậy, chúng tôi buộc phải đi qua đó nếu muốn về làng. Chẳng còn cách nào khác, chúng tôi đành tiến về hướng người nọ. Phải bảo vệ Ferrici đồng nghĩa nếu có biến xảy ra thì chúng tôi sẽ phải chịu nhiều bất lợi, nhưng để cô bé đi đường khác một mình thì cũng đáng lo chẳng kém. Cả nhóm cứ đi cùng nhau là an toàn nhất.
 
 Chúng tôi tiếp tục bước tới, và chẳng mấy chốc, "người" khả nghi nọ đã ở ngay trước mặt. Thật ra chỉ có một cách đối phó, đó là tiếp cận và bắt chuyện. Người đó khoác áo choàng, thò ra hai cánh tay gầy gò khẳng khiu, trông như một ông lão.
 

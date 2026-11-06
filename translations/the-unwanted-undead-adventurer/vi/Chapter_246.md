@@ -8,7 +8,7 @@ Mà, "sang thế giới bên kia theo cậu" cơ à? Augurey đôi lúc cũng h�
 
 Ông lão vừa tiến lại gần vừa bẻ ngón tay răng rắc. Việc ông ta không vội vàng áp sát chứng tỏ vẫn còn dè chừng tôi. Nghe giọng điệu thì có vẻ cú đánh đầu tiên ông ta nhắm thẳng vào mạng tôi thật. Mà nói cho đúng thì đòn đó đủ chết người thật. Tôi còn nguyên vẹn như mới thế này chỉ là nhờ chút lợi thế gian lận từ Phân Liệt. Không có nó, chắc chắn tôi đã toi mạng rồi.
 
-"Rất tiếc phải làm ông thất vọng," tôi nói, "nhưng như ông thấy đấy, tôi vẫn khỏe re đây. Hoặc cũng không hẳn. Chuyện phức tạp lắm. Dù sao thì tôi vẫn đang đứng đây, thế là được rồi."
+"Rất tiếc phải báo tin buồn cho ông," tôi nói, "nhưng như ông thấy đấy, tôi vẫn sống sờ sờ ra đây. À mà có khi cũng không hẳn. Chuyện phức tạp lắm. Dù sao thì tôi vẫn đang đứng đây, thế là được rồi."
 
 Ông lão lộ vẻ khó hiểu. "Ý ngươi là cũng chẳng lành lặn gì chứ gì? Chà, thế cũng là kỳ tích rồi đấy. Hiếm có ai trúng một đòn của ta mà còn đủ nguyên vẹn để đứng đó mở mồm nói chuyện."
 
@@ -84,7 +84,7 @@ Chắc hẳn ông lão này cũng có cả một câu chuyện ly kỳ của ri�
 
 Nhát chém lúc nãy tuy bị bật ra, nhưng đó đâu phải đòn mạnh nhất tôi có thể tung ra, chỉ là một đòn vung vội chưa kịp dồn hết lực mà thôi. Tôi vẫn có thể truyền thêm nhiều Khí Lực hoặc Ma Lực vào thanh kiếm của mình. Dùng Ma Khí Dung Hợp Thuật, hay thậm chí Thần Ma Khí Dung Hợp Thuật cũng đều được. Chiêu sau là con dao hai lưỡi, nhưng chiêu trước thì tôi nghĩ mình làm được. Chắc vậy. Có điều, nếu đến cả những chiêu đó mà cũng bị bật nảy ra thì chúng tôi toi đời là cái chắc. Tôi chợt tự hỏi liệu ông lão này có còn là con người hay không.
 
-Dù vậy, xem chừng ông già phi thường kia chí ít vẫn phải bận tâm tới thể lực của mình, bởi tần suất ra đòn của ông ta đang thưa dần. Thấy thế, tôi liền buông Augurey xuống.
+Dù vậy, xem chừng ông già phi thường kia chí ít vẫn phải bận tâm tới thể lực của mình, bởi tần suất ra đòn của ông ta đang thưa dần. Thấy thế, tôi liền thả Augurey ra.
 
 "Rentt! Tính sao đây?!"
 
@@ -182,7 +182,7 @@ Xét theo nghề của ông ta, cụm từ "mất chén cơm" hẳn đồng ngh�
 
 Ông lão bắt đầu gồng cứng toàn thân. Không rõ ông ta định giở trò gì, nhưng tôi biết chắc chẳng có gì tốt lành.
 
-Dĩ nhiên ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đối phương ra chiêu. Augurey và tôi tuốt kiếm lao vụt về phía ông lão, trong khi Lorraine giơ đũa phép bắt đầu vận chuyển Ma Lực. Thế nhưng...
+Dĩ nhiên ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đối phương ra chiêu. Augurey và tôi giương kiếm lao vụt về phía ông lão, trong khi Lorraine giơ đũa phép bắt đầu vận hành Ma Lực. Thế nhưng...
 
 "Quá chậm!"
 

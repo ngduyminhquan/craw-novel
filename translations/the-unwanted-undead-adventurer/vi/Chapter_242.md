@@ -6,7 +6,7 @@ Lũ Phi Long không chỉ đậu trên những tảng đá lơ lửng mà còn k
 
 "Thật không thể tin nổi. Cứ như thể chúng chẳng thèm để ý gì đến chúng ta vậy," Lorraine mở to mắt nói, một vẻ mặt quả thực hiếm thấy ở cô ấy.
 
-Dù vậy, tôi cũng có chung cảm nghĩ với cô ấy. Chúng tôi chỉ việc bám sát ngay sau lưng Ferrici, còn lũ Phi Long Mime thì vẫn thản nhiên với những sinh hoạt thường ngày như thể chúng tôi hoàn toàn vô hình, con vỗ cánh phần phật, con lại cọ đầu vào nhau và những hành động tương tự.
+Dù vậy, tôi cũng có chung cảm nghĩ với cô ấy. Chúng tôi chỉ việc bám sát ngay sau lưng Ferrici, còn lũ Phi Long Mime thì vẫn thản nhiên với những sinh hoạt thường ngày như thể chúng tôi hoàn toàn vô hình, con thì vỗ cánh phần phật, con lại âu yếm cọ đầu vào nhau.
 
 "Nhìn thế này trông chúng cũng đáng yêu đấy chứ," Augurey nói.
 
@@ -42,7 +42,7 @@ Ferrici nhìn Lorraine, rõ ràng là xúc động trước lời giải thích 
 
 "Bây giờ không còn nhiều người có nữa sao?" Ferrici nghiêng người về phía trước hỏi.
 
-"Từ khi ma pháp phát triển mạnh thì không còn nữa. Thật ra có một giả thuyết cho rằng ma pháp chính là hệ thống được thiết kế dựa trên dị năng. Đó không phải giả thuyết quá phổ biến, nhưng đúng là có những người tự nhiên thi triển được ma pháp mà không cần học. Có điều, dị năng hoàn toàn không sử dụng Ma Lực, dù tôi chắc chắn đã có rất nhiều ma pháp sư từng tìm cách tái hiện hiệu ứng của các loại dị năng khác nhau. Quan điểm xem hai thứ này là hai kỹ năng hoàn toàn tách biệt vẫn chiếm ưu thế hơn."
+"Từ khi ma pháp phát triển mạnh thì không còn nữa. Thật ra có một giả thuyết cho rằng ma pháp chính là hệ thống được thiết kế dựa trên dị năng. Đó không phải giả thuyết quá phổ biến, nhưng đúng là có những người tự nhiên thi triển được ma pháp mà không cần học. Tuy nhiên, dị năng vốn không sử dụng Ma Lực; có chăng là từng có nhiều ma pháp sư tìm cách tái hiện hiệu ứng của các loại dị năng mà thôi. Giả thuyết xem hai thứ này là hai loại năng lực hoàn toàn tách biệt vẫn được công nhận rộng rãi hơn."
 
 "Chà. Em thấy như màn sương mù vừa tan biến vậy. Đã biết bao lần em tự hỏi tại sao mình lại làm được điều này..." Ferrici nhớ lại, để lộ rằng cô bé không hoàn toàn xem năng lực này là một điều may mắn. Ít nhất thì giờ đây, Lorraine đã cho nó một cái tên rõ ràng.
 
@@ -68,7 +68,7 @@ Ferrici quyết định làm mẫu luôn cho chúng tôi hiểu ý. "Xem nào...
 
 "Dị năng của em ấy không chỉ dừng lại ở việc lại gần chúng..." Lorraine lẩm bẩm.
 
-"Em ấy mà làm kỵ sĩ rồng hay người coi chuồng Phi Long thì quá hợp. Tôi mà có quyền là nhận ngay tại chỗ," Augurey nói thêm.
+"Em ấy mà làm kỵ sĩ rồng hay người coi chuồng Phi Long thì quá hợp. Là tôi thì tôi nhận ngay tại chỗ," Augurey nói thêm.
 
 Quả đúng là công việc sinh ra để dành cho cô bé, nếu cô bé chỉ cần lại gần là nắm được tình trạng của một con Phi Long, thậm chí chẳng cần huấn luyện mà vẫn đưa ra được những mệnh lệnh cơ bản. Cả hai nghề mà Augurey vừa kể đều có mức thù lao lẫn địa vị khá cao. Ferrici sẽ được nhận vào làm ngay lập tức ở bất kỳ vị trí đáng mơ ước nào trong hai nghề đó.
 

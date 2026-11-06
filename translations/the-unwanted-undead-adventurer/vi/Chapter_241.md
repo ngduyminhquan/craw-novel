@@ -4,7 +4,7 @@
 
 Augurey vừa về tới quán trọ là đi ngủ ngay, thành ra chúng tôi chẳng kịp họp bàn chuẩn bị. Nhưng tôi cũng không lo lắm. Trước khi đến làng, cả nhóm đã thống nhất cách xử lý ủy thác rồi, cuộc họp có chăng cũng chỉ để rà soát lại kế hoạch một lượt.
 
-Mấy việc này chẳng dễ dàng chút nào, và chúng tôi hoàn toàn có thể thất bại nếu dám xem nhẹ độ khó của chúng, nhưng cả Augurey lẫn Lorraine đều không phải kiểu người chủ quan như vậy. Chẳng hạn như Augurey, anh ấy đâu phải vì lười mà vội đi ngủ. Anh ấy muốn nghỉ ngơi cho lại sức để ngày mai không bị ảnh hưởng phong độ. Lorraine cũng nhanh chóng đi ngủ theo vì cùng lý do.
+Mấy việc này chẳng dễ dàng chút nào, và chúng tôi hoàn toàn có thể thất bại nếu xem nhẹ độ khó của chúng, nhưng cả Augurey lẫn Lorraine đều không phải kiểu người chủ quan như vậy. Chẳng hạn như Augurey, anh ấy đâu phải vì lười mà vội đi ngủ. Anh ấy muốn nghỉ ngơi cho lại sức để ngày mai không bị ảnh hưởng phong độ. Lorraine cũng nhanh chóng đi ngủ theo vì cùng lý do.
 
 Tôi thì đã ngủ đẫy giấc từ trước, thành ra chẳng còn việc gì làm ngoài ngồi giết thời gian chờ trời sáng. Muốn ngủ tiếp cũng được thôi, nhưng chẳng ích gì. Đôi lúc ngủ thêm còn mệt người hơn cả thức trắng.
 
@@ -16,9 +16,9 @@ Cứ hễ ở một mình là tôi lại hay nghĩ ngợi. Chỉ mong sao trời
 
 "Lên đường thôi," Lorraine nói.
 
-Ba chúng tôi đứng bên ngoài quán trọ. Chợp mắt một giấc ngắn lấy lại sức, Lorraine và Augurey thức dậy thì trời cũng vừa sáng. Sau ngần ấy chuyện xảy ra, bác chủ quán trọ vẫn tử tế nấu bữa sáng cho chúng tôi, và chúng tôi cũng vui vẻ đón nhận tấm lòng ấy.
+Ba chúng tôi đứng bên ngoài quán trọ. Chợp mắt một giấc ngắn lấy lại sức, Lorraine và Augurey thức dậy thì trời cũng vừa sáng. Sau ngần ấy chuyện xảy ra, ông chủ quán trọ vẫn tử tế nấu bữa sáng cho chúng tôi, và chúng tôi cũng vui vẻ đón nhận tấm lòng ấy.
 
-Cả ba chúng tôi đều đã chuẩn bị tươm tất cho công việc. Chúng tôi mặc giáp, mang theo vũ khí cùng đồ nghề cần thiết. Quần áo đi đường đều được cất gọn vào túi ma thuật để khỏi phải để lại chút hành lý nào trong phòng. Dù khá tin tưởng bác chủ quán cùng dân làng, chúng tôi tuyệt đối không thể tin Goblin hay Siren. Cẩn tắc vô áy náy vẫn hơn, cả nhóm đều nhất trí như thế.
+Cả ba chúng tôi đều đã chuẩn bị tươm tất cho công việc. Chúng tôi mặc giáp, mang theo vũ khí cùng đồ nghề cần thiết. Quần áo đi đường đều được cất gọn vào túi ma thuật để khỏi phải để lại chút hành lý nào trong phòng. Dù khá tin tưởng ông chủ quán cùng dân làng, chúng tôi tuyệt đối không thể tin Goblin hay Siren. Cẩn tắc vô áy náy vẫn hơn, cả nhóm đều nhất trí như thế.
 
 "Chắc là sẵn sàng cả rồi đấy. Hai người còn nhớ mục tiêu của chúng ta không?" Augurey hỏi lại cho chắc.
 
@@ -58,7 +58,7 @@ Lorraine khoanh tay càu nhàu. "Còn vụ lanh Phi Long nữa." Điều cô ấ
 
 Con đường duy nhất để tiến vào là đi thẳng qua bãi sinh sản của Phi Long Mime. Vào những thời điểm khác trong năm thì chúng khá hiền lành, nhưng đang mùa giao phối thế này, cứ bén mảng lại gần là gần như chắc chắn sẽ kích động chúng tấn công. Đi xuyên qua bãi sinh sản đồng nghĩa với việc phải vượt qua hàng trăm, thậm chí hàng nghìn con Phi Long. Lúc này tôi chẳng nghĩ ra việc nào ngốn thời gian hơn thế nữa.
 
-"Thôi thì mình cũng biết trước phải đối mặt với chuyện gì rồi mà," tôi nói. "Chỉ cần cảnh giác rồi cứ thế tiến vào thôi. May ra hạ được vài con là lũ còn lại sẽ tự tránh xa, đúng không?"
+"Thôi thì chúng ta cũng biết trước phải đối mặt với chuyện gì rồi mà," tôi nói. "Chỉ cần cảnh giác rồi cứ thế tiến vào thôi. May ra hạ được vài con là lũ còn lại sẽ tự tránh xa, đúng không?"
 
 "Chẳng ai dám chắc, nhưng cứ hy vọng vậy đi. Ít nhất thì chưa tới nơi cũng chẳng làm được gì." Lorraine thở dài rồi miễn cưỡng cất bước, hoàn toàn chỉ vì trách nhiệm với công việc.
 
@@ -72,7 +72,7 @@ Cô bé cuối cùng cũng chạy đến chỗ chúng tôi, thở không ra hơi
 
 "Có chuyện gì thế em? Có chuyện gì xảy ra à?" tôi hỏi. Chúng tôi vẫn chưa biết đồng bọn còn lại của Goblin đang ở đâu hay tính làm gì. Tôi chỉ sợ chúng lại nhắm vào Ferrici, gia đình cô bé, hay ai đó trong làng.
 
-Ferrici lắc đầu. "Ồ, không phải đâu. Em chỉ muốn... Cái này cho mọi người." Cô bé chìa ra một chiếc giỏ đan bằng cỏ khô.
+Ferrici lắc đầu. "Ồ, không phải đâu. Em chỉ muốn... Gửi các anh chị cái này." Cô bé chìa ra một chiếc giỏ đan bằng cỏ khô.
 
 Augurey nhận lấy chiếc giỏ rồi nhìn vào bên trong. "Em chuẩn bị bữa trưa cho bọn tôi đấy à? Trông ngon quá." Anh ấy quay sang chúng tôi. "Nhìn này."
 
@@ -108,7 +108,7 @@ Chỉ cần khéo sắp xếp một chút thì túi của tôi nhét vừa cả 
 
 Chúng tôi dừng lại, và Augurey thay mặt cả nhóm hỏi: "Sao thế? Có chuyện gì vậy em?"
 
-Ferrici thoáng cúi đầu ngập ngừng, nhưng rồi cô bé cất lời với vẻ đầy quyết tâm. Chà, dù cô bé chủ yếu nói với Augurey, nhưng sao cũng được.
+Ferrici thoáng cúi đầu ngập ngừng, nhưng rồi cô bé cất lời với vẻ đầy quyết tâm. Mà thật ra cô bé chủ yếu nói với Augurey thôi, nhưng kệ đi.
 
 "Các anh chị muốn biết cách đi qua bãi sinh sản của Phi Long Mime đúng không? Em muốn chỉ cho mọi người cách làm."
 

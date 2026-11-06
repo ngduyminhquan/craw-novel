@@ -110,7 +110,7 @@ Một loạt lưỡi đao nước chết chóc bay về phía chúng tôi. Cả 
 
 Tôi nhảy tới trước mặt con Aqua Hathur trước khi Augurey kịp có cơ hội rồi vươn tay chộp lấy con quái vật nhỏ. Dĩ nhiên, Aqua Hathur cấu tạo bằng nước nên không thể tóm theo cách thông thường, nhưng Ma Lực đã giữ cho cơ thể nó gắn kết với nhau, giống hệt cách Ma Lực giữ cố định các khúc xương của một con Khô Lâu.
 
-Chỉ cần kìm giữ được Ma Lực của con Hathur là có thể nhấc nó lên—nghe nói là vậy. Ngày trước từng có người đặt giả thuyết và chứng minh được lý thuyết này, và nhờ nghiên cứu của người đó, giờ chúng tôi mới có những ma cụ cho phép chạm vào và tác động lên những quái vật dạng bán thể lỏng như Aqua Hathur. Augurey và tôi mỗi người đều đeo một cặp ma cụ trên tay do Lorraine đưa cho. Kế hoạch đầu tiên của chúng tôi là dùng chúng để bắt con Hathur nếu có thể.
+Chỉ cần kìm giữ được Ma Lực của con Hathur là có thể nhấc nó lên, nghe nói là vậy. Ngày trước từng có người đặt giả thuyết và chứng minh được lý thuyết này, và nhờ nghiên cứu của người đó, giờ chúng tôi mới có những ma cụ cho phép chạm vào và tác động lên những quái vật dạng bán thể lỏng như Aqua Hathur. Augurey và tôi mỗi người đều đeo một cặp ma cụ trên tay do Lorraine đưa cho. Kế hoạch đầu tiên của chúng tôi là dùng chúng để bắt con Hathur nếu có thể.
 
 "Oái! Không ăn thua rồi!"
 
@@ -124,13 +124,13 @@ Nhưng mạo hiểm giả một khi đã nhận việc thì có trách nhiệm p
 
 "Chị đang làm gì thế?" Ferrici hỏi Lorraine, rõ ràng là rất thắc mắc trước những gì Lorraine đang làm.
 
-Hai người họ đang ở một ngõ cụt tạo bởi các tảng đá, nơi Lorraine đang vẽ những ma pháp trận vô cùng tinh vi. Cách ngón tay thon dài của cô ấy phát sáng lấp lánh lướt đi trên mặt đá chẳng khác nào một họa sĩ đang vẽ nên kiệt tác. Có điều lúc này, theo những gì mắt thường thấy được thì ma pháp trận vẫn chưa phát huy tác dụng, nên Ferrici thấy tò mò cũng là tự nhiên.
+Hai người họ đang ở một ngõ cụt tạo bởi các tảng đá, nơi Lorraine đang vẽ những ma pháp trận vô cùng tinh vi. Cách ngón tay thon dài của cô phát sáng lấp lánh lướt đi trên mặt đá chẳng khác nào một họa sĩ đang vẽ nên kiệt tác. Có điều lúc này, theo những gì mắt thường thấy được thì ma pháp trận vẫn chưa phát huy tác dụng, nên Ferrici thấy tò mò cũng là tự nhiên.
 
 Lorraine giải thích: "Tôi đang đan một tấm lưới để quăng bắt con Aqua Hathur. Chỉ dùng ma pháp thôi thì tôi vẫn tạo ra lưới được, nhưng chúng sẽ nhận ra ngay, với lại chúng chạy nhanh quá. Có thể tôi vẫn canh đúng lúc để tung lưới được, nhưng cách này an toàn hơn. Dùng ma pháp trận thì tôi có thể cài đặt cho nó tự kích hoạt ngay khoảnh khắc con Aqua Hathur chạy qua đây. Truyền Ma Lực vào mấy cái này xong, khéo tôi đi chợp mắt một giấc cũng được."
 
-Gác sự lười biếng lộ liễu của Lorraine sang một bên, mọi điều cô ấy nói với Ferrici đều là thật, dù cô ấy đã lược đi một chuyện: cô ấy không muốn mạo hiểm vừa tạo và điều khiển lưới ma pháp lại vừa phải dựng tấm chắn bảo vệ Ferrici, vì sợ sẽ không làm tròn việc bảo vệ cô bé. Và nếu Lorraine có thể làm cho công việc của mình nhẹ nhàng hơn nhờ chuẩn bị thêm từ trước, lúc nào cô ấy cũng chọn cách đó thay vì ngồi chờ rồi lo lắng không biết chuyện gì có thể xảy ra.
+Gác sự lười biếng lộ liễu của Lorraine sang một bên, mọi điều cô nói với Ferrici đều là thật, dù cô đã lược đi một chuyện: cô không muốn mạo hiểm vừa tạo và điều khiển lưới ma pháp lại vừa phải dựng tấm chắn bảo vệ Ferrici, vì sợ sẽ không làm tròn việc bảo vệ cô bé. Và nếu Lorraine có thể làm cho công việc của mình nhẹ nhàng hơn nhờ chuẩn bị thêm từ trước, lúc nào cô cũng chọn cách đó thay vì ngồi chờ rồi lo lắng không biết chuyện gì có thể xảy ra.
 
-"Thế là hòm hòm rồi đấy," cô ấy vừa đứng dậy vừa nói. "Ma pháp trận xong xuôi cả rồi. Chúng ta lùi lại một chút rồi thưởng thức vở kịch hài do Rentt và Augurey đóng vai chính nào."
+"Thế là hòm hòm rồi đấy," cô vừa đứng dậy vừa nói. "Ma pháp trận xong xuôi cả rồi. Chúng ta lùi lại một chút rồi thưởng thức vở kịch hài do Rentt và Augurey đóng vai chính nào."
 
 Nếu một trong hai người họ mà nghe được câu này, chắc sẽ tức lắm đây.
 

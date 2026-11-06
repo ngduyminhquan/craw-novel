@@ -6,7 +6,7 @@ Hai người cùng rảo bước về phía nhà Ferrici. Từ lúc rời quán 
 
 Ferrici giật mình sực tỉnh. "Ôi, xin lỗi anh. Đi cùng tôi chắc chán lắm nhỉ..." Cô cuống quýt xua xua hai tay, vẻ bối rối trông hết sức thật thà.
 
-Augurey mỉm cười, thầm nghĩ ở vương đô khó mà tìm được cô gái nào thể hiện được vẻ tự nhiên đến thế. Vương Quốc Yaaran tuy nghèo thật, nhưng vương đô vẫn là một thành phố khá lớn, và phụ nữ nơi đó sành sỏi chuyện tình cảm hơn cánh đàn ông nhiều. Biết bao lần cánh đàn ông cứ ngỡ mình đang nắm thế chủ động, để rồi nhận ra mình chỉ đang ngoan ngoãn nhảy múa trong lòng bàn tay đối phương, nghĩ đến thôi cũng đủ rùng mình.
+Augurey mỉm cười, thầm nghĩ ở vương đô khó mà tìm được cô gái nào thể hiện được vẻ tự nhiên đến thế. Vương Quốc Yaaran tuy nhỏ bé thật, nhưng vương đô vẫn là một thành phố khá lớn, và phụ nữ nơi đó sành sỏi chuyện tình cảm hơn cánh đàn ông nhiều. Biết bao lần cánh đàn ông cứ ngỡ mình đang nắm thế chủ động, để rồi nhận ra mình chỉ đang ngoan ngoãn nhảy múa trong lòng bàn tay đối phương, nghĩ đến thôi cũng đủ rùng mình.
 
 Xét về thể lực thì đàn ông thường chiếm thế thượng phong, nhưng ở vương đô lại chẳng thiếu những mạo hiểm giả nghĩa hiệp cùng kỵ sĩ tài ba. Hễ kẻ nào làm loạn trật tự trị an là lập tức bị can thiệp ngay giữa chốn đông người, nên cánh đàn ông chẳng còn cách nào khác ngoài việc theo đuổi bằng những cách hợp pháp. Thành thử tại các quảng trường vương đô, lúc nào cũng thấy nhan nhản những gã buông lời chọc ghẹo phụ nữ qua đường; còn các cô gái thì đã quá quen với cảnh này nên đều khéo léo khước từ.
 
@@ -42,7 +42,7 @@ Nếu câu hỏi này do một cô gái trẻ ở vương đô thốt ra, hẳn 
 
 "Thế mà anh lại bỏ hết để đi làm mạo hiểm giả ư...?"
 
-"Tôi bỏ chứ, mà chẳng hối hận chút nào. Ngày nào cũng vui hết sảy. Đi với Rentt và Lorraine thì chẳng bao giờ biết chán là gì. Mấy chuyện kích thích cứ thế tự tìm đến, hết việc này tới việc khác."
+"Tôi bỏ chứ, mà chẳng hối hận chút nào. Ngày nào cũng vui ra trò. Đi với Rentt và Lorraine thì chẳng bao giờ biết chán là gì. Mấy chuyện kích thích cứ thế tự tìm đến, hết việc này tới việc khác."
 
 "Kích thích kiểu vừa gặp một cô gái ở quán rượu là bị cô ta cầm dao đâm ấy hả?"
 
@@ -122,7 +122,7 @@ Leo mỉm cười nhẹ nhõm: "Ồ, giờ thì tôi hiểu rồi! Sao cậu kh�
 
 "Tôi xin lỗi cậu nhé. Trước giờ chưa từng có chuyện gì như thế xảy ra, nên tôi mới mất bình tĩnh. Tôi chỉ muốn bảo vệ gia đình mình thôi."
 
-"Tôi rất mừng được nói rằng bác không cần phải làm thế đâu," Augurey trấn an ông. "Tôi chỉ đến để giải thích lý do Ferrici chưa về nhà, chứ không phải để đòi hỏi gì cả. Có điều, thời gian tới hai bác cứ cẩn thận một chút." Augurey cũng muốn nhắc họ đề phòng vì một trong những kẻ thủ ác vẫn đang nhởn nhơ ngoài kia, và anh thấy hơi áy náy vì không thể nói rõ hơn với họ về chuyện này.
+"May là bác không cần phải làm thế đâu," Augurey trấn an ông. "Tôi chỉ đến để giải thích lý do Ferrici chưa về nhà, chứ không phải để đòi hỏi gì cả. Có điều, thời gian tới hai bác cứ cẩn thận một chút." Augurey cũng muốn nhắc họ đề phòng vì một trong những kẻ thủ ác vẫn đang nhởn nhơ ngoài kia, và anh thấy hơi áy náy vì không thể nói rõ hơn với họ về chuyện này.
 
 "Chúng tôi sẽ cẩn thận," Leo cam đoan. "À mà này, Augurey?"
 

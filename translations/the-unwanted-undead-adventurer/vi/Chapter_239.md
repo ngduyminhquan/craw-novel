@@ -2,13 +2,13 @@
 
 "Dao á...?! Tôi chưa từng làm chuyện đó!" Ferrici vội thanh minh.
 
-Lorraine tiếp tục nói thật cho cô ấy nghe. Trong tình cảnh này, tốt nhất là không nên bịa chuyện nói dối người ta, bất kể là lời nói dối vô hại hay có ý đồ gì khác. Sự thật đôi khi còn gây tổn thương hơn cả dối lừa.
+Lorraine tiếp tục nói thật cho cô bé nghe. Trong tình cảnh này, tốt nhất là không nên bịa chuyện nói dối người ta, bất kể là lời nói dối vô hại hay có ý đồ gì khác. Sự thật đôi khi còn gây tổn thương hơn cả dối lừa.
 
 "Em có làm đấy. Bọn tôi biết đó không phải chủ ý của em. Như tôi vừa nói, có kẻ đã thôi miên em."
 
-"Thôi miên..." Ferrici lặp lại, dường như lúc nãy cô ấy đã bỏ sót chi tiết đó trong lời giải thích của Lorraine. Cú sốc khi nghe tin mình vừa tấn công Augurey chắc đã khiến mẩu tin đó trôi tuột khỏi trí nhớ ngắn hạn của cô ấy. Mà ai rơi vào cảnh đó cũng sẽ không tin nổi thôi, tự dưng có người bảo: "Này, tôi cá là em chẳng nhớ đâu, nhưng ban nãy em vừa cố đâm tôi đấy."
+"Thôi miên..." Ferrici lặp lại, dường như lúc nãy cô bé đã bỏ sót chi tiết đó trong lời giải thích của Lorraine. Cú sốc khi nghe tin mình vừa tấn công Augurey chắc đã khiến mẩu tin đó trôi tuột khỏi trí nhớ ngắn hạn của cô bé. Mà ai rơi vào cảnh đó cũng sẽ không tin nổi thôi, tự dưng có người bảo: "Này, tôi cá là em chẳng nhớ đâu, nhưng ban nãy em vừa cố đâm tôi đấy."
 
-Ferrici nhìn thẳng vào mắt Lorraine như muốn tìm kiếm một câu trả lời cặn kẽ hơn. Dù vậy, nét mặt cô ấy không hề tỏ vẻ khinh khi hay ngờ vực, mà chỉ có sự tò mò.
+Ferrici nhìn thẳng vào mắt Lorraine như muốn tìm kiếm một câu trả lời cặn kẽ hơn. Dù vậy, nét mặt cô bé không hề tỏ vẻ khinh khi hay ngờ vực, mà chỉ có sự tò mò.
 
 "Em có hiểu thôi miên là gì không?" Lorraine hỏi.
 
@@ -24,7 +24,7 @@ Mấy ví dụ của Lorraine làm Ferrici sực nhớ lại. "Hồi bé tôi t�
 
 Đó hẳn là một trong những chuyến khám phá lấn sân sang đủ mọi ngóc ngách học thuật hồi cô ấy còn ở vương đô. Tôi cứ nghĩ đó là mảng đề tài khá xa lạ ít người biết, nhưng Lorraine vốn là hiện thân của tính hiếu kỳ, nên việc đó chắc đúng gu cô ấy lắm.
 
-Ferrici nhìn Lorraine đầy vẻ hoài nghi: "Thật sao chị...?"
+Ferrici nhìn Lorraine đầy vẻ hoài nghi: "Thật sao...?"
 
 Lorraine gật đầu, vẻ mặt hoàn toàn nghiêm túc: "Thật đấy. Có điều mấy lời ám thị kiểu đó không quá mạnh, cũng chẳng kéo dài được lâu. Kể cả ám thị cực mạnh cũng không thể ép người ta làm những hành động phức tạp được. Chẳng hạn như kiểu thao túng tâm trí mà em vừa trải qua, Ferrici à, thuật thôi miên thông thường vốn không thể nào làm nổi. Em nhận lệnh giết Augurey, và em đã thực hiện cả một chuỗi hành động phức tạp: tìm tới phòng Augurey, tiếp cận đầy vẻ quyến rũ, ôm lấy anh ấy để thu hẹp khoảng cách, rồi rút con dao giấu sẵn ra định giết anh ấy."
 
@@ -34,9 +34,9 @@ Nghĩ vậy, tôi tự hỏi liệu Siren có phải là một trong những thu
 
 Tôi không nghĩ Siren từng tính tới chuyện có người lại đánh hơi ra ả chỉ nhờ chút mùi hương vương lại trên người một nạn nhân. Nói cho cùng thì chúng tôi có ai là chó đâu. Chẳng qua mũi của Augurey thính như chó mà thôi. Lúc Augurey vác ả vào phòng tôi cũng ngửi thử, nhưng mùi đó đâu có nồng nặc gì. Thậm chí có lẽ ả đã cố tránh dùng bất kỳ mùi hương dễ nhận biết nào rồi. Đây chẳng phải sơ suất của Siren, mà thuần túy là do xui xẻo.
 
-"Tôi thực sự... đã làm thế sao...?" Ferrici thốt lên, sững sờ trước tính chất nghiêm trọng của những việc mình đã làm trong lúc vô thức. Hai má cô ấy liền đỏ bừng vì xấu hổ. Cô ấy ngồi trầm ngâm vài giây rồi quay sang Augurey: "Ừm... tôi chẳng nhớ gì hết, nhưng thật sự xin lỗi vì tôi đã làm những việc như vậy! Cầm dao tấn công anh... Chuyện như thế tôi đâu dám mong được tha thứ. Anh thật sự không sao chứ?"
+"Tôi thực sự... đã làm thế sao...?" Ferrici thốt lên, sững sờ trước tính chất nghiêm trọng của những việc mình đã làm trong lúc vô thức. Hai má cô bé liền đỏ bừng vì xấu hổ. Cô bé ngồi trầm ngâm vài giây rồi quay sang Augurey: "Ừm... tôi chẳng nhớ gì hết, nhưng thật sự xin lỗi vì tôi đã làm những việc như vậy! Cầm dao tấn công anh... Chuyện như thế tôi đâu dám mong được tha thứ. Anh thật sự không sao chứ?"
 
-Riêng tôi thì thấy cô ấy chẳng việc gì phải xin lỗi ai trong chúng tôi cả. Cô ấy chỉ bị điều khiển, vả lại chính việc chúng tôi kéo tới ngôi làng này mới là nguồn cơn gây ra mọi chuyện. Thế mà Ferrici dường như vẫn tự thấy mình phải chịu trách nhiệm cho vụ tấn công.
+Riêng tôi thì thấy cô bé chẳng việc gì phải xin lỗi ai trong chúng tôi cả. Cô bé chỉ bị điều khiển, vả lại chính việc chúng tôi kéo tới ngôi làng này mới là nguồn cơn gây ra mọi chuyện. Thế mà Ferrici dường như vẫn tự thấy mình phải chịu trách nhiệm cho vụ tấn công.
 
 "Đâu phải lỗi của em đâu," Augurey nói. "Tôi chẳng xây xát lấy một vết. Vả lại, tuy tôi không phải mạo hiểm giả ghê gớm gì, nhưng cũng rèn luyện đủ để đỡ được đòn tấn công của một cô gái trong làng, dù có bất ngờ đến mấy đi nữa. Mà em có sao không?"
 
@@ -44,7 +44,7 @@ Riêng tôi thì thấy cô ấy chẳng việc gì phải xin lỗi ai trong ch
 
 "Lúc tấn công em phát cuồng lên, nên tôi đành phải đánh một đòn vào gáy cho em ngất đi. Rồi tôi trói em lại để phòng lúc tỉnh dậy em vẫn chưa tỉnh táo là chính mình. Mong là cả hai việc đó không để lại vết hằn nào, dù tôi cũng đã cố hết sức để tránh chuyện đó rồi."
 
-Ferrici cúi xuống nhìn hai cẳng tay. Nhờ có những mảnh vải lót đệm bên dưới sợi dây thừng, trên tay cô ấy chẳng hề có vết hằn nào.
+Ferrici cúi xuống nhìn hai cẳng tay. Nhờ có những mảnh vải lót đệm bên dưới sợi dây thừng, trên tay cô bé chẳng hề có vết hằn nào.
 
 Còn về phần cổ, Lorraine ngó qua kiểm tra: "Không có vết nào đâu. Cổ đẹp đấy."
 
@@ -58,17 +58,17 @@ Nghe câu đó thốt ra từ miệng cô ấy, tôi không khỏi liên tưởn
 
 "Nếu em cứ bận lòng thế, hay là em giúp bọn tôi giải thích với những người khác cũng bị thôi miên nhé? Nếu được, bọn tôi rất cảm kích nếu em giấu đi phần bọn tôi có thể là nguồn cơn gây ra toàn bộ chuyện này. Chứ bị đuổi khỏi quán trọ thì bọn tôi chẳng còn chỗ nào để đi đâu. Em thấy sao?"
 
-Augurey nhờ cô ấy giúp đỡ bằng một giọng điệu hết sức tự nhiên. Đóng vai người pha trò quả thực rất hợp với anh ấy. Khéo léo đưa chút không khí nhẹ nhõm vào cuộc trò chuyện, anh ấy đã làm Ferrici mỉm cười.
+Augurey nhờ cô bé giúp đỡ bằng một giọng điệu hết sức tự nhiên. Đóng vai người pha trò quả thực rất hợp với anh ấy. Khéo léo đưa chút không khí nhẹ nhõm vào cuộc trò chuyện, anh ấy đã làm Ferrici mỉm cười.
 
-"Vâng. Chỉ có thế thôi sao?" cô ấy hỏi.
+"Vâng. Chỉ có thế thôi sao?" cô bé hỏi.
 
 ◆◇◆◇◆
 
-Sau đó, chúng tôi bắt đầu đánh thức những dân làng đã bị đánh ngất, bắt đầu từ hai người từng tấn công tôi và Lorraine. Họ và Ferrici hẳn là quen biết nhau, bởi họ dễ dàng tin ngay lời giải thích của cô ấy, rằng chỉ là có tầm hơn chục dân làng bị thôi miên, chứ chẳng gặng hỏi gì nhiều. Ferrici giấu đi chuyện thuật thôi miên đó có phải là ma pháp hay không, cũng như việc kẻ thủ ác nhắm vào ai. Hẳn vài người vẫn còn những thắc mắc chưa được giải đáp, nhưng người dân ở những nơi hẻo lánh thường rất thực tế, dù theo nghĩa tốt hay xấu. Họ dẻo dai kiên cường, sẵn sàng chấp nhận những gì được nghe rồi tập trung quay lại với nhịp sống thường ngày.
+Sau đó, chúng tôi bắt đầu đánh thức những dân làng đã bị đánh ngất, bắt đầu từ hai người từng tấn công tôi và Lorraine. Họ và Ferrici hẳn là quen biết nhau, bởi họ dễ dàng tin ngay lời giải thích của cô bé, rằng chỉ là có tầm hơn chục dân làng bị thôi miên, chứ chẳng gặng hỏi gì nhiều. Ferrici giấu đi chuyện thuật thôi miên đó có phải là ma pháp hay không, cũng như việc kẻ thủ ác nhắm vào ai. Hẳn vài người vẫn còn những thắc mắc chưa được giải đáp, nhưng người dân ở những nơi hẻo lánh thường rất thực tế, dù theo nghĩa tốt hay xấu. Họ dẻo dai kiên cường, sẵn sàng chấp nhận những gì được nghe rồi tập trung quay lại với nhịp sống thường ngày.
 
-Dù Ferrici đã giữ kín chuyện chúng tôi mới là mục tiêu của kẻ dùng thuật thôi miên, nhưng chúng tôi cũng chẳng dám mong dân làng không tự xâu chuỗi sự việc lại, khi mà chuyện này xảy ra ngay đúng đêm chúng tôi vừa đặt chân tới. Những người từng trải hơn, tầm trung niên trở lên như ông chủ quán trọ, chắc chắn đã nhận ra. Có điều chẳng ai làm to chuyện nghi ngờ ấy, nhờ vào lời kể đầy chân thành của Ferrici về sự việc và việc cô ấy nhấn mạnh rằng chính chúng tôi đã giải thoát họ khỏi thuật thôi miên. Khó mà lấy lại trọn vẹn lòng tin của họ, nhưng việc không ai đuổi chúng tôi ra khỏi làng đối với chúng tôi đã là một thắng lợi rồi.
+Dù Ferrici đã giữ kín chuyện chúng tôi mới là mục tiêu của kẻ dùng thuật thôi miên, nhưng chúng tôi cũng chẳng dám mong dân làng không tự xâu chuỗi sự việc lại, khi mà chuyện này xảy ra ngay đúng đêm chúng tôi vừa đặt chân tới. Những người từng trải hơn, tầm trung niên trở lên như ông chủ quán trọ, chắc chắn đã nhận ra. Có điều chẳng ai làm to chuyện nghi ngờ ấy, nhờ vào lời kể đầy chân thành của Ferrici về sự việc và việc cô bé nhấn mạnh rằng chính chúng tôi đã giải thoát họ khỏi thuật thôi miên. Khó mà lấy lại trọn vẹn lòng tin của họ, nhưng việc không ai đuổi chúng tôi ra khỏi làng đối với chúng tôi đã là một thắng lợi rồi.
 
-Đến khi gặp xong toàn bộ số dân làng từng bị thôi miên và ai nấy đều đã trở về nhà hoặc quay lại với công việc, Ferrici mới quay sang chúng tôi: "Ừm, tôi đã giấu họ nhiều chuyện lắm, nhưng mà..." Cô ấy bỏ lửng câu nói, nét mặt vẫn còn lo lắng. Cô ấy thừa hiểu tình cảnh này khiến chúng tôi trông đáng ngờ đến mức nào.
+Đến khi gặp xong toàn bộ số dân làng từng bị thôi miên và ai nấy đều đã trở về nhà hoặc quay lại với công việc, Ferrici mới quay sang chúng tôi: "Ừm, tôi đã giấu họ nhiều chuyện lắm, nhưng mà..." Cô bé bỏ lửng câu nói, nét mặt vẫn còn lo lắng. Cô bé thừa hiểu tình cảnh này khiến chúng tôi trông đáng ngờ đến mức nào.
 
 Lorraine nói: "Vài người trong số họ nhận ra bọn tôi là nguyên nhân rồi. Đám thanh niên trẻ tuổi trông vô tư lự hơn thì chẳng nhận ra gì, nhưng tôi đã bắt gặp ánh mắt của ông chủ quán trọ rồi đấy."
 
@@ -80,13 +80,13 @@ Vốn tôi tính là sẽ dành đôi ba ngày để hoàn thành công việc m
 
 Đúng lúc tôi định trả lời Lorraine thì Augurey xen vào: "Ồ, xin lỗi em nhé, Ferrici. Bọn tôi suýt thì đem chuyện riêng ra bàn trong lúc em còn đứng đây. Cảm ơn em đã giúp đỡ bọn tôi. Cha mẹ em chắc đang lo sốt vó lên rồi đấy, để tôi đưa em về nhà nhé."
 
-Tôi suýt nữa quên bẵng mất Ferrici. Nếu Augurey đưa cô ấy về nhà thì chuyện bàn bạc đành phải gác lại chờ anh ấy quay về đã.
+Tôi suýt nữa quên bẵng mất Ferrici. Nếu Augurey đưa cô bé về nhà thì chuyện bàn bạc đành phải gác lại chờ anh ấy quay về đã.
 
 Nhưng Ferrici lắc đầu: "Không đâu, sau tất cả những chuyện tôi đã làm, tôi không thể làm phiền anh thêm nữa."
 
 "Ferrici à. Như tôi đã nói, chuyện đó qua rồi. Em giúp bọn tôi thế là đủ nhiều rồi. Vả lại, tôi muốn đưa em về đâu chỉ vì riêng em. Bọn tôi bắt được kẻ thôi miên thật, nhưng không có gì đảm bảo ngoài kia ả không còn đồng bọn. Trường hợp xấu nhất, nếu để em đi bộ về một mình vào giờ này mà bị tấn công thì bọn tôi sẽ áy náy lắm. Nên coi như vì bọn tôi, để tôi đưa em về nhà nhé? Nếu thấy đi cùng tôi không thoải mái, tôi có thể cử anh chàng Mặt Nạ Khô Lâu hoặc cô Nữ Pháp Sư ở đây đưa em về."
 
-Chúng tôi biết chắc Siren vẫn còn ít nhất một đồng bọn nữa đang nhởn nhơ ngoài kia. Lorraine đang theo dấu Goblin, nhưng chúng tôi thậm chí còn chưa biết gã đồng bọn có giọng nói nghe như người già mà tôi tình cờ nghe thấy lúc chúng hội họp là ai. Từ lúc đó tới giờ tôi cũng chẳng cảm nhận được sự hiện diện của hắn nữa. Thành viên thứ ba bí ẩn trong nhóm chúng rất có thể lại là kẻ nguy hiểm nhất, thành thử để Ferrici về nhà mà không có người đi cùng lúc này chẳng phải ý hay. Không phải tôi nghĩ chúng sẽ đi bắt cóc một cô thôn nữ bình thường giữa lúc Siren đang nằm trong tay chúng tôi, nhưng cẩn thận vẫn hơn. Tôi có thể ngồi mổ xẻ đủ mọi khả năng nguy hiểm mong manh, kiểu như cả nhà Ferrici bị tấn công sau khi chúng tôi đưa cô ấy về, nhưng nghĩ ngợi thế cũng chẳng giải quyết được gì. Chúng tôi đâu thể ngày đêm canh chừng từng người một trong làng; chúng tôi chỉ muốn làm những gì trong khả năng của mình mà thôi. Đâu phải chúng tôi đang cố cứu lấy thế giới đâu.
+Chúng tôi biết chắc Siren vẫn còn ít nhất một đồng bọn nữa đang nhởn nhơ ngoài kia. Lorraine đang theo dấu Goblin, nhưng chúng tôi thậm chí còn chưa biết gã đồng bọn có giọng nói nghe như người già mà tôi tình cờ nghe thấy lúc chúng hội họp là ai. Từ lúc đó tới giờ tôi cũng chẳng cảm nhận được sự hiện diện của hắn nữa. Thành viên thứ ba bí ẩn trong nhóm chúng rất có thể lại là kẻ nguy hiểm nhất, thành thử để Ferrici về nhà mà không có người đi cùng lúc này chẳng phải ý hay. Không phải tôi nghĩ chúng sẽ đi bắt cóc một cô thôn nữ bình thường giữa lúc Siren đang nằm trong tay chúng tôi, nhưng cẩn thận vẫn hơn. Tôi có thể ngồi mổ xẻ đủ mọi khả năng nguy hiểm mong manh, kiểu như cả nhà Ferrici bị tấn công sau khi chúng tôi đưa cô bé về, nhưng nghĩ ngợi thế cũng chẳng giải quyết được gì. Chúng tôi đâu thể ngày đêm canh chừng từng người một trong làng; chúng tôi chỉ muốn làm những gì trong khả năng của mình mà thôi. Đâu phải chúng tôi đang cố cứu lấy thế giới đâu.
 
 Ferrici mỉm cười: "Thế thì... nếu vậy, nhờ anh Augurey đưa tôi về nhé. Chị Lorraine thì được, chứ để anh Rentt đưa tôi về giữa đêm hôm khuya khoắt thế này khéo cha mẹ tôi lăn đùng ra ngất mất."
 
@@ -152,7 +152,7 @@ Chắc Lorraine nghĩ thế thật. Bảo tôi không tò mò muốn biết cả
 
 "Cũng không hẳn. Tôi chỉ xin được thôi miên chính vì tôi biết rõ nó chẳng thể tác động nhiều lên mình. Chứ nếu từng trải qua chuyện như thế này thì tôi cũng phải đắn đo nhiều đấy."
 
-Việc cô ấy vẫn còn cân nhắc chuyện thử bị thôi miên đã đủ chứng minh tính hiếu kỳ của Lorraine mãnh liệt đến mức nào. Thử tưởng tượng có kẻ nào thôi miên được cô ấy biến thành một cỗ pháo xả ma pháp không ngừng nghỉ thì đúng là kinh hoàng.
+Ngay cả thế mà cô ấy vẫn còn cân nhắc chuyện thử bị thôi miên, đủ thấy tính hiếu kỳ của Lorraine mãnh liệt đến mức nào. Thử tưởng tượng có kẻ nào thôi miên được cô ấy biến thành một cỗ pháo xả ma pháp không ngừng nghỉ thì đúng là kinh hoàng.
 
 "Nhưng thế là lạc đề rồi," Lorraine nói tiếp. "Chỗ bác có gì bất thường không, bác Yattul? Đêm qua có ai khác gõ cửa phòng bác không?"
 

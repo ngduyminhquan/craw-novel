@@ -18,7 +18,7 @@ Nhờ vậy, Lorraine yên tâm rằng một đòn cỡ này không đời nào 
 
 Ngay cả trong số các ma pháp thổ hệ khác, Ard Harba vẫn nổi bật nhờ khối lượng vật chất khổng lồ mà nó triệu hồi. Nó tạo ra một khối đá nhọn hoắt, khổng lồ tựa ngọn giáo rồi phóng vút về phía đối phương. Xét theo phương diện ma pháp thì chiêu này cực kỳ đơn giản, nhưng chính vì thế mà lại rất khó phòng ngự. Trong khi ma pháp thủy hệ, hỏa hệ và các hệ tương tự thường có thể bị hóa giải bằng thuộc tính tương khắc, thì việc ném ma pháp phong hệ vào Ard Harba cũng chẳng làm suy chuyển hay xóa bỏ được nó.
 
-Dù vậy, cách khắc chế nó vẫn có. Lý do Lorraine chọn Ard Harba là vì nó mở ra giải pháp tốt nhất để thoát khỏi tình cảnh ngặt nghèo hiện tại. Dĩ nhiên, đây không phải loại ma pháp mà người ta có thể tùy ý thi triển mà không cần niệm trọn vẹn câu chú. Tất nhiên là trừ Lorraine ra. Đã vậy, cô còn vừa bắn được nó trong lúc vẫn duy trì cùng lúc ba lớp ma pháp khiên chắn, một kỳ tích thực sự đáng nể.
+Dù vậy, không phải là không có cách hóa giải nó. Lý do Lorraine chọn Ard Harba là vì nó mở ra giải pháp tốt nhất để thoát khỏi tình cảnh ngặt nghèo hiện tại. Dĩ nhiên, đây không phải loại ma pháp mà người ta có thể tùy ý thi triển mà không cần niệm trọn vẹn câu chú. Tất nhiên là trừ Lorraine ra. Đã vậy, cô còn thi triển nó ngay trong lúc đang duy trì cùng lúc ba lớp ma pháp khiên chắn, một kỳ tích thực sự đáng nể.
 
 Ngọn giáo đá khổng lồ lao thẳng về phía ông lão với tốc độ kinh hoàng—
 
@@ -40,7 +40,7 @@ Lorraine biết lớp ma pháp khiên chắn mà cô vội niệm lên người 
 
 Ông lão chần chừ một thoáng, như thể đang đắn đo xem nên chọn ai trong số các đối thủ làm con mồi kế tiếp, trước khi dời mắt khỏi Lorraine và lao vụt vào rừng theo hướng vừa hất văng Augurey.
 
-"Chắc con bé pháp sư cứ để sau cũng được," ông lão lẩm bẩm, rồi biến mất tăm.
+"Chắc ma pháp sư cứ để sau cũng được," ông lão lẩm bẩm, rồi biến mất tăm.
 
 Lorraine phân vân không biết có nên đuổi theo hay không, nhưng bên cạnh cô còn có Ferrici. Cô phải đưa cô bé đến nơi an toàn trước đã; không thể đẩy cô bé vào nguy hiểm bằng cách kéo theo bên mình.
 
@@ -48,11 +48,11 @@ Cô vẫn cảm nhận được Ma Lực của Augurey, nên ít nhất biết c
 
 "Ferrici."
 
-"Chị? Ơ, vừa nãy—?"
+"Vâng? Ơ, vừa nãy—?"
 
 "Tôi cũng chưa rõ, nhưng chúng ta sẽ tìm hiểu sau. Này, cầm lấy cái này đi. Đây là ma cụ có thể thi triển ma pháp khiên chắn cực mạnh, tôi đã nạp sẵn Ma Lực vào đó rồi. Cầm cả cái này nữa. Miễn là em giữ nó bên mình thì dù em đi đâu tôi cũng tìm ra được. Hãy trốn đi và đợi tôi, được chứ?"
 
-Lorraine chẳng hề muốn làm vậy, nhưng đối mặt với kẻ địch nguy hiểm như ông lão kia, cô không còn lựa chọn nào khác. Cô, Rentt và Augurey phải cùng nhau đối phó với ông ta. Ferrici sẽ chỉ gây vướng chân vướng tay. Dù vậy, cô cũng không thể bỏ mặc Ferrici mà chẳng làm gì, nên đành phải viện tới giải pháp cuối cùng này. Cả Goblin lẫn Siren đều không có mặt ở khu vực này, nên chí ít cô không cần phải lo lắng về việc họ sẽ tấn công cô bé.
+Lorraine chẳng hề muốn làm vậy, nhưng đối mặt với kẻ địch nguy hiểm như ông lão kia, cô không còn lựa chọn nào khác. Cô, Rentt và Augurey phải cùng nhau đối phó với ông ta. Ferrici sẽ chỉ gây vướng chân vướng tay. Dù vậy, cô cũng không thể bỏ mặc Ferrici mà chẳng làm gì, nên đành phải viện tới giải pháp cuối cùng này. Cả Goblin lẫn Siren đều không có mặt ở khu vực này, nên chí ít cô không cần phải lo chúng sẽ tấn công cô bé.
 
 Lorraine không rõ quanh đây ông lão còn đồng bọn nào không, nhưng nếu có thì đã có ma pháp khiên chắn. Hơn nữa, vật đánh dấu cô đưa cho Ferrici còn dùng làm mốc để cô nhắm bắn ma pháp tầm xa được. Tất nhiên như thế chưa hẳn là cô bé đã an toàn tuyệt đối, nhưng dù sao thì...
 
@@ -80,7 +80,7 @@ Augurey khựng lại một thoáng ngắn ngủi trước khi đáp: "Ông đan
 
 Augurey cứ ngỡ mình đã giả ngốc khá tròn vai, nhưng có lẽ tuổi tác đã giúp ông lão quá sành sỏi những mánh lới kiểu này; ông ta nhìn thấu màn kịch chỉ trong tích tắc. Mà xét tình thế hiện tại thì chuyện đó cũng chẳng có gì lạ. Chưa nói tới Goblin, kế hoạch của Siren đã đổ bể, bản thân ả cũng bị bắt sống. Không khó để đoán chính việc đó đã khiến ông lão cho rằng những kẻ khác cũng bị lộ cả rồi.
 
-Có điều, quả thật Augurey đã mắc đúng sai lầm mà ông lão vừa nói: anh cứ đinh ninh tên thứ ba trong nhóm của Goblin và Siren cũng chuyên dùng mưu mô và cạm bẫy. Anh từng tin chắc đó là lối hành sự của bọn chúng. Nào ngờ người anh phải đối mặt lại là ông lão này, một kẻ thuần chuyên cận chiến bằng sức mạnh cơ bắp.
+Có điều, quả thật Augurey đã mắc đúng sai lầm mà ông lão vừa nói: anh cứ đinh ninh tên thứ ba trong nhóm của Goblin và Siren cũng chuyên dùng mưu mô và cạm bẫy. Anh từng tin chắc đó là lối hành sự của bọn chúng. Nào ngờ người anh phải đối mặt lại là ông lão này, một kẻ chuyên đánh cận chiến bằng sức mạnh thể chất.
 
 Người ta vẫn bảo phải đối đầu trực diện với rắc rối, nhưng hiểu sát nghĩa đen tới mức như lão già này thì cũng đến chịu.
 
