@@ -1,158 +1,158 @@
 # Chương 228: Tập 10 Chương 2 - Tiến Vào Hoàng Cung (3)
 
-Khi chúng tôi bước vào, một thiếu nữ tầm mười lăm hay mười sáu tuổi khoác trên mình bộ y phục vô cùng lộng lẫy đón chào chúng tôi. Có lẽ trang phục của cô bé cũng chẳng hẳn là quá mức cầu kỳ nếu xét tới thân phận hoàng tộc, nhưng chắc chắn là xa hoa hơn rất nhiều so với những gì thường dân có thể mặc.
+Khi chúng tôi bước vào, đón chào cả nhóm là một thiếu nữ tầm mười lăm, mười sáu tuổi trong bộ trang phục hết sức lộng lẫy. Xét thân phận hoàng tộc thì có lẽ cũng chưa hẳn là quá cầu kỳ, nhưng chắc chắn xa hoa hơn nhiều so với đồ thường dân mặc.
 
-Chẳng cần phải nói cũng biết thiếu nữ này chính là Jia Regina Yaaran, Nhị Công Chúa của Vương Quốc Yaaran. Trông cô bé dường như không thay đổi là bao kể từ lần cuối tôi gặp mặt.
+Không cần nói cũng biết thiếu nữ này chính là Jia Regina Yaaran, Nhị Công Chúa của Vương Quốc Yaaran. Trông cô bé không thay đổi là bao kể từ lần cuối tôi gặp.
 
-Ngay khi chúng tôi đã vào bên trong, Nauss liền bắt đầu giải thích cho công chúa rõ chúng tôi là ai. "Thưa Điện Hạ, đây là những mạo hiểm giả đã ra tay cứu viện khi chúng ta bị tập kích trên đại lộ."
+Vừa vào trong, Nauss liền giới thiệu chúng tôi với công chúa. "Thưa Điện Hạ, đây là những mạo hiểm giả đã ra tay cứu viện khi chúng ta bị tập kích trên đại lộ."
 
-Nauss sau đó liếc nhanh về phía chúng tôi, đó là cách ông ra hiệu bảo chúng tôi tự giới thiệu bản thân. Tôi tự hỏi liệu mình có nên mở lời trước hay không, nhưng trước khi tôi kịp nói câu nào, Lorraine đã cất lời giới thiệu.
+Rồi Nauss liếc nhanh về phía chúng tôi, ngầm ra hiệu bảo chúng tôi tự giới thiệu. Tôi đang phân vân không biết mình có nên mở lời trước hay không, nhưng chưa kịp nói gì thì Lorraine đã cất tiếng.
 
-"Thật vinh hạnh cho tôi khi được diện kiến Điện Hạ. Tên tôi là Lorraine Vivie, một học giả nhỏ bé mưu sinh tại thành phố Maalt."
+"Thật vinh hạnh khi được diện kiến Điện Hạ. Tôi là Lorraine Vivie, một học giả nhỏ bé đang mưu sinh tại thành phố Maalt."
 
-Cử chỉ của Lorraine cũng vô cùng thanh lịch và trang nhã, một lần nữa nhắc cho tôi nhớ rằng cô ấy đến từ Đế Quốc, quốc gia vĩ đại nhất trên lục địa.
+Tác phong của Lorraine cũng hết sức tao nhã, một lần nữa nhắc tôi nhớ rằng cô ấy đến từ Đế Quốc, quốc gia hùng mạnh nhất lục địa.
 
-Sau khi Lorraine dứt lời giới thiệu, công chúa khẽ nghiêng đầu đầy thắc mắc. "Một học giả sao? Không phải cô là mạo hiểm giả ư?"
+Lorraine dứt lời giới thiệu, công chúa khẽ nghiêng đầu thắc mắc. "Học giả sao? Cô không phải là mạo hiểm giả à?"
 
-"Tôi cũng là một mạo hiểm giả, thưa Điện Hạ, nhưng xét về mặt chuyên môn thì đó chỉ là nghề tay trái. Nghề nghiệp chính thức của tôi là học giả."
+"Tôi cũng là mạo hiểm giả, thưa Điện Hạ, nhưng nói đúng ra thì đó chỉ là nghề phụ. Nghề chính của tôi là học giả."
 
 "Tôi hiểu rồi."
 
-Công chúa hài lòng với lời giải thích của Lorraine và khẽ gật đầu với cô. Sau đó cô bé giữ im lặng, ra hiệu rằng chúng tôi nên tiếp tục phần giới thiệu. Trong lúc tôi đang chuẩn bị mở lời tiếp theo thì Augurey đã nhanh chân giành trước một bước.
+Hài lòng với lời giải thích của Lorraine, công chúa khẽ gật đầu với cô ấy. Rồi cô bé giữ im lặng, ra hiệu cho chúng tôi tiếp tục giới thiệu. Khi tôi vừa định mở lời thì Augurey đã nhanh chân giành trước.
 
-"Thật vinh hạnh khi được diện kiến Điện Hạ. Tên tôi là Augurey, và tôi là một mạo hiểm giả. Tôi có một cái tên trang trọng hơn, nhưng nó dài dòng và rất dễ khiến người ta nói lắp bắp khi phát âm. Tôi chẳng hề muốn để người phải chứng kiến cảnh tượng khó coi như thế, nên xin hãy lượng thứ cho việc tôi chỉ tự giới thiệu một cách giản đơn."
+"Thật vinh hạnh khi được diện kiến Điện Hạ. Tôi tên là Augurey, hiện làm mạo hiểm giả. Tôi còn một cái tên trang trọng hơn, nhưng nó dài dòng và rất dễ vấp khi đọc. Tôi đâu dám để người phải chứng kiến cảnh ngượng ngùng ấy, nên xin người lượng thứ cho tôi chỉ tự giới thiệu đơn giản thế này thôi."
 
-Lời giới thiệu của Augurey khá suồng sã, và trong một số hoàn cảnh thì nó có thể bị coi là bất kính, nhưng cả công chúa lẫn ngài hầu tước đều mỉm cười, chứng tỏ họ thấy điều đó hoàn toàn có thể chấp nhận được. Cách giới quý tộc vạch ra ranh giới giữa sự thân mật và nỗi bất kính vốn rất mơ hồ, lại còn khác biệt tùy theo từng cá nhân và từng vùng miền, nhưng xem chừng Augurey nắm rất rõ ranh giới ấy ở Yaaran nằm ở đâu.
+Cách giới thiệu của Augurey khá tùy tiện, ở một vài nơi có khi đã bị coi là thất lễ, nhưng thấy cả công chúa lẫn ngài hầu tước đều mỉm cười, tôi biết họ thấy thế là chấp nhận được. Giới quý tộc vạch ranh giới giữa sự thân thiện và nỗi thất kính rất mơ hồ, mỗi người mỗi vùng một khác, nhưng có vẻ Augurey nắm rất rõ chừng mực ở Yaaran.
 
-Công chúa bèn hướng về phía Augurey cất lời. "Ô kìa. Sở hữu một cái tên dài đến thế... Đó là truyền thống của dân tộc anh sao?"
+Công chúa bèn quay sang Augurey. "Chà. Lại có cái tên dài đến thế cơ à... Đó là truyền thống của tộc người anh sao?"
 
-"Vâng, đúng là vậy, thưa Điện Hạ. Về phần mình, tôi vẫn thích một cái tên ngắn gọn, dễ phát âm hơn, nhưng tiếc là trước khi chào đời tôi lại thiếu mất khả năng giao tiếp điều đó với cha mẹ mình, mà tôi cũng chẳng thể cứ thế vứt bỏ tên của bản thân. Đó là lý do vì sao tôi chọn cách giới thiệu bằng phần ngắn gọn và dễ gọi nhất trong tên mình, cốt để người khác đỡ nhọc công. Dĩ nhiên, nếu người muốn biết trọn vẹn tên thật của tôi, tôi rất sẵn lòng chiều ý Điện Hạ, nhưng khi ấy tôi khuyên người nên gọi sẵn trà bánh. Tôi sẽ cố hết sức đọc xong tên mình trước khi người uống cạn tách trà."
+"Thưa vâng, đúng là vậy, Điện Hạ. Về phần mình, tôi cũng thích một cái tên ngắn gọn, dễ gọi hơn, hiềm nỗi trước khi chào đời tôi chẳng cách nào nhắn nhủ điều đó với cha mẹ, mà tên mình thì đâu thể muốn bỏ là bỏ. Bởi thế tôi mới chọn khúc ngắn nhất, dễ đọc nhất trong tên để tự giới thiệu, coi như nghĩ cho người đối diện. Dĩ nhiên, nếu Điện Hạ muốn nghe trọn vẹn tên tôi, tôi rất sẵn lòng thưa lại, nhưng khi ấy khuyên người nên gọi sẵn trà và bánh ngọt. Tôi sẽ cố đọc cho xong trước khi người dùng cạn tách trà."
 
-"Hi hi. Thôi, anh không cần phải bận tâm làm thế đâu. Nauss, thế này cũng được rồi chứ?"
+"Hi hi. Thôi, anh không cần phải nhọc công thế đâu. Nauss, thế này cũng được rồi chứ?"
 
-Nauss gật đầu. "Nếu đó là điều Điện Hạ muốn."
+Nauss gật đầu. "Nếu Điện Hạ muốn vậy."
 
-Trong lòng tôi cũng thoáng băn khoăn liệu như thế có thực sự ổn không, nhưng hẳn Hội đã tiến hành điều tra lai lịch kỹ càng khi thăng hạng anh ta lên mạo hiểm giả Ngân Cấp rồi. Hội sẽ không tiết lộ thông tin cá nhân của một mạo hiểm giả chỉ vì một quý tộc yêu cầu, nhưng họ thường sẽ chuyển giao thông tin lai lịch cơ bản, đặc biệt là khi yêu cầu đó đến từ hoàng cung.
+Bản thân tôi cũng hơi băn khoăn liệu như thế có thực sự ổn không, nhưng có lẽ Hội đã điều tra kỹ lai lịch từ lúc thăng anh ta lên mạo hiểm giả Ngân Cấp rồi. Hội không đời nào để lộ thông tin cá nhân của mạo hiểm giả chỉ vì có quý tộc đòi hỏi, nhưng họ vẫn hay cung cấp lý lịch sơ bộ, nhất là khi yêu cầu xuất phát từ hoàng cung.
 
-Dù về mặt lý thuyết Hội là một tổ chức độc lập, nhưng họ không hoàn toàn thoát khỏi sự can thiệp của chính quyền; họ không thể phớt lờ mệnh lệnh từ chính phủ. Dẫu vậy, các chi nhánh Hội cũng có mối liên kết chặt chẽ với những tổ chức cùng loại tại các quốc gia khác, và nếu một đất nước cố tình chèn ép Hội quá mức, Hội hoàn toàn có thể tạo ra sự kháng cự nhất định. Đó là một trò chơi duy trì cán cân cân bằng. Dù mối quan hệ giữa Hội và vương quốc có ra sao, thì rõ ràng lai lịch của Augurey chẳng có bất kỳ điểm nào đáng ngờ để chê trách.
+Dù trên danh nghĩa là tổ chức độc lập, Hội cũng không hoàn toàn thoát khỏi sự can thiệp của chính quyền; họ không thể bỏ ngoài tai mệnh lệnh từ triều đình. Song Hội giữa các quốc gia đều có mối liên kết với nhau, nếu bị một nước chèn ép quá mức thì họ vẫn có cách kháng cự. Cả hai bên luôn phải giữ thế cân bằng như vậy. Dù quan hệ giữa Hội và vương quốc ra sao, rõ ràng lai lịch của Augurey chẳng có điểm nào đáng ngờ.
 
-Kế đó, Công Chúa Jia chuyển ánh nhìn về phía tôi. Lorraine và Augurey cũng làm điều tương tự. Tôi cảm thấy hồi hộp khi cuối cùng cũng bắt đầu cất lời giới thiệu.
+Tiếp đó, Công Chúa Jia chuyển ánh nhìn sang tôi. Lorraine và Augurey cũng quay lại nhìn. Tôi thấy hơi căng thẳng khi rốt cuộc cũng đến lượt mình lên tiếng.
 
-"Thật vinh dự cho tôi khi được diện kiến Điện Hạ. Tôi là Rentt Vivie, mạo hiểm giả Đồng Cấp. Rất hân hạnh được gặp mặt người."
+"Thật vinh hạnh khi được diện kiến Điện Hạ. Tôi là Rentt Vivie, mạo hiểm giả Đồng Cấp. Rất hân hạnh được gặp người."
 
-Lời giới thiệu của tôi ngắn gọn và giản đơn, một phần vì tôi sợ mình sẽ nói vấp, phần khác vì tôi là người có thứ bậc thấp nhất ở đây. Tôi cũng chẳng có điều gì muốn phân trần với cô bé. Thêm vào đó, dù có lẽ tôi đang đánh giá quá cao tầm quan trọng của mình, tôi không hề muốn khơi dậy tính tò mò của công chúa. Rốt cuộc thì tôi đang đeo một chiếc mặt nạ kỳ quái. Tôi nghĩ tốt nhất là cứ giữ im lặng và tỏ ra kín đáo. Tuy nhiên, nỗ lực của tôi hoàn toàn hoài công vô ích.
+Lời giới thiệu của tôi ngắn gọn và đơn giản, một phần vì sợ nói vấp, phần khác vì tôi là người có thứ bậc thấp nhất ở đây. Tôi cũng chẳng có gì cần phân bua với cô bé. Đã vậy, dẫu có hơi tự huyễn hoặc về tầm quan trọng của mình, tôi thật tình không muốn khơi dậy trí tò mò của công chúa. Dù sao thì tôi cũng đang đeo một chiếc mặt nạ kỳ dị. Tôi nghĩ tốt nhất cứ kín kẽ và lặng lẽ cho lành. Ngặt nỗi, tính toán đó lại công cốc.
 
-"Anh là một mạo hiểm giả Đồng Cấp sao?" công chúa hỏi. "Thế nhưng anh lại chung tổ đội với hai mạo hiểm giả Ngân Cấp? Còn chiếc mặt nạ của anh nữa... Liệu có lý do quan trọng nào không? Ngoài ra, anh còn cùng mang họ với Tiểu thư Lorraine, vậy có lẽ anh có mối quan hệ nào đó với cô ấy chăng?"
+"Anh là mạo hiểm giả Đồng Cấp sao?" công chúa hỏi. "Vậy mà anh lại lập đội chung với hai mạo hiểm giả Ngân Cấp ư? Còn chiếc mặt nạ của anh nữa... Có lý do đặc biệt nào không? Với lại, anh mang cùng họ với cô Lorraine, hai người có quan hệ gì với nhau sao?"
 
-Bất chấp mọi nỗ lực của mình, tôi vẫn phải hứng chịu một tràng câu hỏi dồn dập từ cô bé. Dù vậy, đó đều là những thắc mắc hoàn toàn dễ hiểu, và tôi đã gặp phải những câu hỏi y hệt như thế vô số lần kể từ khi biến thành Undead, nên tôi đoán việc trả lời sẽ không quá khó khăn.
+Cố tránh hết mức mà tôi vẫn phải hứng trọn một tràng câu hỏi dồn dập. Cơ mà thắc mắc nào cũng dễ hiểu cả, vả lại từ lúc thành Undead tôi đã nghe mấy câu này quen tai rồi, nên chắc trả lời cũng không làm khó được tôi.
 
-"Xin phép để tôi giải thích rõ hơn, thưa Điện Hạ. Trước hết, về lý do tại sao một mạo hiểm giả Đồng Cấp như tôi lại lập tổ đội cùng hai mạo hiểm giả Ngân Cấp..."
+"Xin phép Điện Hạ cho tôi được giải thích. Trước hết, về lý do vì sao một mạo hiểm giả Đồng Cấp như tôi lại đi chung đội với hai mạo hiểm giả Ngân Cấp..."
 
 "Ừ?"
 
-"Cả ba chúng tôi trước đây đều chủ yếu hoạt động tại thành phố Maalt. Hơn nữa, tôi quen biết Lorraine từ khi cả hai chúng tôi còn là những mạo hiểm giả mới vào nghề, và tôi gặp Augurey khi bản thân anh ấy cũng mới chỉ là Đồng Cấp. Vào thời điểm lần đầu chạm mặt, tất cả chúng tôi đều là bạn đồng cấp của nhau."
+"Cả ba chúng tôi trước đây chủ yếu hoạt động tại thành phố Maalt. Thêm vào đó, tôi quen biết Lorraine từ hồi cả hai còn là tân binh chân ướt chân ráo, còn Augurey thì tôi gặp từ lúc anh ấy vẫn ở Đồng Cấp. Khi mới quen nhau, chúng tôi đều ngang hàng cả."
 
-Tuy nhiên, giờ đây chúng tôi không còn như thế nữa. Việc Augurey thăng hạng lên Ngân Cấp từng đem lại chút chấn động, nhưng không phải vì anh ta thiếu tài năng hay không có tiền đồ với tư cách là một mạo hiểm giả. Tôi biết rồi sẽ có ngày anh ta giành được tấm vé thăng hạng, và tôi cũng đã chuẩn bị tâm lý cho chuyện đó. Chỉ là mọi sự diễn ra sớm hơn nhiều so với dự tính của tôi mà thôi.
+Có điều giờ thì không còn như trước nữa. Hồi Augurey lên Ngân Cấp, tôi cũng hơi sốc, nhưng chẳng phải vì anh ta thiếu tài hay không có tiền đồ mạo hiểm giả. Tôi biết sớm muộn gì anh ta cũng được thăng hạng, và bản thân cũng đã chuẩn bị sẵn tâm lý. Chỉ là mọi chuyện diễn ra nhanh hơn nhiều so với tôi tưởng.
 
-Tôi chẳng hề ghen tị gì với anh ta hay bất cứ điều gì tương tự. Suốt mười năm qua, tôi đã quá quen với việc những mạo hiểm giả Đồng Cấp cùng lứa vượt mặt mình. Bên cạnh đó, ước mơ của tôi là trở thành Mithril Cấp; cấp bậc của người khác chưa bao giờ là điều khiến tôi bận tâm.
+Tôi cũng chẳng ghen tị gì với anh ta. Suốt mười năm qua, tôi đã quá quen với cảnh bạn bè Đồng Cấp cùng thời lần lượt vượt mặt mình. Vả lại, ước mơ của tôi là chạm tới Mithril Cấp; thứ hạng của người khác chưa bao giờ là điều tôi bận tâm.
 
-"Tôi hiểu rồi. Nhưng việc các anh vẫn ở chung một tổ đội có phần khá bất thường, chẳng phải vậy sao?" công chúa hỏi.
+"Tôi hiểu rồi. Nhưng đến giờ các anh vẫn chung một đội thì hơi lạ nhỉ?" công chúa hỏi.
 
-Điều đó hoàn toàn chuẩn xác. Tôi với Lorraine là một chuyện, nhưng Augurey hiện giờ lại hoạt động ở vương đô. Chuyện này hẳn càng trông kỳ quặc hơn trong mắt công chúa, bởi cô bé không hề hay biết những chi tiết ấy. Việc các tổ đội tan rã khi những thành viên thay đổi cấp bậc vốn chẳng phải điều gì lạ lẫm. Nó chẳng liên quan gì đến chuyện mạo hiểm giả bất trung hay vô tình; chỉ đơn thuần là khoảng cách quá lớn về trình độ thực lực giữa các thành viên thường sẽ dẫn tới nhiều rắc rối.
+Đúng là thế thật. Tôi với Lorraine thì không nói, nhưng Augurey giờ đã chuyển lên hoạt động ở vương đô. Trong mắt công chúa hẳn chuyện này càng kỳ quặc, bởi cô bé đâu nắm được những chi tiết ấy. Tổ đội tan rã khi các thành viên chênh lệch cấp bậc vốn chẳng phải chuyện hiếm. Điều đó không có nghĩa mạo hiểm giả bội bạc hay cạn tình; chỉ đơn giản là nếu trình độ giữa các thành viên cách biệt quá lớn thì rất dễ nảy sinh rắc rối.
 
-Sẽ chẳng có gì hay ho khi các thành viên mạnh hơn trong tổ đội phải dành phần lớn tâm sức để bảo vệ kẻ yếu hơn ngay giữa lúc thực hiện nhiệm vụ. Điều đó đồng nghĩa với việc họ không thể tập trung vào công việc trước mắt. Bản thân Hội hẳn cũng nhìn nhận những tổ đội chênh lệch cấp bậc là một vấn đề, bởi họ tương đối chủ động trong việc giới thiệu người vào các tổ đội mới hoặc hỗ trợ các đội tuyển mộ thành viên. Dẫu vậy, họ chưa từng làm những điều tương tự cho đám mạo hiểm giả mới vào nghề. Hội có lẽ nghĩ rằng việc để quy luật đào thải tự nhiên thanh lọc số lượng tân binh đông đảo sẽ hiệu quả hơn nhiều. Thế giới ngoài kia quả thực vô cùng khắc nghiệt.
+Chẳng ích gì nếu giữa lúc làm nhiệm vụ, thành viên mạnh hơn cứ phải dồn hết tâm trí để bảo vệ người yếu hơn. Như vậy họ sẽ chẳng thể tập trung vào công việc trước mắt. Bản thân Hội chắc cũng coi việc tổ đội lệch cấp bậc là một vấn đề, nên họ khá chủ động giới thiệu người vào đội mới hoặc giúp các đội chiêu mộ thêm thành viên. Có điều, họ chẳng bao giờ làm vậy với đám tân binh. Có lẽ Hội cho rằng cứ để quy luật đào thải tự nhiên thanh lọc bớt lượng người mới đông đảo thì đỡ tốn công hơn. Thế giới này nghiệt ngã đến thế đấy.
 
-"Tôi tin Điện Hạ đang nhắc tới việc chúng tôi đi cùng nhau khi ra tay cứu viện người," tôi đáp lời.
+"Chắc Điện Hạ đang muốn nhắc tới việc chúng tôi đi cùng nhau khi tới cứu viện người," tôi đáp.
 
 "Đúng là vậy."
 
-"Vào thời điểm đó, chúng tôi chỉ lập một tổ đội tạm thời. Thông thường, chúng tôi làm việc riêng rẽ. Tôi và Lorraine hoạt động ở Maalt, trong khi Augurey lại hoạt động tại vương đô. Chúng tôi không phải là một tổ đội cố định, thưa Điện Hạ."
+"Hồi đó chúng tôi chỉ lập đội tạm thời thôi. Bình thường ai nấy đều làm việc riêng rẽ. Tôi với Lorraine hoạt động ở Maalt, còn Augurey thì ở vương đô. Chúng tôi không phải tổ đội cố định, thưa Điện Hạ."
 
-Công chúa gật đầu. Có vẻ như lời giải thích đó đã dập tắt nỗi thắc mắc trong lòng cô bé. Hẳn cô bé còn hàng loạt câu hỏi nối tiếp về chủ đề này, nhưng vì không muốn người đào sâu dò xét công chuyện của chúng tôi, tôi quyết định nói tiếp.
+Công chúa gật đầu. Có vẻ lời giải thích đó đã giải tỏa được thắc mắc trong lòng cô bé. Chắc hẳn cô bé vẫn còn hàng tá câu hỏi dồn theo sau, nhưng vì không muốn để người ta đào sâu dò xét việc riêng của mình, tôi quyết định nói tiếp.
 
 "Còn về chiếc mặt nạ đầu lâu..."
 
-Cô bé vỗ nhẹ hai bàn tay vào nhau đầy duyên dáng. "Phải rồi! Tôi đặc biệt tò mò về điều đó đấy!"
+Cô bé khẽ vỗ hai tay vào nhau đầy tao nhã. "Đúng rồi! Tôi tò mò chuyện đó nhất đấy!"
 
-Tôi đã thành công trong việc đánh trống lảng sang chuyện khác. Tôi chủ yếu muốn tránh phải trả lời lý do tại sao chúng tôi lại từ Maalt lặn lội lên vương đô. Tôi hoàn toàn có thể nói dối về chuyện đó, nhưng tôi muốn thành thật hết mức có thể. Tôi không muốn chúng tôi vướng vào rắc rối nếu họ phát hiện ra chúng tôi đang nói dối.
+Vậy là tôi đã đánh lạc hướng thành công. Mục đích chính của tôi là tránh phải trả lời vì sao mình lại từ Maalt đến vương đô. Bịa chuyện thì dễ thôi, nhưng tôi muốn giữ mọi thứ thành thật nhất có thể. Lỡ bị phát hiện nói dối thì rắc rối to.
 
-Dù vậy, công chúa dường như vô cùng hứng thú với chiếc mặt nạ của tôi. Tôi cho rằng điều đó cũng hợp lý thôi; mạo hiểm giả thường hay đeo mặt nạ, nhưng không mấy ai lại chọn một chiếc mặt nạ đầu lâu ghê rợn như thế này. Tôi chẳng dám khẳng định là không có ai, song tôi dám chắc đại đa số sẽ không làm vậy. Nhiều lắm thì tôi cũng chỉ từng thấy một hoặc hai người đeo nó đi dạo quanh Maalt.
+Dẫu vậy, xem ra công chúa tò mò chiếc mặt nạ của tôi ghê gớm. Nghĩ kỹ thì cũng phải; mạo hiểm giả đeo mặt nạ không hiếm, nhưng chẳng mấy ai lại chọn cái mặt nạ đầu lâu rợn người thế này. Tôi không dám bảo là tuyệt đối không có ai, nhưng dám chắc đại đa số sẽ tránh xa. Họa hoằn lắm tôi mới thấy một, hai người đeo thứ này đi loanh quanh ở Maalt.
 
-Thành thực mà nói, mặt nạ bình thường thì rất phổ biến—chẳng hạn như hình chim chóc, mèo, hay chó. Cũng có những chiếc kỳ dị hơn, như những chiếc mặt nạ cực kỳ trừu tượng chẳng hề có hoa văn hay đường nét rõ ràng nào, nhưng những mạo hiểm giả đeo loại đó đều là những kẻ lập dị. Tốt nhất là nên tránh xa họ nếu có thể.
+Thú thật thì mặt nạ bình thường rất phổ biến, như hình chim, mèo hay chó. Cũng có những kiểu quái lạ hơn, chẳng hạn như mấy cái mặt nạ trừu tượng chẳng ra hình thù hoa văn gì, nhưng đám mạo hiểm giả đeo thứ đó toàn là những kẻ lập dị. Tốt nhất là cứ tránh xa bọn họ ra cho lành.
 
-Khoan đã... Liệu điều đó có nghĩa là người đời cũng nhìn tôi theo cách như vậy không? Rất có khả năng là đúng như thế. Tôi chẳng rõ liệu mình có nên vui vẻ khi nhận ra điều đó về bản thân hay không, nhưng dù thế nào đi nữa, tôi vẫn cần phải nói tiếp.
+Khoan đã... Chẳng lẽ người ta cũng nhìn tôi bằng con mắt đó ư? Khả năng cao là đúng rồi. Tôi cũng không rõ mình có nên lấy làm vui khi nhận ra sự thật ấy về bản thân hay không, nhưng dẫu sao thì vẫn phải nói tiếp thôi.
 
-"Về chiếc mặt nạ của tôi... Tôi xin thứ lỗi, nhưng lý do tôi đeo nó thực ra chẳng có gì quá mức phức tạp đâu ạ."
+"Về chiếc mặt nạ của tôi... Thứ lỗi cho tôi, nhưng lý do đeo nó thực ra chẳng có gì phức tạp cả."
 
 "Vậy sao?"
 
-"Vâng. Khi tôi bị một vết thương trên mặt, tôi đã quyết định che nó lại cho đến khi có thể chữa lành bằng ma pháp trị liệu hoặc thuốc hồi phục. Tôi đã hỏi xin một chiếc mặt nạ phù hợp từ một người quen, và đây là chiếc mặt nạ mà người đó mang lại cho tôi."
+"Vâng. Hồi bị thương ở mặt, tôi quyết định che lại cho đến khi chữa lành được bằng ma pháp trị liệu hoặc thuốc hồi phục. Tôi có nhờ người quen tìm giúp một chiếc mặt nạ vừa vặn, và người ta đem lại cho tôi cái này."
 
-"Thế còn vết thương của anh?" công chúa gặng hỏi.
+"Thế còn vết thương của anh?" công chúa hỏi tới.
 
-Hẳn cô bé đang hỏi xem liệu vết thương có còn chưa lành hay không, nhưng câu trả lời cho điều này cũng đã quá rõ ràng.
+Chắc cô bé muốn hỏi xem vết thương đã lành hay chưa, mà câu trả lời cho chuyện này thì cũng rõ như ban ngày rồi.
 
 "Không, nó đã lành hẳn rồi, thưa Điện Hạ."
 
-Cô bé nghiêng đầu đầy nghi hoặc. "Thế thì tại sao..."
+Cô bé nghiêng đầu thắc mắc. "Thế thì tại sao..."
 
-"Có điều gì đó kỳ lạ ở chiếc mặt nạ này, và tôi không thể tháo nó ra được."
+"Chiếc mặt nạ này có điều kỳ lạ, tôi không tài nào tháo ra được."
 
-"Ý cậu bảo đó là một Nguyền Cụ sao?" Nauss chen ngang. Nhìn nét mặt của ông là đủ rõ ông không hề hài lòng khi thấy tôi mang thứ đó vào trong hoàng cung.
+"Ý cậu bảo đó là Nguyền Cụ sao?" Nauss chen ngang. Nhìn nét mặt là đủ biết ông chẳng hề vừa ý khi tôi đeo thứ đó vào tận hoàng cung.
 
-Tôi lắc đầu. "Không, có vẻ như không phải vậy. Nếu nó thực sự bị nguyền rủa, hẳn tôi đã chẳng thể đeo nó vào trong hoàng cung rồi, đúng không ạ?" Chúng tôi đang ở trong hoàng cung, thế nên ắt hẳn phải có hàng loạt biện pháp đối phó chống lại Nguyền Cụ mà những nơi khác không hề có.
+Tôi lắc đầu. "Không, xem chừng không phải vậy. Nếu thực sự mang lời nguyền, hẳn tôi đã chẳng thể đeo nó vào hoàng cung, đúng không thưa ngài?" Đây là hoàng cung, nơi ắt hẳn phải có vô số biện pháp đối phó Nguyền Cụ mà những chỗ khác không tài nào bì được.
 
-"Phải, quả đúng vậy. Dẫu thế, trên đời này chẳng có điều gì là tuyệt đối cả. Chuyện xảy ra từ khá lâu rồi, nhưng từng có mấy tên bất hảo mang một Nguyền Cụ hùng mạnh vào tận hoàng cung."
+"Đúng là thế. Có điều, trên đời chẳng có gì là tuyệt đối cả. Chuyện xảy ra từ lâu lắm rồi, nhưng từng có mấy kẻ bất hảo lọt được một Nguyền Cụ cực mạnh vào tận hoàng cung."
 
-"Tôi hoàn toàn không hề hay biết chuyện đó."
+"Chuyện đó thì tôi hoàn toàn không hay biết."
 
-Sự thực là ở đây tôi cũng chẳng khác nào một kẻ bất hảo. Tôi vốn là một ma vật. Việc tôi có thể đàng hoàng bước vào hoàng cung chứng tỏ rằng những trường hợp ngoại lệ vẫn có thể lọt qua các lớp phòng hộ. Dẫu vậy, Nauss chỉ đơn thuần đang miêu tả một ví dụ trong quá khứ, nên tôi bèn đinh ninh cho rằng ông chỉ đang nói về một ngoại lệ hiếm hoi.
+Thực tình mà nói, ở đây chính tôi cũng là một kẻ bất hảo. Tôi vốn là quái vật mà. Việc tôi vào được hoàng cung trót lọt chứng tỏ ngoại lệ vẫn có thể lọt qua hàng phòng hộ. Dẫu vậy, Nauss cũng chỉ đang nhắc lại một tiền lệ trong quá khứ, nên tôi cứ đinh ninh rằng ông đang nói về một trường hợp hiếm hoi.
 
-"Tuy nhiên, trường hợp của tôi lại không phải như vậy," tôi giải thích. "Và chiếc mặt nạ này... rõ ràng nó gần với một Thánh Cụ hơn."
+"Có điều, trường hợp của tôi lại không phải như vậy," tôi giải thích. "Còn chiếc mặt nạ này... xem chừng nó gần với Thánh Cụ hơn."
 
-"Một Thánh Cụ ư?" Nauss gặng hỏi.
+"Thánh Cụ ư?" Nauss hỏi lại.
 
-"Dù không có nhiều, nhưng cơ thể tôi được bao bọc bởi Thần Lực."
+"Tuy không nhiều nhặn gì, nhưng trong người tôi có Thần Lực."
 
-Nói đoạn, tôi phóng xuất một lượng nhỏ Thần Lực và khiến nó hiện rõ bằng mắt thường. Đây là điều tôi vừa mới học được cách làm gần đây, vào khoảng thời gian tôi lĩnh hội các bí kỹ Ma Cà Rồng. Tôi cảm thấy dường như có những nét tương đồng giữa chúng với Thần Lực, nhưng tôi chẳng thể nói rõ rốt cuộc chúng có điểm chung gì.
+Nói rồi, tôi phát ra một luồng Thần Lực nhỏ cho mắt thường thấy được. Đây là trò tôi mới học được gần đây, vào quãng thời gian luyện các bí kỹ Ma Cà Rồng. Tôi có cảm giác giữa hai thứ đó tồn tại điểm tương đồng, nhưng rốt cuộc giống nhau ở chỗ nào thì tôi chịu không nói rõ được.
 
 Nauss gật đầu. "Đó quả thực là ánh hào quang của Thần Lực."
 
-"Nó được ban cho tôi vì trong một phút bốc đồng, tôi đã quyết định tu sửa một ngôi đền đã đổ nát. Tinh linh của ngôi đền đã ban phước cho tôi bằng Thần Lực để tạ ơn. Đó là lý do vì sao nó lại yếu ớt đến thế. Nhưng tôi đã có dịp trò chuyện với vị tinh linh đó lần thứ hai, và khi tôi hỏi về chiếc mặt nạ, họ bảo tôi rằng nó tựa như một Thánh Cụ. Đáng tiếc là vị tinh linh cũng nói rằng họ không thể tiết lộ thêm chi tiết nào về nó nữa."
+"Tôi có được nó là do một bận nổi hứng tu sửa ngôi đền hoang phế. Tinh linh của ngôi đền đã ban phước Thần Lực để tạ ơn. Vì thế nên nó mới yếu ớt vậy. Sau đó tôi có dịp nói chuyện với vị tinh linh lần thứ hai, khi hỏi về chiếc mặt nạ thì người bảo nó tương tự như một Thánh Cụ. Tiếc là vị tinh linh cũng bảo không thể nói chi tiết hơn được nữa."
 
-Trong thâm tâm tôi vẫn muốn có một lời giải thích cặn kẽ hơn từ vị tinh linh, nhưng thần linh và tinh linh vốn tính khí thất thường. Tôi đơn giản là chẳng thể làm gì được trước chuyện đó.
+Bản thân tôi cũng muốn nghe vị tinh linh giải thích ngọn ngành hơn, nhưng thần linh và tinh linh vốn tính khí thất thường. Tôi cũng đành chịu chứ biết làm sao.
 
-"Một Thánh Cụ sao..." Rõ ràng là kinh ngạc trước lời giải thích của tôi, công chúa nhìn về phía tôi đầy tò mò. Khoan đã, ánh mắt của cô bé không chỉ đơn thuần là tò mò.
+"Thánh Cụ sao..." Rõ ràng sững sờ trước lời tôi giải thích, công chúa tò mò nhìn về phía tôi. Khoan đã, ánh mắt cô bé không chỉ dừng lại ở tò mò.
 
 "Nauss, chuyện này có lẽ là..."
 
-Điện Hạ bèn liếc nhìn Nauss, người lập tức thấu hiểu được thông điệp nào đó từ ánh mắt của cô bé. Tôi có thể nhận thấy hai người họ đang trao đổi qua nét mặt, nhưng tôi chịu không thể đoán ra chính xác họ đang muốn nói gì. Tôi quay sang nhìn Lorraine và Augurey, song họ cũng hoang mang chẳng kém gì tôi. Tôi nhắc tới vị tinh linh và chiếc mặt nạ chỉ vì chuyện tinh linh chẳng có gì khác thường và bản thân tôi cũng không biết quá nhiều về chiếc mặt nạ, nhưng tôi tự hỏi liệu mình có lỡ lời nói điều gì sai quấy chăng.
+Điện Hạ liếc nhìn Nauss, và ông lập tức bắt được tín hiệu từ ánh mắt của cô bé. Tôi thấy rõ hai người đang ngầm trao đổi bằng nét mặt, nhưng chịu không đoán ra họ muốn nói gì. Tôi quay sang nhìn Lorraine và Augurey, song cả hai cũng ngơ ngác chẳng kém tôi. Tôi nhắc tới vị tinh linh và chiếc mặt nạ chỉ vì chuyện tinh linh vốn chẳng có gì lạ và tôi cũng mù tịt về chiếc mặt nạ, nhưng không biết mình có lỡ miệng nói điều gì thất thố không.
 
 ◆◇◆◇◆
 
-Sau khi trao đổi ánh mắt với Nauss, công chúa quay sang chúng tôi rồi cúi đầu. "Tôi có một thỉnh cầu gửi tới ba vị. Xin hãy giúp đỡ tôi, được không?"
+Trao đổi ánh mắt với Nauss xong, công chúa quay sang chúng tôi rồi cúi đầu. "Tôi có một lời thỉnh cầu gửi tới cả ba. Xin mọi người hãy giúp tôi, được không?"
 
-Dù Yaaran là một vương quốc tương đối bình dị, chế độ giai cấp ở đây vẫn khắt khe chẳng kém bất kỳ nơi nào khác. Trong khi tầng lớp hạ quý tộc thỉnh thoảng có thể hòa nhập với thường dân gần như bình đẳng, và đâu đó một đại quý tộc lập dị có thể làm những chuyện như vào núi đốn củi cùng thần dân của mình, thì một thành viên hoàng gia tuyệt đối sẽ không cúi đầu trước vài mạo hiểm giả để cầu xin giúp đỡ. Bất chấp sự thật ấy, nàng công chúa lúc này lại đang làm đúng như thế.
+Dù Yaaran là một vương quốc khá cởi mở, chế độ giai cấp ở đây vẫn nghiêm ngặt chẳng kém nơi nào. Tầng lớp hạ quý tộc thi thoảng có thể hòa đồng với thường dân như thể ngang vai, họa hoằn lắm mới có một đại quý tộc lập dị lên núi đốn củi cùng thần dân, chứ thành viên hoàng gia thì đời nào lại cúi đầu cầu cứu mấy mạo hiểm giả. Vậy mà lúc này, công chúa lại đang làm đúng chuyện đó.
 
-Cả ba chúng tôi đều phản ứng bằng một thoáng hoảng hốt nhẹ.
+Cả ba chúng tôi đều thoáng chốc cuống cuồng.
 
-"Xin Điện Hạ hãy ngẩng đầu lên ạ!" tôi thốt lên, thế nhưng công chúa vẫn kiên quyết giữ nguyên tư thế. Phải mất một lúc cô bé mới chịu ngẩng đầu lên sau cái cúi chào.
+"Xin Điện Hạ hãy ngẩng đầu lên!" tôi thốt lên, nhưng công chúa vẫn kiên quyết giữ nguyên tư thế. Mãi một lúc sau cô bé mới chịu ngẩng đầu lên.
 
-Tôi dám chắc chuyện này sẽ mang cả một núi rắc rối ập xuống đầu chúng tôi, nhưng tôi chẳng thể làm gì để ngăn nó lại. Điều duy nhất tôi có thể làm là thầm cảm tạ vì cô bé đã không cố gắng dùng quyền uy của mình để ép buộc chúng tôi phải làm điều gì đó cho người.
+Tôi dám chắc phen này một núi rắc rối sắp đổ ập xuống đầu cả đám, nhưng chẳng có cách nào ngăn lại được. Điều duy nhất tôi có thể làm là thầm thấy may vì cô bé không dùng quyền uy để ép chúng tôi phải làm việc cho người.
 
-"Tuy chúng tôi rất sẵn lòng giúp đỡ, thưa Điện Hạ," Augurey mở lời, "nhưng chúng tôi chắc chắn không thể nhận lời trừ phi biết rõ điều người muốn thỉnh cầu ở chúng tôi là gì. Hẳn Điện Hạ sẽ chẳng yêu cầu chúng tôi đi tìm điểm tận cùng của cầu vồng, hay mang phân Rồng về đấy chứ. E rằng những việc đó nằm ngoài khả năng của cả chúng tôi."
+"Dù chúng tôi rất sẵn lòng giúp, thưa Điện Hạ," Augurey lên tiếng, "nhưng chắc chắn không thể tùy tiện nhận lời khi chưa rõ người muốn nhờ việc gì. Hẳn Điện Hạ sẽ chẳng bắt chúng tôi đi tìm chân cầu vồng hay tha phân Rồng về đấy chứ? E là mấy chuyện đó thì quá sức cả lũ chúng tôi rồi."
 
-Augurey đã cố gắng xoa dịu bầu không khí căng thẳng bằng chút hài hước. Điểm tận cùng của cầu vồng thì không đời nào tìm thấy rồi, còn về phân Rồng, tôi đoán là nó đâu phải không tồn tại nhỉ? Xét về mặt lý thuyết, có khi tôi cũng có thể được xếp vào diện đó. Tôi chẳng biết mình bị tống ra ngoài từ ngả nào sau khi bị nuốt chửng, nên hoàn toàn có khả năng đó chính là lối thoát của tôi. Dù sao thì tôi cũng không nên để suy nghĩ của mình trôi dạt tới tận nơi đó.
+Augurey đang cố pha trò để làm dịu bầu không khí. Chân cầu vồng thì đời nào tìm ra, còn phân Rồng thì... bảo là không tồn tại cũng không hẳn nhỉ? Nói cho cùng, khéo tôi cũng có thể xếp vào diện đó. Bị nuốt chửng xong tôi đâu biết mình bị tống ra từ ngả nào, nên hoàn toàn có khả năng đó chính là lối thoát của tôi. Mà thôi, tốt nhất đừng để đầu óc bay bổng tới tận chỗ đó.
 
-"Phải, tôi nghĩ anh nói đúng. Tôi xin lỗi. Tôi đã để sự nóng vội lấn át mất rồi," công chúa lẩm bẩm.
+"Phải rồi, anh nói đúng. Xin lỗi các anh, tôi để sự nóng vội lấn át mất," công chúa lí nhí.
 
-"Điện Hạ không cần phải xin lỗi đâu ạ. Dẫu vậy, xem ra việc Rentt nhắc tới chiếc mặt nạ của cậu ấy như một Thánh Cụ chính là điều đã thu hút sự chú ý của người."
+"Điện Hạ không cần bận lòng đâu. Cơ mà xem ra, việc Rentt nhắc chiếc mặt nạ là Thánh Cụ mới là điều khiến người để tâm thì phải."
 
-Augurey khéo léo tiếp tục dẫn dắt cuộc trò chuyện. Anh ta nói đúng, và chính vào khoảng thời gian đó, cuộc hội thoại, hay đúng hơn là bầu không khí, đã rẽ sang một hướng bất thường.
+Augurey khéo léo gỡ rối và dẫn dắt câu chuyện. Anh ta nói chẳng sai, và chính vào lúc ấy, cuộc trò chuyện, hay đúng hơn là bầu không khí trong phòng, bắt đầu trở nên khác lạ.
 
-"Tôi e rằng đây sẽ là một câu chuyện tương đối dài. Liệu các vị có sẵn lòng lắng nghe tôi kể lại không?" công chúa hỏi.
+"Tôi e đây sẽ là một câu chuyện khá dài. Liệu mọi người có sẵn lòng lắng nghe tôi kể không?" công chúa hỏi.
 
-Cả ba chúng tôi không chút chần chừ mà gật đầu ngay lập tức. Đằng nào chúng tôi cũng chẳng có sự lựa chọn nào khác, và việc không lắng nghe lúc này có thể sẽ chuốc lấy rắc rối về sau. Người ta có thể lập luận rằng lắng nghe mới là khởi đầu của rắc rối, nhưng một khi đã đứng ở chốn này, chúng tôi chẳng còn cách nào khác ngoài việc tìm hiểu xem rốt cuộc chuyện gì đang xảy ra.
+Cả ba chúng tôi gật đầu cái rụp. Đằng nào cũng đâu còn lựa chọn nào khác, mà từ chối không nghe lúc này thì khéo về sau lại rước họa vào thân. Có người sẽ bảo nghe rồi mới chuốc vạ, nhưng một khi đã đứng ở đây, chúng tôi buộc phải tìm hiểu xem rốt cuộc chuyện gì đang xảy ra.
 
 "Xin người cứ nói," Augurey đáp.
 
@@ -160,32 +160,32 @@ Cả ba chúng tôi không chút chần chừ mà gật đầu ngay lập tức.
 
 "Mọi người có biết về Bệ Hạ, quốc vương đương nhiệm của Yaaran không?" công chúa hỏi.
 
-"Có, Bệ Hạ Karsten Reshon Yaaran," Lorraine trả lời. "Tôi tin rằng tính đến năm nay, người đã sáu mươi lăm tuổi."
+"Có chứ, Bệ Hạ Karsten Reshon Yaaran," Lorraine đáp. "Theo tôi biết thì tính đến năm nay, người đã sáu mươi lăm tuổi."
 
 "Cô nói đúng."
 
-Đúng là Lorraine, không chỉ nắm rõ tên tuổi mà ngay cả số tuổi của Bệ Hạ cô ấy cũng tường tận. Dẫu vậy, sáu mươi lăm tuổi đã là tương đối cao rồi. Phần lớn các vị vua đều băng hà trước khi chạm tới tuổi lục tuần và rất hiếm khi là do nguyên nhân tự nhiên. Những người thọ tận mạng chung vì tuổi già chỉ là số ít may mắn. Dẫu vậy, một tỷ lệ không nhỏ các vị vua của Yaaran đã tạ thế do tuổi già hoặc bệnh tật thực sự—chứ không phải bị đầu độc dưới vỏ bọc bệnh tật. Đương nhiên, thông tin này do chính triều đình công bố, nên đối với những thường dân thấp cổ bé họng như chúng tôi, không thể nào biết chắc liệu sự thực có đúng là như thế hay không.
+Quả đúng là Lorraine, không chỉ biết tên mà ngay cả tuổi của Bệ Hạ cô ấy cũng nắm rõ. Dẫu vậy, sáu mươi lăm thì tuổi tác cũng đã cao. Đa phần các bậc quân vương đều băng hà trước lục tuần, và rất hiếm khi do nguyên nhân tự nhiên. Những người thọ đến già mà mất chỉ là số ít may mắn. Dù vậy, không ít vị vua của Yaaran tạ thế do tuổi cao sức yếu hoặc bệnh tật thực sự, chứ không phải bị đầu độc đội lốt bệnh tật. Hiển nhiên thông tin này do chính triều đình công bố, nên đám thường dân như chúng tôi chịu không thể biết được thực hư ra sao.
 
-"Người vốn dĩ vẫn còn rất tráng kiện," công chúa giải thích, "và vẫn luôn nhiệt thành gánh vác các trọng trách của một đấng quân vương. Người ta từng kỳ vọng người sẽ tiếp tục trị vì như thế, và người ta bảo rằng người sẽ còn tại vị thêm mười năm nữa."
+"Bệ Hạ vốn dĩ vẫn rất khang kiện," công chúa giải thích, "và luôn nhiệt tâm gánh vác trọng trách của một đấng quân vương. Ai nấy đều hy vọng người sẽ tiếp tục như thế, và người ta còn bảo người sẽ tại vị thêm chục năm nữa."
 
-Thôi xong rồi. Cô bé sắp sửa nói ra điều gì đó mà thường dân bình thường như chúng tôi không được phép biết. Dẫu vậy, chúng tôi chẳng thể làm gì để ngăn cô bé lại, nên đành cam chịu đón nhận điều tất yếu khi công chúa nói tiếp.
+Thôi chết rồi. Cô bé sắp nói ra điều mà dân thường như chúng tôi không được phép biết. Cơ mà chúng tôi chẳng cách nào cản lại được, nên đành phó mặc cho số phận khi công chúa tiếp lời.
 
-"Tuy nhiên gần đây, long thể của Bệ Hạ đã chuyển biến xấu đi nghiêm trọng, và nếu mọi chuyện cứ tiếp diễn theo chiều hướng hiện tại, người có lẽ sẽ không thể qua khỏi năm nay."
+"Có điều gần đây, long thể của Bệ Hạ suy sụp nghiêm trọng, và nếu cứ đà này, e là người khó lòng qua nổi năm nay."
 
-Và giờ chúng tôi đã biết điều đó, đồng nghĩa với việc chúng tôi không thể rời khỏi hoàng cung được nữa. Họ sẽ xiềng xích chúng tôi trong ngục tối nào đó, và chúng tôi sẽ phải trải qua phần đời còn lại trong nước mắt khi bị tống cho những mẩu bánh mì ôi thiu, khó nuốt. Ít nhất thì đó là viễn cảnh lóe lên trong đầu tôi, nhưng tôi đoán chúng tôi chẳng cần phải lo lắng về điều đó. Nếu họ thực sự định làm vậy, thì tốt hơn hết ngay từ đầu cứ việc không hé môi nửa lời với chúng tôi có phải dễ dàng hơn không.
+Thế là chúng tôi đã biết, đồng nghĩa với việc hết đường rời khỏi hoàng cung. Họ sẽ tống cả bọn vào ngục tối xích lại, rồi chúng tôi sẽ phải khóc ròng suốt phần đời còn lại bên những mẩu bánh mì khô khốc, mốc meo. Ít nhất thì đó là viễn cảnh vừa lóe lên trong đầu tôi, cơ mà chắc chưa đến mức phải lo chuyện ấy. Nếu định làm thật thì thà ngay từ đầu đừng tiết lộ gì cho chúng tôi có phải nhẹ nợ hơn không.
 
-Dĩ nhiên, nếu chúng tôi khước từ thỉnh cầu của Điện Hạ, chúng tôi có thể sẽ phải chịu cảnh sống như thế, chí ít là cho tới khi quốc vương băng hà. Dẫu vậy, có lẽ chúng tôi vẫn sẽ ổn thôi. Trong trường hợp xấu nhất, chúng tôi chỉ cần thoát ra khỏi hoàng cung, rồi sử dụng ma pháp dịch chuyển tức thời để đào tẩu sang một đất nước khác. Chúng tôi thừa biết một vương quốc với quy mô cỡ Yaaran khó lòng đuổi cùng giết tận những kẻ đã trốn ra khỏi biên cương. Có lẽ tôi đang đánh giá hơi thấp năng lực của Yaaran, nhưng tôi không nghĩ chúng tôi có giá trị lớn đến mức đáng để họ phải bỏ ra ngần ấy công sức.
+Dĩ nhiên, nếu từ chối thỉnh cầu của Điện Hạ, có khi chúng tôi sẽ phải sống trong cảnh ấy thật, chí ít là cho tới ngày quốc vương băng hà. Cơ mà chắc chúng tôi vẫn xoay xở được thôi. Tệ nhất thì chỉ cần thoát ra khỏi hoàng cung, rồi dùng ma pháp Dịch Chuyển Tức Thời chuồn sang nước khác. Chúng tôi thừa biết một đất nước cỡ Yaaran khó lòng lùng bắt được người đã trốn ra khỏi biên giới. Có thể tôi hơi coi nhẹ thực lực của Yaaran, nhưng tôi không nghĩ mấy đứa chúng tôi lại đáng giá đến mức họ phải bỏ ngần ấy công sức ra truy lùng.
 
-"Rốt cuộc nguyên nhân là do đâu?" Lorraine hỏi. Cô ấy gặng hỏi như vậy chính là vì điều đó sẽ giúp chúng tôi nắm được mấu chốt của vấn đề—những gì Điện Hạ muốn chúng tôi thực hiện. Dẫu vậy, tôi hoàn toàn chẳng có manh mối nào về việc chúng tôi có thể dính líu đến chuyện này ra sao.
+"Rốt cuộc nguyên do là từ đâu?" Lorraine hỏi. Cô ấy hỏi thẳng vào điểm này cốt để chúng tôi nắm được mấu chốt vấn đề: rốt cuộc Điện Hạ muốn chúng tôi làm gì. Riêng tôi thì vẫn mịt mù, chẳng rõ bọn tôi có thể dính dáng gì tới chuyện này.
 
-Điện Hạ tránh né trả lời thẳng vào câu hỏi của Lorraine mà thay vào đó cất lời: "Tại vương quốc này, một vị tân vương muốn kế vị ngai vàng bắt buộc phải thừa kế hai vật phẩm: vương miện của vương quốc và quyền trượng của vương quốc."
+Điện Hạ tránh trả lời thẳng vào câu hỏi của Lorraine, cô bé chỉ nói: "Ở vương quốc này, một tân vương muốn đăng cơ bắt buộc phải thừa kế hai bảo vật: vương miện và quyền trượng của vương quốc."
 
-"Vâng, tôi từng nhìn thấy chúng trước đây rồi," Augurey xen vào, "khi chúng được trưng bày tại ngôi đền. Tôi cũng nhớ rằng vương miện là một tuyệt tác thủ công tinh xảo. Mặt khác, quyền trượng lại giản dị đến bất ngờ đối với một bảo vật quốc gia."
+"Vâng, tôi từng thấy chúng rồi," Augurey góp lời, "hồi chúng được trưng bày ở đền thờ. Tôi nhớ vương miện là một tuyệt tác thủ công cực kỳ tinh xảo. Còn quyền trượng, ngược lại, lại đơn sơ đến bất ngờ đối với một bảo vật quốc gia."
 
-"Phải, đúng là như vậy. Chiếc vương miện được Người Lùn chế tác từ thời xa xưa, nhưng quyền trượng lại là món quà trao tặng từ các High Elf."
+"Phải, đúng là thế. Vương miện do Người Lùn chế tác từ thuở xa xưa, còn quyền trượng lại là quà tặng từ tộc High Elf."
 
-High Elf là tộc cai trị Vùng Đất Cổ Thánh Thụ, và địa vị của họ ở nơi đó tương đương với hoàng tộc. Tuy nhiên, dẫu một thành viên hoàng gia của loài người có đặc biệt đến đâu, họ vẫn chỉ là con người giống hệt như một thường dân bình thường. High Elf lại khác biệt ở chỗ họ là một chủng tộc riêng biệt được xem là thượng đẳng hơn so với tộc Elf mà họ cai trị. Hơn nữa, High Elf sống thọ một cách phi thường. Họ chính là những chứng nhân lịch sử sống, khiến sự tồn tại của họ tự thân đã vô cùng quý giá.
+Tộc High Elf cai trị Vùng Đất Cổ Thánh Thụ, địa vị của họ ở đó tương đương với hoàng gia. Có điều, dẫu thành viên hoàng tộc loài người có đặc biệt đến đâu, xét cho cùng họ cũng chỉ là con người như bao thường dân khác. High Elf thì khác, họ là một chủng tộc riêng biệt được coi là vượt trội hơn tộc Elf mà họ cai trị. Thêm nữa, High Elf có tuổi thọ dài đến kinh ngạc. Họ như những mối dây liên kết sống nối liền với lịch sử, khiến bản thân sự tồn tại của họ đã vô giá.
 
-Dẫu vậy, nếu nhìn lại dòng chảy lịch sử, người ta sẽ nhận thấy rằng con người từng xung đột với High Elf trong quá khứ. Một lần là khi loài người cố gắng bắt tộc Elf làm nô lệ. Họ cũng từng giao chiến vì những tranh chấp tôn giáo, vốn kết thúc bằng việc các tôn giáo của loài người tuyên bố rằng High Elf thấp kém hơn con người. Nói một cách nhẹ nhàng thì mối quan hệ giữa con người và High Elf là một chuỗi ngày dài đầy phức tạp. Dẫu sao thì không còn nghi ngờ gì nữa, họ là những nghệ nhân bậc thầy trong việc chế tác ma cụ, và những bảo vật quý giá xuất xứ từ tay các nghệ nhân ấy nằm rải rác khắp nơi trên thế giới. Quyền trượng của Vương Quốc Yaaran hẳn phải là một trong những bảo vật như thế.
+Dẫu vậy, lật lại lịch sử sẽ thấy con người từng không ít lần giao chiến với High Elf. Từng có bận loài người mưu toan biến tộc Elf thành nô lệ. Hai bên cũng từng xảy ra chiến tranh vì tranh chấp tôn giáo, kết cục là các giáo hội của loài người tuyên xưng High Elf thấp kém hơn nhân loại. Nói nhẹ nhất thì mối quan hệ giữa con người và High Elf là một chặng đường dài đầy phức tạp. Dù vậy, không thể phủ nhận họ là những nghệ nhân chế tác ma cụ cừ khôi, và những bảo vật do các nghệ nhân ấy tạo ra hiện rải rác khắp thế giới. Quyền trượng của Vương Quốc Yaaran hẳn cũng là một trong số đó.
 
-"Vậy thì quyền trượng có liên quan gì đến long thể của Bệ Hạ?" Lorraine hỏi.
+"Thế quyền trượng thì liên quan gì đến long thể của Bệ Hạ?" Lorraine hỏi.
