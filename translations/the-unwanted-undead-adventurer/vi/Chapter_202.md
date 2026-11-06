@@ -1,115 +1,115 @@
 # Chương 202: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)
 
-Vì Isaac đã đồng ý sẽ dạy cho chúng tôi thêm các kỹ năng Ma Cà Rồng, chúng tôi quyết định chuyện đó có thể gác lại cho đến sau khi tới báo cáo với Hội. Nếu chúng tôi chần chừ quá lâu, chắc chắn Wolf sẽ đứng ngồi không yên.
+Isaac đã đồng ý sẽ dạy thêm cho chúng tôi các kỹ năng của Ma Cà Rồng, nên chuyện đó cứ để sau khi tới Hội báo cáo rồi tính. Chứ để lâu quá, chắc chắn Wolf sẽ đứng ngồi không yên.
 
-Maalt vốn đã quay trở lại nhịp sống thường nhật, nên có lẽ đây không hẳn là một nhiệm vụ cấp bách, nhưng tôi vẫn muốn giải quyết nó càng sớm càng tốt. Chúng tôi cũng đã rà soát trước những sơ hở có thể xuất hiện trong câu chuyện của mình, nên chắc sẽ ổn thỏa cả thôi. Về phần Isaac, chúng tôi quyết định anh ta sẽ không đi cùng. Nive hẳn vẫn còn ở đó, và cô ta sở hữu một tài năng đáng kinh ngạc trong việc vạch mặt Ma Cà Rồng. Giây phút cô ta chạm trán Isaac, cô ta sẽ chào đón anh ta bằng Thánh Hỏa ngay tắp lự.
+Maalt đã quay trở lại nhịp sống thường nhật, nên đây có lẽ cũng chẳng phải việc gì quá gấp gáp, nhưng tôi vẫn muốn lo cho xong càng sớm càng tốt. Cả nhóm cũng đã rà soát kỹ những sơ hở có thể có trong câu chuyện dựng sẵn, nên chắc sẽ ổn cả thôi. Còn về Isaac, chúng tôi quyết định anh ấy sẽ không đi cùng. Nive có lẽ vẫn còn ở đó, mà khoản lùng bắt vạch mặt Ma Cà Rồng của cô ấy thì khỏi phải bàn. Chỉ cần vừa chạm mặt Isaac, thể nào cô ấy cũng chào đón anh bằng Thánh Hỏa ngay tắp lự.
 
-Điều tương tự cũng có thể áp dụng cho Rina, nhưng giống như tôi, cô ấy không hề tỏ ra khó chịu trước Thần Lực. Với những Ma Cà Rồng thông thường, Thần Lực không đến mức khiến họ bốc hơi ngay lập tức. Họ vẫn có thể hồi phục sau những vết thương do nó gây ra, nhưng sẽ mất nhiều thời gian hơn, và họ sẽ bị bỏng nhẹ chỉ vì tiếp xúc với nó. Vì Rina không phải chịu bất kỳ tác động nào như vậy khi vận chuyển Thần Lực, nên có khả năng Thánh Hỏa của Nive sẽ không thể vạch trần cô.
+Rina lẽ ra cũng thế, nhưng giống như tôi, cô ấy chẳng hề thấy khó chịu trước Thần Lực. Với Ma Cà Rồng thông thường, Thần Lực chưa đến mức khiến họ bốc hơi ngay tức khắc. Vết thương do nó gây ra vẫn có thể hồi phục, có điều mất nhiều thời gian hơn, và chỉ chạm phải thôi là đã bị bỏng nhẹ rồi. Vì Rina không hề bị ảnh hưởng như thế khi dẫn truyền Thần Lực, nên nhiều khả năng Thánh Hỏa của Nive cũng chẳng làm cô lộ tẩy.
 
-Tốt nhất là Nive đừng làm thế, nhưng cô ta đâu phải kiểu người chịu lắng nghe dù tôi có bảo đừng làm vậy đi chăng nữa. Chừng nào chúng tôi còn ở trong thành phố, chúng tôi chẳng thể nào hoàn toàn tránh khỏi việc tình cờ chạm mặt cô ta nếu cô ta vẫn còn quanh quẩn ở đây. Nếu quả thực như vậy, tôi cần phải ở bên cạnh Rina khi chúng tôi giáp mặt cô ta. Dù chuyện gì xảy ra đi nữa, hai chúng tôi cũng sẽ cùng nhau gánh vác.
+Dĩ nhiên tốt nhất là Nive đừng làm thế, nhưng cô ấy đâu phải kiểu người chịu nghe lời kể cả khi tôi có can. Chừng nào còn ở trong thành phố và cô ấy vẫn chưa rời đi, chúng tôi khó lòng tránh khỏi chuyện tình cờ đụng mặt. Đã vậy thì khi giáp mặt Nive, tôi nhất định phải ở cạnh Rina. Dù có chuyện gì xảy ra, hai chúng tôi cũng sẽ cùng nhau đối mặt.
 
-"Xét về mọi mặt thì tình trạng hỗn loạn không đến mức nghiêm trọng như tôi tưởng," tôi vừa nói vừa cùng mọi người tiến về phía Hội.
+"Tính ra thì cũng chẳng hỗn loạn như tôi tưởng," tôi nói trên đường cả nhóm tiến về phía Hội.
 
-Sau những gì đã xảy ra, tôi cứ ngỡ cư dân trong thành phố vẫn sẽ còn hoảng loạn hay bàng hoàng. Thế nhưng theo những gì tôi thấy, chẳng hề có dấu hiệu nào của điều đó. Vẻ mặt họ không có vẻ gì là u ám cho lắm, và họ hành xử y như sau một trận thiên tai bình thường chẳng hạn như động đất hay cuồng phong. Họ đang sửa sang lại các công trình và dọn dẹp đống đổ nát do đám quái vật, Thi Quỷ cùng các mạo hiểm giả gây ra. Mọi chuyện dấy lên một cảm giác có chút kỳ quặc.
+Sau những biến cố vừa rồi, tôi cứ ngỡ dân chúng trong thành phố vẫn còn hoảng loạn hay bàng hoàng lắm. Thế nhưng theo mắt tôi thấy, chẳng có chút dấu hiệu nào như vậy cả. Trông mặt mũi ai nấy cũng không quá u ám, họ cư xử hệt như vừa trải qua một đợt thiên tai bình thường kiểu động đất hay bão táp. Mọi người cặm cụi sửa sang nhà cửa và thu dọn đống đổ nát do quái vật, Thi Quỷ cùng các mạo hiểm giả gây ra. Càng nhìn lại càng thấy có gì đó hơi là lạ.
 
-"Trò chuyện với người dân trong thành phố sẽ giúp anh làm sáng tỏ điều đó đấy," Lorraine gợi ý.
+"Anh cứ hỏi chuyện mấy người dân trong thành là hiểu ngay ấy mà," Lorraine gợi ý.
 
-Câu nói của cô có phần mập mờ, nhưng tôi quyết định nghe theo lời khuyên của cô và tiến lại gần một người dân đang đi ngang qua.
+Lời cô nói nghe hơi úp mở, nhưng tôi vẫn quyết định làm theo và bước tới bắt chuyện với một người đi đường.
 
-"À, chuyện đó ấy à. Nghe đâu có một mê cung mới xuất hiện dưới lòng thành phố, đúng không? Nhưng quái vật cũng chẳng mấy khi tràn ra ngoài đâu. Thôi thì cứ coi như gặp vận rủi vậy."
+"À, chuyện đó hả. Nghe bảo dưới lòng thành phố mới xuất hiện mê cung gì đó phải không? Nhưng quái vật cũng đâu có hay tràn ra ngoài lắm. Chậc, coi như xui xẻo thôi."
 
-Tôi hỏi một người dân khác, và họ đáp: "Quái vật hả? Nghe bảo có một lũ tràn ra từ mê cung. Tôi có biết vài người xấu số trở thành nạn nhân của chúng, nhưng chuyện đã vậy rồi thì biết làm sao được. Vả lại sắp tới sẽ có khoản tiền cứu tế từ lãnh chúa. Chừng đó là đủ để sửa sang lại cửa tiệm rồi, nên cũng chẳng có gì to tát cả."
+Tôi hỏi một người khác, người ta đáp: "Quái vật hả? Nghe bảo có lũ quái tràn ra từ mê cung. Tôi cũng biết vài người xấu số bỏ mạng vì chúng, nhưng chuyện đã rồi thì biết làm sao. Vả lại sắp tới có tiền trợ cấp từ ngài lãnh chúa nữa. Chừng đó cũng đủ để sửa sang lại cửa tiệm rồi, nên chẳng có gì to tát cả."
 
-Một người khác lại nói: "Lũ quái vật đã cướp đi chồng tôi. Nhưng tôi chắc chắn ông ấy đã chiến đấu để bảo vệ mẹ con tôi. Tôi chỉ cần khắc ghi điều đó và tiếp tục sống, vì ông ấy. Phụ nữ Maalt kiên cường lắm."
+Một người khác nữa thì bảo: "Nhà tôi bị lũ quái vật hại chết rồi. Nhưng tôi tin chắc ông ấy đã chiến đấu tới cùng để bảo vệ gia đình. Tôi chỉ cần nhớ lấy điều đó mà ráng sống tiếp vì ông ấy thôi. Phụ nữ Maalt này cứng cỏi lắm đấy."
 
-Tất cả những người tôi hỏi han đều cho thấy thành phố đã phải chịu rất nhiều thiệt hại, nhưng...
+Ai được tôi hỏi chuyện cũng nói rõ là thành phố chịu thiệt hại nặng nề, thế nhưng...
 
-"Không một ai trong số họ đả động gì đến việc người dân trong thành phố bị biến thành quái vật cả."
+"Chẳng một ai nhắc gì đến chuyện người dân trong thành bị biến thành quái vật cả."
 
-Khi mê cung xuất hiện, nó đã biến không ít cư dân Maalt thành quái vật. Các mạo hiểm giả chẳng còn lựa chọn nào khác ngoài việc phải hạ sát họ, nhưng họ làm điều đó với vẻ mặt đầy đau đớn. Đó là những sự thật hiển nhiên. Vậy mà chẳng một ai trong thành phố nhắc đến chuyện ấy. Phải chăng điều đó quá đỗi bi thương nên không ai nỡ mở lời?
+Khi mê cung xuất hiện, nó đã biến không ít cư dân Maalt thành quái vật. Các mạo hiểm giả bất đắc dĩ phải xuống tay hạ sát họ trong đau đớn xót xa. Đó là sự thật rành rành không thể chối cãi. Vậy mà chẳng một ai trong thành phố nhắc tới chuyện ấy. Chẳng lẽ bi kịch đó đau lòng tới mức không ai nỡ hé môi sao?
 
-Trong lúc tôi đang mải cân nhắc các khả năng trong đầu, Lorraine nói thêm: "Tóm lại thì sự thể là như vậy đấy. Dường như chẳng ai nhớ việc có những người đồng hương của họ đã bị biến thành quái vật cả. Họ chỉ nghĩ rằng quái vật ồ ạt tràn ra từ mê cung rồi giết chết những người đó."
+Trong lúc tôi còn mải suy đoán, Lorraine bồi thêm: "Tóm gọn lại là thế đấy. Dường như chẳng ai nhớ chuyện đồng bào trong thành bị biến thành quái vật cả. Họ chỉ đinh ninh rằng lũ quái vật tràn ra từ mê cung đã giết chết những người đó thôi."
 
-"Nhưng chị và anh Rentt vẫn nhớ những gì đã xảy ra, đúng không ạ?" Rina lên tiếng. "Kỳ lạ thật đấy. Cả Isaac cũng nhớ nữa."
+"Nhưng chị với anh Rentt vẫn nhớ những chuyện đã xảy ra, đúng không?" Rina thắc mắc. "Lạ thật đấy. Cả anh Isaac cũng nhớ nữa mà."
 
-Cô ấy nói đúng. Tôi và Lorraine có thể nhớ lại những sự kiện đó một cách rành rọt. Vậy mà...
+Cô ấy nói chẳng sai. Tôi và Lorraine đều nhớ như in mọi chuyện. Thế nhưng...
 
-Lorraine tiếp tục: "Isaac tin rằng đó là nhờ nỗ lực của Laura với tư cách là Chủ Nhân Mê Cung. Người dân có thể chấp nhận sự thật rằng quái vật đã tấn công và giờ đây có một mê cung nằm dưới thành phố của họ, nhưng họ không thể chấp nhận việc chính người thân và bạn bè của mình lại biến thành quái vật rồi quay sang tấn công họ. Vì thế Laura đã thực hiện vài chỉnh sửa nhỏ trong ký ức của họ. Nghe đâu những Chủ Nhân Mê Cung hùng mạnh có thể làm được điều đó. Quả thực đó là một sự thật khá đáng sợ, nhưng có lẽ vào thời điểm này thì như thế lại là tốt nhất."
+Lorraine tiếp tục: "Isaac cho rằng đó là do Laura đã ra tay can thiệp với tư cách Chủ Nhân Mê Cung. Người dân có thể chấp nhận chuyện quái vật tấn công và dưới lòng thành phố giờ đây có một mê cung, nhưng họ khó lòng nuốt trôi sự thật rằng chính người thân, bạn bè mình lại hoá thành quái vật rồi quay sang cắn xé họ. Thế nên Laura mới sửa đổi đôi chút ký ức của họ. Xem ra những Chủ Nhân Mê Cung hùng mạnh hoàn toàn có thể làm được điều đó. Nghĩ kỹ thì đây quả là chuyện khá rợn người, nhưng có lẽ lần này làm vậy lại là tốt nhất."
 
-Vì Laura vẫn còn bất tỉnh, chúng tôi không thể chắc chắn, nhưng ý của Isaac hẳn là đó là khả năng dễ xảy ra nhất. Bản thân tôi cũng chẳng thể nghĩ ra ai khác có thể làm được kỳ tích như vậy. Điều đó rất đúng với tính cách của cô bé, xét đến việc cô bé quan tâm đến cư dân thành phố nhiều đến nhường nào. Nếu quả thực là thế, tôi cho rằng như vậy cũng ổn thôi. Ý tôi là, dĩ nhiên chuyện một Chủ Nhân Mê Cung có thể tùy ý can thiệp vào ký ức của người khác chẳng hay ho gì. Người ta đâu cần phải là thiên tài mới nhận ra điều đó ấn tượng và đáng sợ đến mức nào. Nhưng dẫu sao, đó cũng là một trong những điều không nên bận tâm suy nghĩ quá nhiều.
+Vì Laura vẫn đang bất tỉnh nên chúng tôi chưa thể dám chắc, nhưng ý Isaac hẳn đó là khả năng cao nhất. Chính tôi cũng chẳng nghĩ ra nổi ai khác đủ sức làm được điều phi thường này. Xét việc cô bé quan tâm đến người dân trong thành đến mức nào, hành động đó hoàn toàn đúng với tính cách của Laura. Nếu đúng là vậy thì tôi thấy cũng ổn thôi. Ý tôi là, dĩ nhiên chuyện một Chủ Nhân Mê Cung có thể chọn lọc chỉnh sửa ký ức của người ta thì chẳng hay ho gì. Chẳng cần phải là thiên tài mới nhận ra năng lực ấy đáng nể và đáng sợ đến mức nào. Nhưng thôi, đây là chuyện không nên bận tâm đào sâu làm gì.
 
-Vả lại, chúng tôi thậm chí có thể làm gì được cơ chứ? Giết cô bé sao? Tôi chẳng nỡ nghĩ đến chuyện đó. Nhờ có Laura mà Maalt mới sống sót tương đối nguyên vẹn. Không có cô bé, thành phố hẳn đã không còn tồn tại, biến thành một mê cung khổng lồ. Chừng nào cô bé còn có ý định bảo vệ Maalt, tôi nghĩ cứ để mọi chuyện như hiện tại cũng không sao.
+Vả lại, chúng tôi thì làm được gì cơ chứ? Giết cô bé sao? Tôi còn chẳng nỡ nghĩ tới chuyện đó. Nhờ có Laura mà Maalt mới giữ được tương đối nguyên vẹn. Không có cô bé, thành phố này coi như đã bị xoá sổ, biến trọn thành một mê cung khổng lồ rồi. Chừng nào cô bé vẫn còn muốn bảo vệ Maalt, tôi thấy cứ để nguyên mọi chuyện như vậy cũng chẳng sao.
 
-Nếu một ngày nào đó Laura đổi ý, tôi sẽ không đối đầu với cô bé. Điều duy nhất tôi có thể làm là cầu nguyện thần linh để một tình huống như vậy không bao giờ xảy ra. Tôi thậm chí chẳng thể tưởng tượng nổi mình sẽ đánh bại cô bé bằng cách nào trong một trận chiến. Cô bé mạnh hơn bất kỳ ai trong chúng tôi rất nhiều. Ngay cả khi tất cả chúng tôi hợp sức lại và tấn công cùng một lúc, chúng tôi cũng chẳng có lấy nửa phần cơ hội chiến thắng.
+Lỡ một ngày nào đó Laura đổi ý, tôi cũng chẳng dại gì đối đầu với cô bé. Điều duy nhất tôi làm được là cầu trời cho tình cảnh ấy không bao giờ xảy ra. Tôi thậm chí còn chẳng dám tưởng tượng nổi mình có cửa thắng nổi cô bé trong một trận giao chiến. Laura mạnh vượt trội hơn bất kỳ ai trong chúng tôi. Dù cả đám có hợp lực xông vào cùng một lúc, chúng tôi cũng chẳng nắm nổi lấy nửa phần thắng.
 
-"Đến khi Laura tỉnh lại, cũng đáng để hỏi xem một Chủ Nhân Mê Cung có thể làm được những gì đấy. Dẫu cho điều đó cũng chẳng thay đổi được gì," tôi nói với Lorraine.
+"Chờ lúc Laura tỉnh lại, chắc cũng nên hỏi xem một Chủ Nhân Mê Cung có thể làm được những gì. Dù biết có hỏi cũng chẳng thay đổi được gì đâu," tôi nói với Lorraine.
 
-"Có vẻ như các Chủ Nhân Mê Cung còn mạnh hơn tôi tưởng. Hay đó là đặc điểm riêng của Laura nhỉ? Có lẽ cũng có những giới hạn nhất định nào đó. Đó là điều mà tôi muốn hỏi cô bé."
+"Xem ra Chủ Nhân Mê Cung còn quyền năng hơn tôi tưởng nhiều. Hay điều đó chỉ riêng Laura mới có nhỉ? Có lẽ cũng phải có giới hạn nào đó chứ. Đấy chính là điều tôi muốn hỏi cô bé."
 
-Laura từng nhắc đôi điều về các giới hạn, nhưng chúng tôi chẳng hề có manh mối nào về việc chúng thực sự là gì. Quyền năng to lớn của một Chủ Nhân Mê Cung phải trả giá bằng việc phải sống cùng những ràng buộc đó. Nhưng chúng tôi sẽ phải đợi cho đến khi Laura tỉnh lại mới biết được chúng rốt cuộc là gì.
+Laura từng buột miệng nhắc tới chuyện giới hạn, nhưng chúng tôi hoàn toàn mù tịt không rõ đó cụ thể là gì. Sức mạnh to lớn của Chủ Nhân Mê Cung luôn đi kèm cái giá phải sống chung với những ràng buộc ấy. Có điều, muốn biết rốt cuộc là gì thì chỉ còn cách đợi Laura tỉnh lại mới rõ.
 
-Chúng tôi tiếp tục cuộc trò chuyện cho đến khi tới được Hội.
+Cả nhóm cứ thế vừa đi vừa trò chuyện cho tới khi đến được Hội.
 
 ◆◇◆◇◆
 
-Bên trong Hội khá bận rộn khi chúng tôi đặt chân tới. Chà, dĩ nhiên là phải vậy rồi, xét theo những gì vừa xảy ra. Từ việc chi trả tiền thưởng săn Thi Quỷ cùng quái vật cho đến việc thu mua Ma Tinh thu được từ đám quái vật đó, Hội có quá nhiều việc phải cáng đáng. Các nhân viên phía sau quầy tiếp tân đang tất bật hoàn thành công việc của mình, phân loại những chồng giấy tờ cao ngất. Chỉ cần liếc qua khuôn mặt họ, người ta có thể thấy ánh sáng trong mắt họ đã tắt ngấm. Một khi cơn bận rộn này qua đi, rất có thể họ sẽ lảo đảo lê bước về nhà, gục ngã kiệt sức xuống sàn rồi ngủ li bì suốt mấy ngày liền.
+Lúc chúng tôi bước chân vào, bên trong Hội đang bận rộn tối mắt tối mũi. Mà kể cũng phải thôi, sau từng ấy chuyện vừa xảy ra cơ mà. Từ việc chi trả tiền thưởng săn Thi Quỷ cùng quái vật cho tới thu mua Ma Tinh lấy từ chúng, Hội bận đến mức chẳng ngơi tay. Nhân viên sau quầy tiếp tân ai nấy đều hối hả làm việc, phân loại từng chồng giấy tờ cao ngất ngưởng. Chỉ cần liếc qua mặt họ là thấy đôi mắt đã mất hết thần sắc. Đợi đợt bận rộn này qua đi, chắc họ chỉ còn nước lảo đảo lết về nhà, lăn đùng ra sàn trong cơn kiệt sức rồi ngủ liền tù tì mấy ngày đêm mất thôi.
 
-Giữa cảnh tượng hỗn loạn đó, tôi nghe thấy một giọng nói vang lên từ phía sau.
+Giữa mớ hỗn độn đó, bỗng có tiếng gọi vang lên từ phía sau tôi.
 
-"Anh Rentt! Cô Vivie và... cô Rina? Tôi mừng vì thấy mọi người vẫn bình an vô sự."
+"Anh Rentt! Cô Lorraine và... cả Rina nữa à? May quá, thấy mọi người vẫn bình an vô sự."
 
-Khi tôi quay lại, đứng đó là Sheila, cô tiếp tân viên của Hội vốn nắm rất rõ tình cảnh của chúng tôi. Đôi mắt cô đờ đẫn vì kiệt sức, và trông cô như thể sắp sửa gục ngã trước nỗi mệt mỏi gần như đang ứa ra từ từng lỗ chân lông.
+Khi tôi quay lại, đứng đó là Sheila, cô tiếp tân viên của Hội vốn quá rõ tình cảnh của chúng tôi. Đôi mắt cô đờ đẫn vì lao lực, trông như thể sắp ngã quỵ đến nơi khi nỗi mệt mỏi gần như toát ra từ từng lỗ chân lông.
 
 ![](images/ch202-01.webp)
 
-"Có vẻ như cô đang gặp một mớ rắc rối lớn rồi đấy, cô Sheila," tôi ái ngại nói.
+"Xem chừng cô đang ngập đầu trong cả mớ việc hỗn độn rồi nhỉ, cô Sheila," tôi ái ngại bảo.
 
-Sheila lắc đầu. "So với những người đã thực sự chiến đấu với quái vật thì chuyện này chẳng thấm tháp vào đâu. Dẫu rằng chúng tôi rất cần thêm người phụ giúp," cô thì thào, giọng nói yếu ớt và mỏi mệt.
+Sheila lắc đầu: "So với những người phải trực tiếp lao vào chiến đấu với quái vật thì thế này ăn thua gì đâu anh. Có điều đúng là tụi tôi đang thiếu người phụ giúp thật," cô khẽ thì thào, giọng mệt mỏi và hụt cả hơi.
 
-Tôi thực sự chẳng thể giúp được gì. Đó toàn là công việc của Hội, và xét theo độ bận rộn của họ thì có lẽ họ đang kiếm được cả một món hời lớn trong quá trình này.
+Tôi cũng chẳng giúp được gì cho cô ấy. Đó toàn là việc nội bộ của Hội, mà bận rộn thế này khéo Hội lại đang kiếm bộn tiền ấy chứ.
 
-Ma Tinh thu được từ Thi Quỷ rất được giá trên thị trường, và các loại nguyên liệu khác nhau thu hoạch từ chúng cũng có nhu cầu rất cao. Ngoài ra còn có vô số nguyên liệu từ đám quái vật khác có thể dùng để tái thiết thành phố, nên việc làm ăn tại Hội sẽ cực kỳ phát đạt trong tương lai gần. Liệu có phần nào trong số đó rơi vào túi các nhân viên hay không lại là một câu hỏi khác, một bí ẩn chỉ có những người cấp cao hơn và may ra là chính các vị thần mới biết được. Tất cả đều phụ thuộc vào Wolf.
+Ma Tinh từ Thi Quỷ bán rất được giá trên thị trường, các loại nguyên liệu thu hoạch từ chúng cũng đang có nhu cầu cực lớn. Chưa kể nguyên liệu từ các loài quái vật khác có thể dùng để tái thiết thành phố cũng rất nhiều, nên chuyện làm ăn của Hội trong thời gian tới chắc chắn sẽ lên như diều gặp gió. Còn tiền đó có chảy giọt nào xuống túi đám nhân viên hay không thì lại là chuyện khác, một ẩn số mà chỉ có cấp trên hay họa chăng các vị thần mới biết nổi. Tất cả còn tuỳ vào quyết định của Wolf.
 
-"Chúc cô may mắn," tôi nói với Sheila. "Dù tôi cũng muốn ăn mừng vì chúng ta được gặp lại nhau, nhưng chúng tôi có vài thông tin mà có lẽ Hội Trưởng Wolf nên lắng nghe. Cô có biết ông ấy đang ở đâu không?"
+"Cố lên nhé," tôi động viên Sheila. "Dù tôi cũng muốn nán lại trò chuyện mừng chúng ta gặp lại nhau bình an, nhưng nhóm tôi có chút việc cần báo cáo với Hội Trưởng Wolf. Cô có biết ông ấy đang ở đâu không?"
 
-"Ồ, đó cũng là một phần lý do tôi tới nói chuyện với anh đấy. Hội Trưởng đang ở trong phòng làm việc, nên xin mời anh tới đó."
+"À, đấy cũng là một phần lý do tôi ra đón anh đấy. Hội Trưởng đang ở trong phòng làm việc, mọi người cứ lên thẳng trên đó nhé."
 
-Tôi gật đầu với Sheila rồi tiến về phía văn phòng của Wolf.
-
-◆◇◆◇◆
-
-Ngay khoảnh khắc tôi mở cánh cửa văn phòng, Wolf ngẩng đầu lên và nói: "Thế là cuối cùng cậu cũng chịu vác cái bản mặt khó coi của mình tới rồi đấy à."
-
-Dù chỉ còn lại con mắt bên phải, ánh nhìn của ông vẫn sắc sảo như mọi khi. Tuy nhiên, nó chẳng hề đáng sợ chút nào. Tôi cho rằng đó là vì trước đây chúng tôi đã giải thích đủ điều với ông ấy và ông ấy coi chúng tôi là người trong bầy của mình. Dẫu vậy, tôi vẫn không thể mất cảnh giác. Tôi vẫn dự định sẽ lược bỏ mọi thứ liên quan đến Laura trong bản báo cáo của chúng tôi.
-
-Bàn làm việc của Wolf chất đống giấy tờ cao đến mức tôi thấy thực sự ấn tượng trước độ cao ngất ngưởng của chúng. Tôi đồ rằng toàn bộ chỗ đó đều cần chữ ký trực tiếp của Hội Trưởng. Chính vào khoảnh khắc ấy, tôi đã tự thề rằng bản thân sẽ không bao giờ trở thành một Hội Trưởng đâu.
-
-"Ừ. Ông có rảnh một lát không?" tôi hỏi. "Tôi tới để báo cáo đây. Nhưng trông ông có vẻ khá bận rộn đấy nhỉ."
-
-Tin tức của chúng tôi không quá khẩn cấp, và nếu ông ấy muốn chúng tôi quay lại sau thì cũng chẳng thành vấn đề. Dường như không có bất kỳ mối đe dọa cận kề nào đối với thành phố, nên bản báo cáo của tôi có chậm trễ đôi chút cũng chẳng gây ra thiệt hại gì.
-
-Chẳng một chút do dự, Wolf nói: "Không, đống này để sau cũng được. Giờ tôi sẽ nghe. Cậu cần nói chuyện riêng với tôi hay là...?"
-
-Con mắt phải của ông hướng về phía Lorraine và Rina. Không phải ông ấy muốn đuổi họ ra ngoài, mà là ông muốn chắc chắn rằng liệu có ổn không nếu họ lắng nghe một cuộc trò chuyện mà bí mật của tôi có thể bị bại lộ. Tôi dám chắc ông ấy đoán tôi đã giải thích phần nào cho Lorraine, nhưng có lẽ ông ấy nghĩ tôi chưa kể cho Rina nghe toàn bộ câu chuyện.
-
-Tôi lắc đầu. "Không, ổn cả thôi. Cả hai người họ đều biết rồi."
-
-Tôi nhấn mạnh từ cuối cùng, và con mắt độc nhất của Wolf mở to đầy ngạc nhiên. "Nếu vậy thì họ cứ tự nhiên ở lại. Đảm bảo đóng chặt cửa lại nhé, cô bé," ông nói với Rina vì cô là người bước vào sau cùng.
-
-Cánh cửa vẫn còn khép hờ, nên Rina vội vã đóng chặt cửa lại sau lưng.
+Tôi gật đầu cảm ơn Sheila rồi rảo bước về phía phòng làm việc của Wolf.
 
 ◆◇◆◇◆
 
-Wolf đi thẳng vào vấn đề chính. "Vậy tôi có thể cho rằng con quái vật cậu nhắc tới trong lúc hỗn loạn đó đã chết rồi chứ?"
+Vừa mở cửa bước vào phòng làm việc, Wolf đã ngẩng đầu lên bảo: "Thế là cuối cùng cậu cũng chịu vác cái bản mặt khó ưa tới rồi đấy à."
 
-"Phải đấy. Chúng tôi đã xử lý hắn ta rồi. Bằng chứng đây."
+Dù chỉ còn độc một mắt phải, ánh nhìn của ông vẫn sắc bén như mọi bận. Thế nhưng nó chẳng hề mang vẻ đe dọa chút nào. Có lẽ là do trước đây chúng tôi đã bộc bạch đủ điều với ông, và ông cũng xem chúng tôi như người trong đàn của mình rồi. Dẫu vậy, tôi vẫn không dám lơ là cảnh giác. Trong lần báo cáo này, tôi vẫn quyết giấu nhẹm mọi chuyện liên quan đến Laura.
 
-Tôi lấy ra một viên Ma Tinh. Shumini đã gần như hóa thành tro bụi hoàn toàn, nhưng viên đá này nằm lại bên trong đống tro tàn đó. Vì Isaac từng thân thiết với Shumini nên tôi đã ngỏ ý đưa nó cho anh ta, nhưng anh ta ấn lại nó vào tay tôi và bảo rằng tôi sẽ cần nó làm bằng chứng, đồng thời anh ta cũng không phiền nếu sau đó tôi quyết định đem bán nó đi. Shumini đối với anh ta gần giống như một kẻ bám đuôi, nên có lẽ anh ta chẳng thiết tha gì việc giữ lại bất kỳ kỷ vật nào của hắn. Hoặc có khi tôi lại nghĩ ngợi quá nhiều rồi.
+Bàn làm việc của Wolf ngập trong giấy tờ, chất đống cao ngất ngưởng đến mức khiến tôi phải trố mắt thán phục. Đoán chừng toàn bộ chỗ tài liệu đó đều cần đích thân Hội Trưởng ký tên. Ngay giây phút ấy, tôi tự nhủ với lòng rằng có chết mình cũng không bao giờ làm Hội Trưởng.
 
-Wolf cầm lấy viên Ma Tinh và nói: "Chà chà. Viên này to và đẹp thật đấy. Cỡ bự như thế này hiếm khi thấy lắm. Hẳn là một đối thủ ghê gớm lắm đây." Giọng ông đầy vẻ ấn tượng.
+"Chào ông. Có rảnh chút không?" tôi hỏi. "Tôi tới để báo cáo tình hình đây. Cơ mà trông ông có vẻ bận túi bụi nhỉ."
 
-Dù kích thước không phải lúc nào cũng là yếu tố quyết định giá cả, nhưng một viên Ma Tinh lớn chừng này hiếm khi xuất hiện trên thị trường. Người ta cũng có thể nhận biết được chất lượng cao của nó dựa trên màu sắc, độ trong và lượng Ma Lực ẩn chứa bên trong. Việc đo lường lượng Ma Lực cụ thể đòi hỏi một công cụ chuyên dụng được thiết kế cho mục đích đó, nhưng người ta có thể cảm nhận đại khái lượng năng lượng bên trong sau khi đã cầm qua vài viên.
+Tin tức của chúng tôi cũng chẳng quá khẩn cấp, nếu ông muốn bọn tôi quay lại sau thì cũng chẳng sao. Thành phố lúc này xem chừng không còn mối đe dọa trước mắt nào nữa, nên tôi có báo cáo muộn một chút cũng chẳng chết ai.
 
-Về kích thước chuẩn xác, viên này to hơn khoảng hai bậc so với viên Ma Tinh tôi thu được từ con Khô Lâu Khổng Lồ. Viên đó tương đương với Kim Cấp, nhưng có thể khẳng định chắc chắn rằng viên Ma Tinh của Shumini tương đương với Bạch Kim Cấp. Dẫu vậy, xét thấy Ma Tinh của một con Khô Lâu Khổng Lồ phát triển tới kích thước đó là nhờ thu thập và nén Ma Lực qua nhiều năm, thậm chí nhiều thập kỷ, thì việc Ma Tinh của Shumini đạt tới kích cỡ này chỉ vài giờ sau khi hắn biến thành quái vật chính là bằng chứng cho thấy hắn từng hùng mạnh đến nhường nào. Điều đó, hoặc giả là sức mạnh kiến tạo nên mê cung quả thực vô cùng khủng khiếp.
+Chẳng chút do dự, Wolf gạt phắt: "Không, đống này để sau cũng được. Tôi nghe luôn bây giờ đây. Cậu muốn nói chuyện riêng hay là...?"
 
-Dù là khả năng nào đi nữa, chắc chắn viên Ma Tinh này sẽ bán được giá rất cao. Không phải tôi mang nó tới đây để bán, nhưng vì Isaac đã đồng ý cho tôi làm vậy...
+Con mắt bên phải của ông liếc sang Lorraine và Rina. Không phải ông muốn đuổi họ ra ngoài, mà chỉ muốn xác nhận xem để hai người nghe có sao không, lỡ như bí mật của tôi bị lộ ra giữa chừng. Chắc ông đoán tôi đã kể cho Lorraine nghe đôi phần rồi, nhưng tưởng tôi chưa hé hết đầu đuôi cho Rina biết.
+
+Tôi lắc đầu: "Không sao đâu. Cả hai đều biết hết rồi."
+
+Tôi nhấn mạnh từ cuối cùng, khiến con mắt còn lại của Wolf trợn tròn vì kinh ngạc. "Thế thì cứ tự nhiên ở lại. Nhớ khép chặt cái cửa lại nhé, cô bé," ông bảo Rina vì cô là người bước vào sau cùng.
+
+Cánh cửa vẫn còn hơi hé, nên Rina vội vàng khép chặt lại sau lưng.
+
+◆◇◆◇◆
+
+Wolf vào thẳng vấn đề: "Vậy con quái vật cậu nhắc tới giữa lúc rối ren ấy coi như chết rồi chứ?"
+
+"Phải đấy. Chúng tôi đã xử lý hắn rồi. Bằng chứng đây."
+
+Tôi lấy ra một viên Ma Tinh. Toàn thân Shumini gần như đã cháy rụi thành tro, chỉ sót lại viên đá này nằm lẫn trong đống tàn tro ấy. Vì Isaac từng thân thiết với Shumini nên tôi định nhường lại cho anh, nhưng anh ấy cứ dúi trả vào tay tôi và bảo rằng tôi sẽ cần nó làm bằng chứng, xong xuôi muốn đem bán kiếm tiền thì anh cũng chẳng phiền lòng. Shumini đối với anh ấy chẳng khác nào một kẻ bám đuôi dai dẳng, nên chắc anh cũng chẳng thiết tha giữ lại kỷ vật gì của gã. Mà có khi do tôi nghĩ ngợi nhiều quá thôi.
+
+Wolf đón lấy viên Ma Tinh rồi tặc lưỡi: "Chà chà. Viên này vừa to vừa đẹp gớm. Cỡ bự thế này hiếm khi thấy lắm đấy. Chắc đối thủ của các cậu phải là thứ dữ lắm đây." Giọng ông lộ rõ vẻ thán phục.
+
+Tuy kích thước không phải lúc nào cũng quyết định giá cả, nhưng một viên Ma Tinh to cỡ này quả thực hiếm khi xuất hiện trên thị trường. Nhìn vào sắc đá, độ trong cùng lượng Ma Lực ngậm bên trong, ai cũng nhận ra đây là hàng thượng phẩm. Muốn đo chính xác lượng Ma Lực thì cần tới dụng cụ chuyên biệt, nhưng ai từng cầm qua vài viên là có thể áng chừng được bên trong chứa bao nhiêu.
+
+Nói về độ lớn chính xác, viên này to hơn chừng hai bậc so với viên Ma Tinh tôi từng lấy được từ con Khô Lâu Khổng Lồ. Viên trước tương đương Kim Cấp, còn viên của Shumini đây dám chắc phải đạt tầm Bạch Kim Cấp. Dù vậy, nên nhớ Ma Tinh của Khô Lâu Khổng Lồ đạt tới cỡ đó là nhờ gom góp nén Ma Lực suốt nhiều năm, thậm chí hàng thập kỷ. Trong khi viên của Shumini lại phình to chừng này chỉ sau vài tiếng đồng hồ hoá thành quái vật, đủ thấy thực lực của gã từng khủng khiếp đến mức nào. Hoặc không, thì sức mạnh kiến tạo nên mê cung quả thực vô cùng ghê gớm.
+
+Dù sao đi nữa, chắc chắn viên Ma Tinh này cũng sẽ bán được giá trên trời. Không hẳn là tôi đem tới đây để bán ngay, nhưng một khi Isaac đã thoải mái bật đèn xanh như thế thì...
