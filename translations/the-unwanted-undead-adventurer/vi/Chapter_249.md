@@ -1,157 +1,157 @@
 # Chương 249: Tập 11 Chương 1 - Tập Kích Bất Ngờ (6)
 
-Tái tạo lại cơ thể mình từ một bãi tương nát bấy mang lại cảm giác khá kỳ lạ. Tôi dùng Phân Liệt để tạm thời biến thành một khối bóng tối, rồi sau đó tái tạo lại hình dạng ban đầu của mình. Nét biểu cảm trên gương mặt của Lorraine và Augurey khi chứng kiến tôi trở lại mà trông chẳng hề hấn gì thực sự rất khó đoán.
+Tái tạo lại cơ thể từ một bãi nát bấy cho cảm giác khá kỳ lạ. Tôi dùng Phân Liệt tạm biến thành một khối bóng tối, rồi định hình lại như cũ. Trông thấy tôi quay về lành lặn như chưa từng có chuyện gì xảy ra, nét mặt của Lorraine và Augurey lúc đó thật khó tả.
 
-"Tôi vốn đã biết anh không còn là con người nữa rồi, nhưng cảnh tượng vừa rồi thực sự khiến điều đó càng thêm rõ rệt đấy," Lorraine nói.
+"Tôi vốn biết anh chẳng còn là con người nữa rồi, nhưng tận mắt thấy thế này mới thấy thấm thía đấy," Lorraine nói.
 
-"Đúng là một mánh khóe ăn gian quá thể đáng," Augurey bồi thêm. "Nhớ nhắc tôi đừng bao giờ kiếm chuyện gây sự với cậu nhé, Rentt. Làm sao người ta có thể đánh bại thứ như thế được cơ chứ? Chí ít đối với Cự Nhân thì người ta vẫn cảm thấy mình có cơ hội, bởi vì cậu có thể nhận thấy bản thân đang dần dần bào mòn sinh lực của họ."
+"Chơi ăn gian trắng trợn thật đấy," Augurey bồi thêm. "Nhớ nhắc tôi đừng bao giờ dại dột gây sự với cậu nhé, Rentt. Thế này thì ai mà đánh cho lại cơ chứ? Chí ít đánh với Cự Nhân người ta còn thấy có cửa thắng, vì còn biết mình đang rỉa mòn được đối phương."
 
-Tôi thầm nghĩ những lời đó nghe thật tàn nhẫn biết bao.
+Nghe họ nói mà tôi thấy phũ ghê.
 
-"Cũng đâu phải là tôi có thể chịu đựng sát thương vô hạn đâu," tôi nói. "Đến một lúc nào đó ngay cả tôi cũng sẽ chết thôi. Có lẽ vậy."
+"Đâu phải tôi ăn đòn bao nhiêu cũng chịu được đâu," tôi nói. "Đến nước nào đó thì tôi cũng chết thôi. Chắc thế."
 
-Tôi không có trải nghiệm thực tế để chứng minh cho điều đó, nhưng tôi từng thấy chuyện ấy xảy ra với những kẻ khác rồi. Đó là một cái chết thật đáng buồn, và là điều tôi muốn tránh né. Nếu phải chết, tôi muốn mình được thanh thản nhắm mắt xuôi tay trên giường. Nhưng rồi ngẫm lại, xét việc bản thân là một mạo hiểm giả thì mong mỏi đó xem chừng quá đỗi xa vời, nên tôi sẽ bằng lòng với bất kỳ cái chết nào tương đối tử tế. Cứ lơ đễnh tan biến khỏi cõi đời thì thật quá đỗi dở dang. Như thế liệu có tính là chết không cơ chứ?
+Tôi chưa từng trải qua chuyện đó để mà khẳng định, nhưng tôi đã thấy nó xảy ra với những kẻ khác rồi. Chết kiểu đó buồn lắm, nên tôi muốn tránh bằng được. Nếu phải chết, tôi chỉ mong được yên ổn nhắm mắt trên giường. Nhưng ngẫm lại, đã làm mạo hiểm giả mà mong thế có khi hơi quá trớn, nên một cái chết tương đối đàng hoàng cũng đủ làm tôi hài lòng rồi. Chứ cứ lơ đãng tan biến mất tiêu thì dở dở ương ương quá. Như thế liệu có tính là chết không cơ chứ?
 
-Dẫu nói vậy, có lẽ tôi chẳng có tư cách để kén cá chọn canh khi bản thân đã chết một lần rồi. Có khi hiệp hai kết thúc một cách bèo bọt cũng chẳng sao. Khổ nỗi là tôi chẳng còn nhớ rõ cảm giác của lần chết đầu tiên ra sao. Tôi sẽ phải đảm bảo khắc sâu lần thứ hai vào trong ký ức nếu đó là việc cuối cùng tôi có thể làm... mà ừ thì, nó chắc chắn sẽ là việc cuối cùng rồi.
+Nói đi cũng phải nói lại, đã chết một lần rồi thì chắc tôi cũng chẳng có tư cách đòi hỏi nhiều. Có khi lần hai này kết thúc qua loa một chút cũng chẳng sao. Khổ nỗi, tôi chẳng còn nhớ cảm giác lúc chết lần đầu tiên thế nào. Thế nên tôi phải nhớ cho thật kỹ lần chết thứ hai, ngộ nhỡ đó là việc cuối cùng mình làm được trên đời... mà chắc chắn là thế rồi còn gì.
 
-Nhưng đùa cợt thế lúc này là đủ rồi.
+Cơ mà đùa thế lúc này là đủ rồi.
 
-"Bất ngờ thật đấy," tôi nói. "Bây giờ trông ông ta nhỏ thó thế kia."
+"Bất ngờ thật đấy," tôi nói. "Giờ trông ông ta nhỏ thó ghê."
 
-Tôi đang nhìn gã Cự Nhân già, kẻ lúc này đã quay trở lại thành một ông lão gầy gò. Ông ta đang nằm trong hố sâu do cú ngã của thân hình khổng lồ tạo ra, mảnh khố phủ lên người. Cảnh tượng ấy trên thực tế trông có phần buồn bã và cô quạnh.
+Tôi nhìn gã Cự Nhân già, giờ đã teo lại thành một ông lão gầy gò. Lão nằm gọn lỏn trong cái hố sâu do cú ngã của thân hình khổng lồ lúc trước tạo ra, mảnh khố vắt ngang người. Nhìn cảnh tượng ấy, thực lòng có chút xót xa và quạnh quẽ.
 
-Người ta không mấy khi nghe thấy chuyện đó xảy ra ở quanh vùng này, nhưng đôi khi những ngôi làng bần hàn nghèo khó sẽ bỏ rơi người già trong rừng một khi họ đến một độ tuổi nhất định. Tôi từng bắt gặp họ vài lần trong những chuyến đi về miền quê, và chứng kiến cảnh đó lúc nào cũng thật xót xa. Lẽ dĩ nhiên tôi không thể cứ thế bỏ mặc họ, nên tôi luôn bảo họ đi theo mình. Trở về làng quê cũ rõ ràng không phải là một lựa chọn, nên tôi đã giúp họ tìm một nơi chốn để có thể tự kiếm sống nuôi thân—việc đó trên thực tế cũng không quá khó khăn. Hóa ra tất cả những gì người ta cần làm chỉ là tìm kiếm đúng nơi mà thôi.
+Quanh vùng này thì hiếm khi nghe thấy, nhưng đôi lúc ở những ngôi làng nghèo đói, người ta sẽ bỏ rơi người già vào rừng khi họ đến một độ tuổi nhất định. Tôi từng bắt gặp họ vài lần trong những chuyến đi về vùng quê, và lần nào trông thấy cũng rất xót xa. Lẽ dĩ nhiên tôi chẳng thể cứ thế bỏ mặc, nên lúc nào cũng bảo họ đi cùng mình. Về lại làng cũ rõ ràng không xong, nên tôi giúp họ tìm một chỗ để tự kiếm sống qua ngày—thực ra chuyện đó cũng không quá khó. Hóa ra chỉ cần biết tìm đúng chỗ là được.
 
-Dù vậy, tôi không nghĩ ông lão đang nằm trước mặt mình cần phải bận tâm về chuyện đó. Người ta có lẽ chỉ việc thả ông ta vào bất kỳ quán rượu nào là ông ta đã có thể dễ dàng tự kiếm tiền nuôi thân bằng trò vật tay cá cược với người khác rồi. Gia nhập một kỵ sĩ đoàn hay quân ngũ cũng ổn, và ông ta chắc chắn sẽ làm rất tốt trong vai trò một mạo hiểm giả.
+Có điều, tôi nghĩ ông lão nằm trước mặt mình chẳng phải lo chuyện đó. Cứ quẳng lão vào một quán rượu bất kỳ nào đấy, khéo lão chỉ cần cá cược vật tay với người ta là đủ tự nuôi thân rồi. Gia nhập kỵ sĩ đoàn hay vào quân ngũ cũng tốt, mà đi làm mạo hiểm giả thì chắc chắn sống khỏe.
 
-Tôi tự hỏi tại sao thay vào đó ông ta lại chọn công việc lén lút ám muội này. Có lẽ tiền thù lao hậu hĩnh chăng? Thú thực là tôi chẳng có chút manh mối nào.
+Tôi tự hỏi sao lão lại chọn cái nghề đao búa mờ ám này. Thù lao cao chăng? Thú thật là tôi chịu chết.
 
-"Tôi nghĩ chúng ta có thể yên tâm cho rằng sự khổng lồ hóa của ông ta là nhờ một loại dị năng đặc thù nào đó," Lorraine nói. "Điều ấy sẽ giải thích lý do tại sao nó lại trở về trạng thái ban đầu sau khi ông ta bất tỉnh."
+"Tôi nghĩ có thể đoán chắc khả năng khổng lồ hóa của ông ta là nhờ một năng lực đặc biệt nào đó," Lorraine nói. "Như thế mới giải thích được vì sao ông ta ngất đi là hết biến hình."
 
-Cô ấy có lẽ nói đúng; tôi chẳng thể nghĩ ra lời giải thích nào hợp lý hơn.
+Chắc cô ấy nói đúng; tôi cũng chẳng nghĩ ra lời giải thích nào hợp lý hơn.
 
-"Chuyện đó để sau đi." Augurey lắc đầu, giọng lộ vẻ kinh ngạc. "Tôi không thể tin nổi, nhưng tôi nghĩ ông ta vẫn còn sống."
+"Chuyện đó để sau đi." Augurey lắc đầu, giọng không giấu nổi vẻ kinh ngạc. "Không tin nổi, nhưng hình như lão vẫn còn sống đấy."
 
-Thật dễ hiểu cho cảm giác của Augurey. Lãnh một trận đòn oanh tạc nhường ấy mà vẫn sống sót sao? Độ bền bỉ đến khó tin của ông lão quả thực quá đỗi kinh ngạc.
+Tôi hoàn toàn hiểu vì sao Augurey lại thấy vậy. Ăn một trận đòn tơi bời cỡ đó mà vẫn sống sót sao? Sức chịu đựng của ông lão này quả thật đáng kinh ngạc.
 
-Quan sát kỹ hơn, tôi nhận thấy vết thương mình rạch trên cổ ông ta vẫn còn đó, nhưng nó nhỏ hơn nhiều so với những gì tôi tưởng tượng. Vết thương rõ ràng vẫn đang rỉ máu, nhưng người ta khó lòng gọi đó là một vết thương chí mạng. Ông ta gục ngã nhiều khả năng là do đòn đánh kết hợp Thần Ma Khí Dung Hợp Thuật của tôi đã giáng thật mạnh vào sau gáy... điều đó hẳn đồng nghĩa với việc lúc đó tôi đã rơi vào tình thế ngàn cân treo sợi tóc. Bất kỳ kết cục nào khác có lẽ cũng sẽ kết thúc bằng việc tôi phải nằm thẳng cẳng dưới đất.
+Nhìn kỹ lại, tôi thấy vết chém mình rạch sau gáy lão vẫn còn đó, nhưng nhỏ hơn nhiều so với tôi tưởng. Máu vẫn rỉ ra, nhưng khó mà gọi đó là vết thương chí mạng. Lão gục ngã nhiều khả năng là do đòn Thần Ma Khí Dung Hợp Thuật của tôi đã giáng thật mạnh vào sau gáy... nghĩa là khi nãy tôi đã liều mạng trong đường tơ kẽ tóc. Nếu chệch đi một chút thôi, người nằm đo đất lúc này rất có thể là tôi rồi.
 
-"Chúng ta có nên kết liễu ông ta không?" tôi hỏi. "Chúng ta tiêu đời chắc nếu ông ta tỉnh lại rồi lại hóa khổng lồ lần nữa."
+"Có nên kết liễu ông ta luôn không?" tôi hỏi. "Lão mà tỉnh lại rồi hóa khổng lồ lần nữa là chúng ta tiêu đấy."
 
-"Anh nói đúng, nhưng tôi muốn nghe xem ông ta nói gì," Lorraine nói. "Chúng ta vẫn chưa biết chính xác lý do vì sao mình lại bị nhắm tới. Dù vậy, tôi cũng đã lờ mờ đoán được rồi."
+"Anh nói đúng, nhưng tôi muốn nghe xem ông ta nói gì đã," Lorraine bảo. "Chúng ta vẫn chưa biết đích xác vì sao mình bị nhắm tới. Dù rằng tôi cũng đoán được phần nào."
 
-Tôi cũng vậy. Xâu chuỗi các sự kiện lại với nhau chẳng có gì khó khăn cả. Toàn bộ chuyện này xảy ra ngay sau khi chúng tôi gặp công chúa, nên kẻ cử sát thủ bám theo chúng tôi gần như chắc chắn là một trong những kẻ thù của nàng. Nhiều khả năng đó là một trong các anh chị em ruột hoàng gia của nàng hoặc những kẻ ủng hộ họ.
+Tôi cũng thế. Xâu chuỗi sự việc lại thì chẳng có gì khó. Mọi chuyện xảy ra ngay sau khi chúng tôi gặp công chúa, nên kẻ phái sát thủ đuổi theo gần như chắc chắn là kẻ thù của cô ấy. Nhiều khả năng là một trong các anh chị em hoàng tộc hoặc phe cánh ủng hộ họ.
 
-Dù vậy, đó cũng là tất cả những gì tôi có thể suy luận được. Lorraine muốn nắm rõ thông tin cụ thể là hoàn toàn đúng đắn. Các lựa chọn trong tương lai của chúng tôi phụ thuộc vào việc nắm giữ nguồn tin đó. Công chúa hẳn cũng muốn nghe điều này, nên có lẽ nó sẽ cho chúng tôi thêm chút không gian để thở trong các cuộc đàm phán với nàng.
+Nhưng tôi cũng chỉ suy ra được đến thế. Lorraine muốn biết chi tiết là hoàn toàn có lý. Hướng đi tiếp theo của chúng tôi phụ thuộc vào việc có được thông tin đó. Công chúa chắc cũng muốn nghe, biết đâu nhờ vậy mà chúng tôi sẽ dễ thở hơn đôi chút khi thương lượng với cô ấy.
 
-"Vậy... giờ làm gì đây?" tôi hỏi. "Chúng ta có nên cắt đứt gân để ông ta không cử động được nữa không?"
+"Vậy... giờ tính sao?" tôi hỏi. "Có nên phế tay chân để ông ta khỏi cử động không?"
 
-Tôi biết đó là một đề xuất khá rùng rợn, nhưng điều đó chỉ càng cho thấy ông lão mạnh đến nhường nào. Nếu để ông ta sống, sẽ rất khó để kiểm soát được ông ta. Tôi không chắc chúng tôi còn lựa chọn nào khác.
+Tôi biết đề xuất thế nghe hơi rợn người, nhưng điều đó chỉ càng cho thấy ông lão mạnh đến mức nào. Nếu để lão sống thì khó mà kiềm tỏa nổi. Tôi cũng chẳng rõ chúng tôi còn cách nào khác không.
 
-Gương mặt của Augurey bừng sáng như thể anh vừa chợt nhớ ra điều gì đó. "Ồ, thế này thì sao? Tôi nghĩ có khi chúng sẽ hữu dụng vào lúc nào đó nên lúc nào cũng đem theo vài bản bên người. Tôi biết thông thường người ta không thể ép buộc ai đó ký vào, nhưng chúng ta có Lorraine ở đây mà. Cậu nghĩ liệu có tác dụng không?"
+Mặt Augurey chợt sáng lên như nhớ ra điều gì. "Ồ, thế này thì sao? Tôi nghĩ thể nào cũng có lúc dùng đến nên mang sẵn mấy tờ bên người. Tôi biết bình thường không ép ai ký được, nhưng tụi mình có Lorraine ở đây mà. Cậu thấy có ăn thua không?"
 
-Anh lôi ra khỏi túi một xấp tài liệu trông quen mắt.
+Anh rút từ trong túi ra một tệp giấy tờ trông quen quen.
 
-"Khế ước ràng buộc ma pháp à?" tôi nói. "Ý kiến không tồi đâu. Anh nói đúng là thông thường chúng ta cần sự đồng thuận của đối phương, nhưng chúng ta có lẽ có thể đánh lừa một bản khế ước với chất lượng cỡ này."
+"Khế ước ràng buộc ma pháp à?" tôi bảo. "Ý hay đấy. Đúng là bình thường phải có sự đồng thuận của đối phương, nhưng khế ước chất lượng cỡ này thì chắc mình qua mặt được."
 
-Tôi nói nghe chừng đơn giản, nhưng đó là kỳ tích chỉ có thể thực hiện được bởi chúng tôi có Lorraine bên cạnh. Một ma pháp sư bình thường sẽ chẳng biết cách làm ra sao, và dẫu họ có thử sức đi chăng nữa, việc đó cũng sẽ ngốn của họ bộn bề công sức.
+Tôi nói nghe thì dễ, nhưng cũng chỉ làm được nhờ có Lorraine đi cùng. Ma pháp sư bình thường sẽ chẳng biết làm thế nào, mà dù có thử thì cũng trầy trật tốn bao công sức.
 
-Chưa kể, các bản khế ước ràng buộc ma pháp có phẩm cấp đa dạng để phù hợp với từng hoàn cảnh. Phẩm cấp càng cao thì càng khó can thiệp chỉnh sửa. Dù sao đi nữa, có được lựa chọn này mở ra trước mắt chúng tôi quả là tiện lợi.
+Đã vậy, khế ước ràng buộc ma pháp còn có nhiều phẩm cấp khác nhau tùy mục đích sử dụng. Phẩm cấp càng cao thì càng khó can thiệp chỉnh sửa. Dù sao thì có thêm lựa chọn này cũng tiện thật.
 
-"Chúng ta có nên cấm ông ta sử dụng dị năng khi chưa có sự cho phép của mình không?" tôi hỏi. "Cơ mà dù không có nó thì ông ta vẫn khỏe đến mức phi lý. Chúng ta phải làm gì nếu ông ta mất kiểm soát đây?"
+"Hay là cấm lão dùng năng lực khi chưa được mình cho phép?" tôi hỏi. "Cơ mà không có nó thì lão vẫn khỏe đến mức vô lý. Lão mà làm loạn thì tính sao?"
 
-"Cứ quy định là ông ta sẽ mất mạng nếu làm vậy," Lorraine đáp.
+"Thì cứ bắt lão mất mạng nếu dám làm thế," Lorraine đáp.
 
-Một thoáng im lặng bao trùm.
+Chúng tôi khựng lại một nhịp.
 
-"Đùa thôi," cô nói. "Đó không phải một lựa chọn tồi tệ, nhưng cũng chẳng phải cách làm thực sự sạch sẽ gì. Ngay từ đầu, một bản khế ước ràng buộc ma pháp với chất lượng cỡ này sẽ khó lòng cưỡng chế được điều đó. Chúng ta phải cần một bản khế ước đầy quyền năng từ ngôi đền của Hozei thì mới làm được. Giỏi lắm thì thứ này cũng chỉ cho phép chúng ta phong tỏa dị năng của ông ta mà thôi. Kể cả thế, khả năng cao nó vẫn sẽ dễ dàng bị phá vỡ, bởi lẽ chúng ta không có được sự đồng thuận của ông ta. Dẫu vậy, xem chừng ông ta cũng chẳng biết dùng ma pháp gì nhiều, nên tôi sẽ chỉ phong tỏa việc sử dụng Ma Lực của ông ta thôi."
+"Đùa thôi," cô nói. "Đó không phải lựa chọn tồi, nhưng cũng chẳng sạch nước cản gì. Ngay từ đầu, một bản khế ước ma pháp chất lượng cỡ này khó lòng cưỡng chế được chuyện đó. Phải dùng loại có uy lực mạnh từ đền thờ Hozei mới được. Giỏi lắm thì thứ này cũng chỉ cho phép chúng ta phong tỏa năng lực của ông ta mà thôi. Kể cả thế, nhiều khả năng nó vẫn sẽ dễ bị phá vì mình không có sự đồng thuận của ông ta. Dẫu vậy, xem chừng ông ta cũng chẳng biết dùng ma pháp gì nhiều, nên tôi sẽ chỉ khóa việc dùng Ma Lực của ông ta lại."
 
-Lorraine lộ vẻ tiếc nuối khi giải thích mọi chuyện trong lúc nhanh chóng soạn thảo bản khế ước. Sau khi hoàn tất, cô bắt đầu thi triển một loại bùa chú mờ ám nào đó lên người ông lão...
+Giọng Lorraine có vẻ tiếc rẻ khi vừa giải thích vừa thoăn thoắt soạn khế ước. Viết xong, cô bắt đầu niệm một phép thuật trông khá mờ ám lên người ông lão...
 
-Đùa đấy. Cô ấy đang làm chính xác những gì mình vừa nói: thiết lập một trường kết giới tạm thời ngăn chặn việc sử dụng ma pháp. Bản khế ước ràng buộc ma pháp là một dạng ma cụ, nên nếu muốn phá vỡ giao ước mà nó quy định, người ta cũng cần phải sử dụng ma pháp.
+Đùa đấy. Cô ấy đang làm đúng những gì vừa nói: dựng một kết giới tạm thời phong tỏa việc dùng ma pháp. Khế ước ràng buộc ma pháp vốn là một loại ma cụ, nên nếu muốn phá vỡ điều khoản trong đó thì cũng phải dùng đến ma pháp.
 
-Vấn đề cuối cùng là lấy chữ ký của ông ta, nhưng việc ông ta đang bất tỉnh không có nghĩa là chúng tôi không lấy được. Trên thực tế, đối với các bản khế ước ràng buộc ma pháp thì một dấu điểm chỉ bằng ngón tay cái cũng hoàn toàn hợp lệ. Đa phần mọi người không làm vậy bởi vì người ta sẽ phải rạch một vết cắt nhỏ và dùng máu của chính mình, nhưng xét trong hoàn cảnh hiện tại của chúng tôi...
+Vấn đề cuối cùng là lấy chữ ký, nhưng lão có ngất đi thì cũng chẳng làm khó được chúng tôi. Thực ra với khế ước ràng buộc ma pháp, điểm chỉ bằng ngón tay cái cũng được tính. Bình thường ít ai làm thế vì phải cứa tay lấy máu, nhưng trong hoàn cảnh này thì...
 
-Ngay từ đầu, Lorraine đã gánh vác toàn bộ công đoạn đánh lừa bản khế ước. Tất cả những gì tôi phải làm chỉ là chốt hạ bằng cách ấn ngón tay cái của ông lão lên đó.
+Dù sao thì phần việc khó nhất là qua mặt khế ước đã có Lorraine lo hết. Tôi chỉ việc chốt lại bằng cách ấn ngón tay cái của ông lão vào là xong.
 
-Tôi khía một vết nhỏ lên ngón tay cái của ông ta, việc thực ra cũng tốn kha khá công sức. Da của ông ta làm bằng thứ gì vậy trời? Bằng đá à? Dù sao đi nữa, tôi ấn ngón tay ông ta lên bản khế ước. Tôi quyết định đứng tên làm bên còn lại, đồng nghĩa với việc sự đồng thuận của tôi sẽ là điều kiện cần thiết để hủy bỏ nó về sau. Tôi lại không bị áp đặt bất kỳ điều khoản nào, nên theo nghĩa đó, nó khác biệt so với các hợp đồng kinh doanh thông thường. Đó là lý do vì sao nó được đặt cho một thuật ngữ riêng biệt là "khế ước ràng buộc ma pháp", và... Thôi kệ đi. Giờ không phải lúc đi sâu vào mấy chuyện đó.
+Tôi khía một vết nhỏ lên ngón tay cái của lão, thế mà cũng trầy trật ra phết. Da lão làm bằng cái gì không biết? Đá chắc? Dù sao thì tôi cũng ấn được ngón tay lão lên bản khế ước. Tôi quyết định đứng tên làm bên còn lại, đồng nghĩa với việc sau này muốn hủy bỏ thì phải có sự đồng ý của tôi. Tôi lại chẳng bị ép điều khoản nào, nên theo nghĩa đó, nó khác hẳn hợp đồng làm ăn thông thường. Thế nên người ta mới gọi nó bằng cái tên riêng là "khế ước ràng buộc ma pháp", và... Thôi dẹp đi. Giờ không phải lúc lan man mấy chuyện đó.
 
-Tôi ký tên mình lên bản khế ước và Lorraine lẩm nhẩm một loại thần chú nào đó lên nó. Nhìn cách nó phát sáng, tôi có thể nhận ra quá trình đã hoàn tất thành công. Giờ đây chúng tôi chỉ việc cầu nguyện rằng ông ta sẽ không hóa khổng lồ khi tỉnh dậy. Nói chính xác hơn thì hy vọng là dẫu ông ta có làm vậy thì cũng chẳng có chuyện gì xảy ra.
+Tôi ký tên vào bản khế ước rồi Lorraine lẩm nhẩm đọc thần chú lên đó. Thấy tờ giấy phát sáng, tôi biết khế ước đã có hiệu lực. Giờ chỉ còn nước cầu mong lão không hóa khổng lồ khi tỉnh dậy. Nói đúng hơn là hy vọng dù lão có muốn biến hình thì cũng chẳng có gì xảy ra.
 
-Dù thế nào thì điều đó cũng đã giải quyết xong rắc rối này. Chúng tôi có thể giải thích bản khế ước cho ông ta sau khi ông ta bình tĩnh lại. Vấn đề duy nhất chỉ là liệu ông ta có chịu mở miệng nói chuyện với chúng tôi hay không, nhưng Lorraine cũng đã thêm vào vài điều khoản chi tiết ngăn không cho ông ta làm những trò như nói dối chúng tôi. Cô ấy lúc nào cũng chu đáo cẩn thận như thế. Việc duy nhất còn lại lúc này là chờ ông ta tỉnh lại.
+Thế là xong được một mối lo. Đợi lão bình tĩnh lại rồi chúng tôi sẽ giải thích về bản khế ước sau. Vấn đề duy nhất là liệu lão có chịu mở miệng hay không, nhưng Lorraine đã cài thêm vài điều khoản tỉ mỉ để ngăn lão giở trò nói dối. Cô ấy lúc nào cũng chu đáo như vậy. Giờ việc còn lại chỉ là đợi lão tỉnh.
 
 ◆◇◆◇◆
 
-Sau khi một khoảng thời gian trôi qua...
+Một lúc sau...
 
 "Ư..."
 
-Ông lão lắc đầu rồi mở mắt ra. Đáng ngạc nhiên là ông ta không hề lập tức vùng vẫy tấn công. Thay vào đó, ông ta dành thời gian quan sát kỹ lưỡng xung quanh. Sau khi lần lượt nhìn từng người chúng tôi, ông ta thở dài một tiếng.
+Ông lão lắc đầu rồi mở mắt. Đáng ngạc nhiên là lão không hề vùng lên tấn công ngay, mà bình tĩnh quan sát xung quanh. Đảo mắt nhìn từng người chúng tôi một lượt, lão khẽ thở dài.
 
-"Ông không định hóa khổng lồ à?" tôi hỏi. Tôi không cố ý, nhưng câu hỏi đã buột ra khỏi miệng.
+"Ông không định hóa khổng lồ nữa à?" tôi hỏi. Tôi không cố tình, nhưng câu hỏi cứ thế buột ra khỏi miệng.
 
-Ông lão lắc đầu. "Ta không rõ mình đã bất tỉnh bao lâu, nhưng ta chắc chắn các ngươi đã nghĩ ra đối sách cho chuyện đó rồi. Chẳng còn lời giải thích nào khác cho lý do vì sao ta vẫn còn sống cả. Ta sẽ không phí công vô ích đâu."
+Ông lão lắc đầu. "Chẳng rõ ta ngất bao lâu, nhưng chắc lũ nhóc các ngươi đã nghĩ ra cách đối phó rồi. Không thì đời nào ta còn sống được đến giờ. Mắc công làm gì cho phí sức."
 
-Tôi rất ấn tượng khi thấy ông ta đã nhanh chóng nắm bắt được tình hình.
+Nắm bắt tình hình nhanh thật, tôi thầm thán phục.
 
-"Cảm ơn vì đã đỡ làm mất thời gian của chúng tôi," Lorraine nói. "Vậy thì để tôi nói cho ông biết chi tiết cụ thể nhé. Chúng tôi đã khiến cho ông không thể hóa khổng lồ nếu không có sự cho phép của chúng tôi. Ông cũng không thể nói dối chúng tôi được nữa. Sao ông không thử xem?"
+"Đỡ mất công đôi bên," Lorraine bảo. "Vậy để tôi nói rõ luôn. Chúng tôi đã làm cho ông không thể hóa khổng lồ nếu chưa được phép. Và ông cũng chẳng nói dối được đâu. Sao không thử xem?"
 
-Ông ta liền làm đúng như vậy bằng cách gồng mình lên, dù gồng ở chỗ nào thì tôi chẳng thể nói rõ được.
+Lão liền làm theo bằng cách gồng người lên, dù gồng ở chỗ nào thì chịu, tôi không nhìn ra nổi.
 
 "Hừ...!"
 
-Chúng tôi vẫn không rõ làm thế nào ông ta kích hoạt được dị năng của mình, nhưng rõ ràng ông ta kích hoạt nó bằng cách dồn sức vào một nơi nào đó. Mặt khác, việc ông ta gồng mình cũng có thể chỉ là một thói quen không mang nhiều ý nghĩa.
+Chúng tôi vẫn chưa rõ lão kích hoạt năng lực bằng cách nào, nhưng có vẻ lão làm vậy bằng cách dồn sức vào một điểm nào đó. Mặt khác, biết đâu chuyện gồng người cũng chỉ là một thói quen vô thưởng vô phạt.
 
-Dù sao đi nữa, xem chừng ông ta đã đi đến kết luận rằng chúng tôi đã nói sự thật. Ông ta lại thở dài.
+Dẫu vậy, có vẻ lão đã nhận ra chúng tôi nói thật. Lão lại thở dài.
 
-"Các ngươi nói đúng. Ta không thể. Giờ ta chẳng hơn gì bất kỳ một lão già nào khác. Chắc các ngươi không tính cởi trói cho ta đâu nhỉ?"
+"Đúng thật. Chịu rồi. Giờ ta cũng chỉ như bao lão già khác thôi. Chắc mấy đứa không tính cởi trói cho ta đâu nhỉ?"
 
-Lorraine đã thi triển trói buộc ma pháp lên người để hạn chế cử động của ông ta. Xem chừng ông ta muốn cởi bỏ chúng.
+Lorraine đã ếm ma pháp trói chặt người để hạn chế cử động của lão. Xem chừng lão đang muốn được cởi trói.
 
-"Nói không phải bất kính," Augurey đáp, "chứ sức mạnh cơ bắp của ông quả thực chẳng thể xem thường được đâu, ngay cả ở kích thước này. Chúng tôi mà cởi trói là ông sẽ kiếm chuyện đánh nhau ngay tắp lự. Cho nên là, không được đâu."
+"Nói thật lòng thì," Augurey đáp, "sức vóc của ông ở kích cỡ này cũng chẳng đùa được đâu. Cởi trói ra là ông lại kiếm chuyện đánh nhau ngay tắp lự. Cho nên là, không có cửa đâu."
 
-Tôi thầm nghĩ Augurey nói đúng và đó chính xác là những gì ông lão đang mưu tính.
+Tôi thấy Augurey nói chuẩn, lão già kia chắc mẩm đang tính thế thật.
 
-"Trời đất ơi." Ông lão khịt mũi, chứng minh chúng tôi đã đoán đúng. "Các ngươi không thể lơ là cảnh giác dù chỉ một chút thôi sao?"
+"Gớm thật." Ông lão khịt mũi, chứng minh chúng tôi đã đoán trúng tim đen. "Lũ nhóc các ngươi không lơ là cảnh giác lấy một chút được à?"
 
-Chúng tôi thực sự không thể, nhất là trước một kẻ sắc sảo như ông ta. May mắn thay, ngay cả ông ta cũng chẳng thể làm được gì nhiều trong tình thế này, và dường như ông ta cũng tự ý thức được điều đó.
+Dại gì mà lơ là trước một kẻ cáo già như lão. May thay, trong tình cảnh này thì ngay cả lão cũng chẳng xoay xở được gì nhiều, và dường như chính lão cũng biết tỏng điều đó.
 
-Ông lão liếc nhìn quanh chúng tôi một lượt. "Vậy sao? Các ngươi đã bắt sống và trói chặt ta lại. Ta đoán điều đó có nghĩa là các ngươi có câu hỏi muốn dành cho ta. Hỏi đi."
+Ông lão liếc nhìn cả ba chúng tôi. "Rồi sao? Trói sống ta lại thế này, chắc là có chuyện muốn hỏi chứ gì. Hỏi đi."
 
-Nhìn điệu bộ kiêu ngạo của ông ta thì người ta dễ tưởng rằng ông ta mới là kẻ bắt giữ chúng tôi làm tù binh, nhưng tôi phần nào có thể hiểu được sự ngang ngạnh đó khi thấy bản thân ông ta đã bị trói chặt chẽ đến mức này.
+Nhìn cái điệu bộ nghênh ngang ấy, khéo người ta tưởng lão mới là kẻ bắt sống chúng tôi, nhưng thấy lão bị trói gô đến mức này thì tôi cũng phần nào hiểu được cái thói cứng đầu đó.
 
-"Ở ông lúc nào cũng có những chuyện ngoài dự liệu nhỉ?" Lorraine nói. "Chà, sao cũng được. Tôi sẽ đi thẳng vào vấn đề luôn. Tại sao các người lại nhắm vào chúng tôi? Và trong câu hỏi đó tôi tính luôn cả Goblin và Siren đấy."
+"Ông chẳng bao giờ hành xử theo lẽ thường nhỉ?" Lorraine nói. "Thôi, sao cũng được. Tôi đi thẳng vào vấn đề luôn. Tại sao các người lại nhắm vào chúng tôi? Tính cả Goblin và Siren vào đấy."
 
-"Quả nhiên là đi thẳng vào vấn đề thật," ông lão đáp. "Nhưng ta đâu có nghĩa vụ phải nói... À không, xem ra ta không thể né tránh bằng cách giữ im lặng được rồi. Lý do đơn giản thôi. Nhị công chúa đã triệu tập các ngươi tới diện kiến. Chỉ có thế thôi."
+"Đúng là thẳng thắn thật," ông lão đáp. "Nhưng ta đâu có nghĩa vụ phải hé răng... Ờ mà không, xem ra không im lặng được rồi. Lý do đơn giản thôi. Nhị Công Chúa triệu tập các ngươi đến gặp. Thế thôi."
 
-Nhìn tình hình thì có vẻ ông lão đã cố ngậm chặt miệng để tránh bị ép phải khai ra sự thật với chúng tôi, nhưng không thành—ông ta đành phải thú nhận rành rọt. Tôi từng nghe kể rằng việc cố gắng cưỡng lại các điều khoản "không được nói dối" hay "không được giữ im lặng" trong khế ước ràng buộc ma pháp sẽ khiến người ta cảm thấy bồn chồn ngứa ngáy, và miệng lưỡi sẽ tự động thốt ra lời dẫu bản thân không hề muốn. Dù vậy, bản thân tôi chưa từng đích thân trải nghiệm điều đó. Tôi cũng có phần muốn thử một lần, nhưng xét việc điều đó có lẽ chỉ xảy ra khi bản thân vướng vào rắc rối to lớn nào đó, tôi liền gạt phắt ý nghĩ ấy đi.
+Xem chừng ông lão định ngậm miệng để khỏi phải khai thật, nhưng không ăn thua—lão đành tuôn ra tuốt tuột. Tôi nghe nói nếu cố chống lại điều khoản "không nói dối" hay "không được giữ im lặng" trong khế ước ma pháp, người ta sẽ thấy bồn chồn bứt rứt, rồi miệng cứ tự động nói ra dù không hề muốn. Tôi thì chưa trải nghiệm bao giờ. Cũng hơi tò mò muốn thử một lần, cơ mà nghĩ đến cảnh chỉ khi dính vào rắc rối to đùng mới nếm mùi đó, tôi liền dẹp ngay ý nghĩ ấy đi.
 
-Dù sao đi nữa, ông lão đã đưa ra cho chúng tôi chính xác lý do mà chúng tôi từng dự đoán.
+Dù sao thì câu trả lời của lão cũng đúng hệt như chúng tôi dự đoán.
 
-Lorraine thở dài. "Tôi biết ngay mà, nhưng lý do thực sự chỉ có vậy thôi sao? Nói thẳng thừng ra với ông thì tất cả những gì chúng tôi làm chỉ là tán gẫu vu vơ và uống trà mà thôi. Chừng đó chắc chắn đâu đủ điều kiện biến chúng tôi thành mục tiêu cho những con quái vật như các người chứ."
+Lorraine thở dài. "Biết ngay mà, nhưng chỉ vì thế thôi á? Nói thật với ông, chúng tôi đến đó chỉ để uống trà với tán gẫu đôi ba câu. Chừng đó việc đâu đáng để những con quái vật như các người phải nhắm vào chứ."
 
-Lorraine nói không hẳn là sai. Đó gần như chính là những gì đã thực sự diễn ra, nếu người ta lược bỏ đi những chi tiết cụ thể. Việc chúng tôi tra khảo ông lão không có nghĩa là chúng tôi phải cung cấp bất kỳ thông tin nào cho ông ta khai thác, nhất là khi ông ta có vẻ đủ nhạy bén để đưa ra những phán đoán chuẩn xác chỉ từ những mẩu tin nhỏ nhặt. Đó có lẽ là lý do vì sao Lorraine lại lựa lời nói theo cách đó—nhằm cung cấp cho ông ta càng ít thông tin càng tốt. Thế nhưng câu trả lời của ông lão lại nằm ngoài dự liệu.
+Lorraine nói không hẳn sai. Nếu bỏ qua chi tiết thì thực tế đúng là như vậy. Chúng tôi tra khảo ông lão không có nghĩa là phải mớm thông tin cho lão khai thác, nhất là khi lão trông đủ nhạy bén để đoán già đoán non từ những mẩu tin nhỏ nhặt. Có lẽ vì thế nên Lorraine mới lựa lời như vậy—càng để lộ ít thông tin càng tốt. Ngặt nỗi, câu trả lời của ông lão lại hoàn toàn bất ngờ.
 
-"Ta hiểu vì sao các ngươi lại muốn giả ngây giả ngô, nhưng bọn ta ít nhiều đã biết rõ các ngươi đã nói những chuyện gì với nhị công chúa rồi. Quyền trượng của vương quốc, đúng chứ? Cả tình trạng hiện tại của Bệ Hạ nữa."
+"Ta hiểu vì sao các ngươi lại giả ngây giả ngô, nhưng bọn ta ít nhiều đã biết tỏng các ngươi nói gì với Nhị Công Chúa rồi. Cây quyền trượng của vương quốc, phải không? Cả bệnh tình hiện tại của Bệ Hạ nữa."
 
-"Ông đang nói cái gì vậy?" Lorraine hỏi.
+"Ông đang nói cái gì thế?" Lorraine hỏi.
 
-"Khỏi tốn công chối quanh," ông lão đáp. "Nếu bọn ta không nắm rõ chừng đó chuyện thì ngay từ đầu bọn ta đã chẳng có mặt ở đây rồi. Và xét theo thực lực của các ngươi, ta đoán chắc nàng ta đã hạ lệnh cho các ngươi đi thu hồi cây quyền trượng mới. Dù vậy nàng ta tìm được các ngươi cũng giỏi thật đấy; ta phải công nhận điều đó. Ta từng tin chắc rằng bọn ta đã phong tỏa mọi phương án nổi trội của nàng ta rồi cơ."
+"Khỏi tốn công chối quanh," ông lão đáp. "Nếu bọn ta không nắm rõ chừng đó chuyện thì ngay từ đầu đã chẳng có mặt ở đây. Và xét theo thực lực của các ngươi, ta đoán chắc cô ta đã hạ lệnh cho các ngươi đi tìm lại cây quyền trượng mới. Mà cô ta mò ra được các ngươi cũng tài thật, khoản đó ta công nhận. Ta cứ đinh ninh bọn ta đã chặn hết mọi nhân tuyển sáng giá của cô ta rồi cơ."
 
-Ông lão gần như đã đoán trúng phóc, nhưng vẫn có chút sai lệch. Nghe chừng ông ta không biết rằng dẫu công chúa từng nhờ chúng tôi đi lấy cây quyền trượng mới, nhưng rốt cuộc chuyện đó lại biến thành một thỏa thuận mang tính có điều kiện. Về mặt lý thuyết thì hiện tại chúng tôi chẳng hề gánh vác bất kỳ mệnh lệnh nào. Ông ta dường như cũng không hề hay biết gì về lời tiên tri mà nàng đã kể cho chúng tôi nghe.
+Ông lão đoán trúng phóc phần lớn, nhưng vẫn trật một chút. Nghe giọng thì có vẻ lão không biết rằng, dù công chúa có nhờ chúng tôi đi lấy cây quyền trượng mới, nhưng rốt cuộc đó lại là việc kèm theo điều kiện. Tính ra thì hiện giờ chúng tôi chẳng nhận mệnh lệnh nào cả. Lão cũng dường như chẳng hay biết gì về lời tiên tri mà cô ấy đã nói với chúng tôi.
 
-Dù vậy, làm sao mà ông ta biết được? Tôi không nghĩ trong phòng có bất kỳ ma cụ do thám nào. Công chúa hẳn đã tính trước những chuyện như thế rồi. Dẫu nàng không tính tới đi chăng nữa, Lorraine chắc chắn cũng sẽ nhận ra. Tuy nhiên, dựa vào câu hỏi tiếp theo của cô thì xem chừng Lorraine đã suy đoán ra điều gì đó từ lời của ông lão.
+Dù vậy, làm sao mà lão biết được? Tôi không nghĩ trong phòng có ma cụ do thám nào. Công chúa hẳn đã tính trước chuyện đó. Mà dẫu cô ấy không tính tới thì Lorraine cũng thừa sức nhận ra. Có điều, nghe câu hỏi tiếp theo thì dường như Lorraine đã đoán ra được điều gì từ lời của lão.
 
-"Các người đã thuê một thuật sĩ bói toán, đúng không? Kẻ đó hẳn cũng phải cao tay lắm."
+"Các người thuê thuật sĩ bói toán đúng không? Kẻ đó chắc cũng cao tay lắm."
 
-"Hô! Cô sắc sảo thật đấy. Phải, theo những gì ta nghe được thì kẻ đó chưa từng đoán sai điều gì. Bọn ta thực ra từng nhờ kẻ đó nhìn vào quá khứ của ta để làm bài kiểm tra, và kẻ đó có thể đưa ra những câu trả lời vô cùng chi tiết. Dù một vài điều trong số đó... thực ra có chút lệch lạc. Dù thế nào đi nữa, rõ ràng là ba đứa các ngươi quá đỗi nguy hiểm để có thể để cho sống sót. Đó là lý do vì sao bọn ta nhận lệnh phải thủ tiêu các ngươi."
+"Ồ! Tinh ý đấy. Phải, theo những gì ta nghe được thì kẻ đó chưa từng bói sai điều gì. Bọn ta còn thử bắt kẻ đó soi quá khứ của ta để kiểm chứng, và người ta nói vanh vách từng chi tiết một. Dù thực ra có vài chỗ... hơi trật một tí. Dù sao đi nữa, rõ ràng ba đứa các ngươi quá nguy hiểm nếu để cho sống. Thế nên bọn ta mới nhận lệnh phải trừ khử các ngươi."
 
-Tương tự như cách loài High Elf đã ban cho công chúa một lời tiên tri, những người được gọi là thuật sĩ bói toán có thể nhìn thấu quá khứ và tương lai. Một vài người trong số họ thực sự chuẩn xác. Tuy nhiên, vì chuyện bói toán đó rất khó để phân định thật giả, đa phần bọn họ đều bị coi là những kẻ lừa đảo. Dẫu vậy, xét theo lời giải thích của ông lão thì chủ thuê của ông ta đã thành công trong việc chiêu mộ một thuật sĩ bói toán đích thực. Đúng là may mắn đến khó tin.
+Tương tự như lời tiên tri mà tộc High Elf dành cho công chúa, những kẻ được gọi là thuật sĩ bói toán có thể nhìn thấu quá khứ lẫn tương lai. Có người còn bói chuẩn đến khó tin. Ngặt nỗi, trò này thật giả khó lường nên phần lớn bọn họ đều bị coi là phường bịp bợm. Cơ mà nghe lão già giải thích thì kẻ đứng sau lão đã thuê được một thuật sĩ bói toán hàng thật giá thật. May mắn đến thế là cùng.
 
-Dù vậy, tôi tự hỏi tại sao bọn họ lại không nắm được những chi tiết quan trọng nhất. Ngay cả thuật sĩ bói toán hẳn cũng phải tò mò chứ. Kẻ đó chắc chắn đã soi xét chuyện đó rồi mới phải? Dù sao đi nữa, có nghĩ ngợi về việc ấy cũng chẳng đưa tôi tới đâu.
+Có điều, tôi thắc mắc sao bọn họ lại không biết những chi tiết quan trọng nhất. Đến cả thuật sĩ bói toán chắc cũng phải tò mò chứ. Thể nào kẻ đó chẳng bói thử chuyện đó, đúng không? Nhưng thôi, nghĩ ngợi chuyện này cũng chẳng đi đến đâu.
 
-Dù... cũng có những câu chuyện dân gian kể về những việc kiểu như thế—chẳng hạn như việc thần linh can thiệp vào thuật bói toán. Và toàn bộ vụ việc này lại liên quan tới lời tiên tri của loài High Elf, đồng nghĩa với việc nó dính dáng tới Thánh Thụ, thứ bản thân dường như đã tiệm cận một vị thần. Có lẽ đó là lý do vì sao thuật bói toán lại có phần bị hạn hẹp tầm nhìn như vậy.
+Mà khoan... trong truyện dân gian cũng có nhắc đến những chuyện tương tự—kiểu như thần linh can thiệp làm nhiễu thuật bói toán. Mà chuyện này lại dính tới lời tiên tri của tộc High Elf, tức là dính dáng đến Thánh Thụ—thứ được coi là gần như một vị thần. Biết đâu vì thế mà quẻ bói mới không nhìn thấu đáo được như vậy.
 
-Lorraine sau đó liền cất tiếng hỏi câu quan trọng nhất.
+Đến lúc này, Lorraine mới hỏi câu quan trọng nhất.
 
-"Vậy, rốt cuộc ai là kẻ đã hạ những mệnh lệnh đó cho các người?"
+"Thế rốt cuộc ai là kẻ ra lệnh cho các người?"
