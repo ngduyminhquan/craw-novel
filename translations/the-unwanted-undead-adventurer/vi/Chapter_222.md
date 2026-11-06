@@ -1,121 +1,121 @@
 # Chương 222: Tập 10 Chương 1 - Vương Đô và Giáo Hội Đông Thiên (2)
 
-"Thế này thì nhà thờ ở Maalt trông chẳng khác nào một túp lều xiêu vẹo cả," tôi lẩm bẩm khi đứng trước công trình được nhắc tới.
+"Nhìn chỗ này xong thấy nhà thờ ở Maalt trông chẳng khác nào túp lều xiêu vẹo," tôi lẩm bẩm khi đứng trước tòa nhà.
 
-Lorraine gật đầu. "Cũng đúng như dự đoán thôi. Dù Giáo Hội Đông Thiên không phải là một tổ chức tôn giáo đặc biệt giàu có, nhưng đây vẫn là tín ngưỡng chính tại Yaaran. Nhà thờ chính ở vương đô này bề thế hơn nhiều so với nhà thờ ở Maalt cũng là lẽ đương nhiên."
+Lorraine gật đầu. "Cũng không lạ. Tuy Giáo Hội Đông Thiên không phải tổ chức tôn giáo giàu có gì cho cam, nhưng đây vẫn là tín ngưỡng chính của Yaaran. Nhà thờ chính ở vương đô bề thế hơn hẳn chỗ ở Maalt cũng là lẽ đương nhiên."
 
-Tòa kiến trúc cao vút trước mặt chúng tôi với những tòa tháp đồ sộ sừng sững trên nền trời như để chứng thực cho lời nhận định của Lorraine. Tôi cũng nhìn thấy một lượng lớn tín đồ đang tấp nập nhưng trật tự ra vào tòa nhà. Nơi đây thực sự rất náo nhiệt. Không hẳn là Giáo Hội Đông Thiên ở Maalt không nhộn nhịp, nhưng tại đó họ thường xuyên bị lu mờ trước Giáo Hội Lobelia.
+Tòa kiến trúc cao vút trước mặt chúng tôi với những ngọn tháp đồ sộ tỏa sáng trên cao như ngầm chứng minh những lời Lorraine vừa nói. Rất đông tín đồ đang lặng lẽ nhưng tất bật ra vào tòa nhà. Khung cảnh ở đây quả thực rất nhộn nhịp. Không hẳn là Giáo Hội Đông Thiên ở Maalt không đông, chỉ có điều ở đó họ thường xuyên bị Giáo Hội Lobelia lấn át.
 
-Ngay cả ở vương đô này, Giáo Hội Lobelia cũng đang bắt đầu bành trướng tầm ảnh hưởng. Tôi có thể nhìn thấy nhà thờ của họ cách đó không xa. Chúng tôi đã phải đi ngang qua đó trên đường tới đây, nhưng họ truyền giáo ráo riết đến mức khiến người ta cảm thấy hơi ngột ngạt.
+Ngay tại vương đô này, Giáo Hội Lobelia cũng đang bắt đầu lan rộng tầm ảnh hưởng. Cách chỗ chúng tôi đứng không xa là nhà thờ của họ. Lúc đi tới đây chúng tôi buộc phải ngang qua đó, và cung cách truyền giáo ráo riết của họ khiến người ta thấy hơi ngợp.
 
-"Nếu gia nhập Giáo Hội Lobelia, quý vị chắc chắn sẽ được cứu rỗi."
+"Gia nhập Giáo Hội Lobelia, quý vị chắc chắn sẽ được cứu rỗi!"
 
-"Trong hàng ngũ của chúng tôi có rất nhiều Thánh Giả, nên quý vị cũng sẽ nhận được vô vàn phước lành ngay trong kiếp sống này."
+"Giáo hội chúng tôi có rất nhiều Thánh Giả, bảo đảm quý vị sẽ nhận được đủ đầy phước lành ngay trong kiếp sống này!"
 
-"Nước Thánh của chúng tôi có giá cả phải chăng hơn các tín ngưỡng khác nhiều!"
+"Nước Thánh của chúng tôi có giá phải chăng hơn các tín ngưỡng khác nhiều!"
 
-Cứ đi được chừng vài mét, chúng tôi lại nghe thấy một lời chào mời kiểu như vậy. Tôi đã định hỏi xem họ đang cố gắng truyền đạo hay đang chốt một thương vụ làm ăn, nhưng tôi biết nếu mình thốt ra điều đó, nó sẽ chỉ châm ngòi cho cả một tràng tuôn trào lời lẽ khác mà thôi. Thế nên tôi đành làm ngơ bước tiếp.
+Cứ đi được vài bước, chúng tôi lại gặp một lời chèo kéo kiểu đó. Tôi đã định hỏi xem họ đang truyền đạo hay đang tính chuyện buôn bán, nhưng biết rằng chỉ cần mở miệng là kiểu gì họ cũng tuôn ra thêm một tràng bất tận. Thế nên tôi đành ngó lơ cho xong.
 
-Dù Lorraine đứng ngay cạnh tôi, chẳng có ai tiến lại thuyết phục cô gia nhập Giáo Hội Lobelia cả. Điều này khiến tôi thấy lạ lùng, nên tôi quyết định hỏi cô lý do vì sao lại như vậy.
+Dù Lorraine đi ngay sát cạnh tôi, tuyệt nhiên chẳng ai buồn chèo kéo cô vào Giáo Hội Lobelia. Thấy lạ lùng, tôi bèn hỏi cô tại sao lại thế.
 
-"Có lẽ trông anh dễ bị dụ hơn tôi đấy," Lorraine đáp. "Họ cứ liếc nhìn về phía tôi, nhưng chỉ sau vài giây là ai nấy đều dạt ra xa."
+"Chắc tại nhìn mặt anh dễ dụ hơn tôi đấy," Lorraine đáp. "Họ cứ liếc nhìn về phía tôi, nhưng chỉ được vài giây là ai nấy đều lảng đi chỗ khác."
 
-Trông tôi dễ bị dụ đến thế thật sao? Có lẽ trước khi bị rồng ăn thịt thì đúng là như vậy. Hồi còn là con người, người ta thường bảo trông tôi rất đáng tin và tốt bụng. Dù vậy, tôi tin chắc dạo gần đây trông mình khá là mờ ám. Nói đúng hơn thì, trông tôi giống kiểu người sẽ đi lừa gạt những tín đồ mộ đạo thì có. Dù thế nào đi nữa, khi còn ở Maalt chẳng mấy ai làm phiền tôi như vậy. Dẫu sao thì kiểu lôi kéo người bừa bãi ngoài đường như thế ở đó cũng rất hiếm gặp.
+Mặt mình dễ dụ đến thế cơ à? Hồi trước khi bị rồng nuốt chửng thì có khi đúng thật. Lúc còn là con người, ai cũng bảo trông tôi vừa hiền lành vừa đáng tin. Nhưng bây giờ thì tôi dám chắc trông mình mờ ám thấy rõ. Nói đúng hơn, tôi nhìn giống kẻ chuyên đi lừa những tín đồ thật thà thì có. Cơ mà hồi ở Maalt cũng chẳng mấy ai quấy rầy tôi như vậy, vả lại ở đó hiếm khi thấy cảnh đứng đường chèo kéo người ta bừa bãi như thế này.
 
-Trái lại, Giáo Hội Lobelia ở vương đô này lại tỏ ra đặc biệt thèm khát tín đồ mới. Giáo Hội Đông Thiên chẳng mấy mặn mà với việc truyền bá đức tin, vì vậy có thể chính sự sốt sắng truyền giáo của Giáo Hội Lobelia đã tạo nên tình cảnh họ đang dần lấn chiếm địa bàn của Giáo Hội Đông Thiên tại Yaaran. Xét theo khía cạnh đó, với tư cách là một công dân Vương Quốc Yaaran, tôi cũng mong Giáo Hội Đông Thiên nỗ lực hơn đôi chút, nhưng tôi đâu phải là một tín đồ ngoan đạo, nên tôi cũng chẳng mấy bận tâm đến kết cục sau cùng.
+Trái lại, Giáo Hội Lobelia ở vương đô này dường như đặc biệt thèm khát thêm tín đồ mới. Giáo Hội Đông Thiên chẳng mấy mặn mà với việc truyền bá đức tin, nên sự sốt sắng của Giáo Hội Lobelia đã giúp họ dần dà lấn sân ngay trên đất Yaaran. Dưới góc độ một công dân Vương Quốc Yaaran, tôi cũng mong Giáo Hội Đông Thiên nỗ lực thêm đôi chút, có điều bản thân đâu phải tín đồ mộ đạo nên kết cục ra sao tôi cũng chẳng mấy bận lòng.
 
-Ngay khi dòng suy nghĩ của tôi dừng lại ở đó, Lorraine lên tiếng: "Được rồi, chúng ta đi tiếp thôi, Rentt. Cứ đứng mãi ở đây trông khả nghi lắm."
+Vừa miên man nghĩ tới đó thì Lorraine giục: "Thôi, đi tiếp nào Rentt. Cứ đứng trơ trơ ở đây trông khả nghi lắm."
 
-Cô sải bước về phía nhà thờ, nên tôi cất bước theo sau. Chúng tôi nhanh chóng bước vào bên trong tòa nhà qua cánh cửa mở rộng của lối vào khổng lồ.
+Cô rảo bước về phía nhà thờ, tôi cũng lẳng lặng đi theo. Chúng tôi bước qua cánh cửa lớn đang mở toang để vào bên trong tòa nhà.
 
 ◆◇◆◇◆
 
-Nội thất của Giáo Hội Đông Thiên, cũng như vẻ ngoài của nó, là một công trình kiến trúc đầy ấn tượng, nhưng có lẽ do giáo lý của giáo hội, nơi đây không hề được bài trí xa hoa hay sặc sỡ. Điều đó không có nghĩa là nó không đẹp—nó rất đẹp—nhưng vẻ đẹp của nó mang nét trang nghiêm và khiêm nhường, còn các bức tượng cùng tranh tường đều tránh sự phô trương hào nhoáng mà hướng trọn về lòng sùng kính.
+Bên trong Giáo Hội Đông Thiên cũng là một công trình kiến trúc ấn tượng chẳng kém gì vẻ ngoài, nhưng có lẽ do giáo lý của họ, nơi đây không hề được bài trí xa hoa hay loè loẹt. Nói vậy không có nghĩa là nó không đẹp, trái lại còn rất đẹp là đằng khác, chỉ có điều nét đẹp ở đây trầm lắng và khiêm nhường, còn các bức tượng cùng tranh tường đều tránh thói phô trương hào nhoáng mà hướng trọn về lòng thành kính.
 
-Những chi tiết trang trí đều khắc họa các nhân vật và sự kiện trong kinh điển của Giáo Hội Đông Thiên, và các tín đồ đang dâng lời cầu nguyện trước từng bức tượng cùng bích họa. Ở chính giữa đại sảnh, vô số dãy ghế dài thênh thang đủ chỗ cho hàng chục tín đồ được xếp ngay ngắn thành từng hàng. Giữa các dãy ghế dài là một lối đi trải thảm màu tím trải dài về phía bàn thờ. Phía sau bàn thờ, một khung kính màu lớn miêu tả Thiên Sứ Phương Đông được giáo hội tôn thờ tỏa ra ánh sáng ấm áp khắp căn phòng. Dù vậy, cả bàn thờ lẫn khung kính màu đều không nhằm phô trương sự tráng lệ của giáo hội; chúng là những cách bài trí nhằm tạo nên một bầu không khí thanh tịnh và sùng đạo.
+Mọi nét trang trí đều khắc họa nhân vật và sự kiện trong kinh điển của Giáo Hội Đông Thiên, và các tín đồ đang thành tâm cầu nguyện trước từng bức tượng cùng bích họa. Ở chính giữa đại sảnh, những dãy ghế dài tít tắp đủ chỗ cho đông đảo tín đồ ngồi được xếp ngay ngắn thành từng hàng. Chạy dọc giữa các hàng ghế là lối đi trải thảm tím dẫn thẳng tới bàn thờ. Phía sau bàn thờ, ô cửa kính màu lớn khắc họa Thiên Sứ Phương Đông được giáo hội phụng thờ đang rọi ánh sáng ấm áp khắp căn phòng. Dù vậy, cả bàn thờ lẫn ô kính màu đều không nhằm phô trương sự bề thế của giáo hội, mà là sự sắp đặt có chủ ý nhằm tạo nên một bầu không khí tĩnh mịch và sùng kính.
 
-"Tôi không có ý định theo một tín ngưỡng cụ thể nào, nhưng tôi luôn cảm thấy điều gì đó lắng đọng mỗi khi ở một nơi như thế này," Lorraine khẽ thở dài nói.
+"Tôi chẳng có ý định theo một tín ngưỡng nào, nhưng cứ ở những nơi thế này là lòng lại thấy lắng xuống," Lorraine khẽ thở dài bảo.
 
-Giáo Hội Lobelia có tầm ảnh hưởng rất lớn tại Đế Quốc, nhưng bản thân Lorraine lại không phải người sùng đạo. Tôi cho rằng điều cô muốn nói là nơi này khiến ngay cả một người như cô cũng muốn tin vào một đấng tối cao, dù chỉ trong một khoảnh khắc ngắn ngủi.
+Giáo Hội Lobelia có ảnh hưởng rất lớn tại Đế Quốc, nhưng bản thân Lorraine lại chẳng mấy mặn mà với tôn giáo. Chắc ý cô là nơi này khiến ngay cả một người như cô cũng muốn tin vào đấng tối cao, dù chỉ trong một thoáng ngắn ngủi.
 
 ![](images/ch222-01.webp)
 
-Xét đến việc quả thực có tồn tại những thứ như phước lành từ thần linh và tinh linh, tôi thấy chẳng có gì sai khi đặt niềm tin vào một điều gì đó, nhưng thực tế là phước lành thường được ban cho cả những người không hề có đức tin sâu sắc. Vì cả Lorraine và tôi đều sở hữu Thần Lực, theo hầu hết các tổ chức tôn giáo thì chúng tôi đều là Thánh Giả, nhưng nếu bị hỏi liệu chúng tôi có tôn thờ vị thần tinh linh ở ngôi đền đó không, có lẽ tôi sẽ phải trả lời là không. Tôi biết ơn người, nhưng điều đó hoàn toàn khác với lòng trung thành phụng sự.
+Trên đời vốn có phước lành của thần linh và tinh linh, nên tôi thấy người ta đặt niềm tin vào một chỗ dựa nào đó cũng chẳng có gì sai, ngặt nỗi phước lành lại hay được ban cho cả những kẻ chẳng mấy mặn mà với đức tin. Cả tôi lẫn Lorraine đều sở hữu Thần Lực, chiếu theo quy chuẩn của hầu hết các tổ chức tôn giáo thì hai đứa đều được coi là Thánh Giả, nhưng nếu hỏi liệu chúng tôi có sùng kính phụng thờ vị thần ở ngôi đền kia không thì chắc chắn câu trả lời là không. Biết ơn thì có thật, nhưng chuyện đó khác xa với lòng thần phục.
 
-"Không phải là tôi không hiểu lý do," tôi lẩm bẩm, "nhưng đúng như tôi đã phần nào dự liệu, chẳng có chuyện gì xảy ra với tôi ngay cả ở một nơi như thế này. Tôi từng nghĩ không giống như nhà thờ nhỏ ở Maalt, biết đâu lại có điều gì đó xảy ra tại một nhà thờ cấp cao như ở đây."
+"Tôi hiểu cảm giác đó chứ," tôi lẩm bẩm, "nhưng đúng như dự liệu, vào tận một nơi thế này rồi mà người tôi vẫn chẳng hề hấn gì. Cứ tưởng khác với cái nhà thờ bé tí ở Maalt, đến một giáo đường lớn thế này thì phải có chút phản ứng gì chứ."
 
-Lorraine quay sang tôi và chăm chú quan sát.
+Lorraine quay sang nhìn tôi chăm chú.
 
-"Đúng thật, anh chẳng có gì khác lạ. Chà, nơi này là nhà thờ, nhưng đâu phải là tràn ngập Thần Lực. Hơn nữa, ngay cả khi có như vậy đi chăng nữa, anh vốn là một sự tồn tại dị thường. Anh là một Undead sở hữu Thần Lực của riêng mình, nên việc chẳng có chuyện gì xảy ra cũng không quá đáng ngạc nhiên."
+"Đúng thật, trông anh chẳng có gì khác lạ. Mà nơi này tuy là nhà thờ nhưng cũng đâu đến mức tràn ngập Thần Lực. Vả lại có thế thật thì anh cũng là trường hợp dị biệt rồi. Một Undead lại sở hữu Thần Lực của riêng mình như anh thì có trơ trơ ra đó cũng chẳng ai lấy làm lạ."
 
-"Phải rồi. Nếu tôi nghĩ nó tiềm ẩn rủi ro lớn đến thế, ngay từ đầu tôi đã chẳng bước chân vào nhà thờ làm gì."
+"Ừ. Thấy nguy hiểm đến mức ấy thì ngay từ đầu tôi đã chẳng thèm bước chân vào."
 
-Ấn tượng của tôi trước khi bước vào là một tòa nhà to lớn, tráng lệ, chứ tôi không hề cảm thấy bất an hay sợ hãi. Vì cơ thể tôi là một Undead, nếu bản thân nhà thờ gây nguy hiểm cho giống loài của tôi, tôi đã phải cảm thấy một nỗi kinh hãi hay ghê tởm nào đó khi đến gần nơi này rồi. Nhưng thực tế là tôi chẳng hề cảm thấy bất cứ điều gì tương tự khi tới đây.
+Trước khi vào, ấn tượng duy nhất của tôi là tòa nhà này vừa đồ sộ vừa bề thế, chứ trong người tuyệt nhiên không thấy bất an hay sợ hãi. Mang thân xác của một Undead, nếu nhà thờ này nguy hiểm với giống loài của tôi thì chỉ cần đến gần là tôi đã phải thấy rợn ngợp hay bài xích rồi. Đằng này lúc đặt chân tới đây, tôi chẳng mảy may thấy điều gì khác thường.
 
-Ngoài ra, khi tôi thực sự bước vào bên trong, cũng chẳng có chuyện gì xảy ra. Hành động đó có thể là liều lĩnh, xét đến việc nếu có bất trắc gì, lựa chọn duy nhất của tôi sẽ là để Lorraine kéo tôi ra khỏi tòa nhà. Dù vậy, tính đến thời điểm này tôi cũng đã từng ghé qua kha khá cơ sở tôn giáo rồi, bao gồm cả nhà nguyện ở cô nhi viện tại Maalt. Đó không phải một nhà nguyện lớn, nhưng nó rất hữu ích trong việc kiểm tra phản ứng của tôi trước các kiến trúc thần thánh. Vậy thì có lẽ việc tôi cứ thế thản nhiên bước vào đây cũng không hẳn là quá liều lĩnh.
+Đến khi bước hẳn vào trong rồi cũng chẳng thấy động tĩnh gì xảy ra. Nghe thì có vẻ liều lĩnh, bởi ngộ nhỡ có biến thì cứu cánh duy nhất của tôi chỉ là để Lorraine lôi xềnh xệch ra ngoài. Có điều tính đến nay tôi cũng đã ghé qua kha khá cơ sở tôn giáo, kể cả nhà nguyện ở cô nhi viện bên Maalt. Chỗ đó tuy nhỏ nhưng đã giúp tôi thăm dò phản ứng của bản thân trước các công trình thần thánh. Thành thử việc tôi cứ thế thong dong bước vào đây cũng chưa hẳn là quá bốc đồng.
 
-"Tuy nhiên, điều đó chỉ đơn giản có nghĩa là anh có thể chịu được riêng nhà thờ này. Rất có thể nhà thờ của các tín ngưỡng khác sẽ gây ảnh hưởng lên anh. Anh vẫn nên cẩn thận thì hơn."
+"Có điều thế chỉ chứng tỏ anh chịu được riêng cái nhà thờ này thôi. Biết đâu nhà thờ của các giáo phái khác lại tác động lên anh thì sao. Tốt nhất vẫn nên cẩn thận."
 
-Lorraine không quên nhắc nhở để tôi không trở nên quá tự tin, và dĩ nhiên là cô ấy nói đúng. Trước đây tôi từng nghe nói rằng mối quan hệ giữa các vị thần có thể tác động đến cán cân sức mạnh giữa một vị thần và người sử dụng Thần Lực. Chẳng hạn, các Thánh Giả có thể nhận được sự gia tăng sức mạnh khi đối đầu với tín đồ của một vị thần mà thần của họ căm ghét. Rốt cuộc thì các vị thần thường chọn phàm nhân không phải dựa trên phẩm hạnh đạo đức, mà dựa vào việc họ có thích cá nhân đó hay không. Đó chính là điều Lorraine muốn nói khi chỉ ra rằng việc tới một nhà thờ khác vẫn có thể là vấn đề, ngay cả khi tôi hoàn toàn bình an vô sự ở Giáo Hội Đông Thiên.
+Lorraine dằn trước để tôi khỏi chủ quan, và rõ ràng cô nói chẳng sai. Tôi từng nghe kể mối quan hệ giữa các vị thần có thể tác động đến cán cân quyền năng giữa thần linh và người vận Thần Lực. Chẳng hạn, Thánh Giả có thể được tiếp thêm sức mạnh khi đối đầu với tín đồ của một vị thần vốn đối nghịch với vị thần bảo hộ của mình. Suy cho cùng, thần linh chọn phàm nhân đâu dựa vào phẩm hạnh đạo đức, mà thuần túy là xem họ có thuận mắt người đó hay không. Đó là lý do Lorraine nhắc nhở rằng dẫu tôi bình an vô sự ở Giáo Hội Đông Thiên thì sang nhà thờ khác vẫn có thể gặp chuyện như thường.
 
-"Ừ, đúng thế thật. Tôi sẽ cẩn thận. Gác chuyện đó lại đã, còn bức thư thì sao? Chúng ta giao nó cho ai đây?"
+"Ừ, phải rồi. Tôi sẽ cẩn thận. Cơ mà gác chuyện đó lại đã, bức thư thì tính sao? Mình phải trao cho ai đây?"
 
-Khi tôi đổi chủ đề, Lorraine lấy bức thư từ trong túi ra. Bức thư được niêm phong bằng sáp, và dù bên ngoài không đề tên người nhận, Lorraine đã được dặn trước là phải giao thư cho ai. Cô cũng chính là người nhận ủy thác này.
+Thấy tôi chuyển chủ đề, Lorraine rút bức thư trong túi ra. Thư được niêm sáp cẩn thận, bên ngoài không đề tên ai nhưng Lorraine đã được dặn trước là phải chuyển cho ai. Dù sao cô cũng là người trực tiếp nhận ủy thác.
 
 "Sơ Lillian nhờ tôi giao bức thư này cho Nữ Tu Viện Trưởng Elza của Tu Viện Yaaran thuộc Giáo Hội Đông Thiên."
 
-"Vậy là sơ ấy gửi cho một người có địa vị khá cao đấy nhỉ."
+"Vậy là sơ ấy gửi cho một người có chức sắc khá cao đấy chứ."
 
-Trong Giáo Hội Đông Thiên, Tổng Viện Trưởng là phẩm trật cao nhất, tiếp theo là Tu Viện Trưởng, Phó Tu Viện Trưởng, Kinh Sĩ, vân vân—tổng cộng có mười phẩm trật. Giữa các phẩm trật còn có những phân cấp chi tiết hơn, nhưng đó là hệ thống thứ bậc cơ bản. Người tương đương với Đại Giáo Phụ trong Giáo Hội Lobelia, hay nói cách khác là giáo hoàng hoặc giáo trưởng trong các tín ngưỡng khác, chính là Đại Tu Viện Trưởng, vì vậy một Tu Viện Trưởng trong Giáo Hội Đông Thiên về cơ bản tương đương với hồng y hoặc giám mục. Một Tu Viện Trưởng thậm chí một ngày nào đó có thể thăng lên làm Tổng Viện Trưởng.
+Trong Giáo Hội Đông Thiên, Tổng Viện Trưởng là phẩm trật cao nhất, tiếp theo là Tu Viện Trưởng, Phó Tu Viện Trưởng, Kinh Sĩ, vân vân, cả thảy có mười bậc. Giữa các cấp bậc còn có những phân định chi tiết hơn, nhưng đó là hệ thống phẩm trật căn bản. Người có vị thế tương đương với Đại Giáo Phụ bên Giáo Hội Lobelia, hay giáo hoàng và giáo trưởng ở các tôn giáo khác, chính là Đại Tu Viện Trưởng, thành thử Tu Viện Trưởng trong Giáo Hội Đông Thiên về cơ bản ngang hàng với hồng y hoặc giám mục. Một Tu Viện Trưởng thậm chí có ngày còn có thể thăng lên làm Tổng Viện Trưởng.
 
-Lillian lại trực tiếp trao đổi thư từ với một người mang phẩm trật cỡ đó, vậy phải chăng địa vị của sơ ấy còn cao hơn tôi tưởng? Sơ trước giờ luôn chỉ tự giới thiệu mình là một giáo sĩ và chưa từng nói cho chúng tôi biết phẩm trật chính xác của mình. Thông thường, một người phụ trách nhà thờ tại một thành phố tầm cỡ Maalt khá lắm thì cũng chỉ là Kinh Sĩ. Tôi cho rằng đây là chuyện mình sẽ phải hỏi Sơ Lillian vào một lúc nào đó.
+Sơ Lillian lại trực tiếp trao đổi thư từ với một người mang phẩm trật cỡ đó, chẳng lẽ địa vị của sơ lại cao hơn tôi tưởng? Xưa nay sơ chỉ tự giới thiệu mình là người phục vụ giáo hội chứ chưa từng nói rõ phẩm hàm cụ thể. Thông thường, người phụ trách một nhà thờ ở thị trấn cỡ Maalt khá lắm thì cũng chỉ tới bậc Kinh Sĩ. Xem ra có dịp nào tôi phải hỏi lại Sơ Lillian cho ra nhẽ mới được.
 
-"Có lẽ điều đó chỉ đơn giản có nghĩa là Giáo Hội Đông Thiên không câu nệ tôn ti trật tự như Giáo Hội Lobelia thôi. Tôi từng nghe kể rằng nếu anh muốn gửi một bức thư tới Đại Giáo Phụ của Giáo Hội Lobelia, anh phải là người có phẩm hàm cao hoặc có chiến tích lẫy lừng thì ngài ấy mới thèm để mắt đến lời thỉnh cầu của anh."
+"Biết đâu chỉ là vì Giáo Hội Đông Thiên không quá nặng nề chuyện tôn ti trật tự như Giáo Hội Lobelia thì sao. Tôi nghe nói bên Giáo Hội Lobelia, muốn gửi thư tới Đại Giáo Phụ thì người ta một là phải có phẩm hàm cao, hai là phải lập công trạng lớn, ngài ấy mới thèm đoái hoài tới."
 
-Đó quả là một thái cực hoàn toàn trái ngược.
+Thế thì đúng là một thái cực hoàn toàn trái ngược.
 
-"Vậy là một đứa trẻ có dành dụm tiền tiêu vặt để trả cước bưu điện thì cũng vô ích nhỉ?" tôi nói.
+"Thế thì một đứa trẻ có chắt chiu tiền tiêu vặt để trả cước gửi thư cũng công cốc nhỉ?" tôi bảo.
 
-"À thì, chúng vẫn có thể gửi được chứ," Lorraine đáp, "nhưng những bức thư sẽ được cấp dưới của Đại Giáo Phụ đọc trước rồi phân loại. Rốt cuộc chỉ có một số ít lọt được tới bàn làm việc của Đại Giáo Phụ. Dẫu vậy, nhiều khả năng một bức thư từ một đứa trẻ như anh vừa miêu tả lại có cơ hội khá cao đấy. Nếu tin tức truyền ra rằng Đại Giáo Phụ đã đọc và hồi âm, điều đó sẽ rất có lợi cho danh tiếng của giáo hội. Tại Đế Quốc, nếu anh tới một nhà thờ ở vùng nông thôn, đôi khi anh sẽ thấy thư hồi đáp của Đại Giáo Phụ được lồng khung kính và treo trang trọng trên tường đấy."
+"À thì, chúng vẫn gửi được chứ," Lorraine đáp, "nhưng thư từ đều qua tay cấp dưới của Đại Giáo Phụ đọc và sàng lọc trước đã. Rốt cuộc chỉ có dăm ba lá lọt được lên bàn ngài ấy. Có điều, một lá thư của con nít như anh bảo khéo lại có cơ hội hơn đấy. Nếu tin tức Đại Giáo Phụ đích thân đọc rồi hồi âm được truyền ra ngoài thì danh tiếng của giáo hội chỉ có thơm lây. Bên Đế Quốc, thỉnh thoảng ghé vào mấy nhà thờ vùng quê anh sẽ thấy thư hồi đáp của Đại Giáo Phụ được đóng khung treo trang trọng trên tường đấy thôi."
 
-"Thực ra thì, chuyện đó cũng không hẳn là xấu... nhưng nghe cứ thấy có mùi toan tính sao ấy."
+"Ngẫm ra thì chuyện đó cũng chẳng hẳn là xấu... cơ mà nghe cứ thấy sực mùi toan tính sao ấy."
 
-"Thực tế là chúng ta đang sống trong một thế giới khắc nghiệt mà. Dù sao thì, quay lại chuyện bức thư. Tôi muốn chắc chắn Nữ Tu Viện Trưởng sẽ nhận được nó, chứ tôi không muốn trao nó cho một tư tế vu vơ nào đó rồi để nó chẳng bao giờ được đọc tới."
+"Đời vốn thực tế và khắc nghiệt thế đấy. Cơ mà thôi, quay lại chuyện bức thư đã. Tôi muốn bảo đảm Nữ Tu Viện Trưởng nhận được tận tay, chứ không đời nào muốn đưa bừa cho một tư tế vu vơ nào đó rồi để nó chìm vào quên lãng."
 
-Lorraine nhìn quanh phòng, rồi cất tiếng gọi một người phụ nữ đi ngang qua có vẻ là nữ tu. Cô định nhờ nữ tu mời Nữ Tu Viện Trưởng Elza tới gặp mình. Cách dễ nhất là đưa bức thư cho nữ tu và nhờ cô ấy chuyển giúp, nhưng Lorraine đã nhận công việc này như một ủy thác đàng hoàng. Lòng tự tôn nghề nghiệp của một mạo hiểm giả đòi hỏi cô phải bảo đảm Elza nhận được tận tay bức thư. Trong trường hợp đó, việc cứ thế tùy tiện giao nó cho một nữ tu tình cờ đi ngang qua sẽ là quá thiếu cẩn trọng.
+Lorraine nhìn quanh đại sảnh, rồi cất tiếng gọi một phụ nữ đi ngang qua trông như nữ tu. Cô định nhờ người này mời Nữ Tu Viện Trưởng Elza ra gặp. Cách đơn giản nhất dĩ nhiên là cứ đưa thư cho nữ tu rồi nhờ chuyển giùm, ngặt nỗi Lorraine đã nhận việc này như một ủy thác đàng hoàng. Lòng tự tôn nghề nghiệp của mạo hiểm giả đòi hỏi cô phải tận mắt thấy Elza cầm được thư. Đã thế thì việc tuỳ tiện trao nó cho một nữ tu tình cờ ngang qua sẽ là quá đỗi thiếu cẩn trọng.
 
-"Vâng? Tôi có thể giúp gì cho hai vị ạ? Hai vị muốn dâng lời cầu nguyện chăng? Hay mua một ít Nước Thánh? Hay hai vị muốn quyên góp công đức ạ?"
+"Vâng? Tôi có thể giúp gì cho hai vị ạ? Hai vị muốn vào dâng lời cầu nguyện chăng? Hay muốn mua chút Nước Thánh? Hay là hai vị muốn quyên góp ủng hộ giáo hội ạ?"
 
-Người nữ tu có lẽ chỉ đang liệt kê những yêu cầu có thể có, nhưng tôi không thể không nhận ra một chút tia hy vọng le lói trong giọng nói của cô ấy ở câu hỏi cuối cùng. Dù tôn giáo không đặt nặng chuyện tiền bạc, nhưng bất kỳ tổ chức tôn giáo nào cũng cần tiền để duy trì hoạt động. Điều đó cũng dễ hiểu thôi.
+Có lẽ nữ tu chỉ liệt kê những nhu cầu thông thường, nhưng ở câu hỏi cuối cùng, tôi vẫn nghe thoáng ra một tia hy vọng le lói trong giọng cô ấy. Tôn giáo dẫu không vì tiền tài, nhưng tổ chức tôn giáo nào muốn duy trì cũng cần đến kinh phí. Chuyện đó kể ra cũng dễ hiểu thôi.
 
-Hơn nữa, theo những gì tôi quan sát được từ các tu sĩ đi ngang qua, tất cả họ đều mặc y phục giản dị. Những tu sĩ lớn tuổi hơn rõ ràng đã mặc bộ đồ của mình suốt một thời gian dài, bởi vô số miếng vá đang che đi những chỗ rách và sờn trên vải. Rõ ràng họ không có thói quen tiêu xài hoang phí vào những thứ xa xỉ. Điều đó càng khắc sâu việc Giáo Hội Đông Thiên ít bận tâm đến những thứ như vậy đến nhường nào, khiến tôi cũng muốn quyên góp đôi chút.
+Vả lại nhìn mấy tu sĩ đi ngang qua, ai nấy đều bận đồ hết sức giản dị. Những người lớn tuổi hẳn đã mặc bộ y phục ấy suốt nhiều năm trời, bằng chứng là vô số miếng vá chằng vá đụp che đi những chỗ rách sờn trên mặt vải. Rõ ràng họ không hề có thói quen tiêu xài hoang phí vào những thứ xa xỉ. Thấy Giáo Hội Đông Thiên thanh đạm đến chừng ấy, tự dưng tôi cũng nổi hứng muốn mở hầu bao quyên góp một chút.
 
-"Tôi dự định sẽ quyên góp trước khi về," Lorraine nói, "nhưng đó không phải lý do hôm nay chúng tôi có mặt ở đây. Chúng tôi đến từ thị trấn Maalt, và chúng tôi có một bức thư từ một nữ tu của giáo hội được nhờ chuyển giao thay cô ấy. Tôi muốn trao tận tay cho người được chỉ định nhận thư. Liệu sơ có thể mời người nhận tới gặp tôi được không?"
+"Lát nữa trước khi về tôi sẽ quyên góp," Lorraine nói, "nhưng hôm nay chúng tôi tới đây không phải vì chuyện đó. Chúng tôi từ thị trấn Maalt đến, có mang theo bức thư của một nữ tu bên đó gửi gắm. Tôi muốn trao tận tay cho người nhận theo lời dặn. Liệu sơ có thể phiền người ấy ra đây một lát được không?"
 
-"A, hai vị thực sự đã lặn lội đường xa tới đây. Cảm ơn hai vị đã bớt chút thời gian. Tôi rất sẵn lòng giúp đỡ hai vị. Bức thư được gửi cho ai vậy ạ? Và nếu được, tôi có thể biết người viết là ai không?"
+"Ôi, hai vị đã lặn lội đường sá xa xôi tới tận đây sao. Đa tạ hai vị đã cất công giúp đỡ. Tôi rất sẵn lòng hỗ trợ. Vậy bức thư gửi cho vị nào thế ạ? Và nếu tiện, tôi có thể mạn phép hỏi người gửi là ai không?"
 
-"Phải rồi, xin thứ lỗi cho tôi. Bức thư được gửi cho Nữ Tu Viện Trưởng Elza. Người gửi là Sơ Lillian ở Maalt. Xin thứ lỗi, tôi không rõ phẩm trật của Sơ Lillian, vì tôi chưa từng có dịp thích hợp để hỏi..."
+"À, thứ lỗi cho tôi sơ suất. Thư này gửi cho Nữ Tu Viện Trưởng Elza, còn người gửi là Sơ Lillian ở Maalt. Tiếc là tôi không rõ phẩm trật của Sơ Lillian, bởi trước giờ chưa có dịp thuận tiện để hỏi..."
 
-Lorraine chỉ đơn thuần miêu tả nhiệm vụ ủy thác của mình, nhưng đôi mắt người nữ tu mở to đầy kinh ngạc khi nghe thấy cái tên ấy.
+Lorraine chỉ giải thích sơ qua về ủy thác của mình, nhưng vừa nghe thấy cái tên đó, mắt người nữ tu đã trợn tròn kinh ngạc.
 
-"T-Thư của Sơ Lillian gửi cho Mẹ Bề Trên Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi mời Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng chờ ở phòng tiếp khách— Này em! Dẫn hai vị này tới phòng tiếp khách mau!"
+"T-Thư của Sơ Lillian gửi cho Mẹ Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi thỉnh Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng vào phòng tiếp khách đợi một lát— Này em kia! Mau dẫn hai vị khách này sang phòng tiếp khách đi!"
 
-Người nữ tu lúc này đã hoàn toàn sốt sắng, liền chặn một cô gái trẻ trông như tu sinh tập sự lại và đưa ra chỉ thị trước khi vội vã rời đi.
+Người nữ tu lúc này đã cuống quýt thấy rõ, vội chặn một cô gái trẻ trông như tu sinh tập sự lại dặn dò rồi tất tả chạy đi.
 
-Lorraine nhìn theo bóng cô ấy rời đi với vẻ ngơ ngác. "Tôi nói điều gì sai sao?"
+Lorraine nhìn theo bóng người nữ tu với vẻ khó hiểu. "Tôi lỡ mồm nói gì sai à?"
 
-Tôi lắc đầu. "Không, tôi không nghĩ vậy đâu. Biết đâu cô gái này có thể giải đáp cho chúng ta chăng?"
+Tôi lắc đầu. "Không, chắc không phải đâu. Hay thử hỏi cô gái này xem sao?"
 
-Tôi quay sang nhìn cô tu sinh tập sự vừa được giao làm người dẫn đường cho chúng tôi, và Lorraine gật đầu đồng tình.
+Tôi quay sang nhìn cô tu sinh được giao dẫn đường cho chúng tôi, Lorraine cũng khẽ gật đầu đồng tình.
 
-"Thứ lỗi vì câu hỏi đường đột, nhưng cô có biết về Nữ Tu Viện Trưởng Elza và Sơ Lillian không?" cô hỏi người thiếu nữ.
+"Thứ lỗi vì câu hỏi đường đột nhé, nhưng em có biết gì về Nữ Tu Viện Trưởng Elza và Sơ Lillian không?" cô hỏi người thiếu nữ.
 
-"Vâng, em có biết Nữ Tu Viện Trưởng Elza ạ. Người là người phụ trách Tu Viện Ephas, tổng bộ của Giáo Hội Đông Thiên tại Yaaran ạ. Nhưng xin thứ lỗi cho em, còn về Sơ Lillian... em e là mình không biết người đó. Người ấy đến từ đâu vậy ạ?"
+"Dạ, em có biết Nữ Tu Viện Trưởng Elza ạ. Người là người cai quản Tu Viện Ephas, cũng chính là tổng bộ của Giáo Hội Đông Thiên tại Yaaran. Nhưng xin thứ lỗi, còn về Sơ Lillian... em e là mình không biết người đó. Vị ấy đến từ đâu vậy ạ?"
 
 "Sơ ấy là một nữ tu ở Maalt."
 
-"A, Maalt ạ. Ra là vậy. Làm một nữ tu ở một vùng đất gian nan như thế, hẳn người ấy phải là một nhân vật phi thường lắm, nhưng em e là mình không hề biết người đó. Xin thứ lỗi cho em. Em rất tiếc vì không thể giúp ích được gì."
+"A, Maalt ạ. Ra là vậy. Làm nữ tu ở một nơi gian nan như thế thì người ấy hẳn phải đáng nể lắm, tiếc là em lại không biết. Xin thứ lỗi, em rất tiếc vì chẳng giúp được gì cho hai vị."
 
-Lorraine liếc nhìn sang tôi, nhưng nếu cô bé đã không biết thì chịu rồi. Tôi lắc đầu.
+Lorraine liếc sang nhìn tôi, nhưng người ta đã không biết thì cũng đành chịu. Tôi khẽ lắc đầu.
 
-"Tôi hiểu rồi..." Lorraine dịu giọng nói. "Xin lỗi vì đã hỏi em một điều đường đột như vậy nhé. Xin hãy dẫn chúng tôi tới phòng tiếp khách."
+"Tôi hiểu rồi..." Lorraine dịu giọng. "Xin lỗi vì đã hỏi em chuyện đường đột thế này nhé. Nhờ em dẫn chúng tôi tới phòng tiếp khách vậy."
