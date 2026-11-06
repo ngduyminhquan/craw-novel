@@ -1,145 +1,145 @@
 # Chương 247: Tập 11 Chương 1 - Tập Kích Bất Ngờ (4)
 
-Cự Nhân. Dẫu chủng tộc của họ từng hưng thịnh một thời vào thuở xa xưa, nhưng ngày nay người ta lại rất hiếm khi bắt gặp họ. So với thời hiện đại, các thời kỳ cổ xưa từng chứng kiến sự tồn tại của nhiều chủng tộc đông đảo và đa dạng hơn rất nhiều.
+Cự Nhân. Từng có thời chủng tộc của họ phát triển cực thịnh, nhưng ngày nay thì hiếm khi thấy bóng dáng. So với bây giờ, thế giới thời cổ xưa có nhiều chủng tộc hơn hẳn, lại vô cùng đa dạng.
 
-Bằng chứng cho điều đó nằm ở vô số di tích cùng những câu chuyện dân gian phong phú còn lưu truyền cho tới tận ngày nay. Thế nhưng, bản thân rất nhiều chủng tộc trong số ấy giờ đây đã chẳng còn thấy tăm hơi ở bất cứ đâu. Nguyên do của chuyện này đáng tiếc thay lại không hề rõ ràng, và đó vẫn là câu hỏi khiến bao người phải đau đầu trăn trở, bởi một số lượng đáng kể những chủng tộc đã lùi vào dĩ vãng—chẳng hạn như Cự Nhân—từng sở hữu sức mạnh vô song theo cách riêng của mình. Thật khó lòng tưởng tượng nổi rằng họ lại chỉ đơn thuần tuyệt chủng như vậy.
+Minh chứng rõ nhất là vô số di tích và các câu chuyện dân gian còn lưu truyền tới tận bây giờ. Có điều, phần lớn các chủng tộc đó nay đã bặt vô âm tín. Đáng tiếc là chẳng ai rõ nguyên nhân, và đây vẫn là câu hỏi làm đau đầu biết bao người, bởi không ít chủng tộc biến mất—như Cự Nhân—từng sở hữu sức mạnh vô song theo cách riêng của họ. Thật khó tin là họ lại cứ thế mà tuyệt diệt.
 
-Dẫu nói vậy, có lẽ số phận của Cự Nhân cũng chưa đến mức bi đát tới nhường ấy. Xét cho cùng, nếu những lời đồn đại là thật thì họ vẫn còn tồn tại đâu đó nếu người ta biết tìm đúng chỗ. Người ta sẽ chẳng đời nào tình cờ chạm mặt một Cự Nhân giữa chốn thị thành, nhưng trước đây từng có những ghi nhận nhìn thấy họ tại các vùng đất chưa được khám phá, ở những nơi con người khó lòng đặt chân tới như sâu thẳm trong các cánh rừng già hay những vùng núi lửa bỏng rát dữ dội.
+Dù vậy, tình cảnh của Cự Nhân có lẽ chưa đến mức tệ đến thế. Suy cho cùng, nếu tin đồn là thật thì biết chỗ tìm vẫn thấy. Đương nhiên người ta chẳng thể nào tình cờ đụng độ họ giữa phố xá, nhưng trước đây từng có người bắt gặp họ ở những vùng đất hoang sơ con người khó lòng đặt chân tới, chẳng hạn như sâu trong rừng rậm hay các vùng núi lửa nóng bỏng.
 
-Hơn thế nữa, dường như một vài chủng tộc trường thọ—chẳng hạn như loài Elf—vẫn có những mối liên hệ giao dịch với Cự Nhân. Chính những nguồn tin này đã làm dấy lên các lời đồn về sự tiếp nối tồn tại của chủng tộc họ. Đâu đó ngoài kia trên thế gian này, loài Cự Nhân vẫn đang sinh sống. Dù vậy, cơ hội thực sự chạm trán một Cự Nhân như thế này về cơ bản là bằng không. Vốn dĩ ngay từ đầu...
+Hơn nữa, nghe đâu vài chủng tộc trường thọ—như tộc Elf—vẫn còn qua lại với Cự Nhân. Chính từ những mối liên hệ đó mà rộ lên tin đồn rằng chủng tộc này vẫn chưa diệt vong. Đâu đó ngoài kia trên thế giới, Cự Nhân vẫn đang sinh sống. Dù vậy, khả năng thực sự đụng độ một người bằng xương bằng thịt như thế này gần như bằng không. Mà trước hết...
 
 "Cô có chắc hắn là Cự Nhân thật không?" tôi hỏi Lorraine.
 
-"Không," cô đáp, giọng lộ vẻ chẳng mấy chắc chắn. "Dù vậy, trông hắn đúng là giống thật. Hắn cũng có thể chỉ sở hữu dị năng biến thành Cự Nhân, hoặc có khi hắn là một Cự Nhân cải trang thành con người. Thú thực là tôi thậm chí còn không rõ liệu Cự Nhân có thể sở hữu những dị năng như thế hay không nữa. Tôi chẳng thể khẳng định chắc chắn điều gì. Có lẽ chúng ta phải đi hỏi chính đương sự thôi."
+"Không," cô đáp, vẻ chẳng mấy chắc chắn. "Trông thì đúng là giống thật đấy. Nhưng cũng có thể hắn chỉ sở hữu dị năng biến thành Cự Nhân, hoặc biết đâu lại là Cự Nhân cải trang thành người. Thú thật tôi còn chẳng rõ Cự Nhân có thể có dị năng hay không nữa là. Tôi không dám khẳng định điều gì cả. Muốn biết chắc có lẽ phải hỏi chính chủ thôi."
 
-Cô ấy nói đúng; bất kỳ khả năng nào trong số đó cũng đều có thể xảy ra. Con người vẫn còn hiểu biết rất ít ỏi về dị năng. Chẳng ai biết được vì sao chúng lại bộc lộ ở những cá nhân cụ thể, hay thậm chí liệu chúng có phải là hiện tượng chỉ xảy ra riêng ở loài người hay không. Ai mà biết được liệu một Cự Nhân có thể sở hữu dị năng hay chăng? Đâu phải người ta có thể gom đủ một số lượng Cự Nhân làm cỡ mẫu nghiên cứu thỏa đáng để tìm hiểu. Chuyện đó có thể từng khả thi trong quá khứ xa xưa, nhưng thời gian thì chỉ có tiến về phía trước mà thôi.
+Cô ấy nói đúng, khả năng nào cũng có thể xảy ra. Người ta vốn hiểu biết rất ít về dị năng. Chẳng ai biết vì sao chúng lại thức tỉnh ở những người nhất định, hay liệu đó có phải hiện tượng chỉ riêng loài người mới có hay không. Ai mà biết Cự Nhân có dị năng được hay không chứ? Đâu thể gom đủ Cự Nhân để làm mẫu nghiên cứu cho ra hồn. Thời xưa họa may còn làm được, chứ thời gian có bao giờ quay ngược lại đâu.
 
-"Lúc này trông hắn đâu có vẻ gì là sẵn sàng trò chuyện đâu cơ chứ," Augurey đùa.
+"Trông hắn lúc này làm gì có nhã hứng tâm sự," Augurey đùa.
 
-Gã Cự Nhân trước mắt chúng tôi đồ sộ vô cùng. Thay vì dáng vẻ một ông lão gầy gò ốm yếu lúc trước, giờ đây trông hắn gần với độ tuổi trung niên và sở hữu thân hình cực kỳ vạm vỡ. Liệu đây là nhân dạng ban đầu của hắn, hay chỉ đơn giản là dị năng của hắn khiến bản thân trông trẻ trung hơn?
+Tên Cự Nhân trước mặt chúng tôi to lớn khủng khiếp. Không còn vẻ gầy gò của một ông già như ban nãy, trông hắn giờ trạc tuổi trung niên với thân hình vạm vỡ vô cùng. Không biết đây mới là hình dáng gốc của hắn, hay do dị năng khiến hắn trẻ ra?
 
-Gã Cự Nhân chỉ độc một chiếc khố quấn quanh hông. Tôi thầm cầu nguyện tạ ơn trời đất vì hắn không trần như nhộng. Bằng không thì cảnh tượng đó sẽ gây phân tâm theo đủ mọi phương diện mất. Khi quan sát kỹ hơn, tôi nhận ra chiếc khố được làm từ cùng một chất liệu với chiếc áo choàng mà ông lão từng khoác lúc trước. Phải chăng đó là một loại ma cụ đặc biệt nào đó? Kích thước của nó hơi quá lớn so với bản thân chiếc áo choàng. Rất có khả năng tấm vải này có thể co giãn kích thước đến một mức độ nhất định khi người mặc phóng to cơ thể thành khổng lồ.
+Gã Cự Nhân trên người chỉ quấn độc một chiếc khố. Tôi thầm cảm tạ trời đất vì hắn không tồng ngồng trần như nhộng, chứ không thì đau mắt đủ đường. Nhìn kỹ hơn, tôi nhận ra chiếc khố làm cùng chất liệu với tấm áo choàng ông già mặc lúc nãy. Lẽ nào là một loại ma cụ đặc biệt? Nó hơi to quá so với tấm áo choàng ban nãy. Rất có thể thứ vải này tự co giãn theo kích thước của người mặc khi khổng lồ hóa.
 
-Một ý nghĩ chợt lóe lên trong đầu, và tôi nhìn xuống cánh tay mà mình từng gây ra vết thương trước đó. Nó vẫn được băng bó chặt chẽ y hệt như lúc ông lão còn mang kích thước của con người, đồng nghĩa với việc những dải băng gạc cũng đã phình to theo. Điều đó càng củng cố thêm cho giả thuyết của tôi rằng bản thân loại vải vóc của hắn sở hữu đặc tính khác thường nào đó.
+Nghĩ đến một khả năng, tôi đưa mắt nhìn cánh tay mình chém bị thương ban nãy. Nó vẫn được băng bó kín mít hệt như lúc ông lão còn ở kích thước người thường, nghĩa là những dải băng cũng to lên theo. Điều đó càng củng cố thêm suy đoán của tôi rằng chất vải hắn dùng có điểm gì đó rất đặc biệt.
 
-Tôi đoán hắn cũng có thể chỉ việc giữ nguyên cánh tay nhỏ bé rồi khổng lồ hóa phần cơ thể còn lại, nhưng chẳng hiểu sao hình ảnh ấy hiện lên trong đầu tôi trông chẳng thuận mắt chút nào—dẫu cho suy nghĩ cá nhân của tôi về chuyện đó cũng chẳng quan trọng cho cam. Hơn nữa, việc lựa chọn làm như thế sẽ khiến hắn khó giữ thăng bằng hơn—chắc chắn không phải là một quyết định khôn ngoan gì.
+Hắn cũng có thể cứ để cánh tay bé tí rồi phóng to phần cơ thể còn lại, nhưng chẳng hiểu sao tưởng tượng ra cảnh đó tôi thấy cứ cấn cấn thế nào—dù suy nghĩ của tôi thì can hệ gì đâu. Chưa kể làm vậy sẽ khiến hắn khó giữ thăng bằng hơn, rõ ràng không phải nước đi khôn ngoan.
 
-Tạm gác chuyện đó sang một bên, chúng tôi sẽ chiến đấu với hắn thế nào đây? Nói rằng tôi đã quen với việc chiến đấu chống lại những đối thủ to lớn thì có lẽ hơi quá lời, nhưng tôi quả thực từng có kinh nghiệm đối đầu với Khô Lâu Khổng Lồ và Tarasque—những con quái vật to lớn hơn tôi rất nhiều. Do đó, chỉ riêng kích thước thôi thì chưa đủ để khiến tôi nao núng. Mặt khác, những con quái vật ấy đều sở hữu những nhược điểm rõ ràng, và tôi bước vào các trận chiến đó với lợi thế khá lớn. Việc đem chúng ra so sánh với đối thủ hiện tại quả thực là ngớ ngẩn hết chỗ nói.
+Gạt chuyện đó sang một bên, giờ phải đánh với hắn thế nào đây? Bảo tôi quen đối đầu với những kẻ địch to xác thì hơi quá, nhưng tôi quả thực có kinh nghiệm chạm trán Khô Lâu Khổng Lồ và Tarasque—những quái vật lớn hơn tôi rất nhiều. Thế nên chỉ riêng kích thước chưa đủ làm tôi chùn bước. Có điều, lũ quái vật kia đều có điểm yếu rõ ràng, và khi bước vào những trận đấu đó tôi nắm lợi thế không nhỏ. Đem chúng ra so với đối thủ trước mắt thì ngây thơ quá.
 
-Giành chiến thắng trong một trận đánh nói thì dễ hơn làm nhiều. Ngay từ đầu, những nhát chém thông thường thậm chí còn chẳng mảy may suy chuyển được ông lão khi ông ta còn ở kích thước con người. Có lẽ một cú vung kiếm dồn toàn lực Khí Lực sẽ giải quyết được vấn đề, nhưng tôi đã chọn cách dùng thẳng Ma Khí Dung Hợp Thuật.
+Nói thắng thì dễ, làm mới khó. Ngay từ đầu, lúc còn ở kích thước người thường, những nhát kiếm thông thường đã chẳng si nhê gì với hắn. Có lẽ một nhát chém dồn hết Khí Lực cũng ăn thua, nhưng tôi đã dùng thẳng tới Ma Khí Dung Hợp Thuật.
 
-Đó hẳn là hướng đi đúng đắn ngay từ đầu trong tình cảnh này. Tôi có cảm giác rằng nếu cứ nương tay thì trận chiến này sẽ chỉ đi đến một kết cục bi thảm sớm sủa mà thôi. Thế nhưng, ngay lúc tôi đang vạch ra kế hoạch tấn công...
+Có lẽ ngay từ đầu trận này cũng phải làm vậy. Tôi có cảm giác chỉ cần nương tay một chút thôi là chuốc lấy kết cục thảm hại trong chớp mắt. Nhưng ngay lúc tôi vừa toan tính đòn đánh...
 
-"Ta tới đây!" Kèm theo tiếng gầm vang dội, gã Cự Nhân từng là ông lão trước đó lao thẳng về phía chúng tôi. Chỉ riêng âm thanh từ giọng nói của hắn đã tạo ra luồng áp lực đủ khiến tôi phải rùng mình ớn lạnh. Thân hình đồ sộ của hắn hệt như hiện thân của sức mạnh vũ phu thuần túy đang ầm ầm xông tới.
+"Ta tới đây!" Cùng tiếng quát vang rền, gã Cự Nhân vừa ban nãy còn là một ông già lao thẳng về phía chúng tôi. Chỉ riêng âm lượng trong giọng nói của hắn đã tạo ra luồng áp lực đủ khiến tôi ớn lạnh sống lưng. Thân hình đồ sộ của hắn hệt như hiện thân của sức mạnh bạo lực thuần túy đang ầm ầm xông tới.
 
-"Tản ra!" tôi hô lớn. "Phần còn lại tính sau!"
+"Tản ra!" tôi hô lớn. "Còn lại tính sau!"
 
-Lorraine và Augurey đã lập tức di chuyển. Họ hẳn biết rằng trước một đối thủ khổng lồ như thế này, việc túm tụm lại một chỗ sẽ chỉ biến chúng tôi thành mục tiêu ngon ăn mà thôi.
+Lorraine và Augurey đã lập tức tản đi. Cả hai hẳn đều hiểu trước một kẻ địch khổng lồ, cả nhóm mà túm tụm lại thì chỉ tổ làm mồi ngon cho hắn.
 
-Trước một đàn quái vật nhỏ—ờ thì, cỡ kích thước con người—đang lao tới, việc tập hợp lại, hỗ trợ lẫn nhau theo từng vai trò rồi bào mòn dần quân số của chúng không phải là ý kiến tồi, nhưng một kế hoạch như thế áp dụng vào lúc này sẽ chỉ khiến chúng tôi bị đập bẹp dí xuống đất theo đúng nghĩa đen. Lorraine có thể trì hoãn kết cục đó bằng ma pháp Khiên Chắn, nhưng đó là điều tốt nhất mà chúng tôi có thể hy vọng rồi.
+Nếu đối đầu với một bầy quái vật nhỏ cỡ người thường đang xông tới, việc đứng cụm lại, chia nhau bọc lót rồi tỉa bớt số lượng là ý hay, nhưng áp dụng bài đó ở đây thì cả lũ sẽ bị đập bẹp dí xuống đất theo đúng nghĩa đen. Lorraine có thể dùng ma pháp Khiên Chắn để kéo dài chút thời gian, nhưng hy vọng giỏi lắm cũng chỉ đến thế.
 
-Tôi cũng có thể sử dụng Phân Liệt để tẩu thoát, nhưng tôi chẳng hề thích thú gì với ý nghĩ trở thành người sống sót duy nhất. Nghĩ đến gánh nặng tâm lý đó thôi cũng thấy trĩu lòng rồi.
+Tôi cũng có thể dùng Phân Liệt để chuồn êm, nhưng tôi chẳng mặn mà gì với cảnh mình là người sống sót duy nhất. Nghĩ đến chuyện đó thôi đã thấy nặng nề.
 
-Dù sao đi nữa, nhận thấy bản thân nắm trong tay một năng lực dị thường đến vậy, tôi nghĩ trọng trách đóng vai trò làm tấm khiên chắn, hoặc có lẽ là mồi nhử cho cả nhóm, đương nhiên thuộc về mình. Tôi bắt đầu tập trung Ma Lực và Khí Lực vào thanh kiếm rồi quay ngoắt lao thẳng về phía gã Cự Nhân để chuyển hướng sự chú ý của hắn khỏi hướng chạy của Lorraine và Augurey. Tôi cố phớt lờ sự thật rằng mình về cơ bản đang cố hết sức bắt chước một con lợn rừng hung hãn. Đâu phải lỗi của tôi khi mà tình thế bắt buộc phải làm như vậy chứ.
+Dù sao đi nữa, có con át chủ bài dị thường như vậy giắt lưng, tôi thấy mình gánh vai trò làm lá chắn hay chim mồi cho cả nhóm là hợp nhất. Tôi bắt đầu dồn Ma Lực và Khí Lực vào kiếm rồi quay ngoắt lao thẳng về phía tên Cự Nhân để kéo sự chú ý của hắn khỏi hướng chạy của Lorraine và Augurey. Tôi cố gạt đi cái sự thật rằng mình đang cắm đầu cắm cổ lao vào chẳng khác gì một con lợn rừng. Đâu phải lỗi tại tôi, tình thế bắt buộc đấy chứ.
 
-Tôi truyền Khí Lực khắp toàn bộ cơ thể để cường hóa năng lực thể chất rồi bung hết tốc lực chạy nước rút. Mục tiêu của tôi là một trong hai chân của gã Cự Nhân. Phải rồi, tạm thời nhắm vào đó là được. Tước đoạt khả năng di chuyển của hắn sẽ là một khởi đầu thuận lợi. Dẫu cho thân xác đã phình to đến nhường ấy, tốc độ của hắn lại chẳng hề sụt giảm thực sự, điều đó mới đáng sợ làm sao. Tất nhiên, dường như lực cản của không khí cùng những yếu tố tương tự đã khiến hắn chậm lại đôi chút, nhưng chừng đó cũng chẳng đủ để an ủi được ai.
+Tôi dồn Khí Lực khắp toàn thân để tăng cường thể chất rồi phóng hết tốc lực. Mục tiêu của tôi là một bên chân của tên Cự Nhân. Tạm thời cứ thế đã. Phế được khả năng di chuyển của hắn sẽ là bước mở màn thuận lợi. Đáng sợ là dù thân xác đã phình to cỡ đó, tốc độ của hắn hầu như chẳng giảm đi là bao. Tất nhiên lực cản không khí các thứ có làm hắn chậm lại đôi chút, nhưng chẳng bõ bèn gì để mà thấy nhẹ nhõm.
 
-Tôi biết mình phải luôn giữ vững sự tỉnh táo, và phán đoán của tôi quả không sai. Khi tôi giương cao kiếm áp sát gã Cự Nhân, hắn liền nhấc bổng một chân lên rồi giáng thẳng xuống đất.
+Tôi biết mình phải hết sức tập trung, và quả nhiên cẩn thận không thừa. Vừa lúc tôi giương kiếm áp sát, tên Cự Nhân đã nhấc bổng chân lên rồi giẫm thẳng xuống.
 
 RẦM!
 
-Tiếng dẫm chân của gã Cự Nhân vang dội rung chuyển cả bốn bề.
+Tiếng giẫm của tên Cự Nhân vang rền, rung chuyển cả bốn bề.
 
 ◆◇◆◇◆
 
-Cú dẫm của gã Cự Nhân nhanh đến mức phi lý và bao phủ một khoảng đất rộng lớn. Dẫu vậy, tôi vẫn bình an vô sự; nó chưa nghiền nát tôi thành đống bầy nhầy. Dù rằng ngay cả khi có bị nghiền nát, thì đây cũng là tôi cơ mà. Tôi hoàn toàn có thể hồi sinh trở lại từ đòn đó cả chục lần là ít. Việc biến thành Cự Nhân rõ ràng mang lại cho một kẻ lợi thế bất công trong chiến đấu, thế nhưng tôi lại là người cuối cùng có tư cách đi chỉ trích kẻ khác về chuyện bất công—bởi hầu hết mọi người chỉ cần bị nghiền nát một lần là coi như xong đời. Tuy nhiên, tôi cũng không thể tự mãn được. Tôi mới chỉ né được một đòn tấn công mà thôi.
+Cú giẫm của tên Cự Nhân nhanh đến vô lý và bao trọn một khoảng đất rộng lớn. Dù vậy tôi vẫn ổn, chưa bị đè bẹp dí thành tương. Mà kể cả có bị giẫm nát thì người chịu đòn là tôi cơ mà. Cỡ đó tôi vẫn bật dậy ngon lành được vài ba lần. Làm Cự Nhân đúng là nắm lợi thế quá bất công khi giao chiến, nhưng tôi là kẻ ít có tư cách phàn nàn nhất—người thường bị giẫm bẹp một phát là coi như xong đời. Có điều không thể vội mừng, tôi mới chỉ né được một đòn thôi.
 
-"Né được rồi cơ à? Vậy chiêu này thì sao?!" Gã Cự Nhân già bắt đầu dẫm đạp liên tiếp về phía tôi. Điều khiến tôi bực mình là hắn không chỉ giậm chân loạn xạ như một đứa trẻ đang lên cơn hờn dỗi. Hắn chăm chú quan sát tôi và nhắm vào nơi tôi đang đứng—cũng như vị trí hắn đoán tôi sẽ chạy tới—với độ chuẩn xác đến rợn người.
+"Né được cơ à? Thế thì đỡ phát này xem!" Lão Cự Nhân bắt đầu giẫm chân liên hồi về phía tôi. Bực một nỗi là hắn không hề giậm bừa như đứa trẻ con ăn vạ. Hắn vừa chăm chú nhìn tôi, vừa nhắm thẳng vào chỗ tôi đứng lẫn hướng hắn đoán tôi sẽ chạy tới với độ chuẩn xác đáng sợ.
 
-Những con quái vật to lớn sở hữu trí thông minh lúc nào cũng đáng sợ, nhưng gã Cự Nhân già này còn vượt xa hơn thế, bởi xét trên mọi phương diện thì hắn là một con người thực thụ—lại còn là một cựu binh dày dạn kinh nghiệm chiến trường. Dẫu con người nhỏ bé hơn quái vật rất nhiều, nhưng chúng tôi đã bảo đảm được sự sinh tồn của mình trong thế giới này nhờ việc sở hữu trí tuệ vượt trội hơn hẳn. Thế nhưng giờ đây gã Cự Nhân già này, kẻ sở hữu tầm vóc và sức mạnh tương đương hoặc thậm chí lớn hơn cả một con quái vật, lại thông minh chẳng kém gì một con người. Từ "nguy hiểm" thậm chí còn chưa đủ để lột tả hết về hắn, nhưng điều đó không có nghĩa là tôi sẽ chịu buông xuôi đầu hàng.
+Quái vật to xác mà có trí khôn lúc nào cũng đáng sợ, nhưng lão Cự Nhân này còn kinh hơn thế nhiều, bởi về bản chất hắn là một con người thực thụ—lại còn là một tay dạn dày sương gió. Con người dù nhỏ bé hơn quái vật rất nhiều, nhưng chúng tôi vẫn sinh tồn được trong thế giới này nhờ đầu óc thông minh hơn hẳn. Ấy thế mà lão Cự Nhân này, với tầm vóc và sức mạnh ngang ngửa hoặc thậm chí vượt trội quái vật, lại thông minh chẳng kém gì một con người. Nói hắn "nguy hiểm" vẫn còn quá nhẹ, nhưng không vì thế mà tôi chịu khoanh tay chịu trói.
 
 RẦM!
 
-Một cú dẫm ầm ầm vang dội ngay sát bên cạnh tôi, và tôi cảm nhận được một chấn động dữ dội đập thẳng vào cánh tay trái từ bả vai trở xuống trước khi hoàn toàn mất hết cảm giác ở đó. Rõ ràng là chuỗi né đòn hoàn hảo của tôi đã đi đến hồi kết. Dù nói vậy, tôi hầu như chẳng cảm thấy chút đau đớn nào. Đối với cơ thể của tôi, đây chẳng qua chỉ là một vết trầy xước không hơn không kém.
+Một cú giẫm sấm sét giáng xuống ngay sát bên. Luồng chấn động khủng khiếp dội thẳng vào cánh tay trái tôi từ bả vai trở xuống, rồi toàn bộ cánh tay mất sạch cảm giác. Vậy là chuỗi né đòn hoàn hảo của tôi đã đứt đoạn. Dù vậy, tôi hầu như chẳng thấy đau đớn gì. Với cơ thể tôi lúc này, chừng ấy cũng chỉ như vết xước ngoài da.
 
-Thế nhưng gã Cự Nhân già lại không hề hay biết điều đó. "A, ta thừa biết thế nào là một vết thương chí mạng khi nhìn thấy nó!" Với giọng điệu có phần hả hê, hắn ngừng dẫm đạp và vung một nắm đấm về phía tôi, hẳn là có ý định kết liễu tôi. Điều đó cũng không có gì đáng ngạc nhiên; dù có biến thành to lớn đến đâu thì cơ thể hắn vẫn mang hình dáng con người. Gác khả năng gây sát thương sang một bên, đôi tay của con người thông thường chuẩn xác hơn đôi chân rất nhiều.
+Có điều lão Cự Nhân đâu hay biết. "Ha, dính đòn chí mạng rồi chứ gì!" Giọng lộ vẻ hả hê, hắn dừng giẫm và vung nắm đấm về phía tôi, chắc bụng muốn tung đòn dứt điểm. Cũng chẳng có gì lạ. Dù có to lớn cỡ nào thì cơ thể hắn vẫn mang hình người. Tạm gác uy lực sát thương sang một bên, tay người ta lúc nào cũng chuẩn xác hơn chân nhiều.
 
-Nắm đấm lao thẳng về phía tôi. Gã Cự Nhân già hẳn tin chắc rằng nó sẽ trúng đích. Điều đó cũng hợp lý thôi; chẳng mấy ai có thể vận động hết công suất ngay sau khi bị nghiền nát cánh tay từ vai trở xuống. Dẫu vậy, "chẳng mấy ai" không đồng nghĩa với "không có ai". Thế giới này vô cùng rộng lớn, và có rất nhiều người trong số đó là những ngoại lệ không tưởng. Lẽ dĩ nhiên là tôi cũng tự tính bản thân mình vào nhận định đó rồi.
+Nắm đấm lao thẳng tới. Lão Cự Nhân hẳn đinh ninh đòn này chắc chắn sẽ trúng. Cũng phải thôi, chẳng mấy ai vừa bị giập nát cả cánh tay từ vai trở xuống mà vẫn né tránh thoăn thoắt được. Nhưng "chẳng mấy ai" đâu có nghĩa là "không có ai". Thế giới này rộng lớn lắm, người phi thường đến mức khó tin đâu có thiếu. Và khỏi cần nói, tôi cũng tự xếp mình vào số đó.
 
-Tôi kiên nhẫn chờ cho tới khoảnh khắc cuối cùng, rồi mới lách người né tránh trước khi nắm đấm kịp nện trúng tôi.
+Tôi nín thở chờ tới khoảnh khắc cuối cùng rồi mới lách người né sang một bên ngay trước khi nắm đấm kịp nện trúng.
 
-"Cái gì?!" Gã Cự Nhân già toan giật tay lại trong kinh ngạc, nhưng trước khi hắn kịp làm vậy, tôi đã nhảy phắt lên cánh tay hắn.
+"Cái gì?!" Lão Cự Nhân kinh ngạc toan rụt tay về, nhưng trước khi hắn kịp làm thế, tôi đã nhảy phắt lên cánh tay hắn.
 
-Tuy nhiên tôi không dừng lại ở đó. Tôi chạy dọc theo cánh tay thẳng lên tận vai hắn, thanh kiếm nắm chặt trong tay. Hẳn là không khó để hắn nhận ra tôi sắp sửa làm gì, nhưng điều đó vẫn đẩy hắn vào thế bị động trong tình huống này. Tôi vung thanh kiếm được truyền ngập Ma Lực và Khí Lực nhắm thẳng vào mặt gã Cự Nhân già.
+Chưa dừng lại ở đó, tôi phóng dọc cánh tay lên tận vai hắn, thanh kiếm nắm chặt trong tay. Chắc không khó để hắn nhận ra tôi toan làm gì, nhưng bấy nhiêu vẫn đủ đẩy hắn vào thế bị động. Tôi vung thanh kiếm tích đầy Ma Lực lẫn Khí Lực, nhắm thẳng mặt lão Cự Nhân.
 
 Xoẹt!
 
-Tôi cảm nhận được sức nặng của đòn chém dội lại cùng lúc với âm thanh mũi kiếm ngọt xớt cắt vào da thịt vang lên. Tôi đã chém trúng... nhưng đáng tiếc thay, nó lại không trúng vào mục tiêu dự định. Tốc độ phản xạ điên rồ của gã Cự Nhân già chẳng hề bị cùn mòn chút nào. Hắn đã kịp đưa tay ra chắn ngang nhát chém của tôi trước khi nó kịp chạm tới mặt hắn.
+Tôi cảm nhận được sức nặng của đòn chém dội lại, đồng thời nghe rõ âm thanh mũi kiếm xẻ vào da thịt. Đã trúng đòn... nhưng tiếc là không trúng đích nhắm ban đầu. Tốc độ phản xạ kinh hoàng của lão Cự Nhân chẳng hề giảm sút chút nào. Hắn đã kịp đưa bàn tay còn lại lên chắn trước khi nhát chém kịp chạm tới mặt.
 
-"Hự!" Rồi, vừa rên rỉ vừa gầm lên, hắn đưa bàn tay bị thương chộp lấy tôi.
+"Hự!" Nửa rên rỉ nửa gầm lên, hắn vung bàn tay vừa bị chém tới chộp lấy tôi.
 
-Tôi rõ ràng không thể để hắn bắt được, nhưng tôi lại không biết phải làm cách nào để thoát thân. Phương án nhanh nhất của tôi là... ờ thì, có lẽ chỉ là nhảy khỏi người hắn. Xét cho cùng, cú rơi từ độ cao đó cũng chẳng thể giết chết tôi được. Và dẫu việc trèo xuống cũng là một lựa chọn, nhưng tôi có cảm giác hắn đâu có dễ tính tới mức đứng yên chờ tôi làm chuyện đó. Thay vào đó, tôi siết chặt quyết tâm rồi bật người phóng vào không trung. Dẫu vậy, gã Cự Nhân già hẳn cũng nhận ra đó là lối thoát duy nhất của tôi, và quả nhiên...
+Dĩ nhiên tôi không thể để hắn tóm được, ngặt nỗi chưa biết thoát thân bằng cách nào. Cách nhanh nhất... ờ thì, chắc chỉ có nước nhảy phắt khỏi người hắn. Dù sao ngã từ độ cao này cũng chẳng chết được tôi. Còn trèo xuống cũng là một lựa chọn, nhưng tôi có cảm giác hắn chẳng dễ dãi tới mức đứng yên đợi tôi leo đâu. Thế là tôi cắn răng bật người lao vào không trung. Lão Cự Nhân có lẽ cũng đoán ra tôi chỉ còn nước đó, và quả nhiên...
 
-"Ngươi không thoát được đâu!" hắn hét lên, vung mạnh bàn tay chộp về phía tôi.
+"Ngươi chạy đi đâu!" hắn quát lớn, vung tay chộp thẳng về phía tôi.
 
-Nói rằng tôi sợ hắn sẽ tóm được mình thì có lẽ là nói dối. Tôi vận hết lượng Khí Lực có thể gom góp được dồn ra sau lưng. Bàn tay của gã Cự Nhân già lao vút tới chộp lấy tôi... nhưng tôi đã biến mất tự lúc nào, cơ thể đang rơi tự do trước đó của tôi bỗng đột ngột chuyển hướng lệch sang một bên. Đó thực ra chẳng phải là hướng mà tôi muốn hướng tới, nhưng mà, này, việc cố gắng kiểm soát chuẩn xác những gì mình đang làm khó khăn lắm chứ.
+Bảo tôi sợ bị tóm thì là nói dối. Tôi gom hết Khí Lực có thể dồn ra sau lưng. Bàn tay lão Cự Nhân ập tới chộp lấy... nhưng tôi đã biến mất, cơ thể đang rơi tự do bỗng đảo ngoắt sang bên. Thực ra đó chẳng phải hướng tôi muốn đi, nhưng mà này, muốn điều khiển cho chuẩn xác đâu có dễ.
 
-"Cái—?! Quay lại đây mau!" Gã Cự Nhân lại vươn tay chộp lấy tôi lần nữa, thế nhưng đúng khoảnh khắc hắn vừa ra tay...
+"Cái—?! Đứng lại mau!" Lão Cự Nhân lại vươn tay chộp lấy tôi lần nữa, nhưng đúng khoảnh khắc hắn vừa ra tay...
 
 "Glacies Cometes!"
 
-Một khối cầu băng khổng lồ từ bên sườn bay vút về phía gã Cự Nhân già. Dù chẳng đời nào nó to lớn bằng hắn—chỉ bằng một phần ba kích thước của hắn mà thôi—nhưng điều đó vẫn hết sức ấn tượng. Một ma pháp sư phải sở hữu lượng Ma Lực khổng lồ mới có thể tạo ra được nó.
+Một khối cầu băng khổng lồ từ mạn sườn bay vút tới nhắm thẳng vào lão Cự Nhân. Dù chẳng thể to bằng hắn—cùng lắm chỉ bằng một phần ba—nhưng thế cũng đủ quá ấn tượng rồi. Phải là một pháp sư sở hữu lượng Ma Lực cực kỳ dồi dào mới tạo ra nổi thứ như thế.
 
-Bất kể gã Cự Nhân già có mạnh mẽ đến đâu, hay tốc độ phản xạ của hắn có nhanh nhạy đến mức nào, thì việc né tránh một tảng băng đồ sộ thình lình xuất hiện từ hư không như thế cũng là đòi hỏi quá khó đối với bất kỳ ai. Nó đâm sầm thẳng vào người hắn, khiến hắn lảo đảo ngã dúi dụi.
+Dù lão Cự Nhân có khỏe đến đâu hay phản xạ nhanh thế nào, né một tảng băng khổng lồ thình lình ập tới từ chỗ không ngờ vẫn là điều quá sức với bất kỳ ai. Khối băng nện thẳng vào người, hất hắn lảo đảo ngã dúi dụi.
 
-"Đúng lúc lắm," tôi lẩm bẩm một mình trong lúc lại tiếp tục truyền Khí Lực vào sau lưng. Lần này, tôi đang cố gắng hạ cánh xuống mặt đất. Có lẽ nhờ có thể hành động thong thả hơn trong lúc gã Cự Nhân già còn đang chật vật lấy lại thăng bằng, khả năng kiểm soát của tôi đã không bị chệch hướng, và tôi đã thành công nhắm thẳng tới đích đến dự định của mình.
+"Kịp thời lắm," tôi lẩm bẩm trong lúc dồn thêm Khí Lực ra sau lưng. Lần này tôi cố đáp xuống đất. Có lẽ nhờ có thể thong thả hơn đôi chút khi lão Cự Nhân còn mải lấy lại thăng bằng, tôi không còn bị mất kiểm soát mà đã bay đúng về điểm muốn hạ cánh.
 
-Đúng vậy; tôi đang bay. Nếu có ai khác nhìn vào tôi lúc này, hẳn họ sẽ thấy đôi cánh tựa như loài dơi mọc ra sau lưng tôi. Nếu tôi truyền Ma Lực vào đôi cánh, chúng sẽ giúp tôi lơ lửng trên không trung, còn nếu tôi truyền Khí Lực vào chúng, nó sẽ cung cấp cho tôi một lực đẩy cực kỳ khó kiểm soát... và về cơ bản cũng chỉ có bấy nhiêu thôi.
+Phải đấy, tôi đang bay. Người ngoài nhìn vào hẳn sẽ thấy đôi cánh như cánh dơi mọc ra sau lưng tôi. Truyền Ma Lực vào cánh thì giúp tôi lơ lửng, còn truyền Khí Lực thì tạo ra một lực đẩy cực kỳ khó lái... đại khái cũng chỉ có thế.
 
-Bởi chúng rất khó sử dụng, tôi thường tránh đem chúng ra trong chiến đấu, nhưng đây chính là thời điểm hoàn hảo để chúng tỏa sáng. Xét cho cùng, chúng đã giúp tôi tránh khỏi việc bị gã Cự Nhân già tóm gọn rồi bóp nát, và chính nhờ có chúng mà tôi mới sắp được cảm nhận lại cảm giác ngọt ngào vô ngần khi đôi chân được chạm lại trên mặt đất.
+Vì khó dùng nên bình thường tôi tránh lôi chúng ra khi giao chiến, nhưng đây lại là thời điểm hoàn hảo để chúng phát huy tác dụng. Dù sao chúng cũng vừa giúp tôi thoát cảnh bị lão Cự Nhân tóm lấy bóp bẹp, và nhờ có chúng mà tôi sắp được tận hưởng cái cảm giác ngọt ngào khi hai chân chạm đất.
 
-Chỉ còn sót lại đúng một vấn đề cỏn con: mặt đất mà tôi vừa nhắc tới lúc này đang lao thẳng về phía tôi với một tốc độ vô cùng đáng sợ.
+Chỉ còn sót lại đúng một vấn đề con con: cái mặt đất tôi vừa nhắc tới lúc này đang lao thẳng vào mặt tôi với tốc độ đáng sợ.
 
-Như tôi đã nói trước đó, đôi cánh của tôi rất khó kiểm soát, nên dẫu bằng cách nào đó tôi đã tự chỉnh mình bay đúng hướng, nhưng xem chừng một cú tiếp đất êm thắm sẽ chẳng thể nằm trong tương lai gần của tôi rồi.
+Như đã nói, đôi cánh này khó lái vô cùng, nên dẫu có chỉnh được đúng hướng bay thì xem chừng tôi cũng chẳng có cửa tiếp đất êm thắm rồi.
 
 ◆◇◆◇◆
 
 "Hự!"
 
-Cú tiếp đất vụng về của tôi, hay nói đúng hơn là cú va chạm sầm sầm với mặt đất, đã ép ra từ cổ họng tôi một tiếng rên kỳ quặc. Tôi lập tức bật dậy và lao nhanh về phía một khoảng rừng xung quanh mà gã Cự Nhân già vẫn chưa kịp tàn phá. Chúng tôi đang ở gần ngôi làng, đồng nghĩa với việc người dân thường xuyên qua lại khu rừng này, nên giữa các thân cây có đủ khoảng trống để di chuyển, và cũng sẽ không quá khó để tôi định hướng phương hướng một khi đã tiến sâu hơn vào bên trong.
+Cú tiếp đất vụng về—nói đúng hơn là cú tông thẳng xuống đất—làm tôi buột ra một tiếng hự nghẹn họng. Tôi bật dậy ngay tắp lự, phóng thục mạng vào khoảnh rừng gần đó mà lão Cự Nhân chưa kịp tàn phá. Chỗ này gần làng, nghĩa là dân địa phương vẫn hay qua lại, nên khoảng cách giữa các thân cây đủ thoáng để di chuyển, và có lùi sâu hơn vào trong thì cũng không quá khó xác định phương hướng.
 
-Thế nhưng đối với gã Cự Nhân già thì lại là một câu chuyện hoàn toàn khác. Hắn cao hơn cả những ngọn cây. Dưới góc nhìn của hắn, nơi này trông chẳng khác nào một biển lá cây rậm rạp. Hắn sẽ rất khó lòng tìm ra chúng tôi bên dưới tán lá ấy.
+Nhưng với lão Cự Nhân thì lại là chuyện khác. Hắn cao vượt cả ngọn cây. Từ góc nhìn của hắn, bên dưới chỉ như một biển lá cây, muốn mò ra chúng tôi dưới tán lá đó đâu có dễ.
 
-Gã Cự Nhân già mạnh mẽ và nhanh nhẹn đến mức trông như một đối thủ bất khả chiến bại, nhưng kích thước của hắn lại đi kèm với một số bất lợi ngoài dự tính. Dù vậy, hắn hẳn cũng đã biết rõ điều đó và có sẵn các biện pháp đối phó. Trông hắn không giống kiểu người sẽ bỏ qua những chi tiết như thế.
+Lão Cự Nhân vừa khỏe vừa nhanh, ngỡ như một đối thủ bất khả chiến bại, nhưng thân xác quá khổ cũng đem lại những bất lợi không ngờ. Dù vậy chắc hắn đã thừa biết và có cách đối phó rồi. Hắn đâu phải loại người sơ suất bỏ qua chuyện đó.
 
-"Khôn đấy! Nhưng ta vẫn nhìn thấy ngươi!"
+"Khôn đấy! Nhưng ta vẫn thấy ngươi!"
 
-Gã Cự Nhân già bắt đầu vung nắm đấm càn quét về hướng tôi đang chạy. Dẫu vậy, dường như hắn không thể nhìn thấy tôi rõ ràng như những gì hắn vừa lớn tiếng tuyên bố, bởi những cú đấm nhắm vào tôi đã kém chuẩn xác hơn trước rất nhiều. Dù vậy, do những đòn tấn công của hắn ngay từ đầu đã có tầm ảnh hưởng quá rộng lớn, nên rất nhiều cú quét sượt qua hiểm hóc hơn mức tôi mong muốn.
+Lão Cự Nhân bắt đầu vung nắm đấm càn quét theo hướng tôi chạy. Cơ mà có vẻ hắn chẳng nhìn rõ như mồm bô bô, vì những cú đấm đã kém chuẩn xác hơn trước nhiều. Khổ nỗi đòn đánh của hắn vốn có tầm quét quá rộng, nên không ít cú sượt qua sát sàn sạt làm tôi thót cả tim.
 
-Trong lúc vừa chạy thục mạng vừa tự hỏi mình nên làm gì tiếp theo, tôi bỗng bắt gặp bóng dáng của Augurey ở bên sườn.
+Trong lúc vừa chạy vừa loay hoay tính bước tiếp theo, tôi chợt thấy bóng Augurey ở mạn sườn.
 
-"Rentt!" anh hét lên, lao vút tới chạy sóng vai bên cạnh tôi.
+"Rentt!" anh gọi lớn, lao vút tới chạy sóng vai bên cạnh tôi.
 
-Dẫu âm thanh từ những nắm đấm của gã Cự Nhân già nện gãy rạp cây cối còn ầm ĩ hơn nhiều, tôi vẫn xoay xở nghe được tiếng hét của Augurey.
+Dù tiếng nắm đấm của lão Cự Nhân quật gãy cây cối ầm ầm át cả đi, tôi vẫn nghe rõ tiếng Augurey gọi.
 
 "Augurey! Có chuyện gì thế?!"
 
-"Lorraine bảo cách duy nhất để chúng ta thắng được là phải giáng cho hắn một đòn thật mạnh! Cực kỳ mạnh!"
+"Lorraine bảo muốn thắng trận này thì chỉ có nước giáng cho hắn một đòn thật mạnh! Cực kỳ mạnh mới ăn thua!"
 
-Rõ ràng là Augurey chạy tới để thông báo cho tôi về kế hoạch tác chiến của chúng tôi. Sau một hồi ngẫm nghĩ, tôi nhận ra Lorraine đã đưa ra quyết định chuẩn xác. Những đòn tấn công rỉa máu của tôi lên gã Cự Nhân già quả có đem lại đôi chút tiến triển, nhưng xét cho cùng thì tôi cũng chỉ đang gãi ngứa cho hắn mà thôi. Tôi chưa thể biến bất kỳ nhát chém nào của mình thành một đòn kết liễu chí mạng.
+Hóa ra Augurey chạy lại là để phổ biến kế hoạch tác chiến. Ngẫm lại, tôi thấy Lorraine tính chuẩn thật. Lối đánh rỉa dần của tôi tuy có tác dụng đôi chút, nhưng rốt cuộc cũng chỉ như gãi ngứa ngoài da. Tôi chưa tung ra được đòn nào đủ sức dứt điểm hắn.
 
-Ma Lực và Khí Lực của tôi cũng chẳng phải là vô hạn. Tôi đã dồn một lượng sức mạnh đáng kể vào thanh kiếm của mình—thứ duy nhất giúp tôi xuyên thủng được độ bền bỉ phi thường của gã Cự Nhân già. Hắn thực sự chẳng hề khiến chuyện này trở nên dễ dàng chút nào.
+Ma Lực và Khí Lực của tôi đâu phải vô hạn. Tôi đã phải dồn kha khá sức lực vào thanh kiếm—thứ duy nhất giúp tôi vượt qua được sức chống chịu phi thường của lão Cự Nhân. Hắn đúng là chẳng để chúng tôi dễ thở chút nào.
 
-"Nhưng bằng cách nào?!" tôi gào lên. "Đâu thể cứ thế quẳng cô ấy ra ngay trước mặt hắn được!"
+"Nhưng bằng cách nào?!" tôi hét lên. "Đâu thể cứ thế quẳng cô ấy ra trước mặt hắn!"
 
-"Chúng ta phải dụ hắn tới một nơi nào đó mà cô ấy có thể bắn trúng ma pháp vào người hắn! Y hệt như cách chúng ta đã làm với con Aqua Hathur ấy!"
+"Phải dụ hắn tới chỗ nào để cô ấy bắn trúng ma pháp! Y hệt như hồi tụi mình làm với con Aqua Hathur ấy!"
 
-Con Aqua Hathur cơ à? Hồi đó, chúng tôi đã bắt được nó bằng cách đuổi dồn nó tới một vị trí nơi Lorraine đã giăng sẵn một cái bẫy dưới dạng chiếc lồng ma thuật. Làm điều tương tự với gã Cự Nhân già rõ ràng là bất khả thi, nhưng tôi đoán ý Augurey là chúng tôi nên khiến hắn đuổi theo mình. Tôi nghĩ chuyện đó chắc chắn khả thi, bởi lẽ chúng tôi cũng đang làm chuyện đó rồi.
+Aqua Hathur cơ à? Hồi đó chúng tôi tóm được nó nhờ lùa nó tới chỗ chiếc lồng ma thuật Lorraine đã đặt bẫy sẵn. Áp dụng y hệt với lão Cự Nhân thì rõ ràng là chuyện không tưởng, nhưng tôi đoán Augurey muốn nói đến việc dụ hắn đuổi theo tụi tôi. Nước đó thì chắc chắn làm được, đằng nào tụi tôi cũng đang chạy trối chết trước mũi hắn rồi còn gì.
 
 "Ở đâu?!" tôi hỏi.
 
-"Hướng này!" Augurey hét lên, lao vọt lên phía trước và dẫn đầu. Anh nhanh nhẹn đúng như những gì người ta có thể trông đợi ở một mạo hiểm giả Ngân Cấp. Anh đã cường hóa cơ thể mình, nhưng có lẽ là bằng Khí Lực chứ không phải ma thuật.
+"Lối này!" Augurey hét lớn, lao vọt lên dẫn đầu. Tốc độ của anh nhanh đúng như kỳ vọng ở một mạo hiểm giả Ngân Cấp. Anh có cường hóa cơ thể, nhưng chắc là bằng Khí Lực chứ không phải ma pháp.
 
-Sẽ là một chuyện nếu người ta có dư dả Ma Lực, nhưng nếu phải lựa chọn giữa cả hai thì Khí Lực mang lại sức bền dẻo dai hơn nhiều. Đối với giới mạo hiểm giả, nó là lựa chọn được ưa chuộng hàng đầu của các hệ chiến binh. Dù vậy, ma kiếm sĩ cùng những chức nghiệp tương tự đều sở hữu những phương thức riêng của họ, và... Thôi thì, tóm lại là đại khái như thế đấy.
+Dư dả Ma Lực thì không nói, chứ nếu phải chọn giữa hai nguồn năng lượng thì Khí Lực giúp duy trì sức bền tốt hơn nhiều. Với giới mạo hiểm giả, các kiếm sĩ và chiến binh chuộng nó nhất. Dĩ nhiên đám ma kiếm sĩ các thứ có cách thức riêng của họ, và... thôi thì, nói chung là thế đấy.
 
-Dù sao đi nữa, Augurey và tôi cùng nhau chạy thục mạng. Chúng tôi có một gã Cự Nhân già bám sát gót phía sau, và chúng tôi cần phải dẫn dụ hắn rơi vào bẫy.
+Dù sao thì Augurey và tôi vẫn phải cắm đầu cắm cổ chạy. Lão Cự Nhân đang bám sát nút phía sau, và nhiệm vụ của chúng tôi là dụ hắn rơi vào bẫy.
