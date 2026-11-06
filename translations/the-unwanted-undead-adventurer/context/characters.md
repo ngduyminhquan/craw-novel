@@ -159,6 +159,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Được Rentt cứu khỏi Khô Lâu, xem anh là tiền bối đáng kính (Mister Rentt); từ #195 là quyến thuộc Ma Cà Rồng của Rentt. Tên thật Rina Rogue (#24), con gia đình hiệp sĩ/quý tộc, bỏ nhà đi vì bị ép hôn; anh trai là Idoles Rogue (Đệ Nhất Kỵ Sĩ Đoàn), từng bí mật dạy cô kiếm thuật. Tổ đội: kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii (#129).
 - Năng lực (tính đến chương 204): Bẩm sinh dồi dào Ma Lực và Khí Lực; sau khi thành Ma Cà Rồng có sức mạnh tầm Hạ Cấp Ma Cà Rồng (bóp nát đá); rút được Ma Lực và Thần Lực từ Rentt (chưa rút được Khí Lực); dùng được Aliumage, Ma Lực tầm ma pháp sư trung cấp; dung nạp Thần Lực nên không bị Thánh Hỏa ảnh hưởng; không phát ra khí tức Ma Cà Rồng thông thường.
 - Trạng thái tính đến chương 204: Bị Shumini bắt khi đi tìm Raiz và Laura Satii mất tích, bị biến thành Hạ Cấp Ma Cà Rồng để dung hợp với Lõi Mê Cung; được Rentt thu làm quyến thuộc và Laura giải phóng (#195). Đã báo cáo với Hội theo kịch bản "được giải cứu sau khi bị bắt", qua được Thánh Hỏa của Nive, đoàn tụ với Raiz và Laura Satii tại Phòng Khám Kohm; giữ kín thân phận Ma Cà Rồng.
+- Trạng thái tính đến chương 215: Nhận lời hướng dẫn và cùng luyện tập với Alize tại Cô Nhi Viện Thứ Hai Maalt trong thời gian nhóm Rentt lên vương đô; hào hứng thức khuya làm một cuốn cẩm nang du lịch và mua sắm tại vương đô để gửi Rentt và Lorraine.
 - Trạng thái tính đến chương 225: Cùng Alize đến dinh thự Gia tộc Latuule theo dặn dò của Lorraine; đã thuần thục ma pháp ngâm xướng và bước đầu thi triển thành công ma pháp rút ngắn Gie Vieros (thổ tiễn) dưới sự hướng dẫn của Isaac.
 
 ### Rina Rogue
@@ -281,6 +282,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
 - Trạng thái tính đến chương 75: Biết được thiên phú ma thuật của Alize và tôn trọng ước mơ làm mạo hiểm giả của cô bé; được Unbert chẩn đoán chính thức mắc Bệnh Tích Tụ Chướng Khí và trấn an rằng bệnh sẽ được chữa khỏi.
 - Trạng thái tính đến chương 76: Đã uống liều thuốc Hoa Long Huyết đầu tiên do Norman và Unbert mang tới; cơ thể nhẹ nhõm, Thần Lực bước đầu hồi phục; xúc động trước tấm lòng của Rentt và đám trẻ; ban phước và ưng thuận cho Alize theo học ma thuật lẫn nghề mạo hiểm giả với Rentt và Lorraine.
+- Trạng thái tính đến chương 215: Đã hoàn toàn bình phục sức khỏe sau thời gian dài ốm liệt giường, sắc mặt hồng hào, da dẻ đẫy đà, không còn di chứng; giao phó ủy thác cá nhân nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên tại vương đô Vistelya.
 - Quá khứ (tính đến chương 224): Từng là nữ tu kiêm Thánh Giả đầy triển vọng của Tu Viện Ephas từ năm 15 tuổi, bị điều chuyển tới Maalt khoảng 10 năm trước do mâu thuẫn nội bộ trong Giáo Hội; sau đó chủ động cắt đứt liên lạc với Elza để tránh gây rắc rối cho bạn (#224).
 
 ### Alize
@@ -289,6 +291,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trang trọng như người lớn khi đại diện cô nhi viện; khi được Rentt cho phép thì hồn nhiên đúng tuổi, xưng "em", gọi "anh Rentt" / "anh"; gọi "Sơ Lillian" (Lady Lillian).
 - Quan hệ: "Cánh tay phải" của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; từng bí mật đổi ủy thác thành tìm Hoa Long Huyết chữa bệnh cho Sơ Lillian. Đệ tử ma thuật đầu tiên của Lorraine (#74), học kiếm thuật căn bản từ Rentt; muốn làm mạo hiểm giả giúp người như Rentt.
 - Trạng thái tính đến chương 123: Đã tạo được lửa bằng Ignite Aryumage (#79); chọn dao găm làm vũ khí chính (#119); tự chế cây đũa phép đầu tay và thi triển Aliumage ra ngọn lửa to như đuốc nhờ Ma Lực dồi dào; được Lorraine dặn tránh phụ thuộc đũa phép.
+- Trạng thái tính đến chương 215: Làm quen với Rina và đồng ý để Rina cùng luyện tập trong thời gian Rentt và Lorraine đi vương đô; cùng Rina và Lorraine trò chuyện bí mật trong nhà nguyện, đuổi khéo Rentt ra rìa.
 - Trạng thái tính đến chương 225: Cùng Rina đến dinh thự Gia tộc Latuule luyện tập ma pháp tấn công theo dặn dò của Lorraine; hoàn toàn không nhận ra thân phận Ma Cà Rồng của Isaac và người hầu; được Isaac giải thích về ba cấp độ ma pháp và khuyên tập trung hoàn thiện ma pháp ngâm xướng cơ bản.
 
 ### Edel

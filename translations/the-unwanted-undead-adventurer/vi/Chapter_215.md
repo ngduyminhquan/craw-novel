@@ -1,229 +1,229 @@
 # Chương 215: Tập 9 Chương 5 - Một Ủy Thác từ Hội (3)
 
-"Cô đã sẵn sàng chưa?" Lorraine bình thản hỏi Rina, người đang ngồi đối diện với cô. Ý Lorraine muốn hỏi là liệu Rina đã sẵn sàng gặp người học việc mới của mình hay chưa.
+"Cô đã sẵn sàng chưa?" Lorraine điềm tĩnh hỏi Rina đang ngồi đối diện. Ý cô là muốn biết Rina đã sẵn sàng gặp người học việc mới hay chưa.
 
-Tối qua, một người đưa tin từ Hội đã đến thông báo rằng họ đã thu xếp được một cỗ xe ngựa cho chuyến đi của chúng tôi. May mắn thay, họ đã sắp xếp để chúng tôi khởi hành vào buổi chiều muộn, điều đó giúp chúng tôi có thêm thời gian thu xếp ổn thỏa các công việc tại đây. Tôi đồ rằng Wolf đã cố ý tạo điều kiện thuận lợi cho tôi. Chắc hẳn ông nghĩ vì mình đã đột ngột giao phó ủy thác mà không hề báo trước, tôi sẽ cần thời gian để lo liệu mọi việc trước đã. Wolf đã đoán đúng, và vì ít nhất phải đến trưa chúng tôi mới xuất phát, nên tôi rất biết ơn khoảng thời gian dôi ra này.
+Tối qua, người đưa tin của Hội đã đến báo rằng họ đã thu xếp được xe cho chuyến đi của chúng tôi. May mắn là chuyến xe được xếp khởi hành vào buổi chiều, nhờ thế chúng tôi có thêm thời gian giải quyết xong xuôi mọi việc ở đây. Tôi đoán chắc Wolf đã chủ ý tạo điều kiện cho tôi. Có lẽ ông nghĩ mình đột ngột dí ủy thác không báo trước thì tôi sẽ cần thời gian thu xếp việc nhà. Quả đúng như Wolf tính, và vì ít nhất phải quá trưa mới xuất phát nên có thêm chút thời gian này đúng là quý hóa quá.
 
-Việc đầu tiên chúng tôi phải làm là giới thiệu Rina và Alize với nhau. Sau đó, chúng tôi sẽ bàn bạc về chuyện Rina chỉ dạy cho Alize trong thời gian chúng tôi vắng nhà. Dù gọi là bàn bạc, chúng tôi vốn đã chốt xong các chi tiết cơ bản rồi. Dẫu vậy, nếu hóa ra cả Rina lẫn Alize đều không muốn qua lại với đối phương, chúng tôi sẵn sàng hủy bỏ hoàn toàn kế hoạch này. Và nếu như thế, việc huấn luyện của Alize sẽ phải tạm gác lại trong hai tuần. Tôi sẽ thấy áy náy vì bắt cô bé phải chờ đợi, nhưng nếu chuyện đó xảy ra thì đành tính sau vậy. Dù sao thì chúng tôi cũng đâu có giáo án hay kế hoạch bài giảng cố định nào.
+Trước hết, chúng tôi phải giới thiệu Rina với Alize đã. Sau đó mới tính đến chuyện nhờ Rina chỉ dạy cho Alize trong lúc chúng tôi vắng nhà. Nói là bàn bạc chứ các chi tiết cơ bản thì chúng tôi đã thống nhất xong xuôi cả rồi. Nhưng ngộ nhỡ Rina hay Alize không muốn hợp tác với nhau thì chúng tôi sẽ dẹp hẳn kế hoạch này. Khi ấy việc tập luyện của Alize đành phải tạm gác lại hai tuần. Bắt cô bé chờ đợi thì áy náy thật, nhưng có thế thì hẵng tính. Dù sao chúng tôi cũng đâu có giáo án cố định nào.
 
-"V-Vâng, tôi sẵn sàng rồi ạ. Đã chuẩn bị xong xuôi cả rồi!" Rina lắp bắp. Nghe giọng điệu thì chẳng có vẻ gì là cô ấy đã sẵn sàng cả.
+"V-Vâng, tôi sẵn sàng rồi. Chuẩn bị xong xuôi cả rồi!" Rina lắp bắp. Nghe cái giọng của cô ấy thì chẳng có vẻ gì là sẵn sàng cả.
 
-Hiện tại chúng tôi đang ở Cô Nhi Viện Thứ Hai Maalt, chờ Alize quay về. Theo lời Sơ Lillian, người phụ trách cô nhi viện, Alize ra ngoài mua sắm và sẽ về ngay thôi, nên chúng tôi quyết định nán lại đợi. Chúng tôi đã giúp Rina chuẩn bị tâm lý để gặp Alize, nhưng cô ấy vẫn không giấu nổi vẻ bồn chồn. Cô ấy chẳng cần phải căng thẳng đến thế làm gì, nhưng Alize sẽ là người học việc đầu tiên của cô ấy, nên tôi hoàn toàn hiểu được nỗi lo âu đó.
+Hiện tại chúng tôi đang ngồi ở Cô Nhi Viện Thứ Hai Maalt đợi Alize về. Theo lời Sơ Lillian, người phụ trách nơi này, Alize đang ra ngoài mua đồ và sẽ về ngay thôi, nên chúng tôi quyết định nán lại chờ. Chúng tôi đã giúp Rina làm công tác tư tưởng trước rồi, thế mà cô ấy vẫn bồn chồn thấy rõ. Thật ra chẳng việc gì phải căng thẳng đến thế, nhưng vì Alize sẽ là người học việc đầu tiên của Rina nên tôi rất hiểu cảm giác ấy.
 
-Trong lúc tôi đang tự hỏi mọi chuyện sẽ diễn ra thế nào, một tiếng gõ cửa vang lên.
+Trong lúc tôi còn đang thấp thỏm không biết mọi chuyện sẽ ra sao thì có tiếng gõ cửa.
 
-"Mời vào," tôi cất tiếng gọi. Tôi vốn định nói với vẻ tự tin, nhưng sự thật là trong giọng nói của tôi chẳng có chút uy nghiêm nào.
+"Mời vào," tôi cất tiếng. Vốn định nói cho thật tự tin, nhưng thú thật là giọng tôi chẳng có tí uy quyền nào.
 
-Trong lúc tôi còn đang ảo não vì sự thiếu hụt vẻ đường bệ của bản thân, Alize xuất hiện từ phía sau cánh cửa và cất lời chào mọi người. Cô bé thả lỏng khi nhìn thấy Lorraine và tôi, nhưng rồi em nhận ra gương mặt lạ lẫm trong phòng. Đôi mày em khẽ nhíu lại, và khuôn mặt thoáng nhăn nhó.
+Trong lúc tôi còn đang rầu rĩ vì mình thiếu hẳn nét chững chạc uy nghiêm, Alize đã mở cửa bước vào cất tiếng chào mọi người. Thấy tôi và Lorraine, cô bé liền thở phào nhẹ nhõm, nhưng rồi lại nhận ra một gương mặt lạ hoắc trong phòng. Đôi mày cô bé khẽ nhíu lại, vẻ mặt thoáng nhăn nhó.
 
-"Em chào anh Rentt và Học Sĩ Lorraine ạ. Nghe bảo có khách đến tìm nên em có hơi hồi hộp một chút."
+"Em chào anh Rentt và Học Sĩ Lorraine ạ. Nghe bảo có khách tìm em nên nãy giờ em hơi hồi hộp một tí."
 
-Dù nói vậy, Alize trông chẳng có vẻ gì là hồi hộp cho lắm. Cô bé chỉ đang cố gắng cư xử thật đúng mực mà thôi. Tôi đoán Sơ Lillian đã không nói rõ ai đang chờ em. Hoặc là, sơ đã nhờ một đứa trẻ khác nhắn lại với Alize.
+Nói thì nói vậy chứ trông Alize chẳng có vẻ gì là run cả. Cô bé chỉ đang cố tỏ ra ngoan ngoãn, giữ đúng mực thước mà thôi. Tôi đoán chắc Sơ Lillian không nói rõ ai đang đợi cô bé, hoặc giả sơ đã nhờ một đứa trẻ khác nhắn lại giùm.
 
-Là người phụ trách cô nhi viện, Sơ Lillian luôn bận rộn. Nhiều khả năng sơ không có thời gian đứng chờ Alize chỉ để nhắn một câu ngắn gọn như vậy. Thêm nữa, người đến cũng chỉ là chúng tôi. Tôi đã dặn Sơ Lillian rằng sơ không cần phải tiếp đãi chúng tôi long trọng làm gì, vả lại Alize cũng đã quá quen thuộc với chúng tôi rồi.
+Là người đứng đầu cô nhi viện, Sơ Lillian lúc nào cũng bận rộn. Nhiều khả năng sơ chẳng có thời gian đứng đợi Alize về chỉ để nhắn một câu ngắn tẹo như vậy. Vả lại khách khứa cũng chỉ là chúng tôi. Tôi từng bảo Sơ Lillian rằng sơ không cần phải câu nệ khách sáo làm gì, vả chăng Alize cũng đã quá quen mặt bọn tôi rồi.
 
-Tôi bảo Alize, "Nói đúng ra thì bọn anh là khách thật, nhưng em đâu cần phải dùng tước vị hay danh xưng khách sáo thế làm gì."
+Tôi liền bảo Alize, "Tính ra thì bọn anh là khách thật, nhưng em đâu cần phải đệm danh xưng trịnh trọng thế làm gì."
 
-"Em thêm danh xưng cho Học Sĩ Lorraine vì cô ấy là một ma pháp sư vĩ đại mà. Nhưng anh Rentt... thì chỉ là anh Rentt thôi."
+"Em thêm danh xưng cho Học Sĩ Lorraine vì cô là một ma pháp sư tài giỏi mà. Còn anh Rentt... thì chỉ là anh Rentt thôi."
 
-Nghĩ kỹ thì câu đó hơi có tính xúc phạm đấy, nhưng Alize chỉ thẳng thắn như vậy vì cô bé thấy thoải mái khi ở bên chúng tôi, nên tôi chẳng có ý định trách mắng em vì chuyện đó.
+Nghĩ kỹ thì nghe cũng hơi chạnh lòng đấy chứ, nhưng Alize nói huỵch toẹt ra như thế là vì cô bé cảm thấy thoải mái khi ở bên chúng tôi, nên tôi chẳng nỡ trách mắng làm gì.
 
-Lorraine thường dặn Alize rằng cô bé không cần phải thêm danh xưng vào tên mình, nhưng khác với tôi, Lorraine toát ra một phong thái đường bệ nhất định. Dường như cô chẳng thể nào rũ bỏ được điều đó. Việc cô là một học giả càng củng cố thêm uy thế của cô. Ngược lại, tôi chỉ là một gã mạo hiểm giả bình thường. Hầu như chẳng có ai dùng danh xưng kính cẩn để gọi tôi cả, nên chuyện đó cũng chẳng sao.
+Lorraine đã bao lần bảo Alize không cần thêm danh xưng vào tên mình, nhưng khác với tôi, bản thân cô ấy luôn toát ra vẻ đĩnh đạc tự nhiên, dường như có muốn rũ bỏ cũng chẳng được. Thân phận học giả lại càng khiến lời nói của cô thêm phần trọng lượng. Trái lại, tôi chỉ là một gã mạo hiểm giả quèn, xưa nay hầu như chẳng ai thèm gọi bằng chức danh hay kính ngữ gì, thành thử tôi cũng quen rồi.
 
-"Ý em chính xác là sao hả?" tôi hỏi Alize. "Ý anh là, dù chuyện đó cũng chẳng quan trọng gì cho cam."
+"Rốt cuộc là em đang có ý gì đấy hả?" tôi hỏi Alize. "Mà thôi, chuyện đó cũng chẳng quan trọng lắm."
 
-"Thực ra cũng chẳng có ý xấu gì đâu ạ, nhưng mà ừm... Vị kia là ai thế ạ?"
+"Thật ra cũng chẳng có ý gì xấu đâu ạ, nhưng mà ừm... Người kia là ai thế ạ?"
 
-Alize có vẻ rất tò mò về Rina. Cô bé tỏ ra tự nhiên với chúng tôi, nhưng có lẽ em đang cố giữ bình tĩnh vì trong phòng có một người mà mình chưa từng gặp mặt bao giờ.
+Alize có vẻ thực sự tò mò về Rina. Trông cô bé nói chuyện với chúng tôi thì rất tự nhiên, nhưng có lẽ cô bé đang cố trấn tĩnh lại vì trong phòng xuất hiện một người mình chưa từng gặp bao giờ.
 
-"Ồ, phải rồi. Đây là Rina. Còn Rina, đây là Alize," Lorraine cất lời ngắn gọn.
+"Ồ, phải rồi. Đây là Rina. Còn Rina, đây là Alize," Lorraine giới thiệu hết sức vắn tắt.
 
-Nếu hỏi tôi thì cô ấy nói hơi bị ngắn gọn quá mức đấy. Nhưng đó không phải vì thiếu tôn trọng hay thô lỗ gì đâu.
+Nói thật thì cô giới thiệu như thế là hơi bị kiệm lời quá mức. Nhưng đó tuyệt nhiên không phải vì thiếu tôn trọng hay thô lỗ gì.
 
-Rina gần như bật dậy khỏi chỗ ngồi để tự giới thiệu. "Tôi là Rina Rupaage. Tôi là một mạo hiểm giả Thiết Cấp, và là đệ tử của chị Lorraine cùng anh Rentt."
+Rina gần như bật phắt dậy khỏi ghế để tự giới thiệu. "Tôi là Rina Rupaage. Tôi là mạo hiểm giả Thiết Cấp, và là đệ tử của chị Lorraine cùng anh Rentt."
 
-Alize khẽ cười khúc khích rồi nói, "Em là Alize. Em là một trong những đứa trẻ của cô nhi viện này, và em đang học nghề mạo hiểm giả cùng ma thuật từ anh Rentt và Học Sĩ Lorraine ạ."
+Alize khẽ bật cười rồi nói, "Em là Alize. Em sống ở cô nhi viện này, và đang học nghề mạo hiểm giả cùng ma thuật từ anh Rentt với Học Sĩ Lorraine ạ."
 
-À, hóa ra Lorraine giới thiệu ngắn gọn như vậy là để Rina và Alize có thể tự miêu tả bản thân bằng lời lẽ của chính mình.
+À, hóa ra Lorraine cố tình giới thiệu ngắn gọn là để Rina và Alize tự cất lời giới thiệu bản thân.
 
-"Về cơ bản thì cả hai đứa đều là học trò của chúng tôi," Lorraine giải thích sau khi họ giới thiệu xong. "Còn về việc ai là tiền bối thì chuyện đó hơi rắc rối một chút."
+"Về cơ bản thì cả hai đứa đều là học trò của chúng tôi," Lorraine giải thích sau khi họ chào hỏi xong. "Còn việc ai là tiền bối của ai thì lại hơi khó phân định một chút."
 
-Lorraine nói có lý. Nếu xét theo thời gian theo học thì Alize sẽ là đàn chị trong hai người. Nhưng nếu xét theo thực lực ai giỏi hơn thì đó lại là Rina. Ngoài ra, Rina lớn tuổi hơn và tham gia sâu hơn vào các công việc của chúng tôi.
+Lorraine nói có lý. Nếu tính theo thời gian theo học thì Alize sẽ là người đi trước. Nhưng nếu xét theo tay nghề và thực lực thì rõ ràng là Rina. Đó là chưa kể Rina lớn tuổi hơn, lại còn dính dáng sâu hơn vào những chuyện riêng của chúng tôi.
 
-"Chẳng cần phải bận tâm về chuyện đó đâu," tôi lên tiếng.
+"Chuyện đó thì chẳng cần bận tâm làm gì đâu," tôi lên tiếng.
 
-"Phải. Hôm nay chúng tôi đến đây là để giới thiệu hai người với nhau," Lorraine nói thêm.
+"Đúng vậy. Hôm nay chúng tôi đến đây là để hai đứa làm quen với nhau," Lorraine nói thêm.
 
 Alize nghiêng đầu thắc mắc.
 
-"Lorraine và anh sắp phải đi xa một thời gian," tôi giải thích với Alize. "Chỉ khoảng hai tuần thôi, nhưng trong thời gian đó bọn anh sẽ không thể chỉ dạy cho em được. Vì vậy bọn anh nghĩ rằng em có thể cùng luyện tập với Rina trong lúc bọn anh vắng nhà."
+"Anh với Lorraine sắp phải đi xa một chuyến," tôi giải thích với Alize. "Chỉ tầm hai tuần thôi, nhưng quãng thời gian đó bọn anh sẽ không thể chỉ dạy cho em được. Thành thử bọn anh nghĩ hay là trong lúc bọn anh vắng nhà, em cứ luyện tập cùng Rina xem sao."
 
-"Dạ? Hai người đi đâu thế ạ?" Alize hỏi.
+"Ơ? Bọn anh đi đâu thế ạ?" Alize hỏi.
 
-"Vương đô Vistelya. Em có muốn bọn anh mua quà lưu niệm gì về cho không?"
+"Lên vương đô Vistelya. Em có muốn bọn anh mang quà lưu niệm gì về cho không?"
 
-"Vương đô ạ? Có lẽ là món gì đó ngon ngon... cho mọi người ở đây ạ."
+"Lên vương đô ạ? Thế thì chắc là món gì ngon ngon... cho mọi người ở đây ạ."
 
-Việc Alize nghĩ đến những đứa trẻ ở cô nhi viện cho thấy cô bé tốt bụng đến nhường nào. Em luôn coi trọng vai trò người chị lớn của mình.
+Alize biết nghĩ cho lũ trẻ ở cô nhi viện chứng tỏ cô bé tốt bụng biết bao. Cô bé lúc nào cũng nghiêm túc với thiên chức làm chị cả của mình.
 
-"Được rồi," tôi tán thành. "Vậy em nghĩ sao về điều anh vừa nói lúc nãy? Đó chỉ là một lời gợi ý thôi, nên nếu không muốn thì em không cần phải đồng ý đâu, nhưng mà..."
+"Được rồi," tôi gật đầu. "Thế em thấy chuyện anh vừa nói lúc nãy sao? Đây chỉ là gợi ý thôi, không muốn thì em chẳng cần gượng ép đâu, nhưng mà..."
 
-"Hừm... Em có thể nói chuyện riêng với chị ấy một lát được không ạ?"
+"Hừm... Em nói chuyện riêng với chị ấy một lát được không ạ?"
 
-Lorraine và tôi nhìn nhau. Rồi tôi quay sang Rina. "Chắc bọn tôi sẽ ra ngoài một lát. Cô thấy thế có ổn không, Rina?"
+Tôi và Lorraine đưa mắt nhìn nhau. Rồi tôi quay sang Rina, "Chắc bọn tôi ra ngoài một lát nhé. Cô thấy thế có được không, Rina?"
 
-"Vâng, tôi không phiền chút nào đâu ạ. Alize, em thấy thế cũng ổn chứ?"
+"Vâng, tôi không phiền chút nào đâu. Alize, em thấy thế cũng được chứ?"
 
 "Dạ được ạ."
 
-Lorraine và tôi để hai người họ lại một mình trong phòng chờ rồi bước ra ngoài.
+Tôi và Lorraine để hai người họ ở lại trong phòng chờ rồi bước ra ngoài.
 
 ◆◇◆◇◆
 
-"Ô kìa, sao hai cậu lại đứng ngoài này thế? Tôi cứ tưởng hai cậu đang nói chuyện với Alize chứ."
+"Ơ kìa, sao hai cậu lại đứng ngoài này thế? Tôi cứ tưởng hai người đang nói chuyện với Alize chứ."
 
-Sơ Lillian, người vừa mới bước ra khỏi văn phòng của mình, đi tới bắt chuyện với chúng tôi. Cho đến gần đây sơ vẫn bị bệnh liệt giường, nhưng xem chừng không còn bất kỳ di chứng nào sót lại. Tôi thấy nhẹ nhõm khi thấy sắc mặt sơ hồng hào và khỏe mạnh trở lại.
+Sơ Lillian vừa bước ra khỏi văn phòng liền tiến lại bắt chuyện với chúng tôi. Cách đây không lâu sơ còn ốm liệt giường, thế mà giờ xem chừng chẳng còn chút di chứng nào sót lại. Thấy sắc mặt sơ hồng hào, da dẻ đẫy đà trở lại, tôi cũng thấy nhẹ cả người.
 
-"À, chuyện là thế này," Lorraine mở lời, rồi giải thích tình hình.
+"À, chuyện là thế này," Lorraine mở lời rồi tóm tắt lại tình hình.
 
-"À, tôi hiểu rồi," Sơ Lillian nói. "Sự hòa hợp giữa hai người là điều rất quan trọng trong những chuyện như thế này."
+"À, tôi hiểu rồi," Sơ Lillian gật gù. "Tính khí có hợp nhau hay không là chuyện quan trọng lắm trong mấy việc này đấy."
 
-"Theo góc nhìn của sơ thì thế nào, thưa Sơ Lillian?" Lorraine hỏi. "Sơ có nghĩ hai đứa sẽ hòa hợp với nhau không?"
+"Sơ thấy thế nào, thưa Sơ Lillian?" Lorraine hỏi. "Sơ có nghĩ hai đứa sẽ hợp tính nhau không?"
 
-Lorraine không hề trông mong một câu trả lời cặn kẽ; cô chỉ đang gợi chuyện xã giao mà thôi. Hôm nay là lần đầu tiên Sơ Lillian gặp Rina, và cuộc trò chuyện của họ cũng rất ngắn ngủi. Sơ khó lòng có thể nắm bắt rõ tính cách của Rina chỉ qua chừng đó.
+Thực ra Lorraine cũng chẳng trông mong một câu trả lời tường tận; cô chỉ đang gợi chuyện xã giao thôi. Hôm nay là lần đầu tiên Sơ Lillian gặp Rina, cuộc trò chuyện cũng diễn ra chớp nhoáng nên sơ khó lòng nắm bắt được tính nết cô ấy chỉ qua chừng đó.
 
-Sơ Lillian suy nghĩ một thoáng rồi nói, "Cô Rina có vẻ là một thiếu nữ rất chân thành và thuần khiết, nên tôi nghĩ cô bé sẽ hòa thuận với Alize thôi. Alize không bộc trực bằng cô ấy, nhưng trong thâm tâm con bé là một đứa trẻ dịu dàng. Tôi nghĩ con bé có thể là chính mình khi ở cạnh một người như cô Rina, thay vì một ai đó quá đỗi nghiêm túc hay khó tính."
+Sơ Lillian ngẫm nghĩ một thoáng rồi nói, "Cô Rina xem chừng là một thiếu nữ rất chân thành và chất phác, nên tôi nghĩ cô ấy sẽ hợp với Alize thôi. Alize tuy không bộc trực bằng, nhưng tự đáy lòng con bé là một đứa trẻ rất mực hiền hòa. Ở bên một người như cô Rina, tôi nghĩ con bé có thể thoải mái sống thật với mình hơn là đi cùng ai đó quá đỗi nghiêm nghị hay khó tính."
 
-Khả năng quan sát của Sơ Lillian thấu đáo đến mức cả Lorraine lẫn tôi đều gật gù tán đồng theo lời giải thích của sơ.
+Cách nhìn nhận của Sơ Lillian thấu đáo đến mức cả tôi lẫn Lorraine đều phải gật gù tán thành.
 
-"Lý lẽ của sơ rất hợp lý," Lorraine thừa nhận, "nhưng hôm nay sơ mới gặp Rina lần đầu. Tôi thực sự ấn tượng khi sơ có thể nhận biết được nhiều điều đến thế chỉ qua một cuộc tiếp xúc ngắn ngủi."
+"Sơ phân tích chí lý lắm," Lorraine thừa nhận, "nhưng hôm nay sơ mới gặp Rina lần đầu thôi mà. Tôi thực sự khâm phục khi sơ nhìn ra được ngần ấy điều chỉ sau chốc lát gặp gỡ."
 
-Sơ Lillian mỉm cười hiền từ. "Tôi đã làm người phụ trách cô nhi viện này trong một thời gian dài rồi. Tôi đã học được cách đánh giá tính cách của một người trẻ tuổi chỉ qua một lần tiếp xúc ngắn ngủi. Tất nhiên, cũng có nhiều lúc tôi không thể hiểu rõ một đứa trẻ nhanh đến thế. Tôi cũng tin rằng tốt nhất là không nên vội vàng phán xét. Nhưng cô Rina có vẻ rất thành thật và ngay thẳng, còn Alize thì tôi đã hiểu rõ từ lâu rồi."
+Sơ Lillian mỉm cười hiền hậu. "Tôi trông nom cô nhi viện này đã bao năm rồi, thành thử cũng tích lũy được chút kinh nghiệm nhìn nhận tính nết của một người trẻ chỉ qua tiếp xúc chớp nhoáng. Lẽ dĩ nhiên là chẳng phải lúc nào tôi cũng thấu suốt một đứa trẻ nhanh đến thế, và bản thân tôi cũng tâm niệm tốt nhất là không nên vội vàng định kiến. Nhưng cô Rina trông rất thành thật và thẳng thắn, còn Alize thì tôi đã hiểu quá rõ từ lâu rồi."
 
-Kinh nghiệm của Sơ Lillian hẳn đã dạy cho sơ cách nhìn thấu tính cách một người chỉ qua màn chào hỏi ngắn ngủi. Giá mà sơ chỉ dạy cho tôi cách làm điều đó thì tốt biết mấy. Khả năng giao tiếp xã hội của tôi vô cùng thiếu thốn. Do bản thân cứ luôn lầm lũi một mình trong những mê cung tăm tối, tôi chưa từng tích lũy được loại kiến thức như vậy.
+Bề dày kinh nghiệm hẳn đã giúp Sơ Lillian nhìn thấu tính cách một người chỉ qua màn chào hỏi ngắn ngủi. Giá mà sơ truyền cho tôi ít ngón nghề đó thì hay biết mấy. Chứ khoản đối nhân xử thế của tôi thì dở tệ. Quanh năm suốt tháng cứ lầm lũi một mình trong mấy mê cung tăm tối, tôi nào có cơ hội tích lũy vốn sống kiểu ấy.
 
-Về phần Lorraine, kỹ năng giao tiếp của cô ấy lại tốt một cách đáng ngạc nhiên. Hồi mới đến Maalt thì không được như vậy—khi đó cô ấy trông giống hệt một học giả điển hình sống cách biệt với đời—nhưng cung cách ứng xử xã hội của cô đã tiến bộ vượt bậc trong suốt mười năm ở đây. Tôi chẳng rõ cô ấy làm thế nào, nhưng có lẽ tất cả là nhờ vào sự thông minh. Cô ấy chỉ đơn giản là có thể nắm bắt và tiếp thu những dấu hiệu giao tiếp hay cách hành xử khéo léo tốt hơn tôi nhiều.
+Còn Lorraine thì tài giao thiệp lại khéo léo đến bất ngờ. Hồi mới chân ướt chân ráo tới Maalt thì đâu đã được như vậy—dạo ấy trông cô đúng chuẩn một học giả ru rú trong tháp ngà—nhưng suốt mười năm ở đây, cung cách đối nhân xử thế của cô đã tiến bộ vượt bậc. Tôi chẳng rõ cô làm thế nào, khéo lại nhờ trí thông minh sẵn có. Đơn giản là cô nhạy bén trong việc bắt sóng ánh mắt và nắm bắt cung cách ứng xử hơn tôi nhiều.
 
-"Nghe sơ nói vậy tôi thấy nhẹ nhõm hẳn, thưa Sơ Lillian," tôi nói.
+"Nghe sơ nói vậy tôi cũng nhẹ cả người, thưa Sơ Lillian," tôi lên tiếng.
 
-"Thật vậy sao? Nếu có điều gì khiến tôi băn khoăn, thì đó là chuyện hai đứa có thể sẽ cãi cọ vì những chuyện tương đối vặt vãnh."
+"Thế ư? Nếu có điều gì làm tôi hơi băn khoăn, thì chắc là chuyện hai đứa có thể sẽ cãi cọ vì mấy việc cỏn con thôi."
 
-Ngay khi tôi vừa bảo mọi chuyện sẽ ổn thỏa thôi, Sơ Lillian liền bồi thêm một nhận xét cùng nụ cười tinh nghịch. Dẫu vậy, đó cũng là một nét cuốn hút của sơ.
+Vừa thấy tôi thở phào bảo mọi chuyện sẽ ổn, Sơ Lillian liền bồi thêm một câu nhận xét kèm theo nụ cười tinh quái. Mà đó cũng là một nét duyên dáng rất riêng của sơ.
 
 Một lát sau, Sơ Lillian nghiêng đầu như thể vừa sực nhớ ra điều gì. "Ồ, nhắc mới nhớ. Hai cậu sắp lên vương đô đúng không?"
 
-Giọng sơ nghe rất nghiêm túc, nên chúng tôi liền thẳng lưng và nhìn thẳng vào sơ.
+Giọng sơ nghe chừng rất nghiêm túc, nên hai chúng tôi liền đứng thẳng người, chăm chú nhìn sơ.
 
-"Vâng, đúng là vậy," Lorraine xác nhận. "Có chuyện gì sao sơ...?"
+"Vâng, đúng là vậy ạ," Lorraine xác nhận. "Bộ có chuyện gì sao sơ...?"
 
-Sơ Lillian xua tay, vẻ mặt thoáng ngượng ngùng. "Ồ, không, không có gì đâu. Chuyện không quan trọng đến thế, nên hai cậu không cần phải tỏ ra trang nghiêm như vậy đâu. Nhưng nếu có thời gian trong lúc ở vương đô, tôi sẽ rất cảm kích nếu hai cậu có thể chuyển giúp tôi một bức thư đến Giáo Hội Đông Thiên. Tôi rất sẵn lòng trả cho hai cậu theo mức thù lao thông thường của dịch vụ đó."
+Sơ Lillian xua tay, nét mặt thoáng vẻ ngượng ngùng. "Ồ không, không có gì nghiêm trọng đâu, hai cậu chẳng cần phải căng thẳng thế. Chỉ là nếu có thời gian trong chuyến đi vương đô, tôi rất mong hai cậu chuyển giúp tôi một bức thư đến Giáo Hội Đông Thiên. Tôi sẽ gửi thù lao đàng hoàng theo đúng mức giá thông thường cho chuyến đi."
 
-Vì đây là một công việc, chúng tôi lắng nghe một cách chăm chú. So với việc săn quái vật hay làm hộ vệ cho ai đó, yêu cầu của sơ ít áp lực hơn đôi chút vì chúng tôi sẽ không phải liều mạng. Dù vậy, điều đó không có nghĩa là nó hoàn toàn an toàn. Rốt cuộc thì quãng đường từ Maalt lên vương đô rất dài. Luôn có khả năng người ta đụng phải thổ phỉ hay quái vật dọc đường đi. Tuy nhiên, chúng tôi đã tính trước những rủi ro đó cho chuyến hành trình của mình rồi, nên yêu cầu của sơ sẽ không đẩy chúng tôi vào thêm bất kỳ hiểm nguy nào khác.
+Đã là ủy thác công việc thì chúng tôi chăm chú lắng nghe ngay. So với việc săn quái vật hay làm hộ vệ, thỉnh cầu của sơ đỡ áp lực hơn nhiều vì không phải đem tính mạng ra đánh cược. Dù thế, điều đó chẳng có nghĩa là chuyến đi an toàn tuyệt đối. Dẫu sao thì chặng đường từ Maalt lên vương đô xa xôi nghìn dặm, lúc nào cũng chực chờ nguy cơ đụng độ thổ phỉ hay quái vật dọc đường. Nhưng chúng tôi vốn đã tính trước những rủi ro ấy cho cả hành trình rồi, nên thêm việc này cũng chẳng khiến bọn tôi phải chịu thêm mối nguy nào khác.
 
-Tôi đã sẵn sàng nhận việc, nhưng tôi nghĩ mình vẫn nên hỏi ý kiến Lorraine trước. "Cô nghĩ chúng ta có đủ thời gian không?" tôi hỏi cô.
+Bản thân tôi thì sẵn lòng nhận lời, nhưng nghĩ bụng vẫn nên hỏi ý Lorraine trước đã. "Cô nghĩ liệu mình có kịp thời gian không?" tôi quay sang hỏi cô.
 
-"Cơ sở chính của Giáo Hội Đông Thiên nằm ở vương đô. Đại Thánh Đường cũng không cách Hội quá xa, nên chắc không phiền phức lắm đâu. Cho dù có mất trọn một ngày để chuyển bức thư đi chăng nữa, yêu cầu của Wolf cũng chẳng khẩn cấp đến mức ấy."
+"Trụ sở chính của Giáo Hội Đông Thiên nằm ngay vương đô. Đại Thánh Đường cũng chẳng cách Hội quá xa, nên chắc không phiền toái gì đâu. Dù có mất đứt cả ngày để đưa thư đi chăng nữa thì ủy thác của Wolf cũng đâu gấp gáp đến mức ấy."
 
-"Ừ, cô nói phải. Ngay cả khi tính thời gian đi lại, lịch trình của chúng ta vẫn có dư ra một hoặc hai ngày đề phòng gặp rắc rối. Không thành vấn đề đâu."
+"Ừ, cô nói phải. Tính cả thời gian đi đường thì lịch trình của chúng ta vẫn dôi ra một hai ngày phòng khi có chuyện. Chẳng vấn đề gì đâu."
 
-"Vả lại vì tôi không dính dáng gì đến công việc của Hội, tôi hoàn toàn có thể tự mình đi chuyển thư. Nhìn chung thì không có gì phải bận tâm nhiều."
+"Hơn nữa tôi đâu có dính dáng gì đến ủy thác của Hội, tôi hoàn toàn có thể tự mình đi đưa thư. Nhìn chung chẳng có gì đáng bận tâm cả."
 
-"Ồ, phải rồi. Cô nói đúng đấy."
+"Ờ nhỉ, cô nói chí lý."
 
-Hội đã yêu cầu tôi nhận công việc này, nên Lorraine có thể đi chuyển thư trong lúc tôi bận bịu giải quyết việc đó.
+Bên Hội chỉ giao việc cho mỗi mình tôi, thành ra Lorraine hoàn toàn có thể tranh thủ đi đưa thư trong lúc tôi bận bịu với ủy thác đó.
 
-Lorraine quay lại phía Sơ Lillian và nói, "Vì Rentt có công việc do Hội giao phó, tôi không rõ liệu anh ấy có thời gian hay không, nhưng nếu sơ thấy ổn với việc tôi đi chuyển thư thì tôi rất sẵn lòng nhận lời thỉnh cầu của sơ. Giờ không còn thời gian để đăng ký việc này qua Hội nữa, nên đây sẽ là một hợp đồng cá nhân. Như vậy có được không sơ?"
+Lorraine quay sang Sơ Lillian bảo, "Vì Rentt vướng việc của Hội nên tôi không dám chắc anh ấy có rảnh tay hay không, nhưng nếu sơ thấy ổn việc để một mình tôi đi đưa thư thì tôi rất sẵn lòng nhận lời nhờ vả này. Giờ không còn kịp đăng ký qua Hội nữa nên đành làm theo dạng hợp đồng cá nhân thôi. Liệu như vậy có được không sơ?"
 
-Lorraine đề cập đến chuyện tôi có thể không có thời gian chỉ là để đề phòng thôi. Rất có khả năng tôi vẫn thu xếp được, nhưng tôi không dám khẳng định chắc chắn điều đó. Trái lại, Lorraine thì hoàn toàn có thể làm được.
+Lorraine rào trước chuyện tôi có thể không có thời gian chẳng qua là để phòng xa thôi. Nhiều khả năng tôi vẫn thu xếp đi được, chỉ là chưa thể khẳng định chắc nịch được gì. Trái lại, Lorraine thì chắc chắn đi được.
 
-"Được thế thì tốt quá rồi," Sơ Lillian nói. "Cô đã giúp đỡ Alize nhiều như vậy, cô Lorraine, nên tôi hoàn toàn tin tưởng cô. Tôi sẽ chuẩn bị xong bức thư trước khi hai cậu khởi hành, vậy trước lúc rời đi cô có thể ghé qua văn phòng của tôi một lát được không?"
+"Được thế thì còn gì bằng," Sơ Lillian nói. "Cô đã giúp đỡ Alize nhiều đến thế, cô Lorraine, nên tôi tuyệt đối tin tưởng cô. Tôi sẽ chuẩn bị xong bức thư trước lúc hai cậu lên đường, nên trước khi rời đi cô ghé qua phòng làm việc của tôi một lát được không?"
 
 "Vâng, tất nhiên rồi," Lorraine đáp lời.
 
 ◆◇◆◇◆
 
-"Ồ, hai đứa kia rồi."
+"A, hai đứa kia rồi."
 
-Sau khi kết thúc cuộc trò chuyện với Sơ Lillian, Lorraine và tôi quyết định ngồi chờ trong nhà nguyện của cô nhi viện. Chẳng bao lâu sau, chúng tôi nghe thấy tiếng nói vọng lại từ lối vào. Khi quay lại xem là ai, chúng tôi thấy Alize và Rina đang đứng ở đó.
+Trò chuyện với Sơ Lillian xong xuôi, tôi và Lorraine quyết định vào nhà nguyện của cô nhi viện ngồi đợi. Chẳng bao lâu sau, tiếng nói cười từ lối vào vọng tới. Quay đầu nhìn lại, chúng tôi thấy Alize và Rina đã đứng ở đó.
 
 "Xem ra hai đứa đã nói chuyện xong rồi đấy," Lorraine nhận xét.
 
-"Ừ, đúng là vậy."
+"Ừ, có vẻ thế."
 
-Tôi nhìn sang Lorraine, rồi cả hai đứng dậy khỏi băng ghế nhà nguyện. Khi bước lại gần Alize và Rina, chúng tôi nhận thấy cả hai đều trông rất vui vẻ, nên không khó để hình dung rằng cuộc trò chuyện của hai đứa đã diễn ra tương đối êm đẹp.
+Tôi đưa mắt nhìn Lorraine, rồi cả hai cùng đứng dậy khỏi băng ghế nhà nguyện. Bước lại gần Alize và Rina, thấy nét mặt hai đứa đều vui vẻ, không khó để đoán ra cuộc trò chuyện riêng vừa rồi đã diễn ra rất êm đẹp.
 
-"Hai đứa nói chuyện xong rồi à?" Lorraine hỏi hai người họ.
+"Hai đứa nói chuyện xong rồi à?" Lorraine hỏi.
 
 Cả hai cùng gật đầu.
 
-"Vâng ạ!" Rina reo lên cùng nụ cười rạng rỡ. "Chị em tôi đã quyết định sẽ cùng nhau nỗ lực luyện tập rồi ạ!"
+"Vâng!" Rina reo lên với nụ cười rạng rỡ. "Tụi tôi đã quyết định sẽ cùng nhau cố gắng luyện tập rồi!"
 
-Tôi cứ nghĩ Rina sẽ chỉ dạy cho Alize chứ không phải luyện tập cùng cô bé, nhưng về mặt lý thuyết thì Alize vẫn sẽ được học hỏi. Thêm vào đó, từ trước đến nay Rina luôn luyện tập chăm chỉ, và cô ấy đã miệt mài rèn giũa các bài học mà Lorraine cùng tôi đã truyền dạy, nên cô ấy hoàn toàn đủ năng lực để đảm đương nhiệm vụ.
+Tôi cứ ngỡ Rina sẽ kèm cặp cho Alize chứ không phải tập luyện cùng, nhưng tính ra thì Alize vẫn học hỏi được nhiều điều. Hơn nữa từ trước đến nay Rina luôn tập luyện rất chăm chỉ, lại còn miệt mài rèn giũa những bài học tôi và Lorraine truyền dạy, nên cô ấy hoàn toàn đủ sức đảm đương.
 
-"Tôi hiểu rồi. Thế rốt cuộc hai đứa đã nói những chuyện gì vậy?" Lorraine hỏi họ.
+"Ra thế. Thế rốt cuộc hai đứa đã to nhỏ những chuyện gì đấy?" Lorraine hỏi.
 
 Alize đặt ngón trỏ lên môi. "Đó là... bí mật ạ."
 
-"Sao lại thế?" Lorraine nghiêng đầu hỏi.
+"Sao lại thế?" Lorraine nghiêng đầu.
 
-Alize khẽ liếc nhìn tôi một thoáng, và Lorraine, người đủ nhạy bén để nhận ra gợi ý đó, liền phẩy tay xua tôi đi chỗ khác. Tôi lẳng lặng vâng lời rồi đi tới ngồi xuống một băng ghế ở góc nhà nguyện.
+Alize khẽ liếc tôi một thoáng, còn Lorraine vốn thừa tinh ý để hiểu ngay ngụ ý đó liền phẩy tay xua tôi đi chỗ khác. Tôi lẳng lặng vâng lời, lủi thủi ra ngồi ở một góc băng ghế trong nhà nguyện.
 
-Tôi cảm thấy mình bị cho ra rìa một cách kỳ lạ. Tôi nhìn ba người họ bắt đầu thì thầm to nhỏ. Thính giác của tôi vốn đã trở nên nhạy bén hơn, nên tôi nghĩ có lẽ mình có thể nghe thấy họ ngay cả từ khoảng cách này, nhưng khi thực sự cố lắng tai nghe thì tôi chẳng nghe thấy một âm thanh nào cả. Tôi biết không phải vì tai mình dở đi, bởi ngay cả tiếng sột soạt từ quần áo của họ tôi cũng không nghe thấy.
+Cảm giác bị cho ra rìa này đúng là có chút kỳ cục. Tôi trơ mắt nhìn ba người bọn họ xúm lại thì thầm to nhỏ. Dạo này tai tôi đã thính hơn trước nhiều, cứ ngỡ ở khoảng cách này vẫn nghe lỏm được, thế nhưng lúc dỏng tai lên tôi lại chẳng nghe thấy nổi một mẩu âm thanh nào. Tôi thừa biết không phải tai mình bị điếc đi, bởi ngay cả tiếng sột soạt từ quần áo của họ tôi cũng chẳng bắt được.
 
 ![](images/ch215-01.webp)
 
-Khi quan sát kỹ hơn, tôi nhận thấy Lorraine đang sử dụng ma thuật. Đó là một phong ma pháp có tác dụng triệt tiêu bất kỳ âm thanh nào phát ra từ một vị trí nhất định. Vì họ đang bàn tán điều gì đó bí mật, nên việc Lorraine làm thế cũng là điều dễ hiểu.
+Nhìn kỹ lại tôi mới nhận ra Lorraine đang dùng ma thuật. Đó là một phong ma pháp có tác dụng triệt tiêu mọi âm thanh phát ra từ một vị trí chỉ định. Đang bàn chuyện bí mật với nhau thì việc Lorraine làm vậy cũng dễ hiểu.
 
-Dù vậy, tôi lại càng cảm thấy mình bị cô lập hơn lúc trước. Tôi nhẹ nhàng vòng tay ôm lấy đầu gối trước ngực. Tôi quả là một sự hiện diện kỳ quặc: lầm lũi nơi góc nhà nguyện, khoác trên mình chiếc áo choàng đen, đeo mặt nạ đầu lâu và ngồi bó gối. Trông tôi chẳng khác nào một con ác quỷ hay thứ ác linh nào đó. Nhưng tôi sở hữu Thần Lực kia mà, nên có khi tôi lại gần với một thiên sứ hơn ấy chứ.
+Dù thế, tôi lại càng cảm thấy mình bị cô lập hơn lúc nãy. Tôi khẽ vòng tay ôm lấy hai đầu gối trước ngực. Nghĩ lại thấy bộ dạng của mình quả thực dị hợm: lủi thủi nơi xó nhà nguyện, khoác áo choàng đen kín mít, đeo mặt nạ đầu lâu rồi ngồi thu lu bó gối. Trông chẳng khác gì một con ác quỷ hay tà linh nào đó. Huống hồ tôi có Thần Lực kia mà, có khi trông lại gần với một thiên sứ hơn không chừng.
 
-Một lúc sau, tôi nghe thấy tiếng Lorraine gọi, "Rentt, chúng tôi nói chuyện xong rồi."
+Một lát sau, tôi nghe thấy tiếng Lorraine gọi, "Rentt, bọn tôi xong rồi này."
 
-Tôi ngẩng đầu lên. Không còn chút dấu vết nào của phong ma pháp sót lại, nên chắc hẳn họ đã kết thúc cuộc trò chuyện. Tôi chẳng nói gì mà chỉ lặng lẽ bước lại gần họ.
+Tôi ngẩng đầu lên. Dấu vết của phong ma pháp đã tan biến hoàn toàn, xem chừng họ đã nói chuyện xong xuôi. Chẳng buồn nói nửa lời, tôi lặng lẽ bước lại gần.
 
-"Đừng có dỗi thế chứ," Lorraine châm chọc, vẻ mặt thoáng chút ngán ngẩm.
+"Đừng có phụng phịu thế chứ," Lorraine trêu, vẻ mặt thoáng chút ngán ngẩm.
 
-"Dù sao thì, tôi xin lỗi vì đã gạt anh ra ngoài như thế. Nhưng phụ nữ cũng có những chuyện không thể bàn luận trước mặt đàn ông mà. Anh hiểu điều đó đúng không?"
+"Mà tôi xin lỗi vì đã gạt anh ra rìa như thế nhé. Nhưng phụ nữ tụi tôi cũng có những chuyện đâu thể bàn trước mặt đàn ông. Anh thừa hiểu điều đó mà, đúng không?"
 
-Khi ngẫm kỹ hàm ý trong lời cô ấy, tôi biết cô đang muốn bảo rằng tôi cần bớt vô tâm vô tứ đi một chút.
+Ngẫm kỹ ngụ ý trong lời cô, tôi biết tỏng cô đang nhắc khéo tôi nên bớt vô tâm vô tứ đi một chút.
 
-"Không, không sao đâu. Tôi chỉ thấy hơi cô đơn một chút thôi," tôi thừa nhận.
+"Đâu có, không sao mà. Tôi chỉ thấy hơi tủi thân tí thôi," tôi thú nhận.
 
-Thực ra tôi cũng chẳng bận lòng đến mức ấy. Sau mười năm phiêu lưu trong các mê cung, tôi đã thành thục nghệ thuật ở một mình rồi. Tôi đâu có buồn phiền chỉ vì vài phút cô độc ngắn ngủi này. Dù sao thì tôi cũng chỉ đùa chút thôi, hay ít nhất là đang diễn kịch. Hơn nữa, tôi vốn đã đoán được họ bàn tán về chuyện gì rồi. Chắc chắn là về tôi chứ đâu. Chỉ có điều tôi không rõ cụ thể họ đã nói những gì mà thôi.
+Thực ra tôi cũng chẳng để bụng chuyện đó làm gì. Suốt mười năm lăn lộn trong các mê cung, tôi đã đạt tới cảnh giới làm bạn với nỗi cô độc rồi, lẽ nào lại đi tủi thân chỉ vì vài phút lẻ loi ngắn ngủi. Dù sao tôi cũng chỉ đùa chút thôi, hay ít ra là đang diễn kịch tí chút. Hơn nữa tôi thừa biết ba người họ vừa to nhỏ chuyện gì. Chắc chắn là về tôi chứ ai vào đây nữa. Chỉ có điều cụ thể họ nói xấu tôi những gì thì tôi chịu.
 
-"Thế thì tốt rồi," Lorraine tuyên bố. "Dù sao đi nữa, chúng ta không cần phải lo lắng về Rina và Alize nữa. Xem ra chúng ta có thể yên tâm lên đường mà không còn vướng bận gì."
+"Thế thì được rồi," Lorraine bảo. "Dù sao đi nữa, giờ chúng ta không cần phải lo lắng về chuyện của Rina và Alize nữa. Xem ra có thể yên tâm lên đường mà chẳng còn vướng bận gì."
 
-"Ừ, đúng vậy. Chúng ta cũng chẳng có nhiều thời gian để nấn ná đâu, hay là mình xuất phát luôn đi?" tôi đề xuất.
+"Ừ, đúng thế. Chúng ta cũng chẳng có thời gian để nấn ná đâu, hay là xuất phát luôn đi?" tôi gợi ý.
 
-Lorraine gật đầu. Rồi chúng tôi rời khỏi nhà nguyện, ghé qua văn phòng của Sơ Lillian để nhận thư của sơ, rồi rời khỏi cô nhi viện.
+Lorraine gật đầu. Chúng tôi liền rời khỏi nhà nguyện, ghé qua phòng làm việc của Sơ Lillian nhận thư, rồi bước ra khỏi cô nhi viện.
 
-Alize từng muốn ra tận bến xe ngựa để tiễn chúng tôi, nhưng vì là một trong những đứa trẻ lớn ở cô nhi viện, cô bé có khá nhiều việc vặt phải làm. Đằng nào thì cũng chẳng phải chúng tôi sẽ không bao giờ gặp lại nhau nữa, nên chúng tôi chào tạm biệt nhau ngay tại cổng vào của cô nhi viện.
+Alize vốn muốn ra tận bến xe tiễn chúng tôi, nhưng vì là một trong những đứa trẻ lớn ở đây nên cô bé có khá nhiều việc vặt phải lo. Đằng nào cũng chẳng phải đi biệt tích không về, nên chúng tôi chia tay nhau ngay trước cổng cô nhi viện.
 
-Trên đường đi bộ đến bến xe ngựa, tôi căn dặn Rina về đủ thứ chuyện cần phải cẩn thận trong thời gian chúng tôi vắng nhà.
+Trên đường đi ra bến xe, tôi dặn dò Rina đủ thứ chuyện cần lưu tâm trong những ngày chúng tôi vắng nhà.
 
-"Trước hết, hãy chắc chắn là cô luôn ưu tiên an toàn của bản thân lên hàng đầu. Ngoài ra, nếu có chuyện gì xảy ra thì hãy tìm Isaac để nhờ giúp đỡ. Không phải là tôi mong có chuyện gì xảy ra đâu, nhưng mà..."
+"Trước hết, cô nhớ phải luôn đặt an toàn của bản thân lên hàng đầu đấy. Với lại nếu có chuyện gì xảy ra thì cứ tìm Isaac nhờ giúp. Không phải tôi trù ẻo có chuyện đâu, nhưng mà..."
 
-Rina vui vẻ đáp, "Vâng, tôi hiểu rồi ạ! Ồ, với lại, tôi cũng rất mong chờ quà lưu niệm của hai người đấy nhé!"
+Rina vui vẻ đáp, "Vâng, tôi hiểu rồi! À mà, tôi cũng mong quà lưu niệm của hai người lắm đấy nhé!"
 
-Khác với Alize, trong lời nói của Rina chẳng hề có chút khiêm nhường hay e dè nào. Sự thẳng thắn và bộc trực của cô ấy chính là một phần nét cuốn hút riêng. Alize thường hành xử chững chạc hơn so với lứa tuổi của mình. Tôi đoán đó là vì cô bé lớn lên trong cô nhi viện và đã học được cách nhường nhịn cho những đứa trẻ khác. Cô bé đang bắt đầu bớt e dè khi ở bên chúng tôi, nhưng em vẫn còn quá nhún nhường mỗi khi nói về những mong muốn của bản thân. Song chúng tôi cũng chẳng định ép cô bé phải đòi hỏi thứ này thứ nọ làm gì.
+Khác với Alize, lời lẽ của Rina chẳng hề có chút khách khí hay e dè nào. Sự bộc trực và thẳng thắn ấy chính là một nét đáng yêu rất riêng của cô ấy. Alize thì thường già dặn hơn so với lứa tuổi của mình. Tôi đoán nguyên do là bởi cô bé lớn lên trong cô nhi viện, từ nhỏ đã học được đức tính nhường nhịn cho những đứa trẻ khác. Ở cạnh chúng tôi thì cô bé đã bắt đầu bớt giữ kẽ, thế nhưng hễ đụng đến mong muốn của bản thân là cô bé lại nhún nhường quá đỗi. Mà chúng tôi cũng chẳng định ép cô bé phải vòi vĩnh thứ này thứ kia làm gì.
 
-"Rina, cô lớn lên ở vương đô đúng không?" Lorraine hỏi. "Chẳng lẽ bất cứ thứ gì chúng tôi mang về mà cô lại chưa từng thấy qua sao?"
+"Rina, cô lớn lên ở vương đô đúng không?" Lorraine hỏi. "Thế thì món gì chúng tôi mang về chắc cô cũng nhẵn mặt hết rồi chứ?"
 
-Rina hiện giờ là một đệ tử bán Ma Cà Rồng kiêm mạo hiểm giả tại thị trấn hẻo lánh Maalt, nhưng cô ấy vốn là con gái của một gia tộc hiệp sĩ và xuất thân từ vương đô. Có lẽ trong quá trình trưởng thành cô ấy đã được nhận một khoản tiền tiêu vặt hậu hĩnh cho những thứ xa xỉ. Quà lưu niệm hẳn sẽ chẳng khiến cô ấy hào hứng đến thế đâu.
+Rina hiện giờ là một học trò bán Ma Cà Rồng kiêm mạo hiểm giả ở cái thị trấn Maalt hẻo lánh này, nhưng cô ấy vốn là ái nữ của một gia tộc hiệp sĩ gốc vương đô. Thuở nhỏ khéo cô ấy có cả đống tiền tiêu vặt để xài đồ xa xỉ ấy chứ. Mấy món quà lưu niệm bình thường hẳn đâu thể khiến cô ấy háo hức đến mức này.
 
-Tôi bày tỏ suy nghĩ tương tự như vậy, nhưng Rina vội vã đính chính. "Tôi thực sự không phải là tiểu thư con nhà gia thế giàu có đâu ạ! Dù tôi thuộc về một gia tộc hiệp sĩ, một gia đình quý tộc, nhưng nhà chúng tôi đâu có khá giả đến thế. Có rất nhiều gia đình quý tộc như vậy đấy ạ, vả lại cha mẹ tôi cũng khá nghiêm khắc. Dù rằng, nhà chúng tôi đúng là có một căn dinh thự lớn thật."
+Tôi cũng góp lời trêu như thế, nhưng Rina liền cuống quýt thanh minh. "Tôi không hẳn là tiểu thư khuê các xuất thân từ gia đình giàu sang gì đâu! Tuy nhà tôi là gia tộc hiệp sĩ, tức cũng thuộc hàng quý tộc thật, nhưng kinh tế đâu có dư dả đến thế. Có khối gia đình quý tộc cũng thế mà, vả lại cha mẹ tôi nghiêm khắc lắm. Dù công nhận là nhà tôi có căn dinh thự to thật."
 
-Tôi chỉ trêu vậy thôi, vì tôi vốn đoán được tình hình là như thế. Đúng là tước vị quý tộc càng cao thì gia tộc đó càng có nhiều tiền, nhưng chuyện những gia đình ở bậc thấp hơn trong nấc thang xã hội lại có nhiều tiền hơn những kẻ ở bậc trên cũng chẳng hề hiếm gặp. Chẳng hạn như, có những thường dân thậm chí còn giàu có hơn cả những vị công tước mang địa vị cao quý nhất. Các đại thương nhân giàu sụ là một ví dụ điển hình khác.
+Tôi nói đùa vậy thôi chứ bụng cũng đoán cơ sự là thế. Đúng là tước vị quý tộc càng cao thì càng lắm của nhiều tiền, nhưng chuyện những gia tộc ở tầng bậc thấp hơn lại rủng rỉnh tiền bạc hơn giới bề trên cũng chẳng hiếm gặp. Chẳng hạn như có những thường dân còn giàu có hơn cả các vị công tước quyền quý nhất. Mấy tay đại thương nhân kếch xù chính là ví dụ điển hình.
 
-"Thế thì tôi đoán là cô sẽ muốn chúng tôi mang về vài món quà cho cô rồi," Lorraine nhận xét.
+"Thế thì chắc cô muốn chúng tôi mang về vài món quà rồi nhỉ," Lorraine bảo.
 
-"Cô muốn món gì nào? Nếu cứ để mặc cho Rentt chọn thì anh ta sẽ mua cho cô thứ gì đó kỳ quặc cho mà xem."
+"Cô thích món gì nào? Nếu cứ để mặc cho Rentt chọn thì thể nào anh ấy cũng mua về thứ gì đó kỳ quặc cho mà xem."
 
-Rina lấy ra một thứ gì đó từ trong túi áo. "Đây ạ. Nếu hai người có thể chọn trong danh sách này thì tốt quá," cô ấy nói cùng một nụ cười.
+Rina móc một món đồ từ túi áo ra. "Đây này. Nếu hai người chọn giúp tôi trong danh sách này thì tốt quá," cô ấy mỉm cười bảo.
 
-Thứ cô ấy đưa cho tôi là một cuốn sổ tay nhỏ làm bằng loại giấy thô ráp, rẻ tiền. Đó là một trong những cuốn sổ mà Lorraine đã hào phóng cho phép Rina và tôi sử dụng thỏa thích bao nhiêu tùy ý. Lorraine thậm chí còn sở hữu một ma cụ có thể xé vụn giấy thành từng mảnh rồi tái tạo lại nó nếu chúng tôi viết sai, nên chúng tôi dùng chúng rất thoải mái. Dù giấy chất lượng thấp không đắt đỏ, nhưng nó cũng không rẻ đến mức chúng tôi có thể dùng bừa bãi như thế nếu không có món đồ kia.
+Thứ cô ấy chìa ra cho tôi là một cuốn sổ tay nhỏ đóng bằng loại giấy thô ráp, rẻ tiền. Đó là một trong những cuốn sổ mà Lorraine đã hào phóng cho tôi và Rina dùng thỏa thích tùy ý. Lorraine thậm chí còn sở hữu một ma cụ có khả năng xé vụn giấy rồi tái tạo lại như cũ mỗi khi chúng tôi viết sai, nên chúng tôi mới dám xài xả láng. Dù giấy phẩm chất kém không đắt đỏ gì, nhưng nếu không có món đồ kia thì nó cũng chẳng rẻ tới mức để chúng tôi tùy tiện dùng như thế.
 
-Lorraine ghé mắt nhìn qua vai tôi. "A, đây là bản đồ vương đô. Kèm theo danh sách tên các cửa tiệm cùng những sản vật nổi tiếng của họ nữa này."
+Lorraine ghé mắt nhìn qua vai tôi. "A, đây là bản đồ vương đô. Còn liệt kê cả tên các cửa tiệm cùng mấy món nổi tiếng của họ nữa này."
 
-Rina gật đầu đầy hào hứng. "Tối qua tôi đã thức khuya để làm nó đấy ạ! Đây là cuốn cẩm nang du lịch hoàn hảo cho vương đô đấy!"
+Rina gật đầu lia lịa đầy hào hứng. "Tối qua tôi thức khuya để làm đấy! Đảm bảo là cẩm nang du lịch vương đô chuẩn chỉ nhất luôn!"
 
-Tối qua khi chúng tôi báo cho Rina biết rằng mình sắp đi vương đô, cô ấy đã lao vội về phòng. Tôi từng thắc mắc không biết cô ấy làm gì, nhưng xem ra cô đã bận rộn cặm cụi làm cuốn cẩm nang hướng dẫn nho nhỏ này.
+Tối qua khi chúng tôi báo tin sắp đi vương đô, cô ấy đã thoăn thoắt chạy biến về phòng. Hồi đó tôi cứ thắc mắc không biết cô ấy làm gì, hóa ra là bận rộn cặm cụi làm cuốn cẩm nang du lịch con con này.
