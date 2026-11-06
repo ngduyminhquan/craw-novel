@@ -20,7 +20,7 @@ Là người ngoài cuộc đột ngột xen vào giữa vụ cãi cọ mà vẫ
 
 "Vậy sao cô lại can thiệp vào? Chắc cô cũng thấy chúng tôi là người của Học Viện rồi chứ."
 
-Ý của Elise là phần lớn học viên Học Viện đều là ma pháp sư, mà số còn lại cũng có căn bản thực chiến, thành thử người thường dính vào sẽ cực kỳ nguy hiểm. Cô gái đang lo cho sự an toàn của Lorraine. Dĩ nhiên, mối lo đó là thừa thãi. Lorraine thì chẳng sao cả đâu.
+Ý của Elise là phần lớn học viên Học Viện đều là ma pháp sư, mà số còn lại cũng có căn bản thực chiến, thành thử người thường dính vào sẽ cực kỳ nguy hiểm. Cô ấy đang lo cho sự an toàn của Lorraine. Dĩ nhiên, mối lo đó là thừa thãi. Lorraine thì chẳng sao cả đâu.
 
 "Tôi hiểu mà," Lorraine tiếp lời, "nên cô không phải lo cho tôi đâu. Tôi tới đây chính là vì hai người đấy."
 
@@ -42,7 +42,7 @@ Thực ra Lorraine đã biết rõ từ đầu vì cô ấy nhìn thấy đượ
 
 "Nhà giả kim sao? Vậy những lời Noel nói..."
 
-"Cậu nhóc nói đúng. Thành thử ở đây, chính cô mới là người gây sự đấy. Tuy nhiên, nhìn vào hoàn cảnh lúc đó thì cũng thông cảm được. Còn nhóc con, lẽ ra nhóc cũng có thể lựa lời nói năng khéo léo hơn một chút mà, phải không?"
+"Cậu nhóc nói đúng. Thành thử ở đây, chính cô mới là người gây sự đấy. Có điều nhìn vào hoàn cảnh lúc đó thì cũng thông cảm được. Lẽ ra nhóc cũng có thể lựa lời nói năng khéo léo hơn một chút mà, phải không cậu bé?"
 
 Dù lúc nãy để yên cho Lorraine sờ xem áo choàng, Noel bỗng chốc lấy lại vẻ kiêu ngạo thường ngày. Cậu nhóc giật phắt vạt áo khỏi tay cô ấy: "Không cần cô phải khuyên bảo. Tôi chỉ nói đúng sự thật thôi."
 
@@ -50,7 +50,7 @@ Lorraine thở dài lắc đầu.
 
 Tôi cứ mong mọi chuyện thế là êm xuôi, nhưng ở đời làm gì có chuyện dễ dàng vậy. Dù Lorraine đã làm cho Noel và Elise thông suốt, cô ấy vẫn chưa giải quyết được gốc rễ của vụ ầm ĩ này.
 
-"K-Khoan, đợi đã nào!" người thương nhân kêu lên. "Ý cô bảo lỗi tại tôi đấy à?! Làm gì có cái lý đó chứ. Cô đâu thể đùng đùng xông vào rồi vu oan giá họa như thế được!"
+"K-Khoan, đợi đã nào!" người thương nhân kêu lên. "Ý cô bảo lỗi tại tôi đấy à?! Làm gì có cái lý đó chứ. Cô đâu thể đùng đùng xông vào rồi vu cáo người ta như thế được!"
 
 Noel nói đúng thì tức là lỗi thuộc về người thương nhân. Mà nếu ông ta thực sự chẳng làm gì cái áo choàng của Noel, thì lời buộc tội kia đúng là xúc phạm thật.
 
@@ -72,7 +72,7 @@ Lorraine lại quay sang Elise, chờ cô gái lên tiếng.
 
 "Hừ. Elise Georges, nếu muốn mua đồ chuộc lỗi với tôi thì trước hết hãy cải thiện điểm số của cô đi đã. Tiện thể học luôn cách nhìn ra thực lực của người đứng trước mặt mình nữa. Giờ thì tôi xin phép."
 
-Noel rảo bước rời bến xe. Không khí căng thẳng tan biến, đám đông vây xem cũng tản đi hết. Chỗ này chỉ còn lại Rina, Lorraine, Elise và tôi. Người thương nhân kia cũng đã lủi mất dạng tự lúc nào.
+Noel rời khỏi bến xe. Không khí căng thẳng tan biến, đám đông vây xem cũng tản đi hết. Chỗ này chỉ còn lại Rina, Lorraine, Elise và tôi. Người thương nhân kia cũng đã lủi mất dạng tự lúc nào.
 
 Chờ tới khi xung quanh vãn người, Elise mới nhận ra Rina rồi tròn mắt kêu lên: "Rina?! Cậu làm gì ở đây thế này?!"
 
@@ -84,7 +84,7 @@ Lúc này, chúng tôi đang ngồi nghỉ ngơi tại một quán cà phê ở 
 
 Rina đã khéo léo lược bớt đôi chỗ trong lời giải thích của mình. Cụ thể, cô ấy giấu nhẹm chuyện từng đụng phải một con Khô Lâu bí ẩn, suýt nữa thành Chủ Nhân Mê Cung, và việc bản thân giờ không còn là con người. Dẫu vậy, cũng chẳng thể coi là cô ấy nói dối được.
 
-"Ừ," Rina đáp. "Mình lặn lội từ vương đô tới đây, ban đầu mọi chuyện chẳng đâu vào đâu cả. Nhưng từ lúc được anh Rentt đây cứu trong mê cung, mình mới bắt đầu học được cách tự lo cho bản thân. Chị Lorraine là một ma pháp sư cừ khôi lắm, sắp tới mình cũng tính theo học ma thuật từ chị ấy nữa."
+"Ừ," Rina đáp. "Mình từ vương đô tới đây, ban đầu mọi chuyện chẳng đâu vào đâu cả. Nhưng từ lúc được anh Rentt đây cứu trong mê cung, mình mới bắt đầu học được cách tự lo cho bản thân. Chị Lorraine là một ma pháp sư cừ khôi lắm, sắp tới mình cũng tính theo học ma thuật từ chị ấy nữa."
 
 Trước đây Rina chẳng mấy hứng thú với ma thuật, nhưng giờ cô ấy đã biết dùng Phân Liệt. Chúng tôi tính rằng để cô ấy tìm hiểu thêm về ma thuật và dùng được chút đỉnh thì sẽ tốt hơn. Lỡ có ai thấy cô ấy dùng năng lực Ma Cà Rồng thì còn có cớ bảo đấy là ma pháp. Muốn thế, cô ấy buộc phải nắm rõ ma thuật làm được gì và không làm được gì.
 
@@ -134,9 +134,9 @@ Lorraine lấy một món đồ từ túi ra, đặt cộp một tiếng xuống
 
 ◆◇◆◇◆
 
-Thứ Lorraine vừa đặt lên bàn là một thanh đoản kiếm nhỏ. Trông nó thiên về làm cảnh hơn là vũ khí thực chiến, với những hoa văn gia huy chạm khắc cực kỳ tinh xảo trên chuôi. Cây đoản kiếm này khác hẳn với cây mà người thương nhân giắt bên hông để đánh dấu chức vị trong Hội Thương Nhân Ariana.
+Thứ Lorraine vừa đặt lên bàn là một thanh đoản kiếm nhỏ. Trông nó thiên về làm cảnh hơn là vũ khí thực chiến, với những hoa văn huy hiệu chạm khắc cực kỳ tinh xảo trên chuôi. Cây đoản kiếm này khác hẳn với cây mà người thương nhân giắt bên hông để đánh dấu chức vị trong Hội Thương Nhân Ariana.
 
-"Trông đắt tiền phết đấy," tôi lẩm bẩm theo thói quen.
+"Trông có vẻ đắt tiền đấy," tôi lẩm bẩm theo thói quen.
 
 Lorraine nhìn tôi với vẻ hơi ngán ngẩm: "Tầm này anh thừa sức mua mấy thứ cỡ đó rồi. Nhưng mà... tôi không chắc anh có mua nổi món này không đâu. Vả lại ở vùng này cũng chẳng ai bán thứ này cả," cô ấy nói đầy ẩn ý.
 
@@ -162,7 +162,7 @@ Lorraine lấy ra một mảnh vải được gấp gọn gàng từ trong túi.
 
 Nguyền Cụ còn được biết đến qua nhiều tên gọi khác nhau, chẳng hạn như "nguyền phẩm",
 
-"yêu cụ", hay "ảnh phẩm", song tựu trung đều chỉ một nhóm vật phẩm đặc thù, tương tự như chiếc mặt nạ của tôi. Nói cho đúng thì cái mặt nạ thiên về Thần Cụ hơn nên không hẳn là cùng một loại, nhưng hồi đầu tôi cứ đinh ninh nó bị nguyền rủa thật. Bởi lẽ nó dính chặt không chịu tháo ra. Nhưng nghĩ lại thì thế cũng tiện, tôi đỡ mất công bịa lý do giải thích vì sao chẳng bao giờ để lộ mặt.
+"yêu cụ", hay "ảnh phẩm", nhưng tất cả đều chỉ một nhóm vật phẩm đặc thù, tương tự như chiếc mặt nạ của tôi. Nói cho đúng thì cái mặt nạ thiên về Thần Cụ hơn nên không hẳn là cùng một loại, nhưng hồi đầu tôi cứ đinh ninh nó bị nguyền rủa thật. Bởi lẽ nó dính chặt không chịu tháo ra. Nhưng nghĩ lại thì thế cũng tiện, tôi đỡ mất công bịa lý do giải thích vì sao chẳng bao giờ để lộ mặt.
 
 "Một Nguyền Cụ ư?! Thứ này sao? Đây là lần đầu tiên tôi được thấy tận mắt đấy, nhưng chỉ nhìn bề ngoài thì chịu chẳng nhận ra nổi," Elise vừa nói vừa tròn mắt nhìn chằm chằm vào thanh đoản kiếm.
 
@@ -170,7 +170,7 @@ Nghe vậy tôi thấy hơi ngạc nhiên.
 
 Lorraine cũng thế, bởi cô ấy lên tiếng: "Tôi cứ ngỡ trong kho của Học Viện phải cất cả tá món thế này chứ."
 
-Học Viện là nơi đào tạo nhưng đồng thời cũng là cơ sở nghiên cứu. Các đề tài của họ trải rộng từ học thuật thông thường tới đủ mọi ngóc ngách ma thuật. Nguyền Cụ cũng nằm trong số đó, nên lẽ ra nơi này phải có cả chuyên gia về mảng này mới phải. Xét theo nghĩa rộng thì chúng vẫn xếp vào ma cụ, nhưng hiệu ứng của chúng lại phớt lờ hoàn toàn các quy luật ma thuật thông thường. Phân tích và thấu triệt cơ chế vận hành của chúng vốn là một nhánh nghiên cứu cực kỳ quan trọng.
+Học Viện là nơi đào tạo nhưng đồng thời cũng là cơ sở nghiên cứu. Các đề tài của họ trải rộng từ học thuật thông thường tới đủ mọi ngóc ngách ma thuật. Nguyền Cụ cũng nằm trong số đó, nên lẽ ra nơi này phải có cả chuyên gia về mảng này mới phải. Xét theo nghĩa rộng thì chúng vẫn xếp vào ma cụ, nhưng hiệu ứng của chúng lại phớt lờ hoàn toàn các quy luật ma thuật thông thường. Phân tích và tìm hiểu cơ chế vận hành của chúng vốn là một nhánh nghiên cứu cực kỳ quan trọng.
 
 "Kể cả ở Học Viện thì những Nguyền Cụ có uy lực lớn vẫn được coi là đồ quý hiếm," Elise giải thích. "Chúng đâu phải thứ để sẵn cho ai muốn xem cũng được. Tôi nghe nói Tòa Tháp có cất giữ một số món, nhưng đều được canh giữ hết sức nghiêm ngặt. Học viên bình thường như chúng tôi làm sao tiếp cận được."
 
@@ -180,7 +180,7 @@ Học Viện là nơi đào tạo nhưng đồng thời cũng là cơ sở nghi�
 
 "Không sao, miễn là đừng thử ở trong thị trấn, vì chưa biết sẽ xảy ra chuyện gì. Dĩ nhiên tôi không có ý bảo cô ấy cầm nó lên ngay tại đây. Nhưng Elise sẽ còn ở lại Maalt một thời gian. Nếu thu xếp được lịch trình, tôi rất sẵn lòng chuẩn bị địa điểm và tạo điều kiện cho cô thử. Cô thấy sao?"
 
-Lời đề nghị nghe có vẻ hơi rợn người, nhưng Lorraine đã mở lời thì hẳn chẳng nguy hiểm mấy. Ý tôi là Nguyền Cụ cũng có năm bảy loại. Những món vô phương hóa giải hiệu ứng như cái mặt nạ của tôi chỉ là số ít, còn đa phần đều yếu tới mức các Thánh Giả của Giáo Hội thừa sức thanh tẩy. Vài quốc gia thậm chí còn coi mấy món yếu như ma cụ bình thường. Thanh đoản kiếm này chắc cũng chỉ cỡ đó, chứ không thì Lorraine đã chẳng gợi ý. Dù sao thì nó cũng đủ yếu để một mảnh vải thấm Thần Lực phát huy tác dụng như một Khiên Chắn bảo vệ.
+Lời đề nghị nghe có vẻ hơi rợn người, nhưng Lorraine đã mở lời thì hẳn chẳng nguy hiểm mấy. Ý tôi là Nguyền Cụ cũng có năm bảy loại. Những món vô phương hóa giải hiệu ứng như cái mặt nạ của tôi chỉ là số ít, còn đa phần đều yếu tới mức các Thánh Giả của Giáo Hội thừa sức thanh tẩy. Vài quốc gia thậm chí còn coi mấy món yếu như ma cụ bình thường. Thanh đoản kiếm này chắc cũng chỉ cỡ đó, chứ không thì Lorraine đã chẳng gợi ý. Dù sao thì nó cũng đủ yếu để một mảnh vải thấm Thần Lực phát huy tác dụng như một tấm lá chắn bảo vệ.
 
 Elise đắn đo trước đề nghị của Lorraine một chốc, nhưng bản tính hiếu học của một học viên Học Viện rốt cuộc đã thắng thế. Ánh mắt lộ rõ vẻ kiên định, cô ấy đáp: "Tôi rất mong có được cơ hội đó. Về lịch trình thì tôi phải kiểm tra lại mới biết rõ chi tiết, nhưng ngay khi nắm chắc, tôi sẽ liên lạc với chị." Cơ hội học hỏi quý giá thế này, đời nào cô ấy chịu bỏ lỡ.
 
@@ -192,7 +192,7 @@ Theo lời Elise, các học viên Học Viện đã thuê trọn cả một qu�
 
 Đứng nhìn hai người họ chào nhau, tôi quay sang hỏi Lorraine: "Vậy có chắc thanh đoản kiếm này là thủ phạm làm hỏng cái áo choàng không?" Cầm thứ này trên tay vẫn làm cánh tay tôi gai gai khó chịu, nhưng nãy giờ tôi cũng quen dần rồi.
 
-"Đúng thế. Khả năng cao là nó làm nhiễu loạn dòng chảy Ma Lực của những vật thể xung quanh. Ma cụ thông thường đều có Khiên Chắn ngăn cản chuyện đó, nhưng uy lực của món này đủ mạnh để vượt qua lớp Khiên Chắn ấy. Với trình độ kỹ thuật hiện thời của chúng ta, tái tạo lại hiệu ứng đó chẳng dễ chút nào."
+"Đúng thế. Khả năng cao là nó làm nhiễu loạn dòng chảy Ma Lực của những vật thể xung quanh. Ma cụ thông thường đều có lớp lá chắn ngăn cản chuyện đó, nhưng uy lực của món này đủ mạnh để vượt qua lớp chắn ấy. Với trình độ kỹ thuật hiện thời của chúng ta, tái tạo lại hiệu ứng đó chẳng dễ chút nào."
 
 "Nhưng không phải là không thể chứ?"
 
@@ -202,6 +202,6 @@ Lorraine có ma nhãn nên việc mổ xẻ nguyên lý của ma cụ thông th�
 
 "Thế sao tôi với cô cầm vào lại chẳng hề hấn gì?" tôi hỏi.
 
-"Chúng ta nhận được ân phước từ vị thần trong ngôi đền mà anh phục dựng. Về cơ bản cũng như cầm qua mảnh vải kia thôi. Rina mà mượn Thần Lực từ anh thì chắc cũng không sao, nhưng lúc nãy đang nói chuyện trước mặt Elise nên tôi không tiện tiết lộ điều đó."
+"Chúng ta nhận được phước lành từ vị thần trong ngôi đền mà anh phục dựng. Về cơ bản cũng như cầm qua mảnh vải kia thôi. Rina mà mượn Thần Lực từ anh thì chắc cũng không sao, nhưng lúc nãy đang nói chuyện trước mặt Elise nên tôi không tiện tiết lộ điều đó."
 
 Nghe có lý. Nói toạc ra trước mặt Elise thì lộ chuyện Rina kiếm đâu ra Thần Lực mất. Để lát nữa tôi phải dặn dò Rina vài câu về thanh đoản kiếm này mới được.

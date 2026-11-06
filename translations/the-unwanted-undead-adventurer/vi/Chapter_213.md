@@ -2,7 +2,7 @@
 
 "Chắc đến lúc tôi phải quay lại với công việc chính rồi," tôi bảo, vào khoảng ba ngày sau sự cố ở bến xe ngựa.
 
-Tôi vốn dính líu vào biến cố náo động khắp thị trấn dạo gần đây (giờ người ta hay gọi đùa là Đại Bạo Động Maalt hoặc Biến Cố Mê Cung Maalt), thế nên mấy ngày qua tôi chỉ lo tịnh dưỡng để hồi phục lại tinh thần sau chừng ấy xáo trộn. Về thể chất thì tôi vẫn khỏe. Bản thân tôi vẫn chưa hiểu rõ cơ thể mình vận hành ra sao, nhưng nhờ là Undead, tôi chẳng bao giờ thực sự thấy mệt mỏi cả. Dù vậy, tôi vẫn muốn nghỉ ngơi một chút, thế nên mấy hôm nay mới chịu lười biếng xả hơi.
+Tôi vốn dính líu vào biến cố náo động khắp thị trấn dạo gần đây (giờ người ta hay gọi đùa là Đại Bạo Động Maalt hoặc Biến Cố Mê Cung Maalt), thế nên mấy ngày qua tôi chỉ lo nghỉ ngơi để hồi phục lại tinh thần sau chừng ấy xáo trộn. Về thể chất thì tôi vẫn khỏe. Bản thân tôi vẫn chưa hiểu rõ cơ thể mình vận hành ra sao, nhưng nhờ là Undead, tôi chẳng bao giờ thực sự thấy mệt mỏi cả. Dù vậy, tôi vẫn muốn nghỉ ngơi một chút, thế nên mấy hôm nay mới chịu lười biếng xả hơi.
 
 Khổ nỗi, tính tôi xưa nay vốn quen chăm chỉ làm lụng. Ngay cả hồi còn là con người, tôi chưa từng có lấy một kỳ nghỉ đúng nghĩa. Thành ra ba ngày rảnh rỗi vừa rồi lại khiến tôi bứt rứt muốn ra ngoài kiếm việc gì làm. Chưa kể, tôi lại thấy áy náy một cách kỳ lạ vì cứ ngồi không, dù chẳng ai giục giã hay trách móc gì cả. Có khi tôi mắc bệnh nghiện việc thật rồi. Mà thế vẫn tốt hơn là chẳng chịu làm gì, đúng không?
 
@@ -78,11 +78,11 @@ Wolf tươi cười bước lại gần tôi. Bề ngoài trông ông ấy chẳ
 
 "Tôi quay lại làm việc đây," Sheila nói rồi chuồn thẳng.
 
-Rõ ràng cô ấy cũng đánh hơi thấy sát khí săn mồi của Wolf nên mới lủi thật nhanh về chiếc bàn làm việc an toàn của mình. Tôi rất muốn cằn nhằn sao cô ấy nỡ bỏ rơi tôi phũ phàng như thế, nhưng xét việc Wolf là cấp trên, chắc cô ấy tính trước rằng nếu nán lại thì mình cũng sẽ bị lôi vào ép tôi nhận lời. Nếu đúng là vì thế mà chuồn, thì có lẽ cô ấy thức thời chứ chẳng phải vô tình. Mà thôi, đời nào cô ấy nghĩ sâu xa được đến mức đó.
+Rõ ràng cô ấy cũng đánh hơi thấy sát khí săn mồi của Wolf nên mới lủi thật nhanh về chiếc bàn làm việc an toàn của mình. Tôi rất muốn cằn nhằn sao cô ấy nỡ bỏ rơi tôi phũ phàng như thế, nhưng xét việc Wolf là cấp trên, chắc cô ấy tính trước rằng nếu nán lại thì mình cũng sẽ bị lôi vào ép tôi nhận lời. Nếu đúng là vì thế mà chuồn, thì có lẽ cô ấy khôn ngoan chứ chẳng phải vô tâm. Mà thôi, đời nào cô ấy nghĩ sâu xa được đến mức đó.
 
 "Chắc tại ông cắm mặt vào đống giấy tờ lâu quá nên mới thấy thế đấy," tôi bảo, liếc nhìn xấp tài liệu dày cộp trên tay Wolf. "Mà trông ông có vẻ bận thật đấy."
 
-"Thì đấy, bên Tòa Tháp với Học Viện cứ coi Hội như chân sai vặt của chúng nó. Thành ra bàn tôi việc chất cao như núi."
+"Thì đấy, bên Tòa Tháp với Học Viện cứ coi Hội như chân sai vặt của bọn họ. Thành ra bàn tôi việc chất cao như núi."
 
 Dù chịu sự giám sát của chính quyền địa phương (hoàng gia hoặc các lãnh chúa khu vực), các Hội Mạo Hiểm Giả không phải là cơ quan công quyền. Nói đúng hơn, họ là những tổ chức độc lập. Hội Mạo Hiểm Giả vốn có tiềm năng trở thành một tổ chức vũ trang hoạt động trên phạm vi toàn cầu, nên chính quyền sở tại mới phải đặt ra các biện pháp quản chế để phòng ngừa nguy cơ đó. Bởi vậy, dù trên danh nghĩa cùng thuộc một mạng lưới liên kết, thông tin giữa các Hội hiếm khi được chia sẻ trên quy mô quốc tế.
 
@@ -106,7 +106,7 @@ Wolf đảo mắt nhìn đám nhân viên chung quanh một lượt rồi quay l
 
 Tôi nhìn quanh, thấy nhân viên nào cũng đang trố mắt nhìn mình, người thì rơm rớm nước mắt, kẻ thì chắp tay van lơn tha thiết. Đám người này phối hợp nhịp nhàng đến mức tôi chỉ muốn hỏi xem họ có phải đoàn kịch chuyên nghiệp không. Làm thế này thì ai mà nỡ từ chối cho đành.
 
-"Mọi người đang bận túi bụi thế này, ắt hẳn đâu muốn một kẻ mù tịt việc bàn giấy như tôi chen vào làm vướng chân vướng tay, đúng không?"
+"Mọi người đang bận túi bụi thế này, chắc đâu muốn một kẻ mù tịt việc bàn giấy như tôi chen vào làm vướng chân vướng tay, đúng không?"
 
 Tôi vớt vát chút hy vọng mong manh bằng cái cớ ấy, ai ngờ Wolf chỉ mỉm cười bảo: "Ra vậy. Thế thì tôi chỉ việc giao cho cậu đúng việc cậu thạo là xong chứ gì. Trùng hợp ghê, tôi có ngay một mối đây."
 
@@ -116,7 +116,7 @@ Tôi vớt vát chút hy vọng mong manh bằng cái cớ ấy, ai ngờ Wolf c
 
 Trông Wolf đúng là đang khổ sở thật. Người ta đã xuống nước nài nỉ đến mức đó thì tôi cũng chẳng nỡ chối từ. Vả lại tôi đâu có bận bịu gì, nếu bận thì ngay từ đầu đã chẳng vác xác tới đây.
 
-Nói thế không có nghĩa là tôi hoàn toàn rảnh rỗi. Sớm muộn gì tôi cũng phải tới Vistelya một chuyến. Tôi vốn định nán lại đợi tình hình lắng dịu, nhưng nhìn cục diện thị trấn lúc này, càng chần chừ thì cơ hội lên đường càng ít. Lorraine với tôi lùi chuyến đi lại thì chẳng sao, nhưng với Augurey đang đợi đằng ấy thì to chuyện. Khéo lúc này gã đã vướng vào cả đống rắc rối vì sự vắng mặt của tôi rồi cũng nên.
+Nói thế không có nghĩa là tôi hoàn toàn rảnh rỗi. Sớm muộn gì tôi cũng phải tới Vistelya một chuyến. Tôi vốn định nán lại đợi tình hình lắng dịu, nhưng nhìn cục diện thị trấn lúc này, càng chần chừ thì cơ hội lên đường càng ít. Lorraine với tôi lùi chuyến đi lại thì chẳng sao, nhưng với Augurey đang đợi đằng ấy thì to chuyện. Khéo lúc này anh ta đã vướng vào cả đống rắc rối vì tôi chưa tới rồi cũng nên.
 
 Tôi đành gác chuyện đó sang một bên: "Được rồi, được rồi. Ông cần tôi làm việc gì nào?"
 

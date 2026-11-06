@@ -22,9 +22,9 @@ Khi tôi toan mở lời cáo từ, Isaac bỗng nói: "Xin ngài đừng vội 
 
 "Sao thế? Tôi đang vội thật mà."
 
-"Ồ, vậy sao? Chúng ta tình cờ gặp nhau thế này ắt hẳn phải có lý do gì đó, thật ra có một chuyện tôi muốn nhờ ngài giúp một tay."
+"Ồ, vậy sao? Chúng ta tình cờ gặp nhau thế này chắc hẳn phải có lý do gì đó, thật ra có một chuyện tôi muốn nhờ ngài giúp một tay."
 
-Isaac nhìn tôi chằm chằm, điệu bộ hệt như một chú cún con ủ rũ. Ma Cà Rồng ai nấy đều tuấn tú kiều diễm, và Isaac cũng không ngoại lệ. Nét mặt buồn thiu tội nghiệp ấy rất hợp với đường nét gương mặt anh ấy, song chẳng hề khiến anh ấy trông đáng yêu chút nào. Trái lại, ánh nhìn đó còn toát lên sức cuốn hút kỳ ảo đến lạ.
+Isaac nhìn tôi chằm chằm, điệu bộ hệt như một chú cún con ủ rũ. Ma Cà Rồng ai nấy đều có vẻ ngoài tuấn tú, xinh đẹp, và Isaac cũng không ngoại lệ. Nét mặt buồn thiu tội nghiệp ấy rất hợp với đường nét gương mặt anh ấy, song chẳng hề khiến anh ấy trông đáng yêu chút nào. Trái lại, ánh nhìn đó còn toát lên sức cuốn hút kỳ ảo đến lạ.
 
 Thực ra tôi hoàn toàn có thể từ chối ngay, nhưng Isaac lại là sư phụ của tôi. Tôi chịu ơn anh ấy vì đã chỉ dạy cho mình cách vận dụng năng lực Ma Cà Rồng. Đã vậy, các vị sư phụ ở quê nhà từng răn dạy không khoan nhượng rằng lời sư phụ nhờ vả chẳng khác nào sấm truyền của thần linh. Tôi làm gì còn lựa chọn nào khác.
 

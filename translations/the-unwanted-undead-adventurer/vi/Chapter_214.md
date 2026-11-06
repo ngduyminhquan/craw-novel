@@ -16,7 +16,7 @@ Có khi ông ấy nói đúng thật. Nói đúng hơn thì, công việc này k
 
 "Không, tôi xin kính cẩn từ chối," tôi đáp ngay tắp lự. "Tôi đi là được chứ gì. Tôi sẽ đi đón ngài ấy. Nhưng Tổng Hội Trưởng đang ở vương đô, đúng không?"
 
-Chẳng đời nào một nhân vật tầm cỡ như thế lại ngồi làm việc ở một ngôi làng hẻo lánh vô danh nào đó. Người đứng đầu toàn thể mạo hiểm giả ở Yaaran ắt phải ở vương đô chứ đâu.
+Chẳng đời nào một nhân vật tầm cỡ như thế lại ngồi làm việc ở một ngôi làng hẻo lánh vô danh nào đó. Người đứng đầu toàn thể mạo hiểm giả ở Yaaran chắc chắn phải ở vương đô rồi.
 
 "Ừ, nên cậu chịu khó chạy nhanh một chuyến tới Vistelya nhé. Tôi biết chuyến này cũng chẳng 'nhanh' gì cho cam, nhưng tôi đâu có bắt cậu vượt biên giới hay gì. Cưỡi thú chạy nhanh thì tầm một tuần là tới nơi thôi. Tính cả đi cả về thì mất chừng hai tuần. Tôi sẽ lo cho cậu thù lao hậu hĩnh. Về nguyên tắc thì đây là việc của nhân viên Hội, nhưng cậu chỉ là tạm thời, nên tôi tính sẽ trả công sòng phẳng cho cậu."
 
@@ -52,7 +52,7 @@ Chúng tôi trao đổi nốt vài thủ tục hành chính lặt vặt rồi t�
 
 ◆◇◆◇◆
 
-Cánh cửa phòng Hội Trưởng khép lại sau một tiếng cạch nhẹ. Wolf thở phào một hơi. Ông lắng tai chờ cho tới khi chắc chắn khí tức của Rentt bên ngoài đã đi xa hẳn.
+Cánh cửa phòng Hội Trưởng khép lại sau một tiếng cạch nhẹ. Wolf thở phào một hơi. Ông chờ cho tới khi chắc chắn Rentt bên ngoài cánh cửa đã đi xa hẳn.
 
 "Phù. Hú vía, thế mà cũng đùn đẩy sang cho cậu ấy được. Cậu ấy sắc sảo lắm, cứ sợ thế nào cũng nhận ra. Nhưng xem chừng cậu ấy lại nghĩ mọi chuyện theo hướng tốt đẹp nhất có thể. Tạ ơn thần linh."
 
@@ -84,7 +84,7 @@ Dù Lorraine thoáng vẻ ngán ngẩm, cô ấy cũng đành chịu vì biết 
 
 "Thế à?"
 
-Có lẽ Lorraine nói đúng thật. Nhưng sống ở đời thì phải biết nương tựa vào nhau chứ. Với lại để Wolf nợ một ân huệ có khi lại có lợi sau này, coi như gieo hạt giống cho tương lai vậy.
+Có lẽ Lorraine nói đúng thật. Nhưng sống ở đời thì phải biết nương tựa vào nhau chứ. Với lại để Wolf nợ mình một ân tình có khi lại có lợi sau này, coi như gieo hạt giống cho tương lai vậy.
 
 "Dĩ nhiên rồi," Lorraine đáp. "Nhưng mà Tổng Hội Trưởng à? Tôi từng gặp Tổng Hội Trưởng Đế Quốc rồi, chứ Tổng Hội Trưởng của Yaaran thì chưa từng gặp."
 
@@ -100,7 +100,7 @@ Dù nhiều Hội Trưởng từng là mạo hiểm giả như Wolf, nhưng xét
 
 Khoan đã, rốt cuộc vì sao mình lại từng ngưỡng mộ mạo hiểm giả Mithril Cấp đến thế nhỉ? Tôi tự hỏi. Nhưng rõ ràng vẫn có những người tuyệt vời và đáng khâm phục thuộc hàng Mithril Cấp cơ mà. Phải rồi, đó mới là những tấm gương tôi hằng muốn noi theo. Đúng vậy.
 
-"Hỏi để biết thêm thôi, rốt cuộc cô thấy yêu cầu của Wolf có gì đáng ngờ thế?" tôi hỏi Lorraine. Tôi không định nghe xong lý lẽ của cô rồi từ chối ủy thác, nhưng lắng nghe góc nhìn của cô vẫn có ích hơn.
+"Hỏi để biết thêm thôi, rốt cuộc cô thấy yêu cầu của Wolf có gì đáng ngờ thế?" tôi hỏi Lorraine. Tôi không định nghe xong lý lẽ của cô ấy rồi từ chối ủy thác, nhưng tham khảo góc nhìn của Lorraine vẫn có ích hơn.
 
 "Có vài điểm. Thứ nhất, sao Tổng Hội Trưởng không cứ thế tự mình đến đây luôn đi? Ngài ấy hoàn toàn có thể ngồi một cỗ xe sang trọng có vài hộ vệ Kim Cấp tháp tùng cơ mà."
 
@@ -134,7 +134,7 @@ Nghe tôi giải thích thế, Lorraine bảo: "Anh đã thấy ổn thì tôi k
 
 Lorraine lo lắng chuyện phải để Rina ở lại một mình khi cô ấy vừa mới biến thành Undead.
 
-"Mình đâu có đi lâu đến thế. Có thể nhờ Isaac để mắt trông chừng cô ấy mà," tôi gợi ý.
+"Chúng ta đâu có đi lâu đến thế. Có thể nhờ Isaac để mắt trông chừng cô ấy mà," tôi gợi ý.
 
 Dù Rina chưa hẳn là Ma Cà Rồng, nhưng cô ấy cũng gần như thế rồi, còn Isaac lại là Ma Cà Rồng đích thực. Khi cần, cô ấy có thể tìm đến anh ấy. Hiện giờ Laura đang ngủ say, còn cô bé mới là thế lực đứng sau bức màn.
 

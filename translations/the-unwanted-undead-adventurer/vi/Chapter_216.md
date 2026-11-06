@@ -80,7 +80,7 @@ Chúng tôi gật đầu với Wolf rồi bước lên xe.
 
 Năm ngày sau khi rời Maalt, cuối cùng chúng tôi cũng tới nơi. Khi ngó ra ngoài xe, tôi thấy chúng tôi đang xếp hàng chờ được cho vào thành.
 
-Người đánh xe là người do Wolf tìm. Anh ta rõ ràng là người biết kín miệng khi cần thiết. Bình thường tôi vẫn sẽ nghi ngại liệu có tin được anh ta không, nhưng tôi chắc chắn Wolf không muốn bí mật của tôi bị lộ ra ngoài. Ông ấy ắt hẳn đã chọn một người kín kẽ, nghĩa là người đánh xe này đáng tin cậy. Chưa kể, cả tôi lẫn Lorraine đều dám chắc mình từng thấy mặt người đánh xe này ở đâu đó rồi. Có điều trước mặt Wolf chúng tôi không hề đả động gì.
+Người đánh xe là người do Wolf tìm. Anh ta rõ ràng là người biết kín miệng khi cần thiết. Bình thường tôi vẫn sẽ nghi ngại liệu có tin được anh ta không, nhưng tôi chắc chắn Wolf không muốn bí mật của tôi bị lộ ra ngoài. Ông ấy chắc hẳn đã chọn một người kín kẽ, nghĩa là người đánh xe này đáng tin cậy. Chưa kể, cả tôi lẫn Lorraine đều dám chắc mình từng thấy mặt người đánh xe này ở đâu đó rồi. Có điều trước mặt Wolf chúng tôi không hề đả động gì.
 
 "Ở vương đô có rất nhiều kết giới và thiết bị phòng ngự, đặc biệt là từ khu quý tộc trở vào. Xin hai vị, làm ơn hãy hết sức cẩn trọng," người đánh xe khẩn khoản dặn, giọng điệu khác hẳn lúc nãy. Nghe chẳng giống một người đánh xe đến từ nơi như Maalt chút nào, mà giống một quản gia được rèn giũa bài bản hơn nhiều.
 
@@ -88,11 +88,11 @@ Tôi gật đầu với anh ta. "Ừ. Nhưng chỉ cần có thứ này thì c�
 
 "Vâng," người đánh xe nhìn qua rồi xác nhận. "Tuy nhiên, chúng tôi không thể biết chuyện gì sẽ xảy ra nếu ngài tháo nó ra. Ở khu quý tộc thì có thể vẫn ổn, nhưng vào trong hoàng cung thì... Tôi cũng được dặn rằng các thiết bị đó rất khó có khả năng phản ứng với sự hiện diện của ngài, thưa ngài Rentt."
 
-Lorraine nói: "Chúng tôi đã thử nhiều thiết bị dò tìm khác nhau lên người Rentt rồi. Dựa trên kết quả đó, tôi cũng cho rằng anh ấy sẽ không kích hoạt thiết bị nào đâu, nhưng cẩn thận thêm cũng chẳng thừa. Phía tôi cũng đã tính đến vài biện pháp, nhưng có được sự giúp đỡ từ gia tộc Latuule cùng bộ sưu tập ma cụ chuyên dụng đồ sộ của họ thì thật đáng quý. Nhưng anh có chắc Isaac sẽ không làm tiểu thư Laura nổi giận khi người tỉnh lại chứ?"
+Lorraine nói: "Chúng tôi đã thử nhiều thiết bị dò tìm khác nhau lên người Rentt rồi. Dựa trên kết quả đó, tôi cũng cho rằng anh ấy sẽ không kích hoạt thiết bị nào đâu, nhưng cẩn thận thêm cũng chẳng thừa. Phía tôi cũng đã tính đến vài biện pháp, nhưng có được sự giúp đỡ từ gia tộc Latuule cùng bộ sưu tập ma cụ chuyên dụng đồ sộ của họ thì thật đáng quý. Nhưng anh có chắc Isaac sẽ không làm tiểu thư Laura nổi giận khi cô bé tỉnh lại chứ?"
 
 Phải rồi, người đánh xe này chính là một trong các gia nhân của gia tộc Latuule. Rõ ràng anh ta không phải con người, mà là một Hạ Cấp Ma Cà Rồng và là cấp dưới của Laura cùng Isaac. Tôi không rõ anh ta là quyến thuộc của ai, nhưng đằng nào anh ta cũng sẽ không làm lộ bí mật của tôi. Hay đúng hơn, nếu chúng tôi rơi vào hoàn cảnh mà anh ta tiết lộ bí mật, thì chúng tôi cũng coi như xong đời rồi. Tôi chẳng thể nào thắng được Laura hay Isaac, dù là về sức chiến đấu, quyền thế hay tiềm lực tài chính. Thế nên thà đừng nghi ngờ gì mà cứ dựa vào sự giúp đỡ của họ còn hơn.
 
-"Tiểu thư Laura trước giờ vẫn luôn quý mến ngài, thưa ngài Rentt, ngay cả trước lúc người chìm vào giấc ngủ. Tôi không nghĩ người sẽ trách phạt ai chỉ vì giúp đỡ ngài đâu. Đằng nào thì tiểu thư Laura cũng hiếm khi nổi giận vì chuyện gì. Một chuyện nhỏ nhặt thế này, dẫu có trái ý người đi nữa... ắt hẳn người cũng chỉ mỉm cười mà bỏ qua lỗi lầm thôi."
+"Tiểu thư Laura trước giờ vẫn luôn quý mến ngài, thưa ngài Rentt, ngay cả trước lúc tiểu thư chìm vào giấc ngủ. Tôi không nghĩ tiểu thư sẽ trách phạt ai chỉ vì giúp đỡ ngài đâu. Đằng nào thì tiểu thư Laura cũng hiếm khi nổi giận vì chuyện gì. Một chuyện nhỏ nhặt thế này, dẫu có trái ý tiểu thư đi nữa... chắc hẳn tiểu thư cũng chỉ mỉm cười mà bỏ qua lỗi lầm thôi."
 
 Người đánh xe này có mối quan hệ khá thoải mái với chủ nhân của mình. Nhưng nghĩ lại thì anh ta cũng đâu có làm gì bất tuân. Tôi đoán đó là một dạng tin tưởng. Hoặc giả Laura là kiểu người sẵn sàng cười xòa bỏ qua ngay cả khi thuộc hạ hoàn toàn làm trái lệnh. Tôi bắt đầu có cảm giác vế sau mới đúng.
 

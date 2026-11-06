@@ -46,7 +46,7 @@ Và thế là cuộc tìm kiếm người thợ mộc của chúng tôi bắt đ
 
 "Ừ, chắc là đúng đấy," Lorraine đáp.
 
-"Mất ít thời gian hơn tôi tưởng đấy," người thứ ba đi cùng chúng tôi lên tiếng. Mái tóc vàng óng của cô ấy được cắt ngắn theo kiểu tóc bob, còn đôi mắt lấp lánh nét kiêu hãnh bẩm sinh. Cô ấy là một nữ quý tộc phảng phất vẻ mưu lược sắc sảo kiểu Machiavelli, và cũng chính là thân chủ của chúng tôi lần này.
+"Mất ít thời gian hơn tôi tưởng đấy," người thứ ba đi cùng chúng tôi lên tiếng. Mái tóc vàng óng của cô ấy được cắt ngắn theo kiểu tóc bob, còn đôi mắt lấp lánh nét kiêu hãnh bẩm sinh. Cô ấy là một nữ quý tộc phảng phất nét mưu lược, toan tính, và cũng chính là thân chủ của chúng tôi lần này.
 
 Khi chúng tôi báo tin đã tìm ra người cần tìm, cô ấy lập tức đến gặp chúng tôi ngay. Tác phong nhanh thoăn thoắt như thế quả là hiếm thấy ở một quý tộc.
 
@@ -110,7 +110,7 @@ Sau đó cũng chẳng có chuyện gì đặc biệt xảy ra. Ông lão giải
 
 "Vâng, đúng thế. Việc của tôi ở đây coi như xong xuôi. Chiếc bàn này xin giao lại cho ông giữ gìn."
 
-Nữ quý tộc quay sang phía Lorraine và tôi rồi bảo: "Đi thôi, đến lúc phải về rồi." Đoạn, cô ấy nhanh chóng bước ra khỏi nhà.
+Nữ quý tộc quay sang phía Lorraine và tôi rồi bảo: "Đi thôi, đến lúc phải về rồi." Nói rồi, cô ấy nhanh chóng bước ra khỏi nhà.
 
 Chúng tôi bước theo sau cô ấy. Khi ngoái nhìn lại, tôi thấy ông lão đang rơi nước mắt đọc bức thư gửi cho mình.
 

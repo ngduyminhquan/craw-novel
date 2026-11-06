@@ -32,7 +32,7 @@ Jad, một học trò khác của tôi, vốn là đứa hay làm mà chẳng ch
 
 "Hôm trước bọn em mới tìm ra một lối mới ạ," cậu học trò ngập ngừng đáp.
 
-"Dẫn cô đến đó ngay. Các em còn lại cứ ở yên đây, ngoan ngoãn nghe chưa."
+"Dẫn tôi đến đó ngay. Các em còn lại cứ ở yên đây, ngoan ngoãn nghe chưa."
 
 Lũ trẻ trong lớp đứa nào cũng nghiêm túc gật đầu. Chúng thừa hiểu cống ngầm nguy hiểm đến mức nào.
 
@@ -48,13 +48,13 @@ Gerge, cậu bé chạy tới tìm tôi cầu cứu, đi theo dẫn đường ch
 
 "Ơ, nhưng mà—"
 
-"Còn nếu cô không quay lại thì đi tìm Rentt. Rõ chưa?"
+"Còn nếu tôi không quay lại thì đi tìm Rentt. Rõ chưa?"
 
 Thỉnh thoảng Rentt cũng ghé qua lớp học. Vốn hiểu biết của anh ấy thực ra khá rộng theo cách riêng. Một phần là nhờ tôi ép học một số thứ, nhưng phần lớn là vì anh ấy tự ý thức được tầm quan trọng của tri thức. Điều đó bù đắp cho những thiếu hụt về kỹ năng chiến đấu và ma thuật. Thú thật, nếu để dạy tụi nhỏ thì anh ấy còn làm tốt hơn khối học giả thông thường.
 
 "D-Dạ vâng. Anh ấy ở nhà cô đúng không ạ?" Gerge hỏi.
 
-"Ừ. Giờ cô đi đây."
+"Ừ. Giờ tôi đi đây."
 
 Không khí dưới cống ngầm ẩm ướt, giữa lòng đường hầm có một dòng nước mỏng chảy qua. Càng tiến sâu vào trong, tôi càng cảm thấy Ma Lực xung quanh đậm đặc dần.
 
@@ -88,7 +88,7 @@ Tôi tung ra một ma pháp lửa duy nhất, ngọn lửa lập tức nuốt tr
 
 "Gerge chạy đi tìm tôi, thằng bé hoảng loạn lắm. Tôi nghĩ cô thừa sức lo liệu nên mới tạt qua đây trông chừng lũ trẻ thay. Dù sao nếu gặp chuyện nghiêm trọng hơn, kiểu gì cô cũng tìm cách báo cho tôi rồi."
 
-"Thế thì cảm ơn nhé. Quả đúng là quen nhau bao năm có khác nhỉ?"
+"Cảm ơn anh nhé. Đúng là quen nhau bao năm có khác nhỉ?"
 
 "Thế thằng bé có sao không?" Rentt hỏi.
 

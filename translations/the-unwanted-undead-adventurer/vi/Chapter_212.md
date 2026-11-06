@@ -4,13 +4,13 @@ Tại sao mình lại phải vướng vào chuyện phiền toái này ngay sau 
 
 Vừa va phải gã thương nhân, tai Noel liền ong lên một tiếng chói buốt, tựa như có thứ gì đó đã phá vỡ kết cấu ma pháp dệt trong áo. Cúi xuống kiểm tra, cậu nhận thấy tuy áo choàng vẫn hoạt động, song hiệu quả cường hóa ma thuật đã suy yếu nghiêm trọng.
 
-Là học viên Học Viện, Noel biết rõ áo đồng phục của trường do các nghệ nhân tài ba may dệt nên không đời nào dễ hỏng đến thế. Thế nhưng sự thật rành rành trước mắt là chiếc áo đã bị hư hại. Trước khi tới Maalt, chiếc áo vẫn lành lặn nguyên vẹn, mà từ lúc đến nơi tới giờ sự việc bất thường duy nhất chỉ có cú va quẹt vừa rồi với gã thương nhân. Bởi vậy, cậu suy ra một cách hợp lý rằng chính gã là nguyên nhân khiến uy lực áo choàng đột ngột sụt giảm.
+Là học viên Học Viện, Noel biết rõ áo đồng phục của trường do các nghệ nhân tài ba may dệt nên không đời nào dễ hỏng đến thế. Thế nhưng sự thật rành rành trước mắt là chiếc áo đã bị hư hại. Trước khi tới Maalt, chiếc áo vẫn lành lặn nguyên vẹn, mà từ lúc đến nơi tới giờ sự việc bất thường duy nhất chỉ có cú va quẹt vừa rồi với gã thương nhân. Bởi vậy, theo lẽ thường thì chính gã là nguyên nhân khiến uy lực áo choàng đột ngột sụt giảm.
 
 Bình thường, Noel sẽ tìm đến một giảng viên Học Viện để nhờ can thiệp xử lý. Kể cả trong trường hợp phải giữ chân gã thương nhân chờ người tới, cậu vẫn tin mình có thể dàn xếp êm thấm trong hòa bình. Đáng tiếc là lần này cậu lại không kìm được cơn nóng giận. Cậu to tiếng đôi co với gã, làm kinh động cả đám đông xung quanh xúm lại xem.
 
 Noel biết mình đã xử sự không khéo. Ở trường, người ta cứ luôn miệng nhắc nhở rằng giọng cậu nghe quá kiêu căng, thường xuyên cảnh báo cậu phải lựa lời mà nói. Vì thế, ở chốn đông người, cậu luôn cố ý kiềm chế hành vi và nói năng mềm mỏng hơn. Đáng tiếc là mấy ngày vừa qua dồn dập bao chuyện căng thẳng nên mọi việc mới vượt khỏi tầm kiểm soát thế này, dẫu biết đó chẳng phải lý do chính đáng để bào chữa.
 
-Trước mắt, Noel quyết định không lùi bước. Nhìn cái cách gã thương nhân nhảy dựng lên chối đây đẩy, cậu thừa biết trong lòng gã biết tỏng mình có lỗi. Một người bình thường, một thường dân chỉ quen mua bán với tiểu thương ở sạp chợ hay cửa tiệm, có lẽ sẽ chẳng nhận ra điểm khác biệt, nhưng Noel xuất thân từ một gia tộc quý tộc danh giá có địa vị tương đương phẩm hàm Bá tước. Cơ đồ hiện tại tuy chẳng có gì đáng để tự hào, song thuở cực thịnh, dòng họ cậu từng sản sinh ra những bậc đại thần trong triều.
+Trước mắt, Noel quyết định không lùi bước. Nhìn cái cách gã thương nhân nhảy dựng lên chối đây đẩy, cậu thừa hiểu trong lòng gã biết tỏng mình có lỗi. Một người bình thường, một thường dân chỉ quen mua bán với tiểu thương ở sạp chợ hay cửa tiệm, có lẽ sẽ chẳng nhận ra điểm khác biệt, nhưng Noel xuất thân từ một gia tộc quý tộc danh giá có địa vị tương đương tước vị Bá tước. Cơ đồ hiện tại tuy chẳng có gì đáng để tự hào, song thuở cực thịnh, dòng họ cậu từng sản sinh ra những bậc đại thần trong triều.
 
 Chính nhờ vị thế ấy, gia tộc cậu xưa nay vẫn giao thiệp làm ăn rất nhiều với các thương hội. Người nhà cậu đích thân đứng ra đàm phán với thương buôn, và Noel cũng thường xuyên có mặt trong các buổi gặp đó. Cậu chưa từng trực tiếp nhúng tay vào giao dịch nào, song với tư cách người thừa kế tước vị tương lai, cậu luôn đứng bên quan sát để học cách giao thiệp và nắm bắt lối hành xử của giới đại diện thương mại.
 
@@ -26,7 +26,7 @@ Trong lúc Noel còn đang đắn đo tính toán, một thiếu nữ bỗng r�
 
 Trong lúc hai bên đôi co, Noel liếc về phía gã thương nhân. Gã đang đảo mắt nhìn quanh đám đông, rình sơ hở để chuồn. Noel biết thừa chỉ cần mình lơ là rời mắt chớp nhoáng, gã sẽ lập tức cắm đầu cắm cổ chạy thục mạng.
 
-Noel càng thêm tin chắc vào phán đoán của mình. Rõ ràng gã thương nhân đang có tật giật mình. Nhưng rốt cuộc là chuyện gì cơ chứ? Noel đồ rằng nó dính dáng tới chỗ hỏng trên áo choàng, ngoài ra thì chịu, chẳng có manh mối nào hơn. Màn đấu khẩu với Elise đã giúp cậu kéo dài chút thời gian để suy tính xem gã đang giấu giếm điều gì, nhưng cứ cái đà này thì...
+Noel càng thêm tin chắc vào phán đoán của mình. Rõ ràng gã thương nhân đang có tật giật mình. Nhưng rốt cuộc là chuyện gì cơ chứ? Noel đoán rằng nó dính dáng tới chỗ hỏng trên áo choàng, ngoài ra thì chịu, chẳng có manh mối nào hơn. Màn đấu khẩu với Elise đã giúp cậu kéo dài chút thời gian để suy tính xem gã đang giấu giếm điều gì, nhưng cứ cái đà này thì...
 
 Đúng lúc ấy, lại có thêm một người chen qua đám đông, nhanh chóng chặn đứng màn cãi cọ giữa Noel và Elise.
 
@@ -58,7 +58,7 @@ Nếu Noel phải diễn giải ánh mắt ấy, nó hẳn mang ý: "Rồi có n
 
 Chẳng cần nói cũng biết Noel đời nào chịu thua, song cậu phải công nhận dạo gần đây thành tích của Elise tiến bộ đến chóng mặt. Nhờ từng học gia sư từ trước khi vào trường, cậu vốn có lợi thế dẫn trước, nhưng Elise đang thu hẹp khoảng cách ấy rất nhanh. Nếu không tập trung cao độ, có khi cậu sẽ bị cô nàng vượt mặt mất. Bởi vậy, cậu có những việc buộc phải hoàn thành tại Maalt để giữ vững vị trí dẫn đầu của mình.
 
-Vừa mải nghĩ về những việc sắp tới, Noel vừa rảo bước về quán trọ mà Học Viện đã bao trọn.
+Vừa mải nghĩ về những việc sắp tới, Noel vừa bước về phía quán trọ mà Học Viện đã bao trọn.
 
 ◆◇◆◇◆
 
@@ -68,7 +68,7 @@ Vừa đặt chân vào quán trọ, Noel đã được Adelina Moska, một tro
 
 Noel không đôi co mà chỉ trình bày lại ngọn ngành sự việc. Nét mặt của Adelina lúc cậu mới bắt đầu nói còn đanh lại cứng nhắc, nay dần dịu bớt.
 
-Gương mặt cô vốn dĩ khá sắc sảo nghiêm nghị, phong thái lúc nào cũng bị người ta ví là lạnh như băng. Ngay cả những lúc bình thường trông cô cũng chẳng có vẻ gì là hiền dịu, thành thử cô là vị Học Sĩ thích hợp nhất để dẫn dắt đám học trò trong chuyến đi thực tế này. Chẳng đứa nào dám trái lệnh hay cãi lại nửa lời trước mặt cô. Cô cũng thuộc hàng ngũ những ma pháp sư cự phách nhất trong ban giảng dạy của Học Viện. Nếu cô mà thẳng tay trừng phạt thì đám học trò chỉ có nước bó tay chịu trận.
+Gương mặt cô vốn dĩ khá sắc sảo nghiêm nghị, phong thái lúc nào cũng bị người ta ví là lạnh như băng. Ngay cả những lúc bình thường trông cô cũng chẳng có vẻ gì là hiền dịu, thành thử cô là vị Học Sĩ thích hợp nhất để dẫn dắt đám học trò trong chuyến đi thực tế này. Chẳng đứa nào dám trái lệnh hay cãi lại nửa lời trước mặt cô. Cô cũng thuộc hàng ngũ những ma pháp sư tài giỏi nhất trong ban giảng dạy của Học Viện. Nếu cô mà thẳng tay trừng phạt thì đám học trò chỉ có nước bó tay chịu trận.
 
 "Tôi hiểu rồi, ra là thế. Nếu đúng như trò nói thì tôi trách lầm trò rồi. Có điều, lần sau gặp phải tình huống tương tự, đừng tự tiện giải quyết một mình mà hãy báo ngay cho giảng viên. Như thế mới là cách thỏa đáng nhất."
 
@@ -104,11 +104,11 @@ Cửa vừa kêu cạch một tiếng mở ra, lời chào hồ hởi đến kho
 
 Ai gặp Pierpaolo lần đầu cũng đều thấy cậu ta là một anh chàng cao ngẳng kỳ quặc, ăn nói huênh hoang đến mức gần như vô lễ. Hồi mới quen Noel cũng từng nghĩ y như vậy, nhưng ở chung riết rồi cậu cũng thành quen với mấy trò lập dị của cậu bạn.
 
-Trông bộ dạng lông bông thế thôi chứ cha Pierpaolo là một quý tộc mang tước vị đàng hoàng. Nhà Blanca mang phẩm hàm Tử tước, gia cảnh giàu có nhờ kinh doanh buôn bán. Pierpaolo là con trai cả, tuy học lực không thể đọ lại Noel hay Elise nhưng cũng thuộc hàng khá giỏi ở Học Viện.
+Trông bộ dạng lông bông thế thôi chứ cha Pierpaolo là một quý tộc mang tước vị đàng hoàng. Nhà Blanca mang tước Tử tước, gia cảnh giàu có nhờ kinh doanh buôn bán. Pierpaolo là con trai cả, tuy học lực không thể đọ lại Noel hay Elise nhưng cũng thuộc hàng khá giỏi ở Học Viện.
 
 Xuất thân dòng dõi quý tộc, mai sau thế nào Pierpaolo cũng sẽ thừa kế tước vị. Noel cứ thấy cấn cấn khi nghĩ tới cảnh sau này cậu ta cũng sẽ đứng trong hàng ngũ quý tộc như mình, nhưng ngẫm lại giới quý tộc ai chẳng có nét dở người riêng. Nhất là quý tộc Vương Quốc Yaaran, độ lập dị xưa nay vốn khét tiếng hơn hẳn các nơi khác.
 
-Thở dài một tiếng ngao ngán, Noel hỏi: "Sao rồi? Việc cậu lo liệu đến đâu rồi, mọi sự suôn sẻ chứ?"
+Noel thở dài một tiếng ngao ngán rồi hỏi: "Sao rồi? Việc cậu lo liệu đến đâu rồi, mọi sự suôn sẻ chứ?"
 
 Pierpaolo gật đầu lia lịa: "Xem chừng ổn cả rồi. Mấy đứa như tụi mình muốn vào mê cung thì trước hết phải tìm thuê được vài mạo hiểm giả đã. Mình biết dùng ma pháp thật đấy, nhưng uy lực với độ chuẩn xác thì đọ sao nổi với dân kiếm cơm bằng nghề thám hiểm mê cung. Huống hồ tụi mình đâu tới đây để đánh nhau. Cứ phải tránh phí sức đã chứ, đúng không người anh em?"
 
@@ -118,7 +118,7 @@ Pierpaolo gật đầu lia lịa: "Xem chừng ổn cả rồi. Mấy đứa nh�
 
 Noel liền kể lại chuyện xảy ra ở bến xe ngựa. Vừa nghe dứt câu, Pierpaolo đã ôm bụng cười sặc sụa.
 
-"Ha ha ha! Vừa thò mặt tới nơi là cậu làm ngay một vụ như thế hả?! Thầy cô đã dặn đi dặn lại là cấm gây chuyện, thế mà cậu dính chấu ngay được! Nhưng trong hoàn cảnh đó thì đúng là cậu chẳng còn cách nào khác. Mà này, chạm nhẹ một cái làm hỏng luôn áo choàng cơ à?"
+"Ha ha ha! Vừa thò mặt tới nơi là cậu làm ngay một vụ như thế hả?! Thầy cô đã dặn đi dặn lại là cấm gây chuyện, thế mà cậu lại làm ngay một vố! Nhưng trong hoàn cảnh đó thì đúng là cậu chẳng còn cách nào khác. Mà này, chạm nhẹ một cái làm hỏng luôn áo choàng cơ à?"
 
 Noel mím môi khoanh tay lại, nhưng chẳng thèm cằn nhằn nửa lời. Pierpaolo là học viên hiếm hoi ở Học Viện có thể trò chuyện với Noel mà chẳng mảy may giữ kẽ hay giả tạo, và Noel cũng chỉ yên lặng lắng nghe. Nói trắng ra, cậu ta là người bạn duy nhất của Noel trong đám bạn cùng khóa.
 
@@ -154,7 +154,7 @@ Pierpaolo chỉ muốn nhắc là phải cẩn thận kẻo bị những kẻ đ
 
 "Tôi hiểu ý cậu, nhưng cô ấy bảo mình là cư dân Maalt. Chuyện vừa rồi chỉ là tình cờ thôi."
 
-"Thế à? Chắc tôi lo bò trắng răng thôi. Dù sao cũng là mê cung mới toanh mà lị, biết đâu bên trong lại ẩn chứa phát hiện chấn động cả thế kỷ ấy chứ!"
+"Thế à? Chắc tôi lo bò trắng răng thôi. Dù sao cũng là mê cung mới hình thành mà, biết đâu bên trong lại ẩn chứa phát hiện chấn động cả thế kỷ ấy chứ!"
 
 Noel biết thừa Pierpaolo chỉ nói đùa. Kể cả có phát hiện cỡ đó thật, thì người tìm ra cũng phải là giảng viên Học Viện hoặc nhà nghiên cứu của Tòa Tháp. Mấy đứa học trò như Noel với Pierpaolo thực chất chỉ là chân chạy việc vặt, đi lượm lặt mấy mẩu tin tức lẻ tẻ quanh thị trấn. Dẫu vậy, đâu thể gạt bỏ hoàn toàn khả năng tụi cậu sẽ mò ra được thứ gì đó hay ho.
 
