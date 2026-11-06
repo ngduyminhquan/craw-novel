@@ -1,111 +1,111 @@
 # Chương 197: Tập 8 Chương 4 - Giải Thích và Giải Quyết (5)
 
-Isaac hẳn đã nhận ra tôi đang ngó nghiêng tìm ai đó và đoán được người ấy là Lorraine. Nhưng nếu cô đang ở trong thư viện, e rằng phải một lúc lâu nữa cô mới chịu bước ra. Cứ để mặc cô tự nhiên thì có khi cô sẽ đọc sách suốt nhiều ngày liền. Tôi chẳng thể đếm xuể số lần cô bị suy dinh dưỡng sau những đợt cắm đầu đọc sách như thế và tôi lại phải nấu nướng tẩm bổ cho cô. Tôi thầm tự nhủ lát nữa phải đến kiểm tra xem sao để đảm bảo lần này chuyện đó không tái diễn.
+Thấy tôi ngó nghiêng tìm người, Isaac hẳn đã đoán ra tôi đang tìm Lorraine. Nhưng nếu cô ấy đang ở trong thư viện thì chắc còn lâu mới chịu ra ngoài. Cứ để mặc thì cô ấy có thể đọc liền tù tì mấy ngày. Tôi chẳng nhớ nổi đã bao lần cô ấy bị suy dinh dưỡng sau những đợt đọc sách quên ăn quên ngủ như thế, làm tôi lại phải lăn vào bếp nấu cho cô ấy ăn. Tôi thầm dặn lòng lát nữa phải ghé qua xem sao, tránh để lần này lại xảy ra chuyện tương tự.
 
-"Vậy ngài cảm thấy thế nào rồi? Trông ngài có vẻ rất khỏe khoắn," Isaac nói.
+"Vậy ngài thấy trong người thế nào rồi? Trông ngài có vẻ rất khỏe khoắn," Isaac nói.
 
-"Ừm, tôi không sao cả," tôi đáp. "Nhưng thật khó kiểm soát sức mạnh của mình. Thật ra tôi vừa làm hỏng cả một quả đấm cửa. Xin lỗi anh nhé."
+"Vâng, tôi không sao cả," tôi đáp. "Nhưng khó kiểm soát sức mạnh quá. Thật ra tôi vừa lỡ tay bóp nát cả quả đấm cửa. Xin lỗi anh nhé."
 
-"Ngài đừng bận tâm về chuyện đó," Isaac khẽ cười khúc khích nói. "Điều ấy thường xảy ra với những Ma Cà Rồng trải qua Tiến Hóa Bản Thể. Đối với tôi thì chuyện đó đã từ lâu lắm rồi, nhưng tôi vẫn còn nhớ những tai nạn tương tự. Tôi đoán là Tiểu thư Laura trước đây cũng từng trải qua điều này."
+"Ngài đừng bận tâm về chuyện đó," Isaac khẽ cười. "Ma Cà Rồng vừa trải qua Tiến Hóa Bản Thể thì hay gặp chuyện như vậy lắm. Chuyện của tôi thì đã từ lâu lắm rồi, nhưng tôi vẫn còn nhớ mình từng gặp những sự cố tương tự. Tôi đoán chắc trước kia Tiểu thư Laura cũng từng trải qua điều này."
 
-"Laura sao rồi? Cô bé vẫn còn ngủ à?"
+"Laura sao rồi? Cô bé vẫn chưa tỉnh à?"
 
-"Vâng, nhưng ngài không cần phải quá lo lắng cho tiểu thư đâu. Tiểu thư Laura là một tồn tại vượt trội hơn tôi rất nhiều, nên chuyện này sẽ không đe dọa đến tính mạng của người. Song gần đây sức mạnh của tiểu thư đã bị suy giảm, thế nên người sẽ cần một khoảng thời gian để hấp thụ Lõi Mê Cung."
+"Vâng, nhưng ngài không cần quá lo lắng cho tiểu thư đâu. Đẳng cấp của Tiểu thư Laura vượt xa tôi rất nhiều, nên chuyện này không đe dọa đến tính mạng người được. Có điều dạo gần đây sức mạnh của tiểu thư bị suy giảm, nên người sẽ cần chút thời gian để hấp thụ Lõi Mê Cung."
 
-"Tại sao sức mạnh của cô bé lại bị suy giảm?" tôi hỏi.
+"Sao sức mạnh của cô bé lại suy giảm?" tôi hỏi.
 
-Nói chung, Ma Cà Rồng không hề già đi. Điều đó có nghĩa là cô bé sẽ không phải chịu đựng sự tàn phá của tuổi tác chừng nào vẫn ăn uống đầy đủ.
+Thường thì Ma Cà Rồng đâu có già đi. Nghĩa là chỉ cần ăn uống điều độ, tuổi tác sẽ chẳng thể nào làm hao mòn sức mạnh của cô bé được.
 
-"Ngài còn nhớ chuyện chúng tôi từng nhờ ngài thu thập Hoa Long Huyết chứ? Chúng có tác dụng thanh tẩy oán niệm, vì thế rất hữu ích trong việc kìm hãm sức mạnh của Ma Cà Rồng. Tuy nhiên, điều đó chỉ đúng nếu thu thập một lượng vừa đủ. Quá nhiều sẽ khiến Ma Cà Rồng suy yếu. Ngài thấy đấy, nhiều năm qua Tiểu thư Laura vẫn luôn dùng máu Hoa Long Huyết nguyên chất chiết xuất từ những bông Hoa Long Huyết."
+"Ngài còn nhớ chuyện chúng tôi từng nhờ ngài thu thập Hoa Long Huyết chứ? Loài hoa đó dùng để thanh tẩy oán niệm, rất hữu ích trong việc kìm hãm sức mạnh của Ma Cà Rồng. Có điều đó là khi dùng đúng liều lượng thôi. Dùng quá nhiều sẽ khiến Ma Cà Rồng suy yếu. Kỳ thực suốt bao năm qua, Tiểu thư Laura vẫn liên tục dùng dịch Long Hoa Huyết nguyên chất chiết từ Hoa Long Huyết đấy ạ."
 
-"Tại sao cô bé lại làm như vậy?" Nếu những gì Isaac nói là sự thật, hành động ấy chẳng khác nào tự sát.
+"Sao cô bé lại làm thế chứ?" Nếu lời Isaac nói là thật thì hành động đó chẳng khác nào tự sát.
 
-"Tôi cũng không rõ," Isaac đáp. "Có lẽ vì đã sống quá lâu nên người thấy chán chường với cuộc đời, hoặc có lẽ người có lý do khác. Nhưng kể từ khi gặp ngài Rentt, tiểu thư đã không còn dùng nhiều như trước nữa. Người đang dần lấy lại sinh lực, vì vậy tôi nghĩ qua một thời gian nữa người sẽ tỉnh lại thôi."
+"Tôi cũng không rõ," Isaac đáp. "Có lẽ vì sống quá lâu nên người thấy chán đời, hoặc giả người có lý do nào khác. Nhưng từ khi gặp ngài Rentt, tiểu thư không còn dùng nhiều như trước nữa. Sức lực của người đang dần hồi phục, nên tôi nghĩ qua một thời gian tiểu thư sẽ tỉnh lại thôi."
 
-"Khi nào thì chuyện đó xảy ra? Ngày mai chăng? Hay ngày kia?" Tôi có rất nhiều điều muốn hỏi Laura.
+"Bao giờ thì cô bé mới tỉnh lại? Ngày mai sao? Hay ngày kia?" Tôi có biết bao điều muốn hỏi Laura.
 
-"Tôi xin lỗi nếu đã khiến ngài hy vọng quá sớm, nhưng có thể sẽ mất hàng tháng trời, nếu không muốn nói là hàng năm."
+"Tôi xin lỗi nếu đã làm ngài mừng hụt, nhưng nhanh thì cũng phải vài tháng, thậm chí là vài năm."
 
-Hầu hết Ma Cà Rồng đều sống rất thọ, và hai người họ có lẽ cảm nhận thời gian khác hẳn với một Ma Cà Rồng non trẻ như tôi. Hàng tháng hay hàng năm trời đối với họ có khi chỉ tựa như một thoáng chốc.
+Hầu hết Ma Cà Rồng đều sống rất thọ, thành thử hai người họ cảm nhận thời gian khác hẳn một kẻ mới thành Ma Cà Rồng như tôi. Vài tháng hay vài năm đối với họ chắc cũng chỉ tựa như một thoáng qua.
 
-Đáng tiếc thay, giờ tôi không thể nói chuyện với Laura được nữa. Dù sao thì Laura cũng đã lường trước điều đó và dặn dò tôi vài điều trước khi cô bé hấp thụ Lõi Mê Cung. Cô bé từng nhắc đến chuyện đi đến các đền thờ và di tích để thu thập những truyền thuyết, nhưng tôi chẳng hiểu rốt cuộc cô bé muốn ám chỉ điều gì.
+Tiếc là giờ tôi chẳng thể nói chuyện với Laura được nữa. May mà Laura đã lường trước chuyện này và dặn tôi đôi điều trước khi hấp thụ Lõi Mê Cung. Cô bé có nhắc tới việc đến các đền thờ và di tích để thu thập truyền thuyết cổ, nhưng tôi chịu chẳng hiểu ý cô bé là gì.
 
-"Laura đã làm những gì cô bé phải làm," tôi nói. "Cô bé hấp thụ Lõi Mê Cung để bảo vệ Maalt, và ngoài cô bé ra chẳng ai có thể làm được điều đó cả."
+"Laura đã làm điều cô bé buộc phải làm," tôi nói. "Cô bé hấp thụ Lõi Mê Cung để bảo vệ Maalt, chuyện đó ngoài cô bé ra thì chẳng ai làm nổi."
 
-"Cảm ơn ngài đã nói vậy. Tôi rất muốn giải thích cặn kẽ cho ngài, nhưng ngặt nỗi tôi cũng không biết nhiều lắm. Ngài còn điều gì muốn hỏi nữa không?"
+"Cảm ơn ngài đã nói vậy. Tôi cũng muốn giải thích cho ngài càng nhiều càng tốt, nhưng tiếc là bản thân tôi cũng không biết được bao nhiêu. Ngài có điều gì muốn hỏi không?"
 
-"Anh có biết ý cô bé là gì khi bảo tôi thu thập các truyền thuyết cổ xưa không?"
+"Anh có biết ý cô bé là sao khi bảo tôi đi thu thập truyền thuyết cổ không?"
 
-"Tôi cho rằng ý tứ đúng như những gì câu chữ thể hiện đấy ạ. Đó là điều ngài nên làm vì chính bản thân mình và tương lai của ngài."
+"Tôi nghĩ cứ hiểu đúng theo nghĩa đen thôi ạ. Đó là điều ngài nên làm cho chính bản thân mình và tương lai của ngài."
 
-"Thì, ý tôi muốn hỏi đâu phải chuyện đó." Tôi muốn biết vì sao mình phải làm vậy, và rốt cuộc những truyền thuyết cổ xưa đó là gì. Tôi đành cho rằng Isaac biết rõ điều này.
+"Ý tôi đâu phải chuyện đó." Tôi muốn biết vì sao mình phải làm vậy, và chính xác thì những truyền thuyết cổ ấy là gì. Tôi dám chắc là Isaac biết rõ.
 
-"Tôi có thể giải đáp đôi phần, nhưng trước đây tôi từng hiểu sai những thông tin này. Tôi tin là Shumini cũng vậy. Nếu tôi cố gắng giải thích, tôi e là mình sẽ phạm phải sai lầm. Tôi đề nghị ngài hãy tự mình điều tra và rút ra kết luận cho riêng mình. Tôi mường tượng rằng Tiểu thư Laura cũng sẽ nói với ngài điều tương tự."
+"Tôi cũng có thể trả lời ngài phần nào, nhưng trước đây tôi từng hiểu sai những điều này. Tôi tin Shumini cũng vậy. Nếu bây giờ tôi cố giải thích, e là sẽ có chỗ sai sót. Tôi khuyên ngài nên tự mình tìm hiểu và rút ra kết luận. Tôi nghĩ nếu là Tiểu thư Laura thì người cũng sẽ bảo ngài như vậy."
 
-Rốt cuộc Isaac vẫn không trả lời tôi, nhưng tôi hiểu ý anh ta. Nếu chuyện này bắt nguồn từ thời cổ đại xa xưa, mọi thông tin về nó đương nhiên sẽ bị mai một hoặc bóp méo theo thời gian. Tôi phải tự mình thu thập những truyền thuyết đó và tự suy ngẫm giải mã. Nhưng ngay cả cách lý giải của chính tôi cũng có thể mắc sai sót. Có lẽ Isaac đang ngầm bảo rằng bản thân anh ta từng trải qua chuyện này. Ý anh ta muốn nhắc nhở là tôi có thể lặp lại vết xe đổ của anh ta. Chí ít thì đó là những gì tôi vỡ lẽ ra được. Anh ta muốn tôi tự mình tìm kiếm thông tin và tự suy xét lấy. Nếu đã vậy thì đây không phải là điều tôi có thể dò hỏi từ Isaac rồi.
+Rốt cuộc Isaac vẫn không trả lời tôi, nhưng tôi hiểu ý anh ấy. Nếu là chuyện từ thời cổ đại thì theo năm tháng, thông tin tự nhiên sẽ thất truyền hoặc tam sao thất bản. Tôi phải tự mình thu thập các truyền thuyết rồi tự mình chiêm nghiệm, dẫu rằng cách hiểu của tôi chưa chắc đã không mắc sai lầm. Có lẽ Isaac muốn bảo chính anh ấy cũng từng trải qua chuyện này, và ý anh ấy là không muốn tôi đi vào vết xe đổ đó. Ít ra thì tôi hiểu là vậy. Anh ấy muốn tôi tự mình lùng sục thông tin và tự suy ngẫm lấy. Nếu đã thế thì chuyện này tôi chẳng thể trông mong gì vào việc gặng hỏi Isaac rồi.
 
-Những việc tôi phải làm đã rõ ràng, nên tôi chỉ cần dấn thân vào cuộc hành trình đó. Đền thờ và di tích tồn tại khắp nơi trên thế giới. Dù vậy, từ trước đến nay tôi toàn làm mạo hiểm giả quanh quẩn ở Maalt, và những chuyến đi đó đâu thể coi là hành trình đường dài. Một mạo hiểm giả Đồng Cấp độc hành chẳng bao giờ nhận được nhiệm vụ hộ tống, và tôi cũng chẳng có mấy cơ hội kiếm tiền ở các vùng đất khác. Ngay cả chi phí đi lại cũng đắt đỏ đến phát khiếp. Nhưng giờ đây tôi đã đủ mạnh để nhận các nhiệm vụ hộ tống hoặc tiếp nhận yêu cầu từ các hội trên khắp thế giới để vừa đi vừa kiếm tiền.
+Việc cần làm đã rõ ràng, tôi chỉ việc lên đường bắt đầu chuyến hành trình. Đền thờ với di tích thì đâu đâu trên thế giới chẳng có. Có điều xưa nay tôi chỉ quanh quẩn làm mạo hiểm giả ở Maalt, chẳng mấy khi đi xa. Mạo hiểm giả Đồng Cấp đi một mình thì đời nào nhận được nhiệm vụ hộ tống, mà đến các vùng khác tôi cũng khó lòng kiếm được tiền. Thậm chí chỉ riêng chi phí đi lại thôi cũng đủ làm tôi sạt nghiệp. Nhưng giờ tôi đã đủ mạnh để nhận nhiệm vụ hộ tống, hoặc nhận ủy thác từ các chi hội trên khắp thế giới để vừa chu du vừa kiếm sống.
 
-Tôi thấy phấn khích, nhưng cũng sẽ nhớ Maalt lắm. À thì, tôi có thể dùng các ma pháp trận dịch chuyển để quay về từ một số địa điểm, nhưng rồi người ta có thể sẽ đặt nghi vấn về việc tại sao tôi lại xuất hiện ở Maalt trong khi đáng lẽ đang đi viễn du. Tôi sẽ phải hạn chế dùng chúng hết mức có thể. Với lại tôi cũng khao khát được đi du ngoạn bằng xe ngựa. Cứ dịch chuyển tới lui quanh quẩn thì chẳng mấy thú vị. Nó sẽ không đem lại cảm giác của một cuộc hành trình.
+Tôi thấy phấn khích, nhưng cũng sẽ nhớ Maalt lắm. À thì, tôi có thể dùng các ma pháp trận dịch chuyển để quay về từ một số nơi, nhưng ngộ nhỡ người ta lại sinh nghi khi thấy tôi lù lù ở Maalt trong khi đáng ra phải đang đi xa thì phiền phức to. Tốt nhất là nên hạn chế dùng chúng hết mức có thể. Chưa kể tôi cũng ao ước được rong ruổi trên những chuyến xe kéo. Cứ dịch chuyển qua lại hoài thì còn gì thú vị nữa, chẳng ra dáng một chuyến viễn du chút nào.
 
-"Được rồi, tôi hiểu rồi," tôi nói. "Vậy tôi sẽ không hỏi thêm về chuyện đó nữa. Còn gì nữa không nhỉ? À phải rồi, anh bảo tôi đã tiến hóa, nhưng rốt cuộc tôi đã tiến hóa thành thứ gì? Anh có biết không?" Bản thân tôi chẳng hề hay biết. Tôi vẫn chưa thực sự kiểm tra thử bất cứ điều gì, nên đó vẫn là một ẩn số. Tôi có vẻ đã mạnh hơn một chút, nhưng cũng chỉ có thế mà thôi.
+"Được rồi, tôi hiểu rồi," tôi nói. "Vậy chuyện đó tôi không hỏi thêm nữa. Còn gì nữa không nhỉ? À đúng rồi, anh bảo tôi đã tiến hóa, nhưng rốt cuộc tôi đã tiến hóa thành thứ gì? Anh có biết không?" Bản thân tôi chịu chẳng rõ. Tôi vẫn chưa thử nghiệm gì cả nên mọi thứ vẫn là một ẩn số. Trông tôi có vẻ khỏe hơn đôi chút, nhưng cũng chỉ có thế mà thôi.
 
-"Nếu ngài còn nhớ, ngài có đôi chút khác biệt so với chúng tôi," Isaac nói.
+"Nếu ngài nhớ lại thì ngài có đôi chút khác biệt so với chúng tôi đấy ạ," Isaac nói.
 
 "Ừ, Laura có nhắc tới chuyện đó."
 
-"Đúng vậy, nên tôi không thể khẳng định cụ thể ngài là loại quái vật nào. Dù vậy, tôi có thể cho ngài biết ngài sẽ thuộc cấp bậc nào nếu ngài là Ma Cà Rồng. Nếu ngài muốn tôi xác định điều đó, trước tiên ngài sẽ phải thể hiện sức mạnh của mình cho tôi xem."
+"Đúng vậy, nên tôi không thể nói chắc ngài là chủng quái vật nào. Dù vậy, nếu ngài là Ma Cà Rồng, tôi có thể đoán xem ngài tương đương với cấp bậc nào. Nhưng muốn vậy thì trước hết ngài phải thể hiện thực lực cho tôi xem đã."
 
-Chỉ riêng sức mạnh thể chất có lẽ là không đủ để đánh giá. Những Ma Cà Rồng cùng cấp bậc vẫn có thể khác nhau về mặt này, tương tự như con người vậy.
+Chắc chỉ nhìn vào sức mạnh thể chất thì khó mà đánh giá nổi. Ngay cả Ma Cà Rồng cùng cấp bậc vẫn có thể chênh lệch về khoản đó, chẳng khác nào con người vậy.
 
 "Rina cũng không phải Ma Cà Rồng bình thường sao?" tôi hỏi.
 
-"Ô, tôi không phải là Ma Cà Rồng sao?" cô bàng hoàng thốt lên, nhưng tôi cần phải hỏi cho rõ chuyện này. Tôi chẳng thấy có vấn đề gì nếu cô là một Ma Cà Rồng thông thường, nhưng Nive nhiều khả năng vẫn còn ở Maalt. Kết giới kia có lẽ giờ đã biến mất, nên Nive hẳn đang rảo quanh thị trấn. Nếu Rina bị tóm được, Nive sẽ xé toạc cô bằng móng vuốt của mình.
+"Ơ, tôi không phải là Ma Cà Rồng sao?" Rina bàng hoàng thốt lên, nhưng tôi cần phải hỏi cho ra nhẽ. Tôi thì chẳng bận tâm nếu cô ấy là một Ma Cà Rồng bình thường, nhưng Nive nhiều khả năng vẫn còn ở Maalt. Kết giới chắc đã tan rồi, biết đâu Nive đang lùng sục khắp thị trấn. Rina mà bị tóm thì sẽ bị móng vuốt của Nive xé toạc ra mất.
 
-"Nhiều khả năng là không phải đâu cô," Isaac đáp. "Cách dễ nhất để nhận biết là dựa vào khí tức. Con người sẽ không thể phân biệt được, nhưng giống loài Ma Cà Rồng chúng tôi có thể cảm nhận thấy nhau. Song cô và ngài Rentt lại không hề phát ra khí tức của chúng tôi."
+"Nhiều khả năng là không phải đâu cô Rina," Isaac đáp. "Cách dễ nhất để nhận biết là dựa vào khí tức. Con người thì chịu không phân biệt nổi, nhưng Ma Cà Rồng chúng tôi lại cảm nhận được nhau. Có điều cô và ngài Rentt lại chẳng hề toát ra khí tức ấy."
 
-"Vậy Rina và tôi không phải Ma Cà Rồng ư? Nhưng tôi vẫn uống máu và thèm khát con người mà. Cô không thế sao?" tôi quay sang hỏi Rina.
+"Vậy Rina và tôi không phải Ma Cà Rồng ư? Nhưng tôi vẫn uống máu và thèm khát con người đấy thôi. Cô không thấy thế à?" tôi quay sang hỏi Rina.
 
-"Con người trông ngon mắt lắm ạ!" cô đáp.
+"Trông con người ngon mắt lắm anh!" cô đáp.
 
 ![](images/ch197-01.webp)
 
-Nghe thế quả thật có chút rợn người. Ý tôi là, cô nói đâu có sai, nhưng đó chẳng phải điều người ta muốn bô bô nói lớn ngoài thị trấn. Cô sẽ bị coi là một quái vật ăn thịt người hoặc một kẻ điên loạn mất. Tôi chẳng hề muốn một trong hai điều đó xảy ra với Rina. Lát nữa tôi cần phải nhắc nhở cô về chuyện này mới được.
+Nghe thế quả thật có chút rợn người. Ý tôi là cô ấy nói chẳng sai, nhưng ai lại đi bô bô chuyện đó giữa bàn dân thiên hạ bao giờ. Người ta mà nghe được thì coi cô ấy như quái vật ăn thịt người, không thì cũng là kẻ điên. Tôi chẳng muốn điều nào xảy ra với Rina cả. Lát nữa tôi phải dặn cô ấy mới được.
 
-"Tất nhiên, tôi không thể khẳng định hai người hoàn toàn khác biệt," Isaac nói. "Ngài và cô ấy có thể là một phân loài có quan hệ họ hàng gần gũi với Ma Cà Rồng, nhưng ngài sẽ phải thỉnh cầu Thần Giám Định mới có thể biết chắc được. Dù vậy, tôi không dám đảm bảo thần linh sẽ chịu giám định cho ngài đâu."
+"Tất nhiên, tôi không thể khẳng định hai người hoàn toàn khác biệt," Isaac nói. "Ngài và cô ấy có thể là một chủng loài có họ hàng gần với Ma Cà Rồng, nhưng muốn biết chắc thì phải thỉnh cầu Thần Giám Định. Có điều tôi không dám chắc là người sẽ chịu giám định cho hai vị đâu."
 
-Thần Giám Định hiếm khi nào đích thân giám định thứ gì. Dù vậy, việc cất công đến đền thờ vì điều đó cũng chưa hẳn là uổng công vô ích, vả lại còn có chuyện về chiếc mặt nạ của tôi nữa. Tôi cho rằng ngài ấy sẽ chịu xem xét nó. Suy cho cùng thì tinh linh ở Hathara từng bảo nó giống như một món thần khí. Nếu tôi có thể tiện thể hỏi xem mình thuộc chủng tộc nào, thì quả là tiện cả đôi đường.
+Thần Giám Định hiếm khi đích thân giám định thứ gì. Dù vậy, việc cất công tới đền thờ cũng chưa hẳn là vô ích, vả lại còn có chuyện chiếc mặt nạ của tôi nữa. Tôi đoán ngài ấy sẽ chịu xem xét nó, bởi dẫu sao thần tinh linh ở Hathara từng bảo chiếc mặt nạ này trông tựa như một món Thần Cụ. Nếu có thể nhân tiện hỏi luôn mình thuộc chủng loài nào thì đúng là tiện cả đôi đường.
 
-"Dù sao thì cũng có vài điều tôi biết rõ và có thể kiểm tra giúp ngài," Isaac nói. "Tôi là một Ma Cà Rồng đã sống khá lâu năm, và trong ngần ấy thời gian tôi đã tôi luyện không ít kỹ năng. Ngài có thể sẽ sử dụng được vài kỹ năng trong số đó đấy, ngài Rentt. Chúng ta hãy ra ngoài vườn đi. Tôi dám chắc là cô Lorraine cũng muốn xem, nên có lẽ trước tiên chúng ta nên ghé qua thư viện một chuyến."
+"Có điều vẫn có vài thứ tôi biết và có thể kiểm tra giúp ngài," Isaac nói. "Tôi đã sống một cuộc đời khá dài dưới thân phận Ma Cà Rồng và tôi luyện được không ít kỹ năng. Biết đâu ngài lại dùng được vài chiêu trong số đó đấy, ngài Rentt. Chúng ta ra vườn thôi nào. Tôi dám chắc tiểu thư Lorraine cũng muốn xem, nên có lẽ chúng ta cứ ghé qua thư viện trước đã."
 
-Nếu anh ta sẵn lòng chỉ dạy cho tôi vài kỹ năng, tôi vô cùng cảm kích. Những ngón nghề duy nhất mà tôi đặc biệt thành thạo chỉ có kiếm thuật, Ma Thuật Sinh Hoạt và tấn công bằng Khí Lực. Tôi sẽ hết sức hoan nghênh cơ hội được học hỏi thêm. Thực lòng mà nói, tôi luôn khao khát được học hỏi nhiều loại kỹ năng phong phú. Nhưng tôi hiểu rõ rằng mình không được bỏ bê những điều căn bản chỉ vì muốn thu nạp kỹ năng mới, nên tôi chưa từng có ý định làm thế.
+Nếu anh ấy sẵn lòng chỉ dạy vài kỹ năng thì tôi vô cùng cảm kích. Những ngón nghề duy nhất tôi tương đối thạo chỉ có kiếm thuật, Ma Thuật Sinh Hoạt và dùng Khí Lực tấn công. Được học hỏi thêm thì còn gì bằng. Thực lòng mà nói, tôi luôn khao khát được học thêm nhiều kỹ năng khác nhau. Nhưng tôi biết mình không được vì mải mê thu nạp kỹ năng mới mà bỏ bê những điều căn bản, thành thử trước giờ tôi chưa từng có ý định đó.
 
-Tôi biết mình vẫn chưa đủ tầm dựa trên trận chiến dưới lòng đất vừa rồi, sau khi đã tận mắt chứng kiến sức mạnh của Laura, Isaac và cả Lorraine. Tôi không còn nghi ngờ gì nữa chính là người yếu nhất trong số họ. Họa chăng tôi có thể đánh bại Lorraine bằng cách tận dụng sức mạnh thể chất cùng khả năng hồi phục của mình, nhưng cô lại biết tỏng tôi là một dạng Ma Cà Rồng. Cô có lẽ sẽ liên tục giáng xuống những đòn ma pháp khiến tôi chẳng tài nào cử động nổi. Tôi thậm chí còn chẳng thể tiếp cận được cô. Thôi bỏ đi, tôi đấu làm sao lại Lorraine được.
+Sau khi chứng kiến sức mạnh của Laura, Isaac và cả Lorraine trong trận chiến dưới lòng đất, tôi biết mình vẫn còn non tay lắm. Rõ ràng tôi là kẻ yếu nhất trong số họ. Họa chăng tôi có thể thắng được Lorraine nhờ sức mạnh thể chất và khả năng hồi phục, có điều cô ấy lại biết tỏng tôi là một dạng Ma Cà Rồng. Cô ấy thừa sức dội ma pháp liên tục khiến tôi không nhúc nhích nổi một ngón tay, đến gần còn chẳng xong. Thôi dẹp đi, tôi làm sao có cửa đấu lại Lorraine.
 
-"Nghe được đấy," tôi nói. "Mỗi lần tiến hóa trước đây, tôi đều nhờ Lorraine kiểm tra giúp. Lần này có lẽ cô ấy cũng sẽ là người phù hợp nhất để nhận ra những biến đổi. Cô ấy hẳn cũng sẽ có vài nhận định xem tôi có thể thuộc chủng tộc nào. Tôi thích nghĩ rằng bản thân có vốn hiểu biết tương đối về quái vật, nhưng chẳng gì sánh bằng một chuyên gia thực thụ cả."
+"Nghe được đấy," tôi nói. "Những lần tiến hóa trước tôi đều nhờ Lorraine kiểm tra giúp. Lần này chắc cô ấy cũng là người thích hợp nhất để nhận ra những điểm thay đổi. Có khi cô ấy còn đoán ra tôi thuộc chủng loài nào nữa kia. Tôi vẫn tự hào mình biết khá nhiều về quái vật, nhưng dẫu sao cũng chẳng đọ lại được chuyên gia."
 
-"Phải rồi, cô Lorraine nghiên cứu về quái vật mà. Tôi biết rất nhiều về đồng loại của mình, nhưng hiểu biết về các loài quái vật khác thì có hạn. Vậy chúng ta đi đón cô Lorraine nhé?"
+"Phải rồi, cô Lorraine nghiên cứu về quái vật mà. Tôi thì biết rõ đồng loại của mình, chứ các loài quái vật khác cũng chỉ biết sơ sơ thôi. Vậy chúng ta đi gọi cô Lorraine nhé?"
 
-Chúng tôi rời khỏi phòng và hướng về phía thư viện.
+Chúng tôi rời phòng, cùng nhau rảo bước tới thư viện.
 
 ◆◇◆◇◆
 
-"Ồ, Rentt, anh tỉnh rồi à? Cơ thể anh sao rồi? Anh thấy trong người khỏe chứ?" Lorraine hỏi.
+"Ồ, Rentt, anh tỉnh rồi à? Người ngợm thế nào rồi? Trong người thấy khỏe chứ?" Lorraine hỏi.
 
-Khi chúng tôi bước vào thư viện, Lorraine đang ngồi bên một chiếc bàn ngập tràn những sách là sách. Rõ ràng là tâm trí cô vẫn dành đủ khoảng trống để nghĩ về tôi chứ không chỉ mải mê với đống sách vở kia.
+Bước vào thư viện, chúng tôi thấy Lorraine đang ngồi bên chiếc bàn ngập ngụa sách. Hóa ra trong đầu cô ấy vẫn còn chỗ để bận tâm đến tôi, chứ chưa đến mức bị đống sách vở kia choán sạch.
 
-"Ừ, hiện tại tôi dường như không có vấn đề gì cả. Dù sao thì, sách ở đây nhiều thật đấy."
+"Ừ, hiện giờ thì thấy chẳng có vấn đề gì. Mà công nhận sách ở đây nhiều thật đấy."
 
-"Đây mới chỉ là một phần nhỏ trong số những cuốn tôi muốn đọc thôi. Nơi này thật đáng kinh ngạc. Chẳng có mấy thư viện sở hữu nhiều sách đến mức này đâu. Ngay cả giới quý tộc ở đế đô cũng không có thư viện nào tầm cỡ như vậy. Không chỉ thế, những cuốn sách này đều thuộc loại vô cùng quý hiếm. Tôi muốn sống ở đây luôn quá."
+"Đây mới chỉ là một phần nhỏ trong số những cuốn tôi muốn đọc thôi. Nơi này tuyệt thật đấy. Chẳng có mấy thư viện chứa được ngần này sách đâu. Đến quý tộc ở đế đô cũng làm gì có thư viện nào tầm cỡ thế này. Đã vậy toàn là sách hiếm nữa chứ. Tôi chỉ muốn dọn đến đây ở luôn thôi."
 
-Tôi e sợ khả năng Laura hoặc Isaac thực sự sẽ cho phép chuyện đó. Ngôi nhà của Lorraine vốn đã giống nơi chứa sách của cô hơn là một mái ấm đầy đủ chức năng rồi. Có lẽ việc dọn vào sống trong thư viện này đối với cô cũng chẳng khác là bao.
+Tôi chỉ sợ Laura với Isaac lại đồng ý thật thì khổ. Nhà của Lorraine vốn dĩ giống cái kho chứa sách hơn là một căn nhà đàng hoàng để ở. Có khi để cô ấy dọn vào sống trong thư viện này thì cảm giác cũng chẳng khác là bao.
 
-"Thôi, đùa một chút vậy thôi, tôi đoán anh đến đây là vì có việc cần đúng không?" Lorraine nói. Tôi đoán rốt cuộc cô cũng chẳng nói thật. Khi nói câu đó, trông mặt cô có vẻ nghiêm túc tới phân nửa, nhưng nếu vạch trần điều ấy thì tôi sẽ gặp rắc rối to. Tôi đành vờ như không nhận ra.
+"Thôi, đùa tí thế thôi, anh tới đây chắc là có việc cần nhờ hả?" Lorraine nói. Hóa ra cô ấy chỉ nói đùa. Lúc nói trông mặt cô ấy nghiêm túc đến phân nửa, nhưng nếu vạch trần chuyện đó ra thì tôi chỉ có nước rước họa vào thân. Tôi đành vờ như không nhận ra.
 
-"Ừ, Isaac bảo anh ấy sẽ xem chúng tôi thuộc cấp bậc nào nếu chúng tôi là Ma Cà Rồng. Anh ấy cũng sẽ chỉ dạy cho chúng tôi vài kỹ năng của Ma Cà Rồng nữa. Chúng tôi sắp ra ngoài vườn thử nghiệm vài thứ, nên nghĩ rằng cô cũng nên đến xem liệu có nảy ra ý kiến gì không."
+"Ừ, Isaac bảo anh ấy sẽ xem chúng tôi thuộc cấp bậc nào nếu là Ma Cà Rồng, với lại còn định dạy cho chúng tôi vài kỹ năng Ma Cà Rồng nữa. Tụi tôi định ra vườn thử nghiệm vài thứ, nên tính rủ cô đi cùng xem có phát hiện ra điều gì không."
 
-"Vậy rốt cuộc anh không phải là Ma Cà Rồng sao? Là loài có quan hệ họ hàng gần chăng? Hay là một phân loài? Biết đâu anh lại là một thứ hoàn toàn khác biệt. Trao đổi với Isaac về chuyện đó hẳn sẽ thú vị lắm đây." Rõ ràng Lorraine cũng không nghĩ tôi là một Ma Cà Rồng điển hình. Dù sao thì chúng tôi cũng từng bàn về chuyện đó vài lần rồi, nên điều này cũng chẳng có gì quá đỗi kỳ lạ.
+"Vậy rốt cuộc anh không phải là Ma Cà Rồng à? Là loài có họ hàng gần chăng? Hay là một phân loài? Biết đâu lại là một thứ hoàn toàn khác cũng nên. Bàn với Isaac về vụ này chắc thú vị lắm đây." Rõ ràng Lorraine cũng không cho rằng tôi là Ma Cà Rồng bình thường. Dẫu sao chúng tôi cũng từng nói về chuyện đó mấy lần rồi, nên cũng chẳng có gì lạ.
 
-"Tôi không am tường về quái vật nhiều như cô, nên chẳng rõ liệu mình có đáp ứng được kỳ vọng của cô hay không," Isaac nói, song theo góc nhìn của Lorraine, cô đang có cơ hội hiếm hoi được thỉnh giáo một Ma Cà Rồng thực thụ về loài Ma Cà Rồng. Bấy nhiêu thôi cũng đã đủ để thỏa mãn kỳ vọng của cô rồi. Việc ở cạnh bao nhiêu Ma Cà Rồng dạo gần đây khiến người ta dễ quên đi mất, nhưng hầu hết mạo hiểm giả chưa từng chạm trán Ma Cà Rồng bao giờ. Điều đó thậm chí đúng với cả Hạ Cấp Ma Cà Rồng, chứ chưa nói đến những Ma Cà Rồng bậc cao hiếm hoi hơn rất nhiều.
+"Tôi không am tường về quái vật nhiều như tiểu thư Lorraine, nên chẳng rõ liệu có đáp ứng được kỳ vọng của tiểu thư hay không," Isaac nói. Nhưng từ góc nhìn của Lorraine, được thỉnh giáo một Ma Cà Rồng thực thụ về chính giống loài của họ là cơ hội ngàn năm có một. Chừng đó thôi cũng thừa đủ đáp ứng kỳ vọng của cô ấy rồi. Dạo gần đây quanh chúng tôi toàn là Ma Cà Rồng nên rất dễ quên mất một điều: phần lớn mạo hiểm giả cả đời chưa từng giáp mặt Ma Cà Rồng bao giờ. Kể cả Hạ Cấp Ma Cà Rồng cũng đã hiếm, nói gì tới những Thượng Cấp Ma Cà Rồng còn hiếm hoi hơn gấp bội.
 
-"Tôi được trò chuyện với một Thượng Cấp Ma Cà Rồng cơ mà," Lorraine nói. "Đó đâu phải điều ngày nào tôi cũng có dịp trải nghiệm. Tôi sẽ vui vẻ đón nhận cơ hội này, Isaac."
+"Được trò chuyện với một Thượng Cấp Ma Cà Rồng cơ mà," Lorraine nói. "Đó đâu phải điều ngày nào tôi cũng gặp được. Tôi rất sẵn lòng nắm lấy cơ hội này, Isaac."
