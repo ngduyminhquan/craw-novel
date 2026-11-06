@@ -1,167 +1,167 @@
 # Chương 240: Tập 10 Chương 4 - Đến Nơi (6)
 
-Cả hai cùng rảo bước về phía nhà của Ferrici. Kể từ khi rời khỏi quán trọ, Ferrici đã chìm vào một sự im lặng đầy trầm ngâm, thế nên Augurey chờ cho tới khi cảm thấy thời điểm thích hợp mới cất lời.
+Hai người cùng rảo bước về phía nhà Ferrici. Từ lúc rời quán trọ, Ferrici cứ im lặng trầm ngâm suốt dọc đường, nên Augurey cũng nán lại, đợi lúc thích hợp mới mở lời.
 
-"Em đang suy nghĩ gì thế?" anh hỏi.
+"Em đang nghĩ gì thế?" anh hỏi.
 
-Ferrici bừng tỉnh khỏi dòng suy nghĩ. "Ôi, xin lỗi anh. Đi cùng tôi hẳn là tẻ nhạt lắm nhỉ..." Bối rối, cô khua khua hai tay với vẻ hết sức chân thành.
+Ferrici giật mình sực tỉnh. "Ôi, xin lỗi anh. Đi cùng tôi chắc chán lắm nhỉ..." Cô cuống quýt xua xua hai tay, vẻ bối rối trông hết sức thật thà.
 
-Augurey mỉm cười, thầm nghĩ mình sẽ khó lòng tìm thấy một cô gái nào ở vương đô có thể làm ra cử chỉ tự nhiên như thế. Dù Vương Quốc Yaaran có phần nghèo nàn, vương đô của đất nước này vẫn là một thành phố khá tầm cỡ, và phụ nữ nơi đó tinh tế hơn đàn ông rất nhiều trong những ngón nghề tình cảm. Đã quá nhiều lần cánh mày râu rơi vào ảo tưởng rằng mình đang nắm thế chủ động trước một người phụ nữ, để rồi nhận ra mình đã hoàn toàn bị đối phương dắt mũi—một ý nghĩ thật rùng mình.
+Augurey mỉm cười, thầm nghĩ ở vương đô khó mà tìm được cô gái nào thể hiện được vẻ tự nhiên đến thế. Vương Quốc Yaaran tuy nghèo thật, nhưng vương đô vẫn là một thành phố khá lớn, và phụ nữ nơi đó sành sỏi chuyện yêu đương hơn cánh đàn ông nhiều. Biết bao lần cánh đàn ông cứ ngỡ mình đang nắm thế chủ động, để rồi nhận ra mình chỉ đang ngoan ngoãn nhảy múa trong lòng bàn tay đối phương — nghĩ đến thôi cũng đủ rùng mình.
 
-Đàn ông thường chiếm ưu thế về sức mạnh thể chất, nhưng vương đô lại quy tụ không ít những mạo hiểm giả nghĩa hiệp cùng các kỵ sĩ lành nghề. Bất kỳ kẻ nào phá rối trật tự đều sẽ bị can thiệp công khai và nhanh chóng, khiến cánh đàn ông chẳng còn lựa chọn nào khác ngoài việc theo đuổi đối tượng bằng những biện pháp hợp pháp. Kéo theo đó, các quảng trường của vương đô thường đầy rẫy những gã đàn ông buông lời tán tỉnh chòng ghẹo phụ nữ qua đường, trong khi các quý cô vốn đã quá dày dạn kinh nghiệm với chuyện này và khéo léo từ chối họ.
+Xét về thể lực thì đàn ông thường chiếm thế thượng phong, nhưng ở vương đô lại chẳng thiếu những mạo hiểm giả nghĩa hiệp cùng kỵ sĩ tài ba. Hễ kẻ nào làm loạn trật tự trị an là lập tức bị can thiệp ngay giữa bàn dân thiên hạ, nên cánh đàn ông chẳng còn cách nào khác ngoài việc theo đuổi cho đúng phép tắc. Thành thử tại các quảng trường vương đô, lúc nào cũng thấy nhan nhản những gã buông lời chọc ghẹo phụ nữ qua đường; còn các cô gái thì đã quá quen với cảnh này nên đều khéo léo khước từ.
 
-Augurey mường tượng rằng nếu Ferrici xuất hiện ở một trong những quảng trường ấy, cô sẽ bị một gã mồm mép dẻo quẹo nào đó tán đổ chỉ trong vòng một giờ đồng hồ. Nhưng mặt khác, xét đến việc cô từng kiên quyết từ chối tiết lộ thông tin về đám Phi Long ngay cả trước mặt những mạo hiểm giả, anh lại băn khoăn liệu cô có phải là mẫu người sẽ phớt lờ hoàn toàn những lời tán tỉnh trăng hoa hay không.
+Augurey nghĩ bụng nếu Ferrici bước vào một quảng trường như thế, chắc chưa đầy một tiếng cô đã bị gã mồm mép nào đó dỗ ngon dỗ ngọt tán đổ. Nhưng nghĩ lại, thấy cô từng một mực không hé nửa lời về đám Phi Long ngay cả trước mặt mạo hiểm giả, anh lại tự hỏi biết đâu cô thuộc mẫu người sẽ tảng lờ hoàn toàn mấy lời buông lơi chọc ghẹo.
 
-"Tôi đâu có thấy tẻ nhạt chút nào," Augurey đáp. "Thực ra đêm nay tôi thấy hào hứng lắm đấy chứ. Đâu phải đêm nào cũng được vui vẻ đến nhường này."
+"Tôi đâu thấy chán chút nào," Augurey đáp. "Thật ra đêm nay tôi hào hứng lắm đấy chứ. Đâu phải đêm nào cũng vui thế này đâu."
 
-"Vui sao ạ?" Ferrici nhắc lại, mắt mở to kinh ngạc.
+"Vui sao cơ?" Ferrici tròn mắt nhắc lại.
 
-"Chắc chắn rồi. Cứ lặp đi lặp lại những công việc thường nhật ở vương đô thì chán ngắt, chỉ toàn làm nhiệm vụ để kiếm miếng ăn bỏ bụng hoặc nâng cấp bậc của mình. Tôi chẳng tự phụ đến mức bảo rằng mọi ủy thác đều dễ dàng, nhưng chúng cứ rập khuôn như nhau mãi. Giữa sự buồn tẻ của những ủy thác dập khuôn ấy, tôi không khỏi khao khát tìm kiếm điều gì đó phấn khích hơn."
+"Chắc chắn rồi. Quanh đi quẩn lại với những công việc thường ngày ở vương đô chán lắm, chỉ toàn làm nhiệm vụ kiếm miếng ăn hoặc cày cấp bậc thôi. Tôi đâu dám tự phụ bảo ủy thác nào cũng dễ xơi, nhưng việc nào cũng từa tựa như việc nào. Giữa chuỗi ngày buồn tẻ với những ủy thác rập khuôn ấy, tôi chẳng kìm được mà muốn tìm thứ gì đó kích thích hơn."
 
-Điều này đúng với rất nhiều mạo hiểm giả, bởi lẽ họ làm việc để hoàn thành ủy thác, và các ủy thác chỉ được đăng lên khi có nhu cầu nào đó. Thu hái một loại thảo dược cụ thể, săn bắn thực phẩm, thu thập nguyên liệu làm vũ khí và vật phẩm—phần lớn công việc chung quy cũng chỉ là bổ sung những nguồn cung đã bị tiêu hao mỗi ngày ở vương đô.
+Rất nhiều mạo hiểm giả cũng rơi vào tình cảnh này, bởi họ làm việc để hoàn thành ủy thác, mà ủy thác thì chỉ được đưa ra khi có người cần. Hái một loại thảo dược nhất định, săn thú lấy thịt, gom góp vật liệu làm vũ khí và vật phẩm: phần lớn công việc chung quy cũng chỉ là bù đắp vào những thứ hao hụt hằng ngày ở vương đô.
 
-Các nhiệm vụ Ngân Cấp cũng không phải ngoại lệ. Dĩ nhiên, người ta thường phải tới một địa điểm mới sau mỗi lần và phải chuẩn bị kỹ lưỡng thích hợp cho công việc. Có rất nhiều yếu tố cần cân nhắc cho từng ủy thác, chẳng hạn như môi trường sống của quái vật biến chuyển theo mùa. Xử lý những biến số đó khiến công việc của một mạo hiểm giả tốn nhiều thời gian và gian truân hơn những gì thường dân tưởng tượng. Hoàn thành những nhiệm vụ đó ngày này qua ngày khác chẳng phải chuyện dễ dàng, nên khi công việc xong xuôi, người ta cũng cảm nhận được cảm giác thành tựu kha khá. Augurey không đến mức bất mãn, nhưng anh vẫn mong muốn có một sự đổi gió khỏi chuỗi công việc lặp đi lặp lại.
+Nhiệm vụ Ngân Cấp cũng không phải ngoại lệ. Dĩ nhiên, mỗi lần người ta lại phải đến một địa điểm mới và chuẩn bị chu đáo cho công việc. Mỗi ủy thác đều có rất nhiều yếu tố phải tính đến, chẳng hạn như địa bàn của quái vật thay đổi theo mùa. Xoay xở với những biến số đó khiến nghề mạo hiểm giả tốn thời gian và vất vả hơn người ngoài tưởng tượng nhiều. Ngày này qua ngày khác làm những việc như thế chẳng phải chuyện chơi, nên khi xong xuôi ai nấy đều thấy có chút tự hào. Augurey chưa đến mức bất mãn, nhưng anh vẫn muốn đổi gió cho khuây khỏa chuỗi ngày rập khuôn ấy.
 
-Phần lớn nguyên do bắt nguồn từ tính ghét sự tẻ nhạt của Augurey. Mạo hiểm giả Ngân Cấp kiếm đủ tiền để sau một thập kỷ làm việc chăm chỉ và tích cóp, họ có thể sở hữu một khoản tiết kiệm kếch xù đủ để an hưởng tuổi già sớm. Không hiếm mạo hiểm giả chọn hoàn thành những ủy thác lặp đi lặp lại nhưng thù lao hậu hĩnh để hướng tới việc giải nghệ an toàn, thay vì mải miết theo đuổi vinh quang hay cấp bậc cao hơn. Đó là điều mà những mạo hiểm giả "khôn ngoan" vẫn làm.
+Lý do lớn nhất là vì Augurey rất ghét sự nhàm chán. Mạo hiểm giả Ngân Cấp kiếm đủ tiền đến mức chỉ cần chăm chỉ làm lụng và tằn tiện chừng mười năm là đã có một khoản tích cóp kha khá để giải nghệ sớm. Chẳng hiếm mạo hiểm giả chọn đều đặn nhận những việc nhàm chán nhưng thù lao cao để chuẩn bị cho tương lai an nhàn lúc về già, thay vì mải mê theo đuổi danh vọng hay thứ hạng cao hơn. Đó mới là cách làm của những mạo hiểm giả "khôn ngoan".
 
-Những kẻ theo đuổi cấp bậc cao hơn Ngân Cấp—Kim Cấp, Mithril Cấp và Bạch Kim Cấp—đều có một hoặc hai con ốc bị lỏng trong đầu. Họ là kiểu ngốc nghếch đặc biệt, những kẻ tìm kiếm cảm giác mạnh và sự phấn khích tột cùng hơn là tiền thù lao. Họ khao khát sự nguy hiểm và những khoảnh khắc ngàn cân treo sợi tóc cận kề cái chết hơn là sự êm ấm của một cuộc sống buồn tẻ thanh bình.
+Những kẻ theo đuổi cấp bậc cao hơn Ngân Cấp — Kim Cấp, Mithril Cấp và Bạch Kim Cấp — đầu óc đều có chỗ lỏng ốc. Họ là những kẻ ngốc nghếch khác người, thích săn tìm cảm giác mạnh và phấn khích hơn là tiền bạc. Họ thèm khát hiểm nguy và những phen thập tử nhất sinh hơn là sự an nhàn của một cuộc đời êm ả tẻ nhạt.
 
-Augurey, không chút nghi ngờ, chính là một trong những kẻ ngốc nghếch ấy. Rentt, và nhiều khả năng là cả Lorraine nữa, cũng cùng một giuộc với anh. Dù Augurey hiểu rõ những ủy thác tẻ nhạt kia là bàn đạp để anh tìm kiếm sự phấn khích, anh vẫn không khỏi cảm thấy chúng thật ảm đạm.
+Augurey rõ ràng chính là một trong những kẻ ngốc nghếch ấy. Rentt, và nhiều khả năng là cả Lorraine nữa, cũng cùng một giuộc với anh. Dù Augurey hiểu rõ những ủy thác buồn tẻ kia chỉ là bước đệm trên con đường tìm kiếm cảm giác phấn khích, anh vẫn chẳng thể nào nuốt nổi cái sự chán ngắt của chúng.
 
-Sau khi nghe một phiên bản tóm lược của câu chuyện này, Ferrici bình thản nói một cách đầy tỉnh táo: "Tôi thà sống một cuộc đời an toàn và thoải mái, không phải lo lắng chuyện cơm áo gạo tiền còn hơn."
+Nghe xong câu chuyện đã được tóm gọn lại, Ferrici tỉnh bơ đáp: "Tôi thì thà sống một đời an ổn, thanh thản, chẳng phải lo chuyện cơm áo gạo tiền còn hơn."
 
-Bất kỳ người bình thường nào cũng sẽ đồng tình với Ferrici. Những kẻ không nghĩ như vậy thì đã trở thành mạo hiểm giả, và chỉ những mạo hiểm giả kiên định với triết lý sống của riêng mình mới có thể leo lên các thứ hạng cao hơn. Cấp bậc của một mạo hiểm giả vừa là minh chứng cho thực lực, vừa là biểu hiện cho sự ngốc nghếch của chính họ. Dù có phản đối đến đâu, các mạo hiểm giả cũng sẽ phải đồng tình với suy nghĩ ấy, ít nhất là từ tận đáy lòng.
+Bất kỳ người bình thường nào cũng sẽ đồng tình với Ferrici. Ai không nghĩ thế mới đi làm mạo hiểm giả, và chỉ những mạo hiểm giả kiên định với triết lý của riêng mình mới có thể leo lên các thứ hạng cao hơn. Cấp bậc của một mạo hiểm giả vừa là thước đo thực lực, vừa là bằng chứng cho thấy họ ngốc nghếch đến mức nào. Dù ngoài miệng có chối đây đẩy thì sâu thẳm trong lòng, mạo hiểm giả nào cũng phải thừa nhận điều đó.
 
-"Giá mà tôi cũng có thể nghĩ được như thế," Augurey thở dài nói. "Thì tôi đã chẳng bỏ trốn khỏi quê nhà và cuộc sống bình yên vốn đã được sắp đặt sẵn cho mình."
+"Giá mà tôi cũng nghĩ được như em," Augurey thở dài. "Thế thì tôi đã chẳng trốn khỏi quê nhà, vứt bỏ cuộc sống yên ấm đã được dọn sẵn cho mình."
 
-"Gia đình anh giàu có lắm sao, Augurey?" Ferrici hỏi.
+"Nhà anh giàu lắm hả, Augurey?" Ferrici hỏi.
 
-Nếu câu hỏi này thốt ra từ miệng một cô gái trẻ ở vương đô, hẳn nó sẽ khiến Augurey tự hỏi liệu cô ta có phải là kẻ đào mỏ hay không, nhưng giọng điệu của Ferrici lại trong trẻo và chẳng chứa đựng điều gì ngoài sự tò mò thuần túy.
+Nếu câu hỏi này do một cô gái trẻ ở vương đô thốt ra, hẳn Augurey đã nghi ngờ cô nàng muốn đào mỏ; nhưng giọng điệu của Ferrici lại hoàn toàn là sự tò mò đơn thuần.
 
-"Tôi vốn sẽ chẳng bao giờ phải động tay làm việc lấy một ngày trong đời," Augurey nhận xét.
+"Tôi vốn chẳng bao giờ phải động tay làm việc lấy một ngày trong đời đâu," Augurey cười bảo.
 
-"Nhưng anh lại từ bỏ nó để làm một mạo hiểm giả ư...?"
+"Thế mà anh lại bỏ hết để đi làm mạo hiểm giả ư...?"
 
-"Phải, và tôi chưa từng hối hận. Mỗi ngày trôi qua tôi đều thấy cực kỳ vui vẻ. Đi cùng Rentt và Lorraine thì chẳng bao giờ buồn chán cả. Những điều phấn khích cứ liên tục ập đến với tôi, hết chuyện này tới chuyện khác."
+"Tôi bỏ chứ, mà chẳng hối hận chút nào. Ngày nào cũng vui hết sảy. Đi với Rentt và Lorraine thì chẳng bao giờ biết chán là gì. Mấy chuyện kích thích cứ thế tự tìm đến, hết việc này tới việc khác."
 
-"Một sự phấn khích kiểu như cô gái anh gặp ở quán rượu tìm cách đâm anh bằng dao ấy à?"
+"Kích thích kiểu vừa gặp một cô gái ở quán rượu là bị cô ta cầm dao đâm lén ấy hả?"
 
-"Đúng thế. Ờ thì, có lẽ chuyện đó cũng không vui tới mức ấy." Augurey nhún vai rồi mỉm cười với Ferrici, và cô cũng mỉm cười đáp lại. Nhìn thấy cô đã đủ bình tâm để có thể đem tình cảnh trớ trêu của mình ra nói đùa khiến anh cảm thấy nhẹ nhõm phần nào.
+"Đúng thế. Ừ thì... vụ đó có lẽ cũng chẳng vui đến mức ấy." Augurey nhún vai mỉm cười với Ferrici, và cô cũng cười đáp lại. Thấy cô đã đủ bình tâm để lấy tình cảnh oái oăm của mình ra đùa, anh cũng cảm thấy nhẹ nhõm phần nào.
 
-"Nhà tôi ở đằng kia," cô nói, chỉ tay về phía một căn nhà.
+"Nhà tôi đằng kia," cô vừa nói vừa chỉ tay về phía một căn nhà.
 
-Cả hai tiến lại gần ngôi nhà nằm tách biệt ở rìa làng, nơi tuyệt nhiên không thấy một bóng người nào khác. Augurey thầm mừng vì mình đã đưa ra quyết định đúng đắn khi đi cùng đưa cô về tận nhà. Anh cũng rảo bước nhanh hơn, đơn thuần chỉ để cha mẹ Ferrici không phải lo lắng cho cô thêm một phút giây nào nữa.
+Cả hai tiến lại gần ngôi nhà nằm tách biệt ở rìa làng, xung quanh tịnh không một bóng người. Augurey thầm mừng vì mình đã đúng đắn khi đưa cô về tận nơi. Anh cũng rảo bước nhanh hơn, chỉ để cha mẹ Ferrici khỏi phải thắc thỏm lo thêm phút nào.
 
 ◆◇◆◇◆
 
 "Ferrici! Con đi đâu mà đến tận giờ này mới về?!"
 
-Dẫu Augurey đã cố gắng hết sức, khi họ tới nơi thì đón chào họ là một người đàn ông đang hớt hải chạy tới. Đứng cạnh người đàn ông là một phụ nữ mang dáng dấp y hệt như những gì Augurey hình dung về Ferrici ba mươi năm sau.
+Dù Augurey đã cố đi thật nhanh, nhưng vừa tới nơi thì một người đàn ông đã hớt hải chạy ùa ra đón họ. Cạnh người đàn ông là một phụ nữ mang dáng dấp y hệt như những gì Augurey hình dung về Ferrici ba mươi năm sau.
 
-"Hai bác hẳn là cha mẹ của Ferrici," Augurey nói. "Tôi thành thật xin lỗi hai bác. Ferrici về muộn không phải do lỗi của cô bé đâu ạ. Đã có một tình huống phức tạp xảy ra..."
+"Hai bác hẳn là cha mẹ của Ferrici," Augurey nói. "Tôi thành thật xin lỗi hai bác. Ferrici về muộn không phải lỗi tại em ấy đâu ạ. Chuyện là tối nay có chút việc rắc rối xảy ra..."
 
-Lời ăn tiếng nói trôi chảy của Augurey hẳn đã khiến anh có vẻ đáng ngờ, bởi cha của Ferrici đang nhìn Augurey bằng ánh mắt dò xét. Thoạt nhìn thì ánh mắt ấy chẳng biểu lộ điều gì rõ rệt, nhưng Augurey có cảm giác người đàn ông đang chuẩn bị bắt kẻ đã giữ con gái mình ở bên ngoài suốt đêm phải chịu trách nhiệm.
-
-◆◇◆◇◆
-
-"Rốt cuộc cậu đang vướng vào tình huống gì?" Leo, cha của Ferrici, cất tiếng hỏi.
-
-Ông và Lenora, mẹ của Ferrici, vừa mới giới thiệu tên mình với Augurey, và giờ đây tất cả họ đang ngồi quanh chiếc bàn bên trong ngôi nhà. Augurey đã giải thích với họ rằng anh là một mạo hiểm giả đến làng để thực hiện một ủy thác.
-
-"Cha, con nghĩ cha hiểu lầm rồi đấy ạ!" Ferrici lên tiếng thanh minh, nhưng đáp lại cô chỉ là một cái liếc nhìn từ người cha.
-
-Ông đối diện với Augurey bằng vẻ mặt hết sức bình tĩnh, nhưng Augurey cảm nhận được cơn thịnh nộ đang sục sôi bên dưới vẻ ngoài điềm tĩnh ấy. Nhận thấy Leo thực sự đã hiểu lầm, Augurey quyết định mình sẽ phải giải tỏa khúc mắc này càng nhanh càng tốt.
-
-Bị cha phớt lờ, Ferrici toan quay sang giãi bày với mẹ, nhưng Augurey đã đặt tay lên vai ngăn cô lại rồi trao cho cô một ánh mắt như muốn nói: "Cứ để tôi lo."
-
-Ngay cả cử chỉ ấy dường như cũng làm bùng thêm cơn giận của Leo; hai nắm tay ông siết lại khẽ đến mức gần như vô hình, điều mà bất kỳ ai kém tinh tường hơn Augurey cũng sẽ bỏ sót. Anh tôn trọng việc Leo biết kiềm chế cảm xúc và sẵn sàng lắng nghe mình nói, dù ông đang đinh ninh rằng anh là một gã ất ơ nào đó đã lợi dụng con gái mình.
-
-Nhận định rằng đôi bên có thể trò chuyện một cách lý trí, Augurey bắt đầu: "Như tôi đã nói, Ferrici không về nhà cho tới tận bây giờ hoàn toàn không phải do lỗi của cô bé."
-
-Anh nói bằng giọng chân thành và thẳng thắn, gác lại vẻ cợt nhả thường ngày. Khi hoàn cảnh bắt buộc, anh hoàn toàn có thể tỏ ra đĩnh đạc đứng đắn. Các mạo hiểm giả Ngân Cấp thường nhận ủy thác từ quý tộc và thậm chí còn được mời tới tham dự vài bữa tiệc của giới thượng lưu, nên họ buộc phải trang bị cho mình lễ nghi ứng xử đàng hoàng. Một số mạo hiểm giả cố chấp cự tuyệt mọi quy tắc xã giao hay thậm chí không thèm giao tiếp với quý tộc, nhưng Augurey không phải kiểu người bướng bỉnh như thế. Miễn sao lương tâm mình thanh thản, anh sẵn sàng làm bất cứ điều gì cần thiết.
-
-"Thế thì đó là lỗi của ai?" Leo hỏi với giọng điệu không hề mang chút kết tội nào đáng khâm phục, dù chẳng còn nghi ngờ gì việc ông đang muốn đổ hết mọi tội lỗi lên đầu Augurey và đấm nát mặt anh.
-
-Biết ơn sự điềm tĩnh của Leo, Augurey nói tiếp: "Là lỗi của kẻ đã gây ra những biến cố đêm nay. Xin hãy để tôi kể lại từ đầu..."
-
-Augurey sau đó thuật lại cho Leo nghe toàn bộ những chuyện đã xảy ra. Leo, người vốn đinh ninh sắp sửa nghe vài lời bao biện cho việc tại sao Augurey lại dắt con gái mình đi thâu đêm suốt sáng, bàng hoàng khi nghe một câu chuyện hoàn toàn nằm ngoài dự liệu. Thông tin con gái mình bị lợi dụng làm con tốt trong một âm mưu tà ác nhắm vào ngôi làng thanh bình của họ giáng xuống đầu ông như một tiếng sét. Ông vội vã bật dậy, loạng choạng rồi lại ngồi thụp xuống ghế.
-
-Hít một hơi thật sâu, Leo hỏi: "Tất cả những chuyện đó... thực sự đã xảy ra sao?" Trái ngược với giọng điệu đầy quả quyết trước đó, giờ đây Leo nghe có vẻ đầy âu lo, kinh ngạc và thậm chí có phần hối lỗi.
-
-"Tôi đâu thể bịa ra một câu chuyện như thế này được ạ," Augurey đáp. "Tôi đoán tin tức vẫn chưa truyền tới tận vùng rìa làng xa xôi này, nhưng đến ngày mai thì nó sẽ là đề tài bàn tán khắp làng thôi."
-
-"Tôi hiểu rồi... Dù sao thì tôi cũng không nghĩ cậu có lý do gì để nói dối về chuyện này. Chỉ là tôi thấy không thể tin nổi thôi." Leo nhìn chăm chú vào Augurey với ánh mắt đầy quả quyết. "Tôi xin cậu..."
-
-"Vâng?"
-
-"Xin cậu hãy tha thứ cho những gì Ferrici đã làm. Tôi sẽ làm bất cứ điều gì trong khả năng của mình để chuộc lại lỗi lầm này. Nếu cậu bảo tôi phải đền mạng cho tội lỗi của con bé, tôi cũng—!"
-
-"Không được đâu anh!" Lenora hét lên.
-
-Nước mắt lưng tròng, Leo đặt tay lên vai vợ. "Lenora, hãy bảo vệ an toàn cho Ferrici!"
-
-Rõ ràng là Leo nghĩ rằng Augurey áp giải Ferrici về nhà để đòi một khoản bồi thường nào đó cho vụ tấn công. Đúng là nếu ở vào vị trí của Augurey, không ít mạo hiểm giả sẽ làm vậy, nhưng anh đâu có ý định tống tiền hay sách nhiễu họ.
-
-Anh vội vàng thanh minh: "Không, tôi đâu có đòi hỏi điều gì ở hai bác đâu ạ! Tôi và Ferrici đã bàn bạc chuyện này xong xuôi rồi!"
-
-Khổ nỗi, đó lại là một cách dùng từ vụng về tệ hại. Leo quay sang con gái mình van vỉ: "Ferrici! Tương lai con còn dài lắm! Con phải nghĩ cho tương lai của mình chứ!"
-
-Augurey thầm quằn quại trong lòng khi hiểu lầm ngày càng trở nên trầm trọng hơn. Nhìn lại thì anh nhận ra đây là kết luận hết sức tự nhiên mà các bậc cha mẹ sẽ nghĩ tới. Mạo hiểm giả vốn là hiện thân của bạo lực. Cả ngôi làng có khi cùng cầm vũ khí đứng lên chống lại một mạo hiểm giả đơn độc cũng chẳng nắm nổi lấy một phần cơ hội chiến thắng.
-
-Một yêu sách quá quắt bỗng chốc trở nên khó lòng từ chối khi nó xuất phát từ miệng một mạo hiểm giả. Giờ đây, khi một kẻ như thế bất ngờ gõ cửa nhà họ—kèm theo tin sét đánh rằng con gái họ suýt nữa đã giết chết anh ta, dẫu là do bị thuật thao túng tinh thần khống chế—cha mẹ Ferrici đã mất hết lý trí. Nhưng nói đi cũng phải nói lại, rất nhiều mạo hiểm giả hẳn sẽ nhân cơ hội này mà tống tiền họ.
-
-Augurey hối hận vì đã không suy nghĩ kỹ cách dẫn dắt câu chuyện từ trước. Dẫu vậy, anh sẽ phải cố hết sức để xoa dịu tình hình căng thẳng này.
+Lời ăn tiếng nói quá đỗi trơn tru của Augurey hẳn đã khiến anh có vẻ đáng ngờ, bởi cha của Ferrici đang nhìn anh một cái. Thoạt nhìn ánh mắt ấy chẳng biểu lộ điều gì rõ rệt, nhưng Augurey linh cảm người đàn ông đang sẵn sàng lôi kẻ khiến con gái mình đi qua đêm ra tính sổ.
 
 ◆◇◆◇◆
 
-Nửa giờ sau...
+"Rốt cuộc là có chuyện rắc rối gì?" Leo, cha của Ferrici, cất tiếng gặng hỏi.
 
-Leo mỉm cười thở phào nhẹ nhõm. "Ồ, giờ thì tôi hiểu rồi! Sao cậu không nói rõ ngay từ đầu? Tôi cứ tưởng mình sắp lên cơn đau tim đến nơi rồi chứ."
+Ông cùng Lenora, mẹ của Ferrici, vừa mới giới thiệu tên với Augurey, rồi cả nhóm quây quần quanh chiếc bàn trong nhà. Augurey cũng đã giải thích mình là mạo hiểm giả đến làng làm ủy thác.
 
-"Cha à, con đã bảo cha nghe người ta nói rồi mà," Ferrici nói.
+"Cha, con nghĩ cha hiểu lầm rồi!" Ferrici vội thanh minh, nhưng cha cô chỉ liếc nhìn con gái một cái.
 
-"Tôi xin lỗi cậu. Trước giờ chưa từng có chuyện gì tương tự xảy ra cả, nên tôi đã mất bình tĩnh. Tôi chỉ muốn bảo vệ gia đình mình thôi."
+Ông nhìn thẳng vào Augurey với vẻ mặt hết sức bình thản, nhưng Augurey cảm nhận được cơn giận đang sục sôi bên dưới vẻ ngoài điềm tĩnh ấy. Thấy Leo quả thực đang hiểu lầm, Augurey quyết định phải gỡ bỏ khúc mắc này càng sớm càng tốt.
 
-"Tôi rất mừng khi có thể nói rằng bác không cần phải lo lắng điều đó," Augurey trấn an ông. "Tôi chỉ đến để giải thích lý do vì sao Ferrici chưa về nhà, chứ không phải để đòi hỏi bất kỳ điều gì. Chỉ là hai bác hãy cẩn thận trong một thời gian tới." Augurey cũng muốn nhắc nhở họ đề phòng, bởi một trong những kẻ thủ ác vẫn đang nhởn nhơ ngoài vòng pháp luật, và anh cảm thấy có chút áy náy vì không thể bộc bạch cởi mở hơn với họ về chuyện này.
+Thấy cha làm ngơ, Ferrici toan quay sang giãi bày với mẹ, nhưng Augurey đã đặt tay lên vai ngăn cô lại rồi ra hiệu bằng ánh mắt như muốn bảo: "Cứ để tôi lo."
 
-"Chúng tôi sẽ cẩn thận," Leo đoan chắc với anh. "Và này, Augurey?"
+Ngay cả cử chỉ ấy dường như cũng như đổ thêm dầu vào cơn giận của Leo; hai nắm tay ông siết lại khẽ đến mức người nào kém tinh ý hơn Augurey hẳn đã bỏ qua. Anh thầm nể Leo vì vẫn kiềm chế được cảm xúc và chịu ngồi nghe mình giãi bày, dù trong bụng đinh ninh anh là gã ất ơ nào đó vừa lợi dụng con gái mình.
 
-"Vâng?" Augurey đáp lại, khẽ nghiêng đầu sang một bên.
+Thấy đối phương vẫn có thể nói chuyện lý lẽ, Augurey mở lời: "Như tôi đã thưa, chuyện Ferrici đến giờ này mới về hoàn toàn không phải lỗi tại em ấy."
 
-"Cảm ơn cậu, thực sự cảm ơn cậu. Theo những gì tôi nghe được, đáng lẽ Ferrici đã có thể bị mất mạng rồi. Đúng vậy không?"
+Anh nói bằng giọng chân thành và thẳng thắn, gác lại vẻ tưng tửng thường ngày. Những lúc cần thiết, anh vẫn có thể tỏ ra vô cùng đứng đắn. Mạo hiểm giả Ngân Cấp thường làm việc cho quý tộc và thậm chí còn được mời dự tiệc thượng lưu, nên họ buộc phải nắm vững quy tắc lễ nghi tương đối đàng hoàng. Vài mạo hiểm giả cố chấp cự tuyệt mọi phép xã giao hay chẳng thèm qua lại với quý tộc, nhưng Augurey không phải mẫu người bướng bỉnh như thế. Miễn giữ cho lương tâm thanh thản, bảo anh làm gì anh cũng sẵn lòng.
 
-"Cô bé..." Cô bé hoàn toàn có thể đã mất mạng, nếu Augurey chịu nói thật lòng. Anh sẽ thẳng tay lấy mạng cô nếu tính mạng bản thân bị đe dọa, và một mạo hiểm giả nóng tính hơn hẳn đã làm điều đó chỉ đơn giản vì bị tấn công. Làm vậy sẽ dễ dàng hơn nhiều so với việc bắt sống và khống chế Ferrici.
+"Thế rốt cuộc là lỗi tại ai?" Leo gặng hỏi. Giọng ông bình tĩnh đến mức đáng khâm phục mà không vương chút trách móc, dù trong bụng hẳn đang muốn đổ hết tội lên đầu Augurey và đấm cho anh nát mặt.
 
-Như thể đọc được suy nghĩ của Augurey, Leo nói: "Tôi không biết phải cảm ơn cậu thế nào cho xiết, Augurey à. Tôi nợ cậu mạng sống của con gái mình..."
+Thấy Leo kiềm chế được như vậy, Augurey thầm cảm kích rồi tiếp lời: "Là do kẻ đã giật dây mọi chuyện đêm nay. Xin hai bác hãy để tôi kể lại từ đầu..."
 
-Augurey lắc đầu. "Xin bác đừng nói vậy, thật sự không cần thiết đâu ạ."
+Augurey bèn thuật lại toàn bộ đầu đuôi sự việc. Leo vốn chuẩn bị tinh thần nghe những lời ngụy biện cho việc gã trai lạ dẫn con gái mình đi qua đêm, nên khi nghe câu chuyện hoàn toàn nằm ngoài tưởng tượng, ông bàng hoàng đến chết lặng. Tin tức con gái bị biến thành con tốt trong một âm mưu đen tối nhằm vào ngôi làng thanh bình giáng xuống đầu ông như sét đánh ngang tai. Ông hốt hoảng bật dậy, lảo đảo một nhịp rồi lại ngồi thụp xuống ghế.
 
-Lenora, và cả Ferrici, người vừa nhận ra mình chỉ có thể sống sót trở về là nhờ có Augurey, bắt đầu rối rít cảm ơn anh. Vì Augurey biết rõ chính tổ đội của mình mới là nguyên nhân khiến toàn bộ cơ sự này xảy ra, anh tha thiết nài nỉ họ dừng lại.
+Leo hít một hơi thật sâu rồi hỏi: "Tất cả những chuyện đó... là thật sao?" Trái với vẻ quả quyết lúc trước, giọng ông giờ đây đầy vẻ lo âu, bàng hoàng, thậm chí còn thoáng nét áy náy.
 
-Một khi cả gia đình thôi bày tỏ lòng biết ơn, và sau một hồi thuyết phục, Augurey toan cáo từ rời đi.
+"Chuyện tày đình thế này tôi bịa ra sao được ạ," Augurey đáp. "Chắc tin tức chưa kịp truyền tới tận rìa làng, nhưng đến sáng mai thì cả làng sẽ xôn xao bàn tán chuyện này cho mà xem."
 
-"Nếu có bất cứ điều gì chúng tôi có thể làm cho cậu, xin hãy cứ nói cho chúng tôi biết nhé," Leo nói.
+"Tôi hiểu rồi... Mà cậu cũng chẳng có lý do gì để đặt điều chuyện này. Chỉ là nghe khó tin quá." Ánh mắt Leo đột nhiên trở nên kiên quyết, ông nhìn thẳng vào Augurey: "Tôi van cậu..."
 
-"Có thể những gì chúng tôi làm được cho một mạo hiểm giả chẳng đáng là bao, nhưng chúng tôi sẽ làm hết sức mình trong khả năng để giúp đỡ cậu."
+"Dạ?"
 
-Augurey mỉm cười. "Thực sự hai bác không cần phải làm gì cho tôi đâu ạ. Chúc cả nhà ngủ ngon."
+"Xin cậu rộng lòng tha thứ cho những việc con Ferrici đã làm. Tôi sẽ làm mọi chuyện trong khả năng để chuộc lại lỗi lầm này. Dù cậu có bắt tôi phải đền mạng cho tội của con bé, tôi cũng—!"
 
-Ferrici cùng cha mẹ dõi mắt nhìn theo bóng Augurey khuất dần.
+"Không được đâu mình ơi!" Lenora thảng thốt kêu lên.
 
-Khi anh đã đi xa, Leo nói với Ferrici: "Con may mắn lắm mới đụng phải một mạo hiểm giả đứng đắn đấy."
+Nước mắt lưng tròng, Leo đặt tay lên vai vợ: "Lenora, mình phải bảo vệ con!"
 
-"Vâng ạ. Con nghe nói Augurey là một mạo hiểm giả Ngân Cấp đấy."
+Hóa ra Leo lại tưởng Augurey dẫn Ferrici về tận nhà là để đòi tiền bồi thường cho vụ ám sát. Đúng là nếu ở vào vị trí của Augurey, khối mạo hiểm giả sẽ làm vậy thật, nhưng anh nào có ý định tống tiền hay gây khó dễ cho họ.
 
-"N-Ngân Cấp ư?! Đáng nể thật đấy."
+Anh vội xua tay phân bua: "Kìa, tôi đâu có đòi hỏi gì ở hai bác đâu ạ! Chuyện này tôi với Ferrici đã nói chuyện xong xuôi rồi mà!"
 
-Một mạo hiểm giả ở thứ hạng đó gần như là huyền thoại đối với những người ở một ngôi làng hẻo lánh—chẳng khác nào một con quái vật. Leo sẽ chẳng bao giờ đoán được Augurey lại là người như vậy.
+Ngặt nỗi, đó lại là một câu lỡ lời tai hại. Leo hoảng hốt quay sang van nài con gái: "Ferrici! Đời con còn dài lắm! Con phải nghĩ cho tương lai của mình chứ!"
 
-"Theo những gì họ kể cho con, con đã tìm cách đâm lén anh ấy từ phía sau, nhưng anh ấy đã khống chế con mà không khiến con bị xây xát lấy một vết."
+Augurey méo mặt than thầm trong bụng khi thấy hiểu lầm càng lúc càng trượt đi quá xa. Nghĩ kỹ lại, bậc làm cha mẹ rơi vào hoàn cảnh này nghĩ vậy cũng là lẽ thường. Mạo hiểm giả vốn là hiện thân của bạo lực. Dù cả làng có cầm vũ khí đứng lên chống lại một mạo hiểm giả đơn độc thì cũng chẳng có lấy một phần cơ hội thắng.
 
-"Một đứa con gái trẻ như con có thể không phải mối đe dọa lớn, nhưng thế vẫn là quá ấn tượng. Cha thực sự thấy biết ơn vì người con tấn công lại là Augurey. Cha ước gì chúng ta có thể cảm ơn cậu ấy một cách đàng hoàng, nhưng một mạo hiểm giả như thế thừa sức mua được bất cứ thứ gì chúng ta có thể biếu tặng. Chúng ta biết làm gì được đây?"
+Một yêu sách quá quắt đến mấy cũng trở nên khó lòng từ chối một khi đã thốt ra từ miệng mạo hiểm giả. Đằng này, một kẻ như thế lại đùng đùng gõ cửa nhà họ giữa đêm, kèm theo tin sét đánh rằng con gái họ suýt nữa đã lấy mạng anh ta (dù là do bị thuật thao túng tinh thần khống chế), bảo sao cha mẹ Ferrici chẳng cuống cuồng mất hết bình tĩnh. Mà cũng khó trách họ, bởi ngoài kia khối mạo hiểm giả sẵn sàng nhân cơ hội này mà tống tiền thật.
 
-"Điều duy nhất em có thể nghĩ ra lúc này là chuẩn bị đồ ăn cho họ mang theo khi rời khỏi làng," Lenora gợi ý.
+Augurey tự trách mình đã không tính trước cách mở lời cho cẩn thận. Dù sao đi nữa, lúc này anh vẫn phải dốc sức xoa dịu tình hình.
 
-"Đó không phải là ý tồi đâu. Chắc họ cũng phát ngấy mấy món lương khô bảo quản rồi. Được, chúng ta cứ làm thế đi," Leo đồng tình khi cả nhà cùng quay trở vào trong.
+◆◇◆◇◆
 
-"Cảm ơn anh ấy... Phải rồi..." Ferrici lẩm bẩm một mình khi cất bước theo cha mẹ vào nhà. Căn nhà của cô thật ấm áp, và cô rất mong ngóng một giấc ngủ ngon lành suốt đêm, nhưng cô tự dặn lòng nhất định không được ngủ quên.
+Nửa tiếng sau...
+
+Leo thở phào nhẹ nhõm, nở nụ cười: "Ồ, ra là thế! Sao cậu không nói toẹt ra từ đầu? Làm tôi cứ tưởng mình sắp đau tim đến nơi rồi chứ."
+
+"Cha này, con đã bảo cha chịu nghe người ta nói hết câu rồi mà," Ferrici làu bàu.
+
+"Tôi xin lỗi cậu nhé. Trước giờ ở đây chưa từng có chuyện gì như thế, nên tôi mới quýnh quáng mất bình tĩnh. Tôi cũng chỉ muốn bảo vệ gia đình mình thôi."
+
+"Bác không cần phải bận tâm chuyện đó đâu ạ," Augurey trấn an ông. "Tôi ghé qua chỉ để giải thích lý do Ferrici về muộn, chứ tuyệt đối không có ý đòi hỏi gì cả. Có điều, dạo này hai bác cũng nên cẩn thận một chút." Augurey muốn dặn họ đề phòng vì một trong những kẻ thủ ác vẫn đang nhởn nhơ ngoài vòng pháp luật; anh chỉ hơi áy náy vì không thể nói rõ ngọn ngành cho họ biết.
+
+"Chúng tôi sẽ chú ý," Leo cam đoan. "À mà này, Augurey?"
+
+"Dạ?" Augurey đáp lại, khẽ nghiêng đầu.
+
+"Thực lòng cảm ơn cậu rất nhiều. Theo lời cậu kể thì suýt nữa con bé đã mất mạng rồi, đúng không?"
+
+"Em ấy..." Đúng ra là em ấy hoàn toàn có thể mất mạng thật, nếu Augurey nói thật lòng. Bản thân anh cũng sẽ thẳng tay hạ sát nếu tính mạng bị đe dọa, còn với những mạo hiểm giả nóng tính thì chỉ riêng việc bị tấn công thôi cũng đủ để họ vung kiếm rồi. Làm thế còn dễ hơn nhiều so với việc bắt sống và khống chế Ferrici.
+
+Như đọc được suy nghĩ của Augurey, Leo xúc động nói: "Tôi chẳng biết phải cảm ơn cậu thế nào cho xiết, Augurey à. Cậu đã cứu mạng con gái tôi..."
+
+Augurey lắc đầu: "Bác đừng nói thế, có gì đâu ạ."
+
+Lenora và cả Ferrici — lúc này mới thấu rằng mình còn giữ được mạng trở về hoàn toàn là nhờ Augurey — cũng bắt đầu rối rít cảm ơn anh. Biết rõ chính nhóm của mình mới là căn nguyên khiến mọi chuyện ra nông nỗi này, Augurey đành hết lời xin họ đừng khách sáo nữa.
+
+Phải mất một hồi ra sức thuyết phục, cả nhà mới chịu thôi cảm ơn, và Augurey bèn xin phép cáo từ.
+
+"Nếu có chuyện gì chúng tôi giúp được cho cậu, cậu cứ bảo nhé," Leo nói.
+
+"Dân làng chúng tôi có lẽ chẳng giúp được gì nhiều cho mạo hiểm giả, nhưng việc gì trong khả năng thì chúng tôi nhất định sẽ dốc lòng giúp cậu."
+
+Augurey mỉm cười: "Hai bác thật lòng không cần bận tâm đâu ạ. Chúc cả nhà ngủ ngon."
+
+Ferrici cùng cha mẹ dõi mắt nhìn theo bóng Augurey xa dần.
+
+Đợi anh đi khuất, Leo mới bảo Ferrici: "Con may mắn lắm mới đụng phải một mạo hiểm giả đàng hoàng đấy."
+
+"Vâng. Con nghe bảo anh Augurey là mạo hiểm giả Ngân Cấp đấy ạ."
+
+"N-Ngân Cấp cơ á?! Ghê gớm thật đấy."
+
+Đối với dân cư ở một ngôi làng hẻo lánh, mạo hiểm giả cấp bậc ấy chẳng khác nào nhân vật trong truyền thuyết — hoặc nói trắng ra là một con quái vật. Leo nhìn vẻ ngoài chẳng bao giờ ngờ Augurey lại là người như thế.
+
+"Nghe mọi người kể lại thì con đã tìm cách đâm lén anh ấy từ sau lưng, thế mà anh ấy vẫn khống chế được con mà không để con xây xát lấy một vết."
+
+"Con gái con lứa như con có thể chẳng đe dọa được ai, nhưng làm được thế vẫn quá cừ. Cha thực lòng mừng vì người con tấn công là Augurey. Giá mà mình có thể cảm ơn cậu ấy đàng hoàng một chút, ngặt nỗi mạo hiểm giả cỡ đó thì thứ gì mình có cậu ấy chả thừa sức mua được. Giờ biết làm sao đây?"
+
+"Lúc này em chỉ nghĩ được mỗi cách là gói ghém ít đồ ăn cho họ mang theo khi rời làng thôi," Lenora góp ý.
+
+"Ý kiến hay đấy chứ. Đi đường mãi chắc họ cũng ngấy lương khô lắm rồi. Được, nhà mình cứ làm thế đi," Leo gật gù tán thành khi cả nhà cùng quay vào trong.
+
+"Cảm ơn anh ấy... Phải rồi..." Ferrici lẩm bẩm một mình khi bước theo cha mẹ vào nhà. Căn nhà của cô thật ấm áp, cô thèm một giấc ngủ thật ngon suốt đêm, nhưng vẫn không quên tự nhắc mình sáng mai nhất định không được ngủ quên.
