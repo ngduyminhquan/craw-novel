@@ -4,164 +4,164 @@ Sáng hôm sau...
 
 "À, Rentt và Lorraine. Tôi nhận được lời nhắn từ hội bảo hai người qua bên đó đấy."
 
-Trong lúc chúng tôi đang dùng bữa sáng, chủ quán trọ đi ngang qua và để lại lời nhắn ngắn gọn ấy.
+Trong lúc chúng tôi đang ăn sáng, bác chủ quán trọ đi ngang qua bàn và nhắn lại mấy lời ngắn gọn.
 
-"Cô nghĩ là tin từ Jean sao?" tôi hỏi Lorraine. Tâm trí tôi lập tức liên tưởng đến ông ấy, bởi ngày hôm qua người đàn ông đó đã để lại ấn tượng quá đỗi sâu đậm trong tôi.
+"Cô nghĩ là do Jean nhắn à?" tôi hỏi Lorraine. Tôi nghĩ ngay đến ông ấy, bởi cuộc gặp hôm qua để lại ấn tượng quá sâu.
 
-Lorraine lắc đầu. "Không, tôi không nghĩ vậy. Chắc là về chuyện kia đấy. Anh biết mà, chuyện từ mấy hôm trước ấy?"
+Lorraine lắc đầu. "Không, chắc không phải đâu. Khả năng là vụ kia đấy. Cái chuyện mấy hôm trước ấy, anh nhớ không?"
 
-"Ồ! Cô nói phải..."
+"À! Đúng rồi nhỉ..."
 
-Tôi thoáng bối rối một chút khi cô bảo không phải Jean, nhưng rồi tôi nhanh chóng nhận ra cô đang nói tới điều gì. Để người ủy thác phải chờ đợi thì không hay chút nào, vậy nên chúng tôi vội vã ăn cho xong bữa sáng rồi lập tức lên đường đến Hội Mạo Hiểm Giả.
+Tôi thoáng bối rối khi cô ấy bảo không phải Jean, nhưng rồi nhanh chóng nhận ra cô ấy đang nói tới chuyện gì. Để người ủy thác phải đợi thì chẳng hay chút nào, nên chúng tôi nhanh chóng ăn cho xong bữa sáng rồi tới thẳng Hội Mạo Hiểm Giả.
 
 ◆◇◆◇◆
 
-"Chào mừng hai vị. Thật may là hai vị đã tới," nhân viên hội nói. "Về lý do chúng tôi nhắn hai vị qua đây..."
+"Chào mừng hai vị. Rất mừng vì hai vị đã tới," nhân viên hội nói. "Về lý do chúng tôi nhắn hai vị qua đây..."
 
 "Chúng tôi biết rồi," Lorraine đáp. "Ủy thác của Elza, đúng chứ?"
 
-"À, hai vị đã trao đổi với ngài ấy rồi sao? Vâng, đích thị là như vậy. Phải nói rằng, cực kỳ hiếm khi có một ủy thác chỉ định trực tiếp từ Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên, huống hồ ngài ấy lại còn là một Thánh Giả. Tôi rất mong hai vị sẽ thực hiện ủy thác này với sự cẩn trọng tối đa."
+"À, hai vị đã trao đổi với ngài ấy rồi sao? Vâng, đích thị là vậy. Phải nói rằng, nhận ủy thác chỉ định trực tiếp từ một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên đã là cực kỳ hiếm, huống hồ ngài ấy còn là một Thánh Giả. Rất mong hai vị sẽ thực hiện ủy thác này với sự cẩn trọng tối đa."
 
-Giọng của nhân viên hội nghe có phần căng thẳng. Tôi không thấy việc gì phải khép nép đến thế, nhưng nghĩ lại thì chúng tôi từng trực tiếp gặp mặt Elza rồi. Có lẽ đây là phản ứng bình thường của người ta khi tiếp xúc với một Thánh Giả chăng.
+Giọng nhân viên hội nghe có phần căng thẳng. Tôi thấy chẳng việc gì phải thế, cơ mà nghĩ lại thì chúng tôi từng trực tiếp gặp Elza rồi. Có lẽ đây mới là phản ứng bình thường khi làm việc với một Thánh Giả.
 
-Thế thì Lorraine hẳn cũng đủ tiêu chuẩn làm Thánh Giả rồi. Đáng buồn thay, cô lại chẳng ra dáng một Thánh Giả cho lắm, vì thần tinh linh ban phước cho cô vốn khá là xoàng xĩnh. Hoặc có lẽ sự cạnh tranh đơn giản là quá khốc liệt. Thuộc hàng ngũ lãnh đạo cấp cao trong một tổ chức tôn giáo trải khắp toàn vương quốc quả thực là điều khó ai bì kịp.
+Thế thì Lorraine chắc cũng đủ tiêu chuẩn làm Thánh Giả rồi. Buồn cái là cô ấy chẳng ra dáng Thánh Giả chút nào, bởi vị thần tinh linh ban phước cho cô ấy vốn khá bèo bọt. Hoặc có lẽ là do đối thủ cạnh tranh quá mạnh. Chen chân vào hàng ngũ lãnh đạo cấp cao của một tổ chức tôn giáo trải khắp toàn vương quốc quả thực là điều khó ai bì kịp.
 
-"Dĩ nhiên rồi," Lorraine đáp. "Chúng tôi nhận thư của ngài ấy ở đây, hay là...?"
+"Dĩ nhiên rồi," Lorraine đáp. "Vậy chúng tôi nhận thư của ngài ấy ở đây, hay là...?"
 
-"Không, hai vị sẽ trực tiếp nhận thư từ ngài ấy. Tôi rất xin lỗi vì sự bất tiện này, nhưng xin hai vị vui lòng đến Tu Viện Ephas."
+"Không, hai vị sẽ nhận thư trực tiếp từ ngài ấy. Tôi rất xin lỗi vì sự bất tiện này, nhưng xin hai vị vui lòng qua Tu Viện Ephas giúp tôi."
 
-Cảm giác như chúng tôi đang bị quay như chong chóng, nhưng tôi đoán điều đó chỉ càng chứng minh tầm quan trọng của lá thư mà thôi. Ngay từ đầu, việc thông qua hội để tiếp nhận chuyện này đã giúp chúng tôi tích lũy điểm cống hiến để thăng cấp. Nói đúng hơn thì Nữ Tu Viện Trưởng đã tạo điều kiện hết mức cho chúng tôi rồi, nên tôi chẳng có tư cách gì để phàn nàn cả.
+Cảm giác như chúng tôi đang bị bắt chạy vòng quanh, nhưng chắc điều đó chỉ càng cho thấy tầm quan trọng của bức thư. Vốn dĩ, việc nhận ủy thác qua hội thế này giúp chúng tôi tích lũy điểm cống hiến để thăng cấp. Nói đúng hơn thì Nữ Tu Viện Trưởng đã ưu ái tạo điều kiện cho chúng tôi rồi, nên tôi chẳng có lý do gì để phàn nàn cả.
 
-Lorraine và tôi gật đầu với nhân viên hội, rồi cùng nhau rời đi hướng tới Tu Viện Ephas.
+Tôi và Lorraine gật đầu chào nhân viên hội rồi lên đường đến Tu Viện Ephas.
 
 ◆◇◆◇◆
 
-Khi chúng tôi tới nơi, một giáo sĩ cao tuổi vội vã chạy tới ngay lúc trông thấy chúng tôi.
+Khi chúng tôi tới nơi, một giáo sĩ lớn tuổi vừa thấy bóng chúng tôi đã vội bước nhanh lại gần.
 
 "Hai vị hẳn là Lorraine và Rentt?"
 
 Chúng tôi gật đầu, và ông ấy nói tiếp.
 
-"Chúng tôi đã chờ hai vị từ nãy tới giờ. Mời hai vị vào trong."
+"Chúng tôi vẫn luôn chờ hai vị. Mời hai vị vào trong."
 
-Ông thuần thục dẫn chúng tôi vào bên trong và, không giống như lần ghé thăm trước, ông đưa thẳng chúng tôi ra phía sau. Hẳn là Elza đã dặn dò ông làm như vậy. Ông dẫn chúng tôi tới một phòng tiếp khách quen thuộc, cúi đầu thật sâu rồi rời đi. Sau một khoảng lặng ngắn, tiếng gõ cửa vang lên.
+Ông ấy thuần thục dẫn chúng tôi vào trong và, khác với lần ghé thăm trước, ông ấy đưa thẳng chúng tôi vào dãy phòng phía sau. Hẳn là Elza đã dặn trước như vậy. Ông ấy mời chúng tôi vào căn phòng tiếp khách quen thuộc, cúi đầu thật sâu rồi lui ra ngoài. Chờ một lúc ngắn, bên ngoài có tiếng gõ cửa.
 
 "Mời vào," Lorraine nói.
 
-"Xin thứ lỗi." Cánh cửa mở ra, để lộ bóng dáng Nữ Tu Viện Trưởng Elza. "Rất vui được gặp lại hai vị. Mấy ngày qua hai vị ở vương đô thấy thế nào, mọi chuyện vẫn ổn chứ?"
+"Xin thứ lỗi." Cánh cửa mở ra, để lộ bóng dáng Nữ Tu Viện Trưởng Elza. "Rất vui được gặp lại hai vị. Mấy ngày vừa rồi ở vương đô, hai vị thấy thế nào, mọi chuyện vẫn tốt chứ?"
 
-Chúng tôi đứng dậy chào, và cô ra hiệu bảo chúng tôi ngồi xuống, đồng thời tự mình chọn một chỗ ngồi.
+Chúng tôi đứng dậy chào, nhưng cô ấy ra hiệu bảo chúng tôi cứ ngồi xuống, rồi tự mình ngồi vào một chiếc ghế.
 
-"E là chúng tôi không có nhiều cơ hội lắm," tôi đáp. "Phần lớn thời gian chúng tôi đều bận làm việc, nên chẳng còn mấy thì giờ để dạo quanh thành phố."
+"E là chúng tôi chưa có dịp," tôi đáp. "Phần lớn thời gian chúng tôi đều bận làm việc, nên chẳng mấy khi rảnh rỗi để đi dạo quanh thành phố."
 
-Augurey đã rất nhiệt tình nhận công việc cho chúng tôi. Không phải là tôi phàn nàn gì, bởi kết quả cuối cùng từ những nỗ lực của anh ta là chúng tôi đều có tiền công bỏ túi.
+Augurey rất nhiệt tình nhận ủy thác giúp chúng tôi. Tôi cũng chẳng phàn nàn gì, bởi nhờ công anh ấy mà chúng tôi kiếm được một khoản kha khá dắt lưng.
 
-Các ủy thác đó cũng đã giúp tôi vượt qua yêu cầu để tham gia kỳ thi thăng hạng Ngân Cấp — điều mà nếu cứ để mặc tôi tự xoay xở thì hẳn sẽ phải mất một khoảng thời gian kha khá mới đạt được, bởi tôi chủ yếu chỉ nhận các ủy thác Đồng Cấp làm một mình. Chẳng có gì bất ngờ khi những công việc cấp bậc cao hơn luôn đi kèm nhiều bổng lộc hơn.
+Mấy ủy thác đó còn giúp tôi tích lũy đủ điều kiện tham gia kỳ thi thăng hạng Ngân Cấp, điều mà nếu để tôi tự xoay xở một mình thì chắc phải mất khá nhiều thời gian, bởi bình thường tôi chủ yếu chỉ nhận các ủy thác Đồng Cấp làm đơn độc. Đúng là chẳng có gì lạ, ủy thác cấp bậc cao hơn luôn mang lại nhiều quyền lợi hơn.
 
-"Thế thì tiếc thật đấy," Elza nói. "Thực lòng mà nói, tôi cũng đang băn khoăn không biết hai vị đã đi đâu. Thật ra tôi đã viết xong thư từ ít hôm trước và dặn hội mạo hiểm giả báo cho tôi ngay khi hai vị quay về."
+"Thế thì tiếc quá," Elza nói. "Thực lòng thì tôi cũng tự hỏi không biết hai vị đi đâu. Tôi đã viết xong thư từ mấy hôm trước rồi, còn dặn hội mạo hiểm giả nhắn cho tôi ngay khi hai vị trở về."
 
-Cũng phải thôi; viết một lá thư đâu đến mức ngốn mất trọn cả ngày trời. Tôi cảm thấy áy náy vì đã để cô ấy phải chờ đợi.
+Cũng phải thôi, viết một bức thư đâu đến mức mất trọn cả ngày. Tôi thấy áy náy vì đã để cô ấy phải đợi.
 
-"Về chuyện đó..." tôi mở lời. "Tôi rất tiếc vì chúng tôi—"
+"Về chuyện đó..." tôi mở lời. "Xin lỗi ngài vì chúng tôi—"
 
-Elza vội lắc đầu ngắt lời tôi. "Ôi, không đâu! Tôi không hề có ý trách móc hai vị đâu! Chẳng qua gần đây tôi có nghe phong phanh về vài vụ bạo loạn xáo trộn, nên tôi lo rằng hai vị có thể bị dính líu vào. Thấy cả hai đều bình an vô sự là tôi nhẹ nhõm rồi!"
+Elza vội lắc đầu ngắt lời tôi. "Ôi, không đâu! Tôi đâu có ý trách móc hai vị! Chẳng qua gần đây tôi nghe phong phanh có mấy vụ đụng độ bạo lực, nên lo hai vị bị vướng vào thôi. Thấy cả hai bình an vô sự là tôi yên tâm rồi!"
 
-Thực tế là chúng tôi đã dính líu vào một vụ xáo trộn bạo lực thật — thậm chí còn suýt mất mạng nữa cơ — nhưng tôi đời nào lại nói ra điều đó với cô ấy.
+Chúng tôi dính líu thật đấy chứ, thậm chí còn suýt mất mạng nữa cơ, nhưng đời nào tôi lại đi kể cho cô ấy nghe.
 
-Khoan đã, hay là Elza đã nắm được tình cảnh của chúng tôi và đang tìm cách mớm lời thăm dò?
+Hay khoan đã, lẽ nào Elza đã biết tình cảnh của chúng tôi và đang tìm cách mớm lời thăm dò?
 
-Không, tôi đa nghi quá rồi. Giáo Hội Đông Thiên quả là một tổ chức tôn giáo khổng lồ trải khắp Vương Quốc Yaaran, nhưng điều đó khó lòng biến họ thành một mạng lưới tình báo toàn tri thấu suốt mọi sự. Hơn nữa, việc thu thập thông tin về vương quốc, giới quý tộc hay các thương đoàn tầm cỡ thì còn có lý, chứ tôi không nghĩ tin tức tình báo về Lorraine và tôi lại có giá trị đến thế.
+Không, mình đa nghi quá rồi. Giáo Hội Đông Thiên đúng là một tổ chức tôn giáo khổng lồ trải khắp Vương Quốc Yaaran, nhưng khó lòng coi họ như một mạng lưới tình báo nắm tường tận mọi sự được. Vả lại, thu thập thông tin về vương quốc, giới quý tộc hay các thương đoàn lớn thì còn có lý, chứ tin tức về tôi với Lorraine thì chắc chẳng đáng giá là bao.
 
-Bỏ qua những bí mật khó nói của bản thân sang một bên, thì xét trên mọi phương diện, chúng tôi vẫn chỉ là những mạo hiểm giả bình thường. Không phải kiểu nhân vật hô mưa gọi gió có thể dính líu đến những biến cố long trời lở đất. Mặc dù, càng ngày điều đó lại càng khó mà khẳng định cho chắc...
+Tạm gác mấy bí mật khó nói sang một bên, thì về cơ bản chúng tôi vẫn chỉ là mạo hiểm giả bình thường. Đâu phải kiểu nhân vật máu mặt có thể dính líu tới những sự kiện trọng đại. Dù rằng, càng ngày tôi càng khó mà khẳng định điều đó...
 
-"Xin lỗi vì đã khiến ngài phải bận lòng," Lorraine nói. "Nhưng như ngài thấy đấy, chúng tôi vẫn hoàn toàn khỏe mạnh. Ngày mai chúng tôi cũng sẽ quay về Maalt, nên bức thư của ngài tới vào lúc thật hoàn hảo."
+"Làm ngài phải lo lắng, chúng tôi thật sự xin lỗi," Lorraine nói. "Nhưng như ngài thấy, chúng tôi vẫn hoàn toàn bình an vô sự. Ngày mai chúng tôi cũng sẽ quay về Maalt, nên bức thư của ngài đến đúng lúc lắm."
 
-"Chà, ngày mai ư? Thế thì hai vị đúng là chẳng có thì giờ ngắm nghía cảnh sắc thành phố rồi."
+"Chà, ngày mai đã về rồi sao? Thế thì hai vị chưa kịp ngắm nghía cảnh sắc thành phố chút nào rồi."
 
-"E là vậy. Nhưng chúng tôi dự định dành phần còn lại của ngày hôm nay để đi dạo một chuyến. Chúng tôi cần mua vài món quà lưu niệm cho bạn bè ở Maalt, và vì một người trong số họ từng sống ở đây nên những thứ cô ấy nhờ vả khá là chi tiết... đến mức tôi chỉ mong mình không phải chạy vòng quanh như gà mắc tóc để tìm cho đủ. Thú thật thì chuyện đó khiến tôi muốn thuê một người dẫn đường luôn cho rồi."
+"E là vậy. Cơ mà chúng tôi tính dành nửa ngày còn lại để đi dạo một vòng. Chúng tôi cần mua ít quà lưu niệm cho bạn bè ở Maalt, và vì có người từng sống ở đây nên nhờ mua toàn mấy món rất cụ thể... đến mức tôi chỉ mong không phải chạy lòng vòng tìm cho khổ. Thú thật là chuyện đó khiến tôi muốn thuê luôn một người dẫn đường cho xong."
 
-Tôi cũng có đôi chút lo ngại. Lorraine đã từng đến vương đô nhiều lần và nắm được sơ lược địa hình nơi đây, nhưng những yêu cầu của Rina — đúng như mong đợi từ một cô gái bản địa trước kia — lại cực kỳ cụ thể. Tôi không rõ liệu chúng tôi có thể mua đủ mọi thứ cho cô bé và những người bạn khác trong vỏn vẹn một ngày hay không.
+Tôi cũng hơi lo. Lorraine từng tới vương đô nhiều lần nên cũng nắm sơ qua đường sá, nhưng những món Rina nhờ, đúng chất dân từng sống ở đây, lại quá sức cụ thể. Chẳng biết chúng tôi có mua kịp mọi thứ cho cô ấy và những người khác chỉ trong một ngày hay không.
 
-Elza dường như nhận ra nỗi băn khoăn của chúng tôi, bởi sau một thoáng cân nhắc, cô lên tiếng: "Ái chà. Hừm. Nếu đã vậy, hay để tôi làm người dẫn đường quanh thành phố cho hai vị nhé?"
+Elza dường như nhận ra nỗi băn khoăn của chúng tôi, bởi sau một thoáng ngẫm nghĩ, cô ấy lên tiếng: "Ái chà. Hừm. Nếu vậy, hay để tôi dẫn hai vị đi dạo thành phố nhé?"
 
 ◆◇◆◇◆
 
-"Cô thực sự nghĩ chuyện này ổn sao?" tôi hỏi.
+"Cô thấy thế này có ổn thật không đấy?" tôi hỏi.
 
-Lorraine và tôi đang đứng chờ trước cửa Tu Viện Ephas.
+Lorraine và tôi đang đứng đợi trước cửa Tu Viện Ephas.
 
-Cô trầm ngâm một lúc, trước khi cất lời: "Không, thật ra là không ổn chút nào. Nhưng nếu ngài ấy đã bảo được..."
+Cô ấy trầm ngâm một lát rồi bảo: "Không, thật ra chẳng ổn chút nào. Nhưng nếu ngài ấy đã nói thế..."
 
-Tôi không nghĩ câu trả lời đó mang lại chút an tâm nào. Hỏi chúng tôi đang bàn về chuyện gì ư? Chuyện là...
+Nghe chẳng thấy an tâm chút nào. Hỏi chúng tôi đang nói chuyện gì ư? Chuyện là...
 
-"Ồ, hai vị ở đây rồi! Tôi vô cùng xin lỗi vì để hai vị phải đợi lâu."
+"A, hai vị đây rồi! Xin lỗi vì để hai vị đợi lâu quá."
 
-Từ lối vào đồ sộ của Tu Viện Ephas bước ra... chẳng có một ai. Thực chất cô ấy lại lén bước ra từ cánh cửa nhỏ bên hông, vừa đi vừa dáo dác nhìn quanh quất tứ phía.
+Từ cổng chính đồ sộ của Tu Viện Ephas bước ra... chẳng có ai cả. Thật ra cô ấy lách ra từ cánh cửa ngách bên hông, vừa đi vừa ngó trước ngó sau.
 
-"Cô ấy", dĩ nhiên, chính là Nữ Tu Viện Trưởng Elza Olgado, người chịu trách nhiệm tối cao của chính tu viện mà cô vừa bước ra. Cô không mặc tu phục của giáo sĩ, mà diện thường phục của một người đi đường bình thường. Bộ đồ có hơi lỗi thời so với xu hướng thịnh hành hiện nay ở Yaaran, nhưng chúng lại đơn giản và phổ biến ở khắp mọi nơi.
+"Cô ấy", dĩ nhiên, chính là Nữ Tu Viện Trưởng Elza Olgado, người đứng đầu của chính tu viện mà cô ấy vừa bước ra. Cô ấy không mặc tu phục, mà diện thường phục của một người đi đường bình thường. Bộ đồ có hơi lỗi mốt so với xu hướng hiện nay ở Yaaran, nhưng kiểu dáng giản dị và đâu đâu cũng thấy.
 
-Tôi sợ đến mức chẳng dám hé răng hỏi tuổi thật của cô, nhưng trong bộ trang phục hiện tại, cô trông chẳng khác gì một thiếu nữ chớm đôi mươi. Bất chấp sự thật là tôi khá chắc cô thuộc cùng thế hệ với Lillian. Nói vậy không có nghĩa là Lillian đã già — tôi thực sự nghĩ sơ vẫn còn khá trẻ. Chỉ là vóc dáng đẫy đà cùng phong thái như một người mẹ của sơ không tạo cho các giác quan cảm giác về sự "trẻ trung" cho lắm. Nếu cả hai người họ bước đi cạnh nhau, tôi nghĩ trông họ sẽ có vẻ sàn sàn tuổi nhau.
+Tôi chẳng dại gì mà đi hỏi tuổi thật của cô ấy, nhưng trong bộ đồ này, cô ấy trông hệt như một thiếu nữ vừa đôi mươi. Dù tôi biết chắc cô ấy cùng trang lứa với Sơ Lillian. Nói vậy không phải chê Sơ Lillian già, tôi thật lòng thấy sơ ấy vẫn còn khá trẻ. Chỉ là vóc người đẫy đà cùng phong thái người mẹ của sơ ấy không toát lên nét trẻ trung cho lắm. Nếu cả hai đi cạnh nhau, tôi nghĩ ai cũng thấy họ sàn sàn tuổi nhau.
 
-"Ngài ở trong đó khá lâu đấy," Lorraine nói. "Mọi chuyện vẫn ổn chứ?"
+"Ngài ở trong đó hơi lâu đấy," Lorraine nói. "Có chuyện gì không ổn sao?"
 
-"À, tôi chỉ... cắt đuôi bọn họ khó hơn tôi tưởng một chút thôi. Nhưng tôi có để lại lời nhắn bảo mình sẽ ra ngoài rồi, nên tôi tin chắc sẽ ổn thôi. Dù sao thì mau lên nào hai vị. Chúng ta nên nhanh chân trước khi họ phát hiện ra."
+"À, tôi chỉ... cắt đuôi mọi người khó hơn tưởng tượng một chút thôi. Cơ mà tôi có để lại lời nhắn bảo mình ra ngoài rồi, nên chắc sẽ ổn thôi. Mau lên nào hai vị, ta nên nhanh chân trước khi họ phát hiện ra."
 
-Elza nắm lấy tay Lorraine và tôi rồi rảo bước bước đi thoăn thoắt.
+Elza nắm lấy tay tôi và Lorraine rồi rảo bước đi thật nhanh.
 
-Khoan đã, "cắt đuôi bọn họ" sao? Tôi đoan chắc Lorraine và tôi lúc này đều đang có cùng một suy nghĩ trong đầu.
+Khoan đã, "cắt đuôi" sao? Tôi dám chắc lúc này cả tôi lẫn Lorraine đều đang nghĩ cùng một điều.
 
 Nghe chẳng ổn chút nào.
 
 ◆◇◆◇◆
 
-"Nói vậy... ngài đã cắt đuôi các giáo sĩ đang lùng sục khắp nơi tìm mình rồi lén lẻn ra khỏi tu viện sao?"
+"Nói vậy... ngài đã cắt đuôi các giáo sĩ đang tìm mình khắp nơi rồi lẻn ra khỏi tu viện sao?"
 
-Lorraine vừa đi vừa ôm đầu như thể đang đau đớn lắm. Giọng cô nghe cũng như đang đau đầu thực sự.
+Lorraine vừa đi vừa ôm trán như thể đang đau đầu lắm. Giọng cô ấy nghe cũng khổ sở y như vậy.
 
-"Không, không, cô hiểu lầm tôi rồi," Elza đáp. "Tôi đã để lại một lá thư nói rõ mình sẽ ra ngoài giải quyết công việc trong chốc lát, và cũng đã cố hết sức để không cản trở công việc của bất kỳ ai lúc rời đi. Tôi tin chắc vào lúc này mọi người đều đang cảm thấy vô cùng biết ơn sự chu đáo của tôi đấy."
+"Không, không, cô hiểu lầm tôi rồi," Elza đáp. "Tôi có để lại thư báo là mình ra ngoài lo việc riêng một lúc, lúc đi cũng đã rón rén hết mức để không làm phiền ai làm việc. Tôi tin chắc giờ này mọi người đang cảm kích sự chu đáo của tôi lắm đấy."
 
-Với tôi thì câu đó nghe giống hệt như "lúc này họ đang vò đầu bứt tai vì nhận ra mình đã hoàn toàn thất bại trong việc phát hiện kế hoạch đào tẩu tài tình của tôi". Tôi suýt nữa đã buột miệng nói ra như vậy, nhưng Elza dường như đã biết tỏng, bởi cô nói tiếp.
+Theo tai tôi nghe thì câu đó chẳng khác nào "giờ này chắc họ đang vò đầu bứt tai vì không tài nào phát hiện ra kế hoạch đào tẩu tài tình của tôi". Tôi suýt buột miệng nói thẳng ra như thế, nhưng Elza dường như đã đọc được suy nghĩ của tôi, bởi cô ấy nói tiếp.
 
-"Nói đùa vậy thôi, chứ thỉnh thoảng tôi vẫn bước ra ngoài dạo quanh thành phố một mình mà. Sẽ ổn cả thôi. Tôi đã xử lý xong hết công việc của mình rồi, nên sự vắng mặt của tôi sẽ không ảnh hưởng gì đâu."
+"Đùa chút thôi, chứ thỉnh thoảng tôi vẫn ra ngoài dạo phố một mình suốt mà. Không sao đâu. Việc tôi cũng làm xong hết rồi, vắng mặt một chút chẳng ai để ý đâu."
 
-Tôi hiểu điều đó có nghĩa là mọi người sẽ thấy ổn thỏa chừng nào cô đã hoàn thành xong trách nhiệm của mình. Một phần trong tôi vẫn thấy chưa chắc chắn lắm, nhưng tôi đâu phải chuyên gia về nội tình nội bộ của Giáo Hội Đông Thiên, nên tôi quyết định cứ tin vào lời cô ấy.
+Tôi hiểu ý cô ấy là miễn mình đã làm tròn bổn phận thì chẳng ai trách được. Bụng tôi vẫn thấy hơi gợn, nhưng tôi đâu rành chuyện nội bộ của Giáo Hội Đông Thiên, nên thôi đành tin lời cô ấy.
 
-"Thế thì nghe an tâm rồi," tôi nói. "Nhưng xin thứ lỗi nếu câu này có phần thất lễ, chúng tôi thực sự có thể trông cậy vào ngài để dẫn đường quanh thành phố sao?"
+"Thế thì đỡ quá," tôi nói. "Nhưng mạo muội hỏi câu này, liệu chúng tôi có thể trông cậy vào ngài làm người dẫn đường quanh thành phố được thật không?"
 
-Bởi cô nắm quyền quản lý tu viện, tôi đoán có khả năng cô không mấy am hiểu những góc phố bình dân của thành phố. Những nhân vật tai to mặt lớn hiếm khi ra ngoài mà không có đoàn tùy tùng tháp tùng. Công Chúa Điện Hạ chẳng hạn, chắc hẳn chưa từng một mình dạo bước trên phố bao giờ. Đâu phải cứ sinh ra và lớn lên ở đây là Elza nhất thiết có thể đóng trọn vai trò của một người dẫn đường.
+Vì cô ấy quản lý cả tu viện, tôi nghĩ có khi cô ấy không mấy rành rẽ những khu phố bình dân. Những nhân vật tai to mặt lớn hiếm khi ra ngoài mà không có người theo hầu. Công Chúa Điện Hạ chẳng hạn, chắc hẳn chưa từng một mình dạo bước trên phố bao giờ. Đâu phải cứ sinh ra và lớn lên ở đây là chắc chắn làm người dẫn đường được.
 
-Thế nhưng, Elza nói: "Tin tôi đi. Sẽ ổn cả thôi. Hồi nhỏ tôi gần như sống trên những con phố này mà. Tôi hiểu rõ chúng hơn bất kỳ ai... ngoại trừ Lillian ra có lẽ mới hơn tôi."
+Thế nhưng Elza bảo: "Cứ tin tôi đi, sẽ ổn cả thôi. Hồi nhỏ tôi gần như lăn lộn suốt trên mấy con phố này mà. Tôi thuộc đường hơn bất cứ ai... trừ Lillian ra, họa chăng chỉ có cô ấy mới hơn tôi."
 
 "Lillian cũng là người vương đô sao?" Lorraine hỏi.
 
-Elza ngẫm nghĩ một thoáng. "Đại để là vậy. Chúng tôi là bạn thời thơ ấu, tôi và cô ấy. Từ nhỏ đã luôn gắn bó với nhau. Và dù thời điểm có hơi khác một chút, chúng tôi cũng đều chọn cùng một con đường cho cuộc đời mình."
+Elza ngẫm nghĩ một lát. "Đại khái là vậy. Tôi với cô ấy là bạn thuở nhỏ, dính lấy nhau từ bé tí. Dù mốc thời gian có lệch nhau một chút, cả hai cũng chọn đi chung một con đường."
 
-Hóa ra hai người họ sàn sàn tuổi nhau. Dù gác chuyện đó sang một bên, tôi vẫn vô cùng ấn tượng khi hai người bạn thuở nhỏ đều trở thành Thánh Giả. Thần Lực vốn cực kỳ hiếm gặp — dạo gần đây tôi không cảm thấy thế lắm, vì tôi cứ liên tục chạm trán những người sở hữu nó như thể đang ở trong một phiên chợ đại hạ giá Thần Lực vậy. Hai người bạn thân thiết lại cùng được ban phước Thần Lực là chuyện gần như chẳng bao giờ xảy ra. Dù tôi cũng chẳng có tư cách nói người khác, bởi cả Lorraine và tôi đều có Thần Lực. Nhưng trong trường hợp của chúng tôi, phần lớn là do vị thần tinh linh ban phước cho chúng tôi thuộc dạng luộm thuộm cẩu thả. Lại còn yếu ớt nữa. Bất kể thứ mà Elza và Lillian sở hữu là gì, nó chắc chắn ấn tượng hơn của chúng tôi rất nhiều.
+Hóa ra hai người họ sàn sàn tuổi nhau. Gác chuyện đó sang một bên, tôi thật sự khâm phục khi hai người bạn thuở nhỏ đều trở thành Thánh Giả. Thần Lực vốn cực kỳ hiếm thấy, dù dạo gần đây tôi chẳng cảm thấy thế chút nào, vì cứ liên tục chạm trán những người sở hữu nó như thể đang ở phiên chợ đại hạ giá Thần Lực vậy. Hai người bạn thân cùng được ban phước là chuyện gần như không tưởng. Cơ mà tôi cũng chẳng có tư cách nói ai, vì cả tôi lẫn Lorraine đều có Thần Lực. Chỉ là trường hợp của chúng tôi phần lớn do vị thần tinh linh ban phước thuộc dạng bừa bãi xuề xòa, lại còn yếu nữa. Còn thứ mà Elza và Sơ Lillian sở hữu thì chắc chắn ấn tượng hơn chúng tôi gấp bội.
 
-Tôi vừa định hỏi thêm về thời thơ ấu của họ, nhưng Elza đã kịp cất lời trước khi tôi mở miệng.
+Tôi vừa định hỏi thêm về tuổi thơ của họ thì Elza đã lên tiếng trước.
 
-"Ồ, nhắc mới nhớ, hai vị muốn đi những đâu? Tôi vẫn chưa hỏi nữa."
+"Ồ, nói mới nhớ, hai vị muốn đi những đâu thế? Nãy giờ tôi chưa kịp hỏi."
 
-Tôi đồ rằng cô ấy cố tình lảng tránh, và Lorraine cũng đang nhìn tôi lắc đầu. Tôi thấy chẳng cần phải gặng hỏi làm gì, nên đành bỏ cuộc không hỏi nữa mà trao cho Elza cuốn sổ tay nhỏ mà Rina đã đưa cho chúng tôi.
+Tôi đoán là cô ấy cố tình lảng đi, mà Lorraine cũng đang nhìn tôi lắc đầu ra hiệu. Thấy không cần thiết phải gặng hỏi, tôi từ bỏ ý định rồi rút cuốn sổ nhỏ Rina gửi đưa cho Elza.
 
-Về mặt lý thuyết thì nó có thể bị xếp vào loại thư tịch đáng ngờ do một Undead chắp bút, nhưng ít nhất sẽ chẳng có tà linh nào xông ra tấn công khi mở nó. Tôi đã kiểm tra nội dung từ trước và xác nhận bên trong không có gì đáng ngại. Trừ phi tính cả mấy hình vẽ phác thảo Khô Lâu và Ma Cà Rồng rải rác khắp trong đó.
+Về lý mà nói, cuốn sổ này có thể xếp vào hàng thư tịch đáng ngờ do một Undead viết ra, nhưng ít nhất mở ra sẽ không có tà linh nào lao tới tấn công. Tôi đã xem qua nội dung từ trước và đảm bảo bên trong chẳng có gì nguy hại. Trừ khi tính cả mấy hình phác họa Khô Lâu với Ma Cà Rồng vẽ rải rác khắp nơi.
 
-"Cái này xem chừng hơi... báng bổ thần thánh đấy. Sở thích của hai vị sao?"
+"Cái này xem chừng hơi... báng bổ thần thánh đấy nhỉ. Sở thích của hai vị đấy à?"
 
 "Tuyệt đối không."
 
 "Không đời nào."
 
-Cả hai chúng tôi đều phủ nhận, nhưng trong khi Lorraine có thể nói thế mà không ai bắt bẻ được, thì tôi lại đang đeo một chiếc mặt nạ đầu lâu, thành thử tôi chẳng có chút lý lẽ nào để chống chế cả. Elza nhìn chằm chằm vào tôi, khiến tôi đành phải lảng mắt đi nơi khác.
+Cả hai chúng tôi đều chối phắt, nhưng trong khi Lorraine nói thế còn có người tin, thì tôi lại đang đeo một chiếc mặt nạ đầu lâu, thành ra chẳng có lý lẽ nào để chống chế. Bị Elza nhìn chằm chằm, tôi đành phải quay mặt đi chỗ khác.
 
 Tôi đành chịu thua.
 
-"Thật ra tôi cũng không để bụng đâu," cô nói. "Gác chuyện đó sang một bên, những chỉ dẫn này khá là chi tiết đấy. Sẽ phải mất tới tận chiều tối mới đi hết được tất cả những chỗ này."
+"Thật ra tôi cũng chẳng để bụng đâu," cô ấy bảo. "Mà gác chuyện đó sang một bên đi, mấy chỉ dẫn này chi tiết thật đấy. Chắc phải tới chiều muộn mới đi hết được ngần này chỗ."
 
-Vậy là ngay cả với sự giúp đỡ của một cô gái sinh ra và lớn lên ở chốn đô thành này, chuyến đi vẫn sẽ tốn kha khá thời gian. Dù vậy tôi cũng không quá bận tâm. Chúng tôi rảnh rỗi cả ngày hôm nay. Nếu có vấn đề gì, thì đó sẽ là...
+Thế là dù có một cô gái sinh ra và lớn lên ở chốn đô thành này dẫn đường, cũng phải tốn kha khá thời gian. Cơ mà tôi cũng không bận tâm lắm. Cả ngày hôm nay chúng tôi đều rảnh. Nếu có vấn đề gì, thì chỉ là...
 
-"Chúng tôi thì không sao, nhưng còn ngài thì sao?" tôi hỏi. "Ngài có đủ thì giờ không?"
+"Chúng tôi thì không sao, nhưng ngài thì sao?" tôi hỏi. "Ngài có đủ thời gian không?"
 
-"Chẳng có vấn đề gì cả đâu. Tuy nhiên sau khi xong việc, có một nơi tôi muốn ghé qua. Tôi có thể nhờ hai vị đi cùng được không?"
+"Không thành vấn đề đâu. Có điều sau khi xong việc, có một nơi tôi muốn ghé qua. Tôi nhờ hai vị đi cùng được không?"
 
-Rất có thể cô chẳng cần đến chúng tôi, nhưng cô đã tình nguyện làm người dẫn đường cho chúng tôi và chúng tôi cũng không có lý do gì để từ chối, thế nên chúng tôi đã đồng ý.
+Nhiều khả năng cô ấy cũng chẳng cần đến chúng tôi, nhưng người ta đã có lòng xung phong dẫn đường, chúng tôi lại chẳng có lý do gì để từ chối, nên đành gật đầu nhận lời.
