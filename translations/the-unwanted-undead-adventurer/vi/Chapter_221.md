@@ -34,7 +34,7 @@ Vương đô của Yaaran với tôi chẳng khác nào một đại đô thị 
 
 Phải nói thêm là người đánh xe đưa chúng tôi đến thẳng quán trọ, nhưng anh ta và cỗ xe sẽ nghỉ lại chỗ khác. Quán trọ chúng tôi ở không có chỗ để xe, chưa kể thú kéo xe lại thuộc loại đặc biệt nên cần phải nhốt trong chuồng chuyên dụng.
 
-Tính ra chuyến đi này khá đắt đỏ, nhưng Wolf—hay nói đúng hơn là Hội Maalt—đã bao trọn chi phí, nên tôi chẳng tốn đồng nào. Đằng nào chúng tôi cũng dùng lại chính cỗ xe này để về Maalt, nên chắc chắn Hội phải chi thêm một khoản kha khá cho tiền trọ phát sinh. Wolf quả thực đã rất chu đáo với chúng tôi.
+Tính ra chuyến đi này khá đắt đỏ, nhưng Wolf, hay nói đúng hơn là Hội Maalt, đã bao trọn chi phí nên tôi chẳng tốn đồng nào. Đằng nào chúng tôi cũng dùng lại chính cỗ xe này để về Maalt, nên chắc chắn Hội phải chi thêm một khoản kha khá cho tiền trọ phát sinh. Wolf quả thực đã rất chu đáo với chúng tôi.
 
 "Vào thôi, Rentt," Lorraine giục, rồi hai chúng tôi cùng bước vào quán trọ.
 
@@ -106,7 +106,7 @@ Ngạc nhiên là Lorraine lại cởi mở với ý định đó hơn tôi tư�
 
 "Vậy tôi qua đằng kia ngồi đợi," Lorraine vừa nói vừa chỉ tay về phía quầy bar nằm ngay trong sảnh Hội.
 
-Nói cho đúng thì đó là một quầy căng tin phục vụ đồ ăn nhẹ cùng đủ loại đồ uống. Không phải sảnh Hội nào cũng có, nhưng ở đa số các nơi thì đây là hình ảnh khá quen thuộc. Thực đơn lẫn khẩu phần ăn ở đây hơi ít để có thể tính là một bữa no nê, nên chỗ này chủ yếu để mạo hiểm giả nghỉ chân giữa các chuyến làm việc hoặc ngồi đợi đồng đội—nghĩa là Lorraine đang dùng nó đúng với mục đích vốn có.
+Nói cho đúng thì đó là một quầy căng tin phục vụ đồ ăn nhẹ cùng đủ loại đồ uống. Không phải sảnh Hội nào cũng có, nhưng ở đa số các nơi thì đây là hình ảnh khá quen thuộc. Thực đơn lẫn khẩu phần ăn ở đây hơi ít để có thể tính là một bữa no nê, nên chỗ này chủ yếu để mạo hiểm giả nghỉ chân giữa các chuyến làm việc hoặc ngồi đợi đồng đội, nghĩa là Lorraine đang dùng nó đúng với mục đích vốn có.
 
 "Được rồi, lát gặp nhé," tôi nói rồi bước về phía quầy tiếp tân.
 
@@ -140,7 +140,7 @@ Số tài liệu này chính là xấp giấy tờ dày cộp mà Wolf giao cho 
 
 "Xem chừng Tổng Hội Trưởng đi vắng rồi. Nghe bảo khoảng năm ngày nữa ông ấy mới về."
 
-"Đi vắng ư... Chà, chắc ông ấy cũng chẳng ở yên một chỗ mãi được. Nhưng tôi nhớ từng nghe bảo ông ấy không thể rời vương đô lâu ngày cơ mà..." Lorraine nói với vẻ băn khoăn.
+"Đi vắng ư... Chà, chắc ông ấy cũng chẳng ở yên một chỗ mãi được. Cơ mà tôi nhớ từng nghe bảo ông ấy không thể rời vương đô lâu ngày mà..." Lorraine nói với vẻ băn khoăn.
 
 Tôi gật đầu tán thành, chợt nhớ lại những lời mình từng nghe hồi còn ở Maalt.
 
@@ -162,7 +162,7 @@ Lorraine nhìn sang tôi, hỏi xem nên bắt tay vào việc nào trước.
 
 "Ừ. Vả lại còn một người nữa chúng ta phải lôi theo vào cung. Cần liên lạc với anh ta, nhưng cách duy nhất tôi nghĩ ra là để lại lời nhắn tại Hội này. Bằng không thì chỉ còn nước tìm tới quán quen của anh ta thôi."
 
-Tôi đang nói tới quán rượu lần trước chúng tôi gặp Augurey khi ở đây. Nếu cứ thế ghé qua thì may ra có thể đụng mặt, nhưng để lại lời nhắn ở Hội thì hễ Augurey bước chân vào là nhận được ngay. Trái lại, dù có thể ngay ngày mai anh ta đã nhận được tin, nhưng cũng không loại trừ khả năng anh ta đang vướng một ủy thác dài ngày và chỉ nhận được khi đã xong việc trở về. Gặp trường hợp đó thì tôi và Lorraine đành vào cung mà không có anh ta vậy, nhưng thôi, chuyện tới đâu tính tới đó.
+Tôi đang nói tới quán rượu lần trước chúng tôi gặp Augurey khi ở đây. Nếu cứ thế ghé qua thì may ra có thể đụng mặt, nhưng để lại lời nhắn ở Hội thì hễ Augurey bước chân vào là nhận được ngay. Chỉ có điều, dù có thể ngay ngày mai anh ta đã nhận được tin, cũng không loại trừ khả năng anh ta đang vướng một ủy thác dài ngày và chỉ nhận được khi đã xong việc trở về. Gặp trường hợp đó thì tôi và Lorraine đành vào cung mà không có anh ta vậy, nhưng thôi, chuyện tới đâu tính tới đó.
 
 "Có khi cứ đi hỏi quanh xem có ai thấy một mạo hiểm giả ăn mặc kỳ dị không, khéo lại dễ tìm ra anh ta hơn đấy."
 

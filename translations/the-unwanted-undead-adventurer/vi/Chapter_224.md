@@ -104,7 +104,7 @@ Lorraine đang nhắc tới mạng lưới dò tìm dùng để phát hiện qu�
 
 Lũ Puchi Suri trèo lên cỗ xe đi ké là chuyện thường thấy, nên lúc đó tôi chẳng bận tâm làm gì. Đến cổng thành, vì không còn cảm nhận được sự hiện diện của nó nữa nên tôi cứ đinh ninh là nó đã nhảy xuống ở đâu đó dọc đường rồi.
 
-"Hiển nhiên rồi, Puchi Suri đâu có giống anh, nó rành rành là một con quái vật, chúng ta sao có thể đường hoàng mang một con chuột vào vương đô ngay trên cỗ xe được. Hơn nữa, tôi cũng muốn kiểm chứng xem món đồ của Gia tộc Latuule hiệu quả tới đâu, nên đã đưa ma cụ cho nó rồi bảo nó lẻn vào vương đô trước. Hiện giờ nó đang lảng vảng quanh khu quý tộc để thăm dò xem mang theo món đồ đó tiến sâu đến vậy có an toàn không. Một khi đã nắm chắc, tôi sẽ bảo nó thử đột nhập vào cung điện."
+"Hiển nhiên rồi, Puchi Suri đâu có giống anh, nó rành rành là một con quái vật, chúng ta sao có thể đường hoàng mang một con trên cỗ xe vào vương đô được. Hơn nữa, tôi cũng muốn kiểm chứng xem món đồ của Gia tộc Latuule hiệu quả tới đâu, nên đã đưa ma cụ cho nó rồi bảo nó lẻn vào vương đô trước. Hiện giờ nó đang lảng vảng quanh khu quý tộc để thăm dò xem mang theo món đồ đó tiến sâu đến vậy có an toàn không. Một khi đã nắm chắc, tôi sẽ bảo nó thử đột nhập vào cung điện."
 
 Kế hoạch nghe chừng khá kín kẽ, nhưng rốt cuộc làm sao Lorraine lại có thể trao đổi trơn tru với Edel và đám Puchi Suri sau lưng tôi như vậy chứ?
 

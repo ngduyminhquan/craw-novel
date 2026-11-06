@@ -2,7 +2,7 @@
 
 "Hừm..."
 
-Rina, đệ tử của Rentt và Lorraine, đang đứng chau mày, khẽ ậm ừ dồn hết tâm trí vào việc trước mắt. Lúc này cô đang ở khoảng sân trong của dinh thự Gia tộc Latuule, nằm tại một góc thành phố Maalt. Đứng gần đó, Alize, cô đệ tử còn lại của Rentt và Lorraine, chăm chú dõi theo Rina đang tụ Ma Lực vào cây đũa phép trên tay. Đến khi sự tập trung đạt tới đỉnh điểm, Rina mở bừng mắt, hô vang câu chú.
+Rina, đệ tử của Rentt và Lorraine, đang đứng chau mày, rên khẽ trong lúc dồn hết tâm trí vào việc trước mắt. Lúc này cô đang ở khoảng sân trong của dinh thự Gia tộc Latuule, nằm tại một góc thành phố Maalt. Đứng gần đó, Alize, cô đệ tử còn lại của Rentt và Lorraine, chăm chú dõi theo Rina đang tụ Ma Lực vào cây đũa phép trên tay. Đến khi sự tập trung đạt tới đỉnh điểm, Rina mở bừng mắt, hô vang câu chú.
 
 "Gie Vieros!"
 
@@ -42,7 +42,7 @@ Alize gật đầu, lời giải thích ấy gợi cho cô bé nhớ ra một ch
 
 "Nhắc mới nhớ, anh Rentt điều khiển Ma Lực giỏi lắm, nhưng Học Sĩ Lorraine lại bảo cách anh ấy làm có điểm gì đó rất kỳ quái."
 
-"À, tôi hiểu ý cô ấy rồi. Rentt giống hệt như trường hợp tự mày mò mà tôi vừa nói tới. Có điều, Rentt đang định học lại từ căn bản, nên vừa giữ được thế mạnh từ lối tự học của mình, anh ấy lại vừa có thêm sự bài bản, vững vàng. Anh ấy hiểu rất rõ giá trị của việc nắm chắc những điều cốt lõi."
+"À, tôi hiểu ý cô ấy rồi. Ngài Rentt giống hệt như trường hợp tự mày mò mà tôi vừa nói tới. Có điều, ngài ấy đang định học lại từ căn bản, nên vừa giữ được thế mạnh từ lối tự học của mình, lại vừa có thêm sự bài bản, vững vàng. Ngài ấy hiểu rất rõ giá trị của việc nắm chắc những điều cốt lõi."
 
 "Đúng thế thật ạ. Anh ấy cũng đang cùng em theo học Học Sĩ Lorraine mà."
 

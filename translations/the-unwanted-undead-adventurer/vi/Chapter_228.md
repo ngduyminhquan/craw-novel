@@ -164,13 +164,13 @@ Cả ba chúng tôi gật đầu cái rụp. Đằng nào cũng đâu còn lựa
 
 "Cô nói đúng."
 
-Quả đúng là Lorraine, không chỉ biết tên mà ngay cả tuổi của Bệ Hạ cô ấy cũng nắm rõ. Dẫu vậy, sáu mươi lăm thì tuổi tác cũng đã cao. Đa phần các bậc quân vương đều băng hà trước lục tuần, và rất hiếm khi do nguyên nhân tự nhiên. Những người thọ đến già mà mất chỉ là số ít may mắn. Dù vậy, không ít vị vua của Yaaran tạ thế do tuổi cao sức yếu hoặc bệnh tật thực sự, chứ không phải bị đầu độc đội lốt bệnh tật. Hiển nhiên thông tin này do chính triều đình công bố, nên đám thường dân thấp cổ bé họng như chúng tôi chịu không thể biết được thực hư ra sao.
+Quả đúng là Lorraine, không chỉ biết tên mà ngay cả tuổi của Bệ Hạ cô ấy cũng nắm rõ. Dẫu vậy, sáu mươi lăm thì tuổi tác cũng đã cao. Đa phần các bậc quân vương đều băng hà trước sáu mươi, và rất hiếm khi do nguyên nhân tự nhiên. Những người thọ đến già mà mất chỉ là số ít may mắn. Dù vậy, không ít vị vua của Yaaran tạ thế do tuổi cao sức yếu hoặc bệnh tật thực sự, chứ không phải bị đầu độc đội lốt bệnh tật. Hiển nhiên thông tin này do chính triều đình công bố, nên đám thường dân thấp cổ bé họng như chúng tôi chịu không thể biết được thực hư ra sao.
 
-"Bệ Hạ vốn dĩ vẫn rất tráng kiện," công chúa giải thích, "và luôn nhiệt tâm gánh vác trọng trách của một đấng quân vương. Ai nấy đều hy vọng người sẽ tiếp tục như thế, và người ta còn bảo người sẽ tại vị thêm chục năm nữa."
+"Bệ Hạ vốn dĩ vẫn rất khỏe mạnh," công chúa giải thích, "và luôn nhiệt tâm gánh vác trọng trách của một đấng quân vương. Ai nấy đều hy vọng người sẽ tiếp tục như thế, và người ta còn bảo người sẽ tại vị thêm chục năm nữa."
 
 Thôi chết rồi. Cô bé sắp nói ra điều mà dân thường như chúng tôi không được phép biết. Cơ mà chúng tôi chẳng cách nào cản lại được, nên đành phó mặc cho số phận khi công chúa tiếp lời.
 
-"Có điều gần đây, long thể của Bệ Hạ suy sụp nghiêm trọng, và nếu cứ đà này, e là người khó lòng qua nổi năm nay."
+"Có điều gần đây, sức khỏe của Bệ Hạ suy sụp nghiêm trọng, và nếu cứ đà này, e là người khó lòng qua nổi năm nay."
 
 Thế là chúng tôi đã biết, đồng nghĩa với việc hết đường rời khỏi hoàng cung. Họ sẽ tống cả bọn vào ngục tối xích lại, rồi chúng tôi sẽ phải khóc ròng suốt phần đời còn lại bên những mẩu bánh mì khô khốc, mốc meo. Ít nhất thì đó là viễn cảnh vừa lóe lên trong đầu tôi, cơ mà chắc chưa đến mức phải lo chuyện ấy. Nếu định làm thật thì thà ngay từ đầu đừng tiết lộ gì cho chúng tôi có phải nhẹ nợ hơn không.
 
@@ -188,4 +188,4 @@ Tộc High Elf cai trị Vùng Đất Cổ Thánh Thụ, địa vị của họ 
 
 Dẫu vậy, lật lại lịch sử sẽ thấy con người từng không ít lần giao chiến với High Elf. Từng có bận loài người mưu toan biến tộc Elf thành nô lệ. Hai bên cũng từng xảy ra chiến tranh vì tranh chấp tôn giáo, kết cục là các giáo hội của loài người tuyên bố High Elf thấp kém hơn nhân loại. Nói nhẹ nhất thì mối quan hệ giữa con người và High Elf là một chặng đường dài đầy phức tạp. Dù vậy, không thể phủ nhận họ là những nghệ nhân chế tác ma cụ cừ khôi, và những bảo vật do các nghệ nhân ấy tạo ra hiện rải rác khắp thế giới. Quyền trượng của Vương Quốc Yaaran hẳn cũng là một trong số đó.
 
-"Thế quyền trượng thì liên quan gì đến long thể của Bệ Hạ?" Lorraine hỏi.
+"Thế quyền trượng thì liên quan gì đến sức khỏe của Bệ Hạ?" Lorraine hỏi.

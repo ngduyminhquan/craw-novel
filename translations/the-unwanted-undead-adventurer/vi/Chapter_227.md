@@ -24,9 +24,9 @@ Tôi chỉ mới nói rõ lý do mình đến đây, thế mà anh lính gác đ
 
 Dù vẻ ngoài của tôi trông chẳng giống ai, anh ta vẫn nghiêm túc lắng nghe, đủ thấy anh ta tận tụy với công việc và chân thành với mọi người đến mức nào khi làm người đại diện cho chủ nhân. Tôi dám chắc ở khối nước khác, người ta đã gạt phắt đi và đuổi thẳng cổ rồi. Nếu đặt mình vào vị trí của anh ta, thấy một gã trông kỳ quặc thế này tới bảo có việc cần gặp công chúa, chẳng đời nào tôi cho bước chân vào cung. Có điều, tôi vẫn còn một quân bài tẩy để xoay chuyển tình thế. Nói đúng hơn, lẽ ra ngay từ đầu tôi nên chìa thứ đó ra luôn mới phải.
 
-Tôi bắt đầu thò tay lục lọi túi áo. Dù có mang túi ma thuật bên mình, tôi đã lấy sẵn tấm huy chương ra từ trước để phòng tình huống này, cho tiện việc lúc cần chỉ việc thò tay vào là, úm ba la, rút ngay tấm huy chương ra.
+Tôi bắt đầu thò tay lục lọi túi áo. Dù có mang túi ma thuật bên mình, tôi đã lấy sẵn tấm huân chương ra từ trước để phòng tình huống này, cho tiện việc lúc cần chỉ việc thò tay vào là, úm ba la, rút ngay tấm huân chương ra.
 
-Và thế là, úm ba la, tôi chẳng tài nào lôi được tấm huy chương ra ngay. Tôi nhớ là mình để nó quanh đây cơ mà. Tôi tiếp tục mò mẫm, nhưng việc cứ đứng trơ ra thọc tay lục lọi túi áo rõ ràng chẳng giúp tình hình khá khẩm hơn chút nào. Bàn tay anh lính gác đã bắt đầu từ từ lần về phía chuôi kiếm bên hông.
+Và thế là, úm ba la, tôi chẳng tài nào lôi được tấm huân chương ra ngay. Tôi nhớ là mình để nó quanh đây cơ mà. Tôi tiếp tục mò mẫm, nhưng việc cứ đứng trơ ra thọc tay lục lọi túi áo rõ ràng chẳng giúp tình hình khá khẩm hơn chút nào. Bàn tay anh lính gác đã bắt đầu từ từ lần về phía chuôi kiếm bên hông.
 
 Hỏng rồi, tệ thật đấy chứ. Phải tìm ra nó ngay, nếu không thì...
 
@@ -34,13 +34,13 @@ Tay tôi chạm phải một vật có cảm giác đúng là thứ cần tìm, 
 
 ![](images/ch227-01.webp)
 
-"Một tấm huy chương ư?" anh lính gác buột miệng. Sau đó, anh ta tra kiếm vào bao rồi nói tiếp như thể ban nãy mình chưa từng rút vũ khí ra: "Vậy là anh được một quý tộc nào đó giới thiệu. Trò này quen quá rồi. Mấy kẻ ranh ma hay dẻo mỏ dụ dỗ mấy quý tộc nhẹ dạ chốn thôn quê trao cho tấm huy chương mang gia huy để kiếm cớ vào gặp người trong hoàng tộc. Hóa ra anh cũng là phường đó à? Khoan đã, đợi chút..."
+"Một tấm huân chương ư?" anh lính gác buột miệng. Sau đó, anh ta tra kiếm vào bao rồi nói tiếp như thể ban nãy mình chưa từng rút vũ khí ra: "Vậy là anh được một quý tộc nào đó giới thiệu. Trò này quen quá rồi. Mấy kẻ ranh ma hay dẻo mỏ dụ dỗ mấy quý tộc nhẹ dạ chốn thôn quê trao cho tấm huân chương mang gia huy để kiếm cớ vào gặp người trong hoàng tộc. Hóa ra anh cũng là phường đó à? Khoan đã, đợi chút..."
 
-Anh lính gác vừa nói vừa ghé mắt nhìn kỹ hơn vào tấm huy chương, rồi rốt cuộc cũng nhận ra biểu tượng gia huy khắc trên đó. Giọng anh ta bỗng vút cao lên nửa quãng tám:
+Anh lính gác vừa nói vừa ghé mắt nhìn kỹ hơn vào tấm huân chương, rồi rốt cuộc cũng nhận ra biểu tượng gia huy khắc trên đó. Giọng anh ta bỗng vút cao lên nửa quãng tám:
 
 "K-Khoan đã, đây là gia huy của Hầu tước xứ Ancro! Mà chiếc này lại là của riêng ngài Nauss..."
 
-Tôi không hề nhận ra điều đó, bởi trước giờ tôi chưa từng dành thời gian ngắm nghía kỹ tấm huy chương, nhưng có vẻ biểu tượng trên ấy còn giúp nhận diện từng thành viên cụ thể trong gia tộc. Đây là lần đầu tiên tôi được tặng... À khoan, thứ này chỉ là cho mượn thôi. Dù sao đi nữa, đây cũng là lần đầu tiên có người cho tôi mượn một món đồ như thế này. Tôi chẳng biết gì về huy chương quý tộc vì trước giờ làm gì có cơ hội mà tìm hiểu.
+Tôi không hề nhận ra điều đó, bởi trước giờ tôi chưa từng dành thời gian ngắm nghía kỹ tấm huân chương, nhưng có vẻ biểu tượng trên ấy còn giúp nhận diện từng thành viên cụ thể trong gia tộc. Đây là lần đầu tiên tôi được tặng... À khoan, thứ này chỉ là cho mượn thôi. Dù sao đi nữa, đây cũng là lần đầu tiên có người cho tôi mượn một món đồ như thế này. Tôi chẳng biết gì về huân chương quý tộc vì trước giờ làm gì có cơ hội mà tìm hiểu.
 
 Gia tộc lớn duy nhất quanh vùng Maalt là nhà của vị lãnh chúa cai quản nơi đó, Tử tước Lottnel, mà tôi thì đâu có quen biết gì ngài tử tước. Lần tiếp xúc nhiều nhất giữa tôi với ông ấy cũng chỉ là thỉnh thoảng dự mấy bữa tiệc do ngài tử tước tổ chức để giao lưu với giới mạo hiểm giả Maalt, rồi đứng ngắm ông ấy từ đằng xa. Ở những bữa tiệc như thế, ngài tử tước làm gì có thời gian tiếp chuyện một gã vô danh tiểu tốt Đồng Cấp như tôi, ông ấy còn bận trò chuyện với những nhân vật tầm cỡ như Hội Trưởng Wolf hay người đứng đầu các tổ chức có quan hệ mật thiết với Hội Mạo Hiểm Giả. Mà dù tôi có muốn bắt chuyện, đám tùy tùng của ông ấy chắc cũng xua tôi đi ngay.
 
@@ -48,7 +48,7 @@ Nói chung, tôi vốn không thuộc tầng lớp có thể qua lại thân tì
 
 "Làm sao anh... có được thứ này?"
 
-Anh lính gác hẳn rất muốn hỏi xem tôi đã xoay xở trộm tấm huy chương này từ tay ngài Nauss bằng cách nào, nhưng rốt cuộc vẫn nuốt được lời buộc tội ấy vào trong để bình tĩnh hỏi hết câu.
+Anh lính gác hẳn rất muốn hỏi xem tôi đã xoay xở trộm tấm huân chương này từ tay ngài Nauss bằng cách nào, nhưng rốt cuộc vẫn nuốt được lời buộc tội ấy vào trong để bình tĩnh hỏi hết câu.
 
 "Có lần tôi tình cờ thấy Điện Hạ và ngài Nauss bị quái vật tấn công," tôi giải thích. "Tôi biết mình không thể cứ thế bỏ mặc họ nên đã lao vào ứng cứu. Hai người này lúc đó cũng đi cùng tôi."
 
@@ -76,7 +76,7 @@ Tuy anh lính gác đã quay về vị trí trực, nhưng trên đường dẫn
 
 Dù tôi từng nghe danh những quý tộc mà anh lính gác vừa liệt kê, tôi lại không nhớ mình từng nghe ai nhắc nhiều đến cái tên Nauss. Đám mạo hiểm giả chúng tôi tuy chuộng tự do và ghét bị trói buộc bởi quyền uy, nhưng sống trên đất nước này thì kiểu gì cũng phải dính dáng đến giới quý tộc hay thân thích của họ bằng cách này hay cách khác. Thỉnh thoảng chúng tôi vẫn đem chuyện quý tộc ra bàn tán, song tôi chẳng nhớ cái tên Nauss từng xuất hiện trong những buổi trò chuyện đó bao giờ.
 
-Vả lại, Maalt nằm cách vương đô quá xa nên chúng tôi hiếm khi có cớ để bàn tán mấy chuyện kiểu này, họa hoằn lắm nửa năm mới nhắc tới một lần. Có điều tôi đoán Lorraine hẳn là ngoại lệ. Khi tôi liếc sang, vẻ mặt cô ấy cho thấy cô đã nắm được những điều cơ bản về Nauss từ trước. Sở dĩ cô không nói gì có lẽ vì theo lời anh lính gác kể, Nauss chẳng phải kẻ khó ưa hay đáng ngại gì cho cam. Hoặc cũng có thể Lorraine muốn để tôi tự mình quan sát và đánh giá.
+Vả lại, Maalt nằm cách vương đô quá xa nên chúng tôi hiếm khi có cớ để bàn tán mấy chuyện kiểu này, họa hoằn lắm nửa năm mới nhắc tới một lần. Có điều tôi đoán Lorraine hẳn là ngoại lệ. Khi tôi liếc sang, vẻ mặt cô ấy cho thấy cô ấy đã nắm được những điều cơ bản về Nauss từ trước. Sở dĩ cô ấy không nói gì có lẽ vì theo lời anh lính gác kể, Nauss chẳng phải kẻ khó ưa hay đáng ngại gì cho cam. Hoặc cũng có thể Lorraine muốn để tôi tự mình quan sát và đánh giá.
 
 Tôi không rõ về Augurey, nhưng có lẽ anh ta đã tìm hiểu về Nauss trong lúc chúng tôi còn bận bịu ở Maalt, thậm chí khéo hai người họ đã gặp nhau rồi cũng nên. Thấy Augurey chẳng hề dặn dò chúng tôi điều gì trước cuộc gặp, tôi đoán Nauss không phải người quá câu nệ lễ nghi phép tắc. Vả lại Lorraine và tôi đâu đến mức thô lỗ hay không biết điều. Nếu đi cùng mấy tay mạo hiểm giả cục mịch hơn, chắc Augurey đã phải chỉ dẫn từng ly từng tí về cách ăn nói, đi đứng trước mặt quý tộc rồi.
 
@@ -126,7 +126,7 @@ Chẳng lẽ hai người họ đã quen với việc gặp gỡ hoàng tộc r�
 
 Nói là vậy chứ tôi cũng chẳng để bụng chuyện đó làm gì, chỉ là tôi thực sự cần phải sớm lên Ngân Cấp mới được. Dạo gần đây xảy ra bao nhiêu biến cố nên tôi chưa nhận đủ số lượng ủy thác cần thiết để đạt điều kiện dự kỳ thi thăng hạng, nhưng tôi nhủ bụng hễ có chút thời gian rảnh là phải nhận làm một lèo thật nhiều ủy thác để đủ điều kiện nộp đơn. Ngay khoảnh khắc ấy, tôi đã thầm thề với lòng mình như vậy.
 
-Tôi không dám chắc thực lực của mình có đủ đỗ kỳ thi hay không, nhưng chưa thi thì làm sao biết được. Ý tôi là, giờ đây tôi đã có thể đối phó với quái vật Ngân Cấp, thậm chí tùy tình huống còn hạ được cả quái vật Kim Cấp như Tarasque, loài vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là nhờ việc đó đòi hỏi phải chuẩn bị đặc biệt để chống lại nọc độc của nó, mà tôi thì tình cờ lại miễn nhiễm với mọi loại độc. Vì thế tôi mới nghĩ thực lực mình chắc cũng ngấp nghé tầm Ngân Cấp. Hoặc biết đâu tôi cũng chỉ mới đấu nổi quái vật Thượng Đồng Cấp mà thôi. Bản thân tôi cũng chẳng mấy tự tin vào chuyện này.
+Tôi không dám chắc thực lực của mình có đủ đỗ kỳ thi hay không, nhưng chưa thi thì làm sao biết được. Ý tôi là, giờ đây tôi đã có thể đối phó với quái vật Ngân Cấp, thậm chí tùy tình huống còn hạ được cả quái vật Kim Cấp như Tarasque, loài vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là vì con quái vật đó đòi hỏi phải chuẩn bị đặc biệt để đối phó với nọc độc của nó, mà tôi thì tình cờ lại miễn nhiễm với mọi loại độc. Vì thế tôi mới nghĩ thực lực mình chắc cũng ngấp nghé tầm Ngân Cấp. Hoặc biết đâu tôi cũng chỉ mới đấu nổi quái vật Thượng Đồng Cấp mà thôi. Bản thân tôi cũng chẳng mấy tự tin vào chuyện này.
 
 Trong lúc tôi còn đang mải băn khoăn về thực lực của mình, có tiếng người đáp lại từ phía bên kia cánh cửa:
 

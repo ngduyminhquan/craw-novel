@@ -32,7 +32,7 @@ Cô ấy bước về phía nhà thờ, tôi cũng lẳng lặng đi theo. Chún
 
 Bên trong Giáo Hội Đông Thiên cũng là một công trình kiến trúc ấn tượng chẳng kém gì vẻ ngoài, nhưng có lẽ do giáo lý của họ, nơi đây không hề được bài trí xa hoa hay loè loẹt. Nói vậy không có nghĩa là nó không đẹp, trái lại còn rất đẹp là đằng khác, chỉ có điều nét đẹp ở đây trầm lắng và khiêm nhường, còn các bức tượng cùng tranh tường đều tránh thói phô trương hào nhoáng mà hướng trọn về lòng thành kính.
 
-Mọi nét trang trí đều khắc họa nhân vật và sự kiện trong kinh điển của Giáo Hội Đông Thiên, và các tín đồ đang thành tâm cầu nguyện trước từng bức tượng cùng bích họa. Ở chính giữa đại sảnh, những dãy ghế dài tít tắp đủ chỗ cho đông đảo tín đồ ngồi được xếp ngay ngắn thành từng hàng. Chạy dọc giữa các hàng ghế là lối đi trải thảm tím dẫn thẳng tới bàn thờ. Phía sau bàn thờ, ô cửa kính màu lớn khắc họa Thiên Sứ Phương Đông được giáo hội phụng thờ đang rọi ánh sáng ấm áp khắp căn phòng. Dù vậy, cả bàn thờ lẫn ô kính màu đều không nhằm phô trương sự bề thế của giáo hội, mà là sự sắp đặt có chủ ý nhằm tạo nên một bầu không khí tĩnh mịch và sùng kính.
+Mọi nét trang trí đều khắc họa nhân vật và sự kiện trong kinh điển của Giáo Hội Đông Thiên, và các tín đồ đang thành tâm cầu nguyện trước từng bức tượng cùng bích họa. Ở chính giữa đại sảnh, những dãy ghế dài tít tắp đủ chỗ cho đông đảo tín đồ ngồi được xếp ngay ngắn thành từng hàng. Chạy dọc giữa các hàng ghế là lối đi trải thảm tím dẫn thẳng tới bàn thờ. Phía sau bàn thờ, ô cửa kính màu lớn khắc họa Thiên Sứ Phương Đông được giáo hội phụng thờ đang rọi ánh sáng ấm áp khắp căn phòng. Dù vậy, cả bàn thờ lẫn ô kính màu đều không nhằm phô trương sự bề thế của giáo hội, mà được bài trí có chủ ý để tạo nên bầu không khí tĩnh mịch và thành kính.
 
 "Tôi chẳng có ý định theo một tín ngưỡng nào, nhưng cứ ở những nơi thế này là lòng lại thấy lắng xuống," Lorraine khẽ thở dài bảo.
 
@@ -80,7 +80,7 @@ Thế thì đúng là một thái cực hoàn toàn trái ngược.
 
 "Ngẫm ra thì chuyện đó cũng chẳng hẳn là xấu... cơ mà nghe cứ thấy sực mùi toan tính sao ấy."
 
-"Đời vốn thực tế và khắc nghiệt thế đấy. Mà thôi, quay lại chuyện bức thư đã. Tôi muốn bảo đảm Nữ Tu Viện Trưởng nhận được tận tay, chứ không đời nào muốn đưa bừa cho một tư tế vu vơ nào đó rồi để nó chìm vào quên lãng."
+"Đời vốn thực tế thế đấy. Mà thôi, quay lại chuyện bức thư đã. Tôi muốn bảo đảm Nữ Tu Viện Trưởng nhận được tận tay, chứ không đời nào muốn đưa bừa cho một tư tế vu vơ nào đó rồi để nó chìm vào quên lãng."
 
 Lorraine nhìn quanh đại sảnh, rồi cất tiếng gọi một phụ nữ đi ngang qua trông như nữ tu. Cô ấy định nhờ người này mời Nữ Tu Viện Trưởng Elza ra gặp. Cách đơn giản nhất dĩ nhiên là cứ đưa thư cho nữ tu rồi nhờ chuyển giùm, nhưng Lorraine đã nhận việc này như một ủy thác đàng hoàng. Lòng tự tôn nghề nghiệp của mạo hiểm giả đòi hỏi cô ấy phải bảo đảm Elza nhận được tận tay bức thư. Đã thế thì cứ tùy tiện đưa thư cho một nữ tu tình cờ đi ngang qua sẽ là quá bất cẩn.
 
@@ -98,7 +98,7 @@ Vả lại nhìn mấy tu sĩ đi ngang qua, ai nấy đều ăn mặc hết s�
 
 Lorraine chỉ giải thích sơ qua về ủy thác của mình, nhưng vừa nghe thấy cái tên đó, mắt người nữ tu đã trợn tròn kinh ngạc.
 
-"T-Thư của Sơ Lillian gửi cho Mẹ Bề Trên Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi thỉnh Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng vào phòng tiếp khách đợi một lát— Này em kia! Mau dẫn hai vị khách này sang phòng tiếp khách đi!"
+"T-Thư của Sơ Lillian gửi cho Mẹ Bề Trên Elza ư?! T-Tôi hiểu rồi. Tôi sẽ đi thỉnh Nữ Tu Viện Trưởng ngay lập tức! Xin hai vị vui lòng vào phòng tiếp khách đợi một lát... Này em kia! Mau dẫn hai vị khách này sang phòng tiếp khách đi!"
 
 Người nữ tu lúc này đã cuống quýt thấy rõ, vội chặn một cô gái trẻ trông như tu sinh tập sự lại dặn dò rồi tất tả chạy đi.
 

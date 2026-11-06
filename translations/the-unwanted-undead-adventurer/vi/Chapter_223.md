@@ -12,7 +12,7 @@ Sau khi dẫn chúng tôi tới phòng tiếp khách, cô tu sinh pha trà rồi
 
 Lorraine nhíu mày liếc về phía tôi. Dĩ nhiên tôi chỉ nói đùa. Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên không chỉ là một chức sắc tôn giáo mà còn là một nhân vật có tầm ảnh hưởng chính trị. Chẳng đời nào một người như vậy lại ít khi thư từ, hay chuyện nhận thư lại là điều hiếm thấy. Vì thế, suy đoán hợp lý nhất là người nữ tu kia kinh ngạc không phải vì Nữ Tu Viện Trưởng Elza nhận được thư, mà vì người gửi thư cho Nữ Tu Viện Trưởng lại là Sơ Lillian.
 
-"Tôi đùa thôi mà. Đoán kiểu gì thì khả năng hợp lý nhất vẫn là Lillian giữ vị trí khá quan trọng trong giáo hội, đúng chứ?" tôi nói.
+"Tôi đùa thôi mà. Đoán kiểu gì thì khả năng hợp lý nhất vẫn là Sơ Lillian giữ vị trí khá quan trọng trong giáo hội, đúng chứ?" tôi nói.
 
 "Vậy sao cô bé ban nãy lại chẳng biết gì về sơ ấy?"
 
@@ -22,13 +22,13 @@ Lorraine nhíu mày liếc về phía tôi. Dĩ nhiên tôi chỉ nói đùa. N�
 
 Tuy gật đầu, Lorraine xem chừng vẫn chưa thấy thuyết phục lắm trước lập luận của tôi. Vốn mang bản chất học giả, cô ấy chẳng bao giờ thích dựa vào linh cảm hay phỏng đoán, trừ lúc dùng chúng để xem một vấn đề có đáng bận tâm hay không.
 
-Có điều, tôi cũng tò mò về Sơ Lillian chẳng kém gì cô ấy. Sơ ấy là một nữ tu phụng sự ở nơi xa xôi hẻo lánh như Maalt, nhưng ngẫm lại thì sự hiện diện của sơ ở đó quả thật có phần kỳ lạ. Dù sao sơ ấy cũng dùng được Thần Lực, tức là một Thánh Giả. Tại cả Lorraine, tôi và thậm chí đám Thi Quỷ của tôi muốn là đều dùng được, nên người ta rất dễ quên mất năng lực đó đáng nể đến mức nào, chứ thực ra đây là một khả năng khá hiếm gặp. Bất kể mạnh yếu ra sao, người dùng được Thần Lực đều được tổ chức tôn giáo của mình hết mực trọng vọng. Thường thì trên danh nghĩa họ thuộc về một giáo phái cụ thể, nhưng thực tế lại đi khắp nơi với tư cách tư tế du hành, giáo sĩ hay phó tế; thế nhưng Lillian lại được phái đến một giáo đoàn hẻo lánh xa xôi. Chẳng khó để nhận ra đằng sau chuyện này ắt phải có uẩn khúc gì đó.
+Có điều, tôi cũng tò mò về Sơ Lillian chẳng kém gì cô ấy. Sơ ấy là một nữ tu phụng sự ở nơi xa xôi hẻo lánh như Maalt, nhưng ngẫm lại thì việc sơ ấy có mặt ở đó quả thật hơi kỳ lạ. Dù sao sơ ấy cũng dùng được Thần Lực, tức là một Thánh Giả. Tại cả Lorraine, tôi và thậm chí đám Thi Quỷ của tôi muốn là đều dùng được, nên người ta rất dễ quên mất năng lực đó đáng nể đến mức nào, chứ thực ra đây là một khả năng khá hiếm gặp. Bất kể mạnh yếu ra sao, người dùng được Thần Lực đều được tổ chức tôn giáo của mình hết mực trọng vọng. Thường thì trên danh nghĩa họ thuộc về một giáo phái cụ thể, nhưng thực tế lại đi khắp nơi với tư cách tư tế du hành, giáo sĩ hay phó tế; thế nhưng Sơ Lillian lại được phái đến một giáo đoàn hẻo lánh xa xôi. Chẳng khó để nhận ra đằng sau chuyện này ắt phải có uẩn khúc gì đó.
 
 "Nếu cô thực sự muốn biết thì một là phải đích thân hỏi sơ ấy, hai là hỏi Nữ Tu Viện Trưởng Elza mà chúng ta sắp gặp. Có điều, chẳng biết họ có chịu trả lời hay không thôi."
 
 "Hừm... Chắc là khó đấy."
 
-Lorraine khoanh tay thở dài. Chuyện này vốn là việc nội bộ của Giáo Hội Đông Thiên, người ta khó lòng thoải mái tiết lộ với người ngoài. Đã vậy thì chúng tôi cũng đành chịu. Có điều, nếu hỏi thẳng Lillian thì biết đâu sơ ấy cũng chẳng ngại kể ra.
+Lorraine khoanh tay thở dài. Chuyện này vốn là việc nội bộ của Giáo Hội Đông Thiên, người ta khó lòng thoải mái tiết lộ với người ngoài. Đã vậy thì chúng tôi cũng đành chịu. Có điều, nếu hỏi thẳng Sơ Lillian thì biết đâu sơ ấy cũng chẳng ngại kể ra.
 
 Chúng tôi ngồi nhấp trà chờ một lát thì có tiếng gõ cửa. Cả tôi và Lorraine liền đứng dậy, đồng thanh đáp: "Mời vào."
 
@@ -48,7 +48,7 @@ Nữ Tu Viện Trưởng Elza cúi chào thật sâu khi bước vào phòng. C�
 
 "Cảm ơn lời giới thiệu nhã nhặn của ngài. Tôi là Lorraine Vivie, mạo hiểm giả Ngân Cấp, còn đây là người đồng hành của tôi, Rentt Vivie."
 
-Lorraine là người nhận ủy thác này nên cô ấy đứng ra thưa chuyện với Nữ Tu Viện Trưởng. Còn tôi, nói cho đúng thì chỉ là kẻ đi theo cùng. Dù vậy, tôi đã cùng Lorraine đi suốt quãng đường từ Maalt tới đây, nên tôi nghĩ mình có quyền có mặt ở đây. Vả lại, dưới góc nhìn của Lillian, sơ ấy không hẳn chỉ nhờ cậy riêng Lorraine, mà đúng hơn là đã gửi gắm bức thư cho cả hai chúng tôi.
+Lorraine là người nhận ủy thác này nên cô ấy đứng ra thưa chuyện với Nữ Tu Viện Trưởng. Còn tôi, nói cho đúng thì chỉ là kẻ đi theo cùng. Dù vậy, tôi đã cùng Lorraine đi suốt quãng đường từ Maalt tới đây, nên tôi nghĩ mình có quyền có mặt ở đây. Vả lại, dưới góc nhìn của Sơ Lillian, sơ ấy không hẳn chỉ nhờ cậy riêng Lorraine, mà đúng hơn là đã gửi gắm bức thư cho cả hai chúng tôi.
 
 Khi biết chúng tôi mang cùng họ, Elza đảo mắt nhìn qua nhìn lại giữa hai chúng tôi. Lorraine nhận ra điều Nữ Tu Viện Trưởng muốn hỏi, nhưng cô ấy lờ đi và nói tiếp. Chẳng cần phải giải thích làm gì, bởi có thiếu gì lý do khiến hai người cùng họ, chẳng hạn như đã kết hôn hoặc là người cùng một nhà. Elza cũng không gặng hỏi thêm mà hướng sự chú ý trở lại Lorraine.
 
@@ -56,9 +56,9 @@ Khi biết chúng tôi mang cùng họ, Elza đảo mắt nhìn qua nhìn lại 
 
 "Ngân Cấp ư? Ra là vậy. Liệu cô có phiền không nếu tôi mở thư ngay tại đây? Quả thực tôi đang rất nóng lòng muốn biết sơ ấy đã viết những gì."
 
-Sở dĩ Elza nhắc đến cấp bậc của Lorraine là vì thông thường, chỉ cần một mạo hiểm giả Đồng Cấp là đã quá đủ để đưa thư an toàn. Chẳng mấy ai cất công thuê mạo hiểm giả Ngân Cấp làm việc đó. Đành rằng giới nhà giàu thỉnh thoảng vẫn thuê mạo hiểm giả cấp cao để chuyển thư tín quan trọng, nhưng Lillian vốn chỉ là người phụ trách cô nhi viện ở Maalt. Sơ ấy chẳng lấy gì làm dư dả, nên Elza ắt phải thắc mắc vì sao sơ lại nhờ tới một mạo hiểm giả Ngân Cấp.
+Sở dĩ Elza nhắc đến cấp bậc của Lorraine là vì thông thường, chỉ cần một mạo hiểm giả Đồng Cấp là đã quá đủ để đưa thư an toàn. Chẳng mấy ai cất công thuê mạo hiểm giả Ngân Cấp làm việc đó. Đành rằng giới nhà giàu thỉnh thoảng vẫn thuê mạo hiểm giả cấp cao để chuyển thư tín quan trọng, nhưng Sơ Lillian vốn chỉ là người phụ trách cô nhi viện ở Maalt. Sơ ấy chẳng lấy gì làm dư dả, nên Elza ắt phải thắc mắc vì sao sơ ấy lại nhờ tới một mạo hiểm giả Ngân Cấp.
 
-Thực tế thì Lorraine nhận việc này không phải vì Lillian nằng nặc đòi mạo hiểm giả Ngân Cấp, mà đơn giản là do hai người vốn quen biết nhau. Về phần thù lao, ban đầu Lillian cứ khăng khăng đòi trả đúng giá, nhưng Lorraine đã bớt cho sơ ấy vì đằng nào chúng tôi cũng tiện đường sang đây.
+Thực tế thì Lorraine nhận việc này không phải vì Sơ Lillian nằng nặc đòi mạo hiểm giả Ngân Cấp, mà đơn giản là do hai người vốn quen biết nhau. Về phần thù lao, ban đầu Sơ Lillian cứ khăng khăng đòi trả đúng giá, nhưng Lorraine đã bớt cho sơ ấy vì đằng nào chúng tôi cũng tiện đường sang đây.
 
 Còn chuyện Elza muốn mở thư ngay trước mặt chúng tôi thì có lẽ vì hai lý do. Thứ nhất, đúng như lời cô ấy vừa nói, là cô ấy muốn xem ngay nội dung thư. Thứ hai, cô ấy muốn kiểm tra xem thư có được chuyển đến tay mình một cách nguyên vẹn hay không.
 
@@ -78,9 +78,9 @@ Trong lúc tôi còn đang nghĩ ngợi mông lung, Elza vừa mở bức thư r
 
 Elza lắc đầu. "Không có gì. Chỉ là tôi vừa cảm thấy một luồng khí tức thân quen xưa cũ..."
 
-Rồi Elza chợt cất tiếng ngâm xướng một câu thánh chú của Giáo Hội Đông Thiên, khiến vầng sáng xanh lam dịu nhẹ bừng lên quanh người cô ấy. Như đáp lại luồng sáng ấy, bức thư của Lillian cũng bắt đầu phát ra ánh sáng tương tự, dù có đôi nét khác biệt.
+Rồi Elza chợt cất tiếng ngâm xướng một câu thánh chú của Giáo Hội Đông Thiên, khiến vầng sáng xanh lam dịu nhẹ bừng lên quanh người cô ấy. Như đáp lại luồng sáng ấy, bức thư của Sơ Lillian cũng bắt đầu phát ra ánh sáng tương tự, dù có đôi nét khác biệt.
 
-Đó chắc chắn là ánh sáng của Thần Lực, không thể lẫn vào đâu được. Lillian là một Thánh Giả nên dùng được Thần Lực, và xem chừng Elza cũng là một Thánh Giả. Người ta không nhất thiết phải là Thánh Giả mới leo lên được hàng ngũ cấp cao trong tổ chức tôn giáo, nhưng sở hữu năng lực đó thường sẽ giúp khởi đầu ở nấc thang khá cao trong phẩm trật giáo hội. Kéo theo đó, họ có thể thăng tiến nhanh hơn, nên nhìn chung là dễ đạt tới vị trí cao hơn. Hoặc ít ra tôi từng nghe người ta nói vậy. Nếu phẩm trật cao bất thường so với tuổi đời của Elza bắt nguồn từ chính năng lực này, thì cũng hoàn toàn hợp lý.
+Đó chắc chắn là ánh sáng của Thần Lực, không thể lẫn vào đâu được. Sơ Lillian là một Thánh Giả nên dùng được Thần Lực, và xem chừng Elza cũng là một Thánh Giả. Người ta không nhất thiết phải là Thánh Giả mới leo lên được hàng ngũ cấp cao trong tổ chức tôn giáo, nhưng sở hữu năng lực đó thường sẽ giúp khởi đầu ở nấc thang khá cao trong phẩm trật giáo hội. Kéo theo đó, họ có thể thăng tiến nhanh hơn, nên nhìn chung là dễ đạt tới vị trí cao hơn. Hoặc ít ra tôi từng nghe người ta nói vậy. Nếu phẩm trật cao bất thường so với tuổi đời của Elza bắt nguồn từ chính năng lực này, thì cũng hoàn toàn hợp lý.
 
 Thần Lực lắng xuống sau giây lát, cũng là lúc con dấu sáp trên bức thư vỡ vụn thành tro bụi. Vì chưa từng chứng kiến chuyện này bao giờ, tôi liền liếc sang Lorraine để tìm kiếm lời giải thích, và cô ấy liền khẽ thì thầm giải thích.
 

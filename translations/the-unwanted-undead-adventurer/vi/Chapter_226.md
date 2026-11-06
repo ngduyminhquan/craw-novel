@@ -82,7 +82,7 @@ Anh ta bắt đầu liệt kê một tràng các ủy thác đòi hỏi phải l
 
 Rồi Augurey quay sang Lorraine, hỏi như thể đó là điều hiển nhiên nhất trần đời: "Lorraine, cô cũng giúp một tay chứ?"
 
-"Xem ra tôi chẳng còn lựa chọn nào khác. Bản thân tôi cũng có phần trách nhiệm trong chuyện này. Tôi sẽ nghe yêu cầu của anh," cô nói với vẻ cam chịu.
+"Xem ra tôi chẳng còn lựa chọn nào khác. Bản thân tôi cũng có phần trách nhiệm trong chuyện này. Tôi sẽ nghe yêu cầu của anh," cô ấy nói với vẻ cam chịu.
 
 ◆◇◆◇◆
 
@@ -90,7 +90,7 @@ Rồi Augurey quay sang Lorraine, hỏi như thể đó là điều hiển nhiê
 
 "Tôi cứ thấy như mình vừa bị vặt sạch ấy," tôi lẩm bẩm.
 
-"Chuyện nào ra chuyện nấy chứ, hai chuyện hoàn toàn khác nhau mà. Vấn đề là chuyện vào hoàng cung kìa. Dù chúng ta có thể dễ dàng vào cửa nhờ tấm huy chương cậu được trao, nhưng cậu có chắc cái... ừm... cơ thể đặc biệt của cậu sẽ không sao chứ? Hoàng cung có mấy thiết bị dò tìm lợi hại lắm đấy."
+"Chuyện nào ra chuyện nấy chứ, hai chuyện hoàn toàn khác nhau mà. Vấn đề là chuyện vào hoàng cung kìa. Dù chúng ta có thể dễ dàng vào cửa nhờ tấm huân chương cậu được trao, nhưng cậu có chắc cái... ừm... cơ thể đặc biệt của cậu sẽ không sao chứ? Hoàng cung có mấy thiết bị dò tìm lợi hại lắm đấy."
 
 Augurey có vẻ thực sự lo lắng, nhưng chúng tôi đã giải quyết xong chuyện đó từ trước rồi.
 
@@ -110,7 +110,7 @@ Tôi gật đầu. Tôi chẳng biết ai đang ở ngoài cửa sổ, nhưng n�
 
 "Hử? Đâu có ai ở đây...?"
 
-"Không, có vẻ vị khách này tới tìm tôi chứ không phải anh đâu," Lorraine giải thích trong lúc tiến lại gần cửa sổ. Cô nhìn xuống góc dưới bên phải, sát mép bậu cửa, rồi khum hai bàn tay lại như đang vốc nước. Một sinh vật nhỏ liền nhảy tót vào lòng bàn tay cô.
+"Không, có vẻ vị khách này tới tìm tôi chứ không phải anh đâu," Lorraine giải thích trong lúc tiến lại gần cửa sổ. Cô ấy nhìn xuống góc dưới bên phải, sát mép bậu cửa, rồi khum hai bàn tay lại như đang vốc nước. Một sinh vật nhỏ liền nhảy tót vào lòng bàn tay cô ấy.
 
 "Một con Puchi Suri," Augurey thoáng vẻ ngạc nhiên. "Lorraine, cô bắt đầu nuôi quái vật làm thú cưng từ bao giờ thế? Ồ, khéo khi Rentt cũng nằm trong sở thích đó của cô..."
 
@@ -140,6 +140,6 @@ Tôi vừa truyền ý nghĩ ấy đi thì nhận được câu trả lời.
 
 "Không thành vấn đề. Đã vào được tận tẩm điện của nhà vua."
 
-Ngắn gọn và đúng trọng tâm. Có lẽ chú chuột Puchi Suri này thuộc kiểu ít lời và dứt khoát chăng? Edel trả lời thường ồn ào và mơ hồ hơn nhiều, lúc nào cũng toát ra vẻ ngang tàng như một tên cướp biển. Thật khó diễn tả thành lời vì nó đâu dùng ngôn từ, nhưng bằng cách nào đó, ý nghĩ truyền sang luôn phản ánh rõ tính cách của nó.
+Ngắn gọn và đúng trọng tâm. Có lẽ con Puchi Suri này thuộc kiểu ít lời và dứt khoát chăng? Edel trả lời thường ồn ào và mơ hồ hơn nhiều, lúc nào cũng toát ra vẻ ngang tàng như một tên cướp biển. Thật khó diễn tả thành lời vì nó đâu dùng ngôn từ, nhưng bằng cách nào đó, ý nghĩ truyền sang luôn phản ánh rõ tính cách của nó.
 
 "Có vẻ mọi chuyện đều ổn cả," tôi nói với Lorraine.
