@@ -14,7 +14,7 @@ Dù sao đi nữa, tuy bụng bảo dạ cứ mặc kệ tiếng rên mà đi ti
 
 Trước mắt tôi là một con quái vật trông như cún con, chính xác hơn là một chú sói con. Bên cạnh nó là một con quái vật to lớn hơn nhiều đang nằm sóng soài trên đất, nhưng đã chết. Vùng bụng nó có một vết thương rất lớn. Đoán chừng một con quái vật khác đã giết chết nó. Nếu quả đúng như vậy thì cái xác trông vẫn còn khá nguyên vẹn, nhưng mà...
 
-"Không, có lẽ do mình đã làm vướng chân..."
+"Không, chắc là tại mình đến ngáng đường..."
 
 Cảm nhận được có thứ gì đó quanh mình, tôi rút kiếm ra. Con quái vật lao vút về phía tôi, nhanh như gió thoảng, và tôi xoay người đón đỡ đòn tấn công của nó. Ngay lúc nó còn đang lao tới trên không trung, tôi bước sang một bên rồi vung kiếm chém một nhát khi nó vừa lướt qua. Đến khi nó đổ rạp xuống đất, tôi mới thấy đó là một con quái vật họ mèo.
 
@@ -46,7 +46,7 @@ Sói Đen là loài quái vật nổi tiếng là tương đối dễ quấn ng�
 
 "Nghe cũng hợp lý đấy..." Lorraine nói. "Như thế nó cũng sẽ có một cuộc sống tốt đẹp. Vậy chắc để tôi tìm xem có người chủ nào không ngược đãi nó."
 
-"Xin lỗi nhé," tôi nói lời tạ lỗi. "Tôi cũng sẽ tìm thử, nhưng mấy chuyện này thì cô thạo hơn tôi nhiều."
+"Xin lỗi nhé," tôi nói. "Tôi cũng sẽ tìm thử, nhưng mấy chuyện này thì cô thạo hơn tôi nhiều."
 
 "Ừm, có khá nhiều quý phu nhân mua sản phẩm của tôi. Nhưng chuyện đó tính sau, trước hết chúng ta phải lo cái ăn cho chú sói con này đã."
 
@@ -64,7 +64,7 @@ Cứ thế, chúng tôi bắt đầu những ngày sống chung với chú sói 
 
 Tôi không muốn hoàn cảnh đặc thù của mình kéo chú sói con vào chuyện gì chẳng lành, vả lại xét thuần túy về mặt thực tế thì giống Sói Đen khi lớn sẽ có kích thước khá đồ sộ. Nhà của Lorraine đâu phải một dinh cơ rộng thênh thang, chẳng mấy chốc chú sói con tội nghiệp sẽ bắt đầu thấy chật chội. Dĩ nhiên, những chuyện này Lorraine đều biết rõ.
 
-"Tôi đoán là chẳng còn cách nào khác," cô ấy nói rồi nhìn xuống chú sói con. "Sống cho thật tốt nhé, biết chưa? Một ngày nào đó bọn ta sẽ tới thăm mày. Tao đã hẹn trước với Nữ Nam tước và con trai bà ấy rồi đấy."
+"Tôi đoán là chẳng còn cách nào khác," cô ấy nói rồi nhìn xuống chú sói con. "Sống cho thật tốt nhé, biết chưa? Một ngày nào đó bọn tôi sẽ tới thăm mày. Tôi đã hẹn trước với Nữ Nam tước và con trai bà ấy rồi đấy."
 
 "Có khi tới lúc ấy nó quên sạch chúng ta rồi cũng nên," tôi nói.
 

@@ -4,7 +4,7 @@
 
 "Cô đang nghĩ gì thế?" tôi hỏi.
 
-"Chỉ là, anh biết hồi trước tôi từng học ở Học Viện của Đế Quốc một thời gian rồi đấy?"
+"Chỉ là, anh cũng biết hồi trước tôi từng học ở Học Viện của Đế Quốc một thời gian mà, nhỉ?"
 
 "Ừ."
 

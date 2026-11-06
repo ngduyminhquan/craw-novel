@@ -2,7 +2,7 @@
 
 Cách đây vài năm, hồi tôi vẫn còn là một mạo hiểm giả con người kiếm sống ở Vương Quốc Yaaran...
 
-"Cô ta muốn cô đưa tới Mũi Rook à?" tôi hỏi, lúc đó đang ngồi ăn tối ở nhà Lorraine. "Mà nhắc lại xem nào, sao cô ta lại muốn đến đó ấy nhỉ?"
+"Cô ấy muốn cô đưa tới Mũi Rook à?" tôi hỏi, lúc đó đang ngồi ăn tối ở nhà Lorraine. "Mà nhắc lại xem nào, sao cô ấy lại muốn đến đó ấy nhỉ?"
 
 "Nghe đâu là muốn tới ngắm cảnh," Lorraine đáp. "Chà, mấy ủy thác kỳ quặc kiểu này thì thiếu gì. Mạo hiểm giả như chúng ta đâu thể kén cá chọn canh, có điều dĩ nhiên tôi vẫn sẽ cẩn thận để ý xem có gì đáng ngờ không."
 
@@ -12,9 +12,9 @@ Chúng tôi đang nói về một ủy thác mà Lorraine mới nhận. Một ng
 
 Mà nhắc đến Mũi Rook thì còn một chuyện nữa...
 
-"Trùng hợp thật, nghe cô nhắc chuyện cẩn thận mới nói..." tôi lẩm bẩm. "Liệu cô ta có ổn không đấy?"
+"Nghe cô nhắc chuyện cẩn thận mới nói..." tôi lẩm bẩm. "Liệu cô ấy có ổn không đấy?"
 
-"Anh cũng lo chuyện đó xảy ra à? Nếu không phải bận tâm mà cứ mặc kệ cô ta được thì tốt quá, nhưng tôi chẳng muốn vô tình nhìn thấy cảnh chẳng lành đâu."
+"Anh cũng lo chuyện đó xảy ra à? Nếu không phải bận tâm mà cứ mặc kệ cô ấy được thì tốt quá, nhưng tôi chẳng muốn vô tình nhìn thấy cảnh chẳng lành đâu."
 
 "Hóa ra cô cũng có linh cảm đấy hả?"
 
@@ -26,17 +26,17 @@ Bởi thế, nơi đây vốn khét tiếng là một điểm tự sát. Nó cá
 
 Dù vậy, nghĩ theo hướng đó thì dường như chẳng có gì phải lo, bởi thân chủ lại yêu cầu có người hộ tống.
 
-Tôi đem thắc mắc đó nói với Lorraine: "Mà này, nếu định làm thế thật thì cô ta việc gì phải cất công thuê người hộ tống chứ?"
+Tôi đem thắc mắc đó nói với Lorraine: "Mà này, nếu định làm thế thật thì cô ấy việc gì phải cất công thuê người hộ tống chứ?"
 
-"Nếu là đàn ông thì chắc thế thật. Nhưng phụ nữ đi một mình thì lúc nào chẳng có nguy cơ bị cướp tóm dọc đường. Biết đâu cô ta chỉ muốn mọi chuyện chắc chắn tuyệt đối thôi. Đâu phải cứ muốn chết là muốn bị lũ cướp bắt đi."
+"Nếu là đàn ông thì chắc thế thật. Nhưng phụ nữ đi một mình thì lúc nào chẳng có nguy cơ bị cướp tóm dọc đường. Biết đâu cô ấy chỉ muốn mọi chuyện chắc chắn tuyệt đối thôi. Đâu phải cứ muốn chết là muốn bị lũ cướp bắt đi."
 
 "À, cũng phải..."
 
 Tôi cứ đinh ninh trong đầu rằng đằng nào cũng chết thì mọi sự trên đời chẳng còn quan trọng nữa, nhưng Lorraine nói phải, chắc chắn vẫn có những chuyện mà người ta thà tránh còn hơn.
 
-"Được rồi, tôi hiểu rồi," tôi bảo. "Cứ để mắt trông chừng nhé. Nếu khuyên can được cô ta thì..."
+"Được rồi, tôi hiểu rồi," tôi bảo. "Cứ để mắt trông chừng nhé. Nếu khuyên can được cô ấy thì..."
 
-"Ít ra tôi dám chắc mình sẽ ngăn cô ta lại và lắng nghe sự tình. Tôi cũng đâu bận đến mức không bớt chút thời gian cho việc đó được."
+"Ít ra tôi dám chắc mình sẽ ngăn cô ấy lại và lắng nghe sự tình. Tôi cũng đâu bận đến mức không bớt chút thời gian cho việc đó được."
 
 "Thế thì yên tâm rồi."
 
@@ -130,7 +130,7 @@ Dù chẳng hiểu sao cô ấy lại hỏi thế, tôi và Lorraine vẫn gật
 
 "Trước giờ tôi chưa từng thấy cô dán phiếu ủy thác nào ở Hội," tôi thắc mắc.
 
-"Thường thì tôi nhờ một tổ đội quen, cơ mà đợt trước họ chuyển lên vương đô mất rồi, thành thử..."
+"Thường thì tôi nhờ một tổ đội quen, nhưng cách đây không lâu họ chuyển lên vương đô mất rồi, thành ra..."
 
 "À, ra thế... Ôi, nhìn kìa! Thật đấy ư...?"
 

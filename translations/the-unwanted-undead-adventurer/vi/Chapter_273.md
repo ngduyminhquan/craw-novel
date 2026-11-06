@@ -28,11 +28,11 @@ Elza dáo dác nhìn sang trái sang phải tìm lối thoát, nhưng tiếc là
 
 "Nào, thưa Mẹ Bề Trên. Đã đến lúc ngài phải trở lại với phận sự của mình rồi."
 
-"K-Khoan đã! Chưa được đâu! Ta vẫn còn việc phải làm mà!"
+"K-Khoan đã! Chưa được đâu! Tôi vẫn còn việc phải làm mà!"
 
 Thật ra tôi khá chắc cô ấy đã làm xong xuôi hết mọi việc rồi. Trong lúc Lorraine và tôi đứng nhìn tình cảnh tiến thoái lưỡng nan của cô ấy, một tư tế khác chạy lại chỗ chúng tôi.
 
-"Chúng tôi xin gửi lời cảm tạ sâu sắc nhất tới hai vị vì đã đồng hành cùng Mẹ Elza ngày hôm nay. Hẳn hai vị đã phải vất vả nhiều rồi. Nếu cần bất cứ điều gì, xin hai vị cứ thoải mái ghé lại tu viện để chúng tôi được tạ ơn—và tạ lỗi—cho chuyện hôm nay. Giờ thì tôi xin phép."
+"Chúng tôi xin gửi lời cảm tạ sâu sắc nhất tới hai vị vì đã đồng hành cùng Mẹ Elza ngày hôm nay. Hẳn hai vị đã phải vất vả nhiều rồi. Nếu cần bất cứ điều gì, xin hai vị cứ thoải mái ghé lại tu viện để chúng tôi được tạ ơn, cũng như tạ lỗi cho chuyện hôm nay. Giờ thì tôi xin phép."
 
 Sau khi cúi đầu thật sâu, vị tư tế vội vã chạy lại nhập vào vòng người đang vây chặt Elza ở bên trong.
 
@@ -60,25 +60,25 @@ Nhờ cơ thể Undead, tôi có thể nhìn rõ ở khoảng cách xa như gi�
 
 Tôi cũng chẳng rõ.
 
-Nhờ Lorraine đều đặn cho tôi máu, cơn thèm máu trong tôi cực kỳ yếu ớt—đến mức người ta còn có thể nghĩ tôi chẳng thực sự cần ăn thịt hay hút máu con người để sống.
+Nhờ Lorraine đều đặn cho tôi máu, cơn thèm máu trong tôi cực kỳ yếu ớt, đến mức người ta còn có thể nghĩ tôi chẳng thực sự cần ăn thịt hay hút máu con người để sống.
 
 Nhưng biết đâu tôi thực sự không cần thật. Ít nhất theo nhận định của Nive, tôi không phải Ma Cà Rồng. Thế thì rốt cuộc tôi là thứ gì?
 
 Cơ thể tôi thấy khoan khoái khi uống máu người. Đó là đặc điểm của loại quái vật nào chứ...?
 
-Tôi không biết—và chính điều đó làm tôi thấy sợ.
+Tôi không biết, và chính điều đó làm tôi thấy sợ.
 
 Nghĩ lại thì, tôi đã đi được một quãng đường khá dài rồi.
 
-Tôi từng nghĩ điều duy nhất chờ đón mình chỉ là một cái chết tầm thường trong lúc chiến đấu ở xó xỉnh nào đó gần Maalt. Thế mà nhìn lại xem, tôi đã đặt chân tới vương đô, trò chuyện với hoàng tộc, với thủ lĩnh của một tổ chức ngầm, và cả một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên—toàn những nhân vật đứng ở vị thế cao vời vợi so với con người trước kia của tôi, đến mức tôi chẳng bao giờ với tới được gót chân họ.
+Tôi từng nghĩ điều duy nhất chờ đón mình chỉ là một cái chết tầm thường trong lúc chiến đấu ở xó xỉnh nào đó gần Maalt. Thế mà nhìn lại xem, tôi đã đặt chân tới vương đô, trò chuyện với hoàng tộc, với thủ lĩnh của một tổ chức ngầm, và cả một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên. Đó toàn là những nhân vật đứng ở vị thế cao vời vợi so với con người trước kia của tôi, đến mức tôi chẳng bao giờ với tới được gót chân họ.
 
-Thực lực của tôi đã tăng lên, và giờ tôi đang nỗ lực vươn lên Ngân Cấp—điều mà trước kia với tôi chỉ là giấc mơ viển vông. Cứ giữ vững đà tiến này, có cảm giác tôi muốn vươn tới tầm cao nào cũng được.
+Thực lực của tôi đã tăng lên, và giờ tôi đang nỗ lực vươn lên Ngân Cấp, điều mà trước kia với tôi chỉ là giấc mơ viển vông. Cứ giữ vững đà tiến này, có cảm giác tôi muốn vươn tới tầm cao nào cũng được.
 
 Nhưng tôi biết đó rất có thể chỉ là sự tự phụ của bản thân. Sau bao nhiêu con người từng chạm mặt, điều duy nhất tôi hiểu ra là rốt cuộc mình vẫn chỉ là một kẻ yếu ớt mà thôi. Tôi thậm chí còn thấy mình chưa thể đuổi kịp Lorraine, người vẫn luôn kề cạnh bên tôi.
 
 Nghĩ mà xem, tôi đã có cả thân xác quái vật lẫn những phương thức để mạnh lên, thế mà rốt cuộc vẫn vô phương cứu chữa từ đầu đến chân. Một mình bước đi trên những con phố vắng tanh, tôi đắm mình trong những dòng suy nghĩ tiêu cực ấy.
 
-Tôi biết lo nghĩ về tương lai cũng chẳng ích gì; việc tôi có thể làm chỉ là dốc hết sức rèn giũa bản thân, còn kết quả ra sao thì cứ để mặc nhiên. Dù vậy, tôi vẫn muốn nghiền ngẫm cho thật thấu đáo, rũ bỏ cảm giác ấy đi, rồi bước vào ngày mai với tâm trạng khá hơn—đó là lý do tôi lang thang một mình giữa phố đêm.
+Tôi biết lo nghĩ về tương lai cũng chẳng ích gì, việc duy nhất tôi làm được là dốc hết sức rèn giũa bản thân, còn kết quả ra sao thì tới đâu hay tới đó. Dù vậy, tôi vẫn muốn nghiền ngẫm cho thật thấu đáo, rũ bỏ cảm giác ấy đi, rồi bước vào ngày mai với tâm trạng khá hơn. Đó là lý do tôi lang thang một mình giữa phố đêm.
 
 "Chẳng phải ngươi mất cảnh giác quá rồi sao, bạn hiền?"
 
@@ -98,7 +98,7 @@ Mà thôi, dù sao thì chuyện quái quỷ gì đang diễn ra thế này? Sao
 
 Nhìn kỹ lại, tôi thấy kẻ tấn công mình là một gã đàn ông có bộ dạng hết sức kỳ quặc. Gã mặc âu phục quý ông, tay cầm một cây gậy chống... và ở khóe miệng vẫn còn lủng lẳng một miếng thịt của tôi.
 
-Tôi nhận ra hẳn gã đã xé toạc cổ họng tôi bằng cách đó. Đúng là thói quen ăn uống quái đản—đời nào thịt của tôi lại ngon lành gì cho cam.
+Tôi nhận ra hẳn gã đã xé toạc cổ họng tôi bằng cách đó. Đúng là thói quen ăn uống quái đản, đời nào thịt của tôi lại ngon lành gì cho cam.
 
 "Ngươi có vẻ bất ngờ, nhưng bình tĩnh hơn ta tưởng nhiều đấy. Tự tin mình sẽ không bỏ mạng ở đây đến thế cơ à? Bị giáng một vết thương nặng đến mức này mà trước đó ngươi còn chẳng phát hiện ra ta... À, hay ngươi đang mong 'cha mẹ' mình tới cứu? Ta e là có đợi cũng vô ích thôi. Ta có thể kết thúc chuyện này trong chớp mắt."
 
@@ -122,11 +122,11 @@ Tôi thoát khỏi khoảng không nơi cái miệng khổng lồ kia sắp ngo�
 
 Đột nhiên, tôi có cảm giác như bị kẹp chặt từ mọi hướng cùng một lúc, và cơ thể đang Phân Liệt của tôi bị ép dồn vào trong về một điểm duy nhất.
 
-Tôi cố chống cự, nhưng chênh lệch sức mạnh giữa hai bên quá lớn. Chẳng khác nào kiến cố chống trả lại voi—tôi hoàn toàn bất lực, chẳng làm được gì ngoài việc cứ bị nén ép ngày một nhỏ hơn...
+Tôi cố chống cự, nhưng chênh lệch sức mạnh giữa hai bên quá lớn. Chẳng khác nào kiến cố chống trả lại voi, tôi hoàn toàn bất lực, chẳng làm được gì ngoài việc cứ bị nén ép ngày một nhỏ hơn...
 
 "Phân Liệt đúng là hữu dụng thật, nhưng thiếu gì cách đối phó với nó. Chẳng lẽ cha mẹ ngươi chưa chỉ dạy đến nơi đến chốn sao? Mà thôi, ta đoán dù ngươi có biết thì với chênh lệch năng lực giữa đôi bên, ngươi cũng chẳng làm nổi trò trống gì đâu."
 
-Chết tiệt. Gã nói hoàn toàn đúng—tôi chẳng làm được gì thật. Mình còn cách nào khác để thử không?
+Chết tiệt. Gã nói hoàn toàn đúng, tôi chẳng làm được gì thật. Mình còn cách nào khác để thử không?
 
 Tôi đoán mình có thể thử liều mạng tự phát nổ bằng Thần Ma Khí Dung Hợp Thuật. Dù là một nước đi tuyệt vọng, tôi cũng chẳng nghĩ ra được cách nào khác. Nếu đây là lúc cuộc đời tôi đi đến hồi kết, chí ít tôi cũng muốn thử tung một đòn trả đũa sau cùng. Thế vẫn hơn là bất lực nằm chờ chết.
 
@@ -140,15 +140,15 @@ Tôi cố tiếp đất an toàn rồi vội nhìn quanh, nhưng chẳng thấy 
 
 Thay vào đó, tôi nhìn thấy...
 
-"Ngài Rentt—ngài không sao chứ? Thành thật xin lỗi vì tôi đã đến muộn."
+"Ngài Rentt, ngài không sao chứ? Thành thật xin lỗi vì tôi đã đến muộn."
 
-Đó là người đánh xe đã đưa chúng tôi tới vương đô—nói cách khác, là một gia nhân Ma Cà Rồng của Laura, tức thực lực vượt xa tôi rất nhiều. Tôi từng nghe bảo anh ta chỉ là một Hạ Cấp Ma Cà Rồng, nhưng nhìn vào tình hình trước mắt thì chuyện đó hẳn là lời nói dối. Chắc Isaac vì lo lắng nên mới phái anh ta đi theo chúng tôi.
+Đó là người đánh xe đã đưa chúng tôi tới vương đô, nói cách khác là một gia nhân Ma Cà Rồng của Laura, tức thực lực vượt xa tôi rất nhiều. Tôi từng nghe bảo anh ta chỉ là một Hạ Cấp Ma Cà Rồng, nhưng nhìn vào tình hình trước mắt thì chuyện đó hẳn là lời nói dối. Chắc Isaac vì lo lắng nên mới phái anh ta đi theo chúng tôi.
 
 Nhưng chuyện đó lúc này không quan trọng. Chẳng thấm vào đâu khi so với...
 
 "Kẻ vừa rồi là ai thế?" tôi hỏi.
 
-"Đó là kẻ thù của chủ nhân tôi," người đánh xe đáp. "Tôi đã truy đuổi hắn từ lúc cảm nhận được sự hiện diện của hắn, nhưng xem ra ngài lại chạm trán hắn trước. Dù sao ngài cứ yên tâm—có vẻ hắn nhận ra tôi đang tới gần nên đã rời khỏi thành phố rồi."
+"Đó là kẻ thù của chủ nhân tôi," người đánh xe đáp. "Tôi đã truy đuổi hắn từ lúc cảm nhận được sự hiện diện của hắn, nhưng xem ra ngài lại chạm trán hắn trước. Dù sao ngài cứ yên tâm, có vẻ hắn nhận ra tôi đang tới gần nên đã rời khỏi thành phố rồi."
 
 "Kẻ thù của Laura sao...? Tôi hỏi kẻ đó là ai có được không?"
 
@@ -174,11 +174,11 @@ Thực ra thì có chuyện thật. Đêm qua tôi vừa bị một Ma Cà Rồn
 
 Có điều khách quan mà nói, tôi chẳng hề bị thương tích gì. Dù sao thì kỹ năng Phân Liệt không để lại bất kỳ vết thương thể xác nào sau khi sử dụng. Thế mà chỉ vừa nhìn qua, Lorraine đã nhận ra điểm khác thường. Đúng như kỳ vọng ở một học giả, cô ấy rất nhạy bén với những thay đổi xung quanh mình.
 
-Ngẫm nghĩ một thoáng xem nên trả lời thế nào, tôi quyết định kể vừa đủ mơ hồ để những người nghe lén không hiểu được—đồng thời giảm bớt chi tiết máu me để khỏi làm hỏng bữa sáng sắp ăn.
+Ngẫm nghĩ một thoáng xem nên trả lời thế nào, tôi quyết định kể vừa đủ mơ hồ để những người nghe lén không hiểu được, đồng thời giảm bớt chi tiết máu me để khỏi làm hỏng bữa sáng sắp ăn.
 
 "Đêm qua không ngủ được nên tôi ra ngoài đi dạo một lát, rồi bị một tên côn đồ ất ơ nào đó tấn công. Hắn đã cho tôi một trận ra trò."
 
-Tôi đoán chừng đó đại khái là đủ—câu chuyện nghe bình thường và dễ quên. Tôi biết xung quanh có vài người đang lắng tai nghe, nhưng phần lớn đều là mạo hiểm giả. Một cuộc đụng độ thường ngày với côn đồ sẽ chẳng khiến họ hứng thú đến thế.
+Tôi đoán chừng đó đại khái là đủ, câu chuyện nghe bình thường và dễ quên. Tôi biết xung quanh có vài người đang lắng tai nghe, nhưng phần lớn đều là mạo hiểm giả. Một cuộc đụng độ thường ngày với côn đồ sẽ chẳng khiến họ hứng thú đến thế.
 
 Thế nhưng Lorraine lại có vẻ ngạc nhiên. "Thật à?" cô ấy hỏi. "Người như anh mà cũng bị á? Xem ra vương đô khá nguy hiểm so với Maalt nhỉ..."
 
@@ -188,7 +188,7 @@ Dĩ nhiên cô ấy nói đúng. Vào ban đêm, đường phố ở vương đ�
 
 Vài người khác đang ăn sáng cũng bật cười trước câu nói của ông ta. Tôi biết người đàn ông đó cố tình nói những lời khá coi thường người khác, nhưng vì ông ta đâu biết sự thật đêm qua, nên việc nhàn rỗi đánh giá từng người có mặt ở đây xem họ sẽ xoay xở ra sao trước tên Ma Cà Rồng kia thực ra lại hóa khá buồn cười.
 
-Ý nghĩ ấy hẳn đã làm khóe miệng tôi khẽ nhếch lên thành một nụ cười mờ nhạt—cử chỉ mà người đàn ông vừa cười cợt chúng tôi đã không bỏ sót. Đúng là mắt tinh thật.
+Ý nghĩ ấy hẳn đã làm khóe miệng tôi khẽ nhếch lên thành một nụ cười rất nhạt, và người đàn ông vừa cười cợt chúng tôi đã không bỏ sót cử chỉ đó. Đúng là mắt tinh thật.
 
 "Này người anh em," ông ta vừa đứng dậy vừa bước lại gần. "Vừa rồi cậu cười nhạo tôi đấy à?"
 
@@ -224,7 +224,7 @@ Cả Augurey lẫn tôi đều hiểu anh ấy không nói về mặt kỹ năng
 
 Thế nhưng rõ ràng người mạo hiểm giả kia lại tin nguyên xi lời của Augurey, đinh ninh rằng điều đó có nghĩa là tôi đơn giản mạnh hơn hẳn. Ông ta lập tức quỳ sụp xuống sàn và phủ phục trước mặt tôi.
 
-"T-Tôi vô cùng xin lỗi ngài!" ông ta xin lỗi. "Là tôi sai rồi ạ!"
+"T-Tôi vô cùng xin lỗi ngài!" ông ta rối rít nói. "Là tôi sai rồi ạ!"
 
 "Ờ, đừng bận tâm làm gì," tôi bảo. "Tôi không muốn ông phải tự dằn vặt vì chuyện này đâu. Nói đúng hơn thì, ừm... chỉ cần ông hứa với tôi rằng sau này gặp những mạo hiểm giả yếu hơn mình, ông sẽ không làm điều tương tự nữa. Chuyện đó làm tổn thương người ta nhiều hơn ông tưởng đấy..."
 
@@ -232,7 +232,7 @@ Thế nhưng rõ ràng người mạo hiểm giả kia lại tin nguyên xi lờ
 
 Hiện giờ tôi biết mình mạnh hơn người đàn ông này, nên lời ông ta nói chẳng phải chuyện gì to tát với tôi. Nhưng nếu ông ta nói những câu ấy với con người trước kia của tôi... dù tôi chẳng nổi trận lôi đình hay gì đâu, song chắc chắn sẽ bị cứa rất sâu vào lòng, và có lẽ tôi sẽ buồn bã lê bước về phòng trọ của mình, vừa đi vừa thở dài suốt dọc đường.
 
-Tất nhiên việc mỗi người tự rèn sức đề kháng trước những chuyện như vậy là rất quan trọng—gần giống như tự mình chịu phép rửa tội vậy—nhưng thế giới này bớt đi những kẻ thích bắt nạt người khác thì cũng đâu có hại gì.
+Tất nhiên việc mỗi người tự rèn sức chịu đựng trước những chuyện như vậy là rất quan trọng, coi như một kiểu thử thách đầu đời, nhưng thế giới này bớt đi những kẻ thích bắt nạt người khác thì cũng đâu có hại gì.
 
 Dù sao đó cũng là dòng suy nghĩ đằng sau những gì tôi vừa nói, nhưng xem chừng Lorraine lại có quan điểm khác.
 
@@ -246,9 +246,9 @@ Trong lúc tôi nhìn Lorraine, tò mò xem cô ấy định làm gì, cô ấy 
 
 Khoan, khoan, khoan đã. Rốt cuộc cô định làm gì ở đây thế hả, Lorraine?
 
-Dĩ nhiên rõ rành rành là cô ấy chỉ định dọa người đàn ông này một phen—tôi thừa biết thế, nhưng dù sao trong lòng vẫn thấy hơi hồi hộp.
+Dĩ nhiên rõ rành rành là cô ấy chỉ định dọa người đàn ông này một phen. Tôi thừa biết thế, nhưng dù sao trong lòng vẫn thấy hơi hồi hộp.
 
-Trong khi Augurey và tôi điềm tĩnh đứng nhìn tình hình diễn biến, người mạo hiểm giả trung niên hoảng loạn ngẩng đầu lên khỏi sàn—vẻ mặt ông ta thực sự kinh hoàng. Bình thường nếu không có đôi mắt thích hợp thì người ta không thể nhìn thấy Ma Lực, nhưng nếu nó được nhào nặn và cô đặc đủ dày mà không chủ ý che giấu, người ta chắc chắn có thể cảm nhận được áp lực—và sự hiểm nguy—ngay trên làn da mình. Ngay cả người đàn ông đó cũng phải nhận ra khối Ma Lực Lorraine gom trong lòng bàn tay nguy hiểm tới mức nào.
+Trong khi Augurey và tôi điềm tĩnh đứng nhìn tình hình diễn biến, người mạo hiểm giả trung niên hoảng loạn ngẩng đầu lên khỏi sàn với vẻ mặt thực sự kinh hoàng. Bình thường nếu không có đôi mắt thích hợp thì người ta không thể nhìn thấy Ma Lực, nhưng nếu nó được nhào nặn và cô đặc đủ dày mà không chủ ý che giấu, người ta chắc chắn có thể cảm nhận được áp lực cùng mối hiểm nguy ngay trên làn da mình. Ngay cả người đàn ông đó cũng phải nhận ra khối Ma Lực Lorraine gom trong lòng bàn tay nguy hiểm tới mức nào.
 
 "T-Tôi xin lỗi, thật đấy ạ!" ông ta van nài. "Làm ơn, xin ít nhất hãy tha mạng cho tôi!"
 

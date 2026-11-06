@@ -10,11 +10,11 @@ Tôi vốn mang tiếng là mạo hiểm giả độc hành nên hiếm khi đư
 
 Nếu là mấy quý tộc hống hách hay hạng thương nhân cậy mình bỏ tiền ra là có quyền coi bọn tôi như nô lệ thì tôi xin kiếu. Tôi biết không có những khách hàng như vậy thì Hội khó lòng vận hành, nhưng đâu có nghĩa là tôi không được phép kén chọn việc. Nếu đang túng tiền thì câu chuyện đã khác, đằng này tôi lại chẳng mắc cái tật tiêu xài hoang phí đó, vả lại dạo này cũng chẳng có việc gì bắt tôi phải dốc cạn hầu bao.
 
-"Chỉ là một đứa nhóc thôi," Augurey nói. "Nghe bảo thằng bé hơi... khác so với bạn bè cùng lứa một chút, nhưng việc của bọn mình chỉ là đưa nó sang thị trấn bên cạnh thôi. Chớp mắt cái là xong việc ấy mà."
+"Chỉ là một đứa nhóc thôi," Augurey nói. "Nghe bảo thằng bé hơi... khác so với bạn bè cùng lứa một chút, nhưng việc của chúng ta chỉ là đưa nó sang thị trấn bên cạnh thôi. Chớp mắt cái là xong việc ấy mà."
 
 "Một đứa nhóc thôi á? Nó đi một mình à?"
 
-"Đúng đấy. Bọn mình sẽ đưa nó về với bố mẹ."
+"Đúng đấy. Chúng ta sẽ đưa nó về với bố mẹ."
 
 "Sao thằng bé lại phải ở riêng với bố mẹ?" tôi hỏi với vẻ nghi hoặc.
 
@@ -98,7 +98,7 @@ Bầu trời vốn trong xanh suốt từ sáng đến giờ bỗng phủ kín m
 
 "C-C-Cái gì cơ?!" Vitez vừa khóc vừa lộ vẻ kinh hãi tột độ. "Bọn cướp sao rồi?! Bọn chúng đi hết chưa?!"
 
-"Ừ, bọn chúng đi sạch cả rồi," tôi dịu giọng nói. "Cứ bình tĩnh lại đi nào. Có cơn bão cỡ này thì dù phải đối đầu với cả trăm tên cướp bọn tôi cũng chẳng sao đâu."
+"Ừ, bọn chúng đi sạch cả rồi," tôi dịu giọng nói. "Cứ bình tĩnh lại đi nào. Có cơn bão cỡ này thì dù phải đối đầu với cả trăm tên cướp chúng ta cũng chẳng sao đâu."
 
 "T-Thật ạ? Bọn chúng đi thật rồi sao?! Ơ-Ơn trời..."
 

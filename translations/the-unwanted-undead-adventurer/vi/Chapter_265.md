@@ -6,7 +6,7 @@
 
 "Thế là quá đủ rồi! Cảm ơn hai người nhé! Tôi ăn đây!"
 
-Đôi mắt sáng lấp lánh như hai vì sao, Elza chắp hai tay lại rồi bắt tay ngay vào việc: chăm chú xúc hết món này đến món khác trước mặt đưa vào miệng.
+Đôi mắt sáng lấp lánh như hai vì sao, Elza chắp hai tay lại rồi bắt tay ngay vào việc, tức là cắm cúi xúc hết món này đến món khác trước mặt đưa vào miệng.
 
 Chúng tôi đang ngồi trong một tiệm bánh ngọt nghe đồn nức tiếng về độ ngon. Tôi bảo "nghe đồn" là vì chúng tôi tới đây theo chỉ dẫn của Rina. Tiệm nằm khuất sâu trong một con ngõ nhỏ, nhưng toàn bộ bánh trái đều do chính tay chủ quán tỉ mẩn làm thủ công.
 
@@ -42,7 +42,7 @@ Tôi tự hỏi không biết cô ấy định tặng cho ai, nhưng xem chừng
 
 "Cô nghĩ chúng ta sắp đi đâu?" tôi thì thầm với Lorraine.
 
-"Địa Ngục mới biết được. Cứ tới nơi là khắc rõ thôi."
+"Ai mà biết được. Cứ tới nơi là rõ thôi."
 
 Trông cô ấy có vẻ kiệt sức. Chắc tại chứng kiến một Nữ Tu Viện Trưởng chẳng ra dáng chút nào như Elza. Lorraine thậm chí còn chẳng buồn giữ kẽ nữa. Dù sao thì lúc rời tu viện, chúng tôi cũng đã thống nhất là ra ngoài cứ nói năng tự nhiên sẽ thoải mái hơn. Còn lúc ở bên trong thì buộc phải giữ ý tứ, kẻo lại bị xem là bất kính. Lạ nỗi là Elza lại rất được kính trọng trong Giáo Hội.
 
@@ -52,7 +52,7 @@ Mua sắm xong xuôi, Elza ôm một chồng bánh cao như núi trong tay, trô
 
 "Để tôi xách hộ cho," tôi nói rồi đỡ lấy chỗ bánh từ tay cô ấy.
 
-"Ồ! Tôi không sao thật mà... nhưng nếu cậu đã có lòng..." Elza mỉm cười, vẻ lơ đễnh trên mặt cô ấy tan biến, nhường chỗ cho nét hiền từ bao dung của một người mẹ, rõ ràng đến mức ngỡ như chạm vào được.
+"Ồ! Tôi tự cầm được thật mà... nhưng nếu cậu đã có lòng..." Elza mỉm cười, vẻ lơ đễnh trên mặt cô ấy biến mất, thay vào đó là nét hiền từ bao dung của một người mẹ hiện lên rõ rệt.
 
 Xem ra cô ấy không phải tự nhiên mà được làm Thánh Giả. Còn "vị thánh" mà tôi quen hơn thì...
 
@@ -112,7 +112,7 @@ Không biết là cái gì nữa. Tôi hơi nghiêng đầu nhìn thử, và...
 
 Hộc. Hộc. Liếm. Liếm.
 
-Hơi thở nóng hổi phả thẳng vào mặt nạ của tôi, theo sau là một chiếc lưỡi ươn ướt. Lạ là tôi chẳng thấy ghê chút nào. Hồi trước tôi từng bị lưỡi của một con gigantes rana, nôm na là ếch khổng lồ, quấn trúng; so với phen đó thì lần này dễ chịu hơn nhiều.
+Hơi thở nóng hổi phả thẳng vào mặt nạ của tôi, theo sau là một chiếc lưỡi ươn ướt. Lạ là tôi chẳng thấy ghê chút nào. Hồi trước tôi từng bị lưỡi của một con gigantes rana, nôm na là ếch khổng lồ, quấn trúng, mà so với phen đó thì lần này dễ chịu hơn nhiều.
 
 Lưỡi nó nhớp nháp vô cùng, tôi có giãy giụa cật lực cỡ nào cũng không sao thoát nổi. Cuối cùng, một mạo hiểm giả Đồng Cấp mạnh hơn trong tổ đội lúc bấy giờ đã ra tay cứu tôi.
 
@@ -132,7 +132,7 @@ Thế nhưng ánh mắt nó lại rất đỗi thân thiện và trong trẻo, t
 
 Trong khi đó, chó lại rơi vào hai thái cực rõ rệt. Có những giống ngoan ngoãn nuôi trong nhà thì rất quấn người, nhưng khả năng chiến đấu lại gần như bằng không. Thành thử nếu muốn tìm bạn chiến đấu, người ta buộc phải nhắm tới các loài quái vật cấp cao.
 
-Tuyệt nhiên chẳng có mức lưng chừng ở giữa. Điểm này khá phiền toái, nhưng một khi đã có được lòng trung thành của chúng, chúng sẽ đi theo người ta đến tận lúc nhắm mắt xuôi tay dù có chuyện gì xảy ra đi nữa. Điểm đó lại mang đến cảm giác rất an tâm.
+Chẳng có loại nào tầm trung ở giữa cả. Điểm này hơi bất tiện, nhưng một khi đã có được lòng trung thành của chúng, dù có chuyện gì xảy ra chúng cũng sẽ đi theo người ta đến tận lúc nhắm mắt xuôi tay. Nhờ vậy mà người nuôi cũng thấy yên tâm.
 
 Quái vật họ mèo thì ngược lại, tính tình đỏng đảnh thất thường, hễ thấy có biến là lập tức quay lưng bỏ chạy. Chọn bên nào thì cũng được cái này mất cái kia.
 
@@ -148,7 +148,7 @@ Cô ấy đọc được suy nghĩ của tôi sao?
 
 "Anh có sao không?" cô gái hỏi. "Tôi xin lỗi về chuyện của Pochi nhé. Bình thường nó ngoan lắm..."
 
-Chà. Cử chỉ dịu dàng, phong thái điềm tĩnh, lại thêm nét đoan trang thùy mị của một thiếu nữ. Tựu trung lại, bảo cô ấy là một cô gái tuyệt vời cũng chẳng ngoa chút nào. Dù hơi lệch gu tôi một chút, nhưng nếu hỏi bất kỳ đám đàn ông nào xem có muốn tán tỉnh cô ấy không, Rentt Faina này xin bảo đảm tỷ lệ giơ tay đồng ý phải ngót nghét một trăm phần trăm. Mấy gã còn lại khéo cũng chỉ làm bộ làm tịch bảo: "Ừ thì cũng được, nhưng cô ấy phải tỏ tình trước cơ."
+Chà. Cử chỉ dịu dàng, phong thái điềm tĩnh, lại thêm nét đoan trang thùy mị của một thiếu nữ. Tính tổng thể thì bảo cô ấy là một cô gái tuyệt vời cũng chẳng quá lời. Dù hơi lệch gu tôi một chút, nhưng nếu hỏi bất kỳ đám đàn ông nào xem có muốn tán tỉnh cô ấy không, Rentt Faina này xin bảo đảm tỷ lệ giơ tay đồng ý phải gần như một trăm phần trăm. Mấy gã còn lại khéo cũng chỉ làm bộ làm tịch bảo: "Ừ thì cũng được, nhưng cô ấy phải tỏ tình trước cơ."
 
 Đàn ông bọn tôi ngốc nghếch như thế đấy.
 
@@ -162,7 +162,7 @@ Gạt mấy suy nghĩ vớ vẩn ra khỏi đầu, tôi hỏi: "Cô có... chắ
 
 À, ra ý cô ấy là thế. Từ khi biến thành Undead, tôi không còn để tâm mấy tới chuyện này nữa, nhưng động vật bình thường, tức những sinh vật gần như không có Ma Lực, lại có tuổi thọ rất cố định. Nhìn chung tuổi thọ tỷ lệ thuận với kích cỡ của từng loài. Chẳng hạn như thú có vú, càng to xác thì càng sống thọ. Dù đây không phải quy luật bất di bất dịch và ngoại lệ cũng chẳng thiếu. Cá voi sống hơn cả thế kỷ còn chó chỉ được tầm mười lăm năm, nhưng tôi từng nghe nói chó cỡ vừa lại sống thọ hơn, hay vài loài chim dù nhỏ thó cũng có thể sống tới bảy tám mươi năm.
 
-Đó là mảnh đất màu mỡ cho các nhà sinh vật học thỏa sức đào xới. Kéo dài sinh mệnh được bao lâu vốn là câu hỏi muôn thuở của mọi giống loài trên thế gian.
+Đó là mảnh đất màu mỡ cho các nhà sinh vật học thỏa sức đào xới. Làm sao để kéo dài tuổi thọ vốn là câu hỏi muôn thuở của mọi sinh vật ở khắp mọi nơi.
 
 Còn khi nói tới quái vật... Chà, chắc tôi chẳng có thứ gọi là "tuổi thọ tự nhiên" đâu. Tôi là Undead cơ mà. Dù vậy, ngay cả khi tôi không phải Undead, thì nhìn chung quái vật vẫn sống thọ hơn động vật thường.
 
@@ -180,4 +180,4 @@ Vòng luẩn quẩn ấy đã lặp đi lặp lại hàng chục, hàng trăm l�
 
 [Xin chào!]
 
-Thế nên mới hiểu tôi đã sững sờ đến mức nào khi nó đột ngột mở miệng nói chuyện với mình.
+Bởi vậy, chắc ai cũng hiểu tôi đã sững sờ đến mức nào khi nó đột ngột bắt chuyện với mình.

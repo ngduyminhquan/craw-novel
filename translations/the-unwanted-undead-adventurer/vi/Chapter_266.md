@@ -1,8 +1,8 @@
 # Chương 266: Tập 11 Chương 4 - Thánh Giả và Cô Nhi Viện (3)
 
-Con chó vừa cất tiếng đấy ư? Nói cho đúng thì tôi đoán nó là một con quái vật họ chó. Dù thế đi nữa, việc một con chó biết nói vẫn quá đỗi kỳ lạ. Quái vật biết đến văn minh không phải là chuyện chưa từng có; loài Goblin cũng biết lập khu định cư, đôi khi còn học được cả tiếng người.
+Con chó vừa nói chuyện đấy à? Nói cho đúng thì tôi đoán nó là một con quái vật họ chó. Dù thế đi nữa, việc một con chó biết nói vẫn quá đỗi kỳ lạ. Quái vật biết đến văn minh không phải là chuyện chưa từng có, chẳng hạn loài Goblin cũng biết lập khu định cư, đôi khi còn học được cả tiếng người.
 
-Quái vật dạng người sở hữu các cơ quan tương tự con người là điều dễ hiểu, nên nếu chịu khó tập tành thì chắc chúng cũng nói được. Ngoài bản thân tôi ra thì Isaac và Laura cũng nằm trong diện này. Nhưng với quái vật dạng thú thì lại là chuyện khác. Họa chăng chỉ những loài cấp cao mới biết nói.
+Quái vật dạng người sở hữu các cơ quan tương tự con người là điều dễ hiểu, nên nếu chịu khó tập tành thì chắc chúng cũng nói được. Ngoài bản thân tôi ra thì Isaac và Laura cũng nằm trong diện này. Nhưng với quái vật dạng thú thì lại là chuyện khác. Chỉ những loài cấp cao mới có khả năng nói chuyện.
 
 Nghe đâu trong những trường hợp đó, chúng hoặc dùng thanh đới của chính mình, hoặc nói chuyện bằng một năng lực gọi là thần giao cách cảm.
 
@@ -14,13 +14,13 @@ Kinh ngạc quá, tôi buột miệng: "Vừa rồi có ai khác...?"
 
 "À thì, ý tôi là... Hửm?"
 
-Nhìn phản ứng của cô ấy thì có vẻ chẳng nhận ra con chó vừa cất tiếng. Chẳng lẽ chỉ mỗi mình tôi nghe ra?
+Nhìn phản ứng của cô ấy thì có vẻ chẳng nhận ra con chó vừa nói chuyện. Chẳng lẽ chỉ mỗi mình tôi nghe thấy?
 
 "Rentt này," Lorraine lên tiếng. "Trước mắt chúng ta cứ giới thiệu bản thân trước đã nhỉ?"
 
 Vậy ra không phải do tôi tưởng tượng.
 
-Hai chữ "trước mắt" mang theo sức nặng không hề nhỏ. Người ngoài nghe thì thấy bình thường, nhưng tôi thừa hiểu ngụ ý ẩn sau câu nói. Phải quen nhau đủ lâu thì Lorraine và tôi mới có thể ngầm hiểu ý nhau như vậy. Cô ấy cũng nghe thấy con chó cất tiếng.
+Hai chữ "trước mắt" mang theo sức nặng không hề nhỏ. Người ngoài nghe thì thấy bình thường, nhưng tôi thừa hiểu ngụ ý ẩn sau câu nói. Phải quen nhau đủ lâu thì Lorraine và tôi mới có thể ngầm hiểu ý nhau như vậy. Cô ấy cũng nghe thấy con chó nói chuyện.
 
 "Cô nói phải," tôi bảo. "Thất lễ quá. Tôi là Rentt, còn đây là Lorraine. Chúng tôi kiếm sống bằng nghề mạo hiểm giả."
 
@@ -58,7 +58,7 @@ Elza vốn là Nữ Tu Viện Trưởng. Người đi cùng cô ấy đương nh
 
 "Nếu dắt theo thì bọn họ cứ cằn nhằn giục giã giờ giấc suốt cho mà xem," Elza bảo, rồi nhoẻn miệng cười. "Đùa chút thôi. Thật ra chị chỉ muốn đưa hai người này đến đây hôm nay. Họ là chỗ quen biết với Lillian ở Maalt đấy."
 
-"Gì cơ ạ? Thật sao?!" Mel quay sang chúng tôi. "Sơ Lillian dạo này thế nào rồi ạ? Em có viết thư cho chị ấy, nhưng chẳng bao giờ thấy hồi âm."
+"Gì cơ? Thật sao?!" Mel quay sang chúng tôi. "Sơ Lillian dạo này thế nào rồi? Tôi có viết thư cho sơ ấy, nhưng chẳng bao giờ thấy hồi âm."
 
 Elza cũng từng bảo y như vậy.
 
@@ -72,7 +72,7 @@ Elza chìa bức thư chúng tôi mang từ Maalt về cho Mel. Mắt cô ấy m
 
 "Có Thần Lực của Lillian trong đó đấy," Elza giải thích. "Lúc chị bóc thư thì phần lớn đã tan đi rồi, nhưng vẫn còn sót lại một chút."
 
-"Thật thế sao ạ? May quá, chị ấy vẫn bình yên vô sự. Thế này là chị ấy sắp được về đây rồi phải không chị?"
+"Thật thế sao ạ? May quá, sơ ấy vẫn bình yên vô sự. Thế này là sơ ấy sắp được về đây rồi phải không chị?"
 
 "Chị... không dám chắc. Nhưng nếu sơ ấy muốn quay về thì chẳng ai dám phản đối nữa đâu. Mà kể cả không muốn về hẳn, sơ ấy vẫn có thể tự do qua lại thăm nom. Chị tin chắc em sẽ sớm được gặp lại sơ ấy thôi."
 
@@ -94,9 +94,9 @@ Elza không thể cất công đến một nơi hẻo lánh như Maalt, còn Mel
 
 "Hai người thân nhau thế mà Sơ Lillian không viết cho cô một lá thì tiếc thật đấy," tôi bảo.
 
-"Dù tôi cũng hiểu cho hoàn cảnh của hai bên. Vả lại mãi tới gần đây Sơ Lillian mới khỏi bệnh nặng."
+"Dù tôi cũng hiểu cho hoàn cảnh của mọi người. Vả lại cho tới gần đây bản thân Sơ Lillian cũng ốm khá nặng."
 
-Nét mặt Mel thoáng vẻ lo âu. "Sao cơ ạ? S-Sơ Lillian có sao không anh?"
+Nét mặt Mel thoáng vẻ lo âu. "Sao cơ? S-Sơ Lillian có sao không anh?"
 
 "Chúng tôi có nói với Elza rồi đấy, sơ ấy từng mắc Bệnh Tích Tụ Chướng Khí. Nhưng giờ thì khỏi hẳn rồi, không sao nữa đâu."
 
@@ -132,7 +132,7 @@ Theo lời Elza và Mel, thuở nhỏ Lillian là một cô bé hiếu động r
 
 Sau một hồi chuyện trò rôm rả...
 
-"Tôi nghĩ hôm nay thế là được rồi đấy. Ôi, suýt nữa thì tôi quên béng mất. Này, cầm lấy đi."
+"Chắc hôm nay chúng ta dừng ở đây thôi. Ồ, tôi quên khuấy mất. Của cậu đây."
 
 Elza rút từ trong túi áo ngực ra một phong thư rồi chìa về phía tôi. Thư được dán kín và tỏa ra luồng Thần Lực nhàn nhạt. Chẳng có gì lạ khi Elza cũng niêm phong thư hệt như cách Lillian đã làm.
 
@@ -166,7 +166,7 @@ Do tôi hoang tưởng hay hai người họ đang đối đáp với nhau thậ
 
 Tôi vừa nói vừa run lẩy bẩy, bởi bản thân mới chứng kiến một chuyện hết sức chấn động. Vì thế tôi mới lắp ba lắp bắp thế này đây. Ừ, chắc chắn là tôi đang sốc nặng vì—
 
-"Thôi khỏi diễn nữa," Elza điềm tĩnh nói. "Tôi đang nói chuyện Pochi cất tiếng đấy. Cậu hiểu nó nói gì, đúng chứ?"
+"Thôi khỏi diễn nữa," Elza điềm tĩnh nói. "Tôi đang nói chuyện lời của Pochi đấy. Cậu hiểu nó nói gì, đúng chứ?"
 
 Tôi thở dài. "Chắc vậy rồi. Tôi cứ ngỡ mình tưởng tượng ra, nhưng hóa ra không phải. Mà làm sao một con chó lại biết nói tiếng người được chứ...?"
 
@@ -176,7 +176,7 @@ Còn cái màn kịch lố bịch vừa rồi, tôi nghĩ pha chút tếu táo c
 
 Trái lại, Lorraine hoàn toàn bình thản. Nét mặt thoáng chút hiếu kỳ của cô ấy như muốn nói: "Ơ kìa, có chuyện gì thế nhỉ? Tôi chẳng hiểu gì cả." Đúng là bậc thầy diễn xuất.
 
-"Ơ, có chuyện gì thế ạ? Ý chị 'Pochi nói' là sao cơ?"
+"Ơ, có chuyện gì thế ạ? Ý chị 'lời của Pochi' là sao cơ?"
 
 Riêng Sơ Mel thì mặt mũi ngơ ngác thấy rõ, chẳng hiểu đầu cua tai nheo gì cả.
 

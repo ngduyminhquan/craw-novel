@@ -94,7 +94,7 @@ Lorraine bật cười: "Chắc chắn rồi, đích thị là tại cái điề
 
 "Ừm, mưa như trút nước luôn mà."
 
-"Thì nước dồn hết vào mấy con kênh. Thấy một đứa trẻ chơi gần đó trượt chân ngã xuống, tôi phải nhảy xuống cứu trước khi nước kịp thành lũ quét."
+"Thì nước dồn hết vào mấy con kênh. Thấy một đứa trẻ chơi gần đó trượt chân ngã xuống, tôi phải nhảy xuống cứu trước khi nước lũ kịp dâng lên cuốn đi."
 
 "Đúng là tính anh. Thằng bé có sao không?"
 
@@ -110,7 +110,7 @@ Lorraine bật cười: "Chắc chắn rồi, đích thị là tại cái điề
 
 Tôi thấy trong chuyện này có quá nhiều điểm đáng ngờ. Cảm giác như người thầy bói đó có mưu tính sâu xa nào đấy. Lúc này Maalt đang náo nhiệt hơn bao giờ hết, và chẳng thiếu những kẻ đổ về đây mang theo mưu đồ bất chính.
 
-Thế nhưng câu trả lời của Lorraine nghe lại khá lạc quan. "Anh đang nghĩ nếu người đó thực sự lợi hại đến mức ấy thì cớ gì phải cất công cảnh báo anh, đúng chứ?" cô ấy bảo. "Dù sao họ cũng thừa sức tự đạt được những gì mình muốn kia mà. Tôi thì chẳng buồn mất ngủ vì chuyện đó đâu."
+Thế nhưng câu trả lời của Lorraine nghe lại khá lạc quan. "Anh đang nghĩ nếu người đó thực sự lợi hại đến mức ấy thì cớ gì phải cất công cảnh báo anh, đúng chứ?" cô ấy bảo. "Dù sao người đó cũng thừa sức tự đạt được những gì mình muốn kia mà. Tôi thì chẳng buồn mất ngủ vì chuyện đó đâu."
 
 "Cô không thấy lo à?"
 
