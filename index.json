@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T01:11:14Z",
+  "generatedAt": "2026-11-06T01:22:49Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3364,19 +3364,19 @@
           "number": 202,
           "title": "Chương 202: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_202.md",
-          "sha": "f9d7b06b8a313396204672ca81794cb931b9b3e9"
+          "sha": "408dd01337f4386d45cc5a5d59769041de7551d6"
         },
         {
           "number": 203,
-          "title": "Chương 203: Thợ Săn Ma Cà Rồng và lời xác thực (2)",
+          "title": "Chương 203: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_203.md",
-          "sha": "26c5fd259b33ed8db2198521b8aa6143ce3b0e35"
+          "sha": "a42c7e3f7a1ef3f449071873b3ab20c7102adf33"
         },
         {
           "number": 204,
           "title": "Chương 204: Tập 9 Chương 2 - Thợ Săn Ma Cà Rồng và Xác Nhận (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_204.md",
-          "sha": "18471169ff9d9f71b0a7fcce688fea0fde7bd1c6"
+          "sha": "45d3bcbb3800a1f9a01a35e7625fcf9df1aa7ed8"
         },
         {
           "number": 205,
