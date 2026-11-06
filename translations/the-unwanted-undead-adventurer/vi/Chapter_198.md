@@ -1,297 +1,297 @@
 # Chương 198: Ngoại truyện Tập 8 - Báo Thù Và Tiềm Thức
 
-"A, Rentt. Xin lỗi nhé, nhưng anh mang rác ra ngoài vứt giúp tôi được không? Tôi gom hết để ở cửa rồi. Trong lúc đó tôi sẽ làm bữa sáng."
+"A, Rentt. Ngại quá, nhưng anh đem rác đi đổ giúp tôi được không? Tôi để sẵn hết ở cửa rồi. Trong lúc đó tôi làm bữa sáng cho."
 
-Đó là một buổi sáng bình thường như bao ngày khác. Tôi rời phòng ngủ trên tầng hai nhà Lorraine rồi bước xuống phòng khách, nơi cô vừa ngỏ lời nhờ vả tôi như thế. Cô đang bận rộn nấu nướng tối mày tối mặt. Tôi đang ở nhờ nhà cô mà chẳng tốn một xu, nên lẽ ra tôi phải là người vừa nấu bữa sáng vừa mang rác đi vứt mới phải, nhưng Lorraine vẫn sẵn lòng san sẻ bớt vài việc vặt. Trừ những lúc cô kiệt sức hay mải mê vùi đầu vào nghiên cứu hay việc gì đó tương tự. Vả lại chúng tôi cũng chẳng phân chia công việc rạch ròi theo một khuôn mẫu cố định nào. Cả hai cứ tùy nghi làm phần việc cần thiết của mình, và thấy cách đó là thoải mái nhất. Đã quen biết nhau ngót nghét mười năm trời, chúng tôi hiểu cách phối hợp ăn ý mà chẳng cần phải nói với nhau quá nhiều lời.
+Đó là một buổi sáng bình thường như bao ngày khác. Tôi rời phòng ngủ trên tầng hai nhà Lorraine bước xuống phòng khách, nơi cô ấy vừa ngỏ lời nhờ tôi việc đó. Cô ấy đang dở tay nấu nướng trong bếp. Tôi ở nhờ nhà cô ấy không tốn một xu, đáng lẽ tôi phải lo cả bữa sáng lẫn việc đổ rác, nhưng Lorraine vẫn sẵn lòng đỡ đần vài việc vặt. Tất nhiên là trừ những lúc cô ấy kiệt sức hoặc mải mê vùi đầu vào nghiên cứu. Chúng tôi cũng chẳng phân chia công việc rập khuôn bao giờ. Cứ thấy việc gì cần thì xắn tay vào làm, thế lại thoải mái nhất. Quen nhau ngót mười năm trời, hai đứa phối hợp ăn ý mà chẳng cần phải nói nhiều lời.
 
-"Được rồi, tôi biết rồi," tôi đáp lời mà chẳng hề phàn nàn lấy một câu. Tôi thậm chí còn chẳng buồn hỏi phải vứt ở đâu, cứ thế xách túi rác bước ra ngoài.
+"Được chứ, để tôi lo," tôi vui vẻ nhận lời mà chẳng phàn nàn câu nào. Tôi cũng chẳng cần hỏi phải đổ ở đâu, cứ thế xách túi rác bước ra ngoài.
 
-Tôi rảo bước đến nơi cư dân thị trấn Maalt tập kết rác thải. Tùy theo từng ngày trong tuần mà nơi này tiếp nhận các loại rác khác nhau, và hôm nay là ngày thu gom đồ kim loại. Chúng sẽ được đem đi nung chảy rồi tái chế. Nếu cứ để hớ hênh trước cửa nhà người dân thì thể nào cũng bị trộm mất, thành thử mọi thứ đều được đem gom lại ở đây. Còn ai là người đến thu gom thì tùy thuộc vào từng bãi tập kết.
+Tôi đi tới chỗ tập kết rác của cư dân thị trấn Maalt. Tùy theo từng ngày mà nơi này tiếp nhận các loại rác khác nhau, và hôm nay là ngày gom đồ kim loại. Số này sẽ được đem nấu chảy để tái chế. Cứ để hớ hênh trước cửa nhà thì thể nào cũng bị nẫng mất, thành thử người ta đều đem tập kết hết ra đây. Còn ai đến thu gom thì tùy thuộc vào từng điểm tập kết.
 
-"Ồ, mọi người vất vả rồi. Hôm nay gom được nhiều đồ ghê. A, Rentt," một vị tư tế cất tiếng khi vừa bước tới.
+"Ồ, mọi người vất vả quá nhỉ? Hôm nay nhiều đồ ghê. A, Rentt đấy à," một vị tư tế vừa bước tới vừa cất tiếng chào.
 
-Anh ta là Adela, một tư tế của Giáo Hội Giả Kim đến để thu gom các nguyên liệu kim loại này. Giáo Hội Giả Kim tin rằng bản thân các kỹ thuật giả kim là thần thánh và xứng đáng được tôn thờ. Họ có đôi chút kỳ lạ. Vị thần của họ là Dayla, Thần Giả Kim. Phần lớn tín đồ của họ là người bình thường, giống như bao tôn giáo khác, nhưng các tư tế của họ lại là những nhà giả kim cao cấp. Đó là lý do họ chuộng việc quyên góp nguyên liệu hơn là tiền bạc. Lorraine không phải tín đồ của tôn giáo này, nhưng cùng là nhà giả kim, thỉnh thoảng cô cũng đem cho họ những thứ mình không cần dùng đến. Nhưng người thường xuyên mang đồ đến bãi tập kết này lại là tôi, nên tôi quen mặt Adela hơn cả cô. Adela là một nhà giả kim khá có tài, nhưng tôi vẫn chưa từng tận mắt chứng kiến anh ta thể hiện tài năng của mình.
+Đó là Adela, một tư tế của Giáo Hội Giả Kim đến thu gom phế liệu kim loại. Giáo Hội Giả Kim tin rằng bản thân thuật giả kim là thứ thần thánh và xứng đáng được tôn thờ. Họ có phần hơi lập dị. Thần của họ là Dayla, Thần Giả Kim. Như bao tôn giáo khác, đa phần tín đồ chỉ là người bình thường, nhưng hàng tư tế thì toàn là các nhà giả kim trình độ cao. Thế nên thay vì tiền quyên góp, họ lại chuộng nguyên liệu hơn. Lorraine không theo đạo này, nhưng cùng làm nghề giả kim nên thỉnh thoảng cô ấy cũng đem cho họ những thứ mình không dùng tới. Có điều người khuân đồ ra bãi tập kết thường là tôi, nên tôi quen thân với Adela hơn cả cô ấy. Adela là một nhà giả kim khá cừ, dẫu tôi chưa từng thấy anh ấy thi triển ngón nghề bao giờ.
 
-"Chào Cha Adela," tôi cất tiếng rồi cúi đầu chào.
+"Chào Cha Adela," tôi gật đầu chào.
 
-"Chỗ nguyên liệu này đều là của hai người à?" anh ta hỏi.
+"Chỗ nguyên liệu này đều là của cậu đấy à?" anh ấy hỏi.
 
 "Của Lorraine nhiều hơn là của tôi."
 
-"Phải rồi, dĩ nhiên rồi. Vẫn cảm ơn hai người như mọi khi nhé. Hai người cung cấp không ít nguyên liệu có giá trị rất cao, nên các thành viên của chúng tôi lúc nào cũng tranh giành nhau."
+"Ra là thế, dĩ nhiên rồi. Lúc nào cũng cảm ơn hai người nhé. Chỗ nguyên liệu hai người mang tới toàn là đồ quý giá, người trong giáo hội chúng tôi cứ tranh nhau suốt đấy."
 
-"Tôi thấy cũng chẳng có gì to tát lắm, nhưng được anh nói vậy thì cảm ơn nhé."
+"Tôi thấy cũng chẳng đáng là bao, nhưng anh nói thế thì tôi cảm ơn nhé."
 
-"Đứng từ góc nhìn của chúng tôi thì thế này là nhiều lắm rồi. Phần lớn số này mà bảo tôi tự tay kiếm thì khó lòng kiếm nổi."
+"Với chúng tôi thì thế này là quý lắm rồi. Phần lớn số này mà bảo tôi tự tay kiếm thì khó lòng kiếm nổi."
 
-Lorraine và tôi đã thu thập được rất nhiều nguyên liệu từ các mê cung hoặc vùng đồi núi. Chúng tôi vốn định tự mình sử dụng, nên chỉ chọn lựa những thứ có phẩm chất cao nhất, và phần nhiều trong số đó còn tốt hơn đồ bán ngoài tiệm. Phần lớn mạo hiểm giả thậm chí còn chẳng thể nhận biết nổi một vài loại trong số nguyên liệu này, và chúng cũng hầu như không được lưu hành trên thị trường. Tôi hiểu điều Adela muốn nói.
+Lorraine và tôi gom được không ít nguyên liệu từ mê cung hoặc trên núi. Cả hai vốn định giữ lại dùng nên toàn lựa đồ thượng hạng, nhiều món còn tốt hơn hẳn hàng bán ngoài tiệm. Phần lớn mạo hiểm giả thậm chí còn chẳng nhận ra vài loại trong số này, ngoài chợ lại càng hiếm khi thấy lưu hành. Tôi hiểu ý Adela.
 
-"Lorraine và tôi tự mình thu thập những thứ này, nên chắc chắn có không ít món khác thường trong đó."
+"Tôi với Lorraine tự tay kiếm đống này, nên chắc có lẫn không ít món lạ."
 
-"Đúng vậy, nhưng giới giả kim thuật thì ai cũng biết rõ chúng. Tiếc là không có nhiều mạo hiểm giả có thể nhận ra được."
+"Đúng thế, cơ mà dân giả kim thì ai cũng biết rõ. Tiếc là chẳng mấy mạo hiểm giả nhận ra được chúng."
 
-"Mạo hiểm giả thường có xu hướng chỉ lấy những thứ dễ nhận biết và dễ thu thập nhất, đúng là vậy. Rất khó để ghi nhớ những loại nguyên liệu hiếm khi dùng tới nhưng lại có giá trị cao."
+"Mạo hiểm giả thường chỉ nhặt những thứ dễ nhận diện và dễ thu gom thôi. Mấy món ít ai dùng mà giá trị cao thì khó nhớ lắm."
 
-"Ra là vậy. Thật tốt khi được nghe ý kiến từ một mạo hiểm giả. Có lẽ chúng tôi nên lưu tâm điều đó khi gửi yêu cầu tới hội."
+"Ra là vậy. Nghe được góc nhìn từ mạo hiểm giả như cậu thật tốt quá. Có lẽ chúng tôi nên lưu ý điều này khi gửi yêu cầu lên hội."
 
-Chúng tôi tiếp tục trò chuyện trong lúc có thêm nhiều nguyên liệu khác được mang tới. Đám đông quanh đó dần dần thưa thớt bớt.
+Chúng tôi cứ đứng tán gẫu trong lúc người ta mang thêm nguyên liệu tới. Rồi dòng người quanh đó cũng bắt đầu thưa dần.
 
-"Cũng đến giờ rồi, Rentt," Adela nói. Anh ta chuẩn bị mang mọi thứ về giáo hội.
+"Cũng đến giờ rồi, Rentt à," Adela nói. Anh ấy sắp sửa chuyển hết đồ về giáo hội.
 
-"Được rồi, vậy chào anh nhé."
+"Được rồi, thế chào anh nhé."
 
-Chúng tôi chia tay nhau.
+Chúng tôi chào tạm biệt nhau.
 
 ◆◇◆◇◆
 
-"A, anh về rồi đấy à. Bữa sáng xong rồi đây," Lorraine cất tiếng rồi cởi chiếc tạp dề ra khi tôi về tới nhà.
+"Về rồi đấy à. Bữa sáng xong xuôi rồi đây," Lorraine vừa nói vừa cởi chiếc tạp dề khi tôi về tới nhà.
 
-Chiếc tạp dề của cô chẳng phải loại kiểu cách đáng yêu mà những người phụ nữ quanh thị trấn ưa chuộng. Nó vốn dùng cho các thí nghiệm và được làm từ chất liệu bền chắc, không hề bị tan chảy hay bắt lửa trước loại axit cực mạnh. Dĩ nhiên là trông nó chẳng có lấy một nét quyến rũ nào, nhưng lại vô cùng hợp với Lorraine. Nó đáp ứng hoàn hảo về mặt công năng. Vấn đề duy nhất là nó hay bị bám bẩn bởi các chất cặn bã từ những cuộc thí nghiệm, nhưng cô luôn giặt giũ nó kỹ càng trước mỗi lần sử dụng. Nguyên nhân chủ yếu là vì nếu không làm vậy thì sẽ ảnh hưởng đến công việc của cô. Sự tỉ mỉ cẩn trọng kiểu đó là điều tối quan trọng đối với các nhà nghiên cứu.
+Chiếc tạp dề của cô ấy chẳng phải loại kiểu cách đáng yêu mà phụ nữ quanh thị trấn ưa chuộng. Nó vốn dùng làm thí nghiệm, làm từ chất liệu bền chắc không bị axit mạnh ăn mòn hay đốt cháy. Tất nhiên là trông chẳng có lấy một nét quyến rũ, nhưng lại cực kỳ hợp với Lorraine. Về độ tiện dụng thì khỏi phải chê. Vấn đề duy nhất là nó hay dính cặn bẩn từ các cuộc thí nghiệm, nhưng cô ấy luôn giặt giũ kỹ càng trước mỗi lần dùng. Đơn giản là vì không làm vậy thì công việc sẽ bị ảnh hưởng. Tính cẩn thận tỉ mỉ kiểu đó là điều tối quan trọng đối với giới nghiên cứu.
 
-Toàn bộ thức ăn trên bàn trông đều vô cùng ngon miệng. Món ăn được nêm nếm theo cách hoàn hảo nhất để khơi dậy cơn đói trong tôi. Nói cách khác, nó đã được nêm thêm một chút máu của Lorraine. Tôi nghĩ dù thế nào thì mùi vị của nó cũng rất ổn, nhưng sự hiện diện của máu tạo nên một sự khác biệt to lớn. Nó cũng giúp tôi no bụng hơn hẳn, nên xét về mặt hiệu quả, tôi thực sự rất cảm kích.
+Món ăn trên bàn trông món nào cũng ngon mắt. Chúng được nêm nếm theo cách hoàn hảo nhất để kích thích cơn thèm ăn của tôi: tức là có pha thêm chút máu của Lorraine. Tôi nghĩ không có máu thì ăn vẫn ngon thôi, nhưng có thêm chút máu vào là khác hẳn một trời một vực. Nó làm dịu cơn thèm ăn của tôi tốt hơn nhiều, nên xét về độ hiệu quả thì tôi rất biết ơn.
 
-"Trông ngon đấy," tôi nói. "Chúng ta ăn luôn chứ nhỉ?"
+"Trông ngon đấy," tôi nói. "Mình ăn thôi chứ nhỉ?"
 
 "Ừ, ăn thôi."
 
-Chúng tôi ngồi vào bàn ăn. Trong lúc dùng bữa, tôi kể lại câu chuyện vừa xảy ra ban nãy.
+Hai đứa ngồi vào bàn ăn. Vừa ăn, tôi vừa kể lại chuyện ban nãy.
 
-"Cha Adela nói vậy thật à?" Lorraine hỏi. "Hừm, anh ta đâu cần phải cảm ơn chúng ta làm gì."
+"Cha Adela nói thế thật à?" Lorraine hỏi. "Hừm, việc gì phải cảm ơn chúng ta chứ."
 
-"Tôi cũng nói y như vậy, nhưng anh ta là người lịch sự mà."
+"Tôi cũng bảo thế, nhưng anh ấy vốn lịch sự mà."
 
-"Thì anh ta lúc nào chẳng thế. Với tài năng đó, đáng lẽ anh ta có thể nổi tiếng hơn hiện tại nhiều, vậy mà lại chọn sống ở thị trấn nhỏ này."
+"Thì xưa nay anh ta vẫn vậy. Với tài năng cỡ đó, đáng lẽ anh ta phải nổi tiếng hơn nhiều, vậy mà lại chọn sống ở cái thị trấn nhỏ này."
 
-"Thật vậy sao?"
+"Thế cơ à?"
 
-"Đúng thế, nếu thích thì anh ta có thể kiếm được một công việc ở Vistelya, hoặc thậm chí tìm được việc làm ở Đế Quốc ấy chứ. Dĩ nhiên là anh ta chẳng thể nào sánh bằng tôi rồi."
+"Đúng thế, nếu thích thì anh ta kiếm được việc ở Vistelya ngay, thậm chí sang Đế Quốc cũng có chỗ làm ấy chứ. Tất nhiên là còn lâu mới đọ lại được tôi rồi."
 
-Lorraine tự đánh giá bản thân rất cao, nhưng nếu trình độ giả kim của anh ta chỉ kém cô một chút thì vẫn thuộc dạng khá tài ba. Xét về thực lực của Lorraine, tôi cũng chẳng hoàn toàn hiểu nổi tại sao cô lại chọn sống ở Maalt.
+Lorraine tự tin thái quá, nhưng nếu tay nghề của Adela chỉ thua cô ấy một bậc thì anh ấy vẫn thuộc hàng cao thủ. Mà xét về thực lực của Lorraine thì chính tôi cũng chẳng hiểu nổi vì sao cô ấy lại chọn ở lại Maalt.
 
-"Dù sao nếu anh ta đang sống ở Maalt, thì có lẽ là do Giáo Hội Giả Kim không mấy ưa anh ta chăng," tôi nói.
+"Đã ở lại Maalt thì có khi là do Giáo Hội Giả Kim không ưa anh ấy lắm," tôi nói.
 
-"Chà, đó là khả năng cao nhất rồi. Rốt cuộc thì những tổ chức kiểu này tổ chức nào cũng biến chất cả thôi. Giáo Hội Giả Kim ngoài miệng tuyên bố ưu tiên khoa học, nên thật đáng buồn khi ngay cả họ cũng có cái chiều hướng tương tự."
+"Chà, chắc đúng là vậy rồi. Mấy cái tổ chức kiểu này rốt cuộc chỗ nào cũng tha hóa cả. Giáo Hội Giả Kim ngoài miệng rêu rao đặt khoa học lên hàng đầu, đáng buồn là ngay cả họ cũng chẳng thoát khỏi cái thói ấy."
 
-"Nghe chừng vất vả thật."
+"Nghe cũng mệt mỏi thật."
 
-"Tôi cũng đoán thế, nhưng anh ta hoàn toàn có thể rời khỏi Giáo Hội Giả Kim rồi gia nhập một đội nghiên cứu nào đó cơ mà. Tôi đồ rằng anh ta ở lại với họ là vì bản thân anh ta muốn thế, nên chúng ta chẳng có tư cách gì để bàn tán về hoàn cảnh của người ta cả."
+"Chắc vậy, nhưng anh ta hoàn toàn có thể rời Giáo Hội Giả Kim để gia nhập một nhóm nghiên cứu khác cơ mà. Tôi đoán anh ta ở lại là vì bản thân muốn thế, nên chúng ta cũng chẳng việc gì phải bàn tán về chuyện của người ta."
 
-"Có lẽ vậy."
+"Cũng đúng."
 
-Đôi khi những người rơi vào hoàn cảnh bất lợi vẫn chấp nhận ở lại vì lý do của riêng họ. Những lý do ấy có thể thiên biến vạn hóa, nhưng nếu Cha Adela đã có lý do của mình thì chúng tôi cũng chẳng có tư cách gì để can thiệp.
+Đôi khi người ta vẫn chấp nhận ở lại nơi ngặt nghèo vì những lý do riêng. Lý do thì muôn hình vạn trạng, nhưng một khi Cha Adela đã quyết như thế thì chúng tôi cũng chẳng có gì để nói thêm.
 
 ◆◇◆◇◆
 
-Một hôm nọ, có tiếng gõ cửa nhà Lorraine và ai đó lớn tiếng gọi tên tôi. Tôi mở cửa và thấy hai người, một người tôi quen còn người kia thì không. Người quen là Alize, cô đồ đệ của chúng tôi. Đứng cạnh em là một bé gái chừng mười tuổi. Nhìn qua trang phục tôi có thể nhận ra cô bé là dân thường, nhưng không phải người của thị trấn này, chắc hẳn là từ nơi khác tới đây.
+Một hôm, có ai đó gõ cửa nhà Lorraine rồi í ới gọi tên tôi. Tôi mở cửa thì thấy hai người, một quen một lạ. Người quen là Alize, cô đồ đệ của chúng tôi. Đi cùng em ấy là một bé gái trạc mười tuổi. Nhìn trang phục, tôi đoán con bé là dân thường nhưng không phải người thị trấn này, chắc là từ nơi khác đến.
 
 "Alize, cô bé này là ai thế em?" tôi hỏi.
 
-"Em ấy nói tên là Mimir. Em ấy bị lạc đường ạ."
+"Em ấy bảo tên là Mimir, đang bị lạc đường."
 
-"Lạc đường ư? Mà sao em lại đưa cô bé tới đây?"
+"Lạc đường á? Mà sao em lại dẫn con bé qua đây?"
 
-"Em nghĩ anh sẽ giúp tìm được người em ấy cần tìm ạ."
+"Em nghĩ anh sẽ giúp tìm được người em ấy đang tìm."
 
-"Thế cô bé đang tìm ai?" Đó có thể là cha mẹ, bạn bè, hoặc một người lính gác. Có vô vàn khả năng.
+"Thế con bé đang tìm ai?" Đó có thể là cha mẹ, bạn bè, hay lính gác. Khả năng nào cũng có thể xảy ra.
 
-"Bố của em ấy ạ. Em ấy kể hai bố con cùng đến Maalt, nhưng đột nhiên bị lạc mất bố," Alize giải thích.
+"Bố của em ấy. Em ấy bảo hai bố con cùng đến Maalt, nhưng thoắt cái đã lạc mất bố rồi," Alize giải thích.
 
-"Tôi hiểu rồi. Tôi sẽ giúp."
+"Được rồi. Để tôi giúp cho."
 
-"Oa, cảm ơn anh! Chị đã bảo với em rồi mà, Mimir? Anh Rentt sẽ tìm bố cho em mà."
+"Oa, tuyệt quá, cảm ơn anh! Chị đã bảo rồi mà, Mimir? Anh Rentt nhất định sẽ tìm được bố cho em."
 
-Chắc hẳn Mimir đã rất lo lắng về chuyện đó. Nãy giờ cô bé cứ im thin thít, nhưng giờ đây em nhìn tôi với ánh mắt nhẹ nhõm.
+Chắc hẳn nãy giờ Mimir lo lắng lắm. Con bé cứ im bặt suốt từ lúc đến, nhưng giờ thì đưa mắt nhìn tôi đầy nhẹ nhõm.
 
-"Em cảm ơn anh Rentt ạ," cô bé nói.
+"Em cảm ơn anh Rentt ạ," cô bé lí nhí nói.
 
-"Không có gì đâu. Dù sao hôm nay tôi cũng chẳng có việc gì khác để làm. Nhưng nếu em lại bị lạc nữa thì chẳng giúp ích được cho ai cả, nên hai đứa cứ tìm chỗ nào đó chờ đi nhé. Thấy sao?"
+"Không có gì đâu. Dù sao hôm nay tôi cũng rảnh rỗi. Cơ mà nếu em lại đi lạc thêm lần nữa thì khổ lắm, nên hai đứa cứ tìm chỗ nào ngồi đợi nhé. Thấy sao?"
 
-"Bọn em ở lại cô nhi viện được không anh?" Alize hỏi.
+"Hay bọn em về cô nhi viện đợi nhé?" Alize hỏi.
 
-"Được chứ. Nhưng trước đó, Mimir này, tôi cần hỏi em đôi điều về bố em. Được chứ?"
+"Ừ. Cơ mà trước đó, Mimir này, tôi cần hỏi em vài thông tin về bố em đã. Được không?"
 
-"Dạ được ạ!"
+"Vâng ạ!"
 
 "Ngoan lắm."
 
-Tôi để hai cô bé vào trong nhà Lorraine để hỏi han Mimir. Sau đó tôi tiễn hai đứa về cô nhi viện rồi bắt đầu cuộc tìm kiếm của mình. Nếu có ai thắc mắc Lorraine đang ở đâu, thì cô đã rời đi sau khi nhận được một yêu cầu khẩn cấp từ hội. Đáng lẽ cô cũng sẽ phụ giúp tìm kiếm, nhưng tiếc thay cô đang bận tối tăm mặt mũi. Dẫu vậy, tôi có mạng lưới thông tin của Edel, nên tôi đoán chắc mình sẽ xoay xở ổn thôi.
+Tôi dẫn hai đứa vào nhà Lorraine để hỏi chuyện Mimir. Sau đó tôi đưa cả hai về cô nhi viện rồi bắt đầu tìm kiếm. Nếu ai thắc mắc Lorraine đang ở đâu thì cô ấy đã ra ngoài từ sớm sau khi nhận được ủy thác khẩn từ hội. Bình thường hẳn cô ấy cũng sẽ giúp một tay, nhưng tiếc là đang bận túi bụi. Cơ mà tôi có mạng lưới thông tin của Edel, nên chắc là sẽ ổn thôi.
 
 ◆◇◆◇◆
 
-"Alize, tôi đến rồi đây," hai tiếng sau, tôi cất tiếng khi ghé qua cô nhi viện.
+"Alize, tôi tới rồi đây," hai tiếng sau, tôi ghé qua cô nhi viện và cất tiếng gọi.
 
 "A, anh Rentt! Mimir ơi, anh Rentt đến rồi này!"
 
-"Anh Rentt! Anh tìm thấy bố em rồi ạ?" Mimir hỏi dồn.
+"Anh Rentt! Anh tìm thấy bố em rồi ạ?" Mimir hỏi.
 
-"Tôi tìm ra chỗ của ông ấy rồi, nhưng hình như ông ấy đang ở ngoài thị trấn. Nghe chừng ông ấy là một mạo hiểm giả, nên tôi đoán chuyện đó cũng bình thường thôi."
+"Tôi biết ông ấy đang ở đâu rồi, nhưng hình như đang ở ngoài thị trấn. Nghe bảo ông ấy là mạo hiểm giả, nên chắc chuyện đó cũng bình thường thôi."
 
-Bố của Mimir là một mạo hiểm giả Ngân Cấp từ Vistelya tới, và thực lực khá cừ. Ông ấy đang thám hiểm Mê Cung Tân Nguyệt để tìm nguyên liệu cho một quý tộc và nói rằng tới tối mới quay về. Tôi nghĩ việc ông ấy để Mimir lại một mình là không phải, nhưng ông ấy chỉ có thể nán lại Maalt trong một khoảng thời gian nhất định, và vị quý tộc nọ lại đang thúc giục gấp gáp. Ông ấy đã gửi yêu cầu tìm kiếm Mimir tại hội trước khi rời khỏi thị trấn. Tôi không nghĩ là ông ấy muốn làm vậy, nhưng tình thế ngặt nghèo buộc phải thế. Dù sao Maalt cũng là một thị trấn thanh bình, và nguy cơ Mimir gặp nguy hiểm là rất thấp, nên có lẽ điều đó đã ảnh hưởng đến quyết định của ông ấy. Dẫu sao thì Mimir hiện giờ đang ở đây, và chúng tôi cũng biết bố cô bé đang ở đâu, nên tối nay hai bố con họ sẽ có thể đoàn tụ.
+Bố của Mimir là một mạo hiểm giả Ngân Cấp đến từ Vistelya, tay nghề khá cừ. Ông ấy đang thám hiểm Mê Cung Tân Nguyệt để kiếm nguyên liệu cho một quý tộc và dặn tới tối mới về. Tôi thấy để Mimir thui thủi một mình như thế là không phải, nhưng thời gian ông ấy nán lại Maalt có hạn, mà bên quý tộc lại giục gấp. Trước khi ra khỏi thị trấn, ông ấy đã kịp gửi yêu cầu tìm Mimir lên hội. Chắc ông ấy cũng chẳng đặng đừng, cơ mà hoàn cảnh éo le biết làm sao được. Dù gì Maalt cũng là một thị trấn thanh bình, nguy cơ Mimir gặp nguy hiểm là rất thấp, nên chắc điều đó cũng tác động phần nào đến quyết định của ông ấy. Dù sao thì giờ Mimir đã ở đây, tung tích của bố em ấy cũng đã rõ, tối nay hai bố con thể nào cũng gặp lại nhau.
 
-"May quá rồi," Mimir nói. "Vậy em chỉ cần ra hội đứng đợi thôi ạ?"
+"May quá rồi," Mimir nói. "Vậy em chỉ cần ra hội đợi là được ạ?"
 
 "Ừ."
 
-"Mimir ơi, hay em cứ đợi ở đây đi?" Alize gợi ý. "Chỗ này tuy chẳng có gì sang trọng, nhưng bọn mình ăn chút gì đó lót dạ trước khi em đi nhé!"
+"Mimir này, hay em cứ ở lại đây đợi đi?" Alize gợi ý. "Chỗ này tuy chẳng có gì sang trọng, nhưng chị em mình kiếm gì ăn lót dạ trước khi em đi nhé!"
 
-"Ôi, em cũng không biết nữa." Mimir có vẻ không muốn làm phiền cô nhi viện thêm nữa.
+"Dạ... em ngại lắm..." Mimir có vẻ không muốn làm phiền cô nhi viện thêm nữa.
 
-"Không sao đâu mà! Dạo này cô nhi viện bọn chị đâu có thiếu đồ ăn nữa! Thỉnh thoảng Sơ Lillian còn đi săn quái vật nữa cơ!" Alize hào hứng nói.
+"Không sao đâu mà! Dạo này cô nhi viện đâu có thiếu đồ ăn! Thỉnh thoảng Sơ Lillian còn đi săn quái vật nữa cơ đấy!" Alize nói.
 
-Tôi biết căn bệnh của bà ấy đã được chữa khỏi, nhưng chưa bao giờ nghĩ bà lại khỏe khoắn đến mức ấy. Mà thôi, bà ấy sở hữu Thần Lực, nên nếu muốn thì bà hoàn toàn có thể đảm đương công việc của một mạo hiểm giả bình thường.
+Tôi biết bệnh của Sơ Lillian đã khỏi hẳn, nhưng chưa từng nghĩ sơ ấy lại khỏe đến mức đó. Mà kể ra thì sơ ấy có Thần Lực, nên nếu thích thì việc của một mạo hiểm giả tầm trung sơ ấy cũng gánh vác ngon ơ.
 
-"Dạ được ạ!" Mimir nói. "Anh Rentt ơi, em nghĩ mình sẽ ở lại đây đợi thôi ạ."
+"Vâng ạ!" Mimir nói. "Anh Rentt ơi, thế em ở lại đây đợi nhé."
 
-"Nếu vậy thì tôi sẽ báo lại với hội một tiếng," tôi đáp lời.
+"Thế thì tôi sẽ ghé qua hội báo lại một tiếng," tôi đáp.
 
-"Em cảm ơn anh. Hẹn gặp lại anh sau nhé."
+"Em cảm ơn anh ạ. Hẹn gặp lại anh sau nhé."
 
-Tôi quay trở lại hội. Đang lúc rảnh rỗi, tôi tính bụng sẽ đích thân đợi bố của Mimir quay về.
-
-◆◇◆◇◆
-
-Màn đêm buông xuống, đã đến lúc các mạo hiểm giả trở về hội để báo cáo kết quả. Phần lớn bọn họ đều nộp báo cáo, nhận phần thưởng rồi rời đi như thường lệ, nhưng tôi trông thấy một nhóm người hớt hải xông vào hội trong cơn hoảng loạn. Lorraine cũng ở trong số đó, nên tôi càng thêm tò mò. Dẫu vậy, tôi không muốn quấy rầy cô ngay lúc này, nên đành nán lại đợi cô báo cáo xong xuôi và nhận ra sự có mặt của tôi.
-
-"Có chuyện gì xảy ra thế?" tôi hỏi Lorraine.
-
-"Ừ. Một con quái vật đặc thù xuất hiện và hóa đá một thành viên trong tổ đội của chúng tôi. Các phép chữa trị thông thường hay Thần Lực đều không thể giải trừ được cho anh ta, nên chúng tôi phải quay về tìm nguyên liệu điều chế thuốc. Giờ chúng tôi cần phải phối trộn chúng lại với nhau."
-
-Hóa đá có thể do hơi thở quái vật, ma pháp hoặc lời nguyền gây ra, nhưng thông thường hóa giải chuyện đó tương đối dễ dàng. Tình huống này chắc hẳn là một ngoại lệ. Dẫu bọn họ đang hoảng loạn, Lorraine lại không hề nói rằng việc chữa trị là bất khả thi, nên chắc chắn trong đầu cô đã có sẵn phương án.
-
-"Tôi hiểu rồi, vậy để tôi phụ một tay," tôi nói. "Chắc chắn tôi sẽ giúp ích được chút gì đó."
-
-"Anh học rộng hiểu nhiều, nên giúp được khối việc ấy chứ. Đi thôi nhỉ?"
-
-Lorraine chạy vụt lên phía trước, và tôi rảo bước theo sau. Tôi vốn định đứng đợi bố của Mimir, nhưng tình thế lúc này quá đỗi khẩn cấp. Tôi đã báo với hội chỗ ở của Mimir rồi, nên việc bên đó chẳng có gì phải bận tâm.
+Tôi quay trở lại hội. Tiện đang rảnh rỗi, tôi tính sẽ đích thân ngồi đợi bố của Mimir.
 
 ◆◇◆◇◆
 
-"Nguyên liệu có vấn đề rồi," Lorraine lẩm bẩm trong công đoạn phối trộn thuốc cuối cùng. Cô vừa nhận ra chúng tôi không có đủ lượng cần thiết.
+Trời đã sập tối, cũng là lúc các mạo hiểm giả quay về hội để báo cáo. Đa số họ đều nộp báo cáo, lĩnh thưởng rồi rời đi như thường lệ, bỗng tôi thấy một nhóm người hớt hải lao vào hội. Thấy Lorraine cũng đi cùng nhóm đó, tôi lại càng tò mò hơn. Dù vậy, tôi không muốn quấy rầy cô ấy ngay lúc này, nên đành nán lại đợi cô ấy báo cáo xong xuôi rồi nhận ra tôi.
 
-"Thứ này chẳng phải chúng ta vừa đem cho đi ban nãy sao?" tôi hỏi.
+"Có chuyện gì thế?" tôi hỏi Lorraine.
 
-"Ừ, tiếc là đúng như vậy."
+"Ừ. Tụi tôi đụng phải một con quái vật đặc biệt, nó hóa đá một thành viên trong đội. Ma pháp trị liệu thông thường lẫn Thần Lực đều không hóa giải được, nên cả nhóm phải quay về kiếm nguyên liệu chế thuốc. Giờ phải đi pha chế ngay đây."
 
-"Vậy tại sao chúng ta không đến Giáo Hội Giả Kim hỏi xin lại nhỉ? Chúng ta giúp họ, thì lẽ nào họ lại không chịu giúp chúng ta?"
+Hóa đá có thể do hơi thở quái vật, ma pháp hay nguyền rủa, nhưng thường thì giải trừ khá dễ. Tình huống lần này chắc là ngoại lệ. Cơ mà dù cả nhóm đang hoảng loạn, Lorraine không hề bảo là hết cách cứu, nghĩa là trong đầu cô ấy đã có sẵn phương án rồi.
 
-"Có lẽ thế," Lorraine lẩm bẩm. "Lúc này mà đi thu thập tự nhiên hay tìm mua ngoài tiệm thì khó lòng kiếm kịp, nên tôi thấy chẳng còn cách nào khác."
+"Thế à, để tôi phụ một tay," tôi nói. "Chắc tôi cũng giúp được việc gì đó."
 
-Chúng tôi thống nhất ý kiến rồi cùng nhau tới nhà thờ. Cha Adela ra đón chúng tôi.
+"Kiến thức của anh rộng thế cơ mà, giúp được khối việc ấy chứ. Đi thôi?"
 
-"Hai người cứ tự nhiên dùng đi," anh ta nói. "Mà mạo hiểm giả gặp nạn là Fazira phải không? Anh ta đã được đưa đến Viện Trị Liệu của chúng tôi rồi."
-
-"Tôi biết anh ta được đưa tới Viện Trị Liệu, nhưng không ngờ nơi đó lại do bên giáo hội của anh quản lý," Lorraine nói. "Vậy thì tiện quá rồi."
-
-Adela cung cấp nguyên liệu, và Lorraine bắt tay ngay vào những bước cuối cùng để điều chế thuốc.
-
-Trong lúc làm việc, Lorraine đưa mắt nhìn chỗ nguyên liệu. "Thứ này lúc chúng tôi đem cho vẫn chưa hề qua sơ chế, nhưng giờ tôi thấy nó đã được xử lý xong xuôi rồi. Là Cha Adela làm đấy à?" cô hỏi.
-
-"Vâng. Làm như vậy sẽ dễ bảo quản hơn. Cô thấy chưa vừa ý điểm nào sao?"
-
-"Không, hoàn hảo lắm. Tôi sẽ pha chế xong xuôi chỗ này trong nháy mắt thôi. Thực ra thì tôi vừa xong rồi đây. Chúng ta đến Viện Trị Liệu thôi."
-
-Lorraine đứng dậy rồi vội vã rời đi. Tôi rảo bước theo sau cô, và Cha Adela cúi đầu chào chúng tôi khi chúng tôi bước ra ngoài.
+Lorraine chạy vụt đi trước, tôi vội vã bám theo. Dù muốn đợi bố của Mimir, nhưng lúc này cứu người là trên hết. Vả lại tôi đã báo cho hội chỗ của Mimir rồi, bên đó chẳng có gì phải lo nữa.
 
 ◆◇◆◇◆
 
-"Trời ạ, phen này tôi cứ ngỡ mình đi tong rồi chứ!" Fazira vừa cười sảng khoái vừa nói khi đang nằm trên giường bệnh trong Viện Trị Liệu.
+"Nguyên liệu có vấn đề rồi," Lorraine lẩm bẩm ở công đoạn bào chế thuốc cuối cùng. Cô ấy vừa phát hiện ra nguyên liệu không đủ.
 
-Ông ấy chính là bố của Mimir. Mimir đang ngồi cạnh giường, vẻ mặt hớn hở khi thấy bố mình đã bình an vô sự. Vào thời điểm Lorraine và tôi chạy đến nơi, ông ấy đã bị hóa đá tới tận cổ. Chúng tôi cho ông ấy uống thuốc kịp thời trong gang tấc, và giờ thì ông đã bình phục hoàn toàn. Tuy nhiên ông sẽ phải nằm lại viện theo dõi trong vài ngày tới để đảm bảo cơ thể hoạt động bình thường. Ông đã tìm đủ những thứ cần thiết cho công việc và cũng chẳng việc gì phải vội, nên đã vui vẻ chấp thuận.
+"Thứ này chẳng phải tụi mình vừa đem cho hồi sáng sao?" tôi hỏi.
 
-"Bố ơi, bố đừng tự đâm đầu vào nguy hiểm nữa được không," Mimir phụng phịu nói.
+"Ừ, tiếc là đúng thế."
 
-Fazira lộ vẻ bối rối. "Thì... mạo hiểm giả ai chẳng thế hả con," ông nói rồi đưa tay gãi đầu gãi tai.
+"Thế sao mình không ghé qua Giáo Hội Giả Kim hỏi xin lại? Mình vừa giúp họ xong, lẽ nào họ lại từ chối?"
 
-Chúng tôi chẳng còn việc gì ở đây nữa, nên Lorraine và tôi đứng dậy rời đi. Khi bước ra ngoài, chúng tôi bắt gặp Cha Adela. Đoán chừng anh ta đến đây để kiểm tra Viện Trị Liệu của Giáo Hội Giả Kim, hoặc giả chỉ là tò mò muốn biết tình hình của Fazira. Chúng tôi cúi đầu chào rồi bước lướt qua anh ta.
+"Cũng phải," Lorraine lẩm bẩm. "Tầm này mà đi hái lượm ngoài tự nhiên hay kiếm mua ngoài tiệm thì không kịp, đành phải thế thôi."
+
+Hai đứa đồng ý rồi cùng đến giáo hội. Cha Adela ra đón chúng tôi.
+
+"Hai người cứ lấy dùng tự nhiên," anh ấy nói. "Mà mạo hiểm giả gặp nạn là Fazira phải không? Anh ấy đã được đưa tới Viện Trị Liệu của chúng tôi rồi."
+
+"Tôi biết anh ta được đưa tới viện trị liệu, nhưng không ngờ là do bên anh quản lý," Lorraine nói. "Vậy thì tốt quá rồi."
+
+Có được nguyên liệu từ Adela, Lorraine lập tức bắt tay vào những bước pha chế cuối cùng.
+
+Vừa làm, Lorraine vừa quan sát chỗ nguyên liệu. "Lúc chúng tôi mang tặng, món này còn chưa được sơ chế, vậy mà giờ đã qua xử lý rồi. Là Cha Adela làm đấy à?" cô ấy hỏi.
+
+"Đúng thế. Xử lý như vậy sẽ dễ bảo quản hơn. Cô thấy có gì chưa ổn sao?"
+
+"Không, rất hoàn hảo là đằng khác. Tôi sẽ pha chế xong ngay thôi... Thực ra là xong luôn rồi đây. Mình qua Viện Trị Liệu mau."
+
+Lorraine đứng bật dậy, vội vã rời đi. Tôi vội bám theo sau cô ấy, còn Cha Adela cúi đầu chào khi chúng tôi ra cửa.
+
+◆◇◆◇◆
+
+"Trời ạ, phen này tôi cứ tưởng mình tiêu rồi chứ!" Fazira nằm trên giường bệnh trong Viện Trị Liệu, cười sảng khoái nói.
+
+Ông ấy chính là bố của Mimir. Mimir ngồi cạnh giường bệnh, mừng rỡ khi thấy bố mình bình an vô sự. Lúc Lorraine và tôi chạy tới nơi, phần thân của Fazira đã bị hóa đá lên tận cổ. May mà đưa thuốc kịp trong gang tấc nên giờ ông ấy đã bình phục hẳn. Tuy nhiên, ông ấy vẫn phải ở lại viện theo dõi thêm vài ngày để chắc chắn cơ thể đã hoạt động bình thường. Đằng nào ông ấy cũng đã tìm đủ nguyên liệu cho ủy thác và chẳng phải vội vàng gì, nên vui vẻ đồng ý.
+
+"Bố này, từ giờ bố đừng có lao vào chỗ nguy hiểm nữa đấy nhé," Mimir phụng phịu nói.
+
+Fazira gãi đầu gãi tai, vẻ ngượng ngùng: "Thì... mạo hiểm giả nó thế mà con."
+
+Không còn việc gì ở đây nữa, Lorraine và tôi đứng dậy ra về. Vừa bước ra cửa, chúng tôi bắt gặp Cha Adela. Chắc là anh ấy đến kiểm tra Viện Trị Liệu của Giáo Hội Giả Kim, hoặc đơn giản là tò mò về Fazira. Cả hai khẽ cúi đầu chào rồi lướt qua anh ấy.
 
 "Lorraine," tôi khẽ gọi.
 
-"Ừ, tôi cũng cảm thấy có gì đó hơi là lạ. Nói đúng hơn là rất kỳ lạ."
+"Ừ, tôi cũng thấy có gì đó khang khác. Nói đúng hơn là rất kỳ quặc."
 
-"Chúng ta nên làm gì đây?"
+"Giờ tính sao đây?"
 
-"Cứ quan sát xem chuyện gì xảy ra một lát đã. Chắc anh ta tới đây để gặp Fazira đấy."
+"Cứ nán lại theo dõi một lát xem sao. Chắc anh ta đến tìm Fazira đấy."
 
-"Vậy thì tôi là người thích hợp nhất cho việc này rồi."
+"Thế thì vụ này để tôi là chuẩn nhất rồi."
 
 "Phải rồi."
 
-Sau khi xác nhận cả hai đều nhận thấy điểm khả nghi, chúng tôi tách nhau ra để làm phần việc của mình.
+Sau khi xác nhận cả hai cùng nhận ra điều khả nghi, chúng tôi chia nhau ra hành động.
 
 ◆◇◆◇◆
 
-Căn phòng tối đen như mực khi một bàn tay chầm chậm vươn về phía người đang nằm trên giường. Bàn tay ấy nắm chặt một con dao sắc lẹm, và bất kỳ ai cũng có thể đoán ra nó sắp sửa dùng món vũ khí đó để làm chuyện xằng bậy.
+Giữa căn phòng tối om như mực, một bàn tay chầm chậm vươn về phía người đang nằm trên giường bệnh. Bàn tay ấy nắm chặt một con dao sắc lẹm, nhìn qua cũng đủ biết kẻ đó sắp sửa làm chuyện tày đình.
 
-"Dừng tay lại," ai đó cất tiếng trước khi điều đó kịp xảy ra, và con dao quả thực đã khựng lại.
+"Dừng tay lại," một giọng nói cất lên trước khi bi kịch kịp xảy ra, và con dao quả nhiên khựng lại.
 
-Kẻ cầm dao nhận ra trong phòng còn có người khác ngoài mục tiêu của mình. Đó là một gã kỳ dị khoác áo choàng đen và đeo mặt nạ đầu lâu. Nói cách khác, người đó chính là tôi.
+Kẻ cầm dao chợt nhận ra trong phòng còn có người khác ngoài mục tiêu của mình. Một kẻ dị hợm khoác áo chùng đen và đeo mặt nạ đầu lâu. Hay nói đúng hơn, người đó chính là tôi.
 
-"Ồ, Rentt. Sao cậu lại ở đây?"
+"Ơ, Rentt. Sao cậu lại ở đây?"
 
-"Tôi lại muốn hỏi điều đó với anh đấy, Cha Adela."
+"Câu đó phải để tôi hỏi anh mới đúng chứ, Cha Adela."
 
-Đúng vậy, kẻ đó chính là Cha Adela, còn người nằm trên giường là Fazira.
+Đúng thế, kẻ đó chính là Cha Adela, còn người đang nằm trên giường là Fazira.
 
-"Đơn giản thôi," Adela nói, nở một nụ cười khẩy. "Tôi có mối thù với Fazira, nên muốn lấy mạng anh ta."
+"Đơn giản thôi," Adela cười khẩy. "Tôi có thù oán với Fazira, nên muốn lấy mạng anh ta."
 
-"Tôi cứ ngỡ anh là người tốt đẹp hơn thế cơ đấy, Adela. Sao anh lại làm chuyện này?"
+"Tôi cứ ngỡ anh tử tế hơn thế nhiều chứ, Adela. Sao anh lại làm cái chuyện này?"
 
-"Cậu muốn biết lý do à?"
+"Cậu muốn biết à?"
 
-"Nếu kể xong mà anh chịu từ bỏ thì được thôi."
+"Nếu kể xong mà anh chịu dừng tay thì được thôi."
 
-"Đằng nào thì bây giờ tôi cũng chẳng còn lựa chọn nào khác ngoài việc từ bỏ rồi. Lý do, thực ra thì, trước đây tôi từng là một mạo hiểm giả. Tôi từng chung tổ đội với gã Fazira này, nhưng một ngày nọ, anh ta tuyên bố trục xuất tôi khỏi đội."
+"Đằng nào thì giờ tôi cũng chẳng còn lựa chọn nào khác ngoài từ bỏ. Lý do là vì, cậu biết đấy, trước đây tôi từng là một mạo hiểm giả. Tôi từng chung đội với Fazira ở đây, nhưng một ngày nọ, anh ta tuyên bố đuổi tôi khỏi nhóm."
 
-"Sao cơ, hai người cãi nhau à?"
+"Sao cơ, hai người xích mích à?"
 
-"Không. Anh ta bảo họ chẳng cần một nhà giả kim làm gì. Anh ta bảo tôi vô dụng. Hồi đó tôi đúng là người mới nhập môn và thiếu sót nhiều kỹ năng thật, nhưng tôi vẫn đang tiến bộ từng ngày đấy thôi. Vậy mà anh ta lại nhẫn tâm ruồng bỏ tôi chẳng chút đắn đo. Suốt một thời gian tôi chẳng có nơi nào để đi, nhưng cuối cùng Giáo Hội Giả Kim đã cưu mang tôi và cho tôi một kế sinh nhai. Thế nhưng Fazira kể từ dạo ấy lại xoay xở trở thành mạo hiểm giả ở vương đô, trong khi tôi lại bị đẩy tới Maalt này."
+"Không. Anh ta bảo nhóm chẳng cần nhà giả kim làm gì. Anh ta bảo tôi vô dụng. Hồi đó tôi đúng là lính mới tò te, tay nghề còn non kém thật, nhưng tôi đang tiến bộ từng ngày cơ mà. Vậy mà anh ta dứt khoát ruồng bỏ tôi chẳng chút đắn đo. Suốt một thời gian dài tôi không chốn nương thân, mãi tới khi Giáo Hội Giả Kim cưu mang và cho tôi kế sinh nhai. Thế nhưng từ dạo ấy, Fazira lại vươn lên thành mạo hiểm giả ở vương đô, còn tôi thì bị đẩy về tận Maalt này."
 
-"À, tôi hiểu rồi."
+"Ra là vậy."
 
-Những câu chuyện về các thành viên bị trục xuất khỏi tổ đội vốn chẳng hề hiếm gặp, và mối oán hận trong những tình cảnh như thế cũng là điều dễ hiểu. Dẫu vậy, Adela đã cố gắng gác lại lòng khát khao báo thù của mình... cho đến tận ngày hôm nay. Có những cuộc hội ngộ đem lại điều tốt lành, nhưng cũng có những cuộc gặp gỡ mang đến tai ương tàn khốc. Nếu Fazira không tới nơi này, chuyện này đã chẳng xảy ra.
+Chuyện thành viên bị đá khỏi tổ đội vốn chẳng có gì hiếm, và sinh ra oán hận trong hoàn cảnh ấy cũng là điều dễ hiểu. Dẫu vậy, Adela đã kiềm chế được ý muốn báo thù của mình... cho đến tận hôm nay. Có những cuộc hội ngộ mang lại điều tốt lành, nhưng cũng có những lần tao ngộ lại rước đến tai ương. Nếu Fazira không tới đây thì mọi chuyện đã chẳng ra nông nỗi này.
 
-"Ngay cả tôi cũng biết chuyện đó thật đáng nực cười, nhưng khoảnh khắc nhìn thấy mặt anh ta, tôi đã không sao kìm nén nổi nỗi hận thù của mình," anh ta nói. "Cậu sẽ không để tôi giết anh ta đâu nhỉ?"
+"Ngay cả tôi cũng biết chuyện này thật nực cười, nhưng vừa nhìn thấy mặt anh ta, tôi đã không sao kìm nổi ngọn lửa thù hận," Adela nói. "Cậu sẽ không để tôi giết anh ta đúng không?"
 
-Với một nụ cười vặn vẹo, Adela vung mạnh con dao. Tôi áp sát lại gần anh ta rồi túm chặt lấy cánh tay.
+Nở một nụ cười méo mó, Adela vung dao. Tôi lập tức áp sát, chụp chặt lấy cánh tay anh ấy.
 
-"Dừng lại đi."
+"Dừng tay lại."
 
-"Sao lại bảo vệ anh ta?" Adela hỏi.
+"Sao cậu lại bảo vệ anh ta?" Adela hỏi.
 
-"Tôi cũng đang muốn hỏi điều đó đấy."
+"Tôi mới là người muốn hỏi câu đó đấy."
 
-"Cái gì cơ?"
+"Sao cơ?"
 
-"Nếu anh thực sự muốn giết anh ta, anh chỉ việc không đưa cho chúng tôi số nguyên liệu đó là xong. Nhưng anh vẫn đưa. Có phải là vì giờ đây anh đã là một vị tư tế chân chính rồi không?"
+"Nếu thực sự muốn lấy mạng anh ta, anh chỉ cần không đưa nguyên liệu cho chúng tôi là xong. Nhưng anh vẫn đưa. Chẳng phải vì trong thâm tâm, giờ anh đã là một tư tế chân chính rồi sao?"
 
-Đến tận lúc này Adela mới nhận ra sự mâu thuẫn đó. Nước mắt bắt đầu tuôn rơi trên gò má anh ta. "Đúng thật, lúc đó tôi chẳng hề mảy may suy nghĩ gì cả. Đơn giản là tôi thấy mình phải làm như vậy thôi. Tôi xin lỗi, Rentt."
+Đến tận lúc này Adela mới nhận ra sự mâu thuẫn ấy. Nước mắt bắt đầu lăn dài trên gò má anh ấy. "Đúng thật... lúc đó tôi chẳng hề đắn đo lấy một giây. Chỉ đơn giản nghĩ rằng đó là việc mình phải làm. Tôi xin lỗi, Rentt."
 
-"Tôi mừng vì anh đã biết hối hận về những gì mình làm," tôi nói.
+"Tôi mừng là anh đã nhận ra sai lầm," tôi nói.
 
-"Tôi cảm thấy bản thân mình chẳng bao giờ có thể làm được chuyện đó. Tôi phải gánh chịu hậu quả cho hành động này."
+"Tôi thấy hình như mình vốn dĩ chẳng bao giờ có thể ra tay được. Tôi phải chịu sự trừng phạt cho chuyện này."
 
-"Không cần thiết đâu. Cậu cũng đâu có làm gì tôi," Fazira cất tiếng. Tôi đã nhận thấy ông ấy tỉnh dậy từ một lúc trước, nhưng ông không có bất kỳ phản ứng nào nên tôi ngỡ ông vẫn còn mơ màng ngái ngủ. Hóa ra ông ấy hoàn toàn tỉnh táo.
+"Không cần đâu. Cậu đã làm gì tôi đâu nào," Fazira lên tiếng. Tôi nhận ra ông ấy đã tỉnh từ lúc trước, nhưng vì ông ấy không có phản ứng gì nên tôi cứ tưởng vẫn còn ngái ngủ. Hóa ra ông ấy hoàn toàn tỉnh táo từ nãy đến giờ.
 
-Adela dường như không nhận ra điều đó. "Fazira, tôi cứ ngỡ anh đang ngủ say," anh ta nói.
+Adela dường như không nhận ra điều đó. "Fazira, tôi tưởng anh ngủ say rồi chứ," anh ấy nói.
 
-"Tôi thức từ nãy rồi. Nhưng khi nghe những gì cậu nói, tôi nghĩ, này, có khi mình đáng chết thật đấy chứ. Nên tôi mới giữ im lặng."
+"Tôi tỉnh từ nãy rồi. Cơ mà nghe những lời cậu nói, tôi lại nghĩ bụng, khéo mình đáng chết thật. Thế nên tôi mới nằm im."
 
-"Anh nghĩ thế thật sao?" Adela ngạc nhiên hỏi.
+"Thật sao?" Adela ngạc nhiên hỏi.
 
-"Adela này, tôi biết bây giờ có nói thì cũng đã muộn, nhưng cho tôi xin lỗi về chuyện hồi đó nhé. Khi ấy tôi còn quá non trẻ. Tôi biết đó chẳng phải cái cớ, nhưng hồi ấy tôi không hiểu biết nhiều về các nhà giả kim. Hôm nay cậu thậm chí còn cứu mạng tôi nữa. Tôi đúng là một thằng đần độn."
+"Adela này, tôi biết giờ nói ra thì đã muộn màng, nhưng cho tôi xin lỗi về chuyện hồi xưa. Khi ấy tôi còn quá bồng bột. Tôi biết đấy chẳng phải lý do để bao biện, nhưng hồi đó tôi chẳng hiểu gì về dân giả kim cả. Hôm nay cậu lại còn cứu mạng tôi nữa. Tôi đúng là một thằng ngốc."
 
-"Ôi, không sao đâu. Tôi đã từ bỏ ý định giết anh rồi. Giờ tôi phải gánh chịu hậu quả thôi."
+"À, không sao đâu. Tôi đã bỏ ý định giết anh rồi. Giờ tôi phải chịu sự trừng phạt thôi."
 
-"Tôi đã bảo là không cần thiết rồi mà," Fazira quả quyết. "Cậu đâu có thực sự giết tôi đâu."
+"Tôi đã bảo là không cần mà," Fazira quả quyết. "Cậu đã giết được tôi đâu."
 
-"Anh nghiêm túc đấy chứ?"
+"Anh nói thật đấy à?"
 
-"So với những gì tôi đã làm với cậu thì chuyện này có là gì đâu. Huống hồ, có thể nói cậu cũng đã cứu rỗi cả tương lai của con gái tôi nữa."
+"So với những gì tôi đã đối xử với cậu thì chuyện này bõ bèn gì. Huống chi, coi như cậu đã cứu cả tương lai của con gái tôi rồi."
 
-"Mimir ư? Con bé ngoan ngoãn lắm. Suýt chút nữa là tôi cũng đã cướp đi người cha của người khác rồi."
+"Mimir á? Bé ngoan lắm. Suýt chút nữa là tôi đã cướp mất bố của một đứa trẻ rồi."
 
-"Thôi nào, đừng tự dằn vặt bản thân nữa."
+"Thôi nào, đừng tự dằn vặt mình nữa."
 
-Nghe chừng giữa hai người bọn họ đã không còn khúc mắc gì nữa, nên tôi lẳng lặng rời khỏi căn phòng. Chưa rõ liệu họ đã hoàn toàn làm lành với nhau hay chưa, nhưng ít nhất họ cũng đang dần gạt bỏ mâu thuẫn trong quá khứ sang một bên.
+Thấy giữa hai người họ dường như không còn khúc mắc gì nữa, tôi lẳng lặng rời khỏi phòng. Chưa rõ họ đã hoàn toàn làm lành hay chưa, nhưng chí ít cả hai cũng đang dần khép lại mâu thuẫn năm xưa.
 
 ![](images/ch198-01.webp)
