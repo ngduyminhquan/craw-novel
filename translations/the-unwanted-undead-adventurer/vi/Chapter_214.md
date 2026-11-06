@@ -8,7 +8,7 @@ Nghe Wolf bảo đi đón người, tôi đoán chắc hẳn là nhân vật má
 
 Có khi ông ấy nói đúng thật. Nói đúng hơn thì, công việc này khéo lại hợp nhất với một chân sai vặt quèn như tôi.
 
-"Tôi hiểu cậu muốn nói gì mà," Wolf tiếp lời. "Đối với một mạo hiểm giả bình thường, Tổng Hội Trưởng gần như là nhân vật trong truyền thuyết. Nhưng như tôi đã nói lúc nãy rồi đấy, tôi đang ngập trong cả núi giấy tờ này đây. Chưa kể tôi còn bao nhiêu việc khác nữa, đâu thể cứ thế rời khỏi Maalt được. Cậu hiểu mà, đúng không? Trừ phi... cậu chịu nhận lời tôi để làm người kế nhiệm. Thế thì tôi sẵn lòng dạy cậu mấy việc cơ bản rồi giao lại Hội cho cậu trông nom, còn tôi sẽ đi đón Tổng Hội Trưởng. Cậu thích thế hơn không?"
+"Tôi hiểu cậu muốn nói gì mà," Wolf tiếp lời. "Với một mạo hiểm giả bình thường thì Tổng Hội Trưởng chẳng khác nào nhân vật trong truyền thuyết. Nhưng như tôi vừa nói đấy, tôi còn cả núi giấy tờ phải giải quyết đây. Chưa kể còn bao nhiêu việc khác nữa, đâu thể cứ thế bỏ Maalt mà đi được. Cậu hiểu mà, đúng không? Trừ phi... cậu chịu nhận lời làm người kế nhiệm của tôi. Thế thì tôi sẵn lòng chỉ cho cậu mấy việc cơ bản rồi giao Hội lại cho cậu trông nom, còn tôi đi đón Tổng Hội Trưởng. Cậu thích thế hơn không?"
 
 ![](images/ch214-01.webp)
 
@@ -44,7 +44,7 @@ Một kẻ thiếu người đến mức phải trưng dụng cả cái xác ch�
 
 Dù ngoài mặt có vẻ như đang ép tôi giúp việc, nhưng tính Wolf vốn chu đáo, vẫn lo liệu từng chi tiết cho tôi. Tôi liền tin ngay lời ông ấy nói.
 
-"Nếu vậy thì tôi xin nhận sự giúp đỡ này. Thôi, tôi phải về chuẩn bị đây."
+"Nếu vậy thì tôi xin nhận. Thôi, tôi phải về chuẩn bị đây."
 
 "Ừ, cảm ơn cậu."
 
@@ -54,9 +54,9 @@ Chúng tôi trao đổi nốt vài thủ tục hành chính lặt vặt rồi t�
 
 Cánh cửa phòng Hội Trưởng khép lại sau một tiếng cạch nhẹ. Wolf thở phào một hơi. Ông lắng tai chờ cho tới khi chắc chắn khí tức của Rentt bên ngoài đã đi xa hẳn.
 
-"Phù. Hú vía, thế mà cuối cùng cũng tống được cho cậu ta. Cậu ta vốn rất tinh đời, cứ sợ thế nào cũng nhận ra điều bất thường. Nhưng xem chừng cậu ta lại hiểu mọi chuyện theo hướng tốt đẹp nhất có thể. Cảm tạ thần linh."
+"Phù. Hú vía, thế mà cũng đùn đẩy sang cho cậu ấy được. Cậu ấy sắc sảo lắm, cứ sợ thế nào cũng nhận ra. Nhưng xem chừng cậu ấy lại nghĩ mọi chuyện theo hướng tốt đẹp nhất có thể. Tạ ơn thần linh."
 
-Tiếng Wolf lẩm bẩm một mình nghe có vẻ đầy điềm gở.
+Lời Wolf lẩm bẩm một mình nghe thật chẳng lành chút nào.
 
 "Chúc may mắn nhé, Rentt. Có rảnh rỗi tôi cũng chẳng dại gì mà đi."
 
@@ -68,19 +68,19 @@ Wolf đặt chồng giấy tờ trên tay xuống bàn rồi cắm cúi làm vi�
 
 Tôi gật gù trong lúc bày đồ ra sàn. Đây chưa phải toàn bộ đồ đạc trong túi ma thuật, nhưng là tất cả những thứ cần thiết cho chuyến đi sáng mai.
 
-Túi ma thuật rộng thênh thang nên bên trong nhét không ít thứ linh tinh, như mấy hòn sỏi lấp lánh tình cờ nhặt dọc đường hay mấy mẩu gỗ mục trôi sông trông có vẻ hay hay. Thật tình tôi cũng chẳng hiểu sao mình lại tha chúng theo làm gì, nhưng nếu sau này cần chỗ chứa thì vứt đi là xong.
+Túi ma thuật rộng thênh thang nên bên trong nhét không ít thứ linh tinh, như mấy viên đá lấp lánh nhặt bừa ở đâu đó hay mấy mẩu gỗ lũa trông hay hay. Thật tình tôi cũng chẳng hiểu sao mình lại tha chúng theo làm gì, nhưng nếu sau này cần thêm chỗ thì cứ vứt đi là xong.
 
-"Thấy anh đang hào hứng với chuyến đi thế kia tôi cũng chẳng nỡ ngắt lời đâu, nhưng anh không thấy vụ này có gì là lạ à?" Lorraine tựa người vào khung cửa, cất tiếng.
+"Thấy anh đang hào hứng với chuyến đi thế kia tôi cũng chẳng muốn cắt ngang đâu, nhưng anh không thấy chuyện này có gì lạ à?" Lorraine tựa người vào khung cửa, lên tiếng.
 
-"Lạ chứ. Quá nhiều điểm lạ luôn ấy. Tôi biết tỏng rồi."
+"Có chứ. Nhiều là đằng khác. Tôi biết mà."
 
-"Thế sao anh vẫn nhận ủy thác rồi tót ngay về nhà thế này?"
+"Thế sao anh vẫn nhận lời ông ấy rồi về thẳng nhà thế này?"
 
-Dù Lorraine thoáng vẻ ngán ngẩm, nhưng cô cũng nhanh chóng tặc lưỡi cho qua, vì biết thừa tính tôi xưa nay vẫn vậy.
+Dù Lorraine thoáng vẻ ngán ngẩm, cô ấy cũng đành chịu vì biết thừa làm những chuyện thế này rất giống tính tôi.
 
-"Đằng nào tôi cũng phải đến vương đô có chút việc. Vả lại tôi cũng làm phiền Wolf nhiều lần rồi, thỉnh thoảng đỡ cho ông ấy một phen thì có mất mát gì đâu."
+"Đằng nào tôi cũng phải lên vương đô giải quyết chút việc. Vả lại tôi cũng gây cho Wolf bao nhiêu rắc rối rồi, thỉnh thoảng giúp ông ấy một lần thì có mất gì đâu."
 
-"Tôi chắc mẩm anh giúp ông ta cả đống lần rồi, chứ đâu phải chỉ 'thỉnh thoảng'."
+"Tôi khá chắc là anh giúp ông ấy cả đống lần rồi, chứ đâu phải chỉ 'thỉnh thoảng'."
 
 "Thế à?"
 
@@ -94,9 +94,9 @@ Có lẽ Lorraine nói đúng thật. Nhưng sống ở đời thì phải biế
 
 "Ra thế."
 
-Tổng Hội Trưởng là người đứng đầu toàn bộ mạo hiểm giả trong vương quốc. Lẽ ra phải để mạo hiểm giả Bạch Kim Cấp hay thậm chí Mithril Cấp làm hộ vệ mới đúng tầm. Nhưng mạo hiểm giả tầm cỡ đó lại quá đỗi hiếm hoi và quý giá, đến mức khó mà nói giữa họ với Tổng Hội Trưởng thì bên nào quan trọng hơn.
+Tổng Hội Trưởng là người đứng đầu toàn bộ mạo hiểm giả trong vương quốc. Lẽ ra để cả mạo hiểm giả Bạch Kim Cấp hay Mithril Cấp làm hộ vệ có khi còn hợp lý hơn. Nhưng mạo hiểm giả ở thứ hạng đó lại quá đỗi hiếm hoi và quý giá, đến mức khó mà phân định xem giữa họ với Tổng Hội Trưởng thì ai quan trọng hơn.
 
-Dù nhiều Hội Trưởng từng là mạo hiểm giả như Wolf, nhưng xét cho cùng họ cũng chỉ là người quản lý hành chính của Hội thôi. Hiếm khi có ai xuất thân là anh hùng hay nhân vật lẫy lừng. Chưa kể phần lớn mạo hiểm giả Bạch Kim Cấp và Mithril Cấp đều... lập dị. Họ chưa chắc đã chịu nghe lời một Hội Trưởng, mà Hội Trưởng cũng chẳng có cách nào bắt ép họ phải nghe. Nive Maris giờ mới là Kim Cấp thôi, nhưng sớm muộn gì cô ấy cũng lên Bạch Kim Cấp. Đám mạo hiểm giả Bạch Kim Cấp với Mithril Cấp toàn là những kẻ quái đản như thế cả.
+Dù nhiều Hội Trưởng từng là mạo hiểm giả như Wolf, nhưng xét cho cùng họ cũng chỉ là người đứng đầu mảng hành chính của Hội thôi. Hiếm khi họ là anh hùng hay nhân vật lẫy lừng. Chưa kể nhiều mạo hiểm giả Bạch Kim Cấp và Mithril Cấp lại... lập dị. Họ chưa chắc đã chịu nghe mệnh lệnh từ một Hội Trưởng, mà Hội Trưởng cũng chẳng có cách nào bắt họ phải nghe. Nive Maris giờ vẫn là Kim Cấp, nhưng sớm muộn gì cô ấy cũng lên Bạch Kim Cấp thôi. Mạo hiểm giả Bạch Kim Cấp với Mithril Cấp chính là kiểu người như thế đấy.
 
 Khoan đã, rốt cuộc vì sao mình lại từng ngưỡng mộ mạo hiểm giả Mithril Cấp đến thế nhỉ? Tôi tự hỏi. Nhưng rõ ràng vẫn có những người tuyệt vời và đáng khâm phục thuộc hàng Mithril Cấp cơ mà. Phải rồi, đó mới là những tấm gương tôi hằng muốn noi theo. Đúng vậy.
 
@@ -106,27 +106,27 @@ Khoan đã, rốt cuộc vì sao mình lại từng ngưỡng mộ mạo hiểm 
 
 Thỉnh thoảng mấy quý tộc từ vương đô tới đây cũng toàn đi lại kiểu đó thôi.
 
-"Wolf bảo ông ấy muốn gửi báo cáo từ chi nhánh Maalt lên tổng bộ. Thường thì ông vẫn gửi thư tín, nhưng lần này ông nghĩ nên có một người nắm rõ tình hình đích thân sang giải thích cặn kẽ thì hơn. Còn tôi có nhiệm vụ thỉnh mời Tổng Hội Trưởng đích thân tới Maalt, vì mê cung mới này có thể sẽ kéo theo nhiều vấn đề rắc rối."
+"Wolf bảo ông ấy muốn gửi báo cáo từ chi nhánh Maalt lên tổng bộ. Thường thì ông ấy vẫn gửi qua đường thư tín, nhưng ông ấy nghĩ để một người nắm rõ tình hình đích thân giải thích chi tiết sẽ dễ hơn. Còn tôi có nhiệm vụ mời Tổng Hội Trưởng tới Maalt, vì mê cung mới có thể phát sinh nhiều vấn đề."
 
-"Nghĩa là chỉ lấy cớ làm thủ tục cho hợp lệ thôi à?" Lorraine hỏi.
+"Nghĩa là chỉ mang tính hình thức thôi à?" Lorraine hỏi.
 
-"Wolf nói vậy đấy. Nhân vật tầm cỡ như Tổng Hội Trưởng vướng bận đủ thứ việc, đâu thể nói đi là đùng đùng rời khỏi vương đô được. Ngài ấy cần một lý do quang minh chính đại để giải trình trước công chúng."
+"Wolf nói vậy đấy. Nhân vật quan trọng như Tổng Hội Trưởng vướng bận đủ thứ trách nhiệm, đâu thể cứ thế đùng đùng rời khỏi vương đô được. Ngài ấy cần một lý do hợp lý để dễ bề ăn nói trước công chúng."
 
-"Nghe thì cũng xuôi đấy, nhưng thấy cái cớ này vẫn gượng gượng thế nào ấy..."
+"Nghe thì cũng có lý, nhưng thấy vẫn hơi khiên cưỡng..."
 
-Tôi cứ ngỡ giải thích thế là đủ xuôi tai rồi, mà Lorraine vẫn bán tín bán nghi. Lẽ ra tôi phải thấy bực vì cô nàng cứ vặn vẹo đủ điều, nhưng thực tình trong lòng tôi cũng nghĩ y như vậy.
+Tôi cứ ngỡ mình đã đưa ra một lời giải thích hợp lý, nhưng Lorraine vẫn còn nghi ngại. Lẽ ra tôi phải thấy hơi bực vì cô ấy bắt bẻ kỹ quá, nhưng thật tình tôi cũng nghĩ y như vậy.
 
-"Chuẩn chưa? Cảm giác cứ gượng gạo kiểu gì ấy," tôi đáp.
+"Đúng không? Cảm giác cứ gượng ép thế nào ấy," tôi đáp.
 
-"Vậy anh nghĩ đằng sau còn có uẩn khúc gì à?"
+"Vậy anh nghĩ còn lý do nào khác à?"
 
-"Trực giác mách bảo vậy thôi, chứ tôi chẳng có lấy nửa manh mối. Có khi do tôi nghĩ nhiều quá, mà cũng có khi là chuyện đáng lo thật. Thật lòng mà nói, không đích thân đến đó thì chịu chẳng thể nào biết được."
+"Chỉ là linh cảm thôi, nhưng ừ. Có điều tôi chẳng đoán ra được là gì. Có khi do tôi đa nghi quá, mà cũng có khi là chuyện đáng lo thật. Thật lòng mà nói, không đích thân đến đó thì chẳng thể biết được đằng nào mà lần."
 
 Đằng nào một khi đã tới vương đô, dù muốn hay không tôi cũng sẽ biết rõ thực hư thôi. Đã quyết định đi rồi thì bất kể chuyện gì xảy ra tôi cũng chấp nhận hết.
 
 Nghe tôi giải thích thế, Lorraine bảo: "Anh đã thấy ổn thì tôi không bàn thêm nữa. Giờ chỉ còn mỗi lời hứa của anh ở vương đô thôi."
 
-"Chuyện hồi cứu nàng công chúa ấy chứ gì? Tôi với Augurey tự đến hoàng cung cũng được thôi, nhưng thế nào người ta cũng hỏi sao không thấy cô đâu rồi bắt dẫn cô theo cho xem. Tôi thấy tốt nhất là cô cứ đi cùng chúng tôi luôn đi, Lorraine. Cô tính sao?"
+"Từ hồi chúng ta cứu vị công chúa đó đúng không? Tôi với Augurey tự vào hoàng cung cũng được thôi, nhưng nếu đi hai người thì thế nào họ cũng hỏi sao không có cô rồi bảo chúng tôi dẫn cô theo cùng. Tôi thấy tốt nhất là cô cứ đi cùng chúng tôi luôn, Lorraine. Cô thấy sao?"
 
 "Đi xa lần nữa thì tôi chẳng ngại, nhưng còn Rina tính sao?"
 
@@ -136,9 +136,9 @@ Lorraine lo lắng chuyện phải để Rina ở lại một mình khi cô ấy
 
 "Mình đâu có đi lâu đến thế. Có thể nhờ Isaac để mắt trông chừng cô ấy mà," tôi gợi ý.
 
-Dù Rina chưa hẳn là Ma Cà Rồng, nhưng cô ấy cũng gần như thế rồi, còn Isaac lại là Ma Cà Rồng đích thực. Khi cần, cô ấy có thể tìm đến anh ấy. Hiện giờ Laura đang ngủ say, dù cô bé mới là người nắm thực quyền giật dây sau lưng.
+Dù Rina chưa hẳn là Ma Cà Rồng, nhưng cô ấy cũng gần như thế rồi, còn Isaac lại là Ma Cà Rồng đích thực. Khi cần, cô ấy có thể tìm đến anh ấy. Hiện giờ Laura đang ngủ say, còn cô bé mới là thế lực đứng sau bức màn.
 
-Khoan đã, nghe cứ như thể tôi là thành viên của một tổ chức tà ác nào đó vậy. Xét về bản chất thì Laura và Isaac đúng là quái vật, nhưng thâm tâm họ không hề xấu xa. Cảm giác hơi giống một ông lão thời trẻ từng là mối hiểm họa xã hội, nhưng giờ đã hoàn lương làm một công dân gương mẫu của khu phố. Đại loại thế. Isaac từng bắt tay với Shumini, nên hiểm họa từ anh ấy lớn hơn nhiều so với một tay thanh niên tham gia băng đảng vớ vẩn, nhưng xét ra thì bản chất cũng na ná nhau, đúng không?
+Khoan đã, nghe cứ như tôi là thành viên của một tổ chức tà ác nào đó vậy. Xét về mặt bản chất thì Laura và Isaac đúng là quái vật, nhưng tâm địa họ không xấu. Họ hơi giống kiểu một ông lão thời trẻ từng là mối họa cho xã hội, nhưng giờ đã trở thành một công dân mẫu mực của khu phố. Đại loại thế. Isaac từng liên kết với Shumini, nên anh ấy từng nguy hiểm hơn nhiều so với một cậu thanh niên gia nhập băng đảng vớ vẩn nào đó, nhưng về cơ bản cũng tương tự nhau thôi, đúng không?
 
 Dù sao đi nữa, Laura và Isaac giờ không còn thói tùy tiện tấn công người khác vô cớ nữa. Có điều nếu có lý do thì họ vẫn ra tay như thường. Bản tính Ma Cà Rồng là thế, khó lòng tránh khỏi. Nhưng rõ ràng là họ không cần quá nhiều máu, và trong thị trấn cũng chẳng hề xảy ra vụ mất tích liên hoàn nào. Dù nhiều năm qua thỉnh thoảng vẫn xảy ra vài vụ, chẳng hạn như những vụ mất tích liên quan đến Shumini, nhưng Isaac và Laura đã sống ở đây hàng thập kỷ, thậm chí hàng thế kỷ, mà chưa từng dính dáng đến vụ nào trong số đó. Để Rina lại cho họ trông nom, chúng tôi hoàn toàn có thể yên tâm.
 
@@ -150,28 +150,28 @@ Alize là đứa trẻ ở cô nhi viện. Lorraine đang dạy ma thuật cho c
 
 Bản thân Rina cũng là một mạo hiểm giả. Nhờ thể lực tăng vọt cùng những dị năng mới có được, cô ấy đang tiến bộ từng ngày và là một trong những gương mặt trẻ đầy triển vọng của... Thôi, có khi nói thế hơi quá lời rồi. Dẫu vậy, xét về ma thuật lẫn kỹ năng, cô ấy vẫn đi trước Alize một đoạn khá xa.
 
-Lorraine có vẻ rất thích thú trước ý tưởng này. "Ồ phải rồi, đó có khi lại là ý kiến hay đấy. Dạo này trông Rina cứ như đang muốn có một đệ tử riêng vậy."
+Lorraine thấy ý tưởng này khá thú vị. "Ồ phải rồi, đó có khi là ý hay đấy. Trông Rina cứ như đang muốn có một người học việc riêng vậy."
 
-Rina có biểu hiện như thế từ lúc nào ấy nhỉ? Dạo gần đây, Rina toàn một mình vào Mê Cung Nguyệt Ảnh, nói đúng hơn là đi cùng quyến thuộc Edel của tôi. Rina vốn có tổ đội riêng, nhưng đồng đội của cô ấy vẫn chưa hồi phục để có thể trở lại tác chiến. Nhân dịp này, cô ấy tranh thủ rèn luyện thêm. Cô ấy thường đi vào ban đêm, nên tuy trên danh nghĩa là đang ở nhờ nhà Lorraine, cô ấy lại chẳng mấy khi có mặt vào bữa tối. Bù lại, buổi sáng lúc nào cô ấy cũng quanh quẩn ở đây. Giống như tôi, giờ cô ấy chỉ cần ngủ rất ít. Người bình thường không thể và cũng không nên học theo kiểu đó.
+Rina có biểu hiện như thế từ lúc nào ấy nhỉ? Dạo gần đây, Rina vẫn một mình thám hiểm Mê Cung Nguyệt Ảnh, nói đúng hơn là đi cùng quyến thuộc Edel của tôi. Rina vốn có tổ đội riêng, nhưng đồng đội của cô ấy vẫn chưa hồi phục đủ để quay lại. Cô ấy đang tận dụng dịp này để rèn luyện thêm. Cô ấy thường đi vào ban đêm, nên tuy trên danh nghĩa là đang ở nhờ nhà Lorraine, cô ấy lại không có mặt vào giờ ăn tối. Bù lại, buổi sáng lúc nào cô ấy cũng quanh quẩn ở nhà. Giống như tôi, giờ cô ấy chỉ cần ngủ rất ít. Người bình thường thì không thể và cũng không nên thử làm theo.
 
-Dù tôi và Lorraine vẫn chỉ dạy nhiều điều cho Rina, nhưng rốt cuộc mạo hiểm giả tiến bộ nhanh nhất vẫn là qua thực chiến. Có những điều chỉ khi đối đầu sinh tử với quái vật thì người ta mới vỡ ra được. Đó là lý do Rina tự mình đi thám hiểm. Vả lại, cô ấy cũng cần kiếm sống bằng nghề này. Với thể lực hiện tại, cô ấy hoàn toàn có thể kiếm kha khá chỉ bằng việc dùng sức mạnh càn quét, nhưng để giải quyết nhiệm vụ một cách bài bản và hiệu quả thì lại là cả một nghệ thuật.
+Dù tôi và Lorraine vẫn chỉ dạy nhiều thứ cho Rina, nhưng suy cho cùng, mạo hiểm giả học hỏi nhanh nhất vẫn là qua những chuyến thám hiểm thực tế. Có những điều chỉ khi tử chiến với quái vật thì người ta mới vỡ ra được. Đó là lý do Rina tự mình đi thám hiểm. Vả lại, cô ấy cũng cần kiếm sống bằng nghề mạo hiểm giả. Với thể lực hiện tại, cô ấy hoàn toàn có thể kiếm kha khá chỉ bằng việc dùng sức mạnh áp đảo để tấn công, nhưng giải quyết công việc sao cho hiệu quả lại là cả một nghệ thuật.
 
-Đã là mạo hiểm giả thì phải có đủ kỹ năng để không rơi vào cảnh trắng tay nếu chẳng may đứt nguồn thu nhập quen thuộc. Mà chuyện đó đâu chỉ gói gọn trong kỹ năng chiến đấu. Người ta còn phải biết xẻ thịt quái vật, nhận biết bộ phận nào bán được giá nhất. Và cách tốt nhất để rèn giũa ngón nghề ấy không gì bằng bỏ công lăn lộn trong mê cung.
+Đã là mạo hiểm giả thì phải có kỹ năng để khỏi rơi vào cảnh túng thiếu nếu chẳng may mất đi nguồn thu nhập quen thuộc. Mà chuyện đó đâu chỉ nằm ở kỹ năng chiến đấu. Người ta còn phải biết cách mổ xẻ quái vật và nhận diện bộ phận nào bán được giá nhất. Cách tốt nhất để rèn những kỹ năng đó chính là bỏ thời gian lăn lộn trong mê cung.
 
-Để Rina đi một mình thì tôi không an tâm lắm, nên mới bảo Edel đi cùng làm bạn đồng hành bảo hộ, coi như một thành viên tạm thời trong đội. Rina với Edel đều là quyến thuộc của tôi nên tôi nghĩ chắc hai bên sẽ hòa thuận thôi. Mà quả thật, cả hai cùng nhau lùng sục mê cung êm xuôi chẳng gặp trục trặc gì.
+Để Rina đi một mình thì tôi hơi lo, nên đã bảo Edel đi cùng làm người trông nom, kiêm thành viên tổ đội tạm thời. Rina với Edel đều là quyến thuộc của tôi nên tôi nghĩ chắc cả hai sẽ hòa thuận thôi. Mà quả thật, cả hai đã cùng nhau thám hiểm mê cung suốt mà chẳng gặp rắc rối gì.
 
-Bởi Edel có thâm niên làm quyến thuộc lâu hơn, lại vốn là quái vật từ trước, nên việc điều khiển Ma Lực nó có phần nhỉnh hơn Rina. Thành thử nó cứ đối xử với cô ấy như đệ tử học việc chứ chẳng thèm coi là đồng đội. Lần nào từ mê cung trở về, Rina cũng kể chuyện Edel tranh quyền chỉ huy ra sao, rồi ước chi sau này mình cũng có một đệ tử riêng... hoặc đại loại thế. Có điều mỗi lần nói vậy, cô ấy lại nhìn tôi chằm chằm bằng ánh mắt lấp lánh hy vọng. Thú thật, tôi chẳng muốn gánh cái kỳ vọng nặng nề đó chút nào. Cô ấy cứ như đứa trẻ vòi vĩnh cha mẹ sinh thêm em trai em gái vậy. Tôi đâu thể tùy tiện tạo thêm quyến thuộc bừa bãi được. Nhưng mỗi lần tôi bảo thế, trông mặt Rina lại xìu xuống rõ buồn. Tôi đâu có làm gì sai, thế mà trong lòng cứ thấy áy náy khôn nguôi.
+Bởi Edel có thâm niên làm quyến thuộc lâu hơn, lại vốn là quái vật từ đầu, nên khoản điều khiển Ma Lực của nó có phần nhỉnh hơn Rina. Thành ra nó đối xử với cô ấy như đệ tử học việc chứ chẳng phải đồng đội. Lần nào từ mê cung trở về, Rina cũng kể chuyện Edel nắm quyền chỉ huy ra sao, rồi ước gì một ngày nào đó mình cũng có một người học việc riêng... hoặc đại loại thế. Có điều mỗi lần nói vậy, cô ấy lại nhìn tôi với ánh mắt lấp lánh hy vọng. Thú thật, tôi chẳng muốn gánh cái kỳ vọng đó trên vai chút nào. Cô ấy cứ như một đứa trẻ đang mong có thêm em trai em gái vậy. Tôi đâu thể cứ thế tạo thêm quyến thuộc bừa bãi được. Nhưng mỗi lần tôi bảo vậy, mặt Rina lại xìu xuống trông rõ tội. Tôi đâu có làm gì xấu, thế mà vẫn không khỏi thấy áy náy.
 
-Alize có khi lại là giải pháp cho chuyện này. Dù không phải quyến thuộc mà chỉ là một đứa trẻ con người, nhưng sau này đằng nào cô bé cũng sẽ thành mạo hiểm giả kiêm ma pháp sư, nên hoàn toàn có thể làm đệ tử cho Rina được.
+Alize có khi lại là lời giải cho vấn đề đó. Dù không phải quyến thuộc mà chỉ là một đứa trẻ con người, nhưng đằng nào sau này cô bé cũng sẽ thành mạo hiểm giả kiêm ma pháp sư, nên hoàn toàn có thể làm người học việc của Rina.
 
-"Anh tính làm thế để Rina khỏi nhìn anh bằng ánh mắt vòi vĩnh đòi có thêm em chứ gì?" Lorraine bật cười khúc khích nói.
+"Anh đang nghĩ làm thế thì Rina sẽ thôi nhìn anh bằng ánh mắt như thể muốn có thêm em chứ gì?" Lorraine bật cười khúc khích.
 
-"Ừ, một phần là thế thật," tôi thú nhận.
+"Ừ, một phần là vì thế đấy," tôi thú nhận.
 
-"Ý kiến không tồi đâu. Nghề mạo hiểm giả thì Rina vẫn còn nhiều thứ phải học, nhưng Alize đâu có theo cô ấy vào mê cung. Tôi tin Rina sẽ rất hào hứng kèm cặp Alize nếu chúng ta bảo cô bé mỗi tuần ghé qua đây vài buổi để cô ấy đứng lớp như một người thầy."
+"Đề xuất đó không tồi đâu. Nghề mạo hiểm giả thì Rina vẫn còn nhiều thứ phải học, nhưng Alize sẽ không đi vào mê cung cùng cô ấy. Tôi tin Rina sẽ rất vui lòng kèm cặp Alize nếu chúng ta bảo cô bé mỗi tuần ghé qua đây vài ngày để cô ấy chỉ dạy như một người thầy."
 
-"Ừ, chắc là vậy. Thế mọi việc coi như xong xuôi rồi, cô có đi cùng tôi không đấy, Lorraine?"
+"Ừ, chắc là vậy. Thế mọi chuyện coi như giải quyết xong xuôi cả rồi, cô sẽ đi cùng tôi chứ, Lorraine?"
 
-"Đi chứ, tôi sẽ tháp tùng anh. Vả lại nếu có chuyện khẩn cấp, tôi có thể lập tức quay về từ vương đô được mà."
+"Ừ, tôi sẽ đi cùng anh. Vả lại nếu có chuyện khẩn cấp, tôi có thể lập tức quay về từ vương đô được mà."
 
-Cô ấy muốn nói đến ma pháp trận dịch chuyển, nhưng biện pháp đó chỉ dành cho tình huống dầu sôi lửa bỏng. Khả năng phải dùng đến gần như bằng không, và chúng tôi sẽ cùng ngồi xe trở về nhà thôi.
+Cô ấy đang nói đến các ma pháp trận dịch chuyển, nhưng cách đó chỉ dành cho tình huống cực kỳ khẩn cấp mà thôi. Khả năng phải dùng đến là rất thấp, và chúng tôi sẽ ngồi xe trở về nhà.
