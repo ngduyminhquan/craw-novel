@@ -17,7 +17,7 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
    - "sự thiếu hiểu biết của cậu" → "cậu chẳng biết gì".
 4. **Bị động thừa.** Bớt "bị", "được", "được tiến hành" khi câu chủ động tự nhiên hơn.
    - "Cuộc họp được tiến hành vào buổi sáng" → "Sáng hôm đó mọi người họp".
-5. **Lạm dụng gạch ngang "—".** Raw tiếng Anh dùng em dash dày đặc, tiếng Việt thì ít. Thay bằng dấu phẩy, hai chấm, ba chấm hoặc tách câu. Chỉ giữ "—" khi lời nói bị ngắt ngang đột ngột, hoặc cần một quãng ngắt mạnh có chủ ý. Nếu `rules.md` của truyện có quy định riêng về dấu câu thì theo `rules.md`.
+5. **Lạm dụng gạch ngang "—".** Raw tiếng Anh dùng em dash dày đặc, tiếng Việt thì ít. Thay bằng dấu phẩy, hai chấm, ba chấm hoặc tách câu. Chỉ giữ "—" khi lời nói bị ngắt ngang đột ngột, hoặc cần một quãng ngắt mạnh có chủ ý. Khi viết lại câu cũng không tự sinh thêm cặp "— ... —" thay cho dấu phẩy. Nếu `rules.md` của truyện có quy định riêng về dấu câu thì theo `rules.md`.
 6. **Đại từ và sở hữu thừa.** Tiếng Việt hay lược chủ ngữ. Không lặp "tôi", "nó", "anh ta" ở đầu mỗi vế. Bớt "của tôi", "của mình" khi ngữ cảnh đã rõ.
    - "Tôi rút thanh kiếm của tôi ra, rồi tôi lao lên" → "Tôi rút kiếm, lao lên".
 7. **Từ nối dịch máy.** Không mở câu liên tục bằng "Tuy nhiên", "Dẫu vậy", "Ngoài ra", "Trên thực tế", "Nói cách khác", "Thêm vào đó". Đổi sang "Nhưng", "Có điều", "Vả lại", "Mà", "Thật ra", hoặc bỏ hẳn khi mạch văn đã tự nối. Đừng thay hàng loạt bằng một từ duy nhất ("Cơ mà", "Ngặt nỗi" lặp dày trong một chương cũng là dấu vết máy). Cũng không dịch rập khuôn "With that in mind", "Keeping that in mind" thành "Với ý nghĩ đó trong đầu", "Khắc ghi điều đó": dùng "Nghĩ vậy" hoặc bỏ.
@@ -46,4 +46,4 @@ Các ví dụ dưới đây đều tự đặt để minh hoạ.
 23. **Đại từ khinh miệt dùng đúng lúc.** Khi người kể chưa biết một nhân vật là kẻ xấu thì dùng đại từ trung tính ("bà ấy", "ông ấy"). Chỉ chuyển sang "bà ta", "hắn", "gã" từ lúc người kể biết bộ mặt thật, đừng lộ trước cú ngoặt.
 24. **Từ Hán Việt trông giống mà nghĩa khác.** Kiểm lại nghĩa tiếng Việt hiện đại trước khi dùng: "phi nhân loại" là tàn ác chứ không phải "mạnh vượt sức người"; "earn their gratitude" là "làm họ mang ơn", không phải "kiếm ân huệ của họ".
 25. **Không bọc từ nhấn mạnh hay tượng thanh trong ngoặc kép ở lời dẫn** khi raw không có. Ngoặc kép dành cho lời thoại và chữ trích dẫn.
-26. **Bỏ "ạ" thì đừng thay máy móc bằng danh xưng.** Không gắn "... sao chú?", "... thế chú?" vào mọi câu hỏi liên tiếp. Dùng tiểu từ tự nhiên ("à", "hả", "nhỉ", "chứ") và chỉ gọi danh xưng khi cần.
+26. **Bỏ "ạ" thì đừng thay máy móc bằng danh xưng.** Không gắn "... sao chú?", "... thế chú?" vào mọi câu hỏi liên tiếp. Dùng tiểu từ tự nhiên ("à", "hả", "nhỉ", "chứ") và chỉ gọi danh xưng khi cần. Raw chỉ là "What else?" thì "Còn gì nữa không?", không thành "Còn gì nữa không anh?".
