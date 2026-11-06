@@ -1,133 +1,133 @@
 # Chương 236: Tập 10 Chương 4 - Đến Nơi (2)
 
-Trở về quán trọ, mỗi người chúng tôi lui về phòng riêng của mình. Ban đầu chúng tôi đã bảo với chủ quán trọ rằng chỉ một phòng là đủ cho cả ba, nhưng ông ta lại đề nghị cho thuê ba phòng với cùng mức giá, bởi ngôi làng hẻo lánh này còn thừa khá nhiều phòng trống. Hơn nữa, ông còn nói thêm rằng chỗ mình chẳng có phòng nào kê ba giường cả, nên việc lo liệu một phòng như thế cho chúng tôi còn phiền toái hơn là giao luôn mấy căn phòng thừa—tất cả đều được giãi bày bằng cái giọng điềm nhiên như lẽ đương nhiên mà những chủ quán trọ nơi khỉ ho cò gáy vẫn thường dùng.
+Trở về quán trọ, chúng tôi ai nấy về phòng nấy. Ban đầu cả nhóm đã bảo với chủ quán là chỉ cần một phòng là đủ cho cả ba, nhưng ông ấy lại xếp cho ba phòng với cùng mức giá vì làng hẻo lánh nên phòng trống còn thừa nhiều. Vả lại, ông cũng bảo quán chẳng có phòng nào kê ba giường, nên thu xếp một phòng cho cả nhóm còn phiền hơn là cho mỗi người một phòng trống—tất cả đều được nói bằng cái giọng tỉnh rụi đặc trưng của mấy ông chủ quán trọ nơi hẻo lánh.
 
-Vừa bước vào phòng, Augurey Ars liền tắt đèn rồi ngả lưng xuống giường. Anh vẫn có thể lờ mờ nhìn thấy quang cảnh xung quanh, có lẽ bởi niềm phấn khích mà chuyến phiêu lưu cùng những người bạn cũ mang lại. Anh chăm chú nhìn lên những vệt ố trên trần nhà. Chúng bắt đầu trông như những khuôn mặt, rồi dần dà biến thành gương mặt của những người quen cũ. Điều đó gợi anh nhớ về quê hương bản quán của mình, và nhớ rằng nơi đó chẳng có lấy một thứ gì.
+Vừa bước vào phòng, Augurey Ars tắt đèn rồi ngả lưng lên giường. Mắt anh vẫn nhìn rõ mọi thứ xung quanh, có lẽ vì chuyến phiêu lưu cùng đám bạn cũ khiến anh còn bồn chồn háo hức. Anh nhìn đăm đăm lên mấy vệt ố trên trần nhà. Thoạt nhìn chúng như những khuôn mặt, rồi dần hiện ra thành gương mặt của những người quen cũ. Những gương mặt ấy làm anh nhớ về quê nhà, nơi chẳng có lấy một thứ gì níu giữ chân anh.
 
-Có lẽ vài người sẽ tìm thấy giá trị ở thị trấn ấy, nhưng Augurey thì không. Anh đã quá chán ngấy những kẻ kiêu ngạo không chịu tìm kiếm những chân trời mới. Anh không thể chịu nổi cảnh linh hồn mình mục rữa ở nơi chốn đó, và đó là lý do vì sao anh trở thành mạo hiểm giả. Nếu những người anh từng quen biết mà nghe được điều này, hẳn họ sẽ hếch mũi lên khinh bỉ, chế giễu anh vì đã lãng phí thời gian của bản thân. Nhưng Augurey chẳng bận tâm. Dẫu sao thì họ cũng đâu hiểu được anh. À thì, vẫn có một người thấu hiểu.
+Có thể với người khác, thị trấn ấy rất có ý nghĩa, nhưng với Augurey thì không. Anh đã quá ngán cái đám người tự phụ, khăng khăng không chịu tìm kiếm những hướng đi mới. Anh không chịu nổi cảnh tâm hồn mình dần mục ruỗng ở cái xó ấy, nên mới dứt áo làm mạo hiểm giả. Nghe chuyện này, đám người quen cũ hẳn sẽ khịt mũi coi thường, chế giễu anh chỉ rước hoài công phí sức. Nhưng Augurey chẳng thèm để bụng. Đằng nào họ cũng có hiểu cho anh đâu. À, nói thế chứ vẫn có một người hiểu.
 
 "Ông..."
 
-Augurey tự hỏi liệu ông có còn sống hay không. Khi rời khỏi quê nhà, anh từng thề rằng mình sẽ không bao giờ quay trở lại, nhưng giờ đây anh lại cảm thấy rằng biết đâu mình có thể.
+Augurey tự hỏi chẳng biết ông còn sống hay không. Ngày dứt áo ra đi, anh từng thề sẽ không bao giờ quay về chốn ấy, thế mà giờ đây, anh lại thấy có lẽ mình có thể về được.
 
-Khi trò chuyện cùng Rentt và Lorraine, anh bắt đầu nhận ra việc thấu hiểu nơi chôn rau cắt rốn của bản thân quan trọng đến nhường nào. Ngay cả quyết định không bao giờ quay về quê hương của anh dường như cũng giống một cái cớ để trốn chạy hơn là một sự kiên định sắt đá.
+Khi trò chuyện cùng Rentt và Lorraine, anh bắt đầu nhận ra việc hiểu rõ gốc gác của mình quan trọng đến mức nào. Ngay cả lời thề không bao giờ trở lại quê nhà ngày trước xem ra cũng giống một cái cớ để chạy trốn hơn là sự kiên định sắt đá.
 
 ![](images/ch236-01.webp)
 
-Thế nên, có lẽ giờ đây...
+Biết đâu giờ đây...
 
-"Mình có thể đến thăm ông. Cùng với Rentt và Lorraine..." Augurey lẩm bẩm, mí mắt anh dần trĩu nặng cho đến khi tầm nhìn chìm vào bóng tối.
+"Mình có thể về thăm ông. Đi cùng Rentt và Lorraine..." Augurey lẩm bẩm, mí mắt anh trĩu nặng dần rồi chìm hẳn vào giấc ngủ.
 
 ◆◇◆◇◆
 
-Khi tiếng gõ cửa vang lên, Augurey mở mắt. Anh đã tỉnh giấc được một lúc vì cảm nhận được có ai đó đang tiến lại gần phòng mình. Nếu không có được trực giác nhạy bén như vậy, anh đã chẳng thể tiến xa đến mức này với tư cách là một mạo hiểm giả Ngân Cấp.
+Nghe tiếng gõ cửa, Augurey mở mắt. Thực ra anh đã thức giấc từ trước đó chốc lát, nhờ cảm nhận được có người đang tiến về phía phòng mình. Nếu không có bản năng nhạy bén ấy, anh đã chẳng thể đi xa đến thế trên con đường của một mạo hiểm giả Ngân Cấp.
 
-Kỳ thi thăng cấp Đồng Cấp vốn đã khá cam go, nhưng kỳ thi Ngân Cấp thậm chí còn khắc nghiệt hơn thế gấp bội. Có lần, ngay cả những đồng đội cùng tổ đội từng thám hiểm mê cung với Augurey cũng đã định trở mặt mưu hại anh trong giấc ngủ. Anh sẽ không bao giờ có thể bước lên Ngân Cấp nếu thiếu đi trực giác đánh thức bản thân dậy ngay từ dấu hiệu nguy hiểm đầu tiên.
+Kỳ sát hạch Đồng Cấp vốn đã khó, nhưng lên tới Ngân Cấp thì độ khốc liệt vượt xa gấp bội. Đã từng có lần, ngay cả bạn đồng hành cùng Augurey đi thám hiểm mê cung cũng định trở mặt ám hại anh trong lúc ngủ say. Anh sẽ không đời nào leo lên nổi Ngân Cấp nếu thiếu đi trực giác đánh thức mình dậy ngay khi mối nguy vừa chớm xuất hiện.
 
-Có những kẻ vượt qua mọi thử thách bằng vũ lực thuần túy, nhưng đó không phải phong cách của Augurey. Anh đã chuẩn bị kỹ càng và vượt qua kỳ thi Ngân Cấp theo cách bài bản, đúng như mong đợi. So với chuyện đó, việc nhận biết một người đang bước dọc hành lang mà thậm chí còn chẳng buồn che giấu sự hiện diện chỉ là chuyện quá đỗi bình thường đối với anh.
+Có những kẻ vượt qua mọi thử thách bằng sức mạnh cơ bắp, nhưng Augurey thì không chuộng lối đó. Anh chuẩn bị đâu ra đấy và vượt qua kỳ sát hạch Ngân Cấp theo đúng bài bản. So với những thử thách ấy, việc nhận ra một người đang bước dọc hành lang mà chẳng buồn che giấu hành tung chỉ là chuyện quá đỗi bình thường đối với anh.
 
-Augurey rời khỏi giường rồi bước tới gần cửa. Liếc mắt qua khung cửa sổ, anh thấy trời vẫn còn tối đen như mực, chưa hề có lấy một dấu hiệu nào của bình minh. Lúc này đang là nửa đêm canh ba. Nếu như trước đó từng có chút trông đợi nào, thì giờ đây Augurey chẳng còn mong vị khách ngoài kia là người đứng đắn nữa.
+Augurey trở dậy, bước lại gần cửa. Liếc qua cửa sổ, ngoài trời vẫn đen đặc, chẳng có lấy một tia sáng rạng đông. Đang giữa đêm hôm khuya khoắt thế này, dẫu trước đó có le lói chút kỳ vọng, giờ Augurey cũng chẳng mong vị khách ngoài kia là người đàng hoàng.
 
-Với đầy sự cảnh giác, Augurey cất tiếng hỏi qua cánh cửa: "Ai đó?"
+Augurey hết sức cảnh giác, cất tiếng hỏi qua cánh cửa: "Ai đấy?"
 
-Anh cố giữ giọng bình tĩnh nhất có thể, và sẽ chẳng ai nghi ngờ sự điềm đạm trong giọng nói của anh—ngoại trừ Rentt, có lẽ vậy. Augurey mường tượng rằng Rentt có thể sẽ hỏi liệu anh có đang căng thẳng không. Rentt trông lúc nào cũng như đang mơ màng hay chẳng bận tâm đến điều gì cụ thể, nhưng cậu ta luôn để mắt cảnh giác cao độ tới mọi sự quanh mình. Augurey biết tính Rentt vốn là thế, nhưng Rentt lại không phải người đang đứng ở phía bên kia cánh cửa.
+Anh cố giữ giọng thật bình thản, và sẽ chẳng ai nhận ra chút dao động nào trong giọng anh—họa chăng chỉ có Rentt. Augurey hình dung ra cảnh Rentt sẽ hỏi anh có đang căng thẳng không. Rentt lúc nào trông cũng như đang thả hồn trên mây hoặc chẳng bận tâm chuyện gì, nhưng thực ra luôn dõi mắt tinh tường quan sát xung quanh. Augurey biết tỏng cái tính đó của Rentt, chỉ có điều người đang đứng bên kia cửa lúc này lại không phải cậu ấy.
 
-Trên thực tế, vị khách không mời này nghe có vẻ hơi lo lắng nhưng không để lộ vẻ gì đáng ngờ.
+Thực ra, giọng vị khách không mời nghe có phần hồi hộp, nhưng lại chẳng có vẻ gì là khả nghi.
 
-"Dạ... là em, Ferrici đây. Anh... còn nhớ em không?"
+"Ừm... là em, Ferrici đây. Anh... còn nhớ em không?"
 
-Augurey nhận ra giọng nói của cô gái, rồi nhớ lại rằng Ferrici trông chừng khoảng mười bảy hay mười tám tuổi. Anh tự hỏi liệu cô có phật ý với sự miêu tả đó hay không. Cô đã đủ tuổi lấy chồng, và ở một ngôi làng hẻo lánh như thế này, thậm chí người ta có thể trông đợi cô sẽ lập gia đình trong vài năm tới. Ý nghĩ đó không mấy hợp ý Augurey, nhưng anh sẵn lòng chấp nhận phong tục tập quán địa phương.
+Augurey nhận ra giọng cô gái, rồi sực nhớ Ferrici trông trạc mười bảy mười tám tuổi. Anh tự hỏi liệu cô có phật ý nếu bị xem là trẻ con không. Tầm tuổi đó đã đủ để kết hôn, thậm chí ở cái làng hẻo lánh này, người ta còn mong con gái lấy chồng trong một hai năm tới. Nghĩ vậy khiến Augurey thấy gờn gợn, nhưng anh sẵn sàng tôn trọng tập tục địa phương.
 
-Tự nhắc nhở bản thân rằng mình đang tiếp chuyện một thiếu nữ, Augurey đáp lời: "Chúng ta từng nói chuyện ở quán rượu, dẫu rằng tôi cũng chẳng góp lời được bao nhiêu. Em cần tôi giúp gì sao? Nếu em muốn chia sẻ điều gì về lũ Phi Long thì để tôi đi đánh thức hai người kia dậy nhé."
+Tự dặn mình rằng đang nói chuyện với một cô gái, Augurey đáp: "Lúc nãy mình nói chuyện ở quán rượu rồi nhỉ, dù tôi chẳng góp lời được bao nhiêu. Em cần tôi giúp gì à? Nếu muốn kể chuyện về lũ Phi Long thì để tôi sang gọi hai người kia dậy."
 
-Augurey nhớ lại lời chủ quán rượu từng bảo Ferrici am hiểu Hồ Petorama như lòng bàn tay, và dựa theo cuộc trò chuyện của cô với Lorraine, cô nắm được một số thông tin quan trọng về loài Phi Long. Anh không ngờ Ferrici lại đổi ý sau khi đã từ chối trả lời những câu hỏi đầy nhã nhặn của Lorraine, nhưng có vẻ như điều gì đó đã khiến cô suy nghĩ lại.
+Augurey nhớ chủ quán rượu từng bảo Ferrici rành Hồ Petorama như lòng bàn tay, và qua cuộc trò chuyện với Lorraine thì quả thực cô biết vài điều cốt yếu về loài Phi Long. Anh không nghĩ Ferrici lại quay ngoắt thái độ sau khi vừa cự tuyệt những câu hỏi hết sức nhã nhặn của Lorraine, nhưng xem chừng có điều gì đó đã khiến cô đổi ý.
 
 "Không, em... muốn nói chuyện riêng với anh cơ, Augurey. Anh mở cửa cho em được không?"
 
-Vậy ra là cô nàng đã phải lòng mình. Augurey không quá tự mãn đến mức vội vàng nhảy ngay tới kết luận đó, dẫu rằng mạo hiểm giả vốn tương đối được ưa chuộng ở những ngôi làng hẻo lánh. Họ kiếm được nhiều tiền hơn mức hầu hết những người lao động khác có thể mơ tới, và ngay cả mạo hiểm giả Đồng Cấp cũng có thể dễ dàng giải quyết hầu hết các hiểm nguy trong vùng chỉ bằng một tay. Nhìn chung, mạo hiểm giả là đối tượng kết hôn rất lý tưởng đối với các thiếu nữ ở những ngôi làng này. Dẫu vậy, thực tế là nhiều mạo hiểm giả ăn nói thô lỗ cộc cằn và luôn đối mặt với nguy cơ một đi không trở lại đã khiến thái độ của phụ nữ đối với họ phân hóa thành hai thái cực rõ rệt. Hoặc là họ sẽ bám lấy mạo hiểm giả, hoặc là tránh xa như tránh tà. Không loại trừ khả năng Ferrici thuộc nhóm muốn bám lấy hơn là tránh xa, nhưng thời điểm này lại có vẻ không đúng lúc cho lắm.
+Hóa ra là cô nàng để ý mình. Augurey đâu có ảo tưởng đến mức vội vàng kết luận như thế, dẫu ở mấy làng hẻo lánh thì mạo hiểm giả cũng có giá lắm. Họ kiếm tiền nhiều hơn phần lớn những nghề khác, lại thêm mạo hiểm giả Đồng Cấp chỉ cần một tay cũng thừa sức dẹp yên hầu hết hiểm họa quanh vùng. Tính đi tính lại, mạo hiểm giả quả là đối tượng sáng giá trong mắt các cô gái thôn quê. Có điều, tính khí thô lỗ cộc cằn cùng mối nguy một đi không trở lại khiến phụ nữ nhìn họ bằng hai con mắt hoàn toàn trái ngược. Hoặc là sống chết bám lấy, hoặc là tránh xa như tránh tà. Chẳng loại trừ khả năng Ferrici thuộc phe muốn bám lấy, nhưng thời điểm này lại có vẻ sai sai.
 
-Ít nhất thì trong số ba người bọn họ, Augurey có thể hiểu vì sao mình lại là ứng cử viên sáng giá nhất đối với một thiếu nữ đang tìm kiếm ý trung nhân, khi mà hai sự lựa chọn còn lại là một phụ nữ và một kẻ kỳ quái đeo mặt nạ đầu lâu. Xét thấy bản thân Augurey ăn mặc sặc sỡ chẳng khác nào chim công, anh hoàn toàn có lý do để nghi ngờ khiếu thẩm mỹ của bất kỳ cô gái nào chọn mình, nhưng anh cũng thừa nhận rằng, bởi hầu hết mạo hiểm giả khá lắm thì cũng chỉ là những kẻ lập dị, các thiếu nữ muốn tìm kiếm đối tượng trong giới này đều đã sẵn sàng bỏ qua vài tiểu tiết.
+Chí ít trong ba người bọn họ, Augurey cũng hiểu vì sao mình lại là ứng viên sáng giá nhất trong mắt một cô gái muốn tìm ý trung nhân, khi hai người còn lại là một phụ nữ và một gã quái đản đeo mặt nạ đầu lâu. Nghĩ đến việc bản thân ăn mặc sặc sỡ chẳng khác nào con công xòe đuôi, anh hoàn toàn có quyền nghi ngờ gu thẩm mỹ của bất kỳ cô nàng nào nhắm trúng mình. Dù vậy, anh cũng công nhận rằng mạo hiểm giả nói chung khá lắm thì cũng toàn phường lập dị, nên các cô gái khi đã tìm kiếm người trong giới này thì cũng sẵn lòng nhắm mắt bỏ qua vài nét kỳ quặc.
 
-Trong lúc những suy nghĩ viển vông ấy xoay vần trong tâm trí, Augurey vươn tay về phía cánh cửa, nhận ra rằng mình sẽ chẳng thể dứt ra khỏi những dòng suy tưởng chừng nào chưa mở nó. Anh xoay nắm đấm cửa, và cánh cửa từ từ kẽo kẹt mở ra.
+Bao ý nghĩ vẩn vơ xoay mòng mòng trong đầu, Augurey với tay về phía cửa, tự hiểu rằng có nghĩ ngợi bao nhiêu cũng vô ích chừng nào chưa mở ra. Anh xoay nắm đấm, cánh cửa khẽ kẽo kẹt mở ra.
 
-"Dạ... em xin lỗi..."
+"Ờm... em xin lỗi..."
 
-Cánh cửa hé mở đầy hồi hộp đã làm lộ ra Ferrici, chính là cô gái ở quán rượu ban nãy.
+Sau cánh cửa mở ra đầy hồi hộp đúng là Ferrici, cô gái ở quán rượu ban nãy.
 
-"Không sao đâu. Em có chuyện quan trọng muốn nói với tôi phải không? Sao không vào phòng đi?"
+"Không sao đâu. Em có chuyện quan trọng muốn nói với tôi đúng không? Cứ vào phòng đi đã."
 
-Ferrici gật đầu đồng ý, đôi gò má ửng hồng, rồi lặng lẽ bước vào trong phòng.
+Ferrici gật đầu, má ửng hồng, rồi lặng lẽ bước vào phòng.
 
 ◆◇◆◇◆
 
-Sau khi bước vào, Ferrici ngồi xuống mép giường nơi Augurey vừa ngả lưng cách đây ít phút. Cô khẽ buông một tiếng thở dài nghe đầy mê hoặc một cách kỳ lạ đối với hầu hết đàn ông. Ngay cả trang phục của cô cũng...
+Bước vào phòng, Ferrici ngồi xuống mép giường nơi Augurey vừa ngả lưng ban nãy. Cô khẽ thở dài, một tiếng thở dài mà hầu hết đàn ông hẳn sẽ thấy quyến rũ đến lạ lùng. Ngay cả bộ đồ trên người cô cũng...
 
-"Ferrici, trông em có vẻ khang khác so với lúc tôi gặp ở quán rượu đấy."
+"Ferrici, trông em có vẻ khang khác so với lúc ở quán rượu đấy."
 
-"A-Anh thấy thế thật sao? Dạ... Trông em thế nào?" Ferrici hỏi, chỉ khẽ ngước mắt lên nhìn anh.
+"A-Anh thấy thế thật sao? Ừm... Trông em thế nào hả anh?" Ferrici hỏi, chỉ khẽ ngước mắt lên nhìn anh.
 
-Augurey phải thừa nhận rằng cử chỉ đó thật đáng yêu. Dù vóc dáng cô có phần mảnh khảnh do sự thiếu thốn thức ăn ở ngôi làng, nhưng cơ thể cô trông đã hoàn toàn nảy nở như một thiếu nữ trưởng thành. Giờ đây, cô đang ngồi nơi mép giường của một người đàn ông, đầy vẻ khêu gợi. Sẽ chẳng một ai có thể bỏ lỡ tín hiệu này, dẫu cho họ có vô tâm đến đâu đi chăng nữa. Cô đã trút bỏ bộ đồ vải lanh giản dị để thay bằng một chiếc váy đầm vừa vặn tựa như của một tiểu thư chốn vương đô, dẫu rằng kiểu dáng trễ vai có thể hơi quá hở hang nếu ở vào một thời điểm hay một nơi chốn khác.
+Augurey thầm nhận cử chỉ ấy trông cũng đáng yêu thật. Dù vóc người hơi gầy gò vì thiếu thốn ăn uống ở làng quê, cơ thể cô rõ ràng đã hoàn toàn trổ mã như một thiếu nữ trưởng thành. Lúc này, cô lại đang ngồi ngay mép giường của một người đàn ông trong tư thế hết sức gợi cảm. Dù có vô tâm hay ngờ nghệch đến mấy cũng chẳng ai có thể bỏ qua ám hiệu này. Bộ đồ vải lanh thô sơ đã được thay bằng chiếc váy đầm vừa vặn tựa như của một tiểu thư vương đô, dù kiểu khoét vai kia có phần hơi lộ liễu nếu đặt vào một thời điểm hay nơi chốn khác.
 
-"Tôi đoan chắc bất kỳ gã đàn ông nào trong làng cũng sẽ bảo em rất đỗi mê hồn thôi. Trông em tuyệt lắm, Ferrici."
+"Tôi dám cá gã đàn ông nào trong làng nhìn thấy cũng sẽ bảo em quyến rũ lắm đấy. Trông em đẹp lắm, Ferrici."
 
-Lời khen ngợi của Augurey khiến một nụ cười rạng rỡ từ từ lan tỏa trên gương mặt cô. Ferrici đứng dậy khỏi giường rồi tiến lại gần anh hơn. "Thật ạ?! Ôi, may quá. Em cứ lo là... anh sẽ nghĩ em bạo dạn quá mức." Cô nép sát vào người anh, vòng đôi tay ôm lấy anh—cái ghì nhẹ nơi hông anh biểu thị rõ vóc dáng thon thả của cô.
+Lời tán thưởng của Augurey làm nụ cười rạng rỡ từ từ nở trên gương mặt cô gái. Ferrici đứng dậy khỏi giường, bước lại gần anh hơn. "Thật hả anh?! Ôi, may quá. Em cứ lo là... anh sẽ nghĩ em bạo dạn quá mức." Cô nép sát vào người anh, vòng tay ôm lấy anh—cái ghì nhẹ quanh eo cho thấy rõ vóc dáng mảnh dẻ của cô.
 
 "Bạo dạn ư? Sao em lại nghĩ thế?" Augurey hỏi.
 
-Lại một lần nữa chỉ khẽ ngước mắt lên nhìn anh, cô chậm rãi cất tiếng: "Bởi vì... em..." Một cánh tay của cô rời khỏi eo Augurey. "Em sắp khiến anh đau đớn lắm đấy."
+Lại ngước mắt lên nhìn anh, cô chậm rãi nói: "Vì... em..." Một cánh tay cô rời khỏi eo Augurey. "Em sắp làm anh đau lắm đấy."
 
-Ngay khi những lời đó vừa thốt ra khỏi bờ môi, cánh tay của Ferrici liền vung mạnh về phía sườn của Augurey. Từ khóe mắt, anh nhìn thấy một vật bằng bạc được nắm chặt trong tay cô—một con dao. Cô đang vung nó với ý đồ hãm hại Augurey một cách rõ ràng.
+Dứt lời, cánh tay Ferrici vung mạnh trở lại, nhắm thẳng sườn Augurey. Khóe mắt anh bắt trọn một vật bằng bạc được nắm chặt trong tay cô—một con dao găm. Cô đang vung nó với ác ý rõ rành rành nhắm vào Augurey.
 
-Ở cự ly gần đến vậy và gần như đang bị kìm giữ trong vòng ôm của cô, hầu hết đàn ông sẽ bị đâm trúng mà không kịp trở tay phản ứng. Tuy nhiên, Augurey là một mạo hiểm giả, và lại còn là một mạo hiểm giả Ngân Cấp, cấp bậc minh chứng cho tài năng xuất chúng trong giới của họ. Chỉ riêng việc Augurey có thể dõi theo đường đâm bất ngờ của lưỡi dao bằng mắt đã là bằng chứng cho thấy đòn tấn công này còn lâu mới đe dọa được tính mạng của anh. Gần như mỗi ngày, Augurey đều phải đối đầu với những quái vật di chuyển nhanh hơn cô, hoặc những toán cướp bắn ma pháp về phía anh từ những nơi không ai ngờ tới.
+Ở cự ly sát sạt lại bị kìm giữ trong vòng ôm như thế, hầu hết đàn ông đều sẽ bị đâm trúng mà không kịp trở tay. Nhưng Augurey là một mạo hiểm giả, lại còn là Ngân Cấp—cấp bậc minh chứng cho tài năng xuất chúng trong giới của họ. Chỉ riêng việc mắt anh bắt kịp đường đâm chớp nhoáng của lưỡi dao đã đủ thấy đòn này còn lâu mới làm hại được anh. Gần như ngày nào Augurey cũng phải va chạm với những quái vật phóng nhanh hơn thế, hay những toán cướp bắn ma pháp lén lút từ chỗ không ai ngờ tới.
 
-Augurey hóa giải đòn tấn công liều lĩnh của cô gái khi anh túm chặt lấy cổ tay cô và siết một lực vừa đủ để gây đau nhói nhưng không để lại dấu vết, khiến cô phải buông rơi con dao.
+Augurey hóa giải đòn đâm liều lĩnh của cô gái khi tóm chặt lấy cổ tay cô rồi siết một lực vừa đủ làm cô đau nhói mà không để lại vết hằn, khiến con dao rơi tuột khỏi tay.
 
-Rõ ràng là mọi sự kháng cự tiếp theo từ phía Ferrici đều vô ích, nhưng cô không hề chịu ngoan ngoãn ngồi yên. Trái lại, cô bắt đầu gào thét thất thanh và giãy giụa kịch liệt, chẳng còn giống người thiếu nữ đoan trang mà cô từng thể hiện ở quán rượu cho tới tận lúc này, mà như một con thú dại.
+Mọi sự kháng cự của Ferrici lúc này rõ ràng là vô vọng, nhưng cô chẳng hề chịu ngoan ngoãn thúc thủ. Ngược lại, cô bắt đầu rú rít rồi giãy giụa dữ dội, chẳng còn chút dáng vẻ thiếu nữ như lúc ở quán rượu hay vừa nãy, mà y hệt một con thú dại.
 
-Augurey nhận ra điều gì đó ở cô và khẽ kéo cô về phía mình khiến cô lảo đảo, làm lộ ra chiếc cổ thon thả mịn màng. Augurey nhanh chóng chặt mạnh cạnh bàn tay vào gáy cô; một động tác trông gần như hờ hững nhưng đủ để tước đi ý thức của Ferrici và khiến cô đổ gục xuống.
+Nhận ra điều gì đó bất thường ở cô gái, Augurey khẽ giật nhẹ kéo cô về phía mình khiến cô chới với, để lộ chiếc gáy thon thả. Anh nhanh như cắt chặt sống bàn tay vào cổ cô; một đòn tưởng chừng nhẹ tênh nhưng đủ để tước đi ý thức của Ferrici, làm cô đổ sụp xuống.
 
-Để cô không ngã xuống sàn, Augurey đỡ lấy dưới hai nách cô. Anh kiểm tra chắc chắn rằng cô đã ngất lịm hoàn toàn, rồi nhẹ nhàng đặt cô nằm xuống giường. Anh lấy một cuộn dây thừng từ túi dụng cụ của mình và trói Ferrici lại, chêm thêm vài mảnh giẻ để dây thừng không thắt lại vết hằn. Bằng cách này, cô sẽ không thể tấn công anh lần nữa nếu lỡ tỉnh lại.
+Augurey đỡ lấy dưới hai nách cô trước khi cô ngã nhào xuống sàn. Thấy cô đã ngất lịm hoàn toàn, anh cẩn thận đặt cô nằm lên giường. Anh rút cuộn dây thừng trong túi đồ nghề ra trói Ferrici lại, chêm thêm mấy mảnh vải vụn để dây không thắt lại vết hằn trên da. Làm thế này thì dẫu có tỉnh lại, cô cũng chẳng thể tấn công anh được nữa.
 
-"Thế là xong một việc, mình đoán vậy, nhưng..."
+"Coi như tạm xong việc này, nhưng mà..."
 
-Liệu cô ta có phải là Siren không? Suy nghĩ đó thoáng lướt qua tâm trí Augurey. Trông thì có vẻ như anh đã kiểm soát được tình hình, nhưng lại có vài điểm kỳ quặc thấy rõ. Đầu tiên là đòn tấn công này trông vụng về một cách khó hiểu. Mỹ nhân kế là một chiến thuật đã được kiểm chứng qua thời gian và không thể xem nhẹ, xét đến việc cánh đàn ông sập bẫy nó thường xuyên đến nhường nào. Họ không thể cưỡng lại được. Đó là bản tính tự nhiên của họ rồi. Việc phương pháp này là ngón nghề sở trường của Siren hoàn toàn có lý.
+Liệu cô ta có phải là Siren không? Ý nghĩ đó thoáng qua đầu Augurey. Trông thì có vẻ anh đã làm chủ tình thế, nhưng có vài điểm kỳ quặc đập ngay vào mắt. Trước hết là đòn tấn công này quá vụng về. Mỹ nhân kế là đòn hiểm xưa nay chưa bao giờ hết công hiệu, chẳng thể xem nhẹ trước tần suất đàn ông sập bẫy. Họ khó mà cưỡng lại được, bởi đó là bản tính tự nhiên rồi. Việc ngón nghề này là sở trường của Siren hoàn toàn dễ hiểu.
 
-Nếu Augurey không lường trước việc mình bị tiếp cận, anh thậm chí có thể đã nghiêm túc cân nhắc tới khả năng Ferrici thật lòng phải lòng mình. Có lẽ đòn tấn công này cũng chỉ có bấy nhiêu thôi. Nhưng nếu đó đã là mục tiêu của cô ngay từ đầu, Ferrici hẳn phải bạo dạn hơn ở quán rượu và ít nhất cũng phải thể hiện đôi chút sự quan tâm tới anh. Thế nhưng vào lúc đó, cô lại chẳng hề có bất kỳ động thái nào hướng về phía anh cả.
+Nếu Augurey không đề phòng trước việc có người tiếp cận, khéo anh còn nghiêm túc nghĩ Ferrici phải lòng mình thật. Biết đâu đòn tấn công này cũng chỉ đơn giản đến thế. Nhưng nếu đó là chủ đích ngay từ đầu, Ferrici hẳn đã phải bạo dạn hơn khi ở quán rượu, ít nhất cũng phải tỏ ra đoái hoài đôi chút đến anh. Đằng này lúc ấy, cô chẳng hề có lấy một cử chỉ nào nhắm vào anh.
 
-Dẫu vậy, cô lại đang ở ngay đây. Chuyện đó thật vô lý, và sự thiếu hụt sức mạnh của Ferrici cũng kỳ lạ không kém. Siren hẳn phải được đào tạo bài bản như một kẻ phá hoại ngầm, và do đó ả phải là một chiến binh có năng lực. Ả chí ít cũng phải đủ mạnh để một mình vượt qua quãng đường từ vị trí trong rừng nơi Rentt nghe lén cuộc trò chuyện của bọn chúng, băng qua những quái vật và toán cướp có thể xuất hiện, để đến tận ngôi làng này.
+Thế mà giờ cô lại mò đến tận đây. Chuyện đó thật vô lý, và việc Ferrici yếu ớt đến thế cũng kỳ quặc không kém. Siren hẳn phải được huấn luyện bài bản như một điệp viên phá hoại, nghĩa là chiến lực không thể xem thường. Cô ta chí ít cũng phải đủ mạnh để một mình vượt qua quãng đường từ chỗ trong rừng nơi Rentt nghe lén bọn chúng, né tránh quái vật lẫn thảo khấu dọc đường để tới tận ngôi làng này.
 
-Trái lại, Ferrici chỉ có thể lực điển hình của một cô gái ở độ tuổi của mình, và cách cô cố đâm Augurey hoàn toàn là nghiệp dư, từ cách cô cầm dao cho đến cách cô vung cánh tay ra xa khỏi người anh trước khi đâm. Nếu ở vào vị trí của cô, Augurey sẽ chỉ đơn giản là ấn thẳng lưỡi dao vào. Động tác đó nhanh hơn và đủ lực để gây tổn thương cho cơ thể con người. Việc vung tay ra sau lấy đà là hoàn toàn thừa thãi. Anh biết Rentt và Lorraine cũng sẽ làm như vậy, nhưng Ferrici lại bỏ qua một thao tác cơ bản đến thế.
+Ngược lại, sức vóc của Ferrici hoàn toàn chỉ như một cô thôn nữ bình thường, còn cách cô cố đâm Augurey thì non nớt trăm phần trăm, từ tư thế cầm dao cho đến cái cách vung tay ra sau lấy đà trước khi đâm. Nếu ở vị trí của cô, Augurey chỉ việc đâm thẳng con dao tới. Đòn đó nhanh hơn mà lại thừa lực để làm rách da thủng thịt người. Cái động tác vung tay lấy đà kia hoàn toàn là thừa thãi. Anh biết Rentt hay Lorraine cũng sẽ ra tay như vậy, thế mà Ferrici lại bỏ qua một thao tác căn bản đến thế.
 
-Augurey không thể gạt bỏ cảm giác rằng Ferrici không phải là Siren. Nếu không phải, vậy tại sao cô lại tấn công anh? Điều đó thì anh không rõ. Anh có vài giả thuyết, nhưng chẳng có gì chắc chắn.
+Augurey cứ có cảm giác Ferrici không phải là Siren. Mà nếu không phải, cớ sao cô lại tấn công anh? Chuyện đó thì anh chịu. Anh cũng có vài giả thuyết trong đầu, nhưng chẳng có gì dám chắc.
 
-Augurey đi đến kết luận rằng tình cảnh éo le của mình đòi hỏi phải có một cuộc hội ý. Để Ferrici lại một mình trong phòng, bất kể cô có phải là Siren hay không, có vẻ quá đỗi bất an, thế nên Augurey vác cô lên vai rồi đi gõ cửa phòng của Rentt và Lorraine.
+Augurey kết luận tình thế này nhất thiết phải họp bàn với nhau. Bỏ mặc Ferrici lại một mình trong phòng, dù cô có phải Siren hay không, đều quá đỗi phiêu lưu, nên Augurey vác cô lên vai rồi đi sang gõ cửa phòng Rentt và Lorraine.
 
 ◆◇◆◇◆
 
-Ngay cả những hành lang của quán trọ, vốn được dựng chủ yếu bằng những thanh gỗ cũ kỹ, trông cũng thật ấm cúng. Những ngọn nến mỡ thắp sáng các bức tường, tỏa ra khắp hành lang một mùi ngai ngái nồng nặc. Mùi hương này vốn quen thuộc với mạo hiểm giả và dân cư ở các ngôi làng xa xôi, nhưng Augurey đồ rằng nó có thể hơi hắc đối với những người đến từ thành thị. Những cây nến này cũng thường được dùng ở Maalt, nhưng tại vương đô, loại nến làm từ thực vật đắt tiền hơn lại được ưa chuộng hơn. Ở những cơ sở cao cấp hơn như các quán trọ năm sao hay các tiệm may mặc hàng hiệu, người ta sử dụng ma cụ để chiếu sáng vì sợ hỏa hoạn, và dĩ nhiên, chúng đắt đỏ hơn bất kỳ loại nến nào. Augurey thích ánh sáng dịu nhẹ của nến mỡ, nhưng anh phải thừa nhận rằng mình thà không ngửi thấy cái mùi đó thì hơn. Nó cứ bám chặt vào quần áo người ta.
+Hành lang quán trọ dựng chủ yếu bằng gỗ cũ, nom cũng khá ấm cúng. Mấy ngọn nến mỡ gắn trên tường tỏa ánh sáng tù mù cùng thứ mùi gây gây nồng nặc. Thứ mùi này dân làng quê với mạo hiểm giả đã quen thuộc từ lâu, nhưng Augurey đoán dân thành thị hẳn sẽ thấy hơi khó ngửi. Ở Maalt người ta cũng hay dùng nến mỡ, nhưng trên vương đô thì loại nến sáp thực vật đắt tiền lại chuộng hơn. Còn tại những nơi sang trọng như quán trọ cao cấp hay tiệm may danh tiếng, người ta thắp sáng bằng ma cụ để tránh hỏa hoạn, và dĩ nhiên chi phí tốn kém hơn nến nhiều. Augurey khoái thứ ánh sáng dịu nhẹ của nến mỡ hơn, nhưng thú thật nếu không có cái mùi gây gây kia thì tốt biết mấy. Mùi cứ bám riệt lấy quần áo.
 
-"Dù sao thì mình cũng chẳng làm gì được chuyện đó," anh lẩm bẩm một mình khi bước tới trước cửa phòng của Rentt.
+"Mà thôi, chịu vậy chứ biết làm sao," anh lẩm bẩm một mình khi dừng trước cửa phòng Rentt.
 
 Augurey gõ cửa.
 
-"Ai đó?" Một giọng nói đáp lại, nghe có vẻ hơi cảnh giác.
+"Ai đấy?" Một giọng đáp lại, nghe có phần cảnh giác.
 
 ◆◇◆◇◆
 
-Tôi cảm nhận được có ai đó đang bước tới phòng mình. Ở vào tình thế hiện tại, tôi hoàn toàn có lý do để lo sợ cho tính mạng của bản thân nếu có kẻ bước vào, thế nên khi tiếng bước chân dừng lại bên ngoài cửa và tiếng gõ vang lên, câu trả lời của tôi có phần hơi cộc lốc.
+Tôi cảm nhận được có người đang tiến lại gần phòng mình. Đặt vào tình cảnh của tôi lúc này, nếu có ai xộc vào thì tôi thật sự khó lòng giữ nổi tính mạng, nên khi tiếng bước chân khựng lại trước cửa rồi tiếng gõ vang lên, giọng đáp của tôi có phần hơi cộc cằn.
 
-"Ai đó?"
+"Ai đấy?"
 
-Khi nghe thấy giọng nói đáp lại mình, mối lo âu của tôi mới vơi đi phần nào. Ý tôi là, đó là một giọng nói quen thuộc.
+Nghe thấy giọng đáp lời bên ngoài, nỗi lo trong lòng tôi mới vơi bớt. Ý tôi là, đó là một giọng nói quen thuộc.
 
-"Tôi đây, Augurey này. Tôi biết là đã muộn rồi, nhưng tôi có chuyện cần bàn với cậu. Nếu được thì cậu cho tôi vào càng sớm càng tốt nhé... Tôi lo có người nhìn thấy mình."
+"Tôi đây, Augurey này. Biết là khuya rồi nhưng tôi có chuyện cần bàn với cậu. Nếu được thì mở cửa cho tôi vào ngay nhé... Tôi sợ có người nhìn thấy."
 
-Việc nhận ra danh tính của vị khách nửa đêm khiến tôi thấy an tâm, nhưng Augurey lại bày tỏ một nỗi niềm kỳ lạ. Ở một ngôi làng hẻo lánh thế này, một bước đi sơ sẩy có thể bị đồn thổi cho cả làng biết chỉ trong vòng một ngày, nhưng việc đi lại dọc hành lang quán trọ vào giữa đêm canh ba thì khó lòng coi là điều gì lập dị. Thế nhưng giọng điệu của Augurey lại nghe có vẻ...
+Biết vị khách nửa đêm là ai khiến tôi an lòng, nhưng cái nỗi lo của Augurey nghe lạ lùng quá đỗi. Ở chốn thôn quê hẻo lánh này, chỉ cần sơ sẩy một bước là cả làng có thể biết tường tận chỉ sau một ngày, cơ mà đi lại dọc hành lang quán trọ lúc nửa đêm thì đâu đến mức bị coi là quái đản. Vậy mà giọng Augurey lại có vẻ...
 
-Sao cũng được. Tôi sẽ mở cửa, nhưng hiển nhiên là tôi phải cảnh báo anh ta trước đã. "Được thôi, nhưng anh không được hoảng loạn khi nhìn thấy phòng tôi đâu đấy. Nói cho rõ trước là tôi hoàn toàn trong sạch nhé."
+Thôi kệ đi. Cửa thì tôi sẽ mở, nhưng hiển nhiên phải đánh tiếng trước với anh ấy một câu. "Được thôi, nhưng thấy cảnh trong phòng thì cấm có hoảng lên đấy. Nói trước là tôi hoàn toàn trong sạch nhé."
 
-"Tôi sẽ không bao giờ nghi ngờ sự trong sạch của cậu trong bất cứ chuyện gì đâu. Cơ mà tôi cũng phải nói điều tương tự với cậu đấy. Tôi cũng trong sạch."
+"Chuyện gì chứ tôi không đời nào nghi ngờ sự trong sạch của cậu. Nhưng tôi cũng phải nói trước một câu y hệt. Tôi cũng hoàn toàn trong sạch đấy."
 
-Cuộc đối đáp đó mách bảo tôi rằng cả hai chúng tôi đều vừa trải qua một dạng náo loạn nào đó, và nhiều khả năng có bản chất hết sức tương đồng.
+Cuộc đối đáp ngắn ngủi ấy mách bảo tôi rằng cả hai đều vừa gặp phải chuyện rắc rối, mà nhiều khả năng còn cùng một giuộc với nhau.
 
-Với một cảm giác nhẹ nhõm—điều thật kỳ lạ xét trong tình cảnh này, nhưng chí ít là chúng tôi đã đồng điệu suy nghĩ từ trước—tôi cất tiếng: "Thế thì vào đi," rồi mở cửa.
+Bỗng thấy nhẹ cả lòng—nghĩ cũng lạ khi rơi vào tình cảnh này, nhưng chí ít là cả hai đã ngầm hiểu ý nhau—tôi bảo: "Thế thì vào đi," rồi mở cửa.
