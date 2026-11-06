@@ -18,15 +18,15 @@
 
 "Mục tiêu cuối cùng của chúng ta là Golem Luteum," Lorraine nói, vẻ mặt dở khóc dở cười. "Anh xoay xở nổi không đấy?"
 
-Hiện ra trước mắt cô ấy—cũng tức là trước mắt cả bọn tôi—chính là đàn Golem Luteum cô ấy vừa nhắc tới. Phải, cả một đàn Golem, mà đâu chỉ có dăm ba con. Mấy chục con nhão nhoét đang lững thững bò quanh. Rõ là xui xẻo: chúng tôi đụng trúng cái loại ngậm đầy nước. Nói thêm thì chỗ chúng lượn lờ nằm dưới đáy một vùng trũng trông tựa lòng chảo, dù tôi chẳng tài nào đoán nổi sao chúng lại làm thế.
+Trước mắt cô ấy, cũng tức là trước mắt cả bọn tôi, là đàn Golem Luteum cô ấy vừa nhắc tới. Phải, không phải một mà là cả bầy Golem, mà đâu chỉ có dăm ba con. Mấy chục con nhão nhoét đang lững thững bò quanh. Rõ là xui xẻo: chúng tôi đụng trúng cái loại ngậm đầy nước. Chỗ chúng lượn lờ lại nằm dưới đáy một vùng trũng trông như cái lòng chảo, dù tôi chẳng đoán nổi sao chúng lại làm thế.
 
-Vì chúng không có đường thoát, nếu đến đây chỉ để săn thì chúng tôi đã có thể nhờ Lorraine dọn sạch bách bằng một câu ma pháp rồi. Có điều, mục tiêu lần này là thu thập nguyên liệu. Bùn hay đất sét của Golem Luteum chứa rất nhiều Ma Lực, là nguyên liệu luyện kim quý giá, nhưng chất bùn này lại rất dễ biến tính, sơ ý để ma pháp chạm vào một chút thôi cũng đủ làm nó mất tác dụng. Tóm lại, chúng tôi không thể trông cậy vào Lorraine, mà phải dùng Khí Lực để tấn công. Thế nên việc này đành dồn cả lên vai Augurey và tôi.
+Vì chúng không có đường thoát, nếu đến đây chỉ để săn thì chúng tôi đã có thể nhờ Lorraine dọn sạch bách bằng một câu ma pháp rồi. Có điều, mục tiêu lần này là thu thập nguyên liệu. Bùn hay đất sét của Golem Luteum chứa rất nhiều Ma Lực, là nguyên liệu giả kim quý giá, nhưng vì nó cũng rất dễ bị tác động, sơ ý để ma pháp quệt qua một chút thôi là coi như hỏng bét. Tóm lại, chúng tôi không thể trông cậy vào Lorraine, mà phải dùng Khí Lực để tấn công. Thế nên việc này đành dồn cả lên vai Augurey và tôi.
 
 "Chỉ cần chịu khó để bùn trát đầy người thì chắc cũng chẳng vất vả lắm đâu," tôi nói.
 
-Augurey lắc đầu. "Không, chẳng dễ ăn thế đâu. Chỉ cần lơ là một chút thôi là cậu sẽ ngạt thở đến ch—" Mặt anh ấy bừng sáng như vừa vỡ lẽ điều gì, rõ mồn một tới mức tôi gần như đọc được suy nghĩ trong đầu anh ấy: Nhưng Rentt đâu có cần thở nhỉ? Tiện thật đấy!
+Augurey lắc đầu. "Không, chẳng dễ ăn thế đâu. Chỉ cần lơ là một chút thôi là cậu sẽ ngạt thở đến ch—" Mặt anh ấy bừng sáng như vừa vỡ lẽ điều gì, rõ mồn một tới mức tôi gần như đọc được suy nghĩ trong đầu: Nhưng cậu đâu có cần thở nhỉ, Rentt? Tiện thật đấy!
 
-Và anh ấy nói chẳng sai; cái thân xác này của tôi lại tiện lợi vô cùng trong những lúc thế này. Lần chạm trán Tarasque chính là một ví dụ. Còn Augurey không phải Undead nên chẳng được hưởng lợi lộc gì như thế. Dù tôi chẳng nề hà gì việc tự mình xông trận, nhưng nếu Augurey không cùng xuống thì Ferrici sẽ đâm nghi. Có cô bé ở đây, chúng tôi phải làm sao cho thật tự nhiên.
+Và anh ấy nghĩ chẳng sai; thân xác này của tôi tiện vô cùng trong những lúc thế này. Lần chạm trán Tarasque chính là một ví dụ. Còn Augurey không phải Undead nên đâu có lợi thế đó. Dù tôi chẳng ngại một mình đánh trận này, nhưng nếu Augurey không xuống cùng thì Ferrici sẽ đâm nghi. Có cô bé ở đây, chúng tôi phải tỏ ra thật tự nhiên.
 
 "Nếu không muốn bẩn quần áo thì để tôi tự xử lý chỗ này cũng được đấy, Augurey," tôi nói. "Anh cứ đứng sẵn bên trên phòng khi tôi cần hỗ trợ là xong."
 
@@ -40,9 +40,9 @@ Thế là chúng tôi đã sẵn sàng.
 
 Augurey theo sau tôi xuống dưới. "Nếu được thì ráng đừng để bị dính bẩn đấy nhé," anh ấy lầm bầm với tôi. "Tuy giản dị nhưng tôi vẫn thích bộ này lắm đấy."
 
-Xuống đến lưng chừng vách lòng chảo, tôi cảm nhận được lũ Golem Luteum dưới đáy bắt đầu dồn sự chú ý vào chúng tôi. Thân mình chúng bằng bùn nhão, và tôi có thể nhận ra những hốc lõm đóng vai trò như mắt và miệng. Dù tôi vẫn rất ngờ vực liệu đôi mắt tối om kia có nhìn thấy được thật không, nhưng hiện tại, rõ ràng là chúng đang chĩa thẳng về phía chúng tôi.
+Xuống đến lưng chừng vách lòng chảo, tôi cảm nhận được lũ Golem Luteum dưới đáy bắt đầu chú ý tới chúng tôi. Thân mình chúng làm bằng bùn nhão, trên đó có những hốc lõm làm mắt và miệng. Dù tôi vẫn rất ngờ vực liệu đôi mắt tối om kia có nhìn thấy được thật không, nhưng hiện tại, rõ ràng là chúng đang hướng thẳng về phía chúng tôi.
 
-Lũ Golem Luteum bắt đầu trườn về phía chúng tôi, nhầy nhụa lướt trên mặt đất. Đến khi chúng tôi chạm chân xuống đáy thì đã bị bao vây bởi số lượng áp đảo của chúng.
+Lũ Golem Luteum bắt đầu trườn về phía chúng tôi, nhầy nhụa lướt trên mặt đất. Đến khi chạm chân xuống đáy, chúng tôi đã bị bầy quái đông áp đảo vây kín bốn bề.
 
 "Nhìn gần trông chúng còn nhão nhoét hơn," Augurey nói, mặt ỉu xìu.
 
@@ -52,9 +52,9 @@ Lũ Golem Luteum bắt đầu trườn về phía chúng tôi, nhầy nhụa lư
 
 "Tôi cũng đoán vậy. Mà nếu thấy sắp bị bẩn... À thôi bỏ đi. Nếu thấy chúng sắp làm anh ngạt thở thì cứ lấy tôi ra làm tấm chắn. Dù sao thì tôi đâu có cần thở."
 
-Dù Golem Luteum có cách tấn công khá giống Slime, nhưng đối phó với chúng lại đáng sợ hơn nhiều. So với Slime—ít nhất là Slime thường—chúng có sức mạnh thể chất vượt trội hơn hẳn. Chưa kể, trong khi đòn tầm xa chủ lực của Slime là Acid Blitz, thì Golem Luteum lại có...
+Dù Golem Luteum có cách tấn công khá giống Slime, nhưng đối phó với chúng lại đáng sợ hơn nhiều. So với Slime, ít nhất là Slime thường, chúng khỏe hơn hẳn. Chưa kể, trong khi đòn tầm xa chủ lực của Slime là Acid Blitz, thì Golem Luteum lại có...
 
-"Mấy thứ đó nhắm thẳng vào chúng ta chắc luôn rồi nhỉ?" Augurey chỉ vào bầy tên đất vừa hình thành giữa không trung do lũ Golem Luteum triệu hồi.
+"Mấy thứ đó rõ ràng đang nhắm thẳng vào chúng ta nhỉ?" Augurey chỉ vào hàng loạt mũi tên đất mà lũ Golem Luteum vừa triệu hồi giữa không trung.
 
 Mấy mũi tên đó chính là Gê Bélos, một ma pháp của loài người. Nhưng với Golem Luteum thì chẳng sao cả, bởi chúng dùng được nhiều loại ma pháp thổ hệ khác nhau. Vì thế, lòng chảo như thế này là địa bàn hoàn hảo cho chúng; công thủ đều tùy ý. Hèn chi chúng lại tụ tập ở đây nhiều đến vậy.
 
@@ -68,17 +68,17 @@ Mấy mũi tên đó chính là Gê Bélos, một ma pháp của loài người.
 
 Chúng tôi lao lên, luồn lách qua bầy Golem Luteum, vừa xông tới vừa đâm chém vào những hạch tâm vùi sâu trong thân thể chúng. Nếu phải tìm điểm nào đó để khen loài này, thì đó là chúng không nhanh lắm. Dĩ nhiên cũng chẳng chậm chạp gì, nhưng chuyển động của chúng hoàn toàn nằm trong tầm xử lý của chúng tôi. Dù vậy, nói thế không có nghĩa là chúng tôi được phép lơ là.
 
-Trong lúc tôi tiếp tục giao chiến, một con Golem Luteum bỗng mở toang thân mình lao thẳng về phía tôi, rõ ràng tính nuốt trọn tôi vào trong. Bình thường đây sẽ là tình huống cực kỳ nguy hiểm—bởi nếu bị nó tóm được thì chỉ có nước ngạt thở mà chết—nhưng với tôi thì chẳng sao cả. Tôi nhảy thẳng vào trong con Golem Luteum, dễ dàng xác định vị trí hạch tâm giờ đã lộ ra. Đập nát hạch tâm xong, con quái vật liền tan thành một đống bùn bình thường.
+Trong lúc tôi tiếp tục giao chiến, một con Golem Luteum bỗng mở toang thân mình lao thẳng về phía tôi, rõ ràng tính nuốt trọn tôi vào trong. Bình thường đây sẽ là tình huống cực kỳ nguy hiểm, bởi nếu bị nó tóm được thì chỉ có nước ngạt thở mà chết, nhưng với tôi thì chẳng sao cả. Tôi nhảy thẳng vào trong con Golem Luteum, dễ dàng tìm thấy cái hạch tâm giờ đã lộ ra. Tôi đập nát nó, và con quái vật liền tan thành một đống bùn bình thường.
 
 Dù cách này giúp việc săn Golem dễ hơn nhiều, nhưng với một mạo hiểm giả bình thường thì quá sức nguy hiểm. Sơ sẩy một cái là mất mạng như chơi. May mà tôi vốn đã chết rồi. Cách thông thường là đâm từ bên ngoài thì rất phiền phức, vì dẫu có lờ mờ đoán được chỗ hạch tâm, người ta vẫn phải đâm nhiều nhát mới trúng đích được. May sao tôi có thể mặc kệ chuyện đó mà dùng cách tốt nhất cho mình: lao thẳng vào trong.
 
-Khổ nỗi, vì Augurey không thể—hay đúng hơn là chẳng hề muốn—làm như thế, nên cứ mỗi lần một con Golem mở toang người ra, anh ấy lại lùi ra xa, thế là tôi nhảy bổ vào từ một bên và đập nát hạch tâm của nó. Việc này làm tôi thấy như mình đang dùng Augurey làm mồi nhử, nhưng tôi nghĩ, ừ thì, cách nào hiệu quả là được. Vả lại thế này cũng năng suất hơn nhiều.
+Khổ nỗi, vì Augurey không thể, hay đúng hơn là chẳng hề muốn làm như thế, nên cứ mỗi lần một con Golem mở toang người ra là anh ấy lại lùi ra xa, để tôi nhảy bổ vào từ một bên đập nát hạch tâm của nó. Việc này làm tôi thấy như mình đang dùng Augurey làm mồi nhử, nhưng tôi nghĩ, ừ thì, cách nào hiệu quả là được. Vả lại thế này cũng năng suất hơn nhiều.
 
 Số lượng Golem Luteum giảm đi nhanh chóng, ngỡ như chỉ trong chớp mắt...
 
 "Chỉ còn đúng một con nữa thôi," tôi nói.
 
-"Có vẻ thế." Augurey gật đầu, bước ra sau con Golem cuối cùng rồi đâm một kiếm kết thúc trận chiến. Nhìn nó tan ra xong, chúng tôi quay sang nhìn nhau, quan sát bộ dạng của đối phương. Trông chẳng đẹp đẽ gì cho cam—cả hai đều bị bùn trát kín từ đầu đến chân.
+"Có vẻ thế." Augurey gật đầu, bước ra sau con Golem cuối cùng rồi đâm một kiếm kết thúc trận chiến. Nhìn nó tan ra xong, chúng tôi quay sang nhìn nhau, quan sát bộ dạng của đối phương. Trông chẳng đẹp đẽ gì cho cam: cả hai đều bị bùn trát kín từ đầu đến chân.
 
 "Gột sạch đống này khỏi người càng sớm càng tốt," tôi nói.
 
@@ -98,7 +98,7 @@ Thế là cả ba chúng tôi, học theo sự lạc quan của Ferrici, chăm c
 
 Augurey đang ở dưới hồ cùng tôi gật đầu. "Cậu nói phải. Tôi từng nghĩ ít nhất cũng phải mất hai ba ngày, nên xong sớm thế này thì mừng quá. Nhưng phần lớn đều nhờ công Ferrici cả đấy chứ."
 
-Cô bé được nhắc tới không có ở đây, và Lorraine cũng vậy. Họ đang tắm rửa ở chỗ khác. Dù sao thì họ đâu thể tắm chung với chúng tôi được. Tôi nghĩ nếu mình mon men lại gần nhìn trộm—dù tôi chẳng hề có ý định đó—thì hẳn sẽ được nếm màn chào hỏi thân thiện bằng một phát ma pháp sét của Lorraine ngay. Với bộ dạng ướt sũng nước thế này, phát sét đó khéo sẽ đặt dấu chấm hết cho chuỗi ngày của tôi trên cõi đời này mất. Nếu chỉ có một mình, có lẽ Lorraine cũng chẳng bận tâm giữ kẽ lắm đâu, nhưng giờ bên cạnh cô ấy còn có Ferrici. Dù thế nào thì tôi cũng chẳng dại gì mà bén mảng tới.
+Đương nhiên cô bé không có ở đây, và Lorraine cũng vậy. Họ đang tắm rửa ở chỗ khác. Dù sao thì họ đâu thể tắm chung với chúng tôi được. Tôi nghĩ nếu mình mon men lại gần nhìn trộm, dù tôi chẳng hề có ý định đó, thì hẳn sẽ được nếm màn chào hỏi thân thiện bằng một phát ma pháp sét của Lorraine ngay. Với bộ dạng ướt sũng nước thế này, phát sét đó khéo sẽ đặt dấu chấm hết cho chuỗi ngày của tôi trên cõi đời này mất. Nếu chỉ có một mình, có lẽ Lorraine cũng chẳng bận tâm giữ kẽ lắm đâu, nhưng giờ bên cạnh cô ấy còn có Ferrici. Dù thế nào thì tôi cũng chẳng dại gì mà bén mảng tới.
 
 "Nghĩ lại, tôi cũng chẳng biết nên bảo chúng ta may hay xui nữa," tôi nói. Tôi đang nghĩ về những chuyện ầm ĩ xảy ra ở làng đợt trước. Nếu không có chuyện đó, chúng tôi đã chẳng thể nào có được sự giúp đỡ của Ferrici. Đúng kiểu trong cái rủi lại có cái may.
 
@@ -118,7 +118,7 @@ Tôi chưa bao giờ nói chuyện tử tế được với bất kỳ con Ngạ
 
 Lorraine vẫn tiếp tục nghiên cứu và tìm tòi đủ kiểu, còn tôi cũng ráng hết sức vắt kiệt cái đầu chậm tiêu này theo cách của mình, nhưng cả hai vẫn chưa tìm ra lời giải cho trường hợp của tôi. Có lẽ cũng chẳng lạ, bởi xét cho cùng chúng tôi đang đi tìm lời giải thích cho sự tồn tại của loài quái vật, một câu hỏi muôn đời nay người ta vẫn luôn thắc mắc.
 
-Lorraine là một thiên tài, nhưng lịch sử từng có biết bao bậc kỳ tài mà chưa ai làm sáng tỏ được chân tướng về quái vật—đặc biệt là nguồn gốc của chúng vẫn chìm trong bí ẩn. Có rất nhiều giả thuyết xoay quanh chuyện đó, nhưng chưa cái nào khẳng định được điều gì chắc chắn. Tôi nghĩ cách duy nhất của chúng tôi lúc này là cứ tiếp tục tìm tòi và suy ngẫm thôi.
+Lorraine là một thiên tài, nhưng lịch sử từng có biết bao bậc kỳ tài mà chưa ai làm sáng tỏ được chân tướng về quái vật, nhất là nguồn gốc của chúng vẫn chìm trong bí ẩn. Có rất nhiều giả thuyết xoay quanh chuyện đó, nhưng chưa cái nào khẳng định được điều gì chắc chắn. Tôi nghĩ cách duy nhất của chúng tôi lúc này là cứ tiếp tục tìm tòi và suy ngẫm thôi.
 
 "Nhưng quái vật cấp cao thì nói được đấy chứ," Augurey nói. "Nghĩ ngay tới Ma Cà Rồng với Rồng Cổ Đại chẳng hạn. Nhưng có lẽ với Ngạ Quỷ, cách giao tiếp lại giống như giữa con người với loài khỉ hơn. Đúng là bí ẩn thật nhỉ?"
 
@@ -134,7 +134,7 @@ Anh ấy nói đúng ở chỗ tôi có hơi đăm chiêu thật, nhưng cũng k
 
 "Vậy à? Thế thì tốt rồi. Thôi, cũng đến lúc chúng ta phải đi rồi đấy. Tôi đã sạch hết bùn chưa nhỉ?"
 
-Augurey xoay một vòng cho tôi nhìn rõ người anh ấy. Thân hình mảnh khảnh nhưng cân đối—đúng chuẩn vóc dáng của một mạo hiểm giả. Trông anh ấy có vẻ đã sạch, nên sau khi nhờ anh ấy xem lại người mình đã sạch chưa, cả hai mặc quần áo rồi hướng về điểm hẹn đã giao kèo với Lorraine.
+Augurey xoay một vòng cho tôi nhìn rõ. Thân hình anh ấy mảnh khảnh nhưng cân đối, đúng chuẩn vóc dáng của một mạo hiểm giả. Thấy anh ấy đã sạch, tôi cũng nhờ kiểm tra lại giúp mình, rồi cả hai mặc quần áo và hướng về chỗ đã hẹn trước với Lorraine.
 
 ◆◇◆◇◆
 
@@ -152,6 +152,6 @@ Bất kể kẻ đó là ai, hành tung rõ ràng rất đáng ngờ. Dù vậy,
 
 Chúng tôi tiếp tục bước tới, và chẳng mấy chốc, "người" khả nghi nọ đã ở ngay trước mặt. Thật ra chỉ có một cách đối phó, đó là tiếp cận và bắt chuyện. Người đó khoác áo choàng, thò ra hai cánh tay gầy gò khẳng khiu, trông như một ông lão.
 
-"Xin thứ lỗi," tôi nói. "Bác ơi, có chuyện gì không ổn sao? Nếu có việc gì thì chúng tôi sẵn lòng lắng nghe—"
+"Thứ lỗi cho tôi hỏi," tôi nói. "Ông ơi, có chuyện gì không ổn sao? Nếu có việc gì thì chúng tôi sẵn lòng lắng nghe—"
 
 Chưa kịp dứt lời thì một thứ gì đó to lớn và nặng trịch đã đâm sầm vào bụng tôi.
