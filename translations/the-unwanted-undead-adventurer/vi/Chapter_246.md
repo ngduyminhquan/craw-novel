@@ -1,205 +1,205 @@
 # Chương 246: Tập 11 Chương 1 - Tập Kích Bất Ngờ (3)
 
-Tôi vừa kịp lúc. Điều nguy hiểm nhất ở ông lão này là dẫu có thể biến cánh tay to lớn đến nhường ấy, tốc độ của ông ta lại chẳng hề suy giảm chút nào. Ông ta chỉ đơn giản vung vẩy nó như thể đó là một chi thể bình thường. Chưa hết, ông ta còn sở hữu sự nhanh nhẹn của một chiến binh hạng nhất. Không còn nghi ngờ gì nữa, ông ta đích thực là một con quái vật... mà lời này phát ra từ miệng tôi thì nghe mỉa mai thật đấy.
+Suýt nữa thì tôi không kịp. Điểm nguy hiểm nhất ở ông lão này là dù cánh tay có phình to cỡ nào, tốc độ của ông ta cũng chẳng hề chậm đi. Cánh tay khổng lồ ấy vẫn vung vẩy nhẹ tênh như một phần cơ thể bình thường. Đã vậy, ông ta còn nhanh nhẹn như một chiến binh thượng thặng. Không còn nghi ngờ gì nữa, ông ta đúng là một con quái vật thực sự... dù một kẻ như tôi mà thốt ra câu đó thì hơi mỉa mai thật.
 
-Dù vậy, "sang thế giới bên kia theo tôi" cơ à? Augurey đôi lúc cũng hài hước ra phết. Việc anh ấy cũng biến thành Undead nghe chừng cũng vui theo cách riêng của nó đấy chứ. Tôi có thể lôi kéo cả Rina vào nữa rồi thành lập Binh đoàn Rentt. Chúng tôi sẽ là một thế lực đáng gờm, thậm chí đủ sức đối đầu với Binh đoàn Laura... hoặc là không. Khá lắm thì chúng tôi cũng chỉ bị biến thành chư hầu dưới trướng cô bé mà thôi. Dù vậy, giờ ngẫm lại thì có Laura làm lãnh chúa phong kiến xem chừng cũng tuyệt đấy chứ. Cô bé hẳn sẽ phân phát đủ mọi của cải, danh tiếng và vũ lực cho các thuộc hạ của mình.
+Mà, "sang thế giới bên kia theo cậu" cơ à? Augurey đôi lúc cũng hóm hỉnh ra phết. Nghĩ cảnh anh ấy cũng biến thành Undead nghe cũng vui đấy chứ. Lôi thêm cả Rina vào rồi lập Binh đoàn Rentt thì sao nhỉ? Tới lúc đó chúng tôi sẽ là một thế lực đáng gờm, có khi đủ sức đọ lại cả Binh đoàn Laura... hoặc không. Khá lắm thì cũng chỉ biến thành chư hầu dưới trướng cô bé thôi. Mà nghĩ lại thì, có một lãnh chúa phong kiến như Laura cũng đâu có tệ. Kiểu gì cô bé chẳng chia cho chư hầu đủ thứ của cải, danh tiếng lẫn binh lực.
 
-"Khà khà, cái gì thế này? Chẳng phải ngươi là tên ban nãy bị ta đánh bay đi sao? Rentt, phải không nhỉ? Ta không nghĩ ngươi còn sống đấy."
+"Khà khà, cái gì thế này? Chẳng phải ngươi là thằng nhóc bị ta đánh bay lúc nãy sao? Rentt, phải không nhỉ? Ta cứ tưởng ngươi chết rồi chứ."
 
-Ông lão vừa tiến lại gần tôi vừa bẻ khớp ngón tay răng rắc. Việc ông ta không vội vã thu hẹp khoảng cách hẳn có nghĩa là ông ta đang dè chừng tôi. Từ những gì ông ta nói, có vẻ đòn tấn công đầu tiên đã nhắm tới việc lấy mạng tôi. Công bằng mà nói thì cú đánh ấy có lẽ thực sự chí mạng. Lý do duy nhất khiến trông tôi vẫn lành lặn như mới là vì tôi sở hữu lợi thế bất công của Phân Liệt. Chắc chắn tôi đã bỏ mạng nếu không có nó.
+Ông lão vừa tiến lại gần vừa bẻ ngón tay răng rắc. Việc ông ta không vội vàng áp sát chứng tỏ vẫn còn dè chừng tôi. Nghe giọng điệu thì có vẻ cú đánh đầu tiên ông ta nhắm thẳng vào mạng tôi thật. Mà nói cho đúng thì đòn đó đủ chết người thật. Tôi còn nguyên vẹn như mới thế này chỉ là nhờ chút lợi thế gian lận từ Phân Liệt. Không có nó, chắc chắn tôi đã toi mạng rồi.
 
-"Tôi ghét phải báo tin xấu cho ông," tôi nói, "nhưng như ông thấy đấy, tôi vẫn còn sống nhăn răng đây. Hoặc có thể không hẳn. Chuyện phức tạp lắm. Dẫu sao thì tôi vẫn đang ở đây, và đó mới là điều quan trọng."
+"Rất tiếc phải làm ông thất vọng," tôi nói, "nhưng như ông thấy đấy, tôi vẫn khỏe re đây. Hoặc cũng không hẳn. Chuyện phức tạp lắm. Dù sao thì tôi vẫn đang đứng đây, thế là được rồi."
 
-Ông lão lộ vẻ bối rối. "Ý ngươi là ngươi không thoát nạn mà lành lặn hoàn toàn chứ gì? Chà, bản thân điều đó cũng là một kỳ tích rồi đấy. Hiếm có ai trúng một đòn của ta mà vẫn còn lành lặn đủ sức mở mồm nói chuyện sau đó đâu."
+Ông lão lộ vẻ khó hiểu. "Ý ngươi là cũng chẳng lành lặn gì chứ gì? Chà, thế cũng là kỳ tích rồi đấy. Hiếm có ai trúng một đòn của ta mà còn đủ nguyên vẹn để đứng đó mở mồm nói chuyện."
 
-"Tôi tin chứ," tôi đáp. "Tôi chưa từng bị đánh mạnh đến thế bao giờ. Tôi đoán là ông chẳng đời nào chịu tiết lộ mánh khóe cho chúng tôi biết đâu nhỉ? Coi như món quà tiễn biệt để tôi có thể thanh thản nhắm mắt xuôi tay ấy mà."
+"Chắc chắn rồi," tôi đáp. "Trước giờ tôi chưa từng bị nện một cú nào đau như thế. Mà chắc ông chẳng đời nào chịu bật mí mánh đó đâu nhỉ? Coi như chút quà tiễn đưa để tôi được thanh thản nhắm mắt xuôi tay ấy mà."
 
-Dĩ nhiên là tôi không hề nghiêm túc. Tôi chỉ muốn câu thêm chút thời gian trong lúc Augurey hồi phục thể lực. Thế nhưng thật đáng ngạc nhiên, ông lão lại trả lời.
+Dĩ nhiên là tôi chỉ nói đùa. Mục đích của tôi là câu thêm chút thời gian cho Augurey hồi phục thể lực. Ai ngờ ông lão lại đáp lời thật.
 
-"Hừm. Sao lại không chứ? Này, nhìn đi." Ông ta giơ cánh tay lên, và không gian lại vặn xoắn khi nó phình to bằng kích thước những thân cây xung quanh.
+"Hừ. Có gì mà không được? Này, nhìn đi." Ông ta giơ tay lên, và không gian lại méo mó khi cánh tay phình to ngang ngửa những thân cây xung quanh.
 
-Dù điều đó chẳng còn mới mẻ gì với tôi nữa, việc tận mắt chứng kiến lại lần nữa vẫn là một cú sốc. Rốt cuộc làm quái nào mà ông ta làm được như thế chứ?
+Dù không còn là chuyện mới mẻ, tận mắt chứng kiến lại lần nữa vẫn khiến tôi giật mình. Rốt cuộc làm quái nào mà ông ta làm được như thế?
 
 "Đấy, đơn giản thế thôi," ông lão nói.
 
-"Ra vậy..." tôi đáp. "Tôi ngạc nhiên là ông không bị chính trọng lượng của mình đè bẹp dí đấy."
+"Ra vậy..." tôi đáp. "Tôi ngạc nhiên là ông không bị sức nặng của chính mình đè bẹp dí đấy."
 
-"Ta đâu có rèn luyện cơ thể chỉ để làm cảnh. Hay là làm một hiệp vật tay nhé? Để ta nói cho ngươi biết, ta chưa từng thua bao giờ đâu."
+"Thân thể này ta rèn luyện đâu phải để làm cảnh. Hay là làm một ván vật tay nhé? Nói cho ngươi hay, ta chưa từng thua ai bao giờ đâu."
 
-Tôi khá chắc rằng "rèn luyện cơ thể" là cách nói giảm đi cả vạn lần rồi, nhưng chí ít thì rõ ràng ông lão đủ sức chống đỡ khối lượng sinh ra từ kỹ thuật của mình. Tôi không rõ liệu ông ta dùng Khí Lực hay Ma Lực, hay đó chỉ là dị năng đặc thù tiềm ẩn của ông ta, nhưng dẫu sao thì nó vẫn vô cùng đáng kinh ngạc. Vì năng lực của ông ta về cơ bản là phi nhân loại, tôi thậm chí còn cảm thấy có một mối đồng cảm nào đó với ông lão này.
+Tôi dám chắc "rèn luyện thân thể" chỉ là cách nói giảm nói tránh, nhưng chí ít cũng thấy rõ ông lão đủ sức chống đỡ khối lượng sinh ra từ chiêu thức của mình. Không rõ ông ta dùng Khí Lực hay Ma Lực, hay đó vốn là năng lực bẩm sinh, nhưng kiểu gì thì cũng đáng kinh ngạc thật. Năng lực của ông ta cơ bản đã vượt khỏi phạm trù con người, thành thử tôi còn thấy có chút đồng cảm với ông lão này.
 
 ![](images/ch246-01.webp)
 
-"Thôi tôi xin kiếu," tôi nói. "Tôi không thể đi bêu rếu với bàn dân thiên hạ rằng mình thua một ông lão được."
+"Thôi cho tôi xin kiếu," tôi nói. "Tôi đâu thể đi rêu rao với thiên hạ rằng mình thua một ông già được."
 
-"Ta cho rằng thế cũng tốt. Giờ thì, thằng nhóc đằng kia đã hồi phục chưa? Ta muốn tiếp tục dở dang đây, nếu hai ngươi không phiền."
+"Thế cũng phải. Giờ thì, thằng nhóc đằng kia đã lại sức chưa? Ta muốn đánh tiếp chỗ dở dang đây, nếu không phiền."
 
-Ông lão đã nhìn thấu tôi—dù tôi cũng phần nào lường trước được điều đó. Tôi khá chắc rằng ông ta chẳng hề hùa theo vì lòng thương hại. Nếu phải đoán, hẳn ông ta đã tranh thủ đánh giá tôi trong lúc hai bên trò chuyện. Điều đó cho thấy ông ta là kiểu người không hề đánh giá thấp đối thủ chỉ vì mình từng đánh bại họ trước đây. Có một điều chắc chắn: trận này sẽ không dễ dàng gì.
+Ông lão đã nhìn thấu tôi, dù tôi cũng phần nào đoán trước được. Chắc chắn ông ta đâu hùa theo vì thương hại. Đoán chừng ông ta đã tranh thủ quan sát, đánh giá tôi suốt lúc nói chuyện. Một kẻ không hề coi thường đối thủ chỉ vì mình từng hạ gục họ trước đây. Có một điều chắc chắn: trận này không dễ ăn chút nào.
 
-"Augurey. Anh chiến đấu được không?"
+"Augurey. Anh đánh tiếp được không?"
 
-"Được chứ, nhờ có cậu lén truyền chút Thần Lực sang cho tôi đấy. Dù có bị thương, nhưng tôi vẫn xoay xở được."
+"Được chứ, nhờ cậu lén truyền cho chút Thần Lực đấy. Bị thương thì có bị, nhưng tôi vẫn xoay xở được."
 
-Suốt từ nãy đến giờ, tôi đã dùng Thần Lực của mình để chữa trị cho Augurey, người đang nấp sau lưng tôi. Vì sức mạnh của tôi chẳng có gì ghê gớm, cộng thêm nhờ việc nghiên cứu ma pháp trị liệu, tôi đã có thể giữ cho luồng năng lượng ấy kín đáo nhất có thể.
+Nãy giờ tôi vẫn âm thầm dùng Thần Lực trị thương cho Augurey đang nấp sau lưng. Nhờ Thần Lực của tôi vốn không quá mạnh, lại thêm chút hiểu biết về ma pháp trị liệu, tôi mới có thể truyền sang một cách kín đáo như vậy.
 
-Có vẻ như ông lão vẫn chưa nhận ra. Giờ thì là hai đánh một. Nếu Augurey và tôi dốc hết quyết tâm, hẳn chúng tôi có thể xoay xở được chuyện này... phải không nhỉ? Dù thế nào đi nữa, chúng tôi cũng chẳng có nhiều sự lựa chọn.
+Xem chừng ông lão vẫn chưa phát hiện ra. Giờ là hai chọi một rồi. Nếu Augurey và tôi đồng lòng dốc sức, chắc cũng cầm cự được... nhỉ? Mà đằng nào thì chúng tôi cũng đâu còn nhiều lựa chọn.
 
-"Vậy ta tới đây, lũ nhóc. Ta hy vọng màn này sẽ vui đấy. Đừng làm ta thất vọng."
+"Vậy ta tới đây, mấy nhóc. Hy vọng các ngươi cho ta vui vẻ một chút. Đừng làm ta thất vọng đấy."
 
-Rồi như thể rung hồi chuông khai cuộc cho trận quyết đấu, ông lão đạp mạnh chân xuống đất lao tới, khiến một tiếng nổ đinh tai nhức óc vang dội khắp bốn bề.
+Rồi như thể gióng chuông mở màn cho trận quyết đấu, ông lão đạp mạnh xuống đất lao tới, tạo nên một tiếng nổ đinh tai nhức óc dội vang khắp bốn bề.
 
 ◆◇◆◇◆
 
 "Oái!"
 
-Kèm theo tiếng gió xé rách không khí vù vù, ông lão bỗng chốc áp sát ngay trước mặt tôi. Đọc được hướng vung tay ngang của ông ta, tôi vừa kịp cúi rạp người né tránh. Tôi cảm nhận được khối lượng kinh người từ cánh tay khổng lồ của ông ta quét sạt qua đỉnh đầu mình.
+Kèm theo tiếng gió xé rít lên, ông lão bỗng chốc đã áp sát ngay trước mặt tôi. Đoán được cú vung ngang, tôi chỉ vừa kịp cúi rạp người né tránh. Cánh tay khổng lồ nặng trịch quét sạt qua ngay trên đỉnh đầu tôi.
 
-Ngay sau đó, tôi toan lùi lại để kéo giãn khoảng cách cấp thiết giữa hai bên, nhưng năng lực thể chất của ông lão lại vượt xa những gì người ta tưởng tượng ở một người trạc tuổi ông ta. Nếu tôi không tung ra ít nhất một đòn trước khi nhảy lùi lại, ông ta sẽ chỉ áp sát tôi lần nữa mà thôi.
+Ngay sau đó, tôi toan lùi lại để kéo giãn khoảng cách, nhưng thể chất của ông lão vượt xa sức tưởng tượng dành cho một người trạc tuổi ông ta. Nếu không đánh trả được một đòn trước khi nhảy lùi ra, chắc chắn ông ta sẽ lại áp sát tôi ngay.
 
-Vì vậy, tôi vung mạnh thanh kiếm của mình. Đòn đánh trúng vào đâu không quan trọng, miễn là trúng đích. Cánh tay của ông lão vẫn chưa thu nhỏ lại kích thước bình thường, nên nếu nhát chém của tôi trúng đích thì tình thế sẽ càng bất lợi cho ông ta.
+Thế nên tôi vung kiếm chém thật mạnh. Trúng vào đâu cũng được, miễn là trúng đích. Cánh tay của ông lão vẫn chưa thu nhỏ lại bình thường, thành thử nếu nhát chém trúng đích thì tình thế sẽ càng bất lợi cho ông ta.
 
-Hoặc đó là những gì tôi tưởng. Rõ ràng chiến thuật thô thiển của tôi là một lựa chọn tồi. Dù thanh kiếm của tôi chém trúng trực diện vào người ông ta...
+Nghĩ thì nghĩ thế, nhưng có vẻ tính toán vụng về đó của tôi là một sai lầm. Dù lưỡi kiếm chém trúng phóc vào người ông ta...
 
 Keng!
 
-Nó phát ra một âm thanh tương tự như kim loại va đập vào kim loại rồi bật nảy ngược trở lại.
+Nó phát ra một tiếng keng chát chúa như đập phải sắt thép rồi nảy bật ra.
 
 "Đùa nhau à?!" tôi thốt lên.
 
 "Rentt! Coi chừng!" Augurey hét lên.
 
-Nhận thấy phản lực từ đòn chém khiến tôi mất thăng bằng trong thoáng chốc, ông lão lại vung cánh tay lao vào tôi lần thứ hai. Augurey đã đoán trước được chuyển động ấy liền xô tôi bật ra khỏi hướng đòn đánh, hệt như những gì tôi từng làm cho anh trước đó.
+Thấy phản lực từ cú chém khiến tôi lảo đảo mất thăng bằng trong thoáng chốc, ông lão lại vung cánh tay lao vào tôi lần nữa. Augurey đoán trước được đòn đánh liền xô tôi bật ra khỏi quỹ đạo, hệt như những gì tôi từng làm cho anh ấy trước đó.
 
 Rầm!
 
-Cánh tay khổng lồ giáng thẳng xuống mặt đất, tạo nên một cú va chạm chấn động inh tai và cuốn bay một đám bụi mù mịt. Rõ ràng nó cũng đã bẻ gãy vài thân cây trên đường đi, bởi các mảnh gỗ vụn đang bắn tung tóe khắp nơi. Sức công phá của nó lớn đến mức gần như nực cười.
+Cánh tay khổng lồ nện thẳng xuống mặt đất, phát ra một tiếng nổ đinh tai và hất tung một đám bụi mù mịt. Vài thân cây chắn đường cũng bị bẻ gãy gập, dăm gỗ bắn tung tóe khắp nơi. Sức công phá khủng khiếp đến mức phát ngán.
 
-"Ta vẫn chưa xong đâu!" Ngay cả khi tầm nhìn bị hạn chế bởi đám bụi và dăm gỗ trong không khí, ông lão vẫn tiếp tục vung tay quất tới. Những cú vung đầy bừa bãi, nhưng với kích thước cánh tay của ông ta thì điều đó có lẽ chẳng thành vấn đề. Hẳn ông ta cho rằng làm thế còn hơn là đứng chờ cho bầu không khí quang đãng trở lại.
+"Ta vẫn chưa xong đâu!" Dù bụi và dăm gỗ bay mù mịt cản trở tầm nhìn, ông lão vẫn tiếp tục vung tay quất tới. Những cú vung bừa bãi, nhưng với cánh tay to cỡ đó thì chuyện đó chẳng thành vấn đề. Hẳn ông ta nghĩ làm thế còn hơn đứng chờ bụi lắng xuống.
 
-Đó hẳn sẽ là quyết định chuẩn xác nếu đối thủ là một người bình thường, nhưng cơ thể Undead của tôi lại có vài ngón nghề hữu dụng của riêng mình. Đôi mắt tôi có thể nhìn thấy thân nhiệt cùng sự hiện diện thể chất của các sinh vật sống, nên tôi có thể nhìn rõ cánh tay của ông lão mà chẳng gặp chút trở ngại nào—điều thực ra khiến tôi có phần ớn lạnh, bởi nó đồng nghĩa với việc thứ tôi đang nhìn thấy chính là cánh tay thật của ông ta. Nó suýt nữa khiến tôi phải tự hỏi làm thế nào mà một kẻ kỳ dị như ông ta lại có thể ra đời, nhưng tôi chẳng ở vị thế để mà đi phán xét người khác như thế.
+Với người thường thì đó là quyết định đúng đắn, nhưng cơ thể Undead của tôi lại có vài ngón nghề khá hữu dụng. Đôi mắt tôi có thể nhìn thấy thân nhiệt cùng sinh khí của sinh vật sống, nên tôi vẫn thấy rõ mồn một cánh tay của ông lão mà chẳng gặp trở ngại nào. Điều đó thực ra lại khiến tôi có phần ớn lạnh, bởi nó chứng tỏ thứ tôi đang nhìn thấy đúng là cánh tay thật của ông ta. Tôi suýt nữa đã tự hỏi làm sao lại có một kẻ kỳ dị đến mức này trên đời, nhưng một kẻ như tôi thì lấy tư cách gì mà phán xét người khác chứ.
 
-Ông lão hẳn cũng có cả một câu chuyện ly kỳ của riêng mình để kể lại. Nếu chúng tôi gặp nhau trong một hoàn cảnh khác, có lẽ chúng tôi đã có thể ngồi hàn huyên một buổi ra trò về chuyện đó. Dù sao thì ông ta trông cũng khá thân thiện—ông ta đã rất vui vẻ biểu diễn năng lực cho chúng tôi xem khi tôi cất lời hỏi. Nhưng mà, đây không phải lúc để nghĩ về những chuyện vụn vặt. Tôi từng hy vọng nó sẽ giúp mình bình tĩnh lại, nhưng xem ra chẳng ăn thua.
+Chắc hẳn ông lão này cũng có cả một câu chuyện ly kỳ của riêng mình để kể. Nếu gặp nhau trong hoàn cảnh khác, có khi chúng tôi đã có thể ngồi đàm đạo một hồi lâu về chuyện đó. Dù sao thì trông ông ta cũng khá xởi lởi, bằng chứng là lúc tôi hỏi, ông ta đã vui vẻ phô diễn năng lực cho chúng tôi xem đấy thôi. Nhưng mà thôi, đây đâu phải lúc nghĩ tới mấy chuyện lông gà vỏ tỏi. Tôi cứ ngỡ nghĩ lan man sẽ giúp mình bình tĩnh lại, ai ngờ chẳng có tác dụng gì.
 
-Vì đoán chừng Augurey không thể nhìn thấy gì trong đống hỗn độn này, tôi đã túm lấy anh và kéo cả hai cùng chạy vòng quanh, nhưng tôi không chắc tiếp theo phải làm gì. Tôi bắt đầu cân nhắc các lựa chọn của mình.
+Đoán rằng Augurey không thể nhìn thấy gì giữa mớ hỗn độn này, tôi đã túm lấy anh ấy cùng chạy lòng vòng né đòn, nhưng tôi vẫn chưa biết phải làm gì tiếp theo. Tôi bắt đầu cân nhắc các phương án.
 
-Nhát chém lúc nãy của tôi có thể đã bị bật nảy, nhưng đó không phải là giới hạn tối đa mà tôi có thể làm được—chỉ là một đòn ứng biến tức thời mà tôi chưa kịp dồn toàn lực vào. Tôi vẫn có thể dồn thêm rất nhiều Khí Lực hoặc Ma Lực vào thanh kiếm của mình. Ma Khí Dung Hợp Thuật hay thậm chí Thần Ma Khí Dung Hợp Thuật cũng là những lựa chọn khả dĩ. Lựa chọn sau là một con dao hai lưỡi, nhưng tôi nghĩ mình có thể xoay xở với lựa chọn trước. Có lẽ vậy. Tuy nhiên, nếu ngay cả những đòn đó cũng bật nảy khỏi người ông lão, chúng tôi coi như xong đời. Tôi thoáng tự hỏi liệu ông ta có thực sự là con người hay không.
+Nhát chém lúc nãy tuy bị bật ra, nhưng đó đâu phải đòn mạnh nhất tôi có thể tung ra—chỉ là một đòn bộc phát chưa dồn được toàn lực mà thôi. Tôi vẫn có thể truyền thêm nhiều Khí Lực hoặc Ma Lực vào thanh kiếm của mình. Dùng Ma Khí Dung Hợp Thuật, hay thậm chí Thần Ma Khí Dung Hợp Thuật cũng là những lựa chọn khả thi. Vế sau là con dao hai lưỡi, nhưng vế trước thì tôi nghĩ mình làm được. Chắc vậy. Có điều, nếu đến cả những chiêu đó mà cũng bị bật nảy ra thì chúng tôi toi đời là cái chắc. Tôi chợt tự hỏi liệu ông lão này có còn là con người hay không.
 
-Dẫu vậy, xem chừng ông lão phi nhân loại này chí ít vẫn phải bận tâm tới thể lực của mình, bởi tần suất các đòn tấn công của ông ta đang thưa dần. Thấy thế, tôi liền thả Augurey xuống.
+Dù vậy, xem chừng ông già phi thường kia chí ít vẫn phải bận tâm tới thể lực của mình, bởi tần suất ra đòn của ông ta đang thưa dần. Thấy thế, tôi liền buông Augurey xuống.
 
-"Rentt! Kế hoạch thế nào?!"
+"Rentt! Tính sao đây?!"
 
-"Để xem nào... Hay là— Oái!"
+"Để xem... Hay là— Oái!"
 
-Uỳnh!
+Rầm!
 
-Một thân cây bay vụt qua như ngọn giáo rồi cắm phập xuống mặt đất ngay gần đó. Trong một diễn biến khó tin, ông lão lúc này đang nhổ cây và ném thẳng về phía chúng tôi. Không khí đã quang đãng trở lại, nên cả Augurey lẫn tôi đều đã kịp né tránh, nhưng chúng tôi dứt khoát không thể để tình trạng này tiếp diễn. Sau khi né được đòn tiếp theo, tôi sẽ—
+Một thân cây bay vút qua như ngọn giáo rồi cắm phập xuống nền đất gần đó. Thật khó tin là ông lão lại đang bứng cây ném về phía chúng tôi. Bụi bặm đã lắng xuống nên cả Augurey lẫn tôi đều kịp né tránh, nhưng chúng tôi tuyệt đối không thể để tình trạng này tiếp diễn. Sau khi né đòn tiếp theo, tôi sẽ—
 
-"Tìm thấy các ngươi rồi!"
+"Thấy ngươi rồi nhé!"
 
-Tới khi tôi nhận ra thì một cánh tay khổng lồ đã lao thẳng về phía mình.
+Đến khi tôi kịp nhận ra thì cánh tay khổng lồ đã lao thẳng về phía mình.
 
 Đòn này không né được rồi!
 
-Tôi thủ kiếm với hy vọng chí ít có thể tránh được một đòn trúng trực diện, nhưng nhanh chóng nhận ra điều đó là vô ích. Không còn lựa chọn nào khác, tôi liền dùng Phân Liệt. Cơ thể tôi tan rã hình hài và biến thành một khối bóng tối.
+Tôi thủ sẵn kiếm, hy vọng chí ít cũng tránh được một cú đánh trực diện, nhưng lập tức nhận ra làm vậy vô ích. Chẳng còn lựa chọn nào khác, tôi dùng Phân Liệt. Cơ thể tôi tan biến hình dạng, hóa thành một màn đêm đen kịt.
 
-"Hửm?!" Ông lão nghiêng đầu. Có vẻ như cánh tay hộ pháp của ông ta vẫn sở hữu xúc giác khá nhạy bén, bởi ông ta tỏ vẻ bối rối khi đòn tấn công của mình mất đi mục tiêu và chỉ đánh trúng vào không khí trống rỗng. Xem chừng cả hai chúng tôi đều hiểu rõ rằng tôi sẽ phải chịu thương tổn nghiêm trọng nếu cú vung tay của ông ta trúng đích.
+"Hử?!" Ông lão nghiêng đầu. Có vẻ như cánh tay khổng lồ kia vẫn có xúc giác khá nhạy bén, bởi ông ta lộ rõ vẻ bối rối khi đòn đánh hụt mục tiêu, chỉ đánh vào khoảng không. Xem chừng cả hai chúng tôi đều hiểu rằng nếu cú vung tay đó trúng đích, tôi sẽ dính chấn thương nặng nề.
 
-"Ngươi biến đi đ—? À, thôi kệ đi!" Ông lão khựng lại một thoáng như thể đang tìm kiếm tôi, nhưng khi phát hiện ra Augurey, ông ta liền đổi mục tiêu. Ông ta giáng thẳng cánh tay xuống một đòn nghiền nát, nhưng Augurey ở đủ xa để có thể né tránh thành công.
+"Ngươi biến đi đâ—? À, thôi kệ!" Ông lão khựng lại một thoáng như thể đang tìm kiếm tôi, nhưng khi phát hiện ra Augurey, ông ta lập tức đổi mục tiêu. Cánh tay giáng thẳng xuống một đòn nghiền nát, nhưng Augurey đứng đủ xa để kịp thời né tránh an toàn.
 
-Đây là cơ hội của tôi. Tôi nhanh chóng tái tạo lại cơ thể—một kỹ năng mà tôi có được nhờ quá trình khổ luyện—rồi tập trung Ma Lực vào thanh kiếm. Sau đó, tôi lao vụt về phía ông lão và vung kiếm nhắm thẳng vào sau gáy ông ta.
+Cơ hội tới rồi. Nhờ những lần luyện tập trước đó, tôi nhanh chóng tái tạo lại thân thể rồi dồn Ma Lực vào thanh kiếm. Đoạn, tôi lao vụt tới sau lưng ông lão, vung kiếm chém thẳng vào gáy ông ta.
 
-Dĩ nhiên là tôi vẫn luôn kính trọng người già, nhưng đây nào phải một ông lão bình thường—điều mà ông ta đã chứng minh ngay lập tức, trước cả khi tôi kịp đắn đo xem có nên cảm thấy cắn rứt lương tâm về đòn đánh của mình hay không. Tôi không biết là nhờ kinh nghiệm hay chỉ đơn thuần là bản năng nhạy bén, nhưng ông ta đã nhận ra tôi đang lao tới và quất ngược cánh tay ra sau. Khỏi phải nói, ông ta cũng đã khổng lồ hóa nó.
+Dĩ nhiên tôi vẫn biết kính lão đắc thọ, nhưng kẻ này đâu phải một ông già bình thường. Mà điều đó cũng được ông ta chứng minh ngay lập tức, trước cả khi tôi kịp thấy áy náy về đòn đánh của mình. Chẳng rõ nhờ kinh nghiệm trận mạc hay đơn thuần là bản năng nhạy bén, ông ta đã nhận ra tôi lao tới và quất ngược cánh tay ra sau. Khỏi phải nói, cánh tay ấy cũng đã được khổng lồ hóa.
 
-Cú vung tay không quá nhanh—có lẽ vì đó là đòn đánh bột phát—nhưng nó thừa sức che chắn bảo vệ cần cổ của ông ta khỏi lưỡi kiếm của tôi. Hệ quả là thanh kiếm của tôi chém thẳng vào cánh tay ông ta. Một luồng sức mạnh dữ dội nén chặt không khí quanh điểm va chạm rồi nổ tung ra ngoài bằng một tiếng rầm chấn động!
+Cú vung tay không quá nhanh, có lẽ vì phải phản xạ bột phát, nhưng cũng thừa sức bảo vệ gáy ông ta khỏi lưỡi kiếm của tôi. Rốt cuộc, thanh kiếm chém thẳng vào cánh tay ông ta. Luồng kình lực dữ dội ép nén không khí tại điểm va chạm rồi nổ bung ra ngoài bằng một tiếng rầm chấn động!
 
-"Hự!" Không ngoài dự đoán, ông lão giật nảy mình rồi vẩy cánh tay mấy cái và lùi lại ra xa khỏi chúng tôi.
+"Hự!" Không ngoài dự đoán, ông lão giật thót người, vẩy vẩy cánh tay mấy cái rồi lùi bật ra xa.
 
-Có vẻ như tôi đã tung ra được một đòn ra trò. Ông lão thu nhỏ cánh tay trở lại kích thước bình thường, và tôi nhìn thấy vị trí trúng đòn của mình đã bị toác ra từ bên trong. Máu đang tuôn xối xả từ vết thương, nên xem chừng tôi đã gây ra được tổn thương thực sự.
+Xem chừng tôi đã tung ra được một đòn ra trò. Ông lão thu cánh tay về kích thước bình thường, và tôi thấy chỗ trúng kiếm đã bị toác miệng từ bên trong. Máu tuôn xối xả, chứng tỏ tôi đã gây được tổn thương thực sự.
 
-"Có lẽ ta đã đánh giá thấp ngươi..." Ông lão xé một vạt áo của mình rồi quấn chặt quanh vết thương. Sau đó ông ta lẩm nhẩm ngâm xướng một loại ma pháp nào đó giúp cầm máu.
+"Có lẽ ta đã đánh giá thấp ngươi..." Ông lão xé một vạt áo quấn chặt quanh vết thương, rồi lẩm nhẩm niệm một câu chú ma pháp để cầm máu.
 
-Tôi từng không nghĩ ông ta là một ma pháp sư, nhưng rõ ràng ông ta cũng có chút ma pháp hộ thân. Sở hữu một câu thần chú cầm máu đơn giản là một chuyện, nhưng việc ông ta thậm chí chẳng hề chớp mắt khi thi triển nó trên một vết thương nặng như thế quả thực khá đáng sợ.
+Tôi cứ ngỡ ông ta không phải ma pháp sư, nhưng hóa ra ông ta cũng lận lưng vài ngón nghề ma pháp. Thủ sẵn câu chú cầm máu đơn giản là một chuyện, nhưng việc ông ta chẳng thèm chớp mắt lấy một cái trước vết thương nặng cỡ đó mới thực sự đáng gờm.
 
-Ông ta trông chẳng có vẻ gì là định bỏ chạy, nên hẳn là vẫn còn rất hăng máu chiến đấu. Tôi hiểu điều đó có nghĩa là ông ta tin mình vẫn nắm chắc phần thắng trong trận này.
+Trông ông ta chẳng có vẻ gì là định tháo chạy, chứng tỏ vẫn còn thừa hăng hái chiến đấu. Nói cách khác, ông ta tin chắc phần thắng vẫn nằm trong tay mình.
 
-Điều đó đồng nghĩa với việc, thật không may, trận chiến này sẽ không thể sớm ngã ngũ.
+Đồng nghĩa với việc, thật chẳng may, trận này khó lòng mà xong sớm được.
 
 ◆◇◆◇◆
 
-"Hừm, tiếp theo nên cho các ngươi xem trò gì đây?" ông lão lẩm bẩm.
+"Hừm, tiếp theo nên cho các ngươi xem trò gì đây nhỉ?" ông lão lẩm bẩm.
 
-"Ý ông là g—?"
+"Ý ông là s—?"
 
-Trước khi tôi kịp dứt câu hỏi, tôi bị ngắt lời bởi một tiếng hét vang lên từ phía sau lưng mình.
+Chưa kịp hỏi hết câu, một tiếng gọi từ phía sau đã ngắt lời tôi.
 
 "Rentt! Augurey!"
 
-Tôi quay người lại và nhận ra tiếng gọi đó phát ra từ Lorraine. Cô đang băng qua bãi chiến trường ngổn ngang những thân cây đổ nát cùng các hố sâu hoắm để chạy về phía chúng tôi, nét mặt cau có đầy vẻ bực dọc.
+Tôi quay lại thì thấy Lorraine. Cô ấy đang băng qua bãi đất ngổn ngang những thân cây gãy đổ cùng các hố sâu hoắm để chạy về phía chúng tôi, nét mặt sa sầm vẻ khó chịu.
 
-"Hai người không sao chứ?" cô hỏi ngay khi tới chỗ chúng tôi.
+"Hai người không sao chứ?" cô ấy hỏi ngay khi chạy tới.
 
-"Như cô thấy đấy," Augurey đáp, không ngoái lại nhìn cô. Trong lúc tôi quay người lại thì anh vẫn dán chặt mắt quan sát ông lão. Không hẳn là vì anh nhanh nhạy, mà đúng hơn là do chúng tôi đã quen biết nhau quá lâu đến mức theo bản năng đã biết cách phối hợp ăn ý như một đội—một điều khiến tôi vô cùng cảm kích.
+"Như cô thấy đấy," Augurey đáp mà không ngoái lại nhìn. Trong lúc tôi quay đi, anh ấy vẫn dán chặt mắt vào ông lão. Không hẳn do anh ấy nhanh trí, mà vì chúng tôi quen biết nhau đủ lâu để phối hợp ăn ý theo bản năng, điều khiến tôi vô cùng cảm kích.
 
-"Ra là ả ma pháp sư cũng đã tới," ông lão nói khi nhìn thấy Lorraine. "Các ngươi chắc là con bé đó ở một mình vẫn ổn chứ? Ta cũng có đồng nghiệp của riêng mình đấy nhé, và ta không chỉ nói về đứa đã bị các ngươi bắt đâu."
+"Ra là cô nàng ma pháp sư cũng tới rồi à," ông lão nói khi thấy Lorraine. "Các ngươi chắc con bé đó ở một mình vẫn ổn chứ? Ta cũng có đồng nghiệp của mình đấy nhé, và ta không chỉ nói tới đứa bị các ngươi tóm đâu."
 
-Ông ta rõ ràng nói vậy để làm phân tâm chúng tôi, nhưng chúng tôi cũng không dám chắc liệu ông ta có đang nói dối hay không. Dẫu vậy, câu trả lời của Lorraine lại vô cùng lạnh lùng và mang tính khiêu khích.
+Rõ ràng ông ta nói thế nhằm làm chúng tôi phân tâm, nhưng chúng tôi cũng không dám chắc liệu ông ta có bịa chuyện hay không. Dù vậy, câu trả lời của Lorraine lại hết sức lạnh lùng, mang đầy vẻ khiêu khích.
 
-"Tôi thấy chẳng có vấn đề gì cả. Chúng tôi chỉ cần giải quyết ông cho thật nhanh là xong."
+"Tôi thấy chẳng có vấn đề gì cả. Bọn tôi chỉ cần giải quyết ông cho thật nhanh là xong."
 
-Tôi có thể nghe ra từ giọng nói của cô rằng cô vốn chẳng đành lòng để Ferrici lại phía sau. Giọng cô nghe có phần bực bội, một điều hiếm thấy ở cô. Dù vậy, ông lão lại không nhận ra điều đó.
+Nghe giọng nói, tôi biết Lorraine vốn chẳng đành lòng để Ferrici lại một mình. Giọng cô ấy có phần bực bội, một nét hiếm thấy ở cô ấy. Có điều, ông lão lại không nhận ra.
 
-"Hừ. Ta đoán chừng điều đó không đủ để làm lung lạc các ngươi nhỉ? Thực lực của các ngươi vượt xa những gì bọn ta dự tính. Chẳng trách hai đứa đồng nghiệp của ta lại không phải đối thủ của các ngươi. Giá mà tin tức của bọn ta chính xác hơn một chút!"
+"Hừ. Xem ra chừng đó không đủ làm các ngươi nao núng nhỉ? Các ngươi khó xơi hơn bọn ta tính toán nhiều. Chẳng trách hai đứa đồng nghiệp của ta lại không đọ nổi các ngươi. Giá mà tin tức chính xác hơn một chút!"
 
-"Hai đồng nghiệp của ông?" tôi hỏi lại. Lúc này giả ngây giả ngô cũng chẳng ích gì nhiều, nhưng tôi nghĩ thử một chút cũng chẳng mất gì.
+"Hai đồng nghiệp của ông?" tôi gặng lại. Lúc này giả ngây giả ngô cũng chẳng ích gì mấy, nhưng tôi nghĩ thử thăm dò một phen cũng đâu có hại gì.
 
-Ông lão nhăn mũi. "Ngươi có thể thôi diễn kịch được rồi đấy... nhưng mà thôi, ta sẽ hùa theo vậy. Một đứa đồng nghiệp của ta vốn là một cựu binh nhưng về khoản thực lực thì chẳng có gì đáng để bàn tới. Hắn nhận ra cuộc sống thương nhân phù hợp với mình hơn, nên đây vốn định là phi vụ cuối cùng của hắn. Còn về đứa đồng nghiệp kia của ta, dẫu ả sở hữu một dị năng tương đối hiếm gặp, nhưng lại thiếu kinh nghiệm, khiến ả kiêu ngạo quá mức cần thiết. Ta vốn định xem đây là một phi vụ khó nhằn dành cho ả, để gọt giũa bớt tính tự kiêu và giúp ả trưởng thành hơn."
+Ông lão nhăn mũi. "Khỏi cần đóng kịch nữa... nhưng thôi, ta chiều ngươi một phen. Một đứa đồng nghiệp của ta tuy là dân có thâm niên nhưng bản lĩnh thì chẳng có gì đáng nói. Hắn nhận ra mình hợp với nghề buôn hơn, nên vốn định xong phi vụ này là giải nghệ. Còn đứa kia, dẫu có dị năng hiếm thấy nhưng lại thiếu kinh nghiệm, đâm ra kiêu ngạo quá mức. Ta vốn định coi đây là một phi vụ khó nhằn để ghìm bớt tính tự phụ của nó lại và cho nó trưởng thành hơn."
 
-Tôi tự hỏi liệu có phải ông lão đã hoàn toàn từ bỏ lớp vỏ bọc của mình hay không, nhưng tôi nhận ra có lẽ không phải vậy. Hẳn ông ta chỉ quyết định rằng chẳng còn lý do gì để duy trì nó nữa. Hơn nữa, mục tiêu của ông ta là giết sạch chúng tôi, và như người ta vẫn thường nói, người chết thì không biết nói. Ngoại trừ tôi, nhưng tôi là một trường hợp đặc biệt.
+Tôi tự hỏi liệu có phải ông lão đã hoàn toàn từ bỏ vỏ bọc của mình hay không, nhưng chắc không hẳn vậy. Có lẽ ông ta chỉ thấy chẳng còn lý do gì để duy trì nó nữa thôi. Vả lại, mục tiêu của ông ta là giết sạch chúng tôi, mà người chết thì không biết nói. Trừ tôi ra, nhưng tôi là trường hợp đặc biệt rồi.
 
-Ông lão nói tiếp. "Đáng tiếc là chẳng đứa nào làm nên trò trống gì cả. Dẫu vậy, điều đó cũng chẳng có gì đáng ngạc nhiên, khi mà tin tức truyền xuống cho bọn ta lại đầy rẫy sơ hở."
+Ông lão nói tiếp: "Buồn cái là chẳng đứa nào làm nên trò trống gì. Mà cũng phải thôi, tin tức truyền xuống cho bọn ta đầy rẫy lỗ hổng."
 
-"Truyền xuống cho các ông?" tôi hỏi, ngắt lời ông ta. Tôi đã không thể kiềm chế được bản thân—tôi khao khát muốn biết cấp trên của ông ta là ai đến nhường ấy. Ông lão liếc nhìn tôi nhưng không trả lời.
+"Truyền xuống cho các ông?" tôi buột miệng ngắt lời. Tôi không kìm lại được, bởi tôi quá đỗi nóng lòng muốn biết ai là kẻ đứng sau chỉ đạo ông ta. Ông lão liếc nhìn tôi nhưng không buồn đáp.
 
-Xem chừng ngay cả người chết cũng có những chuyện không cần phải biết. Tôi chẳng trách ông ta; trên đời không có gì là tuyệt đối cả. Hẳn ông ta sẽ gặp rắc rối to nếu lộ hết mọi bí mật rồi chúng tôi lại xoay xở trốn thoát được. Ông ta thận trọng là đúng, nhất là khi ông ta không biết tôi tự tin đến mức nào vào khả năng tẩu thoát của mình.
+Xem chừng ngay cả kẻ sắp chết cũng có những chuyện không nên biết. Tôi chẳng trách ông ta, bởi đâu có gì là tuyệt đối. Lỡ như bộc bạch hết bí mật mà chúng tôi lại trốn thoát được thì ông ta to chuyện. Ông ta cẩn thận thế cũng phải, nhất là khi ông ta không hề hay biết tôi tự tin đến mức nào vào khả năng tẩu thoát của mình.
 
-Tôi cho rằng khó có ai có thể cầm chân được tôi một khi tôi sử dụng Phân Liệt. Dù vậy, tôi không thể khẳng định là hoàn toàn không có, khi mà những nhân vật như Nive vẫn tồn tại. Mạo hiểm giả là một nghề đầy rẫy những con quái vật, mà Nive mới chỉ đứng trên đỉnh của Kim Cấp. Đối phó với Phân Liệt có lẽ là chuyện dễ như trở bàn tay đối với các mạo hiểm giả Bạch Kim Cấp và Mithril Cấp.
+Tôi không nghĩ có nhiều kẻ đủ sức cầm chân tôi một khi đã dùng Phân Liệt. Dù vậy, bảo không có ai thì cũng không đúng, nhất là khi còn có những người như Nive. Nghề mạo hiểm giả vốn đầy rẫy những con quái vật, mà Nive mới chỉ đứng trên đỉnh của Kim Cấp. Đối phó với Phân Liệt chắc cũng dễ như ăn kẹo đối với các mạo hiểm giả Bạch Kim Cấp hay Mithril Cấp.
 
-Nếu phải đoán, tôi cho rằng thực lực của ông lão đủ để xếp ông ta vào khoảng Kim Cấp—hoặc thậm chí có thể cao hơn. Đó không phải kiểu người mà người ta có thể tình cờ đụng độ trên đường đi, nhưng mà, chúng tôi lại đang đối mặt với một kẻ như thế ở đây.
+Đoán chừng bản lĩnh của ông lão này cũng phải ngang ngửa Kim Cấp, hoặc thậm chí còn cao hơn. Đó đâu phải kiểu nhân vật mà người ta có thể tình cờ đụng độ trên đường, nhưng khổ nỗi, chúng tôi lại đang giáp mặt một kẻ như thế ở đây.
 
-Ông lão tiếp tục nói. "Tin tức truyền xuống cho bọn ta nói rằng mục tiêu là hai kẻ Ngân Cấp bình thường cùng một tên Đồng Cấp thậm chí còn chẳng đáng nhắc tới. Nhưng đổi lại, thứ bọn ta phải đối mặt lại là ba đứa các ngươi. Một con quái vật có thể hứng chịu một đòn của ta mà trông vẫn chẳng hề hấn gì, một chiến binh lão luyện có thể dắt mũi ta chạy vòng vòng suốt một hồi lâu, và một ma pháp sư có thể thi triển ma pháp Khiên Chắn tức thời đủ mạnh để chặn đứng cánh tay ta mà thậm chí không cần ngâm xướng. Nếu biết ngay từ đầu ba đứa các ngươi là mục tiêu, ta đã chuẩn bị kỹ càng hơn nhiều rồi. Khoản thù lao ta nhận được thực sự chẳng bõ công chút nào..."
+Ông lão vẫn lải nhải: "Tin tức truyền xuống cho bọn ta bảo mục tiêu là hai kẻ Ngân Cấp bình thường cùng một tên Đồng Cấp chẳng đáng nhắc tới. Ai ngờ đối diện lại là ba đứa các ngươi. Một con quái vật ăn trọn một đòn của ta mà người ngợm vẫn lành lặn, một đấu sĩ lão luyện dắt mũi ta chạy lòng vòng suốt nửa ngày trời, cùng một ma pháp sư có thể tạo khiên chắn tức thời không cần ngâm xướng mà vẫn chặn đứng được cánh tay ta. Nếu biết ngay từ đầu ba đứa các ngươi là mục tiêu, ta đã chuẩn bị kỹ càng hơn nhiều rồi. Khoản thù lao này thực sự chẳng bõ công chút nào..."
 
-"Vậy sao ông không chấp nhận chịu lỗ rồi quay về đi?" tôi hỏi. Tôi nghĩ thử một chút cũng đáng.
+"Vậy sao ông không chịu lỗ rồi quay về đi?" tôi hỏi, bụng bảo dạ cứ thử thăm dò xem sao.
 
-Ông lão mỉm cười. "Bỏ ngay ý nghĩ đó đi. Bõ công hay không thì công việc vẫn là công việc, đó là lý do vì sao ta sẽ giết các ngươi, dẫu cho ta có phải vắt kiệt bộ xương già này để làm điều đó. Bằng không thì ta sẽ mất chén cơm này mất."
+Ông lão cười khẩy: "Bỏ ngay ý nghĩ đó đi. Bõ hay không thì việc vẫn là việc, thế nên ta vẫn sẽ lấy mạng các ngươi, dẫu có phải vắt kiệt bộ xương già này. Bằng không thì ta mất chén cơm mất."
 
-Xét theo tính chất công việc của ông ta, cụm từ "mất chén cơm" hẳn có nghĩa là tính mạng của ông ta đang bị đe dọa. Thế giới ngầm quả thực là một chốn tàn khốc. Tôi có thể cảm thông cho ông ta ở khía cạnh đó. Dẫu vậy, cũng chẳng có chuyện chúng tôi nương tay. Huống hồ chúng tôi nào có tư cách nương tay trước một kẻ mạnh đến nhường này.
+Xét theo nghề của ông ta, cụm từ "mất chén cơm" hẳn đồng nghĩa với việc mất mạng. Thế giới ngầm quả thực là chốn khắc nghiệt. Tôi có thể thông cảm cho ông ta ở điểm đó. Dù vậy, đâu có chuyện chúng tôi nương tay. Huống hồ trước một đối thủ mạnh cỡ này, chúng tôi cũng chẳng có tư cách nương tay.
 
-"Giờ thì, ta nghĩ tán gẫu thế là đủ rồi. Cả ba mục tiêu đều đã ở ngay trước mắt ta, và ta báo trước cho các ngươi biết rằng ta sẽ không để bất kỳ kẻ nào rời khỏi đây mà còn sống sót đâu."
+"Giờ thì, ta thấy tán gẫu thế là đủ rồi đấy. Cả ba mục tiêu đều đã tụ đủ trước mặt ta, và ta nói trước là sẽ không để một mống nào sống sót rời khỏi đây đâu."
 
-"Ông thật sự nghĩ mọi chuyện sẽ dễ dàng thế sao?" Lorraine hỏi.
+"Ông thực sự nghĩ mọi chuyện dễ dàng thế sao?" Lorraine hỏi.
 
-"Không. Ta sẽ không đánh giá thấp các ngươi nữa đâu. Ban nãy ta cũng chẳng phải chơi bời gì, nhưng đã đến lúc ta phải nghiêm túc rồi. Hãy chiêm ngưỡng đây! Hừm m m m!!!"
+"Không. Ta sẽ không coi thường các ngươi nữa đâu. Ban nãy ta cũng đâu có đùa cợt, nhưng giờ là lúc phải nghiêm túc rồi. Mở to mắt ra mà nhìn đây! Hừm m m m!!!"
 
-Ông lão bắt đầu gồng cứng toàn thân. Tôi không biết ông ta định làm gì, nhưng tôi biết chắc đó là một điềm chẳng lành.
+Ông lão bắt đầu gồng cứng toàn thân. Không rõ ông ta định giở trò gì, nhưng tôi biết chắc chẳng có gì tốt lành.
 
-Dĩ nhiên cả ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đợi bất cứ thứ gì sắp ập tới. Augurey và tôi tuốt kiếm lao vụt về phía ông lão, trong khi Lorraine giương đũa phép lên và bắt đầu ngưng tụ Ma Lực của mình. Thế nhưng...
+Dĩ nhiên ba chúng tôi đâu có tốt bụng tới mức đứng trơ mắt chờ đối phương ra chiêu. Augurey và tôi tuốt kiếm lao vụt về phía ông lão, trong khi Lorraine giơ đũa phép bắt đầu vận chuyển Ma Lực. Thế nhưng...
 
 "Quá chậm!"
 
-Một luồng áp lực khổng lồ bùng phát từ cơ thể ông lão, đánh bạt cả Augurey lẫn tôi bay tít đi và tạo nên một luồng gió dữ dội làm gián đoạn sự tập trung của Lorraine.
+Một luồng kình áp khổng lồ bùng phát từ người ông lão, hất văng cả Augurey lẫn tôi đi, đồng thời tạo ra một luồng gió giật dữ dội cắt đứt sự tập trung của Lorraine.
 
-"Cái quái gì...?"
+"Cái quái...?"
 
-Cơn cuồng phong dữ dội lấy ông lão làm tâm điểm đã thổi bạt chúng tôi ra một khoảng cách khá xa. Khi tôi ngoái nhìn lại về phía ông ta, tôi nhận ra tại vị trí ông ta vừa đứng lúc này sừng sững một thứ gì đó khổng lồ.
+Cơn cuồng phong dữ dội lấy ông lão làm tâm điểm đã thổi bạt chúng tôi ra một quãng khá xa. Đến khi ngoái nhìn lại, tôi nhận ra ngay tại vị trí ông ta vừa đứng giờ là một thứ gì đó to lớn khổng lồ.
 
-Nó không hoàn toàn khiến tôi bất ngờ; với năng lực của ông lão, tôi từng cân nhắc rằng đây là một khả năng hoàn toàn có thể xảy ra. Nhưng vì trước đó ông ta chỉ khổng lồ hóa các chi thể của mình, một phần trong tôi từng nghĩ rằng đó đã là giới hạn của ông ta.
+Tôi không hoàn toàn bị bất ngờ; xét theo năng lực của ông lão, tôi từng nghĩ tới khả năng này. Nhưng vì trước đó ông ta chỉ phóng to tay chân, một phần trong tôi cứ ngỡ đó đã là giới hạn của ông ta rồi.
 
-Ngay lúc này, thực tế đã chứng minh tôi sai hoàn toàn.
+Giờ thì thực tế đã chứng minh tôi lầm to.
 
 "Đó là...?"
 
 "Không thể nào..."
 
-Trái ngược với những lời lầm bầm của Augurey và tôi, lời nói của Lorraine lại vô cùng rành rọt và rõ ràng. "Hắn là một Cự Nhân. Tôi chưa từng nghĩ sẽ chạm trán một kẻ như vậy ở một nơi thế này."
+Trái ngược với vẻ bàng hoàng lẩm bẩm của Augurey và tôi, giọng Lorraine lại hết sức rành rọt: "Hắn là một Cự Nhân. Tôi không ngờ lại đụng độ một kẻ như vậy ở cái nơi này."
 
-Đúng thế. Chúng tôi đang đối diện với một Cự Nhân đích thực.
+Đúng thế. Trước mắt chúng tôi đích thực là một Cự Nhân bằng xương bằng thịt.
