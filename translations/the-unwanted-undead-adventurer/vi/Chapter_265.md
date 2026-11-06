@@ -2,59 +2,59 @@
 
 "Ôi, thế sao được. Hai người chắc chứ? Nhiều thế này cơ mà!"
 
-"Cứ tự nhiên đi. Cô cứ coi như đây là lời cảm ơn vì đã giúp đỡ chúng tôi. Dù tôi cũng chẳng dám chắc ngần này đã đủ bù đắp lại công sức của cô hay chưa..."
+"Cứ tự nhiên đi cô. Coi như chút quà cảm ơn vì đã giúp chúng tôi. Dù tôi cũng chẳng dám chắc ngần này đã đủ bù đắp công sức của cô chưa..."
 
 "Thế là quá đủ rồi! Cảm ơn hai người nhé! Tôi ăn đây!"
 
-Với đôi mắt lấp lánh rực rỡ ngỡ như hai vì sao, Elza chắp hai tay lại rồi bắt tay vào việc—mà ý tôi ở đây là việc chuyên tâm xúc lia lịa những thứ trước mặt vào miệng.
+Đôi mắt sáng lấp lánh như hai vì sao, Elza chắp hai tay lại rồi bắt tay ngay vào "công việc": cắm cúi xúc từng thìa bánh trước mặt tống lia lịa vào miệng.
 
-Chúng tôi đang có mặt tại một tiệm bánh ngọt nghe đâu nức tiếng nhờ hương vị thơm ngon của các món tráng miệng. Tôi bảo "nghe đâu" là bởi chúng tôi tìm đến đây hoàn toàn dựa theo thông tin Rina cung cấp. Đó là một hàng quán nhỏ nằm khuất trong ngõ hẻm, nhưng toàn bộ bánh ngọt đều do chính tay chủ quán tỉ mỉ làm thủ công.
+Chúng tôi đang ngồi trong một tiệm bánh ngọt nghe đồn nức tiếng về độ ngon. Tôi bảo "nghe đồn" là vì chúng tôi tới đây theo chỉ dẫn của Rina. Tiệm nằm khuất sâu trong một con ngõ nhỏ, nhưng toàn bộ bánh trái đều do chính tay chủ quán tỉ mẩn làm thủ công.
 
-Rina muốn mua đồ ngọt ở đây về làm quà lưu niệm, nhưng cô bé có viết trong thư rằng bánh không thể bảo quản được nên chúng tôi không cần phải cất công tìm mua. Có điều bức thư đọc lên nghe đầy vẻ tiếc nuối khôn nguôi, thành thử Lorraine đành thở dài rồi vẫn mua một ít. Nhờ ma pháp lưu trữ của mình, cô ấy có thể giữ cho thực phẩm dễ hỏng luôn tươi ngon suốt một tuần. Cô từng bảo ma pháp đó chẳng mấy thực tế vì tiêu tốn rất nhiều Ma Lực, nhưng đây là trường hợp ngoại lệ. Dẫu sao thì Rina cũng phần nào được xem là học trò của cô, và có lẽ trong mắt cô, con bé cũng đáng yêu chẳng kém gì Alize. Tôi hoàn toàn thấu hiểu được cảm giác đó.
+Rina muốn mua bánh ở đây làm quà lưu niệm, nhưng có ghi là bánh không giữ được lâu nên chúng tôi không cần bận tâm. Có điều đọc qua là thấy tiếc hùi hụi, nên Lorraine thở dài rồi vẫn mua một ít. Nhờ ma pháp lưu trữ, cô ấy có thể giữ đồ ăn dễ hỏng tươi nguyên suốt một tuần. Cô ấy từng bảo dùng cách đó chẳng thực tế chút nào vì tốn nhiều Ma Lực, nhưng lần này là ngoại lệ. Dù sao Rina cũng nửa như học trò của cô ấy, và hẳn trong mắt Lorraine thì Rina cũng đáng yêu chẳng kém gì Alize. Tôi rất hiểu cảm giác đó.
 
-Elza trước đây chưa từng nghe nói về tiệm bánh này bao giờ, và sau khi được mời ăn thử một miếng mẫu, cô liền tuyên bố bản thân vô cùng thích thú trước phát hiện mới mẻ này.
+Elza chưa từng nghe tên tiệm bánh này bao giờ, nhưng sau khi được mời nếm thử một miếng, cô ấy liền xuýt xoa tỏ vẻ thích thú trước phát hiện mới mẻ này.
 
-Cô bảo muốn dùng một bữa tươm tất tại đây, nên để cảm ơn cô đã làm người dẫn đường, chúng tôi liền ngồi vào khu vực ăn uống và ngỏ ý bao trọn bữa này. Cô đã đắn đo phân vân hồi lâu trước vô số loại bánh ngọt được bày bán, nhưng sau khi chúng tôi bảo cô cứ gọi bao nhiêu tùy thích, cô liền gọi luôn một mạch bảy phần.
+Cô ấy bảo muốn ngồi ăn một bữa đàng hoàng ở đây, nên để cảm ơn người dẫn đường, chúng tôi vào bàn rồi ngỏ ý bao trọn chầu này. Elza tần ngần hồi lâu trước vô số loại bánh trong tiệm, nhưng vừa nghe chúng tôi bảo thích bao nhiêu cứ gọi, cô ấy liền gọi một lèo bảy cái.
 
-Chẳng phải sự tiết chế và phẩm trật Nữ Tu Viện Trưởng vốn luôn phải song hành cùng nhau sao? Thật ra ngay từ đầu, việc một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên đắm chìm trong thói háu ăn và sự cám dỗ của đồ ngọt hẳn phải là một thứ tội lỗi nào đó rồi, thế nhưng khi tôi nêu chủ đề này ra hỏi cô...
+Đã là Nữ Tu Viện Trưởng thì phải biết tiết chế chứ nhỉ? Mà thật ra, để thói háu ăn cùng đồ ngọt cám dỗ như thế, một Nữ Tu Viện Trưởng của Giáo Hội Đông Thiên kiểu gì chẳng mắc tội. Thế nhưng khi tôi thử gặng hỏi cô ấy...
 
-"Dối lòng mới là điều Thiên Sứ căm ghét nhất. Miễn là trong thâm tâm tôi không hề dối trá khi nói rằng mình muốn ăn bánh ngọt, thì tôi hoàn toàn có thể ăn bánh ngọt."
+"Dối lòng mới là điều Thiên Sứ ghét nhất. Miễn là trong lòng tôi không dối trá khi bảo mình thèm ăn bánh, thì tôi cứ việc ăn bánh thôi."
 
-Tôi nhận lại một câu bao biện đầy vị kỷ làm câu trả lời. Thế sự đảo điên đến mức nào rồi mà một Nữ Tu Viện Trưởng lại như thế này cơ chứ? Nhìn nét mặt của Lorraine, rõ ràng cô ấy cũng đang trăn trở về câu hỏi đó sâu sắc chẳng kém gì tôi.
+Đúng là câu ngụy biện hết nước nói. Đến Nữ Tu Viện Trưởng mà còn thế này thì cái thế giới này hỏng thật rồi. Nhìn nét mặt của Lorraine, hẳn cô ấy cũng đang đau đầu nghĩ ngợi y hệt tôi.
 
-"Phù! No căng cả bụng rồi. Tôi nghĩ mình vẫn còn nhét thêm được một chút nữa đấy... nhưng thôi đành để dành những món chưa thử làm niềm mong chờ cho lần sau ghé lại vậy!" Elza xoa xoa bụng rồi nhấp nốt chỗ trà còn lại.
+"Phù! No căng cả bụng rồi. Chắc vẫn cố thêm được chút nữa đấy... nhưng thôi, để dành mấy loại chưa thử để lần sau ghé lại còn có cái mà mong!" Elza vỗ vỗ bụng rồi nhấp nốt chỗ trà còn lại.
 
-Nó làm tôi liên tưởng đến một con lửng chó đang vô cùng đắc ý với bản thân.
+Trông cô ấy hệt như một con lửng chó đang khoái chí vô cùng.
 
-"Miễn là cô thấy thỏa mãn thì được rồi..." Lorraine lẩm bẩm. "Thôi được. Chúng ta kết thúc ngày hôm nay tại đây chứ? Mặt trời bắt đầu lặn rồi đấy."
+"Cô thấy hài lòng là được rồi..." Lorraine lẩm bẩm. "Thôi được. Hôm nay kết thúc ở đây nhé? Trời cũng bắt đầu nhá nhem tối rồi."
 
 Elza ngồi thẳng dậy như thể vừa nhớ ra điều gì. "Ồ, vẫn còn một việc nữa phải làm mà. Hai người đã bảo sẽ đi cùng tôi, nhớ chứ?"
 
-Hóa ra cô ấy vẫn nhớ. Tôi cứ ngỡ cô ấy sẽ sập bẫy của Lorraine, thuận theo dòng mà ra về chứ.
+Hóa ra cô ấy vẫn nhớ. Tôi cứ ngỡ cô ấy sẽ sập bẫy của Lorraine rồi cứ thế xuôi theo mà đi về chứ.
 
-Lorraine mỉm cười. "Cô nói đúng. Nhưng tôi có thể hỏi chúng ta sắp đi đâu không? Cô vẫn chưa nói cho chúng tôi biết."
+Lorraine mỉm cười. "Đúng rồi nhỉ. Nhưng chúng ta định đi đâu thế? Cô vẫn chưa nói cho chúng tôi biết."
 
-"Tới nơi rồi hai người sẽ biết ngay thôi—đó sẽ là một bất ngờ đấy. Ồ, chờ chút đã, tôi phải mua thêm ít bánh ngọt làm quà nữa. Lần này tôi sẽ tự bỏ tiền túi ra mua. Nhân tiện thì, cảm ơn hai người một lần nữa vì bữa ăn nhé."
+"Tới nơi là hai người biết ngay thôi, bất ngờ mà. Ồ, chờ một chút đã, tôi phải mua thêm ít bánh làm quà nữa. Lần này tôi tự trả tiền. Nhân tiện, cảm ơn hai người lần nữa vì bữa ăn nhé."
 
 "Quà sao?" tôi hỏi.
 
-Tôi tự hỏi không biết cô định tặng quà cho ai, nhưng có vẻ như cô sẽ chẳng trả lời đâu. Khả năng cao nhất là người mà chúng tôi sắp sửa ghé thăm, thế nhưng số bánh ngọt cô mua lại nhiều đến mức bất thường.
+Tôi tự hỏi không biết cô ấy định tặng cho ai, nhưng xem chừng cô ấy sẽ chẳng nói đâu. Khả năng cao nhất là người chúng tôi sắp tới thăm, có điều cô ấy mua nhiều bánh thật đấy.
 
 "Cô nghĩ chúng ta sắp đi đâu?" tôi thì thầm với Lorraine.
 
 "Địa Ngục mới biết được. Cứ tới nơi là khắc rõ thôi."
 
-Cô trông có vẻ kiệt sức. Hẳn là vì Elza cùng cung cách chẳng giống một Nữ Tu Viện Trưởng chút nào của cô ấy. Lorraine thậm chí còn chẳng buồn nói chuyện giữ kẽ nữa. Nhưng nghĩ lại thì, khi rời khỏi tu viện lúc trước, chúng tôi đã thống nhất rằng ra ngoài cứ cư xử tự nhiên thoải mái sẽ hợp lý hơn. Dù vậy lúc ở bên trong, chúng tôi vẫn buộc phải giữ gìn ý tứ, bằng không sẽ rất dễ bị coi là vô lễ. Kỳ lạ thay, Elza lại là người nhận được sự kính trọng vô cùng lớn trong Giáo Hội.
+Trông cô ấy có vẻ kiệt sức. Chắc tại chứng kiến một Nữ Tu Viện Trưởng chẳng ra dáng chút nào như Elza. Lorraine thậm chí còn chẳng buồn giữ kẽ nữa. Dù sao thì lúc rời tu viện, chúng tôi cũng đã thống nhất là ra ngoài cứ nói năng tự nhiên sẽ thoải mái hơn. Còn lúc ở bên trong thì buộc phải giữ ý tứ, kẻo lại bị xem là bất kính. Lạ nỗi là Elza lại rất được kính trọng trong Giáo Hội.
 
 "Xin lỗi vì đã để hai người phải đợi! Đi thôi nào!"
 
-Mua sắm xong xuôi, núi bánh ngọt ôm trong lòng khiến Elza trông chẳng khác nào một người mẹ trẻ đang bồng bế quá nhiều con thơ. Tôi đã có thể cảm nhận rõ những ánh nhìn đầy phán xét trên phố nếu cứ mặc kệ cô ấy tự xoay xở một mình.
+Mua xong, đống bánh chất cao như núi trong tay làm Elza trông chẳng khác gì một bà mẹ trẻ đang bồng bế một đàn con thơ. Cứ để mặc cô ấy tự xoay xở thế này ra đường thì khéo tôi lĩnh đủ những ánh mắt hình viên đạn mất.
 
-"Để tôi xách hộ cho," tôi nói rồi đỡ lấy chỗ bánh ngọt từ tay cô.
+"Để tôi xách hộ cho," tôi nói rồi đỡ lấy chỗ bánh từ tay cô ấy.
 
-"Ồ! Tôi thật sự không sao đâu... nhưng nếu cậu đã có lòng..." Elza mỉm cười, nét lơ đễnh trên gương mặt cô tan biến, nhường chỗ cho vẻ từ ái bao dung của một người mẹ hiện rõ đến mức gần như có thể chạm vào được.
+"Ồ! Tôi không sao thật mà... nhưng nếu cậu đã có lòng..." Elza mỉm cười, vẻ lơ đễnh trên mặt cô ấy tan biến, nhường chỗ cho nét hiền từ của một người mẹ lộ rõ mồn một.
 
-Tôi đoán cô ấy chẳng phải hữu danh vô thực khi được tôn làm Thánh Giả. Trái lại, "vị thánh" mà tôi quen thuộc hơn thì...
+Xem ra cô ấy không phải tự nhiên mà được làm Thánh Giả. Còn "vị thánh" mà tôi quen hơn thì...
 
 "Hửm? Mặt tôi dính gì sao?" Lorraine nghiêng đầu nhìn tôi.
 
@@ -64,29 +64,29 @@ Tôi đoán cô ấy chẳng phải hữu danh vô thực khi được tôn làm
 
 "Tới nơi rồi!"
 
-Điểm đến của chúng tôi là một khoảng đất trống nằm sâu trong những ngõ hẻm của thành phố. Nơi đó tọa lạc một tòa nhà cổ kính nhưng tĩnh lặng, được thắp sáng rực rỡ và dễ chịu đến mức xua tan đi bầu không khí u ám của các con hẻm xung quanh.
+Điểm đến của chúng tôi là một khoảng đất trống nằm sâu trong các con hẻm của thành phố. Ở đó có một tòa nhà cũ kỹ nhưng yên tĩnh, ánh sáng chan hòa tỏa ra xua tan hẳn bầu không khí ảm đạm của những con ngõ xung quanh.
 
-Có một đám trẻ đang vui đùa trước cửa.
+Trước cửa có một đám trẻ con đang chơi đùa.
 
 "Đây là...?"
 
-Trước khi tôi kịp hỏi hết câu, một đứa trẻ trong số đó đã nhận ra Elza và lao thẳng về phía cô.
+Trước khi tôi kịp hỏi hết câu, một đứa trẻ trong số đó đã nhìn thấy Elza và lao thẳng về phía cô ấy.
 
 "Là Elza!"
 
-Cậu bé nhảy bổ tới và bám chặt lấy cô khi vừa chạy đến nơi, và tất cả những đứa trẻ khác cũng ùa theo. Trong chớp mắt, cô gần như bị chôn vùi dưới đám trẻ. Tôi cứ ngỡ đôi tay chân mảnh khảnh của cô sẽ chẳng thể nào chống đỡ nổi, nhưng trước sự kinh ngạc của tôi, cô vẫn đứng vững vàng trên mặt đất.
+Cậu nhóc lao tới ôm chầm lấy cô ấy, lũ trẻ còn lại cũng ùa theo. Chỉ thoáng chốc, cô ấy gần như chìm nghỉm giữa bầy nhóc. Tôi cứ ngỡ thân hình mảnh dẻ của cô ấy khó lòng đỡ nổi, ai ngờ cô ấy vẫn đứng vững vàng trên mặt đất.
 
-Xem chừng cô ấy đã quá quen với cảnh tượng này rồi.
+Xem chừng cô ấy đã quen với cảnh này rồi.
 
 "Chào các em. Dạo này các em có khỏe không?"
 
-Một tràng đồng thanh đáp "Có ạ" rộ lên từ đám trẻ.
+Cả đám trẻ đồng thanh đáp "Có ạ".
 
-"Biết vậy là tôi mừng rồi. Đoán xem nào? Hôm nay tôi có mang quà đến cho các em đây! Các em vào báo cho Sơ Mel biết tôi đã đến được không?"
+"Thế thì mừng rồi. Đoán xem nào? Hôm nay tôi có mang quà đến cho các em đây! Các em vào báo cho Sơ Mel biết tôi đã đến được không?"
 
 "Vâng ạ! Đi thôi mọi người ơi!"
 
-Cậu bé có vẻ là người dẫn đầu nhóm liền dẫn cả đám nháo nhào ùa vào bên trong tòa nhà—nhìn qua thì nơi này vốn là một nhà thờ cũ.
+Cậu nhóc có vẻ là đầu đàn liền hò hét cả đám nháo nhào ùa vào trong tòa nhà. Nhìn qua thì nơi này vốn là một nhà thờ cũ.
 
 "Đây là cô nhi viện đúng không?" Lorraine hỏi.
 
@@ -94,90 +94,90 @@ Elza gật đầu. "Phải rồi. Lillian và tôi từng lớn lên ở đây �
 
 ◆◇◆◇◆
 
-Một lúc sau khi dõi mắt nhìn lũ trẻ ùa vào trong, Elza quay sang chúng tôi. "Chúng ta vào trong chứ?"
+Đợi lũ trẻ ùa hết vào trong, Elza quay sang chúng tôi. "Chúng ta vào trong thôi chứ?"
 
-Cô hẳn đã nghĩ tự vào sẽ nhanh hơn là đứng đợi người ra đón. Vì xem chừng cô rất quen thuộc với vị giáo sĩ trông coi cô nhi viện, nên ít nhất chúng tôi cũng sẽ không đến mức đường đột xông vào như những kẻ xa lạ hoàn toàn.
+Chắc cô ấy nghĩ tự vào sẽ nhanh hơn đứng đợi người ra đón. Dù sao xem chừng cô ấy cũng rất thân với vị giáo sĩ quản lý cô nhi viện, nên ít ra chúng tôi không đến mức đường đột xông vào như người xa lạ.
 
-Elza từng được nuôi dưỡng ở nơi này từ thuở xa xưa, và giờ đây khi đã là Nữ Tu Viện Trưởng, cô lại có một mối liên hệ khác, theo một cách hoàn toàn mới với nơi chốn này. Cô hẳn phải cảm thấy vô cùng thoải mái khi ở đây. Dù sao thì đó cũng là những gì tôi suy đoán được từ lời cô nói, cùng với bầu không khí chung xung quanh.
+Elza lớn lên ở đây từ nhỏ, và giờ khi đã là Nữ Tu Viện Trưởng, mối liên kết giữa cô ấy với nơi này lại mang một ý nghĩa khác. Trông cô ấy hoàn toàn tự nhiên và thoải mái. Ít nhất thì đó là những gì tôi cảm nhận được qua lời cô ấy nói cùng bầu không khí lúc này.
 
-"Được thôi," Lorraine và tôi cùng đáp, rồi chúng tôi bước vào trong.
+"Được thôi," cả tôi và Lorraine cùng đáp rồi bước vào trong.
 
 ◆◇◆◇◆
 
 "Oái?!"
 
-Vừa bước vào, tôi bất thình lình bị một thứ to lớn và nặng trịch ập thẳng vào mặt. Tôi từng tính né sang một bên, nhưng quyết định đưa ra quá chậm do bất kể thứ đó là gì, nó dường như chẳng hề mang theo ác ý. Hơn nữa tốc độ của nó cũng nhanh hơn nhiều so với dự tính của tôi.
+Vừa bước chân vào, một thứ gì đó to lớn và nặng trịch bất ngờ ập thẳng vào mặt tôi. Tôi cũng tính né sang một bên, nhưng do không cảm nhận được chút sát khí nào nên phản xạ chậm mất một nhịp. Chưa kể tốc độ của nó cũng nhanh hơn tôi tưởng nhiều.
 
-Tôi tự hỏi đó là thứ gì. Tôi chỉnh lại đầu để nhìn, và—
+Không biết là cái gì nữa. Tôi hơi nghiêng đầu nhìn thử, và...
 
 Hộc. Hộc. Liếm. Liếm.
 
-Hơi thở nóng hổi phả vào chiếc mặt nạ của tôi kèm theo một chiếc lưỡi ươn ướt. Kỳ lạ thay, tôi lại không hề cảm thấy buồn nôn hay ghê tởm. Trước đây tôi từng bị chiếc lưỡi của một con gigantes rana thông thường tóm trúng—về cơ bản là một con ếch khổng lồ—và trải nghiệm lần này vượt trội hơn hẳn so với chuyện đó.
+Hơi thở nóng hổi cùng một chiếc lưỡi ươn ướt phả thẳng vào mặt nạ của tôi. Lạ lùng là tôi lại chẳng thấy tởm chút nào. Hồi trước tôi từng bị lưỡi của một con gigantes rana—về cơ bản là một con ếch khổng lồ—quấn trúng, so với phen đó thì lần này còn dễ chịu hơn chán vạn.
 
-Chiếc lưỡi của nó khi ấy cực kỳ dính, và tôi đã chẳng thể nào thoát ra nổi dù có vùng vẫy cật lực đến đâu. Cuối cùng, tôi được một mạo hiểm giả Đồng Cấp mạnh hơn cùng tổ đội vào thời điểm đó cứu thoát.
+Lưỡi nó nhớp nháp vô cùng, tôi có giãy giụa cật lực cỡ nào cũng không sao thoát nổi. Cuối cùng, một mạo hiểm giả Đồng Cấp mạnh hơn trong tổ đội lúc bấy giờ đã ra tay cứu tôi.
 
-Quái vật loài ếch rất đáng sợ dù vẻ ngoài của chúng trông khá hài hước, và từng có giả thuyết cho rằng thuở xưa chúng từng là những tư tế phụng sự các vị thần. Cứ xem thường chúng đi, rồi chúng sẽ biến người ta thành bữa ăn lót dạ... bằng cách liếm đến chết. Đúng là một cái chết kinh khủng.
+Quái vật họ ếch trông thì buồn cười nhưng thực chất rất đáng sợ, thậm chí từng có giả thuyết ngày xưa chúng vốn là tư tế phụng sự các vị thần. Ai mà coi thường là bị chúng biến thành bữa ăn lót dạ ngay... bằng cách liếm cho đến chết. Chết kiểu đó thì thảm hại không để đâu cho hết.
 
-Dù sao thì, quay lại chuyện chính. Có thứ gì đó đang liếm mặt tôi.
+Thôi, quay lại chuyện chính đã. Mặt tôi vẫn đang bị liếm đây này.
 
 "Này, này! Pochi! Nằm xuống nào, ngoan!" một giọng nói dịu dàng cất lên.
 
-Sinh vật to lớn liền lùi lại khỏi người tôi, và tôi mới có thể nhìn rõ hình dáng của nó lần đầu tiên.
+Sinh vật to xác kia lùi ra, lúc này tôi mới nhìn rõ được nó.
 
 "Một con chó...?"
 
-Đó là một con chó với bộ lông trắng dài. Nó cũng cực kỳ to lớn—nếu xét về kích thước, nó hoàn toàn vượt mặt cả Lorraine lẫn tôi. Tôi chợt nghĩ tới Hội Trưởng Wolf của Maalt. Phải rồi, nó to cỡ chừng ông ấy đấy.
+Đó là một con chó lông trắng dài. Thân hình nó khổng lồ đến mức xét về kích cỡ thì ăn đứt cả tôi lẫn Lorraine. Tôi chợt nghĩ ngay tới Hội Trưởng Wolf ở Maalt. Ừ, nó phải to ngang ngửa ông ấy.
 
-Thế nhưng đôi mắt nó lại vô cùng thân thiện và thuần khiết. Thậm chí có thể nói là hiền từ. Nó thực sự rất đáng yêu. Nói rõ thêm một chút thì tôi thuộc tuýp chuộng chó hơn chuộng mèo, nên việc tôi thấy nó dễ thương cũng chẳng có gì lạ. Còn nếu ai thắc mắc thì Lorraine, cũng như đa số các mạo hiểm giả, lại là người chuộng mèo hơn. Chúng ít tốn công chăm sóc hơn, và trong một số trường hợp, các loài quái vật họ mèo thân thiện với con người thậm chí còn có thể trở thành những cộng sự hữu ích.
+Thế nhưng ánh mắt nó lại rất đỗi thân thiện và trong trẻo, thậm chí còn toát lên vẻ hiền từ. Đáng yêu cực kỳ. Nói cho rõ thì tôi thích chó hơn mèo, nên thấy nó dễ thương cũng là chuyện thường tình. Còn nếu ai thắc mắc, thì Lorraine cũng như phần lớn mạo hiểm giả đều thuộc phe chuộng mèo. Mèo đỡ tốn công chăm sóc, và đôi khi quái vật họ mèo thân thiện với con người còn có thể trở thành cộng sự đắc lực.
 
-Trong khi đó, loài chó lại... mang tính thái cực. Có những giống chó ngoan ngoãn có thể sống hòa thuận trong một mái ấm gia đình, nhưng chúng lại hầu như chẳng có năng lực chiến đấu, thành thử nếu người ta tìm kiếm điều đó, người ta sẽ phải nhắm tới các phân loài quái vật cấp cao.
+Trong khi đó, chó lại rơi vào hai thái cực rõ rệt. Có những giống ngoan ngoãn nuôi trong nhà thì rất quấn người, nhưng khả năng chiến đấu lại gần như bằng không. Thành thử nếu muốn tìm bạn chiến đấu, người ta buộc phải nhắm tới các loài quái vật cấp cao.
 
-Chẳng có mức nào ở giữa hai thái cực đó cả. Đó là một vấn đề có phần trớ trêu, nhưng nếu có thể nhận được lòng trung thành của một con, nó sẽ theo bạn cho tới tận ngày nhắm mắt xuôi tay, bất luận ra sao đi nữa. Điều đó đem lại một cảm giác an tâm nhất định.
+Tuyệt nhiên chẳng có mức lưng chừng ở giữa. Điểm này khá phiền toái, nhưng một khi đã có được lòng trung thành của nó, nó sẽ theo bạn đến tận hơi thở cuối cùng dù có chuyện gì xảy ra đi nữa. Nghĩ vậy cũng thấy yên tâm phần nào.
 
-Trái lại, quái vật họ mèo thường rất thất thường, và chúng sẵn sàng bỏ rơi bạn ngay khi thoáng thấy bóng dáng rắc rối. Chọn đằng nào thì người ta cũng phải gánh lấy một mớ lẫn lộn cả phiền toái lẫn may mắn.
+Quái vật họ mèo thì ngược lại, tính tình đỏng đảnh thất thường, hễ thấy có biến là lập tức quay lưng bỏ chạy. Chọn bên nào thì cũng được cái này mất cái kia.
 
-Một người phụ nữ trẻ đứng cạnh con chó, nhìn tôi với vẻ mặt đầy lo lắng.
+Đứng cạnh con chó là một cô gái trẻ, đang nhìn tôi với vẻ ái ngại.
 
 "Xin hỏi cô là...?" tôi cất tiếng hỏi.
 
-Không như Elza, cô ấy rõ ràng đích thực là một người trẻ tuổi.
+Không như Elza, cô ấy rõ ràng là một người trẻ tuổi đích thực.
 
 "Này nhé." Elza lườm tôi một cái, nhưng ánh mắt đó chỉ thoáng qua trong tích tắc.
 
 Cô ấy đọc được suy nghĩ của tôi sao?
 
-"Anh có sao không?" người phụ nữ trẻ hỏi. "Tôi xin lỗi vì chuyện của Pochi. Thường ngày nó ngoan ngoãn lắm..."
+"Anh có sao không?" cô gái hỏi. "Tôi xin lỗi về chuyện của Pochi nhé. Bình thường nó ngoan lắm..."
 
-Chà. Cô ấy toát lên phong thái dịu dàng, khí chất điềm đạm cùng dáng vẻ đoan trang, thuần khiết của một thiếu nữ. Tính gộp tất cả lại, sẽ là hoàn toàn xác đáng nếu miêu tả cô là một người phụ nữ tuyệt vời. Cô hơi lệch gu so với mẫu người của tôi một chút, nhưng nếu hỏi bất kỳ nhóm đàn ông nào xem họ có muốn theo đuổi cô không, thì chắc chắn sẽ nhận được tỷ lệ giơ ngón tay tán thành gần như một trăm phần trăm, Rentt Faina này xin đảm bảo. Những gã còn lại thì sẽ làm bộ làm tịch mà bảo: "Chắc cũng được thôi, nhưng với điều kiện cô ấy phải tỏ tình trước cơ."
+Chà. Cử chỉ dịu dàng, phong thái điềm tĩnh, lại thêm nét đoan trang thùy mị của một thiếu nữ. Tựu trung lại, bảo cô ấy là một cô gái xuất sắc cũng chẳng ngoa chút nào. Dù hơi lệch gu tôi một chút, nhưng nếu hỏi bất kỳ đám đàn ông nào xem có muốn tán tỉnh cô ấy không, Rentt Faina này xin bảo đảm tỷ lệ giơ tay đồng ý phải ngót nghét một trăm phần trăm. Mấy gã còn lại khéo cũng chỉ làm bộ làm tịch bảo: "Ừ thì cũng được, nhưng cô ấy phải tỏ tình trước cơ."
 
-Đàn ông chúng tôi ngốc nghếch như thế đấy.
+Đàn ông bọn tôi ngốc nghếch như thế đấy.
 
-Gạt bỏ những suy nghĩ ngớ ngẩn ra khỏi đầu, tôi nói: "Cô có... chắc chắn nó là một con chó không?"
+Gạt mấy suy nghĩ vớ vẩn ra khỏi đầu, tôi hỏi: "Cô có... chắc đây là một con chó không?"
 
-"Thật lòng mà nói thì tôi cũng chẳng dám chắc lắm đâu."
+"Nói thật thì tôi cũng chẳng dám chắc lắm đâu."
 
 "Không chắc sao...?"
 
-"Chuyện là, nó đã ở cùng chúng tôi từ rất lâu rồi. Thậm chí từ trước cả khi tôi đến đây, tức là hơn hai mươi năm trước. Nó sống quá lâu so với một con chó bình thường... nên chắc nó là một loài quái vật nào đó."
+"Thì, nó ở với chúng tôi từ lâu lắm rồi cơ. Từ trước cả khi tôi tới đây, tức là hơn hai mươi năm trước. Một con chó bình thường chẳng thể nào sống lâu đến thế... nên chắc nó là một loài quái vật rồi."
 
-À, hóa ra ý cô là vậy. Kể từ khi biến thành Undead, tôi đã không còn bận tâm nhiều đến chuyện này nữa, nhưng các loài động vật thông thường—những sinh vật hầu như chẳng có chút Ma Lực nào—thường có tuổi thọ rất cố định. Tuổi thọ nhìn chung tỷ lệ thuận với kích thước cơ thể trong loài của chúng. Chẳng hạn như động vật có vú thường có xu hướng sống lâu hơn nếu chúng có kích thước lớn hơn. Dù đây không phải quy tắc bất di bất dịch và vẫn tồn tại rất nhiều ngoại lệ. Cá voi có thể sống hơn một thế kỷ còn loài chó thì sống khoảng mười lăm năm, nhưng tôi từng nghe nói những giống chó cỡ vừa lại sống thọ hơn, và một số loài chim có thể sống tới bảy mươi hoặc tám mươi tuổi bất chấp kích thước cơ thể của chúng.
+À, ra ý cô ấy là thế. Từ khi biến thành Undead, tôi không còn để tâm mấy tới chuyện này nữa, nhưng động vật bình thường, tức những sinh vật gần như không có Ma Lực, lại có tuổi thọ rất cố định. Nhìn chung tuổi thọ tỷ lệ thuận với kích cỡ của từng loài. Chẳng hạn như thú có vú, càng to xác thì càng sống thọ. Dù đây không phải quy luật bất di bất dịch và ngoại lệ cũng chẳng thiếu. Cá voi sống hơn cả thế kỷ còn chó chỉ được tầm mười lăm năm, nhưng tôi từng nghe nói chó cỡ vừa lại sống thọ hơn, hay vài loài chim dù nhỏ thó cũng có thể sống tới bảy tám mươi năm.
 
-Đó là một lĩnh vực nghiên cứu đầy tiềm năng cho các nhà sinh vật học thỏa sức khai thác. Làm thế nào để kéo dài tuổi thọ của một sinh mệnh vốn là câu hỏi muôn thuở trong tâm trí của mọi sinh linh trên thế gian.
+Đó là mảnh đất màu mỡ cho các nhà sinh vật học thỏa sức đào xới. Kéo dài sinh mệnh được bao lâu vốn là câu hỏi muôn thuở của mọi giống loài trên thế gian.
 
-Mặt khác, khi nhắc tới quái vật... Chà, tôi không nghĩ mình có thứ gì đó giống như một "tuổi thọ tự nhiên". Tôi là Undead cơ mà. Dẫu vậy, ngay cả khi tôi không phải Undead, thì nhìn chung quái vật vẫn có xu hướng sống lâu hơn động vật.
+Còn khi nói tới quái vật... Chà, tôi đồ rằng bản thân chẳng có thứ gọi là "tuổi thọ tự nhiên". Tôi là Undead cơ mà. Dù vậy, ngay cả khi tôi không phải Undead, thì nhìn chung quái vật vẫn sống thọ hơn động vật thường.
 
-Người ta đồn rằng Ma Lực giúp kéo dài tuổi thọ của sinh vật, nhưng trên thực tế thì điều đó vẫn còn chưa rõ ràng.
+Người ta bảo Ma Lực giúp sinh vật kéo dài tuổi thọ, nhưng thực tế thì chuyện đó vẫn chưa có gì chắc chắn.
 
-Những học giả cuồng tín từng nuôi dưỡng động vật trong môi trường đậm đặc Ma Lực, tiêm vào máu của chúng các chất lỏng bão hòa Ma Lực, và tiến hành đủ mọi thí nghiệm điên rồ. Bản thân Lorraine cũng từng tự mình thực hiện vài thử nghiệm như thế. Thế nhưng, bất chấp vô số thử nghiệm đã được tiến hành xuyên suốt chiều dài lịch sử, câu trả lời thịnh hành nhất hiện nay vẫn là "kết quả chưa xác định".
+Các học giả cuồng tín từng nuôi động vật trong môi trường nồng độ Ma Lực cao, tiêm vào máu chúng chất lỏng đậm đặc Ma Lực, làm đủ trò thí nghiệm điên rồ. Bản thân Lorraine cũng từng đích thân làm vài vụ như thế. Thế nhưng, dù lịch sử đã ghi nhận không biết bao nhiêu lần thử nghiệm, câu trả lời phổ biến nhất hiện nay vẫn là "chưa thể xác định".
 
-Rốt cuộc, người ta vẫn chẳng biết gì về những ranh giới định nghĩa chia tách giữa con người, động vật và quái vật.
+Chung quy lại, chẳng ai rõ ranh giới phân biệt giữa con người, động vật và quái vật thực sự nằm ở đâu.
 
-Nếu người ta đem chuyện đó nói với một học giả, họ sẽ tìm cách chứng minh bạn sai bằng cách chỉ ra những điểm khác biệt chỗ này, những nét tương đồng chỗ kia, đại loại như vậy. Thế nhưng dẫu mặt họ có đỏ bừng và giọng điệu có trở nên gay gắt khi viện dẫn các bằng chứng cùng nghiên cứu khoa học rành rành, thì các lý thuyết của họ cũng chẳng trụ nổi được một thập kỷ trước khi bị chứng minh là sai lầm.
+Đem chuyện đó nói với một học giả, kiểu gì họ cũng tìm cách bác bỏ bằng cách chỉ ra điểm khác nhau chỗ này, nét tương đồng chỗ kia. Thế nhưng dẫu họ có đỏ mặt tía tai, gay gắt viện dẫn đủ thứ nghiên cứu khoa học cùng chứng cứ rành rành, lý thuyết của họ cũng chẳng trụ nổi mười năm trước khi bị chứng minh là sai bét.
 
-Quá trình này đã lặp đi lặp lại hàng chục, hàng trăm lần xuyên suốt lịch sử. Vậy thì rốt cuộc quái vật là gì? Chẳng một ai hay biết. Nhưng trực giác mách bảo tôi rằng chú "chó" khổng lồ đã sống khỏe mạnh suốt hơn hai mươi năm qua này đích thị là một con quái vật.
+Vòng luẩn quẩn ấy đã lặp đi lặp lại hàng chục, hàng trăm lần trong lịch sử. Rốt cuộc quái vật là gì? Chẳng ai hay biết. Nhưng linh tính mách bảo tôi rằng con "chó" khổng lồ sống khỏe re suốt hơn hai mươi năm qua này đích thị là quái vật.
 
 "Gâu, gâu!"
 
 [Xin chào!]
 
-Vậy nên người ta có thể hiểu được sự bàng hoàng của tôi khi nó cất tiếng nói với tôi.
+Thế nên mới hiểu tôi đã sững sờ đến mức nào khi nó đột ngột mở miệng nói chuyện với mình.
