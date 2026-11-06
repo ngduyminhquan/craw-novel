@@ -2,134 +2,134 @@
 
 "Tên tôi là Rentt."
 
-Khi tôi tự giới thiệu bản thân, một trong hai người lính canh gác trước cây cầu đá kiên cố dẫn vào lâu đài khẽ nhíu mày đầy nghi hoặc. Tôi chẳng thể trách anh ta; tôi dám chắc đây là lần đầu tiên anh ta nghe thấy tên tôi.
+Nghe tôi giới thiệu, một trong hai người lính đứng gác trước cây cầu đá kiên cố dẫn vào lâu đài liền nhíu mày nghi ngại. Tôi cũng chẳng trách được anh ta, bởi chắc chắn đây là lần đầu tiên anh ta nghe thấy cái tên này.
 
-"Các người từ đâu tới? Có việc gì?"
+"Mấy người từ đâu tới? Đến đây có việc gì?"
 
-Lorraine, Augurey và tôi đều có mặt ở đây. Hôm qua, sau khi trò chuyện thêm đôi chút, chúng tôi đã sớm kết thúc buổi gặp gỡ, và hôm nay cả nhóm cùng nhau tìm đường tới hoàng cung.
+Hôm nay cả Lorraine, Augurey và tôi đều có mặt ở đây. Hôm qua sau khi trò chuyện thêm đôi chút, chúng tôi đã giải tán sớm, để rồi hôm nay cùng nhau kéo tới hoàng cung.
 
-Tôi có chút căng thẳng khi chúng tôi đi từ khu bình dân sang khu quý tộc, nhưng đúng như thuộc hạ của Edel đã nói, chẳng có thiết bị dò tìm nào phát ra báo động, và cả nhóm đã tới được hoàng cung mà không gặp phải bất kỳ sự cố nào. Dù lính canh túc trực trước dinh thự của các quý tộc nhìn tôi với ánh mắt ngờ vực, họ là gia nhân thuộc quyền quản lý của gia tộc quý tộc cụ thể đó chứ không phải người của hoàng cung, và họ không thuộc kiểu người sẽ rời bỏ vị trí canh gác chỉ để đuổi theo một kẻ qua đường có vẻ hơi đáng ngờ.
+Lúc đi từ khu bình dân sang khu quý tộc, tôi cũng có chút căng thẳng, nhưng đúng như lời đàn em của Edel báo lại, chẳng có thiết bị dò tìm nào kêu lên cả, và cả nhóm đã đến được cổng hoàng cung trót lọt. Dù lính gác trước các dinh thự quý tộc có nhìn tôi bằng ánh mắt ngờ vực, họ vốn là gia nhân phục vụ riêng cho gia tộc đó chứ không phải người của hoàng cung, nên chẳng hơi đâu bỏ vị trí để đuổi theo một kẻ qua đường chỉ hơi đáng ngờ một chút.
 
-Chà, tôi dám chắc họ sẽ lập tức báo cho quan phủ và đuổi bắt tôi nếu tôi vừa vung vẩy vũ khí hay bắn ma pháp loạn xạ vừa gào lên: "Hãy run sợ trước Undead đi! Nhân danh đương chủ Ma Cà Rồng vĩ đại Laura Latuule, ta tới đây để hủy diệt thành phố này!" Dẫu vậy, đời nào tôi lại làm một chuyện như thế. Việc đó sẽ khiến cả Vương Quốc Yaaran quay sang coi tôi là kẻ thù mất. Khoan đã, điều đáng sợ hơn là biến Gia tộc Latuule thành kẻ thù. Nhưng điều còn đáng sợ hơn thế nữa là tôi thậm chí còn không chắc liệu việc đó có khiến họ trở mặt thành thù hay không. Tôi cảm giác Laura có khi sẽ khúc khích cười rồi nói những câu đại loại như: "Nếu ngài muốn chơi trò đó thì xin cứ tự nhiên. Nghe thú vị đấy chứ." Isaac chắc hẳn cũng sẽ vui vẻ chiều theo ý cô bé. Nghĩ đến thôi đã thấy rợn tóc gáy rồi.
+Chà, chắc chắn họ sẽ lập tức báo cho lính tuần tra rồi đuổi theo bắt tôi nếu tôi vừa vung vẩy vũ khí hay bắn ma pháp loạn xạ vừa gào tướng lên: "Hãy run sợ trước Undead đi! Nhân danh chúa tể Ma Cà Rồng vĩ đại Laura Latuule, ta tới đây để san phẳng thành phố này!" Dù vậy, đời nào tôi lại làm trò đó. Làm thế chẳng khác nào biến cả Vương Quốc Yaaran thành kẻ thù. Khoan đã, biến Gia tộc Latuule thành kẻ thù mới là chuyện đáng sợ hơn. Nhưng đáng sợ hơn cả là tôi còn chẳng dám chắc liệu họ có thực sự coi tôi là kẻ thù hay không nữa. Tôi cảm giác Laura có khi sẽ khúc khích cười rồi bảo: "Nếu ngài muốn chơi trò đó thì xin cứ tự nhiên. Nghe chừng thú vị đấy chứ." Còn Isaac chắc cũng sẽ vui vẻ chiều theo ý cô bé. Nghĩ đến thôi đã thấy rợn cả người.
 
-Vả lại, tôi chẳng thể nào hình dung nổi việc mình có thể chiến thắng họ. Đó là một đòi hỏi quá đỗi bất khả thi, đến mức nếu đánh bại Gia tộc Latuule là một trong những điều kiện bắt buộc, có khi tôi thà từ bỏ luôn giấc mơ thuở ấu thơ trở thành mạo hiểm giả Mithril Cấp còn hơn. Đùa thôi. Có lẽ vậy.
+Vả lại, tôi chẳng thể tưởng tượng nổi mình sẽ thắng họ bằng cách nào. Việc đó bất khả thi đến mức nếu đối đầu với Gia tộc Latuule là một trong những điều kiện bắt buộc, có khi tôi thà từ bỏ luôn giấc mơ thuở nhỏ trở thành mạo hiểm giả Mithril Cấp còn hơn. Đùa đấy thôi. Có khi thế thật.
 
-Tôi miên man với những suy nghĩ ngớ ngẩn đó trong đầu trong lúc nói chuyện với người lính gác.
+Đầu óc lởn vởn mấy suy nghĩ ngớ ngẩn ấy, tôi cất lời với anh lính gác:
 
-"Tôi là một mạo hiểm giả Đồng Cấp. Tôi có việc cần yết kiến Điện Hạ, Công Chúa Jia Regina Yaaran. Tôi không đến đây để gây chuyện. Liệu anh có thể cho tôi qua không?"
+"Tôi là mạo hiểm giả Đồng Cấp. Tôi có việc cần yết kiến Điện Hạ, Công Chúa Jia Regina Yaaran. Tôi không đến đây để gây rối đâu. Liệu anh có thể cho tôi qua được không?"
 
-Tất cả những gì tôi làm chỉ là nêu rõ lý do mình có mặt ở đây, nhưng người lính gác nhìn tôi đầy nghi ngờ và tiếp tục tra hỏi. Sự ngờ vực của anh ta là hoàn toàn có cơ sở; xét cho cùng, tôi là một ma vật, lại còn là Undead—loài bị ghét bỏ và nghi kỵ nhất trong số tất cả ma vật trên thế giới này. Quan niệm phổ biến về Undead là chúng hoặc là ma pháp sư đã bán linh hồn cho cái ác, hoặc là những kẻ chết đi trong nỗi phẫn uất và hận thù ngút trời nên mới bám víu lại chốn nhân gian chỉ để trả thù. Về cơ bản, chúng xấu xa đến mức khó lòng tưởng tượng nổi. Dù vậy, người lính gác không đời nào biết được tôi là Undead.
+Tôi chỉ mới nói rõ lý do mình đến đây, thế mà anh lính gác đã nhìn tôi đầy vẻ ngờ vực rồi tiếp tục gặng hỏi. Anh ta nghi ngờ cũng phải thôi, bởi xét cho cùng tôi vốn là một con quái vật, lại còn là Undead, giống loài bị căm ghét và ngờ vực nhất trong muôn vàn quái vật ở thế giới này. Trong mắt người đời, Undead hoặc là những ma pháp sư đã bán linh hồn cho quỷ dữ, hoặc là những kẻ chết đi trong nỗi phẫn uất cùng cực nên linh hồn vất vưởng không tan chỉ để trả thù. Tóm lại, chúng xấu xa đến mức cùng cực. Có điều, người lính gác đâu thể nào biết tôi là Undead được.
 
-"Một mạo hiểm giả Đồng Cấp quèn mà đòi tới gặp Điện Hạ ư? Tôi không bảo là chuyện đó bất khả thi, nhưng hôm nay tôi không thấy lịch báo trước về vị khách nào như thế cả."
+"Chỉ là mạo hiểm giả Đồng Cấp mà đòi tới gặp Điện Hạ sao? Tôi không bảo chuyện đó là bất khả thi, nhưng hôm nay tôi đâu nghe nói có vị khách nào như vậy đến hẹn."
 
-Thực tế là anh ta thực sự cân nhắc câu chuyện của tôi bất chấp vẻ ngoài dị thường của tôi đã cho thấy anh ta coi trọng nhiệm vụ của mình đến nhường nào, cũng như sự chân thành của anh ta khi đối đãi với mọi người với tư cách đại diện cho chủ nhân. Tôi dám chắc ở khối quốc gia khác, anh ta đã thẳng thừng phớt lờ và xua đuổi tôi đi rồi. Nếu ở vị trí của anh ta, khi thấy một gã đàn ông trông kỳ quái như tôi xuất hiện và bảo có việc cần gặp công chúa, chẳng đời nào tôi lại cho vào hoàng cung. Thế nhưng, tôi vẫn còn một con át chủ bài để xoay chuyển tình thế. Hoặc nói đúng hơn, lẽ ra ngay từ đầu tôi nên mở lời bằng thứ đó mới phải.
+Dù vẻ ngoài của tôi trông chẳng giống ai, anh ta vẫn nghiêm túc lắng nghe, đủ thấy anh ta tận tụy với công việc và chân thành với mọi người đến mức nào khi làm người đại diện cho chủ nhân. Tôi dám chắc ở khối nước khác, người ta đã gạt phắt đi rồi đuổi tôi thẳng cổ rồi. Nếu đặt mình vào vị trí của anh ta, thấy một gã trông kỳ quặc thế này tới bảo có việc cần gặp công chúa, chẳng đời nào tôi cho bước chân vào cung. Có điều, tôi vẫn còn một quân bài tẩy để xoay chuyển tình thế. Nói đúng hơn, lẽ ra ngay từ đầu tôi nên chìa thứ đó ra luôn mới phải.
 
-Tôi bắt đầu lục lọi trong túi áo. Dù có mang theo túi ma thuật bên mình, tôi đã lấy sẵn tấm huy chương ra từ trước để phòng tình huống này, vì làm thế sẽ tiện hơn cho việc chỉ cần—úm ba la—là rút ngay tấm huy chương ra khi cần thiết.
+Tôi bắt đầu thò tay lục lọi túi áo. Dù có mang túi ma thuật bên mình, tôi đã lấy sẵn tấm huy chương ra từ trước để phòng tình huống này, cho tiện việc chỉ cần thò tay vào là nhoáng cái rút ngay ra được.
 
-Và thế là—úm ba la—tôi chẳng tài nào rút ngay được tấm huy chương ra. Tôi nhớ rõ ràng là nó ở quanh đây mà. Tôi tiếp tục mò mẫm, nhưng việc cứ đứng đây thọc tay lục lọi túi áo hiển nhiên chẳng đem lại chút lợi thế nào cho tôi. Người lính gác bắt đầu từ từ đưa tay về phía thanh kiếm đeo bên hông.
+Và thế là, tính thì nhanh đấy, nhưng tôi lại chẳng tài nào lôi được tấm huy chương ra ngay. Rõ ràng tôi nhớ mình để nó quanh đây cơ mà. Tôi tiếp tục mò mẫm, nhưng việc cứ đứng trơ ra thọc tay lục lọi túi áo rõ ràng chẳng giúp tình hình khá khẩm hơn chút nào. Bàn tay anh lính gác đã bắt đầu từ từ lần về phía chuôi kiếm bên hông.
 
-Chết tiệt, tình hình tệ rồi đây. Mình cần phải tìm ra nó sớm, nếu không thì...
+Hỏng rồi, tệ thật đấy chứ. Phải tìm ra nó ngay, nếu không thì...
 
-Tay tôi chạm phải một vật có cảm giác đúng là nó, và tôi dứt khoát rút phắt nó ra khỏi túi áo với đầy khí thế, khiến người lính gác cũng làm y hệt như vậy với thanh kiếm của mình. Anh ta hẳn đã nghĩ tôi đang rút ra một loại vũ khí nào đó, nhưng thứ tôi đang cầm trên tay lại không phải vũ khí.
+May sao ngón tay tôi vừa chạm đúng vật cần tìm, thế là tôi hào hứng rút phắt nó ra khỏi túi áo, khiến anh lính gác cũng rút kiếm ra với vẻ quyết liệt y như vậy. Chắc anh ta tưởng tôi sắp sửa lôi ra thứ vũ khí gì đó, nhưng thứ tôi đang cầm trên tay nào phải vũ khí.
 
 ![](images/ch227-01.webp)
 
-"Một tấm huy chương ư?" người lính gác thốt lên thành tiếng. Sau đó anh ta tra kiếm vào bao rồi tiếp tục nói như thể vừa rồi mình chưa từng rút vũ khí ra vậy. "Nghĩa là anh có thư giới thiệu từ một quý tộc. Trò lừa đảo này phổ biến lắm. Mấy kẻ bất hảo sẽ tìm cách ngon ngọt dụ dỗ vài quý tộc nhẹ dạ chốn thôn quê trao cho tấm huy chương mang gia huy để có cơ hội diện kiến hoàng tộc. Ra anh cũng là một trong số đó hả? Khoan đã, đợi chút..."
+"Một tấm huy chương ư?" anh lính gác buột miệng. Sau đó, anh ta tra kiếm vào bao rồi nói tiếp như thể ban nãy mình chưa từng rút vũ khí ra: "Vậy là anh được một quý tộc nào đó giới thiệu. Trò này quen quá rồi. Mấy kẻ ranh ma hay dẻo mỏ dụ dỗ mấy quý tộc nhẹ dạ chốn thôn quê trao cho tấm huy chương mang gia huy để kiếm cớ vào gặp người trong hoàng tộc. Hóa ra anh cũng là phường đó à? Khoan đã, đợi chút..."
 
-Người lính gác vừa nói vừa nhìn kỹ hơn vào tấm huy chương và cuối cùng cũng nhận ra biểu tượng gia huy được khắc trên đó. Giọng anh ta đột nhiên vút cao lên nửa quãng tám.
+Anh lính gác vừa nói vừa ghé mắt nhìn kỹ hơn vào tấm huy chương, rồi rốt cuộc cũng nhận ra biểu tượng gia huy khắc trên đó. Giọng anh ta bỗng vút cao lên nửa quãng tám:
 
-"K-Khoan đã, đây là gia huy của Hầu tước xứ Ancro! Mà phiên bản này lại là của đích thân ngài Nauss..."
+"K-Khoan đã, đây là gia huy của Hầu tước xứ Ancro! Mà chiếc này lại là của riêng ngài Nauss..."
 
-Tôi không hề nhận ra điều này, bởi tôi chưa từng dành thời gian quan sát kỹ tấm huy chương, nhưng có vẻ biểu tượng trên đó còn giúp nhận diện từng thành viên cụ thể của gia tộc quý tộc ấy. Đây là lần đầu tiên tôi được trao cho— Ồ khoan đã, thứ này chỉ là cho tôi mượn thôi. Dù sao đi nữa, đây là lần đầu tiên có người cho tôi mượn một vật như thế này. Tôi chẳng biết gì về huy chương vì chưa từng có cơ hội tìm hiểu về chúng.
+Tôi không hề nhận ra điều đó, bởi trước giờ tôi chưa từng dành thời gian ngắm nghía kỹ tấm huy chương, nhưng có vẻ biểu tượng trên ấy còn giúp nhận diện từng thành viên cụ thể trong gia tộc. Đây là lần đầu tiên tôi được tặng... À khoan, thứ này chỉ là cho mượn thôi. Dù sao đi nữa, đây cũng là lần đầu tiên có người cho tôi mượn một món đồ như thế này. Tôi chẳng biết gì về huy chương quý tộc vì trước giờ làm gì có cơ hội mà tìm hiểu.
 
-Gia tộc quý tộc lớn duy nhất quanh vùng Maalt là người cai quản nơi đó, Tử tước Lottnel, và bản thân tôi cũng chẳng hề thân thiết gì với ngài tử tước. Lần tương tác nhiều nhất giữa tôi với ông ấy chỉ là tham dự vài bữa tiệc thỉnh thoảng được ông ấy tổ chức để giao lưu với giới mạo hiểm giả ở Maalt, rồi ngắm nhìn ông ấy từ đằng xa. Tại một bữa tiệc như thế, ngài tử tước chẳng có thời gian đâu mà trò chuyện với một kẻ vô danh tiểu tốt Đồng Cấp như tôi, và ông ấy thường quá bận rộn tiếp chuyện những vị khách khác như Hội Trưởng Wolf hay người đứng đầu một vài tổ chức có mối liên kết chặt chẽ với Hội Mạo Hiểm Giả. Ngay cả khi tôi muốn bắt chuyện với ông ấy, đoàn tùy tùng của ông ấy có lẽ cũng sẽ xua tôi đi mà thôi.
+Gia tộc lớn duy nhất quanh vùng Maalt là nhà của vị lãnh chúa cai quản nơi đó, Tử tước Lottnel, mà tôi thì đâu có quen biết gì ngài tử tước. Lần tiếp xúc nhiều nhất giữa tôi với ông ấy cũng chỉ là thỉnh thoảng dự mấy bữa tiệc do ngài tử tước tổ chức để giao lưu với giới mạo hiểm giả Maalt, rồi đứng ngắm ông ấy từ đằng xa. Ở những bữa tiệc như thế, ngài tử tước làm gì có thời gian tiếp chuyện một gã vô danh tiểu tốt Đồng Cấp như tôi, ông ấy còn bận trò chuyện với những nhân vật tầm cỡ như Hội Trưởng Wolf hay người đứng đầu các tổ chức có quan hệ mật thiết với Hội. Mà dù tôi có muốn bắt chuyện, đám tùy tùng của ông ấy chắc cũng xua tôi đi ngay.
 
-Về cơ bản, tôi chỉ đơn giản là không thuộc tầng lớp xã hội phù hợp để có bất kỳ mối quan hệ ý nghĩa nào với một quý tộc như vậy. Có lẽ trong tương lai sẽ có cơ hội chăng. Xét cho cùng, tôi nghe nói Tử tước Lottnel có mối quan hệ thân thiết với Gia tộc Latuule, và dạo gần đây tôi lại khá thân cận với Gia tộc Latuule. Dù vậy, lúc này tôi cũng chẳng cần phải bận tâm suy nghĩ nhiều về chuyện đó làm gì.
+Nói chung, tôi vốn không thuộc tầng lớp có thể qua lại thân tình với một quý tộc cỡ đó. Có điều, biết đâu sau này lại có cơ hội. Xét cho cùng, tôi nghe đâu Tử tước Lottnel qua lại rất thân thiết với Gia tộc Latuule, mà dạo này tôi lại dính dáng khá nhiều tới nhà Latuule. Cơ mà lúc này tôi cũng chẳng cần bận tâm nghĩ ngợi nhiều về chuyện đó làm gì.
 
 "Làm sao anh... có được thứ này?"
 
-Người lính gác hẳn thực lòng rất muốn gặng hỏi xem làm cách nào tôi lại trộm được tấm huy chương từ tay Nauss, nhưng anh ta đã nuốt lại lời buộc tội đó và bình tĩnh hỏi hết câu.
+Anh lính gác hẳn rất muốn hỏi xem tôi đã xoay xở trộm tấm huy chương này từ tay ngài Nauss bằng cách nào, nhưng rốt cuộc vẫn nuốt được lời buộc tội ấy vào trong để bình tĩnh hỏi hết câu.
 
-"Có lần tôi tình cờ phát hiện Điện Hạ và ngài Nauss bị ma vật tấn công," tôi giải thích. "Tôi biết mình không thể cứ thế bỏ mặc họ, nên đã tiến lại ứng cứu. Hai người này khi đó cũng đi cùng tôi."
+"Có lần tôi tình cờ thấy Điện Hạ và ngài Nauss bị quái vật tấn công," tôi giải thích. "Tôi biết mình không thể cứ thế bỏ mặc họ nên đã lao vào ứng cứu. Hai người này lúc đó cũng đi cùng tôi."
 
-Tôi ra hiệu về phía Lorraine và Augurey.
+Tôi đưa tay chỉ về phía Lorraine và Augurey.
 
-"Ồ, hóa ra các vị là... Phải rồi, tôi từng nghe kể về các vị. Tôi cũng nghe nói dù nhận được lời mời nhưng các vị mãi không xuất hiện, nên tôi đã quên bẵng toàn bộ sự việc vì cứ ngỡ các vị sẽ chẳng bao giờ đến."
+"Ồ, hóa ra là mấy người... Phải rồi, tôi có nghe kể về các vị. Tôi cũng nghe nói các vị nhận được lời mời mà mãi chẳng thấy đâu, nên tôi quên khuấy luôn chuyện này vì cứ ngỡ các vị sẽ chẳng bao giờ tới."
 
-Người lính gác nói với giọng hơi mỉa mai một chút, nhưng có vẻ anh ta cũng đang nói thật lòng. Không phải ai nhận được lời mời tới hoàng cung cũng đều xuất hiện. Chẳng hạn, những kẻ có vết nhơ giấu kín trong quá khứ có lẽ sẽ không lộ diện vì muốn tránh cho bí mật đen tối đó bị phơi bày ra ánh sáng. Tôi chính là một ví dụ điển hình cho chuyện đó, dù xét theo nghĩa đen thì bản thân tôi đúng nghĩa là một Khô Lâu mang bí mật giấu kín. Nếu các thiết bị an ninh mà phát hiện ra tôi, chắc tôi chẳng còn lựa chọn nào khác ngoài việc cắm đầu cắm cổ chạy thục mạng.
+Giọng anh lính gác hơi mỉa mai một chút, nhưng có vẻ anh ta nói thật lòng. Không phải ai nhận được lời mời vào hoàng cung cũng dám đến. Chẳng hạn, những kẻ có vết nhơ giấu kín trong quá khứ sẽ chẳng dại gì ló mặt ra vì sợ chân tướng bị phơi bày trước ánh sáng. Tôi cũng là một ví dụ điển hình cho chuyện đó, dẫu xét theo nghĩa đen thì chính tôi mới là "bộ xương giấu trong tủ". Nếu lỡ bị mấy thiết bị an ninh phát hiện, chắc tôi chẳng còn cách nào khác ngoài việc cắm đầu cắm cổ chạy thục mạng.
 
-Cũng có những trường hợp đỡ cực đoan hơn tôi, như các thương nhân từng là sơn tặc khét tiếng, hay những mạo hiểm giả lừng danh từng đào tẩu khỏi một gia tộc quý tộc và đang hoạt động dưới tên giả. Bất kể việc được mời tới hoàng cung là một vinh dự to lớn đến mức nào, những kiểu người đó sẽ không bao giờ dám đặt chân tới. Đó là lý do vì sao người lính gác xếp chúng tôi vào nhóm đối tượng tương tự rồi quên bẵng đi. Thực sự thì việc anh ta vẫn còn lưu giữ chút thông tin về chúng tôi trong góc ký ức cũng đáng được khen ngợi rồi.
+Ngoài tôi ra vẫn còn những trường hợp đỡ gay go hơn, chẳng hạn như mấy tay thương nhân từng là cướp khét tiếng, hay những mạo hiểm giả tên tuổi từng trốn khỏi gia tộc quý tộc rồi hành nghề dưới tên giả. Dù được mời vào hoàng cung có là vinh dự lớn đến đâu, những hạng người đó cũng chẳng bao giờ dám bén mảng tới. Thế nên anh lính gác mới xếp chúng tôi vào cùng một giuộc rồi quên bẵng đi. Nói thật, việc anh ta vẫn còn nhớ chút manh mối về chúng tôi ở góc nào đó trong đầu đã đáng được khen ngợi lắm rồi.
 
-"Chúng tôi có lý do cho sự chậm trễ của mình. Chúng tôi không hề cố tình lần lữa. Chúng tôi rất muốn được trực tiếp xin lỗi Điện Hạ và ngài Nauss. Liệu anh có thể cho chúng tôi qua không?"
+"Chúng tôi chậm trễ là có lý do riêng chứ không hề cố tình lần lữa. Chúng tôi rất muốn trực tiếp tạ lỗi với Điện Hạ và ngài Nauss. Liệu anh có thể cho chúng tôi qua được không?"
 
-Người lính gác gật đầu. "Được thôi. Nhưng nếu tôi cứ thế để ba vị tự ý đi lung tung vào trong, các vị rồi sẽ lại lặp lại màn đối đáp y hệt thế này ở bên trong mà thôi. Tôi sẽ đi cùng các vị cho đến khi tìm được một người hầu dẫn đường."
+Anh lính gác gật đầu: "Được rồi. Nhưng nếu cứ để ba vị tự tiện đi vào, bên trong họ cũng sẽ lại hỏi han một thôi một hồi y như thế này mà thôi. Tôi sẽ đi cùng các vị cho tới khi tìm được người hầu dẫn đường."
 
-Sau đó anh ta lịch sự hộ tống chúng tôi đến lối vào hoàng cung.
-
-◆◇◆◇◆
-
-"A. Tôi nghe nói cuối cùng các cậu cũng đến, và đúng là đã đến thật rồi!"
-
-Trong lúc chúng tôi ngồi đợi trong một phòng khách của hoàng cung dành cho những vị khách thuộc tầng lớp thấp hơn, cánh cửa bỗng bật mở, và cùng với lời chào sảng khoái, một người đàn ông quen mặt bước qua cửa—Nauss Ancro, đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran. Ông là một người trung niên, trang bị từ đầu đến chân trong bộ giáp bạc sáng bóng.
-
-Dù người lính gác đã quay trở lại vị trí trực, anh ta đã kể cho chúng tôi trên đường tới đây rằng Nauss là người đứng đầu Gia tộc Ancro và có danh tiếng rất tốt trong giới quý tộc. Dù vậy, ông không hẳn là người có quyền thế lớn về mặt tầm ảnh hưởng, xét về mức độ nổi tiếng thì còn xếp sau Phó Vương Công tước Lukas Bader; Hầu tước Marcel Viesel, người đứng đầu phe cánh Đệ Nhất Hoàng Tử; và Nữ Bá tước Gisel Georgiou thuộc phe cánh Đệ Nhất Công Chúa. Ông không có chiến tích nào đặc biệt nổi trội, nhưng ai nấy đều biết ông là một con người trung thành và có phẩm hạnh tốt.
-
-Dù tôi từng nghe danh những quý tộc khác mà người lính gác liệt kê, tôi lại không nhớ mình từng nghe thấy tên của Nauss thường xuyên cho lắm. Cho dù giới mạo hiểm giả chúng tôi yêu tự do và ghét bỏ quyền uy, nhưng xét tới việc chúng tôi phải sinh sống trên đất nước này, chúng tôi không thể tránh khỏi việc tiếp xúc với giới quý tộc hoặc những người có quan hệ với họ theo cách này hay cách khác. Chúng tôi thỉnh thoảng vẫn bàn tán về giới quý tộc, song tôi không nhớ Nauss từng được nhắc tới trong những cuộc trò chuyện đó.
-
-Vả lại, Maalt nằm cách rất xa vương đô nên chúng tôi hiếm khi có lý do để bàn luận về những chuyện kiểu này. Họa hoằn lắm thì nửa năm một lần chúng tôi mới thảo luận về chúng. Dù vậy, tôi đoán Lorraine có lẽ là một ngoại lệ, và khi tôi liếc nhìn sang cô, nét mặt cô cho tôi biết cô đã nắm được những thông tin cơ bản về Nauss từ trước. Lý do cô không đề cập điều gì là bởi dựa trên những gì người lính gác kể với tôi, Nauss không phải mẫu người gây khó chịu hay đáng chê trách. Hoặc có lẽ Lorraine muốn để tôi tự mình đánh giá về Nauss.
-
-Tôi không rõ về Augurey, nhưng có lẽ anh ta đã tìm hiểu về Nauss trong lúc chúng tôi bận rộn ở Maalt, và họ thậm chí có thể đã gặp nhau trong khoảng thời gian đó. Việc Augurey không đưa ra bất kỳ lời cảnh báo nào cho chúng tôi trước cuộc gặp cho tôi biết Nauss không phải người quá khắt khe về các vấn đề lễ nghi phép tắc. Vả lại cũng đâu phải Lorraine và tôi hoàn toàn thô lỗ hay thiếu hiểu biết về quy củ. Nếu Augurey đi cùng những mạo hiểm giả thô kệch hơn, anh ta có lẽ đã đưa ra vài lời chỉ dẫn về cách hành xử hay ăn nói trước mặt giới quý tộc rồi.
-
-"Thưa ngài Ancro. Đúng như đã hứa, tôi đã đưa họ tới hoàng cung," Augurey cất lời đầy trịnh trọng.
-
-Nauss hẳn chính là người đã liên tục hối thúc Augurey về chuyến ghé thăm này. Trong khi Augurey tự tin làm ra vẻ mọi chuyện đều diễn ra đúng như dự liệu, thì sự thật là Augurey chỉ đang phét lác và câu giờ. Dù vậy, cử chỉ và giọng điệu của anh ta không hề để lộ chút sơ hở nào. Trên thực tế, chúng chứng minh rằng Augurey là một diễn viên giỏi đến bất ngờ. Cơ mà anh ta vốn luôn có xu hướng vung tay múa chân khoa trương và ăn nói hùng hồn như một nghệ sĩ biểu diễn. Theo nghĩa đó, có lẽ anh ta chỉ đang thể hiện đúng những gì người ta có thể trông đợi ở mình mà thôi.
-
-"Augurey, tôi phải xin lỗi vì đã hoài nghi cậu. Cậu cũng phải thông cảm cho tôi chứ. Mọi chuyện khi ấy quá mơ hồ—từ ngày hai người họ tới nơi, nơi họ sinh sống, cho đến cả danh tính của họ. Chắc chắn cậu đâu thể trách tôi khi tự hỏi liệu có uẩn khúc gì đằng sau tất cả những chuyện đó hay không."
-
-Tùy vào người nghe, lời xin lỗi của Nauss có thể nghe như một sự xúc phạm bóng gió, và hầu hết thường dân sẽ phải dập đầu tạ tội trước mặt ông vào lúc này, nhưng một lần nữa, Augurey vẫn duy trì phong thái lịch lãm đầy tự tin của mình.
-
-"Có lý lắm, thưa ngài. Dù sao thì hiện tại hai người họ đã có mặt ở đây rồi. Nếu họ có điều gì phải giấu giếm, họ đã chẳng tìm đến một nơi như thế này."
-
-Thực ra, tôi có cả đống thứ đang phải che giấu. Chẳng hạn như việc tôi là một ma vật và là Undead. Rằng tôi quen biết Ma Cà Rồng. Và rằng tôi có phương thức di chuyển tức thời tới vương đô. Tôi khá chắc bất kỳ điều nào trong số đó cũng đủ để tôi phải nhận án tử hình, hoặc có khi còn tệ hơn thế—chứ đừng nói là khi gộp tất cả chúng lại với nhau. Dẫu vậy, Lorraine và tôi vẫn giữ vẻ mặt điềm tĩnh và gật đầu phụ họa theo cuộc trò chuyện của họ.
-
-Nauss mỉm cười với Augurey rồi đáp: "Quả thực, cậu nói rất đúng. Hoàng cung này được trang bị rất nhiều tầng phòng hộ. Một kẻ tội phạm không thể dễ dàng bước vào, và chúng tôi thậm chí còn có những ma cụ có thể phát hiện tà niệm. Tôi e là mình không thể tiết lộ bất kỳ chi tiết cụ thể nào, nhưng nhiều tầng bảo vệ khác cũng đang cùng có hiệu lực. Việc cả ba vị có mặt ở đây bất chấp những điều đó chính là bằng chứng cho thấy các vị không có điều gì phải giấu giếm hay hổ thẹn cả."
-
-Đúng là tôi không phải tội phạm, và tôi chẳng hề có ý định hãm hại bất kỳ ai trong hoàng cung. Tôi không biết họ còn thiết lập những biện pháp dò tìm nào khác, nhưng vì chúng không phản ứng với tôi, điều đó đồng nghĩa với việc Nauss đã nói đúng. Còn về phần dò tìm ma vật, chẳng hiểu vì lý do gì, nó chỉ đơn giản là không hề phản ứng với tôi.
-
-Đó là vấn đề lớn nhất, nhưng chúng tôi đâu thể mở miệng bảo rằng: "Này, tôi là ma vật đấy, thế mà thiết bị của các người lại chẳng có chút phản ứng nào. Các người nên đổi nhà cung cấp thiết bị đi thôi! Nếu đặt mua ngay bây giờ, đại nhà giả kim Lorraine Vivie sẽ rất sẵn lòng cung cấp cho các người một bộ thiết bị ma pháp dò tìm ma vật được chế tạo theo nguyên lý hoàn toàn mới với giá chỉ năm đồng xu bạch kim! Chỉ năm đồng xu bạch kim thôi, quá hời đúng không nào! Và nếu các người mua ngay lúc này..."
-
-Chúng tôi đâu phải mấy kẻ bán hàng rong chèo kéo khách ngoài phố. Ý tôi là, trước đây tôi từng vài lần mắc bẫy những chiêu trò chào hàng kiểu đó và rốt cuộc lại mua phải những thứ không cần thiết. Dù vậy, không có món nào là trò lừa đảo lớn cả. Nó giống như việc nhận ra "giá khuyến mãi" thực chất chỉ là giá thông thường, hay món đồ nhỏ hơn một chút so với bình thường—toàn là những chuyện cỏn con vụn vặt như thế.
-
-"Rất đúng ạ. Giờ thì, thưa ngài Ancro, nếu được, hôm nay chúng tôi chỉ muốn bày tỏ lòng kính trọng với ngài rồi xin phép cáo lui thôi ạ," Augurey thản nhiên nói.
-
-Về cơ bản anh ta đang hỏi xem liệu chúng tôi có thể rời đi được chưa. Về phần mình, sẽ là dễ dàng nhất cho chúng tôi nếu hóa ra tất cả những gì họ muốn chỉ là thấy mặt chúng tôi ở hoàng cung rồi để chúng tôi đi, nhưng...
-
-"Đâu thể như vậy được. Chúng tôi vẫn chưa kịp cảm tạ các vị đàng hoàng mà. Hơn nữa Điện Hạ vẫn hằng mong mỏi được gặp lại ba người. Bản thân tôi, Nauss Ancro, chắc chắn sẽ chẳng còn mặt mũi nào tiếp tục mang tước vị hầu tước nếu cứ thế để các vị rời đi."
-
-Chà, thế là tiêu tan hy vọng đó rồi. Dĩ nhiên, đây luôn là kết cục có khả năng xảy ra nhất, và Augurey cũng đâu có xin phép cáo lui với kỳ vọng rằng chúng tôi sẽ được cho đi, nhưng Augurey thực sự rất giỏi trong việc giăng ra những cái bẫy đối thoại kiểu này. Về cơ bản anh ta có thể gài bẫy khiến người ta đồng ý cho phép điều gì đó trước khi kịp suy nghĩ thấu đáo. Dù vậy, rõ ràng chiêu đó chẳng thể phát huy tác dụng với một quý tộc vốn đã quen đối phó với những màn chơi chữ tinh vi như thế mỗi ngày. Chết tiệt thật. Chiêu đó hiệu quả đến thế với mấy gã mạo hiểm giả đơn thuần mà!
-
-"Ngài quá lời rồi ạ. Vậy tiếp theo chúng tôi sẽ được yết kiến Điện Hạ chứ ạ?" Augurey hỏi.
-
-"Đúng theo kế hoạch là vậy. Không cần phải căng thẳng đâu. Như tôi đã nói trước đây, Điện Hạ là một thiếu nữ hiểu chuyện và hòa nhã."
-
-Điều đó thể hiện rõ qua việc cô bé sẵn lòng cất công mời các mạo hiểm giả tới hoàng cung chỉ để cảm ơn họ. Chỉ là dưới góc nhìn của chúng tôi, việc có mặt ở đây hơi phiền phức một chút theo tiêu chuẩn của giới mạo hiểm giả. Dù vậy, đây chỉ đơn thuần là sự khác biệt về thế giới quan, và chúng tôi thực sự chẳng thể làm gì được về điều đó.
-
-Nếu có thể, tôi từng hy vọng nàng công chúa sẽ đủ hòa nhã để cứ thế cho chúng tôi về nhà, nhưng giờ thì tôi chẳng dám ôm hy vọng về điều đó nữa rồi.
+Nói rồi, anh ta lịch sự dẫn chúng tôi đến tận lối vào hoàng cung.
 
 ◆◇◆◇◆
 
-Nauss gõ nhẹ lên một cánh cửa khổng lồ. "Xin thứ lỗi, thưa Điện Hạ. Là tôi, Nauss đây ạ. Tôi đã đưa các vị khách tới cho người rồi."
+"A. Tôi nghe báo cuối cùng các cậu cũng chịu đến, quả nhiên là tới thật rồi!"
 
-Ở hai bên cánh cửa là hai kỵ sĩ to lớn trang bị đầy đủ đang đứng gác. Chúng tôi đứng thẳng tắp như khúc gỗ phía sau Nauss nhằm cố tỏ ra ít gây chú ý nhất có thể. Không, khoan đã... chỉ có một mình tôi làm thế. Cả Lorraine lẫn Augurey dường như chẳng hề bối rối chút nào. Họ đều thư thái và hành xử không khác gì ngày thường.
+Trong lúc chúng tôi ngồi chờ tại một phòng tiếp khách cấp thấp của hoàng cung, cánh cửa bỗng bật mở, và cùng với lời chào niềm nở, một người đàn ông quen mặt bước vào: Nauss Ancro, Đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran. Đó là một người đàn ông trung niên, khoác trên mình bộ giáp bạc sáng loáng từ đầu đến chân.
 
-Họ đã quen với việc diện kiến hoàng tộc rồi sao? Giờ nghĩ lại thì cả hai đều là mạo hiểm giả Ngân Cấp, nên có lẽ trước đây họ từng làm việc trực tiếp cho các đại quý tộc rồi cũng nên. Điều đó nhắc nhở tôi về khoảng cách kinh nghiệm chênh lệch quá lớn giữa họ và tôi.
+Tuy anh lính gác đã quay về vị trí trực, nhưng trên đường dẫn chúng tôi tới đây, anh ta đã kịp kể rằng Nauss là người đứng đầu Gia tộc Ancro và rất có uy tín trong giới quý tộc. Dù vậy, thế lực của ông không hẳn quá lớn, xét về độ nổi danh thì còn xếp sau Phó Vương kiêm Công tước Lukas Bader, Hầu tước Marcel Viesel đứng đầu phe Đệ Nhất Hoàng Tử, và Nữ Bá tước Gisel Georgiou bên phe Đệ Nhất Công Chúa. Ông không có thành tích nào quá đỗi nổi bật, nhưng lại được tiếng là người trung thành và có phẩm hạnh tốt.
 
-Chà, không hẳn là điều đó khiến tôi bận tâm quá nhiều, nhưng tôi thực sự cần phải sớm lên Ngân Cấp mới được. Dạo gần đây vì có quá nhiều chuyện xảy ra nên tôi chưa thể nhận đủ số lượng ủy thác để đáp ứng điều kiện tiên quyết cho kỳ thi thăng hạng, nhưng tôi nghĩ khi nào có thời gian rảnh rỗi, mình nên nhận một loạt ủy thác để có thể nộp đơn đăng ký dự thi. Đúng khoảnh khắc ấy, tôi đã tự thề với lòng mình rằng mình sẽ làm như vậy.
+Dù tôi từng nghe danh những quý tộc mà anh lính gác vừa liệt kê, tôi lại không nhớ mình từng nghe ai nhắc nhiều đến cái tên Nauss. Đám mạo hiểm giả chúng tôi tuy chuộng tự do và ghét bị trói buộc bởi quyền uy, nhưng sống trên đất nước này thì kiểu gì cũng phải dính dáng đến giới quý tộc hay thân thích của họ bằng cách này hay cách khác. Thỉnh thoảng chúng tôi vẫn đem chuyện quý tộc ra bàn tán, song tôi chẳng nhớ cái tên Nauss từng xuất hiện trong những buổi trò chuyện đó bao giờ.
 
-Tôi không chắc liệu thực lực của mình có đủ sức vượt qua kỳ thi hay không, nhưng nếu không thử sức thì tôi sẽ chẳng bao giờ biết được. Ý tôi là, hiện tại tôi đã có thể đối phó với ma vật Ngân Cấp, và tùy tình huống, tôi thậm chí còn hạ gục được cả ma vật Kim Cấp như Tarasque—vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là bởi việc đó đòi hỏi sự chuẩn bị đặc biệt để đối phó với nọc độc của nó, trong khi tôi lại tình cờ miễn nhiễm với các loại độc tố. Chính vì thế tôi mới nghĩ mình có lẽ đang ở tầm trình độ Ngân Cấp. Hoặc cũng có thể tôi chỉ mới đương cự được với ma vật Thượng Đồng Cấp mà thôi. Tôi chẳng hề tự tin tuyệt đối về điều đó.
+Vả lại, Maalt nằm cách vương đô quá xa nên chúng tôi hiếm khi có cớ để bàn tán mấy chuyện kiểu này, họa hoằn lắm nửa năm mới nhắc tới một lần. Có điều tôi đoán Lorraine hẳn là ngoại lệ. Khi tôi liếc sang, vẻ mặt cô ấy cho thấy cô đã nắm được những điều cơ bản về Nauss từ trước. Sở dĩ cô không nói gì có lẽ vì theo lời anh lính gác kể, Nauss chẳng phải kẻ khó ưa hay đáng ngại gì cho cam. Hoặc cũng có thể Lorraine muốn để tôi tự mình quan sát và đánh giá.
 
-Trong lúc tôi đang tự nghi ngờ bản thân, có tiếng người đáp lại từ phía bên kia cánh cửa.
+Tôi không rõ về Augurey, nhưng có lẽ anh ta đã tìm hiểu về Nauss trong lúc chúng tôi còn bận bịu ở Maalt, thậm chí khéo hai người họ đã gặp nhau rồi cũng nên. Thấy Augurey chẳng hề dặn dò chúng tôi điều gì trước cuộc gặp, tôi đoán Nauss không phải người quá câu nệ lễ nghi phép tắc. Vả lại Lorraine và tôi đâu đến mức thô lỗ hay không biết điều. Nếu đi cùng mấy tay mạo hiểm giả cục mịch hơn, chắc Augurey đã phải chỉ dẫn từng ly từng tí về cách ăn nói, đi đứng trước mặt quý tộc rồi.
+
+"Thưa ngài Ancro. Đúng như đã hứa, tôi đã đưa họ tới hoàng cung rồi đây," Augurey dõng dạc nói.
+
+Chắc hẳn Nauss chính là người đã liên tục hối thúc Augurey về chuyến ghé thăm này. Trong khi Augurey tỏ ra đầy tự tin như thể mọi việc đều nằm trong tính toán, thì thực tế là gã chỉ giỏi phét lác để câu giờ. Ấy thế mà cử chỉ cùng giọng điệu của gã lại chẳng để lộ chút sơ hở nào, chứng tỏ Augurey là một diễn viên cừ khôi đến không ngờ. Vốn dĩ gã lúc nào cũng hay vung tay múa chân khoa trương rồi ăn nói hùng hồn như diễn viên kịch. Xét theo nghĩa đó, khéo gã chỉ đang thể hiện đúng những gì người ta trông đợi ở mình mà thôi.
+
+"Augurey, tôi phải xin lỗi vì đã nghi ngờ cậu rồi. Cậu cũng phải thông cảm cho tôi chứ. Mọi chuyện khi ấy quá đỗi mơ hồ, từ ngày hai người họ tới nơi, nơi ăn chốn ở, cho đến cả tên tuổi của họ. Cậu hẳn không thể trách tôi khi cứ băn khoăn liệu có uẩn khúc gì đằng sau tất cả những chuyện đó."
+
+Tùy người nghe, lời xin lỗi của Nauss có thể nghe chẳng khác nào một lời xỏ xiên bóng gió, và phần lớn thường dân lúc này chắc đã quỳ mọp xuống van xin tha thứ, thế nhưng Augurey vẫn giữ nguyên phong thái ung dung, lịch thiệp.
+
+"Ngài nói chí phải, thưa ngài. Dù sao thì giờ hai người họ cũng đã có mặt ở đây rồi. Nếu có điều gì mờ ám, đời nào họ lại chịu tìm đến một nơi như thế này."
+
+Thực ra tôi có cả đống điều phải giấu giếm ấy chứ. Chẳng hạn như việc tôi là một con quái vật, lại còn là Undead. Rằng tôi quen biết Ma Cà Rồng. Hay việc tôi có cách dịch chuyển tức thời tới vương đô. Tôi khá chắc chỉ riêng một điều trong số đó thôi cũng đủ để tôi lãnh án chém đầu, thậm chí còn tệ hơn, huống chi là gộp tất cả lại với nhau. Dẫu vậy, Lorraine và tôi vẫn giữ vẻ mặt tỉnh bơ, gật đầu phụ họa theo câu chuyện của hai người họ.
+
+Nauss mỉm cười với Augurey rồi đáp: "Quả thực cậu nói rất đúng. Hoàng cung này được bố trí vô số lớp phòng hộ. Tội phạm không thể nào dễ dàng lọt vào đây được, chúng tôi thậm chí còn có cả ma cụ phát hiện ác ý. Tôi e là mình không thể tiết lộ chi tiết cụ thể, nhưng còn rất nhiều tầng bảo vệ khác cũng đang cùng hoạt động. Việc cả ba vị có mặt ở đây bất chấp những điều đó chính là bằng chứng cho thấy các vị chẳng có điều gì phải giấu giếm hay hổ thẹn cả."
+
+Đúng là tôi không phải tội phạm, và tôi cũng chẳng có ý định hãm hại ai trong hoàng cung này. Tôi không rõ họ còn bố trí thêm những phép dò tìm nào khác, nhưng vì chúng chẳng hề phản ứng gì với tôi, nghĩa là Nauss nói đúng. Còn về phần dò tìm quái vật, chẳng hiểu vì lý do gì mà nó cũng trơ ra trước sự hiện diện của tôi.
+
+Đó mới là vấn đề lớn nhất, nhưng đời nào chúng tôi lại mở mồm bảo: "Này, tôi là quái vật đấy, thế mà đồ dò tìm của các ông chẳng buồn réo một tiếng. Nên đổi bên cung cấp thiết bị đi thôi! Nếu liên hệ ngay hôm nay, nhà giả kim vĩ đại Lorraine Vivie sẽ rất sẵn lòng cung cấp cho quý ngài một bộ ma cụ dò tìm quái vật được chế tạo theo nguyên lý hoàn toàn mới với giá chỉ vỏn vẹn năm đồng bạch kim! Đúng vậy, chỉ năm đồng bạch kim thôi, quá hời phải không nào! Chưa hết, nếu quý ngài đặt mua ngay lúc này..."
+
+Chúng tôi đâu phải mấy tay bán hàng rong chèo kéo ngoài phố. Nói thật, trước đây tôi cũng từng vài lần cắn câu mấy lời chào mời kiểu ấy mà rước về những thứ chẳng để làm gì. Dù vậy, cũng chẳng có vụ nào là lừa đảo quy mô lớn. Đại loại chỉ là sau khi mua về mới ngớ người nhận ra "giá đại hạ giá" thực chất cũng chỉ bằng giá ngày thường, hoặc món đồ bé hơn bình thường một chút, toàn mấy trò mánh lới vặt vãnh như thế cả.
+
+"Đúng là vậy. Giờ thì, thưa ngài Ancro, nếu có thể thì hôm nay chúng tôi chỉ muốn ghé qua chào hỏi ngài một tiếng rồi xin phép ra về luôn," Augurey thản nhiên nói.
+
+Nói trắng ra là gã đang dọ ý xem chúng tôi đã về được chưa. Về phía chúng tôi, nếu hóa ra họ chỉ muốn thấy mặt chúng tôi ở hoàng cung rồi cho về luôn thì nhẹ cả người, nhưng mà...
+
+"Đâu thể làm thế được. Chúng tôi vẫn chưa kịp cảm tạ các vị đàng hoàng mà. Hơn nữa Điện Hạ vẫn luôn mong ngóng được gặp lại cả ba người. Bản thân tôi, Nauss Ancro này, chắc chắn chẳng còn mặt mũi nào mang tước vị hầu tước nếu cứ thế để các vị rời đi."
+
+Thế là tan thành mây khói một tia hy vọng. Dĩ nhiên đây vốn là kết cục dễ đoán nhất, và bản thân Augurey cũng chẳng mong ngóng gì chuyện được thả cho về ngay, cơ mà gã quả thực rất giỏi giăng ra mấy cái bẫy đối thoại kiểu này. Về cơ bản, gã có tài gài người ta gật đầu đồng ý trước khi đối phương kịp suy nghĩ thấu đáo. Khổ nỗi chiêu ấy rõ ràng chẳng thể phát huy tác dụng với một quý tộc đã nhẵn mặt với những màn đối đáp tinh vi mỗi ngày. Chán thật chứ, bình thường chiêu đó dùng với mấy gã mạo hiểm giả đầu óc đơn giản hiệu quả lắm cơ mà!
+
+"Ngài quá lời rồi, thưa ngài. Vậy tiếp theo chúng tôi sẽ được yết kiến Điện Hạ chứ?" Augurey hỏi.
+
+"Đúng theo kế hoạch là vậy. Không cần phải căng thẳng đâu. Như tôi từng nói trước đây, Điện Hạ là người rất hiểu chuyện và hòa nhã."
+
+Điều đó thấy rõ qua việc công chúa sẵn lòng cất công mời mấy mạo hiểm giả vào hoàng cung chỉ để nói lời cảm ơn. Ngặt một nỗi, dưới góc nhìn của mạo hiểm giả chúng tôi, việc phải bước chân vào chốn này lại có phần phiền toái. Song đây chỉ đơn thuần là khoảng cách biệt về thế giới quan, và chúng tôi cũng đành chịu chứ chẳng thay đổi được gì.
+
+Nếu được thì tôi chỉ mong công chúa đại lượng cho chúng tôi về thẳng nhà, nhưng giờ thì tôi chẳng dám mơ mộng tới chuyện đó nữa rồi.
+
+◆◇◆◇◆
+
+Nauss khẽ gõ lên cánh cửa lớn: "Xin phép Điện Hạ. Là tôi, Nauss đây. Tôi đã đưa khách tới gặp người rồi."
+
+Đứng gác hai bên cánh cửa là hai kỵ sĩ vạm vỡ mang giáp trụ đầy đủ. Tôi đứng thẳng đuỗn người sau lưng Nauss, cố làm ra vẻ ít gây chú ý nhất có thể. À không, khoan đã... chỉ có mỗi mình tôi làm thế. Cả Lorraine lẫn Augurey trông chẳng có vẻ gì là bối rối. Họ hoàn toàn thư thái, phong thái tự nhiên chẳng khác gì ngày thường.
+
+Chẳng lẽ hai người họ đã quen với việc gặp gỡ hoàng tộc rồi sao? Giờ nghĩ kỹ lại, cả hai đều là mạo hiểm giả Ngân Cấp, nên chắc hẳn trong quá khứ từng trực tiếp làm việc cho các đại quý tộc rồi cũng nên. Điều đó làm tôi thấm thía khoảng cách kinh nghiệm vời vợi giữa họ và mình.
+
+Nói là vậy chứ tôi cũng chẳng để bụng chuyện đó làm gì, chỉ là tôi thực sự cần phải sớm lên Ngân Cấp mới được. Dạo gần đây xảy ra bao nhiêu biến cố nên tôi chưa nhận đủ số lượng ủy thác cần thiết để đạt điều kiện dự kỳ thi thăng hạng, nhưng tôi nhủ bụng hễ có chút thời gian rảnh là phải cày một lèo thật nhiều ủy thác để đủ điều kiện nộp đơn. Ngay khoảnh khắc ấy, tôi đã thầm thề với lòng mình như vậy.
+
+Tôi không dám chắc thực lực của mình có đủ đỗ kỳ thi hay không, nhưng chưa thi thì làm sao biết được. Ý tôi là, giờ đây tôi đã có thể đối phó với quái vật Ngân Cấp, thậm chí tùy tình huống còn hạ được cả quái vật Kim Cấp như Tarasque, loài vốn chỉ dành cho mạo hiểm giả từ Kim Cấp trở lên. Một phần là nhờ việc đó đòi hỏi phải chuẩn bị đặc biệt để chống lại nọc độc của nó, mà tôi thì tình cờ lại miễn nhiễm với mọi loại độc. Vì thế tôi mới nghĩ thực lực mình chắc cũng ngấp nghé tầm Ngân Cấp. Hoặc biết đâu tôi cũng chỉ mới đấu nổi quái vật Thượng Đồng Cấp mà thôi. Bản thân tôi cũng chẳng mấy tự tin vào chuyện này.
+
+Trong lúc tôi còn đang mải băn khoăn về thực lực của mình, có tiếng người đáp lại từ phía bên kia cánh cửa:
 
 "Nauss, vào đi."
 
-"Vậy xin phép người," Nauss nói rồi mở cửa. Ông bước vào trước, sau đó giữ cửa và ra hiệu cho chúng tôi đi theo, thế là chúng tôi lần lượt bước vào phòng sau ông.
+"Vậy xin phép người," Nauss nói rồi đẩy cửa bước vào. Ông giữ cánh cửa mở và ra hiệu cho chúng tôi theo sau, thế là cả nhóm nối đuôi nhau bước vào phòng.
