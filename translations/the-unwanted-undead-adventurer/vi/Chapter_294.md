@@ -98,7 +98,7 @@ Nét mặt tuyệt vọng của Rivul giãn ra đôi chút, rồi cậu ấy nho
 
 ◆◇◆◇◆
 
-Rivul và tôi chuyển sang chỗ khác, ngồi vào một bàn trong quán rượu liền kề với Hội. Sheila dặn chúng tôi cứ gọi cô ấy nếu tôi quyết định nhận việc, rồi rời đi bắt tay vào công việc khác. Xem chừng hôm nay cô ấy chủ yếu trực quầy tiếp tân, nhưng nếu ở Maalt ngày trước chẳng cần làm thêm việc gì, thì dạo này chuyện đó không còn nữa. Hàng đống công việc đang chờ giải quyết, và ai rảnh tay đều có trách nhiệm phụ giúp, bất kể thuộc bộ phận nào.
+Rivul và tôi chuyển sang chỗ khác, ngồi vào một bàn trong quán rượu liền kề với Hội. Sheila dặn chúng tôi cứ gọi cô ấy nếu tôi quyết định nhận việc, rồi rời đi bắt tay vào công việc khác. Xem chừng hôm nay cô ấy chủ yếu trực quầy tiếp tân, nhưng nếu như ở Maalt ngày trước, cô ấy chẳng phải làm thêm việc gì khác, thì dạo này đâu còn được thế nữa. Hàng đống công việc đang chờ giải quyết, và ai rảnh tay đều có trách nhiệm phụ giúp, bất kể thuộc bộ phận nào.
 
 Hèn chi Wolf cũng tìm cách lôi kéo tôi giúp sức, mà ban nãy hình như tôi thấy quầng thâm dưới mắt Sheila thì phải?
 
@@ -110,7 +110,7 @@ Rivul nở nụ cười gượng gạo. "A, anh nghe thấy rồi sao? Vâng, đ
 
 Khô Lâu.
 
-Tim tôi khẽ xốn xang. Đó chính là những đối thủ tôi đang đỏ mắt tìm kiếm để thử thanh kiếm mới. Đây là cơ hội tốt để kiểm tra xem chuyện gì sẽ xảy ra nếu chém chúng bằng một lưỡi kiếm ngập tràn Thần Lực. Tôi sẽ rất chán nản nếu nó hoàn toàn vô tác dụng... nhưng nếu thế thật thì tôi cũng chỉ biết giơ tay chịu trói. Ít ra tôi cũng biết được làm vậy là vô ích.
+Tim tôi khẽ xốn xang. Đó chính là những đối thủ tôi đang đỏ mắt tìm kiếm để thử thanh kiếm mới. Đây là cơ hội tốt để kiểm tra xem chuyện gì sẽ xảy ra nếu chém chúng bằng một lưỡi kiếm ngập tràn Thần Lực. Tôi sẽ rất chán nản nếu nó hoàn toàn vô tác dụng... nhưng nếu thế thật thì cũng đành chịu. Ít ra tôi cũng biết được làm vậy là vô ích.
 
 Dù sao đi nữa, câu chuyện của Rivul nghe chừng đáp ứng trọn vẹn cả hai nhu cầu của tôi: thử kiếm mới và nhận ủy thác. Dù tôi biết nó chẳng mấy hấp dẫn với các mạo hiểm giả khác, bởi Khô Lâu không phải mục tiêu béo bở gì. Chúng là loài quái vật hạng bét lúc nào cũng có thể tìm thấy trong Mê Cung Nguyệt Ảnh, mà thứ thu được từ chúng chỉ có Ma Tinh và mấy mẩu xương cứng hơn bình thường một chút. Chẳng có lý do chính đáng nào để người ta phải lặn lội ra tận ngoài xa xôi mà săn chúng.
 
@@ -136,4 +136,4 @@ Cả hai chúng tôi cùng rơi vào một thoáng ngậm ngùi đồng cảm ch
 
 "Được chứ." Sau một thoáng ngập ngừng, Rivul bắt đầu cất lời kể câu chuyện của mình.
 
-"Ngôi làng tôi đang sống... à thì, từng sống chẳng có gì đặc biệt cả, nhưng nó rất yên bình và tĩnh lặng..."
+"Ngôi làng tôi đang sống... à không, từng sống... chẳng có gì đặc biệt cả, nhưng rất yên bình và tĩnh lặng..."

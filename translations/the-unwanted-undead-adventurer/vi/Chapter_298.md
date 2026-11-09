@@ -34,7 +34,7 @@ Hẳn là Alvina đã nhận ra hướng suy nghĩ của tôi, bởi bà ấy kh
 
 "Tôi hiểu rồi..."
 
-Có chút thoáng buồn phảng phất trong giọng nói của Alvina. Thời còn trẻ, bà ấy từng là một mạo hiểm giả có chút tiếng tăm.
+Giọng Alvina phảng phất chút buồn. Thời còn trẻ, bà ấy từng là một mạo hiểm giả có chút tiếng tăm.
 
 Hồ nước này nằm trên đỉnh một ngọn núi đá, muốn lên tới đây thì phải leo qua những vách đá dựng đứng. Cũng vì thế, ngoại trừ vài loài chim chóc, chẳng có loài thú lớn nào sinh sống quanh vùng này. Đã vậy, nhờ sự hiện diện đầy bí ẩn của Thần Lực, quái vật cũng chẳng thể bén mảng lại gần.
 
@@ -88,7 +88,7 @@ Tôi kể lại cho bà ấy những gì nó đã nói với mình—tất nhiê
 
 Bà ấy gật đầu. "Hừm. Chà, ta cũng không ngạc nhiên lắm. Nghe đâu nó cũng từng nói chuyện với một trong những tổ tiên của ta."
 
-"Bà nói trước với tôi chuyện đó rồi hẵng bảo tôi lặn xuống cái hồ có con cá biết nói chứ..." tôi cằn nhằn.
+"Chuyện đó lẽ ra bà phải nói trước khi bảo tôi lặn xuống cái hồ có con cá biết nói chứ..." tôi cằn nhằn.
 
 "Nó đã nói gì với vị tổ tiên đó vậy?"
 

@@ -60,9 +60,9 @@ Vấn đề nan giải dĩ nhiên là nhóm dân làng... Tôi phải hạ con K
 
 Chắc chắn con cầm cung là mối nguy hiểm lớn nhất đối với dân làng. Vấn đề là phải xử lý nó thế nào. Đúng chuẩn chiến thuật sách giáo khoa, xạ thủ đứng ở vị trí bọc hậu, mà vì chúng lại đứng giữa bãi đất trống trải nên rất khó để vòng ra sau lưng tiếp cận.
 
-Tôi từng thoáng nghĩ hay là cứ phó mặc cho may rủi, nhưng làm vậy rủi ro quá lớn—không phải cho tôi, mà là cho nhóm dân làng.
+Tôi đã thoáng nghĩ hay là cứ phó mặc cho may rủi, nhưng làm vậy rủi ro quá lớn—không phải cho tôi, mà là cho nhóm dân làng.
 
-Trong tình thế này, đó dường như là lựa chọn duy nhất... nếu chỉ nhìn thoáng qua. Cơ sự đã đến nước này, tôi nghĩ đã đến lúc thử một cách mình chưa quen tay lắm nhưng tin là sẽ thành công.
+Có điều xét tình thế này, phó mặc may rủi có vẻ là lựa chọn duy nhất... nếu chỉ nhìn thoáng qua. Cơ sự đã đến nước này, tôi nghĩ đã đến lúc thử một cách mình chưa quen tay lắm nhưng tin là sẽ thành công.
 
 Thật ra khi truyền Thần Lực vào thanh kiếm lúc trước, tôi đã cảm nhận được một phản hồi khá lạ kỳ—chính nó đã gợi cho tôi một ý tưởng. Để kiểm chứng, tôi truyền Thần Lực qua kiếm lần nữa... và cảm giác ấy lại ùa về. Tôi khá tin chắc mình có thể làm được việc này.
 
@@ -152,7 +152,7 @@ Con Khô Lâu Binh tỏ ra vô cùng điềm tĩnh. Tôi tự hỏi liệu thờ
 
 Một ví dụ điển hình là khi người có thực lực đáng kể chết đi trong nỗi oán hận khôn nguôi hay sự tiếc nuối khôn cùng. Chuyện những người như thế biến thành Undead mang sức mạnh đáng sợ không phải là hiếm gặp.
 
-Đôi lúc tôi cũng thoáng nghĩ hay mình thuộc diện người đó, nhưng những kẻ tái sinh thành Undead vốn chẳng giữ lại chút ký ức nào về quãng đời trước đây mà trở thành những cá thể hoàn toàn mới.
+Đôi lúc tôi cũng thoáng nghĩ hay mình thuộc loại đó, nhưng những kẻ tái sinh thành Undead vốn chẳng giữ lại chút ký ức nào về quãng đời trước đây mà trở thành những cá thể hoàn toàn mới.
 
 Rốt cuộc tôi thực sự là thứ gì chứ? Dù có suy ngẫm bao nhiêu đi nữa, câu trả lời ấy vẫn mãi lẩn tránh tôi. Tất cả những gì tôi có thể làm là tiếp tục chiến đấu với lũ quái vật trước mắt, và một ngày nào đó trở lại làm người...
 

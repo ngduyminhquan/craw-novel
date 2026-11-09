@@ -34,7 +34,7 @@ Cha tôi quay sang Rentt. "Thật thế sao?"
 
 "Ra là vậy... Thế cậu có sẵn lòng bán lại số thảo dược vừa thu hoạch cho chúng tôi không?"
 
-"Ồ không, Ridd mới là người tìm thấy chỗ này. Tôi chỉ chỉ cho nhóc ấy mẹo tìm thôi."
+"Ồ không, Ridd mới là người tìm thấy chỗ này. Tôi chỉ bày cho nhóc ấy mẹo tìm thôi."
 
 "Nhưng riêng kiến thức đó thôi đã vô giá rồi!"
 
@@ -88,7 +88,7 @@ Tôi gật đầu.
 
 "Em phải làm thế nào đây...?"
 
-"Nhóc là con của một thương nhân lữ hành, nên đi qua rất nhiều thị trấn và làng mạc, đúng chứ? Mạo hiểm giả và ma pháp sư đã giải nghệ, hết thời hoặc làm bán thời gian ở khắp mọi nơi—những người có thể chỉ cho nhóc cả cách bào chế các loại hỗn hợp thảo dược đơn giản nữa. Hãy học hỏi từ họ. Cơ mà nhóc sẽ không xin không được nhiều đâu, nên hãy chắc chắn là mình có thứ gì đó để trả công cho thời gian của họ."
+"Nhóc là con của một thương nhân lữ hành, nên đi qua rất nhiều thị trấn và làng mạc, đúng chứ? Ở đâu cũng có những mạo hiểm giả và ma pháp sư đã giải nghệ, sa cơ hoặc chỉ làm bán thời gian—họ còn có thể chỉ cho nhóc cả cách bào chế mấy loại thuốc thảo dược đơn giản nữa. Hãy học hỏi từ họ. Cơ mà chẳng ai dạy không cho nhóc mãi đâu, nên nhớ chuẩn bị thứ gì đó để trả công cho họ."
 
 "Chẳng hạn như thứ gì...?"
 

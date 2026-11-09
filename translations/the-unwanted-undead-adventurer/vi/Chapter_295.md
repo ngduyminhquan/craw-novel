@@ -32,7 +32,7 @@ Dẫu vậy, tôi vẫn khá ngạc nhiên khi người dân ở làng Rivul kh�
 
 "Hừm. Nghe chừng các cậu khá may mắn đấy."
 
-Mà thôi, thỉnh thoảng người ta vẫn bắt gặp những người như thế — những kẻ thật thà đến mức ngờ nghệch. Đó là lý do đôi khi người ta thấy những công việc thù lao một đồng xu đồng được niêm yết ở Hội Mạo Hiểm Giả.
+Mà thôi, thỉnh thoảng người ta vẫn bắt gặp những người như thế—những kẻ thật thà đến mức ngờ nghệch. Đó là lý do đôi khi người ta thấy những công việc thù lao một đồng xu đồng được niêm yết ở Hội Mạo Hiểm Giả.
 
 "Vậy..." tôi nói. "Làng cậu bị quái vật tấn công sao? Cậu bảo là Khô Lâu nhỉ?"
 
@@ -40,7 +40,7 @@ Mà thôi, thỉnh thoảng người ta vẫn bắt gặp những người như 
 
 Chuyện của Rivul cũng là lẽ thường. Có nhiều chủng loài quái vật mà hễ thấy một con là người ta có thể đoan chắc vẫn còn những con khác. Goblin là một ví dụ, và Khô Lâu cũng vậy. Trong mê cung thì khác, nhưng ở thế giới bên ngoài thì quy luật vận hành là như thế.
 
-Lý do là bởi Goblin vốn tự nhiên tụ tập thành bầy và sinh sôi về số lượng, trong khi Khô Lâu lại là Undead — nghĩa là loài quái vật chỉ xuất hiện khi các điều kiện ban đầu hội tụ thuận lợi. Thành thử, sự tồn tại của một con là dấu hiệu rõ ràng cho thấy sẽ còn nhiều con khác kéo đến.
+Lý do là bởi Goblin vốn tự nhiên tụ tập thành bầy và sinh sôi về số lượng, trong khi Khô Lâu lại là Undead—nghĩa là loài quái vật chỉ xuất hiện khi các điều kiện ban đầu hội tụ thuận lợi. Thành thử, sự tồn tại của một con là dấu hiệu rõ ràng cho thấy sẽ còn nhiều con khác kéo đến.
 
 Tôi không thể biết lý do nếu chưa tận mắt chứng kiến, nhưng rõ ràng ở một nơi nào đó quanh vùng phụ cận làng của Rivul, những điều kiện để tạo ra Undead đã hội tụ đủ.
 
@@ -58,7 +58,7 @@ Việc đó sẽ chẳng dễ dàng gì với cái cảnh bận rộn hiện t�
 
 ◆◇◆◇◆
 
-"Chúng ta xuống xe ở đây đúng không anh?" Rivul hỏi rồi ghìm cỗ xe lại. Chúng tôi đang ở một thị trấn phía tây Maalt, nơi có vẻ là điểm gần Làng Crask nhất. Có điều từ đây trở đi, chúng tôi sẽ phải đi bộ — đó là ý của tôi, chứ không phải của Rivul.
+"Chúng ta xuống xe ở đây đúng không anh?" Rivul hỏi rồi ghìm cỗ xe lại. Chúng tôi đang ở một thị trấn phía tây Maalt, nơi có vẻ là điểm gần Làng Crask nhất. Có điều từ đây trở đi, chúng tôi sẽ phải đi bộ—đó là ý của tôi, chứ không phải của Rivul.
 
 Con đường dẫn tới Làng Crask đủ rộng cho một cỗ xe kéo đi lọt, nhưng giữa lúc Khô Lâu đang lảng vảng quanh đây, đi bộ vẫn an toàn hơn kẻo có nguy cơ mất cả xe lẫn ngựa. Tôi có thể bảo vệ an toàn cho Rivul và bản thân mình, nhưng giữ trọn vẹn cả cỗ xe lẫn con vật đi cùng thì tôi không dám chắc. Cậu ấy đã nói với tôi rằng trong số những người đàn ông túc trực canh gác Làng Crask cũng có vài người trẻ, nên việc bỏ lại cỗ xe kéo xem chừng vẫn lợi nhiều hơn hại.
 
@@ -74,7 +74,7 @@ Rivul trông có vẻ sững sờ. "Nhưng lúc tới nơi thì trời tối m�
 
 Anh tính chiến đấu giữa đêm hôm như thế sao? Dù không nói thành lời, nhưng câu hỏi ấy hiện rõ mồn một trên gương mặt cậu ấy.
 
-Câu trả lời của tôi dĩ nhiên là một tiếng "phải" chắc nịch. Xét cho cùng, mắt tôi nhìn trong bóng tối tốt hơn người bình thường rất nhiều — thậm chí nói đúng hơn là hơn hẳn các sinh vật sống nói chung. Về nguyên tắc, chiến đấu vào ban đêm thực ra lại có lợi hơn cho tôi, bởi khi đó phần lớn sinh vật sống gần như bị mù.
+Câu trả lời của tôi dĩ nhiên là một tiếng "phải" chắc nịch. Xét cho cùng, mắt tôi nhìn trong bóng tối tốt hơn người bình thường rất nhiều—thậm chí nói đúng hơn là hơn hẳn các sinh vật sống nói chung. Về nguyên tắc, chiến đấu vào ban đêm thực ra lại có lợi hơn cho tôi, bởi khi đó phần lớn sinh vật sống gần như bị mù.
 
 Có điều lần này tôi lại không định làm thế. Việc tôi muốn đến Làng Crask càng sớm càng tốt xuất phát từ một lý do khác.
 
@@ -86,7 +86,7 @@ Rivul trông đầy xúc động. "Anh sẵn lòng làm đến mức đó vì ch
 
 Rivul lắc đầu. "Không, tôi ổn mà. Tôi ở đây vẫn bình yên vô sự, mọi người ở đằng đó chắc chắn kiệt sức hơn nhiều. Tôi muốn mau chóng đến bên họ và báo rằng mọi chuyện rồi sẽ ổn thôi."
 
-Chắc hẳn cậu ấy cũng thấy mệt mỏi phần nào, nhưng trông không giống như đang gượng gạo giả vờ — quả thực trông cậu ấy vẫn còn thừa thể lực để đi tới làng.
+Chắc hẳn cậu ấy cũng thấy mệt mỏi phần nào, nhưng trông không giống như đang gượng gạo giả vờ—quả thực trông cậu ấy vẫn còn thừa thể lực để đi tới làng.
 
 Tôi gật đầu. "Được rồi. Đi thôi."
 
@@ -98,7 +98,7 @@ Cứ thế, hai chúng tôi rời khỏi thị trấn.
 
 Rivul chỉ về phía khu vực nằm hơi thấp dưới ngọn đồi nhỏ trông xuống ngôi làng bé xíu. Đã vài tiếng trôi qua kể từ khi chúng tôi rời thị trấn lân cận, và màn đêm bắt đầu buông xuống trên bầu trời. Cả thế gian nhuộm một màu cam gắt dưới ánh hoàng hôn, gợi lên nỗi sợ hãi cùng một thoáng bùi ngùi nhớ nhà man mác.
 
-Vị trí Rivul chỉ khuất tầm nhìn từ phía ngôi làng — có lẽ họ dùng ngọn đồi này để quan sát. Chúng tôi lặng lẽ tiến lại gần, và chẳng mấy chốc tôi đã thấy một nhóm năm người đàn ông ngồi túm tụm bên nhau. Quần áo của họ rách rưới như Rivul, mặt mày lấm lem nhếch nhác, và trông ai nấy đều mệt mỏi rã rời.
+Vị trí Rivul chỉ khuất tầm nhìn từ phía ngôi làng—có lẽ họ dùng ngọn đồi này để quan sát. Chúng tôi lặng lẽ tiến lại gần, và chẳng mấy chốc tôi đã thấy một nhóm năm người đàn ông ngồi túm tụm bên nhau. Quần áo của họ rách rưới như Rivul, mặt mày lấm lem nhếch nhác, và trông ai nấy đều mệt mỏi rã rời.
 
 Một người trong số họ nhận ra chúng tôi, nói đúng hơn là nhận ra Rivul, khi hai đứa tiến lại nên quay người về phía này. Lúc nhận ra Rivul rồi nhìn thấy tôi, nét mặt anh ta giãn ra thành một nụ cười nhẹ nhõm nhưng đầy vẻ mỏi mệt.
 

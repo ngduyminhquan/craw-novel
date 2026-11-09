@@ -38,7 +38,7 @@ Tôi gật đầu với Jiris. "Vậy thì tốt quá. Còn những người kh�
 
 Nghe cũng có lý, ở một ngôi làng thưa dân đến thế thì khó lòng có ai chuyên sâu hẳn một nghề. Việc mọi người đều có thể làm được đủ thứ việc, dù không hẳn là quá tinh thông, là chuyện hết sức bình thường.
 
-Nét đặc thù đó trong nếp sống làng quê nhỏ hôm nay lại phát huy tác dụng.
+Hôm nay, chính nếp sống làng quê ấy lại phát huy tác dụng.
 
 "Nếu vậy, tôi có thể nhờ mọi người đứng từ xa bắn tên vào lũ Khô Lâu được không?" tôi hỏi. "Nếu được thì hãy đứng tập trung thành một nhóm."
 
@@ -62,7 +62,7 @@ Chủ đề nhuốm màu chết chóc khiến nhuệ khí của Jiris cùng nh�
 
 "Làm vậy là để lũ Khô Lâu dồn hết sự chú ý về một hướng. Khi chúng quay lưng lại với tôi, việc tiêu diệt chúng sẽ dễ dàng hơn nhiều. Điều này chẳng nói thì ai cũng hiểu... nhưng kế sách này đặt mọi người vào mối nguy hiểm cực kỳ lớn. Bất kỳ ai cũng có thể mất mạng. Dù vậy... mọi người vẫn sẵn lòng làm chứ?"
 
-Dĩ nhiên, dưới sự bảo bọc của tôi thì tuyệt đối không thể để ai thiệt mạng, và tôi cũng thừa tự tin xử lý gọn chỉ năm con Khô Lâu cùng lúc, nhưng đúng là rủi ro không phải bằng không, nên nếu họ từ chối thì tôi cũng chẳng hề bận lòng. Thế nhưng, câu trả lời của Jiris cùng những người khác lại hoàn toàn đúng như tôi dự liệu.
+Dĩ nhiên, có tôi ở đây thì tôi không định để ai phải bỏ mạng, và năm con Khô Lâu cùng lúc tôi cũng thừa sức xử lý gọn, nhưng đúng là rủi ro không phải bằng không, nên nếu họ từ chối thì tôi cũng chẳng hề bận lòng. Thế nhưng, câu trả lời của Jiris cùng những người khác lại hoàn toàn đúng như tôi dự liệu.
 
 "Tất nhiên là chúng tôi sẵn lòng rồi," Jiris nói. "Chúng ta cùng làm thôi, mọi người!"
 

@@ -42,7 +42,7 @@ Còn hình nhân mặc giáp kim loại, tôi vẫn lờ mờ nhận ra hình d�
 
 Phải chăng do tôi là một quái vật thuộc nhánh tiến hóa Ma Cà Rồng? Ngay cả thanh kiếm của tôi cũng có được năng lực rút cạn sinh mệnh của sinh vật sống để kéo dài sự tồn tại cho chính bản thân nó.
 
-Có điều, thật khó nói năng lực ấy sẽ hữu dụng tới mức nào, và dường như nó cũng rất khó vận dụng. Chưa kể, cứ vung một nhát chém lại mọc ra một cái cây hay thứ gì đó tương tự thì quả là một năng lực hơi oái oăm. Khi tôi truyền Thần Lực vào kiếm thì hiện tượng tương tự cũng từng xảy ra, nên chuyện này chẳng đến mức khiến tôi kinh ngạc, nhưng vẫn thấy cấn cấn.
+Có điều, thật khó nói năng lực ấy sẽ hữu dụng tới mức nào, và dường như nó cũng rất khó vận dụng. Chưa kể, cứ vung một nhát chém lại mọc ra một cái cây hay thứ gì đó tương tự thì quả là một năng lực hơi oái oăm. Khi tôi truyền Thần Lực vào kiếm thì hiện tượng tương tự cũng từng xảy ra, nên chuyện này chẳng đến mức khiến tôi kinh ngạc, nhưng vẫn thấy sao sao ấy.
 
 Tôi tự hỏi liệu mình có thể kiểm soát nó ở chừng mực nào đó không. Mà dẫu hiệu ứng có ra sao thì chắc tôi cũng sẽ tự đặt câu hỏi tương tự thôi, thế nên rốt cuộc tất cả chỉ quy về chuyện luyện tập.
 
@@ -52,7 +52,7 @@ Thế nhưng, giờ đây khi đã thực sự có thể kỳ vọng bản thân
 
 Dĩ nhiên, nếu tôi đơn giản là không cường hóa kiếm, hoặc tiếp tục chỉ truyền riêng Khí Lực hay Ma Lực để xoay xở và chỉ dùng các thuật dung hợp khi thật sự nguy cấp, tôi sẽ chẳng phải bận tâm về bất kỳ điều gì trong số đó. Dù sao thì bấy lâu nay tôi vẫn sống sót tới tận đây bằng cách ấy.
 
-Thế nhưng điều duy nhất mà những thành công ấy thực sự chứng minh là tôi đã đủ may mắn để chỉ gặp phải những đối thủ có thể hạ gục bằng những thứ tôi sẵn có. Tôi thừa hiểu những kẻ địch trong tương lai sẽ ngày càng mạnh đến mức các đòn thế ấy chẳng còn đủ gánh vác nữa. Tôi sẽ làm gì khi đụng độ một kẻ như thế mà không còn đường lui ngoài việc tử chiến?
+Thế nhưng điều duy nhất mà những thành công ấy thực sự chứng minh là tôi đã đủ may mắn để chỉ gặp phải những đối thủ có thể hạ gục bằng những thứ tôi sẵn có. Tôi thừa hiểu kẻ địch sau này sẽ ngày càng mạnh, đến mức những đòn thế ấy không còn đủ dùng nữa. Tôi sẽ làm gì khi đụng độ một kẻ như thế mà không còn đường lui ngoài việc tử chiến?
 
 Đó chính là cái giá để vươn tới Mithril Cấp... dẫu tôi hiện tại vẫn còn cách mục tiêu ấy một chặng đường dài.
 
@@ -98,7 +98,7 @@ Lời xin lỗi của Clope nghe vô cùng chân thành, và đó là minh chứ
 
 "Cậu nghĩ thế thật à? Tôi thì nghĩ ngay ra được cả mớ người sẽ nổi máu tò mò trước một trường hợp dị biệt như cậu đấy. Chắc tạng người như cậu tự khắc hút những kẻ như tôi thôi, nên cậu cũng đừng bận tâm làm gì. Cơ mà nếu cậu thật sự thấy cần đền đáp cho tôi, thì cứ mang thêm nhiều món thú vị về đây cho tôi làm. Cậu đưa cái gì tới tôi cũng nhận tuốt."
 
-Đó quả là những lời đáng tin cậy. Với thân xác quái vật này, số người tôi có thể yên tâm đặt rèn vũ khí mà không cần e dè chỉ đếm trên đầu ngón tay. Dù là một bán Ma Cà Rồng với vẻ ngoài chẳng khác nào người thường, tôi vẫn luôn phải sống trong nỗi thấp thỏm triền miên rằng mình có thể bại lộ bất cứ lúc nào. Số người tôi có thể tin tưởng rằng sẽ không giao nộp mình nếu chuyện đó xảy ra, hoặc dẫu họ có giao nộp thì tôi cũng cam lòng, thực sự chỉ đếm trên đầu ngón tay, và Clope là một trong số đó. Nếu trong tầm tay, tôi muốn làm điều gì đó để đáp lại anh ấy. Ý nghĩ ấy thôi thúc những lời tiếp theo của tôi.
+Nghe mà thấy yên lòng hẳn. Với thân xác quái vật này, số người tôi có thể yên tâm đặt rèn vũ khí mà không cần e dè chỉ đếm trên đầu ngón tay. Dù là một bán Ma Cà Rồng với vẻ ngoài chẳng khác nào người thường, tôi vẫn luôn phải sống trong nỗi thấp thỏm triền miên rằng mình có thể bại lộ bất cứ lúc nào. Số người tôi có thể tin tưởng rằng sẽ không giao nộp mình nếu chuyện đó xảy ra, hoặc dẫu họ có giao nộp thì tôi cũng cam lòng, thực sự chỉ đếm trên đầu ngón tay, và Clope là một trong số đó. Nếu trong tầm tay, tôi muốn làm điều gì đó để đáp lại anh ấy. Ý nghĩ ấy thôi thúc những lời tiếp theo của tôi.
 
 "Anh nghĩ thế thì tôi mừng lắm, nhưng tôi vẫn chưa trả ơn được cho anh," tôi nói. "Nếu sau này có việc gì tôi làm được cho anh, anh cứ bảo nhé. Tôi sẽ đi gom bao nhiêu nguyên liệu hiếm anh muốn cũng được, và cả những việc khác nữa."
 
