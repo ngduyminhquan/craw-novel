@@ -509,6 +509,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mors | village of Mors; Mors village | Mors | địa danh | 288 | Ngôi làng nằm dọc theo Đại Lộ Ete gần Maalt |
 | dungeon junk | Dungeon junk; Dungeon Junk | phế phẩm mê cung | vật phẩm | 288 | Phân loại ma cụ thu được từ mê cung nhưng chưa rõ công năng sử dụng |
 | Welfia |  | Welfia | địa danh | 289 | Thành phố mỏ lớn nhất tại Vương Quốc Yaaran, nơi diễn ra kỳ thi thăng hạng Ngân Cấp |
+| sacred sword | sacred swords | thánh kiếm | vật phẩm | 22 | Kiếm thần thánh trong truyền thuyết hoặc mê cung có tri giác lựa chọn chủ nhân (聖剣) |
+| magical sword | magical swords; magic sword; magic swords | ma kiếm | vật phẩm | 22 | Kiếm ma thuật sở hữu năng lực đặc biệt hoặc yểm ma pháp (魔剣) |
 
 
 

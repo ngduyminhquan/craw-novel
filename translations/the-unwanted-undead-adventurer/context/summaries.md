@@ -1005,6 +1005,12 @@ Lorraine về nhà phân loại sách, còn Rentt đến tiệm rèn Ba Chĩa t�
 Clope dặn dò Rentt cẩn thận không để làm gãy thanh kiếm trong quá trình thử nghiệm Thần Ma Khí Dung Hợp Thuật.
 Cảnh kết thúc: Rentt vừa cười thầm vừa bước ra sân trong của tiệm Ba Chĩa để bắt đầu thử nghiệm sức mạnh của món vũ khí mới.
 
+## 291
+Rentt mở bọc vải kiểm tra thanh kiếm mới tại sân trong tiệm Ba Chĩa; thanh kiếm có vân gỗ Thánh Thụ, độ dẻo dai đặc biệt uốn cong như kiếm roi mà không gãy, kèm sắc đỏ tà dị từ máu Ma Cà Rồng kết hợp hoàn hảo với mặt nạ đầu lâu của anh.
+Rentt chém thử các hình nhân gỗ, rơm và giáp sắt; thanh kiếm chém ngọt lịm không tì vết mà chưa cần truyền năng lượng, khiến cả hai nghi ngờ đây có thể là một thanh ma kiếm hoặc thánh kiếm gắn kết riêng với chủ nhân.
+Khi truyền Khí Lực, thanh kiếm tăng độ cứng cáp và tạo ra vết chém cực phẳng ngọt qua giáp sắt; khi truyền Ma Lực, nhờ Ma Thiết ngấm Ma Lực Rồng Đất, thanh kiếm kích hoạt khả năng thao túng đất cát và tạo đạn đá từ hư không.
+Cảnh kết thúc: Rentt vừa kinh ngạc trước tiềm năng to lớn của món vũ khí vừa lo lắng về lượng tiêu hao Ma Lực và tự hỏi liệu mình có đủ sức làm chủ nó hay không.
+
 
 
 

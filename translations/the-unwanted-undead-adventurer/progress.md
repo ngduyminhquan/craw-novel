@@ -295,7 +295,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | reviewed |  |
 | 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | reviewed |  |
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | done |  |
-| 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | todo |  |
+| 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | done |  |
 | 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | todo |  |
 | 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | todo |  |
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -959,3 +958,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#288] Thuật ngữ "dungeon junk" (phân loại ma cụ từ mê cung không rõ công năng) — Tạm dùng trong bản dịch: "phế phẩm mê cung". Đề xuất: chốt "phế phẩm mê cung" (phương án khác: "rác mê cung"). → Giữ 'phế phẩm mê cung' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#288] Địa danh "Ete Highway" và "village of Mors" — Tạm dùng trong bản dịch: "Đại Lộ Ete" và "ngôi làng Mors" (nhất quán với Đại Lộ Radha, Đại Lộ Farga). Đề xuất: chốt "Đại Lộ Ete" và "Mors". → Giữ 'Đại Lộ Ete' và 'ngôi làng Mors' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#290] Xưng hô của Sơ Lillian khi nhắc về Elza trước mặt Rentt và Lorraine ("As her childhood friend, I apologize on her behalf...") — Elza hiện là Nữ Tu Viện Trưởng Tu Viện Ephas (Mẹ Bề Trên Elza), nhưng là bạn lớn lên từ nhỏ cùng nhau ở cô nhi viện với Sơ Lillian; bản dịch tạm để Sơ Lillian gọi thân mật là "Elza / em ấy" (phương án khác: "Nữ Tu Viện Trưởng Elza", "cô ấy"). Tạm dùng trong bản dịch: "Elza / em ấy". → Giữ 'Elza / em ấy' như đã dịch vì cả hai là bạn thân từ thuở nhỏ ở cô nhi viện. (orchestrator)
+- [#291] Thuật ngữ 'Earth Dragon' trong câu thoại của Clope ("soaked in the Earth Dragon’s mana") — tạm dịch 'Rồng Đất' đồng bộ với mục Earth Dragon trong glossary.md (phương án khác: 'Địa Long'). Tạm dùng trong bản dịch: 'Rồng Đất'. → Giữ 'Rồng Đất' đồng bộ với glossary.md. (orchestrator)
+- [#291] Cụm từ 'segmented whip-swords' miêu tả loại kiếm uốn cong — tạm dịch 'thanh kiếm roi chuỗi đoạn' (phương án khác: 'thanh kiếm roi phân đoạn', 'kiếm xích'). Tạm dùng trong bản dịch: 'thanh kiếm roi chuỗi đoạn'. → Giữ 'thanh kiếm roi chuỗi đoạn' như đã dịch. (orchestrator)
