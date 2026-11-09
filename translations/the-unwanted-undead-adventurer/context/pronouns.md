@@ -118,6 +118,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ars | tôi / Ars / cậu bé | 300 | Cậu bé 10 tuổi con trai thương nhân Gund, người kể chuyện trong ngoại truyện #300 |
 | Gund | Gund / cha tôi / cha / người thương nhân | 300 | Thương nhân Gund, cha của Ars và Ridd |
 | Ridd | Ridd / em trai tôi / đứa trẻ | 300 | Cậu bé 3 tuổi, em trai của Ars |
+| Arc Tahadu | cậu bé / cậu thiếu niên / cậu ấy | 306 | Vua Ma Cà Rồng Arc Tahadu ngự trên ngai vàng |
+| Tavas | người đàn ông / gã / Tavas | 306 | Ma Cà Rồng cấp cao mang diện mạo quý ông, quyến thuộc của Arc Tahadu |
+| Yanshuf Fahalah | chàng trai trẻ / Yanshuf Fahalah / Yanshuf | 306 | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú, quyến thuộc của Arc Tahadu |
 
 
 
@@ -613,6 +616,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ars | Rentt Faina | em | anh / anh Rentt | 300 | Cậu bé nói chuyện và học hỏi từ mạo hiểm giả hộ vệ |
 | Rentt Faina | Ridd | tôi | nhóc / Ridd | 300 | Mạo hiểm giả nói chuyện với đứa trẻ 3 tuổi |
 | Ridd | Rentt Faina | em / con | anh Rentt | 300 | Đứa trẻ 3 tuổi nói về mạo hiểm giả |
+| Arc Tahadu | Tavas | ta | ngươi | 306 | Vua Ma Cà Rồng tra hỏi và răn đe thuộc hạ cấp cháu |
+| Tavas | Arc Tahadu | tôi | Bệ hạ / Ngài Arc / Ngài | 306 | Thuộc hạ cấp cháu run rẩy phục tùng Vua Ma Cà Rồng |
+| Arc Tahadu | Yanshuf Fahalah | ta | ngươi / Yanshuf | 306 | Vua Ma Cà Rồng nói chuyện với thuộc hạ cấp con |
+| Yanshuf Fahalah | Arc Tahadu | tôi | Bệ hạ / Ngài | 306 | Thuộc hạ cấp con cung kính tuyệt đối, sẵn sàng chết thay con mình |
+| Yanshuf Fahalah | Tavas | tôi | cậu / Tavas | 306 | Ma Cà Rồng cấp cha cảnh báo thuộc hạ cấp con |
 
 
 

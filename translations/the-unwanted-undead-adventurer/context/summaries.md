@@ -1099,6 +1099,12 @@ Rivul vô tình vấp phải một chiếc cốc kim loại nhỏ mờ xỉn nh�
 Sau khi hai người rời đi, hai bóng người bí ẩn xuất hiện ở nơi sâu nhất của hang: một kẻ đóng giả thương nhân lữ hành và một kẻ nghiên cứu Tiến Hóa Bản Thể nhân tạo bằng chiếc cốc; chúng tiếc nuối vì chiếc cốc bị mất nhưng quyết định rời đi và nhắm tới Welfia để tìm kiếm nguyên liệu cho nghiên cứu tiếp theo.
 Cảnh kết thúc: Hai bóng người bí ẩn biến mất không để lại dấu vết.
 
+## 306
+Tại gian phòng ngai vàng trong một lâu đài u tối, Vua Ma Cà Rồng Arc Tahadu tra hỏi và chém bay đầu Tavas vì tội tự ý xâm nhập Vương Quốc Yaaran; Yanshuf Fahalah liều mình thi triển ma pháp Khiên Chắn cản đòn hủy diệt của Arc để xin tha mạng cho Tavas. Arc tha chết và phái Tavas tới thành phố mỏ Welfia nhân dịp cuộc thi rèn để thu nạp những thợ rèn có khả năng chế tác Huyết Binh (San Arms).
+Tại Làng Crask, Rentt và Rivul trở về báo tin diệt trừ mối họa Khô Lâu, dân làng mở tiệc ăn mừng rộn rã; Rentt cùng Rivul thưởng thức thịt thú rừng và trò chuyện về dự định rời làng vào sáng hôm sau.
+Rentt chia sẻ về kế hoạch trở về Maalt rèn giũa kỹ năng căn bản, làm chủ thanh kiếm mới của Clope để chuẩn bị cho kỳ thi thăng hạng Ngân Cấp sau trận chiến khó khăn với Khô Lâu Kỵ Sĩ; Rivul hết lòng cổ vũ và hẹn ngày đón tiếp anh.
+Cảnh kết thúc: Rentt chính thức hoàn thành ủy thác tại Làng Crask, sẵn sàng lên đường trở về Maalt.
+
 
 
 

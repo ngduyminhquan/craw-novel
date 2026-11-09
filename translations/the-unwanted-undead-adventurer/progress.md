@@ -310,7 +310,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | reviewed |  |
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | reviewed |  |
 | 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | done |  |
-| 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | todo |  |
+| 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | done |  |
 | 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | todo |  |
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | todo |  |
 | 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -983,3 +984,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#304] Từ "malice" (lượng Ma Lực ứ đọng sinh ra quái vật trong hang/mê cung, giải trừ bằng nước thánh/thanh tẩy): tạm dịch là "chướng khí" (phương án khác: "oán niệm", "ác ý") để nhất quán với quy tắc #224 trong rules.md và glossary.md ("Accumulative Miasma Disease / accumulative malice disease" -> Bệnh Tích Tụ Chướng Khí). → Chốt dịch là chướng khí theo đúng thiết lập đã có ở #224. (orchestrator)
 - [#305] Dịch 'base product' trong hội thoại kẻ bí ẩn về Tiến Hóa Bản Thể nhân tạo — tạm chọn 'phôi gốc' (phương án khác: 'thể nền', 'vật liệu nền', 'vật phẩm gốc'). → Chốt dùng phôi gốc (cụm từ miêu tả nhất thời trong thí nghiệm, không thêm vào glossary). (orchestrator)
 - [#305] Xưng hô giữa hai nhân vật bí ẩn ở đoạn kết chưa rõ danh tính — tạm chọn xưng hô bình đẳng 'tôi - cậu' (phương án khác: 'tôi - anh'). → Chốt dùng tôi - cậu cho hai nhân vật bí ẩn ở đoạn kết chương 305. (orchestrator)
+- [#306] Dịch tiêu đề 'Vol 13 Intermission - At a Certain Castle...' — tạm chọn 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ...' (đồng bộ cấu trúc 'Chương đệm Tập X' với #93, #278 và 'Nọ...' cho 'A Certain...' với #12-#15, #294; phương án khác: 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài...'). Tạm dùng trong bản dịch: 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ...'. → Chốt tiêu đề Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ... (orchestrator)
+- [#306] Xưng hô của Tavas và Yanshuf Fahalah với Arc Tahadu ('my liege', 'Our liege', 'Lord Arc') — tạm chọn xưng 'tôi', gọi 'Bệ hạ' (cho 'my liege/Our liege' vì Arc là Vua Ma Cà Rồng ngự ngai vàng) và gọi 'Ngài Arc' (cho 'Lord Arc' đồng bộ với tiền lệ 'Ngài [Tên]'); phương án khác: gọi 'Chúa tể Arc', gọi 'Chúa công'. Tạm dùng trong bản dịch: 'tôi - Bệ hạ / Ngài Arc'. → Chốt dùng xưng tôi, gọi Bệ hạ / Ngài Arc theo đúng thiết lập trong context. (orchestrator)

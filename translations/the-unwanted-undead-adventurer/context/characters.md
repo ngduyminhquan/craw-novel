@@ -155,6 +155,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ars |  | Ars | Cậu bé 10 tuổi, con trai người thương nhân lưu động Gund, người kể chuyện trong ngoại truyện | #300 |
 | Ridd |  | Ridd | Cậu bé 3 tuổi, em trai của Ars, con trai người thương nhân lưu động Gund | #300 |
 | Gund |  | Gund | Thương nhân buôn bán nhỏ lưu động quanh thị trấn Maalt, cha của Ars và Ridd | #300 |
+| Lord Arc |  | Ngài Arc | Cách Tavas tôn kính gọi Vua Ma Cà Rồng Arc Tahadu | #306 |
+| Tavas |  | Tavas | Ma Cà Rồng cấp cao mang diện mạo quý ông, kẻ từng tập kích Rentt tại vương đô; quyến thuộc của Yanshuf Fahalah, cháu của Arc Tahadu | #306 |
+| Yanshuf Fahalah | Yanshuf | Yanshuf Fahalah | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú; quyến thuộc của Arc Tahadu, cha của Tavas | #306 |
 
 
 
@@ -859,9 +862,22 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #269 (được Lorraine nhắc tên).
 
 ### Arc Tahadu
-- Thân phận: Nam, Vua Ma Cà Rồng (Vampire King), kẻ thù của Laura Latuule; mạnh ngang Tứ Đại Ma Vương (#273, #274).
-- Quan hệ: Gã Ma Cà Rồng (âu phục, gậy chống, ma thuật Dehisé, hóa miệng khổng lồ) tập kích Rentt ở Vistelya là "cháu" (quyến thuộc đời thứ hai / 'grandchild') của hắn (#273).
-- Xuất hiện từ: #273 (được người đánh xe của Laura nhắc tên).
+- Thân phận: Nam, Vua Ma Cà Rồng (Vampire King), kẻ thù của Laura Latuule; sức mạnh vượt trội, xem thường Ma Vương (#273, #274, #306).
+- Vẻ ngoài & tính cách: Mang diện mạo một cậu thiếu niên với mái tóc trắng tựa tơ tuyệt đẹp rực rỡ như ánh mặt trời, đôi mắt ẩn chứa bóng tối sâu thẳm, nở nụ cười hòa nhã nhưng tàn nhẫn vô tình; ngự trên ngai vàng đen tuyền không tì vết (#306).
+- Quan hệ: Kẻ thống trị tối cao; "cha" của Yanshuf Fahalah, "ông" của Tavas (#306).
+- Xuất hiện từ: #273 (được người đánh xe của Laura nhắc tên); xuất hiện trực tiếp ở #306.
+
+### Tavas
+- Thân phận: Nam, Ma Cà Rồng cấp cao (Higher-class Undead) mang diện mạo quý ông lịch thiệp với gậy chống và mũ chóp cao (#306). Từng tập kích Rentt tại vương đô (#273, #306).
+- Quan hệ: Quyến thuộc ("con") của Yanshuf Fahalah, "cháu" của Vua Ma Cà Rồng Arc Tahadu (#306).
+- Nhiệm vụ: Bị Arc Tahadu phái tới Welfia nhân dịp cuộc thi rèn để thu nạp những thợ rèn có triển vọng về rèn Huyết Binh (San Arms) (#306).
+- Xuất hiện từ: #273 (được nhắc tới); xuất hiện trực tiếp ở #306.
+
+### Yanshuf Fahalah
+- Thân phận: Nam, Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú (#306).
+- Quan hệ: Quyến thuộc ("con") trực tiếp của Vua Ma Cà Rồng Arc Tahadu, "cha" của Tavas (#306). Trung thành tuyệt đối với Arc Tahadu, sẵn sàng hy sinh thân xác vì mệnh lệnh của Bệ Hạ, nhưng cũng hết lòng bảo vệ con mình (#306).
+- Năng lực: Thi triển ma pháp Khiên Chắn (Shield) cực mạnh ngăn đòn hủy diệt của Arc Tahadu (#306).
+- Xuất hiện từ: #306.
 
 ### Dorothea Merrow
 - Thân phận: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276); thực chất là thiên kim tiểu thư Thương hội Merrow ở thành phố Mystera, trốn nhà làm thương nhân lữ hành (lộ ở #282), tự lập tách khỏi cha từ hai năm trước.
