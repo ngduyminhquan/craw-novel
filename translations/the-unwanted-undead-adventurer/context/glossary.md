@@ -546,6 +546,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | holy elixir | holy elixirs; Holy Elixir; Holy Elixirs | thánh dược | vật phẩm | 320 | Thuốc điều chế bằng cách truyền Thần Lực vào hỗn hợp thảo dược, do Rentt tự đặt tên |
 | air tube | air tubes | ống thở | vật phẩm | 321 | Nguyền Cụ dạng ống thủy tinh giúp thở dưới nước tại Lucaris |
 | sea knight | sea knights | Hải Kỵ Sĩ | quái vật | 321 | Quái vật hình nhân mang đầu thon nhọn như mực dưới biển Lucaris, thuộc hạ của Ma Vương |
+| Vampire Sovereign | Vampire Sovereigns | Quân Chủ Ma Cà Rồng | danh hiệu | 322 | Bậc quân chủ thống trị hùng mạnh trong loài Ma Cà Rồng |
 
 
 

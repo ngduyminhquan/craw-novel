@@ -1014,3 +1014,9 @@ Gahedd và Lukas giải thích cho Niedz rằng Rentt thực lòng muốn chỉ 
 Phân đoạn chuyển sang góc nhìn của Capitan (thầy dạy của Rentt) khi chú ấy bơi ngoi lên từ tầng nông Mê Cung Các Con Gái Của Hải Thần sau một buổi chiều lặn tìm hải linh thảo bất thành và dùng gương phát tín hiệu gọi thuyền đón.
 Người thủy thủ kỳ cựu Mazlak lái con thuyền do sinh vật kéo tới đón Capitan; trên đường trở về cả hai bị một nhóm Hải Kỵ Sĩ cưỡi Kelpie (thuộc hạ của Ma Vương) bơi đuổi theo nhưng Mazlak đã điều khiển thuyền ngược gió tẩu thoát an toàn về cảng Lucaris.
 Cảnh kết thúc: Capitan và Mazlak cập bến an toàn rồi rủ nhau vào quán rượu uống mừng thoát nạn, Capitan tự nhủ sẽ tránh xa vùng biển nguy hiểm đó trong những chuyến lặn sau.
+
+## 322
+Rentt ngồi uống súp pha máu Lorraine tại sảnh giải khát Hội Mạo Hiểm Giả Lucaris và nhận thấy sự cởi mở, thoáng tính của các mạo hiểm giả nơi đây khi họ tưởng lọ máu là gia vị lạ hoặc đồ nguyền rủa chữa bệnh chứ không kỳ thị diện mạo đầu lâu của anh.
+Capitan bước vào sảnh Hội và ngỡ ngàng khi gặp Rentt; Rentt kể lại việc mình chuẩn bị thi thăng hạng Ngân Cấp và muốn nhờ Capitan rèn luyện lại Khí Lực, Capitan chân thành khen ngợi sự nỗ lực tích lũy thực lực bền bỉ của Rentt.
+Hai người bàn về việc tìm kiếm hải linh thảo tại Mê Cung Các Con Gái Của Hải Thần; Capitan tiết lộ toàn bộ ngư nhân tại Lucaris đã đồng loạt rút về khu định cư dưới đáy biển để lánh nạn.
+Cảnh kết thúc: Capitan bắt đầu hé lộ nguyên nhân ngư nhân di tản có liên quan đến động thái bất thường của các Ma Vương (bốn thực thể tối thượng của loài quái vật).

@@ -326,7 +326,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | reviewed |  |
 | 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | done |  |
 | 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | done |  |
-| 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | todo |  |
+| 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | done |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | todo |  |
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | todo |  |
 | 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -1006,3 +1007,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#320] Thuật ngữ 'holy elixir' (thuốc ngâm Thần Lực do Rentt tự điều chế và đặt tên): tạm dùng 'thánh dược' (đối ứng với ma dược và Thần Lực, phương án khác: 'thần dược', 'linh dược'). → Chốt dùng 'thánh dược' (orchestrator)
 - [#320] Tiêu đề chương/arc 'Student and Teacher': tạm dùng 'Thầy và Trò' (phương án khác: 'Học Trò và Người Thầy'). → Chốt dùng 'Thầy và Trò' (orchestrator)
 - [#321] Dịch 'air tube' (Nguyền Cụ dạng ống thủy tinh hỗ trợ thở dưới nước tại Lucaris) — tạm chọn 'ống thở' (phương án khác: 'ống lấy khí', 'ống dẫn khí') → Chốt dùng 'ống thở' (orchestrator)
+- [#322] Thuật ngữ 'Vampire Sovereign': tạm dùng 'Quân Chủ Ma Cà Rồng' (nhất quán với danh hiệu 'Sovereign' → 'Quân Chủ' ở #191 và 'Vampire King' → 'Vua Ma Cà Rồng' ở #273; phương án khác: 'Ma Cà Rồng Quân Chủ'). → Chốt dùng 'Quân Chủ Ma Cà Rồng' (orchestrator)
