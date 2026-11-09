@@ -68,17 +68,17 @@ Nghĩ vậy, Rina quyết định nghe theo lời Alize.
 
 "Ừm... được rồi. Nếu em đã nói vậy, Alize à. Nhưng lúc chị đi vắng, em phải chăm chỉ luyện tập đàng hoàng đấy nhé? Không được ăn bớt bài đâu đấy."
 
-Alize gật đầu. "Vâng ạ! Chắc chắn rồi!"
+Alize gật đầu. "Vâng! Chắc chắn rồi!"
 
-"Về chuyện đó thì không có vấn đề gì đâu," Isaac tiếp lời. "Cô đừng lo—chừng nào Alize còn ở đây, tôi sẽ để mắt trông nom con bé. Vậy hôm nay cô về trước chứ, Rina? Nếu ngày mai định nhận ủy thác, tôi đoán cô sẽ có vài thứ cần chuẩn bị đấy."
+"Về chuyện đó thì không có vấn đề gì đâu," Isaac tiếp lời. "Cô đừng lo—chừng nào Alize còn ở đây, tôi sẽ để mắt trông nom cô bé. Vậy hôm nay cô về trước chứ, Rina? Nếu ngày mai định nhận ủy thác, tôi đoán cô sẽ có vài thứ cần chuẩn bị đấy."
 
 "Vâng, chắc tôi nên về chuẩn bị thật," Rina đồng tình. "Còn Alize...?"
 
 ![](images/ch275-01.webp)
 
-"Em luyện thêm một lát nữa rồi về ạ."
+"Em luyện thêm một lát nữa rồi về."
 
-"Thế à? Vậy cố lên nhé. Nhờ anh chăm sóc cho con bé nhé, anh Isaac."
+"Thế à? Vậy cố lên nhé. Nhờ anh chăm sóc cho em ấy nhé, anh Isaac."
 
 "Tôi sẽ cố hết sức trong khả năng của mình."
 
@@ -94,13 +94,13 @@ Alize gật đầu. "Vâng ạ! Chắc chắn rồi!"
 
 "Hóa ra là vậy. Tôi đoán Rina rơi vào tình trạng này là vì không có một cột mốc như thế để đo lường sự tiến bộ của mình. Bài tập của cô ấy khắc nghiệt hơn em nhiều, nên tôi tin là cứ về đến phòng trọ là cô ấy lăn ra ngủ ngay."
 
-"Anh... thỉnh thoảng tàn nhẫn thật đấy, anh Isaac."
+"Anh... thỉnh thoảng nhẫn tâm thật đấy, anh Isaac."
 
-"Ha ha. Lúc nào tôi chẳng tàn nhẫn."
+"Ha ha. Lúc nào tôi chẳng nhẫn tâm."
 
-"Hở? Thật ạ? Nhưng những lúc trò chuyện thế này anh tốt tính lắm mà. Lại còn ngầu nữa chứ! Em cá là nếu muốn, anh tìm vợ chẳng khó khăn gì đâu."
+"Hở? Thật sao? Nhưng những lúc trò chuyện thế này anh tốt tính lắm mà. Lại còn ngầu nữa chứ! Em cá là nếu muốn, anh tìm vợ chẳng khó khăn gì đâu."
 
-"Là một gia nhân của Gia tộc Latuule, tôi còn bận bịu với bao bổn phận của mình... nhưng chuyện đó nói đến đây thôi. Chúng ta quay lại luyện tập nào. Tiện thể vì em vừa bảo tôi tàn nhẫn, hôm nay tôi sẽ thúc ép em gắt hơn bình thường một chút nhé?"
+"Là một gia nhân của Gia tộc Latuule, tôi còn bận bịu với bao bổn phận của mình... nhưng chuyện đó nói đến đây thôi. Chúng ta quay lại luyện tập nào. Tiện thể vì em vừa bảo tôi nhẫn tâm, hôm nay tôi sẽ thúc ép em gắt hơn bình thường một chút nhé?"
 
 Alize rên rỉ một tiếng, rồi miễn cưỡng đáp: "Vâng... em sẽ cố hết sức ạ."
 
@@ -156,7 +156,7 @@ Thế nhưng, Rina khá chắc rằng Sheila cũng biết "tình cảnh" của c
 
 Sheila gật đầu thấu hiểu. "Dạo gần đây hai người họ thực sự xuất sắc một cách đáng kinh ngạc, đúng không nào? Nhưng nhắc mới nhớ—họ vẫn đang chỉ dạy cho cô, phải không?"
 
-Mối quan hệ giữa Rina với hai người họ có lẽ được định hình rõ nhất qua thân phận đặc biệt là quyến tộc Ma Cà Rồng của Rentt, nhưng chắc chắn cô cũng là đệ tử của anh, còn anh là người chỉ dẫn cho cô. Từ cách hỏi có phần ngập ngừng của Sheila, dường như vế sau không để lại ấn tượng quá sâu sắc với cô ấy, nhưng cũng chẳng phải là cô ấy đã quên hẳn. Ngay cả khi có lỡ quên thì cũng là chuyện hết sức bình thường: nhân viên hội mỗi ngày đều nghe hàng trăm mẩu thông tin vụn vặt như thế. Có lẽ Sheila thuộc tuýp người thực sự nhớ được tất cả những điều ấy.
+Mối quan hệ giữa Rina với hai người họ có lẽ được định hình rõ nhất qua thân phận đặc biệt là quyến thuộc Ma Cà Rồng của Rentt, nhưng chắc chắn cô cũng là đệ tử của anh, còn anh là người chỉ dẫn cho cô. Từ cách hỏi có phần ngập ngừng của Sheila, dường như vế sau không để lại ấn tượng quá sâu sắc với cô ấy, nhưng cũng chẳng phải là cô ấy đã quên hẳn. Ngay cả khi có lỡ quên thì cũng là chuyện hết sức bình thường: nhân viên hội mỗi ngày đều nghe hàng trăm mẩu thông tin vụn vặt như thế. Có lẽ Sheila thuộc tuýp người thực sự nhớ được tất cả những điều ấy.
 
 Rina nhận ra vẻ khâm phục của mình hẳn đã lộ rõ trên mặt, bởi Sheila khẽ nghiêng đầu sang một bên.
 

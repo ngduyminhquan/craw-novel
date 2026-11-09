@@ -64,7 +64,7 @@ Rina gật đầu, đưa lại các tờ giấy và chỉ vào ủy thác thứ 
 
 Người ta thường bảo nghề mạo hiểm giả không phân biệt giới tính, nhưng thực tế số lượng mạo hiểm giả nam vẫn nhiều hơn nữ—xét theo khía cạnh nào đó thì điều này âu cũng là lẽ tự nhiên.
 
-Rút cục thì mọi chuyện vẫn bắt nguồn từ sức mạnh thể chất thuần túy. Dù có không ít nữ mạo hiểm giả mạnh hơn hẳn nam giới nhờ vận dụng Ma Lực hoặc Khí Lực để cường hóa bản thân, nhưng trước khi tính đến những yếu tố đó, sự thật là cái nghề này vốn chẳng mấy hấp dẫn với phần lớn phụ nữ. Khi nói đến kiếm thuật, đại đa số những người gõ cửa các võ đường và học viện đều là nam giới. Với ma pháp thì không hẳn như vậy, nhưng bản thân ma pháp sư lại hiếm hơn nhiều, vì thế họ chỉ chiếm một tỷ lệ nhỏ trong toàn thể giới mạo hiểm giả.
+Rốt cuộc thì mọi chuyện vẫn bắt nguồn từ sức mạnh thể chất thuần túy. Dù có không ít nữ mạo hiểm giả mạnh hơn hẳn nam giới nhờ vận dụng Ma Lực hoặc Khí Lực để cường hóa bản thân, nhưng trước khi tính đến những yếu tố đó, sự thật là cái nghề này vốn chẳng mấy hấp dẫn với phần lớn phụ nữ. Khi nói đến kiếm thuật, đại đa số những người gõ cửa các võ đường và học viện đều là nam giới. Với ma pháp thì không hẳn như vậy, nhưng bản thân ma pháp sư lại hiếm hơn nhiều, vì thế họ chỉ chiếm một tỷ lệ nhỏ trong toàn thể giới mạo hiểm giả.
 
 Chính vì thế, các nữ mạo hiểm giả luôn rất đáng giá—đặc biệt là những người có năng lực vượt trội. Nếu bị hỏi liệu bản thân có nằm trong số những nhân vật quý giá ấy không, Rina chắc chắn sẽ lắc đầu phủ nhận, nhưng cô cũng rất mừng vì mình có thể giúp ích khi được cần đến.
 
@@ -118,7 +118,7 @@ Không phải cô không muốn gặp ông. Sự thật là cô thấy mình ch�
 
 Dorothea cũng khá thân thiết với một số nam thương nhân cùng trang lứa, và mỗi khi tâm sự với họ về những rắc rối của mình, họ cũng kể lại những chuyện xui xẻo của bản thân. Thế nhưng cô gặp phải chúng thường xuyên hơn họ nhiều, và số tiền cô bị lừa gạt cũng đắt đỏ hơn gấp bội.
 
-Rút cục thì người ta chỉ đơn giản là coi thường cô vì cô là phụ nữ. Đó là kết luận cô buộc phải rút ra, và cũng là điều cô hoàn toàn tin chắc. Mặc dù vậy, cô chẳng hề có ý định từ bỏ con đường thương nhân—trái lại, nghịch cảnh chỉ càng tiếp thêm động lực cho cô.
+Rốt cuộc thì người ta chỉ đơn giản là coi thường cô vì cô là phụ nữ. Đó là kết luận cô buộc phải rút ra, và cũng là điều cô hoàn toàn tin chắc. Mặc dù vậy, cô chẳng hề có ý định từ bỏ con đường thương nhân—trái lại, nghịch cảnh chỉ càng tiếp thêm động lực cho cô.
 
 Cô muốn đạt được mục tiêu bất chấp—không, chính vì những gì mình đã phải trải qua, và mỗi lần vấp phải một chướng ngại tương tự, ý chí trong cô lại càng thêm sắt đá. Vả lại, chỉ vì từng trải qua giai đoạn gian khó không có nghĩa là cô không thể rút ra bài học cho mình.
 

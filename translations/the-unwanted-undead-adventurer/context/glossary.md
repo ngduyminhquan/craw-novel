@@ -113,7 +113,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Swamp of Tarasque | Tarasque Swamp | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |
-| familiar | familiars; vampiric servants; vampiric servant | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属). Từ đa nghĩa: khi dùng dạng tính từ ("familiar knocking sound", "familiar spell") dịch là "quen thuộc" |
+| familiar | familiars; vampiric servants; vampiric servant; vampiric kin | quyến thuộc | khác | 50 | Sinh vật bị chi phối hoặc tạo ra từ máu của Ma Cà Rồng/Thi Quỷ (眷属). Từ đa nghĩa: khi dùng dạng tính từ ("familiar knocking sound", "familiar spell") dịch là "quen thuộc" |
 | Goblin General | Goblin Generals | Đại Tướng Goblin | quái vật | 51 | Phân loài Goblin cấp chỉ huy có khả năng thống lĩnh bầy đàn |
 | Goblin King | Goblin Kings | Vua Goblin | quái vật | 51 | Quái vật cấp vua thống trị bộ tộc Goblin |
 | Sea Snake | Sea Snakes | Rắn Biển | quái vật | 52 | Quái vật dạng rắn bơi trong vùng nước đầm lầy, mang nọc độc chết người |
@@ -229,7 +229,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Holy Tree | sacred tree; sacred trees | Thánh Thụ | vật phẩm | 118 | Cây thần thánh tỏa Thần Lực được người elf bảo hộ (聖樹) |
 | Land of the Venerable Holy Tree |  | Vùng Đất Cổ Thánh Thụ | địa danh | 118 | Xứ sở của tộc elf và High Elf nơi bảo hộ Cổ Thánh Thụ |
 | Venerable Holy Tree |  | Cổ Thánh Thụ | khác | 118 | Cổ thụ thần thánh ngự trị nơi sâu thẳm của xứ sở người elf |
-| High Elf | high elf; high elves; High elves | High Elf | chủng tộc | 118 | Chủng tộc elf thượng cấp cai trị Vùng Đất Cổ Thánh Thụ |
+| High Elf | high elf; high elves; High elves; half-elf; half-elves | High Elf | chủng tộc | 118 | Chủng tộc elf thượng cấp cai trị Vùng Đất Cổ Thánh Thụ. Raw tập 12 (#274) dịch nhầm High Elf (ハイエルフ) thành half-elf |
 | Elf | elves; elf | Elf | chủng tộc | 43 | Chủng tộc tiên tộc sống trong rừng, giỏi ma pháp tinh linh và cung tên |
 | spirit magic |  | tinh linh ma pháp | kỹ năng | 118 | Ma pháp mượn sức mạnh của các tinh linh (精霊魔法) |
 | chakram | chakrams | phi luân | vật phẩm | 119 | Vũ khí ném hình đĩa tròn bằng kim loại |

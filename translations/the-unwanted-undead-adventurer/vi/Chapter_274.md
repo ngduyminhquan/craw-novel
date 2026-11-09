@@ -76,7 +76,7 @@ Lorraine dần chìm vào dòng suy nghĩ riêng, miệng lẩm bẩm một mìn
 
 "Cũng hơi rắc rối một chút," tôi đồng tình. "Nếu Jean thu xếp êm đẹp chuyện đó giúp chúng tôi thì tốt quá, nhưng tôi có linh cảm mọi chuyện sẽ không đơn giản như vậy."
 
-Còn lý do tại sao—chà, là vì lời sấm truyền của tộc Bán Elf. Dù Jean có là nhân vật tầm cỡ đến đâu, những lời sấm truyền do thần linh ban xuống cũng đâu phải thứ dễ dàng né tránh để khỏi bị cuốn vào.
+Còn lý do tại sao—chà, là vì lời sấm truyền của tộc High Elf. Dù Jean có là nhân vật tầm cỡ đến đâu, những lời sấm truyền do thần linh ban xuống cũng đâu phải thứ dễ dàng né tránh để khỏi bị cuốn vào.
 
 "Thật tình cả vụ này làm tôi lo đấy..." Augurey bảo. "Nhưng có dịp gặp lại hai người làm tôi vui không gì bằng. Trước lần gặp tới tôi nhất định sẽ nâng cao tay nghề đấy, nghe rõ chưa? Ít nhất tôi cũng muốn đủ mạnh để làm được gì đó nếu chẳng may bị thuộc hạ của Vua Ma Cà Rồng nhảy bổ vào."
 
@@ -134,7 +134,7 @@ Jean Seebeck là người giám sát toàn bộ Hội Mạo Hiểm Giả trên k
 
 Tuy đã bàn qua chi tiết khái quát về chuyến khởi hành từ hồi ở đấu trường, sáng nay chúng tôi vẫn ghé qua Hội để dặn dò cụ thể hơn cho chắc chắn. Có điều nói đúng ra thì đó chỉ là việc phụ. Mục đích chính của chúng tôi khi tới Hội là chuyển lời nhắn về tên Ma Cà Rồng đã tấn công tôi đêm qua cho một nhân vật đặc biệt, người mà thành thật mà nói tôi thực sự chẳng muốn liên lạc chút nào.
 
-Nói cách khác, lời nhắn đó là gửi cho Nive.
+Tức là lời nhắn đó gửi cho Nive.
 
 Vì không thể gặp mặt trực tiếp, nên đó thực sự chỉ là một lời nhắn, đại ý vỏn vẹn là: "Một Ma Cà Rồng cực mạnh đã xuất hiện ở vương đô nhưng chẳng hiểu sao lại đột ngột bỏ chạy, nên tôi nghĩ hắn không còn ở trong thành phố nữa đâu."
 
@@ -152,7 +152,7 @@ Tôi hết lòng mong thời điểm đó sẽ không trùng với lần tới t
 
 "Tổng Hội Trưởng! Ngài đang ở đâu rồi?!" một giọng nói gào lên từ cùng hướng đó. "Chắc chắn ngài không định đi một mình mà không có ai hộ tống đấy chứ?!"
 
-Jean kéo mũ trùm che kín đầu. "Được rồi, chúng ta mau lên đường thôi. Để họ tìm thấy ta là phiền phức lắm đấy."
+Jean kéo mũ trùm che kín đầu. "Được rồi, chúng ta mau lên đường thôi. Để đám người đó tìm thấy ta là phiền phức lắm đấy."
 
 "Họ đang tìm ngài đấy à...?" tôi hỏi. "Trên xe vẫn còn đủ chỗ cho người khác mà. Chúng ta nên lại bảo với họ—"
 

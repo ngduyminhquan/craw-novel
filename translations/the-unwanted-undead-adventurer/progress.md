@@ -278,9 +278,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 271 |  | Chapter_271 - Vol 11 Bonus - Maalt’s Fortune Teller.txt | Vol 11 Bonus - Maalt’s Fortune Teller | reviewed |  |
 | 272 |  | Chapter_272 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (1) | reviewed |  |
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | reviewed |  |
-| 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | done |  |
-| 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | done |  |
-| 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | done |  |
+| 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | reviewed |  |
+| 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | reviewed |  |
+| 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | reviewed |  |
 | 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | todo |  |
 | 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | todo |  |
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | todo |  |
