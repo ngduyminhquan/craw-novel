@@ -159,7 +159,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Mạo hiểm giả Đồng Cấp (đủ sức thi Ngân Cấp), mục tiêu Mithril Cấp. Ở Maalt dùng danh tính Rentt Vivie; từ #127 làm nhân viên Hội dưới Wolf Hermann. Biết anh là Undead: Lorraine, Sheila, Wolf, Augurey (#160–161, khế ước Thần Lực của Hozei), Capitan, Gharb (#168), Laura, Isaac, Rina. Nive Maris phán định anh không phải Ma Cà Rồng.
 - Quan hệ: Bạn thân 10 năm của Lorraine; chủ của Rina (quyến thuộc Ma Cà Rồng, #195); khách quen tiệm rèn Clope - Luka; thầy kiếm của Alize. Con nuôi trưởng làng Hathara Ingo Faina và bà Gilda; bạn thuở nhỏ Riri, Fahri, Doras; bà lão Gharb.
 - Lý lịch Hathara: Hậu duệ Vương Quốc Cổ Đại; quản lý Thành Phố Mê Cung Của Hiền Vương Felt (tầng 60 Mê Cung Côn Trùng Cổ); có đá ma pháp đỏ-xanh lập trận dịch chuyển.
-- Trạng thái (đến #289): Cùng Lorraine, Isaac, Laura đánh bại Shumini, cứu Maalt (#192–195); giấu Hội việc Laura chiếm Lõi Mê Cung và Rina thành Ma Cà Rồng. Sau chuyến đi vương đô cùng Lorraine và hộ tống Jean Seebeck về Maalt, chuẩn bị lên đường sang thành phố mỏ Welfia dự kỳ thi thăng hạng Ngân Cấp sau một tháng nữa (#289). Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
+- Trạng thái (đến #292): Cùng Lorraine, Isaac, Laura đánh bại Shumini, cứu Maalt (#192–195); giấu Hội việc Laura chiếm Lõi Mê Cung và Rina thành Ma Cà Rồng. Sau chuyến đi vương đô cùng Lorraine và hộ tống Jean Seebeck về Maalt, chuẩn bị lên đường sang thành phố mỏ Welfia dự kỳ thi thăng hạng Ngân Cấp sau một tháng nữa (#289). Nhận và thử nghiệm thanh kiếm mới rèn tại tiệm Ba Chĩa của Clope, kích hoạt hiệu ứng Thần Lực tựa Thánh Hỏa và Ma Khí Dung Hợp Thuật tăng cường (#290–292). Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
 
 ### Rina Rupaage
 - Giới tính/tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng, mắt xanh lam sáng, mảnh mai.
@@ -206,7 +206,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Say mê nghề rèn, tập trung như xuất thân khi rèn; bề ngoài thô ráp như đe dọa nhưng hiền lành, chu đáo với khách. Sở thích làm vườn kín đáo.
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn.
 - Quan hệ: Chồng kiêm thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái (đến #290): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118). Rèn xong thanh kiếm mới từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt (#290).
+- Trạng thái (đến #292): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118). Rèn xong thanh kiếm mới từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt (#290); cùng Rentt thử nghiệm thành công các hiệu ứng Khí Lực, Ma Lực, Thần Lực và Ma Khí Dung Hợp Thuật của thanh kiếm tại sân trong tiệm Ba Chĩa (#291–292).
 
 ### Loris Cariello
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, đầu bếp kiêm chủ quán ăn.

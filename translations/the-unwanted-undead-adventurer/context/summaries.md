@@ -1011,6 +1011,13 @@ Rentt chém thử các hình nhân gỗ, rơm và giáp sắt; thanh kiếm ché
 Khi truyền Khí Lực, thanh kiếm tăng độ cứng cáp và tạo ra vết chém cực phẳng ngọt qua giáp sắt; khi truyền Ma Lực, nhờ Ma Thiết ngấm Ma Lực Rồng Đất, thanh kiếm kích hoạt khả năng thao túng đất cát và tạo đạn đá từ hư không.
 Cảnh kết thúc: Rentt vừa kinh ngạc trước tiềm năng to lớn của món vũ khí vừa lo lắng về lượng tiêu hao Ma Lực và tự hỏi liệu mình có đủ sức làm chủ nó hay không.
 
+## 292
+Rentt truyền Thần Lực vào thanh kiếm, khiến lưỡi kiếm bọc trong ngọn lửa xanh lam không tỏa nhiệt giống Thánh Hỏa của Nive Maris; Clope gợi ý anh thử nghiệm khả năng khắc chế Undead lên lũ Khô Lâu tại Mê Cung Nguyệt Ảnh.
+Tiếp đó, Rentt thử nghiệm Ma Khí Dung Hợp Thuật: thanh kiếm chém cực ngọt, điều khiển đất cát chuẩn xác hơn và giữ nguyên uy lực phát nổ, nhưng tiêu hao thể lực khủng khiếp khiến anh kiệt sức ngã quỵ sau ba mươi giây.
+Clope và Rentt trò chuyện về các loại ma kiếm nguy hiểm tước đoạt sinh mệnh hay hút máu người dùng để đổi lấy sức mạnh, cùng số phận bi đát của những anh hùng từng sử dụng chúng trong thi ca của các thi nhân hát rong.
+Cảnh kết thúc: Rentt nhìn nhận thanh kiếm như một người bạn đồng hành đáng tin cậy và quyết tâm thuần thục nó, mong rằng nếu mai sau câu chuyện của mình được đưa vào khúc hát thì đó sẽ là một khúc ca thú vị.
+
+
 
 
 

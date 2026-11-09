@@ -96,7 +96,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Todds Village |  | Làng Todds | địa danh | 45 | Ngôi làng nhỏ ở phía đông Maalt gần Hồ Ruiess |
 | Ruiess Lake |  | Hồ Ruiess | địa danh | 45 | Hồ nước nhỏ gần Làng Todds |
 | Lord of the Lake |  | Chúa Tể Hồ | quái vật | 45 | Sinh vật ngụ dưới đáy Hồ Ruiess được dân làng Todds dâng tế vật (湖の主) |
-| priestess-saint | priestess-saints; Priestess-Saint | Thánh Nữ | danh hiệu | 11 | Nữ tư tế sở hữu Thần Lực dồi dào được giáo hội tôn làm thánh (聖女). Phân biệt với Saint → Thánh Giả (聖者). Manager chốt, thay cho "nữ tư tế Thánh Giả" |
+| priestess-saint | priestess-saints; Priestess-Saint; saintess; saintesses | Thánh Nữ | danh hiệu | 11 | Nữ tư tế sở hữu Thần Lực dồi dào được giáo hội tôn làm thánh (聖女). Phân biệt với Saint → Thánh Giả (聖者). Manager chốt, thay cho "nữ tư tế Thánh Giả" |
 | Kelpie | Kelpies | Kelpie | quái vật | 46 | Quái vật dạng ngựa có vảy sống dưới hồ nước ngọt (ケルピー) |
 | Festival of Offering | sacrificial festival | Lễ Hội Dâng Tế | khác | 46 | Tập tục dâng thiếu nữ cho Chúa Tể Hồ ở Làng Todds (奉納祭) |
 | traveling merchant | traveling merchants | thương nhân lữ hành | chức nghiệp | 46 | Thương nhân buôn bán lưu động qua các làng quê |
@@ -203,8 +203,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Witta Trading Company | the Witta Trading Company; Witta | Thương hội Witta | tổ chức | 102 | Thương hội lâu đời tại Maalt chuyên cung cấp nhu yếu phẩm cho mạo hiểm giả (ヴィッタ商会) |
 | Mechanical City of Aavan | Aavan | Thành Phố Cơ Giới Aavan | địa danh | 103 | Đô thị công nghiệp cơ khí và ma thuật thuộc Đế Quốc Rermutt (機械都市アーヴァン) |
 | Baronetess |  | Nữ Chuẩn Nam tước | danh hiệu | 104 | Tước vị quý tộc được ban cho Nive Maris |
-| Vampire hunter |  | Thợ Săn Ma Cà Rồng | danh hiệu | 104 | Danh hiệu/biệt danh của Nive Maris chuyên săn ma cà rồng |
-| Holy Fire | holy fire; Holy fire | Thánh Hỏa | kỹ năng | 105 | Ngọn lửa thần thánh ngưng tụ từ Thần Lực do người có Thần Lực dồi dào và thuần thục phóng ra (聖火) |
+| Vampire hunter | vampire hunter; Vampire hunters; vampire hunters | Thợ Săn Ma Cà Rồng | danh hiệu | 104 | Danh hiệu/biệt danh của Nive Maris chuyên săn ma cà rồng |
+| Holy Fire | holy fire; Holy fire; holy flames; Holy flames | Thánh Hỏa | kỹ năng | 105 | Ngọn lửa thần thánh ngưng tụ từ Thần Lực do người có Thần Lực dồi dào và thuần thục phóng ra (聖火) |
 | Ruguella |  | Ruguella | địa danh | 107 | Thị trấn ở phía tây, nơi phát hiện chuỗi vụ mạo hiểm giả mới mất tích |
 | Oradoras |  | Oradoras | địa danh | 107 | Thị trấn nằm về phía đông của Ruguella, nơi ghi nhận các vụ mất tích tiếp theo |
 | magical pouch | magical pouches; magic pouch; magic pouches; magic bag; magic bags; Magic bag; Magic bags | túi ma thuật | vật phẩm | 10 | Loại ma cụ có không gian bên trong mở rộng gấp nhiều lần để chứa đồ (魔導ポーチ) |
