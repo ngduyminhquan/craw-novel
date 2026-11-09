@@ -1124,6 +1124,13 @@ Rentt ngưỡng mộ hạnh phúc của Clope và Luka nhưng tự ti vì cơ th
 Barzel Staro mời Clope tới Welfia tham dự cuộc thi rèn cùng Hazara (hiện là phó thợ rèn trưởng) trước khi ông gác búa giải nghệ, để hóa giải những khúc mắc tiếc nuối năm xưa.
 Cảnh kết thúc: Clope hiểu được tâm ý của sư phụ, quyết tâm đối diện với quá khứ và lên đường tham dự cuộc thi rèn ở Welfia.
 
+## 310
+Rentt trở về nhà làm bữa khuya cho Lorraine sau khi nghe câu chuyện của Clope; Lorraine hé lộ chiếc cốc có khả năng thu gom Ma Lực tĩnh thoát ra khi quái vật bị tiêu diệt và nghi ngờ đây là ma cụ nhân tạo giúp tăng hiệu suất hấp thụ Ma Lực, qua đó thúc đẩy Tiến Hóa Bản Thể.
+Sáng hôm sau, đàn Puchi Suri dưới sự chỉ huy của Edel cõng những hộp chứa Slime tí hon từ cống ngầm về; Lorraine giải thích đã thỏa thuận đổi thức ăn và ma cụ lấy sự hỗ trợ của lũ chuột, đồng thời ngỏ ý muốn học kỹ năng người thuần hóa quái vật từ cha nuôi của Rentt tại Làng Hathara để hỗ trợ nghiên cứu.
+Rentt đồng ý kế hoạch sớm về thăm Làng Hathara gặp cha nuôi, Capitan và bà Gharb để ôn luyện kiếm thuật và ma thuật chuẩn bị cho kỳ thi thăng hạng Ngân Cấp, đồng thời ghé thăm Isaac.
+Cả hai lên phòng thí nghiệm; Lorraine mở hộp thả Slime tí hon trạc ngón tay út ra bàn để chuẩn bị thí nghiệm chọi Slime đo đạc hiệu suất hấp thụ Ma Lực từ chiếc cốc.
+Cảnh kết thúc: Rentt thắc mắc cách đưa chiếc cốc quá khổ cho con Slime tí hon, và Lorraine chuẩn bị bắt đầu thí nghiệm bằng phương pháp hiển nhiên nhất.
+
 
 
 

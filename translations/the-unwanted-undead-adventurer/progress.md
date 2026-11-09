@@ -314,7 +314,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | reviewed |  |
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | done |  |
 | 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | done |  |
-| 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | todo |  |
+| 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | done |  |
 | 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | todo |  |
 | 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | todo |  |
 | 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -991,3 +990,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#308] Cụm từ 'traveling blacksmith' / 'wandering blacksmith' khi Clope kể về thời gian phiêu bạt sau khi rời Welfia: tạm dịch là 'thợ rèn lang bạt' (phương án khác: 'thợ rèn lữ hành'). Tạm dùng trong bản dịch: 'thợ rèn lang bạt'. → Chốt dùng thợ rèn lang bạt (cụm từ miêu tả nhất thời trong lời kể của Clope). (orchestrator)
 - [#309] Dịch chức danh 'head smith' và 'deputy head smith' của xưởng rèn Welfia — tạm chọn 'thợ rèn trưởng' và 'phó thợ rèn trưởng' theo glossary.md (phương án khác: 'chủ xưởng rèn' và 'phó xưởng rèn', 'đầu lĩnh thợ rèn'). → Chốt dịch là thợ rèn trưởng và phó thợ rèn trưởng theo đúng thiết lập trong glossary. (orchestrator)
 - [#309] Xưng hô trong thư của thợ rèn trưởng Barzel Staro gửi học trò cũ Clope (nay đã ngoài 40 tuổi) — tạm chọn Barzel Staro xưng 'ta', gọi 'cậu / Clope', kết thư 'Thầy của cậu,' (phương án khác: xưng 'thầy', gọi 'con / Clope', kết thư 'Thân ái,'). → Chốt Barzel Staro xưng ta, gọi cậu / Clope theo đúng thiết lập trong pronouns.md. (orchestrator)
+- [#310] Có nên loại bỏ alias từ đơn 'Latuule' khỏi mục 'Latuule Family' trong glossary.md để tránh cảnh báo giả khi raw chỉ xuất hiện tên riêng 'Laura Latuule'? (tạm giữ nguyên theo context cũ và giải trình trong QA) → Giữ nguyên alias Latuule trong glossary (vì raw đôi khi dùng tắt Latuule chỉ gia tộc), cảnh báo giả khi gặp Laura Latuule chỉ là cảnh báo nhẹ không chặn QA. (orchestrator)

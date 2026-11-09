@@ -61,7 +61,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Riri |  | Riri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Fahri |  | Fahri | Thiếu nữ làng Hathara, bạn thuở nhỏ kém Rentt 7 tuổi | #134 |
 | Ren |  | Ren | Tên gọi thân mật Fahri dùng để gọi Rentt Faina | #135 |
-| Gharb |  | Gharb | Bà lão làm thuốc tại làng Hathara, biết ma thuật và thuật giả kim | #136 |
+| Gharb | Granny Gharb | Gharb | Bà lão làm thuốc tại làng Hathara, biết ma thuật và thuật giả kim | #136 |
 | Gharb Faina |  | Gharb Faina | Tên đầy đủ của bà lão làm thuốc Gharb, bà cô họ của Rentt | #143 |
 | Hadeed |  | Hadeed | Thợ săn tại làng Hathara, người dạy Riri kỹ năng Khí Lực | #136 |
 | Locusta |  | Locusta | Cha ruột của Rentt Faina, từng là lữ khách trước khi định cư ở Làng Hathara | #139 |
@@ -199,7 +199,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, giọng bạn thân 10 năm với Rentt; khi giảng bài điềm đạm kiểu học giả.
 - Quan hệ: Bạn chí cốt của Rentt, người đầu tiên biết anh thành Undead; chia sẻ máu cho anh; khẳng định biến cố không ảnh hưởng quan hệ (#168). Thầy ma thuật của Alize (#74), kèm lý thuyết cho Rentt. Thân với Rina (xem như em gái kiêm chuột bạch, #199). Danh tính giả của Rentt mang họ cô.
 - Lý lịch, năng lực: Xuất thân Đế Quốc Rermutt, từng là học giả tinh hoa Đệ Nhất Đại Học Rermutt, bị chèn ép nên tới Maalt. Mạo hiểm giả Ngân Cấp kiêm y sĩ ma thuật; hỏa ma pháp cực tinh, ảo ảnh, che chắn nhận thức. Có nhiều thẻ căn cước giả của Đế Quốc.
-- Trạng thái (đến #289): Cùng Rentt về Hathara (#168–172); cùng nhóm đánh Shumini (#192–195). Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt. Cùng Rentt đi vương đô Vistelya rồi hộ tống Tổng Hội Trưởng Jean Seebeck về Maalt, bàn luận giả thuyết mê cung sinh ra mê cung mới và chuẩn bị đồng hành cùng Rentt sang thành phố mỏ Welfia (#287–289).
+- Trạng thái (đến #310): Cùng Rentt về Hathara (#168–172); cùng nhóm đánh Shumini (#192–195). Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt. Cùng Rentt đi vương đô Vistelya rồi hộ tống Tổng Hội Trưởng Jean Seebeck về Maalt, bàn luận giả thuyết mê cung sinh ra mê cung mới và chuẩn bị đồng hành cùng Rentt sang thành phố mỏ Welfia (#287–289). Nghiên cứu chiếc cốc kim loại xỉn màu nhặt từ hang động (#308); thỏa thuận với Edel cùng đàn Puchi Suri mang Slime cống ngầm về làm thí nghiệm, đồng thời muốn học kỹ năng người thuần hóa quái vật từ Ingo Faina tại Hathara (#310).
 
 ### Sheila Ibarss
 - Giới tính/tuổi/vẻ ngoài: Nữ, ngoài 20, tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở thanh lịch.
@@ -319,7 +319,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông từ xám tro thành đen tuyền sau khi hút máu Thi Quỷ của Rentt; hay bám vai Rentt.
 - Tính cách: Háu ăn, kiêu ngạo, thích được xem là cao quý chứ không phải béo tròn; không mấy trung thành, phản đối khi bị dùng làm mồi nhử.
 - Năng lực: Liên kết tâm trí với Rentt; ánh mắt làm bất động Puchi Suri nhỏ hơn; kháng độc; tự rút Thần Lực của Rentt bọc thân để trị liệu/tông. Từ #90: to cỡ đầu Goblin, có màng bay ở bụng, dùng ma pháp chém.
-- Trạng thái (đến #171): Kiểm soát ~30% bầy chuột Maalt làm mạng lưới tình báo, chia sẻ thị giác với đàn em; bị kẻ trùm áo choàng hút máu phóng lửa làm mù, ngất dưới hầm cô nhi viện, liên kết với Rentt bị đứt.
+- Trạng thái (đến #310): Kiểm soát ~30% bầy chuột Maalt làm mạng lưới tình báo, chia sẻ thị giác với đàn em; bị kẻ trùm áo choàng hút máu phóng lửa làm mù, ngất dưới hầm cô nhi viện, liên kết với Rentt bị đứt (#171). Thỏa thuận hợp tác ngầm với Lorraine làm trợ thủ và tìm mẫu vật thí nghiệm để đổi lấy thức ăn và ma cụ; chỉ huy đàn em Puchi Suri mang Slime cống ngầm về phòng thí nghiệm (#310).
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
 
 ### Isaac Hart

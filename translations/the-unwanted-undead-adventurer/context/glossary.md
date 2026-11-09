@@ -20,7 +20,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Sound Barrier |  | Cách Âm Kết Giới | kỹ năng | 233 | Ma pháp tạo kết giới cách âm ngăn âm thanh lọt ra ngoài |
 | Existential Evolution |  | Tiến Hóa Bản Thể | hệ thống | 1 | Hiện tượng quái vật tiến hóa lên bậc cao hơn (存在進化) |
 | Iron-class | Iron; Iron-classer; Iron-classers | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
-| Bronze-class | Copper-class; Bronze-classer; Bronze-classers; Bronze classer; Bronze classers | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
+| Bronze-class | Copper-class; Bronze-classer; Bronze-classers; Bronze classer; Bronze classers; Copper-classer; Copper-classers | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
