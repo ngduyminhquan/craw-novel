@@ -552,6 +552,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Lesser Sahagin | lesser sahagin; lesser sahagins; Lesser Sahagins; sahagin; Sahagin | Hạ Cấp Sahagin | quái vật | 328 | Quái vật người cá cấp thấp sống dưới biển và trong mê cung ngập nước (サハギン/下級サハギン) |
 | Mister Thrall |  | ngài Thi Quỷ | danh hiệu | 328 | Biệt danh trêu chọc người phụ nữ tóc trắng áo chùng đen gọi Rentt khi tái ngộ |
 | Tidal Wave |  | Sóng Triều | kỹ năng | 329 | Ma pháp thủy hệ cổ ngữ triệu hồi ngọn sóng thần khổng lồ như bức tường chạm mây quét sạch đối thủ |
+| War God | war god; the war god | Chiến Thần | danh hiệu | 331 | Thần linh cai quản chiến tranh (軍神/戦神) |
 
 
 

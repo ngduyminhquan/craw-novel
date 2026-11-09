@@ -335,7 +335,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | reviewed |  |
 | 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | done |  |
 | 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | done |  |
-| 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | todo |  |
+| 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | done |  |
 | 332 |  | Chapter_332 - Vol 14 Chapter 3 - Searching the Dungeon (3).txt | Vol 14 Chapter 3 - Searching the Dungeon (3) | todo |  |
 | 333 |  | Chapter_333 - Vol 14 Chapter 3 - Searching the Dungeon (4).txt | Vol 14 Chapter 3 - Searching the Dungeon (4) | todo |  |
 | 334 |  | Chapter_334 - Vol 14 Chapter 4 - The Return and a New Find (1).txt | Vol 14 Chapter 4 - The Return and a New Find (1) | todo |  |
@@ -346,8 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
-
 
 
 ## Đã quyết
@@ -1022,3 +1020,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#328] Dịch 'lesser sahagin' — tạm chọn 'Hạ Cấp Sahagin' (nhất quán tiền tố Hạ Cấp như Hạ Cấp Ma Cà Rồng, Hạ Cấp Khô Lâu Pháp Sư và giữ tên quái Sahagin như Goblin/Orc; phương án khác: 'Quái Ngư Nhân Cấp Thấp' hoặc 'Sahagin Cấp Thấp') → Chốt dùng 'Hạ Cấp Sahagin' (orchestrator)
 - [#329] Dịch ma pháp cổ ngữ 'Tidal Wave': tạm dùng 'Sóng Triều' (phương án khác: 'Triều Ba' theo Hán Việt); danh hiệu 'queen of scales and sky' của Canhel Avara: tạm dùng 'Nữ vương của vảy và bầu trời'. → Chốt 'Tidal Wave → Sóng Triều' và danh hiệu miêu tả 'queen of scales and sky → Nữ vương của vảy và bầu trời' (đồng bộ với bản dịch #329 và glossary.md/characters.md) (orchestrator)
 - [#330] Tiêu đề chương raw là 'Searching the Dungeon (1)', tạm dịch 'Tập 14 Chương 3 - Tìm Kiếm Trong Mê Cung (1)' để phân biệt với arc 'Dungeon Delving' ('Thám Hiểm Mê Cung') ở các chương 325–329; đề xuất giữ nguyên hoặc có thể cân nhắc phương án 'Khảo Sát Mê Cung (1)'. → Chốt tiêu đề arc 'Searching the Dungeon → Tìm Kiếm Trong Mê Cung' để sát nghĩa hoạt động tìm kiếm hải linh thảo/Nguyền Cụ và phân biệt với arc 'Dungeon Delving → Thám Hiểm Mê Cung' (orchestrator)
+- [#331] Dịch 'war god' trong 'the priest of the war god' — tạm chọn 'Chiến Thần' và cập nhật glossary.md (đồng bộ với Wind God → Phong Thần, Sea God → Hải Thần; phương án khác: 'Thần Chiến Tranh'). Tạm dùng trong bản dịch: 'vị tư tế Chiến Thần'. → Chốt 'War God → Chiến Thần' trong glossary.md (đồng bộ với Wind God → Phong Thần, Sea God → Hải Thần) (orchestrator)

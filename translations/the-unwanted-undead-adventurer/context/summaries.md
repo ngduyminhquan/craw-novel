@@ -1074,3 +1074,10 @@ Nhóm Diego cùng bộ ba Niedz quay lại; Diego và Niedz trấn an Lukas đan
 Rentt kể cho Diego nghe việc mình vừa bị dịch chuyển và được người phụ nữ bí ẩn cứu, qua đó xác nhận ảo ảnh Diego từng thấy về cha mẹ mình là có thật và cảnh báo nguy cơ bất tỉnh giữa lúc chiến đấu; Capitan chỉ ra Diego chỉ ngất vài giây và tự tin dùng Khí Lực bọc lót.
 Cả nhóm thống nhất tiếp tục rà soát các tầng nông để Capitan tìm hải linh thảo, đồng thời đặt mục tiêu rèn luyện thể lực và kỹ năng sinh tồn, tháo chạy cho bộ ba Niedz để họ có thể tự sống sót quay về điểm an toàn.
 Cảnh kết thúc: Capitan và Rentt quyết định bắt đầu tìm kiếm trận chiến đầu tiên ở tầng nông cho nhóm Niedz để khảo sát trình độ, trong khi bộ ba vẫn vô tư ngắm cảnh mê cung như dân quê lên tỉnh.
+
+## 331
+Lukas (Lukas Zeiyu) tự thuật phân đoạn đầu: nhóm Niedz, Gahedd và Lukas phải đối mặt với năm con Hạ Cấp Sahagin trong khi bộ ba tiền bối (Rentt, Capitan, Diego) chỉ đứng quan sát, buộc họ phải tự chiến đấu sinh tồn.
+Nhớ lại lời phân tích của Rentt trong buổi đấu tập trước đó, Lukas vạch ra chiến thuật tận dụng hành lang chật hẹp, phân công Gahedd dùng giáo kìm chân quái vật để Niedz đánh một đối một.
+Phân đoạn hai quay lại góc nhìn của Rentt: Capitan và Diego khen ngợi khả năng bao quát trận đấu của Lukas và kỹ năng dùng giáo của Gahedd; Niedz nhờ bộc phát sức mạnh tiềm thức đã chém thủng lớp vảy hạ một con, nhưng sau đó cạn Ma Lực và bị con thứ hai dồn vào thế yếu.
+Capitan giải thích việc để Niedz cạn sạch Ma Lực là có chủ đích nhằm dạy họ cách dùng Khí Lực (Ma Lực tồn đọng trong cơ thể sẽ gây cản trở cảm nhận Khí Lực); Diego ngạc nhiên vì từng bị tư tế Chiến Thần phán không có tài năng, nhưng Capitan khẳng định Diego gặp thầy dở vì anh hoàn toàn có tố chất.
+Cảnh kết thúc: Capitan khẳng định chắc nịch với Diego rằng theo những gì ông quan sát thì Diego thực sự có tài năng sử dụng Khí Lực.

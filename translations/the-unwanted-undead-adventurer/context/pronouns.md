@@ -134,6 +134,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Woman in the Black Robe | người phụ nữ tóc trắng / cô ta / người phụ nữ | 26 | Người phụ nữ tóc trắng áo chùng đen bí ẩn sở hữu sức mạnh áp đảo (#26, #328) |
 | K’rik | K’rik / anh / anh ta / thủ lĩnh K’rik | 329 | Tộc trưởng phân nhánh Lizardman dạng hải xà |
 | Canhel Avara | Canhel Avara / Canhel / Nữ Ma Vương / cô ta | 329 | Nữ Ma Vương của vảy và bầu trời |
+| Lukas | tôi / Lukas / cậu ta / anh chàng | 331 | Người kể chuyện ngôi thứ nhất ở nửa đầu chương #331 |
 
 
 
@@ -673,6 +674,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Capitan | Diego Malga | tôi | cậu / Diego | 324 | Mạo hiểm giả kỳ cựu nói chuyện với chủ tiệm đồ nguyền |
 | Diego Malga | Lukas | tôi | cậu / Lukas | 330 | Mạo hiểm giả cấp trên chấn chỉnh hậu bối |
 | Lukas | Diego Malga | tôi | anh / Diego / anh Diego | 330 | Mạo hiểm giả cấp thấp nói chuyện với chủ tiệm đồ nguyền |
+| Lukas | Capitan | tôi | Đại ca Capitan / Capitan | 331 | Mạo hiểm giả cấp thấp kính nể mạo hiểm giả tiền bối (raw: Boss Capitan) |
 
 
 
