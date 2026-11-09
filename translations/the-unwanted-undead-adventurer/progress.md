@@ -297,9 +297,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | reviewed |  |
 | 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | reviewed |  |
 | 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | reviewed |  |
-| 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | done |  |
-| 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | done |  |
-| 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | done |  |
+| 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | reviewed |  |
+| 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | reviewed |  |
+| 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | reviewed |  |
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | todo |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | todo |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | todo |  |
@@ -351,6 +351,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 ## Đã quyết
 
 <!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->
+- [#295] Xưng hô của Trưởng thôn Jiris với Rentt Faina → Thống nhất Jiris xưng 'tôi', gọi Rentt là 'cậu / cậu Rentt' xuyên suốt chương 295 và các chương tiếp theo của arc Làng Crask (thay vì trộn lẫn 'cậu' và 'ngài') (orchestrator)
 - [#273] 'Arc Tahadu' trong raw 'a grandchild of the vampire king, Arc Tahadu' là tên của ai: 'Arc Tahadu' là tên của Vua Ma Cà Rồng (Lord Arc), kẻ tập kích Rentt là quyến thuộc đời cháu ('grandchild') của hắn → Chốt 'một người cháu của Vua Ma Cà Rồng Arc Tahadu' (orchestrator)
 - [#268] Xưng hô của cậu bé thân chủ Vitez Normorte với Rentt và Augurey: Vitez ban đầu ra vẻ người lớn xưng 'tôi' gọi 'hai người / mấy người', sau khi bật khóc và mở lòng thì xưng 'em' gọi 'hai anh / anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' → Chốt Vitez xưng 'tôi' (lúc đầu) / 'em' (lúc mở lòng), gọi 'hai người' / 'hai anh'; Augurey và Rentt xưng 'tôi / bọn tôi', gọi 'nhóc / Vitez' (orchestrator)
 - [#1] Dịch 'Existential Evolution' — tạm chọn 'Tiến Hóa Bản Thể' (phương án khác: 'Tiến Hóa Tồn Tại') → Chốt Tiến Hóa Bản Thể (orchestrator)

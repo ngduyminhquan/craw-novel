@@ -8,7 +8,7 @@ Tôi tự hỏi liệu cái thói tằn tiện này có bao giờ bỏ được 
 
 "Hai lít chất lỏng Slime... Ba viên Ma Tinh Khô Lâu... Ừm, chắc nhận một trong mấy cái này là được."
 
-Lũ quái vật sinh ra trong Mê Cung Nguyệt Ảnh toàn thuộc hàng đáy tầng lớp: Slime, Khô Lâu và Goblin. Vẫn còn vài chủng loại khác, nhưng đó là những con chủ yếu, và cũng chính nhờ chúng mà thời còn là con người tôi mới kiếm sống qua ngày được.
+Lũ quái vật sinh ra trong Mê Cung Nguyệt Ảnh toàn thuộc hàng bét: Slime, Khô Lâu và Goblin. Vẫn còn vài chủng loại khác, nhưng đó là những con chủ yếu, và cũng chính nhờ chúng mà thời còn là con người tôi mới kiếm sống qua ngày được.
 
 Theo một nghĩa nào đó thì tôi mang ơn chúng, nên trong thâm tâm đôi lúc tôi cũng băn khoăn liệu chọn chúng làm đối thủ mở màn cho thanh kiếm có phải là tạo nghiệp hay không, nhưng tôi cũng chẳng có nhiều lựa chọn. Làm mạo hiểm giả thì công việc vốn dĩ là thế. Chưa kể, nếu cứ mặc kệ cho chúng sinh sôi nảy nở thì sớm muộn cũng sinh chuyện.
 
@@ -16,7 +16,7 @@ Tùy từng nơi trên thế giới, người ta vẫn có thể bắt gặp Gob
 
 Chẳng biết khả năng ấy cao đến đâu, và liệu trong số những quái vật từng bị tôi hạ sát có con nào giống mình hay không. Dòng suy nghĩ đó làm tâm trạng tôi chùng xuống, nên tôi quyết định không nghĩ lan man thêm nữa.
 
-"Chắc mình nhận tờ này vậy... Ái." Tôi vốn chẳng kén chọn ủy thác nào, định với tay lấy tờ thu thập chất lỏng Slime thì một mạo hiểm giả khác đã nhanh tay nẫng mất.
+"Chắc mình nhận tờ này vậy... Ơ." Tôi vốn chẳng kén chọn ủy thác nào, định với tay lấy tờ thu thập chất lỏng Slime thì một mạo hiểm giả khác đã nhanh tay nẫng mất.
 
 "Xin lỗi nhé..." người đó lên tiếng xin lỗi sau khi cả hai nhìn nhau chằm chằm một lúc.
 
@@ -52,7 +52,7 @@ Xem ra rốt cuộc vẫn phải vào mê cung thôi. Bản tính tằn tiện t
 
 Tôi nghe thấy tiếng quát lớn vọng lại từ phía quầy tiếp tân. Quay đầu nhìn sang, tôi thấy Sheila và một chàng trai trẻ trông như đang nài nỉ cô ấy. Người cậu ta bầm giập tơi tả, áo quần rách rưới; không biết cậu ta đã gặp phải chuyện gì. Tò mò, tôi nấn ná lại nghe cuộc trò chuyện giữa hai người.
 
-"Cậu nói quả không sai... nhưng đó là chuyện trước khi mê cung mới xuất hiện trong thị trấn," Sheila nói. Qua giọng điệu của cô, tôi cảm nhận rõ cô rất đồng cảm với chàng trai. "Mạo hiểm giả ở Maalt hiện đang rất đắt khách vì hàng loạt ủy thác từ Tòa Tháp và Học Viện đổ về. Với mức thù lao cậu đưa ra thế này, tôi e là chẳng có mạo hiểm giả nào chịu nhận đâu. Dĩ nhiên Hội vẫn sẵn lòng thụ lý ủy thác, nhưng sợ rằng cậu đừng nên quá hy vọng vào việc có người nhận..."
+"Cậu nói quả không sai... nhưng đó là chuyện trước khi mê cung mới xuất hiện trong thị trấn," Sheila nói. Qua giọng điệu của cô ấy, tôi cảm nhận rõ sự đồng cảm dành cho chàng trai. "Mạo hiểm giả ở Maalt hiện đang rất đắt khách vì hàng loạt ủy thác từ Tòa Tháp và Học Viện đổ về. Với mức thù lao cậu đưa ra thế này, tôi e là chẳng có mạo hiểm giả nào chịu nhận đâu. Dĩ nhiên Hội vẫn sẵn lòng thụ lý ủy thác, nhưng sợ rằng cậu đừng nên quá hy vọng vào việc có người nhận..."
 
 Maalt nằm tít nơi hẻo lánh, số lượng mạo hiểm giả chúng tôi vốn chẳng có bao nhiêu. Ấy thế mà đùng một cái, chúng tôi lại rơi vào cảnh thiếu người trầm trọng. Nói ngắn gọn thì cầu nhiều mà cung ít.
 
@@ -70,7 +70,7 @@ Nghĩ vậy, tôi rảo bước về phía Sheila và chàng trai trẻ.
 
 "Anh Rentt..." Vẻ mặt Sheila như thể đã thừa biết tôi đứng hóng hớt nãy giờ.
 
-Ngược lại, chàng trai trẻ nhìn tôi với ánh mắt đầy vẻ ngờ vực, nhưng nỗi nghi ngại nhanh chóng tan biến khi cậu thấy chiếc mặt nạ đầu lâu và áo choàng của tôi. "Anh... là mạo hiểm giả sao? Làm ơn, xin anh hãy lắng nghe tôi nói!"
+Ngược lại, chàng trai trẻ nhìn tôi với ánh mắt đầy vẻ ngờ vực, nhưng nỗi nghi ngại nhanh chóng tan biến khi cậu ấy thấy chiếc mặt nạ đầu lâu và áo choàng của tôi. "Anh... là mạo hiểm giả sao? Làm ơn, xin anh hãy lắng nghe tôi nói!"
 
 Thấy cậu ta nhận ra mình là mạo hiểm giả nhanh đến thế với bộ dạng này, thực lòng tôi cũng thấy hơi nể...
 
@@ -92,13 +92,13 @@ Nhưng mấy chuyện suy ngẫm đó để lúc khác cũng được, hiện gi
 
 "À thì, tôi tình cờ rảnh rỗi đôi chút," tôi nói. "Mấy ủy thác tôi định nhận đều bị người ta nẫng tay trên mất rồi... mà ra về tay không thì thấy cứ cấn cấn. Tôi không hứa trước điều gì đâu, nhưng ít nhất tôi có thể lắng nghe chuyện của cậu."
 
-Nét mặt tuyệt vọng của Rivul giãn ra đôi chút, rồi một nụ cười rạng rỡ bừng sáng cả khuôn mặt cậu.
+Nét mặt tuyệt vọng của Rivul giãn ra đôi chút, rồi cậu ấy nhoẻn miệng cười rạng rỡ làm bừng sáng cả căn phòng.
 
 "Thật sao?! Cảm ơn anh! Cảm ơn anh nhiều lắm!"
 
 ◆◇◆◇◆
 
-Rivul và tôi chuyển sang chỗ khác, ngồi vào một bàn trong quán rượu liền kề với Hội. Sheila dặn chúng tôi cứ gọi cô nếu tôi quyết định nhận việc, rồi cô rời đi bắt tay vào công việc khác. Xem chừng hôm nay cô chủ yếu trực quầy tiếp tân, nhưng nếu ở Maalt ngày trước cô chẳng cần làm thêm việc gì, thì dạo này chuyện đó không còn nữa. Hàng đống công việc đang chờ giải quyết, và ai rảnh tay đều có trách nhiệm phụ giúp, bất kể thuộc bộ phận nào.
+Rivul và tôi chuyển sang chỗ khác, ngồi vào một bàn trong quán rượu liền kề với Hội. Sheila dặn chúng tôi cứ gọi cô ấy nếu tôi quyết định nhận việc, rồi rời đi bắt tay vào công việc khác. Xem chừng hôm nay cô ấy chủ yếu trực quầy tiếp tân, nhưng nếu ở Maalt ngày trước chẳng cần làm thêm việc gì, thì dạo này chuyện đó không còn nữa. Hàng đống công việc đang chờ giải quyết, và ai rảnh tay đều có trách nhiệm phụ giúp, bất kể thuộc bộ phận nào.
 
 Hèn chi Wolf cũng tìm cách lôi kéo tôi giúp sức, mà ban nãy hình như tôi thấy quầng thâm dưới mắt Sheila thì phải?
 
@@ -114,13 +114,13 @@ Tim tôi khẽ xốn xang. Đó chính là những đối thủ tôi đang đỏ
 
 Dù sao đi nữa, câu chuyện của Rivul nghe chừng đáp ứng trọn vẹn cả hai nhu cầu của tôi: thử kiếm mới và nhận ủy thác. Dù tôi biết nó chẳng mấy hấp dẫn với các mạo hiểm giả khác, bởi Khô Lâu không phải mục tiêu béo bở gì. Chúng là loài quái vật hạng bét lúc nào cũng có thể tìm thấy trong Mê Cung Nguyệt Ảnh, mà thứ thu được từ chúng chỉ có Ma Tinh và mấy mẩu xương cứng hơn bình thường một chút. Chẳng có lý do chính đáng nào để người ta phải lặn lội ra tận ngoài xa xôi mà săn chúng.
 
-Dù vậy, trước đây ắt hẳn vẫn sẽ có người nhận lời... nếu đó là thời điểm trước khi mê cung mới xuất hiện ở Maalt. Kể cả không kiếm được món hời lớn, khoản thù lao ủy thác Rivul đưa ra vẫn hời hơn nhiều so với việc tự mình đi săn Khô Lâu rồi đem nguyên liệu đi bán. Với một mạo hiểm giả cấp thấp, ủy thác của cậu ta có sức hút không nhỏ.
+Dù vậy, trước đây ắt hẳn vẫn sẽ có người nhận lời... nếu đó là thời điểm trước khi mê cung mới xuất hiện ở Maalt. Kể cả không kiếm được món hời lớn, khoản thù lao ủy thác Rivul đưa ra vẫn nhiều hơn hẳn so với việc tự mình đi săn Khô Lâu rồi đem nguyên liệu đi bán. Với một mạo hiểm giả cấp thấp, ủy thác của cậu ấy có sức hút không nhỏ.
 
-Thế nhưng trong tình hình hiện tại của Maalt, ngay cả mạo hiểm giả cấp thấp cũng đang kiếm bộn từ các công việc béo bở do Tòa Tháp và Học Viện đưa ra. Một ủy thác từng rất ổn áp trong quá khứ giờ đây chẳng còn mấy sức hút. Tôi không nghĩ tình trạng này sẽ kéo dài mãi mãi, nhưng trước mắt thì các mạo hiểm giả Maalt đang trải qua một thời kỳ bong bóng kinh tế nho nhỏ.
+Thế nhưng trong tình hình hiện tại của Maalt, ngay cả mạo hiểm giả cấp thấp cũng đang kiếm bộn từ các công việc béo bở do Tòa Tháp và Học Viện đưa ra. Một ủy thác từng rất khá khẩm trước đây giờ chẳng còn mấy sức hút. Tôi không nghĩ tình trạng này sẽ kéo dài mãi mãi, nhưng trước mắt thì các mạo hiểm giả Maalt đang trải qua một thời kỳ bong bóng kinh tế nho nhỏ.
 
 Thành thử, ngay cả khi Rivul niêm yết ủy thác lên bảng, cũng chẳng ai thèm ngó ngàng tới lần thứ hai.
 
-"À thì... cậu chỉ gặp xui xẻo thôi," tôi an ủi. "Ngày xui xẻo thế này thỉnh thoảng vẫn xảy ra mà. Thật ra chính tôi hôm nay cũng dính một ngày như thế đây. Mới vài phút trước thôi, mấy ủy thác tôi tính nhận đều bị các mạo hiểm giả khác lần lượt nẫng mất. Bình thường chẳng bao giờ có chuyện đó đâu, nhưng sự đời là thế đấy."
+"À thì... cậu chỉ không may thôi," tôi an ủi. "Những ngày xui xẻo thế này thỉnh thoảng vẫn xảy ra mà. Thật ra chính tôi hôm nay cũng dính một ngày như thế đây. Mới vài phút trước thôi, mấy ủy thác tôi tính nhận đều bị các mạo hiểm giả khác lần lượt nẫng mất. Bình thường chẳng bao giờ có chuyện đó đâu, nhưng sự đời là thế đấy."
 
 "Có lẽ anh nói đúng," Rivul đồng tình.
 

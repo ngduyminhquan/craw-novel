@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:12:25Z",
+  "generatedAt": "2026-11-09T08:15:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3920,19 +3920,19 @@
           "number": 293,
           "title": "Chương 293: Tập 12 Chương 5 - Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn (7)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_293.md",
-          "sha": "91aeab1334639d6742e88888b3262e50b7e79062"
+          "sha": "12df942ee79fa8cb3158e54e1d9d0c32e6b9c96c"
         },
         {
           "number": 294,
           "title": "Chương 294: Tập 12 Chương 6 - Một Ủy Thác Nọ (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_294.md",
-          "sha": "7630d7e20c23cdbb57a196ef1e18f0ab5c79cd5f"
+          "sha": "2086f47f8cd8986b78b1a20139af3e37e986b5dc"
         },
         {
           "number": 295,
           "title": "Chương 295: Tập 12 Chương 6 - Một Ủy Thác Nọ (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_295.md",
-          "sha": "b9aff210ca91970c3b92c099f02b5e427069c6c8"
+          "sha": "894c0622c12bfd2f65429698f7b99270ec960c27"
         }
       ]
     },

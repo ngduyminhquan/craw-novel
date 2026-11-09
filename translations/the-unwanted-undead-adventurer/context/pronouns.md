@@ -589,7 +589,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sheila Ibarss | Rivul | tôi | cậu / cậu Rivul | 294 | Tiếp tân viên Hội giải thích và nhẹ nhàng nhắc nhở thân chủ |
 | Rivul | Sheila Ibarss | tôi | cô | 294 | Thân chủ phân trần với tiếp tân viên Hội |
 | Rentt Faina | Jiris | tôi | ông / Trưởng thôn Jiris | 295 | Mạo hiểm giả nói chuyện với trưởng thôn lớn tuổi |
-| Jiris | Rentt Faina | tôi | cậu / ngài / ngài Rentt | 295 | Trưởng thôn lớn tuổi cảm kích và tôn trọng mạo hiểm giả |
+| Jiris | Rentt Faina | tôi | cậu / cậu Rentt | 295 | Trưởng thôn lớn tuổi cảm kích và tôn trọng mạo hiểm giả |
 | Jiris | Rivul | ta | cháu / Rivul | 295 | Trưởng thôn lớn tuổi nói chuyện với thanh niên trong làng |
 | Rivul | Jiris | cháu | Trưởng thôn / bác Jiris / mọi người | 295 | Thanh niên trong làng nói chuyện với trưởng thôn lớn tuổi |
 
