@@ -489,4 +489,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mirror of Youth | Mirrors of Youth | Gương Tuổi Trẻ | vật phẩm | 278 | Ma cụ phản chiếu hình ảnh thời trẻ của người soi gương (青春の鏡) |
 | Specular Fiend | Fiend | Kính Ma | quái vật | 278 | Quái vật hiếm ẩn nấp trong gương và kéo con mồi vào thế giới ảo giác (鏡魔) |
 | First University |  | Đệ Nhất Đại Học | tổ chức | 278 | Tên gọi ngắn gọn của Đệ Nhất Đại Học Rermutt |
+| Mystera |  | Mystera | địa danh | 279 | Thành phố cấp tỉnh sầm uất nằm xa về phía tây vương đô Yaaran, nơi cha của Dorothea kinh doanh |
+| Muga | village of Muga | Muga | địa danh | 279 | Ngôi làng trạm dừng chân cho khách lữ hành và thương nhân gần Maalt |
+| arcante grass |  | cỏ arcante | vật phẩm | 279 | Thảo dược mọc ven đường quanh Maalt có giá trị cao ở các thành phố lớn |
+| dewdrop herb | dewdrop herbs | thảo dược giọt sương | vật phẩm | 279 | Thảo dược có hoa đẹp mọc ven đường quanh Maalt có giá trị cao ở các thành phố lớn |
+
 

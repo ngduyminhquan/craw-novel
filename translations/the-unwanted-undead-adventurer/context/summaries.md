@@ -1653,6 +1653,13 @@ Hình bóng thuở nhỏ cám dỗ Lorraine bằng viễn cảnh thăng tiến t
 Trở về thực tại bên cạnh Rentt (người vừa say sưa tận hưởng giấc mộng trở thành mạo hiểm giả Mithril Cấp), Lorraine khẳng định sự trân trọng với cuộc sống hiện tại và dùng dữ liệu ảo giác để sáng tạo ma pháp mới.
 Cảnh kết thúc: Cả hai cùng thưởng thức bữa tối vui vẻ và Lorraine thầm biết ơn lựa chọn mười năm trước đã đưa cô đến với cuộc sống bên Rentt ngày hôm nay.
 
+## 279
+Bên đống lửa trại sau một ngày khởi hành từ Maalt, Dorothea chia sẻ với Rina về ước mơ mở một cửa tiệm sánh ngang cơ nghiệp của cha ở thành phố Mystera và những biến cố dồn dập trong hai năm buôn bán, còn Rina vừa động viên vừa giúp thu hái nhiều loại dược liệu quý (cỏ arcante, thảo dược giọt sương) ven đường nhờ kỹ năng học từ sư phụ Rentt.
+Giữa cuộc trò chuyện, Rina nhạy bén phát hiện và dùng kiếm chém rơi mũi tên bắn lén, phóng dao hạ gục cung thủ rồi dặn Dorothea lui về cỗ xe để cô một mình lao vào rừng diệt cướp.
+Chuyển sang hồi tưởng một tuần trước tại Làng Muga, gã kiếm sĩ cướp đường Guster nhận lời một người đàn ông giàu có bí ẩn: nhận một túi tiền vàng lớn để cản trở, dọa dẫm Dorothea nhằm ép cô bỏ nghề buôn bán với điều kiện cô không có quá một hộ vệ Đồng Cấp.
+Cảnh kết thúc: Giữa lúc bị truy sát xuyên rừng (bởi Rina), Guster cay đắng hối hận vì đã nhận phi vụ tai họa này.
+
+
 
 
 

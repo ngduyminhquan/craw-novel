@@ -105,6 +105,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pochi | Pochi / chú chó / con quái vật | 265 | Chú chó khổng lồ lông trắng tại cô nhi viện |
 | Vitez Normorte | Vitez / cậu bé / thằng nhóc | 268 | Cậu bé thân chủ trong ngoại truyện (#268) |
 | Dorothea Merrow | Dorothea / cô / nữ thương nhân | 276 | Nữ thương nhân độc hành thuê mạo hiểm giả hộ vệ |
+| Guster | Guster / gã / người đàn ông | 279 | Thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga |
 
 
 ## Giữa các nhân vật

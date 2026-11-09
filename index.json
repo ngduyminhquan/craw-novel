@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T04:15:03Z",
+  "generatedAt": "2026-11-09T04:21:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3821,6 +3821,12 @@
           "title": "Chương 278: Chương đệm Tập 12 - Lựa Chọn Của Lorraine",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_278.md",
           "sha": "ea15e8cf84aa952d1008402af638aa68565cc5cd"
+        },
+        {
+          "number": 279,
+          "title": "Chương 279: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_279.md",
+          "sha": "0bcc4e48691a212d0dc44cc881c90d53cebf2f04"
         }
       ]
     },
