@@ -1646,6 +1646,14 @@ Khi bàn về lộ trình, Rina khuyên tránh khu vực Núi Tute vì bầy Har
 Nhận thấy Rina không giở trò im lặng để kéo dài ngày đi đòi tăng thù lao như gã mạo hiểm giả trước, Dorothea đồng ý đổi lộ trình; khi được hỏi, Rina thản nhiên khẳng định nếu chạm trán bầy Harpy hàng trăm con thì cô vẫn tự tin không chết và sẽ mang di vật của thân chủ về, khiến Dorothea nhìn thấy khí chất của một mạo hiểm giả thực thụ.
 Cảnh kết thúc: Cảm thấy bản thân may mắn khi gặp được người hộ vệ phù hợp, Dorothea chính thức nhận thuê Rina và Rina vui vẻ hứa sẽ cống hiến hết sức mình.
 
+## 278
+Rentt mang về một chiếc Gương Tuổi Trẻ nhặt được từ bầy Goblin ở Mê Cung Nguyệt Ảnh, nhưng hình ảnh phản chiếu trong gương lại tự cử động và bất ngờ vươn tay kéo cả Rentt lẫn Lorraine vào thế giới hư không.
+Tại không gian ảo giác, Lorraine chứng kiến những hồi ức quá khứ: cuộc cãi vã thuở nhỏ với vị sư phụ cũ về cách chế tạo đũa phép, và chuỗi ngày bận rộn vùi đầu vào nghiên cứu tại Đệ Nhất Đại Học Rermutt cùng lời khuyên nghỉ ngơi của cô cấp dưới.
+Hình bóng thuở nhỏ cám dỗ Lorraine bằng viễn cảnh thăng tiến trở thành viện trưởng đại học danh giá, nhưng cô tỉnh táo vạch trần con quái vật hiếm Kính Ma đang mượn chiếc gương để ngụy trang, rồi vung kiếm nện vỡ đầu nó giải trừ ảo cảnh.
+Trở về thực tại bên cạnh Rentt (người vừa say sưa tận hưởng giấc mộng trở thành mạo hiểm giả Mithril Cấp), Lorraine khẳng định sự trân trọng với cuộc sống hiện tại và dùng dữ liệu ảo giác để sáng tạo ma pháp mới.
+Cảnh kết thúc: Cả hai cùng thưởng thức bữa tối vui vẻ và Lorraine thầm biết ơn lựa chọn mười năm trước đã đưa cô đến với cuộc sống bên Rentt ngày hôm nay.
+
+
 
 
 

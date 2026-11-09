@@ -282,7 +282,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | reviewed |  |
 | 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | reviewed |  |
 | 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | done |  |
-| 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | todo |  |
+| 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | done |  |
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | todo |  |
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | todo |  |
 | 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -938,3 +937,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#276] Dịch địa danh mới 'Zahak' (thị trấn tỉnh lỵ phía tây Maalt nơi Dorothea từng bị lừa) — tạm giữ nguyên tên riêng phương Tây 'Zahak' theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zahak'. → Duyệt giữ nguyên tên riêng phương Tây "Zahak" theo rules.md. (orchestrator)
 - [#276] Cảnh báo QA 'prior' không có 'Phó Tu Viện Trưởng' trong bản dịch — raw dùng nghĩa từ vựng thời gian thông thường ('two years prior', 'prior to their departure'), không phải chức sắc giáo phẩm 'Phó Tu Viện Trưởng' trong glossary.md, là cảnh báo báo nhầm (false positive). Tạm dùng trong bản dịch: bỏ qua cảnh báo, dịch tự nhiên theo ngữ cảnh thời gian. → Duyệt bỏ qua cảnh báo false positive do "prior" trong raw là từ vựng chỉ thời gian thông thường. (orchestrator)
 - [#277] Xưng hô giữa nữ thân chủ thương nhân Dorothea Merrow và Rina Rupaage: hiện tạm dùng 'tôi - cô' hai chiều chuẩn mực mạo hiểm giả - thương nhân (Dorothea gọi 'cô / Rina', Rina gọi 'cô / Dorothea') → Duyệt giữ nguyên xưng hô "tôi - cô" hai chiều chuẩn mực giữa mạo hiểm giả và thương nhân thân chủ (Dorothea gọi "cô / Rina", Rina gọi "cô / Dorothea"). (orchestrator)
+- [#278] Dịch 'Mirror of Youth' và 'Specular Fiend' — tạm chọn 'Gương Tuổi Trẻ' (phương án khác: 'Gương Thanh Xuân') và 'Kính Ma' (phương án khác: 'Gương Ma', 'Kính Quỷ'); cảnh báo QA về 'Flood' là do thành ngữ 'a flood of information' trong raw, đã dịch thoát nghĩa thành 'dòng thác thông tin'. → Duyệt "Gương Tuổi Trẻ" (Mirror of Youth), "Kính Ma" (Specular Fiend) và bỏ qua cảnh báo false positive về "flood" ("a flood of information"). (orchestrator)

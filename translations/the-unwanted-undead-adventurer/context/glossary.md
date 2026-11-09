@@ -486,4 +486,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Farga Highway | Farga | Đại Lộ Farga | địa danh | 277 | Tuyến đường có cây cầu bị sập gần Maalt (ファルガ街道) |
 | Harpy | harpies; Harpy; Harpies | Harpy | quái vật | 277 | Quái vật nửa người nửa chim quen thuộc trong thần thoại (ハーピー) |
 | Merchant’s Guild | merchant’s guild; merchant's guild; Merchant's Guild | Hội Thương Nhân | tổ chức | 277 | Hiệp hội buôn bán của giới thương nhân (商工ギルド/商人ギルド) |
+| Mirror of Youth | Mirrors of Youth | Gương Tuổi Trẻ | vật phẩm | 278 | Ma cụ phản chiếu hình ảnh thời trẻ của người soi gương (青春の鏡) |
+| Specular Fiend | Fiend | Kính Ma | quái vật | 278 | Quái vật hiếm ẩn nấp trong gương và kéo con mồi vào thế giới ảo giác (鏡魔) |
+| First University |  | Đệ Nhất Đại Học | tổ chức | 278 | Tên gọi ngắn gọn của Đệ Nhất Đại Học Rermutt |
 
