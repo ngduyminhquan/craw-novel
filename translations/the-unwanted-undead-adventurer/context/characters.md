@@ -170,6 +170,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Skullface |  | Mặt Đầu Lâu | Biệt danh Niedz và Diego dùng để gọi Rentt Faina khi đeo mặt nạ đầu lâu | #319 |
 | Mazlak |  | Mazlak | Ông lão / thủy thủ già kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần, bạn lâu năm của Raul Malga và biết Diego từ nhỏ (#321, #324) | #321 |
 | Mariana |  | Mariana | Người mẹ quá cố của Diego Malga, vợ của Raul Malga | #324 |
+| Boss Rentt |  | Đại ca Rentt | Biệt danh Lukas dùng để gọi Rentt Faina (#320, #325) | #320 |
 
 
 

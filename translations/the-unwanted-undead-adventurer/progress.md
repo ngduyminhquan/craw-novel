@@ -329,7 +329,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | reviewed |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | done |  |
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | done |  |
-| 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | todo |  |
+| 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | done |  |
 | 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | todo |  |
 | 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | todo |  |
 | 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1013,3 +1014,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#323] Dịch 'kelpie riders' trong đối thoại giữa Capitan và Rentt — tạm chọn 'kỵ sĩ cưỡi Kelpie' / 'lũ kỵ sĩ cưỡi Kelpie' (đồng bộ với #321; phương án khác: 'Hải Kỵ Sĩ cưỡi Kelpie', 'kỵ binh Kelpie'). Tạm dùng trong bản dịch: 'kỵ sĩ cưỡi Kelpie' / 'lũ kỵ sĩ cưỡi Kelpie'. → Chốt dùng 'kỵ sĩ cưỡi Kelpie' (orchestrator)
 - [#324] Xưng hô giữa Niedz và Mazlak: Niedz xưng 'tôi', gọi 'ông / thưa bác' (raw: 'Sir'); Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc' (raw: 'lad') → Tạm dùng: Niedz xưng 'tôi', gọi 'ông / thưa bác'; Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc'. → Chốt dùng Niedz xưng 'tôi', gọi 'ông / thưa bác'; Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc' (orchestrator)
 - [#324] Mazlak được raw #324 xác nhận là ông lão (old man / senior citizen) → Thống nhất lời dẫn gọi Mazlak là 'Mazlak / người thủy thủ / người thủy thủ già / ông lão / ông ấy', Capitan xưng 'tôi' gọi Mazlak là 'ông / Mazlak' ở #321 và #324 (orchestrator)
+- [#325] Tiêu đề arc 'Dungeon Delving' — tạm chọn 'Tập 14 Chương 2 - Thám Hiểm Mê Cung (1)' (đồng bộ với nguyên tác 迷宮探索; phương án khác: 'Tập 14 Chương 2 - Tiến Sâu Vào Mê Cung (1)'). Tạm dùng trong bản dịch: 'Tập 14 Chương 2 - Thám Hiểm Mê Cung (1)'. → Chốt dùng 'Tập 14 Chương 2 - Thám Hiểm Mê Cung' (orchestrator)
+- [#325] Dịch tên vị thần 'Giza, the deity of bards / god of pleasure' — tạm giữ nguyên tên riêng phương Tây 'Giza' theo rules.md và dịch danh hiệu/bổn phận là 'vị thần của các thi nhân / thần lạc thú' (phương án khác: 'Thần Thi Nhân Giza'). Tạm dùng trong bản dịch: 'Giza, vị thần của các thi nhân / thần lạc thú'. → Chốt giữ nguyên tên riêng 'Giza', dịch danh xưng là 'vị thần của các thi nhân / thần lạc thú' (orchestrator)
+- [#325] Dịch 'cursed equipment' (trang bị cần thiết để lặn biển thám hiểm Mê Cung Các Con Gái Của Hải Thần) — tạm dịch là 'Nguyền Cụ' và bổ sung alias vào mục Cursed Artifacts trong glossary.md (phương án khác: 'trang bị nguyền'). Tạm dùng trong bản dịch: 'Nguyền Cụ'. → Chốt dùng 'Nguyền Cụ' (alias của Cursed Artifacts) (orchestrator)

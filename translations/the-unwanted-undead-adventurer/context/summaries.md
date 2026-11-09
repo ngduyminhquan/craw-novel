@@ -1032,3 +1032,10 @@ Rentt dẫn Diego cùng nhóm ba người Niedz tới quán rượu gặp Capita
 Mazlak tiết lộ từng là bạn lâu năm của Raul Malga (cha quá cố của Diego); khi Mazlak nhắc đến người mẹ quá cố Mariana, Diego tế nhị chuyển chỗ ngồi nghe hát rong để tránh gợi lại chuyện buồn gia đình.
 Nhóm thống nhất danh sách đi thuyền thám hiểm Mê Cung Các Con Gái Của Hải Thần và sẵn sàng để Diego tham gia nếu anh muốn tự mình nghiên cứu nguồn gốc Nguyền Cụ; Capitan đồng ý chia sẻ toàn bộ Nguyền Cụ tìm được trừ vài món làm quà cho bà Gharb.
 Cảnh kết thúc: Capitan và Rentt thông báo sẽ bắt đầu khóa huấn luyện thể lực cùng kinh nghiệm thực chiến khắc nghiệt cho bộ ba Niedz trước khi xuống mê cung, khiến Niedz không khỏi hoang mang lo lắng.
+
+## 325
+Rentt rời bàn rượu sang ngồi cùng Diego để lắng nghe nữ thi nhân biểu diễn; hai người trò chuyện về bổn phận của thi nhân theo ý muốn của Thần Giza, và Rentt tâm sự về biến cố thuở ấu thơ khi mất đi người bạn thân cùng cha mẹ ruột khiến anh quyết định trở thành mạo hiểm giả.
+Diego cảm phục tấm lòng chân thành của Rentt đối với nhóm Niedz và quyết định sẽ đồng hành vào Mê Cung Các Con Gái Của Hải Thần để tận mắt học hỏi cách nâng đỡ các mạo hiểm giả cấp thấp.
+Sáng hôm sau tại tiệm đồ nguyền, Rentt giúp bộ ba Niedz chuẩn bị trang bị và được Diego kể về truyền thuyết lập thành Lucaris gắn liền với tiếng nói của các con gái Hải Thần cùng triết lý thực tế của Giáo Hội Thần Giám Định.
+Nhóm Niedz hoang mang, sợ hãi khi biết sẽ phải trực tiếp chiến đấu với quái vật trong mê cung thay vì chỉ hỗ trợ thu thập thảo dược ngoài rìa, nhưng Rentt kiên quyết uốn nắn và thúc giục họ đối diện với thực tế.
+Cảnh kết thúc: Rentt giục bộ ba Niedz chỉnh đốn giáp trụ rồi cùng Diego rời tiệm, cả nhóm tiến về phía bến cảng nơi Capitan và Mazlak đang đợi sẵn thuyền.

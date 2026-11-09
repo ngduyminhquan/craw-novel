@@ -132,7 +132,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Latuule Family | the Latuule Family; the Latuules; Latuules; House Latuule; the Latuule household; Latuule household | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
 | Divine Tools | Divine Tool; divine item; divine items | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
 | Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
-| Cursed Artifacts | Cursed Artifact; cursed item; cursed items; cursed object; cursed objects; cursed tool; cursed tools | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
+| Cursed Artifacts | Cursed Artifact; cursed item; cursed items; cursed object; cursed objects; cursed tool; cursed tools; cursed equipment | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |
 | Teleportation |  | Dịch chuyển tức thời | kỹ năng | 63 | Ma pháp không gian đặc biệt dịch chuyển tức thời qua khoảng cách (転移) |
 | airship | airships; Airship; Airships | phi thuyền | vật phẩm | 65 | Phương tiện bay lượn khổng lồ di chuyển qua các vùng đất, vận hành bằng hơi nước hoặc ma pháp (飛空艇) |
 | Golem | Golems | Golem | quái vật | 66 | Người máy ma thuật / rối ma pháp tạo ra từ đất đá, kim loại hoặc ma cụ (ゴーレム) |
@@ -547,6 +547,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | air tube | air tubes | ống thở | vật phẩm | 321 | Nguyền Cụ dạng ống thủy tinh giúp thở dưới nước tại Lucaris |
 | sea knight | sea knights | Hải Kỵ Sĩ | quái vật | 321 | Quái vật hình nhân mang đầu thon nhọn như mực dưới biển Lucaris, thuộc hạ của Ma Vương |
 | Vampire Sovereign | Vampire Sovereigns | Quân Chủ Ma Cà Rồng | danh hiệu | 322 | Bậc quân chủ thống trị hùng mạnh trong loài Ma Cà Rồng |
+| Giza |  | Giza | khác | 325 | Vị thần của thi nhân kiêm thần lạc thú (deity of bards / god of pleasure) |
 
 
 
