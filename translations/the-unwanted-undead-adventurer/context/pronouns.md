@@ -143,7 +143,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sheila Ibarss | Rina Rupaage | tôi | cô / cô Rina | 9 | Nhân viên Hội giao tiếp chuẩn mực với mạo hiểm giả |
 | Rentt Faina | Luka | tôi | bà chủ / cô | 15 | Khách hàng giao tiếp lịch sự |
 | Luka | Rentt Faina | tôi | quý khách | 15 | Tiếp đón khách hàng chuyên nghiệp, tôn trọng |
-| Rentt Faina | Clope | tôi | anh | 15 | Khách hàng giao tiếp lịch sự, khiêm nhường |
+| Rentt Faina | Clope | tôi | anh / Clope | 15 | Khách hàng giao tiếp lịch sự, khiêm nhường |
 | Clope | Rentt Faina | tôi | cậu | 15 | Thợ rèn xưng hô bộc trực, thân thiện với khách |
 | Luka | Clope | em | anh | 15 | Vợ chồng kiêm bạn thanh mai trúc mã |
 | Clope | Luka | anh | em | 15 | Vợ chồng kiêm bạn thanh mai trúc mã |

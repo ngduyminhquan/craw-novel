@@ -6,11 +6,11 @@ Tôi vừa tóm tắt ngắn gọn cho cô ấy nghe diễn biến công việc,
 
 "Tôi cũng đâu có ngờ tới. Chuyện có ổ sinh Khô Lâu thì đành một nhẽ, nhưng lòi đâu ra một con Khô Lâu Kỵ Sĩ thì đúng là trở tay không kịp."
 
-"Loài đó quả thực hiếm thấy. Thường thì Khô Lâu phải đông cỡ vài chục con trở lên mới có khả năng xuất hiện, nhưng theo lời anh kể thì đâu phải như vậy..."
+"Loài đó quả thực hiếm thấy. Thường thì đàn Khô Lâu phải đông cỡ vài chục con trở lên nó mới có khả năng xuất hiện, nhưng theo lời anh kể thì đâu phải như vậy..."
 
 Lorraine đang nhắc tới một quy luật thường thấy ở các bầy quái vật: số lượng cá thể càng đông thì xác suất sinh ra những cá thể vượt trội càng lớn. Chẳng hạn như trong một đàn Goblin đông đúc, một Đại Tướng Goblin hay Vua Goblin thường sẽ xuất hiện để dẫn dắt chúng. Dù ít hay nhiều thì quy luật này áp dụng cho mọi loài quái vật.
 
-Các Ma Vương được coi là ví dụ điển hình nhất cho hiện tượng này. Người ta cho rằng họ có khả năng hủy diệt cả một quốc gia không chỉ nhờ vào thực lực cá nhân, mà còn bởi dưới trướng họ là những quân đoàn thuộc hạ hùng hậu và đông đảo khôn cùng.
+Các Ma Vương được coi là ví dụ điển hình nhất cho hiện tượng này. Người ta cho rằng chúng có khả năng hủy diệt cả một quốc gia không chỉ nhờ vào thực lực cá nhân, mà còn bởi dưới trướng chúng là những quân đoàn thuộc hạ đông đảo và hùng mạnh.
 
 Có điều, chưa từng có ai tận mắt chứng kiến sự ra đời của một Ma Vương—hoặc chí ít, những người từng thấy đều chẳng thể sống sót để được ghi tên vào sử sách.
 
@@ -30,7 +30,7 @@ Quái vật vốn là những sinh vật bao phủ trong bức màn bí ẩn, v�
 
 Tôi lắc đầu. "Xin lỗi vì làm cô cụt hứng, nhưng không hẳn vậy đâu. Chỉ là có quá nhiều điểm bất thường xung quanh vụ việc đó, nên tôi thấy tốt nhất là cứ kiểm tra kỹ càng bất cứ thứ gì mình kiếm được. Ngoài chuyện ấy ra thì tôi chẳng cảm nhận được điều gì đáng ngờ từ nó cả. Cơ mà xét nơi tìm thấy nó, biết đâu đây lại là một món kho báu nào đấy. Nếu bán kiếm được chút tiền thì cũng tốt."
 
-"Hóa ra anh chỉ muốn một dịch vụ thẩm định thông thường thôi à? Làm tôi cứ mừng hụt. Mà anh nói cũng phải—bề ngoài của nó chẳng có gì đáng ngờ. Trông cũng không giống một món Nguyền Cụ."
+"Hóa ra anh chỉ muốn nhờ thẩm định bình thường thôi à? Làm tôi cứ mừng hụt. Mà anh nói cũng phải—bề ngoài của nó chẳng có gì đáng ngờ. Trông cũng không giống một món Nguyền Cụ."
 
 "Vậy rốt cuộc nó chỉ là một chiếc cốc cũ kỹ thôi sao?"
 
@@ -56,11 +56,11 @@ Tóm lại, chiếc cốc này đủ hứa hẹn để thỏa mãn thú vui nghi
 
 "Nếu tôi mà làm gãy nó thật thì chắc Clope khóc ngập tiệm mất. Không phải đâu, anh ấy nhắn gọi tôi tới. Tôi chưa rõ đầu đuôi thế nào, nhưng nghe đâu anh ấy có việc muốn nhờ."
 
-"Ồ? Vừa xong việc này về là đã có người đến tận nơi đặt việc khác rồi cơ à. Xem chừng làm ăn khấm khá gớm nhỉ."
+"Ồ? Vừa đi làm một vụ về là đã có người gửi ủy thác riêng tiếp rồi cơ à. Xem chừng làm ăn khấm khá gớm nhỉ."
 
 "Đừng vội mừng hão. Biết đâu anh ấy chỉ muốn nhờ tôi đi gom mấy cái khố của Goblin thì sao?"
 
-"Tôi đồ rằng chẳng có chuyện đó đâu..."
+"Tôi không nghĩ là có chuyện đó đâu..."
 
 Lorraine nhăn mặt, nhưng tôi biết chuyện đó chẳng phải không thể. Bất chấp vẻ bề ngoài bặm trợn, Clope cũng có những lúc lập dị chẳng kém gì cô ấy.
 
@@ -78,7 +78,7 @@ Lorraine ngập ngừng một thoáng. "À thì... nếu lúc đó tôi vẫn ch
 
 Đúng như thường lệ, bên trong tiệm rèn kiêm cửa hàng Ba Chĩa oi nồng đến ngột ngạt. Sau khi được Luka chào đón, tôi cất tiếng gọi vọng về phía lò rèn ở phía sau.
 
-"Anh Clope. Anh Clope ơi! Có ở đó không?!"
+"Clope. Clope ơi! Anh có ở đó không?!"
 
 "Có đây! Chờ tôi một lát!"
 
@@ -114,11 +114,11 @@ Thanh kiếm thực ra vẫn đủ tốt để khối người muốn mua, nhưn
 
 ◆◇◆◇◆
 
-Đi theo Clope vào phòng sau, chúng tôi ngồi xuống quanh bàn. Vợ anh ấy là Luka mang trà tới cho hai người, nhưng cô ấy vội vã quay trở ra cửa hàng chứ không ngồi lại cùng chúng tôi.
+Tôi đi theo Clope vào phòng sau rồi cả hai cùng ngồi xuống bàn. Vợ anh ấy là Luka mang trà ra, nhưng cô ấy lại vội vã quay trở ra cửa hàng chứ không ngồi lại cùng chúng tôi.
 
 "Chuyện này xem chừng phức tạp lắm phải không?" tôi hỏi. Nhìn cách Luka tránh mặt để cho hai chúng tôi không gian riêng là tôi hiểu ngay.
 
-Clope cười gượng. "Tôi thấy áy náy ghê, làm cô ấy phải xem tôi như thể đồ thủy tinh dễ vỡ ấy... Khách quan mà nói thì chuyện này cũng chẳng to tát gì cho cam. Có điều với riêng cá nhân tôi thì nó hơi gai góc đôi chút. Cậu nghe tôi giãi bày được chứ?"
+Clope cười gượng. "Tôi thấy áy náy thật, làm cô ấy cứ phải dè dặt như thể tôi dễ vỡ lắm không bằng... Khách quan mà nói thì chuyện này cũng chẳng to tát gì. Có điều với riêng cá nhân tôi thì nó hơi khó xử đôi chút. Cậu ngồi nghe tôi kể nhé?"
 
 "Được chứ."
 
@@ -132,7 +132,7 @@ Chính vì vậy, việc Clope làm một chuyến đi tới đó thực chất 
 
 "Về mặt thời gian thì chỉ cần tới Welfia trước khi kỳ thi thăng hạng Ngân Cấp diễn ra là được," Clope nói. "Cậu cũng thế đúng không? Vậy thì chắc không có vấn đề gì đâu."
 
-"Nếu vậy thì được thôi... nhưng cớ sao anh lại muốn đi?"
+"Nếu vậy thì được thôi... nhưng sao anh lại muốn đi?"
 
 "Sắp tới ở Welfia sẽ diễn ra một cuộc thi rèn, và tôi buộc phải tham gia tranh tài."
 
@@ -148,7 +148,7 @@ Chính vì vậy, tôi ngạc nhiên vô cùng khi anh ấy lại nhắc tới c
 
 "Tại cuộc thi rèn ở Welfia ư?"
 
-"Ừ, hồi còn trẻ trâu ấy mà. Đến lúc gặp Luka—dù nói cho đúng thì đó là lần gặp lại thứ hai của hai đứa—tôi đã rời Welfia để làm một thợ rèn lang bạt rồi. Nhưng chính tại một xưởng rèn ở thành phố đó, tôi đã học những ngón nghề căn bản, nên tôi chẳng lạ gì cuộc thi này. Hồi còn làm thợ học việc, tay nghề chưa đủ để tranh tài, năm nào tôi cũng đứng xem."
+"Ừ, hồi còn trẻ ấy mà. Đến lúc gặp Luka—dù nói cho đúng thì đó là lần gặp thứ hai của hai đứa—tôi đã rời Welfia để làm một thợ rèn lang bạt rồi. Nhưng chính tại một xưởng rèn ở thành phố đó, tôi đã học những ngón nghề căn bản, nên tôi chẳng lạ gì cuộc thi này. Hồi còn làm thợ học việc, tay nghề chưa đủ để tranh tài, năm nào tôi cũng đứng xem."
 
 Tôi chưa từng biết chuyện Clope từng sống ở Welfia—anh ấy vốn ít khi hé răng kể về quá khứ của mình. Nhưng nghĩ kỹ thì chuyện này cũng rất hợp lý. Ở Yaaran, phần lớn thợ rèn đều xuất thân từ Welfia. Nơi đó là cái nôi của ngành nghề này, nên có lẽ đó là điều hiển nhiên.
 
@@ -184,7 +184,7 @@ Khóe miệng Clope thoáng nở một nụ cười nhẹ. "Tôi làm thợ rèn
 
 Clope bật cười. "Ngay cả một kẻ như tôi cũng chẳng làm nổi chuyện đó đâu. Đây đâu phải mấy câu chuyện cổ tích trong sách."
 
-Anh ấy nói vậy, nhưng thế giới này bao la khôn cùng nên điều đó chẳng hẳn là hoàn toàn bất khả. Vẫn có những đứa trẻ ngoài kia thực sự chào đời khi trên tay đang nắm chặt một vật gì đó, chẳng hạn như một chiếc nhẫn hay một Quả Cầu. Chẳng ai rõ lý do vì sao lại có chuyện kỳ lạ ấy, nhưng những đứa trẻ đó khi lớn lên đều lập nên những kỳ tích phi thường. Clope vừa nhắc tới chuyện cổ tích, nhưng lý do những câu chuyện ấy tồn tại vốn dĩ bắt nguồn từ chính những cá nhân như thế.
+Anh ấy nói vậy, nhưng thế giới này bao la khôn cùng nên điều đó chẳng hẳn là hoàn toàn bất khả. Vẫn có những đứa trẻ ngoài kia thực sự chào đời khi trên tay đang nắm chặt một vật gì đó, chẳng hạn như một chiếc nhẫn hay một quả cầu. Chẳng ai rõ lý do vì sao lại có chuyện kỳ lạ ấy, nhưng những đứa trẻ đó khi lớn lên đều lập nên những kỳ tích phi thường. Clope vừa nhắc tới chuyện cổ tích, nhưng lý do những câu chuyện ấy tồn tại vốn dĩ bắt nguồn từ chính những cá nhân như thế.
 
 "Chắc là vậy rồi... Nhưng dẫu lý do ban đầu là thế thì giờ đây nghề rèn đã trở thành niềm đam mê của anh rồi, đúng chứ? Thậm chí đôi khi anh còn say mê đến mức thái quá nữa kìa. Ngay cả ở Maalt cũng chẳng thiếu thợ rèn chỉ coi đây là công việc kiếm sống qua ngày, nhưng anh đâu có giống họ."
 
@@ -220,6 +220,6 @@ Tôi nghiêng đầu. "Ý anh là sao...?"
 
 Thoạt đầu tôi chưa hiểu vì sao anh ấy đột ngột đổi chủ đề, nhưng rồi tôi lờ mờ đoán ra lý do. Tôi gật đầu tán thành. "Phải. Ngành nghề nào cũng vậy, kể cả mạo hiểm giả. Nói thật thì trong giới mạo hiểm giả lũ thiên tài nhiều như lá mùa thu. Tôi chẳng đếm xuể đã bao nhiêu lần có kẻ vừa mới nhận tấm thẻ Thiết Cấp, thế mà tôi chỉ vừa chớp mắt một cái là họ đã bắt kịp rồi vượt mặt tôi xa lắc."
 
-Điều đó xảy ra trong mọi ngành nghề với những người không được ban cho tài năng thiên bẩm như tôi. Hôm nay anh vừa hướng dẫn người ta, hôm sau họ đã bỏ anh lại sau lưng để bứt tốc vượt lên phía trước. Cái vòng lặp luẩn quẩn ấy đã lấp đầy suốt mười năm ròng rã trong cuộc đời tôi.
+Điều đó xảy ra trong mọi ngành nghề với những người không được ban cho tài năng thiên bẩm như tôi. Hôm trước mình vừa hướng dẫn người ta, hôm sau họ đã bỏ mình lại sau lưng để bứt tốc vượt lên phía trước. Cái vòng lặp luẩn quẩn ấy đã lấp đầy suốt mười năm ròng rã trong cuộc đời tôi.
 
 "Phải, chính là cái chuyện tôi đang muốn nói đấy. Tôi... À thì, ngày xưa tôi cũng từng có thời tự cao tự đại lắm. Tôi cứ ngỡ mình cũng là một trong những kẻ tài năng vượt trội. Tôi học việc và tiến bộ nhanh hơn hẳn những đứa nhập môn cùng thời. Tôi bứt phá, tiến xa hơn rồi lại xa hơn nữa. Đã từng có lúc tôi tưởng rằng mình sẽ chạm tới một cảnh giới mà chẳng ai có thể đuổi kịp."

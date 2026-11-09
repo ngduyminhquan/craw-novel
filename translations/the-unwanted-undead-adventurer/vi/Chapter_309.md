@@ -10,9 +10,9 @@ Bất kể theo đuổi lĩnh vực gì, người ta cũng cần những đối 
 
 "Đúng thế. Vừa là đối thủ... lại vừa là bạn thân chí cốt. Bọn tôi ganh đua xem ai học được kỹ thuật mới nhanh hơn, chỉ ra những thiếu sót của nhau, thử nghiệm những món đồ chế tác mới mẻ thú vị... Hồi đó vui lắm. Ngày nào tôi cũng thấy mình tiến bộ."
 
-Bất kể dấn thân vào con đường nào, khoảng thời gian nhìn thấy mọi tiềm năng rộng mở trước mắt luôn khiến người ta phấn khích tột cùng. Với tôi cũng từng như vậy khi mới bắt đầu học kiếm thuật và ma pháp—một cảm giác gần như toàn năng. Dĩ nhiên trong trường hợp của tôi, cảm giác đó chẳng kéo dài được bao lâu, bởi tài năng của tôi đã sớm chạm trần. Nhưng chắc hẳn Clope đã giữ được cảm giác ấy suốt một thời gian dài. Cơ mà nếu đã vậy, cớ sao anh ấy lại...?
+Bất kể dấn thân vào con đường nào, khoảng thời gian nhìn thấy mọi tiềm năng rộng mở trước mắt luôn khiến người ta phấn khích tột cùng. Với tôi cũng từng như vậy khi mới bắt đầu học kiếm thuật và ma pháp—một cảm giác gần như toàn năng. Dĩ nhiên trong trường hợp của tôi, cảm giác đó chẳng kéo dài được bao lâu, bởi tài năng của tôi đã sớm chạm trần. Nhưng chắc hẳn Clope đã giữ được cảm giác ấy suốt một thời gian dài. Có điều nếu đã vậy, tại sao anh ấy lại...?
 
-"Có một người như vậy ở cạnh bên, cớ sao anh lại rời khỏi Welfia chứ?"
+"Có một người như vậy ở cạnh bên, sao anh lại rời khỏi Welfia chứ?"
 
 "Lúc đó thì chẳng có lý do nào cả. Nhưng rồi một ngày nọ, thợ rèn trưởng cho gọi Hazara và tôi đến. Khi ấy tay nghề của bọn tôi đã gần như đủ sức để tự lập môn hộ, thế nên hai đứa hào hứng lắm. Bọn tôi cứ ngỡ cuối cùng ông ấy cũng công nhận bọn tôi là thợ rèn thực thụ."
 
@@ -46,7 +46,7 @@ Các cuộc thi rèn nằm ngoài phạm vi chuyên môn của tôi, nên tôi k
 
 "Chuyện đó hẳn là..."
 
-Nói một cách nhẹ nhàng nhất thì chuyện đó hẳn phải cay đắng lắm. Đối thủ của anh, một người tài năng và chăm chỉ hệt như anh, đã tiến một bước vượt ra ngoài tầm với. Tôi chưa từng có một đối thủ như vậy, nhưng tôi có thể hình dung ra cảm giác đó. Thế nhưng câu trả lời của Clope lại khiến tôi bất ngờ.
+Nói một cách nhẹ nhàng nhất thì chuyện đó hẳn phải cay đắng lắm. Một người đối thủ vừa tài năng vừa chăm chỉ chẳng kém gì mình lại tiến một bước vượt hẳn ra ngoài tầm với. Tôi chưa từng có một đối thủ như vậy, nhưng tôi có thể hình dung ra cảm giác đó. Thế nhưng câu trả lời của Clope lại khiến tôi bất ngờ.
 
 "Tôi không thấy cay đắng. Thật ra, chiến thắng của Hazara áp đảo đến mức chỉ khiến tôi nhận ra mình sẽ chẳng bao giờ có thể trở thành một thợ rèn giỏi như cậu ấy."
 
@@ -104,7 +104,7 @@ Hóa ra dù đã rời bỏ Welfia, những vết thương trong lòng anh ấy 
 
 "Chẳng hạn như?"
 
-"Tôi khi đó chỉ là một tên thợ rèn lang bạt, còn gia đình cô ấy là thương nhân giàu có. Họ làm sao có thể gả con gái cho một kẻ như tôi được, mà bản thân tôi lúc ấy cũng chẳng có đủ điều kiện để gánh vác trách nhiệm lớn lao nhường ấy hay lo cho cô ấy một cuộc sống tươm tất."
+"Tôi khi đó chỉ là một tên thợ rèn lang bạt, còn gia đình cô ấy là thương nhân giàu có. Họ làm sao có thể gả con gái cho một kẻ như tôi được, mà bản thân tôi lúc ấy cũng chẳng có đủ điều kiện để gánh vác trách nhiệm lớn cỡ đó hay lo cho cô ấy một cuộc sống tươm tất."
 
 Anh ấy nhắc tới thì tôi mới thấy chí lý. Trông Clope không giống kiểu người sẽ bận tâm tới những chuyện như vậy, nhưng hóa ra ngay cả anh ấy cũng đủ thấu tình đạt lý để cân nhắc thấu đáo điều đó.
 
@@ -124,13 +124,13 @@ Anh ấy nhắc tới thì tôi mới thấy chí lý. Trông Clope không giố
 
 "Được thế thì đã tốt quá. Không, đâu phải dinh thự hay gì to tát đâu. Tôi tới một phòng khám đồng thời cũng là nhà thờ—tựa như một viện trị liệu chuyên tiếp nhận những đứa trẻ ốm yếu. Chi phí đắt đỏ thì có đắt thật, nhưng không đến mức gia đình bình dân không kham nổi."
 
-Tôi từng nghe nói về những nơi như vậy. Chúng thường là những cơ sở đóng vai trò như trường học, trại trẻ mồ côi kiêm phòng khám bệnh cùng một lúc. Thường được đặt ở những nơi hẻo lánh cách xa đô thị, nơi không khí trong lành, Ma Lực môi trường ổn định và quái vật hiếm khi xuất hiện. Các tu viện hoặc nhà thờ thường được xây dựng liền kề với những nơi ấy, giúp giảm chi phí ăn ở—dù đổi lại, người lưu trú được khuyến khích mạnh mẽ sống theo nếp sống tôn giáo. Về bản chất, đó là hoạt động truyền giáo.
+Tôi từng nghe nói về những nơi như vậy. Đó thường là những cơ sở kết hợp cả trường học, trại trẻ mồ côi lẫn phòng khám bệnh. Chúng hay nằm ở vùng hẻo lánh xa đô thị, nơi có không khí trong lành, Ma Lực trong tự nhiên ổn định và quái vật hiếm khi xuất hiện. Các tu viện hoặc nhà thờ thường được dựng ngay bên cạnh để giúp giảm bớt chi phí ăn ở—dù đổi lại, người lưu trú cũng được vận động sinh hoạt theo nếp nhà đạo. Về bản chất, đó là hoạt động truyền giáo.
 
-"Dù sao thì trong khoảng thời gian ở đó, tôi đã gặp Luka," Clope kể tiếp. "Cơ mà cô ấy chẳng đau ốm gì đâu—chỉ là ở lại một khu biệt thự nghỉ dưỡng để tránh cái nóng mùa hè ở quê nhà thôi."
+"Dù sao thì trong khoảng thời gian ở đó, tôi đã gặp Luka," Clope kể tiếp. "Có điều cô ấy chẳng đau ốm gì đâu—chỉ là ở lại một ngôi nhà nghỉ dưỡng để tránh cái nóng mùa hè ở quê nhà thôi."
 
 "Vậy ra cô ấy đúng là xuất thân từ gia đình giàu có thật..."
 
-"Đại khái là vậy. Cơ mà những nơi như thế thường chẳng có mấy đứa trẻ chạy chơi bên ngoài khuôn viên viện trị liệu. Chắc đó là lý do cô ấy thường xuyên ghé qua. Thoạt đầu, cô ấy chỉ đi theo khi cha mình cùng những người trong nhà tới khu nhà thờ để cầu nguyện hoặc quyên góp, nhưng rồi cô ấy bắt đầu tự mình tới nhiều hơn. Cô ấy thậm chí còn suốt ngày xía mũi vào chuyện của tôi, và rồi, chà..."
+"Đại khái là vậy. Nhưng những nơi như thế thường chẳng có mấy đứa trẻ chạy chơi bên ngoài khuôn viên viện trị liệu. Chắc đó là lý do cô ấy thường xuyên ghé qua. Thoạt đầu, cô ấy chỉ đi theo khi cha mình cùng những người trong nhà tới khu nhà thờ để cầu nguyện hoặc quyên góp, nhưng rồi cô ấy bắt đầu tự mình tới nhiều hơn. Cô ấy thậm chí còn suốt ngày xía mũi vào chuyện của tôi, và rồi, chà..."
 
 "Đối với một đứa trẻ ốm yếu thì chuyện đó hẳn là quá sức chịu đựng rồi."
 
@@ -142,7 +142,7 @@ Tôi từng nghe nói về những nơi như vậy. Chúng thường là những
 
 "Nhưng cô ấy lại không nhớ gì sao?"
 
-"Ừ. Khi gặp lại tôi nhận ra cô ấy ngay, nhưng tôi đành ngậm tăm—cậu biết đấy, tôi đâu muốn chọc phải tổ ong vò vẽ chứ hả? Cơ mà như cậu thấy đấy, rốt cuộc tôi vẫn bị cô ấy tóm gáy..."
+"Ừ. Khi gặp lại tôi nhận ra cô ấy ngay, nhưng tôi cứ im lặng không nói gì—tôi đâu muốn tự dưng chọc vào tổ ong vò vẽ làm gì, đúng không? Thế mà như cậu thấy đấy, rốt cuộc tôi vẫn không thoát khỏi tay cô ấy..."
 
 ◆◇◆◇◆
 
@@ -176,7 +176,7 @@ Hai chúng tôi cùng bật cười.
 
 Đó là lý do tôi ngưỡng mộ những cặp đôi như Clope và Luka, nhưng cũng cảm thấy thật khó tin rằng sẽ có ngày mình có được những gì họ đang có. Nếu một ngày nào đó tôi kết hôn... với ai đó, tôi sẽ bị giằng xé bởi cảm giác tội lỗi khi nơm nớp lo sợ một ngày nào đó mình sẽ đột ngột chết đi và bỏ lại họ một mình.
 
-Chính vào lúc ấy, một ý nghĩ chợt lóe lên trong đầu tôi—với tôi của hiện tại, muốn chết đi cũng khó lắm thay. Ngay cả khi dính phải một đòn chí mạng đủ sức kết liễu hầu hết mọi người ngay tức khắc, tôi vẫn có thể hồi phục đến một mức độ nhất định. Cứ thế mà xét, biết đâu việc xây dựng một mái ấm thực sự là khả thi...?
+Chính vào lúc ấy, một ý nghĩ chợt lóe lên trong đầu tôi—với cơ thể hiện tại của tôi, muốn chết đi cũng chẳng dễ gì. Ngay cả khi dính phải một đòn chí mạng đủ sức kết liễu hầu hết mọi người ngay tức khắc, tôi vẫn có thể hồi phục đến một mức độ nhất định. Cứ thế mà xét, biết đâu việc xây dựng một mái ấm thực sự là khả thi...?
 
 Thôi đi, chắc là không đâu. Trước hết, cơ thể tôi là Undead. Ai mà thèm một người chồng có cơ thể thậm chí còn chẳng phải con người chứ?
 
@@ -190,7 +190,7 @@ Dù thế nào đi nữa, tất cả những gì tôi có thể làm là tiếp 
 
 Giờ thì quay lại cuộc trò chuyện với Clope...
 
-"Vậy là sau bao nỗi thăng trầm, anh đã định cư ở Maalt," tôi nói. "Cớ sao sau ngần ấy thời gian, bây giờ anh lại phải tham gia cuộc thi rèn?"
+"Vậy là sau bao nỗi thăng trầm, anh đã định cư ở Maalt," tôi nói. "Thế sao sau ngần ấy thời gian, bây giờ anh lại phải tham gia cuộc thi rèn?"
 
 "Tôi... nhận được một lá thư. Đây."
 
@@ -208,7 +208,7 @@ Giờ ngẫm lại, đã bao nhiêu năm trôi qua kể từ ngày cậu rời k
 
 Cậu sẽ đến Welfia và tham gia cuộc thi rèn sắp tới chứ? Chính là cuộc thi mà cậu từng tranh tài năm xưa đấy.
 
-Ta biết cậu vẫn đang làm thợ rèn—và còn là một tay rèn cừ khôi nữa. Ta muốn được tận mắt chứng kiến tay nghề của cậu. Như ta đã nói lúc nãy, ta đã già rồi. Ngày ta giải nghệ cũng chẳng còn xa nữa, nhưng trước khi gác búa, ta muốn được nhìn thấy ngón nghề rèn của cậu thêm một lần. Cậu có thể thỏa nguyện cho một lão già này được không?
+Ta biết cậu vẫn đang làm thợ rèn—và còn là một tay rèn cừ khôi nữa. Ta muốn được tận mắt chứng kiến tay nghề của cậu. Như ta đã nói lúc nãy, ta đã già rồi. Ngày ta giải nghệ cũng chẳng còn xa nữa, nhưng trước khi gác búa, ta muốn được nhìn thấy ngón nghề rèn của cậu thêm một lần. Cậu có thể chiều theo tâm nguyện của lão già này được không?
 
 À, ta cũng nên nói thêm rằng Hazara cũng sẽ tham gia. Dạo này Hazara đang là phó thợ rèn trưởng của xưởng rèn, dẫu rằng từ lâu tay nghề của ta đã chẳng bằng cậu ấy nữa rồi. Cuộc thi này cũng sẽ là bài kiểm tra cuối cùng của ta để xem liệu ta có thể phó thác xưởng rèn cho người bạn đối thủ năm xưa của cậu hay không.
 

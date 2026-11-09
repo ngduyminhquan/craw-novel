@@ -4,15 +4,15 @@
 
 Sau khi nghe hết câu chuyện của Clope và nhận ủy thác của anh ấy, tôi tạt qua mua chút thực phẩm trên đường về nhà Lorraine. Về đến nơi mới biết cô ấy mải mê nghiên cứu chiếc cốc nãy giờ, và tới tận lúc này vẫn chưa xong việc.
 
-Trời lúc này đã khuya khoắt, quá bữa tối thường ngày từ lâu. Nhưng khi Lorraine tạm nghỉ tay bước ra khỏi phòng, tôi hỏi xem cô ấy có đói không thì cô bảo có, thế là tôi liền làm vội mấy món đơn giản cho cả hai.
+Trời lúc này đã khuya khoắt, quá bữa tối thường ngày từ lâu. Nhưng khi Lorraine tạm nghỉ tay bước ra khỏi phòng, tôi hỏi xem cô ấy có đói không thì cô ấy bảo có, thế là tôi liền làm vội mấy món đơn giản cho cả hai.
 
-Thực ra Lorraine ăn khỏe lắm. Hiếm khi nào thấy cô ấy chán ăn, mà món gì cô cũng xơi được tất. Tôi thật sự ngạc nhiên không hiểu sao cô ấy có thể nhét từng đấy thức ăn vào bụng, nhất là khi vòng eo của cô thon thả đến thế. Rốt cuộc đống đồ ăn đó biến đi đâu hết không biết?
+Thực ra Lorraine ăn khỏe lắm. Hiếm khi nào thấy cô ấy chán ăn, mà món gì cũng ăn được tất. Tôi thật sự ngạc nhiên không hiểu sao cô ấy có thể nhét từng đấy thức ăn vào bụng, nhất là khi vòng eo của cô ấy thon thả đến thế. Rốt cuộc đống đồ ăn đó biến đi đâu hết không biết?
 
 Về phần mình, trước giờ tôi không phải dạng ăn khỏe, nhưng dạo này một bữa ăn cỡ bình thường chẳng đủ no bụng. Tôi có cảm giác nếu muốn, mình có thể ăn bao nhiêu tùy thích. Dù chỉ cần uống máu là sống tốt, nhưng chế độ ăn uống như thế tẻ nhạt vô cùng, nên hễ có thể là tôi vẫn cố gắng thưởng thức những bữa cơm bình thường.
 
 "Nói này không phải có ý chê bai gì đâu, nhưng đâu phải ngày nào người ta cũng thấy một người thợ rèn tài hoa cỡ đó chịu dừng chân định cư ở nơi như Maalt," tôi nói.
 
-"Nghe anh bảo anh ta chẳng có nỗi niềm uẩn khúc gì thì tôi mới thấy lạ đấy."
+"Nếu bảo anh ấy chẳng có nỗi niềm uẩn khúc gì thì còn đáng ngạc nhiên hơn ấy chứ."
 
 "Đúng thế," Lorraine đồng tình. "Nếu sinh ra quanh vùng này thì chẳng nói làm gì, chứ đây đâu phải kiểu nơi mà một thợ rèn lành nghề sẽ chọn để gầy dựng sự nghiệp vang dội. Dù rằng, xét về khoản đó thì có khi tôi cũng chẳng có tư cách nói người ta."
 
@@ -26,7 +26,7 @@ Mà thôi. Cứ vắt óc nghĩ ngợi chuyện đó thì chắc cũng chẳng g
 
 "Maalt vốn dĩ phải là kiểu thị trấn để những kẻ nhà quê như tôi tìm đến tạo dựng tên tuổi chứ," tôi ngẫm nghĩ nói bâng quơ.
 
-Lorraine liếc xéo tôi một cái. "Thực ra thì tôi thấy anh xếp gọn gàng vào cái nhóm 'lập dị' ấy rồi còn gì..."
+Lorraine nhìn tôi đầy hàm ý. "Thực ra thì tôi thấy anh cũng nằm gọn trong cái nhóm 'lập dị' ấy rồi còn gì..."
 
 Chà, câu đó thì tôi chịu, chẳng cãi vào đâu được.
 
@@ -82,7 +82,7 @@ Có điều, vì Lorraine bảo là "đặc thù", nên có lẽ cô ấy không
 
 "Dĩ nhiên là có rồi. Nhưng thí nghiệm và hiểm nguy luôn đi liền với nhau mà. Nhân loại sẽ chẳng bao giờ tiến bộ nổi nếu chỉ biết trùm chăn run rẩy."
 
-Tôi suýt quên khuấy mất—tận sâu trong thâm tâm, Lorraine đích thực là một nhà giả kim điên cuồng. Có can ngăn cô ấy cũng bằng thừa. Vả lại, tôi tin cô ấy chí ít cũng chuẩn bị các biện pháp an toàn tối thiểu—và nếu tình hình trở nên quá tồi tệ, có lẽ cô sẽ chẳng ngần ngại tiêu hủy toàn bộ cuộc thí nghiệm cùng chiếc cốc.
+Tôi suýt quên khuấy mất—tận sâu trong thâm tâm, Lorraine đích thực là một nhà giả kim điên cuồng. Có can ngăn cô ấy cũng bằng thừa. Vả lại, tôi tin cô ấy chí ít cũng chuẩn bị các biện pháp an toàn tối thiểu—và nếu tình hình trở nên quá tồi tệ, có lẽ cô ấy sẽ chẳng ngần ngại tiêu hủy toàn bộ cuộc thí nghiệm cùng chiếc cốc.
 
 Thế nên chắc là không có vấn đề gì đâu... nhỉ?
 
@@ -154,7 +154,7 @@ Dạo gần đây, chúng tôi phát hiện ra cha nuôi tôi ở Hathara sở h
 
 Đó chắc chắn là một kỹ năng hữu dụng vô cùng, nhất là với một người nghiên cứu quái vật như Lorraine. Tôi dám chắc cô ấy đang nóng lòng muốn học đến mức bồn chồn không yên.
 
-"Cô nói cũng có lý. Sắp tới chúng ta ghé qua Hathara một chuyến xem sao; dạo này tình hình cũng tạm lắng rồi, nên về báo cho mọi người biết tình hình của hai đứa cũng là ý hay. Vừa hay có thể gặp Capitan và bà Gharb, lại tiện thể hỏi xem ông ấy có chịu chỉ dạy cho cô không."
+"Cô nói cũng có lý. Sắp tới chúng ta ghé qua Hathara một chuyến xem sao, dạo này mọi chuyện cũng tạm lắng rồi, nên về báo cho mọi người biết tình hình của hai đứa cũng là ý hay. Vừa hay có thể gặp Capitan và bà Gharb, lại tiện thể hỏi xem cha tôi có chịu chỉ dạy cho cô không."
 
 Không chỉ đơn thuần là muốn gặp lại họ—chuyến đi này còn là bước chuẩn bị cần thiết cho kỳ thi thăng hạng Ngân Cấp. Nếu muốn ôn lại những điều cơ bản, chẳng có cách nào tốt hơn là xin lời khuyên từ chính những người đã dạy dỗ tôi những nền tảng đó. Capitan và Gharb chính là những người thầy vỡ lòng của tôi về kiếm thuật và ma thuật.
 

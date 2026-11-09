@@ -312,9 +312,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | reviewed |  |
 | 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | reviewed |  |
 | 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | reviewed |  |
-| 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | done |  |
-| 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | done |  |
-| 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | done |  |
+| 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | reviewed |  |
+| 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | reviewed |  |
+| 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | reviewed |  |
 | 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | todo |  |
 | 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | todo |  |
 | 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | todo |  |
