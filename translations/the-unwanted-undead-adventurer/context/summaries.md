@@ -1168,6 +1168,12 @@ Sau khi nhận phòng trọ, Rentt tới Hội Mạo Hiểm Giả Lucaris khang 
 Biết mê cung nằm dưới đáy biển ngoài khơi và thuyền phà chỉ về vào chiều tối, Rentt để lại tên cùng địa chỉ quán trọ nhờ tiếp tân nhắn Capitan ghé qua.
 Cảnh kết thúc: Thu xếp xong việc liên lạc với Capitan, Rentt rời Hội Mạo Hiểm Giả và háo hức đi dạo quanh thành phố Lucaris để ngắm cảnh.
 
+## 317
+Rentt đi dạo quanh Lucaris mua sắm thảo dược, thuốc hồi phục, lương thực và bảo dưỡng trang bị; phát hiện bị bám đuôi, anh rẽ vào ngõ cụt đối chất với ba mạo hiểm giả nghèo túng do Niedz cầm đầu định cướp lại ba đồng vàng.
+Rentt dùng Ma Lực lướt tới chém văng Niedz bất tỉnh; hai tên còn lại dù khiếp sợ vẫn xông lên cứu bạn và bất ngờ bị một người đàn ông thú nhân mèo đánh ngất từ phía sau.
+Người đó tự giới thiệu là Diego Malga (chủ tiệm tạp hóa/bán đồ nguyền mà lính gác cổng từng nhắc tới) đi ngang thấy bất bình nên bám theo hỗ trợ; cả hai quyết định không giao ba tên cướp cho lính canh mà vác chúng về nhà Diego chờ tỉnh dậy để dạy bài học kiếm sống.
+Cảnh kết thúc: Tại căn nhà đá thắp sáng bằng cổ vật mê cung của người cha quá cố Raul, Diego pha trà nhập khẩu thượng hạng mời Rentt và tiết lộ mình từng tu nghiệp tại đền thờ Thần Giám Định nên có khả năng giám định nguyền phẩm.
+
 
 
 

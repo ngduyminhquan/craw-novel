@@ -123,6 +123,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yanshuf Fahalah | chàng trai trẻ / Yanshuf Fahalah / Yanshuf | 306 | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú, quyến thuộc của Arc Tahadu |
 | Hazara Feyvro | Hazara / người thợ rèn / người bạn đối thủ | 309 | Thợ rèn tại Welfia, bạn thân kiêm đối thủ thời trẻ của Clope |
 | Barzel Staro | Barzel Staro / thợ rèn trưởng / người thợ rèn già | 309 | Thợ rèn trưởng tại Welfia, sư phụ của Clope và Hazara |
+| Diego Malga | Diego / người đàn ông thú nhân / anh ta | 317 | Thú nhân mèo, mạo hiểm giả kiêm người bán đồ nguyền tại Lucaris |
+| Raul | Raul / người cha | 317 | Cha quá cố của Diego Malga |
+| Niedz | Niedz / gã / người đàn ông / tên mạo hiểm giả | 317 | Mạo hiểm giả dẫn đầu nhóm bám đuôi cướp tiền của Rentt tại Lucaris |
 
 
 
@@ -624,6 +627,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yanshuf Fahalah | Arc Tahadu | tôi | Bệ hạ / Người | 306 | Thuộc hạ cấp con cung kính tuyệt đối, sẵn sàng chết thay con mình |
 | Yanshuf Fahalah | Tavas | tôi | cậu / Tavas | 306 | Ma Cà Rồng cấp cha cảnh báo thuộc hạ cấp con |
 | Barzel Staro | Clope | ta | cậu / Clope | 309 | Sư phụ gửi thư mời người học trò cũ tham gia cuộc thi rèn |
+| Rentt Faina | Diego Malga | tôi | anh / Diego | 317 | Hai mạo hiểm giả trò chuyện lịch sự, bình đẳng |
+| Diego Malga | Rentt Faina | tôi | anh / Rentt | 317 | Mạo hiểm giả kiêm chủ tiệm tiếp đãi khách |
+| Rentt Faina | Niedz | tôi | các anh / các người | 317 | Mạo hiểm giả đối phó với kẻ bám đuôi trấn lột |
+| Niedz | Rentt Faina | chúng tao / bọn này / tao | anh bạn / tên kia / gã to xác / mày | 317 | Kẻ trấn lột bộc trực, hung hăng |
 
 
 

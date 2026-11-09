@@ -321,7 +321,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | reviewed |  |
 | 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | reviewed |  |
 | 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | reviewed |  |
-| 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | todo |  |
+| 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | done |  |
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | todo |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | todo |  |
 | 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1000,3 +1001,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#316] Tên mê cung Dungeon of the Sea God’s Daughters (gốc Nhật: 海神の娘達の迷宮) → tạm dịch là "Mê Cung Các Con Gái Của Hải Thần" (phương án khác: "Mê Cung Các Con Gái Hải Thần" hoặc "Mê Cung Hải Thần Chi Nữ"). → Chốt dịch là "Mê Cung Các Con Gái Của Hải Thần" (đồng bộ cấu trúc với "Thành Phố Mê Cung Của Hiền Vương Felt"). (orchestrator)
 - [#316] Thuật ngữ goatfolk và fishfolk → tạm dịch là "thú nhân dê" (nhất quán với thú nhân sói, thú nhân chim ở #315) và "ngư nhân" (chuẩn fantasy / 魚人). → Chốt dịch là "thú nhân dê" (nhất quán với thú nhân sói, thú nhân chim ở #315) và "ngư nhân". (orchestrator)
 - [#316] Tên gọi the Ariana Republic → tạm dịch là "Cộng Hòa Ariana" (dạng gọi tắt của Cộng Hòa Hàng Hải Ariana). → Chốt dịch là "Cộng Hòa Ariana" (dạng gọi tắt của Cộng Hòa Hàng Hải Ariana). (orchestrator)
+- [#317] Tên gọi và xưng hô của Diego Malga (con trai Raul Malga): nhân vật tự xưng 'Diego Malga. Just call me Diego' và tiệm là tiệm tạp hóa gia đình mang họ Malga; tạm chọn dùng 'Diego Malga' khi giới thiệu đầy đủ, 'Diego' trong thoại và lời dẫn, xưng hô Rentt - Diego là 'tôi - anh' bình đẳng giữa hai mạo hiểm giả. → Chốt dùng "Diego Malga" / "Diego", xưng hô giữa Rentt và Diego là "tôi - anh" bình đẳng theo đúng thiết lập trong characters.md và pronouns.md. (orchestrator)

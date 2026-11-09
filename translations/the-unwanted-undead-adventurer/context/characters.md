@@ -161,7 +161,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hazara Feyvro | Hazara | Hazara Feyvro | Thợ rèn tại thành phố mỏ Welfia, bạn thân kiêm đối thủ thời trẻ của Clope; hiện là phó thợ rèn trưởng của xưởng rèn | #309 |
 | Barzel Staro |  | Barzel Staro | Thợ rèn trưởng của xưởng rèn tại Welfia, sư phụ của Clope và Hazara Feyvro | #309 |
 | Reggie |  | Reggie | Dân làng Làng Hathara, người được Gilda hứa cho mứt hoa quả | #312 |
-| Malga |  | Malga | Thương nhân bán đồ nguyền (nguyền cụ / nguyền phẩm) tại Thành Phố Cảng Lucaris | #315 |
+| Malga |  | Malga | Tiệm bán đồ nguyền hoặc danh xưng người bán đồ nguyền tại Lucaris, tên gọi tắt của Diego Malga (#317) | #315 |
+| Diego Malga | Diego | Diego Malga | Thú nhân mèo, mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền tại Lucaris, con trai của Raul Malga | #317 |
+| Raul | Raul Malga | Raul | Cha quá cố của Diego Malga, cựu mạo hiểm giả kiêm người bán đồ nguyền đời trước tại Lucaris | #317 |
+| Niedz |  | Niedz | Mạo hiểm giả dẫn đầu nhóm ba người bám đuôi Rentt tại Lucaris hòng cướp tiền | #317 |
 
 
 
@@ -988,8 +991,26 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Malga
 - Thân phận: Thương nhân bán đồ nguyền (nguyền cụ / nguyền phẩm) tại Thành Phố Cảng Lucaris (#315).
-- Đặc điểm: Được lính gác cổng Lucaris nhắc tới khi Rentt hỏi về người có thể xử lý Nguyền Cụ (#315).
-- Xuất hiện từ: #315 (qua lời nhắc của lính gác).
+- Đặc điểm: Được lính gác cổng Lucaris nhắc tới khi Rentt hỏi về người có thể xử lý Nguyền Cụ (#315); thực chất là tiệm tạp hóa gia đình của Raul Malga và nay do con trai Diego Malga tiếp quản (#317).
+- Xuất hiện từ: #315 (qua lời nhắc của lính gác), #317.
+
+### Diego Malga
+- Thân phận: Nam, thú nhân mèo (feline beastfolk), lông đen tuyền bóng mượt, mắt mèo phát sáng trong bóng tối; mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền tại Lucaris (#317).
+- Tính cách: Tháo vát, tốt bụng, chu đáo, hiếu khách; thừa nhận làm mạo hiểm giả là nghề chính còn mở tiệm tạp hóa chỉ là sở thích (#317).
+- Năng lực: Từng tu nghiệp tại đền thờ Thần Giám Định nên có khả năng giám định nguyền phẩm ở mức độ nhất định; thân thủ nhanh nhẹn (#317).
+- Quan hệ: Con trai của Raul Malga; hỗ trợ Rentt hạ gục hai tên cướp và mời Rentt về nhà uống trà nhập khẩu (#317).
+- Xuất hiện từ: #317.
+
+### Raul
+- Thân phận: Nam, thú nhân tộc mèo, cựu mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền đời trước tại Lucaris, cha quá cố của Diego Malga (#317).
+- Đặc điểm: Từng thu thập nhiều cổ vật từ mê cung để thắp sáng và trang trí căn nhà đá kiên cố; thời ông còn sống tiệm được gọi là "Raul người bán đồ nguyền" (#317).
+- Xuất hiện từ: #317 (qua lời kể của Diego).
+
+### Niedz
+- Thân phận: Nam, mạo hiểm giả tại Thành Phố Cảng Lucaris, kẻ dẫn đầu nhóm ba người bám đuôi cướp tiền của Rentt (#317).
+- Tính cách & năng lực: Năng lực chiến đấu yếu kém, không đủ sức kiếm ba đồng vàng bằng ủy thác nên sinh lòng tham khi thấy Rentt trả ba đồng vàng cho người bán thảo dược; dám một mình lao lên trước bảo bọc đàn em (#317).
+- Trạng thái (đến #317): Bị Rentt đánh văng bất tỉnh và được đưa về nhà của Diego Malga chờ tỉnh dậy (#317).
+- Xuất hiện từ: #317.
 
 
 
