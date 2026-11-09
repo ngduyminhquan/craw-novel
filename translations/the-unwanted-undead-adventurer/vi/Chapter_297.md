@@ -22,11 +22,11 @@ Lại một lần nữa, thứ duy nhất còn sót lại chỉ là viên Ma Tin
 
 Dân làng ngơ ngác nhìn tôi trân trân, trên tay chỉ vừa mới tra xong mũi tên vào dây cung.
 
-"K-Không đâu, bọn tôi cũng sơ suất quá," Jiris nói. "Lần sau chúng tôi nhất định sẽ cẩn thận hơn..."
+"K-Không đâu, chúng tôi cũng sơ suất quá," Jiris nói. "Lần sau chúng tôi nhất định sẽ cẩn thận hơn..."
 
 "Mọi người không cần phải gắng gượng làm những chuyện quá sức đâu," tôi nói. "Ưu tiên hàng đầu của mọi người nên là để mắt quan sát xung quanh. Kể cả không hạ được kẻ địch, chỉ cần còn giữ được mạng thì lúc nào cũng còn cơ hội lần sau. Chứ nếu chết... thì coi như hết."
 
-Điều đó không hẳn đúng với tôi—tôi từng chết mà vẫn có cơ hội lần sau đấy thôi—nhưng phải xui xẻo đến tột cùng thì người ta mới gặp phải cái chuyện như tôi. Hoặc có khi lại là may mắn chăng? Thật khó để khẳng định rốt cuộc là cái nào, nhưng dù sao đi nữa, trừ những ngoại lệ hết sức đặc biệt, cái chết luôn là dấu chấm hết.
+Điều đó không hẳn đúng với tôi, bởi tôi từng chết mà vẫn có cơ hội lần sau đấy thôi, nhưng phải xui xẻo đến tột cùng thì người ta mới gặp phải cái chuyện như tôi. Hoặc có khi lại là may mắn chăng? Thật khó để khẳng định rốt cuộc là cái nào, nhưng dù sao đi nữa, trừ những ngoại lệ hết sức đặc biệt, cái chết luôn là dấu chấm hết.
 
 Dĩ nhiên, đôi lúc người ta buộc phải liều mạng vào những thời khắc then chốt. Nhưng hiện tại hoàn toàn không phải lúc để những người dân làng này làm thế. Đúng là giành lại ngôi làng rất quan trọng, nhưng phần việc đó đã có tôi lo. Bổn phận của họ là tự bảo vệ tính mạng mình; việc hỗ trợ tôi chỉ là chuyện thứ yếu.
 
@@ -34,7 +34,7 @@ Nếu được làm hoàn toàn theo ý mình, tôi đã từ chối phắt sự
 
 Lời nhắc nhở nhẹ nhàng của tôi ngay sau khi họ vừa trải qua một phen ngàn cân treo sợi tóc hẳn đã phát huy tác dụng, bởi bờ vai Jiris rũ xuống.
 
-"Bọn tôi xin ghi nhớ lời cậu..." ông ấy nói. "Thật lòng xin lỗi cậu nhiều..."
+"Chúng tôi xin ghi nhớ lời cậu..." ông ấy nói. "Thật lòng xin lỗi cậu nhiều..."
 
 ◆◇◆◇◆
 
@@ -42,7 +42,7 @@ Sau khi chắc chắn dân làng đã lấy lại bình tĩnh, tôi lại cất 
 
 "Xem chừng mình buộc phải xông thẳng vào đó rồi..."
 
-Ở trung tâm ngôi làng có một khoảng đất trống rộng rãi, có lẽ là nơi dùng cho các dịp lễ hội và hội họp. Tôi cùng dân làng hiện đang nấp sau một ngôi nhà gần đó, ngó ra năm con Khô Lâu đang chiếm cứ bãi đất trống. Ba con trong số đó là Khô Lâu thường—loại được nhắc tới trong thông tin ban đầu của chúng tôi—trong khi hai con còn lại là những con Khô Lâu Binh mà tôi phát hiện ra sáng nay.
+Ở trung tâm ngôi làng có một khoảng đất trống rộng rãi, có lẽ là nơi dùng cho các dịp lễ hội và hội họp. Tôi cùng dân làng hiện đang nấp sau một ngôi nhà gần đó, ngó ra năm con Khô Lâu đang chiếm cứ bãi đất trống. Ba con trong số đó là Khô Lâu thường, tức số được nhắc tới trong thông tin ban đầu của chúng tôi, còn hai con kia là những con Khô Lâu Binh mà tôi phát hiện ra sáng nay.
 
 Y như lúc trước, hai con Khô Lâu Binh lần lượt cầm một cây cung và một ngọn giáo, cẩn trọng đảo mắt quan sát xung quanh. Lũ Khô Lâu thường vây quanh chúng theo đội hình bảo vệ và cũng cảnh giác không kém, dẫu thực tế cử động có phần chậm chạp hơn.
 
@@ -62,7 +62,7 @@ Chắc chắn con cầm cung là mối nguy hiểm lớn nhất đối với dâ
 
 Tôi từng thoáng nghĩ hay là cứ phó mặc cho may rủi, nhưng làm vậy rủi ro quá lớn—không phải cho tôi, mà là cho nhóm dân làng.
 
-Thoạt nhìn thì trong tình thế này, đó dường như là lựa chọn duy nhất... Cơ sự đã đến nước này, tôi nghĩ đã đến lúc thử một cách tôi chưa quen tay lắm nhưng tin là sẽ thành công.
+Trong tình thế này, đó dường như là lựa chọn duy nhất... nếu chỉ nhìn thoáng qua. Cơ sự đã đến nước này, tôi nghĩ đã đến lúc thử một cách mình chưa quen tay lắm nhưng tin là sẽ thành công.
 
 Thật ra khi truyền Thần Lực vào thanh kiếm lúc trước, tôi đã cảm nhận được một phản hồi khá lạ kỳ—chính nó đã gợi cho tôi một ý tưởng. Để kiểm chứng, tôi truyền Thần Lực qua kiếm lần nữa... và cảm giác ấy lại ùa về. Tôi khá tin chắc mình có thể làm được việc này.
 
@@ -80,7 +80,7 @@ Căn chuẩn thời cơ, tôi vung kiếm khi mũi tên vừa bay tới sát m�
 
 Tôi áp sát bầy Khô Lâu trước khi con Khô Lâu Binh cầm cung kịp tra mũi tên tiếp theo. Lũ quái vật toan vung kiếm chém xuống, nhưng trước khi đòn đánh kịp tới, tôi đã truyền Thần Lực vào vũ khí của mình rồi đâm một cú thật mạnh về phía con Khô Lâu ngay trước mặt.
 
-Cú đâm trúng đích chuẩn xác, lưỡi kiếm lún sâu vào cổ nó ngọt xớt đến mức ngỡ như bị hút vào. Chiếc đầu lâu của con Khô Lâu bay bổng lên không trung.
+Cú đâm trúng đích chuẩn xác, lưỡi kiếm lún sâu vào cổ nó dễ dàng đến mức ngỡ như bị hút vào. Đầu của con Khô Lâu bay văng lên không trung.
 
 Bình thường thì tôi sẽ thu kiếm về để chuyển đòn tiếp theo. Thế nhưng lần này, tôi lại đẩy mũi kiếm đâm tới xa hơn nữa—hướng thẳng về phía con Khô Lâu Binh cầm cung. Tôi muốn giải quyết cả hai đối thủ chỉ bằng một chiêu duy nhất.
 
@@ -88,11 +88,11 @@ Có điều chiều dài thanh kiếm của tôi không đủ để với tới 
 
 Điều đáng sợ nhất giữa một trận hỗn chiến là mất bình tĩnh đến mức không thể cử động như bình thường, nhưng chuyện đó không bao giờ xảy ra với Khô Lâu. Đôi lúc tay nghề vụng về hoặc luồng Ma Lực duy trì liên kết ở các khớp xương bị rối loạn có thể làm chúng đánh rơi vũ khí hay ngã nhoài, khiến người ta tưởng chúng đang hoảng loạn... nhưng về bản chất, chúng vốn không hề có năng lực cảm nhận những cảm xúc ấy.
 
-Cơ mà đó cũng chỉ là giả thuyết của giới mạo hiểm giả. Biết đâu sâu thẳm bên trong chúng lại đang khiếp hãi thật thì sao. Dù sao thì hồi còn là Khô Lâu, tôi vẫn có cảm xúc bình thường. Hoàn toàn có khả năng những tồn tại giống như tôi cũng sẽ như vậy.
+Cơ mà đó cũng chỉ là giả thuyết của giới mạo hiểm giả. Biết đâu sâu thẳm bên trong chúng lại đang khiếp hãi thật thì sao. Dù sao thì hồi còn là Khô Lâu, tôi vẫn có cảm xúc bình thường. Hoàn toàn có khả năng những cá thể giống như tôi cũng sẽ như vậy.
 
 Dẫu vậy, tôi khá chắc con Khô Lâu Binh trước mắt không thuộc diện cá biệt đó.
 
-Con quái vật vừa tra xong tên, nhưng chỉ tích tắc trước khi nó kịp buông tay bắn, mũi kiếm của tôi—thứ vốn dĩ chẳng đời nào với tới đối thủ—đã đâm xuyên qua hộp sọ của nó.
+Con quái vật vừa tra xong tên, nhưng chỉ tích tắc trước khi nó kịp buông tay bắn, mũi kiếm của tôi, thứ vốn dĩ chẳng đời nào với tới đối thủ, đã đâm xuyên qua hộp sọ của nó.
 
 ◆◇◆◇◆
 
@@ -104,7 +104,7 @@ Lời giải thích rất đỗi đơn giản: tôi đã tạo ra một lưỡi 
 
 ![](images/ch297-01.webp)
 
-Vì thường thấy Lorraine làm điều tương tự bằng Ma Lực, việc tôi tự hỏi liệu mình có thể làm được như vậy với Thần Lực hay không cũng chẳng phải điều gì quá xa vời. Đó thực sự không phải ý tưởng viển vông—hồi ở Hathara, tôi thậm chí từng thấy Capitan, người thầy dạy các kỹ pháp Khí Lực của tôi, đạt được hiệu quả tương tự bằng Khí Lực.
+Vì thường thấy Lorraine làm điều tương tự bằng Ma Lực, chuyện tôi tự hỏi liệu mình có làm được như vậy với Thần Lực hay không cũng chẳng phải suy diễn gì quá xa vời. Đó thực sự không phải ý tưởng viển vông: hồi ở Hathara, tôi thậm chí từng thấy Capitan, người thầy dạy Khí Thuật của tôi, đạt được hiệu quả tương tự bằng Khí Lực.
 
 Còn với Thần Lực, mọi chuyện đơn giản chỉ là thử xem có dùng được hay không—và quả nhiên là được thật.
 
@@ -128,9 +128,9 @@ Dẫu vậy, đúng là đa phần trường hợp Ma Tinh của chúng đều n
 
 Nhưng tất nhiên, mọi thứ cũng chỉ là phỏng đoán mà thôi.
 
-Khi con Khô Lâu trước mặt rã vụn, tôi lùi lại để tạo thêm khoảng cách—thế nhưng con Khô Lâu cuối cùng cùng con Khô Lâu Binh cầm giáo đã lao lên áp sát. Tạm không bàn đến con trước, tốc độ của con sau quả thực không tồi chút nào.
+Khi con Khô Lâu trước mặt rã vụn, tôi lùi lại để tạo thêm khoảng cách, thế nhưng con Khô Lâu cuối cùng và con Khô Lâu Binh cầm giáo đã lao lên áp sát. Chưa nói tới con Khô Lâu thường, tốc độ của con Khô Lâu Binh quả thực không tồi chút nào.
 
-Thế nhưng, như để cản đường chúng, hai mũi tên—thứ vũ khí còn lâu mới có tính sát thương cao—từ bên sườn bay vụt tới. Dù trúng đích vào đầu con Khô Lâu, chúng chỉ va phải một tiếng keng rồi bật nảy ra ngoài, ngỡ như đập trúng một tấm khiên kim loại.
+Thế nhưng, như để cản đường chúng, hai mũi tên, thứ vũ khí vốn chẳng có sức sát thương lớn gì, từ bên sườn bay vụt tới. Dù trúng đích vào đầu con Khô Lâu, chúng chỉ va vào phát ra tiếng keng rồi bật nảy ra ngoài, ngỡ như đập trúng một tấm khiên kim loại.
 
 Dẫu vậy, không phải là chúng chẳng gây chút thương tổn nào: trên xương đã có những vết sứt mẻ. Jiris không hề khoác lác khi bảo làng họ có những tay thợ săn giỏi.
 
@@ -138,7 +138,7 @@ Con Khô Lâu dường như nhận ra mình vừa bị tổn hại. Chiếc đ�
 
 Chẳng khó để nhận ra nó định ra tay xử lý dân làng trước. Nói thật thì đây chẳng phải quyết định sáng suốt gì về mặt chiến thuật—họ vốn dĩ không có sức tấn công đáng kể. Với tư cách kẻ có thể tiễn Khô Lâu chầu trời chỉ bằng một đòn, tôi mới là mối nguy lớn hơn nhiều.
 
-Ngược lại, con Khô Lâu Binh chẳng cần trúng tên cũng thừa hiểu dân làng là mối đe dọa chẳng đáng kể so với tôi. Nó dán chặt mắt vào tôi không rời lấy một khắc, thậm chí còn ra dấu bảo con Khô Lâu quay lại.
+Ngược lại, con Khô Lâu Binh chẳng cần trúng tên cũng thừa hiểu dân làng là mối đe dọa chẳng đáng kể so với tôi. Nó dán chặt mắt vào tôi không rời một giây, thậm chí còn ra dấu bảo con Khô Lâu quay lại.
 
 Thế nhưng năng lực phán đoán của con Khô Lâu lại quá kém cỏi. Nó phớt lờ mệnh lệnh và quay lưng lại phía tôi.
 
@@ -152,7 +152,7 @@ Con Khô Lâu Binh tỏ ra vô cùng điềm tĩnh. Tôi tự hỏi liệu thờ
 
 Một ví dụ điển hình là khi người có thực lực đáng kể chết đi trong nỗi oán hận khôn nguôi hay sự tiếc nuối khôn cùng. Chuyện những người như thế biến thành Undead mang sức mạnh đáng sợ không phải là hiếm gặp.
 
-Đôi lúc tôi cũng thoáng nghĩ hay mình thuộc diện người đó, nhưng những kẻ tái sinh thành Undead vốn chẳng giữ lại chút ký ức nào về quãng đời trước đây—họ trở thành những tồn tại hoàn toàn mới.
+Đôi lúc tôi cũng thoáng nghĩ hay mình thuộc diện người đó, nhưng những kẻ tái sinh thành Undead vốn chẳng giữ lại chút ký ức nào về quãng đời trước đây mà trở thành những cá thể hoàn toàn mới.
 
 Rốt cuộc tôi thực sự là thứ gì chứ? Dù có suy ngẫm bao nhiêu đi nữa, câu trả lời ấy vẫn mãi lẩn tránh tôi. Tất cả những gì tôi có thể làm là tiếp tục chiến đấu với lũ quái vật trước mắt, và một ngày nào đó trở lại làm người...
 

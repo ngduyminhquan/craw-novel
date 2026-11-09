@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:37:34Z",
+  "generatedAt": "2026-11-09T08:52:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3938,19 +3938,19 @@
           "number": 296,
           "title": "Chương 296: Tập 12 Chương 6 - Một Ủy Thác Nọ (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_296.md",
-          "sha": "97928df87534ddaea455ad9e09209b4c5f930064"
+          "sha": "c8adb284cf25898dcec5a2aaca4952b274a832e7"
         },
         {
           "number": 297,
           "title": "Chương 297: Tập 12 Chương 6 - Một Ủy Thác Nọ (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_297.md",
-          "sha": "f695b5bd1723b455f1d5dab7f2deefe88ba07e5e"
+          "sha": "de713f95b250e0afce0f88dc4a1364594d22ddab"
         },
         {
           "number": 298,
           "title": "Chương 298: Ngoại truyện Tập 12 - Long Ngư",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_298.md",
-          "sha": "ac25160fef5ef435d961c9b348d82b5dc96e9250"
+          "sha": "3b04fdbc41b6a94f88a61eb73f1c27222b65a70b"
         }
       ]
     },

@@ -112,7 +112,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rudo Merrow | Rudo / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Merrow tại thành phố Mystera, cha của Dorothea Merrow |
 | Jude Esol | Jude / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol |
 | Rivul | Rivul / cậu thanh niên / chàng trai / cậu ấy | 294 | Chàng thanh niên dân làng đến Maalt đăng ủy thác diệt Khô Lâu |
-| Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris | 295 | Trưởng thôn Làng Crask |
+| Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris / ông ấy | 295 | Trưởng thôn Làng Crask |
 | Alvina | Alvina / bà lão / bà ấy | 298 | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ của Rentt |
 
 

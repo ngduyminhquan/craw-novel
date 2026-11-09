@@ -16,13 +16,13 @@ Tuy nhiên, tôi không muốn họ phải hy sinh thân mình như vậy, vả 
 
 "Tôi hiểu tâm trạng của mọi người," tôi nói. "Nhưng nói thật lòng thì nếu mọi người cầm vũ khí xông vào cận chiến, mọi người sẽ chỉ làm vướng chân tôi thôi."
 
-Trước hết, tôi phải khiến họ hiểu rõ điểm đó. Làm tấm khiên đỡ đòn cho người khác nói thì dễ hơn làm, người ta phải lao vào che chắn đúng thời điểm, bằng không mọi chuyện cũng chỉ hoài công. Tôi không nghĩ ai trong số họ có đủ bản lĩnh cỡ đó, đồng nghĩa với việc họ sẽ chỉ trở thành chướng ngại ngáng đường tôi. Thậm chí còn có nguy cơ họ nhảy bổ vào giữa lưỡi kiếm của tôi và con Khô Lâu, rồi chuốc lấy cái chết uổng mạng chẳng để làm gì.
+Trước hết, tôi phải khiến họ hiểu rõ điểm đó. Làm tấm khiên đỡ đòn cho người khác nói thì dễ hơn làm, người ta phải lao vào che chắn đúng thời điểm, bằng không mọi chuyện cũng chỉ hoài công. Tôi không nghĩ ai trong số họ có đủ bản lĩnh cỡ đó, đồng nghĩa với việc họ sẽ chỉ trở thành chướng ngại ngáng đường tôi. Thậm chí còn có nguy cơ họ nhảy bổ vào giữa lưỡi kiếm của tôi và con Khô Lâu, rồi chuốc lấy cái chết vô nghĩa.
 
 Tôi chỉ thẳng thắn nói ra sự thật, nhưng hẳn những lời ấy nghe khá phũ phàng đối với Jiris và những người khác. Dẫu vậy, họ vẫn kiên trì không chịu bỏ cuộc.
 
 "Nhưng... chúng tôi phải làm điều gì đó chứ...!"
 
-Dẫu vậy, tôi hoàn toàn thấu hiểu nỗi lòng của họ, và đó là lý do tôi nảy ra một ý tưởng.
+Có điều, tôi hoàn toàn thấu hiểu nỗi lòng của họ, và đó cũng là lý do tôi nảy ra một ý tưởng.
 
 "Tôi thấy đằng kia mọi người có mang theo cung tên," tôi lên tiếng. "Mọi người đều biết dùng cung chứ?"
 
@@ -78,9 +78,9 @@ Dẫu vậy, chìm đắm trong cảm xúc miên man cũng chẳng giải quyế
 
 "Chắc chắn là nhiều hơn năm con rồi..." tôi lẩm bẩm một mình. "Một con cầm cung, một con cầm giáo... và những con Khô Lâu bình thường tản mác xung quanh."
 
-Tất cả những thứ này đều là thông tin hoàn toàn mới. Jiris cũng đang nằm rạp bên cạnh tôi cùng quan sát ngôi làng, và khi tôi chỉ cho ông những gì mình vừa phát hiện, vẻ mặt ông lộ rõ sự kinh ngạc.
+Tất cả những thứ này đều là thông tin hoàn toàn mới. Jiris cũng đang nằm rạp bên cạnh tôi cùng quan sát ngôi làng, và khi tôi chỉ cho ông ấy những gì mình vừa phát hiện, vẻ mặt ông ấy lộ rõ sự kinh ngạc.
 
-"Cậu nói đúng, chúng ở đằng kia thật!" ông đồng tình. "Nhưng tại sao chứ...? Hôm qua làm gì có chúng. Mọi người đều căng mắt canh chừng cẩn thận lắm mà."
+"Cậu nói đúng, chúng ở đằng kia thật!" ông ấy đồng tình. "Nhưng tại sao chứ...? Hôm qua làm gì có chúng. Mọi người đều căng mắt canh chừng cẩn thận lắm mà."
 
 "Hẳn chúng mới mò tới trong ngày hôm qua... Nếu cứ để mặc, rất có thể số lượng của chúng sẽ ngày càng tăng thêm."
 
@@ -96,7 +96,7 @@ Tất cả những thứ này đều là thông tin hoàn toàn mới. Jiris cũ
 
 Tôi đã không tính đến sự xuất hiện của lũ Khô Lâu Binh, nhất là con cầm cung. Khô Lâu thông thường chỉ biết vung vẩy mấy thanh kiếm gỉ sét hay dao găm cùn, kỹ năng vũ khí của chúng rất tệ, khiến lối đánh trở nên đơn điệu và dễ đoán. Trái lại, Khô Lâu Binh đôi khi biết chiến đấu bằng tư duy lý tính tương tự con người, sử dụng khá thành thạo các loại vũ khí như giáo và cung tên, lại còn có khả năng chỉ huy những con Khô Lâu cấp thấp hơn. Về cơ bản, chúng chẳng khác nào đội trưởng của một tổ đội.
 
-Một bầy năm con Khô Lâu kèm theo hai con Khô Lâu Binh là đối thủ đáng gờm hơn nhiều so với việc chỉ chạm trán mười con Khô Lâu thông thường. Chúng tôi sẽ cần phải tiến hành hết sức cẩn trọng.
+Một bầy năm con Khô Lâu kèm theo hai con Khô Lâu Binh là đối thủ đáng gờm hơn nhiều so với mười con Khô Lâu thông thường. Chúng tôi sẽ phải hành động hết sức cẩn trọng.
 
 Nếu chỉ có một mình, tôi hoàn toàn có thể xông thẳng vào càn quét sạch sẽ, bởi dẫu có dính phải vết thương chí mạng thì tôi vẫn sống sót và hồi phục lại được, nhưng tôi chẳng thể làm thế trước mắt Jiris cùng những người khác, huống hồ họ lại còn nóng lòng muốn xông pha như vậy. Tôi thực sự phải hết sức cẩn trọng cho trận chiến sắp tới...
 
@@ -122,7 +122,7 @@ Lách cách.
 
 Chẳng mấy chốc, tôi nghe thấy tiếng khớp xương va vào nhau lách cách đặc trưng đang dần tiến lại gần. Liếc nhanh qua góc tường, tôi thấy một con Khô Lâu đang chầm chậm bước về phía mình. Trông nó có vẻ chưa hề nhận ra điều gì bất thường. Tôi có thể ra tay ngay khi nó bước tới trước mặt.
 
-Vì cần phải hạ gục nó trong chớp mắt bằng một đòn duy nhất mà không gây nhiều tiếng động, tôi truyền Khí Lực vào thanh kiếm, bởi đó là thứ mang lại độ bén ngọt nhất cho lưỡi kiếm. Dùng Ma Lực cũng có thể đạt hiệu quả tương tự nhưng lại tốn lượng tiêu hao lớn hơn, nên nếu chỉ nhắm vào độ sắc bén đơn thuần thì Khí Lực là lựa chọn hợp lý nhất.
+Vì cần phải hạ gục nó trong chớp mắt bằng một đòn duy nhất mà không gây nhiều tiếng động, tôi truyền Khí Lực vào thanh kiếm, bởi đó là thứ mang lại độ bén ngọt nhất cho lưỡi kiếm. Dùng Ma Lực cũng có thể đạt hiệu quả tương tự nhưng lại tiêu hao nhiều hơn, nên nếu chỉ nhắm vào độ sắc bén đơn thuần thì Khí Lực là lựa chọn hợp lý nhất.
 
 Lại gần thêm chút nữa... Thêm một chút nữa thôi... và... ra tay.
 
@@ -132,7 +132,7 @@ Tôi bước ra khỏi góc nhà nơi mình ẩn nấp rồi luồn ra sau lưng
 
 Tôi hầu như chẳng gây ra chút tiếng động nào. Không giống như những con đường lát đá ở thị trấn như Maalt, mặt đất nơi này là nền đất xốp, giúp triệt tiêu tiếng va đập lách cách. Dẫu vậy, nếu cứ vứt đống xương lăn lóc ở đây, một con Khô Lâu đi tuần khác đi ngang qua rất có thể sẽ phát hiện ra...
 
-Tôi truyền Ma Lực vào thanh kiếm rồi vận dụng nó để điều khiển đất cát, nhanh chóng vùi lấp đống xương tàn của con Khô Lâu. Có điều tôi chỉ chôn nông để sau này tiện tìm lại; chẳng việc gì phải lãng phí những nguyên liệu còn có thể tận dụng được.
+Tôi truyền Ma Lực vào thanh kiếm rồi vận dụng nó để điều khiển đất cát, nhanh chóng vùi lấp đống xương của con Khô Lâu. Có điều tôi chỉ chôn nông để sau này tiện tìm lại; chẳng việc gì phải lãng phí những nguyên liệu còn có thể tận dụng được.
 
 Bản thân tôi chẳng có nhu cầu dùng tới chúng, mà dù có cất công tha về tận Maalt thì cũng chẳng bán được bao nhiêu, nhưng chúng lại có thể làm vật liệu xây dựng khá tốt để tái thiết ngôi làng. Lúc rảo bước vào làng, tôi nhận thấy bầy Khô Lâu đã phá phách nơi này đôi chút. Có vài căn nhà sẽ cần phải dựng lại, mà một khi đã đụng đến chuyện xây cất thì nguyên liệu bao nhiêu cũng chẳng bao giờ là thừa.
 
@@ -158,7 +158,7 @@ Khi nhát kiếm chém hết đà, con Khô Lâu đã bị bổ đôi dọc theo
 
 Có vẻ như việc truyền Thần Lực vào thanh kiếm này đã tạo ra một sự chúc phúc mạnh mẽ, mang lại hiệu quả cực cao khi đối phó với Undead. Tôi chưa thể đoan chắc điều đó chừng nào chưa thử nghiệm lên các loài Undead khác ngoài Khô Lâu, vả lại uy lực có lẽ cũng biến thiên tùy theo đối thủ, nhưng nhận ủy thác lần này quả thực rất bõ công. Dù sao thì tôi cũng đã tiêu diệt thành công một con Khô Lâu mà không hề phát ra một tiếng động nào. Nó hiệu nghiệm đến nỗi tôi bắt đầu nghĩ đáng lý mình nên dùng cách này ngay từ đầu mới phải.
 
-"Nhưng chắc mọi chuyện cũng chẳng thể êm đẹp đến thế được, đúng không nhỉ...?" tôi lẩm bẩm một mình. Tôi cảm nhận được lượng Thần Lực mình vừa tiêu hao, và xét về hiệu suất giữa năng lượng bỏ ra so với kết quả thu lại, đây có vẻ không phải là một nguồn sức mạnh kinh tế cho lắm.
+"Nhưng chắc mọi chuyện cũng chẳng thể êm đẹp đến thế được, đúng không nhỉ...?" tôi lẩm bẩm một mình. Tôi cảm nhận được lượng Thần Lực mình vừa tiêu hao, và nếu so kết quả thu lại với lượng năng lượng bỏ ra thì đây có vẻ không phải là nguồn sức mạnh có hiệu suất cao cho lắm.
 
 Nếu chỉ tiêu diệt một con Khô Lâu mà đã tốn chừng này, tôi e rằng mình khó lòng dùng nó với tần suất dày đặc được.
 
