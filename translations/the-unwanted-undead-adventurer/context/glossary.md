@@ -556,6 +556,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Greater Armorfish | greater armorfish; Greater Armorfishes; Armorfish | Đại Khôi Ngư | quái vật | 333 | Quái vật thủ lĩnh dạng cá bọc vảy kim loại to cao khoảng năm mét, có thể trôi nổi và bơi lượn trong không khí tại phòng thủ lĩnh giữa tầng trên và tầng giữa của Mê Cung Các Con Gái Của Hải Thần (大鎧魚) |
 | unique spawn | unique spawns; Unique spawn; Unique spawns | quái vật biến dị | khác | 333 | Hiện tượng cá thể quái vật hiếm gặp phá vỡ quy luật thông thường của mê cung, xuất hiện với kích thước và sức mạnh vượt trội (ユニーク種/変異体) |
 | teleportation device | teleportation devices; Teleportation device; Teleportation devices | thiết bị dịch chuyển | vật phẩm | 333 | Khí cụ hoặc công trình ma pháp không gian dùng để dịch chuyển tức thời giữa các tầng mê cung (転移装置) |
+| Child of the old sea | child of the old sea | đứa con của biển xưa | danh hiệu | 335 | Danh hiệu/danh xưng của hoàng tộc ngư nhân |
+| rabbit-folk | rabbitfolk | thú nhân thỏ | chủng tộc | 336 | Phân loài thú nhân mang đặc điểm loài thỏ |
 
 
 

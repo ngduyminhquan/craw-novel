@@ -1109,3 +1109,11 @@ Kẻ móc túi hóa ra là Pherousa, một cô bé ngư nhân tự xưng là "đ
 Không nỡ bỏ mặc hay giao nộp cô bé cho đội tuần tra vì nạn kỳ thị á nhân, Rentt quyết định dẫn Pherousa đến sân huấn luyện của hội để nhờ Diego tư vấn cách giúp đỡ.
 Cảnh kết thúc: Rentt hòa nhã bắt tay làm quen với Pherousa, cô bé lẩm bẩm nhận xét anh kỳ quặc nhưng ngoan ngoãn rảo bước đi theo.
 
+## 336
+Rentt dẫn Pherousa tới sân huấn luyện kiên cố của Hội Mạo Hiểm Giả Lucaris và cùng cô bé quan sát trận đấu tập giữa Capitan và Diego; Capitan dùng Khí Lực bọc cơ thể đỡ mũi thương rồi ném dao săn làm phân tâm, đá bay vũ khí và dùng Khí Lực khóa khớp khống chế hoàn toàn sự dẻo dai của Diego.
+Khi Rentt giới thiệu Pherousa, Diego giật mình nhận ra danh xưng "đứa con của biển xưa" tương đương với hoàng tộc ngư nhân; Diego tiết lộ mẹ anh là ngư nhân nên anh biết rõ nội tình, đồng thời giải thích về sự hiếm hoi và giảm thọ của con lai giữa các chủng tộc á nhân.
+Nhận thấy Pherousa không thể về biển hay kiếm sống trên bờ, Rentt ngỏ ý nhờ Diego cưu mang; Diego vui vẻ đồng ý nhận cô bé vào phụ việc trông coi cửa tiệm đồ nguyền.
+Capitan gặng hỏi mục đích thật của Rentt và nhận được câu trả lời rằng cô bé vừa là phương án dự phòng để liên lạc với thành phố dưới đáy biển tìm hải linh thảo, vừa là một "món hời" hoàng tộc ngoài dự kiến.
+Cảnh kết thúc: Rentt hỏi về kỹ thuật khóa khớp bằng Khí Lực vừa hạ gục Diego, Capitan điềm nhiên tiết lộ nếu thuần thục còn có thể truyền Khí Lực làm nổ tung đối thủ khiến Rentt ngỡ ngàng.
+
+

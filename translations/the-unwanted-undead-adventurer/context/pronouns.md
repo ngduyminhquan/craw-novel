@@ -684,6 +684,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gahedd | Capitan | tôi | Đại ca Capitan / Capitan | 333 | Mạo hiểm giả cấp thấp kính nể tiền bối |
 | Rentt Faina | Pherousa | tôi | cô bé / nhóc / Pherousa | 335 | Mạo hiểm giả người lớn nói chuyện với cô bé ngư nhân móc túi |
 | Pherousa | Rentt Faina | tôi | anh | 335 | Cô bé ngư nhân nói chuyện với mạo hiểm giả đeo mặt nạ đầu lâu |
+| Diego Malga | Pherousa | tôi | nhóc / cô bé / Pherousa | 336 | Chủ tiệm đồ nguyền nhận cưu mang cô bé ngư nhân |
+| Pherousa | Diego Malga | tôi | anh | 336 | Cô bé ngư nhân nói chuyện với chủ tiệm nhận mình vào làm |
+| Capitan | Pherousa | tôi | cô bé / nhóc | 336 | Thợ săn kỳ cựu nói chuyện với cô bé ngư nhân |
+| Pherousa | Capitan | tôi | ông chú / Capitan | 336 | Cô bé ngư nhân nói chuyện với thợ săn kỳ cựu |
 
 
 
