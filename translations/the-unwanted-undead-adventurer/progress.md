@@ -325,7 +325,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | reviewed |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | reviewed |  |
 | 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | done |  |
-| 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | todo |  |
+| 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | done |  |
 | 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | todo |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | todo |  |
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -1006,3 +1005,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#319] Chủng tộc của Diego Malga trong raw #319 là 'pantherfolk' (thú nhân báo), trong khi ở #317 ghi nhận là thú nhân mèo (feline beastfolk): tạm dùng 'thú nhân báo' trong glossary và bản dịch #319 (báo thuộc họ mèo). → Chốt dịch là "thú nhân báo" (đồng bộ với thú nhân sói, thú nhân chim, thú nhân dê; báo thuộc họ mèo nên hoàn toàn khớp với mô tả ở #317). (orchestrator)
 - [#320] Thuật ngữ 'holy elixir' (thuốc ngâm Thần Lực do Rentt tự điều chế và đặt tên): tạm dùng 'thánh dược' (đối ứng với ma dược và Thần Lực, phương án khác: 'thần dược', 'linh dược'). → Chốt dùng 'thánh dược' (orchestrator)
 - [#320] Tiêu đề chương/arc 'Student and Teacher': tạm dùng 'Thầy và Trò' (phương án khác: 'Học Trò và Người Thầy'). → Chốt dùng 'Thầy và Trò' (orchestrator)
+- [#321] Dịch 'air tube' (Nguyền Cụ dạng ống thủy tinh hỗ trợ thở dưới nước tại Lucaris) — tạm chọn 'ống thở' (phương án khác: 'ống lấy khí', 'ống dẫn khí') → Chốt dùng 'ống thở' (orchestrator)

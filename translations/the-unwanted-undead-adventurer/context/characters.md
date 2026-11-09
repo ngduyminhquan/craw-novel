@@ -168,6 +168,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Gahedd |  | Gahedd | Mạo hiểm giả Đồng Cấp dáng cao gầy tại Lucaris, bạn thân của Niedz | #319 |
 | Lukas |  | Lukas | Mạo hiểm giả Đồng Cấp dáng lùn béo tại Lucaris, bạn thân của Niedz, am hiểu thảo dược | #319 |
 | Skullface |  | Mặt Đầu Lâu | Biệt danh Niedz và Diego dùng để gọi Rentt Faina khi đeo mặt nạ đầu lâu | #319 |
+| Mazlak |  | Mazlak | Thủy thủ kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần | #321 |
 
 
 
@@ -576,7 +577,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Hiền, trầm đĩnh nhưng hay trêu, thích thử thách học trò; ngượng khi được gọi là thầy.
 - Quan hệ: Cùng Ingo, Gharb giữ bí mật làng.
 - Năng lực: Bậc thầy Khí Lực (mũi tên vỡ đá), sinh tồn, dao săn, cước pháp; thẻ Đồng Cấp tên giả ra vào Vistelya (#149).
-- Trạng thái (đến #316): Hòa Rentt khi so tài (#166); giữ kín thân phận Undead của Rentt (#168); dạy cụ thể hóa Khí Lực (giáp, lưỡi đao Khí Lực); tiết lộ bí thuật đốt tuổi thọ nhưng khuyên không dùng (#170). Được bà Gharb nhờ qua ma pháp trận dịch chuyển tới Thành Phố Cảng Lucaris (Cộng Hòa Hàng Hải Ariana) để tìm hải linh thảo chữa bệnh gỉ ma lực (#314); nhân dịp đó quét sạch nhiều ủy thác tồn đọng của Hội Mạo Hiểm Giả Lucaris và đang lặn xuống Mê Cung Các Con Gái Của Hải Thần ngoài khơi để thu thập thảo dược (#316).
+- Trạng thái (đến #321): Hòa Rentt khi so tài (#166); giữ kín thân phận Undead của Rentt (#168); dạy cụ thể hóa Khí Lực (giáp, lưỡi đao Khí Lực); tiết lộ bí thuật đốt tuổi thọ nhưng khuyên không dùng (#170). Được bà Gharb nhờ qua ma pháp trận dịch chuyển tới Thành Phố Cảng Lucaris (Cộng Hòa Hàng Hải Ariana) để tìm hải linh thảo chữa bệnh gỉ ma lực (#314); quét sạch nhiều ủy thác tồn đọng của Hội Mạo Hiểm Giả Lucaris và lặn xuống Mê Cung Các Con Gái Của Hải Thần (#316); là người kể chuyện ngôi thứ nhất ở nửa sau #321 khi thuê thuyền của Mazlak lặn tìm hải linh thảo ở các tầng nông nhưng chưa thấy, trên đường về cùng Mazlak thoát khỏi nhóm Hải Kỵ Sĩ cưỡi Kelpie thuộc hạ của Ma Vương (#321).
 - Xuất hiện từ: #146.
 
 ### Doras
@@ -1026,6 +1027,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Đồng hành cùng Niedz và Gahedd; phát hiện Rentt mua thảo dược ba đồng vàng tại cổng thành và cùng Gahedd bám theo can ngăn Niedz (#319).
 - Đặc điểm & Trạng thái (đến #320): Gương mặt tròn gợi nhớ đến một con Goblin béo nhưng tính tình vui vẻ, đáng mến; cùng Gahedd đi mua sắm đồ đạc cho Rentt; có hiểu biết về thảo dược và được Rentt chỉ dạy cách phát hiện chậu cây bị người bán gian lận dùng vụn Ma Tinh để giữ tươi ảo; kính nể gọi Rentt là "Đại ca Rentt" / "đại ca" (#320).
 - Xuất hiện từ: #319.
+
+### Mazlak
+- Thân phận: Nam, thủy thủ kỳ cựu tại Thành Phố Cảng Lucaris, chủ một con thuyền cỡ vừa (#321).
+- Tính cách & kỹ năng: Tháo vát, dày dạn kinh nghiệm đi biển, biết lái thuyền do sinh vật kéo vượt qua vùng biển ngược gió và thoát khỏi sự truy đuổi của quái vật (#321).
+- Quan hệ: Được Capitan thuê thuyền riêng để đưa đón vào Mê Cung Các Con Gái Của Hải Thần; cùng Capitan trò chuyện thoải mái và rủ nhau đi uống rượu (#321).
+- Xuất hiện từ: #321.
 
 
 

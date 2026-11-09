@@ -1008,3 +1008,9 @@ Cảnh kết thúc: Niedz biết ơn và nhận ra đây không phải là ngõ 
 Niedz tỉnh dậy khỏe khoắn sau khi uống thang thuốc ngâm thảo dược truyền Thần Lực (thánh dược) do Rentt thử nghiệm thành công; Rentt tuyên bố sẽ không biến Niedz thành nô lệ hay nộp cho lính canh mà đưa cả nhóm ba người đi thám hiểm mê cung.
 Gahedd và Lukas dùng túi ma thuật cũ của Rentt đi mua sắm nhiều nhu yếu phẩm trở về; Rentt tận tình chỉ bảo Lukas kinh nghiệm nhận biết chậu thảo dược bị người bán gian lận trộn vụn Ma Tinh để giữ lá tươi ảo.
 Cảnh kết thúc: Lukas hào hứng học hỏi và kính nể gọi Rentt là đại ca, trong khi Niedz dù thân thể hồi phục nhưng cay đắng lo sợ cả ba người sẽ trở thành bia thịt vô dụng trong mê cung.
+
+## 321
+Gahedd và Lukas giải thích cho Niedz rằng Rentt thực lòng muốn chỉ dạy kiến thức thu thập thảo dược để họ tự kiếm sống chứ không coi họ là bia thịt; Rentt hẹn gặp lại vào ngày mai và nhờ Diego cho bộ ba tá túc qua đêm.
+Phân đoạn chuyển sang góc nhìn của Capitan (thầy dạy của Rentt) khi chú ấy bơi ngoi lên từ tầng nông Mê Cung Các Con Gái Của Hải Thần sau một buổi chiều lặn tìm hải linh thảo bất thành và dùng gương phát tín hiệu gọi thuyền đón.
+Người thủy thủ kỳ cựu Mazlak lái con thuyền do sinh vật kéo tới đón Capitan; trên đường trở về cả hai bị một nhóm Hải Kỵ Sĩ cưỡi Kelpie (thuộc hạ của Ma Vương) bơi đuổi theo nhưng Mazlak đã điều khiển thuyền ngược gió tẩu thoát an toàn về cảng Lucaris.
+Cảnh kết thúc: Capitan và Mazlak cập bến an toàn rồi rủ nhau vào quán rượu uống mừng thoát nạn, Capitan tự nhủ sẽ tránh xa vùng biển nguy hiểm đó trong những chuyến lặn sau.
