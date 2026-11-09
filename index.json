@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:43:44Z",
+  "generatedAt": "2026-11-09T13:49:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4095,6 +4095,12 @@
           "title": "Chương 322: Tập 14 Chương 1 - Thầy và Trò (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_322.md",
           "sha": "6cf0d6c75fb97f391a3915ae3598fefeb753e303"
+        },
+        {
+          "number": 323,
+          "title": "Chương 323: Tập 14 Chương 1 - Thầy và Trò (4)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_323.md",
+          "sha": "e3fee66a4e1a20d4e2b354c0f2862fd4c374590f"
         }
       ]
     },

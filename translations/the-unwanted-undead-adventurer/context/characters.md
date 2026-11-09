@@ -577,7 +577,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Hiền, trầm đĩnh nhưng hay trêu, thích thử thách học trò; ngượng khi được gọi là thầy.
 - Quan hệ: Cùng Ingo, Gharb giữ bí mật làng.
 - Năng lực: Bậc thầy Khí Lực (mũi tên vỡ đá), sinh tồn, dao săn, cước pháp; thẻ Đồng Cấp tên giả ra vào Vistelya (#149).
-- Trạng thái (đến #321): Hòa Rentt khi so tài (#166); giữ kín thân phận Undead của Rentt (#168); dạy cụ thể hóa Khí Lực (giáp, lưỡi đao Khí Lực); tiết lộ bí thuật đốt tuổi thọ nhưng khuyên không dùng (#170). Được bà Gharb nhờ qua ma pháp trận dịch chuyển tới Thành Phố Cảng Lucaris (Cộng Hòa Hàng Hải Ariana) để tìm hải linh thảo chữa bệnh gỉ ma lực (#314); quét sạch nhiều ủy thác tồn đọng của Hội Mạo Hiểm Giả Lucaris và lặn xuống Mê Cung Các Con Gái Của Hải Thần (#316); là người kể chuyện ngôi thứ nhất ở nửa sau #321 khi thuê thuyền của Mazlak lặn tìm hải linh thảo ở các tầng nông nhưng chưa thấy, trên đường về cùng Mazlak thoát khỏi nhóm Hải Kỵ Sĩ cưỡi Kelpie thuộc hạ của Ma Vương (#321).
+- Trạng thái (đến #323): Hòa Rentt khi so tài (#166); giữ kín thân phận Undead của Rentt (#168); dạy cụ thể hóa Khí Lực (giáp, lưỡi đao Khí Lực); tiết lộ bí thuật đốt tuổi thọ nhưng khuyên không dùng (#170). Được bà Gharb nhờ qua ma pháp trận dịch chuyển tới Thành Phố Cảng Lucaris (Cộng Hòa Hàng Hải Ariana) để tìm hải linh thảo chữa bệnh gỉ ma lực (#314); quét sạch nhiều ủy thác tồn đọng của Hội Mạo Hiểm Giả Lucaris và lặn xuống Mê Cung Các Con Gái Của Hải Thần (#316); là người kể chuyện ngôi thứ nhất ở nửa sau #321 khi thuê thuyền của Mazlak lặn tìm hải linh thảo ở các tầng nông nhưng chưa thấy, trên đường về cùng Mazlak thoát khỏi nhóm Hải Kỵ Sĩ cưỡi Kelpie thuộc hạ của Ma Vương (#321). Gặp lại Rentt ở Hội Mạo Hiểm Giả Lucaris (#322); giải thích tình hình quấy nhiễu của Ma Vương khiến ngư nhân rút lui và thuyền phà ngừng chạy, đồng ý để Rentt cùng nhóm ba người Niedz giúp tìm kiếm hải linh thảo ở các tầng sâu đổi lại sẽ dạy chiến đấu và nền tảng Khí Lực cho cả nhóm, rồi hẹn gặp Rentt tại quán rượu (#323).
 - Xuất hiện từ: #146.
 
 ### Doras
@@ -1013,19 +1013,19 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Niedz
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp tại Thành Phố Cảng Lucaris, kẻ dẫn đầu nhóm ba người bám đuôi cướp tiền của Rentt (#317); người kể chuyện ngôi thứ nhất ở chương đệm #319.
 - Tính cách & năng lực: Năng lực chiến đấu yếu kém, không đủ sức kiếm ba đồng vàng bằng ủy thác nên sinh lòng tham khi thấy Rentt trả ba đồng vàng cho người bán thảo dược; dám một mình lao lên trước bảo bọc đàn em (#317); bế tắc muốn giải nghệ về quê nhưng không đủ tiền, quý trọng tình bạn hoạn nạn với Gahedd và Lukas (#319).
-- Trạng thái (đến #320): Bị Rentt đánh ngất và đưa về nhà Diego Malga (#317); được Rentt cho uống thang thuốc ngâm thảo dược truyền Thần Lực (thánh dược) chữa lành hoàn toàn nội thương; lo sợ bị bán làm nô lệ hoặc phải làm bia thịt khi nghe Rentt bảo cả ba sẽ đi thám hiểm mê cung cùng anh (#319, #320).
+- Trạng thái (đến #323): Bị Rentt đánh ngất và đưa về nhà Diego Malga (#317); được Rentt cho uống thang thuốc ngâm thảo dược truyền Thần Lực (thánh dược) chữa lành hoàn toàn nội thương; lo sợ bị bán làm nô lệ hoặc phải làm bia thịt khi nghe Rentt bảo cả ba sẽ đi thám hiểm mê cung cùng anh (#319, #320). Cùng Gahedd và Lukas hào hứng nhận lời đi uống rượu làm quen với Capitan và chuẩn bị tham gia tìm kiếm hải linh thảo tại Mê Cung Các Con Gái Của Hải Thần (#323).
 - Xuất hiện từ: #317.
 
 ### Gahedd
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng cao gầy, bước đi liêu xiêu nhưng tính tình nhiệt huyết, bạn thân chí cốt của Niedz và Lukas tại Lucaris (#319).
 - Quan hệ: Đồng hành cùng Niedz và Lukas; cùng Lukas bám theo can ngăn Niedz trấn lột Rentt nhưng bị cuốn vào (#319).
-- Trạng thái (đến #320): Tỉnh dậy trước và cùng Lukas nhận túi ma thuật cũ của Rentt đi mua sắm nhiều nhu yếu phẩm (thuốc men, lương thực, vũ khí) mang về tiệm Diego; thật thà và trung thành, không bỏ rơi Niedz để trốn chạy (#320).
+- Trạng thái (đến #323): Tỉnh dậy trước và cùng Lukas nhận túi ma thuật cũ của Rentt đi mua sắm nhiều nhu yếu phẩm (thuốc men, lương thực, vũ khí) mang về tiệm Diego; thật thà và trung thành, không bỏ rơi Niedz để trốn chạy (#320). Nghiêm túc nhận lãnh trách nhiệm giữ tỉnh táo để ghìm cương Niedz và Lukas không quậy phá khi say rượu trong buổi gặp gỡ làm quen với Capitan (#323).
 - Xuất hiện từ: #319.
 
 ### Lukas
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng lùn béo nhưng dũng cảm, có hiểu biết về thảo dược học, bạn thân chí cốt của Niedz và Gahedd tại Lucaris (#319).
 - Quan hệ: Đồng hành cùng Niedz và Gahedd; phát hiện Rentt mua thảo dược ba đồng vàng tại cổng thành và cùng Gahedd bám theo can ngăn Niedz (#319).
-- Đặc điểm & Trạng thái (đến #320): Gương mặt tròn gợi nhớ đến một con Goblin béo nhưng tính tình vui vẻ, đáng mến; cùng Gahedd đi mua sắm đồ đạc cho Rentt; có hiểu biết về thảo dược và được Rentt chỉ dạy cách phát hiện chậu cây bị người bán gian lận dùng vụn Ma Tinh để giữ tươi ảo; kính nể gọi Rentt là "Đại ca Rentt" / "đại ca" (#320).
+- Đặc điểm & Trạng thái (đến #323): Gương mặt tròn gợi nhớ đến một con Goblin béo nhưng tính tình vui vẻ, đáng mến; cùng Gahedd đi mua sắm đồ đạc cho Rentt; có hiểu biết về thảo dược và được Rentt chỉ dạy cách phát hiện chậu cây bị người bán gian lận dùng vụn Ma Tinh để giữ tươi ảo; kính nể gọi Rentt là "Đại ca Rentt" / "đại ca" (#320). Hào hứng khi được bao đi uống rượu và hứa sẽ cư xử chuẩn mực trước mặt Capitan (#323).
 - Xuất hiện từ: #319.
 
 ### Mazlak

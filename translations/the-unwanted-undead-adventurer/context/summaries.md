@@ -1020,3 +1020,9 @@ Rentt ngồi uống súp pha máu Lorraine tại sảnh giải khát Hội Mạo
 Capitan bước vào sảnh Hội và ngỡ ngàng khi gặp Rentt; Rentt kể lại việc mình chuẩn bị thi thăng hạng Ngân Cấp và muốn nhờ Capitan rèn luyện lại Khí Lực, Capitan chân thành khen ngợi sự nỗ lực tích lũy thực lực bền bỉ của Rentt.
 Hai người bàn về việc tìm kiếm hải linh thảo tại Mê Cung Các Con Gái Của Hải Thần; Capitan tiết lộ toàn bộ ngư nhân tại Lucaris đã đồng loạt rút về khu định cư dưới đáy biển để lánh nạn.
 Cảnh kết thúc: Capitan bắt đầu hé lộ nguyên nhân ngư nhân di tản có liên quan đến động thái bất thường của các Ma Vương (bốn thực thể tối thượng của loài quái vật).
+
+## 323
+Capitan giải thích nguyên nhân tộc ngư nhân rút về đáy biển và thuyền phà tạm ngừng chạy là do một Ma Vương đang quấy nhiễu vùng biển quanh Mê Cung Các Con Gái Của Hải Thần.
+Trước tình trạng hải linh thảo ở các tầng nông đã cạn kiệt, Rentt đề nghị sẽ cùng bộ ba Niedz phụ giúp tìm kiếm, đổi lại Capitan sẽ hỗ trợ rèn giũa kỹ năng chiến đấu và truyền dạy nền tảng Khí Lực cho cả nhóm.
+Capitan đi báo cáo ủy thác ở Hội và hẹn gặp tại quán rượu cùng người thủy thủ; Rentt quay lại tiệm đồ nguyền rủ Diego cùng nhóm Niedz tham gia chầu rượu làm quen trước chuyến thám hiểm.
+Cảnh kết thúc: Gahedd nghiêm túc nhận lãnh trách nhiệm giữ tỉnh táo để ghìm cương Niedz và Lukas không quậy phá khi uống say, cả nhóm chuẩn bị lên đường tới quán rượu.
