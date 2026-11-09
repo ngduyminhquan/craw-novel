@@ -131,6 +131,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |
 | Mazlak | Mazlak / người thủy thủ / người thủy thủ già / ông lão / ông ấy | 321 | Thủy thủ già kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan và nhóm Rentt |
 | Mariana | Mariana / cô gái trẻ / người phụ nữ trẻ / cô ấy | 327 | Người mẹ quá cố của Diego Malga xuất hiện trong ký ức |
+| Woman in the Black Robe | người phụ nữ tóc trắng / cô ta / người phụ nữ | 26 | Người phụ nữ tóc trắng áo chùng đen bí ẩn sở hữu sức mạnh áp đảo (#26, #328) |
 
 
 
@@ -662,6 +663,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
 | Mariana | Raul | tôi | anh | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
 | Raul | Mariana | tôi | cô | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
+| Woman in the Black Robe | Rentt Faina | ta | ngươi / Thi Quỷ tiên sinh | 26 | Người phụ nữ bí ẩn bề trên nói chuyện với Rentt (#26, #328) |
+| Rentt Faina | Woman in the Black Robe | tôi | cô / người phụ nữ | 26 | Rentt nói chuyện kiêng dè, kính sợ người phụ nữ bí ẩn (#26, #328) |
 
 
 

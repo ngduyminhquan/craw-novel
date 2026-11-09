@@ -1053,3 +1053,10 @@ Capitan dùng dao săn tung cú chém tốc độ phi thường không hề ch�
 Khi những người khác đã trèo lên khỏi mặt nước và Rentt chuẩn bị trèo lên tiếp theo, tầm nhìn của Rentt bỗng tối sầm và anh rơi vào một đoạn ký ức quá khứ bí ẩn trong ngôi đền nguyên vẹn chưa bị hư hại.
 Rentt trải nghiệm góc nhìn của một người đàn ông suýt chết đuối do ống thở hết khí, được một cô gái trẻ trung xinh đẹp cứu sống; cô gái nhắc tới câu chuyện ngụ ngôn về thương nhân Meely tham lam và đề nghị hai người lập tổ đội thám hiểm chung.
 Cảnh kết thúc: Cô gái tự giới thiệu tên là Mariana và người đàn ông xưng tên là Raul (chính là cha mẹ quá cố của Diego Malga); ngay khi Rentt vừa ngờ ngợ nhận ra hai cái tên quen thuộc, ký ức liền vỡ tan như thủy tinh và tầm nhìn vụt trắng xóa.
+
+## 328
+Rentt tỉnh lại và tái ngộ người phụ nữ bí ẩn tóc trắng mặc áo chùng đen từng tặng áo chùng và Bản Đồ Akasha ở Mê Cung Nguyệt Ảnh; cô ta tiết lộ việc mình vừa cứu mạng anh khỏi bị Lõi Mê Cung Các Con Gái Của Hải Thần đồng hóa khi xem đoạn ký ức của cha mẹ Diego.
+Người phụ nữ cảnh báo Rentt mỗi ngày phải rời mê cung một lần và giữ vững ý chí kiên định để tránh bị nuốt chửng, đồng thời hé lộ có một địa điểm mà chỉ riêng anh mới tìm thấy lối vào trước khi cô ta vẫy tay biến mất.
+Rentt quay lại làn nước và được Capitan kéo lên; Capitan cho biết Diego cũng vừa ngất xỉu nhìn thấy ảo ảnh lạ, rồi cử Diego dẫn nhóm Niedz do thám khu vực phía trước để làm quen thực chiến với các quái vật như Hạ Cấp Sahagin.
+Rentt kể lại cuộc gặp với người phụ nữ bí ẩn cho Capitan nghe; dựa trên kinh nghiệm săn bắn, Capitan khuyên Rentt tạm gác chuyện đối đầu với thực thể siêu nhiên đó sang một bên để tập trung thám hiểm mê cung.
+Cảnh kết thúc: Trong lúc hai thầy trò đợi nhóm Diego quay về, một cơn ớn lạnh chạy dọc sống lưng và một luồng dao động Ma Lực khổng lồ từ trên cao ập xuống khiến toàn bộ mê cung rung chuyển dữ dội.

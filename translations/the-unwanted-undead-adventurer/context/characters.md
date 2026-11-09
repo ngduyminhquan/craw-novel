@@ -172,6 +172,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mariana |  | Mariana | Người mẹ quá cố của Diego Malga, vợ của Raul Malga | #324 |
 | Boss Rentt |  | Đại ca Rentt | Biệt danh Lukas dùng để gọi Rentt Faina (#320, #325) | #320 |
 | Meely |  | Meely | Nhân vật thương nhân trong truyện ngụ ngôn cổ 'Meely và bản giao kèo' | #327 |
+| Woman in the Black Robe | Black-Robed Woman; White-Haired Woman | Người phụ nữ áo chùng đen | Người phụ nữ tóc trắng bí ẩn sở hữu sức mạnh áp đảo từng tặng áo chùng ma thuật và Bản Đồ Akasha cho Rentt (#26, #328) | #26 |
 
 
 
@@ -1047,6 +1048,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, nhân vật thương nhân trong truyện ngụ ngôn cổ "Meely và bản giao kèo" (#327).
 - Đặc điểm: Từng tìm thấy một thiết bị có khả năng tạo ra khối tài sản khổng lồ nhưng vì kiêu ngạo và tham lam mà tự chuốc lấy diệt vong (#327).
 - Xuất hiện từ: #327 (qua lời nhắc của Mariana).
+
+### Woman in the Black Robe
+- Thân phận: Nữ, người phụ nữ bí ẩn với mái tóc trắng và đôi mắt xanh lam, sở hữu sức mạnh áp đảo (#26, #328).
+- Đặc điểm: Từng suýt tiêu diệt Rentt ở khu vực chưa khai phá của Mê Cung Nguyệt Ảnh, sau đó tặng Rentt chiếc áo chùng ma thuật và Bản Đồ Akasha (#26); tái xuất hiện cứu Rentt khi anh sắp bị Mê Cung Các Con Gái Của Hải Thần đồng hóa (#328).
+- Xuất hiện từ: #26.
 
 
 
