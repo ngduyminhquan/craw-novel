@@ -910,6 +910,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, thanh niên trẻ tuổi đến từ một ngôi làng hẻo lánh nơi bình yên nhưng bất ngờ xuất hiện Khô Lâu (#294).
 - Vẻ ngoài: Bị bầm dập, quần áo rách rưới khi chạy đến Maalt cầu cứu (#294).
 - Tính cách: Khẩn thiết, biết ơn, có phần bộc trực, nóng lòng cứu làng nhưng bị đẩy vào thế khó vì kinh phí eo hẹp (#294).
+- Thân thế: Cha từng là vệ binh thành phố thời trai trẻ rồi về quê phụng dưỡng cha mẹ và dạy Rivul bắn cung; ba năm trước cha một mình bọc hậu hy sinh trước đàn Goblin để cứu dân làng nhưng chưa được chôn cất, nay biến thành Khô Lâu Binh (#301).
+- Trạng thái (đến #301): Cùng Rentt thu dọn tái thiết làng; nhận ra ngọn giáo của cha trong số chiến lợi phẩm Khô Lâu Binh và cùng Rentt suy đoán ngọn nguồn Khô Lâu có thể từ nơi cha qua đời (#301).
 - Xuất hiện từ: #294.
 
 ### Jiris

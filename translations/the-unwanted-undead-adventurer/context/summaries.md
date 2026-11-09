@@ -1067,6 +1067,13 @@ Nửa đêm, Rentt nhờ Ars trông lửa trại rồi một mình vào rừng t
 Ars kinh ngạc và bộc bạch ước mơ làm mạo hiểm giả; Rentt ân cần chỉ dẫn lộ trình 5 năm rèn luyện kiến thức, cách kiếm tiền trả học phí từ thảo dược, đồng thời hẹn ngày Ars trưởng thành thành mạo hiểm giả xuất chúng sẽ cùng nhau cạn ly.
 Cảnh kết thúc: Ars thức trắng đêm nghe Rentt truyền thụ kiến thức và nhận ra cuộc gặp gỡ với anh chính là một phép màu diệu kỳ.
 
+## 301
+Sau đêm canh gác bảo vệ Làng Crask, Rivul cùng Trưởng thôn Jiris dẫn nhóm dân làng sơ tán đầu tiên trở về; Rentt nhiệt tình ở lại phụ giúp dọn dẹp, sửa sang hàng rào và nhà cửa nhằm củng cố phòng tuyến của làng trước nguy cơ Khô Lâu tiếp tục tràn tới.
+Rentt bày số lượng lớn thực phẩm, bát đĩa đồ dùng từ túi ma thuật ra quảng trường để bán rẻ hỗ trợ dân làng tái thiết, đồng thời tâm sự cùng Rivul về giá trị của túi ma thuật và lý tưởng dấn thân liều mạng của nghề mạo hiểm giả.
+Rivul bất ngờ nhận ra ngọn giáo của một con Khô Lâu Binh mà Rentt tiêu diệt chính là di vật của cha mình—một cựu lính thành phố kiêm thợ săn cừ khôi từng một mình bọc hậu hy sinh trước đàn Goblin ba năm trước để cứu cả làng nhưng chưa được mai táng.
+Rentt phán đoán ngọn nguồn lũ Khô Lâu có thể bắt nguồn từ chính nơi cha Rivul tử trận; Rivul tiết lộ khi xưa họ chỉ thuê được một mạo hiểm giả vãng lai tiêu diệt Goblin chứ không thể nhờ đưa thi thể cha về.
+Cảnh kết thúc: Rivul bộc bạch mạo hiểm giả lang thang năm đó chỉ chăm chăm diệt quái chứ không bận tâm giúp đỡ dân làng việc gì khác.
+
 
 
 
