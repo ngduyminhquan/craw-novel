@@ -110,6 +110,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | First Orphanage of Maalt | First Orphanage; the First Orphanage | Cô Nhi Viện Thứ Nhất Maalt | địa danh | 49 | Cơ sở nuôi dưỡng trẻ mồ côi thứ nhất tại Maalt |
 | Third Orphanage of Vistelya | Vistelya’s Third Orphanage; Third Orphanage | Cô Nhi Viện Thứ Ba Vistelya | địa danh | 266 | Cơ sở nuôi dưỡng trẻ mồ côi thứ ba tại vương đô Vistelya nơi Elza và Lillian từng lớn lên |
 | Accumulative Miasma Disease | Accumulated Miasma; accumulative malice disease | Bệnh Tích Tụ Chướng Khí | khác | 50 | Chứng bệnh suy nhược do cơ thể tích tụ chướng khí mỗi khi vận dụng Thần Lực (蓄積瘴気病) |
+| malice | stagnant mana | chướng khí | khác | 304 | Ma Lực ứ đọng tích tụ lâu ngày sinh ra quái vật trong hang hoặc mê cung |
 | Swamp of Tarasque | Tarasque Swamp | Đầm Lầy Tarasque | địa danh | 50 | Khu vực đầm lầy gần Maalt nơi loài Tarasque thống trị và có Hoa Long Huyết (タラスクの沼) |
 | Tarasque | Tarasques | Tarasque | quái vật | 50 | Quái vật họ hàng loài Rồng sống ở đầm lầy, có mai dày, 6 chân và chứa kịch độc (タラスク) |
 | monster tamer | monster tamers | người thuần hóa quái vật | chức nghiệp | 13 | Người sở hữu ma pháp chi phối tâm trí để thuần hóa và điều khiển quái vật (魔物使い) |

@@ -1087,6 +1087,13 @@ Rentt phóng dao găm thu hút hỏa lực, uốn mình né đòn ma pháp đấ
 Rivul thán phục pha né ma pháp liều mạng của Rentt và giãi bày về ước mơ mạo hiểm giả thuở trước nhưng nhận thấy mình không đủ can đảm để theo đuổi.
 Cảnh kết thúc: Rentt cùng Rivul tiếp tục tiến sâu hơn về phía cuối hang động, cảnh giác chuẩn bị cho những mối nguy hiểm khó lường phía trước.
 
+## 304
+Rentt và Rivul tiến tới nơi sâu nhất của hang động và nhận thấy không khí nồng nặc chướng khí (lượng Ma Lực ứ đọng sinh ra quái vật); Rentt giải thích cơ chế hình thành quái vật và nhận thấy Rivul cũng sở hữu chút Ma Lực tiềm ẩn.
+Đột nhiên Ma Lực tụ lại sinh ra một con Khô Lâu Kỵ Sĩ mặc giáp, cầm kiếm và khiên; Rentt phủ đầu bất thành, nhận định đây có thể là thi thể một kẻ mạnh từng tử trận trong hang và quyết định cất giữ Thần Lực làm át chủ bài dự phòng.
+Rentt dùng mưu mẹo vận Ma Lực khoét hố bẫy dưới chân khiến Khô Lâu Kỵ Sĩ sụp chân mất đà, chớp thời cơ dùng Ma Khí Dung Hợp Thuật chém nổ nát khiên và cánh tay quái vật rồi đâm kiếm xuyên kẽ hở giáp phá nát Ma Tinh hạch tâm.
+Cảnh kết thúc: Khô Lâu Kỵ Sĩ nổ tung vỡ vụn bên trong bộ giáp, Ma Tinh văng ra vách hang và Rivul hò reo chạy tới chúc mừng chiến thắng của Rentt.
+
+
 
 
 

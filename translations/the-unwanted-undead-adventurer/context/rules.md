@@ -115,3 +115,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#28, #30) Tránh dùng từ ngữ kinh tế/tài chính hiện đại trong bối cảnh kỳ ảo trung cổ: "on one's tab" tại quán rượu dịch là "ghi nợ vào sổ / ghi nợ" (tránh dịch là "ghi nợ vào tài khoản"); "trade and industry" dịch là "thương mại và sản xuất / chế tác" (tránh dịch là "công nghiệp").
 - (#40) Thành ngữ "make a/one's move on [someone]": trong ngữ cảnh tình cảm/trêu ghẹo dịch là "cưa cẩm / tán tỉnh", tránh dịch máy thô thành "ra tay" gây hiểu lầm sang hành hung/bạo lực.
 - (#59) Cụm từ "selling them off at a high price": dịch là "đầu cơ kiếm bộn tiền" hoặc "bán kiếm lời / bán giá cao", tránh dịch sai nghĩa thành "bán tháo" (vốn chỉ hành động bán tống bán tháo hạ giá).
+- (#304) Từ "malice" khi nói về Ma Lực ngưng trệ ứ đọng sinh ra quái vật trong hang/mê cung: dịch là "chướng khí" (thống nhất với Bệnh Tích Tụ Chướng Khí ở #50, #224), tránh dịch lệch thành "oán niệm" hay "ác ý".
