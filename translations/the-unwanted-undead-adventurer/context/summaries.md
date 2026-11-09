@@ -1017,6 +1017,13 @@ Tiếp đó, Rentt thử nghiệm Ma Khí Dung Hợp Thuật: thanh kiếm chém
 Clope và Rentt trò chuyện về các loại ma kiếm nguy hiểm tước đoạt sinh mệnh hay hút máu người dùng để đổi lấy sức mạnh, cùng số phận bi đát của những anh hùng từng sử dụng chúng trong thi ca của các thi nhân hát rong.
 Cảnh kết thúc: Rentt nhìn nhận thanh kiếm như một người bạn đồng hành đáng tin cậy và quyết tâm thuần thục nó, mong rằng nếu mai sau câu chuyện của mình được đưa vào khúc hát thì đó sẽ là một khúc ca thú vị.
 
+## 293
+Rentt thử nghiệm kỹ thuật cuối cùng là Thần Ma Khí Dung Hợp Thuật lên các hình nhân; nhát kiếm kích hoạt năng lực Áp Súc khiến hình nhân gỗ rơm bị nén nhỏ trong lòng bàn tay và hình nhân giáp kim loại bị nghiền thành khối cầu, đồng thời đất cát và dây thường xuân mọc ra quấn chặt hút dinh dưỡng.
+Clope kiểm tra kỹ lưỡng thanh kiếm và xác nhận nó hoàn toàn nguyên vẹn sau khi chịu tải Thần Ma Khí Dung Hợp Thuật; Rentt vui mừng vì có thêm át chủ bài thực chiến và hứa sẽ giúp Clope bất cứ khi nào anh cần.
+Chuyển sang góc nhìn tiệm Ba Chĩa sau khi Rentt rời đi: Luka trở về từ Hội Thợ Rèn với vẻ mặt lo âu và đưa cho Clope một bức thư.
+Cảnh kết thúc: Clope đọc xong thư, khẽ gật đầu và nhận ra mình sẽ phải sớm nhờ cậy lời đề nghị giúp đỡ của Rentt.
+
+
 
 
 

@@ -297,7 +297,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | reviewed |  |
 | 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | reviewed |  |
 | 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | reviewed |  |
-| 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | todo |  |
+| 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | done |  |
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | todo |  |
 | 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | todo |  |
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 ## Đã quyết
 
@@ -961,3 +962,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#291] Thuật ngữ 'Earth Dragon' trong câu thoại của Clope ("soaked in the Earth Dragon’s mana") — tạm dịch 'Rồng Đất' đồng bộ với mục Earth Dragon trong glossary.md (phương án khác: 'Địa Long'). Tạm dùng trong bản dịch: 'Rồng Đất'. → Giữ 'Rồng Đất' đồng bộ với glossary.md. (orchestrator)
 - [#291] Cụm từ 'segmented whip-swords' miêu tả loại kiếm uốn cong — tạm dịch 'thanh kiếm roi chuỗi đoạn' (phương án khác: 'thanh kiếm roi phân đoạn', 'kiếm xích'). Tạm dùng trong bản dịch: 'thanh kiếm roi chuỗi đoạn'. → Giữ 'thanh kiếm roi chuỗi đoạn' như đã dịch. (orchestrator)
 - [#292] Đoạn 21 raw dùng 'a saintess' nhưng đoạn sau giải thích là Rentt nói về Nive Maris (Thợ Săn Ma Cà Rồng): tạm dịch là 'một vị Thánh Nữ' theo danh hiệu 'priestess-saint', đề xuất giữ nguyên vì Rentt dùng cách gọi này để ẩn ý/ví von khi nói chuyện với Clope. → Giữ 'một vị Thánh Nữ' như đã dịch và cập nhật alias trong glossary.md. (orchestrator)
+- [#293] Cảnh báo QA 'familiar' ở đoạn 40: raw dùng tính từ 'I was familiar enough with swords' (hiểu biết về kiếm), không phải danh từ thuật ngữ 'quyến thuộc' trong glossary.md — Tạm dùng trong bản dịch: bỏ qua cảnh báo, dịch tự nhiên thành 'Tôi đủ hiểu biết về kiếm' theo ngữ cảnh (phương án khác: không có). → Bỏ qua cảnh báo (false positive do tính từ 'familiar enough'), giữ bản dịch tự nhiên 'Tôi đủ hiểu biết về kiếm'. (orchestrator)
