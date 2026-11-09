@@ -553,6 +553,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mister Thrall |  | ngài Thi Quỷ | danh hiệu | 328 | Biệt danh trêu chọc người phụ nữ tóc trắng áo chùng đen gọi Rentt khi tái ngộ |
 | Tidal Wave |  | Sóng Triều | kỹ năng | 329 | Ma pháp thủy hệ cổ ngữ triệu hồi ngọn sóng thần khổng lồ như bức tường chạm mây quét sạch đối thủ |
 | War God | war god; the war god | Chiến Thần | danh hiệu | 331 | Thần linh cai quản chiến tranh (軍神/戦神) |
+| Greater Armorfish | greater armorfish; Greater Armorfishes; Armorfish | Đại Khôi Ngư | quái vật | 333 | Quái vật thủ lĩnh dạng cá bọc vảy kim loại dài khoảng năm mét, có thể trôi nổi và bơi lượn trong không khí tại phòng thủ lĩnh giữa tầng trên và tầng giữa của Mê Cung Các Con Gái Của Hải Thần (大鎧魚) |
+| unique spawn | unique spawns; Unique spawn; Unique spawns | quái vật biến dị | khác | 333 | Hiện tượng cá thể quái vật hiếm gặp phá vỡ quy luật thông thường của mê cung, xuất hiện với kích thước và sức mạnh vượt trội (ユニーク種/変異体) |
+| teleportation device | teleportation devices; Teleportation device; Teleportation devices | thiết bị dịch chuyển | vật phẩm | 333 | Khí cụ hoặc công trình ma pháp không gian dùng để dịch chuyển tức thời giữa các tầng mê cung (転移装置) |
 
 
 

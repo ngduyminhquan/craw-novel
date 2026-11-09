@@ -1088,3 +1088,10 @@ Nhận thấy Niedz đã kiệt sức sau khi cả nhóm hạ được hai con H
 Nhận ra mảnh vảy quái vật văng tung tóe có thể gây nguy hiểm cho đồng đội trong hành lang hẹp, Rentt chuyển sang dùng Ma Lực chém bay đầu hai con quái vật còn lại; Lukas và Gahedd giữ bình tĩnh đâm dứt điểm các cái xác không đầu vẫn còn giãy giụa phản công.
 Cảnh kết thúc: Rentt thở phào nhẹ nhõm khi Capitan gật đầu tán thành, đánh giá bộ ba học trò Đồng Cấp đã vượt qua bài kiểm tra thực chiến với điểm số vừa đủ đỗ.
 
+## 333
+Nhóm Rentt, Capitan, Diego dẫn bộ ba Niedz đến phòng thủ lĩnh giữa tầng trên và tầng giữa; để đảm bảo an toàn cho ba học trò kiệt sức, cả nhóm quyết định cùng tiến vào và phân công bộ ba bám rìa căn phòng cầm chân đám Hạ Cấp Sahagin được triệu hồi.
+Bên trong, cả nhóm đối đầu với con Đại Khôi Ngư khổng lồ biết bơi trong không khí—hóa ra là quái vật biến dị với lớp vảy kim loại cực cứng khiến đòn đánh thường của Capitan và Diego bật nảy vô hiệu.
+Rentt vận dụng Ma Khí Dung Hợp Thuật chém nổ tung một mảng vảy từ bên trong, tạo sơ hở cho Capitan và Diego lập tức bồi đòn đâm xuyên kẽ hở kết liễu con quái vật thủ lĩnh.
+Chiếc rương kho báu hình bình bạch tuộc không có hải linh thảo mà chứa một miếng thẻ gỗ Nguyền Cụ giúp tăng thuộc tính cho vũ khí rơi trong mê cung; Capitan đề ra mục tiêu tiến xuống tầng giữa kích hoạt thiết bị dịch chuyển trước khi quay về.
+Cảnh kết thúc: Rentt động viên bộ ba Niedz, Lukas, Gahedd đang thở dốc kiệt sức ráng cầm cự nốt quãng đường còn lại, cả ba mệt lử nhưng đồng loạt gật đầu lia lịa.
+

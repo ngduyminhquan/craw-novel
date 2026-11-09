@@ -676,6 +676,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Diego Malga | tôi | anh / Diego / anh Diego | 330 | Mạo hiểm giả cấp thấp nói chuyện với chủ tiệm đồ nguyền |
 | Lukas | Rentt Faina | tôi / bọn tôi | Đại ca Rentt / đại ca / anh | 330 | Mạo hiểm giả cấp thấp kính nể gọi tiền bối Rentt |
 | Lukas | Capitan | tôi | Đại ca Capitan / Capitan | 331 | Mạo hiểm giả cấp thấp kính nể mạo hiểm giả tiền bối (raw: Boss Capitan) |
+| Capitan | Niedz | tôi | cậu / Niedz | 333 | Mạo hiểm giả kỳ cựu nói chuyện / chỉ đạo hậu bối |
+| Niedz | Capitan | tôi | Đại ca Capitan / Capitan | 333 | Mạo hiểm giả cấp thấp kính nể tiền bối |
+| Capitan | Lukas | tôi | cậu / Lukas | 333 | Mạo hiểm giả kỳ cựu nói chuyện / chỉ đạo hậu bối |
+| Capitan | Gahedd | tôi | cậu / Gahedd | 333 | Mạo hiểm giả kỳ cựu nói chuyện / chỉ đạo hậu bối |
+| Gahedd | Capitan | tôi | Đại ca Capitan / Capitan | 333 | Mạo hiểm giả cấp thấp kính nể tiền bối |
 
 
 
