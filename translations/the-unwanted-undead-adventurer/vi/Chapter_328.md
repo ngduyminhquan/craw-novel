@@ -14,7 +14,7 @@ Làm sao tôi lại lưu lạc đến chốn này được chứ?
 
 Điều đáng sợ là tôi chẳng hề cảm nhận được bất kỳ ai ở đằng sau. Cứ như thể chủ nhân của giọng nói kia hoàn toàn không có chút hơi thở hay hiện diện nào vậy. Ngập ngừng đôi chút, tôi quay đầu lại và nhìn thấy...
 
-"Xin chào, Thi Quỷ tiên sinh," người phụ nữ vừa đánh giá tôi như một món đồ hiếm lạ vừa cất tiếng. "Hửm. Không, gọi thế không còn đúng nữa rồi nhỉ? Quả là chuyện hiếm thấy thật đấy. Xem ra rốt cuộc ngươi vẫn không trở thành Ma Cà Rồng, dù vẫn thuộc cùng một dòng tộc nói chung. Xét theo hoàn cảnh của ngươi thì thế cũng hợp lý thôi. Kiềm chế được cơn khát máu của mình, ngươi làm khá ấn tượng đấy."
+"Xin chào, Thi Quỷ tiên sinh," người phụ nữ vừa đánh giá tôi như một món đồ hiếm lạ vừa cất tiếng. "Hửm. Không, gọi thế không còn đúng nữa rồi nhỉ? Quả là chuyện hiếm thấy thật đấy. Xem ra rốt cuộc ngươi vẫn không trở thành Ma Cà Rồng, dù vẫn thuộc cùng một dòng tộc nói chung. Xét theo hoàn cảnh của ngươi thì thế cũng hợp lý thôi. Kiềm chế được cơn khát máu của bản thân như vậy, ngươi cũng đáng nể thật đấy."
 
 Những lời ấy chẳng đợi tôi đáp lại—cô ta buông ra cứ như đang tự mình lẩm bẩm suy nghĩ thành tiếng. Hẳn tôi đã xem cô ta như một kẻ lang thang mê cung nào đó—dẫu có hơi lập dị—nếu không phải vì tôi từng gặp người phụ nữ này trước đây.
 
@@ -30,7 +30,7 @@ Cuộc gặp gỡ lần trước vẫn khiến tôi ngỡ như một giấc mơ 
 
 Xem chừng cô ta đặt kỳ vọng vào tôi. Tôi chẳng rõ chính xác đó là gì, nhưng ít nhất cô ta có vẻ không mang ác ý gì với tôi cả. Điều đó không có nghĩa là tôi có thể hoàn toàn tin tưởng cô ta, nhưng tôi đoán niềm tin của một kẻ nhỏ bé mờ nhạt như tôi cũng chẳng có mấy trọng lượng với một người sở hữu sức mạnh tầm cỡ ấy.
 
-Lần trước gặp gỡ, tôi vẫn còn là một Thi Quỷ. Theo tôi tự đánh giá thì từ dạo ấy đến giờ mình đã mạnh lên không ít, nhưng tôi không nghĩ điều đó giúp tăng chút cơ hội nào trên lý thuyết khi đối đầu với cô ta. Cũng may là cô ta không chĩa luồng khí tức nguy hiểm kia về phía tôi, bởi tôi ngờ rằng cô ta hoàn toàn có thể xóa sổ sự tồn tại của tôi chỉ bằng một cái búng ngón tay... Hay thậm chí chẳng cần nhúc nhích lấy một ly.
+Lần trước gặp gỡ, tôi vẫn còn là một Thi Quỷ. Theo tôi tự đánh giá thì từ dạo ấy đến giờ mình đã mạnh lên không ít, nhưng tôi không nghĩ điều đó giúp tăng chút cơ hội nào trên lý thuyết khi đối đầu với cô ta. Cũng may là cô ta không chĩa luồng khí tức nguy hiểm kia về phía tôi, bởi tôi ngờ rằng cô ta hoàn toàn có thể xóa sổ sự tồn tại của tôi chỉ bằng một cái nhích nhẹ ngón tay... Hay thậm chí chẳng cần nhúc nhích lấy một ly.
 
 ![](images/ch328-01.webp)
 
@@ -50,7 +50,7 @@ Nói ngắn gọn, tôi hoàn toàn bất lực. Nhưng xét ở một góc đ�
 
 "Có thể coi là vậy. Chính nhờ tri thức đó mà ta mới nhận định ngươi đang gặp nguy hiểm. Ngươi vừa thấy điều gì đó, đúng không?"
 
-"Vâng... Một người đàn ông và một người phụ nữ đang trò chuyện."
+"Ừm... Một người đàn ông và một người phụ nữ đang trò chuyện."
 
 "Đó là một trong những ký ức của mê cung—hoặc có lẽ ngươi có thể gọi chúng là những bản ghi. Bản thân ta cũng không rành lắm về đoạn ký ức cụ thể này, nên chẳng dám khẳng định. Dù sao thì một mảnh vỡ của những gì từng xảy ra nơi đây trong quá khứ đã chảy vào tâm trí ngươi. Những thứ như vậy thường được lưu trữ trong Lõi Mê Cung, và— À. Ngươi có biết Lõi Mê Cung là gì không?"
 
@@ -68,9 +68,9 @@ Nói ngắn gọn, tôi hoàn toàn bất lực. Nhưng xét ở một góc đ�
 
 "Cô... chắc chứ?" Ngay lúc đang nghĩ chuyện đó nghe chừng chẳng đến mức quá khó khăn, một ý nghĩ bỗng lóe lên trong đầu tôi. "Khoan đã—nếu mê cung luôn tìm cách hấp thụ quái vật từ bên ngoài bước vào, vậy sao chẳng có chuyện gì xảy ra với tôi ở Mê Cung Nguyệt Ảnh? Hay Mê Cung Tân Nguyệt? Hay bất kỳ mê cung nào khác mà tôi từng đặt chân tới?"
 
-"Đó là bởi vì mê cung này... À, xem ra ta hết thời gian rồi. Ta phải rời khỏi đây thôi, kẻo lại lỡ mất cơ hội giải quyết công việc của mình. Tiện đây nói luôn, có khả năng những kẻ ở gần ngươi cũng nhìn thấy ảo ảnh tương tự đấy. Có khi ngươi sẽ phải giải thích đôi điều với họ đấy. Sau cùng, nếu phải cho ngươi một lời khuyên..."
+"Đó là bởi vì mê cung này... À, xem ra ta hết thời gian rồi. Ta phải rời khỏi đây thôi, kẻo lại lỡ mất cơ hội giải quyết công việc của mình. Nhân tiện, có khả năng những người ở gần ngươi cũng nhìn thấy ảo ảnh tương tự. Có khi ngươi sẽ phải giải thích đôi điều với họ đấy. Sau cùng, nếu phải cho ngươi một lời khuyên..."
 
-"Lời khuyên gì cơ ạ?"
+"Lời khuyên gì cơ?"
 
 "Nơi này có một địa điểm mà lối vào chỉ duy nhất ngươi mới có thể phát hiện ra. Giờ thì ta phải đi thật rồi. Tạm biệt nhé." Người phụ nữ khẽ vẫy tay lịch thiệp khi không gian xung quanh tôi bắt đầu biến dạng và vặn xoắn.
 
@@ -102,7 +102,7 @@ Người ta có thể ngỡ rằng chiếc mặt nạ của tôi sẽ bị rỉ 
 
 "Rentt! Cháu không sao chứ!" Tiếng Capitan vang lên, kéo tôi ra khỏi mớ suy nghĩ vẩn vơ để trở về với thực tại. Bàn tay vừa kéo tôi lên khỏi mặt nước chính là của chú ấy.
 
-"Vâng, may mà cháu vẫn ổn," tôi nói. "Xin lỗi vì cháu bị lạc mọi người. Chắc Capitan và mọi người phải chờ lâu rồi nhỉ?"
+"Ừm, may mà cháu vẫn ổn," tôi nói. "Xin lỗi vì cháu bị lạc mọi người. Chắc Capitan và mọi người phải chờ lâu rồi nhỉ?"
 
 "Cũng không lâu lắm—chưa đầy hai mươi phút đâu. Có điều cháu đột nhiên bốc hơi mất hút làm bọn chú một phen khiếp vía đấy. Bọn chú đã ráng lặn tìm cháu dưới nước nhưng chẳng thấy đâu. Thậm chí chú còn bắt đầu ngờ rằng cháu bắt gặp lối đi nào khác rồi vì lý do gì đó mà quyết định rẽ vào cơ."
 
@@ -118,7 +118,7 @@ Cách chú ấy nói nghe như thể...
 
 "Vậy là có người khác nhìn thấy sao?" tôi hỏi.
 
-"Diego," chú ấy xác nhận. "Cậu ta ngất xỉu lúc nãy—không lâu lắm. Cậu ta bảo mình thấy một ảo ảnh kỳ lạ. Cậu ta xua tay bảo chắc đầu óc lú lẫn tưởng tượng ra thôi, nhưng nghe cháu nói thế này thì chú đoán không phải vậy rồi, nhỉ?"
+"Diego," chú ấy xác nhận. "Cậu ta ngất xỉu lúc nãy—không lâu lắm. Nghe bảo là thấy một ảo ảnh kỳ lạ, nhưng rồi lại xua tay bảo chắc đầu óc lú lẫn tưởng tượng ra thôi. Cơ mà nghe cháu nói thế này thì chú đoán không phải vậy rồi, nhỉ?"
 
 Vậy là Diego cũng nhìn thấy sao? Ngẫm lại thì cũng hợp lý. Có vẻ như Capitan cùng bộ ba kia hoàn toàn chẳng thấy ảo ảnh nào cả. Tôi không phải chuyên gia trong mấy chuyện này nên chỉ có thể nghĩ ra vài giả thuyết giải thích nguyên do, nhưng phỏng đoán an toàn nhất có lẽ là vì những người xuất hiện trong ảo ảnh chính là cha mẹ của Diego.
 
@@ -138,9 +138,9 @@ Gác chuyện đó sang một bên, việc đầu tiên tôi cần làm lúc nà
 
 Xem chừng Capitan đánh giá Diego khá cao. Nói công bằng thì tôi cũng vậy—cách anh ấy di chuyển trong lần đầu chúng tôi chạm trán đã đủ để mách bảo tôi rằng người thú nhân này sở hữu kỹ năng trời phú vô cùng đáng nể. Rõ ràng là anh ấy chưa lật hết mọi con bài tẩy của mình, nhưng tối thiểu thì tôi biết anh ấy thừa sức tự lo liệu cho bản thân.
 
-Về phần Capitan, chú ấy chẳng cần phải tận mắt thấy Diego chiến đấu mới rút ra được kết luận đó—chỉ cần nhìn cách người đàn ông ấy cử động là chú đã nắm bắt được rồi. Sư phụ có khác. Khả năng phán đoán của tôi còn kém xa mức ấy, nên những nhận định chớp nhoáng của tôi về thực lực người khác không phải lúc nào cũng chuẩn xác đến thế.
+Về phần Capitan, chú ấy chẳng cần phải tận mắt thấy Diego chiến đấu mới rút ra được kết luận đó—chỉ cần nhìn cách người đàn ông ấy cử động là chú ấy đã nắm bắt được rồi. Sư phụ có khác. Khả năng phán đoán của tôi còn kém xa mức ấy, nên những nhận định chớp nhoáng của tôi về thực lực người khác không phải lúc nào cũng chuẩn xác đến thế.
 
-"Vâng," tôi nói. "Liệu họ sắp quay lại chưa? Hay chúng ta nên đuổi theo họ?"
+"Được rồi," tôi nói. "Liệu họ sắp quay lại chưa? Hay chúng ta nên đuổi theo họ?"
 
 "Họ sắp quay lại rồi đấy. Chú dặn họ đừng đi quá xa, bởi chú biết thế nào cháu cũng sẽ quay trở về."
 
@@ -154,11 +154,11 @@ Tôi liền tóm tắt cho Capitan nghe những gì vừa xảy ra với mình�
 
 "Lạ thật đấy..." Capitan trầm ngâm khi tôi kể xong. "Người phụ nữ sở hữu sức mạnh kinh hồn bạt vía đó—cháu bảo cô ta không phải kẻ thù à? Hừm. Có điều chú không chắc cứ ngồi nghiền ngẫm chuyện này thì có thể tìm ra câu trả lời cho chúng ta đâu."
 
-Cách diễn đạt có phần thẳng tuột, nhưng tôi chẳng thể nào phản bác. "Vâng, chắc Capitan nói đúng rồi."
+Cách diễn đạt có phần thẳng tuột, nhưng tôi chẳng thể nào phản bác. "Ừm, chắc Capitan nói đúng rồi."
 
 "Trong rừng sâu cũng vậy thôi. Thỉnh thoảng cháu sẽ chạm trán một con quái vật thực sự đáng sợ tít tận rừng thẳm, nhưng chúng thường chẳng buồn đoái hoài tới những con người bé nhỏ như chúng ta đâu. Người phụ nữ cháu vừa kể có lẽ cũng tương tự như thế. Còn nếu lỡ chúng bỗng dưng tỏ ra hứng thú với cháu thì sao? Chẳng làm được gì nhiều ngoài việc ráng sức chống cự, dẫu thừa biết chuyện đó là vô vọng. Nghe thế có đúng với cô ta không?"
 
-"Gần như chuẩn xác luôn," tôi đồng tình. Capitan không hề buông lời sáo rỗng vu vơ—chú ấy đang đúc kết từ chính kinh nghiệm cả đời làm thợ săn của mình. Đôi khi, thực sự tồn tại những thế lực vượt quá khả năng chống cự của con người. "Vậy thì cháu xin tạm gác chuyện đó sang một bên. Mê cung vẫn là ưu tiên hàng đầu."
+"Gần như chuẩn xác luôn," tôi đồng tình. Capitan không hề buông lời sáo rỗng vu vơ—chú ấy đang đúc kết từ chính kinh nghiệm cả đời làm thợ săn của mình. Đôi khi, thực sự tồn tại những thế lực vượt quá khả năng chống cự của con người. "Vậy tạm thời cháu cứ gác chuyện đó sang một bên đã. Mê cung vẫn là ưu tiên hàng đầu."
 
 Capitan gật đầu. "Ừ. Chúng ta nói chuyện nãy giờ cũng lâu rồi, chắc Diego và những người khác sắp quay lại..."
 

@@ -330,9 +330,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | reviewed |  |
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | reviewed |  |
 | 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | reviewed |  |
-| 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | done |  |
-| 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | done |  |
-| 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | done |  |
+| 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | reviewed |  |
+| 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | reviewed |  |
+| 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | reviewed |  |
 | 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | todo |  |
 | 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | todo |  |
 | 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | todo |  |

@@ -6,7 +6,7 @@ Khi chúng tôi đến nơi, tôi thấy số thuyền bè neo đậu ở bến 
 
 Diego gật đầu. "Chính nó đấy. Mỗi ngày một chuyến, đưa đón người ta đến Mê Cung Các Con Gái Của Hải Thần. Nhưng bình thường thì giờ này nó đã rời bến rồi. Tôi đoán tin đồn có quái vật xuất hiện quanh vùng biển dạo gần đây thực sự đã khiến mọi chuyện đảo lộn."
 
-Tôi đã kể cho Diego nghe về những tin đồn liên quan đến đội quân Ma Vương mà Capitan nói với tôi. Vì Diego là cư dân Lucaris, nên cảnh tượng thuyền bè nằm bờ nhiều đến mức này vào giờ đó hẳn còn kỳ lạ trong mắt anh ấy hơn cả tôi.
+Tôi đã kể cho Diego nghe về những tin đồn liên quan đến đội quân Ma Vương mà Capitan nói với tôi. Vì Diego là cư dân Lucaris, nên cảnh tượng thuyền bè nằm bờ nhiều đến mức này vào giờ này hẳn còn kỳ lạ trong mắt anh ấy hơn cả tôi.
 
 "Chỉ mong ông Mazlak không đổi ý chuyện ra khơi," tôi nói.
 
@@ -16,7 +16,7 @@ Tôi quay sang hướng Diego đang nhìn và thấy Mazlak cùng Capitan đang 
 
 Niedz, Lukas và Gahedd cũng đang đứng cạnh mạn thuyền. Xem chừng họ không có ý định bỏ trốn.
 
-"Xem ra bọn mình đến sau cùng rồi," Diego bảo. "Mau lên thôi."
+"Xem ra chúng ta đến sau cùng rồi," Diego bảo. "Mau lên thôi."
 
 Anh ấy rảo bước chạy bước nhỏ, và tôi liền bám theo sau.
 
@@ -24,7 +24,7 @@ Anh ấy rảo bước chạy bước nhỏ, và tôi liền bám theo sau.
 
 "Đến nơi rồi!" Mazlak cất tiếng gọi lớn. "Phần việc của tôi đến đây là xong—giờ chỉ còn chờ các cậu nhảy xuống lặn nữa thôi đấy!"
 
-Chúng tôi đã đi khá xa khỏi Lucaris, xa đến mức thành phố rộng lớn nhường ấy cũng chẳng còn lọt vào tầm mắt. Xung quanh tôi lúc này chỉ toàn một màu xanh bao la của biển cả. Tít trên cao nơi bầu trời không với tới, vầng thái dương—kẻ thù tự nhiên của mọi Undead—đang tỏa ánh nắng chói chang.
+Chúng tôi đã đi khá xa khỏi Lucaris, xa đến mức thành phố rộng lớn đến thế cũng chẳng còn lọt vào tầm mắt. Xung quanh tôi lúc này chỉ toàn một màu xanh bao la của biển cả. Tít trên cao nơi bầu trời không với tới, mặt trời—kẻ thù tự nhiên của mọi Undead—đang tỏa ánh nắng chói chang.
 
 Dù ánh nắng chẳng hề gây tổn hại gì cho tôi, nhưng những Undead hạ cấp nếu bước ra dưới vòm trời này sẽ lập tức hóa thành tro bụi, còn những kẻ đủ mạnh để không chết ngay cũng sẽ bị chậm chạp cử động và suy giảm các giác quan. Rất ít sinh vật của màn đêm có thể khắc phục được ánh sáng ban ngày—và chính vì thế, chúng mới gieo rắc nỗi khiếp sợ xứng đáng với danh tiếng của mình.
 
@@ -40,7 +40,7 @@ Capitan thì không sao rồi, vì chú ấy có thể dùng Khí Lực gia cố
 
 "Cháu chắc chứ?"
 
-"Vâng. Capitan là người nắm rõ nhất vị trí mê cung dưới đó, nên nếu Capitan dẫn đường thì tốt quá. Sau Capitan sẽ là... Diego, rồi đến Niedz, Lukas và Gahedd. Cháu sẽ bọc hậu phía sau."
+"Ừm. Capitan là người nắm rõ nhất vị trí mê cung dưới đó, nên nếu Capitan dẫn đường thì tốt quá. Sau Capitan sẽ là... Diego, rồi đến Niedz, Lukas và Gahedd. Cháu sẽ bọc hậu phía sau."
 
 "Chú hiểu rồi. Hẹn gặp lại cháu dưới đáy nhé." Khẽ gồng người một tiếng, Capitan lộn ngược người rời khỏi mạn thuyền rồi lao mình xuống làn nước.
 
@@ -52,9 +52,9 @@ Tôi quay sang bộ ba. "Được rồi, đến lượt các cậu. Tốt hơn l
 
 Đây là chuyện tôi dứt khoát không thể nương tay với họ được, nếu không họ sẽ thực sự mất dấu Capitan và Diego. Bản thân tôi thì chẳng gặp vấn đề đó, bởi thị lực của tôi tốt hơn người bình thường, và dẫu mắt không thấy thì tôi vẫn cảm nhận được thân nhiệt của người khác. Nhưng dẫu khá tự tin rằng mình có thể bám theo Capitan ngay cả khi tầm nhìn giảm thấp, tôi vẫn không thể dám chắc mình sẽ không bị mất phương hướng. Những chuyện kỳ quái thường xuyên xảy ra quanh các mê cung, và việc các quy luật tự nhiên bị bẻ cong theo những cách không ngờ tới cũng chẳng phải điều hiếm gặp.
 
-Niedz hẳn đã cảm nhận được sự gấp gáp của tôi. "Chết tiệt! Bất chấp hết vậy!" gã chửi thề một tiếng rồi nhảy ùm xuống nước.
+Niedz hẳn đã cảm nhận được sự gấp gáp của tôi. "Chết tiệt! Bất chấp hết vậy!" cậu ta chửi thề một tiếng rồi nhảy ùm xuống nước.
 
-Đúng như dự đoán, gã tạo ra một cột nước bắn tung tóe, đủ sức thu hút bất kỳ con quái vật nào gần đó nếu chúng có mặt ở quanh đây. Tôi vốn hy vọng gã sẽ cẩn thận hơn đôi chút, bởi tôi chẳng hề muốn đụng độ với một đội kỵ sĩ cưỡi Kelpie vào lúc này, nhưng ít nhất thì gã cũng đã dám nhảy. Dù sao thì chắc chúng tôi vẫn ổn thôi—Capitan và Mazlak từng nhắc rằng lũ kỵ sĩ cưỡi Kelpie chủ yếu chuộng hoạt động vào lúc hoàng hôn hơn là buổi sáng.
+Đúng như dự đoán, cậu ta tạo ra một cột nước bắn tung tóe, đủ sức thu hút bất kỳ con quái vật nào gần đó nếu chúng có mặt ở quanh đây. Tôi vốn hy vọng cậu ta sẽ cẩn thận hơn đôi chút, bởi tôi chẳng hề muốn đụng độ với một đội kỵ sĩ cưỡi Kelpie vào lúc này, nhưng ít nhất thì cậu ta cũng đã dám nhảy. Dù sao thì chắc chúng tôi vẫn ổn thôi—Capitan và Mazlak từng nhắc rằng lũ kỵ sĩ cưỡi Kelpie chủ yếu chuộng hoạt động vào lúc hoàng hôn hơn là buổi sáng.
 
 Dù vậy vẫn có một xác suất nhỏ chúng xuất hiện, nên tôi sẽ không lơ là cảnh giác... nhưng theo những gì tôi quan sát được thì nơi này chỉ có nhóm chúng tôi. Dưới làn nước tôi cũng chẳng cảm nhận thấy sự hiện diện của con quái vật mạnh mẽ nào.
 
@@ -70,7 +70,7 @@ Cả hai cùng lặn xuống. Trong khi Lukas cũng làm nước bắn tung tóe
 
 Mazlak gật đầu. "Đúng thế. Dù có lũ kỵ sĩ cưỡi Kelpie lượn lờ quanh đây thì tôi vẫn sẽ túc trực ở chỗ này, nên cứ nhớ chú ý thời gian. Xuống dưới đó nhớ giữ an toàn đấy."
 
-Tôi gật đầu đáp lại rồi lao mình xuống nước. Tôi khá chắc mình cũng hầu như chẳng tạo ra tiếng động nào, dẫu trang phục trên người tôi nhẹ hơn hẳn những người khác. Dù vậy, có vẻ như những buổi tập lặn thuở ấu thơ dưới hồ nước ở Hathara cuối cùng cũng phát huy tác dụng.
+Tôi gật đầu đáp lại rồi lao mình xuống nước. Tôi khá chắc mình cũng hầu như chẳng tạo ra tiếng động nào, dẫu trang phục trên người tôi nhẹ hơn hẳn những người khác. Xem ra những buổi tập lặn thuở ấu thơ dưới hồ nước ở Hathara cuối cùng cũng phát huy tác dụng.
 
 À thì, chuyện đó có lẽ giống chơi đùa hơn là luyện tập. Cơ mà xét đến việc tôi từng đâm cá bằng xiên các kiểu, thì có khi nó cũng được tính là luyện tập thật. Người bắt tôi làm những trò đó chính là Capitan, phòng khi có ai thắc mắc. Vốn là một thợ săn, bắt cá cũng nằm trong phạm vi sở trường của chú ấy—dù lý do chú ấy chỉ dạy cho tôi chủ yếu là để đảm bảo sau này tôi có thể săn bắn và tự nuôi sống bản thân dù có phiêu bạt đến bất kỳ nơi đâu trên thế giới. Và thay vì chỉ là việc dạy săn bắn thông thường, nó giống như một khóa huấn luyện sinh tồn chuyên sâu hơn. Dĩ nhiên là chẳng đời nào tôi hé răng phàn nàn lấy nửa lời. Bởi cũng chính nhờ những kỹ năng mà chú ấy truyền dạy, tôi mới có thể sống sót cho đến tận ngày hôm nay.
 
@@ -86,7 +86,7 @@ Tôi đã bơi được bao lâu rồi nhỉ?
 
 Sở dĩ chúng tôi vẫn có thể định hướng đường lặn xuống là nhờ những chiếc đèn biển mà mỗi người đang cầm trên tay, một loại ma cụ—ý tôi là, Nguyền Cụ. Thật tiện là nó có thể phát sáng dưới nước bao lâu tùy thích, chỉ có điều nếu đem dùng trên cạn, nó có nguy cơ phát nổ ngay trước mặt người cầm theo đúng nghĩa đen. Đó là lý do vì sao nó lại bị coi là Nguyền Cụ.
 
-Nghe đâu ban đầu nó chỉ được xem là một món ma cụ bình thường nhưng bị lỗi, cho đến một ngày nọ có kẻ lập dị nào đó hứng chí đem thử nghiệm dưới nước và phát hiện ra công năng thực sự của nó. Tôi chẳng tài nào biết nổi làm sao người đó lại nảy ra ý định mang một chiếc đèn xuống đáy nước, nhưng cũng nhờ nỗ lực của họ mà chúng tôi mới có thể hoạt động dưới vực sâu với hiệu quả thế này, nên tôi cũng chẳng dám kêu ca gì.
+Nghe đâu ban đầu nó chỉ được xem là một món ma cụ bình thường nhưng bị lỗi, cho đến một ngày nọ có kẻ lập dị nào đó hứng chí đem thử nghiệm dưới nước và phát hiện ra công năng thực sự của nó. Tôi chẳng tài nào biết nổi làm sao người đó lại nảy ra ý định mang một chiếc đèn xuống đáy nước, nhưng cũng nhờ công sức của người đó mà chúng tôi mới có thể hoạt động hiệu quả dưới vực sâu thế này, nên tôi cũng chẳng dám kêu ca gì.
 
 Tôi chợt nghĩ trên thế gian này có biết bao điều khiến người ta phải tự hỏi rốt cuộc chúng bắt nguồn từ đâu. Chẳng hạn như hầu hết các món ăn. Tôi thực sự rất muốn hỏi người dân ở một địa phương nọ xem rốt cuộc họ đã nghĩ ra kiểu gì mà lại nảy ra ý định ăn ếch mùa đông lớn và Curtis Mant—một phân loài bọ ngựa sát thủ.
 
@@ -106,7 +106,7 @@ Nhìn tổng thể, Mê Cung Các Con Gái Của Hải Thần trông giống nh�
 
 Dù xung quanh dường như không có quái vật hung hãn nào lởn vởn, nhưng lại có một con quái thú khổng lồ dạng cá đang lờ đờ bơi lượn quanh khu vực mê cung, to đến mức nếu nổi hứng, nó thừa sức nuốt chửng cả sáu người chúng tôi chỉ bằng một cú đớp.
 
-Niedz liếc nhìn tôi bằng ánh mắt như muốn hỏi: "Thứ đó không định tấn công bọn mình chứ?", nhưng tôi chẳng thể đưa ra câu trả lời chắc chắn cho gã được. Không phải mọi quái vật đều thù địch với con người, nhưng cũng như loài vật bình thường, việc ngay cả những con thân thiện bỗng dưng trở mặt cắn càn chẳng báo trước cũng không phải chuyện hiếm. Nếu con quái thú khổng lồ kia nổi hứng, chúng tôi hoàn toàn có thể trở thành mồi ngon trong bụng nó, hệt như câu chuyện dân gian xưa kể về con cá khổng lồ nuốt chửng cả một con thuyền.
+Niedz liếc nhìn tôi bằng ánh mắt như muốn hỏi: "Thứ đó không định tấn công bọn mình chứ?", nhưng tôi chẳng thể đưa ra câu trả lời chắc chắn cho cậu ta được. Không phải mọi quái vật đều thù địch với con người, nhưng cũng như loài vật bình thường, việc ngay cả những con thân thiện bỗng dưng trở mặt cắn càn chẳng báo trước cũng không phải chuyện hiếm. Nếu con quái thú khổng lồ kia nổi hứng, chúng tôi hoàn toàn có thể trở thành mồi ngon trong bụng nó, hệt như câu chuyện dân gian xưa kể về con cá khổng lồ nuốt chửng cả một con thuyền.
 
 Dĩ nhiên tôi có thể dùng Phân Liệt hoặc chiêu thức tương tự để thoát thân, nhưng những người khác thì chẳng may mắn đến thế. Họ sẽ phải tự mình chém mở đường máu theo cách truyền thống.
 

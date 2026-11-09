@@ -125,7 +125,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Barzel Staro | Barzel Staro / thợ rèn trưởng / người thợ rèn già | 309 | Thợ rèn trưởng tại Welfia, sư phụ của Clope và Hazara |
 | Diego Malga | Diego / Diego Malga / người đàn ông thú nhân / anh ta / anh ấy | 317 | Thú nhân mèo, mạo hiểm giả kiêm người bán đồ nguyền tại Lucaris |
 | Raul | Raul / người cha | 317 | Cha quá cố của Diego Malga |
-| Niedz | Niedz / gã / người đàn ông / tên mạo hiểm giả | 317 | Mạo hiểm giả dẫn đầu nhóm bám đuôi cướp tiền của Rentt tại Lucaris |
+| Niedz | Niedz / người đàn ông / cậu ta | 317 | Mạo hiểm giả dẫn đầu nhóm bám đuôi ở #317 (lời dẫn #317 gọi "gã"), từ #320 được Rentt thu nạp và huấn luyện (lời dẫn gọi "cậu ta") |
 | Niedz | tôi / Niedz / gã / người đàn ông | 319 | Người kể chuyện ngôi thứ nhất ở chương đệm #319 |
 | Gahedd | Gahedd / anh chàng / cậu ta | 319 | Mạo hiểm giả Đồng Cấp cao gầy, bạn của Niedz |
 | Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |

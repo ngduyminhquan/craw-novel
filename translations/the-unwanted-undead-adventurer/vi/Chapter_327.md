@@ -38,7 +38,7 @@ Cú di chuyển đưa chú ấy lên phía trên đầu con cá, và ngay cả n
 
 Tôi muốn hỏi tại sao đột nhiên lực cản của nước dường như biến mất, cũng như làm thế nào chú ấy thực hiện được cú đạp nước đó, nhưng lúc này chuyện đó không quan trọng bằng trận chiến đang diễn ra trước mắt. Không một tiếng động, con dao của Capitan vạch ra đường đi ngắn nhất chém thẳng xuống đầu con quái vật cá. Một khoảnh khắc sau, chiếc đầu đứt lìa hoàn toàn khỏi thân thể con quái vật.
 
-Diego, Niedz cùng những người khác tròn mắt kinh ngạc nhìn cảnh tượng đó. Tôi hiểu vì sao họ lại ngạc nhiên; dao của Capitan đâu phải thứ vũ khí đặc biệt dài—chắc chắn không đủ dài để chém bay đầu một con cá cỡ đó.
+Diego, Niedz cùng những người khác tròn mắt kinh ngạc nhìn cảnh tượng đó. Tôi hiểu vì sao họ lại ngạc nhiên, bởi dao của Capitan đâu phải thứ vũ khí đặc biệt dài—chắc chắn không đủ dài để chém bay đầu một con cá cỡ đó.
 
 Nhưng đầu con cá quả thực đã lìa khỏi xác.
 
@@ -82,7 +82,7 @@ Rồi tôi trồi lên khỏi mặt nước. Âm thanh vang vọng lạ lùng b�
 
 Đáng tiếc là dường như tôi không có xúc giác. Nói đúng ra thì tôi chẳng cảm nhận được bất kỳ kích thích vật lý nào. Dù một phần trong tôi thắc mắc tại sao lại như thế, nhưng ngẫm lại thì điều này cũng khá hợp lý. Rốt cuộc, dẫu chưa thể khẳng định chắc chắn, trực giác mách bảo tôi rằng đây có lẽ là một ký ức—và không phải ký ức của tôi.
 
-Cô gái trẻ tiếp tục nỗ lực đó một lúc, và chẳng mấy chốc, tôi nghe thấy tiếng ai đó ho sặc sụa dữ dội. Nước rõ ràng vừa bị nôn thốc ra ngoài bắn tung tóe qua tầm mắt tôi. Cuối cùng, cơn ho dịu dần thành những nhịp thở tuy nặng nhọc nhưng sâu, và tầm nhìn của tôi bắt đầu cải thiện. Gam màu xám mờ ảo nhường chỗ cho sắc màu, và mọi thứ trở nên sáng sủa, rõ nét hơn.
+Cô gái trẻ tiếp tục nỗ lực đó một lúc, và chẳng mấy chốc, tôi nghe thấy tiếng ai đó ho sặc sụa dữ dội. Một ngụm nước rõ ràng vừa được ộc ra ngoài, bắn tung tóe ngang tầm mắt tôi. Cuối cùng, cơn ho dịu dần thành những nhịp thở tuy nặng nhọc nhưng sâu, và tầm nhìn của tôi bắt đầu cải thiện. Gam màu xám mờ ảo nhường chỗ cho sắc màu, và mọi thứ trở nên sáng sủa, rõ nét hơn.
 
 "May quá," một giọng nói cất lên mà tôi nhận ra là của cô gái trẻ. "Tôi cứ ngỡ mình không kịp cơ đấy."
 
@@ -98,7 +98,7 @@ Hoặc không phải thế. Tình hình còn tệ hơn tôi nghĩ—anh chàng n
 
 Cô gái trẻ dường như cũng kinh ngạc y như tôi. "Quá đỗi bất cẩn khi mà tính mạng đang ngàn cân treo sợi tóc đấy. Nếu không nhờ tôi thì anh đã thành mồi cho cá rồi. Một con cá khá to suýt nữa đã tóm được anh trước khi tôi bơi tới nơi đấy."
 
-"Nghe như tôi nợ cô một món nợ lớn rồi đấy. Cảm ơn cô nhé. Tôi rất muốn đền ơn cô, ngặt nỗi trên người tôi chẳng có thứ gì đáng giá cả—kể cả tiền xu cũng chẳng có, dù tôi rất muốn có."
+"Nghe như tôi nợ cô một món nợ lớn rồi đấy. Cảm ơn cô nhé. Tôi rất muốn đền ơn cô, ngặt nỗi hiện giờ tôi gần như trắng tay—tiền bạc cũng chẳng có lấy một đồng, dù tôi cũng ước gì mình có lắm chứ."
 
 "Thế mà anh dám mò tới tận đây thì tôi cũng chịu anh rồi đấy."
 
@@ -122,11 +122,11 @@ Cô gái trẻ dường như cũng kinh ngạc y như tôi. "Quá đỗi bất c
 
 "Còn tôi thì lại rất hiểu rõ nơi này. Tôi có thể dẫn đường cho anh."
 
-"Kiểu như 'học hỏi từ tiền bối đi trước' chứ gì?"
+"Kiểu như 'học hỏi bậc tiền bối' chứ gì?"
 
 "Có lẽ vậy. Dù sao thì tôi cũng muốn anh đồng hành cùng tôi trong chuyến tìm kiếm này. Dạo gần đây việc thám hiểm một mình cũng khiến tôi thấy khá mệt mỏi rồi."
 
-"Cô nói cứ như thể mình cũng còn khá mới mẻ với nơi này ấy—dù ban nãy vừa mới lên giọng kẻ cả với tôi xong."
+"Cô nói cứ như thể chính mình cũng mới chân ướt chân ráo đến nơi này chưa lâu ấy—dù ban nãy vừa mới lên giọng kẻ cả với tôi xong."
 
 "Chắc là vậy đấy. Nhưng thế thì có sao đâu chứ? Rốt cuộc anh có chịu làm trợ thủ cho tôi hay không đây?"
 
