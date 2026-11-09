@@ -998,5 +998,13 @@ Cả hai đến Cô Nhi Viện Thứ Hai Maalt giao thư cho Sơ Lillian và ng�
 Sơ Lillian vui vẻ tiết lộ chính Isaac Hart đã ra tay sửa giúp trong một lần đưa Alize về; Rentt và Lorraine vừa thán phục sự đa tài của Isaac vừa cảm thấy bùi ngùi chia tay chiếc vòng gõ cửa lỏng lẻo năm xưa.
 Cảnh kết thúc: Rentt và Lorraine đứng trước cửa cô nhi viện với nỗi buồn man mác dâng lên trong lòng.
 
+## 290
+Rentt và Lorraine vào phòng khách Cô Nhi Viện Thứ Hai Maalt trò chuyện cùng Sơ Lillian; Lorraine trao thư của Nữ Tu Viện Trưởng Elza gửi Lillian thông báo nội bộ Giáo Hội Đông Thiên đã bình ổn và đề nghị triệu hồi sơ về vương đô, nhưng Lillian từ chối vì chọn gắn bó với cô nhi viện Maalt.
+Lillian tiết lộ bản thân rất thạo chiến đấu và bộc lộ Thần Lực hùng hậu vượt xa Rentt và Lorraine; Lorraine trao quà bánh kẹo cùng trà đen vương đô cho cô nhi viện trước khi cả hai rời đi.
+Lorraine về nhà phân loại sách, còn Rentt đến tiệm rèn Ba Chĩa tặng Clope túi nguyên liệu quái vật hiếm săn được cùng Augurey tại vương đô và nhận thanh kiếm mới được rèn từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực cùng máu Ma Cà Rồng của Rentt.
+Clope dặn dò Rentt cẩn thận không để làm gãy thanh kiếm trong quá trình thử nghiệm Thần Ma Khí Dung Hợp Thuật.
+Cảnh kết thúc: Rentt vừa cười thầm vừa bước ra sân trong của tiệm Ba Chĩa để bắt đầu thử nghiệm sức mạnh của món vũ khí mới.
+
+
 
 

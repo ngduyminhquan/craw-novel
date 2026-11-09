@@ -206,7 +206,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Say mê nghề rèn, tập trung như xuất thân khi rèn; bề ngoài thô ráp như đe dọa nhưng hiền lành, chu đáo với khách. Sở thích làm vườn kín đáo.
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn.
 - Quan hệ: Chồng kiêm thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái (đến #118): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118).
+- Trạng thái (đến #290): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118). Rèn xong thanh kiếm mới từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt (#290).
 
 ### Loris Cariello
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, đầu bếp kiêm chủ quán ăn.
@@ -281,7 +281,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Năng lực: Từng chiến đấu, dùng Thần Lực thanh tẩy quái vật.
 - Quan hệ: Được trẻ mồ côi kính yêu; Alize là "cánh tay phải"; biết ơn Rentt và Lorraine.
 - Quá khứ (#224): Từng là nữ tu kiêm Thánh Giả triển vọng của Tu Viện Ephas từ 15 tuổi, bị điều tới Maalt ~10 năm trước do mâu thuẫn nội bộ Giáo Hội; chủ động cắt liên lạc với Elza để tránh gây rắc rối cho bạn.
-- Trạng thái (đến #289): Từng mắc Bệnh Tích Tụ Chướng Khí, chữa bằng Hoa Long Huyết (#76); đã hoàn toàn bình phục; nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên ở vương đô Vistelya (#215). Làm quen và được Isaac Hart sửa giúp chiếc vòng gõ cửa bị nguyền rủa của cô nhi viện (#289).
+- Trạng thái (đến #290): Từng mắc Bệnh Tích Tụ Chướng Khí, chữa bằng Hoa Long Huyết (#76); đã hoàn toàn bình phục; nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên ở vương đô Vistelya (#215). Làm quen và được Isaac Hart sửa giúp chiếc vòng gõ cửa bị nguyền rủa của cô nhi viện (#289). Nhận thư của Elza báo nội bộ Giáo Hội đã ổn định và đề nghị triệu hồi về vương đô nhưng từ chối để ở lại gắn bó với cô nhi viện Maalt; bộc lộ Thần Lực hùng hậu (#290).
 
 ### Alize
 - Giới tính/tuổi/vẻ ngoài: Nữ, ~12 tuổi, tóc ngắn gọn gàng, phong thái tao nhã dù nghèo. Không có họ.

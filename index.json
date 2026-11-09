@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T06:54:43Z",
+  "generatedAt": "2026-11-09T07:03:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3887,6 +3887,12 @@
           "title": "Chương 289: Tập 12 Chương 5 - Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_289.md",
           "sha": "349a406399997ae19c2fd15f756819cdbe69c9cb"
+        },
+        {
+          "number": 290,
+          "title": "Chương 290: Tập 12 Chương 5 - Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn (4)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_290.md",
+          "sha": "3e39b2a198ab6660cb07c160e5b005b7075d9032"
         }
       ]
     },
