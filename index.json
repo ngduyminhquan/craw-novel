@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T04:32:46Z",
+  "generatedAt": "2026-11-09T04:39:24Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3827,6 +3827,12 @@
           "title": "Chương 279: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_279.md",
           "sha": "e06f9dbbaea890a0dfe71d188083d273714b1778"
+        },
+        {
+          "number": 280,
+          "title": "Chương 280: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_280.md",
+          "sha": "0c12e75387ceae4d557bba04f7c184b180a54a10"
         }
       ]
     },

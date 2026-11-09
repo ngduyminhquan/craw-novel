@@ -540,6 +540,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vitez Normorte | * | tôi / em | hai người / mấy người / hai anh | 268 | Cậu bé nói chuyện với nhóm mạo hiểm giả |
 | Dorothea Merrow | Rina Rupaage | tôi | cô / Rina | 277 | Nữ thương nhân trao đổi với nữ mạo hiểm giả nhận ủy thác |
 | Rina Rupaage | Dorothea Merrow | tôi | cô / Dorothea | 277 | Nữ mạo hiểm giả trao đổi với nữ thương nhân thuê mình |
+| Rina Rupaage | Guster | tôi | anh / Guster | 280 | Mạo hiểm giả thẩm vấn tên cướp bị bắt |
+| Guster | Rina Rupaage | tôi | cô | 280 | Tên cướp còn mơ màng khai báo với mạo hiểm giả bắt giữ mình |
 
 
 

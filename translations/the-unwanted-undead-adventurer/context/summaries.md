@@ -1659,6 +1659,13 @@ Giữa cuộc trò chuyện, Rina nhạy bén phát hiện và dùng kiếm ché
 Chuyển sang hồi tưởng một tuần trước tại Làng Muga, gã kiếm sĩ cướp đường Guster nhận lời một người đàn ông giàu có bí ẩn: nhận một túi tiền vàng lớn để cản trở, dọa dẫm Dorothea nhằm ép cô bỏ nghề buôn bán với điều kiện cô không có quá một hộ vệ Đồng Cấp.
 Cảnh kết thúc: Giữa lúc bị truy sát xuyên rừng (bởi Rina), Guster cay đắng hối hận vì đã nhận phi vụ tai họa này.
 
+## 280
+Guster cùng đồng bọn phục kích hai người trong bữa tối, đinh ninh nắm chắc phần thắng trước một hộ vệ Thiết Cấp; nhưng Rina chém rơi mũi tên, phóng dao hạ cung thủ rồi lẩn vào bóng tối lần lượt quét sạch toàn bộ toán cướp và đánh gục Guster từ phía sau.
+Rina kéo Guster về xe và đưa ra bãi đất trống tra hỏi; gã thủ lĩnh còn mơ màng nên ngoan ngoãn khai ra việc nhận tiền vàng từ kẻ lạ mặt bí ẩn để quấy phá ép Dorothea bỏ nghề buôn bán.
+Cả hai thảo luận loại trừ khả năng người cha đứng sau vụ việc; trước hai lựa chọn tạm bỏ nghề hay đối mặt hiểm nguy, Dorothea kiên quyết tiếp tục hành trình vì lòng tự tôn nghề nghiệp và trách nhiệm phục vụ dân làng.
+Cảnh kết thúc: Rina thản nhiên cam đoan sẽ bảo vệ Dorothea, trói gô Guster ném lên xe rồi cả hai tiếp tục hành trình trong niềm biết ơn sâu sắc của nữ thương nhân.
+
+
 
 
 
