@@ -147,6 +147,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jude Esol | Jude | Jude Esol | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol | #286 |
 | Director Rudo |  | Chủ Thương Hội Rudo | Cách gọi kèm chức vụ của Rudo Merrow | #286 |
 | Uncle Jude |  | Bác Jude | Cách gọi thân mật kính trọng Dorothea dùng cho Jude Esol | #286 |
+| Rivul | Master Rivul | Rivul | Chàng thanh niên dân làng đến Hội Mạo Hiểm Giả Maalt đăng ủy thác tiêu diệt Khô Lâu | #294 |
 
 
 ## Chi tiết
@@ -896,3 +897,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, trung niên, chủ Thương hội Esol (Esol Company) lâu đời tại thành phố Mystera; cha của Dieg Esol (#286).
 - Tính cách: Nghiêm khắc, công minh, trọng chữ tín và danh dự thương nhân; sẵn sàng nhận lỗi và trừng phạt con trai gây họa nhưng tôn trọng quyết định tự lập làm lại từ đầu của Dieg (#286).
 - Xuất hiện từ: #286 (được nhắc đến từ #282).
+
+### Rivul
+- Thân phận: Nam, thanh niên trẻ tuổi đến từ một ngôi làng hẻo lánh nơi bình yên nhưng bất ngờ xuất hiện Khô Lâu (#294).
+- Vẻ ngoài: Bị bầm dập, quần áo rách rưới khi chạy đến Maalt cầu cứu (#294).
+- Tính cách: Khẩn thiết, biết ơn, có phần bộc trực, nóng lòng cứu làng nhưng bị đẩy vào thế khó vì kinh phí eo hẹp (#294).
+- Xuất hiện từ: #294.

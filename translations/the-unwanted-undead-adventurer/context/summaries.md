@@ -1023,6 +1023,12 @@ Clope kiểm tra kỹ lưỡng thanh kiếm và xác nhận nó hoàn toàn nguy
 Chuyển sang góc nhìn tiệm Ba Chĩa sau khi Rentt rời đi: Luka trở về từ Hội Thợ Rèn với vẻ mặt lo âu và đưa cho Clope một bức thư.
 Cảnh kết thúc: Clope đọc xong thư, khẽ gật đầu và nhận ra mình sẽ phải sớm nhờ cậy lời đề nghị giúp đỡ của Rentt.
 
+## 294
+Rentt đến Hội Mạo Hiểm Giả Maalt tìm ủy thác săn quái để kết hợp thử nghiệm thanh kiếm mới tại Mê Cung Nguyệt Ảnh, nhưng các ủy thác thu thập chất lỏng Slime và Ma Tinh Khô Lâu đều bị các mạo hiểm giả khác và nhóm nữ sinh Học Viện nhanh tay lấy mất.
+Trong lúc bảng nhiệm vụ chỉ còn lại các ủy thác không phù hợp, Rentt nghe thấy tiếng tranh cãi ở quầy tiếp tân giữa Sheila và một chàng trai trẻ tên Rivul ăn mặc rách rưới, bầm dập vì mức thù lao ủy thác của cậu bị coi là quá thấp trong bối cảnh mạo hiểm giả Maalt đang đắt khách nhờ Tòa Tháp và Học Viện.
+Thấy hai bên cùng gặp vận rủi, Rentt tiến lại hỏi thăm rồi cùng Rivul chuyển sang bàn quán rượu liền kề của Hội để lắng nghe đầu đuôi câu chuyện; anh vô cùng hứng thú khi biết Rivul đang cần thuê người tiêu diệt lũ Khô Lâu bất ngờ xuất hiện quấy nhiễu ngôi làng bình yên của cậu.
+Cảnh kết thúc: Rivul bắt đầu kể cho Rentt nghe về ngôi làng nơi cậu từng sinh sống.
+
 
 
 

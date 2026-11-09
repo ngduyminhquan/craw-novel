@@ -413,7 +413,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Yaaran Abbey | Yaaran Abbey of the Eastern Sky | Tu Viện Yaaran | địa danh | 222 | Tên gọi tu viện của Giáo Hội Đông Thiên tại Vương Quốc Yaaran |
 | Mother |  | Mẹ | khác | 222 | Danh xưng tôn kính của giáo hội dành cho nữ viện trưởng (như Mother Elza) |
 | seal blessing |  | chúc phúc phong ấn | kỹ năng | 223 | Phép phong ấn thư từ/vật phẩm bằng Thần Lực của giáo sĩ cấp cao |
-| Her Highness | Highness; his Highness; His Highness | Điện Hạ | danh hiệu | 221 | Tôn xưng dành cho thành viên hoàng gia như hoàng tử, công chúa (殿下) |
+| Her Highness | Highness; his Highness; His Highness; Her Royal Highness; Royal Highness | Điện Hạ | danh hiệu | 221 | Tôn xưng dành cho thành viên hoàng gia như hoàng tử, công chúa (殿下) |
 | chanted magic |  | ma pháp ngâm xướng | kỹ năng | 225 | Ma pháp thi triển bằng cách đọc trọn vẹn câu chú bài bản |
 | quickened magic | quickened spell | ma pháp rút ngắn | kỹ năng | 225 | Ma pháp thi triển bằng câu chú đã được rút ngắn |
 | silent magic |  | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
@@ -511,6 +511,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Welfia |  | Welfia | địa danh | 289 | Thành phố mỏ lớn nhất tại Vương Quốc Yaaran, nơi diễn ra kỳ thi thăng hạng Ngân Cấp |
 | sacred sword | sacred swords | thánh kiếm | vật phẩm | 22 | Kiếm thần thánh trong truyền thuyết hoặc mê cung có tri giác lựa chọn chủ nhân (聖剣) |
 | magical sword | magical swords; magic sword; magic swords | ma kiếm | vật phẩm | 22 | Kiếm ma thuật sở hữu năng lực đặc biệt hoặc yểm ma pháp (魔剣) |
+| Gist Gorge |  | Hẻm Núi Gist | địa danh | 294 | Vực hẻm núi có vách đá mọc loài hoa đặc thù trong ủy thác thu thập |
 
 
 

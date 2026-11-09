@@ -111,6 +111,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zein | Zein / người thợ săn / anh / anh ta | 283 | Thợ săn tại ngôi làng miền núi thứ ba |
 | Rudo Merrow | Rudo / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Merrow tại thành phố Mystera, cha của Dorothea Merrow |
 | Jude Esol | Jude / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol |
+| Rivul | Rivul / cậu thanh niên / chàng trai / cậu ấy | 294 | Chàng thanh niên dân làng đến Maalt đăng ủy thác diệt Khô Lâu |
 
 
 ## Giữa các nhân vật
@@ -581,6 +582,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jean Seebeck | Sheila Ibarss | ta | cô | 288 | Tổng Hội Trưởng dặn dò tiếp tân viên Hội không phải chịu trách nhiệm |
 | Wolf Hermann | Jean Seebeck | tôi | Tổng Hội Trưởng Seebeck / ông | 288 | Hội Trưởng Maalt tiếp đón và trò chuyện với cấp trên cũ kiêm người bổ nhiệm mình |
 | Jean Seebeck | Wolf Hermann | ta | cậu / Wolf / anh bạn | 288 | Tổng Hội Trưởng Yaaran trêu chọc và trò chuyện với Hội Trưởng Maalt |
+| Rentt Faina | Rivul | tôi | cậu / cậu Rivul | 294 | Mạo hiểm giả nói chuyện với thân chủ trẻ tuổi |
+| Rivul | Rentt Faina | tôi | anh / anh Rentt | 294 | Thân chủ trẻ tuổi nói chuyện và nhờ cậy mạo hiểm giả |
+| Sheila Ibarss | Rivul | tôi | cậu / cậu Rivul | 294 | Tiếp tân viên Hội giải thích và nhẹ nhàng nhắc nhở thân chủ |
+| Rivul | Sheila Ibarss | tôi | cô | 294 | Thân chủ phân trần với tiếp tân viên Hội |
 
 
 
