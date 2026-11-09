@@ -4,9 +4,9 @@ Tôi vừa đến điểm hẹn của ủy thác đã nhận ở Hội thì bấ
 
 "Cậu là Rentt phải không?"
 
-Tôi đã đến sớm ba mươi phút vì không muốn để thân chủ phải chờ, nhưng xem chừng ông ấy còn đến trước cả tôi. Với tôi, điều đó lập tức tạo được sự tin cậy—bởi ngoài kia có không ít thân chủ chẳng mảy may tôn trọng thời gian của mạo hiểm giả.
+Tôi đã đến sớm ba mươi phút vì không muốn để thân chủ phải chờ, nhưng xem chừng ông ấy còn đến trước cả tôi. Nhờ vậy mà tôi thấy tin tưởng ông ấy ngay, bởi ngoài kia có không ít thân chủ chẳng mảy may tôn trọng thời gian của mạo hiểm giả.
 
-Thân chủ của tôi trong ủy thác lần này là một kỵ sĩ khoác bộ giáp bạc, dù tuổi tác đã khá cao. Trong lúc tôi quan sát ông ấy, tự hỏi liệu chừng ấy tuổi rồi mà ông vẫn còn tại ngũ hay sao, thì ông khẽ bật cười vẻ thích thú.
+Thân chủ của tôi trong ủy thác lần này là một kỵ sĩ khoác bộ giáp bạc, dù tuổi tác đã khá cao. Trong lúc tôi quan sát ông ấy, tự hỏi liệu chừng ấy tuổi rồi mà ông ấy vẫn còn tại ngũ hay sao, thì người kỵ sĩ già khẽ bật cười vẻ thích thú.
 
 "Hê. Cậu không cần phải cảnh giác thế đâu," ông ấy nói. "Thời làm kỵ sĩ của tôi qua lâu rồi. Tôi đã giao lại cơ nghiệp gia đình cho con trai từ một dạo trước."
 
@@ -22,7 +22,7 @@ Dù vẫn còn đôi chút ngần ngại, nhưng trước sự kiên quyết c�
 
 "Tôi hiể... ý tôi là, tôi biết rồi. Vậy vào việc chính luôn nhé, ông muốn thuê người hộ tống đến Làng Weger phải không? Cơ mà nói thật, trông ông chẳng giống người cần hộ tống chút nào."
 
-Dù tuổi đã cao, ông ấy vẫn sở hữu một thân hình rắn rỏi và mang bộ trang bị trên người tự nhiên như lớp da thứ hai. Bộ giáp ấy rõ ràng đã gắn bó với ông suốt bao năm tháng, nhưng vẻ sáng bóng của nó cho thấy người ta luôn bảo dưỡng vô cùng cẩn thận.
+Dù tuổi đã cao, ông ấy vẫn sở hữu một thân hình rắn rỏi và mang bộ trang bị trên người tự nhiên như lớp da thứ hai. Bộ giáp ấy rõ ràng đã gắn bó với ông ấy suốt bao năm tháng, nhưng vẻ sáng bóng của nó cho thấy chủ nhân luôn bảo dưỡng vô cùng cẩn thận.
 
 "Ồ, cậu nhìn ra được à?" ông ấy nói. "Nhưng dù sao đi hai người vẫn an toàn hơn đi một mình khi ngoài kia đầy rẫy thảo khấu. Vả lại tôi cũng muốn có người trò chuyện cùng cho vui."
 
@@ -30,7 +30,7 @@ Dù tuổi đã cao, ông ấy vẫn sở hữu một thân hình rắn rỏi v�
 
 "Phải rồi. Trông cậy cả vào cậu đấy. Tôi tên là Deque Eger. Cựu... thôi, chuyện đó chắc cũng chẳng quan trọng nữa. Cậu cứ gọi tôi là 'Deque' được rồi. Giờ tôi chỉ là thế thôi."
 
-"Vâng. Ông cũng biết rồi đấy, tôi là Rentt. Rất vui được hợp tác với ông."
+"Được thôi. Ông cũng biết rồi đấy, tôi là Rentt. Rất vui được hợp tác với ông."
 
 Cứ thế, chúng tôi bắt đầu chuyến hành trình ngắn đến Làng Weger.
 
@@ -76,7 +76,7 @@ Deque ngồi xuống bên đống lửa trại và bắt đầu lau kiếm. "Tô
 
 "Nghe bình thường quá hả?"
 
-"Vâng."
+"Phải đấy."
 
 Deque cười khẽ. "Có lẽ đúng là vậy. Nhưng thế cũng tốt. Cuộc đời là thế mà."
 
@@ -100,13 +100,13 @@ Deque cười khẽ. "Có lẽ đúng là vậy. Nhưng thế cũng tốt. Cuộ
 
 Sau đó, tôi hộ tống Deque đến Làng Weger an toàn rồi quay trở về Maalt. Đó cũng là lần cuối cùng tôi nói chuyện với ông ấy.
 
-Bẵng đi một thời gian sau, tôi nghe được câu chuyện kể về một con quái vật hùng mạnh xuất hiện tại Làng Weger, và một cựu kỵ sĩ đã liều mạng chiến đấu rồi đồng quy vu tận với nó. Khi tôi tìm đến ngôi làng, tôi mới biết chuyện đó là có thật, và Deque quả thực đã qua đời.
+Bẵng đi một thời gian sau, tôi nghe được câu chuyện kể về một con quái vật hùng mạnh xuất hiện tại Làng Weger, và một cựu kỵ sĩ đã liều mạng chiến đấu đến mức cả hai cùng bỏ mạng. Khi tôi tìm đến ngôi làng, tôi mới biết chuyện đó là có thật, và Deque quả thực đã qua đời.
 
 Dân làng vô cùng biết ơn những gì Deque đã làm cho họ. Rõ ràng là trong suốt mấy năm chung sống ở đó, ông ấy đã hòa nhập rất tốt, dù chưa từng có một người thân nào trong gia đình đến thăm.
 
 Một người dân làng kể với tôi rằng trước khi nhắm mắt, ông ấy có để lại một lời nhắn sau cùng, rồi người đó mang cho tôi một hộp hoa quả—do chính tay Deque vun trồng. Nghe kể ông ấy đã chăm sóc vườn tược của mình hết sức cần mẫn và từng rất mong đợi một vụ mùa bội thu trong năm nay.
 
-Thế nhưng ông ấy đã ra đi mà chưa kịp tận mắt nhìn thấy hoa trái. Dân làng đã thay ông chăm bón chúng cho tới tận mùa thu hoạch. Một người trong số họ dường như vẫn nhớ tên tôi từ lần tôi nghỉ lại đây một đêm cách đây mấy năm; trong lúc trao hộp quả cho tôi, người ấy kể lại câu nói từng nghe Deque thốt ra khi ông ngắm nhìn những hàng cây ăn quả của mình.
+Thế nhưng ông ấy đã ra đi mà chưa kịp tận mắt nhìn thấy hoa trái. Dân làng đã thay ông ấy chăm bón chúng cho tới tận mùa thu hoạch. Một người trong số họ dường như vẫn nhớ tên tôi từ lần tôi nghỉ lại đây một đêm cách đây mấy năm. Trong lúc trao hộp quả cho tôi, người ấy kể lại câu nói từng nghe Deque thốt ra khi ông ấy ngắm nhìn những hàng cây ăn quả của mình.
 
 "Vậy là tôi đã thực hiện được ước mơ thứ hai rồi. Cuộc đời này biến ước mơ thành hiện thực dễ dàng hơn cậu tưởng đấy, Rentt à."
 

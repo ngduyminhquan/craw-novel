@@ -303,9 +303,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | reviewed |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | reviewed |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | reviewed |  |
-| 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | done |  |
-| 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | done |  |
-| 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | done |  |
+| 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | reviewed |  |
+| 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | reviewed |  |
+| 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | reviewed |  |
 | 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | todo |  |
 | 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | todo |  |
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | todo |  |
@@ -977,4 +977,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#300] Dịch 'papyr herb' — tạm chọn 'thảo dược papyr' (đồng bộ với 'thảo dược zima', 'thảo dược giọt sương'; phương án khác: 'cỏ papyr'). → Chấp nhận 'thảo dược papyr' (đồng bộ với 'thảo dược zima', 'thảo dược giọt sương'). (orchestrator)
 - [#300] Xưng hô giữa Rentt Faina và cậu bé Ars (10 tuổi) — tạm chọn Rentt xưng 'tôi', gọi 'nhóc / Ars'; Ars xưng 'em', gọi 'anh / anh Rentt' (đồng bộ với tiền lệ Vitez ở #268; phương án khác: Rentt xưng 'anh', gọi 'nhóc / em'). → Chấp nhận Rentt xưng 'tôi', gọi 'nhóc / Ars'; Ars xưng 'em', gọi 'anh / anh Rentt' (nhất quán với tiền lệ ở #268). (orchestrator)
 - [#300] Xác định thân phận nhân vật Ars (10 tuổi) — tạm xác định là nhân vật cậu bé độc lập con thương nhân Gund, không phải Augurey Ars thời nhỏ vì mốc thời gian Rentt đeo mặt nạ đầu lâu thì Augurey đã là Ngân Cấp trưởng thành. → Chấp nhận xác định là cậu bé độc lập con trai thương nhân Gund (không phải Augurey Ars). (orchestrator)
-- [#301] Dịch 'wanderer' chỉ mạo hiểm giả nhận việc năm xưa (đoạn 89): tạm dùng 'kẻ lang thang' (đề xuất khác: 'mạo hiểm giả vãng lai'). → Chấp nhận 'kẻ lang thang' theo đúng ngữ cảnh chỉ mạo hiểm giả không gắn bó cố định. (orchestrator)
+- [#301] Dịch 'wanderer' chỉ mạo hiểm giả nhận việc năm xưa (đoạn 89): tạm dùng 'kẻ lang thang' (đề xuất khác: 'mạo hiểm giả vãng lai'). → Cập nhật thành 'người hành nghề vãng lai' (tránh sắc thái miệt thị của 'kẻ lang thang' và đồng bộ đại từ số ít 'người đó'). (orchestrator)

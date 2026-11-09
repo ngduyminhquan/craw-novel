@@ -20,7 +20,7 @@
 
 Sau khi tiêu diệt sạch lũ Khô Lâu trong làng, tôi đã thức trọn một đêm để canh gác, bảo đảm không còn con nào có thể lọt vào nữa. Trong lúc đó, Rivul cùng Trưởng thôn Jiris đi rảo khắp các làng mạc và thị trấn lân cận để báo cho những người đi sơ tán biết rằng lũ Khô Lâu đã được dẹp yên.
 
-Trời rạng rồi đến giữa trưa, họ mới quay trở về. Tôi ngạc nhiên khi thấy hai người không đi một mình: những cư dân ban đầu của làng cũng lục tục theo sau, mắt ngấn lệ sụt sùi. Lẽ dĩ nhiên là chưa phải toàn bộ dân làng—mới chỉ có cánh thanh niên trai tráng và vợ của họ—nhưng dự tính là người già và trẻ nhỏ sẽ lần lượt quay về sau khi ngôi làng dần hồi phục.
+Trời rạng rồi đến giữa trưa, họ mới quay trở về. Tôi ngạc nhiên khi thấy hai người không đi một mình: những người dân vốn sống trong làng cũng lục tục theo sau, mắt ngấn lệ sụt sùi. Lẽ dĩ nhiên là chưa phải toàn bộ dân làng, mới chỉ có cánh thanh niên trai tráng và vợ của họ, nhưng dự tính là người già và trẻ nhỏ sẽ lần lượt quay về sau khi ngôi làng dần hồi phục.
 
 Jiris nhận xét rằng có lẽ một số người sơ tán sẽ không trở lại, thay vào đó chọn định cư luôn tại các thị trấn hoặc ngôi làng nơi họ tị nạn. Dẫu vậy, phần lớn mọi người vẫn sẽ quay về, đủ thấy họ gắn bó sâu nặng với quê hương đến dường nào.
 
@@ -46,7 +46,7 @@ Người ta có thể nghĩ Rồng hay Chimera là những loài quái vật ngu
 
 Nhờ vậy mà loài người mới tồn tại được cho tới tận ngày nay. Chứ nếu ngày nào Rồng với Chimera cũng kéo tới tấn công, chúng ta hẳn đã tuyệt chủng từ lâu rồi.
 
-Dĩ nhiên vào thời nay, con người đã có phương thức để đánh trả. Nhưng tổ tiên chúng tôi thuở xưa thì đâu được như vậy. Lý do duy nhất giúp giống loài chúng tôi chật vật sinh tồn dẫu thể chất yếu ớt chính là nhờ trí khôn nhỉnh hơn đôi chút so với muôn thú trên thế gian này.
+Dĩ nhiên vào thời nay, con người đã có phương thức để đánh trả. Nhưng tổ tiên chúng ta thuở xưa thì đâu được như vậy. Lý do duy nhất giúp giống loài chúng ta chật vật sinh tồn dẫu thể chất yếu ớt chính là nhờ trí khôn nhỉnh hơn đôi chút so với muôn thú trên thế gian này.
 
 Con người đúng là những sinh vật yếu ớt từ trong bản chất mà...
 
@@ -88,7 +88,7 @@ Dĩ nhiên giữ mọi thứ ngăn nắp là điều quan trọng, và khéo sao
 
 Tất cả những điều đó thực ra khiến tôi tự hỏi liệu mức độ tập trung hay khả năng tự chủ mà một người có thể dùng trong một ngày có bị giới hạn ở một mức cố định hay không, chẳng khác nào Ma Lực hay Khí Lực vậy.
 
-Dù thế nào đi nữa, tôi cũng chẳng rảnh rỗi lôi hết đồ trong túi ma thuật ra bày giữa quảng trường làng mà không có lý do. Nhận thấy ngôi làng bị hư hại đủ bề theo trăm phương nghìn kế, tôi nghĩ mớ đồ sưu tập của mình có lẽ sẽ đóng góp được phần nào vào công cuộc sửa sang.
+Dù thế nào đi nữa, tôi cũng chẳng rảnh rỗi lôi hết đồ trong túi ma thuật ra bày giữa quảng trường làng mà không có lý do. Thấy ngôi làng bị hư hại đủ kiểu từ lớn đến nhỏ, tôi nghĩ mớ đồ sưu tập của mình có lẽ sẽ đóng góp được phần nào vào công cuộc sửa sang.
 
 Tất nhiên tôi không hề có ý định phát miễn phí toàn bộ. Bản thân tôi cũng cần phải kiếm sống... hoặc giả tôi sẽ nói thế nếu như chỗ đồ bày ra đây không phải toàn mớ đồ linh tinh chưa từng đụng tới. Phần lớn là vì tôi biết dân làng sẽ nhất quyết từ chối nhận nếu tôi chẳng đòi hỏi chút tiền đền đáp nào. Việc mua phải những món đồ lạ hoắc với giá rẻ mạt có thể khiến người ta sinh nghi và thấy không bõ công rước rắc rối vào người. Với mấy món đồ kiểu này, cứ giao dịch sòng phẳng rõ ràng lại dễ bề xử lý hơn.
 
@@ -110,7 +110,7 @@ Nếu hỏi tôi hồi đó thì tôi cũng băn khoăn không biết liệu mó
 
 "Hàng trăm đồng vàng cơ á?!" Rivul thốt lên. "Tôi từng nghe nói mạo hiểm giả kiếm được nhiều tiền lắm, nhưng không ngờ anh lại giàu đến thế..."
 
-"Này này, đừng hiểu lầm nhé. Tôi phải chắt bóp bao nhiêu năm trời mới dành dụm được đấy," tôi vội xua tay.
+"Này này, đừng hiểu lầm nhé. Tôi phải chắt bóp bao nhiêu năm trời mới dành dụm được đấy," tôi nói.
 
 "Dù đúng là mạo hiểm giả kiếm được nhiều hơn người lao động bình thường thật, nhưng vấn đề là chúng tôi phải liên tục liều mạng thì mới kiếm được ngần ấy."
 
@@ -146,7 +146,7 @@ Sau khi săm soi kỹ món vũ khí, Rivul đã giải tỏa nỗi thắc mắc 
 
 Có nhiều cách khác nhau để Khô Lâu hình thành, nhưng con đường khiến người ta rợn tóc gáy nhất là khi vì lý do này hay lý do khác, chúng lại trỗi dậy từ hài cốt của một người đã khuất.
 
-Nói cho công bằng thì không riêng gì Khô Lâu: đó là nguồn gốc khả dĩ của loài Undead nói chung. Trường hợp của những Undead cấp cao hơn như Ma Cà Rồng thì khác, nhưng chuyện những sinh vật dưới đáy như Khô Lâu và Zombie sinh ra từ xác chết lại rất đỗi phổ biến. Đó là lý do tại sao các tổ chức tôn giáo luôn quản lý nghĩa địa cực kỳ nghiêm ngặt, và những ngôi làng nhỏ như nơi này phải giảm thiểu rủi ro bằng cách tổ chức các lễ hội theo mùa để cầu xin linh hồn người chết siêu thoát.
+Nói cho công bằng thì không riêng gì Khô Lâu: đó là nguồn gốc khả dĩ của loài Undead nói chung. Trường hợp của những Undead cấp cao hơn như Ma Cà Rồng thì khác, nhưng chuyện đám Undead cấp thấp hạng bét như Khô Lâu và Zombie sinh ra từ xác chết lại rất đỗi phổ biến. Đó là lý do tại sao các tổ chức tôn giáo luôn quản lý nghĩa địa cực kỳ nghiêm ngặt, và những ngôi làng nhỏ như nơi này phải giảm thiểu rủi ro bằng cách tổ chức các lễ hội theo mùa để cầu xin linh hồn người chết siêu thoát.
 
 Có điều nhờ có quyền trượng của Vương Quốc Yaaran, tình hình ở đây lại hơi khác một chút. Nguy cơ Undead trỗi dậy vốn dĩ đã thấp, và hệ quả là các tổ chức tôn giáo có ít tầm ảnh hưởng hơn.
 
@@ -154,7 +154,7 @@ Dù sao đi nữa, vì đó là một nguồn gốc khả dĩ của Undead, nên
 
 "Con Khô Lâu Binh đó là..."
 
-"Chắc đúng là cha tôi rồi... Tôi dám chắc ông chưa từng ngờ rằng sau khi chết đi, mình lại biến thành kẻ tàn phá chính ngôi làng của mình. Tôi... tôi chẳng biết lấy gì đền đáp công ơn của anh, anh Rentt. Thực lòng đấy."
+"Chắc đúng là cha tôi rồi... Tôi dám chắc cha chưa từng ngờ rằng sau khi chết đi, mình lại biến thành kẻ tàn phá chính ngôi làng của mình. Tôi... tôi chẳng biết lấy gì đền đáp công ơn của anh, anh Rentt. Thực lòng đấy."
 
 Đến nước này thì tôi đã đếm không xuể số lần cậu ấy nói lời cảm ơn tôi rồi.
 
@@ -162,7 +162,7 @@ Dù sao đi nữa, vì đó là một nguồn gốc khả dĩ của Undead, nên
 
 Tôi hỏi đâu phải vì vô tâm. Ừ thì có lẽ cũng có một chút, nhưng tuyệt đối không đến mức thích xới lại vết thương lòng của người khác. Tôi đặt câu hỏi đó vì bản thân cần phải biết—nó có thể giúp tìm ra thêm manh mối về nguồn gốc của lũ Khô Lâu.
 
-"Khoảng ba năm trước," Rivul kể. "Ông phát hiện một con Goblin lảng vảng quanh vùng nên đã tập hợp dân làng đi tiêu diệt trước khi nó kịp gọi đồng bọn tới. Thực ra một nhóm dân làng hoàn toàn đủ sức hạ một con Goblin đơn độc. Đã vậy, cha tôi lại là một thợ săn cừ khôi—giỏi hơn tôi nhiều. Ông cũng biết dùng cả kiếm lẫn giáo nhờ từng làm lính thành phố thời trai trẻ. Chính ông là người đã dạy tôi cách dùng cung đấy."
+"Khoảng ba năm trước," Rivul kể. "Cha tôi phát hiện một con Goblin lảng vảng quanh vùng nên đã tập hợp dân làng đi tiêu diệt trước khi nó kịp gọi đồng bọn tới. Thực ra một nhóm dân làng hoàn toàn đủ sức hạ một con Goblin đơn độc. Đã vậy, cha tôi lại là một thợ săn cừ khôi, giỏi hơn tôi nhiều. Ông ấy cũng biết dùng cả kiếm lẫn giáo nhờ từng làm lính thành phố thời trai trẻ. Chính cha là người đã dạy tôi cách dùng cung đấy."
 
 Hóa ra cha của Rivul từng làm vệ binh thành phố suốt những năm tháng tuổi mười tám đôi mươi, sau đó lập gia đình rồi trở về quê nhà để phụng dưỡng cha mẹ. Đó là chuyện thường thấy, ngay cả trong giới mạo hiểm giả. Trên thực tế, đại đa số những người từ miền quê lên thành phố tìm kiếm danh vọng và tiền tài rốt cuộc đều đi theo con đường như thế.
 
@@ -172,11 +172,11 @@ Cha của Rivul hẳn cũng có câu chuyện tương tự. Nhưng trở về qu
 
 "Nghe qua thì cha cậu là một người tuyệt vời đấy."
 
-"Anh Rentt... Vâng. Với tôi, ông là người cha tuyệt vời nhất trần đời. Nhưng sau cùng thì vẫn có những chuyện ngay cả ông cũng bất lực. Nhất là khi đụng độ với quái vật..."
+"Anh Rentt... Vâng. Với tôi, ông ấy là người cha tuyệt vời nhất trần đời. Nhưng sau cùng thì vẫn có những chuyện ngay cả cha tôi cũng bất lực. Nhất là khi đụng độ với quái vật..."
 
 "Ý cậu là..."
 
-"Vâng. Chính con Goblin đó đã cướp đi mạng sống của ông. Khổ nỗi đâu chỉ có một con—có hơn mười con lận. Theo lời những người dân làng khác may mắn thoát chết kể lại, ông đã một mình ở lại bọc hậu để bảo đảm cho mọi người chạy thoát. Nhờ có ông, tất cả họ đều trở về được, dẫu mang thương tích đầy mình. Tôi không đếm xuể số lần họ xin lỗi tôi nữa. Thỉnh thoảng bây giờ họ vẫn còn xin lỗi."
+"Vâng. Chính con Goblin đó đã cướp đi mạng sống của cha tôi. Khổ nỗi đâu chỉ có một con mà có hơn mười con lận. Theo lời những người dân làng khác may mắn thoát chết kể lại, ông ấy đã một mình ở lại bọc hậu để bảo đảm cho mọi người chạy thoát. Nhờ có cha tôi, tất cả họ đều trở về được, dẫu mang thương tích đầy mình. Tôi không đếm xuể số lần họ xin lỗi tôi nữa. Thỉnh thoảng bây giờ họ vẫn còn xin lỗi."
 
 Chẳng trách—nói thẳng thừng ra là bảo họ bỏ mặc cha của Rivul chết cũng không sai. Cảm giác tội lỗi hẳn đã đè nặng lên tâm can họ. Dẫu vậy, đó có khi lại là kết cục tốt hơn; bởi trong hoàn cảnh ấy, hoàn toàn có khả năng họ quay sang chỉ trích cha của Rivul để tự biện minh cho hành động của mình.
 
@@ -184,16 +184,16 @@ Chuyện đó không xảy ra có lẽ bắt nguồn từ nhân cách của hai 
 
 Biết đâu những người dân làng từng được cha của Rivul cứu mạng chính là những người đã túc trực canh chừng ngôi làng từ phía sau ngọn đồi.
 
-"Dù sao chuyện cũng qua rồi," Rivul nói. "Tôi chẳng hề oán hận họ chút nào. Nếu ở vào vị trí của họ, tôi không nghĩ mình có thể làm khác đi được. Dù cái chết của ông khiến tôi đau buồn, nhưng tôi cũng thấy tự hào vì cha mình là một người vĩ đại cho tới tận giây phút cuối cùng."
+"Dù sao chuyện cũng qua rồi," Rivul nói. "Tôi chẳng hề oán hận họ chút nào. Nếu ở vào vị trí của họ, tôi không nghĩ mình có thể làm khác đi được. Dù sự ra đi của cha khiến tôi đau buồn, nhưng tôi cũng thấy tự hào vì cha mình là một người vĩ đại cho tới tận giây phút cuối cùng."
 
 "Bản thân cậu cũng là một người tuyệt vời đấy. Nếu đổi lại là tôi, tôi nghĩ mình sẽ ôm hận trong lòng mất."
 
 "Anh thì không đâu, anh Rentt. Tôi nhìn là biết mà."
 
-"Cậu đánh giá tôi cao quá rồi... Nhưng quay lại chủ đề chính nhé: việc vũ khí của cha cậu xuất hiện ở đây đồng nghĩa với việc ông đã biến thành Khô Lâu Binh. Và điều đó có nghĩa là rất có khả năng lũ Khô Lâu đang kéo tới từ chính nơi cha cậu qua đời. Còn về việc chôn cất ông..."
+"Cậu đánh giá tôi cao quá rồi... Nhưng quay lại chủ đề chính nhé: việc vũ khí của cha cậu xuất hiện ở đây đồng nghĩa với việc ông ấy đã biến thành Khô Lâu Binh. Và điều đó có nghĩa là rất có khả năng lũ Khô Lâu đang kéo tới từ chính nơi cha cậu qua đời. Còn về việc chôn cất ông ấy..."
 
-"Chúng tôi không thể mai táng cho ông được. Lũ Goblin sau đó đã bị một mạo hiểm giả chúng tôi thuê xử lý, nhưng vì nơi đó cách làng một quãng khá xa nên mối nguy hiểm từ quái vật quá lớn để có thể thực hiện chuyến đi. Tôi cũng chẳng thể thuyết phục người mạo hiểm giả đó giúp đỡ..."
+"Chúng tôi không thể mai táng cho cha được. Lũ Goblin sau đó đã bị một mạo hiểm giả chúng tôi thuê xử lý, nhưng vì nơi đó cách làng một quãng khá xa nên mối nguy hiểm từ quái vật quá lớn, chẳng thể mạo hiểm đi tới đó. Tôi cũng chẳng thuyết phục được người mạo hiểm giả kia giúp đỡ..."
 
 "Thật sao? Mạo hiểm giả ở Maalt thường chẳng nề hà giúp đỡ những chuyện như thế đâu."
 
-"Mạo hiểm giả chúng tôi nhờ chỉ là một kẻ lang thang thôi. Tôi không có ý nói xấu họ đâu, nhưng người đó chẳng bận tâm đến việc gì khác ngoài chuyện tiêu diệt quái vật..."
+"Mạo hiểm giả chúng tôi nhờ chỉ là một người hành nghề vãng lai thôi. Tôi không có ý nói xấu người đó đâu, chỉ là người đó chẳng bận tâm đến việc gì khác ngoài chuyện tiêu diệt quái vật..."

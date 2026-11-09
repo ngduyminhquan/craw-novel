@@ -4,7 +4,7 @@ Tôi, Ars—con trai của một thương nhân—chẳng biết mình muốn l�
 
 Liệu tôi nên tiếp quản việc làm ăn của cha, hay dấn thân vào một con đường khác? Sở dĩ tôi băn khoăn là vì tôi có một đứa em trai tên là Ridd, mà cơ nghiệp thì chỉ một trong hai chúng tôi được thừa kế. Thực ra cũng có cách để cả hai cùng làm, nhưng hai người cùng tiếp quản công việc buôn bán thì hầu như lúc nào cũng dẫn tới tranh chấp quyền thừa kế, và tôi thì muốn tránh chuyện đó. Tôi cũng không muốn đẩy em trai mình sang một nghề khác vì nó còn quá nhỏ... ừ thì, thật ra chính bản thân tôi cũng mới mười tuổi thôi. Còn Ridd mới lên ba.
 
-Hiện tại, tôi phụ việc cho cha ở thị trấn biên ải Maalt, và chúng tôi thường xuyên đi tới các ngôi làng xung quanh. Ngôi làng làm căn cứ kinh doanh của chúng tôi nằm ở nơi khác, nhưng cha tôi bảo gom hàng ở Maalt là có lãi nhất. Tôi tin lời ông—thị trấn này luôn cung cấp nguồn hàng ổn định, mà phần lớn trong số đó lại mua được với giá hời.
+Hiện tại, tôi phụ việc cho cha ở thị trấn biên ải Maalt, và chúng tôi thường xuyên đi tới các ngôi làng xung quanh. Ngôi làng làm căn cứ kinh doanh của chúng tôi nằm ở nơi khác, nhưng cha tôi bảo gom hàng ở Maalt là có lãi nhất. Tôi tin lời cha, bởi thị trấn này luôn cung cấp nguồn hàng ổn định, mà phần lớn trong số đó lại mua được với giá hời.
 
 Dẫu vậy, vùng này chẳng mấy an toàn, và vì phần lớn mạo hiểm giả ở Maalt đều dành thời gian khám phá mê cung, thương nhân rất khó tìm được hộ vệ. Thế nhưng hôm nay, có vẻ mọi chuyện lại khác.
 
@@ -14,7 +14,7 @@ Người mạo hiểm giả mà cha tôi, Gund, dẫn theo là một người đ
 
 Dù vậy, tôi vẫn thấy ngờ vực. Tôi thấy rất có khả năng người này chỉ là một tên thổ phỉ giả dạng mạo hiểm giả.
 
-"Tôi là Rentt, mạo hiểm giả Đồng Cấp," người đàn ông hơi cúi đầu nói. "Rất vui được làm việc cùng hai người."
+"Tôi là Rentt, mạo hiểm giả Đồng Cấp," người đàn ông hơi cúi đầu nói. "Rất vui được làm việc cho ông."
 
 Anh ấy có vẻ đàng hoàng hơn những gì tôi từng nghe kể về giới mạo hiểm giả—rằng họ cộc cằn và thô lỗ—nhưng tôi vẫn chưa dám chắc... Thôi thì, nói ra nỗi lo của mình cũng chẳng để làm gì. Mấy người bán rong nhỏ lẻ như chúng tôi hiếm khi thuê được một mạo hiểm giả Đồng Cấp làm hộ vệ. Tôi đành phải gạt bỏ những mối nghi ngờ sang một bên.
 
@@ -60,7 +60,7 @@ Chưa kịp hỏi xem Rentt có nói thật hay không, anh ấy đã biến m�
 
 "Đó là...?"
 
-"Bọn chúng là một đám thổ phỉ có chút tiếng xấu—hay nói đúng hơn là những mạo hiểm giả sẵn sàng nhúng tay vào chuyện bẩn thỉu. Chúng mang thẻ trên người, nên tôi đã thu lại để lát nữa đem nộp cho Hội."
+"Bọn chúng là một đám thổ phỉ có chút tiếng xấu, hay nói đúng hơn là những mạo hiểm giả sẵn sàng nhúng tay vào chuyện bẩn thỉu. Chúng mang thẻ trên người, nên tôi đã thu lại để sau này đem nộp cho Hội."
 
 "Một mình anh hạ hết bọn chúng sao? Toàn bộ luôn ư?"
 
@@ -86,15 +86,15 @@ Tôi gật đầu.
 
 "Thế à...?" anh ấy nói. "Vậy thì trước hết, nhóc cần phải rèn luyện. Mười lăm tuổi là có thể đăng ký làm mạo hiểm giả rồi. Giờ nhóc tầm mười tuổi đúng không? Nhóc nên dành năm năm tới để rèn luyện kỹ năng chiến đấu, tích lũy kiến thức sinh tồn, và học cách vận dụng Ma Lực, Khí Lực các thứ."
 
-"Em phải làm thế nào đây ạ...?"
+"Em phải làm thế nào đây...?"
 
 "Nhóc là con của một thương nhân lữ hành, nên đi qua rất nhiều thị trấn và làng mạc, đúng chứ? Mạo hiểm giả và ma pháp sư đã giải nghệ, hết thời hoặc làm bán thời gian ở khắp mọi nơi—những người có thể chỉ cho nhóc cả cách bào chế các loại hỗn hợp thảo dược đơn giản nữa. Hãy học hỏi từ họ. Cơ mà nhóc sẽ không xin không được nhiều đâu, nên hãy chắc chắn là mình có thứ gì đó để trả công cho thời gian của họ."
 
-"Chẳng hạn như thứ gì ạ...?"
+"Chẳng hạn như thứ gì...?"
 
 "Số thảo dược tôi chỉ cho Ridd hôm nay là một ví dụ đấy. Nhóc cũng có thể bán chúng lấy tiền rồi dùng tiền đó để trả công. Lát nữa tôi sẽ chỉ cho nhóc những chỗ gần đường lớn có thể tìm thấy chúng. Cố lên nhé, nhóc."
 
-"Anh giúp em đến mức này thật sao ạ?" Tôi sững sờ trước sự tận tình mà Rentt dành cho mình.
+"Anh giúp em đến mức này thật sao?" Tôi sững sờ trước sự tận tình mà Rentt dành cho mình.
 
 Anh ấy khẽ mỉm cười. "Ừ. Ngày trước tôi cũng từng ở vào hoàn cảnh y hệt như nhóc—học hỏi từ những người đi trước. Còn gì khiến tôi vui hơn khi có cơ hội truyền lại những điều đó chứ? Sau này nhóc có thể trả ơn tôi bằng cách trở thành một mạo hiểm giả xuất chúng. Đến lúc ấy, chúng ta hãy cùng cạn một ly."
 

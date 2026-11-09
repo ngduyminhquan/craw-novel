@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T09:15:11Z",
+  "generatedAt": "2026-11-09T09:27:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3956,19 +3956,19 @@
           "number": 299,
           "title": "Chương 299: Ngoại truyện Tập 12 - Hương Vị Cuộc Đời",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_299.md",
-          "sha": "51cb11b40620e96fd69ce5737c79e168102eae3a"
+          "sha": "f3956f8e0d0cb5110477573a7dc4ec8c548b8494"
         },
         {
           "number": 300,
           "title": "Chương 300: Ngoại truyện Tập 12 - Cuộc Gặp Gỡ Kỳ Diệu",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_300.md",
-          "sha": "e6ebd70d0567484d649ce84b1b7b0c4363a0c080"
+          "sha": "e23057096fde752ebd52dfec6f540f6b21996a37"
         },
         {
           "number": 301,
           "title": "Chương 301: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_301.md",
-          "sha": "3e80dc894dfc95f648119828ca6c6b55a1b07573"
+          "sha": "9af5ec0966ec60a0a41b41dc3587f3a3301ee20b"
         }
       ]
     },
