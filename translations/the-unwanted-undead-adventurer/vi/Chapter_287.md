@@ -6,7 +6,7 @@ Tôi cũng cảm thấy vậy. Có lẽ bởi cả hai đều coi Maalt là nhà
 
 "Cô nghĩ có ai thay đổi gì không?" tôi buột miệng thắc mắc. "Mà dẫu có thì chắc cũng chẳng nhiều nhặn gì đâu nhỉ."
 
-"Người ta vẫn hay kể chuyện có người đi xa một hai năm, lúc trở về thì đám người quen đã con bồng con bế nọ kia," Lorraine nói. "Nhưng bọn mình đi còn chưa đầy một tháng, nên tôi không nghĩ là có gì thay đổi đâu. Dẫu vậy, Học Viện và Tòa Tháp hẳn vẫn đang tất bật lo việc của họ, nên biết đâu chúng ta lại thấy những thay đổi theo kiểu khác..."
+"Người ta vẫn hay kể chuyện có người đi xa một hai năm, lúc trở về thì đám người quen đã con bồng con bế nọ kia," Lorraine nói. "Nhưng chúng ta đi còn chưa đầy một tháng, nên tôi không nghĩ là có gì thay đổi đâu. Dẫu vậy, Học Viện và Tòa Tháp hẳn vẫn đang tất bật lo việc của họ, nên biết đâu chúng ta lại thấy những thay đổi theo kiểu khác..."
 
 Tòa Tháp là cơ quan nghiên cứu ma thuật của vương quốc, còn Học Viện là cơ sở giáo dục. Những tổ chức này hiện diện ở khắp nơi chứ không riêng gì Yaaran, và dù tên gọi có khác nhau đôi chút, hầu hết mọi người vẫn cứ gọi tắt như vậy. Dù đặt chân tới bất cứ quốc gia nào, ở các Học Viện và Tòa Tháp, người ta cũng sẽ bắt gặp những thế hệ lãnh đạo tương lai của đất nước đang được đào tạo, cùng những nhóm nghiên cứu không thể thiếu trong nỗ lực giải mã những bí mật của ma thuật.
 
@@ -14,7 +14,7 @@ Và hiện tại, người của hai tổ chức đó đang đổ về lưu trú
 
 Lý do là bởi mê cung nay đang nằm ngay dưới lòng thị trấn, hệ quả từ một sự cố do Ma Cà Rồng gây ra cách đây không lâu. Mê cung vốn là một nguồn tài nguyên thiên nhiên—tựa như các mỏ quặng, nếu như mỏ quặng có thể tuôn ra đủ loại quái vật, kho báu và nguyên liệu—nhưng đồng thời cũng là thứ chứa đầy bí ẩn, chẳng ai biết chính xác chúng được hình thành ra sao.
 
-Tuy một số khu vực bên trong mê cung trông hệt như hành lang đá do con người xây dựng hoặc nội thất của các công trình, nhưng những nơi khác lại giống như những cảnh quan thiên nhiên bạt ngàn ngoài thế giới bên ngoài, đến mức lời giải thích duy nhất cho sự tồn tại của chúng dường như chỉ có thể là do chính bàn tay thần linh nhào nặn nên.
+Tuy một số khu vực bên trong mê cung trông hệt như hành lang đá do con người xây dựng hoặc nội thất của các công trình, nhưng những nơi khác lại giống như những cảnh quan thiên nhiên bạt ngàn ở thế giới bên ngoài, đến mức lời giải thích duy nhất cho sự tồn tại của chúng dường như chỉ có thể là do chính bàn tay thần linh nhào nặn nên.
 
 Chính vì thế, có vô số giả thuyết rối rắm và phức tạp xoay quanh mê cung, và nhiều quốc gia cùng các cơ quan nghiên cứu của họ đều đổ xô vào tìm hiểu. Dẫu vậy, tới nay vẫn chưa ai chạm tay được vào sự thật.
 
@@ -70,7 +70,7 @@ Chẳng phải chỉ có đám mạo hiểm giả cấp thấp mới tôn sùng 
 
 Tuy nhiên, dưới sự dẫn dắt của Wolf, những thứ như thế đã bị dẹp bỏ hoàn toàn khỏi Maalt. Nhờ đó, một nét văn hóa trao đổi cởi mở được hình thành, và sự trợ giúp từ Hội đã thổi bùng khát khao tự hoàn thiện bản thân—không chỉ ở các tân binh, mà ngay cả ở những mạo hiểm giả tương đối có kinh nghiệm.
 
-Hẳn Jean đã bổ nhiệm Wolf vì tin rằng ông đủ khả năng gầy dựng nên một môi trường như thế, và Wolf đã chứng minh mình hoàn toàn đảm đương được trọng trách. Đó là một điều tuyệt vời, và cả hai đều xứng đáng nhận lấy phần công lao ấy.
+Hẳn Jean đã bổ nhiệm Wolf vì tin rằng ông ấy đủ khả năng gầy dựng nên một môi trường như thế, và Wolf đã chứng minh mình hoàn toàn đảm đương được trọng trách. Đó là một điều tuyệt vời, và cả hai đều xứng đáng nhận lấy phần công lao ấy.
 
 Còn tôi ư? Tất cả những gì tôi làm chỉ là chỉ bảo vài điều căn bản cho một số tân binh. Tôi còn lâu mới chạm tới vị trí có thể đề ra cải cách từ trên xuống dưới. Dĩ nhiên, tôi không nghĩ đóng góp của mình là hoàn toàn vô dụng, nhưng rõ ràng lý do khiến những nỗ lực ấy phát huy chút tác dụng nào đó chính là vì Wolf đang làm Hội Trưởng của thị trấn này.
 
@@ -78,17 +78,17 @@ Còn tôi ư? Tất cả những gì tôi làm chỉ là chỉ bảo vài điề
 
 Jean ngẫm nghĩ một thoáng rồi đáp: "Chúng ta—ý ta là phía Hội Yaaran—đang từng bước chuyển biến cách nghĩ về mặt đó, nhưng rất khó để lan tỏa đà chuyển dịch ấy ra bên ngoài vương quốc. Vả lại, nếu tự kéo căng sức mình quá thì kế hoạch cũng sẽ sớm chết yểu thôi. Những việc này cần có thời gian—cùng nỗ lực chậm rãi mà vững chắc. Xây dựng chỗ đứng vững vàng—ý ta là ở vương đô—phải đi đầu tiên... nhưng đó vẫn chẳng phải chuyện dễ ăn. Không biết cậu đã nghe nói chưa, Rentt, chứ ngay ở vương đô còn có những kẻ đạt Ngân Cấp mà chẳng phân biệt nổi loại nào ngoài mấy thứ thảo dược phổ biến nhất."
 
-"Vậy là chỉ cần loại thảo dược nào hơi xa lạ một chút là họ chịu chết sao ngài?" tôi hỏi.
+"Vậy là chỉ cần loại thảo dược nào hơi xa lạ một chút là họ chịu chết à?" tôi hỏi.
 
-"Chẳng hạn như sự khác nhau giữa cần dại đất và hoa cần dại ấy ạ?"
+"Chẳng hạn như sự khác nhau giữa cần dại đất và hoa cần dại ấy hả?"
 
 Mặt Jean nhăn tít lại. "Nhầm hai thứ đó thì chẳng ai nỡ trách cậu đâu. Ngay cả các dược sư nhà nghề khi tận mắt săm soi kỹ càng còn nhầm lẫn nữa là."
 
-"Nhưng tân binh ở Maalt lại phân biệt được đấy ngài," tôi bảo. Chà, chí ít thì đám lính mới do tôi chỉ dạy làm được việc đó.
+"Nhưng tân binh ở Maalt lại phân biệt được đấy," tôi bảo. Chà, chí ít thì đám lính mới do tôi chỉ dạy làm được việc đó.
 
 Mắt Jean mở to hết cỡ. "Cái gì? Cậu đang trêu ta đấy à."
 
-"Không, thật đấy ngài. Thực ra, không phân biệt được hai thứ đó chẳng phải nguy hiểm lắm sao? Cần dại đất là một món mỹ vị thượng hạng, nhưng hoa cần dại mà ăn vào là bị tê liệt đấy."
+"Không, thật đấy. Thực ra, không phân biệt được hai thứ đó chẳng phải nguy hiểm lắm sao? Cần dại đất là một món mỹ vị thượng hạng, nhưng hoa cần dại mà ăn vào là bị tê liệt đấy."
 
 "Thì đúng là cậu không sai, nhưng mà..."
 
@@ -110,6 +110,6 @@ Nghe đồn ngoài kia cũng có vài ngoại lệ đặc thù, nhưng tôi chư
 
 "Được rồi, vào trong thôi nào," Jean nói. "Hai người cũng vào cùng chứ?"
 
-Ông ấy sải bước về phía tòa nhà, còn Lorraine và tôi nối gót theo sau. Ủy thác mà chúng tôi nhận là hộ tống Jean tới chỗ Wolf, vậy nên công việc của chúng tôi với tư cách mạo hiểm giả sẽ chưa thể coi là kết thúc chừng nào chưa đáp ứng đầy đủ các yêu cầu của công việc.
+Ông ấy sải bước về phía tòa nhà, còn Lorraine và tôi nối gót theo sau. Ủy thác mà chúng tôi nhận là hộ tống Jean tới chỗ Wolf, vậy nên công việc của chúng tôi với tư cách mạo hiểm giả sẽ chưa thể coi là kết thúc chừng nào chưa đáp ứng đầy đủ các yêu cầu của nhiệm vụ.
 
 Nhưng dĩ nhiên, đó chỉ là lẽ thường tình mà thôi.

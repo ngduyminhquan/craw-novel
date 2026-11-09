@@ -291,9 +291,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | reviewed |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | reviewed |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | reviewed |  |
-| 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | done |  |
-| 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | done |  |
-| 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | done |  |
+| 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | reviewed |  |
+| 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | reviewed |  |
+| 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | reviewed |  |
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | todo |  |
 | 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | todo |  |
 | 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | todo |  |

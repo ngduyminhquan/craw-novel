@@ -185,14 +185,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, giọng bạn thân 10 năm với Rentt; khi giảng bài điềm đạm kiểu học giả.
 - Quan hệ: Bạn chí cốt của Rentt, người đầu tiên biết anh thành Undead; chia sẻ máu cho anh; khẳng định biến cố không ảnh hưởng quan hệ (#168). Thầy ma thuật của Alize (#74), kèm lý thuyết cho Rentt. Thân với Rina (xem như em gái kiêm chuột bạch, #199). Danh tính giả của Rentt mang họ cô.
 - Lý lịch, năng lực: Xuất thân Đế Quốc Rermutt, từng là học giả tinh hoa Đệ Nhất Đại Học Rermutt, bị chèn ép nên tới Maalt. Mạo hiểm giả Ngân Cấp kiêm y sĩ ma thuật; hỏa ma pháp cực tinh, ảo ảnh, che chắn nhận thức. Có nhiều thẻ căn cước giả của Đế Quốc.
-- Trạng thái (đến #192): Cùng Rentt về Hathara (#168–172); cùng nhóm đánh Shumini (#192–195). Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt.
+- Trạng thái (đến #289): Cùng Rentt về Hathara (#168–172); cùng nhóm đánh Shumini (#192–195). Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt. Cùng Rentt đi vương đô Vistelya rồi hộ tống Tổng Hội Trưởng Jean Seebeck về Maalt, bàn luận giả thuyết mê cung sinh ra mê cung mới và chuẩn bị đồng hành cùng Rentt sang thành phố mỏ Welfia (#287–289).
 
 ### Sheila Ibarss
 - Giới tính/tuổi/vẻ ngoài: Nữ, ngoài 20, tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở thanh lịch.
 - Tính cách: Tận tụy, chu đáo, ấm áp, trách nhiệm cao.
 - Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ, ẩn quan tâm sâu sắc với Rentt.
 - Quan hệ: Phụ trách hồ sơ, nhiệm vụ của Rentt suốt 5 năm; biết anh là Undead; có em trai là nhân viên giám sát bí mật của Hội (#38).
-- Trạng thái (đến #128): Quản lý hồ sơ dưới danh tính Rentt Vivie (#79); hiến máu cho Rentt (#128); giúp Rina tìm ủy thác (#275).
+- Trạng thái (đến #288): Quản lý hồ sơ dưới danh tính Rentt Vivie (#79); hiến máu cho Rentt (#128); giúp Rina tìm ủy thác (#275); trực quầy tiếp tân khi Rentt và Lorraine đưa Tổng Hội Trưởng Jean Seebeck về Hội Maalt (#288).
 
 ### Luka
 - Giới tính/tuổi/vẻ ngoài: Nữ, ~40 tuổi nhưng trông trẻ đẹp quý phái, tóc vàng, mắt xanh, phong thái tiểu thư quý tộc.
@@ -434,7 +434,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie".
 - Quan hệ: Biết Rentt là Undead (khế ước bảo mật, #126), tin tưởng anh; đề xuất tuyển Rentt làm nhân viên Hội (#127).
 - Xuất hiện từ: #125.
-- Trạng thái (đến #172): Chỉ huy Hội khi Maalt bị phóng hỏa; rủ Rentt truy quét nhóm Thi Quỷ ngụy trang.
+- Trạng thái (đến #289): Chỉ huy Hội khi Maalt bị phóng hỏa; rủ Rentt truy quét nhóm Thi Quỷ ngụy trang (#172). Tiếp đón Tổng Hội Trưởng Jean Seebeck tại Maalt, thông báo cho Rentt và Lorraine về mê cung mới đang mở rộng gần Làng Mors và giới thiệu kỳ thi thăng hạng Ngân Cấp tại thành phố mỏ Welfia (#288–289).
 
 ### Alhildis
 - Thân phận, vẻ ngoài: Nữ, Elf, trông như bé 10 tuổi (tai nhọn, tóc vàng bob) nhưng phong thái như bà lão; mạo hiểm giả Kim Cấp, bậc thầy Thần Thuật.
@@ -715,6 +715,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, ngoài 80 tuổi (trông như ngoài năm mươi), Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran tại vương đô Vistelya, giữ chức từ trước khi Wolf Hermann vào Hội (#221).
 - Tính cách: Lông bông trốn việc như con nít; nhưng cực cừ khi chỉ huy ứng phó thảm họa (Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, núi lửa Jarlis) nên được tôn sùng (#230); khí chất áp đảo, phong thái cởi mở.
 - Bí mật: Thủ lĩnh tối cao tổ chức sát thủ / dị năng ngầm do ông lập cùng Gilli Flood (Spriggan); thản nhiên thừa nhận với Rentt (#261).
+- Trạng thái (đến #288): Được Rentt và Lorraine hộ tống từ vương đô Vistelya về Maalt để khảo sát mê cung mới và tự mở tiệc chào mừng sôi nổi cùng các mạo hiểm giả tại quán rượu Hội (#287–288).
 - Xuất hiện từ: #221 (xuất hiện thực tế tại căn cứ ngầm ở #261).
 
 ### Elza

@@ -2,25 +2,25 @@
 
 "Trước tiên cứ qua quầy tiếp tân đã," tôi nói. "Sau đó..."
 
-"Sau đó nhờ họ báo cho Wolf biết bọn mình đã tới", tôi vừa toan nói câu đó thì Jean đã sải bước thẳng về phía văn phòng Hội Trưởng, bỏ mặc hai đứa tôi lại phía sau. Dáng vẻ của ông ấy toát lên cái cảm giác rằng có bảo gì thì ông ấy cũng chẳng buồn bận tâm lắng nghe ai.
+"Sau đó nhờ họ báo cho Wolf biết chúng ta đã tới", tôi vừa toan nói câu đó thì Jean đã sải bước thẳng về phía văn phòng Hội Trưởng, bỏ mặc hai chúng tôi lại phía sau. Dáng vẻ của ông ấy toát lên cái cảm giác rằng có bảo gì thì ông ấy cũng chẳng buồn bận tâm lắng nghe ai.
 
-"X-Xin lỗi! Xin thứ lỗi!" Sheila rõ ràng đang trong ca trực hôm nay, nhưng dẫu ban đầu toan cản ông ấy lại, cô bỗng sững sờ khi nhìn rõ mặt đối phương rồi lẩm bẩm: "Hả...? K-Không thể nào... Ngài là...?"
+"X-Xin lỗi! Xin thứ lỗi!" Sheila rõ ràng đang trong ca trực hôm nay, nhưng dẫu ban đầu toan cản ông ấy lại, cô ấy bỗng sững sờ khi nhìn rõ mặt đối phương rồi lẩm bẩm: "Hả...? K-Không thể nào... Ngài là...?"
 
 Jean khựng lại một thoáng rồi bật cười thích thú. "Thứ lỗi vì ta tự tiện xông vào. Đừng lo—cô sẽ không phải chịu chút trách nhiệm nào đâu." Ông ấy lại tiếp tục rảo bước và thoắt cái đã khuất bóng lên tầng trên.
 
-Sheila, nãy giờ vẫn đứng chôn chân nhìn theo bóng lưng ông ấy, vẫn chưa nhúc nhích. Lorraine và tôi vội rảo bước lại chỗ cô.
+Sheila, nãy giờ vẫn đứng chôn chân nhìn theo bóng lưng ông ấy, vẫn chưa nhúc nhích. Lorraine và tôi vội chạy lại chỗ cô ấy.
 
 "Sheila, cô có sao không?"
 
 "Chia buồn cùng cô nhé, Sheila..."
 
-Lời của bọn tôi dường như đã kéo cô hoàn hồn trở lại. "Người..." cô run rẩy thốt lên. "N-N-N-Người đàn ông đó... có đúng là người mà tôi đang nghĩ không?"
+Lời của bọn tôi dường như đã kéo cô ấy hoàn hồn trở lại. "Người..." cô ấy run rẩy thốt lên. "N-N-N-Người đàn ông đó... có đúng là người mà tôi đang nghĩ không?"
 
 Tôi gật đầu. "Jean Seebeck, Tổng Hội Trưởng của Vương Quốc Yaaran đấy. Bọn tôi đưa ông ấy từ vương đô về đây."
 
 "Tôi biết ngay mà..."
 
-Dù trông có vẻ ủ rũ, Sheila dường như cũng trút được gánh nặng—có lẽ vì cô vừa nãy cảm thấy bản thân có lỗi khi để Jean tự tiện xông qua mà chưa xác nhận danh tính. Nói đi cũng phải nói lại, phong thái của ông ấy quá đỗi áp đảo, vả lại cô dường như cũng đã nhận ra gương mặt ấy.
+Dù trông có vẻ ủ rũ, Sheila dường như cũng trút được gánh nặng—có lẽ vì cô ấy vừa nãy cảm thấy bản thân có lỗi khi để Jean tự tiện xông qua mà chưa xác nhận danh tính. Nói đi cũng phải nói lại, phong thái của ông ấy quá đỗi áp đảo, vả lại cô ấy dường như cũng đã nhận ra gương mặt ấy.
 
 "Trước đây cô từng gặp ông ấy rồi à, Sheila?" Lorraine hỏi.
 
@@ -40,7 +40,7 @@ Mấy lời cuối nghe có vẻ hơi giục giã, đùn đẩy. Tôi không tà
 
 Tôi thầm nghĩ không dính vào đúng là khôn ngoan thật, và hẳn Lorraine cũng chung suy nghĩ ấy. Ngặt nỗi bọn tôi còn phải báo cáo, bằng không ủy thác sẽ chưa thể tính là hoàn thành...
 
-Thở dài một tiếng, hai đứa tôi vội đuổi theo Jean.
+Thở dài một tiếng, chúng tôi vội đuổi theo Jean.
 
 ◆◇◆◇◆
 
@@ -48,7 +48,7 @@ Thở dài một tiếng, hai đứa tôi vội đuổi theo Jean.
 
 Đến lúc Lorraine và tôi bắt kịp, Jean đã đẩy toang cánh cửa văn phòng Hội Trưởng, tươi cười sải bước vào trong đầy vẻ huyên náo.
 
-"Có vẻ bọn mình tới muộn mất rồi..." tôi lẩm bẩm.
+"Có vẻ chúng ta tới muộn mất rồi..." tôi lẩm bẩm.
 
 "Chà... dù sao thì hai người họ cũng đâu định lao vào sống chết với nhau, đúng không?" Lorraine bình thản chỉ ra. "Chắc sẽ ổn thôi mà. Chuyện này chắc cũng chẳng khác mấy việc giám đốc một công ty bất thình lình ghé thăm người quản lý chi nhánh dưới quyền."
 
@@ -56,15 +56,15 @@ Cách ví von đó khá hợp lý, và nếu đúng là vậy thì chẳng có v
 
 Nếu bảo tôi không hề mong màn xuất hiện và báo cáo này diễn ra êm thấm hơn thì đúng là nói dối. Khổ nỗi, chuyện đã rồi.
 
-Lorraine và tôi bước vào văn phòng sau Jean, đập vào mắt chúng tôi là cảnh tượng Wolf một tay ôm trán, nét mặt méo mó đầy khổ sở. Hiếm khi nào thấy ông ấy có biểu cảm như vậy—bình thường ông luôn uy nghiêm, bệ vệ—thành thử lòng tôi dấy lên chút áy náy vì tai họa mà hai đứa tôi vừa trút xuống đầu ông ấy.
+Lorraine và tôi bước vào văn phòng sau Jean, đập vào mắt chúng tôi là cảnh tượng Wolf một tay ôm trán, nét mặt méo mó đầy khổ sở. Hiếm khi nào thấy ông ấy có biểu cảm như vậy—bình thường ông ấy luôn uy nghiêm, bệ vệ—thành thử lòng tôi dấy lên chút áy náy vì tai họa mà chúng tôi vừa trút xuống đầu ông ấy.
 
-Wolf liếc mắt về phía chúng tôi. Không hẳn là trong mắt ông có vẻ quở trách, nhưng tôi vẫn phải thú nhận rằng mình đã lảng mắt sang chỗ khác và giả vờ như không thấy gì. Tôi thậm chí còn huýt sáo một tiếng, dẫu chỉ là huýt sáo thầm trong bụng.
+Wolf liếc mắt về phía chúng tôi. Không hẳn là trong mắt ông ấy có vẻ quở trách, nhưng tôi vẫn phải thú nhận rằng mình đã lảng mắt sang chỗ khác và giả vờ như không thấy gì. Tôi thậm chí còn huýt sáo một tiếng, dẫu chỉ là huýt sáo thầm trong bụng.
 
 Lorraine có lẽ còn thì thầm thêm một câu: "Anh chẳng lừa được ai đâu", nhưng đó không phải chuyện tôi bận tâm.
 
 "Tổng Hội Trưởng Seebeck..." Wolf cất tiếng, nghe chừng như phải gắng gượng lắm mới rặn ra từng chữ. "Quả thực tôi không ngờ ngài lại tới... nhanh đến mức này..."
 
-Jean nhoẻn cười thật tươi. "Ta nhìn thấu tỏng mưu mẹo của cậu rồi, anh bạn à. Cậu cử hai đứa nhóc này tới đón ta cốt để sau này còn có cớ chống chế rằng mình cũng đã cố gắng, có đúng không? Ta dám cá cậu đinh ninh đám nhân viên của ta sẽ từ chối, và nhờ thế cậu có thể dây dưa thêm một dạo nữa. Nhưng tiếc cho cậu quá—ta đã có mặt ở đây rồi!"
+Jean nhoẻn cười thật tươi. "Ta nhìn thấu tỏng mưu mẹo của cậu rồi, anh bạn à. Cậu cử hai người này tới đón ta cốt để sau này còn có cớ chống chế rằng mình cũng đã cố gắng, có đúng không? Ta dám cá cậu đinh ninh đám nhân viên của ta sẽ từ chối, và nhờ thế cậu có thể dây dưa thêm một dạo nữa. Nhưng tiếc cho cậu quá—ta đã có mặt ở đây rồi!"
 
 "Ngài... đúng là đã tới thật rồi. Tôi cứ nghĩ Rentt và Lorraine đều là những gương mặt lạ lẫm ở vương đô, nên hai người họ khó lòng xin gặp trực tiếp được ngài chứ..."
 
@@ -74,9 +74,9 @@ Ngờ đâu, chúng tôi lại đụng phải hàng loạt biến cố bất ng�
 
 Tôi thầm tự hỏi liệu Wolf có biết chuyện Jean là thủ lĩnh của một tổ chức ngầm hay không. Chẳng thể chắc chắn được, nên có lẽ tốt nhất tạm thời cứ coi như ông ấy không biết và lựa lời mà nói cho phải phép.
 
-"Bọn tôi có thể coi ủy thác này đã hoàn thành rồi chứ?" Tôi lên tiếng, tạm cắt ngang cuộc trò chuyện giữa hai người họ.
+"Bọn tôi có thể coi ủy thác này đã hoàn thành rồi chứ?" tôi lên tiếng, tạm cắt ngang cuộc trò chuyện giữa hai người họ.
 
-"Ừ..." Wolf nói. "Xong rồi đấy. Cơ mà thật tình tôi ấn tượng vì hai người xoay xở được đấy. Rốt cuộc làm cách nào mà hai cậu gặp được ông ấy vậy?"
+"Ừ..." Wolf nói. "Xong rồi đấy. Cơ mà thật tình tôi ấn tượng vì hai người xoay xở được đấy. Rốt cuộc làm cách nào mà cả hai gặp được ông ấy vậy?"
 
 "Chuyện dài dòng lắm... Thật lòng thì tôi nghĩ chỉ cần mở lời hỏi là đã xong việc rồi. Khi bọn tôi nói với nhân viên Hội rằng đây là thỉnh cầu từ phía ông, họ gần như đã tiếp đón bọn tôi như khách quý."
 
@@ -88,7 +88,7 @@ Tôi thầm tự hỏi liệu Wolf có biết chuyện Jean là thủ lĩnh củ
 
 Wolf thở dài thườn thượt khi nhận ra mình đã bị đối phương đọc vị vanh vách.
 
-"Ông chẳng thay đổi chút nào cả," ông nói. "Thôi thì đành vậy. Dù sao ông cũng đã đến đây rồi. Chào mừng tới Maalt."
+"Ông chẳng thay đổi chút nào cả," ông ấy nói. "Thôi thì đành vậy. Dù sao ông cũng đã đến đây rồi. Chào mừng tới Maalt."
 
 ◆◇◆◇◆
 
@@ -96,25 +96,25 @@ Wolf thở dài thườn thượt khi nhận ra mình đã bị đối phương 
 
 Tiếng hô "Cạn ly!" trầm hùng đồng thanh vang dội khắp quán rượu từ các mạo hiểm giả tề tựu nơi đây. Nếu bảo toàn bộ mạo hiểm giả của Maalt đều có mặt thì hơi quá lời một chút, nhưng sự thực cũng chẳng cách là bao. Hầu như mọi mạo hiểm giả không vướng bận ủy thác bên ngoài đều hiện diện vì một lý do duy nhất: chào đón sự xuất hiện của Jean Seebeck, Tổng Hội Trưởng của Vương Quốc Yaaran.
 
-"Lúc tôi bảo muốn mở tiệc chào mừng thì tự đi mà tổ chức, tôi đâu có ngờ ông ấy làm thật..." Wolf lẩm bẩm. Ông ngồi cùng bàn với Lorraine và tôi, vẻ mặt đầy cam chịu khi nhìn Jean dẫn đầu màn nâng ly của cả quán rượu. "Cái lão khó lường ấy chẳng bao giờ chịu thay đổi cả."
+"Lúc tôi bảo muốn mở tiệc chào mừng thì tự đi mà tổ chức, tôi đâu có ngờ ông ấy làm thật..." Wolf lẩm bẩm. Ông ấy ngồi cùng bàn với Lorraine và tôi, vẻ mặt đầy cam chịu khi nhìn Jean dẫn đầu màn nâng ly của cả quán rượu. "Cái lão khó lường ấy chẳng bao giờ chịu thay đổi cả."
 
-"Thế thì ngay từ đầu sao ông lại nhờ bọn tôi lên tận vương đô đón ông ấy làm gì?" Tôi càu nhàu, giọng không giấu nổi chút hậm hực. "À, phải rồi. Cốt để ông có cớ nói rằng mình đã cố gắng, đúng chứ?"
+"Thế thì ngay từ đầu sao ông lại nhờ bọn tôi lên tận vương đô đón ông ấy làm gì?" tôi càu nhàu, giọng không giấu nổi chút hậm hực. "À, phải rồi. Cốt để ông có cớ nói rằng mình đã cố gắng, đúng chứ?"
 
 "Cho tôi xin lỗi vụ đó nhé," Wolf nói, khẽ cúi đầu tạ lỗi. "Tôi không phủ nhận chuyện mình đã chờ hai người liên lạc về báo rằng ông ấy từ chối. Một phần đúng là vì ông ấy phiền phức thật, nhưng phần lớn là bởi tôi đinh ninh ông ấy sẽ khước từ, vì bình thường lúc nào ông ấy cũng bù đầu với công việc. Mười lần thì có đến chín lần ông ấy sẽ từ chối một lời mời nghiêm chỉnh. Nếu biết ông ấy nghiêm túc muốn đến thế này, tôi đã làm theo đúng trình tự thủ tục rồi."
 
-Dẫu Wolf nói như thể Jean là một gánh phiền toái, nhưng nghe không thật cho lắm. Tôi có cảm giác ông không chỉ coi Jean là cấp trên, mà còn là người mình mang ơn sâu nặng. Tôi tin chắc trong lòng ông cũng có phần mừng rỡ khi được gặp lại Jean sau ngần ấy thời gian.
+Dẫu Wolf nói như thể Jean là một gánh phiền toái, nhưng nghe không thật cho lắm. Tôi có cảm giác ông ấy không chỉ coi Jean là cấp trên, mà còn là người mình mang ơn sâu nặng. Tôi tin chắc trong lòng ông ấy cũng có phần mừng rỡ khi được gặp lại Jean sau ngần ấy thời gian.
 
 "Đúng thật, hẳn ông ấy phải gánh vác biết bao trọng trách..." Lorraine trầm ngâm. "Lúc bọn tôi rời vương đô, ông ấy còn phải cắt đuôi đám nhân viên Hội để lén lút trốn đi cơ mà. Không biết ở bên đó mọi người có ổn không nữa..."
 
-Nhìn vẻ mặt của Wolf, có vẻ ông vừa nhận ra điều gì đó. "Hai người... biết về 'công việc' của ông ấy rồi à?" ông hạ giọng hỏi.
+Nhìn vẻ mặt của Wolf, có vẻ ông ấy vừa nhận ra điều gì đó. "Hai người... biết về 'công việc' của ông ấy rồi à?" ông ấy hạ giọng hỏi.
 
-Tôi đoán ông đang ám chỉ tổ chức ngầm của Jean. Lorraine và tôi cùng gật đầu.
+Tôi đoán ông ấy đang ám chỉ tổ chức ngầm của Jean. Lorraine và tôi cùng gật đầu.
 
-"Vài thuộc hạ của ông ấy đã được phái tới chỗ bọn tôi," tôi nói. "Đó quả là một trải nghiệm... độc nhất vô nhị. Kéo theo hệ quả là sau đó bọn tôi phải trải qua mấy phen bầm dập ra trò."
+"Vài thuộc hạ của ông ấy đã được phái tới chỗ bọn tôi," tôi nói. "Đó quả là một trải nghiệm... độc nhất vô nhị. Vì vụ đó mà sau đấy bọn tôi phải trải qua mấy phen bầm dập ra trò."
 
 "Có điều bọn tôi cũng có được vài cuộc gặp gỡ khá thú vị," Lorraine nói thêm.
 
-Nét mặt Wolf hiện rõ vẻ vỡ lẽ. "Ra là vậy... đó là lý do hai cậu gặp được ông ấy. Tôi thật sự ấn tượng khi hai người còn có thể sống sót trở về đấy."
+Nét mặt Wolf hiện rõ vẻ vỡ lẽ. "Ra là vậy... đó là lý do hai người gặp được ông ấy. Tôi thật sự ấn tượng khi cả hai còn có thể sống sót trở về đấy."
 
 "Mọi chuyện cũng chưa đến mức tệ nhất có thể," tôi thừa nhận. "Dù bảo tôi giơ tay xin làm lại lần nữa thì xin kiếu. Dường như bên họ lúc đó đang có chút lục đục nội bộ, nên họ chưa dốc toàn lực nhắm vào bọn tôi."
 
@@ -126,9 +126,9 @@ Tổ chức của Jean lúc nhắm vào bọn tôi đang vướng vào một cu�
 
 "Ông hoàn toàn có thể trút hết mọi tội vạ lên đầu ông ấy mà," Lorraine gợi ý. "Thực ra, sao ông không chủ động ra tay trước luôn đi? Ông có thể bắt giữ rồi áp giải ông ấy về lại vương đô, hoặc chí ít là báo cáo hành tung của ông ấy để hưởng công tìm kiếm."
 
-"Làm vậy thì mình sẽ sạch tội..." Wolf lẩm bẩm, gật gù tự nhủ.
+"Làm vậy thì tôi sẽ thoát trách nhiệm..." Wolf lẩm bẩm, gật gù tự nhủ.
 
-"Ai trong Hội cũng rõ ông ấy là kẻ bất kham đến mức nào, nhất là đám nhân viên ở vương đô. Hẳn họ sẽ đội ơn lắm chỉ cần nhận được tin báo về tung tích của ông ấy thôi. Hừm... Chắc tôi sẽ làm thế thật." Ông ngước nhìn Lorraine và tôi. "Nhân tiện, có tin này hai người hẳn sẽ muốn nghe đấy. Ngay sau khi hai cậu rời khỏi Maalt ít lâu, có một chuyện khá thú vị đã xảy ra."
+"Ai trong Hội cũng rõ ông ấy là kẻ bất kham đến mức nào, nhất là đám nhân viên ở vương đô. Hẳn họ sẽ đội ơn lắm chỉ cần nhận được tin báo về tung tích của ông ấy thôi. Hừm... Chắc tôi sẽ làm thế thật." Ông ấy ngước nhìn Lorraine và tôi. "Nhân tiện, có tin này hai người hẳn sẽ muốn nghe đấy. Ngay sau khi cả hai rời khỏi Maalt ít lâu, có một chuyện khá thú vị đã xảy ra."
 
 "Ồ? Chuyện gì thế?" tôi hỏi.
 
@@ -140,7 +140,7 @@ Tổ chức của Jean lúc nhắm vào bọn tôi đang vướng vào một cu�
 
 "Thật sao?!" Lorraine thốt lên. "Ông có chắc là họ không báo cáo nhầm không đấy?!"
 
-Giọng cô lộ rõ vẻ kinh ngạc, và tôi còn nghe thấy cả sự hoài nghi trong đó, âu cũng là điều dễ hiểu. Mê cung vốn cực kỳ hiếm hoi nên việc phát hiện ra chúng tuyệt nhiên không phải chuyện xảy ra như cơm bữa, và thông thường người ta chỉ nhìn nhầm một hang động bình thường mà thôi. Một cái hang nếu đủ lớn thì quái vật sẽ chọn làm tổ, và một vài hạng người cũng hay giấu chiến lợi phẩm vào trong đó. Kết quả cuối cùng là người ta thường rất khó phân biệt nó với một mê cung thực sự.
+Giọng cô ấy lộ rõ vẻ kinh ngạc, và tôi còn nghe thấy cả sự hoài nghi trong đó, âu cũng là điều dễ hiểu. Mê cung vốn cực kỳ hiếm hoi nên việc phát hiện ra chúng tuyệt nhiên không phải chuyện xảy ra như cơm bữa, và thông thường người ta chỉ nhìn nhầm một hang động bình thường mà thôi. Một cái hang nếu đủ lớn thì quái vật sẽ chọn làm tổ, và một vài hạng người cũng hay giấu chiến lợi phẩm vào trong đó. Kết quả cuối cùng là người ta thường rất khó phân biệt nó với một mê cung thực sự.
 
 "Nghe đâu người phát hiện ra nó—một mạo hiểm giả Đồng Cấp đang làm nhiệm vụ săn Goblin ở Mors—đã tận mắt chứng kiến mê cung trong lúc nó đang mở rộng quy mô," Wolf giải thích. "Hiện tượng đó cũng hiếm hoi ngang ngửa việc hình thành một mê cung hoàn toàn mới, nhưng đôi khi người ta vẫn bắt gặp ở những mê cung có quy mô nhỏ hơn. Mạo hiểm giả đó trước đây từng nhìn thấy mê cung khác rồi, nên người ấy quả quyết chắc nịch về phát hiện của mình. Người đó thậm chí còn thám hiểm các tầng nông một lát và đem về một món ma cụ làm bằng chứng—thứ đã được xác nhận là phế phẩm mê cung. Thế nên dù tôi chưa dám khẳng định chắc nịch một trăm phần trăm nơi đó là mê cung... nhưng khả năng cao là đúng rồi đấy."
 
@@ -152,7 +152,7 @@ Luôn có khả năng mạo hiểm giả Đồng Cấp kia đã lấy phế ph�
 
 Wolf gật đầu. "Những người vắng mặt hôm nay đều đang ra ngoài để xác thực báo cáo rồi. Chắc chẳng mấy chốc sẽ có tin báo về thôi."
 
-"Tôi nóng lòng muốn biết quá..." Lorraine lẩm bẩm. Nghe giọng có vẻ cô đang tự nói với chính mình hơn là nói với hai đứa tôi. "Một mê cung mới xuất hiện gần đây, ngay sau khi một cái khác vừa hình thành ở Maalt sao? Biết đâu giả thuyết đó lại đúng..."
+"Tôi nóng lòng muốn biết quá..." Lorraine lẩm bẩm. Nghe giọng có vẻ cô ấy đang tự nói với chính mình hơn là nói với chúng tôi. "Một mê cung mới xuất hiện gần đây, ngay sau khi một cái khác vừa hình thành ở Maalt sao? Biết đâu giả thuyết đó lại đúng..."
 
 "Giả thuyết gì cơ?" Wolf hỏi.
 
