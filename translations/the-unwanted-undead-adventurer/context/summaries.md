@@ -1067,3 +1067,10 @@ Sau khi nghe thuộc hạ báo cáo việc phát hiện một con thuyền cỡ 
 Người phụ nữ thản nhiên gọi thẳng tên Ma Vương Canhel và khuyên K’rik nên tự mình thám hiểm mê cung vì tộc Lizardman hoàn toàn có tiềm năng Tiến Hóa Bản Thể; K’rik gạt đi vì cho rằng Lizardman chỉ là á nhân và chưa từng có ai tiến hóa.
 Khi K’rik từ chối rút lui và vào thế thủ, Người phụ nữ tóc trắng nhanh chóng ngâm xướng câu chú cổ ngữ triệu hồi ma pháp Sóng Triều (Tidal Wave) tạo bức tường nước khổng lồ cao chạm trời cuốn phăng đơn vị của K’rik.
 Cảnh kết thúc: Mặt nước lắng xuống phẳng lặng, Người phụ nữ tóc trắng trầm ngâm nhận định mình đã nương tay để đối phương sống sót và đã câu đủ thời gian cho Rentt lo việc trong mê cung, rồi biến mất vào hư không.
+
+## 330
+Cơn rung chấn từ ma pháp Sóng Triều trên mặt biển làm rung chuyển cả mê cung rồi lắng xuống; Capitan và Rentt cảm nhận luồng Ma Lực đã tan biến hoàn toàn và quyết định tiếp tục cuộc thám hiểm.
+Nhóm Diego cùng bộ ba Niedz quay lại; Diego và Niedz trấn an Lukas đang hoảng loạn đòi rút lui, trong khi Rentt chỉ ra Mazlak tới chiều tối mới quay lại đón nên cần tranh thủ tìm kiếm thay vì ngồi không.
+Rentt kể cho Diego nghe việc mình vừa bị dịch chuyển và được người phụ nữ bí ẩn cứu, qua đó xác nhận ảo ảnh Diego từng thấy về cha mẹ mình là có thật và cảnh báo nguy cơ bất tỉnh giữa lúc chiến đấu; Capitan chỉ ra Diego chỉ ngất vài giây và tự tin dùng Khí Lực bọc lót.
+Cả nhóm thống nhất tiếp tục rà soát các tầng nông để Capitan tìm hải linh thảo, đồng thời đặt mục tiêu rèn luyện thể lực và kỹ năng sinh tồn, tháo chạy cho bộ ba Niedz để họ có thể tự sống sót quay về điểm an toàn.
+Cảnh kết thúc: Capitan và Rentt quyết định bắt đầu tìm kiếm trận chiến đầu tiên ở tầng nông cho nhóm Niedz để khảo sát trình độ, trong khi bộ ba vẫn vô tư ngắm cảnh mê cung như dân quê lên tỉnh.

@@ -669,6 +669,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rentt Faina | Woman in the Black Robe | tôi | cô / người phụ nữ | 26 | Rentt nói chuyện kiêng dè, kính sợ người phụ nữ bí ẩn (#26, #328) |
 | Woman in the Black Robe | K’rik | ta | ngươi / các ngươi | 329 | Người phụ nữ tóc trắng áp đảo răn đe tộc trưởng Lizardman |
 | K’rik | Woman in the Black Robe | ta | cô | 329 | Tộc trưởng Lizardman cảnh giác đối đáp với người phụ nữ lạ mặt |
+| Diego Malga | Capitan | tôi | Capitan / ông | 324 | Hai người cùng lập đội thám hiểm Mê Cung Các Con Gái Của Hải Thần |
+| Capitan | Diego Malga | tôi | cậu / Diego | 324 | Mạo hiểm giả kỳ cựu nói chuyện với chủ tiệm đồ nguyền |
+| Diego Malga | Lukas | tôi | cậu / Lukas | 330 | Mạo hiểm giả cấp trên chấn chỉnh hậu bối |
+| Lukas | Diego Malga | tôi | anh / Diego / anh Diego | 330 | Mạo hiểm giả cấp thấp nói chuyện với chủ tiệm đồ nguyền |
 
 
 
