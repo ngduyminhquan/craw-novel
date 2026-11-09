@@ -178,6 +178,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Niedz Labra |  | Niedz Labra | Tên đầy đủ của Niedz (#317, #331) | #331 |
 | Gahedd Odan |  | Gahedd Odan | Tên đầy đủ của Gahedd (#319, #331) | #331 |
 | Lukas Zeiyu |  | Lukas Zeiyu | Tên đầy đủ của Lukas (#319, #331) | #331 |
+| Pherousa |  | Pherousa | Cô bé ngư nhân móc túi tại Lucaris, tự xưng là 'đứa con của biển xưa' | #335 |
 
 
 
@@ -1069,6 +1070,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, một trong bốn Ma Vương (Tứ Đại Ma Vương) đỉnh cao của loài quái vật, được tôn xưng là "Nữ vương của vảy và bầu trời" (queen of scales and sky) (#329).
 - Đặc điểm: Mang diện mạo như một con người bình thường; cai quản vùng lãnh thổ lân cận và thu nhận bộ tộc của K'rik nương nhờ; tính tình tương đối ôn hòa so với các Ma Vương khác nhưng vẫn có thể nổi cơn thịnh nộ hủy diệt nếu phật ý (#329).
 - Xuất hiện từ: #329 (qua lời kể của K'rik).
+
+### Pherousa
+- Thân phận: Nữ, cô bé ngư nhân (fishfolk) móc túi trên đường phố Lucaris (#335). Tự xưng là "đứa con của biển xưa" (Child of the old sea).
+- Đặc điểm: Mang đặc điểm người cá với làn da ráp vảy trên cổ và tay, tai hình vây cá, tròng mắt sáng rực; khứu giác nhạy bén, ngửi được mùi biển trên người Rentt (#335).
+- Hoàn cảnh: Trước đây lặn biển kiếm sống; do vùng biển bị tay chân của Ma Vương Canhel phong tỏa nên bị kẹt lại trên bờ, không thể lặn hay tìm việc làm nên buộc phải đi móc túi kiếm sống qua ngày (#335).
+- Xuất hiện từ: #335.
 
 
 

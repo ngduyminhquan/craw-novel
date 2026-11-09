@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:24:25Z",
+  "generatedAt": "2026-11-09T16:31:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4167,6 +4167,12 @@
           "title": "Chương 334: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_334.md",
           "sha": "494888a3af50f2315a9df527f1b46a7fe6818c83"
+        },
+        {
+          "number": 335,
+          "title": "Chương 335: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_335.md",
+          "sha": "4073132471432367cca420a6209d38cbb2c0238e"
         }
       ]
     },

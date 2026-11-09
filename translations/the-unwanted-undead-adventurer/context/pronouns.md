@@ -135,6 +135,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | K’rik | K’rik / anh / anh ta / thủ lĩnh K’rik | 329 | Tộc trưởng phân nhánh Lizardman dạng hải xà |
 | Canhel Avara | Canhel Avara / Canhel / Nữ Ma Vương / cô ta | 329 | Nữ Ma Vương của vảy và bầu trời |
 | Lukas | tôi / Lukas / cậu ta / anh chàng | 331 | Người kể chuyện ngôi thứ nhất ở nửa đầu chương #331 |
+| Pherousa | Pherousa / cô bé ngư nhân / cô bé | 335 | Cô bé ngư nhân móc túi tại Lucaris |
 
 
 
@@ -681,6 +682,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Capitan | Lukas | tôi | cậu / Lukas | 333 | Mạo hiểm giả kỳ cựu nói chuyện / chỉ đạo hậu bối |
 | Capitan | Gahedd | tôi | cậu / Gahedd | 333 | Mạo hiểm giả kỳ cựu nói chuyện / chỉ đạo hậu bối |
 | Gahedd | Capitan | tôi | Đại ca Capitan / Capitan | 333 | Mạo hiểm giả cấp thấp kính nể tiền bối |
+| Rentt Faina | Pherousa | tôi | cô bé / nhóc / Pherousa | 335 | Mạo hiểm giả người lớn nói chuyện với cô bé ngư nhân móc túi |
+| Pherousa | Rentt Faina | tôi | anh | 335 | Cô bé ngư nhân nói chuyện với mạo hiểm giả đeo mặt nạ đầu lâu |
 
 
 

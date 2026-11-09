@@ -1102,3 +1102,10 @@ Diego tra cứu sách về hoa văn trên miếng thẻ gỗ Nguyền Cụ nhưn
 Diego nhận định muốn xuống đáy mê cung tìm vũ khí cần ít nhất ba mạo hiểm giả Kim Cấp, vượt xa năng lực hiện tại của nhóm.
 Cảnh kết thúc: Rentt tự nhủ mục đích của nhóm không cần phải xuống sâu tới đáy nên gạt chuyện đó sang một bên.
 
+## 335
+Cả nhóm quyết định nghỉ ngơi để hồi phục thể lực sau một ngày thám hiểm vất vả; bộ ba Niedz, Lukas và Gahedd bắt đầu có dấu hiệu thức tỉnh Khí Lực nhờ tích lũy sức mạnh từ việc hạ quái vật trong quá khứ, trong khi Capitan tranh thủ hướng dẫn riêng Khí Lực cho Diego.
+Rentt một mình ra khu phố lớn sầm uất tại Lucaris để mua sắm nhu yếu phẩm cho chuyến thám hiểm tiếp theo thì bất ngờ bị một kẻ móc túi dùng dao rạch cắt túi tiền; Rentt bình tĩnh bám theo vào hẻm vắng tóm gọn đối phương để đòi lại tài sản.
+Kẻ móc túi hóa ra là Pherousa, một cô bé ngư nhân tự xưng là "đứa con của biển xưa"; cô bé bị kẹt lại trên bờ, không thể lặn biển hay tìm việc kiếm sống do vùng biển bị thuộc hạ của Ma Vương Canhel phong tỏa nên đành đi trộm cắp.
+Không nỡ bỏ mặc hay giao nộp cô bé cho đội tuần tra vì nạn kỳ thị á nhân, Rentt quyết định dẫn Pherousa đến sân huấn luyện của hội để nhờ Diego tư vấn cách giúp đỡ.
+Cảnh kết thúc: Rentt hòa nhã bắt tay làm quen với Pherousa, cô bé lẩm bẩm nhận xét anh kỳ quặc nhưng ngoan ngoãn rảo bước đi theo.
+
