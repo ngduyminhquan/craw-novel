@@ -126,9 +126,9 @@ Cánh cửa mở ra lần nữa, để lộ Diego cùng ba mạo hiểm giả đ
 
 "Nói chính xác thì người bao chúng ta là thầy của tôi," tôi giải thích.
 
-"Cơ mà chúng ta không chỉ tụ tập để uống rượu đâu. Bắt đầu từ ngày mai—ờ thì, thực ra vẫn chưa chốt ngày cụ thể, nhưng chắc chắn là một ngày gần đây thôi—các cậu sẽ đi làm việc cùng chúng tôi ở Mê Cung Các Con Gái Của Hải Thần. Điều đó đồng nghĩa với việc chúng ta cần một con thuyền, nhưng thầy tôi đã có lòng tốt cho chúng ta đi nhờ trên chiếc thuyền chú ấy thuê, vậy nên tối nay là để giới thiệu mọi người làm quen với nhau. Đừng có làm trò gì thất lễ quá trớn đấy."
+"Cơ mà chúng ta không chỉ tụ tập để uống rượu đâu. Bắt đầu từ ngày mai—ờ thì, thực ra vẫn chưa chốt ngày cụ thể, nhưng chắc chắn là một ngày gần đây thôi—các cậu sẽ đi làm việc cùng chúng tôi ở Mê Cung Các Con Gái Của Hải Thần. Điều đó đồng nghĩa với việc chúng ta cần một con thuyền, nhưng thầy tôi đã có lòng tốt cho chúng ta đi nhờ trên chiếc thuyền thầy ấy thuê, vậy nên tối nay là để giới thiệu mọi người làm quen với nhau. Đừng có làm trò gì thất lễ quá trớn đấy."
 
-Nếu Niedz hay đám bạn của cậu ta uống quá chén rồi chọc giận người thủy thủ đến mức anh ta hủy hợp đồng, tôi sẽ cướp mất phương tiện đi lại của Capitan—và để đền bù, ngày nào tôi cũng sẽ phải bay đưa đón chú ấy đi đi về về mê cung. Đưa ra lời cảnh báo nghiêm khắc là cái giá quá nhỏ để tránh khỏi viễn cảnh đó.
+Nếu Niedz hay đám bạn của cậu ta uống quá chén rồi chọc giận người thủy thủ đến mức người ta hủy hợp đồng, tôi sẽ cướp mất phương tiện đi lại của Capitan—và để đền bù, ngày nào tôi cũng sẽ phải bay đưa đón chú ấy đi đi về về mê cung. Đưa ra lời cảnh báo nghiêm khắc là cái giá quá nhỏ để tránh khỏi viễn cảnh đó.
 
 "Đ-Đương nhiên rồi, đại ca!" Lukas quay sang hai người bạn. "Tụi mình sẽ cư xử thật chuẩn mực! Đúng không hai cậu?"
 

@@ -10,11 +10,11 @@ Lý do duy nhất giúp tôi nhìn được trong bóng tối là nhờ đôi m�
 
 Làm sao tôi lại lưu lạc đến chốn này được chứ?
 
-"Đúng là số phận trớ trêu thật đấy, không ngờ chúng ta lại tương phùng," một giọng nói bỗng vang lên từ phía sau lưng tôi.
+"Đúng là số phận trớ trêu thật đấy, không ngờ chúng ta lại gặp lại nhau," một giọng nói bỗng vang lên từ phía sau lưng tôi.
 
 Điều đáng sợ là tôi chẳng hề cảm nhận được bất kỳ ai ở đằng sau. Cứ như thể chủ nhân của giọng nói kia hoàn toàn không có chút hơi thở hay hiện diện nào vậy. Ngập ngừng đôi chút, tôi quay đầu lại và nhìn thấy...
 
-"Xin chào, Thi Quỷ tiên sinh," người phụ nữ vừa đánh giá tôi như một món đồ hiếm lạ vừa cất tiếng. "Hửm. Không, gọi thế không còn đúng nữa rồi nhỉ? Quả là chuyện hiếm thấy thật đấy. Xem ra rốt cuộc ngươi vẫn không trở thành Ma Cà Rồng, dù vẫn thuộc cùng một dòng tộc nói chung. Xét theo hoàn cảnh của ngươi thì thế cũng hợp lý thôi. Kiềm chế được cơn khát máu của bản thân như vậy, ngươi cũng đáng nể thật đấy."
+"Xin chào, ngài Thi Quỷ," người phụ nữ vừa đánh giá tôi như một món đồ hiếm lạ vừa cất tiếng. "Hửm. Không, gọi thế không còn đúng nữa rồi nhỉ? Quả là chuyện hiếm thấy thật đấy. Xem ra rốt cuộc ngươi vẫn không trở thành Ma Cà Rồng, dù vẫn thuộc cùng một dòng tộc nói chung. Xét theo hoàn cảnh của ngươi thì thế cũng hợp lý thôi. Kiềm chế được cơn khát máu của bản thân như vậy, ngươi cũng đáng nể thật đấy."
 
 Những lời ấy chẳng đợi tôi đáp lại—cô ta buông ra cứ như đang tự mình lẩm bẩm suy nghĩ thành tiếng. Hẳn tôi đã xem cô ta như một kẻ lang thang mê cung nào đó—dẫu có hơi lập dị—nếu không phải vì tôi từng gặp người phụ nữ này trước đây.
 
@@ -24,7 +24,7 @@ Thậm chí thay vì chỉ là người quen thông thường, đây còn là ng
 
 Người phụ nữ sở hữu mái tóc trắng, đôi mắt màu xanh lam nhạt, và dù cử chỉ toát lên vẻ dịu dàng, quanh người cô ta vẫn tỏa ra một áp lực đáng sợ đến rợn người. Nhưng lần gần nhất tôi nhìn thấy cô ta là ở một khu vực chưa khai phá của Mê Cung Nguyệt Ảnh, và hồi đó cô ta đã suýt nữa lấy mạng tôi—thực sự muốn giết. Thế nhưng vì những lý do đến giờ tôi vẫn chưa tài nào hiểu nổi, cô ta lại quyết định tha mạng, thậm chí còn tặng cho tôi những ma cụ đầy uy lực mà mình sở hữu trước khi tiễn tôi rời đi.
 
-Cuộc gặp gỡ lần trước vẫn khiến tôi ngỡ như một giấc mơ nửa tỉnh nửa mê, nhưng chiếc áo chùng và tấm bản đồ là bằng chứng sờ sờ cho thấy chuyện đó thực sự đã xảy ra. Tôi chưa bao giờ nghĩ mình sẽ tái ngộ cô ta. Dẫu vậy, câu hỏi đầu tiên nảy ra trong đầu tôi lại khá đơn giản: Trong bao nhiêu nơi chốn, cớ sao cô ta lại xuất hiện ở chính nơi này?
+Cuộc gặp gỡ lần trước vẫn khiến tôi ngỡ như một giấc mơ nửa tỉnh nửa mê, nhưng chiếc áo chùng và tấm bản đồ là bằng chứng sờ sờ cho thấy chuyện đó thực sự đã xảy ra. Tôi chưa bao giờ nghĩ mình sẽ tái ngộ cô ta. Dẫu vậy, câu hỏi đầu tiên nảy ra trong đầu tôi lại khá đơn giản: Trong bao nhiêu nơi chốn, sao cô ta lại xuất hiện ở chính nơi này?
 
 "Tuy trông ta có vẻ nhàn rỗi, nhưng sự thật hoàn toàn trái ngược," cô ta nói. "Ta có rất nhiều việc cần lưu tâm ở muôn nơi, nên cuộc hội ngộ ở đây thuần túy chỉ là trùng hợp. Hoặc chí ít ta sẽ nói thế nếu chuyện này không gượng gạo đến vậy. Hẳn phải có lý do nào đó khiến chúng ta chạm mặt nhau một lần nữa. Dẫu vậy, ta thừa nhận ban đầu mình chẳng hề có ý định tiếp xúc với ngươi. Mấy món quà trước đây ta tặng chỉ thuần túy là lời tạ lỗi—nhìn chung, ta vẫn muốn thấy ngươi tự thân nỗ lực tiến bước trên hành trình của mình hơn."
 
@@ -36,7 +36,7 @@ Lần trước gặp gỡ, tôi vẫn còn là một Thi Quỷ. Theo tôi tự �
 
 Dù sao thì trực giác cũng mách bảo tôi như thế. Ở cạnh cô ta mang lại cảm giác hệt như hồi tôi đụng độ con rồng trong Mê Cung Nguyệt Ảnh—nỗi sợ nguyên thủy, hòa lẫn với cảm giác buông xuôi cam chịu trước một đối thủ mà tôi không bao giờ có hy vọng đánh bại nổi.
 
-Nói ngắn gọn, tôi hoàn toàn bất lực. Nhưng xét ở một góc độ khác, điều đó lại đồng nghĩa với việc tôi có thể nói năng hơi bỗ bã một chút. Dù sao thì tôi cũng ở khoảng cách quá xa phía dưới cô ta, đến mức chắc cô ta cũng chẳng thèm bận tâm đâu.
+Nói ngắn gọn, tôi hoàn toàn bất lực. Nhưng xét ở một góc độ khác, điều đó lại đồng nghĩa với việc tôi có thể nói năng hơi bỗ bã một chút. Dù sao thì tôi cũng kém cô ta quá xa, đến mức chắc cô ta cũng chẳng thèm bận tâm đâu.
 
 "Tôi rất cảm kích những gì cô đã làm cho mình," tôi nói. "Nhưng nếu đã vậy thì sao giờ chúng ta lại nói chuyện ở đây? Tôi cũng bận lắm đấy chứ—tôi đang định thám hiểm mê cung này cùng vài người bạn đồng hành của mình."
 

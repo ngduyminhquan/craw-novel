@@ -90,7 +90,7 @@ Cô gái trẻ tiếp tục nỗ lực đó một lúc, và chẳng mấy chốc
 
 "Hẳn anh phải biết chứ? Đây là Mê Cung Các Con Gái Của Hải Thần. Có vẻ như anh đã tính toán sai giới hạn của ống thở rồi. Nếu tôi không cứu thì anh đã chết đuối rồi đấy."
 
-Giọng cô gái trẻ thoáng vẻ trách móc. Nếu lời cô ấy nói là thật thì tôi cũng chẳng trách cô ấy được. Tôi đã biết từ Diego rằng ống thở có thể cạn, nên người ta phải để mắt kỹ lưỡng nếu không muốn vùi xác dưới đáy biển làm mồi cho cá. Khoản đó phải nhờ đến người bán đồ nguyền hoặc ai đó có chuyên môn tương tự, bởi nhìn từ bên ngoài ống thở thì rất khó nhận biết. Có lẽ người đàn ông mà tôi... nhập vào chăng? Người đàn ông mà tôi đang thấy ký ức chăng? Có lẽ anh ta đã không làm điều đó. Đánh cược liều lĩnh như vậy quả thực quá đỗi nguy hiểm.
+Giọng cô gái trẻ thoáng vẻ trách móc. Nếu lời cô ấy nói là thật thì tôi cũng chẳng trách cô ấy được. Tôi đã biết từ Diego rằng ống thở có thể cạn, nên người ta phải để mắt kỹ lưỡng nếu không muốn vùi xác dưới đáy biển làm mồi cho cá. Khoản đó phải nhờ đến người bán đồ nguyền hoặc ai đó có chuyên môn tương tự, bởi nhìn từ bên ngoài ống thở thì rất khó nhận biết. Có lẽ người đàn ông mà tôi đang... nhập vào? Hay đúng hơn là người có ký ức tôi đang xem? Có lẽ anh ta đã bỏ qua bước đó. Đánh cược liều lĩnh như vậy quả thực quá đỗi nguy hiểm.
 
 "Thật sao? Nhưng tôi đã cẩn thận kiểm tra chúng rồi mà. Cơ mà tôi có vài cái lận, nên có khi tôi lỡ lấy nhầm cái hỏng chăng..."
 

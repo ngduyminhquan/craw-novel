@@ -88,7 +88,7 @@ Tôi nhún vai. "Cũng chẳng trách họ được," tôi nói. "Tôi tin họ 
 
 Diego gật đầu. "Tôi đoán danh tiếng của mê cung đó cũng chẳng giúp họ đỡ run hơn," anh ấy nói. "Quanh Lucaris có vài mê cung khác, nhưng tương truyền mê cung này chính là lý do thành phố được dựng nên tại chốn này ngay từ thuở đầu."
 
-"Thế sao? Vì sao lại vậy? Nguồn tài nguyên khai thác từ đó thực sự giá trị đến thế ư?" Tôi biết hải linh thảo có thể đổi được một đống tiền đồng kha khá, nhưng chúng chưa đến mức là mỏ vàng đủ để thôi thúc người ta dựng nên cả một thành phố.
+"Thế sao? Vì sao lại vậy? Nguồn tài nguyên khai thác từ đó thực sự giá trị đến thế ư?" Tôi biết hải linh thảo có thể bán được kha khá tiền đồng, nhưng chúng chưa đến mức là mỏ vàng đủ để thôi thúc người ta dựng nên cả một thành phố.
 
 "Không, chẳng phải vì tài nguyên đâu. Thuở xưa, những người đặt nền móng dựng nên Lucaris từng đi qua đây sau khi trốn chạy khỏi một cuộc đại chiến ở phương đông," Diego giải thích. "Đó là lúc họ nghe thấy những giọng nói vọng lại từ biển cả, theo hướng của mê cung. Những giọng nói ấy mách bảo rằng nếu họ dựng một thị trấn cảng ở đây và dũng cảm thâm nhập vào tầng sâu của mê cung, họ sẽ trở nên phồn vinh."
 
@@ -186,7 +186,7 @@ Bản thân tôi từng nếm thử các đòn tấn công của họ rồi. Hai
 
 "Người ta bảo thế thật, nhưng mà..."
 
-Người khác có thể sẽ chê trách họ là lũ hèn nhát nhút nhát, nhưng tôi cho rằng điều này chỉ càng chứng minh danh tiếng đặc biệt của mê cung này trong lòng người dân Lucaris mà thôi. Dẫu vậy, tôi chẳng đời nào chịu hủy chuyến đi dẫu họ có nói gì đi chăng nữa.
+Người khác có thể sẽ chê trách họ là lũ nhát gan, nhưng tôi cho rằng điều này chỉ càng chứng minh danh tiếng đặc biệt của mê cung này trong lòng người dân Lucaris mà thôi. Dẫu vậy, tôi chẳng đời nào chịu hủy chuyến đi dẫu họ có nói gì đi chăng nữa.
 
 "Nghe này—chúng ta sẽ đi," tôi dứt khoát nói. "Không có chuyện thoái thác đâu. Các cậu mang đủ trang bị rồi chứ? Nào, đi thôi." Tôi vỗ mạnh vào lưng cậu ta, giục cậu ta tiến bước ra khỏi tiệm. Lukas và Gahedd vội vã bám theo sau.
 

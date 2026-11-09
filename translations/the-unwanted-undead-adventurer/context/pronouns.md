@@ -663,7 +663,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
 | Mariana | Raul | tôi | anh | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
 | Raul | Mariana | tôi | cô | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
-| Woman in the Black Robe | Rentt Faina | ta | ngươi / Thi Quỷ tiên sinh | 26 | Người phụ nữ bí ẩn bề trên nói chuyện với Rentt (#26, #328) |
+| Woman in the Black Robe | Rentt Faina | ta | ngươi / ngài Thi Quỷ | 26 | Người phụ nữ bí ẩn bề trên nói chuyện với Rentt (#26, #328) |
 | Rentt Faina | Woman in the Black Robe | tôi | cô / người phụ nữ | 26 | Rentt nói chuyện kiêng dè, kính sợ người phụ nữ bí ẩn (#26, #328) |
 
 

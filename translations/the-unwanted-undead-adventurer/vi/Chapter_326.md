@@ -18,13 +18,13 @@ Niedz, Lukas và Gahedd cũng đang đứng cạnh mạn thuyền. Xem chừng h
 
 "Xem ra chúng ta đến sau cùng rồi," Diego bảo. "Mau lên thôi."
 
-Anh ấy rảo bước chạy bước nhỏ, và tôi liền bám theo sau.
+Anh ấy chạy bước nhỏ tới đó, và tôi liền bám theo sau.
 
 ◆◇◆◇◆
 
 "Đến nơi rồi!" Mazlak cất tiếng gọi lớn. "Phần việc của tôi đến đây là xong—giờ chỉ còn chờ các cậu nhảy xuống lặn nữa thôi đấy!"
 
-Chúng tôi đã đi khá xa khỏi Lucaris, xa đến mức thành phố rộng lớn đến thế cũng chẳng còn lọt vào tầm mắt. Xung quanh tôi lúc này chỉ toàn một màu xanh bao la của biển cả. Tít trên cao nơi bầu trời không với tới, mặt trời—kẻ thù tự nhiên của mọi Undead—đang tỏa ánh nắng chói chang.
+Chúng tôi đã đi khá xa khỏi Lucaris, xa đến mức thành phố rộng lớn đến thế cũng chẳng còn lọt vào tầm mắt. Xung quanh tôi lúc này chỉ toàn một màu xanh bao la của biển cả. Tít trên vòm trời xa vời vợi, mặt trời—kẻ thù tự nhiên của mọi Undead—đang tỏa ánh nắng chói chang.
 
 Dù ánh nắng chẳng hề gây tổn hại gì cho tôi, nhưng những Undead hạ cấp nếu bước ra dưới vòm trời này sẽ lập tức hóa thành tro bụi, còn những kẻ đủ mạnh để không chết ngay cũng sẽ bị chậm chạp cử động và suy giảm các giác quan. Rất ít sinh vật của màn đêm có thể khắc phục được ánh sáng ban ngày—và chính vì thế, chúng mới gieo rắc nỗi khiếp sợ xứng đáng với danh tiếng của mình.
 
@@ -32,7 +32,7 @@ Thật là một sự trớ trêu của số phận khi bản thân tôi giờ �
 
 Mazlak tỏ ra rất chắc chắn đây chính là địa điểm cần đến, nhưng hẳn ông ấy phải biết điều gì đó mà tôi không tường tận, bởi vài mét nước mà tôi nhìn xuyên qua được trông chẳng khác gì bất kỳ vùng biển nào khác xung quanh. Dĩ nhiên, mê cung nằm tít sâu dưới đáy—chúng tôi sẽ phải tự mình lặn xuống và bơi hết quãng đường còn lại bằng sức của bản thân.
 
-Về mặt đó, tương quan mà nói thì tôi lại là người vất vả nhất, bởi trên người tôi chẳng có mấy thứ đủ nặng để kéo mình chìm xuống. Những người khác thì không gặp mấy khó khăn khi lặn nhờ lớp giáp nặng nề đang mặc. Thành thật mà nói, tôi chẳng rõ nhóm Niedz, Lukas và Gahedd là đang lặn hay đang chìm nghỉm nữa, nhưng tôi sẽ để mắt trông chừng để hỗ trợ nếu thấy họ gặp rắc rối. Ít nhất thì chẳng phải lo chuyện họ chết đuối, vì Diego đã đưa cho mỗi người một chiếc ống thở. Còn về nguy cơ bị áp lực nước nghiền nát thì, ừm... tôi chỉ biết đặt niềm tin vào độ bền bỉ của họ mà thôi.
+Về mặt đó, so ra thì tôi lại là người vất vả nhất, bởi trên người tôi chẳng có mấy thứ đủ nặng để kéo mình chìm xuống. Những người khác thì không gặp mấy khó khăn khi lặn nhờ lớp giáp nặng nề đang mặc. Thành thật mà nói, tôi chẳng rõ nhóm Niedz, Lukas và Gahedd là đang lặn hay đang chìm nghỉm nữa, nhưng tôi sẽ để mắt trông chừng để hỗ trợ nếu thấy họ gặp rắc rối. Ít nhất thì chẳng phải lo chuyện họ chết đuối, vì Diego đã đưa cho mỗi người một chiếc ống thở. Còn về nguy cơ bị áp lực nước nghiền nát thì, ừm... tôi chỉ biết đặt niềm tin vào độ bền bỉ của họ mà thôi.
 
 Capitan thì không sao rồi, vì chú ấy có thể dùng Khí Lực gia cố cơ thể, còn Diego là thú nhân nên vốn đã có thể chất cứng cáp sẵn. Tuy nhiên, vì Niedz cùng hai người bạn là người bình thường, nên việc chỉ dựa vào sức chống chịu thể xác đơn thuần e là khó lòng ổn thỏa. Dĩ nhiên họ vẫn có thể đáp ứng mức tối thiểu của mạo hiểm giả là cường hóa bản thân bằng Ma Lực—vấn đề chỉ là họ chịu đựng được đến đâu mà thôi.
 
@@ -102,7 +102,7 @@ Thật nhẹ nhõm khi thấy cả nhóm đã tới nơi an toàn mà không ai 
 
 Nhắc đến mê cung, chúng tôi đã đến nơi rồi. Sáu ngọn đèn biển của chúng tôi soi tỏ lối vào của nó—ít nhất là một phần. Lối vào ấy quá đỗi đồ sộ khiến ánh sáng không tài nào bao quát hết được. Nhóm Niedz, Lukas và Gahedd vì chưa từng thấy cảnh tượng này bao giờ nên đang trố mắt kinh ngạc.
 
-Nhìn tổng thể, Mê Cung Các Con Gái Của Hải Thần trông giống như một ngôi đền đá khổng lồ. Kỳ lạ thay, các cột trụ và phần mái của nó lại bị bao phủ bởi những loài thực vật dạng dây leo trông chẳng khác nào đồng loại của chúng trên cạn. Kết hợp với những khóm san hô đồ sộ mọc ken dày vào từng khoảng trống có thể, quang cảnh nơi đây quả thực mang một vẻ kỳ ảo diệu kỳ.
+Nhìn tổng thể, Mê Cung Các Con Gái Của Hải Thần trông giống như một ngôi đền đá khổng lồ. Kỳ lạ thay, các cột trụ và phần mái của nó lại bị bao phủ bởi những loài thực vật dạng dây leo trông chẳng khác nào đồng loại của chúng trên cạn. Kết hợp với những khóm san hô đồ sộ mọc ken dày vào từng khoảng trống có thể, quang cảnh nơi đây quả thực đẹp một cách kỳ ảo.
 
 Dù xung quanh dường như không có quái vật hung hãn nào lởn vởn, nhưng lại có một con quái thú khổng lồ dạng cá đang lờ đờ bơi lượn quanh khu vực mê cung, to đến mức nếu nổi hứng, nó thừa sức nuốt chửng cả sáu người chúng tôi chỉ bằng một cú đớp.
 
@@ -120,6 +120,6 @@ Liệu đây là do mê cung bẻ cong quy luật tự nhiên, hay những loài
 
 Tuy nhiên, tôi thấy Lukas ngắt lấy vài bông hoa, nên có lẽ chúng tương đối quen thuộc ở Lucaris. Tôi thầm ghi nhớ để lát nữa sẽ hỏi cậu ta về chuyện đó—chắc chắn có đủ thứ mà cậu ta biết còn tôi thì mù tịt. Nếu có thể chia sẻ kiến thức cho nhau thì sẽ mang lại lợi ích cho cả hai bên.
 
-Sáu người chúng tôi đã tới được lối vào mê cung. Dù không hẳn là nhỏ so với vóc người chúng tôi, nhưng nó lại đủ nhỏ để trông có vẻ cọc cạch trước kích thước đồ sộ của mê cung. Nó cũng chẳng nằm ở vị trí chính giữa mà lại nép ở góc xa. Tôi tự hỏi vì sao lại như vậy.
+Sáu người chúng tôi đã tới được lối vào mê cung. Dù không hẳn là nhỏ so với vóc người chúng tôi, nhưng đặt cạnh kích thước đồ sộ của mê cung thì nó lại nhỏ đến mức trông lạc quẻ. Nó cũng chẳng nằm ở vị trí chính giữa mà lại nép ở góc xa. Tôi tự hỏi vì sao lại như vậy.
 
 Tuy nhiên, vì cả nhóm vẫn đang chìm trong làn nước, nên chẳng ai có thể giải đáp thắc mắc của tôi lúc này. Capitan ra hiệu bảo chúng tôi tiến lên, và cả nhóm liền bám theo chú ấy.

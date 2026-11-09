@@ -18,7 +18,7 @@ Xem chừng Capitan đã giải thích trước kế hoạch cho ông ấy rồi
 
 Tôi đã dặn dò kỹ là không được thất lễ rồi cơ mà. Trước khi cậu ta kịp thốt thêm câu nào, tôi đã giơ tay định đét cho một phát vào sau gáy.
 
-Nhận thấy cử chỉ của tôi, Mazlak xua xua tay. "Không sao đâu," ông lão nói, vẻ mặt chẳng hề phật ý. "Cậu ta nói đâu có sai về tuổi tác của tôi, gặp lần đầu thì chính tôi cũng chẳng tin nổi mình. Cơ mà nể mặt tôi chút, cứ đợi đến khi bước lên thuyền và tận mắt thấy tay nghề của tôi rồi hẵng phán xét. Đã là mạo hiểm giả, chắc các cậu cũng hiểu tuổi tác đâu phải là tất cả chứ hả?"
+Nhận thấy cử chỉ của tôi, Mazlak xua xua tay. "Không sao đâu," ông lão nói, vẻ mặt chẳng hề phật ý. "Cậu ta nói đâu có sai về tuổi tác của tôi, nếu là tôi thì lần đầu gặp cũng chẳng tin nổi một lão già như mình đâu. Cơ mà nể mặt tôi chút, cứ đợi đến khi bước lên thuyền và tận mắt thấy tay nghề của tôi rồi hẵng phán xét. Đã là mạo hiểm giả, chắc các cậu cũng hiểu tuổi tác đâu phải là tất cả chứ hả?"
 
 Ông ấy nói chẳng sai. Không riêng gì Ngân Cấp, mà ngay cả ở Kim Cấp và Bạch Kim Cấp cũng có không ít mạo hiểm giả lớn tuổi. Đúng là một số người chỉ đơn thuần ngồi mát ăn bát vàng nhờ danh tiếng thăng hạng thời trẻ, nhưng rất nhiều người trong số họ vẫn sở hữu thực lực vững vàng xứng tầm.
 

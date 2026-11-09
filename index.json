@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T15:07:32Z",
+  "generatedAt": "2026-11-09T15:11:41Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4082,7 +4082,7 @@
           "number": 320,
           "title": "Chương 320: Tập 14 Chương 1 - Thầy và Trò (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_320.md",
-          "sha": "b2d0d5b7825cbaac26fc2cb27b8baaa5ceccab3c"
+          "sha": "742e8fd1e9462079efbb21e8678c87e86b318536"
         },
         {
           "number": 321,
@@ -4100,37 +4100,37 @@
           "number": 323,
           "title": "Chương 323: Tập 14 Chương 1 - Thầy và Trò (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_323.md",
-          "sha": "9a00bb9a3b82a81d7cf6057aab9501e92ccd2880"
+          "sha": "e55c1860397d408b88582c02718480a838134dc3"
         },
         {
           "number": 324,
           "title": "Chương 324: Tập 14 Chương 1 - Thầy và Trò (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_324.md",
-          "sha": "2ec583d77682c4f38989badacfef178fbb3887b9"
+          "sha": "96748a1818019dc3351ca2a44635c41c38cb1f65"
         },
         {
           "number": 325,
           "title": "Chương 325: Tập 14 Chương 2 - Thám Hiểm Mê Cung (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_325.md",
-          "sha": "927338e712cec893063a6c76735b7d2b347a2abd"
+          "sha": "04a8e111331306a74a6bb0b1774951f408355dd5"
         },
         {
           "number": 326,
           "title": "Chương 326: Tập 14 Chương 2 - Thám Hiểm Mê Cung (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_326.md",
-          "sha": "77007a6a7a4b16267c95dc48ca1c4f39cb4ab852"
+          "sha": "29ebf71434f9d6c357bb857b9aa8f45a639f758e"
         },
         {
           "number": 327,
           "title": "Chương 327: Tập 14 Chương 2 - Thám Hiểm Mê Cung (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_327.md",
-          "sha": "81c33397c3a0537260a367e080fadabb92f5a2f4"
+          "sha": "3952a082ebed0b492560ea5d3b1cc02ab05620ab"
         },
         {
           "number": 328,
           "title": "Chương 328: Tập 14 Chương 2 - Thám Hiểm Mê Cung (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_328.md",
-          "sha": "0d03e64a29e40b785cf2075f9cb40e1dbd6031d7"
+          "sha": "aa78c026f6a5e19da33350122c9bd779ef51978f"
         }
       ]
     },

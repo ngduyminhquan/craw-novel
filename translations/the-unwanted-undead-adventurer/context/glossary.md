@@ -550,7 +550,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Giza |  | Giza | khác | 325 | Vị thần của thi nhân kiêm thần lạc thú (deity of bards / god of pleasure) |
 | sea lamp | sea lamps | đèn biển | vật phẩm | 326 | Nguyền Cụ phát sáng vô hạn dưới nước nhưng có nguy cơ phát nổ nếu dùng trên cạn |
 | Lesser Sahagin | lesser sahagin; lesser sahagins; Lesser Sahagins; sahagin; Sahagin | Hạ Cấp Sahagin | quái vật | 328 | Quái vật người cá cấp thấp sống dưới biển và trong mê cung ngập nước (サハギン/下級サハギン) |
-| Mister Thrall |  | Thi Quỷ tiên sinh | danh hiệu | 328 | Biệt danh trêu chọc người phụ nữ tóc trắng áo chùng đen gọi Rentt khi tái ngộ |
+| Mister Thrall |  | ngài Thi Quỷ | danh hiệu | 328 | Biệt danh trêu chọc người phụ nữ tóc trắng áo chùng đen gọi Rentt khi tái ngộ |
 
 
 

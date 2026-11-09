@@ -26,7 +26,7 @@ Thực ra, dù bà Gharb từng dạy tôi rất nhiều về thảo dược h�
 
 Đó hoàn toàn không phải vì bà Gharb toan tính hay lạnh lùng gì với tôi—ngược lại là đằng khác. Đơn giản là việc gì phải dạy cho người ta một ngón nghề mà họ vốn chẳng đủ sức thực hành, đúng chứ? Còn riêng về khoản thảo dược học, bà là một người thầy tận tâm hơn bất kỳ ai, luôn rèn giũa cho tôi từng li từng tí một.
 
-Ngoảnh đầu nhìn lại, tôi thấy công ơn dạy dỗ ấy có ý nghĩa lớn lao đến mức nào đối với sự trưởng thành của mình. Trữ lượng Ma Lực và Khí Lực của tôi ngày ấy quả thực bé tí hin, và tôi chỉ có thể chật vật mưu sinh qua những năm tháng đầu của đời mạo hiểm giả là nhờ vào vốn liếng của một dược sư.
+Ngoảnh đầu nhìn lại, tôi thấy công ơn dạy dỗ ấy có ý nghĩa lớn lao đến mức nào đối với sự trưởng thành của mình. Trữ lượng Ma Lực và Khí Lực của tôi ngày ấy quả thực bé tí hin, và tôi chỉ có thể chật vật mưu sinh qua những năm tháng đầu của đời mạo hiểm giả là nhờ vào ngón nghề thảo dược.
 
 Quay trở lại chuyện tôi đã thay đổi những gì trong thang nước ngâm kia, nói ngắn gọn là tôi đã tăng cường dược tính của nó lên mạnh hơn. Thông thường, việc này thuộc phạm trù của thuật giả kim hơn là thảo dược học, bởi nó đòi hỏi phải truyền Ma Lực vào hỗn hợp thuốc. Điều đó đồng nghĩa với việc thành phẩm tạo ra sẽ là một bình ma dược thực thụ.
 
@@ -54,7 +54,7 @@ Theo tính toán của tôi, đòn đánh tôi giáng vào vật thí nghiệm n
 
 Cơ mà nếu thuốc ngâm không có tác dụng, tôi vẫn sẽ dùng Thần Lực thôi. Thề đấy.
 
-"Anh tốt tính quá mức rồi đấy nhỉ?" người đàn ông nói, chẳng hề hay biết những suy nghĩ trong đầu tôi. "Tôi đã tấn công anh. Chuyện đó rành rành ra rồi. Vậy nên... cớ sao lại chữa thương cho tôi?"
+"Anh tốt tính quá mức rồi đấy nhỉ?" người đàn ông nói, chẳng hề hay biết những suy nghĩ trong đầu tôi. "Tôi đã tấn công anh. Chuyện đó rành rành ra rồi. Vậy nên... sao lại chữa thương cho tôi?"
 
 Tôi không dám chắc mình có đủ tư cách được gọi là "tốt tính" hay không, khi mà tôi vừa dùng cậu ta làm vật thí nghiệm mà cậu ta chẳng hề hay biết, nhưng nếu cậu ta đã không nhận ra mình vừa làm chuột bạch thì tôi cũng chẳng việc gì phải nói toạc ra làm gì. "Nếu thấy các cậu thật sự là lũ bại hoại hết thuốc chữa, tôi đã giải các cậu tới chỗ lính canh rồi," tôi giải thích. "Nhưng tôi không có cảm giác đó. Hai người bạn tỉnh lại trước của cậu trông cũng đâu đến nỗi xấu xa. Thế nên chữa vài vết thương cỏn con thì có sao đâu, đúng chứ?"
 
