@@ -1026,3 +1026,9 @@ Capitan giải thích nguyên nhân tộc ngư nhân rút về đáy biển và 
 Trước tình trạng hải linh thảo ở các tầng nông đã cạn kiệt, Rentt đề nghị sẽ cùng bộ ba Niedz phụ giúp tìm kiếm, đổi lại Capitan sẽ hỗ trợ rèn giũa kỹ năng chiến đấu và truyền dạy nền tảng Khí Lực cho cả nhóm.
 Capitan đi báo cáo ủy thác ở Hội và hẹn gặp tại quán rượu cùng người thủy thủ; Rentt quay lại tiệm đồ nguyền rủ Diego cùng nhóm Niedz tham gia chầu rượu làm quen trước chuyến thám hiểm.
 Cảnh kết thúc: Gahedd nghiêm túc nhận lãnh trách nhiệm giữ tỉnh táo để ghìm cương Niedz và Lukas không quậy phá khi uống say, cả nhóm chuẩn bị lên đường tới quán rượu.
+
+## 324
+Rentt dẫn Diego cùng nhóm ba người Niedz tới quán rượu gặp Capitan và làm quen với người thủy thủ kỳ cựu Mazlak; sau khi Niedz hoài nghi tuổi tác của Mazlak rồi thành thật nhận lỗi, Mazlak khen ngợi sự chân thành và chia sẻ về nghị lực của người đi biển.
+Mazlak tiết lộ từng là bạn lâu năm của Raul Malga (cha quá cố của Diego); khi Mazlak nhắc đến người mẹ quá cố Mariana, Diego tế nhị chuyển chỗ ngồi nghe hát rong để tránh gợi lại chuyện buồn gia đình.
+Nhóm thống nhất danh sách đi thuyền thám hiểm Mê Cung Các Con Gái Của Hải Thần và sẵn sàng để Diego tham gia nếu anh muốn tự mình nghiên cứu nguồn gốc Nguyền Cụ; Capitan đồng ý chia sẻ toàn bộ Nguyền Cụ tìm được trừ vài món làm quà cho bà Gharb.
+Cảnh kết thúc: Capitan và Rentt thông báo sẽ bắt đầu khóa huấn luyện thể lực cùng kinh nghiệm thực chiến khắc nghiệt cho bộ ba Niedz trước khi xuống mê cung, khiến Niedz không khỏi hoang mang lo lắng.

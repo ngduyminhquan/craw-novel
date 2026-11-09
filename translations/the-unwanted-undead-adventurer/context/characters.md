@@ -169,6 +169,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lukas |  | Lukas | Mạo hiểm giả Đồng Cấp dáng lùn béo tại Lucaris, bạn thân của Niedz, am hiểu thảo dược | #319 |
 | Skullface |  | Mặt Đầu Lâu | Biệt danh Niedz và Diego dùng để gọi Rentt Faina khi đeo mặt nạ đầu lâu | #319 |
 | Mazlak |  | Mazlak | Thủy thủ kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần | #321 |
+| Mariana |  | Mariana | Người mẹ quá cố của Diego Malga, vợ của Raul Malga | #324 |
 
 
 
@@ -1033,6 +1034,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách & kỹ năng: Tháo vát, dày dạn kinh nghiệm đi biển, biết lái thuyền do sinh vật kéo vượt qua vùng biển ngược gió và thoát khỏi sự truy đuổi của quái vật (#321).
 - Quan hệ: Được Capitan thuê thuyền riêng để đưa đón vào Mê Cung Các Con Gái Của Hải Thần; cùng Capitan trò chuyện thoải mái và rủ nhau đi uống rượu (#321).
 - Xuất hiện từ: #321.
+
+### Mariana
+- Thân phận: Nữ, người mẹ quá cố của Diego Malga, vợ của Raul Malga (#324).
+- Xuất hiện từ: #324.
 
 
 

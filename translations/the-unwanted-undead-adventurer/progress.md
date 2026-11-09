@@ -328,7 +328,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | reviewed |  |
 | 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | reviewed |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | done |  |
-| 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | todo |  |
+| 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | done |  |
 | 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | todo |  |
 | 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | todo |  |
 | 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -1010,3 +1011,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#321] Dịch 'air tube' (Nguyền Cụ dạng ống thủy tinh hỗ trợ thở dưới nước tại Lucaris) — tạm chọn 'ống thở' (phương án khác: 'ống lấy khí', 'ống dẫn khí') → Chốt dùng 'ống thở' (orchestrator)
 - [#322] Thuật ngữ 'Vampire Sovereign': tạm dùng 'Quân Chủ Ma Cà Rồng' (nhất quán với danh hiệu 'Sovereign' → 'Quân Chủ' ở #191 và 'Vampire King' → 'Vua Ma Cà Rồng' ở #273; phương án khác: 'Ma Cà Rồng Quân Chủ'). → Chốt dùng 'Quân Chủ Ma Cà Rồng' (orchestrator)
 - [#323] Dịch 'kelpie riders' trong đối thoại giữa Capitan và Rentt — tạm chọn 'kỵ sĩ cưỡi Kelpie' / 'lũ kỵ sĩ cưỡi Kelpie' (đồng bộ với #321; phương án khác: 'Hải Kỵ Sĩ cưỡi Kelpie', 'kỵ binh Kelpie'). Tạm dùng trong bản dịch: 'kỵ sĩ cưỡi Kelpie' / 'lũ kỵ sĩ cưỡi Kelpie'. → Chốt dùng 'kỵ sĩ cưỡi Kelpie' (orchestrator)
+- [#324] Xưng hô giữa Niedz và Mazlak: Niedz xưng 'tôi', gọi 'ông / thưa bác' (raw: 'Sir'); Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc' (raw: 'lad') → Tạm dùng: Niedz xưng 'tôi', gọi 'ông / thưa bác'; Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc'. → Chốt dùng Niedz xưng 'tôi', gọi 'ông / thưa bác'; Mazlak xưng 'tôi', gọi 'cậu / cậu nhóc' (orchestrator)

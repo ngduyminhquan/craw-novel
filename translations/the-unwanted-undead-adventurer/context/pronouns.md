@@ -130,6 +130,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gahedd | Gahedd / anh chàng / cậu ta | 319 | Mạo hiểm giả Đồng Cấp cao gầy, bạn của Niedz |
 | Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |
 | Mazlak | Mazlak / người thủy thủ / anh chàng / anh ta | 321 | Thủy thủ kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan |
+| Mazlak | Mazlak / người thủy thủ già / ông lão / ông ấy | 324 | Thủy thủ kỳ cựu tại Lucaris, lái thuyền đưa đón nhóm Rentt (góc nhìn của Rentt) |
 
 
 
@@ -651,6 +652,14 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gahedd | Rentt Faina | tôi / bọn tôi | anh / Rentt / Đại ca Rentt | 320 | Mạo hiểm giả cấp thấp cảm kích và tôn trọng mạo hiểm giả tiền bối |
 | Capitan | Mazlak | tôi | cậu / Mazlak | 321 | Khách thuê thuyền đi thám hiểm mê cung nói chuyện với người lái thuyền |
 | Mazlak | Capitan | tôi | anh / Capitan | 321 | Người lái thuyền nói chuyện với mạo hiểm giả thuê mình |
+| Rentt Faina | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả nói chuyện với người lái thuyền lớn tuổi |
+| Mazlak | Rentt Faina | tôi | cậu / Rentt | 324 | Người lái thuyền lớn tuổi nói chuyện với mạo hiểm giả trẻ |
+| Diego Malga | Mazlak | tôi | ông / Mazlak | 324 | Khách quen quen biết từ nhỏ nói chuyện với người lái thuyền già |
+| Mazlak | Diego Malga | tôi | cậu / Diego | 324 | Người lái thuyền già nói chuyện với người quen từ bé |
+| Niedz | Mazlak | tôi | ông / Mazlak / bác | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
+| Mazlak | Niedz | tôi | cậu | 324 | Người lái thuyền lớn tuổi nói chuyện với mạo hiểm giả trẻ |
+| Gahedd | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
+| Lukas | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
 
 
 
