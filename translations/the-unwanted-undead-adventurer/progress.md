@@ -287,7 +287,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | reviewed |  |
 | 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | reviewed |  |
 | 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | reviewed |  |
-| 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | done |  |
+| 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | reviewed |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | todo |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | todo |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | todo |  |

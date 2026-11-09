@@ -10,21 +10,21 @@ Rina nhận thấy mình hoàn toàn đồng tình, nhớ lại rằng dù Rentt
 
 Lời khuyên đó cũng áp dụng cho thương nhân và các ngôi làng—thực tế thì, khi giao tiếp với người khác nói chung, nền tảng cốt lõi đều như nhau trong mọi hoàn cảnh, Rina thầm nghĩ. Cô đã học hỏi được rất nhiều từ việc phụ giúp Dorothea bán hàng.
 
-Về phần bản thân nữ thương nhân, cô đã phát hiện một loài thực vật đặc biệt giữa đống nguyên liệu mua từ lũ trẻ, và điều đó nảy ra một ý tưởng—một ý tưởng mà cô bắt đầu nghiêm túc suy ngẫm. Khi cô hỏi bọn trẻ nơi chúng đã thu hái loài cây đó, chúng liền vui vẻ đồng ý dẫn đường và bắt đầu dẫn lối tiến vào rừng.
+Còn về phần nữ thương nhân, cô đã phát hiện một loài thực vật đặc biệt giữa đống nguyên liệu mua từ lũ trẻ, và điều đó làm cô nảy ra một ý tưởng—một ý tưởng mà cô bắt đầu nghiêm túc suy ngẫm. Khi cô hỏi bọn trẻ nơi chúng đã thu hái loài cây đó, chúng liền vui vẻ nhận lời chỉ chỗ và dẫn đường tiến vào rừng.
 
 "Lối này ạ!"
 
-Những cánh rừng ở vùng này tương đối ít quái vật, và phần lớn những con tìm thấy ở đó đều thuộc chủng loại di chuyển chậm chạp. Dẫu vậy, rừng rú vẫn không phải là nơi để lũ trẻ thơ thẩn đi dạo một mình. Vì dân làng cảm thấy không yên tâm khi để một mình Rina làm hộ vệ cho bọn trẻ, họ phải nhờ một thợ săn trong làng đi cùng thì mới được phép đi.
+Những cánh rừng ở vùng này tương đối ít quái vật, và phần lớn những con tìm thấy ở đó đều thuộc chủng loại di chuyển chậm chạp. Dẫu vậy, rừng rú vẫn không phải là nơi để lũ trẻ thơ thẩn đi dạo một mình. Vì dân làng cảm thấy không yên tâm khi để một mình Rina làm hộ vệ cho bọn trẻ, nhóm Dorothea phải nhờ một thợ săn trong làng đi cùng thì mới được phép lên đường.
 
-Đối với một người bình thường, sức mạnh của mạo hiểm giả chẳng khác nào quái vật, kể cả khi mạo hiểm giả đó chỉ thuộc Thiết Cấp như Rina. Nói chung, ngay cả khi một ngôi làng tự tin vào khả năng chống trả mọi mối đe dọa, thì dù những cư dân khỏe nhất của họ có nỗ lực đến đâu cũng không thể vượt quá trình độ của một mạo hiểm giả Thiết Cấp dày dạn kinh nghiệm. Thế nên tuy việc có một cá nhân như vậy làm hộ vệ sẽ hoàn toàn bảo đảm an toàn cho những người cần bảo vệ ở một khu vực như thế này, nhưng điều đó không đồng nghĩa với việc dân làng thực sự tin tưởng một mạo hiểm giả—đó là lý do người thợ săn trong làng đi cùng họ. Và dẫu người thợ săn—một người đàn ông tên là Zein—có lẽ chẳng đóng góp được nhiều trong một trận chiến, nhưng anh lại am hiểu địa bàn hơn và do đó có thể đóng vai trò dẫn đường. Tựu trung lại, có anh đi cùng mang lại lợi ích cho tất cả những người liên quan.
+Đối với một người bình thường, sức mạnh của mạo hiểm giả chẳng khác nào quái vật, kể cả khi mạo hiểm giả đó chỉ thuộc Thiết Cấp như Rina. Nói chung, ngay cả khi một ngôi làng tự tin vào khả năng chống trả mọi mối đe dọa, thì dù những cư dân khỏe nhất của họ có nỗ lực đến đâu cũng không thể vượt quá trình độ của một mạo hiểm giả Thiết Cấp dày dạn kinh nghiệm. Thế nên ở một khu vực như thế này, dù có một người như vậy làm hộ vệ thì sự an toàn của cả nhóm đã hoàn toàn được bảo đảm, nhưng điều đó không có nghĩa là dân làng thực sự tin tưởng một mạo hiểm giả—đó là lý do người thợ săn trong làng đi cùng họ. Và dẫu người thợ săn—một người đàn ông tên là Zein—có lẽ chẳng đóng góp được nhiều trong một trận chiến, nhưng anh lại am hiểu địa bàn hơn và do đó có thể đóng vai trò dẫn đường. Tựu trung lại, có anh đi cùng mang lại lợi ích cho tất cả những người liên quan.
 
-"Nói thật thì loài cỏ này có giá trị đến thế sao?" Zein hỏi khi họ rảo bước qua cánh rừng. "Chúng tôi thấy nó mọc rải rác quanh đây, nhưng chưa bao giờ để ý tới cả."
+"Mà loại cỏ này có giá trị đến thế thật sao?" Zein hỏi khi họ rảo bước qua cánh rừng. "Chúng tôi thấy nó mọc rải rác quanh đây, nhưng chưa bao giờ để ý tới cả."
 
 "Cho tới cách đây không lâu, nó vẫn hoàn toàn vô giá trị," Dorothea giải thích. "Nhưng từ khi người ta phát hiện ra nó có thể dùng trong một loại thuốc xua đuổi quái vật mới, giá của nó đã tăng vọt. Đương nhiên các công hội nhà giả kim đang giấu nhẹm phương pháp sản xuất, nhưng chắc chắn loài cỏ này hiện là một món hàng giá trị—nhất là khi tôi nghe nói loại thuốc xua đuổi mới này là hiệu nghiệm nhất từ trước tới nay. Đó là tin tức sốt dẻo trong giới thương nhân—dù thành phẩm đắt đỏ đến mức người như tôi chẳng mấy khi dư dả để sử dụng thường xuyên."
 
 "Thật vậy sao! Thế mới thấy tin tức chẳng mấy khi truyền tới nơi hẻo lánh này. Giờ tôi mới nghe nói lần đầu đấy."
 
-"Chuyện đó thực sự mới diễn ra gần đây thôi. Nghe đâu người phát minh thực chất là một nhà giả kim đến từ Maalt, dù tên tuổi của họ chưa được công bố rộng rãi. Việc sử dụng loại thuốc xua đuổi này đã lan rộng khắp Đế Quốc Rermutt, và mới chỉ bắt đầu thịnh hành ở Vương Quốc Yaaran, nên việc anh không biết cũng chẳng có gì lạ. Anh cứ thoải mái truyền tin này đi—dù sao vùng này về cơ bản cũng cùng khu vực với Maalt mà."
+"Chuyện đó thực sự mới diễn ra gần đây thôi. Nghe đâu người phát minh thực chất là một nhà giả kim đến từ Maalt, dù tên tuổi của người đó chưa được công bố rộng rãi. Loại thuốc xua đuổi này đã được dùng rộng rãi khắp Đế Quốc Rermutt, và mới chỉ bắt đầu thịnh hành ở Vương Quốc Yaaran, nên anh không biết cũng chẳng có gì lạ. Anh cứ thoải mái truyền tin này đi—dù sao vùng này về cơ bản cũng cùng khu vực với Maalt mà."
 
 Lắng nghe cuộc trò chuyện của họ, Rina chợt nhớ tới một nhà giả kim nọ có mối liên hệ mật thiết với cả Maalt lẫn Đế Quốc Rermutt. Cách đây không lâu, cô từng tận mắt chứng kiến chính nhà giả kim ấy nhỏ một loại chất lỏng màu xanh lục lên các mẫu da của Rentt mà cô ấy đang nuôi cấy trên bàn làm việc.
 
@@ -32,7 +32,7 @@ Lắng nghe cuộc trò chuyện của họ, Rina chợt nhớ tới một nhà 
 
 Tế bào của Rentt—thứ dường như vẫn sống sót ngay cả khi bị tách rời khỏi cơ thể anh—có khả năng cử động, và sẽ tái hợp nhất nếu tiếp xúc lại với anh. Tế bào của Rina cũng tương tự như vậy, ít nhất là kể từ sau khi cô bị biến thành quái vật, và đó cũng là đặc tính của Ma Cà Rồng nói chung. Tuy nhiên, không giống như tế bào của cô và của các Ma Cà Rồng khác, vốn sẽ vỡ vụn và biến thành một chất giống như tro nếu bị tách khỏi cơ thể quá lâu với một lượng nhỏ, tế bào của Rentt lại duy trì sự sống trong một thời gian dài.
 
-Theo lời Lorraine, điều đó khiến chúng trở thành đối tượng thí nghiệm vô cùng thú vị. Tuy nhiên, vì chúng quá đỗi độc nhất vô nhị để kết quả thu được có thể áp dụng rộng rãi hơn, cô ấy cũng đã sử dụng cả tế bào của Rina lẫn tế bào của những con quái vật quanh vùng.
+Theo lời Lorraine, điều đó khiến chúng trở thành đối tượng thí nghiệm vô cùng thú vị. Tuy nhiên, vì chúng quá đỗi đặc thù nên kết quả thu được khó mà áp dụng rộng rãi hơn, thành thử cô cũng đã sử dụng cả tế bào của Rina lẫn tế bào của những con quái vật quanh vùng.
 
 Trong buổi thí nghiệm cụ thể mà Rina đang nhớ lại, tế bào của Rentt đã ngọ nguậy trên bàn làm việc của Lorraine, cố trốn thoát khỏi thứ chất lỏng màu xanh lục. Nếu cô nhớ không lầm thì Lorraine còn nói...
 
@@ -58,7 +58,7 @@ Khi tiến lại gần hơn một chút, mùi hương đặc trưng của loài 
 
 A, Rina thầm nghĩ. Chắc mình cũng bị tính là thứ mà người ta muốn tránh xa nhỉ?
 
-Điều đó khiến cô hơi buồn một chút, nhưng cô nhanh chóng chấp nhận sự thật. Cô chỉ coi đó là minh chứng cho thấy tác dụng có hiệu quả. Nhớ lại chuyện vùng này có mật độ quái vật rất thấp, cô tự hỏi liệu có phải là do tất cả số cỏ afto mọc quanh đây đã xua đuổi chúng đi hay không.
+Điều đó khiến cô hơi buồn một chút, nhưng cô nhanh chóng chấp nhận sự thật. Cô chỉ coi đó là minh chứng cho thấy công dụng của nó thực sự hiệu quả. Nhớ lại chuyện vùng này có mật độ quái vật rất thấp, cô tự hỏi liệu có phải là do tất cả số cỏ afto mọc quanh đây đã xua đuổi chúng đi hay không.
 
 "Được rồi, chắc chúng ta nên bắt đầu thu hoạch thôi nhỉ," Dorothea xắn tay áo lên và bắt đầu ngắt cỏ, nói với lũ trẻ. "Các cháu gom được bao nhiêu cô sẽ mua lại hết bấy nhiêu, nên chúng ta cùng bắt tay vào làm nào."
 
@@ -76,9 +76,9 @@ Việc thu hoạch cỏ afto diễn ra thuận lợi.
 
 Dù vậy, đây giống một cuộc "hái chọn lọc" hơn là "thu hoạch". Thay vì nhổ sạch cả khu vực, họ để lại khoảng cách giữa các bụi cỏ hái được và chú ý không lấy quá nhiều.
 
-Ngay cả Rina cũng biết vì sao họ lại làm theo cách đó—Rentt đã luôn khắc sâu cho cô tầm quan trọng của sự điều độ đối với các nhiệm vụ thu thập. Những loài thực vật có giá trị, đóng vai trò thiết yếu đối với sự cân bằng thảm thực vật trong vùng vân vân, mọc ở những địa điểm nhất định đều có lý do của nó. Nếu bị nhổ sạch sành sanh, điều đó sẽ dẫn tới đủ loại vấn đề. Thêm vào đó, đây cũng là cách làm thiển cận của mạo hiểm giả, bởi nó có thể đồng nghĩa với việc lần tới khi nhận công việc tương tự, họ sẽ chẳng còn tìm thấy cây cỏ ở đâu nữa.
+Ngay cả Rina cũng biết vì sao họ lại làm theo cách đó—Rentt đã luôn dặn kỹ để cô khắc sâu tầm quan trọng của sự chừng mực khi làm các nhiệm vụ thu hái. Những loài thực vật có giá trị hay đóng vai trò thiết yếu trong việc cân bằng thảm thực vật của vùng mọc ở những địa điểm nhất định đều có lý do cả. Nếu chúng bị nhổ sạch sành sanh thì sẽ dẫn tới đủ thứ rắc rối. Thêm vào đó, đây cũng là cách làm thiển cận của mạo hiểm giả, bởi nó có thể đồng nghĩa với việc lần tới khi nhận công việc tương tự, họ sẽ chẳng còn tìm thấy cây cỏ ở đâu nữa.
 
-"Một mạo hiểm giả thông minh sẽ biết nhiều điểm thu hoạch khác nhau và luân chuyển giữa các điểm đó, chú ý không hái quá nhiều để phần còn lại có thể phát triển trở lại lượng thông thường một cách tương đối nhanh chóng."
+"Một mạo hiểm giả thông minh sẽ biết nhiều điểm thu hoạch khác nhau và luân chuyển giữa các điểm đó, chú ý không hái quá nhiều để phần còn lại có thể sớm mọc lại nhiều như cũ."
 
 Và trong khi Rina từng băn khoăn liệu mình có nên giải thích điều đó cho Dorothea và lũ trẻ khi họ bắt đầu ngắt cỏ hay không...
 
@@ -88,11 +88,11 @@ Và trong khi Rina từng băn khoăn liệu mình có nên giải thích điề
 
 ...lũ trẻ dường như đã nắm rất rõ điều đó từ trước rồi.
 
-"Hái thảo dược là công việc đủ đơn giản để chúng tôi cho lũ trẻ phụ giúp," Zein nói khi nhận thấy Rina tỏ vẻ ấn tượng. "Đề phòng cô thắc mắc bọn trẻ học được mấy thứ đó từ đâu. Chà, một phần lý do chúng học thuộc nhanh như thế là vì muốn khoe kiến thức với người khác nữa, nên là..." Zein cười trừ.
+"Hái thảo dược là công việc đủ đơn giản để chúng tôi cho lũ trẻ phụ giúp," Zein nói khi nhận thấy Rina tỏ vẻ ấn tượng. "Chắc cô đang thắc mắc bọn trẻ học được mấy thứ đó từ đâu nhỉ. Chà, một phần lý do chúng học thuộc nhanh như thế là vì muốn khoe kiến thức với người khác nữa, nên là..." Zein cười trừ.
 
 Rina nhìn sang lũ trẻ và nhận ra anh nói đúng—khi chỉ dẫn cho Dorothea những gì mình biết, trông chúng có vẻ vô cùng đắc ý. Nữ thương nhân dường như cũng nhận ra điều đó, bởi cô cố ý khích lệ tinh thần của chúng thay vì làm chúng cụt hứng.
 
-"Đúng là một điểm đáng lưu ý," Dorothea vừa nói vừa âu yếm xoa đầu lũ trẻ. "Chuyện này cô không biết đấy. Cảm ơn các cháu nhé."
+"Các cháu nhắc phải lắm," Dorothea vừa nói vừa âu yếm xoa đầu lũ trẻ. "Chuyện này cô không biết đấy. Cảm ơn các cháu nhé."
 
 "Đây là điều tôi đã suy nghĩ suốt thời gian qua," Rina nói với Zein, "những người kiếm sống chân chính bằng chính sự chăm chỉ của bản thân thật đáng ngưỡng mộ, bất kể là người lớn hay trẻ con. Ngay cả sau khi trở thành mạo hiểm giả, tôi cũng phải mất một thời gian dài mới hiểu được giá trị của điều đó."
 
@@ -102,7 +102,7 @@ Khi Rina nghiêng đầu khó hiểu, anh nói tiếp: "Ý tôi là, cô biết 
 
 Rina cảm thấy hơi ngượng ngùng khi được khen ngợi thẳng thắn như vậy, dẫu một trong những điều Zein vừa nói đã khơi gợi sự tò mò của cô. "Anh nói 'nhìn chung mạo hiểm giả ở Maalt'," cô nhận xét. "Vậy có nghĩa là anh từng gặp mạo hiểm giả ở các vùng khác rồi sao?"
 
-"Đúng là vậy. Hồi còn trẻ, tôi từng sống ở một ngôi làng xa hơn về phía tây, gần vương đô. Nhờ thế mà tôi đã tiếp xúc với rất nhiều mạo hiểm giả từ đó tới làm nhiệm vụ, cơ mà, chà... họ không phải mẫu người dễ hòa hợp cho lắm, nếu cô hiểu ý tôi. Đúng là kỹ năng của họ là hàng thật giá thật, nhưng họ chẳng biết lấy một chút gì về cách sống của những người sống dựa vào rừng núi như tôi cả. Vì thế mà tôi từng gặp phải không ít khốn đốn."
+"Đúng là vậy. Hồi còn trẻ, tôi từng sống ở một ngôi làng xa hơn về phía tây, gần vương đô. Nhờ thế mà tôi đã tiếp xúc với rất nhiều mạo hiểm giả từ đó tới làm nhiệm vụ, cơ mà, chà... họ không phải mẫu người dễ hòa hợp cho lắm, chắc cô cũng hiểu ý tôi nhỉ. Bản lĩnh của họ thì đúng là hàng thật giá thật, nhưng họ chẳng biết lấy một chút gì về nếp sống của những người bám rừng bám núi mà sống như tôi cả. Vì thế mà tôi từng gặp phải không ít khốn đốn."
 
 Rina có phần ngạc nhiên. Vì ban đầu cô chuyển đến Maalt là do không thể trụ nổi ở vương đô, nên cô cứ đinh ninh rằng những mạo hiểm giả xuất thân từ nơi đó hẳn phải vừa mạnh mẽ vừa đa tài. Nếu không thì chắc chắn họ chẳng thể nào kiếm sống được.
 
@@ -116,13 +116,13 @@ Cô không ngờ cuối cùng mình lại biến thành quái vật, đương nh
 
 "Chà, vương đô dẫu sao cũng là thành phố lớn mà," cô nói. "Dù có là mạo hiểm giả hay không, có lẽ cũng khá hiếm khi người dân ở đó biết nhiều về cuộc sống thôn quê."
 
-Trên thực tế, rất nhiều mạo hiểm giả ôm ấp hoài bão ở vương đô—dù là tốt nghiệp từ các võ đường kiếm thuật hay cựu học viên từ Học Viện—đều là những nam thanh nữ tú xuất thân từ các gia đình khá giả. Bản thân Rina cũng là con gái nhà quý tộc, và khi mới chập chững làm mạo hiểm giả ở đó, cô chẳng biết lấy nửa chữ về cuộc sống làng quê.
+Thật ra, rất nhiều người nuôi mộng làm mạo hiểm giả ở vương đô—dù là tốt nghiệp từ các võ đường kiếm thuật hay cựu học viên từ Học Viện—đều là những thanh niên nam nữ xuất thân từ các gia đình khá giả. Bản thân Rina cũng là con gái nhà quý tộc, và khi mới chập chững làm mạo hiểm giả ở đó, cô chẳng biết lấy nửa chữ về cuộc sống làng quê.
 
 "Tôi đoán cũng đúng là như thế," Zein đồng tình. "Mặt khác, dù Maalt là một thị trấn đàng hoàng, nhưng nó vẫn nằm ở chốn thôn quê này. Việc ở đó có những người mang vốn kiến thức phù hợp cũng là điều dễ hiểu, kể cả khi họ không biết nhiều bằng cô. Nhờ thế mà thuê họ cũng dễ dàng hơn, và cuộc sống ở đây cũng dễ thở hơn biết bao."
 
 Rõ ràng là các mạo hiểm giả đến từ Maalt có danh tiếng rất tốt. Dù một phần nguyên do chắc chắn nhờ vào nỗ lực của Hội Trưởng Wolf, nhưng những bài học mà Rentt truyền dạy cho các tân binh của thị trấn suốt bao năm qua hẳn cũng tạo nên ảnh hưởng không hề nhỏ.
 
-Anh Rentt và chị Lorraine đúng là kiểu người chỉ cần tồn tại thôi cũng đủ khiến mọi thứ xung quanh trở nên dễ dàng hơn rồi, Rina thầm nghĩ đầy thấu suốt.
+Anh Rentt và chị Lorraine đúng là kiểu người chỉ cần tồn tại thôi cũng đủ khiến mọi thứ xung quanh trở nên dễ dàng hơn rồi, Rina thầm gật gù chiêm nghiệm.
 
 Bất chợt, cô cảm nhận được một sự hiện diện trong khu vực, và tâm trí cô lập tức rời khỏi cuộc trò chuyện phiếm ban nãy.
 
@@ -134,13 +134,13 @@ Zein nhìn cô với vẻ thắc mắc.
 
 "Hả? Thật sao...? Tôi đi cùng cô chẳng phải sẽ tốt hơn sao?"
 
-Dù Zein ngỏ ý, Rina biết mình không thể đòi hỏi một người thợ săn làng mộc mạc phải dấn thân đến mức đó—với lại anh cũng chẳng cần thiết phải làm vậy. Thực tế thì sự hiện diện của anh thậm chí còn gây thêm rắc rối.
+Dù Zein ngỏ ý, Rina biết mình không thể đòi hỏi một người thợ săn làng bình thường phải dấn thân đến mức đó—với lại anh cũng chẳng cần thiết phải làm vậy. Thực tế thì sự hiện diện của anh thậm chí còn gây thêm rắc rối.
 
 "Không, ổn cả mà," cô nói. "Bảo vệ Dorothea và lũ trẻ là ưu tiên hàng đầu của chúng ta. Nhưng vì quái vật là chuyên môn của tôi, nên anh cứ ở lại bảo vệ họ thì hơn."
 
 Zein ngẫm nghĩ một thoáng rồi nói: "Tôi hiểu rồi. Cứ giao cho tôi—tôi sẽ giữ an toàn cho mọi người."
 
-"Trông cậy cả vào anh đấy," Rina nói. Sau đó, cô thong thả rảo bước về phía những sự hiện diện mà mình cảm nhận được ở đằng xa.
+"Trông cậy cả vào anh đấy," Rina nói. Sau đó, cô thong thả dạo bước về phía những sự hiện diện mà mình cảm nhận được ở đằng xa.
 
 ◆◇◆◇◆
 
@@ -152,7 +152,7 @@ Sau khi tiến sâu một quãng vào trong rừng, Rina bất chợt bước v�
 
 Rina cố hết sức giả vờ như không biết để không làm lộ bất cứ điều gì. "Cô cố tình để tôi phát hiện ra à?" cô hỏi.
 
-"Quả đúng vậy. Nhìn cô giao đấu với Guster, tôi thấy một mạo hiểm giả Thiết Cấp như cô sở hữu bản lĩnh không tồi chút nào. Sự thoải mái khi cô hạ gục kẻ địch trong màn đêm đen đặc rõ ràng không đơn thuần là kết quả từ ma cụ của cô. Không có giác quan nhạy bén cùng bản năng chiến đấu sắc bén, cô không tài nào làm nổi chuyện đó. Thế nên tôi đoán nếu mình phóng sát khí ở đây, cô nhất định sẽ tới."
+"Quả đúng vậy. Nhìn cô giao đấu với Guster, tôi thấy một mạo hiểm giả Thiết Cấp như cô sở hữu bản lĩnh không tồi chút nào. Cô hạ gục kẻ địch trong màn đêm đen đặc dễ dàng như vậy, rõ ràng không đơn thuần chỉ nhờ vào ma cụ của cô. Không có giác quan nhạy bén cùng bản năng chiến đấu sắc sảo, cô không tài nào làm nổi chuyện đó. Thế nên tôi đoán nếu mình phóng sát khí ở đây, cô nhất định sẽ tới."
 
 A. Hóa ra cô ta nghĩ mình làm thế, Rina thầm nghĩ. Dù tầm nhìn ban đêm của Rina lúc này vượt trội hơn nhiều so với thời cô còn là con người, giúp cô nhìn rõ chẳng khác nào ban ngày, nhưng nó vẫn đủ khác biệt để đòi hỏi phải luyện tập mới quen được. Kể cả khi cô có một món ma cụ cho phép nhìn trong bóng tối, việc sử dụng nó cũng đòi hỏi phải rèn luyện.
 
@@ -166,9 +166,9 @@ Tuy nhiên, đó không phải điều duy nhất Rina thu thập được từ 
 
 "E là không được rồi. Mà cô có mối quan hệ gì với Guster vậy? Theo lời anh ta thì người thuê là một gã trai trẻ..."
 
-Có khả năng người phụ nữ này đã cải trang thành nam giới khi thuê Guster, nhưng Rina không nghĩ là như vậy. Dáng vẻ của cô ta đơn giản là quá... nữ tính—kiểu người toát ra phong thái đến mức dù có cải trang thành nam, phần lớn mọi người vẫn chỉ thấy cô ta là phụ nữ mà thôi.
+Có khả năng người phụ nữ này đã cải trang thành nam giới khi thuê Guster, nhưng Rina không nghĩ là như vậy. Dáng vẻ của cô ta đơn giản là quá... nữ tính—kiểu người mà từng cử chỉ đều toát ra nét nữ tính rõ đến mức dù có cải trang thành nam, phần lớn mọi người vẫn chỉ thấy cô ta là phụ nữ mà thôi.
 
-Người phụ nữ lạ mặt khẽ lắc đầu, chứng minh cho mối hoài nghi của Rina. "Người đó không phải tôi," cô ta nói. "Dieg mới là kẻ đã thuê Guster."
+Người phụ nữ lạ mặt khẽ lắc đầu, xác nhận phỏng đoán của Rina là đúng. "Người đó không phải tôi," cô ta nói. "Dieg mới là kẻ đã thuê Guster."
 
 "Dieg?"
 
@@ -176,7 +176,7 @@ Người phụ nữ lạ mặt khẽ lắc đầu, chứng minh cho mối hoài 
 
 "Cứ cho là tôi tin lời cô đi... hiện tại Dorothea chẳng qua chỉ là một thương nhân lữ hành. Các người nhắm vào cô ấy cũng chẳng đạt được lợi ích gì đâu."
 
-"Chuyện đó không thành vấn đề—miễn sao cô ấy từ bỏ tất cả những thứ đó, quay về Mystera và kết hôn với Dieg là được. Dù suốt hai năm cô ấy rời đi đã có thêm một đứa em trai, nhưng thằng bé đương nhiên vẫn còn rất nhỏ. Nếu có chuyện gì đó... chẳng may xảy ra với cha cô ấy, vận mệnh của thương hội đương nhiên sẽ rơi vào tay Dieg."
+"Chuyện đó không thành vấn đề—miễn sao cô ấy từ bỏ tất cả những thứ đó, quay về Mystera và kết hôn với Dieg là được. Dù trong hai năm rời nhà vừa qua cô ấy đã có thêm một đứa em trai, nhưng thằng bé tất nhiên vẫn còn rất nhỏ. Nếu có chuyện gì đó... chẳng may xảy ra với cha cô ấy, vận mệnh của thương hội đương nhiên sẽ rơi vào tay Dieg."
 
 "Mà 'chuyện chẳng may' theo ý cô là...?"
 
@@ -188,10 +188,10 @@ Người phụ nữ lạ mặt khẽ lắc đầu, chứng minh cho mối hoài 
 
 "Đúng là tôi có ý đó đấy. Cô nghĩ tôi không làm nổi à?"
 
-"Hừm... để xem nào. Chắc tôi sẽ chọn vế 'không, tôi không nghĩ cô làm nổi đâu'."
+"Hừm... để xem nào. Chắc câu trả lời của tôi là 'không, tôi không nghĩ cô làm nổi đâu'."
 
 "Điều gì khiến cô tự tin đến thế?"
 
 "Chà, thế cô nghĩ Dieg và Guster lúc này đang ở đâu? Và cô có từng mảy may nghĩ xem vì sao tôi lại dụ cô tới đây không?"
 
-Cùng với lời tiết lộ đó, khóe môi người phụ nữ nhếch lên thành một nụ cười toe toét.
+Vừa tiết lộ điều đó, khóe môi người phụ nữ liền nhếch lên thành một nụ cười đắc thắng.
