@@ -20,7 +20,7 @@ Bình thường khi nghe những lời sáo rỗng như vậy, phản ứng củ
 
 "Phì! Ha ha! Chắc là cô nói đúng rồi. Hiện giờ tôi cũng đang cố gắng nỗ lực đây. Chỉ là, tôi chẳng biết đến bao giờ công sức mình bỏ ra mới đền đáp. Đôi khi có người bảo tôi đang nhắm tới điều không tưởng... nhưng trên đời này làm gì có chuyện gì là không thể. Phải không?"
 
-"Đúng thế! Trong đời chẳng ai biết trước điều gì sẽ xảy ra đâu. Biết đâu lúc này đây một con Rồng đột nhiên xuất hiện ngay trước mặt chúng ta—rồi chẳng hiểu sao lại để rơi lại vài chiếc vảy rồng. Thế chẳng phải vốn liếng của cô sẽ tăng vọt lên sao!"
+"Đúng thế! Trong đời chẳng ai biết trước điều gì sẽ xảy ra đâu. Biết đâu lúc này đây một con Rồng đột nhiên xuất hiện ngay trước mặt chúng ta—rồi chẳng hiểu sao lại đánh rơi vài chiếc vảy của nó. Thế chẳng phải vốn liếng của cô sẽ tăng vọt lên sao!"
 
 "Tôi thấy chuyện đó khó lòng xảy ra lắm... nhưng cô nói đúng, tôi không thể bảo là hoàn toàn bất khả thi. Nếu thật sự gặp được vận may từ trên trời rơi xuống như vậy, tôi sẽ tiến gần hơn một bước dài tới ước mơ của mình."
 
@@ -30,9 +30,9 @@ Bình thường khi nghe những lời sáo rỗng như vậy, phản ứng củ
 
 "Cứ làm thế chắc chắn là đúng đắn nhất rồi. À mà này, thật ra tôi cũng định hỏi cô từ nãy. Lúc nãy cô có nhắc tới chuyện..."
 
-Chủ đề câu chuyện thay đổi, Rina bắt đầu hỏi Dorothea về những rắc rối cô từng gặp phải trong quá khứ. Nàng thương nhân kể hết cho cô nghe—dù sao họ cũng đang rảnh rỗi ngồi trông đống lửa trại—bắt đầu từ gã mạo hiểm giả cô thuê vào tháng trước, rồi lần ngược lại về trước để kể thêm nhiều vụ việc nhiều đến mức đếm không xuể.
+Chủ đề câu chuyện thay đổi, Rina bắt đầu hỏi Dorothea về những rắc rối cô từng gặp phải trong quá khứ. Nữ thương nhân kể hết cho cô nghe—dù sao họ cũng đang rảnh rỗi ngồi trông đống lửa trại—bắt đầu từ gã mạo hiểm giả cô thuê vào tháng trước, rồi lần ngược lại về trước để kể thêm đủ thứ vụ việc nhiều đến mức đếm không xuể.
 
-Dù mới chỉ tự lập được hai năm, nhưng khi ngồi xâu chuỗi lại mọi chuyện trong lúc trò chuyện, cô mới thực sự thấm thía mình đã trải qua nhiều chuyện đến nhường nào. Thế nhưng cô chỉ xem tất cả những điều đó là lẽ thường tình ở đời—mọi biến cố ập đến với cô chẳng qua là vì bản thân còn thiếu kinh nghiệm, hoặc do người khác coi thường cô là phận nữ nhi.
+Dù mới chỉ tự lập được hai năm, nhưng khi ngồi xâu chuỗi lại mọi chuyện trong lúc trò chuyện, cô mới thực sự thấm thía mình đã trải qua nhiều chuyện đến nhường nào. Thế nhưng cô chỉ xem tất cả những điều đó là lẽ thường tình ở đời—mọi biến cố ập đến với cô chẳng qua là vì bản thân còn thiếu kinh nghiệm, hoặc do người khác coi thường cô vì là phụ nữ.
 
 Thế nhưng Rina lại nghiêng đầu, vẻ mặt đầy khó hiểu. "Tôi thì không dám chắc, nhưng nghe qua thì thấy thế là nhiều quá mức bình thường rồi đấy. Cho dù cô là thương nhân mới vào nghề và bị người ta đối xử tệ bạc vì là phụ nữ... thì cũng đâu thể nào liên tục đến mức ấy được."
 
@@ -92,7 +92,7 @@ Chính những thương nhân này mới là mục tiêu thường xuyên của 
 
 Lẽ dĩ nhiên, chúng cũng luôn chú ý không bao giờ gây chú ý quá mức; bị chính quyền hay lính tuần tra đánh hơi lần theo dấu vết thì chẳng hay ho gì.
 
-Nỗ lực của chúng được đền đáp hậu hĩnh, giờ đây mỗi thành viên trong băng đều đã gom góp được một món tiền kha khá. Chỉ cần thêm một chuỗi phi vụ béo bở nữa thôi là chúng sẽ có đủ vốn liếng để lên thành phố mở một cửa tiệm cho riêng mình, tậu một căn nhà nhỏ ở vùng thôn quê rồi sống cuộc đời an nhàn—hoặc đường ai nấy đi tùy thích. Vì Guster cùng đám thuộc hạ vốn xuất thân là những người dân làng nghèo túng bần hàn, chúng chẳng hề tha thiết gì với kiếp cướp bóc. Chúng chỉ bước vào con đường này vì hoàn cảnh xô đẩy, và một khi kiếm đủ, chúng sẽ lập tức giải nghệ.
+Nỗ lực của chúng được đền đáp hậu hĩnh, giờ đây mỗi thành viên trong băng đều đã gom góp được một món tiền kha khá. Chỉ cần thêm một chuỗi phi vụ béo bở nữa thôi là chúng sẽ có đủ vốn liếng để lên thành phố mở một cửa tiệm cho riêng mình, hay tậu một căn nhà nhỏ ở vùng thôn quê sống cuộc đời an nhàn—hoặc đường ai nấy đi tùy thích. Vì Guster cùng đám thuộc hạ vốn xuất thân là những người dân làng nghèo túng bần hàn, chúng chẳng hề tha thiết gì với kiếp cướp bóc. Chúng chỉ bước vào con đường này vì hoàn cảnh xô đẩy, và một khi kiếm đủ, chúng sẽ lập tức giải nghệ.
 
 Về phi vụ lần này, khi Guster cùng các cộng sự đang ngồi uống rượu tại một quán rượu thì một người đàn ông lạ mặt tiến lại gần bàn của họ.
 
@@ -134,11 +134,11 @@ Có thể điều kiện đó sẽ khiến người lạ mặt bỏ đi tìm thu
 
 Sau một hồi đợi người lạ mặt lên tiếng, cuối cùng câu trả lời cũng đến.
 
-"Sự thận trọng đó chính là lý do tôi muốn thuê các anh. Tôi tin các anh có khả năng giữ kín bí mật, và tôi tin tưởng các anh sẽ hoàn thành công việc đúng từng li từng tí. Nhân tiện nói về điều khoản—tôi hoàn toàn không có vấn đề gì với điều kiện của anh. Dù sao tôi cũng không nghĩ cô ta có đủ tiền để thuê ngần ấy hộ vệ đâu; cùng lắm cô ta chỉ thuê được một mạo hiểm giả Đồng Cấp đi cùng là cùng. Nếu cô ta thực sự có từ hai người trở lên, tôi cũng chẳng phiền nếu các anh chỉ việc bám theo dõi theo chứ không làm gì thêm. Còn về phần thù lao, các anh cứ giữ trọn số tiền trong chiếc túi đó trong cả hai trường hợp. Giờ thì... chúng ta chốt thỏa thuận chứ?"
+"Sự thận trọng đó chính là lý do tôi muốn thuê các anh. Tôi tin các anh có khả năng giữ kín bí mật, và tôi tin tưởng các anh sẽ hoàn thành công việc đúng từng li từng tí. Nhân tiện nói về điều khoản—tôi hoàn toàn không có vấn đề gì với điều kiện của anh. Dù sao tôi cũng không nghĩ cô ta có đủ tiền để thuê ngần ấy hộ vệ đâu; cùng lắm cô ta chỉ thuê được một mạo hiểm giả Đồng Cấp đi cùng là cùng. Nếu cô ta thực sự có từ hai người trở lên, tôi cũng chẳng phiền nếu các anh chỉ việc âm thầm theo dõi cô ta chứ không làm gì thêm. Còn về phần thù lao, các anh cứ giữ trọn số tiền trong chiếc túi đó trong cả hai trường hợp. Giờ thì... chúng ta chốt thỏa thuận chứ?"
 
 Các điều khoản rõ ràng quá đỗi hời cho Guster cùng đồng bọn. Dẫu vậy, chúng vẫn cẩn thận dành thời gian bàn bạc kỹ lưỡng với nhau.
 
-Sau đó, Guster đưa ra câu trả lời: "Được rồi. Thỏa thuận thế nhé. Thế ông tên là gì, người lạ— À không. Tôi đoán tốt hơn hết là tôi không nên hỏi, phải không?"
+Sau đó, Guster đưa ra câu trả lời: "Được rồi. Thỏa thuận thế nhé. Thế ông tên là gì, ông khách— À không. Tôi đoán tốt hơn hết là tôi không nên hỏi, phải không?"
 
 Người lạ mặt mỉm cười. "Anh đoán đúng rồi đấy. Tôi rất mong đợi thắng lợi của các anh."
 

@@ -4,11 +4,11 @@
 
 Tôi, Lorraine Vivie, cảm thấy trí tò mò trỗi dậy trước những lời Rentt vừa thốt ra khi vừa trở về nhà.
 
-Dĩ nhiên, là một mạo hiểm giả kiếm sống bằng nghề thám hiểm mê cung, chuyện Rentt bắt gặp ma cụ là như cơm bữa. Có điều, những mê cung anh có thể chinh phục quanh vùng này chỉ vỏn vẹn có Mê Cung Nguyệt Ảnh và Mê Cung Tân Nguyệt, mà các chủng loại ma cụ có thể tìm thấy ở những nơi đó thì từ lâu đã được ghi chép đầy đủ rồi.
+Dĩ nhiên, là một mạo hiểm giả kiếm sống bằng nghề thám hiểm mê cung, chuyện Rentt bắt gặp ma cụ là như cơm bữa. Có điều, những mê cung anh ấy có thể chinh phục quanh vùng này chỉ vỏn vẹn có Mê Cung Nguyệt Ảnh và Mê Cung Tân Nguyệt, mà các chủng loại ma cụ có thể tìm thấy ở những nơi đó thì từ lâu đã được ghi chép đầy đủ rồi.
 
-Rentt ít nhiều cũng có khả năng giám định mấy món đồ lặt vặt như vậy, mà dẫu không tự làm được thì anh vẫn luôn có thể mang tới Hội, nơi họ có thể giám định gần như mọi thứ vượt ngoài tầm hiểu biết của anh.
+Rentt ít nhiều cũng có khả năng giám định mấy món đồ lặt vặt như vậy, mà dẫu không tự làm được thì anh ấy vẫn luôn có thể mang tới Hội, nơi họ có thể giám định gần như mọi thứ vượt ngoài tầm hiểu biết của anh ấy.
 
-Dẫu vậy, đôi lúc anh vẫn gặp phải vài ngoại lệ, và hôm nay dường như là một dịp như thế.
+Dẫu vậy, đôi lúc anh ấy vẫn gặp phải vài ngoại lệ, và hôm nay dường như là một dịp như thế.
 
 "Ừ. Đây, cô xem đi. Mà bảo là kỳ lạ chứ nhìn nó cũng chỉ giống một chiếc 'Gương Tuổi Trẻ' bình thường thôi."
 
@@ -16,7 +16,7 @@ Rentt quay chiếc gương về phía tôi, và ngay tức khắc tôi nhìn th�
 
 "Tôi thấy nó cũng giống món đó mà," tôi nói. "Có điểm gì kỳ lạ sao?"
 
-Rentt lê bước lại gần, và hình bóng phản chiếu của anh cùng xuất hiện bên cạnh tôi trong gương. Dĩ nhiên đó không phải là hình dạng quái vật hiện tại, mà là Rentt của mười năm trước, cái thuở anh vẫn còn là con người. Có điều, khi tôi quay sang nhìn con người thực bằng xương bằng thịt bên cạnh, đập vào mắt tôi vẫn là một người đàn ông đeo mặt nạ đầu lâu.
+Rentt lê bước lại gần, và hình bóng phản chiếu của anh ấy cùng xuất hiện bên cạnh tôi trong gương. Dĩ nhiên đó không phải là hình dạng quái vật hiện tại, mà là Rentt của mười năm trước, cái thuở anh ấy vẫn còn là con người. Có điều, khi tôi quay sang nhìn con người thực bằng xương bằng thịt bên cạnh, đập vào mắt tôi vẫn là một người đàn ông đeo mặt nạ đầu lâu.
 
 Gương Tuổi Trẻ thực chất không thể giúp người ta tìm lại tuổi xuân. Tất cả những gì chúng làm được chỉ là soi chiếu lại hình ảnh thuở trẻ của một người. Món đồ này khá thú vị nếu xem như một món đồ hiếu kỳ, nhưng do ngoài kia có những phu nhân quý tộc đã có gia đình đâm ra ám ảnh vì chúng, hoặc đau khổ vì chúng, nên chúng được xếp vào diện vật phẩm cần thận trọng khi xử lý.
 
@@ -60,7 +60,7 @@ Bao bọc lấy tôi là một khoảng hư không hoàn toàn trống rỗng. V
 
 Chưa rõ chuyện gì đang diễn ra, tôi bắt đầu niệm một ma pháp phát sáng với hy vọng có chút ánh sáng soi rọi trước khi thử làm bất cứ điều gì khác. Thế nhưng, phép thuật vừa thi triển đã tắt ngấm.
 
-"Sao lại thế...?" Tôi hoang mang lẩm bẩm một mình.
+"Sao lại thế...?" tôi hoang mang lẩm bẩm một mình.
 
 Đúng lúc đó, tôi nghe thấy những tiếng nói vọng ra từ trong bóng tối.
 
@@ -76,7 +76,7 @@ Hình bóng đó trông như tôi hồi mới bảy hay tám tuổi. Nhưng dẫ
 
 Hồi đó mình đúng là cái dạng như vậy thật nhỉ?
 
-Tôi nhớ lại về ông lão ấy, đó chính là vị sư phụ cũ, người tôi từng theo học mọi điều về ma thuật lẫn học thuật. Nói cách khác, đó là người xứng đáng nhận được sự tôn kính của tôi... dù hồi đó tôi chẳng hề tỏ ra kính trọng lấy nửa phần. Tôi tự hỏi dạo này ông đang làm gì. Dù sao thì tôi cũng đoán chắc ông vẫn còn sống ở nơi nào đó. Ông không phải kiểu người dễ dàng lăn đùng ra chết.
+Tôi nhớ lại về ông lão ấy, đó chính là vị sư phụ cũ, người tôi từng theo học mọi điều về ma thuật lẫn học thuật. Nói cách khác, đó là người xứng đáng nhận được sự tôn kính của tôi... dù hồi đó tôi chẳng hề tỏ ra kính trọng lấy nửa phần. Tôi tự hỏi dạo này ông ấy đang làm gì. Dù sao thì tôi cũng đoán chắc ông ấy vẫn còn sống ở nơi nào đó. Ông ấy không phải kiểu người dễ dàng lăn đùng ra chết.
 
 Còn về chuyện ông ấy và tôi thuở nhỏ đang cãi nhau vì cái gì...
 
@@ -84,15 +84,15 @@ Còn về chuyện ông ấy và tôi thuở nhỏ đang cãi nhau vì cái gì.
 
 "Lão già ngu ngốc, cố chấp!"
 
-Tôi thuở nhỏ ném phăng cây đũa phép vào người ông lão. Ngay khoảnh khắc tiếp theo, ông tụ một luồng Ma Lực đậm đặc trong lòng bàn tay rồi bắn ngược trở lại về phía con bé dưới dạng một ma pháp. Tốc độ ra đòn nhanh đến khó tin, gần như vượt xa người phàm, và tôi đồ rằng ngay cả bản thân mình hôm nay cũng chưa chắc làm được như thế.
+Tôi thuở nhỏ ném phăng cây đũa phép vào người ông lão. Ngay khoảnh khắc tiếp theo, ông ấy tụ một luồng Ma Lực đậm đặc trong lòng bàn tay rồi bắn ngược trở lại về phía con bé dưới dạng một ma pháp. Tốc độ ra đòn nhanh đến khó tin, gần như vượt xa người phàm, và tôi đồ rằng ngay cả bản thân mình hôm nay cũng chưa chắc làm được như thế.
 
-Tôi muốn bảo ông đừng có thi triển loại ma pháp như vậy vào một đứa trẻ, nhưng có nói cũng vô ích. Đòn phép sượt qua vành tai tôi thuở nhỏ, và con bé ngất lịm đi khi ma pháp đâm xuyên qua bức tường phía sau.
+Tôi muốn bảo ông ấy đừng có thi triển loại ma pháp như vậy vào một đứa trẻ, nhưng có nói cũng vô ích. Đòn phép sượt qua vành tai tôi thuở nhỏ, và con bé ngất lịm đi khi ma pháp đâm xuyên qua bức tường phía sau.
 
 "Rốt cuộc ở đây đứa nào mới là kẻ cố chấp hả? Thiệt tình, cái con nhóc này..."
 
 Sau khi nhẹ nhàng kiểm tra để chắc chắn con bé không bị thương nặng, vị sư phụ cũ của tôi chữa lại cái lỗ thủng trên tường, rồi dùng một câu phép quẳng tôi thuở nhỏ lên giường một cách chẳng mấy nhẹ tay.
 
-"Tôi nghĩ thật lòng thì cả hai người đều thế cả thôi..." Tôi buột miệng lẩm bẩm.
+"Thật lòng thì mình nghĩ cả hai thầy trò đều thế cả thôi..." tôi buột miệng lẩm bẩm.
 
 Khoảnh khắc tiếp theo, khung cảnh đổi khác. Lần này là...
 
@@ -144,7 +144,7 @@ Hử? Tôi đâu có nhớ là mình từng nói thế bao giờ. Trái lại, t
 
 Bất ngờ trước giọng nói cất lên từ phía sau, tôi quay phắt lại và đối mặt với chính mình thuở bé đang ngước nhìn lên. Con bé đến từ lúc nào...?
 
-"Phải rồi... ta đã nói như vậy," tôi tán thành, cố giữ bình tĩnh. "Ta vẫn nhớ. Rồi sau đó ta tới Maalt... và gặp Rentt."
+"Phải rồi... tôi đã nói như vậy," tôi tán thành, cố giữ bình tĩnh. "Tôi vẫn nhớ. Rồi sau đó tôi tới Maalt... và gặp Rentt."
 
 "Nhưng cô không tò mò muốn biết chuyện gì sẽ xảy ra... nếu cô không làm vậy sao?" tôi thuở nhỏ hỏi.
 
@@ -158,19 +158,19 @@ Tôi nhìn thấy bản thân đồng thời tiến hành nghiên cứu trên nh
 
 "Ở nơi này, cô có thể đạt được điều đó," tôi thuở nhỏ cất lời. Giọng con bé mang theo âm hưởng huyền ảo, thấm sâu vào dòng suy nghĩ của tôi. "Cô có thể sống trong giấc mơ ấy bao nhiêu lần tùy thích."
 
-"Tất cả vinh quang ấy..." Tôi thì thào. "Bao nhiêu lần tùy..."
+"Tất cả vinh quang ấy..." tôi thì thào. "Bao nhiêu lần tùy thích..."
 
 Được công nhận các luận văn, được ngợi ca, tán dương, rồi nhờ đó mà thăng tiến sao? Cảm giác ấy chắc chắn sẽ rất tuyệt vời. Không thể phủ nhận rằng theo một khía cạnh nào đó, chuyện này hẳn sẽ rất thú vị.
 
 Thời đó, khi nỗ lực hướng tới giấc mơ ấy, trong lòng tôi dâng lên một cảm giác gần như thỏa mãn, không, trọn vẹn. Thế nên lặp đi lặp lại một cuộc đời như vậy hết lần này đến lần khác có lẽ cũng chẳng phải chuyện tệ...
 
-"Có điều, giờ đây thứ đó chẳng còn chút sức hút nào với ta nữa rồi."
+"Có điều, giờ đây thứ đó chẳng còn chút sức hút nào với tôi nữa rồi."
 
 Bản thân tôi thuở nhỏ trố mắt nhìn tôi đầy kinh ngạc. "Cái gì? Tại sao? Thuật thôi miên đáng lẽ phải bắt đầu phát huy tác dụng rồi chứ..."
 
-"Biết ngay mà. Ta đã cảm thấy có điều gì đó kỳ lạ kể từ lúc tới đây, đầu óc cứ lâng lâng nhẹ bẫng... Ngươi là quái vật đúng không? Chẳng phải ma cụ gì cả. Ngươi hiếm đến mức thoạt đầu ta không nhận ra, nhưng ngươi chính là Kính Ma. Ngươi ẩn nấp trong những chiếc gương và biến thế giới phản chiếu thành lãnh địa của mình... Tranh minh họa về ngươi trong sách trông hiểm ác hơn nhiều, chắc đó cũng là một lý do khiến ta không nhận ra. Ta thực sự không ngờ ngươi lại mượn một chiếc Gương Tuổi Trẻ để ngụy trang."
+"Biết ngay mà. Tôi đã cảm thấy có điều gì đó kỳ lạ kể từ lúc tới đây, đầu óc cứ lâng lâng nhẹ bẫng... Ngươi là quái vật đúng không? Chẳng phải ma cụ gì cả. Ngươi hiếm đến mức thoạt đầu tôi không nhận ra, nhưng ngươi chính là Kính Ma. Ngươi ẩn nấp trong những chiếc gương và biến thế giới phản chiếu thành lãnh địa của mình... Tranh minh họa về ngươi trong sách trông hiểm ác hơn nhiều, chắc đó cũng là một lý do khiến tôi không nhận ra. Tôi thực sự không ngờ ngươi lại mượn một chiếc Gương Tuổi Trẻ để ngụy trang."
 
-Bị vạch trần bộ mặt thật, hình dạng đứa trẻ của tôi tan chảy rồi biến thành một thực thể gầy gò gớm ghiếc tựa như Goblin. Nó nhe nanh giương vuốt, chồm thẳng về phía tôi.
+Bị vạch trần bộ mặt thật, hình hài thuở nhỏ của tôi tan chảy rồi biến thành một thực thể gầy gò gớm ghiếc tựa như Goblin. Nó nhe nanh giương vuốt, chồm thẳng về phía tôi.
 
 "Cảm ơn vì giấc mơ đẹp nhé," tôi nói. "Vui lắm đấy."
 
@@ -186,13 +186,13 @@ Trước khi kịp nhận ra, tôi đã trở lại phòng khách nhà mình, v�
 
 Rõ ràng là anh ấy đã sập bẫy chiêu trò của con Kính Ma. Dẫu vậy, vì tôi đã tiêu diệt bản thể chính của nó, anh ấy cũng trở về cùng với tôi.
 
-"Vừa rồi là ảo giác đấy..." Tôi bảo anh. "Đừng nói với tôi là anh không nhận ra nhé?"
+"Vừa rồi là ảo giác đấy..." tôi bảo anh ấy. "Đừng nói với tôi là anh không nhận ra nhé?"
 
-"Không... tôi nhận ra chứ," anh đáp. "Chỉ là thấy vui quá nên tôi định bụng tận hưởng thêm một chút. Xem ra giờ tôi đã quay về rồi nhỉ...?"
+"Không... tôi nhận ra chứ," anh ấy đáp. "Chỉ là thấy vui quá nên tôi định bụng tận hưởng thêm một chút. Xem ra giờ tôi đã quay về rồi nhỉ...?"
 
-Giọng anh nghe có vẻ tiếc nuối. Ra là anh cố tình để bản thân bị lừa dẫu biết rõ chuyện gì đang diễn ra sao? Đúng là nguy hiểm hết biết.
+Giọng anh ấy nghe có vẻ tiếc nuối. Ra là anh ấy cố tình để bản thân bị lừa dẫu biết rõ chuyện gì đang diễn ra sao? Đúng là nguy hiểm hết biết.
 
-Nói đi cũng phải nói lại, tôi cũng chẳng có tư cách gì để trách anh. Về cơ bản thì đến một nửa thời gian tôi cũng làm y hệt như thế.
+Nói đi cũng phải nói lại, tôi cũng chẳng có tư cách gì để trách Rentt. Về cơ bản thì đến một nửa thời gian tôi cũng làm y hệt như thế.
 
 "Thế cô thấy gì vậy, Lorraine?" Rentt hỏi. "Trong ảo giác của tôi, tôi đã lên được Mithril Cấp đấy."
 

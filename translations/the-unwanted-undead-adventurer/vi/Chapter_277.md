@@ -8,7 +8,7 @@ Dù nhìn kiểu gì đi nữa, cô gái đó rõ ràng còn trẻ hơn cả b�
 
 Ngay khi vừa nhìn thấy cô, cô gái dường như đã đoán ra Dorothea chính là thân chủ của mình. Cô gái liền đứng dậy khỏi ghế và bước lại gần.
 
-"Xin thứ lỗi, chẳng hay cô có phải là Dorothea Merrow không?" cô gái mỉm cười hỏi.
+"Ừm, xin thứ lỗi, cô có phải là Dorothea Merrow không?" cô gái mỉm cười hỏi.
 
 Dorothea ra sức thúc đẩy những bánh răng đang đông cứng trong tâm trí quay trở lại. "Đ-Đúng vậy, là tôi... Có phải cô... đã nhận công việc tôi đăng không?"
 
@@ -74,7 +74,7 @@ Dorothea không tài nào nắm bắt được con người của Rina. Ban đ�
 
 Sau khi trình bày xong kế hoạch đã vạch ra cho chuyến đi, Dorothea ngóng đợi câu trả lời từ Rina. Trầm ngâm suy nghĩ chốc lát, cô gái liền đáp lời.
 
-"Tôi không phiền chuyện khởi hành vào ngày mai đâu... nhưng tôi khuyên chúng ta nên đi đường vòng để tránh khu vực quanh Núi Tute. Ngoài ra, tôi nghĩ đi Đại Lộ Radha sẽ tốt hơn là đi Đại Lộ Farga. Còn lại thì lộ trình trông khá ổn rồi." Cô ấy thậm chí còn đề xuất vài thay đổi về tuyến đường để đảm bảo an toàn.
+"Tôi không phiền chuyện khởi hành vào ngày mai đâu... nhưng tôi khuyên chúng ta nên đi đường vòng để tránh khu vực quanh Núi Tute. Ngoài ra, tôi nghĩ đi Đại Lộ Radha sẽ tốt hơn là đi Đại Lộ Farga. Còn lại thì lộ trình trông khá ổn rồi." Cô ấy thậm chí còn tiện thể đề xuất thêm vài thay đổi về tuyến đường.
 
 Trong thoáng chốc, Dorothea suýt nữa mất bình tĩnh khi tự hỏi một kẻ tay mơ thì biết gì về các tuyến đường buôn bán chứ. Một phần trong cô ngờ rằng Rina đang đưa ra những đề xuất thừa thãi cốt để làm màu rằng mình là một mạo hiểm giả thực thụ.
 
@@ -100,7 +100,7 @@ Rina gật đầu. "Chắc là vì tin tức vẫn chưa thực sự lan rộng 
 
 "'Các khu vực đó' sao?"
 
-"Vâng. Những người đến từ các ngôi làng gần Núi Tute và Đại Lộ Farga ấy."
+"Đúng vậy. Những người đến từ các ngôi làng gần Núi Tute và Đại Lộ Farga ấy."
 
 "Làm sao cô...? Đừng nói là cô đã cất công lặn lội đến tận những nơi đó rồi đấy nhé?"
 
@@ -120,7 +120,7 @@ Vậy là quyết định cuối cùng vẫn thuộc về Dorothea. Rất có th
 
 Ừm. Mình nên làm gì đây?
 
-Đối với một thương nhân bình thường, phần lớn trong số họ có lẽ sẽ chọn đặt niềm tin vào những gì thu thập được từ Hội Thương Nhân và tiếp tục theo đúng kế hoạch ban đầu. Xét cho cùng, mạng lưới thông tin của Hội đã được kiểm chứng qua thời gian, và dẫu đôi khi có sơ suất, nhìn chung về cơ bản nó vẫn đáng tin cậy.
+Nếu là các thương nhân bình thường, phần lớn trong số họ có lẽ sẽ chọn đặt niềm tin vào những gì thu thập được từ Hội Thương Nhân và tiếp tục theo đúng kế hoạch ban đầu. Xét cho cùng, mạng lưới thông tin của Hội đã được kiểm chứng qua thời gian, và dẫu đôi khi có sơ suất, nhìn chung về cơ bản nó vẫn đáng tin cậy.
 
 So với điều đó, hiểu biết của mạo hiểm giả về tình hình thực tế lại có phần đáng ngờ—dù chuyện đó thực chất phải tùy thuộc vào từng trường hợp cụ thể. Đôi khi tin vào lời mạo hiểm giả đã mang lại cho giới thương nhân những cơ hội hiếm có cùng những món hời kếch xù. Nhưng cũng có những lúc, nó lại dẫn họ đến kết cục hoàn toàn trái ngược.
 
@@ -152,7 +152,7 @@ Dĩ nhiên Dorothea biết chuyện đó chẳng liên quan gì đến Rina—tr
 
 Thế nhưng ngoài kia vẫn có những thương nhân sẵn sàng liều mạng xông qua, đó là lý do Rina mới nói như vậy. Nữ mạo hiểm giả trẻ tuổi biết rằng với những thân chủ kiểu đó thì thực sự chẳng thể làm gì hơn.
 
-Dẫu vậy, việc nghe khả năng mất mạng của chính mình được thốt ra một cách bình thản từ miệng một thiếu nữ trông hiền lành đến mức không nỡ đập chết một con ruồi khiến Dorothea cảm giác như vừa thoáng thấy được điều làm nên một mạo hiểm giả thực thụ—một người luôn kề vai chiến đấu bên bóng ma cái chết chực chờ.
+Dẫu vậy, khi nghe một thiếu nữ trông hiền lành đến mức không nỡ đập chết một con ruồi thản nhiên nhắc tới khả năng mình mất mạng, Dorothea cảm giác như vừa thoáng thấy được điều làm nên một mạo hiểm giả thực thụ ở Rina—một người luôn chiến đấu khi bóng ma cái chết cận kề.
 
 Đoạn, một thắc mắc bất chợt nảy ra trong đầu Dorothea. "Nghĩ lại thì, khi cô bảo sẽ mang di vật của tôi về... có phải cô đang ngụ ý rằng bản thân tự tin sẽ không chết không?" Hiểu theo nghĩa đen lời nói của Rina thì dường như đúng là cô ấy muốn nói như vậy.
 

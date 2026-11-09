@@ -281,9 +281,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | reviewed |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | reviewed |  |
 | 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | reviewed |  |
-| 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | done |  |
-| 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | done |  |
-| 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | done |  |
+| 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | reviewed |  |
+| 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | reviewed |  |
+| 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | reviewed |  |
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | todo |  |
 | 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | todo |  |
 | 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | todo |  |
