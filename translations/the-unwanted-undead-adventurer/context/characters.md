@@ -137,7 +137,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Pochi |  | Pochi | Chú chó khổng lồ lông trắng (nghi là quái vật) sống hơn 20 năm tại cô nhi viện ở vương đô | #265 |
 | Vitez Normorte | Vitez | Vitez Normorte | Cậu bé có dị năng triệu hồi giông bão, thân chủ hộ tống của Rentt và Augurey thời ở Maalt | #268 |
 | Baroness Graham | Graham | Nữ Nam tước Graham | Nữ quý tộc quen biết Lorraine tại Maalt, nhận nuôi chú Sói Đen con | #269 |
-| Arc Tahadu |  | Arc Tahadu | Vua Ma Cà Rồng (Vampire King), được người đánh xe của Laura nhắc tên khi cho biết kẻ tập kích Rentt trong đêm là một người cháu (quyến thuộc đời thứ hai) của hắn | #273 |
+| Arc Tahadu |  | Arc Tahadu | Vua Ma Cà Rồng (Vampire King); kẻ tập kích Rentt trong đêm là cháu (quyến thuộc đời thứ hai) của hắn | #273 |
 | Dorothea Merrow | Dorothea | Dorothea Merrow | Nữ thương nhân độc hành thuê mạo hiểm giả hộ vệ | #276 |
 | Guster |  | Guster | Thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga | #279 |
 | Dieg Esol | Dieg | Dieg Esol | Nhị thiếu gia của gia tộc Esol tại thành phố Mystera, kẻ thuê Guster cản trở Dorothea (#282) | #282 |
@@ -148,555 +148,498 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ## Chi tiết
 
 ### Rentt Faina
-- Giới tính, tuổi/vẻ ngoài: Nam, 25 tuổi (tính đến chương 1). Bị rồng nuốt chửng ở Mê Cung Nguyệt Ảnh, biến thành Khô Lâu → Ngạ Quỷ (Ghoul) → biến thể tiệm cận Hạ Cấp Ma Cà Rồng (#73) → sau khi uống máu Laura ở #195 tiến hóa tiếp (#196), được Isaac tạm gọi là "Ma Cà Rồng Long Tộc": đôi cánh to vượt chiều cao, vảy xanh xỉn, màng đỏ như cánh rồng (#201); không phát ra khí tức Ma Cà Rồng thông thường. Da mặt như người sống, răng nanh dài ra khi ngửi mùi máu. Luôn trùm áo choàng, đeo mặt nạ đầu lâu bị nguyền không tháo được (đổi được hình dạng).
-- Tính cách: Tỉnh táo, kiên nhẫn, khiêm nhường, giàu lòng trắc ẩn, chăm chỉ luyện tập 10 năm dù tài năng có hạn. Nhiệt tình chỉ bảo tân binh, hay nhận việc giúp người (động cơ: cha mẹ ruột bị ma vật giết khi anh 5 tuổi). Tự trọng, không muốn vay tiền Lorraine. Ngô nghê chuyện tình cảm. Khéo tay dị thường khi thao túng Ma Lực. Dằn vặt về nhân tính sau khi phải giết cư dân biến dị (#192); mục tiêu trở lại làm người không đổi.
-- Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Thời Ghoul giọng khàn đặc, ngọng nghịu ("V... Ves... Rentt..."), về sau phục hồi.
-- Năng lực (tính đến chương 201): Ma Lực (sau #196 tăng khoảng 150 lần so với lúc còn sống, tầm Kim Cấp; Aliumage bùng thành cột lửa), Khí Lực (học từ Capitan, tạo được giáp Khí Lực dạng găng, #170), Thần Lực (được ban nhờ tu sửa ngôi đền cổ ở Hathara); Ma Khí Dung Hợp Thuật; sức mạnh thể chất bóp nát đá; tự hồi phục nhanh; miễn nhiễm khí độc; cần uống máu (Lorraine, Sheila chia sẻ). Thuộc hạ: chuột Edel (mạng lưới chuột do thám, chia sẻ thị giác). Ma pháp: Ma Thuật Sinh Hoạt (Ignite Aryumage, Linpio), thiên phú hỏa ma pháp; đũa phép đầu rồng gắn Ma Tinh Terra Drake; túi ma thuật mua của Sharl Stheno. Rina là quyến thuộc Ma Cà Rồng của anh (#195), rút được Ma Lực và Thần Lực từ anh.
-- Thân phận: Mạo hiểm giả Đồng Cấp (Augurey nhận định đủ sức thi Ngân Cấp), mục tiêu Mithril Cấp. Ở Maalt dùng danh tính Rentt Vivie; từ #127 Hội Trưởng Wolf Hermann biết thân phận thật (khế ước ma pháp) và nhận làm nhân viên Hội. Những người biết anh là Undead: Lorraine, Sheila, Wolf, Augurey (#160–161, khế ước Thần Lực của Hozei), Capitan, Gharb (#168), Laura, Isaac, Rina. Nive Maris đã phán định anh không phải Ma Cà Rồng.
-- Quan hệ với nhân vật khác: Bạn thân 10 năm và đối tác nghiên cứu với Lorraine; ân nhân, tiền bối và chủ của Rina; được Sheila tôn trọng, chăm lo; khách quen tiệm rèn Clope - Luka; thầy kiếm thuật của Alize. Con nuôi trưởng làng Hathara Ingo Faina và bà Gilda; bạn thuở nhỏ Riri, Fahri, Doras (xem như em); học chữ từ trưởng làng và bà lão Gharb; học Khí Lực từ Capitan.
-- Lý lịch Hathara: Mang dòng máu hậu duệ Vương Quốc Cổ Đại; được Gharb giao quyền quản lý Thành Phố Mê Cung Của Hiền Vương Felt (tầng 60 Mê Cung Côn Trùng Cổ); có các cặp đá ma pháp đỏ-xanh để lập ma pháp trận dịch chuyển.
-- Trạng thái tính đến chương 201: Cùng Lorraine, Isaac, Laura đánh bại Shumini và giải cứu Maalt khỏi bị biến thành mê cung (#192–195); tỉnh lại ở dinh thự Latuule sau tiến hóa; cùng nhóm thống nhất kịch bản báo cáo Hội để giấu việc Laura chiếm Lõi Mê Cung và việc Rina thành Ma Cà Rồng. Isaac khuyên thỉnh cầu Thần Giám Định và đi tìm truyền thuyết các đền thờ cổ. Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
+- Giới tính/tuổi/vẻ ngoài: Nam, 25 tuổi (#1). Bị rồng nuốt ở Mê Cung Nguyệt Ảnh → Khô Lâu → Ngạ Quỷ (Ghoul) → tiệm cận Hạ Cấp Ma Cà Rồng (#73) → uống máu Laura tiến hóa (#196), Isaac tạm gọi "Ma Cà Rồng Long Tộc" (cánh rồng, #201); không phát khí tức Ma Cà Rồng thông thường. Răng nanh dài ra khi ngửi máu. Trùm áo choàng, đeo mặt nạ đầu lâu bị nguyền không tháo được (đổi được hình dạng).
+- Tính cách: Kiên nhẫn, khiêm nhường, trắc ẩn, chăm chỉ dù tài năng có hạn; hay giúp người, chỉ bảo tân binh (cha mẹ ruột bị ma vật giết khi 5 tuổi). Ngô nghê chuyện tình cảm. Dằn vặt nhân tính sau #192; mục tiêu trở lại làm người.
+- Cách nói chuyện: Lịch sự, nhã nhặn, khiêm tốn, biết trước biết sau. Thời Ghoul giọng khàn, ngọng ("V... Ves... Rentt..."), về sau phục hồi.
+- Năng lực (đến #201): Ma Lực (sau #196 tầm Kim Cấp), Khí Lực (học từ Capitan), Thần Lực (nhờ tu sửa đền cổ Hathara); Ma Khí Dung Hợp Thuật; tự hồi phục; cần uống máu (Lorraine, Sheila). Thuộc hạ chuột Edel. Ma Thuật Sinh Hoạt (Ignite Aryumage, Linpio), thiên phú hỏa; đũa phép đầu rồng; túi ma thuật của Sharl Stheno.
+- Thân phận: Mạo hiểm giả Đồng Cấp (đủ sức thi Ngân Cấp), mục tiêu Mithril Cấp. Ở Maalt dùng danh tính Rentt Vivie; từ #127 làm nhân viên Hội dưới Wolf Hermann. Biết anh là Undead: Lorraine, Sheila, Wolf, Augurey (#160–161, khế ước Thần Lực của Hozei), Capitan, Gharb (#168), Laura, Isaac, Rina. Nive Maris phán định anh không phải Ma Cà Rồng.
+- Quan hệ: Bạn thân 10 năm của Lorraine; chủ của Rina (quyến thuộc Ma Cà Rồng, #195); khách quen tiệm rèn Clope - Luka; thầy kiếm của Alize. Con nuôi trưởng làng Hathara Ingo Faina và bà Gilda; bạn thuở nhỏ Riri, Fahri, Doras; bà lão Gharb.
+- Lý lịch Hathara: Hậu duệ Vương Quốc Cổ Đại; quản lý Thành Phố Mê Cung Của Hiền Vương Felt (tầng 60 Mê Cung Côn Trùng Cổ); có đá ma pháp đỏ-xanh lập trận dịch chuyển.
+- Trạng thái (đến #201): Cùng Lorraine, Isaac, Laura đánh bại Shumini, cứu Maalt (#192–195); giấu Hội việc Laura chiếm Lõi Mê Cung và Rina thành Ma Cà Rồng. Định thỉnh cầu Thần Giám Định. Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
 
 ### Rina Rupaage
-- Giới tính, tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng được chăm sóc kỹ, mắt xanh lam sáng ngời, vẻ ngoài mảnh mai, trang bị kiếm sắt và giáp nhẹ tân thủ.
-- Tính cách: Chân thành, lương thiện, dũng cảm nhưng còn non kinh nghiệm. Trọng danh dự, giữ lời hứa, mang ơn sâu sắc với Rentt. Sau khi thành Ma Cà Rồng vẫn tích cực, hồn nhiên (ngây thơ nói con người "trông ngon"), cảm xúc phẳng lặng hơn trước.
-- Cách nói chuyện: Lễ phép, tôn kính, hoạt bát; lúc đầu hơi rụt rè trước vẻ ngoài quái dị của Rentt.
-- Quan hệ: Được Rentt cứu khỏi Khô Lâu, xem anh là tiền bối đáng kính (Mister Rentt); từ #195 là quyến thuộc Ma Cà Rồng của Rentt. Tên thật Rina Rogue (#24), con gia đình hiệp sĩ/quý tộc, bỏ nhà đi vì bị ép hôn; anh trai là Idoles Rogue (Đệ Nhất Kỵ Sĩ Đoàn), từng bí mật dạy cô kiếm thuật. Tổ đội: kiếm sĩ Raiz Dunner và ma pháp sư Laura Satii (#129).
-- Năng lực (tính đến chương 204): Bẩm sinh dồi dào Ma Lực và Khí Lực; sau khi thành Ma Cà Rồng có sức mạnh tầm Hạ Cấp Ma Cà Rồng (bóp nát đá); rút được Ma Lực và Thần Lực từ Rentt (chưa rút được Khí Lực); dùng được Aliumage, Ma Lực tầm ma pháp sư trung cấp; dung nạp Thần Lực nên không bị Thánh Hỏa ảnh hưởng; không phát ra khí tức Ma Cà Rồng thông thường.
-- Trạng thái tính đến chương 204: Bị Shumini bắt khi đi tìm Raiz và Laura Satii mất tích, bị biến thành Hạ Cấp Ma Cà Rồng để dung hợp với Lõi Mê Cung; được Rentt thu làm quyến thuộc và Laura giải phóng (#195). Đã báo cáo với Hội theo kịch bản "được giải cứu sau khi bị bắt", qua được Thánh Hỏa của Nive, đoàn tụ với Raiz và Laura Satii tại Phòng Khám Kohm; giữ kín thân phận Ma Cà Rồng.
-- Trạng thái tính đến chương 215: Nhận lời hướng dẫn và cùng luyện tập với Alize tại Cô Nhi Viện Thứ Hai Maalt trong thời gian nhóm Rentt lên vương đô; hào hứng thức khuya làm một cuốn cẩm nang du lịch và mua sắm tại vương đô để gửi Rentt và Lorraine.
-- Trạng thái tính đến chương 225: Cùng Alize đến dinh thự Gia tộc Latuule theo dặn dò của Lorraine; đã thuần thục ma pháp ngâm xướng và bước đầu thi triển thành công ma pháp rút ngắn Gie Vieros (thổ tiễn) dưới sự hướng dẫn của Isaac.
-- Trạng thái tính đến chương 275: Luyện tập ma pháp kết hợp võ thuật và đấu tập với Isaac tại dinh thự Latuule; do luôn thua Isaac trong cùng khoảng thời gian nên sinh ra tự ti khi so sánh với mọi người xung quanh; nghe lời Isaac và Alize đến Hội Mạo Hiểm Giả tìm nhận ủy thác tác chiến đơn lẻ Thiết Cấp để kiểm chứng thực lực; được Sheila nhận ra tâm sự và nhiệt tình giúp đỡ.
-- Trạng thái tính đến chương 277: Đến quán trọ gặp nữ thân chủ thương nhân Dorothea Merrow để bàn chi tiết chuyến đi hộ vệ; khuyên đổi lộ trình tránh Núi Tute (do Harpy đến làm tổ sớm) và tránh Đại Lộ Farga (do sập cầu) sang Đại Lộ Radha nhờ nắm bắt tin tức từ người dân các làng quê hay đến chợ Maalt; thể hiện sự trung thực và tự tin bản thân không chết trước bầy quái vật hàng trăm con, chính thức được Dorothea tin tưởng nhận thuê.
-- Trạng thái tính đến chương 279: Hộ vệ cho Dorothea rời Maalt được một ngày; dùng kiến thức thảo dược học từ Rentt để nhận diện và thu hoạch cỏ arcante cùng thảo dược giọt sương ven đường; thể hiện sự nhanh nhạy và phản xạ vượt trội khi chém rơi mũi tên bắn lén, phóng dao hạ cung thủ và một mình lao vào rừng săn lùng nhóm cướp của Guster.
-- Trạng thái tính đến chương 280: Lần lượt hạ gục toán cướp trong rừng trong chớp mắt, bắt sống thủ lĩnh Guster và tra hỏi ra việc gã được thuê để quấy phá Dorothea; cùng Dorothea phân tích loại trừ khả năng người cha đứng sau; khẳng định sẽ tiếp tục bảo vệ an toàn cho Dorothea khi nữ thương nhân kiên quyết không bỏ nghề.
-- Trạng thái tính đến chương 281: Vận dụng năng lực thể chất quái vật cùng kỹ năng chiến đấu và thuật thao túng tâm trí học từ Isaac trong các buổi khổ luyện nửa đêm tại dinh thự Latuule lên Guster; cùng Dorothea áp giải Guster bàn giao cho lính gác ở thị trấn tiền đồn.
-- Trạng thái tính đến chương 282: Cùng Dorothea đến một ngôi làng miền núi giao thương; giúp Dorothea tính toán sổ sách bán hàng; dùng năng lực quái vật phát hiện dấu vết tên cướp Guster (kẻ đã bị cô cắn) đang rời khỏi nhà giam và tiến lại gần (#282).
+- Giới tính/tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng, mắt xanh lam sáng, mảnh mai.
+- Tính cách: Chân thành, lương thiện, dũng cảm, trọng lời hứa, mang ơn Rentt sâu sắc. Sau khi thành Ma Cà Rồng vẫn hồn nhiên (ngây thơ nói con người "trông ngon"), cảm xúc phẳng lặng hơn. Từng tự ti vì luôn thua Isaac (#275).
+- Cách nói chuyện: Lễ phép, tôn kính, hoạt bát; gọi Rentt "anh Rentt" (raw: Mister Rentt).
+- Quan hệ: Được Rentt cứu khỏi Khô Lâu, xem là tiền bối đáng kính; từ #195 là quyến thuộc Ma Cà Rồng của Rentt. Tên thật Rina Rogue (#24), con gia đình hiệp sĩ/quý tộc, bỏ nhà vì bị ép hôn; anh trai Idoles Rogue. Tổ đội: Raiz Dunner, Laura Satii (#129). Cùng luyện tập với Alize; học từ Isaac ở dinh thự Latuule.
+- Năng lực (đến #281): Sức mạnh tầm Hạ Cấp Ma Cà Rồng; rút Ma Lực, Thần Lực từ Rentt; Aliumage, Gie Vieros (#225); không sợ Thánh Hỏa; thao túng tâm trí học từ Isaac (#281).
+- Trạng thái (đến #282): Thành Ma Cà Rồng, quyến thuộc của Rentt (#195), giữ kín thân phận. Nhận ủy thác Thiết Cấp hộ vệ nữ thương nhân Dorothea Merrow (#277); bắt thủ lĩnh cướp Guster (được thuê quấy phá Dorothea, #280), giao lính gác (#281). Đang ở làng miền núi; phát hiện Guster (từng bị cô cắn) rời nhà giam tiến lại gần (#282).
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
 
 ### Idoles Rogue
-- Giới tính, tuổi/vẻ ngoài: Nam, hiệp sĩ trẻ tóc vàng mắt xanh lam như ngọc bích, mặc giáp trắng bạc sáng bóng, ngoại hình đĩnh đạc như bước ra từ truyện cổ tích.
-- Tính cách: Lịch thiệp, chính trực, đàng hoàng, phép tắc gia giáo nghiêm cẩn; mang vẻ u buồn, cô độc khi lo lắng tìm kiếm em gái trốn nhà.
-- Cách nói chuyện: Lễ độ, nhã nhặn, chuẩn mực quý tộc khi giao tiếp với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường và thẳng thắn, không dùng giọng trịch thượng hay kẻ cả; xưng "tôi" gọi "ngài".
-- Quan hệ: Anh trai của Rina Rogue (Rina Rupaage); kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn của Vương Quốc Yaaran.
-- Trạng thái tính đến chương 24: Xin nghỉ phép tạm thời đến Maalt tìm kiếm em gái Rina; vô tình va phải Rentt ngoài cửa tiệm Ba Chĩa và nhờ anh để mắt giúp.
-- Trạng thái tính đến chương 129: Gặp lại Rentt trong hình dạng mặt nạ đầu lâu; nhận lời nhắn từ Rina và gửi lại lời hẹn gặp sau một tháng do chuẩn bị phải trở về vương đô một thời gian.
+- Giới tính/vẻ ngoài: Nam, hiệp sĩ trẻ tóc vàng mắt xanh lam ngọc bích, giáp trắng bạc, đĩnh đạc như bước ra từ truyện cổ tích.
+- Tính cách: Lịch thiệp, chính trực, gia giáo nghiêm cẩn; u buồn khi lo tìm em gái trốn nhà.
+- Cách nói chuyện: Lễ độ, chuẩn mực quý tộc với người lạ ("xin thứ lỗi", "chẳng hay", "rất cảm kích"), khiêm nhường, thẳng thắn, không trịch thượng; xưng "tôi" gọi "ngài".
+- Quan hệ: Anh trai Rina Rogue (Rina Rupaage); kỵ sĩ Đệ Nhất Kỵ Sĩ Đoàn Vương Quốc Yaaran; từng bí mật dạy Rina kiếm thuật.
+- Trạng thái (đến #129): Đến Maalt tìm Rina, nhờ Rentt để mắt (#24); nhận lời nhắn của Rina qua Rentt, hẹn gặp sau một tháng vì phải về vương đô (#129).
 
 ### Lorraine Vivie
-- Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Rentt (khoảng 24–25 tuổi), xinh đẹp, quyến rũ tự nhiên nhưng luộm thuộm, thường mặc áo choàng pháp sư nhàu nhĩ, tóc bù xù vì mải nghiên cứu.
-- Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước mọi hiện tượng quái dị. Đam mê nghiên cứu ma pháp, thuật giả kim và sinh thái quái vật. Tửu lượng rất cao (có lần say nguội cả ngày, #173). Tôn trọng quy tắc mạo hiểm giả, không đào sâu quá khứ của Rentt. Hay trêu Rentt (diễn xuất, mặt nạ).
-- Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, thẳng thắn, giọng bạn bè thân tình 10 năm với Rentt; khi giảng bài thì điềm đạm kiểu học giả.
-- Quan hệ: Bạn chí cốt của Rentt, người đầu tiên anh thổ lộ việc biến thành Undead; khẳng định biến cố của anh không ảnh hưởng quan hệ hai người (#168); chia sẻ máu cho anh. Thầy dạy ma thuật của Alize (từ #74), kèm lý thuyết cho Rentt. Thân thiết với Rina (xem như em gái kiêm chuột bạch, #199).
-- Lý lịch, năng lực: Xuất thân Đế Quốc Rermutt; từng là học giả tinh hoa tranh chức hiệu trưởng Đệ Nhất Đại Học Rermutt nhưng bị chèn ép nên bỏ tới Maalt. Mạo hiểm giả Ngân Cấp kiêm y sĩ ma thuật. Kiểm soát hỏa ma pháp cực tinh; dùng ma pháp ảo ảnh, dây leo, ma nhãn, ma pháp che chắn nhận thức; giám định được ma cụ. Có mảnh đất lớn ngoại vi Maalt làm bãi thử ma thuật; có nhiều thẻ căn cước giả của Đế Quốc.
-- Trạng thái tính đến chương 192: Cùng Rentt về Hathara (điều tra đền cổ, cùng Gharb giải mã tài liệu cổ ngữ), rồi cưỡi Lindblum về Maalt khi thị trấn bị Thi Quỷ phóng hỏa (#172). Cùng Rentt hỗ trợ Bá tước Robista săn Ent Cổ Đại chữa dịch bệnh (#175–176). Cùng Rentt, Isaac, Laura xuống cống ngầm đánh Shumini (#192–195); tự trách vì chậm tay khiến Rentt phải giết cư dân biến dị. Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt.
+- Giới tính/tuổi/vẻ ngoài: Nữ, trạc tuổi Rentt (~24–25), xinh đẹp nhưng luộm thuộm, áo choàng pháp sư nhàu, tóc bù xù.
+- Tính cách: Thông minh kiệt xuất, lập dị, thực tế, bình thản trước điều quái dị; mê nghiên cứu. Tửu lượng rất cao. Hay trêu Rentt.
+- Cách nói chuyện: Tự nhiên, suồng sã, sắc sảo, giọng bạn thân 10 năm với Rentt; khi giảng bài điềm đạm kiểu học giả.
+- Quan hệ: Bạn chí cốt của Rentt, người đầu tiên biết anh thành Undead; chia sẻ máu cho anh; khẳng định biến cố không ảnh hưởng quan hệ (#168). Thầy ma thuật của Alize (#74), kèm lý thuyết cho Rentt. Thân với Rina (xem như em gái kiêm chuột bạch, #199). Danh tính giả của Rentt mang họ cô.
+- Lý lịch, năng lực: Xuất thân Đế Quốc Rermutt, từng là học giả tinh hoa Đệ Nhất Đại Học Rermutt, bị chèn ép nên tới Maalt. Mạo hiểm giả Ngân Cấp kiêm y sĩ ma thuật; hỏa ma pháp cực tinh, ảo ảnh, che chắn nhận thức. Có nhiều thẻ căn cước giả của Đế Quốc.
+- Trạng thái (đến #192): Cùng Rentt về Hathara (#168–172); cùng nhóm đánh Shumini (#192–195). Đang nghiên cứu Tử Linh Thuật để hiểu bản thể Undead của Rentt.
 
 ### Sheila Ibarss
-- Giới tính, tuổi/vẻ ngoài: Nữ, ngoài 20 tuổi, nhân viên tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở chỉnh tề, thanh lịch.
-- Tính cách: Tận tụy, chu đáo, ấm áp, có tinh thần trách nhiệm cao.
-- Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ nhưng ẩn chứa sự quan tâm sâu sắc đối với Rentt.
-- Quan hệ: Người phụ trách hành chính và nhiệm vụ của Rentt suốt 5 năm qua; có em trai là nhân viên giám sát bí mật của Hội (theo sát nhóm thi ở chương 38), chuẩn bị chuyển công tác lên thủ đô Yaaran vào tuần tới.
-- Trạng thái tính đến chương 61: Hốt hoảng kéo Rentt vào phòng tiếp khách cơ mật để cảnh báo về tầm ảnh hưởng của gia tộc Latuule và áp lực của Hội đối với ủy thác định kỳ do Isaac Hart gửi tới; lo lắng cho bí mật thân phận quái vật của Rentt nhưng hứa sẽ dốc toàn lực giúp đỡ anh.
-- Trạng thái tính đến chương 79: Gặp lại Rentt sau khi anh tiến hóa thành Hạ Cấp Ma Cà Rồng; ngỡ ngàng trước giọng nói trôi chảy cùng làn da nhẵn mịn phục hồi như xưa; đồng ý tiếp tục quản lý hồ sơ dưới danh tính Rentt Vivie; thông báo xác Tarasque chưa bán được và dẫn anh tới phòng mổ xẻ.
-- Trạng thái tính đến chương 128: Đến nhà Lorraine dùng bữa tối cùng Rentt; chủ động hiến máu của mình hòa vào thức ăn cho Rentt để san sẻ gánh nặng sức khỏe cho Lorraine; giải thích điều lệ nội bộ cũ về việc nhân viên Hội được giữ danh tính mạo hiểm giả để khảo sát thông tin.
+- Giới tính/tuổi/vẻ ngoài: Nữ, ngoài 20, tiếp tân Hội mạo hiểm giả Maalt, trang phục công sở thanh lịch.
+- Tính cách: Tận tụy, chu đáo, ấm áp, trách nhiệm cao.
+- Cách nói chuyện: Lịch sự, ân cần chuẩn mực công vụ, ẩn quan tâm sâu sắc với Rentt.
+- Quan hệ: Phụ trách hồ sơ, nhiệm vụ của Rentt suốt 5 năm; biết anh là Undead; có em trai là nhân viên giám sát bí mật của Hội (#38).
+- Trạng thái (đến #128): Quản lý hồ sơ dưới danh tính Rentt Vivie (#79); hiến máu cho Rentt (#128); giúp Rina tìm ủy thác (#275).
 
 ### Luka
-- Giới tính, tuổi/vẻ ngoài: Nữ, trạc tuổi Clope (khoảng 40 tuổi nhưng trông trẻ đẹp quý phái hơn hẳn), tóc vàng, mắt xanh, phong thái nhã nhặn như tiểu thư quý tộc.
-- Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí và thấu hiểu khách hàng sâu sắc; giàu tình cảm và quan tâm chân thành đến Rentt.
-- Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo léo với khách; dịu dàng, thân thiết với chồng.
-- Quan hệ: Vợ kiêm bạn thanh mai trúc mã của Clope; người tiếp đón và sớm nhận ra Rentt sau lớp mặt nạ tại tiệm Ba Chĩa.
-- Trạng thái tính đến chương 24: Tiếp nhận đơn rèn thanh kiếm đặc biệt dẫn truyền cả 3 loại năng lượng từ Rentt; cùng Clope ngầm giữ kín bí mật về thân phận của anh; lấy một thanh kiếm mượn tạm khác tốt hơn cho Rentt dùng theo lời dặn của Clope trong lúc chờ rèn xong kiếm đặt.
+- Giới tính/tuổi/vẻ ngoài: Nữ, ~40 tuổi nhưng trông trẻ đẹp quý phái, tóc vàng, mắt xanh, phong thái tiểu thư quý tộc.
+- Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí; quan tâm chân thành đến Rentt.
+- Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo với khách; dịu dàng với chồng.
+- Quan hệ: Vợ kiêm thanh mai trúc mã của Clope; sớm nhận ra Rentt sau lớp mặt nạ tại tiệm Ba Chĩa, cùng Clope giữ kín bí mật.
+- Trạng thái (đến #24): Nhận đơn rèn kiếm dẫn truyền 3 loại năng lượng cho Rentt.
 
 ### Clope
-- Giới tính, tuổi/vẻ ngoài: Nam, khoảng ngoài 40 tuổi, cơ bắp cuồn cuộn nhưng dáng người có phần mảnh khảnh; gương mặt dạn dày sương gió như chiến binh kỳ cựu.
-- Tính cách: Cần cù, say mê nghề rèn, khi rèn vũ khí thì tập trung cao độ như rơi vào trạng thái xuất thần; vẻ ngoài và lời ăn tiếng nói thô ráp bộc trực như đe dọa nhưng bản chất rất hiền lành, chu đáo và biết nghĩ cho khách hàng.
-- Cách nói chuyện: Bộc trực, dân dã, ngắn gọn, thẳng thắn.
-- Quan hệ: Chồng kiêm bạn thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái tính đến chương 43: Chế tác thành công thanh kiếm đặc biệt chịu tải cả ba nguồn năng lượng cho Rentt; có sở thích làm vườn kín đáo, hào hứng xin Rentt giữ lại các mầm cây thần thánh nảy mầm từ bia mục tiêu; cảnh báo Rentt về sự nguy hiểm khi dẫn truyền đồng thời ba nguồn năng lượng và khuyên anh nên thử Ma Khí Dung Hợp Thuật với kiếm cũ trước.
-- Trạng thái tính đến chương 118: Giữ lại và trồng thành công 5 cây chứa Thần Lực mọc ra từ hình nhân gỗ do Rentt chém; nhận định Ma Thiết đượm ma lực rồng của Rentt có giá trị một đồng xu bạch kim; chia 2 cây thần lực cho Lorraine nghiên cứu giả kim và dự định dùng 3 cây còn lại thử nghiệm chế tác trang bị hoặc làm củi đốt.
+- Giới tính/tuổi/vẻ ngoài: Nam, ngoài 40, cơ bắp nhưng dáng hơi mảnh, gương mặt dạn dày như chiến binh kỳ cựu.
+- Tính cách: Say mê nghề rèn, tập trung như xuất thân khi rèn; bề ngoài thô ráp như đe dọa nhưng hiền lành, chu đáo với khách. Sở thích làm vườn kín đáo.
+- Cách nói chuyện: Bộc trực, dân dã, ngắn gọn.
+- Quan hệ: Chồng kiêm thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
+- Trạng thái (đến #118): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118).
 
 ### Loris Cariello
-- Giới tính, tuổi/vẻ ngoài: Nam, trung niên, dáng người bình thường của một đầu bếp kiêm chủ quán ăn.
-- Tính cách: Thật thà, biết ơn, có phần vụng về, nhẹ dạ cả tin nên từng bị lừa nợ ngập đầu, nhưng rất yêu thương vợ và có tinh thần trách nhiệm.
-- Cách nói chuyện: Dân dã, bộc trực, tôn kính và gọi Rentt là "ông chủ" (Boss).
-- Quan hệ: Người được Rentt cứu mạng ở Mê Cung Nguyệt Ảnh; được Rentt tặng Ma Tinh trả nợ và nhận làm người đại diện/chân chạy việc; chồng của Isabel.
-- Trạng thái tính đến chương 20: Trở về an toàn cùng Rentt, dẫn Rentt về quán Phi Long Đỏ gặp vợ mình, chính thức biết tên Rentt và hứa giữ kín bí mật.
+- Giới tính, tuổi/vẻ ngoài: Nam, trung niên, đầu bếp kiêm chủ quán ăn.
+- Tính cách: Thật thà, biết ơn, vụng về, cả tin nên từng nợ ngập đầu; yêu vợ, có trách nhiệm.
+- Cách nói chuyện: Dân dã, bộc trực, gọi Rentt là "ông chủ" (Boss).
+- Quan hệ: Được Rentt cứu ở Mê Cung Nguyệt Ảnh, được tặng Ma Tinh trả nợ và nhận làm người đại diện/chân chạy việc; chồng Isabel.
+- Trạng thái (đến #20): Dẫn Rentt về quán Phi Long Đỏ gặp vợ, biết tên Rentt và hứa giữ bí mật.
 
 ### Isabel
-- Giới tính, tuổi/vẻ ngoài: Nữ, trẻ trung, tóc nâu hổ phách chải ngược ra sau, vóc dáng thanh mảnh, toát lên vẻ đáng tin cậy và chăm chỉ, là một mỹ nhân xinh đẹp và quyến rũ.
-- Tính cách: Tháo vát, chu đáo, hiểu chuyện, biết nghĩ cho người khác, rất lo lắng và yêu thương chồng nhưng không ngần ngại chấn chỉnh tính bốc đồng của Loris.
-- Cách nói chuyện: Lịch sự, nhã nhặn, chân thành; với chồng thì vừa yêu thương vừa nghiêm khắc răn đe.
-- Quan hệ: Vợ của Loris Cariello; vô cùng biết ơn Rentt vì đã cứu mạng chồng mình.
-- Trạng thái tính đến chương 20: Gặp gỡ Rentt tại quán Phi Long Đỏ, sau thoáng e ngại trước cánh tay khô quắt của Rentt đã thấu hiểu hoàn cảnh và chấp nhận thỏa thuận cùng Ma Tinh của anh với một cái bắt tay chân thành.
+- Giới tính/vẻ ngoài: Nữ, trẻ, tóc nâu hổ phách chải ngược, thanh mảnh, xinh đẹp, toát vẻ đáng tin.
+- Tính cách: Tháo vát, chu đáo, hiểu chuyện; yêu chồng nhưng không ngần ngại chấn chỉnh tính bốc đồng của Loris.
+- Cách nói chuyện: Lịch sự, nhã nhặn, chân thành; với chồng vừa yêu thương vừa nghiêm khắc.
+- Quan hệ: Vợ Loris Cariello; biết ơn Rentt cứu chồng.
+- Trạng thái (đến #20): Gặp Rentt ở quán Phi Long Đỏ, chấp nhận thỏa thuận cùng Ma Tinh.
 
 ### Rentt Vivie
 - Xem Rentt Faina (danh tính giả đăng ký tại Hội mạo hiểm giả dưới họ của Lorraine Vivie).
 
 ### Zarid
-- Giới tính, tuổi/vẻ ngoài: Nam, khoảng 40–50 tuổi (hơn Lorraine vài chục tuổi), trên mặt có nhiều vết sẹo chiến đấu nhưng tứ chi vẫn lành lặn nguyên vẹn.
-- Tính cách: Thẳng thắn, bộc trực, thực tế, cẩn trọng (bị một số kẻ coi là nhát gan nhưng thực chất là biết tự lượng sức mình), thích trêu đùa nhưng biết quan tâm đến người khác.
-- Cách nói chuyện: Dân dã, bộc trực, thoải mái như bạn bè lâu năm.
-- Quan hệ: Tiền bối kiêm đồng nghiệp của Lorraine và Rentt, thỉnh thoảng lập tổ đội cùng Lorraine; hay cùng bạn bè cá cược xem Lorraine có cưới Rentt hay không.
-- Trạng thái tính đến chương 29: Ngồi uống rượu cùng Lorraine tại quán rượu Maalt, chứng kiến cơn thịnh nộ hiếm thấy của Rentt và cách Rentt dùng mạng lưới quan hệ cô lập ba tên côn đồ dụ quái khắp thị trấn; khuyên Rentt nương tay và thấu hiểu sự đáng sợ của người bạn trẻ tuổi.
+- Giới tính/tuổi/vẻ ngoài: Nam, ~40–50, mặt nhiều sẹo chiến đấu nhưng tứ chi lành lặn.
+- Tính cách: Thẳng thắn, thực tế, cẩn trọng (bị coi là nhát nhưng thực ra biết lượng sức), thích trêu đùa nhưng biết quan tâm.
+- Cách nói chuyện: Dân dã, bộc trực, thoải mái như bạn lâu năm.
+- Quan hệ: Tiền bối kiêm đồng nghiệp của Lorraine và Rentt, thỉnh thoảng lập đội với Lorraine; hay cá cược xem Lorraine có cưới Rentt không.
+- Trạng thái (đến #29): Chứng kiến cơn thịnh nộ hiếm thấy của Rentt với ba tên côn đồ dụ quái.
 
 ### Yuris
 - Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả tân binh.
 - Tính cách: Cẩn trọng, biết trước biết sau, tôn trọng và tin tưởng tiền bối Rentt.
-- Quan hệ: Từng tham gia lớp hướng dẫn mạo hiểm giả tân binh của Rentt ở Hội mạo hiểm giả; có một tổ đội riêng.
-- Trạng thái tính đến chương 29: Phát hiện nhóm ba kẻ côn đồ có ý đồ dụ quái sang nhóm mình nên báo trước cho Rentt; được Rentt đi cùng bảo vệ an toàn khi bị lùa cả đàn Goblin.
+- Quan hệ: Từng dự lớp hướng dẫn tân binh của Rentt; có tổ đội riêng.
+- Trạng thái (đến #29): Được Rentt bảo vệ khỏi nhóm côn đồ dụ quái (đàn Goblin).
 
 ### Raiz Dunner
-- Giới tính, tuổi/vẻ ngoài: Nam, thiếu niên thấp người, mái tóc đỏ cắt ngắn và ánh mắt tràn đầy nhiệt huyết; trang bị kiếm sĩ.
-- Tính cách: Năng nổ, bộc trực, tự tin, chủ động nhận vai trò trưởng nhóm nhưng biết cư xử lịch thiệp, biết cúi đầu chào hỏi đồng đội.
+- Giới tính/tuổi/vẻ ngoài: Nam, thiếu niên thấp người, tóc đỏ cắt ngắn, ánh mắt nhiệt huyết; kiếm sĩ.
+- Tính cách: Năng nổ, bộc trực, tự tin, tự nhận trưởng nhóm nhưng lịch thiệp.
 - Cách nói chuyện: Thẳng thắn, cởi mở, gọi thẳng tên "Rentt", xưng "tôi" (hoặc "chúng ta/mình").
-- Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người tham gia bài thi thực hành thăng hạng Đồng Cấp.
-- Trạng thái tính đến chương 38: Hoàn thành bài thi thăng hạng Đồng Cấp an toàn; xúc động bày tỏ lòng biết ơn đối với những lời dạy của Rentt khi chia tay tổ đội và hy vọng có dịp lập đội tái ngộ cùng anh.
-- Trạng thái tính đến chương 204: Bị Ma Cà Rồng bắt cóc giam giữ ở Mê Cung Tân Nguyệt và được nhóm Rentt giải cứu đưa về Phòng Khám Kohm tĩnh dưỡng; đoàn tụ với Rina; ngỡ ngàng và sùng bái khi biết Lorraine là mạo hiểm giả Ngân Cấp kiêm học giả ma pháp sư và Nive Maris là mạo hiểm giả Kim Cấp còn rất trẻ.
+- Quan hệ: Đồng đội thân thiết của Laura Satii; cùng Rentt lập đội 3 người thi thăng Đồng Cấp; tổ đội với Rina (#129).
+- Trạng thái (đến #204): Thăng Đồng Cấp (#38). Bị Ma Cà Rồng bắt giam ở Mê Cung Tân Nguyệt, được nhóm Rentt cứu, đoàn tụ Rina ở Phòng Khám Kohm (#204).
 
 ### Laura Satii
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm mại, vẻ ngoài điềm tĩnh, dịu dàng; trang bị ma pháp sư hỗ trợ.
+- Giới tính/tuổi/vẻ ngoài: Nữ, thiếu nữ trạc tuổi Raiz, tóc nâu nhạt mềm, điềm tĩnh dịu dàng; ma pháp sư hỗ trợ.
 - Tính cách: Lễ phép, khiêm tốn, biết trước biết sau, hỗ trợ đồng đội chu đáo từ tuyến sau.
 - Cách nói chuyện: Nhã nhặn, lễ độ, xưng "tôi", gọi Rentt là "anh Vivie" (Mister Vivie).
-- Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz.
-- Trạng thái tính đến chương 38: Chính thức thăng hạng Đồng Cấp; tinh tế nhận ra chí hướng và mục tiêu riêng biệt của Rentt (anh Vivie) khi chia tay tổ đội, cảm ơn anh đã bảo bọc, tạo cơ hội cho cả hai trưởng thành và khẳng định anh mãi là đồng đội của nhóm.
-- Trạng thái tính đến chương 204: Bị Ma Cà Rồng bắt cóc giam giữ ở Mê Cung Tân Nguyệt và được nhóm Rentt giải cứu đưa về Phòng Khám Kohm tĩnh dưỡng; đoàn tụ với Rina; ngỡ ngàng và sùng bái khi biết Lorraine là mạo hiểm giả Ngân Cấp kiêm học giả ma pháp sư và Nive Maris là mạo hiểm giả Kim Cấp còn rất trẻ.
+- Quan hệ: Bạn đồng hành của Raiz Dunner; đồng đội thi thực hành cùng Rentt và Raiz; tổ đội với Rina.
+- Trạng thái (đến #204): Thăng Đồng Cấp (#38). Bị Ma Cà Rồng bắt giam ở Mê Cung Tân Nguyệt, được nhóm Rentt cứu, đoàn tụ Rina ở Phòng Khám Kohm (#204).
 - Lưu ý: Raw từ tập 8 đổi sang viết thành Lola, bản dịch tiếng Việt luôn dùng tên đã chốt là Laura / Laura Satii.
 - Phân biệt: Raw #33–38 chỉ gọi tắt "Laura", trùng alias của Laura Latuule (#62+), nên `prepare.py` có thể khớp nhầm. Trước #62, "Laura" luôn là Laura Satii: gọi "cô / cô gái / thiếu nữ", không gọi "cô bé"; gọi Raiz và Laura là "hai người", không gọi "hai đứa".
 
 ### Augurey
-- Giới tính, tuổi/vẻ ngoài: Nam, tên đầy đủ Augurey Ars (#155). Phong cách lập dị: trang phục sặc sỡ bảy sắc cầu vồng, mũ lớn gắn lông công, chuôi kiếm chạm khắc lóa mắt; khi cần kín đáo thì đổi sang đồ tối màu (#159).
-- Tính cách: Phóng túng, tự do tự tại ("nghe thấy tiếng gọi của cơn gió"), kỹ năng tác chiến và trực giác rất nhạy dù vẻ ngoài ngổ ngáo. Mê Slime. Thời trẻ bốc đồng có một cái tên thật dài ngoằng; từng thề không về quê vì chán những kẻ kiêu ngạo bảo thủ, nhưng nhờ Rentt và Lorraine mà nhen ý định về thăm ông nội/ông ngoại (#236).
-- Thân phận: Mạo hiểm giả Ngân Cấp, rời Maalt lên hoạt động ở vương đô Vistelya (#42, #155).
-- Quan hệ: Người quen cũ ở Maalt của Rentt (từng lập tổ đội tạm, tán gẫu ở quán rượu). Ở #159 nhận ra Rentt và Lorraine dưới lốt cải trang "Purple và Olga" qua kiếm thuật của Rentt; biết Rentt là Undead (#160) mà vẫn coi là bạn, sẵn sàng chia sẻ máu; ký khế ước ma pháp giữ bí mật tại Đền thờ Hozei (#161). Từ #231 lập tổ đội tạm với Rentt và Lorraine nhận các ủy thác tồn đọng, chia thù lao đều ba phần.
-- Trạng thái tính đến chương 236: Đang làm ủy thác cùng Rentt và Lorraine ở Làng Looza; hóa giải đòn ám sát của Ferrici.
+- Giới tính/vẻ ngoài: Nam, tên đầy đủ Augurey Ars (#155). Lập dị: trang phục bảy sắc cầu vồng, mũ lông công.
+- Tính cách: Phóng túng, tự do ("nghe thấy tiếng gọi của cơn gió"), tác chiến và trực giác rất nhạy. Mê Slime. Thời trẻ có tên thật dài ngoằng; từng thề không về quê vì chán kẻ kiêu ngạo bảo thủ, nhờ Rentt và Lorraine nhen ý định về thăm ông (#236).
+- Thân phận: Mạo hiểm giả Ngân Cấp, hoạt động ở vương đô Vistelya (#42, #155).
+- Quan hệ: Người quen cũ ở Maalt của Rentt. Nhận ra Rentt và Lorraine dưới lốt cải trang "Purple và Olga" qua kiếm thuật (#159); biết Rentt là Undead (#160) vẫn coi là bạn, sẵn sàng chia máu; ký khế ước giữ bí mật tại Đền thờ Hozei (#161). Từ #231 lập tổ đội tạm với Rentt, Lorraine, chia thù lao ba phần.
+- Trạng thái (đến #236): Làm ủy thác cùng Rentt, Lorraine ở Làng Looza; hóa giải đòn ám sát của Ferrici.
 
 ### Ryuntus
-- Giới tính, tuổi/vẻ ngoài: Nam, trạc ngoài đôi mươi, thanh niên chất phác sống ở Làng Todds ven Hồ Ruiess.
-- Tính cách: Chân thành, yêu thương em gái sâu sắc, có phần cả tin, chất phác nhưng không kém phần quyết tâm khi dám lặn lội lên Maalt tìm người cứu em.
+- Giới tính/tuổi: Nam, ngoài đôi mươi, thanh niên chất phác Làng Todds ven Hồ Ruiess.
+- Tính cách: Chân thành, thương em gái, cả tin nhưng quyết tâm (lặn lội lên Maalt tìm người cứu em).
 - Cách nói chuyện: Lễ phép, thành khẩn, gọi "anh Rentt" (hoặc "ngài").
-- Quan hệ: Anh trai của Amiris; người thuê Rentt bảo vệ em gái khỏi hủ tục dâng tế của Làng Todds.
-- Trạng thái tính đến chương 47: Cùng Rentt và Amiris lên thuyền ra giữa hồ, chứng kiến Rentt chém tan quái vật ảo ảnh và khống chế băng nhóm thương nhân lữ hành bắt cóc tống tiền/bán nô lệ, cứu sống em gái cùng các thiếu nữ trong làng; tiễn Rentt lên xe ngựa về Maalt và hứa sẽ lên thăm anh.
+- Quan hệ: Anh trai Amiris; thuê Rentt bảo vệ em khỏi hủ tục dâng tế của Làng Todds.
+- Trạng thái (đến #47): Em gái được cứu; hứa lên Maalt thăm Rentt.
 
 ### Amiris
-- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 15–16 tuổi, xinh đẹp nổi bật với đôi mắt xanh ngọc bích (sapphire) long lanh.
-- Tính cách: Sắc sảo, thực tế, hiểu chuyện, bên ngoài tỏ ra bướng bỉnh và chấp nhận số phận nhưng sâu thẳm rất sợ hãi cái chết; hết mực lo lắng cho người anh trai cả tin; giàu lòng biết ơn và tình cảm.
-- Cách nói chuyện: Ban đầu khách sáo, sắc lạnh đề phòng; sau khi được Rentt thấu hiểu, động viên và cứu sống thì trở nên chân thành, bộc trực, xưng "em" với anh trai và Rentt, gọi "anh Rentt".
-- Quan hệ: Em gái của Ryuntus; người được chọn làm vật hiến tế tiếp theo cho Chúa Tể Hồ; được Rentt đồng ý bảo vệ và cứu sống.
-- Trạng thái tính đến chương 47: Được Rentt cứu thoát khỏi nghi thức hiến tế giả mạo, vạch trần âm mưu bắt cóc tống tiền/bán nô lệ của nhóm thương nhân lữ hành; hôn lên mặt nạ của Rentt để cảm ơn trước khi anh lên xe ngựa về Maalt.
+- Giới tính/tuổi/vẻ ngoài: Nữ, ~15–16 tuổi, xinh đẹp, mắt xanh ngọc bích (sapphire).
+- Tính cách: Sắc sảo, thực tế; ngoài bướng bỉnh cam chịu nhưng trong rất sợ chết; lo cho anh trai cả tin.
+- Cách nói chuyện: Ban đầu khách sáo, đề phòng; sau thì chân thành, xưng "em" với anh trai và Rentt, gọi "anh Rentt".
+- Quan hệ: Em gái Ryuntus; vật hiến tế được chọn cho Chúa Tể Hồ; được Rentt cứu.
+- Trạng thái (đến #47): Được cứu khỏi hiến tế giả mạo; hôn lên mặt nạ Rentt cảm ơn.
 
 ### Lillian
-- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng ngoài 40 tuổi, vóc người hơi đẫy đà, là nữ tu (Sister) của Giáo Hội Đông Thiên phụ trách Cô Nhi Viện Thứ Hai Maalt. Tên đầy đủ là Lillian Jeunne.
-- Tính cách: Nhân hậu, yêu thương con trẻ, hết lòng chăm lo cho các trẻ mồ côi bất chấp cô nhi viện khó khăn về kinh phí; có tinh thần trách nhiệm cao.
-- Năng lực: Từng có khả năng chiến đấu và sử dụng Thần Lực để thanh tẩy quái vật trong không gian hẹp. Hiện đang suy yếu vì bệnh tật, không thể tự mình dọn dẹp hầm chứa đồ có quái vật.
-- Quan hệ: Người chăm sóc và được các em nhỏ ở cô nhi viện hết mực kính trọng, yêu quý; thân thiện và biết ơn mạo hiểm giả nhận ủy thác thiện nguyện.
-- Trạng thái tính đến chương 50: Mắc Bệnh Tích Tụ Chướng Khí do sử dụng Thần Lực lâu năm, tính tình thanh bần kiên quyết không chịu bỏ tiền chữa trị; đang được Alize lén tìm cách chữa trị bằng Hoa Long Huyết.
-- Trạng thái tính đến chương 75: Biết được thiên phú ma thuật của Alize và tôn trọng ước mơ làm mạo hiểm giả của cô bé; được Unbert chẩn đoán chính thức mắc Bệnh Tích Tụ Chướng Khí và trấn an rằng bệnh sẽ được chữa khỏi.
-- Trạng thái tính đến chương 76: Đã uống liều thuốc Hoa Long Huyết đầu tiên do Norman và Unbert mang tới; cơ thể nhẹ nhõm, Thần Lực bước đầu hồi phục; xúc động trước tấm lòng của Rentt và đám trẻ; ban phước và ưng thuận cho Alize theo học ma thuật lẫn nghề mạo hiểm giả với Rentt và Lorraine.
-- Trạng thái tính đến chương 215: Đã hoàn toàn bình phục sức khỏe sau thời gian dài ốm liệt giường, sắc mặt hồng hào, da dẻ đẫy đà, không còn di chứng; giao phó ủy thác cá nhân nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên tại vương đô Vistelya.
-- Quá khứ (tính đến chương 224): Từng là nữ tu kiêm Thánh Giả đầy triển vọng của Tu Viện Ephas từ năm 15 tuổi, bị điều chuyển tới Maalt khoảng 10 năm trước do mâu thuẫn nội bộ trong Giáo Hội; sau đó chủ động cắt đứt liên lạc với Elza để tránh gây rắc rối cho bạn (#224).
+- Giới tính/tuổi/vẻ ngoài: Nữ, ngoài 40, hơi đẫy đà, nữ tu (Sister) Giáo Hội Đông Thiên phụ trách Cô Nhi Viện Thứ Hai Maalt. Tên đầy đủ Lillian Jeunne.
+- Tính cách: Nhân hậu, thương trẻ, thanh bần, trách nhiệm cao.
+- Năng lực: Từng chiến đấu, dùng Thần Lực thanh tẩy quái vật.
+- Quan hệ: Được trẻ mồ côi kính yêu; Alize là "cánh tay phải"; biết ơn Rentt và Lorraine.
+- Quá khứ (#224): Từng là nữ tu kiêm Thánh Giả triển vọng của Tu Viện Ephas từ 15 tuổi, bị điều tới Maalt ~10 năm trước do mâu thuẫn nội bộ Giáo Hội; chủ động cắt liên lạc với Elza để tránh gây rắc rối cho bạn.
+- Trạng thái (đến #215): Từng mắc Bệnh Tích Tụ Chướng Khí, chữa bằng Hoa Long Huyết (#76); đã hoàn toàn bình phục; nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên ở vương đô Vistelya (#215).
 
 ### Alize
-- Giới tính, tuổi/vẻ ngoài: Nữ, khoảng 12 tuổi, tóc ngắn gọn gàng, phong thái tao nhã dù sống nghèo ở cô nhi viện. Không có họ.
-- Tính cách: Thông minh, sắc sảo, chững chạc trước tuổi, cảnh giác với người lạ vì an toàn của lũ trẻ trong viện; hết lòng vì cô nhi viện và Sơ Lillian.
-- Cách nói chuyện: Trang trọng như người lớn khi đại diện cô nhi viện; khi được Rentt cho phép thì hồn nhiên đúng tuổi, xưng "em", gọi "anh Rentt" / "anh"; gọi "Sơ Lillian" (Lady Lillian).
-- Quan hệ: "Cánh tay phải" của Sơ Lillian tại Cô Nhi Viện Thứ Hai Maalt; từng bí mật đổi ủy thác thành tìm Hoa Long Huyết chữa bệnh cho Sơ Lillian. Đệ tử ma thuật đầu tiên của Lorraine (#74), học kiếm thuật căn bản từ Rentt; muốn làm mạo hiểm giả giúp người như Rentt.
-- Trạng thái tính đến chương 123: Đã tạo được lửa bằng Ignite Aryumage (#79); chọn dao găm làm vũ khí chính (#119); tự chế cây đũa phép đầu tay và thi triển Aliumage ra ngọn lửa to như đuốc nhờ Ma Lực dồi dào; được Lorraine dặn tránh phụ thuộc đũa phép.
-- Trạng thái tính đến chương 215: Làm quen với Rina và đồng ý để Rina cùng luyện tập trong thời gian Rentt và Lorraine đi vương đô; cùng Rina và Lorraine trò chuyện bí mật trong nhà nguyện, đuổi khéo Rentt ra rìa.
-- Trạng thái tính đến chương 225: Cùng Rina đến dinh thự Gia tộc Latuule luyện tập ma pháp tấn công theo dặn dò của Lorraine; hoàn toàn không nhận ra thân phận Ma Cà Rồng của Isaac và người hầu; được Isaac giải thích về ba cấp độ ma pháp và khuyên tập trung hoàn thiện ma pháp ngâm xướng cơ bản.
-- Trạng thái tính đến chương 275: Cùng Rina luyện tập dưới sự hướng dẫn của Isaac; thể lực tăng tiến rõ rệt giúp làm việc vặt ở cô nhi viện không còn mệt mỏi; nhiệt tình ủng hộ Rina nhận ủy thác ngoài để giải tỏa tâm lý; sau khi Rina rời đi thì ở lại luyện tập tiếp và bị Isaac tăng độ khó vì trêu anh tàn nhẫn.
+- Giới tính/tuổi/vẻ ngoài: Nữ, ~12 tuổi, tóc ngắn gọn gàng, phong thái tao nhã dù nghèo. Không có họ.
+- Tính cách: Thông minh, sắc sảo, chững chạc trước tuổi, cảnh giác người lạ vì lũ trẻ; hết lòng vì cô nhi viện và Sơ Lillian. Hay trêu Isaac.
+- Cách nói chuyện: Trang trọng như người lớn khi đại diện cô nhi viện; khi được Rentt cho phép thì hồn nhiên, xưng "em", gọi "anh Rentt" / "anh"; gọi "Sơ Lillian" (Lady Lillian).
+- Quan hệ: "Cánh tay phải" của Sơ Lillian ở Cô Nhi Viện Thứ Hai Maalt; từng đổi ủy thác thành tìm Hoa Long Huyết chữa bệnh cho Sơ. Đệ tử ma thuật đầu tiên của Lorraine (#74), học kiếm căn bản từ Rentt; muốn làm mạo hiểm giả như Rentt. Bạn luyện tập của Rina (#215).
+- Năng lực: Ma Lực dồi dào; Ignite Aryumage (#79), Aliumage ra lửa to như đuốc; vũ khí chính dao găm (#119); tự chế đũa phép.
+- Trạng thái (đến #275): Cùng Rina luyện ma pháp dưới Isaac ở dinh thự Latuule (#225), không nhận ra Isaac và người hầu là Ma Cà Rồng; thể lực tăng rõ; ủng hộ Rina nhận ủy thác ngoài, ở lại tập tiếp và bị Isaac tăng độ khó (#275).
 
 ### Edel
-- Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
-- Tính cách: Háu ăn, kiêu ngạo, có ý thức tự chủ cao; thích được xem là cao quý thay vì mập mạp béo tròn; thích nghi nhanh nhưng không mấy trung thành, hay phản ứng lại khi Rentt định dùng làm mồi nhử.
-- Năng lực: Ánh mắt đe dọa làm bất động các đồng loại Puchi Suri nhỏ hơn; liên kết tâm trí truyền suy nghĩ cơ bản cho Rentt; kháng độc ở mức độ nhất định; có thể tự ý rút Thần Lực từ Rentt để bao bọc cơ thể trong màn ánh sáng, tự trị liệu và tông người tấn công mang Thần Lực.
-- Trạng thái tính đến chương 54: Cùng Rentt chiến đấu với Tarasque; luồn lách qua chân quái thú, tự ý rút Thần Lực của Rentt để tông thẳng vào vết thương hở trên cổ Tarasque, gợi mở cho Rentt điểm yếu kỵ Thần Lực của quái thú; bị quất bay được Rentt đỡ kịp và lập tức cằn nhằn qua tâm trí hối thúc Rentt phản công.
-- Trạng thái tính đến chương 89: Kích thước cơ thể tăng lên cỡ đầu Goblin; có thể tự chiến đấu tiêu diệt Goblin và Slime bằng các cú phóng mình tông người xoay tít tốc độ cao mà không cần Rentt chia sẻ Ma Lực.
-- Trạng thái tính đến chương 90: Biến đổi thể chất sau khi Rentt tiến hóa thành Hạ Cấp Ma Cà Rồng: mọc thêm màng bay ở bụng dưới giúp bay lượn và lơ lửng tĩnh lặng; có khả năng thi triển ma pháp tấn công tạo ra vết chém chém toạc xác quái vật; tự ý tách đoàn ở tầng 2 Mê Cung Tân Nguyệt và bị ba con Orc Binh vây quanh.
-- Trạng thái tính đến chương 91: Dùng cú húc thân người gạt ngã Orc Binh và dùng ma pháp chém lìa đầu một con Orc Binh; giao tiếp tâm trí khen ngợi Rentt ("Làm tốt lắm"); cùng Rentt xuống tầng ba đối mặt đàn Kesem Kofu.
-- Trạng thái tính đến chương 171: Tiết lộ đã nắm quyền kiểm soát khoảng 30% bầy chuột ở Maalt để xây dựng mạng lưới tình báo giúp Rentt; sở hữu khả năng chia sẻ thị giác với đàn em; phát hiện một kẻ trùm áo choàng hút máu mạo hiểm giả trong mê cung nhưng bị kẻ đó phóng lửa làm mù mắt và ngất lịm đi dưới hầm cô nhi viện khiến liên kết với Rentt bị đứt đoạn.
+- Thân phận, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông từ xám tro thành đen tuyền sau khi hút máu Thi Quỷ của Rentt; hay bám vai Rentt.
+- Tính cách: Háu ăn, kiêu ngạo, thích được xem là cao quý chứ không phải béo tròn; không mấy trung thành, phản đối khi bị dùng làm mồi nhử.
+- Năng lực: Liên kết tâm trí với Rentt; ánh mắt làm bất động Puchi Suri nhỏ hơn; kháng độc; tự rút Thần Lực của Rentt bọc thân để trị liệu/tông. Từ #90: to cỡ đầu Goblin, có màng bay ở bụng, dùng ma pháp chém.
+- Trạng thái (đến #171): Kiểm soát ~30% bầy chuột Maalt làm mạng lưới tình báo, chia sẻ thị giác với đàn em; bị kẻ trùm áo choàng hút máu phóng lửa làm mù, ngất dưới hầm cô nhi viện, liên kết với Rentt bị đứt.
 - Xuất hiện từ: #50 (được thuần hóa), #52 (được đặt tên).
 
 ### Isaac Hart
-- Giới tính, tuổi/vẻ ngoài: Nam, đẹp và quý phái như quý tộc, da trắng bợt, tóc bạc dài buông xõa, nét mặt lạnh lùng, ánh mắt như vô cảm. Mang kiếm liễu (rapier) và khiên kim loại nhẹ. Là Ma Cà Rồng (xác nhận ở #195), tự tái tạo được cả khi bị thiêu thành than.
-- Tính cách: Lịch thiệp, mực thước, chuẩn mực quản gia quý tộc; tôn trọng thực lực thực tế hơn cấp bậc mạo hiểm giả; tận trung với Laura.
-- Cách nói chuyện: Trịnh trọng, lễ độ, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
-- Quan hệ: Quản gia của Laura Latuule (khẳng định Laura mạnh hơn mình nhiều); gặp Rentt ở Đầm Lầy Tarasque khi hái Hoa Long Huyết. Quá khứ là "Kỵ Sĩ Phản Nghịch" mang kiếm bạc khắc kỳ lân đâm xuyên rồng, có vụ cá cược liên quan tới việc giết Laura; bạn chiến đấu cũ của Shumini; từng đụng độ Long Tộc.
-- Năng lực: Ma pháp Hỏa Bão; Huyết Binh (hút máu biến kiếm liễu thành đại kiếm đỏ thẫm).
-- Trạng thái tính đến chương 201: Đối đầu rồi tự tay kết liễu Shumini (#190–194); chăm Laura khi cô ngủ sâu; giải thích tiến hóa của Rentt, đặt tên tạm "Ma Cà Rồng Long Tộc", khuyên anh giấu đôi cánh và thỉnh cầu Thần Giám Định; cùng nhóm thống nhất kịch bản báo cáo Hội để giữ bí mật cho Laura.
-- Trạng thái tính đến chương 225: Nhận lời Lorraine hướng dẫn Rina và Alize luyện ma pháp tấn công tại dinh thự Latuule; cho phép hai cô bé vào thẳng không cần qua mê cung hàng rào cây; chỉ điểm Rina luyện ma pháp rút ngắn và khuyên Alize nắm vững căn bản ma pháp ngâm xướng.
-- Trạng thái tính đến chương 275: Mở rộng bài học sang võ thuật và trực tiếp đấu tập với Rina cùng Alize; dùng thính lực nhạy bén nhận ra Rina mất tự tin nên gợi ý cô nhận ủy thác ngoài; thể hiện sự nghiêm khắc pha chút hài hước khi bị Alize trêu chọc.
+- Thân phận, vẻ ngoài: Nam, quý phái, da trắng bợt, tóc bạc dài, mặt lạnh vô cảm; kiếm liễu (rapier) và khiên nhẹ. Ma Cà Rồng (xác nhận #195), tái tạo được cả khi bị thiêu thành than.
+- Tính cách: Lịch thiệp, mực thước, chuẩn quản gia quý tộc; trọng thực lực hơn cấp bậc; tận trung với Laura; nghiêm khắc pha chút hài hước.
+- Cách nói chuyện: Trịnh trọng, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
+- Quan hệ: Quản gia của Laura Latuule (khẳng định Laura mạnh hơn mình); gặp Rentt ở Đầm Lầy Tarasque. Quá khứ là "Kỵ Sĩ Phản Nghịch" (kiếm bạc khắc kỳ lân đâm xuyên rồng), có vụ cá cược liên quan tới việc giết Laura; bạn chiến đấu cũ của Shumini; từng đụng độ Long Tộc.
+- Năng lực: Ma pháp Hỏa Bão; Huyết Binh (biến kiếm liễu thành đại kiếm đỏ thẫm).
+- Trạng thái (đến #275): Kết liễu Shumini (#190–194); chăm Laura đang ngủ sâu; đặt tên tạm "Ma Cà Rồng Long Tộc" cho tiến hóa của Rentt. Từ #225 dạy Rina và Alize ma pháp tấn công tại dinh thự Latuule, #275 thêm võ thuật, đấu tập.
 
 ### Dario Costa
-- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
-- Tính cách: Thẳng thắn, bộc trực, hào sảng, xưng hô dân dã; rất mê thịt Orc và cực kỳ sành sỏi về kỹ thuật phân tách xác quái vật.
-- Cách nói chuyện: Dân dã, bộc trực, thoải mái với người quen, xưng "chú" gọi "cháu / cô bé / Sheila" với tiếp tân Sheila; xưng "tôi" gọi "cậu" với mạo hiểm giả Rentt.
-- Quan hệ: Chuyên gia mổ xẻ đứng đầu của Hội Mạo Hiểm Giả Maalt; quen biết và thân thiết với tiếp tân viên Sheila Ibarss; từng gặp Rentt trước khi chết nhưng không nhận ra anh sau lớp mặt nạ.
-- Trạng thái tính đến chương 58: Kiểm tra xác con Tarasque nguyên vẹn do Rentt mang về, hết lời khen ngợi mai và nọc độc không tì vết; nhận lời xử lý và nhận ủy thác đem bán đấu giá chiếc mai Tarasque với giá tốt nhất cho Rentt.
-- Trạng thái tính đến chương 80: Đàm phán với thương nhân đấu giá của Thương hội Stheno, dàn xếp cuộc gặp giữa khách mua mai Tarasque với Rentt; thanh toán tiền bán các nguyên liệu phụ khác của Tarasque cho Rentt.
+- Thân phận, vẻ ngoài: Nam, vạm vỡ, giọng thô ráp trầm đục; chuyên gia mổ xẻ đứng đầu Hội Mạo Hiểm Giả Maalt, mê thịt Orc.
+- Tính cách: Thẳng thắn, bộc trực, hào sảng.
+- Cách nói chuyện: Dân dã; xưng "chú" gọi "cháu / cô bé / Sheila" với Sheila; xưng "tôi" gọi "cậu" với Rentt.
+- Quan hệ: Thân với Sheila Ibarss; từng quen Rentt trước khi chết nhưng không nhận ra anh sau mặt nạ.
+- Trạng thái (đến #80): Xử lý xác Tarasque (#58), lo bán đấu giá mai qua Thương hội Stheno cho Rentt.
 
 ### Unbert Abeiyu
-- Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông trung niên, dáng người gầy gò cao kều, mặt có râu lởm chởm, phong thái như mạo hiểm giả.
-- Tính cách, nghề nghiệp: Thầy trị liệu (healer) quen biết với Cô Nhi Viện Thứ Hai Maalt; nhiệt tình giúp đỡ Sơ Lillian tìm người điều chế thuốc.
+- Thân phận, vẻ ngoài: Nam, trung niên, gầy cao kều, râu lởm chởm; thầy trị liệu (healer), nhiệt tình.
 - Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt.
 - Xuất hiện từ: #59 (được nhắc đến từ #50).
-- Trạng thái tính đến chương 75: Cùng Norman mang thuốc đến cô nhi viện và trực tiếp chẩn đoán Bệnh Tích Tụ Chướng Khí cho Sơ Lillian, đồng thời trấn an rằng bệnh sẽ được chữa khỏi.
+- Trạng thái (đến #75): Cùng Norman mang thuốc tới, chẩn đoán Bệnh Tích Tụ Chướng Khí cho Sơ Lillian.
 
 ### Norman Hanel
-- Giới tính, tuổi/vẻ ngoài: Nam, trạc cuối đôi mươi (gần 30 tuổi), dáng người đẫy đà, nét mặt thân thiện dễ gần.
-- Tính cách, nghề nghiệp: Dược sư (herbalist) kiêm thầy thuốc (doctor) mở tiệm thuốc riêng; giàu lòng nhân ái, thường xuyên chữa bệnh và tự bỏ tiền túi lo thuốc men cho người nghèo và cô nhi viện; rất tự tin vào vốn hiểu biết thảo dược của mình.
-- Quan hệ: Người quen hỗ trợ Cô Nhi Viện Thứ Hai Maalt; cảm kích trước hành động tặng thêm Hoa Long Huyết của Rentt và hứa sẵn lòng giúp đỡ anh bất cứ khi nào cần.
+- Thân phận, vẻ ngoài: Nam, gần 30, đẫy đà, thân thiện; dược sư (herbalist) kiêm thầy thuốc, có tiệm riêng.
+- Tính cách: Nhân ái, hay tự bỏ tiền lo thuốc cho người nghèo; tự tin về thảo dược.
+- Quan hệ: Hỗ trợ Cô Nhi Viện Thứ Hai Maalt; cảm kích Rentt tặng thêm Hoa Long Huyết, hứa sẵn lòng giúp anh.
 - Xuất hiện từ: #59.
-- Trạng thái tính đến chương 75: Cùng Unbert mang thuốc đã bào chế từ Hoa Long Huyết đến cô nhi viện để chữa bệnh cho Sơ Lillian.
+- Trạng thái (đến #75): Bào chế thuốc từ Hoa Long Huyết chữa cho Sơ Lillian.
 
 ### Viscount Lottnel
-- Giới tính, tuổi/vẻ ngoài: Nam, quý tộc cai quản Maalt và các vùng phụ cận.
-- Quan hệ: Người thống trị Maalt, có tin đồn là có mối quan hệ sâu sắc với gia tộc Latuule.
+- Thân phận: Nam, quý tộc cai quản Maalt và vùng phụ cận; gia tộc lâu đời nhưng ít tiếng ở vương đô, đứng ngoài tranh quyền ở Yaaran; giản dị, chất phác.
+- Quan hệ: Đồn có quan hệ sâu sắc với gia tộc Latuule.
 - Xuất hiện từ: #61 (được nhắc tên).
-- Trạng thái tính đến chương 173: Gia tộc cai quản vùng Maalt từ rất lâu đời nhưng ít tiếng tăm ở vương đô nên đứng ngoài các cuộc tranh giành quyền lực ở Yaaran; được Bá tước Robista nhận xét là người rất giản dị, chất phác; nhiệt tình đồng ý đón tiếp và xung phong dẫn đường cho Bá tước Robista khi tới Maalt.
+- Trạng thái (đến #173): Nhận đón tiếp, dẫn đường cho Bá tước Robista tới Maalt.
 
 ### Laura Latuule
-- Giới tính, tuổi/vẻ ngoài: Nữ, vẻ ngoài khoảng 12–13 tuổi, da trắng muốt, tóc vàng nhạt, mắt xanh biếc; thường mặc váy ren đen trang nhã đắt tiền. Thực chất là Ma Cà Rồng (thừa nhận ở #195).
-- Tính cách: Thông minh, tinh quái, thích trêu người nhưng không ác ý; hào phóng, lịch thiệp, chững chạc vượt tuổi trong vai trò gia chủ.
-- Cách nói chuyện: Lễ độ, tao nhã chuẩn mực quý tộc, xưng "tôi", gọi Rentt là "ngài".
-- Quan hệ: Đương chủ gia tộc Latuule; chủ nhân của quản gia Isaac Hart; giao Rentt ủy thác hái Hoa Long Huyết định kỳ (đang tạm hoãn); cho Rentt mượn sách bí thuật Thần Lực, mời Lorraine tới thư viện. Che chở một cậu bé Ma Cà Rồng trốn khỏi làng (#169).
+- Thân phận, vẻ ngoài: Nữ, trông 12–13 tuổi, da trắng muốt, tóc vàng nhạt, mắt xanh biếc, váy ren đen. Thực chất là Ma Cà Rồng (thừa nhận #195).
+- Tính cách: Thông minh, tinh quái, thích trêu nhưng không ác ý; hào phóng, chững chạc vượt tuổi.
+- Cách nói chuyện: Tao nhã chuẩn quý tộc, xưng "tôi", gọi Rentt là "ngài".
+- Quan hệ: Đương chủ gia tộc Latuule, chủ của Isaac Hart; giao Rentt ủy thác hái Hoa Long Huyết (tạm hoãn); cho mượn sách bí thuật Thần Lực. Che chở một cậu bé Ma Cà Rồng trốn khỏi làng (#169).
 - Xuất hiện từ: #62 (chính thức xưng tên ở #64).
 - Phân biệt: Alias "Laura" trùng với Laura Satii (#33–38, nữ ma pháp sư đồng đội của Raiz). Chương có Raiz hoặc bối cảnh thi thăng hạng thì "Laura" là Laura Satii.
-- Năng lực: Dị năng không phải Ma Lực, Khí Lực hay Thần Lực: chia sẻ thị giác loài chim, nén không gian, quả cầu đen kích nổ. Nhiều năm dùng Hoa Long Huyết nguyên chất để kìm sức mạnh Ma Cà Rồng (từng nói là mắc Bệnh Tích Tụ Chướng Khí), từ khi gặp Rentt dùng ít đi.
-- Trạng thái tính đến chương 197: Cùng nhóm Rentt đánh bại Shumini; ép Rentt uống máu mình, rồi hấp thụ Lõi Mê Cung thứ tư để cứu Maalt và Rina; đang ngủ sâu để hấp thụ (vài tháng đến vài năm). Trước khi ngủ dặn Rentt đi tìm truyền thuyết các đền thờ cổ.
+- Năng lực: Dị năng không phải Ma Lực, Khí Lực hay Thần Lực: chia sẻ thị giác loài chim, nén không gian, quả cầu đen kích nổ. Dùng Hoa Long Huyết để kìm sức mạnh Ma Cà Rồng.
+- Trạng thái (đến #197): Cùng nhóm Rentt hạ Shumini; ép Rentt uống máu mình; hấp thụ Lõi Mê Cung thứ tư để cứu Maalt và Rina, đang ngủ sâu (vài tháng đến vài năm); dặn Rentt tìm truyền thuyết các đền thờ cổ.
 
 ### Myullias Raiza
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, mái tóc màu bạc óng ả, đôi mắt màu tím trong veo như pha lê; toát lên vẻ bí ẩn, thanh thuần.
-- Tính cách, nghề nghiệp: Thánh Nữ (priestess-saint) của Giáo Hội Lobelia; không chút kiêu ngạo, điềm tĩnh làm tròn bổn phận; mang tư tưởng hoài nghi kín đáo về giáo lý của Giáo Hội Lobelia nên bị cấp trên nghi ngờ là có suy nghĩ dị giáo và đặt dưới sự giám sát.
-- Năng lực: Chuyên về trị liệu và thanh tẩy, có khả năng bao phủ ánh sáng trị liệu thanh tẩy cả thị trấn Maalt nhưng sẽ kiệt sức sau đó.
-- Cách nói chuyện: Tự nhiên, thẳng thắn, pha chút hóm hỉnh và bất cần khi nói chuyện với người giám sát.
+- Thân phận, vẻ ngoài: Nữ, thiếu nữ, tóc bạc, mắt tím trong; Thánh Nữ (priestess-saint) Giáo Hội Lobelia, chuyên trị liệu, thanh tẩy (phủ được cả Maalt nhưng kiệt sức).
+- Tính cách: Điềm tĩnh, không kiêu ngạo; kín đáo hoài nghi giáo lý nên bị nghi dị giáo, bị Gilly giám sát.
+- Cách nói chuyện: Tự nhiên, thẳng thắn, hóm hỉnh, bất cần với người giám sát.
+- Quan hệ: Theo lệnh Đại Giáo Phụ đi cùng Nive Maris; bực lời mỉa mai của Nive nhưng kìm nén.
 - Xuất hiện từ: #81.
-- Trạng thái tính đến chương 81: Được Giáo Hội Lobelia điều đến thị trấn biên ải Maalt để phô diễn năng lực trị liệu, thanh tẩy và thuyết giáo nhằm mở rộng tầm ảnh hưởng của giáo hội; ngồi cùng xe ngựa với tư tế giám sát Gilly.
-- Trạng thái tính đến chương 112: Quan sát thực trạng ngôi nguyện đường nhỏ của Giáo Hội Lobelia ở Maalt chỉ được dân bản địa ghé mua Nước Thánh và xà phòng; phân tích chiến lược bành trướng giáo hội đối trọng với Giáo Hội Đông Thiên; nhận mệnh lệnh trực tiếp từ Đại Giáo Phụ yêu cầu đi cùng Mạo hiểm giả Kim Cấp Nive Maris tới đàm phán với một mạo hiểm giả; ngạc nhiên và thích thú khi biết quá khứ của Gilly từng mơ làm mạo hiểm giả.
-- Trạng thái tính đến chương 113: Cùng Nive tới Thương hội Stheno đàm phán với Rentt; dùng Thần Lực thanh tẩy và phát hiện phản ứng Thần Lực trong người Rentt nên tin chắc anh không phải Ma Cà Rồng; ngán ngẩm trước mệnh lệnh của Đại Giáo Phụ yêu cầu đáp ứng tối đa nhu cầu của Nive, chuẩn bị tiếp tục hỗ trợ Nive truy lùng Ma Cà Rồng vào ngày hôm sau.
-- Trạng thái tính đến chương 183: Vẫn đang đồng hành và đi cùng Nive Maris tại Maalt; hớt hải chạy theo Nive khi cô đột ngột lao đi săn Thi Quỷ ở quảng trường; tỏ vẻ bực bội trước những lời mỉa mai cay nghiệt của Nive nhưng nhanh chóng kìm nén; ngao ngán trước sở thích và độ thính mũi săn quái của Nive.
-- Trạng thái tính đến chương 209: Nhận mệnh lệnh từ Đại Giáo Phụ phải đi theo giám sát Nive Maris khi cô rời khỏi Maalt; cùng Nive có mặt tại bến xe ngựa Maalt chuẩn bị lên đường.
+- Trạng thái (đến #209): #113 phát hiện Thần Lực trong Rentt nên tin anh không phải Ma Cà Rồng; #209 theo giám sát Nive rời Maalt.
 
 ### Gilly
-- Giới tính, tuổi/vẻ ngoài: Nam, thanh niên trẻ tuổi, ánh mắt sắc bén, thần thái và động tác lạnh lùng như sát thủ hơn là tư tế; mang theo một vũ khí có lưỡi sắc bén giắt bên hông.
-- Tính cách, chức nghiệp: Tư tế giám sát (supervisory priest) của Giáo Hội Lobelia; cứng nhắc, nghiêm nghị, hành xử lạnh lùng vô cảm nhưng sâu xa vẫn có chút lo lắng cho sự an toàn của Myullias.
-- Cách nói chuyện: Nghiêm túc, cứng nhắc, giữ khoảng cách, xưng "tôi", gọi Myullias là "cô".
+- Thân phận, vẻ ngoài: Nam, thanh niên, ánh mắt sắc, lạnh lùng như sát thủ; tư tế giám sát Giáo Hội Lobelia.
+- Tính cách: Cứng nhắc, nghiêm nghị nhưng ngầm lo cho Myullias; hồi nhỏ mơ làm mạo hiểm giả (#112).
+- Cách nói chuyện: Giữ khoảng cách, xưng "tôi", gọi Myullias là "cô".
 - Xuất hiện từ: #81.
-- Trạng thái tính đến chương 81: Nhận lệnh từ tổng đàn Giáo Hội Lobelia ngồi cùng xe ngựa để giám sát Myullias trên đường đến Maalt, nhắc nhở cô giữ gìn lời ăn tiếng nói tránh để lộ tư tưởng bất kính với giáo hội.
-- Trạng thái tính đến chương 112: Ở cùng Myullias tại nguyện đường Maalt; hiếm hoi để lộ sự hào hứng và tiết lộ thời thơ ấu từng mơ ước trở thành mạo hiểm giả trước khi bước chân vào con đường tu đạo; tiếp nhận phong thư mang mệnh lệnh trực tiếp từ Đại Giáo Phụ chỉ thị Myullias đi cùng Nive Maris.
+- Trạng thái (đến #112): Giám sát Myullias ở nguyện đường Maalt; chuyển lệnh Đại Giáo Phụ bảo cô đi cùng Nive Maris.
 
 ### Rin
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, là chị em song sinh với Ran, ngoại hình giống hệt Ran.
-- Tính cách: Mạnh mẽ, kiên cường, giàu nghị lực; dù vừa mất đi người chị em sinh đôi nhưng không gục ngã trước bi thương mà kiên định hướng về phía trước để tiếp tục giấc mơ chung.
-- Cách nói chuyện: Dịu dàng, chân thành, xưng "em", gọi Rentt là "anh / anh Rentt".
-- Quan hệ: Bạn thuở nhỏ từng chơi cùng Rentt; chị em song sinh với Ran; người thuê Rentt đi hái hoa Tetona trên vách đá.
+- Thân phận: Nữ, thiếu nữ, song sinh giống hệt Ran; bạn thuở nhỏ của Rentt.
+- Tính cách: Kiên cường, không gục ngã sau khi mất Ran.
+- Cách nói chuyện: Dịu dàng, xưng "em", gọi Rentt là "anh / anh Rentt".
 - Xuất hiện từ: #84.
-- Trạng thái tính đến chương 84: Nhận bông hoa Tetona do Rentt mang về sau khi Ran vừa qua đời; hoàn tất thủ tục ủy thác cho Rentt và quyết tâm nghiên cứu cách nhân giống hoa Tetona để mở tiệm hoa, thực hiện tiếp giấc mơ dang dở của hai chị em.
+- Trạng thái (đến #84): Thuê Rentt hái hoa Tetona; sau khi Ran mất, quyết nhân giống hoa để mở tiệm hoa theo giấc mơ chung.
 
 ### Ran
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ trẻ tuổi, là chị em song sinh với Rin, ngoại hình giống hệt Rin; vẻ ngoài thanh thản như đang ngủ khi qua đời trên giường bệnh.
-- Tính cách: Hiền lành, yêu hoa cỏ, có cùng ước mơ mở tiệm hoa với Rin.
-- Quan hệ: Bạn thuở nhỏ từng chơi cùng Rentt; chị em song sinh với Rin; mắc bệnh hiểm nghèo không qua khỏi.
+- Thân phận: Nữ, thiếu nữ, song sinh giống hệt Rin; bạn thuở nhỏ của Rentt; hiền lành, yêu hoa.
 - Xuất hiện từ: #84.
-- Trạng thái tính đến chương 84: Mắc bệnh nan y cơ thể suy kiệt dần và qua đời trên giường bệnh ngay trước khi Rentt kịp mang hoa Tetona về tới; để lại lời xin lỗi Rin và Rentt vì phải ra đi trước.
+- Trạng thái (đến #84): Đã mất vì bệnh nan y ngay trước khi Rentt mang hoa Tetona về.
 
 ### Aidi
-- Giới tính, tuổi/vẻ ngoài: Nam, mạo hiểm giả trung niên, trang bị và vũ khí bình thường.
-- Tính cách, nghề nghiệp: Mạo hiểm giả Đồng Cấp; say mê cá cược đua chuột Puchi Suri tới mức xao nhãng việc nhận ủy thác, chỉ làm mức tối thiểu để không bị xóa tên khỏi Hội; nói nhiều, thích kể chuyện phiếm.
-- Cách nói chuyện: Dân dã, bộc trực, hào sảng, xưng "tôi", gọi Rentt là "cậu / người anh em".
-- Quan hệ: Đồng nghiệp mạo hiểm giả tình cờ bắt gặp Rentt mang theo Edel và kéo anh tham gia trường đua.
+- Thân phận: Nam, mạo hiểm giả Đồng Cấp trung niên; mê cá cược đua chuột Puchi Suri, nói nhiều.
+- Cách nói chuyện: Dân dã, hào sảng, xưng "tôi", gọi Rentt là "cậu / người anh em".
+- Quan hệ: Kéo Rentt (cùng Edel) vào trường đua.
 - Xuất hiện từ: #85.
 
 ### Jacks Tiger
 - Giới tính, chủng tộc: Chuột Puchi Suri.
-- Đặc điểm: Thí sinh số 1, đương kim vô địch ("vua đua chuột Puchi Suri"), tốc độ ôm cua cực nhanh.
+- Đặc điểm: Thí sinh số 1, đương kim vô địch ("vua đua chuột Puchi Suri"), ôm cua cực nhanh.
 - Xuất hiện từ: #85.
 
 ### Lady Emilstead
-- Giới tính, thân phận: Nữ, phu nhân quý tộc giàu có sở hữu dinh thự lớn tại thị trấn Maalt.
-- Tính cách: Giàu tình cảm, yêu thương thú cưng hết lòng, coi quái vật thú cưng như người thân trong gia đình; xúc động, dễ rơi nước mắt nhưng rất mực chân thành và hào phóng.
-- Cách nói chuyện: Quý phái, khẩn thiết khi cầu xin cứu giúp linh hồn thú cưng; xưng "tôi", gọi Rentt là "ngài".
-- Quan hệ: Khách hàng thuê Rentt và Lorraine thanh tẩy cho linh hồn chuột cưng đã khuất.
+- Thân phận: Nữ, phu nhân quý tộc giàu có ở Maalt; coi thú cưng như người nhà, dễ khóc, hào phóng.
+- Cách nói chuyện: Quý phái, xưng "tôi", gọi Rentt là "ngài".
+- Quan hệ: Thuê Rentt và Lorraine thanh tẩy linh hồn chuột cưng Sweetpea.
 - Xuất hiện từ: #86.
 
 ### Sweetpea
 - Chủng tộc: Quái vật Puchi Suri (phân loài biến dị hiền lành, ngoại hình đáng yêu).
-- Đặc điểm: Thú cưng được Phu nhân Emilstead nuôi nấng như người trong nhà; sau khi qua đời biến thành linh hồn vất vưởng được Rentt thanh tẩy siêu thoát bằng Thần Lực; tên này sau đó được đặt tiếp cho chú chuột Puchi Suri mới do Lorraine gợi ý nhận nuôi (vốn là thuộc hạ của Edel).
+- Đặc điểm: Thú cưng của Phu nhân Emilstead, chết thành linh hồn, được Rentt thanh tẩy bằng Thần Lực. Tên này sau đặt cho chú Puchi Suri mới Lorraine nhận nuôi (vốn là thuộc hạ của Edel).
 - Xuất hiện từ: #86.
 
 ### Zant Currin
-- Giới tính, thân phận: Nam, cư dân thị trấn Maalt.
-- Tính cách, đặc điểm: Thân chủ đưa ra ủy thác dọn dẹp nhà cửa vào mùa xuân; khá kỹ tính nhưng biết ghi nhận và hào phóng thưởng thêm tiền boa khi mạo hiểm giả làm sạch sẽ vượt mong đợi.
-- Cách nói chuyện: Hài lòng, niềm nở, xưng "tôi", gọi Rentt là "cậu / Rentt".
-- Quan hệ: Khách hàng thuê Rentt làm việc nhà dọn dẹp nơi ở.
+- Thân phận: Nam, cư dân Maalt; thuê Rentt dọn nhà mùa xuân; kỹ tính nhưng boa hào phóng.
+- Cách nói chuyện: Niềm nở, xưng "tôi", gọi Rentt là "cậu / Rentt".
 - Xuất hiện từ: #87.
 
 ### Sharl Stheno
-- Giới tính, thân phận: Nam, người đứng đầu (chủ thương hội) Thương hội Stheno tại Maalt. Vóc dáng to lớn, bụng phệ, trang phục sặc sỡ đúng chất thương nhân giàu có.
-- Tính cách, đặc điểm: Khôn khéo, lịch thiệp, nhã nhặn, biết cách nhún nhường và bồi thường đúng lúc trước đối tác; rất nhạy bén trong việc thu thập tin tức và thăm dò lai lịch người khác.
-- Cách nói chuyện: Lịch sự, nhã nhặn, chuẩn mực thương nhân, xưng "tôi", gọi Rentt là "ngài Rentt" (Sir Rentt).
-- Quan hệ: Đứng ra làm trung gian thu xếp cuộc gặp giữa Rentt và vị khách mua xác Tarasque.
+- Thân phận, vẻ ngoài: Nam, chủ Thương hội Stheno ở Maalt; to lớn, bụng phệ, ăn mặc sặc sỡ; khởi nghiệp từ tiệm tạp hóa của cha.
+- Tính cách: Khôn khéo, lịch thiệp, nhạy tin tức; có lòng tự trọng thương nhân (che chở Rentt trước sức ép của Nive, #106).
+- Cách nói chuyện: Nhã nhặn, xưng "tôi", gọi Rentt là "ngài Rentt" (Sir Rentt).
+- Quan hệ: Trung gian bán xác Tarasque cho Nive; đầu tư vào Rentt như mạo hiểm giả Mithril Cấp tương lai.
 - Xuất hiện từ: #103.
-- Trạng thái tính đến chương 106: Dù bị Nive mượn uy thế Giáo Hội Lobelia gây sức ép, vẫn tìm đủ lý do trì hoãn để che chở cho Rentt; kiên quyết có mặt tại phòng gặp mặt đối diện nguy hiểm nhằm bảo vệ thân chủ; được Rentt đánh giá cao về lòng tự trọng và tinh thần trách nhiệm của một thương nhân chân chính.
-- Trạng thái tính đến chương 109: Đề nghị dùng mạng lưới thương nhân tìm mua túi ma thuật dung tích lớn giúp Rentt, thậm chí sẵn lòng giới thiệu anh sang đối thủ cạnh tranh Thương hội Witta nhằm giảm bớt cảm giác bất an khi hợp tác với Nive.
-- Trạng thái tính đến chương 110: Nửa đùa nửa thật mời Rentt khi đạt tới Mithril Cấp hãy bảo trợ cho cửa tiệm để tha hồ bán hàng giá cao; nêu quan điểm về việc các tôn giáo đều nhận công tiêu diệt Ma Cà Rồng Hoàng Hôn và có nhiều lăng mộ rải rác khắp nơi.
-- Trạng thái tính đến chương 124: Tiết lộ xuất thân khởi nghiệp từ một tiệm tạp hóa nhỏ của cha trước khi tự lực phát triển thành thương hội lớn; quyết định bán lỗ chiếc túi ma thuật biến đổi hình dáng (2.000–2.500 đồng vàng) cho Rentt với giá 1.800 đồng vàng như một khoản đầu tư dài hạn vào mạo hiểm giả Mithril Cấp tương lai và xóa bỏ mọi khúc mắc cũ.
+- Trạng thái (đến #124): Bán lỗ cho Rentt túi ma thuật biến đổi hình dáng giá 1.800 đồng vàng.
 
 ### Nive Maris
-- Giới tính, tuổi/vẻ ngoài: Nữ, trạc 20–25 tuổi, tóc xám tro, mắt đỏ rực lấp lánh khó đoán biểu cảm; xinh đẹp hút hồn.
-- Tính cách: Hoạt bát, cởi mở, suồng sã, nói nhiều, không câu nệ lễ nghi quý tộc; bên dưới là một Thợ Săn Ma Cà Rồng đáng sợ, ánh mắt sắc lẹm khi nhắc tới quái vật. Nói săn Ma Cà Rồng chỉ là "thú tiêu khiển", nhưng mục tiêu thật là Ma Cà Rồng Hoàng Hôn. Trực giác vẫn nghi Rentt dù đã chấp nhận anh vô tội.
-- Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp đến từ nước láng giềng, thực lực tiệm cận Bạch Kim Cấp; tước Nữ Chuẩn Nam tước (Baronetess) nhờ diệt một Trung Cấp Ma Cà Rồng cùng bầy đàn. Săn Ma Cà Rồng bằng kỹ thuật phát hiện dựa trên Thần Lực (Thánh Hỏa), vũ khí móng vuốt tay, lửa thần chú thanh tẩy.
+- Thân phận, vẻ ngoài: Nữ, 20–25 tuổi, tóc xám tro, mắt đỏ rực, xinh đẹp. Mạo hiểm giả Kim Cấp từ nước láng giềng, tiệm cận Bạch Kim Cấp; Nữ Chuẩn Nam tước (Baronetess) nhờ diệt một Trung Cấp Ma Cà Rồng.
+- Tính cách: Hoạt bát, suồng sã, nói nhiều; bên dưới là Thợ Săn Ma Cà Rồng đáng sợ. Nói săn Ma Cà Rồng chỉ là "thú tiêu khiển", nhưng mục tiêu thật là Ma Cà Rồng Hoàng Hôn. Trực giác vẫn nghi Rentt dù đã chấp nhận anh vô tội.
+- Năng lực: Phát hiện Ma Cà Rồng bằng Thần Lực (Thánh Hỏa), móng vuốt tay, lửa thanh tẩy.
 - Cách nói chuyện: Tự nhiên, xởi lởi, xưng "tôi"; gọi Sharl là "ngài Sharl", Myullias là "Tiểu thư Myullias" (hay châm chọc tư cách thánh nữ của cô). Gọi Rentt là "ngài Rentt" đến #182; từ #183 đề nghị gọi nhau bằng tên như đồng nghiệp (xem pronouns.md).
 - Xuất hiện từ: #104.
-- Trạng thái tính đến chương 183: Đã mua xác Tarasque của Rentt (20 đồng bạch kim); kiểm tra Rentt bằng Thánh Hỏa (#105–106, #113) và tuyên bố anh trong sạch; nhờ Rentt báo cho cô nếu gặp Ma Cà Rồng không đánh nổi; đề nghị giúp tìm túi ma thuật. Ở #183 diệt Thi Quỷ tại quảng trường Maalt, tặng Ma Tinh cho Rentt, ngỏ ý cùng anh lập đội săn Ma Cà Rồng.
-- Trạng thái tính đến chương 209: Rời khỏi Maalt cùng với sự tháp tùng giám sát của Thánh Nữ Myullias Raiza; trước khi đi rủ Rentt cùng đi săn Ma Cà Rồng nhưng bị anh từ chối; quan sát đoàn xe của Học Viện tiến vào Maalt và buông lời cảnh báo về rắc rối sắp tới.
+- Trạng thái (đến #209): Mua xác Tarasque; kiểm tra Rentt bằng Thánh Hỏa (#105–106, #113), tuyên bố trong sạch; #183 ngỏ ý lập đội săn Ma Cà Rồng với Rentt. #209 rời Maalt cùng Myullias, bị Rentt từ chối đi cùng; cảnh báo rắc rối khi đoàn xe Học Viện tới.
 
 ### Aaruz
-- Giới tính, thân phận: Nam, tư tế kiệt xuất hàng đầu của Giáo Hội Lobelia.
-- Đặc điểm: Tài năng vượt trội, sở hữu lượng Thần Lực khổng lồ, là một trong hai trụ cột tôn giáo nổi bật nhất thế hệ đương thời của giáo hội; lịch trình bận rộn không ngừng nghỉ.
+- Thân phận: Nam, tư tế kiệt xuất hàng đầu Giáo Hội Lobelia; Thần Lực khổng lồ, cùng Millia là hai trụ cột thế hệ đương thời.
 - Xuất hiện từ: #112 (được nhắc tên).
 
 ### Millia
-- Giới tính, thân phận: Nữ, Thánh Nữ kiệt xuất hàng đầu của Giáo Hội Lobelia.
-- Đặc điểm: Tài năng vượt trội, sở hữu lượng Thần Lực dồi dào phi thường, cùng với Aaruz là nhân vật xuất chúng bậc nhất thế hệ đương thời của Giáo Hội Lobelia; vô cùng bận rộn với các trọng trách tôn giáo.
+- Thân phận: Nữ, Thánh Nữ kiệt xuất hàng đầu Giáo Hội Lobelia; Thần Lực phi thường, cùng Aaruz là hai trụ cột thế hệ đương thời.
 - Xuất hiện từ: #112 (được nhắc tên).
 
 ### Adone
-- Giới tính, thân phận: Nữ, kỹ nữ nổi danh trong lịch sử.
-- Đặc điểm: Sinh ra đã bẩm sinh sở hữu Mị Nhãn, dùng ánh mắt quyến rũ mê hoặc một vị quốc vương khiến cả vương quốc rơi vào cảnh lầm than, chiến loạn và cuối cùng đi đến diệt vong.
+- Thân phận: Nữ, kỹ nữ nổi danh trong lịch sử; bẩm sinh có Mị Nhãn, mê hoặc quốc vương khiến vương quốc diệt vong.
 - Xuất hiện từ: #113 (được nhắc tên).
 
 ### Conra
-- Giới tính, thân phận: Nam, pháp sư thời xưa trong giai thoại được giới ma pháp sư lưu truyền.
-- Đặc điểm: Rất có tài hùng biện thuyết phục nên được phong làm Pháp Sư Cung Đình, nhưng hoàn toàn mù tịt về hội họa; trong một nghi lễ quốc gia, do vẽ sai ma pháp trận bắn pháo hoa mà lại sở hữu Ma Lực quá mức kinh người, ông đã triệu hồi nhầm một con rồng lửa thiêu rụi cả một vùng đất.
+- Thân phận: Nam, pháp sư thời xưa trong giai thoại; Pháp Sư Cung Đình nhờ tài hùng biện nhưng mù hội họa, vẽ sai ma pháp trận pháo hoa nên triệu hồi nhầm rồng lửa thiêu rụi cả vùng.
 - Xuất hiện từ: #121 (được Lorraine nhắc tên).
 
 ### Wolf Hermann
-- Giới tính, tuổi/vẻ ngoài: Nam, cựu mạo hiểm giả trung niên vóc người to lớn vạm vỡ, mặc trang phục rộng thùng thình, cánh tay cuồn cuộn cơ bắp ngang ngửa những mạo hiểm giả phong trần nhất; có vết sẹo lớn chạy dọc chính giữa mắt trái (bị chột mắt trái, chỉ còn con mắt phải; khi miêu tả dùng con mắt / con mắt của ông / con mắt còn lại, tránh dùng "đôi mắt"), mắt phải sắc bén quắc thước như một chiến binh.
-- Tính cách: Thẳng thắn, bộc trực, ghét lãng phí thời gian nhưng thấu tình đạt lý và rất quan tâm đến cấp dưới; mang ước mơ vươn tới Mithril Cấp thời còn làm mạo hiểm giả và đồng cảm sâu sắc với Rentt.
-- Thân phận, chức nghiệp: Hội Trưởng Hội Mạo Hiểm Giả chi nhánh thị trấn Maalt; từng là mạo hiểm giả cựu binh nhưng phải giải nghệ vì chấn thương mắt; được Tổng Hội Trưởng Yaaran đặc cách bổ nhiệm làm Hội Trưởng Maalt.
-- Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie"; cho phép mạo hiểm giả nói chuyện tự nhiên không cần câu nệ khách sáo.
-- Trạng thái tính đến chương 126: Có nét chữ rất đẹp và nắn nót do phải xử lý nhiều công văn giấy tờ gửi lên vương đô; từng là mạo hiểm giả độc hành săn quái ở Mê Cung Nguyệt Ảnh; ký khế ước ma pháp bảo mật với Rentt và lắng nghe toàn bộ câu chuyện về việc Rentt biến thành Undead (Khô Lâu -> Ngạ Quỷ -> Ma Cà Rồng); hoàn toàn tin tưởng nhân phẩm Rentt không hại người; bàng hoàng khi biết Nive Maris phán định Rentt không phải Ma Cà Rồng.
-- Trạng thái tính đến chương 127: Đau đầu trước thông tin có một con Ma Cà Rồng khác ở Maalt và Nive Maris đang lùng sục; nhận tập tài liệu sai phạm của Hội từ Rentt để nghiên cứu; gợi ý các phương án xử lý đăng ký hai lần và đặc cách tuyển mộ Rentt làm nhân viên Hội với khối lượng công việc tối thiểu; thử dùng sức giật chiếc mặt nạ nguyền rủa của Rentt nhưng bất thành và quyết định sẽ điều tra nguồn gốc nguyền cụ lọt vào thị trấn.
-- Trạng thái tính đến chương 172: Trực tiếp xuống sảnh tầng một Hội Mạo Hiểm Giả Maalt chỉ huy khẩn cấp khi thị trấn bị phóng hỏa; kéo Rentt vào phòng riêng xác nhận anh không liên can, sau đó tiết lộ một nhóm Thi Quỷ ngụy trang bằng ma thuật đang phóng hỏa hoành hành khắp nơi và rủ Rentt cùng tham gia truy quét.
+- Thân phận, vẻ ngoài: Nam, trung niên, to lớn vạm vỡ; Hội Trưởng Hội Mạo Hiểm Giả Maalt, cựu mạo hiểm giả độc hành ở Mê Cung Nguyệt Ảnh, giải nghệ vì chấn thương mắt. Có vết sẹo lớn chạy dọc chính giữa mắt trái (bị chột mắt trái, chỉ còn con mắt phải; khi miêu tả dùng con mắt / con mắt của ông / con mắt còn lại, tránh dùng "đôi mắt").
+- Tính cách: Thẳng thắn, ghét phí thời gian nhưng thấu tình đạt lý, quan tâm cấp dưới; từng mơ Mithril Cấp nên đồng cảm với Rentt.
+- Cách nói chuyện: Cộc lốc, sỗ sàng, hào sảng, xưng "tôi", gọi Rentt là "cậu / Rentt / Rentt Faina / Rentt Vivie".
+- Quan hệ: Biết Rentt là Undead (khế ước bảo mật, #126), tin tưởng anh; đề xuất tuyển Rentt làm nhân viên Hội (#127).
 - Xuất hiện từ: #125.
+- Trạng thái (đến #172): Chỉ huy Hội khi Maalt bị phóng hỏa; rủ Rentt truy quét nhóm Thi Quỷ ngụy trang.
 
 ### Alhildis
-- Giới tính, tuổi/vẻ ngoài: Nữ, chủng tộc Elf. Vóc dáng cô bé chừng 10 tuổi với đôi tai nhọn xinh xắn, mắt màu xanh da trời, tóc vàng cắt kiểu bob dài chấm vai, nhưng phong thái và giọng điệu toát lên vẻ một bà lão sống lâu năm.
-- Tính cách: Lão luyện, cẩn trọng, khắt khe nhưng biết điều; thích dùng lối nói cổ xưa (archaic), tự xưng "ta", gọi người khác là "ngươi / các ngươi"; tự hào về thân phận Kim Cấp, chủ động lùng diệt quái vật và thanh tẩy tàn dư tà khí để bảo vệ người đi đường.
-- Thân phận, chức nghiệp: Mạo hiểm giả Kim Cấp, bậc thầy về Thần Thuật (sử dụng Thần Lực).
-- Cách nói chuyện: Dùng từ ngữ cổ kính thời xưa, trầm tĩnh nhưng khi phát hiện nghi vấn thì dồn dập chất vấn.
-- Quan hệ: Mạo hiểm giả Kim Cấp tình cờ chạm trán Rentt và Lorraine tại khu rừng trên đường về quê.
-- Trạng thái tính đến chương 132: Đề nghị Rentt và Lorraine gọi bằng tên ngắn gọn là Hilde hoặc Hildi; tiết lộ nhiệm vụ thanh trừng Undead tại Làng Toraka; phát hiện Thần Lực trong người Rentt và cảnh báo anh về sự tranh giành của các tổ chức tôn giáo; nhận định Rentt được tinh linh thực vật ban phúc; đổi việc dạy cấp tốc kỹ thuật che giấu Thần Lực lấy đám cỏ non mọc trên tro tàn; xác thực độ chuẩn xác của cuốn sách thần thuật của Laura; để lại số đăng ký Hội cùng thông tin liên lạc tại vương đô rồi rời đi trước bình minh.
+- Thân phận, vẻ ngoài: Nữ, Elf, trông như bé 10 tuổi (tai nhọn, tóc vàng bob) nhưng phong thái như bà lão; mạo hiểm giả Kim Cấp, bậc thầy Thần Thuật.
+- Tính cách: Lão luyện, cẩn trọng, khắt khe nhưng biết điều.
+- Cách nói chuyện: Lối nói cổ xưa (archaic), tự xưng "ta", gọi người khác là "ngươi / các ngươi". Cho Rentt và Lorraine gọi tắt là Hilde hoặc Hildi.
 - Xuất hiện từ: #131.
+- Trạng thái (đến #132): Phát hiện Thần Lực trong Rentt, dạy anh che giấu Thần Lực, xác thực sách thần thuật của Laura; để lại liên lạc ở vương đô rồi đi (nhiệm vụ diệt Undead ở Làng Toraka).
 
 ### Ingo Faina
-- Giới tính, tuổi/vẻ ngoài: Nam, trung niên, trưởng làng Hathara, cha nuôi của Rentt Faina.
-- Tính cách: Điềm đạm, nồng hậu, quan tâm chăm lo cho con cái và dân làng.
-- Cách nói chuyện: Thân tình, ấm áp của người cha đối với con trai đi xa trở về.
+- Thân phận: Nam, trung niên, trưởng làng Hathara; điềm đạm, nồng hậu; giọng ấm áp của người cha.
 - Quan hệ: Cha nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), chồng của Gilda Faina.
-- Trạng thái tính đến chương 172: Mang dòng dõi kế thừa vị thế quốc vương của Vương Quốc Cổ Đại; sở hữu năng lực thuần hóa quái vật (người thuần hóa quái vật) kế thừa từ các vị vua cổ, có khả năng thuần hóa và điều khiển các quái vật cực mạnh như Á Long Lindblum; đã dùng Lindblum chở Rentt và Lorraine bay về Maalt trong nửa ngày rồi một mình quay về làng.
+- Năng lực: Dòng dõi quốc vương Vương Quốc Cổ Đại; người thuần hóa quái vật (điều khiển Á Long Lindblum).
 - Xuất hiện từ: #134.
+- Trạng thái (đến #172): Dùng Lindblum chở Rentt và Lorraine về Maalt rồi về làng.
 
 ### Gilda Faina
-- Giới tính, tuổi/vẻ ngoài: Nữ, trung niên, vóc dáng thanh mảnh, dung mạo xinh đẹp dù đã lộ dấu vết thời gian; mẹ nuôi của Rentt Faina.
-- Tính cách: Tình cảm, dịu dàng, khéo léo trong cách nói chuyện tế nhị nhưng rất nhạy bén.
-- Cách nói chuyện: Ân cần, tha thiết của người mẹ thương con.
+- Thân phận: Nữ, trung niên, thanh mảnh, xinh đẹp; dịu dàng, tế nhị nhưng nhạy bén; giọng ân cần của người mẹ thương con.
 - Quan hệ: Mẹ nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), vợ của trưởng làng Ingo Faina.
 - Xuất hiện từ: #134.
 
 ### Jal
-- Giới tính, tuổi/vẻ ngoài: Nam thanh niên gầy gò của Làng Hathara, làm nhiệm vụ gác cổng làng.
-- Tính cách: Nhanh nhảu, thích hóng hớt, nói nhiều, thẳng tính.
-- Quan hệ: Người quen cùng làng với Rentt Faina.
+- Thân phận: Nam thanh niên gầy, gác cổng Làng Hathara; người quen cùng làng của Rentt Faina.
+- Tính cách: Nhanh nhảu, hóng hớt, nói nhiều, thẳng tính.
 - Xuất hiện từ: #134.
 
 ### Dol
-- Giới tính, tuổi/vẻ ngoài: Nam thanh niên vóc dáng thấp bé của Làng Hathara, cùng Jal gác cổng làng.
+- Thân phận: Nam thanh niên thấp bé, cùng Jal gác cổng Làng Hathara; người quen của Rentt Faina.
 - Tính cách: Lăng xăng, nhiệt tình, chạy nhanh.
-- Quan hệ: Người quen cùng làng với Rentt Faina.
 - Xuất hiện từ: #134.
 
 ### Riri
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc nâu buộc hai bên, đôi mắt tinh anh mạnh dạn, giọng nói dõng dạc trong trẻo.
-- Quan hệ: Được Rentt xem như em gái nhỏ; từng nhiều lần bày tỏ tình cảm thời thơ ấu với Rentt vào các dịp lễ; tò mò về cuộc sống và mạo hiểm giả ở Maalt.
-- Kỹ năng & Trạng thái tính đến chương 136: Sở hữu Khí Lực, đang học kỹ thuật từ thợ săn Hadeed (dùng dao găm chém súc gỗ trong rừng, bắn tên cực xa); tò mò về nghề mạo hiểm giả.
-- Trạng thái tính đến chương 138: Phụ giúp nấu nướng cho tiệc chào mừng tại quảng trường làng; thuyết phục Lorraine biểu diễn ma pháp ảo ảnh cho dân làng xem và cùng Fahri dìu Lorraine vì tưởng cô say rượu.
-- Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
+- Thân phận: Nữ, ~18 tuổi, thiếu nữ xinh đẹp Làng Hathara, bạn thuở nhỏ kém Rentt ~7 tuổi; tóc nâu buộc hai bên, mắt mạnh dạn, giọng dõng dạc trong trẻo.
+- Quan hệ: Rentt xem như em gái; hồi nhỏ hay tỏ tình với Rentt; tò mò về Maalt, nghề mạo hiểm giả. Doras thầm thích.
+- Năng lực: Có Khí Lực, học thợ săn Hadeed (dao găm, bắn tên xa).
+- Xuất hiện từ: #134 (nhắc tên), #135.
 
 ### Fahri
-- Giới tính, tuổi/vẻ ngoài: Nữ, thiếu nữ xinh đẹp nổi bật của Làng Hathara, bạn thuở nhỏ của Rentt Faina kém anh khoảng 7 tuổi (khoảng 18 tuổi). Tóc màu lam đen ngắn chấm tai, đôi mắt mơ màng ngái ngủ dịu dàng, giọng ngọt ngào êm dịu, tính tình vô tư, bộc trực.
-- Quan hệ: Được Rentt xem như em gái nhỏ; hay gọi Rentt là Ren; tò mò về Lorraine và thành phố Maalt.
-- Kỹ năng & Trạng thái tính đến chương 136: Có Ma Lực, đang học làm thuốc từ bà lão Gharb và chuẩn bị được dạy thêm thuật giả kim; nắm vững kiến thức thu hái và bảo quản thảo dược.
-- Trạng thái tính đến chương 138: Phụ giúp nấu nướng cho tiệc chào mừng tại quảng trường làng; thuyết phục Lorraine biểu diễn ma pháp ảo ảnh cho dân làng xem và cùng Riri dìu Lorraine vì tưởng cô say rượu.
-- Xuất hiện từ: #134 (được nhắc tên), #135 (trực tiếp xuất hiện).
+- Thân phận: Nữ, ~18 tuổi, thiếu nữ xinh đẹp Làng Hathara, bạn thuở nhỏ kém Rentt ~7 tuổi; tóc lam đen ngắn, mắt ngái ngủ, giọng ngọt êm; vô tư, bộc trực.
+- Quan hệ: Rentt xem như em gái; gọi Rentt là "Ren"; tò mò về Lorraine, Maalt.
+- Năng lực: Có Ma Lực, học làm thuốc từ bà Gharb, sắp học thuật giả kim.
+- Xuất hiện từ: #134 (nhắc tên), #135.
 
 ### Ren
 - Xem Rentt Faina (cách gọi thân mật của Fahri).
 
 ### Gharb
-- Giới tính, vai trò: Nữ, bà lão làm thuốc (dược sư) tại Làng Hathara, họ hàng của Rentt Faina.
-- Đặc điểm: Từng dạy Rentt kiến thức thảo dược thời thơ ấu; sở hữu Ma Lực, có thể sử dụng ma thuật và thuật giả kim nhưng giữ bí mật với dân làng; hiện đang kiên nhẫn chỉ bảo Fahri nghề làm thuốc và chuẩn bị truyền dạy thuật giả kim; nắm giữ chức vị đại ma pháp sư cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại; quyết định bàn giao việc trông coi thành phố ngầm cổ đại cho Rentt và Lorraine (tính đến chương 148); cùng Capitan trao các cặp đá tạo ma pháp trận dịch chuyển gia truyền cho Rentt và Lorraine, dẫn cả nhóm dịch chuyển tới căn phòng bí mật trong cống ngầm ngoại vi vương đô Vistelya; sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa (tính đến chương 149).
-- Trạng thái tính đến chương 168: Thấu hiểu và chấp nhận việc Rentt biến thành Undead (Ma Cà Rồng) do bị Rồng ăn thịt; chia sẻ hiểu biết về lịch sử Ma Cà Rồng bị Giáo Hội Lobelia săn đuổi 40 năm trước; nhận lời truyền dạy ma thuật cổ truyền Hathara và giải mã tài liệu cổ ngữ cho Lorraine.
-- Xuất hiện từ: #134 (được nhắc đến là bà lão họ hàng làm thuốc), #136 (tiết lộ tên và thuật giả kim).
+- Thân phận: Nữ, bà lão làm thuốc Làng Hathara, họ hàng Rentt Faina, chị/em của Pravda (tên đầy đủ Gharb Faina). Đại ma pháp sư cổ truyền Hathara, hậu duệ Vương Quốc Cổ Đại (#148).
+- Quan hệ: Dạy Rentt thảo dược hồi nhỏ, đang dạy Fahri; cùng Ingo, Capitan giữ bí mật làng.
+- Năng lực: Ma Lực, ma thuật, giả kim (giấu dân làng); thẻ Đồng Cấp tên giả (#149).
+- Trạng thái (đến #168): Giao Rentt và Lorraine trông coi thành phố ngầm cổ đại (#148), trao đá ma pháp trận dịch chuyển tới cống ngầm vương đô Vistelya (#149); biết và chấp nhận Rentt là Undead (Ma Cà Rồng), nhận dạy ma thuật cổ truyền và giải mã cổ ngữ cho Lorraine (#168).
+- Xuất hiện từ: #134, #136 (tên).
 
 ### Gharb Faina
 - Xem Gharb (tên đầy đủ của bà lão làm thuốc Gharb).
 
 ### Hadeed
-- Giới tính, vai trò: Nam, thợ săn tại Làng Hathara.
-- Đặc điểm: Người sử dụng Khí Lực (spirit user); đang chỉ bảo và truyền dạy kỹ năng Khí Lực cho Riri (kỹ thuật chặt gỗ bằng dao găm, bắn cung tầm xa).
-- Xuất hiện từ: #136 (được Fahri nhắc tên).
+- Thân phận: Nam, thợ săn Làng Hathara, dùng Khí Lực; dạy Riri (dao găm, bắn cung xa).
+- Xuất hiện từ: #136 (Fahri nhắc tên).
 
 ### Locusta
-- Giới tính, vai trò: Nam, cha ruột của Rentt Faina.
-- Đặc điểm: Vẻ ngoài phong trần, vạm vỡ, từng ngao du nhiều nơi trước khi định cư tại Làng Hathara; am hiểu giá trị hàng hóa và đối ngoại của làng; qua đời do quái vật tấn công trong chuyến đi buôn khi Rentt 5 tuổi. Rentt thừa hưởng ánh mắt của ông.
-- Xuất hiện từ: #139 (qua lời kể của Rentt).
+- Thân phận: Nam, cha ruột Rentt Faina; phong trần, vạm vỡ, từng ngao du, lo buôn bán/đối ngoại cho Hathara.
+- Đặc điểm: Chết do quái vật khi Rentt 5 tuổi; Rentt thừa hưởng ánh mắt ông.
+- Xuất hiện từ: #139 (hồi ức).
 
 ### Melissa
-- Giới tính, vai trò: Nữ, mẹ ruột của Rentt Faina.
-- Đặc điểm: Người phụ nữ xinh đẹp, dịu dàng và rất được mọi người yêu mến; qua đời do quái vật tấn công khi Rentt 5 tuổi. Rentt thừa hưởng vóc dáng từ bà.
-- Xuất hiện từ: #139 (qua lời kể của Rentt).
+- Thân phận: Nữ, mẹ ruột Rentt Faina; xinh đẹp, dịu dàng, được yêu mến.
+- Đặc điểm: Chết do quái vật khi Rentt 5 tuổi; Rentt thừa hưởng vóc dáng bà.
+- Xuất hiện từ: #139 (hồi ức).
 
 ### Pravda
-- Giới tính, vai trò: Nữ, mẹ của Trưởng Làng Ingo Faina, tức bà nội nuôi của Rentt Faina; là chị/em gái của bà lão làm thuốc Gharb.
-- Đặc điểm: Dung mạo khá giống Gharb nhưng khuôn mặt thanh thoát và hiền hậu hơn nhiều; đại diện gia đình trưởng làng trong chuyến đi buôn sang làng bên; sở hữu Ma Lực và biết dùng ma thuật; qua đời do quái vật sói bạc tấn công khi Rentt 5 tuổi (bị vuốt sói đâm xuyên lưng khi cố cầm chân quái vật cứu hai đứa trẻ).
-- Xuất hiện từ: #139 (qua lời kể của Rentt).
+- Thân phận: Nữ, mẹ Trưởng Làng Ingo Faina (bà nội nuôi Rentt), chị/em của Gharb; giống Gharb nhưng hiền hậu hơn; có Ma Lực.
+- Đặc điểm: Chết khi Rentt 5 tuổi, bị sói bạc đâm xuyên lưng khi cầm chân cứu hai đứa trẻ.
+- Xuất hiện từ: #139 (hồi ức).
 
 ### Jinlin
-- Giới tính, vai trò: Nữ, con gái của Trưởng Làng Ingo Faina, bạn thanh mai trúc mã bằng tuổi của Rentt Faina (từng được hai bên gia đình hứa hôn từ nhỏ).
-- Đặc điểm: Tính cách hiếu động, nghịch ngợm, thích trèo cây, chơi đánh kiếm gỗ và luôn nhận làm mạo hiểm giả săn quái vật; thông minh, biết đọc viết từ nhỏ; bị say xe ngựa; qua đời do quái vật sói bạc tấn công khi 5 tuổi (lấy thân mình đỡ móng vuốt sói cứu mạng Rentt và trút hơi thở cuối cùng trong vòng tay anh).
-- Xuất hiện từ: #139 (qua lời kể của Rentt).
+- Thân phận: Nữ, con gái Trưởng Làng Ingo Faina, thanh mai trúc mã bằng tuổi Rentt (hai nhà hứa hôn).
+- Đặc điểm: Hiếu động, trèo cây, đánh kiếm gỗ, luôn đóng vai mạo hiểm giả; thông minh, biết chữ sớm; say xe ngựa. Chết năm 5 tuổi khi đỡ vuốt sói bạc cứu Rentt, mất trong vòng tay anh.
+- Xuất hiện từ: #139 (hồi ức).
 
 ### Tilya
-- Giới tính, vai trò: Nữ, nàng tiên (fairy) cao khoảng 15cm với trang phục sặc sỡ và đôi cánh như chuồn chuồn.
-- Đặc điểm: Bị mắc áo vào ngọn cành cây cao tại thị trấn buôn bán, được Jinlin trèo lên gỡ và Rentt đỡ rơi; hứa sẽ đền ơn nếu có dịp tái ngộ rồi vội vã bay đi; chỉ người sở hữu Ma Lực mới có thể nhìn thấy.
-- Xuất hiện từ: #140 (qua lời kể của Rentt).
+- Thân phận: Nữ, tiên (fairy) cao ~15cm, cánh như chuồn chuồn; chỉ người có Ma Lực mới thấy.
+- Đặc điểm: Mắc áo trên cây, được Jinlin gỡ và Rentt đỡ; hứa đền ơn nếu tái ngộ.
+- Xuất hiện từ: #140 (hồi ức).
 
 ### Wilfried Rucker
-- Giới tính, vai trò: Nam, mạo hiểm giả Mithril Cấp.
-- Đặc điểm: Sử dụng thanh đại kiếm to bản khổng lồ; tốt bụng, đĩnh đạc, thấu hiểu tâm lý trẻ thơ; kịp thời giải cứu Rentt trước vuốt sói bạc hung hãn năm Rentt 5 tuổi; ở lại Hathara giúp an táng và khuyên nhủ, định hướng học tập cho Rentt; là hình mẫu lý tưởng thôi thúc Rentt đặt mục tiêu trở thành mạo hiểm giả Mithril Cấp.
-- Xuất hiện từ: #142 (qua hồi ức của Rentt).
+- Thân phận: Nam, mạo hiểm giả Mithril Cấp, dùng đại kiếm khổng lồ.
+- Đặc điểm: Tốt bụng, đĩnh đạc; cứu Rentt khỏi sói bạc năm 5 tuổi, giúp an táng và định hướng; hình mẫu khiến Rentt nhắm Mithril Cấp.
+- Xuất hiện từ: #142 (hồi ức).
 
 ### Azel Goth
-- Giới tính, vai trò: Nam, thương nhân lữ hành kiêm mạo hiểm giả bán thời gian.
-- Đặc điểm: Ngoại hình tuấn tú, tóc dài, phong thái thanh lịch như quý tộc hoặc tư tế; là người đánh cỗ xe ngựa đồng hành cùng Wilfried; nhiệt tình dùng vải vóc đắt tiền bọc thi thể người thân Rentt mang về Hathara; ấp ủ ước mơ thành lập Thương hội Goth.
-- Xuất hiện từ: #142 (qua hồi ức của Rentt).
+- Thân phận: Nam, thương nhân lữ hành kiêm mạo hiểm giả bán thời gian; tuấn tú, tóc dài, thanh lịch.
+- Đặc điểm: Đánh xe cho Wilfried; bọc thi thể người thân Rentt bằng vải quý; mơ lập Thương hội Goth.
+- Xuất hiện từ: #142 (hồi ức).
 
 ### Viroget
-- Giới tính, vai trò: Thần linh / Thần tinh linh (divine spirit) cai quản thực vật, mùa màng, sự thịnh vượng và chiến tranh.
-- Đặc điểm: Là thần linh ngự tại ngôi đền hoang phế phía tây làng Hathara; bản thể thật sự ngự tại ngôi đền chính ở nơi khác. Một phân thân thần tinh linh của Viroget đã nương náu tại bức tượng gỗ tạc Lorraine (do Rentt đẽo từ gỗ Ent Bụi Cây có ma lực), có thể cử động và cất tiếng nói; tính cách khá xuề xòa, dễ tính, hay phàn nàn nhẹ nhàng vì có quá ít tín đồ; đã ban phước Thần Lực cho Rentt và Lorraine.
+- Thân phận: Thần tinh linh (divine spirit) cai quản thực vật, mùa màng, thịnh vượng, chiến tranh; đền hoang phía tây Hathara (bản thể ở đền chính nơi khác).
+- Đặc điểm: Phân thân trú trong tượng gỗ tạc Lorraine (gỗ Ent Bụi Cây), cử động và nói được; xuề xòa, hay than ít tín đồ; ban Thần Lực cho Rentt và Lorraine. Gọi tắt Viro.
 - Xuất hiện từ: #144.
 
 ### Viro
-- Giới tính, vai trò: Thần tinh linh (divine spirit).
-- Đặc điểm: Tên gọi tắt của phân thân thần tinh linh Viroget trú ngụ trong bức tượng gỗ tạc Lorraine; tính cách xuề xòa, thích rượu, tan biến thành cát sau khi cạn năng lượng duy trì thể xác. Xem thêm Viroget.
+- Thân phận: Tên gọi tắt của phân thân Viroget trong tượng gỗ tạc Lorraine.
+- Đặc điểm: Xuề xòa, thích rượu; tan thành cát khi cạn năng lượng. Xem Viroget.
 - Xuất hiện từ: #145.
 
 ### Capitan
-- Giới tính, vai trò: Nam, trưởng nhóm thợ săn Làng Hathara, một trong những người thầy thuở nhỏ của Rentt.
-- Đặc điểm: Thân hình vạm vỡ nhiều tuổi (đã có hai con ở tuổi thiếu niên), cơ bắp cuồn cuộn như mặc giáp; tính tình hiền lành, trầm đĩnh nhưng hay trêu đùa và thích thử thách học trò; ngượng ngùng khi được gọi là thầy; bậc thầy Khí Lực (có thể truyền Khí Lực vào mũi tên bắn vỡ cả tảng đá) và kỹ năng sinh tồn, dùng dao săn, cước pháp; cùng với Ingo và Gharb là ba người gánh vác việc làng và nắm giữ bí mật của Làng Hathara; nắm giữ chức vị kỵ sĩ đoàn trưởng cổ truyền của Làng Hathara và mang dòng máu hậu duệ Vương Quốc Cổ Đại (tính đến chương 148); thị phạm và trao viên đá tạo ma pháp trận dịch chuyển cho Rentt và Lorraine, sở hữu thẻ mạo hiểm giả Đồng Cấp đăng ký tên giả tại chi nhánh xa để tự do ra vào vương đô Vistelya (tính đến chương 149); trong trận so tài đã chiến đấu đến kiệt sức và hòa nhau với Rentt, chính thức công nhận thực lực vượt bậc của anh và bắt đầu dò hỏi về đôi cánh cùng bí mật của học trò (tính đến chương 166).
-- Trạng thái tính đến chương 168: Đồng ý giữ kín bí mật thân phận Undead của Rentt và nhận lời truyền dạy các kỹ thuật vận dụng Khí Lực bí truyền để Rentt bảo vệ ma pháp trận dịch chuyển.
-- Trạng thái tính đến chương 170: Truyền dạy Rentt kỹ năng cụ thể hóa Khí Lực thành thực thể (tạo giáp Khí Lực, phóng lưỡi đao Khí Lực từ cành cây); tiết lộ bí thuật Hathara hy sinh tuổi thọ ép Khí Lực cực hạn nhưng khuyên Rentt không nên mạo hiểm.
+- Thân phận: Nam, trưởng nhóm thợ săn Làng Hathara, thầy thuở nhỏ của Rentt; chồng Cami, hai con tuổi thiếu niên; cơ bắp như mặc giáp. Kỵ sĩ đoàn trưởng cổ truyền Hathara, hậu duệ Vương Quốc Cổ Đại (#148).
+- Tính cách: Hiền, trầm đĩnh nhưng hay trêu, thích thử thách học trò; ngượng khi được gọi là thầy.
+- Quan hệ: Cùng Ingo, Gharb giữ bí mật làng.
+- Năng lực: Bậc thầy Khí Lực (mũi tên vỡ đá), sinh tồn, dao săn, cước pháp; thẻ Đồng Cấp tên giả ra vào Vistelya (#149).
+- Trạng thái (đến #170): Hòa Rentt khi so tài (#166); giữ kín thân phận Undead của Rentt (#168); dạy cụ thể hóa Khí Lực (giáp, lưỡi đao Khí Lực); tiết lộ bí thuật đốt tuổi thọ nhưng khuyên không dùng.
 - Xuất hiện từ: #146.
 
 ### Doras
-- Giới tính, vai trò: Nam, thiếu niên Làng Hathara làm nghề thủ công mỹ nghệ bằng gỗ, bạn thuở nhỏ kém Rentt 3 tuổi.
-- Đặc điểm: Cha là nghệ nhân trong làng; tính tình trầm lặng, chăm chỉ tập trung vào công việc; thông minh, suy nghĩ chín chắn so với lứa tuổi 12; thầm thích Riri nhưng e thẹn, kiên nhẫn đợi chờ tình cảm đơm hoa kết trái.
+- Thân phận: Nam, 12 tuổi, thợ thủ công gỗ Làng Hathara, bạn thuở nhỏ kém Rentt 3 tuổi.
+- Đặc điểm: Trầm lặng, chăm chỉ, chín chắn; thầm thích Riri, e thẹn chờ đợi.
 - Xuất hiện từ: #151.
 
 ### Jid Dalger
-- Giới tính, vai trò: Nam, thợ săn lão luyện cừ khôi nhất của Làng Shigaon, cha của Razzie Dalger và ông nội của Dat.
-- Đặc điểm: Thân hình cao to, vạm vỡ như một võ sư dù đã lớn tuổi; sống ẩn dật một mình trong căn nhà gỗ bên hồ nước ven rừng rậm; tính tình bộc trực, cảnh giác nhưng hào sảng và tình cảm; từng bất hòa với con trai khi con rời làng không chịu nối nghiệp săn bắn; sở hữu tài nghệ săn bắn phi thường khi tự tay bắt cả đàn thỏ Aurum quý hiếm đãi tiệc cưới cháu nội và tặng một con cho Rentt; nhờ Rentt dẫn đi chọn trang phục cưới để bản thân không bị lạc lõng trong ngày vui của cháu.
+- Thân phận: Nam, lớn tuổi, thợ săn cừ nhất Làng Shigaon; cha Razzie Dalger, ông nội Dat.
+- Đặc điểm: To lớn như võ sư, sống ẩn dật bên hồ; bộc trực, cảnh giác nhưng hào sảng; từng giận con bỏ nghề săn; săn thỏ Aurum đãi cưới cháu, tặng Rentt một con.
 - Xuất hiện từ: #152.
 
 ### Razzie Dalger
-- Giới tính, vai trò: Nam, khoảng 50 tuổi, con trai duy nhất của Jid Dalger, cha của Dat.
-- Đặc điểm: Rời làng lên Maalt lập nghiệp vì không muốn làm thợ săn, gầy dựng một thương hội quy mô vừa; từng bất hòa với cha và không mời cha dự đám cưới của mình, nhưng khi về già đã hiểu cho lòng cha và chủ động gửi thư qua Rentt mời Jid dự đám cưới con trai mình.
+- Thân phận: Nam, ~50 tuổi, con Jid Dalger, cha Dat; chủ thương hội vừa ở Maalt.
+- Đặc điểm: Từng bất hòa với cha; về già hòa giải, nhờ Rentt đưa thư mời cha dự cưới con.
 - Xuất hiện từ: #152.
 
 ### Dat
-- Giới tính, vai trò: Nam, con trai của Razzie Dalger, cháu nội của Jid Dalger.
-- Đặc điểm: Người thừa kế thương hội quy mô vừa của cha; nhân vật chú rể tổ chức tiệc cưới tự phục vụ độc đáo tại Maalt với món chính là thịt thỏ Aurum do ông nội săn tặng.
+- Thân phận: Nam, con Razzie Dalger, cháu Jid Dalger, thừa kế thương hội; chú rể tiệc cưới tự phục vụ ở Maalt.
 - Xuất hiện từ: #152.
 
 ### Rudol
-- Giới tính, vai trò: Nam, thợ săn địa phương tại Làng Wega.
-- Đặc điểm: Thợ săn chuyên săn quái vật nhỏ không bõ thuê mạo hiểm giả; sở hữu lực tay khỏe từng thắng cả một số mạo hiểm giả; người hiểu rõ giới hạn của bản thân và dân làng nên đã khuyên trưởng làng thuê mạo hiểm giả diệt con Goblin to lớn; sẵn sàng giả say kiếm chuyện thách đấu vật tay với Rentt để chịu thua nhằm giúp dân làng hiểu rõ thực lực của mạo hiểm giả và không coi thường nguy hiểm.
+- Thân phận: Nam, thợ săn Làng Wega, tay khỏe.
+- Đặc điểm: Biết giới hạn, khuyên thuê mạo hiểm giả diệt Goblin to; giả say thách vật tay Rentt rồi chịu thua để dân làng hiểu thực lực mạo hiểm giả.
 - Xuất hiện từ: #153.
 
 ### Eiras
-- Giới tính, vai trò: Nam, khoảng ba mươi lăm tuổi, mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt.
-- Đặc điểm: Thân hình vạm vỡ, dày dạn kinh nghiệm thực chiến; tính tình bộc trực, chung thủy, hết lòng yêu Myurin; vì không muốn cản trở cơ hội chữa bệnh cho em trai Myurin nên từng ngậm ngùi nói lời chia tay và mượn rượu giải sầu; sau khi được Rentt và Lorraine tặng thuốc hiếm đã lập tức chạy đi tìm Myurin và tổ chức đám cưới trọn vẹn.
+- Thân phận: Nam, ~35 tuổi, mạo hiểm giả Ngân Cấp kỳ cựu ở Maalt.
+- Đặc điểm: Vạm vỡ, bộc trực, chung thủy; từng chia tay Myurin vì bệnh em trai cô; nhờ thuốc Rentt và Lorraine tặng, cưới Myurin.
 - Xuất hiện từ: #154.
 
 ### Myurin
-- Giới tính, vai trò: Nữ, nhân viên tiệm tạp hóa ở Maalt, người yêu và sau đó là vợ của Eiras.
-- Đặc điểm: Xinh đẹp, đoan trang, tháo vát; có em trai không may mắc chứng bệnh nan y (bệnh fiel); từng đau lòng khi Eiras đòi chia tay; sau khi em trai được chữa khỏi nhờ thuốc của Rentt và Lorraine, cô và Eiras đã nên duyên vợ chồng trong trang phục lộng lẫy.
+- Thân phận: Nữ, nhân viên tiệm tạp hóa Maalt, vợ Eiras.
+- Đặc điểm: Xinh đẹp, đoan trang, tháo vát; em trai bệnh fiel được chữa khỏi nhờ thuốc Rentt và Lorraine.
 - Xuất hiện từ: #154.
 
 ### Nauss Ancro
-- Giới tính, vai trò: Nam, kỵ sĩ lớn tuổi, đội trưởng Cận Vệ Hoàng Gia của Vương Quốc Yaaran.
-- Đặc điểm: Khoác giáp bạc có khắc gia huy hình kỳ lân đâm xuyên quái vật trên vai; kiếm thuật điêu luyện; tính tình thẳng thắn, cảnh giác nhưng biết ơn ân nhân cứu mạng; tận tụy bảo vệ Công Chúa Jia; trao huân chương gia huy chứa ma thuật để nhóm Rentt làm tín vật vào vương cung.
+- Thân phận: Nam, kỵ sĩ lớn tuổi, đội trưởng Cận Vệ Hoàng Gia Vương Quốc Yaaran; giáp bạc khắc gia huy kỳ lân.
+- Đặc điểm: Kiếm thuật giỏi; thẳng thắn, cảnh giác, biết ơn; tận tụy bảo vệ Công Chúa Jia; trao huân chương gia huy làm tín vật vào vương cung.
 - Xuất hiện từ: #157.
 
 ### Jia Regina Yaaran
-- Giới tính, vai trò: Nữ, khoảng 15-16 tuổi, Nhị Công Chúa của Vương Quốc Yaaran.
-- Đặc điểm: Ngoại hình xinh xắn, quý phái trong bộ váy nhưng thể trạng có phần hơi ốm yếu; ánh mắt kiên định, tính cách nhân từ, biết nghĩ cho người khác và thấm nhuần giáo lý bác ái của Giáo Hội Đông Thiên; không kênh kiệu lạm quyền, luôn muốn đền đáp ân nhân cứu mạng và tôn trọng công việc của người dân. Khi xúc động hoặc liên quan đến an nguy của phụ vương, cô bé bộc lộ nét tính cách bộc trực, nhiệt tình và sốt sắng (#230).
+- Thân phận: Nữ, ~15-16 tuổi, Nhị Công Chúa Vương Quốc Yaaran; xinh xắn, quý phái, hơi ốm yếu.
+- Tính cách: Kiên định, nhân từ, theo giáo lý Giáo Hội Đông Thiên; không kênh kiệu, muốn đền ơn, tôn trọng dân. Khi xúc động hay liên quan an nguy phụ vương thì bộc trực, sốt sắng (#230).
 - Xuất hiện từ: #157.
 
 ### Hozei
-- Thân phận, vai trò: Nữ Thần Khế Ước (God of Contracts) được thờ phụng tại vương đô Vistelya.
-- Đặc điểm: Bức tượng khổng lồ tại ngôi đền miêu tả bà tay cầm quyền trượng thực thi công lý, tay kia cầm cán cân đảm bảo sự công bằng, tóc dài, trang phục rộng thụng, ánh mắt kiên định không khoan nhượng trước bất kỳ sự bất công nào; tính cách nghiêm khắc bậc nhất trong số các thần linh; khế ước mang sự ban phước của bà do các Thánh Giả tạo ra bằng Thần Lực có khả năng ước thúc hành vi của người ký kết.
+- Thân phận: Nữ Thần Khế Ước (God of Contracts), thờ tại vương đô Vistelya.
+- Đặc điểm: Tượng cầm quyền trượng và cán cân; nghiêm khắc nhất trong các thần; khế ước ban phước của bà do Thánh Giả tạo bằng Thần Lực, ước thúc người ký.
 - Xuất hiện từ: #159.
 
 ### Josee Meyer
-- Giới tính, vai trò: Nữ, trạc giữa độ tuổi 20, người đứng đầu đền thờ Nữ Thần Khế Ước Hozei tại vương đô Vistelya, Thánh Giả trẻ tuổi.
-- Đặc điểm: Mặc áo chùng thụng trùm kín đầu, giọng nói có phần phi giới tính khi đội mũ trùm; khi lộ diện là một cô gái trẻ trạc tuổi Rentt và Lorraine; đôi lúc hơi lơ đãng ngơ ngác khi bối rối, nhưng phong thái đón tiếp và hướng dẫn lại chỉn chu, rành mạch; rất nhạy cảm với thánh khí và Thần Lực; tôn trọng tuyệt đối tính bảo mật của khế ước và thân phận khách hàng; trao thẻ thông hành đặc biệt để nhóm Rentt có thể liên hệ thẳng với người đứng đầu mọi đền thờ Hozei nếu bản khế ước gặp vấn đề.
+- Thân phận: Nữ, giữa tuổi 20, Thánh Giả đứng đầu đền Hozei tại Vistelya.
+- Đặc điểm: Trùm mũ thì giọng phi giới tính; hơi ngơ ngác khi bối rối nhưng tiếp đón chỉn chu; nhạy với Thần Lực; tuyệt đối bảo mật; trao thẻ thông hành liên hệ mọi đền Hozei cho nhóm Rentt.
 - Xuất hiện từ: #162.
 
 ### Cami
-- Giới tính, vai trò: Nữ, vợ của Capitan ở Làng Hathara.
-- Đặc điểm: Thường được Capitan say rượu kể lại chuyện tình cảm thuở mới quen cho mọi người nghe; hiện tại đã có hai người con ở tuổi thiếu niên.
-- Xuất hiện từ: #165 (qua lời kể của Capitan và Rentt).
+- Thân phận: Nữ, vợ Capitan ở Làng Hathara; hai con tuổi thiếu niên.
+- Đặc điểm: Capitan say rượu hay kể chuyện tình thuở mới quen.
+- Xuất hiện từ: #165 (qua lời kể).
 
 ### Count Curtis Nal Robista
-- Giới tính, vai trò: Nam, đứng tuổi (an older gentleman), Bá tước quyền thế bậc nhất Vương Quốc Yaaran, đại lãnh chủ sở hữu vùng đất trù phú gần vương đô.
-- Đặc điểm: Thân thiện, nhã nhặn, cởi mở, không phân biệt giai cấp hay trịch thượng; rất quan tâm đến ngành dược liệu vốn là nguồn thu nhập chính của lãnh địa; đến Maalt bí mật khảo sát thảo dược; thích trải nghiệm những điều mới lạ và đánh giá cao năng lực cùng sự khéo léo của mạo hiểm giả; tự xưng tên giả là "Curt" khi ở quán rượu.
-- Trạng thái tính đến chương 173: Đại lãnh chủ giàu có gần vương đô, cùng hộ vệ Kim Cấp Hayden War tới Maalt với danh nghĩa khảo sát ngành dược liệu; tại quán rượu, chứng kiến sự nhanh trí và thực lực của Rentt nên đồng ý thuê anh dẫn đường với tên giả "Curt". Tính đến chương 174, tiết lộ nguyên nhân thật sự của chuyến đi bí mật: con gái Elaine mắc chứng bệnh nan y kỳ lạ với các đốm tím sẫm như vết mực lan khắp người; sau cơn ác mộng, tâm sự với Hayden về lời sấm truyền từ con búp bê cử động trên bàn thờ nhà nguyện chỉ dẫn tới Maalt tìm nguyên liệu thuốc, đặt trọn hy vọng vào chuyến khảo sát cùng Rentt. Tính đến chương 175, cùng Hayden gặp gỡ Rentt và Lorraine; được Lorraine hướng dẫn mua nhiều dược liệu quý ở Maalt và biết đến căn bệnh do bọ quái vật ở Chiweb; con búp bê mang theo bất ngờ cử động và phân thân Viroget chỉ dẫn cần lấy lá Ent Cổ Đại ở Rừng Cổ Đại Rasta; vô cùng cảm kích khi Rentt và Lorraine xung phong dẫn đường và cúi đầu tạ ơn. Tính đến chương 176, cùng nhóm mạo hiểm giả đến Rừng Cổ Đại Rasta; chứng kiến trận chiến hạ gục Ent Cổ Đại và thu hoạch lượng lớn lá dược liệu; nhận ra lời sấm của Viroget nhằm ngăn chặn thảm họa dịch bệnh; bắt tay cảm tạ Rentt và Lorraine rồi về vương đô; một tháng sau gửi thư báo tin dịch bệnh đã bị dập tắt hoàn toàn nhờ sản xuất thuốc hàng loạt và gửi kèm thư cảm tạ của con gái.
+- Thân phận: Nam, đứng tuổi, Bá tước quyền thế bậc nhất Yaaran, lãnh chủ vùng dược liệu gần vương đô; cha Elaine; hộ vệ Hayden War.
+- Tính cách: Thân thiện, nhã nhặn, không trịch thượng; quý mạo hiểm giả; tên giả "Curt" ở quán rượu.
+- Trạng thái (đến #176): Bí mật tới Maalt chữa bệnh cho Elaine theo lời sấm Viroget, thuê Rentt (#173-175); lấy được lá Ent Cổ Đại ở Rừng Cổ Đại Rasta, dập dịch, gửi thư cảm tạ Rentt và Lorraine (#176).
 - Xuất hiện từ: #173.
 
 ### Hayden War
-- Giới tính, vai trò: Nam, mạo hiểm giả Kim Cấp (Gold-class) hoạt động chủ yếu ở vương đô, được Bá tước Robista thuê làm hộ vệ kiêm cố vấn.
-- Đặc điểm: Dáng vẻ phong trần, tính tình xởi lởi, bộc trực, thích tự do tự tại; chiến lực cực mạnh (một mình tiêu diệt quái vật và sơn tặc bảo vệ xe ngựa), ứng biến nhanh nhạy; từng đến Maalt nhiều lần; rất thân thiện và tôn trọng Bá tước Robista như bạn bè nhưng vẫn giữ chừng mực hộ vệ; nhanh chóng nhận ra thực lực và sự đáng tin cậy của Rentt ở quán rượu.
-- Trạng thái tính đến chương 173: Mạo hiểm giả Kim Cấp hộ vệ Bá tước Robista, một mình tiêu diệt quái vật và sơn tặc bảo vệ an toàn trên đường đi; tại quán rượu, nhanh chóng nhận ra bản lĩnh của Rentt và ra hiệu ngầm bảo đảm với bá tước để thuê Rentt. Tính đến chương 174, bảo dưỡng vũ khí bên cạnh giường của Bá tước Robista; lắng nghe và động viên bá tước sau cơn ác mộng về con gái Elaine; hoài nghi về lời sấm truyền nhưng hy vọng Rentt sẽ giúp tìm ra phương thuốc cứu sống tiểu thư. Tính đến chương 176, cùng Rentt và Lorraine phối hợp tiêu diệt Ent Cổ Đại; khâm phục tài kiểm soát ma pháp và mở đường của Lorraine; ngạc nhiên trước bản lĩnh, sự gan dạ và thực lực vượt xa Đồng Cấp của Rentt; đâm kiếm vào điểm yếu ở trán kết liễu Ent Cổ Đại; thoáng nghi ngờ năng lực bí ẩn của Rentt nhưng hoàn toàn tin tưởng sự chuyên nghiệp của cả hai.
+- Thân phận: Nam, mạo hiểm giả Kim Cấp ở vương đô, hộ vệ kiêm cố vấn Bá tước Robista.
+- Tính cách: Phong trần, xởi lởi, bộc trực, thích tự do; coi Bá tước như bạn nhưng giữ chừng mực.
+- Trạng thái (đến #176): Kết liễu Ent Cổ Đại cùng Rentt, Lorraine; nhận ra Rentt vượt xa Đồng Cấp, thoáng nghi năng lực bí ẩn nhưng tin tưởng.
 - Xuất hiện từ: #173.
 
 ### Elaine
-- Giới tính, vai trò: Nữ, con gái của Bá tước Curtis Nal Robista (Bá tước Robista).
-- Đặc điểm: Mắc chứng bệnh nan y kỳ lạ khoảng một tháng nay, trên mặt và khắp cơ thể xuất hiện các đốm tím sẫm như vết mực; sức khỏe suy giảm dần dần, dù thỉnh thoảng vẫn đủ sức đi dạo trong vườn; là động lực khiến Bá tước Robista đích thân bí mật tới Maalt tìm kiếm dược liệu theo lời sấm truyền.
-- Trạng thái tính đến chương 176: Được chữa khỏi bệnh hoàn toàn nhờ phương thuốc bào chế từ lá Ent Cổ Đại kết hợp thảo dược Maalt; gửi thư cảm tạ đến Rentt và Lorraine.
+- Thân phận: Nữ, con gái Bá tước Curtis Nal Robista.
+- Trạng thái (đến #176): Mắc bệnh đốm tím (bọ quái vật ở Chiweb), khỏi nhờ thuốc lá Ent Cổ Đại; gửi thư cảm tạ Rentt và Lorraine.
 - Xuất hiện từ: #174.
 
 ### Dylas
-- Giới tính, vai trò: Nam, thợ thủ công (artisan) đến từ thị trấn Kikal, thân chủ của Rentt Faina.
-- Đặc điểm: Thân thiện, tôn trọng sinh mệnh và động vật; từng nhặt và nuôi dưỡng một con Sói Pha Lê cái bị thương ở ngoại vi thị trấn từ nhỏ; xem con sói như bạn bè thay vì thú thuần hóa; được con sói tặng một viên pha lê màu xanh lục lúc nó mang thai và đeo làm mặt dây chuyền.
-- Trạng thái tính đến chương 177: Đến khu rừng bảo vệ Sói Pha Lê mẹ và bầy con mới sinh; tình cờ nghe được hai mạo hiểm giả bàn kế hoạch săn trộm sói con nên thuê Rentt ngăn cản; cùng Rentt khuyên giải hai mạo hiểm giả rút lui trong hòa bình, sau đó mời Rentt và hai mạo hiểm giả kia đi uống rượu.
+- Thân phận: Nam, thợ thủ công từ thị trấn Kikal, thân chủ của Rentt.
+- Đặc điểm: Hiền, quý sinh mệnh; nuôi Sói Pha Lê cái từ nhỏ như bạn, đeo pha lê lục nó tặng. Thuê Rentt ngăn săn trộm sói con, giải quyết êm (#177).
 - Xuất hiện từ: #177.
 
 ### Liesse
-- Giới tính, vai trò: Nữ, nữ diễn viên chính (leading actress) của đoàn kịch lưu động đến thị trấn Maalt.
-- Đặc điểm: Gương mặt kiều diễm rất hợp với sân khấu kịch, cử chỉ điệu bộ tao nhã và cuốn hút; tính cách thẳng thắn, bực bội vì chủ nhà hát ở Maalt hủy lịch diễn vào phút chót; thủ vai người phụ nữ bị ma pháp sư bắt cóc làm tế phẩm trong vở kịch.
+- Thân phận: Nữ, nữ diễn viên chính đoàn kịch lưu động đến Maalt.
+- Đặc điểm: Kiều diễm, tao nhã; thẳng thắn, bực vì nhà hát Maalt hủy diễn phút chót.
 - Xuất hiện từ: #179.
 
 ### Rota
-- Giới tính, vai trò: Nữ, người phụ nữ trung niên xuất thân từ một gia đình bình thường ở thị trấn Maalt.
-- Đặc điểm: Chân thành, cẩn trọng, biết điều, quý trọng kỷ niệm gia đình hơn tiền bạc; quen biết rộng rãi quanh Maalt bao gồm cả Lorraine Vivie; là cháu gái của một mạo hiểm giả quá cố.
+- Thân phận: Nữ, trung niên, dân thường Maalt, cháu gái một mạo hiểm giả quá cố.
+- Đặc điểm: Chân thành, cẩn trọng, quý kỷ niệm hơn tiền; quen Lorraine Vivie.
 - Xuất hiện từ: #180.
 
 ### Shumini
-- Giới tính, vai trò: Kẻ bí ẩn đứng sau sai khiến nhóm Ma Cà Rồng trẻ tuổi bắt cóc người biến thành Thi Quỷ ở Mê Cung Tân Nguyệt và gây bạo loạn tại Maalt (tên đầy đủ: Shumini Essel, #191).
-- Đặc điểm: Được nhóm thiếu niên Ma Cà Rồng gọi tôn kính là "ngài Shumini" (Mr. Shumini); người đã đánh thức sức mạnh Ma Cà Rồng cho bọn trẻ nhưng chưa tiết lộ mục đích thực sự. Tính đến chương 190, lộ diện là người bạn chiến đấu Ma Cà Rồng cũ của Isaac Hart thời thuộc phe "Đồng Minh"; tính tình cuồng sát, thích tiệc máu của con người và ưa thưởng thức sự tàn sát trong tĩnh lặng; sử dụng Huyết Binh dạng kiếm đỏ thẫm và ma pháp hủy diệt; tìm đến Maalt nhằm lôi kéo Isaac quay lại hoàn thành kế hoạch viển vông; khi bị Isaac từ chối đã quyết định dùng vũ lực khuất phục và đồng ý chuyển đến chiến trường biệt lập quyết đấu. Tính đến chương 191, tự xưng danh hiệu Kỵ Sĩ Phản Nghịch phụng sự Đại Quân Chủ; khi biết các thuộc hạ ở Mê Cung Tân Nguyệt đã bị tiêu diệt và Isaac từ chối, gã dùng dao đen tự đâm ngực hiến tế bản thân biến thành quái vật cá sấu khổng lồ. Tính đến chương 194, trong hình dạng quái vật khổng lồ với khuôn mặt nơi bụng, gã thi triển tia laser và ma pháp diện rộng Địa Ngục Hỏa tấn công nhóm Rentt; sau khi bị Lorraine đóng băng bằng Băng Thương và Laura kích nổ xé toạc thân xác bằng quả cầu đen, khuôn mặt gã mỉm cười thanh thản và bị Isaac vung đại kiếm chém đôi kết liễu, toàn bộ thân xác quái vật tan biến thành tro tàn.
+- Thân phận: Nam, Thượng Cấp Ma Cà Rồng, Kỵ Sĩ Phản Nghịch phụng sự Đại Quân Chủ (tên đầy đủ Shumini Essel, #191); chủ mưu vụ Thi Quỷ ở Mê Cung Tân Nguyệt và bạo loạn Maalt.
+- Tính cách: Cuồng sát, thích tiệc máu. Thuộc hạ gọi "ngài Shumini".
+- Quan hệ: Đánh thức Ma Cà Rồng cho Wugong, Jiziu; bạn chiến đấu cũ của Isaac Hart phe "Đồng Minh" (#190).
+- Năng lực: Huyết Binh kiếm đỏ, ma pháp hủy diệt, Địa Ngục Hỏa.
+- Trạng thái (đến #194): ĐÃ CHẾT. Tự hiến tế hóa quái vật cá sấu (#191); bị Isaac chém đôi, tan thành tro (#194).
 - Xuất hiện từ: #187.
 
 ### Shumini Essel
@@ -705,75 +648,78 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #191.
 
 ### Wugong
-- Giới tính, vai trò: Nam, thiếu niên Ma Cà Rồng phục tùng Shumini, kẻ bắt cóc các mạo hiểm giả tại Mê Cung Tân Nguyệt.
-- Đặc điểm: Được ban cho sức mạnh sử dụng Phân Liệt và Huyết Binh (7 thanh đoản kiếm đỏ); ngoan cố tin vào lời hứa của Shumini về một đất nước riêng cho Ma Cà Rồng; bị Nive chém chết nhiều lần đến khi cạn kiệt khả năng tái tạo và tan thành cát bụi.
+- Thân phận: Nam, thiếu niên Ma Cà Rồng thuộc hạ Shumini, bắt cóc mạo hiểm giả ở Mê Cung Tân Nguyệt.
+- Đặc điểm: Phân Liệt, Huyết Binh (7 đoản kiếm đỏ); tin lời hứa đất nước Ma Cà Rồng. Đã chết dưới tay Nive.
 - Xuất hiện từ: #188.
 
 ### Jiziu
-- Giới tính, vai trò: Nữ, thiếu nữ Ma Cà Rồng đi cùng Wugong phục tùng Shumini.
-- Đặc điểm: Sử dụng lưỡi hái đỏ và năng lực Phân Liệt biến thành đàn dơi đen; ngây thơ tin vào viễn cảnh sống hạnh phúc do Shumini vẽ ra; bị Nive hạ sát sau khi năng lực tự phục hồi cạn kiệt.
+- Thân phận: Nữ, thiếu nữ Ma Cà Rồng đi cùng Wugong, thuộc hạ Shumini.
+- Đặc điểm: Lưỡi hái đỏ, Phân Liệt hóa đàn dơi; ngây thơ. Đã chết dưới tay Nive.
 - Xuất hiện từ: #188.
 
 ### Adela
-- Giới tính, vai trò: Nam, tư tế thuộc Giáo Hội Giả Kim tại Maalt, từng là mạo hiểm giả trong cùng tổ đội với Fazira.
-- Đặc điểm: Là nhà giả kim có thực lực khá tốt, nhã nhặn, phụ trách việc thu gom kim loại tái chế tại bãi phế liệu Maalt; từng bị Fazira trục xuất khỏi tổ đội thời còn là lính mới vì bị chê vô dụng; nuôi lòng hận thù nhưng trong tiềm thức vẫn là một tư tế tận tụy (chủ động cung cấp nguyên liệu cứu mạng Fazira); sau khi được Rentt thức tỉnh mâu thuẫn nội tâm, anh đã từ bỏ ý định báo thù và hòa giải với Fazira.
+- Thân phận: Nam, tư tế Giáo Hội Giả Kim ở Maalt, nhà giả kim giỏi; cựu đồng đội của Fazira.
+- Đặc điểm: Nhã nhặn; từng bị Fazira đuổi khỏi tổ đội, mang hận nhưng vẫn tận tụy; được Rentt khuyên, bỏ báo thù và hòa giải.
 - Xuất hiện từ: #198.
 
 ### Fazira
-- Giới tính, vai trò: Nam, mạo hiểm giả Ngân Cấp đến từ Vistelya, bố của Mimir.
-- Đặc điểm: Nhận ủy thác thu thập nguyên liệu cho quý tộc tại Mê Cung Tân Nguyệt và bị quái vật hóa đá; được Lorraine và Rentt điều chế thuốc cứu sống kịp thời; từng non trẻ trục xuất Adela khỏi tổ đội trong quá khứ nhưng đã thật lòng hối hận và nhận lỗi khi nghe thấy tâm sự của Adela.
+- Thân phận: Nam, mạo hiểm giả Ngân Cấp từ Vistelya, bố Mimir.
+- Đặc điểm: Bị hóa đá ở Mê Cung Tân Nguyệt, được Lorraine và Rentt chế thuốc cứu; hối lỗi với Adela.
 - Xuất hiện từ: #198.
 
 ### Mimir
-- Giới tính, vai trò: Nữ, cô bé khoảng 10 tuổi đến từ Vistelya, con gái của Fazira.
-- Đặc điểm: Đi cùng bố đến Maalt rồi bị lạc, được Alize đưa đến nhờ Rentt giúp đỡ; ngoan ngoãn, biết điều, không muốn làm phiền cô nhi viện quá nhiều; vui mừng khi bố được cứu thoát khỏi tình trạng hóa đá.
+- Thân phận: Nữ, ~10 tuổi, từ Vistelya, con gái Fazira.
+- Đặc điểm: Lạc ở Maalt, Alize đưa đến nhờ Rentt; ngoan, biết điều.
 - Xuất hiện từ: #198.
 
 ### Noel Kruege
-- Giới tính, vai trò: Nam, thiếu niên quý tộc khoảng 10 tuổi, học viên của Học Viện từ vương đô đến Maalt.
-- Đặc điểm: Tính tình kiêu căng, ngạo mạn, khoác đồng phục Học Viện đắt tiền; luôn đứng đầu về điểm số ở Học Viện; dù thích coi thường người khác nhưng có năng lực quan sát nhạy bén, biết nhìn nhận thực lực của Lorraine và biết kiềm chế tuân thủ lời dặn của Viện trưởng (#211).
+- Thân phận: Nam, quý tộc ~10 tuổi, học viên Học Viện từ vương đô.
+- Đặc điểm: Kiêu căng, ngạo mạn; đứng đầu lớp; quan sát nhạy, nhận ra thực lực Lorraine, biết kiềm chế theo lời Viện trưởng (#211).
 - Xuất hiện từ: #210.
 
 ### Elise Georges
-- Giới tính, vai trò: Nữ, thiếu nữ quý tộc, học viên của Học Viện, bạn thân của Rina Rupaage.
-- Đặc điểm: Nghiêm túc, đĩnh đạc, coi trọng danh dự và uy tín của Học Viện; đeo trang sức ma pháp tinh xảo (hoa tai cường hóa ma lực, vòng tay tăng phòng ngự ma thuật); từng bảo vệ Rina khi Rina bị các học viên quý tộc khác chế giễu ở vương đô; luôn đứng thứ hai bám sát Noel về thành tích học tập; sẵn sàng nhận sai khi hiểu lầm và rất khao khát học hỏi, hào hứng muốn nghiên cứu Nguyền Cụ (#211).
+- Thân phận: Nữ, quý tộc, học viên Học Viện, bạn thân Rina Rupaage; đứng thứ hai sau Noel.
+- Đặc điểm: Nghiêm túc, đĩnh đạc, trọng danh dự Học Viện; đeo trang sức ma pháp; từng bênh Rina; biết nhận sai, ham nghiên cứu Nguyền Cụ (#211).
 - Xuất hiện từ: #210.
 
 ### Adelina Moska
-- Giới tính, vai trò: Nữ, Học Sĩ của Học Viện tại vương đô Yaaran, người phụ trách dẫn đoàn học viên tới Maalt khảo sát mê cung mới.
-- Đặc điểm: Đường nét gương mặt nghiêm nghị, thần thái lạnh như băng; là một trong những ma pháp sư xuất chúng nhất trong ban giảng dạy Học Viện; tính tình nguyên tắc nhưng thấu tình đạt lý, nhắc nhở học viên đặt an toàn tính mạng lên trên hết thay vì đơn thương độc mã đối đầu kẻ khả nghi (#212).
+- Thân phận: Nữ, Học Sĩ Học Viện vương đô Yaaran, dẫn đoàn học viên tới Maalt khảo sát mê cung mới.
+- Tính cách: Nghiêm nghị, lạnh như băng; ma pháp sư xuất chúng; nguyên tắc nhưng thấu tình đạt lý, đặt an toàn học viên lên hết (#212).
 - Xuất hiện từ: #212.
 
 ### Pierpaolo Blanca
-- Giới tính, vai trò: Nam, học viên Học Viện đến từ vương đô Yaaran, bạn cùng phòng và bạn thân duy nhất của Noel Kruege.
-- Đặc điểm: Dáng người cao gầy, cử chỉ điệu bộ phô trương, tính tình bộc trực, phóng khoáng đến mức suồng sã; là con trai cả của gia tộc Tử tước Blanca giàu có kinh doanh thương nghiệp; thành tích học tập thuộc nhóm xuất sắc ở Học Viện; nhạy bén nắm bắt thông tin và tin đồn (#212).
+- Thân phận: Nam, học viên Học Viện, bạn cùng phòng và bạn thân duy nhất của Noel Kruege; con trai cả gia tộc Tử tước Blanca (giàu, kinh doanh).
+- Tính cách: Cao gầy, điệu bộ phô trương, bộc trực, suồng sã; học giỏi; nhạy tin đồn (#212).
 - Xuất hiện từ: #212.
 
 ### Jad
-- Giới tính, vai trò: Nam, học sinh lớp học tư thục ở Maalt nơi Lorraine tình nguyện dạy học.
-- Đặc điểm: Tính tình hấp tấp, hành động thiếu suy nghĩ và liên tục gây rắc rối; trót mò vào lối vào cống ngầm mới phát hiện và bị quái vật Mimic đánh ngất, may mắn được Lorraine cứu kịp thời (#217).
+- Thân phận: Nam, học sinh lớp tư thục ở Maalt nơi Lorraine dạy.
+- Tính cách: Hấp tấp, hay gây rắc rối; mò vào cống ngầm bị Mimic đánh ngất, được Lorraine cứu (#217).
 - Xuất hiện từ: #217.
 
 ### Gerge
-- Giới tính, vai trò: Nam, học sinh lớp học tư thục ở Maalt.
-- Đặc điểm: Bạn học của Jad; khi Jad rơi vào cống ngầm đã nhanh trí chạy đến lớp học báo cho Lorraine và dẫn đường tới lối vào bí mật, sau đó chạy đi tìm Rentt hỗ trợ (#217).
+- Thân phận: Nam, học sinh lớp tư thục ở Maalt, bạn của Jad.
+- Đặc điểm: Nhanh trí báo Lorraine, dẫn đường, rồi đi tìm Rentt (#217).
 - Xuất hiện từ: #217.
 
 ### Frahe
-- Giới tính, vai trò: Nam, cậu bé khoảng 10 tuổi, người thừa kế tương lai của gia tộc Muze ở Maalt.
-- Đặc điểm: Tính tình hiếu động, nhiều năng lượng nhưng cũng sớm có trăn trở về trách nhiệm gánh vác gia tộc tương lai; vô cùng ngưỡng mộ và xem Isaac là hình mẫu lý tưởng để noi theo (#218).
+- Thân phận: Nam, ~10 tuổi, người thừa kế tương lai gia tộc Muze ở Maalt.
+- Tính cách: Hiếu động, sớm trăn trở trách nhiệm gia tộc; xem Isaac là hình mẫu (#218).
 - Xuất hiện từ: #218.
 
 ### Jean Seebeck
-- Giới tính, vai trò: Nam, Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran tại vương đô Vistelya.
-- Đặc điểm: Là cựu mạo hiểm giả kỳ cựu giữ chức Tổng Hội Trưởng từ trước thời Wolf Hermann gia nhập Hội; hiện tuổi đã ngoài 80 và không còn hoạt động ở tuyến đầu nhưng vẫn điều hành Hội và thỉnh thoảng đi công vụ các thành phố lân cận (#221). Tính tình lông bông trốn việc như con nít, thường xuyên bỏ lại giấy tờ dang dở chạy rong khắp phố khiến nhân viên Hội phải cuống cuồng đi tìm; tuy nhiên ông cực kỳ cừ khôi khi trực tiếp chỉ huy ứng phó thảm họa lớn (từng dẹp tan Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, và vụ núi lửa Jarlis) nên được mạo hiểm giả tôn sùng và Hội kiên quyết giữ chân không cho nghỉ hưu (#230). Sang #261, bất ngờ xuất hiện tại sàn đấu ngầm và lộ thân phận là Thủ lĩnh tối cao của tổ chức sát thủ / dị năng ngầm do chính ông thành lập sau khi chiêu mộ Gilli Flood (Spriggan); vẻ ngoài tráng kiện như mới ngoài năm mươi, toát ra khí chất áp đảo không chút sơ hở nhưng phong thái cởi mở, thản nhiên thừa nhận danh tính với Rentt.
+- Thân phận: Nam, ngoài 80 tuổi (trông như ngoài năm mươi), Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran tại vương đô Vistelya, giữ chức từ trước khi Wolf Hermann vào Hội (#221).
+- Tính cách: Lông bông trốn việc như con nít; nhưng cực cừ khi chỉ huy ứng phó thảm họa (Bạo Loạn Ansallen, Thảm Họa Sóng Thần Vua Goblin Deneb, núi lửa Jarlis) nên được tôn sùng (#230); khí chất áp đảo, phong thái cởi mở.
+- Bí mật: Thủ lĩnh tối cao tổ chức sát thủ / dị năng ngầm do ông lập cùng Gilli Flood (Spriggan); thản nhiên thừa nhận với Rentt (#261).
 - Xuất hiện từ: #221 (xuất hiện thực tế tại căn cứ ngầm ở #261).
 
 ### Elza
-- Giới tính, vai trò: Nữ, Nữ Tu Viện Trưởng (Abbess) phụ trách Tu Viện Ephas, cơ sở tu viện tổng bộ của Giáo Hội Đông Thiên tại Vương Quốc Yaaran. Tên đầy đủ là Elza Olgado (#223).
-- Đặc điểm: Giữ phẩm hàm cao trong Giáo Hội Đông Thiên (tương đương hồng y/giám mục); được các nữ tu tôn kính gọi là "Mẹ Bề Trên Elza" (Mother Elza); có mối liên lạc trao đổi thư từ riêng với Sơ Lillian ở Maalt. Vẻ ngoài trẻ trung ở độ tuổi đôi mươi, mái tóc đen và đôi mắt màu đen obsidian, toát lên phong thái điềm tĩnh và thông tuệ; sở hữu Thần Lực (là một Thánh Giả). Từng là bạn bè quen biết Lillian từ thời trẻ tại Tu Viện Ephas; luôn cảm thấy áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
-- Quá khứ & Tính cách (tính đến #264): Vốn là bạn thời thơ ấu cùng trang lứa với Lillian, từ nhỏ đã cùng nhau lớn lên trên các con phố ở vương đô trước khi cả hai cùng chọn con đường tu sĩ và trở thành Thánh Giả. Khá hoạt bát và có phần tinh quái khi sẵn sàng mặc thường phục, cắt đuôi các giáo sĩ trong tu viện lẻn ra ngoài bằng cửa phụ để làm người dẫn đường dạo phố mua sắm cho nhóm Rentt (#264).
-- Diễn biến & Năng lực (tính đến #272): Thần Lực của Elza có thể bao phủ cả một thị trấn trong một nghi lễ (thuộc hàng ngũ cao nhất); tiết lộ cô và Lillian nhận Thần Lực từ Pochi nhằm mục đích bảo vệ Mel; chủ động ngỏ lời nhờ Rentt tương trợ bảo vệ Mel, cô nhi viện và Giáo Hội Đông Thiên trước nguy cơ thế giới bước vào thời kỳ đại biến động (#272).
+- Thân phận: Nữ, Nữ Tu Viện Trưởng (Abbess) Tu Viện Ephas, tổng bộ Giáo Hội Đông Thiên tại Yaaran; tên đầy đủ Elza Olgado (#223); Thánh Giả có Thần Lực. Trông độ đôi mươi, tóc đen, mắt đen obsidian.
+- Cách gọi: Nữ tu gọi là "Mẹ Bề Trên Elza" (Mother Elza).
+- Tính cách: Điềm tĩnh, thông tuệ; nhưng hoạt bát, tinh quái — mặc thường phục lẻn ra cửa phụ dẫn nhóm Rentt dạo phố (#264).
+- Quan hệ: Bạn thơ ấu của Lillian (lớn lên cùng nhau, cùng Mel, ở cô nhi viện vương đô); thư từ với Lillian, áy náy vì Lillian phải rời đi do xung đột nội bộ Giáo Hội (#224).
+- Năng lực: Thần Lực bao phủ cả thị trấn trong nghi lễ; cô và Lillian nhận Thần Lực từ Pochi để bảo vệ Mel (#272).
+- Trạng thái (đến #272): Nhờ Rentt bảo vệ Mel, cô nhi viện và Giáo Hội Đông Thiên trước thời kỳ đại biến động.
 - Xuất hiện từ: #222.
 
 ### Lukas Bader
@@ -787,13 +733,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #227 (được nhắc đến).
 
 ### Gisel Georgiou
-- Giới tính, vai trò: Nữ, Nữ Bá tước thuộc phe cánh Đệ Nhất Công Chúa tại Vương Quốc Yaaran.
-- Đặc điểm: Nữ quý tộc dũng mãnh, người ủng hộ lớn nhất của Đệ Nhất Công Chúa Nadia Regina Yaaran; kẻ chủ mưu đứng sau thuê nhóm sát thủ dị năng (Goblin, Siren, ông lão Cự Nhân) thông qua tổ chức ngầm nhằm thủ tiêu nhóm Rentt sau khi họ tiếp xúc với Nhị Công Chúa (#250).
+- Thân phận: Nữ, Nữ Bá tước dũng mãnh, người ủng hộ lớn nhất của Đệ Nhất Công Chúa Nadia Regina Yaaran.
+- Vai trò: Chủ mưu thuê nhóm sát thủ dị năng (Goblin, Siren, ông lão Cự Nhân) qua tổ chức ngầm để thủ tiêu nhóm Rentt sau khi họ tiếp xúc Nhị Công Chúa (#250).
 - Xuất hiện từ: #227 (được nhắc đến).
 
 ### Karsten Reshon Yaaran
-- Giới tính, vai trò: Nam, 65 tuổi, Quốc vương đương nhiệm của Vương Quốc Yaaran.
-- Đặc điểm: Vốn dĩ khỏe mạnh và nhiệt thành gánh vác việc triều chính, từng được kỳ vọng sẽ trị vì thêm 10 năm, nhưng gần đây sức khỏe suy sụp nghiêm trọng đe dọa tính mạng (#228).
+- Giới tính, vai trò: Nam, 65 tuổi, Quốc vương đương nhiệm Vương Quốc Yaaran.
+- Đặc điểm: Vốn khỏe mạnh, nhiệt thành; gần đây sức khỏe suy sụp nghiêm trọng đe dọa tính mạng (#228).
 - Xuất hiện từ: #228 (được nhắc đến).
 
 ### Joachim Princeps Yaaran
@@ -807,122 +753,131 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #229 (được nhắc đến).
 
 ### Yattul
-- Giới tính, vai trò: Nam, người đàn ông trung niên vạm vỡ, thương nhân kiêm người đánh xe chạy tuyến giữa vương đô Yaaran và các thôn làng lân cận (#232).
-- Đặc điểm: Tỏ ra không thạo chiến đấu, ăn nói dân dã xởi lởi; nhưng thực chất là điệp viên kiêm sát thủ mang mật danh "Goblin", thuộc một tổ chức ngầm chuyên thu nhận, đào tạo những người sở hữu dị năng; bẩm sinh có năng lực thuần hóa quái vật chỉ huy goblin và hobgoblin từ nhỏ, được đào tạo ở vương đô, thực lực tương đương mạo hiểm giả Ngân Cấp (tính đến #233). Bị nhóm Rentt và Lorraine sang tận phòng vờ báo tin đã bắt giữ thủ phạm nhằm tung hỏa mù và gài bẫy nhử đồng bọn tới giải cứu (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là một cựu binh có thực lực bình thường, bản tính nhân hậu không hợp nghề sát thủ và nhận ra nghề thương nhân phù hợp hơn nên định coi chuyến này là phi vụ cuối cùng trước khi giải nghệ; dị năng giao tiếp với goblin cũng ảnh hưởng tinh vi lên tính cách giúp hắn có khiếu lấy lòng người khác và đàm phán; sau khi cả nhóm bị bắt, được chọn làm người đưa tin cùng nhóm Rentt đánh xe về vương đô rồi một mình quay về căn cứ tổ chức để thu xếp cuộc gặp đàm phán với thủ lĩnh nhằm cứu đồng bọn (tính đến #246–252).
+- Thân phận: Nam, trung niên vạm vỡ, thương nhân kiêm đánh xe quanh vương đô (#232); thực chất là sát thủ mật danh "Goblin" của tổ chức ngầm dị năng (#233).
+- Tính cách: Ăn nói dân dã xởi lởi, nhân hậu, không hợp nghề sát thủ; khéo lấy lòng, đàm phán.
+- Năng lực: Bẩm sinh chỉ huy goblin/hobgoblin; thực lực tương đương Ngân Cấp.
+- Trạng thái (đến #252): Bị nhóm Rentt bắt (#239); định giải nghệ làm thương nhân; được chọn làm người đưa tin về tổ chức thu xếp đàm phán với thủ lĩnh để cứu Siren và Spriggan (#246–252).
 - Xuất hiện từ: #232.
 
 ### Siren
-- Giới tính, vai trò: Nữ, điệp viên kiêm sát thủ đồng mưu với Yattul (Goblin), mới vào nghề vài năm (#234).
-- Đặc điểm: Giọng nói trẻ trung, tràn đầy tự tin và quyến rũ; thuộc tổ chức ngầm chuyên thu nhận những người sở hữu dị năng; sở hữu dị năng/thiên phú thao túng tâm trí/thôi miên hiếm gặp không dùng Ma Lực, có thể khống chế tối đa khoảng 20 người cùng lúc nếu có sự chuẩn bị trước (cho ngửi thuốc, trò chuyện), nhưng vô hiệu trước người có thể chất/tinh thần quá mạnh; thuật thao túng tự giải trừ khi Siren bất tỉnh; bị Lorraine tra khảo và khai hết thông tin (tính đến #238). Bị Lorraine bỏ bùa cho ngủ say suốt một ngày và giăng bẫy ngầm ma thuật xung quanh làm mồi nhử đồng bọn (tính đến #239). Được đồng bọn (ông lão Cự Nhân) tiết lộ là sở hữu dị năng hiếm gặp nhưng còn thiếu kinh nghiệm và tính tình quá kiêu ngạo, vốn được giao phi vụ khó nhằn này để gọt giũa bớt tính tự kiêu và học hỏi trưởng thành (tính đến #246). Được nhóm Rentt giữ lại làm con tin cùng ông lão Cự Nhân (tính đến #250). Kinh ngạc khi biết ông lão Cự Nhân bị nhóm Rentt đánh bại; cực kỳ khiếp sợ các ngón đòn tra khảo/ma pháp của Lorraine, chỉ cần Lorraine giơ đũa phép lên đe dọa là sợ hãi phát khóc và ngoan ngoãn nghe lời (tính đến #251). Bộc lộ tính cách có phần trẻ con và ngây thơ bất ngờ khi tưởng Rentt cũng là người mang dị năng; dị năng thao túng tâm trí có tác dụng phụ nhẹ lên cả động vật (chó mèo rất quấn), từng định làm nghệ sĩ xiếc; trên đường về vương đô dùng dị năng nhẹ đuổi quái vật, cùng ông lão vào thành bằng thẻ thương nhân và ở lại chịu sự giám sát của Lorraine (tính đến #252). Thực chất mới 17 tuổi, đang trong giai đoạn nổi loạn; từng được ông lão Cự Nhân cứu mạng bằng thuốc khi còn nhỏ và xem ông lão cùng Goblin như người thân; cử chỉ ôm gối vùi mặt rất trẻ con, khác hẳn vẻ ngoài mỹ nhân nguy hiểm (femme fatale) trang điểm đậm (tính đến #254).
+- Thân phận: Nữ, 17 tuổi, sát thủ tổ chức ngầm dị năng, đồng bọn của Yattul (Goblin) (#234, #254); vẻ ngoài femme fatale trang điểm đậm, giọng trẻ trung quyến rũ.
+- Tính cách: Kiêu ngạo, thiếu kinh nghiệm; thực chất trẻ con, ngây thơ, tuổi nổi loạn; cực sợ Lorraine — Lorraine giơ đũa phép là phát khóc, ngoan ngoãn nghe lời (#251).
+- Năng lực: Thao túng tâm trí/thôi miên không dùng Ma Lực, tối đa ~20 người nếu chuẩn bị (ngửi thuốc, trò chuyện); vô hiệu với người thể chất/tinh thần quá mạnh; tự giải khi Siren bất tỉnh; chó mèo rất quấn.
+- Quan hệ: Được Spriggan cứu mạng hồi nhỏ; xem ông và Goblin như người thân.
+- Trạng thái (đến #254): Bị bắt, khai hết (#238); làm con tin (#250); ở vương đô dưới giám sát của Lorraine (#252).
 
 ### Ferrici
-- Giới tính, vai trò: Nữ, thiếu nữ tại Làng Looza (#235).
-- Đặc điểm: Vẻ ngoài bình dị, tính cách nhút nhát, rụt rè; ngồi uống nước cùng bạn bè tại quán rượu của làng; được chủ quán giới thiệu là người am hiểu về vùng Hồ Petorama nhưng hốt hoảng từ chối và bỏ chạy khi nghe nhóm Rentt muốn tới hồ vào mùa giao phối của Phi Long (#235). Nửa đêm diện váy trễ vai lẻn vào phòng Augurey dùng mỹ nhân kế rồi rút dao ám sát nhưng thất bại, bị Augurey tước dao và đánh ngất; biểu hiện gào thét như thú dại khiến Augurey nghi ngờ cô bị thao túng hoặc không phải Siren thật sự (#236). Cùng các nạn nhân khác thoát khỏi thuật thôi miên sau khi Siren bị đánh ngất; sau khi được cởi trói và giải thích rõ sự việc, cô bé xin lỗi Augurey, hợp tác đi đánh thức hơn chục dân làng bị thôi miên mà không làm lộ nhóm Rentt, rồi được Augurey hộ tống về nhà an toàn (tính đến #238–239). Về đến nhà giải tỏa hiểu lầm cho cha mẹ, cùng gia đình hết lời cảm ơn Augurey đã tha mạng và dậy sớm chuẩn bị đồ ăn tặng nhóm trước khi rời làng (tính đến #240). Được Lorraine làm sáng tỏ việc bản thân sở hữu dị năng bẩm sinh hiếm gặp không dùng Ma Lực, giúp cô bé thấu hiểu cảm xúc của Phi Long Mime, đi lại tự do giữa bầy quái vật và ra lệnh cho chúng chở người bay lên các tảng đá lơ lửng; rất gắn bó và bảo bọc lũ Phi Long (tính đến #242).
+- Thân phận: Nữ, thiếu nữ Làng Looza, con của Leo và Lenora (#235).
+- Tính cách: Nhút nhát, rụt rè; rất gắn bó, bảo bọc lũ Phi Long.
+- Diễn biến: Bị Siren thôi miên ám sát Augurey thất bại (#236); được tha, xin lỗi và giúp đánh thức dân làng (#238–239).
+- Năng lực: Dị năng bẩm sinh không dùng Ma Lực, thấu hiểu Phi Long Mime, ra lệnh chúng chở người (#242).
 - Xuất hiện từ: #235.
 
 ### Leo
-- Giới tính, vai trò: Nam, người dân Làng Looza, cha của Ferrici (#240).
-- Đặc điểm: Yêu thương và bảo bọc gia đình sâu sắc; khi thấy Ferrici về muộn đi cùng mạo hiểm giả lạ mặt, ông cố kìm nén cơn giận để nói chuyện lý trí; bàng hoàng khi biết con gái bị Siren thôi miên dùng làm con tốt ám sát mạo hiểm giả và sẵn sàng đền mạng để chuộc tội thay con vì sợ bị mạo hiểm giả trừng phạt; sau khi hiểu rõ sự tình và biết Augurey đã tha mạng cho Ferrici, ông vô cùng biết ơn và bàn với vợ làm đồ ăn gửi tặng nhóm mạo hiểm giả làm quà cảm ơn (#240).
+- Thân phận: Nam, dân Làng Looza, cha của Ferrici (#240).
+- Tính cách: Thương con, cố kìm giận nói chuyện lý trí; từng toan đền mạng thay con; biết ơn Augurey, làm đồ ăn tặng nhóm (#240).
 - Xuất hiện từ: #240.
 
 ### Lenora
-- Giới tính, vai trò: Nữ, người dân Làng Looza, mẹ của Ferrici (#240).
-- Đặc điểm: Ngoại hình mang dáng dấp của Ferrici ba mươi năm sau; lo lắng cho con gái; can ngăn chồng khi Leo kích động toan đền mạng; cùng Ferrici và chồng rối rít cảm ơn Augurey đã tha mạng cho con gái; chủ động gợi ý làm đồ ăn tươi ngon cho nhóm mạo hiểm giả mang theo khi rời làng (#240).
+- Thân phận: Nữ, dân Làng Looza, mẹ của Ferrici (#240).
+- Đặc điểm: Trông như Ferrici ba mươi năm sau; can chồng khi Leo toan đền mạng; gợi ý làm đồ ăn tặng nhóm (#240).
 - Xuất hiện từ: #240.
 
 ### Spriggan
-- Giới tính, vai trò: Nam, ông lão lớn tuổi mang vóc dáng nhỏ bé bình thường, thủ lĩnh nhóm sát thủ dị năng cùng Goblin (Yattul) và Siren (#244).
-- Đặc điểm: Là mạo hiểm giả / dị năng giả kỳ cựu lớn tuổi nhất nhóm; tính cách từng trải, điềm đạm, nhân hậu nhưng khi chiến đấu vô cùng quyết đoán và đáng sợ; sở hữu dị năng phóng to cơ thể thành người khổng lồ cao lớn (Cự Nhân) với sức mạnh thể chất áp đảo; từng cứu mạng Siren bằng thuốc khi cô bé còn nhỏ; xem Siren và Goblin như con cháu trong nhà; sau khi bị nhóm Rentt đánh bại và đàm đạo với Lorraine, ông cởi mở chia sẻ về nguồn gốc của những kẻ mang dị năng trong lịch sử và khuyên nhóm Rentt cẩn trọng trước các phe phái khác trong tổ chức ngầm (tính đến #254). Sang #255, lộ mật danh trong tổ chức ngầm là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ); hướng dẫn nhóm Rentt và cùng Rentt, Lorraine đến căn cứ ngầm để diện kiến thủ lĩnh. Sang #261, được Jean Seebeck tiết lộ tên thật là Gilli Flood, cựu đấu sĩ khét tiếng tại một thành phố phương nam với danh xưng "Gilli Quái Vật" (Gilli the Monster), được Jean chiêu mộ cùng lập ra tổ chức ngầm.
+- Thân phận: Nam, ông lão nhỏ bé, thủ lĩnh nhóm sát thủ cùng Goblin (Yattul) và Siren (#244). Mật danh "Spriggan" (loài tiên hóa khổng lồ) lộ ở #255; tên thật Gilli Flood, cựu đấu sĩ "Gilli Quái Vật" (Gilli the Monster), cùng Jean Seebeck lập tổ chức ngầm (#261).
+- Tính cách: Từng trải, điềm đạm, nhân hậu; chiến đấu cực quyết đoán, đáng sợ.
+- Năng lực: Hóa người khổng lồ (Cự Nhân), sức mạnh áp đảo.
+- Quan hệ: Cứu mạng Siren hồi nhỏ; xem Siren, Goblin như con cháu; Vaasa tôn sùng, Fuana bám dính.
+- Trạng thái (đến #261): Bị nhóm Rentt đánh bại, chia sẻ với Lorraine về nguồn gốc dị năng giả (#254); dẫn Rentt, Lorraine đến căn cứ ngầm gặp thủ lĩnh (#255).
+- Lưu ý: Cùng một người với mục "Gilli Flood".
 - Xuất hiện từ: #244 (lộ mật danh ở #255, lộ tên thật Gilli Flood ở #261).
 
 ### Vaasa
-- Giới tính, vai trò: Nam, thành viên tổ chức sát thủ / dị năng ngầm, được Spriggan đích thân chiêu mộ (#256).
-- Đặc điểm: Tính cách hiếu chiến, thẳng thắn, đơn giản đến mức ngốc nghếch; tôn sùng Spriggan hết mực và không tin ông có thể bại trận; tự xưng danh hiệu "Vaasa Cường Thiết"; sở hữu khả năng bẩm sinh kháng ma pháp cực cao (kể cả ma pháp trị liệu), là đối thủ kỵ giơ của ma pháp sư nhưng gặp bất lợi trước tấn công vật lý/khí thuật; vì tính cách quá bộc trực nên chỉ được giao việc vặt và quản lý đấu trường; sở hữu dị năng "Cường Thiết" cho phép tạo ra và thu hồi vũ khí kim loại tùy ý từ hư không trong giới hạn số lượng/thể tích (hồi nhỏ từng tạo được muối nhưng do ám thị nhận thức nên hiện chỉ tạo được kim loại); rèn luyện cả giáo thuật lẫn côn thuật để ứng phó khi gãy vũ khí; bị Rentt áp đảo bằng thể lực Undead và kiếm thuật phi nhân loại, dù bắn mũi giáo găm vào bụng Rentt nhưng bị Rentt dùng bản kiếm đập vào đầu ngất xỉu (tính đến #259).
+- Thân phận: Nam, thành viên tổ chức ngầm dị năng, do Spriggan chiêu mộ (#256).
+- Tính cách: Hiếu chiến, bộc trực đến ngốc nghếch; tôn sùng Spriggan; tự xưng danh hiệu "Vaasa Cường Thiết"; chỉ được giao việc vặt, quản lý đấu trường.
+- Năng lực: Kháng ma pháp bẩm sinh cực cao (kể cả trị liệu), yếu trước vật lý/khí thuật; dị năng "Cường Thiết" tạo/thu hồi vũ khí kim loại từ hư không; giáo thuật, côn thuật.
+- Trạng thái (đến #259): Thua Rentt, bị đập ngất.
 - Xuất hiện từ: #256 (được nhắc tên), xuất hiện thực tế ở #257.
 
 ### Fuana
-- Giới tính, vai trò: Nữ, thành viên tổ chức sát thủ / dị năng ngầm (#256).
-- Đặc điểm: Vóc dáng nhỏ bé nhưng giọng nói rất to; rất gắn bó và bám dính Spriggan; tự tin và am hiểu sâu sắc về ma pháp, đặc biệt là ma pháp cổ đại, tự xưng danh hiệu "Fuana Thông Ma Pháp"; sở hữu lượng Ma Lực dồi dào gấp ba lần Rentt, tự hào ma pháp có thể phá sập tường thành; tính tình bướng bỉnh, hiếu thắng, dễ bị khích tướng; sở hữu dị năng nhìn thấu điểm yếu nhất trong cấu trúc ma pháp bằng trực giác và giải phóng Ma Lực phá tan ma pháp; thực chất là một ma pháp cách đấu sĩ sử dụng vũ khí là nắm đấm và phong cách cận chiến dũng mãnh như dã thú; trong trận đấu với Lorraine bị ma pháp đa tầng và Khiên Chắn hai lớp khóa tay giật sét khắc chế (tính đến #260).
+- Thân phận: Nữ, thành viên tổ chức ngầm dị năng (#256).
+- Tính cách: Nhỏ bé nhưng giọng rất to; bám dính Spriggan; bướng, hiếu thắng, dễ bị khích; tự xưng danh hiệu "Fuana Thông Ma Pháp".
+- Năng lực: Am hiểu ma pháp cổ đại; Ma Lực gấp ba Rentt; dị năng nhìn thấu điểm yếu cấu trúc ma pháp để phá; thực chất là ma pháp cách đấu sĩ dùng nắm đấm.
+- Trạng thái (đến #260): Thua Lorraine.
 - Xuất hiện từ: #256 (được nhắc tên), xuất hiện thực tế ở #257.
 
 ### Gilli Flood
 - Giới tính, vai trò: Nam, tên thật của Spriggan, cựu đấu sĩ khét tiếng phương nam (#261).
-- Đặc điểm: Là đấu sĩ nổi tiếng tại một thành phố phương nam chuyên về giác đấu với danh xưng "Gilli Quái Vật" (Gilli the Monster); được Jean Seebeck chiêu mộ để cùng thành lập tổ chức sát thủ dị năng ngầm (#261). Xem mục "Spriggan".
+- Đặc điểm: Danh xưng "Gilli Quái Vật" (Gilli the Monster); được Jean Seebeck chiêu mộ cùng lập tổ chức ngầm (#261). Xem mục "Spriggan".
 - Xuất hiện từ: #261 (được Jean Seebeck tiết lộ danh tính thật).
 
 ### Hamishy Favor
-- Giới tính, vai trò: Nam, nhà nghiên cứu mê cung đứng đầu Tòa Tháp tại Vương Quốc Yaaran (#263).
-- Đặc điểm: Được Jean Seebeck miêu tả là có vẻ ngoài ốm yếu, đúng chuẩn hình mẫu một nhà nghiên cứu kinh điển, nhưng vô cùng xuất chúng và tài năng đến mức người đối diện có thể cảm nhận được; là người dẫn dắt nghiên cứu đột phá tạo ra mê cung nhân tạo quy mô nhỏ dạng tổ kiến và đưa ra phân tích về sự bất ổn định của mê cung mới thành lập (#263).
+- Thân phận: Nam, nhà nghiên cứu mê cung đứng đầu Tòa Tháp tại Yaaran (#263).
+- Đặc điểm: Trông ốm yếu nhưng cực xuất chúng; tạo mê cung nhân tạo nhỏ dạng tổ kiến (#263).
 - Xuất hiện từ: #263 (được Jean Seebeck nhắc tên).
 
 ### Mel
-- Giới tính, vai trò: Nữ, nữ tu (Sister Mel) tại cô nhi viện cũ ở vương đô nơi Elza và Lillian từng lớn lên (#265). Tên đầy đủ: Mel Patiche (#266).
-- Đặc điểm: Phong thái dịu dàng, điềm đạm, đoan trang thuần khiết; là người phụ trách Cô Nhi Viện Thứ Ba Vistelya, lớn lên cùng Lillian và Elza tại đây (#265, #266). Thích ăn đồ ngọt và hay lén ăn một mình rồi lo bị tăng cân (#266).
-- Trạng thái tính đến chương 266: Được Pochi truyền Thần Lực để có thể nghe hiểu tiếng nói qua thần giao cách cảm của nó; lập tức tra khảo Pochi vì dám mách lẻo chuyện cô lén ăn đồ ngọt.
-- Diễn biến & Tiềm năng (tính đến #272): Vốn là người mà Pochi định ban phước Thần Lực ngay từ đầu; sở hữu tiềm năng Thần Lực cực kỳ to lớn (ngang tầm bao phủ cả một tỉnh theo phỏng đoán của Elza) nhưng cần trải qua rèn luyện để kiểm soát (#272).
+- Thân phận: Nữ, nữ tu (Sister Mel), tên đầy đủ Mel Patiche; phụ trách Cô Nhi Viện Thứ Ba Vistelya, lớn lên ở đó cùng Lillian và Elza (#265, #266).
+- Tính cách: Dịu dàng, đoan trang; thích đồ ngọt, hay lén ăn rồi lo tăng cân; tra khảo Pochi vì mách chuyện này (#266).
+- Năng lực: Được Pochi truyền Thần Lực, nghe được Pochi (#266); tiềm năng Thần Lực cực lớn (ngang bao phủ cả tỉnh), cần rèn luyện (#272).
+- Trạng thái (đến #272): Đối tượng Elza nhờ Rentt bảo vệ.
 - Xuất hiện từ: #265.
 
 ### Pochi
-- Giới tính, vai trò: Đực, chú chó khổng lồ lông trắng sống tại cô nhi viện ở vương đô (#265).
-- Đặc điểm: Thân hình to lớn vượt trội hơn cả Rentt và Lorraine, ngang ngửa với Hội Trưởng Wolf Hermann của Maalt; bộ lông trắng dài; tính cách thân thiện, thuần khiết, hiền lành và rất đáng yêu; đã sống tại cô nhi viện hơn 20 năm (lâu hơn bình thường đối với loài chó), nhiều khả năng là một phân loài quái vật; có khả năng phát ra âm thanh/thần giao cách cảm nói tiếng người [Xin chào!] (#265).
-- Trạng thái tính đến chương 266: Thực chất là Thần Thú / Thánh Thú (divine beast / sacred beast) mang đặc tính tương đồng thần tinh linh; có khả năng truyền Thần Lực (đã truyền sang cho Mel); chỉ những ai từng nhận được sự ban phước của Thần Lực mới nghe thấy nó nói qua thần giao cách cảm.
+- Thân phận: Đực, chó khổng lồ lông trắng ở cô nhi viện vương đô hơn 20 năm (#265); thực chất là Thần Thú / Thánh Thú (divine beast / sacred beast), tương đồng thần tinh linh (#266).
+- Tính cách: Thân thiện, hiền lành, đáng yêu; to ngang Wolf Hermann.
+- Năng lực: Nói qua thần giao cách cảm [Xin chào!] — chỉ người được ban phước Thần Lực nghe thấy; truyền Thần Lực (cho Elza, Lillian, Mel) (#266, #272).
 - Xuất hiện từ: #265.
 
 ### Hilde
 - Giới tính, vai trò: Nữ, thân chủ trẻ tuổi tại thị trấn Maalt trong ngoại truyện (#267).
-- Đặc điểm: Trông trẻ tuổi, tính cách vui vẻ, chu đáo; hàng năm thuê mạo hiểm giả hộ tống tới Mũi Rook vào đêm trăng để ngắm cặp Rồng Băng kết đôi theo truyền thống gia đình truyền lại từ thời cụ cố; không hề có ý định tự sát như Rentt và Lorraine ban đầu phỏng đoán (#267). (Phân biệt với Hilde là tên gọi thân mật của nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis, #131).
+- Đặc điểm: Vui vẻ, chu đáo; hàng năm thuê mạo hiểm giả hộ tống tới Mũi Rook ngắm cặp Rồng Băng kết đôi theo truyền thống gia đình; không hề có ý định tự sát như Rentt và Lorraine phỏng đoán (#267). (Phân biệt với Hilde là tên gọi thân mật của nữ mạo hiểm giả Kim Cấp tộc Elf Alhildis, #131).
 - Xuất hiện từ: #267.
 
 ### Vitez Normorte
-- Giới tính, vai trò: Nam, cậu bé thân chủ trong ngoại truyện (#268). Tên thường gọi: Vitez.
-- Đặc điểm: Dáng người nhỏ nhắn; tính tình ban đầu hơi kênh kiệu, bướng bỉnh và thích ra vẻ người lớn ("a bit cheeky"); thực chất sợ hãi và tự ti vì dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động cảm xúc; sau khi được Rentt và Augurey bảo vệ, động viên và khuyên nhủ học cách khống chế năng lực, cậu bé trút bỏ được gánh nặng tâm lý và cởi mở, biết ơn hai người (#268).
+- Thân phận: Nam, cậu bé thân chủ trong ngoại truyện (#268). Tên thường gọi: Vitez.
+- Tính cách: Kênh kiệu, thích ra vẻ người lớn ("a bit cheeky"); thực chất tự ti vì dị năng gọi giông bão sấm sét khi kích động; được Rentt và Augurey khuyên nhủ nên cởi mở, biết ơn (#268).
 - Xuất hiện từ: #268.
 
 ### Baroness Graham
-- Giới tính, vai trò: Nữ, nữ quý tộc quen biết Lorraine tại Maalt trong ngoại truyện (#269).
-- Đặc điểm: Tính cách đàng hoàng, tốt bụng ("a lovely woman"); thường mua các sản phẩm ma thuật do Lorraine điều chế; có một người con trai thông minh, hiểu chuyện; hai mẹ con nhận nuôi chú Sói Đen con do Rentt mang về (#269).
+- Giới tính, vai trò: Nữ, nữ quý tộc quen Lorraine tại Maalt trong ngoại truyện (#269).
+- Đặc điểm: Tốt bụng ("a lovely woman"); khách mua ma cụ của Lorraine; hai mẹ con nhận nuôi Sói Đen con do Rentt mang về (#269).
 - Xuất hiện từ: #269 (được Lorraine nhắc tên).
 
 ### Arc Tahadu
-- Giới tính, vai trò: Nam, Vua Ma Cà Rồng (Vampire King), kẻ thù của Laura Latuule (#273).
-- Đặc điểm: Được người đánh xe của Laura nhắc tên ở #273 khi giải thích rằng gã Ma Cà Rồng cực mạnh (mặc âu phục quý ông cầm gậy chống, sở hữu ma thuật Dehisé và hóa thân thành miệng khổng lồ) tập kích Rentt trong đêm tại vương đô Vistelya là một người cháu (quyến thuộc đời thứ hai / 'grandchild') của hắn; Arc Tahadu sở hữu sức mạnh tối thượng ngang hàng Tứ Đại Ma Vương (#273, #274).
+- Thân phận: Nam, Vua Ma Cà Rồng (Vampire King), kẻ thù của Laura Latuule; mạnh ngang Tứ Đại Ma Vương (#273, #274).
+- Quan hệ: Gã Ma Cà Rồng (âu phục, gậy chống, ma thuật Dehisé, hóa miệng khổng lồ) tập kích Rentt ở Vistelya là "cháu" (quyến thuộc đời thứ hai / 'grandchild') của hắn (#273).
 - Xuất hiện từ: #273 (được người đánh xe của Laura nhắc tên).
 
 ### Dorothea Merrow
-- Giới tính, vai trò: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276).
-- Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn. Gặp mặt Rina tại quán trọ ở Maalt (#277); ban đầu lo lắng vì Rina trẻ tuổi, mảnh khảnh và chỉ là Thiết Cấp, nhưng đồng cảm trước sự tự ti của Rina và nhìn thấy hình bóng của chính mình; bị thuyết phục bởi thông tin thực tế của Rina về việc Harpy làm tổ ở Núi Tute và sập cầu ở Đại Lộ Farga; đánh giá cao sự trung thực không vụ lợi đòi tăng thù lao cùng khí chất mạo hiểm giả tự tin không sợ chết của Rina, chính thức thuê cô làm hộ vệ cho chuyến đi buôn bán.
-- Trạng thái tính đến chương 280: Khởi hành cùng Rina được một ngày, cùng Rina thu hoạch nhiều loại thảo dược quý ven đường; chứng kiến Rina quét sạch băng cướp và bắt sống Guster; biết được bản thân bị một kẻ bí ẩn nhắm tới nhằm ép bỏ nghề buôn bán; loại trừ khả năng cha mình là thủ phạm và kiên quyết tiếp tục hành trình buôn bán bất chấp nguy hiểm vì lòng tự tôn nghề nghiệp (#280).
-- Trạng thái tính đến chương 281: Lái xe cùng Rina đến thị trấn tiền đồn và bàn giao Guster cho trạm lính gác; nhờ lính gác điều tra truy tìm kẻ chủ mưu đứng sau vụ việc (#281).
-- Trạng thái tính đến chương 282: Đến buôn bán tại một ngôi làng miền núi; mua thảo dược zima và hoa poltorin từ lũ trẻ để gieo mầm thương mại; khéo léo phát hiện và xử lý kín đáo gian lận cân thóc cùng rượu của trưởng làng; được tiết lộ là thiên kim tiểu thư của Thương hội Merrow tại thành phố Mystera trốn nhà đi làm thương nhân lữ hành (#282).
+- Thân phận: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276); thực chất là thiên kim tiểu thư Thương hội Merrow ở thành phố Mystera, trốn nhà làm thương nhân lữ hành (lộ ở #282), tự lập tách khỏi cha từ hai năm trước.
+- Tính cách: Chăm chỉ, tham vọng tích vốn mở cửa hàng riêng; thận trọng, cảnh giác nhưng ý chí mạnh, tự tôn nghề nghiệp cao; buôn bán khéo, tinh ý (xử lý kín đáo gian lận của trưởng làng, #282). Từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ, ép tăng thù lao (thị trấn Zahak, #276).
+- Quan hệ: Gặp Rina ở Maalt (#277), ban đầu lo vì Rina trẻ, chỉ Thiết Cấp, nhưng đồng cảm sự tự ti của Rina, phục thông tin thực tế và sự trung thực của cô nên thuê. Từng được cha hứa hôn với Dieg Esol (#282).
+- Trạng thái (đến #283): Biết mình bị kẻ bí ẩn thuê cướp ép bỏ nghề, loại trừ cha, vẫn đi tiếp (#280); giao Guster cho trạm lính gác (#281); buôn bán ở các làng miền núi (#282); đang vào rừng cùng Zein và lũ trẻ hái cỏ afto, bị Dieg và Guster nhắm tới khi Rina bị Amapola dụ đi (#283).
 - Xuất hiện từ: #276.
 
 ### Guster
-- Giới tính, vai trò: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga (#279).
-- Đặc điểm: Từng là dân làng nghèo túng bước vào con đường cướp bóc vì mưu sinh, nhóm gồm kiếm sĩ (Guster), cung thủ và ma pháp sư; tính cách thận trọng, đề cao quản lý rủi ro để sống sót; nhận số tiền lớn từ một người đàn ông bí ẩn để đe dọa, cản trở Dorothea kinh doanh nhằm ép cô bỏ nghề (#279).
-- Trạng thái tính đến chương 280: Cùng đồng bọn phục kích Dorothea và Rina nhưng toàn bộ băng cướp bị Rina tiêu diệt trong chớp mắt; bản thân bị Rina đánh ngất bắt sống và khai hết sự thật về việc được thuê cản trở Dorothea; bị trói gô ném lên cỗ xe để giao cho lính gác thị trấn tiếp theo (#280).
-- Trạng thái tính đến chương 281: Bị Rina thao túng tâm trí nên ngoan ngoãn theo xe đến thị trấn tiền đồn và bị tống vào ngục tối trạm lính gác; khi tỉnh lại thì được người đàn ông bí ẩn cùng một ma pháp sư đột nhập đánh ngất lính gác giải cứu; nhận lời thực hiện một phi vụ tấn công Dorothea cuối cùng vào ban ngày vì tưởng Rina chỉ dựa vào ma cụ nhìn đêm (#281).
-- Trạng thái tính đến chương 282: Được giải thoát và cùng Dieg Esol, Amapola bám theo dấu vết cỗ xe của Dorothea (#282).
+- Thân phận: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp quanh Làng Muga (kiếm sĩ, cung thủ, ma pháp sư); vốn dân làng nghèo (#279).
+- Tính cách: Thận trọng, đề cao quản lý rủi ro.
+- Vai trò: Nhận tiền của người đàn ông bí ẩn để cản trở, ép Dorothea bỏ nghề (#279).
+- Trạng thái (đến #283): Băng bị Rina diệt, bản thân bị bắt sống, khai hết (#280); bị Rina thao túng tâm trí, giao vào ngục trạm lính gác; được Dieg Esol và Amapola giải cứu, nhận phi vụ tấn công Dorothea ban ngày vì tưởng Rina chỉ dựa ma cụ nhìn đêm (#281); bám theo xe Dorothea (#282), chờ ra tay khi Rina bị dụ đi (#283).
 - Xuất hiện từ: #279.
 
 ### Dieg Esol
-- Giới tính, vai trò: Nam, nhị thiếu gia gia tộc Esol tại thành phố Mystera (#282).
-- Đặc điểm: Nhị thiếu gia của Thương hội Esol lâu đời tại thành phố Mystera; có tài năng kinh doanh nhất định nhưng luôn bị cái bóng quá lớn của người anh trai tài giỏi gấp trăm lần che khuất; từng nung nấu ý định mưu hại anh trai để đoạt quyền thừa kế cho đến khi được cha sắp xếp hôn sự với con gái chủ Thương hội Merrow (Dorothea) (#282).
-- Trạng thái tính đến chương 282: Sau khi Dorothea trốn nhà đi làm thương nhân lữ hành, anh ta khâm phục quyết tâm của cô và từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi nên quyền thừa kế ngã ngũ; hiện tại bị ma pháp sư Amapola đi bên cạnh thao túng tâm trí làm đầu óc mụ mẫm, mất dần ký ức và dẫn theo Guster truy lùng Dorothea nhằm ép cô bỏ nghề (#282).
+- Thân phận: Nam, nhị thiếu gia Thương hội Esol lâu đời tại thành phố Mystera (#282).
+- Tính cách: Có tài kinh doanh nhưng bị cái bóng anh trai tài giỏi gấp trăm lần che khuất; từng định mưu hại anh để đoạt quyền thừa kế, đến khi được cha hứa hôn với Dorothea (#282).
+- Quan hệ: Khâm phục quyết tâm của Dorothea nên từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi (#282).
+- Trạng thái (đến #283): Bị Amapola thao túng tâm trí, mụ mẫm, đau đầu, mất dần ký ức; cùng Amapola cứu Guster và truy lùng Dorothea để ép cô bỏ nghề (#281–282); chờ ra tay khi Rina bị dụ đi (#283).
 - Xuất hiện từ: #282.
 
 ### Amapola
-- Giới tính, vai trò: Nữ, ma pháp sư lữ hành đi cùng Dieg Esol (#282).
-- Đặc điểm: Nữ ma pháp sư lữ hành bí ẩn tự xưng là cánh tay phải của Dieg Esol; cùng Dieg giải cứu Guster khỏi nhà lao và ép gã tiếp tục phi vụ tấn công Dorothea (#281, #282).
-- Trạng thái tính đến chương 282: Đang đồng hành cùng Dieg Esol và Guster bám theo dấu vết của Dorothea; dùng ma pháp chi phối tâm trí Dieg khiến anh ta rơi vào trạng thái mâu thuẫn, đau đầu dữ dội và mất đi ký ức rõ ràng về việc hợp tác giữa hai người (#282).
-- Trạng thái tính đến chương 283: Đơn độc xuất hiện trong rừng trước mặt Rina trong bộ áo chùng ma pháp sư; thừa nhận cố tình phóng sát khí để dụ Rina ra nhằm tạo cơ hội cho Dieg và Guster ra tay với Dorothea, đồng thời tiết lộ mưu đồ ép Dorothea về cưới Dieg rồi dàn xếp tai nạn hại cha cô để đoạt quyền kiểm soát Thương hội Merrow (#283).
+- Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, áo chùng ma pháp sư, tự xưng cánh tay phải của Dieg Esol (#282).
+- Vai trò: Kẻ giật dây — dùng ma pháp chi phối tâm trí Dieg (mâu thuẫn, đau đầu, mất ký ức về việc hợp tác); cùng Dieg cứu Guster, ép gã tiếp tục tấn công Dorothea (#281, #282).
+- Trạng thái (đến #283): Một mình đối mặt Rina trong rừng; thừa nhận cố tình phóng sát khí dụ Rina ra để Dieg, Guster ra tay với Dorothea; tiết lộ mưu đồ ép Dorothea cưới Dieg rồi dàn xếp tai nạn hại cha cô để đoạt Thương hội Merrow (#283).
 - Xuất hiện từ: #282.
 
 ### Zein
-- Giới tính, vai trò: Nam, thợ săn tại ngôi làng miền núi thứ ba (#283).
-- Đặc điểm: Thợ săn địa phương am hiểu địa hình rừng núi; hồi trẻ từng sống ở một ngôi làng phía tây gần vương đô và tiếp xúc nhiều với mạo hiểm giả từ vương đô; đánh giá cao kiến thức sinh tồn, đi rừng và thu hái của Rina, nhận xét cô là một trong những mạo hiểm giả giỏi nhất mình từng thấy (#283).
-- Trạng thái tính đến chương 283: Đi cùng Dorothea và Rina vào rừng để bảo vệ lũ trẻ hái cỏ afto; nhận lời Rina ở lại canh gác cho Dorothea và lũ trẻ khi cô phát hiện có quái vật tiếp cận (#283).
+- Thân phận: Nam, thợ săn ở ngôi làng miền núi thứ ba, am hiểu rừng núi (#283).
+- Đặc điểm: Hồi trẻ sống gần vương đô, quen nhiều mạo hiểm giả; khen Rina là một trong những mạo hiểm giả giỏi nhất từng thấy (#283).
+- Trạng thái (đến #283): Đi cùng Dorothea, Rina bảo vệ lũ trẻ hái cỏ afto; ở lại canh gác Dorothea và lũ trẻ khi Rina đi đối phó quái vật (#283).
 - Xuất hiện từ: #283.
-
-
-
-
