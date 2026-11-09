@@ -1665,6 +1665,13 @@ Rina kéo Guster về xe và đưa ra bãi đất trống tra hỏi; gã thủ l
 Cả hai thảo luận loại trừ khả năng người cha đứng sau vụ việc; trước hai lựa chọn tạm bỏ nghề hay đối mặt hiểm nguy, Dorothea kiên quyết tiếp tục hành trình vì lòng tự tôn nghề nghiệp và trách nhiệm phục vụ dân làng.
 Cảnh kết thúc: Rina thản nhiên cam đoan sẽ bảo vệ Dorothea, trói gô Guster ném lên xe rồi cả hai tiếp tục hành trình trong niềm biết ơn sâu sắc của nữ thương nhân.
 
+## 281
+Rina cảm kích trước lòng tốt của Dorothea và vận dụng năng lực thể chất quái vật cùng kỹ năng chiến đấu, thuật chi phối tâm trí (học từ Isaac trong các buổi khổ luyện đêm ở dinh thự Latuule) lên tên cướp Guster để gã ngoan ngoãn nghe lời.
+Cả hai đến thị trấn tiền đồn và bàn giao Guster cho trạm lính gác; vì vụ việc liên quan đến kẻ chủ mưu thuê cướp nên bản án tử hình/khổ sai của Guster tạm thời được hoãn để điều tra.
+Tỉnh lại trong ngục tối dưới tầng hầm trạm gác, Guster xin bánh mì cùng nước uống từ người lính gác và nhận ra đồng bọn trong rừng hẳn đã làm mồi cho quái vật.
+Người đàn ông giàu có bí ẩn thuê Guster cùng một ma pháp sư bất ngờ đột nhập, đánh ngất toàn bộ lính gác và mở khóa giải cứu Guster, hứa thưởng thêm tiền và giúp gã đào tẩu với điều kiện thực hiện một phi vụ tấn công cuối cùng vào ban ngày (do lầm tưởng Rina chỉ nhờ ma cụ nhìn đêm).
+Cảnh kết thúc: Guster đồng ý và cùng người đàn ông cùng ma pháp sư dấn bước vào màn đêm rời khỏi thị trấn tiền đồn.
+
 
 
 

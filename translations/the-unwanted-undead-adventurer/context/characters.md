@@ -167,6 +167,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 277: Đến quán trọ gặp nữ thân chủ thương nhân Dorothea Merrow để bàn chi tiết chuyến đi hộ vệ; khuyên đổi lộ trình tránh Núi Tute (do Harpy đến làm tổ sớm) và tránh Đại Lộ Farga (do sập cầu) sang Đại Lộ Radha nhờ nắm bắt tin tức từ người dân các làng quê hay đến chợ Maalt; thể hiện sự trung thực và tự tin bản thân không chết trước bầy quái vật hàng trăm con, chính thức được Dorothea tin tưởng nhận thuê.
 - Trạng thái tính đến chương 279: Hộ vệ cho Dorothea rời Maalt được một ngày; dùng kiến thức thảo dược học từ Rentt để nhận diện và thu hoạch cỏ arcante cùng thảo dược giọt sương ven đường; thể hiện sự nhanh nhạy và phản xạ vượt trội khi chém rơi mũi tên bắn lén, phóng dao hạ cung thủ và một mình lao vào rừng săn lùng nhóm cướp của Guster.
 - Trạng thái tính đến chương 280: Lần lượt hạ gục toán cướp trong rừng trong chớp mắt, bắt sống thủ lĩnh Guster và tra hỏi ra việc gã được thuê để quấy phá Dorothea; cùng Dorothea phân tích loại trừ khả năng người cha đứng sau; khẳng định sẽ tiếp tục bảo vệ an toàn cho Dorothea khi nữ thương nhân kiên quyết không bỏ nghề.
+- Trạng thái tính đến chương 281: Vận dụng năng lực thể chất quái vật cùng kỹ năng chiến đấu và thuật thao túng tâm trí học từ Isaac trong các buổi khổ luyện nửa đêm tại dinh thự Latuule lên Guster; cùng Dorothea áp giải Guster bàn giao cho lính gác ở thị trấn tiền đồn.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -887,12 +888,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276).
 - Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn. Gặp mặt Rina tại quán trọ ở Maalt (#277); ban đầu lo lắng vì Rina trẻ tuổi, mảnh khảnh và chỉ là Thiết Cấp, nhưng đồng cảm trước sự tự ti của Rina và nhìn thấy hình bóng của chính mình; bị thuyết phục bởi thông tin thực tế của Rina về việc Harpy làm tổ ở Núi Tute và sập cầu ở Đại Lộ Farga; đánh giá cao sự trung thực không vụ lợi đòi tăng thù lao cùng khí chất mạo hiểm giả tự tin không sợ chết của Rina, chính thức thuê cô làm hộ vệ cho chuyến đi buôn bán.
 - Trạng thái tính đến chương 280: Khởi hành cùng Rina được một ngày, cùng Rina thu hoạch nhiều loại thảo dược quý ven đường; chứng kiến Rina quét sạch băng cướp và bắt sống Guster; biết được bản thân bị một kẻ bí ẩn nhắm tới nhằm ép bỏ nghề buôn bán; loại trừ khả năng cha mình là thủ phạm và kiên quyết tiếp tục hành trình buôn bán bất chấp nguy hiểm vì lòng tự tôn nghề nghiệp (#280).
+- Trạng thái tính đến chương 281: Lái xe cùng Rina đến thị trấn tiền đồn và bàn giao Guster cho trạm lính gác; nhờ lính gác điều tra truy tìm kẻ chủ mưu đứng sau vụ việc (#281).
 - Xuất hiện từ: #276.
 
 ### Guster
 - Giới tính, vai trò: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga (#279).
 - Đặc điểm: Từng là dân làng nghèo túng bước vào con đường cướp bóc vì mưu sinh, nhóm gồm kiếm sĩ (Guster), cung thủ và ma pháp sư; tính cách thận trọng, đề cao quản lý rủi ro để sống sót; nhận số tiền lớn từ một người đàn ông bí ẩn để đe dọa, cản trở Dorothea kinh doanh nhằm ép cô bỏ nghề (#279).
 - Trạng thái tính đến chương 280: Cùng đồng bọn phục kích Dorothea và Rina nhưng toàn bộ băng cướp bị Rina tiêu diệt trong chớp mắt; bản thân bị Rina đánh ngất bắt sống và khai hết sự thật về việc được thuê cản trở Dorothea; bị trói gô ném lên cỗ xe để giao cho lính gác thị trấn tiếp theo (#280).
+- Trạng thái tính đến chương 281: Bị Rina thao túng tâm trí nên ngoan ngoãn theo xe đến thị trấn tiền đồn và bị tống vào ngục tối trạm lính gác; khi tỉnh lại thì được người đàn ông bí ẩn cùng một ma pháp sư đột nhập đánh ngất lính gác giải cứu; nhận lời thực hiện một phi vụ tấn công Dorothea cuối cùng vào ban ngày vì tưởng Rina chỉ dựa vào ma cụ nhìn đêm (#281).
 - Xuất hiện từ: #279.
 
 

@@ -285,7 +285,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | reviewed |  |
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | reviewed |  |
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | done |  |
-| 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | todo |  |
+| 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | done |  |
 | 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | todo |  |
 | 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | todo |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | todo |  |
@@ -941,3 +941,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#278] Dịch 'Mirror of Youth' và 'Specular Fiend' — tạm chọn 'Gương Tuổi Trẻ' (phương án khác: 'Gương Thanh Xuân') và 'Kính Ma' (phương án khác: 'Gương Ma', 'Kính Quỷ'); cảnh báo QA về 'Flood' là do thành ngữ 'a flood of information' trong raw, đã dịch thoát nghĩa thành 'dòng thác thông tin'. → Duyệt "Gương Tuổi Trẻ" (Mirror of Youth), "Kính Ma" (Specular Fiend) và bỏ qua cảnh báo false positive về "flood" ("a flood of information"). (orchestrator)
 - [#279] Dịch 'dewdrop herb(s)' — tạm chọn 'thảo dược giọt sương' (phương án khác: 'cỏ giọt sương'). → Duyệt "thảo dược giọt sương" (dewdrop herb). (orchestrator)
 - [#280] Xưng hô giữa Rina Rupaage và Guster — tạm chọn Rina xưng 'tôi', gọi 'anh / Guster', Guster xưng 'tôi', gọi 'cô' (phương án khác: Rina xưng 'ta', gọi 'ngươi' kiểu thẩm vấn; Guster xưng 'tôi', gọi 'tiểu thư'). Tạm dùng trong bản dịch: 'tôi - anh' và 'tôi - cô'. → Duyệt giữ Rina xưng "tôi" gọi "anh / Guster", Guster xưng "tôi" gọi "cô" (hợp tính cách lịch sự của Rina). (orchestrator)
+- [#281] Dịch 'outpost town' — tạm chọn 'thị trấn tiền đồn' (phương án khác: 'thị trấn tiền trạm'). → Duyệt "thị trấn tiền đồn" (outpost town). (orchestrator)
