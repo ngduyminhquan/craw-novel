@@ -171,6 +171,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Mazlak |  | Mazlak | Ông lão / thủy thủ già kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần, bạn lâu năm của Raul Malga và biết Diego từ nhỏ (#321, #324) | #321 |
 | Mariana |  | Mariana | Người mẹ quá cố của Diego Malga, vợ của Raul Malga | #324 |
 | Boss Rentt |  | Đại ca Rentt | Biệt danh Lukas dùng để gọi Rentt Faina (#320, #325) | #320 |
+| Meely |  | Meely | Nhân vật thương nhân trong truyện ngụ ngôn cổ 'Meely và bản giao kèo' | #327 |
 
 
 
@@ -1038,8 +1039,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #321.
 
 ### Mariana
-- Thân phận: Nữ, người mẹ quá cố của Diego Malga, vợ của Raul Malga (#324).
-- Xuất hiện từ: #324.
+- Thân phận: Nữ, người phụ nữ trẻ trung xinh đẹp trong ký ức quá khứ, người mẹ quá cố của Diego Malga, vợ của Raul Malga (#324, #327).
+- Đặc điểm & vai trò: Xuất hiện trong đoạn ký ức bí ẩn mà Rentt trải nghiệm khi bước lên tầng 1 của Mê Cung Các Con Gái Của Hải Thần; người thông thuộc mê cung, từng cứu sống Raul khi ông bị cạn dưỡng khí từ ống thở và rủ Raul làm trợ thủ thám hiểm cùng mình (#327).
+- Xuất hiện từ: #324 (qua lời kể của Mazlak), #327 (trong ký ức).
+
+### Meely
+- Thân phận: Nam, nhân vật thương nhân trong truyện ngụ ngôn cổ "Meely và bản giao kèo" (#327).
+- Đặc điểm: Từng tìm thấy một thiết bị có khả năng tạo ra khối tài sản khổng lồ nhưng vì kiêu ngạo và tham lam mà tự chuốc lấy diệt vong (#327).
+- Xuất hiện từ: #327 (qua lời nhắc của Mariana).
+
 
 
 

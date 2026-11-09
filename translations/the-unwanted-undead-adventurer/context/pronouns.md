@@ -130,6 +130,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Gahedd | Gahedd / anh chàng / cậu ta | 319 | Mạo hiểm giả Đồng Cấp cao gầy, bạn của Niedz |
 | Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |
 | Mazlak | Mazlak / người thủy thủ / người thủy thủ già / ông lão / ông ấy | 321 | Thủy thủ già kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan và nhóm Rentt |
+| Mariana | Mariana / cô gái trẻ / người phụ nữ trẻ / cô ấy | 327 | Người mẹ quá cố của Diego Malga xuất hiện trong ký ức |
 
 
 
@@ -659,6 +660,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mazlak | Niedz | tôi | cậu | 324 | Người lái thuyền lớn tuổi nói chuyện với mạo hiểm giả trẻ |
 | Gahedd | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
 | Lukas | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả trẻ nói chuyện với người lái thuyền lớn tuổi |
+| Mariana | Raul | tôi | anh | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
+| Raul | Mariana | tôi | cô | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
 
 
 

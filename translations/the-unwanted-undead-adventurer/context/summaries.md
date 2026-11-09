@@ -1046,3 +1046,10 @@ Rentt và Diego đến bến cảng hội quân cùng Mazlak, Capitan và bộ b
 Nhờ Nguyền Cụ đèn biển soi sáng trong làn nước tối thẫm, cả sáu người lặn xuống đáy biển an toàn và diện kiến Mê Cung Các Con Gái Của Hải Thần tựa một ngôi đền đá khổng lồ phủ đầy san hô và thực vật tựa như trên cạn, bên cạnh một con cá quái thú khổng lồ lờ đờ bơi lượn.
 Capitan dẫn cả nhóm luồn lách qua mê lộ san hô và cỏ cây để tránh kinh động con cá khổng lồ, trong khi Lukas tranh thủ hái vài đóa hoa lạ nở dưới đáy biển.
 Cảnh kết thúc: Cả sáu người tiếp cận lối vào nhỏ nép ở góc xa của ngôi đền đá và theo hiệu lệnh của Capitan tiến vào bên trong mê cung.
+
+## 327
+Tiến vào tầng 1 ngập nước của Mê Cung Các Con Gái Của Hải Thần, nhóm Rentt chạm trán một con quái vật cá to lớn; Capitan ra hiệu nhận trách nhiệm tác chiến, trong khi Rentt và Diego lập đội hình bảo bọc phía trước bộ ba Niedz.
+Capitan dùng dao săn tung cú chém tốc độ phi thường không hề chịu lực cản của nước, chém bay đầu con quái vật cá trong sự sững sờ kinh ngạc của cả nhóm; sau đó Capitan giục mọi người bơi nhanh về phía trước để rời khỏi nước trước khi mùi máu thu hút quái vật khác.
+Khi những người khác đã trèo lên khỏi mặt nước và Rentt chuẩn bị trèo lên tiếp theo, tầm nhìn của Rentt bỗng tối sầm và anh rơi vào một đoạn ký ức quá khứ bí ẩn trong ngôi đền nguyên vẹn chưa bị hư hại.
+Rentt trải nghiệm góc nhìn của một người đàn ông suýt chết đuối do ống thở hết khí, được một cô gái trẻ trung xinh đẹp cứu sống; cô gái nhắc tới câu chuyện ngụ ngôn về thương nhân Meely tham lam và đề nghị hai người lập tổ đội thám hiểm chung.
+Cảnh kết thúc: Cô gái tự giới thiệu tên là Mariana và người đàn ông xưng tên là Raul (chính là cha mẹ quá cố của Diego Malga); ngay khi Rentt vừa ngờ ngợ nhận ra hai cái tên quen thuộc, ký ức liền vỡ tan như thủy tinh và tầm nhìn vụt trắng xóa.

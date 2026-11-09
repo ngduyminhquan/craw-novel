@@ -331,7 +331,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | reviewed |  |
 | 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | reviewed |  |
 | 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | done |  |
-| 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | todo |  |
+| 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | done |  |
 | 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | todo |  |
 | 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | todo |  |
 | 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1015,3 +1016,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#325] Dịch tên vị thần 'Giza, the deity of bards / god of pleasure' — tạm giữ nguyên tên riêng phương Tây 'Giza' theo rules.md và dịch danh hiệu/bổn phận là 'vị thần của các thi nhân / thần lạc thú' (phương án khác: 'Thần Thi Nhân Giza'). Tạm dùng trong bản dịch: 'Giza, vị thần của các thi nhân / thần lạc thú'. → Chốt giữ nguyên tên riêng 'Giza', dịch danh xưng là 'vị thần của các thi nhân / thần lạc thú' (orchestrator)
 - [#325] Dịch 'cursed equipment' (trang bị cần thiết để lặn biển thám hiểm Mê Cung Các Con Gái Của Hải Thần) — tạm dịch là 'Nguyền Cụ' và bổ sung alias vào mục Cursed Artifacts trong glossary.md (phương án khác: 'trang bị nguyền'). Tạm dùng trong bản dịch: 'Nguyền Cụ'. → Chốt dùng 'Nguyền Cụ' (alias của Cursed Artifacts) (orchestrator)
 - [#326] Dịch thuật ngữ 'sea lamp' (Nguyền Cụ cầm tay phát sáng vô hạn dưới nước nhưng phát nổ nếu dùng trên cạn) — tạm chọn: 'đèn biển' (phương án khác: 'đèn đáy biển', 'hải đăng'). Tạm dùng trong bản dịch: 'đèn biển'. → Chốt dùng 'đèn biển' (orchestrator)
+- [#327] Xưng hô giữa Mariana và Raul khi lần đầu gặp gỡ trong ký ức mê cung: tạm chọn Mariana xưng 'tôi' - gọi 'anh', Raul xưng 'tôi' - gọi 'cô' (hai mạo hiểm giả trẻ tuổi lần đầu gặp nhau, hòa nhã và tự nhiên). → Chốt dùng Mariana xưng 'tôi' - gọi 'anh', Raul xưng 'tôi' - gọi 'cô' (orchestrator)
+- [#327] Dịch tên truyện ngụ ngôn 'story of Meely and his contract': tạm dịch 'câu chuyện về Meely và bản giao kèo của ông ta' (giữ nguyên tên riêng Meely theo rules.md). → Chốt dùng 'câu chuyện về Meely và bản giao kèo của ông ta' (orchestrator)
