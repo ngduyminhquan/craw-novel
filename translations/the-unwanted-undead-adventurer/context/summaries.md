@@ -1174,16 +1174,8 @@ Rentt dùng Ma Lực lướt tới chém văng Niedz bất tỉnh; hai tên còn
 Người đó tự giới thiệu là Diego Malga (chủ tiệm tạp hóa/bán đồ nguyền mà lính gác cổng từng nhắc tới) đi ngang thấy bất bình nên bám theo hỗ trợ; cả hai quyết định không giao ba tên cướp cho lính canh mà vác chúng về nhà Diego chờ tỉnh dậy để dạy bài học kiếm sống.
 Cảnh kết thúc: Tại căn nhà đá thắp sáng bằng cổ vật mê cung của người cha quá cố Raul, Diego pha trà nhập khẩu thượng hạng mời Rentt và tiết lộ mình từng tu nghiệp tại đền thờ Thần Giám Định nên có khả năng giám định nguyền phẩm.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 318
+Diego tiết lộ từng tu nghiệp tại đền thờ Thần Giám Định và bị trục xuất vì mải mê nghiên cứu Nguyền Cụ, nhưng quyết định trở về Lucaris tiếp quản tiệm tạp hóa của người cha quá cố Raul.
+Rentt chia sẻ kế hoạch bắt nhóm ba tên cướp của Niedz đi tìm kiếm hải linh thảo tại Mê Cung Các Con Gái Của Hải Thần và nhờ Diego tư vấn cách thám hiểm dưới nước.
+Diego giới thiệu và bán hữu nghị cho Rentt bốn chiếc ống thủy tinh Nguyền Cụ hỗ trợ hít thở dưới nước (với tác dụng phụ làm ngạt thở nếu đeo trên cạn) với giá gốc năm đồng vàng một chiếc.
+Cảnh kết thúc: Diego tiết lộ Mê Cung Các Con Gái Của Hải Thần có tỷ lệ rơi Nguyền Cụ rất cao và nhờ Rentt thu thập giúp các món Nguyền Cụ tìm được, Rentt vui vẻ nhận lời giao dịch đôi bên cùng có lợi.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T12:35:50Z",
+  "generatedAt": "2026-11-09T12:42:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4065,6 +4065,12 @@
           "title": "Chương 317: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_317.md",
           "sha": "78a1bfa889e032ecbaacad3aa16a7bc3370b80f0"
+        },
+        {
+          "number": 318,
+          "title": "Chương 318: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (4)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_318.md",
+          "sha": "1937a796fb5063297e97e4f75985d719d206425c"
         }
       ]
     },

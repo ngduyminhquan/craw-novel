@@ -995,10 +995,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #315 (qua lời nhắc của lính gác), #317.
 
 ### Diego Malga
-- Thân phận: Nam, thú nhân mèo (feline beastfolk), lông đen tuyền bóng mượt, mắt mèo phát sáng trong bóng tối; mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền tại Lucaris (#317).
-- Tính cách: Tháo vát, tốt bụng, chu đáo, hiếu khách; thừa nhận làm mạo hiểm giả là nghề chính còn mở tiệm tạp hóa chỉ là sở thích (#317).
-- Năng lực: Từng tu nghiệp tại đền thờ Thần Giám Định nên có khả năng giám định nguyền phẩm ở mức độ nhất định; thân thủ nhanh nhẹn (#317).
-- Quan hệ: Con trai của Raul Malga; hỗ trợ Rentt hạ gục hai tên cướp và mời Rentt về nhà uống trà nhập khẩu (#317).
+- Thân phận: Nam, thú nhân mèo (feline beastfolk), lông đen tuyền bóng mượt, mắt mèo phát sáng trong bóng tối; mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền tại Lucaris (#317); gắn bó sâu sắc với Lucaris vì đây là nơi cha anh từng sống trọn đời (#318).
+- Tính cách: Tháo vát, tốt bụng, chu đáo, hiếu khách; thừa nhận làm mạo hiểm giả là nghề chính còn mở tiệm tạp hóa chỉ là sở thích (#317); hào phóng bán giá gốc đồ nguyền nhưng cũng khéo léo nhờ khách hàng tìm giúp cổ vật (#318).
+- Năng lực: Từng tu nghiệp tại đền thờ Thần Giám Định và nắm vững ngón nghề giám định nguyền phẩm, sau đó bị trục xuất vì mải mê nghiên cứu Nguyền Cụ; thân thủ nhanh nhẹn (#317, #318).
+- Quan hệ: Con trai của Raul Malga; hỗ trợ Rentt hạ gục hai tên cướp và mời Rentt về nhà uống trà nhập khẩu (#317); bán giá gốc bốn chiếc ống thủy tinh Nguyền Cụ giúp lặn biển và nhờ Rentt thu thập Nguyền Cụ từ Mê Cung Các Con Gái Của Hải Thần mang về bán cho mình (#318).
 - Xuất hiện từ: #317.
 
 ### Raul
