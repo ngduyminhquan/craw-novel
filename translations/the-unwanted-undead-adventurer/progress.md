@@ -291,7 +291,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | reviewed |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | reviewed |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | reviewed |  |
-| 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | todo |  |
+| 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | done |  |
 | 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | todo |  |
 | 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | todo |  |
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -954,3 +955,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#286] Dịch danh xưng 'Director Rudo' của cha Dorothea khi Dieg thưa chuyện — tạm chọn 'Chủ Thương Hội Rudo' (phương án khác: 'Hội Trưởng Rudo', 'Chủ tịch Rudo'). Tạm dùng trong bản dịch: 'Chủ Thương Hội Rudo'. → Giữ 'Chủ Thương Hội Rudo' như đã dịch và cập nhật trong characters.md. (orchestrator)
 - [#286] Xưng hô giữa hai người cha (Rudo Merrow và Jude Esol) — tạm chọn 'tôi - ông / Rudo / Jude' theo văn phong hai chủ thương hội lâu năm, tôn trọng và thân tình (phương án khác: 'tôi - anh'). Tạm dùng trong bản dịch: 'tôi - ông / Rudo / Jude'. → Giữ 'tôi - ông / Rudo / Jude' như đã cập nhật trong pronouns.md. (orchestrator)
 - [#286] Cảnh báo QA check 'Laura Satii' ở chương 286 — raw dùng 'Lola' trong thoại thân mật của Rina ('Raiz and Lola'), bản dịch dùng 'Raiz và Laura' theo lưu ý tại characters.md và văn phong đời thường. Tạm dùng trong bản dịch: giữ 'Raiz và Laura', bỏ qua cảnh báo false positive. → Giữ 'Raiz và Laura' theo quy ước characters.md, cảnh báo QA là false positive. (orchestrator)
+- [#287] Dịch tên hai loại thảo dược 'earthen wildparsley' và 'wildparsley bloom(s)' — tạm chọn 'cần dại đất' (loại ăn được, món mỹ vị thượng hạng) và 'hoa cần dại' (loại có hoa gây tê liệt khi ăn, chiết dịch bôi lên kiếm) (phương án khác: 'thổ cần dại' và 'hoa độc cần' / 'cần dại trổ hoa'). → Giữ 'cần dại đất' và 'hoa cần dại' như đã dịch và cập nhật trong glossary.md. (orchestrator)
+- [#287] Tiêu đề chương 'Maalt, Sweet Maalt, and a Visit to the Blacksmith' (nhại cách nói Home, Sweet Home) — tạm dịch 'Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn (1)' (phương án khác: 'Maalt, Maalt Thân Yêu, và Chuyến Thăm Thợ Rèn (1)'). → Giữ 'Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn' như đã dịch. (orchestrator)

@@ -978,3 +978,10 @@ Rina hoàn thành ủy thác hộ vệ và tới dinh thự Latuule báo cáo; I
 Amapola giải thích việc nhắm vào Dieg vì mặc cảm tự ti của anh trước người anh trai dễ bị thuật mị hoặc thao túng hơn tâm hồn lạc quan của Dorothea, đồng thời thừa nhận một phần muốn cổ vũ Dieg vì anh từng cho cô ta ăn và nương náu.
 Cảnh kết thúc: Amapola nói chưa gặp nữ chủ nhân vì cô bé còn đang ngủ, Isaac thản nhiên nhận định chỉ Laura mới biết mình sẽ thức dậy vào ngày mai hay một trăm năm nữa, khiến Rina cảm thán về đặc tính của loài Ma Cà Rồng.
 
+## 287
+Rentt, Lorraine cùng Tổng Hội Trưởng Jean Seebeck ngồi xe trở về Maalt sau chuyến đi vương đô; Lorraine và Rentt bồi hồi nhớ quê hương thứ hai và bàn luận về tình hình thị trấn khi nhân lực của Tòa Tháp và Học Viện đổ xô về nghiên cứu mê cung mới bên dưới lòng đất.
+Jean tò mò muốn vào thám hiểm mê cung mới và nghe Rentt cùng Lorraine kể lại ấn tượng lúc nơi đó mới hình thành tựa như bên trong nội tạng sinh vật sống.
+Rời xe đi bộ tới Hội, Rentt trò chuyện cùng Jean về quyết định bổ nhiệm Wolf làm Hội Trưởng Maalt hơn chục năm trước và công cuộc cải cách xóa bỏ định kiến để hỗ trợ tân binh; Rentt kể chuyện cho tân binh Maalt tự nếm độc hoa cần dại (gây tê liệt, khác với cần dại đất ăn được) để thấu hiểu sự nguy hiểm và biết cách chiết dịch bôi lên kiếm khiến Jean thán phục độ "đáng sợ" của anh.
+Cảnh kết thúc: Cả ba tới trước cửa Hội Mạo Hiểm Giả Maalt và cùng bước vào trong để Rentt hoàn thành ủy thác hộ tống Jean gặp Wolf.
+
+

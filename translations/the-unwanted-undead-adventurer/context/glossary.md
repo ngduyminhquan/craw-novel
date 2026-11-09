@@ -24,7 +24,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
-| Silver-class | Silver-rank; Silvers | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級). Silvers là cách gọi số nhiều ở #255 |
+| Silver-class | Silver-rank; Silvers; Silver-classer; Silver-classers | Ngân Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả trung cao cấp (銀級). Silvers là cách gọi số nhiều ở #255 |
 | lower Silver-class |  | Hạ Ngân Cấp | cấp bậc | 27 | Phân bậc thấp trong Ngân Cấp |
 | Gold-class | Gold-classers | Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả cao cấp (金級) |
 | Platinum-class |  | Bạch Kim Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả ưu tú (白金級) |
@@ -380,7 +380,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | dragon-folk | dragonfolk; dragon-person; vampire-dragon-folk | Long Tộc | chủng tộc | 201 | Chủng tộc thú nhân mang đặc điểm của rồng, cực kỳ hiếm gặp và tinh thông Khí Lực (竜人種) |
 | The Academy | Academy; Academies; the Academies | Học Viện | tổ chức | 203 | Cơ sở đào tạo cao cấp do vương quốc vận hành tại vương đô Yaaran (学院) |
 | Magic Academy |  | Học Viện Ma Thuật | tổ chức | 203 | Tên gọi thông tục của Học Viện do mọi học viên đều học ma thuật (魔術学院) |
-| The Tower | Tower | Tòa Tháp | tổ chức | 203 | Tổ chức nghiên cứu ma thuật của các ma pháp sư tại vương đô Yaaran (魔術師の塔) |
+| The Tower | Tower; Towers; the Tower; the Towers | Tòa Tháp | tổ chức | 203 | Tổ chức nghiên cứu ma thuật của các ma pháp sư tại vương đô Yaaran (魔術師の塔) |
 | Kohm Clinic | Kohm | Phòng Khám Kohm | địa danh | 203 | Phòng khám y tế do Hội Mạo Hiểm Giả bảo trợ tại Maalt (コーム診療所) |
 | mana blade | mana blades; Mana blade; Mana blades | Ma Lực Kiếm | vật phẩm | 206 | Loại ma kiếm đặc biệt mạnh mẽ, thường là vật phẩm mê cung cấp cao hoặc cổ vật (魔力剣) |
 | demon lord | demon lords; Demon Lord; Demon Lords | Ma Vương | danh hiệu | 207 | Ma Vương trong thần thoại/truyền thuyết fantasy (魔王) |
@@ -503,5 +503,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | stray vampire | stray vampires | Ma Cà Rồng hoang | quái vật | 284 | Ma Cà Rồng không thuộc huyết tộc hay gia tộc nào, bị kẻ tạo tác bỏ mặc tự sinh tự diệt (野良吸血鬼) |
 | progenitor |  | kẻ tạo tác | khác | 284 | Ma Cà Rồng tạo ra hoặc nắm quyền kiểm soát huyết mạch đối với hậu duệ/quyến thuộc (親吸血鬼) |
 | progeny |  | hậu duệ | khác | 284 | Ma Cà Rồng được tạo ra hoặc thuộc hạ dưới trướng kẻ tạo tác |
+| earthen wildparsley |  | cần dại đất | vật phẩm | 287 | Thảo dược ăn được quý hiếm mọc ở đất, món mỹ vị cao cấp (土芹) |
+| wildparsley bloom | wildparsley blooms | hoa cần dại | vật phẩm | 287 | Thảo dược có hoa gây tê liệt khi ăn, nước ép dùng bôi lên vũ khí làm chất gây tê (花芹) |
 
 
