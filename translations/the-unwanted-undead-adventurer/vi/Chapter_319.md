@@ -66,7 +66,7 @@ Diện mạo kỳ dị của người đó khiến người ta khó mà biết c
 
 "Ồ, Quý ngài Ba Đồng Vàng ấy hả? Trông hắn đâu có vẻ giàu có đến thế..."
 
-Chiếc áo choàng đen tuyền cùng một chiếc mặt nạ—vạt áo trông chẳng có vẻ gì là đắt tiền, còn chiếc mặt nạ thì trông rẻ tiền thấy rõ vì vẻ ngoài quá đỗi rùng rợn. Trên người hắn làm sao có nhiều tiền đến thế được.
+Chiếc áo choàng đen tuyền cùng một chiếc mặt nạ—vạt áo trông chẳng có vẻ gì là đắt tiền, còn chiếc mặt nạ thì rùng rợn đến mức trông rẻ tiền hẳn. Trên người hắn làm sao có nhiều tiền đến thế được.
 
 "Ừ, nhưng mà..." Ánh mắt Lukas dán chặt vào khi người đàn ông rút thẻ chứng nhận ra. "Ồ-Ồ. Hắn là Đồng Cấp á? Thế mà lại đủ tiền vàng để vung ra tận ba đồng chỉ để mua mấy cọng thảo dược..."
 

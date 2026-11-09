@@ -100,7 +100,7 @@ Phía trước chính là ngôi nhà của gia đình tôi. Thật hoài niệ�
 
 Rõ ràng lúc đầu mẹ tưởng tôi là người khác. Mẹ nhìn tôi với vẻ mặt đầy kinh ngạc, rồi nỗi bất ngờ ấy lại dâng lên một lần nữa khi mẹ thoáng thấy Lorraine đứng cách đó một quãng ngắn. Tôi cũng chẳng trách mẹ được—Hathara hẻo lánh đến mức người ta đâu thể cứ thích là tạt qua chơi bất cứ lúc nào. Tôi dám chắc mẹ chẳng thể ngờ hai đứa lại quay về sớm đến thế.
 
-Dẫu vậy, Gilda chẳng hề tỏ ra phiền lòng chút nào—trái lại, bà ấy nở nụ cười niềm nở chào đón chúng tôi. "Mẹ mừng khi thấy con trở về. Lần trước con đi vội vàng quá làm mẹ cứ lo mãi. Mỗi lần mẹ gặng hỏi, ông ấy chỉ khăng khăng bảo con 'vẫn ổn', thành thử..."
+Dẫu vậy, mẹ chẳng hề tỏ ra phiền lòng chút nào—trái lại, mẹ nở nụ cười niềm nở chào đón chúng tôi. "Mẹ mừng khi thấy con trở về. Lần trước con đi vội vàng quá làm mẹ cứ lo mãi. Mỗi lần mẹ gặng hỏi, ông ấy chỉ khăng khăng bảo con 'vẫn ổn', thành thử..."
 
 Người mẹ nhắc tới chắc chắn là cha nuôi của tôi, Ingo. Sau khi ông ấy đưa chúng tôi về Maalt, đôi bên chẳng hề liên lạc gì với nhau. Tôi vốn định khi mọi chuyện êm xuôi sẽ quay lại báo cho mọi người biết mình vẫn bình an vô sự, ngặt nỗi dạo gần đây bận rộn quá nên tôi chưa tìm được dịp. Vì lẽ đó, nghe chừng Ingo đã phải rất chật vật mới giải thích qua loa cho Gilda được.
 

@@ -68,7 +68,7 @@ Qua những lời Ingo vừa giải thích, chúng tôi thấy rõ hiểu biết
 
 "Vậy làm sao bác biết lũ Slime này bị như thế?" Lorraine hỏi.
 
-"Ta cảm giác như chúng bị ép lớn—tương tự như cách người ta dùng phân thuốc kích cho hoa màu lớn nhanh vậy. Tốc độ tăng trưởng nhanh không hẳn là điều xấu đối với quái vật, nhưng cháu nên để lũ Slime này nghỉ ngơi một thời gian nếu còn định thúc đẩy chúng tiến hóa xa hơn."
+"Ta cảm giác như chúng bị ép lớn—giống như người ta bón thúc cho hoa màu lớn nhanh vậy. Tốc độ tăng trưởng nhanh không hẳn là điều xấu đối với quái vật, nhưng cháu nên để lũ Slime này nghỉ ngơi một thời gian nếu còn định thúc đẩy chúng tiến hóa xa hơn."
 
 "Cháu kinh ngạc vì bác có thể nhận ra từng ấy điều đấy! Nhưng tại sao sự phát triển của lũ Slime này lại không tốt cơ chứ? Nếu lớn nhanh không phải là điều xấu đối với quái vật, vậy thì..."
 

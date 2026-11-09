@@ -50,7 +50,7 @@ Tôi gật đầu. "Tôi trả nổi mà—vả lại nếu bỏ lỡ dịp này
 
 "Hầu như là vậy... Đám thú nhân bọn tôi đi đến đâu cũng lạc lõng giữa xứ người. Thành thử khó mà ngẩng cao đầu hay cãi lại được. Dẫu sao thì đây vẫn là một trong những nơi sống ổn nhất mà tôi từng ở." Nét mặt người thú nhân dê thoáng vẻ đượm buồn.
 
-Con người thường nhìn nhận các chủng tộc khác bằng ánh mắt định kiến, và thú nhân cũng không phải ngoại lệ. Có đủ loại lý do dẫn tới điều đó, nhưng nguyên nhân lớn nhất đơn giản là loài người thường có xu hướng co cụm cục bộ và bài ngoại.
+Con người thường nhìn nhận các chủng tộc khác bằng ánh mắt định kiến, và thú nhân cũng không phải ngoại lệ. Có đủ loại lý do dẫn tới điều đó, nhưng nguyên nhân lớn nhất đơn giản là loài người vốn hay kéo bè kéo cánh và bài xích kẻ khác mình.
 
 Dĩ nhiên là bản thân tôi không hề có lối suy nghĩ ấy. Có lẽ thói định kiến đó phổ biến hơn ở chốn đô thành—chứ quanh vùng Maalt thì chẳng ai thực sự bận tâm xem người khác thuộc chủng tộc nào. Điều này càng khiến tôi thêm yêu mến những vùng quê thôn dã.
 
@@ -126,7 +126,7 @@ Nghĩ lại thì cũng dễ hiểu thôi. Một ngày nọ, một gã lạ hoắ
 
 Dẫu vậy, xem chừng chẳng có ai định bước tới kiếm chuyện—họ chỉ đang dán chặt mắt dè chừng gã người lạ mà thôi. Có lẽ tôi cứ lờ họ đi là được.
 
-Nếu họ thực sự tới gây sự, tôi sẽ buộc phải tìm cách giải quyết, nhưng tôi chẳng phải loại người nóng máu đến mức phát cáu chỉ vì vài ánh mắt hình viên đạn đang chĩa vào mình. Nói thật thì, người ta thậm chí còn có thể bảo là tôi cần thêm chút máu nóng ấy chứ—xét cho cùng, lúc nào tôi chẳng thèm uống thêm máu.
+Nếu họ thực sự tới gây sự, tôi sẽ buộc phải tìm cách giải quyết, nhưng tôi chẳng phải loại người nóng máu đến mức phát cáu chỉ vì vài ánh mắt hình viên đạn đang chĩa vào mình. Nói thật thì, có khi tôi còn thiếu máu nóng ấy chứ—xét cho cùng, lúc nào tôi chẳng thèm uống thêm máu.
 
 Cơ mà, nếu buông một câu đùa như thế trước mặt họ, khéo họ rút phắt vũ khí ra ngay tại trận mất...
 

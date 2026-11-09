@@ -28,7 +28,7 @@ Với trình độ giám định đủ giỏi để trở thành tư tế của 
 
 "Tôi..." Diego ngập ngừng rồi lắc đầu. Xem chừng anh ấy không định giãi bày thêm, bởi ngay sau đó đã đột ngột chuyển đề tài. "Nói mới nhớ, Rentt này, lúc nãy anh bảo định dạy dỗ ba tên này đúng không?" Anh ấy nhìn sang mấy gã đang nằm bất tỉnh trên ghế sô-pha. "Anh tính làm gì chúng thế?"
 
-"À, phải rồi. Trước mắt thì tôi định đợi chúng tỉnh lại rồi nghe ngô khoai câu chuyện từ phía chúng đã."
+"À, phải rồi. Trước mắt thì tôi định đợi chúng tỉnh lại rồi nghe chúng kể đầu đuôi câu chuyện đã."
 
 "Rồi sao nữa?"
 
@@ -176,7 +176,7 @@ Cách Diego vào đề trơn tru đến mức suýt nữa thì tôi bỏ lỡ, d
 
 "À thì, đây là điều ai cũng biết, nhưng ở đó Nguyền Cụ rất dễ xuất hiện. Thậm chí thường xuyên hơn nhiều so với các mê cung khác đấy."
 
-Cũng như ma cụ, Nguyền Cụ là sản vật quen thuộc của mê cung. Người ta hiếm khi thấy chúng ở các mê cung quanh Maalt—thực tế thì mê cung của Yaaran nhìn chung có số lượng rất ít—nhưng chắc chắn ngoài kia vẫn có. Chẳng cần tốn công tưởng tượng cũng đủ đoán ra rằng ở mặt bên kia đồng xu, ắt hẳn có những mê cung như thế tồn tại.
+Cũng như ma cụ, Nguyền Cụ là sản vật quen thuộc của mê cung. Người ta hiếm khi thấy chúng ở các mê cung quanh Maalt—thực tế thì mê cung của Yaaran nhìn chung có số lượng rất ít—nhưng chắc chắn ngoài kia vẫn có. Chẳng cần tốn công tưởng tượng cũng đủ đoán ra rằng hẳn phải có những mê cung ngược lại, nơi Nguyền Cụ xuất hiện nhiều.
 
 Điều đó cũng giải thích cho một chuyện khác. "Đó là lý do vì sao Lucaris lại có nhiều người bán đồ nguyền đến thế sao?"
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:03:25Z",
+  "generatedAt": "2026-11-09T13:06:59Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4028,19 +4028,19 @@
           "number": 311,
           "title": "Chương 311: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_311.md",
-          "sha": "370902aba0327191afd9076bf505dea5cab7c7c3"
+          "sha": "2f1d1a84a72f00ad97c792f444f0d20498341f4e"
         },
         {
           "number": 312,
           "title": "Chương 312: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_312.md",
-          "sha": "f862f1f4f2fdf9c9f498439ababec0d6270eac85"
+          "sha": "65857172d1abb8b6a5c4f24abeef86e56add9c4c"
         },
         {
           "number": 313,
           "title": "Chương 313: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_313.md",
-          "sha": "0c812cadfb370c19d3ac44d7a35fc74de6fbe226"
+          "sha": "57fa369d8ab4faa3e481f814da7caf0f1d2d81ab"
         },
         {
           "number": 314,
@@ -4058,7 +4058,7 @@
           "number": 316,
           "title": "Chương 316: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_316.md",
-          "sha": "b8b80057e4845e1b8b8037512aae8457535a15d5"
+          "sha": "0f17de6e76e78854682f1baea5767491b0247703"
         },
         {
           "number": 317,
@@ -4070,13 +4070,13 @@
           "number": 318,
           "title": "Chương 318: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_318.md",
-          "sha": "89352a13d8153530a5f16b8bebc98baf6362836c"
+          "sha": "802cfb5039b0e14b5c6229a979c36b0b84d0fac9"
         },
         {
           "number": 319,
           "title": "Chương 319: Chương đệm Tập 13 - Mạo Hiểm Giả Niedz",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_319.md",
-          "sha": "da8e2afdd26610502c85861877d085f77d8062da"
+          "sha": "82a803e2d2be8bdc1f03d987fcb151a712c7dd50"
         }
       ]
     },

@@ -2,7 +2,7 @@
 
 "Cố lên!" Lorraine cổ vũ. "Tới luôn đi! Làm được mà!"
 
-"Không, đừng có làm thế chứ!" tôi la lên. "Đúng rồi, cứ thế! Tới luôn đi!"
+"Không, đâu phải thế!" tôi la lên. "Thế chứ! Đúng rồi! Tới luôn!"
 
 Tôi cũng đang hào hứng hò reo cổ vũ. Cổ vũ cái gì cơ chứ? Câu trả lời vô cùng đơn giản: Lorraine và tôi đang dán mắt vào giữa bàn làm việc, nơi chiếc cốc đã được cố định vững chắc. Bên trong chiếc cốc là hai con Slime tí hon đang quấn chặt lấy nhau mà quần thảo kịch liệt. Cả hai đều ra sức nuốt chửng đối phương.
 
@@ -96,7 +96,7 @@ Một ý nghĩ bất chợt lóe lên trong đầu tôi. "Hay là tôi thu nhậ
 
 Lorraine lắc đầu. "Làm vậy sẽ khiến nó bị nhiễm Ma Lực của anh đấy. Điều đó có thể cưỡng ép nó Tiến Hóa Bản Thể và thậm chí biến đổi chủng loài cũng nên, thành thử..."
 
-Cô ấy nói đúng—đó chính là cơ chế vận hành của việc kết nối máu với một sinh vật. Nó có thể biến người sống thành Ngạ Quỷ hoặc Thi Quỷ, hoặc khiến những sinh vật như Edel mạnh lên trông thấy. Rất có khả năng điều tương tự cũng sẽ xảy ra với con Slime nếu nó hấp thụ một phần Ma Lực của tôi, làm sai lệch kết quả thí nghiệm. Thế nên ý kiến của tôi đành phải gạt phắt đi.
+Cô ấy nói đúng—kết khế ước máu với một sinh vật là như vậy đấy. Nó có thể biến người sống thành Ngạ Quỷ hoặc Thi Quỷ, hoặc khiến những sinh vật như Edel mạnh lên trông thấy. Rất có khả năng điều tương tự cũng sẽ xảy ra với con Slime nếu nó hấp thụ một phần Ma Lực của tôi, làm sai lệch kết quả thí nghiệm. Thế là ý tưởng của tôi bị gạt đi.
 
 "Vậy thì... chúng ta tính sao đây?" tôi hỏi.
 
