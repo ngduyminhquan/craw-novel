@@ -6,7 +6,7 @@ Tại khoảng đất trống nơi cỏ afto sinh trưởng, một người đà
 
 "Dieg...?" Dorothea hỏi. "Đừng bảo anh chính là kẻ bấy lâu nay nhắm vào tôi đấy nhé..."
 
-Đứng cạnh Dieg là Guster, tên cướp từng bị Rina đánh bại—kẻ lẽ ra phải đang nằm trong ngục giam của đội lính gác mà họ đã bàn giao. Hiện tại, Guster đang bắt một đứa trẻ làm con tin, kề dao vào cổ đứa bé—đó là lý do người thợ săn Zein vẫn chưa dám manh động. Tình thế hoàn toàn rơi vào bế tắc.
+Đứng cạnh Dieg là Guster, tên cướp từng bị Rina đánh bại—kẻ lẽ ra phải đang bị giam chỗ đội lính gác mà họ đã bàn giao gã. Hiện tại, Guster đang bắt một đứa trẻ làm con tin, kề dao vào cổ đứa bé—đó là lý do người thợ săn Zein vẫn chưa dám manh động. Tình thế hoàn toàn rơi vào bế tắc.
 
 Trước tình cảnh này, kẻ thuê mướn bí ẩn của Guster là ai liền sáng tỏ ngay tức khắc. Dù Dorothea chưa từng mảy may nghĩ tới khả năng đó là Dieg, nhưng ngẫm lại thì mọi chuyện đều trùng khớp. Anh ta có thừa động cơ để làm vậy.
 
@@ -60,7 +60,7 @@ Thế nhưng, trước khi cô ta kịp hạ lưỡi dao xuống, Rina đã nhan
 
 "Hự! Cô—!"
 
-Người phụ nữ rõ ràng kinh ngạc khi thấy Rina dám phản công dù biết đối phương đang nắm giữ con tin. Không kịp né tránh, mũi kiếm cắm sâu vào bụng người phụ nữ, giáng một vết thương chí mạng thấy rõ. Nét mặt cô ta méo mó vì đau đớn, trừng mắt nhìn Rina đầy căm hận.
+Người phụ nữ rõ ràng kinh ngạc khi thấy Rina dám phản công dù biết đối phương đang nắm giữ con tin. Cô ta không kịp né tránh, để mũi kiếm cắm sâu vào bụng, giáng một vết thương chí mạng thấy rõ. Nét mặt cô ta méo mó vì đau đớn, trừng mắt nhìn Rina đầy căm hận.
 
 Dù vết thương mang tính chí mạng, cô ta vẫn chưa chết. Rina siết chặt chuôi kiếm, sẵn sàng khoét sâu thêm vết thương, thì...
 
@@ -98,7 +98,7 @@ Trong lúc Rina dõi theo mà không hề lơ là cảnh giác, người phụ n
 
 "Cô nghĩ thế thật sao...? Tôi hiểu rồi."
 
-Rina khẽ gật đầu, rồi lại lao vào tấn công. Đầu, tay, chân—Rina chém đứt các chi trên cơ thể người phụ nữ không biết bao nhiêu lần, và người phụ nữ cũng tái tạo lại vết thương bấy nhiêu lần.
+Rina khẽ gật đầu, rồi lại lao vào tấn công. Đầu, tay, chân—Rina chém đứt các bộ phận trên cơ thể người phụ nữ không biết bao nhiêu lần, và người phụ nữ cũng tái tạo lại vết thương bấy nhiêu lần.
 
 Với một người không hiểu rõ ngọn ngành, khả năng tái tạo của người phụ nữ trông như thể không có giới hạn. Có lẽ hy vọng của họ sẽ bị dập tắt trước sự vô vọng tột cùng ấy, và họ sẽ bỏ cuộc giữa chừng.
 
@@ -128,7 +128,7 @@ Thế nhưng lần này, người phụ nữ lại xui xẻo đụng độ phả
 
 Trong lúc nói, những vết thương trên người Rina cũng đang tự lành lại. Vết chém dài trên chân cô lúc trước giờ đã chẳng còn lại chút dấu vết nào.
 
-Vẻ bàng hoàng nhận ra cuối cùng cũng hiện rõ trên khuôn mặt người phụ nữ. "Cô... cô cũng là Ma Cà Rồng sao...?"
+Cuối cùng người phụ nữ cũng vỡ lẽ, vẻ bàng hoàng hiện rõ trên khuôn mặt. "Cô... cô cũng là Ma Cà Rồng sao...?"
 
 "Nói thật lòng nhé? Tôi cũng chẳng biết trả lời cô thế nào đâu. Mà thôi... chuyện đó đối với cô bây giờ cũng chẳng còn quan trọng nữa rồi."
 
@@ -168,7 +168,7 @@ Và đối với người phụ nữ không đầu trước mắt, vẫn còn m�
 
 "Cô là Ma Cà Rồng hoang đúng không?"
 
-"Một... 'kẻ hoang' ư?"
+"Một... 'Ma Cà Rồng hoang' ư?"
 
 Người phụ nữ tỏ vẻ xa lạ với thuật ngữ này—và điều đó tự nó đã làm sáng tỏ câu trả lời.
 
@@ -184,7 +184,7 @@ Và cô đã khắc nó lên người Guster—dù người phụ nữ hiện đ
 
 Isaac từng giải thích cho Rina về khả năng xảy ra một chuyện như vậy: cụ thể là khả năng tồn tại của những Ma Cà Rồng "hoang".
 
-"Trong giới Ma Cà Rồng, kẻ hoang là người trong chúng ta không thuộc về bất kỳ huyết tộc, gia tộc, dòng họ hay hội nhóm tương tự nào," Rina giải thích. "Một số Ma Cà Rồng tùy hứng tạo ra hậu duệ, nhưng rồi lại bỏ mặc chúng tự sinh tự diệt thay vì hoàn thành trách nhiệm của kẻ tạo tác. Hầu hết những hậu duệ đó chẳng sống được bao lâu. Họ mù tịt về mọi thứ mà một Ma Cà Rồng cần phải học, và điều duy nhất họ có thể làm là mò mẫm trong bóng tối để tự mình tìm hiểu."
+"Trong giới Ma Cà Rồng, Ma Cà Rồng hoang là những kẻ trong chúng ta không thuộc về bất kỳ huyết tộc, gia tộc, dòng họ hay hội nhóm tương tự nào," Rina giải thích. "Một số Ma Cà Rồng tùy hứng tạo ra hậu duệ, nhưng rồi lại bỏ mặc chúng tự sinh tự diệt thay vì hoàn thành trách nhiệm của kẻ tạo tác. Hầu hết những hậu duệ đó chẳng sống được bao lâu. Họ mù tịt về mọi thứ mà một Ma Cà Rồng cần phải học, và điều duy nhất họ có thể làm là mò mẫm trong bóng tối để tự mình tìm hiểu."
 
 "Được rồi. Vậy là tôi không có gia đình Ma Cà Rồng hay thứ gì tương tự như thế," người phụ nữ nói. Cô ta bĩu môi, vẻ mặt có thoáng nét đượm buồn. "Nhưng thì sao chứ? Ý cô là gì?"
 

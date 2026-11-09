@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T06:03:52Z",
+  "generatedAt": "2026-11-09T06:18:29Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3856,19 +3856,19 @@
           "number": 284,
           "title": "Chương 284: Tập 12 Chương 4 - Trong Khi Đó, Các Đệ Tử... Phần 3 (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_284.md",
-          "sha": "9b3f6d8cab678570c933ef522539d4a41fe0b039"
+          "sha": "379d8307e77616c6929bb5b31cff5b703d55f39e"
         },
         {
           "number": 285,
           "title": "Chương 285: Tập 12 Chương 4 - Trong Khi Đó, Các Đệ Tử... Phần 3 (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_285.md",
-          "sha": "5ab85859d259d979ac5ba4dc1462ea1119ab17ce"
+          "sha": "21ad1c2a57a6b447120a74ac8f6d6309872bc5ff"
         },
         {
           "number": 286,
           "title": "Chương 286: Tập 12 Chương 4 - Trong Khi Đó, Các Đệ Tử... Phần 3 (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_286.md",
-          "sha": "aa8bfdc2c99b1cb32ccbcd651ba57932ac5bf67d"
+          "sha": "5657d6a6a52ece92f7da23e9d642aac45b925790"
         }
       ]
     },

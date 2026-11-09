@@ -4,7 +4,7 @@ Khi đã về tới làng, cũng là lúc họ phải quyết định hướng �
 
 Nói là vậy, nhưng đây vốn đã là điểm dừng chân cuối cùng trong chuyến hành trình của Dorothea. Kế hoạch ban đầu của cô là thong thả quay về, ghé vào các thị trấn tiền đồn và những nơi tương tự để bán số hàng hóa đã thu mua từ các ngôi làng dọc đường, và chẳng có lý do gì để thay đổi quá nhiều so với dự tính đó. Sự xuất hiện của Amapola chỉ khiến họ phải đổi hướng tới một thị trấn tỉnh lỵ khá lớn gần đó vốn không nằm trong lịch trình của Dorothea, chỉ có vậy thôi.
 
-Họ vốn có thể cứ thế quay thẳng về Maalt, nhưng đi lối này lại nhanh hơn—với lại, thị trấn tỉnh lỵ đó ngay từ đầu đã là đích đến ban đầu của Isaac. Thế nên, anh cùng đồng hành với họ trong chuyến đi, và điều này dường như chẳng hề khiến Dorothea phiền lòng. Thậm chí, vì Rina không ngớt lời khen ngợi thực lực của Isaac, cô còn xem đây như thể có thêm một hộ vệ. Dorothea thậm chí còn đề nghị trả thù lao cho Isaac, nhưng anh từ chối và bảo rằng việc cô cho anh đi nhờ xe miễn phí đã là quá đủ rồi. Cô ngờ rằng anh vốn chẳng hề thiếu thốn tiền bạc ngay từ đầu.
+Họ vốn có thể cứ thế quay thẳng về Maalt, nhưng đi lối này lại nhanh hơn—với lại, thị trấn tỉnh lỵ đó vốn đã là đích đến ban đầu của Isaac. Thế nên, anh cùng đồng hành với họ trong chuyến đi, và điều này dường như chẳng hề khiến Dorothea phiền lòng. Thực tế, vì Rina không ngớt lời khen ngợi thực lực của Isaac, cô còn xem đây như thể có thêm một hộ vệ. Dorothea thậm chí còn đề nghị trả thù lao cho Isaac, nhưng anh từ chối và bảo rằng việc cô cho anh đi nhờ xe miễn phí đã là quá đủ rồi. Cô ngờ rằng anh vốn chẳng hề thiếu thốn tiền bạc ngay từ đầu.
 
 Họ đến nơi khá sớm, rồi nhanh chóng bàn giao Amapola và Guster cho lính gác kèm theo lời giải thích đầu đuôi sự tình. Rina nhận thấy đám lính gác bắt đầu có những động thái hơi kỳ lạ sau khi Isaac trao cho họ một ánh mắt đầy ẩn ý... nhưng cô tự nhủ tốt nhất không nên tò mò chuyện này. Đằng nào cô cũng đoán được phần nào những gì anh đã làm.
 
@@ -106,7 +106,7 @@ Mắt Dorothea mở to. "Dieg... anh chắc chứ?"
 
 Nét mặt Rudo thoáng qua muôn vàn cảm xúc. Chấp thuận cho đứa con gái duy nhất của mình lên đường rong ruổi đơn độc cùng một người đàn ông hẳn chẳng phải là một quyết định dễ dàng. Dẫu vậy, người đàn ông đang được nói tới từng suýt được hứa hôn với con bé, và giữa hai người họ toát lên một bầu không khí khiến người ta cảm thấy mọi chuyện rồi sẽ ổn thỏa.
 
-"Tôi... nghĩ là ổn thôi," cuối cùng Rudo cũng lên tiếng. "Có vẻ như tương lai hai năm trước chúng ta từng mơ ước đang trên đà trở thành hiện thực rồi đấy, Jude."
+"Ta... nghĩ là ổn thôi," cuối cùng Rudo cũng lên tiếng. "Có vẻ như tương lai hai năm trước chúng ta từng mơ ước đang trên đà trở thành hiện thực rồi đấy, Jude."
 
 "Đúng là số phận run rủi khéo trêu người thật," vị chủ thương hội còn lại gật gù đồng tình rồi quay sang con trai mình. "Được rồi, Dieg, nếu con đã quyết định như vậy thì cha chúc phúc cho con. Nào, chúng ta sẽ quay về Mystera để thu xếp mọi chuyện cho thỏa đáng."
 
@@ -132,11 +132,11 @@ Như mọi khi, người đón cô ngay lối vào không ai khác chính là Is
 
 Dorothea và Dieg đã cùng nhau bắt đầu con đường thương nhân lữ hành với sự chúc phúc của cha mẹ cả hai bên—xét theo góc nhìn của Rina thì đây quả thực là một cái kết vô cùng êm đẹp. Và vì Dorothea sẽ không còn phải đối mặt với những hiểm nguy hay gian nan quá mức trên các chặng đường sau này, cô cũng chẳng còn điều gì phải lo lắng về mặt đó nữa.
 
-Dĩ nhiên nói thế không có nghĩa là nữ thương nhân trẻ tuổi sẽ hoàn toàn chẳng gặp bất kỳ khó khăn nào, nhưng đó là điều khó tránh khỏi với nghề nghiệp của cô ấy và tốt hơn nhiều so với việc có kẻ luôn rắp tâm ám hại mình. Rina thực lòng cầu chúc Dorothea và Dieg một ngày nào đó sẽ thành lập được thương hội của riêng mình và gặt hái thành công.
+Dĩ nhiên nói thế không có nghĩa là nữ thương nhân trẻ tuổi sẽ hoàn toàn chẳng gặp bất kỳ khó khăn nào, nhưng đó là điều khó tránh khỏi với nghề nghiệp của cô và tốt hơn nhiều so với việc có kẻ luôn rắp tâm ám hại mình. Rina thực lòng cầu chúc Dorothea và Dieg một ngày nào đó sẽ thành lập được thương hội của riêng mình và gặt hái thành công.
 
 "Ồ không, đâu có gì," Isaac cười trừ. "Đó là nhờ vào những nỗ lực của chính cô đấy chứ, cô Rina. Hơn nữa, giờ đây khi đã tự mình hoàn thành một ủy thác, rốt cuộc cô cũng hiểu ra rồi phải không? Ý tôi là, hiểu được cô đã trưởng thành đến nhường nào."
 
-Từ lời của Isaac, Rina nhận ra anh vốn đã nhìn thấu nỗi tự ti về thực lực mà dạo gần đây cô luôn canh cánh trong lòng. "Tôi hiểu rồi ạ," cô nói. "Xin lỗi vì đã làm anh phải bận tâm. Chỉ là những người xung quanh tôi đều quá đỗi phi thường, khiến tôi có cảm giác bản thân chẳng là gì khi so với họ."
+Từ lời của Isaac, Rina nhận ra anh vốn đã nhìn thấu nỗi tự ti về thực lực mà dạo gần đây cô luôn canh cánh trong lòng. "Vâng, tôi hiểu rồi," cô nói. "Xin lỗi vì đã làm anh phải bận tâm. Chỉ là những người xung quanh tôi đều quá đỗi phi thường, khiến tôi có cảm giác bản thân chẳng là gì khi so với họ."
 
 "Tôi cho rằng cô đang đánh giá bản thân quá thấp đấy, dẫu tôi hiểu một người hoàn toàn có thể rút ra kết luận như thế khi ở cạnh Rentt và Lorraine. Tuy nhiên, cô cũng phải nhận thức được rằng khoảng cách kinh nghiệm giữa họ và cô là rất lớn. Rentt đã có hơn mười năm khổ luyện hơn hẳn cô, còn Lorraine là một chuyên gia từng được thụ hưởng nền giáo dục dành riêng cho những cá nhân có thiên phú ma thuật. Chẳng có gì đáng ngạc nhiên khi cô chưa thể sánh vai cùng họ trong một khoảng thời gian ngắn ngủi đến vậy."
 
@@ -144,7 +144,7 @@ Từ lời của Isaac, Rina nhận ra anh vốn đã nhìn thấu nỗi tự ti
 
 "Tôi có nên hiểu điều đó đồng nghĩa với việc cô rất mừng vì đã nhận chuyến đi này không?"
 
-"Chắc chắn rồi ạ—và trên hết thảy, tôi đã được gặp Dorothea. Tôi nghĩ từ giờ mình sẽ thỉnh thoảng nhận thêm các ủy thác độc hành—chí ít là cho đến khi Raiz và Laura bình phục hẳn để có thể làm lại những công việc mạo hiểm thông thường."
+"Chắc chắn rồi—và trên hết thảy, tôi đã được gặp Dorothea. Tôi nghĩ từ giờ mình sẽ thỉnh thoảng nhận thêm các ủy thác độc hành—chí ít là cho đến khi Raiz và Laura bình phục hẳn để có thể làm lại những công việc mạo hiểm thông thường."
 
 Dù hai đồng đội trong tổ đội của Rina vẫn chưa lành hẳn vết thương, nhưng tình trạng của họ đã tiến triển tốt đến mức có lẽ sẽ sớm hoạt động trở lại. Ngày họ có thể cùng nhau nhận ủy thác với tư cách một tổ đội ba người đầy đủ không còn xa nữa. Rina muốn mình phải hoàn toàn tự tin vào bản thân trước khi thời điểm đó đến.
 

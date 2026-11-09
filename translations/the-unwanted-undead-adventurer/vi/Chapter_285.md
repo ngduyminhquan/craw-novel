@@ -6,7 +6,7 @@ Trong một thoáng, Rina không khỏi giật mình—cô hoàn toàn chẳng h
 
 "Tôi xin lỗi. Tôi không cố ý đâu, nhưng có lẽ tôi xuất hiện hơi đột ngột thật nhỉ?"
 
-Quả thực, người đứng sau lưng cô không ai khác chính là Isaac, viên quản gia của Gia tộc Latuule. Nét mặt anh vẫn hòa nhã và điềm đạm như mọi khi—điều mà Rina nghĩ, xét trong hoàn cảnh này, tự nó đã có phần không hợp chút nào. Dù sao thì anh vừa bắt gặp cô đang mỉm cười trò chuyện với một chiếc đầu lìa khỏi cổ trong khi thi thể của ả bị cô găm chặt xuống đất bằng kiếm—hình ảnh chuẩn xác nhất cho từ "kẻ mất trí".
+Quả thực, người đứng sau lưng cô không ai khác chính là Isaac, viên quản gia của Gia tộc Latuule. Nét mặt anh vẫn hòa nhã và điềm đạm như mọi khi—điều mà Rina nghĩ, xét trong hoàn cảnh này, tự nó đã có phần không hợp chút nào. Dù sao thì anh vừa bắt gặp cô đang mỉm cười trò chuyện với một chiếc đầu lìa khỏi cổ trong khi thi thể của cô ta bị cô găm chặt xuống đất bằng kiếm—hình ảnh chuẩn xác nhất cho từ "kẻ mất trí".
 
 Cơ mà, có lẽ đối với Isaac thì những cảnh tượng như thế này cũng chỉ như cơm bữa mà thôi.
 
@@ -18,9 +18,9 @@ Dù đoán là Isaac gần như đã nắm rõ ngọn ngành mọi chuyện, Rin
 
 Khi cô dứt lời, Isaac gật đầu. "Nếu vậy, hay là để tôi nhận cô ta?" anh đề xuất. "Sau khi cô ta nhận tội, tôi có thể sắp xếp cho cô ta một chốn dung thân an toàn và có người giám sát."
 
-"Như vậy liệu có ổn không? Ả đã làm ra mấy chuyện tệ hại lắm đấy..."
+"Như vậy liệu có ổn không? Cô ta đã làm ra mấy chuyện tệ hại lắm đấy..."
 
-Chỉ riêng vụ này thôi cũng đã cướp đi tính mạng toàn bộ đồng bọn của Guster. Chẳng khó để đoán rằng người phụ nữ này khó lòng khẳng định mình chưa từng giết người bao giờ. Có điều, dường như ả cũng thực sự chẳng còn lựa chọn nào khác để sinh tồn, và chính điều đó khiến Rina không thể dứt khoát đưa ra quyết định.
+Chỉ riêng vụ này thôi cũng đã cướp đi tính mạng toàn bộ đồng bọn của Guster. Chẳng khó để đoán rằng người phụ nữ này khó lòng khẳng định mình chưa từng giết người bao giờ. Có điều, dường như cô ta cũng thực sự chẳng còn lựa chọn nào khác để sinh tồn, và chính điều đó khiến Rina không thể dứt khoát đưa ra quyết định.
 
 Isaac cười trừ. "Nhắc đến những tội lỗi kiểu đó, quãng đời tôi từng trải qua cũng chẳng đủ thanh cao để phán xét người khác. Dẫu vậy, chí ít thì tôi có thể khẳng định cô ta có nguyên tắc hơn nhiều so với những Ma Cà Rồng hoang thông thường. Tôi đồ rằng chỉ cần uốn nắn vào khuôn phép một chút thì cô ta sẽ không gây rắc rối gì đâu."
 
@@ -38,7 +38,7 @@ Dù cả hai chưa trò chuyện nhiều, gương mặt của Thợ Săn Ma Cà 
 
 Rina ngờ rằng chỉ có chủ nhân của Isaac và những người như Rentt mới đủ sức khước từ người đàn ông này khi đối mặt với thứ áp lực anh tỏa ra vào những lúc thế này. Và quả nhiên...
 
-"Đ-Đương nhiên rồi," đầu người phụ nữ đồng tình. Trông ả có vẻ lúng túng, mồ hôi lạnh túa ra lăn dài trên trán. "Nhưng... như vậy liệu có thực sự ổn không? Tôi không muốn chết... nhưng nếu mọi người buộc phải giết tôi, tôi cũng không thể nói là mình không hiểu..."
+"Đ-Đương nhiên rồi," đầu người phụ nữ đồng tình. Trông cô ta có vẻ lúng túng, mồ hôi lạnh túa ra lăn dài trên trán. "Nhưng... như vậy liệu có thực sự ổn không? Tôi không muốn chết... nhưng nếu mọi người buộc phải giết tôi, tôi cũng không thể nói là mình không hiểu..."
 
 "Chà, tôi khá chắc là số tội lỗi đè nặng trên lương tâm mình còn nhiều hơn của cô đấy," Isaac nói. "Tôi sẽ tự rước lấy nghiệp báo mất nếu không cho cô ít nhất một cơ hội thứ hai. Dù sao đi nữa, sự thật là chúng tôi cũng không thể để cô tan biến thành tro bụi ở đây được. Không có lời thú nhận của cô về việc đã khống chế Dieg, cậu ta sẽ cảm thấy tội lỗi khôn xiết. Phải không, cô Rina?"
 
@@ -52,27 +52,27 @@ Kẻ tạo tác của một Ma Cà Rồng hoàn toàn có thể thay đổi—v�
 
 "Đúng là như vậy. Giờ thì... trước mắt, có lẽ tôi sẽ trở thành kẻ tạo tác của cô ta thay vào đó. Đầu tiên, hãy gắn đầu cô ta lại đã nào."
 
-Sau khi nhặt đầu người phụ nữ lên, Isaac rút thanh kiếm của Rina ra khỏi thi thể không đầu rồi đưa trả lại cho cô. Đoạn, anh đặt chiếc đầu trở lại vị trí cũ rồi thi triển Phân Liệt, bao bọc cơ thể ả trong màn bóng tối của mình.
+Sau khi nhặt đầu người phụ nữ lên, Isaac rút thanh kiếm của Rina ra khỏi thi thể không đầu rồi đưa trả lại cho cô. Đoạn, anh đặt chiếc đầu trở lại vị trí cũ rồi thi triển Phân Liệt, bao bọc cơ thể cô ta trong màn bóng tối của mình.
 
 Vài giây trôi qua, mọi vết thương của người phụ nữ đã lành lặn hoàn toàn.
 
 Rina không khỏi ấn tượng; cô chưa từng biết người ta có thể chữa lành vết thương cho một Ma Cà Rồng khác theo cách như vậy. Tuy ma pháp trị liệu thông thường vẫn có tác dụng với Ma Cà Rồng, nhưng bất kỳ loại nào bắt nguồn từ Thần Lực đều sẽ thanh tẩy họ. Cô từng thắc mắc Ma Cà Rồng sẽ làm gì khi bị mất các bộ phận cơ thể, nhưng rõ ràng là có những phương pháp giải quyết việc đó mà cô chưa hề hay biết.
 
-"T-Tôi lành lại rồi!" người phụ nữ mừng rỡ thốt lên. Nước mắt lăn dài trên má ả. "Cơ thể tôi... Tôi... Cảm ơn ngài!"
+"T-Tôi lành lại rồi!" người phụ nữ mừng rỡ thốt lên. Nước mắt lăn dài trên má cô ta. "Cơ thể tôi... Tôi... Cảm ơn ngài!"
 
-Ả hẳn đã thực sự không muốn chết, Rina thẫn thờ nghĩ, trước khi lập tức nhận ra điều đó hiển nhiên đến nhường nào. Rõ ràng, việc trở thành quái vật đã làm cùn mòn nhận thức của chính cô về giá trị của sự sống và cái chết.
+Cô ta hẳn đã thực sự không muốn chết, Rina thẫn thờ nghĩ, trước khi lập tức nhận ra điều đó hiển nhiên đến nhường nào. Rõ ràng, việc trở thành quái vật đã làm cùn mòn nhận thức của chính cô về giá trị của sự sống và cái chết.
 
 Đó có lẽ chẳng phải điều gì tốt đẹp. Cô tự nhủ sau này phải nghiêm túc nhìn nhận vấn đề đó hơn.
 
 "Ồ, chẳng có gì đáng để cảm ơn tôi đâu," Isaac nói. "Dẫu vậy, tôi kỳ vọng cô sẽ hoàn thành tốt công việc được giao phó. Như thế có được không?"
 
-Người phụ nữ gật đầu, sẵn sàng đồng thuận với lời nhắc nhở của Isaac. "Đương nhiên rồi ạ! Nếu ngài thực sự có thể cho tôi một nơi để nương thân, vậy thì..."
+Người phụ nữ gật đầu, sẵn sàng đồng thuận với lời nhắc nhở của Isaac. "Đương nhiên rồi! Nếu ngài thực sự có thể cho tôi một nơi để nương thân, vậy thì..."
 
 "Về mặt đó thì cô cứ yên tâm. Tôi sẽ đưa cô tới nơi an toàn nhất trên toàn thế giới đối với Ma Cà Rồng. Giờ thì, có một số điều tôi cần phổ biến cho cô..."
 
-Tuy nhiên, trước khi Isaac kịp nói tiếp, người phụ nữ đã ngắt lời anh với vẻ đầy lo lắng: "Ừm, trước hết... chỗ Dieg và Guster có ổn không ạ? Chúng ta không nên...?"
+Tuy nhiên, trước khi Isaac kịp nói tiếp, người phụ nữ đã ngắt lời anh với vẻ đầy lo lắng: "Ừm, trước hết... chỗ Dieg và Guster có ổn không? Chúng ta không nên...?"
 
-Rõ ràng, ả đinh ninh rằng hai kẻ đó lúc này đang gây rắc rối cho nhóm Dorothea.
+Rõ ràng, cô ta đinh ninh rằng hai kẻ đó lúc này đang gây rắc rối cho nhóm Dorothea.
 
 Isaac quay sang Rina. "Cô nghĩ sao?" anh hỏi. Thế nhưng nét mặt anh cho thấy rõ anh vốn đã biết tỏng câu trả lời.
 
@@ -120,7 +120,7 @@ Dù Dorothea vẫn chưa hiểu rốt cuộc chuyện quái quỷ gì đang di�
 
 "Đúng là không phải," Dorothea đồng tình. "Hồi tôi còn ở Mystera, anh ấy nổi tiếng là một chàng thanh niên tháo vát và tốt bụng. Dù không thể kế thừa thương hội của gia đình do có anh trai, nhưng ai nấy đều tin chắc anh ấy sẽ thành công, bất kể là tiếp tục phò tá cho anh trai hay tự mình lập nghiệp riêng. Đó là lý do từng có chuyện bàn tính việc anh ấy kết hôn với tôi để tiếp quản thương hội của cha tôi."
 
-Rina ậm ừ vẻ thích thú. "Vậy ra nếu không trở thành thương nhân lữ hành, cô đã sẵn lòng kết hôn với anh ta rồi ư?"
+Rina ậm ừ vẻ thích thú. "Vậy ra nếu không trở thành thương nhân lữ hành, cô đã sẵn lòng kết hôn với anh ấy rồi ư?"
 
 Dorothea im lặng trong chốc lát. "Lúc nào cô cũng thẳng thắn ghê nhỉ? Chà... tôi đoán là có lẽ vậy. Sau khi gặp mặt và trò chuyện với anh ấy, tôi từng nghĩ hai đứa sẽ sống khá hòa thuận bên nhau. Có điều, thôi thúc muốn tự mình bươn chải trong tôi khi ấy lại mạnh mẽ hơn nhiều. Dẫu vậy, tôi vẫn cảm thấy có lỗi vì đã bỏ đi."
 
@@ -128,9 +128,9 @@ Dorothea im lặng trong chốc lát. "Lúc nào cô cũng thẳng thắn ghê n
 
 "Ở đời đôi khi vẫn vậy mà—nhất là chuyện nhân duyên và đường đời. Chuyện đó tạm gác lại đã... Dieg có sao không? Sau khi bị một Ma Cà Rồng chi phối, người ta chẳng phải cũng biến thành Undead luôn sao?"
 
-Câu hỏi của Dorothea được giải đáp bởi chính chàng thanh niên mà Rina gọi là người dạy kèm cho mình. Nghe đâu anh ta tình cờ đang xử lý một ủy thác ở khu vực này thì bắt gặp cô. Isaac, như anh tự giới thiệu tên mình, di chuyển mà không để lộ chút sơ hở nào và luôn toát lên vẻ tao nhã trong từng cử chỉ.
+Câu hỏi của Dorothea được giải đáp bởi chính chàng thanh niên mà Rina gọi là người dạy kèm cho mình. Nghe đâu anh tình cờ đang xử lý một ủy thác ở khu vực này thì bắt gặp cô. Isaac, như anh tự giới thiệu tên mình, di chuyển mà không để lộ chút sơ hở nào và luôn toát lên vẻ tao nhã trong từng cử chỉ.
 
-Trong tâm trí Dorothea, anh ta phù hợp với hình dung của cô về một Ma Cà Rồng hơn nhiều so với người phụ nữ đang bị trói quặt hai tay sau lưng kia, nhưng nghĩ vậy thì quả là khiếm nhã, nên cô liền gạt phắt ý nghĩ đó đi.
+Trong tâm trí Dorothea, anh phù hợp với hình dung của cô về một Ma Cà Rồng hơn nhiều so với người phụ nữ đang bị trói quặt hai tay sau lưng kia, nhưng nghĩ vậy thì quả là khiếm nhã, nên cô liền gạt phắt ý nghĩ đó đi.
 
 "Chuyện đó chỉ xảy ra trong trường hợp Ma Cà Rồng cắn người rồi truyền một lượng máu của mình vào họ thôi," Isaac giải thích. "Trên người Dieg không có dấu hiệu vết thương nào như vậy, nên cậu ta sẽ ổn thôi. Việc cậu ta ngất xỉu—như cô vừa có nhã ý cho chúng tôi biết—nhiều khả năng là vào khoảng thời gian chúng tôi đánh bại Amapola, đó là tên của quý cô đây. Điều này hoàn toàn khớp với phản ứng thông thường của phần lớn mọi người sau khi được giải trừ khỏi thuật mị hoặc của Ma Cà Rồng. Kẻ nào đã biến thành bề tôi Undead của Ma Cà Rồng thì vẫn sẽ giữ được ý thức."
 
@@ -142,7 +142,7 @@ Minh chứng rõ ràng là—chỉ sau một thoáng ngắn ngủi, mắt Dieg l
 
 "Không sao đâu," Dorothea thở dài nói. "Tôi biết mà. Quan trọng hơn, anh có bị thương ở đâu không? Cha và anh trai anh sẽ giận tôi dữ lắm nếu có chuyện gì xảy ra với anh đấy."
 
-Dieg bật cười yếu ớt. "Tôi thì nghĩ họ sẽ từ mặt tôi luôn ấy chứ, sau ngần ấy chuyện đã xảy ra... cơ mà chuyện cũng đã rồi. Tôi chỉ ước gì mình biết được điều gì đã thôi thúc mình làm tất cả những chuyện này..." Chàng thanh niên vẻ mặt lạc lối.
+Dieg bật cười yếu ớt. "Tôi thì nghĩ họ sẽ từ mặt tôi luôn ấy chứ, sau ngần ấy chuyện đã xảy ra... cơ mà chuyện cũng đã rồi. Tôi chỉ ước gì mình biết được điều gì đã thôi thúc mình làm tất cả những chuyện này..." Chàng thanh niên lộ vẻ lạc lối.
 
 "Thực ra thì..." Dorothea mở lời.
 

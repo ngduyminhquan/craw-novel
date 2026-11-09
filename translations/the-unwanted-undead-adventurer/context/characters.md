@@ -166,8 +166,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Chân thành, lương thiện, dũng cảm, trọng lời hứa, mang ơn Rentt sâu sắc. Sau khi thành Ma Cà Rồng vẫn hồn nhiên (ngây thơ nói con người "trông ngon"), cảm xúc phẳng lặng hơn. Từng tự ti vì luôn thua Isaac (#275).
 - Cách nói chuyện: Lễ phép, tôn kính, hoạt bát; gọi Rentt "anh Rentt" (raw: Mister Rentt).
 - Quan hệ: Được Rentt cứu khỏi Khô Lâu, xem là tiền bối đáng kính; từ #195 là quyến thuộc Ma Cà Rồng của Rentt. Tên thật Rina Rogue (#24), con gia đình hiệp sĩ/quý tộc, bỏ nhà vì bị ép hôn; anh trai Idoles Rogue. Tổ đội: Raiz Dunner, Laura Satii (#129). Cùng luyện tập với Alize; học từ Isaac ở dinh thự Latuule.
-- Năng lực (đến #281): Sức mạnh tầm Hạ Cấp Ma Cà Rồng; rút Ma Lực, Thần Lực từ Rentt; Aliumage, Gie Vieros (#225); không sợ Thánh Hỏa; thao túng tâm trí học từ Isaac (#281).
-- Trạng thái (đến #282): Thành Ma Cà Rồng, quyến thuộc của Rentt (#195), giữ kín thân phận. Nhận ủy thác Thiết Cấp hộ vệ nữ thương nhân Dorothea Merrow (#277); bắt thủ lĩnh cướp Guster (được thuê quấy phá Dorothea, #280), giao lính gác (#281). Đang ở làng miền núi; phát hiện Guster (từng bị cô cắn) rời nhà giam tiến lại gần (#282).
+- Năng lực (đến #284): Sức mạnh tầm Hạ Cấp Ma Cà Rồng; rút Ma Lực, Thần Lực từ Rentt; Aliumage, Gie Vieros (#225); không sợ Thánh Hỏa; thao túng tâm trí và khắc dấu ấn quyến thuộc của Gia tộc Latuule học từ Isaac (#281, #284).
+- Trạng thái (đến #286): Thành Ma Cà Rồng, quyến thuộc của Rentt (#195), giữ kín thân phận. Nhận ủy thác Thiết Cấp hộ vệ nữ thương nhân Dorothea Merrow (#277); đánh bại Ma Cà Rồng hoang Amapola (#284), nhờ Isaac thu xếp thu phục Amapola về Gia tộc Latuule (#285); hoàn thành ủy thác hộ vệ Dorothea, giải tỏa mặc cảm tự ti về thực lực và dự định nhận thêm ủy thác độc hành trong lúc chờ Raiz và Laura Satii bình phục (#286).
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -857,27 +857,27 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276); thực chất là thiên kim tiểu thư Thương hội Merrow ở thành phố Mystera, trốn nhà làm thương nhân lữ hành (lộ ở #282), tự lập tách khỏi cha từ hai năm trước.
 - Tính cách: Chăm chỉ, tham vọng tích vốn mở cửa hàng riêng; thận trọng, cảnh giác nhưng ý chí mạnh, tự tôn nghề nghiệp cao; buôn bán khéo, tinh ý (xử lý kín đáo gian lận của trưởng làng, #282). Từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ, ép tăng thù lao (thị trấn Zahak, #276).
 - Quan hệ: Gặp Rina ở Maalt (#277), ban đầu lo vì Rina trẻ, chỉ Thiết Cấp, nhưng đồng cảm sự tự ti của Rina, phục thông tin thực tế và sự trung thực của cô nên thuê. Từng được cha hứa hôn với Dieg Esol (#282).
-- Trạng thái (đến #285): Được giải cứu an toàn sau khi Guster bị Zein bắn hạ; nghe Rina và Isaac giải thích chân tướng sự việc rồi tha thứ cho Dieg (#285).
+- Trạng thái (đến #286): Được giải cứu an toàn, biết chân tướng việc Dieg bị Ma Cà Rồng thao túng và tha thứ cho anh (#285); về lại Maalt gặp cha (Rudo) và cha của Dieg (Jude), chủ động mời Dieg đồng hành làm thương nhân lữ hành dưới sự chúc phúc của hai người cha, hoàn tất ủy thác với Rina và hẹn sẽ thuê lại cô (#286).
 - Xuất hiện từ: #276.
 
 ### Guster
 - Thân phận: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp quanh Làng Muga (kiếm sĩ, cung thủ, ma pháp sư); vốn dân làng nghèo (#279).
 - Tính cách: Thận trọng, đề cao quản lý rủi ro.
 - Vai trò: Nhận tiền của người đàn ông bí ẩn để cản trở, ép Dorothea bỏ nghề (#279).
-- Trạng thái (đến #285): Bị trúng tên của Zein và bất tỉnh sau khi con dao găm phóng ra bị bóng đen của Isaac đánh lệch (#285).
+- Trạng thái (đến #286): Bị trúng tên của Zein và bắt giữ (#285); bị giao cho lính gác ở thị trấn tỉnh lỵ và kết án lao động khổ sai tại các hầm mỏ (#286).
 - Xuất hiện từ: #279.
 
 ### Dieg Esol
 - Thân phận: Nam, nhị thiếu gia Thương hội Esol lâu đời tại thành phố Mystera (#282).
 - Tính cách: Có tài kinh doanh nhưng bị cái bóng anh trai tài giỏi gấp trăm lần che khuất; từng định mưu hại anh để đoạt quyền thừa kế, đến khi được cha hứa hôn với Dorothea (#282).
 - Quan hệ: Khâm phục quyết tâm của Dorothea nên từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi (#282).
-- Trạng thái (đến #285): Ngất xỉu khi Amapola quy phục và thuật mị hoặc giải trừ; tỉnh lại ân hận tạ lỗi với Dorothea và buồn bã chất vấn Amapola (#285).
+- Trạng thái (đến #286): Được giải trừ thuật mị hoặc của Amapola (#285); về Maalt gặp cha là Jude Esol và ông Rudo Merrow, tự xin rời Thương hội Esol để bắt đầu lại từ con số không và nhận lời đồng hành cùng Dorothea làm thương nhân lữ hành (#286).
 - Xuất hiện từ: #282.
 
 ### Amapola
-- Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, thực chất là một Ma Cà Rồng hoang (stray vampire) không thuộc bất kỳ huyết tộc hay gia tộc nào (#284).
+- Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, thực chất là một Ma Cà Rồng hoang (stray vampire) hơn 70 tuổi không thuộc bất kỳ huyết tộc hay gia tộc nào (#284, #285).
 - Vai trò: Kẻ giật dây — dùng thuật mị hoặc chi phối tâm trí Dieg Esol hòng đưa anh ta lên làm chủ thương hội để tìm chốn dung thân an toàn trong xã hội loài người (#282, #284).
-- Trạng thái (đến #285): Được Isaac dùng kỹ năng Phân Liệt gắn lại đầu và chữa lành; chấp thuận để Isaac làm kẻ tạo tác mới và theo anh về Gia tộc Latuule để tìm chốn nương thân an toàn (#285).
+- Trạng thái (đến #286): Được Isaac thu phục (#285) và dàn dựng cái chết giả bằng tro cốt qua phiên xử tử để cắt đuôi Thợ Săn Ma Cà Rồng; về làm hầu gái tại dinh thự Latuule, học được kỹ năng Phân Liệt và đang chịu sự huấn luyện nghiêm khắc của Isaac (#286).
 - Xuất hiện từ: #282.
 
 ### Zein
