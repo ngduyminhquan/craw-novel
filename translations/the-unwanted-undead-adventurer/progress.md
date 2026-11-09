@@ -311,7 +311,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | reviewed |  |
 | 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | done |  |
 | 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | done |  |
-| 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | todo |  |
+| 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | done |  |
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | todo |  |
 | 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | todo |  |
 | 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -986,3 +985,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#305] Xưng hô giữa hai nhân vật bí ẩn ở đoạn kết chưa rõ danh tính — tạm chọn xưng hô bình đẳng 'tôi - cậu' (phương án khác: 'tôi - anh'). → Chốt dùng tôi - cậu cho hai nhân vật bí ẩn ở đoạn kết chương 305. (orchestrator)
 - [#306] Dịch tiêu đề 'Vol 13 Intermission - At a Certain Castle...' — tạm chọn 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ...' (đồng bộ cấu trúc 'Chương đệm Tập X' với #93, #278 và 'Nọ...' cho 'A Certain...' với #12-#15, #294; phương án khác: 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài...'). Tạm dùng trong bản dịch: 'Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ...'. → Chốt tiêu đề Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ... (orchestrator)
 - [#306] Xưng hô của Tavas và Yanshuf Fahalah với Arc Tahadu ('my liege', 'Our liege', 'Lord Arc') — tạm chọn xưng 'tôi', gọi 'Bệ hạ' (cho 'my liege/Our liege' vì Arc là Vua Ma Cà Rồng ngự ngai vàng) và gọi 'Ngài Arc' (cho 'Lord Arc' đồng bộ với tiền lệ 'Ngài [Tên]'); phương án khác: gọi 'Chúa tể Arc', gọi 'Chúa công'. Tạm dùng trong bản dịch: 'tôi - Bệ hạ / Ngài Arc'. → Chốt dùng xưng tôi, gọi Bệ hạ / Ngài Arc theo đúng thiết lập trong context. (orchestrator)
+- [#307] Tiêu đề arc 'A Report and a Request from a Blacksmith' — tạm chọn 'Báo Cáo và Một Ủy Thác từ Thợ Rèn' (nhất quán với #213 'A Request from the Guild' → 'Một Ủy Thác từ Hội' và 'Request' → 'Ủy Thác' ở #294; phương án khác: 'Báo Cáo và Lời Nhờ Cậy từ Thợ Rèn', 'Báo Cáo và Ủy Thác từ Người Thợ Rèn'). Tạm dùng trong bản dịch: 'Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (1)'. → Chốt tiêu đề Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (orchestrator)
+- [#307] Dịch tên thảo dược 'lutedd herbs' — tạm chọn 'thảo dược lutedd' (đồng bộ cách đặt tên thảo dược dạng '[tên] herb' trong glossary như papyr herb, zima herb; phương án khác: 'cỏ lutedd', 'thảo dược Lutedd'). Tạm dùng trong bản dịch: 'thảo dược lutedd'. → Chốt dịch là thảo dược lutedd theo đúng quy chuẩn trong glossary. (orchestrator)

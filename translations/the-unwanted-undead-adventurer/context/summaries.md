@@ -1105,6 +1105,13 @@ Tại Làng Crask, Rentt và Rivul trở về báo tin diệt trừ mối họa 
 Rentt chia sẻ về kế hoạch trở về Maalt rèn giũa kỹ năng căn bản, làm chủ thanh kiếm mới của Clope để chuẩn bị cho kỳ thi thăng hạng Ngân Cấp sau trận chiến khó khăn với Khô Lâu Kỵ Sĩ; Rivul hết lòng cổ vũ và hẹn ngày đón tiếp anh.
 Cảnh kết thúc: Rentt chính thức hoàn thành ủy thác tại Làng Crask, sẵn sàng lên đường trở về Maalt.
 
+## 307
+Rentt trở về Maalt, tới quầy tiếp tân Hội Mạo Hiểm Giả báo cáo hoàn tất ủy thác Làng Crask với Sheila; anh trình bày việc phát hiện ổ sinh Khô Lâu đã được thanh tẩy, việc nhận thảo dược lutedd quý hiếm bồi dưỡng thay cho tiền công tăng thêm, và việc có thương nhân lữ hành thường ghé làng (dù Sheila chỉ ra hồ sơ Hội Thương Nhân không ghi nhận ai đi tuyến này suốt cả thập kỷ).
+Rentt giao nộp Ma Tinh cỡ lớn của Khô Lâu Kỵ Sĩ; Sheila thẩm định con quái vật này mạnh ngang ngửa mạo hiểm giả Hạ Ngân Cấp và dự định phái đoàn khảo sát tới Làng Crask; trước khi Rentt rời đi, Sheila chuyển lời nhắn của thợ rèn Clope muốn giao một ủy thác cho anh thông qua Hội.
+Rentt trở về nhà Lorraine và đưa cho cô xem chiếc cốc kim loại xỉn màu nhặt được ở hang động; Lorraine tò mò xem xét món quà tàn tạ và chuẩn bị pha trà để lắng nghe câu chuyện của Rentt.
+Cảnh kết thúc: Rentt ngồi xuống cùng Lorraine chuẩn bị thưởng trà và giãi bày ngọn ngành về chiếc cốc bí ẩn.
+
+
 
 
 
