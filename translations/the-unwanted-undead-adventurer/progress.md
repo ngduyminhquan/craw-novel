@@ -336,9 +336,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | reviewed |  |
 | 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | reviewed |  |
 | 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | reviewed |  |
-| 332 |  | Chapter_332 - Vol 14 Chapter 3 - Searching the Dungeon (3).txt | Vol 14 Chapter 3 - Searching the Dungeon (3) | done |  |
-| 333 |  | Chapter_333 - Vol 14 Chapter 3 - Searching the Dungeon (4).txt | Vol 14 Chapter 3 - Searching the Dungeon (4) | done |  |
-| 334 |  | Chapter_334 - Vol 14 Chapter 4 - The Return and a New Find (1).txt | Vol 14 Chapter 4 - The Return and a New Find (1) | done |  |
+| 332 |  | Chapter_332 - Vol 14 Chapter 3 - Searching the Dungeon (3).txt | Vol 14 Chapter 3 - Searching the Dungeon (3) | reviewed |  |
+| 333 |  | Chapter_333 - Vol 14 Chapter 3 - Searching the Dungeon (4).txt | Vol 14 Chapter 3 - Searching the Dungeon (4) | reviewed |  |
+| 334 |  | Chapter_334 - Vol 14 Chapter 4 - The Return and a New Find (1).txt | Vol 14 Chapter 4 - The Return and a New Find (1) | reviewed |  |
 | 335 |  | Chapter_335 - Vol 14 Chapter 4 - The Return and a New Find (2).txt | Vol 14 Chapter 4 - The Return and a New Find (2) | todo |  |
 | 336 |  | Chapter_336 - Vol 14 Chapter 4 - The Return and a New Find (3).txt | Vol 14 Chapter 4 - The Return and a New Find (3) | todo |  |
 | 337 |  | Chapter_337 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1) | todo |  |

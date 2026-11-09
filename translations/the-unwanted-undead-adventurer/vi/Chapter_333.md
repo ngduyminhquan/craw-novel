@@ -2,7 +2,7 @@
 
 Có một điều chắc chắn là: chỉ dạy cho Niedz cùng các bạn của cậu ta cũng là cơ hội học hỏi quý báu đối với bản thân tôi. Nó giúp tôi ôn lại những điều căn bản, và thật bất ngờ, một vài điểm cần cải thiện mà tôi nhận thấy trong từng động tác của họ lại khiến tôi phải nhìn nhận lại chính những chuyển động của bản thân.
 
-Dẫu vậy, tôi không thể cứ đứng ngoài khoanh tay rồi săm soi lỗi của họ mãi được. Dù cả ba người đều biết Diego và tôi thừa sức tự lo liệu—xét việc bọn tôi từng đánh bại họ tơi bời trong trận ẩu đả—nhưng cũng khó trách nếu họ nghĩ rằng chúng tôi chỉ đang lợi dụng họ làm bia dọn dẹp lũ quái vật cỏ rác để tiến sâu hơn vào mê cung.
+Dẫu vậy, tôi không thể cứ đứng ngoài khoanh tay rồi săm soi lỗi của họ mãi được. Dù cả ba người đều biết Diego và tôi thừa sức tự lo liệu—xét việc bọn tôi từng đánh bại họ hoàn toàn khi giao đấu—nhưng cũng khó trách nếu họ nghĩ rằng chúng tôi chỉ đang dùng họ để dọn dẹp lũ quái tép riu trên đường tiến sâu hơn vào mê cung.
 
 Nghĩ vậy thì cũng chẳng hoàn toàn sai, nhưng nếu chúng tôi chỉ làm mỗi chuyện đó thì dần dà họ sẽ nảy sinh lòng ấm ức. Dù biết chúng tôi không hề có ác ý, nhưng khi bộ ba ngày một kiệt sức, khó tránh khỏi việc họ bắt đầu tự hỏi liệu chúng tôi có coi họ chẳng khác gì nô lệ hay không. Nảy sinh mối nghi ngờ như thế cũng là lẽ thường tình.
 
@@ -48,7 +48,7 @@ Tôi chưa từng thấy cô ấy làm vậy bao giờ, nhưng có lẽ chí ít
 
 Tôi bám theo sau Capitan khi chú ấy bước vào trong, còn Diego dẫn đám học trò theo sau tôi. Tất cả chúng tôi đều đã rút sẵn vũ khí, chuẩn bị cho một cuộc tập kích bất ngờ, nhưng có vẻ đây không phải kiểu phòng thủ lĩnh như vậy. Thay vào đó, một sinh vật khổng lồ đang lơ lửng ngay giữa căn phòng, tỏa ra thứ áp lực áp đảo khi lặng lẽ dõi mắt nhìn chúng tôi.
 
-Con quái vật có tên Đại Khôi Ngư, quả đúng như tên gọi của nó, dài khoảng năm mét với toàn thân bao phủ bởi một lớp vảy kim loại. Dù vốn dĩ nó là quái vật thủy sinh, nghĩa là cần có nước mới sống nổi chứ đừng nói tới chuyện bơi lội vòng quanh, nhưng việc mê cung phá vỡ các quy luật tự nhiên thì chẳng có gì mới mẻ. Rõ ràng không gian trong căn phòng này có điều gì đó đặc biệt cho phép con quái vật "bơi" giữa không trung.
+Con quái vật có tên Đại Khôi Ngư, quả đúng như tên gọi của nó, to cao khoảng năm mét với toàn thân bao phủ bởi một lớp vảy kim loại. Dù vốn dĩ nó là quái vật thủy sinh, nghĩa là cần có nước mới sống nổi chứ đừng nói tới chuyện bơi lội vòng quanh, nhưng việc mê cung phá vỡ các quy luật tự nhiên thì chẳng có gì mới mẻ. Rõ ràng không gian trong căn phòng này có điều gì đó đặc biệt cho phép con quái vật "bơi" giữa không trung.
 
 Hoặc giả, mê cung đã ban cho Đại Khôi Ngư—và chắc chắn đó là một con Đại Khôi Ngư, xét theo số lần nó từng bị săn trong quá khứ—khả năng bay lơ lửng và hít thở oxy. Người ta chưa từng phát hiện bất kỳ cơ quan nào mang lại những năng lực ấy bên trong cơ thể nó, nhưng có lẽ nó làm được điều đó nhờ vào Ma Lực.
 
@@ -158,13 +158,13 @@ Nếu may mắn tột cùng, người ta cũng có thể tình cờ bắt gặp 
 
 "Hy vọng đó là hải linh thảo," tôi nhận xét.
 
-Chú ấy gật đầu đáp lại. Dù sao thì đó cũng là mục đích chú ấy đến đây. Nếu chúng tôi tìm thấy chúng ngay tại đây, cả nhóm có thể rời khỏi nơi này, và chú ấy có thể dành toàn bộ thời gian còn lại để phụ đạo cho tôi. Dù tôi sẽ chiếm mất thời gian làm công việc thợ săn thường ngày của chú, nhưng đằng nào chú ấy cũng đã gác lại việc đó suốt một thời gian dài vì chuyện hải linh thảo rồi, vả lại đám đệ tử ở làng cũng thừa sức gánh vác trách nhiệm của chú trong lúc chú vắng mặt.
+Chú ấy gật đầu đáp lại. Dù sao thì đó cũng là mục đích chú ấy đến đây. Nếu chúng tôi tìm thấy chúng ngay tại đây, cả nhóm có thể rời khỏi nơi này, và chú ấy có thể dành toàn bộ thời gian còn lại để phụ đạo cho tôi. Dù tôi sẽ chiếm mất thời gian làm công việc thợ săn thường ngày của chú ấy, nhưng đằng nào chú ấy cũng đã gác lại việc đó suốt một thời gian dài vì chuyện hải linh thảo rồi, vả lại đám đệ tử ở làng cũng thừa sức gánh vác công việc trong lúc chú ấy vắng mặt.
 
-Tôi cũng dự định sẽ trả thù lao cho thời gian chú ấy bỏ ra, dù tôi biết chú có thể sẽ từ chối. Nhưng điều tôi muốn nói là chúng tôi càng sớm tìm thấy hải linh thảo thì càng tốt.
+Tôi cũng dự định sẽ trả thù lao cho thời gian chú ấy bỏ ra, dù biết có thể chú ấy sẽ từ chối. Nhưng điều tôi muốn nói là chúng tôi càng sớm tìm thấy hải linh thảo thì càng tốt.
 
 "Từ trước tới giờ chưa từng có ghi chép nào về việc con thủ lĩnh này rớt ra hải linh thảo cả đâu," Diego ái ngại nói.
 
-Mặc kệ Capitan và tôi đang rầu rĩ vì tin sét đánh đó, Lukas hào hứng lên tiếng. "M-Mau mở ra xem đi ạ!" cậu ta vừa nói vừa tiến lại gần. Bất chấp việc hẳn đang kiệt sức sau trận chiến, đôi mắt cậu ta vẫn sáng lên lấp lánh.
+Mặc kệ Capitan và tôi đang rầu rĩ vì tin sét đánh đó, Lukas hào hứng lên tiếng. "M-Mau mở ra xem đi!" cậu ta vừa nói vừa tiến lại gần. Bất chấp việc hẳn đang kiệt sức sau trận chiến, đôi mắt cậu ta vẫn sáng lên lấp lánh.
 
 Nói rõ hơn thì, chiếc rương kho báu này mang hình dáng một chiếc bình bắt bạch tuộc bám đầy hà với nắp đậy bằng gỗ, được buộc chặt bằng một sợi dây thừng.
 
@@ -172,11 +172,11 @@ Hừm. Thoạt nhìn thì cũng đầy hứa hẹn đấy, nhưng liệu nó có
 
 Lukas tháo sợi dây rồi mở nắp ra, để lộ...
 
-"Một... thẻ gỗ ư?" Lukas nói với vẻ khó tin. "Thứ này là cái gì thế ạ?" Trong tay cậu ta, đúng như lời vừa thốt ra, là một vật trông chẳng khác gì một khúc gỗ bình thường.
+"Một... thẻ gỗ ư?" Lukas nói với vẻ khó tin. "Thứ này là cái gì thế?" Trong tay cậu ta, đúng như lời vừa thốt ra, là một vật trông chẳng khác gì một khúc gỗ bình thường.
 
 Thế nhưng Diego dường như lại nghĩ khác. "Ồ? Món này tìm được là khá hời đấy."
 
-"Nó có gì tốt vậy anh?" tôi hỏi.
+"Nó có gì hay vậy?" tôi hỏi.
 
 Diego đón lấy miếng thẻ gỗ từ tay Lukas. "Nhìn đi. Anh có thấy những hoa văn tinh xảo được khắc trên bề mặt không?"
 
@@ -198,13 +198,13 @@ Diego bật cười khẽ rồi tiếp tục: "Nói là vậy chứ chẳng có 
 
 "Chưa hẳn," Diego nói. "Có những món chẳng hề có hoa văn nào cả. Cơ mà để nghe giải thích cặn kẽ hơn thì anh phải hỏi một học giả chuyên về nguyền rủa cơ. Họ có thể phân biệt chúng với ma cụ thông thường nhờ những kết giới đặc biệt không cho các vật phẩm bị nguyền rủa đi qua—dù thi thoảng vẫn có vài món Nguyền Cụ là ngoại lệ. Thành thật mà nói, ngay cả định nghĩa thế nào là 'Nguyền Cụ' cũng rất mơ hồ. Ngoài những món đã được ghi chép tường tận trong tài liệu ra, việc vạch rõ ranh giới phân biệt giữa chúng lúc nào cũng là một bài toán khó."
 
-Lorraine cũng từng nói điều tương tự như vậy. Cô ấy tuyệt nhiên không phải chuyên gia về nguyền rủa, nhưng mọi hiện tượng liên quan đến Ma Lực đều là sở trường của cô. Vương Quốc Yaaran không có nhiều Nguyền Cụ cho lắm nên cô ấy chưa dành nhiều tâm huyết nghiên cứu về chúng, nhưng tôi tin chắc nếu tập trung vào lĩnh vực này, cô ấy sẽ đuổi kịp trình độ hiểu biết của một chuyên gia chỉ trong nháy mắt.
+Lorraine cũng từng nói điều tương tự như vậy. Cô ấy tuyệt nhiên không phải chuyên gia về nguyền rủa, nhưng mọi hiện tượng liên quan đến Ma Lực đều là sở trường của cô ấy. Vương Quốc Yaaran không có nhiều Nguyền Cụ cho lắm nên cô ấy chưa dành nhiều tâm huyết nghiên cứu về chúng, nhưng tôi tin chắc nếu tập trung vào lĩnh vực này, cô ấy sẽ đuổi kịp trình độ hiểu biết của một chuyên gia chỉ trong nháy mắt.
 
-Hừm... Có khi tôi nên dẫn cô ấy đi cùng mới phải. Dẫu vậy, có lẽ cô ấy vẫn thấy rất thoải mái khi ở lại đó, xét việc cô học hỏi được biết bao điều từ bà Gharb và ông già tôi. Đến lúc tôi quay lại Hathara, khoảng cách trình độ giữa hai chúng tôi có lẽ sẽ còn bị nới rộng hơn nữa. Nghĩ đến thôi cũng thấy đáng sợ rồi.
+Hừm... Có khi tôi nên dẫn cô ấy đi cùng mới phải. Dẫu vậy, có lẽ cô ấy vẫn thấy rất thoải mái khi ở lại đó, xét việc cô ấy học hỏi được biết bao điều từ bà Gharb và cha tôi. Đến lúc tôi quay lại Hathara, khoảng cách trình độ giữa hai chúng tôi có lẽ sẽ còn bị nới rộng hơn nữa. Nghĩ đến thôi cũng thấy đáng sợ rồi.
 
 "Muốn bàn tán gì thì cứ để lúc quay về thị trấn hãy bàn," Capitan ngắt lời.
 
-"Chúng ta quay về sao?" tôi hỏi. "Sớm thế ạ?"
+"Chúng ta quay về sao?" tôi hỏi. "Sớm thế à?"
 
 "Khi nào xuống tới tầng giữa thì về," chú ấy xác nhận. "Theo những gì tôi tìm hiểu thì ở đó có một thiết bị dịch chuyển đặc biệt."
 

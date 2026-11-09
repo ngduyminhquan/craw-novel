@@ -2,7 +2,7 @@
 
 "Vậy ra đây là thiết bị dịch chuyển," Capitan lẩm bẩm, vẻ mặt có chút kỳ lạ. "Hừm..."
 
-Chú ấy đang chăm chú nhìn khối tinh thể lớn màu tím lơ lửng ngay giữa gian đền đá nhỏ mà chúng tôi vừa bước vào. Tôi khá chắc mình hiểu lý do chú lại có vẻ mặt như vậy: khối tinh thể này trông khác xa những thiết bị dịch chuyển mà Capitan vốn quen thuộc.
+Chú ấy đang chăm chú nhìn khối tinh thể lớn màu tím lơ lửng ngay giữa gian đền đá nhỏ mà chúng tôi vừa bước vào. Tôi khá chắc mình hiểu lý do chú ấy lại có vẻ mặt như vậy: khối tinh thể này trông khác xa những thiết bị dịch chuyển mà Capitan vốn quen thuộc.
 
 Bản thân tôi cũng thấy hơi lạ. Vì đây là mê cung, tôi cứ ngỡ nó phải là một ma pháp trận y hệt cái từng kết nối Làng Hathara với mê cung dưới lòng đất khổng lồ của Hiền Vương Felt. Liệu có lý do nào khiến cái này mang hình dạng khác không? Hay thực ra nó cũng vận hành theo cùng một cơ chế nền tảng, chỉ là bọn tôi nông cạn nên không hiểu nổi?
 
@@ -34,7 +34,7 @@ Ba người học việc nãy giờ đứng nghe ngóng câu chuyện từ phía
 
 "Lý do họ hạn chế thông tin ngay từ đầu là để ngăn đám mạo hiểm giả cấp thấp tự mãn nghĩ rằng chỉ cần ngần ấy là đủ để mò xuống đây," Diego giải thích. "Ở bất kỳ quốc gia hay thành phố nào cũng vậy, phần lớn cò thông tin đều hợp tác với Hội để đảm bảo các kiến thức liên quan chỉ đến tay những mạo hiểm giả có trình độ tương xứng. Dĩ nhiên có vài kẻ làm việc ngoài hệ thống, nhưng bọn chúng thường dính líu đến thế giới ngầm nên rất nguy hiểm. Tôi không cấm tiệt các cậu tiết lộ những gì tôi vừa nói—chỉ cần nhớ đừng nói sai người, kẻo tự rước họa vào thân đấy."
 
-"R-Rõ rồi ạ." Niedz gật đầu, vẻ mặt hơi hoảng hốt. "Tôi hiểu rồi."
+"R-Rõ rồi." Niedz gật đầu, vẻ mặt hơi hoảng hốt. "Tôi hiểu rồi."
 
 Diego gật đầu hài lòng, rồi hất đầu về phía thiết bị dịch chuyển.
 
@@ -78,7 +78,7 @@ Chúng tôi trầm mình xuống nước và bắt đầu chuyến hành trình 
 
 Sau chuyến thám hiểm, chúng tôi quay về nhà anh ấy—nơi cả nhóm đã chọn làm căn cứ hoạt động. Capitan từng thuê phòng riêng ở một quán trọ, nhưng hiện đang thu dọn hành lý để chuyển qua đây.
 
-Chúng tôi quyết định đặt đại bản doanh ở nhà Diego vì cả nhóm đã cùng lập đội trong suốt thời gian thám hiểm mê cung, vả lại còn chia sẻ chung mục tiêu huấn luyện Niedz cùng các bạn của cậu ta. Nói một cách đơn giản, mọi chuyện sẽ dễ dàng hơn rất nhiều nếu tất cả chúng tôi ở cùng một chỗ. Chẳng cần phải nhọc công nhắn tin qua lại khắp cả thành phố làm gì. May mắn thay, nhà Diego còn vài phòng trống nên chỗ ở không thành vấn đề.
+Chúng tôi quyết định đặt đại bản doanh ở nhà Diego vì cả nhóm đã cùng lập đội trong suốt thời gian thám hiểm mê cung, vả lại còn chia sẻ chung mục tiêu huấn luyện Niedz cùng các bạn của cậu ta. Nói một cách đơn giản, mọi chuyện sẽ dễ dàng hơn rất nhiều nếu tất cả chúng tôi ở cùng một chỗ. Chẳng cần phải nhọc công chuyển lời nhắn qua lại khắp cả thành phố làm gì. May mắn thay, nhà Diego còn vài phòng trống nên chỗ ở không thành vấn đề.
 
 Lúc này, người bán đồ nguyền đang mải mê cắm cúi nghiên cứu cuốn sách tra cứu dày cộp, vừa nhìn qua nhìn lại giữa cuốn sách và miếng thẻ gỗ đặt trên bàn bên cạnh vừa lẩm bẩm càu nhàu một mình. Tôi tò mò không biết anh ấy có tiến triển gì không, nhưng...
 
@@ -108,9 +108,9 @@ Diego lật sang một loạt trang có hình minh họa các món vũ khí trư
 
 Đôi khi tôi cũng lo chiếc mặt nạ đầu lâu cùng tấm áo choàng khiến mình trông quá giống một kẻ phản diện, nhưng trong giới mạo hiểm giả thì tôi đâu phải là thiểu số. Rất nhiều người trong chúng tôi chọn trang phục màu tối. Một phần đơn giản là vì chúng che giấu vết sờn rách và hao mòn tốt hơn—dù sao thì, dẫu có chăm chút vũ khí và áo giáp kỹ đến đâu, một mức độ hư hại nhất định là điều không thể tránh khỏi. Thế nên giấu đi được chừng nào thì hay chừng ấy.
 
-Ăn mặc nhếch nhác thì dễ để lại ấn tượng xấu cho thân chủ, kéo theo việc họ sẽ đánh giá ủy thác của bạn tệ không kém. Đó là lý do các mạo hiểm giả lão luyện thường ăn mặc khá giản dị, trong khi đám lính mới lại thích những bộ cánh màu mè hơn. Dĩ nhiên cũng có ngoại lệ—vài mạo hiểm giả cực kỳ lừng danh ăn vận theo cách chỉ cần liếc qua là nhận ra ngay thân phận, bởi làm vậy có thể thu hút thêm nhiều ủy thác—chưa kể còn dọa cho những kẻ muốn gây sự phải chùn bước, cùng nhiều cái lợi khác nữa.
+Ăn mặc nhếch nhác thì dễ để lại ấn tượng xấu cho thân chủ, kéo theo việc họ cũng sẽ đánh giá kết quả ủy thác tệ không kém. Đó là lý do các mạo hiểm giả lão luyện thường ăn mặc khá giản dị, trong khi đám lính mới lại thích những bộ cánh màu mè hơn. Dĩ nhiên cũng có ngoại lệ—vài mạo hiểm giả cực kỳ lừng danh ăn vận theo cách chỉ cần liếc qua là nhận ra ngay thân phận, bởi làm vậy có thể thu hút thêm nhiều ủy thác—chưa kể còn dọa cho những kẻ muốn gây sự phải chùn bước, cùng nhiều cái lợi khác nữa.
 
-"Tôi đoán là giá cả gắn liền với những hiệu ứng đó không cao lắm, đúng chứ?" tôi hỏi.
+"Tôi đoán những món mang hiệu ứng kiểu đó thì giá chẳng cao lắm, đúng chứ?" tôi hỏi.
 
 "Phải," Diego xác nhận. "Dù sao thì anh chỉ cần đem vũ khí đi sơn là xong. Cường hóa bằng thẻ thì tiện hơn đôi chút vì màu sẽ không bao giờ bị bong tróc, nhưng đó chỉ là yếu tố phụ chẳng đáng bận tâm. Và chẳng cần phải nói, những miếng thẻ có hiệu ứng chưa rõ hầu như chẳng bán được bao nhiêu tiền, xét đến nguy cơ vớ phải thứ gì đó nguy hiểm."
 
@@ -122,7 +122,7 @@ Diego lật sang một loạt trang có hình minh họa các món vũ khí trư
 
 "Trong lúc thám hiểm có thể chúng ta sẽ bắt gặp một, hai món vũ khí để đem ra thử nghiệm. Khả năng tìm thấy những vật phẩm như thế sẽ tăng lên ở các tầng giữa trở xuống. Tỉ lệ cao nhất dĩ nhiên là ở đáy mê cung, nhưng tôi không nghĩ chúng ta đủ mạnh để đối phó với lũ quái vật dưới đó đâu."
 
-"Hỏi để tham khảo thôi, anh nghĩ chúng ta cần phải mạnh cỡ nào?"
+"Hỏi để tham khảo thôi, anh nghĩ người ta cần phải mạnh cỡ nào mới xuống đó được?"
 
 "Tôi đoán là cần từ ba mạo hiểm giả Kim Cấp trở lên."
 

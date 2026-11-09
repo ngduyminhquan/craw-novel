@@ -18,7 +18,7 @@ Người bán đồ nguyền chỉ hơi ngạc nhiên một chút khi biết tô
 
 "Bây giờ thì dùng được, phải, nhưng trước đây đâu phải lúc nào cũng vậy," Capitan đáp. "Chính xác hơn là hồi đó thằng bé dùng được, nhưng dù có bỏ bao nhiêu công sức thì lượng tích trữ cũng chẳng tăng lên được tí nào. Đáng tiếc thật đấy, bởi nó là một trong những đứa hiếm hoi có biệt tài về sự cần cù. Cơ mà thằng bé lại mang một thể chất đặc dị khiến Khí Lực không thể lớn mạnh thêm—đó là điều mà nhờ có nó tôi mới nhận ra."
 
-Nghe những lời của Capitan thì hơi nản lòng một chút, nhưng qua giọng điệu của chú ấy, tôi hiểu chú không hề xem đó là thất bại của tôi, mà là một bài học chú rút ra về giới hạn của bản thân trong vai trò người thầy. Về phần mình, tôi thấy chú chẳng có lý do gì phải thất vọng về bản thân cả—dạy được tôi cách sử dụng Khí Lực tự nó đã là một thành tựu lớn rồi, chưa kể chú còn dạy tôi cả kiếm thuật lẫn kỹ năng sinh tồn nữa. Không có chú ấy, tôi sẽ chẳng bao giờ có thể trở thành một mạo hiểm giả.
+Nghe những lời của Capitan thì hơi nản lòng một chút, nhưng qua giọng điệu của chú ấy, tôi hiểu chú không hề xem đó là thất bại của tôi, mà là một bài học chú rút ra về giới hạn của bản thân trong vai trò người thầy. Về phần mình, tôi thấy chú ấy chẳng có lý do gì phải thất vọng về bản thân cả—riêng chuyện dạy được tôi cách dùng Khí Lực đã là một thành tựu lớn rồi, huống hồ chú ấy còn dạy tôi cả kiếm thuật lẫn kỹ năng sinh tồn nữa. Không có chú ấy, tôi sẽ chẳng bao giờ có thể trở thành một mạo hiểm giả.
 
 "Bất ngờ thật đấy—tôi thấy anh ấy trông rất cừ mà." Diego nhìn sang tôi. "Vậy ra Khí Lực từng là điểm yếu của anh à?"
 
@@ -46,7 +46,7 @@ Có điều tôi lại thấy tò mò về các loại nước ngâm thảo dư�
 
 Diego lắc đầu. "Dĩ nhiên là không rồi. Nước ngâm thảo dược thì còn đỡ, chứ người ta đã gọi là bí dược màu nhiệm thì đều có lý do cả. Chỉ có các dược sư của Giáo Hội mới nắm được công thức thôi. Ít nhất thì ở đền thờ Thần Giám Định chuyện là như vậy. Bọn tôi đặc biệt nghiêm ngặt về khoản đó, xét theo đặc thù giáo lý của mình."
 
-Cũng có lý—một ngôi đền toàn các giám định sư thì có khi chỉ cần nhìn qua danh sách nguyên liệu cần mua là đã suy ra được công thức rồi. Phần còn lại chỉ là thử nghiệm và sai sót cho tới khi tìm ra cách điều chế chuẩn xác. Nghiên cứu sẽ dễ dàng hơn nhiều khi anh biết chắc chắn có một thành phẩm khả thi đang chờ ở đích đến, thay vì cứ lần mò trong vô vọng hướng tới một mục tiêu mơ hồ.
+Cũng có lý—một ngôi đền toàn các giám định sư thì có khi chỉ cần nhìn qua danh sách nguyên liệu cần mua là đã suy ra được công thức rồi. Phần còn lại chỉ là thử nghiệm và sai sót cho tới khi tìm ra cách điều chế chuẩn xác. Việc nghiên cứu sẽ dễ dàng hơn nhiều khi người ta biết chắc có một thành phẩm khả thi đang chờ ở đích đến, thay vì cứ mò mẫm hướng tới một mục tiêu mơ hồ.
 
 "Ừ, nghe hợp lý đấy," tôi thừa nhận. "Vậy tôi sẽ gác chuyện bí dược sang một bên. Thế còn nước ngâm thảo dược thì sao?"
 
@@ -54,7 +54,7 @@ Cũng có lý—một ngôi đền toàn các giám định sư thì có khi ch�
 
 "Phải. Tôi từng bảo với anh là mình dùng được Thần Lực rồi đúng không? Nếu có cách để mạnh lên, tôi cũng muốn thử xem sao."
 
-"Tôi hiểu mà. Cơ mà anh khao khát sức mạnh hơn vẻ ngoài nhiều đấy... À không, có lẽ dùng từ 'hơn ấn tượng anh mang lại' thì đúng hơn là 'vẻ ngoài'."
+"Tôi hiểu mà. Có điều anh khao khát sức mạnh hơn vẻ bề ngoài nhiều đấy... À không, nói là 'hơn cái vẻ anh thể hiện ra' thì đúng hơn."
 
 Ừ thì, chiếc mặt nạ đầu lâu và tấm áo chùng sẫm màu quả thực khá hợp với cái hình tượng thèm khát sức mạnh đó. Cơ mà hành xử của tôi thì sao chứ? Đúng là tôi không đến mức nghênh ngang đi khắp nơi lùng sục mọi cách để mạnh lên, nhưng... "Mục tiêu của tôi là một ngày nào đó trở thành Mithril Cấp mà," tôi nói. "Thế nên tôi cần sức mạnh. Càng nhiều càng tốt."
 
@@ -74,7 +74,7 @@ Diego tỏ vẻ ngạc nhiên khi thấy Capitan đồng ý lời thỉnh cầu 
 
 Diego nói không sai. Phần lớn các ma pháp sư và học giả đều ghét việc chia sẻ bí mật nghiên cứu của mình cho kẻ khác. Một đệ tử chân truyền thì không sao—dù gì người ta cũng cần người kế thừa di sản—nhưng chuyện đó còn cách rất xa việc để cho cả thế giới cùng biết. Dĩ nhiên, thái độ thường sẽ thay đổi khi danh lợi xen vào... nhưng ngay cả khi đó, việc giấu lại những ngón nghề tinh túy nhất vẫn là chuyện thường tình.
 
-Lối suy nghĩ này bắt nguồn từ quan niệm rằng việc chia sẻ những gì làm nên sự đặc biệt của bản thân chẳng khác nào tự bắn vào chân mình, và theo một khía cạnh nào đó thì điều ấy hoàn toàn đúng—nhất là trong các lĩnh vực ma thuật và võ thuật. Suy cho cùng, nếu chẳng ai biết ma pháp của anh vận hành ra sao, làm sao họ có thể phòng bị trước nó? Nghe thật khắc nghiệt, nhưng thực tế thế giới này vốn dĩ đã khắc nghiệt như vậy rồi.
+Lối suy nghĩ này bắt nguồn từ quan niệm rằng việc chia sẻ những gì làm nên sự đặc biệt của bản thân chẳng khác nào tự bắn vào chân mình, và theo một khía cạnh nào đó thì điều ấy hoàn toàn đúng—nhất là trong các lĩnh vực ma thuật và võ thuật. Suy cho cùng, nếu chẳng ai biết ma pháp của mình vận hành ra sao thì làm sao người ta phòng bị trước nó được? Nghe thật khắc nghiệt, nhưng thực tế thế giới này vốn dĩ đã khắc nghiệt như vậy rồi.
 
 Dẫu vậy, ngoài kia vẫn có rất nhiều người không nghĩ theo cách đó. Capitan chính là một ví dụ điển hình.
 
@@ -84,7 +84,7 @@ Dẫu vậy, ngoài kia vẫn có rất nhiều người không nghĩ theo cách
 
 "Vả lại, như tôi đã nói, ai cũng có Khí Lực. Nghĩa là chỉ cần khổ luyện đủ nhiều, ai cũng có thể học cách sử dụng nó. Nhưng đồng thời cậu cũng cần phải cần cù—đây không phải thứ có thể tiếp thu chỉ qua vài lời giảng giải. Cho nên việc tôi truyền đạt chút kiến thức của mình chẳng khiến tôi chịu thiệt thòi gì cả."
 
-Giọng Capitan nghe đầy vẻ tự tin, và chú ấy hoàn toàn có lý do để nghĩ vậy. Cho dù hôm nay Diego có bắt đầu học cách sử dụng Khí Lực đi chăng nữa, anh ấy cũng chẳng đời nào đuổi kịp Capitan. Ý tôi là, tôi đã kiên trì suốt mười năm ròng rã mà vẫn chưa thể chạm tới được ngưỡng kỹ năng của người thầy cũ. Một phần là do chú ấy chưa dạy tôi những chi tiết tinh vi hơn, nhưng lý do lớn nhất hiển nhiên là thời gian. Khi người dẫn đầu cuộc đua cũng đang chạy miệt mài hệt như bạn, bắt kịp họ chẳng phải chuyện dễ dàng gì.
+Giọng Capitan nghe đầy vẻ tự tin, và chú ấy hoàn toàn có lý do để nghĩ vậy. Cho dù hôm nay Diego có bắt đầu học cách sử dụng Khí Lực đi chăng nữa, anh ấy cũng chẳng đời nào đuổi kịp Capitan. Ý tôi là, tôi đã kiên trì suốt mười năm ròng rã mà vẫn chưa thể chạm tới được ngưỡng kỹ năng của người thầy cũ. Một phần là do chú ấy chưa dạy tôi những chi tiết tinh vi hơn, nhưng lý do lớn nhất hiển nhiên là thời gian. Khi người dẫn đầu cuộc đua cũng đang miệt mài chạy chẳng kém gì mình, muốn bắt kịp họ đâu phải chuyện dễ dàng.
 
 Diego tỏ vẻ bị thuyết phục trước lập luận của Capitan. "Nếu vậy thì tôi xin nhờ ông chỉ giáo cho," anh ấy nói. "Cảm ơn ông. Nói trước là tôi không định truyền rộng rãi ra ngoài đâu."
 
@@ -112,11 +112,11 @@ Vừa thấy tôi tiến đến từ phía sau, Lukas đã nhận ra ngay. "Đ�
 
 "Đại loại thế," tôi đáp. "Hai cậu ráng trụ vững thêm một chút nữa đi. Tôi lên bọc lót cho Niedz trước đã."
 
-Ở phía trước, chân Niedz đã bắt đầu lảo đảo. Tôi thực sự ấn tượng trước những nỗ lực của cậu ta—dù rằng về mặt kỹ thuật thì chính chúng tôi đã ép cậu vào thế này. Cậu ta vẫn đang gạt đỡ các đòn đánh của con Hạ Cấp Sahagin, nhưng trông cứ như thể sắp đánh rơi thanh kiếm tới nơi. Rồi đúng lúc sự tập trung của cậu phân tán trong một khoảnh khắc ngắn ngủi, một trong những con quái vật cá đã chớp lấy sơ hở, bước tới đâm ngọn lao về phía Niedz.
+Ở phía trước, chân Niedz đã bắt đầu lảo đảo. Tôi thực sự ấn tượng trước những nỗ lực của cậu ta—dù thực chất chính chúng tôi đã ép cậu ta vào thế này. Cậu ta vẫn đang gạt đỡ các đòn đánh của con Hạ Cấp Sahagin, nhưng trông cứ như sắp đánh rơi thanh kiếm tới nơi. Rồi đúng lúc sự tập trung của cậu ta phân tán trong một khoảnh khắc ngắn ngủi, một trong những con quái vật cá đã chớp lấy sơ hở, bước tới đâm ngọn lao về phía Niedz.
 
 Đòn đâm ấy không bao giờ chạm tới đích. Lẽ dĩ nhiên là vì tôi đã chặn đứng nó lại.
 
-"R-Rentt?" Niedz hổn hển thốt lên giữa những nhịp thở dốc. "Chẳng phải anh bảo... là sẽ không... giúp cơ mà?" Mồ hôi cậu ta tuôn ra như tắm, và ánh mắt cho thấy cậu đã cận kề ngưỡng bất tỉnh hoàn toàn. Việc cậu ta vẫn còn đủ can trường để nở nụ cười mà nói ra những lời ấy quả là đáng nể thật.
+"R-Rentt?" Niedz hổn hển thốt lên giữa những nhịp thở dốc. "Chẳng phải anh bảo... là sẽ không... giúp cơ mà?" Mồ hôi cậu ta tuôn ra như tắm, và ánh mắt cho thấy cậu ta đã cận kề ngưỡng bất tỉnh hoàn toàn. Việc cậu ta vẫn còn đủ can trường để nở nụ cười mà nói ra những lời ấy quả là đáng nể thật.
 
 "Cậu vẫn còn đủ sức để nói câu đó thì khéo chẳng cần tôi giúp đâu nhỉ," tôi trêu. "Hay là để tôi mặc kệ cậu đánh tiếp nhé?"
 
@@ -126,7 +126,7 @@ Chẳng có gì bất ngờ; xem ra ngay cả Niedz cũng không đến nỗi ng
 
 Tôi gật đầu, vung kiếm lên rồi truyền Khí Lực vào thân kiếm. Ma Lực sẽ giúp tăng cường khả năng chém đứt, nhưng đối phó với lớp vảy cứng cáp thì lựa chọn này chắc ăn hơn, chưa kể còn dễ dàng hơn nhiều. Khí Lực cũng có thể dùng để chém, nhưng tôi có thể bỏ qua toàn bộ công đoạn đó mà truyền thẳng lực đòn đánh vào tận lục phủ ngũ tạng của con quái vật.
 
-Tôi vung lưỡi kiếm về phía con Hạ Cấp Sahagin, nhát kiếm lướt qua cơ thể nó ngọt xớt, để lại vết thương toác vỡ dữ dội từ bên trong.
+Tôi vung lưỡi kiếm về phía con Hạ Cấp Sahagin, nhát kiếm lướt nhẹ nhàng qua cơ thể nó, để lại vết thương toác vỡ dữ dội từ bên trong.
 
 Niedz trừng mắt nhìn tôi, vẻ mặt đầy kinh hãi. "Cái đòn đó... nhìn phát khiếp thật đấy," cậu ta thốt lên.
 
@@ -148,7 +148,7 @@ Con thứ nhất mải mê tập trung vào trận chiến trước mặt đến
 
 Lukas, người dường như tưởng rằng trận chiến đã kết thúc khi thấy hai cái đầu bay lên, liền quay sang nhìn tôi. "Đại ca Rentt! Đại ca cứu— Oái!"
 
-May thay, ánh mắt nghiêm khắc nhắc nhở mà tôi phóng về phía cậu ta đã truyền tải được thông điệp, và cậu đã phản xạ kịp thời. Phản xạ trước cái gì ư? Thì trước ngọn lao vừa đâm thẳng về phía cậu từ cái xác không đầu của một trong hai con Hạ Cấp Sahagin chứ đâu.
+May thay, ánh mắt nghiêm khắc nhắc nhở mà tôi phóng về phía cậu ta đã truyền tải được thông điệp, và cậu ta đã phản xạ kịp thời. Phản xạ trước cái gì ư? Thì trước ngọn lao vừa đâm thẳng về phía cậu ta từ cái xác không đầu của một trong hai con Hạ Cấp Sahagin chứ đâu.
 
 Lời này nói ra từ miệng tôi thì nghe hơi mỉa mai một chút, nhưng nếu cứ đinh ninh rằng quái vật bị chém đứt đầu là sẽ lăn ra chết ngay tắp lự, thì tức là đang tự rước họa vào thân đấy. Hạ Cấp Sahagin cũng không phải ngoại lệ—ít nhất thì sinh lực dồi dào trong cơ thể cũng đủ để chúng giãy giụa thêm chốc lát. Dĩ nhiên, vì không phải Undead như tôi nên các chức năng cơ thể của chúng sẽ suy giảm nghiêm trọng và chẳng bao lâu nữa sẽ thực sự chết hẳn... nhưng khoảng thời gian đó vẫn dài hơn nhiều so với lúc một con người gục ngã.
 
@@ -156,15 +156,15 @@ Lukas, người vừa kịp né được cú đâm của con Hạ Cấp Sahagin 
 
 Độ bền bỉ của quái vật phần lớn nhờ vào lượng Ma Lực mà nó sở hữu, và dù vảy của Hạ Cấp Sahagin vẫn duy trì được độ cứng ngay cả khi nguồn cung cấp Ma Lực đã bị cắt đứt, thì việc các phiến vảy khép chặt lại với nhau thực chất là một chức năng sinh lý được duy trì nhờ lượng Ma Lực dự trữ của chính con quái vật. Nói cách khác, một khi tôi đã chém bay đầu nó, thanh kiếm của Lukas chẳng gặp chút khó khăn nào để tìm ra kẽ hở mà cắm ngập vào thân mình nó.
 
-Dĩ nhiên, sau những gì vừa xảy ra, Lukas chẳng dại gì mà lơ là mất cảnh giác thêm lần nữa. Cậu rút mạnh lưỡi kiếm ra khỏi xác con quái vật rồi thủ thế sẵn sàng. "Mày muốn nữa không hả?!" cậu ta hét lên. "N-Ngon thì nhào vô xem nào!"
+Dĩ nhiên, sau những gì vừa xảy ra, Lukas chẳng dại gì mà lơ là mất cảnh giác thêm lần nữa. Cậu ta rút mạnh lưỡi kiếm ra khỏi xác con quái vật rồi thủ thế sẵn sàng. "Mày muốn nữa không hả?!" cậu ta hét lên. "N-Ngon thì nhào vô xem nào!"
 
 Có điều lũ Hạ Cấp Sahagin không bền bỉ đến mức ấy. Bất chấp lời khiêu chiến của Lukas, thân xác con quái vật cá từ từ đổ sụp xuống sàn. Nó vẫn còn co giật, nhưng quái vật vốn dĩ là như vậy. Khiến người ta rợn người cho tới tận hơi thở cuối cùng—thậm chí còn kéo dài thêm một lúc cho chắc ăn.
 
 Dường như Lukas cũng ý thức được điều đó, bởi cậu ta trông chẳng có vẻ gì là bận tâm. Cảnh tượng ấy có thể khiến một người bình thường sợ hãi, nhưng với mạo hiểm giả thì đó là chuyện cơm bữa thường ngày.
 
-Có một thoáng tôi từng nghĩ cậu ta không nhận ra ánh nhìn của tôi và mình sẽ phải ra tay can thiệp, nhưng xem chừng cậu đã bắt đầu bộc lộ những dấu hiệu trưởng thành. Có lẽ là nhờ các đối thủ lần này có trình độ tương đương với cậu ta. Hy vọng cậu sẽ tiếp tục phát huy được điều đó.
+Có một thoáng tôi từng nghĩ cậu ta không nhận ra ánh nhìn của tôi và mình sẽ phải ra tay can thiệp, nhưng xem chừng cậu ta đã bắt đầu bộc lộ những dấu hiệu trưởng thành. Có lẽ là nhờ các đối thủ lần này có trình độ tương đương với cậu ta. Hy vọng cậu ta sẽ tiếp tục phát huy được điều đó.
 
-Còn về phần Gahedd, có vẻ cậu ta chưa từng lơ là cảnh giác ngay từ đầu, không giống như người bạn hay bồn chồn của mình. Cậu chắc chắn là người giữ được bình tĩnh tốt nhất trong bộ ba khi bước vào trận chiến. Tôi cho rằng đó là sự khác biệt về độ vững vàng của tâm lý. Tôi chẳng hề ra bất kỳ dấu hiệu nào cho cậu, thế nhưng cậu vẫn đứng thủ thế trước con Sahagin mất đầu còn lại. Cậu né tránh an toàn đòn tấn công liều mạng cuối cùng của nó, rồi đâm thẳng ngọn giáo vào giữa những phiến vảy nay đã lỏng lẻo—ngay trúng tim nó, không lệch một li. Ngay cả khi cái xác đổ gục xuống sàn, cậu vẫn cẩn thận quan sát nó thêm một lúc, dùng giáo chọc chọc vào nó từ một khoảng cách an toàn.
+Còn về phần Gahedd, có vẻ cậu ta chưa từng lơ là cảnh giác ngay từ đầu, không giống như người bạn hay bồn chồn của mình. Cậu ta chắc chắn là người giữ được bình tĩnh tốt nhất trong bộ ba khi bước vào trận chiến. Tôi cho rằng đó là sự khác biệt về bản lĩnh tinh thần. Tôi chẳng hề ra bất kỳ dấu hiệu nào cho Gahedd, thế nhưng cậu ta vẫn đứng thủ thế trước con Sahagin mất đầu còn lại. Cậu ta né tránh an toàn đòn tấn công liều mạng cuối cùng của nó, rồi đâm thẳng ngọn giáo vào giữa những phiến vảy nay đã lỏng lẻo—ngay trúng tim nó, không lệch một li. Ngay cả khi cái xác đổ gục xuống sàn, cậu ta vẫn cẩn thận quan sát thêm một lúc, dùng giáo chọc chọc vào nó từ một khoảng cách an toàn.
 
 Ừ, cậu ta đích thực là người cẩn trọng nhất trong bộ ba.
 
@@ -174,6 +174,6 @@ Dẫu cho cơ thể Undead của tôi hầu như chẳng biết đến khái ni�
 
 Nếu họ yếu hơn nhiều—chẳng hạn như mạo hiểm giả Thiết Cấp—thì mọi chuyện đã đơn giản hơn bao nhiêu. Dù sao tôi cũng có thừa kinh nghiệm rèn giũa những điều cơ bản cho lính mới. Nhưng với mạo hiểm giả Đồng Cấp thì lại có quá nhiều điều phải lưu tâm. Trước hết là tôi luôn nơm nớp lo sợ họ sẽ mất mạng nếu tôi rời mắt khỏi họ dù chỉ trong chớp mắt. Điều đó khiến tôi tự hỏi liệu hồi xưa khi dạy dỗ tôi, Capitan có từng nếm trải thứ áp lực tương tự thế này hay không, và suy nghĩ ấy lại gợi lên một niềm biết ơn sâu sắc tự đáy lòng tôi.
 
-Nhắc tới Capitan, tôi chắc chắn mình không phải người duy nhất quan sát những điều đó. Tôi nhìn về phía chú ấy—mong rằng chú sẽ có vài lời khuyên dành cho phương pháp chỉ dạy của mình—và thấy chú khẽ gật đầu một cái đầy dứt khoát với tôi.
+Nhắc tới Capitan, tôi chắc chắn mình không phải người duy nhất quan sát những điều đó. Tôi nhìn về phía chú ấy—mong rằng chú ấy sẽ có vài lời khuyên dành cho phương pháp chỉ dạy của mình—và thấy người thầy cũ khẽ gật đầu một cái đầy dứt khoát với tôi.
 
 Tôi thở phào nhẹ nhõm. Xem chừng những học trò Đồng Cấp của chúng tôi đã chật vật vượt qua được với mức điểm vừa đủ đỗ.
