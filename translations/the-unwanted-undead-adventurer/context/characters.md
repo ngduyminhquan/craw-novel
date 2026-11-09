@@ -160,6 +160,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Yanshuf Fahalah | Yanshuf | Yanshuf Fahalah | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú; quyến thuộc của Arc Tahadu, cha của Tavas | #306 |
 | Hazara Feyvro | Hazara | Hazara Feyvro | Thợ rèn tại thành phố mỏ Welfia, bạn thân kiêm đối thủ thời trẻ của Clope; hiện là phó thợ rèn trưởng của xưởng rèn | #309 |
 | Barzel Staro |  | Barzel Staro | Thợ rèn trưởng của xưởng rèn tại Welfia, sư phụ của Clope và Hazara Feyvro | #309 |
+| Reggie |  | Reggie | Dân làng Làng Hathara, người được Gilda hứa cho mứt hoa quả | #312 |
 
 
 
@@ -978,4 +979,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tháo vát, coi trọng lợi nhuận nhưng biết điều, quý trọng kiến thức và coi trọng sự an toàn của gia đình (#300).
 - Vai trò: Thân chủ thuê Rentt làm hộ vệ trong chuyến buôn hàng (#300).
 - Xuất hiện từ: #300.
+
+### Reggie
+- Thân phận: Dân làng Làng Hathara (#312).
+- Đặc điểm: Được Gilda hứa đem cho mứt hoa quả tự làm (#312).
+- Xuất hiện từ: #312 (qua lời nhắc của Gilda).
+
 

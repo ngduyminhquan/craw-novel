@@ -285,7 +285,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | gadol akavish | Gadol Akavish; Gadol akavish | Gadol Akavish | quái vật | 146 | Quái vật nhện khổng lồ sinh sống trong khu rừng phía bắc Làng Hathara (ガドル・アカヴィシュ) |
 | teleportation circle | teleportation circles; Teleportation circle; Teleportation circles | ma pháp trận dịch chuyển | kỹ năng | 18 | Ma pháp trận dùng để di chuyển tức thời giữa các vị trí trong mê cung (転移魔法陣) |
 | Grim Reaper | the Grim Reaper; grim reaper | Tử Thần | khác | 147 | Hiện thân của cái chết trong truyền thuyết, dẫn lối linh hồn sang thế giới bên kia |
-| Shahor Melechnamer | shahor melechnamer; Shahor melechnamer; shahor melechnamers | Shahor Melechnamer | quái vật | 147 | Quái vật dạng hổ khổng lồ thân đầy vằn đen cực mạnh sinh sống gần tàn tích bí mật của Làng Hathara (シャホル・メレクナメル) |
+| Shahor Melechnamer | shahor melechnamer; Shahor melechnamer; shahor melechnamers; shakhor melekhnamer; Shakhor melekhnamer; Shakhor Melekhnamer; shakhor melekhnamers | Shahor Melechnamer | quái vật | 147 | Quái vật dạng hổ khổng lồ thân đầy vằn đen cực mạnh sinh sống gần tàn tích bí mật của Làng Hathara (シャホル・メレクナメル) |
 | Ancient Kingdom | the Ancient Kingdom | Vương Quốc Cổ Đại | địa danh | 148 | Vương quốc thịnh vượng thời cổ xưa sở hữu nền công nghệ và ma thuật tiên tiến vượt bậc (古代王国) |
 | Old Insect Dungeon | the Old Insect Dungeon | Mê Cung Côn Trùng Cổ | địa danh | 148 | Mê cung cổ xưa nằm trong lãnh thổ Đế Quốc Rermutt (古蟲の迷宮) |
 | Good King Felt’s Dungeon City | Good King Felt's Dungeon City; Good King Felt's dungeon city; Good King Felt’s dungeon city | Thành Phố Mê Cung Của Hiền Vương Felt | địa danh | 148 | Thành phố tàn tích cổ đại nằm ở tầng 60 của Mê Cung Côn Trùng Cổ |

@@ -1138,6 +1138,13 @@ Dùng thiết bị đo đạc chuyên dụng từ Học Viện và Tòa Tháp c�
 Do kỳ thi thăng hạng Ngân Cấp chỉ còn chưa đầy một tháng, Lorraine dùng viên đá xanh lam từng được Capitan và bà Gharb tặng đập vỡ dưới tầng hầm kiên cố ở ngoại ô Maalt, kích hoạt ma pháp trận dịch chuyển vĩnh viễn thông tới thành phố ngầm của Hiền Vương Felt ở Đế Quốc Rermutt (nơi có cổng nối về Hathara).
 Cảnh kết thúc: Ma pháp trận dịch chuyển thành hình, Rentt và Lorraine sẵn sàng bước qua để về thăm Hathara.
 
+## 312
+Rentt và Lorraine dịch chuyển tới thành phố ngầm của Hiền Vương Felt tại tầng 60 Mê Cung Côn Trùng Cổ, cưỡi quái vật hổ khổng lồ Shahor Melechnamer tới ma pháp trận dịch chuyển về pháo đài cổ rồi cuốc bộ về Làng Hathara; cả hai bàn luận về việc thuần hóa quái vật để làm thú cưỡi rút ngắn thời gian di chuyển.
+Về tới nhà, mẹ nuôi Gilda vui mừng đón tiếp và hiểu nhầm hai người về báo tin đính hôn; Rentt đánh trống lảng giải thích về việc sắp thi thăng hạng Ngân Cấp và cần nhờ bà Gharb, Capitan rèn giũa lại căn bản.
+Gilda thấy Lorraine nhìn mình liền tế nhị viện cớ đi giao mứt cho Reggie để hai người nói chuyện với Ingo; Ingo tiếp đón niềm nở, bàn luận cùng Lorraine về độ tuổi kết hôn và nếp cưới muộn ở Hathara nhờ có các dược sư và pháp sư giỏi giang chăm sóc sức khỏe.
+Cảnh kết thúc: Sau khi Ingo an tâm vì Rentt có Lorraine ở bên, Lorraine chính thức ngỏ lời nhờ ông chỉ dạy ngón nghề người thuần hóa quái vật.
+
+
 
 
 
