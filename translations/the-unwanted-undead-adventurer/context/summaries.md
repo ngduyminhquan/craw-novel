@@ -1628,5 +1628,12 @@ Chia tay Augurey với lời hẹn tái ngộ và cùng nâng cao thực lực, 
 Jean Seebeck xuất hiện trong bộ trang phục giản dị nhưng yểm ma cụ phòng hộ tối tân; ông hối hả giục cả nhóm nhanh chóng lên đường trốn tránh đoàn tùy tùng của Hội đang ráo riết truy tìm để có thể tận hưởng chuyến "nghỉ dưỡng" tại Maalt.
 Cảnh kết thúc: Cỗ xe ngựa lăn bánh rời vương đô trong khi Jean cười khúc khích vẫy chào đám nhân viên qua khe rèm cửa sổ, khiến Rentt không khỏi cảm thấy bất an trong lòng.
 
+## 275
+Tại dinh thự Gia tộc Latuule ở ngoại ô Maalt, Isaac phụ trách huấn luyện ma pháp kết hợp võ thuật và đấu tập cho Rina và Alize; tuy nhiên do lần nào cũng bị Isaac đánh bại trong cùng một khoảng thời gian, Rina dần mất tự tin và tự thấy bản thân thua kém toàn diện khi so sánh với Rentt, Lorraine, Isaac, Laura và Alize.
+Nhận ra tâm sự của Rina bằng thính lực nhạy bén của Ma Cà Rồng, Isaac gợi ý cô nhận ủy thác tác chiến đơn lẻ để giải tỏa sự đơn điệu và kiểm chứng tiến độ; Alize ủng hộ nhiệt tình và thúc giục chị đi vì biết túi tiền của Rina đã sắp cạn, sau đó Alize ở lại tiếp tục luyện tập với Isaac và bị anh tăng cường độ huấn luyện vì lỡ trêu anh tàn nhẫn.
+Rina đến Hội Mạo Hiểm Giả Maalt nhưng vẫn chần chừ trước bảng ủy thác do chỉ có thể nhận nhiệm vụ Thiết Cấp khi đi một mình (trong khi hai đồng đội Raiz và Laura đang dưỡng thương sau biến cố Ma Cà Rồng); Sheila nhận thấy vẻ mặt thất thần của Rina nên bước tới hỏi thăm và thấu hiểu nỗi niềm thua kém trước những người xuất chúng của cô.
+Cảnh kết thúc: Sau khi nghe Rina tâm sự về việc muốn nhận ủy thác để kiểm chứng thực lực bản thân sau thời gian được người quen huấn luyện, Sheila gật đầu quả quyết và vội chạy đi tìm một ủy thác phù hợp cho cô.
+
+
 
 

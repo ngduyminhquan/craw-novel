@@ -161,6 +161,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 204: Bị Shumini bắt khi đi tìm Raiz và Laura Satii mất tích, bị biến thành Hạ Cấp Ma Cà Rồng để dung hợp với Lõi Mê Cung; được Rentt thu làm quyến thuộc và Laura giải phóng (#195). Đã báo cáo với Hội theo kịch bản "được giải cứu sau khi bị bắt", qua được Thánh Hỏa của Nive, đoàn tụ với Raiz và Laura Satii tại Phòng Khám Kohm; giữ kín thân phận Ma Cà Rồng.
 - Trạng thái tính đến chương 215: Nhận lời hướng dẫn và cùng luyện tập với Alize tại Cô Nhi Viện Thứ Hai Maalt trong thời gian nhóm Rentt lên vương đô; hào hứng thức khuya làm một cuốn cẩm nang du lịch và mua sắm tại vương đô để gửi Rentt và Lorraine.
 - Trạng thái tính đến chương 225: Cùng Alize đến dinh thự Gia tộc Latuule theo dặn dò của Lorraine; đã thuần thục ma pháp ngâm xướng và bước đầu thi triển thành công ma pháp rút ngắn Gie Vieros (thổ tiễn) dưới sự hướng dẫn của Isaac.
+- Trạng thái tính đến chương 275: Luyện tập ma pháp kết hợp võ thuật và đấu tập với Isaac tại dinh thự Latuule; do luôn thua Isaac trong cùng khoảng thời gian nên sinh ra tự ti khi so sánh với mọi người xung quanh; nghe lời Isaac và Alize đến Hội Mạo Hiểm Giả tìm nhận ủy thác tác chiến đơn lẻ Thiết Cấp để kiểm chứng thực lực; được Sheila nhận ra tâm sự và nhiệt tình giúp đỡ.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -293,6 +294,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 123: Đã tạo được lửa bằng Ignite Aryumage (#79); chọn dao găm làm vũ khí chính (#119); tự chế cây đũa phép đầu tay và thi triển Aliumage ra ngọn lửa to như đuốc nhờ Ma Lực dồi dào; được Lorraine dặn tránh phụ thuộc đũa phép.
 - Trạng thái tính đến chương 215: Làm quen với Rina và đồng ý để Rina cùng luyện tập trong thời gian Rentt và Lorraine đi vương đô; cùng Rina và Lorraine trò chuyện bí mật trong nhà nguyện, đuổi khéo Rentt ra rìa.
 - Trạng thái tính đến chương 225: Cùng Rina đến dinh thự Gia tộc Latuule luyện tập ma pháp tấn công theo dặn dò của Lorraine; hoàn toàn không nhận ra thân phận Ma Cà Rồng của Isaac và người hầu; được Isaac giải thích về ba cấp độ ma pháp và khuyên tập trung hoàn thiện ma pháp ngâm xướng cơ bản.
+- Trạng thái tính đến chương 275: Cùng Rina luyện tập dưới sự hướng dẫn của Isaac; thể lực tăng tiến rõ rệt giúp làm việc vặt ở cô nhi viện không còn mệt mỏi; nhiệt tình ủng hộ Rina nhận ủy thác ngoài để giải tỏa tâm lý; sau khi Rina rời đi thì ở lại luyện tập tiếp và bị Isaac tăng độ khó vì trêu anh tàn nhẫn.
 
 ### Edel
 - Giới tính, vẻ ngoài: Chuột Puchi Suri ngoại cỡ, lông chuyển từ xám tro sang đen tuyền sau khi hút máu Thi Quỷ của Rentt. Thường bám trên vai Rentt.
@@ -313,6 +315,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Năng lực: Ma pháp Hỏa Bão; Huyết Binh (hút máu biến kiếm liễu thành đại kiếm đỏ thẫm).
 - Trạng thái tính đến chương 201: Đối đầu rồi tự tay kết liễu Shumini (#190–194); chăm Laura khi cô ngủ sâu; giải thích tiến hóa của Rentt, đặt tên tạm "Ma Cà Rồng Long Tộc", khuyên anh giấu đôi cánh và thỉnh cầu Thần Giám Định; cùng nhóm thống nhất kịch bản báo cáo Hội để giữ bí mật cho Laura.
 - Trạng thái tính đến chương 225: Nhận lời Lorraine hướng dẫn Rina và Alize luyện ma pháp tấn công tại dinh thự Latuule; cho phép hai cô bé vào thẳng không cần qua mê cung hàng rào cây; chỉ điểm Rina luyện ma pháp rút ngắn và khuyên Alize nắm vững căn bản ma pháp ngâm xướng.
+- Trạng thái tính đến chương 275: Mở rộng bài học sang võ thuật và trực tiếp đấu tập với Rina cùng Alize; dùng thính lực nhạy bén nhận ra Rina mất tự tin nên gợi ý cô nhận ủy thác ngoài; thể hiện sự nghiêm khắc pha chút hài hước khi bị Alize trêu chọc.
 
 ### Dario Costa
 - Giới tính, tuổi/vẻ ngoài: Nam, người đàn ông vạm vỡ, kiên nghị, giọng nói thô ráp trầm đục của người làm nghề mổ xẻ quái vật lâu năm.
