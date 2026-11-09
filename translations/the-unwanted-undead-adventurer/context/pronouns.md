@@ -555,6 +555,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rina Rupaage | Amapola | tôi | cô | 283 | Nữ mạo hiểm giả chất vấn nữ ma pháp sư lữ hành bí ẩn |
 | Dieg Esol | Dorothea Merrow | tôi | cô / Dorothea | 284 | Nhị thiếu gia từng được hứa hôn ép nữ thương nhân quay về và kết hôn |
 | Dorothea Merrow | Dieg Esol | tôi | anh / Dieg | 284 | Nữ thương nhân cự tuyệt lời đe dọa của nhị thiếu gia |
+| Isaac Hart | Amapola | tôi | cô / quý cô | 285 | Quản gia quý tộc nói chuyện với nữ Ma Cà Rồng |
+| Amapola | Isaac Hart | tôi | anh / ngài | 285 | Nữ Ma Cà Rồng nói chuyện với quản gia quý tộc |
+| Isaac Hart | Dorothea Merrow | tôi | cô / tiểu thư | 285 | Quản gia quý tộc giải thích tình hình cho nữ thương nhân |
+| Dorothea Merrow | Isaac Hart | tôi | anh | 285 | Nữ thương nhân nói chuyện với gia sư của Rina |
+| Dieg Esol | Amapola | tôi | cô / Amapola | 285 | Nhị thiếu gia chất vấn nữ Ma Cà Rồng từng thao túng mình |
+| Isaac Hart | * | tôi | mọi người / các vị | 285 | Quản gia quý tộc trưng cầu ý kiến mọi người |
 
 
 

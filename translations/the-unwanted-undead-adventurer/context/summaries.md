@@ -964,3 +964,10 @@ Trong rừng, nữ ma pháp sư (Amapola) dùng ma pháp vô ngôn áp đảo Ri
 Rina găm cái xác xuống đất rồi tra hỏi chiếc đầu rơi; ả thừa nhận dùng thuật mị hoặc thao túng Dieg nhằm tìm chốn dung thân dưới danh phận Ma Cà Rồng hoang (stray vampire) do không thuộc bất kỳ huyết tộc hay gia tộc nào.
 Cảnh kết thúc: Giữa lúc Rina trắc ẩn đắn đo nên xử lý hay thu phục ả thì một sự hiện diện bất ngờ xuất hiện sau lưng và lên tiếng hỏi liệu cô có cần giúp đỡ không.
 
+## 285
+Isaac Hart bất ngờ xuất hiện trong rừng, nhận cưu mang Amapola về Gia tộc Latuule để giám sát và trở thành kẻ tạo tác mới của ả, đồng thời dùng kỹ năng Phân Liệt gắn lại đầu và chữa lành thương tích cho ả.
+Tại bãi cỏ afto, bóng đen của Isaac đánh lệch dao găm của Guster giúp mũi tên của Zein hạ gục tên cướp; khi Amapola quy phục, thuật mị hoặc giải trừ khiến Dieg ngất xỉu.
+Rina cùng Isaac dẫn Amapola bị trói đến hội ngộ nhóm Dorothea; Dorothea chia sẻ về mối quan hệ tốt đẹp trong quá khứ với Dieg, còn Isaac giải thích cơ chế giải trừ thuật mị hoặc của Ma Cà Rồng.
+Dieg tỉnh lại, đau đớn nhận lỗi với Dorothea và buồn bã chất vấn Amapola; Isaac đề nghị áp giải Amapola đến thị trấn lớn phân xử (để đưa về dinh thự Latuule).
+Cảnh kết thúc: Mọi người nhất trí với đề xuất của Isaac và cùng lũ trẻ an toàn trở về ngôi làng gần đó.
+

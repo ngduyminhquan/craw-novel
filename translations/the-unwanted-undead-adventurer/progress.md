@@ -289,7 +289,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | reviewed |  |
 | 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | reviewed |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | done |  |
-| 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | todo |  |
+| 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | done |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | todo |  |
 | 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | todo |  |
 | 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -948,3 +949,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#284] Thuật ngữ 'stray vampire' (野良吸血鬼): Ma Cà Rồng không thuộc huyết tộc nào, bị kẻ tạo tác bỏ mặc — tạm dịch 'Ma Cà Rồng hoang' / 'kẻ hoang' (phương án khác: 'Ma Cà Rồng lang bạt', 'Ma Cà Rồng vô chủ'). → Giữ 'Ma Cà Rồng hoang' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#284] Thuật ngữ 'coven': tổ chức/gia tộc Ma Cà Rồng dưới trướng một thủ lĩnh (Laura Latuule) — tạm dịch 'huyết tộc' (phương án khác: 'hội Ma Cà Rồng', 'gia tộc Ma Cà Rồng'). → Giữ 'huyết tộc' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#284] Xưng hô Dieg Esol ↔ Dorothea Merrow (từng có bàn tính hôn ước): Dieg ép Dorothea kết hôn, Dorothea cự tuyệt — tạm chọn Dieg xưng 'tôi' gọi 'cô / Dorothea'; Dorothea xưng 'tôi' gọi 'anh / Dieg' (phương án khác: Dieg xưng 'tôi' gọi 'em'). → Giữ Dieg xưng 'tôi' gọi 'cô / Dorothea', Dorothea xưng 'tôi' gọi 'anh / Dieg' như đã cập nhật trong pronouns.md. (orchestrator)
+- [#285] Thuật ngữ 'progenitor' (chỉ Ma Cà Rồng tạo ra hoặc nắm quyền kiểm soát hậu duệ) — tạm chọn 'kẻ tạo tác' nhất quán với #284 (phương án khác: 'Ma Cà Rồng chủ', 'chủ nhân huyết tộc', 'người tạo tác'). Tạm dùng trong bản dịch: 'kẻ tạo tác'. → Giữ 'kẻ tạo tác' như đã dịch và cập nhật trong glossary.md. (orchestrator)
+- [#285] Dịch động từ 'Splintered' khi Isaac dùng kỹ năng hồi phục cho Amapola — tạm dịch 'thi triển Phân Liệt' đồng bộ với kỹ năng 'Division / Splintering → Phân Liệt' trong glossary.md (phương án khác: 'vận dụng Phân Liệt', 'phân tách cơ thể'). Tạm dùng trong bản dịch: 'thi triển Phân Liệt'. → Giữ 'thi triển Phân Liệt' và alias trong glossary.md. (orchestrator)
+- [#285] Xưng hô giữa Isaac Hart và Amapola — Isaac xưng 'tôi', gọi 'cô / quý cô', Amapola xưng 'tôi', gọi 'ngài / anh' (khi biết ơn và quy thuận) theo tác phong quản gia lịch thiệp và nữ Ma Cà Rồng nhận chủ (phương án khác: Amapola xưng 'tôi', gọi 'anh' hoàn toàn). Tạm dùng trong bản dịch: Isaac xưng 'tôi' gọi 'cô / quý cô', Amapola xưng 'tôi' gọi 'anh / ngài'. → Giữ Isaac xưng 'tôi' gọi 'cô / quý cô', Amapola xưng 'tôi' gọi 'anh / ngài' như đã cập nhật trong pronouns.md. (orchestrator)

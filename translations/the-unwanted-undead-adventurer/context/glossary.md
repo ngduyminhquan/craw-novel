@@ -356,7 +356,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | hannya |  | hannya | quái vật | 187 | Nữ quái vật đến từ đảo quốc viễn đông, dùng để chỉ người phụ nữ cuồng nộ (般若) |
 | oni |  | oni | quái vật | 187 | Chủng tộc quái vật viễn đông tương tự ogre nhưng nhỏ hơn và thông minh hơn (鬼) |
 | Sleipnir |  | Sleipnir | quái vật | 187 | Thần mã tám chân trong thần thoại, loài ngựa sáu chân được cho là hậu duệ của Sleipnir |
-| Division | Splintering | Phân Liệt | kỹ năng | 188 | Kỹ năng phân tách cơ thể thành đàn dơi rồi hợp thể lại nguyên vẹn của Trung Cấp/Thượng Cấp Ma Cà Rồng (分裂) |
+| Division | Splintering; Splintered; Splinter | Phân Liệt | kỹ năng | 188 | Kỹ năng phân tách cơ thể thành đàn dơi rồi hợp thể lại nguyên vẹn của Trung Cấp/Thượng Cấp Ma Cà Rồng (分裂) |
 | San Arms | San Arm | Huyết Binh | kỹ năng | 188 | Vũ khí màu đỏ tạo từ máu của Ma Cà Rồng (San Arms/サンアームズ) |
 | Fire Storm |  | Hỏa Bão | kỹ năng | 190 | Ma pháp hỏa hệ tạo bão lửa/cầu lửa thiêu đốt mục tiêu |
 | Heaven |  | Thiên Đường | địa danh | 188 | Cõi thiên đường theo quan niệm tôn giáo đối lập với Địa Ngục |
@@ -501,5 +501,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | monster repellent |  | thuốc xua đuổi quái vật | vật phẩm | 283 | Loại thuốc xua đuổi quái vật mới do Lorraine phát minh bằng tế bào của Rentt |
 | coven | covens | huyết tộc | tổ chức | 284 | Tổ chức hoặc nhóm quy tụ các Ma Cà Rồng dưới trướng một thủ lĩnh |
 | stray vampire | stray vampires | Ma Cà Rồng hoang | quái vật | 284 | Ma Cà Rồng không thuộc huyết tộc hay gia tộc nào, bị kẻ tạo tác bỏ mặc tự sinh tự diệt (野良吸血鬼) |
+| progenitor |  | kẻ tạo tác | khác | 284 | Ma Cà Rồng tạo ra hoặc nắm quyền kiểm soát huyết mạch đối với hậu duệ/quyến thuộc (親吸血鬼) |
+| progeny |  | hậu duệ | khác | 284 | Ma Cà Rồng được tạo ra hoặc thuộc hạ dưới trướng kẻ tạo tác |
 
 

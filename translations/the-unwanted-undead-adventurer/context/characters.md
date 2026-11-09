@@ -853,31 +853,31 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276); thực chất là thiên kim tiểu thư Thương hội Merrow ở thành phố Mystera, trốn nhà làm thương nhân lữ hành (lộ ở #282), tự lập tách khỏi cha từ hai năm trước.
 - Tính cách: Chăm chỉ, tham vọng tích vốn mở cửa hàng riêng; thận trọng, cảnh giác nhưng ý chí mạnh, tự tôn nghề nghiệp cao; buôn bán khéo, tinh ý (xử lý kín đáo gian lận của trưởng làng, #282). Từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ, ép tăng thù lao (thị trấn Zahak, #276).
 - Quan hệ: Gặp Rina ở Maalt (#277), ban đầu lo vì Rina trẻ, chỉ Thiết Cấp, nhưng đồng cảm sự tự ti của Rina, phục thông tin thực tế và sự trung thực của cô nên thuê. Từng được cha hứa hôn với Dieg Esol (#282).
-- Trạng thái (đến #284): Bị Dieg và Guster uy hiếp tại bãi cỏ afto, kiên quyết từ chối yêu cầu kết hôn và chỉ trích sự biến chất của Dieg (#284).
+- Trạng thái (đến #285): Được giải cứu an toàn sau khi Guster bị Zein bắn hạ; nghe Rina và Isaac giải thích chân tướng sự việc rồi tha thứ cho Dieg (#285).
 - Xuất hiện từ: #276.
 
 ### Guster
 - Thân phận: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp quanh Làng Muga (kiếm sĩ, cung thủ, ma pháp sư); vốn dân làng nghèo (#279).
 - Tính cách: Thận trọng, đề cao quản lý rủi ro.
 - Vai trò: Nhận tiền của người đàn ông bí ẩn để cản trở, ép Dorothea bỏ nghề (#279).
-- Trạng thái (đến #284): Kề dao vào cổ con tin uy hiếp Dorothea theo lệnh Dieg; phóng dao găm phản đòn khi Zein giương cung nhắm bắn (#284).
+- Trạng thái (đến #285): Bị trúng tên của Zein và bất tỉnh sau khi con dao găm phóng ra bị bóng đen của Isaac đánh lệch (#285).
 - Xuất hiện từ: #279.
 
 ### Dieg Esol
 - Thân phận: Nam, nhị thiếu gia Thương hội Esol lâu đời tại thành phố Mystera (#282).
 - Tính cách: Có tài kinh doanh nhưng bị cái bóng anh trai tài giỏi gấp trăm lần che khuất; từng định mưu hại anh để đoạt quyền thừa kế, đến khi được cha hứa hôn với Dorothea (#282).
 - Quan hệ: Khâm phục quyết tâm của Dorothea nên từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi (#282).
-- Trạng thái (đến #284): Xuất hiện tại bãi cỏ afto ép Dorothea kết hôn và ra lệnh cắt ngón tay con tin; thoáng nhận ra sự phi lý trong hành vi của mình do thuật mị hoặc của Amapola và ôm đầu đau đớn (#284).
+- Trạng thái (đến #285): Ngất xỉu khi Amapola quy phục và thuật mị hoặc giải trừ; tỉnh lại ân hận tạ lỗi với Dorothea và buồn bã chất vấn Amapola (#285).
 - Xuất hiện từ: #282.
 
 ### Amapola
 - Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, thực chất là một Ma Cà Rồng hoang (stray vampire) không thuộc bất kỳ huyết tộc hay gia tộc nào (#284).
 - Vai trò: Kẻ giật dây — dùng thuật mị hoặc chi phối tâm trí Dieg Esol hòng đưa anh ta lên làm chủ thương hội để tìm chốn dung thân an toàn trong xã hội loài người (#282, #284).
-- Trạng thái (đến #284): Đấu với Rina trong rừng, dùng ma pháp vô ngôn; bị Rina phản kích chém đứt đầu và bào mòn cạn kiệt khả năng tái tạo; bị Rina găm xác xuống đất tra hỏi chiếc đầu rơi và van xin tha mạng (#284).
+- Trạng thái (đến #285): Được Isaac dùng kỹ năng Phân Liệt gắn lại đầu và chữa lành; chấp thuận để Isaac làm kẻ tạo tác mới và theo anh về Gia tộc Latuule để tìm chốn nương thân an toàn (#285).
 - Xuất hiện từ: #282.
 
 ### Zein
 - Thân phận: Nam, thợ săn ở ngôi làng miền núi thứ ba, am hiểu rừng núi (#283).
 - Đặc điểm: Hồi trẻ sống gần vương đô, quen nhiều mạo hiểm giả; khen Rina là một trong những mạo hiểm giả giỏi nhất từng thấy (#283).
-- Trạng thái (đến #284): Cùng Dorothea và lũ trẻ bị Dieg, Guster uy hiếp; chớp thời cơ Dieg phân tâm để giương cung nhắm bắn Guster thì bị gã phóng dao găm phản đòn (#284).
+- Trạng thái (đến #285): Bắn trúng Guster nhờ bóng đen của Isaac đánh lệch dao găm của tên cướp; cùng mọi người đưa lũ trẻ an toàn trở về làng (#285).
 - Xuất hiện từ: #283.
