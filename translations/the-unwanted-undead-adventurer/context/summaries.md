@@ -1081,3 +1081,10 @@ Nhớ lại lời phân tích của Rentt trong buổi đấu tập trước đ�
 Phân đoạn hai quay lại góc nhìn của Rentt: Capitan và Diego khen ngợi khả năng bao quát trận đấu của Lukas và kỹ năng dùng giáo của Gahedd; Niedz nhờ bộc phát sức mạnh tiềm thức đã chém thủng lớp vảy hạ một con, nhưng sau đó cạn Ma Lực và bị con thứ hai dồn vào thế yếu.
 Capitan giải thích việc để Niedz cạn sạch Ma Lực là có chủ đích nhằm dạy họ cách dùng Khí Lực (Ma Lực tồn đọng trong cơ thể sẽ gây cản trở cảm nhận Khí Lực); Diego ngạc nhiên vì từng bị tư tế Chiến Thần phán không có tài năng, nhưng Capitan khẳng định Diego gặp thầy dở vì anh hoàn toàn có tố chất.
 Cảnh kết thúc: Capitan khẳng định chắc nịch với Diego rằng theo những gì ông quan sát thì Diego thực sự có tài năng sử dụng Khí Lực.
+
+## 332
+Capitan giải thích Khí Lực là sức mạnh ai cũng có sẵn trong cơ thể và đồng ý truyền dạy cho Diego; Rentt và Diego trao đổi về việc tăng cường Thần Lực bằng nước ngâm thảo dược hoặc bí dược màu nhiệm trong Giáo Hội.
+Nhận thấy Niedz đã kiệt sức sau khi cả nhóm hạ được hai con Hạ Cấp Sahagin, Rentt lao vào đỡ ngọn lao cứu Niedz rồi truyền Khí Lực chém nổ tung nội tạng con quái vật cá.
+Nhận ra mảnh vảy quái vật văng tung tóe có thể gây nguy hiểm cho đồng đội trong hành lang hẹp, Rentt chuyển sang dùng Ma Lực chém bay đầu hai con quái vật còn lại; Lukas và Gahedd giữ bình tĩnh đâm dứt điểm các cái xác không đầu vẫn còn giãy giụa phản công.
+Cảnh kết thúc: Rentt thở phào nhẹ nhõm khi Capitan gật đầu tán thành, đánh giá bộ ba học trò Đồng Cấp đã vượt qua bài kiểm tra thực chiến với điểm số vừa đủ đỗ.
+
