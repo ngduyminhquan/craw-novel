@@ -168,7 +168,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Gahedd |  | Gahedd | Mạo hiểm giả Đồng Cấp dáng cao gầy tại Lucaris, bạn thân của Niedz | #319 |
 | Lukas |  | Lukas | Mạo hiểm giả Đồng Cấp dáng lùn béo tại Lucaris, bạn thân của Niedz, am hiểu thảo dược | #319 |
 | Skullface |  | Mặt Đầu Lâu | Biệt danh Niedz và Diego dùng để gọi Rentt Faina khi đeo mặt nạ đầu lâu | #319 |
-| Mazlak |  | Mazlak | Thủy thủ kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần | #321 |
+| Mazlak |  | Mazlak | Ông lão / thủy thủ già kỳ cựu tại Thành Phố Cảng Lucaris, người lái thuyền được Capitan thuê đưa đón vào Mê Cung Các Con Gái Của Hải Thần, bạn lâu năm của Raul Malga và biết Diego từ nhỏ (#321, #324) | #321 |
 | Mariana |  | Mariana | Người mẹ quá cố của Diego Malga, vợ của Raul Malga | #324 |
 
 
@@ -1030,9 +1030,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #319.
 
 ### Mazlak
-- Thân phận: Nam, thủy thủ kỳ cựu tại Thành Phố Cảng Lucaris, chủ một con thuyền cỡ vừa (#321).
-- Tính cách & kỹ năng: Tháo vát, dày dạn kinh nghiệm đi biển, biết lái thuyền do sinh vật kéo vượt qua vùng biển ngược gió và thoát khỏi sự truy đuổi của quái vật (#321).
-- Quan hệ: Được Capitan thuê thuyền riêng để đưa đón vào Mê Cung Các Con Gái Của Hải Thần; cùng Capitan trò chuyện thoải mái và rủ nhau đi uống rượu (#321).
+- Thân phận: Nam, ông lão / thủy thủ già kỳ cựu tại Thành Phố Cảng Lucaris, chủ một con thuyền cỡ vừa (#321, #324).
+- Tính cách & kỹ năng: Tháo vát, dày dạn kinh nghiệm đi biển, biết lái thuyền do sinh vật kéo vượt qua vùng biển ngược gió và thoát khỏi sự truy đuổi của quái vật (#321); khoan dung, từng trải, đánh giá cao sự thành thật của người trẻ như Niedz (#324).
+- Quan hệ: Bạn quen biết lâu năm của người cha quá cố Raul Malga (từng coi Raul là khách hàng ruột số một) và biết Diego từ nhỏ (#324); được Capitan thuê thuyền riêng để đưa đón vào Mê Cung Các Con Gái Của Hải Thần, cùng Capitan và nhóm Rentt chuẩn bị cho chuyến thám hiểm (#321, #324).
 - Xuất hiện từ: #321.
 
 ### Mariana

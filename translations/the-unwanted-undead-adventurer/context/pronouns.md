@@ -129,8 +129,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Niedz | tôi / Niedz / gã / người đàn ông | 319 | Người kể chuyện ngôi thứ nhất ở chương đệm #319 |
 | Gahedd | Gahedd / anh chàng / cậu ta | 319 | Mạo hiểm giả Đồng Cấp cao gầy, bạn của Niedz |
 | Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |
-| Mazlak | Mazlak / người thủy thủ / anh chàng / anh ta | 321 | Thủy thủ kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan |
-| Mazlak | Mazlak / người thủy thủ già / ông lão / ông ấy | 324 | Thủy thủ kỳ cựu tại Lucaris, lái thuyền đưa đón nhóm Rentt (góc nhìn của Rentt) |
+| Mazlak | Mazlak / người thủy thủ / người thủy thủ già / ông lão / ông ấy | 321 | Thủy thủ già kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan và nhóm Rentt |
 
 
 
@@ -650,7 +649,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Rentt Faina | tôi / bọn tôi | Đại ca Rentt / Đại ca | 320 | Mạo hiểm giả cấp thấp hào hứng kính nể mạo hiểm giả tiền bối (raw: Boss Rentt) |
 | Rentt Faina | Gahedd | tôi | cậu / Gahedd | 320 | Mạo hiểm giả tiền bối thu nạp và giao việc cho hậu bối |
 | Gahedd | Rentt Faina | tôi / bọn tôi | anh / Rentt / Đại ca Rentt | 320 | Mạo hiểm giả cấp thấp cảm kích và tôn trọng mạo hiểm giả tiền bối |
-| Capitan | Mazlak | tôi | cậu / Mazlak | 321 | Khách thuê thuyền đi thám hiểm mê cung nói chuyện với người lái thuyền |
+| Capitan | Mazlak | tôi | ông / Mazlak | 321 | Khách thuê thuyền nói chuyện với người lái thuyền già |
 | Mazlak | Capitan | tôi | anh / Capitan | 321 | Người lái thuyền nói chuyện với mạo hiểm giả thuê mình |
 | Rentt Faina | Mazlak | tôi | ông / Mazlak | 324 | Mạo hiểm giả nói chuyện với người lái thuyền lớn tuổi |
 | Mazlak | Rentt Faina | tôi | cậu / Rentt | 324 | Người lái thuyền lớn tuổi nói chuyện với mạo hiểm giả trẻ |

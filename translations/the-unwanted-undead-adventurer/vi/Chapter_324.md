@@ -98,7 +98,7 @@ Chú ấy nói chẳng sai. Như trường hợp của tôi, quán rượu đâu
 
 Ai mà chẳng có lúc lỡ lời. Nếu sự tự chủ là thứ người ta có thể duy trì mọi lúc mọi nơi thì thế giới này đã chẳng có xung đột, và rượu chè chính là thứ giỏi làm người ta buông lỏng tự chủ nhất. Việc Diego chỉ đơn giản đứng dậy rời đi đã chứng tỏ sự chín chắn của anh ấy. Chắc hẳn anh ấy sẽ vui vẻ chấp nhận lời xin lỗi của Mazlak mà thôi.
 
-"Vậy thì quay lại chuyện đó đi," Capitan nói. "Xét cho cùng, công việc của cậu cũng chẳng thay đổi là bao. Chỉ là có thêm vài vị khách đi cùng thôi."
+"Vậy thì quay lại chuyện đó đi," Capitan nói. "Xét cho cùng, công việc của ông cũng chẳng thay đổi là bao. Chỉ là có thêm vài vị khách đi cùng thôi."
 
 Mazlak gật đầu. "Ừm. Để xem nào: anh, Rentt, Niedz, Gahedd và Lukas? Vậy là năm người?"
 

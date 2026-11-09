@@ -94,7 +94,7 @@ Vì là Nguyền Cụ nên phải mất một lúc tác dụng của nó mới t
 
 Tôi thở hắt ra, thả lỏng người. "Đã hoàng hôn rồi cơ à? Con thuyền đó đâu rồi nhỉ..."
 
-Vừa đạp nước nổi trên mặt biển, tôi vừa đảo mắt nhìn quanh một lượt. Để tới được Mê Cung Các Con Gái Của Hải Thần, người ta cần một con thuyền cùng một thủy thủ để lèo lái nó. Tôi cũng chẳng phải ngoại lệ đối với quy tắc này, nên đã thuê một tay đi biển lành nghề cùng con thuyền cỡ vừa của anh ta. Thuyền nhỏ cũng thực hiện chuyến đi ngon ơ, nhưng lại khó phát hiện hơn sau khi người ta ngoi lên mặt nước. Để thực sự yên tâm thì thuyền càng lớn càng tốt.
+Vừa đạp nước nổi trên mặt biển, tôi vừa đảo mắt nhìn quanh một lượt. Để tới được Mê Cung Các Con Gái Của Hải Thần, người ta cần một con thuyền cùng một thủy thủ để lèo lái nó. Tôi cũng chẳng phải ngoại lệ đối với quy tắc này, nên đã thuê một tay đi biển lành nghề cùng con thuyền cỡ vừa của ông ấy. Thuyền nhỏ cũng thực hiện chuyến đi ngon ơ, nhưng lại khó phát hiện hơn sau khi người ta ngoi lên mặt nước. Để thực sự yên tâm thì thuyền càng lớn càng tốt.
 
 Có thể tôi đã quá đỗi cẩn trọng, bởi sự thành thạo Khí Lực cho phép tôi dò tìm sinh mệnh trong bán kính chừng một cây số, nhưng xét lượng Khí Lực tôi phải tiêu tốn bên trong mê cung, rất có thể tôi sẽ kết thúc một ngày tìm kiếm trong tình trạng kiệt quệ hoàn toàn. Nếu chuyện đó xảy ra, tôi không muốn đánh cược mạng sống của mình vào việc liệu mắt thường có định vị nổi một con thuyền con giữa muôn trùng sóng nước hay không.
 
@@ -114,27 +114,27 @@ Khi con thuyền tới nơi, người thủy thủ quăng cho tôi một sợi d
 
 "Cơ mà trông anh đâu có về tay không..."
 
-"Ừm. Ma Tinh từ quái vật, vài món đồ ma thuật lặt vặt, nguyền phẩm—tìm được khối thứ đấy chứ. Tốt nhất là tôi nên tới Hội bán hết mớ này đi. Ít ra cũng đủ tiền trả công cho cậu."
+"Ừm. Ma Tinh từ quái vật, vài món đồ ma thuật lặt vặt, nguyền phẩm—tìm được khối thứ đấy chứ. Tốt nhất là tôi nên tới Hội bán hết mớ này đi. Ít ra cũng đủ tiền trả công cho ông."
 
-Anh ta nhìn tôi bằng ánh mắt kỳ quặc. "Tiền thuê tôi đâu có đắt đến mức đó."
+Ông ấy nhìn tôi bằng ánh mắt kỳ quặc. "Tiền thuê tôi đâu có đắt đến mức đó."
 
-"Chỗ còn lại thì vào quán rượu tiêu tiếp. Cậu đi cùng chứ hả?"
+"Chỗ còn lại thì vào quán rượu tiêu tiếp. Ông đi cùng chứ hả?"
 
 "Anh chắc chứ?"
 
-"Chứ sao. Cứ uống cho đã đời đi—miễn sao ngày mai cậu đừng say mèm tới mức không làm việc được là được. Ngoài chuyến phà kia ra thì chỉ có thuyền của cậu là chịu nhận chở tôi thôi, mà tôi nghe đâu ngày mai phà không chạy thì phải."
+"Chứ sao. Cứ uống cho đã đời đi—miễn sao ngày mai ông đừng say mèm tới mức không làm việc được là được. Ngoài chuyến phà kia ra thì chỉ có thuyền của ông là chịu nhận chở tôi thôi, mà tôi nghe đâu ngày mai phà không chạy thì phải."
 
 "Này, anh trả tiền cho tôi làm việc mà. Tôi rất vui lòng nhận tiền của anh, nhưng anh đâu cần phải chiều chuộng thêm bằng cách—" Mazlak đột ngột ngắt lời, nét mặt thoắt biến thành vẻ hoảng hốt.
 
-Tôi quay đầu nhìn theo hướng mắt anh ta và trông thấy một vài bóng đen dưới làn nước, đang lướt nhanh về phía chúng tôi.
+Tôi quay đầu nhìn theo hướng mắt ông ấy và trông thấy một vài bóng đen dưới làn nước, đang lướt nhanh về phía chúng tôi.
 
-"Lũ kỵ sĩ cưỡi Kelpie!" Mazlak hét lên. "Tụi mình phải chuồn khỏi đây thôi!" Anh ta túm lấy dây cương—vốn được nối với thứ gì đó bên dưới làn nước—rồi giật mạnh để thúc thuyền chuyển động. Con thuyền nhanh chóng lướt đi trên mặt biển, hướng thẳng về phía Lucaris... ngược với hướng gió đang thổi lúc bấy giờ.
+"Lũ kỵ sĩ cưỡi Kelpie!" Mazlak hét lên. "Tụi mình phải chuồn khỏi đây thôi!" Ông ấy túm lấy dây cương—vốn được nối với thứ gì đó bên dưới làn nước—rồi giật mạnh để thúc thuyền chuyển động. Con thuyền nhanh chóng lướt đi trên mặt biển, hướng thẳng về phía Lucaris... ngược với hướng gió đang thổi lúc bấy giờ.
 
 Đây chính là điều khiến tôi ngạc nhiên nhất khi lần đầu tiên tiếp xúc với những con thuyền ở Lucaris. Thuyền bè của thành phố này—đặc biệt là những chiếc cỡ nhỏ—không di chuyển bằng sức gió hay ma thuật, mà được kéo bởi các sinh vật sống, chẳng khác nào những cỗ xe trên cạn. Đó là lý do tại sao những con thuyền lớn cỡ thuyền của Mazlak thường chỉ cần đúng một thủy thủ lèo lái—và tùy thuộc vào tay nghề của người thủy thủ đó, loại thuyền này có thể đi tới bất cứ nơi đâu người ta mong muốn.
 
-Ngay cả ở Lucaris, Mazlak cũng đã tạo dựng được tên tuổi như một trong những tay thủy thủ cừ khôi nhất vùng, và anh ta đã chứng minh thực lực của mình bằng cách đưa chúng tôi thoát khỏi những tình huống hiểm nghèo như thế này nhiều lần không đếm xuể.
+Ngay cả ở Lucaris, Mazlak cũng đã tạo dựng được tên tuổi như một trong những tay thủy thủ cừ khôi nhất vùng, và ông ấy đã chứng minh thực lực của mình bằng cách đưa chúng tôi thoát khỏi những tình huống hiểm nghèo như thế này nhiều lần không đếm xuể.
 
-"Lũ kỵ sĩ cưỡi Kelpie à..." tôi trầm ngâm. "Cậu có nghĩ chúng là..."
+"Lũ kỵ sĩ cưỡi Kelpie à..." tôi trầm ngâm. "Ông có nghĩ chúng là..."
 
 Kỵ sĩ cưỡi Kelpie, đúng như tên gọi gợi ý, là thuật ngữ chung chỉ những con quái vật cưỡi trên lưng một loài quái vật khác có hình dáng giống ngựa, dù là loại có thể thở được dưới nước. Ở khoảng cách này tôi không thể nhìn rõ chúng, nhưng tôi khá chắc những kẻ cưỡi chúng trong trường hợp này là Hải Kỵ Sĩ. Dù mang vóc dáng giống con người, bóng đen của chúng cho thấy rõ chúng sở hữu phần đầu thuôn nhọn rất đặc trưng, trông chẳng khác nào loài mực.
 
