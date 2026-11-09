@@ -342,11 +342,10 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 335 |  | Chapter_335 - Vol 14 Chapter 4 - The Return and a New Find (2).txt | Vol 14 Chapter 4 - The Return and a New Find (2) | reviewed |  |
 | 336 |  | Chapter_336 - Vol 14 Chapter 4 - The Return and a New Find (3).txt | Vol 14 Chapter 4 - The Return and a New Find (3) | reviewed |  |
 | 337 |  | Chapter_337 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1) | reviewed |  |
-| 338 |  | Chapter_338 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2) | todo |  |
+| 338 |  | Chapter_338 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2) | done |  |
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -1027,3 +1026,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#335] Danh xưng tự xưng của Pherousa 'Child of the old sea': tạm dùng 'Đứa con của biển xưa' (phương án khác: 'Đứa con của biển cả cổ xưa' hoặc 'Đứa con của đại dương xưa'). → Chốt dịch 'Child of the old sea' là 'Đứa con của biển xưa' (ngắn gọn, tự nhiên và giàu nhịp điệu như bản dịch chương 335 đã dùng) (orchestrator)
 - [#336] Danh xưng hoàng tộc ngư nhân 'Child of the old sea' / 'child of the old sea' nên viết thường hay viết hoa toàn bộ: tạm dịch là 'đứa con của biển xưa' (theo #335), đề xuất có thể viết hoa thành danh xưng 'Đứa Con Của Biển Xưa' khi dùng như tước hiệu chính thức. → Chốt giữ nguyên 'đứa con của biển xưa' (viết hoa chữ cái đầu 'Đứa con của biển xưa' khi đứng đầu câu/danh xưng), khớp với cách viết thường trong raw và đồng bộ với chương 335 (orchestrator)
 - [#336] Thuật ngữ 'Pulling' trong raw ở chương này mang nghĩa động từ thường ('pulling Pherousa' = dắt Pherousa, 'pulling for Capitan' = ủng hộ Capitan) chứ không phải thuật ngữ game 'dụ quái': tạm dịch nghĩa thông thường theo ngữ cảnh, QA cảnh báo nhưng bỏ qua theo rules.md #98. → Chốt giữ nguyên cách dịch động từ thông thường theo ngữ cảnh ('dắt Pherousa', 'ủng hộ Capitan'), bỏ qua cảnh báo báo nhầm của QA (orchestrator)
+- [#338] Dịch 'spirit type monsters' / 'spirits' (phân loại Undead không có thực thể vật lý, raw đối lập với 'ghosts') — tạm chọn 'quái vật hệ linh thể' / 'linh thể' (phương án khác: 'quái vật hệ linh hồn' / 'oán linh') → Chốt 'quái vật hệ linh thể' / 'linh thể' (đối ứng 霊体, phân loại Undead phi vật chất, phân biệt với 'hồn ma' dân gian và 'tinh linh') (orchestrator)
+- [#338] Dịch 'partner' trong lời dặn của Ingo ("found himself a wonderful partner in Maalt") và câu đáp của Lorraine ("I consider Rentt to be a wonderful partner myself") — tạm chọn 'người bạn đồng hành' (phương án khác: 'cộng sự', 'bạn đời') → Chốt 'người bạn đồng hành' (giữ đúng sắc thái vừa là đồng đội gắn bó vừa hàm ý gắn kết lâu dài theo lời Ingo và suy nghĩ của Lorraine) (orchestrator)

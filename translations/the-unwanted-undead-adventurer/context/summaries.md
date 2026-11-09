@@ -1122,4 +1122,11 @@ Ingo thị phạm bằng cách thuần hóa một con Slime hoang dã nhỏ; ôn
 Lorraine dùng ma nhãn theo dõi sợi tơ Ma Lực lan tỏa như mạng mao mạch và ma pháp trận ba chiều đổi từ đỏ sang lam, nhận thấy cơ chế phá vỡ ranh giới Ma Lực này tương đồng kinh ngạc với cách Ma Cà Rồng tạo quyến thuộc; Ingo niệm câu chú cổ ngữ "Contractus de Origo" hoàn tất khế ước.
 Cảnh kết thúc: Con Slime mới thuần hóa quấn quýt vui sướng dưới chân Ingo, và Lorraine thán phục trước giá trị vô giá của cơ hội tiếp thu bí thuật cổ xưa này.
 
+## 338
+Lorraine hào hứng gặng hỏi Ingo về mức độ phục tùng của Slime, sự khác biệt cơ bản giữa kỹ thuật của ông và ma pháp khế ước hiện đại; Ingo thừa nhận phương pháp cổ xưa này còn nhiều điều chưa thể giải thích thấu đáo nhưng Lorraine quyết tâm theo học vì muốn hiểu sâu hơn về loài quái vật và Rentt.
+Ingo giải thích cơ chế ra lệnh thông qua sợi dây liên kết bằng Ma Lực thay vì khẩu lệnh, phân tích cách thức tiếp nhận ý nghĩ của quái vật hệ linh thể (dạng Undead phi vật chất), sự hạn chế âm thanh của quái vật biển, chế độ ăn của Slime/linh thể và cảm giác đứt gãy tinh thần khi quyến thuộc qua đời (kể lại trải nghiệm từng thử thuần hóa một con Zombie).
+Lorraine bắt đầu thực hành và nhanh chóng truyền được Ma Lực vào máu ngay trong ngày đầu nhờ kinh nghiệm thuật giả kim, nhưng việc duy trì mật độ và hiệu lực chuẩn xác đòi hỏi sự kiên trì lặp lại khiến cô quyết định sẽ tự luyện tập thêm để không làm mất nhiều thời gian của vị trưởng làng.
+Ingo lo lắng Lorraine sẽ làm việc quá sức nên bảo sẽ nhờ Rentt trông chừng cô, đồng thời chia sẻ về thói quen luôn giữ khoảng cách với người khác của Rentt; nghe Lorraine khẳng định Rentt chưa từng ngần ngại mở lòng với mình, Ingo nở nụ cười nhẹ nhõm gửi gắm con trai cho cô.
+Cảnh kết thúc: Lorraine suy ngẫm về lời dặn của Ingo rồi vui vẻ xác nhận bản thân cũng xem Rentt là một người bạn đồng hành tuyệt vời.
+
 

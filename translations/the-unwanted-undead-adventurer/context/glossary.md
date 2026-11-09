@@ -559,6 +559,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Child of the old sea | child of the old sea | đứa con của biển xưa | danh hiệu | 335 | Danh hiệu/danh xưng của hoàng tộc ngư nhân |
 | rabbit-folk | rabbitfolk | thú nhân thỏ | chủng tộc | 336 | Phân loài thú nhân mang đặc điểm loài thỏ |
 | Contractus de Origo |  | Contractus de Origo | kỹ năng | 337 | Câu chú cổ ngữ thiết lập khế ước thuần hóa quái vật của Ingo (giữ nguyên câu chú) |
+| contract magic | modern contract magic | ma pháp khế ước | kỹ năng | 338 | Ma pháp thiết lập sự ràng buộc bằng ma thuật (契約魔術) |
+| spirit type monster | spirit type monsters; spirit types | quái vật hệ linh thể | quái vật | 338 | Phân loại quái vật Undead không có hình thể vật chất (霊体) |
 
 
 
