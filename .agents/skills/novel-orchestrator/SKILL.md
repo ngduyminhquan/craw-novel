@@ -1,6 +1,6 @@
 ---
 name: novel-orchestrator
-description: Điều phối dịch truyện tự động qua Herdr. Mở panel agy (Gemini 3.8 Flash Medium) chạy skill novel-translate để khởi tạo truyện hoặc dịch từng chương. Cứ 3 chương thì mở panel review, rồi mở panel sửa. Commit và push sau mỗi chương, và tự quyết các câu hỏi agent phụ đặt ra. Dùng khi user bảo "chạy orchestrator", "tự động dịch", "dịch liên tục N chương", "dịch tới chương N", "điều phối dịch truyện <slug>".
+description: Điều phối dịch truyện tự động qua Herdr. Mở panel agy (Gemini 3.8 Flash High) chạy skill novel-translate để khởi tạo truyện hoặc dịch từng chương. Cứ 3 chương thì mở panel review, rồi mở panel sửa. Commit và push sau mỗi chương, và tự quyết các câu hỏi agent phụ đặt ra. Dùng khi user bảo "chạy orchestrator", "tự động dịch", "dịch liên tục N chương", "dịch tới chương N", "điều phối dịch truyện <slug>".
 ---
 
 # Điều phối dịch truyện
@@ -54,7 +54,7 @@ Làm **tuần tự**: mỗi lúc chỉ một panel làm việc, và commit xong 
 ```
 python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> brief <kind> [...]
 # in ra: name=<name> task=<file brief> report=<file báo cáo>
-bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-3.8-flash-medium --dangerously-skip-permissions
+bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-3.8-flash-high --dangerously-skip-permissions
 bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --timeout 3600 --idle-grace 120
 ```
 
