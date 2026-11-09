@@ -1,6 +1,6 @@
 # Chương 336: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (3)
 
-Dù đi tới đâu, dù là một ngôi làng nhỏ hay thành phố lớn, các chi nhánh Hội Mạo Hiểm Giả gần như lúc nào cũng có sân huấn luyện riêng. Dù mỗi nơi mỗi khác, chúng thường được xây dựng thành một đấu trường cho mọi người cùng sử dụng. Dĩ nhiên, nếu một chi nhánh hội nào đó eo hẹp kinh phí, chuyện sân huấn luyện chỉ là một bãi đất trống rào tạm bằng cọc gỗ cũng chẳng có gì lạ.
+Bất kể đi tới đâu, từ một ngôi làng nhỏ cho đến thành phố lớn, các chi nhánh Hội Mạo Hiểm Giả gần như lúc nào cũng có sân huấn luyện riêng. Tuy mỗi nơi mỗi khác, chúng thường được xây dựng thành một đấu trường cho mọi người cùng sử dụng. Dĩ nhiên, nếu một chi nhánh hội nào đó eo hẹp kinh phí, chuyện sân huấn luyện chỉ là một bãi đất trống rào tạm bằng cọc gỗ cũng chẳng có gì lạ.
 
 Thế nhưng, sân huấn luyện ở Lucaris lại cho thấy chi nhánh hội nơi này tương đối sung túc. Nơi đây không chỉ là một kiến trúc bằng đá đàng hoàng, mà còn được ếm ma pháp gia cố để chống chịu những phép thuật có uy lực đáng kể. Không có cơ sở vật chất như thế này thì người ta buộc phải ra ngoài hoang dã tìm bãi đất trống mà luyện tập ma pháp. Mà như thế thì rất dễ đụng phải quái vật lang thang, rồi bị chúng cho "thực chiến" nhiều hơn cả mức mong muốn. Rất may là ở Lucaris dường như chẳng phải lo chuyện đó.
 
@@ -50,7 +50,7 @@ Tiếc cho người bán đồ nguyền là kỹ thuật của hai người có 
 
 Đã vậy, Capitan còn có thể làm được nhiều điều với Khí Lực hơn là chỉ đơn thuần cường hóa thể chất.
 
-"Hả?! Đùa nhau à!" Pherousa thốt lên. "Đòn đâm thương đó trúng rõ ràng mà! Sao lại nảy bật khỏi người ông chú đó được chứ?! Da chú ta làm bằng thép hay gì?!"
+"Hả?! Đùa nhau à!" Pherousa thốt lên. "Đòn đâm thương đó trúng rõ ràng mà! Sao lại nảy bật khỏi người ông chú đó được chứ?! Da ông chú đó làm bằng thép hay gì?!"
 
 Diego đã vận dụng bộ pháp tuyệt vời và tận dụng tầm với của ngọn thương để tung ra một đòn đâm chuẩn xác vào Capitan, nhưng mũi thương dường như chỉ nảy bật ra khỏi da thịt của người thợ săn kỳ cựu. Song tôi thì hiểu rõ hơn ai hết—nhờ đôi mắt của mình, tôi có thể nhìn thấy đầu thương rõ mồn một. Nó không hề dội ra từ da của Capitan, mà là từ lớp Khí Lực vô hình đang bao bọc lấy cơ thể chú ấy.
 
@@ -64,7 +64,7 @@ Chú ấy từng biểu diễn kỹ thuật này cho tôi xem trước đây—v
 
 "Thế cơ à? Tôi thấy mình còn chẳng làm khó nổi ông."
 
-"Trái lại mới đúng. Có khi tôi mới là người đang chùn tay. Lâu rồi không đụng độ ai ra trò nên xem chừng tay chân hơi cứng. Chắc đến lúc tôi phải nghiêm túc rồi."
+"Trái lại mới đúng. Nói đúng hơn thì tôi mới là người đang xuống phong độ. Lâu rồi không đụng độ ai ra trò nên xem chừng tay chân hơi cứng. Chắc đến lúc tôi phải nghiêm túc rồi."
 
 "Gì cơ, nãy giờ ông chưa nghiêm túc à?"
 
@@ -96,7 +96,7 @@ Thoạt đầu, Diego trông vẫn thản nhiên, có lẽ vì đinh ninh sự d
 
 Capitan cười khẽ. "Chịu thua chưa nào?"
 
-Phải mất một lúc Diego mới đáp lại, nhưng anh ấy dường như đã hiểu rằng giãy giụa thêm cũng chẳng ích gì. "Hỏi thừa quá đấy," anh ấy nói.
+Phải mất một lúc Diego mới đáp lại, nhưng anh ấy dường như đã hiểu rằng giãy giụa thêm cũng chẳng ích gì. "Có khác gì nhau đâu chứ?" anh ấy nói.
 
 "Rõ ràng là ông thắng rồi còn gì. Trận đấu hay lắm."
 
@@ -108,9 +108,9 @@ Cả hai đứng dậy nhìn về phía tôi. "Rentt à," Capitan nói. "Cháu m
 
 Có điều, thay vì nhìn tôi, chú ấy lại dán mắt vào Pherousa. Tôi có thể cảm nhận được câu hỏi chú ấy muốn đặt ra: Cháu lại tha thứ gì về đây nữa thế? Dù chú ấy hiểu tôi đủ rõ để có lẽ đã đoán được phần nào.
 
-"Vâng, đồ đạc cháu mua xong cả rồi," tôi nói. "Còn cô bé này là Pherousa. Chuyện kể ra hơi dài dòng..."
+"Ừ, đồ đạc cháu mua xong cả rồi," tôi nói. "Còn cô bé này là Pherousa. Chuyện kể ra hơi dài dòng..."
 
-"Chẳng cần nói cũng biết," Capitan lẩm bẩm, gãi cằm. "Mà nếu mắt tôi không nhìn nhầm thì cô bé này là ngư nhân đúng không?"
+"Chẳng cần nói cũng biết," Capitan lẩm bẩm, gãi cằm. "Mà nếu mắt chú không nhìn nhầm thì cô bé này là ngư nhân đúng không?"
 
 "Đúng vậy," cô bé xác nhận. "Như Rentt đã nói, tôi là Pherousa. Đứa con của biển xưa."
 
@@ -170,7 +170,7 @@ Anh ấy nói thật lòng; chẳng phải tự nhiên mà khả năng tương t
 
 "Nói về chuyện chủng tộc thì có lẽ số câu hỏi sẽ luôn nhiều hơn những câu trả lời," tôi đồng tình. Minh chứng rõ nhất chính là tôi. Nhưng trong khi trước đây tôi từng ngỡ mình là kẻ duy nhất sống trên đời mà chẳng biết bản thân thực sự là gì, cuộc trò chuyện với Diego đã khiến tôi nhận ra các chủng tộc khác cũng có những bí ẩn khôn lường của riêng họ. Có lẽ tôi chẳng cần phải cảm thấy cô độc đến thế.
 
-"Hảo nào trên người Rentt lại có mùi biển," Pherousa nói. "Tôi không ngờ một người bạn của anh lại mang dòng máu ngư nhân đấy."
+"Thảo nào trên người anh Rentt lại có mùi biển," Pherousa nói. "Tôi không ngờ một người bạn của anh lại mang dòng máu ngư nhân đấy."
 
 "Thế mà tôi cứ đinh ninh là do bọn tôi vừa tới Mê Cung Các Con Gái Của Hải Thần cơ đấy," tôi nói.
 
@@ -182,7 +182,7 @@ Xem chừng anh ấy đã đoán được tôi muốn hỏi gì, bởi nét mặ
 
 "Tôi cũng không định đi xa đến mức đó đâu," tôi đáp. "Tôi chỉ muốn hỏi xem anh có thể thuê cô bé làm việc được không, chí ít là tạm thời. Theo những gì cô bé kể thì hiện giờ cô bé chưa thể về nhà. Ở thành phố này cô bé cũng chẳng có cách nào kiếm sống, thế nên mới phải đi móc túi. Trông cô bé không phải đứa trẻ xấu, nên là..."
 
-Anh chàng bán đồ nguyền thở dài. "Nghe anh nói thế rồi thì tôi nỡ lòng nào từ chối được nữa chứ? Đằng nào tôi cũng đang cho nhóm Niedz ở nhờ rồi, thêm một người nữa thì có sao đâu? Với lại, cô bé sẽ rất có ích vào những ngày như hôm nay, khi cả ba người bọn họ đều kiệt sức vì thám hiểm mê cung." Anh quay sang. "Pherousa đúng không? Nhóc thấy thế nào?"
+Anh chàng bán đồ nguyền thở dài. "Nghe anh nói thế rồi thì tôi nỡ lòng nào từ chối được nữa chứ? Đằng nào tôi cũng đang cho nhóm Niedz ở nhờ rồi, thêm một người nữa thì có sao đâu? Với lại, cô bé sẽ rất có ích vào những ngày như hôm nay, khi cả ba người bọn họ đều kiệt sức vì thám hiểm mê cung." Anh ấy quay sang. "Pherousa đúng không? Nhóc thấy thế nào?"
 
 "Thế nào là thế nào cơ?" cô bé hỏi. "Anh định thuê tôi thật à? Nhưng tôi là ngư nhân, lại còn là kẻ móc túi nữa."
 

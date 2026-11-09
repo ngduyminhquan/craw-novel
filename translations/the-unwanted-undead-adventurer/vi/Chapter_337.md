@@ -2,9 +2,9 @@
 
 "Được rồi," Ingo nói. "Ta sẽ bắt đầu từ những điều căn bản nhất. Cháu đã sẵn sàng chưa, Lorraine?"
 
-Mặc dù chúng tôi đã đi khá sâu vào cánh rừng gần Làng Hathara quê nhà Rentt, điều này chẳng gây ra trở ngại nào cho tôi hay Ingo. Tôi có các ma cụ phòng thân của một ma pháp sư, còn ông ấy thì được một trong những quái vật đã thuần hóa đi cùng hộ tống.
+Mặc dù chúng tôi đã đi khá sâu vào cánh rừng gần Làng Hathara quê nhà Rentt, điều này chẳng gây ra trở ngại nào cho tôi hay Ingo. Tôi có các ngón nghề của một ma pháp sư để phòng thân, còn ông ấy thì được một trong những quái vật đã thuần hóa đi cùng hộ tống.
 
-Trong trường hợp này, sinh vật đi bên cạnh ông ấy không phải con Lindblum mà tôi vốn luôn liên tưởng mỗi khi nghĩ tới ông, mà là một phân loài Slime to lớn có tên Đại Slime. Chúng to gần bằng một người trưởng thành, và ở thời điểm này thì điều đó cũng chẳng làm tôi ngạc nhiên nữa: trước giờ chưa từng có ghi chép nào về việc loài này có thể thuần hóa được. Nhận thức chung của mọi người là Slime chỉ có thể huấn luyện tới các giống cỡ vừa, cao tầm ngang thắt lưng người lớn mà thôi.
+Trong trường hợp này, sinh vật đi bên cạnh ông ấy không phải con Lindblum mà tôi vốn luôn liên tưởng mỗi khi nghĩ tới ông ấy, mà là một phân loài Slime to lớn có tên Đại Slime. Chúng to gần bằng một người trưởng thành, và ở thời điểm này thì điều đó cũng chẳng làm tôi ngạc nhiên nữa: trước giờ chưa từng có ghi chép nào về việc loài này có thể thuần hóa được. Nhận thức chung của mọi người là Slime chỉ có thể huấn luyện tới các giống cỡ vừa, cao tầm ngang thắt lưng người lớn mà thôi.
 
 Thế nhưng, như để bác bỏ giả định ấy, con Đại Slime ngoan ngoãn tuân theo mọi mệnh lệnh của Ingo. Cảnh tượng kỳ lạ khôn xiết, và đó lại là một minh chứng nữa cho thấy những chỉ dẫn của Ingo sẽ quý giá đến nhường nào.
 
@@ -46,15 +46,15 @@ Tôi gật đầu. "Vâng. Thường chính những kẻ bất cẩn kiểu đó
 
 "Đúng không nào?"
 
-"Gác chuyện đó sang một bên, ý bác là sao khi bảo việc dùng ma nhãn sẽ giúp cháu học nhanh hơn ạ?"
+"Gác chuyện đó sang một bên, bác bảo dùng ma nhãn sẽ giúp cháu học nhanh hơn là có ý gì?"
 
 "Chà, ta đâu rành cách những người thuần hóa quái vật khác làm việc, nhưng cháu có nhớ ta từng nói phương pháp của ta đòi hỏi việc vận hành Ma Lực hết sức tinh vi không?"
 
-"Cháu nhớ... À. Phải chăng khả năng quan sát dòng chảy Ma Lực khi nó di chuyển sẽ đóng vai trò quan trọng sao bác?"
+"Cháu nhớ... À. Chắc hẳn khả năng quan sát Ma Lực khi nó dịch chuyển sẽ rất quan trọng đúng không bác?"
 
-"Chính xác. Điều đặc biệt tối quan trọng là cháu phải thấy được cách nó truyền vào bên trong quái vật. Một khi đã nắm được điều đó, phần còn lại chỉ là đem ra thực hành thôi. Vì đây là lần đầu tiên ta dạy cho người khác nên ta không dám cam đoan phương pháp này vạn vô nhất thất, nhưng ta từng được chỉ dạy rằng đây là con đường nhanh nhất."
+"Chính xác. Quan trọng nhất là cháu phải thấy được cách nó truyền vào bên trong quái vật. Một khi đã nắm được điều đó, phần còn lại chỉ là đem ra thực hành thôi. Vì đây là lần đầu tiên ta dạy cho người khác nên ta không dám cam đoan phương pháp này chắc ăn tuyệt đối, nhưng ta từng được chỉ dạy rằng đây là con đường nhanh nhất."
 
-"Vâng ạ. Cháu rất mong được bác chỉ dẫn!"
+"Vâng. Cháu rất mong được bác chỉ dẫn!"
 
 ◆◇◆◇◆
 
@@ -72,7 +72,7 @@ Nếu đưa ma thuật vào cuộc, người ta còn có những ma cụ khiến
 
 "Thực ra dùng con quái vật nhỏ nào làm mẫu cũng được thôi, nhưng nếu là Slime thì làm xong ta có thể cho nó dung hợp vào anh bạn này," Ingo giải thích, chỉ vào con Đại Slime bên cạnh. "Ta đã có khá nhiều quyến thuộc rồi, nên không muốn tốn thêm công sức chăm sóc thêm nữa."
 
-Tôi thấy tính toán đó khá thực tế. Dẫu vậy... "Bác bảo sẽ ép chúng dung hợp sao ạ?"
+Tôi thấy tính toán đó khá thực tế. Dẫu vậy... "Bác bảo sẽ ép chúng dung hợp sao?"
 
 "Ừ, nhưng thông thường ta chỉ làm được điều đó với Slime thôi."
 
@@ -88,17 +88,17 @@ Tôi thấy tính toán đó khá thực tế. Dẫu vậy... "Bác bảo sẽ �
 
 "Cái gì vừa phải cũng tốt hơn," Ingo đồng tình. "Được rồi, ta sẽ bắt đầu quá trình thuần hóa đây."
 
-"Vậy cháu sẽ quan sát cẩn thận ạ."
+"Vậy cháu sẽ quan sát thật kỹ."
 
-Ingo rút từ thắt lưng ra một con dao nhỏ rồi rạch nhẹ đầu ngón tay trỏ của mình. Ngay khi tôi còn đang tự hỏi ông ấy định làm gì, tôi thấy Ma Lực bên trong cơ thể ông bắt đầu tụ lại nơi đầu ngón tay—không, là trong giọt máu của ông.
+Ingo rút từ thắt lưng ra một con dao nhỏ rồi rạch nhẹ đầu ngón tay trỏ của mình. Ngay khi tôi còn đang tự hỏi ông ấy định làm gì, tôi thấy Ma Lực bên trong cơ thể ông ấy bắt đầu tụ lại nơi đầu ngón tay—không, là trong giọt máu của ông ấy.
 
 "Ta làm bước này ở nhà cũng được," Ingo giải thích. "Nhưng nó chỉ duy trì được tầm một ngày thôi, và hiệu lực sẽ giảm dần theo thời gian. Chưa kể mỗi con quái vật lại đòi hỏi một nồng độ Ma Lực riêng biệt."
 
-Sau khi xác nhận quan sát của tôi rằng ông ấy đã truyền đủ lượng Ma Lực vào máu, Ingo dùng bàn tay còn lại rút ra một chiếc ống nghiệm nhỏ rồi nhỏ một giọt máu đỏ thẫm vào trong. Có vẻ bản thân chiếc ống nghiệm được chế tác đặc biệt, bởi nó giữ chặt hoàn toàn Ma Lực bên trong. Điều đó khơi gợi sự hứng thú của tôi, và trong đầu tôi nảy ra một loạt vật liệu khả dĩ có thể dùng để chế tạo nó trước khi Ingo dường như bắt thóp được suy nghĩ của tôi.
+Sau khi xác nhận tôi đã quan sát thấy máu được truyền đủ Ma Lực, Ingo dùng bàn tay còn lại rút ra một chiếc ống nghiệm nhỏ rồi nhỏ một giọt máu đỏ thẫm vào trong. Có vẻ bản thân chiếc ống nghiệm được chế tác đặc biệt, bởi nó giữ chặt hoàn toàn Ma Lực bên trong. Điều đó khơi gợi sự hứng thú của tôi, và trong đầu tôi nảy ra một loạt vật liệu khả dĩ có thể dùng để chế tạo nó trước khi Ingo dường như bắt thóp được suy nghĩ của tôi.
 
 "Lát nữa ta sẽ chỉ cho cháu cách làm thứ này," ông ấy bật cười nói. "Đó là phương pháp ta được thừa kế lại. Cơ mà thực ra phần lớn ống nghiệm của ta đều lấy từ chỗ bà Gharb cả."
 
-"Cháu cảm ơn bác. Phải nói rằng bác đúng là một kho tàng tri thức đấy ạ."
+"Cháu cảm ơn bác. Phải nói rằng bác đúng là một kho tàng tri thức đấy."
 
 "Tất cả chỉ là những thứ tiền nhân truyền lại cho ta thôi. Ta nghĩ các ngôi làng khác quanh đây ngày xưa cũng từng thừa kế mớ kiến thức tương tự, nhưng giờ thì ta chịu không biết có còn thế nữa hay không. Có khi bọn ta là những người duy nhất còn sót lại—nhưng biết đâu lại chẳng phải vậy. Ai mà biết được chứ?"
 
@@ -112,29 +112,29 @@ Dẫu vậy, tôi vẫn thấy thật phi thường khi bản thân có cơ hộ
 
 Con quyến thuộc được nhắc tới đang nép sát mình xuống mặt đất, như thể đang cố hết sức để ẩn mình. Hẳn đó là lý do con Slime hoang dã nhỏ bé đằng kia vẫn chưa nhận ra sự hiện diện của chúng tôi.
 
-"Vâng ạ," tôi đáp. "Bác định dùng chiếc ống nghiệm đó thế nào vậy ạ?"
+"Vâng," tôi đáp. "Bác định dùng chiếc ống nghiệm đó thế nào vậy?"
 
 "Ta sẽ ném nó. Một khi trúng đích, Ma Lực của ta sẽ thông qua máu làm môi giới mà rót vào cơ thể con Slime. Với những quái vật yếu như Slime, thông thường ta chỉ cần nhỏ máu trực tiếp từ ngón tay lên người nó là xong—và với trình độ điều khiển Ma Lực điêu luyện của cháu, hẳn cháu cũng chẳng cần phải trải qua từng bước lỉnh kỉnh thế này đâu. Cơ mà ta muốn làm rõ ràng hết mức có thể để cháu hiểu quy trình vận hành ra sao."
 
-"Hóa ra là vậy ạ."
+"Ra là vậy."
 
 "Được rồi. Ta bắt đầu đây," Ingo nói. Ông ấy cẩn thận bước từng bước tiếp cận con Slime để tránh gây chú ý.
 
 ◆◇◆◇◆
 
-Cách Ingo di chuyển hoàn toàn khác xa những gì người ta tưởng tượng về trưởng làng của một ngôi làng nhỏ. Dù ông ấy luôn miệng khẳng định mình chẳng giỏi giang gì chuyện chiến đấu, nhưng hẳn ông phải sở hữu năng lực thể chất ở mức độ nhất định, bởi nghề thuần hóa đòi hỏi người ta phải tiếp xúc rất gần với quái vật.
+Cách Ingo di chuyển hoàn toàn khác xa những gì người ta tưởng tượng về trưởng làng của một ngôi làng nhỏ. Dù ông ấy luôn miệng khẳng định mình chẳng giỏi giang gì chuyện chiến đấu, nhưng hẳn ông ấy phải sở hữu năng lực thể chất ở mức độ nhất định, bởi nghề thuần hóa đòi hỏi người ta phải tiếp xúc rất gần với quái vật.
 
 Dĩ nhiên, ông ấy có thể chỉ chuyên thuần hóa quái vật yếu rồi dẫn dắt chúng trải qua Tiến Hóa Bản Thể, nhưng dẫu vậy, số người thiệt mạng dưới tay Slime mỗi năm đâu phải chuyện đùa. Rõ ràng là ông ấy đủ mạnh để đánh bại những quái vật mình thuần hóa—hoặc chí ít cũng đủ bản lĩnh để tẩu thoát nếu tình thế chuyển biến xấu.
 
-Con Slime hoang dã dường như chẳng hề nhận ra Ingo đang tiến lại gần, chắc chắn là nhờ ông ấy đã tiết chế lượng Ma Lực mà cơ thể mình tự nhiên tỏa ra. Xem chừng khả năng kiểm soát Ma Lực tinh vi mà phương pháp thuần hóa quái vật của ông đòi hỏi mang lại rất nhiều lợi thế.
+Con Slime hoang dã dường như chẳng hề nhận ra Ingo đang tiến lại gần, chắc chắn là nhờ ông ấy đã tiết chế lượng Ma Lực mà cơ thể mình tự nhiên tỏa ra. Xem chừng khả năng kiểm soát Ma Lực tinh vi mà phương pháp thuần hóa quái vật của ông ấy đòi hỏi mang lại rất nhiều lợi thế.
 
-Dù cơ quan cảm giác của quái vật tùy thuộc vào từng chủng loài, đa số chúng đều có khả năng cảm nhận Ma Lực—đó thường là cách chúng dùng để săn tìm con mồi. Thành thử nếu muốn ẩn mình trước quái vật, người ta thường phải kiềm chế dấu vết Ma Lực của chính mình. Chỉ qua những cử động cẩn trọng của ông ấy, tôi có thể thấy rõ Ingo am hiểu tập tính quái vật đến mức nào, cũng như cách ông tận dụng điều đó làm lợi thế khi thuần hóa chúng.
+Dù cơ quan cảm giác của quái vật tùy thuộc vào từng chủng loài, đa số chúng đều có khả năng cảm nhận Ma Lực—đó thường là cách chúng dùng để săn tìm con mồi. Thành thử nếu muốn ẩn mình trước quái vật, người ta thường phải kiềm chế dấu vết Ma Lực của chính mình. Chỉ qua những cử động cẩn trọng của ông ấy, tôi có thể thấy rõ Ingo am hiểu tập tính quái vật đến mức nào, cũng như cách ông ấy tận dụng điều đó làm lợi thế khi thuần hóa chúng.
 
-Khi đã đến đủ gần, Ingo nhắm vào con Slime hoang dã rồi ném chiếc ống nghiệm nhỏ chứa máu của mình. Con quái vật vẫn không hề hay biết sự hiện diện của ông, dĩ nhiên chẳng kịp né tránh. Ngay khoảnh khắc chiếc ống nghiệm va trúng con Slime, tôi đã thấy Ingo vận hành Ma Lực bên trong cơ thể, dẫn truyền nó về hướng con Slime.
+Khi đã đến đủ gần, Ingo nhắm vào con Slime hoang dã rồi ném chiếc ống nghiệm nhỏ chứa máu của mình. Con quái vật vẫn không hề hay biết sự hiện diện của ông ấy, dĩ nhiên chẳng kịp né tránh. Ngay khoảnh khắc chiếc ống nghiệm va trúng con Slime, tôi đã thấy Ingo vận hành Ma Lực bên trong cơ thể, dẫn truyền nó về hướng con Slime.
 
 Một ma pháp trận xuất hiện trên mặt đất bên dưới con quái vật. Thoạt nhìn, nó có nét tương đồng với các ma pháp trận dùng cho ma thuật khế ước trong giao thương, nhưng nhìn kỹ hơn sẽ thấy vô số điểm khác biệt.
 
-Ingo kéo dài Ma Lực của mình ra như một sợi tơ, nối liền tới chỗ chiếc ống nghiệm đập trúng con Slime. Dù thoáng thắc mắc mục đích của ông là gì, tôi sớm hiểu ra ngay: trước sự ngạc nhiên của tôi, sợi tơ Ma Lực của ông luồn thẳng vào bên trong cơ thể con Slime.
+Ingo kéo dài Ma Lực của mình ra như một sợi tơ, nối liền tới chỗ chiếc ống nghiệm đập trúng con Slime. Dù thoáng thắc mắc mục đích của ông ấy là gì, tôi sớm hiểu ra ngay: trước sự ngạc nhiên của tôi, sợi tơ Ma Lực của ông ấy luồn thẳng vào bên trong cơ thể con Slime.
 
 Bình thường, việc dẫn truyền Ma Lực vào cơ thể một sinh vật sống khác là cực kỳ khó khăn—đặc biệt là khi đối phương không tự nguyện hoặc bị ép buộc. Hệ thống Ma Lực của một sinh vật sống sẽ bài trừ Ma Lực ngoại lai theo lẽ tự nhiên, làm phân tán hoặc đánh bật nó ra ngoài chỉ trong vài giây. Chuyện đó vẫn khả thi, nhưng đòi hỏi phải ở cự ly cực gần—tiếp xúc trực tiếp là tốt nhất—cùng với một lượng lớn Ma Lực và sự kiểm soát hết sức tinh vi.
 
@@ -142,7 +142,7 @@ Dĩ nhiên, câu chuyện sẽ khác đối với một số phép thuật hoàn
 
 Xét điều đó, người ta rất dễ lầm tưởng sợi tơ Ma Lực của Ingo là một dạng ma pháp phát triển cao tương tự, nhưng ma nhãn của tôi cho thấy điều hoàn toàn khác. Với tôi, việc sợi tơ Ma Lực của Ingo không phải một ma pháp định sẵn mà là một cấu trúc Ma Lực thuần túy hiện lên rõ như ban ngày.
 
-Nếu bất thình lình chứng kiến cảnh này, hẳn lúc này tôi đã phải thốt lên kinh ngạc rồi. Thế nhưng, Ingo đã thực hiện một loạt bước gợi mở cho tôi manh mối. Dù sao thì tôi cũng biết sợi tơ Ma Lực của ông được nối với điểm mà chiếc ống nghiệm va trúng con Slime. Điều đó mách bảo tôi rằng ông đã dùng máu và Ma Lực của mình để mở ra một cánh cổng dẫn vào cơ thể con quái vật.
+Nếu bất thình lình chứng kiến cảnh này, hẳn lúc này tôi đã phải thốt lên kinh ngạc rồi. Thế nhưng, Ingo đã thực hiện một loạt bước gợi mở cho tôi manh mối. Dù sao thì tôi cũng biết sợi tơ Ma Lực của ông ấy được nối với điểm mà chiếc ống nghiệm va trúng con Slime. Điều đó mách bảo tôi rằng ông ấy đã dùng máu và Ma Lực của mình để mở ra một cánh cổng dẫn vào cơ thể con quái vật.
 
 Phải chăng bằng cách truyền Ma Lực qua "cánh cổng" vừa tạo ra, ông ấy sẽ không gặp phải bất kỳ sự kháng cự nào khi rót Ma Lực của mình vào cơ thể sinh vật khác?
 
@@ -168,6 +168,6 @@ Khi ông ấy tiếp tục truyền Ma Lực qua sợi tơ, khối trụ ma phá
 
 Ma pháp trận bừng sáng lóe lên, khiến tôi theo phản xạ phải nhắm mắt lại. Ngay lập tức, tôi lo lắng mình đã bỏ lỡ khoảnh khắc then chốt; đáng lẽ tôi nên mang theo thứ gì đó để che mắt. Quả nhiên, tới khi tôi mở mắt ra thì dường như mọi chuyện đã muộn rồi.
 
-"Như cháu thấy đấy, Lorraine," Ingo nói, cúi nhìn con Slime dưới chân mình. Nó đang nảy tưng tưng vui sướng, cọ mình vào chân ông với thứ tình cảm quyến luyến mà chẳng loài sinh vật hoang dã nào có thể thể hiện ra. "Giờ thì con Slime này đã là quyến thuộc của ta rồi."
+"Như cháu thấy đấy, Lorraine," Ingo nói, cúi nhìn con Slime dưới chân mình. Nó đang nảy tưng tưng vui sướng, cọ mình vào chân ông ấy với thứ tình cảm quyến luyến mà chẳng loài sinh vật hoang dã nào có thể thể hiện ra. "Giờ thì con Slime này đã là quyến thuộc của ta rồi."
 
 Một lần nữa, tôi lại thấy cơ hội được học hỏi từ ông ấy quý giá đến nhường nào.

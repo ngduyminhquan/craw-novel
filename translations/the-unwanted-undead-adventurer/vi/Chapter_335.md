@@ -1,10 +1,10 @@
 # Chương 335: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (2)
 
-Hôm sau, chúng tôi quyết định nghỉ ngơi, vì thám hiểm mê cung liên tiếp nhiều ngày sẽ quá tải đối với cơ thể. Điều đó chẳng ảnh hưởng gì tới tôi, bởi tôi đâu biết mỏi mệt thể xác là gì, nhưng với những người khác thì lại không thể nói như vậy.
+Hôm sau, chúng tôi quyết định nghỉ ngơi, vì thám hiểm mê cung liên tiếp nhiều ngày sẽ quá tải đối với cơ thể. Điều đó chẳng ảnh hưởng gì tới tôi, bởi tôi đâu biết mỏi mệt thể xác là gì, nhưng những người khác thì không được như vậy.
 
 Đặc biệt là Niedz, Lukas và Gahedd, cả ba đều đã kiệt sức hoàn toàn. Nếu dắt họ vào mê cung trong tình trạng này, chắc chắn họ sẽ dính chấn thương nặng—hoặc tệ hơn. Dù kéo họ theo một phần là để trừng phạt những chuyện họ từng làm, nhưng điều đó không có nghĩa là tôi muốn họ gặp phải nguy hiểm tính mạng.
 
-Dẫu vậy, nỗ lực dốc cạn sức lực vào hôm qua của họ đã đem lại quả ngọt—theo lời Capitan, cả ba đang bắt đầu chớm bộc lộ dấu hiệu có thể sử dụng Khí Lực. Thông thường, người ta phải trải qua quá trình khổ luyện bền bỉ, gắt gao mới đạt được điều đó. Bản thân tôi từng như vậy, và có lẽ với Capitan cũng thế.
+Dẫu vậy, công sức vắt kiệt mình vào hôm qua của họ đã đem lại quả ngọt—theo lời Capitan, cả ba đã chớm bộc lộ dấu hiệu có thể sử dụng Khí Lực. Thông thường, người ta phải trải qua quá trình khổ luyện bền bỉ, gắt gao mới đạt được điều đó. Bản thân tôi từng như vậy, và có lẽ với Capitan cũng thế.
 
 Thế nhưng, chuyện gì cũng có ngoại lệ và đường tắt, và dường như Niedz, Lukas cùng Gahedd lại rơi vào trường hợp đó.
 
@@ -42,7 +42,7 @@ Thực ra tôi đã nhận thấy người đó lao tới và cố tránh sang m
 
 "Bị móc túi rồi..."
 
-Tôi cảm nhận rất rõ cảm giác túi tiền bị giật khỏi thắt lưng. Tôi đã buộc dây khá chắc chắn, nhưng kẻ móc túi này rõ ràng là tay lão luyện. Đối phương dùng dao—và ra tay hết sức điêu luyện nếu xét khoảng thời gian chớp nhoáng của cơ hội. Nếu khi nãy tôi vươn tay ra, có lẽ người đó đã rạch một đường ngang bàn tay hoặc cánh tay tôi rồi.
+Tôi cảm nhận rất rõ lúc túi tiền bị giật khỏi thắt lưng. Tôi đã buộc dây khá chắc chắn, nhưng kẻ móc túi này rõ ràng là tay lão luyện. Đối phương dùng dao—và ra tay hết sức điêu luyện chỉ trong một thoáng sơ hở ngắn ngủi. Nếu khi nãy tôi vươn tay ra, có lẽ người đó đã rạch một đường ngang bàn tay hoặc cánh tay tôi rồi.
 
 Chuyện đó thực ra chẳng hề hấn gì với tôi, nhưng tôi chợt lo không biết người xung quanh sẽ nhìn nhận thế nào nếu tôi bị dao chém trúng mà vẫn dửng dưng như không. Xem ra chính việc nghĩ ngợi quá nhiều đã làm hỏng việc của tôi.
 
@@ -52,7 +52,7 @@ May thay, tôi vẫn kịp nhìn thấy bóng kẻ móc túi đang lủi nhanh r
 
 Tạm thời, tôi bám theo kẻ móc túi với tốc độ vừa phải. Chạy thục mạng đuổi theo chỉ khiến mình bị chú ý, vả lại trên phố chính lúc này cũng có quá nhiều người để làm vậy. Thay vì để mất dấu, tôi quyết định đợi tới khi ra đến chỗ thoáng đãng hơn rồi mới đuổi kịp.
 
-May mắn là kẻ móc túi dường như không nhận ra tôi. Cách di chuyển của đối phương giống như đang muốn chuồn khỏi hiện trường vụ trộm hơn là cắt đuôi kẻ bám theo. Dường như đây cũng chẳng phải lần đầu tiên của người đó—họ chủ ý rảo bước nhanh chứ không chạy để tránh gây chú ý. Nhờ vậy mà tôi bám theo khá dễ dàng.
+May mắn là kẻ móc túi dường như không nhận ra tôi. Cách di chuyển của đối phương giống như đang muốn chuồn khỏi hiện trường vụ trộm hơn là cắt đuôi kẻ bám theo. Dường như đây cũng chẳng phải lần đầu tiên của người đó—đối phương chủ ý rảo bước nhanh chứ không chạy để tránh gây chú ý. Nhờ vậy mà tôi bám theo khá dễ dàng.
 
 Chẳng mấy chốc, dòng người bắt đầu thưa thớt dần. Ngay khoảnh khắc kẻ móc túi lén lút nhìn quanh quất rồi toan lách vào một con hẻm nhỏ...
 
@@ -64,7 +64,7 @@ Tóm được!
 
 Tôi lôi kẻ móc túi vào trong hẻm. Tôi không thể để đối phương làm ầm ĩ lên rồi khiến người ta tưởng tôi mới là kẻ xấu. Rất nhiều tên tội phạm vặt vãnh rất ranh mãnh kiểu đó—tôi biết tỏng vì ở Maalt cũng chẳng thiếu gì hạng người như vậy.
 
-Đã vậy, tôi cứ thế lôi tuột kẻ móc túi đi tiếp cho tới khi vào đủ sâu, nơi những người có thẩm quyền hay mấy kẻ xa lạ tốt bụng không thể chõ mũi vào. Dù vậy, tên tội phạm bất hạnh kia chắc chắn chẳng chịu ngoan ngoãn đi theo, cứ vừa la hét vừa giãy giụa hòng thoát thân. Vài người gần đó có để ý thấy, nhưng dường như người dân Lucaris nói chung khá hiếm ai đủ dũng cảm để bước ra can ngăn một kẻ lạ mặt khoác áo chùng đen, đeo mặt nạ đầu lâu và lỉnh kỉnh kiếm giắt bên hông đang kéo lê một người vào ngõ hẻm.
+Vì vậy, tôi cứ thế lôi tuột kẻ móc túi đi tiếp cho tới khi vào đủ sâu, nơi người của chính quyền hay mấy người qua đường tốt bụng không thể chõ mũi vào. Dù vậy, tên tội phạm bất hạnh kia chắc chắn chẳng chịu ngoan ngoãn đi theo, cứ vừa la hét vừa giãy giụa hòng thoát thân. Vài người gần đó có để ý thấy, nhưng dường như người dân Lucaris nói chung khá hiếm ai đủ dũng cảm để bước ra can ngăn một kẻ lạ mặt khoác áo chùng đen, đeo mặt nạ đầu lâu và lỉnh kỉnh kiếm giắt bên hông đang kéo lê một người vào ngõ hẻm.
 
 Có lẽ rồi cũng sẽ có ai đó đi báo cho đội tuần tra của thành phố, nhưng tôi đã chủ động rảo bước thật nhanh vào sâu trong hẻm. Cho dù lát nữa có bị thẩm vấn, do chẳng có bằng chứng nào về hành vi sai trái nên tôi chỉ cần trả lời qua loa, mơ hồ là xong chuyện.
 
@@ -94,9 +94,9 @@ Quả thực, chỉ nhìn thoáng qua diện mạo của kẻ móc túi là đ�
 
 Dù cô bé mang vóc dáng hình người xét theo nghĩa chung, nhưng lớp da trên cổ và hai cánh tay lại ráp ráp như có vảy, đôi tai có hình dạng như vây cá, và tròng mắt sáng rực rỡ hơn mắt người rất nhiều. Tất cả những đặc điểm đó đều thuộc về chủng tộc được gọi là ngư nhân.
 
-Dĩ nhiên, tương tự như "thú nhân", từ "ngư nhân" là một danh từ chung rất khái quát để chỉ vô số chủng tộc. Cũng giống như thú nhân sói và thú nhân mèo khác biệt nhau về nhiều mặt, chẳng có hai tộc ngư nhân nào lại giống hệt nhau. Thị trấn Maalt vốn thiếu vắng các chủng tộc á nhân đồng nghĩa với việc tôi chẳng phải chuyên gia về chủ đề này, nhưng ít nhất tôi cũng biết được chừng đó.
+Dĩ nhiên, tương tự như "thú nhân", từ "ngư nhân" là một danh từ chung rất khái quát để chỉ vô số chủng tộc. Cũng giống như thú nhân sói và thú nhân mèo khác biệt nhau về nhiều mặt, chẳng có hai tộc ngư nhân nào lại giống hệt nhau. Ở thị trấn Maalt vốn vắng bóng các chủng tộc Á Nhân nên tôi cũng chẳng phải chuyên gia về chủ đề này, nhưng ít nhất tôi cũng biết được chừng đó.
 
-Có điều, tôi không tài nào phân biệt nổi kẻ móc túi này thuộc phân loài ngư nhân nào. Ngư nhân cá voi và ngư nhân cá mập rất dễ nhận biết, lần lượt nhờ vào thể hình đồ sộ cùng hàm răng sắc nhọn lởm chởm, nhưng cô bé lại chẳng có đặc điểm nổi bật nào như thế—hoặc ít nhất là những đặc điểm có thể dễ dàng nhìn ra ngay từ cái nhìn đầu tiên. Nếu không có lớp vảy và đôi tai kia, tôi thậm chí còn chẳng nhận ra cô bé là một ngư nhân, điều đó cho tôi một góc nhìn mới mẻ về sự đa dạng tột cùng ngoài kia.
+Có điều, tôi không tài nào phân biệt nổi kẻ móc túi này thuộc phân loài ngư nhân nào. Ngư nhân cá voi và ngư nhân cá mập rất dễ nhận biết nhờ thể hình đồ sộ hoặc hàm răng sắc nhọn lởm chởm, nhưng cô bé lại chẳng có đặc điểm nổi bật nào như thế—hoặc ít nhất là những nét có thể nhận ra ngay từ cái nhìn đầu tiên. Nếu không có lớp vảy và đôi tai kia, tôi thậm chí còn chẳng nhận ra cô bé là một ngư nhân, qua đó mới thấy thế giới ngoài kia đa dạng đến nhường nào.
 
 Tuy nhiên, dường như cô bé lại hiểu lầm ánh mắt tò mò thực sự của tôi sang một ý khác. "Đúng thế, gần như ai cũng quay về rồi," cô bé nói. "Nhưng đừng tưởng như thế là không ai trả thù nếu anh đem bán tôi làm nô lệ nhé!"
 
@@ -106,7 +106,7 @@ Tuy nhiên, dường như cô bé lại hiểu lầm ánh mắt tò mò thực s
 
 ◆◇◆◇◆
 
-"Giờ làm sao mà xuống nước được chứ," cô bé ngư nhân nghiến răng nói. "Tôi đã chậm chân. Tôi lỡ mất chuyến trở về rồi."
+"Giờ làm sao mà xuống nước được chứ," cô bé ngư nhân nghiến răng nói. "Tôi đã chậm chân. Tôi lỡ mất dịp quay về rồi."
 
 "Không xuống nước được?" tôi lặp lại. "Tại sao lại không?"
 
@@ -116,11 +116,11 @@ Thực ra tôi có nghe nói về chuyện đó. Đó là lý do mọi tàu thuy
 
 "Ừm. Thuộc hạ của Ma Vương Canhel—rất đông là đằng khác—đã chiếm lĩnh cả vùng biển này. Không chỉ mỗi mặt nước đâu—chúng còn lượn lờ quanh thành phố của bọn tôi dưới đáy biển nữa. Đến lúc tôi nhận ra mình nên chuồn khỏi đây thì đã quá muộn rồi. Nếu tôi thử trốn, chúng sẽ tóm được và giết chết tôi ngay."
 
-Đối với Lucaris, tay chân của Ma Vương chưa hẳn là vấn đề gì quá to tát. Đúng là ngành đánh bắt và hàng hải đang bị đình trệ, nhưng nói một cách chặt chẽ thì chưa có thiệt hại nghiêm trọng nào xảy ra. Việc người dân thị trấn vẫn coi chủ đề này như những mẩu chuyện phiếm đơn thuần chính là minh chứng cho điều đó. Thế nhưng, xem chừng với ngư nhân thì tình hình lại nghiêm trọng hơn nhiều.
+Đối với Lucaris, tay chân của Ma Vương chưa hẳn là vấn đề gì quá to tát. Đúng là ngành đánh bắt và hàng hải đang bị đình trệ, nhưng xét trên thực tế thì chưa có thiệt hại nghiêm trọng nào xảy ra. Việc người dân thị trấn vẫn coi chủ đề này như những mẩu chuyện phiếm đơn thuần chính là minh chứng cho điều đó. Thế nhưng, xem chừng với ngư nhân thì tình hình lại nghiêm trọng hơn nhiều.
 
-"Chuyện đó..." Tôi ngập ngừng một thoáng rồi nói tiếp. "Thật chia buồn với nhóc. Cơ mà, nhóc đâu phải ngư nhân duy nhất còn kẹt lại Lucaris, đúng không? Sao không nhờ cậy những người khác trong thời gian này? Tôi nghe nói đồng bào của nhóc đoàn kết lắm cơ mà."
+"Chuyện đó..." Tôi ngập ngừng một thoáng rồi nói tiếp. "Khổ cho nhóc thật. Cơ mà, nhóc đâu phải ngư nhân duy nhất còn kẹt lại Lucaris, đúng không? Sao không nhờ cậy những người khác trong thời gian này? Tôi nghe nói đồng bào của nhóc đoàn kết lắm cơ mà."
 
-Chà, thay vì bảo ngư nhân có mối gắn kết đặc biệt bền chặt, có lẽ nói rằng con người quá lỏng lẻo trong mối quan hệ đồng loại thì đúng hơn. Việc các chủng tộc á nhân nói chung biết chăm lo cho đồng bào của mình là chuyện hết sức phổ biến, trong khi với con người thì chuyện đó lại bấp bênh hơn nhiều. Xét đến điều đó, thật kỳ lạ khi loài người lại có những tôn giáo hoàn toàn tôn sùng quyền tối thượng của nhân loại và bài xích các chủng tộc khác. Tôi đoán chắc con người chúng tôi vốn ngu ngốc như vậy đấy—ngu ngốc và hết thuốc chữa.
+Chà, thay vì bảo ngư nhân có mối gắn kết đặc biệt bền chặt, có lẽ nói rằng con người quá lỏng lẻo trong mối quan hệ đồng loại thì đúng hơn. Việc các chủng tộc Á Nhân nói chung biết chăm lo cho đồng bào của mình là chuyện hết sức phổ biến, trong khi với con người thì chuyện đó lại bấp bênh hơn nhiều. Xét đến điều đó, thật kỳ lạ khi loài người lại có những tôn giáo hoàn toàn tôn sùng quyền tối thượng của nhân loại và bài xích các chủng tộc khác. Tôi đoán chắc con người chúng tôi vốn ngu ngốc như vậy đấy—ngu ngốc và hết thuốc chữa.
 
 Cô bé nhìn tôi với vẻ ngờ vực. "Anh rành về ngư nhân thật đấy. Đúng là vậy, nhưng nếu tôi đến nhờ họ giúp đỡ, tôi chỉ làm họ thêm lo lắng mà thôi. Tôi..."
 
@@ -128,9 +128,9 @@ Cô bé nhìn tôi với vẻ ngờ vực. "Anh rành về ngư nhân thật đ�
 
 Cô bé lắc đầu. "Bỏ đi. Quan trọng hơn là anh định làm gì tôi đây? Tôi trả túi tiền cho anh rồi. Giờ tôi đi được chưa?"
 
-Tôi ngẫm nghĩ một thoáng. Để cô bé lủi đi thì chẳng có gì to tát với tôi, nhưng xét theo hoàn cảnh cô bé vừa kể, tôi nghi ngờ cô bé sẽ lại ngựa quen đường cũ mà đi móc túi tiếp.
+Tôi ngẫm nghĩ một thoáng. Để cô bé lủi đi thì chẳng có gì to tát với tôi, nhưng xét theo hoàn cảnh cô bé vừa kể, tôi e là cô bé sẽ lại quay về con đường móc túi mà thôi.
 
-Đồng thời, tôi cũng chẳng muốn giao cô bé cho chính quyền. Tôi từng chứng kiến sự kỳ thị mà các á nhân phải gánh chịu tại Lucaris, và tôi không tin đội tuần tra của thành phố sẽ đối xử công bằng với cô bé.
+Đồng thời, tôi cũng chẳng muốn giao cô bé cho chính quyền. Tôi từng chứng kiến sự kỳ thị mà các Á Nhân phải gánh chịu tại Lucaris, và tôi không tin đội tuần tra của thành phố sẽ đối xử công bằng với cô bé.
 
 Điều đó gần như dẫn tôi đến một kết luận duy nhất: Có lẽ tốt nhất là xin lời khuyên từ một người hiểu rõ thành phố này hơn—cụ thể là Diego.
 
@@ -144,7 +144,7 @@ Cô bé ngập ngừng gật đầu, như thể không hiểu sao tôi lại h�
 
 "Chẳng tìm được việc nào, đúng không?"
 
-Tôi sẽ chẳng lấy làm ngạc nhiên nếu có sự kỳ thị chen vào chuyện đó—nhưng có lẽ việc tìm kiếm của cô bé cũng không gặp may. Đâu phải ai ở Lucaris cũng có ác cảm với á nhân. Diego vẫn sống tốt đấy thôi, và ngoài kia cũng có rất nhiều á nhân giống như anh ấy tự mở cơ sở kinh doanh riêng. Dẫu vậy, những chỗ đó đều nằm ở nơi hẻo lánh khuất nẻo, nên nếu không am tường thành phố này thì rất khó mà tìm ra.
+Tôi sẽ chẳng lấy làm ngạc nhiên nếu có sự kỳ thị chen vào chuyện đó—nhưng có lẽ lúc đi tìm việc cô bé cũng chẳng gặp may. Đâu phải ai ở Lucaris cũng có ác cảm với Á Nhân. Diego vẫn sống tốt đấy thôi, và ngoài kia cũng có rất nhiều Á Nhân giống như anh ấy tự mở cơ sở kinh doanh riêng. Dẫu vậy, những chỗ đó đều nằm ở nơi hẻo lánh khuất nẻo, nên nếu không am tường thành phố này thì rất khó mà tìm ra.
 
 "Nên cùng đường quá, nhóc mới phải đi ăn trộm à?" tôi hỏi.
 
@@ -152,7 +152,7 @@ Tôi sẽ chẳng lấy làm ngạc nhiên nếu có sự kỳ thị chen vào c
 
 "Hử? Người tôi có mùi biển sao?" Tôi thoáng ngơ ngác một chút trước khi vỡ lẽ. "À. Hôm qua tôi có đi lặn. Chắc mùi biển vẫn chưa tan hết."
 
-Tôi chẳng hề nhận ra người mình có mùi. Nhưng ngẫm lại, các giác quan của á nhân thường cảm nhận sự vật khác xa con người. Chẳng hạn, khứu giác của một số loài có thể nhạy bén gấp cả nghìn lần. Điều đó chưa chắc đã là chuyện tốt, bởi điểm yếu ấy rất dễ bị kẻ khác lợi dụng—nhưng dẫu sao đi nữa, có vẻ cô bé nói thật chuyện ngửi thấy mùi biển trên người tôi.
+Tôi chẳng hề nhận ra người mình có mùi. Nhưng ngẫm lại, các giác quan của Á Nhân thường cảm nhận sự vật khác xa con người. Chẳng hạn, khứu giác của một số loài có thể nhạy bén gấp cả nghìn lần. Điều đó chưa chắc đã là chuyện tốt, bởi điểm yếu ấy rất dễ bị kẻ khác lợi dụng—nhưng dẫu sao đi nữa, có vẻ cô bé nói thật chuyện ngửi thấy mùi biển trên người tôi.
 
 Nói cho rõ thì tôi vẫn tắm rửa đều đặn, nên đây tuyệt đối không phải là do vấn đề vệ sinh kém hay gì đâu. Sau ngần ấy thời gian ngâm mình dưới đó vào ngày hôm qua, tôi đoán việc vương lại chút mùi biển âu cũng là lẽ thường tình.
 
