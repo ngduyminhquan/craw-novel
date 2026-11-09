@@ -1060,3 +1060,10 @@ Người phụ nữ cảnh báo Rentt mỗi ngày phải rời mê cung một l�
 Rentt quay lại làn nước và được Capitan kéo lên; Capitan cho biết Diego cũng vừa ngất xỉu nhìn thấy ảo ảnh lạ, rồi cử Diego dẫn nhóm Niedz do thám khu vực phía trước để làm quen thực chiến với các quái vật như Hạ Cấp Sahagin.
 Rentt kể lại cuộc gặp với người phụ nữ bí ẩn cho Capitan nghe; dựa trên kinh nghiệm săn bắn, Capitan khuyên Rentt tạm gác chuyện đối đầu với thực thể siêu nhiên đó sang một bên để tập trung thám hiểm mê cung.
 Cảnh kết thúc: Trong lúc hai thầy trò đợi nhóm Diego quay về, một cơn ớn lạnh chạy dọc sống lưng và một luồng dao động Ma Lực khổng lồ từ trên cao ập xuống khiến toàn bộ mê cung rung chuyển dữ dội.
+
+## 329
+K’rik, đội trưởng kiêm tộc trưởng một phân nhánh Lizardman dạng hải xà cưỡi thú cưỡi Kelpie, đang chỉ huy đơn vị tuần tra trên biển Lucaris theo lệnh Nữ Ma Vương Canhel Avara để cướp một vật phẩm đặc định từ các mạo hiểm giả thám hiểm Mê Cung Các Con Gái Của Hải Thần.
+Sau khi nghe thuộc hạ báo cáo việc phát hiện một con thuyền cỡ vừa (thuyền của Mazlak chở nhóm Rentt), K’rik quyết định chờ đến chiều tối để lục soát thay vì tàn sát con người; tuy nhiên, Người phụ nữ áo chùng đen tóc trắng bất ngờ xuất hiện lơ lửng trên mặt nước ngay sau lưng họ.
+Người phụ nữ thản nhiên gọi thẳng tên Ma Vương Canhel và khuyên K’rik nên tự mình thám hiểm mê cung vì tộc Lizardman hoàn toàn có tiềm năng Tiến Hóa Bản Thể; K’rik gạt đi vì cho rằng Lizardman chỉ là á nhân và chưa từng có ai tiến hóa.
+Khi K’rik từ chối rút lui và vào thế thủ, Người phụ nữ tóc trắng nhanh chóng ngâm xướng câu chú cổ ngữ triệu hồi ma pháp Sóng Triều (Tidal Wave) tạo bức tường nước khổng lồ cao chạm trời cuốn phăng đơn vị của K’rik.
+Cảnh kết thúc: Mặt nước lắng xuống phẳng lặng, Người phụ nữ tóc trắng trầm ngâm nhận định mình đã nương tay để đối phương sống sót và đã câu đủ thời gian cho Rentt lo việc trong mê cung, rồi biến mất vào hư không.

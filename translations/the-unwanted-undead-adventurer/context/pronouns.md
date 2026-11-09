@@ -132,6 +132,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mazlak | Mazlak / người thủy thủ / người thủy thủ già / ông lão / ông ấy | 321 | Thủy thủ già kỳ cựu tại Lucaris, lái thuyền đưa đón Capitan và nhóm Rentt |
 | Mariana | Mariana / cô gái trẻ / người phụ nữ trẻ / cô ấy | 327 | Người mẹ quá cố của Diego Malga xuất hiện trong ký ức |
 | Woman in the Black Robe | người phụ nữ tóc trắng / cô ta / người phụ nữ | 26 | Người phụ nữ tóc trắng áo chùng đen bí ẩn sở hữu sức mạnh áp đảo (#26, #328) |
+| K’rik | K’rik / anh / anh ta / thủ lĩnh K’rik | 329 | Tộc trưởng phân nhánh Lizardman dạng hải xà |
+| Canhel Avara | Canhel Avara / Canhel / Nữ Ma Vương / cô ta | 329 | Nữ Ma Vương của vảy và bầu trời |
 
 
 
@@ -665,6 +667,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Raul | Mariana | tôi | cô | 327 | Lần đầu gặp gỡ trong Mê Cung Các Con Gái Của Hải Thần |
 | Woman in the Black Robe | Rentt Faina | ta | ngươi / ngài Thi Quỷ | 26 | Người phụ nữ bí ẩn bề trên nói chuyện với Rentt (#26, #328) |
 | Rentt Faina | Woman in the Black Robe | tôi | cô / người phụ nữ | 26 | Rentt nói chuyện kiêng dè, kính sợ người phụ nữ bí ẩn (#26, #328) |
+| Woman in the Black Robe | K’rik | ta | ngươi / các ngươi | 329 | Người phụ nữ tóc trắng áp đảo răn đe tộc trưởng Lizardman |
+| K’rik | Woman in the Black Robe | ta | cô | 329 | Tộc trưởng Lizardman cảnh giác đối đáp với người phụ nữ lạ mặt |
 
 
 

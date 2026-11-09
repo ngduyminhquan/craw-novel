@@ -333,7 +333,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | reviewed |  |
 | 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | reviewed |  |
 | 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | reviewed |  |
-| 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | todo |  |
+| 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | done |  |
 | 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | todo |  |
 | 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | todo |  |
 | 332 |  | Chapter_332 - Vol 14 Chapter 3 - Searching the Dungeon (3).txt | Vol 14 Chapter 3 - Searching the Dungeon (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -1018,3 +1019,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#327] Xưng hô giữa Mariana và Raul khi lần đầu gặp gỡ trong ký ức mê cung: tạm chọn Mariana xưng 'tôi' - gọi 'anh', Raul xưng 'tôi' - gọi 'cô' (hai mạo hiểm giả trẻ tuổi lần đầu gặp nhau, hòa nhã và tự nhiên). → Chốt dùng Mariana xưng 'tôi' - gọi 'anh', Raul xưng 'tôi' - gọi 'cô' (orchestrator)
 - [#327] Dịch tên truyện ngụ ngôn 'story of Meely and his contract': tạm dịch 'câu chuyện về Meely và bản giao kèo của ông ta' (giữ nguyên tên riêng Meely theo rules.md). → Chốt dùng 'câu chuyện về Meely và bản giao kèo của ông ta' (orchestrator)
 - [#328] Dịch 'lesser sahagin' — tạm chọn 'Hạ Cấp Sahagin' (nhất quán tiền tố Hạ Cấp như Hạ Cấp Ma Cà Rồng, Hạ Cấp Khô Lâu Pháp Sư và giữ tên quái Sahagin như Goblin/Orc; phương án khác: 'Quái Ngư Nhân Cấp Thấp' hoặc 'Sahagin Cấp Thấp') → Chốt dùng 'Hạ Cấp Sahagin' (orchestrator)
+- [#329] Dịch ma pháp cổ ngữ 'Tidal Wave': tạm dùng 'Sóng Triều' (phương án khác: 'Triều Ba' theo Hán Việt); danh hiệu 'queen of scales and sky' của Canhel Avara: tạm dùng 'Nữ vương của vảy và bầu trời'. → Chốt 'Tidal Wave → Sóng Triều' và danh hiệu miêu tả 'queen of scales and sky → Nữ vương của vảy và bầu trời' (đồng bộ với bản dịch #329 và glossary.md/characters.md) (orchestrator)

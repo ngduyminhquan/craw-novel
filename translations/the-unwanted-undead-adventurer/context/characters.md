@@ -173,6 +173,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Boss Rentt |  | Đại ca Rentt | Biệt danh Lukas dùng để gọi Rentt Faina (#320, #325) | #320 |
 | Meely |  | Meely | Nhân vật thương nhân trong truyện ngụ ngôn cổ 'Meely và bản giao kèo' | #327 |
 | Woman in the Black Robe | Black-Robed Woman; White-Haired Woman | Người phụ nữ áo chùng đen | Người phụ nữ tóc trắng bí ẩn sở hữu sức mạnh áp đảo từng tặng áo chùng ma thuật và Bản Đồ Akasha cho Rentt (#26, #328) | #26 |
+| K’rik | K'rik | K’rik | Tộc trưởng phân nhánh Lizardman dạng hải xà, chỉ huy đơn vị tuần tra cưỡi Kelpie phụng sự Nữ Ma Vương Canhel Avara | #329 |
+| Canhel Avara | Canhel | Canhel Avara | Một trong Tứ Đại Ma Vương, Nữ Ma Vương của vảy và bầu trời, chủ nhân của K'rik | #329 |
 
 
 
@@ -1054,6 +1056,16 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, người phụ nữ bí ẩn với mái tóc trắng và đôi mắt xanh lam, sở hữu sức mạnh áp đảo (#26, #328).
 - Đặc điểm: Từng suýt tiêu diệt Rentt ở khu vực chưa khai phá của Mê Cung Nguyệt Ảnh, sau đó tặng Rentt chiếc áo chùng ma thuật và Bản Đồ Akasha (#26); tái xuất hiện cứu Rentt khi anh sắp bị Mê Cung Các Con Gái Của Hải Thần đồng hóa (#328).
 - Xuất hiện từ: #26.
+
+### K’rik
+- Thân phận: Tộc trưởng phân nhánh người thằn lằn (Lizardman) mang đặc điểm dạng hải xà (sea serpent), chỉ huy một đơn vị tuần tra cưỡi Kelpie phụng sự Nữ Ma Vương Canhel Avara (#329).
+- Tính cách & đặc điểm: Thấu đáo, trách nhiệm, thương tộc nhân, mang nặng cảm giác tội lỗi vì phải nương nhờ Ma Vương để bảo vệ bộ tộc trước sự tấn công của con người; biết cân nhắc thiệt hơn, ra lệnh bắt giữ mạo hiểm giả để lục soát đồ vật thay vì tàn sát vô nghĩa (#329).
+- Xuất hiện từ: #329.
+
+### Canhel Avara
+- Thân phận: Nữ, một trong bốn Ma Vương (Tứ Đại Ma Vương) đỉnh cao của loài quái vật, được tôn xưng là "Nữ vương của vảy và bầu trời" (queen of scales and sky) (#329).
+- Đặc điểm: Mang diện mạo như một con người bình thường; cai quản vùng lãnh thổ lân cận và thu nhận bộ tộc của K'rik nương nhờ; tính tình tương đối ôn hòa so với các Ma Vương khác nhưng vẫn có thể nổi cơn thịnh nộ hủy diệt nếu phật ý (#329).
+- Xuất hiện từ: #329 (qua lời kể của K'rik).
 
 
 
