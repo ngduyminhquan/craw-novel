@@ -303,7 +303,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | reviewed |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | reviewed |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | reviewed |  |
-| 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | todo |  |
+| 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | done |  |
 | 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | todo |  |
 | 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | todo |  |
 | 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | todo |  |
@@ -971,3 +971,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#296] Tên nhân vật mới 'Zutga' (thợ săn Làng Crask) — tạm giữ nguyên tên riêng phương Tây 'Zutga' và thêm vào characters.md theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zutga'. → Giữ nguyên tên riêng 'Zutga' theo rules.md. (orchestrator)
 - [#298] Dịch 'Dragonfish' (竜魚) — Tạm chọn 'Long Ngư' (motif sinh vật dạng cá khổng lồ có thể hóa rồng, giữ màu sắc kỳ ảo; phương án khác: 'Cá Rồng' dễ nhầm sang cá cảnh đời thường Arowana). → Chấp nhận 'Long Ngư' (nhất quán với motif loài cá thần thoại có tiềm năng hóa rồng). (orchestrator)
 - [#298] Xưng hô giữa bà lão cựu mạo hiểm giả Alvina và Rentt Faina — Tạm chọn Alvina xưng 'ta', gọi 'cậu / Rentt'; Rentt xưng 'tôi', gọi 'bà / bà Alvina' (phương án khác: Alvina xưng 'tôi', gọi 'cậu'). → Chấp nhận Alvina xưng 'ta', gọi 'cậu / Rentt'; Rentt xưng 'tôi', gọi 'bà / bà Alvina'. (orchestrator)
+- [#299] Dịch tiêu đề ngoại truyện 'Vol 12 Bonus - The Flavor of Life' — tạm chọn 'Ngoại truyện Tập 12 - Hương Vị Cuộc Đời' (đồng bộ format 'Ngoại truyện Tập 12 - ...' với #298; phương án khác: 'Ngoại truyện Tập 12 - Hương Vị Cuộc Sống', 'Ngoại truyện Tập 12 - Mùi Vị Cuộc Đời'). Tạm dùng trong bản dịch: 'Ngoại truyện Tập 12 - Hương Vị Cuộc Đời'. → Chấp nhận 'Ngoại truyện Tập 12 - Hương Vị Cuộc Đời' (đồng bộ format 'Ngoại truyện Tập 12 - ...' với #298). (orchestrator)

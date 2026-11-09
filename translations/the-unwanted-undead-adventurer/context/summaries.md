@@ -1055,6 +1055,12 @@ Alvina nhờ Rentt lặn xuống đáy hồ nhặt ba chiếc vảy do Long Ngư
 Long Ngư truyền âm vào tâm trí Rentt lời cảnh báo và khuyên nhủ chớ sa vào lòng tham; khi lên bờ, Rentt kể lại (lược bỏ chi tiết Undead), Alvina hé lộ tổ tiên bà cũng từng nghe nó nói và nghĩa vụ mười đời đến thế hệ bà là chấm dứt, đồng thời bà lấy ba chiếc vảy làm bùa may mắn cho Rentt, Lorraine và đứa cháu của mình.
 Cảnh kết thúc: Alvina giục Rentt cõng bà về thị trấn và hai người bắt đầu hành trình quay về.
 
+## 299
+Rentt nhận ủy thác hộ tống cựu kỵ sĩ già Deque Eger đến Làng Weger; trên đường đi, Deque dễ dàng một mình chém sạch toán cướp mười tên trong rừng, rồi bên đống lửa trại, ông tâm sự về lý do từ chối lời mời làm huấn luyện viên cho đoàn kỵ sĩ của Ngài Bá tước để về vùng núi làm nông dân vì sau 50 năm cầm kiếm, ông muốn học cách cày ruộng và trồng trọt.
+Rentt bộc bạch về khao khát vươn tới Mithril Cấp và được Deque động viên dù cả hai có lý tưởng sống khác biệt; sau khi hoàn thành hộ tống, Rentt chia tay Deque và trở về Maalt.
+Vài năm sau, Rentt hay tin một quái vật hùng mạnh tấn công Làng Weger và Deque đã liều mạng chiến đấu đồng quy vu tận với nó; khi Rentt tìm đến làng, dân làng trao lại cho anh hộp hoa quả do Deque cần mẫn vun trồng cùng lời nhắn gửi cuối đời rằng ông đã hoàn thành được ước mơ thứ hai của mình.
+Cảnh kết thúc: Trên đường trở về Maalt, Rentt nếm thử trái cây mang vị ngọt đượm chút vị đắng và chiêm nghiệm về hương vị của cuộc đời.
+
 
 
 

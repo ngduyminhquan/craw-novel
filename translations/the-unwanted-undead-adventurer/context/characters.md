@@ -151,6 +151,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Jiris | Headman Jiris | Jiris | Trưởng thôn Làng Crask, người lớn tuổi nhất trong nhóm đàn ông túc trực canh gác bảo vệ làng | #295 |
 | Zutga |  | Zutga | Thợ săn Làng Crask, cùng Rivul là hai tay săn giỏi nhất làng | #296 |
 | Alvina |  | Alvina | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ thuê Rentt đưa lên hồ trên núi đá thăm Long Ngư | #298 |
+| Deque Eger | Deque | Deque Eger | Cựu kỵ sĩ đoàn của một bá tước, giải ngũ về Làng Weger làm nông dân | #299 |
 
 
 
@@ -922,4 +923,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, cao tuổi, cựu mạo hiểm giả có chút tiếng tăm thời trẻ, thân chủ thuê Rentt (#298).
 - Tính cách: Xởi lởi, hóm hỉnh, ấm áp; tuy chân yếu theo tuổi tác nhưng tính tình vẫn nhanh nhẹn, chu đáo (lấy vảy làm bùa may mắn cho Rentt, Lorraine và cháu mình) (#298).
 - Xuất hiện từ: #298.
+
+### Deque Eger
+- Thân phận: Nam, cao tuổi, cựu kỵ sĩ từng phụng sự trong đoàn kỵ sĩ của một bá tước, giải ngũ về Làng Weger sống đời làm nông (#299).
+- Tính cách: Khiêm nhường, đĩnh đạc, mộc mạc; từng sống hơn 50 năm chỉ biết đến kiếm thuật nhưng khao khát được trải nghiệm lao động ruộng đồng và trồng trọt; dũng cảm chiến đấu đến cùng để bảo vệ dân làng (#299).
+- Xuất hiện từ: #299.
 

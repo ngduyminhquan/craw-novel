@@ -114,6 +114,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rivul | Rivul / cậu thanh niên / chàng trai / cậu ấy | 294 | Chàng thanh niên dân làng đến Maalt đăng ủy thác diệt Khô Lâu |
 | Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris / ông ấy | 295 | Trưởng thôn Làng Crask |
 | Alvina | Alvina / bà lão / bà ấy | 298 | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ của Rentt |
+| Deque Eger | Deque / người kỵ sĩ già / ông lão / ông ấy | 299 | Cựu kỵ sĩ giải ngũ làm nông dân, thân chủ của Rentt |
 
 
 
@@ -595,6 +596,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rivul | Jiris | cháu | Trưởng thôn / bác Jiris / mọi người | 295 | Thanh niên trong làng nói chuyện với trưởng thôn lớn tuổi |
 | Rentt Faina | Alvina | tôi | bà / bà Alvina | 298 | Mạo hiểm giả nói chuyện với bà lão thân chủ |
 | Alvina | Rentt Faina | ta | cậu / Rentt | 298 | Bà lão cựu mạo hiểm giả nói chuyện với mạo hiểm giả trẻ |
+| Rentt Faina | Deque Eger | tôi | ông / Deque | 299 | Mạo hiểm giả nói chuyện với cựu kỵ sĩ già thân chủ |
+| Deque Eger | Rentt Faina | tôi | cậu / Rentt | 299 | Cựu kỵ sĩ già giải ngũ nói chuyện mộc mạc, bình đẳng với mạo hiểm giả trẻ |
 
 
 
