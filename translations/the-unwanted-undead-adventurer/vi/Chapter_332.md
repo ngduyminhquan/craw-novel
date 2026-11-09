@@ -18,7 +18,7 @@ Người bán đồ nguyền chỉ hơi ngạc nhiên một chút khi biết tô
 
 "Bây giờ thì dùng được, phải, nhưng trước đây đâu phải lúc nào cũng vậy," Capitan đáp. "Chính xác hơn là hồi đó thằng bé dùng được, nhưng dù có bỏ bao nhiêu công sức thì lượng tích trữ cũng chẳng tăng lên được tí nào. Đáng tiếc thật đấy, bởi nó là một trong những đứa hiếm hoi có biệt tài về sự cần cù. Cơ mà thằng bé lại mang một thể chất đặc dị khiến Khí Lực không thể lớn mạnh thêm—đó là điều mà nhờ có nó tôi mới nhận ra."
 
-Nghe những lời của Capitan thì hơi nản lòng một chút, nhưng qua giọng điệu của chú ấy, tôi hiểu chú không hề xem đó là thất bại của tôi, mà là một bài học chú rút ra về giới hạn của bản thân trong vai trò người thầy. Về phần mình, tôi thấy chú ấy chẳng có lý do gì phải thất vọng về bản thân cả—riêng chuyện dạy được tôi cách dùng Khí Lực đã là một thành tựu lớn rồi, huống hồ chú ấy còn dạy tôi cả kiếm thuật lẫn kỹ năng sinh tồn nữa. Không có chú ấy, tôi sẽ chẳng bao giờ có thể trở thành một mạo hiểm giả.
+Nghe những lời của Capitan thì hơi nản lòng một chút, nhưng qua giọng điệu của chú ấy, tôi hiểu chú ấy không hề xem đó là thất bại của tôi, mà là một bài học chú rút ra về giới hạn của bản thân trong vai trò người thầy. Về phần mình, tôi thấy chú ấy chẳng có lý do gì phải thất vọng về bản thân cả—riêng chuyện dạy được tôi cách dùng Khí Lực đã là một thành tựu lớn rồi, huống hồ chú ấy còn dạy tôi cả kiếm thuật lẫn kỹ năng sinh tồn nữa. Không có chú ấy, tôi sẽ chẳng bao giờ có thể trở thành một mạo hiểm giả.
 
 "Bất ngờ thật đấy—tôi thấy anh ấy trông rất cừ mà." Diego nhìn sang tôi. "Vậy ra Khí Lực từng là điểm yếu của anh à?"
 

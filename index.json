@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T17:03:36Z",
+  "generatedAt": "2026-11-09T17:06:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4136,7 +4136,7 @@
           "number": 329,
           "title": "Chương 329: Tập 14 Chương 2 - Thám Hiểm Mê Cung (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_329.md",
-          "sha": "5dab98ea1c39b3d330fa3ac27c6e20a2ff951572"
+          "sha": "2867aa338ac3f32e4521858150be58a5a605b3ee"
         },
         {
           "number": 330,
@@ -4154,7 +4154,7 @@
           "number": 332,
           "title": "Chương 332: Tập 14 Chương 3 - Tìm Kiếm Trong Mê Cung (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_332.md",
-          "sha": "ec3a759d0c905879b58c802af8f82c23fc5a3d98"
+          "sha": "374f7a6ed07bdd016704317686a4097b456d416f"
         },
         {
           "number": 333,
@@ -4166,19 +4166,19 @@
           "number": 334,
           "title": "Chương 334: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_334.md",
-          "sha": "494888a3af50f2315a9df527f1b46a7fe6818c83"
+          "sha": "4e43d4443d34578527efb8c3ebd71e5cce6df2ca"
         },
         {
           "number": 335,
           "title": "Chương 335: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_335.md",
-          "sha": "6ca776e3cb4c5fff1762b0614cc3151e2a9f8fa3"
+          "sha": "ab650df0fc38b372dba1bf6df7ff639fe21d949f"
         },
         {
           "number": 336,
           "title": "Chương 336: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_336.md",
-          "sha": "f5cee9df16b79157172bb0c7911f8e85d95cc20a"
+          "sha": "70829b6491bbdeff98bedfc4a5907167b65e7569"
         },
         {
           "number": 337,

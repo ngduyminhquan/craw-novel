@@ -76,7 +76,7 @@ Chú ấy từng biểu diễn kỹ thuật này cho tôi xem trước đây—v
 
 Lời vừa dứt khỏi miệng Capitan, cả hai lập tức lao thẳng vào nhau. Trông thì như cùng một lúc, nhưng tôi nhận ra Capitan nhanh hơn một chút. Cả vũ khí của chú ấy cũng vậy—con dao săn thu hẹp khoảng cách nhanh hơn ngọn thương của Diego.
 
-Song nếu là một chiến binh bình thường thì pha chạm trán đó đã định đoạt cục diện trận đấu, còn Diego lại né được nhát dao của Capitan bằng cú lắc đầu sang một bên. Đó là kỳ tích mà phần lớn con người khó lòng làm được, nhưng là một thú nhân—lại còn thuộc dòng dõi mèo—cơ thể Diego có thể trở nên đặc biệt dẻo dai mỗi khi tình huống đòi hỏi.
+Với một chiến binh bình thường, pha chạm trán đó hẳn đã định đoạt trận đấu, nhưng Diego lại né được nhát dao của Capitan bằng cú lắc đầu sang một bên. Đó là kỳ tích mà phần lớn con người khó lòng làm được, nhưng là một thú nhân—lại còn thuộc dòng dõi mèo—cơ thể Diego có thể trở nên đặc biệt dẻo dai mỗi khi tình huống đòi hỏi.
 
 Tôi cũng có thể làm được điều tương tự, nhưng trong trường hợp của tôi là nhờ tháo rời hoàn toàn các khớp xương. Đem chuyện đó so sánh với năng lực của một sinh vật sống nghe hơi bất công. Tôi luôn cố không biến nó thành thói quen, vì dù sao tôi cũng dự định lấy lại nhân tính vào một ngày nào đó, nhưng đôi khi vẫn không tránh khỏi việc phải dùng tới. Đơn giản vì nó quá đỗi tiện dụng...
 
@@ -106,7 +106,7 @@ Phải mất một lúc Diego mới đáp lại, nhưng anh ấy dường như �
 
 Cả hai đứng dậy nhìn về phía tôi. "Rentt à," Capitan nói. "Cháu mua sắm xong rồi đấy à?"
 
-Có điều, thay vì nhìn tôi, chú ấy lại dán mắt vào Pherousa. Tôi có thể cảm nhận được câu hỏi chú ấy muốn đặt ra: Cháu lại tha thứ gì về đây nữa thế? Dù chú ấy hiểu tôi đủ rõ để có lẽ đã đoán được phần nào.
+Có điều, thay vì nhìn tôi, chú ấy lại dán mắt vào Pherousa. Tôi có thể cảm nhận được câu hỏi chú ấy muốn đặt ra: Cháu lại nhặt cái gì về đây nữa thế? Dù chú ấy hiểu tôi đủ rõ để có lẽ đã đoán được phần nào.
 
 "Ừ, đồ đạc cháu mua xong cả rồi," tôi nói. "Còn cô bé này là Pherousa. Chuyện kể ra hơi dài dòng..."
 
@@ -160,7 +160,7 @@ Lý do khiến tôi bối rối là vì khi những cá thể thuộc hai chủn
 
 "Vậy là anh không có chút đặc điểm ngư nhân nào luôn à?" tôi hỏi.
 
-Diego lắc đầu. "Không có tí nào. Mà cũng chẳng gây rắc rối gì cho tôi nên tôi cũng chẳng bận tâm. Biết đâu tôi còn có khả năng sinh con đẻ cái bình thường ấy chứ."
+Diego lắc đầu. "Không có tí nào. Mà cũng chẳng gây rắc rối gì cho tôi nên tôi cũng chẳng bận tâm. Có khi tôi còn có cơ hội có con ra trò ấy chứ."
 
 "À, ừ. Tôi cũng từng nghe nói chuyện con cái đối với những cặp đôi khác chủng tộc là một việc rất khó khăn. Dù tôi không rõ khó đến mức nào."
 

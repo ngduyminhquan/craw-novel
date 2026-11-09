@@ -60,7 +60,7 @@ Diego dường như nhận ra ánh nhìn tò mò của tôi. "Nếu anh định 
 
 Tôi ngẫm nghĩ một thoáng. "Chắc cũng phải thôi. Nếu không thì một thiết bị dịch chuyển đâu thể cứ nằm tơ hơ giữa thanh thiên bạch nhật như thế này được."
 
-"Đúng vậy. Tổ đội mạo hiểm giả gần nhất thử làm chuyện đó có một học giả tò mò thái quá mà chuốc vạ vào thân. Nhưng quái vật đều biến mất khi tổ đội đó chạy đủ xa. Chắc chúng đã tự dịch chuyển về lại vị trí ban đầu trong mê cung."
+"Đúng vậy. Tổ đội mạo hiểm giả gần nhất thử làm chuyện đó có một học giả tò mò quá mức nên mới rước họa vào thân. Nhưng quái vật đều biến mất khi tổ đội đó chạy đủ xa. Chắc chúng đã tự dịch chuyển về lại vị trí ban đầu trong mê cung."
 
 "Nó có cả cơ chế tự vệ thế này quả là hơi đáng sợ thật," tôi nhận xét.
 

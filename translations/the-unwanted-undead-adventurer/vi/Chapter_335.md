@@ -102,7 +102,7 @@ Tuy nhiên, dường như cô bé lại hiểu lầm ánh mắt tò mò thực s
 
 Được rồi, tôi không thể phủ nhận cách ăn mặc của mình trông chẳng khác nào một kẻ buôn nô lệ. Nhưng nghe thế vẫn thấy hơi chạnh lòng. "Tôi đâu có định làm trò đó," tôi kiên nhẫn đáp. "Tôi chỉ muốn bảo nhóc đừng làm mấy chuyện thế này nữa thôi. Không phải ngư nhân ở Lucaris kiếm sống khá khẩm lắm sao? Tôi nghe nói ngay cả những đứa trẻ cỡ tuổi nhóc cũng có thể thu hoạch các nguyên liệu quý hiếm dưới đáy biển, nơi con người không thể với tới."
 
-Đó chính là điều tôi không tài nào hiểu nổi. Nếu có thể làm được như vậy, cớ sao phải nhọc công đi móc túi làm gì?
+Đó chính là điều tôi không tài nào hiểu nổi. Nếu làm được như vậy thì cần gì phải nhọc công đi móc túi?
 
 ◆◇◆◇◆
 

@@ -14,7 +14,7 @@ Những giai thoại về các Ma Vương nhiều không sao đếm xuể. Làng
 
 Không, bởi điều đó là bất khả thi. Dẫu vậy, vẫn có những kẻ khăng khăng muốn thử sức. Suy cho cùng, đó cũng chính là lý do vì sao các quốc gia tồn tại trên thế giới này, cũng như đủ mọi chủng tộc với đủ màu da và tín ngưỡng—và cũng là lý do vì sao không chỉ có một Ma Vương duy nhất, mà là bốn.
 
-Nhớ lại những gì đã xảy ra với kẻ gần nhất dám gặng hỏi một Ma Vương lý do vì sao lại như thế, K’rik, một Lizardman, khẽ rùng mình trên lưng con Kelpie thú cưỡi. Xét cho cùng, chẳng ai dám chắc liệu một ngày nào đó anh có phải chịu chung số phận tương tự hay không.
+Nhớ lại những gì đã xảy ra với kẻ gần nhất dám gặng hỏi một Ma Vương lý do vì sao lại như thế, K’rik, một Lizardman, khẽ rùng mình trên lưng con Kelpie của mình. Xét cho cùng, chẳng ai dám chắc liệu một ngày nào đó anh có phải chịu chung số phận tương tự hay không.
 
 Hiện tại K’rik đang tiến về phía Mê Cung Các Con Gái Của Hải Thần ngoài khơi thành phố Lucaris của con người theo mệnh lệnh của chủ nhân. Thời gian gần đây, anh cùng đồng đội liên tục tuần tra khu vực này, tấn công các mạo hiểm giả con người và lục soát hành lý của họ, nhưng đáng tiếc là tới giờ bọn họ vẫn chưa tìm ra mục tiêu cần tìm.
 
@@ -74,7 +74,7 @@ K’rik quay phắt lại, lần đầu tiên nhìn rõ kẻ đột nhập bất
 
 Dẫu vậy, những gì K’rik nhìn thấy là một người phụ nữ tóc trắng với đôi mắt màu xanh lam nhạt. Cô ta đứng trên mặt nước—không, đúng hơn là đang lơ lửng cách mặt nước một khoảng nhỏ. Phải chăng là một loại ma pháp bay lơ lửng nào đó?
 
-Điều đó có nghĩa cô ta là một ma pháp sư ư? Nhưng một ma pháp sư con người lại làm gì ở nơi này? Cô ta đến để tiêu diệt anh chăng? Điều đó hoàn toàn hợp lý—người dân Lucaris có thừa lý do để làm vậy. Nhưng nếu bọn họ sở hữu một kẻ đủ bản lĩnh để tiếp cận toàn bộ đơn vị của K’rik mà không bị phát giác, cớ sao phải mất nhiều thời gian đến thế mới phái cô ta tới?
+Điều đó có nghĩa cô ta là một ma pháp sư ư? Nhưng một ma pháp sư con người lại làm gì ở nơi này? Cô ta đến để tiêu diệt anh chăng? Điều đó hoàn toàn hợp lý—người dân Lucaris có thừa lý do để làm vậy. Nhưng nếu bọn họ sở hữu một kẻ đủ bản lĩnh để tiếp cận toàn bộ đơn vị của K’rik mà không bị phát giác, thì sao phải mất nhiều thời gian đến thế mới phái cô ta tới?
 
 K’rik chẳng hiểu nổi chuyện gì đang diễn ra. Dù vậy, bắt đầu bằng việc thương lượng luôn là một lựa chọn an toàn. May thay, cô ta có vẻ sẵn lòng trò chuyện—xét cho cùng, chính cô ta là người chủ động mở lời. Ít nhất đó cũng là dấu hiệu cho thấy cô ta không muốn mọi chuyện lập tức biến thành thù địch. Và nếu cô ta chọn cách đổ máu, điều đó cũng sẽ trở nên đơn giản theo cách riêng của nó. Tất cả những gì anh cần làm khi ấy chỉ là liều mạng chiến đấu mà thôi.
 
@@ -88,11 +88,11 @@ Thế nhưng, câu trả lời của người phụ nữ lại là điều mà K
 
 Canhel. Đó chính là tên nữ chủ nhân của K’rik.
 
-Ma Vương Canhel Avara, Nữ vương của vảy và bầu trời. Tên của cô ta không phải là điều gì quá bí mật, nên chẳng có gì ngạc nhiên khi người lạ mặt này biết đến nó. Điều đáng kinh ngạc chính là thái độ thản nhiên đến tột cùng của cô ta—phần lớn mọi người đều khiếp sợ Ma Vương và thậm chí chẳng dám thốt ra tên của cô ta. Điều đó lại càng đúng hơn khi một kẻ càng biết rõ về cô ta—ít nhất thì K’rik chưa từng dám làm thế. Những lần buộc phải diện kiến bẩm báo, anh luôn tuân thủ các danh xưng tôn kính như "Bệ Hạ" hay "Nữ Hoàng". Hoặc có thể là một tước hiệu nào đó cao quý tương đương, nhưng tuyệt đối không bao giờ gọi thẳng tên.
+Ma Vương Canhel Avara, Nữ vương của vảy và bầu trời. Tên của cô ta không phải là điều gì quá bí mật, nên chẳng có gì ngạc nhiên khi người lạ mặt này biết đến nó. Điều đáng kinh ngạc chính là thái độ thản nhiên đến tột cùng của cô ta—phần lớn mọi người đều khiếp sợ Ma Vương và thậm chí chẳng dám thốt ra tên của cô ta. Mà càng biết rõ về cô ta thì người ta lại càng không dám—ít nhất thì K’rik chưa từng dám làm thế. Những lần buộc phải diện kiến bẩm báo, anh luôn tuân thủ các danh xưng tôn kính như "Bệ Hạ" hay "Nữ Hoàng". Hoặc có thể là một tước hiệu nào đó cao quý tương đương, nhưng tuyệt đối không bao giờ gọi thẳng tên.
 
 Thế mà người phụ nữ trước mặt anh, dù có vẻ như quen biết với Ma Vương, lại thốt ra cái tên ấy chẳng chút do dự. Chỉ riêng điều đó thôi cũng đủ biến cô ta thành một kẻ vô cùng đáng sợ. Thật không thể nào hiểu nổi.
 
-Nhưng K’rik không thể cho phép mình bị khuất phục. Nữ chủ nhân đã giao phó trọng trách cho anh hoàn thành. Anh có thể chỉ mới gia nhập đội quân Ma Vương, lại còn là một kẻ chẳng mấy quan trọng, nhưng sẽ là một vết nhơ cho danh tiếng của chủ nhân nếu anh cụp đuôi bỏ chạy tháo thân trước một người phụ nữ nhân loại đơn độc. Chưa kể, thứ đang chờ đón anh khi quay về cũng sẽ kinh hoàng chẳng kém.
+Nhưng K’rik không thể cho phép mình bị khuất phục. Nữ chủ nhân đã giao phó trọng trách cho anh hoàn thành. Anh có thể chỉ mới gia nhập đội quân Ma Vương, lại còn là một kẻ chẳng mấy quan trọng, nhưng sẽ là một vết nhơ cho danh tiếng của chủ nhân nếu anh cụp đuôi bỏ chạy trước một người phụ nữ nhân loại đơn độc. Chưa kể, thứ đang chờ đón anh khi quay về cũng sẽ kinh hoàng chẳng kém.
 
 K’rik rút ngọn giáo đeo sau lưng ra và vào thế thủ. "Đừng có báng bổ mà gọi thẳng tên của Người như thế," anh gầm gừ.
 
@@ -140,4 +140,4 @@ Sau cùng, mặt nước cũng lắng xuống và trở lại yên bình. Tiến
 
 "Cũng coi như có chút cố gắng đấy chứ. Vả lại ta cũng đã nương tay rồi, nên có lẽ bọn họ vẫn sống sót được thôi. Dù sao thì chuyện này cũng đã câu đủ thời gian để cậu ta lo liệu xong công việc của mình. Giờ thì, chắc ta cũng phải đi lo việc của bản thân rồi..."
 
-Và rồi, trong thoáng chốc, cô đã biến mất. Chẳng còn lại gì ngoài một vùng biển cả tĩnh lặng cùng tiếng sóng vỗ rì rào êm ả. Khung cảnh thanh bình đến mức cứ như thể biến cố kinh thiên động địa vừa mới xảy ra chớp mắt trước đó chưa từng tồn tại trên cõi đời này.
+Và rồi, trong thoáng chốc, cô ta đã biến mất. Chẳng còn lại gì ngoài một vùng biển cả tĩnh lặng cùng tiếng sóng vỗ rì rào êm ả. Khung cảnh thanh bình đến mức cứ như thể biến cố kinh thiên động địa vừa mới xảy ra chớp mắt trước đó chưa từng tồn tại trên cõi đời này.
