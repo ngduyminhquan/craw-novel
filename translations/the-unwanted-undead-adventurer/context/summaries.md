@@ -753,351 +753,169 @@ Rentt tái tạo nhờ Phân Liệt; ông lão thu nhỏ lại, bị trói bằn
 Kẻ chủ mưu là Nữ Bá tước Gisel Georgiou (phe Đệ Nhất Công Chúa Nadia Regina Yaaran), thuê qua một tổ chức ngầm thu nạp người có dị năng bị xã hội hắt hủi. Ông lão đồng ý làm cầu nối đàm phán, đề xuất để Goblin đưa tin còn mình và Siren làm con tin, và cảnh báo tổ chức có cách khắc chế dị năng.
 
 ## 251
-Nhóm Rentt giải thích qua loa cho Ferrici rồi áp giải ông lão quay về quán trọ làng Looza; ông lão thở dài trước cảnh Siren bị trói và bảo gọi Goblin (Yattul) đến phòng để đàm luận trước.
-Goblin kinh ngạc khi hay tin ông lão bị đánh bại hoàn toàn trong trận đối đầu trực diện; sau khi được ông lão phân tích tình thế nguy ngập và động viên biến đây thành phi vụ cuối cùng trước khi giải nghệ làm thương nhân, Goblin đồng ý một mình quay về tổ chức làm người đưa tin để thu xếp cuộc gặp đàm phán giữa nhóm Rentt và thủ lĩnh.
-Sau khi thống nhất xong việc cử Goblin đi và giữ ông lão cùng Siren ở lại làm con tin, nhóm cởi trói cho Siren nhưng ả lập tức gào thét phản đối kế hoạch; Lorraine liền giơ đũa phép lên dọa khiến Siren sợ hãi phát khóc và ngoan ngoãn nghe lời.
-Cảnh kết thúc: Cả nhóm ngơ ngác trước sự khuất phục nhanh chóng của Siren và toát mồ hôi tự hỏi rốt cuộc trước đó Lorraine đã dùng biện pháp kinh khủng nào với ả, nhưng không ai dám mở miệng hỏi.
+Nhóm Rentt áp giải ông lão về quán trọ làng Looza. Ông lão thuyết phục Goblin (Yattul) coi đây là phi vụ cuối trước khi giải nghệ làm thương nhân, một mình về tổ chức đưa tin thu xếp cuộc gặp thủ lĩnh; ông và Siren ở lại làm con tin. Siren được cởi trói liền gào phản đối nhưng bị Lorraine giơ đũa phép dọa đến phát khóc, ngoan ngoãn nghe lời.
 
 ## 252
-Nhóm Rentt tạm biệt dân làng Looza và Ferrici trong êm đẹp để khởi hành về vương đô; ông lão Cự Nhân và Siren trốn trong xe tránh bị nhận diện, còn Goblin tiếp tục làm người đánh xe.
-Trên xe, ông lão giải thích về việc dị năng có ảnh hưởng tinh vi lên người sở hữu (ông lão được tăng thể lực dù ở dạng nhỏ, Siren có sức hút bẩm sinh với người và động vật, Goblin có khiếu lấy lòng người khác); chuyến đi diễn ra suôn sẻ nhờ uy áp của ông lão và thuật thao túng của Siren xua đuổi quái vật, rồi cả nhóm thuận lợi qua cổng thành nhờ giấy tờ tùy thân thương nhân của nhóm sát thủ.
-Cảnh kết thúc: Đến vương đô, Goblin một mình đánh xe về căn cứ tổ chức ngầm để liên lạc với thủ lĩnh; Lorraine ở lại trông chừng ông lão và Siren, trong khi Rentt và Augurey chuẩn bị đi nộp nguyên liệu ủy thác và kiểm tra lịch trình trở về của Tổng Hội Trưởng.
+Nhóm tạm biệt Looza và Ferrici về vương đô; ông lão và Siren trốn trong xe, Goblin đánh xe. Ông lão giải thích dị năng ảnh hưởng tinh vi lên người sở hữu (ông tăng thể lực, Siren hút người và động vật, Goblin khéo lấy lòng). Qua cổng nhờ giấy tờ thương nhân; Goblin về căn cứ liên lạc thủ lĩnh, Lorraine trông con tin, Rentt và Augurey đi nộp ủy thác, hỏi lịch về của Tổng Hội Trưởng.
 
 ## 253
-Rentt và Augurey đến trụ sở Hội mạo hiểm giả tại vương đô nộp ba ủy thác (bắt sống Aqua Hathur bằng lồng và vòng cổ ma pháp do Lorraine chế tạo, thu thập lượng lớn bùn đất Golem Luteum, và thu hái nhiều bó lanh Phi Long chất lượng cao quanh Hồ Petorama); các nguyên liệu đều được nhân viên Hội đánh giá xuất sắc và thưởng thêm thù lao.
-Khi kiểm tra thẻ mạo hiểm giả để hoàn tất thủ tục, nữ nhân viên Hội bất ngờ thông báo các ủy thác khó vừa hoàn thành cùng thứ hạng Đồng Cấp đã đem lại lượng lớn điểm tích lũy bổ sung, giúp Rentt chính thức đủ điều kiện tham gia kỳ thi thăng hạng Ngân Cấp.
-Augurey vui mừng chúc mừng Rentt trong khi nhân viên Hội nhắc nhở về độ khó khắt khe của kỳ thi; Rentt hồi tưởng lại quá khứ gian truân 10 năm kẹt ở đáy xã hội từng suýt bỏ mạng trong Mê Cung Nguyệt Ảnh và cảm thấy niềm vui sướng ấm áp khi bản thân đang thực sự từng bước tiến bộ vươn lên.
-Cảnh kết thúc: Rentt đón nhận niềm vui và quyết tâm không tự mãn để tiếp tục vững bước leo lên những nấc thang mạo hiểm giả cao hơn.
+Rentt và Augurey nộp ba ủy thác (Aqua Hathur bắt sống bằng lồng và vòng cổ ma pháp do Lorraine chế, bùn Golem Luteum, lanh Phi Long quanh Hồ Petorama), đều được đánh giá xuất sắc. Điểm tích lũy bổ sung giúp Rentt đủ điều kiện thi thăng hạng Ngân Cấp; anh nhớ mười năm kẹt ở đáy, vui mừng nhưng tự nhủ không tự mãn.
 
 ## 254
-Rentt xin hoãn thi thăng hạng Ngân Cấp để chuẩn bị kỹ càng và giải quyết các vụ việc trước mắt; nữ nhân viên Hội khen ngợi sự cẩn trọng của anh và tiết lộ tiếng tăm của các tân binh từ Maalt (nhờ Rentt tỉ mỉ truyền dạy cách thu hái thực vật); cô tiếc nuối báo Tổng Hội Trưởng Jean Seebeck vẫn chưa về vương đô và hẹn sẽ để lại lời nhắn.
-Quay về quán trọ, Rentt và Augurey nghe thấy Lorraine và ông lão Cự Nhân đàm đạo sâu sắc về nguồn gốc lịch sử của dị năng (từng bị bức hại hoặc coi là thần thánh thời cổ xưa, nay bị xã hội xem là kẻ ngoại tộc dị biệt và dần bị gạt ra rìa khi ma thuật/Khí Lực có hệ thống lý thuyết).
-Ông lão tiết lộ mình từng cứu mạng Siren bằng thuốc khi còn nhỏ, cho biết cô bé mới 17 tuổi và đang trong thời kỳ nổi loạn; ông giải thích cơ cấu tổ chức ngầm dị năng theo mô hình kim tự tháp gồm nhiều phe phái biệt lập, cảnh báo nhóm Rentt cẩn trọng trước nguy cơ các phe phái khác can thiệp phá đám cuộc gặp mặt.
-Cảnh kết thúc: Dù ông lão hy vọng Goblin sẽ đàm phán thuận lợi để giải quyết êm đẹp, Rentt với linh cảm về vận rủi thường gặp vẫn tự nhủ phải hết sức cảnh giác nhưng tạm gạt âu lo sang một bên.
+Rentt xin hoãn thi Ngân Cấp; nhân viên Hội kể tiếng tăm tân binh Maalt và báo Tổng Hội Trưởng Jean Seebeck chưa về. Ở quán trọ, Lorraine và ông lão bàn lịch sử dị năng; ông kể từng cứu Siren (17 tuổi, đang tuổi nổi loạn), giải thích tổ chức ngầm hình kim tự tháp nhiều phe biệt lập và cảnh báo phe khác có thể phá cuộc gặp.
 
 ## 255
-Augurey báo tin Rentt đủ điều kiện thi Ngân Cấp khiến Lorraine xúc động muốn mở tiệc ăn mừng; ông lão Cự Nhân thắc mắc và đoán nhầm Rentt nở muộn mới thức tỉnh dị năng; ông chia sẻ về số phận bi kịch của những người thức tỉnh muộn bị người đời xem như quái vật, trong khi Lorraine và Augurey khẳng định tình bạn son sắt giúp Rentt vô cùng ấm lòng.
-Chim bồ câu mang mật thư của Goblin bay đến đậu trên đầu Siren (hé lộ dị năng thu hút động vật của cô bé và việc kiềm chế ở cự ly gần rất tốn sức); ông lão giải mã thư báo Goblin đã dàn xếp được cuộc gặp với thủ lĩnh vào ngày mai; cả nhóm thống nhất Augurey và Siren sẽ ở lại quán trọ để đề phòng bất trắc.
-Hôm sau, Goblin tạt qua đón nhóm trong bộ dạng bầm dập khắp người do ẩu đả với đồng bọn vì chúng không tin ông lão bại trận; Goblin thuật lại kịch bản báo cáo khôn khéo giúp thủ lĩnh đồng ý gặp mặt, đồng thời vô tình tiết lộ mật danh của ông lão là "Spriggan" (bắt nguồn từ loài tiên có khả năng hóa khổng lồ).
-Cảnh kết thúc: Goblin thật thà thú nhận bản thân cũng hoàn toàn không biết dị năng của tên thủ lĩnh, và nhóm chuẩn bị lên đường tới căn cứ tổ chức.
+Ông lão đoán nhầm Rentt thức tỉnh dị năng muộn. Bồ câu mang mật thư của Goblin đậu lên đầu Siren (dị năng hút động vật): cuộc gặp thủ lĩnh định vào ngày mai, Augurey và Siren ở lại quán. Hôm sau Goblin bầm dập vì ẩu đả với đồng bọn đến đón, lỡ lộ mật danh ông lão là "Spriggan"; Goblin cũng không biết dị năng của thủ lĩnh.
 
 ## 256
-Spriggan và Goblin dẫn đường đưa Rentt và Lorraine đến căn cứ ngầm của tổ chức, ngụy trang sờ sờ ngay dưới Đại Đấu Trường Vistelya đồ sộ bậc nhất vương quốc.
-Lính gác cổng nhận ra Spriggan và chuyển lời của Vaasa (thành viên do Spriggan chiêu mộ, người vừa ẩu đả với Goblin vì không tin Spriggan thua) bảo xuống tầng hầm; cả nhóm nhận định đây là cái bẫy nhưng quyết định nghênh chiến dẹp yên Vaasa trước cuộc gặp để tránh bị phá đám.
-Spriggan tiết lộ tường tận thông tin, điểm yếu và cách đối phó với Vaasa (kẻ sở hữu khả năng bẩm sinh kháng ma pháp cực mạnh, là khắc tinh của ma pháp sư nhưng khắc chế kém trước đòn vật lý/khí thuật như Rentt), đồng thời cảnh báo về một nữ thành viên khác tên Fuana rất gắn bó với ông và say mê ma pháp cổ đại có thể sẽ nhắm vào Lorraine.
-Cảnh kết thúc: Rentt và Lorraine bàn bạc, nghiền ngẫm thông tin từ Spriggan để chuẩn bị kế hoạch tác chiến dẹp bẫy dưới tầng hầm đấu trường.
+Spriggan và Goblin dẫn Rentt, Lorraine tới căn cứ ngầm dưới Đại Đấu Trường Vistelya. Lính gác chuyển lời Vaasa bảo xuống tầng hầm; nhóm biết là bẫy nhưng quyết dẹp trước. Spriggan cho biết Vaasa kháng ma pháp bẩm sinh, yếu trước đòn vật lý/khí thuật, và cảnh báo Fuana (gắn bó với ông, mê ma pháp cổ đại) sẽ nhắm Lorraine. Hai người bàn kế tác chiến.
 
 ## 257
-Spriggan dẫn nhóm Rentt và Lorraine tới sàn đấu ngầm dưới Đại Đấu Trường Vistelya; Rentt và Spriggan chia sẻ về sự khắc nghiệt, bận rộn và rủi ro thường trực của nghề sát thủ khiến Goblin và Spriggan đều có tâm nguyện muốn giải nghệ.
-Đèn ma pháp rọi sáng khán đài và bộ đôi sát thủ Vaasa Cường Thiết cùng Fuana Thông Ma Pháp xuất hiện bằng màn chào sân đầy màu mè, chất vấn kịch liệt vì không tin Spriggan hùng mạnh lại có thể bại trận dưới tay nhóm mạo hiểm giả Ngân Cấp.
-Bất chấp Goblin và Spriggan cố gắng giải thích và thuyết phục, sự bướng bỉnh ngốc nghếch của Vaasa và Fuana khiến cuộc nói chuyện lâm vào bế tắc; Fuana tự hào về ma pháp phá thành của mình và Lorraine quan sát thấy cô bé có lượng Ma Lực gấp ba lần Rentt.
-Hai bên không thể đàm phán bằng lời nên Vaasa và Fuana thách đấu nhóm mạo hiểm giả để quyết định có cho gặp thủ lĩnh hay không; nhờ Spriggan khéo léo châm ngòi, nhóm Rentt đã gài bẫy thành công để phân chia cặp đấu đúng như tính toán: Rentt dùng kiếm truyền Khí Lực đối đầu Vaasa thuần vật lý, còn Lorraine tiếp đón Fuana đam mê ma thuật.
-Cảnh kết thúc: Rentt và Lorraine chính thức đồng ý giao đấu theo phân cặp đã định.
+Tại sàn đấu ngầm, Vaasa Cường Thiết và Fuana Thông Ma Pháp xuất hiện màu mè, không tin Spriggan thua; Lorraine thấy Fuana có Ma Lực gấp ba Rentt. Đàm phán bế tắc, hai bên thách đấu để quyết định có cho gặp thủ lĩnh không; nhờ Spriggan châm ngòi, cặp đấu đúng tính toán: Rentt đấu Vaasa, Lorraine đấu Fuana.
 
 ## 258
-Trận đấu tập giữa Rentt và Vaasa bắt đầu tại sàn đấu ngầm với Spriggan làm trọng tài và Goblin vận hành thiết bị kết giới khiên chắn bảo vệ khán đài.
-Rentt dùng Ma Lực cường hóa thể chất lao vào áp sát; Vaasa bất ngờ kích hoạt dị năng tạo dao găm tấn công vào mạn sườn trái khi Rentt đang theo đà né mũi giáo.
-Nhờ cơ thể phi nhân loại dẻo dai phi thường, Rentt ngửa rạp người ra sau uốn cầu kiều né sạch dao găm rồi vung kiếm truyền Khí Lực từ dưới lên hất văng Vaasa khiến cả sàn đấu bàng hoàng.
-Trên khán đài, Spriggan và Lorraine đàm đạo về cơ chế dị năng; Spriggan tiết lộ Vaasa hồi nhỏ từng tạo ra muối nhưng do ám thị nhận thức nên hiện chỉ tạo và thu hồi được vũ khí kim loại (Cường Thiết).
-Cảnh kết thúc: Dưới sàn đấu, Rentt xoay ngược cổ chứng minh cơ thể dị thường và chất vấn Vaasa về giới hạn dị năng Cường Thiết; Rentt chiêm nghiệm rằng dù sở hữu sức mạnh nào thì việc khổ luyện vẫn là yếu tố quyết định.
+Trận Rentt–Vaasa, Spriggan làm trọng tài, Goblin vận hành kết giới khiên chắn bảo vệ khán đài. Vaasa tạo dao găm đánh lén, Rentt uốn người né rồi vung kiếm Khí Lực hất văng gã. Spriggan kể Vaasa hồi nhỏ từng tạo ra muối nhưng do ám thị nay chỉ tạo và thu hồi vũ khí kim loại (Cường Thiết). Kết chương, Rentt vặn ngược cổ, chất vấn giới hạn dị năng của Vaasa.
 
 ## 259
-Trận đấu tiếp diễn: Rentt dùng kiếm thuật thực thụ áp sát, né giáo rồi mượn đà trồng cây chuối đá văng mũi giáo của Vaasa; Vaasa biến giáp ngực kim loại thành cơn mưa tên bắn chặn buộc Rentt liều mình lao vào đỡ tên để chém đứt đầu ngọn giáo của đối thủ.
-Vaasa dùng dị năng tái tạo mũi giáo và chuyển sang lối đánh côn kiềm chế; trước những đường kiếm ở góc độ phi nhân loại cùng thể lực vô tận của Undead, Vaasa dần kiệt sức và liều mạng phóng mũi giáo găm thẳng vào bụng Rentt.
-Không hề nao núng trước vết thương ở bụng, Rentt tiến tới dùng bản kiếm giáng thẳng vào đầu đánh ngất Vaasa, ấn định chiến thắng thuyết phục.
-Trên khán đài (chuyển sang góc nhìn ngôi thứ ba bám theo Lorraine), Fuana bàng hoàng hoang mang trước sức chống chịu quái dị của Rentt; Spriggan vác Vaasa lên khán đài và Rentt vạch trần việc Spriggan đã mượn tay mình để dạy cho thuộc cấp hiếu thắng một bài học.
-Cảnh kết thúc: Rentt và Spriggan chốt xong kết quả trận đầu, Lorraine sẵn sàng nghênh chiến trong khi Fuana run rẩy, bất an chuẩn bị bước vào trận đấu ma pháp tiếp theo.
+Rentt né giáo, chém đứt mũi giáo; Vaasa biến giáp ngực thành mưa tên, tái tạo giáo, đánh lối côn rồi kiệt sức, phóng giáo găm bụng Rentt. Rentt không nao núng, dùng bản kiếm đánh ngất Vaasa. Đoạn ngôi ba theo Lorraine: Fuana hoảng trước sức chịu đòn của Rentt; Rentt vạch Spriggan mượn tay mình dạy thuộc cấp. Lorraine chuẩn bị trận hai, Fuana run rẩy.
 
 ## 260
-Trận đấu ma pháp giữa Lorraine và Fuana Thông Ma Pháp bắt đầu với Spriggan làm trọng tài từ khán đài; Fuana bắn Fotiá Volídas không cần niệm chú nhưng bị Lorraine né tránh, dùng đoản kiếm phản kích và lừa hỏa cầu lao ngược về phía chủ nhân.
-Fuana giơ tay giải phóng Ma Lực xóa bỏ hỏa cầu; Spriggan giải thích cho Rentt về dị năng của Fuana là nhìn thấu điểm yếu cấu trúc ma pháp theo trực giác thay vì dùng ma nhãn suy luận.
-Lorraine thử nghiệm các ma pháp cơ bản rồi thi triển ma pháp đa tầng (lồng Fotiá Volídas vào Vráchos Volídas) phân tách điểm yếu để hóa giải dị năng xóa ma pháp của Fuana.
-Fuana lộ diện là một ma pháp cách đấu sĩ, dùng nắm đấm phá vỡ ma pháp rồi lao vào cận chiến dữ dội; Fuana đấm vỡ Khiên Chắn đầu tiên nhưng bị lớp khiên thứ hai cùm chặt cánh tay và dính trọn tia sét của Lorraine.
-Cảnh kết thúc: Dù bị sét đánh trúng, Fuana vẫn lộn vòng tiếp đất và bừng bừng chiến ý lao vào tấn công như thú săn mồi; Lorraine thong dong duy trì phòng thủ và nắm giữ thế thượng phong trong khi Rentt dự đoán trận đấu sẽ sớm ngã ngũ.
+Trận Lorraine–Fuana: Fuana bắn Fotiá Volídas không niệm chú, rồi xóa hỏa cầu bằng Ma Lực; Spriggan giải thích dị năng của cô là nhìn thấu điểm yếu cấu trúc ma pháp bằng trực giác. Lorraine lồng Fotiá Volídas vào Vráchos Volídas để hóa giải; Fuana lộ là ma pháp cách đấu sĩ, đấm vỡ Khiên Chắn nhưng dính sét. Fuana vẫn lao vào, Lorraine giữ thế thượng phong.
 
 ## 261
-Lorraine dùng liên hoàn ma pháp lôi hệ Barqharba Sijn và Shikhrér vây hãm đối thủ; Fuana dùng nguyên bản ma pháp "Hấp Ma Khôi Giáp" hấp thu sấm sét làm giáp đấm vỡ khiên chắn đánh trúng tay Lorraine, nhưng Lorraine nhanh chóng dùng Barák Seará (bão phong lôi) phản kích đánh ngất Fuana và giành chiến thắng.
-Sau trận đấu, Lorraine cho Fuana uống thuốc hồi phục; Fuana đồng ý chia sẻ cấu trúc Hấp Ma Khôi Giáp để đổi lấy việc học ba ma pháp cổ đại Lorraine từng dùng hạ Spriggan, và Lorraine lập tức thị phạm ma pháp hoành tráng dưới sàn đấu.
-Một người đàn ông bí ẩn xuất hiện sau lưng Rentt, tiết lộ tên thật của Spriggan là Gilli Flood (từng nổi danh với danh hiệu "Gilli Quái Vật" ở đấu trường phương nam) và bày tỏ áy náy vì kẻ làm tay trong ở giới quý tộc hoàng gia đã phản bội cung cấp thông tin sai lệch dẫn đến xung đột.
-Vaasa tỉnh dậy cung kính quỳ lạy người đàn ông và gọi là Thủ lĩnh; người này thản nhiên tự xưng tên là Jean Seebeck — khiến Rentt bàng hoàng nhận ra đây chính là Tổng Hội Trưởng Hội Mạo Hiểm Giả của Vương Quốc Yaaran.
-Cảnh kết thúc: Nhận ra người đứng đầu tổ chức sát thủ ngầm nguy hiểm lại là nhân vật quyền lực tối cao của Hội Mạo Hiểm Giả, Rentt thót tim tự hỏi liệu mình có thể toàn mạng sống sót rời khỏi nơi này hay không.
+Lorraine dùng Barqharba Sijn, Shikhrér; Fuana dùng ma pháp nguyên bản "Hấp Ma Khôi Giáp" đấm trúng tay Lorraine nhưng bị Barák Seará đánh ngất, rồi đổi cấu trúc Hấp Ma Khôi Giáp lấy ba ma pháp cổ đại. Người đàn ông bí ẩn tiết lộ tên thật Spriggan là Gilli Flood ("Gilli Quái Vật"), xin lỗi vì tay trong quý tộc báo sai; Vaasa gọi ông là Thủ lĩnh, ông tự xưng Jean Seebeck — Tổng Hội Trưởng Hội Mạo Hiểm Giả Yaaran.
 
 ## 262
-Jean Seebeck cười xòa cam kết để nhóm Rentt rời đi nguyên vẹn, tiết lộ Wolf Hermann không hề biết thân phận thủ lĩnh ngầm của mình, đồng thời cho biết việc Tòa Tháp và Học Viện đổ về Maalt có liên quan mật thiết tới nhóm Rentt.
-Jean dẫn Rentt, Lorraine và Spriggan lên văn phòng trên đỉnh đấu trường; trên đường đi, Spriggan kể lại chuyện thời trẻ từng bị Jean đánh bại rồi chiêu mộ cùng thành lập tổ chức của những người sở hữu dị năng.
-Tại văn phòng, Jean chính thức chốt việc hủy bỏ lệnh truy sát; ông giải thích tình hình quyền trượng hoàng gia đang bào mòn sinh mệnh của Quốc vương Karsten Reshon Yaaran (người mà Jean quen biết từ thuở nhỏ và gọi thân mật là "Kars").
-Jean hé lộ kế hoạch cứu Quốc vương không phải là thay mới mà là sửa chữa quyền trượng; theo Nữ Bá tước Gisel và nghiên cứu đột phá của Tòa Tháp, nguyên liệu tối thượng hiếm có để chế tạo hoặc phục hồi Thần Khí hiện đang xuất hiện tại Yaaran.
-Cảnh kết thúc: Jean chính thức tiết lộ nguyên liệu tối thượng đó là một "Lõi Mê Cung", khiến Rentt và Lorraine nhìn nhau với vẻ mặt không thốt nên lời.
+Jean hứa để nhóm đi nguyên vẹn, nói Wolf Hermann không biết thân phận ngầm của ông, và việc Tòa Tháp, Học Viện đổ về Maalt liên quan nhóm Rentt. Ở văn phòng trên đỉnh đấu trường, Jean hủy lệnh truy sát, kể quyền trượng đang bào mòn Quốc vương Karsten Reshon Yaaran ("Kars", bạn từ nhỏ); kế hoạch là sửa quyền trượng bằng nguyên liệu tối thượng đang có ở Yaaran: "Lõi Mê Cung".
 
 ## 263
-Jean giải thích về Lõi Mê Cung và cuộc đua tranh đoạt giữa Tòa Tháp và Học Viện (do Đệ Nhất Hoàng Tử hậu thuẫn) tại mê cung mới ở Maalt; ông cũng tiết lộ về nhà nghiên cứu Hamishy Favor của Tòa Tháp cùng nghiên cứu mê cung nhân tạo, trong khi Rentt và Lorraine biết rõ kế hoạch này bất khả thi vì Laura Latuule đã hấp thu lõi vào người từ lâu.
-Jean vạch trần âm mưu thật sự dẫn đến lệnh truy sát: phó thủ lĩnh ngầm đã làm nội gián cho Gisel suốt 30 năm và cung cấp tin giả rằng Nhị Công Chúa toan mưu phản đoạt ngôi; Jean đã thanh trừng kẻ phản bội và kết thúc hợp đồng với Gisel.
-Từ chối tiết lộ chi tiết về việc tìm quyền trượng mới của Nhị Công Chúa, nhóm Rentt chốt kế hoạch cùng Jean Seebeck khởi hành về Maalt sau hai ngày nữa (sau khi Jean vào triều yết kiến công chúa).
-Cảnh kết thúc: Trở về quán trọ hội ngộ cùng Augurey sau khi Spriggan và Siren rời đi, cả ba tổng kết lại những lợi ích thu được từ biến cố nguy hiểm này và Augurey lưu luyến nói lời chia tay trước ngày nhóm Rentt lên đường về Maalt.
+Jean kể cuộc tranh Lõi Mê Cung giữa Tòa Tháp và Học Viện (Đệ Nhất Hoàng Tử hậu thuẫn) ở mê cung mới Maalt, nhà nghiên cứu Hamishy Favor và mê cung nhân tạo; Rentt, Lorraine biết Laura Latuule đã hấp thu lõi. Phó thủ lĩnh làm nội gián cho Gisel 30 năm, báo tin giả Nhị Công Chúa mưu phản; Jean đã thanh trừng. Hẹn cùng Jean về Maalt sau hai ngày; về quán, Augurey chia tay.
 
 ## 264
-Sáng hôm sau, nhận được tin nhắn từ Hội Mạo Hiểm Giả, Rentt và Lorraine đến nơi và được hướng dẫn trực tiếp tới Tu Viện Ephas để nhận ủy thác chuyển thư từ Nữ Tu Viện Trưởng Elza.
-Tại tu viện, Elza bày tỏ nhẹ nhõm khi thấy cả hai bình an vô sự sau những vụ xáo trộn gần đây; khi biết nhóm Rentt ngày mai sẽ về Maalt và cần mua quà lưu niệm theo danh sách tỉ mỉ của Rina, Elza hào hứng ngỏ ý làm người dẫn đường quanh vương đô.
-Trút bỏ tu phục và lén cắt đuôi các giáo sĩ để lẻn ra cửa phụ bằng bộ thường phục trẻ trung như thiếu nữ đôi mươi, Elza tiết lộ mình và Sơ Lillian vốn là bạn thuở nhỏ cùng lớn lên trên các góc phố này.
-Xem qua cuốn sổ tay chi tiết rải rác hình vẽ Khô Lâu và Ma Cà Rồng của nhóm Rentt, Elza dự tính hành trình sẽ kéo dài tới tối và nhờ cả hai tháp tùng cô ghé qua một nơi sau khi mua sắm xong.
-Cảnh kết thúc: Nhóm Rentt cùng Nữ Tu Viện Trưởng Elza cải trang thống nhất kế hoạch và bắt đầu chuyến dạo quanh các con phố vương đô.
+Rentt và Lorraine được Hội chỉ tới Tu Viện Ephas nhận ủy thác chuyển thư của Nữ Tu Viện Trưởng Elza. Biết họ cần mua quà theo danh sách của Rina, Elza cắt đuôi giáo sĩ, mặc thường phục làm người dẫn đường, kể cô và Sơ Lillian là bạn thuở nhỏ lớn lên ở vương đô, và nhờ ghé thêm một nơi. Ba người bắt đầu dạo phố.
 
 ## 265
-Rentt và Lorraine bao trọn bữa bánh ngọt cho Elza tại một tiệm bánh thủ công danh tiếng nằm khuất trong ngõ hẻm theo danh sách quà lưu niệm của Rina; Elza hào hứng ăn liền bảy phần bánh và mua thêm một núi bánh ngọt làm quà.
-Elza dẫn cả hai tới điểm đến bí mật: một cô nhi viện cũ đặt tại một nhà thờ cổ sâu trong hẻm vương đô – nơi Elza và Lillian từng cùng nhau lớn lên thuở nhỏ; lũ trẻ ùa ra đón Elza và được cô nhờ vào báo tin cho Sơ Mel.
-Khi bước vào trong, Rentt bất ngờ bị một chú chó khổng lồ lông trắng tên Pochi (to lớn ngang Hội Trưởng Wolf) nhào tới liếm mặt; một người phụ nữ trẻ đoan trang ra dỗ Pochi và tiết lộ Pochi đã sống ở đây hơn 20 năm, nhiều khả năng là quái vật.
-Cảnh kết thúc: Trong lúc Rentt còn đang ngẫm nghĩ về tuổi thọ của quái vật và ranh giới sinh vật, chú chó Pochi bất ngờ cất tiếng nói [Xin chào!], khiến Rentt vô cùng kinh ngạc.
+Rentt và Lorraine bao Elza bánh ở tiệm bánh khuất trong hẻm (cô ăn liền bảy phần). Elza dẫn tới cô nhi viện trong nhà thờ cổ nơi cô và Lillian lớn lên; Rentt bị chó trắng khổng lồ Pochi (sống hơn 20 năm, có thể là quái vật) nhào tới liếm mặt. Kết chương, Pochi cất tiếng [Xin chào!].
 
 ## 266
-Rentt và Lorraine làm quen với Mel Patiche (người phụ trách Cô Nhi Viện Thứ Ba Vistelya); chia quà bánh cho lũ trẻ và vui vẻ trò chuyện, chia sẻ tin tức về tình hình hồi phục của Sơ Lillian ở Maalt sau khi khỏi Bệnh Tích Tụ Chướng Khí; Mel vô cùng cảm kích khi biết Rentt chính là ân nhân hái Hoa Long Huyết cứu mạng Lillian.
-Elza giao cho Rentt phong thư hồi âm có niêm phong Thần Lực để mang về Maalt cho Lillian; chú chó Pochi đánh hơi kiểm tra phong thư và bất ngờ đối đáp bằng thần giao cách cảm, khiến Elza nhận ra Rentt cũng nghe hiểu được tiếng của Pochi.
-Mel ngỡ ngàng khi nhận ra bấy lâu nay Elza không hề nói đùa về việc Pochi biết nói (nhất là khi Pochi bóc mẽ chuyện cô lén ăn đồ ngọt) và giận dỗi vì bản thân chăm sóc Pochi lâu nhất nhưng lại là người duy nhất không nghe thấy; trước tình thế đó, Elza đồng ý để Pochi truyền luồng Thần Lực sang giúp Mel nghe được tiếng nó.
-Cảnh kết thúc: Elza tiết lộ Pochi thực chất là thần thú (thánh thú) mang đặc tính tương đồng thần tinh linh, chỉ những ai từng nhận được sự ban phước của Thần Lực mới nghe thấy nó nói, và quay sang hỏi thẳng Rentt về Thần Lực của anh.
+Rentt, Lorraine làm quen Mel Patiche (phụ trách Cô Nhi Viện Thứ Ba Vistelya), kể Lillian hồi phục sau Bệnh Tích Tụ Chướng Khí; Mel cảm kích Rentt hái Hoa Long Huyết. Elza giao thư niêm phong Thần Lực cho Lillian; Pochi nói bằng thần giao cách cảm, Rentt nghe được, còn Mel giận vì không nghe nên được Pochi truyền Thần Lực. Elza tiết lộ Pochi là thần thú (thánh thú), chỉ người được ban phước Thần Lực mới nghe, rồi hỏi Rentt về Thần Lực.
 
 ## 267
-Hồi tưởng quá khứ thời Rentt còn là mạo hiểm giả con người tại Maalt: Lorraine nhận ủy thác hộ tống một phụ nữ trẻ tên là Hilde tới Mũi Rook – mỏm đá hẻo lánh nhô cao nhìn ra Hồ Quia vốn nổi tiếng là điểm tự sát; Rentt trám vào vị trí người đánh xe kéo và cùng Lorraine lo lắng tìm cách ngăn thân chủ quyên sinh.
-Khi đến nơi, hiểu lầm được hóa giải khi Hilde bật cười và giải thích gia đình cô từ đời cụ cố đã có truyền thống hàng năm tới đây ngắm Rồng; cả ba ẩn mình trong đêm trăng chứng kiến một con Rồng Băng trỗi dậy từ đáy hồ cất tiếng hát dẫn lối cho con Rồng Băng có cánh sà xuống kết đôi và lặn sâu xuống nước.
-Ủy thác hoàn thành tốt đẹp; khi trở về nhà, Lorraine hào hứng vì hiểu thêm tập tính sinh thái quái vật, còn Rentt chợt rùng mình liên tưởng sự thật đáng sợ về mối liên hệ giữa các thi thể tự sát và loài Rồng dưới đáy hồ.
-Cảnh kết thúc: Rentt và Lorraine quyết định không suy nghĩ sâu thêm về bí ẩn rùng rợn ấy và gác lại chuyện này.
+Hồi tưởng thời Rentt còn là người: Lorraine nhận hộ tống Hilde tới Mũi Rook nhìn ra Hồ Quia (điểm tự sát), Rentt đánh xe, hai người lo thân chủ quyên sinh. Hóa ra nhà Hilde có truyền thống ngắm Rồng; họ thấy Rồng Băng dưới hồ hát gọi Rồng Băng có cánh xuống kết đôi. Rentt rùng mình liên tưởng xác tự sát với Rồng, hai người gác chuyện lại.
 
 ## 268
-Hồi tưởng quá khứ thời Rentt còn là mạo hiểm giả con người Đồng Cấp tại Maalt: Augurey rủ Rentt cùng nhận ủy thác hộ tống một cậu bé tên là Vitez Normorte về với cha mẹ ở thị trấn kế bên sau đợt bão lớn; Vitez ban đầu tỏ ra bướng bỉnh và nghi ngờ năng lực của hai người.
-Dọc đường, xe kéo bị một nhóm thổ phỉ có tổ chức đón đường bao vây; Rentt xung phong tiến lên hạ gục từng tên cướp (tầm Thiết Cấp), nhưng khi chuẩn bị xử lý tên cuối cùng thì bất ngờ một tia sét từ trên trời giáng xuống đánh trúng tên cướp giữa cơn giông bão bất ngờ nổi lên.
-Augurey tiết lộ Vitez sở hữu dị năng triệu hồi giông bão sấm sét mỗi khi bị kích động; thấy cậu bé khóc lóc sợ hãi và tự ti vì sợ làm tổn thương cha mẹ, Rentt dịu dàng trấn an, chỉ ra sấm sét luôn né tránh cậu bé và ghen tị với năng lực thiên phú ấy, khuyên cậu bé học cách kiểm soát dị năng.
-Cảnh kết thúc: Vitez trút bỏ gánh nặng trong lòng, vui vẻ cảm ơn hai người và được hộ tống bình an về nhà; những năm tháng sau đó giông bão không còn nổi lên dữ dội nữa, chứng tỏ cậu bé đã học được cách khống chế năng lực của mình.
+Hồi tưởng thời Rentt Đồng Cấp: cùng Augurey hộ tống cậu bé Vitez Normorte về với cha mẹ sau bão. Thổ phỉ chặn đường; Rentt hạ từng tên thì sét đánh trúng tên cuối — Vitez có dị năng gọi giông sét khi bị kích động. Rentt trấn an cậu bé sợ làm hại cha mẹ, khuyên học kiểm soát; về sau giông bão không còn dữ dội.
 
 ## 269
-Trên đường trở về thị trấn sau khi hoàn thành ủy thác, Rentt nghe thấy tiếng rên rỉ trong rừng và phát hiện một chú Sói Đen con bên cạnh xác mẹ nó; anh kịp thời rút kiếm hạ sát một con quái vật họ mèo đang toan tấn công chú sói con và quyết định đem nó về nhà chăm sóc.
-Lorraine ban đầu lo lắng nhưng đồng ý cùng Rentt tạm thời nuôi dưỡng chú sói con, dự định sẽ tìm cho nó một chủ nhân quý tộc tốt bụng; trong một tuần chung sống, chú sói con quấn quýt và tỏ ra rất thông minh, khiến cả hai nảy sinh tình cảm sâu đậm.
-Lorraine liên hệ và giao chú sói con cho Nữ Nam tước Graham cùng người con trai hiểu chuyện nhận nuôi; khi trở về nhà, cô không kìm được nước mắt vì tiếc nuối không kịp đặt tên cho nó.
-Cảnh kết thúc: Rentt dịu dàng xoa đầu an ủi Lorraine rằng chú sói con chắc chắn sẽ có cuộc sống hạnh phúc tại mái ấm mới, và Lorraine gượng cười nén lại nỗi buồn.
+Trên đường về, Rentt cứu một Sói Đen con bên xác mẹ, giết quái vật họ mèo rồi mang về nuôi cùng Lorraine. Sau một tuần quấn quýt, Lorraine giao nó cho Nữ Nam tước Graham và con trai nhận nuôi, về nhà khóc vì chưa kịp đặt tên; Rentt xoa đầu an ủi.
 
 ## 270
-Trong bữa tối, Lorraine bất ngờ hỏi Rentt liệu anh từng nghĩ đến chuyện theo học tại Học Viện chưa; Rentt thừa nhận xuất thân từ làng quê hẻo lánh nên chưa từng nghĩ tới, nhưng nếu có cơ hội cũng muốn trải nghiệm không khí cùng bạn bè đồng trang lứa học tập và thi đua lành mạnh.
-Lorraine cười trước suy nghĩ lý tưởng hóa của Rentt và kể lại trải nghiệm thực tế đầy khắc nghiệt tại Học Viện Đế Quốc, nơi cô từng bị các học viên lớn hơn 7–8 tuổi ghen ghét giấu sách giáo khoa, và cô đã đáp trả bằng những cái bẫy để đời.
-Lorraine an ủi Rentt rằng anh đã tự học đọc hết sách trong nhà cô nên kiến thức không thua kém bất kỳ ai tốt nghiệp Học Viện, nhưng cô vẫn mong ước giá như có dịp được cùng anh đi học.
-Cảnh kết thúc: Cả hai vui vẻ hẹn ước nếu sau này có cơ hội sẽ cùng nhau theo học tại một học viện nào đó.
+Bữa tối, Lorraine hỏi Rentt có từng muốn học Học Viện; Rentt quê mùa chưa nghĩ tới nhưng mơ có bạn cùng học. Lorraine kể Học Viện Đế Quốc khắc nghiệt: bị học viên lớn hơn 7–8 tuổi giấu sách và cô đáp trả bằng bẫy. Cô bảo Rentt tự đọc hết sách nhà cô nên không thua ai; hai người hẹn sau này cùng đi học.
 
 ## 271
-Rentt đang tản bộ sau bữa rượu ở Maalt thì bị một thầy bói bí ẩn gọi lại cảnh báo về một điềm gở vào ngày mai, đồng thời hé lộ vị trí cuốn sách thất lạc của Lorraine, cơn mưa rào và việc tìm thấy thứ cần tìm ở quảng trường đài phun nước trước khi tan biến vào làn sương mờ.
-Sáng hôm sau, lời tiên đoán đầu tiên ứng nghiệm khi Rentt chỉ đúng chỗ cuốn sách cũ Lorraine đang tìm kiếm trong góc giá sách; Lorraine nhận định nếu luôn đoán đúng thì đó là năng lực thấu thị tương lai vượt xa ma pháp thông thường.
-Cả ngày hôm đó, "điềm gở" của Rentt hóa ra là những sự cố dở khóc dở cười (bị hắt nước 5 lần, suýt trúng chậu hoa rơi, va phải tên trộm chạy trốn); sau cơn mưa như trút nước, anh cứu một đứa trẻ rơi xuống kênh và đưa cậu bé về đoàn tụ với cha mẹ ở quảng trường đài phun nước đúng như dự báo.
-Cảnh kết thúc: Trở về nhà chia sẻ lại sự việc, Lorraine bật cười thích thú và khuyên Rentt không cần quá bận tâm vì Maalt vốn luôn tràn ngập những điều kỳ lạ, đồng thời mỉm cười hy vọng một ngày nào đó sẽ có dịp gặp mặt người thầy bói này.
+Ở Maalt, thầy bói bí ẩn báo Rentt điềm gở ngày mai, chỉ chỗ sách thất lạc của Lorraine, cơn mưa và thứ cần tìm ở quảng trường đài phun nước rồi tan vào sương. Hôm sau ứng nghiệm: tìm được sách, cả ngày xui vặt (bị hắt nước 5 lần…), sau mưa cứu đứa trẻ rơi kênh và đưa về cha mẹ ở quảng trường. Lorraine bảo Maalt vốn nhiều chuyện lạ.
 
 ## 272
-Rentt thẳng thắn thừa nhận với Elza việc mình sở hữu Thần Lực nhờ được thần tinh linh ban phước khi tu sửa một ngôi đền bỏ hoang ở quê nhà; Elza chia sẻ nguồn gốc Thần Lực của cô và Lillian từ Pochi vốn nhằm mục đích bảo vệ Mel trước sự săn đón ráo riết của các tổ chức tôn giáo.
-Elza tiết lộ một tin tức đáng lo ngại: số lượng người sở hữu Thần Lực đang gia tăng bất thường trên khắp thế giới và những cá nhân xuất chúng gần đây có thể thi triển nghi lễ bao phủ cả một tỉnh (tương đương khí tài quân sự cấp chiến lược), báo hiệu thế giới sắp bước vào một thời kỳ đại biến động, đồng thời Thần Lực tiềm tàng của Mel cũng đạt đến tầm mức đó.
-Elza bày tỏ tâm nguyện bảo vệ Mel cùng cô nhi viện và ngỏ lời mời Rentt tương trợ giúp đỡ nếu thời kỳ biến loạn ấy thực sự xảy ra; Rentt nhận định đây là thông tin giá trị cho bản thân và để cảnh báo trước cho nhóm Laura, đồng thời đồng ý sẽ hỗ trợ nếu có thể thu xếp được thời gian.
-Cảnh kết thúc: Elza cúi đầu cảm kích trước lời nhận lời của Rentt, khẳng định sẽ làm tất cả những gì có thể vì sự an toàn của Mel và cô nhi viện.
+Rentt thừa nhận với Elza Thần Lực có từ thần tinh linh ban phước khi sửa ngôi đền hoang ở quê; Thần Lực của Elza và Lillian đến từ Pochi để bảo vệ Mel khỏi các tổ chức tôn giáo. Elza báo người có Thần Lực tăng bất thường, có người làm nghi lễ phủ cả một tỉnh, thế giới sắp đại biến động; Thần Lực tiềm tàng của Mel cũng ở tầm đó. Rentt nhận sẽ giúp nếu thu xếp được.
 
 ## 273
-Sau khi đưa Elza trở về Tu Viện Ephas và chứng kiến cô bị các tư tế vây bắt đưa về làm việc, Rentt cùng Lorraine quay lại quán trọ để chuẩn bị cho hành trình trở về Maalt vào sáng hôm sau.
-Nửa đêm không ngủ được, Rentt đi dạo một mình trên đường phố vương đô và bất ngờ bị một Ma Cà Rồng cực mạnh—kẻ xưng là đồng loại và là cháu của Vua Ma Cà Rồng Arc Tahadu—tập kích xé toạc cổ họng; khi Rentt dùng Phân Liệt né đòn thì bị ma pháp Dehisé của đối phương ép chặt, suýt phải liều mạng nổ tung thì người đánh xe của Laura kịp thời xuất hiện đánh đuổi kẻ địch.
-Sáng hôm sau tại phòng ăn quán trọ, một mạo hiểm giả trung niên coi thường chế giễu Rentt vì quê mùa từ Maalt đến bị côn đồ đánh tơi tả; Augurey xuất hiện cảnh báo rằng Rentt mạnh hơn anh nhiều khiến người kia sợ hãi dập đầu xin lỗi, rồi Lorraine nén ma lực đe dọa dạy cho gã một bài học nhớ đời.
-Cảnh kết thúc: Người đàn ông trung niên run rẩy trở về chỗ ngồi dùng bữa sáng, trong khi Rentt thầm nghĩ Lorraine đã hơi làm quá tay.
+Đưa Elza về tu viện xong, nửa đêm Rentt dạo phố thì bị một Ma Cà Rồng cực mạnh, xưng đồng loại và cháu Vua Ma Cà Rồng Arc Tahadu, xé cổ; Rentt dùng Phân Liệt nhưng bị ma pháp Dehisé ép chặt, người đánh xe của Laura kịp đánh đuổi. Sáng ra, một mạo hiểm giả trung niên chế giễu Rentt; Augurey cảnh báo, Lorraine nén ma lực dọa, gã run rẩy về chỗ.
 
 ## 274
-Rentt kể chi tiết vụ việc bị tên Ma Cà Rồng bí ẩn tập kích đêm qua cho Lorraine và Augurey nghe; Lorraine suy đoán kẻ địch đã dùng ma cụ hoặc ma pháp làm mờ nhận thức để che giấu danh tính, đồng thời khuyên anh tích cực rèn luyện Thần Lực và thảo luận về các ma pháp hệ nén ép tương tự như Áp Súc hay ma pháp cổ đại Daḡata.
-Chia tay Augurey với lời hẹn tái ngộ và cùng nâng cao thực lực, Rentt cùng Lorraine và chàng thanh niên đánh xe của Gia tộc Latuule ra cổng thành vương đô đợi đón Tổng Hội Trưởng Jean Seebeck; trước đó Rentt đã gửi tin nhắn qua mạng lưới Hội để báo cho Nive biết về tên Ma Cà Rồng kia.
-Jean Seebeck xuất hiện trong bộ trang phục giản dị nhưng yểm ma cụ phòng hộ tối tân; ông hối hả giục cả nhóm nhanh chóng lên đường trốn tránh đoàn tùy tùng của Hội đang ráo riết truy tìm để có thể tận hưởng chuyến "nghỉ dưỡng" tại Maalt.
-Cảnh kết thúc: Cỗ xe ngựa lăn bánh rời vương đô trong khi Jean cười khúc khích vẫy chào đám nhân viên qua khe rèm cửa sổ, khiến Rentt không khỏi cảm thấy bất an trong lòng.
+Rentt kể vụ tập kích; Lorraine đoán kẻ địch dùng ma cụ/ma pháp làm mờ nhận thức, bàn ma pháp nén ép như Áp Súc, Daḡata, khuyên luyện Thần Lực; Rentt nhắn qua Hội báo Nive. Chia tay Augurey, hai người cùng người đánh xe Gia tộc Latuule đón Jean Seebeck ở cổng; Jean giục đi để trốn đoàn tùy tùng của Hội mà "nghỉ dưỡng" ở Maalt. Xe rời vương đô, Rentt bất an.
 
 ## 275
-Tại dinh thự Gia tộc Latuule ở ngoại ô Maalt, Isaac phụ trách huấn luyện ma pháp kết hợp võ thuật và đấu tập cho Rina và Alize; tuy nhiên do lần nào cũng bị Isaac đánh bại trong cùng một khoảng thời gian, Rina dần mất tự tin và tự thấy bản thân thua kém toàn diện khi so sánh với Rentt, Lorraine, Isaac, Laura và Alize.
-Nhận ra tâm sự của Rina bằng thính lực nhạy bén của Ma Cà Rồng, Isaac gợi ý cô nhận ủy thác tác chiến đơn lẻ để giải tỏa sự đơn điệu và kiểm chứng tiến độ; Alize ủng hộ nhiệt tình và thúc giục chị đi vì biết túi tiền của Rina đã sắp cạn, sau đó Alize ở lại tiếp tục luyện tập với Isaac và bị anh tăng cường độ huấn luyện vì lỡ trêu anh tàn nhẫn.
-Rina đến Hội Mạo Hiểm Giả Maalt nhưng vẫn chần chừ trước bảng ủy thác do chỉ có thể nhận nhiệm vụ Thiết Cấp khi đi một mình (trong khi hai đồng đội Raiz và Laura đang dưỡng thương sau biến cố Ma Cà Rồng); Sheila nhận thấy vẻ mặt thất thần của Rina nên bước tới hỏi thăm và thấu hiểu nỗi niềm thua kém trước những người xuất chúng của cô.
-Cảnh kết thúc: Sau khi nghe Rina tâm sự về việc muốn nhận ủy thác để kiểm chứng thực lực bản thân sau thời gian được người quen huấn luyện, Sheila gật đầu quả quyết và vội chạy đi tìm một ủy thác phù hợp cho cô.
+Ở dinh thự Gia tộc Latuule, Isaac huấn luyện đấu tập cho Rina và Alize; Rina luôn thua, tự ti. Isaac gợi ý nhận ủy thác đơn lẻ, Alize thúc vì Rina sắp hết tiền. Ở Hội Maalt, đi một mình Rina chỉ nhận được việc Thiết Cấp (Raiz và Laura đang dưỡng thương); Sheila hỏi han, thấu hiểu rồi chạy đi tìm ủy thác phù hợp.
 
 ## 276
-Sheila quay lại và giải thích với Rina về các ủy thác chưa dán bảng (chưa kiểm duyệt xong hoặc có yêu cầu đặc thù về mạo hiểm giả), đồng thời đưa cho cô chọn lựa giữa hai ủy thác: làm người khuân vác vào Mê Cung Nguyệt Ảnh cùng một Đồng Cấp, hoặc hộ vệ ba ngày cho một nữ thương nhân buôn bán quanh các làng phụ cận Maalt.
-Nhận thấy việc cắm trại trong mê cung quá sức với kinh nghiệm hiện tại, Rina quyết định chọn ủy thác hộ vệ; Sheila làm xong thủ tục và dặn cô tới gặp thân chủ ngay trong ngày, nhưng thầm lẩm bẩm lo ngại về tính cách khó chiều của vị khách này.
-Tại một quán trọ ở Maalt, nữ thương nhân Dorothea Merrow đang thấp thỏm lo âu vì từng bị một nam mạo hiểm giả coi thường và ép tăng thù lao trong chuyến đi ở Zahak một tháng trước; cô kiên trì theo đuổi ước mơ mở cửa hàng dù quan hệ với cha rạn nứt vì định kiến phụ nữ làm nghề buôn bán.
-Cảnh kết thúc: Nghe nhân viên quán trọ thông báo nữ mạo hiểm giả nhận ủy thác đã tới, Dorothea hạ quyết tâm đàm phán cẩn thận rồi bước xuống sảnh chuẩn bị gặp mặt Rina.
+Sheila đưa hai ủy thác chưa dán bảng: khuân vác vào Mê Cung Nguyệt Ảnh cùng một Đồng Cấp, hoặc hộ vệ ba ngày cho nữ thương nhân quanh các làng gần Maalt; Rina chọn hộ vệ, Sheila lo thân chủ khó chiều. Nữ thương nhân Dorothea Merrow từng bị mạo hiểm giả nam ép giá ở Zahak, theo đuổi ước mơ mở tiệm dù rạn nứt với cha. Kết chương, Dorothea xuống sảnh gặp Rina.
 
 ## 277
-Dorothea xuống sảnh gặp Rina và bất ngờ trước vẻ ngoài trẻ tuổi, mảnh khảnh của cô gái mạo hiểm giả Thiết Cấp; trước nét tự ti thoáng qua của Rina, Dorothea nhận ra hình bóng của chính mình khi bị khách hàng coi thường nên quyết định gạt bỏ định kiến để ngồi lại trao đổi cụ thể.
-Khi bàn về lộ trình, Rina khuyên tránh khu vực Núi Tute vì bầy Harpy đến làm tổ sớm một tháng và tránh Đại Lộ Farga do cầu bị sập, đề xuất đi đường vòng qua Đại Lộ Radha; Dorothea thắc mắc vì Hội Thương Nhân chưa hay biết, nhưng nhanh chóng bị thuyết phục khi biết Rina nắm tin tức thực tế từ mạng lưới người dân các làng quê hay đến chợ Maalt.
-Nhận thấy Rina không giở trò im lặng để kéo dài ngày đi đòi tăng thù lao như gã mạo hiểm giả trước, Dorothea đồng ý đổi lộ trình; khi được hỏi, Rina thản nhiên khẳng định nếu chạm trán bầy Harpy hàng trăm con thì cô vẫn tự tin không chết và sẽ mang di vật của thân chủ về, khiến Dorothea nhìn thấy khí chất của một mạo hiểm giả thực thụ.
-Cảnh kết thúc: Cảm thấy bản thân may mắn khi gặp được người hộ vệ phù hợp, Dorothea chính thức nhận thuê Rina và Rina vui vẻ hứa sẽ cống hiến hết sức mình.
+Dorothea bất ngờ vì Rina trẻ, mảnh khảnh nhưng gạt định kiến. Rina khuyên tránh Núi Tute (Harpy làm tổ sớm) và Đại Lộ Farga (cầu sập), đi vòng Đại Lộ Radha, nhờ tin từ dân làng đi chợ Maalt. Rina không đòi tăng thù lao, khẳng định gặp bầy Harpy vẫn không chết và sẽ mang di vật thân chủ về; Dorothea chính thức thuê Rina.
 
 ## 278
-Rentt mang về một chiếc Gương Tuổi Trẻ nhặt được từ bầy Goblin ở Mê Cung Nguyệt Ảnh, nhưng hình ảnh phản chiếu trong gương lại tự cử động và bất ngờ vươn tay kéo cả Rentt lẫn Lorraine vào thế giới hư không.
-Tại không gian ảo giác, Lorraine chứng kiến những hồi ức quá khứ: cuộc cãi vã thuở nhỏ với vị sư phụ cũ về cách chế tạo đũa phép, và chuỗi ngày bận rộn vùi đầu vào nghiên cứu tại Đệ Nhất Đại Học Rermutt cùng lời khuyên nghỉ ngơi của cô cấp dưới.
-Hình bóng thuở nhỏ cám dỗ Lorraine bằng viễn cảnh thăng tiến trở thành viện trưởng đại học danh giá, nhưng cô tỉnh táo vạch trần con quái vật hiếm Kính Ma đang mượn chiếc gương để ngụy trang, rồi vung kiếm nện vỡ đầu nó giải trừ ảo cảnh.
-Trở về thực tại bên cạnh Rentt (người vừa say sưa tận hưởng giấc mộng trở thành mạo hiểm giả Mithril Cấp), Lorraine khẳng định sự trân trọng với cuộc sống hiện tại và dùng dữ liệu ảo giác để sáng tạo ma pháp mới.
-Cảnh kết thúc: Cả hai cùng thưởng thức bữa tối vui vẻ và Lorraine thầm biết ơn lựa chọn mười năm trước đã đưa cô đến với cuộc sống bên Rentt ngày hôm nay.
+Rentt mang về Gương Tuổi Trẻ nhặt từ Goblin ở Mê Cung Nguyệt Ảnh, hình phản chiếu kéo hai người vào ảo cảnh. Lorraine thấy hồi ức cãi sư phụ cũ về đũa phép, những ngày nghiên cứu ở Đệ Nhất Đại Học Rermutt; bị cám dỗ bằng chức viện trưởng nhưng vạch trần quái vật hiếm Kính Ma, đập vỡ đầu nó. Rentt vừa mơ thành Mithril Cấp; Lorraine trân trọng hiện tại, dùng dữ liệu tạo ma pháp mới.
 
 ## 279
-Bên đống lửa trại sau một ngày khởi hành từ Maalt, Dorothea chia sẻ với Rina về ước mơ mở một cửa tiệm sánh ngang cơ nghiệp của cha ở thành phố Mystera và những biến cố dồn dập trong hai năm buôn bán, còn Rina vừa động viên vừa giúp thu hái nhiều loại dược liệu quý (cỏ arcante, thảo dược giọt sương) ven đường nhờ kỹ năng học từ sư phụ Rentt.
-Giữa cuộc trò chuyện, Rina nhạy bén phát hiện và dùng kiếm chém rơi mũi tên bắn lén, phóng dao hạ gục cung thủ rồi dặn Dorothea lui về cỗ xe để cô một mình lao vào rừng diệt cướp.
-Chuyển sang hồi tưởng một tuần trước tại Làng Muga, gã kiếm sĩ cướp đường Guster nhận lời một người đàn ông giàu có bí ẩn: nhận một túi tiền vàng lớn để cản trở, dọa dẫm Dorothea nhằm ép cô bỏ nghề buôn bán với điều kiện cô không có quá một hộ vệ Đồng Cấp.
-Cảnh kết thúc: Giữa lúc bị truy sát xuyên rừng (bởi Rina), Guster cay đắng hối hận vì đã nhận phi vụ tai họa này.
+Bên lửa trại, Dorothea kể ước mơ mở tiệm sánh cơ nghiệp cha ở thành phố Mystera; Rina hái dược liệu (cỏ arcante, thảo dược giọt sương) nhờ kỹ năng học từ Rentt. Rina chém rơi tên bắn lén, hạ cung thủ, một mình vào rừng diệt cướp. Hồi tưởng ở Làng Muga: kiếm sĩ cướp Guster nhận tiền vàng của kẻ giàu bí ẩn để dọa Dorothea bỏ nghề. Kết chương, Guster bị Rina truy sát, hối hận.
 
 ## 280
-Guster cùng đồng bọn phục kích hai người trong bữa tối, đinh ninh nắm chắc phần thắng trước một hộ vệ Thiết Cấp; nhưng Rina chém rơi mũi tên, phóng dao hạ cung thủ rồi lẩn vào bóng tối lần lượt quét sạch toàn bộ toán cướp và đánh gục Guster từ phía sau.
-Rina kéo Guster về xe và đưa ra bãi đất trống tra hỏi; gã thủ lĩnh còn mơ màng nên ngoan ngoãn khai ra việc nhận tiền vàng từ kẻ lạ mặt bí ẩn để quấy phá ép Dorothea bỏ nghề buôn bán.
-Cả hai thảo luận loại trừ khả năng người cha đứng sau vụ việc; trước hai lựa chọn tạm bỏ nghề hay đối mặt hiểm nguy, Dorothea kiên quyết tiếp tục hành trình vì lòng tự tôn nghề nghiệp và trách nhiệm phục vụ dân làng.
-Cảnh kết thúc: Rina thản nhiên cam đoan sẽ bảo vệ Dorothea, trói gô Guster ném lên xe rồi cả hai tiếp tục hành trình trong niềm biết ơn sâu sắc của nữ thương nhân.
+Rina lẩn trong bóng tối quét sạch toán cướp, đánh gục Guster từ sau. Bị tra hỏi, Guster khai nhận tiền của kẻ lạ để ép Dorothea bỏ nghề. Hai người loại trừ khả năng người cha đứng sau; Dorothea quyết đi tiếp vì tự tôn nghề và trách nhiệm với dân làng. Rina cam đoan bảo vệ, trói Guster ném lên xe.
 
 ## 281
-Rina cảm kích trước lòng tốt của Dorothea và vận dụng năng lực thể chất quái vật cùng kỹ năng chiến đấu, thuật chi phối tâm trí (học từ Isaac trong các buổi khổ luyện đêm ở dinh thự Latuule) lên tên cướp Guster để gã ngoan ngoãn nghe lời.
-Cả hai đến thị trấn tiền đồn và bàn giao Guster cho trạm lính gác; vì vụ việc liên quan đến kẻ chủ mưu thuê cướp nên bản án tử hình/khổ sai của Guster tạm thời được hoãn để điều tra.
-Tỉnh lại trong ngục tối dưới tầng hầm trạm gác, Guster xin bánh mì cùng nước uống từ người lính gác và nhận ra đồng bọn trong rừng hẳn đã làm mồi cho quái vật.
-Người đàn ông giàu có bí ẩn thuê Guster cùng một ma pháp sư bất ngờ đột nhập, đánh ngất toàn bộ lính gác và mở khóa giải cứu Guster, hứa thưởng thêm tiền và giúp gã đào tẩu với điều kiện thực hiện một phi vụ tấn công cuối cùng vào ban ngày (do lầm tưởng Rina chỉ nhờ ma cụ nhìn đêm).
-Cảnh kết thúc: Guster đồng ý và cùng người đàn ông cùng ma pháp sư dấn bước vào màn đêm rời khỏi thị trấn tiền đồn.
+Rina dùng thuật chi phối tâm trí (học từ Isaac) khiến Guster nghe lời, giao gã cho trạm gác thị trấn tiền đồn; án được hoãn để điều tra kẻ chủ mưu. Kẻ giàu bí ẩn cùng một ma pháp sư đột nhập, đánh ngất lính gác, cứu Guster với điều kiện tấn công lần cuối vào ban ngày (tưởng Rina nhìn đêm nhờ ma cụ). Ba kẻ rời thị trấn trong đêm.
 
 ## 282
-Dorothea và Rina đến một ngôi làng miền núi buôn bán; Dorothea mua thảo dược zima và hoa poltorin từ lũ trẻ để gieo mầm thương mại hàng hóa, đồng thời khéo léo phát hiện và nhắc nhở kín đáo chuyện trưởng làng gian lận cân thóc cùng rượu nhằm tránh gây họa cho dân làng.
-Rina phụ giúp bán hàng và dùng năng lực quái vật cảm nhận được tên cướp Guster (kẻ đã bị cô cắn) đã thoát khỏi nhà giam và đang tiến lại gần.
-Chuyển sang góc nhìn ngôi thứ nhất của Dieg Esol: anh ta là nhị thiếu gia Thương hội Esol tại thành phố Mystera, từng ôm hận vì người anh trai quá hoàn hảo và suýt mưu hại anh mình trước khi được cứu rỗi nhờ tin sắp đặt hôn sự với con gái chủ Thương hội Merrow (Dorothea); dù Dorothea sau đó trốn nhà đi làm thương nhân lữ hành và vị trí thừa kế của Merrow đã ngã ngũ khi chủ thương hội có con trai mới, Dieg vẫn tôn trọng quyết định của cô và từ bỏ.
-Cảnh kết thúc: Hiện tại Dieg đang cùng ma pháp sư lữ hành Amapola và Guster bám theo Dorothea nhằm ép cô bỏ nghề và kết hôn với mình; Dieg nhận ra suy nghĩ của mình quá đỗi phi lý và đầu óc mụ mẫm, đau đớn dữ dội vì bị Amapola thao túng tâm trí.
+Ở làng miền núi, Dorothea mua thảo dược zima, hoa poltorin từ lũ trẻ và kín đáo nhắc trưởng làng gian lận cân. Rina cảm nhận Guster (đã bị cô cắn) thoát ngục, đang đến gần. Đoạn ngôi nhất của Dieg Esol: nhị thiếu gia Thương hội Esol ở Mystera, từng ganh ghét anh trai, được cứu rỗi nhờ hôn ước với Dorothea (con chủ Thương hội Merrow) và đã buông bỏ. Nay Dieg cùng ma pháp sư lữ hành Amapola và Guster bám theo ép Dorothea cưới, đau đầu vì bị Amapola thao túng.
 
 ## 283
-Dorothea và Rina ghé ngôi làng miền núi thứ ba; Dorothea tiếp tục mua cây cỏ từ lũ trẻ và đàm phán sòng phẳng với trưởng làng, đồng thời khuyên Rina không nên tham lợi nhất thời mà phải giữ uy tín lâu dài, khiến Rina liên tưởng tới lời dạy của Rentt.
-Dorothea phát hiện loài cỏ afto có giá trị cao nhờ phát minh thuốc xua đuổi quái vật mới (Rina nhận ra chính là sản phẩm thí nghiệm từ tế bào của Rentt do Lorraine điều chế); Dorothea cùng lũ trẻ vào rừng hái cỏ với sự dẫn đường của thợ săn Zein, người khen ngợi kiến thức đi rừng uyên bác của Rina so với mạo hiểm giả vương đô.
-Cảm nhận được sự hiện diện đáng ngờ, Rina bảo Zein ở lại bảo vệ Dorothea và lũ trẻ rồi một mình tiến sâu vào rừng giáp mặt người phụ nữ trong trang phục ma pháp sư bí ẩn (Amapola).
-Cảnh kết thúc: Người phụ nữ thừa nhận cố tình phóng sát khí dụ Rina ra để tạo cơ hội cho Dieg và Guster tiếp cận bắt giữ Dorothea, đồng thời nhếch mép cười lộ rõ mưu đồ dàn xếp tai nạn hại cha Dorothea để đoạt lấy Thương hội Merrow.
+Ở làng thứ ba, Dorothea đàm phán sòng phẳng, dạy Rina giữ uy tín (giống lời Rentt). Cỏ afto đắt giá nhờ thuốc xua quái mới (Rina biết là sản phẩm Lorraine điều chế từ tế bào Rentt); thợ săn Zein dẫn Dorothea và lũ trẻ đi hái. Rina để Zein bảo vệ họ, một mình giáp mặt nữ ma pháp sư (Amapola); ả nhận cố dụ Rina đi để Dieg, Guster bắt Dorothea, và lộ mưu hại cha Dorothea đoạt Thương hội Merrow.
 
 ## 284
-Tại bãi cỏ afto, Dieg cùng Guster (đang kề dao uy hiếp con tin) bắt ép Dorothea đồng ý kết hôn và đe dọa cắt ngón tay đứa trẻ; Dieg ôm đầu đau đớn khi nhận ra sự phi lý trong hành vi của mình, còn Zein giương cung nhắm bắn thì bị Guster phóng dao găm phản đòn.
-Trong rừng, nữ ma pháp sư (Amapola) dùng ma pháp vô ngôn áp đảo Rina, nhưng bị Rina vờ bị thương để phản kích chém đứt đầu; ả tái tạo và khoe thể chất bất tử, song Rina liên tục chém đứt các chi cho tới khi năng lực tái tạo của ả cạn kiệt.
-Rina găm cái xác xuống đất rồi tra hỏi chiếc đầu rơi; ả thừa nhận dùng thuật mị hoặc thao túng Dieg nhằm tìm chốn dung thân dưới danh phận Ma Cà Rồng hoang (stray vampire) do không thuộc bất kỳ huyết tộc hay gia tộc nào.
-Cảnh kết thúc: Giữa lúc Rina trắc ẩn đắn đo nên xử lý hay thu phục ả thì một sự hiện diện bất ngờ xuất hiện sau lưng và lên tiếng hỏi liệu cô có cần giúp đỡ không.
+Ở bãi cỏ afto, Guster kề dao con tin, Dieg ép Dorothea cưới nhưng ôm đầu đau; Zein giương cung bị Guster phóng dao. Trong rừng, Amapola dùng ma pháp vô ngôn, bị Rina chém đầu, tái tạo rồi bị chém mãi tới cạn năng lực. Đầu ả khai dùng thuật mị hoặc thao túng Dieg để tìm chỗ nương thân vì là Ma Cà Rồng hoang (stray vampire). Kết chương, có kẻ xuất hiện sau lưng Rina hỏi cần giúp không.
 
 ## 285
-Isaac Hart bất ngờ xuất hiện trong rừng, nhận cưu mang Amapola về Gia tộc Latuule để giám sát và trở thành kẻ tạo tác mới của ả, đồng thời dùng kỹ năng Phân Liệt gắn lại đầu và chữa lành thương tích cho ả.
-Tại bãi cỏ afto, bóng đen của Isaac đánh lệch dao găm của Guster giúp mũi tên của Zein hạ gục tên cướp; khi Amapola quy phục, thuật mị hoặc giải trừ khiến Dieg ngất xỉu.
-Rina cùng Isaac dẫn Amapola bị trói đến hội ngộ nhóm Dorothea; Dorothea chia sẻ về mối quan hệ tốt đẹp trong quá khứ với Dieg, còn Isaac giải thích cơ chế giải trừ thuật mị hoặc của Ma Cà Rồng.
-Dieg tỉnh lại, đau đớn nhận lỗi với Dorothea và buồn bã chất vấn Amapola; Isaac đề nghị áp giải Amapola đến thị trấn lớn phân xử (để đưa về dinh thự Latuule).
-Cảnh kết thúc: Mọi người nhất trí với đề xuất của Isaac và cùng lũ trẻ an toàn trở về ngôi làng gần đó.
+Isaac Hart xuất hiện, nhận Amapola về Gia tộc Latuule giám sát, thành kẻ tạo tác mới của ả, dùng Phân Liệt gắn đầu cho ả. Bóng của Isaac đánh lệch dao Guster để tên của Zein hạ gã; Amapola quy phục, thuật mị hoặc giải, Dieg ngất. Dieg tỉnh lại nhận lỗi với Dorothea; Isaac đề nghị áp giải Amapola tới thị trấn lớn, mọi người về làng.
 
 ## 286
-Tại thị trấn tỉnh lỵ, Isaac dàn xếp phiên xử thần tốc: Guster bị đày đi lao động khổ sai ở hầm mỏ, còn Amapola được làm giả án tử hình và giao nộp hũ tro cốt để che mắt Thợ Săn Ma Cà Rồng; sau đó Isaac tách nhóm về trước.
-Trở về Maalt, cha của Dorothea (Rudo Merrow) và cha của Dieg (Jude Esol) đã đợi sẵn ở Hội; sau khi nghe rõ đầu đuôi, Rudo tha thứ cho Dieg, còn Dieg xin cha khai trừ khỏi Thương hội Esol để bắt đầu lại từ con số không, rồi nhận lời đồng hành học hỏi cùng Dorothea với sự chúc phúc của hai người cha.
-Rina hoàn thành ủy thác hộ vệ và tới dinh thự Latuule báo cáo; Isaac khích lệ giúp cô rũ bỏ tự ti trước cái bóng của Rentt và Lorraine, đồng thời triệu hồi Amapola—nay đã thành gia nhân mặc đồ hầu gái và học được kỹ năng Phân Liệt từ bóng tối.
-Amapola giải thích việc nhắm vào Dieg vì mặc cảm tự ti của anh trước người anh trai dễ bị thuật mị hoặc thao túng hơn tâm hồn lạc quan của Dorothea, đồng thời thừa nhận một phần muốn cổ vũ Dieg vì anh từng cho cô ta ăn và nương náu.
-Cảnh kết thúc: Amapola nói chưa gặp nữ chủ nhân vì cô bé còn đang ngủ, Isaac thản nhiên nhận định chỉ Laura mới biết mình sẽ thức dậy vào ngày mai hay một trăm năm nữa, khiến Rina cảm thán về đặc tính của loài Ma Cà Rồng.
+Isaac dàn xếp phiên xử: Guster đi khổ sai hầm mỏ, Amapola bị làm giả án tử kèm hũ tro để che mắt Thợ Săn Ma Cà Rồng. Ở Maalt, Rudo Merrow (cha Dorothea) tha cho Dieg; Dieg xin cha là Jude Esol khai trừ khỏi Thương hội Esol, theo học Dorothea. Rina báo cáo ở dinh thự Latuule, được Isaac khích lệ; Amapola nay làm hầu gái, học Phân Liệt. Laura vẫn ngủ, không biết bao giờ dậy.
 
 ## 287
-Rentt, Lorraine cùng Tổng Hội Trưởng Jean Seebeck ngồi xe trở về Maalt sau chuyến đi vương đô; Lorraine và Rentt bồi hồi nhớ quê hương thứ hai và bàn luận về tình hình thị trấn khi nhân lực của Tòa Tháp và Học Viện đổ xô về nghiên cứu mê cung mới bên dưới lòng đất.
-Jean tò mò muốn vào thám hiểm mê cung mới và nghe Rentt cùng Lorraine kể lại ấn tượng lúc nơi đó mới hình thành tựa như bên trong nội tạng sinh vật sống.
-Rời xe đi bộ tới Hội, Rentt trò chuyện cùng Jean về quyết định bổ nhiệm Wolf làm Hội Trưởng Maalt hơn chục năm trước và công cuộc cải cách xóa bỏ định kiến để hỗ trợ tân binh; Rentt kể chuyện cho tân binh Maalt tự nếm độc hoa cần dại (gây tê liệt, khác với cần dại đất ăn được) để thấu hiểu sự nguy hiểm và biết cách chiết dịch bôi lên kiếm khiến Jean thán phục độ "đáng sợ" của anh.
-Cảnh kết thúc: Cả ba tới trước cửa Hội Mạo Hiểm Giả Maalt và cùng bước vào trong để Rentt hoàn thành ủy thác hộ tống Jean gặp Wolf.
+Rentt, Lorraine và Jean Seebeck đi xe về Maalt, bàn chuyện Tòa Tháp và Học Viện đổ về mê cung mới; Jean muốn vào thám hiểm. Đi bộ tới Hội, Jean kể việc bổ nhiệm Wolf làm Hội Trưởng Maalt; Rentt kể cho tân binh nếm độc hoa cần dại (gây tê, khác cần dại đất ăn được) để biết chiết bôi kiếm, khiến Jean thán phục. Cả ba vào Hội.
 
 ## 288
-Jean xông thẳng lên văn phòng Hội Trưởng bỏ qua quầy tiếp tân; Sheila sững sờ nhận ra Tổng Hội Trưởng Yaaran, Rentt cùng Lorraine giải vây rồi lên theo báo cáo hoàn thành ủy thác.
-Wolf thở dài cam chịu vì bị Jean đọc vị mưu tính gửi lời mời lấy lệ; Jean giải thích đã chỉ đạo cấp dưới chuyển thẳng mọi tin nhắn từ Wolf cho mình.
-Jean tổ chức tiệc rượu náo nhiệt tại quán cùng các mạo hiểm giả Maalt; ngồi cùng bàn, Wolf kinh ngạc khi biết nhóm Rentt từng đối đầu và thoát chết trước tổ chức ngầm của Jean tại vương đô.
-Wolf báo tin vừa phát hiện thêm một mê cung mới đang mở rộng dọc theo Đại Lộ Ete gần ngôi làng Mors, kèm vật chứng là một món ma cụ "phế phẩm mê cung" do một mạo hiểm giả Đồng Cấp săn Goblin đem về.
-Cảnh kết thúc: Lorraine phấn khích nhớ lại điều người sư phụ cũ từng lẩm bẩm về việc mê cung này có thể thúc đẩy sự ra đời của những mê cung khác ở lân cận.
+Jean xông lên văn phòng Hội Trưởng, Sheila sững sờ; Wolf cam chịu vì bị Jean đọc vị lời mời lấy lệ. Jean mở tiệc rượu với mạo hiểm giả Maalt; Wolf kinh ngạc vì nhóm Rentt từng đụng tổ chức ngầm của Jean, rồi báo phát hiện mê cung mới mở rộng dọc Đại Lộ Ete gần làng Mors, vật chứng là ma cụ "phế phẩm mê cung". Lorraine nhớ lời sư phụ cũ rằng mê cung này có thể sinh mê cung khác.
 
 ## 289
-Wolf, Lorraine và Rentt tranh luận về giả thuyết mê cung mẹ sinh ra các mê cung con; Wolf lo lắng khối lượng công việc của Hội sẽ quá tải và đòi kéo Rentt vào phụ giúp, nhưng sau đó chuyển sang dặn dò và tiết lộ kỳ thi thăng hạng Ngân Cấp kế tiếp sẽ diễn ra sau một tháng tại thành phố mỏ Welfia.
-Hôm sau, Rentt và Lorraine cùng nhau đi dạo phố Maalt để giải quyết việc vặt; Rentt quyết tâm đến Welfia dự thi thay vì chờ đợi một năm ở Maalt.
-Cả hai đến Cô Nhi Viện Thứ Hai Maalt giao thư cho Sơ Lillian và ngạc nhiên thấy chiếc vòng gõ cửa bị nguyền rủa nay đã được sửa chữa chắc chắn.
-Sơ Lillian vui vẻ tiết lộ chính Isaac Hart đã ra tay sửa giúp trong một lần đưa Alize về; Rentt và Lorraine vừa thán phục sự đa tài của Isaac vừa cảm thấy bùi ngùi chia tay chiếc vòng gõ cửa lỏng lẻo năm xưa.
-Cảnh kết thúc: Rentt và Lorraine đứng trước cửa cô nhi viện với nỗi buồn man mác dâng lên trong lòng.
+Bàn giả thuyết mê cung mẹ sinh mê cung con; Wolf muốn kéo Rentt phụ việc, báo kỳ thi Ngân Cấp kế tiếp sau một tháng ở thành phố mỏ Welfia, Rentt quyết đi thi. Hôm sau, hai người tới Cô Nhi Viện Thứ Hai Maalt giao thư cho Sơ Lillian, thấy vòng gõ cửa bị nguyền đã được Isaac Hart sửa chắc, bùi ngùi trước cửa.
 
 ## 290
-Rentt và Lorraine vào phòng khách Cô Nhi Viện Thứ Hai Maalt trò chuyện cùng Sơ Lillian; Lorraine trao thư của Nữ Tu Viện Trưởng Elza gửi Lillian thông báo nội bộ Giáo Hội Đông Thiên đã bình ổn và đề nghị triệu hồi sơ về vương đô, nhưng Lillian từ chối vì chọn gắn bó với cô nhi viện Maalt.
-Lillian tiết lộ bản thân rất thạo chiến đấu và bộc lộ Thần Lực hùng hậu vượt xa Rentt và Lorraine; Lorraine trao quà bánh kẹo cùng trà đen vương đô cho cô nhi viện trước khi cả hai rời đi.
-Lorraine về nhà phân loại sách, còn Rentt đến tiệm rèn Ba Chĩa tặng Clope túi nguyên liệu quái vật hiếm săn được cùng Augurey tại vương đô và nhận thanh kiếm mới được rèn từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực cùng máu Ma Cà Rồng của Rentt.
-Clope dặn dò Rentt cẩn thận không để làm gãy thanh kiếm trong quá trình thử nghiệm Thần Ma Khí Dung Hợp Thuật.
-Cảnh kết thúc: Rentt vừa cười thầm vừa bước ra sân trong của tiệm Ba Chĩa để bắt đầu thử nghiệm sức mạnh của món vũ khí mới.
+Lorraine trao thư Elza báo Giáo Hội Đông Thiên đã ổn, mời Lillian về vương đô; Lillian từ chối, ở lại Maalt, lộ Thần Lực hùng hậu và rành chiến đấu. Rentt tới tiệm rèn Ba Chĩa tặng Clope nguyên liệu, nhận kiếm mới rèn từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt; Clope dặn đừng làm gãy khi thử Thần Ma Khí Dung Hợp Thuật. Rentt ra sân trong thử kiếm.
 
 ## 291
-Rentt mở bọc vải kiểm tra thanh kiếm mới tại sân trong tiệm Ba Chĩa; thanh kiếm có vân gỗ Thánh Thụ, độ dẻo dai đặc biệt uốn cong như kiếm roi mà không gãy, kèm sắc đỏ tà dị từ máu Ma Cà Rồng kết hợp hoàn hảo với mặt nạ đầu lâu của anh.
-Rentt chém thử các hình nhân gỗ, rơm và giáp sắt; thanh kiếm chém ngọt lịm không tì vết mà chưa cần truyền năng lượng, khiến cả hai nghi ngờ đây có thể là một thanh ma kiếm hoặc thánh kiếm gắn kết riêng với chủ nhân.
-Khi truyền Khí Lực, thanh kiếm tăng độ cứng cáp và tạo ra vết chém cực phẳng ngọt qua giáp sắt; khi truyền Ma Lực, nhờ Ma Thiết ngấm Ma Lực Rồng Đất, thanh kiếm kích hoạt khả năng thao túng đất cát và tạo đạn đá từ hư không.
-Cảnh kết thúc: Rentt vừa kinh ngạc trước tiềm năng to lớn của món vũ khí vừa lo lắng về lượng tiêu hao Ma Lực và tự hỏi liệu mình có đủ sức làm chủ nó hay không.
+Kiếm mới có vân gỗ Thánh Thụ, dẻo uốn như kiếm roi mà không gãy, sắc đỏ từ máu Ma Cà Rồng. Chém hình nhân gỗ, rơm, giáp sắt ngọt mà chưa cần truyền năng lượng, có thể là ma kiếm/thánh kiếm gắn với chủ. Truyền Khí Lực tăng độ cứng, vết chém phẳng; truyền Ma Lực (Ma Thiết ngấm Ma Lực Rồng Đất) thì thao túng đất cát, tạo đạn đá. Rentt lo lượng Ma Lực tiêu hao.
 
 ## 292
-Rentt truyền Thần Lực vào thanh kiếm, khiến lưỡi kiếm bọc trong ngọn lửa xanh lam không tỏa nhiệt giống Thánh Hỏa của Nive Maris; Clope gợi ý anh thử nghiệm khả năng khắc chế Undead lên lũ Khô Lâu tại Mê Cung Nguyệt Ảnh.
-Tiếp đó, Rentt thử nghiệm Ma Khí Dung Hợp Thuật: thanh kiếm chém cực ngọt, điều khiển đất cát chuẩn xác hơn và giữ nguyên uy lực phát nổ, nhưng tiêu hao thể lực khủng khiếp khiến anh kiệt sức ngã quỵ sau ba mươi giây.
-Clope và Rentt trò chuyện về các loại ma kiếm nguy hiểm tước đoạt sinh mệnh hay hút máu người dùng để đổi lấy sức mạnh, cùng số phận bi đát của những anh hùng từng sử dụng chúng trong thi ca của các thi nhân hát rong.
-Cảnh kết thúc: Rentt nhìn nhận thanh kiếm như một người bạn đồng hành đáng tin cậy và quyết tâm thuần thục nó, mong rằng nếu mai sau câu chuyện của mình được đưa vào khúc hát thì đó sẽ là một khúc ca thú vị.
+Truyền Thần Lực, lưỡi kiếm bọc lửa xanh lam không tỏa nhiệt giống Thánh Hỏa của Nive Maris; Clope gợi ý thử trên Khô Lâu ở Mê Cung Nguyệt Ảnh. Ma Khí Dung Hợp Thuật chém ngọt, điều khiển đất chuẩn hơn nhưng làm Rentt kiệt sức sau ba mươi giây. Hai người bàn về ma kiếm hút sinh mệnh trong thi ca; Rentt coi kiếm là bạn đồng hành.
 
 ## 293
-Rentt thử nghiệm kỹ thuật cuối cùng là Thần Ma Khí Dung Hợp Thuật lên các hình nhân; nhát kiếm kích hoạt năng lực Áp Súc khiến hình nhân gỗ rơm bị nén nhỏ trong lòng bàn tay và hình nhân giáp kim loại bị nghiền thành khối cầu, đồng thời đất cát và dây thường xuân mọc ra quấn chặt hút dinh dưỡng.
-Clope kiểm tra kỹ lưỡng thanh kiếm và xác nhận nó hoàn toàn nguyên vẹn sau khi chịu tải Thần Ma Khí Dung Hợp Thuật; Rentt vui mừng vì có thêm át chủ bài thực chiến và hứa sẽ giúp Clope bất cứ khi nào anh cần.
-Chuyển sang góc nhìn tiệm Ba Chĩa sau khi Rentt rời đi: Luka trở về từ Hội Thợ Rèn với vẻ mặt lo âu và đưa cho Clope một bức thư.
-Cảnh kết thúc: Clope đọc xong thư, khẽ gật đầu và nhận ra mình sẽ phải sớm nhờ cậy lời đề nghị giúp đỡ của Rentt.
+Thần Ma Khí Dung Hợp Thuật kích hoạt Áp Súc nén hình nhân, nghiền giáp thành khối cầu, kèm đất cát và dây thường xuân mọc quấn hút dinh dưỡng; kiếm vẫn nguyên vẹn. Rentt hứa giúp Clope khi cần. Đoạn ở tiệm Ba Chĩa sau khi Rentt đi: Luka từ Hội Thợ Rèn về, đưa Clope một bức thư; Clope biết sẽ sớm phải nhờ Rentt.
 
 ## 294
-Rentt đến Hội Mạo Hiểm Giả Maalt tìm ủy thác săn quái để kết hợp thử nghiệm thanh kiếm mới tại Mê Cung Nguyệt Ảnh, nhưng các ủy thác thu thập chất lỏng Slime và Ma Tinh Khô Lâu đều bị các mạo hiểm giả khác và nhóm nữ sinh Học Viện nhanh tay lấy mất.
-Trong lúc bảng nhiệm vụ chỉ còn lại các ủy thác không phù hợp, Rentt nghe thấy tiếng tranh cãi ở quầy tiếp tân giữa Sheila và một chàng trai trẻ tên Rivul ăn mặc rách rưới, bầm dập vì mức thù lao ủy thác của cậu bị coi là quá thấp trong bối cảnh mạo hiểm giả Maalt đang đắt khách nhờ Tòa Tháp và Học Viện.
-Thấy hai bên cùng gặp vận rủi, Rentt tiến lại hỏi thăm rồi cùng Rivul chuyển sang bàn quán rượu liền kề của Hội để lắng nghe đầu đuôi câu chuyện; anh vô cùng hứng thú khi biết Rivul đang cần thuê người tiêu diệt lũ Khô Lâu bất ngờ xuất hiện quấy nhiễu ngôi làng bình yên của cậu.
-Cảnh kết thúc: Rivul bắt đầu kể cho Rentt nghe về ngôi làng nơi cậu từng sinh sống.
+Ở Hội Maalt, ủy thác chất lỏng Slime và Ma Tinh Khô Lâu bị người khác và nhóm nữ sinh Học Viện lấy mất. Rentt nghe Sheila tranh cãi với chàng trai rách rưới tên Rivul vì thù lao quá thấp; anh mời Rivul sang quán rượu của Hội nghe chuyện, hứng thú vì làng cậu bị Khô Lâu quấy nhiễu. Rivul bắt đầu kể về làng.
 
 ## 295
-Rivul kể cho Rentt nghe về Làng Crask nằm dọc Sông Neris ở phía tây Maalt: một ngôi làng nhỏ bé, khép kín, tự cung tự cấp và may mắn gặp được thương nhân lữ hành thật thà nên có cuộc sống yên bình; tuy nhiên sự xuất hiện bất ngờ của bầy Khô Lâu đã buộc phụ nữ và trẻ em phải sơ tán, còn cánh đàn ông ở lại từ xa canh giữ làng và cử Rivul đi cầu cứu.
-Rentt nhận ủy thác và cùng Rivul lên đường ngay; sau một ngày đi xe đến thị trấn gần nhất, Rentt quyết định đi bộ vào rừng lúc chiều muộn để kịp hội quân với nhóm đàn ông làng Crask đang kiệt sức canh gác trên ngọn đồi nhìn xuống làng.
-Nhóm Rentt gặp gỡ Trưởng thôn Jiris cùng 4 người dân làng; Jiris vô cùng cảm kích khi một mạo hiểm giả Đồng Cấp chịu nhận mức thù lao ít ỏi; Rentt dự định sẽ dọn dẹp Khô Lâu vào ban ngày ngày mai để tránh nguy hiểm và từ chối lời đề nghị cùng tham chiến của dân làng để bảo toàn tính mạng cho họ.
-Cảnh kết thúc: Dân làng nhao nhao muốn xả thân giúp sức dẫu chỉ làm tấm khiên chắn, khiến Rentt nhận ra anh cần phải tìm cách thuyết phục họ ở yên tại chỗ trước khi ra tay.
+Làng Crask bên Sông Neris phía tây Maalt nhỏ, khép kín, yên bình; Khô Lâu xuất hiện khiến phụ nữ trẻ em sơ tán, đàn ông canh từ xa và cử Rivul đi cầu cứu. Rentt nhận việc, đi xe một ngày rồi đi bộ vào rừng gặp Trưởng thôn Jiris cùng 4 dân làng trên đồi. Rentt định dọn Khô Lâu vào ban ngày mai, từ chối cho dân làng tham chiến nhưng họ vẫn đòi giúp.
 
 ## 296
-Sáng hôm sau, Rentt thuyết phục Trưởng thôn Jiris và nhóm dân làng không xông vào cận chiến mà lập nhóm đứng từ xa bắn tên làm mồi nhử; khi quan sát từ đỉnh đồi, anh phát hiện bầy Khô Lâu đã tăng thêm quân số, xuất hiện cả hai con Khô Lâu Binh (cầm giáo và cầm cung).
-Rentt một mình lẻn vào làng, dùng kiếm truyền Khí Lực hạ gục gọn gàng con Khô Lâu đi tuần đầu tiên trong im lặng, móc Ma Tinh rồi dùng kiếm truyền Ma Lực vùi nông đống xương làm vật liệu tái thiết làng sau này.
-Chạm trán con Khô Lâu thứ hai đi tuần lẻ loi, Rentt thử nghiệm truyền Thần Lực vào kiếm: nhát chém khiến con quái vật cùng các khúc xương liền kề lập tức hóa thành tro bụi và rơi lại Ma Tinh.
-Rentt nhận thấy Thần Lực mang lại sự chúc phúc khắc chế Undead cực mạnh nhưng tiêu hao nhiều hơn hiệu suất thu lại và tốc độ tích lũy chậm, nên chỉ phù hợp đối phó Undead.
-Cảnh kết thúc: Rentt tạm thu hồi Thần Lực khỏi kiếm, phát tín hiệu cho dân làng đang ẩn nấp rồi cất bước đi tìm con Khô Lâu thứ ba.
+Rentt cho dân làng đứng xa bắn tên làm mồi; từ đồi thấy thêm hai Khô Lâu Binh (cầm giáo, cầm cung). Anh lẻn vào làng, kiếm Khí Lực hạ Khô Lâu tuần tra, dùng Ma Lực vùi xương; con thứ hai bị kiếm truyền Thần Lực chém hóa tro. Rentt nhận ra Thần Lực khắc chế Undead mạnh nhưng tốn và tích chậm. Kết chương, anh đi tìm con thứ ba.
 
 ## 297
-Con Khô Lâu thứ ba bất ngờ xuất hiện từ phía rừng đe dọa nhóm dân làng; Rentt kịp thời lao tới chắn đòn, dùng kiếm truyền Thần Lực chém bay đầu khiến nó tan thành tro bụi, rồi nghiêm túc dặn dân làng phải ưu tiên bảo toàn tính mạng.
-Tiến vào trung tâm làng, Rentt cùng dân làng phát hiện toán quái vật gồm ba con Khô Lâu thường và hai con Khô Lâu Binh (cầm cung và cầm giáo) khôn ngoan dàn trận bọc lót lẫn nhau ở khoảng sân trống do nhận thấy toán tuần tra mất tích.
-Nhằm trừ khử mối nguy lớn nhất cho dân làng là cung thủ Khô Lâu Binh, Rentt xông vào gạt phăng mũi tên, dùng kiếm truyền Thần Lực chém bay đầu con Khô Lâu chắn đường rồi phóng Thần Lực kéo dài lưỡi kiếm đâm xuyên sọ con Khô Lâu Binh phía sau làm nó hóa tro.
-Dân làng bắn tên quấy rối con Khô Lâu còn lại giúp Rentt chém đôi nó từ sau lưng; sau đó Rentt suy ngẫm về nguồn gốc Undead và bản ngã của mình trước khi vận Khí Lực dốc toàn lực lao vào đơn đả độc đấu.
-Cảnh kết thúc: Rentt tung nhát chém cường hóa Khí Lực chém lìa đầu con Khô Lâu Binh cầm giáo cuối cùng, hoàn tất việc quét sạch lũ Undead trong làng.
+Rentt chặn con Khô Lâu thứ ba đe dọa dân làng, chém hóa tro. Ở sân làng có ba Khô Lâu thường và hai Khô Lâu Binh dàn trận; Rentt phóng Thần Lực kéo dài lưỡi kiếm đâm sọ Khô Lâu Binh cầm cung, dân làng bắn tên giúp chém con khác. Cuối cùng anh chém lìa đầu Khô Lâu Binh cầm giáo, quét sạch làng.
 
 ## 298
-Rentt nhận ủy thác cõng Alvina—một bà lão cựu mạo hiểm giả quen biết lâu năm tại Maalt—lên hồ nước trên đỉnh ngọn núi đá hiểm trở ngập tràn Thần Lực để thăm con "Long Ngư" khổng lồ tương truyền sẽ có ngày hóa Rồng mà tổ tiên mười đời của bà từng ghi chép lại.
-Alvina nhờ Rentt lặn xuống đáy hồ nhặt ba chiếc vảy do Long Ngư rụng ra; khi chạm nước, dòng suối hồi phục Thần Lực xua tan mọi mệt mỏi trong Rentt; dưới đáy hồ, anh chạm mặt Long Ngư và chịu áp lực áp đảo trước khi nó bỏ đi.
-Long Ngư truyền âm vào tâm trí Rentt lời cảnh báo và khuyên nhủ chớ sa vào lòng tham; khi lên bờ, Rentt kể lại (lược bỏ chi tiết Undead), Alvina hé lộ tổ tiên bà cũng từng nghe nó nói và nghĩa vụ mười đời đến thế hệ bà là chấm dứt, đồng thời bà lấy ba chiếc vảy làm bùa may mắn cho Rentt, Lorraine và đứa cháu của mình.
-Cảnh kết thúc: Alvina giục Rentt cõng bà về thị trấn và hai người bắt đầu hành trình quay về.
+Rentt cõng Alvina, bà lão cựu mạo hiểm giả quen ở Maalt, lên hồ trên núi đá ngập Thần Lực thăm "Long Ngư" sẽ hóa Rồng mà tổ tiên mười đời của bà ghi lại. Lặn nhặt ba chiếc vảy, nước hồi Thần Lực; Long Ngư truyền âm khuyên chớ tham. Alvina nói nghĩa vụ mười đời kết thúc ở bà, lấy vảy làm bùa cho Rentt, Lorraine và cháu bà; Rentt cõng bà về.
 
 ## 299
-Rentt nhận ủy thác hộ tống cựu kỵ sĩ già Deque Eger đến Làng Weger; trên đường đi, Deque dễ dàng một mình chém sạch toán cướp mười tên trong rừng, rồi bên đống lửa trại, ông tâm sự về lý do từ chối lời mời làm huấn luyện viên cho đoàn kỵ sĩ của Ngài Bá tước để về vùng núi làm nông dân vì sau 50 năm cầm kiếm, ông muốn học cách cày ruộng và trồng trọt.
-Rentt bộc bạch về khao khát vươn tới Mithril Cấp và được Deque động viên dù cả hai có lý tưởng sống khác biệt; sau khi hoàn thành hộ tống, Rentt chia tay Deque và trở về Maalt.
-Vài năm sau, Rentt hay tin một quái vật hùng mạnh tấn công Làng Weger và Deque đã liều mạng chiến đấu đồng quy vu tận với nó; khi Rentt tìm đến làng, dân làng trao lại cho anh hộp hoa quả do Deque cần mẫn vun trồng cùng lời nhắn gửi cuối đời rằng ông đã hoàn thành được ước mơ thứ hai của mình.
-Cảnh kết thúc: Trên đường trở về Maalt, Rentt nếm thử trái cây mang vị ngọt đượm chút vị đắng và chiêm nghiệm về hương vị của cuộc đời.
+Rentt hộ tống cựu kỵ sĩ già Deque Eger đến Làng Weger; ông một mình chém mười tên cướp, kể đã từ chối làm huấn luyện viên cho kỵ sĩ của Bá tước để về làm nông sau 50 năm cầm kiếm. Vài năm sau, Deque chết chung với quái vật tấn công làng; dân làng trao Rentt hộp hoa quả ông trồng cùng lời nhắn đã hoàn thành ước mơ thứ hai. Rentt nếm vị ngọt đượm đắng.
 
 ## 300
-Cậu bé Ars (10 tuổi) cùng cha là thương nhân Gund và em trai Ridd (3 tuổi) trên chuyến buôn hàng quanh Maalt đã thuê Rentt làm hộ vệ; Rentt chỉ cho Ridd nhận biết thảo dược papyr mọc ven đường và từ chối nhận tiền bán thảo dược vì đã được bao ăn.
-Nửa đêm, Rentt nhờ Ars trông lửa trại rồi một mình vào rừng tiêu diệt toán cướp gồm năm mạo hiểm giả Đồng Cấp sa ngã và thu giữ thẻ của chúng để nộp cho Hội.
-Ars kinh ngạc và bộc bạch ước mơ làm mạo hiểm giả; Rentt ân cần chỉ dẫn lộ trình 5 năm rèn luyện kiến thức, cách kiếm tiền trả học phí từ thảo dược, đồng thời hẹn ngày Ars trưởng thành thành mạo hiểm giả xuất chúng sẽ cùng nhau cạn ly.
-Cảnh kết thúc: Ars thức trắng đêm nghe Rentt truyền thụ kiến thức và nhận ra cuộc gặp gỡ với anh chính là một phép màu diệu kỳ.
+Cậu bé Ars (10 tuổi), cha là thương nhân Gund và em Ridd (3 tuổi) thuê Rentt hộ vệ; Rentt chỉ Ridd thảo dược papyr. Nửa đêm anh vào rừng diệt năm mạo hiểm giả Đồng Cấp sa ngã, thu thẻ nộp Hội. Ars muốn làm mạo hiểm giả; Rentt chỉ lộ trình 5 năm, hẹn ngày cùng cạn ly. Ars thức trắng nghe, coi cuộc gặp là phép màu.
 
 ## 301
-Sau đêm canh gác bảo vệ Làng Crask, Rivul cùng Trưởng thôn Jiris dẫn nhóm dân làng sơ tán đầu tiên trở về; Rentt nhiệt tình ở lại phụ giúp dọn dẹp, sửa sang hàng rào và nhà cửa nhằm củng cố phòng tuyến của làng trước nguy cơ Khô Lâu tiếp tục tràn tới.
-Rentt bày số lượng lớn thực phẩm, bát đĩa đồ dùng từ túi ma thuật ra quảng trường để bán rẻ hỗ trợ dân làng tái thiết, đồng thời tâm sự cùng Rivul về giá trị của túi ma thuật và lý tưởng dấn thân liều mạng của nghề mạo hiểm giả.
-Rivul bất ngờ nhận ra ngọn giáo của một con Khô Lâu Binh mà Rentt tiêu diệt chính là di vật của cha mình—một cựu lính thành phố kiêm thợ săn cừ khôi từng một mình bọc hậu hy sinh trước đàn Goblin ba năm trước để cứu cả làng nhưng chưa được mai táng.
-Rentt phán đoán ngọn nguồn lũ Khô Lâu có thể bắt nguồn từ chính nơi cha Rivul tử trận; Rivul tiết lộ khi xưa họ chỉ thuê được một mạo hiểm giả vãng lai tiêu diệt Goblin chứ không thể nhờ đưa thi thể cha về.
-Cảnh kết thúc: Rivul bộc bạch mạo hiểm giả lang thang năm đó chỉ chăm chăm diệt quái chứ không bận tâm giúp đỡ dân làng việc gì khác.
+Rivul và Trưởng thôn Jiris đưa nhóm sơ tán đầu tiên về Làng Crask; Rentt giúp sửa hàng rào, bày đồ từ túi ma thuật bán rẻ. Rivul nhận ra ngọn giáo của Khô Lâu Binh là di vật của cha — cựu lính thành phố kiêm thợ săn, ba năm trước bọc hậu hy sinh trước đàn Goblin, chưa được mai táng. Rentt đoán Khô Lâu xuất phát từ nơi ông chết; mạo hiểm giả vãng lai khi ấy chỉ diệt Goblin, không giúp gì thêm.
 
 ## 302
-Rentt an ủi Rivul chớ dằn vặt về quá khứ và cả hai thống nhất lên đường tới nơi cha Rivul tử trận để điều tra ngọn nguồn lũ Khô Lâu; Rentt tặng lại ngọn giáo di vật của người cha và giảm giá bán cây cung chiến lợi phẩm cho Rivul rồi cùng cậu bàn bạc kế hoạch với Trưởng thôn Jiris.
-Sáng hôm sau, sau khi thống nhất phương án tuần tra phòng thủ làng cùng Jiris, Rentt theo chân thợ săn Rivul băng rừng và tìm thấy một cửa hang tự nhiên tối tăm từng là sào huyệt của đàn Goblin năm xưa.
-Rentt lấy đuốc ma thuật gắn Ma Tinh thắp sáng hang động, thỏa thuận việc luân phiên cầm đuốc thu hút quái vật và dặn Rivul tuyệt đối không được liều lĩnh cứu mình mà phải ưu tiên bỏ chạy nếu gặp nguy hiểm.
-Cảnh kết thúc: Rentt dẫn đầu cùng Rivul cất bước tiến sâu hơn vào bên trong hang động.
+Rentt an ủi Rivul, trả lại ngọn giáo di vật, bán rẻ cây cung chiến lợi phẩm, bàn kế với Jiris. Sáng hôm sau, thợ săn Rivul dẫn Rentt tới cửa hang tự nhiên từng là sào huyệt Goblin. Rentt thắp đuốc ma thuật gắn Ma Tinh, dặn Rivul gặp nguy phải bỏ chạy; hai người tiến vào hang.
 
 ## 303
-Tiến sâu vào hang động, Rentt dễ dàng chém đầu hai con Khô Lâu và thu hồi Ma Tinh; anh cùng Rivul suy đoán về nguyên nhân lũ Khô Lâu xuất hiện tại sào huyệt cũ của Goblin, đồng thời Rentt trầm tư về hiện tượng Tiến Hóa Bản Thể và nỗi sợ bản thân tha hóa tâm tính thành quái vật.
-Bất ngờ một quả cầu lửa Fotiá Volídas phóng tới, Rentt kịp thời truyền Ma Lực vào kiếm chém tan ma pháp rồi chạm trán một con Hạ Cấp Khô Lâu Pháp Sư cầm đũa phép đi cùng một Khô Lâu Binh làm tiên phong.
-Rentt phóng dao găm thu hút hỏa lực, uốn mình né đòn ma pháp đất đá Vráchos Volídas rồi áp sát giáng kiếm đập nát sọ con pháp sư và chém gãy cột sống con Khô Lâu Binh, sau đó nghiền sọ thu Ma Tinh cả hai con.
-Rivul thán phục pha né ma pháp liều mạng của Rentt và giãi bày về ước mơ mạo hiểm giả thuở trước nhưng nhận thấy mình không đủ can đảm để theo đuổi.
-Cảnh kết thúc: Rentt cùng Rivul tiếp tục tiến sâu hơn về phía cuối hang động, cảnh giác chuẩn bị cho những mối nguy hiểm khó lường phía trước.
+Trong hang, Rentt chém hai Khô Lâu, trầm tư về Tiến Hóa Bản Thể và nỗi sợ tha hóa thành quái vật. Một Fotiá Volídas bay tới, Rentt chém tan bằng kiếm truyền Ma Lực; gặp Hạ Cấp Khô Lâu Pháp Sư cầm đũa phép cùng một Khô Lâu Binh, né Vráchos Volídas rồi đập nát sọ pháp sư, chém gãy Khô Lâu Binh. Rivul kể ước mơ mạo hiểm giả nhưng thiếu can đảm. Hai người tiến sâu hơn.
 
 ## 304
-Rentt và Rivul tiến tới nơi sâu nhất của hang động và nhận thấy không khí nồng nặc chướng khí (lượng Ma Lực ứ đọng sinh ra quái vật); Rentt giải thích cơ chế hình thành quái vật và nhận thấy Rivul cũng sở hữu chút Ma Lực tiềm ẩn.
-Đột nhiên Ma Lực tụ lại sinh ra một con Khô Lâu Kỵ Sĩ mặc giáp, cầm kiếm và khiên; Rentt phủ đầu bất thành, nhận định đây có thể là thi thể một kẻ mạnh từng tử trận trong hang và quyết định cất giữ Thần Lực làm át chủ bài dự phòng.
-Rentt dùng mưu mẹo vận Ma Lực khoét hố bẫy dưới chân khiến Khô Lâu Kỵ Sĩ sụp chân mất đà, chớp thời cơ dùng Ma Khí Dung Hợp Thuật chém nổ nát khiên và cánh tay quái vật rồi đâm kiếm xuyên kẽ hở giáp phá nát Ma Tinh hạch tâm.
-Cảnh kết thúc: Khô Lâu Kỵ Sĩ nổ tung vỡ vụn bên trong bộ giáp, Ma Tinh văng ra vách hang và Rivul hò reo chạy tới chúc mừng chiến thắng của Rentt.
+Nơi sâu nhất hang nồng chướng khí (Ma Lực ứ đọng sinh quái vật); Rivul cũng có chút Ma Lực. Ma Lực tụ thành Khô Lâu Kỵ Sĩ mặc giáp, cầm kiếm khiên; Rentt giữ Thần Lực làm át chủ bài, khoét hố bẫy bằng Ma Lực, dùng Ma Khí Dung Hợp Thuật chém nổ khiên và tay, đâm xuyên kẽ giáp phá Ma Tinh hạch tâm. Khô Lâu Kỵ Sĩ vỡ vụn, Rivul hò reo.
 
 ## 305
-Rentt dùng Nước Thánh rảy xung quanh và tẩm vào kiếm vung trừ tà, thanh tẩy hoàn toàn lượng chướng khí tích tụ trong hang để ngăn Khô Lâu tiếp tục sinh ra, đồng thời dặn Rivul định kỳ thuê mạo hiểm giả tới rảy Nước Thánh.
-Rivul vô tình vấp phải một chiếc cốc kim loại nhỏ mờ xỉn nhô lên khỏi mặt đất; Rentt nhặt lấy và dự định mang về Maalt thẩm định xem có bán kiếm lời được không, rồi cả hai cùng nhau rời hang trở về làng.
-Sau khi hai người rời đi, hai bóng người bí ẩn xuất hiện ở nơi sâu nhất của hang: một kẻ đóng giả thương nhân lữ hành và một kẻ nghiên cứu Tiến Hóa Bản Thể nhân tạo bằng chiếc cốc; chúng tiếc nuối vì chiếc cốc bị mất nhưng quyết định rời đi và nhắm tới Welfia để tìm kiếm nguyên liệu cho nghiên cứu tiếp theo.
-Cảnh kết thúc: Hai bóng người bí ẩn biến mất không để lại dấu vết.
+Rentt rảy Nước Thánh thanh tẩy chướng khí, dặn Rivul định kỳ thuê người rảy. Rivul vấp phải chiếc cốc kim loại nhỏ mờ xỉn, Rentt mang về Maalt định thẩm định; hai người rời hang. Sau đó hai bóng người bí ẩn xuất hiện: một kẻ đóng giả thương nhân lữ hành, một kẻ nghiên cứu Tiến Hóa Bản Thể nhân tạo bằng chiếc cốc; tiếc mất cốc, chúng nhắm tới Welfia rồi biến mất.
 
 ## 306
 Tại gian phòng ngai vàng trong một lâu đài u tối, Vua Ma Cà Rồng Arc Tahadu tra hỏi và chém bay đầu Tavas vì tội tự ý xâm nhập Vương Quốc Yaaran; Yanshuf Fahalah liều mình thi triển ma pháp Khiên Chắn cản đòn hủy diệt của Arc để xin tha mạng cho Tavas. Arc tha chết và phái Tavas tới thành phố mỏ Welfia nhân dịp cuộc thi rèn để thu nạp những thợ rèn có khả năng chế tác Huyết Binh (San Arms).
