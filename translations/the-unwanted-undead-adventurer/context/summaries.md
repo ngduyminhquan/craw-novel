@@ -1095,3 +1095,10 @@ Rentt vận dụng Ma Khí Dung Hợp Thuật chém nổ tung một mảng vảy
 Chiếc rương kho báu hình bình bạch tuộc không có hải linh thảo mà chứa một miếng thẻ gỗ Nguyền Cụ giúp tăng thuộc tính cho vũ khí rơi trong mê cung; Capitan đề ra mục tiêu tiến xuống tầng giữa kích hoạt thiết bị dịch chuyển trước khi quay về.
 Cảnh kết thúc: Rentt động viên bộ ba Niedz, Lukas, Gahedd đang thở dốc kiệt sức ráng cầm cự nốt quãng đường còn lại, cả ba mệt lử nhưng đồng loạt gật đầu lia lịa.
 
+## 334
+Nhóm Rentt tới ngôi đền đá ở tầng giữa, kích hoạt thiết bị dịch chuyển dạng tinh thể tím quay về lối vào mê cung; Diego cảnh báo bộ ba Niedz giữ bí mật thông tin tầng sâu và giải thích cơ chế mê cung tự triệu hồi quái vật bảo vệ thiết bị nếu bị di dời.
+Cả nhóm bơi lên thuyền của Mazlak trở về Lucaris an toàn rồi tập hợp tại nhà Diego để tiện phối hợp và huấn luyện cho bộ ba Niedz.
+Diego tra cứu sách về hoa văn trên miếng thẻ gỗ Nguyền Cụ nhưng bất lực vì hoa văn chưa từng được ghi nhận; anh giải thích thẻ chỉ tác dụng lên vũ khí tìm thấy trong mê cung và có thể mang cả hiệu ứng nguyền rủa tiêu cực (suy giảm thể lực, Ma Lực).
+Diego nhận định muốn xuống đáy mê cung tìm vũ khí cần ít nhất ba mạo hiểm giả Kim Cấp, vượt xa năng lực hiện tại của nhóm.
+Cảnh kết thúc: Rentt tự nhủ mục đích của nhóm không cần phải xuống sâu tới đáy nên gạt chuyện đó sang một bên.
+
