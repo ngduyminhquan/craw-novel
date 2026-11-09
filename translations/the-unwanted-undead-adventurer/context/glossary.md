@@ -58,7 +58,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gie Vieros |  | Gie Vieros | kỹ năng | 2 | Ma pháp thổ tiễn cơ bản (câu chú giữ nguyên) |
 | Re-popping |  | Tái Sinh Quái | hệ thống | 2 | Hiện tượng quái vật hồi sinh định kỳ trong mê cung |
 | Acid Blitz |  | Acid Blitz | kỹ năng | 4 | Đòn phun dung dịch axit của Slime (giữ nguyên tên đòn) |
-| Magic crystal | Magic crystals; magic crystal; magic crystals; mana stone; mana stones | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |
+| Magic crystal | Magic crystals; magic crystal; magic crystals; mana stone; mana stones; magic stone; magic stones; Magic stone; Magic stones | Ma Tinh | vật phẩm | 3 | Tinh thể ma thuật rơi ra từ quái vật (魔石/魔晶石) |
 | Thousand-year Bronze-class | The Thousand-year Bronze-class | Đồng Cấp Ngàn Năm | danh hiệu | 4 | Biệt danh trêu chọc của Rentt vì kẹt ở Hạ Đồng Cấp suốt 10 năm |
 | spirit art | spirit arts; Spirit Art; Spirit Arts | Khí Thuật | kỹ năng | 2 | Kỹ thuật vận dụng Khí Lực cường hóa cơ thể và đòn đánh |
 | Priest | priests; priest | tư tế | chức nghiệp | 2 | Người phục vụ giáo hội, sử dụng Thần Lực thanh tẩy và giải trừ nguyền rủa |
@@ -561,6 +561,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Contractus de Origo |  | Contractus de Origo | kỹ năng | 337 | Câu chú cổ ngữ thiết lập khế ước thuần hóa quái vật của Ingo (giữ nguyên câu chú) |
 | contract magic | modern contract magic | ma pháp khế ước | kỹ năng | 338 | Ma pháp thiết lập sự ràng buộc bằng ma thuật (契約魔術) |
 | spirit type monster | spirit type monsters; spirit types | quái vật hệ linh thể | quái vật | 338 | Phân loại quái vật Undead không có hình thể vật chất (霊体) |
+| Griffon | griffon; griffons; Griffons | Griffon | quái vật | 339 | Quái vật thần thoại nửa đại bàng nửa sư tử |
+| Hellhound | hellhound; hellhounds; Hellhounds | Hellhound | quái vật | 339 | Quái vật dạng chó săn địa ngục hung dữ mang ma lực |
+| familiar contracting circle | familiar contracting circles; Familiar contracting circle | ma pháp trận khế ước quyến thuộc | kỹ năng | 339 | Ma pháp trận dùng trong bí thuật thuần hóa để ràng buộc quái vật thành quyến thuộc |
 
 
 

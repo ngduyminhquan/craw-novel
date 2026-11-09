@@ -1129,4 +1129,12 @@ Lorraine bắt đầu thực hành và nhanh chóng truyền được Ma Lực v
 Ingo lo lắng Lorraine sẽ làm việc quá sức nên bảo sẽ nhờ Rentt trông chừng cô, đồng thời chia sẻ về thói quen luôn giữ khoảng cách với người khác của Rentt; nghe Lorraine khẳng định Rentt chưa từng ngần ngại mở lòng với mình, Ingo nở nụ cười nhẹ nhõm gửi gắm con trai cho cô.
 Cảnh kết thúc: Lorraine suy ngẫm về lời dặn của Ingo rồi vui vẻ xác nhận bản thân cũng xem Rentt là một người bạn đồng hành tuyệt vời.
 
+## 339
+Lorraine tìm thấy một con Slime thường hoàn toàn trong suốt trong rừng và được Ingo khích lệ thực hành thuần hóa sau nhiều lần thất bại trước các cá thể dính tạp chất.
+Cô ném ống nghiệm máu, kích hoạt ma pháp trận khế ước quyến thuộc, truyền Ma Lực chiếm quyền khống chế và đọc câu chú "Contractus de Origo" thu phục thành công con Slime làm quyến thuộc đầu tiên; Ingo trầm trồ thán phục trước tốc độ tiếp thu thiên bẩm hiếm thấy của cô.
+Ingo dẫn Lorraine vượt qua nhiều tầng kết giới (do bà Gharb hỗ trợ duy trì) tới một trang trại quái vật bí mật rộng lớn giữa rừng—nơi ông nuôi dưỡng vô số quái vật hiếm và hung tợn (Lindblum, Griffon, Hellhound) để tránh gây náo loạn cho dân làng Hathara.
+Thấy con Slime hòa đồng thân thiện chạm chân làm quen với Griffon, Lorraine yên tâm gửi nó lại trang trại và quyết định đặt tên cho nó là Loren (theo lời khuyên của Ingo rằng việc đặt tên sẽ giúp thúc đẩy Tiến Hóa Bản Thể).
+Cảnh kết thúc: Ingo cười trừ hiểu ngay nguồn gốc cái tên bắt nguồn từ chính Lorraine, còn cô nàng thì ngượng ngùng nhưng nhất quyết giữ lại cái tên này.
+
+
 

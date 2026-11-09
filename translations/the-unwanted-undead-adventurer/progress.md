@@ -343,7 +343,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 336 |  | Chapter_336 - Vol 14 Chapter 4 - The Return and a New Find (3).txt | Vol 14 Chapter 4 - The Return and a New Find (3) | reviewed |  |
 | 337 |  | Chapter_337 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1) | reviewed |  |
 | 338 |  | Chapter_338 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2) | done |  |
-| 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
+| 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | done |  |
 
 ## Cần user xác nhận
 
@@ -1028,3 +1028,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#336] Thuật ngữ 'Pulling' trong raw ở chương này mang nghĩa động từ thường ('pulling Pherousa' = dắt Pherousa, 'pulling for Capitan' = ủng hộ Capitan) chứ không phải thuật ngữ game 'dụ quái': tạm dịch nghĩa thông thường theo ngữ cảnh, QA cảnh báo nhưng bỏ qua theo rules.md #98. → Chốt giữ nguyên cách dịch động từ thông thường theo ngữ cảnh ('dắt Pherousa', 'ủng hộ Capitan'), bỏ qua cảnh báo báo nhầm của QA (orchestrator)
 - [#338] Dịch 'spirit type monsters' / 'spirits' (phân loại Undead không có thực thể vật lý, raw đối lập với 'ghosts') — tạm chọn 'quái vật hệ linh thể' / 'linh thể' (phương án khác: 'quái vật hệ linh hồn' / 'oán linh') → Chốt 'quái vật hệ linh thể' / 'linh thể' (đối ứng 霊体, phân loại Undead phi vật chất, phân biệt với 'hồn ma' dân gian và 'tinh linh') (orchestrator)
 - [#338] Dịch 'partner' trong lời dặn của Ingo ("found himself a wonderful partner in Maalt") và câu đáp của Lorraine ("I consider Rentt to be a wonderful partner myself") — tạm chọn 'người bạn đồng hành' (phương án khác: 'cộng sự', 'bạn đời') → Chốt 'người bạn đồng hành' (giữ đúng sắc thái vừa là đồng đội gắn bó vừa hàm ý gắn kết lâu dài theo lời Ingo và suy nghĩ của Lorraine) (orchestrator)
+- [#339] Tên quái vật 'Hellhound' và 'Griffon': tạm giữ nguyên 'Hellhound' và 'Griffon' theo quy ước các quái vật thần thoại Tây phương trong truyện (như Lindblum, Chimera, Harpy, Kelpie, Kraken); phương án khác: dịch thành 'Chó Săn Địa Ngục' và 'Điểu Sư'. → Chốt giữ nguyên 'Hellhound' và 'Griffon' theo quy ước giữ nguyên tên chủng loài quái vật trong rules.md và glossary.md (tương tự Slime, Chimera, Harpy, Kelpie, Kraken) (orchestrator)

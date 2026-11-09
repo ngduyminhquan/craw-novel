@@ -179,6 +179,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Gahedd Odan |  | Gahedd Odan | Tên đầy đủ của Gahedd (#319, #331) | #331 |
 | Lukas Zeiyu |  | Lukas Zeiyu | Tên đầy đủ của Lukas (#319, #331) | #331 |
 | Pherousa |  | Pherousa | Cô bé ngư nhân móc túi tại Lucaris, tự xưng là 'đứa con của biển xưa' | #335 |
+| Loren |  | Loren | Slime quyến thuộc của Lorraine Vivie, được cô đặt tên | #339 |
 
 
 
@@ -1077,6 +1078,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Hoàn cảnh: Trước đây lặn biển kiếm sống; do vùng biển bị tay chân của Ma Vương Canhel phong tỏa nên bị kẹt lại trên bờ, không thể lặn hay tìm việc làm nên buộc phải đi móc túi kiếm sống qua ngày (#335).
 - Trạng thái (đến #336): Được Rentt dẫn tới sân huấn luyện gặp Capitan và Diego; được Diego nhận vào phụ việc trông coi cửa tiệm đồ nguyền (#336).
 - Xuất hiện từ: #335.
+
+### Loren
+- Thân phận: Slime, quyến thuộc đầu tiên của Lorraine Vivie (#339).
+- Đặc điểm: Thể lỏng màu lam nhạt, cơ thể trong suốt có thể nhìn xuyên qua, kích thước cỡ một chú chó vừa; tính cách thân thiện, ngoan ngoãn, thích làm quen với các quái vật khác.
+- Hoàn cảnh: Được Lorraine thuần hóa thành công trong khu rừng gần Làng Hathara dưới sự hướng dẫn của Ingo Faina, sau đó được gửi lại trang trại quái vật bí mật của Ingo (#339).
+- Xuất hiện từ: #339.
+
 
 
 

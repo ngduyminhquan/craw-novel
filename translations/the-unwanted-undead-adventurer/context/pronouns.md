@@ -136,6 +136,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Canhel Avara | Canhel Avara / Canhel / Nữ Ma Vương / cô ta | 329 | Nữ Ma Vương của vảy và bầu trời |
 | Lukas | tôi / Lukas / cậu ta / anh chàng | 331 | Người kể chuyện ngôi thứ nhất ở nửa đầu chương #331 |
 | Pherousa | Pherousa / cô bé ngư nhân / cô bé | 335 | Cô bé ngư nhân móc túi tại Lucaris |
+| Loren | Loren / con Slime | 339 | Slime quyến thuộc của Lorraine Vivie |
 
 
 
@@ -688,6 +689,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Pherousa | Diego Malga | tôi | anh | 336 | Cô bé ngư nhân nói chuyện với chủ tiệm nhận mình vào làm |
 | Capitan | Pherousa | tôi | cô bé / nhóc | 336 | Thợ săn kỳ cựu nói chuyện với cô bé ngư nhân |
 | Pherousa | Capitan | tôi | ông chú / Capitan | 336 | Cô bé ngư nhân nói chuyện với thợ săn kỳ cựu |
+| Lorraine Vivie | Loren | tôi | Loren / mày | 339 | Lorraine nói chuyện hoặc dặn dò Slime quyến thuộc |
+| Ingo Faina | Loren | ta | Loren / con Slime | 339 | Trưởng làng Ingo nhắc về Slime quyến thuộc của Lorraine |
 
 
 

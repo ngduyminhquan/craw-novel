@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T17:14:23Z",
+  "generatedAt": "2026-11-09T17:21:18Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4191,6 +4191,12 @@
           "title": "Chương 338: Tập 14 Chương 5 - Khóa Huấn Luyện Người Thuần Hóa Quái Vật Của Lorraine (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_338.md",
           "sha": "d6b8ee4d75f01d2d01b7b109d16cdb5c2493e377"
+        },
+        {
+          "number": 339,
+          "title": "Chương 339: Tập 14 Chương 5 - Khóa Huấn Luyện Người Thuần Hóa Quái Vật Của Lorraine (3)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_339.md",
+          "sha": "5979b2fe1a677bbd91b2c4ee68d4a6f1684b3311"
         }
       ]
     },
