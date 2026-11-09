@@ -2,19 +2,19 @@
 
 "Ừ, mấy vị Ma Vương đó đấy," chú ấy nói. "Nghe đâu gần đây có một vị đang khuấy đảo gây rắc rối quanh vùng này. Thế nên tộc ngư nhân mới rút hết về đáy biển. Giờ ở Lucaris hầu như chẳng còn ai trong số họ cả."
 
-Tôi ngẫm nghĩ một lát. "Nghĩa là họ đi sơ tán ạ?"
+Tôi ngẫm nghĩ một lát. "Nghĩa là họ đi sơ tán sao?"
 
 "Cũng không hẳn là như thế."
 
-"Sao lại thế ạ?"
+"Sao lại thế?"
 
 "Họ chỉ cẩn trọng thôi—chú nghĩ trên hết là họ muốn giữ an toàn cho khu định cư của mình. Cháu thấy đấy, dạo này có lũ quái vật chẳng rõ có phải tay sai của Ma Vương hay không cứ lảng vảng ở vùng biển ngoài khơi. Dù vậy, có vẻ như chúng không định tấn công thẳng vào Lucaris."
 
-"Sao chú lại nghĩ thế ạ?"
+"Sao Capitan lại nghĩ thế?"
 
 "Thực ra chiều nay chú vừa đụng độ chúng xong. Một nhóm kỵ sĩ cưỡi Kelpie đã đuổi theo chú sau khi chú ngoi lên khỏi Mê Cung Các Con Gái Của Hải Thần."
 
-Tôi chớp mắt. "Cháu ngạc nhiên là chú vẫn bình an vô sự đấy. Rõ ràng ở dưới nước thì lũ kỵ sĩ cưỡi Kelpie còn bơi nhanh hơn cả chú cơ mà."
+Tôi chớp mắt. "Cháu ngạc nhiên là Capitan vẫn bình an vô sự đấy. Rõ ràng ở dưới nước thì lũ kỵ sĩ cưỡi Kelpie còn bơi nhanh hơn cả Capitan cơ mà."
 
 "Chú xoay xở kiếm được một con thuyền tốt và một tay thủy thủ còn cừ hơn, nên cả hai mới thoát nạn an toàn. Cơ mà nếu phải giao chiến, chú nghĩ mình vẫn ứng phó được thôi. Đằng nào chú cũng mang theo kha khá trang bị dưới nước để thám hiểm mê cung mà. Chú chỉ lo chúng phá nát con thuyền—nếu thế thì chú phải mất hàng giờ đồng hồ mới bơi về được tới bờ."
 
@@ -26,39 +26,39 @@ Dĩ nhiên tôi chỉ việc bay hoặc đi bộ dọc theo đáy biển, nhưng
 
 "Đó không phải là chuyến thuyền phà cháu từng nghe nói đến đấy chứ?"
 
-"Không, chú tự thuê riêng một tay thủy thủ địa phương lành nghề để tiện bề xoay xở. Thuyền phà chẳng hề chậm chút nào, nhưng việc các mạo hiểm giả chen chúc trên đó khiến mục đích của chú có phần bất tiện. Tiện nhắc mới nhớ, chú nghe đâu thuyền phà sẽ tạm ngừng chạy một thời gian vì mọi sự xáo động liên quan đến Ma Vương."
+"Không, chú tự thuê riêng một tay thủy thủ địa phương lành nghề để tiện bề xoay xở. Thuyền phà chẳng hề chậm chút nào, nhưng trên đó đông mạo hiểm giả quá nên hơi bất tiện cho công việc của chú. Tiện nhắc mới nhớ, chú nghe đâu thuyền phà sẽ tạm ngừng chạy một thời gian vì vụ xáo động liên quan đến Ma Vương."
 
-"Thật thế cơ ạ!"
+"Thật thế cơ à!"
 
 "Ừ. Dù sao thì lũ kỵ sĩ cưỡi Kelpie đó cũng bỏ cuộc khá dễ dàng sau khi bọn chú tạo được khoảng cách đủ xa."
 
-"Nghĩa là chúng không đuổi theo chú tới tận Lucaris ạ?"
+"Nghĩa là chúng không đuổi theo Capitan tới tận Lucaris sao?"
 
 "Không... Cháu thấy quy luật ở đây rồi chứ? Cảm giác như thể chúng đã quyết định chiếm đóng một vùng biển nhất định. Cụ thể là khu vực quanh Mê Cung Các Con Gái Của Hải Thần."
 
-"Chú có nghĩ chúng có mưu tính gì ở đó không?"
+"Capitan có nghĩ chúng có mưu tính gì ở đó không?"
 
 "Ai mà biết được? Trông thì đúng là như thế, nhưng quanh vùng đó ngoài mê cung ra thì chẳng có gì khác. Chú đoán điều đó cho thấy mục tiêu của chúng nằm ở nơi ấy, cơ mà chúng ta có ngồi đoán già đoán non cả ngày cũng chẳng đi tới đâu. Quay lại ý ban đầu của chú, dường như đó là lý do tộc ngư nhân tạm thời rời khỏi Lucaris. Và vì không thể nhờ họ giúp thu thập hải linh thảo được nữa, lựa chọn duy nhất của chú là tự mình lùng sục mê cung."
 
-"Hóa ra Ma Vương đúng là rắc rối thật đấy chú nhỉ?"
+"Hóa ra Ma Vương đúng là rắc rối thật đấy nhỉ?"
 
 Capitan gật đầu tán thành nhiệt liệt. "Cháu nói đúng quá còn gì."
 
-"Tiện thể cho cháu hỏi, triển vọng tìm kiếm mấy loại thảo dược đó của chú thế nào rồi ạ? Chắc chú cũng rà soát được một phần lớn mê cung rồi nhỉ." Chú ấy từng nhắc là mình vẫn chưa tìm thấy cây nào, nhưng tôi đoán có lẽ chú ấy sắp tiếp cận được rồi.
+"Nhân tiện, triển vọng tìm kiếm thứ thảo dược đó thế nào rồi? Chắc Capitan cũng rà soát được một phần lớn mê cung rồi nhỉ." Chú ấy từng nhắc là mình vẫn chưa tìm thấy cây nào, nhưng tôi đoán có lẽ chú ấy sắp tiếp cận được rồi.
 
 Vẻ mặt Capitan chùng xuống. "Chú nghe các mạo hiểm giả địa phương bảo hải linh thảo thi thoảng xuất hiện ở các tầng trên, nhưng về cơ bản chú đã sục sạo sạch bách mà chẳng ăn thua gì. Xem chừng chú sẽ phải lặn xuống sâu hơn chút nữa. Chú không ngờ việc này lại mất nhiều thời gian đến thế, cơ mà sự đời vốn vậy—nhất là khi phải làm một mình. Dù sao thì chú cũng rảnh rỗi, vả lại chú nghĩ cất công thuê thêm người chỉ tổ tốn tiền."
 
 Mọi chuyện thực ra lại ăn khớp đến bất ngờ với hoàn cảnh hiện tại của tôi.
 
-"Ồ, vụ này có cách giải quyết đơn giản mà chú," tôi nói.
+"Ồ, vụ này có cách giải quyết đơn giản mà," tôi nói.
 
 "Hử?"
 
-"Cháu sẽ phụ chú tìm kiếm."
+"Cháu sẽ phụ Capitan tìm kiếm."
 
 "Thế à? Ừ thì, chú đoán như vậy nghĩa là cháu sẽ bắt đầu vào việc rèn luyện nhanh hơn. Thật ra chẳng có lý do gì khiến chúng ta không thể làm cả hai việc cùng lúc—đằng nào Khí Lực cũng là thứ thiên về thực hành nhiều hơn."
 
-"Thế thì quý hóa quá ạ. Về phần cháu, cháu có thể kéo thêm vài phụ tá đi cùng chúng ta."
+"Thế thì quý hóa quá. Về phần cháu, cháu có thể kéo thêm vài phụ tá đi cùng chúng ta."
 
 "Thật sao? Thế thì đỡ quá. Họ sẽ phải biết cách nhận dạng hải linh thảo, nhưng chúng ta luôn có thể huấn luyện cho họ rồi tự mình kiểm tra lại lượt cuối. Trong trường hợp này thì càng đông tay đông chân càng tốt." Capitan hơi nhíu mày. "Cơ mà mấy phụ tá cháu nói là ai thế? Chú không nghĩ mình trả được nhiều thù lao đâu, nên là..."
 
@@ -66,19 +66,19 @@ Tôi bèn kể lại toàn bộ sự tình đã xảy ra với Niedz cùng đám
 
 Sau khi tôi dứt lời, Capitan chậm rãi gật đầu. "Chú hiểu rồi. Nghe như cháu đang ôm đồm quá nhiều việc vào người đấy. Cháu có chắc là mình đủ thời gian chỉ bảo người khác trong khi bản thân cũng đang cần rèn luyện không?"
 
-"Dạ thì, cháu đâu có định để mọi chuyện thành ra thế này... Chỉ là cháu thực sự không đành lòng bỏ mặc họ đấy thôi."
+"À thì, cháu đâu có định để mọi chuyện thành ra thế này... Chỉ là cháu thực sự không đành lòng bỏ mặc họ đấy thôi."
 
 "Bởi vì cháu nhìn thấy hình bóng mình ngày trước nơi họ à?"
 
-"Vâng. Vả lại, việc đụng độ họ ắt phải là một điềm báo nào đó chứ ạ? Đúng lúc cháu đang băn khoăn liệu chú có cần thêm người giúp tìm kiếm hải linh thảo hay không, thì đùng một cái họ lại nhảy ra định cướp của cháu."
+"Phải. Vả lại, chuyện đụng độ họ ắt hẳn là một điềm báo nào đó chứ nhỉ? Đúng lúc cháu đang băn khoăn liệu Capitan có cần thêm người giúp tìm kiếm hải linh thảo hay không, thì đùng một cái họ lại nhảy ra định cướp của cháu."
 
 "Cũng có thể. Chú thì chẳng dám bảo đó là định mệnh đâu, nhưng chắc chắn là một sự trùng hợp may mắn. Được rồi. Nếu vậy thì chú sẽ giúp cháu một tay."
 
-"Giúp việc gì cơ ạ?"
+"Giúp việc gì cơ?"
 
 "Thì—Niedz, cháu nói tên cậu ta thế đúng không? Chú sẽ giúp cháu rèn giũa Niedz cùng đám bạn của cậu ta. Cháu tính dạy họ những điều cơ bản của nghề mạo hiểm giả đúng chứ?"
 
-"Vâng, đại khái là thế ạ."
+"Ừm, đại khái là thế."
 
 Tôi dự định sẽ nhồi nhét vào đầu họ mọi kiến thức cần thiết để kiếm sống bằng nghề mạo hiểm giả. Dẫu tôi đã dành nhiều năm kiếm tiền và hoàn thiện bản thân ở các tầng trên của mê cung, đó chẳng phải là phương pháp hiệu quả cho lắm nếu mục tiêu nhắm tới là lợi nhuận. Người ta có vô số cách khác để kiếm tiền mà không phải liều mạng.
 
@@ -90,15 +90,15 @@ Tuy nhiên, tôi muốn trở nên mạnh mẽ hơn, nên đó là điều tôi 
 
 Đến một lúc, tôi mới nhận ra mình và Capitan đã trò chuyện được một hồi lâu—có lẽ là bởi đã khá lâu rồi hai chú cháu mới gặp lại nhau.
 
-"Giờ cháu mới nói điều này thì hơi muộn vì đã làm mất bao nhiêu thời gian của chú, nhưng chú không định tới quầy báo cáo với tiếp tân viên sao ạ?" tôi hỏi.
+"Giờ cháu mới nói điều này thì hơi muộn vì đã làm mất bao nhiêu thời gian của Capitan, nhưng Capitan không định tới quầy báo cáo với tiếp tân viên sao?" tôi hỏi.
 
-"À. Ừ thì, Hội mở cửa suốt ngày đêm nên cũng chẳng sao, nhưng cháu nói đúng là càng muộn thì càng ít người thẩm định túc trực. Chắc chú nên giải quyết sớm cho xong. Cháu chịu khó chờ chú một lát được không? Chú quay lại ngay đây. Ồ, hay cháu cứ tự nhiên qua quán rượu làm một ly trước cũng được. Lát nữa chú có hẹn gặp tay thủy thủ mình thuê ở đó—chú sẽ giới thiệu cậu ta với cháu. Quán rượu nằm ở đằng—"
+"À. Ừ thì, Hội mở cửa suốt ngày đêm nên cũng chẳng sao, nhưng cháu nói đúng là càng muộn thì càng ít người thẩm định túc trực. Chắc chú nên giải quyết sớm cho xong. Cháu chịu khó chờ chú một lát được không? Chú quay lại ngay đây. Ồ, hay cháu cứ tự nhiên qua quán rượu làm một ly trước cũng được. Lát nữa chú có hẹn gặp tay thủy thủ mình thuê ở đó—chú sẽ giới thiệu ông ấy với cháu. Quán rượu nằm ở đằng—"
 
-"Thế thì cháu nghĩ mình cũng nên giới thiệu cả đám Niedz luôn," tôi nói, sau khi Capitan chỉ đường tới quán rượu. "Nếu chú không phiền ạ."
+"Thế thì cháu nghĩ mình cũng nên giới thiệu cả đám Niedz luôn," tôi nói, sau khi Capitan chỉ đường tới quán rượu. "Nếu Capitan không phiền."
 
 Chú ấy gật đầu. "Được chứ. Thế thì tất cả chúng ta sẽ gặp nhau ở đó. Mời luôn cả người bán đồ nguyền kia nữa nhé. Diego đúng không nhỉ? Chú nợ cậu ta một chầu rượu vì đã chăm sóc cho học trò của mình."
 
-"Cháu rõ rồi ạ. Hẹn gặp lại chú lát nữa nhé."
+"Cháu rõ rồi. Hẹn gặp lại Capitan lát nữa nhé."
 
 Tôi bước ra khỏi Hội Mạo Hiểm Giả, nhận thấy bên ngoài trời đã tối—mặt trời đã lặn hẳn từ lúc nào. Dẫu vậy, Lucaris về đêm sáng sủa hơn Maalt nhiều. Đèn đường đều đã được thắp sáng, ánh sáng hắt ra qua những ô cửa sổ, và cả thành phố dường như vẫn tràn đầy nhịp sống sôi động.
 
@@ -106,7 +106,7 @@ Dòng người qua lại cũng chẳng hề thuyên giảm, dù thành phần đ
 
 Bầu không khí đã trở nên náo nhiệt hơn đôi chút, đến mức tôi sẽ không khuyến khích một cô gái trẻ ra ngoài một mình, nhưng chuyện đó chẳng thành vấn đề với những người như Niedz và Diego. Trên thực tế, họ trông giống kiểu người đi gây sự hơn là bị người khác kiếm chuyện. Hừm... Nghĩ lại thì nói thế về Diego có phần hơi thất lễ.
 
-"Anh Diego?" tôi cất tiếng gọi khi tới trước cửa tiệm. "Niedz? Mọi người có ở đó không?"
+"Diego?" tôi cất tiếng gọi khi tới trước cửa tiệm. "Niedz? Mọi người có ở đó không?"
 
 Cánh cửa mở ra, và người đàn ông thú nhân thò đầu ra ngoài với vẻ mặt khó hiểu. "Hử? Rentt đấy à? Chẳng phải anh bảo ngày mai mới quay lại sao?"
 
@@ -138,7 +138,7 @@ Gahedd, anh chàng cao kều, gật đầu. "Nghe câu này có thể chẳng m�
 
 Không phải tôi nghi ngờ thiện chí của Gahedd. Chỉ là nhìn bề ngoài thì bộ ba này có trình độ xấp xỉ nhau, nên yêu cầu một mình cậu ta cản hai người bạn nếu họ thực sự quậy phá tưng bừng xem chừng hơi quá sức.
 
-Đầy bất ngờ, người trả lời tôi lại là Niedz. "Không biết anh thì sao, Rentt, chứ tôi với Lukas mà say là y như hai con cá nằm giãy giụa," cậu ta nói. "Bản thân Gahedd cũng chẳng ngại rượu chè gì đâu, nhưng hễ có ba đứa tụi tôi là cậu ấy luôn đủ tỉnh táo để gõ đầu hai đứa này nếu tụi tôi làm loạn quá mức."
+Bất ngờ thay, người trả lời tôi lại là Niedz. "Không biết anh thì sao, Rentt, chứ tôi với Lukas mà say là y như hai con cá mắc cạn nằm giãy đành đạch," cậu ta nói. "Bản thân Gahedd cũng chẳng ngại rượu chè gì đâu, nhưng hễ có ba đứa tụi tôi là cậu ấy luôn đủ tỉnh táo để gõ đầu hai đứa này nếu tụi tôi làm loạn quá mức."
 
 Nghe cũng có lý. Nếu bị hỏi dồn, tôi sẽ bảo mình thuộc tuýp người ngay từ đầu đã chủ động tránh để bản thân say xỉn. Tôi thích nhâm nhi một hai ly, điều đó chắc chắn rồi, nhưng tôi thích để mắt bao quát mọi sự xung quanh và giữ mình đủ tỉnh táo để dập tắt bất kỳ vụ cãi vã nào có nguy cơ bùng phát hơn. Theo nghĩa đó, tôi có thể hiểu được suy nghĩ của Gahedd.
 

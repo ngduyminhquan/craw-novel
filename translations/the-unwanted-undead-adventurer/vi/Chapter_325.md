@@ -8,7 +8,7 @@ Chúng tôi đã bàn bạc xong xuôi về chuyến thám hiểm mê cung, nên
 
 Những người không thích nhắc chuyện quá khứ như tôi và Diego thì dẫu có uống bao nhiêu rượu đi nữa cũng sẽ tránh né chủ đề ấy—trừ phi có lý do thực sự chính đáng. Còn nhóm Niedz thì đơn giản hơn nhiều. Càng say, họ sẽ càng bộc bạch nhiều điều với Capitan.
 
-Kết cục của cuộc trò chuyện đó gần như đã được định đoạt từ trước. Capitan vốn thừa kinh nghiệm đối phó với những kẻ cộc cằn, hành động trước khi kịp nghĩ, bởi lẽ ở Hathara—nơi chú ấy làm trưởng nhóm thợ săn—mọi người đều nể trọng chú nhất. Chẳng mấy chốc nhóm Niedz sẽ bị chú ấy nắm thóp trong lòng bàn tay, nên tôi đâu cần phải nán lại bên đó làm gì.
+Kết cục của cuộc trò chuyện đó gần như đã được định đoạt từ trước. Capitan vốn thừa kinh nghiệm đối phó với những kẻ cộc cằn, hành động trước khi kịp nghĩ, bởi lẽ ở Hathara—nơi chú ấy làm trưởng nhóm thợ săn—mọi người đều nể trọng chú ấy nhất. Chẳng mấy chốc nhóm Niedz sẽ nằm gọn trong lòng bàn tay chú ấy mà răm rắp nghe theo, nên tôi đâu cần phải nán lại bên đó làm gì.
 
 "Họ sẽ ổn cả thôi," tôi bảo Diego. "Thỉnh thoảng vừa uống rượu vừa tận hưởng chút yên tĩnh thế này cũng hay mà. Với lại nghe thi nhân hát rong cũng là trải nghiệm mới mẻ với tôi. Mấy quán rượu nơi tôi sống hiếm khi có ai biểu diễn thế này lắm."
 
@@ -28,9 +28,9 @@ Dù sao đi nữa, thỉnh thoảng người ta vẫn bắt gặp những thi nh
 
 Tôi lắng tai nghe kỹ ca từ trong giây lát. "Câu chuyện về một mối tình ngang trái à?"
 
-"Phải. Giữa một nàng tiên biển xinh đẹp và một chàng trai làng chài. Quanh đây có đầy những câu chuyện như thế."
+"Phải. Giữa một nàng tiên biển xinh đẹp và một chàng trai vùng cảng. Quanh đây có đầy những câu chuyện như thế."
 
-Tôi lắng nghe theo, nhận thấy lời Diego tả chẳng sai chút nào. Bản thân nữ thi nhân ấy cũng khá xinh đẹp với mái tóc vàng óng ả, chung quanh cô là đám đàn ông đông đảo đang mải miết ngắm nhìn nhan sắc của cô chẳng kém gì việc thưởng thức tiếng đàn. Tình cảnh ấy hẳn sẽ khiến một người phụ nữ bình thường phải bối rối, nếu không muốn nói là sợ hãi, nhưng với cái nghề thi nhân này thì có lẽ đó chỉ là chuyện cơm bữa thường ngày. Giọng hát của cô vẫn điềm tĩnh và trong trẻo, không chút dao động.
+Tôi lắng nghe theo, nhận thấy lời Diego tả chẳng sai chút nào. Bản thân nữ thi nhân ấy cũng khá xinh đẹp với mái tóc vàng dài óng ả, vây quanh cô ấy là đám đàn ông đông đảo đang mải miết ngắm nhìn nhan sắc người hát chẳng kém gì thưởng thức tiếng đàn. Tình cảnh ấy hẳn sẽ khiến một người phụ nữ bình thường phải bối rối, nếu không muốn nói là sợ hãi, nhưng với cái nghề thi nhân này thì có lẽ đó chỉ là chuyện cơm bữa thường ngày. Giọng hát của cô ấy vẫn điềm tĩnh và trong trẻo, không chút dao động.
 
 Tôi tựa lưng thư thả lắng nghe khúc hát cho tới khi dứt bài, và trước khi bài tiếp theo vang lên, tôi quay sang Diego. "Nói mới nhớ," tôi mở lời.
 
@@ -84,7 +84,7 @@ Cách tối ưu nhất là tự sắm lấy một chiếc túi ma thuật của 
 
 Xét theo khía cạnh đó, người ta có thể bảo tôi may mắn đến lạ kỳ, nhưng tôi lại nghĩ chuyện ấy đã được bù trừ sòng phẳng bằng việc tôi bị Rồng nuốt chửng và bị một Thợ Săn Ma Cà Rồng bám đuôi ráo riết.
 
-Tôi nhún vai. "Cũng chẳng trách họ được," tôi nói. "Tôi tin họ từng xuống thám hiểm mê cung rồi, nhưng Mê Cung Các Con Gái Của Hải Thần lại là một câu chuyện hoàn toàn khác. Bản thân tôi có thể chứng thực việc bước chân vào một mê cung xa lạ căng thẳng đến nhường nào."
+Tôi nhún vai. "Cũng chẳng trách họ được," tôi nói. "Tôi tin họ từng xuống thám hiểm mê cung rồi, nhưng Mê Cung Các Con Gái Của Hải Thần lại là một câu chuyện hoàn toàn khác. Bản thân tôi có thể chứng thực việc bước chân vào một mê cung xa lạ căng thẳng đến mức nào."
 
 Diego gật đầu. "Tôi đoán danh tiếng của mê cung đó cũng chẳng giúp họ đỡ run hơn," anh ấy nói. "Quanh Lucaris có vài mê cung khác, nhưng tương truyền mê cung này chính là lý do thành phố được dựng nên tại chốn này ngay từ thuở đầu."
 
@@ -94,11 +94,11 @@ Diego gật đầu. "Tôi đoán danh tiếng của mê cung đó cũng chẳng 
 
 "Tôi thấy mình từng nghe khá nhiều truyền thuyết na ná như thế rồi thì phải..."
 
-"Chuyện đó thì không cãi được," Diego thừa nhận. "Nhưng thực tế là thành phố này đang sừng sững ở đây, và Mê Cung Các Con Gái Của Hải Thần đang hiện hữu ngoài kia. Còn về nguồn gốc cái tên, tất cả là nhờ những giọng nói ấy nghe êm ái vô cùng. Những người khai hoang nghe thấy giọng nói đinh ninh rằng đó chính là những người con gái của hải thần đã chọn mê cung làm chốn cư ngụ."
+"Chuyện đó thì không cãi được," Diego thừa nhận. "Nhưng thực tế là thành phố này đang sừng sững ở đây, và Mê Cung Các Con Gái Của Hải Thần đang hiện hữu ngoài kia. Còn về nguồn gốc cái tên, tất cả là nhờ những giọng nói ấy nghe êm ái vô cùng. Những người khai hoang nghe thấy giọng nói đinh ninh rằng đó chính là những người con gái của Hải Thần đã chọn mê cung làm chốn cư ngụ."
 
 "Nghe cũng có lý đấy," tôi nói. "Thảo nào lại là số nhiều."
 
-"Đấy, truyền thuyết về sự hình thành của Lucaris là thế đấy. Nhờ vậy mà phần lớn người dân đều coi mê cung ấy gần như một chốn thiêng liêng—đến mức chúng tôi có hẳn một lễ hội thường niên dâng lên hải thần, nơi mọi người cầu nguyện hướng về mê cung. Có điều phải nửa năm nữa mới tới kỳ lễ hội tiếp theo. Dù sao thì ý tôi là người dân nơi đây tin rằng sự phồn vinh của thành phố bắt nguồn từ Mê Cung Các Con Gái Của Hải Thần, thế nên nó luôn chiếm một vị trí đặc biệt trong tâm khảm họ."
+"Đấy, truyền thuyết về sự hình thành của Lucaris là thế đấy. Nhờ vậy mà phần lớn người dân đều coi mê cung ấy gần như một chốn thiêng liêng—đến mức chúng tôi có hẳn một lễ hội thường niên dâng lên Hải Thần, nơi mọi người cầu nguyện hướng về mê cung. Có điều phải nửa năm nữa mới tới kỳ lễ hội tiếp theo. Dù sao thì ý tôi là người dân nơi đây tin rằng sự phồn vinh của thành phố bắt nguồn từ Mê Cung Các Con Gái Của Hải Thần, thế nên nó luôn chiếm một vị trí đặc biệt trong tâm khảm họ."
 
 "Có điều tôi không nghĩ nhóm Niedz lại sùng đạo đến thế," tôi nhận xét.
 
@@ -132,7 +132,7 @@ Cậu ta giật thót mình rồi quay lại. "Ồ," cậu ta nói. "Hóa ra là
 
 Bộ ba vội vàng kiểm tra lại áo giáp của mình. Họ mua số trang bị này bằng tiền tôi đưa, và tuy toàn là đồ cũ, nhưng chất lượng vẫn khá tươm tất trong giới hạn ngân sách của tôi. Chắc chắn đây là một sự nâng cấp rõ rệt so với mớ đồ họ mặc trước đây.
 
-Công bằng mà nói thì cái chuẩn ấy vốn dĩ quá thấp. Mấy bộ giáp cũ của họ tồi tàn đến mức tôi phải tự hỏi làm sao họ vẫn còn sống sót được tới giờ, và khi tôi hỏi thì họ bảo lần gần nhất đem giáp đi bảo dưỡng đã là hơn một năm trước. Chuyện đó cũng chẳng đến nỗi tệ nếu họ tự bảo dưỡng lấy, nhưng tôi rất ngờ rằng không phải vậy. Chí ít thì điều đó dường như không hẳn do lười biếng, mà phần nhiều là vì họ căn bản không biết cách bảo dưỡng đúng bài. Biết cách chăm chút cho áo giáp của mình là điều cơ bản nhất trong những điều cơ bản, ấy thế mà số lượng mạo hiểm giả không làm nổi việc này lại đông đến bất ngờ.
+Công bằng mà nói thì cái chuẩn ấy vốn dĩ quá thấp. Mấy bộ giáp cũ của họ tồi tàn đến mức tôi phải tự hỏi làm sao họ vẫn còn sống sót được tới giờ, và khi tôi hỏi thì họ bảo lần gần nhất đem giáp đi bảo dưỡng đã là hơn một năm trước. Chuyện đó cũng chẳng đến nỗi tệ nếu họ tự bảo dưỡng lấy, nhưng tôi chẳng nghĩ họ làm được vậy đâu. Chí ít thì điều đó dường như không hẳn do lười biếng, mà phần nhiều là vì họ căn bản không biết cách bảo dưỡng đúng bài. Biết cách chăm chút cho áo giáp của mình là điều cơ bản nhất trong những điều cơ bản, ấy thế mà số lượng mạo hiểm giả không làm nổi việc này lại đông đến bất ngờ.
 
 ◆◇◆◇◆
 
@@ -166,7 +166,7 @@ Tôi gật đầu. "Đúng vậy."
 
 "R-Rốt cuộc bọn tôi vẫn phải đánh nhau sao..."
 
-À. Hóa ra họ cứ đinh ninh trong mơ hồ rằng mình sẽ không phải động tay động chân đánh đấm gì sao? Chuyện này chắc cũng có một phần lỗi của tôi. Tôi đã bảo sẽ huấn luyện họ, nhưng thường thì người ta đâu nghĩ việc huấn luyện lại là ném họ thẳng vào thực chiến. Đó chính là ý tôi khi bảo sẽ rèn luyện thể lực và giúp họ tích lũy thêm chút kinh nghiệm, nhưng xem chừng họ chẳng hiểu ra ý tứ đó.
+À. Hóa ra họ cứ mơ hồ tưởng rằng mình sẽ không phải động tay động chân đánh đấm gì sao? Chuyện này chắc cũng có một phần lỗi của tôi. Tôi đã bảo sẽ huấn luyện họ, nhưng thường thì người ta đâu nghĩ việc huấn luyện lại là ném họ thẳng vào thực chiến. Đó chính là ý tôi khi bảo sẽ rèn luyện thể lực và giúp họ tích lũy thêm chút kinh nghiệm, nhưng xem chừng họ chẳng hiểu ra ý tứ đó.
 
 "Đương nhiên là phải đánh rồi," tôi nói. "Tôi đã hứa sẽ huấn luyện các cậu mà. Các cậu nghĩ tôi định huấn luyện ở đâu chứ?"
 

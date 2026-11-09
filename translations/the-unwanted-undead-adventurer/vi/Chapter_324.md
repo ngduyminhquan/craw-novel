@@ -4,7 +4,7 @@ Chúng tôi tới quán rượu mà Capitan đã hẹn, thấy nơi này đông 
 
 "Này, Rentt!" một giọng nói quen thuộc cất lên giữa tiếng ồn ào náo nhiệt. "Bên này!"
 
-Tôi quay sang Diego, Niedz cùng hai người bạn của cậu ta. "Có vẻ là gọi bọn mình đấy," tôi bảo. "Đi thôi."
+Tôi quay sang Diego, Niedz cùng hai người bạn của cậu ta. "Có vẻ là gọi chúng ta đấy," tôi bảo. "Đi thôi."
 
 Tôi dẫn cả nhóm len qua đám đông, thấy một gương mặt quen thuộc cùng một người lạ mặt đang ngồi tại một bàn. Người quen dĩ nhiên là Capitan, người thầy của tôi và cũng là một thợ săn của Làng Hathara.
 
@@ -18,7 +18,7 @@ Xem chừng Capitan đã giải thích trước kế hoạch cho ông ấy rồi
 
 Tôi đã dặn dò kỹ là không được thất lễ rồi cơ mà. Trước khi cậu ta kịp thốt thêm câu nào, tôi đã giơ tay định đét cho một phát vào sau gáy.
 
-Nhận thấy cử chỉ của tôi, Mazlak xua xua tay. "Không sao đâu," ông lão nói, vẻ mặt chẳng hề phật ý. "Cậu ta nói về tuổi tác của tôi đâu có sai, gặp lần đầu thì chính tôi cũng chẳng tin nổi mình. Cơ mà nể mặt tôi chút, cứ đợi đến khi bước lên thuyền của tôi và tận mắt thấy tay nghề của tôi rồi hẵng phán xét. Đã là mạo hiểm giả, chắc các cậu cũng hiểu tuổi tác đâu phải là tất cả chứ hả?"
+Nhận thấy cử chỉ của tôi, Mazlak xua xua tay. "Không sao đâu," ông lão nói, vẻ mặt chẳng hề phật ý. "Cậu ta nói đâu có sai về tuổi tác của tôi, gặp lần đầu thì chính tôi cũng chẳng tin nổi mình. Cơ mà nể mặt tôi chút, cứ đợi đến khi bước lên thuyền và tận mắt thấy tay nghề của tôi rồi hẵng phán xét. Đã là mạo hiểm giả, chắc các cậu cũng hiểu tuổi tác đâu phải là tất cả chứ hả?"
 
 Ông ấy nói chẳng sai. Không riêng gì Ngân Cấp, mà ngay cả ở Kim Cấp và Bạch Kim Cấp cũng có không ít mạo hiểm giả lớn tuổi. Đúng là một số người chỉ đơn thuần ngồi mát ăn bát vàng nhờ danh tiếng thăng hạng thời trẻ, nhưng rất nhiều người trong số họ vẫn sở hữu thực lực vững vàng xứng tầm.
 
@@ -30,7 +30,7 @@ Niedz hẳn cũng tự rút ra kết luận tương tự, bởi vẻ mặt cậu
 
 Cậu ta vừa nói mấy lời cuối vừa nhìn về phía tôi, điều đó cũng hợp lẽ thôi. Sau hoàn cảnh tự chuốc vào thân vừa rồi, có lẽ cậu ta chẳng cần ai phải dạy lại bài học nhớ đời ấy nữa.
 
-Mazlak tỏ ra ngạc nhiên trước lời xin lỗi chân thành ấy. "Hừm. Cậu nhóc thành thật đấy chứ hả? Cứ ngỡ cậu thuộc tuýp người hay cãi cùn cơ đấy. Nhưng thế là tốt. Thỉnh thoảng đám thủy thủ chúng tôi cũng có những kẻ như cậu, và họ luôn tiến rất xa. Phần lớn những kẻ khác rốt cuộc đều nhụt chí; họ buông xuôi rồi làm việc cho qua chuyện. Người ta lúc nào cũng thấy rõ sự cay cú bất cần trong mắt họ."
+Mazlak tỏ ra ngạc nhiên trước lời xin lỗi chân thành ấy. "Hừm. Cậu nhóc thành thật đấy chứ hả? Cứ ngỡ cậu thuộc tuýp người hay cãi cùn cơ đấy. Nhưng thế là tốt. Thỉnh thoảng đám thủy thủ chúng tôi cũng có những kẻ như cậu, và họ luôn tiến rất xa. Phần lớn những kẻ khác rốt cuộc đều nhụt chí, chỉ biết buông xuôi rồi làm việc cho qua chuyện. Người ta lúc nào cũng thấy rõ vẻ chán chường bất cần trong mắt họ."
 
 Vẻ mặt của Niedz cho thấy đây là những lời cuối cùng mà cậu ta ngờ tới—có lẽ vì trước giờ cậu ta chưa từng được nghe điều gì tương tự. Xét cho cùng, từ trước đến nay cậu ta chính là kiểu người bất cần đời y như lời Mazlak vừa nói.
 
@@ -70,13 +70,13 @@ Mazlak nhún vai. "Với đủ thứ chuyện đang diễn ra lúc này, ngoài 
 
 Bất chợt một thắc mắc thoáng qua trong đầu tôi. "Diego từng nhắc cha anh ấy là mạo hiểm giả," tôi nói. "Vậy có nghĩa là ông ấy từng thám hiểm Mê Cung Các Con Gái Của Hải Thần sao?" Quanh vùng Lucaris cũng có những mê cung khác đòi hỏi phải thuê thuyền ra biển, nhưng đó là nơi nổi tiếng nhất.
 
-Mazlak gật đầu. "Đúng thế đấy. Có dạo ngày nào ông ấy cũng đi, dù đó là chuyện trước khi Diego ra đời. Cậu đủ hiểu rồi đấy, có con mọn vào là bận bịu túi bụi ngay. Cơ mà cha cậu ta là người có đầu óc tính toán lắm, thậm chí còn giúp ông ấy đạt được mục tiêu tích cóp đủ tiền từ việc làm mạo hiểm giả để tự mở tiệm riêng. Tôi từng dám cược bất cứ thứ gì rằng mình sẽ xuống lỗ trước ông ấy, nhưng đời mà, chuyện thế sự lúc nào cũng làm người ta bất ngờ."
+Mazlak gật đầu. "Đúng thế đấy. Có dạo ngày nào ông ấy cũng đi, dù đó là chuyện trước khi Diego ra đời. Cậu đủ hiểu rồi đấy, có con mọn vào là bận bịu túi bụi ngay. Cơ mà cha cậu ta là người có đầu óc tính toán lắm, cũng nhờ vậy mà ông ấy mới đạt được mục tiêu tích cóp đủ tiền từ nghề mạo hiểm giả để tự mở tiệm riêng. Tôi từng dám cược bất cứ thứ gì rằng mình sẽ xuống lỗ trước ông ấy, nhưng đời mà, chuyện thế sự lúc nào cũng làm người ta bất ngờ."
 
 ◆◇◆◇◆
 
 Những lời của Mazlak đã giải đáp một thắc mắc cứ lấn cấn trong lòng tôi suốt từ nãy đến giờ. Mỗi khi Diego nhắc về cha mình, anh ấy toàn dùng thì quá khứ. Điều đó có thể chỉ đơn giản là ông ấy đi vắng khỏi thành phố một thời gian, nhưng nếu ông ấy đã dành phần lớn đời mình để gầy dựng cái tiệm bán đồ nguyền—à nhầm, tiệm tạp hóa—này, thì việc bỏ mặc tiệm mà rong ruổi nay đây mai đó nghe chẳng có lý chút nào.
 
-Dù sao thì nếu rơi vào trường hợp đó, Diego chắc hẳn cũng đã đề cập tới rồi. Vì anh ấy không hề nhắc, nên tôi đoán nhiều khả năng cha anh ấy đã qua đời và vĩnh viễn chẳng thể trở về. Dĩ nhiên chẳng có lý do gì mà lại đi xoi mói chuyện đó thì thật thất lễ, nên tôi mới gác lại cho đến khi Mazlak gần như đã ngầm xác nhận giúp tôi. Có điều lúc này, tôi lại thấy tò mò về mẹ của Diego...
+Dù sao thì nếu rơi vào trường hợp đó, Diego chắc hẳn cũng đã đề cập tới rồi. Vì anh ấy không hề nhắc, nên tôi đoán nhiều khả năng cha anh ấy đã qua đời và vĩnh viễn chẳng thể trở về. Dĩ nhiên không dưng lại đi xoi mói chuyện đó thì thật thất lễ, nên tôi mới gác lại cho đến khi Mazlak gần như đã ngầm xác nhận giúp tôi. Có điều lúc này, tôi lại thấy tò mò về mẹ của Diego...
 
 "Cha tôi đã sống rất hạnh phúc," Diego nói. "Ông ấy đã sống một cuộc đời trọn vẹn với những gì mình yêu thích."
 
@@ -108,7 +108,7 @@ Mazlak gật đầu. "Ừm. Để xem nào: anh, Rentt, Niedz, Gahedd và Lukas?
 
 "Gì thế?"
 
-"Còn Diego thì sao ạ?"
+"Còn Diego thì sao?"
 
 Mazlak nghiêng đầu. "Sao, cậu ta định đi thám hiểm cùng các cậu à?" ông lão hỏi với vẻ có phần bán tín bán nghi. "Vào Mê Cung Các Con Gái Của Hải Thần ấy hả? Cậu chắc chứ?"
 
@@ -118,7 +118,7 @@ Những chiếc ống thở mà mấy người kia sắp dùng là một ví d�
 
 Không giống như những ma cụ thông thường, Nguyền Cụ tìm thấy trong mê cung thường có mối liên hệ mật thiết với nơi chúng xuất hiện, đồng nghĩa với việc nắm bắt được thông tin đó đóng vai trò hết sức then chốt. Vậy nên tuy tôi có thể mang về cho Diego mọi món Nguyền Cụ mình bắt gặp, nhưng rất có thể anh ấy sẽ muốn quan sát kỹ hơn vị trí nơi tôi tìm thấy một vài món trong số đó, và con thuyền của Mazlak sẽ là cách duy nhất để anh ấy tới được nơi ấy.
 
-Mazlak gật đầu; xem chừng ông ấy đã bắt kịp mạch suy nghĩ của tôi. "Ra là Diego đang thu thập Nguyền Cụ từ Mê Cung Các Con Gái Của Hải Thần sao, hừm?" ông lão trầm ngâm. "Thế thì thi thoảng cậu ta muốn tự mình đi thám hiểm cũng là điều dễ hiểu. Tôi nghĩ lúc này tốt nhất là cứ để cậu ta yên, lát nữa chúng ta có thể hỏi sau. Cơ mà nếu cậu ta muốn đi cùng thì tôi chẳng phản đối gì đâu. Tôi thấy chuyện đó tùy các cậu quyết định, vì các cậu mới là người thám hiểm cùng cậu ta."
+Mazlak gật đầu, xem chừng ông ấy đã bắt kịp mạch suy nghĩ của tôi. "Ra là Diego đang thu thập Nguyền Cụ từ Mê Cung Các Con Gái Của Hải Thần hử?" ông lão trầm ngâm. "Thế thì thi thoảng cậu ta muốn tự mình đi thám hiểm cũng là điều dễ hiểu. Tôi nghĩ lúc này tốt nhất là cứ để cậu ta yên, lát nữa chúng ta có thể hỏi sau. Cơ mà nếu cậu ta muốn đi cùng thì tôi chẳng phản đối gì đâu. Tôi thấy chuyện đó tùy các cậu quyết định, vì các cậu mới là người thám hiểm cùng cậu ta."
 
 "Tôi chẳng nề hà gì," Capitan nói. "Mục tiêu duy nhất của tôi là hải linh thảo. Nếu Diego cần Nguyền Cụ, tôi sẵn lòng nhường lại bất cứ món nào mình tìm được. Đằng nào thì phần lớn chúng cũng chỉ là mấy món đồ lặt vặt vô dụng. Họa chăng tôi chỉ giữ lại vài món làm quà kỷ niệm cho Gharb mà thôi. Nhìn phong thái đi đứng của Diego, tôi không nghĩ cậu ta sẽ làm vướng chân cả nhóm, vả lại thêm một người cùng tìm thảo dược thì càng đáng mừng chứ sao." Chú ấy liếc ánh mắt sắc bén sang phía Niedz cùng hai người bạn.
 
