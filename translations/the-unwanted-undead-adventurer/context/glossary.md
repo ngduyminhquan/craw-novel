@@ -521,6 +521,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Chimera | chimeras | Chimera | quái vật | 301 | Quái vật thần thoại dạng hỗn hợp nhiều loài thú |
 | Demihuman | demihuman; Demihumans; demihumans | Á Nhân | chủng tộc | 8 | Các chủng tộc nửa người / giống người |
 | enchanted torch | magic torch; magical torch | đuốc ma thuật | vật phẩm | 302 | Cây đuốc ma cụ hoạt động bằng năng lượng từ Ma Tinh |
+| Lesser Skeleton Mage | lesser skeleton mage; lesser skeleton mages; Lesser Skeleton Mages; skeleton mage; Skeleton Mage | Hạ Cấp Khô Lâu Pháp Sư | quái vật | 303 | Phân loài Khô Lâu yếu nhất có khả năng thi triển ma thuật (下級スケルトンメイジ) |
 
 
 

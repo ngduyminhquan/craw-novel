@@ -1080,6 +1080,14 @@ Sáng hôm sau, sau khi thống nhất phương án tuần tra phòng thủ làn
 Rentt lấy đuốc ma thuật gắn Ma Tinh thắp sáng hang động, thỏa thuận việc luân phiên cầm đuốc thu hút quái vật và dặn Rivul tuyệt đối không được liều lĩnh cứu mình mà phải ưu tiên bỏ chạy nếu gặp nguy hiểm.
 Cảnh kết thúc: Rentt dẫn đầu cùng Rivul cất bước tiến sâu hơn vào bên trong hang động.
 
+## 303
+Tiến sâu vào hang động, Rentt dễ dàng chém đầu hai con Khô Lâu và thu hồi Ma Tinh; anh cùng Rivul suy đoán về nguyên nhân lũ Khô Lâu xuất hiện tại sào huyệt cũ của Goblin, đồng thời Rentt trầm tư về hiện tượng Tiến Hóa Bản Thể và nỗi sợ bản thân tha hóa tâm tính thành quái vật.
+Bất ngờ một quả cầu lửa Fotiá Volídas phóng tới, Rentt kịp thời truyền Ma Lực vào kiếm chém tan ma pháp rồi chạm trán một con Hạ Cấp Khô Lâu Pháp Sư cầm đũa phép đi cùng một Khô Lâu Binh làm tiên phong.
+Rentt phóng dao găm thu hút hỏa lực, uốn mình né đòn ma pháp đất đá Vráchos Volídas rồi áp sát giáng kiếm đập nát sọ con pháp sư và chém gãy cột sống con Khô Lâu Binh, sau đó nghiền sọ thu Ma Tinh cả hai con.
+Rivul thán phục pha né ma pháp liều mạng của Rentt và giãi bày về ước mơ mạo hiểm giả thuở trước nhưng nhận thấy mình không đủ can đảm để theo đuổi.
+Cảnh kết thúc: Rentt cùng Rivul tiếp tục tiến sâu hơn về phía cuối hang động, cảnh giác chuẩn bị cho những mối nguy hiểm khó lường phía trước.
+
+
 
 
 
