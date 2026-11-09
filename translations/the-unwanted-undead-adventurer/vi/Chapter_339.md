@@ -104,7 +104,7 @@ Hiếm khi thấy ông ấy mang giọng điệu khoe khoang như vậy, nhưng 
 
 "Đúng vậy thật bác," tôi đồng tình. "Cháu vẫn còn hơi choáng ngợp đây. Cháu đoán đây là một kiểu... trang trại quái vật sao bác?"
 
-"Đại khái là vậy," Ingo nói. "Dù thực ra cũng có vài con ta nuôi thả ngoài rừng, để chúng sống hoang dã hết mức có thể. Nhưng chỉ những con mà người ta có bắt gặp cũng chẳng lấy làm lạ thôi, vì dân làng cũng hay đi lại trong rừng mà. Rất khó có khả năng họ đụng độ quyến thuộc của ta, nhưng thử tưởng tượng xem nếu họ chạm trán, mà con đó lại là Hellhound hay Griffon... Hẳn sẽ làm náo loạn cả lên mất."
+"Đại khái là vậy," Ingo nói. "Dù thực ra cũng có vài con ta nuôi thả ngoài rừng, để chúng sống hoang dã hết mức có thể. Nhưng chỉ là những con mà dân làng lỡ bắt gặp cũng chẳng thấy lạ thôi, vì dân làng cũng hay đi lại trong rừng mà. Rất khó có khả năng họ đụng độ quyến thuộc của ta, nhưng thử tưởng tượng xem nếu họ chạm trán, mà con đó lại là Hellhound hay Griffon... Hẳn sẽ làm náo loạn cả lên mất."
 
 "Bác nói phải. Bị một phen hú vía xem chừng vẫn còn là nhẹ."
 

@@ -4,7 +4,7 @@ Tôi dồn dập hỏi một tràng. "Con Slime đó biết nghe lời tới m�
 
 Tôi khó lòng kìm nén được trí tò mò của mình. Dù sao thì đâu phải ngày nào người ta cũng có cơ hội tận mắt chứng kiến khoảnh khắc một người thuần hóa quái vật thu phục được quyến thuộc. Huống hồ, phương pháp của Ingo lại khác biệt về bản chất so với những cách thức tôi từng biết. Được trực tiếp đặt câu hỏi cho ông ấy là điều vượt ngoài mong đợi, và với tư cách một học giả, tôi thấy phấn khích khôn tả.
 
-Khi tiến hành nghiên cứu đòi hỏi phải phỏng vấn người dân tại chỗ, trước tiên ta phải tạo dựng được mối quan hệ gần gũi. Bằng không, có khi họ sẽ chẳng chịu mở lời với mình. Từng có thời tôi không thực sự hiểu điều đó, chỉ biết dựa vào câu chữ trong sách vở và các bản báo cáo để đưa ra mọi phán đoán, nhưng hóa ra cách ấy lại rất dễ khiến người ta nhìn lệch thực tế. Đó là bài học tôi học được từ Rentt.
+Khi tiến hành nghiên cứu đòi hỏi phải phỏng vấn người dân tại chỗ, trước tiên người ta phải tạo dựng được mối quan hệ gần gũi. Bằng không, có khi họ sẽ chẳng chịu mở lời với mình. Từng có thời tôi không thực sự hiểu điều đó, chỉ biết dựa vào câu chữ trong sách vở và các bản báo cáo để đưa ra mọi phán đoán, nhưng hóa ra cách ấy lại rất dễ khiến người ta nhìn lệch thực tế. Đó là bài học tôi học được từ Rentt.
 
 Dù sao đi nữa, điều tôi muốn nói là tôi vô cùng biết ơn khi Ingo đã kiên nhẫn và tận tình chỉ dạy cho mình đến vậy.
 
@@ -32,7 +32,7 @@ Sau khi lắng nghe những khúc mắc tôi nêu ra, Ingo gật đầu. "Chuy�
 
 Thi triển thứ ma thuật mình không hiểu rõ quả thực là một viễn cảnh khá căng thẳng. Xét cho cùng, nếu không biết cơ chế vận hành của nó, người ta sẽ chẳng thể biết nó có khả năng gây ra chuyện gì. Nhưng điều đó có khiến một mạo hiểm giả như tôi chùn bước không? Không hề. Nghĩ vậy thật nực cười.
 
-Mạo hiểm giả vốn thường xuyên sử dụng những công cụ mà họ không hiểu tường tận. Các ma cụ thu thập được từ mê cung thường ít khi được hiểu thấu đáo, những món được phân tích cặn kẽ chỉ là ngoại lệ hiếm hoi. Dẫu vậy, người ta vẫn cứ đem ra dùng. Nếu một món đồ giúp ta đạt được mục đích mong muốn, thì việc không hiểu nó vận hành thế nào để làm được điều đó có quan trọng gì đâu?
+Mạo hiểm giả vốn thường xuyên sử dụng những công cụ mà họ không hiểu tường tận. Các ma cụ thu thập được từ mê cung thường ít khi được hiểu thấu đáo, những món được phân tích cặn kẽ chỉ là ngoại lệ hiếm hoi. Dẫu vậy, người ta vẫn cứ đem ra dùng. Nếu một món đồ giúp người ta đạt được mục đích mong muốn, thì việc không hiểu nó vận hành thế nào để làm được điều đó có quan trọng gì đâu?
 
 Tuy nhiên trên thực tế, mỗi lần dùng những món đồ như vậy đều đi kèm nguy cơ thảm họa. Từng có những câu chuyện dân gian lẫn những ví dụ lịch sử có thật về việc các ma cụ mê cung hủy diệt cả thành phố chỉ vì sự bất cẩn của người sử dụng. Việc chúng vẫn tiếp tục được trọng dụng chỉ càng chứng minh chúng thiết yếu đến nhường nào. Suy cho cùng, con người rất yếu đuối. Trước mối đe dọa từ quái vật, chúng ta buộc phải tận dụng bất cứ thứ gì vớ được trong tay.
 
