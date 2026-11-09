@@ -20,9 +20,9 @@ Nghe vậy tôi cũng thấy vui vui—dù tất nhiên là chẳng đời nào 
 
 Những mạo hiểm giả quên đi xuất phát điểm thấp kém của mình rồi đâm ra kiêu ngạo hoặc lơ là cảnh giác rốt cuộc sẽ đánh mất tất cả chỉ trong chớp mắt. Họ sẽ chỉ nhận ra sai lầm khi mọi chuyện đã quá muộn, lúc bản thân đã ngồi trên con thuyền xuôi dòng sang cõi chết.
 
-Cất Ma Tinh vào túi, tôi nhận lại cây đuốc từ tay Rivul.
+Tôi cất Ma Tinh vào túi rồi nhận lại cây đuốc từ tay Rivul.
 
-"Chẳng có gì to tát đâu," tôi nói. "Ta đi tiếp thôi."
+"Chẳng có gì to tát đâu," tôi nói. "Chúng ta đi tiếp thôi."
 
 "A, vâng!"
 
@@ -58,7 +58,7 @@ Dù vậy, những sự tồn tại như Isaac và Laura là minh chứng cho th
 
 Đột nhiên, có thứ gì đó bay thẳng về phía chúng tôi. Đó không phải mũi tên hay hòn đá—từ sự hiện diện của Ma Lực, tôi có thể cảm nhận được đó là một loại ma pháp nào đó.
 
-Truyền Ma Lực vào thanh kiếm, tôi chém rụng vật thể bay ngay trước khi nó kịp lao tới chỗ chúng tôi, dập tắt nó hoàn toàn. Vì ma pháp sau khi thi triển sẽ tạo ra tác động lên thế giới thực, người ta có thể dùng đòn tấn công vật lý để tiếp xúc với chúng. Tuy nhiên, do sự tồn tại của ma pháp được duy trì bằng Ma Lực, việc chỉ chém hay đập đơn thuần sẽ chẳng thể làm tiêu tán nguồn Ma Lực đó.
+Tôi truyền Ma Lực vào thanh kiếm, chém rụng đòn ma pháp đang bay tới ngay trước khi nó kịp chạm đến chỗ chúng tôi, dập tắt nó hoàn toàn. Vì ma pháp sau khi thi triển sẽ tạo ra tác động lên thế giới thực, người ta có thể dùng đòn tấn công vật lý để tiếp xúc với chúng. Tuy nhiên, do sự tồn tại của ma pháp được duy trì bằng Ma Lực, việc chỉ chém hay đập đơn thuần sẽ chẳng thể làm tiêu tán nguồn Ma Lực đó.
 
 Đó là lý do vì sao nếu muốn dùng vũ lực dập tắt ma pháp của đối phương sau khi đã được thi triển, người ta cần phải đón đỡ nó bằng một món vũ khí cũng đang được truyền Ma Lực.
 
@@ -98,7 +98,7 @@ Tôi thủ kiếm sẵn sàng khi đối mặt với con Hạ Cấp Khô Lâu Ph
 
 Tôi sẽ phải vượt qua con Khô Lâu Binh để tiếp cận con pháp sư, nhưng trong lúc đó tôi không thể để nó thi triển ma pháp nhắm vào Rivul được. Tôi phải thu hút sự chú ý của nó trước khi chuyện đó xảy ra.
 
-Rút một con dao găm từ túi ma thuật ra, tôi phóng thẳng về phía con pháp sư. Nhờ sức mạnh của quái vật cộng thêm việc gia cường thể chất bằng Khí Lực, con dao xé gió lao đi vun vút, phát ra tiếng rít rõ mồn một trong không khí.
+Tôi rút một con dao găm từ túi ma thuật ra rồi phóng thẳng về phía con pháp sư. Nhờ sức mạnh quái vật của tôi cộng thêm việc gia cường thể chất bằng Khí Lực, con dao xé gió lao đi vun vút, phát ra tiếng rít rõ mồn một trong không khí.
 
 Trong một thoáng, tôi đã ngỡ chỉ một đòn đó là xong chuyện. Đáng tiếc là mọi sự chẳng dễ dàng đến thế: con Khô Lâu Binh đã vung kiếm gạt phăng con dao găm trước khi nó kịp chạm tới con pháp sư.
 
@@ -106,7 +106,7 @@ Con pháp sư chĩa đũa phép về phía tôi và bắt đầu niệm chú—d
 
 Dù vậy, các ma pháp vẫn cần một dạng niệm xướng nào đó, nên con Khô Lâu đang tận dụng thời gian để thầm niệm điều gì đó nhắm vào tôi. Theo lời Lorraine, niệm chú ma pháp không nhất thiết phải phát ra thành tiếng. Miễn sao người ta có thể vận hành Ma Lực theo đúng cách thì chỉ cần suy nghĩ trong đầu là đủ. Con người chỉ là quá coi trọng lời ăn tiếng nói, dẫn tới một định kiến vô thức khiến họ gặp khó khăn với việc niệm chú không lời.
 
-Điều này được minh chứng bằng việc một số cá nhân có khả năng sử dụng ma pháp vô niệm—dù nói một cách khắt khe thì nó không hoàn toàn là không niệm chú. Chẳng qua là câu chú đã được rút ngắn tới giới hạn tột cùng mà thôi.
+Điều này được minh chứng bằng việc một số người có khả năng sử dụng ma pháp vô ngôn—dù nói một cách khắt khe thì nó không hoàn toàn là không có câu chú. Chẳng qua là câu chú đã được rút ngắn tới giới hạn tột cùng mà thôi.
 
 Khái niệm tua trọn vẹn cả một câu niệm chú trong tâm trí chỉ trong cái chớp mắt quả thực rất khó để tôi có thể lĩnh hội trọn vẹn, nhưng điểm mấu chốt là: con Hạ Cấp Khô Lâu Pháp Sư thực sự có thể niệm chú ma pháp. Và có lẽ vì câu chú của nó diễn ra với tốc độ của suy nghĩ, chỉ vài giây sau khi con Khô Lâu Binh gạt văng dao găm của tôi, đòn ma pháp tiếp theo đã bay vút về phía tôi.
 
@@ -114,7 +114,7 @@ Khái niệm tua trọn vẹn cả một câu niệm chú trong tâm trí chỉ 
 
 Ma pháp Vráchos Volídas của con Hạ Cấp Khô Lâu Pháp Sư—một khối đất đá bắn ra—lao thẳng vào mặt tôi. Bộ nó muốn trả thù việc tôi phóng dao găm nhắm vào đầu nó đấy chắc? Do thời gian thi triển tương đối ngắn nên uy lực của nó chưa đạt mức tối đa, nhưng nếu trúng đích thì nó vẫn dư sức thổi bay cả khuôn mặt một người.
 
-Trường hợp của tôi thì có bị xé toạc mặt ra cũng chẳng hề hấn gì, ngặt nỗi tôi không thể phơi bày cảnh tượng kinh dị như thế trước mặt Rivul. Gập người ra sau hết mức có thể, tôi né được tảng đất đá đang bay tới. Với góc gập người như thế, chắc có người sẽ nghi ngờ độ dẻo dai của cơ thể tôi, nhưng chưa đến mức kết tội tôi là phi nhân loại đâu. Thế là thoát nạn rồi nhé!
+Trường hợp của tôi thì có bị xé toạc mặt ra cũng chẳng hề hấn gì, ngặt nỗi tôi không thể phơi bày cảnh tượng kinh dị như thế trước mặt Rivul. Tôi gập người ra sau hết mức có thể để né tảng đất đá đang bay tới. Với góc gập người như thế, chắc có người sẽ nghi ngờ độ dẻo dai của cơ thể tôi, nhưng chưa đến mức kết tội tôi không phải con người đâu. Thế là thoát nạn rồi nhé!
 
 Cơ mà có khi người ta sẽ gọi tôi là "đồ quái dị" mất...
 
@@ -128,7 +128,7 @@ May mắn thay, con Hạ Cấp Khô Lâu Pháp Sư không kịp né tránh đòn
 
 Một quả cầu lửa nhỏ vẫn kịp phóng ra từ cây đũa phép của nó, nhưng tôi chỉ đơn giản bước né sang một bên rồi giẫm nát món ma cụ cùng cánh tay đang cầm nó. Thế là giải quyết xong con pháp sư.
 
-Khung xương của nó vẫn co giật nhẹ, cho thấy viên Ma Tinh của nó nằm ở một vị trí khác chứ không phải trên đầu, nhưng trong tình trạng này thì nó chẳng thể làm được gì nữa. Có khi phải mất một hai ngày nó mới tự ghép nối lại được, nhưng tôi đâu có rảnh để cho nó chừng ấy thời gian. Sau khi hạ gục con Khô Lâu Binh, tôi sẽ móc Ma Tinh của nó ra rồi chôn lấp phần xương tàn.
+Khung xương của nó vẫn co giật nhẹ, cho thấy viên Ma Tinh của nó nằm ở một vị trí khác chứ không phải trên đầu, nhưng trong tình trạng này thì nó chẳng thể làm được gì nữa. Có khi phải mất một hai ngày nó mới tự ghép nối lại được, nhưng tôi đâu có rảnh để cho nó chừng ấy thời gian. Sau khi hạ gục con Khô Lâu Binh, tôi sẽ móc Ma Tinh của nó ra rồi chôn lấp đống xương cốt.
 
 Nhắc tới Khô Lâu Binh, con quái vật đó đang lao thẳng về phía tôi. Chứng kiến cảnh tôi hạ gục con pháp sư dường như không hẳn là... làm nó tức giận, nhưng nó đang tỏa ra một bầu không khí có phần hiểm độc hơn trước. Ban nãy nó còn giữ khoảng cách và ưu tiên phòng thủ, nhưng xem ra nó đã từ bỏ lối đánh đó rồi—có lẽ vì trước đó nó phải bảo vệ con pháp sư, còn giờ thì chẳng cần nữa.
 
@@ -136,7 +136,7 @@ Dù con pháp sư vẫn còn sống—ừ thì, theo một định nghĩa nào �
 
 Những nhát chém của nó rất nhanh. Tôi liên tiếp gạt đỡ từng đòn rồi nhắm thẳng vào đầu nó. Khác với con pháp sư, toàn bộ cơ thể con Khô Lâu Binh đều phơi bày rõ ràng. Tôi không thấy viên Ma Tinh nào ẩn trong các khúc xương, nên chắc chắn nó phải nằm bên trong hộp sọ.
 
-Thế nhưng, xem chừng nó đã nhìn thấu ý đồ của tôi; nó gạt phăng cú đâm kiếm của tôi sang một bên. Kỹ năng chiến đấu của Khô Lâu Binh chênh lệch nhau rất lớn, nhưng có vẻ như tôi đã đụng phải một con khá lành nghề với kiếm bản.
+Thế nhưng, xem chừng nó đã nhìn thấu ý đồ của tôi; nó gạt phăng cú đâm kiếm của tôi sang một bên. Kỹ năng chiến đấu của Khô Lâu Binh chênh lệch nhau rất lớn, nhưng có vẻ như tôi đã đụng phải một con dùng kiếm khá điêu luyện.
 
 Tôi tập trung thêm nhiều Ma Lực hơn nữa vào cơ thể rồi lại đâm tới lần nữa, làm một đòn hư chiêu nhắm vào đầu trước khi chuyển hướng tấn công vào thân mình nó. Xem ra mưu mẹo của tôi đã hiệu nghiệm, bởi con Khô Lâu Binh phản ứng chậm hơn hẳn một nhịp.
 
@@ -148,7 +148,7 @@ Khô Lâu Binh không có cảm xúc. Chúng không biết đến tuyệt vọng
 
 Dẫu vậy, điều đó không đồng nghĩa với việc tôi có thể cứ để mặc nó như thế. Dứt khoát, tôi bước tới trước con Khô Lâu Binh rồi nghiền nát hộp sọ của nó. Viên Ma Tinh lăn lóc ra ngoài, định đoạt số phận của nó chìm vào vĩnh hằng và không bao giờ cử động được nữa.
 
-Nhặt viên Ma Tinh lên, tôi bước sang chỗ con Hạ Cấp Khô Lâu Pháp Sư vẫn đang ngọ nguậy, giật phăng chiếc áo choàng của nó ra rồi móc viên Ma Tinh của nó ra nốt. Nó bất động rồi rã rời, chỉ còn lại những mảnh xương trắng hếu lăn lóc trên mặt đất.
+Tôi nhặt viên Ma Tinh lên rồi bước sang chỗ con Hạ Cấp Khô Lâu Pháp Sư vẫn đang ngọ nguậy, giật phăng chiếc áo choàng của nó ra và móc viên Ma Tinh của nó ra nốt. Nó bất động rồi rã rời, chỉ còn lại những mảnh xương trắng hếu lăn lóc trên mặt đất.
 
 "Rivul. Xong rồi đấy."
 

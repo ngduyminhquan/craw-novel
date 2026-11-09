@@ -92,7 +92,7 @@ Là vì tôi muốn giới hạn phạm vi chuyển động của con Khô Lâu 
 
 Thông thường, cùng một đòn tấn công sẽ gợi ra cùng một kiểu phản xạ. Điều này không chỉ đúng với sinh vật sống mà còn áp dụng cho cả lũ quái vật Undead như Khô Lâu. Rất khó để kiểm soát hoàn hảo phản xạ của chính mình. Việc khổ luyện võ nghệ cho phép người ta sửa đổi thói quen thông qua những bài tập vô tận và dần khắc phục những khiếm khuyết đó, nhưng lũ Khô Lâu thì làm gì có chế độ luyện tập hằng ngày.
 
-Dĩ nhiên, việc sở hữu thân thể chỉ toàn xương xẩu cho phép chúng thực hiện những cử động mà người bình thường không tài nào làm nổi, nên việc đoán biết phản ứng của chúng sẽ ra sao chẳng phải chuyện dễ dàng gì, kể cả khi bạn biết trước đòn sắp tới. Chẳng hạn, lũ Khô Lâu có thể xoay tròn cổ và cánh tay hay ngửa gập eo ra sau tới mức trông như bị gãy làm đôi—nói cách khác, toàn là những trò tôi vẫn làm mỗi khi không có ai nhìn.
+Dĩ nhiên, thân thể chỉ toàn xương xẩu cho phép chúng thực hiện những cử động mà người bình thường không tài nào làm nổi, nên muốn đoán trước phản ứng của chúng sẽ ra sao chẳng phải chuyện dễ dàng gì, kể cả khi người ta biết trước đòn sắp tới. Chẳng hạn, lũ Khô Lâu có thể xoay tròn cổ và cánh tay hay ngửa gập eo ra sau tới mức trông như bị gãy làm đôi—nói cách khác, toàn là những trò tôi vẫn làm mỗi khi không có ai nhìn.
 
 Thế nhưng, số Khô Lâu tôi từng giao chiến có gom lại dùng cho cả đời cũng chẳng hết—chưa kể bản thân tôi cũng từng làm một con Khô Lâu trong suốt một thời gian dài. Tôi hiểu rõ năng lực và từng đường đi nước bước của chúng như lòng bàn tay.
 
@@ -108,17 +108,17 @@ Và tôi không hề nói theo nghĩa bóng—mà là một cái hố bẫy theo
 
 Ngay đúng khoảnh khắc con Khô Lâu Kỵ Sĩ đặt chân xuống, tôi liền dùng thanh kiếm đã truyền Ma Lực khoét sâu khoảng đất mà nó sắp dẫm lên.
 
-Tôi vẫn chưa thực sự quen với kỹ thuật này nên chưa chắc chắn phải truyền bao nhiêu Ma Lực, nhưng tôi cũng đủ thành thạo để tạo ra một cái hố cục bộ sâu tới tận cẳng chân nó. Mặt đất trong hang chỉ toàn đất bùn và trầm tích, càng khiến mọi chuyện dễ dàng hơn.
+Tôi vẫn chưa thực sự quen với kỹ thuật này nên chưa chắc chắn phải truyền bao nhiêu Ma Lực, nhưng tôi cũng đủ thành thạo để tạo ra một cái hố nhỏ ngay tại chỗ đó, sâu tới tận cẳng chân nó. Mặt đất trong hang chỉ toàn đất bùn và trầm tích, càng khiến mọi chuyện dễ dàng hơn.
 
 Quả nhiên, con Khô Lâu Kỵ Sĩ dẫm hụt chân vào hố bẫy, loạng choạng mất thăng bằng cùng những tiếng lách cách rộn ràng. Dù vậy tôi cũng phải khen ngợi nó—nó không hề bị mất thăng bằng quá nặng. Ngay khi cảm nhận được độ sâu của cái hố, nó liền đổi thế đứng và điều chỉnh lại lực dồn vào chân, rồi lập tức dùng chân còn lại làm điểm tựa để bật người thoát ra.
 
 Thế nhưng, chỉ một khoảnh khắc ngắn ngủi ấy cũng là quá đủ cơ hội cho tôi.
 
-Dù trước đó vừa bước lùi, nhưng đây vốn là mục đích tôi nhắm tới ngay từ đầu, nên tôi lập tức chuyển thế sang tấn công. Vận dụng Ma Lực, tôi làm cứng lớp đất dưới chân để tạo điểm bật đà vững chãi rồi lao thẳng về phía con Khô Lâu Kỵ Sĩ.
+Dù trước đó vừa bước lùi, nhưng đây vốn là mục đích tôi nhắm tới ngay từ đầu, nên tôi lập tức chuyển thế sang tấn công. Tôi vận dụng Ma Lực làm cứng lớp đất dưới chân để tạo điểm bật đà vững chãi rồi lao thẳng về phía con Khô Lâu Kỵ Sĩ.
 
 Dù trông như bị tình huống này làm cho bất ngờ, con Khô Lâu vẫn kịp giơ khiên lên đón đỡ đòn tấn công của tôi. Biết chắc nó không cầm khiên đủ vững, tôi liền truyền cả Ma Lực lẫn Khí Lực vào thanh kiếm.
 
-Việc tiếp dẫn năng lượng vào vũ khí bằng Ma Khí Dung Hợp Thuật vẫn còn khá khó khăn, nhưng duy trì trạng thái đó thì đã dễ dàng hơn trước rất nhiều. Tôi vung một đường chém quét ngang lưỡi kiếm nhắm thẳng vào tấm khiên của con Khô Lâu Kỵ Sĩ—và ngay khoảnh khắc va chạm, một vụ nổ bùng lên thổi bay tấm khiên, cuốn phăng luôn cả cánh tay xương xẩu của nó.
+Việc tiếp dẫn năng lượng vào vũ khí bằng Ma Khí Dung Hợp Thuật vẫn còn khá khó khăn, nhưng duy trì trạng thái đó thì đã dễ dàng hơn trước rất nhiều. Tôi vung kiếm chém ngang nhắm thẳng vào tấm khiên của con Khô Lâu Kỵ Sĩ—và ngay khoảnh khắc va chạm, một vụ nổ bùng lên thổi bay tấm khiên, cuốn phăng luôn cả cánh tay xương xẩu của nó.
 
 Cảm giác của tôi về việc nó cầm khiên không chắc đã hoàn toàn chính xác, và giờ thì con Khô Lâu Kỵ Sĩ đã mất đi một lớp phòng hộ. Dù vậy, nó vẫn còn bộ giáp—và cả thanh kiếm nữa.
 

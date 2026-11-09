@@ -1,14 +1,14 @@
 # Chương 302: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (2)
 
-"Thì... tôi cũng không dám chắc người đó làm ăn tắc trách," tôi nói. "Dù sao thì tôi cũng đâu rõ hoàn cảnh lúc đó của họ ra sao."
+"Thì... tôi cũng không dám chắc người đó làm ăn tắc trách," tôi nói. "Dù sao thì tôi cũng đâu rõ hoàn cảnh lúc đó của người đó ra sao."
 
-"Về phía dân làng thì hồi đó ai nấy đều biết ơn vì người đó đã tiêu diệt lũ Goblin rồi," Rivul đồng tình. "Cơ mà nghĩ đến chuyện đó có thể là nguồn cơn dẫn tới việc lũ Khô Lâu tấn công... Đáng lẽ bọn tôi nên nhờ họ giúp thêm nhiều việc hơn."
+"Về phía dân làng thì hồi đó ai nấy đều biết ơn vì người đó đã tiêu diệt lũ Goblin rồi," Rivul đồng tình. "Cơ mà nghĩ đến chuyện đó có thể là nguồn cơn dẫn tới việc lũ Khô Lâu tấn công... Đáng lẽ bọn tôi nên nhờ người đó giúp thêm nhiều việc hơn."
 
-Rivul đang nhắc đến việc chôn cất cha mình. Nếu hồi đó họ mai táng ông chu đáo thì đợt Khô Lâu tấn công vừa rồi có khi đã chẳng xảy ra.
+Rivul đang nhắc đến việc chôn cất cha mình. Nếu hồi đó họ mai táng ông ấy chu đáo thì đợt Khô Lâu tấn công vừa rồi có khi đã chẳng xảy ra.
 
 Thông thường, một khi đã có một con Khô Lâu xuất hiện, số lượng của chúng sẽ tăng dần lên—hoặc là những con khác từ nơi khác bị thu hút kéo tới, hoặc những khúc xương cũ vùi dưới lòng đất sẽ sống dậy do bị đồng loại dẫn dụ. Nếu cha của Rivul chính là điểm khởi đầu, thì một lễ an táng chu đáo hẳn đã ngăn được toàn bộ chuyện này.
 
-"Thì mình cũng đâu chắc cha cậu có thật sự là nguyên nhân hay không. Tôi nghĩ cậu không cần phải bận lòng quá đâu."
+"Thì chúng ta cũng đâu chắc cha cậu có thật sự là nguyên nhân hay không. Tôi nghĩ cậu không cần phải bận lòng quá đâu."
 
 "Anh thực sự nghĩ vậy sao?"
 
@@ -22,7 +22,7 @@ Những vết thương lòng chưa bao giờ thực sự lành lặn, nhưng tro
 
 "Quay lại chuyện trước mắt nhé Rivul, tuy chưa xác định được chính xác nguyên nhân lũ Khô Lâu tấn công, nhưng chúng ta đã nắm được việc cần phải làm rồi."
 
-"Dạ... ý anh là chúng ta phải đến nơi cha tôi qua đời đúng không? Vì khả năng cao đó chính là ngọn nguồn lũ quái vật?"
+"Ừm... ý anh là chúng ta phải đến nơi cha tôi qua đời đúng không? Vì khả năng cao đó chính là ngọn nguồn lũ quái vật?"
 
 "Đúng thế. Vấn đề là tôi không biết nơi đó ở đâu. Tôi có thể bảo cậu đánh dấu lên bản đồ... nhưng giữa khu rừng thế này, chỉ cần sẩy một bước là lạc đường ngay. Nếu được, tôi muốn có một người dẫn đường đi cùng hơn."
 
@@ -56,7 +56,7 @@ Lúc này, tôi chính là rào chắn chủ yếu bảo vệ ngôi làng trư�
 
 "Vâng."
 
-Còn thứ tôi cần thu xếp xong chính là cái "Cửa Hàng Tạp Hóa Tạm Thời của Rentt". Vẫn còn vài người đang xem đồ, nên nếu đùng một cái tuyên bố đóng cửa thì thật thất lễ. Đằng nào thì sáng mai mới khởi hành, nên việc thuyết phục Trưởng thôn có thể để lại sau khi tôi bán xong mớ đồ lặt vặt như dự định ban đầu.
+Còn thứ tôi cần thu xếp xong chính là Cửa Hàng Tạp Hóa Tạm Thời của Rentt. Vẫn còn vài người đang xem đồ, nên nếu đùng một cái tuyên bố đóng cửa thì thật thất lễ. Đằng nào thì sáng mai mới khởi hành, nên việc thuyết phục Trưởng thôn có thể để lại sau khi tôi bán xong mớ đồ lặt vặt như dự định ban đầu.
 
 "Nhân tiện, Rivul này, cậu không muốn lấy cây cung này à?"
 
@@ -94,11 +94,11 @@ Sau khi bàn bạc với Trưởng thôn Jiris, chúng tôi quyết định rằ
 
 Khô Lâu là loài quái vật có khả năng chiến đấu trong bóng tối, nhưng điều đó không đồng nghĩa với việc tầm nhìn của chúng đặc biệt tốt. Nếu cánh trai tráng nhận trách nhiệm bọc hậu và để phụ nữ cùng trẻ nhỏ chạy thoát trước, việc rút lui khỏi làng không phải là chuyện bất khả thi.
 
-Jiris vốn muốn tôi túc trực ở lại làng mọi lúc, nhưng ông cũng hiểu rằng làm thế sẽ đẩy họ vào vòng nguy hiểm một khi tôi trở về Maalt. Sau cùng, ông chấp thuận kế hoạch vì nhận ra rằng việc tìm ra ngọn nguồn lũ Khô Lâu và xử lý dứt điểm sẽ an toàn hơn về lâu về dài. Chấp nhận chút rủi ro trước mắt là điều cần thiết để đạt được mục đích đó.
+Jiris vốn muốn tôi túc trực ở lại làng mọi lúc, nhưng ông ấy cũng hiểu rằng làm thế sẽ đẩy họ vào vòng nguy hiểm một khi tôi trở về Maalt. Sau cùng, ông ấy chấp thuận kế hoạch vì nhận ra rằng việc tìm ra ngọn nguồn lũ Khô Lâu và xử lý dứt điểm sẽ an toàn hơn về lâu về dài. Chấp nhận chút rủi ro trước mắt là điều cần thiết để đạt được mục đích đó.
 
 "Lối này, anh Rentt."
 
-Tôi cùng Rivul tiến sâu vào trong rừng. Quả không hổ danh là thợ săn giỏi nhất làng—cậu ấy bước đi nhẹ tênh như ở nhà, từng bước chân không một tiếng động và thu giấu hiện diện hoàn hảo, trong khi vẫn luôn định vị phương hướng chuẩn xác. Bản thân tôi cũng tự tin vào khả năng băng rừng của mình, nhưng nếu đây là một chuyến đi săn thông thường thì tôi ngờ rằng mình khó lòng sánh kịp cậu ấy.
+Tôi cùng Rivul tiến sâu vào trong rừng. Quả không hổ danh là thợ săn giỏi nhất làng—cậu ấy bước đi nhẹ tênh như ở nhà, từng bước chân không một tiếng động và thu giấu hiện diện hoàn hảo, trong khi vẫn luôn nắm vững phương hướng chuẩn xác. Bản thân tôi cũng tự tin vào khả năng băng rừng của mình, nhưng nếu đây là một chuyến đi săn thông thường thì tôi nghĩ mình khó lòng sánh kịp cậu ấy.
 
 Như để chứng minh cho phán đoán của tôi, trong vài lần chúng tôi bắt gặp hươu hay lợn rừng, dường như chẳng con nào nhận ra sự hiện diện của cậu ấy cả. Nếu muốn, cậu ấy hoàn toàn có thể hạ gục chúng chỉ bằng một phát tên.
 
@@ -108,7 +108,7 @@ Thỉnh thoảng tôi cũng đi săn khi phải sinh hoạt ngoài trời và c�
 
 "Chắc là chỗ kia rồi, anh Rentt."
 
-Rivul nấp dưới bóng những bụi cây rậm rạp. Tôi dõi theo tầm mắt của cậu ấy và trông thấy một cửa hang há toang hoác như cái miệng mở rộng. Bên trong tối đen như mực khiến tôi không thể nhìn sâu hơn, thật khó để biết hang sâu tới nhường nào.
+Rivul nấp dưới bóng những bụi cây rậm rạp. Tôi dõi theo tầm mắt của cậu ấy và trông thấy một cửa hang há toang hoác như cái miệng mở rộng. Bên trong tối đen như mực khiến tôi không thể nhìn sâu hơn, thật khó để biết hang sâu cỡ nào.
 
 Cũng hợp lý thôi, tôi thầm nghĩ.
 
@@ -116,7 +116,7 @@ Trước đó Rivul từng kể cho tôi nghe về những lần Goblin xuất h
 
 Các bộ tộc Goblin giao thương với loài người thường dựng nên những khu định cư nhỏ cho mục đích này, dẫu trông khá thô sơ; còn những kẻ không làm được điều đó thì chủ yếu dùng hang động tự nhiên như nơi đây. Nếu hỏi tôi điểm khác biệt giữa lũ Goblin biết lập làng định cư với những con sống trong hang tự nhiên chuyên tấn công con người là gì, tôi cũng chịu chẳng thể đưa ra câu trả lời thỏa đáng. Tôi cho rằng ngay cả Goblin cũng có sự khác biệt giữa từng cá thể. Chẳng khác nào con người có người làm thị dân lương thiện nhưng cũng có kẻ làm thảo khấu cướp đường. Chính vì vậy, người ta không thể đánh đồng một cách vơ đũa cả nắm rằng mọi con Goblin đều tàn ác.
 
-Có khá nhiều chủng quái vật kiểu như vậy, và hệ quả là chúng thường được đối đãi như Á Nhân... nhưng ranh giới phân định thì nói một cách nhẹ nhàng nhất cũng rất mực mơ hồ. Mối quan hệ giữa chúng với con người phụ thuộc vào từng vùng miền trên thế giới. Có những nơi áp dụng chính sách tuyệt đối không khoan nhượng với quái vật, trong khi những nơi khác lại sẵn lòng tham gia vào các hoạt động giao thương đôi bên cùng có lợi.
+Có khá nhiều chủng quái vật kiểu như vậy, và hệ quả là chúng thường được đối đãi như Á Nhân... nhưng ranh giới phân định có rõ lắm thì cũng vẫn rất mơ hồ. Mối quan hệ giữa chúng với con người phụ thuộc vào từng vùng miền trên thế giới. Có những nơi áp dụng chính sách tuyệt đối không khoan nhượng với quái vật, trong khi những nơi khác lại sẵn lòng tham gia vào các hoạt động giao thương đôi bên cùng có lợi.
 
 Chính sách của Yaaran đối với những chuyện này tương đối cởi mở và có xu hướng cho phép giao thương hơn—nhưng có lẽ nói đúng hơn thì Vương quốc vốn chẳng phải nơi quá khắt khe về nhiều mặt. Quan điểm của người dân đối với quái vật cũng không có định kiến gì gay gắt.
 
@@ -162,7 +162,7 @@ Thực ra đối với tôi thì chẳng có gì khác biệt cho lắm. Dù có
 
 "Tạm thời tôi sẽ cầm cây đuốc này," tôi nói. "Nếu có con quái vật nào lao tới từ phía trước, chúng sẽ bị thu hút về phía tôi. Nhưng một khi tôi bắt đầu chiến đấu thì tôi sẽ phải chuyển nó sang cho cậu. Như thế có được không?"
 
-"D-Dạ được chứ anh." Giọng Rivul thoáng chút sợ hãi khi nghe tin cầm đuốc sẽ thu hút sự chú ý của quái vật.
+"V-Vâng, tất nhiên rồi." Giọng Rivul thoáng chút sợ hãi khi nghe tin cầm đuốc sẽ thu hút sự chú ý của quái vật.
 
 "Không cần phải sợ đâu. Tôi nhất định sẽ không để bất kỳ con quái vật nào tiếp cận được cậu. Thực ra cây đuốc thu hút chúng về phía mình lại giúp tôi chiến đấu dễ dàng hơn đấy—sẽ giống hệt trận đánh trong làng thôi mà. Hồi đó cậu là người duy nhất giữ được bình tĩnh, nên lần này cậu cũng sẽ ổn thôi, đúng không nào?"
 

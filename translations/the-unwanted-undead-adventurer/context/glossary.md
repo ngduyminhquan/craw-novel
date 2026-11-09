@@ -417,7 +417,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Her Highness | Highness; his Highness; His Highness; Her Royal Highness; Royal Highness | Điện Hạ | danh hiệu | 221 | Tôn xưng dành cho thành viên hoàng gia như hoàng tử, công chúa (殿下) |
 | chanted magic |  | ma pháp ngâm xướng | kỹ năng | 225 | Ma pháp thi triển bằng cách đọc trọn vẹn câu chú bài bản |
 | quickened magic | quickened spell | ma pháp rút ngắn | kỹ năng | 225 | Ma pháp thi triển bằng câu chú đã được rút ngắn |
-| silent magic |  | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
+| silent magic | chantless magic | ma pháp vô ngôn | kỹ năng | 225 | Ma pháp thi triển không cần đọc câu chú |
 | earth magic |  | ma pháp thổ hệ | kỹ năng | 225 | Ma pháp thuộc tính thổ, điều khiển đất đá |
 | offensive magic |  | ma pháp tấn công | kỹ năng | 225 | Ma pháp dùng để gây sát thương và công kích đối phương |
 | Falcon’s Rest Inn | Falcon’s Rest; Falcon's Rest | Quán Trọ Falcon's Rest | địa danh | 226 | Quán trọ nơi Augurey lưu trú tại vương đô Vistelya (鷹の羽休め亭) |

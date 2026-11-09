@@ -306,9 +306,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | reviewed |  |
 | 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | reviewed |  |
 | 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | reviewed |  |
-| 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | done |  |
-| 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | done |  |
-| 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | done |  |
+| 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | reviewed |  |
+| 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | reviewed |  |
+| 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | reviewed |  |
 | 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | todo |  |
 | 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | todo |  |
 | 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | todo |  |
