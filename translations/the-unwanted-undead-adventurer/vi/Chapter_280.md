@@ -32,7 +32,7 @@ Hoặc chí ít, kế hoạch ban đầu là vậy.
 
 Keng!
 
-Mũi tên tên cung thủ bắn ra đã bị đánh văng giữa không trung. Còn ai là người làm điều đó thì câu trả lời quá đỗi rõ ràng: chính là nữ mạo hiểm giả vừa mới ngồi bên đống lửa trại. Trước khi bất kỳ ai kịp nhận ra, cô đã chắn giữa tên cung thủ và mục tiêu, phán đoán đường bay của mũi tên rồi chém rơi nó ngay giữa chừng.
+Mũi tên của gã cung thủ đã bị đánh văng giữa không trung. Còn ai là người làm điều đó thì câu trả lời quá đỗi rõ ràng: chính là nữ mạo hiểm giả vừa mới ngồi bên đống lửa trại. Trước khi bất kỳ ai kịp nhận ra, cô đã chắn giữa tên cung thủ và mục tiêu, phán đoán đường bay của mũi tên rồi chém rơi nó ngay giữa chừng.
 
 "Guster! Cô ta— Khặc!"
 
@@ -60,7 +60,7 @@ Chưa kịp quay ngoắt lại, gáy gã đã bị một vật giáng mạnh và
 
 Dorothea tự hỏi không biết chuyện gì đang xảy ra. Từ vị trí hiện tại, cô chẳng thể nhìn thấy gì, tai chỉ thỉnh thoảng nghe thấy vài tiếng thét vọng ra từ trong rừng. Cô chỉ mong sao Rina vẫn bình an vô sự.
 
-Né nép bên mép bạt của cỗ xe, Dorothea cẩn thận quan sát khu rừng. Cô không chắc Rina có thể làm được những gì trước bọn cướp. Bản thân Dorothea vốn chỉ biết vài ngón tự vệ cơ bản nhất, nên cô chẳng thể nào đánh giá được thực lực của nữ mạo hiểm giả trẻ tuổi.
+Nép mình sau tấm bạt của cỗ xe, Dorothea cẩn thận quan sát khu rừng. Cô không chắc Rina có thể làm được những gì trước bọn cướp. Bản thân Dorothea vốn chỉ biết vài ngón tự vệ cơ bản nhất, nên cô chẳng thể nào đánh giá được thực lực của nữ mạo hiểm giả trẻ tuổi.
 
 Dẫu vậy, sự tự tin đầy thản nhiên của Rina khi tuyên bố sẽ đuổi theo bọn cướp chỉ có thể đồng nghĩa với việc cô gái thấy mình thừa sức giải quyết chúng—nghĩa là Dorothea chẳng có gì phải bận lòng lo lắng.
 
@@ -72,7 +72,7 @@ Dorothea quyết định nếu lũ cướp từ trong rừng ùa ra, cô sẽ l�
 
 "A, Dorothea! Cô đừng lo, xong xuôi cả rồi!"
 
-Đó không thể nhầm lẫn vào đâu được chính là Rina, phía sau đang kéo lê một vật gì đó nặng trịch trên mặt đất. Dù bản thân cô gái hoàn toàn lành lặn không một vết xước, vài vệt máu từ đối thủ đã bắn lên má cô. Nhìn toàn cảnh, cảnh tượng ấy quả thực có phần kỳ dị đến khó tin.
+Không thể nhầm vào đâu được, đó chính là Rina, sau lưng cô đang kéo lê một vật gì đó nặng trịch trên mặt đất. Dù bản thân cô gái hoàn toàn lành lặn không một vết xước, vài vệt máu từ đối thủ đã bắn lên má cô. Nhìn chung, cảnh tượng ấy kỳ dị đến khó tin.
 
 "Xem... xem chừng mọi chuyện ngoài đó đều ổn thỏa cả nhỉ," Dorothea gắng gượng thốt nên lời.
 
@@ -94,7 +94,7 @@ Nói là vậy, nhưng nếu cô thực sự có khả năng đó thì mọi tin
 
 Nói tóm lại: Dorothea đã đắn đo suy nghĩ rất nhiều mới cất lời hỏi câu đó.
 
-"À thì, toàn bộ đồng bọn của gã giờ đang nằm trong rừng làm mồi cho quái vật rồi," Rina nói. "Với tình thế bất lợi đến mức này, chắc gã chẳng có lý do gì để khăng khăng giữ kín bí mật đâu. Chắc không khó để bắt gã mở miệng đâu. Có điều... vì tôi cũng chưa từng thực sự tra khảo ai bao giờ, nên nếu không xong thì chúng ta chỉ còn cách giao gã cho lính gác ở thị trấn tiếp theo. Ít ra làm thế cũng đổi lại được chút hảo cảm từ họ."
+"À thì, toàn bộ đồng bọn của gã giờ đang nằm trong rừng làm mồi cho quái vật rồi," Rina nói. "Với tình thế bất lợi đến mức này, gã cũng chẳng còn lý do gì để khăng khăng giữ kín bí mật. Chắc không khó để bắt gã mở miệng đâu. Có điều... vì tôi cũng chưa từng thực sự tra khảo ai bao giờ, nên nếu không xong thì chúng ta chỉ còn cách giao gã cho lính gác ở thị trấn tiếp theo. Ít ra làm thế cũng đổi lại được chút hảo cảm từ họ."
 
 Dorothea thở phào nhẹ nhõm; nhìn chung, những đề xuất của Rina hoàn toàn hợp lý và đúng mực. Lẽ dĩ nhiên cô không thể nói thẳng điều đó trước mặt nữ mạo hiểm giả—đâu phải cô có thể bộc bạch rằng mình vừa lo sợ cô gái là kẻ tàn bạo thích tra tấn người khác.
 
@@ -132,9 +132,9 @@ Dorothea sững sờ kinh ngạc. Cô thậm chí còn chưa từng nghĩ tới 
 
 "Ông ấy kỳ công đến mức đó mà rốt cuộc vẫn chấp nhận sao? Chẳng phải cô bảo lần gặp cuối cùng giữa hai người đã kết thúc bằng một trận cãi vã à?"
 
-"Đúng là thế... nhưng ông ấy không hề ngăn cản tôi chuẩn bị ra ở riêng tự lập. Tôi đã bảo với ông ấy rằng một ngày nào đó tôi nhất định sẽ lập nên một cơ nghiệp lớn hơn của ông ấy rồi rời khỏi thị trấn... nhưng ông ấy hoàn toàn có thể giam tôi trong nhà bất cứ lúc nào ông ấy muốn, hoặc sai người bắt giữ tôi trước khi tôi rời đi. Việc ông ấy không làm vậy... ừ thì, tôi hiểu điều đó nghĩa là ông ấy đã chấp nhận quyết định của tôi, dù có phần miễn cưỡng."
+"Đúng là thế... nhưng ông ấy không hề ngăn cản tôi chuẩn bị ra ở riêng tự lập. Tôi tuyên bố với ông ấy rằng một ngày nào đó tôi nhất định sẽ gây dựng một thương hội lớn hơn của ông ấy, rồi bỏ đi khỏi thị trấn... nhưng ông ấy hoàn toàn có thể giam tôi trong nhà bất cứ lúc nào ông ấy muốn, hoặc sai người bắt giữ tôi trước khi tôi rời đi. Việc ông ấy không làm vậy... ừ thì, tôi hiểu điều đó nghĩa là ông ấy đã chấp nhận quyết định của tôi, dù có phần miễn cưỡng."
 
-"Nghĩa là chuyện không nằm ở lời nói bên ngoài mà là hai người thấu hiểu nhau nhỉ...? Tôi đoán nếu đúng là như vậy thì có lẽ người nhắm vào cô không phải là cha cô đâu. Giam cô ở nhà chắc chắn là cách đáng tin cậy hơn nhiều so với thuê đám người như Guster đây..."
+"Tức là quan trọng không phải lời đã nói ra, mà là hai người hiểu nhau nhỉ...? Tôi đoán nếu đúng là như vậy thì có lẽ người nhắm vào cô không phải là cha cô đâu. Giam cô ở nhà chắc chắn là cách đáng tin cậy hơn nhiều so với thuê đám người như Guster đây..."
 
 Rina nhíu mày trầm ngâm suy nghĩ, nhưng chỉ một lát sau, cô ngẩng đầu lên. "Mà thôi, xem chừng cứ ngồi nghĩ ngợi thế này cũng chẳng đi đến đâu," cô tiếp tục nói.
 

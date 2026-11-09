@@ -12,7 +12,7 @@ Giữa một thương nhân và mạo hiểm giả hộ vệ thường khó trá
 
 Mystera là một thành phố cấp tỉnh nằm khá xa Maalt, thậm chí còn nằm xa hơn về phía tây so với vương đô. Dẫu vậy, nơi đó rộng lớn và thịnh vượng hơn nhiều, với sự cạnh tranh khốc liệt giữa các thương hội. Nơi đây cũng sở hữu lượng dân cư đông đúc nhờ dòng người và hàng hóa qua lại tấp nập với các quốc gia phía tây, và người ta có thể tìm thấy đủ loại sản vật đến từ nhiều nền văn hóa khác nhau.
 
-Thế nên, chẳng khó để hình dung người ta phải nỗ lực đến nhường nào mới từ hai bàn tay trắng gầy dựng nên một cửa tiệm cho riêng mình ở thành phố như vậy. Cha của Dorothea vốn không phải dân buôn bán từ đầu—ông chỉ là một người học việc từ ngôi làng nhỏ được gửi đi học nghề. Dù biết đọc, biết viết và tính toán, Dorothea hiểu rằng những gian truân cha cô phải nếm trải để đạt được vị thế hiện tại hẳn là vô cùng to lớn.
+Thế nên, chẳng khó để hình dung người ta phải nỗ lực đến nhường nào mới từ hai bàn tay trắng gầy dựng nên một cửa tiệm cho riêng mình ở thành phố như vậy. Cha của Dorothea vốn không phải dân buôn bán từ đầu—ông chỉ là một người học việc từ ngôi làng nhỏ được gửi đi học nghề. Dù ông biết đọc, biết viết và biết tính toán, Dorothea hiểu rằng con đường cha mình đi để có được vị thế hôm nay hẳn đã gian truân vô cùng.
 
 "Cô làm được mà! Tôi tin chắc là cô làm được!" Rina khích lệ Dorothea. "Chỉ cần cô chăm chỉ và không bỏ cuộc, ước mơ của cô nhất định sẽ thành hiện thực!"
 
@@ -78,7 +78,7 @@ Dứt lời, Rina liền lao đi, biến mất vào sâu trong rừng.
 
 Trên đời này có vô số ngày mà người ta chỉ đơn giản là xui xẻo đến tận mạng, Guster thầm nghĩ.
 
-Ngặt nỗi người ta thường chẳng mấy khi nhận ra cho đến khi bản thân đã lún sâu vào giữa mớ bòng bong. Thực chất, sáng nay gã thức dậy mà vẫn còn cảm thấy biết ơn vì chuỗi ngày may mắn gần đây của mình. Thế nhưng, nếu có khả năng quay ngược thời gian—cụ thể là quay lại khoảng một tuần trước chẳng hạn—gã đoan chắc mình sẽ đưa ra một lựa chọn khác.
+Ngặt nỗi, người ta thường chỉ nhận ra khi đã lún sâu vào giữa mớ bòng bong. Thực chất, sáng nay gã thức dậy mà vẫn còn cảm thấy biết ơn vì chuỗi ngày may mắn gần đây của mình. Thế nhưng, nếu có khả năng quay ngược thời gian—cụ thể là quay lại khoảng một tuần trước chẳng hạn—gã đoan chắc mình sẽ đưa ra một lựa chọn khác.
 
 Đó là những suy nghĩ lướt qua trong tâm trí gã giữa lúc thần chết đang bám đuổi gã ráo riết xuyên qua cánh rừng.
 

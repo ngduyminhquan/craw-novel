@@ -98,7 +98,7 @@ Khoảnh khắc tiếp theo, khung cảnh đổi khác. Lần này là...
 
 "Văn phòng điều hành ở Đệ Nhất Đại Học..."
 
-Giờ đây, đó là nơi tôi từng làm việc.
+Nơi tôi từng làm việc.
 
 Tôi thấy mình đang ngồi trên chiếc ghế cũ với vẻ mặt chán chường. Các học giả liên tục ra vào, báo cáo những điều mà chẳng hiểu sao hồi đó tôi vẫn gom góp được chút động lực để lắng nghe. Thế nhưng, gương mặt của họ lại hoàn toàn mờ tịt không nét. Dù tôi có cố nhớ lại dung mạo của họ đến đâu, đầu óc tôi cũng chịu thua.
 
@@ -110,9 +110,9 @@ Thời đó, tôi chẳng hề bận tâm nhìn ngó người khác. Mắt tôi 
 
 Giờ đây khi nhận thức được điều đó, tôi cảm giác như mình đang phải đối mặt với việc bản thân ngày trước đã mù quáng đến mức nào trước thế giới xung quanh.
 
-Dẫu vậy, dạo này mọi thứ đã khác xưa, và đó là bởi tôi biết việc đối diện với quá khứ chẳng tác động được bao nhiêu lên mình.
+Dẫu vậy, giờ thì khác rồi, bởi tôi biết đối diện với quá khứ cũng chẳng làm mình lung lay được bao nhiêu.
 
-Cảnh tượng vẫn tiếp tục tiếp diễn. Một nữ học giả trẻ tuổi bước qua cửa và bắt đầu trình bày một bản báo cáo nào đó với tôi. Khác với những người kia, đường nét khuôn mặt của cô ấy rất rõ ràng. Tôi biết cô ấy là ai: cấp dưới trước đây của tôi.
+Cảnh tượng vẫn tiếp diễn. Một nữ học giả trẻ tuổi bước qua cửa và bắt đầu trình bày một bản báo cáo nào đó với tôi. Khác với những người kia, đường nét khuôn mặt của cô ấy rất rõ ràng. Tôi biết cô ấy là ai: cấp dưới trước đây của tôi.
 
 "Lorraine à, cô không thấy mệt sao?"
 
@@ -180,7 +180,7 @@ Rắc!
 
 Cùng với một tiếng vỡ vụn chói tai, thế giới hư không nát vụn.
 
-Trước khi kịp nhận ra, tôi đã trở lại phòng khách nhà mình, với những mảnh vỡ nát của chiếc Gương, không, của con Kính Ma, nằm vương vãi dưới chân. Rentt đang đứng cạnh tôi.
+Trước khi kịp nhận ra, tôi đã trở lại phòng khách nhà mình, với những mảnh vỡ của chiếc gương, không, của con Kính Ma, nằm vương vãi dưới chân. Rentt đang đứng cạnh tôi.
 
 "Tôi á?! Mạo hiểm giả Mithril Cấp á?! Nhưng... ủa? Khoan đã, tôi đang ở đâu thế này...?"
 
@@ -192,7 +192,7 @@ Rõ ràng là anh ấy đã sập bẫy chiêu trò của con Kính Ma. Dẫu v�
 
 Giọng anh ấy nghe có vẻ tiếc nuối. Ra là anh ấy cố tình để bản thân bị lừa dẫu biết rõ chuyện gì đang diễn ra sao? Đúng là nguy hiểm hết biết.
 
-Nói đi cũng phải nói lại, tôi cũng chẳng có tư cách gì để trách Rentt. Về cơ bản thì đến một nửa thời gian tôi cũng làm y hệt như thế.
+Nói đi cũng phải nói lại, tôi cũng chẳng có tư cách gì để trách Rentt. Nói cho cùng, tôi cũng đã để mình chìm trong đó gần nửa thời gian.
 
 "Thế cô thấy gì vậy, Lorraine?" Rentt hỏi. "Trong ảo giác của tôi, tôi đã lên được Mithril Cấp đấy."
 
@@ -206,7 +206,7 @@ Nói đi cũng phải nói lại, tôi cũng chẳng có tư cách gì để tr�
 
 "Tôi không muốn nghe câu đó từ miệng anh đâu."
 
-Kể từ lúc đó, mọi sinh hoạt lại diễn ra như thường lệ. Trong bữa tối, chúng tôi đã có khoảng thời gian vui vẻ trò chuyện về những trải nghiệm bên trong chiếc gương. Thêm vào đó, việc phân tích ma pháp ảo giác giáng lên người đã mang lại cho tôi điểm khởi đầu để sáng tạo nên một câu thần chú mới, thành thử xét về mọi mặt, đây quả là một trải nghiệm vô cùng mỹ mãn.
+Kể từ lúc đó, mọi sinh hoạt lại diễn ra như thường lệ. Trong bữa tối, chúng tôi đã có khoảng thời gian vui vẻ trò chuyện về những trải nghiệm bên trong chiếc gương. Thêm vào đó, việc phân tích ảo giác từng giáng lên người tôi đã mang lại cho tôi điểm khởi đầu để sáng tạo nên một câu thần chú mới, thành thử xét về mọi mặt, đây quả là một trải nghiệm vô cùng mỹ mãn.
 
 Nếu có thể có một điều ước, tôi chỉ mong những chuỗi ngày như thế này sẽ kéo dài mãi mãi.
 

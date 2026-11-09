@@ -16,7 +16,7 @@ Còn về phần nữ thương nhân, cô đã phát hiện một loài thực v
 
 Những cánh rừng ở vùng này tương đối ít quái vật, và phần lớn những con tìm thấy ở đó đều thuộc chủng loại di chuyển chậm chạp. Dẫu vậy, rừng rú vẫn không phải là nơi để lũ trẻ thơ thẩn đi dạo một mình. Vì dân làng cảm thấy không yên tâm khi để một mình Rina làm hộ vệ cho bọn trẻ, nhóm Dorothea phải nhờ một thợ săn trong làng đi cùng thì mới được phép lên đường.
 
-Đối với một người bình thường, sức mạnh của mạo hiểm giả chẳng khác nào quái vật, kể cả khi mạo hiểm giả đó chỉ thuộc Thiết Cấp như Rina. Nói chung, ngay cả khi một ngôi làng tự tin vào khả năng chống trả mọi mối đe dọa, thì dù những cư dân khỏe nhất của họ có nỗ lực đến đâu cũng không thể vượt quá trình độ của một mạo hiểm giả Thiết Cấp dày dạn kinh nghiệm. Thế nên ở một khu vực như thế này, dù có một người như vậy làm hộ vệ thì sự an toàn của cả nhóm đã hoàn toàn được bảo đảm, nhưng điều đó không có nghĩa là dân làng thực sự tin tưởng một mạo hiểm giả—đó là lý do người thợ săn trong làng đi cùng họ. Và dẫu người thợ săn—một người đàn ông tên là Zein—có lẽ chẳng đóng góp được nhiều trong một trận chiến, nhưng anh lại am hiểu địa bàn hơn và do đó có thể đóng vai trò dẫn đường. Tựu trung lại, có anh đi cùng mang lại lợi ích cho tất cả những người liên quan.
+Đối với một người bình thường, sức mạnh của mạo hiểm giả chẳng khác nào quái vật, kể cả khi mạo hiểm giả đó chỉ thuộc Thiết Cấp như Rina. Nói chung, ngay cả khi một ngôi làng tự tin vào khả năng chống trả mọi mối đe dọa, thì dù những cư dân khỏe nhất của họ có nỗ lực đến đâu cũng không thể vượt quá trình độ của một mạo hiểm giả Thiết Cấp dày dạn kinh nghiệm. Thế nên ở khu vực này, chỉ cần một người như vậy làm hộ vệ là đủ bảo đảm an toàn cho cả nhóm, nhưng điều đó không có nghĩa là dân làng thực sự tin tưởng một mạo hiểm giả—đó là lý do người thợ săn trong làng đi cùng họ. Và dẫu người thợ săn—một người đàn ông tên là Zein—có lẽ chẳng đóng góp được nhiều trong một trận chiến, nhưng anh lại am hiểu địa bàn hơn và do đó có thể đóng vai trò dẫn đường. Tựu trung lại, có anh đi cùng mang lại lợi ích cho tất cả những người liên quan.
 
 "Mà loại cỏ này có giá trị đến thế thật sao?" Zein hỏi khi họ rảo bước qua cánh rừng. "Chúng tôi thấy nó mọc rải rác quanh đây, nhưng chưa bao giờ để ý tới cả."
 
@@ -30,7 +30,7 @@ Lắng nghe cuộc trò chuyện của họ, Rina chợt nhớ tới một nhà 
 
 "Nhìn này, Rina. Thú vị chưa? Chúng đang run rẩy và tìm cách trốn thoát kìa."
 
-Tế bào của Rentt—thứ dường như vẫn sống sót ngay cả khi bị tách rời khỏi cơ thể anh—có khả năng cử động, và sẽ tái hợp nhất nếu tiếp xúc lại với anh. Tế bào của Rina cũng tương tự như vậy, ít nhất là kể từ sau khi cô bị biến thành quái vật, và đó cũng là đặc tính của Ma Cà Rồng nói chung. Tuy nhiên, không giống như tế bào của cô và của các Ma Cà Rồng khác, vốn sẽ vỡ vụn và biến thành một chất giống như tro nếu bị tách khỏi cơ thể quá lâu với một lượng nhỏ, tế bào của Rentt lại duy trì sự sống trong một thời gian dài.
+Tế bào của Rentt—thứ dường như vẫn sống sót ngay cả khi bị tách rời khỏi cơ thể anh—có khả năng cử động, và sẽ tái hợp nhất nếu tiếp xúc lại với anh. Tế bào của Rina cũng tương tự như vậy, ít nhất là kể từ sau khi cô bị biến thành quái vật, và đó cũng là đặc tính của Ma Cà Rồng nói chung. Tuy nhiên, không giống như tế bào của cô và của các Ma Cà Rồng khác, vốn sẽ vỡ vụn thành thứ gì đó giống tro nếu chỉ là một lượng nhỏ bị tách khỏi cơ thể quá lâu, tế bào của Rentt lại duy trì sự sống trong một thời gian dài.
 
 Theo lời Lorraine, điều đó khiến chúng trở thành đối tượng thí nghiệm vô cùng thú vị. Tuy nhiên, vì chúng quá đỗi đặc thù nên kết quả thu được khó mà áp dụng rộng rãi hơn, thành thử cô cũng đã sử dụng cả tế bào của Rina lẫn tế bào của những con quái vật quanh vùng.
 
@@ -40,7 +40,7 @@ Trong buổi thí nghiệm cụ thể mà Rina đang nhớ lại, tế bào củ
 
 Điều đó có nghĩa là nhà giả kim mà Dorothea đang nhắc tới chính là...
 
-Nhưng như vậy thì chẳng phải Lorraine đã một mình gây ảnh hưởng sâu sắc đến nền kinh tế của nhiều quốc gia hay sao.
+Nhưng như vậy thì chẳng phải Lorraine đã một mình gây ảnh hưởng sâu sắc đến nền kinh tế của nhiều quốc gia hay sao?
 
 Rina gần như chẳng dám tin vào điều đó, nhưng cô biết phỏng đoán của mình nhiều khả năng là đúng. Cô quyết định gạt phăng mọi suy nghĩ về chuyện này ra khỏi đầu. Lorraine và Rentt vốn phi lý đến mức như thế đấy—có nghĩ ngợi nhiều cũng chẳng để làm gì.
 
@@ -76,7 +76,7 @@ Việc thu hoạch cỏ afto diễn ra thuận lợi.
 
 Dù vậy, đây giống một cuộc "hái chọn lọc" hơn là "thu hoạch". Thay vì nhổ sạch cả khu vực, họ để lại khoảng cách giữa các bụi cỏ hái được và chú ý không lấy quá nhiều.
 
-Ngay cả Rina cũng biết vì sao họ lại làm theo cách đó—Rentt đã luôn dặn kỹ để cô khắc sâu tầm quan trọng của sự chừng mực khi làm các nhiệm vụ thu hái. Những loài thực vật có giá trị hay đóng vai trò thiết yếu trong việc cân bằng thảm thực vật của vùng mọc ở những địa điểm nhất định đều có lý do cả. Nếu chúng bị nhổ sạch sành sanh thì sẽ dẫn tới đủ thứ rắc rối. Thêm vào đó, đây cũng là cách làm thiển cận của mạo hiểm giả, bởi nó có thể đồng nghĩa với việc lần tới khi nhận công việc tương tự, họ sẽ chẳng còn tìm thấy cây cỏ ở đâu nữa.
+Ngay cả Rina cũng biết vì sao họ lại làm theo cách đó—Rentt đã luôn dặn kỹ để cô khắc sâu tầm quan trọng của sự chừng mực khi làm các nhiệm vụ thu hái. Những loài thực vật có giá trị hay đóng vai trò thiết yếu trong việc cân bằng thảm thực vật của vùng mọc ở những địa điểm nhất định đều có lý do cả. Nếu chúng bị nhổ sạch sành sanh thì sẽ dẫn tới đủ thứ rắc rối. Hơn nữa, làm vậy cũng là thiển cận với chính mạo hiểm giả, vì lần sau nhận công việc tương tự, họ sẽ chẳng còn tìm thấy cây cỏ ở đâu nữa.
 
 "Một mạo hiểm giả thông minh sẽ biết nhiều điểm thu hoạch khác nhau và luân chuyển giữa các điểm đó, chú ý không hái quá nhiều để phần còn lại có thể sớm mọc lại nhiều như cũ."
 
@@ -154,9 +154,9 @@ Rina cố hết sức giả vờ như không biết để không làm lộ bất
 
 "Quả đúng vậy. Nhìn cô giao đấu với Guster, tôi thấy một mạo hiểm giả Thiết Cấp như cô sở hữu bản lĩnh không tồi chút nào. Cô hạ gục kẻ địch trong màn đêm đen đặc dễ dàng như vậy, rõ ràng không đơn thuần chỉ nhờ vào ma cụ của cô. Không có giác quan nhạy bén cùng bản năng chiến đấu sắc sảo, cô không tài nào làm nổi chuyện đó. Thế nên tôi đoán nếu mình phóng sát khí ở đây, cô nhất định sẽ tới."
 
-A. Hóa ra cô ta nghĩ mình làm thế, Rina thầm nghĩ. Dù tầm nhìn ban đêm của Rina lúc này vượt trội hơn nhiều so với thời cô còn là con người, giúp cô nhìn rõ chẳng khác nào ban ngày, nhưng nó vẫn đủ khác biệt để đòi hỏi phải luyện tập mới quen được. Kể cả khi cô có một món ma cụ cho phép nhìn trong bóng tối, việc sử dụng nó cũng đòi hỏi phải rèn luyện.
+A. Hóa ra cô ta nghĩ mình làm được là nhờ thế, Rina thầm nghĩ. Dù tầm nhìn ban đêm của Rina lúc này vượt trội hơn nhiều so với thời cô còn là con người, giúp cô nhìn rõ chẳng khác nào ban ngày, nhưng nó vẫn đủ khác biệt để đòi hỏi phải luyện tập mới quen được. Kể cả khi cô có một món ma cụ cho phép nhìn trong bóng tối, việc sử dụng nó cũng đòi hỏi phải rèn luyện.
 
-Ma cụ và ma đạo cụ đồng nghĩa với việc tiêu hao Ma Lực, cùng nhiều yếu tố khác—tất cả đều là những thứ người ta phải kiểm soát bên cạnh mọi diễn biến xung quanh. Và nếu không có bản năng chiến đấu nhạy bén, rất khó để căn đúng thời điểm sử dụng chúng.
+Dùng ma cụ hay dụng cụ ma pháp đồng nghĩa với việc tiêu hao Ma Lực, cùng nhiều yếu tố khác—tất cả đều là những thứ người ta phải kiểm soát bên cạnh mọi diễn biến xung quanh. Và nếu không có bản năng chiến đấu nhạy bén, rất khó để căn đúng thời điểm sử dụng chúng.
 
 Từ những gì người phụ nữ lạ mặt này nói, cô ta rõ ràng tin rằng Rina đánh bại được Guster cùng đồng bọn là nhờ sở hữu một món ma cụ giúp nhìn trong bóng tối—xét ở một góc độ nào đó thì điều này cũng đúng được một nửa.
 

@@ -12,7 +12,7 @@ Ban đầu, điều đó chỉ dừng lại ở việc gia tăng thể lực và
 
 Nhờ cơ thể hiện tại, giấc ngủ không còn là thứ quá bức thiết với Rina như trước, nghĩa là cô có thể thức trắng nhiều ngày liền mà chẳng hề hấn gì. Việc dùng khoảng thời gian người thường ngủ say để trải qua quá trình khổ luyện gắt gao cũng chẳng thành vấn đề. Rina đã tiếp thu được rất nhiều điều từ các bài học ban đêm, và một trong những kỹ năng không thuộc về quái vật mà cô lĩnh hội được chính là cách đơn độc tác chiến chống lại số đông kẻ thù. Những gì thu hoạch được từ các buổi huấn luyện đó đã giúp ích cho cô rất nhiều khi nhóm cướp tấn công cô và Dorothea hôm nọ.
 
-Còn về bạn tập cùng cô, họ gồm những chiến b—à không, những gia nhân của Gia tộc Latuule, tính cả Isaac. Chỉ cần nhớ lại những buổi huấn luyện khốc liệt ấy thôi cũng đủ khiến Rina rùng mình—ai nấy đều lao vào cô bằng những đòn thế đoạt mạng. Dĩ nhiên họ không thực sự muốn giết cô... nhưng vào thời điểm đó, trước sát khí ngùn ngụt từ đối phương, cô đã thực sự đinh ninh rằng mình sắp chết tới nơi.
+Còn về bạn tập cùng cô, họ gồm những chiến bin—à không, những gia nhân của Gia tộc Latuule, tính cả Isaac. Chỉ cần nhớ lại những buổi huấn luyện khốc liệt ấy thôi cũng đủ khiến Rina rùng mình—ai nấy đều lao vào cô bằng những đòn thế đoạt mạng. Dĩ nhiên họ không thực sự muốn giết cô... nhưng vào thời điểm đó, trước sát khí ngùn ngụt từ đối phương, cô đã thực sự đinh ninh rằng mình sắp chết tới nơi.
 
 Các gia nhân của Gia tộc Latuule người nào người nấy đều có năng lực phi phàm. Nếu họ nghiêm túc chiến đấu, Rina tin chắc bất kỳ ai trong số họ cũng có thể tước mạng cô trong chớp mắt. Họ sử dụng thuần thục đủ loại vũ khí và liên tục tung ra hàng loạt ma pháp khác nhau nhắm vào cô, và dù mọi vết thương họ gánh chịu đều hồi phục trong nháy mắt, họ chẳng hề ỷ lại vào điều đó. Trái lại, họ áp đảo cô thuần túy bằng kỹ năng chiến đấu đỉnh cao.
 
@@ -44,7 +44,7 @@ Trạm gác ở thị trấn tiền đồn mà Rina và Dorothea đặt chân t�
 
 Một thị trấn tiền đồn nhỏ như nơi đây hầu như chẳng bao giờ phải đụng tới nhà lao. Cùng lắm nó chỉ đóng vai trò là nơi giam giữ qua đêm cho những gã say trong thị trấn hạ hỏa sau khi lính gác can thiệp vào vài vụ ẩu đả vớ vẩn nào đó ở quán rượu.
 
-Hôm nay thì khác. Ngay trước bậc thềm trạm gác xuất hiện một kẻ bất hảo đích thực là Guster, tên cướp mà Rina bắt sống hôm nọ. Sau khi đến thị trấn, cô cùng Dorothea đã bàn giao gã cho lính gác, giải thích rằng có kẻ đã thuê gã tấn công hai người và nhờ lính gác hỗ trợ truy tìm kẻ chủ mưu.
+Hôm nay thì khác. Ngay trước bậc thềm trạm gác là một kẻ bất hảo chính hiệu: Guster, tên cướp mà Rina bắt sống hôm nọ. Sau khi đến thị trấn, cô cùng Dorothea đã bàn giao gã cho lính gác, giải thích rằng có kẻ đã thuê gã tấn công hai người và nhờ lính gác hỗ trợ truy tìm kẻ chủ mưu.
 
 Bản thân sự xuất hiện của thảo khấu đã là chuyện hiếm ở vùng này, huống hồ một phạm nhân dính líu đến tình tiết phức tạp như vậy, nên đám lính gác đã khá bối rối khi tiếp nhận Guster. Thế nhưng, trong một diễn biến có phần hụt hẫng đến bất ngờ với họ, gã lại chẳng hề kháng cự lấy một chút nào.
 
@@ -116,7 +116,7 @@ Một lúc sau khi ăn xong, giữa lúc gã đang tựa lưng vào bức tườ
 
 Guster nghe thấy tiếng la hét và quát tháo vọng xuống từ phía trên. Người lính gác đang làm nhiệm vụ dưới tầng hầm cũng nghe thấy và vội vàng chạy lên kiểm tra, nhưng rồi chẳng thấy quay lại nữa.
 
-Một lát sau, Guster nghe thấy tiếng bước chân người đi xuống cầu thang. Gã thoáng tự hỏi liệu kẻ nào đó có phải đến để cứu mình hay không trước khi gạt phăng ý nghĩ ấy đi—Guster làm gì có ai chịu đến giải cứu gã như thế chứ. Lòng đầy bồn chồn, gã chờ đợi kẻ đột nhập trong buồng giam... rồi sững sờ trước những gì đập vào mắt.
+Một lát sau, Guster nghe thấy tiếng bước chân người đi xuống cầu thang. Gã thoáng tự hỏi liệu kẻ nào đó có phải đến để cứu mình hay không trước khi gạt phăng ý nghĩ ấy đi—đời nào lại có người chịu đến cứu một kẻ như gã chứ. Lòng đầy bồn chồn, gã chờ đợi kẻ đột nhập trong buồng giam... rồi sững sờ trước những gì đập vào mắt.
 
 "Chào anh. Trông anh vẫn khỏe nhỉ," người đàn ông từng thuê Guster cất tiếng. Đứng sau anh ta là một người khác tay cầm gậy phép—có lẽ là một ma pháp sư.
 
@@ -126,7 +126,7 @@ Thế nhưng, người đàn ông chỉ khẽ nghiêng đầu sang một bên. "
 
 Guster ngỡ ngàng. "Đó không phải là một đề nghị tồi, nhưng... e là lúc này tôi chẳng thấy mình làm nên trò trống gì đâu. Con nhỏ mạo hiểm giả đó tay nghề cao lắm. Bọn tôi có sáu người mà bị nó tóm gọn sạch bách."
 
-"Nhưng rốt cuộc cô ta cũng chỉ là mạo hiểm giả Thiết Cấp thôi, không phải sao? Người bạn đồng hành của tôi đây đã quan sát trận chiến của các anh, và có vẻ như cô mạo hiểm giả đó sở hữu thị lực ban đêm cực kỳ xuất sắc. Mặt khác, anh cùng đồng bọn về cơ bản chẳng khác nào những tấm bia ngắm... nhưng kết luận rút ra được là cô ta có mang ma cụ. Nếu giao chiến với cô ta vào ban ngày, rất có khả năng anh sẽ đánh bại cô ta mà chẳng gặp chút khó khăn nào."
+"Nhưng rốt cuộc cô ta cũng chỉ là mạo hiểm giả Thiết Cấp thôi, không phải sao? Người bạn đồng hành của tôi đây đã quan sát trận chiến của các anh, và có vẻ như cô mạo hiểm giả đó sở hữu thị lực ban đêm cực kỳ xuất sắc. Còn anh cùng đồng bọn thì chẳng khác nào những tấm bia sống... nhưng có thể kết luận là cô ta dùng ma cụ. Nếu giao chiến với cô ta vào ban ngày, rất có khả năng anh sẽ đánh bại cô ta mà chẳng gặp chút khó khăn nào."
 
 Ra là tên ma pháp sư đứng sau người đàn ông đã quan sát trận đánh? Nghĩ lại, Guster nhận ra con bé mạo hiểm giả đó đã di chuyển thoăn thoắt và săn lùng cả bọn bất chấp bóng đêm. Nhưng dù việc giải thích chuyện đó bằng một món ma cụ nghe có vẻ hợp lý, gã không sao xua đi được cảm giác rằng còn có uẩn khúc gì khác ở đây.
 

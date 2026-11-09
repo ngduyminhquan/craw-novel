@@ -6,11 +6,11 @@ Bóng người đơn độc ấy chắc chắn là kẻ đã nhận ủy thác c
 
 Dù nhìn kiểu gì đi nữa, cô gái đó rõ ràng còn trẻ hơn cả bản thân Dorothea.
 
-Ngay khi vừa nhìn thấy cô, cô gái dường như đã đoán ra Dorothea chính là thân chủ của mình. Cô gái liền đứng dậy khỏi ghế và bước lại gần.
+Vừa trông thấy Dorothea, cô gái dường như đã đoán ra đây chính là thân chủ của mình, liền đứng dậy khỏi ghế và bước lại gần.
 
 "Ừm, xin thứ lỗi, cô có phải là Dorothea Merrow không?" cô gái mỉm cười hỏi.
 
-Dorothea ra sức thúc đẩy những bánh răng đang đông cứng trong tâm trí quay trở lại. "Đ-Đúng vậy, là tôi... Có phải cô... đã nhận công việc tôi đăng không?"
+Dorothea ráng bắt những bánh răng đang đông cứng trong đầu chạy lại. "Đ-Đúng vậy, là tôi... Có phải cô... đã nhận công việc tôi đăng không?"
 
 "Đúng thế! Tôi là Rina Rupaage, mạo hiểm giả Thiết Cấp. Rất vui được gặp cô—và được làm việc cùng cô!"
 
@@ -82,7 +82,7 @@ Thế nhưng, khi nhìn kỹ lại nét mặt của cô gái, cô chẳng hề t
 
 Cảnh tượng ấy làm dịu đi dòng máu đang bốc lên đầu Dorothea, và cô quyết định trước tiên cứ hỏi Rina lý do đằng sau những đề xuất đó.
 
-"Tôi có thể hỏi lý do tại sao không? Cả hai tuyến đường đó đều là lựa chọn ngắn nhất để đến nơi tôi muốn, và tôi từng đi lại nhiều lần rồi. Nếu làm theo gợi ý của cô thì chuyến đi sẽ mất thêm đứt nửa ngày đấy."
+"Tôi có thể hỏi lý do tại sao không? Cả hai tuyến đường đó đều là lựa chọn ngắn nhất để đến nơi tôi muốn, và tôi từng đi lại nhiều lần rồi. Nếu làm theo gợi ý của cô thì chuyến đi sẽ mất thêm đứt nửa ngày đường đấy."
 
 Dorothea không hề nói quá để bác bỏ ý kiến của một kẻ nghiệp dư—đó là sự thật rành rành. Chưa kể chuyến đi càng kéo dài thì nguy cơ bị quái vật hay thổ phỉ tấn công càng cao. Rút ngắn hành trình hết mức có thể vốn là nguyên tắc căn bản.
 
@@ -126,7 +126,7 @@ So với điều đó, hiểu biết của mạo hiểm giả về tình hình t
 
 Nói ngắn gọn thì đây là canh bạc được ăn cả ngã về không.
 
-Dorothea biết bản thân mình đặc biệt dễ bị tổn thương trước những canh bạc như thế. Tuy nhiên, ít nhất thì... không như gã mạo hiểm giả cô thuê một tháng trước, Rina trông không có vẻ gì là kẻ gian dối. Trên thực tế, nếu Rina chỉ muốn tăng tiền thù lao hộ vệ, tất cả những gì cô ấy cần làm chỉ là im lặng và tiếp tục theo kế hoạch của Dorothea. Cả hai sẽ buộc phải quay đầu và đi đường vòng, khiến chuyến đi kéo dài thêm nhiều ngày, và cô ấy hoàn toàn có thể lấy đó làm lý do để đòi trả thêm tiền. Dorothea thậm chí sẽ chẳng trách móc cô ấy vì điều đó—trái lại, cô còn đồng ý tăng tiền thù lao nữa cơ. Xét cho cùng thì chuyện đó hoàn toàn sòng phẳng.
+Dorothea biết riêng bản thân mình thì càng không kham nổi những canh bạc kiểu này. Tuy nhiên, ít nhất thì... không như gã mạo hiểm giả cô thuê một tháng trước, Rina trông không có vẻ gì là kẻ gian dối. Trên thực tế, nếu Rina chỉ muốn tăng tiền thù lao hộ vệ, tất cả những gì cô ấy cần làm chỉ là im lặng và tiếp tục theo kế hoạch của Dorothea. Cả hai sẽ buộc phải quay đầu và đi đường vòng, khiến chuyến đi kéo dài thêm nhiều ngày, và cô ấy hoàn toàn có thể lấy đó làm lý do để đòi trả thêm tiền. Dorothea thậm chí sẽ chẳng trách móc cô ấy vì điều đó—trái lại, cô còn đồng ý tăng tiền thù lao nữa cơ. Xét cho cùng thì chuyện đó hoàn toàn sòng phẳng.
 
 Thế nhưng Rina đã không làm vậy.
 

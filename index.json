@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T05:30:10Z",
+  "generatedAt": "2026-11-09T05:34:31Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3802,55 +3802,55 @@
           "number": 275,
           "title": "Chương 275: Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_275.md",
-          "sha": "1209ceda5f8d38272a738e7d7e04c24e97c03cb6"
+          "sha": "b12c3c86d05c44939880d74a866e9aa518bccada"
         },
         {
           "number": 276,
           "title": "Chương 276: Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_276.md",
-          "sha": "3fed37b35fad9d16d2ae441036e4d6eaa94d048b"
+          "sha": "63e6233c2aece102a7cf4ef421280f8ba1f0236d"
         },
         {
           "number": 277,
           "title": "Chương 277: Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_277.md",
-          "sha": "c5c30a1220d19f147d8b9c72bdee7e6baf2b05fb"
+          "sha": "02723a9b3017357a5e321dbf4664f31e8d3cfe20"
         },
         {
           "number": 278,
           "title": "Chương 278: Chương đệm Tập 12 - Lựa Chọn Của Lorraine",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_278.md",
-          "sha": "756728b3d0455016115d1b01a6121a0502994984"
+          "sha": "115860dcd8f54fb7d337aba92bc66aa2583a2f6e"
         },
         {
           "number": 279,
           "title": "Chương 279: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_279.md",
-          "sha": "e06f9dbbaea890a0dfe71d188083d273714b1778"
+          "sha": "f83215c632ece4689095d4f7d4c1a4bf24d20cf9"
         },
         {
           "number": 280,
           "title": "Chương 280: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_280.md",
-          "sha": "1e79f84521e6b4a6fd02d16c6cbf692a73fd0e22"
+          "sha": "da6efd8aab4aa6342aea94232e0852ee841c429a"
         },
         {
           "number": 281,
           "title": "Chương 281: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_281.md",
-          "sha": "5b28b9de6562b9a3ed348531201a5633ccd85c27"
+          "sha": "182c78d45ea034263e7fed8a9471c02941d5987f"
         },
         {
           "number": 282,
           "title": "Chương 282: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_282.md",
-          "sha": "19dbc72865ae3801760e11144776f3192df026c6"
+          "sha": "980fbcb1845c965b355a8e2c215ae5ff9ca35548"
         },
         {
           "number": 283,
           "title": "Chương 283: Tập 12 Chương 4 - Trong Khi Đó, Các Đệ Tử... Phần 3 (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_283.md",
-          "sha": "f1fcdd2ada78ec2bf69f7bc1a6bd5363931c6dd6"
+          "sha": "abd0729044a940d516a5bef1fa2296853d59221b"
         }
       ]
     },

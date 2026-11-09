@@ -34,11 +34,11 @@ Về sau, đoán rằng họ có thể bắt đầu chán việc vung kiếm l�
 
 Có điều, bản thân Rina và Alize lại không nhận ra mình đã tiến bộ nhiều đến thế. Nguyên nhân là vì trong các trận đấu tập với Isaac, lần nào họ cũng bị đánh bại trong khoảng thời gian y hệt nhau. Dĩ nhiên, nếu chuyện đó làm họ nản lòng thì rất dở, nên trong lúc huấn luyện, anh luôn chú ý lồng vào những lời khen đúng lúc.
 
-Thế nhưng, những lời khích lệ như thế cũng chỉ có giới hạn, và rõ ràng giới hạn ấy đã chạm trần.
+Thế nhưng, những lời khích lệ như thế cũng chỉ có tác dụng tới một mức nào đó, và rõ ràng giờ đã chạm tới mức ấy rồi.
 
 "Rốt cuộc mình có mạnh lên chút nào không nhỉ...?"
 
-Tiếng lẩm bẩm của Rina vô cùng nhỏ, chỉ là lời tự nhủ thốt ra khẽ đến mức gần như chẳng ai nghe thấy—thế nhưng các giác quan sắc bén mà thân phận Ma Cà Rồng mang lại đã giúp Isaac bắt trọn từng từ. Thậm chí thính lực của anh nhạy bén đến mức chỉ cần muốn, một cây kim rơi ở bất cứ đâu trong toàn bộ dinh thự anh cũng có thể nghe thấy. Lời thì thầm của Rina với anh chẳng tốn chút công sức nào.
+Tiếng lẩm bẩm của Rina vô cùng nhỏ, chỉ là lời tự nhủ thốt ra khẽ đến mức gần như chẳng ai nghe thấy—thế nhưng các giác quan sắc bén mà thân phận Ma Cà Rồng mang lại đã giúp Isaac bắt trọn từng từ. Thậm chí thính lực của anh nhạy bén đến mức chỉ cần muốn, một cây kim rơi ở bất cứ đâu trong toàn bộ dinh thự anh cũng có thể nghe thấy. Nghe được lời thì thầm của Rina chẳng tốn của anh chút sức nào.
 
 Dĩ nhiên Isaac không thể ngó lơ chuyện này, nên anh cất tiếng: "Rina."
 

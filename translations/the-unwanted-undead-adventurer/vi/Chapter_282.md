@@ -106,7 +106,7 @@ Và giờ đây, cha lại bảo tôi kết hôn với con gái của đối th�
 
 Tôi bàng hoàng—thực sự bàng hoàng. Trong suốt cuộc đời mình, chưa bao giờ tôi có được một cơ hội ngàn vàng đến thế. Việc sinh ra là con trai của một đại thương nhân chẳng hề làm vơi bớt bất hạnh của tôi—bởi tôi chỉ là con thứ. Người mai này sẽ thừa kế mọi thứ là anh trai tôi.
 
-Nếu anh trai kém tài hơn tôi, có lẽ đó đã là một dạng cứu rỗi. Tôi hoàn toàn có thể hình dung ra cảnh mình vui vẻ phò tá anh ấy với tư cách cánh tay phải hay cố vấn, một thế giới nơi tôi có chút cảm giác hơn người mờ nhạt nhưng vẫn bị lu mờ trước tình huynh đệ keo sơn gắn bó.
+Nếu anh trai kém tài hơn tôi, có lẽ đó đã là một dạng cứu rỗi. Tôi hoàn toàn có thể hình dung ra cảnh mình vui vẻ phò tá anh ấy với tư cách cánh tay phải hay cố vấn, một thế giới nơi tôi được phép thoáng thấy mình hơn người một chút, nhưng cảm giác ấy rồi cũng sẽ nhạt nhòa trước tình anh em keo sơn.
 
 Thế nhưng, thực tế là anh trai tôi tài giỏi gấp trăm lần tôi, và chẳng có lĩnh vực nào tôi có thể sánh được với anh ấy—kể cả trong nghề thương nhân.
 
@@ -148,7 +148,7 @@ Theo lời chủ Thương hội Merrow, con gái ông ấy bỏ đi và nói r�
 
 Tôi thấu hiểu cảm giác của cô ấy. Tôi đồ rằng những cảm xúc tăm tối tôi dành cho anh trai và ước muốn rời đi cũng từng trỗi dậy trong lòng cô ấy, chỉ khác là cảm xúc của cô ấy hướng về người cha. Nếu cứ ở lại thương hội của cha, cô ấy sẽ chẳng bao giờ thoát ra khỏi cái bóng của ông ấy. Vì thế, cô ấy đã gom hết can đảm mà bước đi.
 
-Cô ấy đã làm được điều mà tôi không đủ sức làm. Tôi chỉ có thể bước chân vào nơi chưa biết sau khi cha tôi gợi mở khả năng đó, bảo đảm vị thế hiện tại của tôi vẫn được giữ nguyên, và trải sẵn đường cho những cơ hội tương lai. Với bất cứ thứ gì kém chắc chắn hơn thế, tôi đều không đủ dũng khí đón nhận.
+Cô ấy đã làm được điều mà tôi không đủ sức làm. Tôi chỉ dám bước vào chốn chưa biết sau khi cha gợi ra khả năng đó, đảm bảo vị trí hiện tại của tôi vẫn được giữ nguyên, và trải sẵn đường cho những cơ hội về sau. Với bất cứ thứ gì kém chắc chắn hơn thế, tôi đều không đủ dũng khí đón nhận.
 
 Chính vì thế, niềm kính trọng đối với con gái chủ Thương hội Merrow trào dâng trong lòng tôi.
 
@@ -160,11 +160,11 @@ Chính vì thế, niềm kính trọng đối với con gái chủ Thương hộ
 
 Mãi về sau tôi mới nhận ra, có khi lựa chọn tốt nhất lúc ấy là xin phép cả hai vị chủ thương hội cho tôi rời khỏi Thương hội Esol để bắt đầu lại từ đầu với tư cách một nhân viên của Thương hội Merrow.
 
-Thế nhưng, giờ thì đã quá muộn rồi. Trong một năm rưỡi trôi qua, chủ Thương hội Merrow đã có thêm một cậu con trai. Khoảng cách tuổi tác giữa hai chị em chỉ có thể xảy ra là nhờ vào mẹ của đứa bé: bà ấy là người vợ thứ hai, và trẻ hơn nhiều, của ông ấy.
+Thế nhưng, giờ thì đã quá muộn rồi. Trong một năm rưỡi qua, chủ Thương hội Merrow đã có thêm một cậu con trai. Hai chị em cách nhau xa đến vậy là vì mẹ của đứa bé: bà là vợ kế của ông ấy, trẻ hơn ông nhiều.
 
 Đương nhiên, sự chào đời của đứa bé đồng nghĩa với việc chuyện người kế vị của Thương hội Merrow đã ngã ngũ.
 
-Tôi thấy thanh thản với điều đó. Dù từng có một tương lai tôi trở thành người kế vị, nhưng cơ hội ấy đã là chuyện của quá khứ. Khả năng đó không còn tồn tại nữa, nên có ganh tị thì cũng chỉ uổng công vô ích. Dù sao thì phần lớn những cảm xúc độc ác trong tôi cũng đã tan biến khi nhìn thấy cha cùng chủ Thương hội Merrow thực lòng áy náy tận đáy lòng.
+Tôi thấy thanh thản với điều đó. Dù từng có một tương lai tôi trở thành người kế vị, nhưng cơ hội ấy đã là chuyện của quá khứ. Khả năng đó không còn tồn tại nữa, nên có ganh tị thì cũng chỉ uổng công vô ích. Dù sao thì phần lớn những cảm xúc độc ác trong tôi cũng đã tan biến khi thấy cha cùng chủ Thương hội Merrow áy náy từ tận đáy lòng.
 
 Thế nhưng... chẳng hiểu vì lý do gì, bóng tối lại một lần nữa nhuốm đen tâm can tôi.
 

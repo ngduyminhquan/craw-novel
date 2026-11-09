@@ -82,7 +82,7 @@ Những lời đầy điềm gở ấy chẳng thể lọt tới tai Rina.
 
 "Mong là không phải lại gặp một kẻ kỳ quặc nữa..." Dorothea lẩm bẩm.
 
-Dorothea Merrow là một thương nhân, hiện đang nằm trên giường trong căn phòng cô thuê tại một quán trọ, chăm chú nhìn vết ố trên trần nhà trông na ná khuôn mặt người. Còn về ý tứ của từ "kỳ quặc", cô đang ám chỉ gã mạo hiểm giả nam mà mình từng thuê làm hộ vệ cách đây một tháng tại Hội Mạo Hiểm Giả ở Zahak, một thị trấn tỉnh lỵ nằm ở phía tây Maalt.
+Dorothea Merrow, một thương nhân, đang nằm trên giường trong căn phòng cô thuê tại một quán trọ, chăm chú nhìn vết ố trên trần nhà trông na ná khuôn mặt người. Còn về ý tứ của từ "kỳ quặc", cô đang ám chỉ gã mạo hiểm giả nam mà mình từng thuê làm hộ vệ cách đây một tháng tại Hội Mạo Hiểm Giả ở Zahak, một thị trấn tỉnh lỵ nằm ở phía tây Maalt.
 
 Cũng như mọi thương nhân khác, công việc của Dorothea gắn liền mật thiết với những cá nhân được gọi là mạo hiểm giả. Dân buôn bán kiếm sống bằng cách rong ruổi từ thành phố này sang thành phố khác, từ làng này qua làng nọ, bán nhu yếu phẩm thường nhật, gom mua đặc sản địa phương rồi bán lại kiếm lời. Vì thế, yếu tố sống còn nhất trong công việc của họ chính là sự an toàn trên các tuyến đường di chuyển.
 
@@ -96,7 +96,7 @@ Mục tiêu đó chính là động lực thúc đẩy cô tách ra làm ăn đ�
 
 Gã mạo hiểm giả nam mà cô thuê một tháng trước đã coi thường cô, người thuê hắn, chỉ vì cô là phụ nữ, rồi vin vào đó để đòi tăng tiền thù lao. Trong hoàn cảnh bình thường, đó hoàn toàn là lý do chính đáng để hủy bỏ ủy thác ngay lập tức. Ngặt nỗi, hắn chỉ mở miệng nói chuyện đó khi chuyến hành trình đã đi được một nửa, đồng nghĩa với việc hủy hợp đồng ngay lúc ấy sẽ trực tiếp đẩy tính mạng của Dorothea vào vòng nguy hiểm. Vì thế, cô chẳng còn cách nào khác ngoài việc cắn răng chấp nhận các điều kiện của hắn.
 
-Sau khi hoàn thành công việc, Dorothea đã nộp đơn khiếu nại lên Hội, nhưng trước sự ấm ức của tất cả mọi người ngoại trừ gã mạo hiểm giả, vì cô đã chính thức đồng ý với các điều khoản của hắn và hắn cũng đã làm đúng mọi thủ tục, Hội đành chịu bó tay không thể đưa ra bất kỳ hình thức xử phạt nào.
+Sau khi hoàn thành công việc, Dorothea đã nộp đơn khiếu nại lên Hội, nhưng vì cô đã chính thức đồng ý với các điều khoản của hắn, còn hắn thì làm đúng mọi thủ tục, nên Hội đành bó tay, không thể xử phạt hắn dưới bất kỳ hình thức nào. Ai nấy đều ấm ức, trừ chính gã mạo hiểm giả.
 
 Nghĩ lại thì trước lúc lên đường, gã đàn ông đó đã tỏ ra tỉ mỉ và chi tiết một cách bất thường về các điều khoản chính xác của ủy thác. Té ra, sau khi bàn bạc về những trường hợp có thể khiến thù lao tăng lên rồi đưa vào văn bản cùng cô, hắn đã mang nó đến Hội và báo trước về "thỏa thuận" giữa hai người trước ngày khởi hành, rồi bóp méo lời nói khi không có mặt cô để phản bác.
 
@@ -120,7 +120,7 @@ Dorothea cũng khá thân thiết với một số nam thương nhân cùng tran
 
 Rốt cuộc thì người ta chỉ đơn giản là coi thường cô vì cô là phụ nữ. Đó là kết luận cô buộc phải rút ra, và cũng là điều cô hoàn toàn tin chắc. Mặc dù vậy, cô chẳng hề có ý định từ bỏ con đường thương nhân—trái lại, nghịch cảnh chỉ càng tiếp thêm động lực cho cô.
 
-Cô muốn đạt được mục tiêu bất chấp—không, chính vì những gì mình đã phải trải qua, và mỗi lần vấp phải một chướng ngại tương tự, ý chí trong cô lại càng thêm sắt đá. Vả lại, chỉ vì từng trải qua giai đoạn gian khó không có nghĩa là cô không thể rút ra bài học cho mình.
+Cô muốn đạt được mục tiêu bất chấp—không, chính là nhờ những gì mình đã phải trải qua, và mỗi lần vấp phải một chướng ngại tương tự, ý chí trong cô lại càng thêm sắt đá. Vả lại, chỉ vì từng trải qua giai đoạn gian khó không có nghĩa là cô không thể rút ra bài học cho mình.
 
 Dẫu vậy, điều đó không có nghĩa là cô có hứng thú thuê một mạo hiểm giả nam cho ngay công việc tiếp theo, đó là lý do cô yêu cầu một người phụ nữ đồng hành cùng mình. Dorothea biết số lượng nữ mạo hiểm giả ít hơn hẳn so với nam giới, đồng nghĩa với việc cô không thể biến chuyện này thành thói quen thường xuyên được. Nếu muốn duy trì suôn sẻ lịch trình buôn bán, cô không thể đưa ra những yêu cầu quá quắt.
 
@@ -130,7 +130,7 @@ Dù vậy, cũng chẳng có gì bảo đảm rằng các nữ mạo hiểm gi�
 
 Đúng lúc đó, có tiếng gõ cửa vang lên.
 
-"Mời vào," Dorothea cất tiếng, đồng thời ngồi dậy và bước tới mép giường.
+"Mời vào," Dorothea cất tiếng, đồng thời ngồi dậy, nhích ra mép giường.
 
 Cánh cửa mở ra, để lộ một nhân viên của quán trọ. "Có khách tìm cô, thưa cô. Cô ấy bảo mình là mạo hiểm giả đã nhận ủy thác của cô..."
 
