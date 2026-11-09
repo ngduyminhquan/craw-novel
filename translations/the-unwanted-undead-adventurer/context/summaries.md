@@ -957,3 +957,10 @@ Dorothea và Rina ghé ngôi làng miền núi thứ ba; Dorothea tiếp tục m
 Dorothea phát hiện loài cỏ afto có giá trị cao nhờ phát minh thuốc xua đuổi quái vật mới (Rina nhận ra chính là sản phẩm thí nghiệm từ tế bào của Rentt do Lorraine điều chế); Dorothea cùng lũ trẻ vào rừng hái cỏ với sự dẫn đường của thợ săn Zein, người khen ngợi kiến thức đi rừng uyên bác của Rina so với mạo hiểm giả vương đô.
 Cảm nhận được sự hiện diện đáng ngờ, Rina bảo Zein ở lại bảo vệ Dorothea và lũ trẻ rồi một mình tiến sâu vào rừng giáp mặt người phụ nữ trong trang phục ma pháp sư bí ẩn (Amapola).
 Cảnh kết thúc: Người phụ nữ thừa nhận cố tình phóng sát khí dụ Rina ra để tạo cơ hội cho Dieg và Guster tiếp cận bắt giữ Dorothea, đồng thời nhếch mép cười lộ rõ mưu đồ dàn xếp tai nạn hại cha Dorothea để đoạt lấy Thương hội Merrow.
+
+## 284
+Tại bãi cỏ afto, Dieg cùng Guster (đang kề dao uy hiếp con tin) bắt ép Dorothea đồng ý kết hôn và đe dọa cắt ngón tay đứa trẻ; Dieg ôm đầu đau đớn khi nhận ra sự phi lý trong hành vi của mình, còn Zein giương cung nhắm bắn thì bị Guster phóng dao găm phản đòn.
+Trong rừng, nữ ma pháp sư (Amapola) dùng ma pháp vô ngôn áp đảo Rina, nhưng bị Rina vờ bị thương để phản kích chém đứt đầu; ả tái tạo và khoe thể chất bất tử, song Rina liên tục chém đứt các chi cho tới khi năng lực tái tạo của ả cạn kiệt.
+Rina găm cái xác xuống đất rồi tra hỏi chiếc đầu rơi; ả thừa nhận dùng thuật mị hoặc thao túng Dieg nhằm tìm chốn dung thân dưới danh phận Ma Cà Rồng hoang (stray vampire) do không thuộc bất kỳ huyết tộc hay gia tộc nào.
+Cảnh kết thúc: Giữa lúc Rina trắc ẩn đắn đo nên xử lý hay thu phục ả thì một sự hiện diện bất ngờ xuất hiện sau lưng và lên tiếng hỏi liệu cô có cần giúp đỡ không.
+

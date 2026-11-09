@@ -853,31 +853,31 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276); thực chất là thiên kim tiểu thư Thương hội Merrow ở thành phố Mystera, trốn nhà làm thương nhân lữ hành (lộ ở #282), tự lập tách khỏi cha từ hai năm trước.
 - Tính cách: Chăm chỉ, tham vọng tích vốn mở cửa hàng riêng; thận trọng, cảnh giác nhưng ý chí mạnh, tự tôn nghề nghiệp cao; buôn bán khéo, tinh ý (xử lý kín đáo gian lận của trưởng làng, #282). Từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ, ép tăng thù lao (thị trấn Zahak, #276).
 - Quan hệ: Gặp Rina ở Maalt (#277), ban đầu lo vì Rina trẻ, chỉ Thiết Cấp, nhưng đồng cảm sự tự ti của Rina, phục thông tin thực tế và sự trung thực của cô nên thuê. Từng được cha hứa hôn với Dieg Esol (#282).
-- Trạng thái (đến #283): Biết mình bị kẻ bí ẩn thuê cướp ép bỏ nghề, loại trừ cha, vẫn đi tiếp (#280); giao Guster cho trạm lính gác (#281); buôn bán ở các làng miền núi (#282); đang vào rừng cùng Zein và lũ trẻ hái cỏ afto, bị Dieg và Guster nhắm tới khi Rina bị Amapola dụ đi (#283).
+- Trạng thái (đến #284): Bị Dieg và Guster uy hiếp tại bãi cỏ afto, kiên quyết từ chối yêu cầu kết hôn và chỉ trích sự biến chất của Dieg (#284).
 - Xuất hiện từ: #276.
 
 ### Guster
 - Thân phận: Nam, kiếm sĩ kiêm thủ lĩnh nhóm cướp quanh Làng Muga (kiếm sĩ, cung thủ, ma pháp sư); vốn dân làng nghèo (#279).
 - Tính cách: Thận trọng, đề cao quản lý rủi ro.
 - Vai trò: Nhận tiền của người đàn ông bí ẩn để cản trở, ép Dorothea bỏ nghề (#279).
-- Trạng thái (đến #283): Băng bị Rina diệt, bản thân bị bắt sống, khai hết (#280); bị Rina thao túng tâm trí, giao vào ngục trạm lính gác; được Dieg Esol và Amapola giải cứu, nhận phi vụ tấn công Dorothea ban ngày vì tưởng Rina chỉ dựa ma cụ nhìn đêm (#281); bám theo xe Dorothea (#282), chờ ra tay khi Rina bị dụ đi (#283).
+- Trạng thái (đến #284): Kề dao vào cổ con tin uy hiếp Dorothea theo lệnh Dieg; phóng dao găm phản đòn khi Zein giương cung nhắm bắn (#284).
 - Xuất hiện từ: #279.
 
 ### Dieg Esol
 - Thân phận: Nam, nhị thiếu gia Thương hội Esol lâu đời tại thành phố Mystera (#282).
 - Tính cách: Có tài kinh doanh nhưng bị cái bóng anh trai tài giỏi gấp trăm lần che khuất; từng định mưu hại anh để đoạt quyền thừa kế, đến khi được cha hứa hôn với Dorothea (#282).
 - Quan hệ: Khâm phục quyết tâm của Dorothea nên từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi (#282).
-- Trạng thái (đến #283): Bị Amapola thao túng tâm trí, mụ mẫm, đau đầu, mất dần ký ức; cùng Amapola cứu Guster và truy lùng Dorothea để ép cô bỏ nghề (#281–282); chờ ra tay khi Rina bị dụ đi (#283).
+- Trạng thái (đến #284): Xuất hiện tại bãi cỏ afto ép Dorothea kết hôn và ra lệnh cắt ngón tay con tin; thoáng nhận ra sự phi lý trong hành vi của mình do thuật mị hoặc của Amapola và ôm đầu đau đớn (#284).
 - Xuất hiện từ: #282.
 
 ### Amapola
-- Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, áo chùng ma pháp sư, tự xưng cánh tay phải của Dieg Esol (#282).
-- Vai trò: Kẻ giật dây — dùng ma pháp chi phối tâm trí Dieg (mâu thuẫn, đau đầu, mất ký ức về việc hợp tác); cùng Dieg cứu Guster, ép gã tiếp tục tấn công Dorothea (#281, #282).
-- Trạng thái (đến #283): Một mình đối mặt Rina trong rừng; thừa nhận cố tình phóng sát khí dụ Rina ra để Dieg, Guster ra tay với Dorothea; tiết lộ mưu đồ ép Dorothea cưới Dieg rồi dàn xếp tai nạn hại cha cô để đoạt Thương hội Merrow (#283).
+- Thân phận: Nữ, ma pháp sư lữ hành bí ẩn, thực chất là một Ma Cà Rồng hoang (stray vampire) không thuộc bất kỳ huyết tộc hay gia tộc nào (#284).
+- Vai trò: Kẻ giật dây — dùng thuật mị hoặc chi phối tâm trí Dieg Esol hòng đưa anh ta lên làm chủ thương hội để tìm chốn dung thân an toàn trong xã hội loài người (#282, #284).
+- Trạng thái (đến #284): Đấu với Rina trong rừng, dùng ma pháp vô ngôn; bị Rina phản kích chém đứt đầu và bào mòn cạn kiệt khả năng tái tạo; bị Rina găm xác xuống đất tra hỏi chiếc đầu rơi và van xin tha mạng (#284).
 - Xuất hiện từ: #282.
 
 ### Zein
 - Thân phận: Nam, thợ săn ở ngôi làng miền núi thứ ba, am hiểu rừng núi (#283).
 - Đặc điểm: Hồi trẻ sống gần vương đô, quen nhiều mạo hiểm giả; khen Rina là một trong những mạo hiểm giả giỏi nhất từng thấy (#283).
-- Trạng thái (đến #283): Đi cùng Dorothea, Rina bảo vệ lũ trẻ hái cỏ afto; ở lại canh gác Dorothea và lũ trẻ khi Rina đi đối phó quái vật (#283).
+- Trạng thái (đến #284): Cùng Dorothea và lũ trẻ bị Dieg, Guster uy hiếp; chớp thời cơ Dieg phân tâm để giương cung nhắm bắn Guster thì bị gã phóng dao găm phản đòn (#284).
 - Xuất hiện từ: #283.

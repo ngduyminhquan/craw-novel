@@ -553,6 +553,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zein | Rina Rupaage | tôi | cô | 283 | Thợ săn trong làng nói chuyện với nữ mạo hiểm giả bảo vệ lũ trẻ |
 | Amapola | Rina Rupaage | tôi | cô | 283 | Nữ ma pháp sư lữ hành khiêu khích nữ mạo hiểm giả |
 | Rina Rupaage | Amapola | tôi | cô | 283 | Nữ mạo hiểm giả chất vấn nữ ma pháp sư lữ hành bí ẩn |
+| Dieg Esol | Dorothea Merrow | tôi | cô / Dorothea | 284 | Nhị thiếu gia từng được hứa hôn ép nữ thương nhân quay về và kết hôn |
+| Dorothea Merrow | Dieg Esol | tôi | anh / Dieg | 284 | Nữ thương nhân cự tuyệt lời đe dọa của nhị thiếu gia |
 
 
 

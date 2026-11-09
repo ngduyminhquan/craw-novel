@@ -499,5 +499,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | poltorin flower | poltorin flowers | hoa poltorin | vật phẩm | 282 | Loài hoa có nhiều công dụng, dùng làm nguyên liệu chế tạo nước hoa |
 | afto grass |  | cỏ afto | vật phẩm | 283 | Loài thực vật dùng làm nguyên liệu cho thuốc xua đuổi quái vật mới |
 | monster repellent |  | thuốc xua đuổi quái vật | vật phẩm | 283 | Loại thuốc xua đuổi quái vật mới do Lorraine phát minh bằng tế bào của Rentt |
+| coven | covens | huyết tộc | tổ chức | 284 | Tổ chức hoặc nhóm quy tụ các Ma Cà Rồng dưới trướng một thủ lĩnh |
+| stray vampire | stray vampires | Ma Cà Rồng hoang | quái vật | 284 | Ma Cà Rồng không thuộc huyết tộc hay gia tộc nào, bị kẻ tạo tác bỏ mặc tự sinh tự diệt (野良吸血鬼) |
 
 
