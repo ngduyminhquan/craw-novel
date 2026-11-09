@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T10:36:36Z",
+  "generatedAt": "2026-11-09T10:42:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4005,6 +4005,12 @@
           "title": "Chương 307: Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_307.md",
           "sha": "9767df09dd6ac4776144e106341d35f7472ead7e"
+        },
+        {
+          "number": 308,
+          "title": "Chương 308: Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_308.md",
+          "sha": "fc39291ef980e430d03feca820e133dbb3d8ab7c"
         }
       ]
     },

@@ -524,6 +524,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | enchanted torch | magic torch; magical torch | đuốc ma thuật | vật phẩm | 302 | Cây đuốc ma cụ hoạt động bằng năng lượng từ Ma Tinh |
 | Lesser Skeleton Mage | lesser skeleton mage; lesser skeleton mages; Lesser Skeleton Mages; skeleton mage; Skeleton Mage | Hạ Cấp Khô Lâu Pháp Sư | quái vật | 303 | Phân loài Khô Lâu yếu nhất có khả năng thi triển ma thuật (下級スケルトンメイジ) |
 | lutedd herb | lutedd herbs; Lutedd herb; Lutedd herbs; lutedd | thảo dược lutedd | vật phẩm | 307 | Thảo dược quý hiếm mọc gần Làng Crask, dùng trong cơ chế động lực của máy móc nhỏ |
+| blacksmithing contest |  | cuộc thi rèn | khác | 306 | Cuộc thi tài nghệ rèn vũ khí và đồ tạo tác tổ chức tại thành phố mỏ Welfia |
 
 
 

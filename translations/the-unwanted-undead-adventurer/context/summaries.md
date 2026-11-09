@@ -1111,6 +1111,12 @@ Rentt giao nộp Ma Tinh cỡ lớn của Khô Lâu Kỵ Sĩ; Sheila thẩm đ�
 Rentt trở về nhà Lorraine và đưa cho cô xem chiếc cốc kim loại xỉn màu nhặt được ở hang động; Lorraine tò mò xem xét món quà tàn tạ và chuẩn bị pha trà để lắng nghe câu chuyện của Rentt.
 Cảnh kết thúc: Rentt ngồi xuống cùng Lorraine chuẩn bị thưởng trà và giãi bày ngọn ngành về chiếc cốc bí ẩn.
 
+## 308
+Rentt kể tóm tắt cho Lorraine nghe về ủy thác Làng Crask và nhờ cô thẩm định chiếc cốc nhặt được ở hang động; Lorraine nhận định chiếc cốc dẫn truyền được Ma Lực và mang cấu trúc độc lạ đáng nghiên cứu dù có thể chỉ là phế phẩm mê cung thông thường.
+Rentt tới tiệm rèn Ba Chĩa; Clope vì phân tâm bởi những bận lòng quá khứ nên rèn hỏng một thanh kiếm đại trà dưới phong độ thường ngày.
+Vào phòng sau, Clope ngỏ lời thuê Rentt làm hộ vệ đi cùng tới thành phố mỏ Welfia để tham dự cuộc thi rèn, trùng khớp với lịch trình dự thi thăng hạng Ngân Cấp của Rentt; Clope hé lộ mình từng học việc ở Welfia rồi bỏ trốn thành thợ rèn lang bạt.
+Cảnh kết thúc: Clope nhớ lại thời trẻ từng tự phụ nghĩ mình tiến bộ vượt bậc, trước khi vấp phải giới hạn tài năng trước những thiên tài thực thụ.
+
 
 
 
