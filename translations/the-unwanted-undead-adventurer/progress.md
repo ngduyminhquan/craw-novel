@@ -321,9 +321,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | reviewed |  |
 | 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | reviewed |  |
 | 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | reviewed |  |
-| 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | done |  |
-| 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | done |  |
-| 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | done |  |
+| 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | reviewed |  |
+| 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | reviewed |  |
+| 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | reviewed |  |
 | 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | todo |  |
 | 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | todo |  |
 | 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | todo |  |

@@ -14,9 +14,9 @@ Những kẻ bám theo ắt hẳn không ở quá gần, bởi khi ngoảnh lạ
 
 Thôi thì, chắc tôi nên mở lời trước vậy...
 
-"Tới đây là được rồi đấy," tôi nói. "Mấy người sao không bước ra đi? Ít nhất cũng phải làm vậy sau khi tôi đã có lòng cất công đến tận cái nơi u ám này chứ."
+"Tới đây là được rồi đấy," tôi nói. "Sao các người không bước ra đi? Ít nhất cũng phải làm vậy sau khi tôi đã có lòng cất công đến tận cái nơi u ám này chứ."
 
-Họ lặng lẽ bước ra lộ diện. Trang bị trên người họ chẳng có điểm gì đồng bộ, nhưng tôi nhìn ra ngay họ rất thành thạo việc dùng vũ khí. Dù đi tới đâu ta cũng có thể bắt gặp những người như thế này, và tôi đã quá quen thuộc với lối sống của họ.
+Họ lặng lẽ bước ra lộ diện. Trang bị trên người họ chẳng có điểm gì đồng bộ, nhưng tôi nhìn ra ngay họ rất thành thạo việc dùng vũ khí. Dù đi tới đâu người ta cũng có thể bắt gặp những người như thế này, và tôi đã quá quen thuộc với lối sống của họ.
 
 Họ là mạo hiểm giả.
 
@@ -32,7 +32,7 @@ Tôi không dám chắc sau này mình có gây thù chuốc oán gì không, nh
 
 Nếu có thể giải quyết chuyện này trong êm thấm thì tốt biết mấy, ngặt nỗi dường như họ lại có toan tính khác.
 
-"Chuyện này chẳng có thù hằn cá nhân gì đâu, anh bạn à. Bọn này chỉ thấy anh hào phóng ở sạp hàng rong lúc nãy thôi. Ý tôi là, hẳn ba đồng vàng cơ đấy? Cho một tên thú nhân? Bọn này tự hỏi liệu anh có thể chia sẻ chút lòng hảo tâm ấy cho những kẻ nghèo khổ đang túng thiếu như bọn này không."
+"Chuyện này chẳng có thù hằn cá nhân gì đâu, anh bạn à. Bọn này chỉ thấy anh hào phóng ở sạp hàng rong lúc nãy thôi. Hẳn ba đồng vàng cơ đấy? Lại còn đưa cho một tên thú nhân? Không biết anh bạn có thể chia sẻ chút lòng hảo tâm ấy cho mấy kẻ nghèo khổ đang túng thiếu như bọn này không nhỉ."
 
 À, hóa ra mục tiêu của họ là tiền. Phiền toái thật đấy. Hẳn họ đã quan sát rất kỹ lúc tôi trả tiền cho người bán hàng thú nhân dê—đến cả con số chính xác họ cũng nắm rõ.
 
@@ -52,7 +52,7 @@ Dẫu vậy, điều đó cũng chẳng làm thay đổi những gì tôi sắp 
 
 Tôi tuốt kiếm, lao nhanh về phía trước. Tôi đã nắm rõ trình độ của bọn họ rồi, và tôi sẽ không đả thương họ quá nặng... dẫu cho một trận đòn nhừ tử khiến họ phải nằm liệt giường một thời gian có lẽ cũng chẳng oan uổng gì. Tôi không muốn ra tay quá đà.
 
-Dẫn Ma Lực xuống chân, tôi lập tức thu hẹp khoảng cách với kẻ trước mặt. Bất thình lình chạm mặt chiếc mặt nạ đầu lâu của tôi, mắt hắn trợn trừng vì kinh hãi. Thanh kiếm trong tay hắn, dù vậy, vẫn còn đang vung dở giữa chừng.
+Dẫn Ma Lực xuống chân, tôi lập tức thu hẹp khoảng cách với kẻ trước mặt. Bất thình lình đối diện với chiếc mặt nạ đầu lâu của tôi, hắn trợn trừng mắt kinh hãi. Dù vậy, thanh kiếm trong tay hắn vẫn còn đang vung dở giữa chừng.
 
 "Phải nhanh hơn thế nữa chứ."
 
@@ -94,7 +94,7 @@ Cả hai đồng loạt đổ rạp xuống đất. Tại sao ư? Tôi có thể
 
 Một người đàn ông bước ra từ phía sau hai mạo hiểm giả vừa gục ngã. Đôi mắt có thể nhìn trong bóng tối giúp tôi nhận ra anh ta không phải con người, mà là một thú nhân.
 
-Nhân ảnh ấy sở hữu bộ lông đen tuyền, bóng mượt trông rất thích mắt nếu chạm vào, cùng đôi con ngươi loài mèo lấp lánh nổi bật giữa màn đêm tăm tối. Về vóc dáng, anh ta cao hơn người bình thường một chút, thân hình thon gọn, rõ ràng được rèn luyện để thiên về sự nhanh nhẹn hơn là sức mạnh cơ bắp thuần túy.
+Người đó có bộ lông đen tuyền, bóng mượt trông như chạm vào sẽ rất êm tay, cùng đôi con ngươi loài mèo lấp lánh nổi bật giữa màn đêm tăm tối. Về vóc dáng, anh ta cao hơn người bình thường một chút, thân hình thon gọn, rõ ràng được rèn luyện để thiên về sự nhanh nhẹn hơn là sức mạnh cơ bắp thuần túy.
 
 Nói tóm lại, anh ta có thực lực vượt trội hơn hẳn hai tên mạo hiểm giả vừa tấn công tôi. Nếu anh ta cũng có ý định tương tự, tôi sẽ phải dốc toàn lực.
 
@@ -146,7 +146,7 @@ Người đàn ông nhìn tôi với vẻ khó tin. "Anh đúng là người m�
 
 "À. Thì... trông anh đúng là đủ sức làm việc đó thật..."
 
-"Vậy dứt khoát thế đi nhé. Tôi sẽ vác hai tên này. Còn gã đầu tiên bị anh đánh gục giao cho anh đấy."
+"Vậy làm cho xong chuyện đi nhé. Tôi sẽ vác hai tên này. Còn gã đầu tiên bị anh đánh gục giao cho anh đấy."
 
 "Tôi hiểu rồi. Làm phiền anh quá."
 
@@ -166,29 +166,29 @@ Người đàn ông nhìn tôi với vẻ khó tin. "Anh đúng là người m�
 
 ◆◇◆◇◆
 
-Diego dẫn tôi đi xuyên qua các con hẻm, quẹo qua quẹo lại nhiều khúc quanh. "Đi đường lớn thì nhanh hơn," anh nói, "nhưng trong lúc vác theo đám này..."
+Diego dẫn tôi đi xuyên qua các con hẻm, quẹo qua quẹo lại nhiều khúc quanh. "Đi đường lớn thì nhanh hơn," anh ấy nói, "nhưng trong lúc vác theo đám này..."
 
 Quả thực, vác theo ba gã mạo hiểm giả bất tỉnh nhân sự thì chẳng đẹp mặt chút nào. Người ta sẽ tưởng chúng tôi là bọn bắt cóc mất. Dĩ nhiên nếu bị hỏi, chúng tôi có thể giải thích rõ sự tình, nhưng rồi cả đám sẽ bị lính canh điệu đi—bọn họ thì bị giam, còn chúng tôi thì bị thẩm vấn. Tôi muốn tránh rắc rối đó, nên việc luồn lách qua các ngõ hẻm phía sau lại rất hợp ý tôi.
 
 Vấn đề là tôi chẳng biết mình đang đi đâu. Biết đâu Diego lại là một tên tội phạm đang dẫn tôi thẳng tới chỗ đồng bọn của anh ta thì sao. Tôi chỉ có thể lặng lẽ đi theo.
 
-Dẫu vậy, tôi không nghĩ mình cần phải lo lắng về khả năng đó. Nếu mục đích của anh ta là thế, anh ta đã chẳng tốn công giải thích lý do chúng tôi phải đi đường hẻm. Dù sao đi nữa, trong trường hợp xấu nhất, kỹ năng Phân Liệt cũng sẽ giúp tôi thoát khỏi hầu hết mọi tình huống hiểm nghèo, kể cả những nơi mà một người bình thường không tài nào trốn thoát.
+Dẫu vậy, tôi không nghĩ mình cần phải lo lắng về khả năng đó. Nếu mục đích của anh ấy là thế, anh ấy đã chẳng tốn công giải thích lý do chúng tôi phải đi đường hẻm. Dù sao đi nữa, trong trường hợp xấu nhất, kỹ năng Phân Liệt cũng sẽ giúp tôi thoát khỏi hầu hết mọi tình huống hiểm nghèo, kể cả những nơi mà một người bình thường không tài nào trốn thoát.
 
 Nhưng xem ra tôi đã không nhìn lầm Diego, bởi sau nửa giờ đi bộ, chúng tôi đã tới nơi.
 
-"Mời vào," anh nói.
+"Mời vào," anh ấy nói.
 
-Chúng tôi đang đứng trước lối vào phía sau của một ngôi nhà bằng đá trông khá kiên cố. Dù đang vác thêm một người, anh vẫn khéo léo mở cửa và giữ lấy cánh cửa cho tôi. Tôi cảm thấy hơi ngại; tôi vốn chẳng nề hà việc bước vào trước.
+Chúng tôi đang đứng trước lối vào phía sau của một ngôi nhà bằng đá trông khá kiên cố. Dù đang vác thêm một người, anh ấy vẫn khéo léo mở cửa và giữ lấy cánh cửa cho tôi. Tôi cảm thấy hơi ngại; tôi vốn chẳng nề hà việc bước vào trước.
 
 "À, xin lỗi," tôi nói. "Để tôi làm cho."
 
-Tôi bước tới khép cửa lại sau khi Diego đã đi vào trong. Đi theo sau anh, tôi không khỏi trầm trồ khi thấy không gian tối om bên trong bắt đầu tự động bừng sáng theo từng bước chân chúng tôi tiến tới.
+Tôi bước tới khép cửa lại sau khi Diego đã đi vào trong. Đi theo sau anh ấy, tôi không khỏi trầm trồ khi thấy không gian tối om bên trong bắt đầu tự động bừng sáng theo từng bước chân chúng tôi tiến tới.
 
 "Thiết bị ma thuật của anh trông xa xỉ thật đấy," tôi nhận xét.
 
 Diego lắc đầu. "Chỉ là mấy món cổ vật cha tôi mang về từ mê cung thôi. Tôi chẳng có công cán gì trong chuyện này cả."
 
-"Vậy sao? Bác ấy là mạo hiểm giả à?"
+"Vậy sao? Ông ấy là mạo hiểm giả à?"
 
 "Từng là mạo hiểm giả, phải. Ông ấy cũng từng mở một tiệm tạp hóa... dù hiện tại tôi đã tiếp quản, dĩ nhiên rồi."
 
@@ -204,7 +204,7 @@ Hóa ra cha của Diego tên là Raul. "Sao các anh không đặt tên cho nó?
 
 "Như tôi đã nói đấy, đây chỉ là sở thích thôi. Vả lại, người bán đồ nguyền ở Lucaris thực ra khá có giá. À, phòng này đây."
 
-Dường như chúng tôi đã tới nơi cần đến. Diego bước tới chiếc ghế sô-pha ở giữa phòng rồi đặt hai gã mạo hiểm giả xuống, nên tôi cũng làm theo anh với gã của mình. Có điều thân xác của họ chiếm nhiều chỗ đến mức chẳng còn chỗ nào cho hai chúng tôi ngồi.
+Dường như chúng tôi đã tới nơi cần đến. Diego bước tới chiếc ghế sô-pha ở giữa phòng rồi đặt hai gã mạo hiểm giả xuống, nên tôi cũng làm theo anh ấy với gã của mình. Có điều thân xác của họ chiếm nhiều chỗ đến mức chẳng còn chỗ nào cho hai chúng tôi ngồi.
 
 Diego tìm đâu đó được một chiếc ghế rồi mang lại. "Trong hoàn cảnh này mà bảo anh cứ tự nhiên như ở nhà thì hơi kỳ quặc, nhưng mời anh ngồi. Tôi sẽ đi pha chút trà."
 
@@ -212,11 +212,11 @@ Diego tìm đâu đó được một chiếc ghế rồi mang lại. "Trong hoà
 
 "Không sao đâu—anh là khách mà. Ngồi đi."
 
-Để lại lời nhắn đó, Diego bước về phía nhà bếp. Tôi bỗng thấy hơi áy náy—tự dưng tôi từ đâu xộc tới, vậy mà giờ anh lại đối đãi với tôi lịch sự đến thế. Anh chẳng có lý do gì để đón tiếp tôi, huống hồ lại còn cưu mang thêm cả ba tên mạo hiểm giả này nữa.
+Để lại lời nhắn đó, Diego bước về phía nhà bếp. Tôi bỗng thấy hơi áy náy—tự dưng tôi từ đâu xộc tới, vậy mà giờ anh ấy lại đối đãi với tôi lịch sự đến thế. Anh ấy chẳng có lý do gì để đón tiếp tôi, huống hồ lại còn cưu mang thêm cả ba tên mạo hiểm giả này nữa.
 
-Diego từng bảo tôi là người mềm lòng, nhưng tôi bắt đầu tự hỏi liệu bản thân anh có phải cũng như vậy không.
+Diego từng bảo tôi là người mềm lòng, nhưng tôi bắt đầu tự hỏi liệu bản thân anh ấy có phải cũng như vậy không.
 
-Dẫu vậy, tôi rất biết ơn vì sự giúp đỡ của anh. Trong chừng mực có thể, tôi sẽ cố gắng không gây thêm phiền hà cho anh.
+Dẫu vậy, tôi rất biết ơn vì sự giúp đỡ của anh ấy. Trong chừng mực có thể, tôi sẽ cố gắng không gây thêm phiền hà cho anh ấy.
 
 Cạch. Một tách trà bốc khói nghi ngút được đặt lên bàn trước mặt tôi.
 
@@ -226,20 +226,20 @@ Cạch. Một tách trà bốc khói nghi ngút được đặt lên bàn trư�
 
 Do khí hậu, Ariana không phải là một trung tâm nông nghiệp lớn. Sự phát triển của đất nước này dựa vào nền kinh tế thương mại đang bùng nổ. Do đó, trà rất khó trồng ở đây, và sản phẩm làm ra cũng chẳng mấy thơm ngon.
 
-Thế nhưng, khi nhấp ngụm trà Diego đưa, một hương vị đặc trưng lan tỏa khắp khoang miệng và cánh mũi tôi. Xem ra anh không hề nói dối về việc nó là hàng nhập khẩu.
+Thế nhưng, khi nhấp ngụm trà Diego đưa, một hương vị đặc trưng lan tỏa khắp khoang miệng và cánh mũi tôi. Xem ra anh ấy không hề nói dối về việc nó là hàng nhập khẩu.
 
 "Một người bạn của tôi rất kỹ tính trong khoản thưởng trà, nên tôi cũng từng được nếm qua vài loại trà thượng hạng rồi," tôi nói. Đương nhiên, người tôi đang nhắc tới là Lorraine. "Nhưng loại này chẳng hề thua kém bất kỳ loại nào trong số đó đâu. Thưởng trà cũng là một sở thích của anh sao, Diego?"
 
-"Gì chứ, mặt tôi trông giống kẻ sành trà lắm à?" anh đáp. "Có đồ ngon thì dĩ nhiên tôi vẫn dùng, nhưng cũng chỉ đến thế thôi. Chỗ trà trộn này là do một người khách tặng tôi đấy."
+"Gì chứ, mặt tôi trông giống kẻ sành trà lắm à?" anh ấy đáp. "Có đồ ngon thì dĩ nhiên tôi vẫn dùng, nhưng cũng chỉ đến thế thôi. Chỗ trà trộn này là do một người khách tặng tôi đấy."
 
 "À, một trong những khách quen mà lúc nãy anh nhắc tới sao?"
 
-Điều đó có nghĩa là anh có những vị khách khá giả. Một thường dân thì không thể mang biếu loại trà hảo hạng cỡ này được. Cỡ như Lorraine thì có thể mua nổi, nhưng với phần lớn mọi người thì nó vượt quá túi tiền của họ.
+Điều đó có nghĩa là anh ấy có những vị khách khá giả. Một thường dân thì không thể mang biếu loại trà hảo hạng cỡ này được. Cỡ như Lorraine thì có thể mua nổi, nhưng với phần lớn mọi người thì nó vượt quá túi tiền của họ.
 
 "Đúng vậy. Việc những vị khách giàu có ghé thăm một tiệm nhỏ như chỗ tôi lạ lùng lắm sao?"
 
 "Hơi bất ngờ một chút, nhưng chưa đến mức gọi là kỳ lạ."
 
-Anh từng nhắc tới việc tiệm của mình chỉ là công việc phụ mở không cố định ngoài nghề chính. Ở Maalt thì người bán đồ nguyền rất hiếm, nhưng Lucaris có lẽ chẳng thiếu người làm nghề này để khách lựa chọn, và tôi chưa nhận thấy điều gì có thể khiến anh nổi bật hơn những người khác, thành thử tôi mới ngạc nhiên.
+Anh ấy từng nhắc tới việc tiệm của mình chỉ là công việc phụ mở không cố định ngoài nghề chính. Ở Maalt thì người bán đồ nguyền rất hiếm, nhưng Lucaris có lẽ chẳng thiếu người làm nghề này để khách lựa chọn, và tôi chưa nhận thấy điều gì có thể khiến anh ấy nổi bật hơn những người khác, thành thử tôi mới ngạc nhiên.
 
-"Tôi từng tu nghiệp tại đền thờ Thần Giám Định, nên có thể giám định nguyền phẩm ở mức độ nhất định," Diego giải thích. "Người ta coi trọng điều đó. Lucaris là một thành phố lớn, và chúng tôi có thừa những tay mắt nhìn sắc sảo, nhưng tôi là người bán đồ nguyền duy nhất chịu cất công học kỹ năng này. Vậy nên mới được như thế đấy."
+"Tôi từng tu nghiệp tại đền thờ Thần Giám Định, nên có thể giám định Nguyền Cụ ở mức độ nhất định," Diego giải thích. "Người ta coi trọng điều đó. Lucaris là một thành phố lớn, và chúng tôi có thừa những người có mắt nhìn sắc sảo, nhưng tôi là người bán đồ nguyền duy nhất chịu cất công học kỹ năng này. Vậy nên mới được như thế đấy."

@@ -2,7 +2,7 @@
 
 "Vậy nghĩa là anh là tư tế của Thần Giám Định sao?" tôi hỏi.
 
-"Làm gì được oai thế," Diego bảo. "Ý tôi là, giữa chừng thì tôi bị tống cổ ra ngoài rồi. Hẳn anh cũng đoán được họ khó chịu ra sao khi tôi cứ suốt ngày đem Nguyền Cụ ra giám định rồi đấy..."
+"Làm gì được oai thế," Diego bảo. "Giữa chừng là tôi đã bị tống cổ ra ngoài rồi. Hẳn anh cũng đoán được họ khó chịu ra sao khi tôi cứ suốt ngày đem Nguyền Cụ ra giám định rồi đấy..."
 
 Nghĩ lại thì, mấy vị tư tế tôi từng gặp cũng chẳng mấy ai mặn mà với Nguyền Cụ... "Phải," tôi đồng tình. "Các tư tế của Thần Giám Định nghiêm khắc về khoản đó lắm. Vậy là anh bảo dù biết thế mà ngày nào anh cũng cắm đầu vào nghiên cứu đồ nguyền à?"
 
@@ -10,23 +10,23 @@ Nghĩ lại thì, mấy vị tư tế tôi từng gặp cũng chẳng mấy ai m
 
 Giám định là một kỹ năng ai cũng có thể học được. Hội Mạo Hiểm Giả có những chuyên gia riêng, và nhiều thương nhân cũng nắm được ngón nghề này. Dẫu vậy, những bậc thầy hàng đầu thế giới vẫn là các tư tế phụng sự Thần Giám Định, và rất nhiều người đã tìm đến đền thờ của họ để xin học hỏi.
 
-Theo lời Diego thì anh cũng đã làm đúng như thế. Nhưng muốn học ngón nghề của họ thì người ta cũng phải trở thành tư tế—chứ ngoài ra họ nhất quyết không chịu truyền dạy. Nghĩ theo một góc độ thì điều đó cũng là lẽ đương nhiên. Thế nhưng, nếu Diego chịu gia nhập làm tư tế, chỉ để rồi suốt ngày cắm đầu nghiên cứu Nguyền Cụ tới mức bị trục xuất...
+Theo lời Diego thì anh ấy cũng đã làm đúng như thế. Nhưng muốn học ngón nghề của họ thì người ta cũng phải trở thành tư tế—chứ ngoài ra họ nhất quyết không chịu truyền dạy. Nghĩ theo một góc độ thì điều đó cũng là lẽ đương nhiên. Thế nhưng, nếu Diego chịu gia nhập làm tư tế, chỉ để rồi suốt ngày cắm đầu nghiên cứu Nguyền Cụ tới mức bị trục xuất...
 
 Phải nói rằng, một mạo hiểm giả như tôi hẳn sẽ vô cùng cảm kích nếu có được một người giám định sẵn lòng phân định mọi thứ cho mình, nhưng tôi dám chắc các vị tư tế lại nhìn nhận vấn đề theo cách hoàn toàn khác.
 
-"Anh không thấy tiếc sao?" tôi hỏi. Anh đã cất công gia nhập hàng ngũ tư tế chỉ để học thuật giám định. Chẳng lẽ thuở ban đầu, anh thực sự từng muốn dâng hiến cả đời cho con đường đó?
+"Anh không thấy tiếc sao?" tôi hỏi. Anh ấy đã cất công gia nhập hàng ngũ tư tế chỉ để học thuật giám định. Chẳng lẽ thuở ban đầu, anh ấy thực sự từng muốn dâng hiến cả đời cho con đường đó?
 
-Diego lắc đầu. "Chẳng tiếc gì đâu. Ngay từ đầu tôi học ngón này vốn chỉ để về Lucaris mở tiệm thôi mà. Lúc nào tôi cũng tính hễ học đủ rồi là quay về. Thật ra vì thấy thú vị hơn tưởng tượng nên tôi mới ở lại lâu hơn dự kiến một chút, thành thử bị đá đít đuổi đi lại hóa ra vừa khéo."
+Diego lắc đầu. "Chẳng tiếc gì đâu. Ngay từ đầu tôi học ngón này vốn chỉ để về Lucaris mở tiệm thôi mà. Lúc nào tôi cũng tính hễ học đủ rồi là quay về. Thật ra vì thấy thú vị hơn tưởng tượng nên tôi mới ở lại lâu hơn dự kiến một chút, thành thử bị đuổi đi lại hóa ra vừa khéo."
 
 "Thế sao lại là Lucaris? Có lý do gì đặc biệt khiến anh nặng lòng với thành phố này à?"
 
-Với trình độ giám định đủ giỏi để trở thành tư tế của Thần Giám Định, Diego hoàn toàn có thể mở tiệm ở một thành phố lớn hơn nữa và được săn đón nồng nhiệt, thế mà anh lại chỉ mở một tiệm nhỏ như thế này làm nghề tay trái. Mà thôi, tiệm này do cha anh truyền lại, nên có lẽ đó chính là lý do.
+Với trình độ giám định đủ giỏi để trở thành tư tế của Thần Giám Định, Diego hoàn toàn có thể mở tiệm ở một thành phố lớn hơn nữa và được săn đón nồng nhiệt, thế mà anh ấy lại chỉ mở một tiệm nhỏ như thế này làm nghề tay trái. Mà thôi, tiệm này do cha anh ấy truyền lại, nên có lẽ đó chính là lý do.
 
 "Đây là thành phố mà cha tôi đã sống trọn cả đời," Diego nói, xác nhận đúng phỏng đoán của tôi. "Vả lại..."
 
 "Vả lại sao?" tôi hỏi.
 
-"Tôi..." Diego ngập ngừng rồi lắc đầu. Xem chừng anh không định giãi bày thêm, bởi anh bỗng đột ngột chuyển đề tài. "Nói mới nhớ, Rentt này, lúc nãy anh bảo định dạy dỗ ba tên này đúng không?" Anh nhìn sang mấy gã đang nằm bất tỉnh trên ghế dài. "Anh tính làm gì chúng thế?"
+"Tôi..." Diego ngập ngừng rồi lắc đầu. Xem chừng anh ấy không định giãi bày thêm, bởi ngay sau đó đã đột ngột chuyển đề tài. "Nói mới nhớ, Rentt này, lúc nãy anh bảo định dạy dỗ ba tên này đúng không?" Anh ấy nhìn sang mấy gã đang nằm bất tỉnh trên ghế sô-pha. "Anh tính làm gì chúng thế?"
 
 "À, phải rồi. Trước mắt thì tôi định đợi chúng tỉnh lại rồi nghe ngô khoai câu chuyện từ phía chúng đã."
 
@@ -38,13 +38,13 @@ Với trình độ giám định đủ giỏi để trở thành tư tế của 
 
 "Ừ. Anh có biết về hải linh thảo không?"
 
-Chuyển đề tài hơi đột ngột thật, nhưng cũng như mọi chủ tiệm tạp hóa kiêm người giám định giỏi, Diego dường như rất am hiểu về thảo mộc. "Đó là một loại thảo dược mọc dưới đáy biển đúng không?" anh nói. "Thỉnh thoảng ngư nhân cũng thu hoạch chúng, nhưng ở Lucaris giỏi lắm cả năm mới thấy xuất hiện một lần. À—cơ mà tôi nghe đâu thỉnh thoảng người ta cũng tìm thấy chúng trong Mê Cung Các Con Gái Của Hải Thần đấy."
+Chuyển đề tài hơi đột ngột thật, nhưng cũng như mọi chủ tiệm tạp hóa kiêm người giám định giỏi, Diego dường như rất am hiểu về thảo mộc. "Đó là một loại thảo dược mọc dưới đáy biển đúng không?" anh ấy nói. "Thỉnh thoảng ngư nhân cũng thu hoạch chúng, nhưng ở Lucaris giỏi lắm cả năm mới thấy xuất hiện một lần. À—cơ mà tôi nghe đâu thỉnh thoảng người ta cũng tìm thấy chúng trong Mê Cung Các Con Gái Của Hải Thần đấy."
 
 "Anh rành rẽ thật đấy."
 
-"Anh nghĩ anh đang nói chuyện với ai chứ? Tôi là một người giám định tài ba từng trải qua biết bao khổ luyện đấy nhé!"
+"Anh nghĩ anh đang nói chuyện với ai chứ? Tôi là bậc đại tài giám định vĩ đại và lẫy lừng từng trải qua biết bao khổ luyện đấy nhé!"
 
-"Anh nói chẳng sai. Cơ mà tôi hơi ngạc nhiên khi thấy anh dám tự nhận mình là 'tài ba' đấy."
+"Anh nói chẳng sai. Cơ mà tôi hơi ngạc nhiên khi thấy anh dám tự nhận mình là 'vĩ đại và lẫy lừng' đấy."
 
 "Dù sao thì, chuyện hải linh thảo thế nào...?"
 
@@ -56,7 +56,7 @@ Chuyển đề tài hơi đột ngột thật, nhưng cũng như mọi chủ ti�
 
 "Đó là việc mà anh định bắt đám này làm đấy à?" Diego hoài nghi đánh giá mấy tên mạo hiểm giả đang bất tỉnh. "Anh chắc là chúng sẽ giúp ích được gì chứ?"
 
-Tôi hiểu cảm giác của anh. Người ta chẳng thể cứ ra lệnh cho ai đó đi tìm thảo dược rồi trông mong họ biết mình đang làm gì. Dẫu vậy, vì chỉ có đúng một loại cây, tôi hoàn toàn có thể nhồi những đặc điểm nhận dạng vào đầu chúng trước. Miễn sao tôi kiểm tra lại lần cuối những thứ chúng hái được thì mọi chuyện sẽ ổn thôi.
+Tôi hiểu cảm giác của anh ấy. Người ta chẳng thể cứ ra lệnh cho ai đó đi tìm thảo dược rồi trông mong họ biết mình đang làm gì. Dẫu vậy, vì chỉ có đúng một loại cây, tôi hoàn toàn có thể nhồi những đặc điểm nhận dạng vào đầu chúng trước. Miễn sao tôi kiểm tra lại lần cuối những thứ chúng hái được thì mọi chuyện sẽ ổn thôi.
 
 "Tôi không dám bảo mọi chuyện sẽ dễ dàng, nhưng tôi nghĩ có chúng giúp vẫn đỡ hơn là làm gánh nặng."
 
@@ -86,13 +86,13 @@ Tôi nghiêng đầu. "Cách để tới đó mà không cần thở ư?"
 
 Đừng bảo là biến thành Undead đấy nhé?!
 
-Đùa chút thôi, chứ tôi biết tỏng anh sẽ chẳng nói thế đâu. Nhân tiện thì, bản thân tôi thực ra đâu cần phải thở. Tôi hoàn toàn có thể tới được mê cung mà chẳng gặp chút trở ngại nào, nhưng tôi vẫn phải diễn cho tròn vai kẻo người đời lại sinh nghi. Không chỉ thế, giờ tôi còn tính lôi cả ba tên mạo hiểm giả đang bất tỉnh kia đi cùng, thành ra tôi phải tìm cách để chúng không bị chết đuối. Người ta có thể bảo rằng với những gì chúng định làm với tôi thì dẫu có bỏ mạng cũng chẳng kêu ca được câu nào, nhưng tôi đâu có bụng dạ tàn nhẫn đến mức đó.
+Đùa chút thôi, chứ tôi biết tỏng anh ấy sẽ chẳng nói thế đâu. Nhân tiện thì, bản thân tôi thực ra đâu cần phải thở. Tôi hoàn toàn có thể tới được mê cung mà chẳng gặp chút trở ngại nào, nhưng tôi vẫn phải diễn cho tròn vai kẻo người đời lại sinh nghi. Không chỉ thế, giờ tôi còn tính lôi cả ba tên mạo hiểm giả đang bất tỉnh kia đi cùng, thành ra tôi phải tìm cách để chúng không bị chết đuối. Người ta có thể bảo rằng với những gì chúng định làm với tôi thì dẫu có bỏ mạng cũng chẳng kêu ca được câu nào, nhưng tôi đâu có bụng dạ tàn nhẫn đến mức đó.
 
 Dù sao thì cũng chỉ là chưa có ý định lúc này thôi. Tùy theo tình thế, lựa chọn đó vẫn chưa hoàn toàn bị gạt khỏi bàn tính.
 
 "Không, làm gì có cách nào như thế," Diego nói. "Nhưng có cách để hít thở dưới nước đấy. Anh xem cái này đi."
 
-Anh lấy từ trên giá xuống một chiếc ống thủy tinh nhỏ và dài cỡ ngón áp út. Thoạt nhìn tôi cứ ngỡ nó bị ố bẩn, nhưng nhìn kỹ lại mới thấy trên bề mặt ngoài... không, là mặt trong của ống có khắc những ký hiệu ma pháp li ti, dày đặc. Rõ ràng đây là một...
+Anh ấy lấy từ trên giá xuống một chiếc ống thủy tinh nhỏ, thuôn dài và to cỡ ngón áp út. Thoạt nhìn tôi cứ ngỡ nó bị ố bẩn, nhưng nhìn kỹ lại mới thấy trên bề mặt ngoài... không, là mặt trong của ống có khắc những ký hiệu ma pháp li ti, dày đặc. Rõ ràng đây là một...
 
 "Đó là ma cụ sao?" tôi hỏi.
 
@@ -100,7 +100,7 @@ Anh lấy từ trên giá xuống một chiếc ống thủy tinh nhỏ và dài
 
 "Cái gì...?" Tôi vừa toan chạm vào thì vội thụt tay lại, sợ rằng nó sẽ dính chặt lấy mình.
 
-Diego bật cười. "Không sao đâu. Nguyền Cụ có đủ loại mà. Lời nguyền trên món này không thuộc dạng thông thường đâu, anh thấy đấy."
+Diego bật cười. "Không sao đâu. Nguyền Cụ có đủ loại mà. Lời nguyền trên món này không thuộc dạng thông thường đâu."
 
 "Anh chắc chứ?"
 
@@ -120,7 +120,7 @@ Dẫu vậy, việc người khác cầm mà không sao đâu có nghĩa là nó
 
 Chuyện Nguyền Cụ đem lại cho người dùng một lợi ích nào đó để đổi lấy việc tước đi một thứ khác là điều khá phổ biến—chẳng hạn như tăng cường thị lực vượt trội để đổi lấy việc mất đi thính lực, hoặc ngược lại. Người ta có thể dùng loại trước để do thám tầm xa, và dùng loại sau để lắng nghe lời truyền tin. Chúng thậm chí còn phát huy tác dụng khi cần ngăn chặn thị giác hoặc thính giác của bản thân.
 
-Nguyền Cụ không được lưu hành rộng rãi ở Maalt nên hầu như chẳng ai dùng, nhưng ở các thị trấn khác thì họa hoằn lắm cũng xuất hiện người dùng, thành ra việc nắm rõ về chúng là điều không thể thiếu. Tôi cảm thấy mình nên thay đổi ấn tượng về Ariana—người dân ở đây có lẽ dùng chúng khá thường xuyên. Rốt cuộc thì thành phố này có cả những người bán đồ nguyền như Diego—dù anh cứ khăng khăng gọi tiệm mình là tiệm tạp hóa.
+Nguyền Cụ không được lưu hành rộng rãi ở Maalt nên hầu như chẳng ai dùng, nhưng ở các thị trấn khác thì họa hoằn lắm cũng xuất hiện người dùng, thành ra việc nắm rõ về chúng là điều không thể thiếu. Tôi cảm thấy mình nên thay đổi ấn tượng về Ariana—người dân ở đây có lẽ dùng chúng khá thường xuyên. Rốt cuộc thì thành phố này có cả những người bán đồ nguyền như Diego—dù anh ấy cứ khăng khăng gọi tiệm mình là tiệm tạp hóa.
 
 Tôi hơi lo về khả năng sử dụng chiếc ống này của mình. Dù có đôi chút hiểu biết về Nguyền Cụ, tôi lại có quá ít kinh nghiệm thực tế với chúng. Cơ mà những thứ này cốt ở thời gian và luyện tập. Trừ phi thử nghiệm, bằng không tôi sẽ chẳng bao giờ nắm được mẹo dùng.
 
@@ -162,7 +162,7 @@ Tôi có cảm giác đây là một giới cạnh tranh khốc liệt chẳng k
 
 "Nếu vậy thì, anh có phiền nghe một thỉnh cầu của tôi không?"
 
-Cách Diego vào đề trơn tru đến mức suýt nữa thì tôi bỏ lỡ, dẫu tôi cũng đã lường trước chuyện tương tự. Rốt cuộc thì anh đâu thể giảm giá hời đến thế mà chẳng vì lý do gì, vả lại chính miệng anh cũng vừa thừa nhận rằng dân bán đồ nguyền là phường lắm mưu nhiều kế. Dù vậy, nghe thử một phen thì tôi cũng chẳng mất mát gì.
+Cách Diego vào đề trơn tru đến mức suýt nữa thì tôi bỏ lỡ, dẫu tôi cũng đã lường trước chuyện tương tự. Rốt cuộc thì anh ấy đâu thể giảm giá hời đến thế mà chẳng vì lý do gì, vả lại chính miệng anh ấy cũng vừa thừa nhận rằng dân bán đồ nguyền là phường lắm mưu nhiều kế. Dù vậy, nghe thử một phen thì tôi cũng chẳng mất mát gì.
 
 "Tôi có thể nghe anh nói, nhưng tôi không hứa trước là sẽ nhận lời đâu đấy," tôi rào trước.
 
@@ -190,6 +190,6 @@ Cũng như ma cụ, Nguyền Cụ là sản vật quen thuộc của mê cung. N
 
 "Vậy anh có nhận lời không?"
 
-Tôi không nhận thấy một mảy may dấu vết lừa dối nào trong nụ cười của Diego. Có lẽ anh vẫn còn điều gì đó chưa nói hết, nhưng xem chừng nó chẳng phải thứ gì gây hại cho tôi. Đã vậy thì tôi nghĩ cũng chẳng sao.
+Tôi không nhận thấy một mảy may dấu vết lừa dối nào trong nụ cười của Diego. Có lẽ anh ấy vẫn còn điều gì đó chưa nói hết, nhưng xem chừng nó chẳng phải thứ gì gây hại cho tôi. Đã vậy thì tôi nghĩ cũng chẳng sao.
 
 "Được thôi. Tôi đồng ý."

@@ -123,7 +123,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Yanshuf Fahalah | chàng trai trẻ / Yanshuf Fahalah / Yanshuf | 306 | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú, quyến thuộc của Arc Tahadu |
 | Hazara Feyvro | Hazara / người thợ rèn / người bạn đối thủ | 309 | Thợ rèn tại Welfia, bạn thân kiêm đối thủ thời trẻ của Clope |
 | Barzel Staro | Barzel Staro / thợ rèn trưởng / người thợ rèn già | 309 | Thợ rèn trưởng tại Welfia, sư phụ của Clope và Hazara |
-| Diego Malga | Diego / người đàn ông thú nhân / anh ta | 317 | Thú nhân mèo, mạo hiểm giả kiêm người bán đồ nguyền tại Lucaris |
+| Diego Malga | Diego / Diego Malga / người đàn ông thú nhân / anh ta / anh ấy | 317 | Thú nhân mèo, mạo hiểm giả kiêm người bán đồ nguyền tại Lucaris |
 | Raul | Raul / người cha | 317 | Cha quá cố của Diego Malga |
 | Niedz | Niedz / gã / người đàn ông / tên mạo hiểm giả | 317 | Mạo hiểm giả dẫn đầu nhóm bám đuôi cướp tiền của Rentt tại Lucaris |
 | Niedz | tôi / Niedz / gã / người đàn ông | 319 | Người kể chuyện ngôi thứ nhất ở chương đệm #319 |
@@ -640,7 +640,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lukas | Niedz | tôi | cậu / Niedz | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
 | Gahedd | Lukas | tôi | cậu / Lukas | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
 | Lukas | Gahedd | tôi | cậu / Gahedd | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
-| Niedz | Diego Malga | tôi | anh / Malga | 319 | Mạo hiểm giả cấp thấp bị bắt nói chuyện với chủ tiệm đồ nguyền |
+| Niedz | Diego Malga | tôi | anh / Malga / anh Diego | 319 | Mạo hiểm giả cấp thấp bị bắt nói chuyện với chủ tiệm đồ nguyền |
 | Diego Malga | Niedz | tôi | cậu | 319 | Chủ tiệm kiêm mạo hiểm giả nói chuyện với kẻ trấn lột vừa tỉnh dậy |
 | Rentt Faina | Niedz | tôi | cậu | 319 | Mạo hiểm giả tiền bối chăm sóc và thu nạp hậu bối |
 | Niedz | Rentt Faina | tôi | anh / Mặt Đầu Lâu / Đại ca Rentt | 319 | Kẻ trấn lột hoàn lương, kính phục Rentt sau khi được tha mạng và cho uống thuốc |

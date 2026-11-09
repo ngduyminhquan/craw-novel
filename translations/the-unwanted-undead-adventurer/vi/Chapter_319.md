@@ -34,7 +34,7 @@ Gahedd thuộc tuýp người cao gầy, dáng đi lúc nào cũng liêu xiêu n
 
 Lukas thì có ngoại hình trái ngược hẳn, vừa lùn vừa béo, nhưng cậu ta dũng cảm và sẵn sàng lao vào bất kỳ hiểm nguy nào trong lúc ngặt nghèo.
 
-Thực lực mạo hiểm giả của họ cũng chẳng khác tôi là bao, nên thỉnh thoảng ba đứa tụi tôi lập tổ đội khi có công việc đòi hỏi, và mối quan hệ giữa chúng tôi đại khái là như vậy.
+Thực lực mạo hiểm giả của họ cũng chẳng khác tôi là bao, nên thỉnh thoảng ba đứa chúng tôi lập tổ đội khi có công việc đòi hỏi, và mối quan hệ giữa chúng tôi đại khái là như vậy.
 
 Lukas là người vừa bắt chuyện với tôi trước bảng thông báo, nhưng chẳng mấy chốc Gahedd cũng bước lại nhập hội.
 
@@ -56,7 +56,7 @@ Chúng tôi chỉ nói đùa và tán gẫu chuyện tầm phào, nhưng những
 
 "Dù sao thì, tôi đi nhận ủy thác làm đây," tôi bảo.
 
-"Được thôi. Gặp l— Khoan đã." Lukas quay đầu nhìn về phía người đàn ông vừa bước vào Hội. "Người đó chẳng phải là...?"
+"Được thôi. Gặp lại— Khoan đã." Lukas quay đầu nhìn về phía người đàn ông vừa bước vào Hội. "Người đó chẳng phải là...?"
 
 Diện mạo kỳ dị của người đó khiến người ta khó mà biết chắc bên dưới lớp áo ấy có phải là đàn ông hay không, nhưng nhìn dáng đi, tôi đoán khả năng cao là vậy. Giọng nói cất lên khi người đó bắt đầu trò chuyện với cô tiếp tân càng củng cố thêm suy đoán của tôi.
 
@@ -100,7 +100,7 @@ Cả ba chúng tôi cùng rời khỏi Hội. Chúng tôi nhác thấy bóng gã
 
 Vừa đi, cái đầu tôi vừa dần nguội lại. Tôi nhận ra mình đã quá bực bội và túng quẫn đến mức để cảm xúc lôi kéo mình làm một chuyện ngu xuẩn. Thế nhưng, đúng lúc tôi định quay lưng rời đi thì gã đeo mặt nạ bất ngờ dừng bước.
 
-"Chỗ này được rồi đấy. Sao các người không ra mặt đi? Tôi đã cất công đi tới tận nơi âm u này theo ý các người rồi, chút việc đó là tối thiểu các người nên làm chứ nhỉ."
+"Tới đây là được rồi đấy. Sao các người không bước ra đi? Ít nhất cũng phải làm vậy sau khi tôi đã có lòng cất công đến tận cái nơi u ám này chứ."
 
 Hắn đang nói với chúng tôi. Giờ thì không còn đường lui nữa rồi. Chúng tôi bước ra khỏi bóng tối và đối mặt với hắn.
 
@@ -162,7 +162,7 @@ Thú nhân báo khá hiếm gặp, và tất cả những người thuộc chủ
 
 "Anh là... Malga...?" tôi hỏi.
 
-"Ồ, cậu biết tôi à?" Ánh mắt anh ta sắc sảo khi quan sát tôi kỹ càng.
+"Ồ, cậu biết tôi à?" Ánh mắt anh ta sắc bén khi quan sát tôi kỹ càng.
 
 "Tôi không nhớ là từng có vị khách nào như cậu ghé qua tiệm đâu đấy..."
 
@@ -170,19 +170,19 @@ Tôi cười cay đắng. "Gì thế, anh đang nói đùa đấy à? Một kẻ
 
 Malga ngẫm nghĩ một thoáng rồi quay sang Mặt Đầu Lâu. "Anh nghe thấy chưa hả, Đồng Cấp?"
 
-"Anh muốn tôi nói gì đây?" anh ấy bảo. "Cơ mà tôi hiểu ý cậu ta. Tôi cũng chỉ mới kiếm được chút tiền gần đây thôi. Tôi có của ăn của để như bây giờ cũng là nhờ vài vận may tình cờ cả."
+"Anh muốn tôi nói gì đây?" anh ta bảo. "Cơ mà tôi hiểu ý cậu ta. Tôi cũng chỉ mới kiếm được chút tiền gần đây thôi. Tôi có của ăn của để như bây giờ cũng là nhờ vài vận may tình cờ cả."
 
 "Vận may tình cờ à? Tôi đoán cuộc gặp gỡ của chúng ta cũng tính là một trong số đó đấy."
 
-"Anh nghĩ thế à...?" Mặt Đầu Lâu tiến lại gần tôi. "Này. Uống cái này đi. Tôi không cố ý đánh mạnh tay thế đâu. Chắc là lỡ tay mất kiểm soát một chút." Anh ấy chìa ra một chiếc cốc tỏa ra mùi hương của hoa cỏ và thảo mộc. Hương thơm ấy làm tôi liên tưởng đến mùi thuốc.
+"Anh nghĩ thế à...?" Mặt Đầu Lâu tiến lại gần tôi. "Này. Uống cái này đi. Tôi không cố ý đánh mạnh tay thế đâu. Chắc là lỡ tay mất kiểm soát một chút." Anh ta chìa ra một chiếc cốc tỏa ra mùi hương của hoa cỏ và thảo mộc. Hương thơm ấy làm tôi liên tưởng đến mùi thuốc.
 
 "Thứ gì thế này?" tôi hỏi.
 
 "Nước ngâm thảo dược thôi. Tác dụng không mạnh lắm đâu, chủ yếu để giúp cậu bình tâm lại. Dù sao thì có còn hơn không. Vả lại đây cũng coi như một chút thử nghiệm. Cứ uống đi."
 
-Khi anh ấy đưa chiếc cốc ra, tôi nhận ra anh ấy vừa chêm vào một câu nghe khá là rùng mình ở đoạn cuối. Tôi toan từ chối... nhưng rồi lại nhớ ra anh ấy đã hạ đo ván tôi chỉ bằng một đòn như thế nào.
+Khi anh ta đưa chiếc cốc ra, tôi nhận ra anh ta vừa chêm vào một câu nghe khá là rùng mình ở đoạn cuối. Tôi toan từ chối... nhưng rồi lại nhớ ra anh ta đã hạ đo ván tôi chỉ bằng một đòn như thế nào.
 
-Cơ thể tôi hẳn đã nhận ra theo bản năng rằng chống cự anh ấy là chuyện vô nghĩa đến nhường nào, bởi tôi ngoan ngoãn đón lấy chiếc cốc rồi kề lên miệng.
+Cơ thể tôi hẳn đã nhận ra theo bản năng rằng chống cự anh ta là chuyện vô nghĩa đến mức nào, bởi tôi ngoan ngoãn đón lấy chiếc cốc rồi kề lên miệng.
 
 Khi uống thứ nước ngâm thảo dược ấy, tôi bất ngờ trước vị ngon thanh mát sảng khoái lan tỏa khắp khoang miệng. Hơi ấm lan đều khắp cơ thể, và tôi có thể cảm nhận các cơ bắp cùng khớp xương của mình đang dần thả lỏng. Cơn đau nhức âm ỉ bên hông vốn nhức nhối từ lúc tôi tỉnh dậy cũng nhanh chóng tan biến.
 
@@ -192,4 +192,4 @@ Khi uống thứ nước ngâm thảo dược ấy, tôi bất ngờ trước v�
 
 Đó là cách tôi gặp gỡ Đại ca Rentt và anh Diego. Vào thời điểm ấy, tôi hoàn toàn chẳng hay biết số phận mình rồi sẽ trôi dạt về đâu. Tôi ngỡ mình sẽ bị giao nộp cho lính canh, bị bắt làm nô lệ, hay thậm chí là bị giết. Chẳng bao giờ tôi mảy may nghĩ tới bất kỳ khả năng nào khác.
 
-Trái lại, đó là khoảnh khắc mọi chuyện bắt đầu—khi tôi bắt đầu tin rằng có lẽ, chỉ là có lẽ thôi, những vận may tình cờ trên đời này thực sự có tồn tại.
+Trái lại, đó là khoảnh khắc mọi chuyện bắt đầu—khi tôi dần tin rằng có lẽ, chỉ là có lẽ thôi, những vận may tình cờ trên đời này thực sự có tồn tại.

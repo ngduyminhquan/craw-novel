@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T12:49:06Z",
+  "generatedAt": "2026-11-09T13:03:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4064,19 +4064,19 @@
           "number": 317,
           "title": "Chương 317: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_317.md",
-          "sha": "78a1bfa889e032ecbaacad3aa16a7bc3370b80f0"
+          "sha": "f9ac9a57e07d459525937b48afd4adfcabd79fdd"
         },
         {
           "number": 318,
           "title": "Chương 318: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_318.md",
-          "sha": "1937a796fb5063297e97e4f75985d719d206425c"
+          "sha": "89352a13d8153530a5f16b8bebc98baf6362836c"
         },
         {
           "number": 319,
           "title": "Chương 319: Chương đệm Tập 13 - Mạo Hiểm Giả Niedz",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_319.md",
-          "sha": "5268bd962ee486043d88bba51f8be72c4863201d"
+          "sha": "da8e2afdd26610502c85861877d085f77d8062da"
         }
       ]
     },
