@@ -161,6 +161,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Hazara Feyvro | Hazara | Hazara Feyvro | Thợ rèn tại thành phố mỏ Welfia, bạn thân kiêm đối thủ thời trẻ của Clope; hiện là phó thợ rèn trưởng của xưởng rèn | #309 |
 | Barzel Staro |  | Barzel Staro | Thợ rèn trưởng của xưởng rèn tại Welfia, sư phụ của Clope và Hazara Feyvro | #309 |
 | Reggie |  | Reggie | Dân làng Làng Hathara, người được Gilda hứa cho mứt hoa quả | #312 |
+| Malga |  | Malga | Thương nhân bán đồ nguyền (nguyền cụ / nguyền phẩm) tại Thành Phố Cảng Lucaris | #315 |
 
 
 
@@ -984,5 +985,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Dân làng Làng Hathara (#312).
 - Đặc điểm: Được Gilda hứa đem cho mứt hoa quả tự làm (#312).
 - Xuất hiện từ: #312 (qua lời nhắc của Gilda).
+
+### Malga
+- Thân phận: Thương nhân bán đồ nguyền (nguyền cụ / nguyền phẩm) tại Thành Phố Cảng Lucaris (#315).
+- Đặc điểm: Được lính gác cổng Lucaris nhắc tới khi Rentt hỏi về người có thể xử lý Nguyền Cụ (#315).
+- Xuất hiện từ: #315 (qua lời nhắc của lính gác).
+
 
 

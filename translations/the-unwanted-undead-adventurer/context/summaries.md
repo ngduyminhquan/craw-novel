@@ -1156,6 +1156,13 @@ Hỏi thăm tung tích Capitan, Rentt được bà Gharb cho biết Capitan đã
 Trong bữa tối cùng Lorraine và Ingo, cả ba bàn về chuyến đi ngày mai của Rentt tới Ariana—vùng đất do giới thương nhân quyền lực chi phối với thủ tục kiểm tra lỏng lẻo và buôn bán nhiều nguyền phẩm.
 Cảnh kết thúc: Lorraine dặn dò Rentt phải luôn mở to mắt cảnh giác và nhớ dùng ma pháp trận dịch chuyển để tẩu thoát nếu gặp nguy hiểm.
 
+## 315
+Rentt dùng Bản Đồ Akasha tra cứu điểm đến của các ma pháp trận dịch chuyển trong Thành Phố Mê Cung Của Hiền Vương Felt, cưỡi Shahor Melechnamer tới ma pháp trận dẫn tới Thành Phố Cảng Lucaris thuộc Cộng Hòa Hàng Hải Ariana.
+Sau khi dịch chuyển đến một hang động được bà Gharb yểm ma pháp che giấu, Rentt lần theo khứu giác Ma Cà Rồng ra khỏi rừng và tiến về tường thành Lucaris, nơi có đông đảo các chủng tộc thú nhân (thú nhân sói, thú nhân chim...) sinh sống nhộn nhịp.
+Tại cổng thành, lính gác yêu cầu tháo mặt nạ đầu lâu; sau màn dùng hết sức bình sinh giật thử bất thành, lính gác tin chiếc mặt nạ bị nguyền và gợi ý Rentt tìm gặp Malga người bán đồ nguyền để tìm cách giải trừ.
+Cảnh kết thúc: Rentt thuận lợi dùng thẻ Hội Mạo Hiểm Giả vào thành dưới danh nghĩa mạo hiểm giả kiêm dược sư học việc tới thám hiểm mê cung và tìm kiếm dược liệu.
+
+
 
 
 

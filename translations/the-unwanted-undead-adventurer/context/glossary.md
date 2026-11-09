@@ -532,6 +532,11 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ariana |  | Ariana | địa danh | 210 | Tên gọi ngắn của Cộng Hòa Hàng Hải Ariana |
 | sea spirit herb | sea spirit herbs; Sea Spirit Herb; Sea Spirit Herbs | hải linh thảo | vật phẩm | 314 | Loại thực vật biển quý hiếm dùng làm thuốc trị bệnh gỉ ma lực (海霊草) |
 | manarust disease | manarust | bệnh gỉ ma lực | khác | 314 | Chứng bệnh khiến Ma Lực đông kết tạo thành lớp màng như gỉ sét trên cơ thể (魔錆病) |
+| Lucaris |  | Lucaris | địa danh | 315 | Thành phố cảng sầm uất thuộc Cộng Hòa Hàng Hải Ariana |
+| Port City of Lucaris | the Port City of Lucaris | Thành Phố Cảng Lucaris | địa danh | 315 | Đô thị cảng giao thương sầm uất thuộc Cộng Hòa Hàng Hải Ariana |
+| wolffolk |  | thú nhân sói | chủng tộc | 315 | Phân loài thú nhân mang đặc điểm loài sói |
+| avianfolk |  | thú nhân chim | chủng tộc | 315 | Phân loài thú nhân mang đặc điểm loài chim |
+| curse vendor |  | người bán đồ nguyền | chức nghiệp | 315 | Người buôn bán Nguyền Cụ tại thành phố cảng Lucaris |
 
 
 
