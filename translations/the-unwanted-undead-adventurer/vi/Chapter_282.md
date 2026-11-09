@@ -8,7 +8,7 @@ Dorothea thì hiểu rõ hơn ai hết. "Ôi, các cháu làm tốt lắm," cô 
 
 Cô đưa ba đồng xu đồng cho lũ trẻ; chúng mừng rỡ đón lấy, chia đều cho nhau rồi chạy vụt đi.
 
-"Đúng là thảo dược zima với hoa poltorin thật, nhưng chỗ đó mà trả ba đồng xu đồng thì có hơi nhiều quá không cô?" Rina hỏi. "Nếu mua ở sạp hàng ngoài phố, tôi chỉ trả nhiều nhất là một đồng xu đồng thôi."
+"Đúng là thảo dược zima với hoa poltorin thật, nhưng chỗ đó mà trả ba đồng xu đồng thì có hơi nhiều quá không?" Rina hỏi. "Nếu mua ở sạp hàng ngoài phố, tôi chỉ trả nhiều nhất là một đồng xu đồng thôi."
 
 Hóa ra Rina lại thắt chặt hầu bao đến bất ngờ. Cơ mà cô từng kể hồi mới chập chững làm mạo hiểm giả, gom góp mãi mới đủ tiền trọ qua ngày, nên có lẽ đây là thói quen từ thuở ấy.
 
@@ -46,7 +46,7 @@ Chưa kể...
 
 "Cô Dorothea ơi! Cho tụi cháu xem hàng với được không ạ?!"
 
-Dựng chiếc quầy gỗ trước cỗ xe và bày biện một số hàng hóa lên trên xong, dân làng nườm nượp kéo đến mua sắm. Trong số đó có cả những cậu bé cô bé trạc tuổi lũ trẻ vừa bán thảo dược cho Dorothea, tay nắm chặt những đồng xu đồng.
+Sau khi dựng chiếc quầy gỗ trước cỗ xe và bày biện một số hàng hóa lên trên, chẳng mấy chốc dân làng đã nườm nượp kéo đến mua sắm. Trong số đó có cả những cậu bé cô bé trạc tuổi lũ trẻ vừa bán thảo dược cho Dorothea, tay nắm chặt những đồng xu đồng.
 
 Vì Rina vốn xuất thân quý tộc, cô được giáo dục bài bản và có thể làm những phép tính cần thiết cho việc mua bán hàng hóa. Vừa phát hiện ra điều đó, Dorothea liền nhờ Rina phụ giúp bán hàng.
 
@@ -54,7 +54,7 @@ Dù Dorothea ngỏ ý tăng thêm tiền công cho phần việc phát sinh, Rin
 
 "Có cơ hội kiếm thêm chút lời thì cứ nắm lấy chứ," Dorothea từng trêu cô.
 
-"Cơ mà đòi quá tay thì đối phương lại sinh lòng ấm ức," Rina đáp. "Tôi muốn tránh chuyện đó hơn. Việc gì cũng nên có chừng mực, phải không cô?"
+"Nhưng đòi quá tay thì đối phương lại sinh lòng ấm ức," Rina đáp. "Tôi muốn tránh chuyện đó hơn. Việc gì cũng nên có chừng mực, phải không?"
 
 "Tôi... đoán là cô cũng có lý."
 
@@ -100,21 +100,21 @@ Sở dĩ tôi nghĩ vậy là bởi cuộc hôn nhân đó không phải với c
 
 Dẫu vậy, tương lai chẳng bao giờ có gì chắc chắn. Xét về xu thế chung, so với gia tộc tôi—một cơ nghiệp lâu đời tại Mystera—ngôi sao mới nổi là Thương hội Merrow rõ ràng đang nắm ưu thế. Tôi biết từ lâu cha đã luôn lo lắng chuyện họ sẽ vượt mặt chúng tôi.
 
-Và giờ đây, ông lại bảo tôi kết hôn với con gái của đối thủ kinh doanh.
+Và giờ đây, cha lại bảo tôi kết hôn với con gái của đối thủ kinh doanh.
 
 Điều đó chỉ có thể mang một ý nghĩa duy nhất: tôi sẽ là người định đoạt cuộc cạnh tranh thương mại đang diễn ra tại thành phố Mystera này.
 
 Tôi bàng hoàng—thực sự bàng hoàng. Trong suốt cuộc đời mình, chưa bao giờ tôi có được một cơ hội ngàn vàng đến thế. Việc sinh ra là con trai của một đại thương nhân chẳng hề làm vơi bớt bất hạnh của tôi—bởi tôi chỉ là con thứ. Người mai này sẽ thừa kế mọi thứ là anh trai tôi.
 
-Nếu anh trai kém tài hơn tôi, có lẽ đó đã là một dạng cứu rỗi. Tôi hoàn toàn có thể hình dung ra cảnh mình vui vẻ phò tá anh với tư cách cánh tay phải hay cố vấn—một thế giới nơi tôi có chút cảm giác tự tôn mờ nhạt nhưng vẫn bị lu mờ trước tình huynh đệ keo sơn gắn bó.
+Nếu anh trai kém tài hơn tôi, có lẽ đó đã là một dạng cứu rỗi. Tôi hoàn toàn có thể hình dung ra cảnh mình vui vẻ phò tá anh ấy với tư cách cánh tay phải hay cố vấn, một thế giới nơi tôi có chút cảm giác hơn người mờ nhạt nhưng vẫn bị lu mờ trước tình huynh đệ keo sơn gắn bó.
 
 Thế nhưng, thực tế là anh trai tôi tài giỏi gấp trăm lần tôi, và chẳng có lĩnh vực nào tôi có thể sánh được với anh ấy—kể cả trong nghề thương nhân.
 
-Dưới sự chỉ dạy của cha, anh tôi không ngừng tích lũy kiến thức và bản lĩnh, rồi chỉ trong chớp mắt, anh ấy đã tự lực thu hút được những khách hàng và đối tác lớn. Gia nhân và người làm đều yêu mến anh, bản thân anh lại luôn dịu dàng với đứa em trai như tôi... Theo một nghĩa nào đó, anh ấy là một người anh trai lý tưởng.
+Dưới sự chỉ dạy của cha, anh tôi không ngừng tích lũy kiến thức và bản lĩnh, rồi chỉ trong chớp mắt, anh ấy đã tự lực thu hút được những khách hàng và đối tác lớn. Gia nhân và người làm đều yêu mến anh ấy, bản thân anh ấy lại luôn dịu dàng với đứa em trai như tôi... Theo một nghĩa nào đó, anh ấy là một người anh trai lý tưởng.
 
-Chính vì thế mà tôi căm ghét anh.
+Chính vì thế mà tôi căm ghét anh ấy.
 
-Giá như số phận nhân từ biến tôi thành một kẻ hoàn toàn bất tài, tôi tin mình sẽ chỉ biết cúi đầu ngoan ngoãn dõi theo con đường anh vạch ra. Ngặt nỗi, sự thật cay đắng là tôi cũng có chút tài năng buôn bán, dẫu ít ỏi. Dù chậm hơn anh vài năm và thành tích chẳng bao giờ sánh bằng, công việc tôi làm cho thương hội vẫn được đánh giá cao, và tôi đã leo lên được vị trí trọng yếu trong cơ nghiệp bằng chính thực lực của mình chứ chẳng phải nhờ cái bóng của cha.
+Giá như số phận nhân từ biến tôi thành một kẻ hoàn toàn bất tài, tôi tin mình sẽ chỉ biết cúi đầu ngoan ngoãn dõi theo con đường anh ấy vạch ra. Ngặt nỗi, sự thật cay đắng là tôi cũng có chút tài năng buôn bán, dẫu ít ỏi. Dù chậm hơn anh ấy vài năm và thành tích chẳng bao giờ sánh bằng, công việc tôi làm cho thương hội vẫn được đánh giá cao, và tôi đã leo lên được vị trí trọng yếu trong cơ nghiệp bằng chính thực lực của mình chứ chẳng phải nhờ cái bóng của cha.
 
 Có khi tôi thất bại lại tốt hơn.
 
@@ -130,37 +130,37 @@ Thế rồi, ngay trước thời khắc tôi chuẩn bị ra tay, cha lại bá
 
 Tôi coi đó là sự cứu rỗi. Một kẻ đã hạ quyết tâm sát hại chính ruột thịt của mình như tôi lại được trao cho cơ hội thứ hai. Dù là đứa con bất trị nhất trần đời và người em trai ngu xuẩn nhất trần gian, bên trong tôi vẫn còn sót lại chút tàn dư của trái tim con người. Tôi vẫn còn đủ xúc cảm để nếu có thể, tôi không hề muốn ra tay với máu mủ ruột rà.
 
-Nếu không bị lòng tham vô độ trói buộc, tôi cũng muốn được kề vai sát cánh cùng cha và anh trai đưa thương hội lên những tầm cao mới. Tôi căm ghét anh, nhưng tôi cũng yêu quý anh. Chính vì vậy, việc rời khỏi cơ nghiệp gia đình để nắm quyền chèo lái một thương hội ngang tầm sẽ là con đường cứu rỗi cho tôi.
+Nếu không bị lòng tham vô độ trói buộc, tôi cũng muốn được kề vai sát cánh cùng cha và anh trai đưa thương hội lên những tầm cao mới. Tôi căm ghét anh ấy, nhưng tôi cũng yêu quý anh ấy. Chính vì vậy, việc rời khỏi cơ nghiệp gia đình để nắm quyền chèo lái một thương hội ngang tầm sẽ là con đường cứu rỗi cho tôi.
 
 Thế nhưng...
 
 "Ta xin lỗi, cậu Dieg. Ta đã không thể cản con bé lại. Con gái ta... đã trốn nhà đi làm thương nhân lữ hành rồi."
 
-Chủ Thương hội Merrow cúi đầu xin lỗi tôi. Đứng bên cạnh, cha tôi trông có vẻ lúng túng chẳng biết phải xử trí tình thế ra sao. Dẫu vậy, sau một hồi đắn đo, ông cất lời với người đứng đầu Thương hội Merrow.
+Chủ Thương hội Merrow cúi đầu xin lỗi tôi. Đứng bên cạnh, cha tôi trông có vẻ lúng túng chẳng biết phải xử trí tình thế ra sao. Dẫu vậy, sau một hồi đắn đo, ông ấy cất lời với người đứng đầu Thương hội Merrow.
 
-"Chà, đành chịu vậy thôi," ông nói. "Một cuộc hôn nhân sắp đặt muốn thành thì cần rất nhiều yếu tố thuận lợi." Ông quay sang tôi. "Dieg à... thật đáng tiếc, nhưng cuộc đời là thế."
+"Chà, đành chịu vậy thôi," cha nói. "Một cuộc hôn nhân sắp đặt muốn thành thì cần rất nhiều yếu tố thuận lợi." Ông ấy quay sang tôi. "Dieg à... thật đáng tiếc, nhưng cuộc đời là thế."
 
-Cha đặt một tay lên vai tôi. Tôi có thể cảm nhận được sự dịu dàng và lời an ủi mà ông muốn truyền tải. Chủ Thương hội Merrow cũng tỏ ra thực lòng hối lỗi—tôi thấy rõ điều đó qua ánh mắt ông.
+Cha đặt một tay lên vai tôi. Tôi có thể cảm nhận được sự dịu dàng và lời an ủi mà ông ấy muốn truyền tải. Chủ Thương hội Merrow cũng tỏ ra thực lòng hối lỗi—tôi thấy rõ điều đó qua ánh mắt ông ấy.
 
 Bản thân tôi cũng đồng tình với cha; chuyện đã vậy thì đành chịu. Cuộc đời là thế.
 
-Theo lời chủ Thương hội Merrow, con gái ông bỏ đi và nói rằng muốn trở thành một thương nhân lữ hành. Dù ông đã lên kế hoạch từng bước chỉ bảo cô để chuẩn bị kế thừa thương hội, dường như cô lại mang trong mình tinh thần ưa mạo hiểm hơn ông tưởng. Đó là lý do cô rời đi: cô muốn tự mình thử sức.
+Theo lời chủ Thương hội Merrow, con gái ông ấy bỏ đi và nói rằng muốn trở thành một thương nhân lữ hành. Dù ông ấy đã lên kế hoạch từng bước chỉ bảo cô ấy để chuẩn bị kế thừa thương hội, dường như cô ấy lại mang trong mình tinh thần ưa mạo hiểm hơn ông ấy tưởng. Đó là lý do cô ấy rời đi: cô ấy muốn tự mình thử sức.
 
-Tôi thấu hiểu cảm giác của cô ấy. Tôi đồ rằng những cảm xúc tăm tối tôi dành cho anh trai và ước muốn rời đi cũng từng trỗi dậy trong lòng cô, chỉ khác là cảm xúc của cô hướng về người cha. Nếu cứ ở lại thương hội của cha, cô sẽ chẳng bao giờ thoát ra khỏi cái bóng của ông. Vì thế, cô đã gom hết can đảm mà bước đi.
+Tôi thấu hiểu cảm giác của cô ấy. Tôi đồ rằng những cảm xúc tăm tối tôi dành cho anh trai và ước muốn rời đi cũng từng trỗi dậy trong lòng cô ấy, chỉ khác là cảm xúc của cô ấy hướng về người cha. Nếu cứ ở lại thương hội của cha, cô ấy sẽ chẳng bao giờ thoát ra khỏi cái bóng của ông ấy. Vì thế, cô ấy đã gom hết can đảm mà bước đi.
 
 Cô ấy đã làm được điều mà tôi không đủ sức làm. Tôi chỉ có thể bước chân vào nơi chưa biết sau khi cha tôi gợi mở khả năng đó, bảo đảm vị thế hiện tại của tôi vẫn được giữ nguyên, và trải sẵn đường cho những cơ hội tương lai. Với bất cứ thứ gì kém chắc chắn hơn thế, tôi đều không đủ dũng khí đón nhận.
 
 Chính vì thế, niềm kính trọng đối với con gái chủ Thương hội Merrow trào dâng trong lòng tôi.
 
-"Ngài không cần phải xin lỗi đâu ạ," tôi thưa với ông. "Dù thật tiếc khi tôi và tiểu thư không thể kết hôn, nhưng tôi vô cùng khâm phục lòng can đảm của cô ấy khi dám từ bỏ thân phận người thừa kế một thương hội lớn để tự lực gầy dựng danh tiếng. Tôi tuyệt đối không có ý làm hoen ố quyết tâm ấy chỉ vì chuyện nhỏ nhặt như một hôn ước với kẻ bất tài như tôi. Vì vậy, xin ngài cứ coi như chuyện này đã xong xuôi. Và nếu tôi không quá đường đột, tôi xin chúc cô ấy sẽ gặt hái thành công trên con đường mình đã chọn."
+"Ngài không cần phải xin lỗi đâu ạ," tôi thưa với ông ấy. "Dù thật tiếc khi tôi và tiểu thư không thể kết hôn, nhưng tôi vô cùng khâm phục lòng can đảm của cô ấy khi dám từ bỏ thân phận người thừa kế một thương hội lớn để tự lực gầy dựng danh tiếng. Tôi tuyệt đối không có ý làm hoen ố quyết tâm ấy chỉ vì chuyện nhỏ nhặt như một hôn ước với kẻ bất tài như tôi. Vì vậy, xin ngài cứ coi như chuyện này đã xong xuôi. Và nếu tôi không quá đường đột, tôi xin chúc cô ấy sẽ gặt hái thành công trên con đường mình đã chọn."
 
 "Cậu quả là một chàng trai ưu tú, cậu Dieg," chủ Thương hội Merrow đáp lại. "Ta từng rất trông mong cậu sẽ cưới con gái ta và cùng con bé kế thừa cơ nghiệp này. Ta thực lòng xin lỗi."
 
-Ông cúi người thật sâu.
+Ông ấy cúi người thật sâu.
 
 Mãi về sau tôi mới nhận ra, có khi lựa chọn tốt nhất lúc ấy là xin phép cả hai vị chủ thương hội cho tôi rời khỏi Thương hội Esol để bắt đầu lại từ đầu với tư cách một nhân viên của Thương hội Merrow.
 
-Thế nhưng, giờ thì đã quá muộn rồi. Trong một năm rưỡi trôi qua, chủ Thương hội Merrow đã có thêm một cậu con trai. Khoảng cách tuổi tác giữa hai chị em chỉ có thể xảy ra là nhờ vào mẹ của đứa bé: bà là người vợ thứ hai—và trẻ hơn nhiều—của ông.
+Thế nhưng, giờ thì đã quá muộn rồi. Trong một năm rưỡi trôi qua, chủ Thương hội Merrow đã có thêm một cậu con trai. Khoảng cách tuổi tác giữa hai chị em chỉ có thể xảy ra là nhờ vào mẹ của đứa bé: bà ấy là người vợ thứ hai, và trẻ hơn nhiều, của ông ấy.
 
 Đương nhiên, sự chào đời của đứa bé đồng nghĩa với việc chuyện người kế vị của Thương hội Merrow đã ngã ngũ.
 

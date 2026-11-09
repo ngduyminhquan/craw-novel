@@ -1,14 +1,14 @@
 # Chương 281: Tập 12 Chương 3 - Trong Khi Đó, Các Đệ Tử... Phần 2 (3)
 
-Với Rina, chuyến đồng hành cùng Dorothea thực sự rất vui. Nữ thương nhân hiểu biết sâu rộng về đủ mọi lĩnh vực, nên những cuộc trò chuyện giữa hai người khiến mỗi đêm trôi qua chẳng bao giờ buồn chán. Hơn nữa, dù ban đầu cô ấy có đôi chút gai góc—đúng như lời dặn từ phía Hội—càng tiếp xúc nhiều với Dorothea, Rina càng hiểu rằng đó hoàn toàn không phải bản tính của cô, mà là hệ quả từ bao gian truân cô phải nếm trải trên con đường kinh doanh đã chọn. Nói ngắn gọn, Dorothea từng bị cuốn vào vô số vụ tranh chấp cùng những mánh lừa đảo nhiều đến mức phi lý, khiến cô đinh ninh rằng tất cả đều bắt nguồn từ sự non nớt cùng phận nữ nhi của mình. Trong hoàn cảnh ấy, ai có thể trách cô khi trở nên cảnh giác và khắt khe hơn với xung quanh cơ chứ?
+Với Rina, chuyến đồng hành cùng Dorothea thực sự rất vui. Nữ thương nhân hiểu biết sâu rộng về đủ mọi lĩnh vực, nên những cuộc trò chuyện giữa hai người khiến mỗi đêm trôi qua chẳng bao giờ buồn chán. Hơn nữa, dù ban đầu cô có đôi chút gai góc đúng như lời dặn từ phía Hội, càng tiếp xúc nhiều với Dorothea, Rina càng hiểu rằng đó hoàn toàn không phải bản tính của cô, mà là hệ quả từ bao gian truân cô phải nếm trải trên con đường kinh doanh đã chọn. Nói ngắn gọn, Dorothea từng bị cuốn vào vô số vụ tranh chấp cùng những mánh lừa đảo nhiều đến mức phi lý, khiến cô đinh ninh rằng tất cả đều bắt nguồn từ việc mình còn non kinh nghiệm lại là phụ nữ. Trong hoàn cảnh ấy, ai có thể trách cô khi trở nên cảnh giác và khắt khe hơn với xung quanh cơ chứ?
 
-Dẫu vậy, Dorothea vẫn chưa từng thôi cố gắng đặt niềm tin vào người khác—minh chứng là cô đã sẵn lòng thuê Rina, một mạo hiểm giả chỉ mang vỏn vẹn hàm Thiết Cấp. Thế nên, dù ban đầu Rina nhận ủy thác chỉ vì muốn tìm kiếm sự tự tin cho bản thân, giờ đây cô quyết tâm sẽ dốc hết sức mình để đền đáp một Dorothea đã đối đãi với cô tốt đến nhường này.
+Dẫu vậy, Dorothea vẫn chưa từng thôi cố gắng đặt niềm tin vào người khác, minh chứng là cô đã sẵn lòng thuê Rina, một mạo hiểm giả chỉ mới ở Thiết Cấp. Thế nên, dù ban đầu Rina nhận ủy thác chỉ vì muốn tìm kiếm sự tự tin cho bản thân, giờ đây cô quyết tâm sẽ dốc hết sức mình để đền đáp Dorothea vì đã đối đãi với cô tốt đến thế.
 
 Lẽ dĩ nhiên, sự đền đáp ấy đồng nghĩa với việc cô phải vận dụng mọi ngón nghề mình có trong tay. Rõ ràng cô sẽ đem kỹ năng mạo hiểm giả cùng kiếm thuật ra dùng, nhưng bên cạnh đó, Rina còn có ma pháp mà dạo gần đây cô đã dành rất nhiều thời gian mài giũa.
 
 Tuy nhiên, những kỹ năng đó thì mạo hiểm giả nào cũng có. Còn xét về những gì bản thân Rina có thể mang lại, cô sở hữu vài phẩm chất đặc biệt của riêng mình—mà nổi bật nhất trong số đó chính là các năng lực có được nhờ thân phận quái vật.
 
-Ban đầu, điều đó chỉ dừng lại ở việc gia tăng thể lực và Ma Lực tỷ lệ thuận với lượng máu hoặc thịt người mà cô hấp thụ, cho phép cô hoạt động trong thời gian dài hơn. Thế nhưng, nhờ quá trình rèn luyện tại dinh thự Latuule, hiệu quả của sự gia tăng đó đã được cải thiện đáng kể. Dĩ nhiên cô không luyện tập ở bất cứ nơi nào Alize có thể nhìn thấy—những buổi học của cô luôn diễn ra vào lúc nửa đêm.
+Ban đầu, điều đó chỉ dừng lại ở việc gia tăng thể lực và Ma Lực tỷ lệ thuận với lượng máu hoặc thịt người mà cô hấp thụ, cho phép cô hoạt động trong thời gian dài hơn. Thế nhưng, nhờ rèn luyện tại dinh thự Latuule, mức tăng cường đó đã hiệu quả hơn đáng kể. Dĩ nhiên cô không luyện tập ở bất cứ nơi nào Alize có thể nhìn thấy—những buổi học của cô luôn diễn ra vào lúc nửa đêm.
 
 Nhờ cơ thể hiện tại, giấc ngủ không còn là thứ quá bức thiết với Rina như trước, nghĩa là cô có thể thức trắng nhiều ngày liền mà chẳng hề hấn gì. Việc dùng khoảng thời gian người thường ngủ say để trải qua quá trình khổ luyện gắt gao cũng chẳng thành vấn đề. Rina đã tiếp thu được rất nhiều điều từ các bài học ban đêm, và một trong những kỹ năng không thuộc về quái vật mà cô lĩnh hội được chính là cách đơn độc tác chiến chống lại số đông kẻ thù. Những gì thu hoạch được từ các buổi huấn luyện đó đã giúp ích cho cô rất nhiều khi nhóm cướp tấn công cô và Dorothea hôm nọ.
 
@@ -22,7 +22,7 @@ Nhìn chung, những buổi tập luyện ban đêm tại dinh thự Latuule là
 
 Điển hình như đám cướp đêm hôm nọ—so với tài ẩn mình của Isaac và các gia nhân nhà Latuule, gã cung thủ trên cây chẳng khác nào đang phơi mình giữa thanh thiên bạch nhật—theo nhiều nghĩa, bởi đôi mắt của Rina cho phép cô nhìn rõ mồn một trong bóng tối. Về phần những kẻ còn lại, vì giao tranh giữa khu rừng tối tăm, chẳng ai trong số chúng có được tầm nhìn như cô. Tình cảnh chẳng khác nào đối đầu với những kẻ bị bịt mắt. Rốt cuộc, cô lần lượt tỉa bớt quân số của chúng, rồi vô hiệu hóa kẻ trông giống thủ lĩnh bằng một cú cắn vào sau gáy.
 
-Nếu Rentt làm điều tương tự—và có chủ đích làm vậy—thì bất kể nạn nhân là người hay quái vật, anh sẽ biến họ thành quyến thuộc như đã từng làm với Rina. Cô thì chưa đạt tới trình độ đó, song cô có thể chi phối hành động của đối phương ở một mức độ nhất định—kỹ thuật mà cô học được từ Isaac. Khi truyền dạy, anh ấy từng cho cô thực hành trên những con thú nhỏ do anh bắt về; trận đụng độ với đám cướp là lần đầu tiên cô dùng kỹ thuật này lên con người, nhưng kết quả lại thành công mỹ mãn. Guster ngoan ngoãn trả lời mọi câu hỏi của cô, và trong vài ngày tới, gã nhiều khả năng vẫn sẽ nghe theo lệnh của Rina.
+Nếu Rentt làm điều tương tự—và có chủ đích làm vậy—thì bất kể nạn nhân là người hay quái vật, anh sẽ biến họ thành quyến thuộc như đã từng làm với Rina. Cô thì chưa đạt tới trình độ đó, song cô có thể chi phối hành động của đối phương ở một mức độ nhất định—kỹ thuật mà cô học được từ Isaac. Khi truyền dạy, anh từng cho cô thực hành trên những con thú nhỏ do anh bắt về; trận đụng độ với đám cướp là lần đầu tiên cô dùng kỹ thuật này lên con người, nhưng kết quả lại thành công mỹ mãn. Guster ngoan ngoãn trả lời mọi câu hỏi của cô, và trong vài ngày tới, gã nhiều khả năng vẫn sẽ nghe theo lệnh của Rina.
 
 Thế nên dù Rina từng bảo với Dorothea rằng mình không thể làm gì thêm giúp cô, điều đó không hẳn hoàn toàn đúng—nhưng cô đâu thể hé răng với nữ thương nhân về những năng lực quái vật của mình. Dù sao Rina cũng chưa chắc liệu kế hoạch có mang lại kết quả hay không. Thay vì gieo cho Dorothea hy vọng quá sớm, Rina thấy việc truyền lại cho cô những kinh nghiệm nhận diện kẻ khả nghi và nhìn thấu phường lừa đảo sẽ thiết thực hơn nhiều. Dorothea hoàn toàn không hề bất cẩn về mặt đó, nhưng ở vị thế một mạo hiểm giả, Rina sành sỏi đường đi nước bước của giới côn đồ và đạo tặc hơn. Nếu cô truyền đạt những hiểu biết ấy cho Dorothea, nữ thương nhân hẳn sẽ bớt gặp rắc rối trong tương lai—ít nhất Rina mong là như vậy.
 
@@ -44,7 +44,7 @@ Trạm gác ở thị trấn tiền đồn mà Rina và Dorothea đặt chân t�
 
 Một thị trấn tiền đồn nhỏ như nơi đây hầu như chẳng bao giờ phải đụng tới nhà lao. Cùng lắm nó chỉ đóng vai trò là nơi giam giữ qua đêm cho những gã say trong thị trấn hạ hỏa sau khi lính gác can thiệp vào vài vụ ẩu đả vớ vẩn nào đó ở quán rượu.
 
-Hôm nay thì khác. Ngay trước bậc thềm trạm gác xuất hiện một kẻ bất hảo đích thực là Guster, tên cướp mà Rina bắt sống hôm nọ. Sau khi đến thị trấn, cô cùng Dorothea đã bàn giao gã cho lính gác, giải thích rằng có kẻ đã thuê gã tấn công họ và nhờ họ hỗ trợ truy tìm kẻ chủ mưu.
+Hôm nay thì khác. Ngay trước bậc thềm trạm gác xuất hiện một kẻ bất hảo đích thực là Guster, tên cướp mà Rina bắt sống hôm nọ. Sau khi đến thị trấn, cô cùng Dorothea đã bàn giao gã cho lính gác, giải thích rằng có kẻ đã thuê gã tấn công hai người và nhờ lính gác hỗ trợ truy tìm kẻ chủ mưu.
 
 Bản thân sự xuất hiện của thảo khấu đã là chuyện hiếm ở vùng này, huống hồ một phạm nhân dính líu đến tình tiết phức tạp như vậy, nên đám lính gác đã khá bối rối khi tiếp nhận Guster. Thế nhưng, trong một diễn biến có phần hụt hẫng đến bất ngờ với họ, gã lại chẳng hề kháng cự lấy một chút nào.
 
@@ -62,7 +62,7 @@ Tuy nhiên vùng này lại hẻo lánh hết mức có thể. Dù có một tuy
 
 Chiếu theo lệ đó, bình thường Guster hẳn đã bị xử tử tại chỗ. Thế nhưng vụ này lại có tình tiết giảm nhẹ. Vì gã hành động theo lệnh của kẻ khác, việc mở cuộc điều tra là điều cần thiết, đồng nghĩa với việc bản án của gã tạm thời được hoãn lại.
 
-Và điều này đã trở thành ngòi nổ châm ngòi cho biến cố diễn ra ngay trong đêm hôm đó...
+Và điều này đã trở thành chất xúc tác châm ngòi cho biến cố diễn ra ngay trong đêm hôm đó...
 
 ◆◇◆◇◆
 
@@ -118,7 +118,7 @@ Guster nghe thấy tiếng la hét và quát tháo vọng xuống từ phía tr�
 
 Một lát sau, Guster nghe thấy tiếng bước chân người đi xuống cầu thang. Gã thoáng tự hỏi liệu kẻ nào đó có phải đến để cứu mình hay không trước khi gạt phăng ý nghĩ ấy đi—Guster làm gì có ai chịu đến giải cứu gã như thế chứ. Lòng đầy bồn chồn, gã chờ đợi kẻ đột nhập trong buồng giam... rồi sững sờ trước những gì đập vào mắt.
 
-"Chào anh. Trông anh vẫn khỏe nhỉ," người đàn ông từng thuê Guster cất tiếng. Đứng sau ông ta là một người khác tay cầm gậy phép—có lẽ là một ma pháp sư.
+"Chào anh. Trông anh vẫn khỏe nhỉ," người đàn ông từng thuê Guster cất tiếng. Đứng sau anh ta là một người khác tay cầm gậy phép—có lẽ là một ma pháp sư.
 
 "Sao ông lại ở đây?" Guster gầm gừ. "Bọn tôi thất bại rồi. Còn tác dụng gì mà... À. Đến để bịt đầu mối chứ gì?" Nhận ra điều đó khiến Guster thầm nguyền rủa vận rủi chết tiệt của mình. Hẳn người đàn ông này đã theo dõi gã cùng đồng bọn suốt thời gian qua.
 
@@ -134,7 +134,7 @@ Tuy nhiên, Guster không nói ra mối hoài nghi của mình. Gã hiểu rằn
 
 "Được rồi, nghe ông vậy," Guster nói. "Tôi sẽ làm thêm một phi vụ cuối cùng. Sao lại không chứ? Đằng nào thì giờ tôi cũng chỉ là cái xác biết đi mà thôi."
 
-"Cảm ơn anh. Giờ thì..." Người đàn ông rút một chùm chìa khóa từ túi áo ngực ra rồi thử từng chiếc vào ổ khóa cửa buồng giam của Guster. Cuối cùng, ông ta cũng tìm thấy chiếc chìa đúng—với một tiếng cạch, cánh cửa bật mở, và Guster một lần nữa lại là một kẻ tự do.
+"Cảm ơn anh. Giờ thì..." Người đàn ông rút một chùm chìa khóa từ túi áo ngực ra rồi thử từng chiếc vào ổ khóa cửa buồng giam của Guster. Cuối cùng, anh ta cũng tìm thấy chiếc chìa đúng—với một tiếng cạch, cánh cửa bật mở, và Guster một lần nữa lại là một kẻ tự do.
 
 "Lũ lính gác trên tầng sao rồi?" Guster cảnh giác hỏi.
 
