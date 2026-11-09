@@ -66,7 +66,7 @@ Trong bất kỳ hoàn cảnh nào khác, thân xác của người đàn ông h
 
 Ánh sáng bùng nổ từ bàn tay cậu thiếu niên, và tất cả những gì người đàn ông có thể làm chỉ là trơ mắt nhìn. Mọi chuyện với gã coi như đã chấm dứt. Gã đã bị đày ải vào một cõi vĩnh hằng chỉ để ngắm nhìn phong cảnh ngoài lâu đài từ vị trí bên cánh cửa.
 
-Thế nhưng khi luồng sáng tan đi, thân xác của người đàn ông vẫn còn nguyên đó—cùng với một người khác đang đứng chắn phía trước. Bờ vai người này phập phồng sau khi gắng sức thi triển ma pháp Khiên Chắn có uy lực đáng sợ.
+Thế nhưng khi luồng sáng tan đi, thân xác của người đàn ông vẫn còn nguyên đó—cùng với một người khác đang đứng chắn phía trước. Bờ vai người này phập phồng sau khi gắng sức thi triển ma pháp khiên chắn có uy lực đáng sợ.
 
 Dẫu vậy ma pháp nhanh chóng vỡ vụn thành từng mảnh, và người thi triển—một chàng trai trẻ sở hữu dung mạo tuyệt mỹ—khuỵu gối xuống sàn. Một tầng mồ hôi lấm tấm trên vầng trán anh, nhưng điều đó chẳng hề làm vơi bớt nét cuốn hút của anh.
 
@@ -90,7 +90,7 @@ Cậu thiếu niên mỉm cười rồi quay sang chiếc đầu đứt lìa c�
 
 "Hiểu rồi sao? Thôi được, nể mặt Yanshuf, ta sẽ tha cho ngươi lần này. Ngươi sẽ không có cơ hội thứ hai đâu." Đoạn, một ý nghĩ dường như lóe lên trong đầu cậu thiếu niên: "A, ta biết rồi. Xem chừng ngươi đang ngứa ngáy muốn hành động lắm, hay là ta giao cho ngươi một việc nhé? Một việc ngay tại Yaaran, đúng như điều ngươi hằng tha thiết."
 
-"Bệ hạ muốn giao phó việc gì cho Tavas vậy ạ?" Yanshuf hỏi. "Như Người đã biết, cậu ấy vẫn còn non nớt."
+"Thưa Bệ hạ, Người muốn giao việc gì cho Tavas?" Yanshuf hỏi. "Như Người đã biết, cậu ấy vẫn còn non nớt."
 
 "Ồ, chẳng có gì quá khó khăn đâu. Vừa khéo thành phố mỏ Welfia sắp sửa tổ chức hai sự kiện đáng chú ý: một kỳ thi thăng hạng Ngân Cấp và một cuộc thi rèn. Kỳ thi trước thì lần này chẳng mấy quan trọng với chúng ta, nhưng sự kiện sau thì chắc chắn là có. Dù sao thì số lượng thợ rèn có khả năng rèn Huyết Binh đang ngày một sụt giảm mà." Cậu thiếu niên quay sang Tavas: "Ngươi sẽ đến cuộc thi đó và tìm kiếm những thợ rèn có triển vọng để thu nạp về phe chúng ta. Ta cho rằng chuyện này nằm trong khả năng của ngươi chứ?"
 
@@ -118,11 +118,11 @@ Và giờ đây, họ chẳng còn mối lo quái vật tập kích nào nữa. 
 
 Tôi thấu hiểu cảm giác đó, thế nên tôi vui vẻ nhận lời mời tham dự của họ. Đồ ăn ngon đến bất ngờ, nhất là khi nơi đây còn chưa hồi phục đủ để mọi người trở lại với nhịp sống thường nhật.
 
-Hẳn là Rivul đã nhận ra vẻ ngạc nhiên của tôi: "Bọn tôi sống ở chốn hẻo lánh này nên quen với cảnh thiếu thốn rồi anh," cậu giải thích. "Với lại tuy thực đơn chỉ toàn món của thợ săn chẳng có gì cầu kỳ... nhưng bọn tôi có sẵn nguyên liệu ngon để nấu nướng."
+Hẳn là Rivul đã nhận ra vẻ ngạc nhiên của tôi. "Chúng tôi sống ở chốn hẻo lánh này nên quen với cảnh thiếu thốn rồi anh," cậu ấy giải thích. "Với lại tuy thực đơn chỉ toàn món của thợ săn chẳng có gì cầu kỳ... nhưng chúng tôi có sẵn nguyên liệu ngon để nấu nướng."
 
 "Ồ, ra đây là thú rừng mới săn được hôm nay. Thảo nào mà ngon thế," tôi bảo. "Có điều dùng nhiều thế này liệu có ổn không? Mọi người không định tích trữ lại một ít à?"
 
-"Có lẽ vậy, nhưng nếu có ngày nào được phép xả láng thì chính là hôm nay rồi. Bọn tôi đang ăn mừng việc tự tay giành lại được ngôi làng của mình mà. Cách đây chưa lâu, bọn tôi còn ngỡ chẳng bao giờ có thể trở về được nữa. So với chuyện đó thì nỗi lo của ngày mai... ừ thì, cứ để ngày mai rồi tính. Mà tất cả đều là nhờ công của anh đấy, anh Rentt. Tôi thật lòng chẳng biết phải cảm ơn anh thế nào cho xiết."
+"Có lẽ vậy, nhưng nếu có ngày nào được phép ăn uống thoải mái một bữa thì chính là hôm nay rồi. Chúng tôi đang ăn mừng việc tự tay giành lại được ngôi làng của mình mà. Cách đây chưa lâu, chúng tôi còn ngỡ chẳng bao giờ có thể trở về được nữa. So với chuyện đó thì nỗi lo của ngày mai... ừ thì, cứ để ngày mai rồi tính. Mà tất cả đều là nhờ công của anh đấy, anh Rentt. Tôi thật lòng chẳng biết phải cảm ơn anh thế nào cho xiết."
 
 "Tôi đã bảo mãi rồi, mọi người cảm ơn tôi thế là quá đủ rồi mà."
 
@@ -134,7 +134,7 @@ Dù rằng đúng là tôi có làm khuyến mãi thêm vài phần việc lặt
 
 Tôi gật đầu: "Tính là vậy đấy. Công việc này mất nhiều thời gian hơn tôi dự tính, nhưng giờ mọi người đã an toàn trong thời gian tới rồi. Tôi cũng chẳng còn việc gì để làm ở đây nữa."
 
-"Thật thế sao anh? Mà anh đa tài thật đấy chứ. Tay nghề thợ mộc của anh chẳng hạn, làm khéo lắm luôn."
+"Thật thế sao anh? Mà anh đa tài thật đấy chứ. Tay nghề thợ mộc của anh chẳng hạn, khéo tay thật đấy."
 
 Những lúc thế này, toàn bộ những kỹ năng tôi tích lũy được trong suốt chặng đường làm mạo hiểm giả lại phát huy tác dụng. Tuy nhiên, dù có thể phụ giúp thêm một tay cho dân làng, tôi lại không có nhiều thời gian đến thế.
 
@@ -164,7 +164,7 @@ Xong xuôi chuyện đó, tôi còn phải trải qua quá trình thử nghiệm
 
 Đó là dự định sử dụng thời gian của tôi cho tới khi kỳ thi thăng hạng Ngân Cấp diễn ra, và nếu muốn bắt tay vào việc, tôi cần phải trở về Maalt càng sớm càng tốt.
 
-Tôi giải thích đại khái như vậy với Rivul, và cậu gật đầu đáp lại: "Anh đi thì tôi buồn thật đấy, nhưng anh đâu thể ở lại đây mãi được," cậu nói. "Bọn tôi cũng sẽ dốc hết sức để xây dựng lại ngôi làng, vậy nên anh hãy cố hết sức cho kỳ thi thăng hạng Ngân Cấp nhé, anh Rentt! Bọn tôi luôn cổ vũ cho anh!"
+Tôi giải thích đại khái như vậy với Rivul, và cậu ấy gật đầu đáp lại. "Anh đi thì tôi buồn thật đấy, nhưng anh đâu thể ở lại đây mãi được," cậu ấy nói. "Chúng tôi cũng sẽ dốc hết sức để xây dựng lại ngôi làng, vậy nên anh hãy cố hết sức cho kỳ thi thăng hạng Ngân Cấp nhé, anh Rentt! Chúng tôi luôn cổ vũ cho anh!"
 
 "Này, câu đó phải để tôi nói mới đúng chứ. Khi nào lên được Ngân Cấp nhất định tôi sẽ ghé lại đây một chuyến—lúc đó nhớ đãi tôi món gì đấy nhé, được không?"
 

@@ -876,7 +876,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Yanshuf Fahalah
 - Thân phận: Nam, Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú (#306).
 - Quan hệ: Quyến thuộc ("con") trực tiếp của Vua Ma Cà Rồng Arc Tahadu, "cha" của Tavas (#306). Trung thành tuyệt đối với Arc Tahadu, sẵn sàng hy sinh thân xác vì mệnh lệnh của Bệ Hạ, nhưng cũng hết lòng bảo vệ con mình (#306).
-- Năng lực: Thi triển ma pháp Khiên Chắn (Shield) cực mạnh ngăn đòn hủy diệt của Arc Tahadu (#306).
+- Năng lực: Thi triển ma pháp khiên chắn cực mạnh ngăn đòn hủy diệt của Arc Tahadu (#306).
 - Xuất hiện từ: #306.
 
 ### Dorothea Merrow

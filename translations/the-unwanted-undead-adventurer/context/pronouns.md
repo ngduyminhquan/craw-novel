@@ -619,7 +619,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Arc Tahadu | Tavas | ta | ngươi | 306 | Vua Ma Cà Rồng tra hỏi và răn đe thuộc hạ cấp cháu |
 | Tavas | Arc Tahadu | tôi | Bệ hạ / Ngài Arc / Ngài | 306 | Thuộc hạ cấp cháu run rẩy phục tùng Vua Ma Cà Rồng |
 | Arc Tahadu | Yanshuf Fahalah | ta | ngươi / Yanshuf | 306 | Vua Ma Cà Rồng nói chuyện với thuộc hạ cấp con |
-| Yanshuf Fahalah | Arc Tahadu | tôi | Bệ hạ / Ngài | 306 | Thuộc hạ cấp con cung kính tuyệt đối, sẵn sàng chết thay con mình |
+| Yanshuf Fahalah | Arc Tahadu | tôi | Bệ hạ / Người | 306 | Thuộc hạ cấp con cung kính tuyệt đối, sẵn sàng chết thay con mình |
 | Yanshuf Fahalah | Tavas | tôi | cậu / Tavas | 306 | Ma Cà Rồng cấp cha cảnh báo thuộc hạ cấp con |
 
 

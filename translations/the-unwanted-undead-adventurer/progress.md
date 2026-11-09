@@ -309,9 +309,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | reviewed |  |
 | 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | reviewed |  |
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | reviewed |  |
-| 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | done |  |
-| 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | done |  |
-| 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | done |  |
+| 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | reviewed |  |
+| 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | reviewed |  |
+| 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | reviewed |  |
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | todo |  |
 | 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | todo |  |
 | 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | todo |  |

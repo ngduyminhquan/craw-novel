@@ -2,11 +2,11 @@
 
 "Giờ thì sẽ không còn con Khô Lâu nào tấn công làng chúng tôi nữa, đúng không anh?"
 
-Rivul trông có vẻ hơi bất an. Cũng chẳng có gì ngạc nhiên khi đây là mối bận tâm hàng đầu đối với làng của cậu ấy. Nỗi bất an của cậu hẳn bắt nguồn từ việc thiếu hiểu biết về tập tính quái vật cũng như cách chúng sinh ra—cậu không biết đủ nhiều để xác định xem liệu chuyện này đã chấm dứt lũ Khô Lâu hay chưa.
+Rivul trông có vẻ hơi bất an. Cũng chẳng có gì ngạc nhiên khi đây là mối bận tâm hàng đầu đối với làng của cậu ấy. Nỗi bất an đó hẳn bắt nguồn từ chuyện cậu ấy không rành về tập tính quái vật cũng như cách chúng sinh ra, nên chưa đủ hiểu biết để chắc chắn liệu lũ Khô Lâu đã thực sự bị dẹp yên hay chưa.
 
 Chuyện đó cũng khó trách; ngay cả phần lớn mạo hiểm giả cũng chỉ nắm được những nét đại cương về mấy thứ này. Thế giới vẫn còn vô vàn điều chưa biết về quái vật, và những hiểu biết ít ỏi mà chúng tôi có được thực chất chỉ là một mớ giả thuyết thay đổi như cơm bữa, chứ chưa hẳn là sự thật xác thực.
 
-Ngay cả khi có những thiên tài như Lorraine ngày đêm nghiên cứu nghiêm túc—khoan, liệu tôi có thực sự gọi đó là nghiêm túc được không khi một bên cô ấy bày sẵn trà bánh rồi thỉnh thoảng lại chợp mắt một giấc? Không, ừ thì, tôi đồ rằng như thế vẫn tính là nghiêm túc—thì hiểu biết của chúng tôi về quái vật vẫn còn bị bao phủ bởi vô vàn bí ẩn.
+Ngay cả khi có những thiên tài như Lorraine ngày đêm nghiên cứu nghiêm túc—khoan, liệu tôi có thực sự gọi đó là nghiêm túc được không khi một bên cô ấy bày sẵn trà bánh rồi thỉnh thoảng lại chợp mắt một giấc? Không, ừ thì, chắc như thế vẫn tính là nghiêm túc—thì hiểu biết của chúng tôi về quái vật vẫn còn đầy rẫy những bí ẩn.
 
 Nhiều mạo hiểm giả coi thường mọi hình thức học hỏi kiến thức và chẳng bao giờ buồn bận tâm ghi nhớ chi tiết về mấy chuyện đó. Việc các mạo hiểm giả ở Maalt có trình độ hiểu biết tương đối tốt thực chất là nhờ Wolf luôn coi trọng tri thức. Ngay cả những tân binh trẻ tuổi cũng không hề lơ là ở khía cạnh này, bởi tôi cũng đã truyền dạy cho họ rất nhiều điều. Dẫu vậy, xét trên bình diện chung của giới mạo hiểm giả, họ chỉ là ngoại lệ chứ không phải lẽ thường.
 
@@ -44,7 +44,7 @@ Một khi Nước Thánh của họ tốt hơn, nếu tôi được hưởng ch�
 
 Ngay cả với Giáo Hội Lobelia, tôi chỉ được giảm giá vì họ không muốn làm phật lòng tôi mà thôi. Tôi thực sự rất tò mò không biết Nive nắm thóp được bí mật đen tối gì của họ, nhưng muốn tìm hiểu thì đồng nghĩa với việc tôi phải gặp lại cô ấy, mà đó lại là điều tôi ngán nhất trên đời. Nói thật thì tôi thà mù tịt về chuyện đó cho đến hết phần đời còn lại thì hơn.
 
-Rivul dễ dàng tiếp thu lời giải thích của tôi về chiếc bình. "Ồ, Nước Thánh," cậu nói. "Thỉnh thoảng các thương nhân lữ hành cũng mang nó tới thị trấn. Cứ mỗi năm một lần vào ngày hội thu hoạch, chúng tôi lại rảy nó xung quanh làng."
+Rivul dễ dàng chấp nhận lời giải thích của tôi về chiếc bình. "Ồ, Nước Thánh," cậu ấy nói. "Thỉnh thoảng các thương nhân lữ hành cũng mang nó tới thị trấn. Cứ mỗi năm một lần vào ngày hội thu hoạch, chúng tôi lại rảy nó xung quanh làng."
 
 "Để xua đuổi quái vật chứ gì?"
 
@@ -66,7 +66,7 @@ Xét cho cùng, đó cũng là lý do vì sao những người sở hữu Thần
 
 "Nước Thánh có hiệu quả cực cao trong việc xua tan chướng khí. Đúng là nó không duy trì được lâu—đòi hỏi nó giữ an toàn cho cả làng quanh năm suốt tháng thì hơi quá sức—nhưng lại cực kỳ thích hợp để xử lý một lượng chướng khí tích tụ dày đặc đủ để sinh ra Khô Lâu."
 
-Về mặt kỹ thuật mà nói, tôi cũng có thể dùng Thần Lực của mình thay cho Nước Thánh, nhưng vì Thần Lực hữu ích hơn trong chiến đấu nên tôi muốn tiết kiệm. Nếu Nước Thánh cũng lo xong xuôi việc này thì chẳng còn gì bằng.
+Thực ra thì tôi cũng có thể dùng Thần Lực của mình thay cho Nước Thánh, nhưng vì Thần Lực hữu ích hơn trong chiến đấu nên tôi muốn để dành. Nếu Nước Thánh cũng lo xong xuôi việc này thì chẳng còn gì bằng.
 
 Dẫu vậy, nét mặt Rivul vẫn thoáng chút ngờ vực.
 
@@ -122,7 +122,7 @@ Nét mặt Rivul lộ rõ vẻ nhẹ nhõm. "Thật sao anh?!"
 
 "Thế à? Để tôi xem nào..."
 
-Quan sát kỹ hơn, tôi nhận thấy Rivul nói đúng: có một vật gì đó nhô lên khỏi mặt đất gần chân cậu ấy. Hẳn là chân cậu đã vướng phải nó.
+Quan sát kỹ hơn, tôi nhận thấy Rivul nói đúng: có một vật gì đó nhô lên khỏi mặt đất gần chân cậu ấy. Hẳn là chân cậu ấy đã vướng phải nó.
 
 Tò mò, tôi đào nó lên. "Đây là... một chiếc cốc à?"
 
@@ -154,7 +154,7 @@ Rivul nhìn chiếc cốc như thể nó chẳng qua chỉ là một món đồ 
 
 Chúng tôi vừa trò chuyện vừa rảo bước về phía lối ra của hang. Rồi bất chợt, một suy nghĩ lóe lên trong đầu tôi.
 
-"Con Khô Lâu Kỵ Sĩ đó mạnh một cách bất thường..."
+"Con Khô Lâu Kỵ Sĩ đó mạnh bất thường..."
 
 Khô Lâu Kỵ Sĩ có sự chênh lệch rất lớn về mặt sức mạnh. Đương nhiên ngay cả con yếu nhất cũng vượt xa Khô Lâu thông thường, nhưng con tôi vừa chạm trán tuyệt đối không phải dạng tép riu.
 
@@ -170,7 +170,7 @@ Cứ thế, tôi và Rivul cùng nhau quay trở về làng.
 
 Sau khi Rentt và Rivul rời đi, hai bóng người bỗng xuất hiện ở nơi sâu nhất của hang động.
 
-"Tốn bao công sức mà cuối cùng lại kết thúc thế này à?" Một kẻ lên tiếng, giọng nồng nặc vẻ mỉa mai. "Chẳng thu lại được tích sự gì?"
+"Tốn bao công sức mà cuối cùng lại kết thúc thế này à?" một kẻ lên tiếng, giọng đầy vẻ mỉa mai. "Chẳng thu lại được tích sự gì?"
 
 Giọng của kẻ kia nghẹn ứ căm hận. "Ai mà ngờ lại có mạo hiểm giả xuất hiện vào đúng lúc này cơ chứ. Ngay từ đầu, chẳng phải tôi đã bảo cậu hạn chế tối đa tiếp xúc với bên ngoài, đừng có quấy rầy dân làng rồi sao?"
 
@@ -184,7 +184,7 @@ Một thoáng im lặng. "Cậu nói đúng. Xin lỗi."
 
 "Đó là 'Tiến Hóa Bản Thể' sao? Trông cứ như quái vật sinh ra bình thường vậy."
 
-"Cậu nói cái gì thế? Chẳng phải cậu đã thấy phôi gốc chuyển hóa thành chướng khí rồi tụ lại thành hình Khô Lâu Kỵ Sĩ rồi sao? Trông nó giống như sinh ra tự nhiên vì chiếc cốc đã nhân tạo thúc đẩy cả quá trình đó, nhưng mà—"
+"Cậu nói cái gì thế? Chẳng phải cậu đã thấy phôi gốc chuyển hóa thành chướng khí rồi tụ lại thành hình Khô Lâu Kỵ Sĩ sao? Trông nó giống như sinh ra tự nhiên vì chiếc cốc đã can thiệp thúc đẩy cả quá trình đó, nhưng mà—"
 
 "Hừ, dẹp mấy thứ phức tạp đó đi. Tôi hiểu nôm na là cậu đã làm xong việc cần làm rồi, đúng chứ?"
 

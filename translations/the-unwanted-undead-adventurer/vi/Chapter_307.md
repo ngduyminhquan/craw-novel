@@ -22,9 +22,9 @@ Sau khi trở về Maalt, tôi đứng đối diện với Sheila tại quầy t
 
 Sheila bảo là "nhiều", nhưng theo tôi ước tính thì con số đó phải hơn phân nửa—chủ yếu là các tổ đội Đồng Cấp, những người mà bất cứ thứ gì vượt quá năm con Khô Lâu đều có thể trở thành mối đe dọa thực sự.
 
-Khi chạm trán một điểm sinh quái đang hoạt động, người nào đủ mạnh để có cơ hội dẹp bỏ nó—thậm chí một nhóm mạo hiểm giả Thượng Đồng Cấp là đã làm được—thường sẽ không hủy ủy thác. Không phải họ liều lĩnh hay tự cao tự đại, mà bởi những ổ sinh quái vật là hiện tượng nguy hiểm cần phải được dọn dẹp càng sớm càng tốt. Nếu cứ để mặc vài ba tháng, trong kịch bản tồi tệ nhất, người ta có thể đột ngột phải đối mặt với hàng trăm con Khô Lâu. Dĩ nhiên chuyện đó hiếm khi xảy ra, nhưng không phải là điều bất khả.
+Khi chạm trán một điểm sinh quái đang hoạt động, người nào đủ mạnh để có cơ hội dẹp bỏ nó—thậm chí một nhóm mạo hiểm giả Thượng Đồng Cấp là đã làm được—thường sẽ không hủy ủy thác. Không phải họ liều lĩnh hay tự cao tự đại, mà bởi những ổ sinh quái vật là hiện tượng nguy hiểm cần phải dọn dẹp càng sớm càng tốt. Nếu cứ để mặc vài ba tháng, tệ nhất là người ta có thể đột ngột phải đối mặt với hàng trăm con Khô Lâu. Dĩ nhiên chuyện đó hiếm khi xảy ra, nhưng không phải là không thể.
 
-Đồng nghĩa khoảng một nửa số mạo hiểm giả sẽ chọn tiếp tục thực hiện ủy thác—dù dĩ nhiên là họ hoàn toàn có thể thương lượng lại tiền công và các điều khoản kèm theo.
+Thành ra khoảng một nửa số mạo hiểm giả sẽ chọn tiếp tục thực hiện ủy thác—dù dĩ nhiên là họ hoàn toàn có thể thương lượng lại tiền công và các điều khoản kèm theo.
 
 "Phải, tôi đã làm tiếp," tôi giải thích. "Và đúng như tôi đoán, tôi đã tìm thấy một ổ sinh Khô Lâu. Cơ mà tôi đã thanh tẩy nó bằng Nước Thánh rồi, nên chỗ đó sẽ không còn là mối lo nữa."
 
@@ -46,7 +46,7 @@ Mà thật ra đây cũng chẳng phải bí mật to tát gì cho cam. Tôi đ�
 
 "Thảo dược lutedd ư?! Cứ hễ dính tới anh Rentt là chẳng bao giờ có chuyện cỏn con cả nhỉ? Thảo dược lutedd cực kỳ khó trồng và nhìn chung chẳng thể nào gieo trồng số lượng lớn bên ngoài môi trường tự nhiên của chúng. Thật ra chính anh là người đã dạy tôi điều đó đấy."
 
-"Tôi cũng bất ngờ lắm chứ. Ở chốn biên ải này thú vị chính là ở chỗ đó—hơi tí là lại tình cờ phát hiện ra những thứ như vậy. Tôi đã giải thích giá trị của chúng cho dân làng rồi, cả vài cách trồng trọt mà tôi biết nữa, nên chắc chẳng bao lâu nữa chúng sẽ được chuyển tới lưu thông ở Maalt thôi. Tôi nghe bảo có một thương nhân lữ hành thường xuyên ghé qua Làng Crask, nên..."
+"Tôi cũng bất ngờ lắm chứ. Ở chốn biên ải này thú vị chính là ở chỗ đó—hơi tí là lại tình cờ phát hiện ra những thứ như vậy. Tôi đã giải thích giá trị của chúng cho dân làng rồi, cả vài cách trồng trọt mà tôi biết nữa, nên chắc chẳng bao lâu nữa thứ này sẽ được mang tới bán ở Maalt thôi. Tôi nghe bảo có một thương nhân lữ hành thường xuyên ghé qua Làng Crask, nên..."
 
 Theo lời Rivul, họ thường xuyên đón một thương nhân lữ hành ghé qua gom đặc sản của Làng Crask mang về Maalt bán, nên thảo dược lutedd nhiều khả năng cũng sẽ đi theo con đường đó. Tôi đã giải thích cặn kẽ giá trị của chúng cho Trưởng thôn để họ không bị ép giá. Ngôi làng của họ đang đứng trước một tương lai đầy hứa hẹn.
 
@@ -94,11 +94,11 @@ Sheila hẳn đã nắm bắt được dòng suy nghĩ của tôi, bởi cô ấ
 
 "Chuyện cũng đâu có gì to tát lắm đâu, phải không? Đôi bên cùng có lợi mà."
 
-"Thì anh nói cũng không sai. Cơ mà tôi cứ có cảm giác như mình bị anh xoay như chong chóng ấy."
+"Thì anh nói cũng không sai. Nhưng tôi cứ có cảm giác như mình bị anh xoay như chong chóng ấy."
 
 "Thôi nào. Tôi làm gì đủ bản lĩnh làm chuyện đó."
 
-"Tôi chẳng biết có nên tin anh không nữa... cơ mà như anh vừa bảo đấy, đôi bên cùng có lợi, nên tôi thấy thế cũng ổn. Báo cáo của anh hết rồi chứ?"
+"Tôi chẳng biết có nên tin anh không nữa... nhưng như anh vừa bảo đấy, đôi bên cùng có lợi, nên tôi thấy thế cũng ổn. Báo cáo của anh hết rồi chứ?"
 
 "Ừ. Thù lao các thứ tôi cũng nhận đủ rồi, nên giờ tôi xin phép về trước đây. Chào cô Sheila nhé."
 
@@ -106,7 +106,7 @@ Sheila hẳn đã nắm bắt được dòng suy nghĩ của tôi, bởi cô ấ
 
 Ngay trước khi tôi kịp rời đi, Sheila vội vàng gọi với theo. Tôi quay người lại. "Còn chuyện gì nữa sao cô?"
 
-"Không phải chuyện của Hội đâu. Cơ mà Clope có gửi lại lời nhắn nhờ tôi chuyển cho anh đấy."
+"Không phải chuyện của Hội đâu. Có điều Clope có gửi lại lời nhắn nhờ tôi chuyển cho anh đấy."
 
 "Clope ư? Người thợ rèn ấy hả?"
 
@@ -128,7 +128,7 @@ Cái lợi của ủy thác trực tiếp là vừa tiết kiệm chi phí cho t
 
 Dẫu vậy, một điểm khác đáng lưu tâm là các ủy thác không thông qua Hội sẽ không được tính điểm tích lũy để thăng hạng. Nhưng vào thời điểm đó, các ủy thác của Clope lại có lợi hơn cho tôi, bởi tích cóp những ủy thác cỏn con ở Hội cũng chẳng kiếm nổi bao nhiêu điểm, và ngay từ đầu có khi tôi cũng chẳng đời nào gom đủ điểm để leo lên Ngân Cấp.
 
-Giờ đây thì khác, tôi đã giành được quyền tham dự kỳ thi thăng hạng Ngân Cấp—và xét về mặt thu nhập, tôi kiếm đủ sống ngay cả khi trừ đi phí trung gian của Hội. Dạo này nhận ủy thác của Hội sẽ có lợi hơn cho tôi, để tích lũy số điểm vẫn có giá trị sử dụng ngay cả sau khi tôi đã trở thành Ngân Cấp. Đó hẳn là lý do tại sao Clope muốn thuê tôi thông qua Hội.
+Giờ đây thì khác, tôi đã giành được quyền tham dự kỳ thi thăng hạng Ngân Cấp—và xét về mặt thu nhập, tôi kiếm đủ sống ngay cả khi trừ đi phí trung gian của Hội. Dạo này nhận ủy thác của Hội sẽ có lợi hơn cho tôi, để tích lũy số điểm vẫn được tính ngay cả sau khi tôi đã trở thành Ngân Cấp. Đó hẳn là lý do tại sao Clope muốn thuê tôi thông qua Hội.
 
 Dù vậy, tôi vẫn cảm thấy có điều gì đó bất thường ở đây. Tôi không thể chỉ rõ đó là gì, nhưng bản thân chưa bao giờ xem nhẹ trực giác của mình. Cứ tới đó rồi sẽ rõ thôi.
 
@@ -156,7 +156,7 @@ Lorraine tò mò xem xét chiếc cốc. "Một... chiếc cốc ư? Chọn quà
 
 Hai vai tôi xẹp xuống. "Này, mắt tôi đâu có mù. Nếu nó chỉ là một chiếc cốc cũ kỹ bẩn thỉu thì tôi đã chẳng buồn mang về cho cô làm gì."
 
-"Biết rồi, biết rồi mà." Lorraine mỉm cười. "Tôi chỉ đùa chút thôi. Cơ mà sao anh lại mang thứ này về cho tôi?"
+"Biết rồi, biết rồi mà." Lorraine mỉm cười. "Tôi chỉ đùa chút thôi. Thế sao anh lại mang thứ này về cho tôi?"
 
 "Tôi sắp kể đến đoạn đó đây. Ngồi xuống đi đã—chuyện này kể ra cũng hơi dài đấy."
 
