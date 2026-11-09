@@ -4,11 +4,11 @@
 
 "Đúng rồi," Ingo hạ giọng đáp. "Một con Slime bình thường không thể bình thường hơn."
 
-Chúng tôi nấp sau vạt cỏ rậm, quan sát con Slime thường đang nhấp nhô trườn trên mặt đất trong rừng. Nó to cỡ một chú chó tầm trung, mang sắc lam nhạt và trong suốt tới mức nhìn xuyên sang phía bên kia được. Nó di chuyển chẳng nhanh mà cũng chẳng chậm. Đó là một con Slime thường bình dị đến mức hầu hết mạo hiểm giả sẽ chỉ bước qua mà chẳng thèm đoái hoài liếc lại lần thứ hai.
+Chúng tôi nấp sau vạt cỏ rậm, quan sát con Slime thường đang nhấp nhô trườn trên mặt đất trong rừng. Nó to cỡ một chú chó tầm trung, mang sắc lam nhạt và trong suốt tới mức nhìn xuyên sang phía bên kia được. Nó di chuyển chẳng nhanh mà cũng chẳng chậm. Đó là một con Slime thường hết sức đại trà mà hầu hết mạo hiểm giả sẽ chỉ bước qua chứ chẳng buồn ngoái nhìn lấy một cái.
 
 Thế nhưng Ingo và tôi lại mừng rỡ khi phát hiện ra nó. Dù sao thì theo lời ông ấy, đây là loài quái vật dễ thuần hóa nhất.
 
-Đúng như vẻ ngoài của chúng, cấu tạo cơ thể Slime hoàn toàn là chất lỏng, với lượng cơ quan nội tạng ít ỏi tới mức tối thiểu, một cái lõi và một viên Ma Tinh có thể nhìn thấy từ bên ngoài. Bởi cơ thể chúng chỉ có bấy nhiêu, quá trình truyền Ma Lực của bản thân vào rồi biến chúng thành quyến thuộc là vô cùng đơn giản.
+Đúng như vẻ ngoài của chúng, cấu tạo cơ thể Slime hoàn toàn là chất lỏng—chỉ gồm những thứ tối thiểu nhất có thể tạm coi là nội tạng, một cái lõi và một viên Ma Tinh nhìn thấy được từ bên ngoài. Bởi cơ thể chúng chỉ có bấy nhiêu, quá trình truyền Ma Lực của bản thân vào rồi biến chúng thành quyến thuộc vô cùng đơn giản.
 
 Dẫu vậy, điều đó không phải lúc nào cũng đúng. Những phân loài biến dị như Slime Độc có lẫn tạp chất trong cơ thể sẽ khiến công việc khó khăn hơn nhiều. Trường hợp một con Slime vừa mới nuốt thứ gì đó cũng tương tự, bởi cặn thức ăn còn sót lại trôi nổi bên trong cơ thể dạng thạch nhầy sẽ cản trở dòng chảy Ma Lực.
 
@@ -16,7 +16,7 @@ Với một người thuần hóa quái vật bậc thầy như Ingo, chuyện �
 
 Có điều, xét theo độ trong suốt của cơ thể con này thì trông nó vô cùng triển vọng.
 
-"Được rồi, Lorraine," Ingo nói. "Cháu biết phải làm gì rồi đấy. Đừng lo, ta tin chắc lần này cháu sẽ làm được thôi. Mà nếu không được, ta chỉ việc tìm một con khác là xong."
+"Được rồi, Lorraine," Ingo nói. "Cháu biết phải làm gì rồi đấy. Đừng lo, ta tin chắc lần này cháu sẽ làm được thôi. Mà nếu không được, chúng ta chỉ việc tìm một con khác là xong."
 
 Ông ấy nói năng ôn tồn để tránh tạo áp lực cho tôi. Dù phương pháp thuần hóa quái vật của ông ấy không thuộc một nhánh ma pháp phổ biến, nó vẫn là ma thuật—và vẫn vận dụng Ma Lực, đồng nghĩa trạng thái tinh thần của người thi triển sẽ tác động rất lớn đến kết quả.
 
@@ -30,7 +30,7 @@ Tôi gật đầu với Ingo rồi bò ra khỏi vạt cỏ rậm, hướng về
 
 Nói đi cũng phải nói lại, chuẩn bị kỹ càng đến thế mà còn ném trượt thì tôi quả là nỗi xấu hổ của giới mạo hiểm giả Ngân Cấp...
 
-Sau khi xác nhận ống thủy tinh đã găm trúng mục tiêu, tôi vận hành Ma Lực, tạo một ma pháp trận bên dưới con Slime. Theo lời Ingo, thứ này được gọi chính xác là ma pháp trận khế ước quyến thuộc. Cấu trúc cụ thể của nó khá phóng khoáng, bởi có những phần phải thay đổi tùy theo từng loài quái vật, khiến việc điều khiển nó trở nên khó khăn đến bất ngờ. Dẫu vậy, tới thời điểm này tôi đã luyện tập trên kha khá con Slime rồi, nên tôi nhanh chóng hoàn tất những điểm tinh chỉnh mà hầu như chẳng gặp trở ngại gì.
+Sau khi xác nhận ống thủy tinh đã găm trúng mục tiêu, tôi vận hành Ma Lực, tạo một ma pháp trận bên dưới con Slime. Theo lời Ingo, thứ này được gọi chính xác là ma pháp trận khế ước quyến thuộc. Cấu trúc cụ thể của nó khá linh hoạt, bởi có những phần phải thay đổi tùy theo từng loài quái vật, khiến việc điều khiển nó trở nên khó khăn đến bất ngờ. Dẫu vậy, tới thời điểm này tôi đã luyện tập trên kha khá con Slime rồi, nên tôi nhanh chóng hoàn tất những điểm tinh chỉnh mà hầu như chẳng gặp trở ngại gì.
 
 Tôi bắt đầu giải phóng Ma Lực nội tại, vươn nó về phía máu của mình nằm bên trong cơ thể con Slime. Chẳng mấy chốc...
 
@@ -38,7 +38,7 @@ Tôi bắt đầu giải phóng Ma Lực nội tại, vươn nó về phía máu
 
 "Làm tốt lắm," Ingo khen ngợi. "Cứ bình tĩnh rồi hoàn thành nốt đi cháu!"
 
-Tôi mượn tiếng nói của ông ấy để lấy lại bình tĩnh. Dù khó lòng kìm được chút vui sướng khi mọi chuyện diễn ra suôn sẻ đến lúc này, cảm giác ấy nhanh chóng bị gạt phắt đi bởi nỗi lo rằng chỉ cần quá đà là sẽ chuốc lấy thất bại.
+Nhờ tiếng nói của ông ấy, tôi lấy lại được bình tĩnh. Dù khó lòng kìm được chút vui sướng khi mọi chuyện diễn ra suôn sẻ đến lúc này, cảm giác ấy nhanh chóng tan biến trước nỗi lo rằng chỉ cần đắc ý quên mình là sẽ chuốc lấy thất bại.
 
 Giờ việc còn lại chỉ là dẫn Ma Lực xuyên qua cơ thể con Slime để kết nối với ma pháp trận bên dưới nó. Mình nhất định làm được!
 
@@ -54,7 +54,7 @@ Ma pháp trận bừng sáng chói lọi, y hệt như của Ingo lúc trước.
 
 Tôi chăm chú nhìn ma pháp trận từ từ dung hợp với lõi của con Slime. Khi cả hai đã hòa làm một hoàn toàn, ánh sáng lịm tắt, chỉ còn lại con Slime đang vui sướng nảy tưng tưng tại chỗ.
 
-Trong lúc quan sát con Slime, một cảm giác khẽ gợn lên nơi rìa ý thức của tôi, như thể nó đang muốn nói điều gì đó. Theo bản năng, tôi nhận ra đây chính là mối liên kết giữa tôi và con quái vật dạng thạch—và nó đang truyền tới rằng tâm trạng nó đang rất tốt. Có lẽ cảm giác này cũng tương tự như sợi dây liên kết giữa Rentt và Edel.
+Trong lúc quan sát con Slime, một cảm giác khẽ gợn lên nơi rìa ý thức của tôi, như thể nó đang muốn nói điều gì đó. Theo bản năng, tôi nhận ra đây chính là mối liên kết giữa tôi và con quái vật dạng thạch—và nó đang truyền cho tôi biết rằng tâm trạng nó rất tốt. Có lẽ cảm giác này cũng tương tự như sợi dây liên kết giữa Rentt và Edel.
 
 ![](images/ch339-01.webp)
 
@@ -76,7 +76,7 @@ Ingo khẽ gật gù. "Xem ra cháu đã làm đúng cách rồi đấy," ông �
 
 Tôi gật đầu, nhưng rồi chợt nghĩ ra một điều. "Có lẽ cháu không nên dắt con Slime này về cùng đâu bác nhỉ," tôi nói.
 
-"Dĩ nhiên là không rồi," Ingo tán thành. "Chính vì thế trên đường về ta sẽ đi đường vòng một chút."
+"Dĩ nhiên là không rồi," Ingo tán thành. "Chính vì thế trên đường về chúng ta sẽ đi đường vòng một chút."
 
 "Đi đâu vậy bác?" tôi tò mò hỏi.
 
@@ -94,9 +94,9 @@ Bên trong những khoảng rào ấy là đủ loại quái vật với mọi k
 
 "Bình tĩnh nào, bình tĩnh nào các nhóc," Ingo ôn tồn dỗ dành. "Không cần phải phấn khích quá thế đâu. Lorraine cũng đang ngạc nhiên chẳng kém gì tụi mày đâu, thấy chưa?"
 
-Lũ quái vật lũ lượt bò, bước rồi nhảy cẫng về phía chúng tôi. Tôi nhận ra những con Slime, con Lindblum, một con Griffon, một con Hellhound, cùng vô số quái vật khác mà môi trường sống vốn chẳng hề thuộc về khu rừng như thế này. Không ít cá thể trong số chúng thuộc các chủng loài khét tiếng hung tợn, hễ thấy bóng người là lao vào tấn công. Ấy thế mà, trong mắt chúng chẳng có gì ngoài sự quấn quýt khi tụ tập quanh Ingo, con thì dúi đầu, con thì cọ mình vào người ông ấy hòng thu hút sự chú ý.
+Lũ quái vật lũ lượt bò, bước rồi nhảy cẫng về phía chúng tôi. Tôi nhận ra những con Slime, con Lindblum, một con Griffon, một con Hellhound, cùng vô số quái vật khác mà môi trường sống tự nhiên vốn chẳng phải là một khu rừng như thế này. Không ít cá thể trong số chúng thuộc các chủng loài khét tiếng hung tợn, hễ thấy bóng người là lao vào tấn công. Ấy thế mà, trong mắt chúng chẳng có gì ngoài sự quấn quýt khi tụ tập quanh Ingo, con thì dúi đầu, con thì cọ mình vào người ông ấy để đòi được chú ý.
 
-Xem chừng sự thân thiện của chúng không chỉ dành riêng cho mỗi ông ấy. Dù có phần dè dặt hơn trước tôi, vài con vẫn bước lại gần và chìa đầu ra như muốn được vuốt ve. Chúng đáng yêu đến mức tôi không thể không chiều theo—cách chúng lăn lộn trên cỏ làm tôi nhớ đến lũ chó mèo đến mức khó lòng tin nổi mình thực sự đang bị một đàn quái vật vây quanh.
+Xem chừng sự thân thiện của chúng không chỉ dành riêng cho mỗi ông ấy. Dù có phần dè dặt hơn trước tôi, vài con vẫn bước lại gần và chìa đầu ra như muốn được vuốt ve. Chúng đáng yêu đến mức tôi không thể không chiều theo—cách chúng lăn lộn trên cỏ làm tôi nhớ đến lũ chó mèo, tới nỗi khó lòng tin nổi mình thực sự đang đứng giữa một bầy quái vật.
 
 Ingo bật cười khà khà. "Cháu thấy thế nào? Tuyệt vời lắm đúng không?"
 
@@ -104,7 +104,7 @@ Hiếm khi thấy ông ấy mang giọng điệu khoe khoang như vậy, nhưng 
 
 "Đúng vậy thật bác," tôi đồng tình. "Cháu vẫn còn hơi choáng ngợp đây. Cháu đoán đây là một kiểu... trang trại quái vật sao bác?"
 
-"Đại khái là vậy," Ingo nói. "Dù thực ra cũng có vài con ta nuôi thả ngoài rừng, để chúng sống hoang dã hết mức có thể. Nhưng chỉ những con mà người ta chẳng thèm đoái hoài thôi, vì dân làng cũng hay đi lại trong rừng mà. Rất khó có khả năng họ đụng độ quyến thuộc của ta, nhưng thử tưởng tượng xem nếu họ chạm trán, mà con đó lại là Hellhound hay Griffon... Hẳn sẽ làm náo loạn cả lên mất."
+"Đại khái là vậy," Ingo nói. "Dù thực ra cũng có vài con ta nuôi thả ngoài rừng, để chúng sống hoang dã hết mức có thể. Nhưng chỉ những con mà người ta có bắt gặp cũng chẳng lấy làm lạ thôi, vì dân làng cũng hay đi lại trong rừng mà. Rất khó có khả năng họ đụng độ quyến thuộc của ta, nhưng thử tưởng tượng xem nếu họ chạm trán, mà con đó lại là Hellhound hay Griffon... Hẳn sẽ làm náo loạn cả lên mất."
 
 "Bác nói phải. Bị một phen hú vía xem chừng vẫn còn là nhẹ."
 
@@ -126,7 +126,7 @@ Nếu Ingo là một người thuần hóa quái vật được công khai rộn
 
 Tôi bật cười khẽ. "Vậy thì, lý do bác dẫn cháu tới đây là..."
 
-"Đúng như cháu đoán đấy. Ta đâu thể mang quyến thuộc mới của cháu về làng được, nên trước mắt cứ để nó ở lại đây."
+"Đúng như cháu đoán đấy. Chúng ta đâu thể mang quyến thuộc mới của cháu về làng được, nên trước mắt cứ để nó ở lại đây."
 
 "Bác có chắc là ổn không?" tôi hỏi.
 
@@ -152,11 +152,11 @@ Ingo khẽ ậm ừ tán thành trước khi như chợt nhớ ra điều gì. "
 
 "Ý bác là...?"
 
-"Đặt tên cho nó đấy, phải rồi. Ta đều đặt tên cho mọi quái vật của mình. Nếu cháu cần một lý do thực tế, thì việc đó cũng giúp kích hoạt Tiến Hóa Bản Thể dễ dàng hơn nữa."
+"Phải, đặt tên cho nó đấy. Con quái vật nào của mình ta cũng đặt tên cả. Nếu cháu cần một lý do thực tế, thì việc đó cũng giúp kích hoạt Tiến Hóa Bản Thể dễ dàng hơn nữa."
 
 "Thật sao bác?! Thú vị quá!"
 
-"Có vài giả thuyết lý giải cho chuyện đó, nhưng ta có thể bàn sau. Thế nào, cháu thấy sao?"
+"Có vài giả thuyết lý giải cho chuyện đó, nhưng chúng ta có thể bàn sau. Thế nào, cháu thấy sao?"
 
 "Cháu thấy chẳng có lý do gì để từ chối cả. Nếu vậy thì... Loren. Cháu sẽ gọi nó là Loren."
 
