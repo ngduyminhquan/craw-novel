@@ -44,7 +44,7 @@ Tóm lại, chiếc cốc này đủ hứa hẹn để thỏa mãn thú vui nghi
 
 "Vậy coi như nó là một món quà lưu niệm đủ chuẩn rồi chứ?"
 
-"Quá đủ rồi. Tôi sẽ giết được khối thời gian khi nghiên cứu nó đấy."
+"Quá đủ rồi. Thứ này đủ cho tôi mày mò khối thời gian đấy."
 
 "Thế thì tốt. Xem ra cũng bõ công tôi vác nó suốt cả chặng đường về."
 

@@ -94,7 +94,7 @@ Thông thường, cùng một đòn tấn công sẽ gợi ra cùng một kiểu
 
 Dĩ nhiên, thân thể chỉ toàn xương xẩu cho phép chúng thực hiện những cử động mà người bình thường không tài nào làm nổi, nên muốn đoán trước phản ứng của chúng sẽ ra sao chẳng phải chuyện dễ dàng gì, kể cả khi người ta biết trước đòn sắp tới. Chẳng hạn, lũ Khô Lâu có thể xoay tròn cổ và cánh tay hay ngửa gập eo ra sau tới mức trông như bị gãy làm đôi—nói cách khác, toàn là những trò tôi vẫn làm mỗi khi không có ai nhìn.
 
-Thế nhưng, số Khô Lâu tôi từng giao chiến có gom lại dùng cho cả đời cũng chẳng hết—chưa kể bản thân tôi cũng từng làm một con Khô Lâu trong suốt một thời gian dài. Tôi hiểu rõ năng lực và từng đường đi nước bước của chúng như lòng bàn tay.
+Thế nhưng, tôi đã đánh với Khô Lâu nhiều đến mức phát ngán—chưa kể bản thân tôi cũng từng làm một con Khô Lâu trong suốt một thời gian dài. Tôi hiểu rõ năng lực và từng đường đi nước bước của chúng như lòng bàn tay.
 
 Chính vì vậy, tôi biết tỏng rằng sau khi con Khô Lâu Kỵ Sĩ dùng khiên chặn đòn của tôi, nó sẽ áp sát lại gần hơn để tung ra một cú đâm... và nó sẽ di chuyển nhanh hơn hẳn lúc trước.
 

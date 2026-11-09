@@ -34,7 +34,7 @@ Thành ra khoảng một nửa số mạo hiểm giả sẽ chọn tiếp tục 
 
 "Thế sao? Chà, xét theo những gì đã xảy ra, nếu anh không nhận được thêm bất kỳ khoản thù lao hay bồi dưỡng nào thì Hội có thể sẽ phải đứng ra can thiệp—nhưng nếu anh Rentt đã thấy thỏa đáng thì chắc cũng chẳng có vấn đề gì. Tiện đây, anh nhận được loại cây quý nào thế?"
 
-Lúc ăn uống nghe Rivul nhắc tới tôi cũng ngạc nhiên lắm, nhưng hóa ra thảo dược lutedd lại mọc ở quanh vùng phụ cận của làng. Thảo dược lutedd cực kỳ quý hiếm và có thể bán được giá rất cao ở vương đô, bởi chúng đóng vai trò thiết yếu trong cơ chế vận hành động lực của các loại máy móc nhỏ.
+Lúc ăn uống nghe Rivul nhắc tới tôi cũng ngạc nhiên lắm, nhưng hóa ra thảo dược lutedd lại mọc ở quanh vùng phụ cận của làng. Thảo dược lutedd cực kỳ quý hiếm và có thể bán được giá rất cao ở vương đô, bởi chúng không thể thiếu trong bộ phận tạo động lực của các loại máy móc cỡ nhỏ.
 
 Thật lòng mà nói, nếu tôi đem bán chúng qua các kênh đàng hoàng, số tiền kiếm được sẽ vượt xa tiền thù lao của ủy thác ở Làng Crask. Vì dân làng đã cho tôi một lượng thảo dược tương đối khá, nên tôi nắm chắc phần lời lớn—và đó cũng là lý do tại sao ban nãy tôi lại nói lấp lửng với Sheila.
 

@@ -30,7 +30,7 @@ Một người bình thường hẳn sẽ chẳng có manh mối nào về cách
 
 "Nước Thánh," tôi giải thích. "Các tổ chức tôn giáo ở Maalt sẽ đưa nó cho cậu để đổi lấy tiền quyên góp."
 
-Nói thật thì bảo là mua đứt cho rồi thì đúng hơn, nhưng các giáo hội cứ thích gọi cái kiểu giao dịch ấy là "quyên góp". Rõ ràng là một trò kinh doanh mánh khóe—dù đời nào họ bắt quả tang được việc tôi dám nói toẹt ra đó là "mánh khóe" trước mặt họ.
+Nói thật thì bảo là mua đứt cho rồi thì đúng hơn, nhưng các giáo hội cứ thích gọi cái kiểu giao dịch ấy là "quyên góp". Rõ ràng là một trò làm ăn mờ ám—dù đời nào tôi dám nói toạc ra chữ "mờ ám" cho họ nghe thấy.
 
 Dẫu vậy, tôi cho rằng dùng từ "quyên góp" cũng không hẳn là sai hoàn toàn. Một số cá nhân có nhiều đóng góp hoặc lập công phụng sự giáo hội có thể được giảm bớt số tiền quyên góp, nên đây không phải là mức giá cố định. Dĩ nhiên, điều đó cũng đồng nghĩa với việc các giáo hội có thể đòi những khoản tiền cắt cổ từ những kẻ mà họ không vừa mắt.
 

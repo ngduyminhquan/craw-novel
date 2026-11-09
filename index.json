@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:09:23Z",
+  "generatedAt": "2026-11-09T11:12:49Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3974,7 +3974,7 @@
           "number": 302,
           "title": "Chương 302: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_302.md",
-          "sha": "46fab250e7718f7fe2f7c3ab4db0284e0b48d8c0"
+          "sha": "d6ad1b227a730e97e4e1adc245efdb950f2778dc"
         },
         {
           "number": 303,
@@ -3986,43 +3986,43 @@
           "number": 304,
           "title": "Chương 304: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_304.md",
-          "sha": "a152a877da199d7a0335152f72ec68484cb70a79"
+          "sha": "e8cb31340d5521af57e08775d605a456b13c437e"
         },
         {
           "number": 305,
           "title": "Chương 305: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (5)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_305.md",
-          "sha": "77b15a02c14fe533fb935f6e826f5d9bbc024b38"
+          "sha": "04bde484ff0d6c3c8ca92c48e5b98a5ad6f698a6"
         },
         {
           "number": 306,
           "title": "Chương 306: Chương đệm Tập 13 - Tại Một Tòa Lâu Đài Nọ...",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_306.md",
-          "sha": "d42a46bc16becccfdbb385b245b28de8d89307c4"
+          "sha": "ba9ba798184f90848bf9b1c3331204ac40b9f1ed"
         },
         {
           "number": 307,
           "title": "Chương 307: Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_307.md",
-          "sha": "9767df09dd6ac4776144e106341d35f7472ead7e"
+          "sha": "569f0ad64b4e1ebd91fec940aa92a52a28c32779"
         },
         {
           "number": 308,
           "title": "Chương 308: Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_308.md",
-          "sha": "9acdfb246145b4c567023e87f2f9a3398b7be50a"
+          "sha": "d4c5942705c4f23ac65dad548316219a4e8f6b5e"
         },
         {
           "number": 309,
           "title": "Chương 309: Tập 13 Chương 2 - Báo Cáo và Một Ủy Thác từ Thợ Rèn (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_309.md",
-          "sha": "01700e1172ef94472438c639da43388ce043407f"
+          "sha": "57458f5ee63b9f292f8a9bb18618283b1060a397"
         },
         {
           "number": 310,
           "title": "Chương 310: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_310.md",
-          "sha": "44788d431115372e66ba3e87c29c5500525ea1ba"
+          "sha": "c9c7d629370cf1157af891ecc892bd91f93c4495"
         }
       ]
     },

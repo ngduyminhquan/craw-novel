@@ -50,7 +50,7 @@ Tầm nhìn của người đàn ông xoay ngược trở lại đúng hướng 
 
 Cậu thiếu niên đang ngồi xổm trước mặt gã, nét mặt vẫn mang nụ cười dịu dàng. Nhưng... giờ đây người đàn ông lại cảm nhận được một mối đe dọa còn khủng khiếp hơn toát ra từ nụ cười ấy. Khi cậu thiếu niên cất lời tiếp theo, gã liền hiểu rõ nguyên do.
 
-"Lũ Ma Vương sao? Đám chó rách bị ăn đòn ấy mà cũng đáng để bận tâm à. Dẫu vậy, ta công nhận là ngươi có nghĩ đến lợi ích của chúng ta. Chứ nếu ngươi hành động vì tư lợi cá nhân thì mọi chuyện đã khác rồi."
+"Lũ Ma Vương sao? Lũ chó cụp đuôi tầm thường đó đâu đáng để bận tâm. Dẫu vậy, ta công nhận là ngươi có nghĩ đến lợi ích của chúng ta. Chứ nếu ngươi hành động vì tư lợi cá nhân thì mọi chuyện đã khác rồi."
 
 Rõ ràng là cậu thiếu niên chẳng hề coi trọng lũ Ma Vương. Xem ra việc gã lôi tên chúng ra nói là một sai lầm.
 
@@ -64,7 +64,7 @@ Trong bất kỳ hoàn cảnh nào khác, thân xác của người đàn ông h
 
 "Không, ta không nghĩ mình sẽ dừng đâu. Ra tay đây... Tạm biệt nhé."
 
-Ánh sáng bùng nổ từ bàn tay cậu thiếu niên, và tất cả những gì người đàn ông có thể làm chỉ là trơ mắt nhìn. Mọi chuyện với gã coi như đã chấm dứt. Gã đã bị đày ải vào một cõi vĩnh hằng chỉ để ngắm nhìn phong cảnh ngoài lâu đài từ vị trí bên cánh cửa.
+Ánh sáng bùng nổ từ bàn tay cậu thiếu niên, và tất cả những gì người đàn ông có thể làm chỉ là trơ mắt nhìn. Mọi chuyện với gã coi như đã chấm dứt. Gã đã bị định sẵn phải đứng bên cánh cửa, ngắm phong cảnh ngoài lâu đài cho đến muôn đời.
 
 Thế nhưng khi luồng sáng tan đi, thân xác của người đàn ông vẫn còn nguyên đó—cùng với một người khác đang đứng chắn phía trước. Bờ vai người này phập phồng sau khi gắng sức thi triển ma pháp khiên chắn có uy lực đáng sợ.
 

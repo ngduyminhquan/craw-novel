@@ -20,7 +20,7 @@ Nghĩ lại thì Lorraine cũng làm một điều tương tự. Cô ấy là h�
 
 Có lẽ mảnh đất này sở hữu sức hút kỳ lạ nào đó chuyên lôi kéo những kẻ lập dị chăng. Nếu đúng thế thật thì Laura Latuule chắc chắn đứng ở vị trí trung tâm, bởi sự lập dị đến cùng cực của cô bé khiến suy đoán ấy có cơ sở vô cùng.
 
-Tôi tự hỏi không biết cớ sao gia tộc Ma Cà Rồng của cô bé lại chọn cắm rễ ở chốn này. Có lẽ họ muốn tránh bị chú ý, bởi đó vốn là ưu tiên hàng đầu của loài Ma Cà Rồng, cơ mà... sao lại cứ nhất thiết phải là Maalt?
+Tôi tự hỏi không biết vì sao gia tộc Ma Cà Rồng của cô bé lại chọn cắm rễ ở chốn này. Có lẽ họ muốn tránh bị chú ý, bởi đó vốn là ưu tiên hàng đầu của loài Ma Cà Rồng, cơ mà... sao lại cứ nhất thiết phải là Maalt?
 
 Mà thôi. Cứ vắt óc nghĩ ngợi chuyện đó thì chắc cũng chẳng giải quyết được gì.
 

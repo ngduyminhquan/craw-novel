@@ -14,7 +14,7 @@ Bất kể dấn thân vào con đường nào, khoảng thời gian nhìn thấ
 
 "Có một người như vậy ở cạnh bên, sao anh lại rời khỏi Welfia chứ?"
 
-"Lúc đó thì chẳng có lý do nào cả. Nhưng rồi một ngày nọ, thợ rèn trưởng cho gọi Hazara và tôi đến. Khi ấy tay nghề của bọn tôi đã gần như đủ sức để tự lập môn hộ, thế nên hai đứa hào hứng lắm. Bọn tôi cứ ngỡ cuối cùng ông ấy cũng công nhận bọn tôi là thợ rèn thực thụ."
+"Lúc đó thì chẳng có lý do nào cả. Nhưng rồi một ngày nọ, thợ rèn trưởng cho gọi Hazara và tôi đến. Khi ấy tay nghề của bọn tôi đã gần như đủ sức để ra riêng, thế nên hai đứa hào hứng lắm. Bọn tôi cứ ngỡ cuối cùng ông ấy cũng công nhận bọn tôi là thợ rèn thực thụ."
 
 Trong mắt Clope lóe lên một tia sáng, như thể anh ấy đang hồi tưởng lại khoảnh khắc ấy và khiến trái tim rộn ràng phấn khởi. Có điều, tia sáng ấy nhanh chóng lụi tàn, thay vào đó là một vẻ u ám. Tôi có thể đoán được lý do vì sao.
 

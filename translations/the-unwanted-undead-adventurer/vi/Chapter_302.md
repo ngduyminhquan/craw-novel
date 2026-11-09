@@ -30,7 +30,7 @@ Dù tôi không nói đích danh, nhưng ai cũng hiểu tôi đang ám chỉ ai
 
 "Ý anh là tôi đúng không? Được rồi. Tôi sẽ đi. Bản thân tôi chưa từng tới đó... nhưng tôi đã nghe kể về nơi ấy không biết bao nhiêu lần rồi."
 
-Tôi chẳng nghi ngờ gì việc trước đây Rivul từng tính đến chuyện tự mình đi tìm hài cốt và di vật của cha. Thế nhưng, hẳn cậu ấy đã từ bỏ ý định sau khi tự lượng sức mình. Là người sẽ đồng hành cùng cậu ấy, biết đối phương có sự điềm tĩnh và biết chừng mực như vậy khiến tôi thấy an tâm hơn hẳn.
+Tôi chẳng nghi ngờ gì việc trước đây Rivul từng tính đến chuyện tự mình đi tìm hài cốt và di vật của cha. Thế nhưng, hẳn cậu ấy đã từ bỏ ý định sau khi tự lượng sức mình. Là người sẽ đồng hành cùng cậu ấy, biết cậu ấy điềm tĩnh như vậy khiến tôi yên tâm hơn hẳn.
 
 Trong trận chiến với lũ Khô Lâu, cậu ấy cũng là người duy nhất trong số dân làng giữ được bình tĩnh, trong khi những người khác đều hoảng loạn và hấp tấp. Có lẽ việc nhìn thấy lũ quái vật đã gợi cho họ nhớ lại chuyện năm xưa từng bỏ mặc cha của Rivul.
 
