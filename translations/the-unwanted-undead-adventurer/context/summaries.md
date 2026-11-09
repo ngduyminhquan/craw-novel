@@ -1678,6 +1678,12 @@ Rina phụ giúp bán hàng và dùng năng lực quái vật cảm nhận đư�
 Chuyển sang góc nhìn ngôi thứ nhất của Dieg Esol: anh ta là nhị thiếu gia Thương hội Esol tại thành phố Mystera, từng ôm hận vì người anh trai quá hoàn hảo và suýt mưu hại anh mình trước khi được cứu rỗi nhờ tin sắp đặt hôn sự với con gái chủ Thương hội Merrow (Dorothea); dù Dorothea sau đó trốn nhà đi làm thương nhân lữ hành và vị trí thừa kế của Merrow đã ngã ngũ khi chủ thương hội có con trai mới, Dieg vẫn tôn trọng quyết định của cô và từ bỏ.
 Cảnh kết thúc: Hiện tại Dieg đang cùng ma pháp sư lữ hành Amapola và Guster bám theo Dorothea nhằm ép cô bỏ nghề và kết hôn với mình; Dieg nhận ra suy nghĩ của mình quá đỗi phi lý và đầu óc mụ mẫm, đau đớn dữ dội vì bị Amapola thao túng tâm trí.
 
+## 283
+Dorothea và Rina ghé ngôi làng miền núi thứ ba; Dorothea tiếp tục mua cây cỏ từ lũ trẻ và đàm phán sòng phẳng với trưởng làng, đồng thời khuyên Rina không nên tham lợi nhất thời mà phải giữ uy tín lâu dài, khiến Rina liên tưởng tới lời dạy của Rentt.
+Dorothea phát hiện loài cỏ afto có giá trị cao nhờ phát minh thuốc xua đuổi quái vật mới (Rina nhận ra chính là sản phẩm thí nghiệm từ tế bào của Rentt do Lorraine điều chế); Dorothea cùng lũ trẻ vào rừng hái cỏ với sự dẫn đường của thợ săn Zein, người khen ngợi kiến thức đi rừng uyên bác của Rina so với mạo hiểm giả vương đô.
+Cảm nhận được sự hiện diện đáng ngờ, Rina bảo Zein ở lại bảo vệ Dorothea và lũ trẻ rồi một mình tiến sâu vào rừng giáp mặt người phụ nữ trong trang phục ma pháp sư bí ẩn (Amapola).
+Cảnh kết thúc: Người phụ nữ thừa nhận cố tình phóng sát khí dụ Rina ra để tạo cơ hội cho Dieg và Guster tiếp cận bắt giữ Dorothea, đồng thời nhếch mép cười lộ rõ mưu đồ dàn xếp tai nạn hại cha Dorothea để đoạt lấy Thương hội Merrow.
+
 
 
 

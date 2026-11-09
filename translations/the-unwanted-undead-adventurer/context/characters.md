@@ -142,6 +142,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Guster |  | Guster | Thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga | #279 |
 | Dieg Esol | Dieg | Dieg Esol | Nhị thiếu gia của gia tộc Esol tại thành phố Mystera, kẻ thuê Guster cản trở Dorothea (#282) | #282 |
 | Amapola |  | Amapola | Nữ ma pháp sư lữ hành đi cùng Dieg Esol, kẻ thao túng tâm trí Dieg (#282) | #282 |
+| Zein |  | Zein | Thợ săn tại ngôi làng miền núi thứ ba, dẫn đường cho Dorothea và Rina vào rừng hái cỏ afto | #283 |
 
 
 ## Chi tiết
@@ -913,7 +914,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nữ, ma pháp sư lữ hành đi cùng Dieg Esol (#282).
 - Đặc điểm: Nữ ma pháp sư lữ hành bí ẩn tự xưng là cánh tay phải của Dieg Esol; cùng Dieg giải cứu Guster khỏi nhà lao và ép gã tiếp tục phi vụ tấn công Dorothea (#281, #282).
 - Trạng thái tính đến chương 282: Đang đồng hành cùng Dieg Esol và Guster bám theo dấu vết của Dorothea; dùng ma pháp chi phối tâm trí Dieg khiến anh ta rơi vào trạng thái mâu thuẫn, đau đầu dữ dội và mất đi ký ức rõ ràng về việc hợp tác giữa hai người (#282).
+- Trạng thái tính đến chương 283: Đơn độc xuất hiện trong rừng trước mặt Rina trong bộ áo chùng ma pháp sư; thừa nhận cố tình phóng sát khí để dụ Rina ra nhằm tạo cơ hội cho Dieg và Guster ra tay với Dorothea, đồng thời tiết lộ mưu đồ ép Dorothea về cưới Dieg rồi dàn xếp tai nạn hại cha cô để đoạt quyền kiểm soát Thương hội Merrow (#283).
 - Xuất hiện từ: #282.
+
+### Zein
+- Giới tính, vai trò: Nam, thợ săn tại ngôi làng miền núi thứ ba (#283).
+- Đặc điểm: Thợ săn địa phương am hiểu địa hình rừng núi; hồi trẻ từng sống ở một ngôi làng phía tây gần vương đô và tiếp xúc nhiều với mạo hiểm giả từ vương đô; đánh giá cao kiến thức sinh tồn, đi rừng và thu hái của Rina, nhận xét cô là một trong những mạo hiểm giả giỏi nhất mình từng thấy (#283).
+- Trạng thái tính đến chương 283: Đi cùng Dorothea và Rina vào rừng để bảo vệ lũ trẻ hái cỏ afto; nhận lời Rina ở lại canh gác cho Dorothea và lũ trẻ khi cô phát hiện có quái vật tiếp cận (#283).
+- Xuất hiện từ: #283.
 
 
 

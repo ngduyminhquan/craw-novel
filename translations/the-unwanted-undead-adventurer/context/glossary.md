@@ -497,5 +497,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Esol Company | the Esol Company; Esol company; the Esol company | Thương hội Esol | tổ chức | 282 | Thương hội lâu đời lớn hàng đầu tại thành phố Mystera |
 | zima herb | zima herbs | thảo dược zima | vật phẩm | 282 | Loại thảo dược mọc nhiều quanh vùng núi giúp chống mưng mủ vết thương |
 | poltorin flower | poltorin flowers | hoa poltorin | vật phẩm | 282 | Loài hoa có nhiều công dụng, dùng làm nguyên liệu chế tạo nước hoa |
+| afto grass |  | cỏ afto | vật phẩm | 283 | Loài thực vật dùng làm nguyên liệu cho thuốc xua đuổi quái vật mới |
+| monster repellent |  | thuốc xua đuổi quái vật | vật phẩm | 283 | Loại thuốc xua đuổi quái vật mới do Lorraine phát minh bằng tế bào của Rentt |
 
 

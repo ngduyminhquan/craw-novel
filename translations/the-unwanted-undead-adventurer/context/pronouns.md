@@ -108,6 +108,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Guster | Guster / gã / người đàn ông | 279 | Thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga |
 | Dieg Esol | tôi / Dieg / anh ta / người đàn ông | 282 | Nhị thiếu gia gia tộc Esol, người kể chuyện ở phân đoạn 2 chương 282 |
 | Amapola | Amapola / người phụ nữ / cô ta | 282 | Nữ ma pháp sư lữ hành đi cùng Dieg Esol |
+| Zein | Zein / người thợ săn / anh / anh ta | 283 | Thợ săn tại ngôi làng miền núi thứ ba |
 
 
 ## Giữa các nhân vật
@@ -546,6 +547,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Guster | Rina Rupaage | tôi | cô | 280 | Tên cướp còn mơ màng khai báo với mạo hiểm giả bắt giữ mình |
 | Guster | Dieg Esol | tôi | ông / ông khách / ông bạn | 279 | Thủ lĩnh băng cướp nói chuyện với thân chủ giàu có thuê mình |
 | Dieg Esol | Guster | tôi | anh / các anh | 279 | Nhị thiếu gia thuê băng cướp của Guster và giải cứu gã khỏi ngục giam |
+| Dorothea Merrow | Zein | tôi | anh | 283 | Nữ thương nhân trao đổi với thợ săn dẫn đường trong làng |
+| Zein | Dorothea Merrow | tôi | cô / cô Dorothea | 283 | Thợ săn trong làng trao đổi với nữ thương nhân |
+| Rina Rupaage | Zein | tôi | anh | 283 | Nữ mạo hiểm giả trao đổi với thợ săn trong làng |
+| Zein | Rina Rupaage | tôi | cô | 283 | Thợ săn trong làng nói chuyện với nữ mạo hiểm giả bảo vệ lũ trẻ |
+| Amapola | Rina Rupaage | tôi | cô | 283 | Nữ ma pháp sư lữ hành khiêu khích nữ mạo hiểm giả |
+| Rina Rupaage | Amapola | tôi | cô | 283 | Nữ mạo hiểm giả chất vấn nữ ma pháp sư lữ hành bí ẩn |
 
 
 

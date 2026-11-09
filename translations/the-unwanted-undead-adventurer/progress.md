@@ -287,7 +287,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | reviewed |  |
 | 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | reviewed |  |
 | 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | reviewed |  |
-| 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | todo |  |
+| 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | done |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | todo |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | todo |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -945,3 +944,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#281] Dịch 'outpost town' — tạm chọn 'thị trấn tiền đồn' (phương án khác: 'thị trấn tiền trạm'). → Duyệt "thị trấn tiền đồn" (outpost town). (orchestrator)
 - [#282] Dịch 'angels\' share' (lượng rượu bay hơi khỏi thùng ủ gỗ) — tạm chọn "phần của thiên thần" (kèm diễn giải trong câu 'lượng rượu bay hơi, tức "phần của thiên thần"'; phương án khác: chỉ dịch 'lượng rượu hao hụt do bay hơi'). → Duyệt "phần của thiên thần" (angels' share). (orchestrator)
 - [#281, #282] Nhân vật người đàn ông bí ẩn thuê Guster ở #279 và #281 lộ danh tính ở #282 là Dieg Esol → Giữ Guster gọi Dieg là "ông" theo kiểu dân cướp đường gọi khách sộp (nhất quán với #279 đã `reviewed`), còn trong lời dẫn ngôi thứ ba ở #281 đổi từ "ông ta" sang "anh ta" cho khớp độ tuổi thanh niên của Dieg. (orchestrator)
+- [#283] Xưng hô giữa nữ ma pháp sư Amapola và Rina: Amapola có thể xưng 'ta - cô' (kiểu phản diện/bề trên) hoặc 'tôi - cô'. Bản dịch tạm chọn cả hai bên xưng 'tôi - cô' theo phong cách kỳ ảo phương Tây hiện đại của style.md. → Duyệt cả hai bên xưng "tôi - cô" theo phong cách kỳ ảo phương Tây hiện đại của style.md. (orchestrator)
