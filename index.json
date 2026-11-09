@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T14:27:09Z",
+  "generatedAt": "2026-11-09T14:33:32Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4113,6 +4113,12 @@
           "title": "Chương 325: Tập 14 Chương 2 - Thám Hiểm Mê Cung (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_325.md",
           "sha": "927338e712cec893063a6c76735b7d2b347a2abd"
+        },
+        {
+          "number": 326,
+          "title": "Chương 326: Tập 14 Chương 2 - Thám Hiểm Mê Cung (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_326.md",
+          "sha": "87fa5b5d2d297c9f713e2ae55e3a157226603ffa"
         }
       ]
     },

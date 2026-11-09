@@ -1039,3 +1039,10 @@ Diego cảm phục tấm lòng chân thành của Rentt đối với nhóm Niedz
 Sáng hôm sau tại tiệm đồ nguyền, Rentt giúp bộ ba Niedz chuẩn bị trang bị và được Diego kể về truyền thuyết lập thành Lucaris gắn liền với tiếng nói của các con gái Hải Thần cùng triết lý thực tế của Giáo Hội Thần Giám Định.
 Nhóm Niedz hoang mang, sợ hãi khi biết sẽ phải trực tiếp chiến đấu với quái vật trong mê cung thay vì chỉ hỗ trợ thu thập thảo dược ngoài rìa, nhưng Rentt kiên quyết uốn nắn và thúc giục họ đối diện với thực tế.
 Cảnh kết thúc: Rentt giục bộ ba Niedz chỉnh đốn giáp trụ rồi cùng Diego rời tiệm, cả nhóm tiến về phía bến cảng nơi Capitan và Mazlak đang đợi sẵn thuyền.
+
+## 326
+Rentt và Diego đến bến cảng hội quân cùng Mazlak, Capitan và bộ ba Niedz rồi lên thuyền ra khơi giữa lúc nhiều thuyền bè phải nằm bờ do quái vật quấy nhiễu.
+Đến vị trí lặn, Mazlak túc trực trên thuyền chờ đón; Capitan dẫn đầu nhảy xuống trước, tiếp sau là Diego, bộ ba Niedz ngậm ống thở và Rentt bọc hậu phía sau.
+Nhờ Nguyền Cụ đèn biển soi sáng trong làn nước tối thẫm, cả sáu người lặn xuống đáy biển an toàn và diện kiến Mê Cung Các Con Gái Của Hải Thần tựa một ngôi đền đá khổng lồ phủ đầy san hô và thực vật tựa như trên cạn, bên cạnh một con cá quái thú khổng lồ lờ đờ bơi lượn.
+Capitan dẫn cả nhóm luồn lách qua mê lộ san hô và cỏ cây để tránh kinh động con cá khổng lồ, trong khi Lukas tranh thủ hái vài đóa hoa lạ nở dưới đáy biển.
+Cảnh kết thúc: Cả sáu người tiếp cận lối vào nhỏ nép ở góc xa của ngôi đền đá và theo hiệu lệnh của Capitan tiến vào bên trong mê cung.
