@@ -1179,3 +1179,9 @@ Diego tiết lộ từng tu nghiệp tại đền thờ Thần Giám Định và
 Rentt chia sẻ kế hoạch bắt nhóm ba tên cướp của Niedz đi tìm kiếm hải linh thảo tại Mê Cung Các Con Gái Của Hải Thần và nhờ Diego tư vấn cách thám hiểm dưới nước.
 Diego giới thiệu và bán hữu nghị cho Rentt bốn chiếc ống thủy tinh Nguyền Cụ hỗ trợ hít thở dưới nước (với tác dụng phụ làm ngạt thở nếu đeo trên cạn) với giá gốc năm đồng vàng một chiếc.
 Cảnh kết thúc: Diego tiết lộ Mê Cung Các Con Gái Của Hải Thần có tỷ lệ rơi Nguyền Cụ rất cao và nhờ Rentt thu thập giúp các món Nguyền Cụ tìm được, Rentt vui vẻ nhận lời giao dịch đôi bên cùng có lợi.
+
+## 319
+Chương đệm dưới góc nhìn ngôi thứ nhất của Niedz, một mạo hiểm giả Đồng Cấp bế tắc và nghèo túng tại Hội Mạo Hiểm Giả Lucaris cùng hai người bạn thân Gahedd và Lukas.
+Lukas kể về gã đeo mặt nạ kỳ dị (Rentt) vung ba đồng vàng mua thảo dược từ người thú nhân dê; khi thấy Rentt xuất trình thẻ Đồng Cấp và được tiếp tân đối đãi nồng hậu, Niedz sinh lòng ghen tị cùng quẫn bách nên quyết định bám đuôi hòng xin chia chác hoặc trấn lột, Gahedd và Lukas bám theo can ngăn.
+Tại ngõ cụt, Niedz dũng cảm lao lên trước để che chắn đường thoát cho hai bạn nhưng bị Rentt lướt tới đánh ngất trong chớp mắt; tỉnh dậy trong căn nhà đá của Diego Malga, Niedz được Rentt giải thích và cho uống nước ngâm thảo dược giúp hồi phục thể lực và xoa dịu đau nhức.
+Cảnh kết thúc: Niedz biết ơn và nhận ra đây không phải là ngõ cụt nô lệ hay án phạt, mà là cuộc gặp gỡ định mệnh mở ra may mắn đổi đời cùng "Đại ca Rentt và anh Diego".

@@ -542,6 +542,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Ariana Republic | the Ariana Republic | Cộng Hòa Ariana | địa danh | 316 | Cách gọi khác của Cộng Hòa Hàng Hải Ariana |
 | goatfolk | goat-folk | thú nhân dê | chủng tộc | 316 | Phân loài thú nhân mang đặc điểm loài dê |
 | fishfolk | fish-folk | ngư nhân | chủng tộc | 316 | Chủng tộc mang đặc điểm loài cá sinh sống dưới nước (魚人) |
+| pantherfolk |  | thú nhân báo | chủng tộc | 319 | Phân loài thú nhân mang đặc điểm loài báo |
 
 
 

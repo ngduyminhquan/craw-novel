@@ -126,6 +126,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Diego Malga | Diego / người đàn ông thú nhân / anh ta | 317 | Thú nhân mèo, mạo hiểm giả kiêm người bán đồ nguyền tại Lucaris |
 | Raul | Raul / người cha | 317 | Cha quá cố của Diego Malga |
 | Niedz | Niedz / gã / người đàn ông / tên mạo hiểm giả | 317 | Mạo hiểm giả dẫn đầu nhóm bám đuôi cướp tiền của Rentt tại Lucaris |
+| Niedz | tôi / Niedz / gã / người đàn ông | 319 | Người kể chuyện ngôi thứ nhất ở chương đệm #319 |
+| Gahedd | Gahedd / anh chàng / cậu ta | 319 | Mạo hiểm giả Đồng Cấp cao gầy, bạn của Niedz |
+| Lukas | Lukas / cậu ta / anh chàng | 319 | Mạo hiểm giả Đồng Cấp lùn béo, bạn của Niedz |
 
 
 
@@ -631,6 +634,16 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Diego Malga | Rentt Faina | tôi | anh / Rentt | 317 | Mạo hiểm giả kiêm chủ tiệm tiếp đãi khách |
 | Rentt Faina | Niedz | tôi | các anh / các người | 317 | Mạo hiểm giả đối phó với kẻ bám đuôi trấn lột |
 | Niedz | Rentt Faina | chúng tao / bọn này / tao | anh bạn / tên kia / gã to xác / mày | 317 | Kẻ trấn lột bộc trực, hung hăng |
+| Niedz | Gahedd | tôi | cậu / Gahedd | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Gahedd | Niedz | tôi | cậu / Niedz | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Niedz | Lukas | tôi | cậu / Lukas | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Lukas | Niedz | tôi | cậu / Niedz | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Gahedd | Lukas | tôi | cậu / Lukas | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Lukas | Gahedd | tôi | cậu / Gahedd | 319 | Bạn bè đồng nghiệp hoạn nạn cùng cảnh ngộ |
+| Niedz | Diego Malga | tôi | anh / Malga | 319 | Mạo hiểm giả cấp thấp bị bắt nói chuyện với chủ tiệm đồ nguyền |
+| Diego Malga | Niedz | tôi | cậu | 319 | Chủ tiệm kiêm mạo hiểm giả nói chuyện với kẻ trấn lột vừa tỉnh dậy |
+| Rentt Faina | Niedz | tôi | cậu | 319 | Mạo hiểm giả tiền bối chăm sóc và thu nạp hậu bối |
+| Niedz | Rentt Faina | tôi | anh / Mặt Đầu Lâu / Đại ca Rentt | 319 | Kẻ trấn lột hoàn lương, kính phục Rentt sau khi được tha mạng và cho uống thuốc |
 
 
 

@@ -165,6 +165,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Diego Malga | Diego | Diego Malga | Thú nhân mèo, mạo hiểm giả kiêm chủ tiệm tạp hóa/bán đồ nguyền tại Lucaris, con trai của Raul Malga | #317 |
 | Raul | Raul Malga | Raul | Cha quá cố của Diego Malga, cựu mạo hiểm giả kiêm người bán đồ nguyền đời trước tại Lucaris | #317 |
 | Niedz |  | Niedz | Mạo hiểm giả dẫn đầu nhóm ba người bám đuôi Rentt tại Lucaris hòng cướp tiền | #317 |
+| Gahedd |  | Gahedd | Mạo hiểm giả Đồng Cấp dáng cao gầy tại Lucaris, bạn thân của Niedz | #319 |
+| Lukas |  | Lukas | Mạo hiểm giả Đồng Cấp dáng lùn béo tại Lucaris, bạn thân của Niedz, am hiểu thảo dược | #319 |
+| Skullface |  | Mặt Đầu Lâu | Biệt danh Niedz và Diego dùng để gọi Rentt Faina khi đeo mặt nạ đầu lâu | #319 |
 
 
 
@@ -1007,10 +1010,20 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Xuất hiện từ: #317 (qua lời kể của Diego).
 
 ### Niedz
-- Thân phận: Nam, mạo hiểm giả tại Thành Phố Cảng Lucaris, kẻ dẫn đầu nhóm ba người bám đuôi cướp tiền của Rentt (#317).
-- Tính cách & năng lực: Năng lực chiến đấu yếu kém, không đủ sức kiếm ba đồng vàng bằng ủy thác nên sinh lòng tham khi thấy Rentt trả ba đồng vàng cho người bán thảo dược; dám một mình lao lên trước bảo bọc đàn em (#317).
-- Trạng thái (đến #317): Bị Rentt đánh văng bất tỉnh và được đưa về nhà của Diego Malga chờ tỉnh dậy (#317).
+- Thân phận: Nam, mạo hiểm giả Đồng Cấp tại Thành Phố Cảng Lucaris, kẻ dẫn đầu nhóm ba người bám đuôi cướp tiền của Rentt (#317); người kể chuyện ngôi thứ nhất ở chương đệm #319.
+- Tính cách & năng lực: Năng lực chiến đấu yếu kém, không đủ sức kiếm ba đồng vàng bằng ủy thác nên sinh lòng tham khi thấy Rentt trả ba đồng vàng cho người bán thảo dược; dám một mình lao lên trước bảo bọc đàn em (#317); bế tắc muốn giải nghệ về quê nhưng không đủ tiền, quý trọng tình bạn hoạn nạn với Gahedd và Lukas (#319).
+- Trạng thái (đến #319): Bị Rentt đánh ngất và đưa về nhà Diego Malga (#317); sau khi tỉnh dậy được Rentt cho uống nước ngâm thảo dược hồi phục, tôn xưng Rentt là "Đại ca Rentt" và Diego là "anh Diego" (#319).
 - Xuất hiện từ: #317.
+
+### Gahedd
+- Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng cao gầy, bước đi liêu xiêu nhưng tính tình nhiệt huyết, bạn thân chí cốt của Niedz và Lukas tại Lucaris (#319).
+- Quan hệ: Đồng hành cùng Niedz và Lukas; cùng Lukas bám theo can ngăn Niedz trấn lột Rentt nhưng bị cuốn vào (#319).
+- Xuất hiện từ: #319.
+
+### Lukas
+- Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng lùn béo nhưng dũng cảm, có hiểu biết về thảo dược học, bạn thân chí cốt của Niedz và Gahedd tại Lucaris (#319).
+- Quan hệ: Đồng hành cùng Niedz và Gahedd; phát hiện Rentt mua thảo dược ba đồng vàng tại cổng thành và cùng Gahedd bám theo can ngăn Niedz (#319).
+- Xuất hiện từ: #319.
 
 
 
