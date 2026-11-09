@@ -1093,6 +1093,13 @@ Rentt và Rivul tiến tới nơi sâu nhất của hang động và nhận th�
 Rentt dùng mưu mẹo vận Ma Lực khoét hố bẫy dưới chân khiến Khô Lâu Kỵ Sĩ sụp chân mất đà, chớp thời cơ dùng Ma Khí Dung Hợp Thuật chém nổ nát khiên và cánh tay quái vật rồi đâm kiếm xuyên kẽ hở giáp phá nát Ma Tinh hạch tâm.
 Cảnh kết thúc: Khô Lâu Kỵ Sĩ nổ tung vỡ vụn bên trong bộ giáp, Ma Tinh văng ra vách hang và Rivul hò reo chạy tới chúc mừng chiến thắng của Rentt.
 
+## 305
+Rentt dùng Nước Thánh rảy xung quanh và tẩm vào kiếm vung trừ tà, thanh tẩy hoàn toàn lượng chướng khí tích tụ trong hang để ngăn Khô Lâu tiếp tục sinh ra, đồng thời dặn Rivul định kỳ thuê mạo hiểm giả tới rảy Nước Thánh.
+Rivul vô tình vấp phải một chiếc cốc kim loại nhỏ mờ xỉn nhô lên khỏi mặt đất; Rentt nhặt lấy và dự định mang về Maalt thẩm định xem có bán kiếm lời được không, rồi cả hai cùng nhau rời hang trở về làng.
+Sau khi hai người rời đi, hai bóng người bí ẩn xuất hiện ở nơi sâu nhất của hang: một kẻ đóng giả thương nhân lữ hành và một kẻ nghiên cứu Tiến Hóa Bản Thể nhân tạo bằng chiếc cốc; chúng tiếc nuối vì chiếc cốc bị mất nhưng quyết định rời đi và nhắm tới Welfia để tìm kiếm nguyên liệu cho nghiên cứu tiếp theo.
+Cảnh kết thúc: Hai bóng người bí ẩn biến mất không để lại dấu vết.
+
+
 
 
 

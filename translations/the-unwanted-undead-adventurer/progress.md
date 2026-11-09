@@ -309,7 +309,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | reviewed |  |
 | 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | reviewed |  |
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | reviewed |  |
-| 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | todo |  |
+| 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | done |  |
 | 306 |  | Chapter_306 - Vol 13 Intermission - At a Certain Castle....txt | Vol 13 Intermission - At a Certain Castle... | todo |  |
 | 307 |  | Chapter_307 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (1) | todo |  |
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | todo |  |
@@ -981,3 +981,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#302] Dịch 'enchanted torch' / 'magic torch' (đuốc dùng Ma Tinh phát sáng) — tạm chọn 'cây đuốc ma thuật' / 'đuốc ma thuật' và cập nhật glossary.md (phương án khác: 'đuốc ma pháp', 'đuốc ma cụ'). Tạm dùng trong bản dịch: 'đuốc ma thuật'. → Chốt dịch là đuốc ma thuật và giữ trong glossary.md. (orchestrator)
 - [#303] Thuật ngữ 'lesser skeleton mage' dịch là 'Hạ Cấp Khô Lâu Pháp Sư' (theo quy tắc Hán Việt, tương tự 'Lesser Vampire' → 'Hạ Cấp Ma Cà Rồng') hay 'Khô Lâu Pháp Sư Cấp Thấp'? → Tạm dùng: 'Hạ Cấp Khô Lâu Pháp Sư'. → Chốt dịch là Hạ Cấp Khô Lâu Pháp Sư theo quy tắc Hán Việt, đồng bộ với Hạ Cấp Ma Cà Rồng. (orchestrator)
 - [#304] Từ "malice" (lượng Ma Lực ứ đọng sinh ra quái vật trong hang/mê cung, giải trừ bằng nước thánh/thanh tẩy): tạm dịch là "chướng khí" (phương án khác: "oán niệm", "ác ý") để nhất quán với quy tắc #224 trong rules.md và glossary.md ("Accumulative Miasma Disease / accumulative malice disease" -> Bệnh Tích Tụ Chướng Khí). → Chốt dịch là chướng khí theo đúng thiết lập đã có ở #224. (orchestrator)
+- [#305] Dịch 'base product' trong hội thoại kẻ bí ẩn về Tiến Hóa Bản Thể nhân tạo — tạm chọn 'phôi gốc' (phương án khác: 'thể nền', 'vật liệu nền', 'vật phẩm gốc'). → Chốt dùng phôi gốc (cụm từ miêu tả nhất thời trong thí nghiệm, không thêm vào glossary). (orchestrator)
+- [#305] Xưng hô giữa hai nhân vật bí ẩn ở đoạn kết chưa rõ danh tính — tạm chọn xưng hô bình đẳng 'tôi - cậu' (phương án khác: 'tôi - anh'). → Chốt dùng tôi - cậu cho hai nhân vật bí ẩn ở đoạn kết chương 305. (orchestrator)
