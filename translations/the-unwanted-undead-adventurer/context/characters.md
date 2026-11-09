@@ -159,7 +159,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Mạo hiểm giả Đồng Cấp (đủ sức thi Ngân Cấp), mục tiêu Mithril Cấp. Ở Maalt dùng danh tính Rentt Vivie; từ #127 làm nhân viên Hội dưới Wolf Hermann. Biết anh là Undead: Lorraine, Sheila, Wolf, Augurey (#160–161, khế ước Thần Lực của Hozei), Capitan, Gharb (#168), Laura, Isaac, Rina. Nive Maris phán định anh không phải Ma Cà Rồng.
 - Quan hệ: Bạn thân 10 năm của Lorraine; chủ của Rina (quyến thuộc Ma Cà Rồng, #195); khách quen tiệm rèn Clope - Luka; thầy kiếm của Alize. Con nuôi trưởng làng Hathara Ingo Faina và bà Gilda; bạn thuở nhỏ Riri, Fahri, Doras; bà lão Gharb.
 - Lý lịch Hathara: Hậu duệ Vương Quốc Cổ Đại; quản lý Thành Phố Mê Cung Của Hiền Vương Felt (tầng 60 Mê Cung Côn Trùng Cổ); có đá ma pháp đỏ-xanh lập trận dịch chuyển.
-- Trạng thái (đến #201): Cùng Lorraine, Isaac, Laura đánh bại Shumini, cứu Maalt (#192–195); giấu Hội việc Laura chiếm Lõi Mê Cung và Rina thành Ma Cà Rồng. Định thỉnh cầu Thần Giám Định. Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
+- Trạng thái (đến #289): Cùng Lorraine, Isaac, Laura đánh bại Shumini, cứu Maalt (#192–195); giấu Hội việc Laura chiếm Lõi Mê Cung và Rina thành Ma Cà Rồng. Sau chuyến đi vương đô cùng Lorraine và hộ tống Jean Seebeck về Maalt, chuẩn bị lên đường sang thành phố mỏ Welfia dự kỳ thi thăng hạng Ngân Cấp sau một tháng nữa (#289). Còn treo: hẹn gặp Idoles Rogue; ủy thác Hoa Long Huyết của Laura.
 
 ### Rina Rupaage
 - Giới tính/tuổi/vẻ ngoài: Nữ, 17 tuổi (#8), tóc vàng, mắt xanh lam sáng, mảnh mai.
@@ -281,7 +281,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Năng lực: Từng chiến đấu, dùng Thần Lực thanh tẩy quái vật.
 - Quan hệ: Được trẻ mồ côi kính yêu; Alize là "cánh tay phải"; biết ơn Rentt và Lorraine.
 - Quá khứ (#224): Từng là nữ tu kiêm Thánh Giả triển vọng của Tu Viện Ephas từ 15 tuổi, bị điều tới Maalt ~10 năm trước do mâu thuẫn nội bộ Giáo Hội; chủ động cắt liên lạc với Elza để tránh gây rắc rối cho bạn.
-- Trạng thái (đến #215): Từng mắc Bệnh Tích Tụ Chướng Khí, chữa bằng Hoa Long Huyết (#76); đã hoàn toàn bình phục; nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên ở vương đô Vistelya (#215).
+- Trạng thái (đến #289): Từng mắc Bệnh Tích Tụ Chướng Khí, chữa bằng Hoa Long Huyết (#76); đã hoàn toàn bình phục; nhờ Lorraine chuyển thư tới Giáo Hội Đông Thiên ở vương đô Vistelya (#215). Làm quen và được Isaac Hart sửa giúp chiếc vòng gõ cửa bị nguyền rủa của cô nhi viện (#289).
 
 ### Alize
 - Giới tính/tuổi/vẻ ngoài: Nữ, ~12 tuổi, tóc ngắn gọn gàng, phong thái tao nhã dù nghèo. Không có họ.
@@ -304,7 +304,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Trịnh trọng, xưng "tôi", gọi Rentt là "ngài" / "quý ngài".
 - Quan hệ: Quản gia của Laura Latuule (khẳng định Laura mạnh hơn mình); gặp Rentt ở Đầm Lầy Tarasque. Quá khứ là "Kỵ Sĩ Phản Nghịch" (kiếm bạc khắc kỳ lân đâm xuyên rồng), có vụ cá cược liên quan tới việc giết Laura; bạn chiến đấu cũ của Shumini; từng đụng độ Long Tộc.
 - Năng lực: Ma pháp Hỏa Bão; Huyết Binh (biến kiếm liễu thành đại kiếm đỏ thẫm).
-- Trạng thái (đến #275): Kết liễu Shumini (#190–194); chăm Laura đang ngủ sâu; đặt tên tạm "Ma Cà Rồng Long Tộc" cho tiến hóa của Rentt. Từ #225 dạy Rina và Alize ma pháp tấn công tại dinh thự Latuule, #275 thêm võ thuật, đấu tập.
+- Trạng thái (đến #289): Kết liễu Shumini (#190–194); chăm Laura đang ngủ sâu; đặt tên tạm "Ma Cà Rồng Long Tộc" cho tiến hóa của Rentt. Từ #225 dạy Rina và Alize ma pháp tấn công tại dinh thự Latuule, #275 thêm võ thuật, đấu tập; hỗ trợ thu nhận Amapola về Latuule (#285); sửa chiếc vòng gõ cửa bị nguyền rủa cho Cô Nhi Viện Thứ Hai Maalt (#289).
 
 ### Dario Costa
 - Thân phận, vẻ ngoài: Nam, vạm vỡ, giọng thô ráp trầm đục; chuyên gia mổ xẻ đứng đầu Hội Mạo Hiểm Giả Maalt, mê thịt Orc.

@@ -506,8 +506,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | earthen wildparsley |  | cần dại đất | vật phẩm | 287 | Thảo dược ăn được quý hiếm mọc ở đất, món mỹ vị cao cấp (土芹) |
 | wildparsley bloom | wildparsley blooms | hoa cần dại | vật phẩm | 287 | Thảo dược có hoa gây tê liệt khi ăn, nước ép dùng bôi lên vũ khí làm chất gây tê (花芹) |
 | Ete Highway | Ete | Đại Lộ Ete | địa danh | 288 | Tuyến đường chạy qua ngôi làng Mors gần Maalt |
-| Mors | village of Mors | Mors | địa danh | 288 | Ngôi làng nằm dọc theo Đại Lộ Ete gần Maalt |
+| Mors | village of Mors; Mors village | Mors | địa danh | 288 | Ngôi làng nằm dọc theo Đại Lộ Ete gần Maalt |
 | dungeon junk | Dungeon junk; Dungeon Junk | phế phẩm mê cung | vật phẩm | 288 | Phân loại ma cụ thu được từ mê cung nhưng chưa rõ công năng sử dụng |
+| Welfia |  | Welfia | địa danh | 289 | Thành phố mỏ lớn nhất tại Vương Quốc Yaaran, nơi diễn ra kỳ thi thăng hạng Ngân Cấp |
 
 
 

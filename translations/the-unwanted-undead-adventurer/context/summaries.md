@@ -991,5 +991,12 @@ Jean tổ chức tiệc rượu náo nhiệt tại quán cùng các mạo hiểm
 Wolf báo tin vừa phát hiện thêm một mê cung mới đang mở rộng dọc theo Đại Lộ Ete gần ngôi làng Mors, kèm vật chứng là một món ma cụ "phế phẩm mê cung" do một mạo hiểm giả Đồng Cấp săn Goblin đem về.
 Cảnh kết thúc: Lorraine phấn khích nhớ lại điều người sư phụ cũ từng lẩm bẩm về việc mê cung này có thể thúc đẩy sự ra đời của những mê cung khác ở lân cận.
 
+## 289
+Wolf, Lorraine và Rentt tranh luận về giả thuyết mê cung mẹ sinh ra các mê cung con; Wolf lo lắng khối lượng công việc của Hội sẽ quá tải và đòi kéo Rentt vào phụ giúp, nhưng sau đó chuyển sang dặn dò và tiết lộ kỳ thi thăng hạng Ngân Cấp kế tiếp sẽ diễn ra sau một tháng tại thành phố mỏ Welfia.
+Hôm sau, Rentt và Lorraine cùng nhau đi dạo phố Maalt để giải quyết việc vặt; Rentt quyết tâm đến Welfia dự thi thay vì chờ đợi một năm ở Maalt.
+Cả hai đến Cô Nhi Viện Thứ Hai Maalt giao thư cho Sơ Lillian và ngạc nhiên thấy chiếc vòng gõ cửa bị nguyền rủa nay đã được sửa chữa chắc chắn.
+Sơ Lillian vui vẻ tiết lộ chính Isaac Hart đã ra tay sửa giúp trong một lần đưa Alize về; Rentt và Lorraine vừa thán phục sự đa tài của Isaac vừa cảm thấy bùi ngùi chia tay chiếc vòng gõ cửa lỏng lẻo năm xưa.
+Cảnh kết thúc: Rentt và Lorraine đứng trước cửa cô nhi viện với nỗi buồn man mác dâng lên trong lòng.
+
 
 
