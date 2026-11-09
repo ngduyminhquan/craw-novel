@@ -493,5 +493,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Muga | village of Muga | Muga | địa danh | 279 | Ngôi làng trạm dừng chân cho khách lữ hành và thương nhân gần Maalt |
 | arcante grass |  | cỏ arcante | vật phẩm | 279 | Thảo dược mọc ven đường quanh Maalt có giá trị cao ở các thành phố lớn |
 | dewdrop herb | dewdrop herbs | thảo dược giọt sương | vật phẩm | 279 | Thảo dược có hoa đẹp mọc ven đường quanh Maalt có giá trị cao ở các thành phố lớn |
+| Merrow Company | the Merrow Company; Merrow company; the Merrow company | Thương hội Merrow | tổ chức | 282 | Thương hội mới nổi cạnh tranh vị trí lớn nhất thành phố Mystera |
+| Esol Company | the Esol Company; Esol company; the Esol company | Thương hội Esol | tổ chức | 282 | Thương hội lâu đời lớn hàng đầu tại thành phố Mystera |
+| zima herb | zima herbs | thảo dược zima | vật phẩm | 282 | Loại thảo dược mọc nhiều quanh vùng núi giúp chống mưng mủ vết thương |
+| poltorin flower | poltorin flowers | hoa poltorin | vật phẩm | 282 | Loài hoa có nhiều công dụng, dùng làm nguyên liệu chế tạo nước hoa |
 
 

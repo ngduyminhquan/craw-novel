@@ -1672,6 +1672,12 @@ Tỉnh lại trong ngục tối dưới tầng hầm trạm gác, Guster xin bá
 Người đàn ông giàu có bí ẩn thuê Guster cùng một ma pháp sư bất ngờ đột nhập, đánh ngất toàn bộ lính gác và mở khóa giải cứu Guster, hứa thưởng thêm tiền và giúp gã đào tẩu với điều kiện thực hiện một phi vụ tấn công cuối cùng vào ban ngày (do lầm tưởng Rina chỉ nhờ ma cụ nhìn đêm).
 Cảnh kết thúc: Guster đồng ý và cùng người đàn ông cùng ma pháp sư dấn bước vào màn đêm rời khỏi thị trấn tiền đồn.
 
+## 282
+Dorothea và Rina đến một ngôi làng miền núi buôn bán; Dorothea mua thảo dược zima và hoa poltorin từ lũ trẻ để gieo mầm thương mại hàng hóa, đồng thời khéo léo phát hiện và nhắc nhở kín đáo chuyện trưởng làng gian lận cân thóc cùng rượu nhằm tránh gây họa cho dân làng.
+Rina phụ giúp bán hàng và dùng năng lực quái vật cảm nhận được tên cướp Guster (kẻ đã bị cô cắn) đã thoát khỏi nhà giam và đang tiến lại gần.
+Chuyển sang góc nhìn ngôi thứ nhất của Dieg Esol: anh ta là nhị thiếu gia Thương hội Esol tại thành phố Mystera, từng ôm hận vì người anh trai quá hoàn hảo và suýt mưu hại anh mình trước khi được cứu rỗi nhờ tin sắp đặt hôn sự với con gái chủ Thương hội Merrow (Dorothea); dù Dorothea sau đó trốn nhà đi làm thương nhân lữ hành và vị trí thừa kế của Merrow đã ngã ngũ khi chủ thương hội có con trai mới, Dieg vẫn tôn trọng quyết định của cô và từ bỏ.
+Cảnh kết thúc: Hiện tại Dieg đang cùng ma pháp sư lữ hành Amapola và Guster bám theo Dorothea nhằm ép cô bỏ nghề và kết hôn với mình; Dieg nhận ra suy nghĩ của mình quá đỗi phi lý và đầu óc mụ mẫm, đau đớn dữ dội vì bị Amapola thao túng tâm trí.
+
 
 
 

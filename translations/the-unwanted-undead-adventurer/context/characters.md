@@ -140,6 +140,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Arc Tahadu |  | Arc Tahadu | Vua Ma Cà Rồng (Vampire King), được người đánh xe của Laura nhắc tên khi cho biết kẻ tập kích Rentt trong đêm là một người cháu (quyến thuộc đời thứ hai) của hắn | #273 |
 | Dorothea Merrow | Dorothea | Dorothea Merrow | Nữ thương nhân độc hành thuê mạo hiểm giả hộ vệ | #276 |
 | Guster |  | Guster | Thủ lĩnh nhóm cướp lảng vảng quanh Làng Muga | #279 |
+| Dieg Esol | Dieg | Dieg Esol | Nhị thiếu gia của gia tộc Esol tại thành phố Mystera, kẻ thuê Guster cản trở Dorothea (#282) | #282 |
+| Amapola |  | Amapola | Nữ ma pháp sư lữ hành đi cùng Dieg Esol, kẻ thao túng tâm trí Dieg (#282) | #282 |
 
 
 ## Chi tiết
@@ -168,6 +170,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 279: Hộ vệ cho Dorothea rời Maalt được một ngày; dùng kiến thức thảo dược học từ Rentt để nhận diện và thu hoạch cỏ arcante cùng thảo dược giọt sương ven đường; thể hiện sự nhanh nhạy và phản xạ vượt trội khi chém rơi mũi tên bắn lén, phóng dao hạ cung thủ và một mình lao vào rừng săn lùng nhóm cướp của Guster.
 - Trạng thái tính đến chương 280: Lần lượt hạ gục toán cướp trong rừng trong chớp mắt, bắt sống thủ lĩnh Guster và tra hỏi ra việc gã được thuê để quấy phá Dorothea; cùng Dorothea phân tích loại trừ khả năng người cha đứng sau; khẳng định sẽ tiếp tục bảo vệ an toàn cho Dorothea khi nữ thương nhân kiên quyết không bỏ nghề.
 - Trạng thái tính đến chương 281: Vận dụng năng lực thể chất quái vật cùng kỹ năng chiến đấu và thuật thao túng tâm trí học từ Isaac trong các buổi khổ luyện nửa đêm tại dinh thự Latuule lên Guster; cùng Dorothea áp giải Guster bàn giao cho lính gác ở thị trấn tiền đồn.
+- Trạng thái tính đến chương 282: Cùng Dorothea đến một ngôi làng miền núi giao thương; giúp Dorothea tính toán sổ sách bán hàng; dùng năng lực quái vật phát hiện dấu vết tên cướp Guster (kẻ đã bị cô cắn) đang rời khỏi nhà giam và tiến lại gần (#282).
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -889,6 +892,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn. Gặp mặt Rina tại quán trọ ở Maalt (#277); ban đầu lo lắng vì Rina trẻ tuổi, mảnh khảnh và chỉ là Thiết Cấp, nhưng đồng cảm trước sự tự ti của Rina và nhìn thấy hình bóng của chính mình; bị thuyết phục bởi thông tin thực tế của Rina về việc Harpy làm tổ ở Núi Tute và sập cầu ở Đại Lộ Farga; đánh giá cao sự trung thực không vụ lợi đòi tăng thù lao cùng khí chất mạo hiểm giả tự tin không sợ chết của Rina, chính thức thuê cô làm hộ vệ cho chuyến đi buôn bán.
 - Trạng thái tính đến chương 280: Khởi hành cùng Rina được một ngày, cùng Rina thu hoạch nhiều loại thảo dược quý ven đường; chứng kiến Rina quét sạch băng cướp và bắt sống Guster; biết được bản thân bị một kẻ bí ẩn nhắm tới nhằm ép bỏ nghề buôn bán; loại trừ khả năng cha mình là thủ phạm và kiên quyết tiếp tục hành trình buôn bán bất chấp nguy hiểm vì lòng tự tôn nghề nghiệp (#280).
 - Trạng thái tính đến chương 281: Lái xe cùng Rina đến thị trấn tiền đồn và bàn giao Guster cho trạm lính gác; nhờ lính gác điều tra truy tìm kẻ chủ mưu đứng sau vụ việc (#281).
+- Trạng thái tính đến chương 282: Đến buôn bán tại một ngôi làng miền núi; mua thảo dược zima và hoa poltorin từ lũ trẻ để gieo mầm thương mại; khéo léo phát hiện và xử lý kín đáo gian lận cân thóc cùng rượu của trưởng làng; được tiết lộ là thiên kim tiểu thư của Thương hội Merrow tại thành phố Mystera trốn nhà đi làm thương nhân lữ hành (#282).
 - Xuất hiện từ: #276.
 
 ### Guster
@@ -896,7 +900,20 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Từng là dân làng nghèo túng bước vào con đường cướp bóc vì mưu sinh, nhóm gồm kiếm sĩ (Guster), cung thủ và ma pháp sư; tính cách thận trọng, đề cao quản lý rủi ro để sống sót; nhận số tiền lớn từ một người đàn ông bí ẩn để đe dọa, cản trở Dorothea kinh doanh nhằm ép cô bỏ nghề (#279).
 - Trạng thái tính đến chương 280: Cùng đồng bọn phục kích Dorothea và Rina nhưng toàn bộ băng cướp bị Rina tiêu diệt trong chớp mắt; bản thân bị Rina đánh ngất bắt sống và khai hết sự thật về việc được thuê cản trở Dorothea; bị trói gô ném lên cỗ xe để giao cho lính gác thị trấn tiếp theo (#280).
 - Trạng thái tính đến chương 281: Bị Rina thao túng tâm trí nên ngoan ngoãn theo xe đến thị trấn tiền đồn và bị tống vào ngục tối trạm lính gác; khi tỉnh lại thì được người đàn ông bí ẩn cùng một ma pháp sư đột nhập đánh ngất lính gác giải cứu; nhận lời thực hiện một phi vụ tấn công Dorothea cuối cùng vào ban ngày vì tưởng Rina chỉ dựa vào ma cụ nhìn đêm (#281).
+- Trạng thái tính đến chương 282: Được giải thoát và cùng Dieg Esol, Amapola bám theo dấu vết cỗ xe của Dorothea (#282).
 - Xuất hiện từ: #279.
+
+### Dieg Esol
+- Giới tính, vai trò: Nam, nhị thiếu gia gia tộc Esol tại thành phố Mystera (#282).
+- Đặc điểm: Nhị thiếu gia của Thương hội Esol lâu đời tại thành phố Mystera; có tài năng kinh doanh nhất định nhưng luôn bị cái bóng quá lớn của người anh trai tài giỏi gấp trăm lần che khuất; từng nung nấu ý định mưu hại anh trai để đoạt quyền thừa kế cho đến khi được cha sắp xếp hôn sự với con gái chủ Thương hội Merrow (Dorothea) (#282).
+- Trạng thái tính đến chương 282: Sau khi Dorothea trốn nhà đi làm thương nhân lữ hành, anh ta khâm phục quyết tâm của cô và từ bỏ ý định kết hôn; sau đó chủ Thương hội Merrow có con trai nối dõi nên quyền thừa kế ngã ngũ; hiện tại bị ma pháp sư Amapola đi bên cạnh thao túng tâm trí làm đầu óc mụ mẫm, mất dần ký ức và dẫn theo Guster truy lùng Dorothea nhằm ép cô bỏ nghề (#282).
+- Xuất hiện từ: #282.
+
+### Amapola
+- Giới tính, vai trò: Nữ, ma pháp sư lữ hành đi cùng Dieg Esol (#282).
+- Đặc điểm: Nữ ma pháp sư lữ hành bí ẩn tự xưng là cánh tay phải của Dieg Esol; cùng Dieg giải cứu Guster khỏi nhà lao và ép gã tiếp tục phi vụ tấn công Dorothea (#281, #282).
+- Trạng thái tính đến chương 282: Đang đồng hành cùng Dieg Esol và Guster bám theo dấu vết của Dorothea; dùng ma pháp chi phối tâm trí Dieg khiến anh ta rơi vào trạng thái mâu thuẫn, đau đầu dữ dội và mất đi ký ức rõ ràng về việc hợp tác giữa hai người (#282).
+- Xuất hiện từ: #282.
 
 
 

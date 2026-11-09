@@ -286,7 +286,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | reviewed |  |
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | done |  |
 | 281 |  | Chapter_281 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (3) | done |  |
-| 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | todo |  |
+| 282 |  | Chapter_282 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (4) | done |  |
 | 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | todo |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | todo |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -942,3 +943,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#279] Dịch 'dewdrop herb(s)' — tạm chọn 'thảo dược giọt sương' (phương án khác: 'cỏ giọt sương'). → Duyệt "thảo dược giọt sương" (dewdrop herb). (orchestrator)
 - [#280] Xưng hô giữa Rina Rupaage và Guster — tạm chọn Rina xưng 'tôi', gọi 'anh / Guster', Guster xưng 'tôi', gọi 'cô' (phương án khác: Rina xưng 'ta', gọi 'ngươi' kiểu thẩm vấn; Guster xưng 'tôi', gọi 'tiểu thư'). Tạm dùng trong bản dịch: 'tôi - anh' và 'tôi - cô'. → Duyệt giữ Rina xưng "tôi" gọi "anh / Guster", Guster xưng "tôi" gọi "cô" (hợp tính cách lịch sự của Rina). (orchestrator)
 - [#281] Dịch 'outpost town' — tạm chọn 'thị trấn tiền đồn' (phương án khác: 'thị trấn tiền trạm'). → Duyệt "thị trấn tiền đồn" (outpost town). (orchestrator)
+- [#282] Dịch 'angels\' share' (lượng rượu bay hơi khỏi thùng ủ gỗ) — tạm chọn "phần của thiên thần" (kèm diễn giải trong câu 'lượng rượu bay hơi, tức "phần của thiên thần"'; phương án khác: chỉ dịch 'lượng rượu hao hụt do bay hơi'). → Duyệt "phần của thiên thần" (angels' share). (orchestrator)
