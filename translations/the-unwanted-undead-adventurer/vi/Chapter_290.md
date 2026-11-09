@@ -14,23 +14,23 @@ Lại đùa nữa đấy.
 
 "Đúng vậy. Mel và Pochi cũng đều khỏe cả," Lorraine nói. "Họ nhờ chúng tôi gửi lời hỏi thăm tới sơ. Họ thấy buồn khi mãi chẳng nhận được thư hồi âm của sơ đấy."
 
-Lorraine mới là người nhận ủy thác từ Sơ Lillian, tôi chỉ đi cùng mà thôi, nên cô ấy đứng ra báo cáo lại tình hình cho sơ. Dù vậy, tôi theo tới cô nhi viện là vì nghĩ Sơ Lillian hẳn sẽ muốn nghe kể xem Elza, Mel, Pochi cùng lũ trẻ dạo này ra sao.
+Lorraine mới là người nhận ủy thác từ Sơ Lillian, tôi chỉ đi cùng mà thôi, nên cô ấy đứng ra báo cáo lại tình hình cho sơ ấy. Dù vậy, tôi theo tới cô nhi viện là vì nghĩ Sơ Lillian hẳn sẽ muốn nghe kể xem Elza, Mel, Pochi cùng lũ trẻ dạo này ra sao.
 
 "Hai người đã ghé qua cô nhi viện sao?" Sơ Lillian nói. "Ra vậy... Nghe tin mọi người đều bình an, tôi thật lòng rất mừng. Đúng là tôi chưa từng gửi thư hồi âm nhỉ? Tôi chỉ luôn lo rằng làm vậy sẽ mang lại rắc rối cho họ..."
 
-"Rắc rối sao sơ?"
+"Rắc rối sao?"
 
 "Tôi bị điều chuyển về Maalt do một số chuyện nội bộ phức tạp trong giới giáo phẩm..." Sơ Lillian giải thích. "Nói thẳng ra là tôi bị giáng chức. Tôi từng nghĩ việc giữ liên hệ thân thiết với một người như mình sẽ gây ảnh hưởng xấu tới họ. Dù sao họ cũng đang điều hành một cô nhi viện. Lỡ như nguồn kinh phí hỗ trợ bị cắt đứt thì sao?"
 
-À, phải rồi. Cô nhi viện do Mel phụ trách vốn là một cơ sở thuộc Giáo Hội Đông Thiên, đồng nghĩa kinh phí hoạt động của họ đều do nơi đó chu cấp. Tôi không nắm rõ quá khứ của Sơ Lillian, nhưng nếu sơ ấy từng có điều tiếng không hay trong Giáo Hội thì rất có thể cấp trên sẽ thẳng tay trừng phạt những người đứng về phía sơ.
+À, phải rồi. Cô nhi viện do Mel phụ trách vốn là một cơ sở thuộc Giáo Hội Đông Thiên, đồng nghĩa kinh phí hoạt động của họ đều do nơi đó chu cấp. Tôi không nắm rõ quá khứ của Sơ Lillian, nhưng nếu sơ ấy từng có điều tiếng không hay trong Giáo Hội thì rất có thể cấp trên sẽ thẳng tay trừng phạt những người đứng về phía sơ ấy.
 
-Ngay cả khi khả năng đó không lớn như Sơ Lillian lo sợ, sự bận lòng ấy cũng đủ cho thấy sơ quan tâm đến cô nhi viện nơi mình lớn lên nhường nào.
+Ngay cả khi khả năng đó không lớn như Sơ Lillian lo sợ, sự bận lòng ấy cũng đủ cho thấy sơ ấy quan tâm đến cô nhi viện nơi mình lớn lên đến mức nào.
 
-"Tôi nghĩ sơ không cần phải bận tâm về chuyện đó nữa đâu," Lorraine nói. "Mẹ Elza còn bảo có khả năng sơ sẽ được triệu hồi về lại vương đô đấy. À, phải rồi. Tôi có mang một bức thư của người gửi cho sơ đây."
+"Tôi nghĩ sơ không cần phải bận tâm về chuyện đó nữa đâu," Lorraine nói. "Mẹ Elza còn bảo có khả năng sơ sẽ được triệu hồi về lại vương đô đấy. À, phải rồi. Tôi có mang một bức thư của cô ấy gửi cho sơ đây."
 
 "Ô? Có phải là...?"
 
-"Đúng vậy, người nhờ chúng tôi mang về cho sơ. Gửi sơ này."
+"Đúng vậy, cô ấy nhờ chúng tôi mang về cho sơ. Gửi sơ này."
 
 "Cảm ơn hai người." Sơ Lillian nhận lấy bức thư. "Tôi xin phép mở ra đọc ngay tại đây được chứ?"
 
@@ -38,7 +38,7 @@ Ngay cả khi khả năng đó không lớn như Sơ Lillian lo sợ, sự bận
 
 Sơ Lillian bóc dấu niêm phong. Luồng Thần Lực tỏa ra từ phong thư chứng tỏ nó đã hoàn thành trọn vẹn mục đích của Elza: ngăn không cho bất kỳ ai ngoại trừ Sơ Lillian có thể mở bức thư.
 
-Sơ Lillian đưa mắt lướt qua những dòng chữ. Sơ không mất nhiều thời gian để đọc xong, và khi đọc xong, nét mặt sơ giãn ra, tựa như một gánh nặng vừa được trút khỏi vai.
+Sơ Lillian đưa mắt lướt qua những dòng chữ. Sơ ấy không mất nhiều thời gian để đọc xong, và khi đọc xong, nét mặt sơ ấy giãn ra, tựa như một gánh nặng vừa được trút khỏi vai.
 
 "Nếu không phiền, tôi có thể hỏi trong thư viết gì không?" Lorraine hỏi.
 
@@ -56,19 +56,19 @@ Sơ Lillian không có ý định bỏ lại cô nhi viện này để trở v�
 
 Tôi tin chắc nửa câu sau cô ấy chỉ nói đùa.
 
-Sơ Lillian bật cười khúc khích. "Dĩ nhiên rồi. Đến lúc đó tôi sẽ trông cậy vào hai người. Còn về thực lực... trông tôi thế này thôi chứ đánh đấm cũng chẳng phải dạng vừa đâu nhé. Nếu bị đám quái vật khó nhằn tấn công, hai người cứ yên tâm—tôi sẽ bảo vệ chúng ta."
+Sơ Lillian bật cười khúc khích. "Dĩ nhiên rồi. Đến lúc đó tôi sẽ trông cậy vào hai người. Còn về thực lực... trông tôi thế này thôi chứ khi chiến đấu cũng khá tháo vát đấy. Nếu bị đám quái vật khó nhằn tấn công, hai người cứ yên tâm—tôi sẽ bảo vệ tất cả chúng ta."
 
-Lời của sơ ấy khiến tôi ngạc nhiên. Tôi cảm nhận được rằng sơ cũng không hoàn toàn nói đùa. Một chút Thần Lực của sơ đã khẽ tràn ra ngoài—đủ để tôi nhận thấy nguồn Thần Lực đó tinh thuần và hùng mạnh đến nhường nào. Lượng Thần Lực mà tôi và Lorraine sở hữu nếu đem ra so sánh thì chẳng bõ dính răng. Thảo nào Elza lại đặt nhiều kỳ vọng vào tương lai của sơ đến vậy.
+Lời của sơ ấy khiến tôi ngạc nhiên. Tôi cảm nhận được rằng sơ ấy cũng không hoàn toàn nói đùa. Một chút Thần Lực của sơ ấy đã khẽ tràn ra ngoài—đủ để tôi nhận thấy nguồn Thần Lực đó tinh thuần và hùng mạnh đến mức nào. Lượng Thần Lực mà tôi và Lorraine sở hữu nếu đem ra so sánh thì chẳng bõ dính răng. Thảo nào Elza lại đặt nhiều kỳ vọng vào tương lai của sơ ấy đến vậy.
 
-Dĩ nhiên, lượng Thần Lực của một người không phải là yếu tố duy nhất quyết định khả năng chiến đấu của họ, nhưng bất kỳ sinh vật Undead nào cũng sẽ là con mồi ngon ăn đối với sơ, chưa kể khả năng trị liệu và thanh tẩy của sơ cũng sẽ là sự hỗ trợ vô giá trong mọi tình huống.
+Dĩ nhiên, lượng Thần Lực của một người không phải là yếu tố duy nhất quyết định khả năng chiến đấu của họ, nhưng bất kỳ sinh vật Undead nào cũng sẽ là con mồi ngon ăn đối với sơ ấy, chưa kể khả năng trị liệu và thanh tẩy của sơ ấy cũng sẽ là sự hỗ trợ vô giá trong mọi tình huống.
 
-"À, phải rồi," Sơ Lillian nói với vẻ hơi áy náy. "Em ấy còn viết về chuyến dạo phố cùng hai người nữa. Nghe có vẻ em ấy đã gây ra không ít phiền toái cho hai người... Với tư cách bạn thuở nhỏ của em ấy, tôi xin thay mặt tạ lỗi."
+"À, phải rồi," Sơ Lillian nói với vẻ hơi áy náy. "Elza còn viết về chuyến dạo phố cùng hai người nữa. Nghe có vẻ cô ấy đã gây ra không ít phiền toái cho hai người... Với tư cách bạn thuở nhỏ của cô ấy, tôi xin thay mặt tạ lỗi."
 
 Hẳn là Elza đã kể lại vụ lén trốn khỏi tu viện đi chơi trong bức thư.
 
 "Không có gì đâu," Lorraine trấn an. "Chúng tôi cũng thấy rất vui; nói thật thì chuyến đi đó còn mang lại nhiều lợi ích là đằng khác. À, đây này—chúng tôi có mua chút quà cho sơ."
 
-Lorraine trao cho sơ những món quà chúng tôi mua ở vương đô: các loại bánh kẹo để được lâu và trà đen. Món trước dĩ nhiên là dành cho lũ trẻ trong cô nhi viện, còn món sau là loại trà mang thương hiệu mà Elza từng bảo Sơ Lillian rất thích.
+Lorraine trao cho sơ ấy những món quà chúng tôi mua ở vương đô: các loại bánh kẹo để được lâu và trà đen. Món trước dĩ nhiên là dành cho lũ trẻ trong cô nhi viện, còn món sau là loại trà mang thương hiệu mà Elza từng bảo Sơ Lillian rất thích.
 
 "Ôi, hai người làm vậy sao được?" Sơ Lillian ngập ngừng. "Tôi mới là người nhờ cậy hai người mà..."
 
@@ -78,7 +78,7 @@ Lorraine nói từ tận đáy lòng—tới giờ, cả hai chúng tôi đều 
 
 Cuối cùng, Sơ Lillian cũng vui vẻ nhận lấy những món quà.
 
-Sau này chúng tôi mới nghe kể rằng chỗ bánh kẹo đó đã bốc hơi ngay khi sơ vừa chia cho tụi nhỏ. Cũng chẳng có gì bất ngờ—nói về khoản háu ăn, sinh vật duy nhất có thể sánh ngang với các quái vật huyền thoại chính là trẻ con.
+Sau này chúng tôi mới nghe kể rằng chỗ bánh kẹo đó đã bốc hơi ngay khi sơ ấy vừa chia cho tụi nhỏ. Cũng chẳng có gì bất ngờ—nói về khoản háu ăn, sinh vật duy nhất có thể sánh ngang với các quái vật huyền thoại chính là trẻ con.
 
 ◆◇◆◇◆
 
@@ -92,11 +92,11 @@ Cô ấy có dặn tôi lát nữa nhớ đưa cho cô ấy xem món vũ khí s�
 
 "Hử? Ồ, Rentt đấy à!" Clope thò đầu ra từ gian sau cửa tiệm. "Về từ vương đô rồi đấy nhỉ."
 
-Việc anh ấy nghe thấy tiếng tôi có lẽ đồng nghĩa với việc anh không đang rèn đồ. Anh ấy là kiểu người mà dù người ta có đứng bên gào thét thì anh cũng chẳng thèm ngơi tay... dẫu nói cho chính xác hơn thì là do anh quá tập trung nên ngay từ đầu đã chẳng nghe thấy gì rồi.
+Anh ấy nghe thấy tiếng tôi thì có lẽ là đang không rèn đồ. Anh ấy là kiểu người mà dù người ta có đứng bên gào thét thì cũng chẳng thèm ngơi tay... dẫu nói cho chính xác hơn là do quá tập trung nên ngay từ đầu anh ấy đã chẳng nghe thấy gì rồi.
 
 "Tôi mới về hôm nọ thôi," tôi nói. "À, này. Tôi có mua quà cho anh đây."
 
-Clope nhận lấy chiếc túi da lớn tôi đưa rồi nheo mắt nhìn vào trong vẻ ngờ vực một thoáng, trước khi mặt anh giãn ra thành một nụ cười toe toét. "Ồ! Toàn nguyên liệu hảo hạng cả. Mấy thứ này thì quanh vùng này đào đâu ra."
+Clope nhận lấy chiếc túi da lớn tôi đưa rồi nheo mắt nhìn vào trong vẻ ngờ vực một thoáng, trước khi mặt anh ấy giãn ra thành một nụ cười toe toét. "Ồ! Toàn nguyên liệu hảo hạng cả. Mấy thứ này thì quanh vùng này đào đâu ra."
 
 Tôi và Lorraine vốn chưa biết nên mua gì cho Clope, nhưng khi chúng tôi hỏi Augurey...
 
@@ -118,7 +118,7 @@ Augurey từng là khách hàng của Clope, sau khi được tôi giới thiệ
 
 "Cảm ơn cậu nhé. Thế hôm nay cậu có việc gì với tôi đ— Mà thôi, tôi cần gì phải hỏi thừa thãi nhỉ? Chắc hẳn cậu tới vì thứ này rồi."
 
-Clope lấy từ gian sau cửa tiệm ra một bọc vải, cẩn thận nâng niu trên tay. Tôi chẳng cần mở ra cũng biết đó là gì: đó là thanh kiếm tôi đã ủy thác cho anh rèn, được đúc từ Ma Thiết, Ma Tinh của một con Tarasque, loại gỗ đã được truyền Thần Lực của tôi, và chính máu của tôi.
+Clope lấy từ gian sau cửa tiệm ra một bọc vải, cẩn thận nâng niu trên tay. Tôi chẳng cần mở ra cũng biết đó là gì: đó là thanh kiếm tôi đã ủy thác cho anh ấy rèn, được đúc từ Ma Thiết, Ma Tinh của một con Tarasque, loại gỗ đã được truyền Thần Lực của tôi, và chính máu của tôi.
 
 Liệt kê hết mọi nguyên liệu ra thế này... nghe có phần kỳ quặc thật. Dù vậy, Clope chắc chắn sẽ không làm ăn cẩu thả.
 
@@ -132,7 +132,7 @@ Còn về Ma Thiết và Ma Tinh Tarasque, tác dụng của chúng ra sao thì 
 
 "Độ hoàn thiện thế nào rồi anh?" tôi hỏi.
 
-Clope ưỡn ngực tự hào. "Chắc chắn sẽ làm cậu hài lòng—tôi dám đảm bảo đấy." Anh ngừng lại một thoáng. "Thật lòng mà nói thì tôi cũng muốn dùng nguyên liệu tốt hơn nữa cơ, nhưng nghề rèn lúc nào mà chẳng vậy. Đây đã là thành phẩm tốt nhất tôi có thể tạo ra từ những thứ trong tay rồi."
+Clope ưỡn ngực tự hào. "Chắc chắn sẽ làm cậu hài lòng—tôi dám đảm bảo đấy." Anh ấy ngừng lại một thoáng. "Thật lòng mà nói thì tôi cũng muốn dùng nguyên liệu tốt hơn nữa cơ, nhưng nghề rèn lúc nào mà chẳng vậy. Đây đã là thành phẩm tốt nhất tôi có thể tạo ra từ những thứ trong tay rồi."
 
 "Tôi rất mong được thử đây. Cho tôi thử ngay bây giờ được chứ?"
 
@@ -140,13 +140,13 @@ Clope ưỡn ngực tự hào. "Chắc chắn sẽ làm cậu hài lòng—tôi 
 
 Các thợ rèn vốn tương đối quen thuộc với phương thức vận hành riêng rẽ của từng loại năng lượng Ma Lực, Khí Lực hay Thần Lực, cũng như Ma Khí Dung Hợp Thuật. Tuy nhiên, khi nói đến Thần Ma Khí Dung Hợp Thuật, đại đa số thợ rèn hoàn toàn không có chút kinh nghiệm nào trong việc chế tạo công cụ cho những người như vậy. Vốn dĩ ngay từ đầu đã hầu như chẳng có ai sở hữu cả ba loại năng lượng đó rồi.
 
-Vì thế, tất cả những gì Clope và tôi có thể làm là vừa thử nghiệm vừa rút kinh nghiệm. Quá trình đó dường như đã mang lại kết quả: kinh nghiệm tích lũy từ những lần thử đi thử lại các bản mẫu đã thể hiện rõ khi anh ngày càng quen tay hơn với những món vũ khí loại này. Xuyên suốt tiến trình đó, mỗi lần thử tôi đều cảm nhận được các luồng năng lượng luân chuyển qua lưỡi kiếm mượt mà hơn lần trước.
+Vì thế, tất cả những gì Clope và tôi có thể làm là vừa thử nghiệm vừa rút kinh nghiệm. Quá trình đó dường như đã mang lại kết quả: kinh nghiệm tích lũy từ những lần thử đi thử lại các bản mẫu đã thể hiện rõ khi anh ấy ngày càng quen tay hơn với những món vũ khí loại này. Xuyên suốt tiến trình đó, mỗi lần thử tôi đều cảm nhận được các luồng năng lượng luân chuyển qua lưỡi kiếm mượt mà hơn lần trước.
 
 "Mong là tôi sẽ không làm gãy nó," tôi nói đùa.
 
-"K-Khôn hồn thì đừng có làm thế đấy!" Clope lớn tiếng quát. Giọng anh có vẻ rất nghiêm túc. "Nếu cảm thấy sắp gãy thì dừng truyền năng lượng vào ngay lập tức, rõ chưa hả?!"
+"K-Khôn hồn thì đừng có làm thế đấy!" Clope lớn tiếng quát. Giọng anh ấy có vẻ rất nghiêm túc. "Nếu cảm thấy sắp gãy thì dừng truyền năng lượng vào ngay lập tức, rõ chưa hả?!"
 
-Việc tôi từng làm gãy vài bản mẫu thử khiến sự thận trọng của anh là hoàn toàn có cơ sở. Dĩ nhiên tôi đâu cố ý làm gãy chúng, nhưng Thần Ma Khí Dung Hợp Thuật chẳng phải chuyện dễ dàng gì. Tôi vẫn chưa thể kiểm soát được nó—ngay khi tưởng mình đã thành công thì nó lại sụp đổ, và ngay khi nghĩ mình đã dừng lại thì nó vẫn tiếp tục tuôn trào. Những lần như thế diễn ra như cơm bữa, và mỗi một lần vận dụng đều vắt kiệt sức lực đến khó tin.
+Việc tôi từng làm gãy vài bản mẫu thử khiến sự thận trọng của anh ấy là hoàn toàn có cơ sở. Dĩ nhiên tôi đâu cố ý làm gãy chúng, nhưng Thần Ma Khí Dung Hợp Thuật chẳng phải chuyện dễ dàng gì. Tôi vẫn chưa thể kiểm soát được nó—ngay khi tưởng mình đã thành công thì nó lại sụp đổ, và ngay khi nghĩ mình đã dừng lại thì nó vẫn tiếp tục tuôn trào. Những lần như thế diễn ra như cơm bữa, và mỗi một lần vận dụng đều vắt kiệt sức lực đến khó tin.
 
 Không thể phủ nhận đây chính là con át chủ bài của tôi—một đòn đánh đủ mạnh để nghiền nát gần như mọi lớp phòng ngự—nhưng nó cũng là một con dao hai lưỡi, bởi nếu thi triển thất bại thì tình thế sẽ lập tức bị đảo ngược.
 

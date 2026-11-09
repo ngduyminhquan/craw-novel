@@ -294,9 +294,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | reviewed |  |
 | 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | reviewed |  |
 | 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | reviewed |  |
-| 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | done |  |
-| 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | done |  |
-| 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | done |  |
+| 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | reviewed |  |
+| 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | reviewed |  |
+| 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | reviewed |  |
 | 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | todo |  |
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | todo |  |
 | 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | todo |  |

@@ -4,7 +4,7 @@ Ra đến sân trong, tôi tháo lớp vải bọc nhận từ chỗ Clope. Đi�
 
 "Ồ! Thú thật là tôi không ngờ nó lại thành ra thế này..."
 
-"Không ngờ là phải rồi," Clope nói giọng đắc ý. "Mà nói thật, chính tôi cũng chẳng ngờ nó lại ra nông nỗi này đâu. Chắc là do phần gỗ đã được truyền Thần Lực của cậu đấy. Trước đây tôi từng thấy vài món vũ khí làm từ Thánh Thụ, trông cũng từa tựa thế này."
+"Không ngờ là phải rồi," Clope nói giọng đắc ý. "Mà nói thật, chính tôi cũng chẳng ngờ nó lại thành ra thế này đâu. Chắc là do phần gỗ đã được truyền Thần Lực của cậu đấy. Trước đây tôi từng thấy vài món vũ khí làm từ Thánh Thụ, trông cũng từa tựa thế này."
 
 Anh ấy đang nói tới những đường hoa văn độc đáo trên lưỡi kiếm. Cầm lấy chuôi kiếm, tôi thấy hoa văn ấy chạy dọc suốt chiều dài thân kiếm, những đường vân thô ráp gợi nhớ đến các vòng năm tuổi của thân cây. Có điều, nói cho thật chính xác thì bản thân dạng hoa văn đó cũng không hẳn là quá hiếm gặp.
 
@@ -32,7 +32,7 @@ Hoa văn trên lưỡi kiếm thì đẹp thật đấy, nhưng màu sắc của
 
 "Chuyện đó... là khen hay chê vậy...?" tôi hỏi.
 
-Với chiếc mặt nạ đầu lâu cùng món vũ khí này, trông tôi giống một tên cướp hay sát thủ hơn là mạo hiểm giả. Tôi cũng chẳng thể phủ nhận là nó hợp với mình thật, nhưng việc này lại là chuyện hoàn toàn khác so với việc diện mạo đó có xứng đáng là một mạo hiểm giả hay không...
+Với chiếc mặt nạ đầu lâu cùng món vũ khí này, trông tôi giống một tên cướp hay sát thủ hơn là mạo hiểm giả. Tôi cũng chẳng thể phủ nhận là nó hợp với mình thật, nhưng chuyện diện mạo đó có ra dáng một mạo hiểm giả hay không lại là vấn đề hoàn toàn khác...
 
 Trong lúc tôi còn đang ngẫm nghĩ, Clope lên tiếng: "Mà thôi, vẻ ngoài ra sao chẳng quan trọng. Cốt yếu là lúc dùng thấy thế nào kìa. Để tôi xem độ bén của nó ra sao đã."
 
@@ -54,7 +54,7 @@ Dù vậy, thế cũng đã quá tốt rồi. Từ trước tới giờ tôi ch�
 
 Tôi gật đầu. "Tôi ưng lắm. Độ dẻo không gây vướng víu nhiều như tôi tưởng. Thậm chí tôi thấy nó còn giúp tăng lực chém bén hơn nữa cơ."
 
-"Nghe vậy mừng quá. Mà này, không ngờ chưa cần truyền chút năng lượng nào vào mà thanh kiếm đã bén đến mức đó... Có khi hai người lại là một cặp trời sinh đấy nhỉ?"
+"Nghe vậy mừng quá. Mà này, không ngờ chưa cần truyền chút năng lượng nào vào mà thanh kiếm đã bén đến mức đó... Có khi cậu với nó lại là một cặp trời sinh đấy nhỉ?"
 
 Bản thân Clope cũng là kiếm sĩ không tồi, nhưng xem ra lúc anh ấy thử nghiệm thì đường kiếm không được trơn tru như tôi. Tôi thấy chuyện anh ấy bảo tôi và thanh kiếm hợp nhau cũng có lý; thanh kiếm vốn được rèn từ một phần máu của tôi, nên xét theo nghĩa đó thì nó đúng là món vũ khí dành riêng cho tôi rồi. Có lẽ chính vì vậy mà dù không cần rót Ma Lực vào, nó vẫn chém ngọt đến thế.
 
@@ -86,7 +86,7 @@ Tôi còn nghe một câu chuyện khác về một kẻ cũng trải qua tình 
 
 Tiếp theo, tôi quyết định thử truyền Khí Lực vào thanh kiếm. Trong ba nguồn năng lượng mà tôi có, Khí Lực là thứ tôi luôn dựa vào nhiều nhất ngay từ thời còn là con người. Hồi ấy, chính nhờ Khí Lực mà tôi mới đủ mạnh để cuối cùng tiêu diệt được Khô Lâu và Slime.
 
-Nghĩ lại thì tôi đã tiến một chặng đường dài thật rồi. Dạo này tôi có thể chém ngọt những con quái vật như thế chỉ bằng sức mạnh thể chất thuần túy. Dù chưa thể làm vậy với các chủng loài thượng cấp hay cá thể biến dị độc nhất, nhưng ít nhất gặp chúng tôi cũng chẳng đến mức mất mạng ngay tắp lự. Bản thân chuyện đó thôi cũng đã là khác biệt rất lớn rồi.
+Nghĩ lại thì tôi đã tiến một chặng đường dài thật rồi. Dạo này tôi có thể chém ngọt những con quái vật như thế chỉ bằng sức mạnh thể chất thuần túy. Dù chưa thể làm vậy với các chủng loài thượng cấp hay cá thể biến dị độc nhất, nhưng ít nhất khi gặp chúng, tôi cũng chẳng đến mức mất mạng ngay tắp lự. Bản thân chuyện đó thôi cũng đã là khác biệt rất lớn rồi.
 
 Con Ma Cà Rồng tôi chạm trán ở vương đô thì không tính...
 

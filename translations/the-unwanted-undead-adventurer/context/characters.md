@@ -259,7 +259,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Phóng túng, tự do ("nghe thấy tiếng gọi của cơn gió"), tác chiến và trực giác rất nhạy. Mê Slime. Thời trẻ có tên thật dài ngoằng; từng thề không về quê vì chán kẻ kiêu ngạo bảo thủ, nhờ Rentt và Lorraine nhen ý định về thăm ông (#236).
 - Thân phận: Mạo hiểm giả Ngân Cấp, hoạt động ở vương đô Vistelya (#42, #155).
 - Quan hệ: Người quen cũ ở Maalt của Rentt. Nhận ra Rentt và Lorraine dưới lốt cải trang "Purple và Olga" qua kiếm thuật (#159); biết Rentt là Undead (#160) vẫn coi là bạn, sẵn sàng chia máu; ký khế ước giữ bí mật tại Đền thờ Hozei (#161). Từ #231 lập tổ đội tạm với Rentt, Lorraine, chia thù lao ba phần.
-- Trạng thái (đến #236): Làm ủy thác cùng Rentt, Lorraine ở Làng Looza; hóa giải đòn ám sát của Ferrici.
+- Trạng thái (đến #290): Làm ủy thác cùng Rentt, Lorraine ở Làng Looza; hóa giải đòn ám sát của Ferrici (#236). Cùng Rentt và Lorraine săn các quái vật hiếm quanh vùng phụ cận vương đô để lấy nguyên liệu tặng Clope, chia tay nhóm Rentt ở cổng thành Vistelya (#274, #290).
 
 ### Ryuntus
 - Giới tính/tuổi: Nam, ngoài đôi mươi, thanh niên chất phác Làng Todds ven Hồ Ruiess.

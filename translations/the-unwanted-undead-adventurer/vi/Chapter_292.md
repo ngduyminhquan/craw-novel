@@ -4,7 +4,7 @@ Tiếp theo là Thần Lực. Gạt bỏ những nỗi âu lo trong lòng, tôi 
 
 "Cậu đã thử dùng Thần Lực chưa?" Clope hỏi.
 
-Dù đang chăm chú nhìn tôi, nhưng qua câu hỏi thì có vẻ anh ấy không nhìn thấy những gì tôi thấy. Tôi chẳng mất nhiều thời gian để hiểu ra lý do: ngọn lửa này sinh ra từ Thần Lực. Miễn cưỡng nhớ lại lần bị nữ Thợ Săn Ma Cà Rồng điên rồ Nive Maris ép trút ngọn lửa Thần Lực lên người, những ai không sở hữu Thần Lực đều chẳng thể nhìn thấy chúng. Nói ngắn gọn thì ngọn lửa đang bao bọc thanh kiếm của tôi lúc này nhiều khả năng cũng cùng một loại.
+Dù đang chăm chú nhìn tôi, nhưng qua câu hỏi thì có vẻ anh ấy không nhìn thấy những gì tôi thấy. Tôi chẳng mất nhiều thời gian để hiểu ra lý do: ngọn lửa này sinh ra từ Thần Lực. Tôi miễn cưỡng nhớ lại lần nữ Thợ Săn Ma Cà Rồng điên rồ Nive Maris cưỡng ép trút ngọn lửa Thần Lực lên người mình: hồi đó, những ai không sở hữu Thần Lực đều chẳng thể nhìn thấy chúng. Nói ngắn gọn thì ngọn lửa đang bao bọc thanh kiếm của tôi lúc này nhiều khả năng cũng cùng một loại.
 
 Dĩ nhiên, hồi mới học những điều cơ bản về cách sử dụng Thần Lực, tôi đã được chỉ dạy cách làm cho người không có Thần Lực cũng nhìn thấy được. Tôi liền vận dụng kỹ thuật đó để cho Clope thấy.
 
@@ -92,7 +92,7 @@ Trong đầu tôi lập tức nảy ra ý định từ giờ trở đi sẽ mặ
 
 "Thế này... thì... bất tiện... quá thể..." tôi rên rỉ.
 
-Hồi dùng Ma Khí Dung Hợp Thuật với những lưỡi kiếm thông thường, tôi chưa từng cảm thấy kiệt sức đến mức này. Đây hẳn là hệ quả của việc thanh kiếm vừa phải duy trì độ cứng cáp tăng cường cùng hiệu ứng thao túng đất đai, lại vừa gánh thêm độ bén ngọt vượt trội của lưỡi kiếm. Cộng dồn tất cả những thứ đó lại đã tạo nên một gánh nặng khổng lồ.
+Hồi dùng Ma Khí Dung Hợp Thuật với những lưỡi kiếm thông thường, tôi chưa từng cảm thấy kiệt sức đến mức này. Đây hẳn là hệ quả của việc thanh kiếm vừa phải duy trì độ cứng cáp tăng cường cùng hiệu ứng thao túng đất đai, lại vừa gánh thêm độ bén ngọt vượt trội. Cộng dồn tất cả những thứ đó lại đã tạo nên một gánh nặng khổng lồ.
 
 Nếu cứ cố chấp sử dụng quá ba mươi giây, chưa nói tới chuyện thanh kiếm có gãy hay không—chắc chắn bản thân tôi sẽ gục ngã từ rất lâu trước khi nó kịp gãy. Mà tôi còn là Undead đấy. Nếu một người bình thường cầm nó lên dùng, liệu họ có bị hút cạn kiệt sinh lực không? Thanh kiếm này rõ ràng nguy hiểm đến mức khả năng đó hoàn toàn có thể xảy ra.
 
@@ -106,7 +106,7 @@ Anh ấy nói chẳng sai; trên cõi đời này quả thực có kha khá nh�
 
 Clope trầm ngâm suy nghĩ một lát. "Chà, ví dụ dễ hiểu nhất chắc là những thanh kiếm làm hao tổn tuổi thọ của người dùng," anh ấy nói.
 
-"Càng dùng nhiều thì sinh mệnh càng bị gặm nhấm, nhưng đổi lại, thanh kiếm sẽ càng mạnh lên khi cậu càng tiến gần đến cái chết—và hệ quả là dẫn tới những chuyện như người cầm kiếm hóa điên rồi không phân biệt nổi bạn thù. Cách đây một dạo, tôi từng thấy một món hiếm có kim nhọn bật ra từ chuôi kiếm ngay khi có người cầm lên. Những chiếc kim đó sẽ cắm phập vào tay người cầm và hút máu của họ để cường hóa uy lực cho thanh kiếm. Tất nhiên đó là thứ rác rưởi chẳng đáng để bất kỳ kẻ đàng hoàng nào bận tâm, nhưng không thể phủ nhận độ ghê gớm của nó. Những món vũ khí như thế luôn qua tay hết người này tới người khác, tiếng xấu cứ thế đồn xa theo từng đời chủ. Tôi cá là cậu ít nhất cũng từng nghe qua những ví dụ tôi vừa kể rồi, phải không?"
+"Càng dùng nhiều thì sinh mệnh càng bị gặm nhấm, nhưng đổi lại, người cầm kiếm càng tiến gần đến cái chết thì thanh kiếm sẽ càng mạnh lên—và hệ quả là dẫn tới những chuyện như người cầm kiếm hóa điên rồi không phân biệt nổi bạn thù. Cách đây một dạo, tôi từng thấy một món hiếm có kim nhọn bật ra từ chuôi kiếm ngay khi có người cầm lên. Những chiếc kim đó sẽ cắm phập vào tay người cầm và hút máu của họ để cường hóa uy lực cho thanh kiếm. Tất nhiên đó là thứ rác rưởi chẳng đáng để bất kỳ kẻ đàng hoàng nào bận tâm, nhưng không thể phủ nhận độ ghê gớm của nó. Những món vũ khí như thế luôn qua tay hết người này tới người khác, tiếng xấu cứ thế đồn xa theo từng đời chủ. Tôi cá là cậu ít nhất cũng từng nghe qua những ví dụ tôi vừa kể rồi, phải không?"
 
 Thực tế thì tôi đã nghe qua về cả hai loại đó. Những thanh ma kiếm có thể ban cho người ta vinh quang với cái giá phải trả là số phận diệt vong vốn là chủ đề tán gẫu quen thuộc của giới mạo hiểm giả bên bàn rượu. Thỉnh thoảng tên tuổi những chủ nhân của chúng cũng được nhắc tới, nhưng những món vũ khí ấy thường đổi chủ rất nhanh. Còn những ai sử dụng chúng được suốt một thời gian dài thì đều được người đời ca tụng như những bậc anh hùng.
 
