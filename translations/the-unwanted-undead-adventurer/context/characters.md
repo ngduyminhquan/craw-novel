@@ -158,6 +158,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lord Arc |  | Ngài Arc | Cách Tavas tôn kính gọi Vua Ma Cà Rồng Arc Tahadu | #306 |
 | Tavas |  | Tavas | Ma Cà Rồng cấp cao mang diện mạo quý ông, kẻ từng tập kích Rentt tại vương đô; quyến thuộc của Yanshuf Fahalah, cháu của Arc Tahadu | #306 |
 | Yanshuf Fahalah | Yanshuf | Yanshuf Fahalah | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú; quyến thuộc của Arc Tahadu, cha của Tavas | #306 |
+| Hazara Feyvro | Hazara | Hazara Feyvro | Thợ rèn tại thành phố mỏ Welfia, bạn thân kiêm đối thủ thời trẻ của Clope; hiện là phó thợ rèn trưởng của xưởng rèn | #309 |
+| Barzel Staro |  | Barzel Staro | Thợ rèn trưởng của xưởng rèn tại Welfia, sư phụ của Clope và Hazara Feyvro | #309 |
 
 
 
@@ -211,14 +213,24 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Tinh tế, sắc sảo, kín tiếng, có mắt nhìn vũ khí; quan tâm chân thành đến Rentt.
 - Cách nói chuyện: Nhã nhặn, chuyên nghiệp, khéo với khách; dịu dàng với chồng.
 - Quan hệ: Vợ kiêm thanh mai trúc mã của Clope; sớm nhận ra Rentt sau lớp mặt nạ tại tiệm Ba Chĩa, cùng Clope giữ kín bí mật.
-- Trạng thái (đến #308): Nhận đơn rèn kiếm dẫn truyền 3 loại năng lượng cho Rentt (#24); cùng Clope tiếp đón Rentt tại tiệm Ba Chĩa và tế nhị để hai người bàn chuyện ủy thác đi Welfia (#308).
+- Trạng thái (đến #309): Nhận đơn rèn kiếm dẫn truyền 3 loại năng lượng cho Rentt (#24); cùng Clope tiếp đón Rentt tại tiệm Ba Chĩa và tế nhị để hai người bàn chuyện ủy thác đi Welfia (#308). Clope tiết lộ Luka xuất thân gia đình thương nhân giàu có, từng quen biết Clope từ thuở nhỏ ở viện trị liệu cao nguyên, về sau gặp lại và chủ động ép anh cưới mình (#309).
 
 ### Clope
 - Giới tính/tuổi/vẻ ngoài: Nam, ngoài 40, cơ bắp nhưng dáng hơi mảnh, gương mặt dạn dày như chiến binh kỳ cựu.
 - Tính cách: Say mê nghề rèn, tập trung như xuất thần khi rèn; bề ngoài thô ráp như đe dọa nhưng hiền lành, chu đáo với khách. Sở thích làm vườn kín đáo.
 - Cách nói chuyện: Bộc trực, dân dã, ngắn gọn.
 - Quan hệ: Chồng kiêm thanh mai trúc mã của Luka, chủ xưởng rèn Ba Chĩa; bạn lâu năm của Rentt.
-- Trạng thái (đến #308): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118). Rèn xong thanh kiếm mới từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt (#290); cùng Rentt thử nghiệm thành công các hiệu ứng Khí Lực, Ma Lực, Thần Lực và Ma Khí Dung Hợp Thuật của thanh kiếm tại sân trong tiệm Ba Chĩa (#291–292). Tiết lộ quá khứ từng học việc ở thành phố mỏ Welfia, từng tham gia cuộc thi rèn hồi trẻ nhưng sau đó bỏ trốn vì tự ti trước thiên tài để thành thợ rèn lang bạt rồi mới định cư ở Maalt; thuê Rentt làm hộ vệ đồng hành tới Welfia để tham dự cuộc thi rèn (#308).
+- Trạng thái (đến #309): Rèn xong kiếm chịu tải ba nguồn năng lượng cho Rentt (#43); trồng 5 cây chứa Thần Lực, chia 2 cây cho Lorraine (#118). Rèn xong thanh kiếm mới từ Ma Thiết, Ma Tinh Tarasque, gỗ truyền Thần Lực và máu Ma Cà Rồng của Rentt (#290); cùng Rentt thử nghiệm thành công các hiệu ứng Khí Lực, Ma Lực, Thần Lực và Ma Khí Dung Hợp Thuật của thanh kiếm tại sân trong tiệm Ba Chĩa (#291–292). Tiết lộ quá khứ từng học việc ở thành phố mỏ Welfia, từng tham gia cuộc thi rèn hồi trẻ nhưng sau đó bỏ trốn vì tự ti trước đối thủ thiên tài Hazara Feyvro; kể lại chuyện tình cờ gặp Luka thuở nhỏ và lý do định cư ở Maalt; nhận thư của sư phụ Barzel Staro mời tham dự cuộc thi rèn sắp tới và quyết tâm đối diện với quá khứ (#308–309).
+
+### Hazara Feyvro
+- Giới tính/vẻ ngoài: Nam, thợ rèn trạc tuổi Clope.
+- Tính cách: Cần cù, tài năng xuất chúng.
+- Quan hệ: Đồng môn học việc cùng thời, đối thủ kiêm bạn thân của Clope; học trò của Barzel Staro; từng đánh bại Clope trong cuộc thi rèn Welfia nhờ chế tác được ma kiếm. Hiện là phó thợ rèn trưởng xưởng rèn tại Welfia (#309).
+
+### Barzel Staro
+- Giới tính/vẻ ngoài: Nam, thợ rèn cao tuổi tại thành phố mỏ Welfia, sắp giải nghệ gác búa.
+- Tính cách: Nghiêm cẩn, chu đáo, giàu tình cảm với học trò.
+- Quan hệ: Thợ rèn trưởng của xưởng rèn ở Welfia, sư phụ dạy nghề cơ bản cho Clope và Hazara Feyvro; gửi thư mời Clope về dự cuộc thi rèn để chứng kiến tay nghề học trò và hóa giải tiếc nuối xưa (#309).
 
 ### Loris Cariello
 - Giới tính, tuổi/vẻ ngoài: Nam, trung niên, đầu bếp kiêm chủ quán ăn.

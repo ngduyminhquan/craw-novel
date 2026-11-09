@@ -1117,6 +1117,13 @@ Rentt tới tiệm rèn Ba Chĩa; Clope vì phân tâm bởi những bận lòng
 Vào phòng sau, Clope ngỏ lời thuê Rentt làm hộ vệ đi cùng tới thành phố mỏ Welfia để tham dự cuộc thi rèn, trùng khớp với lịch trình dự thi thăng hạng Ngân Cấp của Rentt; Clope hé lộ mình từng học việc ở Welfia rồi bỏ trốn thành thợ rèn lang bạt.
 Cảnh kết thúc: Clope nhớ lại thời trẻ từng tự phụ nghĩ mình tiến bộ vượt bậc, trước khi vấp phải giới hạn tài năng trước những thiên tài thực thụ.
 
+## 309
+Clope kể cho Rentt về thời trẻ ở xưởng rèn Welfia, về người bạn thân kiêm đối thủ Hazara Feyvro; cả hai được thợ rèn trưởng Barzel Staro cử tham gia cuộc thi rèn để chọn người thừa kế, nhưng Hazara rèn ra ma kiếm và giành chiến thắng áp đảo khiến Clope suy sụp bỏ trốn khỏi thành phố làm thợ rèn lang bạt.
+Clope kể lại duyên nợ với người vợ Luka từ thuở nhỏ tại viện trị liệu kiêm nhà thờ trên cao nguyên, và việc Luka ép cưới giúp anh gầy dựng lại sự nghiệp rồi chọn thị trấn biên ải Maalt làm nơi định cư lập nghiệp.
+Rentt ngưỡng mộ hạnh phúc của Clope và Luka nhưng tự ti vì cơ thể Undead, tự nhắc nhở bản thân tiếp tục tìm kiếm Tiến Hóa Bản Thể để lấy lại nhân tính; sau đó Clope đưa cho Rentt đọc lá thư của sư phụ cũ Barzel Staro gửi đến.
+Barzel Staro mời Clope tới Welfia tham dự cuộc thi rèn cùng Hazara (hiện là phó thợ rèn trưởng) trước khi ông gác búa giải nghệ, để hóa giải những khúc mắc tiếc nuối năm xưa.
+Cảnh kết thúc: Clope hiểu được tâm ý của sư phụ, quyết tâm đối diện với quá khứ và lên đường tham dự cuộc thi rèn ở Welfia.
+
 
 
 

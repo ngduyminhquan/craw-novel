@@ -121,6 +121,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Arc Tahadu | cậu bé / cậu thiếu niên / cậu ấy | 306 | Vua Ma Cà Rồng Arc Tahadu ngự trên ngai vàng |
 | Tavas | người đàn ông / gã / Tavas | 306 | Ma Cà Rồng cấp cao mang diện mạo quý ông, quyến thuộc của Arc Tahadu |
 | Yanshuf Fahalah | chàng trai trẻ / Yanshuf Fahalah / Yanshuf | 306 | Ma Cà Rồng cấp cao mang diện mạo thanh niên tuấn tú, quyến thuộc của Arc Tahadu |
+| Hazara Feyvro | Hazara / người thợ rèn / người bạn đối thủ | 309 | Thợ rèn tại Welfia, bạn thân kiêm đối thủ thời trẻ của Clope |
+| Barzel Staro | Barzel Staro / thợ rèn trưởng / người thợ rèn già | 309 | Thợ rèn trưởng tại Welfia, sư phụ của Clope và Hazara |
 
 
 
@@ -621,6 +623,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Arc Tahadu | Yanshuf Fahalah | ta | ngươi / Yanshuf | 306 | Vua Ma Cà Rồng nói chuyện với thuộc hạ cấp con |
 | Yanshuf Fahalah | Arc Tahadu | tôi | Bệ hạ / Người | 306 | Thuộc hạ cấp con cung kính tuyệt đối, sẵn sàng chết thay con mình |
 | Yanshuf Fahalah | Tavas | tôi | cậu / Tavas | 306 | Ma Cà Rồng cấp cha cảnh báo thuộc hạ cấp con |
+| Barzel Staro | Clope | ta | cậu / Clope | 309 | Sư phụ gửi thư mời người học trò cũ tham gia cuộc thi rèn |
 
 
 
