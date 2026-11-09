@@ -115,6 +115,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris / ông ấy | 295 | Trưởng thôn Làng Crask |
 | Alvina | Alvina / bà lão / bà ấy | 298 | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ của Rentt |
 | Deque Eger | Deque / người kỵ sĩ già / ông lão / ông ấy | 299 | Cựu kỵ sĩ giải ngũ làm nông dân, thân chủ của Rentt |
+| Ars | tôi / Ars / cậu bé | 300 | Cậu bé 10 tuổi con trai thương nhân Gund, người kể chuyện trong ngoại truyện #300 |
+| Gund | Gund / cha tôi / cha / người thương nhân | 300 | Thương nhân Gund, cha của Ars và Ridd |
+| Ridd | Ridd / em trai tôi / đứa trẻ | 300 | Cậu bé 3 tuổi, em trai của Ars |
 
 
 
@@ -598,6 +601,18 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Alvina | Rentt Faina | ta | cậu / Rentt | 298 | Bà lão cựu mạo hiểm giả nói chuyện với mạo hiểm giả trẻ |
 | Rentt Faina | Deque Eger | tôi | ông / Deque | 299 | Mạo hiểm giả nói chuyện với cựu kỵ sĩ già thân chủ |
 | Deque Eger | Rentt Faina | tôi | cậu / Rentt | 299 | Cựu kỵ sĩ già giải ngũ nói chuyện mộc mạc, bình đẳng với mạo hiểm giả trẻ |
+| Ars | Gund | con | cha | 300 | Con trai nói chuyện với cha |
+| Gund | Ars | cha | Ars / con | 300 | Cha nói chuyện với con trai |
+| Ridd | Ars | em | anh Ars / anh | 300 | Em trai 3 tuổi nói chuyện với anh trai |
+| Ars | Ridd | anh | Ridd / em | 300 | Anh trai nói chuyện với em trai 3 tuổi |
+| Gund | Rentt Faina | tôi | cậu / Rentt | 300 | Thân chủ thương nhân nói chuyện với mạo hiểm giả hộ vệ |
+| Rentt Faina | Gund | tôi | ông | 300 | Mạo hiểm giả nói chuyện với thân chủ thương nhân |
+| Ridd | Gund | con | cha | 300 | Con trai út nói chuyện với cha |
+| Gund | Ridd | cha | Ridd / con | 300 | Cha nói chuyện với con trai út |
+| Rentt Faina | Ars | tôi | nhóc / Ars | 300 | Mạo hiểm giả người lớn nói chuyện và chỉ bảo cậu bé 10 tuổi |
+| Ars | Rentt Faina | em | anh / anh Rentt | 300 | Cậu bé nói chuyện và học hỏi từ mạo hiểm giả hộ vệ |
+| Rentt Faina | Ridd | tôi | nhóc / Ridd | 300 | Mạo hiểm giả nói chuyện với đứa trẻ 3 tuổi |
+| Ridd | Rentt Faina | em / con | anh Rentt | 300 | Đứa trẻ 3 tuổi nói về mạo hiểm giả |
 
 
 

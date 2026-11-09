@@ -517,6 +517,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Dragonfish | dragonfish; The Dragonfish | Long Ngư | quái vật | 298 | Sinh vật dạng cá khổng lồ sống trong hồ trên đỉnh núi đá, tương truyền có thể hóa rồng (竜魚) |
 | Weger Village | Weger | Làng Weger | địa danh | 299 | Ngôi làng hẻo lánh sâu trong núi nơi Deque mua nhà và ruộng đất để làm nông |
 | His Excellency the Earl | Excellency the Earl | Ngài Bá tước | danh hiệu | 299 | Tôn xưng tôn kính dành cho vị bá tước mà cựu kỵ sĩ Deque từng phụng sự |
+| papyr herb | papyr herbs | thảo dược papyr | vật phẩm | 300 | Loại thảo dược đắt tiền có giá trị chữa bệnh mọc hoang dã ven đường |
 
 
 

@@ -1061,6 +1061,12 @@ Rentt bộc bạch về khao khát vươn tới Mithril Cấp và được Deque
 Vài năm sau, Rentt hay tin một quái vật hùng mạnh tấn công Làng Weger và Deque đã liều mạng chiến đấu đồng quy vu tận với nó; khi Rentt tìm đến làng, dân làng trao lại cho anh hộp hoa quả do Deque cần mẫn vun trồng cùng lời nhắn gửi cuối đời rằng ông đã hoàn thành được ước mơ thứ hai của mình.
 Cảnh kết thúc: Trên đường trở về Maalt, Rentt nếm thử trái cây mang vị ngọt đượm chút vị đắng và chiêm nghiệm về hương vị của cuộc đời.
 
+## 300
+Cậu bé Ars (10 tuổi) cùng cha là thương nhân Gund và em trai Ridd (3 tuổi) trên chuyến buôn hàng quanh Maalt đã thuê Rentt làm hộ vệ; Rentt chỉ cho Ridd nhận biết thảo dược papyr mọc ven đường và từ chối nhận tiền bán thảo dược vì đã được bao ăn.
+Nửa đêm, Rentt nhờ Ars trông lửa trại rồi một mình vào rừng tiêu diệt toán cướp gồm năm mạo hiểm giả Đồng Cấp sa ngã và thu giữ thẻ của chúng để nộp cho Hội.
+Ars kinh ngạc và bộc bạch ước mơ làm mạo hiểm giả; Rentt ân cần chỉ dẫn lộ trình 5 năm rèn luyện kiến thức, cách kiếm tiền trả học phí từ thảo dược, đồng thời hẹn ngày Ars trưởng thành thành mạo hiểm giả xuất chúng sẽ cùng nhau cạn ly.
+Cảnh kết thúc: Ars thức trắng đêm nghe Rentt truyền thụ kiến thức và nhận ra cuộc gặp gỡ với anh chính là một phép màu diệu kỳ.
+
 
 
 

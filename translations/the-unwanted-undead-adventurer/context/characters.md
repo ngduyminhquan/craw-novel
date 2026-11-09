@@ -152,6 +152,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Zutga |  | Zutga | Thợ săn Làng Crask, cùng Rivul là hai tay săn giỏi nhất làng | #296 |
 | Alvina |  | Alvina | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ thuê Rentt đưa lên hồ trên núi đá thăm Long Ngư | #298 |
 | Deque Eger | Deque | Deque Eger | Cựu kỵ sĩ đoàn của một bá tước, giải ngũ về Làng Weger làm nông dân | #299 |
+| Ars |  | Ars | Cậu bé 10 tuổi, con trai người thương nhân lưu động Gund, người kể chuyện trong ngoại truyện | #300 |
+| Ridd |  | Ridd | Cậu bé 3 tuổi, em trai của Ars, con trai người thương nhân lưu động Gund | #300 |
+| Gund |  | Gund | Thương nhân buôn bán nhỏ lưu động quanh thị trấn Maalt, cha của Ars và Ridd | #300 |
 
 
 
@@ -928,4 +931,21 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, cao tuổi, cựu kỵ sĩ từng phụng sự trong đoàn kỵ sĩ của một bá tước, giải ngũ về Làng Weger sống đời làm nông (#299).
 - Tính cách: Khiêm nhường, đĩnh đạc, mộc mạc; từng sống hơn 50 năm chỉ biết đến kiếm thuật nhưng khao khát được trải nghiệm lao động ruộng đồng và trồng trọt; dũng cảm chiến đấu đến cùng để bảo vệ dân làng (#299).
 - Xuất hiện từ: #299.
+
+### Ars
+- Thân phận: Nam, 10 tuổi, con trai của thương nhân Gund, anh trai của Ridd (#300).
+- Tính cách: Thận trọng, thực tế, hay trăn trở về tương lai và trách nhiệm gia đình; khao khát trở thành mạo hiểm giả (#300).
+- Vai trò: Người kể chuyện ngôi thứ nhất trong ngoại truyện #300.
+- Xuất hiện từ: #300.
+
+### Ridd
+- Thân phận: Nam, 3 tuổi, con trai út của thương nhân Gund, em trai của Ars (#300).
+- Tính cách: Hồn nhiên, ngây thơ; được Rentt chỉ dạy cách nhận biết thảo dược papyr (#300).
+- Xuất hiện từ: #300.
+
+### Gund
+- Thân phận: Nam, thương nhân buôn bán nhỏ lưu động quanh thị trấn Maalt, cha của Ars và Ridd (#300).
+- Tính cách: Tháo vát, coi trọng lợi nhuận nhưng biết điều, quý trọng kiến thức và coi trọng sự an toàn của gia đình (#300).
+- Vai trò: Thân chủ thuê Rentt làm hộ vệ trong chuyến buôn hàng (#300).
+- Xuất hiện từ: #300.
 
