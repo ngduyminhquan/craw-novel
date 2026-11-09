@@ -2,7 +2,7 @@
 
 Tôi—Lukas Zeiyu, một mạo hiểm giả Đồng Cấp—khá chắc là mình vừa khám phá ra một kiểu địa ngục hoàn toàn mới.
 
-Hỏi tại sao ư? Câu trả lời đơn giản lắm. Từ trước tới giờ, đối thủ nặng ký nhất mà Niedz, Gahedd và tôi từng đụng độ trong một trận chiến chỉ là một, hai con Goblin bình thường—mà đó là khi cả ba chúng tôi cùng xúm vào đánh đấy. Thế mà chẳng hiểu sao, giờ đây bọn tôi lại thấy mình đang ở trong Mê Cung Các Con Gái Của Hải Thần, nơi mà ngay cả những mạo hiểm giả kỳ cựu của Lucaris cũng phải e dè chẳng dám bước chân vào.
+Hỏi tại sao ư? Câu trả lời đơn giản lắm. Từ trước tới giờ, đối thủ tối đa mà Niedz, Gahedd và tôi có thể đương đầu nổi trong một trận chiến chỉ là một, hai con Goblin bình thường—mà đó là khi cả ba chúng tôi cùng xúm vào đánh đấy. Thế mà chẳng hiểu sao, giờ đây bọn tôi lại thấy mình đang ở trong Mê Cung Các Con Gái Của Hải Thần, nơi mà ngay cả những mạo hiểm giả kỳ cựu của Lucaris cũng phải e dè chẳng dám bước chân vào.
 
 Nếu chỉ có bấy nhiêu thôi thì chắc cũng chưa đến nỗi tệ—ngặt nỗi chuyện đâu chỉ dừng lại ở đó.
 
@@ -38,15 +38,15 @@ Tôi cũng chẳng thể trách họ được. Tôi lúc nào cũng hành độn
 
 Nhưng thường thì mỗi khi lao lên và phó mặc tất cả cho bản năng, kết cục là tôi chỉ rước thêm nhiều thương tích vào người, để rồi những vết thương ấy lại khiến tôi càng thêm chậm chạp. Thảng hoặc tôi cũng có những cú ra đòn may mắn hạ gục quái vật chỉ bằng một nhát, nhưng tôi chẳng thể quy điều đó cho thứ gì khác ngoài sự may rủi nhất thời của số phận.
 
-Ấy vậy mà suốt một thời gian dài, tôi vẫn đinh ninh đó mới là cách chiến đấu đúng đắn. Tôi tin chắc rằng mình cần phải thay đổi cách nhìn nhận của bản thân.
+Ấy vậy mà suốt một thời gian dài, tôi vẫn đinh ninh lao lên như thế mới là cách chiến đấu đúng đắn, và cứ khăng khăng rằng chính lối tư duy của mình mới là thứ cần phải thay đổi.
 
 Rồi hôm nọ, Đại ca Rentt đã nói với tôi một câu. Mà thực ra thì nghe giống như anh ấy đang tự độc thoại thành tiếng hơn, nhưng tôi vẫn khắc sâu từng lời đó vào tâm can.
 
 "Hừm. Vậy ra Lukas là điểm tựa cuối cùng của bộ ba này sao? Niedz lao lên phía trước, Gahedd tùy cơ ứng biến theo tình hình, còn Lukas thì bao quát toàn cục trận đấu và tính toán điểm yếu của đối phương. Xem ra họ đã tự nhiên hình thành một đội hình khá vững chắc... dẫu rằng vẫn còn vài lỗ hổng lộ liễu."
 
-Anh ấy nói ra những lời đó sau khi bọn tôi có một trận đấu tập chớp nhoáng để làm quen với đống trang bị mới toanh mà anh sắm cho. Trận đó là ba đánh một, và chẳng cần nói cũng biết bọn tôi chẳng có lấy nửa phần cơ hội—về cơ bản nó chỉ là sự lặp lại của lần chạm trán đầu tiên giữa bọn tôi, điểm khác biệt duy nhất là lần này cả ba chúng tôi cùng xông vào tấn công thay vì để một mình Niedz hùng hổ lao lên trước. Dĩ nhiên chuyện đó cũng chẳng mảy may thay đổi được kết cục trận đấu.
+Anh ấy nói ra những lời đó sau khi bọn tôi có một trận đấu tập chớp nhoáng để làm quen với đống trang bị mới toanh mà anh ấy sắm cho. Trận đó là ba đánh một, và chẳng cần nói cũng biết bọn tôi chẳng có lấy nửa phần cơ hội—về cơ bản nó chỉ là sự lặp lại của lần chạm trán đầu tiên giữa bọn tôi, điểm khác biệt duy nhất là lần này cả ba chúng tôi cùng xông vào tấn công thay vì để một mình Niedz hùng hổ lao lên trước. Dĩ nhiên chuyện đó cũng chẳng mảy may thay đổi được kết cục trận đấu.
 
-Dẫu vậy, có vẻ như Đại ca Rentt đã phân tích vai trò chiến đấu của từng người chúng tôi trong suốt trận đấu tập. Trước đây tôi chưa từng nghĩ ngợi chi tiết về điều đó, nhưng một khi anh ấy đã gợi mở ý nghĩ ấy trong đầu tôi, tôi mới nhận ra anh nói đúng hoàn toàn. Đó chính là cách bọn tôi chiến đấu bấy lâu nay.
+Dẫu vậy, có vẻ như Đại ca Rentt đã phân tích vai trò chiến đấu của từng người chúng tôi trong suốt trận đấu tập. Trước đây tôi chưa từng nghĩ ngợi chi tiết về điều đó, nhưng một khi anh ấy đã gợi mở ý nghĩ ấy trong đầu tôi, tôi mới nhận ra anh ấy nói đúng hoàn toàn. Đó chính là cách bọn tôi chiến đấu bấy lâu nay.
 
 Ờ thì... dẫu sao cũng đại loại là vậy. Phần lớn thời gian chắc bọn tôi chỉ biết vùng vẫy quáng quàng trong hoảng loạn. Mà cũng khó trách được khi bọn tôi quá đỗi yếu ớt—cảm giác như sự liều mạng tuyệt vọng đến cùng cực đó chính là lợi thế duy nhất mà bọn tôi có được.
 
@@ -54,7 +54,7 @@ Nhưng những lời của Đại ca Rentt đã khiến tôi băn khoăn tự h�
 
 Chắc tôi ngốc lắm mới đi nghĩ ngợi mấy chuyện này vào lúc dầu sôi lửa bỏng thế này. Năm con Hạ Cấp Sahagin mạnh cỡ bằng mười con Goblin cộng lại. Nếu cứ thế lao vào cận chiến trực diện, bọn tôi sẽ gục ngã chỉ trong vài giây ngắn ngủi.
 
-Nhưng đồng thời, có khi chính vì thế mà bọn tôi càng cần phải tính toán cẩn trọng. Dù tôi quen biết Đại ca Rentt chưa lâu, nhưng tôi nghĩ mình hiểu anh ấy đủ để tin rằng tuy anh có thể đưa ra những yêu cầu có vẻ vô lý, song anh sẽ không bao giờ đòi hỏi những điều thực sự bất khả thi.
+Nhưng đồng thời, có khi chính vì thế mà bọn tôi càng cần phải tính toán cẩn trọng. Dù tôi quen biết Đại ca Rentt chưa lâu, nhưng tôi nghĩ mình hiểu anh ấy đủ để tin rằng tuy anh ấy có thể đưa ra những yêu cầu có vẻ vô lý, song sẽ không bao giờ đòi hỏi những điều thực sự bất khả thi.
 
 Vậy nên biết đâu đấy, rất có thể vẫn có một cách nào đó để bọn tôi đánh bại năm con Hạ Cấp Sahagin này. Bọn tôi chỉ cần tìm ra nó mà thôi. Trước hết, vai trò của tôi có lẽ là...
 
@@ -70,7 +70,7 @@ Vậy nên biết đâu đấy, rất có thể vẫn có một cách nào đó 
 
 Cậu ấy liếc nhìn quanh. "Ý hay đấy. Hành lang này hẹp thế này, có khi làm được thật đấy."
 
-Niedz là tay chiến đấu cừ nhất trong nhóm bọn tôi; cậu ấy sẽ không chịu thua trước một con Hạ Cấp Sahagin đâu. Vấn đề duy nhất là số lượng bọn chúng đông hơn một con rất nhiều, nhưng nếu Gahedd và tôi làm tốt nhiệm vụ của mình, bọn tôi có thể tận dụng không gian chật hẹp của hành lang mê cung để đảm bảo Niedz không bao giờ phải đối đầu với nhiều hơn một kẻ địch cùng lúc.
+Niedz là tay chiến đấu cừ nhất trong nhóm bọn tôi, cậu ấy sẽ không chịu thua trước một con Hạ Cấp Sahagin đâu. Vấn đề duy nhất là số lượng bọn chúng đông hơn một con rất nhiều, nhưng nếu Gahedd và tôi làm tốt nhiệm vụ của mình, bọn tôi có thể tận dụng không gian chật hẹp của hành lang mê cung để đảm bảo Niedz không bao giờ phải đối đầu với nhiều hơn một kẻ địch cùng lúc.
 
 Và nếu giữ chân đám Sahagin còn lại ở khoảng cách an toàn là tất cả những gì bọn tôi phải làm, thì tôi tự tin rằng Gahedd và mình có thể xoay xở được. Từ đó, bọn tôi chỉ việc lần lượt dọn sạch từng con một. Đây vẫn là một canh bạc liều lĩnh, bởi tôi chẳng biết liệu thể lực của bọn tôi có trụ nổi chừng ấy thời gian hay không, nhưng—
 
@@ -98,11 +98,11 @@ Từ cách họ chọn vị trí đứng, tôi có thể lờ mờ đoán ra chi
 
 "Gahedd cũng chẳng tệ đâu," Diego cất lời nhận xét. "Cậu ta đã dùng giáo kìm chân đám Hạ Cấp Sahagin cho tới khi hai người kia lấy lại được sự bình tĩnh."
 
-Vì bản thân Diego cũng sử dụng giáo, nên có lẽ anh ấy nhìn thấu những chuyển động của Gahedd hơn. Dù chênh lệch thực lực giữa hai người là một trời một vực, nhưng có lẽ anh cảm thấy có sự đồng điệu nào đó với một người dùng giáo giống mình.
+Vì bản thân Diego cũng sử dụng giáo, nên có lẽ anh ấy nhìn thấu những chuyển động của Gahedd hơn. Dù chênh lệch thực lực giữa hai người là một trời một vực, nhưng có lẽ anh ấy cảm thấy có sự đồng điệu nào đó với một người dùng giáo giống mình.
 
 "So với hai người họ thì Niedz có phần hơi bốc đồng quá," tôi góp lời. "Có lẽ cậu ta đã lao thẳng vào giữa bầy nếu Lukas không lên tiếng nhắc nhở."
 
-Capitan và Diego gật đầu tán thành, nhưng xem chừng Capitan vẫn còn đôi lời muốn nói thêm. "Tùy theo góc nhìn mà cháu cũng có thể bảo cậu ta là kẻ dũng cảm nhất trong cả ba đứa," chú ấy bảo. "Đúng là cậu ta có khựng lại một giây, nhưng đã nhanh chóng sốc lại tinh thần. Đó là điều mà Gahedd và Lukas dường như không làm được. Cậu đầu tiên thì quá chú trọng vào sự an toàn nên do dự chẳng dám chủ động ra tay, còn cậu sau thì... Chà, đơn giản là cậu ta sợ chết khiếp."
+Capitan và Diego gật đầu tán thành, nhưng xem chừng Capitan vẫn còn đôi lời muốn nói thêm. "Tùy theo góc nhìn mà cháu cũng có thể bảo cậu ta là kẻ dũng cảm nhất trong cả ba đứa," chú ấy bảo. "Đúng là cậu ta có khựng lại một giây, nhưng đã nhanh chóng xốc lại tinh thần. Đó là điều mà Gahedd và Lukas dường như không làm được. Gahedd thì quá chú trọng vào sự an toàn nên do dự chẳng dám chủ động ra tay, còn Lukas thì... Chà, đơn giản là cậu ta sợ chết khiếp."
 
 "Xét theo khía cạnh đó thì Niedz đích thực là một mạo hiểm giả," Diego nói. "Dù rằng tính cách ấy thường dẫn những kẻ như thế xuống mồ sớm. Nhưng cũng chính nhờ tính bốc đồng đó mà hai người mới chạm trán nhau, phải không anh Rentt?"
 
@@ -114,11 +114,11 @@ Mạo hiểm giả nhìn chung thường thô lỗ cộc cằn và rất dễ n�
 
 "Với thực lực hiện tại của họ thì đây có lẽ là cách tốt nhất mà họ có thể xoay xở rồi," Diego trầm ngâm nói. "Mà bản thân chiến thuật của họ cũng đâu hẳn là sai. Chỉ có điều... Chà..."
 
-Dù anh bỏ lửng câu nói, tôi khá chắc mình hiểu điều anh sắp sửa nói ra là gì.
+Dù anh ấy bỏ lửng câu nói, tôi khá chắc mình hiểu điều anh ấy sắp sửa nói ra là gì.
 
-"Chú thấy cậu nói đúng đấy," Capitan gật đầu đồng tình. "Bọn chúng cần phải rèn giũa thêm khả năng phán đoán xử lý tình huống. Chú đoán đó chính là chỗ mà sự non nớt thiếu kinh nghiệm của họ lộ rõ nhất. Ồ, nhìn kìa—họ hạ được một con rồi."
+"Tôi thấy cậu nói đúng đấy," Capitan gật đầu đồng tình. "Mấy đứa đó cần phải rèn giũa thêm khả năng phán đoán xử lý tình huống. Tôi đoán đó chính là chỗ mà sự non nớt thiếu kinh nghiệm của họ lộ rõ nhất. Ồ, nhìn kìa—họ hạ được một con rồi."
 
-Quả đúng như vậy, Niedz vừa hạ gục được một con Hạ Cấp Sahagin. Cậu ta trông ngỡ ngàng trong thoáng chốc, cứ như thể chính mình cũng không ngờ lưỡi kiếm lại có thể chém xuyên qua lớp vảy cứng cáp của nó, nhưng khoảnh khắc ấy nhanh chóng trôi qua khi cậu thủ thế vũ khí và quay sang đối mặt với kẻ địch tiếp theo.
+Quả đúng như vậy, Niedz vừa hạ gục được một con Hạ Cấp Sahagin. Cậu ta trông ngỡ ngàng trong thoáng chốc, cứ như thể chính mình cũng không ngờ lưỡi kiếm lại có thể chém xuyên qua lớp vảy cứng cáp của nó, nhưng khoảnh khắc ấy nhanh chóng trôi qua khi cậu ta thủ thế vũ khí và quay sang đối mặt với kẻ địch tiếp theo.
 
 Tôi ngờ rằng bình thường Niedz không đủ sức chém thủng lớp giáp tự nhiên của một con Hạ Cấp Sahagin. Nhưng dưới áp lực khi bọn tôi đứng nhìn chằm chằm và chặn đứng đường tháo lui, hẳn cậu ta đã khai mở được chút sức mạnh tiềm thức mà bất cứ ai cũng có thể bộc phát trong khoảnh khắc ngàn cân treo sợi tóc. Đó là chuyện thường thấy trong chiến đấu.
 
@@ -132,11 +132,11 @@ Tuy nhiên, tôi lại là một con quái vật—một thực thể gắn kế
 
 Đã leo lên tới Đồng Cấp, đương nhiên Niedz phải sở hữu một lượng Ma Lực nhất định để tùy nghi sử dụng. Và trên thực tế, lượng dự trữ của cậu ta còn nhiều gấp mấy lần tôi thời còn sống—đủ để nếu biết dùng một cách khôn ngoan, cậu ta hoàn toàn có thể cường hóa vũ khí và cơ thể đủ khỏe để hạ gục vài ba con Hạ Cấp Sahagin. Dẫu vậy...
 
-"Thằng nhóc hoang phí quá nhiều Ma Lực," Capitan quan sát rồi nhận xét. "Cơ mà thế lại tiện cho chú. Chú vốn chỉ mong được thấy nó cạn sạch Ma Lực mà thôi."
+"Thằng nhóc hoang phí quá nhiều Ma Lực," Capitan quan sát rồi nhận xét. "Cơ mà thế lại tiện cho tôi. Tôi vốn chỉ mong được thấy cậu ta cạn sạch Ma Lực mà thôi."
 
 "Sao lại thế được?" Diego hỏi. "Làm vậy chẳng phải chỉ tổ khiến cậu ta mất mạng thôi sao?"
 
-"Chú muốn dạy bọn chúng cách dùng Khí Lực," Capitan giải thích. "Điều đó có nghĩa là bất cứ lượng Ma Lực nào còn sót lại trong cơ thể cũng sẽ chỉ tổ gây vướng víu. Chuyện đó không hẳn khiến chúng không thể học được, nhưng sẽ tốn nhiều thời gian hơn để có thể cảm nhận được nó."
+"Tôi muốn dạy mấy đứa đó cách dùng Khí Lực," Capitan giải thích. "Điều đó có nghĩa là bất cứ lượng Ma Lực nào còn sót lại trong cơ thể cũng sẽ chỉ tổ gây vướng víu. Chuyện đó không hẳn khiến họ không thể học được, nhưng sẽ tốn nhiều thời gian hơn để có thể cảm nhận được nó."
 
 Diego lộ vẻ ngạc nhiên. "Thật sao? Bản thân tôi trước đây cũng từng thử học cách dùng Khí Lực, nhưng vị tư tế Chiến Thần mà tôi tới bái phỏng chưa từng nói với tôi điều gì như thế cả."
 
@@ -144,4 +144,4 @@ Diego lộ vẻ ngạc nhiên. "Thật sao? Bản thân tôi trước đây cũn
 
 "Không... Rốt cuộc người ta kết luận tôi chẳng có chút năng khiếu nào cả."
 
-"Vậy thì xem chừng cậu gặp phải thầy dở rồi. Bởi vì theo những gì chú thấy thì cậu có đấy."
+"Vậy thì xem chừng cậu gặp phải thầy dở rồi. Bởi vì theo những gì tôi thấy thì cậu có đấy."

@@ -333,9 +333,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 326 |  | Chapter_326 - Vol 14 Chapter 2 - Dungeon Delving (2).txt | Vol 14 Chapter 2 - Dungeon Delving (2) | reviewed |  |
 | 327 |  | Chapter_327 - Vol 14 Chapter 2 - Dungeon Delving (3).txt | Vol 14 Chapter 2 - Dungeon Delving (3) | reviewed |  |
 | 328 |  | Chapter_328 - Vol 14 Chapter 2 - Dungeon Delving (4).txt | Vol 14 Chapter 2 - Dungeon Delving (4) | reviewed |  |
-| 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | done |  |
-| 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | done |  |
-| 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | done |  |
+| 329 |  | Chapter_329 - Vol 14 Chapter 2 - Dungeon Delving (5).txt | Vol 14 Chapter 2 - Dungeon Delving (5) | reviewed |  |
+| 330 |  | Chapter_330 - Vol 14 Chapter 3 - Searching the Dungeon (1).txt | Vol 14 Chapter 3 - Searching the Dungeon (1) | reviewed |  |
+| 331 |  | Chapter_331 - Vol 14 Chapter 3 - Searching the Dungeon (2).txt | Vol 14 Chapter 3 - Searching the Dungeon (2) | reviewed |  |
 | 332 |  | Chapter_332 - Vol 14 Chapter 3 - Searching the Dungeon (3).txt | Vol 14 Chapter 3 - Searching the Dungeon (3) | todo |  |
 | 333 |  | Chapter_333 - Vol 14 Chapter 3 - Searching the Dungeon (4).txt | Vol 14 Chapter 3 - Searching the Dungeon (4) | todo |  |
 | 334 |  | Chapter_334 - Vol 14 Chapter 4 - The Return and a New Find (1).txt | Vol 14 Chapter 4 - The Return and a New Find (1) | todo |  |

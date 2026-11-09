@@ -36,13 +36,13 @@ Bốn bóng người xuất hiện ở phía xa—không ai khác ngoài những
 
 Chắc hẳn họ cũng cảm nhận được thứ mà Capitan và tôi vừa trải qua lúc nãy.
 
-"Làm sao tôi biết được?" tôi đáp. "Nhưng có vẻ mọi chuyện đã lắng xuống rồi. Chắc bọn mình sẽ ổn thôi."
+"Làm sao tôi biết được?" tôi đáp. "Nhưng có vẻ mọi chuyện đã lắng xuống rồi. Chắc chúng ta sẽ ổn thôi."
 
 Câu trả lời của tôi hoàn toàn thật lòng—nói từ tận đáy lòng là đằng khác—nhưng có vẻ như Lukas lại cho rằng tôi đang nói đùa cợt nhả. "N-Nhưng sao anh dám chắc chứ?" cậu ta nói.
 
 "Bọn mình nên rút thôi! Rút ra ngoài rồi, ờ, đi làm vài ly! Phải đấy! Chứ không thì làm sao tôi bình tĩnh lại cho nổi. Khoan đã... Đừng bảo là anh định tiếp tục thám hiểm đấy nhé!"
 
-"Lukas," Diego cất tiếng, nhìn gã mạo hiểm giả béo lùn bằng ánh mắt chẳng có lấy một giọt thương xót.
+"Lukas," Diego cất tiếng, nhìn anh chàng mạo hiểm giả mập mạp bằng ánh mắt chẳng có lấy một giọt thương xót.
 
 "Sao thế anh?"
 
@@ -58,7 +58,7 @@ Dẫu vậy, nói thế có khi lại khiến tôi trông như kẻ liều mạn
 
 "Chắc anh nói đúng..." Lukas nói. "Chỉ là... ngộ nhỡ chuyện đó lại xảy ra thì bọn mình phải làm sao?"
 
-"Thôi bỏ đi, Lukas," Niedz mỉm cười nói. "Nghe từ miệng tôi thì có vẻ đạo đức giả thật, nhưng xét theo những gì bọn mình từng làm thì đáng lẽ tụi mình phải chết từ đời nào rồi mới phải. Thế thì rốt cuộc bị chôn xác ở xó nào có còn quan trọng nữa đâu, đúng không?"
+"Thôi bỏ đi, Lukas," Niedz mỉm cười nói. "Nghe từ miệng tôi thì có vẻ đạo đức giả thật, nhưng xét theo những gì bọn mình từng làm thì đáng lẽ bọn mình đã phải bỏ mạng từ đời nào rồi. Thế thì rốt cuộc bị chôn xác ở xó nào có còn quan trọng nữa đâu, đúng không?"
 
 Lukas cười trừ. "Hì. Ở cạnh cậu chẳng bao giờ gặp được điều gì tốt lành cả, nhỉ? Nhưng mà thôi, chắc vẫn chưa phải là tệ nhất. Chẳng hạn nếu không có cậu thì đời nào tôi chịu đặt chân vào cái mê cung này."
 
@@ -86,11 +86,11 @@ Dẫu vậy, Diego đâu phải kẻ ngốc. Nét mặt anh ấy lộ rõ rằng
 
 Sau khi tôi kể xong, Diego gật đầu. "Vậy ý anh là những gì tôi thấy thực sự từng xảy ra sao?"
 
-"Xem chừng là vậy. Và cô ta bảo nếu chúng ta tiếp tục thám hiểm, có thể sẽ còn gặp phải nhiều ảo ảnh hơn nữa. Bọn mình sẽ phải cẩn thận đấy."
+"Xem chừng là vậy. Và cô ta bảo nếu chúng ta tiếp tục thám hiểm, có thể sẽ còn gặp phải nhiều ảo ảnh hơn nữa. Chúng ta sẽ phải cẩn thận đấy."
 
 "Chắc chắn rồi. Đột ngột mất đi ý thức ở nơi như thế này thì chẳng an toàn chút nào."
 
-Anh ấy nói chuẩn không cần chỉnh. Thật ra, nếu chỉ có mỗi tôi và Diego thì Capitan vẫn có thể bọc lót cho hai chúng tôi, nhưng lời lẽ của người phụ nữ nọ nghe như thể tất cả chúng tôi đều có nguy cơ nhìn thấy ảo ảnh. Nếu tất cả cùng lúc bất tỉnh nhân sự, cả đám rất có thể sẽ biến thành mồi ngon cho quái vật.
+Anh ấy nói chí phải. Thật ra, nếu chỉ có mỗi tôi và Diego thì Capitan vẫn có thể bọc lót cho hai chúng tôi, nhưng lời lẽ của người phụ nữ nọ nghe như thể tất cả chúng tôi đều có nguy cơ nhìn thấy ảo ảnh. Nếu tất cả cùng lúc bất tỉnh nhân sự, cả đám rất có thể sẽ biến thành mồi ngon cho quái vật.
 
 "Thì cậu ấy cũng chỉ mất ý thức trong thoáng chốc thôi," Capitan lên tiếng chỉ ra. "Khá lắm thì cũng vài giây. Cơ mà chú cho rằng chừng đó cũng đủ để định đoạt ranh giới giữa sống và chết rồi..."
 
@@ -102,7 +102,7 @@ Có vẻ chuyện ảo ảnh này lại là một bất lợi nghiệt ngã hơn
 
 Tôi vốn biết Diego có lý do riêng để muốn tới đây, nhưng quyết tâm của anh ấy thậm chí còn kiên định hơn tôi tưởng—dù tôi chẳng hề phản đối chút nào. Giờ chỉ còn mỗi Capitan...
 
-"Dù thế nào đi nữa thì chú cũng cần số hải linh thảo đó," Capitan nói. "Giá mà có những nhóm khác cũng đang thám hiểm mê cung này thì câu chuyện có lẽ đã khác, nhưng hiện giờ mạo hiểm giả tới đây họa hoằn lắm mới có. Kiếm được và giữ được thuyền của Mazlak cũng tốn bao nhiêu công sức, nên chú không đời nào chịu bỏ cuộc dễ dàng thế đâu. Dẫu vậy, chúng ta không thể cứ thế phớt lờ nguy hiểm được, nên cần phải cẩn trọng hơn một chút. Chúng ta sẽ dò xét ở các tầng nông một thời gian xem thế nào, rồi chỉ tiến xuống sâu hơn nếu tình hình có vẻ khả quan. Mọi người thấy sao?"
+"Dù thế nào đi nữa thì tôi cũng cần số hải linh thảo đó," Capitan nói. "Giá mà có những nhóm khác cũng đang thám hiểm mê cung này thì câu chuyện có lẽ đã khác, nhưng hiện giờ mạo hiểm giả tới đây họa hoằn lắm mới có. Kiếm được và giữ được thuyền của Mazlak cũng tốn bao nhiêu công sức, nên tôi không đời nào chịu bỏ cuộc dễ dàng thế đâu. Dẫu vậy, chúng ta không thể cứ thế phớt lờ nguy hiểm được, nên cần phải cẩn trọng hơn một chút. Chúng ta sẽ dò xét ở các tầng nông một thời gian xem thế nào, rồi chỉ tiến xuống sâu hơn nếu tình hình có vẻ khả quan. Mọi người thấy sao?"
 
 Có vẻ Capitan cũng tán thành việc tiếp tục tiến bước. Có điều, chú ấy biết rõ bản chất thật sự của tôi, nên có lẽ đó là lý do chú ấy không tỏ ra quá đỗi lo lắng—nhất là khi chú ấy hẳn có cách riêng để đối phó với ảo ảnh nếu cần thiết. Tôi từng nghe kể những bậc thầy Khí Lực thậm chí có thể duy trì vận chuyển khí ngay cả trong giấc ngủ. Capitan có lẽ tự tin rằng mình có thể giữ vững lớp phòng ngự trong vài giây mà chúng tôi bị ngất đi.
 
@@ -128,4 +128,4 @@ Cả Diego lẫn Capitan đều gật đầu.
 
 "Nếu vậy thì cứ bắt đầu từ các tầng nông đi," Capitan nói, liếc nhìn về phía nhóm Niedz đang đứng cách đó một đoạn ngắn. "Để xem chúng ta có thể kiếm cho họ trận chiến đầu tiên không nào."
 
-Bộ ba trông như thể đang hào hứng đi tham quan ngắm cảnh, ngơ ngác trố mắt nhìn ngắm bên trong mê cung chẳng khác nào mấy gã nhà quê mới chân ướt chân ráo lên phố thị. Xem chừng họ chẳng hề hay biết thứ gì đang chờ đợi mình ở phía trước. Bọn tôi chỉ còn biết hy vọng họ sẽ gom đủ dũng khí và dốc hết sức mình, bởi có vẻ như chúng tôi sắp sửa đẩy họ qua một bài huấn luyện khắc nghiệt hơn cả những gì chính chúng tôi dự tính.
+Bộ ba trông như thể đang hào hứng đi tham quan ngắm cảnh, ngơ ngác trố mắt nhìn ngắm bên trong mê cung chẳng khác nào mấy gã nhà quê mới chân ướt chân ráo lên phố thị. Xem chừng họ chẳng hề hay biết thứ gì đang chờ đợi mình ở phía trước. Chúng tôi chỉ còn biết hy vọng họ sẽ gom đủ dũng khí và dốc hết sức mình, bởi có vẻ như chúng tôi sắp sửa đẩy họ qua một bài huấn luyện khắc nghiệt hơn cả những gì chính mình dự tính.

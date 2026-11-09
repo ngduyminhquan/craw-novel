@@ -522,7 +522,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | His Excellency the Earl | Excellency the Earl | Ngài Bá tước | danh hiệu | 299 | Tôn xưng tôn kính dành cho vị bá tước mà cựu kỵ sĩ Deque từng phụng sự |
 | papyr herb | papyr herbs | thảo dược papyr | vật phẩm | 300 | Loại thảo dược đắt tiền có giá trị chữa bệnh mọc hoang dã ven đường |
 | Chimera | chimeras | Chimera | quái vật | 301 | Quái vật thần thoại dạng hỗn hợp nhiều loài thú |
-| Demihuman | demihuman; Demihumans; demihumans | Á Nhân | chủng tộc | 8 | Các chủng tộc nửa người / giống người |
+| Demihuman | demihuman; Demihumans; demihumans; demi-human; demi-humans; Demi-human; Demi-humans | Á Nhân | chủng tộc | 8 | Các chủng tộc nửa người / giống người |
 | enchanted torch | magic torch; magical torch | đuốc ma thuật | vật phẩm | 302 | Cây đuốc ma cụ hoạt động bằng năng lượng từ Ma Tinh |
 | Lesser Skeleton Mage | lesser skeleton mage; lesser skeleton mages; Lesser Skeleton Mages; skeleton mage; Skeleton Mage | Hạ Cấp Khô Lâu Pháp Sư | quái vật | 303 | Phân loài Khô Lâu yếu nhất có khả năng thi triển ma thuật (下級スケルトンメイジ) |
 | lutedd herb | lutedd herbs; Lutedd herb; Lutedd herbs; lutedd | thảo dược lutedd | vật phẩm | 307 | Thảo dược quý hiếm mọc gần Làng Crask, dùng trong cơ chế động lực của máy móc nhỏ |
