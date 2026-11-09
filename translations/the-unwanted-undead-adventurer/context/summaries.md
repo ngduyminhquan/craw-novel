@@ -1042,6 +1042,13 @@ Chạm trán con Khô Lâu thứ hai đi tuần lẻ loi, Rentt thử nghiệm t
 Rentt nhận thấy Thần Lực mang lại sự chúc phúc khắc chế Undead cực mạnh nhưng tiêu hao nhiều hơn hiệu suất thu lại và tốc độ tích lũy chậm, nên chỉ phù hợp đối phó Undead.
 Cảnh kết thúc: Rentt tạm thu hồi Thần Lực khỏi kiếm, phát tín hiệu cho dân làng đang ẩn nấp rồi cất bước đi tìm con Khô Lâu thứ ba.
 
+## 297
+Con Khô Lâu thứ ba bất ngờ xuất hiện từ phía rừng đe dọa nhóm dân làng; Rentt kịp thời lao tới chắn đòn, dùng kiếm truyền Thần Lực chém bay đầu khiến nó tan thành tro bụi, rồi nghiêm túc dặn dân làng phải ưu tiên bảo toàn tính mạng.
+Tiến vào trung tâm làng, Rentt cùng dân làng phát hiện toán quái vật gồm ba con Khô Lâu thường và hai con Khô Lâu Binh (cầm cung và cầm giáo) khôn ngoan dàn trận bọc lót lẫn nhau ở khoảng sân trống do nhận thấy toán tuần tra mất tích.
+Nhằm trừ khử mối nguy lớn nhất cho dân làng là cung thủ Khô Lâu Binh, Rentt xông vào gạt phăng mũi tên, dùng kiếm truyền Thần Lực chém bay đầu con Khô Lâu chắn đường rồi phóng Thần Lực kéo dài lưỡi kiếm đâm xuyên sọ con Khô Lâu Binh phía sau làm nó hóa tro.
+Dân làng bắn tên quấy rối con Khô Lâu còn lại giúp Rentt chém đôi nó từ sau lưng; sau đó Rentt suy ngẫm về nguồn gốc Undead và bản ngã của mình trước khi vận Khí Lực dốc toàn lực lao vào đơn đả độc đấu.
+Cảnh kết thúc: Rentt tung nhát chém cường hóa Khí Lực chém lìa đầu con Khô Lâu Binh cầm giáo cuối cùng, hoàn tất việc quét sạch lũ Undead trong làng.
+
 
 
 

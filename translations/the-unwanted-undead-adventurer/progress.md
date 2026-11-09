@@ -301,7 +301,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | reviewed |  |
 | 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | reviewed |  |
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | done |  |
-| 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | todo |  |
+| 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | done |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | todo |  |
 | 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | todo |  |
 | 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | todo |  |
