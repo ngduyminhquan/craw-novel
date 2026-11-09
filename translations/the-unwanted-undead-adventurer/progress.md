@@ -318,9 +318,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | reviewed |  |
 | 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | reviewed |  |
 | 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | reviewed |  |
-| 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | done |  |
-| 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | done |  |
-| 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | done |  |
+| 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | reviewed |  |
+| 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | reviewed |  |
+| 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | reviewed |  |
 | 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | todo |  |
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | todo |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | todo |  |

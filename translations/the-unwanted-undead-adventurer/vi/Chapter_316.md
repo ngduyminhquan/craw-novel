@@ -2,17 +2,17 @@
 
 Vừa sải bước qua cánh cổng thành Lucaris, tôi đã bị choáng ngợp.
 
-Lượng người ở đây đông đến mức khiến dân số Maalt chẳng thấm vào đâu nếu đem ra so sánh. Dẫu vậy, tôi cũng đã lường trước điều này, bởi Maalt vốn dĩ chỉ là một thị trấn nhỏ nơi biên viễn. Điều tôi thật sự không ngờ tới chính là sự đa dạng sắc tộc đến kinh ngạc nơi đây—cứ như thể tôi vừa bước chân sang một thế giới khác vậy.
+Lượng người ở đây đông đến mức khiến dân số Maalt chẳng thấm vào đâu nếu đem ra so sánh. Dẫu vậy, tôi cũng đã lường trước điều này, bởi Maalt vốn dĩ chỉ là một thị trấn nhỏ nơi biên viễn. Điều tôi thật sự không ngờ tới chính là sự đa dạng chủng tộc đến kinh ngạc nơi đây—cứ như thể tôi vừa bước chân sang một thế giới khác vậy.
 
 Ngay cả vương đô của Yaaran cũng chẳng sở hữu sự đa dạng đến mức này. Tôi vẫn luôn biết quê mình có phần hẻo lánh và tụt hậu, nhưng cảnh tượng trước mắt mới thực sự khắc sâu điều đó vào tâm trí tôi.
 
-Hơn nữa, những dãy nhà ở đây trông cũng vô cùng cuốn hút. Tuy kiểu kiến trúc bằng gạch đá phổ biến giống bên Yaaran xuất hiện đầy rẫy, nhưng những tòa nhà rực rỡ sắc màu mà tôi chưa từng thấy ở quê nhà cũng nhiều chẳng kém. Mà không biết có phải do tôi tưởng tượng hay không, nhưng phần lớn những người ra vào các tòa nhà đó dường như đều thuộc các chủng tộc á nhân? Toàn bộ những nét kiến trúc này bắt nguồn từ quê hương họ, hay chỉ là nét đặc thù riêng biệt của Ariana?
+Hơn nữa, những dãy nhà ở đây trông cũng vô cùng cuốn hút. Tuy kiểu kiến trúc bằng gạch đá phổ biến giống bên Yaaran xuất hiện đầy rẫy, nhưng những tòa nhà rực rỡ sắc màu mà tôi chưa từng thấy ở quê nhà cũng nhiều chẳng kém. Mà không biết có phải do tôi tưởng tượng hay không, nhưng phần lớn những người ra vào các tòa nhà đó dường như đều thuộc các chủng tộc khác ngoài con người? Toàn bộ những nét kiến trúc này bắt nguồn từ quê hương họ, hay chỉ là nét đặc thù riêng biệt của Ariana?
 
 "Chết thật. Không thể cứ để mình mải mê nhìn ngó mãi thế này được. Xem nào... quán trọ ở đâu được nhỉ...?"
 
 Dù chỉ đi dạo quanh Lucaris thôi cũng đủ mở ra bao phát hiện mới mẻ và thú vị, nhưng dẫu có tính lát nữa sẽ lượn quanh thành phố để tìm Capitan đi chăng nữa, trước hết tôi vẫn cần phải tìm cho mình một chỗ trọ đã.
 
-Nếu có thể, tôi muốn tìm thấy Capitan trước khi ngày hôm nay khép lại, ngặt nỗi việc lùng ra một người giữa thành phố rộng lớn nhường này quả thực chẳng dễ dàng gì. Bà Gharb có chỉ cho tôi vài nơi chú ấy có thể lui tới, nhưng rủi mà chú ấy nổi hứng ghé bừa vào một quán rượu nằm sâu trong con hẻm nào đó thì cơ hội lần ra dấu vết coi như bằng không. Chắc hẳn Capitan phải có kha khá chỗ quen ở đây, và có lẽ chú ấy cũng chẳng buồn kể hết từng nơi một cho bà Gharb nghe.
+Nếu có thể, tôi muốn tìm thấy Capitan trước khi ngày hôm nay khép lại, ngặt nỗi việc lùng ra một người giữa thành phố rộng lớn cỡ này quả thực chẳng dễ dàng gì. Bà Gharb có chỉ cho tôi vài nơi chú ấy có thể lui tới, nhưng rủi mà chú ấy nổi hứng ghé bừa vào một quán rượu nằm sâu trong con hẻm nào đó thì cơ hội lần ra dấu vết coi như bằng không. Chắc hẳn Capitan phải có kha khá chỗ quen ở đây, và có lẽ chú ấy cũng chẳng buồn kể hết từng nơi một cho bà Gharb nghe.
 
 "Xin lỗi, tôi muốn mua một bó thảo dược đằng kia."
 
@@ -26,15 +26,15 @@ Người này mang những đặc điểm của loài dê, nên có lẽ gọi l
 
 Về phần số thảo dược, tôi mua chúng là vì đây là loại cây tôi gần như chẳng bao giờ thấy ở các đồng cỏ hay trong rừng.
 
-"Tôi là dược sư, hoặc ít nhất cũng gần như vậy," tôi giải thích. "Xét về khoản chọn trúng cây cỏ thì anh cứ coi tôi là dân sành sỏi cũng được."
+"Tôi là dược sư, hoặc ít nhất cũng gần như vậy," tôi giải thích. "Xét về khoản chọn lựa cây cỏ thì anh cứ coi tôi là dân sành sỏi cũng được."
 
 "Thật sao? Thế thì có khi anh cũng hứng thú với mấy món này đấy." Người đàn ông thú nhân dê mở một chiếc giỏ trong chồng đồ phía sau lưng, rồi bày vài loại cây khác nhau lên tấm chiếu của mình.
 
-"Phải trèo lên những ngọn núi cực kỳ hiểm trở mới hái được hết đống cây này... Tôi lấy trọn gói chỗ đó nhé."
+"Phải trèo lên những ngọn núi cực kỳ cao mới hái được hết đống cây này... Tôi lấy trọn gói chỗ đó nhé."
 
 "Chà, anh hào phóng thật đấy! Chắc chứ?" Người thú nhân dê chỉ vào những cây thảo dược hiếm nhất trong số vừa bày ra. "Mấy cây này giá không rẻ đâu."
 
-Tôi gật đầu. "Tôi trả nổi mà—vả lại nếu bỏ lỡ dịp này thì chắc còn lâu lắm tôi mới lại bắt gặp chúng. Trừ phi anh thu hoạch chúng khá đều đặn, tôi đoán vậy."
+Tôi gật đầu. "Tôi trả nổi mà—vả lại nếu bỏ lỡ dịp này thì chắc còn lâu lắm tôi mới lại bắt gặp chúng. Trừ phi anh cũng hay thu hái được chúng đều đặn."
 
 "Mấy loại kia thì đúng thế, nhưng riêng mấy cây này thì phải may mắn lắm mới tìm được. Cả thảy... ba đồng vàng, anh thấy thế nào?"
 
@@ -48,7 +48,7 @@ Tôi gật đầu. "Tôi trả nổi mà—vả lại nếu bỏ lỡ dịp này
 
 "Khách của anh lúc nào cũng làm thế à?"
 
-"Hầu như là vậy... Đám thú nhân bọn tôi đi đến đâu cũng như cá mắc cạn. Thành thử khó mà ngẩng cao đầu hay cãi lại được. Dẫu sao thì đây vẫn là một trong những nơi sống ổn nhất mà tôi từng ở." Nét mặt người thú nhân dê thoáng vẻ đượm buồn.
+"Hầu như là vậy... Đám thú nhân bọn tôi đi đến đâu cũng lạc lõng giữa xứ người. Thành thử khó mà ngẩng cao đầu hay cãi lại được. Dẫu sao thì đây vẫn là một trong những nơi sống ổn nhất mà tôi từng ở." Nét mặt người thú nhân dê thoáng vẻ đượm buồn.
 
 Con người thường nhìn nhận các chủng tộc khác bằng ánh mắt định kiến, và thú nhân cũng không phải ngoại lệ. Có đủ loại lý do dẫn tới điều đó, nhưng nguyên nhân lớn nhất đơn giản là loài người thường có xu hướng co cụm cục bộ và bài ngoại.
 
@@ -60,13 +60,13 @@ Dĩ nhiên là bản thân tôi không hề có lối suy nghĩ ấy. Có lẽ t
 
 Từ những gì anh ta chia sẻ thì hẳn cũng đủ thấy, thú nhân có xu hướng sống lang bạt nhiều hơn con người và chẳng mấy khi ở yên một chỗ lâu dài. Nếu không thích một vùng đất nào đó, họ sẽ nhanh chóng bỏ lại nó sau lưng. Có lẽ điều ấy cũng góp phần khiến con người nhìn nhận họ với ánh mắt định kiến.
 
-Cơ mà, Đế Quốc sao? Tôi hiểu được điều đó. Dù không phải ai cũng như vậy, nhưng quê hương của Lorraine mang tư tưởng tôn sùng con người rất nặng nề. Đó là bởi giáo lý của Giáo Hội Lobelia chủ trương như thế, mà họ thì hiện diện ở khắp mọi ngóc ngách bên ấy. Đó cũng là lý do tôi không muốn tín ngưỡng của họ lan rộng ở Maalt—tôn giáo chính của Yaaran là Giáo Hội Đông Thiên thì hoàn toàn không có thứ tư tưởng đó.
+Cơ mà, Đế Quốc sao? Tôi hiểu được điều đó. Dù không phải ai cũng như vậy, nhưng quê hương của Lorraine mang tư tưởng coi con người là thượng đẳng rất nặng nề. Đó là bởi giáo lý của Giáo Hội Lobelia chủ trương như thế, mà họ thì hiện diện ở khắp mọi ngóc ngách bên ấy. Đó cũng là lý do tôi không muốn tín ngưỡng của họ lan rộng ở Maalt—tôn giáo chính của Yaaran là Giáo Hội Đông Thiên thì hoàn toàn không có thứ tư tưởng đó.
 
 Về phần Ariana, tôi nghĩ chẳng có tôn giáo nào thực sự có chỗ đứng vững chắc ở đây, và đó có lẽ là lý do người dân đối xử với thú nhân chẳng khác gì bất kỳ người ngoại quốc nào khác—tức là với thái độ cởi mở. Đây vốn là quốc gia có nhiều hoạt động ngoại thương, nhập cư và di cư.
 
 "Nghe vậy tôi cũng mừng," tôi nói. "Với cái vẻ ngoài này của tôi, mỗi khi đến những nơi không mấy hiếu khách, tôi cứ hay lo sẽ có kẻ muốn kiếm chuyện gây sự."
 
-"Phải rồi, cái mặt nạ đó vừa liếc qua thì ai nhìn cũng thấy khiếp vía. Anh vừa mới đến đây gần đây à?"
+"Phải rồi, cái mặt nạ đó mới thoáng nhìn qua thì ai cũng phải khiếp vía. Anh mới đến đây gần đây à?"
 
 "Thực ra là vừa ban nãy thôi. À phải rồi—tôi có chuyện này muốn hỏi."
 
@@ -96,7 +96,7 @@ Trong trường hợp đó, chú ấy hẳn đã ghé qua Hội ít nhất một
 
 Cứ túc trực chờ ở Hội là phương án chắc ăn nhất, nhưng nếu Capitan tính gom đủ mọi món đồ được yêu cầu rồi mới đem giao một thể, thì có khi vài ngày liền chú ấy cũng chẳng buồn xuất hiện.
 
-Rút cục, lựa chọn tốt nhất của tôi thực sự vẫn chỉ là tự mình ra ngoài tìm kiếm...
+Rốt cuộc, lựa chọn tốt nhất của tôi thực sự vẫn chỉ là tự mình ra ngoài tìm kiếm...
 
 Dù sao đi nữa, giờ tôi cũng đã có kế hoạch. Sau khi nhắn với chủ quán trọ rằng mình sẽ ra ngoài một lát, tôi hướng thẳng về phía Hội Mạo Hiểm Giả.
 
@@ -114,7 +114,7 @@ Trong khi các quầy tiếp tân ở Maalt xếp thành một hàng dài dằng
 
 Đây là một sự đổi mới đáng hoan nghênh so với Maalt, nơi mà Hội chẳng thèm bận tâm đến những chi tiết tinh tế kiểu ấy...
 
-Trong lúc tâm tính của một gã nhà quê trong tôi đang lặng lẽ hòa mình vào bầu không khí đô thị, tôi đưa mắt nhìn quanh. Tôi có thể cảm thấy ai đó đang dõi theo mình. Nhưng là ai cơ chứ?
+Trong lúc gã nhà quê trong tôi đang lặng lẽ đắm mình vào bầu không khí đô hội, tôi đưa mắt nhìn quanh. Tôi có thể cảm thấy ai đó đang dõi theo mình. Nhưng là ai cơ chứ?
 
 Sau vài khoảnh khắc đảo mắt ngó nghiêng hết cỡ như một con cú mèo, tôi nhận ra toàn bộ cánh đàn ông trong sảnh—nhìn qua thì hẳn là mạo hiểm giả—đều đang trừng trừng nhìn tôi.
 
@@ -134,13 +134,13 @@ Tôi chọn lấy một trong các quầy tiếp tân rồi bước về phía c
 
 "Dĩ nhiên rồi. Tôi có thể giúp gì cho anh? Anh đến đây để đăng ủy thác sao? Hay là nhận ủy thác?"
 
-Dù những cái lườm nguýt từ các mạo hiểm giả khác có làm tôi hơi cụt hứng đôi chút, vẻ ngoài của tôi cũng chẳng đến nỗi hoàn toàn vô dụng. Hồi tôi còn là con người, mỗi khi bước vào những Hội mạo hiểm giả lạ lẫm, người ta luôn đinh ninh tôi là khách hàng đến đăng ủy thác. Nhưng từ lúc mang bộ dạng này, họ dường như luôn biết tỏng tôi là mạo hiểm giả đến để nhận việc.
+Dù những cái lườm nguýt từ các mạo hiểm giả khác có làm tôi hơi cụt hứng đôi chút, vẻ ngoài của tôi cũng chẳng đến nỗi hoàn toàn vô dụng. Hồi tôi còn là con người, mỗi khi bước vào những Hội Mạo Hiểm Giả chưa quen mặt mình, người ta luôn đinh ninh tôi là khách hàng đến đăng ủy thác. Nhưng từ lúc mang bộ dạng này, họ dường như luôn biết tỏng tôi là mạo hiểm giả đến để nhận việc.
 
 Thôi thì, thứ lỗi cho tôi vì hồi ấy trông chẳng khác gì thường dân nhé. Tôi vốn là một mạo hiểm giả kỳ cựu cơ đấy...
 
 Dẫu vậy, có lẽ lỗi thuộc về định kiến cá nhân của các nhân viên Hội. Quy trình chuẩn mực vốn dĩ là phải lần lượt hỏi cả hai khả năng, y như những gì cô tiếp tân này vừa làm.
 
-"Không phải cả hai," tôi đáp. "Tôi đang tìm một mạo hiểm giả khác có lẽ đang ở trong thành phố, nên tôi muốn gửi lại một lời nhắn cho chú ấy tại đây."
+"Không phải cả hai," tôi đáp. "Tôi đang tìm một mạo hiểm giả khác có lẽ đang ở trong thành phố, nên tôi muốn gửi lại một lời nhắn cho người đó tại đây."
 
 "Tôi hiểu rồi. Thứ lỗi cho tôi, nhưng bản thân anh cũng là mạo hiểm giả chứ?"
 
@@ -150,7 +150,7 @@ Sau khi kiểm tra, cô tiếp tân nói: "Vâng, mọi thứ đều hợp lệ.
 
 Nếu có thắc mắc vì sao cô ấy lại hỏi tôi có phải mạo hiểm giả hay không, thì đó là vì việc chuyển lời nhắn từ một mạo hiểm giả khác là dịch vụ hoàn toàn miễn phí. Trái lại, nếu tôi là thường dân, tôi sẽ mất vài đồng xu đồng cho một lời nhắn nội bộ—tức là chỉ giới hạn trong phạm vi thành phố. Nếu không quy định như vậy thì ai ai cũng sẽ biến Hội thành cái bảng tin miễn phí mất thôi.
 
-"Vâng, đây là lần đầu tôi tới Ariana. Cơ mà nơi này tuyệt thật đấy. Lucaris là một thành phố rộng lớn—lại còn đẹp nữa—còn tòa Hội ở đây thì quả thực rất khang trang."
+"Đúng vậy, đây là lần đầu tôi tới Ariana. Cơ mà nơi này tuyệt thật đấy. Lucaris là một thành phố rộng lớn—lại còn đẹp nữa—còn tòa Hội ở đây thì quả thực rất khang trang."
 
 Tôi vẫn chưa thể nhận xét gì về phẩm chất của các mạo hiểm giả nơi đây. À thì, ngoại trừ cái chuyện họ trông giống hạng người khó ưa có thể kiếm cớ gây sự với một kẻ lạ mặt vừa bước vào... nhưng tôi đâu cần phải bận tâm nói toẹt điều đó ra làm gì.
 
@@ -166,7 +166,7 @@ Cô tiếp tân có vẻ hài lòng trước lời khen của tôi. "Cảm ơn l
 
 Tôi chớp mắt. "Quen chứ. Tôi đoán là cô cũng biết chú ấy?"
 
-Cô tiếp tân gật đầu lia lịa. "Dĩ nhiên rồi! Chú ấy không sống ở đây, nhưng thi thoảng lại xuất hiện và quét sạch toàn bộ các ủy thác tồn đọng bấy lâu chỉ trong một lượt, kể cả những ủy thác hóc búa mà ai nấy đều né tránh. Một tay chú ấy đã nâng tỷ lệ hoàn thành ủy thác của chi nhánh chúng tôi tăng vọt trong thời gian gần đây đấy!"
+Cô tiếp tân gật đầu lia lịa. "Dĩ nhiên rồi! Chú ấy không sống ở đây, nhưng thi thoảng lại xuất hiện và quét sạch toàn bộ các ủy thác tồn đọng bấy lâu chỉ trong một lượt, kể cả những ủy thác hóc búa mà ai nấy đều né tránh. Một tay chú ấy đã kéo tỷ lệ hoàn thành ủy thác của chi nhánh chúng tôi tăng vọt trong thời gian gần đây đấy!"
 
 Trông cô ấy vui vẻ đến mức bản thân tôi cũng thấy nở mày nở mặt đôi chút. Thật dễ chịu khi được nghe người khác ca ngợi người thầy cũ của mình.
 
@@ -194,9 +194,9 @@ Người ta hẳn sẽ thắc mắc làm thế quái nào mà ai đó có thể 
 
 Dĩ nhiên là bản thân tôi chưa từng đến đó bao giờ, nhưng rồi sẽ có ngày tôi phải tới, xét việc mục tiêu của tôi là nhắm tới Mithril Cấp. Tôi sẵn sàng làm bất cứ điều gì để trở nên mạnh mẽ hơn... dẫu trong thâm tâm có đôi phần phản đối cái ý nghĩ phải nhảy thẳng vào miệng núi lửa.
 
-Dẫu sao thì, xét tới mức độ phiền toái mà các mê cung có thể mang lại, Mê Cung Các Con Gái Của Hải Thần nếu đem ra so sánh thì xem chừng cũng chẳng đến nỗi quá tệ. Khỏi phải nói cũng biết các nguyên liệu tìm thấy trong đó khó kiếm đến nhường nào, và hải linh thảo chính là một ví dụ điển hình. Môi trường tự nhiên của chúng là những vùng sâu dưới đáy biển—không phải nơi con người có thể tùy tiện dạo bước tới. Thông thường, lựa chọn duy nhất là nhờ cậy một ngư nhân thu hái giúp, nhưng loại thảo dược này lại mọc ở độ sâu mà chỉ một số ngư nhân nhất định mới lặn tới được. Trong tình cảnh đó, phương án khả dĩ tiếp theo để tìm thảo dược chính là lặn lội vào mê cung để săn lùng chúng.
+Dẫu sao thì, xét tới mức độ phiền toái mà các mê cung có thể mang lại, Mê Cung Các Con Gái Của Hải Thần nếu đem ra so sánh thì xem chừng cũng chẳng đến nỗi quá tệ. Khỏi phải nói cũng biết các nguyên liệu tìm thấy trong đó khó kiếm đến mức nào, và hải linh thảo chính là một ví dụ điển hình. Môi trường tự nhiên của chúng là những vùng sâu dưới đáy biển—không phải nơi con người có thể tùy tiện dạo bước tới. Thông thường, lựa chọn duy nhất là nhờ cậy một ngư nhân thu hái giúp, nhưng loại thảo dược này lại mọc ở độ sâu mà chỉ một số ngư nhân nhất định mới lặn tới được. Trong tình cảnh đó, phương án khả dĩ tiếp theo để tìm thảo dược chính là lặn lội vào mê cung để săn lùng chúng.
 
-Mỗi mê cung đều có chủng loại nguyên liệu và vật phẩm có thể tìm thấy rất khác nhau. Mê cung ở Maalt sở hữu một hệ vật phẩm đặc thù riêng, và những nơi khác cũng không phải ngoại lệ. Vì Mê Cung Các Con Gái Của Hải Thần nằm dưới nước, nên nhiều nguyên liệu thu hoạch được ở đó đều mang đặc tính của sinh vật thủy sinh—đó là lý do vì sao Capitan lại tới đó để tìm kiếm hải linh thảo.
+Mỗi mê cung đều có chủng loại nguyên liệu và vật phẩm có thể tìm thấy rất khác nhau. Mê cung ở Maalt sở hữu một hệ vật phẩm đặc thù riêng, và những nơi khác cũng không phải ngoại lệ. Vì Mê Cung Các Con Gái Của Hải Thần nằm dưới nước, nên nhiều nguyên liệu thu hoạch được ở đó đều mang đặc tính thủy sinh—đó là lý do vì sao Capitan lại tới đó để tìm kiếm hải linh thảo.
 
 Cơ mà, chú ấy sẽ không quay về trước chiều tối sao?
 
@@ -212,7 +212,7 @@ Cơ mà, chú ấy sẽ không quay về trước chiều tối sao?
 
 "Thế sao? Cảm ơn cô nhé. Cơ mà phòng khi chúng tôi vẫn bị lỡ nhau, đây là quán trọ tôi đang ở. Cô có thể nhắn chú ấy ghé qua đó được không?"
 
-"Dĩ nhiên rồi ạ."
+"Dĩ nhiên rồi."
 
 Thu xếp xong xuôi chuyện đó, trừ phi có tình huống ngoại lệ nào xảy ra, tôi gần như chắc chắn sẽ gặp được Capitan vào hôm nay hoặc ngày mai. Giờ thì, tôi nên dành quãng thời gian còn lại trong ngày để làm gì đây?
 
