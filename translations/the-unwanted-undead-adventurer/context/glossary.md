@@ -50,6 +50,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity | divinity | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
 | Static mana | static mana | Ma Lực tĩnh | hệ thống | 310 | Ma Lực mất ổn định thoát ra khi quái vật bị tiêu diệt (静止魔力) |
+| capacity |  | vật chứa | hệ thống | 313 | Tiềm năng phát triển vốn có của quái vật trong thuật thuần hóa (器/キャパシティ) |
 | Giant Skeleton | the Giant Skeleton; Giant Skeletons | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
 | Soldier Skeleton | Soldier Skeletons; Skeleton Soldier; Skeleton Soldiers | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
 | Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
@@ -83,7 +84,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Labyrinth Orc | Labyrinth Orcs | Orc Mê Cung | quái vật | 30 | Phân loài Orc sinh sống đơn độc trong mê cung |
 | Shield | Shield spell | Khiên Chắn | kỹ năng | 26 | Ma pháp phòng ngự tạo ra lớp khiên ma lực bảo vệ bản thân (シールド) |
 | Maalt-Hoonoki | Maalt Hoonoki; Maaltan magnolia | Hoonoki Maalt | vật phẩm | 31 | Loài cây trong rừng quanh Maalt, lá to mềm có tác dụng bảo quản thịt tươi (マールトホオノキ) |
-| Grand Slime | Grand Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
+| Grand Slime | Grand Slimes; Gran Slime; Gran Slimes | Đại Slime | quái vật | 36 | Phân loài Slime khổng lồ thường làm quái vật thủ lĩnh các tầng nông hoặc quái thường tầng sâu |
 | Grand Prox | Grand! Prox!! | GRAND! PROX!! | kỹ năng | 36 | Ma pháp hỏa hệ cấp cao của Laura Satii (câu chú giữ nguyên) |
 | Breeze |  | Breeze | kỹ năng | 37 | Ma pháp phong hệ cơ bản tạo luồng gió nhẹ của Laura Satii (câu chú giữ nguyên) |
 | Guild Guildar |  | Guild Guildar | khác | 38 | Tên nhân vật hư cấu dùng làm mẫu trên thẻ mạo hiểm giả của Hội |
@@ -128,7 +129,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | healer | healers | thầy trị liệu | chức nghiệp | 50 | Người hành nghề chữa trị, trị liệu bệnh tật vết thương |
 | herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược (riêng bà Gharb ở Làng Hathara gọi là bà lão làm thuốc theo characters.md) |
 | Magecraft |  | ma thuật | kỹ năng | 60 | Nghệ thuật sử dụng Ma Lực thi triển các phép thuật huyền bí (魔術) |
-| Latuule Family | the Latuule Family; the Latuules; Latuules; House Latuule | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
+| Latuule Family | the Latuule Family; the Latuules; Latuules; House Latuule; the Latuule household; Latuule household | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
 | Divine Tools | Divine Tool; divine item; divine items | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
 | Curiosities |  | Kỳ Cụ | vật phẩm | 62 | Phân loại ma cụ mang công năng kỳ lạ, độc nhất vô nhị (奇具/奇品) |
 | Cursed Artifacts | Cursed Artifact; cursed item; cursed items | Nguyền Cụ | vật phẩm | 62 | Phân loại ma cụ mang lời nguyền rủa hoặc tác dụng phụ nguy hại (呪具) |

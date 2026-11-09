@@ -1144,6 +1144,12 @@ Về tới nhà, mẹ nuôi Gilda vui mừng đón tiếp và hiểu nhầm hai 
 Gilda thấy Lorraine nhìn mình liền tế nhị viện cớ đi giao mứt cho Reggie để hai người nói chuyện với Ingo; Ingo tiếp đón niềm nở, bàn luận cùng Lorraine về độ tuổi kết hôn và nếp cưới muộn ở Hathara nhờ có các dược sư và pháp sư giỏi giang chăm sóc sức khỏe.
 Cảnh kết thúc: Sau khi Ingo an tâm vì Rentt có Lorraine ở bên, Lorraine chính thức ngỏ lời nhờ ông chỉ dạy ngón nghề người thuần hóa quái vật.
 
+## 313
+Lorraine thả hai con Slime tí hon từ cống ngầm Maalt ra bàn; Ingo nhận ra chúng bị kích thích ép lớn bất thường và tiết lộ bí thuật thuần hóa quái vật cổ đại (từng giúp ông huấn luyện một con Phi Long nhỏ tiến hóa thành Lindblum) bằng cách vận hành Ma Lực mà không làm tổn hại đến "vật chứa" (capacity) tiềm năng của quái vật.
+Ingo nhiệt tình đồng ý truyền dạy kỹ thuật cho Lorraine; sau đó Lorraine lấy chiếc cốc tìm được ở Làng Crask ra cho Ingo xem xét.
+Ingo liên tưởng công năng của chiếc cốc với một mê cung: cả hai đều có khả năng thu gom Ma Lực thúc đẩy quái vật Tiến Hóa Bản Thể với hiệu suất cao, gợi mở giả thuyết chiếc cốc là mê cung thu nhỏ hoặc được chế tạo từ cùng một nền tảng kỹ thuật với mê cung nhân tạo.
+Cảnh kết thúc: Rentt và Lorraine thán phục trước góc nhìn mới mẻ của Ingo, và Lorraine quyết định sẽ định hướng các thí nghiệm tương lai về chiếc cốc theo giả thuyết mê cung này.
+
 
 
 

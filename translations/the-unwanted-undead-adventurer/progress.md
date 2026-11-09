@@ -317,7 +317,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | reviewed |  |
 | 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | done |  |
 | 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | done |  |
-| 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | todo |  |
+| 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | done |  |
 | 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | todo |  |
 | 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | todo |  |
 | 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 ## Đã quyết
 
@@ -992,3 +991,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#309] Xưng hô trong thư của thợ rèn trưởng Barzel Staro gửi học trò cũ Clope (nay đã ngoài 40 tuổi) — tạm chọn Barzel Staro xưng 'ta', gọi 'cậu / Clope', kết thư 'Thầy của cậu,' (phương án khác: xưng 'thầy', gọi 'con / Clope', kết thư 'Thân ái,'). → Chốt Barzel Staro xưng ta, gọi cậu / Clope theo đúng thiết lập trong pronouns.md. (orchestrator)
 - [#310] Có nên loại bỏ alias từ đơn 'Latuule' khỏi mục 'Latuule Family' trong glossary.md để tránh cảnh báo giả khi raw chỉ xuất hiện tên riêng 'Laura Latuule'? (tạm giữ nguyên theo context cũ và giải trình trong QA) → Giữ nguyên alias Latuule trong glossary (vì raw đôi khi dùng tắt Latuule chỉ gia tộc), cảnh báo giả khi gặp Laura Latuule chỉ là cảnh báo nhẹ không chặn QA. (orchestrator)
 - [#311] "Gharb the herbalist": glossary dịch herbalist là "dược sư", nhưng Gharb tại Làng Hathara từ chương 136 luôn được gọi là "bà lão làm thuốc" (Norman Hanel ở Maalt mới là "dược sư") → Đề xuất giữ "bà lão làm thuốc Gharb", tạm dùng trong bản dịch. → Giữ "bà lão làm thuốc Gharb" cho bà Gharb tại Làng Hathara theo đúng characters.md từ #136; chỉ dùng "dược sư" cho các dược sư thành thị như Norman Hanel. (orchestrator)
+- [#313] Thuật ngữ 'capacity' (tiềm năng phát triển/giới hạn dung nạp của quái vật trong thuật thuần hóa, nếu bị phá vỡ ('broken') thì quái vật không thể tiến hóa được nữa): tạm dịch là 'vật chứa' theo ngữ cảnh fantasy/light novel (phương án khác: 'sức chứa', 'dung lượng'). → Chốt dịch là "vật chứa" (tương ứng gốc Nhật 器 - utsuwa, đi tự nhiên với các động từ "bị phá vỡ", "làm tổn hại đến vật chứa"). (orchestrator)

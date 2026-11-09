@@ -473,7 +473,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ: Cha nuôi của Rentt Faina (nhận nuôi Rentt từ năm 5 tuổi sau khi cha mẹ ruột anh qua đời do ma vật tấn công, #134), chồng của Gilda Faina.
 - Năng lực: Dòng dõi quốc vương Vương Quốc Cổ Đại; người thuần hóa quái vật (điều khiển Á Long Lindblum).
 - Xuất hiện từ: #134.
-- Trạng thái (đến #172): Dùng Lindblum chở Rentt và Lorraine về Maalt rồi về làng.
+- Trạng thái (đến #313): Đón tiếp Rentt và Lorraine về thăm làng (#312); sở hữu tri thức cổ đại về thuật thuần hóa quái vật bằng Ma Lực mà không làm tổn hại đến "vật chứa" tiềm năng (từng huấn luyện một phân loài Phi Long nhỏ tiến hóa thành Lindblum), nhận lời truyền dạy kỹ thuật này cho Lorraine và gợi ý giả thuyết chiếc cốc có công năng tương tự như một mê cung (#313).
 
 ### Gilda Faina
 - Thân phận: Nữ, trung niên, thanh mảnh, xinh đẹp; dịu dàng, tế nhị nhưng nhạy bén; giọng ân cần của người mẹ thương con.
