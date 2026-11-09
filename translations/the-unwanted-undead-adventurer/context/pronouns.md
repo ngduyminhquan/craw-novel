@@ -577,6 +577,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Isaac Hart | Amapola | ta / tôi | Amapola / cô | 286 | Quản gia huấn luyện gia nhân mới của Gia tộc Latuule |
 | Rina Rupaage | Amapola | tôi | cô / Amapola | 286 | Nữ mạo hiểm giả nói chuyện với gia nhân mới của Gia tộc Latuule |
 | Amapola | Rina Rupaage | tôi | cô / Rina | 286 | Nữ Ma Cà Rồng gia nhân nói chuyện với khách quen của Gia tộc Latuule |
+| Sheila Ibarss | Jean Seebeck | tôi | ngài | 288 | Tiếp tân viên Hội ngỡ ngàng trước Tổng Hội Trưởng Yaaran |
+| Jean Seebeck | Sheila Ibarss | ta | cô | 288 | Tổng Hội Trưởng dặn dò tiếp tân viên Hội không phải chịu trách nhiệm |
+| Wolf Hermann | Jean Seebeck | tôi | Tổng Hội Trưởng Seebeck / ông | 288 | Hội Trưởng Maalt tiếp đón và trò chuyện với cấp trên cũ kiêm người bổ nhiệm mình |
+| Jean Seebeck | Wolf Hermann | ta | cậu / Wolf / anh bạn | 288 | Tổng Hội Trưởng Yaaran trêu chọc và trò chuyện với Hội Trưởng Maalt |
+
 
 
 

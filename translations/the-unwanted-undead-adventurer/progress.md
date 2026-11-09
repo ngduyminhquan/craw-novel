@@ -292,7 +292,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | reviewed |  |
 | 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | reviewed |  |
 | 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | done |  |
-| 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | todo |  |
+| 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | done |  |
 | 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | todo |  |
 | 290 |  | Chapter_290 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (4) | todo |  |
 | 291 |  | Chapter_291 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (5) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -957,3 +956,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#286] Cảnh báo QA check 'Laura Satii' ở chương 286 — raw dùng 'Lola' trong thoại thân mật của Rina ('Raiz and Lola'), bản dịch dùng 'Raiz và Laura' theo lưu ý tại characters.md và văn phong đời thường. Tạm dùng trong bản dịch: giữ 'Raiz và Laura', bỏ qua cảnh báo false positive. → Giữ 'Raiz và Laura' theo quy ước characters.md, cảnh báo QA là false positive. (orchestrator)
 - [#287] Dịch tên hai loại thảo dược 'earthen wildparsley' và 'wildparsley bloom(s)' — tạm chọn 'cần dại đất' (loại ăn được, món mỹ vị thượng hạng) và 'hoa cần dại' (loại có hoa gây tê liệt khi ăn, chiết dịch bôi lên kiếm) (phương án khác: 'thổ cần dại' và 'hoa độc cần' / 'cần dại trổ hoa'). → Giữ 'cần dại đất' và 'hoa cần dại' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#287] Tiêu đề chương 'Maalt, Sweet Maalt, and a Visit to the Blacksmith' (nhại cách nói Home, Sweet Home) — tạm dịch 'Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn (1)' (phương án khác: 'Maalt, Maalt Thân Yêu, và Chuyến Thăm Thợ Rèn (1)'). → Giữ 'Maalt, Maalt Thân Thương, và Chuyến Thăm Thợ Rèn' như đã dịch. (orchestrator)
+- [#288] Thuật ngữ "dungeon junk" (phân loại ma cụ từ mê cung không rõ công năng) — Tạm dùng trong bản dịch: "phế phẩm mê cung". Đề xuất: chốt "phế phẩm mê cung" (phương án khác: "rác mê cung"). → Giữ 'phế phẩm mê cung' như đã dịch và cập nhật trong glossary.md. (orchestrator)
+- [#288] Địa danh "Ete Highway" và "village of Mors" — Tạm dùng trong bản dịch: "Đại Lộ Ete" và "ngôi làng Mors" (nhất quán với Đại Lộ Radha, Đại Lộ Farga). Đề xuất: chốt "Đại Lộ Ete" và "Mors". → Giữ 'Đại Lộ Ete' và 'ngôi làng Mors' như đã dịch và cập nhật trong glossary.md. (orchestrator)

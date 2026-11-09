@@ -984,4 +984,12 @@ Jean tò mò muốn vào thám hiểm mê cung mới và nghe Rentt cùng Lorrai
 Rời xe đi bộ tới Hội, Rentt trò chuyện cùng Jean về quyết định bổ nhiệm Wolf làm Hội Trưởng Maalt hơn chục năm trước và công cuộc cải cách xóa bỏ định kiến để hỗ trợ tân binh; Rentt kể chuyện cho tân binh Maalt tự nếm độc hoa cần dại (gây tê liệt, khác với cần dại đất ăn được) để thấu hiểu sự nguy hiểm và biết cách chiết dịch bôi lên kiếm khiến Jean thán phục độ "đáng sợ" của anh.
 Cảnh kết thúc: Cả ba tới trước cửa Hội Mạo Hiểm Giả Maalt và cùng bước vào trong để Rentt hoàn thành ủy thác hộ tống Jean gặp Wolf.
 
+## 288
+Jean xông thẳng lên văn phòng Hội Trưởng bỏ qua quầy tiếp tân; Sheila sững sờ nhận ra Tổng Hội Trưởng Yaaran, Rentt cùng Lorraine giải vây rồi lên theo báo cáo hoàn thành ủy thác.
+Wolf thở dài cam chịu vì bị Jean đọc vị mưu tính gửi lời mời lấy lệ; Jean giải thích đã chỉ đạo cấp dưới chuyển thẳng mọi tin nhắn từ Wolf cho mình.
+Jean tổ chức tiệc rượu náo nhiệt tại quán cùng các mạo hiểm giả Maalt; ngồi cùng bàn, Wolf kinh ngạc khi biết nhóm Rentt từng đối đầu và thoát chết trước tổ chức ngầm của Jean tại vương đô.
+Wolf báo tin vừa phát hiện thêm một mê cung mới đang mở rộng dọc theo Đại Lộ Ete gần ngôi làng Mors, kèm vật chứng là một món ma cụ "phế phẩm mê cung" do một mạo hiểm giả Đồng Cấp săn Goblin đem về.
+Cảnh kết thúc: Lorraine phấn khích nhớ lại điều người sư phụ cũ từng lẩm bẩm về việc mê cung này có thể thúc đẩy sự ra đời của những mê cung khác ở lân cận.
+
+
 
