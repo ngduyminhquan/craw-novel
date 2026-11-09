@@ -1074,6 +1074,13 @@ Rivul bất ngờ nhận ra ngọn giáo của một con Khô Lâu Binh mà Rent
 Rentt phán đoán ngọn nguồn lũ Khô Lâu có thể bắt nguồn từ chính nơi cha Rivul tử trận; Rivul tiết lộ khi xưa họ chỉ thuê được một mạo hiểm giả vãng lai tiêu diệt Goblin chứ không thể nhờ đưa thi thể cha về.
 Cảnh kết thúc: Rivul bộc bạch mạo hiểm giả lang thang năm đó chỉ chăm chăm diệt quái chứ không bận tâm giúp đỡ dân làng việc gì khác.
 
+## 302
+Rentt an ủi Rivul chớ dằn vặt về quá khứ và cả hai thống nhất lên đường tới nơi cha Rivul tử trận để điều tra ngọn nguồn lũ Khô Lâu; Rentt tặng lại ngọn giáo di vật của người cha và giảm giá bán cây cung chiến lợi phẩm cho Rivul rồi cùng cậu bàn bạc kế hoạch với Trưởng thôn Jiris.
+Sáng hôm sau, sau khi thống nhất phương án tuần tra phòng thủ làng cùng Jiris, Rentt theo chân thợ săn Rivul băng rừng và tìm thấy một cửa hang tự nhiên tối tăm từng là sào huyệt của đàn Goblin năm xưa.
+Rentt lấy đuốc ma thuật gắn Ma Tinh thắp sáng hang động, thỏa thuận việc luân phiên cầm đuốc thu hút quái vật và dặn Rivul tuyệt đối không được liều lĩnh cứu mình mà phải ưu tiên bỏ chạy nếu gặp nguy hiểm.
+Cảnh kết thúc: Rentt dẫn đầu cùng Rivul cất bước tiến sâu hơn vào bên trong hang động.
+
+
 
 
 

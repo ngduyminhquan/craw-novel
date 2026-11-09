@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T09:32:43Z",
+  "generatedAt": "2026-11-09T09:41:13Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -3969,6 +3969,12 @@
           "title": "Chương 301: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_301.md",
           "sha": "9af5ec0966ec60a0a41b41dc3587f3a3301ee20b"
+        },
+        {
+          "number": 302,
+          "title": "Chương 302: Tập 13 Chương 1 - Quái Vật Kỳ Lạ và Phát Hiện Mới (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_302.md",
+          "sha": "018bbf019c7749132d56edb20e82bb654b255646"
         }
       ]
     },

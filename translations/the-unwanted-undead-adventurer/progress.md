@@ -306,7 +306,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | reviewed |  |
 | 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | reviewed |  |
 | 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | reviewed |  |
-| 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | todo |  |
+| 302 |  | Chapter_302 - Vol 13 Chapter 1 - A Strange Monster and a New Find (2).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (2) | done |  |
 | 303 |  | Chapter_303 - Vol 13 Chapter 1 - A Strange Monster and a New Find (3).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (3) | todo |  |
 | 304 |  | Chapter_304 - Vol 13 Chapter 1 - A Strange Monster and a New Find (4).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (4) | todo |  |
 | 305 |  | Chapter_305 - Vol 13 Chapter 1 - A Strange Monster and a New Find (5).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (5) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 
@@ -978,3 +979,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#300] Xưng hô giữa Rentt Faina và cậu bé Ars (10 tuổi) — tạm chọn Rentt xưng 'tôi', gọi 'nhóc / Ars'; Ars xưng 'em', gọi 'anh / anh Rentt' (đồng bộ với tiền lệ Vitez ở #268; phương án khác: Rentt xưng 'anh', gọi 'nhóc / em'). → Chấp nhận Rentt xưng 'tôi', gọi 'nhóc / Ars'; Ars xưng 'em', gọi 'anh / anh Rentt' (nhất quán với tiền lệ ở #268). (orchestrator)
 - [#300] Xác định thân phận nhân vật Ars (10 tuổi) — tạm xác định là nhân vật cậu bé độc lập con thương nhân Gund, không phải Augurey Ars thời nhỏ vì mốc thời gian Rentt đeo mặt nạ đầu lâu thì Augurey đã là Ngân Cấp trưởng thành. → Chấp nhận xác định là cậu bé độc lập con trai thương nhân Gund (không phải Augurey Ars). (orchestrator)
 - [#301] Dịch 'wanderer' chỉ mạo hiểm giả nhận việc năm xưa (đoạn 89): tạm dùng 'kẻ lang thang' (đề xuất khác: 'mạo hiểm giả vãng lai'). → Cập nhật thành 'người hành nghề vãng lai' (tránh sắc thái miệt thị của 'kẻ lang thang' và đồng bộ đại từ số ít 'người đó'). (orchestrator)
+- [#302] Dịch cụm từ hài hước 'Rentt’s Impromptu Emporium' — tạm chọn 'Cửa Hàng Tạp Hóa Tạm Thời của Rentt' (phương án khác: 'Cửa Hàng Dã Chiến của Rentt', 'Gian Hàng Dã Chiến của Rentt'). Tạm dùng trong bản dịch: 'Cửa Hàng Tạp Hóa Tạm Thời của Rentt'. → Chốt dùng Cửa Hàng Tạp Hóa Tạm Thời của Rentt (chỉ là cách gọi đùa nhất thời, không thêm vào glossary). (orchestrator)
+- [#302] Dịch 'enchanted torch' / 'magic torch' (đuốc dùng Ma Tinh phát sáng) — tạm chọn 'cây đuốc ma thuật' / 'đuốc ma thuật' và cập nhật glossary.md (phương án khác: 'đuốc ma pháp', 'đuốc ma cụ'). Tạm dùng trong bản dịch: 'đuốc ma thuật'. → Chốt dịch là đuốc ma thuật và giữ trong glossary.md. (orchestrator)
