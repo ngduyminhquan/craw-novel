@@ -320,7 +320,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | reviewed |  |
 | 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | done |  |
 | 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | done |  |
-| 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | todo |  |
+| 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | done |  |
 | 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | todo |  |
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | todo |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | todo |  |
@@ -997,3 +997,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#314] Dịch thuật ngữ 'manarust disease' (chứng bệnh khiến Ma Lực đông kết ngoài bề mặt tạo lớp màng như gỉ sét, nguyên tác 魔錆病 / Mashoubyou) — tạm chọn 'bệnh gỉ ma lực' (phương án khác: 'bệnh rỉ ma lực', 'Bệnh Ma Thỉ'). Tạm dùng trong bản dịch: 'bệnh gỉ ma lực'. → Chốt dịch là "bệnh gỉ ma lực" (mô tả tự nhiên, dễ hiểu đúng bản chất Ma Lực kết màng như gỉ sét) và giữ trong glossary.md. (orchestrator)
 - [#315] Tiêu đề "To the Maritime Country (1)" — tạm dịch "Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (1)" (phương án khác: "Tập 13 Chương 4 - Tới Quốc Gia Hàng Hải (1)" hoặc "Tập 13 Chương 4 - Tiến Về Quốc Gia Hàng Hải (1)"). → Chốt tiêu đề "Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (1)". (orchestrator)
 - [#315] Dịch "curse vendor" trong "Malga the curse vendor" (đoạn 65) — tạm dịch "người bán đồ nguyền" (phương án khác: "thương nhân nguyền phẩm" hoặc "thương gia nguyền cụ"). → Chốt dịch là "người bán đồ nguyền" (tự nhiên, hợp khẩu ngữ đời thường theo style.md mục 1). (orchestrator)
+- [#316] Tên mê cung Dungeon of the Sea God’s Daughters (gốc Nhật: 海神の娘達の迷宮) → tạm dịch là "Mê Cung Các Con Gái Của Hải Thần" (phương án khác: "Mê Cung Các Con Gái Hải Thần" hoặc "Mê Cung Hải Thần Chi Nữ"). → Chốt dịch là "Mê Cung Các Con Gái Của Hải Thần" (đồng bộ cấu trúc với "Thành Phố Mê Cung Của Hiền Vương Felt"). (orchestrator)
+- [#316] Thuật ngữ goatfolk và fishfolk → tạm dịch là "thú nhân dê" (nhất quán với thú nhân sói, thú nhân chim ở #315) và "ngư nhân" (chuẩn fantasy / 魚人). → Chốt dịch là "thú nhân dê" (nhất quán với thú nhân sói, thú nhân chim ở #315) và "ngư nhân". (orchestrator)
+- [#316] Tên gọi the Ariana Republic → tạm dịch là "Cộng Hòa Ariana" (dạng gọi tắt của Cộng Hòa Hàng Hải Ariana). → Chốt dịch là "Cộng Hòa Ariana" (dạng gọi tắt của Cộng Hòa Hàng Hải Ariana). (orchestrator)

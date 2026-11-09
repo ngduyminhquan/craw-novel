@@ -1162,6 +1162,12 @@ Sau khi dịch chuyển đến một hang động được bà Gharb yểm ma ph
 Tại cổng thành, lính gác yêu cầu tháo mặt nạ đầu lâu; sau màn dùng hết sức bình sinh giật thử bất thành, lính gác tin chiếc mặt nạ bị nguyền và gợi ý Rentt tìm gặp Malga người bán đồ nguyền để tìm cách giải trừ.
 Cảnh kết thúc: Rentt thuận lợi dùng thẻ Hội Mạo Hiểm Giả vào thành dưới danh nghĩa mạo hiểm giả kiêm dược sư học việc tới thám hiểm mê cung và tìm kiếm dược liệu.
 
+## 316
+Rentt bước qua cổng thành Lucaris, choáng ngợp trước sự sầm uất, đa dạng sắc tộc và kiến trúc rực rỡ; anh ghé một sạp hàng rong mua trọn gói số thảo dược núi quý hiếm từ một người thú nhân dê với giá ba đồng vàng và được người này chỉ đường tới một quán trọ yên tĩnh.
+Sau khi nhận phòng trọ, Rentt tới Hội Mạo Hiểm Giả Lucaris khang trang, lộng lẫy và gửi lời nhắn tìm Capitan; nữ tiếp tân nhận ra Capitan là người chuyên quét sạch các ủy thác hóc búa tồn đọng và tiết lộ chú ấy đã tới Mê Cung Các Con Gái Của Hải Thần từ sáng sớm để làm ủy thác và tìm kiếm hải linh thảo.
+Biết mê cung nằm dưới đáy biển ngoài khơi và thuyền phà chỉ về vào chiều tối, Rentt để lại tên cùng địa chỉ quán trọ nhờ tiếp tân nhắn Capitan ghé qua.
+Cảnh kết thúc: Thu xếp xong việc liên lạc với Capitan, Rentt rời Hội Mạo Hiểm Giả và háo hức đi dạo quanh thành phố Lucaris để ngắm cảnh.
+
 
 
 

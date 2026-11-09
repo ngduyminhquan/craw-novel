@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T12:01:42Z",
+  "generatedAt": "2026-11-09T12:10:25Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4053,6 +4053,12 @@
           "title": "Chương 315: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (1)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_315.md",
           "sha": "2030045e9c689370b3b6be9be7ac608dcab6fdec"
+        },
+        {
+          "number": 316,
+          "title": "Chương 316: Tập 13 Chương 4 - Đến Quốc Gia Hàng Hải (2)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_316.md",
+          "sha": "e0425cf11175a253d8d35e05f0bd277df2f7424e"
         }
       ]
     },

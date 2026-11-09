@@ -35,7 +35,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Kingdom of Yaaran | Yaaran; Yaaran Kingdom | Vương Quốc Yaaran | địa danh | 1 | Vương quốc nơi có thị trấn Maalt |
 | Azuul Forest |  | Rừng Azuul | địa danh | 1 | Khu rừng gần Maalt |
 | Three-Pronged Harpoon |  | Ba Chĩa | tổ chức | 15 | Tiệm rèn vũ khí của vợ chồng Clope và Luka (三叉の銛亭) |
-| Adventurer’s Guild | Guild | Hội Mạo Hiểm Giả | tổ chức | 1 | Tổ chức quản lý và cấp phép cho mạo hiểm giả |
+| Adventurer’s Guild | Guild; Guilds; Adventurer's Guild | Hội Mạo Hiểm Giả | tổ chức | 1 | Tổ chức quản lý và cấp phép cho mạo hiểm giả |
 | Guild Master | guild master; Guild master | Hội Trưởng | chức nghiệp | 9 | Người đứng đầu chi nhánh Hội mạo hiểm giả |
 | Skeleton | Skeletons | Khô Lâu | quái vật | 1 | Quái vật xương khô Undead cấp thấp |
 | Ghoul | Ghouls; Ghoulish | Ngạ Quỷ | quái vật | 1 | Quái vật Undead ăn xác có da thịt |
@@ -537,6 +537,11 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | wolffolk |  | thú nhân sói | chủng tộc | 315 | Phân loài thú nhân mang đặc điểm loài sói |
 | avianfolk |  | thú nhân chim | chủng tộc | 315 | Phân loài thú nhân mang đặc điểm loài chim |
 | curse vendor |  | người bán đồ nguyền | chức nghiệp | 315 | Người buôn bán Nguyền Cụ tại thành phố cảng Lucaris |
+| Sea God | the Sea God | Hải Thần | danh hiệu | 316 | Thần linh cai quản biển cả (海神) |
+| Dungeon of the Sea God’s Daughters | Dungeon of the Sea God's Daughters; the Dungeon of the Sea God’s Daughters; the Dungeon of the Sea God's Daughters | Mê Cung Các Con Gái Của Hải Thần | địa danh | 316 | Mê cung dưới đáy biển ngoài khơi thành phố cảng Lucaris (海神の娘達の迷宮) |
+| Ariana Republic | the Ariana Republic | Cộng Hòa Ariana | địa danh | 316 | Cách gọi khác của Cộng Hòa Hàng Hải Ariana |
+| goatfolk | goat-folk | thú nhân dê | chủng tộc | 316 | Phân loài thú nhân mang đặc điểm loài dê |
+| fishfolk | fish-folk | ngư nhân | chủng tộc | 316 | Chủng tộc mang đặc điểm loài cá sinh sống dưới nước (魚人) |
 
 
 
