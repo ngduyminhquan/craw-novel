@@ -341,7 +341,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 334 |  | Chapter_334 - Vol 14 Chapter 4 - The Return and a New Find (1).txt | Vol 14 Chapter 4 - The Return and a New Find (1) | reviewed |  |
 | 335 |  | Chapter_335 - Vol 14 Chapter 4 - The Return and a New Find (2).txt | Vol 14 Chapter 4 - The Return and a New Find (2) | done |  |
 | 336 |  | Chapter_336 - Vol 14 Chapter 4 - The Return and a New Find (3).txt | Vol 14 Chapter 4 - The Return and a New Find (3) | done |  |
-| 337 |  | Chapter_337 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1) | todo |  |
+| 337 |  | Chapter_337 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (1) | done |  |
 | 338 |  | Chapter_338 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (2) | todo |  |
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 

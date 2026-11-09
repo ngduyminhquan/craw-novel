@@ -1116,4 +1116,10 @@ Nhận thấy Pherousa không thể về biển hay kiếm sống trên bờ, Re
 Capitan gặng hỏi mục đích thật của Rentt và nhận được câu trả lời rằng cô bé vừa là phương án dự phòng để liên lạc với thành phố dưới đáy biển tìm hải linh thảo, vừa là một "món hời" hoàng tộc ngoài dự kiến.
 Cảnh kết thúc: Rentt hỏi về kỹ thuật khóa khớp bằng Khí Lực vừa hạ gục Diego, Capitan điềm nhiên tiết lộ nếu thuần thục còn có thể truyền Khí Lực làm nổ tung đối thủ khiến Rentt ngỡ ngàng.
 
+## 337
+Tại khu rừng gần Làng Hathara, Ingo bắt đầu buổi thực hành thuần hóa quái vật cho Lorraine, bỏ qua phần lý thuyết vì cô đã có sẵn kiến thức phiêu lưu và sở hữu ma nhãn giúp quan sát trực tiếp dòng chảy Ma Lực.
+Ingo thị phạm bằng cách thuần hóa một con Slime hoang dã nhỏ; ông trích máu pha Ma Lực cho vào ống nghiệm đặc chế (do bà Gharb làm) rồi ném trúng mục tiêu, phóng sợi tơ Ma Lực nối vào con Slime qua "cánh cổng" máu làm môi giới.
+Lorraine dùng ma nhãn theo dõi sợi tơ Ma Lực lan tỏa như mạng mao mạch và ma pháp trận ba chiều đổi từ đỏ sang lam, nhận thấy cơ chế phá vỡ ranh giới Ma Lực này tương đồng kinh ngạc với cách Ma Cà Rồng tạo quyến thuộc; Ingo niệm câu chú cổ ngữ "Contractus de Origo" hoàn tất khế ước.
+Cảnh kết thúc: Con Slime mới thuần hóa quấn quýt vui sướng dưới chân Ingo, và Lorraine thán phục trước giá trị vô giá của cơ hội tiếp thu bí thuật cổ xưa này.
+
 

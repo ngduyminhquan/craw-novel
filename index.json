@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T16:38:59Z",
+  "generatedAt": "2026-11-09T16:45:18Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4179,6 +4179,12 @@
           "title": "Chương 336: Tập 14 Chương 4 - Trở Về và Phát Hiện Mới (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_336.md",
           "sha": "bdf0e3e2267ff5005abddd6f49c1d9096f81030c"
+        },
+        {
+          "number": 337,
+          "title": "Chương 337: Tập 14 Chương 5 - Khóa Huấn Luyện Người Thuần Hóa Quái Vật Của Lorraine (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_337.md",
+          "sha": "7d15385000140f799ffbbfdff7194cf95442ee54"
         }
       ]
     },
