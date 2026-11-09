@@ -1634,6 +1634,13 @@ Nhận ra tâm sự của Rina bằng thính lực nhạy bén của Ma Cà Rồ
 Rina đến Hội Mạo Hiểm Giả Maalt nhưng vẫn chần chừ trước bảng ủy thác do chỉ có thể nhận nhiệm vụ Thiết Cấp khi đi một mình (trong khi hai đồng đội Raiz và Laura đang dưỡng thương sau biến cố Ma Cà Rồng); Sheila nhận thấy vẻ mặt thất thần của Rina nên bước tới hỏi thăm và thấu hiểu nỗi niềm thua kém trước những người xuất chúng của cô.
 Cảnh kết thúc: Sau khi nghe Rina tâm sự về việc muốn nhận ủy thác để kiểm chứng thực lực bản thân sau thời gian được người quen huấn luyện, Sheila gật đầu quả quyết và vội chạy đi tìm một ủy thác phù hợp cho cô.
 
+## 276
+Sheila quay lại và giải thích với Rina về các ủy thác chưa dán bảng (chưa kiểm duyệt xong hoặc có yêu cầu đặc thù về mạo hiểm giả), đồng thời đưa cho cô chọn lựa giữa hai ủy thác: làm người khuân vác vào Mê Cung Nguyệt Ảnh cùng một Đồng Cấp, hoặc hộ vệ ba ngày cho một nữ thương nhân buôn bán quanh các làng phụ cận Maalt.
+Nhận thấy việc cắm trại trong mê cung quá sức với kinh nghiệm hiện tại, Rina quyết định chọn ủy thác hộ vệ; Sheila làm xong thủ tục và dặn cô tới gặp thân chủ ngay trong ngày, nhưng thầm lẩm bẩm lo ngại về tính cách khó chiều của vị khách này.
+Tại một quán trọ ở Maalt, nữ thương nhân Dorothea Merrow đang thấp thỏm lo âu vì từng bị một nam mạo hiểm giả coi thường và ép tăng thù lao trong chuyến đi ở Zahak một tháng trước; cô kiên trì theo đuổi ước mơ mở cửa hàng dù quan hệ với cha rạn nứt vì định kiến phụ nữ làm nghề buôn bán.
+Cảnh kết thúc: Nghe nhân viên quán trọ thông báo nữ mạo hiểm giả nhận ủy thác đã tới, Dorothea hạ quyết tâm đàm phán cẩn thận rồi bước xuống sảnh chuẩn bị gặp mặt Rina.
+
+
 
 
 

@@ -104,6 +104,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Mel | Mel / Sơ Mel / người phụ nữ | 265 | Nữ tu tại cô nhi viện ở vương đô |
 | Pochi | Pochi / chú chó / con quái vật | 265 | Chú chó khổng lồ lông trắng tại cô nhi viện |
 | Vitez Normorte | Vitez / cậu bé / thằng nhóc | 268 | Cậu bé thân chủ trong ngoại truyện (#268) |
+| Dorothea Merrow | Dorothea / cô / nữ thương nhân | 276 | Nữ thương nhân độc hành thuê mạo hiểm giả hộ vệ |
 
 
 ## Giữa các nhân vật

@@ -19,8 +19,8 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 |---|---|---|---|---|---|
 | Sound Barrier |  | Cách Âm Kết Giới | kỹ năng | 233 | Ma pháp tạo kết giới cách âm ngăn âm thanh lọt ra ngoài |
 | Existential Evolution |  | Tiến Hóa Bản Thể | hệ thống | 1 | Hiện tượng quái vật tiến hóa lên bậc cao hơn (存在進化) |
-| Iron-class | Iron | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
-| Bronze-class | Copper-class | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
+| Iron-class | Iron; Iron-classers | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
+| Bronze-class | Copper-class; Bronze-classer; Bronze-classers | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
 | upper-Bronze-class |  | Thượng Đồng Cấp | cấp bậc | 4 | Phân bậc cao trong Đồng Cấp |
@@ -480,4 +480,5 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Dehisé |  | Dehisé | kỹ năng | 273 | Ma pháp của người cháu Vua Ma Cà Rồng Arc Tahadu dùng để nén chặt và vô hiệu hóa thể Phân Liệt (giữ nguyên tên câu thần chú theo rules.md) |
 | Compression |  | Áp Súc | kỹ năng | 274 | Ma pháp hệ áp súc / nén ép phổ biến trong ma thuật hiện đại (圧縮) |
 | Daḡata |  | Daḡata | kỹ năng | 274 | Ma pháp nén ép cổ đại tương tự Dehisé và Compression (giữ nguyên câu chú theo rules.md) |
+| Zahak |  | Zahak | địa danh | 276 | Thị trấn tỉnh lỵ nằm ở phía tây Maalt (ザハク) |
 

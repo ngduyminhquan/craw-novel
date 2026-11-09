@@ -280,7 +280,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 273 |  | Chapter_273 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (2) | reviewed |  |
 | 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | done |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | done |  |
-| 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | todo |  |
+| 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | done |  |
 | 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | todo |  |
 | 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | todo |  |
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | todo |  |
@@ -346,6 +346,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
+
 
 
 ## Đã quyết
@@ -935,3 +936,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#274] Dịch tên ma pháp 'Compression' — tạm chọn 'Áp Súc' theo quy tắc dịch tên kỹ năng Hán Việt viết hoa trong rules.md (phương án khác: 'Nén Ép', hoặc giữ nguyên 'Compression'). → Giữ 'Áp Súc' theo quy tắc dịch tên kỹ năng/ma pháp tiếng Anh sang Hán Việt viết hoa trong rules.md. (orchestrator)
 - [#274] Dịch tên ma pháp cổ đại 'Daḡata' — tạm giữ nguyên phiên âm 'Daḡata' theo quy tắc giữ nguyên câu thần chú/cổ ngữ ma pháp trong rules.md (phương án khác: dịch nghĩa). → Giữ nguyên phiên âm 'Daḡata' theo quy tắc giữ nguyên tên câu thần chú/cổ ngữ ma pháp trong rules.md. (orchestrator)
 - [#275] Tiêu đề "Meanwhile, the Apprentices... Part 1 (1)" — tạm dịch "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)" (phương án khác: "Tập 12 Chương 2 - Trong Khi Đó, Những Người Học Trò... Phần 1 (1)", "Tập 12 Chương 2 - Trong Khi Đó, Những Đồ Đệ... Phần 1 (1)"). Tạm dùng trong bản dịch: "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)". → Duyệt "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)" (nhất quán với cách gọi Alize và Rina là đệ tử của Rentt và Lorraine từ #74). (orchestrator)
+- [#276] Dịch địa danh mới 'Zahak' (thị trấn tỉnh lỵ phía tây Maalt nơi Dorothea từng bị lừa) — tạm giữ nguyên tên riêng phương Tây 'Zahak' theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zahak'. → Duyệt giữ nguyên tên riêng phương Tây "Zahak" theo rules.md. (orchestrator)
+- [#276] Cảnh báo QA 'prior' không có 'Phó Tu Viện Trưởng' trong bản dịch — raw dùng nghĩa từ vựng thời gian thông thường ('two years prior', 'prior to their departure'), không phải chức sắc giáo phẩm 'Phó Tu Viện Trưởng' trong glossary.md, là cảnh báo báo nhầm (false positive). Tạm dùng trong bản dịch: bỏ qua cảnh báo, dịch tự nhiên theo ngữ cảnh thời gian. → Duyệt bỏ qua cảnh báo false positive do "prior" trong raw là từ vựng chỉ thời gian thông thường. (orchestrator)

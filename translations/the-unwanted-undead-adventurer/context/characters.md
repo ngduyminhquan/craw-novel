@@ -138,6 +138,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Vitez Normorte | Vitez | Vitez Normorte | Cậu bé có dị năng triệu hồi giông bão, thân chủ hộ tống của Rentt và Augurey thời ở Maalt | #268 |
 | Baroness Graham | Graham | Nữ Nam tước Graham | Nữ quý tộc quen biết Lorraine tại Maalt, nhận nuôi chú Sói Đen con | #269 |
 | Arc Tahadu |  | Arc Tahadu | Vua Ma Cà Rồng (Vampire King), được người đánh xe của Laura nhắc tên khi cho biết kẻ tập kích Rentt trong đêm là một người cháu (quyến thuộc đời thứ hai) của hắn | #273 |
+| Dorothea Merrow | Dorothea | Dorothea Merrow | Nữ thương nhân độc hành thuê mạo hiểm giả hộ vệ | #276 |
 
 
 ## Chi tiết
@@ -877,6 +878,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, vai trò: Nam, Vua Ma Cà Rồng (Vampire King), kẻ thù của Laura Latuule (#273).
 - Đặc điểm: Được người đánh xe của Laura nhắc tên ở #273 khi giải thích rằng gã Ma Cà Rồng cực mạnh (mặc âu phục quý ông cầm gậy chống, sở hữu ma thuật Dehisé và hóa thân thành miệng khổng lồ) tập kích Rentt trong đêm tại vương đô Vistelya là một người cháu (quyến thuộc đời thứ hai / 'grandchild') của hắn; Arc Tahadu sở hữu sức mạnh tối thượng ngang hàng Tứ Đại Ma Vương (#273, #274).
 - Xuất hiện từ: #273 (được người đánh xe của Laura nhắc tên).
+
+### Dorothea Merrow
+- Giới tính, vai trò: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276).
+- Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn.
+- Xuất hiện từ: #276.
 
 
 
