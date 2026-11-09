@@ -543,6 +543,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | goatfolk | goat-folk | thú nhân dê | chủng tộc | 316 | Phân loài thú nhân mang đặc điểm loài dê |
 | fishfolk | fish-folk | ngư nhân | chủng tộc | 316 | Chủng tộc mang đặc điểm loài cá sinh sống dưới nước (魚人) |
 | pantherfolk |  | thú nhân báo | chủng tộc | 319 | Phân loài thú nhân mang đặc điểm loài báo |
+| holy elixir | holy elixirs; Holy Elixir; Holy Elixirs | thánh dược | vật phẩm | 320 | Thuốc điều chế bằng cách truyền Thần Lực vào hỗn hợp thảo dược, do Rentt tự đặt tên |
 
 
 

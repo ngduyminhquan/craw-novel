@@ -1003,3 +1003,8 @@ Chương đệm dưới góc nhìn ngôi thứ nhất của Niedz, một mạo h
 Lukas kể về gã đeo mặt nạ kỳ dị (Rentt) vung ba đồng vàng mua thảo dược từ người thú nhân dê; khi thấy Rentt xuất trình thẻ Đồng Cấp và được tiếp tân đối đãi nồng hậu, Niedz sinh lòng ghen tị cùng quẫn bách nên quyết định bám đuôi hòng xin chia chác hoặc trấn lột, Gahedd và Lukas bám theo can ngăn.
 Tại ngõ cụt, Niedz dũng cảm lao lên trước để che chắn đường thoát cho hai bạn nhưng bị Rentt lướt tới đánh ngất trong chớp mắt; tỉnh dậy trong căn nhà đá của Diego Malga, Niedz được Rentt giải thích và cho uống nước ngâm thảo dược giúp hồi phục thể lực và xoa dịu đau nhức.
 Cảnh kết thúc: Niedz biết ơn và nhận ra đây không phải là ngõ cụt nô lệ hay án phạt, mà là cuộc gặp gỡ định mệnh mở ra may mắn đổi đời cùng "Đại ca Rentt và anh Diego".
+
+## 320
+Niedz tỉnh dậy khỏe khoắn sau khi uống thang thuốc ngâm thảo dược truyền Thần Lực (thánh dược) do Rentt thử nghiệm thành công; Rentt tuyên bố sẽ không biến Niedz thành nô lệ hay nộp cho lính canh mà đưa cả nhóm ba người đi thám hiểm mê cung.
+Gahedd và Lukas dùng túi ma thuật cũ của Rentt đi mua sắm nhiều nhu yếu phẩm trở về; Rentt tận tình chỉ bảo Lukas kinh nghiệm nhận biết chậu thảo dược bị người bán gian lận trộn vụn Ma Tinh để giữ lá tươi ảo.
+Cảnh kết thúc: Lukas hào hứng học hỏi và kính nể gọi Rentt là đại ca, trong khi Niedz dù thân thể hồi phục nhưng cay đắng lo sợ cả ba người sẽ trở thành bia thịt vô dụng trong mê cung.

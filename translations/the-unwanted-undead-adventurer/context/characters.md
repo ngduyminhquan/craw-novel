@@ -1012,17 +1012,19 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Niedz
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp tại Thành Phố Cảng Lucaris, kẻ dẫn đầu nhóm ba người bám đuôi cướp tiền của Rentt (#317); người kể chuyện ngôi thứ nhất ở chương đệm #319.
 - Tính cách & năng lực: Năng lực chiến đấu yếu kém, không đủ sức kiếm ba đồng vàng bằng ủy thác nên sinh lòng tham khi thấy Rentt trả ba đồng vàng cho người bán thảo dược; dám một mình lao lên trước bảo bọc đàn em (#317); bế tắc muốn giải nghệ về quê nhưng không đủ tiền, quý trọng tình bạn hoạn nạn với Gahedd và Lukas (#319).
-- Trạng thái (đến #319): Bị Rentt đánh ngất và đưa về nhà Diego Malga (#317); sau khi tỉnh dậy được Rentt cho uống nước ngâm thảo dược hồi phục, tôn xưng Rentt là "Đại ca Rentt" và Diego là "anh Diego" (#319).
+- Trạng thái (đến #320): Bị Rentt đánh ngất và đưa về nhà Diego Malga (#317); được Rentt cho uống thang thuốc ngâm thảo dược truyền Thần Lực (thánh dược) chữa lành hoàn toàn nội thương; lo sợ bị bán làm nô lệ hoặc phải làm bia thịt khi nghe Rentt bảo cả ba sẽ đi thám hiểm mê cung cùng anh (#319, #320).
 - Xuất hiện từ: #317.
 
 ### Gahedd
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng cao gầy, bước đi liêu xiêu nhưng tính tình nhiệt huyết, bạn thân chí cốt của Niedz và Lukas tại Lucaris (#319).
 - Quan hệ: Đồng hành cùng Niedz và Lukas; cùng Lukas bám theo can ngăn Niedz trấn lột Rentt nhưng bị cuốn vào (#319).
+- Trạng thái (đến #320): Tỉnh dậy trước và cùng Lukas nhận túi ma thuật cũ của Rentt đi mua sắm nhiều nhu yếu phẩm (thuốc men, lương thực, vũ khí) mang về tiệm Diego; thật thà và trung thành, không bỏ rơi Niedz để trốn chạy (#320).
 - Xuất hiện từ: #319.
 
 ### Lukas
 - Thân phận: Nam, mạo hiểm giả Đồng Cấp dáng lùn béo nhưng dũng cảm, có hiểu biết về thảo dược học, bạn thân chí cốt của Niedz và Gahedd tại Lucaris (#319).
 - Quan hệ: Đồng hành cùng Niedz và Gahedd; phát hiện Rentt mua thảo dược ba đồng vàng tại cổng thành và cùng Gahedd bám theo can ngăn Niedz (#319).
+- Đặc điểm & Trạng thái (đến #320): Gương mặt tròn gợi nhớ đến một con Goblin béo nhưng tính tình vui vẻ, đáng mến; cùng Gahedd đi mua sắm đồ đạc cho Rentt; có hiểu biết về thảo dược và được Rentt chỉ dạy cách phát hiện chậu cây bị người bán gian lận dùng vụn Ma Tinh để giữ tươi ảo; kính nể gọi Rentt là "Đại ca Rentt" / "đại ca" (#320).
 - Xuất hiện từ: #319.
 
 

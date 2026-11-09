@@ -644,6 +644,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Diego Malga | Niedz | tôi | cậu | 319 | Chủ tiệm kiêm mạo hiểm giả nói chuyện với kẻ trấn lột vừa tỉnh dậy |
 | Rentt Faina | Niedz | tôi | cậu | 319 | Mạo hiểm giả tiền bối chăm sóc và thu nạp hậu bối |
 | Niedz | Rentt Faina | tôi | anh / Mặt Đầu Lâu / Đại ca Rentt | 319 | Kẻ trấn lột hoàn lương, kính phục Rentt sau khi được tha mạng và cho uống thuốc |
+| Rentt Faina | Lukas | tôi | cậu / Lukas | 320 | Mạo hiểm giả tiền bối hướng dẫn và kiểm tra kiến thức thảo dược của hậu bối |
+| Lukas | Rentt Faina | tôi / bọn tôi | Đại ca Rentt / Đại ca | 320 | Mạo hiểm giả cấp thấp hào hứng kính nể mạo hiểm giả tiền bối (raw: Boss Rentt) |
+| Rentt Faina | Gahedd | tôi | cậu / Gahedd | 320 | Mạo hiểm giả tiền bối thu nạp và giao việc cho hậu bối |
+| Gahedd | Rentt Faina | tôi / bọn tôi | anh / Rentt / Đại ca Rentt | 320 | Mạo hiểm giả cấp thấp cảm kích và tôn trọng mạo hiểm giả tiền bối |
 
 
 

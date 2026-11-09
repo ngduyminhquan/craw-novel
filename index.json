@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:06:59Z",
+  "generatedAt": "2026-11-09T13:19:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4077,6 +4077,12 @@
           "title": "Chương 319: Chương đệm Tập 13 - Mạo Hiểm Giả Niedz",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_319.md",
           "sha": "82a803e2d2be8bdc1f03d987fcb151a712c7dd50"
+        },
+        {
+          "number": 320,
+          "title": "Chương 320: Tập 14 Chương 1 - Thầy và Trò (1)",
+          "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_320.md",
+          "sha": "1a15154d8a92baabc9f3a3244476bf0e35d20c31"
         }
       ]
     },

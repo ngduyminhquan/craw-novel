@@ -324,7 +324,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | reviewed |  |
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | reviewed |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | reviewed |  |
-| 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | todo |  |
+| 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | done |  |
 | 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | todo |  |
 | 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | todo |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | todo |  |
@@ -1004,3 +1004,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#318] Dịch 'glass pipe' (ống thủy tinh nguyền cụ hỗ trợ thở dưới nước có tác dụng phụ gây ngạt thở trên cạn) — tạm dịch theo miêu tả chung là 'ống thủy tinh' / 'ống thủy tinh Nguyền Cụ' do raw không viết hoa hay đặt tên riêng cụ thể (phương án khác: đặt tên cụ thể như 'Khí Quản Thủy Tinh' / 'Nguyền Ống Thủy Tinh') → Chốt giữ cách dịch danh từ chung "ống thủy tinh" (vì raw không viết hoa đặt tên riêng, tuân thủ style.md mục 1 và rules.md #120). (orchestrator)
 - [#319] Cách dịch danh xưng 'Boss Rentt and Brother Diego' của Niedz dành cho Rentt và Diego: tạm dùng 'Đại ca Rentt và anh Diego' (phương án khác: 'Đại ca Rentt và huynh Diego' hoặc 'Đại ca Rentt và người anh em Diego'). → Chốt dịch là "Đại ca Rentt và anh Diego" (tự nhiên, hợp giọng mạo hiểm giả đời thường theo style.md mục 1, không dùng "huynh" cổ trang). (orchestrator)
 - [#319] Chủng tộc của Diego Malga trong raw #319 là 'pantherfolk' (thú nhân báo), trong khi ở #317 ghi nhận là thú nhân mèo (feline beastfolk): tạm dùng 'thú nhân báo' trong glossary và bản dịch #319 (báo thuộc họ mèo). → Chốt dịch là "thú nhân báo" (đồng bộ với thú nhân sói, thú nhân chim, thú nhân dê; báo thuộc họ mèo nên hoàn toàn khớp với mô tả ở #317). (orchestrator)
+- [#320] Thuật ngữ 'holy elixir' (thuốc ngâm Thần Lực do Rentt tự điều chế và đặt tên): tạm dùng 'thánh dược' (đối ứng với ma dược và Thần Lực, phương án khác: 'thần dược', 'linh dược'). → Chốt dùng 'thánh dược' (orchestrator)
+- [#320] Tiêu đề chương/arc 'Student and Teacher': tạm dùng 'Thầy và Trò' (phương án khác: 'Học Trò và Người Thầy'). → Chốt dùng 'Thầy và Trò' (orchestrator)
