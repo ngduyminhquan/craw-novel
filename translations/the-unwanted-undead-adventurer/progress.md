@@ -324,9 +324,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 317 |  | Chapter_317 - Vol 13 Chapter 4 - To the Maritime Country (3).txt | Vol 13 Chapter 4 - To the Maritime Country (3) | reviewed |  |
 | 318 |  | Chapter_318 - Vol 13 Chapter 4 - To the Maritime Country (4).txt | Vol 13 Chapter 4 - To the Maritime Country (4) | reviewed |  |
 | 319 |  | Chapter_319 - Vol 13 Intermission - Niedz the Adventurer.txt | Vol 13 Intermission - Niedz the Adventurer | reviewed |  |
-| 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | done |  |
-| 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | done |  |
-| 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | done |  |
+| 320 |  | Chapter_320 - Vol 14 Chapter 1 - Student and Teacher (1).txt | Vol 14 Chapter 1 - Student and Teacher (1) | reviewed |  |
+| 321 |  | Chapter_321 - Vol 14 Chapter 1 - Student and Teacher (2).txt | Vol 14 Chapter 1 - Student and Teacher (2) | reviewed |  |
+| 322 |  | Chapter_322 - Vol 14 Chapter 1 - Student and Teacher (3).txt | Vol 14 Chapter 1 - Student and Teacher (3) | reviewed |  |
 | 323 |  | Chapter_323 - Vol 14 Chapter 1 - Student and Teacher (4).txt | Vol 14 Chapter 1 - Student and Teacher (4) | todo |  |
 | 324 |  | Chapter_324 - Vol 14 Chapter 1 - Student and Teacher (5).txt | Vol 14 Chapter 1 - Student and Teacher (5) | todo |  |
 | 325 |  | Chapter_325 - Vol 14 Chapter 2 - Dungeon Delving (1).txt | Vol 14 Chapter 2 - Dungeon Delving (1) | todo |  |

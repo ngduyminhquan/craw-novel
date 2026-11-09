@@ -50,7 +50,7 @@ Thôi kệ, chuyện đó để sau hãy tính. Trước hết thì...
 
 "Oái! Rentt đấy à?! Cháu làm cái quái gì ở Lucaris thế này?!"
 
-Dù tôi biết việc Capitan tinh thông Khí Lực sẽ giúp chú ấy cảm nhận được có người đang tiến lại từ phía sau, nhưng không phải là chú có thể biết chính xác người đó là ai. Trong hoàn cảnh bình thường thì có lẽ chú ấy cũng đoán được phần nào, nhưng đây ắt hẳn là nơi cuối cùng chú nghĩ tôi sẽ xuất hiện. Xét cho cùng, khoảng cách từ Maalt đến Lucaris còn xa hơn cả về Hathara. Chẳng phải là một chuyến đi dạo chơi cuối tuần dễ dàng gì.
+Dù tôi biết trình độ Khí Lực cao cường sẽ giúp Capitan cảm nhận được có người đang tiến lại từ phía sau, nhưng đâu phải vì thế mà chú ấy biết chính xác người đó là ai. Trong hoàn cảnh bình thường thì có lẽ chú ấy cũng đoán được phần nào, nhưng đây ắt hẳn là nơi chú ấy ít ngờ tới nhất rằng tôi sẽ xuất hiện. Xét cho cùng, khoảng cách từ Maalt đến Lucaris còn xa hơn cả về Hathara. Chẳng phải là một chuyến đi dạo chơi cuối tuần dễ dàng gì.
 
 ![](images/ch322-01.webp)
 
@@ -60,7 +60,7 @@ Cơ mà nếu xét phương thức di chuyển mà tôi và Capitan có thể s�
 
 Capitan nghiêng đầu. "Huấn luyện cháu á?"
 
-Tôi kể cho chú ấy nghe đầu đuôi câu chuyện vì sao mình lại có mặt ở đây. Nghe xong, chú gật đầu.
+Tôi kể cho chú ấy nghe đầu đuôi câu chuyện vì sao mình lại có mặt ở đây. Nghe xong, chú ấy gật đầu.
 
 "Đang trên đường lên Ngân Cấp cơ à?" chú ấy nói. "Mừng là con đường mạo hiểm giả của cháu đang tiến triển thuận lợi. Nhìn cháu bây giờ, chú cứ ngỡ chuyện cháu từng rầu rĩ vì mãi chẳng thoát nổi Đồng Cấp đã là từ rất lâu rồi."
 
@@ -68,7 +68,7 @@ Tôi kể cho chú ấy nghe đầu đuôi câu chuyện vì sao mình lại có
 
 "Một người có thể ngày nào cũng gặp may mà vẫn chẳng đi tới đâu nếu bản thân kẻ đó vốn dĩ là đồ bỏ đi. Cháu có được vị trí như ngày hôm nay là nhờ vào tất cả những nỗ lực bền bỉ và thành quả mà cháu đã tích lũy suốt bao năm qua. Tự phụ thì không tốt, nhưng khiêm tốn quá mức cũng chẳng nên. Cháu phải biết tự đánh giá bản thân một cách khách quan."
 
-Tôi vốn không quen được khen ngợi thẳng thắn đến thế, nên những lời ấy của chú khiến tôi bất ngờ, xuyên qua lớp phòng thủ của tôi và giáng xuống như một đòn nặng trịch. "Đúng vậy..." tôi nói. "Capitan nói đúng thật. Cảm ơn Capitan."
+Tôi vốn không quen được khen ngợi thẳng thắn đến thế, nên những lời ấy của chú ấy khiến tôi bất ngờ, xuyên qua lớp phòng thủ của tôi và giáng xuống như một đòn nặng trịch. "Đúng vậy..." tôi nói. "Capitan nói đúng thật. Cảm ơn Capitan."
 
 ◆◇◆◇◆
 
@@ -86,7 +86,7 @@ Hồi mới ghé Hội Mạo Hiểm Giả Lucaris lần đầu, cô tiếp tân 
 
 Xin nói rõ là tôi không hề nghĩ những lời chú ấy nói là đang tự hạ thấp kỹ năng hay năng lực của bản thân. Vốn dĩ làm mạo hiểm giả đâu phải nghề chính của Capitan, trong khi việc thu thập tin tức qua từng mẩu chuyện phiếm vụn vặt lại là chuyện thường ngày của tôi. Nhiều mẩu tin tôi lượm lặt được thoạt nghe có vẻ chẳng mấy quan trọng vào thời điểm đó, nhưng thỉnh thoảng chúng lại ùa về trong tâm trí vào đúng dịp và chứng minh được sự hữu dụng của mình.
 
-Tôi tin chắc nếu Capitan dồn tâm huyết vào sự nghiệp mạo hiểm giả, chú ấy sẽ nhanh chóng tích lũy được biệt tài thám thính để đánh hơi tin tức về những thứ như địa điểm thu hoạch chỉ trong chớp mắt. Nhưng suy cho cùng, chú vẫn là một người thợ săn của Làng Hathara, và điều đó sẽ chẳng sớm thay đổi đâu.
+Tôi tin chắc nếu Capitan dồn tâm huyết vào sự nghiệp mạo hiểm giả, chú ấy sẽ nhanh chóng tích lũy được biệt tài thám thính để đánh hơi tin tức về những thứ như địa điểm thu hoạch chỉ trong chớp mắt. Nhưng suy cho cùng, chú ấy vẫn là một người thợ săn của Làng Hathara, và điều đó sẽ chẳng sớm thay đổi đâu.
 
 "Chỉ là chuyện luyện tập thôi mà," tôi nhún vai. "Chẳng khác nào học cách đi xuyên qua rừng vậy. Dù có biết hết mọi mánh khóe, người ta vẫn phải ra ngoài thực hành mỗi ngày suốt một thời gian thì mới thực sự nhuần nhuyễn được."
 
@@ -98,7 +98,7 @@ Tôi tin chắc nếu Capitan dồn tâm huyết vào sự nghiệp mạo hiểm
 
 Có lẽ chẳng cần phải nói, nhưng vì Capitan sở hữu tấm thẻ mạo hiểm giả Đồng Cấp, nên chú ấy chắc chắn đã phải vượt qua kỳ thi thăng hạng Đồng Cấp. Thế nên dẫu nội dung thực tế của bài thi mỗi người mỗi khác, cả hai chúng tôi đều có thể đồng cảm với nhau về thói quen thích gài bẫy thí sinh của bên Hội.
 
-Tất nhiên, mục đích của kỳ thi là để xem thí sinh có đủ tư cách trở thành người ở Đồng Cấp hay không, vậy nên một kẻ sở hữu thực lực vượt xa đẳng cấp đó hoàn toàn có thể càn quét qua chỉ bằng kỹ năng thuần túy. Capitan là bậc thầy về Khí Lực, và nếu phải cá cược trong một trận chiến giữa chú ấy với bất kỳ mạo hiểm giả Đồng Cấp bình thường nào ngoài kia, tôi dám đặt trọn cửa vào chú, thế nên tôi khó lòng tưởng tượng nổi chú lại gặp quá nhiều trắc trở. Trái lại, về phần tôi...
+Tất nhiên, mục đích của kỳ thi là để xem thí sinh có đủ tư cách trở thành người ở Đồng Cấp hay không, vậy nên một kẻ sở hữu thực lực vượt xa đẳng cấp đó hoàn toàn có thể càn quét qua chỉ bằng kỹ năng thuần túy. Capitan là bậc thầy về Khí Lực, và nếu phải cá cược trong một trận chiến giữa chú ấy với bất kỳ mạo hiểm giả Đồng Cấp bình thường nào ngoài kia, tôi dám đặt trọn cửa vào chú ấy, thế nên khó lòng tưởng tượng nổi chú ấy lại gặp quá nhiều trắc trở. Trái lại, về phần tôi...
 
 "Nếu có thể dùng sức mạnh thuần túy để càn qua một kỳ thi như thế thì đúng là minh chứng hùng hồn cho thực lực của Capitan rồi," tôi nói. "Cháu thì chắc chắn chịu chết không làm nổi đâu."
 
@@ -108,19 +108,19 @@ Xem chừng chú ấy vẫn đánh giá tôi quá cao. "Được Capitan nghĩ v
 
 "Có lý. Xem ra chú phải nhanh chóng tìm cho xong mớ hải linh thảo đó mới được. Giá mà quanh đây có ngư nhân thì tốt biết mấy..."
 
-Ồ, hóa ra chú ấy từng có ý định đi nhờ ngư nhân. "Ý Capitan là chú chẳng tìm thấy một người nào sao?" tôi gặng hỏi.
+Ồ, hóa ra chú ấy từng có ý định đi nhờ ngư nhân. "Ý Capitan là chẳng tìm thấy một người nào sao?" tôi gặng hỏi.
 
 "Phải. Thường thì—ít ra là lần trước chú đến Lucaris—trong thành phố vẫn có không ít người bọn họ qua lại, nhưng lần này thì chẳng gặp may như thế."
 
 Đây là lần đầu tôi đến Lucaris nên chẳng rõ điều gì là bình thường, điều gì không, nhưng ở đây có nhiều thú nhân hơn hẳn những thành phố khác tôi từng đi qua. Dẫu vậy, nếu thực sự có ngư nhân quanh đây thì chắc chắn là đến giờ tôi vẫn chưa nhìn thấy một ai.
 
-"Có chuyện gì xảy ra thế chú?" tôi hỏi. "Họ chuyển đi hết rồi hay sao?"
+"Có chuyện gì xảy ra thế?" tôi hỏi. "Họ chuyển đi hết rồi hay sao?"
 
 Trong khi con người có xu hướng định cư bám rễ ở một nơi rất mạnh mẽ, thì việc các chủng tộc khác sống đời du mục lại phổ biến hơn. Dĩ nhiên cũng có một số loài gắn bó với quê hương xứ sở còn chặt chẽ hơn cả con người, nhưng loài ngư nhân nhìn chung vẫn được cho là mang sẵn dòng máu thích phiêu lưu xê dịch. Toàn bộ cộng đồng ngư nhân ở Lucaris hoàn toàn có thể chỉ vì một thoáng bốc đồng mà quyết định chuyển đi nơi khác.
 
 "Không, chẳng phải như thế đâu," Capitan nói rồi thoáng khựng lại. "À thì, thật ra cũng có chút giống thế. Vốn dĩ ngay từ đầu số lượng bọn họ ở Lucaris cũng chẳng có bao nhiêu. Họ có một khu định cư riêng ngoài khơi dưới đáy biển, và khá thường xuyên bơi lên mặt nước để giao thương. Đúng là cũng có vài người chuyển hẳn tới đây định cư lâu dài để làm việc, nhưng hiện tại, gần như toàn bộ bọn họ đều đã quay trở về thị trấn dưới nước—và bám trụ luôn ở đó."
 
-"Đã xảy ra chuyện gì sao chú?" tôi hỏi. Nếu cả một cộng đồng tộc người bỗng dưng đồng loạt rời đi thì ắt phải có nguyên do. Lucaris thoạt nhìn bên ngoài thì thanh bình, nhưng biết đâu mọi sự lại chẳng êm đềm như vẻ bề ngoài.
+"Đã xảy ra chuyện gì sao?" tôi hỏi. Nếu cả một cộng đồng tộc người bỗng dưng đồng loạt rời đi thì ắt phải có nguyên do. Lucaris thoạt nhìn bên ngoài thì thanh bình, nhưng biết đâu mọi sự lại chẳng êm đềm như vẻ bề ngoài.
 
 "Ừ," Capitan nói. "Cháu biết về các Ma Vương rồi đúng không?"
 

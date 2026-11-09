@@ -20,7 +20,7 @@
 
 Người đàn ông với lớp râu lởm chởm dưới cằm cẩn thận tự kiểm tra một lượt khắp người mình. "Tôi thấy đỡ hơn rồi," hồi lâu sau cậu ta mới lên tiếng. "Chẳng rõ vì sao lại thế. Cơ mà... cảm ơn anh."
 
-Nghe vậy tôi mới thở phào nhẹ nhõm. Thang nước ngâm thảo dược tôi vừa cho cậu ta uống vốn chỉ là thử nghiệm, nên tôi cứ nơm nớp lo sẽ xảy ra chuyện gì bất trắc. Công thức đó tôi học được từ sư phụ dạy nghề thảo dược của mình là bà Gharb, vốn là bài thuốc quen thuộc đã được kiểm chứng qua bao đời ở Hathara—hoặc chí ít, suýt soát là vậy. Bởi chính tay tôi đã tự ý gia giảm đôi chút.
+Nghe vậy tôi mới thở phào nhẹ nhõm. Thang nước ngâm thảo dược tôi vừa cho cậu ta uống vốn chỉ là thử nghiệm, nên tôi cứ nơm nớp lo sẽ xảy ra chuyện gì bất trắc. Công thức đó tôi học được từ sư phụ dạy nghề thảo dược của mình là bà Gharb, vốn là bài thuốc quen thuộc đã được kiểm chứng qua bao đời ở Hathara—hoặc nói đúng hơn là gần như vậy. Bởi chính tay tôi đã tự ý gia giảm đôi chút.
 
 Thực ra, dù bà Gharb từng dạy tôi rất nhiều về thảo dược học và cách bào chế các loại nước ngâm tự nhiên, những bài học của bà chưa bao giờ đả động đến thuật điều chế ma dược. Một phần vì hồi đó tôi chẳng hề hay biết bà có khả năng ấy, nhưng phần lớn là do lượng Ma Lực của tôi lúc bấy giờ ít ỏi đến đáng thương.
 
@@ -44,7 +44,7 @@ Dù sao đi nữa, có rất nhiều bằng chứng gián tiếp cho thấy nế
 
 Tôi đã chứng minh được tính khả thi của ý tưởng này sau khi điều chế vài thang thuốc và truyền Thần Lực vào chúng, nên chắc chắn là làm được. Tôi thậm chí đã thử nghiệm trên động vật và quái vật bị thương với kết quả rất khả quan. Nhưng thuốc sẽ phát huy tác dụng ra sao trên cơ thể con người thì tôi vẫn chưa rõ.
 
-À thì, cho tới tận lúc này. Nhờ một sự trùng hợp hết sức tiện lợi, gã này cùng đồng bọn lại vừa hay định nhảy xổ vào cướp của tôi. Tôi nghĩ bụng, một khi cậu ta đã toan tính hại mạng mình, thì cậu ta cũng mất luôn quyền phàn nàn về bất cứ điều gì tôi làm với cậu ta sau đó rồi.
+À thì, cho tới tận lúc này. Nhờ một sự trùng hợp hết sức tiện lợi, cậu ta cùng đồng bọn lại vừa hay định nhảy xổ vào cướp của tôi. Tôi nghĩ bụng, một khi cậu ta đã toan tính hại mạng mình, thì cậu ta cũng mất luôn quyền phàn nàn về bất cứ điều gì tôi làm với cậu ta sau đó rồi.
 
 Nghĩ thế có khiến tôi nghe giống kẻ phản diện quá không nhỉ?
 
@@ -76,7 +76,7 @@ Cậu ta nhìn tôi đầy vẻ hoài nghi. "Thế rốt cuộc là có ý gì?"
 
 "Thế cậu nghĩ chuyện gì sẽ xảy đến với mình?" tôi hỏi.
 
-Người đàn ông ngẫm nghĩ một lúc. "Anh sẽ biến tôi thành nô lệ của anh, hoặc đem bán tôi cho kẻ khác làm việc đó," cậu ta nói, từng chữ thốt ra một cách chật vật như thể chẳng hề muốn nhắc đến. "Đó là lý do anh chữa thương cho tôi, đúng không? Để tôi bán được giá hơn chứ gì?"
+Người đàn ông ngẫm nghĩ một lúc. "Anh sẽ biến tôi thành nô lệ của anh, hoặc đem bán tôi cho kẻ khác làm việc đó," hồi lâu sau cậu ta mới lên tiếng, nặng nhọc rặn ra từng chữ như chẳng muốn mở lời. "Đó là lý do anh chữa thương cho tôi, đúng không? Để tôi bán được giá hơn chứ gì?"
 
 "Chà, bi quan ghê nhỉ," tôi nhận xét. Bất chợt, một ý nghĩ lóe lên trong đầu tôi.
 
@@ -144,9 +144,9 @@ Nhìn việc họ ngoan ngoãn quay về mà không gây ra điều tiếng gì,
 
 "Làm tốt lắm," tôi nói. "Ừ, trông như đủ cả rồi đấy. Có điều chậu này đây—xem chừng cậu đã chọn phải cây có chất lượng hơi kém một chút rồi." Tôi chỉ vào một trong những chậu thảo dược.
 
-"Hở? Sao cơ ạ? Nhưng..." Lukas có vẻ luống cuống. "Anh nhìn xem! Nó tươi lắm mà! Nhìn lá căng mọng và mơn mởn thế kia là biết ngay!"
+"Hở? Sao cơ? Nhưng..." Lukas có vẻ luống cuống. "Anh nhìn xem! Nó tươi lắm mà! Nhìn lá căng mọng và mơn mởn thế kia là biết ngay!"
 
-"Loại cây này chỉ mọc ở vùng đất giàu Ma Lực thôi," tôi giải thích, vừa véo một chút đất rồi xoa đều giữa các đầu ngón tay. "Và nó cần phải nằm trong đất giàu Ma Lực để duy trì dược tính, đó là lý do khi thu hoạch người ta phải bứng cả phần đất xung quanh nó đi kèm. Đó là một công việc rất tỉ mỉ. Lẽ tự nhiên là người ta sẽ muốn dùng chính loại đất đó khi cho vào chậu—nhưng chỗ đất này chỉ là loại bình thường thôi, thấy chứ? Đúng là nó có chút Ma Lực thật, nhưng đó là vì... Nào, nhìn cho kỹ đi." Tôi lục tìm trong đám đất rồi lấy ra vài mảnh đá vụn li ti, đặt chúng lên lòng bàn tay cho Lukas xem.
+"Loại cây này chỉ mọc ở vùng đất giàu Ma Lực thôi," tôi giải thích, vừa véo một chút đất rồi xoa đều giữa các đầu ngón tay. "Và nó cần phải nằm trong đất giàu Ma Lực để duy trì dược tính, đó là lý do khi thu hoạch người ta phải bứng cả phần đất xung quanh nó đi kèm. Đó là một công việc rất tỉ mỉ. Lẽ tự nhiên là người ta sẽ muốn dùng chính loại đất đó khi cho vào chậu—nhưng chỗ đất này chỉ là loại bình thường thôi đấy. Đúng là nó có chút Ma Lực thật, nhưng đó là vì... Nào, nhìn cho kỹ đi." Tôi lục tìm trong đám đất rồi lấy ra vài mảnh đá vụn li ti, đặt chúng lên lòng bàn tay cho Lukas xem.
 
 "Đó là... Ma Tinh sao?"
 

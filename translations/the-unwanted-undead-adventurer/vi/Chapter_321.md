@@ -1,6 +1,6 @@
 # Chương 321: Tập 14 Chương 1 - Thầy và Trò (2)
 
-Hẳn Niedz đinh ninh hai người bạn sẽ cười phụ họa với mình. Dù sao họ cũng từng cùng nhau nếm trải bao nỗi gian truân của kiếp mạo hiểm giả dưới đáy xã hội, và thừa hiểu thám hiểm mê cung có thể là một chuyến đi một chiều thẳng xuống mồ. Tôi vốn quá quen với việc cười cợt sự bất lực của bản thân là chủ đề chuyện trò quen thuộc của những kẻ ở các thứ hạng thấp.
+Hẳn Niedz đinh ninh hai người bạn sẽ cười phụ họa với mình. Dù sao họ cũng từng cùng nhau nếm trải bao nỗi gian truân của kiếp mạo hiểm giả dưới đáy xã hội, và thừa hiểu thám hiểm mê cung có thể là một chuyến đi một chiều thẳng xuống mồ. Cảnh những mạo hiểm giả cấp thấp đem sự bất lực của chính mình ra cười cợt làm đề tài chuyện trò vốn đã quá đỗi quen thuộc với tôi.
 
 Chính vì thế, câu trả lời của Gahedd hẳn đã khiến Niedz không khỏi ngỡ ngàng.
 
@@ -60,7 +60,7 @@ Dù đi đến đâu chăng nữa, phần lớn mạo hiểm giả đều hoàn 
 
 "Mà đâu chỉ có thế..." Gahedd lại tiếp tục.
 
-Trong lúc cậu ấy tiếp tục giải thích cho bạn mình, tôi liếc nhìn ra ngoài cửa sổ và nhận thấy mặt trời đang dần lặn xuống. Đã đến lúc tôi phải tới Hội Mạo Hiểm Giả rồi.
+Trong lúc cậu ta tiếp tục giải thích cho bạn mình, tôi liếc nhìn ra ngoài cửa sổ và nhận thấy mặt trời đang dần lặn xuống. Đã đến lúc tôi phải tới Hội Mạo Hiểm Giả rồi.
 
 Để mặc ba người bạn tiếp tục chuyện trò, tôi quay sang Diego. "Tôi có hẹn gặp một người ở Hội địa phương," tôi giải thích. "Ngày mai tôi quay lại đây được chứ?"
 
@@ -102,7 +102,7 @@ Một lát sau, tôi bắt gặp bóng dáng phương tiện đón mình. "Kia r
 
 Thực ra tôi cũng trông thấy chiếc phà chính thức của mê cung, nhưng tôi không định dùng nó. Giá cả rẻ hơn cùng lịch trình cố định biến nó thành lựa chọn thích hợp cho những ai muốn chinh phục Mê Cung Các Con Gái Của Hải Thần, nhưng đi kèm với đó là nguy cơ bị bỏ lại nếu người ta ngoi lên trễ giờ—điều mà tôi đã chứng thực sau khi hỏi thăm những người quanh bến cảng.
 
-Bản thân Hội Mạo Hiểm Giả cũng khuyến khích đi phà, nhưng tôi quyết định thuê riêng một con thuyền cho mình để đáp ứng các nhu cầu cá nhân. Chi phí đắt đỏ quả là một điểm nhức nhối, nhưng tính linh hoạt khiến số tiền bỏ ra hoàn toàn xứng đáng. Với chiếc phà, người ta buộc phải tự bơi lại chỗ nó bất kể bạn ngoi lên ở khoảng cách xa đến đâu, nhưng vì tôi là hành khách duy nhất trên chiếc thuyền mình thuê ngoài người lái thuyền, con thuyền có thể chủ động tiến về phía tôi.
+Bản thân Hội Mạo Hiểm Giả cũng khuyến khích đi phà, nhưng tôi quyết định thuê riêng một con thuyền cho tiện công việc của mình. Chi phí đắt đỏ đúng là hơi xót tiền, nhưng sự linh hoạt mang lại thì hoàn toàn xứng đáng. Đi phà thì dù có ngoi lên cách xa đến mấy người ta cũng buộc phải tự bơi lại chỗ nó, còn trên chiếc thuyền thuê riêng này chỉ có mình tôi là hành khách ngoài người lái thuyền, nên thuyền có thể chủ động chạy tới đón tôi.
 
 Khi con thuyền tới nơi, người thủy thủ quăng cho tôi một sợi dây thừng, và tôi dùng nó để đu mình trèo lên thuyền.
 
@@ -122,7 +122,7 @@ Anh ta nhìn tôi bằng ánh mắt kỳ quặc. "Tiền thuê tôi đâu có đ
 
 "Anh chắc chứ?"
 
-"Chắc chứ. Cứ uống cho đã đời đi—miễn sao ngày mai cậu đừng say mèm tới mức không làm việc được là được. Cậu là chiếc thuyền duy nhất ngoài chuyến phà kia chịu nhận lời thuê của tôi, mà tôi nghe đâu ngày mai phà không chạy thì phải."
+"Chứ sao. Cứ uống cho đã đời đi—miễn sao ngày mai cậu đừng say mèm tới mức không làm việc được là được. Ngoài chuyến phà kia ra thì chỉ có thuyền của cậu là chịu nhận chở tôi thôi, mà tôi nghe đâu ngày mai phà không chạy thì phải."
 
 "Này, anh trả tiền cho tôi làm việc mà. Tôi rất vui lòng nhận tiền của anh, nhưng anh đâu cần phải chiều chuộng thêm bằng cách—" Mazlak đột ngột ngắt lời, nét mặt thoắt biến thành vẻ hoảng hốt.
 
@@ -150,6 +150,6 @@ Mazlak gật đầu. "Phải. Lũ tay sai của Ma Vương đấy. Chẳng hiể
 
 "Về điểm đó thì tôi cũng xin nâng ly tán thành. Mau quay về Lucaris thôi, rồi tụi mình cùng làm vài ly."
 
-Mazlak gật đầu rồi tăng tốc thuyền. Chẳng bao lâu sau, chúng tôi đã cập bến an toàn chẳng hề sứt mẻ sợi tóc nào. Lẽ dĩ nhiên điều đó phải nhờ vào tay nghề của Mazlak, nhưng cũng một phần bởi lũ Hải Kỵ Sĩ đã bỏ dở cuộc truy đuổi giữa chừng. Chuyện đó khiến tôi không khỏi băn khoăn về mục đích thực sự của chúng, nhưng tôi chẳng có cách nào tìm hiểu được. Kể từ giờ tôi chỉ còn nước tránh xa vùng biển cụ thể đó ra mà thôi.
+Mazlak gật đầu rồi tăng tốc thuyền. Chẳng bao lâu sau, chúng tôi đã cập bến an toàn chẳng hề sứt mẻ sợi tóc nào. Lẽ dĩ nhiên điều đó phải nhờ vào tay nghề của Mazlak, nhưng cũng một phần bởi lũ Hải Kỵ Sĩ đã bỏ dở cuộc truy đuổi giữa chừng. Chuyện đó khiến tôi không khỏi băn khoăn về mục đích thực sự của chúng, nhưng tôi chẳng có cách nào tìm hiểu được. Từ giờ trở đi tôi chỉ còn cách tránh xa vùng biển đó ra mà thôi.
 
 Dù sao thì cẩn tắc vô ưu vẫn hơn.
