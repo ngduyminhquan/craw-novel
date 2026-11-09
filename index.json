@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:01:11Z",
+  "generatedAt": "2026-11-09T08:01:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2149,16 +2149,6 @@
           "sha": "00101f70836f706f4455a45c5759bbe0c2e3a55e"
         }
       ]
-    },
-    {
-      "slug": "legend-1",
-      "title": "Legend 1",
-      "chapters": []
-    },
-    {
-      "slug": "legend-2",
-      "title": "Legend 2",
-      "chapters": []
     },
     {
       "slug": "the-unwanted-undead-adventurer",
