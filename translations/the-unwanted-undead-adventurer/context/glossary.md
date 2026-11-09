@@ -529,6 +529,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | blacksmithing contest |  | cuộc thi rèn | khác | 306 | Cuộc thi tài nghệ rèn vũ khí và đồ tạo tác tổ chức tại thành phố mỏ Welfia |
 | head smith |  | thợ rèn trưởng | chức nghiệp | 309 | Người đứng đầu xưởng rèn vũ khí (thuật ngữ cố định) |
 | deputy head smith |  | phó thợ rèn trưởng | chức nghiệp | 309 | Người đứng thứ hai tại xưởng rèn vũ khí (thuật ngữ cố định) |
+| Ariana |  | Ariana | địa danh | 210 | Tên gọi ngắn của Cộng Hòa Hàng Hải Ariana |
+| sea spirit herb | sea spirit herbs; Sea Spirit Herb; Sea Spirit Herbs | hải linh thảo | vật phẩm | 314 | Loại thực vật biển quý hiếm dùng làm thuốc trị bệnh gỉ ma lực (海霊草) |
+| manarust disease | manarust | bệnh gỉ ma lực | khác | 314 | Chứng bệnh khiến Ma Lực đông kết tạo thành lớp màng như gỉ sét trên cơ thể (魔錆病) |
 
 
 

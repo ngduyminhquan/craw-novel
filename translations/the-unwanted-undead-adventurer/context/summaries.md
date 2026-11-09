@@ -1150,6 +1150,12 @@ Ingo nhiệt tình đồng ý truyền dạy kỹ thuật cho Lorraine; sau đó
 Ingo liên tưởng công năng của chiếc cốc với một mê cung: cả hai đều có khả năng thu gom Ma Lực thúc đẩy quái vật Tiến Hóa Bản Thể với hiệu suất cao, gợi mở giả thuyết chiếc cốc là mê cung thu nhỏ hoặc được chế tạo từ cùng một nền tảng kỹ thuật với mê cung nhân tạo.
 Cảnh kết thúc: Rentt và Lorraine thán phục trước góc nhìn mới mẻ của Ingo, và Lorraine quyết định sẽ định hướng các thí nghiệm tương lai về chiếc cốc theo giả thuyết mê cung này.
 
+## 314
+Rentt nhường Lorraine học trước kỹ năng người thuần hóa quái vật từ Ingo, còn mình sang nhà bà Gharb để rèn lại căn bản nghề thuốc và được bà đề nghị dạy thêm khóa cấp tốc về điều chế ma dược nhờ lượng Ma Lực tăng vọt.
+Hỏi thăm tung tích Capitan, Rentt được bà Gharb cho biết Capitan đã dùng ma pháp trận dịch chuyển tới vùng biển phía nam thuộc Cộng Hòa Hàng Hải Ariana để tìm kiếm hải linh thảo (chữa bệnh gỉ ma lực cho một người bạn ở Đế Quốc); bà Gharb gợi ý Rentt tới đó phụ giúp để vừa săn quái vừa học vận dụng Khí Lực thực chiến.
+Trong bữa tối cùng Lorraine và Ingo, cả ba bàn về chuyến đi ngày mai của Rentt tới Ariana—vùng đất do giới thương nhân quyền lực chi phối với thủ tục kiểm tra lỏng lẻo và buôn bán nhiều nguyền phẩm.
+Cảnh kết thúc: Lorraine dặn dò Rentt phải luôn mở to mắt cảnh giác và nhớ dùng ma pháp trận dịch chuyển để tẩu thoát nếu gặp nguy hiểm.
+
 
 
 
