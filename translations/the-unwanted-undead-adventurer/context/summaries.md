@@ -1035,6 +1035,13 @@ Rentt nhận ủy thác và cùng Rivul lên đường ngay; sau một ngày đi
 Nhóm Rentt gặp gỡ Trưởng thôn Jiris cùng 4 người dân làng; Jiris vô cùng cảm kích khi một mạo hiểm giả Đồng Cấp chịu nhận mức thù lao ít ỏi; Rentt dự định sẽ dọn dẹp Khô Lâu vào ban ngày ngày mai để tránh nguy hiểm và từ chối lời đề nghị cùng tham chiến của dân làng để bảo toàn tính mạng cho họ.
 Cảnh kết thúc: Dân làng nhao nhao muốn xả thân giúp sức dẫu chỉ làm tấm khiên chắn, khiến Rentt nhận ra anh cần phải tìm cách thuyết phục họ ở yên tại chỗ trước khi ra tay.
 
+## 296
+Sáng hôm sau, Rentt thuyết phục Trưởng thôn Jiris và nhóm dân làng không xông vào cận chiến mà lập nhóm đứng từ xa bắn tên làm mồi nhử; khi quan sát từ đỉnh đồi, anh phát hiện bầy Khô Lâu đã tăng thêm quân số, xuất hiện cả hai con Khô Lâu Binh (cầm giáo và cầm cung).
+Rentt một mình lẻn vào làng, dùng kiếm truyền Khí Lực hạ gục gọn gàng con Khô Lâu đi tuần đầu tiên trong im lặng, móc Ma Tinh rồi dùng kiếm truyền Ma Lực vùi nông đống xương làm vật liệu tái thiết làng sau này.
+Chạm trán con Khô Lâu thứ hai đi tuần lẻ loi, Rentt thử nghiệm truyền Thần Lực vào kiếm: nhát chém khiến con quái vật cùng các khúc xương liền kề lập tức hóa thành tro bụi và rơi lại Ma Tinh.
+Rentt nhận thấy Thần Lực mang lại sự chúc phúc khắc chế Undead cực mạnh nhưng tiêu hao nhiều hơn hiệu suất thu lại và tốc độ tích lũy chậm, nên chỉ phù hợp đối phó Undead.
+Cảnh kết thúc: Rentt tạm thu hồi Thần Lực khỏi kiếm, phát tín hiệu cho dân làng đang ẩn nấp rồi cất bước đi tìm con Khô Lâu thứ ba.
+
 
 
 

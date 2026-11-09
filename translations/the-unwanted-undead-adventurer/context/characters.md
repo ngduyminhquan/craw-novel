@@ -148,7 +148,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Director Rudo |  | Chủ Thương Hội Rudo | Cách gọi kèm chức vụ của Rudo Merrow | #286 |
 | Uncle Jude |  | Bác Jude | Cách gọi thân mật kính trọng Dorothea dùng cho Jude Esol | #286 |
 | Rivul | Master Rivul | Rivul | Chàng thanh niên dân làng đến Hội Mạo Hiểm Giả Maalt đăng ủy thác tiêu diệt Khô Lâu | #294 |
-| Jiris |  | Jiris | Trưởng thôn Làng Crask, người lớn tuổi nhất trong nhóm đàn ông túc trực canh gác bảo vệ làng | #295 |
+| Jiris | Headman Jiris | Jiris | Trưởng thôn Làng Crask, người lớn tuổi nhất trong nhóm đàn ông túc trực canh gác bảo vệ làng | #295 |
+| Zutga |  | Zutga | Thợ săn Làng Crask, cùng Rivul là hai tay săn giỏi nhất làng | #296 |
 
 
 
@@ -910,4 +911,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân phận: Nam, người lớn tuổi, trưởng thôn Làng Crask (#295).
 - Tính cách: Lịch thiệp, biết ơn, có tinh thần trách nhiệm và sẵn sàng hy sinh vì làng (#295).
 - Xuất hiện từ: #295.
+
+### Zutga
+- Thân phận: Nam, thợ săn Làng Crask (#296).
+- Đặc điểm: Cùng với Rivul là hai tay săn cừ khôi tranh nhau vị trí số một trong làng (#296).
+- Xuất hiện từ: #296.
 

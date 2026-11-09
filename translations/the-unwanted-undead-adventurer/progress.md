@@ -300,7 +300,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | reviewed |  |
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | reviewed |  |
 | 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | reviewed |  |
-| 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | todo |  |
+| 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | done |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | todo |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | todo |  |
 | 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | todo |  |
@@ -968,3 +968,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#294] Kính ngữ 'Master Rivul' khi tiếp tân viên Sheila xưng hô với thân chủ Rivul — tạm chọn 'cậu Rivul' (phù hợp thân phận chàng thanh niên trẻ từ làng quê; phương án khác: 'ngài Rivul'). → Chấp nhận 'cậu Rivul' (phù hợp tuổi tác và thân phận thanh niên trẻ từ làng quê). (orchestrator)
 - [#295] Kính ngữ 'Master Rentt' khi Trưởng thôn Jiris xưng hô với Rentt — tạm chọn 'ngài Rentt' (thể hiện sự tôn trọng, biết ơn của vị trưởng thôn lớn tuổi với mạo hiểm giả đến giúp làng; phương án khác: 'cậu Rentt'). → Chấp nhận 'ngài Rentt' (phù hợp thái độ tôn trọng của Trưởng thôn Jiris đối với mạo hiểm giả nhận ủy thác). (orchestrator)
 - [#295] Dịch địa danh 'Crask / Crask Village' và 'Neris River' — tạm chọn 'Làng Crask' và 'Sông Neris' (nhất quán với các địa danh làng mạc ven sông khác quanh Maalt; phương án khác: giữ nguyên 'Crask', 'Neris'). → Chấp nhận 'Làng Crask' và 'Sông Neris' (nhất quán với quy tắc địa danh trong glossary). (orchestrator)
+- [#296] Tên nhân vật mới 'Zutga' (thợ săn Làng Crask) — tạm giữ nguyên tên riêng phương Tây 'Zutga' và thêm vào characters.md theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zutga'. → Giữ nguyên tên riêng 'Zutga' theo rules.md. (orchestrator)
