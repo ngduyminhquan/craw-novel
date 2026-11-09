@@ -302,7 +302,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | reviewed |  |
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | done |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | done |  |
-| 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | todo |  |
+| 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | done |  |
 | 299 |  | Chapter_299 - Vol 12 Bonus - The Flavor of Life.txt | Vol 12 Bonus - The Flavor of Life | todo |  |
 | 300 |  | Chapter_300 - Vol 12 Bonus - A Miraculous Encounter.txt | Vol 12 Bonus - A Miraculous Encounter | todo |  |
 | 301 |  | Chapter_301 - Vol 13 Chapter 1 - A Strange Monster and a New Find (1).txt | Vol 13 Chapter 1 - A Strange Monster and a New Find (1) | todo |  |
@@ -969,3 +969,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#295] Kính ngữ 'Master Rentt' khi Trưởng thôn Jiris xưng hô với Rentt — tạm chọn 'ngài Rentt' (thể hiện sự tôn trọng, biết ơn của vị trưởng thôn lớn tuổi với mạo hiểm giả đến giúp làng; phương án khác: 'cậu Rentt'). → Chấp nhận 'ngài Rentt' (phù hợp thái độ tôn trọng của Trưởng thôn Jiris đối với mạo hiểm giả nhận ủy thác). (orchestrator)
 - [#295] Dịch địa danh 'Crask / Crask Village' và 'Neris River' — tạm chọn 'Làng Crask' và 'Sông Neris' (nhất quán với các địa danh làng mạc ven sông khác quanh Maalt; phương án khác: giữ nguyên 'Crask', 'Neris'). → Chấp nhận 'Làng Crask' và 'Sông Neris' (nhất quán với quy tắc địa danh trong glossary). (orchestrator)
 - [#296] Tên nhân vật mới 'Zutga' (thợ săn Làng Crask) — tạm giữ nguyên tên riêng phương Tây 'Zutga' và thêm vào characters.md theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zutga'. → Giữ nguyên tên riêng 'Zutga' theo rules.md. (orchestrator)
+- [#298] Dịch 'Dragonfish' (竜魚) — Tạm chọn 'Long Ngư' (motif sinh vật dạng cá khổng lồ có thể hóa rồng, giữ màu sắc kỳ ảo; phương án khác: 'Cá Rồng' dễ nhầm sang cá cảnh đời thường Arowana). → Chấp nhận 'Long Ngư' (nhất quán với motif loài cá thần thoại có tiềm năng hóa rồng). (orchestrator)
+- [#298] Xưng hô giữa bà lão cựu mạo hiểm giả Alvina và Rentt Faina — Tạm chọn Alvina xưng 'ta', gọi 'cậu / Rentt'; Rentt xưng 'tôi', gọi 'bà / bà Alvina' (phương án khác: Alvina xưng 'tôi', gọi 'cậu'). → Chấp nhận Alvina xưng 'ta', gọi 'cậu / Rentt'; Rentt xưng 'tôi', gọi 'bà / bà Alvina'. (orchestrator)

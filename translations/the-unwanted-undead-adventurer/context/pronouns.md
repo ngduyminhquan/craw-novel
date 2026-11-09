@@ -113,6 +113,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jude Esol | Jude / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol |
 | Rivul | Rivul / cậu thanh niên / chàng trai / cậu ấy | 294 | Chàng thanh niên dân làng đến Maalt đăng ủy thác diệt Khô Lâu |
 | Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris | 295 | Trưởng thôn Làng Crask |
+| Alvina | Alvina / bà lão / bà ấy | 298 | Bà lão cựu mạo hiểm giả tại Maalt, thân chủ của Rentt |
 
 
 
@@ -592,6 +593,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Jiris | Rentt Faina | tôi | cậu / cậu Rentt | 295 | Trưởng thôn lớn tuổi cảm kích và tôn trọng mạo hiểm giả |
 | Jiris | Rivul | ta | cháu / Rivul | 295 | Trưởng thôn lớn tuổi nói chuyện với thanh niên trong làng |
 | Rivul | Jiris | cháu | Trưởng thôn / bác Jiris / mọi người | 295 | Thanh niên trong làng nói chuyện với trưởng thôn lớn tuổi |
+| Rentt Faina | Alvina | tôi | bà / bà Alvina | 298 | Mạo hiểm giả nói chuyện với bà lão thân chủ |
+| Alvina | Rentt Faina | ta | cậu / Rentt | 298 | Bà lão cựu mạo hiểm giả nói chuyện với mạo hiểm giả trẻ |
 
 
 

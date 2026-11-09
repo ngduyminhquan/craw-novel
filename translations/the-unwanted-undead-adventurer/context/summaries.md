@@ -1049,6 +1049,12 @@ Nhằm trừ khử mối nguy lớn nhất cho dân làng là cung thủ Khô L�
 Dân làng bắn tên quấy rối con Khô Lâu còn lại giúp Rentt chém đôi nó từ sau lưng; sau đó Rentt suy ngẫm về nguồn gốc Undead và bản ngã của mình trước khi vận Khí Lực dốc toàn lực lao vào đơn đả độc đấu.
 Cảnh kết thúc: Rentt tung nhát chém cường hóa Khí Lực chém lìa đầu con Khô Lâu Binh cầm giáo cuối cùng, hoàn tất việc quét sạch lũ Undead trong làng.
 
+## 298
+Rentt nhận ủy thác cõng Alvina—một bà lão cựu mạo hiểm giả quen biết lâu năm tại Maalt—lên hồ nước trên đỉnh ngọn núi đá hiểm trở ngập tràn Thần Lực để thăm con "Long Ngư" khổng lồ tương truyền sẽ có ngày hóa Rồng mà tổ tiên mười đời của bà từng ghi chép lại.
+Alvina nhờ Rentt lặn xuống đáy hồ nhặt ba chiếc vảy do Long Ngư rụng ra; khi chạm nước, dòng suối hồi phục Thần Lực xua tan mọi mệt mỏi trong Rentt; dưới đáy hồ, anh chạm mặt Long Ngư và chịu áp lực áp đảo trước khi nó bỏ đi.
+Long Ngư truyền âm vào tâm trí Rentt lời cảnh báo và khuyên nhủ chớ sa vào lòng tham; khi lên bờ, Rentt kể lại (lược bỏ chi tiết Undead), Alvina hé lộ tổ tiên bà cũng từng nghe nó nói và nghĩa vụ mười đời đến thế hệ bà là chấm dứt, đồng thời bà lấy ba chiếc vảy làm bùa may mắn cho Rentt, Lorraine và đứa cháu của mình.
+Cảnh kết thúc: Alvina giục Rentt cõng bà về thị trấn và hai người bắt đầu hành trình quay về.
+
 
 
 

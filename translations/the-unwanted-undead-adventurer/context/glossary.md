@@ -514,6 +514,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Gist Gorge |  | Hẻm Núi Gist | địa danh | 294 | Vực hẻm núi có vách đá mọc loài hoa đặc thù trong ủy thác thu thập |
 | Crask | Crask Village | Làng Crask | địa danh | 295 | Ngôi làng nhỏ nằm ở phía tây Maalt dọc theo Sông Neris |
 | Neris River |  | Sông Neris | địa danh | 295 | Con sông chảy qua phía tây Maalt gần Làng Crask |
+| Dragonfish | dragonfish; The Dragonfish | Long Ngư | quái vật | 298 | Sinh vật dạng cá khổng lồ sống trong hồ trên đỉnh núi đá, tương truyền có thể hóa rồng (竜魚) |
 
 
 
