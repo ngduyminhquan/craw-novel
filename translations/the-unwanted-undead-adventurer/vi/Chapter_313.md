@@ -6,13 +6,13 @@ Lorraine lấy ra từ túi ma thuật những chiếc hộp tương tự như l
 
 "Slime ư...? Trông chúng nhỏ hơn nhiều so với bình thường nhỉ."
 
-Chút ngạc nhiên thoáng hiện trên gương mặt Ingo, nhưng ngoài điều đó ra thì phản ứng của ông vẫn rất bình thản. Âu cũng phải thôi, một người thuần hóa quái vật thì sao có thể bận tâm trước đối tượng trong ngón nghề của mình được chứ. Vả lại, lũ Slime này nhỏ đến mức cha hẳn cũng nhận ra chúng khó lòng gây nguy hiểm cho con người.
+Chút ngạc nhiên thoáng hiện trên gương mặt Ingo, nhưng ngoài điều đó ra thì phản ứng của ông ấy vẫn rất bình thản. Âu cũng phải thôi, một người thuần hóa quái vật thì sao lại nao núng trước đối tượng thuộc ngón nghề của mình được chứ. Vả lại, lũ Slime này nhỏ đến mức cha hẳn cũng nhận ra chúng khó lòng gây nguy hiểm cho con người.
 
 Còn nếu đổi lại là một dân làng bình thường hay thị dân Maalt, chắc chắn họ sẽ vừa kinh ngạc vừa sợ khiếp vía cho xem.
 
 "Vâng. Chúng tới từ cống ngầm dưới lòng Maalt đấy bác," Lorraine xác nhận.
 
-Có một mê cung nằm sâu dưới lòng Maalt, được xây dựng từ những vật liệu cổ xưa mà ngày nay không còn ai sử dụng nữa. May mắn thay, nó không gây thiệt hại quá lớn cho hệ thống dẫn nước của thị trấn. Dù có nảy sinh vài trục trặc—những biến động khổng lồ dưới lòng đất ắt sẽ kéo theo rắc rối—nhưng công tác sửa chữa đã được tiến hành và mọi thứ hiện đã hoạt động trơn tru trở lại.
+Có một mê cung nằm sâu dưới lòng Maalt, được xây dựng từ những vật liệu cổ xưa mà ngày nay không còn ai sử dụng nữa. May mắn thay, nó không gây thiệt hại quá lớn cho hệ thống dẫn nước của thị trấn. Dù có nảy sinh vài trục trặc—những biến động khổng lồ dưới lòng đất ắt sẽ kéo theo rắc rối—nhưng việc sửa chữa đã hoàn tất và mọi thứ hiện đã hoạt động trơn tru trở lại.
 
 Một phần là nhờ tay nghề thợ thuyền ở Maalt rất cừ, nhưng tôi ngờ rằng Gia tộc Latuule cũng đã âm thầm giật dây sau bức màn. Dù chưa tận tai nghe họ nói điều gì, ai nấy đều thấy rõ họ đang cần mẫn duy trì sự ổn định cho thị trấn.
 
@@ -20,7 +20,7 @@ Cơ mà quay lại chuyện chính thôi nào...
 
 Ingo gật đầu, tiếp nhận lời giải thích của Lorraine. "À, ra là một giống Slime nhỏ lọt qua hàng phòng ngự của thị trấn sao—dù khó mà khẳng định chắc chắn liệu đây có thực sự là phân loài tí hon hay không, bởi kích cỡ của Slime phát triển rất khác biệt so với các quái vật khác. Nghe đồn nếu cứ để mặc cho chúng tự do phát triển đủ lâu, chúng có thể phình to bằng cả ngọn núi đấy. Dĩ nhiên là ta chưa từng tận mắt thấy bao giờ. Quanh vùng này chúng có thể lớn ngang Đại Slime, nhưng mấy giống nhỏ cỡ này thì hiếm thấy thật."
 
-"Bác am hiểu về quái vật ghê. Quả không hổ danh ạ."
+"Bác am hiểu về quái vật thật đấy. Quả không hổ danh."
 
 "Chính cha là người đã dạy tôi về Slime mà," tôi nói. "Dĩ nhiên là cả các loài quái vật khác nữa. Có điều, tôi cũng chỉ học những kiến thức gia truyền trong nhà thôi, nên nếu so với nghiên cứu của các học giả thành thị thì hẳn có nhiều điểm sai lệch lắm."
 
@@ -42,13 +42,13 @@ Bản thân tôi cũng chưa từng nghe tới bao giờ—con lớn nhất tôi
 
 "Thực ra chuyện đó còn tùy thuộc vào phương pháp nữa," Ingo điềm đạm đáp. "Cháu đã tận mắt thấy con Lindblum rồi đấy thôi. Ta tin là cháu tự nhận ra được. Với lại sau ngần ấy chuyện, ta đâu có lý do gì để nói dối cháu chứ."
 
-Cha có thể không nói dối, nhưng chắc chắn trước đây ông chưa từng hé răng về chuyện này bao giờ. Tại sao lúc này cha lại giải thích cặn kẽ cho chúng tôi đến thế?
+Cha có thể không nói dối, nhưng chắc chắn trước đây ông ấy chưa từng nhắc tới chuyện này bao giờ. Tại sao lúc này cha lại giải thích cặn kẽ cho chúng tôi đến thế?
 
 "Lý do đến tận bây giờ cha mới nói chuyện này cho bọn con..." tôi mở lời. "Có phải vì đây là điều không nên để lọt ra ngoài không cha?"
 
 "Phải, đó cũng là một phần nguyên do. Dù sao thì đây cũng là bí mật chỉ truyền lại cho huyết mạch của trưởng làng—à xin lỗi, ý ta là vị vua cổ đại. Nhưng khi thấy lũ Slime mà Lorraine mang tới, ta nghĩ tốt hơn hết mình nên giải thích rõ ràng. Vả lại ngón nghề mà cô bé muốn ta chỉ dạy cũng chính là thuần hóa quái vật, chẳng phải vậy sao? Như thế thì tiện cả đôi đường rồi."
 
-Giọng điệu của cha tôi nghe có vẻ nhẹ tênh, nhưng ông chẳng hề bông đùa chút nào. Hẳn cha đã nhìn thấu tâm can hai đứa chúng tôi từ trước rồi.
+Giọng điệu của cha tôi nghe có vẻ nhẹ tênh, nhưng ông ấy chẳng hề bông đùa chút nào. Hẳn cha đã nhìn thấu tâm can hai đứa chúng tôi từ trước rồi.
 
 "Đúng là như vậy, nhưng liệu có ổn không bác?" Lorraine hỏi. "Nghe từ miệng cháu thì hơi kỳ quặc thật, bởi chính cháu là người mở lời nhờ vả bác chuyện này, nhưng..."
 
@@ -62,11 +62,11 @@ Lorraine quả là biết nghĩ cho người khác, nhưng cô ấy nói đúng;
 
 ![](images/ch313-01.webp)
 
-Qua những lời Ingo vừa giãi bày, chúng tôi thấy rõ hiểu biết sâu rộng của ông về quái vật, cũng như việc vốn hiểu biết ấy khác biệt ra sao so với những gì người đời thường công nhận. Chẳng trách ông lại lập tức nhận ra điểm bất thường ở lũ Slime chúng tôi mang tới.
+Qua những lời Ingo vừa giải thích, chúng tôi thấy rõ hiểu biết sâu rộng của ông ấy về quái vật, cũng như việc vốn hiểu biết ấy khác biệt ra sao so với những gì người đời thường công nhận. Chẳng trách ông ấy lại lập tức nhận ra điểm bất thường ở lũ Slime chúng tôi mang tới.
 
 "Dĩ nhiên là ta nhìn ra rồi... ta rất muốn nói thế đấy, nhưng chỉ dùng mắt thường thì không phải lúc nào cũng nhận biết được liệu một con quái vật có bị ép lớn bằng phương pháp đặc biệt hay không."
 
-"Vậy làm sao bác biết lũ Slime này bị như thế ạ?" Lorraine hỏi.
+"Vậy làm sao bác biết lũ Slime này bị như thế?" Lorraine hỏi.
 
 "Ta cảm giác như chúng bị ép lớn—tương tự như cách người ta dùng phân thuốc kích cho hoa màu lớn nhanh vậy. Tốc độ tăng trưởng nhanh không hẳn là điều xấu đối với quái vật, nhưng cháu nên để lũ Slime này nghỉ ngơi một thời gian nếu còn định thúc đẩy chúng tiến hóa xa hơn."
 
@@ -74,7 +74,7 @@ Qua những lời Ingo vừa giãi bày, chúng tôi thấy rõ hiểu biết s�
 
 "Chuyện đó đâu chỉ áp dụng riêng cho quái vật. Cháu cũng biết động vật bình thường phát triển nhanh hơn con người nhiều mà, đúng chứ? Chúng ta sinh ra chẳng thể tự làm được gì. Phải mất cả năm trời thì con người mới có thể tự mình chập chững di chuyển đàng hoàng. Nhưng muông thú thì chỉ sau vài giờ, thậm chí vài phút lọt lòng mẹ là đã đứng vững trên đôi chân của mình rồi, bởi thế giới của chúng vô cùng khắc nghiệt. Tự di chuyển được là điều kiện tối thiểu chúng phải làm được nếu muốn thoát khỏi lưỡi hái tử thần. Còn khi nói về quái vật... chà, ta tin là cháu đã tự hiểu được phần còn lại rồi."
 
-"Chúng phải có khả năng tự chiến đấu, bằng không sẽ mất mạng..." Lorraine lẩm bẩm. "Bác nói phải. Chúng có khả năng hấp thụ sức mạnh của những quái vật khác mà chúng hạ sát. Kéo theo hệ quả là, điều đó lại biến chúng thành miếng mồi ngon lành hơn cho những con quái vật khác."
+"Chúng phải có khả năng tự chiến đấu, bằng không sẽ mất mạng..." Lorraine lẩm bẩm. "Bác nói phải. Chúng có khả năng hấp thụ sức mạnh của những quái vật khác mà mình giết được. Kéo theo đó, chính chúng lại trở thành miếng mồi ngon lành hơn cho những con quái vật khác."
 
 Trên thực tế, chuyện quái vật săn lùng đồng loại còn phổ biến hơn nhiều so với việc chúng đuổi theo con người hay muông thú. Chúng hợp đàn tấn công con người khi đụng độ chúng tôi, nhưng vào những khoảng thời gian còn lại, chúng thường lao vào cắn xé lẫn nhau bằng nanh vuốt. Và bằng cách giết chết những quái vật khác, chúng sẽ hấp thụ Ma Lực của đối phương.
 
@@ -84,13 +84,13 @@ Tất cả những điều đó đồng nghĩa với việc quái vật có lý 
 
 Ingo gật đầu với Lorraine. "Chính xác là như vậy. Đó là lý do việc quái vật tăng trưởng nhanh chóng không hẳn là xấu. Tuy nhiên—và điều này đúng với cả con người—lớn quá nhanh sẽ tạo nên gánh nặng quá tải cho cơ thể chúng. Xét lượng Ma Lực dự trữ dồi dào của cháu thì ta tin cháu đã hiểu rõ rồi, Lorraine à, nhưng việc Ma Lực tăng đột ngột luôn kéo theo khá nhiều rắc rối, đúng không?"
 
-"Có vẻ bác cũng rất am hiểu về ma thuật nhỉ. Đúng là vậy ạ. Trong trường hợp của cháu, ban đầu lượng Ma Lực dự trữ cũng chẳng hơn gì một ma pháp sư bình thường, nhưng chúng bỗng chốc nhân lên gấp bội chỉ trong vỏn vẹn một năm khi cháu lên ba, gây ra cho cháu biết bao đau đớn về thể xác. Tất cả những gì cháu còn nhớ về năm tháng đó chỉ là cảnh tượng quằn quại trong đủ mọi nỗi thống khổ khôn cùng."
+"Có vẻ bác cũng rất am hiểu về ma thuật nhỉ. Đúng là vậy. Trong trường hợp của cháu, ban đầu lượng Ma Lực dự trữ cũng chẳng hơn gì một ma pháp sư bình thường, nhưng nó bỗng chốc tăng vọt gấp bội chỉ trong vỏn vẹn một năm khi cháu lên ba, gây ra cho cháu biết bao đau đớn về thể xác. Tất cả những gì cháu còn nhớ về năm đó chỉ là cảnh mình quằn quại trong đủ mọi cơn đau đớn giày vò."
 
 "Ta xin chia buồn nhé. Nhưng vậy là cháu hiểu điều ta đang nói rồi đấy. Ngay cả quái vật cũng là sinh vật sống. Sự phát triển của chúng đều có tiến trình tự nhiên. Đi lệch khỏi quy luật đó có thể dẫn tới những dị tật hoặc tổn thương. Hiện tại lũ Slime này đang phải chịu gánh nặng quá tải rất lớn."
 
 Tôi chợt nảy sinh trí tò mò—nhưng tuyệt đối không phải vì lo lắng cho lũ Slime đâu nhé. "Nếu cứ tiếp tục bắt chúng lớn lên thì chuyện gì sẽ xảy ra hả cha?"
 
-Ingo ngẫm nghĩ một thoáng. "Có vài khả năng," ông nói. "Dễ xảy ra nhất là sự phát triển của chúng chạm tới giới hạn. Chúng ta gọi tiềm năng phát triển vốn có của quái vật là 'vật chứa'. Tương truyền nếu vật chứa đó bị phá vỡ, quái vật sẽ vĩnh viễn không bao giờ có thể lớn thêm được nữa. Đây là lý do vì sao quái vật lại mất đi khả năng Tiến Hóa Bản Thể khi bị thuần hóa bởi những người thuần hóa quái vật thông thường."
+Ingo ngẫm nghĩ một thoáng. "Có vài khả năng," ông ấy nói. "Dễ xảy ra nhất là sự phát triển của chúng chạm tới giới hạn. Chúng ta gọi tiềm năng phát triển vốn có của quái vật là 'vật chứa'. Tương truyền nếu vật chứa đó bị phá vỡ, quái vật sẽ vĩnh viễn không bao giờ có thể lớn thêm được nữa. Đây là lý do vì sao quái vật lại mất đi khả năng Tiến Hóa Bản Thể khi bị thuần hóa bởi những người thuần hóa quái vật thông thường."
 
 "Vật chứa ư..."
 
@@ -106,7 +106,7 @@ Ingo gật đầu. "Ý định của ta đúng là như thế. Đây chẳng ph�
 
 Lorraine thở phào nhẹ nhõm khi nghe thấy điều đó, và thú thật là tôi cũng vậy. Cả hai đứa từng nơm nớp lo cha sẽ bảo phương pháp này đòi hỏi mười năm rèn luyện gian khổ, hoặc điều gì đó nhọc nhằn tương tự. Dĩ nhiên nếu thế thì chúng tôi luôn có thể bỏ cuộc rồi tìm kiếm cách khác, nhưng việc lựa chọn đầu tiên phát huy hiệu quả thế này thì còn gì bằng.
 
-"Cháu mừng đến mức chẳng biết nói gì hơn," Lorraine nói. "Vậy thì, trăm sự nhờ bác ạ. Cháu rất muốn được học."
+"Cháu mừng đến mức chẳng biết nói gì hơn," Lorraine nói. "Vậy thì trăm sự nhờ bác. Cháu rất muốn được học."
 
 Ingo gật đầu đáp lời. "Ta cũng rất hân hạnh được chỉ dạy cho cháu. À cơ mà trước tiên, cháu có thể kể cho ta nghe làm cách nào cháu kích thích lũ Slime này lớn lên được không? Bản thân ta cũng biết vài cách, nhưng trường hợp này trông khác lạ quá. Ta thấy khá là tò mò đấy..."
 
@@ -114,19 +114,19 @@ Ingo gật đầu đáp lời. "Ta cũng rất hân hạnh được chỉ dạy 
 
 "Cái gì thế này...?"
 
-"Dạ là một chiếc cốc ạ."
+"Là một chiếc cốc."
 
 "Chừng đó thì ta nhìn cũng thấy."
 
-"Đ-Đúng vậy ạ. Chuyện này kể ra thì dài dòng lắm..."
+"Đ-Đúng vậy. Chuyện này kể ra thì dài dòng lắm..."
 
 ◆◇◆◇◆
 
-"Ra là thế," Ingo lẩm bẩm một mình. Ông đã cầm chiếc cốc lên và chăm chú xem xét. "Khô Lâu... Làng Crask... Hừm..."
+"Ra là thế," Ingo lẩm bẩm một mình. Ông ấy đã cầm chiếc cốc lên và chăm chú xem xét. "Khô Lâu... Làng Crask... Hừm..."
 
 Tôi đã kể cho cha nghe về công việc săn Khô Lâu mà mình nhận làm cũng như diễn biến bất ngờ sau đó, cùng món đồ ma thuật kỳ lạ tôi tìm thấy ở nơi ấy.
 
-"Bác có nhận ra được điều gì về nó không ạ?" Lorraine hỏi.
+"Bác có nhận ra được điều gì về nó không?" Lorraine hỏi.
 
 "Làm cháu thất vọng rồi, nhưng ta không nhận ra," Ingo nói. "Dù vậy, ta từng nghe nói từ xa xưa đã từng tồn tại những ma cụ có thể thúc đẩy quái vật phát triển..."
 
@@ -134,11 +134,11 @@ Lorraine rướn người tới trước vì phấn khích. "Thật vậy sao b�
 
 "Ta chỉ nói là mình từng nghe kể thôi. Quanh đây chẳng có món nào như thế đâu, và ta cũng đâu biết cách chế tạo chúng."
 
-Đôi vai Lorraine chùng xuống. "Vậy ạ... Nhưng nghe bác nhắc tới thôi cháu cũng mừng rồi. Việc chúng từng tồn tại đồng nghĩa với việc vẫn có khả năng kỹ thuật chế tạo ra chúng còn lưu truyền đâu đó. Còn về bản thân những món đồ ấy, nếu chịu khó tìm kiếm thì biết đâu chúng ta sẽ tìm được nhiều hơn thế này ở ngoài kia."
+Đôi vai Lorraine chùng xuống. "Vậy sao... Nhưng nghe bác nhắc tới thôi cháu cũng mừng rồi. Việc chúng từng tồn tại đồng nghĩa với việc vẫn có khả năng kỹ thuật chế tạo ra chúng còn lưu truyền đâu đó. Còn về bản thân những món đồ ấy, nếu chịu khó tìm kiếm thì biết đâu chúng ta sẽ tìm được nhiều hơn thế này ở ngoài kia."
 
-"Quả đúng như vậy," Ingo gật gù tán thành, lẩm bẩm trong miệng. "Có điều, chuyện này làm ta nhớ tới..." Đôi mắt ông chợt mở to như thể vừa ngộ ra điều gì, nhưng rồi ông lại vội lắc đầu.
+"Quả đúng như vậy," Ingo gật gù tán thành, lẩm bẩm trong miệng. "Có điều, chuyện này làm ta nhớ tới..." Đôi mắt ông ấy chợt mở to như thể vừa ngộ ra điều gì, nhưng rồi lại vội lắc đầu.
 
-Phản ứng của cha khơi gợi trí tò mò của tôi—tôi vốn chẳng quen nhìn thấy ông có biểu cảm như vậy.
+Phản ứng của cha khơi gợi trí tò mò của tôi—tôi vốn chẳng quen nhìn thấy ông ấy có biểu cảm như vậy.
 
 "Có chuyện gì thế cha?" tôi hỏi.
 
@@ -148,11 +148,11 @@ Phản ứng của cha khơi gợi trí tò mò của tôi—tôi vốn chẳng 
 
 "Ta... chắc con nói phải. Đây chỉ là suy nghĩ thoáng qua thôi đấy nhé, cơ mà... chiếc cốc này có thể thúc đẩy quái vật phát triển, và khi hai đứa cho lũ Slime chọi nhau bên trong, kẻ chiến thắng đã hấp thụ Ma Lực của kẻ bại trận, đúng không? Với hiệu suất cao vượt trội mà bình thường người ta chẳng bao giờ thấy được."
 
-"Khái quát lại thì đúng là như vậy ạ—dẫu hai đứa con vẫn cần kiểm tra xem quái vật bắt buộc phải ở trong cốc hay chỉ cần cầm nó là được, cũng như phạm vi hiệu quả và liệu nó còn công dụng nào khác nữa hay không."
+"Khái quát lại thì đúng là như vậy—dẫu hai đứa con vẫn cần kiểm tra xem quái vật bắt buộc phải ở trong cốc hay chỉ cần cầm nó là được, cũng như phạm vi hiệu quả và liệu nó còn công dụng nào khác nữa hay không."
 
 "Không, mấy chuyện đó lúc này chưa quan trọng. Ta chỉ chợt nhận ra nó làm ta liên tưởng tới một thứ."
 
-"Thế ạ? Tới thứ gì cơ cha?"
+"Vậy sao? Là thứ gì cơ cha?"
 
 "Một mê cung."
 
@@ -190,4 +190,4 @@ Trước hết là sự khác biệt về quy mô. Đâu phải cứ biết xế
 
 Người ta phải luôn rộng mở tâm trí trước những khả năng mới và cẩn trọng từng bước tiến lên—và nếu làm được như vậy, đôi khi người ta sẽ may mắn khám phá ra một góc nhìn mới mẻ mà trước đây mình từng bỏ sót.
 
-Việc chiếc cốc sở hữu năng lực tương tự như một mê cung quả là điều hiển nhiên khi ngẫm lại, nhưng chính sự chênh lệch về quy mô đã khiến chúng tôi hoàn toàn bỏ qua điều đó. Có lẽ chính vì vậy mà dù đã tiến hành bao nhiêu thí nghiệm, người nhận ra mối liên hệ ấy lại không phải là tôi hay Lorraine, mà lại chính là Ingo cùng góc nhìn mới mẻ của ông.
+Việc chiếc cốc sở hữu năng lực tương tự như một mê cung quả là điều hiển nhiên khi ngẫm lại, nhưng chính sự chênh lệch về quy mô đã khiến chúng tôi hoàn toàn bỏ qua điều đó. Có lẽ chính vì vậy mà dù đã tiến hành bao nhiêu thí nghiệm, người nhận ra mối liên hệ ấy lại không phải là tôi hay Lorraine, mà lại chính là Ingo cùng góc nhìn mới mẻ của ông ấy.

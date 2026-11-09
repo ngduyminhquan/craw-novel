@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:31:26Z",
+  "generatedAt": "2026-11-09T11:45:09Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -4028,19 +4028,19 @@
           "number": 311,
           "title": "Chương 311: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (2)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_311.md",
-          "sha": "eb7c0ca20020fd89f29c737afa9b1745ec8b4c99"
+          "sha": "370902aba0327191afd9076bf505dea5cab7c7c3"
         },
         {
           "number": 312,
           "title": "Chương 312: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (3)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_312.md",
-          "sha": "0733a3e5b49d6a60fe6e130c6e21c17ff48386fd"
+          "sha": "f862f1f4f2fdf9c9f498439ababec0d6270eac85"
         },
         {
           "number": 313,
           "title": "Chương 313: Tập 13 Chương 3 - Chiếc Cốc và Người Thuần Hóa Quái Vật (4)",
           "path": "translations/the-unwanted-undead-adventurer/vi/Chapter_313.md",
-          "sha": "e28cf958835745cc61ba3b5aa98e67da78b3150e"
+          "sha": "0c812cadfb370c19d3ac44d7a35fc74de6fbe226"
         }
       ]
     },

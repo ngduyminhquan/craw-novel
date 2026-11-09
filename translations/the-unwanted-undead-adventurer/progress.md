@@ -315,9 +315,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 308 |  | Chapter_308 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (2) | reviewed |  |
 | 309 |  | Chapter_309 - Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3).txt | Vol 13 Chapter 2 - A Report and a Request from a Blacksmith (3) | reviewed |  |
 | 310 |  | Chapter_310 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (1).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (1) | reviewed |  |
-| 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | done |  |
-| 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | done |  |
-| 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | done |  |
+| 311 |  | Chapter_311 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (2).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (2) | reviewed |  |
+| 312 |  | Chapter_312 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (3).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (3) | reviewed |  |
+| 313 |  | Chapter_313 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (4).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (4) | reviewed |  |
 | 314 |  | Chapter_314 - Vol 13 Chapter 3 - The Cup and the Monster Tamer (5).txt | Vol 13 Chapter 3 - The Cup and the Monster Tamer (5) | todo |  |
 | 315 |  | Chapter_315 - Vol 13 Chapter 4 - To the Maritime Country (1).txt | Vol 13 Chapter 4 - To the Maritime Country (1) | todo |  |
 | 316 |  | Chapter_316 - Vol 13 Chapter 4 - To the Maritime Country (2).txt | Vol 13 Chapter 4 - To the Maritime Country (2) | todo |  |

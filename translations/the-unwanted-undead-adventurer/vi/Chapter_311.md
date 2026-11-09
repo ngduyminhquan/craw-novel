@@ -38,7 +38,7 @@ Cuối cùng trận đấu cũng bước vào hồi cao trào. Trong một thoá
 
 Con Slime đỏ từ từ tiêu hóa con Slime lam, hấp thụ nó cho tới khi chẳng còn sót lại chút dấu vết nào và hạch tâm tí hon của nó tan rã, giải phóng ra một luồng Ma Lực tĩnh bộc phát.
 
-Sắc mặt Lorraine trở nên nghiêm túc. "Đây mới là khoảnh khắc quyết định này, Rentt," cô nói.
+Sắc mặt Lorraine trở nên nghiêm túc. "Đây mới là khoảnh khắc quyết định này, Rentt," cô ấy nói.
 
 Trong chớp mắt, luồng Ma Lực tĩnh ngỡ như sắp sửa tan biến vào không gian xung quanh—thế nhưng trước khi điều đó kịp xảy ra, một luồng khí tức kỳ lạ liền tỏa ra từ chiếc cốc. Luồng Ma Lực lập tức đổi hướng và bắt đầu tụ lại vào một điểm duy nhất: con Slime đỏ. Nói một cách cụ thể hơn thì nó đang tụ về hạch tâm của con quái vật.
 
@@ -46,7 +46,7 @@ Lorraine và tôi chăm chú quan sát, không để sót bất kỳ chi tiết 
 
 ◆◇◆◇◆
 
-"Và đây là kết quả..." Lorraine lẩm bẩm. Trông cô không hẳn là ngạc nhiên mà giống như vô cùng thỏa mãn hơn.
+"Và đây là kết quả..." Lorraine lẩm bẩm. Trông cô ấy không hẳn là ngạc nhiên mà giống như vô cùng thỏa mãn hơn.
 
 Trái lại, tôi vẫn thấy bán tín bán nghi. "Trông nó đâu có thay đổi gì mấy..."
 
@@ -54,17 +54,17 @@ Con Slime chiến thắng vẫn đang nằm trong chiếc cốc. Trước đó n
 
 Thế nhưng điều đó chẳng có gì là bất thường cả. Hầu hết các loài quái vật đều có khả năng hấp thụ sức mạnh của những kẻ bị chúng đánh bại. Người ta không thể biết chắc nguồn sức mạnh đó sẽ đi đâu, nhưng nhìn chung nó sẽ nâng cao năng lực cơ bản của chúng theo một cách nào đó.
 
-Bản thân tôi cũng từng trải qua chính hiện tượng đó. Việc tiêu diệt quái vật đã giúp nâng cao lượng dự trữ Ma Lực và Khí Lực, khiến cơ thể tôi bền bỉ hơn, đồng thời gia tăng các năng lực thể chất. Dĩ nhiên trường hợp chính xác của tôi có thể là ngoại lệ cá biệt xét theo hoàn cảnh dị thường của bản thân, nhưng điều đó chứng thực rằng quái vật hoàn toàn có thể trải qua một tiến trình như thế.
+Bản thân tôi cũng từng trải qua chính hiện tượng đó. Việc tiêu diệt quái vật đã giúp nâng cao lượng dự trữ Ma Lực và Khí Lực, khiến cơ thể tôi bền bỉ hơn, đồng thời gia tăng các năng lực thể chất. Dĩ nhiên trường hợp cụ thể của tôi có thể là ngoại lệ xét theo hoàn cảnh dị thường của bản thân, nhưng điều đó vẫn chứng thực rằng quái vật hoàn toàn có thể trải qua một quá trình như thế.
 
 Chính vì thế, trận chiến giữa hai con Slime và việc kẻ thắng tiêu hóa kẻ thua sau đó chẳng có vẻ gì là đáng kinh ngạc, ít nhất là dưới con mắt của tôi.
 
 "Nhìn thoáng qua thì khó nhận ra, nhưng lượng Ma Lực đã được hấp thụ vô cùng hiệu quả. Tôi nhìn thấy rõ bằng ma nhãn của mình," Lorraine giải thích. "Tôi biết rõ bình thường lũ quái vật lấy đi bao nhiêu sức mạnh từ nhau sau khi giao chiến. So với mức đó thì con Slime này đã hấp thụ một lượng nhiều bất thường. Dĩ nhiên nhìn bằng mắt thường thì không thể chuẩn bằng việc đo đạc chính xác được."
 
-Nói rồi cô ấy chỉ cho tôi xem chỉ số trên thiết bị đo đạc mà cô đã bố trí trên bàn làm việc trước khi trận chọi Slime bắt đầu. Dụng cụ này không phải do chính tay cô chế tạo. Tôi chưa từng thấy thứ gì tương tự ở các tiệm bán ma cụ trước đây, nhưng nghe đâu cô ấy đã đặt mua từ bên Đế Quốc, nơi nó là thiết bị được sử dụng phổ biến tại Tòa Tháp và Học Viện của họ.
+Nói rồi cô ấy chỉ cho tôi xem chỉ số trên thiết bị đo đạc đã bố trí sẵn trên bàn làm việc trước khi trận chọi Slime bắt đầu. Dụng cụ này không phải do chính tay cô ấy chế tạo. Tôi chưa từng thấy thứ gì tương tự ở các tiệm bán ma cụ trước đây, nhưng nghe đâu cô ấy đã đặt mua từ bên Đế Quốc—ở bên đó, đây là thiết bị thông dụng tại Tòa Tháp và Học Viện.
 
 Nói tóm lại, đây là công cụ dành riêng cho giới nghiên cứu và các cơ sở học thuật, chứ không phải thứ mà một thường dân như tôi có thể chạm tay vào—cả về mặt quan hệ lẫn phương diện tiền bạc. Thế nhưng nó lại là vật dụng không thể thiếu khi cần đo đạc kết quả thực nghiệm, vậy nên hiển nhiên Lorraine sở hữu khá nhiều loại công cụ như thế này.
 
-Bình thường thì một kẻ ngoại đạo như tôi sẽ chẳng thể nào đọc hiểu nổi kết quả hiển thị trên thiết bị đo đó dù có đặt ngay trước mặt. Cơ mà tôi quen biết Lorraine đã lâu và từng phụ giúp cô làm thí nghiệm không dưới một hai lần. Tôi thường xuyên giúp cô ấy lắp ráp thiết bị hoặc đo đạc kết quả đến mức lúc này đã trở thành một trợ tá tương đối thạo việc. Cô ấy từng chỉ tôi cách đọc các chỉ số, nên tôi chẳng gặp khó khăn gì trong việc nắm bắt những gì mình đang thấy.
+Bình thường thì một kẻ ngoại đạo như tôi sẽ chẳng thể nào đọc hiểu nổi kết quả hiển thị trên thiết bị đo đó dù có đặt ngay trước mặt. Cơ mà tôi quen biết Lorraine đã lâu và từng phụ giúp cô ấy làm thí nghiệm không chỉ một hai lần. Tôi thường xuyên giúp cô ấy lắp ráp thiết bị hoặc đo đạc kết quả đến mức lúc này đã trở thành một trợ tá tương đối thạo việc. Cô ấy từng chỉ tôi cách đọc các chỉ số, nên tôi chẳng gặp khó khăn gì trong việc nắm bắt những gì mình đang thấy.
 
 "Cô nói đúng thật—hiệu suất trông có vẻ rất ấn tượng đấy," tôi đồng tình. "So với tỷ lệ thông thường thì nó..."
 
@@ -84,7 +84,7 @@ Một con Slime duy nhất lúc này đã nằm vừa khít bên trong chiếc c
 
 Edel cùng đám thuộc hạ đã mang về chừng hai mươi con Slime, nhưng giờ chỉ còn lại đúng hai con: một con đang nằm trong cốc, và một con kích thước tương tự đặt trên bàn làm việc. Cả hai đều đạt tới kích cỡ đó sau khi hấp thụ Ma Lực từ đồng loại của mình.
 
-"Đã tới nước này rồi thì cứ cho hai đứa nó đấu một trận để chốt lại một con duy nhất xem chừng là hợp lý nhất," tôi nói. Làm thế thì cũng dễ giam giữ nó hơn.
+"Đã tới nước này rồi thì cứ cho hai đứa nó đấu một trận để chốt lại một con duy nhất xem chừng là hợp lý nhất," tôi nói. Làm thế thì cũng dễ nhốt giữ nó hơn.
 
 "Có điều chúng đâu thể đánh nhau trong chiếc cốc được nữa," Lorraine đáp. "Thay vào đó chúng ta phải nghĩ cách để con nào đó cầm giữ chiếc cốc trong lúc chúng lao vào nhau. Nhưng làm sao khiến chúng chịu nghe lời cơ chứ?"
 
@@ -100,7 +100,7 @@ Cô ấy nói đúng—đó chính là cơ chế vận hành của việc kết 
 
 "Vậy thì... chúng ta tính sao đây?" tôi hỏi.
 
-Lorraine trầm ngâm suy nghĩ một lát. "Đúng như tôi dự liệu," rốt cuộc cô lên tiếng. "Lựa chọn tốt nhất để khiến quái vật nghe lời là đi hỏi một chuyên gia."
+Lorraine trầm ngâm suy nghĩ một lát. "Đúng như tôi dự liệu," rốt cuộc cô ấy lên tiếng. "Lựa chọn tốt nhất để khiến quái vật nghe lời là đi hỏi một chuyên gia."
 
 Nói cách khác, chính là cha nuôi của tôi.
 
@@ -108,9 +108,9 @@ Nói cách khác, chính là cha nuôi của tôi.
 
 Cha nuôi của tôi, Ingo Faina, vừa là Trưởng Làng Hathara vừa là một người thuần hóa quái vật đủ khả năng chỉ huy những loài quái vật hùng mạnh như Lindblum. Ông ấy thậm chí từng cưỡi trên lưng một con chở chúng tôi từ Hathara về khi tên Ma Cà Rồng Shumini tấn công Maalt.
 
-Tất nhiên sau đó cha đã trở về làng, vậy nên nếu muốn gặp ông, chúng tôi sẽ phải làm một chuyến đi xa. Vấn đề là Hathara nằm cách Maalt một quãng đường khá dài. Đi một cỗ xe ngựa tử tế cũng phải mất chừng một tuần lễ, mà đó mới chỉ là một chiều. Bình thường thì chuyện đó cũng chẳng to tát gì, nhưng lúc này tôi đang phải chuẩn bị cho kỳ thi thăng hạng Ngân Cấp nên thời gian vô cùng quý báu. Chỉ còn chưa đầy một tháng nữa là tới kỳ thi—tôi không thể nào phung phí tới hai tuần chỉ để đi lại trên đường.
+Tất nhiên sau đó cha đã trở về làng, vậy nên nếu muốn gặp ông ấy, chúng tôi sẽ phải làm một chuyến đi xa. Vấn đề là Hathara nằm cách Maalt một quãng đường khá dài. Đi một cỗ xe ngựa tử tế cũng phải mất chừng một tuần lễ, mà đó mới chỉ là một chiều. Bình thường thì chuyện đó cũng chẳng to tát gì, nhưng lúc này tôi đang phải chuẩn bị cho kỳ thi thăng hạng Ngân Cấp nên thời gian vô cùng quý báu. Chỉ còn chưa đầy một tháng nữa là tới kỳ thi—tôi không thể nào phung phí tới hai tuần chỉ để đi lại trên đường.
 
-"Nhưng chúng ta có cách giải quyết vấn đề đó rồi còn gì, đúng không?" Lorraine nói. Trong tay cô đang cầm một viên đá màu xanh lam trông rất đỗi bình thường. Thoạt nhìn nó chẳng khác gì thứ có thể nhặt bừa dưới đất, nhưng thực chất đó lại là một món ma cụ mà bà lão làm thuốc Gharb cùng thợ săn Capitan đã trao cho chúng tôi trong chuyến về thăm Hathara lần trước. Viên đá này có thể tạo ra một ma pháp trận dịch chuyển vĩnh viễn tại vị trí được chỉ định.
+"Nhưng chúng ta có cách giải quyết vấn đề đó rồi còn gì, đúng không?" Lorraine nói. Trong tay cô ấy đang cầm một viên đá màu xanh lam trông rất đỗi bình thường. Thoạt nhìn nó chẳng khác gì thứ có thể nhặt bừa dưới đất, nhưng thực chất đó lại là một món ma cụ mà bà lão làm thuốc Gharb cùng thợ săn Capitan đã trao cho chúng tôi trong chuyến về thăm Hathara lần trước. Viên đá này có thể tạo ra một ma pháp trận dịch chuyển vĩnh viễn tại vị trí được chỉ định.
 
 Ở thời buổi hiện nay, chẳng một ai đủ sức chế tạo ra những món ma cụ mang uy lực cỡ đó, thành thử chúng tôi buộc phải giữ kín bí mật. Nếu đem viên đá này ra bán đấu giá, chắc chắn nó sẽ thu về một con số thiên văn trên trời.
 
@@ -118,7 +118,7 @@ Thế nhưng cả Lorraine lẫn tôi đều không phải những kẻ đặc b
 
 Vả lại, chẳng mấy đắn đo không có nghĩa là hoàn toàn không có. Bất cứ khi nào người ta sử dụng một vật phẩm có thể đem lại cả một gia tài kếch xù nếu đem bán, những mối băn khoăn trăn trở ắt hẳn sẽ tự nhiên nảy sinh trong đầu. Dẫu vậy, xét theo hoàn cảnh hiện tại, chúng tôi thực sự chẳng còn lựa chọn nào khác.
 
-Hơn nữa, điểm đến của nó đã được ấn định sẵn, do chính Capitan thiết lập thông tới thành phố ngầm của Hiền Vương Felt tại Đế Quốc Rermutt. Ở nơi đó cũng có sẵn một loạt ma pháp trận dịch chuyển khác dẫn tới những địa điểm như Hathara hay vương đô của Vương Quốc Yaaran. Có vài trận pháp vẫn chưa được khảo sát hết, nhưng từ trước tới nay chưa hề có cái nào thông tới Maalt. Thế nhưng nếu chúng tôi lập một cái ở đây, điều đó đồng nghĩa với việc chúng tôi có thể dễ dàng đi tới bất kỳ thành phố nào ngay trước ngưỡng cửa nhà mình. Xét việc nó tiện lợi đến nhường nào thì cũng chẳng có lý do gì phải đắn đo lưỡng lự mãi trước quyết định này.
+Hơn nữa, điểm đến của nó đã được ấn định sẵn, do chính Capitan thiết lập thông tới thành phố ngầm của Hiền Vương Felt tại Đế Quốc Rermutt. Ở nơi đó cũng có sẵn một loạt ma pháp trận dịch chuyển khác dẫn tới những địa điểm như Hathara hay vương đô của Vương Quốc Yaaran. Có vài trận pháp vẫn chưa được khảo sát hết, nhưng từ trước tới nay chưa hề có cái nào thông tới Maalt. Thế nhưng nếu chúng tôi lập một cái ở đây, điều đó đồng nghĩa với việc ngay từ trước cửa nhà mình, chúng tôi đã có thể dễ dàng đi tới biết bao thành phố khác. Xét việc nó tiện lợi cỡ đó thì cũng chẳng có lý do gì phải đắn đo lưỡng lự mãi trước quyết định này.
 
 Bản thân tôi vẫn thấy hơi tiếc của đôi chút, nhưng điều đó chỉ chứng tỏ tôi vốn là kẻ bủn xỉn ăn sâu vào máu thịt mà thôi...
 
@@ -126,7 +126,7 @@ Trái lại, Lorraine là mẫu người một khi đã quyết định là sẽ
 
 "Làm thôi," cô ấy nói rồi ném viên đá xanh xuống sàn nhà.
 
-Nhân tiện thì, chúng tôi đang làm việc này dưới tầng hầm của một căn nhà khác mà Lorraine sở hữu, nằm ở vùng ngoại ô Maalt. Nhìn từ bên ngoài, căn nhà trông bình thường hết mức có thể, thế nhưng không gian dưới lòng đất của nó lại rộng rãi đến bất ngờ. Bản thân chuyện đó cũng không quá kỳ lạ, bởi lẽ Lorraine mua lại căn nhà cùng mảnh đất này vốn để tiến hành những thí nghiệm nguy hiểm, nhưng khi tôi trầm trồ khen ngợi làm sao cô ấy tìm được một nơi tiện lợi đến thế, cô liền cho tôi hay rằng chính cô đã đích thân thuê người mở rộng tầng hầm.
+Nhân tiện thì, chúng tôi đang làm việc này dưới tầng hầm của một căn nhà khác mà Lorraine sở hữu, nằm ở vùng ngoại ô Maalt. Nhìn từ bên ngoài, căn nhà trông bình thường hết mức có thể, thế nhưng không gian dưới lòng đất của nó lại rộng rãi đến bất ngờ. Bản thân chuyện đó cũng không quá kỳ lạ, bởi lẽ Lorraine mua lại căn nhà cùng mảnh đất này vốn để tiến hành những thí nghiệm nguy hiểm, nhưng khi tôi trầm trồ khen ngợi làm sao cô ấy tìm được một nơi tiện lợi đến thế, cô ấy liền cho tôi hay rằng chính mình đã đích thân thuê người mở rộng tầng hầm.
 
 Thế mới hợp lý. Nghĩ lại tôi thấy mình hơi ngớ ngẩn khi ngỡ rằng một nơi như thế này cứ thế bày sẵn ra đó chờ cô ấy mua—chẳng một người dân nào sống quanh vùng này lại có nhu cầu dùng một căn hầm vừa rộng thênh thang vừa kiên cố đến mức ấy cả.
 
@@ -144,7 +144,7 @@ Viên đá xanh nện xuống sàn đá phát ra một tiếng rắc rồi vỡ 
 
 Bất thình lình, một ma pháp trận bắt đầu tự khắc họa lan tỏa từ tâm điểm nơi viên đá vừa vỡ vụn.
 
-"Dù có chứng kiến bao nhiêu lần đi nữa thì cảnh tượng đó vẫn thật khó tin..." Lorraine lẩm bẩm. Rồi giọng điệu của cô thoáng chút tự giễu. "Ấy thế mà ngay cả khi được quan sát ma pháp dịch chuyển ở cự ly gần đến nhường này, tôi vẫn chưa tài nào giải mã nổi nó."
+"Dù có chứng kiến bao nhiêu lần đi nữa thì cảnh tượng đó vẫn thật khó tin..." Lorraine lẩm bẩm. Rồi giọng điệu của cô ấy thoáng chút tự giễu. "Ấy thế mà ngay cả khi được quan sát ma pháp dịch chuyển ở cự ly gần cỡ này, tôi vẫn chưa tài nào giải mã nổi nó."
 
 Nghe đâu nếu có thể phân tích cặn kẽ ma pháp trận cùng cách thức chuẩn xác mà nó được vẽ ra, điều đó sẽ đồng nghĩa với sự hồi sinh của ma pháp dịch chuyển trong thời đại ngày nay. Thế nhưng chỉ nhìn ra hoa văn thôi thì chưa đủ—người ta còn phải hiểu vô số kỹ thuật chưa từng được biết tới, khởi đầu từ thứ tự từng nét vẽ cho đến phương thức truyền dẫn Ma Lực. Đó tuyệt nhiên không phải thứ mà người ta cứ nhìn vào là nắm bắt được ngay.
 
