@@ -34,7 +34,7 @@ Tôi nghiền ngẫm câu hỏi đó trong đầu. Thanh kiếm chém qua đám 
 
 Thế nhưng, Thần Lực thì lại...
 
-Chà, tôi chẳng thể nắm bắt được nó rốt cuộc có tác dụng gì. Bằng cách nào đó nó rất khác biệt—điều đó thể hiện rõ qua phản ứng với Thần Lực không hề giống một thanh kiếm thông thường—nhưng tôi lại không thể chỉ rõ ra được. Nếu ngọn lửa bập bùng kia hóa ra chỉ để làm cảnh cho đẹp mắt, tôi ngờ rằng mình sẽ manh nha ý định bẻ đôi món vũ khí này mất. Dù vậy, Clope chắc chắn sẽ nổi điên lên. Thực tế là khéo anh ấy sẽ khóc ròng nếu tôi dám hé môi nhắc đến ý nghĩ đó, nên tốt nhất là tôi cứ ngậm chặt miệng thì hơn. Tôi giải thích suy nghĩ của mình về thanh kiếm, giấu nhẹm phần ý nghĩ đó đi, và Clope đáp lại bằng một câu hỏi.
+Chà, tôi chẳng thể nắm bắt được nó rốt cuộc có tác dụng gì. Rõ ràng nó có gì đó khác biệt—cách nó phản ứng với Thần Lực đâu có giống một thanh kiếm thường—nhưng tôi lại không chỉ ra được là ở đâu. Nếu ngọn lửa bập bùng kia hóa ra chỉ để làm cảnh cho đẹp mắt, khéo tôi sẽ nảy ý bẻ đôi món vũ khí này mất. Dù vậy, Clope chắc chắn sẽ nổi điên lên. Thực tế là khéo anh ấy sẽ khóc ròng nếu tôi dám hé môi nhắc đến ý nghĩ đó, nên tốt nhất là tôi cứ ngậm chặt miệng thì hơn. Tôi giải thích suy nghĩ của mình về thanh kiếm, giấu nhẹm phần ý nghĩ đó đi, và Clope đáp lại bằng một câu hỏi.
 
 "Cậu không nghĩ ra được gì à?"
 

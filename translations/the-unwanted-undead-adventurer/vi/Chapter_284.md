@@ -6,9 +6,9 @@ Tại khoảng đất trống nơi cỏ afto sinh trưởng, một người đà
 
 "Dieg...?" Dorothea hỏi. "Đừng bảo anh chính là kẻ bấy lâu nay nhắm vào tôi đấy nhé..."
 
-Đứng cạnh Dieg là Guster, tên cướp từng bị Rina đánh bại—kẻ lẽ ra phải đang bị giam chỗ đội lính gác mà họ đã bàn giao gã. Hiện tại, Guster đang bắt một đứa trẻ làm con tin, kề dao vào cổ đứa bé—đó là lý do người thợ săn Zein vẫn chưa dám manh động. Tình thế hoàn toàn rơi vào bế tắc.
+Đứng cạnh Dieg là Guster, tên cướp từng bị Rina đánh bại—kẻ lẽ ra phải đang nằm trong tay đội lính gác mà họ đã giao nộp gã. Hiện tại, Guster đang bắt một đứa trẻ làm con tin, kề dao vào cổ đứa bé—đó là lý do người thợ săn Zein vẫn chưa dám manh động. Tình thế hoàn toàn rơi vào bế tắc.
 
-Trước tình cảnh này, kẻ thuê mướn bí ẩn của Guster là ai liền sáng tỏ ngay tức khắc. Dù Dorothea chưa từng mảy may nghĩ tới khả năng đó là Dieg, nhưng ngẫm lại thì mọi chuyện đều trùng khớp. Anh ta có thừa động cơ để làm vậy.
+Đến nước này thì kẻ bí ẩn đứng sau thuê Guster là ai đã quá rõ. Dù Dorothea chưa từng mảy may nghĩ tới khả năng đó là Dieg, nhưng ngẫm lại thì mọi chuyện đều trùng khớp. Anh ta có thừa động cơ để làm vậy.
 
 Anh ta muốn đoạt quyền thừa kế Thương hội Merrow.
 
@@ -112,7 +112,7 @@ Nó không thể gắn liền lại vào cơ thể cô ta nữa.
 
 Dù không biết người phụ nữ từng sống một cuộc đời thế nào, nhưng Rina đoán rằng cô ta chưa từng trải qua chuyện gì tương tự như tình cảnh hiện tại.
 
-Hầu hết mọi người, khi nhận ra đối thủ là một quái vật không chết ngay cả khi bị chém bay đầu, sẽ chọn cách bỏ cuộc hoặc tháo chạy. Mặt khác, kẻ sở hữu năng lực như thế này có thể tận dụng thời khắc đối phương đang đắm chìm trong men say chiến thắng để tập kích từ phía sau, hoặc thậm chí giả chết để thoát thân. Tựu trung lại, những lợi thế như vậy đồng nghĩa với việc họ luôn nắm chắc phần thắng trong tay.
+Hầu hết mọi người, khi nhận ra đối thủ là một quái vật không chết ngay cả khi bị chém bay đầu, sẽ chọn cách bỏ cuộc hoặc tháo chạy. Mặt khác, kẻ sở hữu năng lực như thế này có thể tận dụng thời khắc đối phương đang đắm chìm trong men say chiến thắng để tập kích từ phía sau, hoặc thậm chí giả chết để thoát thân. Với những lợi thế như vậy, họ gần như lúc nào cũng nắm chắc phần thắng.
 
 Thế nhưng lần này, người phụ nữ lại xui xẻo đụng độ phải Rina.
 
@@ -158,7 +158,7 @@ Như để chứng minh cho điều đó...
 
 Đối với một Ma Cà Rồng, việc mang bộ mặt con người và duy trì cuộc sống thanh thản trong xã hội loài người như Rina, Rentt, Isaac cùng những người khác vốn chẳng phải là chuyện dễ dàng gì. Thông thường, Ma Cà Rồng sẽ nhanh chóng bị phát hiện và tiêu diệt ngay tại chỗ.
 
-Việc người ta dồn nhiều nỗ lực có chủ ý vào việc tận diệt Ma Cà Rồng hơn hẳn so với quái vật thông thường là minh chứng cho thấy chúng nguy hiểm đến mức nào. Suy cho cùng, nếu cứ để mặc thì chúng sẽ thong dong dạo bước giữa xã hội với vẻ ngoài chẳng khác gì người khác cho đến khi cắm nanh vào cổ người ta và biến họ thành đồng loại, không ngừng nhân rộng số lượng của chúng. Đã thế, nguồn thức ăn chính của chúng lại là con người, và chúng có thể sống trường sinh bất tử. Bất cứ ai cho rằng cứ mặc kệ những sinh vật như vậy là ổn thì hoàn toàn có thể bị coi là kẻ mất trí.
+Người ta dồn sức truy diệt Ma Cà Rồng hơn hẳn quái vật thông thường, đủ thấy chúng nguy hiểm đến mức nào. Suy cho cùng, nếu cứ để mặc thì chúng sẽ thong dong dạo bước giữa xã hội với vẻ ngoài chẳng khác gì người khác cho đến khi cắm nanh vào cổ người ta và biến họ thành đồng loại, không ngừng nhân rộng số lượng của chúng. Đã thế, nguồn thức ăn chính của chúng lại là con người, và chúng có thể sống trường sinh bất tử. Bất cứ ai cho rằng cứ mặc kệ những sinh vật như vậy là ổn thì hoàn toàn có thể bị coi là kẻ mất trí.
 
 Tuy nhiên, nhìn từ góc độ ngược lại, điều đó khiến Ma Cà Rồng vô cùng khó sống ở bất cứ nơi đâu. Nghĩa là ngay cả khi không tấn công con người và sống một cuộc đời kín đáo nhờ sự giúp đỡ của người hiến máu, những Thợ Săn Ma Cà Rồng vẫn sẽ tìm tới gõ cửa nhà họ.
 
@@ -212,4 +212,4 @@ Liệu cô có nên tha mạng và thu phục cô ta dưới sự kiểm soát c
 
 Suy nghĩ của Rina mới chỉ tiến triển đến đó thì bất chợt một sự hiện diện xuất hiện phía sau lưng cô.
 
-"Liệu cô có cần giúp đỡ không?"
+"Cô có cần giúp một tay không?"

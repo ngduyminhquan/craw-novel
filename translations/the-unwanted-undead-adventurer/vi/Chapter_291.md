@@ -46,13 +46,13 @@ Tôi bắt đầu chém qua từng hình nhân một. Ban đầu, tôi không tr
 
 Clope hoàn toàn có lý do để tự tin vào tác phẩm của mình; tôi nhận ra ngay đây là một thanh kiếm thượng hạng, chém ngọt đến khó tin. Tôi chém đứt đôi cả những hình nhân mặc giáp kim loại, còn với rơm và gỗ thì chẳng cần phải bàn tới nữa.
 
-Tôi kiểm tra lưỡi kiếm xem có vết mẻ nào không, nhưng chẳng thấy lấy một tì vết. Khi xem xét bộ giáp kim loại, tôi thấy những chỗ bị chém hơi lởm chởm, khớp với lực cản mà tôi cảm nhận được ban nãy. Có lẽ chính sức mạnh từ cơ thể quái vật đã giúp tôi dùng lực đè bẹp rồi chém ngọt qua lớp giáp.
+Tôi kiểm tra lưỡi kiếm xem có vết mẻ nào không, nhưng chẳng thấy lấy một tì vết. Khi xem xét bộ giáp kim loại, tôi thấy những chỗ bị chém hơi lởm chởm, khớp với lực cản mà tôi cảm nhận được ban nãy. Có lẽ chính sức mạnh của cơ thể quái vật đã giúp tôi cứ thế dùng lực mà phá qua lớp giáp.
 
 Dù vậy, thế cũng đã quá tốt rồi. Từ trước tới giờ tôi chưa từng cầm thanh kiếm nào chém bén đến mức này.
 
 "Thế nào?" Clope hỏi.
 
-Tôi gật đầu. "Tôi ưng lắm. Độ dẻo không gây vướng víu nhiều như tôi tưởng. Thậm chí tôi thấy nó còn giúp tăng lực chém bén hơn nữa cơ."
+Tôi gật đầu. "Tôi ưng lắm. Độ dẻo không gây vướng víu nhiều như tôi tưởng. Thậm chí tôi thấy nhờ nó mà đường chém còn ngọt hơn ấy chứ."
 
 "Nghe vậy mừng quá. Mà này, không ngờ chưa cần truyền chút năng lượng nào vào mà thanh kiếm đã bén đến mức đó... Có khi cậu với nó lại là một cặp trời sinh đấy nhỉ?"
 
@@ -72,7 +72,7 @@ Thánh kiếm và ma kiếm thường được tìm thấy trong mê cung hơn l
 
 Thực ra tôi từng nghe rồi. Phiên bản tôi nghe kể về một mạo hiểm giả may mắn mua được thanh kiếm với giá rẻ như cho tại một quầy hàng rong, về sau mới vỡ lẽ đó là ma kiếm. Món vũ khí đó giúp anh ta đánh bại những con quái vật ngày càng mạnh mẽ, rồi cuối cùng leo lên tận Kim Cấp, hoặc Bạch Kim Cấp tùy theo lời người kể.
 
-Tôi còn nghe một câu chuyện khác về một kẻ cũng trải qua tình cảnh tương tự, chỉ khác là món đồ anh ta nhặt được lại là chiếc mặt nạ nguyền rủa kỳ quái, chuyện đó chẳng may mắn chút nào. Cơ mà... tôi đồ rằng cũng chưa đến mức quá xui xẻo, vì ít ra anh ta vẫn còn sống nhăn răng...
+Tôi còn nghe một câu chuyện khác về một kẻ cũng trải qua tình cảnh tương tự, chỉ khác là món đồ anh ta vớ được lại là một chiếc mặt nạ bị nguyền rủa quái gở. Chuyện đó thì chẳng may mắn chút nào. Cơ mà... tôi đồ rằng cũng chưa đến mức quá xui xẻo, vì ít ra anh ta vẫn còn sống nhăn răng...
 
 "Tôi đoán nếu muốn biết chắc chắn thì phải đến đền Thần Giám Định rồi," tôi trầm ngâm nói thành tiếng.
 
@@ -130,7 +130,7 @@ Tôi gật đầu rồi bắt đầu chém. Đúng như dự đoán, tôi chém 
 
 Trọng lượng thanh kiếm không đổi nên vung vẫn rất vừa tay. Có điều phản lực giờ đã khác do độ dẻo giảm đi, thành thử tôi sẽ phải bỏ nhiều công sức để làm quen với điều đó.
 
-Tôi từng hơi e dè khi thử kiếm trên hình nhân mặc giáp, nhưng thanh vũ khí chém qua mà chẳng gặp chút lực cản nào. Và rồi...
+Tôi hơi e dè khi thử kiếm trên hình nhân mặc giáp, nhưng thanh vũ khí chém qua mà chẳng gặp chút lực cản nào. Và rồi...
 
 "Mọi thứ vẫn ổn cả," Clope xác nhận sau khi chạy lại xem xét lưỡi kiếm của tôi. "Không một vết xước."
 

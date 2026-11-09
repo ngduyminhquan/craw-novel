@@ -38,7 +38,7 @@ Tôi cũng tự hỏi điều tương tự. Thực sự dường như kể từ 
 
 Thực ra xét về lý thì tôi mới là nạn nhân đầu tiên trong toàn bộ mớ bòng bong này. Thành thử nếu xét về khoản hút vận rủi thì có lẽ tôi với Wolf cũng chung một hội một thuyền.
 
-Có điều trong trường hợp của mình, bên cạnh điều rủi thì cũng có vô số điều may. Dù giờ đây đã là quái vật, nhưng điều đó đồng nghĩa với việc mỗi lần rèn luyện, tôi đều nhận ra thể lực của mình tiến bộ trông thấy. Suy nghĩ theo hướng đó khiến tôi nhận ra tình cảnh này với Wolf cũng đâu hẳn là tệ hại về mọi mặt.
+Có điều trong trường hợp của mình, bên cạnh điều rủi thì cũng có vô số điều may. Dù giờ đây đã là quái vật, nhưng điều đó đồng nghĩa với việc mỗi lần rèn luyện, tôi đều nhận ra thể lực của mình tiến bộ trông thấy. Suy nghĩ theo hướng đó khiến tôi nhận ra tình cảnh của Wolf cũng đâu hẳn là tệ hại về mọi mặt.
 
 "Chuyện này cũng đâu đến nỗi tệ, đúng không?" tôi lên tiếng. "Sau cùng thì thu nhập của Hội có thể sẽ tăng lên, mà một mê cung mới cũng đồng nghĩa với cơ hội thu thập những nguyên liệu và ma cụ mới. Dĩ nhiên là khối lượng công việc của Hội cũng tăng theo, nhưng..."
 
@@ -132,6 +132,6 @@ Nghe như thể cô ấy đang tự lẩm bẩm một mình, nhưng tôi hoàn t
 
 Dù sao đi nữa thì đó cũng là một chiếc vòng gõ cửa bị nguyền rủa. Bất kể tôi và Lorraine từng trét bao nhiêu keo dán lên, nó vẫn cứ tuột ra như thường. Có khi vấn đề lại nằm ở chỗ chúng tôi cứ nửa vời khăng khăng dùng keo dán ngay từ đầu chăng?
 
-Ừm thì, thành thực mà nói, lý do chúng tôi sửa chữa qua quýt như vậy có lẽ là bởi nếu nhìn chiếc vòng gõ cửa gắn chặt vào cánh cửa thì lòng lại thấy có chút bùi ngùi. Tôi thừa sức sửa cho dứt điểm bất cứ lúc nào mình muốn. Nhưng giờ đây, đã đến lúc phải nói lời tạm biệt với chiếc vòng gõ cửa năm xưa... hoặc là chưa.
+Ừm thì, thành thực mà nói, lý do chúng tôi sửa chữa qua quýt như vậy có lẽ là bởi nếu cuối cùng thấy chiếc vòng gõ cửa nằm yên một chỗ thì lại thấy hơi buồn. Tôi thừa sức sửa cho dứt điểm bất cứ lúc nào mình muốn. Nhưng giờ đây, đã đến lúc phải nói lời tạm biệt với chiếc vòng gõ cửa năm xưa... hoặc là chưa.
 
 Dù thế nào đi nữa, một nỗi buồn man mác vẫn dâng lên trong lòng hai chúng tôi.

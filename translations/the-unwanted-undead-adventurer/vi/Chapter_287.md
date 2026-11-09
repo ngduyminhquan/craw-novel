@@ -60,9 +60,9 @@ Thời đó tôi còn chưa có mặt ở đây để biết Hội Maalt như th
 
 Người ta có thể nghĩ làm vậy cũng chẳng sao—và quả thực là thế, chí ít là với những kẻ đã quen sống trong cơ chế đó—nhưng các chi nhánh Hội lại áp dụng quy tắc ấy lên cả những tân binh non nớt nhất, và rắc rối nảy sinh chính từ chỗ này. Một gã tân binh thì biết gì nhiều về các chủng loài quái vật cùng các bộ phận trên cơ thể chúng, nói chi tới chuyện pha lóc lấy chiến lợi phẩm; họ lại càng chẳng có mấy hiểu biết về cây cỏ hay nguyên liệu nói chung.
 
-Hậu quả nhãn tiền là họ nhận một ủy thác Thiết Cấp vì ngỡ rằng nó dễ xơi, để rồi chuốc lấy thất bại thảm hại. Mà đấy còn là một trong những kết cục khả dĩ hơn—bởi phần nhiều trường hợp, họ chỉ đơn giản là mất mạng.
+Hậu quả là họ nhận một ủy thác Thiết Cấp vì ngỡ rằng nó dễ xơi, để rồi chuốc lấy thất bại thảm hại. Mà đấy còn là một trong những kết cục khả dĩ hơn—bởi phần nhiều trường hợp, họ chỉ đơn giản là mất mạng.
 
-Câu hỏi tất yếu đặt ra là: "Tại sao chẳng ai buồn làm gì để thay đổi?", và câu trả lời sẽ là: "Vì suốt một thời gian rất dài, mọi chuyện vốn dĩ cứ diễn ra như thế." Duy trì nó đã là một truyền thống.
+Câu hỏi tất yếu đặt ra là: "Tại sao chẳng ai buồn làm gì để thay đổi?", và câu trả lời sẽ là: "Vì suốt một thời gian rất dài, mọi chuyện vốn dĩ cứ diễn ra như thế." Giữ nguyên như vậy đã thành truyền thống.
 
 "Nó" ở đây chính là sự tự do của một mạo hiểm giả. Toàn bộ nền tảng của cái nghề này là không bị trói buộc bởi xiềng xích của bất kỳ ai. Đó là một tôn chỉ đầy lôi cuốn, và cũng bởi có nó, không ít mạo hiểm giả đã tự diễn dịch thành: "Chẳng ai có quyền ra lệnh cho bọn ta hết!"
 
@@ -94,7 +94,7 @@ Mắt Jean mở to hết cỡ. "Cái gì? Cậu đang trêu ta đấy à."
 
 "Còn nếu phân biệt được, thì hoa cần dại cũng có công dụng riêng của nó. Chúng đủ mạnh để gây tác động lên cả những con quái vật kích cỡ khá lớn, nên người ta có thể chiết lấy dịch bôi lên kiếm."
 
-Jean nhìn tôi với vẻ hoài nghi mất vài giây rồi mới lên tiếng: "Và cậu bảo ta đám tân binh của Maalt đều làm trò đó hả? Đáng sợ thật đấy. Ta có cảm giác nghề ám sát của mình bị qua mặt rồi."
+Jean nhìn tôi với vẻ hoài nghi mất vài giây rồi mới lên tiếng: "Và cậu bảo ta đám tân binh của Maalt đều làm trò đó hả? Đáng sợ thật đấy. Ta thấy mình bị qua mặt luôn cả về khoản ám sát rồi."
 
 Dù Jean gọi đó là "đáng sợ", nhưng dịch chiết hoa cần dại không làm chết người, và cơ thể con người đào thải nó tương đối nhanh. Kể cả khi sơ ý tự làm mình bị thương bởi vũ khí có bôi thuốc, người ta vẫn sẽ bình an vô sự miễn là có đồng đội ở cạnh bên. Tôi đã dặn dò kỹ lưỡng đám tân binh mình dạy rằng tuyệt đối không được dùng thứ đó khi đi một mình, nên họ hẳn sẽ ổn thôi. Mà nói "dặn dò kỹ lưỡng", ý tôi là tôi đã cho họ tự thử thứ dịch đó lên chính mình để trải nghiệm cảm giác tê liệt ra sao. Có thế thì họ mới thấu hiểu tường tận sự nguy hiểm của nó—và tôi cũng đem nguyên văn những lời ấy kể lại cho Jean.
 

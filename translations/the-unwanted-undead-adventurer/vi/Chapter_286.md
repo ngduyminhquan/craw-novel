@@ -12,7 +12,7 @@ Một phiên xử diễn ra chóng vánh ngay trong ngày hôm đó. Amapola b�
 
 Bình thường, những vụ việc kiểu này chẳng bao giờ được xử lý nhanh đến thế... nhưng không khó để đoán ra Isaac đã nhúng tay vào.
 
-Dorothea và Dieg, những người đều bị giữ lại một ngày để lấy lời khai, đã sững sờ khi biết buổi hành quyết đã diễn ra xong xuôi. Dù vậy, việc xét xử tiến hành nhanh đến thế cũng không phải là chuyện bất khả thi, nên họ chỉ đơn giản quy cho nguyên nhân Amapola là một Ma Cà Rồng. Suy cho cùng, nếu Ma Cà Rồng không bị xử lý nhanh gọn, chúng thường sẽ nhanh chóng tẩu thoát và gia tăng số lượng.
+Dorothea và Dieg, những người đều bị giữ lại một ngày để lấy lời khai, đã sững sờ khi biết buổi hành quyết đã diễn ra xong xuôi. Dù vậy, việc xét xử tiến hành nhanh đến thế cũng không phải là chuyện bất khả thi, nên họ chỉ nghĩ đơn giản là do Amapola là Ma Cà Rồng. Suy cho cùng, nếu Ma Cà Rồng không bị xử lý nhanh gọn, chúng thường sẽ nhanh chóng tẩu thoát và gia tăng số lượng.
 
 "Vậy đây... là Amapola sao..." Dieg lẩm bẩm, chăm chú nhìn chiếc hũ tro cốt.
 
@@ -38,7 +38,7 @@ Sau một thoáng ngẫm nghĩ, Rina hỏi: "Rốt cuộc thì chuyện của Am
 
 "Cô ta đã bị 'xử tử' rồi, dĩ nhiên là thế."
 
-Tông giọng của Isaac khiến người ta nhận ra ngay là anh đang nói dối—hẳn anh đã tìm cách bí mật đưa cô ta đi và dàn xếp mọi chuyện để trông như thể cô ta thực sự đã chết. Hẳn anh cho rằng đó là giải pháp an toàn nhất trước khả năng Thợ Săn Ma Cà Rồng lần ra dấu vết của Amapola. Ngay cả Nive cũng sẽ phải bỏ cuộc nếu con mồi của cô đã bị xử tử và thiêu thành tro, phần lớn số tro ấy lại còn được chôn xuống đất.
+Tông giọng của Isaac khiến người ta nhận ra ngay là anh đang nói dối—hẳn anh đã tìm cách bí mật đưa cô ta đi và dàn xếp mọi chuyện để trông như thể cô ta thực sự đã chết. Hẳn anh cho rằng làm vậy là an toàn nhất, phòng khi Thợ Săn Ma Cà Rồng lần ra dấu vết của Amapola. Ngay cả Nive cũng sẽ phải bỏ cuộc nếu con mồi của cô đã bị xử tử và thiêu thành tro, phần lớn số tro ấy lại còn được chôn xuống đất.
 
 Nghĩ lại thì, Rina cũng chẳng lấy làm lạ nếu Nive đào đống tro lên, ngửi thử rồi phán rằng mùi này không giống một Ma Cà Rồng thực thụ. Dẫu vậy, cô tin chắc Isaac đã tính đến sự cuồng nhiệt thái quá đó. Cô không nghĩ có điều gì đáng phải bận tâm.
 
@@ -178,7 +178,7 @@ Người phụ nữ gật đầu, vẻ mặt trông vẫn còn khó ở. "Tôi s
 
 Nghe cũng có lý đấy chứ, Rina thầm nghĩ. Khi mới gặp Dorothea, nữ thương nhân lữ hành từng khá cảnh giác, nhưng càng trò chuyện nhiều, sự đề phòng ấy càng tan biến để lộ ra một cô gái lạc quan và thẳng thắn bên trong. Việc những người như thế rất khó bị khống chế là điều mới mẻ đối với cô... dẫu vậy cô vẫn nghĩ Isaac thừa sức làm được.
 
-Những chuyện như thế có lẽ chính là nơi khoảng cách về thực lực giữa các Ma Cà Rồng thể hiện rõ rệt nhất.
+Có lẽ chính ở những chuyện như thế, khoảng cách thực lực giữa các Ma Cà Rồng mới lộ rõ nhất.
 
 "Đó là lý do duy nhất thôi sao?" Rina hỏi.
 

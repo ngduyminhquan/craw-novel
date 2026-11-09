@@ -6,7 +6,7 @@ Trong một thoáng, Rina không khỏi giật mình—cô hoàn toàn chẳng h
 
 "Tôi xin lỗi. Tôi không cố ý đâu, nhưng có lẽ tôi xuất hiện hơi đột ngột thật nhỉ?"
 
-Quả thực, người đứng sau lưng cô không ai khác chính là Isaac, viên quản gia của Gia tộc Latuule. Nét mặt anh vẫn hòa nhã và điềm đạm như mọi khi—điều mà Rina nghĩ, xét trong hoàn cảnh này, tự nó đã có phần không hợp chút nào. Dù sao thì anh vừa bắt gặp cô đang mỉm cười trò chuyện với một chiếc đầu lìa khỏi cổ trong khi thi thể của cô ta bị cô găm chặt xuống đất bằng kiếm—hình ảnh chuẩn xác nhất cho từ "kẻ mất trí".
+Quả thực, người đứng sau lưng cô không ai khác chính là Isaac, viên quản gia của Gia tộc Latuule. Nét mặt anh vẫn hòa nhã và điềm đạm như mọi khi—mà xét hoàn cảnh lúc này, Rina nghĩ, chính vẻ mặt ấy có khi đã chẳng hợp chút nào. Dù sao thì anh vừa bắt gặp cô đang mỉm cười trò chuyện với một chiếc đầu lìa khỏi cổ trong khi thi thể của cô ta bị cô găm chặt xuống đất bằng kiếm—hình ảnh chuẩn xác nhất cho từ "kẻ mất trí".
 
 Cơ mà, có lẽ đối với Isaac thì những cảnh tượng như thế này cũng chỉ như cơm bữa mà thôi.
 
@@ -20,7 +20,7 @@ Khi cô dứt lời, Isaac gật đầu. "Nếu vậy, hay là để tôi nhận
 
 "Như vậy liệu có ổn không? Cô ta đã làm ra mấy chuyện tệ hại lắm đấy..."
 
-Chỉ riêng vụ này thôi cũng đã cướp đi tính mạng toàn bộ đồng bọn của Guster. Chẳng khó để đoán rằng người phụ nữ này khó lòng khẳng định mình chưa từng giết người bao giờ. Có điều, dường như cô ta cũng thực sự chẳng còn lựa chọn nào khác để sinh tồn, và chính điều đó khiến Rina không thể dứt khoát đưa ra quyết định.
+Chỉ riêng vụ này thôi cũng đã cướp đi tính mạng toàn bộ đồng bọn của Guster. Dễ đoán là người phụ nữ này chẳng thể nói mình chưa từng giết ai. Có điều, dường như cô ta cũng thực sự chẳng còn lựa chọn nào khác để sinh tồn, và chính điều đó khiến Rina không thể dứt khoát đưa ra quyết định.
 
 Isaac cười trừ. "Nhắc đến những tội lỗi kiểu đó, quãng đời tôi từng trải qua cũng chẳng đủ thanh cao để phán xét người khác. Dẫu vậy, chí ít thì tôi có thể khẳng định cô ta có nguyên tắc hơn nhiều so với những Ma Cà Rồng hoang thông thường. Tôi đồ rằng chỉ cần uốn nắn vào khuôn phép một chút thì cô ta sẽ không gây rắc rối gì đâu."
 
@@ -132,9 +132,9 @@ Câu hỏi của Dorothea được giải đáp bởi chính chàng thanh niên 
 
 Trong tâm trí Dorothea, anh phù hợp với hình dung của cô về một Ma Cà Rồng hơn nhiều so với người phụ nữ đang bị trói quặt hai tay sau lưng kia, nhưng nghĩ vậy thì quả là khiếm nhã, nên cô liền gạt phắt ý nghĩ đó đi.
 
-"Chuyện đó chỉ xảy ra trong trường hợp Ma Cà Rồng cắn người rồi truyền một lượng máu của mình vào họ thôi," Isaac giải thích. "Trên người Dieg không có dấu hiệu vết thương nào như vậy, nên cậu ta sẽ ổn thôi. Việc cậu ta ngất xỉu—như cô vừa có nhã ý cho chúng tôi biết—nhiều khả năng là vào khoảng thời gian chúng tôi đánh bại Amapola, đó là tên của quý cô đây. Điều này hoàn toàn khớp với phản ứng thông thường của phần lớn mọi người sau khi được giải trừ khỏi thuật mị hoặc của Ma Cà Rồng. Kẻ nào đã biến thành bề tôi Undead của Ma Cà Rồng thì vẫn sẽ giữ được ý thức."
+"Chuyện đó chỉ xảy ra trong trường hợp Ma Cà Rồng cắn người rồi truyền một lượng máu của mình vào họ thôi," Isaac giải thích. "Trên người Dieg không có dấu hiệu vết thương nào như vậy, nên cậu ta sẽ ổn thôi. Như cô vừa có nhã ý cho chúng tôi biết, cậu ta đã ngất đi, mà nhiều khả năng là đúng lúc chúng tôi đánh bại Amapola—tên của quý cô đây. Điều này hoàn toàn khớp với phản ứng thông thường của phần lớn mọi người khi thoát khỏi thuật mị hoặc của Ma Cà Rồng. Kẻ nào đã biến thành bề tôi Undead của Ma Cà Rồng thì vẫn sẽ giữ được ý thức."
 
-Nói tóm lại, nếu Dieg thực sự biến thành Undead, anh ta sẽ có khả năng hành động độc lập khỏi chủ nhân Amapola của mình. Còn với hiệu ứng mị hoặc đơn thuần, một khi được giải trừ sẽ khiến nạn nhân mất đi ý thức tạm thời và hồi phục hoàn toàn khi tỉnh lại.
+Nói tóm lại, nếu Dieg thực sự biến thành Undead, anh ta sẽ có khả năng hành động độc lập khỏi chủ nhân Amapola của mình. Còn nếu chỉ bị mị hoặc, khi bùa mê được giải, nạn nhân sẽ tạm thời mất ý thức rồi hồi phục hoàn toàn khi tỉnh lại.
 
 Minh chứng rõ ràng là—chỉ sau một thoáng ngắn ngủi, mắt Dieg liền chớp mở.
 
@@ -148,7 +148,7 @@ Dieg bật cười yếu ớt. "Tôi thì nghĩ họ sẽ từ mặt tôi luôn 
 
 Mắt Dieg mở to suốt cả quá trình cô thuật lại tình hình. Khi cô dứt lời, anh ta gật đầu đón nhận. "Hóa ra đầu đuôi câu chuyện là như vậy..." anh ta lẩm bẩm. "Quả thực mọi chuyện đều bắt đầu sau khi tôi gặp Amapola. Cảm giác như tôi dần đánh mất chính mình vậy." Anh ta quay sang nữ Ma Cà Rồng đang bị nhắc tới: "Amapola—tại sao cô lại làm thế?"
 
-Dù bản thân từng bị bắt làm nô lệ, nét mặt chàng thanh niên không hề có vẻ oán hận khi buông câu hỏi. Nói đúng hơn thì, nó còn thoáng chút đượm buồn.
+Dù vừa bị người ta biến thành con rối, nét mặt chàng thanh niên không hề có vẻ oán hận khi buông câu hỏi. Nói đúng hơn thì, nó còn thoáng chút đượm buồn.
 
 Một vẻ mặt tương tự thoáng qua trên gương mặt Amapola trong giây lát, nhưng cô ta không trả lời.
 

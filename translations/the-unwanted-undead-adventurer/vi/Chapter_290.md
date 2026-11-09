@@ -26,7 +26,7 @@ Lorraine mới là người nhận ủy thác từ Sơ Lillian, tôi chỉ đi c
 
 Ngay cả khi khả năng đó không lớn như Sơ Lillian lo sợ, sự bận lòng ấy cũng đủ cho thấy sơ ấy quan tâm đến cô nhi viện nơi mình lớn lên đến mức nào.
 
-"Tôi nghĩ sơ không cần phải bận tâm về chuyện đó nữa đâu," Lorraine nói. "Mẹ Elza còn bảo có khả năng sơ sẽ được triệu hồi về lại vương đô đấy. À, phải rồi. Tôi có mang một bức thư của cô ấy gửi cho sơ đây."
+"Tôi nghĩ sơ không cần phải bận tâm về chuyện đó nữa đâu," Lorraine nói. "Mẹ Bề Trên Elza còn bảo có khả năng sơ sẽ được triệu hồi về lại vương đô đấy. À, phải rồi. Tôi có mang một bức thư của cô ấy gửi cho sơ đây."
 
 "Ô? Có phải là...?"
 
@@ -92,7 +92,7 @@ Cô ấy có dặn tôi lát nữa nhớ đưa cho cô ấy xem món vũ khí s�
 
 "Hử? Ồ, Rentt đấy à!" Clope thò đầu ra từ gian sau cửa tiệm. "Về từ vương đô rồi đấy nhỉ."
 
-Anh ấy nghe thấy tiếng tôi thì có lẽ là đang không rèn đồ. Anh ấy là kiểu người mà dù người ta có đứng bên gào thét thì cũng chẳng thèm ngơi tay... dẫu nói cho chính xác hơn là do quá tập trung nên ngay từ đầu anh ấy đã chẳng nghe thấy gì rồi.
+Anh ấy nghe thấy tôi gọi, vậy chắc lúc này đang không rèn. Anh ấy là kiểu người mà dù người ta có đứng bên gào thét thì cũng chẳng thèm ngơi tay... dẫu nói cho chính xác hơn là do quá tập trung nên ngay từ đầu anh ấy đã chẳng nghe thấy gì rồi.
 
 "Tôi mới về hôm nọ thôi," tôi nói. "À, này. Tôi có mua quà cho anh đây."
 
@@ -138,7 +138,7 @@ Clope ưỡn ngực tự hào. "Chắc chắn sẽ làm cậu hài lòng—tôi 
 
 "Cứ tự nhiên. Chúng ta phải xem nó chịu được bao nhiêu Thần Lực, cũng như chuyện gì sẽ xảy ra khi cậu truyền thêm cả Khí Lực và Ma Lực vào. Đó mới là phần cốt lõi; nếu không dùng được thì coi như tôi rèn nó uổng công."
 
-Các thợ rèn vốn tương đối quen thuộc với phương thức vận hành riêng rẽ của từng loại năng lượng Ma Lực, Khí Lực hay Thần Lực, cũng như Ma Khí Dung Hợp Thuật. Tuy nhiên, khi nói đến Thần Ma Khí Dung Hợp Thuật, đại đa số thợ rèn hoàn toàn không có chút kinh nghiệm nào trong việc chế tạo công cụ cho những người như vậy. Vốn dĩ ngay từ đầu đã hầu như chẳng có ai sở hữu cả ba loại năng lượng đó rồi.
+Các thợ rèn vốn tương đối quen thuộc với phương thức vận hành riêng rẽ của từng loại năng lượng Ma Lực, Khí Lực hay Thần Lực, cũng như Ma Khí Dung Hợp Thuật. Tuy nhiên, khi nói đến Thần Ma Khí Dung Hợp Thuật, đại đa số thợ rèn hoàn toàn chưa từng chế tạo vũ khí cho người dùng kỹ thuật đó. Vốn dĩ ngay từ đầu đã hầu như chẳng có ai sở hữu cả ba loại năng lượng đó rồi.
 
 Vì thế, tất cả những gì Clope và tôi có thể làm là vừa thử nghiệm vừa rút kinh nghiệm. Quá trình đó dường như đã mang lại kết quả: kinh nghiệm tích lũy từ những lần thử đi thử lại các bản mẫu đã thể hiện rõ khi anh ấy ngày càng quen tay hơn với những món vũ khí loại này. Xuyên suốt tiến trình đó, mỗi lần thử tôi đều cảm nhận được các luồng năng lượng luân chuyển qua lưỡi kiếm mượt mà hơn lần trước.
 
