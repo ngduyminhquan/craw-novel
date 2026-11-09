@@ -1640,6 +1640,12 @@ Nhận thấy việc cắm trại trong mê cung quá sức với kinh nghiệm 
 Tại một quán trọ ở Maalt, nữ thương nhân Dorothea Merrow đang thấp thỏm lo âu vì từng bị một nam mạo hiểm giả coi thường và ép tăng thù lao trong chuyến đi ở Zahak một tháng trước; cô kiên trì theo đuổi ước mơ mở cửa hàng dù quan hệ với cha rạn nứt vì định kiến phụ nữ làm nghề buôn bán.
 Cảnh kết thúc: Nghe nhân viên quán trọ thông báo nữ mạo hiểm giả nhận ủy thác đã tới, Dorothea hạ quyết tâm đàm phán cẩn thận rồi bước xuống sảnh chuẩn bị gặp mặt Rina.
 
+## 277
+Dorothea xuống sảnh gặp Rina và bất ngờ trước vẻ ngoài trẻ tuổi, mảnh khảnh của cô gái mạo hiểm giả Thiết Cấp; trước nét tự ti thoáng qua của Rina, Dorothea nhận ra hình bóng của chính mình khi bị khách hàng coi thường nên quyết định gạt bỏ định kiến để ngồi lại trao đổi cụ thể.
+Khi bàn về lộ trình, Rina khuyên tránh khu vực Núi Tute vì bầy Harpy đến làm tổ sớm một tháng và tránh Đại Lộ Farga do cầu bị sập, đề xuất đi đường vòng qua Đại Lộ Radha; Dorothea thắc mắc vì Hội Thương Nhân chưa hay biết, nhưng nhanh chóng bị thuyết phục khi biết Rina nắm tin tức thực tế từ mạng lưới người dân các làng quê hay đến chợ Maalt.
+Nhận thấy Rina không giở trò im lặng để kéo dài ngày đi đòi tăng thù lao như gã mạo hiểm giả trước, Dorothea đồng ý đổi lộ trình; khi được hỏi, Rina thản nhiên khẳng định nếu chạm trán bầy Harpy hàng trăm con thì cô vẫn tự tin không chết và sẽ mang di vật của thân chủ về, khiến Dorothea nhìn thấy khí chất của một mạo hiểm giả thực thụ.
+Cảnh kết thúc: Cảm thấy bản thân may mắn khi gặp được người hộ vệ phù hợp, Dorothea chính thức nhận thuê Rina và Rina vui vẻ hứa sẽ cống hiến hết sức mình.
+
 
 
 

@@ -281,7 +281,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 274 |  | Chapter_274 - Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3).txt | Vol 12 Chapter 1 - An Increase in Saints and the Return to Maalt (3) | reviewed |  |
 | 275 |  | Chapter_275 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (1) | reviewed |  |
 | 276 |  | Chapter_276 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (2) | reviewed |  |
-| 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | todo |  |
+| 277 |  | Chapter_277 - Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3).txt | Vol 12 Chapter 2 - Meanwhile, the Apprentices... Part 1 (3) | done |  |
 | 278 |  | Chapter_278 - Vol 12 Intermission - Lorraine’s Choice.txt | Vol 12 Intermission - Lorraine’s Choice | todo |  |
 | 279 |  | Chapter_279 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (1) | todo |  |
 | 280 |  | Chapter_280 - Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2).txt | Vol 12 Chapter 3 - Meanwhile, the Apprentices... Part 2 (2) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -938,3 +937,4 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#275] Tiêu đề "Meanwhile, the Apprentices... Part 1 (1)" — tạm dịch "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)" (phương án khác: "Tập 12 Chương 2 - Trong Khi Đó, Những Người Học Trò... Phần 1 (1)", "Tập 12 Chương 2 - Trong Khi Đó, Những Đồ Đệ... Phần 1 (1)"). Tạm dùng trong bản dịch: "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)". → Duyệt "Tập 12 Chương 2 - Trong Khi Đó, Các Đệ Tử... Phần 1 (1)" (nhất quán với cách gọi Alize và Rina là đệ tử của Rentt và Lorraine từ #74). (orchestrator)
 - [#276] Dịch địa danh mới 'Zahak' (thị trấn tỉnh lỵ phía tây Maalt nơi Dorothea từng bị lừa) — tạm giữ nguyên tên riêng phương Tây 'Zahak' theo rules.md (phương án khác: phiên âm). Tạm dùng trong bản dịch: 'Zahak'. → Duyệt giữ nguyên tên riêng phương Tây "Zahak" theo rules.md. (orchestrator)
 - [#276] Cảnh báo QA 'prior' không có 'Phó Tu Viện Trưởng' trong bản dịch — raw dùng nghĩa từ vựng thời gian thông thường ('two years prior', 'prior to their departure'), không phải chức sắc giáo phẩm 'Phó Tu Viện Trưởng' trong glossary.md, là cảnh báo báo nhầm (false positive). Tạm dùng trong bản dịch: bỏ qua cảnh báo, dịch tự nhiên theo ngữ cảnh thời gian. → Duyệt bỏ qua cảnh báo false positive do "prior" trong raw là từ vựng chỉ thời gian thông thường. (orchestrator)
+- [#277] Xưng hô giữa nữ thân chủ thương nhân Dorothea Merrow và Rina Rupaage: hiện tạm dùng 'tôi - cô' hai chiều chuẩn mực mạo hiểm giả - thương nhân (Dorothea gọi 'cô / Rina', Rina gọi 'cô / Dorothea') → Duyệt giữ nguyên xưng hô "tôi - cô" hai chiều chuẩn mực giữa mạo hiểm giả và thương nhân thân chủ (Dorothea gọi "cô / Rina", Rina gọi "cô / Dorothea"). (orchestrator)

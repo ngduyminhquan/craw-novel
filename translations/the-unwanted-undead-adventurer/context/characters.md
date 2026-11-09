@@ -163,6 +163,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái tính đến chương 215: Nhận lời hướng dẫn và cùng luyện tập với Alize tại Cô Nhi Viện Thứ Hai Maalt trong thời gian nhóm Rentt lên vương đô; hào hứng thức khuya làm một cuốn cẩm nang du lịch và mua sắm tại vương đô để gửi Rentt và Lorraine.
 - Trạng thái tính đến chương 225: Cùng Alize đến dinh thự Gia tộc Latuule theo dặn dò của Lorraine; đã thuần thục ma pháp ngâm xướng và bước đầu thi triển thành công ma pháp rút ngắn Gie Vieros (thổ tiễn) dưới sự hướng dẫn của Isaac.
 - Trạng thái tính đến chương 275: Luyện tập ma pháp kết hợp võ thuật và đấu tập với Isaac tại dinh thự Latuule; do luôn thua Isaac trong cùng khoảng thời gian nên sinh ra tự ti khi so sánh với mọi người xung quanh; nghe lời Isaac và Alize đến Hội Mạo Hiểm Giả tìm nhận ủy thác tác chiến đơn lẻ Thiết Cấp để kiểm chứng thực lực; được Sheila nhận ra tâm sự và nhiệt tình giúp đỡ.
+- Trạng thái tính đến chương 277: Đến quán trọ gặp nữ thân chủ thương nhân Dorothea Merrow để bàn chi tiết chuyến đi hộ vệ; khuyên đổi lộ trình tránh Núi Tute (do Harpy đến làm tổ sớm) và tránh Đại Lộ Farga (do sập cầu) sang Đại Lộ Radha nhờ nắm bắt tin tức từ người dân các làng quê hay đến chợ Maalt; thể hiện sự trung thực và tự tin bản thân không chết trước bầy quái vật hàng trăm con, chính thức được Dorothea tin tưởng nhận thuê.
 
 ### Rina Rogue
 - Xem Rina Rupaage (tên thật của Rina Rupaage).
@@ -881,7 +882,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Dorothea Merrow
 - Giới tính, vai trò: Nữ, thương nhân độc hành thuê Rina làm hộ vệ (#276).
-- Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn.
+- Đặc điểm: Tự lập kinh doanh tách khỏi cha từ hai năm trước; chăm chỉ, nuôi tham vọng tích lũy vốn mở cửa hàng riêng ở một thành phố quy mô tương đối; từng nhiều lần bị mạo hiểm giả nam coi thường vì là phụ nữ và bị ép tăng tiền thù lao hộ vệ, gần nhất là vụ việc tại thị trấn Zahak (#276); tính tình thận trọng, cảnh giác cao nhưng giàu ý chí, không nản lòng trước khó khăn. Gặp mặt Rina tại quán trọ ở Maalt (#277); ban đầu lo lắng vì Rina trẻ tuổi, mảnh khảnh và chỉ là Thiết Cấp, nhưng đồng cảm trước sự tự ti của Rina và nhìn thấy hình bóng của chính mình; bị thuyết phục bởi thông tin thực tế của Rina về việc Harpy làm tổ ở Núi Tute và sập cầu ở Đại Lộ Farga; đánh giá cao sự trung thực không vụ lợi đòi tăng thù lao cùng khí chất mạo hiểm giả tự tin không sợ chết của Rina, chính thức thuê cô làm hộ vệ cho chuyến đi buôn bán.
 - Xuất hiện từ: #276.
 
 

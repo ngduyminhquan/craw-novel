@@ -19,7 +19,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 |---|---|---|---|---|---|
 | Sound Barrier |  | Cách Âm Kết Giới | kỹ năng | 233 | Ma pháp tạo kết giới cách âm ngăn âm thanh lọt ra ngoài |
 | Existential Evolution |  | Tiến Hóa Bản Thể | hệ thống | 1 | Hiện tượng quái vật tiến hóa lên bậc cao hơn (存在進化) |
-| Iron-class | Iron; Iron-classers | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
+| Iron-class | Iron; Iron-classer; Iron-classers | Thiết Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả tân thủ (鉄級) |
 | Bronze-class | Copper-class; Bronze-classer; Bronze-classers | Đồng Cấp | cấp bậc | 1 | Cấp bậc mạo hiểm giả thứ 2 (銅級). Copper-class là cách dịch của translator ở #255 |
 | lower-Bronze-class |  | Hạ Đồng Cấp | cấp bậc | 1 | Phân bậc thấp trong Đồng Cấp |
 | middle-Bronze-class |  | Trung Đồng Cấp | cấp bậc | 4 | Phân bậc giữa trong Đồng Cấp |
@@ -481,4 +481,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Compression |  | Áp Súc | kỹ năng | 274 | Ma pháp hệ áp súc / nén ép phổ biến trong ma thuật hiện đại (圧縮) |
 | Daḡata |  | Daḡata | kỹ năng | 274 | Ma pháp nén ép cổ đại tương tự Dehisé và Compression (giữ nguyên câu chú theo rules.md) |
 | Zahak |  | Zahak | địa danh | 276 | Thị trấn tỉnh lỵ nằm ở phía tây Maalt (ザハク) |
+| Tute Mountain |  | Núi Tute | địa danh | 277 | Ngọn núi nơi bầy Harpy kéo đến làm tổ (チュート山) |
+| Radha Highway | Radha | Đại Lộ Radha | địa danh | 277 | Tuyến đường huyết mạch nối giữa Maalt và các vùng phụ cận (ラダー街道) |
+| Farga Highway | Farga | Đại Lộ Farga | địa danh | 277 | Tuyến đường có cây cầu bị sập gần Maalt (ファルガ街道) |
+| Harpy | harpies; Harpy; Harpies | Harpy | quái vật | 277 | Quái vật nửa người nửa chim quen thuộc trong thần thoại (ハーピー) |
+| Merchant’s Guild | merchant’s guild; merchant's guild; Merchant's Guild | Hội Thương Nhân | tổ chức | 277 | Hiệp hội buôn bán của giới thương nhân (商工ギルド/商人ギルド) |
 

@@ -537,6 +537,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Augurey | Vitez Normorte | tôi / bọn tôi | nhóc / Vitez | 268 | Mạo hiểm giả nói chuyện với cậu bé thân chủ |
 | Vitez Normorte | Augurey | em / tôi | hai anh / anh | 268 | Cậu bé nói chuyện với mạo hiểm giả nhận ủy thác |
 | Vitez Normorte | * | tôi / em | hai người / mấy người / hai anh | 268 | Cậu bé nói chuyện với nhóm mạo hiểm giả |
+| Dorothea Merrow | Rina Rupaage | tôi | cô / Rina | 277 | Nữ thương nhân trao đổi với nữ mạo hiểm giả nhận ủy thác |
+| Rina Rupaage | Dorothea Merrow | tôi | cô / Dorothea | 277 | Nữ mạo hiểm giả trao đổi với nữ thương nhân thuê mình |
 
 
 
