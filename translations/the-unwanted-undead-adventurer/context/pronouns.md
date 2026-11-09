@@ -109,6 +109,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dieg Esol | tôi / Dieg / anh ta / người đàn ông | 282 | Nhị thiếu gia gia tộc Esol, người kể chuyện ở phân đoạn 2 chương 282 |
 | Amapola | Amapola / người phụ nữ / cô ta | 282 | Nữ ma pháp sư lữ hành đi cùng Dieg Esol |
 | Zein | Zein / người thợ săn / anh / anh ta | 283 | Thợ săn tại ngôi làng miền núi thứ ba |
+| Rudo Merrow | Rudo / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Merrow tại thành phố Mystera, cha của Dorothea Merrow |
+| Jude Esol | Jude / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol |
 
 
 ## Giữa các nhân vật
@@ -561,6 +563,20 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Dorothea Merrow | Isaac Hart | tôi | anh | 285 | Nữ thương nhân nói chuyện với gia sư của Rina |
 | Dieg Esol | Amapola | tôi | cô / Amapola | 285 | Nhị thiếu gia chất vấn nữ Ma Cà Rồng từng thao túng mình |
 | Isaac Hart | * | tôi | mọi người / các vị | 285 | Quản gia quý tộc trưng cầu ý kiến mọi người |
+| Jude Esol | Rudo Merrow | tôi | ông / Rudo | 286 | Hai chủ thương hội trao đổi về biến cố của con cái |
+| Rudo Merrow | Jude Esol | tôi | ông / Jude | 286 | Hai chủ thương hội trao đổi về biến cố của con cái |
+| Dorothea Merrow | Rudo Merrow | con | cha | 286 | Nữ thương nhân nói chuyện với cha sau hai năm xa cách |
+| Rudo Merrow | Dorothea Merrow | cha / ta | con / Dorothea | 286 | Chủ thương hội nói chuyện với con gái sau hai năm xa cách |
+| Dieg Esol | Jude Esol | con | cha | 286 | Nhị thiếu gia nói chuyện và xin lỗi cha |
+| Jude Esol | Dieg Esol | cha | con / Dieg | 286 | Chủ thương hội nói chuyện với con trai sau biến cố |
+| Dorothea Merrow | Jude Esol | cháu | Bác Jude / bác | 286 | Nữ thương nhân nói chuyện với cha của Dieg |
+| Jude Esol | Dorothea Merrow | bác / ta | cháu / Dorothea | 286 | Chủ thương hội nói chuyện với con gái của bạn thân |
+| Dieg Esol | Rudo Merrow | cháu | Chủ Thương Hội Rudo / bác | 286 | Nhị thiếu gia xin phép cha của Dorothea |
+| Rudo Merrow | Dieg Esol | ta | cậu / cậu Dieg | 286 | Chủ thương hội nói chuyện với nhị thiếu gia gia tộc đối thủ |
+| Amapola | Isaac Hart | tôi | ngài Isaac / ngài | 286 | Nữ Ma Cà Rồng phục vụ với tư cách gia nhân của Gia tộc Latuule |
+| Isaac Hart | Amapola | ta / tôi | Amapola / cô | 286 | Quản gia huấn luyện gia nhân mới của Gia tộc Latuule |
+| Rina Rupaage | Amapola | tôi | cô / Amapola | 286 | Nữ mạo hiểm giả nói chuyện với gia nhân mới của Gia tộc Latuule |
+| Amapola | Rina Rupaage | tôi | cô / Rina | 286 | Nữ Ma Cà Rồng gia nhân nói chuyện với khách quen của Gia tộc Latuule |
 
 
 

@@ -290,7 +290,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 283 |  | Chapter_283 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (1) | reviewed |  |
 | 284 |  | Chapter_284 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (2) | done |  |
 | 285 |  | Chapter_285 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (3) | done |  |
-| 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | todo |  |
+| 286 |  | Chapter_286 - Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4).txt | Vol 12 Chapter 4 - Meanwhile, the Apprentices... Part 3 (4) | done |  |
 | 287 |  | Chapter_287 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (1) | todo |  |
 | 288 |  | Chapter_288 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (2) | todo |  |
 | 289 |  | Chapter_289 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (3) | todo |  |
@@ -346,7 +346,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 339 |  | Chapter_339 - Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3).txt | Vol 14 Chapter 5 - Lorraine’s Monster Tamer Training (3) | todo |  |
 
 ## Cần user xác nhận
-
 
 
 ## Đã quyết
@@ -952,3 +951,6 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#285] Thuật ngữ 'progenitor' (chỉ Ma Cà Rồng tạo ra hoặc nắm quyền kiểm soát hậu duệ) — tạm chọn 'kẻ tạo tác' nhất quán với #284 (phương án khác: 'Ma Cà Rồng chủ', 'chủ nhân huyết tộc', 'người tạo tác'). Tạm dùng trong bản dịch: 'kẻ tạo tác'. → Giữ 'kẻ tạo tác' như đã dịch và cập nhật trong glossary.md. (orchestrator)
 - [#285] Dịch động từ 'Splintered' khi Isaac dùng kỹ năng hồi phục cho Amapola — tạm dịch 'thi triển Phân Liệt' đồng bộ với kỹ năng 'Division / Splintering → Phân Liệt' trong glossary.md (phương án khác: 'vận dụng Phân Liệt', 'phân tách cơ thể'). Tạm dùng trong bản dịch: 'thi triển Phân Liệt'. → Giữ 'thi triển Phân Liệt' và alias trong glossary.md. (orchestrator)
 - [#285] Xưng hô giữa Isaac Hart và Amapola — Isaac xưng 'tôi', gọi 'cô / quý cô', Amapola xưng 'tôi', gọi 'ngài / anh' (khi biết ơn và quy thuận) theo tác phong quản gia lịch thiệp và nữ Ma Cà Rồng nhận chủ (phương án khác: Amapola xưng 'tôi', gọi 'anh' hoàn toàn). Tạm dùng trong bản dịch: Isaac xưng 'tôi' gọi 'cô / quý cô', Amapola xưng 'tôi' gọi 'anh / ngài'. → Giữ Isaac xưng 'tôi' gọi 'cô / quý cô', Amapola xưng 'tôi' gọi 'anh / ngài' như đã cập nhật trong pronouns.md. (orchestrator)
+- [#286] Dịch danh xưng 'Director Rudo' của cha Dorothea khi Dieg thưa chuyện — tạm chọn 'Chủ Thương Hội Rudo' (phương án khác: 'Hội Trưởng Rudo', 'Chủ tịch Rudo'). Tạm dùng trong bản dịch: 'Chủ Thương Hội Rudo'. → Giữ 'Chủ Thương Hội Rudo' như đã dịch và cập nhật trong characters.md. (orchestrator)
+- [#286] Xưng hô giữa hai người cha (Rudo Merrow và Jude Esol) — tạm chọn 'tôi - ông / Rudo / Jude' theo văn phong hai chủ thương hội lâu năm, tôn trọng và thân tình (phương án khác: 'tôi - anh'). Tạm dùng trong bản dịch: 'tôi - ông / Rudo / Jude'. → Giữ 'tôi - ông / Rudo / Jude' như đã cập nhật trong pronouns.md. (orchestrator)
+- [#286] Cảnh báo QA check 'Laura Satii' ở chương 286 — raw dùng 'Lola' trong thoại thân mật của Rina ('Raiz and Lola'), bản dịch dùng 'Raiz và Laura' theo lưu ý tại characters.md và văn phong đời thường. Tạm dùng trong bản dịch: giữ 'Raiz và Laura', bỏ qua cảnh báo false positive. → Giữ 'Raiz và Laura' theo quy ước characters.md, cảnh báo QA là false positive. (orchestrator)

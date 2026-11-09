@@ -971,3 +971,10 @@ Rina cùng Isaac dẫn Amapola bị trói đến hội ngộ nhóm Dorothea; Dor
 Dieg tỉnh lại, đau đớn nhận lỗi với Dorothea và buồn bã chất vấn Amapola; Isaac đề nghị áp giải Amapola đến thị trấn lớn phân xử (để đưa về dinh thự Latuule).
 Cảnh kết thúc: Mọi người nhất trí với đề xuất của Isaac và cùng lũ trẻ an toàn trở về ngôi làng gần đó.
 
+## 286
+Tại thị trấn tỉnh lỵ, Isaac dàn xếp phiên xử thần tốc: Guster bị đày đi lao động khổ sai ở hầm mỏ, còn Amapola được làm giả án tử hình và giao nộp hũ tro cốt để che mắt Thợ Săn Ma Cà Rồng; sau đó Isaac tách nhóm về trước.
+Trở về Maalt, cha của Dorothea (Rudo Merrow) và cha của Dieg (Jude Esol) đã đợi sẵn ở Hội; sau khi nghe rõ đầu đuôi, Rudo tha thứ cho Dieg, còn Dieg xin cha khai trừ khỏi Thương hội Esol để bắt đầu lại từ con số không, rồi nhận lời đồng hành học hỏi cùng Dorothea với sự chúc phúc của hai người cha.
+Rina hoàn thành ủy thác hộ vệ và tới dinh thự Latuule báo cáo; Isaac khích lệ giúp cô rũ bỏ tự ti trước cái bóng của Rentt và Lorraine, đồng thời triệu hồi Amapola—nay đã thành gia nhân mặc đồ hầu gái và học được kỹ năng Phân Liệt từ bóng tối.
+Amapola giải thích việc nhắm vào Dieg vì mặc cảm tự ti của anh trước người anh trai dễ bị thuật mị hoặc thao túng hơn tâm hồn lạc quan của Dorothea, đồng thời thừa nhận một phần muốn cổ vũ Dieg vì anh từng cho cô ta ăn và nương náu.
+Cảnh kết thúc: Amapola nói chưa gặp nữ chủ nhân vì cô bé còn đang ngủ, Isaac thản nhiên nhận định chỉ Laura mới biết mình sẽ thức dậy vào ngày mai hay một trăm năm nữa, khiến Rina cảm thán về đặc tính của loài Ma Cà Rồng.
+

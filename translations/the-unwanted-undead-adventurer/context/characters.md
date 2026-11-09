@@ -143,6 +143,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Dieg Esol | Dieg | Dieg Esol | Nhị thiếu gia của gia tộc Esol tại thành phố Mystera, kẻ thuê Guster cản trở Dorothea (#282) | #282 |
 | Amapola |  | Amapola | Nữ ma pháp sư lữ hành đi cùng Dieg Esol, kẻ thao túng tâm trí Dieg (#282) | #282 |
 | Zein |  | Zein | Thợ săn tại ngôi làng miền núi thứ ba, dẫn đường cho Dorothea và Rina vào rừng hái cỏ afto | #283 |
+| Rudo Merrow | Rudo | Rudo Merrow | Chủ Thương hội Merrow tại thành phố Mystera, cha của Dorothea Merrow | #286 |
+| Jude Esol | Jude | Jude Esol | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol | #286 |
+| Director Rudo |  | Chủ Thương Hội Rudo | Cách gọi kèm chức vụ của Rudo Merrow | #286 |
+| Uncle Jude |  | Bác Jude | Cách gọi thân mật kính trọng Dorothea dùng cho Jude Esol | #286 |
 
 
 ## Chi tiết
@@ -881,3 +885,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Đặc điểm: Hồi trẻ sống gần vương đô, quen nhiều mạo hiểm giả; khen Rina là một trong những mạo hiểm giả giỏi nhất từng thấy (#283).
 - Trạng thái (đến #285): Bắn trúng Guster nhờ bóng đen của Isaac đánh lệch dao găm của tên cướp; cùng mọi người đưa lũ trẻ an toàn trở về làng (#285).
 - Xuất hiện từ: #283.
+
+### Rudo Merrow
+- Thân phận: Nam, trung niên, chủ Thương hội Merrow (Merrow Company) tại thành phố Mystera; cha của Dorothea Merrow (#286).
+- Tính cách: Thấu tình đạt lý, biết nhìn xa trông rộng, yêu thương con gái; khâm phục ý chí tự lập của Dorothea và rộng lòng tha thứ cho Dieg vì hiểu anh bị Ma Cà Rồng thao túng (#286).
+- Xuất hiện từ: #286 (được nhắc đến từ #282).
+
+### Jude Esol
+- Thân phận: Nam, trung niên, chủ Thương hội Esol (Esol Company) lâu đời tại thành phố Mystera; cha của Dieg Esol (#286).
+- Tính cách: Nghiêm khắc, công minh, trọng chữ tín và danh dự thương nhân; sẵn sàng nhận lỗi và trừng phạt con trai gây họa nhưng tôn trọng quyết định tự lập làm lại từ đầu của Dieg (#286).
+- Xuất hiện từ: #286 (được nhắc đến từ #282).
