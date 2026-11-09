@@ -1131,6 +1131,13 @@ Rentt đồng ý kế hoạch sớm về thăm Làng Hathara gặp cha nuôi, Ca
 Cả hai lên phòng thí nghiệm; Lorraine mở hộp thả Slime tí hon trạc ngón tay út ra bàn để chuẩn bị thí nghiệm chọi Slime đo đạc hiệu suất hấp thụ Ma Lực từ chiếc cốc.
 Cảnh kết thúc: Rentt thắc mắc cách đưa chiếc cốc quá khổ cho con Slime tí hon, và Lorraine chuẩn bị bắt đầu thí nghiệm bằng phương pháp hiển nhiên nhất.
 
+## 311
+Rentt và Lorraine hào hứng cá cược và chứng kiến trận đấu giữa hai con Slime tí hon trong chiếc cốc; con Slime đỏ chiến thắng nuốt chửng Slime lam, và chiếc cốc lập tức thu gom Ma Lực tĩnh bộc phát truyền thẳng vào hạch tâm con thắng cuộc.
+Dùng thiết bị đo đạc chuyên dụng từ Học Viện và Tòa Tháp của Đế Quốc, Lorraine và Rentt xác nhận chiếc cốc giúp tăng hiệu suất hấp thụ Ma Lực lên xấp xỉ ba lần; sau nhiều trận chọi Slime, con Slime lớn bằng quả trứng không còn vừa cốc để tiếp tục thí nghiệm, và ý định biến nó thành quyến thuộc của Rentt bị bác bỏ do nguy cơ nhiễm Ma Lực gây biến đổi chủng loài.
+Để tìm cách điều khiển quái vật cầm chiếc cốc, cả hai quyết định trở về Làng Hathara nhờ cha nuôi của Rentt là Trưởng làng Ingo Faina chỉ dạy kỹ năng người thuần hóa quái vật.
+Do kỳ thi thăng hạng Ngân Cấp chỉ còn chưa đầy một tháng, Lorraine dùng viên đá xanh lam từng được Capitan và bà Gharb tặng đập vỡ dưới tầng hầm kiên cố ở ngoại ô Maalt, kích hoạt ma pháp trận dịch chuyển vĩnh viễn thông tới thành phố ngầm của Hiền Vương Felt ở Đế Quốc Rermutt (nơi có cổng nối về Hathara).
+Cảnh kết thúc: Ma pháp trận dịch chuyển thành hình, Rentt và Lorraine sẵn sàng bước qua để về thăm Hathara.
+
 
 
 

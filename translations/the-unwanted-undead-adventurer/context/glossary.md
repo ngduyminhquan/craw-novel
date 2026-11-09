@@ -49,6 +49,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Mana |  | Ma Lực | hệ thống | 2 | Năng lượng thi triển ma pháp |
 | Spirit |  | Khí Lực | hệ thống | 2 | Sinh mệnh lực / khí cơ thể (Prana/Chakra) |
 | Divinity | divinity | Thần Lực | hệ thống | 2 | Năng lượng thần thánh từ thần linh hoặc tinh linh |
+| Static mana | static mana | Ma Lực tĩnh | hệ thống | 310 | Ma Lực mất ổn định thoát ra khi quái vật bị tiêu diệt (静止魔力) |
 | Giant Skeleton | the Giant Skeleton; Giant Skeletons | Khô Lâu Khổng Lồ | quái vật | 18 | Khô Lâu khổng lồ mang sức mạnh của Cự Nhân |
 | Soldier Skeleton | Soldier Skeletons; Skeleton Soldier; Skeleton Soldiers | Khô Lâu Binh | quái vật | 18 | Phân loài Khô Lâu trang bị kiếm và giáp vụn |
 | Poison Slime | Poison Slimes | Slime Độc | quái vật | 18 | Phân loài Slime chứa độc tính |
@@ -125,7 +126,7 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | Church of Lobelia | the Church of Lobelia; Lobelia; the Lobelians; Lobelians; Lobelian | Giáo Hội Lobelia | tổ chức | 57 | Giáo hội có thế lực lớn ở các vương quốc phía tây, có nhà thờ nhỏ tại Maalt và nổi tiếng với Nước Thánh phẩm cấp cao (ロベリア教会) |
 | dissection specialist | dissection specialists | chuyên gia mổ xẻ | chức nghiệp | 58 | Chuyên gia phân tách, xẻ thịt và xử lý xác quái vật tại Hội Mạo Hiểm Giả |
 | healer | healers | thầy trị liệu | chức nghiệp | 50 | Người hành nghề chữa trị, trị liệu bệnh tật vết thương |
-| herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược |
+| herbalist | herbalists | dược sư | chức nghiệp | 41 | Người tinh thông cây thuốc, thu hái và bào chế thảo dược (riêng bà Gharb ở Làng Hathara gọi là bà lão làm thuốc theo characters.md) |
 | Magecraft |  | ma thuật | kỹ năng | 60 | Nghệ thuật sử dụng Ma Lực thi triển các phép thuật huyền bí (魔術) |
 | Latuule Family | the Latuule Family; the Latuules; Latuules; House Latuule | Gia tộc Latuule | tổ chức | 61 | Gia tộc lâu đời, quyền thế có ảnh hưởng sâu rộng đến kinh tế thị trấn Maalt (ラトゥール家) |
 | Divine Tools | Divine Tool; divine item; divine items | Thần Cụ | vật phẩm | 62 | Phân loại ma cụ mang sức mạnh thần thánh hoặc tạo tác của thần linh (神具) |
