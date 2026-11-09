@@ -512,6 +512,9 @@ Chỉ thêm tên riêng và thuật ngữ cố định lặp lại nhiều chư�
 | sacred sword | sacred swords | thánh kiếm | vật phẩm | 22 | Kiếm thần thánh trong truyền thuyết hoặc mê cung có tri giác lựa chọn chủ nhân (聖剣) |
 | magical sword | magical swords; magic sword; magic swords | ma kiếm | vật phẩm | 22 | Kiếm ma thuật sở hữu năng lực đặc biệt hoặc yểm ma pháp (魔剣) |
 | Gist Gorge |  | Hẻm Núi Gist | địa danh | 294 | Vực hẻm núi có vách đá mọc loài hoa đặc thù trong ủy thác thu thập |
+| Crask | Crask Village | Làng Crask | địa danh | 295 | Ngôi làng nhỏ nằm ở phía tây Maalt dọc theo Sông Neris |
+| Neris River |  | Sông Neris | địa danh | 295 | Con sông chảy qua phía tây Maalt gần Làng Crask |
+
 
 
 

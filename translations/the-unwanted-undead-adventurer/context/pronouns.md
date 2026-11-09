@@ -112,6 +112,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rudo Merrow | Rudo / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Merrow tại thành phố Mystera, cha của Dorothea Merrow |
 | Jude Esol | Jude / cha / ông ấy / người đàn ông | 286 | Chủ Thương hội Esol tại thành phố Mystera, cha của Dieg Esol |
 | Rivul | Rivul / cậu thanh niên / chàng trai / cậu ấy | 294 | Chàng thanh niên dân làng đến Maalt đăng ủy thác diệt Khô Lâu |
+| Jiris | Jiris / ông lão / người đàn ông / Trưởng thôn Jiris | 295 | Trưởng thôn Làng Crask |
+
 
 
 ## Giữa các nhân vật
@@ -586,6 +588,11 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rivul | Rentt Faina | tôi | anh / anh Rentt | 294 | Thân chủ trẻ tuổi nói chuyện và nhờ cậy mạo hiểm giả |
 | Sheila Ibarss | Rivul | tôi | cậu / cậu Rivul | 294 | Tiếp tân viên Hội giải thích và nhẹ nhàng nhắc nhở thân chủ |
 | Rivul | Sheila Ibarss | tôi | cô | 294 | Thân chủ phân trần với tiếp tân viên Hội |
+| Rentt Faina | Jiris | tôi | ông / Trưởng thôn Jiris | 295 | Mạo hiểm giả nói chuyện với trưởng thôn lớn tuổi |
+| Jiris | Rentt Faina | tôi | cậu / ngài / ngài Rentt | 295 | Trưởng thôn lớn tuổi cảm kích và tôn trọng mạo hiểm giả |
+| Jiris | Rivul | ta | cháu / Rivul | 295 | Trưởng thôn lớn tuổi nói chuyện với thanh niên trong làng |
+| Rivul | Jiris | cháu | Trưởng thôn / bác Jiris / mọi người | 295 | Thanh niên trong làng nói chuyện với trưởng thôn lớn tuổi |
+
 
 
 

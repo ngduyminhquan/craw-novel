@@ -1029,6 +1029,13 @@ Trong lúc bảng nhiệm vụ chỉ còn lại các ủy thác không phù hợ
 Thấy hai bên cùng gặp vận rủi, Rentt tiến lại hỏi thăm rồi cùng Rivul chuyển sang bàn quán rượu liền kề của Hội để lắng nghe đầu đuôi câu chuyện; anh vô cùng hứng thú khi biết Rivul đang cần thuê người tiêu diệt lũ Khô Lâu bất ngờ xuất hiện quấy nhiễu ngôi làng bình yên của cậu.
 Cảnh kết thúc: Rivul bắt đầu kể cho Rentt nghe về ngôi làng nơi cậu từng sinh sống.
 
+## 295
+Rivul kể cho Rentt nghe về Làng Crask nằm dọc Sông Neris ở phía tây Maalt: một ngôi làng nhỏ bé, khép kín, tự cung tự cấp và may mắn gặp được thương nhân lữ hành thật thà nên có cuộc sống yên bình; tuy nhiên sự xuất hiện bất ngờ của bầy Khô Lâu đã buộc phụ nữ và trẻ em phải sơ tán, còn cánh đàn ông ở lại từ xa canh giữ làng và cử Rivul đi cầu cứu.
+Rentt nhận ủy thác và cùng Rivul lên đường ngay; sau một ngày đi xe đến thị trấn gần nhất, Rentt quyết định đi bộ vào rừng lúc chiều muộn để kịp hội quân với nhóm đàn ông làng Crask đang kiệt sức canh gác trên ngọn đồi nhìn xuống làng.
+Nhóm Rentt gặp gỡ Trưởng thôn Jiris cùng 4 người dân làng; Jiris vô cùng cảm kích khi một mạo hiểm giả Đồng Cấp chịu nhận mức thù lao ít ỏi; Rentt dự định sẽ dọn dẹp Khô Lâu vào ban ngày ngày mai để tránh nguy hiểm và từ chối lời đề nghị cùng tham chiến của dân làng để bảo toàn tính mạng cho họ.
+Cảnh kết thúc: Dân làng nhao nhao muốn xả thân giúp sức dẫu chỉ làm tấm khiên chắn, khiến Rentt nhận ra anh cần phải tìm cách thuyết phục họ ở yên tại chỗ trước khi ra tay.
+
+
 
 
 

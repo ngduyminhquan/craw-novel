@@ -299,7 +299,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 292 |  | Chapter_292 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (6) | reviewed |  |
 | 293 |  | Chapter_293 - Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7).txt | Vol 12 Chapter 5 - Maalt, Sweet Maalt, and a Visit to the Blacksmith (7) | done |  |
 | 294 |  | Chapter_294 - Vol 12 Chapter 6 - A Certain Request (1).txt | Vol 12 Chapter 6 - A Certain Request (1) | done |  |
-| 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | todo |  |
+| 295 |  | Chapter_295 - Vol 12 Chapter 6 - A Certain Request (2).txt | Vol 12 Chapter 6 - A Certain Request (2) | done |  |
 | 296 |  | Chapter_296 - Vol 12 Chapter 6 - A Certain Request (3).txt | Vol 12 Chapter 6 - A Certain Request (3) | todo |  |
 | 297 |  | Chapter_297 - Vol 12 Chapter 6 - A Certain Request (4).txt | Vol 12 Chapter 6 - A Certain Request (4) | todo |  |
 | 298 |  | Chapter_298 - Vol 12 Bonus - The Dragonfish.txt | Vol 12 Bonus - The Dragonfish | todo |  |
@@ -965,3 +965,5 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 - [#293] Cảnh báo QA 'familiar' ở đoạn 40: raw dùng tính từ 'I was familiar enough with swords' (hiểu biết về kiếm), không phải danh từ thuật ngữ 'quyến thuộc' trong glossary.md — Tạm dùng trong bản dịch: bỏ qua cảnh báo, dịch tự nhiên thành 'Tôi đủ hiểu biết về kiếm' theo ngữ cảnh (phương án khác: không có). → Bỏ qua cảnh báo (false positive do tính từ 'familiar enough'), giữ bản dịch tự nhiên 'Tôi đủ hiểu biết về kiếm'. (orchestrator)
 - [#294] Tiêu đề chương/arc 'A Certain Request' — tạm chọn 'Một Ủy Thác Nọ' (đồng bộ với 'A Certain Undead...' -> 'Undead Nọ' ở #12 và 'Request' -> 'Ủy Thác' ở #213; phương án khác: 'Một Lời Ủy Thác', 'Một Ủy Thác Nào Đó'). → Chấp nhận 'Một Ủy Thác Nọ' (nhất quán với các tiêu đề chương trước). (orchestrator)
 - [#294] Kính ngữ 'Master Rivul' khi tiếp tân viên Sheila xưng hô với thân chủ Rivul — tạm chọn 'cậu Rivul' (phù hợp thân phận chàng thanh niên trẻ từ làng quê; phương án khác: 'ngài Rivul'). → Chấp nhận 'cậu Rivul' (phù hợp tuổi tác và thân phận thanh niên trẻ từ làng quê). (orchestrator)
+- [#295] Kính ngữ 'Master Rentt' khi Trưởng thôn Jiris xưng hô với Rentt — tạm chọn 'ngài Rentt' (thể hiện sự tôn trọng, biết ơn của vị trưởng thôn lớn tuổi với mạo hiểm giả đến giúp làng; phương án khác: 'cậu Rentt'). → Chấp nhận 'ngài Rentt' (phù hợp thái độ tôn trọng của Trưởng thôn Jiris đối với mạo hiểm giả nhận ủy thác). (orchestrator)
+- [#295] Dịch địa danh 'Crask / Crask Village' và 'Neris River' — tạm chọn 'Làng Crask' và 'Sông Neris' (nhất quán với các địa danh làng mạc ven sông khác quanh Maalt; phương án khác: giữ nguyên 'Crask', 'Neris'). → Chấp nhận 'Làng Crask' và 'Sông Neris' (nhất quán với quy tắc địa danh trong glossary). (orchestrator)
