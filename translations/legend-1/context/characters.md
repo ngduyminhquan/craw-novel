@@ -36,7 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 32: Tham gia tập kích đêm bộ lạc Orc; cùng Set hạ 1 Orc Archer đi lẻ, chặn đứng toán Orc bọc sườn hạ 1 Orc Mage cùng bầy Orc bảo vệ Rìu Lôi Thần; chuẩn bị đối đầu nhóm Ngôi Sao Màn Đêm.
+- Trạng thái tính đến chương 35: Tham gia tập kích đêm bộ lạc Orc; cùng Set hạ 6 Orc Archer, 1 Orc Mage, 1 Orc General; một mình quét sạch toàn bộ tổ đội phản trắc Ngôi Sao Màn Đêm (Murgas, Snee, Al, Ceryl); tiếp tục cùng Set bay lượn hỗ trợ chiến dịch.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -107,6 +107,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nữ mạo hiểm giả Hạng C khoảng ngoài 30 tuổi, trưởng nhóm Ngôi Sao Màn Đêm.
 - Thực dụng, nham hiểm; tham gia chiến dịch diệt Orc nhằm cướp Hộp Vật Phẩm của Rei để bán lấy tiền về vương đô sống xa hoa.
 - Cách nói chuyện: với đàn em (Al, Snee, Murgas) khi trao đổi bình thường xưng 'chị', chỉ khi nổi giận hay độc thoại mới xưng 'tao'; đàn em không dùng 'dạ / ạ' với Ceryl.
+- Trạng thái: Bị Rei dùng Lưỡi Hái Tử Thần chém lìa đầu tiêu diệt ở chương 35 khi toan đem thân xác mồi chài xin tha mạng.
 
 ### Al
 - Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.

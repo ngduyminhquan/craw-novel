@@ -95,3 +95,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Al | Rei | tao | mày | 34 | Khiêu chiến trong cuộc tập kích đoạt mạng |
 | Rei | Al | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |
 | Rei | Ceryl | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |
+| Ceryl | Rei | tao / tôi | mày / cậu | 35 | Đối đầu sống chết với Rei, khi dồn vào đường cùng xưng tao - mày; khi dụ dỗ van xin xưng tôi - cậu |
