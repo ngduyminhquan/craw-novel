@@ -33,3 +33,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Trái ngược vẻ ngoài hung dữ của loài Griffin, Set cực kỳ thân thiện, thích làm nũng, ham ăn, thích đồ lấp lánh, thông minh và hiểu tiếng người.
 - Cách nói chuyện: Kêu `"Gùuu"`, `"Gừưư"`, `"Grrr!"` và biểu đạt qua cử chỉ dụi đầu, nghiêng đầu.
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
+- Chương 6: Nuốt Ma Thạch của Gấu Nước và học được kỹ năng [Thủy Cầu Lv.1].

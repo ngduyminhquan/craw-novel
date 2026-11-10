@@ -38,3 +38,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lana | Rei | tôi / cô | cậu / quý khách | 15 | Lịch sự, niềm nở |
 | Rei | Drum | tôi | anh | 15 | Lịch sự |
 | Drum | Rei | tôi | cậu | 15 | Lịch sự, hiền lành |
+| Rei | Suzunose Takumu | tôi | cậu | 6 | Rei nhắc tới Takumu như người đồng hương Nhật Bản đã khuất |
