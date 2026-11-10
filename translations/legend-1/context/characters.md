@@ -8,7 +8,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Set | セト | Set | Ma thú Griffin đồng hành cùng Rei | Chương 2 |
 | Zepairu | ゼパイル; ゼパイル・ゾンド | Zepairu | Đại ma thuật sư hệ Hỏa, truyền nhân cuối cùng của phái Ma Thú Thuật | Chương 1 |
 | Suzunose Takumu | タクム・スズノセ; タクム | Suzunose Takumu | Số thuật sư người Nhật trong môn phái của Zepairu (đã mất) | Chương 2 |
-| Liziopne | リズィ・フロー; リズィ | Liziopne | Không gian ma thuật sư trong môn phái của Zepairu | Chương 2 |
+| Lizzie Flow | リズィ・フロー; リズィ | Lizzie Flow | Không gian ma thuật sư trong môn phái của Zepairu | Chương 2 |
 | Esta Noor | エスタ・ノール; エスタ | Esta Noor | Giả kim thuật sư trong môn phái của Zepairu | Chương 2 |
 | Ranga | ランガ | Ranga | Đội trưởng đội cảnh vệ thành phố Gilm | Chương 10 |
 | Kenny | ケニー | Kenny | Nhân viên tiếp tân Hội Mạo Hiểm Giả ở Gilm | Chương 12 |

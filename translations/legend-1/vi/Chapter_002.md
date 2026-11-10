@@ -116,7 +116,7 @@ Một cảm giác kỳ lạ thoáng gợn lên trong đầu cậu. Cất một c
 
 "Ra vậy, món này quả thực còn giá trị hơn vạn lượng ngọc ngà châu báu."
 
-Theo tri thức từ Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Hơn nữa, nó chính là tuyệt tác kết tinh kỹ thuật đỉnh cao do hai bậc thầy về Không Gian Ma Thuật cùng Giả Kim Thuật xuất chúng nhất thế giới trong môn phái của Zepairu là Liziopne và Esta Noor chủ trì chế tác, với sự trợ giúp của Số thuật sư Takumu; toàn bộ những Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu từng nhắc tới đều nằm gọn bên trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Rõ ràng là vòng tay sao lại gọi là nhẫn nhỉ? Cậu thoáng thắc mắc, nhưng có lẽ đó chỉ là sở thích của người tạo ra món Đạo Cụ Ma Thuật này mà thôi.
+Theo tri thức từ Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Hơn nữa, nó chính là tuyệt tác kết tinh kỹ thuật đỉnh cao do hai bậc thầy về Không Gian Ma Thuật cùng Giả Kim Thuật xuất chúng nhất thế giới trong môn phái của Zepairu là Lizzie Flow và Esta Noor chủ trì chế tác, với sự trợ giúp của Số thuật sư Takumu; toàn bộ những Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu từng nhắc tới đều nằm gọn bên trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Rõ ràng là vòng tay sao lại gọi là nhẫn nhỉ? Cậu thoáng thắc mắc, nhưng có lẽ đó chỉ là sở thích của người tạo ra món Đạo Cụ Ma Thuật này mà thôi.
 
 Reiji nhếch mép cười, tạm thời đặt Nhẫn Sương Mù lại vào trong hộp trang sức rồi rảo bước về phía ma pháp trận ở tận cùng căn phòng.
 
