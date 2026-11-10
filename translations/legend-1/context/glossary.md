@@ -54,7 +54,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | スレイプニル |  | Sleipnir | quái vật | 4 | Ma vật dạng ngựa tám chân chạy cực nhanh và có thể đạp gió trên không |
 | ユニコーン |  | Unicorn | quái vật | 4 | Ma vật huyền bí dạng ngựa một sừng |
 | マンドラゴラ |  | Mandragora | vật phẩm | 4 | Thảo dược ma thuật quý hiếm hình người |
-| 魔力回復ポーション |  | Thuốc Hồi Phục Ma Lực | vật phẩm | 4 | Thuốc giúp hồi phục lượng ma lực đã tiêu hao |
+| 魔力回復ポーション | マナポーション | Thuốc Hồi Phục Ma Lực | vật phẩm | 4 | Thuốc giúp hồi phục lượng ma lực đã tiêu hao |
 | ソート機能 |  | Tính Năng Sắp Xếp | hệ thống | 4 | Chức năng sắp xếp danh mục vật phẩm trong Nhẫn Sương Mù do Takumu cài đặt |
 | 舞い踊る炎蛇 |  | Vũ Điệu Hỏa Xà | kỹ năng | 5 | Ma thuật hệ Hỏa phóng ra rắn lửa từ vật phát động thiêu rụi mục tiêu từ bên trong |
 | ミスリル |  | Mithril | vật phẩm | 6 | Khoáng thạch quý hiếm có độ tương thích ma lực cao |
@@ -114,3 +114,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 咲き誇る炎華 |  | Diễm Hoa Nở Rộ | kỹ năng | 21 | Ma thuật hệ Hỏa do Rei sáng tạo mô phỏng pháo hoa, bắn khối lửa rồi nổ bung thành nhiều quả cầu lửa nhỏ |
 | ブロンズナイフ |  | Dao Đồng | vật phẩm | 21 | Dao găm bằng đồng dùng để mổ xẻ quái vật |
 | 腐食 |  | Ăn Mòn | kỹ năng | 22 | Kỹ năng của Lưỡi Hái Tử Thần, chém vào trang bị kim loại của mục tiêu để ăn mòn; viết hoa khi là tên kỹ năng: Ăn Mòn; viết thường khi là động từ: bị ăn mòn |
+| ギルドマスター |  | Hội Trưởng | chức nghiệp | 23 | Người đứng đầu chi nhánh Hội Mạo Hiểm Giả |

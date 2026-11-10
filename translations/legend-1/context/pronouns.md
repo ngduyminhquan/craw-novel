@@ -19,6 +19,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Suzunose Takumu | anh ta | 2 | Số thuật sư người Nhật trong môn phái Zepairu |
 | Gran | người đàn ông / Gran | 14 | Cựu mạo hiểm giả phụ trách thăng hạng ở Hội |
 | Rowlocks | ông / Bá tước biên cảnh Rowlocks | 20 | Chúa tể cai quản thành Gilm |
+| Lenora | cô | 23 | Nhân viên tiếp tân Hội Mạo Hiểm Giả Gilm |
+| Kenny | cô | 23 | Nhân viên tiếp tân Hội Mạo Hiểm Giả Gilm, thú nhân mèo |
 
 ## Giữa các nhân vật
 
@@ -49,3 +51,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Runo | Gran | tôi | Gran / anh | 14 | Quen biết ở Hội |
 | Rowlocks | Ranga | ta | anh | 20 | Lãnh chúa nói với đội trưởng cảnh vệ |
 | Ranga | Rowlocks | tôi | ngài / Bá tước | 20 | Đội trưởng cảnh vệ kính cẩn với lãnh chúa |
+| Lenora | Kenny | tớ | cậu / Kenny | 23 | Bạn đồng nghiệp thân thiết, hay cãi cọ |
+| Kenny | Lenora | tớ | cậu / Lenora | 23 | Bạn đồng nghiệp thân thiết, hay cãi cọ |

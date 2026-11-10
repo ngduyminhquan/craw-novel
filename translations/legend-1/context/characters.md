@@ -68,3 +68,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Rowlocks
 - Đàn ông trung niên khoảng 40 tuổi, mặt bặm trợn có râu mép, phong thái võ tướng nhưng điềm tĩnh và thực tế.
+
+### Lenora
+- Vẻ ngoài: Nữ tiếp tân có mái tóc đuôi ngựa, tự ti về vòng một nhỏ.
+- Tính cách: Nghiêm túc, cẩn trọng, hay đấu khẩu với cô bạn đồng nghiệp Kenny.
+
+### Kenny
+- Vẻ ngoài: Nữ tiếp tân thuộc chủng tộc thú nhân mèo, thân hình dẻo dai gợi cảm, vòng một nảy nở.
+- Tính cách: Tinh nghịch, thích trêu chọc, thực dụng và hay để mắt tới các tân binh triển vọng như Rei.
