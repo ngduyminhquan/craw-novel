@@ -136,7 +136,7 @@ Gật đầu đồng tình trước đề xuất của Rei, Set khom người xu
 
 "Gừưư!"
 
-Cất tiếng kêu dõng dạc, Set lấy đà vài bước rồi dang rộng đôi cánh đại bàng vỗ mạnh. Nhìn tốc độ lao vút lên không trung như thể đang đạp vào thinh không, Rei bất giác mỉm cười; đồng thời khi phát hiện một đàn Soldier Ant khác đang kéo tới đúng chỗ cả hai vừa đứng, cậu không khỏi nở nụ cười vì đã kịp thời tránh được một trận chiến dây dưa.
+Cất tiếng kêu dõng dạc, Set lấy đà vài bước rồi dang rộng đôi cánh đại bàng vỗ mạnh. Nhìn tốc độ lao vút lên không trung như thể đang đạp vào thinh không, Rei bất giác mỉm cười; lại thấy một đàn Soldier Ant khác đang kéo tới đúng chỗ cả hai vừa đứng, cậu mừng thầm vì đã kịp tránh được một trận chiến dây dưa.
 
 "Chắc phải mất thêm một lúc nữa chúng mới tới được chỗ tao với mày vừa hạ lũ kia, nhưng nếu cứ đứng đó thì kiểu gì cũng bị cuốn vào một trận chiến tiêu hao. Quyết định sớm đúng là sáng suốt."
 

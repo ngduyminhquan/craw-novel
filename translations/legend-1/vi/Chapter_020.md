@@ -176,7 +176,7 @@ Bá tước biên cảnh Rowlocks gật đầu đồng tình với lời của R
 
 "Rõ ạ."
 
-Phe Quý Tộc. Đó là phe phái tập hợp quanh các đại quý tộc. Hiện tại trong Vương quốc Mireana, ba phe phái gồm Phe Quốc Vương, Phe Quý Tộc và Phe Trung Lập đang tranh giành quyền lực lẫn nhau. Mà thật ra, tỷ lệ tương quan lực lượng là khoảng 6:3:1, Phe Trung Lập mà Bá tước biên cảnh Rowlocks trực thuộc chỉ chiếm thiểu số áp đảo.
+Phe Quý Tộc. Đó là phe phái tập hợp quanh các đại quý tộc. Hiện tại trong Vương quốc Mireana, ba phe phái gồm Phe Quốc Vương, Phe Quý Tộc và Phe Trung Lập đang tranh giành quyền lực lẫn nhau. Mà thật ra, tỷ lệ tương quan lực lượng là khoảng 6:3:1, Phe Trung Lập mà Bá tước biên cảnh Rowlocks trực thuộc chỉ là một nhóm thiểu số lép vế.
 
 Thế nhưng, cũng chính vì thế lực nhỏ bé nên họ thường xuyên bị Phe Quý Tộc hùng mạnh hơn quấy rối. Nếu cái đám đó mà chọc ngoáy vào cậu thiếu niên tên Rei đang dẫn theo quái vật Hạng A Griffin... Nghĩ tới viễn cảnh có thể xảy ra sau đó, gương mặt Bá tước biên cảnh Rowlocks nhăn nhó như vừa cắn phải bồ hòn.
 
@@ -224,4 +224,4 @@ Một khi đã vay nợ của Hội thì tuyệt đối không thể có chuyệ
 
 "Ai là Nước Dãi Goblin hả trời!"
 
-Hắn vừa gào lên phủ nhận cái tên tổ đội nhục nhã mà Rei đã gán cho cả bọn.
+Hắn gào lên phủ nhận cái tên tổ đội nhục nhã mà Rei đã gán cho cả bọn.

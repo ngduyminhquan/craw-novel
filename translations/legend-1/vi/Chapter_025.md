@@ -174,7 +174,7 @@ Nghe dặn, một nhóm mạo hiểm giả khoảng bốn người bước lên 
 
 Phía Hội dĩ nhiên muốn nắm rõ kỹ năng của các mạo hiểm giả để tính toán chiến lực cho ủy thác lần này, nhưng có lẽ họ không thể bắt mọi người phải khai hết kỹ năng trước mặt những mạo hiểm giả khác vốn là đối thủ cạnh tranh ngoài ủy thác. Vì thế Bobbs mới rộng rãi cho phép ai muốn giấu kỹ năng nào thì không cần phải nói.
 
-(Rút cuộc chỉ có mỗi mình mình là đi độc hành.)
+(Rốt cuộc chỉ có mỗi mình mình là đi độc hành.)
 
 Cậu thầm nghĩ khi quan sát xung quanh. Ngoài Rei ra, tất cả những người khác đều tham gia theo tổ đội vài người, chỉ duy nhất Rei là lẻ loi một mình trong phòng họp.
 
@@ -194,7 +194,7 @@ Bị thúc ép bởi thái độ dứt khoát không sao từ chối nổi, cậ
 
 Bên cạnh Min đang tấm tắc trầm trồ, Rhodes vẫn trừng mắt nhìn Rei với vẻ đầy nghi ngờ như trước.
 
-"Hừ, rút cuộc cũng chỉ dựa vào Đạo Cụ Ma Thuật hùng mạnh chứ có phải thực lực bản thân đâu. Thế thì tao đây cũng... Á!"
+"Hừ, rốt cuộc cũng chỉ dựa vào Đạo Cụ Ma Thuật hùng mạnh chứ có phải thực lực bản thân đâu. Thế thì tao đây cũng... Á!"
 
 Chưa kịp dứt câu, nắm đấm của Elk đã giáng thẳng xuống đầu cậu ta.
 

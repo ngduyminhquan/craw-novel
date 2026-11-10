@@ -18,7 +18,7 @@ Lấy Thẻ Hội ra từ Nhẫn Sương Mù, Rei đưa cho ông cùng với Vò
 
 Ranga khẽ giật mình trước lời giải thích ấy.
 
-"Dĩ nhiên là ta có nghe... Nhưng dù cậu mạnh thật đấy, hiện tại cậu vẫn chỉ là Hạng G thôi đúng không? Cậu nhận được ủy thác đó thật à?"
+"Dĩ nhiên là tôi có nghe... Nhưng dù cậu mạnh thật đấy, hiện tại cậu vẫn chỉ là Hạng G thôi đúng không? Cậu nhận được ủy thác đó thật à?"
 
 "Lần này là ủy thác khẩn cấp, nghe bảo chỉ cần đủ thực lực hạ gục Orc một mình thì hạng mạo hiểm giả không thành vấn đề."
 
@@ -30,7 +30,7 @@ Ranga khẽ giật mình trước lời giải thích ấy.
 
 Nhận lại Thẻ Hội từ tay Ranga, cậu đưa tay xoa đầu Set khi nó đang cọ cọ vào người như muốn hỏi vẫn chưa đi được sao.
 
-"Xin lỗi nhé, làm mất thời gian của cậu rồi. Với cậu và Set thì ta chẳng lo gì, nhưng nhớ cẩn thận đấy."
+"Xin lỗi nhé, làm mất thời gian của cậu rồi. Với cậu và Set thì tôi chẳng lo gì, nhưng nhớ cẩn thận đấy."
 
 Gật đầu trước lời của Ranga, cậu cùng Set di chuyển ra một bãi cỏ cách cổng chính thành phố một đoạn.
 
@@ -136,7 +136,7 @@ Rhodes vội vã can ngăn, nhưng dĩ nhiên cậu ta chẳng thể cản nổi
 
 Chứng kiến cảnh đó, Elk để mặc Min vẫn đang mải mê xoa lưng Set, quay sang cười trêu con trai.
 
-"C-Con thèm vào cần con Griffin đó thích."
+"C-Con cóc cần con Griffin đó thích."
 
 Elk khẽ thở dài như thể bó tay với cậu con trai. Thấy vậy, Rei liền cất tiếng:
 

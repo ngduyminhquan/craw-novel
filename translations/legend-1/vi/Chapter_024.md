@@ -50,7 +50,7 @@ Tuy nhiên, nếu xuất hiện chủng hiếm hoặc chủng cấp cao đứng 
 
 Lục lại tri thức của Zepairu và thấy có thông tin về Orc, Rei hài lòng nở một nụ cười.
 
-(Giờ thì tính sao đây... Mà thôi, tham gia cũng chẳng vấn đề gì. Dù sao đây là ủy thác khẩn cấp nên mức độ đóng góp cho Hội chắc chắn rất đáng mong chờ. Thù lao cũng hậu hĩnh hơn hẳn các ủy thác khác. Điều kiện tham gia không phụ thuộc vào Hạng cũng là một điểm cộng. Nhân tiện tạo dựng chút danh tiếng để sau này dễ nhận ủy thác tiêu diệt quái vật hạng cao hơn cũng tốt. Điểm bất lợi là sức chiến đấu của mình sẽ bị nhiều người dòm ngó... cơ mà đã đụng độ với tụi Nước Dãi Goblin rồi thì giờ lo chuyện đó cũng bằng thừa. Có điều, cũng nên tính đến khả năng sẽ bị đám người phiền phức bu vào chèo kéo sau khi xong ủy thác này.)
+(Giờ thì tính sao đây... Mà thôi, tham gia cũng chẳng vấn đề gì. Dù sao đây là ủy thác khẩn cấp nên mức độ đóng góp cho Hội chắc chắn rất đáng mong chờ. Thù lao cũng hậu hĩnh hơn hẳn các ủy thác khác. Điều kiện tham gia không phụ thuộc vào hạng cũng là một điểm cộng. Nhân tiện tạo dựng chút danh tiếng để sau này dễ nhận ủy thác tiêu diệt quái vật hạng cao hơn cũng tốt. Điểm bất lợi là sức chiến đấu của mình sẽ bị nhiều người dòm ngó... cơ mà đã đụng độ với tụi Nước Dãi Goblin rồi thì giờ lo chuyện đó cũng bằng thừa. Có điều, cũng nên tính đến khả năng sẽ bị đám người phiền phức bu vào chèo kéo sau khi xong ủy thác này.)
 
 Hoàn toàn không hay biết chuyện lãnh chúa đã truyền chỉ thị xuống Hội Trưởng, rồi Hội Trưởng lại dặn cô tiếp tân quen mặt Lenora phải báo ngay nếu Rei bị mạo hiểm giả khác kiếm chuyện, cậu cân đo đong đếm giữa lợi và hại rồi nhanh chóng thấy mặt lợi vượt trội hơn hẳn.
 
@@ -140,7 +140,7 @@ Tự nhủ thầm trong bụng, Rei ngồi xuống chiếc ghế trống ở gó
 
 "Nhắc mới nhớ, tụi Móng Vuốt Chim Ưng đâu rồi? Bọn chúng không tham gia diệt Orc à?"
 
-"Nghe đâu hồi thua thằng ranh đó, vũ khí với sạch sành sanh tiền bạc đều bị lột sạch, giờ đang lo cày cuốc trả nợ cho Hội sấp mặt thì còn tâm trí đâu nữa."
+"Nghe đâu hồi thua thằng ranh đó, vũ khí với tiền bạc đều bị lột sạch sành sanh, giờ đang lo cày cuốc trả nợ cho Hội sấp mặt thì còn tâm trí đâu nữa."
 
 "Đang nợ nần thì càng phải tham gia chuyến diệt Orc này chứ. Chắc chắn kiếm bộn tiền còn gì."
 

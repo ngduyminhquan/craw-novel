@@ -130,7 +130,7 @@ Như thường lệ, trước ánh mắt kinh ngạc xen lẫn sợ hãi của n
 
 Cứ thế dạo bước trên phố, hai người đã đến trước Hội Mạo Hiểm Giả. Chẳng cần Rei phải dặn dò, Set tự giác đi về phía khu vực chờ dành cho xe ngựa và tùng ma rồi nằm lăn ra đó.
 
-Xoa nhẹ đầu Set, Rei cất bước bước vào bên trong Hội.
+Xoa nhẹ đầu Set, Rei bước vào bên trong Hội.
 
 Bên trong Hội lúc này đã gần trưa, tại khu vực quán rượu có gần mười mạo hiểm giả đang ngồi dùng bữa trưa. Nhưng khi Rei bước vào và tiến về phía quầy tiếp tân, vài người trong số họ vừa ăn vừa dò xét từng cử chỉ của cậu.
 

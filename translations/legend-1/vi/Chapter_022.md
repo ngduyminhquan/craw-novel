@@ -208,7 +208,7 @@ Côn trùng vốn dĩ không có cơ quan gọi là tim mà chỉ có các mạc
 
 Vừa tự hỏi vừa lấy Ma Thạch ra, viên đá to cỡ nắm tay Rei, gần như tương đương kích thước Ma Thạch của con Gấu Nước cậu thu được trong Rừng Ma.
 
-"Đúng là khác hẳn đẳng cấp với Ma Thạch của Goblin. Màu vàng thế này thì là thuộc tính Thổ rồi... Được rồi."
+"Đúng là khác hẳn đẳng cấp với Ma Thạch của Goblin. Màu vàng thế này thì là thuộc tính Địa rồi... Được rồi."
 
 Một tay cầm Ma Thạch, Rei cầm lấy Lưỡi Hái Tử Thần đang đặt trên mặt đất.
 

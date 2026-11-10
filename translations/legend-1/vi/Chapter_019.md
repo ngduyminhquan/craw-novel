@@ -74,7 +74,7 @@ Thế nhưng...
 
 "Đồ ngu."
 
-Dù có sức bật của loài cóc thì rốt cuộc nó cũng chỉ là quái vật Hạng F. Rei bình tĩnh phán đoán quỹ đạo lao tới của đối phương, đưa lưỡi Lưỡi Hái Tử Thần đón đầu ngay trên đường bay rồi khẽ truyền ma lực vào.
+Dù có sức bật của loài cóc thì rốt cuộc nó cũng chỉ là quái vật Hạng F. Rei bình tĩnh phán đoán quỹ đạo lao tới của đối phương, đưa lưỡi hái đón đầu ngay trên đường bay rồi khẽ truyền ma lực vào.
 
 "Ộp!?"
 
