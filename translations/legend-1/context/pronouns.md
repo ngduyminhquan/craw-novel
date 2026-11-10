@@ -21,6 +21,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rowlocks | ông / Bá tước biên cảnh Rowlocks | 20 | Chúa tể cai quản thành Gilm |
 | Lenora | cô | 23 | Nhân viên tiếp tân Hội Mạo Hiểm Giả Gilm |
 | Kenny | cô | 23 | Nhân viên tiếp tân Hội Mạo Hiểm Giả Gilm, thú nhân mèo |
+| Elk | người đàn ông / Elk | 25 | Đội trưởng tổ đội Rìu Lôi Thần |
+| Min | người phụ nữ / cô / Min | 25 | Ma pháp sư tổ đội Rìu Lôi Thần |
+| Rhodes | cậu thiếu niên / chàng trai / Rhodes | 25 | Con trai của Elk và Min |
+| Bobbs | người đàn ông / Bobbs | 25 | Chỉ huy chiến dịch thảo phạt Orc |
 
 ## Giữa các nhân vật
 
@@ -55,3 +59,18 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kenny | Lenora | tớ | cậu / Lenora | 23 | Bạn đồng nghiệp thân thiết, hay cãi cọ |
 | Rei | Lenora | tôi | cô | 24 | Giao tiếp lịch sự với tiếp tân Hội |
 | Lenora | Rei | tôi | cậu / cậu Rei | 24 | Tiếp tân Hội tiếp đón mạo hiểm giả |
+| Rhodes | Rei | tao / tôi | mày / cậu | 25 | Ban đầu hung hăng kiếm chuyện, coi thường tân binh |
+| Rei | Rhodes | tôi | cậu / mày | 25 | Đối đáp bình thản, trêu chọc chuyện bám mẹ |
+| Rhodes | Min | con | mẹ | 25 | Con trai nói với mẹ, bám mẹ |
+| Min | Rhodes | mẹ / tôi | Rhodes / con | 25 | Mẹ dạy con, nghiêm khắc |
+| Rhodes | Elk | con | bố | 25 | Con trai nói với bố |
+| Elk | Rhodes | bố / ta | mày / con | 25 | Bố dạy con, suồng sã kiểu võ biền |
+| Min | Rei | tôi | cậu / cậu thiếu niên / cậu Rei | 25 | Lịch sự, coi trọng thực lực của Rei |
+| Rei | Min | tôi | cô | 25 | Lịch sự với nữ ma pháp sư lớn tuổi hơn |
+| Elk | Rei | tôi | cậu | 25 | Sảng khoái, cởi mở |
+| Rei | Elk | tôi | anh / ông | 25 | Đáp lại sảng khoái, chừng mực |
+| Elk | Min | tôi / anh | Min / em / mình | 25 | Vợ chồng |
+| Min | Elk | tôi / em | Elk / anh | 25 | Vợ chồng, Min có uy hơn |
+| Bobbs | * | tôi / ta | các người / cậu / anh | 25 | Chỉ huy chiến dịch, dứt khoát |
+| Rei | Bobbs | tôi | ông / anh | 25 | Báo cáo thực lực và trao đổi ủy thác |
+| Bobbs | Rei | tôi / ta | cậu | 25 | Giao việc và kiểm tra thực lực tân binh |

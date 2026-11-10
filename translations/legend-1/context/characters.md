@@ -20,6 +20,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Drum | ドラム | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
 | Gran | グラン | Gran | Nhân viên Hội Mạo Hiểm Giả Gilm | Chương 14 |
 | Rowlocks | ラルクス | Rowlocks | Bá tước biên cảnh cai quản thành phố Gilm | Chương 20 |
+| Elk | エルク | Elk | Đội trưởng tổ đội mạo hiểm giả Hạng A Rìu Lôi Thần | Chương 25 |
+| Min | ミン | Min | Ma pháp sư của tổ đội mạo hiểm giả Hạng A Rìu Lôi Thần | Chương 25 |
+| Rhodes | ロドス; Rodos | Rhodes | Mạo hiểm giả Hạng C của tổ đội Rìu Lôi Thần, con trai của Elk và Min | Chương 25 |
+| Bobbs | ボッブス | Bobbs | Mạo hiểm giả chỉ huy chiến dịch thảo phạt bộ lạc Orc | Chương 25 |
 
 ## Chi tiết
 
@@ -76,3 +80,19 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kenny
 - Vẻ ngoài: Nữ tiếp tân thuộc chủng tộc thú nhân mèo, thân hình dẻo dai gợi cảm, vòng một nảy nở.
 - Tính cách: Tinh nghịch, thích trêu chọc, thực dụng và hay để mắt tới các tân binh triển vọng như Rei.
+
+### Elk
+- Đội trưởng tổ đội Hạng A Rìu Lôi Thần, chồng của Min và bố của Rhodes.
+- Cơ bắp cuồn cuộn, tính tình sảng khoái, tếu táo; vũ khí là cây rìu chiến khổng lồ (Đạo Cụ Ma Thuật).
+
+### Min
+- Ma pháp sư tổ đội Hạng A Rìu Lôi Thần, vợ của Elk và mẹ của Rhodes.
+- Tóc xanh biển ngắn ngang vai, dùng gậy phép; điềm đạm, có uy quyền nhất trong nhóm và gia đình; say mê tìm hiểu Đạo Cụ Ma Thuật quý hiếm.
+
+### Rhodes
+- Con trai của Elk và Min, mạo hiểm giả Hạng C, tuổi trạc Rei, tóc xanh nhạt.
+- Dùng kiếm và giáp da quái vật; hiếu thắng, bốc đồng, rất bám mẹ và dễ xù lông khi bị trêu chọc.
+
+### Bobbs
+- Mạo hiểm giả dày dạn kinh nghiệm bị mất nửa trên vành tai phải, được Hội giao chỉ huy chiến dịch thảo phạt bộ lạc Orc.
+- Tác phong dứt khoát, giọng nói sang sảng, thực tế và nghiêm túc.
