@@ -63,7 +63,7 @@ python .agents/skills/novel-translate/scripts/ctx.py <slug> <lệnh> ...
 | `add-summary N "..."` | ghi tóm tắt chương N vào đúng file arc (`--replace` để ghi đè) |
 | `set-arc-summary <arc> "..."` / `set-story <arc> --file F` | mục F |
 
-Nội dung có dấu `"` hay dài thì ghi vào một file UTF-8 trong `.herdr/` (hoặc thư mục tạm) rồi truyền `--file <file>` (có ở `char-note`, `add-summary`, `set-arc-summary`, `set-story`, `progress.py ask`). Ghi file đó bằng công cụ ghi file của agent, không dùng `python -c` hay `echo` (PowerShell làm hỏng dấu nháy và xuống dòng). Xong thì xoá file tạm.
+Nội dung có dấu `"` hay dài thì ghi vào một file UTF-8 trong `.herdr/` (hoặc thư mục tạm) rồi truyền `--file <file>` (có ở `char-note`, `add-summary`, `set-arc-summary`, `set-story`, `progress.py ask`). Ghi file đó bằng công cụ ghi file của agent, không dùng `python -c` hay `echo` (PowerShell làm hỏng dấu nháy và xuống dòng). Xong thì xoá file tạm. Chuỗi ngắn truyền thẳng (`--vi`, `--note`, `--role`...) thì không đặt dấu `"` bên trong chuỗi, cần trích thì dùng `'...'`: PowerShell 5.1 tách chuỗi có `"` lồng thành nhiều tham số.
 
 ### Raw tiếng Nhật
 
