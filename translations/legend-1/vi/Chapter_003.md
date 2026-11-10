@@ -18,7 +18,7 @@ Cả hai đều im lặng, chăm chú nhìn kỹ gương mặt của đối phư
 
 Đập vào mắt Reiji là chiếc mỏ đen sắc nhọn cùng đôi mắt xanh tròn xoe. Đôi mắt màu lam ấy dường như đang lo lắng dõi theo tình trạng của cậu.
 
-Vừa thoáng nghĩ đôi mắt xanh này giống hệt mắt mình, thì ngay khoảnh khắc sau, gương mặt trước mắt—chính xác là gương mặt của một loài chim săn mồi—đã quấn quýt dụi sát vào mặt cậu.
+Vừa thoáng nghĩ đôi mắt xanh này giống hệt mắt mình, thì ngay khoảnh khắc sau, gương mặt trước mắt, chính xác là gương mặt của một loài chim săn mồi, đã quấn quýt dụi sát vào mặt cậu.
 
 "Gùuu."
 
@@ -42,7 +42,7 @@ Khi đã hiểu rõ sự hiện diện của Griffin, cậu lại đưa mắt ng
 
 Trong ký ức của Reiji, Griffin chỉ xuất hiện trong game hay tiểu thuyết, và theo những kiến thức đó thì loài này vốn cực kỳ hung dữ và hiếu chiến. Thế nhưng con Griffin trước mắt cậu lại chẳng có chút biểu hiện nào như vậy. Đúng hơn là nhìn cái cách nó dụi mặt nũng nịu như mèo con quấn chủ, thật khó mà liên tưởng tới hai chữ hung dữ.
 
-"Hay là vì được tạo ra từ Ma Thú Thuật nên nhóc mới khác những con Griffin khác nhỉ?"
+"Hay là vì được tạo ra từ Ma Thú Thuật nên nó mới khác những con Griffin khác nhỉ?"
 
 "Gùuu."
 
@@ -122,7 +122,7 @@ Chẳng rõ đây đã là lần thứ mấy trong ngày rồi. Cậu lại lụ
 
 "Quả nhiên là do Ma Thú Thuật rồi."
 
-Theo tri thức của Zepairu, trong quá trình tạo ra ma thú, nếu một lượng ma lực khổng lồ được giải phóng—nói cách khác là lượng ma lực tỏa ra vượt quá mức mà ma thú có thể dung nạp—thì phần ma lực dư thừa sẽ kết tinh thành Đạo Cụ Ma Thuật. Đương nhiên, kẻ nhúng tay chỉnh sửa thuật thức theo kiểu đó chính là Takumu.
+Theo tri thức của Zepairu, trong quá trình tạo ra ma thú, nếu một lượng ma lực khổng lồ được giải phóng, nói cách khác là lượng ma lực tỏa ra vượt quá mức mà ma thú có thể dung nạp, thì phần ma lực dư thừa sẽ kết tinh thành Đạo Cụ Ma Thuật. Đương nhiên, kẻ nhúng tay chỉnh sửa thuật thức theo kiểu đó chính là Takumu.
 
 Có điều, trong những nghi thức mà Zepairu cùng môn phái từng thực hiện, toàn bộ ma lực giải phóng ra đều được dùng hết cho việc tạo ma thú, nên chưa từng có Đạo Cụ Ma Thuật nào ra đời. Nói cách khác, thuật thức vốn chỉ được Takumu thêm vào cho vui, nay nhờ lượng ma lực khổng lồ của Rei mà rốt cuộc mới phát huy tác dụng.
 
@@ -134,13 +134,13 @@ Cầm cây đại hái trên tay, Rei thầm nhủ chữ "bảng trạng thái" 
 
 "Ủa, đặt thẳng tên là Lưỡi Hái Tử Thần luôn à? Bộ không biết biến tấu đi một chút sao?"
 
-Dù nói vậy nhưng Takumu—người đáng bị cằn nhằn—đã không còn trên cõi đời này nữa rồi. Vừa thở dài, cậu vừa đọc tiếp phần mô tả của Lưỡi Hái Tử Thần.
+Dù nói vậy nhưng Takumu, người đáng bị cằn nhằn lúc này, đã không còn trên cõi đời này nữa rồi. Vừa thở dài, cậu vừa đọc tiếp phần mô tả của Lưỡi Hái Tử Thần.
 
 Năng lực thứ nhất là vật phát động ma thuật. Vì là Đạo Cụ Ma Thuật được tạo ra từ lượng ma lực khổng lồ của Rei nên hiệu năng của nó cực kỳ cao.
 
 Năng lực thứ hai: tương tự như Set, nó có thể hấp thụ Ma Thạch để nhận thêm hiệu ứng mới. Đồng thời, những năng lực thu được cũng có thể hiển thị thành danh sách giống như Set.
 
-Năng lực thứ ba là giảm trọng lượng. Những ai có cùng bước sóng ma lực với Lưỡi Hái Tử Thần—tức là chỉ riêng Rei và Set—có thể vung vẩy cây lưỡi hái này mà gần như không cảm nhận thấy sức nặng.
+Năng lực thứ ba là giảm trọng lượng. Những ai có cùng bước sóng ma lực với Lưỡi Hái Tử Thần, tức là chỉ riêng Rei và Set, có thể vung vẩy cây lưỡi hái này mà gần như không cảm nhận thấy sức nặng.
 
 Năng lực thứ tư là khi truyền ma lực vào, các tính năng cơ bản của cây đại hái sẽ được gia tăng.
 
@@ -178,9 +178,9 @@ Dù là sinh vật tạo ra từ Ma Thú Thuật, nhưng một khi đã là sinh
 
 "Thế nên là phải nhanh chóng tìm tới thị trấn hay ngôi làng nào có người ở mới được, cơ mà..."
 
-Theo tri thức của Zepairu, dinh thự này được bao bọc bởi kết giới Không Gian Ma Thuật, nhưng trong khu rừng xung quanh lại có vô số ma thú hung tợn sinh sống. Sở dĩ họ xây dựng dinh thự ở một nơi như thế là vì đây vốn là một nơi ẩn náu của nhóm Zepairu. Bởi vậy, họ đã giăng kết giới hùng mạnh giữa khu rừng đầy rẫy ma thú dữ tợn này để ngăn chúng xâm nhập vào nhà, đồng thời lợi dụng chính lũ ma thú đó làm bức tường phòng thủ trước những kẻ thù bên ngoài.
+Theo tri thức của Zepairu, dinh thự này được bao bọc bởi kết giới Không Gian Ma Thuật, nhưng trong khu rừng xung quanh lại có vô số quái vật hung tợn sinh sống. Sở dĩ họ xây dựng dinh thự ở một nơi như thế là vì đây vốn là một nơi ẩn náu của nhóm Zepairu. Bởi vậy, họ đã giăng kết giới hùng mạnh giữa khu rừng đầy rẫy quái vật dữ tợn này để ngăn chúng xâm nhập vào nhà, đồng thời lợi dụng chính lũ quái vật đó làm bức tường phòng thủ trước những kẻ thù bên ngoài.
 
-"Biết là thế rồi, nhưng một đứa chân ướt chân ráo tới thế giới fantasy như mình liệu có thoát nổi khu rừng đầy ma thú đó không... Lẽ ra các vị cũng phải nghĩ tới chuyện đó giùm cái chứ."
+"Biết là thế rồi, nhưng một đứa chân ướt chân ráo tới thế giới fantasy như mình liệu có thoát nổi khu rừng đầy quái vật đó không... Lẽ ra các vị cũng phải nghĩ tới chuyện đó giùm cái chứ."
 
 Rei càu nhàu rồi bất giác thở dài ngao ngán.
 
@@ -220,8 +220,8 @@ Hết cách, Rei đành lục tìm trong tri thức của Zepairu những Đạo
 
 Được ma thuật sư đỉnh cao thế giới Zepairu khẳng định là sở hữu lượng ma lực khổng lồ, Rei quyết định lấy Quả Cầu Chẩn Đoán từ Nhẫn Sương Mù ra để kiểm tra đặc tính ma thuật, xem bản thân thích hợp với loại ma thuật nào.
 
-"Nếu dùng được ma thuật Thủy thì sẽ không lo thiếu nước uống, nên mong là mình có thiên hướng ma thuật Thủy. Ngoài ra thì Không Gian Ma Thuật để dùng ma thuật dịch chuyển, hay Giả Kim Thuật để chế tạo Đạo Cụ Ma Thuật cũng rất đáng kỳ vọng đấy chứ."
+"Nếu dùng được ma thuật hệ Thủy thì sẽ không lo thiếu nước uống, nên mong là mình có thiên hướng ma thuật hệ Thủy. Ngoài ra thì Không Gian Ma Thuật để dùng ma thuật dịch chuyển, hay Giả Kim Thuật để chế tạo Đạo Cụ Ma Thuật cũng rất đáng kỳ vọng đấy chứ."
 
-Vừa hình dung về thiên hướng ma thuật của mình, cậu vừa đặt lòng bàn tay lên Quả Cầu Chẩn Đoán. Làm vậy thì biểu tượng đặc tính ma thuật của người dùng sẽ hiện lên quả cầu. Chẳng hạn nếu có thiên hướng ma thuật Thủy như Rei mong đợi nhất thì sẽ hiện giọt nước. Nếu có thiên hướng Không Gian Ma Thuật thì là cánh cửa. Còn thiên hướng Giả Kim Thuật thì sẽ là chiếc bình thí nghiệm tam giác, đại loại như vậy.
+Vừa hình dung về thiên hướng ma thuật của mình, cậu vừa đặt lòng bàn tay lên Quả Cầu Chẩn Đoán. Làm vậy thì biểu tượng đặc tính ma thuật của người dùng sẽ hiện lên quả cầu. Chẳng hạn nếu có thiên hướng ma thuật hệ Thủy như Rei mong đợi nhất thì sẽ hiện giọt nước. Nếu có thiên hướng Không Gian Ma Thuật thì là cánh cửa. Còn thiên hướng Giả Kim Thuật thì sẽ là chiếc bình giả kim, đại loại như vậy.
 
 Thế nhưng, khi hướng ánh nhìn tràn đầy hy vọng vào quả cầu, thứ duy nhất đập vào mắt Rei lại chỉ là một biểu tượng ngọn lửa rực cháy.

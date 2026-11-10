@@ -10,7 +10,7 @@ Vừa đảo mắt nhìn quanh vừa đặt tay lên trán trầm ngâm vài gi�
 
 "Ra vậy, mình đã dung hợp với quả cầu sáng đó... À, hiểu rồi. Đúng là dung hợp thật. Tri thức thì có đủ, mà ý thức chắc chắn vẫn là của mình, không sai vào đâu được."
 
-Reiji nhìn quanh một lượt mới nhận ra mình đang nằm trên một chiếc giường. Dưới sàn nhà có vẽ một ma pháp trận, cậu đoán chừng nó dùng để duy trì loại ma thuật nào đó lên thể xác mà mình vừa nằm ngủ say. Mặc vào bộ quần áo được đặt sẵn ở đầu giường, cậu bước xuống.
+Reiji nhìn quanh một lượt mới nhận ra mình đang nằm trên một chiếc giường. Dưới sàn nhà có vẽ một ma pháp trận, cậu đoán chừng nó dùng để duy trì loại ma thuật nào đó lên thể xác mà mình vừa nằm ngủ say. Cậu mặc bộ quần áo để sẵn ở đầu giường rồi bước xuống.
 
 "Mà nói mới nhớ, thân xác mới này của mình trông như thế nào nhỉ?"
 
@@ -68,15 +68,15 @@ Theo đó, dường như anh ta đã bị cuốn vào vòng xoáy tranh giành q
 
 "Thì thế giới này cũng có quý tộc như bình thường mà. Bị cuốn vào mấy chuyện tranh quyền đoạt lợi thì chịu cảnh đó cũng không lạ."
 
-Tiện thể, Số Thuật mà Suzunose Takumu thi triển là loại ma thuật do chính anh sáng tạo ra, ngoài anh ta dường như chẳng ai sử dụng được. Hiệu quả của nó là số hóa đối tượng, và nghe đâu đây không phải thứ ma thuật thích hợp cho chiến đấu.
+Tiện thể, Số Thuật mà Suzunose Takumu thi triển là loại ma thuật do chính anh ta sáng tạo ra, ngoài anh ta dường như chẳng ai sử dụng được. Hiệu quả của nó là số hóa đối tượng, và nghe đâu đây không phải thứ ma thuật thích hợp cho chiến đấu.
 
 "Ra vậy. Là dạng ma thuật liên quan tới Giám Định hay Phân Tích thường thấy trong game sao?"
 
-Ở thế giới này đó dường như là loại ma thuật hoàn toàn xa lạ, nhưng với một kẻ đam mê văn hóa thứ cấp như Reiji thì đây lại là năng lực cậu có thể phần nào mường tượng ra được.
+Ở thế giới này đó dường như là loại ma thuật hoàn toàn xa lạ, nhưng với một người mê văn hóa giải trí như Reiji thì đây lại là năng lực cậu có thể phần nào mường tượng ra được.
 
 "Được rồi, căn phòng này tạm thời thế là xong. Tiếp theo là phòng nghiên cứu."
 
-Đôi chân trần bước nhẹ trên sàn, cậu mở cánh cửa căn phòng ngủ. Có lẽ bản thân dinh thự được duy trì bằng ma thuật nào đó, nên sàn nhà chẳng những không có vết bẩn mà một hạt bụi cũng chẳng vương.
+Cậu bước chân trần trên sàn, mở cánh cửa căn phòng ngủ. Có lẽ bản thân dinh thự được duy trì bằng ma thuật nào đó, nên sàn nhà chẳng những không có vết bẩn mà một hạt bụi cũng chẳng vương.
 
 "Cái này là... dùng Thời Không Ma Thuật để đóng băng thời gian của dinh thự này sao?"
 
@@ -112,7 +112,7 @@ Cậu lấy món đồ bên trong hộp ra. Đó là một chiếc vòng có đ�
 
 Cậu ngắm nghía chiếc vòng trên tay với vẻ tò mò. Thoạt nhìn thì đây đúng là một chiếc vòng tay đẹp đẽ, nhưng nếu xét giá trị tiền tài thì chiếc hộp đựng với những hoa văn chạm trổ tinh xảo nạm đầy ngọc ngà dường như còn đắt giá hơn nhiều.
 
-Cảm giác cấn cấn lóe lên trong đầu cậu. Cất một chiếc vòng tay không mấy đắt giá vào trong chiếc hộp ngọc quý giá ngút trời, nghĩ bình thường thì đời nào có chuyện đó. Tức là chiếc vòng này ắt phải có điểm đặc biệt. Đoán vậy, Reiji liền tra cứu tri thức của Zepairu và vỡ lẽ ra mọi chuyện.
+Một cảm giác kỳ lạ thoáng gợn lên trong đầu cậu. Cất một chiếc vòng tay không mấy đắt giá vào trong chiếc hộp ngọc quý giá ngút trời, nghĩ bình thường thì đời nào có chuyện đó. Tức là chiếc vòng này ắt phải có điểm đặc biệt. Đoán vậy, Reiji liền tra cứu tri thức của Zepairu và vỡ lẽ ra mọi chuyện.
 
 "Ra vậy, món này quả thực còn giá trị hơn vạn lượng ngọc ngà châu báu."
 
@@ -126,7 +126,7 @@ Ma Thú Thuật. Reiji đã sớm nắm rõ loại ma thuật này là gì thôn
 
 Khi đứng giữa tâm ma pháp trận niệm chú, trận pháp sẽ hút ma lực từ người thi thuật, và lượng ma lực ấy sẽ được dùng để tạo ra một ma thú. Ma thú sinh ra chịu ảnh hưởng tổng hòa từ nhiều yếu tố như ma lực, nội tâm, tính cách, tầng sâu tâm lý cho tới sở thích của người thi triển, nên không thể tùy ý lựa chọn theo ý muốn.
 
-Nếu chỉ dừng lại ở đó thì chưa thể coi đây là tuyệt kỹ tối thượng của môn phái Zepairu. Điểm mấu chốt là ma thú được tạo ra từ Ma Thú Thuật lại mang trong mình một đặc tính phi thường: thông qua việc nuốt Ma Thạch từ cơ thể quái vật, ma thú sẽ tiến hóa để ngày càng mạnh mẽ hơn, to lớn hơn và nhanh nhẹn hơn. Sự tiến hóa ấy muôn hình vạn trạng tùy theo loại Ma Thạch hấp thụ, thực sự mở ra những tiềm năng vô hạn. Về đích đến của quá trình tiến hóa, tức ma thú có thể đạt tới ngưỡng sức mạnh nào, về mặt lý thuyết là vô hạn định, dẫu vậy từ trước đến nay chưa từng có ai nuôi dưỡng ma thú tới đỉnh cao đó.
+Nếu chỉ dừng lại ở đó thì chưa thể coi đây là tuyệt kỹ tối thượng của môn phái Zepairu. Điểm mấu chốt là ma thú được tạo ra từ Ma Thú Thuật lại mang trong mình một đặc tính phi thường: nhờ nuốt Ma Thạch từ cơ thể quái vật, ma thú sẽ tiến hóa để ngày càng mạnh mẽ hơn, hùng cường hơn và nhanh nhẹn hơn. Sự tiến hóa ấy muôn hình vạn trạng tùy theo loại Ma Thạch hấp thụ, thực sự mở ra những tiềm năng vô hạn. Về đích đến của quá trình tiến hóa, tức ma thú có thể đạt tới ngưỡng sức mạnh nào, về mặt lý thuyết là vô hạn định, dẫu vậy từ trước đến nay chưa từng có ai nuôi dưỡng ma thú tới đỉnh cao đó.
 
 Nói cách khác, Ma Thú Thuật chính là thứ ma thuật sẽ cùng trưởng thành bên cạnh chủ nhân của nó.
 
@@ -140,7 +140,7 @@ Sự biến đổi mà Zepairu từng nhắc tới trước khi dung hợp, có 
 
 Câu chú kích hoạt ma pháp trận vốn đã nằm trọn vẹn trong mảng tri thức của Zepairu, nên cậu chẳng hề mảy may do dự.
 
-"Ta, kẻ mang ma lực sáng tạo ma thú. Kẻ nguyện đồng hành cùng ma thú suốt cuộc đời. Hãy nuốt lấy ma lực của ta, thức tỉnh ma thú đang say ngủ trong ta hiển hiện trên cõi đời này. Cùng ta sống, cùng ta chết. Hãy hiện thân!"
+"Ta, kẻ dùng ma lực tạo ra ma thú. Kẻ cùng sống với ma thú. Hãy nuốt lấy ma lực của ta, để ma thú đang say ngủ trong ta hiển hiện trên cõi đời này. Cùng ta sống, cùng ta chết. Hãy hiện thân!"
 
 Gửi gắm ma lực vào câu từ để dệt nên âm vang, đó chính là niệm chú. Hành vi vốn dĩ phải mất nhiều năm khổ luyện ấy, Reiji nhờ kế thừa tri thức của Zepairu mà thực hiện chuẩn xác không sai một li. Cậu dồn cả lượng ma lực khổng lồ đến mức ngay cả ma thuật sư đỉnh cao thế giới như Zepairu cũng phải kinh ngạc vào từng lời niệm.
 

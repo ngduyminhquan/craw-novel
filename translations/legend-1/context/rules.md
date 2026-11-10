@@ -32,4 +32,5 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 ## Riêng truyện này
 
 - (#1) Raw tiếng Nhật gốc trên Kakuyomu. Nhân vật chính chương 1–2 tên là `佐伯玲二` (`Saeki Reiji`), từ chương 3 đổi tên thành `レイ` (`Rei`).
+- (#2) Phân biệt rõ `魔物` (`quái vật`, quái vật thông thường trong rừng/hầm ngục) và `魔獣` (`ma thú`, sinh vật được tạo ra từ Ma Thú Thuật như Set). Không dịch `魔物` thành `ma thú`.
 - (#3) Tiếng kêu của Set (`グルゥ`, `グルルゥ`, `グルルルゥ`) dịch tự nhiên theo ngữ cảnh (`"Grrr"`, `"Gừưư"`, `"Gùuu"`).

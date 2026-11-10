@@ -44,11 +44,11 @@ Nghe thấy tiếng gọi ấy, Reiji bừng tỉnh. Trước mắt cậu là m�
 
 "... Đây là đâu?"
 
-Nhớ rõ ràng mình đã bị dầm thép đè bẹp... Lẽ ra phải hoảng loạn khóc thét trước cái chết, nhưng lạ lùng thay, đầu óc cậu lại phán đoán một cách vô cùng bình tĩnh.
+Nhớ rõ ràng mình đã bị dầm thép đè bẹp... Lẽ ra phải hoảng loạn khóc thét trước cái chết, nhưng lạ lùng thay, đầu óc cậu vẫn phán đoán vô cùng bình tĩnh.
 
 "Tỉnh rồi đó sao, ứng viên kế thừa của ta?"
 
-Nghe tiếng gọi, cậu hướng sự chú ý về phía âm thanh phát ra thì chẳng hiểu sao lại tự động nhìn thấy sự hiện diện đó.
+Nghe tiếng bắt chuyện, cậu hướng ý thức về phía phát ra âm thanh thì chẳng hiểu sao thứ đó đã tự động lọt vào tầm mắt.
 
 "Quả cầu sáng?"
 
@@ -68,7 +68,7 @@ Nghe quả cầu sáng nói, Reiji mới nhận ra thân thể mình cũng là m
 
 Nghe quả cầu sáng nói, Reiji nhớ lại cảnh thanh dầm thép ập xuống. Rõ ràng rơi vào cảnh ngộ ấy thì sống sót là chuyện không tưởng.
 
-"Đúng vậy. Rõ ràng tôi đã chết... chắc chắn rồi. Thế đây là cái gọi là thế giới bên kia à?"
+"Đúng vậy. Chắc chắn là tôi đã chết... đáng lẽ phải thế. Vậy đây là cái gọi là thế giới bên kia à?"
 
 "Không phải. Nơi đây là một dạng thế giới tinh thần nằm giữa các thế giới. Ta đã thi triển thuật để tìm kiếm người kế thừa, và ngươi đã bắt trúng mối liên kết đó."
 
@@ -106,9 +106,9 @@ Quả cầu sáng nhấp nháy, lẩm bẩm với giọng thoáng đượm buồ
 
 "Ma lực khổng lồ... thứ đó tôi cũng có sao?"
 
-Một khi lượng ma lực khổng lồ ấy là điều kiện tiên quyết của cái gọi là Ma Thú Thuật, thì người được chọn kế thừa như cậu mà không có nó thì làm sao nói chuyện được. Reiji hỏi vậy, nhưng câu trả lời của quả cầu sáng lại vượt ngoài dự liệu của cậu.
+Một khi lượng ma lực khổng lồ ấy là điều kiện tiên quyết của cái gọi là Ma Thú Thuật, thì người được chọn kế thừa như cậu mà không có nó thì còn bàn bạc gì được nữa. Nghĩ vậy nên Reiji mới hỏi thử, nhưng câu trả lời của quả cầu sáng lại vượt ngoài dự liệu của cậu.
 
-"Có chứ. Đúng hơn là ở thế giới của ngươi, e rằng chẳng ai có ma lực mạnh hơn ngươi. Ngươi đang mang trong mình lượng ma lực lớn đến mức đó đấy. ...Tại sao một thế giới không có ma thuật lại sinh ra một tồn tại đột biến như ngươi? Đó là một trường hợp vô cùng thú vị, song ta chẳng còn thời gian để tìm lời giải nữa. Vậy nên hãy lắng nghe cho kỹ rồi hẵng định đoạt."
+"Có chứ. Đúng hơn là ở thế giới của ngươi, e rằng chẳng ai có ma lực mạnh hơn ngươi. Ngươi đang mang trong mình lượng ma lực lớn đến mức đó đấy. ...Tại sao một thế giới không có ma thuật lại sản sinh ra một kẻ có thể gọi là đột biến như ngươi? Đó là một trường hợp vô cùng thú vị, song ta chẳng còn thời gian để tìm lời giải nữa. Vậy nên hãy lắng nghe cho kỹ rồi hẵng định đoạt."
 
 Sau đó, những gì quả cầu sáng kể lại đại khái như sau. Ở thế giới của nó, đúng như đã nói, ma thuật thực sự tồn tại. Những ma thuật sư nắm giữ lượng ma lực tinh hoa bậc nhất thế giới đã quy tụ lại lập nên môn phái ấy. Tuy chỉ toàn ma thuật sư, nhưng chiến lực của họ tương truyền đủ sức san phẳng một quốc gia chỉ trong vài giờ. Ma Thú Thuật chính là tuyệt kỹ tối thượng được khai sinh từ sự chung tay của những bậc kỳ tài xuất chúng đó. Song, để thi triển Ma Thú Thuật đòi hỏi lượng ma lực khổng lồ, ngoài người trong môn phái ra thì không ai gánh nổi. Bất hạnh thay, có lẽ do tinh hoa đã dồn hết vào một thời đại nên các thế hệ sau chẳng còn ai đủ tài năng xuất hiện nữa. Chưa kể, việc thi triển Ma Thú Thuật phải đi kèm những ràng buộc ma thuật nhằm đẩy hiệu quả lên tối đa, khiến mỗi người cả đời chỉ dùng được đúng một lần, cũng là lý do lớn khiến môn thuật này không thể lưu truyền rộng rãi.
 
@@ -132,7 +132,7 @@ Nghe lời quả cầu sáng nói, quả cầu của Reiji khẽ rung rinh.
 
 "Ý ông là... kiểu như ông với tôi sẽ dung hợp lại à?"
 
-"Không phải. Ta rốt cuộc chỉ là vật xúc tác mà thôi. Sau khi chuyển giao tri thức cho ngươi, ta sẽ được ngươi hấp thu rồi tan biến. Dẫu vậy, chuyện ngươi và ta hòa làm một thì không đổi. Chủ thể vẫn là ngươi, nhưng dự kiến sẽ có chút ít biến chuyển."
+"Không phải. Ta rốt cuộc chỉ là vật xúc tác mà thôi. Sau khi truyền lại tri thức cho ngươi, ta sẽ hòa vào ngươi rồi tan biến. Dẫu vậy, chuyện ngươi và ta hợp làm một là không đổi. Chủ thể vẫn là ngươi, chỉ là có lẽ sẽ có đôi chút thay đổi."
 
 Nghe nói ít nhất nhân cách của mình vẫn giữ nguyên, Reiji bất giác thở phào một hơi. Đoạn cậu chuyển sang câu hỏi tiếp theo.
 
@@ -172,7 +172,7 @@ Trước lời đáp của Reiji, quả cầu sáng nhấp nháy mấy lượt.
 
 "Ừ. Vậy ta bắt đầu dung hợp đây."
 
-Tuyên bố xong xuôi, quả cầu sáng lơ lửng lại gần Reiji... rồi chồng khít lên nhau.
+Nói đoạn, quả cầu sáng chầm chậm tiến lại gần Reiji... rồi hòa nhập làm một với cậu.
 
 "Saeki Reiji, cảm ơn ngươi. Chúc ngươi có thật nhiều may mắn trong cuộc đời mới."
 

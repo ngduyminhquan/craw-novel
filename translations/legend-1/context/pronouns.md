@@ -16,6 +16,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Runo | ông / chú | 14 | Mạo hiểm giả trung niên điềm đạm |
 | Lana | bà / cô | 15 | Bà chủ nhà trọ |
 | Drum | anh / cậu | 15 | Con trai bà chủ nhà trọ (khoảng 20 tuổi) |
+| Suzunose Takumu | anh ta | 2 | Số thuật sư người Nhật trong môn phái Zepairu |
 
 ## Giữa các nhân vật
 
