@@ -33,6 +33,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Trái ngược vẻ ngoài hung dữ của loài Griffin, Set cực kỳ thân thiện, thích làm nũng, ham ăn, thích đồ lấp lánh, thông minh và hiểu tiếng người.
 - Cách nói chuyện: Kêu `"Gùuu"`, `"Gừưư"`, `"Grrr!"` và biểu đạt qua cử chỉ dụi đầu, nghiêng đầu.
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
-- Chương 6: Nuốt Ma Thạch của Gấu Nước và học được kỹ năng [Thủy Cầu Lv.1].
-- Chương 7: Dùng thử Thủy Cầu Lv.1, cõng Rei phi với tốc độ cực nhanh qua Rừng Quái Vật.
-- Chương 8: Lần đầu sải cánh bay lượn cõng Rei trên bầu trời đêm thoát khỏi bầy Sóc Bay Lưỡi Dao.
+- Kỹ năng: Thủy Cầu Lv.1 (chương 6).
+- Trạng thái tính đến chương 8: bay được, cõng Rei bay và phi đường dài qua Rừng Quái Vật.
+
+### Ranga
+- Trung niên 30-40 tuổi để râu cằm, mặt bặm trợn nhưng tính cách và giọng điệu nhẹ nhàng, thân thiện; Đội trưởng đội cảnh vệ thành phố Gilm.

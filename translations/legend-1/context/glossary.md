@@ -66,3 +66,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 刃ムササビ |  | Sóc Bay Lưỡi Dao | quái vật | 8 | Quái vật sóc bay dài 15cm có đuôi hóa cứng thành lưỡi sắc bén, biết bay lượn và tấn công bầy đàn |
 | 数術士 |  | Số Thuật Sư | chức nghiệp | 2 | Người dùng Số Thuật (Takumu) |
 | 錬金術師 |  | Giả Kim Thuật Sư | chức nghiệp | 2 | Người dùng Giả Kim Thuật (Esta Noor) |
+| テイマー |  | Thuần Thú Sư | chức nghiệp | 10 | Người thuần hóa và điều khiển ma thú hoặc quái vật |
+| 辺境伯 |  | Bá tước biên cảnh | danh hiệu | 10 | Tước vị quý tộc cai quản vùng đất biên giới (vùng Gilm) |
+| ランク |  | Hạng | cấp bậc | 10 | Cấp bậc mạo hiểm giả hoặc quái vật/ma thú (vd: Hạng A) |
