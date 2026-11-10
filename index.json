@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T03:53:01Z",
+  "generatedAt": "2026-11-10T03:59:59Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2201,6 +2201,12 @@
           "title": "Chương 8: Đột kích bộ lạc Orc (8)",
           "path": "translations/legend-1/vi/Chapter_008.md",
           "sha": "78932a1582598333f38ebca68d7c3b397e73cfb8"
+        },
+        {
+          "number": 9,
+          "title": "Chương 9: Đột kích bộ lạc Orc (9)",
+          "path": "translations/legend-1/vi/Chapter_009.md",
+          "sha": "1918c984031a250d180a6375b1466b9c7aa57aff"
         }
       ]
     },
