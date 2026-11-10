@@ -201,16 +201,23 @@ def cmd_pronouns(novel, names):
                   f"(từ chương {r.get('từ chương', '')}) {r.get('ghi chú', '')}")
 
 
-def cmd_grep(novel, pattern, spec, limit):
-    """Tìm trong các bản dịch đã có (để giữ nhất quán cách dịch với chương trước)."""
+def cmd_grep(novel, pattern, spec, limit, raw=False):
+    """Tìm trong các bản dịch đã có (để giữ nhất quán cách dịch với chương trước), hoặc trong raw (--raw)."""
     try:
         rx = re.compile(pattern, re.IGNORECASE | re.MULTILINE)
     except re.error as err:
         die(f"regex sai: {err}. Tìm chuỗi thường thì bỏ các ký tự đặc biệt ( ) [ ] * + ?")
-    files = sorted(novel["vi_path"].glob("Chapter_*.md"))
-    if spec:
-        want = set(parse_range(spec))
-        files = [f for f in files if int(re.search(r"\d+", f.stem).group()) in want]
+    if raw:
+        rows = load_progress(novel)
+        if spec:
+            want = set(parse_range(spec))
+            rows = [r for r in rows if r["idx"] in want]
+        files = [novel["raw_path"] / r["file raw"] for r in rows]
+    else:
+        files = sorted(novel["vi_path"].glob("Chapter_*.md"))
+        if spec:
+            want = set(parse_range(spec))
+            files = [f for f in files if int(re.search(r"\d+", f.stem).group()) in want]
     n = 0
     for f in files:
         for k, line in enumerate(read_text(f).splitlines(), 1):
@@ -222,7 +229,7 @@ def cmd_grep(novel, pattern, spec, limit):
                 print(f"... còn nữa, thu hẹp --range hoặc tăng --max (đang {limit})")
                 return
             a = max(0, m.start() - 60)
-            print(f"{f.stem}:{k}: {'…' if a else ''}{line[a:m.end() + 80]}")
+            print(f"{('raw ' if raw else '') + f.stem.split(' - ')[0]}:{k}: {'…' if a else ''}{line[a:m.end() + 80]}")
     if not n:
         print(f"(không thấy '{pattern}' trong {len(files)} chương)")
 
@@ -503,6 +510,7 @@ def main():
     p.add_argument("pattern", help="chuỗi hoặc regex, không phân biệt hoa/thường; vd '^# Chương' để xem tiêu đề")
     p.add_argument("--range", help="chỉ tìm trong các chương này, vd 1-12")
     p.add_argument("--max", type=int, default=40, help="số dòng tối đa in ra (mặc định 40)")
+    p.add_argument("--raw", action="store_true", help="tìm trong raw thay vì bản dịch")
     p = sub.add_parser("show-char")
     p.add_argument("name")
     p = sub.add_parser("pronouns")
@@ -574,7 +582,7 @@ def main():
         die("find cần một từ khoá. Không có lệnh liệt kê toàn bộ glossary/characters (sẽ rất lớn): "
             "tra từng thuật ngữ, hoặc xem thuật ngữ của chương trong output prepare.py.")
     if c == "grep":
-        return cmd_grep(novel, args.pattern, args.range, args.max)
+        return cmd_grep(novel, args.pattern, args.range, args.max, args.raw)
     if c == "find":
         return cmd_find(novel, args.q)
     if c == "show-char":

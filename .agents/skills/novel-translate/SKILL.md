@@ -63,7 +63,7 @@ python .agents/skills/novel-translate/scripts/ctx.py <slug> <lệnh> ...
 | `show-char <tên>` | dòng bảng + mục chi tiết của một nhân vật. Mọi lệnh nhận tên đều nhận EN, Alias, VI, hoặc một phần tên nếu chỉ khớp một mục |
 | `pronouns <tên> [<tên 2>]` | mọi dòng xưng hô liên quan tới nhân vật, hoặc của một cặp |
 | `show-summaries <range>` | tóm tắt các chương |
-| `grep <chuỗi/regex> [--range A-B] [--max 40]` | tìm trong các bản dịch đã có, để giữ cách dịch nhất quán (tiêu đề arc: `grep "^# Chương"`, tiếng kêu, cách gọi một vật...). Không tự viết code đọc bản dịch |
+| `grep <chuỗi/regex> [--raw] [--range A-B] [--max 40]` | tìm trong các bản dịch đã có của truyện này (thêm `--raw` để tìm trong raw), để giữ cách dịch nhất quán (tiêu đề arc: `grep "^# Chương"`, tiếng kêu, cách gọi một vật...). Dùng lệnh này thay cho `git grep` hay tự viết code |
 | `arc [N]` | arc chứa chương N; bỏ N thì in các arc đã xong mà thiếu tóm tắt |
 | `add-term --en X [--alias "a; b"] --vi Y --kind <loại> --ch N [--note ...]` | thêm thuật ngữ vào glossary (`--force` khi trùng VI với mục khác mà thật sự là hai thứ khác nhau). `<loại>`: `kỹ năng`, `danh hiệu`, `chức nghiệp`, `cấp bậc`, `vật phẩm`, `địa danh`, `tổ chức`, `chủng tộc`, `quái vật`, `hệ thống`, `khác` |
 | `add-char --en X [--alias ...] --vi Y --role ... --ch N [--detail "..."]...` | thêm nhân vật; mỗi `--detail` là một dòng của mục chi tiết |
