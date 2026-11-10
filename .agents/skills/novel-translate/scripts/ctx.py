@@ -5,6 +5,7 @@ Tra cứu (mọi truyện):
     python ctx.py <slug> show-char <tên>                 # dòng bảng + mục chi tiết của một nhân vật
     python ctx.py <slug> pronouns <tên> [<tên 2>]        # xưng hô liên quan tới nhân vật (hoặc một cặp)
     python ctx.py <slug> show-summaries <range>          # tóm tắt các chương
+    python ctx.py <slug> grep <chuỗi/regex> [--range A-B] # tìm trong các bản dịch đã có (giữ nhất quán)
     python ctx.py <slug> arc [N]                         # layout 2: arc chứa chương N; bỏ N thì in các arc thiếu tóm tắt
 
 Ghi (chỉ truyện layout 2 — novel.json có "layout": 2; layout 1 sửa thẳng file như cũ):
@@ -198,6 +199,32 @@ def cmd_pronouns(novel, names):
         if hit:
             print(f"{r['a']} → {r['b']}: xưng '{r.get('a xưng', '')}', gọi '{r.get('a gọi b', '')}'  "
                   f"(từ chương {r.get('từ chương', '')}) {r.get('ghi chú', '')}")
+
+
+def cmd_grep(novel, pattern, spec, limit):
+    """Tìm trong các bản dịch đã có (để giữ nhất quán cách dịch với chương trước)."""
+    try:
+        rx = re.compile(pattern, re.IGNORECASE | re.MULTILINE)
+    except re.error as err:
+        die(f"regex sai: {err}. Tìm chuỗi thường thì bỏ các ký tự đặc biệt ( ) [ ] * + ?")
+    files = sorted(novel["vi_path"].glob("Chapter_*.md"))
+    if spec:
+        want = set(parse_range(spec))
+        files = [f for f in files if int(re.search(r"\d+", f.stem).group()) in want]
+    n = 0
+    for f in files:
+        for k, line in enumerate(read_text(f).splitlines(), 1):
+            m = rx.search(line)
+            if not m:
+                continue
+            n += 1
+            if n > limit:
+                print(f"... còn nữa, thu hẹp --range hoặc tăng --max (đang {limit})")
+                return
+            a = max(0, m.start() - 60)
+            print(f"{f.stem}:{k}: {'…' if a else ''}{line[a:m.end() + 80]}")
+    if not n:
+        print(f"(không thấy '{pattern}' trong {len(files)} chương)")
 
 
 def cmd_show_summaries(novel, spec):
@@ -471,7 +498,11 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     p = sub.add_parser("find")
-    p.add_argument("q")
+    p.add_argument("q", nargs="?")
+    p = sub.add_parser("grep")
+    p.add_argument("pattern", help="chuỗi hoặc regex, không phân biệt hoa/thường; vd '^# Chương' để xem tiêu đề")
+    p.add_argument("--range", help="chỉ tìm trong các chương này, vd 1-12")
+    p.add_argument("--max", type=int, default=40, help="số dòng tối đa in ra (mặc định 40)")
     p = sub.add_parser("show-char")
     p.add_argument("name")
     p = sub.add_parser("pronouns")
@@ -539,6 +570,11 @@ def main():
 
     novel = load_novel(args.slug)
     c = args.cmd
+    if c == "find" and not args.q:
+        die("find cần một từ khoá. Không có lệnh liệt kê toàn bộ glossary/characters (sẽ rất lớn): "
+            "tra từng thuật ngữ, hoặc xem thuật ngữ của chương trong output prepare.py.")
+    if c == "grep":
+        return cmd_grep(novel, args.pattern, args.range, args.max)
     if c == "find":
         return cmd_find(novel, args.q)
     if c == "show-char":

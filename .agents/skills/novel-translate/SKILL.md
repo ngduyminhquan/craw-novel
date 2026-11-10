@@ -63,6 +63,7 @@ python .agents/skills/novel-translate/scripts/ctx.py <slug> <lệnh> ...
 | `show-char <tên>` | dòng bảng + mục chi tiết của một nhân vật. Mọi lệnh nhận tên đều nhận EN, Alias, VI, hoặc một phần tên nếu chỉ khớp một mục |
 | `pronouns <tên> [<tên 2>]` | mọi dòng xưng hô liên quan tới nhân vật, hoặc của một cặp |
 | `show-summaries <range>` | tóm tắt các chương |
+| `grep <chuỗi/regex> [--range A-B] [--max 40]` | tìm trong các bản dịch đã có, để giữ cách dịch nhất quán (tiêu đề arc: `grep "^# Chương"`, tiếng kêu, cách gọi một vật...). Không tự viết code đọc bản dịch |
 | `arc [N]` | arc chứa chương N; bỏ N thì in các arc đã xong mà thiếu tóm tắt |
 | `add-term --en X [--alias "a; b"] --vi Y --kind <loại> --ch N [--note ...]` | thêm thuật ngữ vào glossary (`--force` khi trùng VI với mục khác mà thật sự là hai thứ khác nhau). `<loại>`: `kỹ năng`, `danh hiệu`, `chức nghiệp`, `cấp bậc`, `vật phẩm`, `địa danh`, `tổ chức`, `chủng tộc`, `quái vật`, `hệ thống`, `khác` |
 | `add-char --en X [--alias ...] --vi Y --role ... --ch N [--detail "..."]...` | thêm nhân vật; mỗi `--detail` là một dòng của mục chi tiết |
@@ -103,7 +104,7 @@ Sau đó:
 2. Đọc toàn bộ raw của chương. Cần raw theo từng đoạn đánh số (để dịch đủ, đối chiếu số đoạn) thì dùng `qa_check.py <slug> N --side --full` (nguyên văn từng đoạn; thêm `--paras 40-80` để chỉ in một khoảng): chưa có bản dịch thì cột VI để trống, dịch xong chạy lại `--side` (bản rút gọn) để so từng cặp. Không tự viết code Python đọc raw hay đếm đoạn.
 3. **Thuật ngữ mới**: với mỗi mục script liệt kê là tên riêng/kỹ năng thật (bỏ qua từ thường bị bắt nhầm), chốt bản dịch theo `rules.md` và thêm vào context **trước khi dịch**: `ctx.py find` để kiểm tra đã có mục cùng nghĩa chưa, rồi `add-term` / `add-char` / `add-alias`. Cách viết khác của tên đã có thì thêm vào Alias của mục cũ, nhưng Alias chỉ ghi cách viết trong raw **dịch ra đúng chữ ở cột VI**; biệt danh, tên gọi tắt hay tước vị dịch thành chữ khác thì thêm **dòng riêng**, và không đưa từ đơn chung vào Alias vì QA sẽ báo sai ở mọi chương có từ đó. Mục nằm trong `## Đã loại` của glossary (lệnh sẽ báo) thì **không thêm lại**, cứ dịch tự nhiên theo ngữ cảnh.
 4. **Góc nhìn và xưng hô**: xác nhận góc nhìn của chương (có chương đổi sang góc nhìn nhân vật khác). Với mỗi cặp nhân vật có hội thoại mà chưa có xưng hô, quyết định dựa trên tuổi, địa vị, quan hệ, tính cách và ghi bằng `ctx.py add-pronoun` / `add-narrator`. Cần xem lịch sử xưng hô của một nhân vật thì `ctx.py pronouns <tên>`.
-5. **Mạch truyện**: đọc phần mạch truyện script in ra. Chương mở đầu nối tiếp cảnh của chương trước (cùng arc, cảnh chưa kết thúc) thì đọc **phần cuối** bản dịch liền trước để giữ giọng và chi tiết. Chương nhắc lại chi tiết cũ mà tóm tắt không đủ thì đọc thêm bản dịch của 2–3 chương trước đó.
+5. **Mạch truyện**: đọc phần mạch truyện script in ra. Chương mở đầu nối tiếp cảnh của chương trước (cùng arc, cảnh chưa kết thúc) thì đọc **phần cuối** bản dịch liền trước để giữ giọng và chi tiết. Chương nhắc lại chi tiết cũ mà tóm tắt không đủ thì đọc thêm bản dịch của 2–3 chương trước đó. Cần biết chương trước đã dịch một chữ, một tiếng kêu, một tiêu đề thế nào thì `ctx.py <slug> grep "<chuỗi>"`.
 
 ### Bước 2 — Dịch
 
