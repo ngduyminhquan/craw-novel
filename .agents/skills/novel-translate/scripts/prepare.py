@@ -150,7 +150,8 @@ def main():
         print("  (chưa nhận ra nhân vật nào trong characters.md)")
     if layout(novel) >= 2 and chars:
         details = detail_sections(novel, chars)
-        print("\n## Mục chi tiết nhân vật (tính cách, cách nói chuyện, kỹ năng, trạng thái)")
+        print("\n## Mục chi tiết nhân vật (tính cách, cách nói chuyện, kỹ năng, trạng thái) — đã in sẵn ở đây, "
+              "không cần gọi show-char cho các nhân vật này")
         print("\n\n".join(details) if details else "  (các nhân vật này chưa có mục chi tiết)")
     names = [e["en"] for e, _ in chars]
     nar = narrator_rows(novel, names)
