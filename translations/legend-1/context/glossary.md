@@ -109,3 +109,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 貴族派 |  | Phe Quý Tộc | tổ chức | 20 | Phe phái chính trị của các đại quý tộc trong Vương quốc Mireana |
 | 国王派 |  | Phe Quốc Vương | tổ chức | 20 | Phe phái chính trị ủng hộ nhà vua trong Vương quốc Mireana |
 | 中立派 |  | Phe Trung Lập | tổ chức | 20 | Phe phái chính trị trung lập trong Vương quốc Mireana, bao gồm Bá tước biên cảnh Rowlocks |
+| クイーンアント |  | Queen Ant | quái vật | 21 | Quái vật kiến chúa Hạng C thống lĩnh bầy đàn kiến |
+| インペリアルアント |  | Imperial Ant | quái vật | 21 | Quái vật kiến cận vệ có cánh biết bay, kích thước lớn hơn Soldier Ant |
+| 咲き誇る炎華 |  | Diễm Hoa Nở Rộ | kỹ năng | 21 | Ma thuật hệ Hỏa do Rei sáng tạo mô phỏng pháo hoa, bắn khối lửa rồi nổ bung thành nhiều quả cầu lửa nhỏ |
+| ブロンズナイフ |  | Dao Đồng | vật phẩm | 21 | Dao găm bằng đồng dùng để mổ xẻ quái vật |
