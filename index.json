@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T04:49:54Z",
+  "generatedAt": "2026-11-10T04:54:41Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2225,6 +2225,12 @@
           "title": "Chương 12: Đột kích bộ lạc Orc (12)",
           "path": "translations/legend-1/vi/Chapter_012.md",
           "sha": "40833fa3049ca818e1b405808ad0f925ca9daa70"
+        },
+        {
+          "number": 13,
+          "title": "Chương 13: Đột kích bộ lạc Orc (13)",
+          "path": "translations/legend-1/vi/Chapter_013.md",
+          "sha": "4b5b494d11899b2263e373e6add43d457cea54e4"
         }
       ]
     },
