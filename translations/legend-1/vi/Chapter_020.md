@@ -24,7 +24,7 @@ Rồi ông nhấp một, hai ngụm rượu vang vốn định để dành sau k
 
 Kế đó, ông nhìn vào chiếc gương treo trong phòng để quan sát gương mặt mình.
 
-Hình ảnh phản chiếu trong gương là một người đàn ông trung niên tầm tuổi tứ tuần, toát lên vẻ hung dữ bặm trợn. Hàng ria mép quanh khóe miệng càng làm tăng thêm vẻ dữ dằn ấy.
+Hình ảnh phản chiếu trong gương là một người đàn ông trung niên tầm bốn mươi tuổi, toát lên vẻ hung dữ bặm trợn. Hàng ria mép quanh khóe miệng càng làm tăng thêm vẻ dữ dằn ấy.
 
 Sau khi hít sâu thêm một hơi, ông quay lại bàn làm việc và xem lướt qua tập tài liệu vừa xem lúc nãy.
 
@@ -68,7 +68,7 @@ Giữa lúc Bá tước biên cảnh Rowlocks lẩm bẩm như vậy, tiếng g�
 
 "Rõ! Tôi là Ranga, đội trưởng đội cảnh vệ. Nghe nói ngài cho gọi tôi ạ."
 
-Liếc nhìn Ranga một lượt, gương mặt bặm trợn cùng hàng ria mép đầy vẻ uy hiếp của anh ta khiến ông bất giác mỉm cười vì trông có nét hao hao mình, đoạn cất lời.
+Liếc nhìn Ranga một lượt, gương mặt bặm trợn cùng bộ râu đầy vẻ uy hiếp của anh ta khiến ông bất giác mỉm cười vì trông có nét hao hao mình, đoạn cất lời.
 
 "Ừ. Ta gọi anh tới là vì chuyện bản báo cáo vừa nộp."
 
@@ -146,11 +146,11 @@ Ma pháp và ma thuật. Cả hai từ vốn dĩ cùng chỉ một thứ, nhưng
 
 Dù vừa càu nhàu, nhưng đến lúc này Bá tước biên cảnh Rowlocks đã gần như gạt bỏ hoàn toàn khả năng Rei là gián điệp hay đặc vụ nước ngoài.
 
-"Ngay cả bản thân cậu ta hình như cũng chẳng rõ nơi đó ở đâu. Chỉ nghe bảo sau khi hoàn thành khóa tu luyện ma pháp, sư phụ bảo cậu ta ra ngoài làm mạo hiểm giả để rèn luyện tiếp, rồi dùng ma pháp dịch chuyển ném thẳng vào Rừng Ma."
+"Ngay cả bản thân cậu ta hình như cũng chẳng rõ nơi đó ở đâu. Chỉ nghe bảo sau khi việc tu luyện ma pháp cơ bản đã xong, sư phụ bảo cậu ta ra ngoài làm mạo hiểm giả để rèn luyện tiếp, rồi dùng ma pháp dịch chuyển ném thẳng vào Rừng Ma."
 
 "Rừng Ma sao."
 
-Bá tước biên cảnh Rowlocks trầm giọng thở dài. Đó là khu rừng nằm cách thành phố này khoảng mười ngày đi bộ; nói về quái vật cấp thấp thì có Slime hoặc dã thú thông thường thậm chí còn chưa phải quái vật, nhưng ở cấp bậc cao hơn thì đến cả loài rồng cũng sinh sống tại đó, đích thực là khu rừng của ma thú: Rừng Ma.
+Bá tước biên cảnh Rowlocks trầm giọng thở dài. Đó là khu rừng nằm cách thành phố này khoảng mười ngày đi bộ; nói về quái vật cấp thấp thì có Slime hoặc dã thú thông thường thậm chí còn chưa phải quái vật, nhưng ở cấp bậc cao hơn thì đến cả loài rồng cũng sinh sống tại đó, đích thực là khu rừng của quái vật: Rừng Ma.
 
 "Vâng. Hình như cậu ta đã hạ gục Gấu Nước cùng Jarm ở đó, rồi bán da lông của chúng lấy tiền nộp thuế."
 
@@ -208,9 +208,9 @@ Trước lời nhắc nhở của kẻ cầm đoản kiếm, hắn bực dọc t
 
 Nợ nần. Đúng vậy, nhóm mạo hiểm giả Hạng D Móng Vuốt Chim Ưng hiện đang mang một khoản nợ ngập đầu.
 
-Mọi chuyện bắt nguồn từ bữa tiệc ăn mừng sau khi cả nhóm chinh phục được khu vực cài cắm bẫy ma thuật trong hầm ngục mà họ nhắm tới.
+Mọi chuyện bắt nguồn từ bữa tiệc ăn mừng sau khi cả nhóm chinh phục được khu vực cài cắm bẫy ma pháp trong hầm ngục mà họ nhắm tới.
 
-Với bản tính vốn thô lỗ và cộc cằn, Vargas đã kiếm chuyện với người đến đăng ký tại Hội Mạo Hiểm Giả, ngặt nỗi kẻ mà hắn đụng phải lại quá xui xẻo. Lời qua tiếng lại, cả bọn cược sạch tiền vào trận quyết đấu trước cửa Hội và chuốc lấy thất bại thảm hại. Toàn bộ tiền bạc cùng vũ khí mang theo người đều bị lột sạch sành sanh, thứ duy nhất còn sót lại chỉ là thân xác mình mẩy đầy thương tích cùng xương gãy.
+Với bản tính vốn thô lỗ và cộc cằn, Vargas đã kiếm chuyện với người đến đăng ký tại Hội Mạo Hiểm Giả, ngặt nỗi hắn lại đụng nhầm đối thủ. Lời qua tiếng lại, cả bọn cược sạch tiền vào trận quyết đấu trước cửa Hội và chuốc lấy thất bại thảm hại. Toàn bộ tiền bạc cùng vũ khí mang theo người đều bị lột sạch sành sanh, thứ duy nhất còn sót lại chỉ là thân xác mình mẩy đầy thương tích cùng xương gãy.
 
 Đặc biệt là Vargas, hắn rơi vào cảnh khốn đốn tột cùng khi bị tước mất cây rìu chiến, món Đạo Cụ Ma Thuật vừa mới kiếm được trong hầm ngục.
 

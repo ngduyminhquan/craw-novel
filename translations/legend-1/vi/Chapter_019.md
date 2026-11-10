@@ -64,7 +64,7 @@ Liếc nhanh về phía thân cây xem thứ gì vừa tấn công mình, đập
 
 "Thuộc loài rắn à?"
 
-Rei vừa lẩm bẩm thì câu hỏi lập tức có lời giải ngay khoảnh khắc tiếp theo, khi một bóng đen nhảy bổ ra từ bụi rậm. Đó là một con cóc khổng lồ to đến quá đầu gối của Rei. Lớp da của nó phủ đầy chất nhầy màu đỏ đen giống hệt chiếc lưỡi vừa bị chém đứt, đôi mắt vô cảm không chút cảm xúc chằm chằm nhìn vào Rei và Set.
+Rei vừa lẩm bẩm thì câu hỏi lập tức có lời giải ngay khoảnh khắc tiếp theo, khi một bóng đen nhảy bổ ra từ bụi rậm. Đó là một con cóc khổng lồ to đến quá đầu gối của Rei. Lớp da của nó phủ đầy chất nhầy màu đỏ đen giống hệt chiếc lưỡi vừa bị chém đứt, đôi mắt vô cảm không lộ chút biểu cảm nào nhìn chằm chằm vào Rei và Set.
 
 (Cóc trong khu rừng này à... Nhớ mang máng bảng ủy thác Hạng F có nhiệm vụ tiêu diệt Poison Toad... Là con này sao?)
 
@@ -102,7 +102,7 @@ Lớp da của nó phủ đầy chất lỏng màu đỏ đen, nhìn vào là th
 
 (Nguyên liệu thu hoạch được gồm lưỡi, túi độc trong cơ thể và hai chân sau à. Nhưng mà...)
 
-Cậu vừa đối chiếu với sách vừa nhìn xuống đất. Nằm ở đó là xác con Poison Toad bị Lưỡi Hái Tử Thần cắt đứt lưỡi và chém đôi cơ thể. Về phần lưỡi, do bị chém đứt khi đang phóng về phía Rei nên tuy không thu được tận gốc nhưng vẫn có thể nhặt lại. Hai chân sau thì hoàn toàn nguyên vẹn nên tình trạng rất tốt. Ngặt nỗi, bộ phận được thu mua với giá cao nhất của Poison Toad là túi độc lại bị chém đứt làm đôi cùng với thân mình, hoàn toàn không còn ở trạng thái có thể thu hồi. Hay đúng hơn, chất độc từ chỗ bị chém đang trào ra xối xả, làm ăn mòn luôn cả mớ nội tạng của con cóc.
+Cậu vừa đối chiếu với sách vừa nhìn xuống đất. Nằm ở đó là xác con Poison Toad bị Lưỡi Hái Tử Thần cắt đứt lưỡi và chém đôi cơ thể. Về phần lưỡi, do bị chém đứt khi đang phóng về phía Rei nên tuy không thu được tận gốc nhưng vẫn có thể nhặt lại. Hai chân sau thì hoàn toàn nguyên vẹn nên tình trạng rất tốt. Ngặt nỗi, bộ phận được thu mua với giá cao nhất của Poison Toad là túi độc lại bị chém đứt làm đôi cùng với thân mình, hoàn toàn không còn ở trạng thái có thể thu hồi. Hay đúng hơn, chất độc từ chỗ bị chém đang trào ra xối xả, ăn mòn luôn cả mớ nội tạng của con cóc.
 
 "Lưỡi thì lát nữa thu gom sau, trước hết cứ lấy Ma Thạch đã."
 
@@ -132,7 +132,7 @@ Chắc hẳn Set đang lo ngại làn khói độc bốc lên nếu đốt cái 
 
 "Grrr!"
 
-Cùng với Set sủa khẽ một tiếng, cậu tiếp tục rảo bước qua những lối đi không bóng người giữa rừng sâu.
+Set kêu gọn một tiếng rồi cùng cậu tiếp tục băng qua khu rừng sâu không một lối mòn.
 
 Thấy Set chốc chốc lại mổ nếm thử mấy quả dại trên cây khiến cậu không khỏi bật cười, nhưng vì đây là chuyến ủy thác đầu tiên nên Rei vẫn giữ sự cảnh giác nhất định khi tiến sâu vào rừng.
 
@@ -156,13 +156,13 @@ Khóe miệng con lợn mọc ra cặp nanh khổng lồ chĩa ngược lên tr�
 
 Gật đầu trước tiếng kêu giục giã mau lên của Set, cậu ghé sát tai nó thì thào.
 
-"Nghe này Set. Tao sẽ dùng ma thuật lửa thu hút sự chú ý của con Fang Boar, mày canh sơ hở từ trên cao mà tấn công nó nhé."
+"Nghe này Set. Tao sẽ dùng ma pháp lửa thu hút sự chú ý của con Fang Boar, mày canh sơ hở từ trên cao mà tấn công nó nhé."
 
 "Grrr!"
 
 Khẽ kêu lên như muốn bảo cứ để đó cho nó, Set lùi dần ra xa khỏi Rei. Hẳn là nó tính toán để khi bay lên không trung cũng không bị con Fang Boar phát hiện.
 
-Nhìn theo bóng Set tách ra, Rei cân nhắc xem nên dùng loại ma thuật nào.
+Nhìn theo bóng Set tách ra, Rei cân nhắc xem nên dùng loại ma pháp nào.
 
 (Mục đích hàng đầu là không để con Fang Boar trốn thoát. Tức là phải giữ chân nó lại. Thế thì... ra vậy, dùng lửa bao vây xung quanh nó là nhanh nhất.)
 
@@ -186,7 +186,7 @@ Một bức tường lửa khổng lồ hiện ra ngay trước mắt khiến co
 
 Con Fang Boar nháo nhào chạy qua chạy lại bên trong bức tường lửa, nhưng sức nóng của ngọn lửa chỉ cần lại gần thôi cũng đủ nung lớp lông vốn rất cứng chắc của nó và gây bỏng nhẹ trên da, thành thử nó cứ hết tiến lại gần rồi lại dạt ra xa bức tường lửa.
 
-Dù chỉ là dã thú... à không, chính vì là dã thú nên nó mới dùng bản năng để cảm nhận được mình sẽ chịu thương tổn nặng nề ra sao nếu liều mạng xông qua bức tường lửa trước mắt. Thế nhưng, sự ngập ngừng đó đã trở thành sai lầm lớn nhất và cũng là cuối cùng trong đời con Fang Boar. Nếu lúc ấy nó cắn răng lao qua bức tường lửa thì dù bị bỏng nặng, nó vẫn có cơ hội sống sót. Chính vì do dự, kẻ mang tới cái chết cho con Fang Boar đã giáng xuống từ trên cao.
+Dù chỉ là dã thú... à không, chính vì là dã thú nên nó mới dùng bản năng để cảm nhận được mình sẽ chịu thương tổn nặng nề ra sao nếu liều mạng xông qua bức tường lửa trước mắt. Thế nhưng, sự ngập ngừng đó đã trở thành sai lầm lớn nhất và cũng là cuối cùng trong đời con Fang Boar. Nếu lúc ấy nó cắn răng lao qua bức tường lửa thì dù bị bỏng nặng, nó vẫn có cơ hội sống sót. Chính vì nó do dự, kẻ mang tới cái chết cho con Fang Boar đã giáng xuống từ trên cao.
 
 "Grrr!"
 

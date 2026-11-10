@@ -22,7 +22,7 @@ Vừa thầm tính toán trong bụng, cậu vừa cùng Set rảo bước dọc
 
 Thỉnh thoảng Set lại kêu khẽ trong họng như muốn hỏi sao không bay đi, nhưng Rei vỗ về xoa lưng nó rồi tiếp tục tiến bước.
 
-Thi thoảng hai người cũng chạm mặt người đi đường, nhưng hầu hết họ vừa trông thấy Set là đứng chết trân tại chỗ, đợi cậu và nó đi khuất trước mặt mới co giò chạy thục mạng về hướng thành phố Gilm.
+Thi thoảng cả hai cũng chạm mặt người đi đường, nhưng hầu hết họ vừa trông thấy Set là đứng chết trân tại chỗ, đợi cậu và nó đi khuất trước mặt mới co giò chạy thục mạng về hướng thành phố Gilm.
 
 "Gừưưư!"
 
@@ -68,7 +68,7 @@ Và dẫu quân số có đông đến đâu, một khi Soldier Ant vốn đã c
 
 Dẫn ma lực qua Lưỡi Hái Tử Thần, cậu vung lưỡi chém bay đầu, phạt đứt đôi thân xác chúng. Lúc thì dùng cán thúc mạnh vào bụng hất tung lên không trung rồi vung một đường lưỡi hái chém dọc từ trên xuống dưới.
 
-Set cũng dùng Thủy Cầu bắn nát đầu đối phương, hoặc tập trung phun Hơi Thở Lửa liên tục vào một con cho tới khi biến thành than vụn. Chiếc mỏ sắc nhọn vô song của nó mổ xuyên qua thân mình, còn cặp móng vuốt thì quặp phăng đầu lũ quái vật.
+Set cũng dùng Thủy Cầu bắn nát đầu đối phương, hoặc tập trung phun Hơi Thở Lửa liên tục vào một con cho tới khi biến thành than vụn. Chiếc mỏ sắc nhọn vô song của nó mổ xuyên thủng thân mình chúng, còn cặp móng vuốt thì quặp phăng đầu lũ quái vật.
 
 Chỉ vài phút sau khi giao tranh nổ ra. Chỉ vẻn vẹn vài phút ngắn ngủi, hơn ba mươi con Soldier Ant đã bị tiêu diệt sạch trơn, để lại dịch cơ thể cùng những phần xác vương vãi khắp mặt đất.
 
@@ -104,7 +104,7 @@ Bản thân Soldier Ant không phải đối thủ quá mạnh. Không, nói th�
 
 Thế nhưng vấn đề nằm ở mức độ tiêu hao thể lực. Ba mươi con vừa rồi thì đánh xong hầu như chẳng thấy mệt mỏi chút nào. Nhưng nếu phải lặp lại những trận chiến cùng quy mô như thế thêm vài lần, mười mấy lần, hoặc thậm chí hàng chục lần thì sẽ ra sao?
 
-Đúng là dù là Rei hay Set thì cơ thể họ đều dẻo dai, cường tráng hơn người thường và quái vật thông thường rất nhiều. Dẫu vậy, họ cũng đâu có thể lực vô hạn. Mệt mỏi thì chuyển động sẽ chậm chạp đi là điều tất nhiên, mà chuyển động chậm lại thì có thể sẽ dính đòn tấn công. Hơn nữa, thể xác của Rei và Set dẫu có bất lão nhưng tuyệt đối không phải bất tử.
+Đúng là dù là Rei hay Set thì cơ thể cả hai đều dẻo dai, cường tráng hơn người thường và quái vật thông thường rất nhiều. Dẫu vậy, cả hai cũng đâu có thể lực vô hạn. Mệt mỏi thì chuyển động sẽ chậm chạp đi là điều tất nhiên, mà chuyển động chậm lại thì có thể sẽ dính đòn tấn công. Hơn nữa, thể xác của Rei và Set dẫu có bất lão nhưng tuyệt đối không phải bất tử.
 
 Song bảo bỏ qua viên Ma Thạch của quái vật Hạng C như Queen Ant thì lại quá uổng phí.
 
@@ -128,7 +128,7 @@ Tuy chẳng hẳn là chuyện may mắn, nhưng cậu đã nắm được thôn
 
 Vừa cảnh giới xung quanh vừa mổ rỉa xác Soldier Ant, Set ngơ ngác quay sang nhìn Rei.
 
-"Chúng ta sẽ tìm kiếm Queen Ant từ trên không. Rồi bất ngờ tập kích hạ gục Queen Ant trong một đòn."
+"Mình lên trời tìm Queen Ant thôi. Rồi bất ngờ tập kích hạ gục Queen Ant trong một đòn."
 
 "Gùuu!"
 
@@ -136,7 +136,7 @@ Gật đầu đồng tình trước đề xuất của Rei, Set khom người xu
 
 "Gừưư!"
 
-Cất tiếng kêu dõng dạc, Set lấy đà vài bước rồi dang rộng đôi cánh đại bàng vỗ mạnh. Nhìn tốc độ lao vút lên không trung như thể đang đạp vào thinh không, Rei bất giác mỉm cười; đồng thời khi phát hiện một đàn Soldier Ant khác đang kéo tới đúng chỗ hai người vừa đứng, cậu không khỏi nở nụ cười vì đã kịp thời tránh được một trận chiến dây dưa.
+Cất tiếng kêu dõng dạc, Set lấy đà vài bước rồi dang rộng đôi cánh đại bàng vỗ mạnh. Nhìn tốc độ lao vút lên không trung như thể đang đạp vào thinh không, Rei bất giác mỉm cười; đồng thời khi phát hiện một đàn Soldier Ant khác đang kéo tới đúng chỗ cả hai vừa đứng, cậu không khỏi nở nụ cười vì đã kịp thời tránh được một trận chiến dây dưa.
 
 "Chắc phải mất thêm một lúc nữa chúng mới tới được chỗ tao với mày vừa hạ lũ kia, nhưng nếu cứ đứng đó thì kiểu gì cũng bị cuốn vào một trận chiến tiêu hao. Quyết định sớm đúng là sáng suốt."
 
@@ -206,11 +206,11 @@ Con kia bị đường lưỡi hái Rei vung ra chém ngọt làm đôi.
 
 "Được rồi, tiếp theo là vị trí của Queen Ant..."
 
-Đúng lúc Rei vừa lẩm bẩm dứt lời, một tiếng rít chói tai khổng lồ vang vọng khắp không gian.
+Đúng lúc Rei vừa lẩm bẩm dứt lời, một tiếng rít vô cùng lớn vang vọng khắp không gian.
 
 "Kè kè kè kè kè kè kè kè kèe!"
 
-Chủ nhân của tiếng rít phát ra từ gần một cái cây cách vị trí của Set khoảng ba mươi mét về phía trước. Tại nơi đó sừng sững bóng dáng một quái vật kiến khổng lồ, to lớn vượt xa Soldier Ant và Imperial Ant.
+Chủ nhân của tiếng rít nằm ở gần một cái cây cách vị trí của Set khoảng ba mươi mét về phía trước. Tại nơi đó sừng sững bóng dáng một quái vật kiến khổng lồ, to lớn vượt xa Soldier Ant và Imperial Ant.
 
 Đó chính là.
 

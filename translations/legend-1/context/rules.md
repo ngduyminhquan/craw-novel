@@ -36,3 +36,4 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 - (#3) Tiếng kêu của Set (`グルゥ`, `グルルゥ`, `グルルルゥ`) dịch tự nhiên theo ngữ cảnh (`"Grrr"`, `"Gừưư"`, `"Gùuu"`).
 - (#6) Thông báo hệ thống khi học kỹ năng mới và bảng kỹ năng thống nhất định dạng: `【セトは『<Tên kỹ năng>　Lv.N』を習得した】` → `[Set đã học được "<Tên kỹ năng> Lv.N"]`; bảng kỹ năng: `[Set]` và `[<Tên kỹ năng> Lv.N]`.
 - (#15) Tên nhà trọ `夕暮れの小麦亭` là `Hoàng Hôn Mạch Đình` — user chốt, giữ nguyên dù là Hán Việt (ngoại lệ của nguyên tắc tránh Hán Việt nặng trong `style.md`). Không đổi tên này.
+- (#11, #20) Phân biệt rõ `魔術` (`ma thuật`, `魔術師` → `ma thuật sư` — thuật ngữ cổ thời Zepairu, nay đã mai một) và `魔法` (`ma pháp`, `魔法使い` → `ma pháp sư` — thuật ngữ thông dụng ở thời đại hiện tại). Dịch đúng theo chữ dùng trong raw vì sự khác biệt giữa hai từ này là chi tiết cốt truyện.
