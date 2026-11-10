@@ -74,3 +74,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Bobbs | * | tôi / ta | các người / cậu / anh | 25 | Chỉ huy chiến dịch, dứt khoát |
 | Rei | Bobbs | tôi | ông / anh | 25 | Báo cáo thực lực và trao đổi ủy thác |
 | Bobbs | Rei | tôi / ta | cậu | 25 | Giao việc và kiểm tra thực lực tân binh |
+| Rei | Kenny | tôi | cô | 26 | Giao tiếp bình thường, giữ khoảng cách |
+| Kenny | Rei | tôi / chị | cậu / cậu Rei | 26 | Tán tỉnh, trêu chọc tân binh |
