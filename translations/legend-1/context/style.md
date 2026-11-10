@@ -26,6 +26,10 @@
 | グルゥッ！ | Grrr! | Tiếng kêu dứt khoát / sẵn sàng chiến đấu của Set |
 | ちぃっ | Chậc | Rei tặc lưỡi |
 | ふぅ | Phù | Thở phào |
+| ブモ / ブモッ | Ục | Tiếng kêu / khịt ngắn của Orc |
+| ブモォッ | Ụccc | Tiếng kêu / rống kéo dài của Orc |
+| ブモモ | Ục ục | Tiếng kêu hoảng hốt của Orc |
+| ブモオオッ / ブモルァッ | Hộcccc | Tiếng gầm rống giận dữ / chiến đấu của Orc |
 
 ## Đặc điểm ghi nhận theo chương
 
