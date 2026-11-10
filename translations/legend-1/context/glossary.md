@@ -90,3 +90,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | アイアンソード |  | Kiếm Sắt | vật phẩm | 15 | Trường kiếm bằng sắt thông thường của nhóm Vargas |
 | アイアンダガー |  | Đoản Kiếm Sắt | vật phẩm | 15 | Đoản kiếm bằng sắt thông thường của nhóm Vargas |
 | 空間魔法 |  | Không Gian Ma Pháp | kỹ năng | 15 | Cách gọi hiện đại của Không Gian Ma Thuật (空間魔術) |
+| 魔人 |  | Ma Nhân | danh hiệu | 16 | Danh xưng người đạt đến cảnh giới tột cùng của ma thuật, có sức mạnh hủy diệt cả quốc gia |
+| 従魔の首飾り |  | Vòng Cổ Tùng Ma | vật phẩm | 16 | Vòng cổ chứng nhận quái vật thuần hóa hoặc quái vật triệu hồi được phép đi lại trong thành phố |
+| 魔物の解体　初心者編 | 魔物の解体初心者編; 魔物の解体 初心者編 | Mổ Xẻ Quái Vật: Nhập Môn | vật phẩm | 16 | Sách hướng dẫn mổ xẻ quái vật cho người mới bắt đầu |

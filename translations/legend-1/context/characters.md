@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 15: Vừa ra khỏi Rừng Quái Vật, đến thành phố Gilm, đăng ký làm mạo hiểm giả Hạng G và thuê phòng tại nhà trọ Hoàng Hôn Mạch Đình.
+- Trạng thái tính đến chương 16: Mua cuốn sách Mổ Xẻ Quái Vật: Nhập Môn để học mổ xẻ quái vật; phát hiện Zepairu thực chất sống cách đây hàng nghìn năm và là một Ma Nhân khét tiếng.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -61,3 +61,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Drum
 - Vẻ ngoài, tính cách: Thanh niên trạc 20 tuổi, mặt mũi thuần phác rất giống mẹ; hiền lành, yêu động vật, không hề sợ hãi trước Griffin mà rất thích vuốt ve lông của Set.
 - Vai trò: Con trai của Lana, phụ trách chăm sóc khu chuồng thú của quán trọ Hoàng Hôn Mạch Đình.
+
+### Zepairu
+- Thân thế: Đại ma thuật sư sống cách đây hàng nghìn năm, được người đời xưng tụng là Ma Nhân; người đứng đầu môn phái sáng tạo Ma Thú Thuật và đã dung hợp linh hồn với Rei.
