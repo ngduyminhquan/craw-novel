@@ -30,7 +30,7 @@ Năm mươi con. Con số vừa thốt ra, các mạo hiểm giả xung quanh li
 
 "Tao xin kiếu. Hồi trước tổ đội tao từng chạm trán ba con Orc mà suýt nữa tan đàn xẻ nghé."
 
-"Tôi thì tham gia. Thù lao hậu hĩnh là một chuyện, quan trọng hơn là nếu để bộ lạc Orc mọc lên ở nơi chỉ cách đây một ngày đường, thành phố Gilm sẽ chịu thiệt hại nặng nề mất."
+"Tao thì tham gia. Thù lao hậu hĩnh là một chuyện, quan trọng hơn là nếu để bộ lạc Orc mọc lên ở nơi chỉ cách đây một ngày đường, thành phố Gilm sẽ chịu thiệt hại nặng nề mất."
 
 Lắng nghe những mẩu đối thoại đó, Rei lần giở lại mớ kiến thức của Zepairu sau một thời gian dài để tra cứu thông tin về Orc.
 
@@ -60,7 +60,7 @@ Khẽ gật đầu, Rei rảo bước tới chỗ Lenora, cô tiếp tân buộc
 
 Rei khẽ gật đầu đáp lại Lenora khi cô mỉm cười cất tiếng hỏi. Ngay bên cạnh, cô tiếp tân thú nhân mèo vừa xử lý giấy ủy thác của mạo hiểm giả khác vừa liếc trộm sang phía Rei, nhưng cậu không hề nhận ra.
 
-"Vậy tờ ủy thác đâu ạ?"
+"Vậy tờ ủy thác của cậu đâu?"
 
 "Cho tôi nhận ủy thác tiêu diệt Orc vừa thông báo lúc nãy."
 
@@ -116,7 +116,7 @@ Két! Trong số những kẻ đang nhìn chằm chằm ấy, bỗng có mấy n
 
 Một tổ đội đứng gần cửa sổ đang thì thầm to nhỏ như vậy, và hầu hết những ai có biểu hiện kỳ lạ lúc Rei bước vào phòng họp cũng đều thì thào với đồng đội những lời tương tự. Điểm chung duy nhất giữa những người có vẻ bất thường ấy: tất cả họ đều là những người có thể sử dụng ma pháp.
 
-Bản thân Rei chuyên về ma thuật Hỏa nên không nhận ra, song trong số các ma pháp sư cũng có người sở hữu khả năng cảm nhận ma lực của kẻ khác. Những ma pháp sư có năng lực ấy đã trực tiếp cảm nhận được nguồn ma lực áp đảo đến nghẹt thở đang ẩn chứa trong người cậu.
+Bản thân Rei chuyên về ma pháp Hỏa nên không nhận ra, song trong số các ma pháp sư cũng có người sở hữu khả năng cảm nhận ma lực của kẻ khác. Những ma pháp sư có năng lực ấy đã trực tiếp cảm nhận được nguồn ma lực áp đảo đến nghẹt thở đang ẩn chứa trong người cậu.
 
 (...Gì thế nhỉ? Bộ có đứa nhận ra giá trị của chiếc Áo Choàng Rồng à?)
 
@@ -134,7 +134,7 @@ Tự nhủ thầm trong bụng, Rei ngồi xuống chiếc ghế trống ở gó
 
 "Nhưng nếu đúng là nó thì mới chỉ ở Hạng G thôi chứ gì? Đi diệt Orc chẳng phải quá sớm sao?"
 
-"Mà nó hạ được Vargas trong trận đấu tay đôi thì tao nghĩ cũng chẳng cần lo đâu. Thằng chả đó nếu chỉ tính riêng sức chiến đấu thì ngang ngửa Hạng C chứ đùa. ...Mỗi tội đầu óc toàn cơ bắp thôi."
+"Mà nó hạ được Vargas trong trận đấu tay đôi thì tao nghĩ cũng chẳng cần lo đâu. Thằng cha đó nếu chỉ tính riêng sức chiến đấu thì ngang ngửa Hạng C chứ đùa. ...Mỗi tội đầu óc toàn cơ bắp thôi."
 
 "Làm nên chuyện thì tốt... chỉ mong đừng có thành gánh nặng ngáng chân người khác."
 
@@ -164,7 +164,7 @@ Và khi trông thấy những bóng người đó, cả phòng họp lập tức
 
 Bị cuốn hút bởi phản ứng khác thường ấy, Rei cũng như bao người khác đưa mắt nhìn về phía ba mạo hiểm giả vừa xuất hiện.
 
-Người đầu tiên lọt vào tầm mắt cậu là người đàn ông đi tiên phong. Tuổi tác ước chừng khoảng cuối ba mươi đến đầu bốn mươi. Ông ta sở hữu mái tóc xanh lá, trên gương mặt nở nụ cười tinh quái chẳng hề hợp với độ tuổi chút nào, thản nhiên đón nhận mọi ánh nhìn của các mạo hiểm giả trong phòng. Miêu tả người này là một đứa nhóc nghịch ngợm lớn xác có lẽ là chuẩn xác nhất. Khối cơ bắp cuồn cuộn như đá tảng bao bọc lấy cơ thể, chiều cao chỉ cỡ trung bình so với nam giới trưởng thành nhưng cảm giác đầm chắc và nặng trịch toát ra lại cực kỳ ấn tượng. Sau lưng ông ta đeo một cây rìu chiến khổng lồ, hẳn đó chính là vũ khí chính. Cùng dùng rìu chiến như Vargas, nhưng nếu ví Vargas là Goblin thì người này chẳng khác nào Cyclops, khí chất toát ra khác biệt một trời một vực. Thêm nữa, cây rìu chiến trên lưng ông ta cũng tỏa ra sức hút kỳ lạ khiến người ta không thể rời mắt, ngay cả một kẻ không cảm nhận được ma lực như Rei cũng đoán được đó chắc chắn là một Đạo Cụ Ma Thuật.
+Người đầu tiên lọt vào tầm mắt cậu là người đàn ông đi đầu. Tuổi tác ước chừng khoảng cuối ba mươi đến đầu bốn mươi. Ông ta sở hữu mái tóc xanh lá, trên gương mặt nở nụ cười tinh quái chẳng hề hợp với độ tuổi chút nào, thản nhiên đón nhận mọi ánh nhìn của các mạo hiểm giả trong phòng. Miêu tả người này là một đứa nhóc nghịch ngợm lớn xác có lẽ là chuẩn xác nhất. Khối cơ bắp cuồn cuộn như đá tảng bao bọc lấy cơ thể, chiều cao chỉ cỡ trung bình so với nam giới trưởng thành nhưng cảm giác đầm chắc và nặng trịch toát ra lại cực kỳ ấn tượng. Sau lưng ông ta đeo một cây rìu chiến khổng lồ, hẳn đó là vũ khí chính của ông ta. Cùng dùng rìu chiến như Vargas, nhưng nếu ví Vargas là Goblin thì người này chẳng khác nào Cyclops, khí chất toát ra khác biệt một trời một vực. Thêm nữa, cây rìu chiến trên lưng ông ta cũng tỏa ra sức hút kỳ lạ khiến người ta không thể rời mắt, ngay cả một kẻ không cảm nhận được ma lực như Rei cũng đoán được đó chắc chắn là một Đạo Cụ Ma Thuật.
 
 Bước sau người đàn ông đó là một nữ mạo hiểm giả khoảng ngoài ba mươi tuổi. Nhìn cây gậy phép trên tay cô, hẳn đây là một ma pháp sư. Có lẽ để tiện bề vận động nên mái tóc màu xanh biển của cô được cắt ngắn ngang vai dứt khoát. Vừa bước chân vào phòng, nữ mạo hiểm giả ấy cũng theo phản xạ đưa mắt nhìn về phía Rei, để rồi khi nhìn thẳng vào luồng ma lực của cậu, cô bất giác giật mình lùi lại một bước.
 

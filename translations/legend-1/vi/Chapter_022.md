@@ -62,7 +62,7 @@ Mũi chiếc đại hái cắm phập vào chân giữa bên phải của Queen 
 
 [Vũ Điệu Hỏa Xà!]
 
-Ma thuật được giải phóng. Cùng lúc, con rắn lửa chui tọt vào bên trong chiếc chân Queen Ant nơi lưỡi hái vừa cắm vào.
+Ma pháp được giải phóng. Cùng lúc, con rắn lửa chui tọt vào bên trong chiếc chân Queen Ant nơi lưỡi hái vừa cắm vào.
 
 "Kè kè kè kè kè kè kè!"
 
@@ -90,13 +90,13 @@ Trước sự dai sức ấy, Rei thầm cảm thán quả không hổ danh là 
 
 [Hỡi ngọn lửa, hãy tuân theo ý ta mà thiêu rụi kẻ thù]
 
-Vừa dứt câu thần chú, một quả cầu lửa đường kính chừng 30 centimet liền hiện ra trước Lưỡi Hái Tử Thần. Đoạn, Rei vung cao Lưỡi Hái Tử Thần... rồi kích hoạt ma thuật.
+Vừa dứt câu thần chú, một quả cầu lửa đường kính chừng 30 centimet liền hiện ra trước Lưỡi Hái Tử Thần. Đoạn, Rei vung cao Lưỡi Hái Tử Thần... rồi kích hoạt ma pháp.
 
 [Hỏa Cầu!]
 
 Khối lửa tựa như phiên bản hệ Hỏa của Thủy Cầu mà Set sử dụng bay vút đi theo đà vung xuống của Lưỡi Hái Tử Thần với tốc độ cực nhanh, lao thẳng về phía Queen Ant.
 
-Thế nhưng Queen Ant cũng đã nếm trải sức mạnh ma thuật Hỏa từ sinh vật nhỏ bé trước mắt qua lần bị thiêu đốt nội tạng, nên nó không dại gì đón đỡ trực diện mà né tránh bằng cách rạp mình sát đất.
+Thế nhưng Queen Ant cũng đã nếm trải uy lực ma pháp Hỏa từ sinh vật nhỏ bé trước mắt qua lần bị thiêu đốt bên trong cơ thể, nên nó không dại gì đón đỡ trực diện mà né tránh bằng cách rạp mình sát đất.
 
 ...Mà không hề hay biết rằng, đó chính là điều Rei muốn.
 
@@ -116,7 +116,7 @@ Mà đối thủ Rei và Set đang đối đầu lại là Queen Ant, kẻ đứ
 
 Như để chứng minh điều đó, dẫu đã mất đầu cùng một nửa số chân, Queen Ant vẫn vung chiếc chân giữa bên trái lên.
 
-Đang nghe tiếng gầm của Set, cảnh tượng ấy liền đập vào mắt Rei...
+Đang nghe tiếng gầm của Set thì cảnh tượng ấy đập vào mắt Rei...
 
 "Set, tránh mau!"
 
@@ -166,7 +166,7 @@ Cậu lấy cuốn "Mổ Xẻ Quái Vật: Nhập Môn" từ Nhẫn Sương Mù 
 
 "Mà công nhận, con kiến có cánh kia đúng là tên Imperial Ant thật đấy à."
 
-Dù thầm nghĩ cái tên ấy nghe có phần quá đơn giản, nhưng Rei cũng tự biết tên các ma thuật mình dùng cũng chẳng cầu kỳ gì cho cam nên cậu không nói ra miệng.
+Dù thầm nghĩ cái tên ấy nghe có phần quá đơn giản, nhưng Rei cũng tự biết tên các ma pháp mình dùng cũng chẳng cầu kỳ gì cho cam nên cậu không nói ra miệng.
 
 "Thế này thì chuyện mổ xẻ đành để sau vậy, cứ cất xác vào Nhẫn Sương Mù đã... Cơ mà ít nhất cũng phải lấy Ma Thạch ra trước."
 
@@ -244,4 +244,4 @@ Tiền thưởng ngày hôm ấy cho Ma Thạch và nguyên liệu của Soldier
 
 [Ăn Mòn Lv.1] new
 
-Ăn Mòn: Bằng cách chém nhiều lần vào trang bị kim loại của mục tiêu sẽ khiến nó bị ăn mòn. Khi Lv tăng lên, có thể ăn mòn với số lần chém ít hơn.
+Ăn Mòn: Chém nhiều lần vào trang bị kim loại của mục tiêu sẽ khiến trang bị đó bị ăn mòn. Khi Lv tăng lên, có thể ăn mòn với số lần chém ít hơn.

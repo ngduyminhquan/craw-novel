@@ -18,7 +18,7 @@ May là lúc này sắp điểm chuông trưa, bên trong Hội hầu như chẳ
 
 "Sao thế, tự dưng lại thở dài thườn thượt vậy?"
 
-Cô bạn đồng nghiệp bên cạnh Lenora tò mò hỏi han. Đó là Kenny, một thú nhân mèo. Cô nàng vươn vai như muốn phô bày cơ thể dẻo dai đặc trưng của miêu tộc, điều đó càng khiến Lenora, người vốn mang mặc cảm về vòng một khiêm tốn của mình, dấy lên chút ghen tị.
+Cô bạn đồng nghiệp bên cạnh Lenora tò mò hỏi han. Đó là Kenny, một thú nhân mèo. Cô nàng vươn vai như muốn phô bày cơ thể dẻo dai đặc trưng của loài mèo, điều đó càng khiến Lenora, người vốn mang mặc cảm về vòng một khiêm tốn của mình, dấy lên chút ghen tị.
 
 "Nè, cái này này."
 
@@ -56,7 +56,7 @@ Bị Kenny nhìn bằng ánh mắt đầy ngờ vực, Lenora liền đáp lại
 
 "Vậy sao lại có mệnh lệnh thế này?"
 
-"Chắc do mạo hiểm giả tên Rei đó là nhân tộc, nên lúc đăng ký ở Hội mới bắt chuyện với tớ. Sau đó khi nhận ủy thác cậu ta cũng tìm đến tớ nộp nữa."
+"Chắc do mạo hiểm giả tên Rei đó là nhân tộc, nên lúc đăng ký ở Hội mới bắt chuyện với tớ. Sau đó khi nhận ủy thác cậu ta cũng mang tới chỗ tớ nữa."
 
 "Thế chẳng phải tên Rei đó đang nhắm tới cậu sao?"
 
@@ -66,7 +66,7 @@ Tuy nhiên, điều Kenny nói cũng không hẳn là sai. Dẫu sao nữ tiếp
 
 Kenny có ý bảo rằng liệu có phải Rei cũng tiếp cận Lenora với ý đồ tán tỉnh như vậy không, nhưng với tư cách người trực tiếp tiếp xúc với Rei, Lenora lại không hề cảm thấy mình đang bị tán tỉnh.
 
-Làm tiếp tân ở Hội thì việc bị mạo hiểm giả buông lời trêu ghẹo tán tỉnh là điều diễn ra như cơm bữa. Trong khuôn viên Hội có cả khu vực quán rượu, nên mỗi năm đều có vài gã say xỉn sán tới đòi bọn Lenora rót rượu hầu hạ. ...Dĩ nhiên, những kẻ như thế sẽ bị quy vào tội cản trở công việc của Hội và bị tống thẳng vào phòng giam dưới tầng hầm. Hôm sau đành phải gạt nước mắt nộp một khoản tiền phạt không nhỏ vì tội gây rối.
+Làm tiếp tân ở Hội thì việc bị mạo hiểm giả buông lời trêu ghẹo tán tỉnh là điều diễn ra như cơm bữa. Trong khuôn viên Hội có cả khu vực quán rượu, nên mỗi năm đều có vài gã say xỉn sán tới đòi bọn Lenora rót rượu hầu hạ. ...Dĩ nhiên, những kẻ như thế sẽ bị quy vào tội cản trở công việc của Hội và bị tống thẳng vào phòng giam của Hội. Hôm sau đành phải gạt nước mắt nộp một khoản tiền phạt không nhỏ vì tội gây rối.
 
 "Chuyện đó chắc chắn không có đâu. Với lại, người tên Rei được nhắc tới trong tài liệu này chính là cậu nhóc đó đấy. Cậu nhóc từng xích mích với nhóm Móng Vuốt Chim Ưng ấy mà."
 
@@ -104,7 +104,7 @@ Goblin thì không nói, chứ việc một mình hạ gục hơn ba mươi con 
 
 "Dù sao cậu nhóc đó nghe đâu mới chừng mười lăm tuổi thôi đúng không? Ở độ tuổi đó mà có thực lực cỡ ấy thì tương lai hoàn toàn có thể vươn tới Hạng S chứ chẳng chơi."
 
-Hạng S trong Hội. Đó là đẳng cấp quy tụ những cá nhân sở hữu thực lực phi phàm vượt ngoài chuẩn mực con người mà trên toàn thế giới chỉ đếm trên đầu ngón tay với vỏn vẹn ba người. Biết đâu Rei, người mà mình được lệnh phải để mắt tới, sau này cũng sẽ trở thành một tồn tại như thế. Nghĩ đến đây, Lenora bất giác cảm thấy một cơn ớn lạnh chạy dọc sống lưng.
+Hạng S trong Hội. Đó là đẳng cấp quy tụ những cá nhân sở hữu thực lực phi phàm vượt ngoài chuẩn mực con người mà trên toàn thế giới chỉ đếm trên đầu ngón tay với vỏn vẹn ba người. Biết đâu Rei, người mà mình được lệnh phải để mắt tới, sau này cũng sẽ trở thành một nhân vật như thế. Nghĩ đến đây, Lenora bất giác cảm thấy một cơn ớn lạnh chạy dọc sống lưng.
 
 "Thế nhân vật chính của chúng ta hôm nay không tới à? Sáng nay tớ cũng không thấy bóng dáng cậu ta đâu."
 
@@ -134,7 +134,7 @@ Nghe Lenora nói vậy, lần này đến lượt khóe mắt Kenny giật giậ
 
 Căng thẳng như dây đàn. Hai cô nàng đang ở trong trạng thái chực chờ bùng nổ, nhưng ngay khoảnh khắc tiếp theo, tiếng chuông báo hiệu giờ trưa đã ngân vang khắp xung quanh.
 
-Các nhân viên và tiếp tân khác của Hội nãy giờ nhìn hai người với vẻ mặt "lại thế nữa rồi", nhanh chóng rời khỏi quầy để đi ăn trưa.
+Các nhân viên và tiếp tân khác của Hội nãy giờ nhìn hai người với vẻ mặt ngán ngẩm như muốn nói lại nữa rồi đấy, nhanh chóng rời khỏi quầy để đi ăn trưa.
 
 Ở lại quầy lúc này chỉ còn những người không may trúng ca trực trưa, cùng Lenora và Kenny đang trừng mắt nhìn nhau như đặt cược cả lòng kiêu hãnh của phái nữ vào đó.
 
@@ -158,7 +158,7 @@ Nhìn chất lỏng màu xanh lam, Rei lẩm bẩm.
 
 Cách dùng thuốc hồi phục cực kỳ đơn giản: nghe chủ tiệm tạp hóa bảo thì có hai cách là uống trực tiếp hoặc rưới lên vết thương.
 
-Về mặt hiệu quả, đường uống mang lại tác dụng vượt trội hơn hẳn. Trước hết, tác dụng không chỉ giới hạn ở vị trí bị thương mà lan ra toàn bộ cơ thể, hơn nữa hiệu quả hồi phục còn duy trì được trong một khoảng thời gian nhất định. Đã thế còn được kèm thêm tác dụng phụ là hồi phục đôi chút thể lực. Trái lại, cách rưới trực tiếp chỉ chữa lành vết thương ở đúng chỗ thuốc tiếp xúc là hết, chẳng có tác dụng hồi phục kéo dài hay hồi phục thể lực gì thêm.
+Về mặt hiệu quả, đường uống mang lại tác dụng vượt trội hơn hẳn. Trước hết, tác dụng không chỉ giới hạn ở vị trí bị thương mà lan ra toàn bộ cơ thể, hơn nữa hiệu quả hồi phục còn duy trì được trong một khoảng thời gian nhất định. Đã thế còn kèm theo hiệu quả cộng thêm là hồi phục đôi chút thể lực. Trái lại, cách rưới trực tiếp chỉ chữa lành vết thương ở đúng chỗ thuốc tiếp xúc là hết, chẳng có tác dụng hồi phục kéo dài hay hồi phục thể lực gì thêm.
 
 Tuy vậy, ở thế giới này, phương pháp rưới lên miệng vết thương vẫn là cách phổ biến rộng rãi nhất, còn số người chọn cách uống thì hiếm đến mức đếm trên đầu ngón tay. Tại sao ư? Đơn giản là vì mùi vị của thuốc hồi phục dở tệ đến mức kinh khủng.
 
