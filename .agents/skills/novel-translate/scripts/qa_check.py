@@ -138,7 +138,8 @@ def check(novel, row):
                 variants += [w for w in re.split(r"[\s·・]+", e["vi"]) if len(w) >= 3]
         if not any(v.lower() in vi_text.lower() for v in variants):
             warns.append(f"'{e['en']}' có trong raw nhưng bản dịch không có '{e['vi']}'")
-        elif ja and id(e) not in char_ids and len(variants) == 1 and variants[0] != variants[0].lower() and " " in variants[0] \n                and "viết thường" not in e["row"].get("ghi chú", "").lower():
+        elif (ja and id(e) not in char_ids and len(variants) == 1 and variants[0] != variants[0].lower()
+              and " " in variants[0] and "viết thường" not in e["row"].get("ghi chú", "").lower()):
             # Thuật ngữ viết hoa trong glossary (vd "Dao Mithril") phải giữ đúng chữ hoa ở mọi chỗ.
             # In kèm chữ đứng sau để thấy cả cụm (vd "Số thuật sư" là chức danh, nên thêm thuật ngữ riêng).
             wrong = sorted({m.group(0).strip() for m in re.finditer(re.escape(variants[0]) + r"(?:\s+\w+)?",
