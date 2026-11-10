@@ -35,9 +35,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 28 |  | Chapter_0028 - オーク集落襲撃 - 第28話.txt | オーク集落襲撃 - 第28話 | reviewed |  |
 | 29 |  | Chapter_0029 - オーク集落襲撃 - 第29話.txt | オーク集落襲撃 - 第29話 | reviewed |  |
 | 30 |  | Chapter_0030 - オーク集落襲撃 - 第30話.txt | オーク集落襲撃 - 第30話 | reviewed |  |
-| 31 |  | Chapter_0031 - オーク集落襲撃 - 第31話.txt | オーク集落襲撃 - 第31話 | done |  |
-| 32 |  | Chapter_0032 - オーク集落襲撃 - 第32話.txt | オーク集落襲撃 - 第32話 | done |  |
-| 33 |  | Chapter_0033 - オーク集落襲撃 - 第33話.txt | オーク集落襲撃 - 第33話 | done |  |
+| 31 |  | Chapter_0031 - オーク集落襲撃 - 第31話.txt | オーク集落襲撃 - 第31話 | reviewed |  |
+| 32 |  | Chapter_0032 - オーク集落襲撃 - 第32話.txt | オーク集落襲撃 - 第32話 | reviewed |  |
+| 33 |  | Chapter_0033 - オーク集落襲撃 - 第33話.txt | オーク集落襲撃 - 第33話 | reviewed |  |
 | 34 |  | Chapter_0034 - オーク集落襲撃 - 第34話.txt | オーク集落襲撃 - 第34話 | todo |  |
 | 35 |  | Chapter_0035 - オーク集落襲撃 - 第35話.txt | オーク集落襲撃 - 第35話 | todo |  |
 | 36 |  | Chapter_0036 - オーク集落襲撃 - 第36話.txt | オーク集落襲撃 - 第36話 | todo |  |

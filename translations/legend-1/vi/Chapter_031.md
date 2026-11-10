@@ -4,7 +4,7 @@ Mây giăng kín trời che khuất ánh trăng, tạo nên màn đêm tăm tố
 
 Lấy bộ lạc Orc làm trung tâm, các tổ đội chia nhau mai phục ở tám hướng gồm bắc, đông bắc, đông, đông nam, nam, tây nam, tây và tây bắc.
 
-Theo kế hoạch tác chiến do Bobbs phổ biến, trước tiên tổ đội Rìu Lôi Thần sẽ tấn công rầm rộ vào phía đông bộ lạc — nơi phòng tuyến còn dang dở nhưng lại được canh phòng nghiêm ngặt nhất; đợi khi viện binh Orc bị hút về hướng đó, các tổ đội ở những vị trí khác sẽ đồng loạt đánh vào các điểm phòng thủ đã suy yếu.
+Theo kế hoạch tác chiến do Bobbs phổ biến, trước tiên tổ đội Rìu Lôi Thần sẽ tấn công rầm rộ vào phía đông bộ lạc, nơi còn đang dựng dở nên được canh phòng rất nghiêm ngặt. Đợi khi viện binh Orc bị hút về hướng đó, các tổ đội ở những vị trí khác sẽ đồng loạt đánh vào các điểm phòng thủ đã suy yếu.
 
 Dĩ nhiên, từng có ý kiến lo ngại rằng Rìu Lôi Thần ra tay đầu tiên sẽ thu hút toàn bộ đòn tấn công của lũ Orc và biến nơi đó thành chiến trường khốc liệt nhất; thế nhưng chỉ bằng một câu của đội trưởng Elk: "Hãy tin vào một tổ đội Hạng A như chúng tôi", các tổ đội khác đều bị thuyết phục hoàn toàn. Có thể khiến mọi người yên tâm chỉ bằng một câu nói như vậy chính là minh chứng cho thấy thành tích và thực lực bấy lâu nay của họ được tin tưởng đến mức nào.
 
@@ -18,7 +18,7 @@ Giữa màn đêm, thân hình Set thấp thoáng dưới ánh trăng mờ ảo 
 
 Ban đầu, từng có người thắc mắc liệu Griffin mang nửa thân trên của đại bàng thì có nhìn rõ trong đêm được không, nhưng nhờ Rei khẳng định lúc cả hai qua đêm trong Rừng Ma nó vẫn nhìn rất rõ nên khúc mắc đó đã được giải tỏa.
 
-"Lũ Orc kia, mạng sống của các ngươi sẽ kết thúc tại đây vào đêm nay. Hãy làm nguồn sức mạnh cho ta và Set rồi biến mất đi."
+"Lũ Orc kia, mạng của tụi mày sẽ kết thúc tại đây vào đêm nay. Hãy trở thành nguồn sức mạnh cho tao và Set rồi biến mất đi."
 
 Gần như cùng lúc với lời lẩm bẩm của Rei, ở phía đông bộ lạc Orc, vài tia sét chói lòa đồng loạt giáng xuống dữ dội. Đó chính là ma pháp của Min, ma pháp sư thuộc tổ đội Rìu Lôi Thần.
 
@@ -72,7 +72,7 @@ Rei cất tiếng hỏi Set đang dò xét xung quanh, nhưng chú Griffin khẽ
 
 Vừa thu dọn xong thì một thành viên trong đội thảo phạt cất tiếng gọi; đó chính là trưởng nhóm của tổ đội vừa bị lũ Orc Archer bắn tỉa lúc nãy.
 
-Có lẽ vì cứ để bị ghìm chân thì không làm ăn gì được, nên nhân lúc đợt mưa tên vừa ngớt, anh ta đã định xông ra tìm cách đối phó. Đi sau người trưởng nhóm là một chiến binh mang kiếm và giáp da — dáng vẻ điển hình của một khinh chiến sĩ.
+Có lẽ vì cứ để bị ghìm chân thì không làm ăn gì được, nên nhân lúc đợt mưa tên vừa ngớt, anh ta đã định xông ra tìm cách đối phó. Theo sau người trưởng nhóm là một chiến sĩ trang bị nhẹ điển hình mang kiếm và giáp da.
 
 "Người còn lại đâu rồi?"
 
@@ -100,7 +100,7 @@ Người chiến binh gật đầu, trưởng nhóm cũng đồng tình.
 
 "Không có gì, đây cũng là nhiệm vụ của tôi mà."
 
-Đáp lại lời người trưởng nhóm một cách nhẹ nhàng, cậu trèo lên lưng Set.
+Đáp gọn lời người trưởng nhóm, cậu trèo lên lưng Set.
 
 "Set."
 
@@ -142,9 +142,9 @@ Quả không hổ danh là chủng cấp cao, nhận ra có thứ gì đó đang
 
 Đúng là bình thường thì làm vậy là quá đủ. Thanh đại kiếm mà con Orc General đang cầm có kích thước khổng lồ chẳng khác nào một thanh cự kiếm; nếu là vũ khí thông thường thì nó thừa sức chặn đứng dễ dàng. Thế nhưng...
 
-"Đừng tưởng thứ đó chặn nổi đòn tấn công của ta!"
+"Đừng tưởng thứ đó chặn nổi đòn tấn công của tao!"
 
-Thứ đang giáng xuống chính là Lưỡi Hái Tử Thần — lưỡi hái của Thần Chết. Đó là Đạo Cụ Ma Thuật được tạo ra nhờ vật chất hóa lượng ma lực khổng lồ của Rei như một sản phẩm phụ từ Ma Thú Thuật. Hiệu ứng của nó không chỉ giúp gia tăng độ sắc bén khi truyền ma lực, mà còn khiến cây đại hái nặng hơn một trăm kilôgam này chỉ đem lại cảm giác nhẹ tựa đôi đũa tre. Cây đại hái nặng hơn một trăm ký được dồn thêm ma lực để tăng độ sắc bén, thử hỏi khi một đòn đánh như thế giáng xuống mà lại dùng thanh đại kiếm phàm trần không chút ma lực nào để đỡ thì kết cục sẽ ra sao? Câu trả lời lúc này đang hiển hiện ngay trước mắt Rei.
+Thứ đang giáng xuống chính là Lưỡi Hái Tử Thần, lưỡi hái của Thần Chết. Đó là Đạo Cụ Ma Thuật được tạo ra nhờ vật chất hóa lượng ma lực khổng lồ của Rei như một sản phẩm phụ từ Ma Thú Thuật. Hiệu ứng của nó không chỉ giúp gia tăng độ sắc bén khi truyền ma lực, mà còn khiến cây đại hái nặng hơn một trăm kilôgam này chỉ đem lại cảm giác nhẹ tựa đôi đũa tre. Cây đại hái nặng hơn một trăm ký được dồn thêm ma lực để tăng độ sắc bén, thử hỏi khi một đòn đánh như thế giáng xuống mà lại đỡ bằng một thứ vũ khí dù là đại kiếm nhưng chẳng phải Đạo Cụ Ma Thuật hay gì cả thì kết cục sẽ ra sao? Câu trả lời lúc này đang hiển hiện ngay trước mắt Rei.
 
 Cây Lưỡi Hái Tử Thần chém ngọt qua thanh đại kiếm mà con Orc General giương lên mà không hề gặp chút lực cản nào, xẻ đứt chiếc mũ làm từ da quái vật, rồi bổ dọc qua đầu và thân mình cùng toàn bộ lớp giáp của nó; lưỡi hái nện thẳng xuống đất phát ra tiếng nổ đinh tai, cuốn tung bụi đất mù mịt xung quanh và tạo nên một hố sâu có bán kính chừng hai mét.
 
@@ -152,7 +152,7 @@ Cây Lưỡi Hái Tử Thần chém ngọt qua thanh đại kiếm mà con Orc G
 
 Giật mình ngoảnh lại trước âm thanh ấy, thứ lũ Orc nhìn thấy chính là cảnh tên chỉ huy của chúng bị chém làm đôi cùng bộ giáp, đổ gục sang hai bên ngay giữa miệng hố.
 
-Và hiển nhiên Set, kẻ vừa bám theo sau Rei lao xuống từ trên cao, chẳng đời nào bỏ qua sơ hở của lũ Orc đang chết sững vì kinh hãi. Tương tự như đòn tập kích lũ Orc Archer lúc nãy, móng vuốt sắc bén của nó vung ra với uy lực cộng hưởng từ tốc độ rơi cùng sức mạnh bắp thịt, nghiền nát đầu một con Orc.
+Và hiển nhiên Set vừa bám theo sau Rei lao xuống từ trên cao cũng chẳng đời nào bỏ qua sơ hở của lũ Orc đang chết sững vì kinh hãi. Tương tự như đòn tập kích lũ Orc Archer lúc nãy, móng vuốt sắc bén của nó vung ra với uy lực cộng hưởng từ tốc độ rơi cùng sức mạnh bắp thịt, nghiền nát đầu một con Orc.
 
 "Ngay lúc này, tấn công đi!"
 
@@ -188,7 +188,7 @@ Người đàn ông cầm kiếm gật đầu. Nhìn kỹ thì khuôn mặt anh 
 
 Cả ba khẽ cúi đầu rồi rảo bước về phía căn chòi. Dõi mắt nhìn theo bóng lưng họ, Rei bất giác thở dài một hơi.
 
-Theo đúng kế hoạch, việc giải cứu những người phụ nữ bị giam trong căn chòi dự kiến sẽ tiến hành sau khi việc tiêu diệt bầy Orc hoàn tất. Thế nhưng thấy lửa cháy lan khắp bộ lạc, ba người họ hẳn đã nhận định rằng cứ để mặc như vậy thì quá nguy hiểm. Vả lại loài Orc cũng có đủ trí khôn để hành động theo bầy đàn, biết đâu họ cũng lo ngại đến lúc nguy cấp chúng sẽ lôi người ra làm con tin thì càng thêm phiền toái.
+Theo kế hoạch ban đầu, những người phụ nữ bị giam trong căn chòi sẽ được giải cứu sau khi tiêu diệt xong bầy Orc. Thế nhưng thấy lửa cháy lan khắp bộ lạc, ba người họ hẳn đã nhận định rằng cứ để mặc như vậy thì quá nguy hiểm. Vả lại loài Orc cũng có đủ trí khôn để hành động theo bầy đàn, biết đâu họ cũng lo ngại đến lúc nguy cấp chúng sẽ lôi người ra làm con tin thì càng thêm phiền toái.
 
 Trong lúc cùng Set cảnh giới xung quanh, chỉ chừng vài phút sau, nhóm người đã bước ra khỏi căn chòi.
 

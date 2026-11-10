@@ -27,7 +27,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ceryl | セリル | Ceryl | Trưởng nhóm tổ đội mạo hiểm giả Ngôi Sao Màn Đêm (Hạng C) | Chương 28 |
 | Al | アル | Al | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
 | Snee | スニィ | Snee | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
-| Murgas | ムルガス | Murgas | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
+| Murgas | ムルガス | Murgas | Mạo hiểm giả Hạng D (đạo tặc) của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
 
 ## Chi tiết
 
@@ -96,6 +96,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Rhodes
 - Con trai của Elk và Min, mạo hiểm giả Hạng C, tuổi trạc Rei, tóc xanh nhạt.
 - Dùng kiếm và giáp da quái vật; hiếu thắng, bốc đồng, rất bám mẹ và dễ xù lông khi bị trêu chọc.
+- Người kể gọi: cậu ta / cậu thiếu niên / chàng trai / Rhodes (không gọi trống là 'cậu' để tránh nhầm với nam chính Rei).
 
 ### Bobbs
 - Mạo hiểm giả dày dạn kinh nghiệm bị mất nửa trên vành tai phải, được Hội giao chỉ huy chiến dịch thảo phạt bộ lạc Orc.
@@ -105,6 +106,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Ceryl
 - Nữ mạo hiểm giả Hạng C khoảng ngoài 30 tuổi, trưởng nhóm Ngôi Sao Màn Đêm.
 - Thực dụng, nham hiểm; tham gia chiến dịch diệt Orc nhằm cướp Hộp Vật Phẩm của Rei để bán lấy tiền về vương đô sống xa hoa.
+- Cách nói chuyện: với đàn em (Al, Snee, Murgas) khi trao đổi bình thường xưng 'chị', chỉ khi nổi giận hay độc thoại mới xưng 'tao'; đàn em không dùng 'dạ / ạ' với Ceryl.
 
 ### Al
 - Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
@@ -118,3 +120,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Murgas
 - Nam mạo hiểm giả Hạng D, thành viên tổ đội Ngôi Sao Màn Đêm.
 - Tính tình nhát gan, tự nhận chân đánh xe ngựa để canh chừng Set từ xa nhằm kịp tẩu thoát.
+- Chức nghiệp: đạo tặc (盗賊, phụ trách trinh sát, dò/gỡ bẫy của tổ đội).

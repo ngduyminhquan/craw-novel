@@ -10,7 +10,7 @@ Rei vỗ nhẹ lên lưng nó, liếc mắt về phía bóng đêm trong chớp 
 
 "Ục!?"
 
-Mũi tên bắn ra từ bóng tối bị chặt đứt ngọt ngào trong tích tắc khiến con Orc Archer thảng thốt kêu lên... nhưng ngay khoảnh khắc tiếp theo, Rei đã áp sát trước mặt từ lúc nào; cậu giáng mạnh cán Lưỡi Hái Tử Thần xuống, đập nát sọ nó khiến con quái vật chết tốt ngay tại chỗ.
+Mũi tên bắn ra từ bóng tối bị chém rụng gọn lẹ khiến con Orc Archer thảng thốt kêu lên... nhưng ngay khoảnh khắc tiếp theo, Rei đã áp sát trước mặt từ lúc nào; cậu giáng mạnh cán Lưỡi Hái Tử Thần xuống, đập nát sọ khiến con quái vật tắt thở ngay tại chỗ.
 
 "Lạc đàn với đồng bọn à?"
 
@@ -66,7 +66,7 @@ Bởi đó là nơi nổ ra giao tranh đầu tiên nên hiển nhiên sự chú
 
 Dưới tầm mắt của Rei, Elk đang vung cây rìu chiến khổng lồ chém đứt đôi thân xác vài con Orc cùng lúc. Đồng thời, từ cây gậy phép của Min phóng ra vô số mũi tên băng, dội những đòn tấn công rải thảm tích tụ dần sát thương lên hàng loạt con Orc.
 
-Người đứng ra bảo vệ Min chính là Rhodes. Nhằm tiêu diệt trước đối thủ có phương thức tấn công tầm xa như ma pháp sư, vài con Orc hung hãn lao về phía Min, song Rhodes đã chặn ngay trước mặt, dùng kiếm gạt phăng, hóa giải và né tránh toàn bộ đòn công kích của lũ Orc. Rồi chớp lấy sơ hở khi đối phương đánh hụt, cậu tung ra những đường kiếm mau lẹ, dìm từng con Orc xuống vũng máu.
+Người đứng ra bảo vệ Min chính là Rhodes. Nhằm tiêu diệt trước đối thủ có phương thức tấn công tầm xa như ma pháp sư, vài con Orc hung hãn lao về phía Min, song Rhodes đã chặn ngay trước mặt, dùng kiếm gạt phăng, hóa giải và né tránh toàn bộ đòn công kích của lũ Orc. Rồi chớp lấy sơ hở khi đối phương đánh hụt, cậu ta tung ra những đường kiếm mau lẹ, dìm từng con Orc xuống vũng máu.
 
 "Ra vậy. Quả không hổ danh là mạo hiểm giả Hạng C."
 
@@ -100,7 +100,7 @@ Con Orc Mage cất giọng chan chứa ma lực để niệm chú và kích ho�
 
 Set vừa cất tiếng gầm vang dội vừa lao thẳng tới. Chứng kiến cảnh ấy, lũ Orc suýt nữa đã rơi vào hoảng loạn, song con Orc Mage quát tháo đanh thép đã giúp dẹp yên sự hỗn loạn, và khối Hỏa Cầu liền được phóng thẳng về phía Set.
 
-Khối Hỏa Cầu được phóng ra lao vun vút về phía Set đang lao tới với tốc độ cực nhanh... và ngay khoảnh khắc ngỡ như sắp bắn trúng thân thể nó, quả cầu lửa bỗng bùng nổ giữa không trung như bị thứ gì đó chặn đứng.
+Khối Hỏa Cầu vừa phóng ra đã bay vun vút về phía Set đang lao vào toán quân bọc sườn với tốc độ cực nhanh... và ngay khoảnh khắc ngỡ như sắp bắn trúng thân thể nó, quả cầu lửa bỗng bùng nổ giữa không trung như bị thứ gì đó chặn đứng.
 
 "Ục!?"
 
@@ -120,9 +120,9 @@ Theo từng câu chú vang lên, khoảng năm mươi ngọn lửa to bằng ng�
 
 [Vũ Điệu Hỏa Diễm]
 
-Khoảnh khắc câu chú hoàn tất và ma thuật được kích hoạt, năm mươi ngọn lửa như có ý thức riêng liền lượn vòng xung quanh rồi ùa tới bủa vây lũ Orc.
+Khoảnh khắc câu chú hoàn tất và ma pháp được kích hoạt, năm mươi ngọn lửa như có ý thức riêng liền lượn vòng xung quanh rồi ùa tới bủa vây lũ Orc.
 
-Dù hoang mang trước cảnh tượng chưa từng thấy bao giờ, song khi chứng kiến vài đồng bọn bị thiêu chết, lũ Orc liền nhận thức được ở lại đây là vô cùng nguy hiểm nên cắm đầu tháo chạy tán loạn khắp bốn phương tám hướng. Thế nhưng, những ngọn lửa sinh ra từ ma thuật của Rei liền đuổi riết theo bầy Orc tháo chạy; cái ôm bỏng rát của lửa thiêu cháy da thịt chúng, và đồng thời cũng tước đi sinh mạng của từng con một.
+Dù hoang mang trước cảnh tượng chưa từng thấy bao giờ, song khi chứng kiến vài đồng bọn bị thiêu chết, lũ Orc liền nhận thức được ở lại đây là vô cùng nguy hiểm nên cắm đầu tháo chạy tán loạn khắp bốn phương tám hướng. Thế nhưng, những ngọn lửa sinh ra từ ma pháp của Rei liền đuổi riết theo bầy Orc tháo chạy; cái ôm bỏng rát của lửa thiêu cháy da thịt chúng, đồng thời tước đi sinh mạng của từng con một.
 
 "Ụccc!?"
 
@@ -142,7 +142,7 @@ Dù thoáng lộ vẻ tiu nghỉu trên gương mặt, Set vẫn ngoan ngoãn g�
 
 "Trước mắt tao cứ thu xác lũ Orc này vào Nhẫn Sương Mù đã. Đánh xong trận này tao sẽ cho mày ăn, nên ráng nhịn một lát... Hử?"
 
-Bên tai Rei bỗng văng vẳng tiếng bước chân đang tiến lại gần. Nghe nhịp chân thì chỉ có một người, nhưng đối phương đang rảo bước chạy tới.
+Bên tai Rei bỗng văng vẳng tiếng bước chân đang tiến lại gần. Nghe nhịp chân thì chỉ có một người, nhưng đối phương đang chạy về phía này.
 
 "...Lại thêm một toán bọc sườn nữa... hay là tàn quân?"
 

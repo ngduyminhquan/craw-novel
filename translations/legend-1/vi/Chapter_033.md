@@ -26,13 +26,13 @@ Lợi dụng bóng đêm, lũ Orc đã mò tới gần. Từng mũi tên liên t
 
 "Rõ rồi!"
 
-Orc thông thường về cơ bản không trang bị giáp trụ hay phòng cụ. Một phần là do khó kiếm được bộ giáp vừa vặn với kích thước cơ thể, song nguyên nhân lớn nhất nằm ở chính thể chất của loài Orc. Chúng sở hữu những thớ cơ với sức mạnh gấp nhiều lần người thường, bao bọc bên ngoài lại là lớp mỡ dày cộm. Người bình thường dù có dùng kiếm chém hay cầm thương đâm cũng khó lòng xuyên thủng được lớp mỡ ấy.
+Orc thông thường về cơ bản không mặc đồ bảo hộ như giáp trụ. Một phần là do khó kiếm được bộ giáp vừa vặn với kích thước cơ thể, song nguyên nhân lớn nhất nằm ở chính thể chất của loài Orc. Chúng sở hữu những thớ cơ với sức mạnh gấp nhiều lần người thường, bao bọc bên ngoài lại là lớp mỡ dày cộm. Người bình thường dù có dùng kiếm chém hay cầm thương đâm cũng khó lòng xuyên thủng được lớp mỡ ấy.
 
 Từng mũi tên của Snee cũng không ngoại lệ. Thoạt nhìn, con Orc như một con nhím cắm chi chít tên, song phần lớn mũi tên đều bị lớp mỡ chặn đứng, chưa gây ra tổn thương chí mạng nào.
 
 Thế nhưng, việc găm đầy tên trên người lại khiến mọi cử động của con Orc bị vướng víu, làm chậm hành động của nó trong khoảnh khắc ngắn ngủi.
 
-"Chết đi, cái thứ lợn đột lốt này!"
+"Chết đi, cái thứ lợn đội lốt người này!"
 
 Chớp lấy sơ hở trong tích tắc ấy, Al dồn gần như toàn bộ trọng lượng cơ thể vào một nhát chém từ cây Kiếm Bastard nện thẳng vào thân mình con Orc.
 
@@ -48,7 +48,7 @@ Sau khi hạ gục con Orc, Al cắm kiếm xuống đất để chống đỡ c
 
 Vốn dĩ Al là một mạo hiểm giả Hạng D, đủ sức một mình xoay xở chiến đấu với quái vật Hạng D như loài Orc. Song đó chỉ là khi đối đầu một chọi một, còn nếu phải liên tục giao chiến hết trận này qua trận khác thì thể lực tất yếu sẽ cạn kiệt.
 
-"Chị đại, có khi chúng ta nên tạm nghỉ một lát không ạ?"
+"Chị đại, hay là chúng ta tạm nghỉ một lát đi chị?"
 
 Thấy tình trạng của Al, Snee liền ngỏ ý với Ceryl; thế nhưng Ceryl chỉ vung một cú đâm thần tốc sở trường găm thẳng vào mặt con Orc còn lại để dọn dẹp chớp nhoáng rồi khẽ nhíu mày.
 
@@ -62,7 +62,7 @@ Giờ này chắc hẳn Murgas đang lùng sục khắp bộ lạc Orc để tì
 
 Bởi lẽ, đáng lý ra binh lực tập trung phần lớn ở phía đông bộ lạc, nên những kẻ ở hướng đối diện như bọn ả sẽ được thảnh thơi hơn nhiều. Vậy mà chẳng hiểu sao một lượng lớn Orc lại ùa tới tấn công, đẩy cả nhóm vào cảnh tối tăm mặt mũi chống đỡ.
 
-Thật ra, căn nguyên lại xuất phát từ chính cơ cấu thành viên của Ngôi Sao Màn Đêm. Vốn dĩ tổ đội gồm bốn người, song hiện tại tên trộm Murgas đã tách ra đi thám thính nên chỉ còn ba. Trong số đó có tới hai phụ nữ. Ceryl đang ở độ tuổi ngoài ba mươi mặn mà, còn Snee thì ngoài đôi mươi phơi phới. Tạm gác bản tính sang một bên, vẻ ngoài của cả hai đều thuộc diện ưa nhìn, vừa vặn kích thích dục vọng của bầy Orc. Bởi lẽ bộ lạc này mới hình thành, giống cái dùng để sinh sản chỉ có vỏn vẹn hai người phụ nữ loài người tình cờ bắt gặp trên đường di chuyển, thành thử số lượng Orc thiếu thốn là điều khó tránh khỏi.
+Thật ra, căn nguyên lại xuất phát từ chính cơ cấu thành viên của Ngôi Sao Màn Đêm. Vốn dĩ tổ đội gồm bốn người, song hiện tại đạo tặc Murgas đã tách ra đi thám thính nên chỉ còn ba. Trong số đó có tới hai phụ nữ. Ceryl đang ở độ tuổi ngoài ba mươi mặn mà, còn Snee thì ngoài đôi mươi phơi phới. Tạm gác bản tính sang một bên, vẻ ngoài của cả hai đều thuộc diện ưa nhìn, vừa vặn kích thích dục vọng của bầy Orc. Bởi lẽ bộ lạc này mới hình thành, giống cái dùng để sinh sản chỉ có vỏn vẹn hai người phụ nữ loài người tình cờ bắt gặp trên đường di chuyển, thành thử số lượng Orc thiếu thốn là điều khó tránh khỏi.
 
 Kết quả là vài con Orc bất chấp mệnh lệnh của chủng cấp cao mà lao vào tấn công Ngôi Sao Màn Đêm, những con khác thấy đồng bọn đang giao chiến cũng thuận theo bản năng dục vọng mà ùa tới... dẫn đến cục diện như hiện tại.
 
@@ -100,7 +100,7 @@ Giữa lúc Al toan nói thêm điều gì đó, Snee đang cảnh giới bên n
 
 "Chị đại, Murgas quay lại rồi."
 
-"Thế à! Tốt, Snee cứ tiếp tục cảnh giới. Murgas vào đây mau, tao muốn nghe tình hình. Al, chuyện của mày tạm gác lại đã. Giờ thì lo chấp hành lệnh của tao đi."
+"Thế à! Tốt, Snee cứ tiếp tục cảnh giới. Murgas vào đây mau, chị muốn nghe tình hình. Al, chuyện của mày tạm gác lại đã. Giờ thì lo chấp hành lệnh của chị đi."
 
 "...Vâng."
 
@@ -110,7 +110,7 @@ Al miễn cưỡng gật đầu gần như cùng lúc với việc Murgas vội 
 
 "Chậc, bắt chờ rõ lâu. Thế đã tìm ra thằng nhóc tân binh ở đâu chưa?"
 
-"Dạ, cũng lần ra rồi ạ. Ngặt nỗi thằng nhóc làm nhiệm vụ cơ động, vừa đáp xuống quét sạch lũ Orc là lại bay vút lên ngay nên em phải chật vật mãi. Cách đây không lâu, nó vừa dẹp tan một toán Orc tính bọc hậu nhóm Rìu Lôi Thần ở phía đông. Toán đó do một con Orc Mage dẫn đầu, nhưng đã bị con Griffin kia hất văng chết tươi rồi ạ."
+"Vâng, cũng lần ra rồi chị. Ngặt nỗi thằng nhóc làm nhiệm vụ cơ động, vừa đáp xuống quét sạch lũ Orc là lại bay vút lên ngay nên em phải chật vật mãi. Cách đây không lâu, nó vừa dẹp tan một toán Orc tính bọc hậu nhóm Rìu Lôi Thần ở phía đông. Toán đó do một con Orc Mage dẫn đầu, nhưng đã bị con Griffin kia hất văng mất mạng rồi."
 
 Nghe vậy, Ceryl khẽ nhíu mày. Lẽ dĩ nhiên, vì nhắm vào Hộp Vật Phẩm của Rei nên ả rất muốn xếp Rei chung nhóm với bọn mình. Làm thế thì ả có thể tùy ý đánh lén bất kỳ lúc nào. Thế nhưng, đêm hôm trước ả lỡ miệng bảo không thể tin tưởng được Griffin, thành thử Rei mới bị điều đi làm nhiệm vụ cơ động.
 
@@ -120,7 +120,7 @@ Nghe vậy, Ceryl khẽ nhíu mày. Lẽ dĩ nhiên, vì nhắm vào Hộp Vật
 
 Ceryl gặng hỏi và thầm nghĩ nếu quả đúng như thế thì rất khó ra tay tập kích, nhưng câu trả lời của Murgas lại hoàn toàn nằm ngoài dự tính của ả.
 
-"Không ạ, hình như liên tục chiến đấu làm nó kiệt sức nên vừa đáp xuống nghỉ ngơi ở một chỗ lửa chưa bén tới. Thấy cơ hội ra tay ngàn năm có một nên em mới vội quay về báo ngay."
+"Chuyện là hình như liên tục chiến đấu làm nó kiệt sức nên vừa đáp xuống nghỉ ngơi ở một chỗ lửa chưa bén tới. Thấy cơ hội ra tay ngàn năm có một nên em mới vội quay về báo ngay."
 
 "...Hử. Nghỉ ở chỗ lửa chưa bén tới cơ à. Thế xung quanh có Orc hay người của đội thảo phạt không?"
 
@@ -162,7 +162,7 @@ Snee đứng gần cửa ra vào phụng phịu cằn nhằn, nhưng Ceryl khẽ
 
 Nghe tiếng Snee vọng lại từ phía cửa ra vào, Ceryl mỉm cười gật đầu.
 
-"Có chứ. Trước đây có một người từng chiếu cố tao ở thành phố Gilm hiện đang làm việc cho một tổ chức ngầm kiểu đó. Địa chỉ liên lạc tao cũng nắm rõ trong tay."
+"Có chứ. Trước đây có một người từng chiếu cố chị ở thành phố Gilm hiện đang làm việc cho một tổ chức ngầm kiểu đó. Địa chỉ liên lạc chị cũng nắm rõ trong tay."
 
 "Được rồi, chị đại! Vậy trước khi thằng nhóc tân binh nghỉ ngơi xong thì chúng ta mau chóng hành động thôi!"
 
@@ -172,7 +172,7 @@ Cứ thế, canh bạc lớn nhất cuộc đời của nhóm Ngôi Sao Màn Đ�
 
 Có điều, trong nhận thức của Ceryl, đây là một canh bạc mà ả đinh ninh mười mươi phần thắng đã nằm chắc trong tay.
 
-Vào lúc này, nếu Murgas hé răng với Ceryl về khả năng Rei có thể dùng ma pháp thì có lẽ kết cục ập đến với Ngôi Sao Màn Đêm đã khác. Song Murgas hoàn toàn mù tịt thông tin về việc Rei biết dùng ma pháp, đồng thời cũng chẳng hiểu gì về tập tính của loài Griffin, nên cứ đinh ninh việc bầy Orc ngoài con Orc Mage bị thiêu cháy là do năng lực đặc thù của giống loài Griffin gây ra; và vì con Griffin không có mặt ở đó nên gã chỉ biết giục Ceryl mau ra tay chứ chẳng mảy may giải thích thêm lời nào.
+Lúc này, giá như Murgas nói với Ceryl rằng có khả năng Rei biết dùng ma pháp thì có lẽ kết cục ập đến với Ngôi Sao Màn Đêm đã khác. Song Murgas hoàn toàn không biết chuyện Rei cũng dùng được ma pháp, lại chẳng hiểu gì về tập tính của loài Griffin, nên cứ đinh ninh đám Orc ngoài con Orc Mage bị thiêu chết là do năng lực đặc thù nào đó của giống loài Griffin. Nghĩ rằng con Griffin hiện không có mặt ở đó, gã chỉ mải giục Ceryl mau ra tay chứ chẳng hề giải thích gì thêm.
 
 Trong bộ lạc Orc đang bốc cháy ngùn ngụt khắp nơi, Rei đang ngồi nghỉ ngơi tại một góc lửa chưa bén tới. ...Hay nói cho đúng hơn thì cậu đang giả vờ nghỉ ngơi để ai nhìn vào cũng tưởng như vậy.
 
@@ -186,7 +186,7 @@ Và rồi...
 
 (Cuối cùng cũng chịu thò mặt ra rồi à.)
 
-Cảm giác nhồn nhột râm ran ấy. Nó giống hệt thứ cậu từng cảm nhận được từ Queen Ant hay Goblin chủng hiếm, nhưng so với thứ sát khí thuần khiết toát ra từ lũ quái vật kia, thứ cậu đang cảm nhận lúc này lại vẩn đục dục vọng nhơ nhớp. Nói cách khác... đó là sát khí.
+Cảm giác châm chích râm ran ấy. Nó giống hệt thứ cậu từng cảm nhận được từ Queen Ant hay Goblin chủng hiếm, nhưng so với thứ cảm giác thuần khiết toát ra từ lũ quái vật kia, thứ cậu đang cảm nhận lúc này lại vẩn đục dục vọng nhơ nhớp. Đó chính là... sát khí.
 
 Bàn tay nắm chặt Lưỡi Hái Tử Thần khẽ dồn lực, Rei kín đáo chỉnh lại thế thủ bên dưới lớp Áo Choàng Rồng để sẵn sàng phản công bất kỳ lúc nào.
 
