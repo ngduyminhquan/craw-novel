@@ -56,3 +56,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | マンドラゴラ |  | Mandragora | vật phẩm | 4 | Thảo dược ma thuật quý hiếm hình người |
 | 魔力回復ポーション |  | Thuốc Hồi Phục Ma Lực | vật phẩm | 4 | Thuốc giúp hồi phục lượng ma lực đã tiêu hao |
 | ソート機能 |  | Tính Năng Sắp Xếp | hệ thống | 4 | Chức năng sắp xếp danh mục vật phẩm trong Nhẫn Sương Mù do Takumu cài đặt |
+| 舞い踊る炎蛇 |  | Vũ Điệu Hỏa Xà | kỹ năng | 5 | Ma thuật hệ Hỏa phóng ra rắn lửa từ vật phát động thiêu rụi mục tiêu từ bên trong |
