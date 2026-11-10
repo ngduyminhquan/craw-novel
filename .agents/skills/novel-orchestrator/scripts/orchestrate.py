@@ -237,7 +237,14 @@ def cmd_brief(slug, args):
         if args.kind == "fix":
             if not args.decisions:
                 die("brief fix cần --decisions")
-            values.update(decisions=args.decisions,
+            # Layout 2: chép nguyên file quyết định vào brief, vì panel sửa hay bỏ qua bước đọc file này
+            # và sửa thẳng theo báo cáo review (kể cả mục đã bị bác).
+            dtext = ""
+            dpath = Path(args.decisions) if Path(args.decisions).is_absolute() else ROOT / args.decisions
+            if layout(load_novel(slug)) >= 2 and dpath.exists():
+                dtext = ("\nNội dung file quyết định (chép nguyên văn, làm theo đúng file này):\n\n"
+                         + read_text(dpath).strip() + "\n")
+            values.update(decisions=args.decisions, decisions_text=dtext,
                           review_report=args.review_report or "(không có — chỉ sửa theo file quyết định)",
                           status_rule=("Giữ nguyên trạng thái các chương trong `progress.md`, không đặt `reviewed`."
                                        if args.keep_status else

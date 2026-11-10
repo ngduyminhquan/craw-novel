@@ -4,8 +4,8 @@ Repo: $root
 
 Việc: sửa các chương $range của truyện `$slug` theo mục D của skill.
 - Báo cáo review: `$review_report`
-- File quyết định của orchestrator: `$decisions`. File này có quyền cao hơn báo cáo review: chỉ sửa mục được chấp nhận, sửa đúng cách ghi trong file.
-
+- File quyết định của orchestrator: `$decisions`. File này có quyền cao hơn báo cáo review: chỉ sửa mục được chấp nhận, sửa đúng cách ghi trong file. Mục bị bác thì không sửa dù báo cáo review có đề xuất.
+$decisions_text
 Không sửa chương nào ngoài $range. Không chạy git.
 
 Tiêu chí xong:

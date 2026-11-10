@@ -10,7 +10,7 @@ Tra cứu (mọi truyện):
 Ghi (chỉ truyện layout 2 — novel.json có "layout": 2; layout 1 sửa thẳng file như cũ):
     python ctx.py <slug> add-term --en X [--alias "a; b"] --vi Y --kind <loại> --ch N [--note ...] [--force]
     python ctx.py <slug> add-char --en X [--alias "a; b"] --vi Y --role ... --ch N [--detail "..."]...
-    python ctx.py <slug> char-note <tên> "<nội dung>"    # thêm một dòng vào mục chi tiết của nhân vật
+    python ctx.py <slug> char-note <tên> "<nội dung>" [--replace <nhãn>]   # thêm (hoặc thay) một dòng mục chi tiết
     python ctx.py <slug> add-alias <tên/thuật ngữ> "<alias>"
     python ctx.py <slug> set <glossary|characters> <tên/thuật ngữ> <cột> "<giá trị>"
     python ctx.py <slug> add-narrator <tên> "<người kể gọi>" N ["<ghi chú>"]
@@ -291,22 +291,34 @@ def insert_detail(lines, heading, body):
     return lines[:end] + ["", f"### {heading}", *body] + lines[end:]
 
 
-def cmd_char_note(novel, name, text):
+def cmd_char_note(novel, name, text, replace=None):
     _, e = resolve(novel, name, "characters")
     if "\n" in text:
         die("mỗi lần chỉ thêm một dòng; gọi lại lệnh cho dòng tiếp theo")
     line = text if text.startswith("- ") else f"- {text}"
+    if replace and not line[2:].lower().startswith(replace.lower()):
+        die(f"--replace '{replace}': nội dung phải bắt đầu bằng đúng nhãn đó, vd \"{replace}: ...\"")
     path = ctx_file(novel, "characters")
     lines = load_lines(path)
     start, end = detail_section(lines, e)
     if start is None:
         lines = insert_detail(lines, e["vi"] or e["en"], [line])
+        action = "+"
     else:
-        while end > start + 1 and not lines[end - 1].strip():
-            end -= 1
-        lines.insert(end, line)
+        old = [i for i in range(start + 1, end)
+               if replace and lines[i].lstrip("- ").lower().startswith(replace.lower())]
+        if old:
+            lines[old[0]] = line
+            for i in reversed(old[1:]):
+                lines.pop(i)
+            action = "thay"
+        else:
+            while end > start + 1 and not lines[end - 1].strip():
+                end -= 1
+            lines.insert(end, line)
+            action = "+"
     save_lines(path, lines)
-    print(f"characters: '{e['en']}' + {line}")
+    print(f"characters: '{e['en']}' {action} {line}")
 
 
 def set_cell(novel, fname, name, col, value):
@@ -488,6 +500,8 @@ def main():
     p.add_argument("name")
     p.add_argument("text", nargs="?")
     p.add_argument("--file")
+    p.add_argument("--replace", metavar="NHÃN",
+                   help="thay dòng đang bắt đầu bằng nhãn này (vd 'Kỹ năng') thay vì thêm dòng mới")
     p = sub.add_parser("add-alias")
     p.add_argument("name")
     p.add_argument("alias")
@@ -543,7 +557,7 @@ def main():
     elif c == "add-char":
         cmd_add_char(novel, args)
     elif c == "char-note":
-        cmd_char_note(novel, args.name, text_arg(args))
+        cmd_char_note(novel, args.name, text_arg(args), args.replace)
     elif c == "add-alias":
         cmd_add_alias(novel, args.name, args.alias)
     elif c == "set":
