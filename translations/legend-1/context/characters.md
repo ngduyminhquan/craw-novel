@@ -24,6 +24,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Min | ミン | Min | Ma pháp sư của tổ đội mạo hiểm giả Hạng A Rìu Lôi Thần | Chương 25 |
 | Rhodes | ロドス; Rodos | Rhodes | Mạo hiểm giả Hạng C của tổ đội Rìu Lôi Thần, con trai của Elk và Min | Chương 25 |
 | Bobbs | ボッブス | Bobbs | Mạo hiểm giả chỉ huy chiến dịch thảo phạt bộ lạc Orc | Chương 25 |
+| Ceryl | セリル | Ceryl | Trưởng nhóm tổ đội mạo hiểm giả Ngôi Sao Màn Đêm (Hạng C) | Chương 28 |
+| Al | アル | Al | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
+| Snee | スニィ | Snee | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
+| Murgas | ムルガス | Murgas | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
 
 ## Chi tiết
 
@@ -96,3 +100,19 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Bobbs
 - Mạo hiểm giả dày dạn kinh nghiệm bị mất nửa trên vành tai phải, được Hội giao chỉ huy chiến dịch thảo phạt bộ lạc Orc.
 - Tác phong dứt khoát, giọng nói sang sảng, thực tế và nghiêm túc.
+
+### Ceryl
+- Nữ mạo hiểm giả Hạng C khoảng ngoài 30 tuổi, trưởng nhóm Ngôi Sao Màn Đêm.
+- Thực dụng, nham hiểm; tham gia chiến dịch diệt Orc nhằm cướp Hộp Vật Phẩm của Rei để bán lấy tiền về Vương đô sống xa hoa.
+
+### Al
+- Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
+- Khá gắn bó với Gilm, tính tình nhát gan và lo sợ trước sức mạnh của Griffin Set.
+
+### Snee
+- Nữ mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
+- Ban đầu tỏ vẻ khinh khỉnh nhưng hoảng sợ khi chứng kiến Griffin xé xác bầy Fang Wolf.
+
+### Murgas
+- Nam mạo hiểm giả Hạng D, thành viên tổ đội Ngôi Sao Màn Đêm.
+- Tính tình nhát gan, tự nhận chân đánh xe ngựa để canh chừng Set từ xa nhằm kịp tẩu thoát.

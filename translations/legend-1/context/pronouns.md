@@ -25,6 +25,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Min | người phụ nữ / cô / Min | 25 | Ma pháp sư tổ đội Rìu Lôi Thần |
 | Rhodes | cậu thiếu niên / chàng trai / Rhodes | 25 | Con trai của Elk và Min |
 | Bobbs | người đàn ông / Bobbs | 25 | Chỉ huy chiến dịch thảo phạt Orc |
+| Ceryl | người phụ nữ / Ceryl / ả | 28 | Trưởng nhóm Ngôi Sao Màn Đêm, nham hiểm |
+| Al | chàng trai / gã thanh niên / Al | 28 | Thành viên Ngôi Sao Màn Đêm |
+| Snee | cô gái / Snee / ả | 28 | Nữ mạo hiểm giả Ngôi Sao Màn Đêm |
+| Murgas | gã / Murgas | 28 | Thành viên nhát gan của Ngôi Sao Màn Đêm |
 
 ## Giữa các nhân vật
 
@@ -77,3 +81,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Kenny | tôi | cô | 26 | Giao tiếp bình thường, giữ khoảng cách |
 | Kenny | Rei | tôi / chị | cậu / cậu Rei | 26 | Tán tỉnh, trêu chọc tân binh |
 | Elk | Bobbs | tôi | anh / Bobbs | 27 | Hai mạo hiểm giả kỳ cựu trao đổi công việc thảo phạt |
+| Al | Ceryl | em / tôi | chị đại | 28 | Đàn em gọi đàn chị trưởng nhóm |
+| Ceryl | Al | chị / tao | Al / mày | 28 | Đàn chị ra lệnh cấp dưới |
+| Snee | Ceryl | em / tôi | chị đại / chị | 28 | Đàn em gọi đàn chị trưởng nhóm |
+| Ceryl | Snee | chị / tao | Snee / mày | 28 | Đàn chị ra lệnh cấp dưới |
+| Al | Snee | tôi / tao | cô / mày / Snee | 28 | Đồng đội cùng hạng D tranh cãi |
+| Snee | Al | tôi | Al / anh | 28 | Đồng đội cùng hạng D nhắc nhở |
+| Ceryl | * | chị / tao | mấy đứa / chúng mày / tụi mày | 28 | Trưởng nhóm nói với cả nhóm Al, Snee, Murgas |
