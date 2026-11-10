@@ -173,6 +173,11 @@ KATA = "ァ-ヺー-ヿ"
 KATA_AFTER = "ァ-ヂツ-ヺヽ-ヿ"
 
 
+# Chữ thuộc hệ không bao giờ có trong bản dịch tiếng Việt từ raw Anh/Nhật: Kirin, Hebrew, Ả Rập, Devanagari,
+# Thái, Hangul. Model hay lẫn các chữ này khi sinh văn bản (vd "Khiยัง", "ма thuật").
+ODD_SCRIPT_RE = re.compile(r"[Ѐ-ӿ֐-׿؀-ۿऀ-ॿ฀-๿가-힯]+")
+
+
 def has_cjk(s):
     return bool(CJK_RE.search(s or ""))
 

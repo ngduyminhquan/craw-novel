@@ -11,7 +11,7 @@ import argparse
 import re
 import sys
 
-from common import (CJK_RE, IMAGE_RE, TN_RE, contains_term, raw_lang, raw_paragraphs, term_regex, entries, get_row,
+from common import (CJK_RE, IMAGE_RE, ODD_SCRIPT_RE, TN_RE, contains_term, raw_lang, raw_paragraphs, term_regex, entries, get_row,
                     is_placeholder, load_novel, load_progress, parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
@@ -81,6 +81,9 @@ def check(novel, row):
             errors.append(f"thiếu dòng ảnh có trong raw: {', '.join(missing_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí")
 
     for n, line in enumerate(vi_paras, 1):
+        if ja and ODD_SCRIPT_RE.search(line):
+            errors.append(f"đoạn {n} có ký tự lạ ({', '.join(ODD_SCRIPT_RE.findall(line))[:30]}) — "
+                          f"chữ Kirin/Thái/Hangul... lẫn vào, sửa lại: {line[:90]}")
         if ja and CJK_RE.search(line):
             warns.append(f"đoạn {n} còn chữ Nhật ({''.join(CJK_RE.findall(line))[:20]}): {line[:90]}")
         hits = ENGLISH_RE.findall(line)

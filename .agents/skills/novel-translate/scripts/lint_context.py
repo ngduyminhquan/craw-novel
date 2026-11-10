@@ -6,6 +6,7 @@ LỖI (exit 1):
   - một tên/thuật ngữ EN (kể cả alias) khai báo ở nhiều dòng trong glossary.md + characters.md
   - tên trong pronouns.md không khớp cột EN của characters.md
   - chương đã dịch mà summaries.md thiếu mục tóm tắt
+  - (layout 2) file context có ký tự hệ chữ lạ (Kirin, Thái, Hangul...) lẫn vào
 Cảnh báo:
   - mục trong '## Đã loại' của glossary bị thêm lại vào bảng
   - nhiều dòng glossary có cùng bản dịch VI (thường là một thuật ngữ khai báo hai lần)
@@ -18,8 +19,8 @@ import re
 import sys
 from collections import defaultdict
 
-from common import (TRANSLATED, all_summaries, entries, layout, load_novel, load_progress, read_text, table_with,
-                    utf8_stdout)
+from common import (ODD_SCRIPT_RE, TRANSLATED, all_summaries, entries, layout, load_novel, load_progress, read_text,
+                    table_with, utf8_stdout)
 
 # Loại thuật ngữ mà rules.md yêu cầu dịch Hán Việt
 MUST_TRANSLATE = ("kỹ năng", "danh hiệu", "chức nghiệp", "cấp bậc")
@@ -73,6 +74,14 @@ def lint(novel):
                          "vào Alias của một dòng")
 
     if layout(novel) >= 2:
+        # Ký tự rác hệ chữ lạ (Kirin, Thái, Hangul...) model hay lẫn vào khi sinh văn bản.
+        files = sorted(ctx.glob("*.md")) + sorted(ctx.glob("summaries/*.md"))
+        for p in files:
+            for n, line in enumerate(read_text(p).splitlines(), 1):
+                bad = ODD_SCRIPT_RE.findall(line)
+                if bad:
+                    errors.append(f"{p.relative_to(ctx).as_posix()}:{n} có ký tự lạ ({', '.join(bad)[:30]}): "
+                                  f"{line.strip()[:80]}")
         have = all_summaries(novel)
         for row in load_progress(novel):
             if row["trạng thái"] in TRANSLATED and row["idx"] not in have:
