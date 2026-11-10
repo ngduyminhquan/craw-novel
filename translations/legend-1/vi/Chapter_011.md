@@ -174,7 +174,7 @@ Rei thầm tặc lưỡi trong bụng, nhưng nguyên nhân là do chính tay ng
 
 Cậu rút một đồng vàng từ trong túi ra đưa cho Ranga.
 
-"Vâng, đã nhận đủ tiền thuế của cậu. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật đã thuần hóa hay thú triệu hồi đi lại trong thành phố thì cậu nhớ đeo chiếc vòng cổ này ở vị trí dễ nhìn thấy nhé. Xin hãy lưu ý rằng nếu quái vật thuần hóa hay quái vật triệu hồi nổi điên gây thiệt hại thì người chủ sẽ phải chịu toàn bộ hình phạt. Hơn nữa, nếu dắt theo quái vật to lớn cỡ con Griffin kia thì tôi khuyên cậu nên đến quán trọ có tên Lúa Mì Hoàng Hôn ở phía đông thành phố. Nói đúng hơn thì chỉ có nơi đó mới đủ chỗ cho Griffin nghỉ ngơi thôi."
+"Vâng, đã nhận đủ tiền thuế của cậu. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật đã thuần hóa hay thú triệu hồi đi lại trong thành phố thì cậu nhớ đeo chiếc vòng cổ này ở vị trí dễ nhìn thấy nhé. Xin hãy lưu ý rằng nếu quái vật thuần hóa hay quái vật triệu hồi nổi điên gây thiệt hại thì người chủ sẽ phải chịu toàn bộ hình phạt. Hơn nữa, nếu dắt theo quái vật to lớn cỡ con Griffin kia thì tôi khuyên cậu nên đến quán trọ có tên Hoàng Hôn Mạch Đình ở phía đông thành phố. Nói đúng hơn thì chỉ có nơi đó mới đủ chỗ cho Griffin nghỉ ngơi thôi."
 
 "Tôi hiểu rồi. Tiện thể cho hỏi Hội Mạo Hiểm Giả ở đâu vậy?"
 

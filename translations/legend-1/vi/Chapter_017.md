@@ -38,7 +38,7 @@ Cậu lẩm bẩm một mình rồi bắt đầu đọc kỹ tờ ủy thác ti�
 
 Trên tờ ủy thác có ghi: tiêu diệt Goblin là ủy thác thường trực, bộ phận xác nhận thảo phạt là tai phải. Số lượng tối thiểu cần tiêu diệt là năm con. Mỗi chiếc tai phải đổi được ba đồng đồng.
 
-Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Lúa Mì Hoàng Hôn nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
+Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Hoàng Hôn Mạch Đình nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
 
 Ngoài chuyện thực lực ra, xét theo khía cạnh đó thì Rei cũng khác một trời một vực so với mạo hiểm giả thông thường.
 

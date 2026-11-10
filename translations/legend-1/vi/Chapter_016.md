@@ -142,4 +142,4 @@ Nghe người thủ thư gật đầu chỉ đường tới hiệu sách xong, R
 
 Đã bỏ ra hai đồng bạc, một khoản tiền không hề nhỏ ở thế giới này, để vào đây thì cậu cũng muốn nán lại đọc thêm chút nữa. Nhưng cuốn sách "Mổ Xẻ Quái Vật: Nhập Môn" mà người thủ thư thấy ở hiệu sách thì bằng giá nào cậu cũng muốn mua cho bằng được. Đắn đo một hồi, Rei tự nhủ sách trong thư viện sẽ chẳng chạy đi đâu mất nên hôm khác quay lại cũng được, liền xin chữ ký vào tờ giấy được phát ở quầy tiếp tân, nhận lại tiền bảo chứng rồi rời khỏi thư viện.
 
-Sau đó, cậu cùng Set đang đợi bên ngoài thư viện tìm tới hiệu sách theo lời chỉ dẫn, bỏ ra khoản tiền khá lớn là một đồng vàng để mua cuốn sách mình cần. Cậu còn tranh thủ sắm thêm quần áo thay và vài món đồ lặt vặt rồi mới quay trở về Lúa Mì Hoàng Hôn.
+Sau đó, cậu cùng Set đang đợi bên ngoài thư viện tìm tới hiệu sách theo lời chỉ dẫn, bỏ ra khoản tiền khá lớn là một đồng vàng để mua cuốn sách mình cần. Cậu còn tranh thủ sắm thêm quần áo thay và vài món đồ lặt vặt rồi mới quay trở về Hoàng Hôn Mạch Đình.
