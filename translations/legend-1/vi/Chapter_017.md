@@ -40,11 +40,11 @@ Trên tờ ủy thác có ghi: tiêu diệt Goblin là ủy thác thường tr�
 
 Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Hoàng Hôn Mạch Đình nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
 
-Ngoài chuyện thực lực ra, xét theo khía cạnh đó thì Rei cũng là một sự tồn tại khác xa với mạo hiểm giả thông thường.
+Ngoài chuyện thực lực ra, xét theo khía cạnh đó thì Rei cũng khác một trời một vực so với mạo hiểm giả thông thường.
 
 Rei gỡ tờ ủy thác tiêu diệt Goblin xuống, cầm tới chỗ cô tiếp tân buộc tóc đuôi ngựa từng tiếp đón cậu hôm đầu tiên bước chân vào Hội.
 
-Mấy mạo hiểm giả quanh đó thấy vậy đều đưa mắt nhìn theo với vẻ mặt đầy vẻ ngạc nhiên. Rõ ràng cậu có thể một mình đè bẹp bốn mạo hiểm giả Hạng D, thế mà nhiệm vụ nhận lại là diệt trừ Goblin, loài nằm gần như sát đáy xã hội quái vật. Có lẽ chẳng ai ngờ nổi cậu chọn nó chỉ vì cái lý do đơn giản đến nực cười: nhắc tới fantasy thì phải có Goblin.
+Mấy mạo hiểm giả quanh đó thấy vậy đều đưa mắt nhìn theo với vẻ mặt đầy ngạc nhiên. Rõ ràng cậu có thể một mình đè bẹp bốn mạo hiểm giả Hạng D, thế mà nhiệm vụ nhận lại là diệt trừ Goblin, loài xếp gần như dưới đáy trong số các quái vật. Có lẽ chẳng ai ngờ nổi cậu chọn nó chỉ vì cái lý do đơn giản đến nực cười: nhắc tới fantasy thì phải có Goblin.
 
 Cơ mà đối thủ là quái vật Hạng F hay Hạng G thì đằng nào cũng gần như chắc chắn chẳng kiếm nổi Ma Thạch đủ cấp độ cho Set hay Lưỡi Hái Tử Thần thăng tiến, nên lựa chọn này của cậu cũng không hẳn là sai.
 
@@ -138,7 +138,7 @@ Vẫn đang lượn trên không trung, Set khẽ lắc đầu sang hai bên. T�
 
 Nghe tiếng Rei, Set khẽ kêu một tiếng rồi khéo léo dùng đôi cánh điều chỉnh lực cản, đáp xuống mặt đất nhẹ nhàng và uyển chuyển đến khó tin, đúng là không hổ danh một Griffin sở hữu nửa thân dưới của loài sư tử.
 
-Gần điểm đáp dường như có vài lữ khách, mạo hiểm giả hoặc thương nhân gì đó, nhưng vừa thấy Set sà xuống là họ đã cắm đầu cắm cổ vắt chân lên cổ chạy thục mạng về phía thành phố Gilm.
+Gần điểm đáp dường như có vài lữ khách, mạo hiểm giả hoặc thương nhân gì đó, nhưng vừa thấy Set sà xuống là họ đã vắt chân lên cổ chạy thục mạng về phía thành phố Gilm.
 
 (...Chắc lát nữa tới cổng thành họ lại hô hoán lên là vừa thấy Griffin, rồi bị Ranga giữ lại giải thích đầu đuôi cho xem.)
 

@@ -35,7 +35,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Kêu `"Gùuu"`, `"Gừưư"`, `"Grrr!"` và biểu đạt qua cử chỉ dụi đầu, nghiêng đầu.
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
 - Kỹ năng: Thủy Cầu Lv.1 (chương 6), Hơi Thở Lửa Lv.1 (chương 18).
-- Trạng thái tính đến chương 8: bay được, cõng Rei bay và phi đường dài qua Rừng Quái Vật.
+- Trạng thái: bay được, cõng Rei bay và phi đường dài qua Rừng Ma; đã được cấp Vòng Cổ Tùng Ma tại thành phố Gilm.
 
 ### Ranga
 - Trung niên 30-40 tuổi để râu cằm, mặt bặm trợn nhưng tính cách và giọng điệu nhẹ nhàng, thân thiện; Đội trưởng đội cảnh vệ thành phố Gilm.

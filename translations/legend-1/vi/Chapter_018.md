@@ -1,6 +1,6 @@
 # Chương 18: Đột kích bộ lạc Orc (18)
 
-Sau khi nhận ủy thác tiêu diệt Goblin rồi tiến vào khu rừng ven đường lớn chừng một tiếng đồng hồ. Set đi trước Rei đã dùng Thủy Cầu bắn xuyên qua bụi rậm khiến một tiếng thét thất thanh vang lên, và ngay sau đó, gần hai mươi con Goblin liền lũ lượt hiện hình bao vây lấy hai người.
+Đã khoảng một tiếng đồng hồ kể từ khi nhận ủy thác tiêu diệt Goblin rồi tiến vào khu rừng ven đường lớn. Set đi trước Rei vừa dùng Thủy Cầu bắn xuyên qua bụi rậm khiến một tiếng thét thất thanh vang lên, và ngay sau đó, gần hai mươi con Goblin liền lũ lượt hiện hình bao vây lấy cả hai.
 
 "Phục kích ư... Không, vào sâu trong rừng thế này thì phục kích nỗi gì. Vậy là tình cờ đụng phải một đàn Goblin rồi chăng."
 
@@ -14,7 +14,7 @@ Con Goblin sau lưng ném đá tới như để đánh đòn phủ đầu, Rei l
 
 Chắc không ngờ mình có thể chém đứt một thân cây to cỡ đó, Rei thoáng lộ vẻ ngạc nhiên trên mặt, nhưng rồi cậu lập tức hét lớn bảo Set nhằm tận dụng thân cây đang dần đổ sập vào trận chiến.
 
-"Set, đợi cây đổ chia cắt chúng ra rồi ta sẽ tiêu diệt từng con một!"
+"Set, đợi cây đổ chia cắt chúng ra rồi mình tiêu diệt từng con một nhé!"
 
 "Grrr!"
 
@@ -48,7 +48,7 @@ Rei thoáng nghĩ có nên truy kích hay không, nhưng dù sao ủy thác cậ
 
 Và rồi tiếng gầm của Set vang lên từ phía bên kia thân cây. Đoán chừng bên đó cũng đã được dọn dẹp êm xuôi, Rei trèo qua thân cây lớn để sang chỗ Set.
 
-Hiện ra trước mắt cậu là xác của lũ Goblin đã chết đứt đoạn, kẻ thì bị Thủy Cầu đập nát bụng, kẻ thì bị móng vuốt đại bàng sắc nhọn cào rách toạc, kẻ lại bị mỏ chim nhọn hoắt cắn xé tơi bời. Số lượng là bốn con. Tuy ít hơn Rei hai con, nhưng trong khi Rei hạ gục sáu con chỉ bằng một đòn thì Set lại tấn công từng con một để tiêu diệt số lượng này. Xét đến tốc độ chạy trốn của loài Goblin thì đây có thể coi là chiến quả rất đáng khen.
+Hiện ra trước mắt cậu là xác của lũ Goblin đã tắt thở, con thì bị Thủy Cầu đập nát bụng, con thì bị cặp chân trước đại bàng với móng vuốt sắc nhọn cào toạc, con lại bị chiếc mỏ nhọn hoắt cắn xé tơi bời. Số lượng là bốn con. Tuy ít hơn Rei hai con, nhưng trong khi Rei hạ gục sáu con chỉ bằng một đòn thì Set lại tấn công từng con một để tiêu diệt số lượng này. Xét đến tốc độ chạy trốn của loài Goblin thì đây có thể coi là chiến quả rất đáng khen.
 
 "Gùuu."
 
@@ -74,7 +74,7 @@ Vừa suy nghĩ mông lung như vậy trong lòng, Rei vừa lần lượt cắt
 
 Nói thêm thì dù gọi là thu thập Ma Thạch của Goblin cho đủ thủ tục, nhưng vì chúng được xem là loài quái vật yếu nhất nên Rei cho rằng có hấp thụ Ma Thạch của chúng thì cả Set lẫn Lưỡi Hái Tử Thần cũng chẳng thể học được kỹ năng nào, thành thử cậu không chút ngần ngại cất thẳng vào Nhẫn Sương Mù. Ma Thạch Goblin chỉ có giá thu mua rẻ như bèo là một đồng đồng mỗi viên, song cậu nghĩ dù sao có vẫn hơn không.
 
-Sau khi thu thập xong chiến lợi phẩm từ bốn con do Set hạ gục, Rei liếc nhìn số vũ khí lũ Goblin từng cầm trong giây lát. Tuy nhiên, dù là kiếm dài hay đoản kiếm thì chúng đều rỉ sét đến mức không dùng nổi, mà bảo tự sửa chữa thì cậu cũng chẳng biết cách. Nhờ thợ rèn hay tiệm vũ khí thì hẳn là được, nhưng tính toán chi phí sửa chữa bỏ ra thì chắc chắn sẽ lỗ vốn. Nhận thấy nếu may mắn lắm thì cùng lắm cũng chỉ hòa vốn, Rei liền dùng cán Lưỡi Hái Tử Thần đập nát chúng để tránh việc lũ Goblin chạy thoát ban nãy quay lại nhặt lấy tái sử dụng.
+Sau khi thu thập xong chiến lợi phẩm từ bốn con do Set hạ gục, Rei liếc nhìn số vũ khí lũ Goblin từng cầm trong giây lát. Tuy nhiên, dù là kiếm dài hay đoản kiếm thì chúng đều rỉ sét đến mức không dùng nổi, mà bảo tự sửa chữa thì cậu cũng chẳng biết cách. Nhờ thợ rèn hay tiệm vũ khí thì hẳn là được, nhưng tính toán chi phí sửa chữa bỏ ra thì chắc chắn sẽ lỗ vốn. Nhận thấy có may mắn lắm thì cũng chỉ hòa vốn, Rei liền dùng cán Lưỡi Hái Tử Thần đập nát chúng để tránh việc lũ Goblin chạy thoát ban nãy quay lại nhặt lấy tái sử dụng.
 
 Côn bổng cũng nằm rải rác xung quanh, song cậu cứ để mặc chúng ở đó. Dù sao thì gọi là côn bổng cho sang chứ thực chất chúng chỉ là cành cây bẻ bừa quanh đây, cậu nghĩ có bẻ gãy đống này thì chúng cũng nhanh chóng kiếm được cái khác thay thế mà thôi.
 
@@ -96,7 +96,7 @@ Set đang cảnh giới gần bên cũng tỏ vẻ bất an, đưa ánh mắt s�
 
 (Có cảm giác kỳ lạ nhưng lại không tài nào xác định được vị trí chính xác... Là chủng hiếm từng nghe ở Hội sao? Mục tiêu của nó là gì? Khả năng an toàn nhất là nó muốn nằm im chờ bọn mình đi qua. Hoặc cũng có thể nó đang nhắm vào khoảnh khắc bọn mình lơ là sau khi thu thập xong để tập kích. Dù sao đi nữa, một con quái vật đủ bản lĩnh để khiến Set không thể định vị được thì Ma Thạch của nó rất đáng để lấy đấy. Ước gì dụ được nó ra thì tốt.)
 
-Nhận định con quái vật hẳn đang rình rập sơ hở của hai người là kẻ địch cần phải tiêu diệt, Rei cắt phăng tai phải của con Goblin cuối cùng rồi toan moi Ma Thạch từ tim nó ra... thì bất thình lình nghe thấy tiếng xé gió lao thẳng về phía mình, cậu lập tức đạp mạnh mặt đất lùi nhanh về cạnh Set.
+Nhận định con quái vật hẳn đang rình rập sơ hở của cả hai là kẻ địch cần phải tiêu diệt, Rei cắt phăng tai phải của con Goblin cuối cùng rồi toan moi Ma Thạch từ tim nó ra... thì bất thình lình nghe thấy tiếng xé gió lao thẳng về phía mình, cậu lập tức đạp mạnh mặt đất lùi nhanh về cạnh Set.
 
 Ngay khoảnh khắc tiếp theo, một thứ gì đó màu đỏ bắn trúng vào xác con Goblin mà mới vài giây trước Rei còn chạm vào, thổi bùng lên những tia lửa tung tóe khắp xung quanh.
 
@@ -118,7 +118,7 @@ Dẫu vậy, nhờ hy sinh chiếc khiên mà kẻ đó thoát được đòn ch
 
 Đến lúc này, Rei mới có chút thảnh thơi để quan sát kỹ đối thủ trước mắt.
 
-Một thanh kiếm dài gãy nửa cùng một chiếc khiên nhỏ cỡ khiên tròn nhỏ đã bị chém làm đôi. Kẻ đang cầm chúng trừng mắt nhìn về phía Rei chính là một con Goblin. Thế nhưng điểm khác biệt so với Goblin thông thường nằm ở màu da của nó. Trong khi Goblin bình thường có làn da xanh lá, thì con Goblin trước mắt Rei lại mang lớp da màu đỏ. Ngoài ra, vóc dáng của nó cũng cao hơn Goblin thường chừng một cái đầu.
+Một thanh kiếm dài gãy nửa cùng một tấm khiên cỡ nhỏ, loại thường gọi là khiên nhỏ cầm tay, đã bị chém làm đôi. Kẻ đang cầm chúng trừng mắt nhìn về phía Rei chính là một con Goblin. Thế nhưng điểm khác biệt so với Goblin thông thường nằm ở màu da của nó. Trong khi Goblin bình thường có làn da xanh lá, thì con Goblin trước mắt Rei lại mang lớp da màu đỏ. Ngoài ra, vóc dáng của nó cũng cao hơn Goblin thường chừng một cái đầu.
 
 "Ra là vậy, chủng hiếm à. Đúng là không ngoa chút nào."
 

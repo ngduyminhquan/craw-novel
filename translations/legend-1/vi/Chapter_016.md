@@ -116,7 +116,7 @@ Có điều đồng hồ lại là một loại Đạo Cụ Ma Thuật, nên ng�
 
 Cậu tiếp tục cầm lên đọc thêm những cuốn sách có nội dung cần thiết cho việc làm mạo hiểm giả, nhưng thứ thu hút sự chú ý của Rei nhất chính là một cuốn sách mang tiêu đề hết sức trực diện: "Mổ Xẻ Quái Vật: Nhập Môn".
 
-Dẫu sao chuyện lột da Gấu Nước tuy êm xuôi nhưng do xử lý ẩu tả nên cậu đã bị ép giá rẻ mạt. Một khi đã xác định sống bằng nghề mạo hiểm giả thì phương pháp mổ xẻ quái vật đúng là kiến thức tối quan trọng. Tuy vậy, nhận thấy chép lại toàn bộ cuốn sách này sẽ tốn quá nhiều thời gian, Rei quyết định cất tiếng hỏi người thủ thư.
+Dẫu sao lúc trước lột được bộ da Gấu Nước thì tốt đấy, nhưng do xử lý ẩu tả nên cậu đã bị ép giá rẻ mạt. Một khi đã xác định sống bằng nghề mạo hiểm giả thì phương pháp mổ xẻ quái vật đúng là kiến thức tối quan trọng. Tuy vậy, nhận thấy chép lại toàn bộ cuốn sách này sẽ tốn quá nhiều thời gian, Rei quyết định cất tiếng hỏi người thủ thư.
 
 "Xin lỗi, phiền anh một chút được không?"
 
@@ -126,7 +126,7 @@ Dẫu sao chuyện lột da Gấu Nước tuy êm xuôi nhưng do xử lý ẩu 
 
 Vừa nói, Rei vừa đưa cuốn "Mổ Xẻ Quái Vật: Nhập Môn" trên tay ra. Thế nhưng người thủ thư nhìn thấy liền làm vẻ áy náy rồi lắc đầu.
 
-"Thành thật xin lỗi cậu. Thư viện chúng tôi không buôn bán sách đâu ạ. Nếu mà bán thì sẽ chẳng còn điểm dừng mất... A, nhưng mà."
+"Thành thật xin lỗi cậu. Thư viện chúng tôi không buôn bán sách đâu. Nếu phá lệ một lần thì sau này sẽ chẳng biết đâu mà lần... A, nhưng mà."
 
 Vừa tạ lỗi, người thủ thư vừa nhìn cuốn sách Rei đưa ra, rồi ngẩng đầu lên như chợt nhận ra điều gì.
 
@@ -142,4 +142,4 @@ Nghe người thủ thư gật đầu chỉ đường tới hiệu sách xong, R
 
 Đã bỏ ra hai đồng bạc, một khoản tiền không hề nhỏ ở thế giới này, để vào đây thì cậu cũng muốn nán lại đọc thêm chút nữa. Nhưng cuốn sách "Mổ Xẻ Quái Vật: Nhập Môn" mà người thủ thư thấy ở hiệu sách thì bằng giá nào cậu cũng muốn mua cho bằng được. Đắn đo một hồi, Rei tự nhủ sách trong thư viện sẽ chẳng chạy đi đâu mất nên hôm khác quay lại cũng được, liền xin chữ ký vào tờ giấy được phát ở quầy tiếp tân, nhận lại tiền bảo chứng rồi rời khỏi thư viện.
 
-Sau đó, cậu cùng Set đang đợi bên ngoài thư viện đi tới hiệu sách được chỉ, bỏ ra khoản tiền khá lớn là một đồng vàng để mua cuốn sách mục tiêu. Cậu còn tranh thủ sắm thêm quần áo thay và vài món đồ lặt vặt rồi mới quay trở về Hoàng Hôn Mạch Đình.
+Sau đó, cậu cùng Set đang đợi bên ngoài thư viện tìm tới hiệu sách theo lời chỉ dẫn, bỏ ra khoản tiền khá lớn là một đồng vàng để mua cuốn sách mình cần. Cậu còn tranh thủ sắm thêm quần áo thay và vài món đồ lặt vặt rồi mới quay trở về Hoàng Hôn Mạch Đình.

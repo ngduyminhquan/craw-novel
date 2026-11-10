@@ -20,9 +20,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 13 |  | Chapter_0013 - オーク集落襲撃 - 第13話.txt | オーク集落襲撃 - 第13話 | reviewed |  |
 | 14 |  | Chapter_0014 - オーク集落襲撃 - 第14話.txt | オーク集落襲撃 - 第14話 | reviewed |  |
 | 15 |  | Chapter_0015 - オーク集落襲撃 - 第15話.txt | オーク集落襲撃 - 第15話 | reviewed |  |
-| 16 |  | Chapter_0016 - オーク集落襲撃 - 第16話.txt | オーク集落襲撃 - 第16話 | done |  |
-| 17 |  | Chapter_0017 - オーク集落襲撃 - 第17話.txt | オーク集落襲撃 - 第17話 | done |  |
-| 18 |  | Chapter_0018 - オーク集落襲撃 - 第18話.txt | オーク集落襲撃 - 第18話 | done |  |
+| 16 |  | Chapter_0016 - オーク集落襲撃 - 第16話.txt | オーク集落襲撃 - 第16話 | reviewed |  |
+| 17 |  | Chapter_0017 - オーク集落襲撃 - 第17話.txt | オーク集落襲撃 - 第17話 | reviewed |  |
+| 18 |  | Chapter_0018 - オーク集落襲撃 - 第18話.txt | オーク集落襲撃 - 第18話 | reviewed |  |
 | 19 |  | Chapter_0019 - オーク集落襲撃 - 第19話.txt | オーク集落襲撃 - 第19話 | todo |  |
 | 20 |  | Chapter_0020 - オーク集落襲撃 - 第20話.txt | オーク集落襲撃 - 第20話 | todo |  |
 | 21 |  | Chapter_0021 - オーク集落襲撃 - 第21話.txt | オーク集落襲撃 - 第21話 | todo |  |
