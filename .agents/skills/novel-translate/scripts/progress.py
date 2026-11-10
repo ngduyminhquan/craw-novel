@@ -7,13 +7,13 @@
 """
 import argparse
 
-from common import (QUESTIONS_HEADER, STATUSES, die, get_row, layout, load_novel, load_progress, parse_range,
+from common import (QUESTIONS_HEADER, ArgParser, STATUSES, die, get_row, layout, load_novel, load_progress, parse_range,
                     questions_path, read_text, save_progress, utf8_stdout)
 
 
 def main():
     utf8_stdout()
-    ap = argparse.ArgumentParser()
+    ap = ArgParser()
     ap.add_argument("slug")
     sub = ap.add_subparsers(dest="cmd", required=True)
     p_next = sub.add_parser("next")

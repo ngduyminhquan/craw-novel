@@ -1,4 +1,5 @@
 """Hàm dùng chung cho các script của skill novel-translate (chỉ dùng thư viện chuẩn)."""
+import argparse
 import json
 import re
 from functools import lru_cache
@@ -44,6 +45,18 @@ def utf8_stdout():
 def die(msg):
     print(f"LỖI: {msg}", file=sys.stderr)
     sys.exit(1)
+
+
+class ArgParser(argparse.ArgumentParser):
+    """ArgumentParser báo rõ nguyên nhân thường gặp khi gọi từ PowerShell 5.1:
+    chuỗi có dấu " lồng bên trong bị tách thành nhiều tham số."""
+
+    def error(self, message):
+        if "unrecognized arguments" in message:
+            message += ("\nGỢI Ý: thường là do chuỗi truyền vào có dấu \" lồng bên trong, PowerShell đã tách nó "
+                        "thành nhiều tham số. Bỏ dấu \" trong nội dung (dùng '...'), hoặc ghi nội dung vào file "
+                        "rồi truyền --file <file> nếu lệnh có.")
+        super().error(message)
 
 
 def read_text(path):

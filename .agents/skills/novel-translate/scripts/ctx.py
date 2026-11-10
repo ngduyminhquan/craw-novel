@@ -26,7 +26,7 @@ import argparse
 import re
 import sys
 
-from common import (ARC_SUMMARY_HEADER, STORY_LIMIT, _cells, all_summaries, arc_file, arc_label, arc_of, arcs,
+from common import (ARC_SUMMARY_HEADER, ArgParser, STORY_LIMIT, _cells, all_summaries, arc_file, arc_label, arc_of, arcs,
                     arc_summary_text, die, entries, layout, load_novel, load_progress, missing_arc_summaries,
                     parse_range, read_text, sections, split_aliases, story_arc, story_path,
                     table_with, utf8_stdout)
@@ -454,7 +454,7 @@ def cmd_set_story(novel, no, text):
 
 def main():
     utf8_stdout()
-    ap = argparse.ArgumentParser()
+    ap = ArgParser()
     ap.add_argument("slug")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
