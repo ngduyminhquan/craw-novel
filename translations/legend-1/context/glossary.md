@@ -92,7 +92,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 空間魔法 |  | Không Gian Ma Pháp | kỹ năng | 15 | Cách gọi hiện đại của Không Gian Ma Thuật (空間魔術) |
 | 魔人 |  | Ma Nhân | danh hiệu | 16 | Danh xưng người đạt đến cảnh giới tột cùng của ma thuật, có sức mạnh hủy diệt cả quốc gia |
 | 従魔の首飾り |  | Vòng Cổ Tùng Ma | vật phẩm | 16 | Vòng cổ chứng nhận quái vật thuần hóa hoặc quái vật triệu hồi được phép đi lại trong thành phố |
-| 魔物の解体　初心者編 | 魔物の解体初心者編; 魔物の解体 初心者編 | Mổ Xẻ Quái Vật: Nhập Môn | vật phẩm | 16 | Sách hướng dẫn mổ xẻ quái vật cho người mới bắt đầu |
+| 魔物の解体　初心者編 | 魔物の解体初心者編; 魔物の解体 初心者編; 魔物の解体　初心者用 | Mổ Xẻ Quái Vật: Nhập Môn | vật phẩm | 16 | Sách hướng dẫn mổ xẻ quái vật cho người mới bắt đầu |
 | スライム |  | Slime | quái vật | 17 | Quái vật dạng chất nhờn cấp thấp |
 | ポイズントード |  | Poison Toad | quái vật | 17 | Quái vật cóc độc |
 | 魔核 |  | Ma Hạch | vật phẩm | 17 | Hạch ma thuật của quái vật như Slime |
@@ -103,7 +103,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 討伐証明部位 |  | bộ phận xác nhận thảo phạt | khác | 17 | Bộ phận nộp cho Hội để chứng minh đã tiêu diệt quái vật (như tai phải của Goblin) |
 | ポーション |  | thuốc hồi phục | vật phẩm | 17 | Dược phẩm hồi phục thể lực, vết thương |
 | ファイアブレス |  | Hơi Thở Lửa | kỹ năng | 18 | Kỹ năng ma thuật hệ Hỏa Set học được sau khi nuốt Ma Thạch của Goblin chủng hiếm |
-| 炎球 |  | Hỏa Cầu | kỹ năng | 18 | Ma thuật hệ Hỏa tạo quả cầu lửa do Goblin chủng hiếm sử dụng, tương tự Thủy Cầu của Set |
+| 炎球 | 火球 | Hỏa Cầu | kỹ năng | 18 | Ma thuật hệ Hỏa tạo quả cầu lửa, tương tự Thủy Cầu của Set; Goblin chủng hiếm và Rei sử dụng |
 | 極炎壁 |  | Cực Diễm Bích | kỹ năng | 19 | Ma thuật hệ Hỏa tạo bức tường lửa khổng lồ bao vây và thiêu đốt mục tiêu |
 | ソルジャーアント |  | Soldier Ant | quái vật | 20 | Quái vật kiến chiến binh dài khoảng 1m |
 | 貴族派 |  | Phe Quý Tộc | tổ chức | 20 | Phe phái chính trị của các đại quý tộc trong Vương quốc Mireana |
@@ -113,3 +113,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | インペリアルアント |  | Imperial Ant | quái vật | 21 | Quái vật kiến cận vệ có cánh biết bay, kích thước lớn hơn Soldier Ant |
 | 咲き誇る炎華 |  | Diễm Hoa Nở Rộ | kỹ năng | 21 | Ma thuật hệ Hỏa do Rei sáng tạo mô phỏng pháo hoa, bắn khối lửa rồi nổ bung thành nhiều quả cầu lửa nhỏ |
 | ブロンズナイフ |  | Dao Đồng | vật phẩm | 21 | Dao găm bằng đồng dùng để mổ xẻ quái vật |
+| 腐食 |  | Ăn Mòn | kỹ năng | 22 | Kỹ năng của Lưỡi Hái Tử Thần, chém vào trang bị kim loại của mục tiêu để ăn mòn; viết hoa khi là tên kỹ năng: Ăn Mòn; viết thường khi là động từ: bị ăn mòn |

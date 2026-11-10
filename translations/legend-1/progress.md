@@ -26,7 +26,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 19 |  | Chapter_0019 - オーク集落襲撃 - 第19話.txt | オーク集落襲撃 - 第19話 | reviewed |  |
 | 20 |  | Chapter_0020 - オーク集落襲撃 - 第20話.txt | オーク集落襲撃 - 第20話 | reviewed |  |
 | 21 |  | Chapter_0021 - オーク集落襲撃 - 第21話.txt | オーク集落襲撃 - 第21話 | reviewed |  |
-| 22 |  | Chapter_0022 - オーク集落襲撃 - 第22話.txt | オーク集落襲撃 - 第22話 | todo |  |
+| 22 |  | Chapter_0022 - オーク集落襲撃 - 第22話.txt | オーク集落襲撃 - 第22話 | done |  |
 | 23 |  | Chapter_0023 - オーク集落襲撃 - 第23話.txt | オーク集落襲撃 - 第23話 | todo |  |
 | 24 |  | Chapter_0024 - オーク集落襲撃 - 第24話.txt | オーク集落襲撃 - 第24話 | todo |  |
 | 25 |  | Chapter_0025 - オーク集落襲撃 - 第25話.txt | オーク集落襲撃 - 第25話 | todo |  |
