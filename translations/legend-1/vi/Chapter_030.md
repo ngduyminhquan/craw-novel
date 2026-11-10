@@ -6,7 +6,7 @@ Xung quanh, các mạo hiểm giả đang cảnh giới để đề phòng Orc h
 
 Vốn dĩ các tổ đội mạo hiểm giả nhận ủy thác thảo phạt Orc lần này, ngoại trừ Rei ra, thấp nhất cũng từ Hạng D trở lên, vả lại điều quan trọng nhất là có chú Griffin Set đang làm nhiệm vụ cảnh giới.
 
-"Được rồi, chúng ta đã tới đây an toàn... Trước hết, chí ít ta cũng phải đi trinh sát tình hình bộ lạc Orc. Có ai xung phong không?"
+"Được rồi, chúng ta đã tới đây an toàn... Trước hết, chí ít chúng ta cũng phải trinh sát tình hình bộ lạc Orc đã. Có ai xung phong không?"
 
 Đáp lại lời Bobbs, các trưởng nhóm tham gia cuộc họp chỉ im lặng.
 
@@ -24,7 +24,7 @@ Mải toan tính trong bụng như vậy nên khi ánh mắt của Bobbs hướn
 
 "Tiếc là tính nết nó không hợp để cử đi trinh sát bộ lạc Orc đâu. Bản tính nó vốn nhát gan mà. Cơ mà, chắc cũng nhờ thế nó mới làm cái nghề đạo tặc chuyên phát hiện kẻ địch đầu tiên được."
 
-Nhân tiện, "đạo tặc" ở đây không phải đạo tặc theo nghĩa trộm cắp đồ của người khác. Đó là đạo tặc theo nghĩa đi trước trinh sát hay đặt bẫy khi đi thám hiểm, hoặc ngược lại là phá bẫy và bẻ khóa rương báu trong hầm ngục.
+Nhân tiện, đạo tặc ở đây không mang nghĩa kẻ trộm cắp đồ của người khác, mà chỉ người đảm nhận việc đi trước trinh sát hay đặt bẫy khi thám hiểm, hoặc ngược lại là gỡ bẫy và bẻ khóa rương báu trong hầm ngục.
 
 "...Vậy à."
 
@@ -74,23 +74,23 @@ Sở dĩ những người có mặt ở đây không nghĩ tới việc trinh s�
 
 Đồng thời, trong số các mạo hiểm giả tham gia đội thảo phạt Orc đương nhiên cũng có thú nhân, nhưng trong các chủng tộc thú nhân lại chẳng hiểu sao không hề có thú nhân loài chim, thành thử chẳng một ai nghĩ đến phương thức trinh sát từ trên không.
 
-Nhân tiện, trong các đoàn kỵ sĩ của vương quốc cũng có những người được gọi là Kỵ Sĩ Rồng, nhưng việc ấp trứng Phi Long rồi nuôi lớn cùng với ứng viên Kỵ Sĩ Rồng đòi hỏi vô vàn thời gian lẫn công sức, nên phần lớn họ đều thuộc biên chế quân đội vương quốc và đóng quân tại Vương đô, chứ không hề có mặt ở vùng biên cảnh như thành phố Gilm.
+Nhân tiện, trong các đoàn kỵ sĩ của vương quốc cũng có những người được gọi là Kỵ Sĩ Rồng, nhưng việc ấp trứng Phi Long rồi nuôi lớn cùng với ứng viên Kỵ Sĩ Rồng đòi hỏi vô vàn thời gian lẫn công sức, nên phần lớn họ đều thuộc biên chế quân đội vương quốc và đóng quân tại vương đô, chứ không hề có mặt ở vùng biên cảnh như thành phố Gilm.
 
 "Bobbs, việc tôi cưỡi Set trinh sát bộ lạc Orc từ trên không có vấn đề gì không?"
 
 "Không, chẳng có vấn đề gì cả. Phải nói là cậu mà làm được thì quá tốt rồi."
 
-Bobbs nhếch mép cười, gật đầu với một nụ cười hung hãn.
+Bobbs nhếch mép nở nụ cười dữ tợn rồi gật đầu.
 
 "Tôi cần điều tra những nội dung gì?"
 
 "Trước hết là số lượng kẻ địch. Tiếp đó là mức độ hoàn thiện của bộ lạc. Sau nữa, nếu biết được chỗ nào phòng thủ sơ hở thì càng tốt. Và nếu có thể, tôi muốn biết con quái vật chỉ huy lũ Orc là loại nào. Chủng hiếm hay chủng cấp cao... Giá mà ít nhất chỉ là chủng hiếm thì tốt."
 
-Chủng hiếm và chủng cấp cao. Nếu nói bên nào phiền toái hơn, thì câu trả lời chắc chắn là chủng cấp cao. Chủng hiếm rốt cuộc cũng chỉ là một cá thể đơn lẻ sở hữu năng lực vượt trội trong chủng tộc của mình, còn chủng cấp cao thì đúng như tên gọi, chúng có số lượng đông đảo đủ để hình thành một chủng tộc riêng biệt. Trường hợp này, năng lực của chủng hiếm được cho là không chênh lệch mấy so với chủng cấp cao, nên nếu kẻ chỉ huy lũ Orc chỉ là một cá thể chủng hiếm đơn độc thì việc tiêu diệt sẽ chẳng tốn mấy công sức—đó là lời giải thích của Bobbs.
+Chủng hiếm và chủng cấp cao. Nếu nói bên nào phiền toái hơn, thì câu trả lời chắc chắn là chủng cấp cao. Chủng hiếm rốt cuộc cũng chỉ là một cá thể đơn lẻ sở hữu năng lực vượt trội trong chủng tộc của mình, còn chủng cấp cao thì đúng như tên gọi, chúng có số lượng đông đảo đủ để hình thành một chủng tộc riêng biệt. Trường hợp này, năng lực của bản thân chủng hiếm không chênh lệch mấy so với chủng cấp cao, nên nếu kẻ chỉ huy lũ Orc chỉ là một cá thể chủng hiếm đơn độc thì việc tiêu diệt sẽ chẳng tốn mấy công sức, đó là lời giải thích của Bobbs.
 
 Gật đầu trước lời Bobbs, cậu rời khỏi nơi đó.
 
-Lưng cậu vẫn cảm nhận rõ ánh mắt căm thù của Ceryl đang phóng tới sau lưng.
+Sau lưng mình, cậu vẫn cảm nhận rõ ánh mắt căm thù của Ceryl đang phóng tới.
 
 (Khốn kiếp, nếu được thì mình muốn cướp Hộp Vật Phẩm trước khi trận chiến với lũ Orc bắt đầu cơ. Thế mà lại tự vác xác đi trinh sát à? Thật tình, làm đến mức đó chỉ để lấy lòng Hội thôi sao?)
 
@@ -148,7 +148,7 @@ Con Orc ở vị trí Set chỉ cũng sở hữu thân hình to lớn hơn nhữ
 
 Rồi khi chăm chú nhìn kỹ tình hình bộ lạc, cậu phát hiện rải rác đây đó vẫn còn vài con Orc tương tự như thế.
 
-"Thế thì đám mặc giáp kia thuộc dạng cán bộ chỉ huy hay tướng lĩnh của lũ Orc này rồi... Hửm?"
+"Thế thì đám mặc giáp kia thuộc dạng chỉ huy cấp cao hay tướng lĩnh của lũ Orc này rồi... Hửm?"
 
 Thứ tiếp theo đập vào mắt cậu là nơi lũ Orc đang tụ tập đông đúc. Đó là một túp lều rách nát nằm ở phía bắc bộ lạc, quanh túp lều có tới gần 20 con Orc đang bu quanh.
 
@@ -186,7 +186,7 @@ Nó cất tiếng kêu sắc gọn đáp lời Rei, dang rộng cánh bay ngư�
 
 "Lũ Orc kia, đêm nay sẽ là ngày tàn của tụi mày. Hãy tranh thủ tận hưởng chút thời gian quý báu trước khi đêm xuống đi."
 
-Để lại câu nói lạnh lẽo ấy giữa tầng không.
+Câu nói lạnh lẽo của Rei cứ thế đọng lại giữa tầng không.
 
 Khi Set lướt xuống đáp nhẹ lên mặt đất, các mạo hiểm giả quanh đó bất giác vỗ tay đón chào.
 
@@ -206,7 +206,7 @@ Phía sau lưng cậu, trước tiếng kêu đầy lo lắng của Set, vài m�
 
 "Tôi đã xem qua đại thể rồi."
 
-"Tốt lắm. Nhận được tin cậu về là ta đã cho tập hợp các trưởng nhóm lại rồi. Đi theo ta."
+"Tốt lắm. Nhận được tin cậu về là tôi đã cho tập hợp các trưởng nhóm lại rồi. Đi theo tôi."
 
 Bobbs nói rồi rảo bước đi trước, Rei liền theo sau. Dù nhận thấy nét mặt cậu có điểm khác lạ, nhưng Bobbs cho rằng việc nghe báo cáo kết quả trinh sát là ưu tiên hàng đầu nên không gặng hỏi thêm mà sải bước về phía chiếc lều hội ý.
 
@@ -224,7 +224,7 @@ Thấy Rei ngồi xuống, Bobbs mở lời.
 
 Đội thảo phạt vốn chuẩn bị tâm lý đối đầu với 50 con nên phản ứng đó cũng là lẽ đương nhiên.
 
-"Bình tĩnh nào! Ta đã nói ngay từ đầu rồi, số lượng Orc tối thiểu là 50 con. Việc quân số tăng lên nằm trong dự liệu!"
+"Bình tĩnh nào! Tôi đã nói ngay từ đầu rồi, số lượng Orc tối thiểu là 50 con. Việc quân số tăng lên nằm trong dự liệu!"
 
 "Nhưng có ai ngờ là nó tăng gấp đôi cơ chứ. Chẳng lẽ chúng ta không nên tính đến chuyện tạm thời rút về thành phố sao?"
 
@@ -236,7 +236,7 @@ Kẻ vừa đề xuất rút lui cũng chẳng thể khăng khăng giữ ý ki�
 
 "Thêm nữa, có lẽ vì số lượng Orc vượt ngoài dự kiến nên bộ lạc của chúng vẫn đang xây dở. Phía đông gần như còn bỏ trống. Tuy nhiên, bù lại tôi đã phát hiện có lính gác ở đó."
 
-"Ra vậy, phía đông phòng thủ sơ hở à. Đó là thông tin tốt đấy, ta sẽ lấy làm căn cứ cho cuộc tập kích đêm."
+"Ra vậy, phía đông phòng thủ sơ hở à. Đó là thông tin tốt đấy, tôi sẽ lấy làm căn cứ cho cuộc tập kích đêm."
 
 "Hãy làm vậy đi. Ngoài ra, trong bầy Orc có những con to hơn Orc thông thường chừng một vòng và mang giáp trên người."
 
@@ -258,7 +258,7 @@ Có người trong bộ lạc Orc. Nghe vậy, sắc mặt những người khá
 
 "Không, hết rồi."
 
-"Được rồi, ta hiểu rồi. Vậy từ giờ đến đêm mọi người cứ nghỉ ngơi đi. Đến bữa tối ta sẽ phổ biến kế hoạch tác chiến."
+"Được rồi, tôi hiểu rồi. Vậy từ giờ đến đêm mọi người cứ nghỉ ngơi đi. Đến bữa tối tôi sẽ phổ biến kế hoạch tác chiến."
 
 Khẽ gật đầu trước lời Bobbs, cậu bước ra khỏi lều.
 

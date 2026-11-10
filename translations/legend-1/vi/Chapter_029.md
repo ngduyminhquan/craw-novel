@@ -12,7 +12,7 @@ Ngay cả trong lều của Rei, ba thành viên Rìu Lôi Thần cũng đặt v
 
 (...Không tới à?)
 
-Lý do Rei muốn ở một mình là vì định lấy bản thân làm mồi nhử hòng tóm gọn Ngôi Sao Màn Đêm—tổ đội bốn người gồm cả nam lẫn nữ đã liên tục hướng những ánh nhìn kỳ lạ về phía cậu từ khi nhận nhiệm vụ thảo phạt Orc. Vốn dĩ cậu chẳng muốn bày ra trò phiền toái như vậy, nhưng nghĩ đến nguy cơ bị đánh lén sau lưng giữa lúc giao chiến với bầy Orc, cậu muốn giải quyết cho dứt điểm càng sớm càng tốt. Dẫu vậy, có lẽ do e ngại Set đang nằm ngủ ngay sát cạnh lều cùng nhóm Rìu Lôi Thần nên bọn chúng không dám manh động, đêm cứ thế trôi qua mà không có động tĩnh gì.
+Lý do Rei muốn ở một mình là vì định lấy bản thân làm mồi nhử hòng tóm gọn Ngôi Sao Màn Đêm, tổ đội bốn người gồm cả nam lẫn nữ đã liên tục hướng những ánh nhìn kỳ lạ về phía cậu từ khi nhận nhiệm vụ thảo phạt Orc. Vốn dĩ cậu chẳng muốn bày ra trò phiền toái như vậy, nhưng nghĩ đến nguy cơ bị đánh lén sau lưng giữa lúc giao chiến với bầy Orc, cậu muốn giải quyết cho dứt điểm càng sớm càng tốt. Dẫu vậy, có lẽ do e ngại nhóm Rìu Lôi Thần cùng Set đang nằm ngủ ngay sát cạnh lều của bọn Rei nên chúng không dám manh động, đêm cứ thế trôi qua mà không có động tĩnh gì.
 
 Đáng lẽ Rei cũng phải luân phiên gác đêm như những người khác, nhưng chỉ bằng một tiếng nói dứt khoát của Bobbs, cậu đã được miễn khoản này.
 
@@ -30,11 +30,11 @@ Ceryl càu nhàu vẻ bực dọc rồi nằm vật xuống trong lều. Nếu v
 
 Tuy Bobbs được giao quyền chỉ huy đội thảo phạt Orc này, nhưng đó chỉ là quyền chỉ huy khi tác chiến. Trên suốt chặng đường hành quân tới bộ lạc Orc, ông ta đâu phải chỉ huy tuyệt đối... ít nhất Ceryl nghĩ như vậy. Chính vì thế, khi quyết định hạ trại tại đây, ả đã lớn tiếng phản đối, bảo rằng dù có được thuần hóa đi nữa thì ả cũng chẳng đời nào muốn ngủ gần một con Griffin... Thế nhưng, sau khi nghe giải thích ngũ quan của Set nhạy bén đến nhường nào, lại đã tận mắt chứng kiến sức chiến đấu khủng khiếp khi một mình nó dễ dàng nghiền nát cả bầy Fang Wolf, các tổ đội mạo hiểm giả khác chẳng một ai hùa theo ả.
 
-Nguyên do là bởi khi nghe giải thích, nhìn cảnh Set phát ra tiếng "Gừưưư" nũng nịu bên Rei, các mạo hiểm giả liền nhận định chừng nào còn đi cùng Rei thì ít nhất con Griffin này sẽ không làm hại họ; đồng thời họ cũng toan tính rằng để Set ở gần lều thì nó còn phát hiện kẻ địch tiếp cận nhạy bén hơn khối tay gác đêm vụng về. Dẫu vậy, cuối cùng để phòng ngừa bất trắc, mọi người vẫn quyết định chia ca luân phiên canh gác.
+Nguyên do là bởi khi nghe giải thích, nhìn cảnh Set gừ gừ trong cổ họng làm nũng bên Rei, các mạo hiểm giả liền nhận định chừng nào còn đi cùng Rei thì ít nhất con Griffin này sẽ không làm hại họ; đồng thời họ cũng toan tính rằng để Set ở gần lều thì nó còn phát hiện kẻ địch tiếp cận nhạy bén hơn khối tay gác đêm vụng về. Dẫu vậy, cuối cùng để phòng ngừa bất trắc, mọi người vẫn quyết định chia ca luân phiên canh gác.
 
 Về thời gian gác đêm, cứ mỗi khi chiếc đồng hồ cát của Bobbs chảy hết là ca gác lại được chuyển giao cho tổ đội tiếp theo.
 
-Chính vì những biểu hiện khác người ấy mà Ngôi Sao Màn Đêm đã khiến bọn Bobbs, Rei cùng cả nhóm Rìu Lôi Thần sinh lòng nghi ngờ; rồi với lý do "nếu đã không thích ở gần Griffin thì...", bọn chúng đành ngậm ngùi dựng lều ở vị trí cách xa lều của nhóm Rei nhất.
+Chính vì những biểu hiện khác người ấy mà Ngôi Sao Màn Đêm đã khiến những người như Bobbs, Rei cùng nhóm Rìu Lôi Thần sinh lòng nghi ngờ, rồi lấy lý do rằng nếu đã không thích ở gần Griffin như vậy thì cứ việc tránh xa, đẩy bọn chúng vào thế phải ngậm ngùi dựng lều ở vị trí cách xa lều của nhóm Rei nhất.
 
 "Chị đại, giờ tính sao đây?"
 
@@ -44,7 +44,7 @@ Giọng Snee vang lên trong căn lều, nhưng Ceryl vẫn nhắm nghiền mắ
 
 Lẩm bẩm xong, Ceryl nhớ lại cảnh tượng lúc chập tối khi cả đoàn quyết định hạ trại. Cảnh tượng từ tay thằng nhóc tân binh liên tục lôi ra hết món nhu yếu phẩm này đến món khác cần cho việc cắm trại đã phô bày trọn vẹn giá trị đích thực của Hộp Vật Phẩm. Và điều đó cũng đồng thời khuấy động lòng tham trong ả mãnh liệt hơn bao giờ hết.
 
-Ceryl nằm nhắm mắt, dần chìm vào giấc ngủ với mộng tưởng viễn cảnh chỉ vài chục ngày nữa thôi, ả sẽ được ăn chơi phè phỡn nơi Vương đô.
+Ceryl nằm nhắm mắt, dần chìm vào giấc ngủ trong mộng tưởng chỉ vài chục ngày nữa thôi, ả sẽ được ăn chơi phè phỡn nơi vương đô.
 
 Ả chìm vào giấc ngủ mà không hề hay biết ngay bên cạnh, Al đang khẽ nhíu mày.
 
@@ -88,7 +88,7 @@ Giữa lúc Rei đang dõi theo tương tác giữa Set và các mạo hiểm gi
 
 Phía sau cô vẫn là hình ảnh quen thuộc của các thành viên Rìu Lôi Thần: Elk nở nụ cười toe toét, còn Rhodes thì hậm hực lườm Rei.
 
-"Vâng, tới nơi được nghỉ ngơi thêm chút nào thì hay chút nấy."
+"Phải đấy, tới nơi được nghỉ ngơi thêm chút nào thì hay chút nấy."
 
 Cậu lẩm bẩm, vỗ nhẹ đầu Set rồi bước lên xe ngựa.
 
@@ -112,9 +112,9 @@ Thế nhưng đích ngắm của Ceryl, trưởng nhóm Ngôi Sao Màn Đêm, kh
 
 "Ra vậy, quả nhiên cậu cũng nhận ra rồi. Xem chừng mục tiêu của bọn chúng đích thị là chiếc Hộp Vật Phẩm đó."
 
-"Chắc chắn rồi. Tưởng tôi không biết gì hay sao mà ả ta cứ nhìn chằm chằm vào cánh tay phải của tôi một cách lộ liễu thế kia."
+"Chắc chắn rồi. Chẳng biết có phải tưởng tôi không nhận ra hay không mà ả ta cứ lộ liễu nhìn chằm chằm vào cánh tay phải của tôi thế kia."
 
-Nếu Rei chỉ là một mạo hiểm giả Hạng G bình thường, quả thật có thể cậu sẽ chẳng nhận ra ánh mắt của Ceryl—một mạo hiểm giả Hạng C. Thế nhưng may hay rủi thay, Rei đời nào là một mạo hiểm giả Hạng G tầm thường.
+Nếu Rei chỉ là một mạo hiểm giả Hạng G bình thường, quả thật có thể cậu sẽ chẳng nhận ra ánh mắt của Ceryl, một mạo hiểm giả Hạng C. Thế nhưng may hay rủi thay, Rei đời nào là một mạo hiểm giả Hạng G tầm thường.
 
 "...Ra là thế. Thảo nào thỉnh thoảng tao cứ thấy có ánh mắt kỳ quặc, hóa ra là nhắm vào Hộp Vật Phẩm của mày. Hừ, tất cả là tại mày ôm giữ thứ không xứng với bản thân đấy thôi. Mà nói cho cùng, cớ sao một đứa chỉ mới Hạng G như mày lại sở hữu Đạo Cụ Ma Thuật quý hiếm đến mức đó chứ?"
 

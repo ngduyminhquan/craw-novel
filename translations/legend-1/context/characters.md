@@ -100,10 +100,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Bobbs
 - Mạo hiểm giả dày dạn kinh nghiệm bị mất nửa trên vành tai phải, được Hội giao chỉ huy chiến dịch thảo phạt bộ lạc Orc.
 - Tác phong dứt khoát, giọng nói sang sảng, thực tế và nghiêm túc.
+- Cách nói chuyện: luôn xưng 'tôi' nhất quán với Rei và các mạo hiểm giả trong chiến dịch.
 
 ### Ceryl
 - Nữ mạo hiểm giả Hạng C khoảng ngoài 30 tuổi, trưởng nhóm Ngôi Sao Màn Đêm.
-- Thực dụng, nham hiểm; tham gia chiến dịch diệt Orc nhằm cướp Hộp Vật Phẩm của Rei để bán lấy tiền về Vương đô sống xa hoa.
+- Thực dụng, nham hiểm; tham gia chiến dịch diệt Orc nhằm cướp Hộp Vật Phẩm của Rei để bán lấy tiền về vương đô sống xa hoa.
 
 ### Al
 - Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
