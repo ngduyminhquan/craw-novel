@@ -11,15 +11,27 @@ import argparse
 import re
 
 from common import (IMAGE_RE, TRANSLATED, all_summaries, arc_file, arc_label, arc_of, arc_summary_text, arcs, die,
-                    entries, get_row, layout, load_novel, load_progress, raw_file, raw_lang, raw_paragraphs, read_text,
+                    entries, get_row, has_cjk, layout, load_novel, load_progress, raw_file, raw_lang, raw_paragraphs, read_text,
                     story_arc, story_path, table_with, term_regex, utf8_stdout, vi_file)
 from extract_terms import pov_hint, report
 
 
 def characters_in(novel, text):
+    chars = entries(novel["context"] / "characters.md")
+    # Tên tiếng Nhật: đếm tên dài trước rồi che lại, để "佐伯玲二" không bị đếm thêm một lần ở "玲二".
+    masked = text
+    cjk_hits = {}
+    for t, e in sorted(((t, e) for e in chars for t in [e["en"], *e["aliases"]] if has_cjk(t)),
+                       key=lambda x: -len(x[0])):
+        rx = term_regex(t, True)
+        n = len(rx.findall(masked))
+        if n:
+            cjk_hits[id(e)] = cjk_hits.get(id(e), 0) + n
+            masked = rx.sub(lambda m: "　" * len(m.group(0)), masked)
     found = []
-    for e in entries(novel["context"] / "characters.md"):
-        hits = sum(len(term_regex(t, True).findall(text)) for t in [e["en"], *e["aliases"]])
+    for e in chars:
+        hits = cjk_hits.get(id(e), 0) + sum(len(term_regex(t, True).findall(text))
+                                            for t in [e["en"], *e["aliases"]] if not has_cjk(t))
         if hits:
             found.append((e, hits))
     return sorted(found, key=lambda x: -x[1])
