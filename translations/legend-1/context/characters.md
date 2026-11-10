@@ -35,3 +35,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
 - Chương 6: Nuốt Ma Thạch của Gấu Nước và học được kỹ năng [Thủy Cầu Lv.1].
 - Chương 7: Dùng thử Thủy Cầu Lv.1, cõng Rei phi với tốc độ cực nhanh qua Rừng Quái Vật.
+- Chương 8: Lần đầu sải cánh bay lượn cõng Rei trên bầu trời đêm thoát khỏi bầy Sóc Bay Lưỡi Dao.

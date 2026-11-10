@@ -62,3 +62,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 水球 |  | Thủy Cầu | kỹ năng | 6 | Kỹ năng ma thuật hệ Thủy bắn ra quả cầu nước, Set học được sau khi hấp thụ Ma Thạch của Gấu Nước |
 | 魔力スポット |  | Điểm Tụ Ma Lực | khác | 7 | Khu vực có ma lực tích tụ đậm đặc tự nhiên |
 | 竜種 |  | loài rồng | chủng tộc | 7 | Các loài rồng nguy hiểm trên bầu trời khu rừng |
+| 舞い踊る炎 |  | Vũ Điệu Hỏa Diễm | kỹ năng | 8 | Ma thuật hệ Hỏa tạo ra hàng chục, hàng trăm ngọn lửa cỡ người nhảy múa thiêu đốt diện rộng trên không |
+| 刃ムササビ |  | Sóc Bay Lưỡi Dao | quái vật | 8 | Quái vật sóc bay dài 15cm có đuôi hóa cứng thành lưỡi sắc bén, biết bay lượn và tấn công bầy đàn |
