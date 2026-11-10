@@ -233,7 +233,16 @@ def cmd_brief(slug, args):
             die(f"brief {args.kind} cần --range")
         idxs = parse_range(args.range)
         name = f"{'rv' if args.kind == 'review' else 'fx'}-{idxs[0]:03d}-{idxs[-1]:03d}"
-        values.update(range=args.range)
+        values.update(range=args.range, context_text="")
+        if args.kind == "review":
+            # Layout 2: chép nguyên rules.md + style.md vào brief (panel review hay bỏ qua style.md).
+            # Chỉ chép khi nhỏ, để brief không phình theo truyện.
+            novel = load_novel(slug)
+            parts = [novel["context"] / n for n in ("rules.md", "style.md")]
+            if layout(novel) >= 2 and all(p.exists() for p in parts) and sum(p.stat().st_size for p in parts) < 20000:
+                values["context_text"] = "".join(
+                    f"\nNội dung `{p.name}` (chép nguyên văn, áp dụng khi review):\n\n{read_text(p).strip()}\n"
+                    for p in parts)
         if args.kind == "fix":
             if not args.decisions:
                 die("brief fix cần --decisions")

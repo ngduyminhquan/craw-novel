@@ -81,6 +81,12 @@ def check(novel, row):
             errors.append(f"thiếu dòng ảnh có trong raw: {', '.join(missing_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí")
 
     for n, line in enumerate(vi_paras, 1):
+        # Cặp gạch ngang "— ... —" tự sinh thay cho dấu phẩy (natural-vietnamese.md mục 5): chỉ báo khi đoạn raw
+        # tương ứng không có gạch ngang nào (raw tiếng Nhật dùng "――" khi tác giả thật sự ngắt câu).
+        if ja and len(re.findall(r"[—–]", line)) >= 2 and n <= len(raw_paras) \
+                and not re.search(r"[―—–─‐-]", raw_paras[n - 1]):
+            warns.append(f"đoạn {n} có cặp gạch ngang '— ... —' mà raw không có: thay bằng dấu phẩy hoặc tách câu "
+                         f"(natural-vietnamese.md mục 5): {line[:90]}")
         if ja and ODD_SCRIPT_RE.search(line):
             errors.append(f"đoạn {n} có ký tự lạ ({', '.join(ODD_SCRIPT_RE.findall(line))[:30]}) — "
                           f"chữ Kirin/Thái/Hangul... lẫn vào, sửa lại: {line[:90]}")
