@@ -1,6 +1,6 @@
 # Chương 13: Đột kích bộ lạc Orc (13)
 
-Phía trước tòa nhà Hội Mạo Hiểm Giả. Lúc này, Rei đang đối mặt với bốn gã mạo hiểm giả vừa kiếm chuyện với cậu. ...Nói cho chính xác thì phải diễn đạt là đang đối đầu mới đúng.
+Phía trước tòa nhà Hội Mạo Hiểm Giả. Lúc này, Rei đang đối mặt với bốn gã mạo hiểm giả vừa kiếm chuyện với cậu. ...Hay nói đúng hơn là đang đối đầu với chúng.
 
 "Hế, giờ này có khóc lóc thì gãy một hai cánh tay cũng đừng hòng bọn tao tha nhé."
 
@@ -32,7 +32,7 @@ Dù trán nổi đầy gân xanh trước cái tên tổ đội nhục nhã ê c
 
 Những người vây xem nghe thấy cái tên tổ đội quá mức nực cười ấy cũng bật cười, nhưng gã cầm cung tên trừng mắt đe dọa khiến xung quanh nín bặt.
 
-"Phải. Cá cược. Nãy tao có nghe nói, tụi mày ăn may như có phép màu, dốc cạn vận may cả đời mới miễn cưỡng hoàn thành được ủy thác đúng không? Rồi nhân lúc mở tiệc ăn mừng, tụi mày lại kiếm chuyện với một đứa vừa tới đăng ký mạo hiểm giả như tao, bị nói trúng tim đen nên cái sĩ diện cao ngút trời vô nghĩa đó..."
+"Phải. Cá cược. Nãy tao có nghe nói, tụi mày ăn may như có phép màu, dốc cạn vận may cả đời mới miễn cưỡng hoàn thành được ủy thác đúng không? Rồi nhân lúc mở tiệc ăn mừng, tụi mày lại kiếm chuyện với một đứa vừa tới đăng ký mạo hiểm giả như tao, bị nói trúng tim đen nên cái sĩ diện hão cao ngút trời đó..."
 
 "Câm mồm! Nãy giờ tao nhịn nghe là mày muốn nói nhảm gì thì nói hả! Hết vận may cả đời? Ăn may? Miễn cưỡng? Một thằng ma mới vừa đăng ký như mày lấy tư cách gì mà dám vênh váo coi thường bọn tao!"
 
@@ -112,7 +112,7 @@ Set khẽ kêu một tiếng đồng ý trước lời của Rei. Thấy vậy, 
 
 Rei hỏi thế, nhưng nhuệ khí ban nãy của đám Vargas chẳng biết đã biến đâu mất, chỉ biết tái mét mặt mày im thin thít. Sắc men say vương trên mặt vài phút trước giờ cũng tan biến sạch sẽ.
 
-"Hầy, câm nín cả rồi à. ...Thôi được rồi. Thế thì xử cái tên Zolit đang bủn rủn ngồi bệt đằng kia trước nhé. Nào, tới đây."
+"Hầy, câm nín cả rồi à. ...Thôi được rồi. Thế thì xử cái tên Zolit đang bủn rủn ngồi bệt đằng kia trước nhé. Nào, tao lên đây."
 
 Cậu tự ý tuyên bố, rồi cứ thế cầm Lưỡi Hái Tử Thần sải bước về phía Zolit đang sợ tới mức không đứng dậy nổi.
 

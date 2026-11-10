@@ -80,7 +80,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 鷹の爪 |  | Móng Vuốt Chim Ưng | tổ chức | 12 | Tổ đội mạo hiểm giả Hạng D |
 | パーティランク |  | Hạng Tổ Đội | cấp bậc | 12 | Cấp bậc trung bình của một tổ đội |
 | 魔眼 |  | Ma Nhãn | kỹ năng | 14 | Đôi mắt ma thuật có năng lực đặc biệt; Ma Nhãn của Runo có thể nhìn thấy ma lực |
-| ダンジョン |  | hầm ngục | địa danh | 14 | Khu vực sinh ra từ sự tích tụ ma lực và có quái vật trú ngụ |
+| ダンジョン | 迷宮 | hầm ngục | địa danh | 14 | Khu vực sinh ra từ sự tích tụ ma lực và có quái vật trú ngụ |
 | ボスモンスター |  | quái vật trùm | quái vật | 14 | Quái vật chủ chốt làm chủ một hầm ngục |
 | ギルド |  | Hội | tổ chức | 14 | Cách gọi ngắn của Hội Mạo Hiểm Giả |
 | バトルアックス |  | rìu chiến | vật phẩm | 14 | Loại vũ khí rìu lớn dùng trong chiến đấu |
@@ -89,3 +89,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | パワー・アクス |  | Rìu Cường Lực | vật phẩm | 15 | Cây rìu chiến Đạo Cụ Ma Thuật của Vargas |
 | アイアンソード |  | Kiếm Sắt | vật phẩm | 15 | Trường kiếm bằng sắt thông thường của nhóm Vargas |
 | アイアンダガー |  | Đoản Kiếm Sắt | vật phẩm | 15 | Đoản kiếm bằng sắt thông thường của nhóm Vargas |
+| 空間魔法 |  | Không Gian Ma Pháp | kỹ năng | 15 | Cách gọi hiện đại của Không Gian Ma Thuật (空間魔術) |

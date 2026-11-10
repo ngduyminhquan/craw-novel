@@ -6,7 +6,7 @@ Bình thường thì ai thắng ai bại đã quá rõ ràng, thế nhưng khi t
 
 Tất nhiên có thể kể ra cả đống lý do giải thích cho chiến thắng của Rei, song đám đông đứng xem vẫn chia làm hai nửa: một nửa gật gù hiểu ra, nửa còn lại thì không tin nổi vào mắt mình. Đủ thấy cấp bậc mạo hiểm giả ở một khía cạnh nào đó được coi trọng tuyệt đối đến mức nào.
 
-Những ai gật gù là người cho rằng Rei đã thuần phục được cả Griffin — loài ma thú Hạng A — thì hẳn phải có bản lĩnh tương xứng. Còn những kẻ không tin nổi có lẽ chỉ nhìn vào vẻ ngoài của Rei, một cậu nhóc cao chừng mét sáu lăm, chẳng hề vạm vỡ hay to con chút nào.
+Những ai gật gù là người cho rằng Rei đã thuần phục được cả Griffin, loài quái vật Hạng A, thì hẳn phải có bản lĩnh tương xứng. Còn những kẻ không tin nổi có lẽ chỉ nhìn vào vẻ ngoài của Rei, một cậu nhóc cao chừng mét sáu lăm, chẳng hề vạm vỡ hay to con chút nào.
 
 Dưới bao ánh mắt của đám người hiếu kỳ, Rei bước lại gần Set rồi cất tiếng.
 
@@ -14,7 +14,7 @@ Dưới bao ánh mắt của đám người hiếu kỳ, Rei bước lại gần
 
 "Grrr!"
 
-Nghe tiếng gọi, nó vui vẻ gừ nhẹ một tiếng trong họng rồi nhích sang một bên, trao lại cho Rei những món đồ vừa canh giữ như chiến lợi phẩm của trận đấu.
+Nghe tiếng gọi, nó vui vẻ gừ nhẹ một tiếng trong họng rồi nhích sang một bên, nhường lại cho Rei những món đồ mà nó vừa canh giữ làm phần thưởng cá cược của trận đấu.
 
 Đầu tiên, cậu đeo lại Nhẫn Sương Mù vào cổ tay phải, giắt Dao Mithril về bên hông. Cậu nhét túi tiền của mình vào trong ngực áo, còn túi tiền của nhóm Vargas thì thu gọn tất cả vào trong Nhẫn Sương Mù.
 
@@ -28,7 +28,7 @@ Người vừa lên tiếng là người đàn ông đã ẩn khí tức bước
 
 "Chưa, đợi tôi thêm một lát."
 
-Đáp lại người đàn ông một câu ngắn gọn, cậu lần lượt thu dọn thanh trường kiếm, hai con đoản kiếm, cây cung, ống tên và trên hết là mục tiêu lớn nhất — cây rìu chiến — đang nằm lăn lóc dưới đất vào trong Nhẫn Sương Mù.
+Đáp lại người đàn ông một câu ngắn gọn, cậu lần lượt thu dọn thanh trường kiếm, hai con đoản kiếm, cây cung, ống tên cùng mục tiêu lớn nhất là cây rìu chiến đang nằm lăn lóc dưới đất vào trong Nhẫn Sương Mù.
 
 "...Tôi nghĩ cậu không cần tước cả vũ khí của họ đâu."
 
@@ -118,7 +118,7 @@ Ngoài ra, do đặc tính dễ tích tụ ma lực của hầm ngục nên chuy
 
 Phá hủy lõi nhân thì hầm ngục cũng sẽ biến mất, nhưng sở dĩ người ta không làm vậy là bởi những nguyên liệu do quái vật trong hầm ngục sinh ra, số tiền đám mạo hiểm giả đổ về đây chi tiêu, cùng các thương nhân kéo đến thu mua nguyên liệu mang lại nguồn lợi ích vượt xa những điều bất lợi.
 
-(Hầm ngục à... Nếu có nhiều quái vật như thế thì hôm nào đi cùng Set một chuyến cũng không tồi. Khéo lại kiếm thêm được vài kỹ năng ra trò ấy chứ. Vấn đề là dù dùng Lưỡi Hái Tử Thần, ma pháp ngọn lửa hay để Set tác chiến thì liệu không gian ở đó có đủ rộng rãi hay không thôi.)
+(Hầm ngục à... Nếu có nhiều quái vật như thế thì hôm nào đi cùng Set một chuyến cũng không tồi. Khéo lại kiếm thêm được vài kỹ năng ra trò ấy chứ. Vấn đề là dù dùng Lưỡi Hái Tử Thần, ma pháp hệ Hỏa hay để Set tác chiến thì liệu không gian ở đó có đủ rộng rãi hay không thôi.)
 
 Trong lúc Rei đang thầm tính toán trong đầu, người đàn ông cầm Thẻ Hội ban nãy đã quay trở lại.
 
@@ -128,7 +128,7 @@ Trong lúc Rei đang thầm tính toán trong đầu, người đàn ông cầm 
 
 "Chú mày vẫn như mọi khi nhỉ. Rei này, để tôi giới thiệu qua một chút, Runo là một mạo hiểm giả khá có tay nghề đấy. Cơ bản thì coi là chiến sĩ cũng được, nhưng cậu ta còn dùng được chút ít ma pháp tấn công, chút ít ma pháp hồi phục, lại có cả một phần kỹ năng đạo tặc nữa, tóm lại là một gã rất tiện dụng."
 
-Vừa nhận lại Thẻ Hội vừa nghe người đàn ông — Gran — thuyết minh về năng lực của Runo, Rei lẩm bẩm một câu.
+Vừa nhận lại Thẻ Hội vừa nghe người đàn ông tên Gran giải thích về năng lực của Runo, Rei lẩm bẩm một câu.
 
 "Ý là đa năng không chuyên chứ gì."
 

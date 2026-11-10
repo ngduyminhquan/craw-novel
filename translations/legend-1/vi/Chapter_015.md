@@ -6,7 +6,7 @@ Lẩm bẩm một câu, Rei cùng Set dừng chân trên đường. Người qua
 
 Trên tấm biển vẽ mặt trời lặn dần nơi đường chân trời và những bông lúa mạch nhuộm sắc đỏ rực dưới ánh hoàng hôn. Có thể nói đó là tấm biển thể hiện đúng y như cái tên quán trọ: Hoàng Hôn Mạch Đình.
 
-Bản thân quy mô quán trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei bắt gặp trên đường từ Hội tới đây. Kiến trúc khá phổ biến với tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt duy nhất có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng khu chuồng thú đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là nơi lui tới thường xuyên của các đoàn buôn hay lính đánh thuê có quy mô nhất định, hoặc đoàn tùy tùng của những quý tộc ghé qua thành phố này. Nói thêm thì với trường hợp quý tộc, bản thân quý tộc thường sẽ trọ lại ở những nơi có giá vài đồng bạch kim một đêm.
+Bản thân quy mô quán trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei bắt gặp trên đường từ Hội tới đây. Kiến trúc khá phổ biến với tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt duy nhất có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng khu chuồng thú đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là nơi lui tới thường xuyên của các đoàn buôn hay lính đánh thuê có quy mô nhất định, hoặc đoàn tùy tùng của những quý tộc ghé qua thành phố này. Nói thêm thì với trường hợp cuối cùng, bản thân vị quý tộc đó thường sẽ nghỉ ở những nơi có giá vài đồng bạch kim một đêm.
 
 Đẩy cánh cửa kẽo kẹt mở ra, bên trong hầu như chẳng có bóng người do lúc này trời còn chưa quá nửa buổi chiều. Chỉ lác đác vài vị khách đang dùng bữa tại quán rượu tầng một.
 
@@ -28,7 +28,7 @@ Nghe đến Griffin, bà thoáng khựng người trong tích tắc rồi nhanh 
 
 Có lẽ do bà đã quen tiếp xúc với đám mạo hiểm giả và lính đánh thuê hằng ngày.
 
-"Cỡ quái vật tầm cỡ như Griffin thì... tính cả phí dùng chuồng lẫn thức ăn sẽ là hai đồng bạc một đêm. Ở từ mười ngày trở lên thì là một đồng vàng và tám đồng bạc."
+"Với quái vật tầm cỡ như Griffin thì... tính cả phí dùng chuồng lẫn thức ăn sẽ là hai đồng bạc một đêm. Ở từ mười ngày trở lên thì là một đồng vàng và tám đồng bạc."
 
 "Được, nhờ cô."
 
@@ -90,9 +90,9 @@ Anh chậm rãi đưa tay ra vuốt ve tấm lưng phủ lớp lông mượt mà
 
 Drum thầm cảm thán, nhưng dĩ nhiên độ mềm mượt ấy là nét riêng của Set, chứ loài Griffin thông thường thì lông ráp hơn nhiều.
 
-"Rồi, anh thỏa mãn chưa, giờ dẫn đường cho chúng tôi ra chuồng thú được rồi chứ?"
+"Nào, anh vuốt ve thỏa thích rồi thì giờ dẫn đường cho chúng tôi ra chuồng thú được chưa?"
 
-"A, vâng! Tôi xin lỗi. Tôi dẫn đường ngay đây ạ!"
+"A, vâng! Tôi xin lỗi. Tôi dẫn đường ngay đây!"
 
 Đi theo Drum rẽ vào con đường nhỏ cạnh lối vào quán trọ rồi cứ thế bước tiếp, chẳng mấy chốc khu chuồng thú đã hiện ra trước mắt.
 
@@ -136,7 +136,7 @@ Nhìn cảnh Drum đang trò chuyện với Set, Rei cất tiếng gọi với t
 
 Gãi gãi đầu Set khi nghe nó kêu lên vẻ luyến tiếc, Rei mới quay gót rời khỏi chuồng thú.
 
-"Cậu gì ơi, đồ ăn chuẩn bị xong rồi nhé."
+"Quý khách ơi, đồ ăn chuẩn bị xong rồi nhé."
 
 Vừa bước vào trong quán trọ, nghe tiếng gọi của Lana, cậu liền tiến tới ngồi xuống một bàn trong quán rượu.
 
@@ -174,7 +174,7 @@ Nghe câu trả lời, chiếc thìa đưa lên miệng của Rei thoáng khựn
 
 Đánh trống lảng qua mắt Lana xong, Rei liền rà lại trong tri thức của Zepairu.
 
-(Thông tin về Fang Boar... cũng không có à. Tri thức của ông già đúng là bắt đầu vô dụng thật rồi đấy. Thế này thì ngày mai việc đầu tiên phải làm là ghé thư viện hay đâu đó để thu thập thông tin, thay vì tới Hội rồi.)
+(Thông tin về Fang Boar... cũng không có à. Tri thức của Zepairu đúng là ngày càng không dùng được nữa rồi. Thế này thì ngày mai việc đầu tiên phải làm là ghé thư viện hay đâu đó để thu thập thông tin, thay vì tới Hội rồi.)
 
 Vừa ngẫm nghĩ, cậu vừa thưởng thức nốt phần bánh mì, salad rau, phô mai rồi nhấp cạn ly rượu vang.
 
@@ -198,9 +198,9 @@ Ngồi dậy từ trên giường, cậu mở danh sách trong tâm trí, lấy 
 
 Rei lẩm bẩm vậy mà chẳng hề hay biết số tiền này đích thực là toàn bộ gia tài của nhóm Vargas.
 
-"Nghe bảo thám hiểm mê cung kiếm được bộn tiền... nhưng ngặt nỗi không gian lại hẹp quá."
+"Nghe bảo thám hiểm hầm ngục kiếm được bộn tiền... nhưng ngặt nỗi không gian lại hẹp quá."
 
-Đủ loại quái vật xuất hiện, kèm theo nguyên liệu thu thập được và Ma Thạch. Kiếm được nhiều tiền như thế thì đối với Rei... không, đối với bất kỳ mạo hiểm giả nào cũng là một địa điểm vô cùng hấp dẫn. Dĩ nhiên chẳng có chuyện rủi ro thấp mà lợi nhuận cao, nên cần phải có thực lực nhất định. Nhưng điều khiến Rei đau đầu nhất chính là mê cung quá chật hẹp. Mạo hiểm giả thông thường chiến đấu ở đó thì chẳng vấn đề gì, nhưng với món vũ khí dài ngoằng như Lưỡi Hái Tử Thần hay thân hình hơn hai mét của Set thì quả thực hơi khó xoay xở.
+Đủ loại quái vật xuất hiện, kèm theo nguyên liệu thu thập được và Ma Thạch. Kiếm được nhiều tiền như thế thì đối với Rei... không, đối với bất kỳ mạo hiểm giả nào cũng là một địa điểm vô cùng hấp dẫn. Dĩ nhiên chẳng có chuyện rủi ro thấp mà lợi nhuận cao, nên cần phải có thực lực nhất định. Nhưng điều khiến Rei đau đầu nhất chính là hầm ngục quá chật hẹp. Mạo hiểm giả thông thường chiến đấu ở đó thì chẳng vấn đề gì, nhưng với món vũ khí dài ngoằng như Lưỡi Hái Tử Thần hay thân hình hơn hai mét của Set thì quả thực hơi khó xoay xở.
 
 "Dù có đi hầm ngục thì cũng phải củng cố thêm thực lực đã rồi tính."
 
