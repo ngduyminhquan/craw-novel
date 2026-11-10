@@ -129,6 +129,15 @@ def check(novel, row):
                 variants += [w for w in re.split(r"[\s·・]+", e["vi"]) if len(w) >= 3]
         if not any(v.lower() in vi_text.lower() for v in variants):
             warns.append(f"'{e['en']}' có trong raw nhưng bản dịch không có '{e['vi']}'")
+        elif ja and id(e) not in char_ids and len(variants) == 1 and variants[0] != variants[0].lower():
+            # Thuật ngữ viết hoa trong glossary (vd "Dao Mithril") phải giữ đúng chữ hoa ở mọi chỗ.
+            # In kèm chữ đứng sau để thấy cả cụm (vd "Số thuật sư" là chức danh, nên thêm thuật ngữ riêng).
+            wrong = sorted({m.group(0).strip() for m in re.finditer(re.escape(variants[0]) + r"(?:\s+\w+)?",
+                                                                     vi_text, re.IGNORECASE)
+                            if not m.group(0).startswith(variants[0])})
+            if wrong:
+                warns.append(f"'{e['vi']}' bị viết hoa/thường khác glossary: {', '.join(wrong)} — sửa lại chữ hoa, "
+                             "hoặc nếu là cụm khác (chức danh...) thì thêm thuật ngữ riêng")
     return errors, warns
 
 
