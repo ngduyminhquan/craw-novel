@@ -14,9 +14,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 7 |  | Chapter_0007 - オーク集落襲撃 - 第7話.txt | オーク集落襲撃 - 第7話 | reviewed |  |
 | 8 |  | Chapter_0008 - オーク集落襲撃 - 第8話.txt | オーク集落襲撃 - 第8話 | reviewed |  |
 | 9 |  | Chapter_0009 - オーク集落襲撃 - 第9話.txt | オーク集落襲撃 - 第9話 | reviewed |  |
-| 10 |  | Chapter_0010 - オーク集落襲撃 - 第10話.txt | オーク集落襲撃 - 第10話 | done |  |
-| 11 |  | Chapter_0011 - オーク集落襲撃 - 第11話.txt | オーク集落襲撃 - 第11話 | done |  |
-| 12 |  | Chapter_0012 - オーク集落襲撃 - 第12話.txt | オーク集落襲撃 - 第12話 | done |  |
+| 10 |  | Chapter_0010 - オーク集落襲撃 - 第10話.txt | オーク集落襲撃 - 第10話 | reviewed |  |
+| 11 |  | Chapter_0011 - オーク集落襲撃 - 第11話.txt | オーク集落襲撃 - 第11話 | reviewed |  |
+| 12 |  | Chapter_0012 - オーク集落襲撃 - 第12話.txt | オーク集落襲撃 - 第12話 | reviewed |  |
 | 13 |  | Chapter_0013 - オーク集落襲撃 - 第13話.txt | オーク集落襲撃 - 第13話 | todo |  |
 | 14 |  | Chapter_0014 - オーク集落襲撃 - 第14話.txt | オーク集落襲撃 - 第14話 | todo |  |
 | 15 |  | Chapter_0015 - オーク集落襲撃 - 第15話.txt | オーク集落襲撃 - 第15話 | todo |  |

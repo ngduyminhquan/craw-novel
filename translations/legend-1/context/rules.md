@@ -32,6 +32,6 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 ## Riêng truyện này
 
 - (#1) Raw tiếng Nhật gốc trên Kakuyomu. Nhân vật chính chương 1–2 tên là `佐伯玲二` (`Saeki Reiji`), từ chương 3 đổi tên thành `レイ` (`Rei`).
-- (#2) Phân biệt rõ `魔物` (`quái vật`, quái vật thông thường trong rừng/hầm ngục) và `魔獣` (`ma thú`, sinh vật được tạo ra từ Ma Thú Thuật như Set). Không dịch `魔物` thành `ma thú`. Khi raw đôi chỗ dùng `魔獣` để chỉ quái vật hoang dã trong rừng (không phải sinh vật tạo ra từ Ma Thú Thuật) thì vẫn dịch là `quái vật` để tránh lẫn với `ma thú`.
+- (#2) Phân biệt rõ `魔物` (`quái vật`, quái vật thông thường trong rừng/hầm ngục) và `魔獣` (`ma thú`, sinh vật được tạo ra từ Ma Thú Thuật như Set). Không dịch `魔物` thành `ma thú`. Khi raw đôi chỗ dùng `魔獣` để chỉ quái vật hoang dã trong rừng hoặc khi nhân vật/lời dẫn dùng `魔獣` để nói về cấp bậc quái vật thông thường nói chung (như gọi Griffin là `Aランクの魔獣`, không phải sinh vật tạo ra từ Ma Thú Thuật) thì vẫn thống nhất dịch là `quái vật` để tránh mâu thuẫn và giữ ranh giới với `ma thú` của Ma Thú Thuật.
 - (#3) Tiếng kêu của Set (`グルゥ`, `グルルゥ`, `グルルルゥ`) dịch tự nhiên theo ngữ cảnh (`"Grrr"`, `"Gừưư"`, `"Gùuu"`).
 - (#6) Thông báo hệ thống khi học kỹ năng mới và bảng kỹ năng thống nhất định dạng: `【セトは『<Tên kỹ năng>　Lv.N』を習得した】` → `[Set đã học được "<Tên kỹ năng> Lv.N"]`; bảng kỹ năng: `[Set]` và `[<Tên kỹ năng> Lv.N]`.

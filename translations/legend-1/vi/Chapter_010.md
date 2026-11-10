@@ -1,6 +1,6 @@
 # Chương 10: Đột kích bộ lạc Orc (10)
 
-Khi ánh bình minh dần ló rạng, Set vừa gừ nhẹ trong cổ họng vừa khẽ lắc mình lay Rei, lúc này vẫn đang tựa vào thân nó ngủ say, tỉnh dậy.
+Khi ánh bình minh dần ló rạng, Set vừa gừ nhẹ trong cổ họng vừa khẽ lắc mình đánh thức Rei lúc này vẫn đang tựa vào thân nó ngủ say.
 
 "Hửm? Set... đấy à?"
 
@@ -28,7 +28,7 @@ Sau đó, nhờ than củi vẫn cháy do Set trông nom đống lửa suốt đ
 
 Set cất tiếng kêu như muốn đáp rằng chẳng có vấn đề gì hết.
 
-Nếu là một con Griffin bình thường, thức trắng một đêm chắc chắn sẽ lộ vẻ mệt mỏi, nhưng Set lại là ma thú Griffin được sinh ra từ Ma Thú Thuật với nguồn ma lực khổng lồ của Rei. Đừng nói một đêm, dẫu có thức liền một tuần nó cũng chẳng hề hấn gì, dẫu rằng sau đó chắc chắn sẽ phải nghỉ ngơi bù vài ngày.
+Nếu là một con Griffin bình thường, thức trắng một đêm chắc chắn sẽ lộ vẻ mệt mỏi, nhưng Set lại là ma thú Griffin được sinh ra từ Ma Thú Thuật với nguồn ma lực khổng lồ của Rei. Đừng nói một đêm, có thức liền một tuần nó cũng chẳng hề hấn gì, tuy rằng sau đó hẳn sẽ phải nghỉ ngơi bù vài ngày.
 
 "Vậy à. Thế thì đi luôn nhé."
 
@@ -42,7 +42,7 @@ Nó cất tiếng kêu vang, chạy lấy đà vài bước rồi vỗ cánh lao
 
 "Gùuu?"
 
-Thấy Set như muốn hỏi nên đi hướng nào, Rei liền chỉ tay về phía nam. Dù chẳng biết có đáng tin hay không, nhưng theo tri thức của Zepairu thì đi về hướng nam khu rừng này vài ngày sẽ có một thành phố khá lớn... là như vậy.
+Thấy Set như muốn hỏi nên đi hướng nào, Rei liền chỉ tay về phía nam. Dù chẳng biết có đáng tin hay không, nhưng theo tri thức của Zepairu thì từ khu rừng này đi về hướng nam vài ngày sẽ có một thành phố khá lớn... ít nhất là theo những gì được truyền lại.
 
 Có điều, Rei vốn đã nhận định tri thức của Zepairu không đáng tin đến mức ấy, nên cậu chỉ xem nó như tài liệu tham khảo mà thôi. Dẫu vậy, có cái để tham khảo vẫn tốt hơn nhiều so với việc mù tịt không có gì.
 
@@ -60,7 +60,7 @@ Trải rộng trước mắt cậu là bầu trời xanh ngắt cao vời vợi 
 
 Dù sinh ra và lớn lên ở một thị trấn miền quê vùng Tohoku, nơi đó dĩ nhiên vẫn có nhà cậu, nhà hàng xóm, và chỉ cần đạp xe một quãng là đã tới được khu phố thị. Chính vì thế, một thế giới chỉ toàn thiên nhiên thuần khiết trải dài tít tắp trước mắt thế này là cảnh tượng đầu tiên cậu được thấy trong đời.
 
-"Gừưư!"
+"Gừưưư!"
 
 Có lẽ nhận ra Rei đang thích thú ngắm nhìn cảnh vật từ trên cao, Set cất tiếng kêu đầy vui sướng, sải cánh mạnh mẽ hơn nữa để lướt đi giữa bầu trời.
 
@@ -84,7 +84,7 @@ Sau khi rà soát lại toàn bộ câu chuyện lai lịch tự dựng xem có 
 
 "Chắc là không sao đâu."
 
-Nếu nghĩ kỹ lại, tuy tu luyện làm ma thuật sư nhưng lại dùng vũ khí là một cây đại hái khổng lồ như Lưỡi Hái Tử Thần, cây đại hái ấy lại chính là vật phát động ma thuật — hay nói cách khác là cây gậy phép thông thường, sư phụ phái đi rèn luyện lại vứt ra đường mà không cho lấy một xu dính túi, đã vậy cả Rei lẫn Set đều trang bị những Đạo Cụ Ma Thuật đắt giá và hiệu năng cao... Đúng là có vô số điểm kỳ quặc. Thế nhưng Rei chẳng thể nghĩ ra vỏ bọc nào giàu tính thuyết phục hơn, nên cậu cũng chẳng bận tâm nữa mà hài lòng gật đầu.
+Nếu nghĩ kỹ lại, tuy tu luyện làm ma thuật sư nhưng lại dùng vũ khí là một cây đại hái khổng lồ như Lưỡi Hái Tử Thần, cây đại hái ấy lại chính là vật phát động ma thuật, hay nói cách khác là cây gậy phép thông thường, còn sư phụ phái đi rèn luyện lại vứt ra đường mà không cho lấy một xu dính túi, đã vậy cả Rei lẫn Set đều trang bị những Đạo Cụ Ma Thuật đắt giá và hiệu năng cao... Đúng là có vô số điểm kỳ quặc. Thế nhưng Rei chẳng thể nghĩ ra vỏ bọc nào giàu tính thuyết phục hơn, nên cậu cũng chẳng bận tâm nữa mà hài lòng gật đầu.
 
 Vài tiếng đồng hồ trôi qua kể từ khi chốt xong phần lai lịch. Không có sự cố nào xảy ra, Set cùng Rei trên lưng vẫn ung dung tận hưởng chuyến bay giữa bầu trời.
 
@@ -150,7 +150,7 @@ Thầm thở dài trong lòng, cậu gật đầu trước lời đề nghị c�
 
 "Được rồi. Xem ra cứ ngoan ngoãn nghe theo lời ông là tốt nhất."
 
-"Ngại quá nhé. Chứ ai lại để một người dắt theo ma thú Hạng cao cỡ Griffin cứ thế đi thẳng vào, cấp trên mà biết là tôi ăn mắng ngay. Đã vậy tôi còn phải làm giấy tờ báo cáo lên Bá tước biên cảnh nữa."
+"Ngại quá nhé. Chứ ai lại để một người dắt theo quái vật Hạng cao cỡ Griffin cứ thế đi thẳng vào, cấp trên mà biết là tôi ăn mắng ngay. Đã vậy tôi còn phải làm giấy tờ báo cáo lên Bá tước biên cảnh nữa."
 
 Ranga phân trần tình cảnh bằng cái giọng nhẹ tênh chẳng ăn nhập gì với khuôn mặt bặm trợn. Hóa ra cái giọng điệu thoải mái lúc mới chào hỏi ban nãy không phải do ông cố tình tỏ ra thân thiện để thăm dò Rei và Set, mà đơn thuần đó là bản tính tự nhiên của ông.
 
@@ -174,11 +174,11 @@ Set hướng đôi mắt xanh lam nhìn Rei như muốn hỏi cậu có sao khô
 
 Dường như yên tâm trước lời dặn của Rei, Set ngoan ngoãn nằm lăn ra một bãi cỏ cạnh trạm gác. Suốt một đêm thức trắng lại bay thẳng một mạch tới đây không nghỉ ngơi nên chắc hẳn cũng thấm mệt đôi chút, nó từ từ khép mi mắt lại.
 
-Dĩ nhiên không phải nó buông lỏng cảnh giác hoàn toàn. Vốn sở hữu năng lực vượt trội hơn hẳn loài Griffin thông thường, Set có thể vừa nghỉ ngơi vừa dùng khứu giác, thính giác hay thậm chí là cảm nhận ma lực thay cho thị giác để nắm bắt xung quanh — điều đó đối với nó chẳng có gì là khó khăn.
+Dĩ nhiên không phải nó buông lỏng cảnh giác hoàn toàn. Vốn sở hữu năng lực vượt trội hơn hẳn loài Griffin thông thường, Set có thể vừa nghỉ ngơi vừa dùng khứu giác, thính giác hay thậm chí là cảm nhận ma lực thay cho thị giác để nắm bắt xung quanh, chuyện đó đối với nó chẳng có gì khó khăn.
 
 "Tôi cũng xin nói trước, trong lúc tôi vào trạm gác nói chuyện thì đừng để ai đến trêu chọc hay quấy rầy nó vô cớ đấy."
 
-"À, dĩ nhiên rồi. Tôi đâu có điên mà đi chọc giận một con ma thú Hạng A làm gì. Nhưng mà, ừm... này cậu."
+"À, dĩ nhiên rồi. Tôi đâu có điên mà đi chọc giận một con quái vật Hạng A làm gì. Nhưng mà, ừm... này cậu."
 
 Ranga liền gọi một người lính gần đó lại.
 
@@ -194,9 +194,9 @@ Ranga liền gọi một người lính gần đó lại.
 
 Người lính gật đầu với vẻ mặt đầy miễn cưỡng.
 
-(Mà cũng phải thôi, nghe bảo là ma thú Hạng A thì họ sợ cũng phải.)
+(Mà cũng phải thôi, nghe bảo là quái vật Hạng A thì họ sợ cũng phải.)
 
-Tuy chẳng rõ các Hạng ở đây được quy định cụ thể ra sao, nhưng nhìn biểu cảm của toán lính gác là đủ đoán được Hạng A hẳn phải là một sự tồn tại vô cùng nguy hiểm.
+Tuy chẳng rõ các Hạng ở đây được quy định cụ thể ra sao, nhưng nhìn biểu cảm của toán lính gác là đủ đoán được Hạng A hẳn phải thuộc hàng vô cùng nguy hiểm.
 
 Bật cười khổ trước thái độ của người lính, Rei cũng mở lời trấn an.
 
@@ -210,7 +210,7 @@ Ranga rút từ đâu ra một mảnh vải đưa cho Rei. Cầm lấy mảnh v�
 
 "Đưa tôi mảnh vải này để làm gì thế?"
 
-"...Cậu nhóc này. Cậu định để nguyên lưỡi hái trần thế kia mà bước vào thành phố đấy à? Làm gì có ai lủng lẳng thanh kiếm tuốt trần ra ngoài bao giờ chứ? Giáo mác thì còn tạm bỏ qua, chứ một lưỡi hái khổng lồ lồ lộ ra thế kia... đứng ở vị trí của tôi thì đâu thể nhắm mắt làm ngơ được."
+"...Này cậu. Cậu định để nguyên lưỡi hái trần thế kia mà bước vào thành phố đấy à? Làm gì có ai đeo lủng lẳng thanh kiếm tuốt trần ra ngoài bao giờ chứ? Giáo mác thì còn tạm bỏ qua, chứ một lưỡi hái khổng lồ để trần thế kia... đứng ở vị trí của tôi thì đâu thể nhắm mắt làm ngơ được."
 
 "...Tôi hiểu rồi."
 

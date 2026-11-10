@@ -106,7 +106,7 @@ Trước câu hỏi của Ranga, Rei khẽ lắc đầu. Vốn dĩ làm gì có 
 
 Vừa lẩm bẩm, Ranga vừa chăm chú nhìn Rei.
 
-Đứng ở cương vị của Ranga, ông không thể tùy tiện cho kẻ khả nghi bước vào thành phố. Thế nhưng người tên Rei trước mặt trông chẳng có vẻ gì là kẻ xấu. Đã vậy cậu ta còn điều khiển được ma thú Hạng A như Griffin, lại mang theo cây đại hái khổng lồ, thoạt nhìn đã biết là người có bản lĩnh phi thường. Vì thành phố Gilm nằm ở vùng biên cảnh nên các yêu cầu thảo phạt quái vật nhiều vô kể. Càng có nhiều mạo hiểm giả thực lực thì an ninh của thành phố càng được củng cố, do đó ông nghĩ tuyệt đối không thể bỏ lỡ một nhân tài như thế này.
+Đứng ở cương vị của Ranga, ông không thể tùy tiện cho kẻ khả nghi bước vào thành phố. Thế nhưng người tên Rei trước mặt trông chẳng có vẻ gì là kẻ xấu. Đã vậy cậu ta còn điều khiển được quái vật Hạng A như Griffin, lại mang theo cây đại hái khổng lồ, thoạt nhìn đã biết là người có bản lĩnh phi thường. Vì thành phố Gilm nằm ở vùng biên cảnh nên các yêu cầu thảo phạt quái vật nhiều vô kể. Càng có nhiều mạo hiểm giả thực lực thì an ninh của thành phố càng được củng cố, do đó ông nghĩ tuyệt đối không thể bỏ lỡ một nhân tài như thế này.
 
 Nhân tiện, thành phố Gilm nơi Rei đang dừng chân nằm ở vùng biên cảnh thuộc Vương quốc Mireana — một đại quốc trên đại lục trung tâm của thế giới Elgin.
 
@@ -114,7 +114,7 @@ Nhân tiện, thành phố Gilm nơi Rei đang dừng chân nằm ở vùng biê
 
 "Đồ đem bán được... à."
 
-Trước câu hỏi của Ranga, thứ đầu tiên lóe lên trong đầu cậu chính là những vật phẩm được môn phái Zepairu truyền lại trong Nhẫn Sương Mù. Ngoài các nguyên liệu như vảy và xương rồng, bên trong còn vô số Đạo Cụ Ma Thuật. Thế nhưng mang những thứ đó ra bán thì cậu thực sự ngần ngại. Xét cho cùng, thân phận hiện tại của Rei chỉ là một thường dân muốn làm mạo hiểm giả, vóc dáng lại nhỏ nhắn chỉ cao tầm một mét sáu lăm. Một người như vậy mà đem ra những nguyên liệu hay vật phẩm tầm cỡ truyền thuyết thì chắc chắn sẽ bị nghi ngờ tuyệt đối. Vả lại, cậu cũng muốn giữ những nguyên liệu quý giá ấy làm trang bị cho bản thân và Set hơn.
+Trước câu hỏi của Ranga, thứ đầu tiên lóe lên trong đầu cậu chính là những vật phẩm được môn phái Zepairu truyền lại trong Nhẫn Sương Mù. Ngoài các nguyên liệu như vảy và xương rồng, bên trong còn vô số Đạo Cụ Ma Thuật. Thế nhưng mang những thứ đó ra bán thì cậu thực sự ngần ngại. Xét cho cùng, thân phận hiện tại của Rei chỉ là một thường dân muốn làm mạo hiểm giả, vóc dáng lại nhỏ nhắn chỉ cao tầm một mét sáu lăm. Một người như vậy mà đem ra những nguyên liệu hay vật phẩm tầm cỡ truyền thuyết thì chắc chắn sẽ bị nghi ngờ ngay lập tức. Vả lại, cậu cũng muốn giữ những nguyên liệu quý giá ấy làm trang bị cho bản thân và Set hơn.
 
 (...Khoan đã nào?)
 
@@ -126,15 +126,15 @@ Từ danh sách hiện lên trong tâm trí, cậu lấy ra khoảng 20 xác Só
 
 "Đ-Đây là... Cậu sở hữu Hộp Vật Phẩm sao!? Đã vậy đây chẳng phải là xác Jarm và tấm da Gấu Nước vốn làm tổ ở cửa Rừng Ma hay sao!"
 
-Ranga lộ rõ vẻ kinh ngạc tột độ trước xác Sóc Bay Lưỡi Dao — hay còn gọi là Jarm — cùng tấm da Gấu Nước — mà người ở đây gọi là Water Bear — bất thình lình được lôi ra từ khoảng không trống rỗng.
+Ranga lộ rõ vẻ kinh ngạc tột độ trước xác Sóc Bay Lưỡi Dao — tên chính thức là Jarm — cùng tấm da con gấu nước — mà ở đây cũng gọi thẳng là Gấu Nước — bất thình lình được lôi ra từ khoảng không trống rỗng.
 
 Lại nói, Rei hoàn toàn không hề hay biết rằng những Đạo Cụ Ma Thuật thuộc chủng loại được gọi là Hộp Vật Phẩm như Nhẫn Sương Mù vốn đã vô cùng hiếm hoi, mà loại có dung tích chứa đồ khổng lồ đến mức phi lý như Nhẫn Sương Mù thì trên khắp thế gian này số lượng còn tồn tại chỉ đếm trên đầu ngón tay.
 
 "Những thứ này... lẽ nào là do cậu hạ gục... sao?"
 
-"Phải. Ở khu rừng bị dịch chuyển tới, tôi bất ngờ bị con Gấu Nước... à, ông gọi là Water Bear nhỉ? Bị nó tấn công, rồi tôi cùng Set chật vật mãi mới hạ được. Dù sao đó cũng là trận thực chiến đầu tiên nên mất thời gian hơn dự tính."
+"Phải. Ở khu rừng bị dịch chuyển tới, tôi bất ngờ bị con gấu nước... à, ở đây cũng gọi là Gấu Nước nhỉ? Bị nó tấn công, rồi tôi cùng Set chật vật mãi mới hạ được. Dù sao đó cũng là trận thực chiến đầu tiên nên mất thời gian hơn dự tính."
 
-Trong lòng Rei khẽ cười khổ trước cái tên Water Bear nghe chẳng khác nào dịch thẳng từ chữ Gấu Nước sang tiếng Anh, nhưng cậu vẫn gật đầu.
+Trong lòng Rei khẽ cười khổ khi thấy cái tên chính thức Gấu Nước chẳng khác nào cái tên cậu tự đặt đại theo nghĩa đen, nhưng cậu vẫn gật đầu.
 
 "Thế thì nơi cậu bị dịch chuyển tới chính là Rừng Ma rồi. Ít nhất theo những gì tôi biết thì quanh đây chỉ có Rừng Ma là xác nhận có sự hiện diện của Gấu Nước và Jarm thôi."
 
@@ -182,6 +182,6 @@ Cậu rút một đồng vàng từ trong túi ra đưa cho Ranga.
 
 "Cảm ơn ông đã giúp đỡ nhiều nhé."
 
-"Không có gì. Vậy thì chúc mừng cậu đã đến với thành phố Gilm. Chúc cậu có những cuộc hội ngộ tốt lành."
+"Không có gì. Vậy thì chào mừng cậu đến với thành phố Gilm. Chúc cậu có những cuộc hội ngộ tốt lành."
 
 Được Ranga tiễn ra cửa như vậy, Rei bước chân ra khỏi trạm gác.

@@ -2,7 +2,7 @@
 
 Trên đại lộ của thành phố Gilm. Lúc này, khắp nơi đang chìm trong những tiếng xôn xao bàn tán.
 
-Mà thật ra, đại lộ vốn lúc nào cũng thế, chẳng có gì lạ. Điểm khác thường duy nhất là ở trung tâm của sự ồn ào ấy xuất hiện một gã đàn ông — hay đúng hơn phải gọi là một thiếu niên — cùng một chú Griffin.
+Mà thật ra, đại lộ vốn lúc nào cũng thế, chẳng có gì lạ. Điểm khác thường duy nhất là ở trung tâm của sự ồn ào ấy xuất hiện một chàng trai — hay đúng hơn phải gọi là một thiếu niên — cùng một chú Griffin.
 
 "Gừưư."
 
@@ -12,9 +12,9 @@ Nhưng điều đó cũng dễ hiểu. Bởi lẽ, Griffin vốn là quái vật
 
 "Đừng bận tâm. Mày không làm gì thì họ cũng chẳng làm gì đâu."
 
-Rei vừa nói vừa đưa tay gãi đầu Set, nhưng bản thân cậu lại khoác chiếc áo choàng trông cực kỳ cao cấp cùng cây đại liêm với cán dài hai mét và lưỡi dài một mét. Dù không có Set đi cùng, chắc chắn cậu vẫn sẽ là tâm điểm của mọi sự chú ý.
+Rei vừa nói vừa đưa tay gãi đầu Set, nhưng bản thân cậu lại khoác chiếc áo choàng trông cực kỳ cao cấp cùng cây đại hái với cán dài hai mét và lưỡi dài một mét. Dù không có Set đi cùng, chắc chắn cậu vẫn sẽ là tâm điểm của mọi sự chú ý.
 
-Ngoài ra, chiếc áo choàng đó là Áo Choàng Rồng, một cực phẩm đẳng cấp vượt bậc, nhưng nhờ pháp thuật gia trì của người chế tạo là Giả Kim Thuật Sư Esta Noor, thoạt nhìn không ai nhận ra đây là một Đạo Cụ Ma Thuật hùng mạnh. Do vậy, nhìn qua nó chỉ giống như một chiếc áo choàng nổi bật một cách kỳ quặc.
+Ngoài ra, chiếc áo choàng đó là Áo Choàng Rồng, một cực phẩm đẳng cấp vượt bậc, nhưng nhờ pháp thuật gia trì của người chế tạo là Giả Kim Thuật Sư Esta Noor, thoạt nhìn không ai nhận ra đây là một Đạo Cụ Ma Thuật cao cấp. Do vậy, nhìn qua nó chỉ giống như một chiếc áo choàng phô trương quá mức.
 
 Đi giữa những tiếng xôn xao ấy chừng mười phút dọc theo đại lộ, đúng như Ranga đã nói, một tòa nhà treo tấm biển lớn đề dòng chữ "Hội Mạo Hiểm Giả" lọt vào tầm mắt của Rei.
 
@@ -52,7 +52,7 @@ Khi Rei vừa nói đến đó, từ phía nhóm người đang uống rượu b
 
 Dù một người còn khá tỉnh táo trong nhóm năm người ra sức can ngăn, nhưng bốn tên còn lại có lẽ đã say mèm. Mặc kệ lời đồng đội, bọn chúng vẫn cứ buông lời châm chọc, chế giễu Rei.
 
-(Đúng là tình huống kinh điển hay thấy trong tiểu thuyết. Lúc đến thành phố Gilm thì chẳng gặp cảnh thương nhân hay quý tộc bị thảo khấu tấn công, nhưng sự kiện bị kiếm chuyện ở Hội Mạo Hiểm Giả thì lại xuất hiện à. Cứu người bị sơn tặc tấn công thì còn nhận được thù lao hậu hĩnh, chứ dây vào mấy gã say xỉn này thì... Ơ kìa, khoan đã? Tên cuối cùng vừa nhắc đến tiệc mừng công thì phải. Mở tiệc mừng công ngay quán rượu trong Hội, tức là bọn chúng vừa hoàn thành một ủy thác nào đó. Vậy thì...)
+(Đúng là tình huống kinh điển hay thấy trong tiểu thuyết. Lúc đến thành phố Gilm thì chẳng gặp cảnh thương nhân hay quý tộc bị sơn tặc tấn công, nhưng màn bị kiếm chuyện ở Hội Mạo Hiểm Giả thì lại có đủ à. Cứu người bị sơn tặc tấn công thì còn nhận được thù lao hậu hĩnh, chứ dây vào mấy gã say xỉn này thì... Ơ kìa, khoan đã? Tên cuối cùng vừa nhắc đến tiệc mừng công thì phải. Mở tiệc mừng công ngay quán rượu trong Hội, tức là bọn chúng vừa hoàn thành một ủy thác nào đó. Vậy thì...)
 
 "Hừ."
 
@@ -128,7 +128,7 @@ Trước câu hỏi của cô tiếp tân, Rei suy nghĩ vài giây rồi mở l
 
 "Hahaha! Một thằng nhóc vừa mới đăng ký mà đòi hạ gục quái vật Hạng C với Hạng B cơ đấy. Bớt nói mớ giữa ban ngày đi là vừa!"
 
-"Chuẩn luôn, mở mắt trừng trừng mà vẫn nói mớ được thì đúng là tài nghệ ngủ đỉnh cao thật đấy."
+"Đúng đấy, mở mắt trừng trừng mà vẫn nói mớ được thì đúng là có tài ngủ thật đấy."
 
 Nhóm người có hai gã mạo hiểm giả tên là Vargas và Zolit nghe thấy câu hỏi của Rei lại tiếp tục xía vào châm chọc, nhưng Rei vờ như không nghe thấy mà vẫn tiếp tục nói chuyện với cô tiếp tân.
 
@@ -152,7 +152,7 @@ Trước câu đáp lại, Rei khẽ nhếch mép cười rồi cố tình cất
 
 Có lẽ cũng do ma men đưa lối, đòn khiêu khích đội lốt câu hỏi của Rei lập tức khiến cả bọn nổi cơn thịnh nộ.
 
-"...Dạ chuyện là, những người đằng kia thuộc tổ đội Hạng Tổ Đội D mang tên Móng Vuốt Chim Ưng ạ."
+"...Dạ chuyện là, những người đằng kia thuộc nhóm Móng Vuốt Chim Ưng, có Hạng Tổ Đội là D ạ."
 
 "Hô. Móng Vuốt Chim Ưng... cơ à. Tôi lại cứ ngỡ phải là Nước Dãi Goblin hay cái tên nào đó biết thân biết phận như thế chứ."
 
