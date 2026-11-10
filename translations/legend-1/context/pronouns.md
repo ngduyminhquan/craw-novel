@@ -88,3 +88,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Al | Snee | tôi / tao | cô / mày / Snee | 28 | Đồng đội cùng hạng D tranh cãi |
 | Snee | Al | tôi | Al / anh | 28 | Đồng đội cùng hạng D nhắc nhở |
 | Ceryl | * | chị / tao | mấy đứa / chúng mày / tụi mày | 28 | Trưởng nhóm nói với cả nhóm Al, Snee, Murgas |
+| Murgas | Ceryl | em / tôi | chị đại | 29 | Đàn em gọi đàn chị trưởng nhóm |
+| Ceryl | Murgas | chị / tao | Murgas / mày | 29 | Đàn chị ra lệnh cấp dưới |
