@@ -28,7 +28,7 @@ Ranga khẽ giật mình trước lời giải thích ấy.
 
 "Gùuu."
 
-Nhận lại Thẻ Hội từ tay Ranga, cậu đưa tay xoa đầu Set khi nó đang cọ cọ vào người như muốn hỏi "vẫn chưa đi được à?".
+Nhận lại Thẻ Hội từ tay Ranga, cậu đưa tay xoa đầu Set khi nó đang cọ cọ vào người như muốn hỏi vẫn chưa đi được sao.
 
 "Xin lỗi nhé, làm mất thời gian của cậu rồi. Với cậu và Set thì ta chẳng lo gì, nhưng nhớ cẩn thận đấy."
 
@@ -38,7 +38,7 @@ Gật đầu trước lời của Ranga, cậu cùng Set di chuyển ra một b�
 
 Set khoan khoái nằm dài trên bãi cỏ, còn Rei thì tựa lưng vào người nó. Đúng ra cậu chỉ cần đứng bên cổng chính chờ các thành viên khác, nhưng cậu mới đến thành phố Gilm vài ngày. Số người chưa biết tới sự hiện diện của Set vẫn còn khá nhiều, nên đây là sự tế nhị của riêng Rei để tránh gây cản trở việc ra vào thành của mọi người.
 
-Bản thân Set dường như cũng thích tắm mình dưới ánh nắng mùa hè trên đồng cỏ hơn là ở trong thành phố, nên nó đang rên "gừ gừ" trong họng đầy vui vẻ chẳng khác gì một chú mèo.
+Bản thân Set dường như cũng thích tắm mình dưới ánh nắng mùa hè trên đồng cỏ hơn là ở trong thành phố, nên nó đang phát ra tiếng gừ gừ đầy khoan khoái trong cổ họng chẳng khác gì một chú mèo.
 
 Phơi mình dưới ánh nắng gay gắt ban trưa của mùa hè, người bình thường rất dễ bị sốc nhiệt; song năng lực thể chất bẩm sinh của Rei vốn đã vượt xa người thường, chưa kể cậu còn khoác trên mình chiếc Áo Choàng Rồng có thể ví như máy điều hòa tiện dụng, nên gương mặt cậu vẫn mát rượi, thảnh thơi dựa vào Set.
 
@@ -82,7 +82,7 @@ Vừa gãi gãi đầu nó như thói quen thường lệ, cậu vừa cất l�
 
 Nghe vậy, Rhodes cứ há hốc miệng nhưng lại sợ hễ thốt ra lời nào là lại bị Set gầm gừ dọa dẫm, nên chẳng thốt nên câu nào được nữa.
 
-"Khà khà khà khà! Khá lắm nhóc! Người thuần hóa được quái vật thì ta thấy cũng kha khá rồi, nhưng thuần hóa được cả Griffin thì đây là lần đầu tiên ta thấy đấy. Này, ta sờ thử chút được không?"
+"Khà khà khà khà! Khá lắm cậu nhóc! Người thuần hóa được quái vật thì tôi thấy cũng kha khá rồi, nhưng thuần hóa được cả Griffin thì đây là lần đầu tiên tôi thấy đấy. Này, tôi sờ thử chút được không?"
 
 "Bố!"
 
@@ -100,13 +100,13 @@ Set đảo mắt nhìn lần lượt ba người Rhodes, Elk và Min. Sau vài g
 
 Dù sắp chạm vào một quái vật có mức độ nguy hiểm cực cao như Hạng A, Elk chẳng hề có chút căng thẳng nào mà còn nở nụ cười rồi vươn tay ra. Bàn tay ông chạm vào phần thân Set nơi Rei đang tựa lưng, rồi...
 
-"Ồ! Gì thế này, sờ mượt tay thật đấy. Đây là lần đầu tiên ta thấy Griffin ngoài đời, không ngờ lông của nó lại mượt thế này."
+"Ồ! Gì thế này, sờ mượt tay thật đấy. Đây là lần đầu tiên tôi thấy Griffin ngoài đời, không ngờ lông của nó lại mượt thế này."
 
 Từ ngữ thích hợp nhất để miêu tả bộ lông của Set có lẽ là độ mềm mượt như lụa.
 
 Vừa vuốt ve lớp lông mượt mà ấy, Elk vừa gật gù ra chiều thỏa mãn.
 
-"Này Rei, nhóc bảo nó tên là Set đúng không? Lấy lông con này may quần áo thì khéo làm ra được phẩm chất thượng hạng đem cống nạp cho cả hoàng tộc ấy chứ nhỉ?"
+"Này Rei, cậu bảo nó tên là Set đúng không? Lấy lông con này may quần áo thì khéo làm ra được phẩm chất thượng hạng đem cống nạp cho cả hoàng tộc ấy chứ nhỉ?"
 
 "Chuyện đó thì ai mà biết được. Tôi không có ý định làm thế nên cũng chẳng để ý..."
 
@@ -140,13 +140,13 @@ Chứng kiến cảnh đó, Elk để mặc Min vẫn đang mải mê xoa lưng 
 
 Elk khẽ thở dài như thể bó tay với cậu con trai. Thấy vậy, Rei liền cất tiếng:
 
-"Bobbs bảo tôi là cho đến khi tới được bộ lạc Orc, tôi sẽ đi chung với các anh. Nhờ mọi người giúp đỡ nhé."
+"Bobbs bảo tôi là cho đến khi tới được bộ lạc Orc, tôi sẽ đi chung với nhóm mọi người. Nhờ mọi người giúp đỡ nhé."
 
 "Hả!? Sao bọn này lại phải đi trông chừng một tên Hạng G chứ hả!?"
 
 Người phản ứng đầu tiên trước lời Rei dĩ nhiên là Rhodes, nhưng người lên tiếng phản bác lại không phải Rei mà là Elk.
 
-"Thế là chuyện đương nhiên rồi còn gì. À, dĩ nhiên là ta chẳng có vấn đề gì cả."
+"Thế là chuyện đương nhiên rồi còn gì. À, dĩ nhiên là phía tôi chẳng có vấn đề gì cả."
 
 "Bố!"
 
@@ -164,19 +164,19 @@ Nhìn Rhodes gặng hỏi, Elk thở dài ngao ngán rồi cất lời:
 
 "...Tổ đội Hạng A, Rìu Lôi Thần."
 
-"Đúng thế. Chưa kể bọn mình còn là tổ đội Hạng A duy nhất tham gia chiến dịch thảo phạt Orc lần này."
+"Đúng thế. Chưa kể chúng ta còn là tổ đội Hạng A duy nhất tham gia chiến dịch thảo phạt Orc lần này."
 
 Hạng A. Trong thang bậc của Hội, đây là cấp bậc đứng ngay dưới Hạng S; nhưng vì toàn thế giới chỉ có vỏn vẹn ba người đạt Hạng S, nên bất kỳ mạo hiểm giả nào cũng hiểu Hạng A ngay bên dưới khủng khiếp đến mức nào. Và chính bởi Hạng S quá hiếm hoi như vậy, trong mắt các mạo hiểm giả thông thường, những người nắm giữ Hạng A trên thực tế được xem là đỉnh cao nhất của họ.
 
 Trong khi đó, Rìu Lôi Thần lại là tổ đội có tới hai mạo hiểm giả Hạng A góp mặt. Tại thành phố Gilm, Hội luôn đánh giá họ là tổ đội hàng đầu cả về thực lực lẫn chiến tích, và thực tế điều đó hoàn toàn chuẩn xác.
 
-"Được xem là lực lượng chiến đấu mạnh nhất trong cả đội thảo phạt, bọn mình đứng ra hộ tống người vận chuyển nhu yếu phẩm như Rei... thì có gì sai trái không?"
+"Được xem là lực lượng chiến đấu mạnh nhất trong cả đội thảo phạt, chúng ta đứng ra hộ tống người vận chuyển nhu yếu phẩm như Rei... thì có gì sai trái không?"
 
-"Con hiểu đồ tiếp tế quan trọng rồi. Nhưng đâu nhất thiết phải là bọn mình hộ tống hắn chứ. Vẫn còn các tổ đội Hạng B hay Hạng C cơ mà."
+"Con hiểu đồ tiếp tế quan trọng rồi. Nhưng đâu nhất thiết phải là chúng ta hộ tống hắn chứ. Vẫn còn các tổ đội Hạng B hay Hạng C cơ mà."
 
 Rhodes bướng bỉnh cãi lại lời Elk.
 
-(Khốn thật, sao cả bố lẫn mẹ đều phải bận tâm tới một tên như nó đến mức ấy chứ. Vả lại Griffin hay Hộp Vật Phẩm thì cũng có phải năng lực thật của nó đâu, toàn nhờ cậy vào quái vật với Đạo Cụ Ma Thuật đấy thôi. Cần gì bọn mình phải cất công bảo vệ nó chứ...)
+(Khốn thật, sao cả bố lẫn mẹ đều phải bận tâm tới một tên như nó đến mức ấy chứ. Vả lại Griffin hay Hộp Vật Phẩm thì cũng có phải năng lực thật của nó đâu, toàn nhờ cậy vào quái vật với Đạo Cụ Ma Thuật đấy thôi. Cần gì chúng ta phải cất công bảo vệ nó chứ...)
 
 Cậu ta thầm nghĩ trong bụng rồi hướng mắt nhìn Elk.
 
@@ -184,13 +184,13 @@ Chỉ riêng bản thân cậu ta là không nhận ra mối ác cảm dành cho
 
 Dĩ nhiên là một người cha, đồng thời là đội trưởng của Rìu Lôi Thần, Elk nhận ra rõ mười mươi điều đó.
 
-"Mày nghe cho rõ. Đây là quyết định với tư cách đội trưởng Rìu Lôi Thần. Tao không cho phép cãi lại, càng không tha cho việc lơ là nhiệm vụ hộ tống đâu."
+"Mày nghe cho rõ. Đây là quyết định với tư cách đội trưởng Rìu Lôi Thần. Ta không cho phép cãi lại, càng không tha cho việc lơ là nhiệm vụ hộ tống đâu."
 
 "...Con hiểu rồi."
 
 Thấy Elk ra lệnh dứt khoát khác hẳn ngày thường, rốt cuộc Rhodes cũng chỉ đành miễn cưỡng gật đầu.
 
-(Thiệt tình, mình chiều chuộng nó quá rồi chăng? Xét thuần túy về thực lực thì nó thuộc hàng top của Hạng C... Vậy mà sao tính tình lại bám mẹ đến mức này không biết. Hy vọng trong chuyến ủy thác lần này, nó sẽ chịu ảnh hưởng tích cực từ Rei.)
+(Thiệt tình, mình chiều chuộng nó quá rồi chăng? Xét thuần túy về thực lực thì nó cũng thuộc nhóm đầu của Hạng C... Vậy mà sao tính tình lại bám mẹ đến mức này không biết. Hy vọng trong chuyến ủy thác lần này, nó sẽ chịu ảnh hưởng tích cực từ Rei.)
 
 Khác với Min, Elk không có khả năng cảm ứng ma lực. Dẫu vậy, xứng danh là một mạo hiểm giả Hạng A, ông vẫn lờ mờ đoán được thực lực cùng tiềm năng của Rei. Qua cuộc trò chuyện, Elk cũng phần nào nắm bắt được tính cách của cậu nhóc: Rei sở hữu một sức mạnh khổng lồ ẩn giấu trong người, nhưng tuyệt đối không phải phường gian ác. ...Dù khi nghe kể về cách cậu xử lý nhóm Móng Vuốt Chim Ưng, ông chỉ biết cười trừ.
 

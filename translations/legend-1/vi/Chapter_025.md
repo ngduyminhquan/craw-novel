@@ -38,7 +38,7 @@ Lẽ dĩ nhiên Rhodes cũng ôm đầu ngồi thụp xuống sàn, nhưng ngư�
 
 "..."
 
-Thấy Rei lẳng lặng nhìn lại, người phụ nữ túm lấy Rhodes đang ngồi thụp dưới sàn nhấc bổng lên một cách nhẹ tênh rồi ấn đầu cậu ta xuống bắt tạ lỗi.
+Thấy Rei lẳng lặng nhìn lại, người phụ nữ túm lấy Rhodes đang ngồi thụp dưới sàn nhấc bổng lên nhẹ tênh rồi ấn đầu cậu ta xuống bắt tạ lỗi.
 
 "Thế này nhé. Rhodes cũng biết lỗi rồi, tôi đảm bảo sẽ không để nó làm trò thất lễ thế này lần nữa. Vì vậy nếu cậu bỏ qua chuyện lần này thì tốt quá. Đương nhiên tôi không bảo cậu bỏ qua vô điều kiện. Sau này có chuyện gì xảy ra, tổ đội Hạng A Rìu Lôi Thần chúng tôi hứa sẽ ra tay giúp đỡ."
 
@@ -74,9 +74,9 @@ Elk bật cười hào sảng đúng như vẻ bề ngoài. Trông thấy điệ
 
 "Elk, anh im một lát đi."
 
-Nghe Min gắt, Elk đành miễn cưỡng ngậm bồ hòn làm ngọt. Rei liền ghi nhớ trong đầu rằng ít nhất trong ba người này, Min là người có tiếng nói nhất.
+Nghe Min gắt, Elk đành miễn cưỡng ngậm miệng lại. Rei liền ghi nhớ trong đầu rằng ít nhất trong ba người này, Min là người có tiếng nói nhất.
 
-"Dù sao bọn tôi cũng làm mạo hiểm giả ở thành phố Gilm này khá lâu rồi, cậu tên là cậu Rei nhỉ? Tôi không nhớ là từng thấy mặt cậu, cậu mới tới thành phố này à?"
+"Dù sao bọn tôi cũng làm mạo hiểm giả ở thành phố Gilm này khá lâu rồi, cậu tên là Rei nhỉ? Tôi không nhớ là từng thấy mặt cậu, cậu mới tới thành phố này à?"
 
 "Đúng vậy. Tôi đăng ký vào Hội mới được vài ngày thôi."
 
@@ -110,7 +110,7 @@ Khi Rei mới bước vào phòng họp thì chỉ có chừng hai mươi ngư�
 
 Sau khi điểm qua một lượt, người đàn ông tiếp tục lên tiếng.
 
-"Tôi là Bobbs, người chịu trách nhiệm điều phối ủy thác lần này. Nội dung đại khái của ủy thác thì tôi đã nói lúc nãy rồi, đây là nhiệm vụ thảo phạt Orc. Thù lao là năm đồng vàng trả trước, hai đồng bạch kim sau khi hoàn thành ủy thác. Ngoài ra tùy theo mức độ đóng góp sẽ cân nhắc thưởng thêm. Thêm nữa, bộ phận xác nhận thảo phạt là tai phải của Orc chỉ dành riêng cho những ai tham gia nhiệm vụ lần này sẽ được tính năm đồng bạc thay vì mức ba đồng bạc thông thường. Đến đây mọi người rõ cả rồi chứ?"
+"Tôi là Bobbs, người chịu trách nhiệm điều phối ủy thác lần này. Nội dung đại khái của ủy thác thì tôi đã nói lúc nãy rồi, đây là nhiệm vụ thảo phạt Orc. Thù lao là năm đồng vàng trả trước, hai đồng bạch kim sau khi hoàn thành ủy thác. Ngoài ra tùy theo mức độ đóng góp sẽ cân nhắc thưởng thêm. Thêm nữa, riêng với những ai tham gia nhiệm vụ lần này, bộ phận xác nhận thảo phạt là tai phải của Orc sẽ được tính năm đồng bạc thay vì mức ba đồng bạc thông thường. Đến đây mọi người rõ cả rồi chứ?"
 
 Mọi người đều gật đầu trước lời của Bobbs.
 
@@ -158,7 +158,7 @@ Vừa nói, cậu vừa lấy một bình thuốc hồi phục từ trong Nhẫn
 
 "Tao cũng thế. Mà nói đúng ra, loại Đạo Cụ Ma Thuật đắt đỏ cỡ đó người bình thường cả đời khéo chưa chắc thấy được một lần ấy chứ?"
 
-Những người trong phòng họp dường như có không ít kẻ biết chuyện xích mích giữa Rei và Móng Vuốt Chim Ưng, nhưng dạo ấy chuyện đặt cược Hộp Vật Phẩm làm phần thưởng có vẻ ít ai hay biết.
+Những người trong phòng họp dường như có không ít kẻ biết chuyện xích mích giữa Rei và Móng Vuốt Chim Ưng, nhưng xem chừng chẳng mấy ai biết chuyện đặt cược Hộp Vật Phẩm làm phần thưởng.
 
 Và ngay cả trong số những kẻ đã biết, vài người liền phóng ánh mắt dò xét sắc lẹm về phía Rei.
 
@@ -232,7 +232,7 @@ Nghe tiếng gọi, Rei nhìn quanh thì thấy số người trong phòng họp
 
 "Ấy chết, làm phiền cậu quá. Mở mang tầm mắt nhiều lắm."
 
-Đeo lại chiếc Nhẫn Sương Mù vừa nhận lại từ Min vào cổ tay phải, Rei để mặc Rhodes vẫn đang muốn nói gì đó lại chỗ cũ rồi tiến về phía Bobbs.
+Nhận lại chiếc Nhẫn Sương Mù từ Min rồi đeo vào cổ tay phải, Rei bỏ mặc Rhodes vẫn đang ngấp nghé muốn nói gì đó ở nguyên tại chỗ mà tiến về phía Bobbs.
 
 "Tên gì?"
 

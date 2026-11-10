@@ -10,7 +10,7 @@ Bước ra khỏi phòng họp và quay trở lại tầng một của Hội, ti
 
 Ánh mắt của Lenora khi nói những lời đó quả thực ánh lên vẻ lo lắng cho Rei.
 
-"Đúng đấy. Cậu nhóc Rei vẫn chỉ là tân binh thôi, việc khó khăn cứ để những người Hạng cao lo, trước hết phải nghĩ cách sống sót đã chứ."
+"Đúng đấy. Cậu nhóc Rei vẫn chỉ là tân binh thôi, việc khó khăn cứ để những người hạng cao lo, trước hết phải nghĩ cách sống sót đã chứ."
 
 Giọng nói bất ngờ vang lên là từ nữ tiếp tân thuộc chủng tộc thú nhân mèo ở cạnh Lenora. Vì chưa từng nói chuyện với cô bao giờ nên Rei hướng ánh mắt đầy vẻ ngờ vực về phía cô.
 
@@ -60,17 +60,17 @@ Chỉ nói vắn tắt bấy nhiêu, Lana liền quay người đi vào phía nh
 
 Nhìn theo bóng bà, Rei trở về phòng mình, cởi Áo Choàng Rồng và Giày Sleipnir ra rồi ngả lưng xuống giường.
 
-Dù sao thì hành lý cơ bản đều đã được cất hết vào Nhẫn Sương Mù, đồ đạc để trong phòng chẳng qua chỉ có vài bộ quần áo mặc lót bên trong Áo Choàng Rồng như áo sơ mi, quần dài và đồ lót.
+Dù sao thì hành lý cơ bản đều đã được cất hết vào Nhẫn Sương Mù, đồ dùng cá nhân để lại trong phòng chẳng qua chỉ có quần áo thay và ít tiền lẻ mà thôi.
 
-Ngay cả số đồ đó lát nữa tiện tay ném vào Nhẫn Sương Mù là xong, nên nói về chuyện chuẩn bị thì cậu hầu như chẳng có việc gì phải làm.
+(Một bầy Orc. Hơn nữa khả năng cao lại do chủng hiếm hoặc chủng cấp cao dẫn đầu sao.)
 
-(Thôi thì việc chuẩn bị không đáng lo... vấn đề là nên hành động thế nào đây.)
+Chủng hiếm và chủng cấp cao. Hai khái niệm này hoàn toàn khác biệt. Chẳng hạn như con Goblin chủng hiếm mà Rei từng hạ trước đây, bản chất nó là một cá thể Goblin đột biến. Trái lại, chủng cấp cao của Goblin, như High Goblin, ngay từ khi sinh ra đã là loài quái vật đứng ở bậc cao hơn hẳn so với Goblin thông thường.
 
-Nằm dài trên giường, cậu đưa mắt nhìn trần nhà và bắt đầu suy tính.
+(Dù sao bản thân loài Orc cũng có hạng tương đối cao, nên có thể kỳ vọng vào việc học kỹ năng. Có điều, quả thật không nên để lộ sự đặc biệt của Set và Lưỡi Hái Tử Thần quá nhiều.)
 
-(Bobbs, người chỉ huy đội thảo phạt lần này, trông có vẻ là người đáng tin cậy. Vấn đề nằm ở Rìu Lôi Thần chăng... Không, đội trưởng Elk và vợ ông ta là Min không phải người xấu. Đáng ngại là cậu con trai Rhodes kia kìa.)
+Vốn dĩ hiện tại Rei đã quá nổi bật theo hướng chẳng mấy tốt đẹp bởi thực lực và trang bị của mình. Đã thế cậu lại còn phô bày sự tồn tại của Nhẫn Sương Mù trước mặt bao người, nên cứ đà này thì sớm muộn gì cũng không tránh khỏi việc bị những kẻ có mưu đồ xấu tiếp cận. Thực tế là ngay lúc cậu đưa Nhẫn Sương Mù ra trong phòng họp, đã có vài kẻ phóng ánh mắt sắc lẹm về phía cậu. Nếu giờ lại lộ thêm chuyện một con Griffin biết dùng Thủy Cầu và Hơi Thở Lửa, hay thanh Lưỡi Hái Tử Thần chỉ cần chạm vũ khí là làm ăn mòn trang bị của đối phương...
 
-Nghĩ tới nỗi ám ảnh cuồng mẹ của Rhodes, cậu khẽ thở dài.
+(Khoan đã. Thủy Cầu và Hơi Thở Lửa của Set thì không tài nào chống chế được, nhưng còn Ăn Mòn thì cứ khẳng định đó là ma pháp của mình biết đâu vẫn qua mắt được... chăng? Không, dù sao thì tốt nhất vẫn là hạn chế tối đa việc bị người khác phát hiện.)
 
 Kỹ năng Ăn Mòn của Lưỡi Hái Tử Thần dùng để làm gỉ sét trang bị kim loại của kẻ địch, tính ra có tác dụng với con người hơn là quái vật.
 
@@ -198,7 +198,7 @@ Cả Lenora và Kenny cũng lập tức nhận ra sự hiện diện của ngư�
 
 Bobbs liếc nhìn hai cô một cái, không nói gì thêm mà chuyển ánh mắt sang Rei.
 
-"Bên này, đi theo ta. Đồ tiếp tế chuẩn bị xong rồi."
+"Bên này, đi theo tôi. Đồ tiếp tế chuẩn bị xong rồi."
 
 Ông chỉ nói bấy nhiêu rồi bước ra khỏi quầy, đi về phía cửa sau của Hội.
 
@@ -210,7 +210,7 @@ Rei khẽ gật đầu trước những lời tiễn biệt của Lenora và Ken
 
 Nhân tiện, những ánh mắt soi mói từ phía quán rượu vốn không ngừng hướng về phía cậu trong lúc nói chuyện với nhóm Lenora, nay vừa thấy Bobbs xuất hiện liền lập tức dời đi.
 
-"Đây là số đồ tiếp tế ta muốn cậu vận chuyển."
+"Đây là số đồ tiếp tế tôi muốn cậu vận chuyển."
 
 Nghe lời Bobbs, Rei đưa mắt nhìn đống đồ tiếp tế chất như núi trước mặt.
 
@@ -228,12 +228,12 @@ Bobbs nhìn cảnh tượng đó với vẻ trầm trồ thán phục.
 
 Chưa đầy mười phút sau, toàn bộ đồ tiếp tế đã được thu dọn xong xuôi, rồi theo chỉ thị của Bobbs, cậu lặp lại việc lấy ra và cất vào Nhẫn Sương Mù một phần đồ tiếp tế vài lần.
 
-"Tốt, toàn bộ đồ tiếp tế ta giao cho cậu giữ. Thêm nữa, cậu là mạo hiểm giả độc hành nhỉ. Trong ủy thác lần này, ít nhất cho tới khi tới được bộ lạc Orc, cậu hãy đi chung với Rìu Lôi Thần. Chứ nếu trên đường tới bộ lạc Orc mà cậu mất mạng rồi không dùng được đồ tiếp tế thì đúng là trò cười đấy."
+"Tốt, toàn bộ đồ tiếp tế tôi giao cho cậu giữ. Thêm nữa, cậu là mạo hiểm giả độc hành nhỉ. Trong ủy thác lần này, ít nhất cho tới khi tới được bộ lạc Orc, cậu hãy đi chung với Rìu Lôi Thần. Chứ nếu trên đường tới bộ lạc Orc mà cậu mất mạng rồi không dùng được đồ tiếp tế thì đúng là trò cười đấy."
 
 "Tôi hiểu rồi."
 
-"Vậy giờ chắc các thành viên khác cũng đang tập trung trước cổng chính rồi. Ta còn có việc nên cậu cứ đi trước đi."
+"Vậy giờ chắc các thành viên khác cũng đang tập trung trước cổng chính rồi. Tôi còn có việc nên cậu cứ đi trước đi."
 
-Rei gật đầu trước lời của Bobbs rồi cất bước rời đi theo sau ông.
+Rei gật đầu trước lời của Bobbs rồi lên đường theo sau mọi người.
 
 (Cuối cùng cũng tới lúc đi săn Orc rồi. Không biết sẽ kiếm được những Ma Thạch thế nào đây. Lại còn có vẻ có kẻ đang nhắm vào mình nữa, xem ra chuyến này chẳng buồn chán nổi rồi.)

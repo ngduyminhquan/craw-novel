@@ -29,9 +29,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 22 |  | Chapter_0022 - オーク集落襲撃 - 第22話.txt | オーク集落襲撃 - 第22話 | reviewed |  |
 | 23 |  | Chapter_0023 - オーク集落襲撃 - 第23話.txt | オーク集落襲撃 - 第23話 | reviewed |  |
 | 24 |  | Chapter_0024 - オーク集落襲撃 - 第24話.txt | オーク集落襲撃 - 第24話 | reviewed |  |
-| 25 |  | Chapter_0025 - オーク集落襲撃 - 第25話.txt | オーク集落襲撃 - 第25話 | done |  |
-| 26 |  | Chapter_0026 - オーク集落襲撃 - 第26話.txt | オーク集落襲撃 - 第26話 | done |  |
-| 27 |  | Chapter_0027 - オーク集落襲撃 - 第27話.txt | オーク集落襲撃 - 第27話 | done |  |
+| 25 |  | Chapter_0025 - オーク集落襲撃 - 第25話.txt | オーク集落襲撃 - 第25話 | reviewed |  |
+| 26 |  | Chapter_0026 - オーク集落襲撃 - 第26話.txt | オーク集落襲撃 - 第26話 | reviewed |  |
+| 27 |  | Chapter_0027 - オーク集落襲撃 - 第27話.txt | オーク集落襲撃 - 第27話 | reviewed |  |
 | 28 |  | Chapter_0028 - オーク集落襲撃 - 第28話.txt | オーク集落襲撃 - 第28話 | todo |  |
 | 29 |  | Chapter_0029 - オーク集落襲撃 - 第29話.txt | オーク集落襲撃 - 第29話 | todo |  |
 | 30 |  | Chapter_0030 - オーク集落襲撃 - 第30話.txt | オーク集落襲撃 - 第30話 | todo |  |
