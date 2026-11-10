@@ -132,3 +132,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 竜騎士 |  | Kỵ Sĩ Rồng | chức nghiệp | 30 | Kỵ sĩ cưỡi Phi Long trong quân đội vương quốc |
 | 飛竜 |  | Phi Long | quái vật | 30 | Loài rồng bay được thuần dưỡng làm thú cưỡi cho Kỵ Sĩ Rồng |
 | 大空の死神 |  | Tử Thần Bầu Trời | danh hiệu | 28 | Biệt danh người đời gọi loài quái vật Hạng A Griffin |
+| 魔力発動体 |  | vật phát động ma lực | vật phẩm | 32 | Vật phẩm hoặc phương tiện dùng để dẫn truyền, thi triển ma lực (tương tự vật phát động ma pháp) |
