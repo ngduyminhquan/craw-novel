@@ -1,7 +1,7 @@
 """Soát bản dịch so với raw.
 
     python qa_check.py <slug> <range>
-    python qa_check.py <slug> <range> --side    # in từng cặp đoạn raw / bản dịch để tìm chỗ sót, gộp đoạn
+    python qa_check.py <slug> <range> --side [--full] [--paras A-B]   # từng cặp đoạn raw / bản dịch
 
 Kiểm tra: số đoạn lệch (dấu hiệu bỏ sót), số đoạn [ ], từ tiếng Anh sót lại, T/N còn sót,
 thuật ngữ/tên trong glossary + characters có xuất hiện ở raw mà bản dịch không dùng đúng bản dịch,
@@ -144,13 +144,15 @@ def check(novel, row):
     return errors, warns
 
 
-def side_by_side(novel, row, width=70):
-    """In từng cặp đoạn raw / bản dịch (đã lọc như khi đếm), để tìm chỗ bỏ sót hay gộp đoạn."""
+def side_by_side(novel, row, width=70, start=1, end=None):
+    """In từng cặp đoạn raw / bản dịch (đã lọc như khi đếm), để tìm chỗ bỏ sót hay gộp đoạn.
+    width=None: in nguyên văn không cắt. start/end: chỉ in khoảng đoạn đó (đánh số từ 1)."""
     raw_paras = raw_paragraphs(novel, row)
     vf = vi_file(novel, row["idx"])
     vi_paras = vi_paragraphs(read_text(vf)) if vf.exists() else []
     print(f"#{row['idx']}: raw {len(raw_paras)} đoạn, bản dịch {len(vi_paras)} đoạn")
-    for k in range(max(len(raw_paras), len(vi_paras))):
+    last = max(len(raw_paras), len(vi_paras))
+    for k in range(max(start, 1) - 1, min(end or last, last)):
         r = raw_paras[k][:width] if k < len(raw_paras) else "(hết)"
         v = vi_paras[k][:width] if k < len(vi_paras) else "(hết)"
         print(f"{k + 1:>4} RAW {r}\n     VI  {v}")
@@ -163,12 +165,16 @@ def main():
     ap.add_argument("range")
     ap.add_argument("--side", action="store_true",
                     help="in từng cặp đoạn raw / bản dịch theo số thứ tự, không chạy QA")
+    ap.add_argument("--full", action="store_true", help="với --side: in nguyên văn từng đoạn, không cắt")
+    ap.add_argument("--paras", help="với --side: chỉ in khoảng đoạn, vd 40-80")
     args = ap.parse_args()
     novel = load_novel(args.slug)
     rows = load_progress(novel)
     if args.side:
+        a, _, b = (args.paras or "").partition("-")
         for idx in parse_range(args.range):
-            side_by_side(novel, get_row(rows, idx))
+            side_by_side(novel, get_row(rows, idx), None if args.full else 70,
+                         int(a) if a else 1, int(b) if b else (int(a) if a else None))
         return
     total_err = 0
     for idx in parse_range(args.range):

@@ -114,8 +114,9 @@ def main():
     print(f"Bản dịch: {vi_file(novel, idx).as_posix()}")
     print(f"Độ dài: {size}, {len(paras)} đoạn (đã bỏ tiêu đề, phân cách, ảnh, T/N)")
     if layout(novel) >= 2:
-        print(f"Xem raw theo từng đoạn đánh số, cạnh bản dịch (đúng cách QA đếm): "
+        print(f"Raw theo từng đoạn đánh số, cạnh bản dịch (đúng cách QA đếm): "
               f"python .agents/skills/novel-translate/scripts/qa_check.py {args.slug} {idx} --side "
+              f"[--full: in nguyên văn không cắt] [--paras 40-80: chỉ một khoảng đoạn] "
               f"— không tự viết code đọc raw hay đếm đoạn.")
     raw_imgs = [l.strip() for l in read_text(raw).splitlines() if IMAGE_RE.match(l.strip())]
     if raw_imgs:
