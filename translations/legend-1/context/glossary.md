@@ -69,3 +69,9 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | テイマー |  | Thuần Thú Sư | chức nghiệp | 10 | Người thuần hóa và điều khiển ma thú hoặc quái vật |
 | 辺境伯 |  | Bá tước biên cảnh | danh hiệu | 10 | Tước vị quý tộc cai quản vùng đất biên giới (vùng Gilm) |
 | ランク |  | Hạng | cấp bậc | 10 | Cấp bậc mạo hiểm giả hoặc quái vật/ma thú (vd: Hạng A) |
+| ジャルム |  | Jarm | quái vật | 11 | Tên địa phương của Sóc Bay Lưỡi Dao (刃ムササビ) |
+| 魔の森 |  | Rừng Ma | địa danh | 11 | Khu rừng nguy hiểm nơi Rei và Set xuất hiện sau khi chuyển sinh |
+| ミレアーナ |  | Mireana | địa danh | 11 | Đại quốc ở đại lục trung tâm thế giới Elgin |
+| アイテムボックス |  | Hộp Vật Phẩm | vật phẩm | 11 | Chủng loại Đạo Cụ Ma Thuật có không gian chứa đồ riêng biệt (Item Box) |
+| 白金貨 |  | đồng bạch kim | vật phẩm | 11 | Đồng tiền bằng bạch kim trong hệ thống tiền tệ của Elgin, bằng 10 đồng vàng |
+| 光金貨 |  | đồng quang kim | vật phẩm | 11 | Đồng tiền có mệnh giá cao nhất trong hệ thống tiền tệ của Elgin, bằng 10 đồng bạch kim |

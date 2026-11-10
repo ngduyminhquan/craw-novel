@@ -4,7 +4,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| Rei | レイ; 佐伯玲二; 玲二 | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
+| Rei | レイ; 佐伯玲二; 玲二; Saeki Reiji | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
 | Set | セト | Set | Ma thú Griffin đồng hành cùng Rei | Chương 2 |
 | Zepairu | ゼパイル; ゼパイル・ゾンド | Zepairu | Đại ma thuật sư hệ Hỏa, truyền nhân cuối cùng của phái Ma Thú Thuật | Chương 1 |
 | Suzunose Takumu | タクム・スズノセ; タクム | Suzunose Takumu | Số thuật sư người Nhật trong môn phái của Zepairu (đã mất) | Chương 2 |
