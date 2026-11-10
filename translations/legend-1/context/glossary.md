@@ -75,3 +75,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | アイテムボックス |  | Hộp Vật Phẩm | vật phẩm | 11 | Chủng loại Đạo Cụ Ma Thuật có không gian chứa đồ riêng biệt (Item Box) |
 | 白金貨 |  | đồng bạch kim | vật phẩm | 11 | Đồng tiền bằng bạch kim trong hệ thống tiền tệ của Elgin, bằng 10 đồng vàng |
 | 光金貨 |  | đồng quang kim | vật phẩm | 11 | Đồng tiền có mệnh giá cao nhất trong hệ thống tiền tệ của Elgin, bằng 10 đồng bạch kim |
+| ゴブリン |  | Goblin | quái vật | 12 | Quái vật cấp thấp phổ biến |
+| エルフ |  | Elf | chủng tộc | 12 | Chủng tộc người tai nhọn |
+| 鷹の爪 |  | Móng Vuốt Chim Ưng | tổ chức | 12 | Tổ đội mạo hiểm giả Hạng D |
+| パーティランク |  | Hạng Tổ Đội | cấp bậc | 12 | Cấp bậc trung bình của một tổ đội |

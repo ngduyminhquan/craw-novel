@@ -38,3 +38,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ranga
 - Trung niên 30-40 tuổi để râu cằm, mặt bặm trợn nhưng tính cách và giọng điệu nhẹ nhàng, thân thiện; Đội trưởng đội cảnh vệ thành phố Gilm.
+
+### Vargas
+- Mạo hiểm giả thuộc tổ đội Móng Vuốt Chim Ưng (Hạng D), tính tình hung hăng, thô lỗ, dùng một cây rìu lớn.
+
+### Zolit
+- Mạo hiểm giả cùng nhóm với Vargas trong tổ đội Móng Vuốt Chim Ưng, hùa theo gây sự.

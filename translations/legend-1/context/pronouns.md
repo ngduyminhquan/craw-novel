@@ -39,3 +39,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Drum | tôi | anh | 15 | Lịch sự |
 | Drum | Rei | tôi | cậu | 15 | Lịch sự, hiền lành |
 | Rei | Suzunose Takumu | tôi | cậu | 6 | Rei nhắc tới Takumu như người đồng hương Nhật Bản đã khuất |
+| Zolit | Rei | tao | mày / thằng nhãi | 12 | Hống hách, kiếm chuyện |
+| Rei | Zolit | tao / tôi | mày / anh | 12 | Khi bị kiếm chuyện |
