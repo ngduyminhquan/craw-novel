@@ -79,3 +79,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | エルフ |  | Elf | chủng tộc | 12 | Chủng tộc người tai nhọn |
 | 鷹の爪 |  | Móng Vuốt Chim Ưng | tổ chức | 12 | Tổ đội mạo hiểm giả Hạng D |
 | パーティランク |  | Hạng Tổ Đội | cấp bậc | 12 | Cấp bậc trung bình của một tổ đội |
+| 魔眼 |  | Ma Nhãn | kỹ năng | 14 | Đôi mắt ma thuật có năng lực đặc biệt; Ma Nhãn của Runo có thể nhìn thấy ma lực |
+| ダンジョン |  | hầm ngục | địa danh | 14 | Khu vực sinh ra từ sự tích tụ ma lực và có quái vật trú ngụ |
+| ボスモンスター |  | quái vật trùm | quái vật | 14 | Quái vật chủ chốt làm chủ một hầm ngục |
+| ギルド |  | Hội | tổ chức | 14 | Cách gọi ngắn của Hội Mạo Hiểm Giả |
+| バトルアックス |  | rìu chiến | vật phẩm | 14 | Loại vũ khí rìu lớn dùng trong chiến đấu |

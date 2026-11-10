@@ -17,6 +17,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Lana | bà / cô | 15 | Bà chủ nhà trọ |
 | Drum | anh / cậu | 15 | Con trai bà chủ nhà trọ (khoảng 20 tuổi) |
 | Suzunose Takumu | anh ta | 2 | Số thuật sư người Nhật trong môn phái Zepairu |
+| Gran | người đàn ông / Gran | 14 | Cựu mạo hiểm giả phụ trách thăng hạng ở Hội |
 
 ## Giữa các nhân vật
 
@@ -41,3 +42,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Suzunose Takumu | tôi | cậu | 6 | Rei nhắc tới Takumu như người đồng hương Nhật Bản đã khuất |
 | Zolit | Rei | tao | mày / thằng nhãi | 12 | Hống hách, kiếm chuyện |
 | Rei | Zolit | tao / tôi | mày / anh | 12 | Khi bị kiếm chuyện |
+| Gran | Rei | tôi / ta | cậu | 14 | Cởi mở, lớn tuổi hơn |
+| Rei | Gran | tôi | ông / anh | 14 | Lịch sự |
+| Gran | Runo | tôi | Runo / chú mày | 14 | Quen biết ở Hội |
+| Runo | Gran | tôi | Gran / anh | 14 | Quen biết ở Hội |

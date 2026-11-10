@@ -18,6 +18,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Runo | ルーノ | Runo | Mạo hiểm giả trung niên từng lập tổ đội tạm với nhóm Vargas | Chương 14 |
 | Lana | ラナ | Lana | Bà chủ nhà trọ Hoàng Hôn Mạch Đình | Chương 15 |
 | Drum | ドラム | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
+| Gran | グラン | Gran | Nhân viên Hội Mạo Hiểm Giả Gilm | Chương 14 |
 
 ## Chi tiết
 
@@ -44,3 +45,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Zolit
 - Mạo hiểm giả cùng nhóm với Vargas trong tổ đội Móng Vuốt Chim Ưng, hùa theo gây sự.
+
+### Gran
+- Cựu mạo hiểm giả khoảng gần 40 tuổi, cao khoảng 1m90 vạm vỡ, có sẹo trên má, phụ trách việc thăng hạng.
+- Tính tình cởi mở, thực tế, tin vào mắt mình chứ không bảo thủ theo định kiến.
+
+### Runo
+- Mạo hiểm giả trung niên điềm đạm, tính tình hòa nhã, biết giữ khoảng cách và biết điều.
+- Kỹ năng: Sở hữu Ma Nhãn có khả năng nhìn thấy ma lực; có năng lực toàn diện nhưng đa năng không chuyên (kiếm sĩ biết chút ít ma pháp tấn công, ma pháp hồi phục và kỹ năng đạo tặc).
