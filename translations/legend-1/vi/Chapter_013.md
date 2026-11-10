@@ -128,7 +128,7 @@ Có lẽ vì quá khiếp sợ Rei đang từng bước áp sát, Zolit cuống 
 
 (Đến cả da thịt Gấu Nước còn bị đâm xuyên dễ dàng, tốt nhất tạm thời không nên dùng đòn đâm.)
 
-Dù đối phương kiếm chuyện, nhưng nếu vì thế mà giết người thì chẳng biết Hội sẽ giáng hình phạt nào. Do đó mục tiêu là đánh ngất toàn bộ. Tính vậy, Rei ngồi thụp xuống né đường kiếm chém ngang rồi luồn vào lòng Zolit, dùng khoảng ba phần mười lực giáng cán Lưỡi Hái Tử Thần vào mạng sườn ngay trước mắt coi như đáp lễ nhát chém vừa rồi.
+Dù đối phương kiếm chuyện, nhưng nếu vì thế mà giết người thì chẳng biết Hội sẽ giáng hình phạt nào. Do đó mục tiêu là đánh ngất toàn bộ. Tính vậy, Rei ngồi thụp xuống né đường kiếm chém ngang rồi luồn vào lòng Zolit, dùng khoảng ba phần mười lực giáng cán Lưỡi Hái Tử Thần vào mạn sườn ngay trước mắt coi như đáp lễ nhát chém vừa rồi.
 
 Cảm nhận xương sườn của Zolit gãy rắc truyền qua tay, Rei vẫn dửng dưng đánh bay thân hình cao hơn mình tới ba mươi phân sang một bên.
 
@@ -188,8 +188,8 @@ Một trong những năng lực của Lưỡi Hái Tử Thần là giảm trọn
 
 Trước lời khiêu khích nhẹ nhàng, Vargas dù chưa kịp lấy lại nhịp thở vẫn lao vào tấn công lần nữa. Có lẽ đây chính là lý do khiến gã dù có kỹ năng chiến đấu nhưng vẫn mãi dậm chân ở Hạng D.
 
-Kèm theo tiếng thét, cây rìu chiến sắp sửa giáng xuống. Thấy vậy, Rei nhảy xéo về phía trước, tức ngay sát sườn Vargas... kích hoạt Giày Sleipnir đạp vào không trung! Cậu vận dụng cú bật tam giác lao thẳng vào lòng Vargas... và trước khi cây rìu chiến kịp bổ xuống, cán Lưỡi Hái Tử Thần đã nện gần như cùng lúc vào ba vị trí: cánh tay cầm rìu, mạng sườn và khớp gối.
+Kèm theo tiếng thét, cây rìu chiến sắp sửa giáng xuống. Thấy vậy, Rei nhảy xéo về phía trước, tức ngay sát sườn Vargas... kích hoạt Giày Sleipnir đạp vào không trung! Cậu vận dụng cú bật tam giác lao thẳng vào lòng Vargas... và trước khi cây rìu chiến kịp bổ xuống, cán Lưỡi Hái Tử Thần đã nện gần như cùng lúc vào ba vị trí: cánh tay cầm rìu, mạn sườn và khớp gối.
 
-Khớp tay bị bẻ gãy khiến cây rìu chiến rơi bộp xuống đất, mạng sườn trúng đòn làm gãy xương sườn, còn khớp gối bị đập vỡ vụn khiến gã đổ gục xuống mặt đất.
+Khớp tay bị bẻ gãy khiến cây rìu chiến rơi bộp xuống đất, mạn sườn trúng đòn làm gãy xương sườn, còn khớp gối bị đập vỡ vụn khiến gã đổ gục xuống mặt đất.
 
 Chuỗi đòn tấn công đó diễn ra chỉ trong một cái chớp mắt, và Vargas đổ gục xuống đất rồi ngất lịm đi vì đau đớn.

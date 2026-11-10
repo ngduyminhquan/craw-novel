@@ -66,7 +66,7 @@ Thấy Set gật đầu, Rei không rút Dao Mithril bên hông... mà lấy ra 
 
 (Dù sao thì dùng Dao Mithril để mổ xẻ Goblin cũng hơi lãng phí. Đằng nào cũng đã cất công đoạt được, thôi thì cứ tận dụng con dao có dính bẩn hay trầy xước cũng chẳng sao này vậy.)
 
-Cắt phăng tai phải - bộ phận xác nhận thảo phạt của Goblin bằng dao, cậu rạch ngực moi ra viên Ma Thạch chỉ cỡ đầu móng tay út từ tim nó.
+Dùng dao cắt phăng tai phải, bộ phận xác nhận thảo phạt của Goblin, cậu rạch ngực moi ra viên Ma Thạch chỉ cỡ đầu móng tay út từ tim nó.
 
 (Không kể tới Gấu Nước, ngay cả khi tiêu diệt quái vật dạng người thế này mà trong lòng mình cũng chẳng hề dao động chút nào sao. Chuyện này hẳn cũng nhờ dung hợp với Zepairu, nhưng không phải ủ rũ dằn vặt kiểu "mình đã giết chóc..." cũng là điều may mắn. Với tình trạng này, dẫu có phải giết người thì e rằng mình cũng chỉ thấy hơi khó chịu một chút là cùng. Nơi này là Elgin chứ đâu phải Nhật Bản, nhập gia tùy tục thôi. Vả lại nếu cứ bài xích việc hạ sát con mồi thì ngay từ đầu đã chẳng nên làm mạo hiểm giả làm gì.)
 
@@ -154,7 +154,7 @@ Tuy nhiên, chỉ dồn hết tâm trí vào mỗi Rei vẫn là một sai lầm
 
 "Gié!?"
 
-Đối với Set, dẫu có là chủng hiếm đi chăng nữa thì rốt cuộc Goblin cũng chỉ là Goblin. Ngay cả khi xét theo Hạng của Hội Mạo Hiểm Giả thì giữa Hạng A và Hạng F đã là một khoảng cách thực lực một trời một vực. Dù là chủng hiếm có cấp bậc cao hơn Goblin thường một bậc thì chung quy cũng chỉ tương đương Hạng E, con Goblin đến chết vẫn chẳng thể hiểu được sự chênh lệch đẳng cấp sinh vật ấy đành để ngọn lửa sinh mệnh vụt tắt, với tiếng rắc chói tai khi xương cổ bị nghiền nát vụn.
+Đối với Set, dẫu có là chủng hiếm đi chăng nữa thì rốt cuộc Goblin cũng chỉ là Goblin. Ngay cả khi xét theo hạng của Hội Mạo Hiểm Giả thì giữa Hạng A và Hạng F đã là một khoảng cách thực lực một trời một vực. Dù là chủng hiếm có cấp bậc cao hơn Goblin thường một bậc thì chung quy cũng chỉ tương đương Hạng E, vậy mà đến chết con Goblin vẫn chẳng hiểu nổi sự chênh lệch đẳng cấp ấy. Ngọn lửa sinh mệnh của nó vụt tắt cùng tiếng rắc chói tai khi xương cổ bị nghiền nát.
 
 "Set, làm tốt lắm."
 

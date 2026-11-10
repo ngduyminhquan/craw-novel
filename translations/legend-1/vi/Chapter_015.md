@@ -4,9 +4,9 @@
 
 Lẩm bẩm một câu, Rei cùng Set dừng chân trên đường. Người qua lại đều dạt sang một bên để né hai người một thú, nhưng cậu chẳng mảy may bận tâm mà chỉ ngước nhìn lên tấm biển hiệu.
 
-Trên tấm biển vẽ mặt trời lặn dần nơi đường chân trời và những bông lúa mạch nhuộm sắc đỏ rực dưới ánh hoàng hôn. Có thể nói đó là tấm biển thể hiện đúng y như cái tên quán trọ: Hoàng Hôn Mạch Đình.
+Trên tấm biển vẽ mặt trời lặn dần nơi đường chân trời và những bông lúa mì nhuộm sắc đỏ rực dưới ánh hoàng hôn. Có thể nói đó là tấm biển thể hiện đúng y như cái tên quán trọ: Lúa Mì Hoàng Hôn.
 
-Bản thân quy mô quán trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei bắt gặp trên đường từ Hội tới đây. Kiến trúc khá phổ biến với tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt duy nhất có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng khu chuồng thú đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là nơi lui tới thường xuyên của các đoàn buôn hay lính đánh thuê có quy mô nhất định, hoặc đoàn tùy tùng của những quý tộc ghé qua thành phố này. Nói thêm thì với trường hợp cuối cùng, bản thân vị quý tộc đó thường sẽ nghỉ ở những nơi có giá vài đồng bạch kim một đêm.
+Bản thân quy mô quán trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei bắt gặp trên đường từ Hội tới đây. Kiến trúc khá phổ biến với tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt duy nhất có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng khu chuồng thú đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Lúa Mì Hoàng Hôn là nơi lui tới thường xuyên của các đoàn buôn hay lính đánh thuê có quy mô nhất định, hoặc đoàn tùy tùng của những quý tộc ghé qua thành phố này. Nói thêm thì với trường hợp cuối cùng, bản thân vị quý tộc đó thường sẽ nghỉ ở những nơi có giá vài đồng bạch kim một đêm.
 
 Đẩy cánh cửa kẽo kẹt mở ra, bên trong hầu như chẳng có bóng người do lúc này trời còn chưa quá nửa buổi chiều. Chỉ lác đác vài vị khách đang dùng bữa tại quán rượu tầng một.
 
@@ -46,7 +46,7 @@ Nghe người phụ nữ nói vậy, cậu liền rút một đồng bạc từ 
 
 "Tôi muốn ra chuồng cất đồ rồi quay lại ăn trưa, nhờ cô chuẩn bị giúp. Cả phần của Griffin nữa nhé."
 
-"Tôi hiểu rồi. ...Quên chưa giới thiệu, tôi là Lana, bà chủ của quán Hoàng Hôn Mạch Đình này."
+"Tôi hiểu rồi. ...Quên chưa giới thiệu, tôi là Lana, bà chủ của quán Lúa Mì Hoàng Hôn này."
 
 "Vậy sao, thời gian tới phiền cô giúp đỡ rồi. Tôi là Rei. Con Griffin ngoài kia tên là Set."
 
@@ -96,11 +96,11 @@ Drum thầm cảm thán, nhưng dĩ nhiên độ mềm mượt ấy là nét ri�
 
 Đi theo Drum rẽ vào con đường nhỏ cạnh lối vào quán trọ rồi cứ thế bước tiếp, chẳng mấy chốc khu chuồng thú đã hiện ra trước mắt.
 
-Quả không hổ là nơi đón tiếp các đoàn buôn hay lính đánh thuê, diện tích nơi này rộng gần bằng cả tầng một của Hoàng Hôn Mạch Đình.
+Quả không hổ là nơi đón tiếp các đoàn buôn hay lính đánh thuê, diện tích nơi này rộng gần bằng cả tầng một của Lúa Mì Hoàng Hôn.
 
 "Mời cậu vào."
 
-Bước theo Drum vào bên trong, dù có mùi đặc trưng của động vật và quái vật nhưng khu chuồng vẫn được giữ gìn sạch sẽ. Nơi đây cũng có vài con ngựa, chắc là của những vị khách đang trọ tại Hoàng Hôn Mạch Đình.
+Bước theo Drum vào bên trong, dù có mùi đặc trưng của động vật và quái vật nhưng khu chuồng vẫn được giữ gìn sạch sẽ. Nơi đây cũng có vài con ngựa, chắc là của những vị khách đang trọ tại Lúa Mì Hoàng Hôn.
 
 Tuy nhiên, vừa thoáng thấy bóng dáng Set, lũ ngựa hầu như đều trở nên bồn chồn, đảo mắt nhìn quanh quất rồi cựa quậy không yên.
 

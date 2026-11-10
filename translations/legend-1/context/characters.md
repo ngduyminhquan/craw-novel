@@ -16,7 +16,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Vargas | バルガス | Vargas | Mạo hiểm giả kiếm chuyện với Rei ở Hội | Chương 12 |
 | Zolit | ゾリト | Zolit | Mạo hiểm giả trong nhóm Vargas | Chương 12 |
 | Runo | ルーノ | Runo | Mạo hiểm giả trung niên từng lập tổ đội tạm với nhóm Vargas | Chương 14 |
-| Lana | ラナ | Lana | Bà chủ nhà trọ Hoàng Hôn Mạch Đình | Chương 15 |
+| Lana | ラナ | Lana | Bà chủ nhà trọ Lúa Mì Hoàng Hôn | Chương 15 |
 | Drum | ドラム | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
 | Gran | グラン | Gran | Nhân viên Hội Mạo Hiểm Giả Gilm | Chương 14 |
 
@@ -56,11 +56,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Lana
 - Vẻ ngoài, tính cách: Phụ nữ trung niên đẫy đà, nụ cười niềm nở dễ mến; can đảm và điềm tĩnh, quen giao tiếp với giới mạo hiểm giả và lính đánh thuê.
-- Vai trò, nghề nghiệp: Bà chủ quán trọ Hoàng Hôn Mạch Đình, mẹ của Drum; chu đáo, chú trọng chất lượng món ăn của quán.
+- Vai trò, nghề nghiệp: Bà chủ quán trọ Lúa Mì Hoàng Hôn, mẹ của Drum; chu đáo, chú trọng chất lượng món ăn của quán.
 
 ### Drum
 - Vẻ ngoài, tính cách: Thanh niên trạc 20 tuổi, mặt mũi thuần phác rất giống mẹ; hiền lành, yêu động vật, không hề sợ hãi trước Griffin mà rất thích vuốt ve lông của Set.
-- Vai trò: Con trai của Lana, phụ trách chăm sóc khu chuồng thú của quán trọ Hoàng Hôn Mạch Đình.
+- Vai trò: Con trai của Lana, phụ trách chăm sóc khu chuồng thú của quán trọ Lúa Mì Hoàng Hôn.
 
 ### Zepairu
 - Thân thế: Đại ma thuật sư sống cách đây hàng nghìn năm, được người đời xưng tụng là Ma Nhân; người đứng đầu môn phái sáng tạo Ma Thú Thuật và đã dung hợp linh hồn với Rei.

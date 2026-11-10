@@ -39,7 +39,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | オーク | | Orc | quái vật | 1 | Quái vật đầu lợn đi bằng hai chân |
 | ギルム | | Gilm | địa danh | 10 | Thành phố biên giới nơi Rei đăng ký làm mạo hiểm giả |
 | ギルドカード | 冒険者カード | Thẻ Hội | vật phẩm | 12 | Thẻ chứng nhận của mạo hiểm giả |
-| 夕暮れの小麦亭 | | Hoàng Hôn Mạch Đình | địa danh | 15 | Nhà trọ nơi Rei và Set trọ lại ở thành phố Gilm |
+| 夕暮れの小麦亭 |  | Lúa Mì Hoàng Hôn | địa danh | 15 | Nhà trọ nơi Rei và Set trọ lại ở thành phố Gilm |
 | 地術 |  | Địa Thuật | kỹ năng | 2 | Ma thuật hệ đất trong 12 hệ ma thuật của môn phái Zepairu |
 | 水術 |  | Thủy Thuật | kỹ năng | 2 | Ma thuật hệ nước trong 12 hệ ma thuật của môn phái Zepairu |
 | 風術 |  | Phong Thuật | kỹ năng | 2 | Ma thuật hệ gió trong 12 hệ ma thuật của môn phái Zepairu |

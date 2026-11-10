@@ -138,7 +138,7 @@ Vừa nhận lại Thẻ Hội vừa nghe người đàn ông tên Gran giải t
 
 Gran lên tiếng gợi ý chuyện lập tổ đội cùng Runo.
 
-Thật ra trong mắt Gran, Rei là một tân thủ đầy triển vọng... dù bảo là tân thủ thì tay nghề hơi quá mức thượng thừa — bình thường làm gì có ma mới nào lại đánh cho bốn mạo hiểm giả Hạng D tơi bời hoa lá như thế — tóm lại là ông rất kỳ vọng vào thực lực của cậu. Thế nhưng việc vừa đăng ký xong đã lập tức gây sự với một nhóm mạo hiểm giả Hạng D khiến ông thấy cậu nhóc này dường như có vấn đề về mặt quan hệ ứng xử. Bởi vậy ông mới tính rằng nếu ghép cậu với một người đa năng lại khéo léo trong giao tiếp như Runo thì mọi chuyện sẽ suôn sẻ hơn nhiều.
+Thật ra trong mắt Gran, Rei là một tân thủ đầy triển vọng... dù bảo là tân thủ thì tay nghề hơi quá mức thượng thừa, vì bình thường làm gì có ma mới nào đánh cho bốn mạo hiểm giả Hạng D tơi bời hoa lá như thế; tóm lại là ông rất kỳ vọng vào thực lực của cậu. Thế nhưng việc vừa đăng ký xong đã lập tức gây sự với một nhóm mạo hiểm giả Hạng D khiến ông thấy cậu nhóc này dường như có vấn đề về mặt quan hệ ứng xử. Bởi vậy ông mới tính rằng nếu ghép cậu với một người đa năng lại khéo léo trong giao tiếp như Runo thì mọi chuyện sẽ suôn sẻ hơn nhiều.
 
 "Tiếc quá. Tạm thời tôi định sẽ hành động một mình. Dù sao tôi cũng có bạn đồng hành rồi."
 
@@ -162,11 +162,11 @@ Runo hỏi lại với vẻ mặt không thể tin nổi, nhưng Rei chỉ cất
 
 "Vậy à. Tiếc thật đấy... mà này, cậu đã nhắm được nhà trọ nào chưa?"
 
-"Rồi. Một người bên đội cảnh vệ tên là Ranga đã chỉ cho tôi một quán trọ tên là Hoàng Hôn Mạch Đình. Nghe bảo nơi có cơ sở vật chất để chăm sóc cho Set cũng chỉ có mỗi chỗ đó thôi."
+"Rồi. Một người bên đội cảnh vệ tên là Ranga đã chỉ cho tôi một quán trọ tên là Lúa Mì Hoàng Hôn. Nghe bảo nơi có cơ sở vật chất để chăm sóc cho Set cũng chỉ có mỗi chỗ đó thôi."
 
-Gran gật gù trước lời giải thích của Rei. Bản thân Gran cũng chỉ biết mỗi Hoàng Hôn Mạch Đình là quán trọ có thể tiếp nhận chú Griffin kia, nên nếu Rei bảo chưa có chỗ thì ông cũng định giới thiệu nơi đó.
+Gran gật gù trước lời giải thích của Rei. Bản thân Gran cũng chỉ biết mỗi Lúa Mì Hoàng Hôn là quán trọ có thể tiếp nhận chú Griffin kia, nên nếu Rei bảo chưa có chỗ thì ông cũng định giới thiệu nơi đó.
 
-"Thế à. Đã biết trước rồi thì tiện quá. Ra khỏi Hội rồi cứ rẽ phải đi thẳng là sẽ thấy biển hiệu của Hoàng Hôn Mạch Đình. Biển có hình hoàng hôn với bông lúa mạch nên nhận ra ngay thôi."
+"Thế à. Đã biết trước rồi thì tiện quá. Ra khỏi Hội rồi cứ rẽ phải đi thẳng là sẽ thấy biển hiệu của Lúa Mì Hoàng Hôn. Biển có hình hoàng hôn với bông lúa mì nên nhận ra ngay thôi."
 
 "Vâng, cảm ơn ông."
 
@@ -176,7 +176,7 @@ Cảm ơn Gran xong, Rei liền rảo bước rời khỏi Hội. Nhìn theo bó
 
 Thấy Rei bước lại gần, Set đang nhắm mắt liền ngẩng đầu lên, sung sướng gừ nhẹ một tiếng trong cuống họng.
 
-"Để mày đợi lâu rồi. Nghe đâu chỗ trọ chỉ có mỗi cái quán tên là Hoàng Hôn Mạch Đình gì đấy thôi, chúng ta mau qua đó nào."
+"Để mày đợi lâu rồi. Nghe đâu chỗ trọ chỉ có mỗi cái quán tên là Lúa Mì Hoàng Hôn gì đấy thôi, chúng ta mau qua đó nào."
 
 Vừa vuốt ve tấm lưng phủ lớp lông mượt mà của Set, Rei vừa cất tiếng trò chuyện, nhưng...
 
@@ -184,4 +184,4 @@ Vừa vuốt ve tấm lưng phủ lớp lông mượt mà của Set, Rei vừa c
 
 Kể từ khi chào đời tới nay chưa từng rời xa Rei nửa bước, Set dụi đầu vào người cậu làm nũng.
 
-Rút cuộc sau cả chục phút chiều chuộng chú ma thú, cậu mới có thể xuất phát rời khỏi Hội.
+Rốt cuộc sau cả chục phút chiều chuộng chú ma thú, cậu mới có thể xuất phát rời khỏi Hội.

@@ -2,7 +2,7 @@
 
 Trên đại lộ của thành phố Gilm. Lúc này, khắp nơi đang chìm trong những tiếng xôn xao bàn tán.
 
-Mà thật ra, đại lộ vốn lúc nào cũng thế, chẳng có gì lạ. Điểm khác thường duy nhất là ở trung tâm của sự ồn ào ấy xuất hiện một chàng trai — hay đúng hơn phải gọi là một thiếu niên — cùng một chú Griffin.
+Mà thật ra, đại lộ vốn lúc nào cũng thế, chẳng có gì lạ. Điểm khác thường duy nhất là ở trung tâm của sự ồn ào ấy xuất hiện một chàng trai, hay đúng hơn là một thiếu niên, cùng một chú Griffin.
 
 "Gừưư."
 
@@ -116,7 +116,7 @@ Dù mạo hiểm giả có xảy ra xích mích với nhau do tranh chấp ủy 
 
 Rei cũng thuận thế kín đáo liếc mắt theo, và thấy bốn tên bên đó đang sốt ruột chực chờ cậu làm xong thủ tục đăng ký. Riêng kẻ ban đầu can ngăn bốn tên kia dường như muốn tỏ rõ mình chẳng liên quan gì đến bọn chúng nên đã dạt ra một góc xa, ngồi nhâm nhi rượu một mình.
 
-Bốn tên đó đang toan tính điều gì thì lời giải thích "không can thiệp vào xích mích" của cô tiếp tân đã nói lên tất cả. Lúc này, Rei vẫn chỉ là người bình thường chưa hoàn tất đăng ký vào Hội. Dù sao thì mạo hiểm giả mà dùng bạo lực với thường dân sẽ bị Hội xử phạt, nhưng nếu đối phương cũng là mạo hiểm giả — dù chỉ là người vừa mới đăng ký — thì chúng cho rằng sẽ chẳng có vấn đề gì.
+Bốn tên đó đang toan tính điều gì thì lời giải thích "không can thiệp vào xích mích" của cô tiếp tân đã nói lên tất cả. Lúc này, Rei vẫn chỉ là người bình thường chưa hoàn tất đăng ký vào Hội. Dù sao thì mạo hiểm giả mà dùng bạo lực với thường dân sẽ bị Hội xử phạt, nhưng nếu đối phương cũng là mạo hiểm giả, dù chỉ vừa mới đăng ký, thì chúng cho rằng sẽ chẳng có vấn đề gì.
 
 "Cậu có thắc mắc gì không ạ?"
 
@@ -146,7 +146,7 @@ Rei vừa cất tấm Thẻ Hội vào trong áo vừa hỏi cô tiếp tân.
 
 Trước câu đáp lại, Rei khẽ nhếch mép cười rồi cố tình cất cao giọng đủ để đám người đang gây sự lúc nãy nghe thấy rõ mồn một.
 
-"Từ nãy tới giờ có một lũ vụng về xấu xí chẳng có tài cán gì ngoài việc làm ầm ĩ cứ bám lấy tôi mà gây sự, không biết Hạng của đám sâu rượu đó ở Hội là bao nhiêu vậy?"
+"Từ nãy tới giờ có một lũ vụng về xấu xí chẳng có tài cán gì ngoài việc làm ầm ĩ cứ bám lấy tôi mà gây sự, không biết hạng của đám sâu rượu đó ở Hội là bao nhiêu vậy?"
 
 "Thằng nhãi ranh!"
 

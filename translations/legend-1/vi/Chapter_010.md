@@ -78,7 +78,7 @@ Khoảnh khắc ấy, trong đầu Rei chợt lóe lên ký ức về một bộ
 
 Cậu lần lượt áp từng tình cảnh hiện tại của mình vào đó.
 
-(Sống cùng sư phụ ở nơi hẻo lánh cách biệt nhân gian nên mù tịt sự đời... Được rồi, điểm này duyệt. Ma pháp, à không, ma thuật học từ vị sư phụ đó là Hỏa ma thuật và Triệu Hồi Thuật... nhưng lỡ bị bảo triệu hồi con khác ngoài Set thì phiền phức lắm, cứ nhận là Thuần Thú Sư đi. Theo tri thức của Zepairu thì dường như nghề Thuần Thú Sư quả thực có tồn tại. Rồi thì vị sư phụ ma thuật sau khi dạy xong những điều cơ bản đã dùng Không Gian Ma Thuật dịch chuyển mình đến một nơi xa lạ để rèn luyện, mình cùng cộng sự Set vừa săn quái vật vừa lang thang thì tình cờ tìm thấy làng mạc hay thành phố nào đó, đại loại thế.)
+(Sống cùng sư phụ ở nơi hẻo lánh cách biệt nhân gian nên mù tịt sự đời... Được rồi, điểm này duyệt. Ma pháp, à không, ma thuật học từ vị sư phụ đó là ma thuật hệ Hỏa và Triệu Hồi Thuật... nhưng lỡ bị bảo triệu hồi con khác ngoài Set thì phiền phức lắm, cứ nhận là Thuần Thú Sư đi. Theo tri thức của Zepairu thì dường như nghề Thuần Thú Sư quả thực có tồn tại. Rồi thì vị sư phụ ma thuật sau khi dạy xong những điều cơ bản đã dùng Không Gian Ma Thuật dịch chuyển mình đến một nơi xa lạ để rèn luyện, mình cùng cộng sự Set vừa săn quái vật vừa lang thang thì tình cờ tìm thấy làng mạc hay thành phố nào đó, đại loại thế.)
 
 Sau khi rà soát lại toàn bộ câu chuyện lai lịch tự dựng xem có kẽ hở nào không, cậu khẽ lẩm bẩm.
 
@@ -134,7 +134,7 @@ Dĩ nhiên chẳng dại gì ra tay trước, Rei lẳng lặng bước lại g�
 
 Đúng như Rei dự đoán, người đàn ông trung niên để râu cằm liền cất tiếng hỏi thăm.
 
-"Tôi là Ranga, đội trưởng đội cảnh vệ của thành phố Gilm. Cậu có việc cần vào thành phố này, tôi nghĩ vậy có đúng không?"
+"Tôi là Ranga, đội trưởng đội cảnh vệ của thành phố Gilm. Tôi đoán cậu muốn vào thành phố này, đúng không?"
 
 Trái ngược với vẻ ngoài dữ dằn bặm trợn, giọng nói thốt ra từ miệng ông lại nhẹ nhàng đến bất ngờ. Thoáng chút ngỡ ngàng trước sự tương phản ấy, Rei gật đầu.
 
@@ -150,7 +150,7 @@ Thầm thở dài trong lòng, cậu gật đầu trước lời đề nghị c�
 
 "Được rồi. Xem ra cứ ngoan ngoãn nghe theo lời ông là tốt nhất."
 
-"Ngại quá nhé. Chứ ai lại để một người dắt theo quái vật Hạng cao cỡ Griffin cứ thế đi thẳng vào, cấp trên mà biết là tôi ăn mắng ngay. Đã vậy tôi còn phải làm giấy tờ báo cáo lên Bá tước biên cảnh nữa."
+"Ngại quá nhé. Chứ ai lại để một người dắt theo quái vật hạng cao cỡ Griffin cứ thế đi thẳng vào, cấp trên mà biết là tôi ăn mắng ngay. Đã vậy tôi còn phải làm giấy tờ báo cáo lên Bá tước biên cảnh nữa."
 
 Ranga phân trần tình cảnh bằng cái giọng nhẹ tênh chẳng ăn nhập gì với khuôn mặt bặm trợn. Hóa ra cái giọng điệu thoải mái lúc mới chào hỏi ban nãy không phải do ông cố tình tỏ ra thân thiện để thăm dò Rei và Set, mà đơn thuần đó là bản tính tự nhiên của ông.
 
@@ -196,7 +196,7 @@ Người lính gật đầu với vẻ mặt đầy miễn cưỡng.
 
 (Mà cũng phải thôi, nghe bảo là quái vật Hạng A thì họ sợ cũng phải.)
 
-Tuy chẳng rõ các Hạng ở đây được quy định cụ thể ra sao, nhưng nhìn biểu cảm của toán lính gác là đủ đoán được Hạng A hẳn phải thuộc hàng vô cùng nguy hiểm.
+Tuy chẳng rõ các hạng ở đây được quy định cụ thể ra sao, nhưng nhìn biểu cảm của toán lính gác là đủ đoán được Hạng A hẳn phải thuộc hàng vô cùng nguy hiểm.
 
 Bật cười khổ trước thái độ của người lính, Rei cũng mở lời trấn an.
 

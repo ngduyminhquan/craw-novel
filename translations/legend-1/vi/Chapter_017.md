@@ -4,9 +4,9 @@ Ngày hôm sau chuyến đi thư viện. Chỉ một lúc sau khi hồi chuông 
 
 "Khác hẳn hôm kia nhỉ."
 
-Hôm kia khi cậu đến Hội, trước bảng dán ủy thác chỉ lác đác vài ba mạo hiểm giả, người ngồi uống rượu trong quán bar còn đông hơn.
+Hôm kia khi cậu đến Hội, trước bảng dán ủy thác chỉ lác đác vài ba mạo hiểm giả, người ngồi uống rượu ở khu quán rượu còn đông hơn.
 
-Nhưng lúc này, dù chưa đến mức chen chúc nghẹt thở, cũng có khá đông người đang đứng trước bảng, chăm chú đọc các nhiệm vụ phù hợp với Hạng của mình.
+Nhưng lúc này, dù chưa đến mức chen chúc nghẹt thở, cũng có khá đông người đang đứng trước bảng, chăm chú đọc các nhiệm vụ phù hợp với hạng của mình.
 
 Cảnh tượng này khiến Rei hơi bất ngờ, nhưng thực ra buổi sáng mới là lúc Hội Mạo Hiểm Giả nhộn nhịp nhất. Nghĩ kỹ thì cũng dễ hiểu: nhận ủy thác vào buổi sáng, hoàn thành trong ngày, rồi đến chiều tối quay về nhận thù lao. Đó là thời gian biểu tối ưu nhất để sinh hoạt trong thành phố.
 
@@ -38,7 +38,7 @@ Cậu lẩm bẩm một mình rồi bắt đầu đọc kỹ tờ ủy thác ti�
 
 Trên tờ ủy thác có ghi: tiêu diệt Goblin là ủy thác thường trực, bộ phận xác nhận thảo phạt là tai phải. Số lượng tối thiểu cần tiêu diệt là năm con. Mỗi chiếc tai phải đổi được ba đồng đồng.
 
-Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Hoàng Hôn Mạch Đình nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
+Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Lúa Mì Hoàng Hôn nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
 
 Ngoài chuyện thực lực ra, xét theo khía cạnh đó thì Rei cũng khác một trời một vực so với mạo hiểm giả thông thường.
 

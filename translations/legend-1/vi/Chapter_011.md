@@ -56,7 +56,7 @@ Ranga hỏi lại vẻ đầy khó hiểu. Khoảnh khắc ấy một lần nữ
 
 Nghe đến chữ 'mấy trăm năm', Rei khẽ nhíu mày một thoáng nhưng nhanh chóng lấy lại bình tĩnh rồi tiếp lời.
 
-"Nếu đúng thế thì sư phụ tôi đúng là mù tịt thế sự thật rồi. ...Mà thôi, ông ấy bảo tôi đi tu luyện rồi dùng Không Gian Ma Thuật... à không, theo cách gọi bây giờ thì là không gian ma pháp dịch chuyển tôi tới một nơi chẳng biết ở đâu, thành ra chuyện đó cũng chẳng có gì lạ."
+"Nếu đúng thế thì sư phụ tôi đúng là mù tịt thế sự thật rồi. ...Mà thôi, ông ấy bảo tôi đi tu luyện rồi dùng Không Gian Ma Thuật... à không, theo cách gọi bây giờ thì là Không Gian Ma Pháp, để dịch chuyển tôi tới một nơi chẳng biết ở đâu, thành ra chuyện đó cũng chẳng có gì lạ."
 
 "Tu luyện?"
 
@@ -80,7 +80,7 @@ Thấy vẻ mặt ấy, trong lòng Rei thoáng dâng lên dự cảm chẳng l�
 
 "Ở thành phố này cũng có vài mạo hiểm giả thuần hóa được quái vật. Thế nhưng làm gì có ai thuần hóa nổi một con quái vật Hạng A như Griffin chứ... Giỏi lắm cũng chỉ tới quái vật Hạng D là cùng, thành ra tôi đang không biết phải tính sao đây."
 
-Ranga nói vậy, nhưng đối với một người vốn chẳng hiểu biết gì về thường thức thế giới này như Rei thì cậu cũng chẳng rõ Hạng A với Hạng D cụ thể khác nhau thế nào. Dẫu cậu đoán được các Hạng này dựa trên sức chiến đấu hay mức độ nguy hiểm.
+Ranga nói vậy, nhưng đối với một người vốn chẳng hiểu biết gì về thường thức thế giới này như Rei thì cậu cũng chẳng rõ Hạng A với Hạng D cụ thể khác nhau thế nào. Dẫu cậu đoán được các hạng này dựa trên sức chiến đấu hay mức độ nguy hiểm.
 
 "Với lại, đổi chủ đề một chút, theo quy định thì muốn vào thành phố này cậu phải nộp thuế đấy."
 
@@ -88,7 +88,7 @@ Tại thế giới Elgin này, về cơ bản cứ 10 đồng đồng thì đổ
 
 Nếu giải thích theo cách dễ hiểu cho Rei thì 1 đồng đồng tương đương một trăm yên, 1 đồng bạc là một nghìn yên, 1 đồng vàng là mười nghìn yên, 1 đồng bạch kim là một trăm nghìn yên, còn 1 đồng quang kim vào khoảng một triệu yên.
 
-"Thế nên, những người không phải mạo hiểm giả — tức là khách lữ hành hay thương nhân chẳng hạn — thì mỗi lần vào thành phố đều phải nộp khoản thuế là 1 đồng bạc."
+"Thế nên, những người không phải mạo hiểm giả, như khách lữ hành hay thương nhân chẳng hạn, thì mỗi lần vào thành phố đều phải nộp khoản thuế là 1 đồng bạc."
 
 Chuyện mạo hiểm giả vào thành phố không mất thuế cũng rất dễ hiểu, bởi nếu thu thuế thì họ sẽ chẳng thèm chọn nơi đó làm cứ điểm hoạt động nữa. Nghĩ kỹ thì cũng phải, có những yêu cầu bắt buộc mạo hiểm giả phải liên tục ra vào thành phố, nếu lần nào cũng bị thu 1 đồng bạc thì ai mà chịu thấu. Vì vậy, các quý tộc cai quản thành phố chỉ miễn thuế vào cổng cho những ai thuộc Hội Mạo Hiểm Giả khi xuất trình Thẻ Hội. Họ nhận định rằng so với 1 đồng bạc tiền thuế, việc để các mạo hiểm giả nhận ủy thác làm việc sẽ đem lại nguồn lợi tức lớn hơn nhiều cho thành phố.
 
@@ -108,7 +108,7 @@ Vừa lẩm bẩm, Ranga vừa chăm chú nhìn Rei.
 
 Đứng ở cương vị của Ranga, ông không thể tùy tiện cho kẻ khả nghi bước vào thành phố. Thế nhưng người tên Rei trước mặt trông chẳng có vẻ gì là kẻ xấu. Đã vậy cậu ta còn điều khiển được quái vật Hạng A như Griffin, lại mang theo cây đại hái khổng lồ, thoạt nhìn đã biết là người có bản lĩnh phi thường. Vì thành phố Gilm nằm ở vùng biên cảnh nên các yêu cầu thảo phạt quái vật nhiều vô kể. Càng có nhiều mạo hiểm giả thực lực thì an ninh của thành phố càng được củng cố, do đó ông nghĩ tuyệt đối không thể bỏ lỡ một nhân tài như thế này.
 
-Nhân tiện, thành phố Gilm nơi Rei đang dừng chân nằm ở vùng biên cảnh thuộc Vương quốc Mireana — một đại quốc trên đại lục trung tâm của thế giới Elgin.
+Nhân tiện, thành phố Gilm nơi Rei đang dừng chân nằm ở vùng biên cảnh thuộc Vương quốc Mireana, một đại quốc trên đại lục trung tâm của thế giới Elgin.
 
 "Xem nào. Cậu có món đồ nào đem bán được không? Chúng tôi có thể mang vào mấy cửa tiệm trong thành bán hộ cậu."
 
@@ -126,7 +126,7 @@ Từ danh sách hiện lên trong tâm trí, cậu lấy ra khoảng 20 xác Só
 
 "Đ-Đây là... Cậu sở hữu Hộp Vật Phẩm sao!? Đã vậy đây chẳng phải là xác Jarm và tấm da Gấu Nước vốn làm tổ ở cửa Rừng Ma hay sao!"
 
-Ranga lộ rõ vẻ kinh ngạc tột độ trước xác Sóc Bay Lưỡi Dao — tên chính thức là Jarm — cùng tấm da con gấu nước — mà ở đây cũng gọi thẳng là Gấu Nước — bất thình lình được lôi ra từ khoảng không trống rỗng.
+Ranga lộ rõ vẻ kinh ngạc tột độ trước đống xác Sóc Bay Lưỡi Dao, tên chính thức là Jarm, cùng tấm da gấu nước, mà ở đây cũng gọi đúng là Gấu Nước, bất thình lình được lôi ra từ khoảng không trống rỗng.
 
 Lại nói, Rei hoàn toàn không hề hay biết rằng những Đạo Cụ Ma Thuật thuộc chủng loại được gọi là Hộp Vật Phẩm như Nhẫn Sương Mù vốn đã vô cùng hiếm hoi, mà loại có dung tích chứa đồ khổng lồ đến mức phi lý như Nhẫn Sương Mù thì trên khắp thế gian này số lượng còn tồn tại chỉ đếm trên đầu ngón tay.
 
@@ -140,7 +140,7 @@ Trong lòng Rei khẽ cười khổ khi thấy cái tên chính thức Gấu Nư
 
 "Rừng Ma?"
 
-"Phải. Đó là khu rừng bị coi là hiểm địa vì ngoài đám quái vật Hạng thấp ra thì nơi đó còn là hang ổ của vô số quái vật Hạng cao. Chẳng hiểu vì sao quái vật trong rừng rất hiếm khi mò ra ngoài, nên các mạo hiểm giả chẳng dại gì mà chủ động bén mảng tới. Thảng hoặc mới có người đến đó để săn nguyên liệu của một vài loài quái vật đặc thù. Cơ mà trận đầu ra quân mà đã hạ được Gấu Nước Hạng C thì thật khó tin đấy."
+"Phải. Đó là khu rừng bị coi là hiểm địa vì ngoài đám quái vật hạng thấp ra thì nơi đó còn là hang ổ của vô số quái vật hạng cao. Chẳng hiểu vì sao quái vật trong rừng rất hiếm khi mò ra ngoài, nên các mạo hiểm giả chẳng dại gì mà chủ động bén mảng tới. Thảng hoặc mới có người đến đó để săn nguyên liệu của một vài loài quái vật đặc thù. Cơ mà trận đầu ra quân mà đã hạ được Gấu Nước Hạng C thì thật khó tin đấy."
 
 "Mà thôi, ông cứ việc thoải mái tưởng tượng. Thế tấm da này với lũ Jarm gì đó có bán được không?"
 
@@ -174,7 +174,7 @@ Rei thầm tặc lưỡi trong bụng, nhưng nguyên nhân là do chính tay ng
 
 Cậu rút một đồng vàng từ trong túi ra đưa cho Ranga.
 
-"Vâng, đã nhận đủ tiền thuế của cậu. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật đã thuần hóa hay thú triệu hồi đi lại trong thành phố thì cậu nhớ đeo chiếc vòng cổ này ở vị trí dễ nhìn thấy nhé. Xin hãy lưu ý rằng nếu quái vật thuần hóa hay quái vật triệu hồi nổi điên gây thiệt hại thì người chủ sẽ phải chịu toàn bộ hình phạt. Hơn nữa, nếu dắt theo quái vật to lớn cỡ con Griffin kia thì tôi khuyên cậu nên đến quán trọ có tên Hoàng Hôn Mạch Đình ở phía đông thành phố. Nói đúng hơn thì chỉ có nơi đó mới đủ chỗ cho Griffin nghỉ ngơi thôi."
+"Vâng, đã nhận đủ tiền thuế của cậu. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật đã thuần hóa hay thú triệu hồi đi lại trong thành phố thì cậu nhớ đeo chiếc vòng cổ này ở vị trí dễ nhìn thấy nhé. Xin hãy lưu ý rằng nếu quái vật thuần hóa hay quái vật triệu hồi nổi điên gây thiệt hại thì người chủ sẽ phải chịu toàn bộ hình phạt. Hơn nữa, nếu dắt theo quái vật to lớn cỡ con Griffin kia thì tôi khuyên cậu nên đến quán trọ có tên Lúa Mì Hoàng Hôn ở phía đông thành phố. Nói đúng hơn thì chỉ có nơi đó mới đủ chỗ cho Griffin nghỉ ngơi thôi."
 
 "Tôi hiểu rồi. Tiện thể cho hỏi Hội Mạo Hiểm Giả ở đâu vậy?"
 
