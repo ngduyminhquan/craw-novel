@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T17:38:03Z",
+  "generatedAt": "2026-11-10T02:34:54Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2153,7 +2153,14 @@
     {
       "slug": "legend-1",
       "title": "Legend 1",
-      "chapters": []
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chương 1: Đột kích bộ lạc Orc (1)",
+          "path": "translations/legend-1/vi/Chapter_001.md",
+          "sha": "b9f4f0348f315cd5f8387a5f59733335408c6a0d"
+        }
+      ]
     },
     {
       "slug": "legend-2",
