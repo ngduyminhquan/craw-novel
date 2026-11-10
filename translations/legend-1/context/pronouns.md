@@ -76,3 +76,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Bobbs | Rei | tôi / ta | cậu | 25 | Giao việc và kiểm tra thực lực tân binh |
 | Rei | Kenny | tôi | cô | 26 | Giao tiếp bình thường, giữ khoảng cách |
 | Kenny | Rei | tôi / chị | cậu / cậu Rei | 26 | Tán tỉnh, trêu chọc tân binh |
+| Elk | Bobbs | tôi | anh / Bobbs | 27 | Hai mạo hiểm giả kỳ cựu trao đổi công việc thảo phạt |
