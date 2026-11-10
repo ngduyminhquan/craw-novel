@@ -156,7 +156,7 @@ Trước lời đề nghị của Bobbs, Rei ngẫm nghĩ vài giây rồi khẽ
 
 Rei đáp như vậy, nhưng lý do lớn nhất trong thâm tâm cậu là nếu đi cùng Rìu Lôi Thần thì cơ hội thu thập Ma Thạch sẽ giảm bớt, vả lại cậu cũng không muốn bị người khác nhìn thấy cảnh hấp thụ Ma Thạch.
 
-"Vậy sao? Mà thôi, cậu có Griffin bên cạnh nên tôi nghĩ chắc cũng ổn... nhưng tuyệt đối đừng chủ quan đấy. Về phần tôi, tôi cũng sẽ để mắt chừng chừng lũ Ngôi Sao Màn Đêm."
+"Vậy sao? Mà thôi, cậu có Griffin bên cạnh nên tôi nghĩ chắc cũng ổn... nhưng tuyệt đối đừng chủ quan đấy. Về phần tôi, tôi cũng sẽ để mắt canh chừng lũ Ngôi Sao Màn Đêm."
 
 Quả thực vì đây là ủy thác khẩn cấp nên quân số ít ỏi là sự thật hiển nhiên. Bobbs đành nhăn nhó mặt mày như vừa nuốt phải trái đắng rồi gật đầu.
 

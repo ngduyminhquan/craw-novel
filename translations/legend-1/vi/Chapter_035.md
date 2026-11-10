@@ -66,7 +66,7 @@ Nếu bỏ chạy ngay khoảnh khắc lấy khiên che mắt đối phương, m
 
 Ả hét lớn một tiếng, nhắm thẳng vào phần thân trên. Đầu là mục tiêu quá nhỏ, còn nếu nhắm vào cánh tay thì một đòn chẳng thể chặt đứt cả hai tay, khả năng cao sẽ bị cánh tay còn lại phản công. Vậy thì chỉ còn lại phần thân mình có thể gây sát thương chí mạng nếu thành công, hoặc đôi chân khiến cậu khó đuổi theo khi ả bỏ chạy. Và Ceryl đã chọn phần thân. Dù cũng có lý do nếu thuận lợi sẽ đâm thủng nội tạng, nhưng lý do lớn nhất vẫn là diện tích mục tiêu lớn. Ả nhận định với tốc độ di chuyển của Rei, nhắm vào chân khả năng cao sẽ bị cậu né được. Vậy nên nhắm vào phần thân nằm ở trung tâm cơ thể là nơi đối phương khó lòng né tránh nhất.
 
-Đòn tấn công dốc toàn lực tựa như chuột cùng ranh cắn mèo ấy quả thực được tung ra với tốc độ nằm ngoài dự liệu của Rei. Hơn nữa, phương thức tấn công lại là đòn đâm mà Ceryl thuần thục nhất.
+Đòn tấn công dốc toàn lực đúng kiểu chó cùng rứt giậu ấy quả thực được tung ra với tốc độ nằm ngoài dự liệu của Rei. Hơn nữa, phương thức tấn công lại là đòn đâm mà Ceryl thuần thục nhất.
 
 Vào lúc lưỡi hái chém đứt chiếc khiên, mũi kiếm đâm tới của Ceryl đã ở ngay sát sườn thân mình Rei...
 

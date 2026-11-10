@@ -40,7 +40,7 @@ Chớp lấy sơ hở trong tích tắc ấy, Al dồn gần như toàn bộ tr�
 
 Con Orc toan dùng thanh kiếm trên tay để đỡ đòn, song những mũi tên vướng víu khiến nó không kịp cản phá, để nhát chém khoét sâu vào thân mình.
 
-Đòn đánh kia chuẩn xác hơn là một cú nện đứt lìa thay vì chém ngọt; hứng trọn đòn nện xé toạc gần nửa thân người, con Orc ngã gục xuống mà chẳng kịp kêu lên một tiếng, vung vãi máu tươi cùng nội tạng ra khắp mặt đất.
+Nói cho đúng thì đó là một cú nện chứ chẳng phải nhát chém ngọt; hứng trọn đòn nện xé toạc gần nửa thân người, con Orc ngã gục xuống mà chẳng kịp kêu lên một tiếng, vung vãi máu tươi cùng nội tạng ra khắp mặt đất.
 
 "Hộc... hộc... hộc..."
 
@@ -72,7 +72,7 @@ Kết quả là vài con Orc bất chấp mệnh lệnh của chủng cấp cao 
 
 "Nhanh lên, thật là. Đụng độ mỗi lũ Orc mà đã chật vật thế kia hèn chi mãi vẫn chỉ là Hạng D."
 
-Ceryl kéo lê Al đang lảo đảo bước chân bước vào một căn lều Orc chưa bị bén lửa để ẩn náu. Snee bám sát phía sau, đảo mắt cảnh giới xung quanh. Nhờ vậy, ba người mới có được giây lát nghỉ ngơi hiếm hoi.
+Ceryl kéo Al đang lảo đảo vào một căn lều Orc chưa bị bén lửa để ẩn náu. Snee bám sát phía sau, đảo mắt cảnh giới xung quanh. Nhờ vậy, ba người mới có được giây lát nghỉ ngơi hiếm hoi.
 
 "Đúng là bực cả mình với lũ Orc phiền toái đó. Nếu chúng không ùa sang phía này đông như thế thì khéo giờ đã tóm được thằng nhóc tân binh kia rồi."
 

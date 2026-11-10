@@ -32,7 +32,7 @@ Chiến sĩ và đạo tặc khác nhau về thân thủ lẫn sức nặng tran
 
 (Bên trái, hả.)
 
-Chính diện là Ceryl. Dựa vào tiếng bước chân và tốc độ chạy, cậu đoán kẻ đang áp sát từ bên phải là Al, chiến sĩ mặc giáp nặng còn lại của Ngôi Sao Màn Đêm; vẫn nằm nguyên trên mặt đất, cậu siết chặt Lưỡi Hái Tử Thần trong tay.
+Chính diện là Ceryl. Dựa vào tiếng bước chân và tốc độ chạy, cậu đoán kẻ đang áp sát từ bên phải là Al, chiến sĩ mang trang bị nặng còn lại của Ngôi Sao Màn Đêm; vẫn nằm nguyên trên mặt đất, cậu siết chặt Lưỡi Hái Tử Thần trong tay.
 
 Tốc độ di chuyển giữa chiến sĩ và đạo tặc đương nhiên có sự chênh lệch, và kẻ đầu tiên tiếp cận vị trí của Rei là Murgas, tên đạo tặc mang trang bị nhẹ nhất trong nhóm Ngôi Sao Màn Đêm.
 
