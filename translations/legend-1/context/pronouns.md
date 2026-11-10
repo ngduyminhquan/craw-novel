@@ -92,3 +92,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ceryl | Murgas | chị / tao | Murgas / mày | 29 | Đàn chị ra lệnh cấp dưới |
 | Bobbs | Ceryl | tôi / ta | cô / Ceryl | 30 | Chỉ huy chiến dịch nói chuyện với trưởng nhóm Hạng C |
 | Ceryl | Bobbs | tôi | anh / Bobbs | 30 | Trưởng nhóm Hạng C trao đổi với chỉ huy chiến dịch |
+| Al | Rei | tao | mày | 34 | Khiêu chiến trong cuộc tập kích đoạt mạng |
+| Rei | Al | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |
+| Rei | Ceryl | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |

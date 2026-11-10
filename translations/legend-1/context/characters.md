@@ -112,12 +112,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
 - Khá gắn bó với Gilm, tính tình nhát gan và lo sợ trước sức mạnh của Griffin Set.
 - Vũ khí: Kiếm Bastard.
+- Trạng thái: Bị Rei dùng ma thuật Hỏa Tinh Loạn Vũ thiêu rụi thành tro ở chương 34.
 
 ### Snee
 - Nữ mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
 - Ban đầu tỏ vẻ khinh khỉnh nhưng hoảng sợ khi chứng kiến Griffin xé xác bầy Fang Wolf.
+- Trạng thái: Bị Rei dùng Lưỡi Hái Tử Thần chém xéo đôi thân mình tiêu diệt ở chương 34.
 
 ### Murgas
 - Nam mạo hiểm giả Hạng D, thành viên tổ đội Ngôi Sao Màn Đêm.
 - Tính tình nhát gan, tự nhận chân đánh xe ngựa để canh chừng Set từ xa nhằm kịp tẩu thoát.
 - Chức nghiệp: đạo tặc (盗賊, phụ trách trinh sát, dò/gỡ bẫy của tổ đội).
+- Trạng thái: Bị Rei chém đứt đôi người tiêu diệt ở chương 34 khi toan tập kích cướp Hộp Vật Phẩm.
