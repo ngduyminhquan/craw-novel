@@ -2,7 +2,7 @@ Chế độ orchestrator. Dùng skill `novel-translate`: đọc `.agents/skills/
 
 Repo: $root
 
-Việc: tóm tắt arc $arc ($label) của truyện `$slug` rồi viết lại story-so-far, theo mục F của skill.
+Việc: tóm tắt arc $arc ($label) của truyện `$slug` rồi viết lại story-so-far, theo `.agents/skills/novel-translate/docs/arc-summary.md` (đọc file này sau `SKILL.md`).
 - File arc: `$arc_file`
 - Các chương của arc: $range
 

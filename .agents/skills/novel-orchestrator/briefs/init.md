@@ -2,7 +2,7 @@ Chế độ orchestrator. Dùng skill `novel-translate`: đọc `.agents/skills/
 
 Repo: $root
 
-Việc: khởi tạo truyện `$slug` theo mục A của skill.
+Việc: khởi tạo truyện `$slug` theo `.agents/skills/novel-translate/docs/init.md` (đọc file này sau `SKILL.md`).
 - Raw: `$raw`
 - Tên truyện: `$title`
 - Lệnh bước 1: `python .agents/skills/novel-translate/scripts/init_novel.py --raw "$raw" --slug $slug --title "$title"`

@@ -2,7 +2,7 @@ Chế độ orchestrator. Dùng skill `novel-translate`: đọc `.agents/skills/
 
 Repo: $root
 
-Việc: sửa các chương $range của truyện `$slug` theo mục D của skill.
+Việc: sửa các chương $range của truyện `$slug` theo `.agents/skills/novel-translate/docs/fix.md` (đọc file này sau `SKILL.md`).
 - Báo cáo review: `$review_report`
 - File quyết định của orchestrator: `$decisions`. File này có quyền cao hơn báo cáo review: chỉ sửa mục được chấp nhận, sửa đúng cách ghi trong file. Mục bị bác thì không sửa dù báo cáo review có đề xuất.
 $decisions_text

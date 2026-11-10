@@ -2,7 +2,7 @@ Chế độ orchestrator. Dùng skill `novel-translate`: đọc `.agents/skills/
 
 Repo: $root
 
-Việc: dịch chương #$n ($title) của truyện `$slug`, làm đủ 5 bước của mục B. Lệnh bước 1: `python .agents/skills/novel-translate/scripts/prepare.py $slug $n`
+Việc: dịch chương #$n ($title) của truyện `$slug`, làm đủ 5 bước của mục B trong `SKILL.md`. Lệnh bước 1: `python .agents/skills/novel-translate/scripts/prepare.py $slug $n`
 
 Chỉ dịch chương #$n. Xong bước 5 thì dừng. Không chạy git.
 
