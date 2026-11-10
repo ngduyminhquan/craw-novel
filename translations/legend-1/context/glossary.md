@@ -58,5 +58,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ソート機能 |  | Tính Năng Sắp Xếp | hệ thống | 4 | Chức năng sắp xếp danh mục vật phẩm trong Nhẫn Sương Mù do Takumu cài đặt |
 | 舞い踊る炎蛇 |  | Vũ Điệu Hỏa Xà | kỹ năng | 5 | Ma thuật hệ Hỏa phóng ra rắn lửa từ vật phát động thiêu rụi mục tiêu từ bên trong |
 | ミスリル |  | Mithril | vật phẩm | 6 | Khoáng thạch quý hiếm có độ tương thích ma lực cao |
-| ミスリルのナイフ |  | Dao Mithril | vật phẩm | 6 | Dao làm từ quặng Mithril cao cấp trong Nhẫn Sương Mù, độ bén thay đổi theo lượng ma lực truyền vào |
+| ミスリルのナイフ | ミスリルナイフ | Dao Mithril | vật phẩm | 6 | Dao làm từ quặng Mithril cao cấp trong Nhẫn Sương Mù, độ bén thay đổi theo lượng ma lực truyền vào |
 | 水球 |  | Thủy Cầu | kỹ năng | 6 | Kỹ năng ma thuật hệ Thủy bắn ra quả cầu nước, Set học được sau khi hấp thụ Ma Thạch của Gấu Nước |
+| 魔力スポット |  | Điểm Tụ Ma Lực | khác | 7 | Khu vực có ma lực tích tụ đậm đặc tự nhiên |
+| 竜種 |  | loài rồng | chủng tộc | 7 | Các loài rồng nguy hiểm trên bầu trời khu rừng |
