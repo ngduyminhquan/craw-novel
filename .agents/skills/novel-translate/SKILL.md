@@ -96,11 +96,11 @@ Làm đủ 5 bước cho từng chương. Dịch nhiều chương thì làm **tu
 python .agents/skills/novel-translate/scripts/prepare.py <slug> [N]
 ```
 
-Bỏ `N` thì script lấy chương `todo` kế tiếp. Output gồm: đường dẫn raw và file bản dịch, góc nhìn ước lượng, nhân vật đã biết xuất hiện kèm xưng hô liên quan, thuật ngữ đã có và **chưa có** trong context, mạch truyện (`story-so-far`, tóm tắt 2 arc trước, tóm tắt các chương đã dịch của arc hiện tại).
+Bỏ `N` thì script lấy chương `todo` kế tiếp. Output gồm: đường dẫn raw và file bản dịch, góc nhìn ước lượng, nhân vật đã biết xuất hiện kèm mục chi tiết và xưng hô liên quan, thuật ngữ đã có và **chưa có** trong context, mạch truyện (`story-so-far`, tóm tắt 2 arc trước, tóm tắt các chương đã dịch của arc hiện tại).
 
 Sau đó:
 
-1. Đọc `rules.md`, `style.md` và `.agents/skills/novel-translate/natural-vietnamese.md`. Với mỗi nhân vật script liệt kê, `ctx.py <slug> show-char <tên>` để đọc mục chi tiết (tính cách, cách nói chuyện).
+1. Đọc `rules.md`, `style.md` và `.agents/skills/novel-translate/natural-vietnamese.md`. Đọc kỹ phần "Mục chi tiết nhân vật" script in ra (tính cách, cách nói chuyện, kỹ năng, trạng thái của các nhân vật xuất hiện): giọng thoại và cách miêu tả phải khớp với đó. Nhân vật không xuất hiện mà cần tra thì `ctx.py <slug> show-char <tên>`.
 2. Đọc toàn bộ raw của chương. Cần raw theo từng đoạn đánh số (để dịch đủ, đối chiếu số đoạn) thì dùng `qa_check.py <slug> N --side --full` (nguyên văn từng đoạn; thêm `--paras 40-80` để chỉ in một khoảng): chưa có bản dịch thì cột VI để trống, dịch xong chạy lại `--side` (bản rút gọn) để so từng cặp. Không tự viết code Python đọc raw hay đếm đoạn.
 3. **Thuật ngữ mới**: với mỗi mục script liệt kê là tên riêng/kỹ năng thật (bỏ qua từ thường bị bắt nhầm), chốt bản dịch theo `rules.md` và thêm vào context **trước khi dịch**: `ctx.py find` để kiểm tra đã có mục cùng nghĩa chưa, rồi `add-term` / `add-char` / `add-alias`. Cách viết khác của tên đã có thì thêm vào Alias của mục cũ, nhưng Alias chỉ ghi cách viết trong raw **dịch ra đúng chữ ở cột VI**; biệt danh, tên gọi tắt hay tước vị dịch thành chữ khác thì thêm **dòng riêng**, và không đưa từ đơn chung vào Alias vì QA sẽ báo sai ở mọi chương có từ đó. Mục nằm trong `## Đã loại` của glossary (lệnh sẽ báo) thì **không thêm lại**, cứ dịch tự nhiên theo ngữ cảnh.
 4. **Góc nhìn và xưng hô**: xác nhận góc nhìn của chương (có chương đổi sang góc nhìn nhân vật khác). Với mỗi cặp nhân vật có hội thoại mà chưa có xưng hô, quyết định dựa trên tuổi, địa vị, quan hệ, tính cách và ghi bằng `ctx.py add-pronoun` / `add-narrator`. Cần xem lịch sử xưng hô của một nhân vật thì `ctx.py pronouns <tên>`.

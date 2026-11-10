@@ -37,6 +37,21 @@ def characters_in(novel, text):
     return sorted(found, key=lambda x: -x[1])
 
 
+def detail_sections(novel, chars):
+    """Mục '### ...' trong phần Chi tiết của characters.md cho các nhân vật xuất hiện (khớp EN, VI hoặc Alias)."""
+    path = novel["context"] / "characters.md"
+    lines = read_text(path).splitlines() if path.exists() else []
+    out = []
+    for e, _ in chars:
+        names = {e["en"].lower(), e["vi"].lower(), *(a.lower() for a in e["aliases"])}
+        for i, line in enumerate(lines):
+            if line.startswith("### ") and line[4:].strip().lower() in names:
+                end = next((j for j in range(i + 1, len(lines)) if lines[j].startswith(("### ", "## "))), len(lines))
+                out.append("\n".join(lines[i:end]).rstrip())
+                break
+    return out
+
+
 def pronoun_rows(novel, names):
     names = {n.lower() for n in names}
     rows = []
@@ -133,6 +148,10 @@ def main():
         print(f"  {n:>3}× {e['en']} -> {e['vi'] or e['en']}  ({e['row'].get('vai trò', '')})")
     if not chars:
         print("  (chưa nhận ra nhân vật nào trong characters.md)")
+    if layout(novel) >= 2 and chars:
+        details = detail_sections(novel, chars)
+        print("\n## Mục chi tiết nhân vật (tính cách, cách nói chuyện, kỹ năng, trạng thái)")
+        print("\n\n".join(details) if details else "  (các nhân vật này chưa có mục chi tiết)")
     names = [e["en"] for e, _ in chars]
     nar = narrator_rows(novel, names)
     pr = pronoun_rows(novel, names)
