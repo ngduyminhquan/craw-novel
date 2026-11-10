@@ -1,8 +1,8 @@
 # Chương 7: Đột kích bộ lạc Orc (7)
 
-Dù thở dài trước trò đùa mang phong cách game quen thuộc của Takumu, nhưng vì tính hữu dụng của nó là không thể phủ nhận nên Rei vẫn đón nhận như mọi khi.
+Dù thở dài trước trò đùa mang phong cách game quen thuộc của Takumu, nhưng quả thực nó rất hữu dụng nên Rei vẫn đón nhận như mọi khi.
 
-Thấy Rei như vậy, Set liền dụi mặt vào người cậu như muốn hỏi "có chuyện gì thế?".
+Thấy Rei như vậy, Set liền dụi mặt vào người cậu như muốn hỏi có chuyện gì thế.
 
 "Không, không có gì đâu. Cơ mà Thủy Cầu là chiêu con Gấu Nước vừa dùng đúng không?"
 
@@ -30,13 +30,13 @@ So với đòn của Gấu Nước, tốc độ bay của Thủy Cầu rõ ràng
 
 "Gùuu."
 
-Set nghiêng đầu ngước nhìn Rei như muốn hỏi "thật không ạ?". Dáng vẻ ấy đáng yêu đến mức khó lòng tưởng tượng nổi đây lại là sinh vật kết hợp giữa đại bàng chúa tể bầu trời và sư tử chúa tể muôn loài.
+Set nghiêng đầu ngước nhìn Rei như muốn hỏi có thật vậy không. Dáng vẻ ấy đáng yêu đến mức khó lòng tưởng tượng nổi đây lại là sinh vật kết hợp giữa đại bàng chúa tể bầu trời và sư tử chúa tể muôn loài.
 
 "Thật mà. Vả lại Thủy Cầu đâu chỉ dùng để tấn công. Ít nhất là chừng nào còn ở bên mày, tao sẽ chẳng bao giờ phải lo thiếu nước uống nữa."
 
 "Gùuu!"
 
-Set kêu khẽ một tiếng như bảo "cứ để đấy cho em", tâm trạng lập tức vui vẻ trở lại. Nét đơn thuần này có lẽ là vì nó mới chào đời sang ngày thứ hai chăng.
+Set kêu một tiếng ngắn gọn như muốn bảo cứ để đấy cho nó, tâm trạng lập tức vui vẻ trở lại. Nét đơn thuần này có lẽ là vì nó mới chào đời sang ngày thứ hai chăng.
 
 "Dù sao thì việc xẻ thịt Gấu Nước cũng xong, hấp thụ Ma Thạch cũng xong, mà tác dụng của nó cũng đã kiểm tra rồi. Giờ chúng ta đổi chỗ thôi. Mùi máu của con Gấu Nước hẳn sẽ lại dẫn dụ những con quái vật khác kéo tới đây như lúc nãy cho xem."
 
@@ -92,7 +92,7 @@ Nghe tiếng thốt lên của Rei, Set lập tức phản ứng, nhưng thấy 
 
 Dù vậy, Rei vẫn không nén nổi tiếng tặc lưỡi. Bởi lũ sói trước mắt khác với Gấu Nước, chúng thực sự có trong tri thức của Zepairu, nhưng về mặt phân loại thì lại không phải là quái vật.
 
-Quái vật, ma thú hay ma vật. Dù có vô số cách gọi khác nhau, nhưng tất cả đều chỉ cùng một loại tồn tại. Đó là những sinh vật sở hữu trong tim một khối tinh thể được gọi là Ma Thạch. Nhân tiện, dẫu Ma Thạch thường nằm ở tim là phổ biến nhất, song cũng có những chủng tộc ngoại lệ không nằm theo quy luật đó.
+Quái vật, ma thú hay ma vật. Dù có nhiều cách gọi khác nhau, nhưng tất cả đều chỉ chung một loài. Đó là những sinh vật sở hữu trong tim một khối tinh thể được gọi là Ma Thạch. Nhân tiện, thông thường Ma Thạch đều nằm ở tim, song cũng có những chủng tộc ngoại lệ không như vậy.
 
 Những sinh vật mang Ma Thạch về cơ bản đều có tính công kích rất cao, hễ phát hiện chủng tộc khác là sẽ lập tức lao vào tấn công. Chính vì thế chúng mới được gọi là "ma" thú.
 
@@ -132,7 +132,7 @@ Bồi thêm vào đó là quả Thủy Cầu phóng ra từ phía Set. Dù uy l�
 
 "Còn lại ba con. Set, dọn dẹp sạch một lượt nào!"
 
-"Gùuu!"
+"Grrr!"
 
 Đáp lại lời Rei bằng tiếng gầm dứt khoát, một người một thú đồng thời lao vọt lên phía trước.
 
@@ -150,7 +150,7 @@ Con sói làm mục tiêu của Rei chồm lên nghênh chiến. Điểm nhắm 
 
 "Mơ đi!"
 
-Cậu tống thẳng con dao trên tay phải vào sâu trong khoang miệng đầy nanh vuốt đang ngoác rộng của nó!
+Cậu tống thẳng con dao trên tay phải vào sâu trong cái miệng đang nhe nanh ngoác rộng của nó!
 
 Do cấu tạo cơ thể của loài chó và sói, một khi bị dị vật cắm sâu vào cuống họng thì chúng không tài nào khép miệng lại được trước khi nôn thứ đó ra ngoài. Chính vì nắm rõ điểm này nên Rei mới tung ra đòn đánh hiểm hóc ấy. Hơn nữa, lưỡi Dao Mithril được bao bọc bởi lượng ma lực dồi dào của Rei lúc này sắc bén chẳng khác nào một danh đao hiếm có trên đời.
 
@@ -176,7 +176,7 @@ Khẽ vuốt ve Set đang gừ nhẹ trong cổ họng như một lời cảm ơ
 
 "Gùuu?"
 
-Thấy Set nghiêng đầu vẻ thắc mắc "sao vậy anh?", Rei vừa xoa thân mình nó vừa đáp.
+Thấy Set nghiêng đầu vẻ thắc mắc có chuyện gì, Rei vừa xoa thân mình nó vừa đáp.
 
 "Mới bước ra khỏi kết giới có vài tiếng đồng hồ mà chúng ta đã bị cả Gấu Nước lẫn bầy sói tấn công rồi đấy."
 
@@ -190,7 +190,7 @@ Rei vừa vuốt ve Set vừa suy tính phương án trong đầu. Vài phút sa
 
 "Gùuu!"
 
-Như muốn bảo "cứ tin ở em!", Set liền nằm rạp xuống đất, giục Rei leo lên lưng.
+Như muốn bảo cứ yên tâm giao cho nó, Set liền nằm rạp xuống đất, giục Rei leo lên lưng.
 
 "Cảm ơn mày nhé. Ra khỏi rừng tao sẽ cho mày ăn thịt Gấu Nước thỏa thích nên cố lên đấy. Nào, ăn quả này cho đỡ khát họng đã."
 
@@ -216,4 +216,4 @@ Ngồi trên lưng Set, Rei chỉ biết nở một nụ cười gượng gạo.
 
 "Gùuu?"
 
-Set gừ khẽ trong họng như muốn hỏi "gì cơ ạ?". Còn Rei thì gãi nhè nhẹ lên đầu nó như muốn bảo chẳng có gì đâu.
+Set gừ khẽ trong họng như muốn hỏi có chuyện gì. Còn Rei thì gãi nhè nhẹ lên đầu nó như muốn bảo chẳng có gì đâu.

@@ -31,3 +31,4 @@
 
 - (#1) Khiยัง là cầu sáng, Zepairu dùng lối nói cổ kính, trang trọng (`我` - `汝`: `ta` - `ngươi`).
 - (#3) Từ chương 3, Reiji chính thức lấy tên mới là `Rei` và đặt tên cho Griffin là `Set`.
+- (#7) Khi lời dẫn diễn giải ý nghĩa tiếng kêu hoặc cử chỉ của Set (raw dạng 「～とでも言うように」, không có ngoặc thoại 「...」), dịch theo lối gián tiếp không bọc ngoặc kép và không tự chêm xưng hô "em - anh" hay "ạ" (vd: "như muốn hỏi có chuyện gì", "như muốn bảo cứ để đó cho nó").

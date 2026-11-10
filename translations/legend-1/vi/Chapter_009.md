@@ -20,13 +20,13 @@ Chú Griffin khẽ gừ trong cổ họng như muốn bảo cậu đừng bận 
 
 Trong lòng Rei lúc này lại dấy lên một mối nghi hoặc. Đó là việc tri thức của Zepairu hoàn toàn không có bất kỳ thông tin nào về Gấu Nước hay Sóc Bay Lưỡi Dao.
 
-Dẫu biết khoảng thời gian đằng đẵng hàng trăm năm có thể khiến thông tin bị thiếu sót, nhưng việc hai loài quái vật sống ngay sát căn cứ điểm của phái mình đều không có chút ghi chép nào liệu có bình thường? Cậu vẫn tìm thấy thông tin về loài sói bình thường, chứng tỏ tri thức ấy không hẳn là hoàn toàn vô dụng. Quy mô khu rừng cũng tương tự. Theo ký ức của Zepairu, cánh rừng lẽ ra phải nhỏ hơn nhiều. Ít nhất nó không thể rộng đến mức cưỡi Set chạy thục mạng suốt hơn mười tiếng đồng hồ mới thoát ra ngoài được.
+Dẫu biết khoảng thời gian đằng đẵng hàng trăm năm có thể khiến thông tin bị thiếu sót, nhưng việc hai loài quái vật sống ngay quanh nơi ẩn cư của môn phái liên tiếp không có chút ghi chép nào liệu có bình thường chăng? Thông tin về loài sói vốn là dã thú vẫn có đầy đủ, chứng tỏ tri thức ấy không phải hoàn toàn không đáng tin. Quy mô khu rừng cũng tương tự. Theo ký ức của Zepairu, cánh rừng lẽ ra phải nhỏ hơn nhiều. Ít nhất nó không thể rộng đến mức cưỡi Set chạy thục mạng suốt hơn mười tiếng đồng hồ mới thoát ra ngoài được.
 
 "Gùuu?"
 
 "Ừ nhỉ, lo hão cũng chẳng giải quyết được gì. Cứ kiếm cái bỏ bụng trước đã rồi mai tính tiếp. Set, tha khúc cây đằng kia lại đây giúp tao nhé."
 
-Nhờ Set tha khúc cây đổ khá lớn ở đằng xa lại, Rei lấy phần thịt bắp tay của Gấu Nước từ trong Nhẫn Sương Mù ra.
+Nhờ Set tha khúc cây đổ khá lớn ở đằng xa lại, Rei lấy phần chi trước của Gấu Nước từ trong Nhẫn Sương Mù ra.
 
 Dù chỉ nhớ mang máng, nhưng cậu từng nghe người ta nói thịt bàn tay gấu rất ngon.
 
@@ -34,7 +34,7 @@ Cậu dùng Dao Mithril xắt nhỏ cánh tay phải của Gấu Nước ra thà
 
 "Gừưưư."
 
-Vừa xiên được chừng mười xâu thịt thì Set cũng dùng hai chân trước lăn khúc gỗ mục trở về.
+Vừa xiên được chừng mười xâu thịt thì Set cũng dùng hai chân trước lăn thân cây đổ trở về.
 
 Trầm trồ trước sức mạnh của chú Griffin, Rei vừa quan sát vừa lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù.
 
@@ -92,7 +92,7 @@ Cậu cứ thế làm vài bài tập ép dẻo từng học hồi cấp hai, c�
 
 "Được rồi, khởi động thế là đủ."
 
-Lẩm bẩm một câu, Rei với lấy Lưỡi Hái Tử Thần đang tựa vào vách đá, nắm chặt bằng cả hai tay rồi vào thế thủ.
+Lẩm bẩm một câu, Rei với lấy Lưỡi Hái Tử Thần đang tựa vào tảng đá, nắm chặt bằng cả hai tay rồi vào thế thủ.
 
 "Hà!"
 
@@ -110,7 +110,7 @@ Khoảng ba mươi phút trôi qua, từ chỗ còn vụng về và ỷ lại v�
 
 Lưỡi hái bổ xéo từ vai xuống vừa chạm sát mặt đất liền khựng lại, rồi xoay lưỡi hướng thẳng lên trên hất mạnh lên cao, tiếp nối bằng một đường quét ngang tàn khốc.
 
-Nếu chuỗi liên hoàn đòn ấy giáng vào một con người, kẻ đó trước tiên sẽ bị chém xéo qua ngực, kế tiếp bị cú hất ngược chặt đứt lìa cánh tay phải, và cuối cùng nhát quét ngang sẽ khiến đầu lìa khỏi cổ.
+Nếu chuỗi đòn liên hoàn ấy giáng vào một con người, kẻ đó trước tiên sẽ bị đại hái chém xéo qua ngực, kế tiếp bị cú hất ngược chặt đứt lìa cánh tay phải, và cuối cùng nhát quét ngang sẽ khiến đầu lìa khỏi cổ.
 
 Rei tiếp tục múa cây đại hái liên hồi, thi thoảng cậu còn kết hợp sử dụng phần cán hái như một ngọn thương hay thiết bổng giống lúc đối đầu với Gấu Nước, phô diễn những đòn thế biến ảo khôn lường và ngày càng thuần thục món vũ khí này hơn.
 
@@ -136,7 +136,7 @@ Cầm Lưỡi Hái Tử Thần quay lại bên đống lửa, Rei thấy Set đa
 
 Set khẽ gừ một tiếng ngắn như đón chào Rei quay lại.
 
-Khác hẳn loài Griffin thông thường, Set được sinh ra từ lượng ma lực ngút trời của Rei nên trí tuệ của nó sánh ngang, thậm chí còn vượt trội hơn cả con người. Việc nó hiểu trọn vẹn những lời Rei nói chính là minh chứng rõ ràng nhất. Ban nãy, dù bản tính vốn rất thích làm nũng, chú Griffin vẫn kiên nhẫn nằm ngoan một chỗ vì biết Rei đang kiểm tra các thông số cơ thể và tập luyện để làm chủ món vũ khí cồng kềnh khó dùng kia.
+Khác hẳn loài Griffin thông thường, Set được sinh ra từ lượng ma lực ngút trời của Rei nên trí tuệ của nó sánh ngang, thậm chí còn vượt trội hơn cả con người. Việc nó hiểu trọn vẹn những lời Rei nói chính là minh chứng rõ ràng nhất. Ban nãy, dù bản tính vốn rất thích làm nũng, chú Griffin vẫn kiên nhẫn kìm nén không quấy rầy vì biết Rei đang kiểm tra các thông số cơ thể và tập luyện để làm chủ món vũ khí cồng kềnh khó dùng kia.
 
 Chính vì vậy...
 
@@ -182,4 +182,4 @@ Thấy Set gừ khẽ trong họng như muốn hỏi có chuyện gì, Rei vừa
 
 "Gùuu!"
 
-Lắng nghe tiếng kêu đầy vẻ "Cứ để đó cho em!" của Set, Rei dần chìm sâu vào giấc ngủ giữa hơi ấm êm ái và lớp lông mượt mà như lụa của chú Griffin.
+Lắng nghe tiếng kêu như muốn bảo cứ để đó cho nó của Set, Rei dần chìm sâu vào giấc ngủ giữa hơi ấm êm ái và lớp lông mượt mà như lụa của chú Griffin.
