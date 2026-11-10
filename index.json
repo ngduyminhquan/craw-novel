@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T05:42:59Z",
+  "generatedAt": "2026-11-10T07:12:55Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2218,7 +2218,7 @@
           "number": 11,
           "title": "Chương 11: Đột kích bộ lạc Orc (11)",
           "path": "translations/legend-1/vi/Chapter_011.md",
-          "sha": "4b35ddb0d312ff50ba01cd26bf4d13636cb49379"
+          "sha": "03fc91d42f086953e30dbfec5be62a1e7860a805"
         },
         {
           "number": 12,
@@ -2236,31 +2236,37 @@
           "number": 14,
           "title": "Chương 14: Đột kích bộ lạc Orc (14)",
           "path": "translations/legend-1/vi/Chapter_014.md",
-          "sha": "96891d723453c835fcacdbc8ec376a414dd2e056"
+          "sha": "944c79663406416af9e74c0ab05b24b66ba09704"
         },
         {
           "number": 15,
           "title": "Chương 15: Đột kích bộ lạc Orc (15)",
           "path": "translations/legend-1/vi/Chapter_015.md",
-          "sha": "22b110b54b2ca555972adb0565297bbcefa39e77"
+          "sha": "1dc4a867c88cb7a150774a345e20f0bb0d24a169"
         },
         {
           "number": 16,
           "title": "Chương 16: Đột kích bộ lạc Orc (16)",
           "path": "translations/legend-1/vi/Chapter_016.md",
-          "sha": "640437655dd5f87b6868b6510003b8de94d61eac"
+          "sha": "65c21f3f4a3aa05e7853d2e81a31b4acb4a3ebc9"
         },
         {
           "number": 17,
           "title": "Chương 17: Đột kích bộ lạc Orc (17)",
           "path": "translations/legend-1/vi/Chapter_017.md",
-          "sha": "8b0ab9a3bf28fd68429bf046249a6313575ba3e3"
+          "sha": "64c556755e8d74602942d86e0e16aa7e40a8875a"
         },
         {
           "number": 18,
           "title": "Chương 18: Đột kích bộ lạc Orc (18)",
           "path": "translations/legend-1/vi/Chapter_018.md",
           "sha": "018ed21471592c971738e80d1630ef3144c1202c"
+        },
+        {
+          "number": 19,
+          "title": "Chương 19: Đột kích bộ lạc Orc (19)",
+          "path": "translations/legend-1/vi/Chapter_019.md",
+          "sha": "56b76682f0104ed2777c1d644754d540f9dc5cd0"
         }
       ]
     },

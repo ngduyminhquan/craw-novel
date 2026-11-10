@@ -104,3 +104,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ポーション |  | thuốc hồi phục | vật phẩm | 17 | Dược phẩm hồi phục thể lực, vết thương |
 | ファイアブレス |  | Hơi Thở Lửa | kỹ năng | 18 | Kỹ năng ma thuật hệ Hỏa Set học được sau khi nuốt Ma Thạch của Goblin chủng hiếm |
 | 炎球 |  | Hỏa Cầu | kỹ năng | 18 | Ma thuật hệ Hỏa tạo quả cầu lửa do Goblin chủng hiếm sử dụng, tương tự Thủy Cầu của Set |
+| 極炎壁 |  | Cực Diễm Bích | kỹ năng | 19 | Ma thuật hệ Hỏa tạo bức tường lửa khổng lồ bao vây và thiêu đốt mục tiêu |
