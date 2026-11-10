@@ -29,6 +29,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Al | chàng trai / gã thanh niên / Al | 28 | Thành viên Ngôi Sao Màn Đêm |
 | Snee | cô gái / Snee / ả | 28 | Nữ mạo hiểm giả Ngôi Sao Màn Đêm |
 | Murgas | gã / Murgas | 28 | Thành viên nhát gan của Ngôi Sao Màn Đêm |
+| Milein | cô / nữ kiếm sĩ / Milein | 36 |  |
+| Sulunin | Sulunin / người đàn ông / ma pháp sư | 36 |  |
+| Ekril | cô bé / thiếu nữ / Ekril | 36 |  |
 
 ## Giữa các nhân vật
 
@@ -96,3 +99,16 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Al | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |
 | Rei | Ceryl | tao | mày | 34 | Đáp trả kẻ thù tập kích đoạt mạng |
 | Ceryl | Rei | tao / tôi | mày / cậu | 35 | Đối đầu sống chết với Rei, khi dồn vào đường cùng xưng tao - mày; khi dụ dỗ van xin xưng tôi - cậu |
+| Milein | Rei | tôi | cậu / Rei | 36 | Trưởng nhóm Hạng C nói chuyện với mạo hiểm giả Rei |
+| Rei | Milein | tôi | cô / Milein | 36 | Giao tiếp sòng phẳng, dứt khoát |
+| Milein | Set | chị | bé Set / Set | 36 | Cưng nựng, vuốt ve Set |
+| Sulunin | Rei | tôi | cậu / cậu Rei | 36 | Lịch thiệp, cẩn trọng |
+| Rei | Sulunin | tôi | ông / anh | 36 | Đáp lại lịch sự |
+| Ekril | Rei | em / tôi | cậu / Rei | 36 | Thiếu nữ trạc tuổi, nói chuyện tự nhiên |
+| Rei | Ekril | tôi | cô / cô bé | 36 | Nói chuyện bình thường |
+| Milein | Sulunin | tôi | Sulunin | 36 | Đồng đội cùng nhóm |
+| Sulunin | Milein | tôi | Milein / đội trưởng | 36 | Túi khôn nói với đội trưởng |
+| Milein | Ekril | chị | Ekril / em | 36 | Đàn chị với em út |
+| Ekril | Milein | em | chị Milein / chị | 36 | Em út với đàn chị |
+| Sulunin | Ekril | tôi | Ekril / em | 36 | Người lớn tuổi với em út |
+| Ekril | Sulunin | em | Sulunin / chú Sulunin | 36 | Em út với ma pháp sư lớn tuổi |

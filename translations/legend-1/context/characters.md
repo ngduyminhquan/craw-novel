@@ -28,6 +28,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Al | アル | Al | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
 | Snee | スニィ | Snee | Mạo hiểm giả Hạng D của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
 | Murgas | ムルガス | Murgas | Mạo hiểm giả Hạng D (đạo tặc) của tổ đội Ngôi Sao Màn Đêm | Chương 28 |
+| Milein | ミレイヌ; Mireinu | Milein | Trưởng nhóm kiêm nữ kiếm sĩ của tổ đội Cơn Gió Rực Lửa (Hạng C) | Chương 36 |
+| Sulunin | スルニン | Sulunin | Ma pháp sư của tổ đội Cơn Gió Rực Lửa (Hạng C), túi khôn của nhóm | Chương 36 |
+| Ekril | エクリル; Ecryll | Ekril | Cung thủ của tổ đội Cơn Gió Rực Lửa (Hạng D) | Chương 36 |
 
 ## Chi tiết
 
@@ -36,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 35: Tham gia tập kích đêm bộ lạc Orc; cùng Set hạ 6 Orc Archer, 1 Orc Mage, 1 Orc General; một mình quét sạch toàn bộ tổ đội phản trắc Ngôi Sao Màn Đêm (Murgas, Snee, Al, Ceryl); tiếp tục cùng Set bay lượn hỗ trợ chiến dịch.
+- Trạng thái tính đến chương 36: Cùng tổ đội Cơn Gió Rực Lửa chặn đường tháo chạy của toán Orc do Orc King (Hạng B) chỉ huy ở mạn tây; ra điều kiện dùng Ma Pháp Thệ Ước để đổi lấy việc xuất át chủ bài hỗ trợ.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -125,3 +128,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính tình nhát gan, tự nhận chân đánh xe ngựa để canh chừng Set từ xa nhằm kịp tẩu thoát.
 - Chức nghiệp: đạo tặc (盗賊, phụ trách trinh sát, dò/gỡ bẫy của tổ đội).
 - Trạng thái: Bị Rei chém đứt đôi người tiêu diệt ở chương 34 khi toan tập kích cướp Hộp Vật Phẩm.
+
+### Milein
+- Nữ kiếm sĩ khoảng 25 tuổi, tóc ngắn gọn gàng, mặc giáp da nhẹ, tính tình bộc trực, phóng khoáng, rất mê Set
+
+### Sulunin
+- Khoảng 40 tuổi, mặc áo choàng pháp sư mang gậy phép, tính tình điềm tĩnh, cẩn trọng, ăn nói lịch thiệp
+
+### Ekril
+- Thiếu nữ khoảng 16-17 tuổi, tóc ngắn, mặc giáp da nhẹ dùng cung tên, tính cách hoạt bát, dễ hoảng sợ khi gặp đối thủ quá mạnh

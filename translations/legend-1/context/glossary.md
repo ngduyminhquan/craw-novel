@@ -135,3 +135,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔力発動体 |  | vật phát động ma lực | vật phẩm | 32 | Vật phẩm hoặc phương tiện dùng để dẫn truyền, thi triển ma lực (tương tự vật phát động ma pháp) |
 | バスタードソード |  | Kiếm Bastard | vật phẩm | 33 | Loại kiếm lai một tay rưỡi (bastard sword), vũ khí của Al |
 | 火精乱舞 |  | Hỏa Tinh Loạn Vũ | kỹ năng | 34 | Ma thuật hệ Hỏa tạo mái vòm đỏ giam cầm mục tiêu, sinh ra vô số thằn lằn lửa phát nổ liên hoàn |
+| 灼熱の風 | Scorching Wind | Cơn Gió Rực Lửa | tổ chức | 36 | Tổ đội mạo hiểm giả Hạng C gồm Milein (trưởng nhóm), Sulunin và Ekril |
+| オークキング | Orc King | Orc King | quái vật | 36 | Quái vật Hạng B, thủ lĩnh tối cao của bầy Orc |
+| トレント | Treant | Treant | quái vật | 36 | Quái vật dạng cây cổ thụ |
+| アルラウネクイーン | Alraune Queen | Alraune Queen | quái vật | 36 | Quái vật dạng thực vật nhân dạng hoa cấp cao |
+| 誓約の魔法 | ma pháp thệ ước | Ma Pháp Thệ Ước | kỹ năng | 36 | Ma pháp ràng buộc lời thề/bí mật (vỏ bọc của ma thuật Hạt Giống Trừng Phạt của Zepairu) |

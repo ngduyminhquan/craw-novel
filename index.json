@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T10:07:02Z",
+  "generatedAt": "2026-11-10T10:16:03Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2363,6 +2363,12 @@
           "title": "Chương 35: Đột kích bộ lạc Orc (35)",
           "path": "translations/legend-1/vi/Chapter_035.md",
           "sha": "5952fa718edbaf329bd4da05fe2551fbfea1e110"
+        },
+        {
+          "number": 36,
+          "title": "Chương 36: Đột kích bộ lạc Orc (36)",
+          "path": "translations/legend-1/vi/Chapter_036.md",
+          "sha": "1440cef27101a4134ef3969df7ac86a27cf513e4"
         }
       ]
     },
