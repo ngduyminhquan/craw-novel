@@ -38,7 +38,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ウォーターベア | 水熊 | Gấu Nước | quái vật | 5 | Quái vật gấu bao phủ nước có khả năng tự hồi phục |
 | オーク | | Orc | quái vật | 1 | Quái vật đầu lợn đi bằng hai chân |
 | ギルム | | Gilm | địa danh | 10 | Thành phố biên giới nơi Rei đăng ký làm mạo hiểm giả |
-| ギルドカード | | Thẻ Hội | vật phẩm | 12 | Thẻ chứng nhận của mạo hiểm giả |
+| ギルドカード | 冒険者カード | Thẻ Hội | vật phẩm | 12 | Thẻ chứng nhận của mạo hiểm giả |
 | 夕暮れの小麦亭 | | Hoàng Hôn Mạch Đình | địa danh | 15 | Nhà trọ nơi Rei và Set trọ lại ở thành phố Gilm |
 | 地術 |  | Địa Thuật | kỹ năng | 2 | Ma thuật hệ đất trong 12 hệ ma thuật của môn phái Zepairu |
 | 水術 |  | Thủy Thuật | kỹ năng | 2 | Ma thuật hệ nước trong 12 hệ ma thuật của môn phái Zepairu |
@@ -93,3 +93,12 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔人 |  | Ma Nhân | danh hiệu | 16 | Danh xưng người đạt đến cảnh giới tột cùng của ma thuật, có sức mạnh hủy diệt cả quốc gia |
 | 従魔の首飾り |  | Vòng Cổ Tùng Ma | vật phẩm | 16 | Vòng cổ chứng nhận quái vật thuần hóa hoặc quái vật triệu hồi được phép đi lại trong thành phố |
 | 魔物の解体　初心者編 | 魔物の解体初心者編; 魔物の解体 初心者編 | Mổ Xẻ Quái Vật: Nhập Môn | vật phẩm | 16 | Sách hướng dẫn mổ xẻ quái vật cho người mới bắt đầu |
+| スライム |  | Slime | quái vật | 17 | Quái vật dạng chất nhờn cấp thấp |
+| ポイズントード |  | Poison Toad | quái vật | 17 | Quái vật cóc độc |
+| 魔核 |  | Ma Hạch | vật phẩm | 17 | Hạch ma thuật của quái vật như Slime |
+| 鬼族 |  | Quỷ tộc | chủng tộc | 17 | Chủng tộc quỷ, bao gồm Goblin |
+| 希少種 |  | chủng hiếm | khác | 17 | Cá thể đột biến có năng lực vượt trội hơn đồng loại, hạng quái vật tăng 1 bậc |
+| 一角ウサギ |  | Thỏ Một Sừng | quái vật | 17 | Động vật hoang dã có sừng trên trán, thịt ăn được |
+| 常時依頼 |  | ủy thác thường trực | hệ thống | 17 | Loại ủy thác của Hội mạo hiểm giả luôn có sẵn, không giới hạn người nhận |
+| 討伐証明部位 |  | bộ phận xác nhận thảo phạt | khác | 17 | Bộ phận nộp cho Hội để chứng minh đã tiêu diệt quái vật (như tai phải của Goblin) |
+| ポーション |  | thuốc hồi phục | vật phẩm | 17 | Dược phẩm hồi phục thể lực, vết thương |
