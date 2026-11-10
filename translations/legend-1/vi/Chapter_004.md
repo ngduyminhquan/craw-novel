@@ -12,7 +12,7 @@ Thấy vậy, Rei khẽ lắc đầu ý bảo không có gì rồi bất giác �
 
 "Đặc tính ma thuật của mình chỉ có mỗi Hỏa thôi á? Chẳng lẽ... là do dung hợp với Zepairu, một ma thuật sư hệ Hỏa sao?"
 
-Miệng lẩm bẩm vậy nhưng trong lòng Rei thừa hiểu không phải thế. Theo tri thức của Zepairu, đúng là ông từng tự xưng mình là Hỏa Thuật Sư. Thế nhưng ông gọi vậy chỉ vì bản thân giỏi nhất là ma thuật hệ Hỏa, chứ đâu có nghĩa là không dùng được các hệ ma thuật khác. Dĩ nhiên ông không tinh thông mọi loại ma thuật, song ma thuật hệ phong, Thời Không Ma Thuật, Giả Kim Thuật, Triệu Hồi Thuật cùng Cổ Đại Ma Thuật thì ông đều từng thi triển.
+Miệng lẩm bẩm vậy nhưng trong lòng Rei thừa hiểu không phải thế. Theo tri thức của Zepairu, đúng là ông từng tự xưng mình là Hỏa Thuật Sư. Thế nhưng ông gọi vậy chỉ vì bản thân giỏi nhất là ma thuật hệ Hỏa, chứ đâu có nghĩa là không dùng được các hệ ma thuật khác. Dĩ nhiên ông không tinh thông mọi loại ma thuật, song ma thuật hệ Phong, Thời Không Ma Thuật, Giả Kim Thuật, Triệu Hồi Thuật cùng Cổ Đại Ma Thuật thì ông đều từng thi triển.
 
 "Nghĩa là, năng khiếu của mình thuần túy chỉ chuyên biệt về ma thuật hệ Hỏa thôi... sao?"
 
@@ -34,7 +34,7 @@ Dù nói là còn mười ngày lương thực, nhưng đó là chỉ tính riê
 
 "Ừ, Set cứ đứng đó nhìn nhé. Tao tập dùng ma thuật chút thôi."
 
-Trả lời Set khi chú Griffin gầm gừ trong cổ họng gặng hỏi lúc thấy cậu quay lại chỗ vẽ ma pháp trận, Rei dừng bước ở một khoảng cách an toàn so với trận pháp.
+Thấy cậu quay lại chỗ vẽ ma pháp trận, Set gầm gừ trong cổ họng như muốn hỏi; Rei đáp lời nó rồi dừng bước ở một khoảng cách an toàn so với trận pháp.
 
 Tuy tri thức mách bảo rằng ma pháp trận vẽ trên sàn sẽ không phản ứng với bất kỳ thứ gì ngoài Ma Thú Thuật, nhưng cẩn tắc vô ưu vẫn hơn.
 
@@ -52,7 +52,7 @@ Quy luật của thế giới dần được viết lại theo từng câu thầ
 
 Thần chú giúp định hình hình ảnh trong tâm trí, và một ngọn lửa cỡ nắm tay lập tức bùng lên nơi đầu ngón trỏ tay phải của Rei.
 
-"...Tốt rồi. Phép thuật đầu tiên trong đời, thành công mỹ mãn."
+"...Tốt rồi. Ma thuật đầu tiên trong đời, thành công mỹ mãn."
 
 Nói cho chính xác thì Ma Thú Thuật mới là ma thuật đầu tiên Rei từng thi triển, nhưng đó là thứ ma thuật diễn ra gần như tự động: chỉ cần niệm câu chú quy định trên ma pháp trận vẽ dưới sàn, trận pháp sẽ tự hấp thụ ma lực của người thi triển để tạo ra ma thú. Còn nếu xét theo nghĩa tự mình thực hiện từ đầu đến cuối bằng ý chí bản thân, ngọn lửa vừa rồi đích thực là ma thuật đầu đời do chính tay cậu tạo nên.
 
@@ -194,6 +194,6 @@ Set gật đầu cái rụp, ra vẻ đói meo. Nhìn vậy, Rei mới sực nh�
 
 "Gùuu."
 
-Cùng Set gật đầu đồng tình, Rei rời khỏi phòng nghiên cứu để tiến về phía nhà ăn.
+Set gật đầu đồng tình, rồi cùng Rei rời khỏi phòng nghiên cứu để tiến về phía nhà ăn.
 
 Nhân tiện, dẫu Set sở hữu cơ thể đồ sộ dài đến hai mét, nhưng nhờ dinh thự này vốn được thiết kế dành riêng cho người sử dụng Ma Thú Thuật nên nó vẫn chui qua cửa phòng nghiên cứu một cách dễ dàng. Sau đó, họ ngâm mềm mẩu bánh mì đen nhạt thếch còn sót lại trong gian bếp nhà ăn với nước rồi lót dạ; kết thúc bữa tối đạm bạc, phần vì thấm mệt nên cả Set và Rei đều nhanh chóng chìm vào giấc ngủ trong phòng ngủ.

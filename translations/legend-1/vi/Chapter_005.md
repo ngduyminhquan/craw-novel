@@ -76,7 +76,7 @@ Cậu lục tìm thông tin về loại quả giống táo trên tay từ tri th
 
 [Quả Clara]
 
-Một loại quả mọc trong rừng. Phần thịt quả có vị chua ngọt rất thơm ngon. Tuy nhiên, cũng vì ngon miệng nên rất nhiều ma thú và dã thú yêu thích loại quả này, do đó khi tìm thấy Quả Clara cần phải hết sức cẩn thận với xung quanh.
+Một loại quả mọc trong rừng. Phần thịt quả có vị chua ngọt rất thơm ngon. Tuy nhiên, cũng vì ngon miệng nên rất nhiều quái vật và dã thú yêu thích loại quả này, do đó khi tìm thấy Quả Clara cần phải hết sức cẩn thận với xung quanh.
 
 Đọc xong đoạn giải thích, sắc mặt Rei khẽ giật giật.
 
@@ -104,7 +104,7 @@ Cầu mong chẳng đáng gọi là hy vọng ấy nhanh chóng bị dập tắt
 
 Trong vài giây, Rei và Set lặng lẽ nhìn trừng trừng vào con gấu trước mắt.
 
-Kích thước của nó chưa đầy hai mét, nhưng vì thân hình đồ sộ bề ngang nên trông có phần to hơn cả Set. Dáng người nó vạm vỡ thấy rõ, đồng thời trên bộ lông luôn phủ một lớp nước. Hai chi trước mọc ra những chiếc vuốt dài sắc nhọn cỡ ba mươi phân, toát lên vẻ hung hãn dị thường. Trong đầu Rei còn đang mải thắc mắc sao nước phủ trên lông lại không nhỏ xuống thì con Gấu Nước (tên tạm gọi) trước mắt đã phá tan bầu không khí im lặng, đúng như dự đoán.
+Kích thước của nó chưa đầy hai mét, nhưng vì thân hình cao lớn theo chiều dọc nên trông có phần to hơn cả Set. Dáng người nó vạm vỡ thấy rõ, đồng thời trên bộ lông luôn phủ một lớp nước. Hai chi trước mọc ra những chiếc vuốt dài sắc nhọn cỡ ba mươi phân, toát lên vẻ hung hãn dị thường. Trong đầu Rei còn đang mải thắc mắc sao nước phủ trên lông lại không nhỏ xuống thì con Gấu Nước (tên tạm gọi) trước mắt đã phá tan bầu không khí im lặng, đúng như dự đoán.
 
 "Gàoooooo!"
 
@@ -118,7 +118,7 @@ Cất tiếng kêu dứt khoát như đáp lại "Rõ!", Set bước lên phía 
 
 "Gào!"
 
-Nhận thấy con mồi không tháo chạy mà lại lao thẳng về phía mình, con Gấu Nước nhe nanh vuốt dài chừng mười phân, mượn đà lao tới mà vung bộ vuốt sắc nhọn giáng xuống Set.
+Nhận thấy con mồi không tháo chạy mà lại xông thẳng về phía mình, con Gấu Nước nhe cặp nanh dài chừng mười phân, mượn đà lao tới vung bộ vuốt sắc nhọn giáng xuống Set.
 
 "Grrr!"
 
@@ -130,7 +130,7 @@ Liếc nhìn thân cây gãy rắc sau khi bị Set lấy làm điểm tựa gi�
 
 Trúng đòn cào xé từ vuốt sắc của Set, con Gấu Nước gầm lên đau đớn nhưng vẫn tiếp tục vung vuốt nhắm vào Set một lần nữa.
 
-Nó nhảy lùi lại phía sau né đòn. Đánh hụt một kích, con Gấu Nước mất đà lảo đảo... và chớp đúng sơ hở ấy, Rei đâm thẳng cán Lưỡi Hái Tử Thần vào mạn sườn con quái vật!
+Set nhảy lùi lại phía sau né đòn. Cú vung vuốt hụt khiến con Gấu Nước mất đà lảo đảo... và chớp đúng sơ hở ấy, Rei đâm thẳng cán Lưỡi Hái Tử Thần vào mạn sườn con quái vật!
 
 Kèm theo một tiếng "thịch" trầm đục, cán Lưỡi Hái Tử Thần xuyên thẳng qua mạn sườn con Gấu Nước như thể lớp nước cùng bộ lông bọc quanh người nó hoàn toàn vô dụng.
 
@@ -190,7 +190,7 @@ Con Gấu Nước và Set cùng gầm gừ như muốn uy hiếp đối phương
 
 Kêu vang một tiếng như bảo "Cứ để đấy!", Set bắt đầu di chuyển vòng quanh nhằm thu hút toàn bộ sự chú ý của con Gấu Nước về phía mình.
 
-"Gào o."
+"Gàoo."
 
 Con Gấu Nước dường như cũng không thể ngó lơ hành động ấy, nó dần chuyển sự cảnh giác từ Rei sang tập trung vào Set.
 
@@ -254,7 +254,7 @@ Cậu lại cắm phập cán Lưỡi Hái Tử Thần vào lưng con Gấu Nư�
 
 [Vũ Điệu Hỏa Xà!]
 
-Khoảnh khắc câu chú hoàn thành, con rắn bằng lửa phóng ra từ cán Lưỡi Hái Tử Thần luồn lách từ lưng lên đầu con Gấu Nước, thiêu đốt lục phủ ngũ tạng bên trong cơ thể nó...
+Khoảnh khắc câu chú hoàn thành, con rắn bằng lửa phóng ra từ cán Lưỡi Hái Tử Thần trườn từ lưng lên đầu con Gấu Nước, thiêu đốt phần bên trong cơ thể nó...
 
 "Gàoooooooo!"
 

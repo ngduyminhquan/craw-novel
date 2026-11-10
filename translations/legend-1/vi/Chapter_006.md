@@ -8,7 +8,7 @@ Con quái vật khổng lồ dài hai mét đổ sụp xuống mặt đất, ph�
 
 Bên cạnh xác con Gấu Nước nằm bất động trên mặt đất, Rei cũng ngồi phịch xuống rồi bất giác lẩm bẩm. Nghe thấy thế, Set lại dụi mặt vào người Rei như mọi khi.
 
-"Set cũng làm tốt lắm. Không có mày thì chắc tao chẳng thể thắng nó một cách êm đẹp thế này đâu. Sơ sẩy một cái khéo thiêu rụi cả cánh rừng... thành ra thế đấy."
+"Set cũng làm tốt lắm. Không có mày thì chắc tao chẳng thể thắng nó một cách êm đẹp thế này đâu. Sơ sẩy một cái khéo lại thành ra cảnh thiêu rụi luôn cả cánh rừng... cũng nên."
 
 "Gừưưư."
 
@@ -58,11 +58,11 @@ Set lại dụi đầu vào người cậu như đòi xoa. Nhìn dáng vẻ đá
 
 Tạm ngừng tay gãi đầu, cậu đưa Quả Clara ra thì Set liền kêu lên đầy thích thú trong cổ họng, ngoạm lấy bằng mỏ rồi nghiền nát cả vỏ lẫn thịt quả.
 
-Nhìn cảnh đó, Rei cũng cắn một miếng lớn vào Quả Clara cả vỏ.
+Nhìn cảnh đó, Rei cũng để cả vỏ mà cắn một miếng lớn vào Quả Clara.
 
 Ngay khi cắn vào, vị ngọt thanh mát hòa lẫn chút chua dịu lan tỏa khắp khoang miệng. Nhai kỹ lớp thịt quả, dòng nước ép mọng nước ứa ra tràn ngập đầu lưỡi.
 
-Đây là hương vị đầu tiên Rei được thưởng thức trong đời. ...Mà thật ra thì trước đây sống ở một thị trấn quê vùng Tohoku, cậu cũng chưa từng được ăn loại trái cây nào quá đỗi kỳ lạ.
+Đối với Rei, đây là hương vị lần đầu tiên cậu được nếm thử. ...Mà thật ra thì trước đây sống ở một thị trấn quê vùng Tohoku, cậu cũng chưa từng được ăn loại trái cây nào quá đỗi kỳ lạ.
 
 Dù sao đi nữa, sau khi chia nhau mỗi bên hai Quả Clara ngon ngọt ngoài mong đợi lót dạ, cuối cùng cũng tới lúc xẻ thịt con Gấu Nước.
 
@@ -142,7 +142,7 @@ Cậu liếc nhìn đống nội tạng Gấu Nước đặt trên mấy chiếc
 
 "Set, ăn được rồi đấy. Có điều chừa dạ dày, ruột, tinh hoàn với gan ra nhé."
 
-"Grrr!"
+"Gùuu!"
 
 Nó thích thú rừ rừ trong họng, lập tức dùng mỏ mổ vào đống nội tạng trước mắt.
 
