@@ -129,3 +129,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 夜闇の星 |  | Ngôi Sao Màn Đêm | tổ chức | 28 | Tổ đội mạo hiểm giả Hạng C âm mưu cướp Hộp Vật Phẩm của Rei |
 | ファングウルフ | Fang Wolf | Fang Wolf | quái vật | 28 | Quái vật sói có răng nanh lớn, Hạng F, thường săn mồi theo bầy đàn |
 | ウォーホース | Warhorse | Warhorse | khác | 28 | Ngựa chiến được lai tạo và huấn luyện cho chiến đấu, không sợ quái vật |
+| 竜騎士 |  | Kỵ Sĩ Rồng | chức nghiệp | 30 | Kỵ sĩ cưỡi Phi Long trong quân đội vương quốc |
+| 飛竜 |  | Phi Long | quái vật | 30 | Loài rồng bay được thuần dưỡng làm thú cưỡi cho Kỵ Sĩ Rồng |

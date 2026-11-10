@@ -90,3 +90,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ceryl | * | chị / tao | mấy đứa / chúng mày / tụi mày | 28 | Trưởng nhóm nói với cả nhóm Al, Snee, Murgas |
 | Murgas | Ceryl | em / tôi | chị đại | 29 | Đàn em gọi đàn chị trưởng nhóm |
 | Ceryl | Murgas | chị / tao | Murgas / mày | 29 | Đàn chị ra lệnh cấp dưới |
+| Bobbs | Ceryl | tôi / ta | cô / Ceryl | 30 | Chỉ huy chiến dịch nói chuyện với trưởng nhóm Hạng C |
+| Ceryl | Bobbs | tôi | anh / Bobbs | 30 | Trưởng nhóm Hạng C trao đổi với chỉ huy chiến dịch |

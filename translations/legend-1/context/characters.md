@@ -36,7 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 27: Nhận ủy thác khẩn cấp thảo phạt bộ lạc Orc, đảm nhận vận chuyển toàn bộ nhu yếu phẩm bằng Nhẫn Sương Mù, được chỉ định đi chung với tổ đội Hạng A Rìu Lôi Thần và cùng Set khởi hành theo đoàn xe ngựa của Hội.
+- Trạng thái tính đến chương 30: Đến điểm hạ trại gần bộ lạc Orc, cùng Set hoàn thành trinh sát đường không và chuẩn bị cho cuộc tập kích đêm cùng đội thảo phạt.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
