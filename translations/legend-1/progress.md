@@ -8,7 +8,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 1 |  | Chapter_0001 - オーク集落襲撃 - 第1話.txt | オーク集落襲撃 - 第1話 | reviewed |  |
 | 2 |  | Chapter_0002 - オーク集落襲撃 - 第2話.txt | オーク集落襲撃 - 第2話 | reviewed |  |
 | 3 |  | Chapter_0003 - オーク集落襲撃 - 第3話.txt | オーク集落襲撃 - 第3話 | reviewed |  |
-| 4 |  | Chapter_0004 - オーク集落襲撃 - 第4話.txt | オーク集落襲撃 - 第4話 | todo |  |
+| 4 |  | Chapter_0004 - オーク集落襲撃 - 第4話.txt | オーク集落襲撃 - 第4話 | done |  |
 | 5 |  | Chapter_0005 - オーク集落襲撃 - 第5話.txt | オーク集落襲撃 - 第5話 | todo |  |
 | 6 |  | Chapter_0006 - オーク集落襲撃 - 第6話.txt | オーク集落襲撃 - 第6話 | todo |  |
 | 7 |  | Chapter_0007 - オーク集落襲撃 - 第7話.txt | オーク集落襲撃 - 第7話 | todo |  |

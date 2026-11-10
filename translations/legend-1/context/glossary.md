@@ -48,3 +48,11 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 火術 |  | Hỏa Thuật | kỹ năng | 2 | Ma thuật hệ lửa đứng đầu 12 hệ ma thuật của môn phái Zepairu |
 | アイテムストレージ | Item Storage | Kho Lưu Trữ Vật Phẩm | hệ thống | 2 | Dạng không gian ma thuật lưu trữ vật phẩm |
 | サラマンダー |  | Salamander | quái vật | 3 | Loài bò sát ma thuật thuộc tính Hỏa / hỏa tinh linh |
+| 小さき炎 |  | Ngọn Lửa Nhỏ | kỹ năng | 4 | Ma thuật hệ Hỏa cơ bản tạo ngọn lửa cỡ nắm tay nơi đầu ngón tay |
+| 火術士 |  | Hỏa Thuật Sư | chức nghiệp | 4 | Người chuyên sử dụng Hỏa Thuật (Zepairu tự xưng) |
+| 召喚術 |  | Triệu Hồi Thuật | kỹ năng | 4 | Ma thuật triệu hồi, cách gọi khác của Triệu Hồi Ma Thuật |
+| スレイプニル |  | Sleipnir | quái vật | 4 | Ma vật dạng ngựa tám chân chạy cực nhanh và có thể đạp gió trên không |
+| ユニコーン |  | Unicorn | quái vật | 4 | Ma vật huyền bí dạng ngựa một sừng |
+| マンドラゴラ |  | Mandragora | vật phẩm | 4 | Thảo dược ma thuật quý hiếm hình người |
+| 魔力回復ポーション |  | Thuốc Hồi Phục Ma Lực | vật phẩm | 4 | Thuốc giúp hồi phục lượng ma lực đã tiêu hao |
+| ソート機能 |  | Tính Năng Sắp Xếp | hệ thống | 4 | Chức năng sắp xếp danh mục vật phẩm trong Nhẫn Sương Mù do Takumu cài đặt |
