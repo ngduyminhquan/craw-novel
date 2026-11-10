@@ -11,7 +11,7 @@ import argparse
 import re
 import sys
 
-from common import (CJK_RE, IMAGE_RE, ODD_SCRIPT_RE, TN_RE, contains_term, raw_lang, raw_paragraphs, term_regex, entries, get_row,
+from common import (CJK_RE, IMAGE_RE, ODD_SCRIPT_RE, die, TN_RE, contains_term, raw_lang, raw_paragraphs, term_regex, entries, get_row,
                     is_placeholder, load_novel, load_progress, parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
@@ -144,15 +144,17 @@ def check(novel, row):
     return errors, warns
 
 
-def side_by_side(novel, row, width=70, start=1, end=None):
+def side_by_side(novel, row, width=70, only=None):
     """In từng cặp đoạn raw / bản dịch (đã lọc như khi đếm), để tìm chỗ bỏ sót hay gộp đoạn.
-    width=None: in nguyên văn không cắt. start/end: chỉ in khoảng đoạn đó (đánh số từ 1)."""
+    width=None: in nguyên văn không cắt. only: tập số đoạn cần in (đánh số từ 1), None là tất cả."""
     raw_paras = raw_paragraphs(novel, row)
     vf = vi_file(novel, row["idx"])
     vi_paras = vi_paragraphs(read_text(vf)) if vf.exists() else []
     print(f"#{row['idx']}: raw {len(raw_paras)} đoạn, bản dịch {len(vi_paras)} đoạn")
     last = max(len(raw_paras), len(vi_paras))
-    for k in range(max(start, 1) - 1, min(end or last, last)):
+    for k in range(last):
+        if only is not None and k + 1 not in only:
+            continue
         r = raw_paras[k][:width] if k < len(raw_paras) else "(hết)"
         v = vi_paras[k][:width] if k < len(vi_paras) else "(hết)"
         print(f"{k + 1:>4} RAW {r}\n     VI  {v}")
@@ -166,15 +168,17 @@ def main():
     ap.add_argument("--side", action="store_true",
                     help="in từng cặp đoạn raw / bản dịch theo số thứ tự, không chạy QA")
     ap.add_argument("--full", action="store_true", help="với --side: in nguyên văn từng đoạn, không cắt")
-    ap.add_argument("--paras", help="với --side: chỉ in khoảng đoạn, vd 40-80")
+    ap.add_argument("--paras", help="với --side: chỉ in các đoạn này, vd 40-80 hoặc 54,63,70-72")
     args = ap.parse_args()
     novel = load_novel(args.slug)
     rows = load_progress(novel)
     if args.side:
-        a, _, b = (args.paras or "").partition("-")
+        try:
+            only = set(parse_range(args.paras)) if args.paras else None
+        except ValueError:
+            die(f"--paras '{args.paras}' sai dạng; dùng số, khoảng A-B, ngăn bằng dấu phẩy (vd 54,63,70-72)")
         for idx in parse_range(args.range):
-            side_by_side(novel, get_row(rows, idx), None if args.full else 70,
-                         int(a) if a else 1, int(b) if b else (int(a) if a else None))
+            side_by_side(novel, get_row(rows, idx), None if args.full else 70, only)
         return
     total_err = 0
     for idx in parse_range(args.range):

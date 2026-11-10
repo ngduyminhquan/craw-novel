@@ -131,7 +131,7 @@ def main():
     if layout(novel) >= 2:
         print(f"Raw theo từng đoạn đánh số, cạnh bản dịch (đúng cách QA đếm): "
               f"python .agents/skills/novel-translate/scripts/qa_check.py {args.slug} {idx} --side "
-              f"[--full: in nguyên văn không cắt] [--paras 40-80: chỉ một khoảng đoạn] "
+              f"[--full: in nguyên văn không cắt] [--paras 40-80 hoặc 54,63,70-72: chỉ các đoạn đó] "
               f"— không tự viết code đọc raw hay đếm đoạn.")
     raw_imgs = [l.strip() for l in read_text(raw).splitlines() if IMAGE_RE.match(l.strip())]
     if raw_imgs:
