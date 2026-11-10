@@ -18,6 +18,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Drum | anh / cậu | 15 | Con trai bà chủ nhà trọ (khoảng 20 tuổi) |
 | Suzunose Takumu | anh ta | 2 | Số thuật sư người Nhật trong môn phái Zepairu |
 | Gran | người đàn ông / Gran | 14 | Cựu mạo hiểm giả phụ trách thăng hạng ở Hội |
+| Rowlocks | ông / Bá tước biên cảnh Rowlocks | 20 | Chúa tể cai quản thành Gilm |
 
 ## Giữa các nhân vật
 
@@ -46,3 +47,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Gran | tôi | ông / anh | 14 | Lịch sự |
 | Gran | Runo | tôi | Runo / chú mày | 14 | Quen biết ở Hội |
 | Runo | Gran | tôi | Gran / anh | 14 | Quen biết ở Hội |
+| Rowlocks | Ranga | ta | anh | 20 | Lãnh chúa nói với đội trưởng cảnh vệ |
+| Ranga | Rowlocks | tôi | ngài / Bá tước | 20 | Đội trưởng cảnh vệ kính cẩn với lãnh chúa |

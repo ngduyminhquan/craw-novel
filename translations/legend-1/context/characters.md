@@ -19,6 +19,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Lana | ラナ | Lana | Bà chủ nhà trọ Hoàng Hôn Mạch Đình | Chương 15 |
 | Drum | ドラム | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
 | Gran | グラン | Gran | Nhân viên Hội Mạo Hiểm Giả Gilm | Chương 14 |
+| Rowlocks | ラルクス | Rowlocks | Bá tước biên cảnh cai quản thành phố Gilm | Chương 20 |
 
 ## Chi tiết
 
@@ -64,3 +65,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Zepairu
 - Thân thế: Đại ma thuật sư sống cách đây hàng nghìn năm, được người đời xưng tụng là Ma Nhân; người đứng đầu môn phái sáng tạo Ma Thú Thuật và đã dung hợp linh hồn với Rei.
+
+### Rowlocks
+- Đàn ông trung niên khoảng 40 tuổi, mặt bặm trợn có râu mép, phong thái võ tướng nhưng điềm tĩnh và thực tế.

@@ -105,3 +105,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ファイアブレス |  | Hơi Thở Lửa | kỹ năng | 18 | Kỹ năng ma thuật hệ Hỏa Set học được sau khi nuốt Ma Thạch của Goblin chủng hiếm |
 | 炎球 |  | Hỏa Cầu | kỹ năng | 18 | Ma thuật hệ Hỏa tạo quả cầu lửa do Goblin chủng hiếm sử dụng, tương tự Thủy Cầu của Set |
 | 極炎壁 |  | Cực Diễm Bích | kỹ năng | 19 | Ma thuật hệ Hỏa tạo bức tường lửa khổng lồ bao vây và thiêu đốt mục tiêu |
+| ソルジャーアント |  | Soldier Ant | quái vật | 20 | Quái vật kiến chiến binh dài khoảng 1m |
+| 貴族派 |  | Phe Quý Tộc | tổ chức | 20 | Phe phái chính trị của các đại quý tộc trong Vương quốc Mireana |
+| 国王派 |  | Phe Quốc Vương | tổ chức | 20 | Phe phái chính trị ủng hộ nhà vua trong Vương quốc Mireana |
+| 中立派 |  | Phe Trung Lập | tổ chức | 20 | Phe phái chính trị trung lập trong Vương quốc Mireana, bao gồm Bá tước biên cảnh Rowlocks |
