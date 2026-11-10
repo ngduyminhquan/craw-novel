@@ -115,3 +115,10 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ブロンズナイフ |  | Dao Đồng | vật phẩm | 21 | Dao găm bằng đồng dùng để mổ xẻ quái vật |
 | 腐食 |  | Ăn Mòn | kỹ năng | 22 | Kỹ năng của Lưỡi Hái Tử Thần, chém vào trang bị kim loại của mục tiêu để ăn mòn; viết hoa khi là tên kỹ năng: Ăn Mòn; viết thường khi là động từ: bị ăn mòn |
 | ギルドマスター |  | Hội Trưởng | chức nghiệp | 23 | Người đứng đầu chi nhánh Hội Mạo Hiểm Giả |
+| 雷神の斧 |  | Rìu Lôi Thần | tổ chức | 24 | Tổ đội mạo hiểm giả Hạng A hàng đầu ở thành phố Gilm |
+| 上位種 |  | chủng cấp cao | khác | 24 | Phân loài cao cấp hơn của một chủng loại quái vật |
+| オークメイジ |  | Orc Mage | quái vật | 24 | Chủng cấp cao của loài Orc biết sử dụng ma thuật |
+| オークアーチャー |  | Orc Archer | quái vật | 24 | Chủng cấp cao của loài Orc sử dụng cung tên |
+| オークジェネラル |  | Orc General | quái vật | 24 | Chủng cấp cao của loài Orc có năng lực toàn diện vượt trội |
+| サイクロプス |  | Cyclops | quái vật | 24 | Quái vật khổng lồ một mắt |
+| ゴブリンの涎 |  | Nước Dãi Goblin | tổ chức | 12 | Biệt danh mỉa mai Rei đặt cho tổ đội Móng Vuốt Chim Ưng |

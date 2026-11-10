@@ -53,3 +53,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ranga | Rowlocks | tôi | ngài / Bá tước | 20 | Đội trưởng cảnh vệ kính cẩn với lãnh chúa |
 | Lenora | Kenny | tớ | cậu / Kenny | 23 | Bạn đồng nghiệp thân thiết, hay cãi cọ |
 | Kenny | Lenora | tớ | cậu / Lenora | 23 | Bạn đồng nghiệp thân thiết, hay cãi cọ |
+| Rei | Lenora | tôi | cô | 24 | Giao tiếp lịch sự với tiếp tân Hội |
+| Lenora | Rei | tôi | cậu / cậu Rei | 24 | Tiếp tân Hội tiếp đón mạo hiểm giả |
