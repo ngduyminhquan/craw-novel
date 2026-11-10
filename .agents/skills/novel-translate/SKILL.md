@@ -164,6 +164,7 @@ Brief có ghi "chế độ orchestrator" thì:
 ```
 python .agents/skills/novel-translate/scripts/progress.py <slug> next -n 5     # 5 chương todo kế tiếp
 python .agents/skills/novel-translate/scripts/progress.py <slug> stats         # tổng tiến độ
+python .agents/skills/novel-translate/scripts/progress.py <slug> questions     # các câu hỏi đang mở
 python .agents/skills/novel-translate/scripts/progress.py <slug> set 290-292 skip --note "trùng #287-289"
 python .agents/skills/novel-translate/scripts/extract_terms.py <slug> 40-60 --all   # soát thuật ngữ một đoạn truyện
 python .agents/skills/novel-translate/scripts/qa_check.py <slug> 1-20          # QA lại một loạt chương

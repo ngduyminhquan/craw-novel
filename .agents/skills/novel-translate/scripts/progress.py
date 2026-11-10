@@ -4,6 +4,7 @@
     python progress.py <slug> set <range> <status> [--note "..."]
     python progress.py <slug> stats
     python progress.py <slug> ask N "<câu hỏi — đề xuất>" [--file F]   # chỉ layout 2: ghi câu hỏi vào questions.md
+    python progress.py <slug> questions                               # chỉ layout 2: các câu hỏi đang mở
 """
 import argparse
 
@@ -23,6 +24,7 @@ def main():
     p_set.add_argument("status", choices=STATUSES)
     p_set.add_argument("--note")
     sub.add_parser("stats")
+    sub.add_parser("questions")
     p_ask = sub.add_parser("ask")
     p_ask.add_argument("idx", type=int)
     p_ask.add_argument("text", nargs="?")
@@ -56,6 +58,12 @@ def main():
         pct = 100 * translated / total if total else 0
         print(f"đã dịch {translated}/{total} ({pct:.1f}%) · reviewed {counts['reviewed']} · chờ review {counts['done']} · "
               f"todo {counts['todo']} · skip {counts['skip']}")
+    elif args.cmd == "questions":
+        if layout(novel) < 2:
+            die("lệnh questions chỉ dùng cho layout 2; layout 1 xem mục Cần user xác nhận trong progress.md")
+        p = questions_path(novel)
+        qs = [l for l in (read_text(p).splitlines() if p.exists() else []) if l.startswith("- ")]
+        print("\n".join(qs) or "(không có câu hỏi mở)")
     elif args.cmd == "ask":
         ask(novel, rows, args)
 
