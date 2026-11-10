@@ -84,3 +84,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ボスモンスター |  | quái vật trùm | quái vật | 14 | Quái vật chủ chốt làm chủ một hầm ngục |
 | ギルド |  | Hội | tổ chức | 14 | Cách gọi ngắn của Hội Mạo Hiểm Giả |
 | バトルアックス |  | rìu chiến | vật phẩm | 14 | Loại vũ khí rìu lớn dùng trong chiến đấu |
+| ファングボア |  | Fang Boar | quái vật | 15 | Quái vật lợn rừng nanh lớn phổ biến ở vùng phụ cận Gilm, thịt ăn được |
+| ケルピー |  | Kelpie | quái vật | 15 | Quái vật dạng ngựa nước thần thoại, thịt và nội tạng ăn được |
+| パワー・アクス |  | Rìu Cường Lực | vật phẩm | 15 | Cây rìu chiến Đạo Cụ Ma Thuật của Vargas |
+| アイアンソード |  | Kiếm Sắt | vật phẩm | 15 | Trường kiếm bằng sắt thông thường của nhóm Vargas |
+| アイアンダガー |  | Đoản Kiếm Sắt | vật phẩm | 15 | Đoản kiếm bằng sắt thông thường của nhóm Vargas |

@@ -53,3 +53,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Runo
 - Mạo hiểm giả trung niên điềm đạm, tính tình hòa nhã, biết giữ khoảng cách và biết điều.
 - Kỹ năng: Sở hữu Ma Nhãn có khả năng nhìn thấy ma lực; có năng lực toàn diện nhưng đa năng không chuyên (kiếm sĩ biết chút ít ma pháp tấn công, ma pháp hồi phục và kỹ năng đạo tặc).
+
+### Lana
+- Vẻ ngoài, tính cách: Phụ nữ trung niên đẫy đà, nụ cười niềm nở dễ mến; can đảm và điềm tĩnh, quen giao tiếp với giới mạo hiểm giả và lính đánh thuê.
+- Vai trò, nghề nghiệp: Bà chủ quán trọ Hoàng Hôn Mạch Đình, mẹ của Drum; chu đáo, chú trọng chất lượng món ăn của quán.
+
+### Drum
+- Vẻ ngoài, tính cách: Thanh niên trạc 20 tuổi, mặt mũi thuần phác rất giống mẹ; hiền lành, yêu động vật, không hề sợ hãi trước Griffin mà rất thích vuốt ve lông của Set.
+- Vai trò: Con trai của Lana, phụ trách chăm sóc khu chuồng thú của quán trọ Hoàng Hôn Mạch Đình.
