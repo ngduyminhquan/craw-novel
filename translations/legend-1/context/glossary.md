@@ -47,3 +47,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 闇術 |  | Ám Thuật | kỹ năng | 2 | Ma thuật hệ bóng tối trong 12 hệ ma thuật của môn phái Zepairu |
 | 火術 |  | Hỏa Thuật | kỹ năng | 2 | Ma thuật hệ lửa đứng đầu 12 hệ ma thuật của môn phái Zepairu |
 | アイテムストレージ | Item Storage | Kho Lưu Trữ Vật Phẩm | hệ thống | 2 | Dạng không gian ma thuật lưu trữ vật phẩm |
+| サラマンダー |  | Salamander | quái vật | 3 | Loài bò sát ma thuật thuộc tính Hỏa / hỏa tinh linh |
