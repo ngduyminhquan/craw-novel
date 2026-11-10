@@ -126,10 +126,11 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔法戦士 |  | Ma Pháp Chiến Sĩ | chức nghiệp | 25 | Chức nghiệp kết hợp dùng ma pháp và cận chiến bằng vũ khí (không giới hạn ở kiếm) |
 | 魔法発動体 |  | vật phát động ma pháp | vật phẩm | 25 | Vật phẩm hoặc phương tiện dùng để dẫn truyền, thi triển ma pháp (gậy, trượng, nhẫn...) |
 | ハイ・ゴブリン |  | High Goblin | quái vật | 26 | Chủng cấp cao của loài Goblin |
-| 夜闇の星 |  | Ngôi Sao Màn Đêm | tổ chức | 28 | Tổ đội mạo hiểm giả Hạng C âm mưu cướp Hộp Vật Phẩm của Rei |
+| 夜闇の星 | 夜明けの星 | Ngôi Sao Màn Đêm | tổ chức | 28 | Tổ đội mạo hiểm giả Hạng C âm mưu cướp Hộp Vật Phẩm của Rei |
 | ファングウルフ | Fang Wolf | Fang Wolf | quái vật | 28 | Quái vật sói có răng nanh lớn, Hạng F, thường săn mồi theo bầy đàn |
 | ウォーホース | Warhorse | Warhorse | khác | 28 | Ngựa chiến được lai tạo và huấn luyện cho chiến đấu, không sợ quái vật |
 | 竜騎士 |  | Kỵ Sĩ Rồng | chức nghiệp | 30 | Kỵ sĩ cưỡi Phi Long trong quân đội vương quốc |
 | 飛竜 |  | Phi Long | quái vật | 30 | Loài rồng bay được thuần dưỡng làm thú cưỡi cho Kỵ Sĩ Rồng |
 | 大空の死神 |  | Tử Thần Bầu Trời | danh hiệu | 28 | Biệt danh người đời gọi loài quái vật Hạng A Griffin |
 | 魔力発動体 |  | vật phát động ma lực | vật phẩm | 32 | Vật phẩm hoặc phương tiện dùng để dẫn truyền, thi triển ma lực (tương tự vật phát động ma pháp) |
+| バスタードソード |  | Kiếm Bastard | vật phẩm | 33 | Loại kiếm lai một tay rưỡi (bastard sword), vũ khí của Al |

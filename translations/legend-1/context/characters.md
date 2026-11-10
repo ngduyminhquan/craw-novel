@@ -109,6 +109,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Al
 - Nam mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.
 - Khá gắn bó với Gilm, tính tình nhát gan và lo sợ trước sức mạnh của Griffin Set.
+- Vũ khí: Kiếm Bastard.
 
 ### Snee
 - Nữ mạo hiểm giả Hạng D khoảng hơn 20 tuổi, thành viên tổ đội Ngôi Sao Màn Đêm.

@@ -30,6 +30,7 @@
 | ブモォッ | Ụccc | Tiếng kêu / rống kéo dài của Orc |
 | ブモモ | Ục ục | Tiếng kêu hoảng hốt của Orc |
 | ブモオオッ / ブモルァッ | Hộcccc | Tiếng gầm rống giận dữ / chiến đấu của Orc |
+| ブギィッ | Éccc | Tiếng kêu the thé đau đớn của Orc khi bị trúng tên |
 
 ## Đặc điểm ghi nhận theo chương
 
