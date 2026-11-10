@@ -49,7 +49,7 @@ python .agents/skills/novel-translate/scripts/ctx.py <slug> <lệnh> ...
 | Lệnh | Việc |
 |---|---|
 | `find <từ>` | tìm theo EN / Alias / VI (chuỗi con) trong glossary + characters, kể cả mục "Đã loại" |
-| `show-char <tên>` | dòng bảng + mục chi tiết của một nhân vật (tên là EN, Alias hoặc VI) |
+| `show-char <tên>` | dòng bảng + mục chi tiết của một nhân vật (tên là EN, Alias hoặc VI; một phần tên cũng được nếu chỉ khớp một nhân vật, áp dụng cho mọi lệnh nhận tên) |
 | `pronouns <tên> [<tên 2>]` | mọi dòng xưng hô liên quan tới nhân vật, hoặc của một cặp |
 | `show-summaries <range>` | tóm tắt các chương |
 | `arc [N]` | arc chứa chương N; bỏ N thì in các arc đã xong mà thiếu tóm tắt |
@@ -73,6 +73,7 @@ Nội dung có dấu `"` hay dài thì ghi vào một file UTF-8 trong `.herdr/`
 - Script tìm tên tiếng Nhật theo chuỗi con, riêng tên katakana không khớp khi dính liền katakana khác (`レイ` không khớp trong `スレイプニル`).
 - `prepare.py` và `extract_terms.py` liệt kê thuật ngữ mới là cụm katakana, nội dung `【】『』《》` và kanji đứng trước kính ngữ (`さん`, `様`, `殿`...). Danh sách lẫn từ thường (đồ vật, từ mượn): chỉ thêm tên riêng và thuật ngữ cố định.
 - Độ dài tính bằng ký tự. QA cảnh báo đoạn dịch còn sót chữ Nhật.
+- Raw hay gọi nhân vật bằng tên ngắn (`タクム` cho `タクム・スズノセ`). Bản dịch dùng một chữ trong tên VI (`Takumu`) là được, QA không cảnh báo.
 
 File chương được app Novel Reader đọc **theo từng dòng, không render Markdown** (chi tiết: `chapter-image-guide.md` ở repo root):
 - dòng có chữ đầu tiên `# ...` là tiêu đề; dòng trống bị bỏ qua;
@@ -135,7 +136,7 @@ Ghi vào file bản dịch script đã in ra (`translations/<slug>/vi/Chapter_NN
 python .agents/skills/novel-translate/scripts/qa_check.py <slug> N
 ```
 
-- `[LỖI]` thì bắt buộc sửa rồi chạy lại. Lệch số đoạn theo hướng thiếu nghĩa là gần như chắc chắn đã bỏ sót: đối chiếu từng đoạn với raw để tìm chỗ thiếu.
+- `[LỖI]` thì bắt buộc sửa rồi chạy lại. Lệch số đoạn theo hướng thiếu nghĩa là gần như chắc chắn đã bỏ sót: đối chiếu từng đoạn với raw để tìm chỗ thiếu. `qa_check.py <slug> N --side` in từng cặp đoạn raw / bản dịch theo đúng cách QA đếm (đã bỏ tiêu đề, T/N, ảnh), chỗ hai bên bắt đầu lệch nghĩa là chỗ sót hoặc gộp. Không tự viết code đếm đoạn.
 - `[cảnh báo]` thì xem từng cái. Sửa những cái là lỗi thật; cái nào là báo nhầm (ví dụ thuật ngữ được diễn đạt lại hợp lý) thì bỏ qua.
 
 Sau khi script sạch, tự đọc lại bản dịch một lượt và kiểm tra:

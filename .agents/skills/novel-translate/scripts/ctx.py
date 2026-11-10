@@ -124,12 +124,18 @@ def removed_terms(novel):
 
 
 def resolve(novel, name, fname=None):
-    """Tìm đúng một mục theo EN, Alias hoặc VI. fname giới hạn trong glossary/characters."""
+    """Tìm đúng một mục theo EN, Alias hoặc VI. fname giới hạn trong glossary/characters.
+    Không có mục khớp nguyên vẹn thì thử khớp một phần (vd 'Takumu' cho 'Suzunose Takumu');
+    chỉ dùng khi ra đúng một mục."""
     n = name.strip().lower()
-    hits = [(f, e) for f, e in all_entries(novel)
-            if (fname is None or f == fname) and (n in keys(e) or n == e["vi"].lower())]
+    pool = [(f, e) for f, e in all_entries(novel) if fname is None or f == fname]
+    hits = [(f, e) for f, e in pool if n in keys(e) or n == e["vi"].lower()]
     exact = [(f, e) for f, e in hits if n in keys(e)]
     hits = exact if len(exact) == 1 else hits
+    if not hits and n:
+        hits = [(f, e) for f, e in pool if any(n in t for t in [*keys(e), e["vi"].lower()])]
+        if len(hits) == 1:
+            print(f"('{name}' khớp một phần với {hits[0][0]}: {hits[0][1]['en']})", file=sys.stderr)
     if len(hits) != 1:
         where = "".join(f"\n  {f}: {e['en']} -> {e['vi']}" for f, e in hits)
         die(f"cần đúng 1 mục khớp '{name}', thấy {len(hits)}.{where or ' Thêm mục trước (add-term / add-char).'}")

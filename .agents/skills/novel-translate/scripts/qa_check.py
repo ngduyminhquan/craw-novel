@@ -1,6 +1,7 @@
 """Soát bản dịch so với raw.
 
     python qa_check.py <slug> <range>
+    python qa_check.py <slug> <range> --side    # in từng cặp đoạn raw / bản dịch để tìm chỗ sót, gộp đoạn
 
 Kiểm tra: số đoạn lệch (dấu hiệu bỏ sót), số đoạn [ ], từ tiếng Anh sót lại, T/N còn sót,
 thuật ngữ/tên trong glossary + characters có xuất hiện ở raw mà bản dịch không dùng đúng bản dịch,
@@ -122,9 +123,25 @@ def check(novel, row):
             # Tên nhân vật giữ nguyên: raw gọi tắt bằng alias (vd "Reta" cho "Reta Kar'iha")
             # và bản dịch cũng dùng đúng alias đó thì không phải lệch.
             variants += [t for t in terms if contains_term(raw_text, t)]
+            if ja:
+                # Raw tiếng Nhật hay gọi tên ngắn (タクム), alias là chữ Nhật nên không dùng được:
+                # chấp nhận bản dịch có một chữ trong tên VI (vd "Takumu" cho "Suzunose Takumu").
+                variants += [w for w in re.split(r"[\s·・]+", e["vi"]) if len(w) >= 3]
         if not any(v.lower() in vi_text.lower() for v in variants):
             warns.append(f"'{e['en']}' có trong raw nhưng bản dịch không có '{e['vi']}'")
     return errors, warns
+
+
+def side_by_side(novel, row, width=70):
+    """In từng cặp đoạn raw / bản dịch (đã lọc như khi đếm), để tìm chỗ bỏ sót hay gộp đoạn."""
+    raw_paras = raw_paragraphs(novel, row)
+    vf = vi_file(novel, row["idx"])
+    vi_paras = vi_paragraphs(read_text(vf)) if vf.exists() else []
+    print(f"#{row['idx']}: raw {len(raw_paras)} đoạn, bản dịch {len(vi_paras)} đoạn")
+    for k in range(max(len(raw_paras), len(vi_paras))):
+        r = raw_paras[k][:width] if k < len(raw_paras) else "(hết)"
+        v = vi_paras[k][:width] if k < len(vi_paras) else "(hết)"
+        print(f"{k + 1:>4} RAW {r}\n     VI  {v}")
 
 
 def main():
@@ -132,9 +149,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("slug")
     ap.add_argument("range")
+    ap.add_argument("--side", action="store_true",
+                    help="in từng cặp đoạn raw / bản dịch theo số thứ tự, không chạy QA")
     args = ap.parse_args()
     novel = load_novel(args.slug)
     rows = load_progress(novel)
+    if args.side:
+        for idx in parse_range(args.range):
+            side_by_side(novel, get_row(rows, idx))
+        return
     total_err = 0
     for idx in parse_range(args.range):
         row = get_row(rows, idx)
