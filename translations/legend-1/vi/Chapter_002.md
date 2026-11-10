@@ -48,9 +48,9 @@ Trong phòng ngủ chỉ có chiếc giường Reiji vừa nằm, một chiếc 
 
 Địa Thuật, Thủy Thuật, Phong Thuật, Quang Thuật, Ám Thuật, Thời Không Ma Thuật, Không Gian Ma Thuật, Triệu Hồi Ma Thuật, Giả Kim Thuật, Số Thuật, Cổ Đại Ma Thuật. Cùng người dẫn dắt họ là Zepairu, bậc thầy Hỏa Thuật; tổng cộng mười hai con người. Tri thức của Zepairu trong lòng Reiji mách bảo rằng những ma thuật sư vẽ trong tranh chính là môn phái từng được người đời ca tụng là đủ sức san phẳng một quốc gia chỉ trong vài giờ.
 
-Thế nhưng, Reiji dán mắt vào bức tranh không chỉ vì bấy nhiêu. Điều khiến cậu chú ý là trang phục của một nhân vật điều khiển Số Thuật. Dù nhìn góc nào, đó cũng là bộ đồng phục màu đen của học sinh sơ trung hay cao trung Nhật Bản, chưa kể người đó cũng mang mái tóc đen cùng đôi mắt đen đặc trưng của người Nhật. Cậu lục tìm thông tin về người ấy từ tri thức Zepairu để lại.
+Thế nhưng, Reiji dán mắt vào bức tranh không chỉ vì bấy nhiêu. Điều khiến cậu chú ý là trang phục của một nhân vật điều khiển Số Thuật. Dù nhìn góc nào, đó cũng là bộ đồng phục màu đen của học sinh cấp hai hay cấp ba Nhật Bản, chưa kể người đó cũng mang mái tóc đen cùng đôi mắt đen đặc trưng của người Nhật. Cậu lục tìm thông tin về người ấy từ tri thức Zepairu để lại.
 
-"Suzunose Takumu. Là Số thuật sư sao? Người này nghĩ thế nào cũng thấy là đồng hương của mình rồi."
+"Suzunose Takumu. Là Số Thuật Sư sao? Người này nghĩ thế nào cũng thấy là đồng hương của mình rồi."
 
 Theo tri thức của Zepairu, nhân vật Suzunose Takumu vốn mang đặc tính bất lão. Và cơ thể hiện tại của Reiji chính là sản phẩm được sáng tạo nên nhờ tiếp thu các đặc điểm thể chất của Suzunose Takumu rồi cải tiến thêm.
 
@@ -116,7 +116,7 @@ Một cảm giác kỳ lạ thoáng gợn lên trong đầu cậu. Cất một c
 
 "Ra vậy, món này quả thực còn giá trị hơn vạn lượng ngọc ngà châu báu."
 
-Theo tri thức từ Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Hơn nữa, nó chính là tuyệt tác kết tinh kỹ thuật đỉnh cao do hai bậc thầy về Không Gian Ma Thuật cùng Giả Kim Thuật xuất chúng nhất thế giới trong môn phái của Zepairu là Lizzie Flow và Esta Noor chủ trì chế tác, với sự trợ giúp của Số thuật sư Takumu; toàn bộ những Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu từng nhắc tới đều nằm gọn bên trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Rõ ràng là vòng tay sao lại gọi là nhẫn nhỉ? Cậu thoáng thắc mắc, nhưng có lẽ đó chỉ là sở thích của người tạo ra món Đạo Cụ Ma Thuật này mà thôi.
+Theo tri thức từ Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Hơn nữa, nó chính là tuyệt tác kết tinh kỹ thuật đỉnh cao do hai người xuất chúng nhất thế giới trong môn phái của Zepairu là Không Gian Ma Thuật Sư Lizzie Flow và Giả Kim Thuật Sư Esta Noor chủ trì chế tác, với sự trợ giúp của Số Thuật Sư Takumu; toàn bộ những Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu từng nhắc tới đều nằm gọn bên trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Rõ ràng là vòng tay sao lại gọi là nhẫn nhỉ? Cậu thoáng thắc mắc, nhưng có lẽ đó chỉ là sở thích của người tạo ra món Đạo Cụ Ma Thuật này mà thôi.
 
 Reiji nhếch mép cười, tạm thời đặt Nhẫn Sương Mù lại vào trong hộp trang sức rồi rảo bước về phía ma pháp trận ở tận cùng căn phòng.
 

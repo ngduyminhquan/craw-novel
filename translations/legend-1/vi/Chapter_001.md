@@ -12,7 +12,7 @@ Mới hơn mười giờ sáng mà nhiệt độ đã vượt quá 30 độ C. T
 
 Câu nói ấy đủ cho thấy nơi Reiji ở hẻo lánh đến mức nào. Sóng điện thoại ở đó còn chập chờn lúc có lúc không, ngay cả thị trấn này cậu cũng phải mất hơn một tiếng đạp xe từ nhà mới tới.
 
-Đáng lẽ kỳ nghỉ hè năm hai cao trung phải bận rộn ôn thi, nhưng Reiji chẳng mảy may bận tâm chuyện đó. Bởi ở ngôi trường cậu theo học, số người học lên tiếp cực kỳ hiếm hoi, hầu hết đều đi làm ngay tại địa phương.
+Đáng lẽ kỳ nghỉ hè năm hai cấp ba phải bận rộn ôn thi, nhưng Reiji chẳng mảy may bận tâm chuyện đó. Bởi ở ngôi trường cậu theo học, số người học lên tiếp cực kỳ hiếm hoi, hầu hết đều đi làm ngay tại địa phương.
 
 Nhờ tâm thế thảnh thơi đó, Reiji tận hưởng trọn vẹn kỳ nghỉ hè năm hai đúng với nghĩa của một đợt xả hơi dài ngày. Dĩ nhiên trường vẫn giao bài tập, nhưng để thỏa sức chơi hè, cậu đã gom mấy ngày đầu giải quyết xong xuôi từ lâu.
 

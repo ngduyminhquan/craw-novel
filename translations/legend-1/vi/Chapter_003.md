@@ -34,7 +34,7 @@ Mặc cho chú chim nghiêng đầu như muốn hỏi có chuyện gì thế, c�
 
 "Gùuu."
 
-Nó lại dụi đầu đại bàng vào người cậu như muốn khen "Đoán đúng rồi đấy". Lẩm bẩm tới đó, Reiji rốt cuộc cũng nhớ ra lý do vì sao mình lại ngất đi.
+Nó lại dụi đầu đại bàng vào người cậu như muốn khen cậu đoán đúng rồi. Lẩm bẩm tới đó, Reiji rốt cuộc cũng nhớ ra lý do vì sao mình lại ngất đi.
 
 "Phải rồi, mình vừa thực hiện nghi thức Ma Thú Thuật... Nghĩa là chú Griffin này chính là ma thú của mình sao?"
 
@@ -52,7 +52,7 @@ Vừa dứt lời lẩm bẩm, chú Griffin liền gầm gừ nhẹ trong cổ h
 
 "Gùuu."
 
-Chú Griffin lại kêu lên một tiếng, như muốn xác nhận "Trúng phóc rồi đấy".
+Chú Griffin lại kêu lên một tiếng, như muốn xác nhận cậu nói trúng phóc.
 
 "Đợi chút đã nào."
 
@@ -110,7 +110,7 @@ Nói là lưỡi hái, nhưng đây tuyệt nhiên chẳng phải loại liềm 
 
 "Gùuu."
 
-Như muốn bảo "Cái này là của cậu đấy", nó dùng mỏ ngậm cây đại hái chìa về phía Rei.
+Như muốn bảo thứ này là của Rei, nó dùng mỏ ngậm cây đại hái chìa về phía Rei.
 
 Cứ để Set ngậm mãi thế này thì tội nghiệp nó quá, nên cậu đành nhận lấy cây đại hái.
 
@@ -150,7 +150,7 @@ Bảng thông tin trong tâm trí cậu hiển thị như vậy.
 
 "Gùuu."
 
-Set cất tiếng kêu như muốn tán thành "Chuẩn rồi đấy".
+Set cất tiếng kêu như muốn tán thành.
 
 "Đúng là có vũ khí kiêm luôn vật phát động ma thuật thì sướng thật. Sướng thì sướng đấy... nhưng bình thường những lúc thế này người ta hay chọn kiếm chứ? Sao lại là đại hái cơ chứ?"
 
@@ -174,7 +174,7 @@ Vuốt ve bộ lông mượt mà như lụa của Set, Rei vừa lẩm bẩm v�
 
 "Không, có lương thực thì cũng chỉ đủ cho tao, chứ làm gì có phần của mày đâu, Set."
 
-Dù là sinh vật tạo ra từ Ma Thú Thuật, nhưng một khi đã là sinh mệnh sống thì đương nhiên vẫn cần ăn uống. Với thể hình dài hai mét của Set, thời gian nán lại căn dinh thự này chắc chỉ được một ngày, cố lắm thì cùng lắm là hai ngày.
+Dù là sinh vật tạo ra từ Ma Thú Thuật, nhưng một khi đã là sinh mệnh sống thì đương nhiên vẫn cần ăn uống. Với thể hình dài hai mét của Set, thời gian nán lại căn dinh thự này chắc chỉ được một ngày, cố lắm thì hai ngày.
 
 "Thế nên là phải nhanh chóng tìm tới thị trấn hay ngôi làng nào có người ở mới được, cơ mà..."
 

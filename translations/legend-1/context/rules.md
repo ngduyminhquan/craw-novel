@@ -11,7 +11,7 @@ Thêm quy tắc mới khi gặp một trường hợp cần xử lý thống nh�
 
 ## Thuật ngữ, kỹ năng, danh hiệu, vật phẩm
 
-- Tên kỹ năng, ма thuật, danh hiệu, chức nghiệp, vật phẩm ma thuật: dịch sang tiếng Việt / Hán Việt ngắn gọn, tự nhiên, viết hoa chữ cái đầu mỗi chữ hoặc theo bảng `glossary.md` (vd `魔獣術` → `Ma Thú Thuật`, `死神の大鎌 / デスサイズ` → `Lưỡi Hái Tử Thần`, `ミスティリング` → `Nhẫn Sương Mù`, `ドラゴンローブ` → `Áo Choàng Rồng`).
+- Tên kỹ năng, ma thuật, danh hiệu, chức nghiệp, vật phẩm ma thuật: dịch sang tiếng Việt / Hán Việt ngắn gọn, tự nhiên, viết hoa chữ cái đầu mỗi chữ hoặc theo bảng `glossary.md` (vd `魔獣術` → `Ma Thú Thuật`, `死神の大鎌 / デスサイズ` → `Lưỡi Hái Tử Thần`, `ミスティリング` → `Nhẫn Sương Mù`, `ドラゴンローブ` → `Áo Choàng Rồng`).
 - Mọi thuật ngữ phải có trong `glossary.md` TRƯỚC khi dùng trong bản dịch. Đã chốt thì dùng đúng chữ đó ở mọi chương.
 - Cấp bậc mạo hiểm giả và quái vật (`ランクG` → `Hạng G`, `ランクS` → `Hạng S`).
 

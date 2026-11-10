@@ -148,7 +148,7 @@ Nó thích thú rừ rừ trong họng, lập tức dùng mỏ mổ vào đống
 
 Lý do Rei dặn không ăn tinh hoàn và gan là vì nhớ mang máng từng thấy trên tivi bảo cá nóc tích tụ chất độc ở những bộ phận đó. Còn dạ dày với ruột thì khỏi cần phải nói rồi.
 
-Dù bữa sáng đã ăn gần hết phần ăn của Rei, nhưng có lẽ do quá đói nên Set đã chén sạch bách đống nội tạng Gấu Nước trong nháy mắt, trừ những phần Rei đã dặn chừa ra.
+Dù sáng nay đã chén gần hết phần ăn của Rei, nhưng có lẽ do quá đói nên Set đã chén sạch bách đống nội tạng Gấu Nước trong nháy mắt, trừ những phần Rei đã dặn chừa ra.
 
 "Gừưư."
 

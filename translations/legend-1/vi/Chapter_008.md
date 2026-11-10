@@ -28,7 +28,7 @@ Thấy vậy, Rei khẽ bật cười trừ, nhưng trong lòng không khỏi ki
 
 Kể từ lúc Set bắt đầu chạy, hai đứa chưa từng bị quái vật hay dã thú nào tấn công lần nào. Nói chính xác thì trên đường đi, họ cũng từng chạm trán một con khỉ ba mắt, một con heo rừng có cặp nanh dài chừng năm mươi phân, hay một con thỏ dài gần mét với đôi tai sắc bén như lưỡi dao. Thế nhưng chẳng con nào đuổi kịp tốc độ phi như bay của Set giữa cánh rừng, tất cả đều bị bỏ lại phía sau trong nháy mắt.
 
-Về phần Rei, cậu rất muốn giao chiến với lũ quái vật — bỏ qua những con thú hoang như sói — nhằm tích lũy kinh nghiệm chiến đấu, hiểu rõ hơn thông số cơ thể còn mới mẻ của mình, cũng như thu thập Ma Thạch để thúc đẩy Set và Lưỡi Hái Tử Thần phát triển.
+Về phần Rei, cậu rất muốn giao chiến với lũ quái vật, chứ không phải thú hoang như sói, để tích lũy kinh nghiệm chiến đấu, hiểu rõ hơn thông số cơ thể còn mới mẻ của mình, cũng như thu thập Ma Thạch để thúc đẩy Set và Lưỡi Hái Tử Thần phát triển.
 
 Thế nhưng qua trận chiến với bầy sói, Rei hiểu rằng một khi đã động thủ thì tiếng động sẽ kéo theo hàng loạt quái vật và dã thú khác ùa tới. Do đó, mục tiêu tối thượng lúc này là thoát khỏi khu rừng, nên cậu cứ để Set miệt mài phi thẳng về phía trước.
 
@@ -146,7 +146,7 @@ Mải ngắm những ngọn lửa nhảy múa giữa trời đêm làm gợi nh�
 
 "Grrr!"
 
-Tiếng gầm dũng mãnh của Set vang vọng lên bầu trời đêm — nơi mới vài phút trước còn ngập tràn lửa đỏ và lũ Sóc Bay Lưỡi Dao — rồi nó tiếp tục vỗ cánh đưa cả hai bay xa khỏi khu rừng.
+Tiếng gầm dũng mãnh của Set vang vọng khắp bầu trời đêm, nơi mới vài phút trước còn ngập tràn lửa đỏ và lũ Sóc Bay Lưỡi Dao, rồi nó tiếp tục vỗ cánh đưa cả hai bay xa khỏi khu rừng.
 
 Trên đường đi, chợt nhớ tới lũ Sóc Bay Lưỡi Dao ban nãy, Rei thử tìm kiếm trong mớ tri thức của Zepairu, nhưng cũng giống như Gấu Nước, chẳng có chút thông tin nào về loài này.
 

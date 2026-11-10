@@ -124,7 +124,7 @@ Dồn toàn lực vào một nhát chém quét ngang xé gió, Rei mới chịu 
 
 "Phù, hòm hòm rồi đấy."
 
-Đã vài tiếng trôi qua kể từ khi Rei bắt đầu vung vẩy cây đại hái. Dù Lưỡi Hái Tử Thần có đặc tính khiến người sử dụng hầu như không cảm thấy sức nặng, nhưng việc liên tục múa một món vũ khí khổng lồ suốt ngần ấy thời gian mà không hề nghỉ tay lấy một giây cũng chẳng khiến nhịp thở của cậu bị xáo trộn.
+Đã vài tiếng trôi qua kể từ khi Rei bắt đầu vung vẩy cây đại hái. Dù Lưỡi Hái Tử Thần có đặc tính khiến người sử dụng hầu như không cảm thấy sức nặng, nhưng múa một món vũ khí khổng lồ suốt ngần ấy thời gian không nghỉ tay lấy một lần mà nhịp thở của cậu vẫn chẳng hề xáo trộn.
 
 "Đúng là thân thể do những ma thuật sư vĩ đại nhất thế giới tạo ra có khác. Vận động liên tục không nghỉ mà chẳng hề hụt hơi tí nào."
 
@@ -158,7 +158,7 @@ Vừa tựa lưng vào thân hình đang ngồi trên mặt đất của Set, Re
 
 Vừa âu yếm đáp lại cái đầu đang dụi vào người mình của Set, Rei vừa thầm tính toán kế hoạch cho ngày mai.
 
-(Trước mắt, cứ theo kế hoạch ban đầu là tìm đường đến thị trấn hoặc làng mạc... nhưng nên đi về hướng nào đây? Dù may hay rủi thì đi mãi ra khỏi rừng vẫn chẳng thấy con đường cái nào. Xem ra khu rừng này nằm ở nơi vô cùng hẻo lánh rồi.)
+(Trước mắt, cứ theo kế hoạch ban đầu là tìm đường đến thị trấn hoặc làng mạc... nhưng nên đi về hướng nào đây? Chẳng biết là may hay rủi, đã cách khu rừng một quãng mà vẫn chưa thấy thứ gì gọi được là đường cái. Xem ra khu rừng này nằm ở nơi vô cùng hẻo lánh rồi.)
 
 Tuy được thừa hưởng tri thức của Zepairu, nhưng kho kiến thức đó lại chẳng có tấm bản đồ thế giới hay bản đồ khu vực nào cụ thể. Nó chỉ vỏn vẹn những thông tin đại khái như cạnh vương quốc nọ là vương quốc kia, vượt qua dãy núi đó sẽ sang nước láng giềng... mà thôi.
 

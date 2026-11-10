@@ -100,7 +100,7 @@ Tuy nhiên, lũ sói đang từng chút một thu hẹp khoảng cách trước 
 
 Nghĩa là dù có hạ gục bao nhiêu con sói đi nữa, cậu cũng chẳng thể thu được Ma Thạch để giúp Set hay Lưỡi Hái Tử Thần gia tăng sức mạnh.
 
-Thêm vào đó, nếu dã thú bình thường bằng cách nào đó—chẳng hạn như đột biến bẩm sinh, sống lâu năm tại nơi gọi là Điểm Tụ Ma Lực, hay tình cờ nuốt phải Ma Thạch nhặt được—mà có được Ma Thạch trong người, rồi sinh sôi nảy nở thành công, chúng sẽ thiết lập nên một hệ sinh thái quái vật mới. Rất có thể con Gấu Nước mà Rei và Set chạm trán vừa rồi cũng thuộc dạng này.
+Thêm vào đó, một con dã thú bình thường có được Ma Thạch trong người bằng cách nào đó, chẳng hạn đột biến bẩm sinh, sống lâu năm ở nơi gọi là Điểm Tụ Ma Lực, hay tình cờ nuốt phải Ma Thạch nhặt được, rồi sinh sôi nảy nở thành công, thì chúng sẽ thiết lập nên một hệ sinh thái quái vật mới. Rất có thể con Gấu Nước mà Rei và Set chạm trán vừa rồi cũng thuộc dạng này.
 
 (Điểm an ủi duy nhất là thịt có thể cho Set ăn, còn bộ lông thì chắc bán lấy tiền được... nhỉ.)
 

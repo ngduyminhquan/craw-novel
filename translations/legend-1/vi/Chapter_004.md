@@ -96,7 +96,7 @@ Dò tìm mục giáp phòng hộ trong danh sách ở tâm trí, cậu lập t�
 
 Trông cái tên là thấy toát lên vẻ đắt tiền và hiệu năng vượt trội rồi. Cậu vội vã lục tìm trong mớ tri thức của Zepairu.
 
-Đó là tấm áo choàng được chế tác từ da của những con rồng sống hàng trăm năm. Bản thân lớp da đã được nhuộm bằng máu cùng bột xương rồng, mang lại khả năng phòng ngự ma thuật thuộc hàng siêu việt. Thêm vào đó, áo được ghép từ hai lớp da rồng kẹp lấy vảy rồng ở giữa, nên khả năng chống đỡ vật lý cũng cực kỳ cao. Da dùng để may áo lấy từ Hỏa Long và Thủy Long, giúp người mặc luôn cảm thấy mát mẻ lúc trời nóng và ấm áp lúc trời lạnh, vô cùng dễ chịu. Cuối cùng, nhà giả kim chế tạo ra tấm áo này — tức Esta Noor, Giả kim thuật sư của môn phái Zepairu — còn yểm thêm hiệu ứng che giấu, khiến nó trông thoạt nhìn chẳng khác gì chiếc áo bình thường chứ không hề giống một Đạo Cụ Ma Thuật thượng đẳng.
+Đó là tấm áo choàng được chế tác từ da của những con rồng sống hàng trăm năm. Bản thân lớp da đã được nhuộm bằng máu cùng bột xương rồng, mang lại khả năng phòng ngự ma thuật thuộc hàng siêu việt. Thêm vào đó, áo được ghép từ hai lớp da rồng kẹp lấy vảy rồng ở giữa, nên khả năng chống đỡ vật lý cũng cực kỳ cao. Da dùng để may áo lấy từ Hỏa Long và Thủy Long, giúp người mặc luôn cảm thấy mát mẻ lúc trời nóng và ấm áp lúc trời lạnh, vô cùng dễ chịu. Cuối cùng, người chế tạo tấm áo là Esta Noor, Giả Kim Thuật Sư của môn phái Zepairu, còn yểm thêm hiệu ứng che giấu, khiến nó trông thoạt nhìn chẳng khác gì chiếc áo bình thường chứ không hề giống một Đạo Cụ Ma Thuật thượng đẳng.
 
 Khả năng phòng ngự ma thuật và vật lý thượng thừa quả thực khiến người ta kinh ngạc, nhưng thứ khiến Rei trầm trồ nhất lại chính là chức năng chẳng khác nào một chiếc máy điều hòa di động.
 
@@ -142,7 +142,7 @@ Khi người đeo tấn công và gây sát thương lên kẻ địch, chiếc 
 
 [Giọt Đá Từ Ái]
 
-Mặt dây chuyền có hình dáng tựa như một giọt nước. Đây là món đồ do Esta Noor, Giả kim thuật sư của môn phái Zepairu, dùng Giả Kim Thuật để chế tác từ Ma Thạch của loài Unicorn. Nó mang lại hiệu ứng hồi phục liên tục cho người đeo.
+Mặt dây chuyền có hình dáng tựa như một giọt nước. Đây là món đồ do Esta Noor, Giả Kim Thuật Sư của môn phái Zepairu, dùng Giả Kim Thuật để chế tác từ Ma Thạch của loài Unicorn. Nó mang lại hiệu ứng hồi phục liên tục cho người đeo.
 
 "Chắc chừng này là đủ rồi. Set, mày chọn món nào?"
 

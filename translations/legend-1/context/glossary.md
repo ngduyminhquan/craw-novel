@@ -64,3 +64,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 竜種 |  | loài rồng | chủng tộc | 7 | Các loài rồng nguy hiểm trên bầu trời khu rừng |
 | 舞い踊る炎 |  | Vũ Điệu Hỏa Diễm | kỹ năng | 8 | Ma thuật hệ Hỏa tạo ra hàng chục, hàng trăm ngọn lửa cỡ người nhảy múa thiêu đốt diện rộng trên không |
 | 刃ムササビ |  | Sóc Bay Lưỡi Dao | quái vật | 8 | Quái vật sóc bay dài 15cm có đuôi hóa cứng thành lưỡi sắc bén, biết bay lượn và tấn công bầy đàn |
+| 数術士 |  | Số Thuật Sư | chức nghiệp | 2 | Người dùng Số Thuật (Takumu) |
+| 錬金術師 |  | Giả Kim Thuật Sư | chức nghiệp | 2 | Người dùng Giả Kim Thuật (Esta Noor) |

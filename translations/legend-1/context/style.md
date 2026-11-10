@@ -4,7 +4,7 @@
 
 - Thể loại: Isekai, Fantasy, Phiêu lưu, Đời thường pha Hành động, Đồng hành cùng ma thú
 - Góc nhìn: Ngôi thứ 3 giới hạn, bám sát theo nhân vật chính Rei (Saeki Reiji); thỉnh thoảng có đoạn ngắn chuyển sang góc nhìn nhân vật phụ hoặc đối thủ
-- Giọng kể: Điềm tĩnh, thực tế, pha chútツッコミ (bình phẩm/tự giễu nhẹ nhàng kiểu thanh niên Nhật hiện đại lạc vào thế giới fantasy), miêu tả hành động và ẩm thực chi tiết
+- Giọng kể: Điềm tĩnh, thực tế, pha chút giọng tự bắt bẻ (bình phẩm/tự giễu nhẹ nhàng kiểu thanh niên Nhật hiện đại lạc vào thế giới fantasy), miêu tả hành động và ẩm thực chi tiết
 - Nhịp câu: Nhịp vừa phải, mạch lạc; xen kẽ giữa suy nghĩ nội tâm của Rei, tương tác đáng yêu với Set và các pha chiến đấu dứt khoát
 
 ## Nguyên tắc chung
@@ -29,6 +29,6 @@
 
 ## Đặc điểm ghi nhận theo chương
 
-- (#1) Khiยัง là cầu sáng, Zepairu dùng lối nói cổ kính, trang trọng (`我` - `汝`: `ta` - `ngươi`).
+- (#1) Khi còn là quả cầu sáng, Zepairu dùng lối nói cổ kính, trang trọng (`我` - `汝`: `ta` - `ngươi`).
 - (#3) Từ chương 3, Reiji chính thức lấy tên mới là `Rei` và đặt tên cho Griffin là `Set`.
 - (#7) Khi lời dẫn diễn giải ý nghĩa tiếng kêu hoặc cử chỉ của Set (raw dạng 「～とでも言うように」, không có ngoặc thoại 「...」), dịch theo lối gián tiếp không bọc ngoặc kép và không tự chêm xưng hô "em - anh" hay "ạ" (vd: "như muốn hỏi có chuyện gì", "như muốn bảo cứ để đó cho nó").

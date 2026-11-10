@@ -114,7 +114,7 @@ Vừa gầm lên một tiếng vang vọng khắp khu rừng, nó vừa hạ b�
 
 "Grrr!"
 
-Cất tiếng kêu dứt khoát như đáp lại "Rõ!", Set bước lên phía trước nghênh chiến Gấu Nước. Rei cũng vào thế với Lưỡi Hái Tử Thần bám sát theo sau.
+Cất tiếng kêu dứt khoát như đáp đã rõ, Set bước lên phía trước nghênh chiến Gấu Nước. Rei cũng vào thế với Lưỡi Hái Tử Thần bám sát theo sau.
 
 "Gào!"
 
@@ -188,7 +188,7 @@ Con Gấu Nước và Set cùng gầm gừ như muốn uy hiếp đối phương
 
 "Grrr!"
 
-Kêu vang một tiếng như bảo "Cứ để đấy!", Set bắt đầu di chuyển vòng quanh nhằm thu hút toàn bộ sự chú ý của con Gấu Nước về phía mình.
+Kêu vang một tiếng như bảo cứ để đó cho nó, Set bắt đầu di chuyển vòng quanh nhằm thu hút toàn bộ sự chú ý của con Gấu Nước về phía mình.
 
 "Gàoo."
 
