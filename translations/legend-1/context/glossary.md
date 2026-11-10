@@ -102,3 +102,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 常時依頼 |  | ủy thác thường trực | hệ thống | 17 | Loại ủy thác của Hội mạo hiểm giả luôn có sẵn, không giới hạn người nhận |
 | 討伐証明部位 |  | bộ phận xác nhận thảo phạt | khác | 17 | Bộ phận nộp cho Hội để chứng minh đã tiêu diệt quái vật (như tai phải của Goblin) |
 | ポーション |  | thuốc hồi phục | vật phẩm | 17 | Dược phẩm hồi phục thể lực, vết thương |
+| ファイアブレス |  | Hơi Thở Lửa | kỹ năng | 18 | Kỹ năng ma thuật hệ Hỏa Set học được sau khi nuốt Ma Thạch của Goblin chủng hiếm |
+| 炎球 |  | Hỏa Cầu | kỹ năng | 18 | Ma thuật hệ Hỏa tạo quả cầu lửa do Goblin chủng hiếm sử dụng, tương tự Thủy Cầu của Set |
