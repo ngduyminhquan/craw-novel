@@ -1,23 +1,23 @@
 # Nhân vật — Legend 1
 
-Bảng dưới được script đọc để nhận diện nhân vật trong chương: `EN` là tên chính trong raw, `Alias` là các cách gọi/cách viết khác trong raw (ngăn cách bằng `;`), `VI` là tên dùng trong bản dịch.
+Bảng dưới được script đọc để nhận diện nhân vật trong chương: `EN` là tên khoá viết bằng chữ Latin (romaji hoặc tên chính thức, thường trùng `VI`), `pronouns.md` tham chiếu tới giá trị này. `Alias` là **mọi** cách viết trong raw tiếng Nhật (ngăn cách bằng `;`), script dò tên theo cột này. `VI` là tên dùng trong bản dịch.
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| レイ | 佐伯玲二; 玲二 | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
-| セト | | Set | Ma thú Griffin đồng hành cùng Rei | Chương 2 |
-| ゼパイル | ゼパイル・ゾンド | Zepairu | Đại ma thuật sư hệ Hỏa, truyền nhân cuối cùng của phái Ma Thú Thuật | Chương 1 |
-| タクム・スズノセ | タクム | Suzunose Takumu | Số thuật sư người Nhật trong môn phái của Zepairu (đã mất) | Chương 2 |
-| リズィ・フロー | リズィ | Liziopne | Không gian ma thuật sư trong môn phái của Zepairu | Chương 2 |
-| エスタ・ノール | エスタ | Esta Noor | Giả kim thuật sư trong môn phái của Zepairu | Chương 2 |
-| ランガ | | Ranga | Đội trưởng đội cảnh vệ thành phố Gilm | Chương 10 |
-| ケニー | | Kenny | Nhân viên tiếp tân Hội Mạo Hiểm Giả ở Gilm | Chương 12 |
-| レノラ | | Lenora | Nhân viên tiếp tân Hội Mạo Hiểm Giả ở Gilm | Chương 12 |
-| バルガス | | Vargas | Mạo hiểm giả kiếm chuyện với Rei ở Hội | Chương 12 |
-| ゾリト | | Zolit | Mạo hiểm giả trong nhóm Vargas | Chương 12 |
-| ルーノ | | Runo | Mạo hiểm giả trung niên từng lập tổ đội tạm với nhóm Vargas | Chương 14 |
-| ラナ | | Lana | Bà chủ nhà trọ Hoàng Hôn Mạch Đình | Chương 15 |
-| ドラム | | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
+| Rei | レイ; 佐伯玲二; 玲二 | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
+| Set | セト | Set | Ma thú Griffin đồng hành cùng Rei | Chương 2 |
+| Zepairu | ゼパイル; ゼパイル・ゾンド | Zepairu | Đại ma thuật sư hệ Hỏa, truyền nhân cuối cùng của phái Ma Thú Thuật | Chương 1 |
+| Suzunose Takumu | タクム・スズノセ; タクム | Suzunose Takumu | Số thuật sư người Nhật trong môn phái của Zepairu (đã mất) | Chương 2 |
+| Liziopne | リズィ・フロー; リズィ | Liziopne | Không gian ma thuật sư trong môn phái của Zepairu | Chương 2 |
+| Esta Noor | エスタ・ノール; エスタ | Esta Noor | Giả kim thuật sư trong môn phái của Zepairu | Chương 2 |
+| Ranga | ランガ | Ranga | Đội trưởng đội cảnh vệ thành phố Gilm | Chương 10 |
+| Kenny | ケニー | Kenny | Nhân viên tiếp tân Hội Mạo Hiểm Giả ở Gilm | Chương 12 |
+| Lenora | レノラ | Lenora | Nhân viên tiếp tân Hội Mạo Hiểm Giả ở Gilm | Chương 12 |
+| Vargas | バルガス | Vargas | Mạo hiểm giả kiếm chuyện với Rei ở Hội | Chương 12 |
+| Zolit | ゾリト | Zolit | Mạo hiểm giả trong nhóm Vargas | Chương 12 |
+| Runo | ルーノ | Runo | Mạo hiểm giả trung niên từng lập tổ đội tạm với nhóm Vargas | Chương 14 |
+| Lana | ラナ | Lana | Bà chủ nhà trọ Hoàng Hôn Mạch Đình | Chương 15 |
+| Drum | ドラム | Drum | Con trai của Lana, phụ trách chuồng thú ở nhà trọ | Chương 15 |
 
 ## Chi tiết
 

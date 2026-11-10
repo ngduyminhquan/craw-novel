@@ -2103,11 +2103,3 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 2096 |  | Chapter_2096 - 港街での春 - 5096話.txt | 港街での春 - 5096話 | todo |  |
 | 2097 |  | Chapter_2097 - 港街での春 - 5097話.txt | 港街での春 - 5097話 | todo |  |
 | 2098 |  | Chapter_2098 - 港街での春 - 5098話.txt | 港街での春 - 5098話 | todo |  |
-
-## Cần user xác nhận
-
-<!-- Agent ghi vào đây các mâu thuẫn thuật ngữ/xưng hô/quyết định chưa chắc. Mỗi dòng: - [#chương] vấn đề — đề xuất -->
-
-## Đã quyết
-
-<!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->

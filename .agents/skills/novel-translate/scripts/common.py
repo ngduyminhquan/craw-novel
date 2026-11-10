@@ -150,8 +150,45 @@ def entries(path):
     return out
 
 
+# ---------- Tiếng Nhật ----------
+
+CJK_RE = re.compile(r"[぀-ヿ㐀-䶿一-鿿豈-﫿ｦ-ﾟ]")
+# Chữ katakana (bỏ dấu chấm giữa ・ U+30FB). Dùng làm ranh giới cho thuật ngữ katakana,
+# để "レイ" không khớp trong "スレイプニル" hay "レイン".
+KATA = "ァ-ヺー-ヿ"
+# Sau tên được phép có ッ (gọi "セトッ!") hoặc ー (kéo dài "レイー!").
+KATA_AFTER = "ァ-ヂツ-ヺヽ-ヿ"
+
+
+def has_cjk(s):
+    return bool(CJK_RE.search(s or ""))
+
+
+def is_kata(ch):
+    return "ァ" <= ch <= "ヺ" or "ー" <= ch <= "ヿ"
+
+
+def detect_lang(text):
+    """'ja' nếu raw chủ yếu là chữ Nhật, ngược lại 'en'."""
+    sample = "".join((text or "").split())[:5000]
+    if not sample:
+        return "en"
+    return "ja" if len(CJK_RE.findall(sample)) / len(sample) > 0.2 else "en"
+
+
+def raw_lang(novel, text=""):
+    """Ngôn ngữ raw: khoá `raw_lang` trong novel.json, không có thì đoán từ `text`."""
+    return novel.get("raw_lang") or detect_lang(text)
+
+
 @lru_cache(maxsize=None)
 def term_regex(term, case_sensitive=False):
+    if has_cjk(term):
+        # Tiếng Nhật không có khoảng trắng và kanji cũng là \w: tìm theo chuỗi con.
+        # Riêng đầu/cuối là katakana thì không được dính liền katakana khác.
+        pre = f"(?<![{KATA}])" if is_kata(term[0]) else ""
+        post = f"(?![{KATA_AFTER}])" if is_kata(term[-1]) else ""
+        return re.compile(pre + re.escape(term) + post)
     flags = 0 if case_sensitive else re.IGNORECASE
     return re.compile(r"(?<![\w’'])" + re.escape(term) + r"(?![\w’'])", flags)
 
@@ -182,7 +219,7 @@ def clean_raw(text, ignore=()):
     và các dòng nằm trong `ignore` (so nguyên dòng sau khi strip)."""
     ignore = {s.strip() for s in ignore}
     lines = text.splitlines()
-    if lines and not lines[0].strip().startswith(("\"", "“", "[")) and not IMAGE_RE.match(lines[0].strip()):
+    if lines and not lines[0].strip().startswith(("\"", "“", "[", "「", "『")) and not IMAGE_RE.match(lines[0].strip()):
         lines = lines[1:]  # dòng đầu là tiêu đề chương
     out = []
     for line in lines:
@@ -256,4 +293,160 @@ def parse_range(spec):
             out.extend(range(int(a), int(b) + 1))
         elif part:
             out.append(int(part))
+    return out
+
+
+# ---------- Layout 2 (novel.json có "layout": 2) ----------
+# Truyện layout 1 (cũ) giữ nguyên: câu hỏi nằm trong progress.md, tóm tắt trong một file summaries.md.
+# Layout 2: câu hỏi ở questions.md, quyết định ở decisions/, tóm tắt chia theo arc trong context/summaries/,
+# cộng context/story-so-far.md.
+
+STORY_LIMIT = 6000          # số ký tự tối đa của story-so-far.md (khoảng 2k token)
+ARC_MAX = 20                # số chương tối đa của một arc (arc dài hơn bị chia thành nhiều phần)
+ARC_SUMMARY_HEADER = "## Tóm tắt arc"
+STORY_MARK_RE = re.compile(r"<!--\s*cập nhật đến arc\s+(\d+)")
+CHAPTER_REF_RE = re.compile(r"\[#(\d+)")
+
+
+QUESTIONS_HEADER = (
+    "# Câu hỏi chờ quyết\n\n"
+    "<!-- Mỗi dòng một câu: - [#chương] vấn đề — đề xuất. Ghi bằng progress.py ask; orchestrator quyết bằng "
+    "orchestrate.py resolve, câu đã quyết chuyển sang decisions/. -->\n\n")
+
+
+def layout(novel):
+    return int(novel.get("layout", 1))
+
+
+def questions_path(novel):
+    return novel["dir"] / "questions.md"
+
+
+def decisions_path(novel, item):
+    """File quyết định theo khoảng 100 chương, lấy số chương đầu tiên dạng [#N] trong mục."""
+    m = CHAPTER_REF_RE.search(item)
+    d = novel["dir"] / "decisions"
+    if not m:
+        return d / "chung.md"
+    lo = (int(m.group(1)) - 1) // 100 * 100 + 1
+    return d / f"{lo:04d}-{lo + 99:04d}.md"
+
+
+def story_path(novel):
+    return novel["context"] / "story-so-far.md"
+
+
+def summaries_dir(novel):
+    return novel["context"] / "summaries"
+
+
+def sections(text):
+    """[(tiêu đề '## ...', nội dung)] theo thứ tự; phần trước tiêu đề '## ' đầu tiên có tiêu đề None."""
+    parts = re.split(r"(?m)^## +(.*)$", text)
+    out = [(None, parts[0])]
+    for i in range(1, len(parts) - 1, 2):
+        out.append((parts[i].strip(), parts[i + 1]))
+    return out
+
+
+def chapter_summaries(text):
+    """{số chương: tóm tắt} từ các mục '## N'."""
+    out = {}
+    for head, body in sections(text):
+        m = re.match(r"#?(\d+)\b", head or "")
+        if m:
+            out[int(m.group(1))] = body.strip()
+    return out
+
+
+def arc_summary_text(text):
+    for head, body in sections(text):
+        if head and ("## " + head).strip() == ARC_SUMMARY_HEADER:
+            return body.strip()
+    return ""
+
+
+def all_summaries(novel):
+    """{số chương: tóm tắt} của mọi chương, theo layout của truyện."""
+    if layout(novel) < 2:
+        # Giữ đúng cách đọc cũ của layout 1.
+        p = novel["context"] / "summaries.md"
+        text = read_text(p) if p.exists() else ""
+        parts = re.split(r"(?m)^## +#?(\d+)\b", text)
+        return {int(parts[i]): parts[i + 1].strip() for i in range(1, len(parts) - 1, 2)}
+    out = {}
+    d = summaries_dir(novel)
+    if d.exists():
+        for p in sorted(d.glob("arc-*.md")):
+            out.update(chapter_summaries(read_text(p)))
+    return out
+
+
+def arcs(novel, rows):
+    """Chia chương thành các arc (chỉ layout 2). novel.json "arc_rule":
+         {"pattern": "<regex có group 1 lấy tên arc từ cột Tiêu đề>", "max": 20}
+       Chương liền nhau cùng tên arc là một arc; arc dài hơn `max` bị chia thành nhiều phần
+       (chia từ đầu, phần cuối ngắn quá 1/4 thì gộp vào phần trước, để thêm chương mới không đổi số các arc cũ).
+       Không có pattern thì cứ `max` chương là một arc.
+       Trả về [{no, name, part, parts, idxs, first, last}], no đánh số từ 1."""
+    rule = novel.get("arc_rule") or {}
+    size = int(rule.get("max", ARC_MAX))
+    pat = re.compile(rule["pattern"]) if rule.get("pattern") else None
+    runs = []
+    for r in sorted(rows, key=lambda r: r["idx"]):
+        m = pat.search(r["tiêu đề"]) if pat else None
+        name = m.group(1).strip() if m else ""
+        if runs and runs[-1][0] == name:
+            runs[-1][1].append(r["idx"])
+        else:
+            runs.append((name, [r["idx"]]))
+    out = []
+    for name, idxs in runs:
+        chunks = [idxs[i:i + size] for i in range(0, len(idxs), size)]
+        if len(chunks) > 1 and len(chunks[-1]) <= size // 4:
+            tail = chunks.pop()
+            chunks[-1] = chunks[-1] + tail
+        for k, c in enumerate(chunks, 1):
+            out.append({"no": len(out) + 1, "name": name, "part": k, "parts": len(chunks),
+                        "idxs": c, "first": c[0], "last": c[-1]})
+    return out
+
+
+def arc_label(a):
+    part = f" (phần {a['part']}/{a['parts']})" if a["parts"] > 1 else ""
+    name = f" — {a['name']}" if a["name"] else ""
+    return f"Arc {a['no']}{name}{part} · #{a['first']}–#{a['last']}"
+
+
+def arc_of(arc_list, idx):
+    return next((a for a in arc_list if idx in a["idxs"]), None)
+
+
+def arc_file(novel, a):
+    return summaries_dir(novel) / f"arc-{a['no']:03d}.md"
+
+
+def story_arc(novel):
+    """Số arc mà story-so-far.md đã cập nhật đến (0 nếu chưa có)."""
+    p = story_path(novel)
+    m = STORY_MARK_RE.search(read_text(p)) if p.exists() else None
+    return int(m.group(1)) if m else 0
+
+
+def missing_arc_summaries(novel, rows):
+    """Các arc đã dịch xong (mọi chương done/reviewed/skip) mà thiếu tóm tắt arc
+    hoặc story-so-far.md chưa cập nhật tới arc đó. Chỉ layout 2."""
+    if layout(novel) < 2:
+        return []
+    status = {r["idx"]: r["trạng thái"] for r in rows}
+    done_story = story_arc(novel)
+    out = []
+    for a in arcs(novel, rows):
+        if not all(status[i] in (*TRANSLATED, "skip") for i in a["idxs"]):
+            break
+        if all(status[i] == "skip" for i in a["idxs"]):
+            continue
+        p = arc_file(novel, a)
+        if not (p.exists() and arc_summary_text(read_text(p))) or done_story < a["no"]:
+            out.append(a)
     return out

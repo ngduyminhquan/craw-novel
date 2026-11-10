@@ -1,5 +1,11 @@
 {
   "title": "Legend 2",
   "slug": "legend-2",
-  "raw_dir": "Legend 2"
+  "raw_dir": "Legend 2",
+  "layout": 2,
+  "raw_lang": "ja",
+  "arc_rule": {
+    "pattern": "^(.*?)\\s*-\\s*第?\\d+話$",
+    "max": 20
+  }
 }

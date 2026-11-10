@@ -18,7 +18,8 @@ import re
 import sys
 from collections import defaultdict
 
-from common import TRANSLATED, entries, load_novel, load_progress, read_text, table_with, utf8_stdout
+from common import (TRANSLATED, all_summaries, entries, layout, load_novel, load_progress, read_text, table_with,
+                    utf8_stdout)
 
 # Loại thuật ngữ mà rules.md yêu cầu dịch Hán Việt
 MUST_TRANSLATE = ("kỹ năng", "danh hiệu", "chức nghiệp", "cấp bậc")
@@ -71,11 +72,21 @@ def lint(novel):
             warns.append(f"glossary: {len(ens)} dòng cùng dịch là '{vi}': {', '.join(ens)} — cùng một thứ thì gộp "
                          "vào Alias của một dòng")
 
+    if layout(novel) >= 2:
+        have = all_summaries(novel)
+        for row in load_progress(novel):
+            if row["trạng thái"] in TRANSLATED and row["idx"] not in have:
+                errors.append(f"thiếu tóm tắt chương '## {row['idx']}' trong context/summaries/ (ctx.py add-summary)")
+        return errors, warns + _lint_glossary(ctx)
     summaries = read_text(ctx / "summaries.md")
     for row in load_progress(novel):
         if row["trạng thái"] in TRANSLATED and not re.search(rf"(?m)^## +#?{row['idx']}\b", summaries):
             errors.append(f"summaries.md thiếu mục '## {row['idx']}'")
+    return errors, warns + _lint_glossary(ctx)
 
+
+def _lint_glossary(ctx):
+    warns = []
     for e in entries(ctx / "glossary.md"):
         note = e["row"].get("ghi chú", "").strip()
         if "/" in e["vi"] and not note:
@@ -93,7 +104,7 @@ def lint(novel):
                 and "giữ nguyên" not in note.lower()):
             warns.append(f"glossary: '{e['en']}' ({kind}) để nguyên tiếng Anh — rules.md yêu cầu dịch Hán Việt, "
                          "hoặc ghi 'giữ nguyên' kèm lý do vào Ghi chú")
-    return errors, warns
+    return warns
 
 
 def main():

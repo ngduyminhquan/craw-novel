@@ -12,7 +12,7 @@ Bạn là orchestrator. Bạn **không tự dịch, không tự review, không t
 - quyết các câu hỏi;
 - commit và push.
 
-Toàn bộ trạng thái nằm trong `translations/<slug>/progress.md`. Gọi lại `next` lúc nào cũng tiếp tục được, kể cả khi mất context.
+Toàn bộ trạng thái nằm trong `translations/<slug>/progress.md` (truyện layout 2 có thêm `questions.md` và `context/summaries/`, xem mục "Layout của truyện" trong skill `novel-translate`). Gọi lại `next` lúc nào cũng tiếp tục được, kể cả khi mất context.
 
 Script: `python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> ...`, đường dẫn tính từ repo root. Script đã được kiểm thử: gọi thẳng, không đọc mã.
 
@@ -38,12 +38,13 @@ next ──► init ──► [panel] khởi tạo ──► duyệt context ─
      ├─► fix-context ──► lint ──► tự sửa context / [panel] viết tóm tắt thiếu ──► commit + push
      ├─► translate N ──► [panel] dịch ──► verify ──► quyết câu hỏi ──► commit + push
      ├─► review a-b ──► [panel] review ──► phân loại lỗi ──► [panel] sửa ──► verify ──► commit + push
+     ├─► arc-summary K ──► [panel] tóm tắt arc + story-so-far ──► verify-arc ──► commit + push   (chỉ layout 2)
      └─► finished ──► báo cáo cuối
 ```
 
 Mỗi vòng:
 
-1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=repair range=<R>`, `action=fix-context`, `action=translate n=<N>`, `action=review range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
+1. `orchestrate.py <slug> next --until <N>`. Script in ra một dòng: `action=init`, `action=repair range=<R>`, `action=fix-context`, `action=translate n=<N>`, `action=review range=<R>`, `action=arc-summary arc=<K> range=<R>` hoặc `action=finished`, kèm `open_questions=<k>`.
 2. Nếu `open_questions` > 0: chạy `orchestrate.py <slug> questions` rồi quyết từng câu (mục "Quyết định") **trước khi** mở panel mới.
 3. Làm theo action ở các mục dưới, rồi quay lại bước 1.
 
@@ -113,7 +114,7 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
    - Lần đầu: nhắc chính panel đó bằng `herdr agent prompt <name> "<các vấn đề verify in ra, sửa rồi ghi lại báo cáo>"`, rồi chờ lại. **Xoá file báo cáo cũ của panel trước khi nhắc** (`rm .herdr/reports/<name>.md`), nếu không `wait-report.sh` thấy dòng `STATUS: done` cũ và thoát ngay. Áp dụng cho mọi lần nhắc lại một panel đã báo xong.
    - Vẫn chưa đạt: đóng pane, đặt lại chương về todo bằng `progress.py <slug> set N todo`, mở panel mới làm lại từ đầu một lần.
    - Lần thứ ba vẫn hỏng: **dừng vòng lặp**, báo user.
-4. Đọc mục câu hỏi trong báo cáo và quyết. Panel thường chỉ ghi câu hỏi vào báo cáo mà không ghi vào `progress.md`. Câu như vậy thì ghi thẳng vào "Đã quyết" bằng `orchestrate.py <slug> resolve "[#N] <câu hỏi>" "<quyết định>" --new`. Quyết định làm đổi nội dung chương N thì nhắc panel sửa trước khi đóng.
+4. Đọc mục câu hỏi trong báo cáo và quyết. Panel thường chỉ ghi câu hỏi vào báo cáo mà không ghi vào `progress.md` (layout 2: `questions.md`). Câu như vậy thì ghi thẳng vào "Đã quyết" (layout 2: `decisions/`) bằng `orchestrate.py <slug> resolve "[#N] <câu hỏi>" "<quyết định>" --new`. Quyết định làm đổi nội dung chương N thì nhắc panel sửa trước khi đóng.
 5. Đóng pane. Commit và push với message `feat(translate): dịch chương N - <tiêu đề raw>`.
 6. Báo user một dòng: `#N xong — QA ok, +k thuật ngữ, q câu hỏi đã quyết`.
 
@@ -148,20 +149,30 @@ Mẫu file quyết định:
 - <câu hỏi> → <quyết định>
 ```
 
+### action=arc-summary arc=K range=R
+
+Chỉ có ở truyện layout 2: arc K đã dịch xong mọi chương mà chưa có tóm tắt arc, hoặc `story-so-far.md` chưa cập nhật tới arc K. Việc này phải xong trước khi dịch chương đầu của arc sau, vì `prepare.py` đọc nó.
+
+1. `brief arc-summary --arc K`, rồi mở panel và chờ.
+2. `orchestrate.py <slug> verify-arc K`. Chưa đạt thì xử lý giống bước 3 của translate. Riêng lần hỏng thứ hai thì mở panel mới làm lại, không đổi trạng thái chương nào.
+3. Đọc báo cáo: tóm tắt arc phải khớp với các tóm tắt chương. Phần bị nén khỏi story-so-far không được làm mất mạch còn dở (kẻ thù còn sống, lời hứa, bí mật). Thấy thiếu thì nhắc panel bổ sung trước khi đóng.
+4. Đóng pane. Commit và push với message `docs(translate): tóm tắt arc K (<range>)`.
+
 ### action=finished
 
 Chạy `progress.py <slug> stats`, rồi báo cáo cuối như mục "Báo cáo cho user".
 
 ## Quyết định
 
-Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo cáo, mục "Cần user xác nhận" của `progress.md`, và câu hỏi panel hỏi thẳng trên màn hình. Nguyên tắc:
+Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo cáo, mục "Cần user xác nhận" của `progress.md` (layout 2: `questions.md`; xem bằng `orchestrate.py <slug> questions`), và câu hỏi panel hỏi thẳng trên màn hình. Nguyên tắc:
 
 1. **Không đổi quyết định của user.** Đó là các mục "Tên riêng", "Thuật ngữ...", "Định dạng", "Ghi chú translator" trong `rules.md`, và "Nguyên tắc chung" trong `style.md`. Câu hỏi đòi đổi những mục này thì **dừng vòng lặp, hỏi user**.
 2. **Ưu tiên nhất quán.** Giữ cái đã chốt, trừ khi raw chứng minh rõ là sai, ví dụ nhân vật hóa ra là nữ, hoặc là người lớn tuổi hơn.
 3. **Dựa vào raw, không đoán.** Mở đoạn raw liên quan, và nếu cần thì cả `characters.md` và `summaries.md`, rồi mới quyết.
 4. **Ghi lại mọi quyết định:**
    - sửa file context tương ứng (`glossary.md`, `pronouns.md`, `characters.md`, mục "Riêng truyện này" của `rules.md`);
-   - chuyển câu hỏi sang mục "Đã quyết" bằng `orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"`.
+   - chuyển câu hỏi sang mục "Đã quyết" bằng `orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"`. Với layout 2, lệnh này xoá câu hỏi khỏi `questions.md` và ghi quyết định vào `decisions/<khoảng 100 chương>.md`. Không đọc trọn thư mục `decisions/`; cần tra quyết định cũ thì grep.
+   - layout 2: sửa context bằng `ctx.py` (mục "Layout của truyện" trong skill `novel-translate`), không mở cả file.
      Chuỗi có dấu `"` mà gọi từ PowerShell 5.1 thì ghi câu hỏi vào dòng 1, quyết định vào các dòng sau của một file UTF-8 trong `.herdr/tasks/`, rồi gọi `resolve --args-file <file>` (thêm `--new` nếu cần).
 5. **Quyết định làm sai các chương đã commit** (đổi thuật ngữ, đổi xưng hô từ một chương cũ):
    - ghi file quyết định chỉ có các mục context và câu hỏi;

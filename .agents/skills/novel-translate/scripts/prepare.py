@@ -3,20 +3,23 @@
     python prepare.py <slug> [idx]     # bỏ idx thì lấy chương todo kế tiếp
 
 In ra: thông tin chương, góc nhìn ước lượng, nhân vật xuất hiện + xưng hô liên quan,
-thuật ngữ mới chưa có trong glossary, tóm tắt 3 chương trước và file bản dịch liền trước.
+thuật ngữ mới chưa có trong glossary, mạch truyện và file bản dịch liền trước.
+Mạch truyện: layout 1 in tóm tắt 3 chương trước; layout 2 in story-so-far, tóm tắt 2 arc trước
+và tóm tắt các chương đã dịch của arc hiện tại.
 """
 import argparse
 import re
 
-from common import (IMAGE_RE, TRANSLATED, contains, raw_paragraphs, die, entries, get_row, load_novel, load_progress, raw_file,
-                    read_text, table_with, utf8_stdout, vi_file)
+from common import (IMAGE_RE, TRANSLATED, all_summaries, arc_file, arc_label, arc_of, arc_summary_text, arcs, die,
+                    entries, get_row, layout, load_novel, load_progress, raw_file, raw_lang, raw_paragraphs, read_text,
+                    story_arc, story_path, table_with, term_regex, utf8_stdout, vi_file)
 from extract_terms import pov_hint, report
 
 
 def characters_in(novel, text):
     found = []
     for e in entries(novel["context"] / "characters.md"):
-        hits = sum(len(re.findall(r"(?<![\w’'])" + re.escape(t) + r"(?![\w’'])", text)) for t in [e["en"], *e["aliases"]])
+        hits = sum(len(term_regex(t, True).findall(text)) for t in [e["en"], *e["aliases"]])
         if hits:
             found.append((e, hits))
     return sorted(found, key=lambda x: -x[1])
@@ -38,10 +41,34 @@ def narrator_rows(novel, names):
 
 
 def summaries(novel, idxs):
-    text = read_text(novel["context"] / "summaries.md") if (novel["context"] / "summaries.md").exists() else ""
-    parts = re.split(r"(?m)^## +#?(\d+)\b", text)
-    by_idx = {int(parts[i]): parts[i + 1].strip() for i in range(1, len(parts) - 1, 2)}
+    by_idx = all_summaries(novel)
     return [(i, by_idx.get(i)) for i in idxs]
+
+
+def story_context(novel, rows, idx):
+    """Layout 2: story-so-far + tóm tắt 2 arc trước + tóm tắt các chương đã dịch của arc hiện tại
+    (luôn có ít nhất 3 chương gần nhất). Không in tóm tắt chương của các arc cũ."""
+    arc_list = arcs(novel, rows)
+    cur = arc_of(arc_list, idx)
+    sp = story_path(novel)
+    print(f"### Câu chuyện tới giờ ({sp.name}, cập nhật đến arc {story_arc(novel)})")
+    print(read_text(sp).split("-->", 1)[-1].strip() if sp.exists() else "  (chưa có)")
+    prev_arcs = [a for a in arc_list if a["no"] < cur["no"]][-2:]
+    if prev_arcs:
+        print("\n### Tóm tắt arc trước")
+    for a in prev_arcs:
+        p = arc_file(novel, a)
+        text = arc_summary_text(read_text(p)) if p.exists() else ""
+        print(f"{arc_label(a)}\n  {text or '(THIẾU tóm tắt arc — orchestrator chạy arc-summary)'}")
+    status = {r["idx"]: r["trạng thái"] for r in rows}
+    translated = [i for i in sorted(status) if i < idx and status[i] in TRANSLATED]
+    prev = sorted({i for i in translated if i >= cur["first"]} | set(translated[-3:]))
+    print(f"\n### Arc hiện tại: {arc_label(cur)}")
+    if not prev:
+        print("  (chưa có chương nào đã dịch trước chương này)")
+    for i, s in summaries(novel, prev):
+        print(f"  #{i}: {s or '(THIẾU tóm tắt chương)'}")
+    return prev
 
 
 def main():
@@ -67,19 +94,21 @@ def main():
     raw = raw_file(novel, row)
     paras = raw_paragraphs(novel, row)
     text = "\n".join(paras)
-    words = len(text.split())
+    lang = raw_lang(novel, text)
+    size = f"{len(''.join(text.split()))} ký tự" if lang == "ja" else f"{len(text.split())} từ"
 
     print(f"# Chương #{idx}: {row['tiêu đề']}")
     print(f"Raw:      {raw.as_posix()}")
     print(f"Bản dịch: {vi_file(novel, idx).as_posix()}")
-    print(f"Độ dài: {words} từ, {len(paras)} đoạn (đã bỏ tiêu đề, phân cách, ảnh, T/N)")
+    print(f"Độ dài: {size}, {len(paras)} đoạn (đã bỏ tiêu đề, phân cách, ảnh, T/N)")
     raw_imgs = [l.strip() for l in read_text(raw).splitlines() if IMAGE_RE.match(l.strip())]
     if raw_imgs:
         print(f"Ảnh trong raw ({len(raw_imgs)}): {', '.join(raw_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí tương ứng.")
 
-    h = pov_hint(paras)
-    print(f"\n## Góc nhìn (ước lượng)\n{h['pov']} — I/me/my ngoài thoại: {h['first']}, he/she ngoài thoại: {h['third']}; "
-          f"{h['dialogue']} đoạn thoại, {h['system']} đoạn [ ].")
+    h = pov_hint(paras, lang)
+    print(f"\n## Góc nhìn (ước lượng)\n{h['pov']} — {h['first_label']} ngoài thoại: {h['first']}, "
+          f"{h['third_label']} ngoài thoại: {h['third']}; {h['dialogue']} đoạn thoại, "
+          f"{h['system']} đoạn {h['system_label']}.")
 
     chars = characters_in(novel, text)
     print("\n## Nhân vật đã biết xuất hiện")
@@ -100,14 +129,17 @@ def main():
         print("  (chưa có dòng nào khớp — tự xác định và bổ sung sau khi dịch)")
 
     print("\n## Thuật ngữ")
-    report(novel, paras, show_all=True)
+    report(novel, paras, show_all=True, lang=lang)
 
     print("\n## Mạch truyện")
-    prev = [r["idx"] for r in rows if r["idx"] < idx and r["trạng thái"] in TRANSLATED][-3:]
-    if not prev:
-        print("  (chưa có chương nào đã dịch trước chương này)")
-    for i, s in summaries(novel, prev):
-        print(f"  #{i}: {s or '(THIẾU tóm tắt trong summaries.md)'}")
+    if layout(novel) >= 2:
+        prev = story_context(novel, rows, idx)
+    else:
+        prev = [r["idx"] for r in rows if r["idx"] < idx and r["trạng thái"] in TRANSLATED][-3:]
+        if not prev:
+            print("  (chưa có chương nào đã dịch trước chương này)")
+        for i, s in summaries(novel, prev):
+            print(f"  #{i}: {s or '(THIẾU tóm tắt trong summaries.md)'}")
     if prev:
         print(f"  Bản dịch liền trước: {vi_file(novel, prev[-1]).as_posix()}")
     tn = sum(1 for l in read_text(raw).splitlines() if re.search(r"T/N|TL\s*note", l, re.I))

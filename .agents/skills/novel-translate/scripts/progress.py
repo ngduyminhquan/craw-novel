@@ -3,10 +3,12 @@
     python progress.py <slug> next [-n N]            # N chương todo kế tiếp (mặc định 1)
     python progress.py <slug> set <range> <status> [--note "..."]
     python progress.py <slug> stats
+    python progress.py <slug> ask N "<câu hỏi — đề xuất>" [--file F]   # chỉ layout 2: ghi câu hỏi vào questions.md
 """
 import argparse
 
-from common import STATUSES, die, get_row, load_novel, load_progress, parse_range, save_progress, utf8_stdout
+from common import (QUESTIONS_HEADER, STATUSES, die, get_row, layout, load_novel, load_progress, parse_range,
+                    questions_path, read_text, save_progress, utf8_stdout)
 
 
 def main():
@@ -21,6 +23,10 @@ def main():
     p_set.add_argument("status", choices=STATUSES)
     p_set.add_argument("--note")
     sub.add_parser("stats")
+    p_ask = sub.add_parser("ask")
+    p_ask.add_argument("idx", type=int)
+    p_ask.add_argument("text", nargs="?")
+    p_ask.add_argument("--file", help="file UTF-8 chứa câu hỏi (tránh lỗi dấu \" của PowerShell)")
     args = ap.parse_args()
 
     novel = load_novel(args.slug)
@@ -50,7 +56,28 @@ def main():
         pct = 100 * translated / total if total else 0
         print(f"đã dịch {translated}/{total} ({pct:.1f}%) · reviewed {counts['reviewed']} · chờ review {counts['done']} · "
               f"todo {counts['todo']} · skip {counts['skip']}")
+    elif args.cmd == "ask":
+        ask(novel, rows, args)
+
+
+def ask(novel, rows, args):
+    if layout(novel) < 2:
+        die("lệnh ask chỉ dùng cho truyện layout 2; truyện layout 1 ghi vào '## Cần user xác nhận' trong progress.md")
+    get_row(rows, args.idx)
+    text = read_text(args.file) if args.file else (args.text or "")
+    text = " ".join(text.split())
+    if not text:
+        die("thiếu nội dung câu hỏi")
+    path = questions_path(novel)
+    lines = read_text(path).rstrip("\n").splitlines() if path.exists() else QUESTIONS_HEADER.rstrip("\n").splitlines()
+    item = f"- [#{args.idx}] {text}"
+    if item in lines:
+        die("câu hỏi này đã có trong questions.md")
+    lines.append(item)
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"questions.md + {item}")
 
 
 if __name__ == "__main__":
     main()
+

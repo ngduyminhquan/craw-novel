@@ -7,12 +7,12 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 
 | Nhân vật | Người kể gọi | Từ chương | Ghi chú |
 |---|---|---|---|
-| レイ | cậu | 1 | Nam chính |
-| セト | nó / chú Griffin | 1 | Ma thú đồng hành của Rei |
-| ニールセン | cô / nàng | 1 | Tinh linh tại Xứ Tinh Linh |
-| ボブ | anh / ông | 1 | Người đồng hành tại Xứ Tinh Linh |
-| ダスカー | ngài / ông | 1 | Lãnh chúa vùng Gilm |
-| ヴィヘラ | cô / nàng | 1 | Bạn đồng hành của Rei |
+| Rei | cậu | 1 | Nam chính |
+| Set | nó / chú Griffin | 1 | Ma thú đồng hành của Rei |
+| Nielsen | cô / nàng | 1 | Tinh linh tại Xứ Tinh Linh |
+| Bob | anh / ông | 1 | Người đồng hành tại Xứ Tinh Linh |
+| Daska | ngài / ông | 1 | Lãnh chúa vùng Gilm |
+| Vihera | cô / nàng | 1 | Bạn đồng hành của Rei |
 
 ## Giữa các nhân vật
 
@@ -20,9 +20,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 
 | A | B | A xưng | A gọi B | Từ chương | Ghi chú |
 |---|---|---|---|---|---|
-| レイ | * | tôi | anh / cô / ông / bà | 1 | Khi giao tiếp bình thường |
-| レイ | セト | tao / anh | mày / nhóc / Set | 1 | Thân mật với ma thú đồng hành |
-| レイ | ニールセン | tôi | cô / Nielsen | 1 | Thân thiện |
-| ニールセン | レイ | tôi / em | cậu / Rei | 1 | Thân thiện |
-| レイ | ボブ | tôi | anh / Bob | 1 | Thân thiện |
-| ボブ | レイ | tôi | cậu / Rei | 1 | Thân thiện |
+| Rei | * | tôi | anh / cô / ông / bà | 1 | Khi giao tiếp bình thường |
+| Rei | Set | tao / anh | mày / nhóc / Set | 1 | Thân mật với ma thú đồng hành |
+| Rei | Nielsen | tôi | cô / Nielsen | 1 | Thân thiện |
+| Nielsen | Rei | tôi / em | cậu / Rei | 1 | Thân thiện |
+| Rei | Bob | tôi | anh / Bob | 1 | Thân thiện |
+| Bob | Rei | tôi | cậu / Rei | 1 | Thân thiện |

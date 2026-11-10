@@ -3005,11 +3005,3 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 2998 |  | Chapter_2998 - 妖精のマジックアイテム - 第2998話.txt | 妖精のマジックアイテム - 第2998話 | todo |  |
 | 2999 |  | Chapter_2999 - 妖精のマジックアイテム - 第2999話.txt | 妖精のマジックアイテム - 第2999話 | todo |  |
 | 3000 |  | Chapter_3000 - 妖精のマジックアイテム - 第3000話.txt | 妖精のマジックアイテム - 第3000話 | todo |  |
-
-## Cần user xác nhận
-
-<!-- Agent ghi vào đây các mâu thuẫn thuật ngữ/xưng hô/quyết định chưa chắc. Mỗi dòng: - [#chương] vấn đề — đề xuất -->
-
-## Đã quyết
-
-<!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->

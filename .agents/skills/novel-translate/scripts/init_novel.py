@@ -10,11 +10,25 @@ import re
 import shutil
 from pathlib import Path
 
-from common import (PROGRESS_HEADER, RAW_NAME_RE, ROOT, STORY_NO_RE, TRANSLATIONS,
-                    die, load_progress, read_text, utf8_stdout)
+from common import (ARC_MAX, PROGRESS_HEADER, QUESTIONS_HEADER, RAW_NAME_RE, ROOT, STORY_NO_RE, TRANSLATIONS,
+                    detect_lang, die, load_progress, read_text, utf8_stdout)
 
 TEMPLATES = Path(__file__).resolve().parents[1] / "templates"
-CONTEXT_FILES = ["rules.md", "style.md", "characters.md", "pronouns.md", "glossary.md", "summaries.md"]
+# Truyện mới dùng layout 2: tóm tắt nằm trong context/summaries/ (tạo khi ghi), không có summaries.md.
+CONTEXT_FILES = ["rules.md", "style.md", "characters.md", "pronouns.md", "glossary.md"]
+# Mẫu tên arc trong cột Tiêu đề. Dùng mẫu đầu tiên khớp >= 80% số chương.
+ARC_PATTERNS = [
+    r"^(.*?)\s*-\s*第?\d+話$",          # "オーク集落襲撃 - 第1話", "妖精のマジックアイテム - 3001話"
+    r"^(?i:(Vol(?:ume)?\.?\s*\d+))\b",   # "Vol 12 Chapter 6 - ..."
+]
+
+
+def arc_rule(chapters):
+    titles = [c["title"] for c in chapters]
+    for pat in ARC_PATTERNS:
+        if titles and sum(bool(re.search(pat, t)) for t in titles) >= 0.8 * len(titles):
+            return {"pattern": pat, "max": ARC_MAX}
+    return {"max": ARC_MAX}
 
 
 def norm_title(title):
@@ -67,17 +81,8 @@ def write_progress(path, title, chapters):
     ]
     for c in chapters:
         lines.append(f"| {c['idx']} | {c['story']} | {c['file']} | {c['title']} | {c['status']} | {c['note']} |")
-    lines += [
-        "",
-        "## Cần user xác nhận",
-        "",
-        "<!-- Agent ghi vào đây các mâu thuẫn thuật ngữ/xưng hô/quyết định chưa chắc. Mỗi dòng: - [#chương] vấn đề — đề xuất -->",
-        "",
-        "## Đã quyết",
-        "",
-        "<!-- Mục đã giải quyết chuyển xuống đây. Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết) -->",
-        "",
-    ]
+    # Layout 2: câu hỏi nằm ở questions.md, quyết định ở decisions/ (không để trong progress.md).
+    lines.append("")
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
@@ -99,10 +104,18 @@ def main():
     (d / "context").mkdir(parents=True, exist_ok=True)
     (d / "vi").mkdir(exist_ok=True)
 
+    chapters = scan_raw(raw_dir)
     cfg_path = d / "novel.json"
     if not cfg_path.exists():
-        cfg = {"title": args.title, "slug": args.slug, "raw_dir": raw_dir.relative_to(ROOT).as_posix()}
+        sample = read_text(raw_dir / chapters[0]["file"]) if chapters else ""
+        cfg = {"title": args.title, "slug": args.slug, "raw_dir": raw_dir.relative_to(ROOT).as_posix(),
+               "layout": 2, "raw_lang": detect_lang(sample), "arc_rule": arc_rule(chapters)}
         cfg_path.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(f"  tạo novel.json: raw_lang={cfg['raw_lang']}, arc_rule={cfg['arc_rule']}")
+    v2 = int(json.loads(read_text(cfg_path)).get("layout", 1)) >= 2
+    questions = d / "questions.md"
+    if v2 and not questions.exists():
+        questions.write_text(QUESTIONS_HEADER, encoding="utf-8")
 
     for name in CONTEXT_FILES:
         target = d / "context" / name
@@ -111,7 +124,6 @@ def main():
             target.write_text(text, encoding="utf-8")
             print(f"  tạo context/{name}")
 
-    chapters = scan_raw(raw_dir)
     mark_duplicates(chapters)
     progress = d / "progress.md"
     if progress.exists():

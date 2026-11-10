@@ -1,17 +1,17 @@
 # Nhân vật — Legend 2
 
-Bảng dưới được script đọc để nhận diện nhân vật trong chương: `EN` là tên chính trong raw, `Alias` là các cách gọi/cách viết khác trong raw (ngăn cách bằng `;`), `VI` là tên dùng trong bản dịch.
+Bảng dưới được script đọc để nhận diện nhân vật trong chương: `EN` là tên khoá viết bằng chữ Latin (romaji hoặc tên chính thức, thường trùng `VI`), `pronouns.md` tham chiếu tới giá trị này. `Alias` là **mọi** cách viết trong raw tiếng Nhật (ngăn cách bằng `;`), script dò tên theo cột này. `VI` là tên dùng trong bản dịch.
 
 | EN | Alias | VI | Vai trò | Xuất hiện |
 |---|---|---|---|---|
-| レイ | 佐伯玲二; 玲二 | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
-| セト | | Set | Ma thú Griffin đồng hành cùng Rei | Chương 1 |
-| ニールセン | | Nielsen | Tinh linh (Fairy) quen thân với Rei và Set tại Xứ Tinh Linh | Chương 1 |
-| ボブ | | Bob | Người quen đồng hành cùng Rei tại Xứ Tinh Linh | Chương 1 |
-| ダスカー | | Daska | Lãnh chúa vùng biên giới Gilm | Chương 1 |
-| ヴィヘラ | | Vihera | Bạn đồng hành của Rei | Chương 1 |
-| ゾゾ | | Zozo | Lizardman tại Xứ Tinh Linh | Chương 2 |
-| ガガ | | Gaga | Lizardman tại Xứ Tinh Linh | Chương 2 |
+| Rei | レイ; 佐伯玲二; 玲二 | Rei | Nhân vật chính, người kế thừa Ma Thú Thuật | Chương 1 |
+| Set | セト | Set | Ma thú Griffin đồng hành cùng Rei | Chương 1 |
+| Nielsen | ニールセン | Nielsen | Tinh linh (Fairy) quen thân với Rei và Set tại Xứ Tinh Linh | Chương 1 |
+| Bob | ボブ | Bob | Người quen đồng hành cùng Rei tại Xứ Tinh Linh | Chương 1 |
+| Daska | ダスカー | Daska | Lãnh chúa vùng biên giới Gilm | Chương 1 |
+| Vihera | ヴィヘラ | Vihera | Bạn đồng hành của Rei | Chương 1 |
+| Zozo | ゾゾ | Zozo | Lizardman tại Xứ Tinh Linh | Chương 2 |
+| Gaga | ガガ | Gaga | Lizardman tại Xứ Tinh Linh | Chương 2 |
 
 ## Chi tiết
 

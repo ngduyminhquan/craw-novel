@@ -10,8 +10,8 @@ import argparse
 import re
 import sys
 
-from common import (IMAGE_RE, TN_RE, contains_term, raw_paragraphs, term_regex, entries, get_row, is_placeholder, load_novel, load_progress,
-                    parse_range, raw_file, read_text, utf8_stdout, vi_file)
+from common import (CJK_RE, IMAGE_RE, TN_RE, contains_term, raw_lang, raw_paragraphs, term_regex, entries, get_row,
+                    is_placeholder, load_novel, load_progress, parse_range, raw_file, read_text, utf8_stdout, vi_file)
 
 # Từ tiếng Anh không trùng với âm tiết tiếng Việt không dấu.
 ENGLISH = set("""
@@ -65,9 +65,11 @@ def check(novel, row):
         warns.append(f"số đoạn lệch: raw {len(raw_paras)}, bản dịch {len(vi_paras)} ({diff:+d}) — "
                      "có thể tách đoạn thừa")
 
+    ja = raw_lang(novel, raw_text) == "ja"
+    # Raw tiếng Nhật: 『』 dịch thành [ ] hay ngoặc kép tùy ngữ cảnh (rules.md), nên không so số đoạn [ ].
     rb = sum(p.startswith("[") for p in raw_paras)
     vb = sum(p.startswith("[") for p in vi_paras)
-    if rb != vb:
+    if rb != vb and not ja:
         warns.append(f"số đoạn [ ]: raw {rb}, bản dịch {vb}")
 
     raw_imgs = [l.strip() for l in read_text(raw_file(novel, row)).splitlines() if IMAGE_RE.match(l.strip())]
@@ -78,6 +80,8 @@ def check(novel, row):
             errors.append(f"thiếu dòng ảnh có trong raw: {', '.join(missing_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí")
 
     for n, line in enumerate(vi_paras, 1):
+        if ja and CJK_RE.search(line):
+            warns.append(f"đoạn {n} còn chữ Nhật ({''.join(CJK_RE.findall(line))[:20]}): {line[:90]}")
         hits = ENGLISH_RE.findall(line)
         if len(hits) >= 2:
             warns.append(f"đoạn {n} còn tiếng Anh ({', '.join(hits[:5])}): {line[:90]}")

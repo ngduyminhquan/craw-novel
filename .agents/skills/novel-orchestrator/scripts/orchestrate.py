@@ -1,10 +1,12 @@
-"""Trợ lý cho orchestrator dịch truyện. Trạng thái nằm hết trong progress.md nên chạy lại lúc nào cũng tiếp tục được.
+"""Trợ lý cho orchestrator dịch truyện. Trạng thái nằm hết trong progress.md (layout 2: thêm questions.md,
+context/summaries/) nên chạy lại lúc nào cũng tiếp tục được.
 
     python orchestrate.py <slug> next [--until N] [--batch 3]
-    python orchestrate.py <slug> brief <init|translate|review|fix> [--n N] [--range R]
+    python orchestrate.py <slug> brief <init|translate|review|fix|arc-summary> [--n N] [--range R] [--arc K]
                                        [--raw DIR --title T] [--review-report F] [--decisions F]
                                        [--keep-status]
     python orchestrate.py <slug> verify <range> [--status done|reviewed|translated]
+    python orchestrate.py <slug> verify-arc <K>                                  # layout 2
     python orchestrate.py <slug> questions
     python orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>" [--new]
     python orchestrate.py <slug> resolve --args-file <file> [--new]   # khi chuỗi có dấu "
@@ -18,8 +20,10 @@ from string import Template
 SKILLS = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(SKILLS / "novel-translate" / "scripts"))
 
-from common import (ROOT, TRANSLATED, TRANSLATIONS, die, entries, get_row, load_novel, load_progress, parse_range,  # noqa: E402
-                    progress_path, read_text, utf8_stdout, vi_file)
+from common import (QUESTIONS_HEADER, ROOT, STORY_LIMIT, TRANSLATED, TRANSLATIONS, all_summaries, arc_file,  # noqa: E402
+                    arc_label, arc_summary_text, arcs, decisions_path, die, entries, get_row, layout, load_novel,
+                    load_progress, missing_arc_summaries, parse_range, progress_path, questions_path, read_text,
+                    story_arc, utf8_stdout, vi_file)
 from lint_context import lint  # noqa: E402
 from qa_check import check  # noqa: E402
 
@@ -95,13 +99,50 @@ def _full_question(lines, i):
 
 
 def open_questions(novel):
+    if layout(novel) >= 2:
+        lines = _question_lines(novel)
+        return [_full_question(lines, i) for i, l in enumerate(lines) if _is_question(l)]
     lines = read_text(progress_path(novel)).splitlines()
     return [_full_question(lines, i) for i in _open_indices(lines)]
+
+
+def _question_lines(novel):
+    p = questions_path(novel)
+    return read_text(p).splitlines() if p.exists() else []
+
+
+def resolve_v2(novel, needle, decision, new=False):
+    """Layout 2: câu hỏi mở nằm trong questions.md, câu đã quyết ghi thêm vào decisions/<khoảng 100 chương>.md."""
+    qpath = questions_path(novel)
+    lines = _question_lines(novel)
+    if new:
+        item = needle if needle.lstrip().startswith("- ") else f"- {needle}"
+    else:
+        hits = [i for i, l in enumerate(lines) if _is_question(l) and needle in _full_question(lines, i)]
+        if len(hits) != 1:
+            listing = "".join(f"\n  {lines[i].strip()[:120]}" for i in hits)
+            die(f"cần đúng 1 câu hỏi chứa '{needle}', thấy {len(hits)}. Dùng đoạn chữ dài hơn, chỉ có ở một câu."
+                + (listing if hits else " Câu hỏi chỉ có trong báo cáo panel thì dùng --new"))
+        item = _full_question(lines, hits[0])
+        for j in reversed([hits[0], *_continuation(lines, hits[0])]):
+            lines.pop(j)
+        qpath.write_text("\n".join(lines or QUESTIONS_HEADER.splitlines()).rstrip("\n") + "\n", encoding="utf-8")
+    item = re.sub(r"\s+—\s+đề xuất.*$", "", item)
+    entry = f"{item} → {decision} (orchestrator)"
+    dpath = decisions_path(novel, item)
+    dpath.parent.mkdir(parents=True, exist_ok=True)
+    old = read_text(dpath).rstrip("\n") if dpath.exists() else (
+        f"# Đã quyết — {dpath.stem}\n\n<!-- Mỗi dòng: - [#chương] vấn đề → quyết định (người quyết). "
+        f"Chỉ ghi thêm; tra bằng grep, không cần đọc trọn. -->\n")
+    dpath.write_text(old + "\n" + entry + "\n", encoding="utf-8")
+    print(f"đã chuyển sang decisions/{dpath.name}: {entry}")
 
 
 def resolve(novel, needle, decision, new=False):
     """Chuyển câu hỏi mở có chứa `needle` sang "Đã quyết". new=True: `needle` là câu hỏi
     chỉ có trong báo cáo panel (không nằm trong "Cần user xác nhận"), ghi thẳng vào "Đã quyết"."""
+    if layout(novel) >= 2:
+        return resolve_v2(novel, needle, decision, new)
     path = progress_path(novel)
     lines = read_text(path).splitlines()
     if new:
@@ -146,8 +187,13 @@ def cmd_next(slug, until, batch):
         return
     pending = [r["idx"] for r in rows if r["trạng thái"] == "done"]
     todo = [r["idx"] for r in rows if r["trạng thái"] == "todo" and (until is None or r["idx"] <= until)]
+    # Layout 2: arc đã dịch xong mà thiếu tóm tắt arc / story-so-far thì viết trước khi sang arc mới.
+    missing = missing_arc_summaries(novel, rows)
     if len(pending) >= batch:
         print(f"action=review range={fmt_range(pending[:batch])} open_questions={q}")
+    elif missing:
+        a = missing[0]
+        print(f"action=arc-summary arc={a['no']} range={a['first']}-{a['last']} open_questions={q}")
     elif todo:
         print(f"action=translate n={todo[0]} open_questions={q}")
     elif pending:
@@ -172,6 +218,16 @@ def cmd_brief(slug, args):
         row = get_row(load_progress(novel), args.n)
         name = f"tl-{args.n:03d}"
         values.update(n=args.n, title=row["tiêu đề"], vi=vi_file(novel, args.n).relative_to(ROOT).as_posix())
+    elif args.kind == "arc-summary":
+        if args.arc is None:
+            die("brief arc-summary cần --arc")
+        novel = load_novel(slug)
+        a = next((x for x in arcs(novel, load_progress(novel)) if x["no"] == args.arc), None)
+        if a is None:
+            die(f"không có arc {args.arc}")
+        name = f"as-{args.arc:03d}"
+        values.update(arc=args.arc, label=arc_label(a), range=f"{a['first']}-{a['last']}",
+                      arc_file=arc_file(novel, a).relative_to(ROOT).as_posix(), story_limit=STORY_LIMIT)
     else:
         if not args.range:
             die(f"brief {args.kind} cần --range")
@@ -198,7 +254,8 @@ def cmd_brief(slug, args):
 def cmd_verify(slug, spec, status):
     novel = load_novel(slug)
     rows = load_progress(novel)
-    summaries = read_text(novel["context"] / "summaries.md")
+    v2 = layout(novel) >= 2
+    summaries = all_summaries(novel) if v2 else read_text(novel["context"] / "summaries.md")
     problems = 0
     for idx in parse_range(spec):
         row = get_row(rows, idx)
@@ -212,13 +269,40 @@ def cmd_verify(slug, spec, status):
             issues += [f"QA: {e}" for e in errors]
         if row["trạng thái"] != status and not (status == "translated" and row["trạng thái"] in TRANSLATED):
             issues.append(f"trạng thái là '{row['trạng thái']}', cần '{status}'")
-        if not re.search(rf"(?m)^## +#?{idx}\b", summaries):
+        if v2 and idx not in summaries:
+            issues.append("thiếu tóm tắt chương trong context/summaries/ (ctx.py add-summary)")
+        elif not v2 and not re.search(rf"(?m)^## +#?{idx}\b", summaries):
             issues.append("summaries.md thiếu mục tóm tắt")
         problems += len(issues)
         print(f"#{idx}: {'OK' if not issues else 'CHƯA ĐẠT'}")
         for i in issues:
             print(f"  - {i}")
     sys.exit(1 if problems else 0)
+
+
+def cmd_verify_arc(slug, no):
+    """Layout 2: arc `no` đã có tóm tắt arc, story-so-far.md đã cập nhật tới arc đó, và mọi chương đã dịch
+    của arc có tóm tắt chương."""
+    novel = load_novel(slug)
+    rows = load_progress(novel)
+    a = next((x for x in arcs(novel, rows) if x["no"] == no), None)
+    if a is None:
+        die(f"không có arc {no}")
+    issues = []
+    p = arc_file(novel, a)
+    if not (p.exists() and arc_summary_text(read_text(p))):
+        issues.append(f"{p.name} chưa có mục '## Tóm tắt arc' (ctx.py set-arc-summary {no})")
+    if story_arc(novel) < no:
+        issues.append(f"story-so-far.md mới cập nhật đến arc {story_arc(novel)} (ctx.py set-story {no})")
+    have = all_summaries(novel)
+    status = {r["idx"]: r["trạng thái"] for r in rows}
+    lack = [i for i in a["idxs"] if status[i] in TRANSLATED and i not in have]
+    if lack:
+        issues.append(f"thiếu tóm tắt chương: {fmt_range(lack)}")
+    print(f"{arc_label(a)}: {'OK' if not issues else 'CHƯA ĐẠT'}")
+    for i in issues:
+        print(f"  - {i}")
+    sys.exit(1 if issues else 0)
 
 
 def main():
@@ -230,8 +314,9 @@ def main():
     p.add_argument("--until", type=int, help="không dịch chương có # lớn hơn N")
     p.add_argument("--batch", type=int, default=3, help="số chương mỗi lần review")
     p = sub.add_parser("brief")
-    p.add_argument("kind", choices=["init", "translate", "review", "fix"])
+    p.add_argument("kind", choices=["init", "translate", "review", "fix", "arc-summary"])
     p.add_argument("--n", type=int)
+    p.add_argument("--arc", type=int)
     p.add_argument("--range")
     p.add_argument("--raw")
     p.add_argument("--title")
@@ -243,6 +328,8 @@ def main():
     p.add_argument("range")
     p.add_argument("--status", default="done", choices=["done", "reviewed", "translated"],
                    help="translated = done hoặc reviewed")
+    p = sub.add_parser("verify-arc")
+    p.add_argument("arc", type=int)
     sub.add_parser("questions")
     p = sub.add_parser("resolve")
     p.add_argument("needle", nargs="?")
@@ -257,6 +344,8 @@ def main():
         cmd_brief(args.slug, args)
     elif args.cmd == "verify":
         cmd_verify(args.slug, args.range, args.status)
+    elif args.cmd == "verify-arc":
+        cmd_verify_arc(args.slug, args.arc)
     elif args.cmd == "questions":
         qs = open_questions(load_novel(args.slug))
         print("\n".join(qs) if qs else "(không có câu hỏi mở)")
