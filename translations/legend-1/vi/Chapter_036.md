@@ -1,8 +1,8 @@
 # Chương 36: Đột kích bộ lạc Orc (36)
 
-Dưới ánh trăng cùng ngọn lửa từ ngôi làng đang rực cháy rọi sáng mặt đất, Rei và Set lượn trên bầu trời quan sát tình hình bên dưới.
+Dưới ánh trăng cùng ngọn lửa từ bộ lạc đang rực cháy rọi sáng mặt đất, Rei và Set lượn trên bầu trời quan sát tình hình bên dưới.
 
-Ở phía đông ngôi làng, giao tranh vẫn đang tiếp diễn nhưng số lượng Orc ở đó quả nhiên đã giảm đi trông thấy. Vài tổ đội khác đột kích từ các hướng khác nhau rốt cuộc cũng đã kéo tới tập kích sau lưng bầy Orc đang vây hãm Rìu Lôi Thần, tạo thành thế gọng kìm giáp công cùng họ.
+Ở phía đông bộ lạc, giao tranh vẫn đang tiếp diễn nhưng số lượng Orc ở đó quả nhiên đã giảm đi trông thấy. Vài tổ đội khác đột kích từ các hướng khác nhau rốt cuộc cũng đã kéo tới tập kích sau lưng bầy Orc đang vây hãm Rìu Lôi Thần, tạo thành thế gọng kìm giáp công cùng họ.
 
 "Chỉ một tổ đội mà tạo thế gọng kìm với sức chiến đấu ngang ngửa vài tổ đội gộp lại à. Quả không hổ danh là tổ đội Hạng A."
 
@@ -16,25 +16,25 @@ Lượng ma lực còn lại của Min có lẽ cũng đã vơi bớt khi khoả
 
 Chỉ riêng Rei và Set đã hạ gục hơn mười con Orc. Dù không rõ số lượng các tổ đội khác tiêu diệt, nhưng chắc chắn con số đó cũng không hề nhỏ. Dĩ nhiên, trong toàn đoàn thảo phạt, người lập công nhiều nhất ắt hẳn là Rìu Lôi Thần, những người đã miệt mài quần thảo với lũ Orc ở phía đông ngay từ đầu trận, mà nổi bật nhất chính là Elk.
 
-Trên thực tế, nhìn lướt qua từ trên không thì số Orc tụ tập ở phía đông ngôi làng lúc này dường như đã giảm xuống dưới năm mươi con. Thế nhưng kẻ thống lĩnh bầy Orc vẫn chưa hề lộ diện, chuyện này ngẫm kiểu gì cũng thấy quá đỗi bất thường.
+Trên thực tế, nhìn lướt qua từ trên không thì số Orc tụ tập ở phía đông bộ lạc lúc này dường như đã giảm xuống dưới năm mươi con. Thế nhưng kẻ thống lĩnh bầy Orc vẫn chưa hề lộ diện, chuyện này ngẫm kiểu gì cũng thấy quá đỗi bất thường.
 
-Thấy lạ, Rei liền bảo Set lượn quanh bầu trời ngôi làng để quan sát mặt đất; chẳng mấy chốc, cậu bắt gặp một toán quân đang lợi dụng màn đêm để di chuyển ở phía tây, hoàn toàn trái ngược với mạn đông nơi tập trung toàn bộ binh lực.
+Thấy lạ, Rei liền bảo Set lượn quanh bầu trời bộ lạc để quan sát mặt đất; chẳng mấy chốc, cậu bắt gặp một toán quân đang lợi dụng màn đêm để di chuyển ở phía tây, hoàn toàn trái ngược với mạn đông nơi tập trung toàn bộ binh lực.
 
 Nếu là người bình thường thì ắt hẳn chẳng thể nào phát hiện ra bóng dáng đang lẩn khuất trong bóng tối ấy. Trừ phi là những chủng tộc sở hữu thị lực ban đêm vượt trội thì may ra mới khác.
 
-Màn đêm dù đã loãng đi phần nào nhờ ánh trăng và ngọn lửa thiêu rụi ngôi làng, nhưng nếu khéo chọn địa hình thì vẫn hoàn toàn có thể ẩn mình di chuyển. Sở dĩ toán người ấy lọt vào tầm mắt Rei giữa lúc các thành viên đoàn thảo phạt đang ùa vào từ nhiều phía là bởi hướng đi của chúng: chúng đang di chuyển như thể muốn thoát ra ngoài ngôi làng. Và yếu tố mang tính quyết định là ở phía trước toán quân đó xuất hiện bóng dáng vài mạo hiểm giả tham gia chiến dịch tiêu diệt Orc.
+Màn đêm dù đã loãng đi phần nào nhờ ánh trăng và ngọn lửa thiêu rụi bộ lạc, nhưng nếu khéo chọn địa hình thì vẫn hoàn toàn có thể ẩn mình di chuyển. Sở dĩ toán quân ấy lọt vào tầm mắt Rei giữa lúc các thành viên đoàn thảo phạt đang ùa vào từ nhiều phía là bởi hướng đi của chúng: chúng đang di chuyển như thể muốn thoát ra ngoài bộ lạc. Và yếu tố mang tính quyết định là ở phía trước toán quân đó xuất hiện bóng dáng vài mạo hiểm giả tham gia chiến dịch tiêu diệt Orc.
 
-Về cơ bản, nhiệm vụ lần này phân chia các tổ đội tản ra tám hướng quanh ngôi làng và gần như đồng loạt tiến công, ngoại trừ Rìu Lôi Thần ở mạn đông. Trong tình cảnh đó, một nhóm di chuyển từ phía tây ra ngoài là điều hết sức bất thường dưới con mắt của Rei từ trên không.
+Về cơ bản, nhiệm vụ lần này phân chia các tổ đội tản ra tám hướng quanh bộ lạc và gần như đồng loạt tiến công, ngoại trừ Rìu Lôi Thần ở mạn đông. Trong tình cảnh đó, một nhóm di chuyển từ phía tây ra ngoài là điều hết sức bất thường dưới con mắt của Rei từ trên không.
 
 Bầy Orc liên tục bị đoàn thảo phạt tiêu hao quân số; một toán quân lại ẩn mình trong bóng đêm di chuyển về hướng ngược lại với chiến trường khốc liệt nhất ở phía đông; một nhóm hành động tách biệt hoàn toàn với những mạo hiểm giả tiến vào từ mạn tây. Khoảnh khắc những mảnh ghép ấy xâu chuỗi lại trong đầu, Rei nở một nụ cười dữ dằn, phóng ánh mắt sắc lẹm xuống mặt đất.
 
-"Ra vậy. Đúng là ngôi làng Orc này coi như xong đời rồi. Số lượng Orc sụt giảm với tốc độ chóng mặt, bản thân ngôi làng cũng chẳng mấy chốc sẽ cháy thành tro bụi. Nhưng kẻ đứng đầu mà lại vứt bỏ thuộc hạ để tháo chạy thì chẳng hay ho chút nào. Set!"
+"Ra vậy. Đúng là bộ lạc Orc này coi như xong đời rồi. Số lượng Orc sụt giảm với tốc độ chóng mặt, bản thân bộ lạc cũng chẳng mấy chốc sẽ cháy thành tro bụi. Nhưng kẻ đứng đầu mà lại vứt bỏ thuộc hạ để tháo chạy thì chẳng hay ho chút nào. Set!"
 
 "Grrr!"
 
-Đáp lại tiếng gọi của Rei, Set cất tiếng gầm vang dội rồi bổ nhào xuống mặt đất. Mục tiêu nhắm tới không phải toán quân đang toan trốn chạy khỏi làng Orc... mà là nhóm mạo hiểm giả xâm nhập từ phía tây đang ở ngay đằng trước chúng.
+Đáp lại tiếng gọi của Rei, Set cất tiếng gầm vang dội rồi bổ nhào xuống mặt đất. Mục tiêu nhắm tới không phải toán quân đang toan trốn chạy khỏi bộ lạc Orc... mà là nhóm mạo hiểm giả xâm nhập từ phía tây đang ở ngay đằng trước chúng.
 
-Bầu không khí hầm hập như một đêm nhiệt đới thực thụ dưới sức nóng từ ngôi làng đang bốc cháy bị xé toạc khi Set đáp xuống mặt đất.
+Bầu không khí hầm hập như một đêm nhiệt đới thực thụ dưới sức nóng từ bộ lạc đang bốc cháy bị xé toạc khi Set đáp xuống mặt đất.
 
 "Oái!"
 
@@ -42,7 +42,7 @@ Bầu không khí hầm hập như một đêm nhiệt đới thực thụ dư�
 
 "Này, đừng có làm người ta thót tim thế chứ."
 
-Người vừa cất lời là một nữ chiến binh... à không, một nữ kiếm sĩ khoảng ngoài hai mươi tuổi. Trên tay cô cầm một thanh kiếm sáng loáng, khoác bộ giáp da gọn gàng không cản trở cử động. Bên cạnh cô là một người đàn ông trung niên tầm tứ tuần trong chiếc áo choàng ma pháp, tay cầm gậy phép. Và đứng phía sau họ, vừa thở phào nhẹ nhõm vừa hạ cây cung xuống, là một thiếu nữ tóc ngắn chỉ trạc mười mấy tuổi, trông chỉ nhỉnh hơn Rei một chút. Cô bé cũng khoác một bộ giáp da gọn nhẹ tương tự.
+Người vừa cất lời là một nữ chiến binh... à không, một nữ kiếm sĩ khoảng ngoài hai mươi tuổi. Trên tay cô cầm một thanh kiếm sáng loáng, khoác bộ giáp da gọn gàng không cản trở cử động. Bên cạnh cô là một người đàn ông trung niên khoảng bốn mươi tuổi khoác áo choàng, tay cầm gậy phép. Và đứng phía sau họ, vừa thở phào nhẹ nhõm vừa hạ cây cung xuống, là một thiếu nữ tóc ngắn chỉ trạc mười mấy tuổi, trông chỉ nhỉnh hơn Rei một chút. Cô bé cũng khoác một bộ giáp da gọn nhẹ tương tự.
 
 Đây chính là Cơn Gió Rực Lửa, tổ đội đạt Hạng Tổ Đội C, gồm đội trưởng là nữ kiếm sĩ cùng ma pháp sư trung niên đều ở Hạng C, còn cô thiếu nữ cầm cung thuộc Hạng D.
 
@@ -50,7 +50,7 @@ Người vừa cất lời là một nữ chiến binh... à không, một nữ 
 
 Nữ kiếm sĩ Milein đưa tay xoa đầu Set. Nhìn cảnh đó, người đàn ông ma pháp sư tên Sulunin khẽ thở dài rồi quay sang bắt chuyện với Rei.
 
-"Vậy, sao hai cậu lại tới đây? Tôi nhớ các cậu phụ trách vai trò cơ động ứng cứu cơ mà. Như cậu thấy đấy, chúng tôi đang trên đường tiến vào trung tâm ngôi làng, ở đây chẳng có giao tranh nào cả."
+"Vậy, sao hai cậu lại tới đây? Tôi nhớ các cậu phụ trách vai trò cơ động ứng cứu cơ mà. Như cậu thấy đấy, chúng tôi đang trên đường tiến vào trung tâm bộ lạc, ở đây chẳng có giao tranh nào cả."
 
 "Mà, bọn em cũng đụng độ vài trận trên đường tới đây rồi đấy chứ."
 
@@ -88,7 +88,7 @@ Khoảnh khắc nhìn thấy cảnh tượng đó, Milein hét lên báo động
 
 Vừa thầm thán phục trong bụng, Rei và Set cũng vào tư thế chiến đấu quen thuộc.
 
-Rei thủ sẵn Lưỡi Hái Tử Thần, sẵn sàng tung ra những nhát chém hay ma thuật bất cứ lúc nào. Set thì chực chờ cất cánh để có thể yểm trợ cho cậu từ trên không.
+Rei thủ sẵn Lưỡi Hái Tử Thần, sẵn sàng tung ra những nhát chém hay ma pháp bất cứ lúc nào. Set thì chực chờ cất cánh để có thể yểm trợ cho cậu từ trên không.
 
 "...Tới rồi."
 
@@ -100,13 +100,13 @@ Năm con Orc thông thường, một con Orc Archer cầm cung, một con Orc Ma
 
 Milein lẩm bẩm trong khi mồ hôi lạnh rịn ra trên trán. Cô thừa hiểu nếu chỉ có ba người bọn họ đụng độ trực diện với toán quân này thì chắc chắn chẳng có cửa thắng. Dù tác chiến khéo léo đến đâu đi nữa, Cơn Gió Rực Lửa cũng khó tránh khỏi thương vong vài người, thậm chí tệ hơn là bị quét sạch toàn bộ.
 
-Thế nhưng nơi này lại có sự hiện diện của chú Griffin Set — một quái vật Hạng A. Thêm vào đó, dù chưa từng tận mắt chứng kiến cậu chiến đấu, cô cũng biết tin đồn Rei đã một tay đả bại cả tổ đội Hạng D Móng Vuốt Chim Ưng.
+Thế nhưng ở đây lại có chú Griffin Set, một quái vật Hạng A. Thêm vào đó, dù chưa từng tận mắt chứng kiến cậu chiến đấu, cô cũng biết tin đồn Rei đã một tay đả bại cả tổ đội Hạng D Móng Vuốt Chim Ưng.
 
 Tuy nhiên, dẫu chín con Orc đã xuất hiện, Rei vẫn tiếp tục dõi mắt nhìn sâu vào màn đêm. Thấy lạ trước biểu cảm của cậu, Milein nhìn theo hướng mắt Rei, để rồi bắt gặp một bóng đen từ từ trồi lên khỏi bóng tối như thể một sinh vật nhầy nhụa bò ra.
 
 Bóng dáng ấy còn đồ sộ hơn cả con Orc General vốn đã to con, chiều cao vượt quá ba mét. Hơn nữa, nó khoác trên mình bộ giáp trụ trông hết sức lộng lẫy, còn bàn tay hộ pháp thì nắm chặt một thanh đại kiếm có vẻ là ma pháp kiếm. Nhưng trên hết chính là khí chất uy nghiêm, áp lực nặng nề cùng sát khí ngùn ngụt toát ra từ nó hoàn toàn khác biệt so với những con Orc khác.
 
-Trông thấy con Orc như thế, Milein vừa gần như bị áp đảo tinh thần vừa cất tiếng hỏi Sulunin — túi khôn của cả nhóm.
+Trông thấy con Orc như thế, Milein vừa gần như bị áp đảo tinh thần vừa cất tiếng hỏi Sulunin, túi khôn của cả nhóm.
 
 "Sulunin, anh có biết con Orc đó không? Trong số những chủng Orc tôi từng biết thì chẳng có con nào như thế cả... Tôi thấy điềm chẳng lành rồi đấy."
 
@@ -158,7 +158,7 @@ Thở dài một tiếng trong lòng, cậu quay sang nhìn Milein.
 
 "...Thế nếu tôi bảo không thì sao?"
 
-"Thế thì tôi và Set sẽ lập tức rời khỏi đây. Ba người các cô tự xoay xở với lũ Orc đó đi."
+"Thế thì tôi và Set sẽ lập tức rời khỏi đây. Ba người tự mà xoay xở với lũ Orc đó đi."
 
 Rei buông lời dứt khoát, chẳng chút ngần ngại bỏ mặc họ lại.
 
@@ -166,7 +166,7 @@ Nét mặt cậu thản nhiên đến mức quá đủ để Milein hiểu rằn
 
 "Chị Milein."
 
-Người khẽ gọi là Ekril. Dù đã bình tĩnh hơn lúc mới trông thấy Orc King, nhưng nỗi sợ hãi khi phải đối đầu với một kẻ địch vượt tầm đẳng cấp dường như vẫn chưa thể tan biến hoàn toàn. Hơn nữa, một phần lý do khiến Ekril trấn tĩnh lại là nhờ có Griffin, sinh vật thuộc cấp bậc cao hơn cả Orc King đang tỏa ra sự hiện diện áp đảo kia, đang đứng về phe mình. Nếu Milein từ chối đề xuất của Rei, rồi Rei cùng Set bỏ mặc nơi này rời đi... Nghĩ tới viễn cảnh đó, cô bé không khỏi sốt vó, bất giác cất tiếng gọi Milein.
+Người khẽ gọi là Ekril. Dù đã bình tĩnh hơn lúc mới trông thấy Orc King, nhưng nỗi sợ hãi khi phải đối đầu với một kẻ địch vượt tầm đẳng cấp dường như vẫn chưa thể tan biến hoàn toàn. Hơn nữa, một phần lý do khiến Ekril trấn tĩnh lại là nhờ phe mình có Griffin, sinh vật ở cấp bậc còn cao hơn cả con Orc King đang tỏa ra uy thế áp đảo kia. Nếu Milein từ chối đề xuất của Rei, rồi Rei cùng Set bỏ mặc nơi này rời đi... Nghĩ tới viễn cảnh đó, cô bé đứng ngồi không yên, bất giác cất tiếng gọi Milein.
 
 Dĩ nhiên, với tư cách là đội trưởng, Milein cảm nhận được ngay nỗi lòng của cô bé nên khẽ thở dài.
 
@@ -188,8 +188,8 @@ Rei cất giọng giục câu trả lời. Dù trong lòng có chút hoang mang 
 
 "Gùuu."
 
-Set kêu khẽ một tiếng đáp lại lời Rei. Cho tới khi cậu lên tiếng, nó vẫn giữ vai trò của một quái vật Hạng A Griffin để kiềm tỏa bầy Orc.
+Set kêu khẽ một tiếng đáp lại lời Rei. Cho tới khi cậu lên tiếng, nó vẫn dùng uy thế quái vật Hạng A của loài Griffin để kiềm tỏa bầy Orc.
 
 Ngay cả lũ Orc dường như cũng cảm nhận theo bản năng rằng con Griffin sừng sững trước mặt không phải đối thủ tầm thường, khiến chúng rơi vào thế tiến thoái lưỡng nan, chẳng dám khinh suất manh động.
 
-Cứ thế, cùng với Cơn Gió Rực Lửa, trận chiến cuối cùng của Rei và Set tại ngôi làng Orc chính thức bắt đầu.
+Cứ thế, cùng với Cơn Gió Rực Lửa, trận chiến cuối cùng của Rei và Set tại bộ lạc Orc chính thức bắt đầu.

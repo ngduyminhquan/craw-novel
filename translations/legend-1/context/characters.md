@@ -130,7 +130,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Trạng thái: Bị Rei chém đứt đôi người tiêu diệt ở chương 34 khi toan tập kích cướp Hộp Vật Phẩm.
 
 ### Milein
-- Nữ kiếm sĩ khoảng 25 tuổi, tóc ngắn gọn gàng, mặc giáp da nhẹ, tính tình bộc trực, phóng khoáng, rất mê Set
+- Nữ kiếm sĩ khoảng 25 tuổi, mặc giáp da nhẹ, tính tình bộc trực, phóng khoáng, rất mê Set.
+- Cách nói chuyện: với Sulunin xưng 'tôi', gọi 'Sulunin / anh'.
 
 ### Sulunin
 - Khoảng 40 tuổi, mặc áo choàng pháp sư mang gậy phép, tính tình điềm tĩnh, cẩn trọng, ăn nói lịch thiệp

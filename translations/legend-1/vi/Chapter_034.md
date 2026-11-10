@@ -1,10 +1,10 @@
 # Chương 34: Đột kích bộ lạc Orc (34)
 
-Người đàn ông đang tựa lưng vào căn chòi của Orc, vừa cảnh giác trước nguy cơ địch tập kích nhưng nom vẫn như đang ngồi nghỉ ngơi. Nhắm thẳng vào người đó, Snee đang giương căng dây cung.
+Chàng trai đang tựa lưng vào căn chòi của Orc trông như đang ngồi nghỉ ngơi dù vẫn cảnh giác đề phòng địch tập kích. Snee giương căng dây cung, nhắm thẳng vào mục tiêu đó.
 
 (Rốt cuộc dù có thuần hóa được Griffin đi chăng nữa thì thực lực của bản thân cũng chỉ đến thế mà thôi. Bị cung tên nhắm vào thế này mà ngay cả một chút sát khí cũng không cảm nhận nổi. Thật là, Al cứ khéo lo quá mức rồi đấy.)
 
-Hoàn tất việc chuẩn bị để có thể bắn tên bất cứ lúc nào, ả liếc mắt nhìn về phía Ceryl đang ở trên nóc căn nhà đối diện.
+Chuẩn bị xong xuôi để có thể buông tên bất cứ lúc nào, ả liếc mắt nhìn về phía Ceryl đang ở trên nóc căn nhà đối diện.
 
 Đón lấy ánh nhìn của Snee, Ceryl khẽ gật đầu. Đó là ám hiệu báo rằng Al và Murgas cũng đã chuẩn bị xong xuôi.
 
@@ -28,11 +28,11 @@ Ngay khoảnh khắc sau, tiếng của Ceryl từ trên nóc căn nhà đối d
 
 Vừa lắng nghe ba loại tiếng bước chân đang tiến lại gần, Rei vừa dò tìm vị trí của tên đạo tặc.
 
-Chiến sĩ và đạo tặc có thân thủ cùng trọng lượng trang bị khác nhau, nên tiếng bước chân cũng có sự chênh lệch tinh tế. Cậu đang phân biệt điều đó.
+Chiến sĩ và đạo tặc khác nhau về thân thủ lẫn sức nặng trang bị, nên tiếng bước chân cũng có đôi chút khác biệt. Cậu đang lắng tai phân biệt chính điểm đó.
 
 (Bên trái, hả.)
 
-Chính diện là Ceryl. Kẻ đang áp sát từ bên phải, dựa vào tiếng bước chân và tốc độ chạy, cậu phán đoán là Al - chiến sĩ còn lại của Ngôi Sao Màn Đêm mang trang bị nặng, rồi siết chặt Lưỡi Hái Tử Thần trong tay trong tư thế vẫn nằm trên mặt đất.
+Chính diện là Ceryl. Dựa vào tiếng bước chân và tốc độ chạy, cậu đoán kẻ đang áp sát từ bên phải là Al, chiến sĩ mặc giáp nặng còn lại của Ngôi Sao Màn Đêm; vẫn nằm nguyên trên mặt đất, cậu siết chặt Lưỡi Hái Tử Thần trong tay.
 
 Tốc độ di chuyển giữa chiến sĩ và đạo tặc đương nhiên có sự chênh lệch, và kẻ đầu tiên tiếp cận vị trí của Rei là Murgas, tên đạo tặc mang trang bị nhẹ nhất trong nhóm Ngôi Sao Màn Đêm.
 
@@ -58,7 +58,7 @@ Có lẽ trong thoáng chốc gã không thể tin nổi mình vừa bị tấn 
 
 Ceryl vốn đinh ninh rằng Đạo Cụ Ma Thuật lớn nhất Rei sở hữu chỉ có chiếc Nhẫn Sương Mù là Hộp Vật Phẩm. Do đó, ả tuyệt nhiên không ngờ rằng chiếc Áo Choàng Rồng cậu khoác trên người hàng ngày lại là một Đạo Cụ Ma Thuật phẩm cấp tối thượng hiếm có khó tìm khắp Vương quốc Mireana... thậm chí là khắp cả lục địa Elgin, nên cứ đinh ninh đòn vừa giáng vào Murgas chỉ là sự vùng vẫy trong tuyệt vọng của kẻ sắp chết sau khi trúng phát tên chí mạng của Snee.
 
-Hoặc cũng có thể không thể trách ả được. Dù sao thì Áo Choàng Rồng đã được Esta Noor, một Giả Kim Thuật Sư đỉnh cao của thế giới thời bấy giờ thuộc môn phái Zepairu, yểm hiệu ứng che giấu nhằm ngăn người khác nhìn thấu giá trị thực của nó. Đòi hỏi một mạo hiểm giả vùng biên cảnh chỉ cỡ Hạng C nhìn thấu được điều đó thì đúng là chuyện không tưởng.
+Mà nghĩ vậy cũng chẳng thể trách ả được. Dù sao thì Áo Choàng Rồng đã được Esta Noor, một Giả Kim Thuật Sư đỉnh cao của thế giới thời bấy giờ thuộc môn phái Zepairu, yểm hiệu ứng che giấu nhằm ngăn người khác nhìn thấu giá trị thực của nó. Đòi hỏi một mạo hiểm giả vùng biên cảnh chỉ cỡ Hạng C nhìn thấu được điều đó thì đúng là chuyện không tưởng.
 
 Trong đầu thoáng nghĩ qua điều đó, Rei mượn phản lực từ cú chém lìa hai mắt cá chân Murgas của Lưỡi Hái Tử Thần để bật dậy. Cứ thế tiến lại gần Murgas đang lăn lộn dưới đất, cậu vung lưỡi hái múc sát mặt đất, chém đứt đôi thân mình Murgas đang gào khóc thảm hại.
 
@@ -76,7 +76,7 @@ Bật ra tiếng kêu nghẹn lại, nội tạng như dạ dày và ruột từ
 
 "...Chết tiệt, em biết rồi!"
 
-Hai kẻ đồng loạt vung kiếm chém tới từ phía trước và bên phải. Nhận thấy Ceryl - thủ lĩnh Ngôi Sao Màn Đêm - là kẻ khó xơi hơn, Rei quyết định nhắm vào Al trước để giảm bớt số lượng đối thủ một cách chắc chắn; cậu dùng cán Lưỡi Hái Tử Thần hất tung mớ nội tạng của Murgas đang vương vãi quanh mình bay thẳng về phía Al.
+Hai kẻ đồng loạt vung kiếm chém tới từ phía trước và bên phải. Nhận thấy Ceryl, thủ lĩnh Ngôi Sao Màn Đêm, là kẻ khó xơi hơn, Rei quyết định nhắm vào Al trước để chắc chắn loại bớt quân số đối thủ; cậu dùng cán Lưỡi Hái Tử Thần hất tung mớ nội tạng của Murgas đang vương vãi quanh mình bay thẳng về phía Al.
 
 "Chậc!"
 
@@ -94,7 +94,7 @@ Ceryl lăm lăm trường kiếm vừa hét lớn vừa lao về phía Al, nhưn
 
 (Chết tiệt, chị đại không kịp tới rồi. Kiếm của mình cũng không về kịp... Chẳng lẽ đời mình lại kết thúc ở một nơi thế này sao!)
 
-Có lẽ do sự hiện diện mang lại cái chết đang cận kề ngay trước mắt, đầu óc Al xoay chuyển nhanh chưa từng thấy; gã tự hỏi ý nghĩa cuộc đời mình đã sống là gì, hối hận vì đã nghe theo lời xúi giục ngon ngọt của Ceryl mà tấn công Rei...
+Có lẽ vì cái chết đã cận kề ngay trước mắt, đầu óc Al xoay chuyển nhanh chưa từng thấy; gã tự hỏi ý nghĩa cuộc đời mình đã sống là gì, hối hận vì đã nghe theo lời xúi giục ngon ngọt của Ceryl mà tấn công Rei...
 
 "Ngu thế, đừng có bỏ cuộc!"
 
@@ -120,13 +120,13 @@ Lắng nghe màn trao đổi của hai kẻ kia, nơi khóe môi Rei khẽ nở 
 
 Vừa vung vẩy Lưỡi Hái Tử Thần vun vút trong tay vừa khóa chặt hai kẻ trước mắt, Rei cũng không quên để mắt tới động thái của cung thủ Snee.
 
-Phát bắn bằng cung vừa rồi xét về mặt thời điểm thì chuẩn xác không chê vào đâu được. Nhờ sở hữu năng lực thể chất gần như vượt khỏi giới hạn con người mà Rei mới né được đòn tấn công, chứ nếu là người bình thường thì mười mươi đã lãnh trọn những mũi tên ấy vào người.
+Loạt tên vừa rồi căn đúng thời điểm chuẩn xác không chê vào đâu được. Nhờ sở hữu năng lực thể chất gần như vượt khỏi giới hạn con người mà Rei mới né được đòn tấn công, chứ nếu là người bình thường thì mười mươi đã lãnh trọn những mũi tên ấy vào người.
 
-(Và điều đáng ngạc nhiên hơn cả là ả đã dùng tên Al kia làm mồi nhử một cách rõ ràng. Nhân lúc mình vung Lưỡi Hái Tử Thần, ả nhắm vào khoảnh khắc sơ hở ngắn ngủi ấy để tấn công, thế nhưng miệng vẫn hét bảo không được bỏ cuộc, còn tên kia thì hành động để đáp lại tiếng gọi đó. ...Ra vậy. Sự tin tưởng sao.)
+(Và điều đáng ngạc nhiên hơn cả là ả rõ ràng đã dùng tên Al kia làm mồi nhử. Nhân lúc mình vung Lưỡi Hái Tử Thần, ả nhắm vào khoảnh khắc sơ hở ngắn ngủi ấy để tấn công, thế nhưng miệng vẫn hét bảo không được bỏ cuộc, còn tên kia thì hành động để đáp lại tiếng gọi đó. ...Ra vậy. Sự tin tưởng sao.)
 
 Kể từ khi tham gia nhiệm vụ thảo phạt này, Rei luôn đinh ninh Ngôi Sao Màn Đêm chỉ là một tổ đội chẳng khác gì lũ du côn. Thực tế thì nguyên tắc hành động của bọn chúng đúng là côn đồ thật, song lúc này cậu mới lần đầu hiểu ra rằng sự tin tưởng giữa các thành viên trong tổ đội là có thật.
 
-(Dù vậy, mình cũng chẳng thể ngoan ngoãn đứng yên cho chúng giết được. Kể từ lúc bọn mày đánh lén tao thì cái chết của bọn mày đã được ấn định rồi.)
+(Dù vậy, tao cũng chẳng thể ngoan ngoãn đứng yên cho bọn mày giết được. Kể từ lúc bọn mày đánh lén tao thì cái chết của bọn mày đã được ấn định rồi.)
 
 Al vừa thoát chết trong gang tấc, mồ hôi lạnh rịn ra trên trán nhưng vẫn rình rập sơ hở của Rei. Đồng thời, Ceryl bên cạnh gã cũng vậy. Từ phía sau lưng, Snee đang giương cung chực chờ phóng tên ngay khi Rei để lộ sơ hở.
 
@@ -134,7 +134,7 @@ Nắm lấy đoạn giữa cán Lưỡi Hái Tử Thần để kiềm chế kẻ
 
 (Trong tình huống này, kẻ phiền toái nhất không phải là hai tên cận chiến, mà là ả đàn bà tên Snee có thể yểm trợ từ tầm xa kia.)
 
-Vừa múa Lưỡi Hái Tử Thần, Rei vừa liếc nhìn về phía Snee. Đó là trên mái một ngôi nhà do lũ Orc dựng nên, bình thường thì đòn tấn công khó lòng với tới đó. Dù có dùng ma pháp Hỏa đi chăng nữa, Ceryl và Al cũng chẳng đời nào cho cậu khoảng trống để niệm chú. Đúng vậy, không có cách nào tấn công Snee cả. Nếu là người bình thường... thì là vậy. Thế nhưng sự tồn tại của Rei lại tuyệt đối không thể gọi là bình thường.
+Vừa múa Lưỡi Hái Tử Thần, Rei vừa liếc nhìn về phía Snee. Đó là trên mái một ngôi nhà do lũ Orc dựng nên, bình thường thì đòn tấn công khó lòng với tới đó. Dù có dùng ma pháp Hỏa đi chăng nữa, Ceryl và Al cũng chẳng đời nào cho cậu khoảng trống để niệm chú. Đúng vậy, không có cách nào tấn công Snee cả. Nếu là người bình thường... thì là vậy. Thế nhưng bản thân Rei lại tuyệt đối không thể gọi là người bình thường.
 
 Vận dụng lực ly tâm khi múa Lưỡi Hái Tử Thần, cậu dùng phần cán xới tung mặt đất, hắt đất đá vào mặt hai kẻ trước mắt làm đòn nghi binh che mắt rồi nhảy lùi mạnh về phía sau.
 
