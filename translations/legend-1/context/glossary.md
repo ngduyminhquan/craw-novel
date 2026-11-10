@@ -40,3 +40,10 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ギルム | | Gilm | địa danh | 10 | Thành phố biên giới nơi Rei đăng ký làm mạo hiểm giả |
 | ギルドカード | | Thẻ Hội | vật phẩm | 12 | Thẻ chứng nhận của mạo hiểm giả |
 | 夕暮れの小麦亭 | | Hoàng Hôn Mạch Đình | địa danh | 15 | Nhà trọ nơi Rei và Set trọ lại ở thành phố Gilm |
+| 地術 |  | Địa Thuật | kỹ năng | 2 | Ma thuật hệ đất trong 12 hệ ma thuật của môn phái Zepairu |
+| 水術 |  | Thủy Thuật | kỹ năng | 2 | Ma thuật hệ nước trong 12 hệ ma thuật của môn phái Zepairu |
+| 風術 |  | Phong Thuật | kỹ năng | 2 | Ma thuật hệ gió trong 12 hệ ma thuật của môn phái Zepairu |
+| 光術 |  | Quang Thuật | kỹ năng | 2 | Ma thuật hệ ánh sáng trong 12 hệ ma thuật của môn phái Zepairu |
+| 闇術 |  | Ám Thuật | kỹ năng | 2 | Ma thuật hệ bóng tối trong 12 hệ ma thuật của môn phái Zepairu |
+| 火術 |  | Hỏa Thuật | kỹ năng | 2 | Ma thuật hệ lửa đứng đầu 12 hệ ma thuật của môn phái Zepairu |
+| アイテムストレージ | Item Storage | Kho Lưu Trữ Vật Phẩm | hệ thống | 2 | Dạng không gian ma thuật lưu trữ vật phẩm |
