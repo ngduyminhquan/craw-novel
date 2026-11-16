@@ -82,7 +82,7 @@ Cậu vung mạnh Lưỡi Hái Tử Thần một đường để rũ sạch máu
 
 Nếu đối thủ là quái vật thì từ bước này sẽ chuyển sang mổ xẻ lấy nguyên liệu, nhưng dĩ nhiên chẳng có thứ nguyên liệu nào thu được từ con người, nên cậu cũng không cần phải làm cái trò quái đản là mổ xẻ xác người.
 
-(Mà dẫu sao thì đám bán nhân như Orc vẫn bị mổ xẻ đấy thôi, nên cảm giác này rốt cuộc cũng chỉ là chút cảm tính của con người mà thôi.)
+(Dẫu sao thì đám bán nhân như Orc vẫn bị mổ xẻ đấy thôi, nên cảm giác này rốt cuộc cũng chỉ là chút đa cảm của con người mà thôi.)
 
 "Ừ. Tôi không ngờ lại phải đối đầu với ba mươi tên... Thế rồi, giờ tính sao đây?"
 
@@ -92,7 +92,7 @@ Superbia vừa tiến lại gần Rei vừa cất tiếng hỏi.
 
 "Hả? Mắc mớ gì phải làm cái trò phiền phức đó chứ."
 
-Nghe lời Rei, Arogan cất giọng cằn nhằn với vẻ mặt đầy vẻ ngán ngẩm.
+Nghe lời Rei, Arogan cất giọng cằn nhằn với bộ dạng đầy ngán ngẩm.
 
 Nơi điệu bộ của gã, chút dấu vết bàng hoàng lúc lần đầu đoạt mạng người trong trận chiến khi nãy đã chẳng còn sót lại dù chỉ một mảy may.
 
@@ -156,7 +156,7 @@ Một người đàn ông trạc hai mươi tuổi đang nấp sau lưng cô c�
 
 Trên cánh tay phải của Culotte có một vết chém do đao kiếm gây ra, hiện mới chỉ được sơ cứu bằng cách quấn tạm một dải vải. Vốn dĩ cô rất muốn dùng thuốc hồi phục để chữa trị, ngặt nỗi lần này Culotte chỉ mang theo vỏn vẹn một lọ. Trong khi đó, trong số các thương nhân bị giam giữ lại có người bị thương khá nặng lúc bị bọn cướp tấn công.
 
-Vì thế cô đã dùng thuốc hồi phục cho người đó, còn vết thương mình phải chịu khi giao chiến với tên gác ngục giam thương nhân thì chỉ được cầm máu sơ sài.
+Vì thế cô đã dùng thuốc hồi phục cho người đó, còn vết thương mình phải chịu khi giao chiến với tên cướp canh giữ đám thương nhân thì chỉ được cầm máu sơ sài.
 
 "Thành thật xin lỗi cô, nếu lấy lại được số hàng hóa bị cướp thì trong đó cũng có thuốc hồi phục đấy ạ."
 
@@ -198,7 +198,7 @@ Cả hai nhìn nhau cười trừ. Nhờ gắn bó bên nhau đã lâu nên cả
 
 Scola nhanh chóng thu lại nụ cười gượng, tập trung tinh thần vào cánh tay của Culotte rồi bắt đầu cất lời niệm chú.
 
-[Hỡi dòng nước, hãy mang ma lực từ ái mà ban sự chữa lành cho người này]
+[Hỡi dòng nước, hãy mang ma lực từ ái mà ban sự chữa lành cho người này.]
 
 Theo từng lời chú của Scola cất lên, một luồng ánh sáng xanh lam tụ lại nơi đầu gậy phép, rồi chầm chậm di chuyển sang cánh tay phải của Culotte.
 
@@ -220,7 +220,7 @@ Trước lời khen của người đàn ông trung niên, Scola hơi ửng đ�
 
 "Ừ. Ôi, mọi người ai cũng cừ lắm. Nhất là Rei, chắc là nhờ Đạo Cụ Ma Thuật nào đó, nhưng cậu ấy chạy trên không trung luôn đấy."
 
-"...Đúng là lúc nào cũng nằm ngoài quy chuẩn. Thôi, tạm gác chuyện đó qua một bên, tôi hiểu tình hình rồi. Để phòng hờ thì cậu cũng đi theo đi. Hai người đằng kia cũng đi nào. Mọi người muốn lấy lại hành lý của mình đúng không?"
+"...Đúng là lúc nào cũng nằm ngoài quy chuẩn. Thôi, tạm gác chuyện đó qua một bên, tôi hiểu tình hình rồi. Để phòng hờ thì cậu cũng đi theo đi. Hai người đằng kia cũng đi nào. Hai người muốn lấy lại hành lý của mình đúng không?"
 
 Nghe Culotte nói vậy, hai người thương nhân không khỏi tròn xoe mắt kinh ngạc. Điều đó cũng dễ hiểu, bởi lẽ thông thường hàng hóa bị cướp đoạt muốn lấy lại thì phải trả một khoản thù lao tương xứng.
 

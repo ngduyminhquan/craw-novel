@@ -14,7 +14,7 @@ Superbia đâm kiếm xuyên qua con dơi khổng lồ dài chừng một mét v
 
 "Hừ, tôi thì chẳng hiểu nổi sao mấy người lại đi tin tưởng cái thứ quái vật đó nữa."
 
-"Này nhé. Có cằn nhằn thì đi mà nói trước mặt cậu ấy ấy, đừng trút lên bọn tôi. Đứng trước mặt Rei thì ngoan như cún, hễ cậu ấy vắng mặt là lại giở giọng vênh váo."
+"Này nhé. Có cằn nhằn thì đi mà nói thẳng với cậu ấy đi, đừng trút lên bọn tôi. Đứng trước mặt Rei thì ngoan như cún, hễ cậu ấy vắng mặt là lại giở giọng vênh váo."
 
 "Cái gì cơ!?"
 
@@ -26,13 +26,13 @@ Có điều, gã vừa đi vừa cằn nhằn.
 
 Đúng vậy. Hiện tại chỉ có ba người Arogan, Superbia và Culotte đang tiến bước trong rừng đêm. Dĩ nhiên không phải Rei, Scola và Filma đang nghỉ ngơi ở phía sau. Ba người còn lại đang di chuyển tới vị trí thích hợp để bắn tỉa mà không bị lũ cướp canh gác phát hiện, theo đúng kế hoạch đã bàn ban ngày. Nhóm ba người này tách ra đi riêng là nhằm mục đích nhanh chóng áp sát kết liễu lính gác nếu đòn bắn tỉa từ xa thất bại, thế nhưng...
 
-"Mà bắn tỉa trượt một cái là lính gác báo động cho bọn bên trong ngay chứ gì nữa. Lúc đó bắt bọn mình giải quyết thì làm thế quái nào được. Ngay từ đầu cứ cùng áp sát với bọn mình rồi hẵng bắn tỉa chẳng phải tốt hơn sao."
+"Mà bắn tỉa trượt một cái là lính gác báo động cho bọn bên trong ngay chứ gì nữa. Lúc đó bắt bọn tôi giải quyết thì làm thế quái nào được. Ngay từ đầu cứ cùng áp sát với bọn tôi rồi hẵng bắn tỉa chẳng phải tốt hơn sao."
 
 "Thế nên Rei mới bảo chỉ là phòng hờ thôi. Thay vì cằn nhằn thì nhìn xem, sắp ra khỏi rừng rồi đấy. Chưa cần biết lính gác có báo vào trong hay không, nếu chúng ta bị phát hiện trước thì coi như xong đời. Vả lại nhóm bắn tỉa phải đi riêng cũng là bất khả kháng. Tạm gác Ranger Filma và một Rei đầy bí ẩn qua một bên, Scola là ma pháp sư thuần túy, làm sao tiếp cận ở cự ly gần mà không bị lũ cướp phát hiện được."
 
 Nghe Superbia nói vậy với Arogan, Culotte nở một nụ cười ranh mãnh rồi nói chen vào.
 
-"Ừ nhỉ, nếu chúng mình bị phát hiện thì không biết Arogan, người vốn đã bị Rei để mắt nghiêm ngặt, sẽ ra sao đây ta. Tự dưng tôi cũng muốn thấy cảnh đó ghê."
+"Ừ nhỉ, nếu chúng ta bị phát hiện thì không biết Arogan, người vốn đã bị Rei để mắt nghiêm ngặt, sẽ ra sao đây ta. Tự dưng tôi cũng muốn thấy cảnh đó ghê."
 
 "Này, đùa cũng đừng có nói gở mồm như thế chứ. Thôi được rồi, tôi nghiêm túc là được chứ gì."
 
@@ -66,7 +66,7 @@ Tại điểm bắn tỉa cách nhóm Culotte một quãng, Filma vừa quan sá
 
 Cũng chẳng trách được, bởi lính gác đập vào mắt cô lại đang ngồi bệt trò chuyện cười đùa, chẳng làm tròn bổn phận chút nào.
 
-"Nhưng với bọn mình thì thế lại đỡ quá còn gì, đâu việc gì phải trách họ chứ?"
+"Nhưng với chúng ta thì thế lại đỡ quá còn gì, đâu việc gì phải trách chúng chứ?"
 
 "Tôi biết là vậy, nhưng mà..."
 
@@ -142,7 +142,7 @@ Thế nhưng với Arogan, hành động giết người... nhất là khi bản
 
 "T-Tôi hiểu rồi!"
 
-Nhìn theo bóng lưng Culotte lướt nhanh vào trong hang thay cho mình, Superbia tiến lại gần tên lính gác đang lăn lộn quằn quại vì đau đớn và nghẹt thở, rồi thản nhiên vung thanh kiếm dài chém thẳng vào cổ hắn.
+Nhìn theo bóng lưng Culotte đổi chỗ với mình để lách nhanh vào trong hang, Superbia tiến lại gần tên lính gác đang lăn lộn quằn quại vì đau đớn và nghẹt thở, rồi thản nhiên vung thanh kiếm dài chém thẳng vào cổ hắn.
 
 "Ặc!"
 

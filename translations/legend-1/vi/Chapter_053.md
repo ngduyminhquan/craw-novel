@@ -34,7 +34,7 @@ Superbia đang đi đầu giơ tay ra hiệu dừng lại rồi lùi về phía 
 
 Nghe chỉ thị của Rei, tất cả đều gật đầu tán thành. Superbia và Arogan rút vũ khí sẵn sàng lao vào bất cứ lúc nào, Filma giương cung, còn Scola bắt đầu niệm chú.
 
-Thấy vậy, Rei cũng dắt thanh Dao Mithril cầm ban nãy lại vào hông vì vũ khí cán dài khó xoay xở trong lối đi hẹp, rồi lấy từ Nhẫn Sương Mù ra Lưỡi Hái Tử Thần vốn là vật phát động ma pháp của mình.
+Do vũ khí cán dài khó xoay xở trong lối đi hẹp nên nãy giờ Rei chỉ cầm Dao Mithril; thấy mọi người đã sẵn sàng, cậu liền dắt dao lại vào hông rồi lấy từ Nhẫn Sương Mù ra Lưỡi Hái Tử Thần vốn là vật phát động ma pháp của mình.
 
 [Hỡi ngọn lửa, hãy thuận theo ý ta mà thiêu rụi kẻ thù.]
 
@@ -116,7 +116,7 @@ Thế nhưng...
 
 Keng! Một tiếng kim loại chát chúa vang lên, lưỡi rìu bổ xuống đầu bị lưỡi hái của Lưỡi Hái Tử Thần đón đỡ.
 
-...Không, chẳng cần đỡ đòn, chiếc rìu chém trúng sống lưng bên ngoài của lưỡi hái vốn đã được truyền ma lực, rồi lập tức bị trọng lượng gia cố bằng ma lực của Lưỡi Hái Tử Thần phạt gãy làm đôi.
+...Không, chẳng cần đỡ đòn, chiếc rìu chém trúng phần rìa ngoài của lưỡi hái vốn đã được truyền ma lực, rồi lập tức bị sức nặng của Lưỡi Hái Tử Thần đã cường hóa bằng ma lực phạt gãy làm đôi.
 
 "Làm sao có thể chứ!?"
 
@@ -126,7 +126,7 @@ Trước cảnh tượng không tưởng ấy, tên cướp sững sờ khựng 
 
 Thân mình đứt lìa thành hai mảnh trên dưới, tên cướp kết thúc cuộc đời tại chỗ.
 
-(Nói thì nói vậy, nhưng trong cảnh hỗn chiến thế này chẳng biết chuyện gì sẽ xảy ra. Tốt hơn hết là dùng biện pháp phòng hờ).
+(Nói thì nói vậy, nhưng trong cảnh hỗn chiến thế này chẳng biết chuyện gì sẽ xảy ra. Tốt hơn hết là dùng biện pháp phòng hờ.)
 
 Thầm nhủ trong lòng, cậu kích hoạt kỹ năng vừa mới đạt được mấy hôm trước.
 
@@ -164,7 +164,7 @@ Tiếng thét như xé lòng phát ra từ miệng Filma, bởi cô vừa phát 
 
 Cô lập tức giương cung nhắm vào tên đó, nhưng chậm mất một nhịp, mũi tên của gã đã rời dây cung.
 
-Mũi tên của Filma cắm xuyên đầu tên cướp khiến gã chết ngay tắp lự, nhưng không ngăn được phát bắn của gã. Trong đầu Filma thoáng hiện lên cảnh tượng Rei bị trúng tên. Thế nhưng.
+Mũi tên của Filma cắm xuyên đầu tên cướp khiến gã chết ngay tắp lự, nhưng không ngăn được phát bắn của gã. Trong đầu Filma thoáng hiện lên cảnh tượng Rei bị trúng tên. Thế nhưng...
 
 "Mặc tôi, bên này không sao đâu."
 
@@ -222,7 +222,7 @@ Nghĩ bụng như thế, tên đầu sỏ cùng thuộc hạ cẩn thận lẻn 
 
 Thế nhưng, dĩ nhiên hành tung của chúng chẳng thể nào qua mắt được một người.
 
-"...Trong sảnh chỉ còn lại bảy tên. Phần còn lại hai người lo liệu được chứ?"
+"...Trong sảnh chỉ còn lại bảy tên. Phần còn lại mọi người tự xoay xở được chứ?"
 
 "Hả? Ừ. Tôi nghĩ là không sao đâu... Nhưng sao đột nhiên cậu lại hỏi vậy?"
 
