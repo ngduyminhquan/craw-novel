@@ -8,7 +8,7 @@ Chỉ dịch chương #$n. Xong bước 5 thì dừng. Không chạy git.
 
 Tiêu chí xong:
 - `$vi` tồn tại và dịch đủ mọi đoạn.
-- `python .agents/skills/novel-translate/scripts/qa_check.py $slug $n` không còn `[LỖI]`.
+- `python .agents/skills/novel-translate/scripts/qa_check.py $slug $n` và `python .agents/skills/novel-translate/scripts/lint_context.py $slug` không còn `[LỖI]`.
 - `progress.md` ghi #$n là `done`, và chương #$n đã có tóm tắt (`summaries.md`, hoặc `context/summaries/` với truyện layout 2).
 - Tiêu đề chương ở dòng 1 đã dịch sang tiếng Việt, cùng cách dịch với các chương cùng arc trước đó.
 

@@ -86,12 +86,35 @@ def lint(novel):
         for row in load_progress(novel):
             if row["trạng thái"] in TRANSLATED and row["idx"] not in have:
                 errors.append(f"thiếu tóm tắt chương '## {row['idx']}' trong context/summaries/ (ctx.py add-summary)")
-        return errors, warns + _lint_glossary(ctx)
+        return errors, warns + _lint_glossary(ctx) + _lint_char_details(ctx)
     summaries = read_text(ctx / "summaries.md")
     for row in load_progress(novel):
         if row["trạng thái"] in TRANSLATED and not re.search(rf"(?m)^## +#?{row['idx']}\b", summaries):
             errors.append(f"summaries.md thiếu mục '## {row['idx']}'")
     return errors, warns + _lint_glossary(ctx)
+
+
+def _lint_char_details(ctx):
+    """Layout 2: mục Chi tiết của characters.md không ghi nhật ký theo chương và giữ 1 dòng cho Kỹ năng/Trạng thái."""
+    warns = []
+    cur, counts = None, {}
+    for line in read_text(ctx / "characters.md").splitlines():
+        if line.startswith("### "):
+            cur, counts = line[4:].strip(), {}
+        elif line.startswith("## "):
+            cur = None
+        elif cur and line.startswith("- "):
+            body = line[2:].strip()
+            if re.match(r"^(Chương\s*\d+|#\d+)\b", body, re.IGNORECASE):
+                warns.append(f"characters.md ({cur}): mục chi tiết không ghi nhật ký theo chương ('{body[:50]}') "
+                             "— diễn biến thuộc tóm tắt chương")
+            for label in ("Kỹ năng", "Trạng thái"):
+                if body.lower().startswith(label.lower()):
+                    counts[label] = counts.get(label, 0) + 1
+                    if counts[label] == 2:
+                        warns.append(f"characters.md ({cur}): có nhiều dòng '{label}' — gộp bằng "
+                                     f"ctx.py char-note \"{cur}\" \"...\" --replace \"{label}\"")
+    return warns
 
 
 def _lint_glossary(ctx):

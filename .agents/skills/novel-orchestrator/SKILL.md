@@ -1,6 +1,6 @@
 ---
 name: novel-orchestrator
-description: Điều phối dịch truyện tự động qua Herdr. Mở panel agy (Gemini 3.8 Flash High) chạy skill novel-translate để khởi tạo truyện hoặc dịch từng chương. Cứ 3 chương thì mở panel review, rồi mở panel sửa. Commit và push sau mỗi chương, và tự quyết các câu hỏi agent phụ đặt ra. Dùng khi user bảo "chạy orchestrator", "tự động dịch", "dịch liên tục N chương", "dịch tới chương N", "điều phối dịch truyện <slug>".
+description: Điều phối dịch truyện tự động qua Herdr. Mở panel agy (Gemini 4 Hydrogen Medium) chạy skill novel-translate để khởi tạo truyện hoặc dịch từng chương. Cứ 3 chương thì mở panel review, rồi mở panel sửa. Commit và push sau mỗi chương, và tự quyết các câu hỏi agent phụ đặt ra. Dùng khi user bảo "chạy orchestrator", "tự động dịch", "dịch liên tục N chương", "dịch tới chương N", "điều phối dịch truyện <slug>".
 ---
 
 # Điều phối dịch truyện
@@ -55,7 +55,7 @@ Làm **tuần tự**: mỗi lúc chỉ một panel làm việc, và commit xong 
 ```
 python .agents/skills/novel-orchestrator/scripts/orchestrate.py <slug> brief <kind> [...]
 # in ra: name=<name> task=<file brief> report=<file báo cáo>
-bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-3.8-flash-high --dangerously-skip-permissions
+bash .agents/skills/herdr-spawn/scripts/spawn.sh <name> agy --task-file <task> -- --model gemini-4-hydrogen-medium --dangerously-skip-permissions
 bash .agents/skills/herdr-spawn/scripts/wait-report.sh <name> --timeout 3600 --idle-grace 120
 ```
 
@@ -98,8 +98,8 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
 `lint_context.py` báo `[LỖI]` trong các file context.
 
 1. Chạy `python .agents/skills/novel-translate/scripts/lint_context.py <slug>` để xem lỗi.
-2. Lỗi trùng dòng và lỗi tên trong `pronouns.md`: tự sửa file context. Gộp dòng trùng, giữ bản dịch đang được dùng trong các chương. Sửa tên cho khớp `characters.md`.
-3. Thiếu tóm tắt chương: ghi file quyết định "viết mục `## N` trong `summaries.md` theo mẫu bước B4", rồi chạy `brief fix --range <các chương thiếu> --decisions <file> --keep-status`, mở panel và chờ.
+2. Lỗi trùng dòng, lỗi tên trong `pronouns.md`, hoặc ký tự lạ trong context: sửa bằng `ctx.py` nếu được; việc `ctx.py` không làm được (gộp hai dòng trùng, sửa/xoá một dòng sai) thì mở đúng chỗ đó trong file context để sửa. Giữ bản dịch đang được dùng trong các chương, sửa tên cho khớp cột `EN` của `characters.md`.
+3. Thiếu tóm tắt chương: ghi file quyết định `"ghi tóm tắt chương N bằng ctx.py <slug> add-summary N --file <file> theo bước B4"` (truyện layout 1: `"viết mục ## N trong summaries.md theo bước B4"`), rồi chạy `brief fix --range <các chương thiếu> --decisions <file> --keep-status`, mở panel và chờ.
 4. Chạy lại lint cho tới khi hết `[LỖI]`. Commit và push với message `fix(translate): sửa context`.
 
 ### action=translate n=N
@@ -107,9 +107,9 @@ Các chương đã dịch nhưng giờ QA báo `[LỖI]`, thường vì script Q
 1. `brief translate --n N`, rồi mở panel và chờ.
 2. `orchestrate.py <slug> verify N`. Lệnh này kiểm tra:
    - có file bản dịch;
-   - QA không còn `[LỖI]`;
+   - QA (`qa_check.py`) và context (`lint_context.py`) không còn `[LỖI]`;
    - trạng thái là `done`;
-   - có tóm tắt trong `summaries.md`.
+   - có tóm tắt chương (`context/summaries/` với layout 2, hoặc `summaries.md` với layout 1).
 3. Verify chưa đạt:
    - Lần đầu: nhắc chính panel đó bằng `herdr agent prompt <name> "<các vấn đề verify in ra, sửa rồi ghi lại báo cáo>"`, rồi chờ lại. **Xoá file báo cáo cũ của panel trước khi nhắc** (`rm .herdr/reports/<name>.md`), nếu không `wait-report.sh` thấy dòng `STATUS: done` cũ và thoát ngay. Áp dụng cho mọi lần nhắc lại một panel đã báo xong.
    - Vẫn chưa đạt: đóng pane, đặt lại chương về todo bằng `progress.py <slug> set N todo`, mở panel mới làm lại từ đầu một lần.
@@ -168,7 +168,7 @@ Bạn quyết thay user các câu hỏi panel đặt ra: câu hỏi trong báo c
 
 1. **Không đổi quyết định của user.** Đó là các mục "Tên riêng", "Thuật ngữ...", "Định dạng", "Ghi chú translator" trong `rules.md`, và "Nguyên tắc chung" trong `style.md`. Câu hỏi đòi đổi những mục này thì **dừng vòng lặp, hỏi user**.
 2. **Ưu tiên nhất quán.** Giữ cái đã chốt, trừ khi raw chứng minh rõ là sai, ví dụ nhân vật hóa ra là nữ, hoặc là người lớn tuổi hơn.
-3. **Dựa vào raw, không đoán.** Mở đoạn raw liên quan, và nếu cần thì cả `characters.md` và `summaries.md`, rồi mới quyết.
+3. **Dựa vào raw, không đoán.** Mở đoạn raw liên quan (hoặc `qa_check.py <slug> N --side --full --paras ...`), và nếu cần thì tra thêm nhân vật, tóm tắt chương bằng `ctx.py show-char`, `show-summaries` (layout 1: đọc `characters.md`, `summaries.md`), rồi mới quyết.
 4. **Ghi lại mọi quyết định:**
    - sửa file context tương ứng (`glossary.md`, `pronouns.md`, `characters.md`, mục "Riêng truyện này" của `rules.md`);
    - chuyển câu hỏi sang mục "Đã quyết" bằng `orchestrate.py <slug> resolve "<đoạn chữ trong câu hỏi>" "<quyết định>"`. Với layout 2, lệnh này xoá câu hỏi khỏi `questions.md` và ghi quyết định vào `decisions/<khoảng 100 chương>.md`. Không đọc trọn thư mục `decisions/`; cần tra quyết định cũ thì grep.

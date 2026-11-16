@@ -15,13 +15,13 @@ Các vòng: __CYCLES__. Mỗi vòng gồm:
    - Kiểm tra:
      - **phạm vi**: chỉ `translations/__SLUG__/` thay đổi, không có file trong `vi/images/` bị sửa hay xoá;
      - `git diff --stat` có `vi/Chapter_<NNN>.md` thay đổi đáng kể. Nếu gần như không đổi thì nhắc panel làm lại đúng yêu cầu;
-     - `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ N` không có `[LỖI]`.
+     - `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ N` và `python .agents/skills/novel-translate/scripts/lint_context.py __SLUG__` không có `[LỖI]`.
    - Đọc báo cáo. Panel đề xuất đổi thuật ngữ hay xưng hô thì **không áp dụng**, chỉ gom lại để đưa vào báo cáo cuối.
    - Đóng pane. Commit và push với message `style(translate): trau chuốt văn phong chương N`.
 3. Review vòng, chương a–b:
    - Brief đã sinh sẵn: `.herdr/tasks/plr-<aaa>-<bbb>.md`, còn chừa chỗ `__BASE__`. Điền vào bằng `sed -i "s/__BASE__/$BASE/g" .herdr/tasks/plr-<aaa>-<bbb>.md`.
    - Mở panel `plr-<aaa>-<bbb>` với `--model __REVIEW_MODEL__ --dangerously-skip-permissions` (thêm `--max 8`), rồi chờ với `--timeout 7200 --idle-grace 300`.
-   - Kiểm tra phạm vi. Chạy `python .agents/skills/novel-orchestrator/scripts/orchestrate.py __SLUG__ verify a-b --status reviewed`, kết quả phải OK cả.
+   - Kiểm tra phạm vi. Chạy `python .agents/skills/novel-orchestrator/scripts/orchestrate.py __SLUG__ verify a-b --status translated`, kết quả phải OK cả.
    - Đóng pane. Commit và push với message `style(translate): review văn phong chương a-b`.
    - Báo cáo review có "nhận xét chung về lỗi lặp lại" thì thêm các nhận xét đó vào cuối brief `pl-*.md` của vòng sau, dưới tiêu đề `Lưu ý từ lượt review trước:`. Sửa bản sinh ra trong `.herdr/tasks/`, không sửa template trong skill.
 

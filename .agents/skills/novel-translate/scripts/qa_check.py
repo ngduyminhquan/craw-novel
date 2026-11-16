@@ -48,6 +48,7 @@ def check(novel, row):
     raw_text = "\n".join(raw_paras)
     vi_text = read_text(vf)
     vi_paras = vi_paragraphs(vi_text)
+    ja = raw_lang(novel, raw_text) == "ja"
 
     if not vi_text.lstrip().startswith("# "):
         warns.append("thiếu dòng tiêu đề '# Chương N: ...' ở đầu file")
@@ -56,6 +57,10 @@ def check(novel, row):
         raw_title = row.get("tiêu đề", "").strip()
         if raw_title and len(raw_title.split()) >= 2 and raw_title.lower() in title_line.lower():
             warns.append(f"tiêu đề chưa dịch, vẫn là tiếng Anh: {title_line[:90]}")
+        if ODD_SCRIPT_RE.search(title_line):
+            errors.append(f"tiêu đề có ký tự lạ ({', '.join(ODD_SCRIPT_RE.findall(title_line))[:30]}): {title_line[:90]}")
+        if ja and CJK_RE.search(title_line):
+            warns.append(f"tiêu đề còn chữ Nhật ({''.join(CJK_RE.findall(title_line))[:20]}): {title_line[:90]}")
 
     # rules.md quy định mỗi đoạn raw là một đoạn dịch, nên thiếu dù một đoạn cũng là lỗi.
     diff = len(vi_paras) - len(raw_paras)
@@ -66,7 +71,6 @@ def check(novel, row):
         warns.append(f"số đoạn lệch: raw {len(raw_paras)}, bản dịch {len(vi_paras)} ({diff:+d}) — "
                      "có thể tách đoạn thừa")
 
-    ja = raw_lang(novel, raw_text) == "ja"
     # Raw tiếng Nhật: 『』 dịch thành [ ] hay ngoặc kép tùy ngữ cảnh (rules.md), nên không so số đoạn [ ].
     rb = sum(p.startswith("[") for p in raw_paras)
     vb = sum(p.startswith("[") for p in vi_paras)
@@ -87,7 +91,7 @@ def check(novel, row):
                 and not re.search(r"[―—–─‐-]", raw_paras[n - 1]):
             warns.append(f"đoạn {n} có cặp gạch ngang '— ... —' mà raw không có: thay bằng dấu phẩy hoặc tách câu "
                          f"(natural-vietnamese.md mục 5): {line[:90]}")
-        if ja and ODD_SCRIPT_RE.search(line):
+        if ODD_SCRIPT_RE.search(line):
             errors.append(f"đoạn {n} có ký tự lạ ({', '.join(ODD_SCRIPT_RE.findall(line))[:30]}) — "
                           f"chữ Kirin/Thái/Hangul... lẫn vào, sửa lại: {line[:90]}")
         if ja and CJK_RE.search(line):
@@ -104,8 +108,8 @@ def check(novel, row):
         if "![" in line:
             errors.append(f"đoạn {n} có ảnh lẫn trong đoạn văn, ảnh phải nằm riêng một dòng: {line[:90]}")
 
-    if "\"" in vi_text and "“" in vi_text:
-        warns.append("lẫn ngoặc kép thẳng \" và cong “ ” — thống nhất theo rules.md")
+    if "“" in vi_text or "”" in vi_text:
+        warns.append("có ngoặc kép cong “ ” — đổi sang ngoặc kép thẳng \"...\" theo rules.md")
 
     ctx = novel["context"]
     # Xét thuật ngữ dài trước và che phần đã khớp, để "God of Concealment" không bị tính là "God",

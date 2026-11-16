@@ -293,6 +293,12 @@ def cmd_verify(slug, spec, status):
         print(f"#{idx}: {'OK' if not issues else 'CHƯA ĐẠT'}")
         for i in issues:
             print(f"  - {i}")
+    lint_errors, _ = lint(novel)
+    if lint_errors:
+        problems += len(lint_errors)
+        print("context: CHƯA ĐẠT")
+        for e in lint_errors:
+            print(f"  - lint: {e}")
     sys.exit(1 if problems else 0)
 
 

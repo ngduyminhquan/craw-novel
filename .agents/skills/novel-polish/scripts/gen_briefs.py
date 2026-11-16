@@ -19,7 +19,7 @@ ap.add_argument('slug')
 ap.add_argument('start', type=int)
 ap.add_argument('--count', type=int, default=9)
 ap.add_argument('--cycle', type=int, default=3)
-ap.add_argument('--polish-model', default='gemini-3.8-flash-high')
+ap.add_argument('--polish-model', default='gemini-4-hydrogen-medium')
 ap.add_argument('--review-model', default='gemini-4-argon-medium')
 a = ap.parse_args()
 

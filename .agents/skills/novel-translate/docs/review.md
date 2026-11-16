@@ -2,8 +2,8 @@
 
 Phần của skill `novel-translate` (đọc `SKILL.md` trước). Dùng khi được giao review, thường là 3 chương vừa dịch. **Không sửa file bản dịch hay file context.** Kết quả duy nhất là báo cáo.
 
-1. Đọc `rules.md`, `style.md` và `.agents/skills/novel-translate/natural-vietnamese.md` (bắt buộc: đây là tiêu chí bắt lỗi văn dịch máy). Chạy `prepare.py <slug> N` cho **từng** chương được giao: script in nhân vật, xưng hô, thuật ngữ liên quan và mạch truyện. Cần thêm thì `ctx.py pronouns`, `show-char`, `find`. Không đọc trọn `characters.md`, `glossary.md`, `pronouns.md`. (Truyện layout 1: đọc thẳng các file này, xem `docs/layout1.md`.)
-2. Với từng chương, đối chiếu **từng đoạn** bản dịch với raw bằng `qa_check.py <slug> N --side` (đoạn K bản dịch ứng với đoạn K raw, đã bỏ tiêu đề và T/N; cột in bị cắt ngắn, chỗ cần đọc kỹ thì mở raw và bản dịch). Tìm:
+1. Đọc `rules.md`, `style.md` và `.agents/skills/novel-translate/natural-vietnamese.md` (bắt buộc: đây là tiêu chí bắt lỗi văn dịch máy). Chạy `prepare.py <slug> N` cho **từng** chương được giao: script in nhân vật xuất hiện kèm mục chi tiết (tính cách, cách nói chuyện, kỹ năng, trạng thái), xưng hô, thuật ngữ liên quan và mạch truyện. Đọc kỹ phần "Mục chi tiết nhân vật" để soát giọng thoại và cách miêu tả; nhân vật không xuất hiện mà cần tra mới gọi `ctx.py show-char`, cần thêm xưng hô hay thuật ngữ thì `ctx.py pronouns`, `find`, `grep`. Không đọc trọn `characters.md`, `glossary.md`, `pronouns.md`. (Truyện layout 1: đọc thẳng các file này, xem `docs/layout1.md`.)
+2. Với từng chương, đối chiếu **từng đoạn** bản dịch với raw bằng `qa_check.py <slug> N --side --full` (đoạn K bản dịch ứng với đoạn K raw, đã bỏ tiêu đề, phân cách, ảnh và T/N; thêm `--paras 40-80` hoặc `54,63,70-72` để chỉ in một khoảng; bỏ `--full` để xem nhanh bản rút gọn). Không tự viết code đọc raw hay đếm đoạn. Tìm:
    - sai nghĩa, bỏ sót hoặc thêm thắt nội dung;
    - sai xưng hô (sai cặp, sai thời điểm, lệch giữa các chương);
    - đại từ người kể dùng cho nhân vật không nhất quán;

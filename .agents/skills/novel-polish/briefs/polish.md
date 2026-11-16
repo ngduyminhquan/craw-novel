@@ -8,8 +8,8 @@ Việc: **trau chuốt văn phong chương __N__** (`translations/__SLUG__/vi/Ch
 Raw: `__RAW__/Chapter___NNN__ - *.txt`
 
 Cách làm:
-1. Đọc thật kỹ `.agents/skills/novel-translate/natural-vietnamese.md`: đây là danh sách lỗi văn dịch máy dùng chung, cũng là tiêu chí chính của lượt này. Đọc `context/style.md` để nắm giọng riêng của truyện và nhân vật, cùng các quy luật riêng nếu có. Quy luật riêng trong `style.md` (ví dụ yêu cầu về độ hiện đại, độ trẻ của giọng văn) thắng file chung: soát cả chương theo đúng các quy luật đó. Đọc `context/rules.md`. Chạy `python .agents/skills/novel-translate/scripts/prepare.py __SLUG__ __N__` để lấy nhân vật, xưng hô và thuật ngữ liên quan tới chương.
-2. Đi qua **từng đoạn**. Đoạn K của bản dịch ứng với đoạn K của raw. Đọc đoạn raw, đọc bản dịch, rồi viết lại câu nào còn cứng, sai nghĩa, thiếu ý hay lủng củng. Đây là biên tập lại, không phải soát lỗi chính tả: gần như đoạn nào cũng có chỗ cần sửa. Giữ độ kỹ đều tay tới đoạn cuối: chương dài hay bị sửa kỹ nửa đầu rồi lướt nửa sau. Chia chương thành từng khúc 20–30 đoạn, xong khúc nào thì soát lại khúc đó. Đầu chương mở bằng đại từ ("He", "Her", "They") thì đọc đoạn cuối chương liền trước để biết là ai.
+1. Đọc thật kỹ `.agents/skills/novel-translate/natural-vietnamese.md`: đây là danh sách lỗi văn dịch máy dùng chung, cũng là tiêu chí chính của lượt này. Đọc `context/style.md` để nắm giọng riêng của truyện và nhân vật, cùng các quy luật riêng nếu có. Quy luật riêng trong `style.md` (ví dụ yêu cầu về độ hiện đại, độ trẻ của giọng văn) thắng file chung: soát cả chương theo đúng các quy luật đó. Đọc `context/rules.md`. Chạy `python .agents/skills/novel-translate/scripts/prepare.py __SLUG__ __N__` để lấy nhân vật (kèm mục chi tiết nhân vật ở truyện layout 2), xưng hô và thuật ngữ liên quan tới chương. (Truyện layout 1: đọc thêm `.agents/skills/novel-translate/docs/layout1.md`.)
+2. Đi qua **từng đoạn**. Đoạn K của bản dịch ứng với đoạn K của raw: dùng `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ __N__ --side --full` (thêm `--paras 1-30`... để đọc từng khúc; không tự viết code đọc raw hay đếm đoạn vì raw có dòng tiêu đề, phân cách, T/N và `raw_ignore_lines`). Đọc đoạn raw, đọc bản dịch, rồi viết lại câu nào còn cứng, sai nghĩa, thiếu ý hay lủng củng. Đây là biên tập lại, không phải soát lỗi chính tả: gần như đoạn nào cũng có chỗ cần sửa. Giữ độ kỹ đều tay tới đoạn cuối: chương dài hay bị sửa kỹ nửa đầu rồi lướt nửa sau. Chia chương thành từng khúc 20–30 đoạn, xong khúc nào thì soát lại khúc đó. Đầu chương mở bằng đại từ ("He", "Her", "They", hoặc câu tiếng Nhật lược chủ ngữ) thì đọc đoạn cuối chương liền trước để biết là ai.
 3. Giữ nguyên:
    - số đoạn và thứ tự đoạn, không gộp hay tách đoạn;
    - dòng tiêu đề, dòng ảnh `![..](..)`, dấu phân cách, ghi chú T/N;
@@ -20,8 +20,8 @@ Cách làm:
 5. Context:
    - Rút ra được quy luật văn phong riêng của truyện này (giọng nhân vật, cách nói lặp lại của raw...) thì thêm một gạch đầu dòng ngắn vào `style.md`. Không lặp ý đã có trong `style.md` hay `.agents/skills/novel-translate/natural-vietnamese.md`. Không sửa `.agents/skills/novel-translate/natural-vietnamese.md`.
    - Thấy một thuật ngữ hay cặp xưng hô đã chốt mà đọc gượng hoặc sai: **không đổi** trong context hay trong chương. Ghi vào mục "Đề xuất" của báo cáo, nêu bằng chứng từ raw. Lý do: thuật ngữ và xưng hô đã dùng trong nhiều chương, đổi ở một chỗ sẽ gây lệch.
-   - Lỗi nhỏ trong `characters.md` (sai sự thật so với raw chương này) thì được sửa thẳng.
-6. Chạy `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ __N__` cho tới khi hết `[LỖI]`.
+   - Lỗi nhỏ trong `characters.md` (sai sự thật so với raw chương này) thì được sửa (layout 2: dùng `ctx.py char-note` / `set characters`, không mở cả file; layout 1: sửa thẳng file).
+6. Chạy `python .agents/skills/novel-translate/scripts/qa_check.py __SLUG__ __N__` và `python .agents/skills/novel-translate/scripts/lint_context.py __SLUG__` cho tới khi hết `[LỖI]`.
 7. Không đổi trạng thái trong `progress.md`. Không sửa chương khác. Không chạy git.
 
 Báo cáo gồm:

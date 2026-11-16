@@ -11,7 +11,7 @@ Không sửa chương nào ngoài $range. Không chạy git.
 Tiêu chí xong:
 - Đã xử lý mọi mục được chấp nhận.
 - Đã cập nhật context theo file quyết định.
-- `python .agents/skills/novel-translate/scripts/qa_check.py $slug $range` không còn `[LỖI]`.
+- `python .agents/skills/novel-translate/scripts/qa_check.py $slug $range` và `python .agents/skills/novel-translate/scripts/lint_context.py $slug` không còn `[LỖI]`.
 - $status_rule
 
 Báo cáo gồm:

@@ -388,6 +388,11 @@ def cmd_set(novel, fname, name, col, value):
     value = cell(value, col)
     if fname == "glossary" and col == "loại" and value.lower() not in KINDS:
         die(f"Loại '{value}' không hợp lệ, dùng một trong: {', '.join(sorted(KINDS))}")
+    if fname == "glossary" and col == "vi" and "/" in value:
+        _, cur = resolve(novel, name, fname)
+        if not cur["row"].get("ghi chú", "").strip():
+            die("VI chỉ ghi MỘT bản dịch. Thật sự cần hai dạng theo ngữ cảnh thì cột Ghi chú phải nói khi nào dùng dạng nào; "
+                "tên gọi tắt thì thêm dòng riêng.")
     e = set_cell(novel, fname, name, col, value)
     print(f"{fname}: '{e['en']}' {col} = {value}")
 
