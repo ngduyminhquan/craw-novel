@@ -25,7 +25,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ミスティリング | | Nhẫn Sương Mù | vật phẩm | 2 | Vòng tay không gian lưu trữ vật phẩm của Rei |
 | グリフォン | | Griffin | quái vật | 3 | Loài ma thú đầu đại bàng thân sư tử |
 | デスサイズ | 死神の大鎌 | Lưỡi Hái Tử Thần | vật phẩm | 3 | Vũ khí ma thuật hình lưỡi hái khổng lồ sinh ra từ ma lực dư thừa của Rei |
-| マジックアイテム | 魔法道具 | Đạo Cụ Ma Thuật | vật phẩm | 1 | Vật phẩm có hiệu ứng ma thuật |
+| マジックアイテム | 魔法道具; 魔導具 | Đạo Cụ Ma Thuật | vật phẩm | 1 | Vật phẩm có hiệu ứng ma thuật |
 | 診断のオーブ | | Quả Cầu Chẩn Đoán | vật phẩm | 3 | Đạo cụ kiểm tra thuộc tính ma thuật tương thích |
 | ドラゴンローブ | | Áo Choàng Rồng | vật phẩm | 4 | Áo choàng làm từ da và vảy Hỏa Long, Thủy Long |
 | スレイプニルの靴 | | Giày Sleipnir | vật phẩm | 4 | Giày làm từ da ngựa tám chân Sleipnir, giúp tăng tốc và đạp không trung |
@@ -160,3 +160,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | レンジャー |  | Ranger | chức nghiệp | 46 | Chức nghiệp chuyên tác chiến tầm xa, di chuyển linh hoạt và trinh sát |
 | ウォーターウィップ |  | Roi Nước | kỹ năng | 47 | Ma pháp hệ Thủy tạo ra ngọn roi bằng nước tấn công kẻ địch, do Scola sử dụng |
 | 精霊魔法使い |  | Tinh Linh Ma Pháp Sư | chức nghiệp | 46 | Chức nghiệp sử dụng Tinh Linh Ma Pháp |
+| ドワーフ |  | Dwarf | chủng tộc | 50 | Chủng tộc người lùn |
+| ハイエルフ |  | High Elf | chủng tộc | 50 | Chủng tộc thượng đẳng của Elf |
+| クムの実 |  | trái Kumu | vật phẩm | 50 | Loại quả có vị chua của quýt và cảm giác nhai như lê |

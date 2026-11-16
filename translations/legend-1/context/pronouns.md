@@ -143,3 +143,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Superbia | tôi | anh | 49 | Nói chuyện trước khi xuất phát bài thi |
 | Superbia | Arogan | tôi | cậu | 49 | Nhắc nhở Arogan khi đến muộn bài thi |
 | Filma | * | tôi | mọi người | 49 | Chào các thành viên tổ đội thi thăng hạng |
+| Filma | Rei | tôi | Rei / cậu | 50 | Nói chuyện trong bài thi thăng hạng |
+| Rei | Filma | tôi | cô / Filma | 50 | Nói chuyện trong bài thi thăng hạng |
+| Culotte | Filma | tôi | Filma | 50 | Bạn nữ trong tổ đội |
+| Filma | Culotte | tôi | cậu / Culotte | 50 | Bạn nữ trong tổ đội |
