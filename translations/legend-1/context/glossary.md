@@ -163,3 +163,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ドワーフ |  | Dwarf | chủng tộc | 50 | Chủng tộc người lùn |
 | ハイエルフ |  | High Elf | chủng tộc | 50 | Chủng tộc thượng đẳng của Elf |
 | クムの実 |  | trái Kumu | vật phẩm | 50 | Loại quả có vị chua của quýt và cảm giác nhai như lê |
+| ロングソード |  | kiếm dài | vật phẩm | 52 | Kiếm dài thông thường |

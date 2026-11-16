@@ -150,6 +150,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nam thanh niên trạc 18-22 tuổi, mạo hiểm giả Hạng E tại Gilm.
 - Sở hữu một thanh ma kiếm lưỡi đen hoa văn đỏ, tự tin thái quá và háo thắng.
 - Vũ khí và năng lực: ma kiếm lưỡi đen hoa văn đỏ có hiệu lực tăng cường thể chất cho người cầm (đã sử dụng khá thuần thục, nhưng từng bị Rei đánh bật dễ dàng)
+- Tâm lý: Hay hung hăng nhưng chưa từng thật sự đoạt mạng người trước bài thi thăng hạng, dễ bị chấn động tâm lý khi thấy đồng loại bỏ mạng
 
 ### Culotte
 - Thiếu nữ trạc 17-19 tuổi, tóc ngắn cắt gọn, mặc giáp da quái vật, hông dắt hai đoản kiếm; nghề nghiệp đạo tặc, chuyên trinh sát và đặt bẫy.
@@ -159,6 +160,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nam thiếu niên trạc 17-19 tuổi, gương mặt mộc mạc chất phác, mặc áo choàng cầm gậy phép; bạn đồng hành tổ đội cùng Culotte.
 - Tính cách hiền lành, biết điều, dễ ngượng ngùng đỏ mặt khi được khen; hay cúi đầu xin lỗi thay cho cô bạn Culotte.
 - Kỹ năng: sử dụng được ma pháp hệ Thủy (Roi Nước), Phong (Mũi Tên Gió) và ma pháp hồi phục (thiên phú hiếm có kết hợp cả công kích và hồi phục)
+- Tâm lý: Thiện lương, chưa từng giết người trước bài thi thăng hạng; dễ bị sốc tâm lý khi thấy đối phương quằn quại vì ma pháp của mình
 
 ### Superbia
 - Nam thanh niên ngoài 20 tuổi (khoảng 21-22), ánh mắt sắc bén lạnh lùng, trang bị kiếm dài thông thường; tác phong trầm tĩnh, tự tin vào kiếm thuật.

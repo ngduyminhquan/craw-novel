@@ -147,3 +147,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Filma | tôi | cô / Filma | 50 | Nói chuyện trong bài thi thăng hạng |
 | Culotte | Filma | tôi | Filma | 50 | Bạn nữ trong tổ đội |
 | Filma | Culotte | tôi | cậu / Culotte | 50 | Bạn nữ trong tổ đội |
+| Superbia | Culotte | tôi | cô | 52 | Đồng đội trong bài thi thăng hạng |
+| Culotte | Superbia | tôi | anh | 52 | Đồng đội trong bài thi thăng hạng |
