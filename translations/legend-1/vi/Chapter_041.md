@@ -22,11 +22,11 @@ Dù vậy, nghĩ mình dẫu sao cũng là lãnh chúa, ông khoác thêm chiế
 
 "Không sao, có chuyện gì thế?"
 
-"Cách đây ít phút, có vài người của đội thảo phạt Orc vừa trở về ạ."
+"Cách đây ít phút, có vài người của đội thảo phạt Orc vừa trở về."
 
 Cụm từ "vài người" khiến Bá tước biên cảnh Rowlocks thoáng dấy lên dự cảm chẳng lành, nhưng cảm giác đó lập tức tan biến trước câu nói tiếp theo của người thư ký.
 
-"Báo cáo do những người đó gửi tới Hội vừa được chuyển lên đây, chiến dịch thảo phạt Orc đã hoàn thành êm đẹp rồi ạ."
+"Báo cáo do những người đó gửi tới Hội vừa được chuyển lên đây, chiến dịch thảo phạt Orc đã hoàn thành êm đẹp rồi."
 
 "Thật sao?"
 
@@ -34,7 +34,7 @@ Cụm từ "vài người" khiến Bá tước biên cảnh Rowlocks thoáng d�
 
 "Sao thế?"
 
-"Họ đã giải cứu được hai người phụ nữ bị giam trong bộ lạc Orc, nên được cử đi trước vừa để báo tin, vừa để đưa hai người đó về nghỉ ngơi an toàn càng sớm càng tốt ạ."
+"Họ đã giải cứu được hai người phụ nữ bị giam trong bộ lạc Orc, nên được cử đi trước vừa để báo tin, vừa để đưa hai người đó về nghỉ ngơi an toàn càng sớm càng tốt."
 
 "...Ra vậy."
 
@@ -76,7 +76,7 @@ Trước câu hỏi của Bá tước biên cảnh Rowlocks, người thư ký l
 
 Báo cáo do Hội Trưởng gửi lên cho thấy đội thảo phạt chỉ có khoảng 30 người tham gia, quân số ấy hoàn toàn không đủ để đối đầu với hơn 100 con Orc.
 
-"Theo những gì tôi nghe được thì tổ đội Hạng A Rìu Lôi Thần đóng vai trò là lực lượng chủ lực, đã tiêu diệt phần lớn bầy Orc ạ."
+"Theo những gì tôi nghe được thì tổ đội Hạng A Rìu Lôi Thần làm chủ lực, đã tiêu diệt phần lớn bầy Orc."
 
 "À, ra vậy. Nhắc mới nhớ, ta có nghe chuyện Rìu Lôi Thần tham gia. Thứ lỗi, mới ngủ dậy nên đầu óc ta vẫn chưa tỉnh táo lắm."
 
@@ -92,15 +92,15 @@ Trước câu hỏi đó, người thư ký hơi nhíu mày.
 
 Thấy vẻ ngập ngừng của thư ký, Bá tước biên cảnh Rowlocks gặng hỏi lại. Và người thư ký như đã hạ quyết tâm, cất lời đáp.
 
-"Chuyện là, thông tin này vẫn chưa được phối kiểm chắc chắn, chỉ là lời từ những mạo hiểm giả trở về trước kể lại thôi ạ..."
+"Chuyện là, thông tin này vẫn chưa được xác minh chắc chắn, chỉ mới nghe những mạo hiểm giả trở về trước kể lại thôi..."
 
 "Rườm rà quá, vào thẳng vấn đề đi."
 
-"...Nghe nói một mạo hiểm giả Hạng G đã đơn đả độc đấu hạ gục Orc King ạ."
+"...Nghe nói một mạo hiểm giả Hạng G đã đơn đả độc đấu hạ gục Orc King."
 
 "Vớ vẩn! Orc King là quái vật Hạng B cơ mà!? Cỡ một mạo hiểm giả Hạng G làm sao... Khoan, đợi đã. Mạo hiểm giả đó đúng là Hạng G không?"
 
-"Thông tin chuyển tới chỗ tôi ghi rõ như vậy ạ."
+"Thông tin chuyển tới chỗ tôi ghi rõ như vậy."
 
 Nghe thư ký nói, gương mặt hiện lên trong tâm trí ông chính là Rei. Ít nhất thì với Bá tước biên cảnh Rowlocks, ở cái Hạng G chẳng khác mấy người nghiệp dư mới đăng ký vào Hội Mạo Hiểm Giả mà có thể hạ gục được Orc King, ngoài Rei ra ông không nghĩ được ai khác. Nói đúng hơn, theo nguồn tin ông nhận được thì trong số các thành viên tham gia đội thảo phạt Orc chỉ có duy nhất một người mang cấp bậc thấp như Hạng G. Dẫu vậy, chuyện này vẫn quá sức tưởng tượng.
 
@@ -114,7 +114,7 @@ Dù xét về mặt nghỉ ngơi phục hồi sức khỏe thì giấc ngủ nà
 
 "Vậy bao giờ đội ngũ chính của đoàn thảo phạt mới trở về?"
 
-"Do còn phải dọn dẹp hậu chiến tại bộ lạc Orc nên sớm nhất cũng phải tầm ngày kia mới về tới nơi ạ."
+"Do còn phải dọn dẹp hậu chiến tại bộ lạc Orc nên sớm nhất cũng phải tầm ngày kia mới về tới nơi."
 
 "Ngày kia sao... Được, vậy sáng ngày kia hãy phái người đưa tin tới đội thảo phạt. Ta sẽ tổ chức một buổi diễu hành khi họ trở về."
 
@@ -170,17 +170,17 @@ Và rồi hai ngày sau, trên con đường cái hướng về thành phố Gil
 
 Bên trong một trong những cỗ xe đó. Khoang xe chở năm người gồm tổ đội Rìu Lôi Thần, Bobbs và Rei vang lên giọng càu nhàu bực bội của Elk.
 
-Anh càu nhàu là bởi người truyền tin vừa tới báo rằng sẽ có một buổi diễu hành chào đón. Nếu chỉ có thế thì Elk đã chẳng khó chịu đến mức này, nhưng khi được yêu cầu đích thân dẫn đầu đội thảo phạt đi từ cổng thành tới tận Hội Mạo Hiểm Giả, đối với một kẻ ghét mấy trò câu nệ hình thức như Elk thì thật tình chỉ muốn xin kiếu cho xong.
+Ông càu nhàu là bởi người truyền tin vừa tới báo rằng sẽ có một buổi diễu hành chào đón. Nếu chỉ có thế thì Elk đã chẳng khó chịu đến mức này, nhưng khi được yêu cầu đích thân dẫn đầu đội thảo phạt đi từ cổng thành tới tận Hội Mạo Hiểm Giả, đối với một kẻ ghét mấy trò câu nệ hình thức như Elk thì thật tình chỉ muốn xin kiếu cho xong.
 
 "Đành chịu thôi, nghe nói tin về bộ lạc Orc đã lan khắp cả thành rồi mà. Chắc Bá tước biên cảnh Rowlocks cũng muốn dẹp bỏ hoàn toàn nỗi bất an đó ấy mà."
 
-Min ngồi đối diện Elk cất giọng như muốn bảo anh chấp nhận số phận đi.
+Min ngồi đối diện Elk cất giọng như muốn bảo ông chấp nhận số phận đi.
 
 "Nhưng em biết thừa rồi còn gì? Anh ghét mấy trò phô trương rình rang đó lắm."
 
 "Đúng là em biết, nhưng giữa sở thích của anh và việc xoa dịu nỗi lo của cư dân, cái nào quan trọng hơn hả?"
 
-"Hự... Vậy đâu nhất thiết phải là tôi, để Rei dẫn đầu không được à? Dù gì kẻ chém đầu Orc King là cậu ta mà?"
+"Hự... Vậy đâu nhất thiết phải là anh, để Rei dẫn đầu không được à? Dù gì kẻ chém đầu Orc King là cậu ta mà?"
 
 "Đừng có nói bừa. Cậu thì danh tiếng lẫy lừng với tư cách Rìu Lôi Thần Hạng A, còn Rei thì mới đăng ký vào Hội. Ai dẫn đầu đoàn diễu hành sẽ được cư dân dễ đón nhận hơn thì không cần nghĩ cũng rõ rồi. ...Mà nếu Rei muốn thì tôi cũng có thể nói giúp một tiếng."
 

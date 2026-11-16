@@ -8,7 +8,7 @@ Một bộ lạc Orc nghe đồn đã hình thành ngay sát nơi họ sinh số
 
 "Biết rồi... Cơ mà, này, cái gì kia!?"
 
-Vừa gật đầu trước lời anh bạn bên cạnh, người đàn ông vừa đập mắt vào một sự hiện diện ngoài sức tưởng tượng.
+Vừa gật đầu trước lời anh bạn bên cạnh, người đàn ông chợt thấy một bóng hình hoàn toàn nằm ngoài sức tưởng tượng đập vào mắt mình.
 
 Nửa thân dưới là sư tử, nửa thân trên là đại bàng, trên lưng lại có đôi cánh khổng lồ. Nói cách khác, đó chính là...
 
@@ -44,7 +44,7 @@ Nghe anh bạn nói, gã đưa mắt nhìn quanh và thấy quả thật đa s�
 
 Thậm chí, trong số những người đứng xem diễu hành, có người còn ném thịt khô hoặc đồ này thức nọ về phía chú Griffin.
 
-Chú Griffin đón lấy thịt khô cùng thức ăn bay tới bằng chiếc mỏ một cách điệu nghệ, nuốt chửng rồi cất tiếng "Gừưưư" đầy thích thú.
+Chú Griffin dùng mỏ đớp gọn những miếng thịt khô cùng đồ ăn ném tới, nuốt chửng rồi cất tiếng "Gừưưư" đầy thích thú.
 
 "...Thấy chưa?"
 
@@ -66,7 +66,7 @@ Nếu là mình, dẫu đối phương có đến với tư cách khách mua hà
 
 Vừa cười trừ, anh bạn vừa gõ nhẹ vào đầu gã.
 
-"Kyaaa, chị ơi nhìn sang bên này đi ạ!"
+"Áaa, chị gái ơi nhìn sang bên này đi ạ!"
 
 Đúng lúc ấy, một tiếng reo như thế vừa khéo vang lên.
 
@@ -84,13 +84,13 @@ Cứ thế, buổi diễu hành tiếp diễn cho tới khi đoàn thảo phạt
 
 Bị đưa đi bêu riếu khắp các nẻo đường dưới danh nghĩa diễu hành, rốt cuộc cũng tới được trước cửa Hội, Elk thở dài thườn thượt rồi bước xuống xe ngựa.
 
-Khác hẳn với vẻ sung sức sau cả đêm giao chiến với bầy Orc, lúc này nét mệt mỏi hằn sâu trên gương mặt anh.
+Khác hẳn với vẻ sung sức sau cả đêm giao chiến với bầy Orc, lúc này nét mệt mỏi hằn sâu trên gương mặt ông.
 
 "Khục khục khục. Kẻ nổi tiếng cũng khổ thật đấy nhỉ."
 
 Bobbs cũng mỉm cười bất đắc dĩ trước bộ dạng đó của Elk rồi bước xuống xe.
 
-"Xì, ông ngồi trong khoang xe nên thảnh thơi quá nhỉ."
+"Xì, anh ngồi trong khoang xe nên thảnh thơi quá nhỉ."
 
 "Đành chịu thôi, ghế đánh xe chỉ ngồi được hai người. Hơn nữa người dân trong thành có thấy cậu, thủ lĩnh của Rìu Lôi Thần, thì mới thật sự an tâm rằng không còn phải sợ mối đe dọa từ loài Orc nữa chứ."
 
@@ -122,7 +122,7 @@ Xoa nhẹ đầu Set khi nó dụi vào như muốn hỏi có chuyện gì, Rei 
 
 Thoáng trầm ngâm vài giây trước câu nói đó, Rei lại vỗ về đầu Set rồi lấy từ Nhẫn Sương Mù ra mấy ổ sandwich.
 
-"Xin lỗi nhé, tao phải đi giải quyết chút chuyện nên Set cứ ra chỗ cũ ăn mấy cái này rồi đợi tao nhé."
+"Xin lỗi nhé, tao phải đi giải quyết chút chuyện nên Set cứ ra chỗ cũ ăn mấy cái này rồi đợi tao một lát."
 
 "Gùuu..."
 
@@ -170,7 +170,7 @@ Hai chữ "lép kẹp" khiến Lenora giật thót, nhưng cô vẫn cố tỏ r
 
 "Biết đâu đấy, tớ đâu có chỉ đích danh ai, bộ có người thấy nhột à?"
 
-"Gớm chưa kìa, thiệt tình. Bảo sao người ta bảo đàn bà ngực nhỏ thì bụng dạ cũng hẹp hòi. Ôi chao, tội nghiệp cậu Rei ghê, vớ ngay phải người phụ trách thế này. Phải tay tớ thì tớ đã tận tình chỉ bảo từng li từng tí, cặn kẽ tường tận, đẫm đà sâu đậm đủ mọi thứ rồi."
+"Gớm chưa kìa, thiệt tình. Thảo nào người ta bảo đàn bà ngực nhỏ thì bụng dạ cũng hẹp hòi. Ôi chao, tội nghiệp cậu Rei ghê, vớ ngay phải người phụ trách thế này. Phải tay tớ thì tớ đã tận tình chỉ bảo từng li từng tí, cặn kẽ tường tận, nồng nhiệt sâu đậm đủ mọi thứ rồi."
 
 "Kenny, cậu vừa vừa phai phải thôi nhé!"
 
@@ -182,9 +182,9 @@ Vẫn căn phòng nơi họ từng nghe phổ biến về chiến dịch thảo 
 
 Bởi lần đầu tiên bước vào là trong buổi họp mặt đoàn thảo phạt Orc, nên đối với Rei, phòng họp lúc này chỉ có hai người trông rộng thênh thang và trống trải đến lạ kỳ.
 
-Ngồi xuống chiếc ghế được mời và đối mặt nhau chừng vài chục giây, Bobbs phá vỡ sự im lặng bằng việc cất lời.
+Rei ngồi xuống chiếc ghế Bobbs mời. Hai người trầm mặc đối diện nhau chừng vài chục giây rồi Bobbs mới cất lời.
 
-"Sau đây tôi còn cả đống việc dọn dẹp hậu sự các thứ phải giải quyết... kể cả vụ Ngôi Sao Màn Đêm nữa. Thế nên tôi nói thẳng luôn, ngay ngày mai hạng mạo hiểm giả của cậu sẽ được nâng lên Hạng E."
+"Sau đây tôi còn cả đống việc tồn đọng sau chiến dịch phải giải quyết... kể cả vụ Ngôi Sao Màn Đêm nữa. Thế nên tôi nói thẳng luôn, ngay ngày mai hạng mạo hiểm giả của cậu sẽ được nâng lên Hạng E."
 
 "Hạng E à. Tôi cứ ngỡ cùng lắm cũng chỉ lên Hạng F thôi chứ."
 

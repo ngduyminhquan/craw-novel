@@ -44,9 +44,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 37 |  | Chapter_0037 - オーク集落襲撃 - 第37話.txt | オーク集落襲撃 - 第37話 | reviewed |  |
 | 38 |  | Chapter_0038 - オーク集落襲撃 - 第38話.txt | オーク集落襲撃 - 第38話 | reviewed |  |
 | 39 |  | Chapter_0039 - オーク集落襲撃 - 第39話.txt | オーク集落襲撃 - 第39話 | reviewed |  |
-| 40 |  | Chapter_0040 - オーク集落襲撃 - 第40話.txt | オーク集落襲撃 - 第40話 | done |  |
-| 41 |  | Chapter_0041 - オーク集落襲撃 - 第41話.txt | オーク集落襲撃 - 第41話 | done |  |
-| 42 |  | Chapter_0042 - オーク集落襲撃 - 第42話.txt | オーク集落襲撃 - 第42話 | done |  |
+| 40 |  | Chapter_0040 - オーク集落襲撃 - 第40話.txt | オーク集落襲撃 - 第40話 | reviewed |  |
+| 41 |  | Chapter_0041 - オーク集落襲撃 - 第41話.txt | オーク集落襲撃 - 第41話 | reviewed |  |
+| 42 |  | Chapter_0042 - オーク集落襲撃 - 第42話.txt | オーク集落襲撃 - 第42話 | reviewed |  |
 | 43 |  | Chapter_0043 - オーク集落襲撃 - 第43話.txt | オーク集落襲撃 - 第43話 | todo |  |
 | 44 |  | Chapter_0044 - ランクアップ試験 - 第44話.txt | ランクアップ試験 - 第44話 | todo |  |
 | 45 |  | Chapter_0045 - ランクアップ試験 - 第45話.txt | ランクアップ試験 - 第45話 | todo |  |

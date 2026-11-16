@@ -1,6 +1,6 @@
 # Chương 40: Đột kích bộ lạc Orc (40)
 
-Cuộc tập kích đêm vào bộ lạc Orc đã kết thúc, và vài tiếng đã trôi qua kể từ khi mọi người quay về điểm đóng quân của Bobbs. Cả đội thảo phạt, bao gồm cả Rei, đều đang ngủ say như chết.
+Vài tiếng đã trôi qua kể từ khi cuộc tập kích đêm vào bộ lạc Orc kết thúc và mọi người quay về điểm đóng quân của Bobbs. Cả đội thảo phạt, bao gồm cả Rei, đều đang ngủ say như chết.
 
 Gần những cỗ xe ngựa nơi mọi người đang say giấc, Bobbs vẫn thức để cảnh giới phòng hờ; ngay bên cạnh, Elk ngồi bệt trên mặt đất, tì tì chén hết món này đến món khác do Rei lấy ra từ Nhẫn Sương Mù trước khi đi ngủ.
 
@@ -18,7 +18,7 @@ Hướng theo ánh mắt của Elk, Set đang nằm dài trên bãi cỏ, khép 
 
 Nhìn Elk đã tọng vào bụng lượng thức ăn gần bằng mười người lớn, Bobbs ngán ngẩm lẩm bẩm như để trả đũa câu nói lúc nãy.
 
-"Tôi chiến đấu suốt cả đêm đấy chứ đùa. Lát nữa mọi người dậy là có việc lớn phải làm: tới bộ lạc Orc thu thập chiến lợi phẩm còn gì? Chưa kể kho báu mà lũ Orc gom góp bấy lâu vẫn chưa tìm ra. ...Mà thôi, ngay dinh thự của Orc King ở giữa bộ lạc còn chẳng thấy đâu thì chắc cũng chẳng trông mong gì nhiều được rồi."
+"Tôi chiến đấu suốt cả đêm đấy chứ đùa. Lát nữa mọi người dậy là có việc lớn phải làm: tới bộ lạc Orc mổ xẻ lấy nguyên liệu còn gì? Chưa kể kho báu mà lũ Orc gom góp bấy lâu vẫn chưa tìm ra. ...Mà thôi, ngay căn nhà lớn của Orc King ở giữa bộ lạc còn chẳng thấy đâu thì chắc cũng chẳng trông mong gì nhiều được rồi."
 
 Cuối cùng cũng ăn xong, Elk uống cạn bình nước rồi thở phào nhẹ nhõm.
 
@@ -62,9 +62,9 @@ Hiểu rằng đây không phải chuyện để oang oang cho người khác ng
 
 "Bobbs?"
 
-"Tôi tính bảo cậu ấy sớm làm bài thi thăng hạng lên Hạng D."
+"Tôi tính bảo cậu ta sớm làm bài thi thăng hạng lên Hạng D."
 
-Dù ủy thác này mang tính khẩn cấp cao đến đâu, việc thực chất được thăng hạng tới ba bậc chỉ sau một nhiệm vụ duy nhất vẫn là điều khó tin tới mức nào, chính Elk, người từng kinh qua từng bậc thăng tiến, là người hiểu rõ hơn ai hết.
+Dù ủy thác này khẩn cấp đến đâu, chuyện nhảy vọt tới ba hạng chỉ sau một nhiệm vụ duy nhất vẫn là điều khó tin nhường nào, chính một người từng đi lên qua từng bậc như Elk lại càng hiểu rõ hơn ai hết.
 
 "...Anh nói thật đấy chứ?"
 
@@ -166,7 +166,7 @@ Rei là người bị dựng dậy đầu tiên để lấy nhu yếu phẩm ti�
 
 Đập vào mắt cậu là một Elk trông vẫn tràn trề sinh lực dù thức trắng đêm canh gác, một Min đã hồi phục được phần nào ma lực và tươi tỉnh trở lại, cùng với một Rhodes mắt nhắm mắt mở ngái ngủ.
 
-Quanh đây lúc này chỉ còn lác đác vài mạo hiểm giả. Lẽ ra hai người phụ nữ được giải cứu khỏi bộ lạc Orc đêm qua cũng có mặt ở đây, nhưng theo lệnh của Bobbs, họ đã được cho đi cùng chuyến xe ngựa mà vài mạo hiểm giả dùng để về thành phố Gilm báo tin chiến thắng cho Hội trước một bước, nên hiện tại không còn ở lại.
+Quanh đây lúc này chỉ còn lác đác vài mạo hiểm giả. Lẽ ra hai người phụ nữ được giải cứu khỏi bộ lạc Orc đêm qua cũng ở đây, nhưng Bobbs đã cử vài mạo hiểm giả đánh xe ngựa về thành phố Gilm trước để báo tin thắng trận cho Hội và cho hai người họ đi cùng luôn, nên giờ họ không còn ở lại nữa.
 
 "Vâng. Lũ Orc tôi hạ đều được thu gọn hết vào Nhẫn Sương Mù như Orc King rồi. Tôi tính về tới thành phố mới mổ xẻ lấy nguyên liệu với cắt bộ phận xác nhận thảo phạt."
 
