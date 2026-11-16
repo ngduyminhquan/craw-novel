@@ -1,217 +1,217 @@
 # Chương 10: Đột kích bộ lạc Orc (10)
 
-Khi ánh bình minh dần ló rạng, Set vừa gừ nhẹ trong cổ họng vừa khẽ lắc mình đánh thức Rei lúc này vẫn đang tựa vào thân nó ngủ say.
+Khi mặt trời bắt đầu lên, Set vừa gừ nhẹ trong cổ họng vừa khẽ lắc người đánh thức Rei đang tựa vào nó ngủ.
 
 "Hửm? Set... đấy à?"
 
 "Gùuu."
 
-Dụi mắt nhìn quanh, cậu thấy mặt trời đã nhô lên hẳn, báo hiệu một buổi sáng sớm đã bắt đầu.
+Dụi mắt nhìn quanh, cậu thấy mặt trời đã nhô lên hẳn, xem ra mới chỉ sáng sớm.
 
 "Sáng rồi à... Ngủ ngon hơn mình tưởng đấy chứ."
 
-Vừa lẩm bẩm, Rei vừa đứng dậy kiểm tra thể trạng. Đêm qua cậu đã vận động cho tới tận lúc đi ngủ, thế nhưng cơ thể chẳng hề có chút dấu hiệu đau nhức cơ bắp nào.
+Vừa lẩm bẩm, Rei vừa đứng dậy kiểm tra xem người ngợm thế nào. Tối qua cậu vận động mãi đến tận lúc đi ngủ, vậy mà chẳng thấy đau nhức cơ bắp chút nào.
 
 "Gừưư."
 
-Nghe tiếng Set gọi, Rei quay lại thì thấy một quả Thủy Cầu đang lơ lửng trên không trung, ý bảo cậu dùng nó mà rửa mặt.
+Nghe tiếng Set kêu, Rei quay lại thì thấy một quả Thủy Cầu đang lơ lửng trước mặt, chắc ý bảo cậu dùng nó mà rửa mặt.
 
-"Tiện quá, cảm ơn mày nhé."
+"Đỡ quá, cảm ơn nhé."
 
-Cảm ơn nó một câu ngắn gọn, cậu rửa mặt như tối qua, vỗ nhẹ cho ráo bớt nước rồi để mặc gió hong khô.
+Cảm ơn nó một câu ngắn gọn, cậu rửa mặt giống tối qua, vẩy qua loa cho ráo nước rồi để khô tự nhiên.
 
-Sau đó, nhờ than củi vẫn cháy do Set trông nom đống lửa suốt đêm, Rei nướng vài miếng thịt Gấu Nước lót dạ cho bữa sáng, rồi chia đôi hai Quả Clara cuối cùng cho mỗi bên một quả, hoàn tất khâu chuẩn bị lên đường.
+Sau đó, nhờ Set trông lửa suốt đêm nên đống lửa vẫn còn cháy, Rei nướng qua loa ít thịt Gấu Nước ăn sáng, rồi chia nốt hai Quả Clara cuối cùng mỗi đứa một quả, thế là xong phần chuẩn bị lên đường.
 
-"Nào, chuẩn bị xuất phát thôi nhỉ... Đêm qua để mày canh gác, sức lực có sao không đấy?"
+"Nào, sắp xuất phát thôi nhỉ... Tối qua để mày thức canh rồi, giờ sức lực có sao không đấy?"
 
 "Gùuu."
 
-Set cất tiếng kêu như muốn đáp rằng chẳng có vấn đề gì hết.
+Set kêu lên một tiếng như bảo chẳng vấn đề gì hết.
 
-Nếu là một con Griffin bình thường, thức trắng một đêm chắc chắn sẽ lộ vẻ mệt mỏi, nhưng Set lại là ma thú Griffin được sinh ra từ Ma Thú Thuật với nguồn ma lực khổng lồ của Rei. Đừng nói một đêm, có thức liền một tuần nó cũng chẳng hề hấn gì, tuy rằng sau đó hẳn sẽ phải nghỉ ngơi bù vài ngày.
+Nếu là Griffin bình thường thì thức trắng một đêm chắc chắn sẽ thấm mệt ít nhiều, nhưng Set là Griffin được tạo ra từ Ma Thú Thuật bằng lượng ma lực khổng lồ của Rei. Đừng nói một đêm, thức liền cả tuần với nó cũng chẳng xi nhê gì. Tất nhiên làm thế xong thì chắc cũng phải nghỉ bù mấy ngày.
 
 "Vậy à. Thế thì đi luôn nhé."
 
 "Gùuu."
 
-Như hồi còn trong rừng, Set cúi thấp lưng ra hiệu cho Rei trèo lên. Cậu khẽ vuốt lưng nó để tỏ lòng biết ơn, rồi tay cầm Lưỡi Hái Tử Thần trèo lên cưỡi.
+Giống hồi còn trong rừng, Set hạ thấp người xuống ra hiệu cho cậu trèo lên. Rei vỗ nhẹ lên lưng nó thay lời cảm ơn, rồi cầm luôn Lưỡi Hái Tử Thần leo lên ngồi.
 
 "Gừưưưưưưưư!"
 
-Nó cất tiếng kêu vang, chạy lấy đà vài bước rồi vỗ cánh lao vút lên như thể đang sải bước trên không trung. Khi đã đạt tới độ cao vừa đủ, nó vừa vỗ đôi cánh khổng lồ vừa ngoái đầu lại nhìn Rei đang ngồi trên lưng.
+Nó kêu vang một tiếng, chạy lấy đà vài bước rồi vỗ cánh lao vút lên như đang chạy trên không trung. Lên tới độ cao vừa đủ, nó vừa đập đôi cánh to lớn vừa ngoái đầu lại nhìn Rei trên lưng.
 
 "Gùuu?"
 
-Thấy Set như muốn hỏi nên đi hướng nào, Rei liền chỉ tay về phía nam. Dù chẳng biết có đáng tin hay không, nhưng theo tri thức của Zepairu thì từ khu rừng này đi về hướng nam vài ngày sẽ có một thành phố khá lớn... ít nhất là theo những gì được truyền lại.
+Thấy Set như muốn hỏi đi hướng nào, Rei liền chỉ về phía nam. Chẳng biết có đáng tin không, nhưng theo kiến thức của Zepairu thì từ khu rừng này đi về phía nam vài ngày sẽ tới một thành phố khá lớn... ít nhất là hồi xưa nó thế.
 
-Có điều, Rei vốn đã nhận định tri thức của Zepairu không đáng tin đến mức ấy, nên cậu chỉ xem nó như tài liệu tham khảo mà thôi. Dẫu vậy, có cái để tham khảo vẫn tốt hơn nhiều so với việc mù tịt không có gì.
+Có điều, Rei đã thấy kiến thức của Zepairu không đáng tin lắm rồi, nên cậu chỉ coi như tham khảo thôi. Dù vậy, có cái để tham khảo vẫn đỡ hơn hẳn cảnh mù tịt không biết gì.
 
 "Về phía nam."
 
 "Grrr!"
 
-Nghe Rei nói, Set đáp lại bằng một tiếng kêu dứt khoát, sải rộng đôi cánh bay thẳng về phương nam.
+Nghe Rei nói, Set kêu lên một tiếng dứt khoát, đổi hướng bay thẳng về phía nam.
 
 "...Tuyệt thật đấy."
 
-Chiêm ngưỡng khung cảnh mở ra từ trên lưng Set, Rei không kìm được mà buột miệng thốt lên.
+Nhìn khung cảnh mở ra từ trên lưng Set, cậu không nhịn được mà buột miệng thốt lên.
 
-Trải rộng trước mắt cậu là bầu trời xanh ngắt cao vời vợi cùng tấm thảm xanh rì của đồng cỏ bao la. Ngút tầm mắt chẳng hề có lấy một thị trấn hay ngôi làng nào, hoàn toàn không có dấu vết của nhân tạo.
+Trước mắt cậu là bầu trời xanh ngắt trải dài tít tắp cùng cả một tấm thảm cỏ xanh rì. Nhìn quanh hết tầm mắt chẳng thấy bóng dáng thành phố, làng mạc hay bất cứ công trình nhân tạo nào.
 
-Dù sinh ra và lớn lên ở một thị trấn miền quê vùng Tohoku, nơi đó dĩ nhiên vẫn có nhà cậu, nhà hàng xóm, và chỉ cần đạp xe một quãng là đã tới được khu phố thị. Chính vì thế, một thế giới chỉ toàn thiên nhiên thuần khiết trải dài tít tắp trước mắt thế này là cảnh tượng đầu tiên cậu được thấy trong đời.
+Dù lớn lên ở một thị trấn quê vùng Tohoku, ở đó dĩ nhiên vẫn có nhà cậu, nhà hàng xóm, đạp xe một quãng cũng tới được khu phố xá. Thế nên với Rei, một thế giới chỉ toàn thiên nhiên trải dài hết tầm mắt thế này đúng là lần đầu tiên trong đời cậu được thấy.
 
 "Gừưưư!"
 
-Có lẽ nhận ra Rei đang thích thú ngắm nhìn cảnh vật từ trên cao, Set cất tiếng kêu đầy vui sướng, sải cánh mạnh mẽ hơn nữa để lướt đi giữa bầu trời.
+Chắc thấy Rei đang thích thú ngắm cảnh từ trên cao, Set kêu lên vui vẻ rồi đập cánh mạnh hơn, lao vun vút giữa bầu trời.
 
-"...Khoan đã, đâu thể cứ mải ngắm cảnh mãi được, mình phải tính xem thân phận của mình là gì đã chứ."
+"...À mà, không thể cứ mải ngắm cảnh mãi được, mình phải nghĩ trước xem lai lịch mình thế nào đã."
 
-Vốn dĩ cậu chỉ biết về thường thức của thế giới này qua tri thức của Zepairu. Mà lượng tri thức ấy xem chừng lại chẳng mấy đáng tin, nên cậu phải nghĩ sẵn một vỏ bọc lai lịch sao cho việc mình không rành sự đời trở nên hợp tình hợp lý. Nghĩ vậy, Rei vừa ngắm cảnh vừa chia nửa tâm trí để tính toán chuyện này.
+Vốn dĩ cậu chỉ biết thường thức thế giới này qua kiến thức của Zepairu. Mà mớ kiến thức đó xem chừng chẳng đáng tin lắm, nên cậu phải bịa sẵn một cái lý lịch sao cho việc mình ngơ ngác không biết gì về sự đời nghe hợp lý chút. Nghĩ vậy, Rei vừa ngắm cảnh vừa chia nửa đầu óc ra tính chuyện này.
 
-(Trước hết, một khi đã buộc phải sống như một mạo hiểm giả thì thân phận ma thuật sư là không thể thiếu. Đi cùng Set thế này thì cũng cần thêm lai lịch sở hữu năng lực thuộc dạng Triệu Hồi Thuật hoặc Thuần Thú Sư nữa. Đã vậy còn phải là vỏ bọc sao cho dù có ngây ngô về sự đời cũng không ai nghi ngờ...)
+(Trước hết, đã xác định sống bằng nghề mạo hiểm giả thì cái mác ma thuật sư là bắt buộc rồi. Đi cùng Set thế này thì cũng phải gán thêm kiểu có năng lực Triệu Hồi Thuật hay Thuần Thú Sư nữa. Đã thế còn phải là lý lịch kiểu gì để có mù tịt sự đời cũng không bị nghi...)
 
-Cậu lục lại trong ký ức những bộ tiểu thuyết, truyện tranh hay phim ảnh tương tự mà mình từng đọc và xem trước đây.
+Cậu lục lại trong đầu mấy bộ tiểu thuyết, truyện tranh với phim ảnh tương tự từng đọc từng xem.
 
-(Mất trí nhớ ư... Đi cùng Set thế này thì không ổn rồi. Ma thuật dịch chuyển mất khống chế nên bị thổi bay tới một nơi hoàn toàn xa lạ? Cách đó cũng khả thi, nhưng... khoan đã.)
+(Mất trí nhớ... có Set đi cùng thế này thì chịu rồi. Ma pháp dịch chuyển bị lỗi nên văng tới một chỗ khỉ ho cò gáy nào đó à? Cách đó cũng được đấy, nhưng... khoan đã.)
 
-Khoảnh khắc ấy, trong đầu Rei chợt lóe lên ký ức về một bộ manga từng đọc hồi còn là Saeki Reiji, kể về người tập sự ma pháp tu luyện ở nơi hẻo lánh cách biệt thế gian, rồi được sư phụ phái đi chu du rèn luyện.
+Đúng lúc đó, Rei chợt nhớ tới một bộ manga hồi còn là Saeki Reiji từng đọc, kể về một đứa học việc ma pháp tu luyện tận nơi hẻo lánh rồi được sư phụ cho đi du hành rèn luyện.
 
-Cậu lần lượt áp từng tình cảnh hiện tại của mình vào đó.
+Cậu thử ướm từng chi tiết hoàn cảnh hiện tại của mình vào khuôn mẫu đó.
 
-(Sống cùng sư phụ ở nơi hẻo lánh cách biệt nhân gian nên mù tịt sự đời... Được rồi, điểm này duyệt. Ma pháp, à không, ma thuật học từ vị sư phụ đó là ma thuật hệ Hỏa và Triệu Hồi Thuật... nhưng lỡ bị bảo triệu hồi con khác ngoài Set thì phiền phức lắm, cứ nhận là Thuần Thú Sư đi. Theo tri thức của Zepairu thì dường như nghề Thuần Thú Sư quả thực có tồn tại. Rồi thì vị sư phụ ma thuật sau khi dạy xong những điều cơ bản đã dùng Không Gian Ma Thuật dịch chuyển mình đến một nơi xa lạ để rèn luyện, mình cùng cộng sự Set vừa săn quái vật vừa lang thang thì tình cờ tìm thấy làng mạc hay thành phố nào đó, đại loại thế.)
+(Ở chung với mỗi sư phụ tại nơi khỉ ho cò gáy nên không rành sự đời... OK. Ma pháp, à không, ma thuật học được từ ông thầy là ma thuật hệ Hỏa với Triệu Hồi Thuật... cơ mà lỡ bị bắt triệu hồi con khác ngoài Set thì kẹt lắm, nên cứ nhận là Thuần Thú Sư đi. Theo kiến thức của Zepairu thì hình như cũng có nghề Thuần Thú Sư thật. Rồi ông sư phụ ma thuật sau khi dạy xong hết mấy thứ cơ bản liền dùng Không Gian Ma Thuật dịch chuyển mình tới chỗ lạ hoắc để rèn luyện, mình với cộng sự Set vừa săn quái vật vừa đi lang thang thì mò ra được thành phố hay làng mạc gì đó, đại khái vậy.)
 
-Sau khi rà soát lại toàn bộ câu chuyện lai lịch tự dựng xem có kẽ hở nào không, cậu khẽ lẩm bẩm.
+Suy đi tính lại trong đầu xem cái lý lịch tự bịa có chỗ nào cấn không, cậu khẽ lẩm bẩm.
 
 "Chắc là không sao đâu."
 
-Nếu nghĩ kỹ lại, tuy tu luyện làm ma thuật sư nhưng lại dùng vũ khí là một cây đại hái khổng lồ như Lưỡi Hái Tử Thần, cây đại hái ấy lại chính là vật phát động ma thuật, hay nói cách khác là cây gậy phép thông thường, còn sư phụ phái đi rèn luyện lại vứt ra đường mà không cho lấy một xu dính túi, đã vậy cả Rei lẫn Set đều trang bị những Đạo Cụ Ma Thuật đắt giá và hiệu năng cao... Đúng là có vô số điểm kỳ quặc. Thế nhưng Rei chẳng thể nghĩ ra vỏ bọc nào giàu tính thuyết phục hơn, nên cậu cũng chẳng bận tâm nữa mà hài lòng gật đầu.
+Nghĩ kỹ thì đúng là lắm chỗ vô lý thật: học làm ma thuật sư mà lại vác cây đại hái khổng lồ là Lưỡi Hái Tử Thần, cây hái đó lại làm vật phát động ma thuật kiểu như trượng phép thông thường, đi rèn luyện mà sư phụ ném ra đường không một xu dính túi, đã thế cả Rei lẫn Set đều đeo toàn Đạo Cụ Ma Thuật đắt tiền hàng xịn... Nhưng Rei cũng chẳng nghĩ ra được cái lý lịch nào nghe xuôi tai hơn, nên cậu mặc kệ luôn, gật đầu hài lòng.
 
-Vài tiếng đồng hồ trôi qua kể từ khi chốt xong phần lai lịch. Không có sự cố nào xảy ra, Set cùng Rei trên lưng vẫn ung dung tận hưởng chuyến bay giữa bầu trời.
+Từ lúc chốt xong lý lịch, mấy tiếng đồng hồ nữa trôi qua. Chẳng có chuyện gì xảy ra, Set cùng Rei ngồi trên lưng cứ thế tận hưởng chuyến bay trên trời.
 
-Rei thích thú ngắm cảnh từ trên cao một lúc, nhưng nhìn mãi một cảnh sắc suốt mấy tiếng đồng hồ thì rốt cuộc cũng đâm chán. Cậu từng nghĩ liệu có những tình tiết quen thuộc trong tiểu thuyết như quái vật lao tới tấn công, cỗ xe ngựa của thương nhân hay quý tộc bị đạo tặc cướp bóc, hoặc nhóm mạo hiểm giả bị quái vật vây hãm hay không, thế nhưng thực tế đâu có dễ chiều lòng người đến thế. Chẳng có biến cố nào xảy ra, cậu cứ thế để mặc cơ thể đung đưa theo từng nhịp bay trên lưng Set.
+Lúc đầu Rei cũng thích thú ngắm cảnh từ trên cao đấy, nhưng nhìn mãi một cảnh suốt mấy tiếng liền thì đâm ra chán ngắt. Cậu cứ ngóng xem có gặp mấy pha kinh điển trong tiểu thuyết như quái vật lao ra tập kích, xe ngựa thương nhân hay quý tộc bị cướp tấn công, hoặc mạo hiểm giả bị quái vật vây đánh không, ai ngờ đời chẳng như mơ. Chẳng có chuyện gì xảy ra cả, cậu cứ thế lắc lư ngồi trên lưng Set.
 
-Thêm vài tiếng trôi qua. Mặt trời đã lên đến đỉnh đầu và trời cũng sắp chuyển sang trưa, ngay lúc Rei bắt đầu tính đến việc phải nghiêm túc tìm quái vật ăn được để lấp bụng.
+Mấy tiếng nữa lại trôi qua. Mặt trời đã lên thẳng đỉnh đầu, tầm này cũng sắp trưa rồi nên Rei bắt đầu nghĩ phải nghiêm túc kiếm con quái vật nào ăn được mà bỏ bụng, thì đúng lúc đó.
 
 "Gừưưưư!"
 
-Set bất chợt cất tiếng kêu như muốn thu hút sự chú ý.
+Set kêu lên một tiếng như muốn gây chú ý.
 
-"Có chuyện gì thế?"
-
-"Gùuu."
-
-Đáp lại câu hỏi của Rei, Set hướng ánh mắt về phía trước. Dõi theo ánh nhìn của nó, Rei thấy rõ một công trình nhân tạo... đúng hơn là san sát những mái nhà. Đó chẳng phải một ngôi làng hay thị trấn nhỏ, mà là một thành phố quy mô rất lớn với dân số ước chừng phải lên tới vài vạn người. Có lẽ để phòng ngừa quái vật, toàn bộ thành phố được bao bọc kiên cố bằng một bức tường thành sừng sững, đúng chất một đô thị tường thành.
-
-Nhìn thấy thành phố ấy, Rei khẽ thở dài.
-
-"Đúng là chẳng biết nên bảo là hiển nhiên hay đúng như dự đoán nữa... Trong tri thức của Zepairu không có thành phố này, nhưng trải qua vài trăm năm thì việc xây dựng nên một nơi như thế cũng là điều dễ hiểu. Đã vậy thì đành phải vào đó thu thập thông tin xem sao."
-
-Có lẽ do đã tới gần thành phố, phía dưới mắt cậu xuất hiện một con đường mòn dẫn vào bên trong. Dĩ nhiên đó không phải đường trải nhựa bê tông hay lát đá, mà chỉ là lối đi tự nhiên do dấu chân người và xe ngựa qua lại thành phố giẫm nén lâu ngày mà thành. Trên con đường ấy, lác đác có người đang tiến bước.
-
-(Giờ thì tính sao đây. Trước hết, việc cưỡi Set đáp thẳng từ trên trời xuống giữa lòng thành phố chắc chắn bị gạt phắt đi không cần bàn cãi. Vậy thì ngoan ngoãn đi qua cổng chính là thượng sách, nhưng... nếu cưỡi Set đáp ngay sát cổng thì lính gác cổng hay những người xung quanh sẽ phải cảnh giác đề phòng mất. Cách này cũng loại. Thế thì hạ cánh ở một nơi cách xa một quãng, rồi cùng Set đi bộ tới thành phố vậy.)
-
-Nhìn những người đi đường bên dưới đang chỉ trỏ về phía Set và cất tiếng kinh ngạc, Rei quyết định phương án hành động.
-
-"Set, lát nữa hạ cánh xuống đất nhé. Mình sẽ không bay thẳng vào mà đi bộ tới thành phố đó."
+"Sao thế?"
 
 "Gùuu."
 
-Trước lời đề nghị của Rei, Set khẽ kêu lên một tiếng rồi đập mạnh cánh hướng về phía thành phố. Vài phút sau, ở khoảng cách chừng mười phút đi bộ tới cổng thành, Set và Rei kết thúc chuyến hành trình trên không.
+Nghe Rei hỏi, Set hướng mắt về phía trước. Nhìn theo hướng đó, Rei thấy rõ một công trình nhân tạo... đúng hơn là cả một dãy nhà cửa san sát. Không phải làng hay thị trấn nhỏ, mà là một thành phố cực lớn, dân số chắc phải cỡ vài vạn người. Chắc để đề phòng quái vật nên cả thành phố được bao quanh bởi tường thành, đúng kiểu đô thị có tường bao vậy.
 
-Đáp xuống mặt đất, Set và Rei rảo bước trên con đường dẫn vào thành phố. Xung quanh họ, có lẽ do tận mắt chứng kiến cảnh Set hạ cánh, những người lữ hành, thương nhân hay mạo hiểm giả đều giữ một khoảng cách khá xa với một người một thú khi tiến về phía cổng thành.
+Nhìn thấy thành phố đó, Rei khẽ thở dài.
 
-(Ra thế, đằng kia là mạo hiểm giả à. Thường thì họ lập nhóm vài người cùng hoạt động, đúng như những câu chuyện mình từng biết. Vũ khí gồm kiếm, thương, rồi cung tên. Còn người cầm trượng đằng kia chắc là ma thuật sư chăng?)
+"Phải nói là tất nhiên hay đúng như dự đoán đây... Trong kiến thức của Zepairu không có thành phố này, nhưng mấy trăm năm thì thừa sức dựng nên một nơi cỡ đó rồi. Vậy thì vào trong thành phố kiếm thông tin thôi."
 
-Không để lộ sự tò mò, Rei vừa bước đi trên nền đất nén vừa quan sát xung quanh, đặc biệt là những người có vẻ là mạo hiểm giả. Phía các mạo hiểm giả, không biết do nhận ra mình đang bị dò xét hay đơn thuần chỉ là cảnh giác trước một con Griffin như Set, cũng đang dán mắt theo dõi nhóm của Rei.
+Chắc vì đã gần thành phố, bên dưới có một con đường nối thẳng tới đó. Dĩ nhiên không phải đường bê tông hay lát đá gì, mà chỉ là đường đất tự nhiên do chân người với xe ngựa ra vào thành phố giẫm lâu ngày mà thành. Trên đường cũng thấy lác đác người qua lại.
 
-Tình trạng ấy kéo dài chừng mười phút, cuối cùng lối vào thành phố cũng hiện ra trước mắt. Ở đó, chẳng biết nên xem là dĩ nhiên hay ngoài dự kiến, năm người lính trang bị giáo mác và gươm kiếm đã đứng sẵn chờ nhóm của Rei.
+(Giờ tính sao đây. Trước hết, cưỡi Set đáp thẳng từ trên trời xuống giữa thành phố chắc chắn là dẹp ngay khỏi bàn. Vậy thì cứ đi đường cổng chính là ổn nhất, cơ mà... đáp sát ngay cổng thì lính gác hay người quanh đó lại giật mình cảnh giác mất. Cách này cũng bỏ. Thế thì đáp xuống chỗ xa xa một chút rồi dắt Set đi bộ tới thành phố vậy.)
+
+Nhìn đám người đi đường bên dưới đang chỉ trỏ lên phía Set kêu ầm lên kinh ngạc, Rei chốt luôn cách làm.
+
+"Set, lát nữa đáp xuống đất nhé. Không bay nữa, mình đi bộ tới thành phố kia thôi."
+
+"Gùuu."
+
+Nghe Rei bảo vậy, Set kêu khẽ một tiếng rồi vỗ mạnh cánh bay về phía thành phố. Vài phút sau, tới chỗ cách thành phố chừng mười phút đi bộ, cả hai kết thúc chuyến bay.
+
+Đáp xuống đất, Set và Rei đi bộ theo con đường dẫn vào thành phố. Xung quanh đó, chắc vì tận mắt thấy cảnh Set hạ cánh nên từ người đi đường, thương nhân cho tới mạo hiểm giả ai nấy đều giữ khoảng cách khá xa với cả hai khi đi về phía cổng thành.
+
+(À, ra đám kia là mạo hiểm giả. Thường thì lập nhóm vài người đi chung với nhau đúng như mô-típ hay gặp nhỉ. Vũ khí toàn kiếm, thương với cung. Còn người cầm trượng chắc là ma thuật sư à?)
+
+Vừa đi trên nền đất cứng, Rei vừa kín đáo quan sát xung quanh, nhất là mấy người trông giống mạo hiểm giả. Phía bên kia, không rõ do nhận ra đang bị nhìn hay đơn thuần là cảnh giác con Griffin như Set, họ cũng đang dè chừng quan sát lại phía Rei.
+
+Cứ thế đi chừng mười phút, cuối cùng cổng vào thành phố cũng hiện ra. Ở đó, nên bảo là tất nhiên hay ngoài dự đoán đây, năm người lính cầm thương đeo kiếm đã đứng chờ sẵn nhóm Rei.
 
 "..."
 
-Dĩ nhiên chẳng dại gì ra tay trước, Rei lẳng lặng bước lại gần đám lính gác, theo sau là Set đang ngoan ngoãn rảo bước. Nhìn một người một thú cứ thế tiến lại, khoảng cách càng thu hẹp thì bầu không khí căng thẳng xung quanh càng dâng cao. Đúng lúc đó, một người đàn ông bất ngờ tách khỏi hàng ngũ binh lính, bước tới đón Rei.
+Chẳng dại gì ra tay trước, Rei im lặng đi lại gần đám lính, phía sau là Set ngoan ngoãn bước theo. Nhìn cả hai tiến lại gần, khoảng cách càng ngắn thì không khí xung quanh càng căng thẳng. Đúng lúc đó, một người đàn ông từ trong đám lính bất ngờ bước ra, đi về phía Rei.
 
-(So với những người lính khác trạc tuổi đôi mươi, người này tầm ba bốn mươi tuổi. Chắc hẳn là người chỉ huy toán lính gác kia. Vũ khí... tuy có đeo kiếm bên hông nhưng kiếm vẫn nằm trong bao, xem ra chưa có nguy cơ xung đột.)
+(So với mấy người lính kia tầm hai mươi, ông này cỡ ba bốn mươi tuổi. Chắc là chỉ huy của toán này rồi. Vũ khí... có đeo kiếm nhưng vẫn tra trong vỏ bên hông, xem ra chưa có ý định động thủ.)
 
-Đúng như Rei dự đoán, người đàn ông trung niên để râu cằm liền cất tiếng hỏi thăm.
+Đúng như Rei đoán, người đàn ông trung niên để râu cằm mở lời.
 
-"Tôi là Ranga, đội trưởng đội cảnh vệ của thành phố Gilm. Tôi đoán cậu muốn vào thành phố này, đúng không?"
+"Tôi là Ranga, đội trưởng đội cảnh vệ thành phố Gilm. Cậu đến đây là có việc cần vào thành phố đúng không?"
 
-Trái ngược với vẻ ngoài dữ dằn bặm trợn, giọng nói thốt ra từ miệng ông lại nhẹ nhàng đến bất ngờ. Thoáng chút ngỡ ngàng trước sự tương phản ấy, Rei gật đầu.
+Trái hẳn với khuôn mặt bặm trợn, giọng ông ta lại nhẹ tênh đến bất ngờ. Hơi khựng lại vì sự lệch pha đó, nhưng Rei vẫn gật đầu.
 
-"Vâng, đúng là như vậy."
+"Vâng, đúng vậy."
 
 "Thế à. Vậy phiền cậu qua trạm gác bên kia để tôi hỏi vài câu được chứ? Khổ nỗi cậu lại dắt theo một con quái vật Hạng A như Griffin, thành ra ai nấy đều đang sợ thót tim cả lên đây này."
 
-Liếc nhanh xung quanh, Rei thấy phần lớn ánh mắt của những người gần cổng thành đều đang đổ dồn về phía cậu và Set... Có điều, hễ Rei chạm mắt với ai thì hầu hết họ, kể cả các mạo hiểm giả, đều vội vã lảng tránh đi chỗ khác.
+Liếc qua xung quanh, Rei thấy hầu hết ánh mắt quanh cổng thành đều đang đổ dồn về phía cậu và Set... Có điều, hễ chạm mắt với Rei là gần như ai cũng vội quay đi chỗ khác, kể cả đám mạo hiểm giả.
 
-(Quả nhiên mọi người sợ Set hơn mình tưởng. Nếu vậy thì làm mình làm mẩy ở đây cũng chẳng giải quyết được gì. Ngoan ngoãn vào trạm gác giải thích rốt cuộc lại xong việc nhanh hơn.)
+(Đúng là mọi người sợ Set hơn mình tưởng thật. Vậy thì cãi cọ ở đây cũng chẳng ích gì. Ngoan ngoãn vào trạm gác giải thích khéo lại xong việc nhanh hơn.)
 
-Thầm thở dài trong lòng, cậu gật đầu trước lời đề nghị của người đàn ông.
+Thở dài trong bụng, cậu gật đầu đồng ý.
 
 "Được rồi. Xem ra cứ ngoan ngoãn nghe theo lời ông là tốt nhất."
 
 "Ngại quá nhé. Chứ ai lại để một người dắt theo quái vật hạng cao cỡ Griffin cứ thế đi thẳng vào, cấp trên mà biết là tôi ăn mắng ngay. Đã vậy tôi còn phải làm giấy tờ báo cáo lên Bá tước biên cảnh nữa."
 
-Ranga phân trần tình cảnh bằng cái giọng nhẹ tênh chẳng ăn nhập gì với khuôn mặt bặm trợn. Hóa ra cái giọng điệu thoải mái lúc mới chào hỏi ban nãy không phải do ông cố tình tỏ ra thân thiện để thăm dò Rei và Set, mà đơn thuần đó là bản tính tự nhiên của ông.
+Ranga giải thích hoàn cảnh bằng cái giọng nhẹ tênh chẳng ăn nhập gì với gương mặt bặm trợn. Hóa ra giọng điệu thoải mái lúc nãy không phải ông cố tình giả vờ để dò xét Rei và Set, mà vốn dĩ tính ông như thế thật.
 
-Theo chân Ranga dẫn đường, Rei tiến về phía một tòa nhà nhỏ nằm ngay bên hông cổng thành.
+Đi theo Ranga, Rei hướng về phía căn nhà nhỏ nằm ngay bên cạnh cổng thành.
 
 "À này, ngại quá nhưng căn nhà này không đủ rộng cho một con Griffin vào đâu, cậu bảo nó đợi ở ngoài được chứ?"
 
 "Vâng, không sao. Set."
 
-Gọi tên Set lúc này vẫn đang ngoan ngoãn đi sát phía sau, Rei vừa gãi nhẹ lên đầu chú Griffin khi nó dụi mặt vào người cậu đầy mừng rỡ, vừa nói với âm lượng đủ để Ranga nghe thấy.
+Rei gọi tên Set đang ngoan ngoãn đi ngay sau lưng. Vừa gãi gãi đầu nó khi nó mừng rỡ dụi mặt vào người cậu, cậu vừa nói đủ to để Ranga nghe thấy.
 
 "Tao phải vào trong căn nhà đằng kia nói chuyện một lát, Set cứ nằm nghỉ gần đây nhé."
 
 "Gùuu?"
 
-Set hướng đôi mắt xanh lam nhìn Rei như muốn hỏi cậu có sao không, cậu gật đầu đáp lại.
+Set hướng đôi mắt xanh nhìn cậu như muốn hỏi có sao không, Rei gật đầu đáp lại.
 
 "Không sao đâu. Mày cũng biết thực lực của tao rồi mà, đúng chứ?"
 
 "Gùuu."
 
-Dường như yên tâm trước lời dặn của Rei, Set ngoan ngoãn nằm lăn ra một bãi cỏ cạnh trạm gác. Suốt một đêm thức trắng lại bay thẳng một mạch tới đây không nghỉ ngơi nên chắc hẳn cũng thấm mệt đôi chút, nó từ từ khép mi mắt lại.
+Chắc yên tâm với lời Rei rồi, Set nằm phịch xuống bãi cỏ cạnh trạm gác. Thức trắng cả đêm lại bay một mạch tới đây không nghỉ nên chắc cũng hơi mệt, nó từ từ nhắm mắt lại.
 
-Dĩ nhiên không phải nó buông lỏng cảnh giác hoàn toàn. Vốn sở hữu năng lực vượt trội hơn hẳn loài Griffin thông thường, Set có thể vừa nghỉ ngơi vừa dùng khứu giác, thính giác hay thậm chí là cảm nhận ma lực thay cho thị giác để nắm bắt xung quanh, chuyện đó đối với nó chẳng có gì khó khăn.
+Dĩ nhiên không phải nó lơ là cảnh giác. Khác hẳn đám Griffin bình thường về mọi mặt, Set thừa sức vừa nằm nghỉ vừa dùng mũi, tai hay cảm nhận ma lực để cảnh giới xung quanh thay cho mắt.
 
-"Tôi cũng xin nói trước, trong lúc tôi vào trạm gác nói chuyện thì đừng để ai đến trêu chọc hay quấy rầy nó vô cớ đấy."
+"Tôi nói trước luôn, lúc tôi vào trạm gác nói chuyện thì đừng để ai ra chọc phá nó vớ vẩn đấy."
 
 "À, dĩ nhiên rồi. Tôi đâu có điên mà đi chọc giận một con quái vật Hạng A làm gì. Nhưng mà, ừm... này cậu."
 
 Ranga liền gọi một người lính gần đó lại.
 
-"Có chuyện gì thế ạ, đội trưởng?"
+"Có chuyện gì ạ?"
 
-"Trong lúc tôi với cậu này vào trạm gác nói chuyện, cậu ở đây canh chừng không để ai tới trêu chọc con Griffin đằng kia nhé."
+"Trong lúc tôi với cậu này vào trạm gác nói chuyện, cậu đứng đây trông chừng đừng để ai tới chọc phá con Griffin kia nhé."
 
-"...Hả? Tôi... tôi á?"
+"...Hả? Tôi... tôi ạ?"
 
 "Phải. Cậu chứ ai."
 
 "...Rõ rồi ạ."
 
-Người lính gật đầu với vẻ mặt đầy miễn cưỡng.
+Người lính gật đầu với vẻ mặt miễn cưỡng.
 
-(Mà cũng phải thôi, nghe bảo là quái vật Hạng A thì họ sợ cũng phải.)
+(Mà cũng dễ hiểu thôi, nghe bảo quái vật Hạng A thì sợ cũng phải.)
 
-Tuy chẳng rõ các hạng ở đây được quy định cụ thể ra sao, nhưng nhìn biểu cảm của toán lính gác là đủ đoán được Hạng A hẳn phải thuộc hàng vô cùng nguy hiểm.
+Chưa biết bảng xếp hạng ở đây chia kiểu gì, nhưng cứ nhìn mặt mũi đám lính gác là đoán ngay được Hạng A chắc chắn thuộc dạng cực kỳ nguy hiểm rồi.
 
-Bật cười khổ trước thái độ của người lính, Rei cũng mở lời trấn an.
+Thấy vẻ mặt của anh lính, Rei cười trừ rồi lên tiếng.
 
-"Miễn là không làm trò dại dột chọc phá thì Set sẽ chẳng làm gì đâu, không nguy hiểm gì đâu mà sợ."
+"Chỉ cần đừng tự dưng chạy ra chọc phá nó thì Set không làm gì đâu, chẳng nguy hiểm gì hết."
 
 "Vâng... tôi đành tin vào lời cậu vậy."
 
-"Nào, mau vào trạm gác thôi... à trước đó thì cầm lấy cái này."
+"Thế giờ vào trạm gác luôn... à trước hết cầm lấy cái này đã."
 
-Ranga rút từ đâu ra một mảnh vải đưa cho Rei. Cầm lấy mảnh vải mà chẳng hiểu để làm gì, Rei nhíu mày thắc mắc. Nghĩ ngợi một hồi vẫn không đoán ra công dụng của nó, cậu đành cất tiếng hỏi Ranga.
+Ranga rút từ đâu ra một mảnh vải đưa cho Rei. Cầm lấy mà chẳng hiểu dùng làm gì, Rei nhíu mày. Nghĩ một lát vẫn chẳng đoán ra, cậu đành quay sang hỏi Ranga.
 
-"Đưa tôi mảnh vải này để làm gì thế?"
+"Mảnh vải này dùng làm gì thế?"
 
-"...Này cậu. Cậu định để nguyên lưỡi hái trần thế kia mà bước vào thành phố đấy à? Làm gì có ai đeo lủng lẳng thanh kiếm tuốt trần ra ngoài bao giờ chứ? Giáo mác thì còn tạm bỏ qua, chứ một lưỡi hái khổng lồ để trần thế kia... đứng ở vị trí của tôi thì đâu thể nhắm mắt làm ngơ được."
+"...Cậu này. Cậu định để nguyên lưỡi hái trần trụi thế kia mà đi vào thành phố đấy à? Có ai lại đeo lủng lẳng thanh kiếm tuốt trần ngoài đường bao giờ không? Thương thì còn châm chước được, chứ lưỡi hái to đùng để trần thế kia... ở vị trí của tôi thì không thể làm ngơ được đâu."
 
 "...Tôi hiểu rồi."
 
-Nghe giải thích xong, Rei thấy quả nhiên rất có lý.
+Nghe nói vậy thì thấy cũng có lý thật.
