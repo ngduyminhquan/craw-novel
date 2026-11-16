@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T08:50:21Z",
+  "generatedAt": "2026-11-16T08:59:11Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2405,6 +2405,12 @@
           "title": "Chương 42: Đột kích bộ lạc Orc (42)",
           "path": "translations/legend-1/vi/Chapter_042.md",
           "sha": "de759e91ba42b9bef17c58b81df66cd221cef29f"
+        },
+        {
+          "number": 43,
+          "title": "Chương 43: Đột kích bộ lạc Orc (43)",
+          "path": "translations/legend-1/vi/Chapter_043.md",
+          "sha": "14b7c0673611acbf068b991027865e1fab989262"
         }
       ]
     },

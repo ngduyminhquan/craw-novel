@@ -98,7 +98,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔核 |  | Ma Hạch | vật phẩm | 17 | Hạch ma thuật của quái vật như Slime |
 | 鬼族 |  | Quỷ tộc | chủng tộc | 17 | Chủng tộc quỷ, bao gồm Goblin |
 | 希少種 |  | chủng hiếm | khác | 17 | Cá thể đột biến có năng lực vượt trội hơn đồng loại, hạng quái vật tăng 1 bậc |
-| 一角ウサギ |  | Thỏ Một Sừng | quái vật | 17 | Động vật hoang dã có sừng trên trán, thịt ăn được |
+| 一角ウサギ | 角ウサギ | Thỏ Một Sừng | quái vật | 17 | Động vật hoang dã có sừng trên trán, thịt ăn được |
 | 常時依頼 |  | ủy thác thường trực | hệ thống | 17 | Loại ủy thác của Hội mạo hiểm giả luôn có sẵn, không giới hạn người nhận |
 | 討伐証明部位 |  | bộ phận xác nhận thảo phạt | khác | 17 | Bộ phận nộp cho Hội để chứng minh đã tiêu diệt quái vật (như tai phải của Goblin) |
 | ポーション |  | thuốc hồi phục | vật phẩm | 17 | Dược phẩm hồi phục thể lực, vết thương |
@@ -148,3 +148,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | カマイタチ |  | Liềm Gió | kỹ năng | 40 | Đòn phong ma pháp tạo luồng khí chém sắc bén như lưỡi liềm |
 | モンスターランク |  | Hạng quái vật | cấp bậc | 40 | Phân hạng quái vật; viết thường khi nói chung, viết hoa khi đi với tên hạng |
 | ランクアップ |  | thăng hạng | cấp bậc | 40 | Thăng cấp bậc mạo hiểm giả; viết thường |
+| ドラゴントカゲ |  | Thằn Lằn Rồng | quái vật | 43 | Quái vật thằn lằn cỡ lớn Hạng E, nhỉnh hơn người trưởng thành một chút, răng có độc nhẹ, nhược điểm là ma pháp hệ Băng |

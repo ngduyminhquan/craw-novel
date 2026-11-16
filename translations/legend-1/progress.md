@@ -47,7 +47,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 40 |  | Chapter_0040 - オーク集落襲撃 - 第40話.txt | オーク集落襲撃 - 第40話 | reviewed |  |
 | 41 |  | Chapter_0041 - オーク集落襲撃 - 第41話.txt | オーク集落襲撃 - 第41話 | reviewed |  |
 | 42 |  | Chapter_0042 - オーク集落襲撃 - 第42話.txt | オーク集落襲撃 - 第42話 | reviewed |  |
-| 43 |  | Chapter_0043 - オーク集落襲撃 - 第43話.txt | オーク集落襲撃 - 第43話 | todo |  |
+| 43 |  | Chapter_0043 - オーク集落襲撃 - 第43話.txt | オーク集落襲撃 - 第43話 | done |  |
 | 44 |  | Chapter_0044 - ランクアップ試験 - 第44話.txt | ランクアップ試験 - 第44話 | todo |  |
 | 45 |  | Chapter_0045 - ランクアップ試験 - 第45話.txt | ランクアップ試験 - 第45話 | todo |  |
 | 46 |  | Chapter_0046 - ランクアップ試験 - 第46話.txt | ランクアップ試験 - 第46話 | todo |  |
