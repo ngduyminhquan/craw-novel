@@ -6,7 +6,7 @@ Bay rời khỏi khu rừng chừng hai mươi phút, cả hai tới một vùng
 
 "Gùuu."
 
-Tựa lưng vào tảng đá ngồi xuống bãi cỏ, Rei thấy Set vừa gừ trong cổ họng vừa dụi đầu vào người mình.
+Tựa lưng vào tảng đá ngồi xuống bãi cỏ, Rei thấy Set vừa gừ trong cổ họng vừa dụi đầu vào người cậu.
 
 Cậu mỉm cười, gãi gãi đầu nó.
 
@@ -40,7 +40,7 @@ Thấy cảnh đó, Rei thầm thán phục sức mạnh của Set rồi lấy L
 
 "Ai mà ngờ thứ đầu tiên mình dùng lưỡi hái lớn để chém lại là củi đốt cơ chứ... Zepairu mà biết chắc chẳng nói nên lời."
 
-Cười khổ một tiếng, cậu truyền ma lực vào Lưỡi Hái Tử Thần rồi vung lưỡi hái một nhát, hai nhát, ba nhát. Sau mỗi đường chém, thân cây đổ lại được xẻ nhỏ thành từng khúc củi.
+Cười khổ một tiếng, cậu truyền ma lực vào Lưỡi Hái Tử Thần rồi vung lên chém một nhát, hai nhát, ba nhát. Qua mỗi đường hái, thân cây đổ lại đứt rời thành từng khúc củi nhỏ.
 
 Chẻ đủ củi dùng, Rei xếp lại chuẩn bị đốt lửa trại rồi niệm chú.
 
@@ -106,7 +106,7 @@ Thêm một đường vung nữa. Lần này cách vặn người của cậu đ
 
 Không biết có phải chỉ sau hai nhát bổ đã hiểu ra cách dùng Lưỡi Hái Tử Thần hay không, cậu cứ thế quét ngang từ phải sang trái, đảo ngược từ trái sang phải, rồi hất từ dưới lên, miệt mài vung tập đủ mọi kiểu nghĩ ra được mà không biết chán.
 
-Cứ thế khoảng ba mươi phút trôi qua. Từ chỗ ban đầu chỉ dựa vào sức tay có phần gượng gạo, cậu dần điều khiển Lưỡi Hái Tử Thần một cách linh hoạt. Tốc độ ấy nhanh đến mức cứ hình dung thế này: bất kỳ chiến binh hay kiếm sĩ bình thường nào nhìn thấy cũng chỉ biết ghen tị.
+Cứ thế khoảng ba mươi phút trôi qua. Từ chỗ ban đầu chỉ dựa vào sức tay có phần gượng gạo, cậu dần điều khiển Lưỡi Hái Tử Thần một cách linh hoạt. Nói rằng tốc độ ấy nhanh đến mức bất kỳ chiến binh hay kiếm sĩ bình thường nào nhìn thấy cũng chỉ biết ghen tị, chắc là đủ để hình dung rồi.
 
 Lưỡi Hái Tử Thần bổ chéo từ vai xuống, hãm lại ngay trước khi chạm đất, xoay lưỡi hướng thẳng lên trên hất ngược lên rồi cứ thế quét ngang một đường.
 
@@ -182,4 +182,4 @@ Nghe Set gừ trong cổ họng như muốn hỏi có chuyện gì, Rei vừa g�
 
 "Gùuu!"
 
-Nghe Set kêu lên như muốn bảo cứ giao cho nó, Rei được bao bọc trong lớp lông mượt như lụa cùng hơi ấm dễ chịu của chú Griffin, rồi chìm vào giấc ngủ.
+Nghe tiếng Set kêu như muốn bảo cứ giao cho nó, Rei vùi mình trong lớp lông mượt như lụa cùng hơi ấm dễ chịu của chú Griffin, rồi chìm vào giấc ngủ.

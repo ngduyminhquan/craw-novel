@@ -60,7 +60,7 @@ Rei liếc nhìn ra sau kiểm tra, nhưng tiếc là mắt cậu chẳng thấy
 
 (Cũng phải, dù cơ thể này do những ma thuật sư bậc nhất tạo ra đi nữa, ngũ quan con người làm sao sánh bằng ma thú được. Giờ tính sao đây?)
 
-Cân nhắc giữa Lưỡi Hái Tử Thần trên tay phải và Dao Mithril giắt bên hông. Do dự một thoáng, nhưng nghĩ tới khả năng phải dùng ma thuật, Rei vẫn chọn Lưỡi Hái Tử Thần dù nó hơi khó xoay xở.
+Một bên là Lưỡi Hái Tử Thần cầm ở tay phải, một bên là Dao Mithril giắt bên hông. Do dự một thoáng, nhưng nghĩ tới khả năng phải dùng ma thuật, Rei vẫn chọn Lưỡi Hái Tử Thần dù nó hơi khó xoay xở.
 
 "Cứ để bị bám đuôi thế này thì khéo lúc hạ trại lại bị tập kích mất. Được rồi, chặn đánh ở đây luôn."
 

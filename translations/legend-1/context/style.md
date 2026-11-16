@@ -34,6 +34,7 @@
 
 ## Đặc điểm ghi nhận theo chương
 
-- (#1) Khi còn là quả cầu sáng, Zepairu dùng lối nói cổ kính, trang trọng (`我` - `汝`: `ta` - `ngươi`).
+- (#1) Khi còn là quả cầu sáng, Zepairu dùng lối nói cổ kính, trang trọng (`我` - `汝`: `ta` - `ngươi`), không pha từ lóng hiện đại.
+- (#2) Thống nhất dịch cụm cố định `ゼパイルの知識` là `tri thức của Zepairu` (chỉ khi lặp dày trong cùng một đoạn mới linh hoạt thay bằng `những gì được truyền lại` / `thông tin đó`); trong lời dẫn ngôi thứ 3, gọi chung Rei và Set là `cả hai` hoặc `một người một thú`, không gọi là `hai đứa`.
 - (#3) Từ chương 3, Reiji chính thức lấy tên mới là `Rei` và đặt tên cho Griffin là `Set`.
 - (#7) Khi lời dẫn diễn giải ý nghĩa tiếng kêu hoặc cử chỉ của Set (raw dạng 「～とでも言うように」, không có ngoặc thoại 「...」), dịch theo lối gián tiếp không bọc ngoặc kép và không tự chêm xưng hô "em - anh" hay "ạ" (vd: "như muốn hỏi có chuyện gì", "như muốn bảo cứ để đó cho nó").

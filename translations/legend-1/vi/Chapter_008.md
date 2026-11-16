@@ -8,7 +8,7 @@ Ngồi trên lưng Set, Rei vừa thầm thán phục vừa vuốt cổ nó, ti�
 
 Vừa phi qua cánh rừng, nó vừa thích thú gừ khẽ trong cổ họng, rồi nhanh nhẹn dùng mỏ đớp lấy quả mà nhai.
 
-"Nếu kiến thức của Zepairu mà đúng thì đáng lẽ tụi mình phải ra khỏi rừng từ lâu rồi chứ..."
+"Nếu tri thức của Zepairu mà đúng thì đáng lẽ tụi mình phải ra khỏi rừng từ lâu rồi chứ..."
 
 Vừa lẩm bẩm, Rei vừa đảo mắt nhìn quanh, nhưng cánh rừng dường như vẫn còn kéo dài mãi.
 
@@ -68,7 +68,7 @@ Có điều, may là Rei đang nắm chặt thân nó từ phía trước nên c
 
 "Chíii!"
 
-Con vật nhe nanh đe dọa Rei khi bị cậu nắm chặt thân. Đám nanh dài chừng ba phân đó với Rei thì chẳng bõ bèn gì, nhưng so với thân hình chỉ dài mười lăm phân của con Sóc Bay Lưỡi Dao (tạm gọi) này thì thế là quá lớn rồi.
+Bị Rei nắm chặt thân, con vật liền nhe nanh đe dọa cậu. Đám nanh dài chừng ba phân đó với Rei thì chẳng bõ bèn gì, nhưng so với thân hình chỉ dài mười lăm phân của con Sóc Bay Lưỡi Dao (tạm gọi) này thì thế là quá lớn rồi.
 
 Trong tình cảnh này dĩ nhiên chẳng có thời gian đâu mà lục tìm trong tri thức của Zepairu, nên Rei giữ chặt thân nó bằng tay trái rồi dùng tay phải bẻ gãy cổ con vật. Thấy nó đã chết hẳn, cậu liền cất vào Nhẫn Sương Mù.
 
@@ -88,7 +88,7 @@ Hay cứ chấp nhận nguy cơ cháy rừng lớn mà dùng ma thuật lửa th
 
 "Gừưưưưưưưư!"
 
-Nghe tiếng Set kêu như muốn gọi mình chú ý, Rei liền nhìn theo. Phía trước tầm mắt, hàng cây rậm rạp kéo dài suốt từ nãy đến giờ cuối cùng cũng đã hết.
+Nghe tiếng Set kêu như muốn gọi cậu chú ý, Rei liền nhìn theo. Phía trước tầm mắt, hàng cây rậm rạp kéo dài suốt từ nãy đến giờ cuối cùng cũng đã hết.
 
 "Lối ra à?"
 
@@ -102,7 +102,7 @@ Như muốn bảo đã rõ, Set kêu vang một tiếng rồi dang rộng đôi 
 
 Chạy suốt quãng đường dài vừa rồi nên Set chẳng cần lấy đà nữa, tốc độ vốn đã đủ lớn. Nó giữ nguyên đà lao ấy, vỗ mạnh đôi cánh... Và chỉ vài giây sau cái đạp chân rời mặt đất mang lại cảm giác hẫng lên nhẹ bẫng, bóng dáng chú Griffin đã vút lên tít phía trên những tán cây rậm rạp của khu rừng.
 
-Trên bầu trời đêm không một gợn mây, vầng trăng sáng vằng vặc rọi xuống mặt đất. Set sải rộng đôi cánh, bay lượn giữa khoảng không ấy. Có lẽ vì đã về đêm nên trên trời chẳng có bóng dáng ai khác ngoài Rei và Set. Cảm giác như cả bầu trời rộng lớn này là của riêng hai đứa khiến Rei một lần nữa thấm thía rằng mình thật sự đang ở một dị giới.
+Trên bầu trời đêm không một gợn mây, vầng trăng sáng vằng vặc rọi xuống mặt đất. Set sải rộng đôi cánh, bay lượn giữa khoảng không ấy. Có lẽ vì đã về đêm nên trên trời chẳng có bóng dáng ai khác ngoài Rei và Set. Cảm giác như cả bầu trời rộng lớn này là của riêng một người một thú khiến Rei một lần nữa thấm thía rằng mình thật sự đang ở một dị giới.
 
 Thế nhưng, khoảng thời gian ấy chẳng kéo dài được bao lâu.
 
@@ -150,7 +150,7 @@ Tiếng gầm vang dội của Set ngân khắp bầu trời đêm, nơi mới v
 
 Trên đường bay, sực nhớ tới lũ Sóc Bay Lưỡi Dao ban nãy, Rei liền lục tìm trong tri thức của Zepairu, nhưng cũng giống như Gấu Nước, chẳng có thông tin nào về chúng cả.
 
-(Chuyện này là sao? Dù có khoảng trống mấy trăm năm đi nữa, hết Gấu Nước rồi lại đến lũ này đều không có trong ký ức thì rõ ràng là có gì đó không ổn. Chẳng lẽ...)
+(Chuyện này là sao? Dù có khoảng trống mấy trăm năm đi nữa, hết Gấu Nước rồi lại đến lũ này đều không có thông tin thì rõ ràng là có gì đó không ổn. Chẳng lẽ...)
 
 Một linh cảm chẳng lành thoáng qua trong lòng Rei, nhưng cậu hiểu chuyện này có thắc mắc cũng chẳng làm gì được khi chưa tới nơi có người ở. Nghĩ vậy, cậu cất Lưỡi Hái Tử Thần vào Nhẫn Sương Mù, tiện tay lấy một xác Sóc Bay Lưỡi Dao ra.
 
@@ -158,7 +158,7 @@ Cậu rút Dao Mithril giắt bên hông phải rạch thân con Sóc Bay Lưỡ
 
 "Là quái vật à. Nhưng mà..."
 
-Rei nhớ lại trận đánh ban nãy. Lúc đó Set đã cắn nuốt không ít Sóc Bay Lưỡi Dao. Theo lý thì Ma Thạch cũng phải được Set hấp thụ rồi mới đúng, nhưng cậu chẳng hề thấy thông báo học kỹ năng nào vang lên. Để chắc ăn, cậu mở bảng kỹ năng của Set lên kiểm tra lại, nhưng dòng chữ vẫn chỉ có Thủy Cầu Lv.1, chẳng có gì thay đổi.
+Rei nhớ lại trận đánh ban nãy. Lúc đó Set đã cắn nuốt không ít Sóc Bay Lưỡi Dao. Theo lý thì Set cũng phải hấp thụ luôn cả Ma Thạch rồi mới đúng, nhưng cậu chẳng nhớ có thông báo học kỹ năng nào vang lên cả. Để chắc ăn, cậu mở bảng kỹ năng của Set lên kiểm tra lại, nhưng dòng chữ vẫn chỉ có Thủy Cầu Lv.1, chẳng có gì thay đổi.
 
 Thấy lạ, Rei lại lục tìm trong tri thức của Zepairu.
 
