@@ -62,7 +62,7 @@ Nói thêm thì với Goblin, cả Hội lẫn các cửa hàng đều không th
 
 "Gùuu."
 
-Thấy Set gật đầu, Rei không rút Dao Mithril bên hông... mà lấy một thanh Đoản Kiếm Sắt từ Nhẫn Sương Mù ra. Đó là đồ cậu tịch thu từ đồng bọn của Vargas.
+Thấy Set gật đầu, Rei không rút Dao Mithril bên hông... mà lấy một thanh Đoản Kiếm Sắt từ Nhẫn Sương Mù ra. Đó là đồ cậu lột được từ đồng bọn của Vargas.
 
 (Dù sao dùng Dao Mithril để mổ Goblin cũng phí quá. Đằng nào cũng lấy được rồi, cứ xài tạm con dao này, có bẩn hay xước xát cũng chẳng sao.)
 
@@ -140,7 +140,7 @@ Hoảng vì Hỏa Cầu bị xóa sổ, nó ném thẳng khúc kiếm gãy trên
 
 Nó hoảng như thế cũng dễ hiểu thôi. Bình thường một ma pháp đã hình thành thì chỉ có thể bị phá bằng ma pháp khác hoặc vũ khí dẫn truyền ma lực, mà đây lại là lần đầu tiên con Goblin này thấy một Đạo Cụ Ma Thuật dẫn được ma lực như vậy.
 
-"Công nhận mày biết dùng ma pháp, kiếm thuật cũng tàm tạm, đúng là xứng với cái tên chủng hiếm đấy. Có điều lợi thế lớn nhất của mày là khả năng xóa sạch dấu vết cơ. Một khi đòn đánh úp tất sát bằng chiêu đó đã hụt rồi, thì mày cũng chỉ còn nước làm con mồi bị săn thôi... này!"
+"Công nhận mày biết dùng ma pháp, kiếm thuật cũng tàm tạm, đúng là xứng với cái tên chủng hiếm đấy. Có điều lợi thế lớn nhất của mày là khả năng giấu kín sự hiện diện cơ. Một khi đòn đánh úp chí mạng bằng chiêu đó đã hụt rồi, thì mày cũng chỉ còn nước làm con mồi bị săn thôi... này!"
 
 Rei cố ý vung rộng Lưỡi Hái Tử Thần chém xuống... rồi chớp đúng khoảnh khắc con Goblin vừa thở phào vì né được trong gang tấc, cậu dùng cán hái quét ngã chân nó.
 

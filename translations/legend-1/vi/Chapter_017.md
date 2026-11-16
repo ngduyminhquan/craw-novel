@@ -44,7 +44,7 @@ Ngoài chuyện thực lực ra, về khoản này Rei cũng khác xa mạo hi�
 
 Rei bóc tờ ủy thác diệt Goblin xuống, mang tới quầy chỗ cô tiếp tân buộc tóc đuôi ngựa đã nói chuyện với cậu hôm đầu tới Hội.
 
-Mấy mạo hiểm giả gần đó nhìn thấy liền tỏ vẻ ngạc nhiên. Rõ ràng đánh ngang cơ bốn mạo hiểm giả Hạng D, vậy mà lại đi nhận việc diệt Goblin, loài gần như đội sổ trong đám quái vật, bảo sao họ không bất ngờ. Chắc chắn chẳng ai nghĩ tới chuyện cậu chọn nó chỉ vì cái lý do đơn giản đến thế: nhắc tới fantasy là phải có Goblin.
+Mấy mạo hiểm giả gần đó nhìn thấy liền tỏ vẻ ngạc nhiên. Rõ ràng đủ sức cân được bốn mạo hiểm giả Hạng D, vậy mà lại đi nhận việc diệt Goblin, loài gần như đội sổ trong đám quái vật, bảo sao họ không bất ngờ. Chắc chắn chẳng ai nghĩ tới chuyện cậu chọn nó chỉ vì cái lý do đơn giản đến thế: nhắc tới fantasy là phải có Goblin.
 
 Nhưng đằng nào đánh quái vật Hạng F hay Hạng G thì cũng gần như chắc chắn chẳng kiếm được Ma Thạch đủ xịn cho Set hay Lưỡi Hái Tử Thần mạnh lên, nên chọn vậy cũng chẳng sai.
 
@@ -58,7 +58,7 @@ Vừa lục lại thông tin về Goblin trong kiến thức của Zepairu, Rei 
 
 "Ừ, mà tụi Goblin ở chỗ nào vậy..."
 
-"Chỗ đó thì chúng hay xuất hiện trong khu rừng dọc đường cái bên ngoài thành phố Gilm. Nghe nói dạo này còn có chuyện cả bầy ra phục kích thương nhân với khách bộ hành đang đi về hướng thành phố nữa."
+"Chỗ đó thì chúng hay xuất hiện trong khu rừng dọc đường cái bên ngoài thành phố Gilm. Nghe nói dạo này còn có chuyện cả bầy ra phục kích thương nhân với người đi đường đang đi về hướng thành phố nữa."
 
 "Goblin mà cũng khôn tới mức đó cơ à?"
 
@@ -94,7 +94,7 @@ Nghe nhắc tới chiến tích, nghĩ đi nghĩ lại cũng chỉ có mỗi v�
 
 "...Nghe đồn cậu không chỉ lấy sạch tiền mà còn tước cả vũ khí của chúng nữa cơ mà?"
 
-"Ừ. Vì chúng cược cả gia tài mà. Thế là đương nhiên thôi."
+"Ừ. Vì chúng cược toàn bộ tài sản mà. Thế là đương nhiên thôi."
 
 Tiếp đó, cậu tháo Vòng Cổ Tùng Ma trên cổ Set đưa cho Ranga.
 
@@ -124,7 +124,7 @@ Rei tính từ mai sẽ cố nhận ủy thác ra ngoài thành phố nhiều h�
 
 Vốn dĩ mục đích của Rei là nuôi Set với Lưỡi Hái Tử Thần mạnh lên, đâu nhất thiết phải làm mạo hiểm giả. Nhưng ở Hội lúc nào cũng gom đủ thứ tin tức, thỉnh thoảng còn treo cả ủy thác diệt quái vật hạng cao. Mấy tin tức và ủy thác đó đều cực kỳ có ích cho Rei. Có điều mới Hạng G như bây giờ thì dù có ủy thác quái vật hạng cao cậu cũng không nhận được. Thành ra trước mắt cứ làm nhiều ủy thác để lên hạng cho nhanh đã.
 
-Đang mải nghĩ, khu rừng dọc đường cái mà cô tiếp tân ở Hội nói đã hiện ra ngay bên dưới. Lữ khách hay mạo hiểm giả bình thường phải mất mấy tiếng mới đi tới đây được, vậy mà Rei cưỡi Set bay từ thành phố Gilm chỉ mất hơn mười phút. Nội chuyện đó thôi cũng đủ thấy độ cơ động của Griffin... không, của Set khủng cỡ nào rồi.
+Đang mải nghĩ, khu rừng dọc đường cái mà cô tiếp tân ở Hội nói đã hiện ra ngay bên dưới. Người đi đường hay mạo hiểm giả bình thường phải mất mấy tiếng mới đi tới đây được, vậy mà Rei cưỡi Set bay từ thành phố Gilm chỉ mất hơn mười phút. Nội chuyện đó thôi cũng đủ thấy độ cơ động của Griffin... không, của Set khủng cỡ nào rồi.
 
 "Set, có thấy con quái vật nào không?"
 
@@ -138,7 +138,7 @@ Vừa bay trên trời, Set vừa lắc đầu sang hai bên. Rei nhìn xuống 
 
 Đáp lại tiếng Rei bằng một tiếng kêu ngắn, Set khéo léo dùng cánh điều chỉnh rồi hạ xuống đất nhẹ tênh, đúng chuẩn dáng vẻ oai phong của một con Griffin mang nửa thân dưới sư tử.
 
-Gần chỗ đáp hình như có vài người, chẳng biết là khách bộ hành, mạo hiểm giả hay thương nhân, nhưng vừa thấy Set hạ xuống là họ co giò chạy thục mạng về phía thành phố Gilm.
+Gần chỗ đáp hình như có vài người, chẳng biết là người đi đường, mạo hiểm giả hay thương nhân, nhưng vừa thấy Set hạ xuống là họ co giò chạy thục mạng về phía thành phố Gilm.
 
 (...Chắc tới cổng thành thế nào họ cũng la lên là thấy Griffin, rồi lại bị Ranga giữ lại hỏi han cho xem.)
 

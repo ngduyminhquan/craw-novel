@@ -48,7 +48,7 @@ Nghe tiếng chào từ quầy tiếp tân nằm ngay gần lối vào, cậu g�
 
 "Ừ. Cô chỉ giúp tôi cách dùng với."
 
-Cô tiếp tân tầm giữa hai mươi tuổi, mặt không đổi sắc, giữ nguyên vẻ vô cảm nói tiếp.
+Cô tiếp tân tầm giữa hai mươi tuổi hầu như chẳng đổi nét mặt, cứ giữ nguyên vẻ lạnh tanh mà nói tiếp.
 
 "Phí sử dụng thư viện là năm đồng bạc một ngày. Khoản này đã bao gồm tiền đặt cọc phòng trường hợp làm hỏng sách, nên lúc ra về, nếu sách không bị rách hay dính bẩn thì quý khách sẽ được trả lại ba đồng bạc. Xin lưu ý, nếu mức độ hư hỏng hay vấy bẩn quá ba đồng bạc, quý khách phải trả thêm phần chênh lệch. Nếu bỏ trốn không trả, chúng tôi sẽ gửi ủy thác cho Hội Mạo Hiểm Giả để đòi cả tiền bồi thường lẫn phí ủy thác. Ngoài ra, nếu cần chép tài liệu, thư viện có bán bộ mười tờ giấy kèm bút với giá ba đồng đồng."
 
@@ -104,7 +104,7 @@ Lực lượng đó là tập hợp những ma thuật sư đủ sức xóa sổ
 
 "..."
 
-Đọc xong cái nội dung quá sức bá đạo ấy, Rei bất giác ôm trán. Thấy kiến thức nhận được lệch với thực tế, cậu cũng đoán thời gian đã trôi qua khá lâu, nhưng không ngờ lại tới hàng nghìn năm. Theo lời Zepairu kể thì chỉ vài trăm năm thôi, ai dè thực tế lại là vài nghìn năm. Chênh nhau gần chục lần khiến Rei chỉ biết ôm đầu chịu thua.
+Đọc xong cái nội dung quá sức tưởng tượng ấy, Rei bất giác ôm trán. Thấy kiến thức nhận được lệch với thực tế, cậu cũng đoán thời gian đã trôi qua khá lâu, nhưng không ngờ lại tới hàng nghìn năm. Theo lời Zepairu kể thì chỉ vài trăm năm thôi, ai dè thực tế lại là vài nghìn năm. Chênh nhau gần chục lần khiến Rei chỉ biết ôm đầu chịu thua.
 
 Có điều, đã sang tới thế giới này rồi thì giờ cũng chẳng làm gì được nữa. Tự nhủ mình chỉ còn cách sống tiếp ở đây thôi, Rei không đọc sách về Zepairu nữa mà mang trả lại lên kệ.
 
@@ -140,6 +140,6 @@ Vừa xin lỗi, người thủ thư vừa nhìn cuốn sách trên tay Rei, r�
 
 Thủ thư gật đầu chỉ đường tới hiệu sách xong, Rei đứng phân vân không biết nên làm gì tiếp.
 
-Đã mất công bỏ hai đồng bạc, một số tiền cũng kha khá ở thế giới này, để vào đây, nên cậu cũng muốn đọc thêm chút nữa. Nhưng cuốn "Mổ Xẻ Quái Vật: Nhập Môn" mà ông thủ thư thấy ở hiệu sách thì kiểu gì cậu cũng phải mua cho bằng được. Nghĩ đi nghĩ lại một hồi, Rei tự nhủ sách trong thư viện chẳng chạy đi đâu mất, hôm khác quay lại đọc cũng được, thế là cậu ra xin chữ ký vào tờ giấy hồi nãy, lấy lại tiền cọc rồi rời khỏi thư viện.
+Đã mất công bỏ hai đồng bạc, một số tiền cũng kha khá ở thế giới này, để vào đây, nên cậu cũng muốn đọc thêm chút nữa. Nhưng cuốn "Mổ Xẻ Quái Vật: Nhập Môn" mà người thủ thư thấy ở hiệu sách thì kiểu gì cậu cũng phải mua cho bằng được. Nghĩ đi nghĩ lại một hồi, Rei tự nhủ sách trong thư viện chẳng chạy đi đâu mất, hôm khác quay lại đọc cũng được, thế là cậu ra xin chữ ký vào tờ giấy hồi nãy, lấy lại tiền cọc rồi rời khỏi thư viện.
 
-Sau đó, cậu cùng Set đang đợi bên ngoài tìm tới hiệu sách theo chỉ dẫn, chi hẳn một đồng vàng, số tiền khá chát, để mua cuốn sách mình cần. Cậu còn tiện đường mua thêm quần áo thay và ít đồ lặt vặt rồi mới quay về Hoàng Hôn Mạch Đình.
+Sau đó, cậu cùng Set đang đợi bên ngoài tìm tới hiệu sách theo chỉ dẫn, chi hẳn một đồng vàng, số tiền khá chát, để mua cuốn sách mình cần. Cậu còn tiện đường mua thêm quần áo thay và ít đồ lặt vặt rồi mới quay về nhà trọ Hoàng Hôn Mạch Đình.
