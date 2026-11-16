@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 36: Cùng tổ đội Cơn Gió Rực Lửa chặn đường tháo chạy của toán Orc do Orc King (Hạng B) chỉ huy ở mạn tây; ra điều kiện dùng Ma Pháp Thệ Ước để đổi lấy việc xuất át chủ bài hỗ trợ.
+- Trạng thái tính đến chương 37: Cùng Set và tổ đội Cơn Gió Rực Lửa tiêu diệt hoàn toàn toán Orc tháo chạy; dùng Vũ Điệu Hỏa Xà diệt Orc General, dùng kỹ năng Ăn Mòn phá hủy ma pháp kiếm và trảm thủ cấp Orc King.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -135,6 +135,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Sulunin
 - Khoảng 40 tuổi, mặc áo choàng pháp sư mang gậy phép, tính tình điềm tĩnh, cẩn trọng, ăn nói lịch thiệp
+- Kỹ năng: Ma pháp hệ Phong (lưỡi dao chân không), ma pháp hỗ trợ (cường hóa vũ khí), ma pháp hồi phục.
 
 ### Ekril
 - Thiếu nữ khoảng 16-17 tuổi, tóc ngắn, mặc giáp da nhẹ dùng cung tên, tính cách hoạt bát, dễ hoảng sợ khi gặp đối thủ quá mạnh
