@@ -159,7 +159,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Scola
 - Nam thiếu niên trạc 17-19 tuổi, gương mặt mộc mạc chất phác, mặc áo choàng cầm gậy phép; bạn đồng hành tổ đội cùng Culotte.
 - Tính cách hiền lành, biết điều, dễ ngượng ngùng đỏ mặt khi được khen; hay cúi đầu xin lỗi thay cho cô bạn Culotte.
-- Kỹ năng: sử dụng được ma pháp hệ Thủy (Roi Nước), Phong (Mũi Tên Gió, Cú Đấm Gió), Băng (Mũi Kim Băng) và ma pháp hồi phục (thiên phú hiếm có kết hợp cả công kích và hồi phục)
+- Kỹ năng: sử dụng được ma pháp hệ Thủy (Roi Nước), Phong (Mũi Tên Gió, Cú Đấm Gió), Băng (Mũi Kim Băng) và ma pháp hồi phục (Thủy Trị Liệu; thiên phú hiếm có kết hợp cả công kích và hồi phục)
 - Tâm lý: Thiện lương, chưa từng giết người trước bài thi thăng hạng; dễ bị sốc tâm lý khi thấy đối phương quằn quại vì ma pháp của mình
 
 ### Superbia

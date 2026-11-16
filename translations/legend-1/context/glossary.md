@@ -166,3 +166,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ロングソード |  | kiếm dài | vật phẩm | 52 | Kiếm dài thông thường |
 | ウィンド・ブロー | ウィンドブロー | Cú Đấm Gió | kỹ năng | 53 | Ma pháp hệ Phong của Scola tạo ra hàng chục nắm đấm vô hình bằng gió tấn công diện rộng |
 | アイス・ニードル | アイスニードル | Mũi Kim Băng | kỹ năng | 53 | Ma pháp hệ Băng của Scola phóng ra hàng chục mũi kim băng như đoản kiếm găm vào mục tiêu |
+| アクア・ヒーリング |  | Thủy Trị Liệu | kỹ năng | 54 | Ma pháp hồi phục hệ Thủy của Scola chữa lành vết thương ngoài da |
+| アンデッド |  | Undead | quái vật | 54 | Chủng quái vật bất tử gồm Zombie, Skeleton, Ghost... |
+| ゾンビ |  | Zombie | quái vật | 54 | Quái vật xác sống thuộc hệ Undead |
+| スケルトン |  | Skeleton | quái vật | 54 | Quái vật bộ xương thuộc hệ Undead |

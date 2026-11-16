@@ -149,3 +149,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Filma | Culotte | tôi | cậu / Culotte | 50 | Bạn nữ trong tổ đội |
 | Superbia | Culotte | tôi | cô | 52 | Đồng đội trong bài thi thăng hạng |
 | Culotte | Superbia | tôi | anh | 52 | Đồng đội trong bài thi thăng hạng |
+| Scola | Arogan | tôi | anh | 54 | Thí sinh cùng tham gia bài thi thăng hạng |
+| Arogan | Scola | tôi | cậu | 54 | Thí sinh cùng tham gia bài thi thăng hạng |
