@@ -139,3 +139,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Culotte | Gran | tôi | giám khảo | 48 | Thí sinh nói với giám khảo bài thi |
 | Gran | Culotte | ta / tôi | cô | 46 |  |
 | Gran | Arogan | ta / tôi | cậu | 47 |  |
+| Superbia | Rei | tôi | cậu | 49 | Nói chuyện trước khi xuất phát bài thi |
+| Rei | Superbia | tôi | anh | 49 | Nói chuyện trước khi xuất phát bài thi |
+| Superbia | Arogan | tôi | cậu | 49 | Nhắc nhở Arogan khi đến muộn bài thi |
+| Filma | * | tôi | mọi người | 49 | Chào các thành viên tổ đội thi thăng hạng |
