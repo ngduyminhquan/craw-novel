@@ -43,7 +43,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Giới tính, tuổi/vẻ ngoài: Nam, 17 tuổi khi còn ở Nhật (tên cũ Saeki Reiji); cơ thể mới khoảng 15 tuổi, cao 165cm, tóc đỏ rực, mắt xanh lam, ngoại hình ưa nhìn.
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
-- Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
+- Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
 - Trạng thái tính đến chương 54: Thẻ Hội Hạng E; gửi Set cho tổ đội Cơn Gió Rực Lửa chăm sóc; làm trưởng nhóm tổ đội lâm thời 6 người trong bài thi thăng lên Hạng D, đã chỉ huy tập kích đêm tiêu diệt toàn bộ gần 30 tên cướp cùng tên thủ lĩnh tại hang động sào huyệt, giải cứu hai thương nhân và đang gom xác cướp để thiêu hủy
 
 ### Set

@@ -112,7 +112,7 @@ Cậu lấy món đồ bên trong hộp ra. Đó là một chiếc vòng đườ
 
 Cậu cầm chiếc vòng trên tay ngắm nghía với vẻ thắc mắc. Thoạt nhìn thì đúng là một chiếc vòng tay đẹp đấy, nhưng xét về giá trị tiền bạc thì cái hộp bên ngoài chạm trổ cầu kỳ lại còn nạm đá quý trông có vẻ đắt tiền hơn hẳn.
 
-Có gì đó sai sai. Trong đầu cậu thoáng lên cảm giác đó. Bỏ một chiếc vòng tay trông chẳng đáng giá mấy vào trong cái hộp đựng trang sức đắt tiền, nghĩ bình thường thì làm gì có chuyện đó. Nghĩa là chiếc vòng này chắc chắn có vấn đề. Đoán vậy, Reiji liền lục lại kiến thức của Zepairu và hiểu ra ngay.
+Có gì đó sai sai. Trong đầu cậu thoáng lên cảm giác đó. Bỏ một chiếc vòng tay trông chẳng đáng giá mấy vào trong cái hộp đựng trang sức đắt tiền, nghĩ bình thường thì làm gì có chuyện đó. Nghĩa là chiếc vòng này chắc chắn có gì đó đặc biệt. Đoán vậy, Reiji liền lục lại kiến thức của Zepairu và hiểu ra ngay.
 
 "Ra vậy, đúng là thứ này còn giá trị hơn cả đống đá quý bạc tỷ thật."
 
@@ -136,7 +136,7 @@ Xem lại kiến thức về Ma Thú Thuật một lần nữa, cậu hít một
 
 "Vừa có giao kèo với Zepairu, mà hơn hết bản thân mình cũng tò mò với cái Ma Thú Thuật này lắm rồi. Vậy thì tội gì không thử ngay lúc này. ...Cơ mà trước giờ mình nhớ mình cẩn thận hơn thế này nhiều mà nhỉ... Chuyện này cũng do ảnh hưởng của dung hợp à?"
 
-Thay đổi mà Zepairu nhắc tới trước lúc dung hợp chắc là cái này đây. Reiji nghĩ thầm trong bụng, đoạn tập trung tinh thần rồi mở miệng.
+Thay đổi mà Zepairu nhắc tới trước lúc dung hợp chắc là cái này đây. Nghĩ thầm vậy, Reiji tập trung tinh thần rồi mở miệng.
 
 Câu chú kích hoạt ma pháp trận đã có sẵn trong kiến thức của Zepairu, nên cậu không hề do dự.
 

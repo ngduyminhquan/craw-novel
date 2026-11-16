@@ -1,6 +1,6 @@
 # Chương 1: Đột kích bộ lạc Orc (1)
 
-Giữa cái nắng hè gay gắt đổ xuống như muốn thiêu đốt, Saeki Reiji vừa dừng xe đạp chờ đèn đỏ vừa quệt mồ hôi trên trán.
+Giữa cái nắng giữa hè chói chang dội xuống không ngừng nghỉ, Saeki Reiji vừa dừng xe đạp chờ đèn đỏ vừa quệt mồ hôi trên trán.
 
 "Gọi là trời nóng thì nhẹ quá, cái này là bỏng rát luôn rồi."
 
@@ -28,7 +28,7 @@ Mới đứng chờ đèn đỏ có vài phút mà mồ hôi đã túa ra nữa 
 
 Vài chục năm trước chắc chỗ này cũng từng nhộn nhịp lắm, nhưng giờ hơn 60% cửa hàng đều đóng cửa cuốn im lìm rồi. Dù tốt nghiệp cấp ba xong nhiều người vẫn ở lại quê làm việc, nhưng số trẻ con ngày càng ít đi thì phố xá vắng vẻ dần cũng là chuyện khó tránh.
 
-Ngay cách chỗ Reiji không xa, người ta cũng đang phá dỡ một căn nhà kìa.
+Thực tế là ngay cách chỗ Reiji không xa, người ta cũng đang phá dỡ một căn nhà.
 
 "Cứ đà này chắc chỗ này ngày càng vắng vẻ mất thôi."
 
@@ -40,7 +40,7 @@ Gần như theo phản xạ, cậu ngoái nhìn về phía đó. Đập vào m�
 
 "Ồ... cuối cùng thì..."
 
-Nghe thấy giọng nói đó, Reiji mở mắt tỉnh dậy. Xung quanh cậu chỉ là một khoảng không trắng xóa trống không, nhìn như trải dài mãi không thấy điểm dừng.
+Nghe thấy tiếng nói đó, Reiji chợt tỉnh dậy. Xung quanh cậu chỉ là một khoảng không trắng xóa trống trơn, trông như trải dài mãi không có điểm dừng.
 
 "...Đây là đâu?"
 
@@ -166,7 +166,7 @@ Nghe Reiji nói vậy, quả cầu sáng chớp nháy mấy cái.
 
 "Ừ. Tôi phải làm gì đây?"
 
-"Chẳng có gì khó cả. Một khi đã ở trong không gian này thì mọi chuẩn bị đều đã xong xuôi. Giờ chỉ cần ta và ngươi chạm vào nhau, quá trình dung hợp sẽ tự động hoàn tất và tái cấu trúc lại ngươi. Cùng lúc đó, linh hồn ngươi sẽ gắn kết vào thân xác mới rồi thức tỉnh."
+"Chẳng có gì khó cả. Ngay từ lúc ngươi ở trong không gian này là mọi chuẩn bị đã xong xuôi rồi. Giờ chỉ cần ta và ngươi chạm vào nhau là việc dung hợp sẽ tự động hoàn tất, cấu trúc lại con người ngươi. Cùng lúc đó, linh hồn ngươi sẽ gắn vào thân xác mới rồi tỉnh lại."
 
 "Tôi hiểu rồi. ...Làm đi."
 

@@ -8,7 +8,7 @@ Tỉnh dậy trong tiếng kêu ấy, thứ đầu tiên Reiji cảm nhận đư
 
 Vừa xoa đầu vừa nhìn quanh, thứ đầu tiên cậu thấy là một bộ lông xù dày mượt. Con vật có bộ lông ấy đang lấy chính thân mình làm gối cho Reiji nằm, như thể muốn che chở cho cậu.
 
-Nhận ra chuyện đó, cậu vừa vuốt lớp lông trước mặt vừa ngó quanh. Đúng lúc ấy, cậu bắt gặp ánh mắt của một con vật đang ghé sát nhìn mặt mình với vẻ hơi lo lắng.
+Nhận ra chuyện đó, cậu vừa vuốt lớp lông trước mặt vừa ngó quanh. Đúng lúc ấy, cậu bắt gặp ánh mắt của một con vật đang ghé sát nhìn mặt cậu với vẻ hơi lo lắng.
 
 "..."
 
@@ -68,7 +68,7 @@ Chẳng hiểu sao con Griffin trước mắt lại quấn Reiji ngay từ đầ
 
 Set. Đó là tên một vị thần trong thần thoại Ai Cập, cai quản bão tố. Reiji giải thích thêm rằng vị thần này còn đại diện cho sự hung dữ lẫn chiến tranh, và cũng được xem là biểu tượng cho sức mạnh vĩ đại.
 
-Nhìn chú Griffin trước mặt cứ ở lì bên cạnh như muốn bảo vệ mình, đó là cái tên cậu nghĩ ngay tới.
+Nhìn chú Griffin trước mặt cứ ở lì bên cạnh như muốn bảo vệ cậu, đó là cái tên cậu nghĩ tới ngay.
 
 "Gừưưư."
 
@@ -96,7 +96,7 @@ Cậu vội lục tìm thông tin trong mớ kiến thức của Zepairu.
 
 "Mà thôi, tiện thì có tiện thật nên cũng chẳng sao."
 
-Khó khăn lắm mới sang được dị giới, hay đúng hơn là chuyển sinh sang đây, vậy mà vẫn thấy vương vấn hơi hướng Nhật Bản thế này khiến cậu chỉ biết cười trừ rồi cùng Set đứng dậy.
+Khó khăn lắm mới sang được dị giới, hay đúng hơn là chuyển sinh sang đây, vậy mà vẫn thấp thoáng bóng dáng Nhật Bản thế này, cậu chỉ biết cười trừ rồi cùng Set đứng dậy.
 
 "Gừ."
 
@@ -110,7 +110,7 @@ Nói là lưỡi hái, nhưng đây hoàn toàn không phải loại liềm cắ
 
 "Gùuu."
 
-Như muốn bảo cái này của mày đấy, nó ngậm cây lưỡi hái lớn trong mỏ, đưa về phía Rei.
+Như muốn bảo cái này là của cậu, nó ngậm cây lưỡi hái lớn trong mỏ đưa về phía Rei.
 
 Để Set ngậm mãi thế này cũng tội nó, nên cậu đành cầm lấy cây lưỡi hái.
 
@@ -128,7 +128,7 @@ Có điều, trong mấy lần nghi thức trước đây của Zepairu và môn
 
 "Mà đã dính tới Takumu thì..."
 
-Cầm cây lưỡi hái trên tay, Rei nhẩm thầm bảng trạng thái trong đầu. Thế là như chuyện hiển nhiên, bảng trạng thái của món Đạo Cụ Ma Thuật cậu đang cầm liền hiện ra trong tâm trí.
+Cầm cây lưỡi hái trên tay, Rei nhẩm thầm hai chữ bảng trạng thái trong đầu. Thế là như chuyện hiển nhiên, bảng trạng thái của món Đạo Cụ Ma Thuật cậu đang cầm liền hiện lên ngay.
 
 [Lưỡi Hái Tử Thần]
 
