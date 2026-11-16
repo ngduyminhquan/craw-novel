@@ -6,7 +6,7 @@ Giữa cái nắng hè gay gắt trút xuống như đổ lửa, Saeki Reiji v�
 
 Giữa tiếng ve râm ran, cậu bực bội ngước lườm mặt trời.
 
-Mới hơn mười giờ sáng mà nhiệt độ đã vượt 30 độ C. Trên tivi, tin vài nơi lên tới hơn 40 độ C giờ chẳng còn hiếm, nhưng với đứa sống ở thị trấn quê vùng Tohoku như Reiji thì mức 30 độ C này cũng đủ oải lắm rồi.
+Mới hơn mười giờ sáng mà nhiệt độ đã vượt 30 độ C. Trên tivi, tin vài nơi lên tới hơn 40 độ C giờ chẳng còn hiếm, nhưng với một người sống ở thị trấn quê vùng Tohoku như Reiji thì mức 30 độ C này cũng đủ oải lắm rồi.
 
 "Nóng thế này thì thà ra sông bơi còn hơn."
 
@@ -44,7 +44,7 @@ Nghe thấy giọng nói ấy, Reiji chợt tỉnh lại. Xung quanh cậu chỉ
 
 "...Đây là đâu?"
 
-Rõ ràng mình vừa bị dầm thép đè bẹp rồi mà... Lẽ ra gặp cảnh này phải sợ chết khiếp mà gào khóc mới phải, vậy mà lạ ở chỗ đầu óc cậu vẫn tỉnh táo phán đoán được.
+Rõ ràng mình vừa bị dầm thép đè bẹp rồi mà... Lẽ ra rơi vào cảnh này phải sợ chết khiếp mà gào khóc rồi, vậy mà lạ ở chỗ đầu óc cậu vẫn tỉnh táo suy xét được.
 
 "Tỉnh rồi đó sao, ứng viên kế thừa của ta?"
 
@@ -76,7 +76,7 @@ Nghe quả cầu sáng nói bằng chất giọng đều đều không chút nh�
 
 "Ý ông là... không lẽ ông can thiệp vào luật nhân quả gì đó rồi hại chết tôi à?"
 
-Với đứa mê tiểu thuyết, manga, phim ảnh lẫn game như Reiji thì đây đúng là mô-típ quá quen thuộc rồi. ...Mỗi tội, chuyện đó mà rơi trúng đầu mình thì chẳng vui vẻ gì cho cam.
+Với một người mê tiểu thuyết, manga, phim ảnh lẫn game như Reiji thì đây đúng là mô-típ quá quen thuộc rồi. ...Có điều, chuyện đó mà rơi trúng đầu mình thì chẳng vui vẻ gì cho cam.
 
 Nhưng quả cầu sáng trước mắt lại chớp nháy rồi lên tiếng.
 
@@ -84,7 +84,7 @@ Nhưng quả cầu sáng trước mắt lại chớp nháy rồi lên tiếng.
 
 Nghe vậy, Reiji cũng nhẹ lòng hơn đôi chút. Nếu những gì quả cầu sáng nói là thật thì cái chết của cậu chẳng liên quan gì đến nó cả. ...Tất nhiên, đấy là với điều kiện mọi lời nó nói đều thật.
 
-Dù gì cậu cũng chẳng thể tin sái cổ lời một kẻ lạ hoắc vừa mới gặp... à không, một quả cầu sáng lạ hoắc được.
+Dù sao cậu cũng chẳng thể tin ngay răm rắp lời một người xa lạ vừa mới gặp... à không, một quả cầu sáng xa lạ được.
 
 Có điều, cứ đứng ì ở đây mãi cũng chẳng giải quyết được gì nên Reiji giục đối phương nói tiếp.
 
@@ -110,11 +110,11 @@ Nếu ma lực khổng lồ là điều kiện tiên quyết của cái gọi l�
 
 "Có chứ. Phải nói là ở thế giới của ngươi, e rằng chẳng ai có ma lực mạnh hơn ngươi đâu. Ngươi đang mang trong mình lượng ma lực lớn đến thế đấy. ...Tại sao một thế giới không có ma thuật lại sinh ra được một kẻ đột biến như ngươi chứ? Thật là một trường hợp thú vị, tiếc là ta không còn thời gian để tìm hiểu ngọn ngành nữa. Vậy nên hãy nghe cho kỹ rồi hẵng quyết định."
 
-Sau đó, câu chuyện quả cầu sáng kể đại khái thế này. Ở thế giới của nó, như đã nói, ma thuật thực sự tồn tại. Những ma thuật sư hàng đầu thế giới, kẻ nào cũng sở hữu ma lực tinh tuyển, đã tụ họp lại lập nên môn phái của quả cầu sáng. Tuy chỉ là một nhóm toàn ma thuật sư, nhưng tương truyền chiến lực của họ đủ sức xóa sổ cả một quốc gia chỉ trong vài giờ. Chính những bậc kỳ tài ấy đã chung tay sáng tạo ra thứ tuyệt kỹ tối thượng gọi là Ma Thú Thuật. Có điều, để thi triển Ma Thú Thuật lại đòi hỏi lượng ma lực khổng lồ mà ngoài người trong môn phái ra chẳng ai kham nổi. Không may là do cả một thế hệ tập trung quá nhiều thiên tài hay sao đó mà các đời sau chẳng còn ai đủ tư chất nối nghiệp. Thêm nữa, để đẩy uy lực lên tối đa, Ma Thú Thuật phải chịu ràng buộc khiến mỗi người cả đời chỉ thi triển được đúng một lần. Đấy cũng là lý do lớn khiến nó không thể phổ biến rộng rãi.
+Sau đó, câu chuyện quả cầu sáng kể đại khái thế này. Ở thế giới của nó, như đã nói, ma thuật thực sự tồn tại. Những ma thuật sư hàng đầu thế giới với ma lực vượt trội đã tụ họp lại lập nên môn phái của quả cầu sáng. Tuy chỉ là một nhóm toàn ma thuật sư, nhưng tương truyền chiến lực của họ đủ sức xóa sổ cả một quốc gia chỉ trong vài giờ. Chính những bậc kỳ tài ấy đã chung tay sáng tạo ra một loại bí thuật gọi là Ma Thú Thuật. Có điều, để thi triển Ma Thú Thuật lại đòi hỏi lượng ma lực khổng lồ mà ngoài người trong môn phái ra chẳng ai kham nổi. Không may là do cả một thế hệ tập trung quá nhiều thiên tài hay sao đó mà các đời sau chẳng còn ai đủ tư chất nối nghiệp. Thêm nữa, để đẩy uy lực lên tối đa, Ma Thú Thuật phải chịu ràng buộc khiến mỗi người cả đời chỉ thi triển được đúng một lần. Đấy cũng là lý do lớn khiến nó không thể phổ biến rộng rãi.
 
 Dù mang danh ma thuật sư thiên tài thì tuổi thọ cũng có hạn. Hết người này đến người khác ngã xuống, quân số cứ thế thưa dần.
 
-Người sống sót cuối cùng trong môn phái ấy chính là quả cầu sáng trước mặt cậu, nhưng rồi nó cũng không thắng nổi tuổi già. Không đành lòng nhìn Ma Thú Thuật do cả môn phái gầy dựng biến mất mà ở thế giới đó lại chẳng có ai kế thừa, nó bèn nghĩ biết đâu ở thế giới khác lại có. Thế là quả cầu sáng dồn toàn bộ sinh mạng và ma lực thi triển thuật pháp cuối cùng của đời mình, tạo ra một thế giới tinh thần nằm giữa các thế giới, suốt gần mấy trăm năm ròng rã dò tìm những linh hồn đủ tư cách kế thừa Ma Thú Thuật lúc họ lìa đời. Và linh hồn lọt vào tầm ngắm ấy chính là Reiji.
+Người sống sót cuối cùng trong môn phái ấy chính là quả cầu sáng trước mặt cậu, nhưng rồi nó cũng không thắng nổi tuổi già. Không đành lòng nhìn Ma Thú Thuật do cả môn phái gầy dựng biến mất mà ở thế giới đó lại chẳng có ai kế thừa, nó bèn nghĩ biết đâu ở thế giới khác lại có. Thế là quả cầu sáng dồn toàn bộ sinh mạng và ma lực thi triển thuật pháp cuối cùng của đời mình, tạo ra một thế giới tinh thần nằm giữa các thế giới, suốt hàng trăm năm ròng rã dò tìm những linh hồn đủ tư cách kế thừa Ma Thú Thuật lúc họ lìa đời. Và linh hồn lọt vào tầm ngắm ấy chính là Reiji.
 
 "À, đại khái tôi hiểu đầu đuôi rồi. ...Tiện thể hỏi luôn, nếu tôi từ chối thì sao?"
 
@@ -150,13 +150,13 @@ Nghe quả cầu sáng nói vậy, Reiji lại nhớ tới thanh dầm thép lao
 
 "Ngoài ra, sau khi ngươi kế thừa Ma Thú Thuật thì dĩ nhiên ta sẽ tan biến. Vì thế, toàn bộ Đạo Cụ Ma Thuật cùng nguyên liệu quý giá do ta và môn phái để lại đều sẽ thuộc về ngươi."
 
-"Gia tài của mấy ma thuật sư mạnh nhất thế giới sống hàng trăm năm cơ đấy. Chu đáo hết nấc nhỉ. Cơ mà, đổi sang thân xác mới thì chuyện ma lực tính sao?"
+"Di sản của những ma thuật sư mạnh nhất thế giới sống hàng trăm năm cơ à. Chu đáo thật đấy. Cơ mà, đổi sang thân xác mới thì chuyện ma lực tính sao?"
 
 "Không thành vấn đề. Ma lực vốn gắn liền với linh hồn, chứ không phải thứ thuộc về thân xác."
 
-"Nghĩa là cái lượng ma lực khủng bố mà ông bảo tôi có vẫn giữ nguyên chứ gì. Nhưng nếu thế, sao chính ông không dùng thân xác đó mà hồi sinh luôn đi?"
+"Nghĩa là lượng ma lực to lớn mà ông bảo tôi có vẫn giữ nguyên chứ gì. Nhưng nếu thế, sao chính ông không dùng thân xác đó mà hồi sinh luôn đi?"
 
-"Không được. Linh hồn ta với thân xác ấy không tương thích, vả lại linh hồn ta cũng già cỗi hao mòn cả rồi. Một kẻ chẳng còn lòng hiếu kỳ, máu tìm tòi hay khát khao khám phá những điều chưa biết như ta thì đời ma thuật sư coi như đã hết. Những gì cần nói ta đều đã nói cả. Vậy nên ta hỏi ngươi: Ngươi có bằng lòng kế thừa kỹ thuật do ta và đồng môn để lại không?"
+"Không được. Linh hồn ta với thân xác ấy không tương thích, vả lại linh hồn ta cũng già cỗi hao mòn cả rồi. Một kẻ chẳng còn lòng hiếu kỳ, nhiệt huyết tìm tòi hay khát khao khám phá những điều chưa biết như ta thì đời ma thuật sư coi như đã hết. Những gì cần nói ta đều đã nói cả. Vậy nên ta hỏi ngươi: Ngươi có bằng lòng kế thừa kỹ thuật do ta và đồng môn để lại không?"
 
 "...Thôi thì, giờ có từ chối cũng chỉ đi thẳng sang cái gọi là thế giới bên kia thôi. Được rồi, tôi nhận lời đề nghị này."
 
@@ -166,7 +166,7 @@ Nghe Reiji nói vậy, quả cầu sáng chớp nháy mấy cái.
 
 "Ừ. Tôi phải làm gì?"
 
-"Không có gì khó cả. Ngay từ lúc ngươi ở trong không gian này, mọi chuẩn bị đã xong xuôi hết rồi. Giờ chỉ cần ta và ngươi chạm vào nhau, việc dung hợp sẽ tự động hoàn tất và tái tạo lại bản thân ngươi. Đồng thời, linh hồn ngươi sẽ nhập vào thân xác mới rồi tỉnh dậy."
+"Không có gì khó cả. Ngay từ lúc ngươi ở trong không gian này, mọi chuẩn bị đã xong xuôi hết rồi. Giờ chỉ cần ta và ngươi chạm vào nhau, việc dung hợp sẽ tự động hoàn tất và tái cấu trúc lại bản thân ngươi. Đồng thời, linh hồn ngươi sẽ nhập vào thân xác mới rồi tỉnh dậy."
 
 "Tôi hiểu rồi. ...Làm đi."
 

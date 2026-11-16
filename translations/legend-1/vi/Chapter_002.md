@@ -32,13 +32,13 @@ Vừa uống nước cho đỡ khát, cậu chợt nghĩ ra một chuyện.
 
 "Nói mới nhớ, chỗ nước này cũng có từ mấy trăm năm trước rồi còn gì."
 
-Vừa nói, cậu vừa rót thêm nước vào chiếc cốc rỗng rồi chăm chú nhìn. Nếu lời Zepairu là thật, thì ông đã hóa thành quả cầu sáng, ẩn mình vào thế giới tinh thần nơi khe nứt giữa các thế giới để tìm người kế thừa Ma Thú Thuật từ mấy trăm năm trước. Đương nhiên cơ thể này, chỗ nước này, cả giường lẫn quần áo hẳn đều được chuẩn bị từ trước lúc đó. Thấy mọi thứ vẫn giữ nguyên vẻ tươi mới thế này, Reiji càng tin sái cổ rằng đây đúng là môn phái quy tụ toàn những ma thuật sư hàng đầu thế giới.
+Vừa nói, cậu vừa rót thêm nước vào chiếc cốc rỗng rồi chăm chú nhìn. Nếu lời Zepairu là thật, thì ông đã hóa thành quả cầu sáng, ẩn mình vào thế giới tinh thần nơi khe nứt giữa các thế giới để tìm người kế thừa Ma Thú Thuật từ mấy trăm năm trước. Đương nhiên cơ thể này, chỗ nước này, cả giường lẫn quần áo hẳn đều được chuẩn bị từ trước lúc đó. Thấy mọi thứ vẫn giữ nguyên vẻ tươi mới thế này, Reiji lập tức thấm thía và hiểu ngay đây đúng là môn phái quy tụ toàn những ma thuật sư hàng đầu thế giới.
 
 Nước trong lành đến mức có bảo vừa múc từ suối nguồn trên núi sâu về cậu cũng tin ngay. Vốn sống ở một thị trấn miền quê vùng Tohoku, Reiji không lạ gì nước ngon, vậy mà đem so với nước ở đây vẫn thấy khác nhau một trời một vực. Ngon quá, cậu uống liền thêm vài cốc nữa mới chịu dừng.
 
 "Tạm thời cứ đi ngó quanh ngôi nhà này đã."
 
-Nhờ tri thức của Zepairu, cậu đại khái biết thứ gì đặt ở đâu, nhưng đó rốt cuộc vẫn chỉ là kiến thức được truyền lại. Dù sao cũng phải tự mình đi xem tận mắt một lượt.
+Nhờ tri thức của Zepairu, cậu đại khái biết thứ gì đặt ở đâu, nhưng đó suy cho cùng vẫn chỉ là những gì được truyền lại. Dù sao cũng cần tự mình đi xem tận mắt một lượt.
 
 Trong phòng ngủ chỉ có chiếc giường Reiji vừa nằm, cái bàn, ghế, bình nước và cốc.
 
@@ -110,9 +110,9 @@ Khẽ lẩm bẩm, cậu tiến lại gần hộp trang sức rồi mở nắp r
 
 Cậu lấy món đồ trong hộp ra. Đó là một chiếc vòng đường kính chừng 10cm, xét kích cỡ thì đúng là vòng đeo tay không sai đi đâu được.
 
-Cậu cầm chiếc vòng ngắm nghía với vẻ khó hiểu. Nhìn qua thì nó đúng là một chiếc vòng tay khá đẹp, nhưng xét về giá trị tiền bạc thì cái hộp đựng chạm trổ cầu kỳ lại nạm đầy đá quý kia có khi còn đắt giá hơn nhiều.
+Cậu cầm chiếc vòng ngắm nghía với vẻ khó hiểu. Nhìn qua thì nó đúng là một chiếc vòng tay khá đẹp, nhưng xét về giá trị tiền bạc thì chiếc hộp trang sức chạm trổ cầu kỳ lại nạm đầy đá quý kia có khi còn đắt giá hơn nhiều.
 
-Có gì đó sai sai. Ý nghĩ ấy chợt lóe lên trong đầu cậu. Đem một chiếc vòng tay giá trị chẳng bao nhiêu cất vào cái hộp đắt tiền thế kia, nghĩ thông thường thì làm gì có chuyện đó. Tức là chiếc vòng này ắt phải ẩn chứa điều gì đặc biệt. Nghĩ vậy, Reiji liền lục tìm trong tri thức của Zepairu và hiểu ra ngay.
+Có gì đó sai sai. Ý nghĩ ấy chợt lóe lên trong đầu cậu. Đem một chiếc vòng tay giá trị chẳng bao nhiêu cất vào chiếc hộp trang sức đắt tiền thế kia, nghĩ thông thường thì làm gì có chuyện đó. Tức là chiếc vòng này ắt phải ẩn chứa điều gì đặc biệt. Nghĩ vậy, Reiji liền lục tìm trong tri thức của Zepairu và hiểu ra ngay.
 
 "Ra thế, đúng là thứ này còn giá trị hơn cả núi đá quý thật."
 
@@ -148,7 +148,7 @@ Ngay khoảnh khắc tiếp theo, ma pháp trận dưới chân Reiji bắt đ�
 
 "Hự!"
 
-Chẳng mấy chốc cậu chạm tới giới hạn, khuỵu một gối xuống mặt sàn. Ngay khoảnh khắc sau, ma pháp trận vốn đang chói lòa đến mức chẳng còn nhìn thấy gì xung quanh bỗng lóe sáng chói gắt lên... rồi đột ngột vụt tắt.
+Chẳng mấy chốc cậu chạm tới giới hạn, khuỵu một gối xuống mặt sàn. Ngay khoảnh khắc sau, ma pháp trận vốn đang tỏa sáng chói lòa đến mức chẳng còn nhìn thấy gì xung quanh bỗng bùng lên một tia sáng sắc lẹm... rồi đột ngột vụt tắt.
 
 "Th... thành công... rồi à?"
 

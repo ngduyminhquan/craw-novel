@@ -8,7 +8,7 @@ Reiji tỉnh giấc trong tiếng kêu ấy, cảm nhận ngay lớp lông ấm 
 
 Vừa xoa đầu nhìn quanh, cậu thấy ngay một lớp lông dày mượt. Chủ nhân của bộ lông ấy đang lấy chính thân mình làm gối cho Reiji nằm, như thể muốn che chở cho cậu.
 
-Nhận ra điều đó, cậu vừa vuốt ve lớp lông trước mặt vừa đảo mắt nhìn quanh, rồi chạm phải ánh mắt của một sinh vật đang ghé sát nhìn mình với vẻ lo lắng.
+Nhận ra điều đó, cậu vừa vuốt ve lớp lông trước mặt vừa đảo mắt nhìn quanh, rồi chạm phải ánh mắt của một sinh vật đang ghé sát nhìn cậu với vẻ lo lắng.
 
 "..."
 
@@ -76,7 +76,7 @@ Nghe giải thích về nguồn gốc cái tên Set, chú Griffin cũng thích t
 
 "Được rồi. Từ hôm nay mày là Set nhé. Còn tao là Reiji... À không, đấy là tên cũ của tao rồi."
 
-Vừa vuốt đầu Set đang quấn quýt, cậu vừa ngẫm nghĩ. Người tên Saeki Reiji đã bị thanh dầm thép kia đè chết rồi. Người đang ở đây bây giờ là sự dung hợp giữa Saeki Reiji và Zepairu. Dù nhân cách chính vẫn là Reiji, nhưng cứ dùng nguyên cái tên Saeki Reiji thì thấy sao sao ấy. Hơn nữa, theo tri thức của Zepairu, cái tên Saeki Reiji cũng chẳng hợp với thế giới Elgin này.
+Vừa vuốt đầu Set đang quấn quýt, cậu vừa ngẫm nghĩ. Người tên Saeki Reiji đã bị thanh dầm thép kia đè chết rồi. Người đang ở đây bây giờ là sự dung hợp giữa Saeki Reiji và Zepairu. Dù nhân cách chính vẫn là Reiji, nhưng cứ dùng nguyên cái tên Saeki Reiji thì vẫn thấy hơi gượng gạo. Hơn nữa, theo tri thức của Zepairu, cái tên Saeki Reiji cũng chẳng hợp với thế giới Elgin này.
 
 "Reiji... Phải rồi, từ giờ tao sẽ lấy tên là Rei. Từ nay nhờ mày nhé, Set. Tên tao là Rei."
 
@@ -208,15 +208,15 @@ Chẳng hiểu sao nhìn chiếc hộp trang sức, Set lại gù lên khe khẽ
 
 "Gùuu."
 
-Nghe Rei nói vậy, Set mừng rỡ cọ má vào chiếc hộp. Cậu mỉm cười nhìn cảnh ấy rồi đeo Nhẫn Sương Mù vào tay phải. Ngay lập tức, chiếc vòng vốn rộng hơn tay cậu bỗng thu nhỏ lại trong chớp mắt, ôm khít lấy cánh tay.
+Nghe Rei nói vậy, Set mừng rỡ cọ má vào chiếc hộp. Cậu mỉm cười nhìn cảnh ấy rồi đeo Nhẫn Sương Mù vào tay phải. Chiếc vòng vốn rộng hơn cổ tay cậu lập tức thu nhỏ lại trông thấy, ôm vừa khít lấy cánh tay.
 
 "Xem nào, muốn hiện danh sách ra thì... À, chỉ cần nghĩ trong đầu là được à."
 
 Danh sách hiện ra trong đầu cậu liệt kê vô số vật phẩm, nguyên liệu cùng đủ loại trang bị. Thế nhưng, vừa lướt mắt đọc qua, Rei đã bất giác đưa tay ôm mặt.
 
-"Đúng là có cả đống nguyên liệu trông cực kỳ xịn với Đạo Cụ Ma Thuật mang hiệu ứng cực mạnh thật đấy. Nhưng không có lấy một mẩu lương thực nào thì là cố tình chơi khăm nhau hay gì? Chẳng lẽ định bắt mình gặm xương rồng, sừng ác ma cao cấp hay đuôi Salamander chắc? Mà đã tính giao lại cho người kế thừa Ma Thú Thuật rồi, ít ra cũng phải bỏ sẵn lấy một viên Ma Thạch cho Set ăn chứ!"
+"Đúng là có bao nhiêu nguyên liệu trông cực xịn với Đạo Cụ Ma Thuật có hiệu ứng mạnh thật đấy. Nhưng không có lấy một mẩu lương thực nào thì là cố tình chơi khăm nhau hay gì? Chẳng lẽ định bắt mình gặm xương rồng, sừng ác ma cao cấp hay đuôi Salamander chắc? Mà đã tính giao lại cho người kế thừa Ma Thú Thuật rồi, ít ra cũng phải bỏ sẵn lấy một viên Ma Thạch cho Set ăn chứ!"
 
-Hết cách, Rei đành lục trong tri thức của Zepairu xem có Đạo Cụ Ma Thuật nào giúp ích được cho tình cảnh hiện tại không. Kết quả là cậu tìm ra thứ gọi là [Quả Cầu Chẩn Đoán]. Dùng nó thì có thể biết được bản thân dùng được hệ ma thuật nào. Đương nhiên là chỉ tính các thiên hướng ngoài Ma Thú Thuật.
+Hết cách, Rei đành lục trong tri thức của Zepairu xem có Đạo Cụ Ma Thuật nào giúp ích được cho tình cảnh hiện tại không. Kết quả là cậu tìm ra thứ gọi là [Quả Cầu Chẩn Đoán]. Có nó là biết ngay bản thân dùng được hệ ma thuật nào. Đương nhiên là chỉ tính các thiên hướng ngoài Ma Thú Thuật.
 
 Đã được đại ma thuật sư hàng đầu thế giới như Zepairu khẳng định là sở hữu lượng ma lực khổng lồ, Rei liền lấy Quả Cầu Chẩn Đoán từ Nhẫn Sương Mù ra, định kiểm tra xem mình có thiên hướng với loại ma thuật nào.
 
