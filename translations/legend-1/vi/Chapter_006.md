@@ -12,7 +12,7 @@ Bên cạnh xác con Gấu Nước nằm trên mặt đất, Rei cũng ngồi b�
 
 "Gừưưư."
 
-Cậu vừa gãi gãi đầu khen ngợi nó. Set cũng khoái được gãi đầu hay sao mà cứ rừ rừ trong cổ họng như mèo, trông vui ra mặt.
+Cậu vừa gãi đầu vừa khen nó. Set cũng khoái được gãi đầu hay sao mà cứ rừ rừ trong cổ họng như mèo, trông vui ra mặt.
 
 Cứ thế vài phút, Rei lấy lại tinh thần rồi đứng dậy.
 
@@ -38,7 +38,7 @@ Chạm vào thân cây gãy rồi lẩm bẩm, cái cây cũng biến mất sạ
 
 "Gùuu."
 
-Set lại dụi mặt vào người cậu như giục mau đi thôi. Cậu vừa vuốt lưng Set vừa tiện tay vơ sạch đống Quả Clara quanh đó bỏ vào Nhẫn Sương Mù, rồi cả hai rời khỏi chỗ đó.
+Set lại dụi mặt vào người cậu như giục mau đi thôi. Cậu vừa vuốt lưng Set vừa tiện tay vơ sạch đống Quả Clara trên cây bỏ vào Nhẫn Sương Mù, rồi cả hai rời khỏi đó.
 
 "Được rồi, tới đây chắc ổn rồi."
 
@@ -124,7 +124,7 @@ Ma Thạch đổi màu tùy theo thuộc tính của con quái vật mang nó. N
 
 Cậu truyền lại ma lực vào Dao Mithril, cắt ngọt cả thịt lẫn xương thành từng phần.
 
-Việc xẻ thịt con gấu xong xuôi chỉ sau vài phút. Giờ trước mắt Rei là sáu phần được chia sẵn gồm hai chân trước, hai chân sau, thân mình và phần đầu.
+Chỉ vài phút sau là xẻ thịt xong con gấu. Giờ trước mắt Rei là sáu phần được chia sẵn gồm hai chân trước, hai chân sau, thân mình và phần đầu.
 
 "Gùuu."
 

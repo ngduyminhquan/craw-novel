@@ -38,13 +38,13 @@ Thấy cậu quay lại chỗ vẽ ma pháp trận, Set gừ nhẹ trong họng 
 
 Kiến thức của Zepairu bảo ma pháp trận trên sàn không phản ứng với thứ gì ngoài Ma Thú Thuật đâu, nhưng cứ cẩn thận chút vẫn hơn.
 
-Cầm Lưỡi Hái Tử Thần làm vật dẫn, cậu hít sâu một hơi rồi tập trung tinh thần. Thế là cậu cảm nhận được ngay luồng ma lực trong người mình một cách rất tự nhiên.
+Cầm Lưỡi Hái Tử Thần làm vật dẫn, cậu hít sâu một hơi rồi tập trung tinh thần. Thế là cậu tự nhiên cảm nhận được ngay luồng ma lực trong người mình.
 
 Ma thuật là kỹ thuật dùng câu chú có gắn ma lực để đánh lừa và tạm thời viết lại thế giới, từ đó tạo ra kết quả mình muốn. Thế nên câu chú của mỗi ma thuật sư mỗi khác, dùng y hệt câu chú của người khác cũng gần như không thể ra cùng một kết quả. Dù ngoài Địa, Thủy, Hỏa, Phong, Quang, Ám ra thì mấy hệ ma thuật khác có chỗ hơi khác nguyên tắc này, nhưng với một người chỉ có mỗi đặc tính hệ Hỏa như Rei thì đây chính là cốt lõi của ma thuật.
 
 [Hỡi ngọn lửa, hãy tụ lại nơi đầu ngón tay ta]
 
-Gửi ma lực vào lời nói, cậu đọc câu chú. Quan trọng nhất lúc này là hình dung. Dù quá trình dùng câu chú viết lại thế giới là giống nhau, nhưng người dùng hình dung càng rõ thì hiệu quả càng cao. Với một đứa mê văn hóa đại chúng như manga, anime, phim ảnh, game hay tiểu thuyết như Rei thì chuyện tưởng tượng kiểu này dễ ợt.
+Gửi ma lực vào lời nói, cậu đọc câu chú. Quan trọng nhất lúc này là hình dung. Dù việc dùng câu chú viết lại thế giới là giống nhau, nhưng người dùng hình dung càng rõ thì hiệu quả càng cao. Với một đứa mê văn hóa đại chúng như manga, anime, phim ảnh, game hay tiểu thuyết như Rei thì chuyện tưởng tượng kiểu này dễ ợt.
 
 Quy luật thế giới bị câu chú viết lại, rồi hình dung của Rei thấm dần vào đó.
 
@@ -98,7 +98,7 @@ Nghe cái tên là thấy sặc mùi đắt tiền với xịn sò rồi. Cậu 
 
 Áo choàng làm từ da của những con rồng sống hàng trăm năm. Bản thân lớp da được nhuộm bằng máu và bột xương rồng nên kháng ma thuật cực khủng. Đã thế còn ghép hai lớp da rồng kẹp vảy rồng ở giữa nên độ chống chịu vật lý cũng rất cao. Da dùng may áo lấy từ Hỏa Long và Thủy Long, thành ra nóng thì mát mà lạnh thì ấm, mặc cực kỳ dễ chịu. Cuối cùng, Giả Kim Thuật Sư của môn phái Zepairu là Esta Noor, người làm ra chiếc áo này, còn yểm thêm hiệu ứng che giấu, nhìn qua chẳng khác gì áo thường chứ không lộ vẻ là Đạo Cụ Ma Thuật xịn.
 
-Độ trâu bò về cả ma thuật lẫn vật lý đúng là đáng nể thật, nhưng thứ làm Rei bất ngờ nhất lại là cái tính năng chẳng khác nào điều hòa mặc trên người kia.
+Độ trâu bò về cả ma thuật lẫn vật lý đúng là đáng nể thật, nhưng thứ làm Rei bất ngờ nhất lại là cái tính năng y hệt điều hòa mặc trên người kia.
 
 "Trước mắt đồ phòng ngự cứ lấy cái này là ổn rồi."
 
@@ -196,4 +196,4 @@ Set gật đầu cái rụp bảo là đói rồi. Thấy vậy, Rei cũng sực
 
 Set gật đầu, rồi cùng Rei rời phòng nghiên cứu đi sang nhà ăn.
 
-Nhân tiện, tuy Set dài tới hai mét nhưng nhờ dinh thự này thiết kế sẵn cho người dùng Ma Thú Thuật nên nó vẫn đi qua cửa phòng nghiên cứu bình thường. Sau đó, cả hai lấy bánh mì đen nhạt thếch còn lại trong bếp nhà ăn ngâm nước ăn cho đỡ đói. Xong bữa tối đạm bạc, phần vì mệt nên cả Rei và Set đều về phòng ngủ đánh một giấc.
+Nhân tiện, tuy Set dài tới hai mét nhưng nhờ dinh thự này thiết kế sẵn cho người dùng Ma Thú Thuật nên nó vẫn đi qua cửa phòng nghiên cứu bình thường. Sau đó, cả hai lấy bánh mì đen nhạt thếch còn lại trong bếp nhà ăn ngâm nước ăn cho đỡ đói. Xong bữa tối sơ sài, phần vì mệt nên cả Rei và Set đều về phòng ngủ đánh một giấc.

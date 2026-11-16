@@ -36,7 +36,7 @@ Quyết tâm xong xuôi, Rei cùng Set bước ra ngoài kết giới.
 
 "Ối, thật luôn hả trời."
 
-Vừa bước ra khỏi kết giới một bước, cậu đã cảm nhận ngay được sự hiện diện dày đặc đến choáng ngợp của đủ loại sinh vật. Trước khi thành Rei, Reiji sống ở một thị trấn vùng quê Tohoku. Quanh đó tất nhiên có núi có sông. Gặp thỏ, sóc, hươu, khỉ, cáo, lửng chó hay lợn rừng cũng chẳng có gì lạ. Vào sâu trong núi, thỉnh thoảng nhìn từ xa còn thấy cả gấu nữa. Thế nhưng, vô số dấu hiệu sinh vật mà Rei đang cảm nhận lúc này vượt xa mấy thứ đó nhiều.
+Vừa bước ra khỏi kết giới một bước, cậu đã cảm nhận ngay được dấu hiệu của đủ loại sinh vật dày đặc đến choáng ngợp xung quanh. Trước khi thành Rei, Reiji sống ở một thị trấn vùng quê Tohoku. Quanh đó tất nhiên có núi có sông. Gặp thỏ, sóc, hươu, khỉ, cáo, lửng chó hay lợn rừng cũng chẳng có gì lạ. Vào sâu trong núi, thỉnh thoảng nhìn từ xa còn thấy cả gấu nữa. Thế nhưng, vô số dấu hiệu sinh vật mà Rei đang cảm nhận lúc này vượt xa mấy thứ đó nhiều.
 
 "Với lại, đúng là dị giới có khác."
 
@@ -136,7 +136,7 @@ Kèm theo tiếng phập trầm đục, cán Lưỡi Hái Tử Thần đâm xuy�
 
 "Gàooo!"
 
-Cảm giác nhầy nhụa khi đâm xuyên qua thịt làm Rei hơi nhăn mặt, nhưng thấy con Gấu Nước giơ vuốt phải lên, cậu vội dùng hết sức rút phắt cán hái ra rồi lùi lại giữ khoảng cách trước khi cú vả trời giáng đó giáng xuống. Lúc cán hái vừa rút ra, ít máu của con Gấu Nước nhỏ giọt văng lên đám cỏ quanh đó, nhưng nó chẳng buồn để ý mà vẫn vung bộ vuốt dữ tợn bổ xuống.
+Cảm giác nhầy nhụa khi đâm xuyên qua thịt làm Rei hơi nhăn mặt, nhưng thấy con Gấu Nước giơ vuốt phải lên, cậu vội dùng hết sức rút phắt cán hái ra rồi lùi lại giữ khoảng cách trước khi cú vả trời giáng đó bổ xuống. Lúc cán hái vừa rút ra, ít máu của con Gấu Nước nhỏ giọt văng lên đám cỏ quanh đó, nhưng nó chẳng buồn để ý mà vẫn vung bộ vuốt dữ tợn bổ xuống.
 
 "Gàooo!"
 
@@ -158,9 +158,9 @@ Cậu liếc mắt nhìn sang phần lưỡi của Lưỡi Hái Tử Thần, r�
 
 (Chết cha. Quên khuấy mất Lưỡi Hái Tử Thần có chiêu truyền ma lực vào là tăng uy lực. Đúng là lần đầu đánh nhau nên căng thẳng... Căng thẳng á?)
 
-Nghĩ tới đó, cậu mới để ý mức độ căng thẳng của bản thân. Căng thẳng thì có đấy, nhưng tuyệt nhiên không bị đơ người vì run như mấy anh tân binh hay tay mơ hay gặp trong tiểu thuyết.
+Nghĩ tới đó, cậu mới để ý mức độ căng thẳng của bản thân. Căng thẳng thì có đấy, nhưng hoàn toàn không bị đơ cứng người vì run như mấy anh tân binh hay tay mơ thường thấy trong tiểu thuyết.
 
-(Chắc đây cũng là kết quả của việc dung hợp nhỉ.)
+(Chắc đây cũng là nhờ dung hợp nhỉ.)
 
 Vừa nghĩ vậy, cậu vừa canh chừng con Gấu Nước lúc này đang phân vân không biết nên tấn công Rei hay Set.
 
