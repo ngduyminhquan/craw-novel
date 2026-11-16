@@ -1,80 +1,80 @@
 # Chương 17: Đột kích bộ lạc Orc (17)
 
-Ngày hôm sau chuyến đi thư viện. Chỉ một lúc sau khi hồi chuông đầu tiên trong ngày vang lên, Rei đã có mặt bên trong Hội Mạo Hiểm Giả. Lẽ dĩ nhiên, Set đang đợi cậu ở khu vực dành cho xe ngựa bên ngoài Hội.
+Hôm sau ngày đi thư viện. Chuông báo giờ đầu tiên vừa rung được một lúc, Rei đã có mặt ở Hội Mạo Hiểm Giả. Tất nhiên, Set vẫn đang đợi cậu ở khu đậu xe ngựa bên ngoài Hội.
 
 "Khác hẳn hôm kia nhỉ."
 
-Hôm kia khi cậu đến Hội, trước bảng dán ủy thác chỉ lác đác vài ba mạo hiểm giả, người ngồi uống rượu ở khu quán rượu còn đông hơn.
+Hôm kia lúc cậu tới Hội, trước bảng dán ủy thác chỉ lác đác vài người, đám ngồi uống ở khu quán rượu còn đông hơn nhiều.
 
-Nhưng lúc này, dù chưa đến mức chen chúc nghẹt thở, cũng có khá đông người đang đứng trước bảng, chăm chú đọc các nhiệm vụ phù hợp với hạng của mình.
+Còn lúc này, tuy chưa tới mức chen chúc nhưng cũng khá đông người đứng trước bảng, chăm chú đọc các ủy thác hợp với hạng của mình.
 
-Cảnh tượng này khiến Rei hơi bất ngờ, nhưng thực ra buổi sáng mới là lúc Hội Mạo Hiểm Giả nhộn nhịp nhất. Nghĩ kỹ thì cũng dễ hiểu: nhận ủy thác vào buổi sáng, hoàn thành trong ngày, rồi đến chiều tối quay về nhận thù lao. Đó là thời gian biểu tối ưu nhất để sinh hoạt trong thành phố.
+Rei thấy hơi bất ngờ, nhưng đúng ra buổi sáng mới là lúc Hội Mạo Hiểm Giả đông vui nhất. Nghĩ kỹ cũng phải thôi: sáng nhận ủy thác, ban ngày đi làm, chiều tối quay về nhận tiền công. Sống ở thành phố thì lịch sinh hoạt như vậy là hợp lý nhất rồi.
 
-Dẫu có những người chuyên nhận ủy thác ban đêm, nhưng số đó chỉ là thiểu số.
+Tất nhiên cũng có người chuyên nhận ủy thác ban đêm, nhưng số đó rất ít.
 
-"Này, thằng nhóc mặc áo choàng đằng kia kìa. Nó là đứa một mình xử đẹp bọn Vargas đấy à?"
+"Này, thằng nhóc mặc áo choàng đằng kia kìa. Nó là đứa một mình hạ gọn bọn Vargas đấy à?"
 
 "Gì cơ? Tao nghe đồn đứa đó to con chẳng kém gì Vargas mà?"
 
 "Còn tao lại nghe nói là một nữ mạo hiểm giả mảnh khảnh cơ..."
 
-Bỏ ngoài tai những lời bàn tán xôn xao của các mạo hiểm giả xung quanh khi thấy gương mặt lạ lẫm của mình, Rei lướt mắt qua các ủy thác dán trên bảng Hạng F và Hạng G.
+Bỏ ngoài tai mấy lời xì xào của đám mạo hiểm giả thấy mặt lạ, Rei lướt mắt nhìn các ủy thác dán trên bảng Hạng F và Hạng G.
 
-Dù vậy, bản thân Rei chẳng mấy trông mong vào các ủy thác Hạng F hay Hạng G. Bởi lẽ, đặc tính của Ma Thú Thuật là có hấp thụ bao nhiêu Ma Thạch của quái vật yếu ớt đi chăng nữa cũng gần như vô nghĩa. Ý định của cậu là cứ nhận bừa một ủy thác tiêu diệt quái vật ở đây, rồi nhân tiện tìm kiếm những quái vật đủ cấp độ để Set và Lưỡi Hái Tử Thần có thể hấp thụ kỹ năng.
+Nói vậy chứ Rei cũng chẳng trông mong gì mấy ở đám ủy thác Hạng F hay Hạng G. Vì đặc tính của Ma Thú Thuật là hấp thụ bao nhiêu Ma Thạch của quái vật yếu cũng gần như vô dụng. Cậu chỉ định nhận đại một ủy thác diệt quái ở đây, rồi nhân tiện đi tìm con nào đủ mạnh để Set với Lưỡi Hái Tử Thần hấp thụ kỹ năng thôi.
 
-"Cơ mà, thế này thì... Thôi thì ủy thác cho người mới bắt đầu nên cũng đành chịu."
+"Nhưng mà kể ra... Thôi thì ủy thác cho người mới, đành chịu vậy."
 
-Những ủy thác lọt vào mắt Rei ở bảng Hạng G toàn là đối phó với lũ tép riu như nộp thịt Fang Boar hay Thỏ Một Sừng, rồi thu hái thảo dược làm nguyên liệu chế thuốc hồi phục, hay nguyên liệu làm thuốc gây mê dùng khi bị thương nặng. Cái nào cái nấy đều na ná như nhau.
+Mấy tờ ủy thác Hạng G đập vào mắt Rei toàn việc vặt đánh lũ tép riu như nộp thịt Fang Boar hay Thỏ Một Sừng, hái thảo dược chế thuốc hồi phục, hay kiếm nguyên liệu làm thuốc mê dùng lúc bị thương nặng. Cái nào cũng na ná nhau.
 
-Nhìn mấy tờ ủy thác ấy, cậu khẽ thở dài. Dù chỉ định nhận làm cho có nhưng đối tượng thảo phạt kiểu này đúng là quá sức yếu ớt. Nói đúng hơn, cả Fang Boar lẫn Thỏ Một Sừng đều chẳng phải quái vật, mà chỉ là động vật hoang dã hệt như lũ sói cậu từng chạm trán trong Rừng Ma. Về cơ bản, những nhiệm vụ này ở Hạng G đều thuộc dạng ủy thác thường trực, vốn dùng để rèn luyện cho những kẻ vừa từ Hạng H vốn chỉ làm việc vặt trong thành phố mới chân ướt chân ráo bước lên Hạng G.
+Nhìn đống ủy thác đó, cậu thở dài. Biết là chỉ nhận làm cho có, nhưng mục tiêu thế này đúng là yếu quá mức. Đúng hơn là cả Fang Boar lẫn Thỏ Một Sừng đều chẳng phải quái vật, chỉ là thú hoang giống hệt bầy sói cậu từng gặp trong Rừng Ma. Mấy việc ở Hạng G này cơ bản đều là ủy thác thường trực, để cho những người vừa từ Hạng H, vốn chỉ quen làm việc vặt trong thành phố, tập làm quen khi mới lên Hạng G.
 
-Kế đó, Rei chuyển sang trước bảng Hạng F để xem các ủy thác được niêm yết.
+Tiếp theo, Rei sang đứng trước bảng Hạng F xem thử các ủy thác dán trên đó.
 
-Ở đây hầu hết là các yêu cầu tiêu diệt những quái vật tương đối yếu hoặc nộp Ma Hạch của chúng, chẳng hạn như tiêu diệt Goblin, nộp Ma Hạch của Slime, hay săn lùng Poison Toad.
+Bên này hầu hết là diệt mấy con quái vật hơi yếu hoặc nộp Ma Hạch của chúng, kiểu như diệt Goblin, nộp Ma Hạch Slime hay diệt Poison Toad.
 
-"Thôi thì, chí ít cũng nên chọn bên này. Nhắc đến thế giới fantasy thì sao thiếu Goblin cho được."
+"Thôi, ít ra cũng chọn bên này vậy. Đã là fantasy thì phải có Goblin chứ nhỉ."
 
-Cậu lẩm bẩm một mình rồi bắt đầu đọc kỹ tờ ủy thác tiêu diệt Goblin.
+Cậu lẩm bẩm rồi đọc tờ ủy thác diệt Goblin.
 
-Trên tờ ủy thác có ghi: tiêu diệt Goblin là ủy thác thường trực, bộ phận xác nhận thảo phạt là tai phải. Số lượng tối thiểu cần tiêu diệt là năm con. Mỗi chiếc tai phải đổi được ba đồng đồng.
+Tờ giấy ghi rõ: diệt Goblin là ủy thác thường trực, bộ phận xác nhận thảo phạt là tai phải, tối thiểu năm con, mỗi chiếc tai phải đổi được ba đồng đồng.
 
-Dẫu biết là ủy thác dành cho mạo hiểm giả hạng thấp, Rei vẫn không khỏi nhíu mày trước mức thù lao bèo bọt. Nhưng nếu mang về tai của năm con thì sẽ được mười lăm đồng đồng, tức là một đồng bạc và năm đồng đồng. Quán trọ Hoàng Hôn Mạch Đình nơi Rei đang ở lấy giá ba đồng bạc một đêm, nhưng đó là mức giá của một nhà trọ thuộc hàng cao cấp tại thành phố Gilm. Những người mới đăng ký vào Hội thường chỉ ở những quán trọ giá rẻ khoảng năm đồng đồng một đêm, rồi tìm kiếm những kẻ cùng cảnh ngộ để lập tổ đội.
+Biết là ủy thác cho mạo hiểm giả hạng thấp rồi, nhưng thấy tiền công rẻ bèo Rei vẫn nhíu mày. Có điều mang năm cái tai về thì được mười lăm đồng đồng, tức một đồng bạc năm đồng đồng. Nhà trọ Hoàng Hôn Mạch Đình chỗ Rei đang ở giá tới ba đồng bạc một đêm, nhưng đó là nhà trọ thuộc hàng cao cấp ở Gilm. Người mới đăng ký vào Hội bình thường chỉ ở mấy nhà trọ rẻ tiền tầm năm đồng đồng một đêm, rồi tìm người cùng hoàn cảnh để lập tổ đội.
 
-Ngoài chuyện thực lực ra, xét theo khía cạnh đó thì Rei cũng khác một trời một vực so với mạo hiểm giả thông thường.
+Ngoài chuyện thực lực ra, về khoản này Rei cũng khác xa mạo hiểm giả bình thường.
 
-Rei gỡ tờ ủy thác tiêu diệt Goblin xuống, cầm tới chỗ cô tiếp tân buộc tóc đuôi ngựa từng tiếp đón cậu hôm đầu tiên bước chân vào Hội.
+Rei bóc tờ ủy thác diệt Goblin xuống, mang tới quầy chỗ cô tiếp tân buộc tóc đuôi ngựa đã nói chuyện với cậu hôm đầu tới Hội.
 
-Mấy mạo hiểm giả quanh đó thấy vậy đều đưa mắt nhìn theo với vẻ mặt đầy ngạc nhiên. Rõ ràng cậu có thể một mình đè bẹp bốn mạo hiểm giả Hạng D, thế mà nhiệm vụ nhận lại là diệt trừ Goblin, loài xếp gần như dưới đáy trong số các quái vật. Có lẽ chẳng ai ngờ nổi cậu chọn nó chỉ vì cái lý do đơn giản đến nực cười: nhắc tới fantasy thì phải có Goblin.
+Mấy mạo hiểm giả gần đó nhìn thấy liền tỏ vẻ ngạc nhiên. Rõ ràng đánh ngang cơ bốn mạo hiểm giả Hạng D, vậy mà lại đi nhận việc diệt Goblin, loài gần như đội sổ trong đám quái vật, bảo sao họ không bất ngờ. Chắc chắn chẳng ai nghĩ tới chuyện cậu chọn nó chỉ vì cái lý do đơn giản đến thế: nhắc tới fantasy là phải có Goblin.
 
-Cơ mà đối thủ là quái vật Hạng F hay Hạng G thì đằng nào cũng gần như chắc chắn chẳng kiếm nổi Ma Thạch đủ cấp độ cho Set hay Lưỡi Hái Tử Thần thăng tiến, nên lựa chọn này của cậu cũng không hẳn là sai.
+Nhưng đằng nào đánh quái vật Hạng F hay Hạng G thì cũng gần như chắc chắn chẳng kiếm được Ma Thạch đủ xịn cho Set hay Lưỡi Hái Tử Thần mạnh lên, nên chọn vậy cũng chẳng sai.
 
 [Goblin]
 
-Loài quái vật thuộc Quỷ tộc có vóc dáng chỉ ngang một đứa trẻ loài người. Chúng sở hữu làn da màu xanh lá và chiếc sừng ngắn cỡ đầu ngón tay trên trán. Xét riêng từng cá thể thì chúng vô cùng yếu ớt, chỉ cần người bình thường có chút kinh nghiệm ẩu đả là có thể hạ gục dễ dàng. Thế nhưng chúng lại có tập tính bầy đàn, ưa tụ tập thành từng nhóm vài con để hành động. Ngoài ra, loài này tuy ngây ngô nhưng cũng có chút trí khôn, một số ít cá thể còn biết tự trang bị bằng những vũ khí nhặt nhạnh hoặc trộm cắp được.
+Loài quái vật thuộc Quỷ tộc cao ngang đứa trẻ loài người. Da xanh lá, trên trán mọc cái sừng ngắn cỡ đầu ngón tay. Đánh lẻ thì rất yếu, người thường quen đánh lộn cũng hạ gọn được. Có điều chúng hay sống theo bầy, thích đi thành từng nhóm vài con. Tuy đầu óc còn non nớt nhưng cũng có chút khôn lanh, thỉnh thoảng còn có con biết cầm vũ khí nhặt hay trộm được.
 
-Vừa lục tìm thông tin về Goblin từ kho tri thức của Zepairu, Rei vừa chìa tờ giấy ủy thác cho cô tiếp tân.
+Vừa lục lại thông tin về Goblin trong kiến thức của Zepairu, Rei vừa đưa tờ ủy thác cho cô tiếp tân.
 
-"Cậu nhận ủy thác diệt Goblin sao? Với thực lực cỡ cậu Rei thì chắc chắn không thành vấn đề rồi, nhưng cũng đừng chủ quan nhé."
+"Cậu đi diệt Goblin à? Cỡ cậu Rei thì chắc chắn không sao rồi, nhưng cũng đừng chủ quan nhé."
 
-"Ừ, mà vị trí của lũ Goblin thì..."
+"Ừ, mà tụi Goblin ở chỗ nào vậy..."
 
-"Về chuyện đó thì chúng thường xuất hiện trong khu rừng dọc theo con đường lớn dẫn ra khỏi thành phố Gilm ạ. Dạo gần đây dường như còn có trường hợp chúng tụ tập thành bầy phục kích thương nhân và lữ khách đang trên đường đến thành phố."
+"Chỗ đó thì chúng hay xuất hiện trong khu rừng dọc đường cái bên ngoài thành phố Gilm. Nghe nói dạo này còn có chuyện cả bầy ra phục kích thương nhân với khách bộ hành đang đi về hướng thành phố nữa."
 
-"Lũ Goblin mà khôn đến mức đó sao?"
+"Goblin mà cũng khôn tới mức đó cơ à?"
 
-"Dạ không, bình thường thì không đâu. Vì thế nên rất có thể đã có một cá thể chủng hiếm xuất hiện."
+"Không, bình thường thì không đâu. Nên rất có thể đã xuất hiện một con chủng hiếm rồi."
 
-Chủng hiếm là những cá thể sinh ra từ một dạng đột biến. Chúng thường sở hữu năng lực vượt trội so với quái vật cùng loài, và theo phân hạng quái vật của Hội thì sẽ được tính tăng thêm một bậc. Nghĩa là trong trường hợp này, Goblin thuộc Hạng F thì cá thể chủng hiếm sẽ tương đương với quái vật Hạng E.
+Chủng hiếm là những con sinh ra do đột biến. Thường thì chúng mạnh hơn hẳn quái vật cùng loài, và theo bảng xếp hạng quái vật của Hội sẽ được tính lên một bậc. Nghĩa là trong trường hợp này, Goblin Hạng F thì chủng hiếm sẽ tương đương quái vật Hạng E.
 
-Sau khi cô tiếp tân hoàn tất thủ tục tiếp nhận ủy thác, Rei bước chân ra khỏi Hội.
+Để cô tiếp tân nhận xong thủ tục ủy thác, Rei bước ra khỏi Hội.
 
-Dạo gần đây tri thức của Zepairu ngày càng trở nên kém tin cậy, nhưng loài quái vật kinh điển của giới fantasy như Goblin xem ra đã tồn tại từ hàng nghìn năm trước vào thời của Zepairu, nên cậu dễ dàng tìm thấy thông tin mà không gặp trục trặc gì.
+Dạo này kiến thức của Zepairu hơi thiếu tin cậy thật, nhưng đúng là loài kinh điển của fantasy như Goblin thì đã có từ hàng nghìn năm trước thời Zepairu còn sống rồi, nên cậu vẫn tra ra thông tin ngon lành.
 
 "Gùuu."
 
-Vừa thấy Rei bước ra khỏi Hội, Set liền mừng rỡ gừ gừ trong cổ họng rồi đứng dậy.
+Thấy Rei từ trong Hội đi ra, Set mừng rỡ gừ nhẹ trong cổ họng rồi đứng dậy.
 
-Người đi đường xung quanh thấy Set nhổm dậy thì hoảng hốt nín thở lùi lại hoặc vội vã rảo bước rời đi, nhưng Set chẳng thèm bận tâm đến họ mà chỉ sán lại gần Rei, dụi đầu vào người cậu.
+Người đi đường thấy Set đứng dậy liền giật mình lùi lại hoặc vội vã bước nhanh qua, nhưng Set chẳng buồn để ý, chỉ chạy lại gần dụi đầu vào người Rei.
 
 "Gừưư."
 
@@ -82,88 +82,88 @@ Người đi đường xung quanh thấy Set nhổm dậy thì hoảng hốt ní
 
 "Grrr!"
 
-Set cất tiếng đáp lại lời Rei. Cùng với chú Griffin của mình, cậu sải bước dọc theo đại lộ hướng về phía cổng thành.
+Set kêu lên đáp lại. Rei cùng nó đi dọc theo đại lộ ra phía cổng thành.
 
 "Chào, mới một ngày không gặp nhỉ. Chiến tích của cậu đồn tới tận đây rồi đấy."
 
-Vừa thấy bóng dáng Rei và Set, Ranga đang đứng gác cạnh cổng thành đã cất tiếng chào.
+Ranga đứng cạnh cổng thành vừa thấy Rei và Set đã gọi ngay.
 
-Nhắc tới chiến tích thì chỉ có thể là vụ đụng độ với Vargas, Rei khẽ nở nụ cười gượng gạo rồi lấy Thẻ Hội từ trong Nhẫn Sương Mù ra trình cho Ranga xem.
+Nghe nhắc tới chiến tích, nghĩ đi nghĩ lại cũng chỉ có mỗi vụ đụng độ với Vargas, Rei cười trừ rồi lấy Thẻ Hội từ Nhẫn Sương Mù ra đưa cho Ranga xem.
 
-"Nói trước là tôi chỉ xử lý thích đáng khi bị mấy kẻ dở hơi kiếm chuyện thôi đấy."
+"Nói trước nhé, tôi chỉ đáp trả cho tương xứng khi bị mấy tên ngốc kiếm chuyện thôi đấy."
 
 "...Nghe đồn cậu không chỉ lấy sạch tiền mà còn tước cả vũ khí của chúng nữa cơ mà?"
 
 "Ừ. Vì chúng cược cả gia tài mà. Thế là đương nhiên thôi."
 
-Tiếp đó, cậu tháo chiếc Vòng Cổ Tùng Ma đeo trên cổ Set rồi đưa cho Ranga kiểm tra.
+Tiếp đó, cậu tháo Vòng Cổ Tùng Ma trên cổ Set đưa cho Ranga.
 
-"Tội nghiệp thật... Mấy tên bên Móng Vuốt Chim Ưng cầm mấy món vũ khí cùi bắp hơn hẳn ngày thường mới đi qua cổng này ban nãy đấy."
+"Tội nghiệp ghê... Đám Móng Vuốt Chim Ưng lúc nãy đi qua cổng này, đứa nào cũng cầm vũ khí kém hơn hẳn mọi khi đấy."
 
-Nghe Ranga vừa lắc đầu vừa kể, Rei cảm thấy hơi bất ngờ.
+Nghe Ranga vừa lắc đầu vừa nói, Rei thấy hơi bất ngờ.
 
-(Cứ ngỡ cái ngữ bọn chúng thì đã cuốn gói chuồn khỏi thành phố Gilm cho rảnh nợ rồi chứ... Hóa ra cũng lì lợm hơn mình tưởng.)
+(Cứ tưởng đám đó phải cuốn gói chuồn khỏi Gilm rồi chứ... Hóa ra cũng lì phết đấy.)
 
-"Xong rồi, không vấn đề gì. Đi cẩn thận nhé... Mà thôi, cậu có chú Griffin này đi cùng thì trừ phi gặp chuyện gì quá ghê gớm, chứ chẳng có gì phải lo."
+"Không vấn đề gì rồi. Đi cẩn thận nhé... Mà cậu có chú Griffin này bên cạnh thì chắc chẳng có chuyện gì đáng lo đâu nhỉ."
 
 "Cũng đúng. Nào Set, trước tiên cứ tìm từ trên trời xem sao."
 
 "Gùuu."
 
-Cậu nhảy lên lưng Set; sau vài mét lấy đà, chú Griffin vỗ mạnh đôi cánh lớn rồi bay vút lên không trung, bỏ lại sau lưng một Ranga đang đứng ngơ ngác nhìn theo.
+Cậu trèo lên lưng Set. Chú Griffin chạy lấy đà vài mét rồi vỗ mạnh đôi cánh lớn bay vút lên trời, bỏ lại Ranga đứng ngẩn ra nhìn theo.
 
 "Gừưưư!"
 
-Vừa rời xa thành phố Gilm một đoạn, Set liền cất tiếng kêu vang dội như để giải tỏa nỗi bức bối bấy lâu. Vừa vuốt ve lưng nó, Rei vừa thầm nghĩ.
+Ra khỏi thành phố Gilm một đoạn, Set kêu vang lên như để xả hết bí bách. Vừa vuốt lưng nó, Rei vừa nghĩ thầm.
 
-(Nghĩ lại thì Set chào đời chưa được bao lâu. Dẫu sinh ra theo cách đặc thù từ Ma Thú Thuật đi nữa, mới có mấy ngày tuổi mà đã bị nhốt trong chuồng thú của quán trọ thì bảo sao chẳng tích tụ ức chế.)
+(Nghĩ lại thì Set cũng mới sinh ra chưa lâu. Dù là sinh ra bằng Ma Thú Thuật đi nữa, mới vài ngày tuổi mà đã phải nhốt trong chuồng thú của nhà trọ thì chả trách bị tù túng.)
 
-Dù mỗi khi ra ngoài Rei đều dắt nó theo, nhưng việc mọi người xung quanh nhìn nó với ánh mắt sợ hãi cùng hoàn cảnh gò bó không thể tùy ý tung cánh bay lượn giữa thành phố chật hẹp đã khiến Set phải chịu không ít áp lực.
+Dù lúc ra ngoài Rei đều dắt nó đi cùng, nhưng cứ bị người xung quanh nhìn với ánh mắt sợ hãi, lại chẳng thể tùy tiện bay lượn trong thành phố chật hẹp khiến Set cũng căng thẳng không ít.
 
-Rei thầm nhủ từ ngày mai trở đi sẽ cố gắng nhận ủy thác để ra ngoài thành phố càng nhiều càng tốt.
+Rei tính từ mai sẽ cố nhận ủy thác ra ngoài thành phố nhiều hơn.
 
-Vốn dĩ mục đích của Rei là bồi dưỡng Set và Lưỡi Hái Tử Thần, mà việc trở thành mạo hiểm giả thì không hẳn là điều bắt buộc. Thế nhưng Hội luôn là nơi tập trung tin tức, thỉnh thoảng lại có những ủy thác tiêu diệt quái vật hạng cao được niêm yết. Đó đều là những thông tin và nhiệm vụ cực kỳ hữu ích đối với Rei. Có điều ở Hạng G hiện tại, dẫu có ủy thác quái vật hạng cao thì cậu cũng chẳng thể nhận. Nghĩ tới chuyện đó, mục tiêu trước mắt của cậu là tích cực làm ủy thác để thăng hạng càng sớm càng tốt.
+Vốn dĩ mục đích của Rei là nuôi Set với Lưỡi Hái Tử Thần mạnh lên, đâu nhất thiết phải làm mạo hiểm giả. Nhưng ở Hội lúc nào cũng gom đủ thứ tin tức, thỉnh thoảng còn treo cả ủy thác diệt quái vật hạng cao. Mấy tin tức và ủy thác đó đều cực kỳ có ích cho Rei. Có điều mới Hạng G như bây giờ thì dù có ủy thác quái vật hạng cao cậu cũng không nhận được. Thành ra trước mắt cứ làm nhiều ủy thác để lên hạng cho nhanh đã.
 
-Trong lúc cậu còn đang mải suy nghĩ, khu rừng nằm dọc theo con đường lớn mà cô tiếp tân ở Hội nhắc tới đã dần hiện ra bên dưới tầm mắt. Lữ khách hay mạo hiểm giả bình thường phải mất vài tiếng đồng hồ mới đi tới được khu rừng này, vậy mà Rei cưỡi trên lưng Set chỉ mất hơn mười phút kể từ khi rời thành phố Gilm. Chỉ riêng điều đó thôi cũng đủ cho thấy độ cơ động vượt trội của loài Griffin... hay đúng hơn là của riêng Set.
+Đang mải nghĩ, khu rừng dọc đường cái mà cô tiếp tân ở Hội nói đã hiện ra ngay bên dưới. Lữ khách hay mạo hiểm giả bình thường phải mất mấy tiếng mới đi tới đây được, vậy mà Rei cưỡi Set bay từ thành phố Gilm chỉ mất hơn mười phút. Nội chuyện đó thôi cũng đủ thấy độ cơ động của Griffin... không, của Set khủng cỡ nào rồi.
 
 "Set, có thấy con quái vật nào không?"
 
 "Gùuu."
 
-Vẫn đang lượn trên không trung, Set khẽ lắc đầu sang hai bên. Từ tầm nhìn của Rei nhìn xuống cũng chỉ thấy bạt ngàn cây cối, cành lá rậm rạp đã che khuất toàn bộ quang cảnh bên dưới tán rừng.
+Vừa bay trên trời, Set vừa lắc đầu sang hai bên. Rei nhìn xuống cũng chỉ thấy cả một biển cây cối che khuất hết bên dưới.
 
-"Nếu có thể tập kích từ trên trời xuống thì nhanh gọn hơn rồi... nhưng tình hình này thì đành chịu. Set, đáp xuống đất đi."
+"Đánh úp được từ trên không thì gọn nhất rồi... cơ mà kiểu này đành chịu vậy. Set, hạ cánh xuống đất đi."
 
 "Grrr!"
 
-Nghe tiếng Rei, Set khẽ kêu một tiếng rồi khéo léo dùng đôi cánh điều chỉnh lực cản, đáp xuống mặt đất nhẹ nhàng và uyển chuyển đến khó tin, đúng là không hổ danh một Griffin sở hữu nửa thân dưới của loài sư tử.
+Đáp lại tiếng Rei bằng một tiếng kêu ngắn, Set khéo léo dùng cánh điều chỉnh rồi hạ xuống đất nhẹ tênh, đúng chuẩn dáng vẻ oai phong của một con Griffin mang nửa thân dưới sư tử.
 
-Gần điểm đáp dường như có vài lữ khách, mạo hiểm giả hoặc thương nhân gì đó, nhưng vừa thấy Set sà xuống là họ đã vắt chân lên cổ chạy thục mạng về phía thành phố Gilm.
+Gần chỗ đáp hình như có vài người, chẳng biết là khách bộ hành, mạo hiểm giả hay thương nhân, nhưng vừa thấy Set hạ xuống là họ co giò chạy thục mạng về phía thành phố Gilm.
 
-(...Chắc lát nữa tới cổng thành họ lại hô hoán lên là vừa thấy Griffin, rồi bị Ranga giữ lại giải thích đầu đuôi cho xem.)
+(...Chắc tới cổng thành thế nào họ cũng la lên là thấy Griffin, rồi lại bị Ranga giữ lại hỏi han cho xem.)
 
-Cười khổ vì lỡ làm tăng thêm việc cho Ranga, Rei lập tức lấy lại tập trung để thăm dò động tĩnh trong rừng.
+Cười trừ vì lại làm tăng thêm việc cho Ranga, Rei nhanh chóng chuyển sự chú ý sang dò xét tình hình trong rừng.
 
-"Đứng ở đây thì chẳng nắm được gì. Set, chúng ta vào sâu trong rừng xem sao."
+"Đứng ngoài này thì chịu rồi. Set, tụi mình vào trong rừng xem sao."
 
 "Gùuu."
 
-Set cất tiếng kêu đồng thuận rồi cùng cậu tiến thẳng vào trong rừng.
+Set kêu một tiếng đồng ý rồi cứ thế đi thẳng vào rừng.
 
-Vốn dĩ những nơi chật hẹp như trong rừng là địa hình chiến đấu bất lợi cho cả Rei lẫn Set. Nhưng lần này đối thủ chỉ là Goblin nên Rei nghĩ không cần phải quá mức căng thẳng, cứ thế dấn sâu hơn vào rừng.
+Đánh nhau ở chỗ chật hẹp như trong rừng vốn là điểm yếu của cả Rei lẫn Set. Nhưng lần này đối thủ chỉ là Goblin, thấy không cần phải căng thẳng quá mức nên cả hai cứ thế đi sâu vào trong.
 
-Đi sâu vào trong rừng được khoảng một tiếng đồng hồ, Set vốn đang đi trước Rei bỗng nhiên khựng lại.
+Vào rừng được khoảng một tiếng thì Set đang đi phía trước Rei bỗng dưng khựng lại.
 
 "Gừưưư."
 
-Nó đảo mắt nhìn quanh như đang cảnh giác thứ gì đó. Dù chỉ là khu rừng ven đường lớn nhưng khi đã tiến sâu tới mức này, những thân cây cổ thụ to lớn mọc san sát với cành lá che khuất ánh mặt trời khiến không gian xung quanh trở nên âm u dẫu trời vẫn còn sáng tỏ. Thêm vào đó, nhờ có Áo Choàng Rồng nên Rei không cảm nhận thấy, chứ nhiệt độ bên ngoài khá oi bức, mạo hiểm giả bình thường hẳn sẽ mệt mỏi rã rời vì cái nóng và mồ hôi nhễ nhại.
+Nó đảo mắt nhìn quanh như đang cảnh giác. Tuy gọi là rừng ven đường cái nhưng vào sâu tới đây cây cối cũng to hẳn, tán lá che rợp ánh nắng nên mới ban ngày mà xung quanh đã tối mờ. Đã vậy, nhờ Áo Choàng Rồng nên Rei không thấy gì, chứ trời xung quanh nóng hầm hập, mạo hiểm giả bình thường hẳn đã vã mồ hôi mà xuống sức rồi.
 
 "Grrr!"
 
-Giữa bầu không khí ngột ngạt ấy, Set khẽ gầm lên một tiếng rồi kích hoạt Thủy Cầu, bắn thẳng về phía lùm cây rậm rạp đầy cỏ dại.
+Ngay lúc đó, Set kêu ngắn một tiếng rồi tung Thủy Cầu, bắn thẳng vào bụi cây rậm rạp gần đó.
 
-Và rồi ở khoảnh khắc tiếp theo.
+Ngay giây tiếp theo.
 
 "Gié!"
 
-Một tiếng thét chói tai khó nghe vang lên từ trong lùm cây, và gần hai mươi con Goblin lũ lượt lộ diện.
+Một tiếng kêu chói tai vang lên từ trong bụi cây, rồi gần hai mươi con Goblin kéo nhau lộ diện.
