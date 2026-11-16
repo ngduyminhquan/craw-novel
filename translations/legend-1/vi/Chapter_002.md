@@ -1,155 +1,155 @@
 # Chương 2: Đột kích bộ lạc Orc (2)
 
-Ngôi nhà ấy nằm sâu trong một cánh rừng rậm rạp. Dù xung quanh toàn là những đại thụ cao ngút như chọc thủng trời xanh, chẳng hiểu sao ánh nắng dịu nhẹ vẫn rọi xuống nơi này. Bên trong hoàn toàn không một bóng người, cũng chẳng có lấy chút hơi ấm của sinh vật sống. Thế nhưng lạ lùng thay, sàn nhà lại không hề vương một hạt bụi, được giữ gìn sạch sẽ tinh tươm.
+Ngôi nhà đó nằm sâu trong một khu rừng rậm. Dù xung quanh toàn cây to cao vút, chẳng hiểu sao ánh nắng dịu nhẹ vẫn chiếu xuống được tới đây. Bên trong không một bóng người, cũng chẳng có dấu hiệu của bất kỳ sinh vật sống nào. Nhưng lạ cái là sàn nhà lại không dính một hạt bụi, sạch bong như mới.
 
-Và rồi, tại một căn phòng trong ngôi nhà ấy, Reiji... không, người từng được gọi là Saeki Reiji bừng tỉnh.
+Trong một căn phòng của ngôi nhà đó, Reiji... không, người từng được gọi là Saeki Reiji tỉnh dậy.
 
-"... Rốt cuộc đây là đâu?"
+"...Đây là đâu thế?"
 
-Vừa đảo mắt nhìn quanh vừa đặt tay lên trán trầm ngâm vài giây, cậu liền gật đầu như thể đã hiểu ra chuyện gì.
+Cậu đảo mắt nhìn quanh, đưa tay lên trán nghĩ ngợi vài giây rồi gật gù như đã hiểu ra chuyện gì đó.
 
-"Ra vậy, mình đã dung hợp với quả cầu sáng đó... À, hiểu rồi. Đúng là dung hợp thật. Tri thức thì có đủ, mà ý thức chắc chắn vẫn là của mình, không sai vào đâu được."
+"Ra vậy, mình đã dung hợp với quả cầu sáng đó... À, hiểu rồi. Đúng là dung hợp thật. Kiến thức có đủ cả, mà ý thức vẫn là của mình không sai đi đâu được."
 
-Reiji nhìn quanh một lượt mới nhận ra mình đang nằm trên một chiếc giường. Dưới sàn nhà có vẽ một ma pháp trận, cậu đoán chừng nó dùng để duy trì loại ma thuật nào đó lên thể xác mà mình vừa nằm ngủ say. Cậu mặc bộ quần áo để sẵn ở đầu giường rồi bước xuống.
+Nhìn quanh một lượt, Reiji mới nhận ra nãy giờ mình đang nằm trên giường. Dưới sàn có vẽ một ma pháp trận, chắc dùng để giữ loại ma thuật nào đó lên cơ thể này trong lúc cậu ngủ. Cậu mặc bộ quần áo để sẵn ở đầu giường rồi bước xuống.
 
-"Mà nói mới nhớ, thân xác mới này của mình trông như thế nào nhỉ?"
+"Mà nhắc mới nhớ, cơ thể mới của mình trông như thế nào nhỉ?"
 
-Quả cầu sáng ấy, theo tri thức tiếp nhận thì tên là Zepairu Zondo; cậu bèn lại gần thùng nước do Zepairu chuẩn bị sẵn để soi khuôn mặt mình.
+Theo kiến thức có được, quả cầu sáng đó tên là Zepairu Zondo. Cậu lại gần thùng nước mà Zepairu chuẩn bị sẵn, cúi xuống soi mặt.
 
-Hình ảnh phản chiếu trên mặt nước là khuôn mặt của một thiếu niên với mái tóc đỏ rực. Đường nét gương mặt thanh tú, ưa nhìn. Đôi mắt màu xanh lam tương phản rõ rệt với mái tóc đỏ thắm, để lại ấn tượng mạnh mẽ cho người đối diện. Cậu cao tầm 165cm, vẻ ngoài trạc 15 tuổi. So với tuổi 17 lúc còn sống, tính ra Reiji đã trẻ lại khoảng hai tuổi.
+Trong mặt nước hiện lên khuôn mặt một thiếu niên tóc đỏ rực. Đường nét cân đối, nói là đẹp trai cũng không quá lời. Đôi mắt xanh lam nổi bật hẳn lên cạnh mái tóc đỏ, nhìn rất ấn tượng. Cậu cao tầm 165cm, trông cỡ 15 tuổi. So với tuổi 17 hồi còn sống, tính ra Reiji trẻ lại khoảng hai tuổi.
 
-"Có điều, theo tri thức nhận từ Zepairu thì cơ thể này cũng thuộc dạng dị thường ra phết."
+"Có điều, theo kiến thức từ Zepairu thì cơ thể này cũng thuộc hàng khủng ra phết."
 
-Theo tri thức Reiji tiếp nhận từ Zepairu, thể xác này được tạo ra... không, phải là sáng tạo nên từ sự kết tinh ma lực cùng đỉnh cao kỹ thuật của Zepairu và toàn thể môn phái. Vì môn phái từng lụi tàn dần theo năm tháng do tuổi già, nên cơ thể này đã được yểm thuật bất lão. Dĩ nhiên, điều kiện tiên quyết là người sở hữu phải có lượng ma lực vượt trên một mức nhất định.
+Theo kiến thức Zepairu truyền lại, cơ thể này được ông và cả môn phái dồn hết ma lực lẫn kỹ thuật tinh túy nhất để làm... không, phải gọi là tạo ra mới đúng. Vì trước đây môn phái mất dần người do tuổi già, nên cơ thể này đã được xử lý để bất lão. Tất nhiên, điều kiện đi kèm là phải có lượng ma lực từ một mức nhất định trở lên.
 
-Điểm mấu chốt là bất lão chứ không hề bất tử. Dù các ma thuật sư hàng đầu thế giới tề tựu đông đủ, dường như họ vẫn chưa thể chạm tới giấc mơ bất lão bất tử của nhân loại. Dẫu vậy, để bù lại, thể xác này sở hữu khả năng hồi phục đáng kinh ngạc, còn năng lực thể chất cũng được tạo tác ở mức cực kỳ vượt trội.
+Điểm quan trọng là bất lão chứ không phải bất tử. Đúng là dù quy tụ toàn ma thuật sư hàng đầu thế giới, họ vẫn chưa chạm tới được giấc mơ bất lão bất tử của loài người. Bù lại, cơ thể này có tốc độ hồi phục cực kỳ đáng kinh ngạc, còn thể chất cũng được làm ra ở mức rất cao.
 
-"Thôi thì, tạm thời cứ thế đã."
+"À, đại khái là thế nhỉ."
 
-Sau khi lục tìm thông tin về cơ thể từ tri thức và nắm bắt được đại khái, cậu rót nước từ chiếc bình trên bàn vào chiếc cốc gỗ rồi uống cạn một hơi.
+Nắm được đại khái thông số cơ thể qua mớ kiến thức đó xong, cậu cầm bình nước trên bàn rót vào chiếc cốc gỗ rồi uống cạn một hơi.
 
-Vừa để dòng nước làm dịu cổ họng, cậu chợt nhận ra một điều.
+Uống xong ngụm nước cho đỡ khát, cậu chợt nhận ra một chuyện.
 
 "Nói mới nhớ, chỗ nước này cũng có từ mấy trăm năm trước rồi còn gì."
 
-Vừa lẩm bẩm, cậu vừa rót thêm nước vào chiếc cốc rỗng rồi chăm chú nhìn. Nếu lời Zepairu là đúng, thì việc ông ta hóa thành quả cầu sáng rồi lui về thế giới tinh thần nơi khe nứt giữa các thế giới để tìm người kế thừa Ma Thú Thuật đã diễn ra từ mấy trăm năm trước. Đương nhiên thể xác này, cùng nước, giường và quần áo hẳn cũng được chuẩn bị từ trước khi Zepairu biến thành quả cầu sáng. Nhìn mọi thứ vẫn giữ được trạng thái tươi mới đến mức này, Reiji càng thấm thía uy danh của một môn phái quy tụ những ma thuật sư kiệt xuất hàng đầu thế giới.
+Nói rồi, cậu rót thêm nước vào chiếc cốc rỗng, nhìn chằm chằm. Nếu lời Zepairu là thật, thì ông đã hóa thành quả cầu sáng và ở ẩn trong thế giới tinh thần nơi khe nứt giữa các thế giới từ mấy trăm năm trước để tìm người kế thừa Ma Thú Thuật. Vậy nên cơ thể này, lẫn nước, giường hay quần áo đều phải được chuẩn bị từ trước lúc đó. Thấy mọi thứ vẫn mới nguyên như thế, Reiji cũng dễ dàng tin được chuyện môn phái này quy tụ toàn ma thuật sư hàng đầu thế giới.
 
-Thứ nước này thanh mát tới mức nếu bảo vừa múc từ dòng suối trong núi sâu lên thì cậu cũng tin ngay. Từng sống ở thị trấn miền quê vùng Tohoku, Reiji vốn đã quen uống nước ngọt lành, thế nhưng so với chỗ này thì đúng là một trời một vực; trước vị ngon lạ lùng của dòng nước, cậu uống liền thêm vài cốc nữa mới thấy thỏa mãn.
+Nước tươi mát tới mức có bảo vừa múc từ suối trên núi sâu về cậu cũng tin sái cổ. Từng sống ở một thị trấn quê vùng Tohoku, Reiji vốn quen uống nước ngon rồi, vậy mà so với thứ nước này vẫn khác một trời một vực. Ngon quá nên cậu làm liền thêm mấy cốc nữa mới dừng.
 
 "Tạm thời cứ đi ngó quanh ngôi nhà này đã."
 
-Nhờ tri thức từ Zepairu, cậu đại khái biết thứ gì nằm ở đâu, nhưng đó rốt cuộc cũng chỉ là mảng ký ức được truyền lại. Cậu vẫn cần phải đích thân nhìn tận mắt mới yên tâm.
+Nhờ kiến thức từ Zepairu, cậu biết đại khái chỗ nào có thứ gì, nhưng đó dù sao cũng chỉ là kiến thức được truyền lại. Vẫn cần tự mình đi xem tận mắt cho chắc.
 
 Trong phòng ngủ chỉ có chiếc giường Reiji vừa nằm, một chiếc bàn, ghế, bình nước và cốc.
 
 "Hửm? Đây là..."
 
-Đảo mắt nhìn quanh phòng, Reiji dừng lại trước một bức tranh treo trên tường phòng ngủ. Bức tranh họa lại mười hai con người, đủ cả già trẻ gái trai.
+Nhìn quanh phòng, mắt Reiji dừng lại ở bức tranh treo trên tường phòng ngủ. Trong tranh vẽ mười hai người, đủ cả già trẻ gái trai.
 
-Địa Thuật, Thủy Thuật, Phong Thuật, Quang Thuật, Ám Thuật, Thời Không Ma Thuật, Không Gian Ma Thuật, Triệu Hồi Ma Thuật, Giả Kim Thuật, Số Thuật, Cổ Đại Ma Thuật. Cùng người dẫn dắt họ là Zepairu, bậc thầy Hỏa Thuật; tổng cộng mười hai con người. Tri thức của Zepairu trong lòng Reiji mách bảo rằng những ma thuật sư vẽ trong tranh chính là môn phái từng được người đời ca tụng là đủ sức san phẳng một quốc gia chỉ trong vài giờ.
+Địa Thuật, Thủy Thuật, Phong Thuật, Quang Thuật, Ám Thuật, Thời Không Ma Thuật, Không Gian Ma Thuật, Triệu Hồi Ma Thuật, Giả Kim Thuật, Số Thuật, Cổ Đại Ma Thuật, cùng người đứng đầu là Zepairu dùng Hỏa Thuật, tổng cộng mười hai người. Kiến thức của Zepairu cho Reiji biết những ma thuật sư trong bức tranh này chính là môn phái từng được đồn là đủ sức hủy diệt một quốc gia chỉ trong vài giờ.
 
-Thế nhưng, Reiji dán mắt vào bức tranh không chỉ vì bấy nhiêu. Điều khiến cậu chú ý là trang phục của một nhân vật điều khiển Số Thuật. Dù nhìn góc nào, đó cũng là bộ đồng phục màu đen của học sinh cấp hai hay cấp ba Nhật Bản, chưa kể người đó cũng mang mái tóc đen cùng đôi mắt đen đặc trưng của người Nhật. Cậu lục tìm thông tin về người ấy từ tri thức Zepairu để lại.
+Nhưng lý do khiến Reiji chú ý đến bức tranh không chỉ có thế. Thứ làm cậu để mắt là bộ đồ của người dùng Số Thuật trong tranh. Nhìn kiểu gì cũng là đồng phục học sinh cấp hai, cấp ba màu đen của Nhật Bản, lại còn tóc đen mắt đen đúng chuẩn người Nhật. Cậu lục lại kiến thức từ Zepairu để xem người này là ai.
 
-"Suzunose Takumu. Là Số Thuật Sư sao? Người này nghĩ thế nào cũng thấy là đồng hương của mình rồi."
+"Suzunose Takumu. Số Thuật Sư à... Nghĩ kiểu gì cũng là đồng hương với mình rồi."
 
-Theo tri thức của Zepairu, nhân vật Suzunose Takumu vốn mang đặc tính bất lão. Và cơ thể hiện tại của Reiji chính là sản phẩm được sáng tạo nên nhờ tiếp thu các đặc điểm thể chất của Suzunose Takumu rồi cải tiến thêm.
+Theo kiến thức từ Zepairu, người tên Suzunose Takumu này có đặc tính bất lão. Cơ thể hiện tại của Reiji cũng được tạo ra bằng cách lấy đặc điểm thể chất của Suzunose Takumu rồi cải tiến thêm.
 
-"Nếu thế thì ngoài Suzunose Takumu và mình ra, thế giới này còn có những người Nhật khác từng đặt chân tới... sao?"
+"Vậy thì ngoài Suzunose Takumu với mình ra, biết đâu ở thế giới này còn có người Nhật khác tới nữa... không chừng?"
 
-Trầm ngâm vài giây, cậu lập tức lắc đầu gạt phăng ý nghĩ ấy đi.
+Cậu nghĩ ngợi vài giây rồi lắc đầu gạt phăng suy nghĩ đó đi.
 
-Dẫu có người Nhật khác tới thế giới này đi chăng nữa, bản thân cậu hiện tại dẫu ý thức vẫn thế nhưng thể xác đâu còn là người Nhật, có bận tâm cũng chẳng giải quyết được gì. Họa chăng nếu gặp thì cũng chỉ có thể ngồi hàn huyên đôi câu cho đỡ nhớ nhà.
+Vả lại, dù có người Nhật khác ở thế giới này đi nữa, giờ ý thức vẫn là mình nhưng cơ thể cậu đâu còn là người Nhật, nghĩ nhiều cũng chẳng làm được gì. Có gặp thì cùng lắm cũng chỉ ngồi tán gẫu ôn lại chuyện cũ cho đỡ nhớ thôi.
 
-"Mà quan trọng hơn, nếu bất lão thì cớ sao anh ta lại chết?"
+"Mà khoan, nếu bất lão thì sao anh ta lại chết được?"
 
-Lấy làm thắc mắc, cậu lại lục tìm tri thức thêm một lần nữa.
+Thấy lạ, cậu lại lục tìm trong đống kiến thức.
 
-Theo đó, dường như anh ta đã bị cuốn vào vòng xoáy tranh giành quyền lực của một đại quốc rồi trúng độc. Sau đó tuy tìm cách trốn về được chỗ nhóm Zepairu, nhưng rốt cuộc việc giải độc không kịp nên đã trút hơi thở cuối cùng...
+Theo đó, hình như anh ta bị cuốn vào cuộc tranh giành quyền lực ở một nước lớn rồi bị đầu độc. Sau đó tuy cố chạy về được chỗ nhóm Zepairu, nhưng giải độc không kịp nên mất luôn...
 
-"Thì thế giới này cũng có quý tộc như bình thường mà. Bị cuốn vào mấy chuyện tranh quyền đoạt lợi thì chịu cảnh đó cũng không lạ."
+"Thì thế giới này cũng có quý tộc các kiểu mà. Dính vào mấy vụ tranh giành quyền lực đó thì đúng là khó tránh."
 
-Tiện thể, Số Thuật mà Suzunose Takumu thi triển là loại ma thuật do chính anh ta sáng tạo ra, ngoài anh ta dường như chẳng ai sử dụng được. Hiệu quả của nó là số hóa đối tượng, và nghe đâu đây không phải thứ ma thuật thích hợp cho chiến đấu.
+Nói thêm là Số Thuật mà Suzunose Takumu dùng là ma thuật do chính anh ta tự nghĩ ra, ngoài anh ta hình như chẳng ai dùng được. Công dụng của nó là chuyển mọi thứ thành số liệu, nghe đâu không hợp để đánh đấm lắm.
 
-"Ra vậy. Là dạng ma thuật liên quan tới Giám Định hay Phân Tích thường thấy trong game sao?"
+"À, hiểu rồi. Kiểu ma thuật giống Giám Định hay Phân Tích hay có trong game chứ gì."
 
-Ở thế giới này đó dường như là loại ma thuật hoàn toàn xa lạ, nhưng với một người mê văn hóa giải trí như Reiji thì đây lại là năng lực cậu có thể phần nào mường tượng ra được.
+Ở thế giới này đó là loại ma thuật hoàn toàn chưa từng ai thấy, nhưng với một đứa mê văn hóa giải trí như Reiji thì cậu cũng hình dung ra được đại khái.
 
-"Được rồi, căn phòng này tạm thời thế là xong. Tiếp theo là phòng nghiên cứu."
+"Rồi, phòng này tạm thế đã. Tiếp theo sang phòng nghiên cứu xem sao."
 
-Cậu bước chân trần trên sàn, mở cánh cửa căn phòng ngủ. Có lẽ bản thân dinh thự được duy trì bằng ma thuật nào đó, nên sàn nhà chẳng những không có vết bẩn mà một hạt bụi cũng chẳng vương.
+Cậu bước chân trần lộp bộp trên sàn, mở cửa căn phòng có vẻ là phòng ngủ này ra. Chắc cả căn nhà được duy trì bằng ma thuật gì đó nên sàn chẳng những không có vết bẩn mà bụi cũng chẳng thấy một hạt.
 
-"Cái này là... dùng Thời Không Ma Thuật để đóng băng thời gian của dinh thự này sao?"
+"Cái này... là dùng Thời Không Ma Thuật để dừng thời gian của cả căn nhà lại à?"
 
-Vừa đối chiếu tri thức của Zepairu, cậu vừa bước dọc hành lang. Vốn dĩ dinh thự này là cứ điểm Zepairu dùng để tìm người kế thừa Ma Thú Thuật sau khi trở thành kẻ sống sót cuối cùng của môn phái, quy mô xây dựng khá nhỏ. Vì thế, chỉ mất chừng vài phút từ phòng ngủ là cậu đã tới được phòng nghiên cứu.
+Vừa kiểm tra lại kiến thức của Zepairu, cậu vừa đi dọc hành lang. Vốn dĩ căn nhà này chỉ là chỗ Zepairu dùng để tìm người kế thừa Ma Thú Thuật sau khi thành người sống sót cuối cùng của môn phái, nên xây cũng khá nhỏ. Bởi vậy, đi từ phòng ngủ sang phòng nghiên cứu chỉ mất có vài phút.
 
-Trên cửa phòng nghiên cứu có treo một tấm biển đề dòng chữ: "Kẻ mở cánh cửa này, nếu không có tư cách Ma Thú Thuật sẽ phải chuốc lấy lời nguyền."
+Trên cửa phòng nghiên cứu có treo một tấm biển đề dòng chữ: "Kẻ mở cánh cửa này, nếu không có tư cách Ma Thú Thuật thì lời nguyền sẽ giáng xuống."
 
-"... Ít nhất thì cũng sáng tỏ một điều là nhờ dung hợp mà mình đọc được chữ viết của thế giới này."
+"...Ít nhất cũng biết được là nhờ dung hợp nên mình đọc được chữ thế giới này."
 
 Cậu nhìn dòng chữ trên tấm biển rồi lẩm bẩm.
 
-Theo tri thức của Zepairu, nếu kẻ không đủ lượng ma lực để gánh vác Ma Thú Thuật mà dám mở cửa, một ngọn nghiệp hỏa đủ sức thiêu rụi tất cả trong chớp mắt sẽ lập tức ập tới.
+Theo kiến thức của Zepairu, hễ ai không đủ ma lực để kế thừa Ma Thú Thuật mà cố mở cánh cửa này, một ngọn lửa dữ đủ sức thiêu rụi trong tích tắc sẽ ập tới ngay.
 
-"Hệ thống an ninh gì mà gay gắt dữ vậy."
+"Hệ thống bảo mật gì mà gắt thế không biết."
 
-Tuy nói đùa một câu, Reiji vẫn thận trọng vươn tay về phía nắm đấm cửa. Dù đã được đích thân Zepairu chứng nhận tư cách kế thừa Ma Thú Thuật, nhưng nghĩ tới rủi ro muôn một thì cẩn tắc vô ưu vẫn hơn.
+Miệng nói đùa thế thôi chứ tay Reiji vẫn rón rén đưa về phía nắm cửa. Dù đã được đích thân Zepairu công nhận là người kế thừa Ma Thú Thuật rồi, nhưng nghĩ tới lỡ đâu có chuyện gì thì cẩn thận vẫn hơn.
 
-Thế nhưng, bàn tay vươn ra chạm vào nắm đấm cửa không chút trở ngại, và cánh cửa mở ra dễ dàng đến mức chính cậu cũng phải ngỡ ngàng.
+Nhưng tay cậu vừa chạm vào nắm cửa đã mở ra cái rụp, dễ đến mức chính cậu cũng ngẩn người.
 
-"... Phù."
+"...Phù."
 
-Thở phào nhẹ nhõm, cậu bước chân vào bên trong phòng nghiên cứu.
+Cậu thở phào một hơi rồi bước vào phòng nghiên cứu.
 
-Bên trong phòng nghiên cứu rộng rãi hơn nhiều so với phòng ngủ. Theo ước tính của Reiji thì căn phòng này rộng chừng ba mươi chiếu tatami. Một nửa diện tích phía trong được vẽ một ma pháp trận khổng lồ. Nửa còn lại gần lối vào, nơi vốn dĩ lẽ ra chứa đầy dụng cụ làm thí nghiệm và sách vở tài liệu, giờ đây lại trống trơn không còn lấy một món đồ. Dẫu vậy, trên chiếc bàn đặt gần ma pháp trận lại có duy nhất một chiếc hộp tinh xảo trông tựa hộp đựng trang sức.
+Phòng nghiên cứu rộng hơn phòng ngủ nhiều. Theo ước chừng của Reiji thì phải cỡ ba mươi chiếu tatami. Nửa phòng phía trong có vẽ một ma pháp trận khổng lồ. Nửa gần cửa vốn dĩ chắc từng để đủ loại dụng cụ thí nghiệm với sách tham khảo, nhưng giờ trống huơ trống hoác, chẳng còn lấy một món. Có điều, không hẳn là để bù vào chỗ trống đó, trên chiếc bàn gần ma pháp trận lại đặt lẻ loi một cái hộp trông như hộp đựng trang sức chạm trổ tinh xảo.
 
-"Nào, hộp trang sức tinh xảo cỡ này thì đồ bên trong cũng đáng để kỳ vọng đây."
+"Chà, hộp trang sức xịn thế này thì đồ bên trong cũng đáng mong chờ đấy."
 
-Khẽ lẩm bẩm, cậu tiến lại gần hộp trang sức rồi mở nắp ra.
+Cậu lẩm bẩm rồi bước lại gần, mở nắp hộp ra.
 
-"Đây là... vòng tay sao?"
+"Cái này là... vòng tay à?"
 
-Cậu lấy món đồ bên trong hộp ra. Đó là một chiếc vòng có đường kính chừng mười phân, công dụng chắc chắn là vòng đeo tay không sai vào đâu được.
+Cậu lấy món đồ bên trong hộp ra. Đó là một chiếc vòng đường kính tầm 10cm, nhìn công dụng thì chắc chắn là vòng đeo tay rồi.
 
-Cậu ngắm nghía chiếc vòng trên tay với vẻ tò mò. Thoạt nhìn thì đây đúng là một chiếc vòng tay đẹp đẽ, nhưng nếu xét giá trị tiền tài thì chiếc hộp đựng với những hoa văn chạm trổ tinh xảo nạm đầy ngọc ngà dường như còn đắt giá hơn nhiều.
+Cậu cầm chiếc vòng trên tay ngắm nghía với vẻ thắc mắc. Thoạt nhìn thì đúng là một chiếc vòng tay đẹp đấy, nhưng xét về giá trị tiền bạc thì cái hộp bên ngoài chạm trổ cầu kỳ lại còn nạm đá quý trông có vẻ đắt tiền hơn hẳn.
 
-Một cảm giác kỳ lạ thoáng gợn lên trong đầu cậu. Cất một chiếc vòng tay không mấy đắt giá vào trong chiếc hộp ngọc quý giá ngút trời, nghĩ bình thường thì đời nào có chuyện đó. Tức là chiếc vòng này ắt phải có điểm đặc biệt. Đoán vậy, Reiji liền tra cứu tri thức của Zepairu và vỡ lẽ ra mọi chuyện.
+Có gì đó sai sai. Trong đầu cậu thoáng lên cảm giác đó. Bỏ một chiếc vòng tay trông chẳng đáng giá mấy vào trong cái hộp đựng trang sức đắt tiền, nghĩ bình thường thì làm gì có chuyện đó. Nghĩa là chiếc vòng này chắc chắn có vấn đề. Đoán vậy, Reiji liền lục lại kiến thức của Zepairu và hiểu ra ngay.
 
-"Ra vậy, món này quả thực còn giá trị hơn vạn lượng ngọc ngà châu báu."
+"Ra vậy, đúng là thứ này còn giá trị hơn cả đống đá quý bạc tỷ thật."
 
-Theo tri thức từ Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Hơn nữa, nó chính là tuyệt tác kết tinh kỹ thuật đỉnh cao do hai người xuất chúng nhất thế giới trong môn phái của Zepairu là Không Gian Ma Thuật Sư Lizzie Flow và Giả Kim Thuật Sư Esta Noor chủ trì chế tác, với sự trợ giúp của Số Thuật Sư Takumu; toàn bộ những Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu từng nhắc tới đều nằm gọn bên trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Rõ ràng là vòng tay sao lại gọi là nhẫn nhỉ? Cậu thoáng thắc mắc, nhưng có lẽ đó chỉ là sở thích của người tạo ra món Đạo Cụ Ma Thuật này mà thôi.
+Theo kiến thức của Zepairu, chiếc vòng tay này là một dạng Kho Lưu Trữ Vật Phẩm. Không chỉ vậy, nó còn do hai người được mệnh danh là Không Gian Ma Thuật Sư và Giả Kim Thuật Sư giỏi nhất thế giới trong môn phái Zepairu là Lizzie Flow với Esta Noor làm chính, thêm Số Thuật Sư Takumu hỗ trợ, dồn hết tinh hoa kỹ thuật để tạo ra. Toàn bộ Đạo Cụ Ma Thuật và nguyên liệu quý hiếm mà môn phái gom góp bấy lâu như Zepairu nói đều nằm hết trong chiếc vòng này. Tên của nó là Nhẫn Sương Mù. ...Vòng tay mà lại đặt tên là nhẫn à? Cậu cũng hơi thắc mắc, nhưng chắc tại sở thích của người làm ra món Đạo Cụ Ma Thuật này thôi.
 
-Reiji nhếch mép cười, tạm thời đặt Nhẫn Sương Mù lại vào trong hộp trang sức rồi rảo bước về phía ma pháp trận ở tận cùng căn phòng.
+Reiji cười nhếch mép, cất tạm Nhẫn Sương Mù vào lại hộp trang sức rồi đi về phía ma pháp trận ở cuối phòng.
 
-"Đây là ma pháp trận dùng cho Ma Thú Thuật sao."
+"Đây là ma pháp trận của Ma Thú Thuật à."
 
-Ma Thú Thuật. Reiji đã sớm nắm rõ loại ma thuật này là gì thông qua tri thức mà Zepairu truyền lại.
+Ma Thú Thuật. Reiji đã nắm rõ loại ma thuật này là gì qua kiến thức từ Zepairu.
 
-Khi đứng giữa tâm ma pháp trận niệm chú, trận pháp sẽ hút ma lực từ người thi thuật, và lượng ma lực ấy sẽ được dùng để tạo ra một ma thú. Ma thú sinh ra chịu ảnh hưởng tổng hòa từ nhiều yếu tố như ma lực, nội tâm, tính cách, tầng sâu tâm lý cho tới sở thích của người thi triển, nên không thể tùy ý lựa chọn theo ý muốn.
+Chỉ cần đứng giữa ma pháp trận đọc chú, trận pháp sẽ hút ma lực từ người thi triển rồi dùng lượng ma lực đó tạo ra một ma thú. Ma thú sinh ra sẽ phụ thuộc vào đủ thứ yếu tố như ma lực, nội tâm, tính cách, tiềm thức cho tới sở thích của người dùng, nên không thể tự chọn theo ý mình được.
 
-Nếu chỉ dừng lại ở đó thì chưa thể coi đây là tuyệt kỹ tối thượng của môn phái Zepairu. Điểm mấu chốt là ma thú được tạo ra từ Ma Thú Thuật lại mang trong mình một đặc tính phi thường: nhờ nuốt Ma Thạch từ cơ thể quái vật, ma thú sẽ tiến hóa để ngày càng mạnh mẽ hơn, hùng cường hơn và nhanh nhẹn hơn. Sự tiến hóa ấy muôn hình vạn trạng tùy theo loại Ma Thạch hấp thụ, thực sự mở ra những tiềm năng vô hạn. Về đích đến của quá trình tiến hóa, tức ma thú có thể đạt tới ngưỡng sức mạnh nào, về mặt lý thuyết là vô hạn định, dẫu vậy từ trước đến nay chưa từng có ai nuôi dưỡng ma thú tới đỉnh cao đó.
+Nếu chỉ có thế thì vẫn chưa đáng gọi là bí kỹ của môn phái Zepairu. Điểm đặc biệt là ma thú do Ma Thú Thuật tạo ra có một khả năng riêng: khi nuốt Ma Thạch trong người quái vật, nó sẽ tiến hóa ngày càng mạnh hơn, to lớn hơn và nhanh hơn. Tùy vào loại Ma Thạch nuốt vào mà hướng tiến hóa cũng khác nhau muôn hình vạn trạng, đúng nghĩa sở hữu tiềm năng vô hạn. Còn giới hạn tiến hóa của ma thú mạnh đến đâu thì trên lý thuyết là không có điểm dừng, nhưng tất nhiên chưa từng có ai nuôi được ma thú lên tới mức đó.
 
-Nói cách khác, Ma Thú Thuật chính là thứ ma thuật sẽ cùng trưởng thành bên cạnh chủ nhân của nó.
+Nói cách khác, Ma Thú Thuật là loại ma thuật sẽ lớn lên cùng với chính người sử dụng.
 
-Hơn nữa, lượng ma lực mà ma pháp trận đòi hỏi là vô cùng khủng khiếp; ma thuật sư tầm thường chẳng những cạn kiệt ma lực mà ngay cả sinh lực cùng tính mạng cũng bị vắt kiệt, lại thêm việc lẫn tạp chất nên ma thú không thể thành hình, khiến nghi thức nắm chắc phần thất bại.
+Ngoài ra, vì ma pháp trận hút lượng ma lực cực lớn nên ma thuật sư bình thường không chỉ bị rút sạch ma lực mà cả sinh lực lẫn mạng sống cũng bị hút theo. Cộng thêm việc bị lẫn tạp chất nên ma thú không thành hình được, nghi thức coi như thất bại.
 
-Một lần nữa điểm lại tri thức về Ma Thú Thuật trong đầu, cậu hít sâu một hơi rồi bước lên ma pháp trận.
+Xem lại kiến thức về Ma Thú Thuật một lần nữa, cậu hít một hơi thật sâu rồi bước lên ma pháp trận.
 
-"Vừa có giao ước với Zepairu, mà hơn hết bản thân mình cũng vô cùng hứng thú với cái gọi là Ma Thú Thuật này. Đã vậy thì chẳng có lý do gì để không thử ngay tại đây. ...Cơ mà, trước giờ mình nhớ mình là đứa thận trọng hơn thế này kia mà... Đây cũng là do ảnh hưởng của việc dung hợp sao?"
+"Vừa có giao kèo với Zepairu, mà hơn hết bản thân mình cũng tò mò với cái Ma Thú Thuật này lắm rồi. Vậy thì tội gì không thử ngay lúc này. ...Cơ mà trước giờ mình nhớ mình cẩn thận hơn thế này nhiều mà nhỉ... Chuyện này cũng do ảnh hưởng của dung hợp à?"
 
-Sự biến đổi mà Zepairu từng nhắc tới trước khi dung hợp, có lẽ chính là điều này đây. Reiji tự nhủ trong lòng, rồi tập trung cao độ và mở miệng cất lời.
+Thay đổi mà Zepairu nhắc tới trước lúc dung hợp chắc là cái này đây. Reiji nghĩ thầm trong bụng, đoạn tập trung tinh thần rồi mở miệng.
 
-Câu chú kích hoạt ma pháp trận vốn đã nằm trọn vẹn trong mảng tri thức của Zepairu, nên cậu chẳng hề mảy may do dự.
+Câu chú kích hoạt ma pháp trận đã có sẵn trong kiến thức của Zepairu, nên cậu không hề do dự.
 
 "Ta, kẻ dùng ma lực tạo ra ma thú. Kẻ cùng sống với ma thú. Hãy nuốt lấy ma lực của ta, để ma thú đang say ngủ trong ta hiển hiện trên cõi đời này. Cùng ta sống, cùng ta chết. Hãy hiện thân!"
 
-Gửi gắm ma lực vào câu từ để dệt nên âm vang, đó chính là niệm chú. Hành vi vốn dĩ phải mất nhiều năm khổ luyện ấy, Reiji nhờ kế thừa tri thức của Zepairu mà thực hiện chuẩn xác không sai một li. Cậu dồn cả lượng ma lực khổng lồ đến mức ngay cả ma thuật sư đỉnh cao thế giới như Zepairu cũng phải kinh ngạc vào từng lời niệm.
+Đưa ma lực vào lời nói để đọc lên chính là niệm chú. Chuyện vốn cần nhiều năm tập luyện ấy, Reiji nhờ thừa hưởng kiến thức của Zepairu mà làm chuẩn xác không sai một ly. Cậu dồn vào từng câu chữ lượng ma lực khổng lồ đến mức ngay cả ma thuật sư hàng đầu thế giới như Zepairu cũng phải bất ngờ.
 
-Ngay khoảnh khắc tiếp theo, ma pháp trận dưới chân Reiji bắt đầu tỏa sáng, rồi từng chút, từng chút một, luồng sáng ấy bừng lên dữ dội. Trận pháp hút lấy lượng ma lực khổng lồ phóng ra từ Reiji để gia tăng độ sáng. Thế nhưng, dẫu Reiji có sở hữu lượng ma lực dồi dào đến đâu thì nó cũng chẳng phải vô tận. Kể từ khi ma pháp trận phát sáng, năm phút, mười phút rồi hai mươi phút cứ thế trôi qua.
+Ngay giây sau đó, ma pháp trận dưới chân Reiji bắt đầu phát sáng, rồi ánh sáng cứ thế mạnh dần lên. Trận pháp đang hút lượng ma lực khổng lồ từ người Reiji để sáng rực hơn. Nhưng dù Reiji có nhiều ma lực đến mấy thì cũng đâu phải vô hạn. Từ lúc ma pháp trận bắt đầu sáng, 5 phút, 10 phút, rồi 20 phút trôi qua.
 
-"Hự...!"
+"Hự!"
 
-Cuối cùng khi đã chạm tới giới hạn, cậu khuỵu một gối xuống ma pháp trận. Ngay khoảnh khắc sau đó, ma pháp trận vốn đang tỏa ra thứ ánh sáng chói lòa đến mức không còn nhìn thấy gì xung quanh bỗng lóe lên một tia sáng gắt... rồi đột ngột vụt tắt.
+Chẳng mấy chốc cậu chạm tới giới hạn, khuỵu một gối xuống ma pháp trận. Đúng lúc đó, ma pháp trận vốn đang sáng lòa đến mức chẳng nhìn thấy gì xung quanh bỗng lóe lên chói gắt... rồi vụt tắt ngấm.
 
-"Th... thành công... rồi sao?"
+"Th... thành công... rồi à?"
 
-Vì bị ma pháp trận hút kiệt ma lực tới gần như cạn sạch, Reiji đưa mắt nhìn quanh với ý thức nửa mê nửa tỉnh; đập vào mắt cậu là một màu đen bóng bẩy. Đó là một vật tựa như chiếc kén mang sắc đen tuyền. Khoảnh khắc nhìn thấy chiếc kén dần nứt toác... rồi vỡ tan từng mảnh, ý thức của Reiji chìm dần vào màn đêm tăm tối. Điều cuối cùng cậu cảm nhận được trước khi ngất lịm đi là thứ gì đó mềm mại ấm áp, một tiếng "Gừưư" nũng nịu, và tiếng lanh canh của vật gì đó vừa rơi xuống sàn nhà.
+Bị ma pháp trận hút gần cạn ma lực, Reiji đảo mắt nhìn quanh trong cơn nửa mê nửa tỉnh thì thấy một màu đen bóng. Đó là thứ gì đó giống như một cái kén đen tuyền. Ngay lúc cái kén nứt ra... rồi vỡ vụn, ý thức của Reiji cũng chìm vào bóng tối. Trước khi ngất đi, cậu chỉ kịp cảm nhận được thứ gì đó ấm áp bông xù, tiếng "Gừưư" nghe như làm nũng, cùng tiếng lanh canh của vật gì đó rơi xuống sàn.

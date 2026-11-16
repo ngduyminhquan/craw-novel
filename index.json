@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T16:27:54Z",
+  "generatedAt": "2026-11-16T16:31:02Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2164,7 +2164,7 @@
           "number": 2,
           "title": "Chương 2: Đột kích bộ lạc Orc (2)",
           "path": "translations/legend-1/vi/Chapter_002.md",
-          "sha": "1b5f5c5dbe344edc88e97e2c816403a8017146f5"
+          "sha": "97769004a99dddb0230314e84da74d8fbb4bf521"
         },
         {
           "number": 3,
