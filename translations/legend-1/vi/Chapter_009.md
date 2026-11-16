@@ -40,7 +40,7 @@ Nhìn cảnh đó, Rei vừa thầm nể sức mạnh của Set vừa lấy Lư�
 
 "Ai mà ngờ thứ đầu tiên mình chém bằng cây đại hái này lại là củi cơ chứ... Chẳng biết Zepairu mà biết thì nói gì đây."
 
-Cậu cười khổ, vừa truyền ma lực vào Lưỡi Hái Tử Thần vừa vung lưỡi chém liên tiếp một nhát, hai nhát, ba nhát. Cứ mỗi đường chém đi qua, thân cây đổ lại bị cắt nhỏ ra thành từng khúc củi.
+Cậu cười trừ, vừa truyền ma lực vào Lưỡi Hái Tử Thần vừa vung lưỡi chém liên tiếp một nhát, hai nhát, ba nhát. Cứ mỗi đường chém đi qua, thân cây đổ lại bị cắt nhỏ ra thành từng khúc củi.
 
 Đủ củi rồi, Rei xếp thành đống rồi niệm chú.
 
@@ -54,7 +54,7 @@ Ngọn lửa bùng lên bén vào đống củi. Cậu cắm mấy xiên thịt 
 
 Thịt vừa bắt đầu nướng trên lửa, mùi thơm nức mũi tỏa ra là Set liền sáp lại gần chỗ Rei.
 
-Thấy Set gừ trong họng như không chờ nổi nữa, Rei cười khổ, cắt mấy miếng thịt sống chưa kịp xiên đưa cho nó.
+Thấy Set gừ trong họng như không chờ nổi nữa, Rei cười trừ, cắt mấy miếng thịt sống chưa kịp xiên đưa cho nó.
 
 "Trong lúc chờ thịt chín thì mày ăn tạm chỗ này đi."
 
@@ -82,7 +82,7 @@ Set thò mặt tới như muốn đòi phần, Rei liền đưa xiên thịt nư
 
 Set thấy động liền ngoái nhìn Rei, nhưng đoán quanh đây không có nguy hiểm gì nên lại cắm cúi ăn tiếp chỗ thịt sống.
 
-Nhìn bộ dạng đó của Set, Rei cười khổ rồi đi ra chỗ cách đó một đoạn, dựng Lưỡi Hái Tử Thần vào tảng đá gần đấy và bắt đầu tập giãn cơ để kiểm tra tình trạng cơ thể.
+Nhìn bộ dạng đó của Set, Rei cười trừ rồi đi ra chỗ cách đó một đoạn, dựng Lưỡi Hái Tử Thần vào tảng đá gần đấy và bắt đầu tập giãn cơ để kiểm tra tình trạng cơ thể.
 
 Trong ký ức của Rei thì cơ thể Reiji hồi trước vốn cũng khá dẻo, nhưng cơ thể hiện tại của cậu còn dẻo hơn tưởng tượng nhiều.
 
@@ -144,7 +144,7 @@ Thế nên...
 
 "Grrr!"
 
-Được Rei mà nó quý nhất nhờ, Set liền hớn hở bắn Thủy Cầu ra ngay.
+Được người nó quý nhất là Rei nhờ, Set liền hớn hở tạo Thủy Cầu ngay.
 
 Quả cầu nước Set tạo ra trôi lơ lửng rồi dừng ngay trước mặt Rei. Cậu thọc tay vào vốc nước rửa mặt.
 

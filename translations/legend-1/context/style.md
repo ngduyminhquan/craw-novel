@@ -36,7 +36,7 @@
    - Hán Việt chỉ dùng cho tên kỹ năng/ma thuật/danh hiệu/thuật ngữ (xem `rules.md`) và khi nhân vật cổ xưa như Zepairu lên tiếng.
    - Phá bỏ cấu trúc câu bị động, danh từ hoá, lặp từ nối (`～のだが`, `～といった所か`, `～という訳だ`) của câu văn tiếng Nhật; viết lại thành câu tiếng Việt gọn, xuôi tai.
    - Giữ sự đối lập thú vị giữa vẻ ngoài ngầu/đáng sợ của Rei - Set và tính cách thực tế, ham ăn, thích làm nũng của Set.
-   - Không thêm thắt nội dung, không tóm tắt, không kiểm duyệt.
+   - Cụm `苦笑を浮かべる` lặp lại rất nhiều ở Rei (khi dở khóc dở cười trước tính ham ăn/làm nũng của Set hoặc mấy trò bày vẽ kiểu game của Takumu): thống nhất dịch là `"cười trừ"`, tránh dịch là `"cười khổ"` nghe bi quan, nặng nề.
 
 ## Từ cảm thán / cách nói cố định
 

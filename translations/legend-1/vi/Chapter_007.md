@@ -36,7 +36,7 @@ Set nghiêng nhẹ đầu ngước nhìn Rei như muốn hỏi có thật không
 
 "Gùuu!"
 
-Set kêu một tiếng ngắn gọn như muốn bảo cứ để đấy cho nó, rồi hết giận cái một. Cái tính đơn giản này chắc tại nó mới chào đời được hai ngày đây mà.
+Set kêu một tiếng ngắn gọn như muốn bảo cứ để đấy cho nó, rồi tươi tỉnh lại ngay. Cái tính đơn giản này chắc tại nó mới chào đời được hai ngày đây mà.
 
 "Thôi dù sao cũng xẻ thịt Gấu Nước xong rồi, hấp thụ Ma Thạch xong rồi, thử chiêu cũng xong luôn. Giờ chuyển chỗ thôi. Mùi máu con Gấu Nước kiểu gì cũng kéo lũ quái vật khác tới đây giống lúc nãy cho xem."
 
@@ -100,7 +100,7 @@ Nhưng lũ sói đang lừ lừ ép sát lại chỗ Rei và Set lúc này thì 
 
 Tức là dù có giết sạch lũ sói này đi nữa thì cũng chẳng kiếm được viên Ma Thạch nào để nuôi Set hay Lưỡi Hái Tử Thần mạnh lên cả.
 
-À, cũng có trường hợp thú thường bằng cách nào đó có được Ma Thạch trong người — như đột biến bẩm sinh, ở lâu tại nơi gọi là Điểm Tụ Ma Lực, hay vô tình nuốt phải Ma Thạch nhặt được — rồi sinh sôi nảy nở thành công, thì sẽ hình thành nên một loài quái vật mới. Khả năng cao con Gấu Nước mà Rei và Set vừa đụng độ cũng thuộc dạng đó.
+À, cũng có trường hợp thú thường bằng cách nào đó có được Ma Thạch trong người, chẳng hạn như đột biến bẩm sinh, ở lâu tại nơi gọi là Điểm Tụ Ma Lực, hay vô tình nuốt phải Ma Thạch nhặt được, rồi sinh sôi nảy nở thành công và tạo thành một loài quái vật mới. Khả năng cao con Gấu Nước mà Rei và Set vừa đụng độ cũng thuộc dạng đó.
 
 (May ra được cái an ủi là thịt cho Set ăn được, còn lông chắc bán lấy tiền được... nhỉ.)
 
@@ -152,7 +152,7 @@ Con sói bị Rei nhắm trúng chồm lên đánh trả. Nó nhắm thẳng và
 
 Rei tống thẳng con dao trên tay phải vào sâu trong cái miệng đang nhe nanh của con sói!
 
-Theo cấu tạo cơ thể của loài chó và sói, hễ bị nhét dị vật vào sâu trong họng là chúng không tài nào ngậm miệng lại được cho tới khi nôn thứ đó ra. Rei biết thừa điểm yếu này nên mới ra đòn như vậy. Đã thế, con Dao Mithril còn được bọc bởi lượng ma lực dồi dào của cậu, sắc bén chẳng kém gì danh đao hiếm có.
+Theo cấu tạo cơ thể của loài chó và sói, hễ bị nhét dị vật vào sâu trong họng là chúng không tài nào ngậm miệng lại được cho tới khi nôn thứ đó ra. Rei biết thừa điểm yếu này nên mới ra đòn như vậy. Đã thế, lưỡi Dao Mithril còn bọc lượng ma lực dồi dào của cậu, sắc bén chẳng kém gì một thanh danh đao thứ thiệt.
 
 "Khẹc!"
 

@@ -1,6 +1,6 @@
 # Chương 8: Đột kích bộ lạc Orc (8)
 
-Dưới ánh trăng dịu nhẹ, Set đang lao vun vút qua khu rừng đêm. Griffin vốn mang đặc tính của cả đại bàng, chúa tể bầu trời, lẫn sư tử, chúa sơn lâm, nhưng nửa thân trên của nó là đại bàng. Ấy thế mà chỉ nhờ chút ánh trăng mờ hắt xuống, đôi mắt xanh của Set vẫn nhìn rõ đường để đạp đất chắc nịch, chạy với tốc độ như xé toạc khu rừng đêm.
+Dưới ánh trăng dịu nhẹ, Set đang lao vun vút qua khu rừng đêm. Griffin vốn mang đặc tính của cả đại bàng, chúa tể bầu trời, lẫn sư tử, chúa sơn lâm, nhưng nửa thân trên của nó là đại bàng. Vậy mà chỉ nhờ chút ánh trăng mờ hắt xuống, đôi mắt xanh của Set vẫn nhìn rõ đường để đạp đất chắc nịch, chạy với tốc độ như xé toạc khu rừng đêm.
 
 Ngồi trên lưng Set, Rei vừa thấy nể vừa vuốt cổ nó, tiện tay đưa mấy Quả Clara ít ỏi còn lại tới gần mỏ nó.
 
@@ -14,7 +14,7 @@ Vừa lẩm bẩm, Rei vừa ngó nghiêng xung quanh, nhưng cánh rừng có v
 
 (Mấy trăm năm mà rừng lan rộng tới mức này cơ à? Mà thôi, thế giới có ma thuật mà, cỡ đó chắc cũng có thể lắm.)
 
-Nghĩ bụng vậy thôi, chứ cậu vẫn không sao gạt đi được cảm giác bất an cứ len lỏi trong lòng.
+Nghĩ bụng vậy thôi, chứ cảm giác bất an vẫn cứ thoáng qua trong lòng cậu.
 
 Như muốn lờ đi linh cảm chẳng lành ấy, Rei vừa vuốt sống cổ Set vừa bắt chuyện.
 
@@ -102,7 +102,7 @@ Như muốn bảo đã rõ, Set kêu vang một tiếng rồi dang rộng đôi 
 
 Chuyện lấy đà thì chạy suốt nãy giờ đã đủ tốc độ rồi. Giữ nguyên đà đó, Set đập mạnh cánh... Chỉ vài giây sau cú đạp đất mang lại cảm giác bồng bềnh nhẹ hẫng, nó đã bay vọt lên cao hơn hẳn ngọn cây của khu rừng.
 
-Bầu trời đêm không một gợn mây, vầng trăng sáng rõ chiếu xuống mặt đất. Giữa bầu trời ấy, Set sải cánh bay lượn. Chắc một phần vì đang giữa đêm nên cả khoảng không rộng lớn chẳng có bóng dáng ai khác ngoài Rei và Set. Cảm giác như bao trọn cả bầu trời làm của riêng khiến Rei một lần nữa thấm thía rằng đây đúng là dị giới.
+Bầu trời đêm không một gợn mây, vầng trăng sáng rõ chiếu xuống mặt đất. Giữa bầu trời ấy, Set sải cánh bay lượn. Chắc một phần vì đang giữa đêm nên cả khoảng không rộng lớn chẳng có bóng dáng ai khác ngoài Rei và Set. Khung cảnh như thể hai đứa bao trọn cả bầu trời đêm làm Rei cảm nhận rõ hơn bao giờ hết rằng đây đúng là dị giới.
 
 Nhưng khoảnh khắc đó chẳng kéo dài được bao lâu.
 
@@ -132,9 +132,9 @@ Vừa niệm chú vừa chỉ định phạm vi hiệu lực của ma thuật, c
 
 [Vũ Điệu Hỏa Diễm!]
 
-Và rồi, thế giới được viết lại bởi ma lực của Rei bắt đầu hiện hình.
+Và rồi, thế giới do ma lực của Rei viết lại bắt đầu hiện ra.
 
-Hàng chục, rồi hàng trăm ngọn lửa to bằng người thật đồng loạt xuất hiện, bay lượn tự do giữa bầu trời đêm. Những đốm lửa rực sáng vừa soi rõ một vùng trời vừa chuyển động nhịp nhàng trên không, nhìn đúng như một điệu nhảy của lửa. Bầy Sóc Bay Lưỡi Dao kẹt giữa vũ hội lửa ấy cố vùng vẫy chống trả, nhưng dù có vung cái đuôi lưỡi dao tự hào hay nhe cặp nanh sắc nhọn ra cũng chẳng làm gì nổi ngọn lửa; từng con một bị thiêu thành than đen rồi rơi xuống rừng. Có mấy con biết không địch nổi nên định tháo chạy vào rừng, nhưng hầu hết đều bị những ngọn lửa đang bay lượn bắt kịp, thiêu rụi trong tích tắc. Dù vậy, vẫn có vài con may mắn thoát khỏi phạm vi ma thuật Rei chỉ định, cắm đầu cắm cổ trốn biến vào rừng.
+Hàng chục, rồi hàng trăm ngọn lửa to bằng người thật đồng loạt xuất hiện, bay lượn tự do giữa bầu trời đêm. Những đốm lửa rực sáng vừa soi rõ một vùng trời vừa chuyển động nhịp nhàng trên không, nhìn đúng như một điệu nhảy của lửa. Bầy Sóc Bay Lưỡi Dao kẹt giữa vũ hội lửa ấy cố vùng vẫy chống trả, nhưng dù có vung cái đuôi lưỡi dao sở trường hay nhe cặp nanh sắc nhọn ra cũng chẳng làm gì nổi ngọn lửa, từng con một bị thiêu thành than đen rồi rơi xuống rừng. Có mấy con biết không địch nổi nên định tháo chạy vào rừng, nhưng hầu hết đều bị những ngọn lửa đang bay lượn bắt kịp, thiêu rụi trong tích tắc. Dù vậy, vẫn có vài con may mắn thoát khỏi phạm vi ma thuật Rei chỉ định, cắm đầu cắm cổ trốn biến vào rừng.
 
 Vài phút sau khi ma thuật kích hoạt. Trên bầu trời đêm ngập ánh trăng chẳng còn bóng con Sóc Bay Lưỡi Dao nào, còn những ngọn lửa ma thuật khi Rei búng nhẹ ngón tay cũng biến mất như chưa từng tồn tại. Giữa khoảng không lúc này chỉ còn Set đang đập cánh bay và Rei ngồi trên lưng nó.
 
