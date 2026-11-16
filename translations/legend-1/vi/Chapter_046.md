@@ -24,13 +24,13 @@ Hôm qua, khi Rei ghé qua Hội như thường lệ, Lenora, người giờ đ�
 
 Vừa nhớ lại cuộc trò chuyện đó, Rei vừa đưa mắt nhìn những gương mặt xung quanh, những người sẽ cùng cậu tham gia bài thi thăng hạng.
 
-Đầu tiên là người chẳng cần nói ai cũng biết — Arogan. Dù đã bẽ mặt trong vụ việc hôm nọ, nhưng gã dẫu sao vẫn là một kẻ dùng ma kiếm Hạng E. Tạm gác kỹ năng của bản thân sang một bên, việc sở hữu thanh ma kiếm hiệu năng cao như thế hẳn sẽ khiến gã chuộng lối đánh áp đảo bằng uy lực.
+Đầu tiên là cái tên chẳng cần nói ai cũng biết, Arogan. Dù đã bẽ mặt trong vụ việc hôm nọ, nhưng gã dẫu sao vẫn là một kẻ dùng ma kiếm Hạng E. Tạm gác kỹ năng của bản thân sang một bên, đã cầm trong tay thanh ma kiếm có uy lực vượt trội như thế thì hẳn gã sẽ chuộng lối đánh lấy sức đè người.
 
 Người thứ hai là một cô gái cắt tóc ngắn gọn gàng để tiện bề cử động. Tương tự như mái tóc, cô mặc bộ giáp da làm từ da quái vật để không cản trở di chuyển, bên hông giắt hai thanh đoản kiếm. Hẳn là một đạo tặc chuyên trinh sát và kiểm tra bẫy. Tuổi đời trông chừng cuối độ tuổi thiếu niên.
 
 Người thứ ba mặc chiếc áo choàng tương tự như Rei, tay cầm cây gậy phép. Một chàng trai thuộc kiểu ma pháp sư điển hình với nét mặt có phần mộc mạc, chất phác. Thấy cậu ngồi cạnh cô gái thứ hai và vừa cười vừa trò chuyện, có vẻ hai người đã quen biết nhau từ trước. Người này trông cũng khoảng cuối độ tuổi thiếu niên.
 
-Người thứ tư là một nam chiến sĩ có ánh mắt sắc bén. Trang bị của anh ta chỉ là thanh kiếm dài bình thường bán ngoài phố, thua kém xa thanh ma kiếm của Arogan, nhưng theo Rei quan sát thì đẳng cấp chiến sĩ của người này lại vượt trội hơn Arogan. Tuổi chừng đầu đôi mươi, hơn Arogan khoảng một hai tuổi.
+Người thứ tư là một nam chiến sĩ có ánh mắt sắc bén. Trang bị của gã chỉ là thanh kiếm dài bình thường bán ngoài phố, thua kém xa thanh ma kiếm của Arogan, nhưng theo Rei quan sát thì đẳng cấp chiến sĩ của người này lại vượt trội hơn Arogan. Tuổi chừng đầu đôi mươi, hơn Arogan khoảng một hai tuổi.
 
 Người thứ năm là một cô gái đang ngồi trên ghế, lặng lẽ nhắm mắt. Đường nét gương mặt có thể nói là rất thanh tú. Điểm đáng chú ý nhất chính là đôi tai. Đôi tai to hơn người bình thường và nhọn ở đỉnh đã minh chứng cô là một Elf. Nhìn cây cung khá lớn đặt trên mặt bàn trước mặt, hẳn cô là một cung thủ. Ngoại hình trông chừng cuối độ tuổi thiếu niên.
 
@@ -54,7 +54,7 @@ Chàng trai ma pháp sư ngồi cạnh cô nàng đạo tặc Culotte cúi đầ
 
 "Scola, sao cậu lại phải cúi đầu chứ. Người có lỗi là tên này cơ mà. Cứ nhìn chằm chằm người ta bằng ánh mắt bất lịch sự thế kia."
 
-"Aiz, thật là. Xin lỗi cậu nhé. Thật lòng xin lỗi cậu. Cô ấy không có ác ý... à mà cũng không hẳn thế, nhưng bình thường cô ấy không bướng bỉnh đến mức này đâu..."
+"Ôi trời, thật tình. Xin lỗi cậu nhé. Thật lòng xin lỗi cậu. Cô ấy không có ác ý... à mà cũng không hẳn thế, nhưng bình thường cô ấy không bướng bỉnh đến mức này đâu..."
 
 "Không sao đâu. Ít nhất thì tôi cũng không để bụng đâu."
 
@@ -78,7 +78,7 @@ Culotte có lẽ cũng nhận ra Gran là ai. Cô liếc nhìn Rei một cái s�
 
 Về phần Scola ngồi cạnh, cậu lại cúi đầu tạ lỗi với Rei một lần nữa rồi mới quay người về phía Gran.
 
-"Được rồi, xem ra mọi người đã sẵn sàng nghe rồi. Vậy ta vào thẳng phần phổ biến bài thi thăng hạng lên Hạng D luôn. Trước hết, lát nữa các ngươi sẽ phải đấu với nhau một trận."
+"Được rồi, xem ra mọi người đã sẵn sàng nghe rồi. Vậy ta vào thẳng phần phổ biến bài thi thăng hạng lên Hạng D luôn. Trước hết, lát nữa các cậu sẽ phải đấu với nhau một trận."
 
 Khoảnh khắc Gran vừa dứt lời, Arogan, kẻ nãy giờ vẫn vờ như không quan tâm đến màn đôi co giữa Rei và Culotte, liền giật thót mình quay phắt sang phía Rei.
 
@@ -86,7 +86,7 @@ Mới chỉ chừng năm ngày kể từ khi bị Rei cho nếm mùi chênh lệ
 
 Thế nhưng như để trấn an Arogan, Gran nói tiếp.
 
-"Nói vậy thôi, chứ thua trong trận đấu đó cũng không đồng nghĩa với việc lập tức bị loại khỏi bài thi thăng hạng. ...Mà dĩ nhiên ta không phủ nhận nó sẽ được dùng làm căn cứ đánh giá. Mục đích chính của trận đấu là để các ngươi nắm được thực lực của nhau. Còn về nội dung chính của bài thi thăng hạng, Hội đã xác định được sào huyệt của một băng cướp cách đây khoảng hai ngày đường. Thảo phạt lũ cướp này chính là nội dung của bài thi."
+"Nói vậy thôi, chứ thua trong trận đấu đó cũng không đồng nghĩa với việc lập tức bị loại khỏi bài thi thăng hạng. ...Mà dĩ nhiên ta không phủ nhận nó sẽ được dùng làm căn cứ đánh giá. Mục đích chính của trận đấu là để các cậu nắm được thực lực của nhau. Còn về nội dung chính của bài thi thăng hạng, Hội đã xác định được sào huyệt của một băng cướp cách đây khoảng hai ngày đường. Thảo phạt lũ cướp này chính là nội dung của bài thi."
 
 Nghe đến việc thảo phạt cướp, cả phòng họp lặng ngắt như tờ.
 
@@ -96,7 +96,7 @@ Hơn nữa, giữa ủy thác từ Hạng E trở xuống và ủy thác từ H�
 
 Dù ở thế giới này chuyện chiến đấu với quái vật diễn ra như cơm bữa, nhưng hành vi tước đoạt mạng người vẫn khiến nhiều người chùn tay. Vì lẽ đó, những ủy thác đối đầu với con người như thảo phạt cướp hay bắt tội phạm truy nã mới được xếp từ Hạng D trở lên.
 
-"Nhìn biểu cảm của các ngươi thì chắc ai cũng biết cả rồi đấy. Các ủy thác từ Hạng D trở lên thỉnh thoảng sẽ có nhiệm vụ thảo phạt cướp, hoặc hộ tống thương nhân và lữ khách. Nếu nhận ủy thác mà đến lúc then chốt lại chần chừ không dám hạ thủ kẻ địch để rồi bị phản công, khiến đồng đội hoặc đối tượng hộ tống mất mạng, thì đó là tình huống tồi tệ nhất. Chuyện trước đã đành, chứ chuyện sau còn ảnh hưởng đến uy tín của cả Hội Mạo Hiểm Giả nữa. Chính vì thế, bài thi thăng hạng lên Hạng D về cơ bản luôn là ủy thác liên quan đến việc giết người."
+"Nhìn biểu cảm của các cậu thì chắc ai cũng biết cả rồi đấy. Các ủy thác từ Hạng D trở lên thỉnh thoảng sẽ có nhiệm vụ thảo phạt cướp, hoặc hộ tống thương nhân và lữ khách. Nếu nhận ủy thác mà đến lúc then chốt lại chần chừ không dám hạ thủ kẻ địch để rồi bị phản công, khiến đồng đội hoặc đối tượng hộ tống mất mạng, thì đó là tình huống tồi tệ nhất. Chuyện trước đã đành, chứ chuyện sau còn ảnh hưởng đến uy tín của cả Hội Mạo Hiểm Giả nữa. Chính vì thế, bài thi thăng hạng lên Hạng D về cơ bản luôn là ủy thác liên quan đến việc giết người."
 
 Chỉ có tiếng nói của Gran vang vọng trong phòng họp, các thí sinh tham gia bài thi thăng hạng đều im lặng chăm chú lắng nghe.
 
@@ -106,9 +106,9 @@ Và còn một người nữa.
 
 (Cả gã đó nữa à.)
 
-Điểm nhìn của Rei hướng về phía nam chiến sĩ không phải Arogan. Trông anh ta có vẻ đang tập trung lắng nghe Gran nói, nhưng hoàn toàn không lộ vẻ căng thẳng ra mặt như những người khác. Chỉ bấy nhiêu cũng đủ để Rei lờ mờ nhận ra người này hẳn cũng từng có trải nghiệm đoạt mạng người giống như mình.
+Ánh mắt của Rei hướng về phía nam chiến sĩ không phải Arogan. Trông gã có vẻ đang tập trung lắng nghe Gran nói, nhưng hoàn toàn không lộ vẻ căng thẳng ra mặt như những người khác. Chỉ bấy nhiêu cũng đủ để Rei lờ mờ nhận ra người này hẳn cũng từng có trải nghiệm đoạt mạng người giống như mình.
 
-"Được rồi, đã hiểu rõ rồi chứ. Vậy giờ các ngươi sẽ đấu với nhau ngay. Đã đến thi thì dĩ nhiên đứa nào cũng mang theo vũ khí của mình rồi đúng không? Đi theo ta."
+"Được rồi, đã hiểu rõ rồi chứ. Vậy giờ mấy đứa sẽ đấu với nhau ngay. Đã đến thi thì dĩ nhiên đứa nào cũng mang theo vũ khí của mình rồi đúng không? Đi theo ta."
 
 Gran dứt lời rồi bước ra khỏi phòng họp. Nhóm Rei cũng lục tục nối gót theo sau.
 
@@ -120,7 +120,7 @@ Nghe Rei buột miệng lẩm bẩm, Culotte đi gần đó liền ném cho cậ
 
 "Chịu luôn. Cậu còn không biết cả sân huấn luyện sau Hội nữa cơ à? Thế mà cũng leo lên được Hạng E cơ đấy."
 
-"Aiz, thật là. Sao cậu cứ phải kiếm chuyện với người ta thế hả. Xin lỗi nhé, cậu đừng để bụng chuyện của Culotte thì may quá."
+"Ôi trời, thật tình. Sao cậu cứ phải kiếm chuyện với người ta thế hả. Xin lỗi nhé, mong cậu đừng để bụng chuyện của Culotte."
 
 "Không sao đâu."
 
@@ -148,7 +148,7 @@ Mặc kệ những ánh mắt đó, Gran thong dong tiến thẳng vào giữa s
 
 Nhưng cũng dễ hiểu thôi, bởi lần thi thăng hạng nào cũng diễn ra như vậy. Dẫu sao, nếu chiêu mộ được tân binh triển vọng vào tổ đội của mình thì khả năng sống sót khi nhận những ủy thác nguy hiểm sẽ tăng lên, nên với các mạo hiểm giả đã lập tổ đội, những viên ngọc thô tài năng như thế có bao nhiêu cũng không thấy đủ.
 
-"Nào, mấy đứa. Đừng có để ý ánh mắt xung quanh làm gì. Dù thành tích đấu tập lát nữa không quyết định trực tiếp kết quả bài thi, nhưng vẫn là căn cứ tham khảo đấy. Trước hết là màn tự giới thiệu. Lần lượt từng đứa nói tên, chức nghiệp, và kỹ năng nào không ngại để người khác biết. Đầu tiên, từ ngươi."
+"Nào, mấy đứa. Đừng có để ý ánh mắt xung quanh làm gì. Dù thành tích đấu tập lát nữa không quyết định trực tiếp kết quả bài thi, nhưng vẫn là căn cứ tham khảo đấy. Trước hết là màn tự giới thiệu. Lần lượt từng đứa nói tên, chức nghiệp, và kỹ năng nào không ngại để người khác biết. Đầu tiên, từ cậu."
 
 Người mà Gran chỉ định, nói như một lẽ dĩ nhiên, chính là Rei.
 
@@ -156,9 +156,9 @@ Cười khổ trước nụ cười nhăn nhở của Gran, Rei mở lời.
 
 "Tôi là Rei. Chức nghiệp là Ma Pháp Chiến Sĩ. Vũ khí sở trường là..."
 
-Cậu lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù rồi vung nhẹ một cái. Chỉ một đường vung duy nhất, nhưng bấy nhiêu cũng đủ để hút trọn mọi ánh mắt trong sân huấn luyện dán chặt vào cậu và thanh đại liêm.
+Cậu lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù rồi vung nhẹ một cái. Chỉ một đường vung duy nhất, nhưng bấy nhiêu cũng đủ để hút trọn mọi ánh mắt trong sân huấn luyện dán chặt vào cậu và Lưỡi Hái Tử Thần.
 
-"Thanh đại liêm này, Lưỡi Hái Tử Thần. Ngoài ra tôi chuyên về ma pháp hệ Hỏa. ...Chuyện thuần hóa cũng phải nói luôn à?"
+"Cây lưỡi hái lớn này, Lưỡi Hái Tử Thần. Ngoài ra tôi chuyên về ma pháp hệ Hỏa. ...Chuyện thuần hóa cũng phải nói luôn à?"
 
 Cậu ngầm hỏi xem có cần nhắc tới Set đang không có mặt ở đây không, Gran khẽ gật đầu đáp lại.
 
@@ -176,7 +176,7 @@ Có lẽ từ 'Griffin' đã giúp Culotte xâu chuỗi ra lai lịch của Rei,
 
 Những lời xì xào râm ran vang lên từ bốn phía, và những thí sinh thi thăng hạng ngoại trừ Arogan cũng có cùng vẻ mặt kinh ngạc ấy.
 
-"Nào, xôn xao là phải thôi nhưng màn tự giới thiệu vẫn chưa xong đâu. Tiếp theo, tới ngươi."
+"Nào, xôn xao là phải thôi nhưng màn tự giới thiệu vẫn chưa xong đâu. Tiếp theo, tới cô."
 
 Vỗ tay bôm bốp để kéo sự chú ý của mọi người trở lại, người tiếp theo mà Gran chỉ định là nữ đạo tặc Culotte.
 
@@ -244,6 +244,6 @@ Gran cũng nở nụ cười nhếch mép khi nghe màn tự giới thiệu củ
 
 Ông lẩm bẩm rồi liếc nhìn một lượt các thí sinh vừa hoàn thành màn tự giới thiệu.
 
-"Được rồi, màn tự giới thiệu ngắn gọn thế là đủ. Tiếp theo các ngươi sẽ đấu tập với nhau để nắm bắt thực lực của đối phương. Dù sao thì về cơ bản, chỉ có các ngươi tự mình đi thảo phạt băng cướp thôi. Đúng kiểu trăm nghe không bằng một thấy đấy. Trận đấu đầu tiên sẽ là... Rei và Superbia."
+"Được rồi, màn tự giới thiệu ngắn gọn thế là đủ. Tiếp theo các cậu sẽ đấu tập với nhau để nắm bắt thực lực của đối phương. Dù sao thì về cơ bản, chỉ có các cậu tự mình đi thảo phạt băng cướp thôi. Đúng kiểu trăm nghe không bằng một thấy đấy. Trận đấu đầu tiên sẽ là... Rei và Superbia."
 
 Gran tuyên bố như thế, rồi chỉ định hai người là Rei và Superbia.

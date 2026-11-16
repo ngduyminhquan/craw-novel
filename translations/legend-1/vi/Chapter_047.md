@@ -16,7 +16,7 @@ Trước câu hỏi đó của Gran, Rei cất tiếng.
 
 "Dĩ nhiên rồi. Ai đời mang Griffin vào thi thăng lên Hạng D hay Hạng E bao giờ, thế thì ai mà đánh cho lại. Cấm, cấm tiệt. Nói trước là lúc tiêu diệt băng cướp cũng cấm dùng Griffin đấy nhé. Dù thuần hóa là kỹ năng của cậu, nhưng đâu phải lúc nào bên cạnh cậu cũng có Griffin? Bài thi lần này cậu bắt buộc phải tham gia bằng chính thực lực của bản thân."
 
-"A— bảo là 'thuần hóa cũng là năng lực của tôi'... chắc ông không chịu nghe đâu nhỉ."
+"À, bảo là 'thuần hóa cũng là năng lực của tôi'... chắc ông không chịu nghe đâu nhỉ."
 
 Nhìn Gran gật đầu như thể đó là điều hiển nhiên, Rei khẽ thở dài một tiếng rồi thủ thế Lưỡi Hái Tử Thần, quay sang đối mặt với Superbia.
 
@@ -34,7 +34,7 @@ Về phần mình, Superbia cũng quan sát tư thế cầm Lưỡi Hái Tử Th
 
 "Haaaaaa!"
 
-Vừa hét vang lên dây cót tinh thần, gã vừa dồn hết tốc lực đạp đất lao tới nhằm áp sát vào người Rei.
+Vừa thét vang lấy khí thế, gã vừa dồn hết tốc lực đạp đất lao tới nhằm áp sát vào người Rei.
 
 (Chỉ cần đỡ được đòn đầu tiên là áp sát được. Khi đó ắt có cơ hội thắng!)
 
@@ -50,7 +50,7 @@ Vừa chạm vào phần lưỡi của cây lưỡi hái và định gạt sang 
 
 Gã văng thẳng một mạch sang ngang gần mười mét giữa không trung, dội lên dội xuống mặt đất vài lần rồi cày sâu vào lớp đất cát mới chịu dừng lại.
 
-Trước một đòn quá mức phũ phàng và áp đảo đến cạn lời ấy, cả sân huấn luyện bỗng chốc im phăng phắc.
+Trước một đòn quá đỗi phũ phàng và chẳng chút màu mè ấy, cả sân huấn luyện bỗng chốc im phăng phắc.
 
 "Hự, khốn kiếp... Cú đánh vừa rồi là cái quái gì thế..."
 
@@ -66,7 +66,7 @@ Gã loạng choạng mất thăng bằng, nhưng toan mượn luôn đà đó đ
 
 "Dừng lại!"
 
-Tiếng quát của Gran khựng lại bước chân của Superbia.
+Tiếng quát của Gran làm bước chân của Superbia khựng lại.
 
 "Giám khảo, tôi vẫn còn đánh tiếp được mà."
 
@@ -82,7 +82,7 @@ Thấy vậy, Rei cũng đi về một góc cách Superbia một đoạn.
 
 "Không, chẳng phải mơ đâu. Thực tế đấy. Kìa, nhìn đằng kia xem. Vết cày trên mặt đất vẫn còn rành rành ra đó kìa."
 
-"Ừ nhỉ. Cây đại liêm đó trông to đùng như thế, bảo nó nặng với có sức tàn phá lớn thì còn hiểu được. Cơ mà thằng nhóc Rei trông nhỏ con, mảnh khảnh như thế, sao lại tung ra được thứ sức mạnh kinh người như vậy chứ? Với lại, bảo trình cỡ đó mà chỉ là Hạng E thì ai tin cho nổi?"
+"Ừ nhỉ. Cây lưỡi hái lớn đó trông to đùng như thế, bảo nó nặng với có sức tàn phá lớn thì còn hiểu được. Cơ mà thằng nhóc Rei trông nhỏ con, mảnh khảnh như thế, sao lại tung ra được thứ sức mạnh kinh người như vậy chứ? Với lại, bảo trình cỡ đó mà chỉ là Hạng E thì ai tin cho nổi?"
 
 "Mà tao cũng đoán trước được phần nào rồi."
 
@@ -90,7 +90,7 @@ Thấy vậy, Rei cũng đi về một góc cách Superbia một đoạn.
 
 "Ừ. Nghĩ kỹ lại xem. Cậu ta đã hạ gục quái vật Hạng B Orc King đấy nhé? Cỡ Hạng E bình thường... à không, hồi đó mới Hạng G thôi nhỉ. Dù sao thì mạo hiểm giả hạng thấp làm sao mà hạ nổi Orc King chứ."
 
-"À thì, nghe mày nói cũng có lý... Nhưng bất kể ngoại hình thế nào thì kỹ năng dùng vũ khí của cậu ta thuộc hàng nhất phẩm, thể chất cũng hạng nhất. Chưa kể còn thuần phục được quái vật Hạng A Griffin, đồng thời lại dùng thành thạo cả ma pháp hệ Hỏa nữa. ...Nếu mà lôi kéo được cậu ta vào tổ đội thì chiến lực tăng phải biết..."
+"À thì, nghe mày nói cũng có lý... Nhưng bất kể ngoại hình thế nào thì kỹ năng dùng vũ khí của cậu ta thuộc hàng thượng thừa, thể chất cũng hạng nhất. Chưa kể còn thuần phục được quái vật Hạng A Griffin, đồng thời lại dùng thành thạo cả ma pháp hệ Hỏa nữa. ...Nếu mà lôi kéo được cậu ta vào tổ đội thì chiến lực tăng phải biết..."
 
 Gã mạo hiểm giả cầm kiếm nhìn Rei, buột miệng lẩm bẩm.
 
@@ -146,7 +146,7 @@ Tận mắt nhìn thấy lưỡi kiếm đen tuyền bóng bẩy đến ma mị 
 
 Tiếng hô của Gran vang vọng khắp sân, nghe vậy Arogan liền thu kiếm khỏi cổ Culotte rồi tra vào vỏ.
 
-Sự tự tin của bản thân bị bẻ gãy gập bởi một thất bại có thể coi là chớp nhoáng, Culotte nén nỗi ấm ức trên gương mặt rồi quay trở lại đứng bên cạnh Scola.
+Bị đánh bại chỉ trong chớp mắt khiến sự tự tin hoàn toàn tan vỡ, Culotte cố nén vẻ ấm ức trên gương mặt rồi quay trở lại đứng bên cạnh Scola.
 
 Arogan toan quay đi thì Gran cất tiếng gọi với theo sau lưng gã.
 
@@ -154,7 +154,7 @@ Arogan toan quay đi thì Gran cất tiếng gọi với theo sau lưng gã.
 
 "Đại loại là thế."
 
-"Ra vậy, thế thì ta nên rút lại lời ban nãy. Có thể nói ngươi đã sử dụng thanh ma kiếm đó khá thuần thục rồi đấy."
+"Ra vậy, thế thì ta nên rút lại lời ban nãy. Có thể nói cậu đã sử dụng thanh ma kiếm đó khá thuần thục rồi đấy."
 
 "...Thế nhưng vẫn bị tên kia hạ gục dễ như bỡn."
 
@@ -162,7 +162,7 @@ Arogan lẩm bẩm trong miệng, mắt khẽ liếc về phía Rei.
 
 Cuộc chạm trán giữa Rei và Arogan cách đây vài ngày. Khi ấy, dù cũng tăng cường thể chất bằng sức mạnh ma kiếm để nghênh chiến như vừa rồi, gã vẫn phải nếm mùi thất bại nhục nhã khi bị đối phương đánh bật vũ khí một cách dễ dàng. Và trận chiến đó đã đập tan tành sự tự tin vốn đã biến thành kiêu ngạo trong lòng Arogan. Phải, chẳng khác nào tâm trạng của Culotte đang ở ngay trong tầm mắt gã lúc này.
 
-"Tên đó vốn dĩ là kẻ dị biệt, ở Hạng E mới là điều bất thường, nên ta thấy ngươi không cần phải bận tâm đến mức đó đâu. ...Thôi được rồi, về chỗ đi."
+"Tên đó vốn dĩ là kẻ dị biệt, ở Hạng E mới là điều bất thường, nên ta thấy cậu không cần phải bận tâm đến mức đó đâu. ...Thôi được rồi, về chỗ đi."
 
 Trước lời của Gran, Arogan thoáng liếc nhìn Rei một cái rồi lập tức đảo mắt đi, quay về vị trí ban đầu của mình.
 
@@ -192,7 +192,7 @@ Nghe tiếng gọi của Gran, Scola và Filma cùng bước lên trước mặt
 
 Hai người đứng đối mặt nhau trong tư thế ấy, nhưng trước khi Gran kịp ra hiệu bắt đầu, Scola đã mở lời.
 
-"Này cô, nghe nói cô dùng Tinh Linh Ma Pháp, vậy không cần vật phát động ma pháp sao?"
+"Này, nghe nói cô dùng Tinh Linh Ma Pháp, vậy không cần vật phát động ma pháp sao?"
 
 Scola nhìn cây gậy phép trên tay mình rồi cất tiếng hỏi Filma.
 
@@ -230,7 +230,7 @@ Ngay khi bức tường gió tan biến, Filma lại cất lời. Đó không ph
 
 "Hự!"
 
-Nghe thấy tiếng gọi đó, Scola vội vàng nhảy lùi lại. Ngay khoảnh khắc tiếp theo, mặt đất nơi Scola vừa đứng sụt lún xuống chừng vài phân, hệt như một cái hố bẫy sụt xuống.
+Nghe thấy tiếng gọi đó, Scola vội vàng nhảy lùi lại. Ngay khoảnh khắc tiếp theo, mặt đất nơi Scola vừa đứng sụt lún xuống chừng vài phân, cứ như thể ở đó có sẵn một cái hố bẫy vậy.
 
 Vừa chứng kiến cảnh đó, cậu vừa chĩa lại cây gậy phép về phía Filma từ vị trí mới nhảy lùi tới, tiếp tục niệm chú.
 

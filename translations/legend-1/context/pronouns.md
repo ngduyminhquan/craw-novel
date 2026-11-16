@@ -137,3 +137,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Arogan | Gran | tôi | giám khảo | 47 | Arogan nói với giám khảo Gran |
 | Arogan | Superbia | tôi | anh | 48 | Cùng tham gia bài thi thăng hạng |
 | Culotte | Gran | tôi | giám khảo | 48 | Thí sinh nói với giám khảo bài thi |
+| Gran | Culotte | ta / tôi | cô | 46 |  |
+| Gran | Arogan | ta / tôi | cậu | 47 |  |

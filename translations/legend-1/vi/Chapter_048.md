@@ -6,7 +6,7 @@ Gran đứng trước các thí sinh tham gia bài thi thăng hạng tại sân 
 
 Nghe vậy, có người khẽ gật đầu, có người nở nụ cười, lại có người vẫn giữ vẻ mặt ấm ức lắng nghe lời Gran.
 
-"Dù ta đã nhắc đi nhắc lại nhiều lần, nhưng trận đấu tập lần này cốt chỉ để nắm bắt thực lực của nhau nhằm hoàn thành ủy thác thảo phạt đạo tặc thôi. Đừng quá để bụng làm gì. Giờ thì, việc tiếp theo cần quyết định là ai sẽ làm trưởng nhóm của tổ đội lâm thời này..."
+"Dù ta đã nhắc đi nhắc lại nhiều lần, nhưng trận đấu tập lần này cốt chỉ để nắm bắt thực lực của nhau nhằm hoàn thành ủy thác thảo phạt băng cướp thôi. Đừng quá để bụng làm gì. Giờ thì, việc tiếp theo cần quyết định là ai sẽ làm trưởng nhóm của tổ đội lâm thời này..."
 
 Gran lẩm bẩm rồi lần lượt đưa mắt nhìn gương mặt của sáu người. Bỏ qua chuyện bản thân có muốn làm hay không, ai nấy đều nín thở chờ xem ai sẽ được chỉ định làm trưởng nhóm. Giữa bầu không khí đó, ánh mắt Gran dừng lại ở một người.
 
@@ -18,23 +18,23 @@ Và buông lời tuyên bố.
 
 Gương mặt Rei thoáng hiện vẻ kinh ngạc trước lời của Gran. Thế nhưng Gran chẳng chút ngần ngại gật đầu xác nhận.
 
-"Phải. Thú thật thì ta hiểu rõ bản thân sức chiến đấu của cậu đã không còn ở cái cấp bậc như Hạng D nữa rồi. Dù sao thì cậu cũng sở hữu thực lực hạ gục cả Orc King cơ mà. Thế nhưng, trái ngược với sức chiến đấu cao ngất ngưởng đó, cậu lại luôn mặc định hoạt động cá nhân, độc hành một mình. Ở Hạng E trở xuống thì có thể vẫn ổn, nhưng một khi đã lên Hạng D trở lên, dù là lâm thời hay cố định, ắt hẳn sẽ tự nhiên phát sinh nhu cầu lập tổ đội cùng người khác. Chính vì thế, một kẻ không giỏi giao thiệp với người khác như cậu muốn lên hạng cao hơn thì phải tìm cách khắc phục điều đó. Chí ít thì cũng phải đạt được mức độ giao tiếp tối thiểu."
+"Phải. Thú thật thì ta hiểu rõ bản thân sức chiến đấu của cậu đã không còn ở cái cấp bậc như Hạng D nữa rồi. Dù sao thì cậu cũng sở hữu thực lực hạ gục cả Orc King cơ mà. Thế nhưng, trái ngược với sức chiến đấu cao ngất ngưởng đó, cậu lại luôn mặc định hoạt động cá nhân, đi lẻ một mình. Ở Hạng E trở xuống thì có thể vẫn ổn, nhưng một khi đã lên từ Hạng D trở lên, dù là lâm thời hay cố định thì sớm muộn gì cũng phải lập tổ đội cùng người khác. Chính vì thế, một kẻ không giỏi giao thiệp như cậu muốn lên hạng cao hơn thì phải tìm cách khắc phục điểm đó. Chí ít cũng phải giao tiếp được với người ta ở mức tối thiểu chứ."
 
 Trước những lời chỉ ra quá đỗi rành mạch và xác đáng của Gran, Rei chỉ biết ngậm ngùi im lặng. Về cơ bản, cậu tự nhận thức được bản thân không giỏi khoản xã giao cho lắm. Vả lại nếu đó đã là điều kiện để thăng lên hạng cao hơn, với Rei chẳng còn lựa chọn nào ngoài việc nhận lời làm trưởng nhóm.
 
 "Tôi hiểu rồi. Tôi xin nhận làm trưởng nhóm."
 
-"Mấy đứa khác cũng rõ rồi chứ. Cho tới khi hoàn thành nhiệm vụ thảo phạt đạo tặc của bài thi thăng hạng lần này, trưởng nhóm của tổ đội lâm thời này sẽ là Rei đấy."
+"Mấy đứa khác cũng rõ rồi chứ. Cho tới khi hoàn thành nhiệm vụ thảo phạt băng cướp của bài thi thăng hạng lần này, trưởng nhóm của tổ đội lâm thời này sẽ là Rei đấy."
 
 Trước lời tuyên bố của Gran, mọi người đều đồng loạt gật đầu.
 
 ...Dù vậy, mỗi người lại mang một vẻ mặt khác nhau.
 
-"Được rồi, thế thì vào việc luôn, đây là chi tiết của ủy thác thảo phạt đạo tặc lần này. Đầu tiên, sào huyệt của bọn cướp nằm ở vị trí cách thành phố Gilm này chừng hai ngày đường, điều này ta đã phổ biến rồi nhỉ. Việc dẫn đường tới đó sẽ do ta đảm nhận. Mà đúng hơn là vì ta là giám khảo, đằng nào cũng phải đi cùng mấy đứa. Khởi hành vào sáng mai. Trước khi chuông điểm chín giờ thì tập hợp trước cổng chính. Hội sẽ cấp xe ngựa làm phương tiện di chuyển. Có ai thắc mắc gì không?"
+"Được rồi, thế thì vào việc luôn, đây là chi tiết của ủy thác thảo phạt băng cướp lần này. Đầu tiên, sào huyệt của bọn cướp nằm ở vị trí cách thành phố Gilm này chừng hai ngày đường, điều này ta đã phổ biến rồi nhỉ. Việc dẫn đường tới đó sẽ do ta đảm nhận. Mà đúng hơn là vì ta là giám khảo, đằng nào cũng phải đi cùng mấy đứa. Khởi hành vào sáng mai. Trước khi chuông điểm chín giờ thì tập hợp trước cổng chính. Hội sẽ cấp xe ngựa làm phương tiện di chuyển. Có ai thắc mắc gì không?"
 
 Dứt lời Gran, Culotte liền lên tiếng.
 
-"Bảo là xe ngựa do Hội chuẩn bị, nhưng các nhu yếu phẩm khác thì sao ạ? Đặc biệt là lương thực và mấy thứ như thuốc hồi phục ấy?"
+"Nghe nói xe ngựa do Hội chuẩn bị, nhưng còn các nhu yếu phẩm khác thì sao? Đặc biệt là lương thực và mấy thứ như thuốc hồi phục ấy?"
 
 Trước câu hỏi đó của Culotte, Gran nở nụ cười nhếch mép như muốn bảo cô bé hỏi rất đúng chỗ.
 
@@ -96,7 +96,7 @@ Một phần là vì cậu không ngờ mình lại rơi vào cảnh bị giao c
 
 Khoảnh khắc ấy, bóng hình Milein hiện lên trong tâm trí Rei. Cô là một nhân vật hiếm hoi biết được phần nào sự dị thường của hai người họ mà vẫn đối đãi hết sức thân tình. Thêm vào đó, vì đã cấy Hạt Giống Trừng Phạt vào người cô nên cậu chẳng cần phải lo lắng bất trắc gì xảy ra. Hơn nữa, nhìn qua là biết bản thân Milein cũng dành cho Set rất nhiều tình cảm.
 
-"Nếu vậy thì vấn đề là liệu từ giờ đến mai có tìm gặp được cô ấy không... đây."
+"Nếu vậy thì vấn đề là liệu từ giờ đến mai có tìm gặp được cô ấy không... nhỉ."
 
 Khẽ lẩm bẩm, cậu liền quay vào bên trong Hội, tâm niệm việc tốt thì không nên chần chừ.
 
@@ -120,7 +120,7 @@ Nếu không thể nhờ chuyển lời thì cậu đành phải ngồi đợi �
 
 Trong Nhẫn Sương Mù tuy đã có hầu hết các vật dụng cần thiết cho chuyến đi xa, nhưng vẫn chưa hoàn toàn đầy đủ. Cậu muốn tranh thủ đi mua bổ sung cùng vài món tiện lợi khác để mang theo.
 
-"A—, cậu Rei. Đã có chị đây rồi mà cậu định lăng nhăng đấy à?"
+"À, cậu Rei. Đã có chị đây rồi mà cậu định lăng nhăng đấy à?"
 
 Nhìn Rei, Kenny, người nãy giờ đứng cạnh Lenora tò mò lắng nghe câu chuyện của hai người, liền cất tiếng trêu chọc.
 
@@ -134,7 +134,7 @@ Trước cảnh đó, Rei vừa cười gượng vừa lắc đầu.
 
 "Vâng, cậu cứ giao cho tôi."
 
-"Xì—, trông cứ như mình bị cho ra rìa ấy."
+"Xì, trông cứ như mình bị cho ra rìa ấy."
 
 Trước lời của Rei, Lenora gật đầu đáp ứng, còn bên cạnh cô, Kenny khẽ đưa mắt nhìn Rei với vẻ hơi phụng phịu.
 
@@ -186,6 +186,6 @@ Nghe những lời đó từ Rei, Sulunin đưa mắt nhìn Milein rồi khẽ g
 
 "Tôi hiểu rồi. Nếu cậu đã tin tưởng chúng tôi đến mức đó thì chúng tôi cũng không ngại nhận lời. Thêm chiến lực khi làm ủy thác... lại còn là Griffin Set nữa thì bản thân tôi cũng chẳng có gì để phàn nàn."
 
-Cứ thế, toàn bộ thành viên Cơn Gió Rực Lửa đều đồng ý nhận trông Set, và trong lúc Rei đi thảo phạt đạo tặc cho bài thi thăng hạng thì Set cùng Rei sẽ tạm thời tách nhau ra hoạt động.
+Cứ thế, toàn bộ thành viên Cơn Gió Rực Lửa đều đồng ý nhận trông Set, và trong lúc Rei đi thảo phạt băng cướp cho bài thi thăng hạng thì Set cùng Rei sẽ tạm thời tách nhau ra hoạt động.
 
 Chỉ có điều, nghe xong những lời ấy, Set lại khẽ gừ nhẹ trong cổ họng rồi đưa đôi mắt tròn xoe nhìn Rei đầy vẻ tủi thân, khiến trong lòng Rei cùng các thành viên Cơn Gió Rực Lửa dấy lên một chút cảm giác tội lỗi...
