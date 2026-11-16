@@ -2,131 +2,131 @@
 
 "Là chỗ này rồi."
 
-Lẩm bẩm một câu, Rei cùng Set dừng chân trên đường. Người qua lại đều dạt sang một bên để né hai người một thú, nhưng cậu chẳng mảy may bận tâm mà chỉ ngước nhìn lên tấm biển hiệu.
+Rei lẩm bẩm rồi cùng Set dừng lại trên đường. Người qua lại đều né hai đứa mà đi, nhưng cậu chẳng buồn để ý, chỉ ngước nhìn tấm biển hiệu.
 
-Trên tấm biển vẽ mặt trời lặn dần nơi đường chân trời và những bông lúa mì nhuộm sắc đỏ rực dưới ánh hoàng hôn. Có thể nói đó là tấm biển thể hiện đúng y như cái tên quán trọ: Hoàng Hôn Mạch Đình.
+Trên tấm biển vẽ mặt trời đang lặn xuống đường chân trời cùng những bông lúa mì đỏ rực dưới ánh hoàng hôn. Có thể nói nó thể hiện y hệt cái tên quán trọ: Hoàng Hôn Mạch Đình.
 
-Bản thân quy mô quán trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei bắt gặp trên đường từ Hội tới đây. Kiến trúc khá phổ biến với tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt duy nhất có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng khu chuồng thú đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là nơi lui tới thường xuyên của các đoàn buôn hay lính đánh thuê có quy mô nhất định, hoặc đoàn tùy tùng của những quý tộc ghé qua thành phố này. Nói thêm thì với trường hợp cuối cùng, bản thân vị quý tộc đó thường sẽ nghỉ ở những nơi có giá vài đồng bạch kim một đêm.
+Bản thân kích cỡ quán trọ thì chẳng khác mấy so với những quán khác mà Rei thấy dọc đường từ Hội tới đây. Kiểu kiến trúc cũng phổ thông thôi: tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng chỗ đó thôi đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là chỗ hay có các đoàn buôn hoặc nhóm lính đánh thuê khá lớn tới ở, hay cả đoàn tùy tùng của quý tộc ghé qua thành phố này nữa. Nói thêm thì với trường hợp cuối, bản thân vị quý tộc đó thường nghỉ ở những chỗ có giá vài đồng bạch kim một đêm cơ.
 
-Đẩy cánh cửa kẽo kẹt mở ra, bên trong hầu như chẳng có bóng người do lúc này trời còn chưa quá nửa buổi chiều. Chỉ lác đác vài vị khách đang dùng bữa tại quán rượu tầng một.
+Cánh cửa kêu kẽo kẹt khi cậu đẩy mở ra. Bên trong hầu như chẳng có ai, chắc tại giờ mới chỉ đầu giờ chiều. Chỉ có vài người đang ngồi ăn ở khu quán rượu tầng một.
 
-"Kính chào quý khách! Cậu dùng bữa hay nghỉ trọ thế?"
+"Chào quý khách! Cậu vào ăn hay thuê phòng thế?"
 
-Vừa thấy Rei bước vào trọ, một người phụ nữ trung niên với vóc dáng đẫy đà cất tiếng chào hỏi.
+Thấy Rei bước vào, một người phụ nữ trung niên dáng người đẫy đà liền cất tiếng hỏi.
 
 "Tôi muốn thuê phòng. Với lại ngoài cửa có quái vật tôi đã thuần phục, nên cho tôi gửi chuồng thú nữa."
 
-Nghe giọng Rei, người phụ nữ gật đầu, nở một nụ cười rạng rỡ dễ mến.
+Nghe Rei nói vậy, người phụ nữ gật đầu, nở nụ cười tươi tắn dễ mến.
 
-"Vâng, cảm ơn quý khách. Tiền phòng phải trả trước, bao gồm hai bữa sáng tối là ba đồng bạc một đêm. Nếu trọ từ mười ngày trở lên thì giá là hai đồng vàng và bảy đồng bạc. Còn quái vật được thuần phục của cậu là loài gì vậy?"
+"Vâng, cảm ơn quý khách. Ở đây trả tiền phòng trước nhé, bao cả bữa sáng tối là ba đồng bạc một đêm. Nếu ở từ mười ngày trở lên thì tính hai đồng vàng bảy đồng bạc. Còn con quái vật cậu thuần phục là loài gì thế?"
 
 "Là Griffin."
 
 "...Ra là vậy."
 
-Nghe đến Griffin, bà thoáng khựng người trong tích tắc rồi nhanh chóng lấy lại bình tĩnh, chứng tỏ người phụ nữ trước mắt này gan dạ hơn khối gã đàn ông ngoài kia.
+Nghe đến Griffin, bà khựng lại một thoáng rồi lấy lại bình tĩnh ngay. Nhiêu đó cũng đủ thấy người phụ nữ trước mặt gan lì hơn khối gã đàn ông bình thường.
 
-Có lẽ do bà đã quen tiếp xúc với đám mạo hiểm giả và lính đánh thuê hằng ngày.
+Chắc cũng nhờ ngày nào bà cũng tiếp xúc với dân mạo hiểm giả với lính đánh thuê cả.
 
-"Với quái vật tầm cỡ như Griffin thì... tính cả phí dùng chuồng lẫn thức ăn sẽ là hai đồng bạc một đêm. Ở từ mười ngày trở lên thì là một đồng vàng và tám đồng bạc."
+"Tầm cỡ Griffin thì... tính cả tiền chuồng lẫn tiền ăn là hai đồng bạc một đêm. Ở từ mười ngày trở lên thì một đồng vàng tám đồng bạc nhé."
 
 "Được, nhờ cô."
 
-Cậu gật đầu chẳng chút do dự, rút túi tiền trong ngực áo ra lấy năm đồng vàng đưa sang.
+Cậu gật đầu chẳng buồn nghĩ ngợi, lấy túi tiền trong áo ra rút năm đồng vàng đưa cho bà.
 
-Đằng nào cậu cũng nghe nói ở thành phố này chỉ có duy nhất quán này là dắt Set vào trọ được, nên chẳng có gì phải đắn đo.
+Đằng nào cậu cũng nghe nói cả thành phố này chỉ có mỗi quán này cho dắt Set vào trọ, nên có muốn đắn đo cũng chẳng được.
 
-"Cảm ơn cậu, đây là năm đồng bạc tiền thừa. Tôi sẽ cho người dẫn đường ra chuồng thú ngay, phiền cậu dắt Griffin đi cùng nhé?"
+"Cảm ơn cậu, gửi lại cậu năm đồng bạc tiền thừa. Để tôi gọi người dẫn đường ra chuồng thú ngay, phiền cậu dắt Griffin theo cùng nhé?"
 
-"Tôi hiểu rồi. Còn nữa, tầng một là quán rượu thì chắc cũng phục vụ đồ ăn chứ?"
+"Được rồi. À, tầng một là quán rượu thì chắc có bán đồ ăn luôn chứ?"
 
-"Vâng. Nhưng ngoài bữa sáng và tối đã bao gồm trong tiền phòng thì các bữa khác phải tính tiền riêng."
+"Có chứ. Nhưng ngoài bữa sáng tối đã tính vào tiền phòng thì mấy bữa khác phải trả riêng nhé."
 
-Nghe người phụ nữ nói vậy, cậu liền rút một đồng bạc từ chỗ tiền thừa vừa nhận đưa lại.
+Nghe bà nói vậy, cậu rút luôn một đồng bạc trong chỗ tiền thừa vừa nhận đưa lại.
 
-"Tôi muốn ra chuồng cất đồ rồi quay lại ăn trưa, nhờ cô chuẩn bị giúp. Cả phần của Griffin nữa nhé."
+"Tôi ra chuồng cất đồ rồi quay lại ăn trưa, nhờ cô làm giúp nhé. Cả phần của Griffin nữa."
 
-"Tôi hiểu rồi. ...Quên chưa giới thiệu, tôi là Lana, bà chủ của quán Hoàng Hôn Mạch Đình này."
+"Được rồi. ...À quên chưa giới thiệu, tôi là Lana, bà chủ của Hoàng Hôn Mạch Đình này."
 
 "Vậy sao, thời gian tới phiền cô giúp đỡ rồi. Tôi là Rei. Con Griffin ngoài kia tên là Set."
 
-"Vâng, rất mong được cậu giúp đỡ. ...A, nó tới rồi. Thằng bé sẽ dẫn đường cho cậu ra chuồng thú."
+"Vâng, mong cậu chiếu cố. ...A, nó tới rồi kìa. Thằng bé này sẽ dẫn cậu ra chuồng thú."
 
-Người được Lana gọi tới là một chàng thanh niên trạc hai mươi tuổi. Chắc là con trai của Lana, khuôn mặt anh ta trông rất giống bà.
+Người được Lana gọi tới là một thanh niên tầm hai mươi tuổi. Chắc là con trai bà, mặt mũi trông giống hệt nhau.
 
-"Thằng bé là con trai tôi, tên Drum. Nó phụ trách coi sóc chuồng thú nên về chuyện quái vật cậu cứ trao đổi với nó nhé. Drum!"
+"Thằng bé là con trai tôi, tên Drum. Nó phụ trách chuồng thú nên có chuyện gì về quái vật cậu cứ nói với nó nhé. Drum!"
 
-Được Lana giục, Drum khẽ cúi đầu chào. Với nét mặt thuần phác, anh nở một nụ cười tươi thân thiện được thừa hưởng từ mẹ.
+Nghe Lana giục, Drum cúi đầu chào. Cậu thanh niên có gương mặt hiền lành chất phác, nở nụ cười tươi giống hệt mẹ.
 
-"Chào cậu, tôi là Drum. Để tôi dẫn đường cho cậu ra chuồng thú ngay nhé."
+"Chào cậu, tôi là Drum. Để tôi dẫn cậu ra chuồng thú ngay nhé."
 
 "Được. Quái vật đang ở ngoài cửa."
 
-"Vâng, vậy lúc đầu phiền cậu đi cùng tôi nhé. Lỡ con quái vật cảnh giác thì phiền lắm."
+"Vâng, vậy ban đầu phiền cậu đi cùng tôi chút nhé. Lỡ nó cảnh giác thì rách việc lắm."
 
-Gật đầu trước lời Drum, cả hai cùng bước ra phía trước cửa. Còn Lana thì sau khi tiễn Drum đã nhanh chóng quay vào bếp chuẩn bị bữa ăn theo yêu cầu.
+Rei gật đầu rồi cùng Drum đi ra trước cửa. Còn Lana thì vừa tiễn Drum xong đã quay ngay vào bếp làm đồ ăn cậu đặt.
 
-"Oa... Chú Griffin oai phong thật đấy."
+"Oa... Con Griffin này oai thật đấy."
 
-Đó là câu đầu tiên Drum thốt lên khi nhìn thấy Set, nghe vậy Rei liền đưa mắt nhìn anh với vẻ mặt đầy bất ngờ.
+Đó là câu đầu tiên Drum thốt ra khi thấy Set, khiến Rei quay sang nhìn anh đầy ngạc nhiên.
 
-Kể từ khi đặt chân đến thành phố Gilm, ai nấy nhìn thấy Set cũng đều lộ vẻ khiếp sợ hay dè chừng, nên thái độ trầm trồ khen ngợi một cách thuần túy của Drum khiến cậu thấy khá mới mẻ.
+Từ lúc vào thành phố Gilm tới giờ, ai nhìn thấy Set cũng toàn sợ sệt hoặc dè chừng, nên kiểu trầm trồ khen thật lòng của Drum làm cậu thấy mới mẻ hẳn.
 
-"Quý khách ơi, tôi... vuốt ve nó một chút có được không?"
+"Quý khách ơi, tôi... vuốt nó một chút được không?"
 
 "Gùuu."
 
-Không chỉ vậy, anh còn hỏi liệu có được chạm vào nó hay không. Thái độ ấy dường như chẳng những làm vừa lòng Rei mà cả Set cũng rất thích thú, chú ma thú liền kêu lên một tiếng gừ êm tai trong họng.
+Không những thế, anh còn hỏi xem có sờ nó được không nữa. Kiểu phản ứng đó chẳng những làm Rei có thiện cảm mà ngay cả Set cũng khoái, nên nó gừ lên một tiếng rất vui vẻ trong cổ họng.
 
-Hiếm khi thấy Rei khẽ mỉm cười gật đầu.
+Rei cũng hiếm hoi mỉm cười rồi gật đầu.
 
 "Được chứ. Có vẻ Set cũng quý anh đấy."
 
-"Vậy tôi mạn phép..."
+"Vậy tôi xin phép..."
 
-Anh chậm rãi đưa tay ra vuốt ve tấm lưng phủ lớp lông mượt mà như lụa của Set.
+Anh từ từ đưa tay ra vuốt lên lưng Set, nơi có lớp lông mượt như lụa.
 
-"Tuyệt quá... Đây là lần đầu tiên tôi được chạm vào Griffin, không ngờ lông nó lại mềm mượt thế này."
+"Tuyệt thật... Lần đầu tiên tôi được sờ Griffin đấy, không ngờ lông nó lại mượt thế này."
 
-Drum thầm cảm thán, nhưng dĩ nhiên độ mềm mượt ấy là nét riêng của Set, chứ loài Griffin thông thường thì lông ráp hơn nhiều.
+Drum lẩm bẩm đầy cảm động, cơ mà dĩ nhiên độ mượt này chỉ mình Set có thôi, chứ Griffin bình thường lông cứng và ráp hơn nhiều.
 
-"Nào, anh vuốt ve thỏa thích rồi thì giờ dẫn đường cho chúng tôi ra chuồng thú được chưa?"
+"Rồi, anh vuốt đã tay rồi thì giờ dẫn tụi tôi ra chuồng thú được chưa?"
 
-"A, vâng! Tôi xin lỗi. Tôi dẫn đường ngay đây!"
+"À, vâng! Xin lỗi cậu. Tôi dẫn đường ngay đây!"
 
-Đi theo Drum rẽ vào con đường nhỏ cạnh lối vào quán trọ rồi cứ thế bước tiếp, chẳng mấy chốc khu chuồng thú đã hiện ra trước mắt.
+Theo chân Drum rẽ vào con hẻm nhỏ ngay cạnh cửa quán trọ rồi đi thẳng một đoạn, chẳng mấy chốc khu chuồng thú đã hiện ra.
 
-Quả không hổ là nơi đón tiếp các đoàn buôn hay lính đánh thuê, diện tích nơi này rộng gần bằng cả tầng một của Hoàng Hôn Mạch Đình.
+Đúng là chỗ chuyên đón các đoàn buôn hay nhóm lính đánh thuê có khác, cái chuồng rộng gần bằng cả tầng một của Hoàng Hôn Mạch Đình luôn.
 
 "Mời cậu vào."
 
-Bước theo Drum vào bên trong, dù có mùi đặc trưng của động vật và quái vật nhưng khu chuồng vẫn được giữ gìn sạch sẽ. Nơi đây cũng có vài con ngựa, chắc là của những vị khách đang trọ tại Hoàng Hôn Mạch Đình.
+Rei bước theo Drum vào trong. Dù vẫn có mùi đặc trưng của thú vật và quái vật, nhưng khu chuồng rất sạch sẽ. Bên trong còn có mấy con ngựa, chắc là của khách đang trọ tại Hoàng Hôn Mạch Đình.
 
-Tuy nhiên, vừa thoáng thấy bóng dáng Set, lũ ngựa hầu như đều trở nên bồn chồn, đảo mắt nhìn quanh quất rồi cựa quậy không yên.
+Thế nhưng vừa thấy Set, hầu hết lũ ngựa đều hoảng lên, mắt đảo liên hồi rồi run rẩy cựa quậy không yên.
 
-Hẳn là bản năng mách bảo cho chúng biết sự chênh lệch đẳng cấp sinh học giữa hai loài.
+Chắc bản năng mách bảo cho chúng thấy rõ khoảng cách đẳng cấp giữa hai loài.
 
-"A... ngại quá. Cậu thấy đấy, ngựa của khách khác đang hoảng như vậy nên tôi cho chú này nghỉ ở chỗ cách xa một chút nhé."
+"Á... ngại quá. Cậu thấy đấy, ngựa của khách khác đang hoảng thế kia nên tôi xếp cho chú này ở chỗ xa một chút nhé."
 
-Drum áy náy xin lỗi rồi dắt Set tới góc chuồng xa nhất so với nơi buộc lũ ngựa.
+Drum áy náy xin lỗi rồi dẫn Set ra chỗ xa mấy con ngựa kia nhất.
 
 "Vậy để Set ở đây có được không cậu?"
 
 "Gùuu."
 
-Nghe Drum gọi tên mình, Set khẽ gừ nhẹ trong họng tỏ ý đồng ý.
+Nghe Drum gọi tên mình, Set khẽ gừ nhẹ trong cổ họng như đồng ý.
 
 "...Cậu Rei này, không lẽ Set hiểu được tiếng người... thật sao?"
 
-Thấy Set gật đầu và Drum nhận ra điều đó, Rei khẽ nở nụ cười trừ.
+Thấy Drum nhận ra Set vừa gật đầu mà hỏi vậy, Rei chỉ biết cười trừ.
 
-"Dù sao cũng là quái vật Hạng A, dăm ba câu tiếng người thì đa phần đều hiểu được chứ."
+"Dù sao cũng là quái vật Hạng A mà, tiếng người thì phần lớn đều hiểu được cả đấy."
 
-Dĩ nhiên quái vật Hạng A thông thường cũng chỉ hiểu được tiếng người ở một mức độ nào đó chứ chẳng thể hiểu cặn kẽ tường tận như Set, nhưng có vẻ Drum cũng không biết sâu đến mức ấy nên chỉ gật gù thán phục.
+Tất nhiên quái vật Hạng A bình thường chỉ hiểu tiếng người ở một mức độ nào đó thôi chứ làm sao hiểu rành rọt như Set được, nhưng chắc Drum cũng chẳng rành tới mức đó nên cứ gật gù tấm tắc.
 
-Nhìn cảnh Drum đang trò chuyện với Set, Rei cất tiếng gọi với theo sau lưng anh.
+Nhìn cảnh Drum đang bắt chuyện với Set, Rei gọi với theo sau lưng anh.
 
-"Drum, việc chăm sóc Set nhờ cả vào anh đấy. Từ sáng tới giờ nó hầu như chưa ăn gì, lát nữa ổn định chỗ rồi anh cho nó ăn chút gì nhé. Tiền nong thì tôi đã đưa cho bà chủ rồi."
+"Drum, chăm sóc Set nhờ cả vào anh đấy. Từ sáng tới giờ nó gần như chưa ăn gì, lát nữa quen chỗ rồi anh cho nó ăn chút gì nhé. Tiền thì tôi đưa bà chủ rồi."
 
 "A, vâng. Tôi biết rồi."
 
@@ -134,90 +134,90 @@ Nhìn cảnh Drum đang trò chuyện với Set, Rei cất tiếng gọi với t
 
 "Gùuu."
 
-Gãi gãi đầu Set khi nghe nó kêu lên vẻ luyến tiếc, Rei mới quay gót rời khỏi chuồng thú.
+Rei gãi gãi đầu Set khi nó kêu lên nghe buồn buồn, rồi mới rời khỏi chuồng thú.
 
-"Quý khách ơi, đồ ăn chuẩn bị xong rồi nhé."
+"Quý khách ơi, đồ ăn xong rồi đây."
 
-Vừa bước vào trong quán trọ, nghe tiếng gọi của Lana, cậu liền tiến tới ngồi xuống một bàn trong quán rượu.
+Bước vào trong quán trọ, nghe Lana gọi, cậu đi tới ngồi xuống một bàn ở khu quán rượu.
 
 "Chưa tới giờ chuẩn bị bữa tối nên chỉ có mấy món làm vội thế này thôi..."
 
-Vừa dứt lời, bà bưng ra một bát món hầm nhiều thịt, đĩa bánh mì đầy ắp, đĩa salad rau, phô mai và một ly rượu vang.
+Nói xong, bà bưng ra một bát thịt hầm, một rổ bánh mì đầy ắp, thêm salad rau, phô mai và rượu vang.
 
-Đầu hàng trước tiếng réo của chiếc bụng đói, cậu múc một miếng thịt trong bát hầm bỏ vào miệng. Vừa cắn nhẹ, vị ngọt đậm đà của thịt đã lan tỏa khắp khoang miệng, mềm đến mức tan ra trên đầu lưỡi.
+Không chịu nổi tiếng bụng réo, cậu xắn một miếng thịt hầm bỏ vào miệng. Vừa nhai, vị ngon ngọt của thịt đã lan ra khắp miệng, miếng thịt mềm tơi tan ngay đầu lưỡi.
 
 "Ngon thật đấy."
 
 "Cảm ơn cậu nhé."
 
-Trước lời khen buột miệng ấy, Lana vừa đi ngang qua liền mỉm cười khẽ cúi đầu.
+Nghe cậu buột miệng khen vậy, Lana vừa đi ngang qua liền mỉm cười gật đầu cảm ơn.
 
-"Quán của tôi giá phòng cao hơn nơi khác nên các món ăn đều được đầu tư chăm chút kỹ lưỡng đấy."
+"Quán tôi giá phòng cao hơn chỗ khác nên đồ ăn cũng được làm cẩn thận lắm đấy."
 
-Nghe thấy từ "cao", Rei khẽ giật mình để ý.
+Nghe thấy chữ "cao", Rei hơi khựng lại.
 
-(Một đêm ba đồng bạc. Tức là tầm ba nghìn yên mà bao cả bữa sáng lẫn bữa tối. Mình thấy quá rẻ ấy chứ... Cơ mà mức giá giữa Nhật Bản và một thành phố biên cảnh ở thế giới fantasy khác nhau cũng là điều đương nhiên.)
+(Một đêm ba đồng bạc. Tức là khoảng ba nghìn yên mà bao luôn cả bữa sáng lẫn bữa tối. Mình thấy rẻ chán ấy chứ... Cơ mà vật giá ở Nhật Bản với một thành phố vùng biên ở thế giới fantasy khác nhau thì cũng dễ hiểu thôi.)
 
-"Tiện thể cho tôi hỏi, thịt trong món hầm này là thịt gì thế?"
+"À tiện thể hỏi luôn, thịt trong món hầm này là thịt gì thế?"
 
-Vì thấy vị nó khá giống thịt lợn rừng từng được ông bác thợ săn gần nhà cho hồi còn ở Nhật, nên cậu nổi hứng tò mò hỏi thử.
+Tại thấy vị nó khá giống thịt lợn rừng cậu từng được bác thợ săn gần nhà cho hồi ở Nhật, nên cậu tò mò hỏi thử.
 
-Thế nhưng đáp lại câu hỏi đó là vẻ mặt đầy khó hiểu của Lana.
+Nhưng đáp lại câu hỏi của cậu lại là vẻ mặt ngơ ngác của Lana.
 
 "Thịt gì á... Thịt Fang Boar chứ thịt gì. Cậu chưa ăn bao giờ sao? Quanh vùng này đó là loại thịt phổ biến lắm mà."
 
-Nghe câu trả lời, chiếc thìa đưa lên miệng của Rei thoáng khựng lại trong chớp mắt, nhưng cậu nhanh chóng lấy lại vẻ mặt bình thản để tiếp lời.
+Nghe câu đó, Rei khựng tay thìa một thoáng, nhưng cậu làm mặt tỉnh bơ ngay rồi nói tiếp.
 
 "À không, tại tôi bị sư phụ dùng Không Gian Ma Pháp tống bừa tới vùng này bắt đi tu luyện ấy mà. Tôi cũng mới đăng ký làm mạo hiểm giả hôm nay thôi, nên chẳng biết gì về xung quanh cả."
 
 "A, hóa ra cậu là ma pháp sư à. Thế thì vất vả thật đấy. Cứ ăn thật no đồ của quán rồi cố gắng lên nhé."
 
-Đánh trống lảng qua mắt Lana xong, Rei liền rà lại trong tri thức của Zepairu.
+Lấp liếm cho qua chuyện với Lana xong, Rei liền lục lại kiến thức của Zepairu.
 
-(Thông tin về Fang Boar... cũng không có à. Tri thức của Zepairu đúng là ngày càng không dùng được nữa rồi. Thế này thì ngày mai việc đầu tiên phải làm là ghé thư viện hay đâu đó để thu thập thông tin, thay vì tới Hội rồi.)
+(Thông tin về Fang Boar... cũng không có à. Kiến thức của Zepairu đúng là càng lúc càng chẳng dùng được nữa rồi. Thế này thì ngày mai thay vì tới Hội, việc đầu tiên phải làm là ghé thư viện hay đâu đó tìm hiểu thông tin trước mới được.)
 
-Vừa ngẫm nghĩ, cậu vừa thưởng thức nốt phần bánh mì, salad rau, phô mai rồi nhấp cạn ly rượu vang.
+Vừa nghĩ ngợi, cậu vừa ăn hết chỗ bánh mì, salad rau với phô mai rồi uống nốt ly rượu vang.
 
-Nói thêm thì dù mang thể xác tương đương mười lăm tuổi, nhưng nhờ là cơ thể do môn phái Zepairu tạo ra nên dường như cũng có khả năng kháng cồn nhất định, cậu kết thúc bữa ăn mà chẳng hề thấy say chút nào.
+Nói thêm thì dù cơ thể hiện tại mới tầm mười lăm tuổi, nhưng nhờ là hàng do môn phái Zepairu tạo ra nên hình như cũng có kháng cồn, cậu ăn uống xong xuôi mà chẳng thấy say tí nào.
 
-"Phù... Đúng là một ngày xảy ra bao nhiêu là chuyện."
+"Phù... Mới một ngày thôi mà bao nhiêu là chuyện."
 
-Căn phòng góc ở tầng hai, đó là nơi Rei thuê trọ. Đúng như lời bà chủ bảo giá phòng cao hơn so với mặt bằng chung của một thành phố biên cảnh, căn phòng khá tươm tất, giường và chăn đệm đều chẳng có chỗ nào để chê. Nhất là chăn đệm còn thoang thoảng mùi nắng, chắc hẳn là nhờ được đem phơi thường xuyên. Cởi chiếc Áo Choàng Rồng ra, cậu ngả lưng xuống giường rồi lẩm bẩm.
+Căn phòng góc ở tầng hai là phòng Rei thuê. Đúng như bà chủ bảo giá cao so với một thành phố vùng biên, phòng ốc khá sạch đẹp, giường chiếu chăn đệm đều không chê vào đâu được. Nhất là chăn đệm còn thoang thoảng mùi nắng, chắc được đem phơi thường xuyên. Cởi chiếc Áo Choàng Rồng ra, cậu thả mình xuống giường rồi lẩm bẩm.
 
-"Nhắc mới nhớ, ngày mai đi tìm hiểu về thế giới này thì chắc cũng nên tra cứu cả lịch các thứ nữa. Tri thức của Zepairu đúng là chẳng trông cậy được gì."
+"Nhắc mới nhớ, mai đi tìm hiểu về thế giới này thì chắc phải xem cả lịch các thứ nữa. Kiến thức của Zepairu đúng là chả trông cậy được gì."
 
-Trong mắt Rei, tri thức của Zepairu giờ đây chỉ mang tính chất tham khảo, đặc biệt là những kiến thức thường thức về thế giới này. Thậm chí có quá nhiều điều đã lệch chuẩn so với hiện tại, nên cậu tự nhủ nếu xét đến chuyện định kiến thì tốt hơn hết là không nên dùng tới.
+Trong đầu Rei lúc này, kiến thức của Zepairu, nhất là những điều cơ bản về thế giới này, chỉ còn dùng để tham khảo thôi. Thậm chí nhiều thứ đã khác hẳn hiện tại rồi, nên nếu tính tới chuyện dễ bị áp đặt định kiến thì có khi không dùng tới lại hay hơn.
 
-"Dĩ nhiên về khoản ma thuật... à không, ma pháp thì chắc chắn vẫn còn hữu dụng chán."
+"Tất nhiên về khoản ma thuật... à không, ma pháp thì chắc chắn vẫn dùng tốt chán."
 
-Vừa lẩm bẩm tới đó, cậu chợt nhìn thấy chiếc Nhẫn Sương Mù đeo trên cổ tay phải. Nhìn chiếc nhẫn, cậu nhớ ra mớ tiền tài và đồ đạc vừa lột sạch của nhóm Vargas cách đây vài tiếng.
+Lẩm bẩm tới đó, cậu chợt nhìn thấy chiếc Nhẫn Sương Mù đeo trên tay phải. Thế là cậu nhớ ra đống tiền bạc và đồ đạc mới lột của nhóm Vargas mấy tiếng trước.
 
-Ngồi dậy từ trên giường, cậu mở danh sách trong tâm trí, lấy ra bốn túi tiền rồi trút hết đồ bên trong lên mặt nệm. Đếm lại thì có tới tám đồng bạch kim, bốn đồng vàng, mười lăm đồng bạc và chín đồng đồng, một khoản tiền khá lớn.
+Ngồi bật dậy trên giường, cậu hiện danh sách trong đầu, lấy bốn túi tiền ra đổ hết lên giường. Đếm thử thì được tới tám đồng bạch kim, bốn đồng vàng, mười lăm đồng bạc với chín đồng đồng, nhiều phết đấy.
 
-"Chắc bọn họ cũng để lại một ít ở phòng trọ, thế mà vẫn mang theo ngần này tiền cơ đấy."
+"Chắc bọn họ cũng cất bớt ở phòng trọ rồi, thế mà vẫn mang theo ngần này tiền cơ đấy."
 
-Rei lẩm bẩm vậy mà chẳng hề hay biết số tiền này đích thực là toàn bộ gia tài của nhóm Vargas.
+Rei lẩm bẩm vậy mà đâu có biết ngần này chính là toàn bộ gia tài của nhóm Vargas.
 
-"Nghe bảo thám hiểm hầm ngục kiếm được bộn tiền... nhưng ngặt nỗi không gian lại hẹp quá."
+"Nghe bảo đi hầm ngục kiếm được bộn tiền... có điều bên trong chật quá."
 
-Đủ loại quái vật xuất hiện, kèm theo nguyên liệu thu thập được và Ma Thạch. Kiếm được nhiều tiền như thế thì đối với Rei... không, đối với bất kỳ mạo hiểm giả nào cũng là một địa điểm vô cùng hấp dẫn. Dĩ nhiên chẳng có chuyện rủi ro thấp mà lợi nhuận cao, nên cần phải có thực lực nhất định. Nhưng điều khiến Rei đau đầu nhất chính là hầm ngục quá chật hẹp. Mạo hiểm giả thông thường chiến đấu ở đó thì chẳng vấn đề gì, nhưng với món vũ khí dài ngoằng như Lưỡi Hái Tử Thần hay thân hình hơn hai mét của Set thì quả thực hơi khó xoay xở.
+Đủ loại quái vật xuất hiện, kéo theo nguyên liệu lột được với cả Ma Thạch. Kiếm được nhiều tiền thế thì với Rei... không, với bất kỳ mạo hiểm giả nào cũng là chỗ cực kỳ hấp dẫn. Tất nhiên làm gì có chuyện rủi ro thấp mà lời cao, nên vẫn phải có thực lực nhất định. Nhưng cái dở nhất với Rei là hầm ngục nó hẹp. Mạo hiểm giả bình thường đánh đấm trong đó thì chẳng sao, chứ với món vũ khí dài ngoằng như Lưỡi Hái Tử Thần hay cái thân hình hơn hai mét của Set thì chắc chắn khó xoay xở rồi.
 
-"Dù có đi hầm ngục thì cũng phải củng cố thêm thực lực đã rồi tính."
+"Có đi hầm ngục thì cũng phải tăng thêm thực lực đã rồi tính."
 
-Tạm thời đưa ra kết luận như vậy, Rei gom toàn bộ số tiền lại cho vào túi của mình, rồi lấy những vũ khí đã đoạt từ nhóm Vargas ra khỏi Nhẫn Sương Mù.
+Tạm chốt vậy xong, Rei gom hết tiền bỏ vào túi mình, rồi lấy đống vũ khí lột được từ nhóm Vargas trong Nhẫn Sương Mù ra.
 
-Một thanh trường kiếm, hai thanh đoản kiếm, một cây cung kèm ống tên đầy ắp. Và món Đạo Cụ Ma Thuật chủ đạo: cây rìu chiến.
+Một cây trường kiếm, hai cây đoản kiếm, một cây cung với ống tên đầy mũi. Và món Đạo Cụ Ma Thuật chính: cây rìu chiến.
 
-Nói thêm thì thanh trường kiếm có tên Kiếm Sắt, cả hai thanh đoản kiếm đều là Đoản Kiếm Sắt, cây cung thì chỉ đơn thuần là cung. Riêng cây rìu chiến thì mang cái tên Rìu Cường Lực.
+Nói thêm thì cây trường kiếm tên là Kiếm Sắt, hai cây đoản kiếm đều là Đoản Kiếm Sắt, còn cung thì tên cũng chỉ là cung thôi. Riêng cây rìu chiến mang tên Rìu Cường Lực.
 
-Cậu biết được tên của chúng là nhờ hiệu ứng của Nhẫn Sương Mù. Khi danh sách hiện lên trong tâm trí, tên của từng món vũ khí đều được hiển thị rõ ràng. Nhờ vậy, ít nhất Rei cũng biết được tên các món đồ chưa rõ danh tính bằng cách bỏ chúng vào trong Nhẫn Sương Mù.
+Cậu biết được tên của chúng là nhờ công dụng của Nhẫn Sương Mù. Lúc mở danh sách trong đầu lên, tên từng món vũ khí đều hiện ra rành mạch. Nhờ thế, ít ra Rei cũng biết được tên mấy món đồ chưa rõ lai lịch bằng cách cất chúng vào Nhẫn Sương Mù.
 
-Ngắm nghía một lượt, cậu liền thở dài rồi cất hết vào lại trong Nhẫn Sương Mù.
+Xem qua một lượt xong, cậu thở dài rồi cất hết vào lại Nhẫn Sương Mù.
 
-Vốn dĩ nếu dùng trường kiếm hay rìu chiến thì Lưỡi Hái Tử Thần sẽ thành vật cản đường. Còn đoản kiếm thì cậu đã có thanh Dao Mithril với tính năng vượt trội hơn nhiều. Món duy nhất tạm dùng được có lẽ là cây cung. Nhưng trong trường hợp đó, kịch bản cũng chỉ là đứng từ xa bắn cung quấy rối, đợi kẻ địch áp sát thì vứt cung sang một bên rồi vung Lưỡi Hái Tử Thần tấn công mà thôi.
+Vốn dĩ nếu dùng trường kiếm hay rìu chiến thì Lưỡi Hái Tử Thần lại vướng. Đoản kiếm thì cậu đã có con Dao Mithril xịn hơn hẳn rồi. Thứ duy nhất còn tạm dùng được chắc là cây cung. Cơ mà kiểu đó thì cũng chỉ đứng từ xa bắn rỉa, đợi địch áp sát thì quăng cung đi rồi rút Lưỡi Hái Tử Thần ra chém thôi.
 
-"Thôi thì cứ giữ trường kiếm làm đồ dự phòng lúc nguy cấp vậy. Đoản kiếm chắc cũng dùng làm vũ khí ném được. Còn lại cung tên với rìu chiến... cơ mà cũng chẳng việc gì phải vội quyết định ngay."
+"Thôi thì cứ giữ trường kiếm làm đồ dự phòng lúc cần vậy. Đoản kiếm chắc đem ném cũng được. Còn lại cung tên với rìu chiến... cơ mà cũng chẳng việc gì phải quyết định ngay."
 
-Đằng nào nhờ số tiền lột được của nhóm Vargas nên hầu bao đang rủng rỉnh, nhận thấy chẳng cần gấp gáp đem bán, Rei liền bỏ ba đồng đồng ra mua ít nước nóng để lau người rồi đánh một giấc cho tới bữa tối.
+Đằng nào nhờ đống tiền lột được của nhóm Vargas nên ví tiền đang rủng rỉnh, thấy chẳng việc gì phải vội bán, Rei liền bỏ ba đồng đồng xin ít nước nóng lau người rồi đánh một giấc tới giờ ăn tối.
 
-Nói thêm thì bữa tối là bít tết thịt Kelpie và món lòng hầm của loài quái vật này.
+Nói thêm thì bữa tối hôm đó là bít tết thịt quái vật Kelpie với món lòng hầm.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:33:19Z",
+  "generatedAt": "2026-11-16T17:36:22Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2242,7 +2242,7 @@
           "number": 15,
           "title": "Chương 15: Đột kích bộ lạc Orc (15)",
           "path": "translations/legend-1/vi/Chapter_015.md",
-          "sha": "1dc4a867c88cb7a150774a345e20f0bb0d24a169"
+          "sha": "dbb516699b63ba90dacbdf905fd8a23a9b580fcd"
         },
         {
           "number": 16,
