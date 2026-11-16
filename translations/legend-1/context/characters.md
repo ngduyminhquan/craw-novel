@@ -32,6 +32,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Sulunin | スルニン | Sulunin | Ma pháp sư của tổ đội Cơn Gió Rực Lửa (Hạng C), túi khôn của nhóm | Chương 36 |
 | Ekril | エクリル; Ecryll | Ekril | Cung thủ của tổ đội Cơn Gió Rực Lửa (Hạng D) | Chương 36 |
 | Arogan | アロガン | Arogan | Mạo hiểm giả Hạng E tại Gilm, sở hữu ma kiếm | Chương 45 |
+| Culotte | キュロット | Culotte | Nữ đạo tặc Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
+| Scola | スコラ | Scola | Nam ma pháp sư Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
+| Superbia | スペルビア | Superbia | Nam kiếm sĩ Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
+| Filma | フィールマ・パトローノ; フィールマ | Filma | Nữ Ranger tộc Elf Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 
 ## Chi tiết
 
@@ -145,3 +149,21 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Arogan
 - Nam thanh niên trạc 18-22 tuổi, mạo hiểm giả Hạng E tại Gilm.
 - Sở hữu một thanh ma kiếm lưỡi đen hoa văn đỏ, tự tin thái quá và háo thắng.
+
+### Culotte
+- Thiếu nữ trạc 17-19 tuổi, tóc ngắn cắt gọn, mặc giáp da quái vật, hông dắt hai đoản kiếm; nghề nghiệp đạo tặc, chuyên trinh sát và đặt bẫy.
+- Tính cách hơi bốc đồng, sắc sảo, dễ căng thẳng trước bài thi lớn; hay để ý và cự nự vô cớ nhưng là bạn đồng hành ăn ý với Scola.
+
+### Scola
+- Nam thiếu niên trạc 17-19 tuổi, gương mặt mộc mạc chất phác, mặc áo choàng cầm gậy phép; bạn đồng hành tổ đội cùng Culotte.
+- Tính cách hiền lành, biết điều, dễ ngượng ngùng đỏ mặt khi được khen; hay cúi đầu xin lỗi thay cho cô bạn Culotte.
+- Kỹ năng: sử dụng được ma pháp hệ Thủy, Phong và ma pháp hồi phục (thiên phú hiếm có kết hợp cả công kích và hồi phục).
+
+### Superbia
+- Nam thanh niên ngoài 20 tuổi (khoảng 21-22), ánh mắt sắc bén lạnh lùng, trang bị kiếm dài thông thường; tác phong trầm tĩnh, tự tin vào kiếm thuật.
+- Từng có kinh nghiệm thực chiến đoạt mạng người trong quá khứ.
+
+### Filma
+- Nữ Elf có ngoại hình thiếu nữ trạc 17-19 tuổi, gương mặt thanh tú, tai dài nhọn, mang theo cây cung lớn; tên đầy đủ là Filma Patrono, xuất thân quý tộc Elf.
+- Nghề nghiệp: Ranger (hoặc Tinh Linh Ma Pháp Sư), sở hữu tài năng hiếm có kết hợp cung thuật điêu luyện và Tinh Linh Ma Pháp.
+- Tính cách: điềm đạm, đoan trang, tự tin.

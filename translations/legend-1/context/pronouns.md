@@ -35,6 +35,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Bobbs | ông / người đàn ông / Bobbs | 27 | Chỉ huy chiến dịch thảo phạt Orc |
 | Elk | ông / người đàn ông / Elk | 27 | Đội trưởng tổ đội Rìu Lôi Thần |
 | Arogan | Arogan / gã thanh niên / gã | 45 | Mạo hiểm giả Hạng E tự phụ khiêu chiến Rei |
+| Culotte | cô / nữ đạo tặc / Culotte | 46 | Nữ đạo tặc tham gia bài thi thăng hạng |
+| Scola | cậu / Scola / chàng trai | 46 | Nam ma pháp sư tham gia bài thi thăng hạng |
+| Superbia | Superbia / gã / người đàn ông / nam kiếm sĩ | 46 | Nam kiếm sĩ tham gia bài thi thăng hạng |
+| Filma | cô / nữ Elf / Filma | 46 | Nữ Elf Ranger tham gia bài thi thăng hạng |
 
 ## Giữa các nhân vật
 
@@ -118,3 +122,10 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Bobbs | Elk | tôi | cậu / anh / Elk | 39 | Hai mạo hiểm giả kỳ cựu trao đổi thân tình |
 | Arogan | Rei | tôi | cậu | 45 | Mạo hiểm giả ngạo mạn khiêu chiến Rei |
 | Rei | Arogan | tôi | anh | 45 | Đáp trả kẻ kiếm chuyện điềm tĩnh, lạnh nhạt |
+| Culotte | Rei | tôi | cậu / tên này | 46 | Bốc đồng, nghi ngờ và bắt bẻ |
+| Rei | Culotte | tôi | cô | 46 | Điềm đạm, không để bụng |
+| Culotte | Scola | tôi | cậu / Scola | 46 | Bạn đồng hành tổ đội |
+| Scola | Culotte | tôi | cậu / Culotte | 46 | Bạn đồng hành tổ đội |
+| Scola | Rei | tôi | cậu / người này | 46 | Lịch sự, xin lỗi thay cho Culotte |
+| Rei | Scola | tôi | cậu | 46 | Lịch sự, tự nhiên |
+| Gran | * | ta / tôi | các cậu / các người / ngươi / cậu | 46 | Người phụ trách bài thi thăng hạng |

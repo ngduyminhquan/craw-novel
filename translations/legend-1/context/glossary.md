@@ -156,3 +156,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔剣 |  | ma kiếm | vật phẩm | 45 | Kiếm ma thuật, vũ khí chứa ma lực |
 | グレートソード |  | đại kiếm | vật phẩm | 45 | Vũ khí kiếm hai tay cỡ lớn |
 | 地属性 |  | thuộc tính Địa | khác | 22 | Thuộc tính của Ma Thạch/quái vật; không dịch là Thổ |
+| 精霊魔法 |  | Tinh Linh Ma Pháp | kỹ năng | 46 | Ma pháp mượn sức mạnh của các tinh linh; đặc trưng của tộc Elf |
+| レンジャー |  | Ranger | chức nghiệp | 46 | Chức nghiệp chuyên tác chiến tầm xa, di chuyển linh hoạt và trinh sát |
