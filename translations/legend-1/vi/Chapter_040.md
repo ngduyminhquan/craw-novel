@@ -96,7 +96,7 @@ Nghe Bobbs hỏi vậy, trong đầu Elk hiện lên hình ảnh thi thể Orc K
 
 "Nhát chém lấy mạng chặt đứt lìa cổ. Phải có bản lĩnh cỡ nào mới tạo ra vết chém ngọt đến mức ấy thì tôi chịu không tưởng tượng nổi. Ít nhất thì tôi làm không được rồi đấy."
 
-Ông vừa lẩm bẩm vừa đưa mắt nhìn về phía cây chiến rìu, người bạn đồng hành thân thiết đang đặt trong tầm tay với.
+Ông vừa lẩm bẩm vừa đưa mắt nhìn về phía cây rìu chiến, người bạn đồng hành thân thiết đang đặt trong tầm tay với.
 
 Rìu là thứ vũ khí dùng để đập nát chứ không phải để chém ngọt. Nếu bảo đập nát vụn cả cái đầu thì Elk dư sức làm được, nhưng bảo chém một đường sắc lẹm chuẩn xác như Rei thì ông đành chịu.
 
@@ -116,7 +116,7 @@ Rhodes từng kể toán địch định vòng ra tập kích sau lưng nhóm c�
 
 "Này. Ý anh là Rei hạ gục Orc King mà chẳng cần dùng tới toàn lực á?"
 
-"Hẳn là vậy. Dù không loại trừ khả năng cậu ta đã dùng thứ tương tự như Liềm Gió thường thấy ở phong ma pháp... nhưng theo tôi biết thì Rei vốn chuyên về hỏa ma pháp. Khả năng cao là cậu ta vẫn chưa tung hết bài tẩy... Ở trạng thái chưa dốc toàn lực mà đã hạ được Orc King, lại thêm việc thuần phục một con Griffin có Hạng quái vật là A, tính riêng sức chiến đấu thì bảo cậu ta ngang ngửa Hạng A hay Hạng B đâu có gì quá đáng?"
+"Hẳn là vậy. Dù không loại trừ khả năng cậu ta đã dùng thứ tương tự như Liềm Gió thường thấy ở ma pháp hệ Phong... nhưng theo tôi biết thì Rei vốn chuyên về ma pháp hệ Hỏa. Khả năng cao là cậu ta vẫn chưa tung hết bài tẩy... Ở trạng thái chưa dốc toàn lực mà đã hạ được Orc King, lại thêm việc thuần phục một con Griffin có Hạng quái vật là A, tính riêng sức chiến đấu thì bảo cậu ta ngang ngửa Hạng A hay Hạng B đâu có gì quá đáng?"
 
 "...Nếu đúng như thế thì chuẩn thật đấy."
 

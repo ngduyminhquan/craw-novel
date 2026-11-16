@@ -28,7 +28,7 @@ Cách đó một đoạn, Sulunin và Ekril cũng đang xem bảng ủy thác nh
 
 "Này Rei, đằng nào cũng đang tìm ủy thác, hay là cậu nhận chung với bọn tôi đi? Này nhé, có bé Se... ý tôi là, thực lực của Rei đáng tin cậy lắm mà."
 
-Nghe câu đó là Rei hiểu ngay tỏng tòng tong mục đích thật sự của Milein, cậu chỉ biết cười trừ.
+Nghe câu đó là Rei hiểu tỏng mục đích thật sự của Milein, cậu chỉ biết cười trừ.
 
 Bởi lẽ trong số các mạo hiểm giả tham gia đoàn thảo phạt Orc, nếu trừ Rìu Lôi Thần ra thì người đầu tiên thân thiết với Set chính là Milein, mà người mê mẩn Set nhất cũng là cô.
 
@@ -46,7 +46,7 @@ Chắc hẳn thấy vẻ khó xử trên mặt Rei, Sulunin liền cất tiếng
 
 Bị cả Sulunin lẫn Ekril nhắc nhở, Milein phụng phịu, nhưng đúng lúc đó Rei nhìn thấy một tờ giấy ủy thác.
 
-Nội dung ủy thác là điều tra một khu rừng khác nằm gần Rừng Ma, không giới hạn Hạng và cần tuyển 5 người.
+Nội dung ủy thác là điều tra một khu rừng khác nằm gần Rừng Ma, không giới hạn hạng và cần tuyển 5 người.
 
 (Ủy thác này nhận chung với Cơn Gió Rực Lửa được không nhỉ? May mà thành viên Cơn Gió Rực Lửa đều đã trúng Hạt Giống Trừng Phạt, dù mình có để lộ việc muốn lấy Ma Thạch thì họ cũng chẳng gặng hỏi sâu xa gì.)
 
@@ -60,9 +60,9 @@ Nghe Rei nói, Milein nở nụ cười rạng rỡ rồi ghé mắt nhìn vào 
 
 Vừa nhìn chằm chằm vào tờ ủy thác, Milein vừa hỏi các thành viên trong tổ đội.
 
-Vốn dĩ khác với Cơn Gió Rực Lửa mang Hạng C, Rei chỉ mới Hạng E. Trừ khi là loại ủy thác không giới hạn Hạng như tờ Milein đang xem, họ không thể nhận chung ủy thác. Dù Cơn Gió Rực Lửa vẫn có thể nhận ủy thác Hạng E, nhưng mục đích của họ là kiếm tiền, tự dưng đi nhận ủy thác hạng thấp ít thù lao thì thật vô lý.
+Vốn dĩ khác với Cơn Gió Rực Lửa mang Hạng C, Rei chỉ mới Hạng E. Trừ khi là loại ủy thác không giới hạn hạng như tờ Milein đang xem, họ không thể nhận chung ủy thác. Dù Cơn Gió Rực Lửa vẫn có thể nhận ủy thác Hạng E, nhưng mục đích của họ là kiếm tiền, tự dưng đi nhận ủy thác hạng thấp ít thù lao thì thật vô lý.
 
-Hơn nữa, ủy thác không giới hạn Hạng thường là thù lao cực kỳ bèo bọt, hoặc nếu thù lao cao thì độ nguy hiểm cũng tỉ lệ thuận theo. Lần này là điều tra khu rừng gần Rừng Ma, chưa rõ quái vật nào sẽ xuất hiện nên nhiều khả năng thuộc vế sau.
+Hơn nữa, ủy thác không giới hạn hạng thường là thù lao cực kỳ bèo bọt, hoặc nếu thù lao cao thì độ nguy hiểm cũng tỉ lệ thuận theo. Lần này là điều tra khu rừng gần Rừng Ma, chưa rõ quái vật nào sẽ xuất hiện nên nhiều khả năng thuộc vế sau.
 
 Ủy thác thảo phạt bộ lạc Orc mà Rei và Cơn Gió Rực Lửa từng tham gia cũng thuộc dạng này.
 
@@ -100,7 +100,7 @@ Thanh kiếm bên hông gã đàn ông đang sải bước thẳng về phía c�
 
 "Tôi là Arogan. Mạo hiểm giả Hạng E."
 
-Mạo hiểm giả Hạng E. Tức là cùng Hạng với Rei.
+Mạo hiểm giả Hạng E. Tức là cùng hạng với Rei.
 
 Dù rằng Rei chỉ là lính mới vừa lên Hạng E ngày hôm qua.
 
@@ -148,7 +148,7 @@ Vốn Arogan đinh ninh hễ bị khiêu khích thì đối phương nhất đ�
 
 Tiếng bàn tán xì xào của các mạo hiểm giả trong Hội vang lên khắp xung quanh, nhưng Arogan mải trừng mắt nhìn Rei nên chẳng nghe thấy gì.
 
-Ánh mắt các mạo hiểm giả nhìn Arogan tựa như nhìn một dũng giả. Có điều, 'dũng giả' ở đây theo nghĩa kẻ chỉ cầm mỗi cây gậy gỗ mà dám lao thẳng vào rồng.
+Ánh mắt các mạo hiểm giả nhìn Arogan tựa như nhìn một dũng sĩ. Có điều, 'dũng sĩ' ở đây theo nghĩa kẻ chỉ cầm mỗi cây gậy gỗ mà dám lao thẳng vào rồng.
 
 Dù sao ngay ngày đầu đăng ký ở Hội, Rei đã một mình áp đảo tổ đội Hạng D Móng Vuốt Chim Ưng, lột sạch tiền bạc lẫn trang bị của họ, hành động ấy muốn không nổi bật cũng khó. Nhờ thế mà đến giờ Móng Vuốt Chim Ưng vẫn phải đầu tắt mặt tối làm lụng trả nợ cho Hội. Với những mạo hiểm giả không muốn rước họa vào thân, dù trông mảnh khảnh yếu ớt, Rei đã bị xem như một cửa ải chớ dại đụng vào.
 

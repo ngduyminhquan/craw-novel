@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T09:33:35Z",
+  "generatedAt": "2026-11-16T09:37:19Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2386,25 +2386,25 @@
           "number": 39,
           "title": "Chương 39: Đột kích bộ lạc Orc (39)",
           "path": "translations/legend-1/vi/Chapter_039.md",
-          "sha": "95c037290165fd96279af0c7ec514c40eb60f41c"
+          "sha": "eed6d62cbbee38653d1e6b481de09da87900e529"
         },
         {
           "number": 40,
           "title": "Chương 40: Đột kích bộ lạc Orc (40)",
           "path": "translations/legend-1/vi/Chapter_040.md",
-          "sha": "f42354b46827a1d26ee7219746b821d499bf2964"
+          "sha": "c4c3d6d6c8b4527fbac210a360fc9ecfea97c0e8"
         },
         {
           "number": 41,
           "title": "Chương 41: Đột kích bộ lạc Orc (41)",
           "path": "translations/legend-1/vi/Chapter_041.md",
-          "sha": "af6ee882160dd1bd8a6b027cb7b14f1e821e7d8e"
+          "sha": "f01ae81ff2b1edde9c47ac2506e88811783f583a"
         },
         {
           "number": 42,
           "title": "Chương 42: Đột kích bộ lạc Orc (42)",
           "path": "translations/legend-1/vi/Chapter_042.md",
-          "sha": "de759e91ba42b9bef17c58b81df66cd221cef29f"
+          "sha": "06a7912430ad803e0a5af4c421e032b195bdcdee"
         },
         {
           "number": 43,
@@ -2416,13 +2416,13 @@
           "number": 44,
           "title": "Chương 44: Bài thi thăng hạng (44)",
           "path": "translations/legend-1/vi/Chapter_044.md",
-          "sha": "7fc5cbca9d7ff2697bf50e6f042645d5c8769736"
+          "sha": "52ff9160ab57ba58be2a572c11bef350f2226fa7"
         },
         {
           "number": 45,
           "title": "Chương 45: Bài thi thăng hạng (45)",
           "path": "translations/legend-1/vi/Chapter_045.md",
-          "sha": "6b98c0a78f7c004266ce2002fa245eedb8faf6a2"
+          "sha": "81ca9a185bcfee89dbe85cbad9bf749b62e81e8e"
         }
       ]
     },

@@ -2,7 +2,7 @@
 
 Hôm đó, vị quý tộc cai quản thành phố Gilm là Bá tước biên cảnh Rowlocks thức dậy với tâm trạng tồi tệ chưa từng thấy.
 
-Chẳng là kể từ khi nhận được tin báo lũ Orc dựng bộ lạc ở nơi cách thành phố Gilm chỉ chừng một ngày đi bộ, cả thành phố bao gồm cả đoàn hiệp sĩ đều phải bước vào trạng thái sẵn sàng chiến đấu. Phần lớn mạo hiểm giả lão luyện đều tham gia đội thảo phạt Orc, kéo theo đó là hàng núi giấy tờ cần xử lý để hỗ trợ công tác này, trong khi ông vẫn phải giải quyết công vụ thường nhật với tư cách lãnh chúa. Đã vậy, giữa lúc nước sôi lửa bỏng này, Vương đô lại gửi tới một bức thư, khiến mấy ngày qua quả thực là chuỗi ngày bận đến tối tăm mặt mũi.
+Chẳng là kể từ khi nhận được tin báo lũ Orc dựng bộ lạc ở nơi cách thành phố Gilm chỉ chừng một ngày đi bộ, cả thành phố bao gồm cả đoàn hiệp sĩ đều phải bước vào trạng thái sẵn sàng chiến đấu. Phần lớn mạo hiểm giả lão luyện đều tham gia đội thảo phạt Orc, kéo theo đó là hàng núi giấy tờ cần xử lý để hỗ trợ công tác này, trong khi ông vẫn phải giải quyết công vụ thường nhật với tư cách lãnh chúa. Đã vậy, giữa lúc nước sôi lửa bỏng này, vương đô lại gửi tới một bức thư, khiến mấy ngày qua quả thực là chuỗi ngày bận đến tối tăm mặt mũi.
 
 Niềm an ủi duy nhất có lẽ là khoảng thời gian bận rộn này có hạn định rõ ràng, chỉ kéo dài cho tới khi chiến dịch thảo phạt Orc kết thúc. Chứ nếu bảo duy trì tình trạng này suốt một tháng, e rằng đến cả Bá tước biên cảnh Rowlocks cũng phải buông xuôi bỏ dở công việc.
 
@@ -46,7 +46,7 @@ Phụ nữ bị bắt giữ trong bộ lạc Orc. Chỉ chừng đó thôi cũng
 
 "Dù vậy, bộ lạc của lũ Orc đã được dọn dẹp êm đẹp... rồi sao."
 
-Bá tước biên cảnh Rowlocks thở phào nhẹ nhõm. Nếu đội thảo phạt thất bại trước bầy Orc, thành phố này gần như chẳng còn đủ lực lượng để đương đầu. Khi ấy, ông sẽ buộc phải liên lạc với Vương đô để xin viện binh từ Phe Quý Tộc hoặc Phe Quốc Vương, dù biết thừa về sau sẽ phải chịu trăm bề bất lợi.
+Bá tước biên cảnh Rowlocks thở phào nhẹ nhõm. Nếu đội thảo phạt thất bại trước bầy Orc, thành phố này gần như chẳng còn đủ lực lượng để đương đầu. Khi ấy, ông sẽ buộc phải liên lạc với vương đô để xin viện binh từ Phe Quý Tộc hoặc Phe Quốc Vương, dù biết thừa về sau sẽ phải chịu trăm bề bất lợi.
 
 (Nghĩ lại thì bức thư đó biết đâu chừng lại là một cơ may theo khía cạnh nào đó.)
 
@@ -132,7 +132,7 @@ Trước lời thì thầm của Bá tước biên cảnh Rowlocks, người th�
 
 "Ừ. Một nhân vật có thể xem là biểu tượng cho chiến dịch thảo phạt Orc lần này."
 
-Khoảnh khắc ấy, có hai cái tên hiện lên trong đầu ông. Một là Elk, thủ lĩnh tổ đội mạo hiểm giả Hạng A cừ khôi Rìu Lôi Thần của thành phố Gilm. Nhờ công việc, Bá tước biên cảnh Rowlocks đã vài lần gặp mặt nên nắm khá rõ tính cách của anh ta. Ông hoàn toàn có thể kỳ vọng Elk sẽ thấu hiểu ý định của mình trong sự vụ lần này.
+Khoảnh khắc ấy, có hai cái tên hiện lên trong đầu ông. Một là Elk, thủ lĩnh tổ đội mạo hiểm giả Hạng A cừ khôi Rìu Lôi Thần của thành phố Gilm. Nhờ công việc, Bá tước biên cảnh Rowlocks đã vài lần gặp mặt nên nắm khá rõ tính cách của ông. Ông hoàn toàn có thể kỳ vọng Elk sẽ thấu hiểu ý định của mình trong sự vụ lần này.
 
 Cái tên thứ hai là Rei, người được cho là đã hạ gục Orc King. Ông vẫn chưa gặp mặt cậu lần nào, chỉ mới biết qua thông tin trên giấy tờ và lời kể lại từ người khác.
 

@@ -155,3 +155,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 王の威圧 |  | Uy Áp Vương Giả | kỹ năng | 44 | Kỹ năng giảm khoảng 10% tốc độ của kẻ địch yếu hơn bản thân, Set học được từ Ma Thạch Orc King |
 | 魔剣 |  | ma kiếm | vật phẩm | 45 | Kiếm ma thuật, vũ khí chứa ma lực |
 | グレートソード |  | đại kiếm | vật phẩm | 45 | Vũ khí kiếm hai tay cỡ lớn |
+| 地属性 |  | thuộc tính Địa | khác | 22 | Thuộc tính của Ma Thạch/quái vật; không dịch là Thổ |

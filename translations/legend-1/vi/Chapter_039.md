@@ -68,7 +68,7 @@ Nhìn cái xác quái vật, Bobbs quay phắt lại nhìn Rei. Quả không h�
 
 Bobbs vừa lẩm bẩm vừa gật gù. Thấy vậy, Rei thoáng nghĩ hay cứ để mặc cho ông hiểu lầm như thế cũng được; nhưng rồi cậu nhận định nếu để Hội biết mình đã hạ Orc King thì sẽ dễ thăng hạng mạo hiểm giả hơn, nên quyết định nói thật diễn biến việc hạ gục Orc King.
 
-(Vả lại, chắc nhóm Cơn Gió Rực Lửa... hay đúng hơn là cỡ nào Milein cũng sẽ bô bô kể chuyện mình hạ nó ra ngoài thôi.)
+(Vả lại, chắc nhóm Cơn Gió Rực Lửa... hay đúng hơn là thế nào Milein cũng sẽ bô bô kể chuyện mình hạ nó ra ngoài thôi.)
 
 Ma pháp cậu đã thi triển lên nhóm Milein là Hạt Giống Trừng Phạt, thứ cấm họ tiết lộ ra ngoài thông tin về Hơi Thở Lửa và Thủy Cầu của Set, cũng như kỹ năng Ăn Mòn mà Rei đã dùng, chứ đâu có cấm nói chuyện Rei hạ Orc King. Bởi vậy cậu đoán trước sau gì tin tức ai đã hạ nó cũng sẽ lan truyền ra thôi.
 
@@ -128,7 +128,7 @@ Thấy Set cất tiếng kêu bực dọc, Rei cũng cười trừ giống Elk r
 
 "Gừưưư."
 
-Như thể bảo đành chịu vậy, nó vẫy đuôi một cái rồi nằm sải lai ở một góc cách đó một quãng.
+Như thể bảo đành chịu vậy, nó vẫy đuôi một cái rồi nằm dài ở một góc cách đó một quãng.
 
 "Mà Set có thái độ như thế cũng phải thôi. Kẻ mạnh là mạnh, nếu thằng nhóc nhà tôi chịu thẳng thắn thừa nhận điều đó thì nó đã trưởng thành thêm một bậc rồi..."
 

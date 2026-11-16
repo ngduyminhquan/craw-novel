@@ -14,7 +14,7 @@ Nửa thân dưới là sư tử, nửa thân trên là đại bàng, trên lưn
 
 "Griffin ư!?"
 
-Đi thảo phạt Orc, cớ sao lại dắt về một con quái vật hung bạo hơn thế kia? Câu hỏi ấy vừa thoáng lướt qua tâm trí, gã gần như theo phản xạ định bỏ chạy... thì bị người đàn ông biết tên Elk tóm ngay lấy cổ áo.
+Đi thảo phạt Orc, cớ sao lại dắt về một con quái vật hung bạo hơn thế kia? Câu hỏi ấy vừa thoáng lướt qua tâm trí, gã gần như theo phản xạ định bỏ chạy... thì bị anh bạn vừa nhắc tên Elk tóm ngay lấy cổ áo.
 
 "Này! Làm cái gì thế? Phải chạy mau chứ!"
 
@@ -74,7 +74,7 @@ Vừa cười trừ, anh bạn vừa gõ nhẹ vào đầu gã.
 
 Gã vừa nhìn bóng dáng người phụ nữ đang nhận những tiếng reo hò the thé của các thiếu nữ đứng xem diễu hành, vừa quay sang hỏi anh bạn bên cạnh.
 
-"Đó hình như là... Milein, người chỉ huy tổ đội Hạng C Cơn Gió Rực Lửa. Thuộc phái thực lực trong lớp mạo hiểm giả trẻ, nên như cậu thấy đấy, cô ấy được các cô gái hâm mộ gọi là 'chị gái' như thế."
+"Đó hình như là... Milein, người chỉ huy tổ đội Hạng C Cơn Gió Rực Lửa. Cô thuộc lứa mạo hiểm giả trẻ có thực lực, nên như cậu thấy đấy, cô ấy được các cô gái hâm mộ gọi là 'chị gái' như thế."
 
 "'Chị gái' cơ đấy."
 

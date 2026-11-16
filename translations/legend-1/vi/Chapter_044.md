@@ -8,7 +8,7 @@ Ngay sau khi hạ gục lũ Orc, cậu đã thu trọn xác chúng vào Nhẫn S
 
 ...Có điều, lúc đó do bận rộn đủ thứ việc nên cơ hội để Set thưởng thức đống thịt đành phải gác lại.
 
-Dù xét theo phân loại thì Orc là bán nhân, nhưng hiển nhiên ở thế giới này chẳng ai bận tâm chuyện đó... Hay nói đúng hơn, thịt của lũ Orc Hạng D và các chủng cấp cao chứa nhiều ma lực hơn thịt của những quái vật hạng thấp thường thấy trên thị trường nên rất thơm ngon, ngay cả các tiệm thịt trong thành phố cũng có bán một lượng nhất định, đó là điều Rei từng được nghe Elk kể lại.
+Dù xét theo phân loại thì Orc là á nhân, nhưng hiển nhiên ở thế giới này chẳng ai bận tâm chuyện đó... Hay nói đúng hơn, thịt của lũ Orc Hạng D và các chủng cấp cao chứa nhiều ma lực hơn thịt của những quái vật hạng thấp thường thấy trên thị trường nên rất thơm ngon, ngay cả các tiệm thịt trong thành phố cũng có bán một lượng nhất định, đó là điều Rei từng được nghe Elk kể lại.
 
 "Này!"
 
@@ -76,7 +76,7 @@ Tương tự như lúc nãy, Rei ném viên Ma Thạch của Orc Archer đi, và
 
 Và rồi, âm thanh thông báo vang lên trong tâm trí cậu.
 
-"Học được rồi à. Cơ mà, Mũi Tên Gió ư? Xét việc tên kỹ năng của Set là Thủy Cầu với Hơi Thở Lửa, mình cứ ngỡ sẽ thành Phong Tiễn hay gì đó chứ... Mà thôi, chắc là sở thích của Takumu rồi. Quan trọng hơn là Ma Thạch của Orc có màu vàng, tức là Ma Thạch mang thuộc tính Thổ. Thế mà lại học được kỹ năng hệ Phong? Do đây là Ma Thạch của Orc Archer sao? Set, dùng thử Mũi Tên Gió nhắm vào cái cây đằng kia xem nào."
+"Học được rồi à. Cơ mà, Mũi Tên Gió ư? Xét việc tên kỹ năng của Set là Thủy Cầu với Hơi Thở Lửa, mình cứ ngỡ sẽ thành Phong Tiễn hay gì đó chứ... Mà thôi, chắc là sở thích của Takumu rồi. Quan trọng hơn là Ma Thạch của Orc có màu vàng, tức là Ma Thạch mang thuộc tính Địa. Thế mà lại học được kỹ năng hệ Phong? Do đây là Ma Thạch của Orc Archer sao? Set, dùng thử Mũi Tên Gió nhắm vào cái cây đằng kia xem nào."
 
 "Gùuu!"
 
@@ -228,7 +228,7 @@ Chuyện đã lỡ rồi thì đành chịu, cậu thở dài thườn thượt 
 
 Thứ cậu lấy ra từ Nhẫn Sương Mù là một viên Ma Thạch lớn hơn chừng một vòng so với Ma Thạch của Gấu Nước, vốn là viên to nhất mà cậu từng thấy từ trước tới nay.
 
-Cầm viên Ma Thạch màu vàng mang thuộc tính Thổ trên tay, cậu nhìn qua nhìn lại giữa Lưỡi Hái Tử Thần và Set một hồi. Lát sau, cậu khẽ gật đầu rồi cất tiếng gọi Set.
+Cầm viên Ma Thạch màu vàng mang thuộc tính Địa trên tay, cậu nhìn qua nhìn lại giữa Lưỡi Hái Tử Thần và Set một hồi. Lát sau, cậu khẽ gật đầu rồi cất tiếng gọi Set.
 
 "Set, viên Ma Thạch của Orc King mày hãy hấp thụ đi."
 
