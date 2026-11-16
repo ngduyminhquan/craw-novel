@@ -40,7 +40,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 44: Thẻ Hội Hạng E; cùng Set hoàn tất hấp thụ Ma Thạch từ bộ lạc Orc (Lưỡi Hái Tử Thần học thêm Phi Trảm và Khiên Ma Thuật, Set nâng cấp Hơi Thở Lửa Lv.2 và học Mũi Tên Gió, Uy Áp Vương Giả); quay lại Gilm chuẩn bị thi thăng Hạng D.
+- Trạng thái tính đến chương 45: Thẻ Hội Hạng E; cùng Set hoàn tất hấp thụ Ma Thạch từ bộ lạc Orc (Lưỡi Hái Tử Thần học thêm Phi Trảm và Khiên Ma Thuật, Set nâng cấp Hơi Thở Lửa Lv.2 và học Mũi Tên Gió, Uy Áp Vương Giả); vừa đánh bật ma kiếm của mạo hiểm giả Hạng E Arogan trước cổng Hội Gilm.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.

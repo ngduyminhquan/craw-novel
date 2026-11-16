@@ -152,7 +152,7 @@ Dù mang theo nỗi hoài nghi, cậu vẫn thử thủ thế Lưỡi Hái Tử 
 
 "Khiên Ma Thuật!"
 
-Cùng lúc với tiếng hô của Rei, một tấm vật thể tựa như chiếc khiên ánh sáng hiện ra trước mắt cậu. Nhìn thấy thế, vừa vung Lưỡi Hái Tử Thần, cậu vừa tập trung ý nghĩ điều khiển tấm khiên ánh sáng di chuyển sao cho không gây cản trở. Ngay lập tức, tấm khiên ánh sáng tự động dịch chuyển tới vị trí không vướng vào đường vung của chiếc lưỡi hái.
+Cùng lúc với tiếng hô của Rei, một thứ trông như tấm khiên ánh sáng hiện ra trước mắt cậu. Nhìn thấy thế, vừa vung Lưỡi Hái Tử Thần, cậu vừa tập trung ý nghĩ điều khiển tấm khiên ánh sáng di chuyển sao cho không gây cản trở. Ngay lập tức, tấm khiên ánh sáng tự động dịch chuyển tới vị trí không vướng vào đường vung của chiếc lưỡi hái.
 
 Vừa múa Lưỡi Hái Tử Thần vừa quan sát kỹ cơ chế đó, Rei dừng động tác lại rồi cho Khiên Ma Thuật biến mất.
 
@@ -238,7 +238,7 @@ Như muốn hỏi thật sao, Set nghiêng đầu phát ra tiếng gừ trong c�
 
 Thấy vẻ mặt đó của nó, Rei mỉm cười gật đầu.
 
-"Ừ. Lưỡi Hái Tử Thần đã có cả Ăn Mòn, Phi Trảm lẫn Khiên Ma Thuật rồi. Một khi đã có được đòn tầm xa ngoài đòn tấn công ma pháp vốn là điểm yếu, thì viên Ma Thạch Orc King để mày hấp thụ sẽ tốt hơn. Này."
+"Ừ. Lưỡi Hái Tử Thần đã có cả Ăn Mòn, Phi Trảm lẫn Khiên Ma Thuật rồi. Điểm yếu thiếu đòn tấn công tầm xa ngoài ma pháp giờ cũng đã khắc phục được, nên viên Ma Thạch Orc King để mày hấp thụ sẽ tốt hơn. Này."
 
 Rei nhẹ nhàng thảy viên Ma Thạch Orc King đi, và Set cũng đớp lấy rồi nuốt chửng như những lần trước.
 
@@ -248,7 +248,7 @@ Hoặc có lẽ lời cầu nguyện trong lòng của Rei đã được đáp l
 
 [Set đã học được kỹ năng "Uy Áp Vương Giả Lv.1"]
 
-Trước sự thật là Set đã học được kỹ năng, Rei mới thở phào nhẹ nhõm.
+Thấy Set đã học được kỹ năng, Rei mới thở phào nhẹ nhõm.
 
 Thế nhưng ngay sau đó, cậu lại phải nghiêng đầu băn khoăn.
 

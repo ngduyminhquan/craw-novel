@@ -48,7 +48,7 @@ Bị cả Sulunin lẫn Ekril nhắc nhở, Milein phụng phịu, nhưng đúng
 
 Nội dung ủy thác là điều tra một khu rừng khác nằm gần Rừng Ma, không giới hạn Hạng và cần tuyển 5 người.
 
-(Kèo này nhận chung với Cơn Gió Rực Lửa được không nhỉ? May mà thành viên Cơn Gió Rực Lửa đều đã trúng Hạt Giống Trừng Phạt, dù mình có để lộ việc muốn lấy Ma Thạch thì họ cũng chẳng gặng hỏi sâu xa gì).
+(Ủy thác này nhận chung với Cơn Gió Rực Lửa được không nhỉ? May mà thành viên Cơn Gió Rực Lửa đều đã trúng Hạt Giống Trừng Phạt, dù mình có để lộ việc muốn lấy Ma Thạch thì họ cũng chẳng gặng hỏi sâu xa gì.)
 
 "Milein, nếu là ủy thác này thì tôi nhận cùng các cô cũng được, cô tính sao?"
 
@@ -88,7 +88,7 @@ Tuổi đời chừng cuối thiếu niên đến đầu đôi mươi. Trang b�
 
 (Ma kiếm à?)
 
-Cây rìu chiến của Vargas nhóm Móng Vuốt Chim Ưng. Cây chiến phủ của Elk nhóm Rìu Lôi Thần. Và cả thanh đại kiếm của Orc King. Tất cả đều là những vũ khí ẩn chứa ma lực, tức Đạo Cụ Ma Thuật. Do mang trong mình ma lực nên chúng luôn có nét thu hút ánh nhìn, vì thế dù không có năng lực cảm tri ma lực, Rei vẫn lờ mờ nhận ra đó là một dạng Đạo Cụ Ma Thuật.
+Cây rìu chiến của Vargas nhóm Móng Vuốt Chim Ưng. Cây rìu chiến lớn của Elk nhóm Rìu Lôi Thần. Và cả thanh đại kiếm của Orc King. Tất cả đều là những vũ khí ẩn chứa ma lực, tức Đạo Cụ Ma Thuật. Do mang trong mình ma lực nên chúng luôn có nét thu hút ánh nhìn, vì thế dù không có năng lực cảm tri ma lực, Rei vẫn lờ mờ nhận ra đó là một dạng Đạo Cụ Ma Thuật.
 
 Thanh kiếm bên hông gã đàn ông đang sải bước thẳng về phía cậu cũng tỏa ra bầu không khí tương tự, giúp cậu đoán được đó là thanh kiếm Đạo Cụ Ma Thuật, hay nói cách khác là một thanh ma kiếm.
 
@@ -114,7 +114,7 @@ Dù rằng Rei chỉ là lính mới vừa lên Hạng E ngày hôm qua.
 
 Gã ghé sát nhìn mặt Rei như muốn bảo 'khó tin lắm đúng không', nhưng hành động đó rõ ràng xuất phát từ việc gã thừa biết Rei chính là kẻ trong lời đồn đã hạ Orc King.
 
-(Ghen tị à? Mà đằng nào cũng chẳng cần phải đôi co nghiêm túc làm gì).
+(Ghen tị à? Mà đằng nào cũng chẳng cần phải đôi co nghiêm túc làm gì.)
 
 Cậu thầm nghĩ trong bụng rồi cố tình buông tiếng thở dài rõ to.
 
@@ -152,7 +152,7 @@ Tiếng bàn tán xì xào của các mạo hiểm giả trong Hội vang lên k
 
 Dù sao ngay ngày đầu đăng ký ở Hội, Rei đã một mình áp đảo tổ đội Hạng D Móng Vuốt Chim Ưng, lột sạch tiền bạc lẫn trang bị của họ, hành động ấy muốn không nổi bật cũng khó. Nhờ thế mà đến giờ Móng Vuốt Chim Ưng vẫn phải đầu tắt mặt tối làm lụng trả nợ cho Hội. Với những mạo hiểm giả không muốn rước họa vào thân, dù trông mảnh khảnh yếu ớt, Rei đã bị xem như một cửa ải chớ dại đụng vào.
 
-Thêm vào đó, như mọi người xung quanh vừa chứng kiến, cậu rất thân thiết với Cơn Gió Rực Lửa – tổ đội Hạng C đang nổi lên như những gương mặt trẻ đầy thực lực, lại còn có mối quan hệ với tổ đội Hạng A Rìu Lôi Thần. ...Và trên hết, phần lớn mạo hiểm giả có mặt đều hình dung ra bóng dáng chú Griffin hẳn đang đợi ngoài Hội.
+Thêm vào đó, như mọi người xung quanh vừa chứng kiến, cậu rất thân thiết với Cơn Gió Rực Lửa, tổ đội Hạng C đang nổi lên như những gương mặt trẻ đầy thực lực, lại còn có mối quan hệ với tổ đội Hạng A Rìu Lôi Thần. ...Và trên hết, phần lớn mạo hiểm giả có mặt đều hình dung ra bóng dáng chú Griffin hẳn đang đợi ngoài Hội.
 
 Quái vật Hạng A, Griffin. Đối địch với Rei đồng nghĩa với việc tự khắc trở thành kẻ thù của Tử Thần Bầu Trời kia.
 
@@ -162,13 +162,13 @@ Theo một nghĩa nào đó, đây cũng có thể coi là cái giá của sự 
 
 "Tóm lại, cậu cứ đấu với tôi là được. Làm vậy thì tôi cũng công nhận thực lực của cậu. Hay là sao? Hạ được Orc King mà lại không đủ tự tin thắng nổi một mạo hiểm giả Hạng E như tôi à?"
 
-(Ra thế. Lại là kiểu người giống Ceryl của Ngôi Sao Màn Đêm rồi).
+(Ra thế. Lại là kiểu người giống Ceryl của Ngôi Sao Màn Đêm rồi.)
 
 Kiểu người chỉ tin những gì mình muốn tin, và mặc định điều đó mới là sự thật.
 
-Điểm khác duy nhất là gã chưa đến mức mục ruỗng như mụ ta. Đập tan sự tự tin thái quá này ngay tại đây thì chắc gã sẽ không đi vào vết xe đổ của Ceryl – Rei thầm đánh giá.
+Điểm khác duy nhất là gã chưa đến mức mục ruỗng như ả. Đập tan sự tự tin thái quá này ngay tại đây thì chắc gã sẽ không đi vào vết xe đổ của Ceryl, Rei thầm đánh giá.
 
-(Dù mình chẳng việc gì phải nhọc công làm chuyện đó...).
+(Dù mình chẳng việc gì phải nhọc công làm chuyện đó...)
 
 "Tôi đã bảo rồi, chuyện tôi thắng được anh hay không là một lẽ. Tôi đang bảo anh đưa ra cái lợi để tôi nhận lời giao đấu cơ mà."
 
@@ -204,7 +204,7 @@ Chắc hẳn đã nghe phong thanh việc Rei sở hữu Hộp Vật Phẩm, gã
 
 Phớt lờ bộ dạng đó, Rei quan sát kỹ lưỡng thanh kiếm trên tay Arogan.
 
-(Ra thế, sự tự tin thái quá đó là nhờ thanh ma kiếm kia. Mình không nghĩ một mạo hiểm giả Hạng E lại sở hữu được thanh ma kiếm cỡ đó... Không biết kiếm đâu ra nhỉ).
+(Ra thế, sự tự tin thái quá đó là nhờ thanh ma kiếm kia. Mình không nghĩ một mạo hiểm giả Hạng E lại sở hữu được thanh ma kiếm cỡ đó... Không biết kiếm đâu ra nhỉ.)
 
 Thanh ma kiếm của Arogan có lưỡi kiếm màu đen nổi bật những đường hoa văn màu đỏ. Áp lực tỏa ra từ thân kiếm đủ để người ta cảm nhận nó ẩn chứa sức mạnh không hề tầm thường.
 
@@ -220,7 +220,7 @@ Xét theo tiêu chuẩn mạo hiểm giả Hạng E thì chắc hẳn gã cũng 
 
 Khẽ lùi lại một bước về sau, đợi mũi kiếm của Arogan vừa sượt qua trước mắt, Rei vung Lưỡi Hái Tử Thần xúc ngược từ dưới lên để đón đỡ thanh ma kiếm. Đồng thời, cậu dùng mặt trong lưỡi hái quấn lấy thân kiếm... hất tung lên trời!
 
-Tiếng "keng" đanh gọn khi Lưỡi Hái Tử Thần va chạm với ma kiếm vang dội khắp bốn phía. Ngay khoảnh khắc tiếp theo, thanh ma kiếm trên tay Arogan đã bay vút lên không trung, xoay tròn theo một đường vòng cung rồi cắm phập lưỡi kiếm xuống mặt đất ngay cạnh gã.
+Tiếng keng đanh gọn khi Lưỡi Hái Tử Thần va chạm với ma kiếm vang dội khắp bốn phía. Ngay khoảnh khắc tiếp theo, thanh ma kiếm trên tay Arogan đã bay vút lên không trung, xoay tròn theo một đường vòng cung rồi cắm phập lưỡi kiếm xuống mặt đất ngay cạnh gã.
 
 Diễn biến xảy ra quá đỗi chóng vánh và chênh lệch khiến cả Arogan lẫn đám đông xung quanh lặng ngắt như tờ.
 

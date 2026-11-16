@@ -102,7 +102,7 @@ Kenny vừa gặng hỏi vừa ưỡn khuôn ngực đầy tự hào của mình
 
 "Lượng đồ nhiều thế này sẽ mất chút thời gian đấy, cậu đợi một lát nhé."
 
-Biết số lượng nhiều thế này thì đành chịu, cậu gật đầu rồi quay sang ngắm nghía bảng thông báo dán giấy ủy thác để giết thời gian trong lúc chờ thẩm định và giám định xong xuôi.
+Biết số lượng nhiều thế này thì đành chịu, cậu gật đầu rồi quay sang ngắm nghía bảng thông báo dán giấy ủy thác để giết thời gian trong lúc chờ định giá và giám định xong xuôi.
 
 (Dù sao hôm nay mình cũng được thăng lên Hạng E theo như lời thông báo rồi, vậy trước hết cứ xem mấy con quái vật cần thảo phạt của Hạng D và E đã.)
 
@@ -118,7 +118,7 @@ Tò mò trước cái tên kỳ lạ, Rei liền lấy cuốn từ điển quái
 
 [Thằn Lằn Rồng]
 
-Tuy trong tên có chữ "rồng", nhưng về mặt chủng tộc thì đây là một loài thằn lằn cỡ lớn. Sở dĩ có tên là rồng chỉ vì kích thước của nó nhỉnh hơn một người trưởng thành một chút. Đã là thằn lằn thì dĩ nhiên nó không biết phun đòn hơi thở như lửa, nhưng những đòn tấn công bằng thân hình đồ sộ đó lại có uy lực rất đáng gờm nên cần phải cẩn trọng.
+Tuy trong tên có chữ "rồng", nhưng về mặt chủng tộc thì đây là một loài thằn lằn cỡ lớn. Sở dĩ có tên là rồng chỉ vì kích thước của nó nhỉnh hơn một người trưởng thành một chút. Đã là thằn lằn thì dĩ nhiên nó không biết phun hơi thở lửa hay đại loại thế, nhưng những đòn tấn công bằng thân hình đồ sộ đó lại có uy lực rất đáng gờm nên cần phải cẩn trọng.
 
 Độc tính tuy yếu nhưng răng nanh của nó có chứa chất độc, nếu bị cắn thì cử động sẽ trở nên chậm chạp. Có lẽ do là thằn lằn nên điểm yếu của nó là ma pháp hệ Băng. Ngoài ra, cảm giác đau đớn khá tê liệt nên vài vết thương xoàng xĩnh sẽ không làm nó nao núng. Đây là quái vật Hạng E, bộ phận xác nhận thảo phạt là chóp đuôi. Giá thu mua là 1 đồng bạc. Đáng chú ý, thịt của loài này rất đậm vị và được giới sành ăn ưa chuộng.
 
@@ -212,7 +212,7 @@ Nhìn thứ hạng hiển thị trên Thẻ Hội đã đổi từ G sang E, Ran
 
 Thấy vậy, Ranga mỉm cười hài lòng rồi trao trả Thẻ Hội lại cho Rei.
 
-"Thẻ Hội của cậu đây ạ. ...Cậu Rei này."
+"Thẻ Hội của cậu đây nhé. ...Cậu Rei này."
 
 "Có chuyện gì thế?"
 
@@ -220,7 +220,7 @@ Thấy vậy, Ranga mỉm cười hài lòng rồi trao trả Thẻ Hội lại 
 
 Thấy Ranga cúi đầu gập người chào, Rei thoáng ngẩn người ngạc nhiên nhưng rồi nhanh chóng bật cười gượng.
 
-"Đừng bận tâm. Đối với tôi thì ủy thác này cũng mang lại nhiều thu hoạch. Như anh vừa nói đấy, thứ hạng của tôi cũng tăng rồi. Vả lại tôi cũng là người đang định cư ở thành phố Gilm này. Tránh được mối hiểm họa do lũ Orc gây ra cho thành phố cũng là điều may mắn rồi."
+"Đừng bận tâm. Đối với tôi thì ủy thác này cũng mang lại nhiều thu hoạch. Như ông vừa nói đấy, thứ hạng của tôi cũng tăng rồi. Vả lại tôi cũng là người đang định cư ở thành phố Gilm này. Tránh được mối hiểm họa do lũ Orc gây ra cho thành phố cũng là điều may mắn rồi."
 
 Khẽ vẫy tay chào, cậu cùng Set đi ra một quãng cách xa thành phố rồi trèo lên lưng nó.
 
