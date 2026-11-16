@@ -1,134 +1,134 @@
 # Chương 16: Đột kích bộ lạc Orc (16)
 
-Ngày hôm sau kể từ khi Rei đặt chân tới thành phố Gilm. Ăn sáng xong và chuẩn bị tươm tất mọi thứ để ra ngoài, Rei liền rảo bước tới khu chuồng thú.
+Ngày hôm sau khi Rei tới thành phố Gilm. Ăn sáng và chuẩn bị đồ đạc xong xuôi, Rei đi thẳng ra khu chuồng thú.
 
 "Grrr!"
 
-Thấy Rei bước vào chuồng thú, Set khẽ gừ lên trong họng đầy vẻ mừng rỡ.
+Thấy Rei bước vào chuồng thú, Set khẽ gừ lên trong cổ họng đầy vẻ mừng rỡ.
 
 "Đêm qua ngủ có ngon không?"
 
 "Gùuu."
 
-Như muốn bảo mình đang tràn trề sinh lực, Set vươn vai một cái. Cậu khẽ mỉm cười, đưa tay gãi nhè nhẹ lên đầu nó.
+Set vươn vai một cái như muốn bảo mình đang khỏe re. Rei mỉm cười, đưa tay gãi nhẹ lên đầu nó.
 
-"Thế à. Vậy hôm nay tính sao đây? Nghe bảo ở đây có thư viện nên tao định qua đó tra cứu vài thứ... Mày muốn ở lại đây, hay đi thư viện cùng tao? Cơ mà chắc mày cũng chẳng vào trong thư viện được đâu, nên khéo lại phải nằm đợi ở ngoài giống như bên Hội Mạo Hiểm Giả hôm qua đấy."
+"Thế à. Vậy hôm nay tính sao đây? Nghe bảo ở đây có thư viện nên tao định qua đó tra cứu vài thứ... Mày muốn ở lại đây, hay đi thư viện cùng tao? Cơ mà chắc mày không vào trong được đâu, nên khéo lại phải nằm đợi ở ngoài giống như bên Hội Mạo Hiểm Giả hôm qua đấy."
 
-Đáp lại lời Rei, Set dụi đầu vào người cậu, dùng cả cơ thể biểu lộ rõ ý muốn được đi theo.
+Nghe Rei nói, Set dụi đầu vào người cậu, dùng cả cơ thể để ra hiệu muốn đi theo.
 
 "Được rồi."
 
-Nhìn điệu bộ ấy của Set, Rei mỉm cười rồi dắt nó ra khỏi chuồng thú.
+Thấy điệu bộ ấy của Set, Rei mỉm cười rồi dắt nó ra khỏi chuồng thú.
 
-Vì lúc ăn sáng đã dặn trước với Drum rằng mình sẽ dắt Set đi, nên Rei chẳng cần bận tâm điều gì mà cứ thế cùng chú Griffin bước ra đại lộ.
+Vì lúc ăn sáng đã dặn trước với Drum rằng mình sẽ dắt Set đi, nên Rei chẳng cần bận tâm gì, cứ thế cùng nó bước ra đường lớn.
 
-Khoảnh khắc Set xuất hiện trên phố, dòng người đang qua lại đều lộ vẻ kinh hãi rồi lùi lại vài bước y như hôm qua, nhưng có lẽ tin tức về Rei và Set sau một ngày đã lan truyền phần nào, nên số người la hét tháo chạy ít hơn nhiều so với dự tính của cậu. Nói vậy chứ vẫn có vài kẻ chẳng thèm nhìn chiếc vòng cổ chứng nhận quái vật thuần hóa hay thú triệu hồi mà đã vội vàng co giò chạy biến.
+Khoảnh khắc Set xuất hiện trên phố, dòng người qua lại đều giật mình lùi lại vài bước y như hôm qua, nhưng có lẽ tin tức về Rei và Set sau một ngày đã lan truyền phần nào, nên số người hét lên bỏ chạy ít hơn hẳn so với cậu tưởng. Nói vậy chứ vẫn có mấy người chẳng thèm nhìn chiếc vòng cổ chứng nhận quái vật thuần hóa hay thú triệu hồi mà đã vội vàng chạy mất.
 
-Nói thêm thì việc chiếc vòng cổ đó mang tên "Vòng Cổ Tùng Ma" là nhờ lúc ăn sáng nghe Drum kể, cậu mới biết lần đầu.
+À, chuyện chiếc vòng cổ đó tên là "Vòng Cổ Tùng Ma" cũng là lúc ăn sáng nghe Drum nói cậu mới biết.
 
 "Gùuu."
 
-Nhìn thấy phản ứng của những người xung quanh, Set khẽ gừ nhẹ trong cổ họng. Vừa vỗ nhẹ lên lưng người bạn đồng hành, Rei vừa rảo bước về hướng thư viện mà bà chủ quán đã chỉ cho lúc điểm tâm.
+Thấy phản ứng của mọi người xung quanh, Set khẽ gừ nhẹ trong cổ họng. Rei vỗ nhẹ lưng bạn đồng hành rồi đi về phía thư viện mà bà chủ trọ chỉ cho lúc ăn sáng.
 
-Đi dọc theo đại lộ, ngang qua phía trước Hội Mạo Hiểm Giả, hễ thấy quầy hàng rong nào bán thịt xiên nướng trông ngon mắt là cậu lại mua để hai đứa cùng ăn. ...Có điều, vì kích thước to lớn của Set cộng thêm cái bụng ăn khỏe chẳng hề ăn nhập với vóc dáng của Rei, nên cậu đã phải tốn vài đồng bạc để mua tới ba mươi xiên thịt nướng.
+Đi dọc đại lộ, ngang qua trước Hội Mạo Hiểm Giả, hễ thấy sạp hàng nào bán thịt xiên nướng trông ngon mắt là cậu lại mua cho hai đứa ăn. ...Cơ mà vì thân hình to lớn của Set cộng thêm sức ăn chẳng hề ăn nhập với vóc dáng của Rei, nên cậu phải tốn mấy đồng bạc để mua tận ba mươi xiên thịt nướng.
 
-Dẫu vậy, nhìn cảnh Rei mua sắm hào phóng như thế, nhiều người liền nhận định cậu là khách sộp. Hoặc giả họ thấy chiếc Vòng Cổ Tùng Ma nên yên tâm hơn, thành thử không ít tiểu thương chủ động cất tiếng đon đả mời chào. Với giới buôn bán, dẫu là quái vật hay thứ gì đi nữa thì kẻ chịu chi tiền ắt hẳn đều là khách quý.
+Nhưng mà thấy Rei mua nhiều như vậy, chắc người ta nghĩ cậu là khách sộp. Hoặc cũng có thể thấy Vòng Cổ Tùng Ma nên yên tâm hơn, thành ra khối người bán hàng chủ động gọi mời. Với dân buôn bán thì dù là quái vật hay gì đi nữa, cứ chịu chi tiền là khách quý hết.
 
-Cứ vừa đi vừa ăn dọc đường một lúc, tòa nhà mục tiêu mà bà chủ trọ đã chỉ điểm cũng dần hiện ra trước mắt. Đó chính là thư viện. Nói là thư viện chứ Gilm rốt cuộc cũng chỉ là một thành phố biên cảnh, nên lượng sách lưu trữ ở đây nghe đâu không nhiều nhặn gì. Dẫu vậy, với Rei lúc này thì chẳng còn nơi nào khác để thu thập những tri thức cần thiết nữa.
+Vừa đi vừa ăn như thế một lúc, tòa nhà mà bà chủ trọ chỉ đường cũng hiện ra trước mắt. Đó là thư viện. Nói là thư viện chứ Gilm dù sao cũng chỉ là thành phố biên cảnh, nên nghe bảo sách ở đây không nhiều lắm. Nhưng với Rei lúc này, đây là chỗ duy nhất để tìm kiếm những kiến thức mình cần.
 
 "Set, đợi tao ở đây nhé."
 
 "Gùuu."
 
-Tương tự như ở Hội Mạo Hiểm Giả hôm qua, Rei để Set lại khu vực dừng đỗ dành cho xe ngựa cùng thú triệu hồi, rồi một mình bước vào bên trong thư viện.
+Giống như ở Hội Mạo Hiểm Giả hôm qua, Rei để Set ở khu chờ dành cho xe ngựa và thú triệu hồi, rồi một mình đi vào trong thư viện.
 
 "Kính chào quý khách. Quý khách muốn vào thư viện phải không ạ?"
 
 Nghe tiếng chào từ quầy tiếp tân nằm ngay gần lối vào, cậu gật đầu rồi bước lại gần.
 
-"Đúng vậy. Phiền cô hướng dẫn giúp tôi cách sử dụng nhé."
+"Ừ. Cô chỉ giúp tôi cách dùng với."
 
-Cô tiếp tân trông chừng ngoài hai mươi tuổi, nét mặt gần như chẳng chút biến chuyển, giữ nguyên vẻ vô cảm tiếp lời.
+Cô tiếp tân tầm giữa hai mươi tuổi, mặt không đổi sắc, giữ nguyên vẻ vô cảm nói tiếp.
 
-"Phí sử dụng thư viện là năm đồng bạc một ngày. Tuy nhiên, mức phí này đã bao gồm cả tiền bảo chứng phòng trường hợp làm hư hại sách, nên khi rời đi, nếu sách không bị rách hay vấy bẩn thì quý khách sẽ được hoàn lại ba đồng bạc. Xin lưu ý rằng nếu mức độ hư hỏng hoặc vấy bẩn vượt quá ba đồng bạc, quý khách sẽ phải bồi thường thêm khoản phí tương ứng. Nếu trốn trả, thư viện sẽ phát ủy thác qua Hội Mạo Hiểm Giả để thu hồi cả khoản bồi thường lẫn thù lao ủy thác. Ngoài ra, nếu có nhu cầu chép lại tài liệu, thư viện có bán một xấp mười tờ giấy kèm bút với giá ba đồng đồng."
+"Phí sử dụng thư viện là năm đồng bạc một ngày. Khoản này đã bao gồm tiền đặt cọc phòng trường hợp làm hỏng sách, nên lúc ra về, nếu sách không bị rách hay dính bẩn thì quý khách sẽ được trả lại ba đồng bạc. Xin lưu ý, nếu mức độ hư hỏng hay vấy bẩn quá ba đồng bạc, quý khách phải trả thêm phần chênh lệch. Nếu bỏ trốn không trả, chúng tôi sẽ gửi ủy thác cho Hội Mạo Hiểm Giả để đòi cả tiền bồi thường lẫn phí ủy thác. Ngoài ra, nếu cần chép tài liệu, thư viện có bán bộ mười tờ giấy kèm bút với giá ba đồng đồng."
 
-Nghe bảo tốn tới năm đồng bạc cả tiền bảo chứng để vào đọc, Rei khẽ nhíu mày, nhưng cậu cũng không phàn nàn gì mà sòng phẳng trả tiền.
+Nghe bảo vào thư viện tốn tới năm đồng bạc tính cả tiền cọc, Rei hơi nhíu mày, nhưng cũng chẳng phàn nàn gì mà móc tiền ra trả.
 
-Hồi còn ở Trái Đất, Rei vốn quen với việc được vào thư viện đọc sách miễn phí, nhưng ở thế giới này, sách vở lại là thứ đắt đỏ đến thế. Với những cuốn sách quý hiếm, chuyện phải mua bằng đồng bạch kim hay đồng quang kim cũng chẳng có gì lạ.
+Hồi còn ở Trái Đất, Rei quen vào thư viện miễn phí rồi, sang thế giới này sách vở mới đắt đỏ đến thế. Mấy cuốn sách quý hiếm có khi phải mua bằng đồng bạch kim hay đồng quang kim cũng chẳng lạ.
 
-"Vâng, tôi đã nhận đủ. Khi rời thư viện, xin quý khách lấy chữ ký của thủ thư vào tờ giấy này. Miễn là quý khách không làm hư hại sách thì sẽ không có vấn đề gì đâu ạ. Chúng tôi sẽ hoàn lại ba đồng bạc tiền bảo chứng khi nhận lại tờ giấy này. Vậy xin mời quý khách."
+"Vâng, tôi nhận đủ rồi ạ. Lúc ra về, xin quý khách nhớ lấy chữ ký của thủ thư vào tờ giấy này. Miễn là quý khách không làm hỏng sách thì sẽ không có vấn đề gì đâu. Đưa lại tờ giấy này là chúng tôi hoàn trả ba đồng bạc tiền cọc. Vậy mời quý khách."
 
-Đưa lại một tờ giấy sau khi nhận tiền, cô tiếp tân khẽ cúi đầu. Dù nở nụ cười trừ trước cách sử dụng thư viện khác hẳn với những gì mình từng biết, Rei vẫn cầm tờ giấy đó bước vào khu vực đặt sách.
+Nhận tiền xong, cô tiếp tân đưa cho cậu một tờ giấy rồi khẽ cúi đầu. Rei cười trừ trước cách dùng thư viện khác hẳn những gì mình biết, cầm lấy tờ giấy rồi đi vào khu để sách.
 
 "...Ra là vậy."
 
-Đó là câu buột miệng thốt ra khi Rei quan sát bên trong thư viện.
+Đó là câu đầu tiên buột ra khỏi miệng Rei khi nhìn quanh bên trong thư viện.
 
-Theo cảm nhận của Rei, nơi này rộng chừng bằng mấy cái thư viện trường học ghép lại, với những dãy kệ sách cao khoảng hai mét được xếp ngay ngắn thẳng hàng. Trên các kệ bày đủ loại sách lớn nhỏ, còn gần quầy thủ thư thì đặt vài bộ bàn ghế dành cho bốn người ngồi.
+Theo cảm nhận của Rei, nơi này rộng chừng bằng mấy cái thư viện trường học ghép lại, với những dãy kệ sách cao khoảng hai mét xếp thẳng tắp. Trên các kệ bày đủ loại sách lớn nhỏ, còn gần quầy thủ thư thì đặt vài bộ bàn ghế cho bốn người ngồi.
 
-Đứng quan sát một hồi, Rei từ bỏ ý định tự mình tìm sách mà bước thẳng tới quầy, cất tiếng gọi người đàn ông trung niên tầm bốn mươi tuổi trông có vẻ là thủ thư.
+Ngó quanh một lượt, Rei bỏ luôn ý định tự tìm sách mà đi thẳng tới quầy, bắt chuyện với người đàn ông trung niên tầm bốn mươi tuổi trông giống thủ thư.
 
-"Xin lỗi, phiền anh một chút được không?"
+"Xin lỗi, hỏi anh chút chuyện được không?"
 
 "Vâng, có chuyện gì thế cậu?"
 
-"Tôi đang muốn tìm hiểu về một nhân vật tên là Zepairu, ở đây có cuốn sách nào liên quan tới người đó không?"
+"Tôi đang muốn tìm hiểu về một người tên là Zepairu, ở đây có cuốn sách nào liên quan tới người đó không?"
 
 "Zepairu sao? Cậu đợi một chút nhé. Tôi nhớ hình như từng đọc cái tên đó ở đâu rồi thì phải..."
 
-Người đàn ông thủ thư ngẫm nghĩ một thoáng như đang cố nhớ lại điều gì, rồi rất nhanh nở nụ cười lên tiếng.
+Người thủ thư ngẫm nghĩ một lúc như đang cố nhớ lại, rồi chẳng mấy chốc đã mỉm cười lên tiếng.
 
-"À, hèn chi nghe quen thế, hóa ra là tên của một Ma Nhân."
+"À, thảo nào nghe quen quen, hóa ra là tên của Ma Nhân."
 
-"...Ma Nhân? Sao lại có cái danh hiệu nghe nguy hiểm vậy?"
+"...Ma Nhân? Cái tên gì nghe ghê thế?"
 
-Trước từ ngữ quá đỗi bất ngờ ấy, Rei bất giác hỏi lại, nhưng người thủ thư lại tròn mắt ngạc nhiên nhìn cậu dò hỏi.
+Nghe cái từ chẳng ngờ tới đó, Rei buột miệng hỏi lại, còn người thủ thư thì nhìn cậu đầy vẻ khó hiểu.
 
 "Ủa, không phải sao? Nhưng nhắc đến cái tên Zepairu nổi tiếng thì tôi chỉ biết mỗi người đó thôi."
 
-"...Trước mắt thì anh có cuốn sách nào viết về Ma Nhân đó không?"
+"...Trước mắt thì ở đây có cuốn sách nào viết về Ma Nhân đó không anh?"
 
 "Mấy chuyện đó thuộc loại thần thoại với truyện cổ tích, nên cậu cứ đi thẳng theo lối đi kia, tới cuối đường nhìn sang kệ sách bên tay phải là có."
 
 "Vậy à. Cảm ơn anh nhé."
 
-Cảm ơn người thủ thư xong, Rei liền đi tới vị trí kệ sách được chỉ, rút vài cuốn có vẻ liên quan rồi mang lại phía chiếc bàn.
+Cảm ơn người thủ thư xong, Rei đi tới chỗ kệ sách vừa được chỉ, rút mấy cuốn có vẻ liên quan rồi mang ra bàn.
 
 "Nào, xem thử có những gì đây."
 
-Dù tình hình có vẻ trật lất so với dự tính ban đầu, nhưng cậu vẫn cần phải biết những thông tin về Zepairu, người đã dung hợp với mình. Nghĩ vậy, cậu lật từng trang sách ra đọc.
+Tình hình có vẻ lệch khá xa so với những gì cậu tưởng, nhưng kiểu gì cũng phải biết rõ về Zepairu, người đã dung hợp với mình. Nghĩ thế, cậu mở sách ra đọc.
 
-Zepairu. Đó là nhân vật được cho là từng tồn tại vào hàng nghìn năm trước, người đứng đầu một tập hợp các ma thuật sư. Nếu chỉ có vậy thì cũng chẳng có gì quá đặc biệt, nhưng toàn bộ những ma thuật sư dưới trướng ông đều thuộc hàng kiệt xuất bậc nhất thế giới thời bấy giờ, bản thân ông lại sở hữu lượng ma lực đủ sức thống lĩnh những con người ấy.
+Zepairu. Nghe bảo đó là nhân vật từng sống cách đây hàng nghìn năm, đứng đầu một nhóm ma thuật sư. Nếu chỉ có thế thì cũng chưa có gì đặc biệt, đằng này toàn bộ ma thuật sư dưới trướng ông đều thuộc hàng xuất chúng bậc nhất thế giới thời đó, còn bản thân ông lại có lượng ma lực đủ sức cầm đầu cả đám người ấy.
 
-Lực lượng chiến đấu đó là một tập hợp các ma thuật sư có khả năng xóa sổ cả một quốc gia trong chớp mắt, chính vì thế mà thời bấy giờ ông bị vô số quốc gia liệt vào diện nhân vật nguy hiểm. Từng có đất nước muốn chiếm đoạt sức mạnh ấy làm của riêng nên đã dùng vũ lực ép ông quy phục, nhưng tương truyền rằng ngay trong ngày hôm đó, quốc gia ấy cùng toàn bộ thần dân đều bị tiêu diệt sạch trơn. Bởi lượng ma lực kinh hoàng và là người đạt đến cảnh giới tột cùng của ma thuật, nên người đời mới xưng tụng ông là Ma Nhân.
+Lực lượng đó là tập hợp những ma thuật sư đủ sức xóa sổ cả một đất nước trong chớp mắt, nên thời bấy giờ ông bị nhiều nước coi là nhân vật cực kỳ nguy hiểm. Từng có nước muốn chiếm lấy sức mạnh ấy làm của riêng nên định dùng vũ lực ép ông quy phục, nhưng nghe kể ngay trong ngày hôm đó, cả đất nước lẫn người dân đều bị xóa sổ sạch sẽ. Vì sở hữu lượng ma lực khủng khiếp và là người luyện ma thuật đến mức tột đỉnh, ông mới bị gọi là Ma Nhân.
 
 "..."
 
-Đọc xong những dòng nội dung quá mức kinh thiên động địa ấy, Rei bất giác ôm trán. Dựa vào sự chênh lệch giữa tri thức lấy được và thực tế hiện tại, cậu đã nghĩ thời gian có trôi đi phần nào, nhưng chẳng thể ngờ khoảng cách lại lên tới hàng nghìn năm. Theo lời Zepairu tự thuật thì là vài trăm năm, ai ngờ trên thực tế lại là vài nghìn năm. Sự chênh lệch gấp gần mười lần khiến Rei chỉ biết ôm đầu ngán ngẩm.
+Đọc xong cái nội dung quá sức bá đạo ấy, Rei bất giác ôm trán. Thấy kiến thức nhận được lệch với thực tế, cậu cũng đoán thời gian đã trôi qua khá lâu, nhưng không ngờ lại tới hàng nghìn năm. Theo lời Zepairu kể thì chỉ vài trăm năm thôi, ai dè thực tế lại là vài nghìn năm. Chênh nhau gần chục lần khiến Rei chỉ biết ôm đầu chịu thua.
 
-Dù vậy, một khi đã tới thế giới này rồi thì cậu cũng chẳng thể làm gì khác. Cố ép bản thân chấp nhận sự thật rằng mình chỉ có nước sống tiếp ở thế giới này, Rei không đọc thêm cuốn sách nào về Zepairu nữa mà đem trả lại kệ.
+Có điều, đã sang tới thế giới này rồi thì giờ cũng chẳng làm gì được nữa. Tự nhủ mình chỉ còn cách sống tiếp ở đây thôi, Rei không đọc sách về Zepairu nữa mà mang trả lại lên kệ.
 
-Sau đó, cũng là để lấy lại sự bình ổn trong tâm trí, cậu tìm đọc những cuốn sách hữu ích cho việc phiêu lưu và cung cấp tri thức cần thiết tại thế giới này.
+Sau đó, phần cũng để ổn định lại tinh thần, cậu tìm đọc mấy cuốn sách có ích cho việc phiêu lưu và những kiến thức cần biết ở thế giới này.
 
-Đọc xong, cậu nắm được rằng một ngày có 24 giờ, một tháng chừng 30 ngày, một năm có 12 tháng, hầu như chẳng khác gì so với Trái Đất, còn các ngày trong tuần thì lần lượt là Địa, Thủy, Hỏa, Phong, Quang, Ám, Vô.
+Đọc xong cậu mới biết một ngày có 24 tiếng, một tháng khoảng 30 ngày, một năm 12 tháng, hầu như chẳng khác gì Trái Đất, còn bảy ngày trong tuần thì là Địa, Thủy, Hỏa, Phong, Quang, Ám, Vô.
 
-Có điều đồng hồ lại là một loại Đạo Cụ Ma Thuật, nên người sở hữu nó chỉ giới hạn ở giới đại thương nhân hay quý tộc. Vậy những người khác biết thời gian bằng cách nào? Đó là nhờ tiếng chuông vang vọng khắp thành phố cứ mỗi ba tiếng một lần. Bằng sáu hồi chuông mỗi ngày vào lúc 6 giờ, 9 giờ, 12 giờ, 15 giờ, 18 giờ và 21 giờ, người dân bình thường có thể ước lượng được thời gian tương đối.
+Có điều đồng hồ là một loại Đạo Cụ Ma Thuật, nên chỉ mấy nhà buôn lớn hay quý tộc mới có. Vậy dân thường xem giờ bằng cách nào? Nhờ tiếng chuông rung khắp thành phố cứ mỗi ba tiếng một lần. Người dân dựa vào sáu hồi chuông mỗi ngày vào lúc 6 giờ, 9 giờ, 12 giờ, 15 giờ, 18 giờ và 21 giờ để đoán chừng giờ giấc.
 
-Cậu tiếp tục cầm lên đọc thêm những cuốn sách có nội dung cần thiết cho việc làm mạo hiểm giả, nhưng thứ thu hút sự chú ý của Rei nhất chính là một cuốn sách mang tiêu đề hết sức trực diện: "Mổ Xẻ Quái Vật: Nhập Môn".
+Cậu tiếp tục lấy mấy cuốn sách cần thiết cho nghề mạo hiểm giả ra đọc, nhưng cuốn khiến Rei chú ý nhất lại có cái tên thẳng tuột: "Mổ Xẻ Quái Vật: Nhập Môn".
 
-Dẫu sao lúc trước lột được bộ da Gấu Nước thì tốt đấy, nhưng do xử lý ẩu tả nên cậu đã bị ép giá rẻ mạt. Một khi đã xác định sống bằng nghề mạo hiểm giả thì phương pháp mổ xẻ quái vật đúng là kiến thức tối quan trọng. Tuy vậy, nhận thấy chép lại toàn bộ cuốn sách này sẽ tốn quá nhiều thời gian, Rei quyết định cất tiếng hỏi người thủ thư.
+Chuyện là trước đó lột được bộ da Gấu Nước nhưng vì xử lý ẩu nên bị mua rẻ mạt. Đã xác định sống bằng nghề mạo hiểm giả thì cách mổ xẻ quái vật đúng là thứ bắt buộc phải biết. Cơ mà nghĩ cảnh ngồi chép lại cả cuốn sách này chắc mất cả buổi, Rei quyết định ra hỏi người thủ thư.
 
-"Xin lỗi, phiền anh một chút được không?"
+"Xin lỗi, hỏi anh chút chuyện được không?"
 
 "Vâng, có chuyện gì thế cậu?"
 
 "Tôi có thể mua lại cuốn sách này được không?"
 
-Vừa nói, Rei vừa đưa cuốn "Mổ Xẻ Quái Vật: Nhập Môn" trên tay ra. Thế nhưng người thủ thư nhìn thấy liền làm vẻ áy náy rồi lắc đầu.
+Vừa nói, Rei vừa giơ cuốn "Mổ Xẻ Quái Vật: Nhập Môn" trên tay lên. Nhưng người thủ thư thấy vậy liền tỏ vẻ ái ngại lắc đầu.
 
-"Thành thật xin lỗi cậu. Thư viện chúng tôi không buôn bán sách đâu. Nếu phá lệ một lần thì sau này sẽ chẳng biết đâu mà lần... A, nhưng mà."
+"Xin lỗi cậu nhé. Thư viện không bán sách đâu. Nếu mở lệ này một lần thì sau này rắc rối lắm... À, nhưng mà."
 
-Vừa tạ lỗi, người thủ thư vừa nhìn cuốn sách Rei đưa ra, rồi ngẩng đầu lên như chợt nhận ra điều gì.
+Vừa xin lỗi, người thủ thư vừa nhìn cuốn sách trên tay Rei, rồi ngẩng đầu lên như sực nhớ ra chuyện gì đó.
 
 "Nhưng sao?"
 
@@ -138,8 +138,8 @@ Vừa tạ lỗi, người thủ thư vừa nhìn cuốn sách Rei đưa ra, r�
 
 "Vâng, được chứ."
 
-Nghe người thủ thư gật đầu chỉ đường tới hiệu sách xong, Rei phân vân không biết nên làm thế nào tiếp theo.
+Thủ thư gật đầu chỉ đường tới hiệu sách xong, Rei đứng phân vân không biết nên làm gì tiếp.
 
-Đã bỏ ra hai đồng bạc, một khoản tiền không hề nhỏ ở thế giới này, để vào đây thì cậu cũng muốn nán lại đọc thêm chút nữa. Nhưng cuốn sách "Mổ Xẻ Quái Vật: Nhập Môn" mà người thủ thư thấy ở hiệu sách thì bằng giá nào cậu cũng muốn mua cho bằng được. Đắn đo một hồi, Rei tự nhủ sách trong thư viện sẽ chẳng chạy đi đâu mất nên hôm khác quay lại cũng được, liền xin chữ ký vào tờ giấy được phát ở quầy tiếp tân, nhận lại tiền bảo chứng rồi rời khỏi thư viện.
+Đã mất công bỏ hai đồng bạc, một số tiền cũng kha khá ở thế giới này, để vào đây, nên cậu cũng muốn đọc thêm chút nữa. Nhưng cuốn "Mổ Xẻ Quái Vật: Nhập Môn" mà ông thủ thư thấy ở hiệu sách thì kiểu gì cậu cũng phải mua cho bằng được. Nghĩ đi nghĩ lại một hồi, Rei tự nhủ sách trong thư viện chẳng chạy đi đâu mất, hôm khác quay lại đọc cũng được, thế là cậu ra xin chữ ký vào tờ giấy hồi nãy, lấy lại tiền cọc rồi rời khỏi thư viện.
 
-Sau đó, cậu cùng Set đang đợi bên ngoài thư viện tìm tới hiệu sách theo lời chỉ dẫn, bỏ ra khoản tiền khá lớn là một đồng vàng để mua cuốn sách mình cần. Cậu còn tranh thủ sắm thêm quần áo thay và vài món đồ lặt vặt rồi mới quay trở về Hoàng Hôn Mạch Đình.
+Sau đó, cậu cùng Set đang đợi bên ngoài tìm tới hiệu sách theo chỉ dẫn, chi hẳn một đồng vàng, số tiền khá chát, để mua cuốn sách mình cần. Cậu còn tiện đường mua thêm quần áo thay và ít đồ lặt vặt rồi mới quay về Hoàng Hôn Mạch Đình.
