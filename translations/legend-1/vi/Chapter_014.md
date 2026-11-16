@@ -1,187 +1,187 @@
 # Chương 14: Đột kích bộ lạc Orc (14)
 
-Trận chiến một chọi bốn. Đã thế, một bên là tân thủ mới vừa đăng ký vào Hội Mạo Hiểm Giả hôm nay, bên kia lại là bốn mạo hiểm giả Hạng D.
+Trận đấu một chọi bốn. Đã thế, một bên là lính mới vừa đăng ký vào Hội Mạo Hiểm Giả hôm nay, bên kia lại là tận bốn mạo hiểm giả Hạng D.
 
-Bình thường thì ai thắng ai bại đã quá rõ ràng, thế nhưng khi thực sự bắt đầu, trận đấu lại khép lại với kết cục tân thủ áp đảo hoàn toàn bốn mạo hiểm giả Hạng D.
+Nghĩ bình thường thì ai thắng ai thua đã quá rõ ràng, vậy mà lúc vào trận thật, kết cục lại là cậu lính mới thắng trắng cả bốn mạo hiểm giả Hạng D.
 
-Tất nhiên có thể kể ra cả đống lý do giải thích cho chiến thắng của Rei, song đám đông đứng xem vẫn chia làm hai nửa: một nửa gật gù hiểu ra, nửa còn lại thì không tin nổi vào mắt mình. Đủ thấy cấp bậc mạo hiểm giả ở một khía cạnh nào đó được coi trọng tuyệt đối đến mức nào.
+Tất nhiên cũng có đủ lý do để giải thích cho chiến thắng của Rei, nhưng đám đông đứng xem vẫn chia làm hai nửa: một nửa gật gù chấp nhận, nửa còn lại thì chẳng tin nổi. Đủ thấy cấp bậc mạo hiểm giả ở đây được xem trọng tuyệt đối tới mức nào.
 
-Những ai gật gù là người cho rằng Rei đã thuần phục được cả Griffin, loài quái vật Hạng A, thì hẳn phải có bản lĩnh tương xứng. Còn những kẻ không tin nổi có lẽ chỉ nhìn vào vẻ ngoài của Rei, một cậu nhóc cao chừng mét sáu lăm, chẳng hề vạm vỡ hay to con chút nào.
+Những người gật gù là nhóm nghĩ rằng Rei đã dẫn theo được cả Griffin, loài quái vật Hạng A, thì hẳn phải có thực lực tương xứng. Còn đám không tin nổi chắc là nhìn vào vẻ ngoài của Rei: cao chừng mét sáu lăm, dáng người cũng chẳng hề vạm vỡ hay to con gì.
 
-Dưới bao ánh mắt của đám người hiếu kỳ, Rei bước lại gần Set rồi cất tiếng.
+Mặc kệ ánh mắt của đám người hiếu kỳ đang đổ dồn về phía mình, Rei bước lại gần Set rồi gọi.
 
 "Set."
 
 "Grrr!"
 
-Nghe tiếng gọi, nó vui vẻ gừ nhẹ một tiếng trong họng rồi nhích sang một bên, nhường lại cho Rei những món đồ mà nó vừa canh giữ làm phần thưởng cá cược của trận đấu.
+Nghe tiếng gọi, Set vui vẻ gừ ngắn một tiếng trong họng rồi dịch sang bên, nhường lại cho Rei đống đồ mà nó vừa trông giúp làm tiền cược.
 
-Đầu tiên, cậu đeo lại Nhẫn Sương Mù vào cổ tay phải, giắt Dao Mithril về bên hông. Cậu nhét túi tiền của mình vào trong ngực áo, còn túi tiền của nhóm Vargas thì thu gọn tất cả vào trong Nhẫn Sương Mù.
+Trước tiên, cậu đeo lại Nhẫn Sương Mù vào tay phải, giắt Dao Mithril về bên hông. Cậu cất túi tiền của mình vào trong áo, còn mấy túi tiền của nhóm Vargas thì gom hết bỏ vào Nhẫn Sương Mù.
 
-(Đếm tiền giữa chốn đông người thế này khéo lại rước thêm rắc rối, lát nữa thuê được nhà trọ rồi kiểm tra xem có bao nhiêu sau vậy.)
+(Đếm tiền ngay chỗ đông người thế này khéo lại rước thêm phiền phức, để lát nữa tìm được chỗ trọ rồi kiểm xem có bao nhiêu vậy.)
 
-Thấy cảnh đó, vài kẻ trong đám đông tặc lưỡi tiếc rẻ, nhưng Rei đã nhạy bén nghe thấy và khắc ghi gương mặt những kẻ vừa tặc lưỡi vào tâm trí.
+Thấy cảnh đó, vài kẻ trong đám đông tặc lưỡi tiếc rẻ, nhưng Rei nghe thấy hết và lập tức nhớ kỹ mặt từng đứa.
 
 "Nào, xong việc chưa đấy?"
 
-Người vừa lên tiếng là người đàn ông đã ẩn khí tức bước ra khỏi Hội trước khi trận chiến diễn ra. Thấy thời cơ đã chín muồi nên ông mới bắt chuyện, nhưng Rei chỉ khẽ lắc đầu đáp lại.
+Người vừa lên tiếng là gã đàn ông đã giấu kín khí tức bước ra khỏi Hội trước lúc trận đấu bắt đầu. Ông ta canh thấy vừa tầm nên mới bắt chuyện, nhưng Rei chỉ khẽ lắc đầu.
 
-"Chưa, đợi tôi thêm một lát."
+"Chưa, đợi tôi chút đã."
 
-Đáp lại người đàn ông một câu ngắn gọn, cậu lần lượt thu dọn thanh trường kiếm, hai con đoản kiếm, cây cung, ống tên cùng mục tiêu lớn nhất là cây rìu chiến đang nằm lăn lóc dưới đất vào trong Nhẫn Sương Mù.
+Trả lời ngắn gọn xong, cậu lần lượt nhặt thanh trường kiếm, hai cây đoản kiếm, cây cung, số mũi tên cùng mục tiêu lớn nhất là cây rìu chiến đang nằm lăn lóc dưới đất cất hết vào Nhẫn Sương Mù.
 
-"...Tôi nghĩ cậu không cần tước cả vũ khí của họ đâu."
+"...Tôi nghĩ cậu không cần lấy cả vũ khí của bọn họ đâu."
 
-Nhìn cảnh tượng đó, người đàn ông lên tiếng như muốn khuyên can, nhưng Rei chỉ lẳng lặng lắc đầu.
+Thấy vậy, người đàn ông lên tiếng nhắc nhở, nhưng Rei chỉ im lặng lắc đầu.
 
-"Ngay từ đầu bọn chúng là bên kiếm chuyện, và điều kiện cá cược cũng là toàn bộ tài sản hiện có trên người. Về phần tôi, không lột sạch quần áo của chúng thì bọn họ nên thấy biết ơn mới phải."
+"Ngay từ đầu lũ này là bên kiếm chuyện trước, mà kèo cược cũng là toàn bộ tài sản trên người. Tôi không lột sạch quần áo là bọn nó phải cảm ơn tôi mới đúng."
 
-Thật ra việc cậu không muốn lột đồ đàn ông cũng là một lý do để dừng lại ở đó.
+Thật ra, lý do cậu không làm tới mức đó cũng chỉ vì chẳng hứng thú gì chuyện lột đồ đàn ông.
 
-"...Mà thôi, sao cũng được. Dù sao thì phương châm của Hội từ trước tới nay là không can thiệp vào tranh chấp giữa các mạo hiểm giả. Với lại, dù có lẽ chẳng cần phải xác nhận nữa, nhưng theo đúng quy định thì tôi vẫn phải hỏi. Cậu là Rei đúng không?"
+"...Mà thôi, kệ đi. Dù sao Hội cũng có nguyên tắc không can thiệp vào xích mích giữa mạo hiểm giả với nhau rồi. Cơ mà chắc chẳng cần hỏi lại nữa đâu, nhưng đúng thủ tục thì tôi vẫn phải xác nhận. Cậu là Rei đúng không?"
 
-"Phải."
+"Ừ."
 
 "Cậu muốn xin thăng từ Hạng H lên Hạng G."
 
-"Đúng thế. Chỉ cần có hiểu biết và kỹ năng chiến đấu thì ngay ngày đầu đăng ký vẫn có thể thăng từ H lên G, đúng chứ?"
+"Đúng thế. Chỉ cần biết đánh đấm một chút thì ngay ngày đầu đăng ký vẫn lên thẳng từ Hạng H lên Hạng G được đúng không?"
 
-"Đúng là vậy."
+"Đúng là thế."
 
-"Vậy thì trận đấu vừa rồi chắc đã đủ để xác nhận kỹ năng chiến đấu của tôi rồi nhỉ... Tôi thăng hạng được chưa?"
+"Vậy trận vừa rồi chắc đủ chứng minh tôi biết đánh đấm rồi nhỉ... Tôi lên hạng được chưa?"
 
-"Hoàn toàn không có gì để chê. Không ngờ một tân thủ vừa mới đăng ký vào Hội lại có thể một mình quét sạch cả một tổ đội mạo hiểm giả Hạng D... Dù tận mắt chứng kiến tôi vẫn thấy hơi khó tin, nhưng đầu óc tôi cũng chưa đến mức bảo thủ tới độ không dám tin vào mắt mình."
+"Quá đạt luôn chứ còn gì nữa. Ai mà ngờ một lính mới vừa đăng ký vào Hội lại một mình hạ gục gọn cả tổ đội mạo hiểm giả Hạng D... Tận mắt thấy rồi mà tôi vẫn thấy hơi khó tin, nhưng đầu óc tôi cũng chưa đến mức cố chấp tới độ không tin vào mắt mình."
 
-Rei cảm thấy thích thú trước lời nói của người đàn ông đang nở nụ cười gượng, bèn quan sát ông kỹ hơn. Đó là một người trung niên trạc ba mươi tám đến bốn mươi tuổi, nhìn vết sẹo trên má thì có lẽ là cựu mạo hiểm giả. Ông ta cao chừng mét chín, ngang ngửa với Vargas khi nãy, và trông có vẻ sở hữu một cơ thể khá săn chắc, vạm vỡ.
+Thấy người đàn ông vừa nói vừa cười trừ, Rei bỗng thấy tò mò bèn quan sát ông kỹ hơn. Đó là một người đàn ông trung niên tầm cuối ba mươi, đầu bốn mươi, nhìn vết sẹo trên má thì chắc từng làm mạo hiểm giả. Ông cao khoảng mét chín, ngang ngửa Vargas lúc nãy, người ngợm trông cũng khá săn chắc, vạm vỡ.
 
-Được người đàn ông giục bước vào trong Hội, Rei liếc nhìn đám đông hiếu kỳ đang tản dần khi thấy kịch hay đã vãn, rồi lại rảo bước vào trong Hội.
+Nghe người đàn ông giục vào trong, Rei liếc nhìn đám đông hiếu kỳ đang tản dần vì hết chuyện xem, rồi quay trở lại vào trong Hội.
 
-Nói thêm là sau khi thấy Rei đi vào trong Hội, Set liền quay trở lại chỗ nó đã nằm nghỉ lúc trước.
+Nhân tiện thì sau khi thấy Rei đi vào trong Hội, Set cũng quay lại chỗ mình nằm dài lúc nãy.
 
-Mà trong số đám đông giải tán dĩ nhiên chẳng có ai dại dột đến mức thể hiện sự liều lĩnh bằng cách trêu chọc Set, đó ắt hẳn là điều may mắn cho cả Set lẫn cư dân thành phố Gilm.
+Mà trong đám người tản đi dĩ nhiên chẳng có ai liều mạng tới mức dám chọc ghẹo Set, thế cũng là điều may mắn cho cả Set lẫn dân thành phố Gilm rồi.
 
-"Vào đến Hội rồi tôi mới nói thì hơi muộn, nhưng cứ để mặc đám người kia nằm ngoài đó có sao không?"
+"Vào tới đây rồi tôi mới hỏi thì hơi kỳ, nhưng cứ để mặc bọn kia nằm vật ngoài đó có sao không?"
 
-"Tôi đã bảo rồi, quy định của Hội là không can thiệp vào tranh chấp giữa các mạo hiểm giả nên chẳng có vấn đề gì đâu. Thay vào đó thì đưa Thẻ Hội của cậu đây."
+"Tôi nói rồi đấy thôi, Hội quy định không can thiệp vào chuyện xích mích giữa mạo hiểm giả nên chẳng sao đâu. Mà đưa Thẻ Hội đây cho tôi."
 
-Theo lời người đàn ông, Rei đưa Thẻ Hội ra, và ông lập tức cầm lấy rồi đi thẳng vào phía bên trong. Nhìn theo bóng lưng ông, Rei vu vơ đảo mắt nhìn quanh Hội trường, chỉ thấy những kẻ vừa chứng kiến vụ ồn ào khi nãy đang hướng mắt về phía cậu với đủ loại biểu cảm, từ kinh ngạc cho tới thấu hiểu.
+Nghe vậy, Rei đưa Thẻ Hội ra. Người đàn ông cầm lấy rồi đi thẳng vào phía trong. Nhìn theo bóng lưng ông xong, Rei tiện mắt đảo quanh sảnh Hội, thấy mấy người vừa xem vụ ầm ĩ lúc nãy đang nhìn chằm chằm về phía mình với đủ kiểu nét mặt, kẻ thì sửng sốt, người lại gật gù như đã hiểu.
 
-Giữa những kẻ đang đứng từ xa theo dõi, có một người đàn ông bước lại gần Rei.
+Trong lúc đám đông vẫn đứng từ xa dòm ngó, có một người đàn ông bước lại gần chỗ Rei.
 
-Rei nhận ra người này. Đó là một trong những thành viên ban đầu ngồi uống rượu cùng nhóm Vargas, người đã tách ra ngồi uống một mình vì không muốn dính dáng tới trò kiếm chuyện với ma mới của bọn chúng.
+Rei nhận ra người này. Đó là gã lúc đầu ngồi uống rượu chung với nhóm Vargas, nhưng sau thấy bọn kia quay sang kiếm chuyện với ma mới nên bỏ sang bàn khác ngồi uống một mình.
 
-"Nên nói là bất ngờ hay là đúng như dự đoán đây nhỉ... Mà thôi, kết cục thế này là chuyện sớm muộn thôi."
+"Nói bất ngờ cũng phải, mà bảo đoán trước được cũng đúng... Thôi thì mọi chuyện về đúng chỗ của nó cả rồi."
 
 "...Ông là ai?"
 
-"Runo. Chắc cậu cũng biết rồi, tôi là người lập tổ đội tạm thời với lũ ngốc vừa kiếm chuyện với cậu."
+"Runo. Chắc cậu cũng biết rồi đấy, tôi là người lập tổ đội tạm với mấy thằng ngốc vừa kiếm chuyện với cậu."
 
 "...Tạm thời?"
 
-"Phải. Nghe đâu ủy thác lần này chỉ dựa vào mỗi bọn họ thì hơi quá sức, nên tôi mới lập tổ đội tạm thời với tư cách người hỗ trợ. Cơ mà chẳng biết bọn chúng nghĩ cái quái gì mà lại đi gây sự với một con quái vật như cậu nữa. Ở chung với cái ngữ đó khéo có ngày tôi cũng bị vạ lây."
+"Ừ. Nghe bảo ủy thác lần này chỉ có mấy đứa bọn nó thì không kham nổi, nên tôi mới vào tổ đội tạm để phụ giúp một tay. Cơ mà không hiểu bọn nó nghĩ cái quái gì mà lại đi gây sự với một con quái vật như cậu nữa. Dính với cái ngữ đó khéo có ngày tôi cũng vạ lây mất."
 
-Quái vật. Nghe thấy từ đó, cơ má của Rei khẽ giật một cái.
+Quái vật. Nghe thấy từ đó, má Rei khẽ giật một cái.
 
-Không phải cậu phật ý vì bị gọi là quái vật. Ngay từ đầu, chuyện cơ thể mình chẳng khác nào quái vật thì chính Rei là người thấu rõ nhất. Song đó là điều chỉ bản thân Rei, người biết rõ năng lực thể chất của mình, mới nói ra được. Còn về sự hiện diện của Set thì người ngồi trong Hội như ông ta hẳn là không thể biết.
+Không phải cậu khó chịu vì bị gọi là quái vật. Ngay từ đầu, chuyện cơ thể mình chẳng khác gì quái vật thì chính Rei là người biết rõ nhất. Nhưng đó là vì cậu nắm rõ sức mạnh cơ thể mình nên mới nói thế. Còn về Set, người ngồi tịt trong Hội như ông ta chắc chắn không thể biết được.
 
-"Quái vật à. Dựa vào đâu mà ông lại phán tôi như thế? Chắc không phải dựa vào vẻ bề ngoài đâu nhỉ?"
+"Quái vật cơ à. Sao ông lại đánh giá tôi như thế? Chắc không phải nhìn vẻ ngoài mà đoán đấy chứ?"
 
-Rei chăm chú quan sát nhất cử nhất động của Runo như thể quyết không bỏ sót bất kỳ dấu hiệu khả nghi nào.
+Rei nhìn chằm chằm vào Runo, kiểu hễ ông ta có động tĩnh gì khả nghi là cậu không bỏ qua đâu.
 
-Thế nhưng Runo vội vàng lắc đầu, thể hiện rõ bằng hành động rằng mình không hề có ác ý.
+Nhưng Runo vội lắc đầu nguầy nguậy, ra bộ mình hoàn toàn không có ý đối địch.
 
-"Kìa kìa, đừng có nhìn tôi bằng ánh mắt đó chứ. Tôi nói, tôi nói thật mà."
+"Ấy ấy, đừng nhìn tôi bằng ánh mắt đó chứ. Tôi nói, tôi nói thật lòng mà."
 
-"...Thế là sao?"
+"...Rồi sao?"
 
-Bị Rei thúc giục, Runo toát cả mồ hôi hột rồi bắt đầu giải thích.
+Bị Rei giục, Runo toát mồ hôi lạnh rồi bắt đầu giải thích.
 
-"Ngay từ đầu thì lý do tôi lập tổ đội tạm với nhóm Vargas lần này cũng là vì chuyện này đây. Đôi mắt của tôi là một loại Ma Nhãn."
+"Thật ra lý do tôi lập tổ đội tạm với nhóm Vargas lần này cũng là vì cái này đây. Mắt tôi là một dạng Ma Nhãn."
 
 "Ma Nhãn?"
 
-"Ừ. ...Nói là thế nhưng không phải loại Ma Nhãn bá đạo nhìn một phát là hóa đá hay mê hoặc đối phương đâu. Ma Nhãn của tôi chỉ có duy nhất một năng lực thôi. Đó là nhìn thấy được ma lực."
+"Ừ. ...Nói vậy thôi chứ không phải loại Ma Nhãn khủng khiếp kiểu nhìn phát hóa đá hay mê hoặc người ta đâu. Ma Nhãn của tôi chỉ có đúng một khả năng thôi: nhìn thấy được ma lực."
 
 "Nhìn thấy ma lực... à."
 
-"Phải. Chuyện tôi đi chung với nhóm Vargas lần này cũng vì ở hầm ngục cách đây vài ngày đường có một tầng bị bố trí rất nhiều cạm bẫy vận hành bằng ma lực. Để chinh phục tầng đó thì họ mới cần tới Ma Nhãn của tôi. Rồi khi tôi dùng Ma Nhãn nhìn cậu... thì thành thật mà nói, lượng và mật độ ma lực của cậu ngoài hai chữ quái vật ra thì chẳng còn từ nào khác để hình dung nổi nữa."
+"Ừ. Lần này tôi đi chung với nhóm Vargas cũng vì cái hầm ngục cách đây vài ngày đường có một tầng cài đầy bẫy ma lực. Muốn qua tầng đó thì bọn họ cần Ma Nhãn của tôi. Rồi lúc tôi dùng Ma Nhãn nhìn sang cậu... nói thật lòng là lượng và mật độ ma lực của cậu ngoài hai chữ quái vật ra thì chẳng biết tả thế nào nữa."
 
-"...Ra là vậy. Tạm thời coi như tôi tin đi."
+"...Ra thế. Tạm thời tôi tin vậy."
 
-Vừa gật đầu, mối bận tâm của Rei đã chuyển sang phía hầm ngục.
+Gật đầu vậy thôi chứ lúc này Rei đã bắt đầu để ý sang chuyện hầm ngục rồi.
 
-Hầm ngục. Đó là thứ được hình thành khi ma lực vì một nguyên nhân nào đó tụ lại, vật chất hóa một phần và trở thành một lõi nhân. Quái vật nhận được sức mạnh từ lõi nhân ấy sẽ tồn tại với tư cách quái vật trùm làm chủ hầm ngục, và chừng nào con quái vật trùm đó chưa bị đánh bại thì quy mô của hầm ngục sẽ từng bước mở rộng.
+Hầm ngục. Đó là nơi hình thành khi ma lực vì lý do nào đó tụ lại, vật chất hóa một phần rồi biến thành cái lõi. Con quái vật được lõi đó ban sức mạnh sẽ làm chủ hầm ngục, tức là quái vật trùm, và chừng nào nó chưa bị hạ thì hầm ngục vẫn sẽ từ từ mở rộng ra.
 
-Và chỉ cần quái vật trùm bị tiêu diệt một lần, quy mô của hầm ngục sẽ được cố định ở thời điểm đó.
+Chỉ cần hạ được quái vật trùm dù chỉ một lần thôi, kích thước của hầm ngục sẽ giữ nguyên ở mức đó.
 
-Ngoài ra, do đặc tính dễ tích tụ ma lực của hầm ngục nên chuyện dã thú thông thường đi lạc vào đó rồi biến dị thành quái vật là điều rất đỗi quen thuộc. Hơn nữa, mỗi khi số lượng quái vật bên trong hầm ngục giảm xuống dưới một mức nhất định, lõi nhân sẽ dịch chuyển quái vật từ nơi khác tới hoặc tự sản sinh ra quái vật mới.
+Thêm nữa, vì hầm ngục rất dễ đọng ma lực nên chuyện thú rừng bình thường chui vào đó rồi biến thành quái vật cũng xảy ra như cơm bữa. Ngoài ra, cứ hễ số quái vật bên trong giảm xuống dưới một mức nhất định, cái lõi sẽ dịch chuyển quái vật từ chỗ khác tới hoặc tự tạo ra thêm.
 
-Phá hủy lõi nhân thì hầm ngục cũng sẽ biến mất, nhưng sở dĩ người ta không làm vậy là bởi những nguyên liệu do quái vật trong hầm ngục sinh ra, số tiền đám mạo hiểm giả đổ về đây chi tiêu, cùng các thương nhân kéo đến thu mua nguyên liệu mang lại nguồn lợi ích vượt xa những điều bất lợi.
+Phá cái lõi đi thì hầm ngục cũng biến mất luôn, nhưng người ta không làm thế vì nguồn lợi mang lại lớn hơn hẳn cái hại: từ nguyên liệu của bọn quái vật trong đó, tiền bạc đám mạo hiểm giả kéo tới tiêu xài, cho tới cánh thương nhân đổ về thu mua hàng.
 
-(Hầm ngục à... Nếu có nhiều quái vật như thế thì hôm nào đi cùng Set một chuyến cũng không tồi. Khéo lại kiếm thêm được vài kỹ năng ra trò ấy chứ. Vấn đề là dù dùng Lưỡi Hái Tử Thần, ma pháp hệ Hỏa hay để Set tác chiến thì liệu không gian ở đó có đủ rộng rãi hay không thôi.)
+(Hầm ngục à... Nếu trong đó nhiều quái vật thế thì hôm nào rủ Set đi thử một chuyến cũng hay. Chắc chắn sẽ kiếm được mấy kỹ năng ngon lành. Vấn đề duy nhất là dùng Lưỡi Hái Tử Thần, ma pháp Hỏa hay để Set đánh nhau thì bên trong có đủ chỗ rộng để xoay xở không thôi.)
 
-Trong lúc Rei đang thầm tính toán trong đầu, người đàn ông cầm Thẻ Hội ban nãy đã quay trở lại.
+Đang lúc Rei mải tính toán trong đầu thì người đàn ông cầm Thẻ Hội lúc nãy đã quay lại.
 
-"Gì thế này, vừa đập cho Vargas một trận ra trò xong mà giờ lại hòa thuận với Runo, người đi chung tổ đội tạm thời với gã ta rồi à?"
+"Ồ, vừa mới choảng nhau tưng bừng với Vargas xong mà giờ đã nói chuyện vui vẻ với Runo, người lập tổ đội tạm với gã ta rồi à?"
 
-"Gran, đừng nói thêm mấy câu thừa thãi thế chứ. Khó khăn lắm tôi mới giải thích để cậu ấy hiểu mình không phải đồng bọn của Vargas đấy."
+"Gran, đừng có nói mấy câu thừa thãi thế chứ. Khó khăn lắm tôi mới giải thích xong cho cậu ấy hiểu tôi không phải đồng bọn của Vargas đấy."
 
-"Chú mày vẫn như mọi khi nhỉ. Rei này, để tôi giới thiệu qua một chút, Runo là một mạo hiểm giả khá có tay nghề đấy. Cơ bản thì coi là chiến sĩ cũng được, nhưng cậu ta còn dùng được chút ít ma pháp tấn công, chút ít ma pháp hồi phục, lại có cả một phần kỹ năng đạo tặc nữa, tóm lại là một gã rất tiện dụng."
+"Chú mày vẫn thế nhỉ. Rei này, giới thiệu qua chút, Runo là một mạo hiểm giả khá có tay nghề đấy. Về cơ bản coi là chiến sĩ cũng được, nhưng cậu ta biết xài chút ma pháp tấn công, chút ma pháp hồi phục, lại biết cả một ít kỹ năng đạo tặc nữa, nói chung là rất được việc."
 
-Vừa nhận lại Thẻ Hội vừa nghe người đàn ông tên Gran giải thích về năng lực của Runo, Rei lẩm bẩm một câu.
+Rei nhận lại Thẻ Hội, nghe người đàn ông tên Gran giới thiệu về năng lực của Runo xong thì lẩm bẩm.
 
 "Ý là đa năng không chuyên chứ gì."
 
-"...Ờ thì, đúng là không sai thật. Nhưng cậu nói khéo hơn một chút thì chết ai đâu chứ."
+"...Ờ thì, cũng không sai thật. Nhưng anh nói khéo hơn chút nữa cũng được mà."
 
-"Với lại có cậu ta trong tổ đội thì chắc chắn rất tiện. Thế nào, có muốn thử lập tổ đội với Runo không?"
+"Với lại có cậu ta trong tổ đội thì chắc chắn rất tiện đấy. Sao, có muốn thử lập tổ đội với Runo không?"
 
 Gran lên tiếng gợi ý chuyện lập tổ đội cùng Runo.
 
-Thật ra trong mắt Gran, Rei là một tân thủ đầy triển vọng... dù bảo là tân thủ thì tay nghề hơi quá mức thượng thừa, vì bình thường làm gì có ma mới nào đánh cho bốn mạo hiểm giả Hạng D tơi bời hoa lá như thế; tóm lại là ông rất kỳ vọng vào thực lực của cậu. Thế nhưng việc vừa đăng ký xong đã lập tức gây sự với một nhóm mạo hiểm giả Hạng D khiến ông thấy cậu nhóc này dường như có vấn đề về mặt quan hệ ứng xử. Bởi vậy ông mới tính rằng nếu ghép cậu với một người đa năng lại khéo léo trong giao tiếp như Runo thì mọi chuyện sẽ suôn sẻ hơn nhiều.
+Thật ra trong mắt Gran, Rei là một lính mới đầy triển vọng... mà gọi là lính mới thì thực lực lại quá khủng rồi, chứ bình thường làm gì có ma mới nào đánh áp đảo hoàn toàn bốn mạo hiểm giả Hạng D như thế. Tóm lại là ông rất kỳ vọng vào năng lực của cậu. Có điều, vừa mới đăng ký xong đã đụng độ ngay với một nhóm mạo hiểm giả Hạng D khiến ông thấy cậu nhóc này có vẻ hơi có vấn đề trong cách ứng xử với người khác. Thế nên ông mới tính nếu ghép cậu với một người toàn diện lại khéo giao tiếp như Runo thì mọi chuyện chắc sẽ ổn thỏa hơn.
 
-"Tiếc quá. Tạm thời tôi định sẽ hành động một mình. Dù sao tôi cũng có bạn đồng hành rồi."
+"Xin lỗi nhé. Tạm thời tôi định đi một mình thôi. Với lại tôi cũng có bạn đồng hành rồi."
 
-Rei thẳng thừng từ chối. Vốn dĩ khi bán nguyên liệu quái vật, thứ bán được giá nhất về cơ bản luôn là Ma Thạch. Thế nhưng mục đích của Rei lại là để Set hoặc Lưỡi Hái Tử Thần hấp thụ những viên Ma Thạch đó, nên cậu đoán chắc nếu lập tổ đội thì thế nào cũng nảy sinh tranh chấp.
+Rei từ chối thẳng thừng. Vốn dĩ khi bán nguyên liệu quái vật, thứ được giá nhất thường là Ma Thạch. Nhưng mục đích của Rei lại là cho Set hay Lưỡi Hái Tử Thần hấp thụ đống Ma Thạch đó, nên cậu biết chắc hễ lập tổ đội là thế nào cũng có chuyện.
 
-"...Ừ thì, đúng là có Griffin làm bạn đồng hành thì đối thủ hạng xoàng chẳng bõ bẽn gì thật."
+"...Ừ thì, đúng là có Griffin đi cùng thì mấy đối thủ bình thường cũng chẳng đáng ngại thật."
 
 "Griffin?"
 
-Do nãy giờ vẫn ở rịt trong Hội nên đương nhiên Runo mới nghe tới sự tồn tại của Set lần đầu.
+Nãy giờ ngồi lì trong Hội nên đương nhiên đây là lần đầu tiên Runo nghe tới chuyện về Set.
 
-Nhận ra điều đó, khóe môi Gran nở một nụ cười đắc ý.
+Nhận ra điều đó, Gran liền nhếch mép cười.
 
-"Phải rồi, lúc bọn Vargas kéo nhau ra ngoài thì chú mày vẫn ngồi uống rượu một mình nên đâu có biết. Thằng nhóc Rei đằng kia thuần hóa được cả một con Griffin đấy."
+"À phải rồi, lúc bọn Vargas kéo nhau ra ngoài thì chú mày vẫn ngồi uống rượu một mình nên đâu có biết. Cậu Rei đây thuần hóa được cả một con Griffin đấy."
 
 "...Thật á?"
 
-Runo hỏi lại với vẻ mặt không thể tin nổi, nhưng Rei chỉ cất Thẻ Hội vào Nhẫn Sương Mù rồi gật đầu xác nhận.
+Runo hỏi lại với vẻ mặt không thể tin nổi, còn Rei thì vừa cất Thẻ Hội vào Nhẫn Sương Mù vừa gật đầu xác nhận.
 
-"Thôi. Thủ tục thăng hạng cũng xong rồi, tôi xin phép cáo từ trước đây. Tôi còn phải đi kiếm chỗ trọ nữa."
+"Thôi. Thủ tục thăng hạng cũng xong rồi, tôi xin phép về trước đây. Còn phải đi tìm chỗ trọ nữa."
 
 "Vậy à. Tiếc thật đấy... mà này, cậu đã nhắm được nhà trọ nào chưa?"
 
-"Rồi. Một người bên đội cảnh vệ tên là Ranga đã chỉ cho tôi một quán trọ tên là Hoàng Hôn Mạch Đình. Nghe bảo nơi có cơ sở vật chất để chăm sóc cho Set cũng chỉ có mỗi chỗ đó thôi."
+"Rồi. Một anh bên đội cảnh vệ tên Ranga có chỉ cho tôi nhà trọ Hoàng Hôn Mạch Đình. Nghe bảo nơi có chỗ để chăm sóc cho Set cũng chỉ có mỗi ở đó thôi."
 
-Gran gật gù trước lời giải thích của Rei. Bản thân Gran cũng chỉ biết mỗi Hoàng Hôn Mạch Đình là quán trọ có thể tiếp nhận chú Griffin kia, nên nếu Rei bảo chưa có chỗ thì ông cũng định giới thiệu nơi đó.
+Gran gật gù nghe Rei giải thích. Bản thân ông cũng chỉ biết mỗi nhà trọ Hoàng Hôn Mạch Đình là nhận chăm nổi con Griffin kia, nên nếu Rei bảo chưa tìm được chỗ thì ông cũng định chỉ qua đó rồi.
 
-"Thế à. Đã biết trước rồi thì tiện quá. Ra khỏi Hội rồi cứ rẽ phải đi thẳng là sẽ thấy biển hiệu của Hoàng Hôn Mạch Đình. Biển có hình hoàng hôn với bông lúa mì nên nhận ra ngay thôi."
+"Thế à. Biết rồi thì đỡ mất công. Ra khỏi Hội cậu cứ rẽ phải đi thẳng là thấy biển hiệu của nhà trọ Hoàng Hôn Mạch Đình ngay. Biển vẽ cảnh hoàng hôn với bông lúa mì nên dễ nhận ra lắm."
 
-"Vâng, cảm ơn ông."
+"À, cảm ơn ông."
 
-Cảm ơn Gran xong, Rei liền rảo bước rời khỏi Hội. Nhìn theo bóng lưng cậu, Gran thầm có linh cảm rằng chuỗi ngày sắp tới sẽ ồn ào, náo nhiệt lắm đây.
+Cảm ơn Gran xong, Rei quay lưng bước ra khỏi Hội. Nhìn theo bóng cậu, Gran bỗng có linh cảm sắp tới nơi này sẽ còn nhiều chuyện ầm ĩ lắm đây.
 
 "Gùuu."
 
-Thấy Rei bước lại gần, Set đang nhắm mắt liền ngẩng đầu lên, sung sướng gừ nhẹ một tiếng trong cuống họng.
+Thấy Rei bước lại gần, Set đang nhắm mắt liền ngẩng đầu lên, vui vẻ gừ nhẹ trong họng.
 
-"Để mày đợi lâu rồi. Nghe đâu chỗ trọ chỉ có mỗi cái quán tên là Hoàng Hôn Mạch Đình gì đấy thôi, chúng ta mau qua đó nào."
+"Để mày đợi lâu rồi. Nghe bảo chỗ trọ được chỉ có mỗi nhà trọ Hoàng Hôn Mạch Đình gì đó thôi, đi lẹ qua đó nào."
 
-Vừa vuốt ve tấm lưng phủ lớp lông mượt mà của Set, Rei vừa cất tiếng trò chuyện, nhưng...
+Rei vừa vuốt ve bộ lông mượt mà trên lưng Set vừa nói chuyện, nhưng...
 
 "Gừưư."
 
-Kể từ khi chào đời tới nay chưa từng rời xa Rei nửa bước, Set dụi đầu vào người cậu làm nũng.
+Từ lúc sinh ra tới giờ chưa từng xa Rei bao giờ, Set cứ dụi đầu vào người cậu làm nũng.
 
-Rốt cuộc sau cả chục phút chiều chuộng chú ma thú, cậu mới có thể xuất phát rời khỏi Hội.
+Kết quả là cậu phải nán lại chơi với Set thêm chục phút nữa rồi mới rời khỏi Hội được.
