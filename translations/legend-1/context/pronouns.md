@@ -32,6 +32,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Milein | cô / nữ kiếm sĩ / Milein | 36 |  |
 | Sulunin | Sulunin / người đàn ông / ma pháp sư | 36 |  |
 | Ekril | cô bé / thiếu nữ / Ekril | 36 |  |
+| Bobbs | ông / người đàn ông / Bobbs | 27 | Chỉ huy chiến dịch thảo phạt Orc |
+| Elk | ông / người đàn ông / Elk | 27 | Đội trưởng tổ đội Rìu Lôi Thần |
 
 ## Giữa các nhân vật
 
@@ -112,3 +114,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ekril | Milein | em | chị Milein / chị | 36 | Em út với đàn chị |
 | Sulunin | Ekril | tôi | Ekril / em | 36 | Người lớn tuổi với em út |
 | Ekril | Sulunin | em | Sulunin / chú Sulunin | 36 | Em út với ma pháp sư lớn tuổi |
+| Bobbs | Elk | tôi | cậu / anh / Elk | 39 | Hai mạo hiểm giả kỳ cựu trao đổi thân tình |

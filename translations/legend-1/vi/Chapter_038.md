@@ -18,7 +18,7 @@ Tuy vậy, điều này phần nhiều là do sự phân chia vai trò trong đ�
 
 "Thắng cừ đấy chứ. Trước trận đánh tôi nhớ mấy người còn bảo chỉ cầm cự trước năm con thôi là đã hết hơi rồi mà."
 
-"Hộc, hộc, hộc... Phù. Thì đấy, dù Rei có mạnh đến mấy chăng nữa, một mạo hiểm giả Hạng G đi đối đầu ngang ngửa với Orc King... ngang ngửa... mà nhắc mới nhớ, cậu giáp lá cà tay đôi với quái vật Hạng B như Orc King thế kia mà lại chẳng dính lấy một vết xước nào nhỉ. Thật tình, những kẻ như cậu sau này liệu có chạm tới Hạng S không biết chừng. Mà thôi, tóm lại là vậy đấy. Người có thứ hạng thấp nhất ở đây như cậu còn đang quần thảo với Orc King, thì lũ Hạng C bọn tôi sao dám muối mặt bảo là không hạ nổi mấy con Orc thường chứ. ...Aaa, mệt quá đi mất. Nói chung là mệt muốn xỉu. Mệt kinh khủng khiếp. Giờ chẳng muốn nhấc chân đi thêm bước nào nữa đâu."
+"Hộc, hộc, hộc... Phù. Thì đấy, dù Rei có mạnh đến mấy chăng nữa, một mạo hiểm giả Hạng G đi đối đầu ngang ngửa với Orc King... ngang ngửa... mà nhắc mới nhớ, cậu giáp lá cà tay đôi với quái vật Hạng B như Orc King thế kia mà lại chẳng dính lấy một vết xước nào nhỉ. Thật tình, những kẻ như cậu sau này sẽ chạm tới Hạng S không biết chừng. Mà thôi, tóm lại là vậy đấy. Người có thứ hạng thấp nhất ở đây như cậu còn đang quần thảo với Orc King, thì lũ Hạng C bọn tôi sao dám muối mặt bảo là không hạ nổi mấy con Orc thường chứ. ...Aaa, mệt quá đi mất. Nói chung là mệt muốn xỉu. Mệt kinh khủng khiếp. Giờ chẳng muốn nhấc chân đi thêm bước nào nữa đâu."
 
 Nghe những lời đó của Milein, Sulunin cũng gật đầu tỏ vẻ đồng tình.
 
@@ -30,7 +30,7 @@ Vừa cảnh giới xung quanh, Ekril vừa khẽ nở nụ cười gật đầu
 
 Đúng lúc Rei định cất lời đáp lại.
 
-"U o o o o o o o o o o o o o o o!"
+"Uooooooooooooooo!"
 
 Một tiếng thét vang dội vọng lại từ phía đông bộ lạc.
 
@@ -142,7 +142,7 @@ Cố xua tan hình ảnh con Orc General ra khỏi đầu, Milein gặng hỏi R
 
 "Xem nào... đại khái là giảm khoảng một phần mười sát thương hệ Hỏa. Thêm nữa, cái này chỉ có người dùng được ma pháp mới hưởng lợi: uy lực ma pháp hệ Hỏa tăng khoảng một phần mười, và lượng ma lực tiêu hao giảm đi chừng một phần mười. Nói nôm na thì đây là ân huệ từ ngọn lửa."
 
-"Tới tận một phần mười cơ ạ?"
+"Tới tận một phần mười cơ ư?"
 
 Nghe Rei giải thích, Sulunin thảng thốt lẩm bẩm.
 
@@ -160,7 +160,7 @@ Gật đầu trước lời Milein dặn, Rei trèo lên lưng Set.
 
 "Aaa, nếu được thì tôi chỉ muốn cậu để bé Set lại đây thôi. Để chữa lành tâm hồn cho tôi nữa chứ."
 
-"Milein, cô đừng đòi hỏi vô lý thế."
+"Milein, đừng đòi hỏi vô lý thế."
 
 Thấy Milein nhìn Set với ánh mắt đầy lưu luyến, Sulunin liền lên tiếng nhắc nhở. Ekril đứng cạnh chỉ biết cười trừ nhìn hai người họ.
 

@@ -52,7 +52,7 @@ Chuyện về Ngôi Sao Màn Đêm dừng lại ở đó. Ngay cả Bobbs cũng 
 
 "Còn chuyện này nữa... Cậu đến báo tin thảo phạt hoàn tất, vậy tức là kẻ hạ gục cá thể chỉ huy bầy Orc là..."
 
-"Vâng. Tôi phát hiện lũ Orc đang định nhân màn đêm tháo chạy khỏi bộ lạc, nên đã cùng tổ đội Cơn Gió Rực Lửa nghênh chiến quét sạch chúng."
+"Ừ. Tôi phát hiện lũ Orc đang định nhân màn đêm tháo chạy khỏi bộ lạc, nên đã cùng tổ đội Cơn Gió Rực Lửa nghênh chiến quét sạch chúng."
 
 Vừa giải thích tình hình cho Bobbs, Rei vừa mở danh sách trong Nhẫn Sương Mù ra rồi lấy xác Orc King ra ngoài.
 
@@ -62,7 +62,7 @@ Hiện ra trước mắt là cái xác quái vật khổng lồ cao gần 3 mét
 
 Nhìn cái xác quái vật, Bobbs quay phắt lại nhìn Rei. Quả không hổ danh là một mạo hiểm giả dày dạn kinh nghiệm, hẳn ông đã nhận ra con quái vật đang nằm sõng soài trên mặt đất trước mắt là thứ gì.
 
-"Vâng. Tôi nghe Sulunin, ma pháp sư của nhóm Cơn Gió Rực Lửa nói rồi. Là Orc King đúng không?"
+"Phải. Tôi nghe Sulunin, ma pháp sư của nhóm Cơn Gió Rực Lửa nói rồi. Là Orc King đúng không?"
 
 "...Đúng thế. Quái vật Hạng B Orc King. Hồi còn làm mạo hiểm giả tôi cũng từng có kinh nghiệm chạm trán vài lần... Không ngờ các cậu lại có thể tự mình hạ được nó. À mà, có cả quái vật Hạng A là Set, lại thêm Cơn Gió Rực Lửa cũng là tổ đội Hạng C nên việc làm được cũng có thể hiểu được."
 
@@ -118,7 +118,7 @@ Trước tiếng gừ của Set, Rhodes buông lại một câu cay cú rồi d�
 
 Nhìn theo bóng lưng hai mẹ con với nụ cười trừ giống hệt vợ, Elk khẽ cúi đầu tạ lỗi với Rei.
 
-"Thông cảm nhé. Cậu thấy đấy, lúc nãy có lũ Orc định luồn ra sau lưng bọn tôi đúng không? Sau khi thấy cậu tiêu diệt bọn chúng thì nó đã chịu công nhận cậu có thực lực rồi, nhưng cứ hễ đứng trước mặt cậu là lại không chịu thừa nhận."
+"Thông cảm nhé. Cậu thấy đấy, lúc nãy có lũ Orc định luồn ra sau lưng bọn tôi đúng không? Sau khi thấy cậu tiêu diệt bọn chúng thì nó đã chịu công nhận cậu có thực lực rồi, nhưng cứ hễ đứng trước mặt cậu là lại không chịu thành thật thừa nhận."
 
 "Gùuu..."
 

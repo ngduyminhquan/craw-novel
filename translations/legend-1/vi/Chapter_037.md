@@ -66,7 +66,7 @@ Bất hạnh của Orc General là không hề biết đến năng lực Đạo 
 
 Ma pháp tức thì phát động. Con rắn tạo từ lửa phóng ra từ mũi lưỡi hái đang cắm sâu trong người Orc General, vừa trườn sâu vào trong vừa thiêu rụi toàn bộ nội tạng của nó.
 
-"Hộôôôôôôcccc!"
+"Hộcccccc!"
 
 Bị thiêu đốt lục phủ ngũ tạng khi còn sống sờ sờ, một cơn đau đớn tột cùng còn khủng khiếp hơn cả cái chết khiến con Orc General rống lên thảm thiết. Tiếng thét lớn đến mức dường như nó đã quên bẵng việc cả bọn đang lén lút trốn khỏi bộ lạc, âm thanh vang vọng khắp cả một vùng xung quanh.
 
@@ -76,7 +76,7 @@ Trước cảnh tượng quá đỗi rùng rợn khi nạn nhân bị thiêu s�
 
 Và ngay khoảnh khắc mọi động tĩnh xung quanh ngưng bặt, Set đã vỗ cánh bay vút lên bầu trời.
 
-"...Hả! Sulunin, Ekril, yểm trợ đi! Chúng ta lo phần năm con Orc của mình nào! Tân binh Hạng G như Rei còn hạ gục Orc General trong chớp mắt, đừng để người ta bảo tổ đội Hạng C như chúng ta lại không xử lý nổi năm con Orc thường đấy!"
+"...Á! Sulunin, Ekril, yểm trợ đi! Chúng ta lo phần năm con Orc của mình nào! Tân binh Hạng G như Rei còn hạ gục Orc General trong chớp mắt, đừng để người ta bảo tổ đội Hạng C như chúng ta lại không xử lý nổi năm con Orc thường đấy!"
 
 "Rõ rồi. Đội hình thế nào?"
 
@@ -138,7 +138,7 @@ Dù Rei từng dùng sức mạnh và trọng lượng của Lưỡi Hái Tử T
 
 "Haaah!"
 
-Cú vung hái từ dưới hất chéo lên của Rei bị thanh đại kiếm của Orc King chặn đứng, phát ra tiếng kim loại va chạm "keng" chói tai.
+Cú vung hái từ dưới hất chéo lên của Rei bị thanh đại kiếm của Orc King chặn đứng, phát ra tiếng kim loại va chạm leng keng chói tai.
 
 Vốn dĩ Rei muốn tung đòn bổ xuống, nhưng chiều cao của cậu chỉ tầm 165 cm, còn thấp hơn cả một con Orc thông thường. Đối đầu với một Orc King to hơn cả Orc General vốn đã vượt trội Orc thường một vòng, việc tung đòn bổ từ trên xuống tất sẽ để lộ sơ hở quá lớn và vô cùng khó thực hiện.
 
@@ -172,13 +172,13 @@ Ekril, người vừa giương cung toan hỗ trợ nếu Rei gặp khó khăn, 
 
 "Ekril!"
 
-Song thoáng ngơ ngẩn ấy chỉ kéo dài một khắc. Tiếng gọi của Milein đang giáp chiến với Orc lập tức kéo cô về thực tại.
+Song thoáng ngơ ngẩn ấy chỉ kéo dài một khắc. Tiếng gọi của Milein đang giáp chiến với Orc lập tức kéo cô bé về thực tại.
 
 Và đúng lúc Ekril vừa ngắm cung vào con Orc, thời khắc ấy cuối cùng cũng đã đến.
 
 "Ăn Mòn."
 
-Sau nhiều lần va chạm với Lưỡi Hái Tử Thần, thanh đại kiếm trên tay Orc King dần biến màu dưới tác động của Ăn Mòn... và ngay khoảnh khắc nó đỡ đòn kết liễu vung tới từ Lưỡi Hái Tử Thần, thân kiếm đã gãy đôi ngọt xớt ngay giữa sống kiếm.
+Sau nhiều lần va chạm với Lưỡi Hái Tử Thần, thanh đại kiếm trên tay Orc King dần biến màu dưới tác động của Ăn Mòn... và ngay khoảnh khắc nó đỡ đòn kết liễu vung tới từ Lưỡi Hái Tử Thần, thân kiếm đã gãy đôi ngọt xớt ngay chính giữa.
 
 "..."
 
@@ -188,7 +188,7 @@ Bản thân Orc King cũng nhận ra thanh kiếm của nó đã tổn hại ngh
 
 Không, hay đúng hơn chính vì là một ma pháp kiếm thuộc loại Đạo Cụ Ma Thuật, nó mới có thể trụ vững trước những đòn tấn công của đối thủ đến tận lúc này.
 
-"Hộôôôcccc!"
+"Hộcccc!"
 
 Nó gầm lên một tiếng rống dữ dội như muốn chấn động khắp cả bộ lạc, rồi ném thẳng phần chuôi thanh đại kiếm về phía Rei. Cùng lúc, mượn vật ném làm đòn nghi binh che mắt, nó tung ra một cú đấm mang sức mạnh vượt xa Orc General toan nghiền nát cậu.
 
@@ -196,7 +196,7 @@ Nó gầm lên một tiếng rống dữ dội như muốn chấn động khắp
 
 Dùng cán Lưỡi Hái Tử Thần hất văng chuôi thanh đại kiếm ra sau, Rei mượn đà né cú đấm của con Orc. Lướt qua người nó trong gang tấc... lưỡi hái đồng thời quét ngang một đường ngọt xớt qua bụng thân hình đồ sộ của Orc King.
 
-"Hộôôôôôôôôôôcccc!"
+"Hộcccccccc!"
 
 Tiếng rống trăn trối. Dù thét lên một tiếng rống chỉ có thể gọi là khúc bi ca lúc lâm chung, nó vẫn không ngã xuống đất mà gượng đứng vững tại chỗ.
 
@@ -208,7 +208,7 @@ Ngã gục xuống đất mà chết không phải tư thái của bậc đế v
 
 "Vĩnh biệt, vị vua Orc đầy kiêu hãnh."
 
-"Hộôôôcccc!"
+"Hộcccc!"
 
 Xoẹt!
 
