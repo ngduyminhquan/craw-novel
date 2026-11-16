@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T16:38:38Z",
+  "generatedAt": "2026-11-16T16:41:36Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2176,7 +2176,7 @@
           "number": 4,
           "title": "Chương 4: Đột kích bộ lạc Orc (4)",
           "path": "translations/legend-1/vi/Chapter_004.md",
-          "sha": "685f651241fe3dad6b7010df0580ebe545248b11"
+          "sha": "3c04c6d96b7bb6bbc38ba6a02ec03c2acbc93b94"
         },
         {
           "number": 5,
