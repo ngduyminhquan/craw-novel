@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T10:30:30Z",
+  "generatedAt": "2026-11-16T10:36:18Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2453,6 +2453,12 @@
           "title": "Chương 50: Bài thi thăng hạng (50)",
           "path": "translations/legend-1/vi/Chapter_050.md",
           "sha": "935988ce5915e2071f0ae487f1d1c385308928c9"
+        },
+        {
+          "number": 51,
+          "title": "Chương 51: Bài thi thăng hạng (51)",
+          "path": "translations/legend-1/vi/Chapter_051.md",
+          "sha": "07a663efbfb8b9be3329d39ca926430cbc1b1211"
         }
       ]
     },

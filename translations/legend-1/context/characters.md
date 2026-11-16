@@ -169,3 +169,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nghề nghiệp: Ranger (hoặc Tinh Linh Ma Pháp Sư), sở hữu tài năng hiếm có kết hợp cung thuật điêu luyện và Tinh Linh Ma Pháp.
 - Tính cách: điềm đạm, đoan trang, tự tin.
 - Kỹ năng: cung thuật, Tinh Linh Ma Pháp (giao tiếp trực tiếp với tinh linh không cần vật phát động; điều khiển Tinh Linh Gió tạo tường phòng thủ, Tinh Linh Đất làm sụt lún mặt đất, kết hợp cả hai trói buộc đối thủ), cảm nhận ma lực nhạy bén (nhận biết lượng ma lực khổng lồ dị thường của Rei vượt xa tộc Elf lẫn High Elf)
+- Vũ khí: cây cung lớn là gia bảo truyền đời của gia tộc có thể cường hóa thuộc tính phong cho mũi tên
