@@ -141,3 +141,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | アルラウネクイーン | Alraune Queen | Alraune Queen | quái vật | 36 | Quái vật dạng thực vật nhân dạng hoa cấp cao |
 | 誓約の魔法 | ma pháp thệ ước | Ma Pháp Thệ Ước | kỹ năng | 36 | Ma pháp ràng buộc lời thề/bí mật (vỏ bọc của ma thuật Hạt Giống Trừng Phạt của Zepairu) |
 | 戒めの種 |  | Hạt Giống Trừng Phạt | kỹ năng | 38 | Ma thuật hệ Hỏa của Zepairu cấy hạt lửa vào đầu mục tiêu, phản bội sẽ bị thiêu rụi từ bên trong |
+| 魔笛 |  | Ma Địch | vật phẩm | 39 | Đạo Cụ Ma Thuật rẻ tiền dùng ma lực của người dùng để phát âm thanh the thé vang xa làm tín hiệu |
+| 犯罪奴隷 |  | nô lệ tội phạm | khác | 39 | Thân phận nô lệ bị xử phạt đối với tội phạm hoặc kẻ cướp bị bắt sống |
