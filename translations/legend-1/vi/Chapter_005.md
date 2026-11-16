@@ -1,6 +1,6 @@
 # Chương 5: Đột kích bộ lạc Orc (5)
 
-Xung quanh tòa nhà, cây cối khổng lồ mọc san sát, ấy vậy mà chẳng hiểu sao ánh nắng mai trong trẻo vẫn rọi xuống được. Không khí buổi sớm cũng vô cùng trong lành. Nếu có ai muốn tìm chỗ tắm rừng thư giãn thì đây hẳn là nơi lý tưởng... tất nhiên là với điều kiện người ta tới được tới đây.
+Xung quanh tòa nhà, cây cối khổng lồ mọc san sát, ấy vậy mà chẳng hiểu sao ánh nắng mai trong trẻo vẫn rọi xuống được. Không khí buổi sớm cũng vô cùng trong lành. Nếu có ai muốn tìm chỗ tắm rừng thư giãn thì đây hẳn là nơi lý tưởng... tất nhiên là với điều kiện người ta đặt chân được tới đây.
 
 Rei cùng Set vừa bước ra khỏi tòa nhà, liền đưa mắt quan sát xung quanh.
 
@@ -104,7 +104,7 @@ Mong ước nhỏ nhoi ấy nhanh chóng tan tành. Thứ lù lù bước ra tho
 
 Suốt vài giây, Rei, Set và con gấu trước mặt cứ thế im lặng nhìn nhau.
 
-Con gấu dài chưa tới hai mét, nhưng vì dáng cao lênh khênh theo chiều dọc nên trông lại to hơn cả Set. Thân hình nó vạm vỡ thấy rõ, trên bộ lông lúc nào cũng bọc một lớp nước. Từ hai chi trước mọc ra những chiếc vuốt sắc dài cỡ ba mươi phân, trông đến là dữ tợn. Trong đầu Rei còn đang mải thắc mắc sao nước bám trên lông mà chẳng nhỏ giọt xuống, thì đúng như dự liệu, con Gấu Nước (tên tạm gọi) trước mặt đã phá vỡ sự im lặng.
+Con gấu dài chưa tới hai mét, nhưng vì thân hình cao lớn theo chiều dọc nên trông lại đồ sộ hơn cả Set. Thân hình nó vạm vỡ thấy rõ, trên bộ lông lúc nào cũng bọc một lớp nước. Từ hai chi trước mọc ra những chiếc vuốt sắc dài cỡ ba mươi phân, trông đến là dữ tợn. Trong đầu Rei còn đang mải thắc mắc sao nước bám trên lông mà chẳng nhỏ giọt xuống, thì đúng như dự liệu, con Gấu Nước (tên tạm gọi) trước mặt đã phá vỡ sự im lặng.
 
 "Gàoooooo!"
 
@@ -158,7 +158,7 @@ Cậu liếc mắt nhìn lên phần lưỡi đại hái, rồi chợt nhớ ra.
 
 (Chết dở. Mình quên khuấy mất Lưỡi Hái Tử Thần còn có khả năng truyền ma lực vào để tăng uy lực. Đúng là trận đầu tiên nên căng thẳng... Mà căng thẳng ư?)
 
-Nghĩ tới đây, cậu mới để ý mức độ căng thẳng của mình. Căng thẳng thì có thật, nhưng cậu chẳng hề bị cứng đờ tay chân vì quá run như đám tân binh hay tay mơ hay gặp trong tiểu thuyết.
+Nghĩ tới đây, cậu mới để ý mức độ căng thẳng của mình. Căng thẳng thì có thật, nhưng cậu chẳng hề bị cứng đờ tay chân vì quá run như đám tân binh hoặc tay mơ thường thấy trong tiểu thuyết.
 
 (Đây cũng là nhờ dung hợp sao.)
 

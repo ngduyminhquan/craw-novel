@@ -18,7 +18,7 @@ Cứ như vậy vài phút, Rei lấy lại tinh thần rồi đứng dậy.
 
 "Dù tính xử lý cái xác quái vật này thế nào thì trước mắt cũng phải dời đi chỗ khác đã. Chắc chắn chẳng mấy chốc sẽ có con quái vật khác mò tới cho xem."
 
-Xung quanh đây, vì trận đánh với con Gấu Nước mà cây cối gãy đổ, mặt đất bị cày xới nham nhở. Đã vậy, mùi máu Gấu Nước lẫn mùi thịt bị thiêu từ bên trong cũng bắt đầu tỏa ra khắp nơi.
+Xung quanh đây, vì trận đánh với con Gấu Nước mà cây cối gãy đổ, mặt đất bị cày xới nham nhở. Đã vậy, mùi máu Gấu Nước hòa lẫn mùi thịt nướng do bị thiêu đốt từ bên trong cũng đang phảng phất khắp nơi.
 
 "Mà vấn đề là làm sao mang con Gấu Nước này theo đây... Cho lên lưng Set chở đi à? Cơ mà bắt nó cõng thứ nặng cả mấy trăm ký này thì... Khoan đã? Chẳng lẽ..."
 
@@ -42,7 +42,7 @@ Set lại dụi mặt vào người cậu như giục mau đi thôi. Rei vừa v
 
 "Được rồi, tới đây chắc ổn rồi."
 
-Đi khỏi chỗ đánh nhau với Gấu Nước chừng hai mươi phút, Rei mới dừng chân. Bình thường đi chừng ấy thời gian chẳng bỏ bèn gì, nhưng đôi Giày Sleipnir cậu đang mang giúp đi nhanh gấp mấy lần người thường, nên khoảng cách này chắc đã đủ xa.
+Đi khỏi chỗ đánh nhau với Gấu Nước chừng hai mươi phút, Rei mới dừng chân. Bình thường đi chừng ấy thời gian chẳng bõ bèn gì, nhưng đôi Giày Sleipnir cậu đang mang giúp đi nhanh gấp mấy lần người thường, nên khoảng cách này chắc đã đủ xa.
 
 Mặt trời đã lên khá cao, cái nóng âm ỉ bắt đầu lan tỏa khắp xung quanh.
 
@@ -62,7 +62,7 @@ Nhìn vậy, Rei cũng để nguyên cả vỏ mà cắn một miếng Quả Cla
 
 Vừa cắn xuống, vị ngọt thanh mát pha chút chua dịu đã lan ra khắp miệng. Nhai thêm chút nữa, thứ nước quả tươi mát liền tứa ra ngập tràn.
 
-Đây là hương vị đầu đời Rei mới được nếm thử. ...Mà thật ra trước kia sống ở một thị trấn quê vùng Tohoku, cậu cũng chẳng mấy khi được ăn hoa quả lạ.
+Đây là hương vị lần đầu tiên Rei được nếm thử. ...Mà thật ra trước kia sống ở một thị trấn quê vùng Tohoku, cậu cũng chẳng mấy khi được ăn hoa quả lạ.
 
 Sau khi chia nhau ăn hết mỗi bên hai Quả Clara ngon ngoài mong đợi, cuối cùng cũng tới lúc xẻ thịt con Gấu Nước.
 
@@ -124,7 +124,7 @@ Ma Thạch đổi màu tùy theo thuộc tính của con quái vật mang nó. C
 
 Cậu lại truyền ma lực vào Dao Mithril, cứ thế xả gọn cả thịt lẫn xương.
 
-Màn xẻ thịt kết thúc chỉ sau vài phút. Trước mắt Rei lúc này là sáu phần thịt được chia gọn: hai chân trước, hai chân sau, phần thân và phần đầu.
+Màn xẻ thịt kết thúc chỉ sau vài phút. Trước mắt Rei lúc này là sáu phần được pha gọn: chân trước phải, chân trước trái, chân sau phải, chân sau trái, phần thân và phần đầu.
 
 "Gùuu."
 
@@ -134,7 +134,7 @@ Màn xẻ thịt kết thúc chỉ sau vài phút. Trước mắt Rei lúc này 
 
 "Gùuu."
 
-Nhìn dáng vẻ ấy, Rei lại quen tay đưa tay gãi đầu Set.
+Nhìn dáng vẻ ấy, Rei lại theo thói quen đưa tay gãi đầu Set.
 
 (Giờ tính sao đây. Tri thức của Zepairu chẳng có gì về Gấu Nước nên mình cũng chịu chẳng biết đống nội tạng này có ăn được không nữa. ...Mà cùng lắm thì trong Nhẫn Sương Mù cũng có thuốc giải độc, chắc không sao đâu... nhỉ?)
 

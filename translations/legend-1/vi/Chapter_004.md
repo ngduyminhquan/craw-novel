@@ -28,7 +28,7 @@ Dù nói là còn mười ngày lương thực, nhưng đó là chỉ tính riê
 
 "Vậy thì trước hết phải thử xem mình có dùng được ma thuật đàng hoàng không đã."
 
-Nhờ thừa hưởng tri thức của Zepairu, Rei có đủ kiến thức để sử dụng thành thạo ma thuật hệ Hỏa. Nhưng đó dù sao cũng là kiến thức của Zepairu chứ không phải của cậu. Vốn dĩ ma thuật phụ thuộc vào tư chất và khả năng hình dung của từng người, nên nếu quá ỷ lại vào kiến thức của Zepairu thì đến lúc nguy cấp rất dễ mắc sai lầm không thể cứu vãn.
+Nhờ kế thừa tri thức của Zepairu, Rei nắm đủ lý thuyết để dùng thành thạo ma thuật hệ Hỏa. Nhưng đó suy cho cùng vẫn là tri thức của Zepairu chứ không phải của riêng cậu. Vốn dĩ ma thuật phụ thuộc vào tư chất và khả năng hình dung của từng người, nên nếu quá ỷ lại vào tri thức sẵn có thì lúc nguy cấp rất dễ mắc sai lầm không thể cứu vãn.
 
 "Gừưưư."
 
@@ -44,9 +44,9 @@ Ma thuật là kỹ thuật truyền ma lực vào câu chú để đánh lừa 
 
 [Hỡi ngọn lửa, hãy tụ lại nơi đầu ngón tay ta]
 
-Truyền ma lực vào lời nói, cậu cất tiếng niệm chú. Điều quan trọng lúc này là hình dung. Dù quá trình dùng thần chú viết lại thế giới đều giống nhau, nhưng người thi triển hình dung càng rõ ràng thì hiệu quả càng cao. Với một người mê văn hóa đại chúng như manga, anime, phim ảnh, game và tiểu thuyết như Rei, chuyện hình dung ra không hề khó.
+Truyền ma lực vào lời nói, cậu cất tiếng niệm chú. Điều quan trọng lúc này là hình dung. Dù quá trình dùng thần chú viết lại thế giới đều giống nhau, nhưng người thi triển hình dung càng rõ ràng thì hiệu quả càng cao. Với một người mê văn hóa giải trí từ manga, anime, phim ảnh, game cho tới tiểu thuyết như Rei, chuyện hình dung kiểu đó chẳng có gì khó.
 
-Nhờ câu chú, quy luật của thế giới bị viết lại, hình dung của Rei dần thấm vào trong đó.
+Câu chú viết lại quy luật của thế giới, để hình dung của Rei dần thấm sâu vào đó.
 
 [Ngọn Lửa Nhỏ]
 
@@ -168,7 +168,7 @@ Nhận được những món Đạo Cụ Ma Thuật từ chủ nhân, Set thích
 
 Sau đó, Rei đeo nốt chiếc Vòng Tay Hấp Ma còn lại vào cổ tay trái, hoàn tất việc chuẩn bị trang bị.
 
-Vũ khí là Lưỡi Hái Tử Thần tạo ra từ Ma Thú Thuật. Đồ phòng ngự là Áo Choàng Rồng làm từ da rồng. Dưới chân mang Giày Sleipnir. Tay phải đeo Nhẫn Sương Mù, tay trái đeo Vòng Tay Hấp Ma. Bản thân cậu hoàn toàn không hay biết rằng, tính cả những món đeo cho Set, toàn bộ số này ở thế giới này đều thuộc hàng Đạo Cụ Ma Thuật siêu thượng hạng.
+Vũ khí là Lưỡi Hái Tử Thần tạo ra từ Ma Thú Thuật. Đồ phòng ngự là Áo Choàng Rồng làm từ da rồng. Dưới chân mang Giày Sleipnir. Tay phải đeo Nhẫn Sương Mù, tay trái đeo Vòng Tay Hấp Ma. Bản thân cậu hoàn toàn không hay biết rằng, tính cả những món đeo cho Set, tất cả những món đó ở thế giới này đều thuộc hàng Đạo Cụ Ma Thuật siêu thượng hạng.
 
 "Gừưưư."
 
@@ -196,4 +196,4 @@ Set khẽ gật đầu, ra vẻ đang đói. Nhìn vậy, Rei cũng sực nhận
 
 Set gật đầu đồng tình, rồi cùng Rei rời khỏi phòng nghiên cứu để tiến về phía nhà ăn.
 
-Nhân tiện, dù Set có thân hình đồ sộ dài đến hai mét, nhưng nhờ dinh thự này vốn thiết kế cho người dùng Ma Thú Thuật nên nó vẫn đi qua cửa phòng nghiên cứu dễ dàng. Sau đó, cả hai ngâm mềm chỗ bánh mì đen nhạt thếch còn sót lại trong bếp với nước rồi ăn cho qua bữa. Xong bữa tối đạm bạc, phần vì thấm mệt nên Rei và Set về phòng ngủ, nhanh chóng chìm vào giấc ngủ.
+Nhân tiện, dù Set có thân hình đồ sộ dài đến hai mét, nhưng nhờ dinh thự này vốn thiết kế cho người dùng Ma Thú Thuật nên nó vẫn đi qua cửa phòng nghiên cứu dễ dàng. Sau đó, cả hai ngâm mềm chỗ bánh mì đen nhạt thếch còn sót lại trong bếp với nước rồi ăn cho qua bữa. Xong bữa tối đạm bạc, phần vì thấm mệt nên Rei và Set quay về phòng, chẳng mấy chốc đã chìm vào giấc ngủ.
