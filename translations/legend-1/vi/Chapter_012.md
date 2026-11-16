@@ -2,7 +2,7 @@
 
 Đại lộ thành phố Gilm. Lúc này nơi đây đang ồn ào tiếng xì xào bàn tán.
 
-Mà thật ra, cảnh tượng này vốn là chuyện thường ngày ở đây, chẳng có gì lạ. Điểm khác biệt duy nhất là giữa tâm điểm xôn xao ấy lại có một cậu trai, hay gọi là thiếu niên thì đúng hơn, đi cùng một chú Griffin.
+Mà thật ra, cảnh tượng này vốn là chuyện thường ngày ở đây, chẳng có gì lạ. Điểm khác biệt duy nhất là ở giữa đám đông đang xôn xao ấy lại có một thanh niên, hay gọi là cậu thiếu niên thì đúng hơn, đi cùng một chú Griffin.
 
 "Gừưư."
 
@@ -34,7 +34,7 @@ Cậu đẩy cánh cửa kêu két một tiếng rồi bước vào trong. Cản
 
 Rei đang tò mò ngó nghiêng khắp Hội thì bất chợt có người lên tiếng. Quay sang nhìn, cậu thấy có mấy quầy tiếp tân xếp cạnh nhau, và một cô nhân viên ở đó vừa gọi cậu.
 
-Đúng là bộ mặt của Hội Mạo Hiểm Giả có khác, mấy cô tiếp tân ở đây cô nào cô nấy đều xinh đẹp hết chỗ chê. Có người thú tai mèo tai chó, có cô tai nhọn trông giống Elf, và dĩ nhiên có cả người thường nữa. Người vừa gọi Rei là một cô tiếp tân người thường buộc tóc đuôi ngựa màu nâu.
+Đúng là bộ mặt của Hội Mạo Hiểm Giả có khác, mấy cô tiếp tân ở đây cô nào cô nấy đều xinh đẹp hết chỗ chê. Có thú nhân tai mèo tai chó, có cô tai nhọn trông giống Elf, và dĩ nhiên có cả người thường nữa. Người vừa gọi Rei là một cô tiếp tân người thường buộc tóc đuôi ngựa màu nâu.
 
 "Tôi muốn đăng ký vào Hội..."
 
@@ -52,7 +52,7 @@ Rei mới nói tới đó thì từ phía đám đang ngồi nhậu bỗng có t
 
 Trong năm người đó có một gã còn khá tỉnh táo định cản lại, nhưng bốn tên còn lại chắc đã say mèm rồi. Bọn chúng mặc kệ lời đồng đội, cứ thế hùa nhau châm chọc, mỉa mai Rei.
 
-(Đúng kiểu tình tiết kinh điển hay gặp trong tiểu thuyết luôn. Lúc tới thành phố Gilm thì chẳng thấy cảnh thương nhân hay quý tộc bị sơn tặc đánh cướp nào, vậy mà sang đến màn bị kiếm chuyện ở Hội Mạo Hiểm Giả thì lại dính ngay. Cứu người bị cướp thì còn được quà cảm ơn hay lợi lộc gì đó, chứ dây vào mấy gã say xỉn này thì... À mà khoan đã? Tên cuối cùng vừa nhắc đến tiệc mừng công thì phải. Ngồi nhậu mừng công ngay quán rượu của Hội, tức là bọn này vừa hoàn thành xong ủy thác nào đó rồi. Vậy thì...)
+(Đúng kiểu tình tiết kinh điển hay gặp trong tiểu thuyết luôn. Lúc tới thành phố Gilm thì chẳng thấy cảnh thương nhân hay quý tộc bị bọn cướp tấn công nào, vậy mà sang đến màn bị kiếm chuyện ở Hội Mạo Hiểm Giả thì lại dính ngay. Cứu người bị cướp thì còn được quà cảm ơn hay lợi lộc gì đó, chứ dây vào mấy gã say xỉn này thì... À mà khoan đã? Tên cuối cùng vừa nhắc đến tiệc mừng công thì phải. Ngồi nhậu mừng công ngay quán rượu của Hội, tức là bọn này vừa hoàn thành xong ủy thác nào đó rồi. Vậy thì...)
 
 "Hừ."
 
@@ -104,7 +104,7 @@ Nếu lập tổ đội nhiều người thì hạng trung bình của cả nhó
 
 Nguyên liệu kiếm được từ quái vật thì mạo hiểm giả cứ tự ý bán cho khách quen hay mối riêng cũng được, nhưng có xảy ra rắc rối gì thì Hội không chịu trách nhiệm đâu.
 
-Tất nhiên Hội vẫn có thu mua mấy nguyên liệu đó, chỉ có điều giá thường thấp hơn khoảng mười đến hai mươi phần trăm so với bán ngoài tiệm vũ khí, tiệm giáp hay tiệm ma đạo cụ trong thành phố. Bù lại thì bên Hội định giá rất nhanh, với lại kể cả thị trường có ngập cùng một loại nguyên liệu thì giá thu mua vẫn giữ nguyên.
+Tất nhiên Hội vẫn có thu mua mấy nguyên liệu đó, chỉ có điều giá thường thấp hơn khoảng mười đến hai mươi phần trăm so với bán ngoài tiệm vũ khí, tiệm giáp hay tiệm Đạo Cụ Ma Thuật trong thành phố. Bù lại thì bên Hội định giá rất nhanh, với lại kể cả thị trường có ngập cùng một loại nguyên liệu thì giá thu mua vẫn giữ nguyên.
 
 Các chi nhánh Hội Mạo Hiểm Giả liên lạc với nhau rất chặt chẽ qua Đạo Cụ Ma Thuật, nên sang nước khác hay chi nhánh khác vẫn dùng được Thẻ Hội và thứ hạng hiện tại như thường.
 

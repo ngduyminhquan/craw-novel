@@ -66,7 +66,7 @@ Chắc thấy Rei đang thích thú ngắm cảnh từ trên cao, Set kêu lên 
 
 "...À mà, không thể cứ mải ngắm cảnh mãi được, mình phải nghĩ trước xem lai lịch mình thế nào đã."
 
-Vốn dĩ cậu chỉ biết thường thức thế giới này qua kiến thức của Zepairu. Mà mớ kiến thức đó xem chừng chẳng đáng tin lắm, nên cậu phải bịa sẵn một cái lý lịch sao cho việc mình ngơ ngác không biết gì về sự đời nghe hợp lý chút. Nghĩ vậy, Rei vừa ngắm cảnh vừa chia nửa đầu óc ra tính chuyện này.
+Vốn dĩ cậu chỉ biết những điều cơ bản ở thế giới này qua kiến thức của Zepairu. Mà mớ kiến thức đó xem chừng chẳng đáng tin lắm, nên cậu phải bịa sẵn một cái lý lịch sao cho việc mình ngơ ngác không biết gì về sự đời nghe hợp lý chút. Nghĩ vậy, Rei vừa ngắm cảnh vừa chia nửa đầu óc ra tính chuyện này.
 
 (Trước hết, đã xác định sống bằng nghề mạo hiểm giả thì cái mác ma thuật sư là bắt buộc rồi. Đi cùng Set thế này thì cũng phải gán thêm kiểu có năng lực Triệu Hồi Thuật hay Thuần Thú Sư nữa. Đã thế còn phải là lý lịch kiểu gì để có mù tịt sự đời cũng không bị nghi...)
 
@@ -76,7 +76,7 @@ Cậu lục lại trong đầu mấy bộ tiểu thuyết, truyện tranh với 
 
 Đúng lúc đó, Rei chợt nhớ tới một bộ manga hồi còn là Saeki Reiji từng đọc, kể về một đứa học việc ma pháp tu luyện tận nơi hẻo lánh rồi được sư phụ cho đi du hành rèn luyện.
 
-Cậu thử ướm từng chi tiết hoàn cảnh hiện tại của mình vào khuôn mẫu đó.
+Cậu thử ướm từng chi tiết hoàn cảnh hiện tại của mình vào câu chuyện đó.
 
 (Ở chung với mỗi sư phụ tại nơi khỉ ho cò gáy nên không rành sự đời... OK. Ma pháp, à không, ma thuật học được từ ông thầy là ma thuật hệ Hỏa với Triệu Hồi Thuật... cơ mà lỡ bị bắt triệu hồi con khác ngoài Set thì kẹt lắm, nên cứ nhận là Thuần Thú Sư đi. Theo kiến thức của Zepairu thì hình như cũng có nghề Thuần Thú Sư thật. Rồi ông sư phụ ma thuật sau khi dạy xong hết mấy thứ cơ bản liền dùng Không Gian Ma Thuật dịch chuyển mình tới chỗ lạ hoắc để rèn luyện, mình với cộng sự Set vừa săn quái vật vừa đi lang thang thì mò ra được thành phố hay làng mạc gì đó, đại khái vậy.)
 
@@ -130,7 +130,7 @@ Cứ thế đi chừng mười phút, cuối cùng cổng vào thành phố cũn
 
 Chẳng dại gì ra tay trước, Rei im lặng đi lại gần đám lính, phía sau là Set ngoan ngoãn bước theo. Nhìn cả hai tiến lại gần, khoảng cách càng ngắn thì không khí xung quanh càng căng thẳng. Đúng lúc đó, một người đàn ông từ trong đám lính bất ngờ bước ra, đi về phía Rei.
 
-(So với mấy người lính kia tầm hai mươi, ông này cỡ ba bốn mươi tuổi. Chắc là chỉ huy của toán này rồi. Vũ khí... có đeo kiếm nhưng vẫn tra trong vỏ bên hông, xem ra chưa có ý định động thủ.)
+(So với mấy người lính kia tầm hai mươi, ông này cỡ ba bốn mươi tuổi. Chắc là chỉ huy của toán này rồi. Vũ khí... có đeo kiếm nhưng vẫn tra trong vỏ bên hông, xem ra không có gì nguy hiểm cả.)
 
 Đúng như Rei đoán, người đàn ông trung niên để râu cằm mở lời.
 
@@ -174,7 +174,7 @@ Set hướng đôi mắt xanh nhìn cậu như muốn hỏi có sao không, Rei 
 
 Chắc yên tâm với lời Rei rồi, Set nằm phịch xuống bãi cỏ cạnh trạm gác. Thức trắng cả đêm lại bay một mạch tới đây không nghỉ nên chắc cũng hơi mệt, nó từ từ nhắm mắt lại.
 
-Dĩ nhiên không phải nó lơ là cảnh giác. Khác hẳn đám Griffin bình thường về mọi mặt, Set thừa sức vừa nằm nghỉ vừa dùng mũi, tai hay cảm nhận ma lực để cảnh giới xung quanh thay cho mắt.
+Dĩ nhiên không phải nó lơ là cảnh giác. Khác hẳn đám Griffin bình thường về mọi mặt, Set thừa sức vừa nằm nghỉ vừa dùng mũi, tai hay cảm nhận ma lực để canh chừng xung quanh thay cho mắt.
 
 "Tôi nói trước luôn, lúc tôi vào trạm gác nói chuyện thì đừng để ai ra chọc phá nó vớ vẩn đấy."
 
@@ -202,7 +202,7 @@ Thấy vẻ mặt của anh lính, Rei cười trừ rồi lên tiếng.
 
 "Chỉ cần đừng tự dưng chạy ra chọc phá nó thì Set không làm gì đâu, chẳng nguy hiểm gì hết."
 
-"Vâng... tôi đành tin vào lời cậu vậy."
+"Vâng... tôi đành tin lời cậu vậy."
 
 "Thế giờ vào trạm gác luôn... à trước hết cầm lấy cái này đã."
 

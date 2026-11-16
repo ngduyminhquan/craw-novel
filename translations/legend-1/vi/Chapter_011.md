@@ -44,7 +44,7 @@ Ranga hỏi bằng giọng nhẹ nhàng, nhưng vẫn toát lên vẻ sẽ khôn
 
 Nghe vậy, Rei chỉ nhún vai.
 
-"Như tôi vừa nói đấy, từ bé tôi đã sống với sư phụ tít trong núi sâu chẳng biết là chỗ nào. Mà sư phụ tôi lại là kẻ cuồng ma thuật, mấy chuyện thường thức bên ngoài ông ấy cũng mù tịt nốt."
+"Như tôi vừa nói đấy, từ bé tôi đã sống với sư phụ tít trong núi sâu chẳng biết là chỗ nào. Mà sư phụ tôi lại là kẻ cuồng ma thuật, mấy chuyện cơ bản bên ngoài ông ấy cũng mù tịt nốt."
 
 "...Ma thuật? Không phải ma pháp à?"
 
@@ -52,7 +52,7 @@ Ranga hỏi lại với vẻ khó hiểu. Ngay khoảnh khắc đó, Rei lại c
 
 "Ma pháp? Sư phụ tôi toàn gọi là ma thuật... Ở đây gọi là ma pháp à?"
 
-"...Ra thế. Đúng là cậu chẳng biết chút thường thức nào thật. Cái tên ma thuật đó là chuyện của mấy trăm năm trước rồi. Giờ hầu như chẳng ai gọi là ma thuật nữa, người ta gọi là ma pháp hết."
+"...Ra thế. Đúng là cậu chẳng biết mấy chuyện cơ bản ở ngoài đời thật. Cái tên ma thuật đó là chuyện của mấy trăm năm trước rồi. Giờ hầu như chẳng ai gọi là ma thuật nữa, người ta gọi là ma pháp hết."
 
 Nghe tới hai chữ "mấy trăm năm", Rei thoáng nhíu mày nhưng lấy lại bình tĩnh ngay rồi nói tiếp.
 
@@ -74,13 +74,13 @@ Rei nhấp một ngụm nước rồi lắc đầu.
 
 "Hừm, không phải ma pháp triệu hồi à. ...Vậy thì..."
 
-Nghe Rei nói vậy, Ranga trầm ngâm suy nghĩ gì đó.
+Nghe Rei nói vậy, Ranga đăm chiêu ngẫm nghĩ gì đó.
 
 Thấy vẻ mặt ấy, Rei hơi thấy bất an nhưng vẫn im lặng chờ Ranga nói tiếp.
 
 "Ở thành phố này cũng có vài mạo hiểm giả thuần hóa được quái vật đấy. Có điều làm gì có ai thuần hóa nổi con quái vật Hạng A như Griffin chứ... Giỏi lắm cũng chỉ tới Hạng D là kịch kim, nên tôi đang không biết tính sao đây."
 
-Ranga nói thế, chứ một đứa mù tịt thường thức thế giới này như Rei thì làm sao biết rõ Hạng A với Hạng D khác nhau cụ thể ra sao. Cậu chỉ đoán đại khái là phân hạng theo sức chiến đấu hay độ nguy hiểm thôi.
+Ranga nói thế, chứ một đứa mù tịt những điều cơ bản ở thế giới này như Rei thì làm sao biết rõ Hạng A với Hạng D khác nhau cụ thể ra sao. Cậu chỉ đoán đại khái là phân hạng theo sức chiến đấu hay độ nguy hiểm thôi.
 
 "À, sang chuyện khác chút nhé, muốn vào thành phố này thì phải nộp thuế đấy."
 
@@ -126,7 +126,7 @@ Cậu mở danh sách trong đầu, lấy ra khoảng 20 xác Sóc Bay Lưỡi D
 
 "Đ-Đây là... Cậu có Hộp Vật Phẩm à!? Với lại đây chẳng phải Jarm và da Gấu Nước hay sống ở cửa Rừng Ma sao!"
 
-Ranga trợn mắt kinh ngạc khi thấy đống Sóc Bay Lưỡi Dao — tức Jarm — cùng tấm da Gấu Nước bỗng dưng được lôi ra từ khoảng không trống rỗng.
+Ranga trợn mắt kinh ngạc khi thấy đống Sóc Bay Lưỡi Dao, tức Jarm, cùng tấm da Gấu Nước bỗng dưng được lôi ra từ khoảng không trống rỗng.
 
 Nói thêm là Rei chẳng hề hay biết, mấy Đạo Cụ Ma Thuật thuộc loại Hộp Vật Phẩm như Nhẫn Sương Mù vốn đã khá hiếm rồi, còn loại có sức chứa khổng lồ cỡ Nhẫn Sương Mù thì trên thế giới này chỉ đếm trên đầu ngón tay.
 
@@ -134,7 +134,7 @@ Nói thêm là Rei chẳng hề hay biết, mấy Đạo Cụ Ma Thuật thuộc
 
 "Phải. Ở khu rừng bị dịch chuyển tới, tôi bất ngờ bị con Gấu Nước... à, đúng cái tên ông vừa gọi nhỉ? Bị nó tấn công, rồi hai đứa chật vật mãi mới hạ được. Dù sao cũng là trận thực chiến đầu tiên nên mất công hơn dự tính."
 
-Rei thầm cười trừ trong bụng vì cái tên ở đây nghe chẳng khác nào dịch thẳng nghĩa đen chữ "gấu nước" ra, nhưng vẫn gật đầu.
+Rei thầm cười trừ trong bụng vì cái tên ở đây nghe y hệt dịch thẳng nghĩa đen chữ "gấu nước" ra, nhưng vẫn gật đầu.
 
 "Vậy thì chỗ cậu bị dịch chuyển tới chính là Rừng Ma rồi. Ít nhất theo tôi biết, quanh vùng này chỉ có Rừng Ma mới có Gấu Nước với Jarm thôi."
 
@@ -174,7 +174,7 @@ Rei thầm tặc lưỡi, nhưng tại mình mổ xẻ vụng về nên cũng ch
 
 Cậu rút một đồng vàng từ trong túi ra đưa cho Ranga.
 
-"Vâng, tôi nhận đủ tiền thuế rồi nhé. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật thuần hóa hay thú triệu hồi đi trong thành phố thì cậu nhớ đeo cái vòng cổ này ở chỗ dễ thấy. Lưu ý là nếu chúng nó nổi điên gây thiệt hại thì chủ nhân sẽ phải chịu trách nhiệm đấy nhé. À, nếu dắt theo quái vật to cỡ con Griffin kia thì tôi gợi ý cậu qua quán trọ Hoàng Hôn Mạch Đình ở phía đông thành phố. Nói đúng hơn thì chỉ có chỗ đó mới đủ rộng cho Griffin nghỉ thôi."
+"Vâng, tôi nhận đủ tiền thuế rồi nhé. Đây là 9 đồng bạc tiền thừa. Ngoài ra, nếu dắt quái vật thuần hóa hay thú triệu hồi đi trong thành phố thì cậu nhớ đeo cái vòng cổ này ở chỗ dễ thấy. Lưu ý là nếu chúng nó nổi điên gây thiệt hại thì chủ nhân sẽ phải chịu trách nhiệm đấy nhé. À, nếu dắt theo quái vật to cỡ con Griffin kia thì tôi gợi ý cậu qua nhà trọ Hoàng Hôn Mạch Đình ở phía đông thành phố. Nói đúng hơn thì cũng chỉ có mỗi nhà trọ đó là cho Griffin nghỉ lại được thôi."
 
 "Hiểu rồi. Tiện cho hỏi Hội Mạo Hiểm Giả ở đâu?"
 
