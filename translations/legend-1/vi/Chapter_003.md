@@ -2,97 +2,97 @@
 
 "Gừưưư."
 
-Reiji tỉnh giấc trong tiếng kêu ấy, cảm nhận ngay lớp lông ấm áp, sờ vào êm mịn đến lạ.
+Tỉnh lại trong tiếng kêu ấy, thứ đầu tiên Reiji cảm nhận được là một lớp lông ấm áp, sờ vào thấy êm mịn đến lạ kỳ.
 
 "...Hử?"
 
-Vừa xoa đầu nhìn quanh, cậu thấy ngay một lớp lông dày mượt. Chủ nhân của bộ lông ấy đang lấy chính thân mình làm gối cho Reiji nằm, như thể muốn che chở cho cậu.
+Vừa xoa đầu vừa đảo mắt nhìn quanh, thứ đầu tiên lọt vào tầm mắt cậu là một lớp lông xù mượt. Sinh vật sở hữu bộ lông ấy đang lấy chính thân mình làm gối cho Reiji nằm, như thể muốn bảo bọc cậu.
 
-Nhận ra điều đó, cậu vừa vuốt ve lớp lông trước mặt vừa đảo mắt nhìn quanh, rồi chạm phải ánh mắt của một sinh vật đang ghé sát nhìn cậu với vẻ lo lắng.
-
-"..."
+Nhận ra điều đó, cậu vừa vuốt ve lớp lông thú trước mặt vừa ngó nghiêng xung quanh. Để rồi, cậu chạm phải ánh mắt của một sinh linh đang ghé sát, dường như có chút lo lắng ngắm nhìn gương mặt cậu.
 
 "..."
 
-Cả hai im lặng, chăm chú nhìn kỹ mặt nhau.
+"..."
 
-Đập vào mắt Reiji là chiếc mỏ đen sắc nhọn cùng đôi mắt xanh tròn xoe. Đôi mắt lam ấy có vẻ đang lo lắng dò xem cậu có sao không.
+Cả hai đều im lặng, chăm chú nhìn kỹ gương mặt của đối phương.
 
-Vừa thoáng nghĩ đôi mắt xanh kia giống hệt mắt mình, ngay sau đó cậu đã thấy gương mặt trước mắt, gương mặt của một loài chim săn mồi, quấn quýt dụi sát vào mặt cậu.
+Đập vào mắt Reiji là chiếc mỏ đen sắc nhọn cùng đôi mắt xanh tròn xoe. Đôi mắt màu lam ấy dường như đang lo lắng dõi theo tình trạng của cậu.
+
+Vừa thoáng nghĩ đôi mắt xanh này giống hệt mắt mình, thì ngay khoảnh khắc sau, gương mặt trước mắt, chính xác là gương mặt của một loài chim săn mồi, đã quấn quýt dụi sát vào mặt cậu.
 
 "Gùuu."
 
-Nhìn bộ dạng làm nũng chẳng khác nào mèo ấy, cậu bất giác mỉm cười, đưa tay xoa đầu chú chim.
+Trước cử chỉ nũng nịu chẳng khác nào một chú mèo con ấy, cậu bất giác mỉm cười rồi xoa đầu chú chim.
 
-Thế là nó càng dụi đầu mạnh hơn như muốn đòi xoa nữa. Vừa vuốt ve, Reiji vừa phóng mắt nhìn khắp người nó, rồi bỗng khựng tay lại.
+Được thể, nó càng dụi đầu mạnh hơn như muốn đòi xoa nữa. Vừa vuốt ve chú chim, Reiji vừa bất chợt ngắm nhìn toàn thân nó, rồi bất giác khựng tay lại.
 
 "Gùuu?"
 
-Mặc cho chú chim nghiêng đầu như muốn hỏi có chuyện gì, cậu dời mắt xuống chỗ mình đang tựa vào. Ở đó không phải lông vũ như cậu tưởng, mà là lớp lông dày mượt tựa như lụa. Họ mèo... đúng hơn thì giống thân sư tử. Có điều hai chân trước lại sắc nhọn đúng kiểu chim săn mồi. Thân sư tử, còn đầu và hai chân trước là của chim săn mồi... không, là đại bàng, trên thân còn mọc đôi cánh đang xếp lại. Reiji biết tên loài huyễn thú này.
+Mặc cho chú chim nghiêng đầu như muốn hỏi có chuyện gì thế, cậu dời mắt xuống chỗ mình đang tựa vào. Ở đó không phải lông vũ của loài chim như cậu tưởng, mà là một lớp lông mềm mịn êm ái tựa như nhung lụa. Họ mèo... đúng hơn thì trông như thân thể của một con sư tử. Có điều hai chân trước lại sắc nhọn đặc trưng của loài chim săn mồi. Thân sư tử, còn đầu và hai chân trước là của chim săn mồi... không, là đại bàng, đã vậy trên lưng còn có đôi cánh đang xếp lại. Reiji biết tên loài huyễn thú này.
 
 "Griffin."
 
 "Gùuu."
 
-Chú chim lại dụi cái đầu đại bàng vào người cậu như bảo đúng rồi đấy. Lẩm bẩm tới đó, Reiji mới nhớ ra vì sao mình lại ngất đi.
+Nó lại dụi đầu đại bàng vào người cậu như muốn khen cậu đoán đúng rồi. Lẩm bẩm tới đó, Reiji rốt cuộc cũng nhớ ra lý do vì sao mình lại ngất đi.
 
-"Phải rồi, mình vừa làm nghi thức Ma Thú Thuật... Nghĩa là chú Griffin này chính là ma thú của mình sao?"
+"Phải rồi, mình vừa thực hiện nghi thức Ma Thú Thuật... Nghĩa là chú Griffin này chính là ma thú của mình sao?"
 
-Hiểu ra chuyện vì sao con Griffin lại ở đây, cậu mới nhìn kỹ lại con ma thú trước mặt. Thân hình sư tử tràn đầy sức sống, gương mặt đại bàng vừa sắc sảo lại đáng yêu. Không tính đôi cánh đang xếp lại thì người nó dài chừng hai mét.
+Khi đã hiểu rõ sự hiện diện của Griffin, cậu lại đưa mắt ngắm nhìn con ma thú trước mặt. Thân hình sư tử tràn đầy sức sống, gương mặt đại bàng vừa sắc sảo lại vừa đáng yêu. Không tính đôi cánh đang khép lại thì chiều dài cơ thể nó chừng hai mét.
 
-Trong ký ức của Reiji, Griffin vốn chỉ có trong game hay tiểu thuyết, mà theo những gì cậu biết thì loài này cực kỳ hung dữ và hiếu chiến. Thế nhưng con Griffin trước mắt lại chẳng có chút nào như vậy. Đúng hơn là nhìn cái cách nó dụi mặt làm nũng như mèo con quấn chủ thế kia, thật khó mà nghĩ tới hai chữ hung dữ.
+Trong ký ức của Reiji, Griffin chỉ xuất hiện trong game hay tiểu thuyết, và theo những kiến thức đó thì loài này vốn cực kỳ hung dữ và hiếu chiến. Thế nhưng con Griffin trước mắt cậu lại chẳng có chút biểu hiện nào như vậy. Đúng hơn là nhìn cái cách nó dụi mặt nũng nịu như mèo con quấn chủ, thật khó mà liên tưởng tới hai chữ hung dữ.
 
-"Hay tại được tạo ra bằng Ma Thú Thuật nên nó mới khác những con Griffin khác nhỉ?"
-
-"Gùuu."
-
-Vừa dứt lời lẩm bẩm, đúng lúc đó chú Griffin cũng gù nhẹ một tiếng trong cổ họng.
-
-"...Chẳng lẽ mày hiểu tao nói gì à?"
+"Hay là vì được tạo ra từ Ma Thú Thuật nên nó mới khác những con Griffin khác nhỉ?"
 
 "Gùuu."
 
-Chú Griffin lại kêu lên một tiếng, như bảo cậu đoán trúng rồi.
+Vừa dứt lời lẩm bẩm, chú Griffin liền gầm gừ nhẹ trong cổ họng như hưởng ứng đúng lúc.
+
+"...Chẳng lẽ mày hiểu được tiếng tao nói à?"
+
+"Gùuu."
+
+Chú Griffin lại kêu lên một tiếng, như muốn xác nhận cậu nói trúng phóc.
 
 "Đợi chút đã nào."
 
 Vừa xoa đầu chú Griffin, cậu vừa lục tìm tri thức của Zepairu.
 
-Theo đó, tùy vào lượng ma lực mà ma pháp trận hấp thụ được, năng lực của ma thú sinh ra cũng thiên hình vạn trạng. Nghĩa là con Griffin quấn người trước mắt này, nhờ sinh ra từ lượng ma lực khổng lồ của Reiji, nên mới có năng lực cao đến thế, ít nhất là hiểu được tiếng người.
+Theo đó, tùy vào lượng ma lực bị ma pháp trận hấp thụ mà năng lực của ma thú sinh ra sẽ thiên hình vạn trạng. Nghĩa là chú Griffin quấn người trước mắt nhờ sinh ra từ lượng ma lực khổng lồ của Reiji nên mới sở hữu năng lực vượt trội đến thế, ít nhất là nó hiểu được tiếng người.
 
 "Ra là vậy, tao hiểu sơ sơ rồi... Trước tiên phải đặt tên cho mày đã nhỉ."
 
-Con Griffin trước mắt chẳng hiểu sao lại quấn lấy Reiji ngay từ đầu, nhưng theo đúng trình tự của Ma Thú Thuật, tạo ra ma thú xong phải đặt tên thì sự tồn tại của nó mới được xác lập.
+Con Griffin trước mắt chẳng hiểu sao lại quấn lấy Reiji ngay từ đầu, nhưng theo đúng quy trình của Ma Thú Thuật thì sau khi tạo ra ma thú, phải đặt tên thì sự tồn tại của nó mới chính thức được xác lập.
 
 "Griffin, bầu trời, bão tố... Gọi là Set thì sao nhỉ?"
 
-Set. Đó là tên một vị thần trong thần thoại Ai Cập, vị thần cai quản bão tố. Reiji giải thích thêm rằng đó cũng là vị thần của sự hung dữ và chiến tranh, đồng thời là biểu tượng của sức mạnh vĩ đại.
+Set. Đó là tên một vị thần trong thần thoại Ai Cập, người cai quản những cơn bão. Reiji còn giải thích thêm rằng đây cũng là vị thần cai quản sự cuồng nộ cùng chiến tranh, đồng thời được biết đến như biểu tượng của sức mạnh vĩ đại.
 
-Nhìn chú Griffin đang đứng ngay trước mặt như muốn bảo vệ mình, đó là cái tên đầu tiên bật ra trong đầu cậu.
+Nhìn chú Griffin trước mắt luôn kề bên như muốn bảo vệ mình, đó là cái tên đầu tiên cậu liên tưởng tới.
 
 "Gừưưư."
 
-Nghe giải thích về nguồn gốc cái tên Set, chú Griffin cũng thích thú gù lên khe khẽ trong cổ họng.
+Nghe giải thích về nguồn gốc cái tên Set, chú Griffin cũng thích thú gầm gừ trong cổ họng.
 
 "Được rồi. Từ hôm nay mày là Set nhé. Còn tao là Reiji... À không, đấy là tên cũ của tao rồi."
 
-Vừa vuốt đầu Set đang quấn quýt, cậu vừa ngẫm nghĩ. Người tên Saeki Reiji đã bị thanh dầm thép kia đè chết rồi. Người đang ở đây bây giờ là sự dung hợp giữa Saeki Reiji và Zepairu. Dù nhân cách chính vẫn là Reiji, nhưng cứ dùng nguyên cái tên Saeki Reiji thì vẫn thấy hơi gượng gạo. Hơn nữa, theo tri thức của Zepairu, cái tên Saeki Reiji cũng chẳng hợp với thế giới Elgin này.
+Vừa vuốt đầu Set đang quấn quýt, cậu vừa ngẫm nghĩ. Bản thể mang tên Saeki Reiji đã bị thanh dầm thép kia đè bẹp mà chết rồi. Kẻ đang đứng ở đây là sự dung hợp giữa Saeki Reiji và Zepairu. Dẫu nhân cách chủ đạo vẫn là Reiji, nhưng cứ thế dùng lại cái tên Saeki Reiji thì có phần gượng gạo. Thêm nữa, theo tri thức của Zepairu thì tại thế giới Elgin này, cái tên Saeki Reiji cũng chẳng hề hòa nhập.
 
-"Reiji... Phải rồi, từ giờ tao sẽ lấy tên là Rei. Từ nay nhờ mày nhé, Set. Tên tao là Rei."
+"Reiji... Phải rồi, từ giờ tao sẽ lấy tên là Rei. Giúp đỡ nhau nhé, Set. Tên tao là Rei."
 
 "Gừưư."
 
-Vừa dứt lời và nghe Set đáp lại, một thứ tựa như danh sách kỹ năng bỗng hiện lên trong tâm trí cậu.
+Ngay khoảnh khắc cậu dứt lời và Set đáp lại, một thứ tựa như danh sách kỹ năng bỗng hiện lên trong tâm trí cậu.
 
 "Cái gì đây?"
 
-Dòng chữ bất thình lình hiện lên trong đầu ấy, theo cảm nhận của Rei thì trông giống hệt bảng trạng thái trong game. ...Có điều trên đó chỉ ghi mỗi danh sách kỹ năng, chẳng có những chỉ số quen thuộc như STR, sức mạnh hay lực tấn công gì cả. Mà trước hết, cái tên hiển thị trên đó là Set chứ không phải Rei hay Reiji.
+Đoạn thông tin bất thình lình hiển thị trong tâm trí ấy, theo cảm nhận của Rei thì trông giống hệt bảng trạng thái trong trò chơi điện tử. ...Có điều nó chỉ vỏn vẹn dòng chữ danh sách kỹ năng, chứ chẳng hề có những chỉ số quen thuộc như STR, sức mạnh hay lực tấn công. Hơn nữa, cái tên hiển thị bên trên là Set chứ không phải Rei hay Reiji.
 
-Cậu vội lục tìm thông tin trong kho tri thức của Zepairu.
+Cậu vội vã lục tìm thông tin từ mớ tri thức của Zepairu.
 
 "...Ra là trò của cậu à, Takumu."
 
-Đúng vậy, hóa ra khi sáng tạo ra Ma Thú Thuật, chính Takumu đã chế thêm cái danh sách kỹ năng này. Anh ta làm vậy để hiển thị những kỹ năng mà Set học được khi nuốt Ma Thạch. Đúng là người chuyển sinh từ Nhật Bản hiện đại có khác. À mà, ngoài ma pháp trận ra, thứ duy nhất còn sót lại trong phòng là Nhẫn Sương Mù cũng có chức năng liệt kê đồ đạc bên trong rồi hiện lên trong đầu.
+Phải rồi, hóa ra trong quá trình nghiên cứu Ma Thú Thuật, Takumu chính là người đã nhúng tay vào việc tạo ra danh sách kỹ năng này. Anh ta đã thiết lập để nó hiển thị những kỹ năng mà Set học được thông qua việc nuốt Ma Thạch. Quả không hổ danh là một người chuyển sinh từ Nhật Bản hiện đại. Nhân tiện, ngoài ma pháp trận ra thì thứ duy nhất còn lại trong phòng là Nhẫn Sương Mù cũng có chức năng lập danh mục đồ đạc bên trong để hiển thị vào tâm trí.
 
 "Mà thôi, tiện thì có tiện thật nên cũng chẳng sao."
 
@@ -100,128 +100,128 @@ Cất công sang dị giới, hay nói đúng hơn là được tái sinh, vậy
 
 "Gừ."
 
-Thấy vậy, Set liền dùng mỏ ngậm một vật thon dài từ chỗ nãy giờ bị bóng mình che khuất, chìa về phía Rei.
+Thấy Rei như vậy, Set liền dùng mỏ gắp một vật thon dài từ góc nãy giờ bị bóng của nó che khuất, chìa ra trước mặt Rei.
 
 "Đây là... lưỡi hái à?"
 
-Nói là lưỡi hái, nhưng đây chẳng phải loại liềm cắt cỏ đâu. Cán dài chừng hai mét, lưỡi dài khoảng một mét, đích thị là cây đại hái tử thần, xứng đáng gọi bằng cái tên Lưỡi Hái Tử Thần.
+Nói là lưỡi hái, nhưng đây tuyệt nhiên chẳng phải loại liềm cắt cỏ. Cán dài chừng hai mét, lưỡi dài khoảng một mét, quả thực là một món vũ khí xứng đáng với danh xưng Lưỡi Hái Tử Thần.
 
 "Mày đưa cái này cho tao làm gì thế?"
 
 "Gùuu."
 
-Như muốn bảo thứ này là của cậu, nó vẫn ngậm cây đại hái bằng mỏ, chìa về phía Rei.
+Như muốn bảo thứ này là của Rei, nó dùng mỏ ngậm cây đại hái chìa về phía Rei.
 
-Cứ để Set ngậm mãi thế thì tội nó quá, nên cậu tạm thời nhận lấy cây đại hái.
+Cứ để Set ngậm mãi thế này thì tội nghiệp nó quá, nên cậu đành nhận lấy cây đại hái.
 
-Cán đen, lưỡi cũng đen. Cầm trên tay cây đại hái mang một màu đen tuyền ấy, Rei chợt nhớ ra.
+Phần cán màu đen, lưỡi cũng màu đen. Cầm trên tay cây đại hái mang sắc màu chỉ có thể gọi là đen tuyền ấy, Rei chợt nhớ ra.
 
-"Vốn dĩ lúc mình bước vào phòng nghiên cứu này đâu có cây đại hái nào. Tức là nó mới xuất hiện từ lúc nào không hay... Chỉ có một khả năng duy nhất thôi nhỉ."
+"Vốn dĩ lúc mình bước vào phòng nghiên cứu này đâu có cây đại hái nào. Tức là nó mới xuất hiện từ lúc nào không hay... Khả năng xảy ra chỉ có một thôi nhỉ."
 
-Không biết đây là lần thứ mấy trong ngày rồi. Cậu lại lục tìm thông tin trong tri thức của Zepairu, và câu trả lời hiện ra ngay lập tức.
+Chẳng rõ đây đã là lần thứ mấy trong ngày rồi. Cậu lại lục tìm thông tin từ tri thức của Zepairu, và kết quả hiện ra ngay tức khắc.
 
 "Quả nhiên là do Ma Thú Thuật rồi."
 
-Theo tri thức của Zepairu, trong quá trình tạo ra ma thú, nếu giải phóng một lượng ma lực khổng lồ, nói cách khác là vượt quá mức ma thú sinh ra có thể chứa, thì phần ma lực dư thừa sẽ biến thành Đạo Cụ Ma Thuật. Đương nhiên, người sửa thuật thức theo kiểu đó chính là Takumu.
+Theo tri thức của Zepairu, trong quá trình tạo ra ma thú, nếu một lượng ma lực khổng lồ được giải phóng, nói cách khác là lượng ma lực tỏa ra vượt quá mức mà ma thú có thể dung nạp, thì phần ma lực dư thừa sẽ kết tinh thành Đạo Cụ Ma Thuật. Đương nhiên, kẻ nhúng tay chỉnh sửa thuật thức theo kiểu đó chính là Takumu.
 
-Có điều, trong những nghi thức mà Zepairu và môn phái từng làm, toàn bộ ma lực tỏa ra đều dồn hết vào việc tạo ma thú, nên chưa từng có Đạo Cụ Ma Thuật nào ra đời. Nghĩa là cái thuật thức Takumu vốn chỉ thêm vào cho vui, nay nhờ lượng ma lực khổng lồ của Rei mới thực sự phát huy tác dụng.
+Có điều, trong những nghi thức mà Zepairu cùng môn phái từng thực hiện, toàn bộ ma lực giải phóng ra đều được dùng hết cho việc tạo ma thú, nên chưa từng có Đạo Cụ Ma Thuật nào ra đời. Nói cách khác, thuật thức vốn chỉ được Takumu thêm vào cho vui, nay nhờ lượng ma lực khổng lồ của Rei mà rốt cuộc mới phát huy tác dụng.
 
-"Mà đã liên quan tới Takumu thì..."
+"Mà một khi đã dính líu tới Takumu thì..."
 
-Cầm cây đại hái trên tay, Rei nhủ thầm "Trạng thái" trong đầu. Y như rằng, bảng trạng thái của món Đạo Cụ Ma Thuật cậu đang cầm liền hiện lên trong tâm trí.
+Cầm cây đại hái trên tay, Rei thầm nhủ chữ "bảng trạng thái" trong lòng. Ngay lập tức, như một lẽ đương nhiên, các chỉ số của món Đạo Cụ Ma Thuật cậu đang cầm liền hiện ra trong tâm trí.
 
 [Lưỡi Hái Tử Thần]
 
-"Ủa, đặt thẳng tên là Lưỡi Hái Tử Thần luôn à? Không nghĩ ra cái tên nào cầu kỳ hơn chút được à?"
+"Ủa, đặt thẳng tên là Lưỡi Hái Tử Thần luôn à? Bộ không biết biến tấu đi một chút sao?"
 
-Dù nói vậy nhưng Takumu, người đáng để cằn nhằn, đã không còn trên đời nữa rồi. Rei thở dài, đọc tiếp phần mô tả của Lưỡi Hái Tử Thần.
+Dù nói vậy nhưng Takumu, người đáng bị cằn nhằn lúc này, đã không còn trên cõi đời này nữa rồi. Vừa thở dài, cậu vừa đọc tiếp phần mô tả của Lưỡi Hái Tử Thần.
 
-Năng lực thứ nhất: vật phát động ma thuật. Vì được tạo ra từ lượng ma lực khổng lồ của Rei nên hiệu năng của món Đạo Cụ Ma Thuật này cực kỳ cao.
+Năng lực thứ nhất là vật phát động ma thuật. Vì là Đạo Cụ Ma Thuật được tạo ra từ lượng ma lực khổng lồ của Rei nên hiệu năng của nó cực kỳ cao.
 
-Năng lực thứ hai: giống như Set, nó có thể hấp thụ Ma Thạch để nhận thêm hiệu ứng mới, đồng thời cũng liệt kê được danh sách năng lực thu được.
+Năng lực thứ hai: tương tự như Set, nó có thể hấp thụ Ma Thạch để nhận thêm hiệu ứng mới. Đồng thời, những năng lực thu được cũng có thể hiển thị thành danh sách giống như Set.
 
-Năng lực thứ ba: giảm trọng lượng. Ai có cùng bước sóng ma lực với Lưỡi Hái Tử Thần, tức là chỉ riêng Rei và Set, có thể vung cây lưỡi hái này mà gần như chẳng thấy nặng chút nào.
+Năng lực thứ ba là giảm trọng lượng. Những ai có cùng bước sóng ma lực với Lưỡi Hái Tử Thần, tức là chỉ riêng Rei và Set, có thể vung vẩy cây lưỡi hái này mà gần như không cảm nhận thấy sức nặng.
 
-Năng lực thứ tư: khi truyền ma lực vào, uy lực cơ bản của cây đại hái sẽ tăng lên.
+Năng lực thứ tư là khi truyền ma lực vào, các tính năng cơ bản của cây đại hái sẽ được gia tăng.
 
-Bảng trạng thái trong đầu cậu ghi như vậy.
+Bảng thông tin trong tâm trí cậu hiển thị như vậy.
 
-"Thứ này nói thẳng ra là cực kỳ hiếm luôn chứ nhỉ?"
+"Cái này nói trắng ra là siêu hiếm luôn chứ chẳng đùa nhỉ?"
 
 "Gùuu."
 
-Set kêu lên một tiếng như bảo đúng thế.
+Set cất tiếng kêu như muốn tán thành.
 
-"Đúng là có vũ khí kiêm vật phát động ma thuật thì sướng thật. Sướng thì sướng đấy... nhưng bình thường những lúc thế này phải là kiếm chứ nhỉ? Sao lại ra cây đại hái thế này?"
+"Đúng là có vũ khí kiêm luôn vật phát động ma thuật thì sướng thật. Sướng thì sướng đấy... nhưng bình thường những lúc thế này người ta hay chọn kiếm chứ? Sao lại là đại hái cơ chứ?"
 
-Hiệu năng thì áp đảo thật, nhưng đây lại là món Đạo Cụ Ma Thuật kén người dùng, có vẻ rất khó thuần thục. Đó là cảm nhận của Rei khi cầm Lưỡi Hái Tử Thần trên tay.
+Hiệu năng thì vượt trội thật, nhưng đây lại là món Đạo Cụ Ma Thuật dành cho dân nhà nghề và có vẻ rất khó thuần thục. Đó là cảm nhận của Rei khi cầm Lưỡi Hái Tử Thần trên tay.
 
-"Dù sao cũng có được món Đạo Cụ Ma Thuật lợi hại thế này rồi, đành cố mà dùng cho thuần thục vậy."
+"Dù sao cũng cất công có được món Đạo Cụ Ma Thuật lợi hại thế này, thôi thì đành cố mà làm chủ nó vậy."
 
-Cậu nhấc bổng Lưỡi Hái Tử Thần lên nhẹ tênh, lập tức cảm nhận rõ hiệu quả giảm trọng lượng.
+Cậu nhẹ nhàng nhấc bổng Lưỡi Hái Tử Thần lên, lập tức cảm nhận rõ rệt hiệu quả của việc giảm trọng lượng.
 
-Bình thường, món đồ kim loại cỡ này phải nặng hơn mười hay hai mươi ký là cái chắc. Thế nhưng cây Lưỡi Hái Tử Thần trên tay Rei lúc này lại gần như không có trọng lượng. Cảm giác chắc chỉ tầm một trăm gam là cùng.
+Bình thường, một khối kim loại cỡ này thì trọng lượng đâu chỉ dừng ở mức mười hay hai mươi ký. Thế nhưng cây Lưỡi Hái Tử Thần mà Rei đang cầm lúc này lại gần như không có chút sức nặng nào. Cảm giác trên tay chắc chỉ tầm một trăm gam là cùng.
 
 "Quả đúng là lợi hại thật."
 
 "Gừ."
 
-Set cũng gù nhẹ trong cổ họng tán thành.
+Set cũng gầm gừ trong cổ họng như đồng tình.
 
 "Giờ thì mục tiêu lớn nhất là kế thừa Ma Thú Thuật đã xong xuôi... Tiếp theo tính sao đây?"
 
-Vừa vuốt ve bộ lông mượt như lụa của Set, Rei vừa lẩm bẩm, rồi nhanh chóng nhận ra trước mắt chưa bàn chuyện lâu dài vội, chứ cậu không thể ở mãi trong ngôi nhà này được. Nước uống thì tạm chưa lo, nhưng lương thực chỉ còn đủ ăn chừng mười ngày. Nếu không sớm tìm đường đến làng hay thị trấn nào đó, e rằng vừa kế thừa Ma Thú Thuật xong cậu sẽ chết đói mất.
+Vuốt ve bộ lông mượt mà như lụa của Set, Rei vừa lẩm bẩm vừa nhanh chóng hiểu ra rằng, chưa bàn tới mục tiêu tương lai, cậu không thể cứ ở mãi trong ngôi nhà này được. Bởi lẽ nước uống thì chưa tính, chứ lương thực chỉ còn đủ dùng chừng mười ngày. Nếu không sớm tìm đường đến một ngôi làng hay thị trấn nào đó, e rằng vừa kế thừa Ma Thú Thuật xong là cậu đã phải đối mặt với kết cục chết đói.
 
 "Không, có lương thực thì cũng chỉ đủ cho tao, chứ làm gì có phần của mày đâu, Set."
 
-Dù được tạo ra bằng Ma Thú Thuật, nhưng đã là sinh vật sống thì đương nhiên vẫn phải ăn. Với thân hình dài hai mét của Set, cả hai nhiều lắm chỉ trụ lại căn dinh thự này được một ngày, cố lắm là hai ngày.
+Dù là sinh vật tạo ra từ Ma Thú Thuật, nhưng một khi đã là sinh mệnh sống thì đương nhiên vẫn cần ăn uống. Với thể hình dài hai mét của Set, thời gian nán lại căn dinh thự này chắc chỉ được một ngày, cố lắm thì hai ngày.
 
-"Thế nên phải sớm tìm tới thị trấn hay ngôi làng nào có người ở mới được, nhưng mà..."
+"Thế nên là phải nhanh chóng tìm tới thị trấn hay ngôi làng nào có người ở mới được, cơ mà..."
 
-Theo tri thức của Zepairu, dinh thự này được bao bọc bởi kết giới Không Gian Ma Thuật, nhưng khu rừng xung quanh lại có vô số quái vật hung dữ sinh sống. Sở dĩ họ xây dinh thự ở một nơi như vậy là vì đây vốn là chỗ ẩn náu của nhóm Zepairu. Họ giăng kết giới cực mạnh giữa khu rừng đầy rẫy quái vật để ngăn chúng lọt vào, đồng thời tận dụng chính lũ quái vật ấy làm lá chắn phòng thủ trước kẻ thù bên ngoài.
+Theo tri thức của Zepairu, dinh thự này được bao bọc bởi kết giới Không Gian Ma Thuật, nhưng trong khu rừng xung quanh lại có vô số quái vật hung tợn sinh sống. Sở dĩ họ xây dựng dinh thự ở một nơi như thế là vì đây vốn là một nơi ẩn náu của nhóm Zepairu. Bởi vậy, họ đã giăng kết giới hùng mạnh giữa khu rừng đầy rẫy quái vật dữ tợn này để ngăn chúng xâm nhập vào nhà, đồng thời lợi dụng chính lũ quái vật đó làm bức tường phòng thủ trước những kẻ thù bên ngoài.
 
-"Chuyện đó thì cũng hiểu, nhưng một đứa chân ướt chân ráo mới tới thế giới fantasy như mình liệu có thoát nổi khu rừng đầy quái vật đó không... Lẽ ra mấy người cũng phải nghĩ giùm tới chuyện đó chứ."
+"Biết là thế rồi, nhưng một đứa chân ướt chân ráo tới thế giới fantasy như mình liệu có thoát nổi khu rừng đầy quái vật đó không... Lẽ ra các vị cũng phải nghĩ tới chuyện đó giùm cái chứ."
 
-Rei lẩm bẩm càu nhàu rồi bất giác thở dài.
+Rei càu nhàu rồi bất giác thở dài ngao ngán.
 
 "Gừưư."
 
-Set vỗ phành phạch sải rộng đôi cánh mỗi bên dài gần hai mét, nhưng Rei khẽ lắc đầu.
+Set vỗ mạnh đôi cánh dài gần hai mét mỗi bên xòe rộng ra, nhưng Rei khẽ lắc đầu.
 
-"Bay trên trời hơi khó đấy nhóc. Nghe bảo chỗ này có cả loài rồng sinh sống nữa cơ mà."
+"Bay trên trời hơi khó đấy nhóc. Nghe bảo nơi này có cả chủng loài rồng cư ngụ nữa cơ mà."
 
 "Gùuu."
 
-"Đừng bận tâm. Đằng nào thì cả mày lẫn tao lúc này đều chưa biết mình mạnh tới đâu mà."
+"Đừng bận tâm. Dù sao thì cả mày lẫn tao lúc này đều chưa biết rõ mình có bao nhiêu thực lực mà."
 
-Cậu vừa xoa đầu Set vừa lên tiếng an ủi.
+Cậu vừa vuốt đầu Set vừa cất lời an ủi.
 
-"Đã mất công làm thì sao Takumu không làm cho xem được cả mấy chỉ số khác ngoài kỹ năng luôn đi chứ... Đúng là đồ vô tích sự. Mà khoan đã, biết đâu trong Nhẫn Sương Mù lại có Đạo Cụ Ma Thuật nào dùng được thì sao?"
+"Đã làm thì sao Takumu không cho xem luôn mấy chỉ số khác ngoài kỹ năng đi chứ... Đúng là đồ vô tích sự. Mà khoan đã, biết đâu trong Nhẫn Sương Mù lại có Đạo Cụ Ma Thuật nào hữu dụng thì sao?"
 
 Rei lẩm bẩm rồi cùng Set bước tới trước chiếc hộp đựng trang sức chứa Nhẫn Sương Mù.
 
 "Gừưưư."
 
-Chẳng hiểu sao nhìn chiếc hộp trang sức, Set lại gù lên khe khẽ vẻ khoái chí. Thấy vậy, Rei sực nhớ ra truyền thuyết kể rằng loài Griffin rất thích sưu tầm kho báu.
+Chẳng hiểu sao Set lại nhìn chiếc hộp trang sức rồi thích thú gầm gừ trong cổ họng. Thấy cảnh đó, Rei sực nhớ ra truyền thuyết kể rằng loài Griffin rất thích thu gom kho báu.
 
-"Set, mày cứ nghịch cái hộp trang sức đó một lúc đi."
+"Set, mày cứ chơi với cái hộp trang sức đó một lúc đi cũng được."
 
 "Gùuu."
 
-Nghe Rei nói vậy, Set mừng rỡ cọ má vào chiếc hộp. Cậu mỉm cười nhìn cảnh ấy rồi đeo Nhẫn Sương Mù vào tay phải. Chiếc vòng vốn rộng hơn cổ tay cậu lập tức thu nhỏ lại trông thấy, ôm vừa khít lấy cánh tay.
+Nghe lời Rei, Set mừng rỡ cọ má vào chiếc hộp. Nhìn cảnh tượng đáng yêu ấy bằng ánh mắt dịu dàng, Rei đeo Nhẫn Sương Mù vào cánh tay phải. Ngay lập tức, chiếc vòng vốn rộng hơn cổ tay cậu bỗng thu nhỏ lại trong chớp mắt, vừa khít lấy cánh tay.
 
-"Xem nào, muốn hiện danh sách ra thì... À, chỉ cần nghĩ trong đầu là được à."
+"Xem nào, để hiển thị danh mục thì... À, chỉ cần nghĩ trong đầu là được sao."
 
-Danh sách hiện ra trong đầu cậu liệt kê vô số vật phẩm, nguyên liệu cùng đủ loại trang bị. Thế nhưng, vừa lướt mắt đọc qua, Rei đã bất giác đưa tay ôm mặt.
+Bản danh sách mở ra trong tâm trí cậu chứa vô vàn tên gọi của vật phẩm, nguyên liệu và các loại trang bị. Thế nhưng, vừa lướt mắt đọc qua, Rei đã bất giác lấy tay ôm mặt.
 
-"Đúng là có bao nhiêu nguyên liệu trông cực xịn với Đạo Cụ Ma Thuật có hiệu ứng mạnh thật đấy. Nhưng không có lấy một mẩu lương thực nào thì là cố tình chơi khăm nhau hay gì? Chẳng lẽ định bắt mình gặm xương rồng, sừng ác ma cao cấp hay đuôi Salamander chắc? Mà đã tính giao lại cho người kế thừa Ma Thú Thuật rồi, ít ra cũng phải bỏ sẵn lấy một viên Ma Thạch cho Set ăn chứ!"
+"Đúng là có cả đống nguyên liệu trông cực kỳ khủng với Đạo Cụ Ma Thuật mang hiệu ứng bá đạo thật đấy. Nhưng không có lấy một mẩu lương thực nào thì là cố tình chơi khăm mình hay gì? Chẳng lẽ định bắt mình gặm xương rồng, sừng ác ma cao cấp hay đuôi Salamander chắc? Mà đã xác định giao lại cho người kế thừa Ma Thú Thuật thì ít ra cũng phải để lại lấy một viên Ma Thạch cho Set ăn chứ!"
 
-Hết cách, Rei đành lục trong tri thức của Zepairu xem có Đạo Cụ Ma Thuật nào giúp ích được cho tình cảnh hiện tại không. Kết quả là cậu tìm ra thứ gọi là [Quả Cầu Chẩn Đoán]. Có nó là biết ngay bản thân dùng được hệ ma thuật nào. Đương nhiên là chỉ tính các thiên hướng ngoài Ma Thú Thuật.
+Hết cách, Rei đành lục tìm trong tri thức của Zepairu những Đạo Cụ Ma Thuật cần thiết để tháo gỡ tình cảnh hiện tại. Kết quả là cậu tìm ra thứ gọi là [Quả Cầu Chẩn Đoán]. Nghe nói nếu dùng nó thì có thể biết được bản thân sử dụng được hệ ma thuật nào. Đương nhiên chỉ giới hạn ở các thiên hướng ma thuật ngoài Ma Thú Thuật.
 
-Đã được đại ma thuật sư hàng đầu thế giới như Zepairu khẳng định là sở hữu lượng ma lực khổng lồ, Rei liền lấy Quả Cầu Chẩn Đoán từ Nhẫn Sương Mù ra, định kiểm tra xem mình có thiên hướng với loại ma thuật nào.
+Được ma thuật sư đỉnh cao thế giới Zepairu khẳng định là sở hữu lượng ma lực khổng lồ, Rei quyết định lấy Quả Cầu Chẩn Đoán từ Nhẫn Sương Mù ra để kiểm tra đặc tính ma thuật, xem bản thân thích hợp với loại ma thuật nào.
 
-"Nếu dùng được ma thuật hệ Thủy thì sẽ không lo thiếu nước uống, nên mong sao mình có thiên hướng đó. Ngoài ra thì Không Gian Ma Thuật để dịch chuyển, hay Giả Kim Thuật để chế tạo Đạo Cụ Ma Thuật cũng rất đáng trông đợi đấy chứ."
+"Nếu dùng được ma thuật hệ Thủy thì sẽ không lo thiếu nước uống, nên mong là mình có thiên hướng ma thuật hệ Thủy. Ngoài ra thì Không Gian Ma Thuật để dùng ma thuật dịch chuyển, hay Giả Kim Thuật để chế tạo Đạo Cụ Ma Thuật cũng rất đáng kỳ vọng đấy chứ."
 
-Vừa mường tượng về thiên hướng ma thuật của mình, cậu vừa đặt lòng bàn tay lên Quả Cầu Chẩn Đoán. Làm vậy, biểu tượng đặc tính ma thuật của người dùng sẽ hiện lên trên quả cầu. Chẳng hạn, nếu có thiên hướng hệ Thủy như Rei mong đợi nhất thì sẽ hiện giọt nước; Không Gian Ma Thuật là cánh cửa; còn Giả Kim Thuật thì là bình thí nghiệm, đại loại thế.
+Vừa hình dung về thiên hướng ma thuật của mình, cậu vừa đặt lòng bàn tay lên Quả Cầu Chẩn Đoán. Làm vậy thì biểu tượng đặc tính ma thuật của người dùng sẽ hiện lên quả cầu. Chẳng hạn nếu có thiên hướng ma thuật hệ Thủy như Rei mong đợi nhất thì sẽ hiện giọt nước. Nếu có thiên hướng Không Gian Ma Thuật thì là cánh cửa. Còn thiên hướng Giả Kim Thuật thì sẽ là chiếc bình giả kim, đại loại như vậy.
 
-Rồi khi hướng ánh nhìn đầy kỳ vọng vào quả cầu, thứ đập vào mắt Rei chỉ là một biểu tượng ngọn lửa duy nhất.
+Thế nhưng, khi hướng ánh nhìn tràn đầy hy vọng vào quả cầu, thứ duy nhất đập vào mắt Rei lại chỉ là một biểu tượng ngọn lửa rực cháy.

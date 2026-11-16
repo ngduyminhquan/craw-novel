@@ -1,185 +1,185 @@
 # Chương 9: Đột kích bộ lạc Orc (9)
 
-Bay rời khỏi khu rừng chừng hai mươi phút, cả hai tới một vùng thảo nguyên rộng lớn. Đáp xuống chỗ có một tảng đá lớn, Rei mới thở phào một hơi.
+Rời khỏi khu rừng chừng hai mươi phút, trước mắt họ mở ra một thảo nguyên mênh mông. Đáp xuống cạnh một tảng đá lớn sừng sững giữa trảng cỏ, Rei mới khẽ thở phào nhẹ nhõm.
 
-"Tạm thời coi như yên tâm rồi nhỉ."
+"Tạm thời coi như thoát nạn rồi nhỉ."
 
 "Gùuu."
 
-Tựa lưng vào tảng đá ngồi xuống bãi cỏ, Rei thấy Set vừa gừ trong cổ họng vừa dụi đầu vào người cậu.
+Vừa tựa lưng vào tảng đá rồi ngồi bệt xuống thảm cỏ xanh, Rei đã thấy Set rúc đầu vào người mình, cổ họng khe khẽ phát ra tiếng gừ êm ái.
 
-Cậu mỉm cười, gãi gãi đầu nó.
+Cậu mỉm cười, đưa tay gãi nhè nhẹ lên đầu nó.
 
-"Set này, nhờ có mày mà tụi mình mới thoát được khỏi khu rừng đấy."
+"Set à, nhờ có mày mà tụi mình mới thoát được khỏi khu rừng đấy."
 
 "Gừưư."
 
-Chú Griffin khẽ gừ trong cổ họng như muốn bảo đừng bận tâm.
+Chú Griffin khẽ gừ trong cổ họng như muốn bảo cậu đừng bận lòng.
 
-"Trước mắt cứ qua đêm ở đây đã, mai rồi đi tìm thị trấn hay làng mạc nào có người ở. ...Cơ mà theo tri thức của Zepairu thì quanh đây chẳng có thị trấn hay làng nào cả... không biết thực hư thế nào."
+"Trước mắt cứ ngủ lại đây qua đêm đã, mai rồi tính chuyện tìm thị trấn hay làng mạc nào có người ở. ...Dù theo hiểu biết của Zepairu thì quanh đây chẳng có làng xóm nào cả... cơ mà để xem sao."
 
-Trong lòng Rei chợt dấy lên một mối nghi ngờ: tri thức của Zepairu hoàn toàn không có chút thông tin nào về Gấu Nước hay Sóc Bay Lưỡi Dao.
+Trong lòng Rei lúc này lại dấy lên một mối nghi hoặc. Đó là việc tri thức của Zepairu hoàn toàn không có bất kỳ thông tin nào về Gấu Nước hay Sóc Bay Lưỡi Dao.
 
-Đúng là bẵng đi mấy trăm năm thì thông tin có thể thiếu sót. Nhưng hai loài quái vật sống ngay quanh chỗ ẩn cư của môn phái lại liên tiếp không có chút ghi chép nào thì có hơi lạ. Thông tin về loài sói vốn là dã thú vẫn còn nguyên, chứng tỏ tri thức đó không phải hoàn toàn vô dụng. Quy mô khu rừng cũng vậy. Theo tri thức của Zepairu, khu rừng lẽ ra nhỏ hơn nhiều, ít nhất cũng không đến mức cưỡi Set chạy liên tục hơn mười tiếng đồng hồ mới thoát ra được.
+Dẫu biết khoảng thời gian đằng đẵng hàng trăm năm có thể khiến thông tin bị thiếu sót, nhưng việc hai loài quái vật sống ngay quanh nơi ẩn cư của môn phái liên tiếp không có chút ghi chép nào liệu có bình thường chăng? Thông tin về loài sói vốn là dã thú vẫn có đầy đủ, chứng tỏ tri thức ấy không phải hoàn toàn không đáng tin. Quy mô khu rừng cũng tương tự. Theo ký ức của Zepairu, cánh rừng lẽ ra phải nhỏ hơn nhiều. Ít nhất nó không thể rộng đến mức cưỡi Set chạy thục mạng suốt hơn mười tiếng đồng hồ mới thoát ra ngoài được.
 
 "Gùuu?"
 
-"Ừ nhỉ, lo lắng cũng chẳng ích gì. Cứ ăn uống gì đã rồi chuẩn bị cho ngày mai. Set, tha khúc cây đằng kia lại đây giúp tao."
+"Ừ nhỉ, lo hão cũng chẳng giải quyết được gì. Cứ kiếm cái bỏ bụng trước đã rồi mai tính tiếp. Set, tha khúc cây đằng kia lại đây giúp tao nhé."
 
-Nhờ Set đi lấy khúc cây đổ khá lớn ở phía trước, Rei lấy phần tay của Gấu Nước từ trong Nhẫn Sương Mù ra.
+Nhờ Set tha khúc cây đổ khá lớn ở đằng xa lại, Rei lấy phần chi trước của Gấu Nước từ trong Nhẫn Sương Mù ra.
 
-Cậu chỉ nhớ mang máng là thịt bàn tay gấu ăn rất ngon.
+Dù chỉ nhớ mang máng, nhưng cậu từng nghe người ta nói thịt bàn tay gấu rất ngon.
 
-Cậu dùng Dao Mithril chặt cánh tay phải của Gấu Nước thành từng khúc, rồi xiên vào mấy cành cây khô nhặt gần đó.
+Cậu dùng Dao Mithril xắt nhỏ cánh tay phải của Gấu Nước ra thành từng miếng vừa ăn, rồi xiên vào những cành củi khô nhặt được gần đó.
 
 "Gừưưư."
 
-Vừa xiên xong chừng mười xiên thịt, Set đã dùng chân trước lăn thân cây đổ quay lại.
+Vừa xiên được chừng mười xâu thịt thì Set cũng dùng hai chân trước lăn thân cây đổ trở về.
 
-Thấy cảnh đó, Rei thầm thán phục sức mạnh của Set rồi lấy Lưỡi Hái Tử Thần từ Nhẫn Sương Mù ra.
+Trầm trồ trước sức mạnh của chú Griffin, Rei vừa quan sát vừa lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù.
 
-"Ai mà ngờ thứ đầu tiên mình dùng lưỡi hái lớn để chém lại là củi đốt cơ chứ... Zepairu mà biết chắc chẳng nói nên lời."
+"Ai mà ngờ thứ đầu tiên mình chém bằng cây đại hái này lại là củi đốt cơ chứ... Chẳng biết Zepairu mà biết thì sẽ nói gì đây."
 
-Cười khổ một tiếng, cậu truyền ma lực vào Lưỡi Hái Tử Thần rồi vung lên chém một nhát, hai nhát, ba nhát. Qua mỗi đường hái, thân cây đổ lại đứt rời thành từng khúc củi nhỏ.
+Cậu khẽ cười khổ, rồi bắt đầu truyền ma lực vào Lưỡi Hái Tử Thần, vung lưỡi hái loang loáng thành từng nhát chém dứt khoát. Cứ sau mỗi đường lưỡi hái xé gió, thân cây đổ lại ngoan ngoãn đứt lìa thành từng khúc củi nhỏ gọn.
 
-Chẻ đủ củi dùng, Rei xếp lại chuẩn bị đốt lửa trại rồi niệm chú.
+Gom đủ củi cần dùng, Rei xếp lại thành đống lửa rồi bắt đầu cất giọng niệm chú.
 
 [Hỡi ngọn lửa, hãy tụ lại nơi đầu ngón tay ta. Ngọn Lửa Nhỏ]
 
-Ngọn lửa hiện ra bén vào đống củi. Cậu cắm mấy xiên thịt gấu vừa làm xuống đất cách ngọn lửa một khoảng vừa phải, coi như xong khâu chuẩn bị cắm trại.
+Ngọn lửa xuất hiện bén nhanh vào đống củi khô. Cắm những xiên thịt gấu vừa làm xuống đất với khoảng cách vừa phải quanh ánh lửa bập bùng, cậu đã chuẩn bị xong xuôi cho buổi cắm trại.
 
-Trong Nhẫn Sương Mù tất nhiên không có đồ cắm trại như túi ngủ hay lều bạt, nên đống lửa trước mặt chính là bạn đồng hành của Rei suốt đêm nay.
+Bởi ngay cả trong Nhẫn Sương Mù cũng chẳng có những đồ dùng dã ngoại như túi ngủ hay lều bạt, đống lửa trước mặt sẽ là người bạn duy nhất đồng hành cùng Rei qua đêm nay.
 
 "Gừưư."
 
-Thịt vừa bắt đầu nướng trên lửa, mùi thơm kích thích cơn đói đã tỏa ra xung quanh, khiến Set sáp lại gần Rei.
+Những tảng thịt bắt đầu xèo xèo trên lửa, tỏa ra mùi hương ngào ngạt kích thích vị giác khiến Set liền sáp lại gần Rei.
 
-Thấy Set gừ trong cổ họng như thể chẳng chờ nổi nữa, Rei bật cười bất lực, cắt mấy miếng thịt sống chưa xiên đưa cho nó.
+Nhìn Set sốt ruột gừ trong họng như thể không chờ nổi nữa, Rei bật cười, cắt thêm vài miếng thịt sống chưa kịp xiên đưa cho nó.
 
-"Trong lúc chờ thịt chín, mày ăn tạm chỗ này đi."
+"Trong lúc chờ thịt chín thì mày tạm ăn chỗ này lót dạ đi."
 
 "Gùuu."
 
-Set ngậm miếng thịt sống trong mỏ, nhai vài cái rồi nuốt xuống, đoạn giương đôi mắt xanh nhìn cậu như đòi thêm. Rei vừa nhìn bộ dạng đó vừa cắt thêm miếng thịt mới đưa cho nó.
+Set ngậm miếng thịt tươi trong mỏ, nhai vài cái rồi nuốt chửng, sau đó lại chớp chớp đôi mắt xanh biếc nhìn Rei xin thêm. Thấy vậy, cậu lại cắt tiếp một miếng thịt mới đưa cho nó.
 
-(Người thì ăn uống nhai kỹ mới tốt, nhưng không biết Griffin thì sao nhỉ?)
+(Con người thì nên nhai kỹ no lâu, nhưng không biết loài Griffin thì thế nào nhỉ?)
 
-Cứ thế đút cho Set ăn chừng năm phút, mấy xiên thịt nướng quanh đống lửa cuối cùng cũng chín. Rei rút một xiên lên, cắn ngay vào miếng thịt đang nhỏ nước.
+Cứ thế đút thịt cho Set chừng năm phút, những xiên thịt nướng trên đống lửa cuối cùng cũng chín tới. Rei rút một xiên lên khỏi mặt đất, cắn ngập răng vào miếng thịt đang tứa mỡ thơm lừng.
 
-Điều đầu tiên cậu cảm nhận được là vị thịt đậm đà đến choáng ngợp. Trước kia Rei từng được một người thợ săn sống gần nhà cho ăn thử thịt gấu, lúc ấy cậu chỉ nghĩ "Cũng... không đến nỗi tệ... nhỉ?". So với thứ thịt gấu cậu từng biết, thịt Gấu Nước ngon đến mức có thể coi là một món hoàn toàn khác. Có lẽ nhờ lúc mổ lấy Ma Thạch đã vô tình rút sạch máu nên thịt hầu như không bị hôi; chút mùi tanh thoang thoảng còn sót lại hòa cùng vị thịt thú rừng đặc trưng, làm món ăn thêm phần đậm vị.
+Cảm nhận đầu tiên tràn ngập khoang miệng là vị thịt đậm đà và béo ngậy đến khó tin. Trước đây Rei từng được một người thợ săn sống gần nhà cho nếm thử thịt gấu, nhưng cảm nghĩ của cậu lúc bấy giờ chỉ dừng lại ở mức "Cũng... không đến nỗi dở... nhỉ?". So với thứ đó, thịt của Gấu Nước gần như đã là một món ăn hoàn toàn khác biệt. Có lẽ nhờ lúc mổ lấy Ma Thạch đã vô tình giúp thịt được xả sạch máu, nên mùi tanh nồng gần như biến mất, chút tanh thoang thoảng còn sót lại hòa quyện hoàn hảo với hương vị đặc trưng của thịt thú hoang, tạo nên một phong vị vô cùng phong phú và hấp dẫn.
 
-Chỉ tiếc một nỗi chẳng có chút gia vị nào, thành ra ăn vào chỉ thấy thuần một vị thịt. Giá mà có ít muối thôi thì chắc ngon hơn hẳn rồi.
+Điều đáng tiếc duy nhất là không có bất kỳ thứ gia vị nào, nên món ăn chỉ mang thuần túy hương vị nguyên bản của thịt. Giá như có thêm chút muối thôi thì hương vị hẳn đã tuyệt vời hơn rất nhiều.
 
-Thực ra Rei chưa biết rằng, thịt quái vật về cơ bản con nào mang ma lực càng cao thì ăn càng ngon. Dĩ nhiên đó cũng chỉ là xu hướng chung, vẫn có loài ma lực cao mà thịt dở tệ, hoặc ma lực thấp mà thịt lại ngon tuyệt. Xét về mặt đó, lần đầu tiên ăn thịt quái vật mà vớ ngay được thịt Gấu Nước đúng là may mắn cho cậu.
+Thực ra Rei không hề hay biết rằng thịt quái vật về cơ bản có ma lực càng cao thì lại càng thơm ngon. Dĩ nhiên đó chỉ là xu hướng chung, trên đời vẫn có những loài quái vật sở hữu ma lực cao nhưng thịt lại dở tệ, hay ngược lại ma lực thấp nhưng thịt lại cực kỳ ngon lành. Xét theo khía cạnh đó, lần đầu tiên nếm thịt quái vật mà lại được ăn thịt Gấu Nước quả là một sự may mắn đối với cậu.
 
 "Gừưư."
 
-Thấy Set chìa mặt lại như muốn đòi phần, Rei đưa xiên thịt nướng cho nó. Chú Griffin khéo léo dùng mỏ tuốt thịt khỏi que xiên rồi nuốt vào bụng. Vừa ngắm nó ăn vừa thưởng thức phần của mình một lúc, sau khi đã ăn no nê, Rei liền lấy Quả Clara ra cắn ăn thay món tráng miệng.
+Thấy Set chìa mặt tới như muốn đòi phần, Rei đưa xiên thịt nướng sang. Chú Griffin khéo léo dùng mỏ rỉa từng miếng thịt ra khỏi que xiên rồi nuốt ực. Vừa ngắm nhìn cảnh tượng ấy vừa nhồm nhoàm thưởng thức phần của mình, Rei ăn uống no nê rồi lấy Quả Clara ra nhấm nháp như một món tráng miệng.
 
-Ăn nhanh thứ quả có phần thịt và nước ép chua ngọt ấy xong, Rei để mặc Set đang mải gặm nốt chỗ thịt sống, cầm lấy Lưỡi Hái Tử Thần đặt bên cạnh rồi đứng dậy.
+Sau khi tống nhanh phần cùi quả mọng nước chua ngọt vào bụng, Rei để mặc Set vẫn đang mê mải gặm nốt chỗ thịt sống, cầm lấy Lưỡi Hái Tử Thần đặt bên cạnh rồi đứng dậy.
 
 "Gùuu?"
 
-Nhận ra động tĩnh của Rei, Set quay sang nhìn, nhưng chắc thấy quanh đây chẳng có mối nguy nào nên lại chúi đầu vào chỗ thịt sống.
+Set nhận ra cử động của Rei liền ngoái nhìn, nhưng thấy xung quanh không có nguy hiểm nào nên lại cắm cúi thưởng thức món thịt sống ngon lành.
 
-Rei nhìn bộ dạng của Set mà cười trừ, rồi đi ra chỗ cách đó một quãng, dựng Lưỡi Hái Tử Thần vào tảng đá gần đấy đoạn bắt đầu tập giãn cơ như để kiểm tra tình trạng cơ thể.
+Khẽ mỉm cười trước dáng vẻ ấy, Rei bước ra một bãi đất trống cách đó không xa, dựng Lưỡi Hái Tử Thần vào một tảng đá gần đấy rồi bắt đầu khởi động, giãn cơ để kiểm tra thể trạng của bản thân.
 
-Theo ký ức của Rei, cơ thể Reiji trước kia cũng khá dẻo dai, nhưng thân thể hiện tại của cậu còn mềm dẻo hơn dự tính nhiều.
+Trong ký ức của Rei, cơ thể Reiji trước kia vốn dĩ cũng khá dẻo dai, nhưng thân xác mới của Rei hiện tại lại mềm dẻo vượt xa ngoài sức tưởng tượng.
 
-Đầu tiên, chỉ cần đứng thẳng không chùng gối rồi cúi gập duỗi thẳng tay xuống, lòng bàn tay cậu đã áp sát xuống mặt đất mà vẫn còn dư sức.
+Chỉ cần đứng thẳng không gập đầu gối rồi cúi người duỗi thẳng tay xuống, hai lòng bàn tay cậu đã có thể áp sát sàn sạt xuống mặt đất, thậm chí cơ thể vẫn còn dư dả độ dẻo để ép sâu hơn nữa.
 
-Sau đó cậu tập qua loa vài động tác giãn cơ từng học hồi cấp hai, cấp ba chừng vài phút.
+Cậu cứ thế làm vài bài tập ép dẻo từng học hồi cấp hai, cấp ba trong vài phút.
 
 "Được rồi, khởi động thế là đủ."
 
-Lẩm bẩm xong, Rei cầm lấy Lưỡi Hái Tử Thần đang dựng bên tảng đá, nắm bằng hai tay rồi vào thế.
+Lẩm bẩm một câu, Rei với lấy Lưỡi Hái Tử Thần đang tựa vào tảng đá, nắm chặt bằng cả hai tay rồi vào thế thủ.
 
 "Hà!"
 
-Dồn khí thế vung một đường, Lưỡi Hái Tử Thần xé gió lao đi. Nhưng bản thân Rei có vẻ chưa ưng ý lắm, cậu nghiêng đầu suy nghĩ rồi lại dựng thế cầm hái.
+Tiếng thét xung trận vang lên, lưỡi hái xé toạc không khí. Dẫu vậy, dường như bản thân chưa thật ưng ý, Rei khẽ nghiêng đầu rồi lại vào thế lần nữa.
 
 "Hà!"
 
-Thêm một đường vung nữa. Lần này cách vặn người của cậu đã khác trước. Lúc bổ Lưỡi Hái Tử Thần xuống, cậu chú ý xoay hông để truyền chuẩn xác lực chuyển động vào đường hái.
+Lại một đường chém vung ra, nhưng lần này góc vặn người đã khác hẳn trước. Khi hạ lưỡi hái xuống, cậu chú trọng vào chuyển động xoay hông để truyền trọn vẹn lực đạo vào thân vũ khí.
 
-"Chắc tầm này là ổn."
+"Chắc tầm này là vừa."
 
-Không biết có phải chỉ sau hai nhát bổ đã hiểu ra cách dùng Lưỡi Hái Tử Thần hay không, cậu cứ thế quét ngang từ phải sang trái, đảo ngược từ trái sang phải, rồi hất từ dưới lên, miệt mài vung tập đủ mọi kiểu nghĩ ra được mà không biết chán.
+Chỉ sau hai nhát bổ mà dường như đã nắm bắt được cách vận dụng đại hái, Rei cứ thế vung ngang từ phải sang trái, chém ngược từ trái sang phải, rồi lại hất từ dưới lên, mải miết luyện tập đủ mọi thế chém không biết chán.
 
-Cứ thế khoảng ba mươi phút trôi qua. Từ chỗ ban đầu chỉ dựa vào sức tay có phần gượng gạo, cậu dần điều khiển Lưỡi Hái Tử Thần một cách linh hoạt. Nói rằng tốc độ ấy nhanh đến mức bất kỳ chiến binh hay kiếm sĩ bình thường nào nhìn thấy cũng chỉ biết ghen tị, chắc là đủ để hình dung rồi.
+Khoảng ba mươi phút trôi qua, từ chỗ còn vụng về và ỷ lại vào sức mạnh cơ bắp, cậu dần điều khiển cây đại hái một cách thuần thục và phóng khoáng. Tốc độ vung hái ấy nhanh đến mức nếu có bất kỳ chiến binh hay kiếm sĩ bình thường nào chứng kiến, họ chắc chắn sẽ không khỏi thèm muốn và ghen tị.
 
-Lưỡi Hái Tử Thần bổ chéo từ vai xuống, hãm lại ngay trước khi chạm đất, xoay lưỡi hướng thẳng lên trên hất ngược lên rồi cứ thế quét ngang một đường.
+Lưỡi hái bổ xéo từ vai xuống vừa chạm sát mặt đất liền khựng lại, rồi xoay lưỡi hướng thẳng lên trên hất mạnh lên cao, tiếp nối bằng một đường quét ngang tàn khốc.
 
-Nếu chuỗi đòn vừa rồi giáng lên một người thật, hẳn kẻ đó trước tiên sẽ bị lưỡi hái lớn chém xéo qua người, tiếp đến bị nhát hất ngược chặt đứt tay phải, và cuối cùng ăn trọn đường quét ngang bay đầu khỏi cổ.
+Nếu chuỗi đòn liên hoàn ấy giáng vào một con người, kẻ đó trước tiên sẽ bị đại hái chém xéo qua ngực, kế tiếp bị cú hất ngược chặt đứt lìa cánh tay phải, và cuối cùng nhát quét ngang sẽ khiến đầu lìa khỏi cổ.
 
-Sau đó cậu vẫn liên tục vung lưỡi hái lớn, thi thoảng lại kết hợp dùng phần cán như thương hay gậy giống hồi đánh Gấu Nước, tạo ra những pha ra đòn lắt léo và ngày càng quen tay với Lưỡi Hái Tử Thần.
+Rei tiếp tục múa cây đại hái liên hồi, thi thoảng cậu còn kết hợp sử dụng phần cán hái như một ngọn thương hay thiết bổng giống lúc đối đầu với Gấu Nước, phô diễn những đòn thế biến ảo khôn lường và ngày càng thuần thục món vũ khí này hơn.
 
-Những động tác của Rei lúc này chẳng còn kiểu gượng gạo đánh một đòn lại dừng như ban đầu nữa, mà đã sắc bén đến mức gọi là một điệu múa vũ khí cũng không ngoa. Mỗi nhát chém vung ra sắc lẹm như muốn xé rách không khí, còn cú đâm bằng cán hái trông uy lực đến nỗi những bộ giáp xoàng xĩnh khó lòng đỡ nổi.
+Lúc này, những động tác của Rei không còn là kiểu vụng về đánh một đòn rồi khựng lại chỉnh thế như ban đầu nữa, mà đã biến hóa thành một bài vũ điệu sắc bén chẳng khác nào màn biểu diễn võ thuật đỉnh cao. Mỗi đường lưỡi hái vung lên đều bén ngọt như muốn rạch nát bầu không khí, còn đòn đâm từ cán hái thì uy lực đến mức dường như có thể xuyên thủng bất kỳ tấm giáp trụ tầm thường nào.
 
-Rei mải miết tiếp tục vũ điệu chết chóc ấy, từng động tác cứ thế càng lúc càng sắc sảo hơn...
+Rei dồn hết tâm trí vào vũ điệu tử thần ấy, và từng đường đi nước bước lại càng lúc càng trở nên sắc sảo, tinh tế hơn...
 
 "Haaaaa!"
 
-Rei dồn toàn lực quét ngang Lưỡi Hái Tử Thần một nhát cuối cùng rồi dừng lại.
+Dồn toàn lực vào một nhát chém quét ngang xé gió, Rei mới chịu thu hái dừng lại.
 
-"Phù, coi như quen tay rồi đấy."
+"Phù, hòm hòm rồi đấy."
 
-Đã vài tiếng trôi qua kể từ khi Rei bắt đầu tập với Lưỡi Hái Tử Thần. Dù món vũ khí này có khả năng giúp người dùng hầu như không thấy nặng, nhưng vung liên tục một cây đại hái khổng lồ suốt từng ấy thời gian không nghỉ lấy một hơi mà cậu vẫn không hề thở dốc.
+Đã vài tiếng trôi qua kể từ khi Rei bắt đầu vung vẩy cây đại hái. Dù Lưỡi Hái Tử Thần có đặc tính khiến người sử dụng hầu như không cảm thấy sức nặng, nhưng múa một món vũ khí khổng lồ suốt ngần ấy thời gian không nghỉ tay lấy một lần mà nhịp thở của cậu vẫn chẳng hề xáo trộn.
 
-"Đúng là thân thể do những ma thuật sư vĩ đại nhất thế giới tạo ra có khác. Vận động liên tục không nghỉ mà chẳng chút hụt hơi nào."
+"Đúng là thân thể do những ma thuật sư vĩ đại nhất thế giới tạo ra có khác. Vận động liên tục không nghỉ mà chẳng hề hụt hơi tí nào."
 
-Trên trán chỉ lấm tấm chút mồ hôi, khác biệt thấy rõ nhất cũng chỉ có vậy.
+Mồ hôi chỉ lấm tấm vương trên trán, đó là dấu hiệu mệt mỏi duy nhất có thể nhìn thấy trên người cậu.
 
-Cầm Lưỡi Hái Tử Thần quay lại chỗ đống lửa, Rei thấy Set đang dùng mỏ gắp củi ném thêm vào bếp. Phần thịt ở tay phải Gấu Nước đã bị ăn sạch không còn một mẩu, chỉ còn trơ khúc xương sạch bóng lăn trên mặt đất.
+Cầm Lưỡi Hái Tử Thần quay lại bên đống lửa, Rei thấy Set đang dùng mỏ gắp từng thanh củi ném vào lửa. Thịt trên cánh tay phải của Gấu Nước chẳng còn sót lại dù chỉ một mẩu vụn, chỉ trơ lại khúc xương trắng hếu lăn lóc trên mặt đất.
 
 "Gừưư."
 
-Set gừ một tiếng ngắn trong cổ họng như đón Rei trở lại.
+Set khẽ gừ một tiếng ngắn như đón chào Rei quay lại.
 
-Khác với Griffin thông thường, Set được sinh ra từ lượng ma lực khổng lồ của Rei nên trí khôn của nó ngang ngửa, thậm chí còn hơn cả con người. Bằng chứng là nó hiểu được tiếng nói của Rei. Lúc nãy cũng vậy, vì hiểu Rei đang kiểm tra thông số cơ thể và tập cho quen món vũ khí khó dùng như lưỡi hái lớn, dù thích làm nũng đến mấy thì Set vẫn ngoan ngoãn chờ yên.
+Khác hẳn loài Griffin thông thường, Set được sinh ra từ lượng ma lực ngút trời của Rei nên trí tuệ của nó sánh ngang, thậm chí còn vượt trội hơn cả con người. Việc nó hiểu trọn vẹn những lời Rei nói chính là minh chứng rõ ràng nhất. Ban nãy, dù bản tính vốn rất thích làm nũng, chú Griffin vẫn kiên nhẫn kìm nén không quấy rầy vì biết Rei đang kiểm tra các thông số cơ thể và tập luyện để làm chủ món vũ khí cồng kềnh khó dùng kia.
 
-Thế nên.
+Chính vì vậy...
 
-"Set, cho tao ít nước được không?"
+"Set, cho tao xin ít nước được không?"
 
 "Grrr!"
 
-Được Rei yêu quý mở lời nhờ, nó hớn hở thi triển ngay Thủy Cầu.
+Được người mình yêu quý nhất cất lời nhờ vả, nó liền hào hứng thi triển Thủy Cầu.
 
-Quả cầu nước Set vừa tạo ra trôi bồng bềnh tới dừng ngay trước mặt Rei. Cậu thọc tay vào vốc nước rửa mặt.
+Quả cầu nước do Set tạo ra lơ lửng trôi tới rồi dừng lại ngay trước mặt Rei. Cậu thọc tay vào vốc nước rửa mặt cho sảng khoái.
 
-"...Á, chết rồi. Không có khăn lau nhỉ?"
+"...Á, hỏng rồi. Không có khăn lau à?"
 
-Nhận ra mình sơ suất, cậu đành lấy tay vẩy bớt nước trên mặt rồi để khô tự nhiên.
+Vừa nhận ra sự bất cẩn của mình, cậu bèn dùng tay gạt bớt nước trên mặt rồi để mặc cho gió tự thổi khô.
 
 "Gùuu."
 
-Rei tựa lưng vào người Set đang ngồi trên mặt đất, chú Griffin liền kêu lên một tiếng nũng nịu.
+Vừa tựa lưng vào thân hình đang ngồi trên mặt đất của Set, Rei liền nghe chú Griffin phát ra tiếng kêu nũng nịu.
 
-Vừa xoa đầu dỗ dành Set đang dụi tới, Rei vừa nhẩm tính kế hoạch cho ngày mai.
+Vừa âu yếm đáp lại cái đầu đang dụi vào người mình của Set, Rei vừa thầm tính toán kế hoạch cho ngày mai.
 
-(Trước mắt, cứ theo đúng dự định là đi tới thị trấn hay làng mạc... nhưng đi hướng nào đây? Chẳng biết là may hay rủi, rời khỏi rừng một quãng rồi mà vẫn chưa thấy thứ gì gọi là đường cái cả. Vậy thì chắc chắn khu rừng này nằm ở nơi vô cùng hẻo lánh rồi.)
+(Trước mắt, cứ theo kế hoạch ban đầu là tìm đường đến thị trấn hoặc làng mạc... nhưng nên đi về hướng nào đây? Chẳng biết là may hay rủi, đã cách khu rừng một quãng mà vẫn chưa thấy thứ gì gọi được là đường cái. Xem ra khu rừng này nằm ở nơi vô cùng hẻo lánh rồi.)
 
-Nói là thừa hưởng tri thức của Zepairu, nhưng trong đó đâu có sẵn thứ như bản đồ thế giới hay bản đồ Nhật Bản. Chỉ có toàn những thông tin đại khái kiểu cạnh nước này là nước nọ, vượt qua dãy núi kia sẽ sang nước láng giềng... thế thôi.
+Tuy được thừa hưởng tri thức của Zepairu, nhưng kho kiến thức đó lại chẳng có tấm bản đồ thế giới hay bản đồ khu vực nào cụ thể. Nó chỉ vỏn vẹn những thông tin đại khái như cạnh vương quốc nọ là vương quốc kia, vượt qua dãy núi đó sẽ sang nước láng giềng... mà thôi.
 
-Mà ngay cả những thông tin đó cũng đã là chuyện của mấy trăm năm trước, hoàn toàn không thể lấy làm tham khảo cho tình hình hiện tại.
+Đã vậy, những thông tin sơ sài ấy cũng có tuổi đời hàng trăm năm trước, hoàn toàn chẳng thể dùng làm căn cứ cho tình hình hiện tại.
 
-(Hơn nữa, nếu linh cảm xấu của mình là đúng thì phần lớn tri thức của Zepairu e là đều vô dụng cả.)
+(Hơn nữa, nếu linh cảm chẳng lành của mình là đúng, phần lớn tri thức của Zepairu có nguy cơ thành mớ giấy vụn vô dụng.)
 
-Từ chuyện những quái vật mới gặp không hề có trong tri thức, đến sự khác biệt về độ rộng của khu rừng. Nghĩ kỹ lại, rất có thể thời gian trôi qua đã lâu hơn con số vài trăm năm mà Zepairu từng nói.
+Không có thông tin về những quái vật từng chạm trán, quy mô khu rừng thay đổi quá nhiều. Xâu chuỗi những điều đó lại, rất có thể quãng thời gian trôi qua thực tế còn dài hơn rất nhiều so với con số hàng trăm năm mà Zepairu từng ước lượng.
 
 "Mà thôi, chuyện đó cứ đến thị trấn hay làng mạc là sáng tỏ ngay."
 
 "Gùuu?"
 
-Nghe Set gừ trong cổ họng như muốn hỏi có chuyện gì, Rei vừa gãi đầu nó vừa lắc đầu bảo không sao.
+Thấy Set gừ khẽ trong họng như muốn hỏi có chuyện gì, Rei vừa gãi nhẹ lên đầu nó vừa lắc đầu bảo không có gì.
 
-"Dù sao cũng để mai tính. Sáng mai tụi mình đi tìm chỗ nào có người ở."
+"Dù sao thì cứ để ngày mai tính. Sáng mai hai đứa mình sẽ đi tìm nơi có người ở nhé."
 
 "Gùuu."
 
-"Canh gác đêm nay nhờ mày nhé?"
+"Phần gác đêm nhờ cả vào mày đấy, được không?"
 
 "Gùuu!"
 
-Nghe tiếng Set kêu như muốn bảo cứ giao cho nó, Rei vùi mình trong lớp lông mượt như lụa cùng hơi ấm dễ chịu của chú Griffin, rồi chìm vào giấc ngủ.
+Lắng nghe tiếng kêu như muốn bảo cứ để đó cho nó của Set, Rei dần chìm sâu vào giấc ngủ giữa hơi ấm êm ái và lớp lông mượt mà như lụa của chú Griffin.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T16:18:35Z",
+  "generatedAt": "2026-11-16T16:22:52Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2158,73 +2158,73 @@
           "number": 1,
           "title": "Chương 1: Đột kích bộ lạc Orc (1)",
           "path": "translations/legend-1/vi/Chapter_001.md",
-          "sha": "1d0cb637f1bdb1610c6c3055539d68f7bcd01eb8"
+          "sha": "453ea2896574ad8be8630ed42f95b52ffebb2fed"
         },
         {
           "number": 2,
           "title": "Chương 2: Đột kích bộ lạc Orc (2)",
           "path": "translations/legend-1/vi/Chapter_002.md",
-          "sha": "42d337ecf98374341c1a95f085eb5f558f91bc96"
+          "sha": "1b5f5c5dbe344edc88e97e2c816403a8017146f5"
         },
         {
           "number": 3,
           "title": "Chương 3: Đột kích bộ lạc Orc (3)",
           "path": "translations/legend-1/vi/Chapter_003.md",
-          "sha": "cb71c337062de4b95a4b7c0bd17e8b2fde764d3a"
+          "sha": "94da7874f2ecb2f5943ebb778e9d72be9ee51e57"
         },
         {
           "number": 4,
           "title": "Chương 4: Đột kích bộ lạc Orc (4)",
           "path": "translations/legend-1/vi/Chapter_004.md",
-          "sha": "f5d4766120ddee027b142217819e498f69bcc118"
+          "sha": "685f651241fe3dad6b7010df0580ebe545248b11"
         },
         {
           "number": 5,
           "title": "Chương 5: Đột kích bộ lạc Orc (5)",
           "path": "translations/legend-1/vi/Chapter_005.md",
-          "sha": "9b0486a7ba3046dbf9dc87bf8145591f7804c891"
+          "sha": "4cae4ae8a969d97a793e5c9de5487ec81d09c6e1"
         },
         {
           "number": 6,
           "title": "Chương 6: Đột kích bộ lạc Orc (6)",
           "path": "translations/legend-1/vi/Chapter_006.md",
-          "sha": "fcd7ac0a444642f8537fde8b38f6b8e1deb92fe2"
+          "sha": "5a9530a9c0e95de2aa4b424334cf91a4d7ea095c"
         },
         {
           "number": 7,
           "title": "Chương 7: Đột kích bộ lạc Orc (7)",
           "path": "translations/legend-1/vi/Chapter_007.md",
-          "sha": "5c8fa2399691c4a68903faa6a571b91287570df3"
+          "sha": "773f931c9069f14622f6072c2f1fb773a7d26071"
         },
         {
           "number": 8,
           "title": "Chương 8: Đột kích bộ lạc Orc (8)",
           "path": "translations/legend-1/vi/Chapter_008.md",
-          "sha": "e361d47b7f5eccd82c5e2fc1008c01b40a77fc09"
+          "sha": "4755ccf52c032c468dc1e0909e6e8519ef10e86d"
         },
         {
           "number": 9,
           "title": "Chương 9: Đột kích bộ lạc Orc (9)",
           "path": "translations/legend-1/vi/Chapter_009.md",
-          "sha": "28374b71a15b038617ed930019da8ee467ca87d9"
+          "sha": "992a7e887872fee2984121fd3d14106d50917319"
         },
         {
           "number": 10,
           "title": "Chương 10: Đột kích bộ lạc Orc (10)",
           "path": "translations/legend-1/vi/Chapter_010.md",
-          "sha": "cb8a55c652ff60eb4a86f76064936cf3f4ae5713"
+          "sha": "d73c69ee6c45f49afc6d884eeec2b40612563708"
         },
         {
           "number": 11,
           "title": "Chương 11: Đột kích bộ lạc Orc (11)",
           "path": "translations/legend-1/vi/Chapter_011.md",
-          "sha": "937792071f3207f67b7294d31811dee64117b13a"
+          "sha": "03fc91d42f086953e30dbfec5be62a1e7860a805"
         },
         {
           "number": 12,
           "title": "Chương 12: Đột kích bộ lạc Orc (12)",
           "path": "translations/legend-1/vi/Chapter_012.md",
-          "sha": "3e7cd1bccd535d6d7f8f836e5390210fc301fa33"
+          "sha": "10762d6e5e7e4501dfd369fd7a38919ca889997c"
         },
         {
           "number": 13,

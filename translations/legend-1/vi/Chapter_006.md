@@ -1,130 +1,130 @@
 # Chương 6: Đột kích bộ lạc Orc (6)
 
-Con quái vật to lớn dài hai mét đổ sụp xuống đất, tiếng động trầm đục vang vọng khắp xung quanh. Lớp nước vốn bao phủ bộ lông nó dường như đã bốc hơi hoàn toàn dưới sức nóng từ con rắn lửa Rei phóng ra, khiến bộ lông giờ đây chẳng khác gì lông của một con gấu bình thường.
+Con quái vật khổng lồ dài hai mét đổ sụp xuống mặt đất, phát ra một tiếng vang trầm đục khắp xung quanh. Lớp nước vốn bao phủ bộ lông nó dường như đã bốc hơi hoàn toàn trước sức nóng từ con rắn lửa mà Rei phóng ra, khiến bộ lông giờ đây trông chẳng khác gì một con gấu bình thường.
 
-"Coi như... cũng qua được rồi."
+"Rốt cuộc... cũng xong rồi."
 
 "Gùuu."
 
-Bên cạnh xác con Gấu Nước nằm sóng soài trên đất, Rei cũng ngồi phịch xuống, buột miệng lẩm bẩm. Nghe vậy, Set lại dụi mặt vào người cậu như mọi khi.
+Bên cạnh xác con Gấu Nước nằm bất động trên mặt đất, Rei cũng ngồi phịch xuống rồi bất giác lẩm bẩm. Nghe thấy thế, Set lại dụi mặt vào người Rei như mọi khi.
 
-"Set cũng làm tốt lắm. Không có mày thì chắc tao chẳng thắng nó gọn ghẽ thế này được đâu. Sơ sẩy một chút khéo lại thiêu rụi luôn cả khu rừng rồi cũng nên."
+"Set cũng làm tốt lắm. Không có mày thì chắc tao chẳng thể thắng nó một cách êm đẹp thế này đâu. Sơ sẩy một cái khéo lại thành ra cảnh thiêu rụi luôn cả cánh rừng... cũng nên."
 
 "Gừưưư."
 
-Rei vừa gãi đầu Set vừa khen ngợi. Chú Griffin dường như cũng thấy sướng khi được gãi đầu nên cứ rừ rừ trong cổ họng như con mèo, vẻ mặt hết sức khoái chí.
+Cậu vừa gãi đầu khen ngợi vừa vuốt ve Set. Chú Griffin dường như cũng thấy thoải mái khi được gãi đầu nên cứ rừ rừ trong cổ họng như một chú mèo, tâm trạng vô cùng phấn khởi.
 
-Cứ như vậy vài phút, Rei lấy lại tinh thần rồi đứng dậy.
+Cứ như thế vài phút, Rei lấy lại tinh thần rồi đứng dậy.
 
-"Dù tính xử lý cái xác quái vật này thế nào thì trước mắt cũng phải dời đi chỗ khác đã. Chắc chắn chẳng mấy chốc sẽ có con quái vật khác mò tới cho xem."
+"Dù tính xử lý cái xác quái vật này thế nào thì trước mắt cũng phải dời đi chỗ khác đã. Chắc chắn chẳng mấy chốc sẽ có con quái vật khác mò tới đây cho xem."
 
-Xung quanh đây, vì trận đánh với con Gấu Nước mà cây cối gãy đổ, mặt đất bị cày xới nham nhở. Đã vậy, mùi máu Gấu Nước hòa lẫn mùi thịt nướng do bị thiêu đốt từ bên trong cũng đang phảng phất khắp nơi.
+Khu vực xung quanh chịu ảnh hưởng từ trận chiến giữa bọn họ với Gấu Nước nên cây cối gãy đổ la liệt, mặt đất bị cày xới nham nhở. Đã vậy, mùi tanh tưởi từ máu Gấu Nước cùng mùi thịt cháy khét lẹt khi nó bị thiêu từ bên trong cơ thể cũng đang phảng phất khắp nơi.
 
-"Mà vấn đề là làm sao mang con Gấu Nước này theo đây... Cho lên lưng Set chở đi à? Cơ mà bắt nó cõng thứ nặng cả mấy trăm ký này thì... Khoan đã? Chẳng lẽ..."
+"Vấn đề là làm sao mang con Gấu Nước này theo đây... Cho lên lưng Set chở đi à? Cơ mà chất thứ nặng cả mấy trăm cân này lên lưng Set thì... Ơ kìa, khoan đã? Chẳng lẽ..."
 
-Đang lúc băn khoăn, Rei chợt để ý tới chiếc Nhẫn Sương Mù đeo trên tay phải. Theo tri thức của Zepairu, nó không chứa được sinh vật sống, nhưng con Gấu Nước đã chết rồi thì chắc chẳng thành vấn đề.
+Trong lúc còn đang đau đầu, ánh mắt Rei chợt dừng lại ở chiếc Nhẫn Sương Mù đeo trên tay phải. Theo tri thức của Zepairu, nó không thể chứa sinh vật sống, nhưng Gấu Nước đằng nào cũng chết rồi nên chắc chẳng thành vấn đề.
 
 "Thu nạp."
 
-Rei chạm tay vào xác con Gấu Nước rồi lẩm bẩm, ngay lập tức cái xác biến mất không còn tăm hơi. Để chắc ăn, cậu mở danh sách trong đầu ra kiểm tra, thấy dòng chữ xác Gấu Nước hiện lên rành rành, coi như đã cất vào thành công.
+Chạm tay vào xác con Gấu Nước rồi lẩm bẩm, ngay khoảnh khắc tiếp theo, cái xác đã biến mất không để lại chút dấu vết nào. Để chắc chắn, cậu gọi danh sách vật phẩm trong tâm trí ra kiểm tra, thấy dòng chữ xác Gấu Nước hiển thị rành rành nên xem như việc thu nạp đã hoàn toàn thành công.
 
 "Ra thế, sinh vật sống thì không được nhưng xác chết thì cất vào được à. ...Thế còn cái kia?"
 
-Tiếp đó, mắt Rei chạm phải cái cây bị gãy khi Set đạp thân cây bật nhảy lúc nãy. Một cây đại thụ khá lớn, thân dày tới chừng một mét. ...Cơ mà ở trong khu rừng này, cỡ đó cũng chỉ thuộc hàng tầm thường thôi.
+Thứ tiếp theo lọt vào mắt Rei là thân cây bị gãy khi Set lấy đà bật nhảy theo thế tam giác lúc nãy. Một thân cây khá đồ sộ với đường kính thân tới chừng một mét. ...Dù nói vậy thì giữa cánh rừng này, kích cỡ đó cũng chỉ thuộc hàng bình thường mà thôi.
 
 "Thu nạp."
 
-Cậu chạm vào thân cây gãy rồi cất tiếng, cái cây cũng biến mất không tăm hơi chỉ trong nháy mắt.
+Vừa chạm vào thân cây gãy vừa cất tiếng, cái cây cũng biến mất không tăm hơi chỉ trong nháy mắt.
 
 "Gùuu."
 
-Set lại dụi mặt vào người cậu như giục mau đi thôi. Rei vừa vuốt lưng Set vừa tiện tay vơ hết Quả Clara quanh đó cất vào Nhẫn Sương Mù, coi như kiếm thêm chút đỉnh, rồi cả hai rời khỏi chỗ đó.
+Set lại dụi mặt vào người cậu như giục mau đi thôi. Cậu vừa vuốt lưng Set vừa tiện tay hái sạch những Quả Clara gần đó nhét vào Nhẫn Sương Mù xem như chút bổng lộc dọc đường, rồi cùng rời khỏi nơi này.
 
 "Được rồi, tới đây chắc ổn rồi."
 
-Đi khỏi chỗ đánh nhau với Gấu Nước chừng hai mươi phút, Rei mới dừng chân. Bình thường đi chừng ấy thời gian chẳng bõ bèn gì, nhưng đôi Giày Sleipnir cậu đang mang giúp đi nhanh gấp mấy lần người thường, nên khoảng cách này chắc đã đủ xa.
+Rời khỏi hiện trường trận chiến với Gấu Nước chừng hai mươi phút, Rei mới dừng chân. Bình thường di chuyển chừng hai mươi phút thì chẳng đi được bao xa, nhưng nhờ công năng từ đôi Giày Sleipnir cậu đang mang giúp tốc độ nhanh hơn đi bộ bình thường gấp mấy lần, nên có lẽ khoảng cách đã đủ an toàn.
 
-Mặt trời đã lên khá cao, cái nóng âm ỉ bắt đầu lan tỏa khắp xung quanh.
+Mặt trời đã lên khá cao, cái nóng bắt đầu len lỏi bao trùm khắp xung quanh.
 
-Có điều, Rei đang mặc Áo Choàng Rồng tự động giữ nhiệt độ ổn định, còn Set thì chẳng hề hấn gì. Dù vậy, đánh xong trận với Gấu Nước lại đi một mạch tới đây hầu như không nghỉ, Rei vẫn ngồi phịch xuống đất.
+Tuy vậy Rei đang khoác chiếc Áo Choàng Rồng có khả năng tự động điều hòa nhiệt độ ở mức ổn định, còn Set thì chẳng hề bận tâm chút nào. Dẫu thế, sau trận chiến với Gấu Nước lại phải liên tục di chuyển đến tận đây hầu như không nghỉ ngơi, cậu liền ngồi phịch xuống đất.
 
 "Gùuu."
 
-Set dụi đầu vào người cậu như đòi vuốt ve. Thấy bộ dạng đó lòng cũng dịu lại, Rei lấy từ Nhẫn Sương Mù ra bốn Quả Clara vừa hái lúc nãy.
+Set lại dụi đầu vào người cậu như đòi xoa. Nhìn dáng vẻ đáng yêu giúp xua tan mệt mỏi ấy, Rei lấy từ Nhẫn Sương Mù ra bốn Quả Clara vừa mới hái lúc nãy.
 
 "Set."
 
 "Gừưư."
 
-Tạm ngừng tay gãi đầu, cậu đưa Quả Clara ra thì Set thích thú kêu lên trong cổ họng, há mỏ ngoạm lấy rồi nhai nát cả vỏ lẫn ruột.
+Tạm ngừng tay gãi đầu, cậu đưa Quả Clara ra thì Set liền kêu lên đầy thích thú trong cổ họng, ngoạm lấy bằng mỏ rồi nghiền nát cả vỏ lẫn thịt quả.
 
-Nhìn vậy, Rei cũng để nguyên cả vỏ mà cắn một miếng Quả Clara.
+Nhìn cảnh đó, Rei cũng để cả vỏ mà cắn một miếng lớn vào Quả Clara.
 
-Vừa cắn xuống, vị ngọt thanh mát pha chút chua dịu đã lan ra khắp miệng. Nhai thêm chút nữa, thứ nước quả tươi mát liền tứa ra ngập tràn.
+Ngay khi cắn vào, vị ngọt thanh mát hòa lẫn chút chua dịu lan tỏa khắp khoang miệng. Nhai kỹ lớp thịt quả, dòng nước ép mọng nước ứa ra tràn ngập đầu lưỡi.
 
-Đây là hương vị lần đầu tiên Rei được nếm thử. ...Mà thật ra trước kia sống ở một thị trấn quê vùng Tohoku, cậu cũng chẳng mấy khi được ăn hoa quả lạ.
+Đối với Rei, đây là hương vị lần đầu tiên cậu được nếm thử. ...Mà thật ra thì trước đây sống ở một thị trấn quê vùng Tohoku, cậu cũng chưa từng được ăn loại trái cây nào quá đỗi kỳ lạ.
 
-Sau khi chia nhau ăn hết mỗi bên hai Quả Clara ngon ngoài mong đợi, cuối cùng cũng tới lúc xẻ thịt con Gấu Nước.
+Dù sao đi nữa, sau khi chia nhau mỗi bên hai Quả Clara ngon ngọt ngoài mong đợi lót dạ, cuối cùng cũng tới lúc xẻ thịt con Gấu Nước.
 
-"Set, tao chuẩn bị xẻ thịt con Gấu Nước đây, mày canh chừng xung quanh xem mùi máu có dụ con quái vật nào khác tới không nhé."
+"Set, tao chuẩn bị xẻ thịt con Gấu Nước đây, mày cảnh giác xung quanh xem mùi máu có dụ con quái vật nào khác tới không nhé."
 
 "Gùuu."
 
-Nghe Rei dặn, Set khẽ gật đầu rồi đi ra một chỗ cách đó không xa canh chừng xung quanh.
+Nghe Rei dặn, Set khẽ gật đầu rồi tản ra một chỗ cách đó không xa để cảnh giới xung quanh.
 
-Nhìn dáng vẻ đáng tin cậy ấy, Rei lấy xác con Gấu Nước từ trong Nhẫn Sương Mù ra.
+Nhìn bóng dáng đáng tin cậy ấy, Rei lấy xác con Gấu Nước ra khỏi Nhẫn Sương Mù.
 
-"Chà... Nói thì nói vậy chứ làm sao bây giờ. Đã xẻ thịt gấu bao giờ đâu cơ chứ."
+"Nào... Dù nói thế chứ biết làm thế nào đây. Mình đã xẻ thịt gấu bao giờ đâu."
 
-Thứ duy nhất Rei từng mổ chỉ là gà. Ngày trước bố cậu có thú vui nuôi gà chọi, nên cậu hay bị bắt phụ làm thịt mấy con gà thua trận.
+Kinh nghiệm duy nhất Rei từng có chỉ là mổ gà. Ngày trước bố cậu có thú vui nuôi gà chọi, nên cậu từng bị bắt phụ giúp làm thịt những con gà thua trận ở hội thi.
 
-"Kể cả có làm theo kiểu mổ gà thì ở đây cũng làm gì có nước sôi."
+"Dù bảo làm giống như mổ gà, ngặt nỗi ở đây lại chẳng có nước sôi."
 
-Khi làm thịt gà, thông thường người ta treo ngược con gà lên rồi cắt cổ, cắt chân cho chảy hết máu, xong xuôi mới dội nước sôi để vặt lông. Làm vậy vừa giúp thịt gà săn lại, dễ nhổ lông, mà lông ướt cũng không bay tứ tung.
+Khi làm thịt gà, thông thường người ta treo ngược bằng dây thừng rồi cắt tiết ở cổ và cẳng chân; xong xuôi thì dội nước sôi vào để vặt lông. Dội nước nóng vừa làm thịt gà săn lại, lông dễ nhổ hơn, mà lông ướt cũng không bị bay tứ tung trong không khí.
 
 Nghĩ tới đó, cậu khẽ lắc đầu.
 
-"Cơ mà gấu làm quái gì có lông vũ, cách mổ gà chẳng áp dụng được. Trong tri thức của Zepairu cũng chẳng có khoản này. ...Đành chịu vậy, tự mày mò làm thôi. Miễn sao lấy được Ma Thạch nguyên vẹn không sứt mẻ là được, đằng nào thịt cũng chỉ để tao với Set ăn. Còn bộ da lông... lột được đẹp thì hay."
+"Cơ mà gấu làm quái gì có lông vũ nên cách mổ gà chẳng áp dụng được. Trong mớ tri thức của Zepairu cũng chẳng có mục này. ...Đành chịu vậy, tự mò mẫm làm thôi. Miễn là lấy được Ma Thạch nguyên vẹn không sứt mẻ, còn thịt thì đằng nào cũng để tao với Set ăn. Bộ da lông thì... ừ thì, lột được đẹp thì tốt."
 
-Chốt xong hướng làm, vừa định bắt tay vào xẻ thịt thì Rei chợt nhận ra trong tay mình chỉ có mỗi cây Lưỡi Hái Tử Thần. Dĩ nhiên dùng đại hái để xẻ thịt thì độ khó khỏi phải bàn rồi. Thở dài một tiếng, cậu đành lục tìm trong Nhẫn Sương Mù xem có con dao nào dễ dùng hơn không.
+Định xong phương hướng, vừa tính bắt tay vào xẻ thịt thì cậu chợt nhận ra mình chỉ có mỗi cây Lưỡi Hái Tử Thần. Dĩ nhiên dùng một cây đại hái để xẻ thịt thì độ khó khỏi phải bàn. Thở dài một tiếng, Rei đành lục tìm trong Nhẫn Sương Mù một món vũ khí có lưỡi trông vừa tay rồi lấy ra.
 
 [Dao Mithril]
 
-Con dao được rèn từ loại quặng thượng hạng nhất trong dòng quặng Mithril vốn cực kỳ hợp với ma lực. Độ sắc bén thay đổi tùy theo lượng ma lực truyền vào.
+Dao được chế tác từ loại quặng phẩm chất cao nhất trong số các quặng Mithril có độ tương thích ma lực cực cao. Độ sắc bén thay đổi theo lượng ma lực truyền vào.
 
 (Không ngờ lại dùng Dao Mithril để mổ thịt... Chẳng biết mấy mạo hiểm giả khác ở thế giới này mà thấy cảnh này thì nghĩ sao nữa.)
 
-Chắc chắn trăm phần trăm là bị mắng té tát, có khi còn có người bật khóc ra ấy chứ.
+Chắc chắn trăm phần trăm là cậu sẽ bị mắng té tát, hoặc khéo có kẻ còn bật khóc vì xót của cũng nên.
 
-Đang định cắm mũi dao vào lớp lông Gấu Nước, cậu chợt nghĩ ra điều gì đó liền rụt tay lại. Cậu nhớ ra mình chưa hề tra xem trong tri thức của Zepairu có thông tin gì về Gấu Nước không. Những lưu ý khi xẻ thịt hay bộ phận nào bán được giá cao, biết với không biết chắc chắn sẽ khác nhau một trời một vực. Thế nhưng...
+Đang định cắm con dao vào lớp lông Gấu Nước, cậu sực nghĩ ra điều gì đó liền rút dao lại. Cậu nhớ ra mình chưa từng nhận được thông tin gì về Gấu Nước từ tri thức của Zepairu. Những lưu ý khi xẻ thịt hay bộ phận nào bán được giá cao, biết trước hay không chắc chắn sẽ tạo nên sự khác biệt rất lớn. Nhưng...
 
-"Trong tri thức của Zepairu... không có à?"
+"Trong thông tin của Zepairu không có ư?"
 
-Rei lẩm bẩm đầy nghi hoặc. Cậu đã quen tay lục tìm thông tin về Gấu Nước trong kho tri thức của Zepairu, nhưng bên trong tuyệt nhiên chẳng có lấy một mẩu tin nào về nó.
+Rei thắc mắc lẩm bẩm. Cứ ngỡ thao tác đã quen tay nên cậu thử lục tìm thông tin về Gấu Nước trong mớ tri thức của Zepairu, nhưng tuyệt nhiên chẳng có lấy một dòng nào nhắc tới loài quái vật này.
 
-(Vậy ra đây là loài quái vật mới xuất hiện trong mấy trăm năm Zepairu dùng ma thuật ẩn mình trong thế giới tinh thần sao?)
+(Thế thì đây là loài quái vật mới xuất hiện trong mấy trăm năm Zepairu dùng ma thuật giam mình trong thế giới tinh thần sao?)
 
-Trong lòng tuy thấy lạ, nhưng đã không có kiến thức thì cậu cũng chỉ còn cách tự mình xoay xở mọi thứ.
+Dù trong lòng đầy nghi vấn, nhưng đã không có kiến thức thì chỉ còn cách tự mình định đoạt mọi thứ.
 
-Hạ quyết tâm, cậu truyền ma lực vào Dao Mithril rồi đâm vào mạn sườn con Gấu Nước. Chẳng biết nên khen chất liệu Mithril hay nên kinh ngạc trước lượng ma lực của Rei nữa, lưỡi dao xuyên thẳng qua lớp lông mà chẳng gặp chút cản trở nào, nhẹ tênh như đâm vào mặt nước.
+Hạ quyết tâm, cậu truyền ma lực vào Dao Mithril rồi cắm vào mạn sườn con Gấu Nước. Không biết nên khen chất liệu Mithril hay nên kinh ngạc trước lượng ma lực của Rei, lưỡi dao lướt ngọt xớt qua lớp lông mà chẳng gặp chút kháng cự nào, êm ru như thể đâm vào mặt nước.
 
 "Thế này thì ổn rồi."
 
-Cứ thế, Rei lần theo thớ cơ để lột da con gấu. Dĩ nhiên vì mới làm lần đầu nên cậu cũng lỡ tay cắt phạm không ít chỗ, nhưng nhờ con dao quá sắc, tấm da lông lột ra vẫn còn khá nguyên vẹn.
+Cứ thế, Rei lần theo thớ cơ để lột bộ da lông. Dĩ nhiên vì là lần đầu tiên nên việc lỡ tay cắt phạm vào da lông là khó tránh khỏi, nhưng nhờ độ sắc bén tuyệt hảo của con dao, cậu vẫn lột được tấm da lông khá nguyên vẹn.
 
-Tạm cất tấm da lông vào Nhẫn Sương Mù, cậu không truyền ma lực nữa mà đâm thẳng dao vào chỗ tim Gấu Nước. Sau cảm giác rạch ngọt qua thớ thịt, mũi dao chợt chạm cộc vào vật gì đó, cậu liền cẩn thận dùng lưỡi dao khêu thứ đó ra.
+Tạm thời cất tấm da lông vào Nhẫn Sương Mù, cậu dùng con dao không truyền ma lực đâm vào vị trí tim Gấu Nước. Sau cảm giác dao ngập vào thớ thịt là một tiếng "cộc" khẽ vang lên khi mũi dao chạm phải vật cứng, cậu liền cẩn thận dùng lưỡi dao khoét vật thể lạ ấy ra.
 
-Thứ lòi ra là một viên tinh thể màu xanh lam to cỡ nắm tay Rei. Thoạt nhìn, trông nó chẳng khác gì một viên đá quý.
+Thứ lộ ra là một viên tinh thể màu lam cỡ nắm tay của Rei. Thoạt nhìn, trông nó chẳng khác nào một viên đá quý.
 
-"Đây là Ma Thạch à. Màu xanh lam nghĩa là thuộc tính Thủy... Ừ thì, hiển nhiên quá rồi."
+"Đây là Ma Thạch à. Màu xanh lam nghĩa là thuộc tính Thủy... Ừ thì, chuyện hiển nhiên rồi."
 
-Ma Thạch đổi màu tùy theo thuộc tính của con quái vật mang nó. Có điều, chuyện này còn tùy từng cá thể, cùng một loài quái vật nhưng có con mang Ma Thạch hệ Hỏa, con lại mang hệ Phong, trăm hình vạn trạng. Xét về mặt đó thì Gấu Nước thuộc loại dễ đoán nhất rồi.
+Ma Thạch sẽ đổi màu tùy theo thuộc tính của con quái vật sở hữu nó. Tuy nhiên, điều đó còn phụ thuộc vào từng cá thể; ngay cả cùng một loài quái vật nhưng có con mang Ma Thạch thuộc tính Hỏa, con lại mang thuộc tính Phong, thiên hình vạn trạng. Theo nghĩa đó, Gấu Nước có thể xem là một trường hợp vô cùng rõ ràng.
 
-"Lấy được Ma Thạch rồi thì phần còn lại chẳng cần cầu kỳ nữa. Cứ pha thịt ra cho tao với Set dễ ăn là được..."
+"Lấy được Ma Thạch rồi thì mấy thứ còn lại không cần câu nệ nữa. Cứ pha thịt ra sao cho tao với Set dễ ăn là được..."
 
-Cậu lại truyền ma lực vào Dao Mithril, cứ thế xả gọn cả thịt lẫn xương.
+Cậu lại truyền ma lực vào Dao Mithril, dễ dàng chặt ngọt qua từng khúc xương.
 
-Màn xẻ thịt kết thúc chỉ sau vài phút. Trước mắt Rei lúc này là sáu phần được pha gọn: chân trước phải, chân trước trái, chân sau phải, chân sau trái, phần thân và phần đầu.
+Công việc mổ xẻ kết thúc chỉ sau vài phút. Giờ đây trước mắt Rei là sáu phần thịt đã được chia ra gồm hai chi trước, hai chi sau, thân mình và phần đầu.
 
 "Gùuu."
 
@@ -134,9 +134,9 @@ Màn xẻ thịt kết thúc chỉ sau vài phút. Trước mắt Rei lúc này 
 
 "Gùuu."
 
-Nhìn dáng vẻ ấy, Rei lại theo thói quen đưa tay gãi đầu Set.
+Nhìn dáng vẻ ấy, Rei lại quen tay đưa ngón gãi đầu Set.
 
-(Giờ tính sao đây. Tri thức của Zepairu chẳng có gì về Gấu Nước nên mình cũng chịu chẳng biết đống nội tạng này có ăn được không nữa. ...Mà cùng lắm thì trong Nhẫn Sương Mù cũng có thuốc giải độc, chắc không sao đâu... nhỉ?)
+(Giờ tính sao đây. Tri thức của Zepairu chẳng có gì về Gấu Nước nên mình cũng chịu không biết chỗ nội tạng này có an toàn hay không nữa. ...Mà cùng lắm thì trong Nhẫn Sương Mù cũng có thuốc giải độc, chắc không sao đâu... nhỉ?)
 
 Cậu liếc nhìn đống nội tạng Gấu Nước đặt trên mấy chiếc lá lớn, ngẫm nghĩ vài giây rồi đưa ra quyết định.
 
@@ -146,25 +146,25 @@ Cậu liếc nhìn đống nội tạng Gấu Nước đặt trên mấy chiếc
 
 Nó thích thú rừ rừ trong họng, lập tức dùng mỏ mổ vào đống nội tạng trước mắt.
 
-Rei dặn chừa tinh hoàn với gan ra vì nhớ mang máng từng xem trên tivi bảo cá nóc chứa độc ở mấy chỗ đó. Còn dạ dày với ruột thì khỏi phải nói rồi.
+Lý do Rei dặn không ăn tinh hoàn và gan là vì nhớ mang máng từng thấy trên tivi bảo cá nóc tích tụ chất độc ở những bộ phận đó. Còn dạ dày với ruột thì khỏi cần phải nói rồi.
 
-Dù sáng nay mới ngốn gần hết phần ăn của Rei, chắc do vẫn đói meo nên chỉ trong nháy mắt Set đã chén sạch bách đống nội tạng Gấu Nước, trừ mấy thứ cậu dặn chừa ra.
+Dù sáng nay đã chén gần hết phần ăn của Rei, nhưng có lẽ do quá đói nên Set đã chén sạch bách đống nội tạng Gấu Nước trong nháy mắt, trừ những phần Rei đã dặn chừa ra.
 
 "Gừưư."
 
-Set kêu lên một tiếng như bảo coi như xong bữa rồi, bộ dạng trông hết sức mãn nguyện.
+Set kêu lên một tiếng như muốn bảo rốt cuộc cũng no nê, trông vô cùng thỏa mãn.
 
-"Xong xuôi rồi hả, nào, lại đây chút."
+"No bụng rồi hả, nào, lại đây một chút."
 
 "Gùuu."
 
-Set ghé đầu lại, Rei liền ngắt mấy chiếc lá từ cái cây gần đó lau sạch chiếc mỏ dính đầy vết bẩn sau khi ăn nội tạng cho nó.
+Set ngoan ngoãn ghé đầu lại, Rei liền dùng mấy chiếc lá ngắt từ cái cây gần đó lau sạch chiếc mỏ dính đầy vết bẩn sau bữa ăn nội tạng cho nó.
 
 "Gùuu."
 
 Có lẽ cảm thấy dễ chịu, Set nhắm nghiền hai mắt, thích thú gừ nhẹ trong cổ họng.
 
-Lau mỏ xong xuôi, Rei lấy viên Ma Thạch xanh lam thu được từ con Gấu Nước ra để làm nốt việc cuối cùng.
+Lau sạch mỏ xong xuôi, Rei lấy viên Ma Thạch màu lam thu được từ Gấu Nước ra như bước hoàn tất cuối cùng.
 
 "Gùuu?"
 
@@ -172,19 +172,19 @@ Lau mỏ xong xuôi, Rei lấy viên Ma Thạch xanh lam thu được từ con G
 
 "Gùuu."
 
-Set gật đầu như chuyện hiển nhiên. Thầm nghĩ biết đâu với nó thứ này giống món tráng miệng cũng nên, Rei đưa viên Ma Thạch xanh to bằng nắm tay ra cho Set.
+Set gật đầu như thể đó là điều hiển nhiên. Thầm nghĩ biết đâu đối với Set thì đây giống như món tráng miệng cũng nên, Rei đưa viên Ma Thạch màu lam to bằng nắm tay ra trước mặt nó.
 
 "Gùuu."
 
-Nó há mỏ ngoạm lấy viên Ma Thạch... rồi nuốt chửng một hơi.
+Nó ngoạm lấy viên Ma Thạch bằng mỏ... rồi nuốt chửng trong một ngụm.
 
 "...Thế nào rồi?"
 
-Rei vừa hơi dè chừng hỏi Set thì bất thình lình, một giọng nói vang lên trong đầu cậu.
+Rei có phần thận trọng cất tiếng hỏi Set, đúng lúc ấy, một giọng nói bất thình lình vang lên trong đầu cậu.
 
 [Set đã học được "Thủy Cầu Lv.1"]
 
-Nghe chẳng khác nào dòng thông báo mỗi khi học kỹ năng mới trong game RPG, và xui xẻo thay, Rei lại biết tỏng kẻ nào có cái sở thích bày trò kiểu game thế này.
+Nó giống hệt như một dòng thông báo khi học được kỹ năng mới trong trò chơi nhập vai RPG, và thật bất hạnh là Rei lại biết rõ mười mươi kẻ nào có sở thích cài cắm mấy trò đậm chất game như thế này.
 
 "Takumu, lại là cậu à..."
 

@@ -1,142 +1,142 @@
 # Chương 12: Đột kích bộ lạc Orc (12)
 
-Đại lộ thành phố Gilm lúc này đang râm ran tiếng xôn xao bàn tán.
+Trên đại lộ của thành phố Gilm. Lúc này, khắp nơi đang chìm trong những tiếng xôn xao bàn tán.
 
-Thật ra, chuyện ồn ào trên phố vốn là thường ngày, chẳng có gì lạ. Có điều hôm nay lại khác: giữa tâm điểm đám đông xôn xao ấy là một thanh niên, hay gọi là thiếu niên thì đúng hơn, đi cùng một chú Griffin.
+Mà thật ra, đại lộ vốn lúc nào cũng thế, chẳng có gì lạ. Điểm khác thường duy nhất là ở trung tâm của sự ồn ào ấy xuất hiện một chàng trai, hay đúng hơn là một thiếu niên, cùng một chú Griffin.
 
 "Gừưư."
 
-Chắc tại bị mọi người xung quanh nhìn chằm chằm nên Set hơi ngại, khẽ kêu lên một tiếng. Nghe tiếng nó, đám đông bỗng im bặt đi một thoáng, nhưng rồi lại nhanh chóng xôn xao như cũ.
+Có vẻ để ý đến những ánh nhìn đổ dồn về phía mình, Set khẽ kêu lên một tiếng. Ngay khoảnh khắc tiếng kêu cất lên, sự xôn xao xung quanh lập tức lặng đi, nhưng rồi tiếng bàn tán lại nhanh chóng rộ lên như cũ.
 
-Nhưng kể cũng phải. Dù sao thì trước mắt họ là một con Griffin, loài quái vật Hạng A đang đường hoàng sải bước giữa phố. Sở dĩ mọi chuyện chỉ dừng ở mức xì xào thế này là nhờ một trong hai chiếc vòng trên cổ nó chứng tỏ rõ đây là quái vật đã thuần hóa hoặc thú triệu hồi. Chứ nếu là Griffin hoang dã, dân thường cả dãy phố hẳn đã chạy tán loạn, còn mạo hiểm giả, kỵ sĩ với binh lính cũng đã tuốt vũ khí sẵn sàng nghênh chiến rồi.
+Nhưng điều đó cũng dễ hiểu. Bởi lẽ, Griffin vốn là quái vật Hạng A đang đường hoàng sải bước giữa lòng thành phố. Sở dĩ mọi chuyện dừng lại ở mức này là nhờ một trong hai chiếc vòng đeo trên cổ nó đã thể hiện rõ ràng đây là quái vật được thuần hóa hay thú triệu hồi. Chứ nếu đây là một con Griffin hoang dã, toàn bộ thường dân trên đại lộ ắt đã tháo chạy toán loạn, còn mạo hiểm giả, kỵ sĩ cùng binh lính sẽ lập tức lăm lăm vũ khí đối đầu với nó.
 
-"Kệ đi. Mày không làm gì thì người ta cũng chẳng làm gì đâu."
+"Đừng bận tâm. Mày không làm gì thì họ cũng chẳng làm gì đâu."
 
-Rei vừa nói vừa gãi nhẹ đầu Set. Nhưng nói đi cũng phải nói lại, bản thân cậu đang khoác chiếc áo choàng nhìn cực kỳ đắt tiền, tay lại cầm cây đại hái cán dài hai mét, lưỡi dài một mét. Kể cả không có Set đi cùng, chắc chắn cậu vẫn thu hút mọi ánh nhìn.
+Rei vừa nói vừa đưa tay gãi đầu Set, nhưng bản thân cậu lại khoác chiếc áo choàng trông cực kỳ cao cấp cùng cây đại hái với cán dài hai mét và lưỡi dài một mét. Dù không có Set đi cùng, chắc chắn cậu vẫn sẽ là tâm điểm của mọi sự chú ý.
 
-Thật ra chiếc áo choàng đó là Áo Choàng Rồng, một món hàng thượng hạng bậc nhất. Chỉ có điều, nhờ hiệu ứng yểm lên từ người chế tạo là Giả Kim Thuật Sư Esta Noor, thoạt nhìn không ai nhận ra nó là Đạo Cụ Ma Thuật mạnh mẽ. Thế nên nhìn qua, nó chỉ giống một chiếc áo choàng lòe loẹt dễ gây chú ý mà thôi.
+Ngoài ra, chiếc áo choàng đó là Áo Choàng Rồng, một cực phẩm đẳng cấp vượt bậc, nhưng nhờ pháp thuật gia trì của người chế tạo là Giả Kim Thuật Sư Esta Noor, thoạt nhìn không ai nhận ra đây là một Đạo Cụ Ma Thuật cao cấp. Do vậy, nhìn qua nó chỉ giống như một chiếc áo choàng phô trương quá mức.
 
-Vừa đi giữa những tiếng xì xào như vậy dọc theo đại lộ chừng mười phút, Rei đã thấy hiện ra trước mắt một tòa nhà treo tấm biển lớn đề chữ "Hội Mạo Hiểm Giả", đúng như lời Ranga chỉ dẫn.
+Đi giữa những tiếng xôn xao ấy chừng mười phút dọc theo đại lộ, đúng như Ranga đã nói, một tòa nhà treo tấm biển lớn đề dòng chữ "Hội Mạo Hiểm Giả" lọt vào tầm mắt của Rei.
 
-"Set, đằng kia có chỗ đợi cho thú với xe ngựa, mày ra đó chờ nhé. Nhớ để lộ rõ cái vòng cổ này ra. Nếu có ai gây sự làm hại mày thì cứ dạy cho chúng một bài học nhẹ nhàng cũng được."
+"Set, đằng kia có chỗ chờ dành cho động vật và xe ngựa, mày cứ đợi ở đấy nhé. Nhớ để lộ chiếc vòng cổ này ra cho người ta thấy rõ. Nếu có ai định làm hại mày thì cứ thẳng tay dạy cho chúng một bài học thích đáng cũng được."
 
 "Gùuu."
 
-Set gật đầu nghe lời. Còn những người xung quanh nghe thấy câu dặn dò vừa rồi của Rei thì mặt mày ai nấy đều giật giật.
+Set gật đầu đáp lời Rei. Trong khi đó, những người xung quanh nghe được lời cậu dặn thì mặt mày không khỏi giật giật.
 
-Đợi Set đi vào chỗ đậu đã chỉ xong, Rei mới quay bước tiến vào trong Hội Mạo Hiểm Giả.
+Dõi mắt nhìn Set di chuyển đến khu vực được chỉ định, Rei cũng quay bước tiến vào bên trong Hội Mạo Hiểm Giả.
 
 "Xem nào, không biết bên trong thế nào đây."
 
-Đẩy cánh cửa kêu két một tiếng, cậu bước vào trong. Đập vào mắt Rei là một cảnh tượng hoàn toàn ngoài dự đoán. Cậu cứ tưởng sẽ thấy một đám người thô lỗ tụ tập đông đúc, mặc sức nốc rượu, hở tí là đánh lộn rồi cười hô hố đầy tục tĩu... Nhưng khung cảnh trước mắt lại khác xa những gì cậu hình dung. Đúng là trong Hội Mạo Hiểm Giả có một góc bán rượu và đồ ăn nhẹ, nhưng ngoài chừng năm gã trông giống mạo hiểm giả đang ngồi uống rượu ra thì chỉ có lác đác vài người nữa, còn lại hầu hết bàn ghế đều bỏ trống.
+Đẩy cánh cửa kêu két một tiếng, cậu bước vào bên trong. Đập vào mắt Rei là một khung cảnh hoàn toàn ngoài dự tính. Những kẻ thô bạo tụ tập đông đúc, mặc sức chè chén, chốc chốc lại đánh lộn và cười hô hố một cách thô bỉ... Cứ ngỡ sẽ bắt gặp cảnh tượng ấy, nhưng thực tế trước mắt lại khác xa những gì Rei hình dung. Đúng là trong Hội Mạo Hiểm Giả có một khu vực phục vụ đồ ăn và rượu đơn giản, nhưng ngoài khoảng năm người trông như mạo hiểm giả đang uống rượu thì chỉ lác đác vài ba người khác, phần lớn bàn ghế đều trống trơn.
 
-"Chào mừng quý khách. Cậu đến có việc gì ạ?"
+"Kính chào quý khách. Không biết cậu có việc gì cần xử lý ạ?"
 
-Rei đang tò mò ngó nghiêng khắp Hội thì bất ngờ có người gọi. Ngoái nhìn sang, cậu thấy có mấy quầy tiếp tân đặt liền nhau, và một nhân viên ở đó vừa lên tiếng hỏi cậu.
+Giữa lúc Rei đang tò mò ngó nghiêng khắp Hội thì bất ngờ có tiếng gọi cất lên. Nhìn về hướng phát ra âm thanh, cậu thấy có vài quầy lễ tân, và một người trong số đó vừa cất tiếng hỏi cậu.
 
-Quả không hổ là người được giao giữ bộ mặt cho Hội Mạo Hiểm Giả, mấy cô tiếp tân ở đây ai nấy đều có nhan sắc rất xinh đẹp. Có người thú mang tai mèo hay tai chó, có cô gái tai nhọn trông giống Elf, và dĩ nhiên có cả người bình thường. Người vừa bắt chuyện với Rei là một cô tiếp tân người thường, buộc tóc đuôi ngựa màu nâu.
+Quả không hổ là bộ mặt đại diện cho Hội Mạo Hiểm Giả, mấy cô nhân viên tiếp tân ở đây ai nấy đều sở hữu dung mạo có thể gọi là vô cùng xinh đẹp. Có người thú mang tai mèo hay tai chó, có cô gái tai nhọn trông như Elf, và dĩ nhiên không thể thiếu con người bình thường. Trong số đó, người vừa lên tiếng hỏi Rei là một tiếp tân viên nhân tộc buộc tóc đuôi ngựa màu nâu.
 
 "Tôi muốn đăng ký vào Hội..."
 
-Rei vừa nói đến đó thì từ phía đám người đang uống rượu bỗng có tiếng nói vọng sang.
+Khi Rei vừa nói đến đó, từ phía nhóm người đang uống rượu bỗng vang lên tiếng nói chen vào.
 
 "Hahaha! Chỗ này không phải nơi cho một thằng nhóc ốm nhom như mày bén mảng tới đâu! Bé cưng thì nên về mà chui vào váy mẹ ấy chứ?"
 
-"Này này, Vargas. Đừng trêu nó thế chứ. Nhìn xem, nó sợ đến mức cứng họng không nói nổi câu nào rồi kìa."
+"Kìa kìa, Vargas. Đừng trêu nó thế chứ. Nhìn xem, nó sợ đến mức cứng họng chẳng thốt nên lời rồi kìa."
 
-"Nhóc con, mày tới đây đăng ký còn sớm chục năm... à không, mười lăm năm nữa đấy! Tướng tá ốm nhom thế kia mà cũng đòi làm mạo hiểm giả à?"
+"Nhóc con, mày đến đây đăng ký thì sớm hơn chục năm... à không, mười lăm năm rồi đấy! Thân hình ốm yếu thế kia mà cũng đòi làm mạo hiểm giả à?"
 
-"Đúng thế, đúng thế. Vác mỗi cái vũ khí to xác chứ trước mặt quái vật thì mấy trò làm màu đó chẳng dọa được ai đâu nhé?"
+"Đúng đấy đúng đấy. Vũ khí thì to thật đấy, nhưng trước mặt quái vật thì ba cái trò dọa dẫm rỗng tuếch chẳng có tác dụng gì đâu nhé?"
 
 "Này, đừng kiếm chuyện nữa. Đang tiệc mừng công mà gây thêm rắc rối làm gì."
 
-Trong năm người có một gã vẫn còn khá tỉnh táo đứng ra can, nhưng bốn tên kia chắc đã ngà ngà say hết rồi. Mặc kệ lời đồng đội, bọn chúng vẫn thi nhau buông lời mỉa mai Rei.
+Dù một người còn khá tỉnh táo trong nhóm năm người ra sức can ngăn, nhưng bốn tên còn lại có lẽ đã say mèm. Mặc kệ lời đồng đội, bọn chúng vẫn cứ buông lời châm chọc, chế giễu Rei.
 
-(Đúng là mô-típ kinh điển trong tiểu thuyết luôn. Đường tới Gilm thì chẳng gặp cảnh thương nhân hay quý tộc nào bị sơn tặc phục kích, thế mà tới Hội Mạo Hiểm Giả lại dính ngay màn bị gây sự. Mà cứu người bị cướp thì còn có tiền cảm ơn, chứ dây với đám say xỉn này... À mà khoan đã? Gã cuối cùng vừa nhắc tới tiệc mừng công thì phải. Ngồi nhậu mừng công ngay quán rượu của Hội, tức là bọn chúng vừa hoàn thành xong ủy thác nào đó. Nếu vậy thì...)
+(Đúng là tình huống kinh điển hay thấy trong tiểu thuyết. Lúc đến thành phố Gilm thì chẳng gặp cảnh thương nhân hay quý tộc bị sơn tặc tấn công, nhưng màn bị kiếm chuyện ở Hội Mạo Hiểm Giả thì lại có đủ à. Cứu người bị sơn tặc tấn công thì còn nhận được thù lao hậu hĩnh, chứ dây vào mấy gã say xỉn này thì... Ơ kìa, khoan đã? Tên cuối cùng vừa nhắc đến tiệc mừng công thì phải. Mở tiệc mừng công ngay quán rượu trong Hội, tức là bọn chúng vừa hoàn thành một ủy thác nào đó. Vậy thì...)
 
 "Hừ."
 
-Rei liếc đám đàn ông đang hò hét bằng ánh mắt như nhìn đống rác, cố tình khịt mũi cười khẩy một tiếng thật rõ rồi quay sang phía cô tiếp tân.
+Rei ném ánh nhìn như nhìn đống rác rưởi về phía đám đàn ông đang buông lời châm chọc, khịt mũi cười khẩy một tiếng thật rõ rồi quay người lại đối diện với cô tiếp tân của Hội.
 
 "Thằng ranh kia, mày vừa cười khẩy bọn tao đấy à!?"
 
-"Thằng nhãi ranh! Mới chân ướt chân ráo tới đăng ký vào Hội mà láo à, để tao dạy cho biết thân biết phận nhé? Hả!?"
+"Thằng nhãi ranh! Một đứa mới chân ướt chân ráo tới đăng ký vào Hội như mày có cần bọn tao dạy cho biết thân biết phận là gì không? Hả!?"
 
-"Thôi nào, Vargas, Zolit, bình tĩnh đi hai ông. Đúng như Zolit nói, thằng đó cũng chỉ là lính mới tới đăng ký thôi mà. Đang cố làm bộ cứng cỏi đấy."
+"Thôi nào, Vargas, Zolit, hai người bình tĩnh đi. Thằng đó rốt cuộc cũng chỉ là lính mới tới đăng ký như lời Zolit nói thôi mà. Nó đang cố gồng lên ra vẻ cứng cỏi đấy."
 
-"Nhưng chính vì là lính mới nên càng phải dạy cho nó biết phép tắc với người lớn hơn chứ."
+"Nhưng vì là lính mới nên mới càng phải dạy cho nó biết phép tắc với bậc tiền bối chứ."
 
-Bốn tên cứ thế lời qua tiếng lại, còn gã kia chỉ biết ôm đầu ngao ngán. Mặc kệ cả năm người đó, Rei quay sang nói với cô tiếp tân.
+Bốn tên thì nói qua nói lại như thế, còn một tên thì ôm đầu ngao ngán. Mặc kệ cả năm tên đó, Rei mở lời với cô tiếp tân.
 
 "Vậy, tôi đăng ký vào Hội được chứ?"
 
-"D-Dạ được. Cậu vui lòng điền tên, tuổi và sở trường chiến đấu vào tờ giấy này nhé. Cậu có cần tôi viết hộ không ạ?"
+"D-Dạ được. Xin cậu hãy điền tên, tuổi và các sở trường có thể dùng trong chiến đấu vào tờ đơn này. Cậu có cần tôi viết hộ không ạ?"
 
 "Không, tôi tự viết được."
 
-Rei đáp rồi cầm cây bút lên.
+Đáp lại lời cô tiếp tân, cậu cầm lấy cây bút.
 
-(Nghĩ kỹ thì chữ viết đã đành, ngay cả nói chuyện cũng hiểu nhau tuốt. Đúng là nhờ dung hợp với Zepairu cả.)
+(Nghĩ lại thì chữ viết không nói làm gì, ngay cả ngôn ngữ giao tiếp cũng trôi chảy thế này. Thật phải cảm ơn việc dung hợp với Zepairu rồi.)
 
-Nghĩ vậy, Rei điền vào tờ giấy được đưa: tên Rei, tuổi 15, ô sở trường ghi ma pháp Hỏa, Thuần Thú Sư, cận chiến, rồi đưa lại cho cô tiếp tân.
+Vừa nghĩ thầm như vậy, Rei vừa điền tên là Rei, tuổi 15, vào ô sở trường ghi ma pháp Hỏa, Thuần Thú Sư, cận chiến rồi đưa lại tờ giấy cho cô tiếp tân.
 
-Nói thêm một chút, ở Elgin, người có họ thường là quý tộc hoặc tầng lớp tương đương, không thì cũng được ban họ làm phần thưởng sau khi lập công trạng lớn. Thế nên một người mới tới thế giới này như Rei dĩ nhiên chỉ viết vỏn vẹn tên "Rei".
+Nói thêm, ở Elgin, người mang họ thường là quý tộc hoặc những tầng lớp tương đương, hoặc là phần thưởng được ban tặng khi lập nên một kỳ tích nào đó. Vì vậy, một người vừa mới đặt chân đến thế giới này như Rei dĩ nhiên chỉ viết duy nhất một chữ "Rei" lên giấy.
 
-"Vâng, cảm ơn cậu. Trong lúc chờ làm Thẻ Hội, tôi xin phép giới thiệu qua về Hội nhé."
+"Vâng, xin cảm ơn cậu. Trong lúc chờ làm Thẻ Hội, tôi xin phép được phổ biến các quy định của Hội ạ."
 
-Cô tiếp tân khẽ cúi chào rồi bắt đầu giải thích về Hội.
+Cô tiếp tân khẽ cúi chào một cái rồi bắt đầu giải thích về Hội.
 
-Mạo hiểm giả đăng ký vào Hội được phân hạng từ H đến A. Phía trên vẫn còn Hạng S, nhưng nghe nói cả lục địa Elgin cũng chỉ có đúng ba người đạt tới hạng này, hiếm vô cùng. Nói thêm thì ở Vương quốc Mireana, nơi thành phố Gilm trực thuộc, cũng có một mạo hiểm giả Hạng S.
+Mạo hiểm giả đăng ký vào Hội Mạo Hiểm Giả được xếp theo hệ thống thứ hạng từ H đến A. Dù trên đó còn có Hạng S, nhưng trên toàn cõi Elgin cũng chỉ có vẻn vẹn ba mạo hiểm giả Hạng S, quả là một cánh cửa hẹp tột cùng. Tiện thể, Vương quốc Mireana, nơi thành phố Gilm trực thuộc, cũng có một mạo hiểm giả Hạng S.
 
-Thấp nhất là Hạng H, dành riêng cho những người chỉ nhận việc lặt vặt trong thành phố. Muốn nhận ủy thác ra ngoài thành thì ít nhất phải lên Hạng G. Muốn thăng từ Hạng H lên G, chỉ cần giám khảo của Hội công nhận có khả năng chiến đấu là có thể lên hạng ngay trong ngày đầu đăng ký.
+Cấp bậc thấp nhất là Hạng H, chuyên dành cho những người chỉ nhận các ủy thác diễn ra trong nội thành; nếu muốn nhận ủy thác ra ngoài thành, mạo hiểm giả bắt buộc phải đạt tối thiểu từ Hạng G. Để thăng từ Hạng H lên G, chỉ cần giám khảo của Hội công nhận có khả năng chiến đấu là có thể thăng hạng ngay trong ngày đầu tiên đăng ký.
 
-Khi nhận ủy thác, chỉ cần gỡ tờ giấy dán trên bảng thông báo mang tới quầy tiếp tân là xong thủ tục. Số tiền thưởng ghi trên giấy đã trừ sẵn thuế nộp cho thành phố và phí hoa hồng của Hội, nên làm xong sẽ nhận trọn số tiền đó. Còn nếu quá hạn quy định mà chưa hoàn thành, người nhận phải nộp phạt cho Hội ba mươi phần trăm tiền thưởng coi như phí phá hợp đồng.
+Về ủy thác, người nhận chỉ cần mang tờ giấy nhiệm vụ dán trên bảng thông báo tới quầy tiếp tân là hoàn tất thủ tục tiếp nhận. Khoản tiền thù lao ghi trên giấy ủy thác đã được khấu trừ các chi phí như thuế nộp cho thành phố và phí hoa hồng của Hội, nên người nhận nhiệm vụ sẽ được hưởng trọn vẹn số tiền đó. Ngoài ra, nếu không hoàn thành ủy thác trong số ngày quy định, mạo hiểm giả sẽ phải nộp phạt cho Hội Mạo Hiểm Giả ba mươi phần trăm số tiền thù lao làm tiền vi phạm hợp đồng.
 
-Mỗi người được phép nhận ủy thác cao hơn hạng của mình một bậc, còn bậc thấp hơn thì không giới hạn. Chẳng hạn mạo hiểm giả Hạng G có thể nhận ủy thác từ Hạng F, G cho tới H.
+Ngoài ra, mạo hiểm giả có thể nhận ủy thác cao hơn cấp bậc của mình tối đa một bậc, và không có giới hạn dưới. Chẳng hạn, mạo hiểm giả Hạng G có thể nhận các ủy thác thuộc Hạng F, G và H.
 
-Thông thường, chỉ cần làm đủ số ủy thác quy định rồi nộp đơn là được thăng hạng. Riêng từ Hạng E lên D và từ Hạng C lên B thì bắt buộc phải vượt qua kỳ thi thăng hạng của Hội.
+Về cơ bản, sau khi hoàn thành số lần ủy thác theo quy định, mạo hiểm giả có thể nộp đơn xin thăng hạng. Tuy nhiên, khi từ Hạng E lên D và từ Hạng C lên B, người đó bắt buộc phải trải qua bài thi thăng hạng do Hội tổ chức.
 
-Qua đó có thể thấy đại khái: Hạng E đến G là tân binh, C đến D là những người đã cứng tay nghề, còn A đến B là hàng cao thủ.
+Nhìn vào cách phân chia này có thể thấy: Hạng E đến G là tân binh; C đến D là những người đã thạo nghề; còn A đến B là những tay cự phách.
 
-Nếu lập tổ đội nhiều người, hạng trung bình của các thành viên sẽ là Hạng Tổ Đội và được ghi rõ trên Thẻ Hội. Khi đi theo tổ đội, cả nhóm được phép nhận ủy thác cao hơn Hạng Tổ Đội tối đa hai bậc.
+Trường hợp lập tổ đội gồm nhiều người, cấp bậc trung bình của các thành viên sẽ là Hạng Tổ Đội và được ghi rõ trên Thẻ Hội. Thêm vào đó, nếu đi theo tổ đội thì có thể nhận ủy thác cao hơn Hạng Tổ Đội tới hai bậc.
 
-Đăng ký làm mạo hiểm giả hoàn toàn miễn phí, nhưng nếu làm mất Thẻ Hội thì phí cấp lại tốn năm đồng vàng.
+Việc đăng ký làm mạo hiểm giả là hoàn toàn miễn phí, nhưng nếu làm mất Thẻ Hội thì phí cấp lại sẽ tốn năm đồng vàng.
 
-Nguyên liệu lấy từ quái vật, mạo hiểm giả có thể tự do bán cho khách quen hay mối lái bên ngoài, nhưng nếu xảy ra rắc rối gì thì Hội sẽ không can thiệp.
+Mạo hiểm giả có thể tùy ý tự bán nguyên liệu thu được từ quái vật cho khách quen hay các mối lái của mình, nhưng nếu phát sinh bất kỳ rắc rối nào thì Hội Mạo Hiểm Giả sẽ không can thiệp.
 
-Hội Mạo Hiểm Giả cũng có thu mua nguyên liệu, nhưng giá thường rẻ hơn từ mười đến hai mươi phần trăm so với bán cho các tiệm vũ khí, tiệm giáp hay tiệm ma đạo cụ trong thành. Bù lại, bên Hội định giá rất nhanh, mà giá cũng ổn định chứ không bị ép kể cả khi ngoài chợ có tràn ngập cùng một loại hàng.
+Ngoài ra, Hội Mạo Hiểm Giả cũng tiến hành thu mua các nguyên liệu đó, nhưng mức giá thu mua về cơ bản sẽ rẻ hơn khoảng mười đến hai mươi phần trăm so với giá của các cửa tiệm vũ khí, tiệm giáp trụ hay tiệm đạo cụ ma pháp trong thành phố. Bù lại, việc định giá thu mua ở Hội diễn ra rất nhanh chóng, và giá thu mua luôn cố định dù trên thị trường có tràn ngập cùng loại nguyên liệu đó đi chăng nữa.
 
-Giữa các chi nhánh Hội đều có Đạo Cụ Ma Thuật liên lạc thường xuyên, nên Thẻ Hội và thứ hạng hiện tại vẫn dùng được bình thường dù có sang nước khác hay chi nhánh khác.
+Nhờ các Đạo Cụ Ma Thuật, các Hội Mạo Hiểm Giả có thể liên lạc chặt chẽ với nhau, do đó Thẻ Hội và cấp bậc hiện tại vẫn sử dụng được ở Hội Mạo Hiểm Giả thuộc các quốc gia hay chi nhánh khác.
 
-Nếu mạo hiểm giả có xích mích với nhau vì tranh chấp ủy thác hay chuyện gì khác, Hội cũng không can thiệp.
+Dù mạo hiểm giả có xảy ra xích mích với nhau do tranh chấp ủy thác hay bất cứ nguyên nhân nào khác, Hội Mạo Hiểm Giả cũng sẽ không can thiệp.
 
-"Quy định chỉ có vậy thôi ạ."
+"Đó là toàn bộ các điều khoản ạ."
 
-Khi nhắc tới câu "không can thiệp chuyện xích mích" vừa rồi, cô tiếp tân khẽ liếc mắt về phía đám mạo hiểm giả lúc nãy vừa kiếm chuyện với Rei.
+Đến câu cuối cùng "không can thiệp vào xích mích", cô tiếp tân khẽ liếc mắt nhìn về phía đám mạo hiểm giả vừa kiếm chuyện với Rei lúc nãy.
 
-Rei cũng kín đáo liếc theo, thấy bốn tên kia đang sốt ruột ngồi chờ cậu làm xong thủ tục đăng ký. Còn gã lúc đầu đứng ra can ngăn dường như muốn tỏ rõ mình không dính dáng gì tới bọn chúng, đã dạt sang một góc xa ngồi nhấm nháp ly rượu một mình.
+Rei cũng thuận thế kín đáo liếc mắt theo, và thấy bốn tên bên đó đang sốt ruột chực chờ cậu làm xong thủ tục đăng ký. Riêng kẻ ban đầu can ngăn bốn tên kia dường như muốn tỏ rõ mình chẳng liên quan gì đến bọn chúng nên đã dạt ra một góc xa, ngồi nhâm nhi rượu một mình.
 
-Bốn tên đó đang tính trò gì, chỉ nghe câu "không can thiệp" của cô tiếp tân là đủ hiểu. Hiện tại Rei chưa đăng ký xong, vẫn tính là dân thường. Mạo hiểm giả mà đánh dân thường thì kiểu gì cũng bị Hội phạt, nhưng nếu đối phương đã là mạo hiểm giả, kể cả mới đăng ký xong đi nữa, bọn chúng cứ thế ra tay cũng chẳng sao.
+Bốn tên đó đang toan tính điều gì thì lời giải thích "không can thiệp vào xích mích" của cô tiếp tân đã nói lên tất cả. Lúc này, Rei vẫn chỉ là người bình thường chưa hoàn tất đăng ký vào Hội. Dù sao thì mạo hiểm giả mà dùng bạo lực với thường dân sẽ bị Hội xử phạt, nhưng nếu đối phương cũng là mạo hiểm giả, dù chỉ vừa mới đăng ký, thì chúng cho rằng sẽ chẳng có vấn đề gì.
 
 "Cậu có thắc mắc gì không ạ?"
 
 Trước câu hỏi của cô tiếp tân, Rei suy nghĩ vài giây rồi mở lời.
 
-"Ví dụ như một mạo hiểm giả Hạng H hay G mà hạ được quái vật thuộc ủy thác thảo phạt Hạng C hoặc Hạng B thì sao?"
+"Ví dụ như mạo hiểm giả Hạng H hoặc Hạng G hạ gục được quái vật thuộc ủy thác thảo phạt của Hạng C hay Hạng B thì sẽ thế nào?"
 
-"Tiếc là nếu chưa nhận ủy thác mà đã hạ quái vật thì không được tính là hoàn thành đâu ạ. Nhưng Hội vẫn thu mua nguyên liệu từ con quái vật đó bình thường."
+"Rất tiếc là nếu hạ gục quái vật khi chưa tiếp nhận ủy thác thì sẽ không được tính là hoàn thành nhiệm vụ ạ. Tuy nhiên, Hội vẫn có thể thu mua nguyên liệu từ con quái vật đó bình thường."
 
-"Há há há! Thằng nhóc mới vác mặt tới đăng ký mà đòi hạ quái vật Hạng C với Hạng B cơ đấy. Bớt nói mớ giữa ban ngày đi nhóc!"
+"Hahaha! Một thằng nhóc vừa mới đăng ký mà đòi hạ gục quái vật Hạng C với Hạng B cơ đấy. Bớt nói mớ giữa ban ngày đi là vừa!"
 
-"Đúng đấy, mở mắt thao láo mà vẫn nói mớ được thì đúng là ngủ tài thật."
+"Đúng đấy, mở mắt trừng trừng mà vẫn nói mớ được thì đúng là có tài ngủ thật đấy."
 
-Đám của hai gã Vargas và Zolit nghe thấy câu hỏi của Rei lại hùa vào châm chọc, nhưng cậu lờ tịt, tiếp tục nói chuyện với cô tiếp tân.
+Nhóm người có hai gã mạo hiểm giả tên là Vargas và Zolit nghe thấy câu hỏi của Rei lại tiếp tục xía vào châm chọc, nhưng Rei vờ như không nghe thấy mà vẫn tiếp tục nói chuyện với cô tiếp tân.
 
-"Hiểu rồi. Không còn câu hỏi nào nữa. Bao lâu thì xong Thẻ Hội thế?"
+"Tôi hiểu rồi. Tôi không còn thắc mắc gì nữa. Bao lâu thì xong Thẻ Hội?"
 
-"À... vâng, xong vừa kịp luôn đây ạ. Thẻ của cậu đây. Cậu kiểm tra kỹ xem thông tin ghi trên thẻ đã đúng hết chưa nhé."
+"Dạ... vâng, xong rồi đây ạ. Đây là thẻ của cậu. Xin hãy kiểm tra kỹ xem các thông tin ghi trên đó đã chính xác chưa."
 
-Rei cầm Thẻ Hội lên kiểm tra. Nơi đăng ký ghi Hội Mạo Hiểm Giả chi nhánh Gilm, tên Rei, Hạng H, 15 tuổi. Cuối cùng, ở mục kỹ năng chiến đấu ghi ma pháp Hỏa, Thuần Thú Sư, cận chiến.
+Nghe theo lời cô tiếp tân, Rei kiểm tra lại Thẻ Hội. Nơi đăng ký ghi là Hội Mạo Hiểm Giả chi nhánh Gilm, tên là Rei, Hạng H, tuổi 15. Và ở mục kỹ năng chiến đấu ghi ma pháp Hỏa, Thuần Thú Sư, cận chiến.
 
 "Không vấn đề gì. Tiện thể cho tôi hỏi thêm một câu cuối được không?"
 
@@ -144,38 +144,38 @@ Rei vừa cất tấm Thẻ Hội vào trong áo vừa hỏi cô tiếp tân.
 
 "Vâng, có chuyện gì ạ?"
 
-Nghe vậy, Rei nhếch mép cười, cố tình nói to đủ để cả đám đang gây sự nãy giờ nghe thấy rõ mồn một.
+Trước câu đáp lại, Rei khẽ nhếch mép cười rồi cố tình cất cao giọng đủ để đám người đang gây sự lúc nãy nghe thấy rõ mồn một.
 
-"Nãy giờ có một lũ thảm hại xấu xí, ngoài việc làm ầm ĩ ra chẳng được tích sự gì cứ bám lấy tôi gây sự. Không biết đám sâu rượu đó ở Hội mang hạng gì vậy?"
+"Từ nãy tới giờ có một lũ vụng về xấu xí chẳng có tài cán gì ngoài việc làm ầm ĩ cứ bám lấy tôi mà gây sự, không biết hạng của đám sâu rượu đó ở Hội là bao nhiêu vậy?"
 
 "Thằng nhãi ranh!"
 
-Chắc cũng có hơi men trong người, vừa nghe câu hỏi mang đầy tính khiêu khích của Rei, cả bọn lập tức nổi điên.
+Có lẽ cũng do ma men đưa lối, đòn khiêu khích đội lốt câu hỏi của Rei lập tức khiến cả bọn nổi cơn thịnh nộ.
 
-"...À vâng, những người bên kia là tổ đội Móng Vuốt Chim Ưng, Hạng Tổ Đội D ạ."
+"...Dạ chuyện là, những người đằng kia thuộc nhóm Móng Vuốt Chim Ưng, có Hạng Tổ Đội là D ạ."
 
-"Hô. Móng Vuốt Chim Ưng... cơ đấy. Tôi lại cứ tưởng phải là Nước Dãi Goblin hay cái tên nào đại loại thế cho xứng tầm chứ."
+"Hô. Móng Vuốt Chim Ưng... cơ à. Tôi lại cứ ngỡ phải là Nước Dãi Goblin hay cái tên nào đó biết thân biết phận như thế chứ."
 
-Rei vừa dứt lời, từ bàn của đám Móng Vuốt Chim Ưng bỗng vang lên tiếng gỗ vỡ chát chúa. Ngoái sang nhìn, cậu thấy gã tên Vargas lúc nãy vừa vung cây rìu lớn bổ toác mặt bàn.
+Rei vừa dứt lời lẩm bẩm, từ chỗ đám Móng Vuốt Chim Ưng đang ngồi bỗng vang lên một tiếng rầm chát chúa. Rei liếc nhìn sang thì thấy gã đàn ông tên Vargas lúc nãy vừa vung một cây rìu lớn bổ nát cả mặt bàn.
 
-"Thằng ranh mới đăng ký mà gan to đấy. Bước ra ngoài cửa ngay. Để tao dạy cho mày biết thân biết phận là gì!"
+"Một thằng ranh mới đăng ký mà to gan thật. Ra ngoài cửa với bọn tao ngay. Để tao dạy cho mày biết thế nào là biết thân biết phận!"
 
-"Được thôi. Đằng nào cũng tiện, tao tiếp cả lũ Nước Dãi Goblin tụi mày một lượt luôn."
+"Được thôi. Dù sao cũng tiện thể, để tao tiếp trọn cả đám Nước Dãi Goblin tụi mày một thể."
 
 "Hả!? Mày vừa nói gì hả thằng nhóc!"
 
 "Để bọn tao dạy cho mày biết thế nào là lễ độ!"
 
-Cả bọn vớ lấy vũ khí, hùng hổ bám theo sau lưng Rei khi cậu bước ra khỏi Hội.
+Từng tên lăm lăm vũ khí trong tay, hùng hổ đuổi theo sau lưng Rei khi cậu cất bước ra khỏi Hội.
 
-Vừa ra tới cửa Hội, Rei bỗng dừng chân, quay lại gọi cô tiếp tân ban nãy.
+Vừa bước tới cửa Hội, Rei bỗng dừng chân lại rồi quay sang cất lời với cô tiếp tân ban nãy.
 
-"À đúng rồi, nếu có khả năng chiến đấu thì ngay ngày đầu đăng ký cũng lên được Hạng G đúng không?"
+"Đúng rồi, nếu có khả năng chiến đấu thì ngay ngày đầu đăng ký cũng có thể lên Hạng G đúng không?"
 
 "Ơ? Dạ, vâng. Đúng là như vậy ạ..."
 
-"Vậy thì nhờ cô gọi người có thẩm quyền ra trước cửa Hội giúp tôi. Tôi muốn xin thăng lên Hạng G."
+"Vậy thì cử người có thẩm quyền việc này ra trước cửa Hội giúp tôi. Tôi xin làm thủ tục thăng lên Hạng G."
 
 "D-Dạ, vâng. Tôi hiểu rồi ạ."
 
-Dặn cô tiếp tân xong xuôi, lần này Rei mới thực sự bước ra khỏi Hội.
+Nói lại với cô tiếp tân một câu như vậy, lúc này Rei mới thực sự bước chân ra khỏi Hội.
