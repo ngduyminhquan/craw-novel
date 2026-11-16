@@ -1,6 +1,6 @@
 # Chương 49: Bài thi thăng hạng (49)
 
-Vào ngày hôm sau khi đã hẹn gửi Set cho nhóm Cơn Gió Rực Lửa, trước cả khi chuông điểm chín giờ, Rei cùng Set rảo bước trên đại lộ hướng về phía cổng chính.
+Hôm sau ngày hẹn gửi Set cho nhóm Cơn Gió Rực Lửa, khi chuông chín giờ còn chưa điểm, Rei đã cùng Set rảo bước trên đại lộ hướng về phía cổng chính.
 
 Nhìn Set đi trên đại lộ, cư dân trong thành cùng những mạo hiểm giả biết về Set lại như thường lệ định cho nó đồ ăn như thịt khô, bánh mì hay trái cây, nhưng hôm nay Set chỉ khẽ kêu lên vài tiếng chứ chẳng chịu nhận thứ gì.
 
@@ -42,7 +42,7 @@ Thấy Ranga có vẻ chưa nắm được đầu đuôi câu chuyện, Sulunin 
 
 Nghe lời giải thích đó, Ranga tỏ vẻ đã hiểu, nhưng với trách nhiệm phận sự của mình, ông vẫn quay sang bảo Rei.
 
-"Gửi tùng ma cho người quen thì không sao, nhưng người đăng ký tùng ma là Rei, nên nếu có chuyện gì xảy ra thì Rei sẽ phải chịu hoàn toàn trách nhiệm... Cậu đã nắm rõ điều đó rồi chứ?"
+"Gửi tùng ma cho người quen thì không sao, nhưng người đăng ký tùng ma là cậu, nên nếu có chuyện gì xảy ra thì cậu sẽ phải chịu hoàn toàn trách nhiệm... Cậu đã nắm rõ điều đó rồi chứ?"
 
 "Chuyện đó hôm qua tôi đã nghe Sulunin nói rồi. Tôi tin tưởng giao Set cho họ được nên mới quyết định vậy."
 
@@ -52,7 +52,7 @@ Theo lời Ranga, cậu lấy Thẻ Hội từ Nhẫn Sương Mù và tháo Vòn
 
 "Được rồi. Vậy chúc mọi người lên đường cẩn thận nhé."
 
-Nhận lại Thẻ Hội còn Vòng Cổ Tùng Ma vẫn để nguyên đó, cậu cùng nhóm Cơn Gió Rực Lửa bước ra ngoài cổng chính.
+Để lại Vòng Cổ Tùng Ma cho Ranga và chỉ nhận về Thẻ Hội, cậu cùng nhóm Cơn Gió Rực Lửa bước ra ngoài cổng chính.
 
 "Vậy bọn tôi đi làm ủy thác thảo phạt Treant đây. Về phần bé Set thì bọn tôi sẽ để mắt trông chừng cẩn thận hết mức, nên Rei cứ yên tâm tập trung làm thật tốt bài thi thăng hạng đi nhé. Kìa, điểm hẹn ở đằng kia đúng không?"
 
@@ -78,7 +78,7 @@ Thấy Rei tiến lại gần cỗ xe ngựa, Superbia liền cất tiếng.
 
 Vừa nói, Superbia vừa khẽ vỗ vào thanh kiếm dài đeo bên hông.
 
-"Ra thế. Còn Gran, xe ngựa do Hội chuẩn bị là chiếc này à?"
+"Ra thế. Thế ông Gran, xe ngựa do Hội chuẩn bị là chiếc này à?"
 
 Cậu vừa cất tiếng hỏi Gran vừa đưa mắt nhìn về phía cỗ xe ngựa.
 
@@ -96,7 +96,7 @@ Giữa lúc họ đang trò chuyện như thế, từ cổng chính thành phố
 
 "Chào buổi sáng. Từ hôm nay phiền mọi người giúp đỡ một thời gian nhé."
 
-"Mong mọi người giúp đỡ ạ."
+"Mong mọi người giúp đỡ."
 
 Tiến thẳng về phía nhóm Rei, cả hai đều cúi đầu chào hỏi.
 
@@ -112,7 +112,7 @@ Nhìn vẻ mặt của Rei, dường như đoán được cậu đang nghĩ gì,
 
 Nhìn hai người họ, Scola nở nụ cười gượng rồi nói.
 
-"Thật ra Culotte trông thế thôi chứ rất dễ bị khớp trước đám đông. Vả lại đây là lần đầu tiên cô ấy tham gia bài thi thăng hạng nữa, nên vì quá phấn khích và quyết tâm thành ra mới có phần mất kiểm soát như vậy đấy."
+"Thật ra Culotte trông thế thôi chứ rất dễ bị khớp khi vào việc lớn. Vả lại đây là lần đầu tiên cô ấy tham gia bài thi thăng hạng nữa, nên vì quá phấn khích và quyết tâm thành ra mới có phần mất kiểm soát như vậy đấy."
 
 Cả ba đưa mắt nhìn Culotte đang nói chuyện với Gran, trên gương mặt thoáng nét ngạc nhiên trước lời kể của Scola.
 
@@ -120,7 +120,7 @@ Quả thực, nếu để ý kỹ thì dưới ánh mắt của Rei, Culotte có
 
 (Đạo tặc đóng vai trò tai mắt của tổ đội mà lại bị căng thẳng như thế thì chẳng đáng mừng chút nào. Giá mà có Set ở đây thì khỏi phải lo chuyện đó rồi.)
 
-Là một Griffin, các giác quan của Set hoàn toàn xứng tầm với Hạng quái vật của nó, nghĩa đen là vượt xa loài người. Từ trước đến nay, mỗi khi Rei và Set nhận ủy thác thảo phạt quái vật thì nhiệm vụ phát hiện kẻ địch, cảm nhận tiếng động hay hơi thở của ai đó áp sát đều thuộc về Set.
+Các giác quan của một con Griffin như Set hoàn toàn xứng tầm với Hạng quái vật của nó, vượt xa loài người theo đúng nghĩa đen. Từ trước đến nay, mỗi khi Rei và Set nhận ủy thác thảo phạt quái vật thì nhiệm vụ phát hiện kẻ địch, cảm nhận tiếng động hay động tĩnh khi có kẻ áp sát đều thuộc về Set.
 
 Bởi vậy, với tư cách trưởng nhóm, Rei nhìn thấy tình trạng hiện tại của Culotte thì chẳng thể nào vui nổi.
 
@@ -168,7 +168,7 @@ Trước lời lẽ xem thường mình ra mặt, Culotte toan lao vào làm cho
 
 Chứng kiến cảnh tượng của các thành viên trong tổ đội dẫu chỉ là lâm thời, Rei bất giác thở dài một tiếng.
 
-(Dù sao thì Culotte là đạo tặc chứ đâu phải chiến sĩ, thắng trên sân nhà chiến đấu của mình thì có gì đáng để tự mãn đâu chứ.)
+(Dù sao thì Culotte là đạo tặc chứ đâu phải chiến sĩ, thắng ở mảng chiến đấu vốn là sở trường của mình thì có gì đáng để tự mãn đâu chứ.)
 
 Đang tính xem phải giải quyết thế nào thì cậu bắt gặp ánh mắt của Gran đang nhìn mình. Ánh mắt ấy như muốn bảo: cậu là trưởng nhóm thì tự đi mà xử lý.
 
@@ -206,7 +206,7 @@ Nghe câu nói đó, Rei đưa mắt nhìn quanh mọi người.
 
 Trước câu hỏi ấy, ba người Culotte, Scola và Superbia giơ tay.
 
-"Ra thế, vậy ba người các cậu thay phiên nhau đánh xe ngựa. Ba người gồm tôi, Filma và Arogan sẽ ngồi cạnh người đánh xe để cảnh giới quái vật tấn công. ...Có điều, Arogan. Xem như hình phạt cho việc lúc nãy, anh sẽ phải làm nhiệm vụ cảnh giới nhiều hơn những người khác. Nếu lơ là cảnh giới để quái vật tập kích... thì lần tới thứ bay lên trời không phải là ma kiếm nữa đâu, mà có thể là cái đầu của anh đấy?"
+"Ra thế, vậy nhờ ba người thay phiên nhau đánh xe ngựa nhé. Ba người gồm tôi, Filma và Arogan sẽ ngồi cạnh người đánh xe để cảnh giới quái vật tấn công. ...Có điều, Arogan. Xem như hình phạt cho việc lúc nãy, anh sẽ phải làm nhiệm vụ cảnh giới nhiều hơn những người khác. Nếu lơ là cảnh giới để quái vật tập kích... thì lần tới thứ bay lên trời không phải là ma kiếm nữa đâu, mà có thể là cái đầu của anh đấy?"
 
 Có lẽ cảm nhận được Rei hoàn toàn nghiêm túc, Arogan gật đầu với nét mặt hết sức căng thẳng.
 

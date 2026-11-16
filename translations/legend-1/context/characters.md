@@ -44,7 +44,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 48: Thẻ Hội Hạng E; được Gran chỉ định làm trưởng nhóm tổ đội lâm thời 6 người thi thăng lên Hạng D (nhiệm vụ diệt sào huyệt cướp); gửi Set cho tổ đội Cơn Gió Rực Lửa chăm sóc trong thời gian đi thi.
+- Trạng thái tính đến chương 51: Thẻ Hội Hạng E; gửi Set cho tổ đội Cơn Gió Rực Lửa chăm sóc; đang làm trưởng nhóm tổ đội lâm thời 6 người trong bài thi thăng lên Hạng D, đã tìm thấy sào huyệt băng cướp tại hang động dưới vách đá vào ngày thứ ba và chuẩn bị tập kích đêm
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.

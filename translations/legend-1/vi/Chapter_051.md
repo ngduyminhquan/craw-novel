@@ -20,7 +20,7 @@ Lúc này trời đã qua độ chính hạ để bước sang những ngày cu�
 
 Giữa tiết trời như thế, thấy Rei thong thả uống trà mà chẳng toát lấy một giọt mồ hôi, Filma liền thích thú dõi nhìn.
 
-"Này, trời nóng thế này mà cậu uống trà nóng vẫn không đổ lấy một giọt mồ hôi nào thế?"
+"Này, sao giữa trời nóng thế này mà cậu uống trà nóng vẫn không đổ lấy một giọt mồ hôi nào thế?"
 
 Nghe câu hỏi, Rei khẽ giật mình một chút, nhưng cậu vẫn im lặng nhìn lại Filma rồi mới cất lời.
 
@@ -42,15 +42,15 @@ Cậu hướng mắt nhìn về phía cây cung đặt bên cạnh Filma, ngư�
 
 Dù không có khả năng cảm nhận ma lực của người khác như phần lớn các ma pháp sư, Rei vẫn lờ mờ nhận thấy điều gì đó toát ra từ cây cung ấy. Đó là cảm giác tương tự như thứ cậu từng cảm nhận từ thanh ma kiếm của Arogan hay thanh đại kiếm của Orc King, tóm lại cậu đoán hẳn nó là một Đạo Cụ Ma Thuật.
 
-"A, cậu nhận ra thật à? Đây là gia bảo truyền đời của nhà tôi đấy. Một bảo vật có thể cường hóa thuộc tính phong cho mũi tên đấy."
+"A, cậu nhận ra thật à? Đây là gia bảo truyền đời của nhà tôi đấy. Một bảo vật có thể truyền thuộc tính Phong cho mũi tên."
 
-"Chà, thuộc tính phong sao. Điểm này đúng là không hổ danh tộc Elf nhỉ?"
+"Chà, thuộc tính Phong sao. Điểm này đúng là không hổ danh tộc Elf nhỉ?"
 
 "A ha ha. Tôi xin nhận lời khen đó nhé. Nhưng lưỡi hái lớn của Rei cũng là một món bảo vật cừ khôi lắm đúng không?"
 
 Ánh mắt Filma hướng về phía Lưỡi Hái Tử Thần đặt bên cạnh Rei.
 
-Cả trong trận chiến hôm qua lẫn màn đấu tập dưới danh nghĩa huấn luyện trước giờ ngủ, cô đều chứng kiến người thanh niên mảnh khảnh, nhỏ nhắn trước mặt điều khiển khối kim loại dài hơn hai mét ấy một cách vô cùng dễ dàng. Thậm chí có lúc chỉ bằng một tay.
+Cả trong trận đấu hôm qua lẫn màn đấu tập mang danh luyện kiếm trước giờ ngủ, cô đều chứng kiến người thanh niên mảnh khảnh, nhỏ nhắn trước mặt điều khiển khối kim loại dài hơn hai mét ấy dễ như trở bàn tay. Thậm chí có lúc chỉ bằng một tay.
 
 "Theo như tôi quan sát trong trận đấu tập lúc nãy... thì nó có khả năng khiến người cầm không cảm thấy trọng lượng sao?"
 
@@ -114,9 +114,9 @@ Hai người cứ thế lặng ngắm ráng bình minh một lúc lâu, rồi d�
 
 "Ôi, tiếc thật. Thế là lỡ mất dịp kể lý do tôi làm mạo hiểm giả rồi."
 
-Vừa quẳng thêm cành củi khô vào đống lửa, Filma vừa nói rồi cất tiếng chào Culotte vừa bước ra khỏi lều.
+Quẳng thêm cành củi khô vào đống lửa, Filma nói vậy rồi cất tiếng chào Culotte đang bước ra khỏi lều.
 
-Chứng kiến cảnh tượng đó, ngày thứ hai của bài thi thăng hạng chính thức bắt đầu.
+Dõi nhìn khung cảnh đó, cậu đón chào ngày thứ hai của bài thi thăng hạng.
 
 "Đó là sào huyệt của băng cướp nhỉ."
 
@@ -222,7 +222,7 @@ Trước câu hỏi của Rei, Culotte nhớ lại khung cảnh mình vừa nhì
 
 Nghe Culotte nói, Rei chuyển ánh mắt sang Filma và Scola.
 
-"Hai người các cậu có hạ được lính gác từ cự ly xa không? Nếu được thì cố gắng hạn chế gây ra tiếng động."
+"Hai người có hạ được lính gác từ cự ly xa không? Nếu được thì cố gắng hạn chế gây ra tiếng động."
 
 "Ừm, xem nào. Bằng cung của tôi thì chắc chắn hạ được một tên... Còn Scola thì sao?"
 
@@ -234,7 +234,7 @@ Nghe Culotte nói, Rei chuyển ánh mắt sang Filma và Scola.
 
 Nghe Scola nói, Rei gật đầu.
 
-"Vậy sau khi hạ lính gác. Trước tiên Culotte sẽ đi trinh sát trước bên trong xem quân số khoảng bao nhiêu tên. Tiện thể kiểm tra xem có ai bị giam giữ hay không luôn."
+"Tiếp theo là sau khi hạ lính gác. Trước tiên Culotte sẽ lẻn vào trong trinh sát trước xem quân số khoảng bao nhiêu tên. Tiện thể kiểm tra xem có ai bị giam giữ hay không luôn."
 
 "Hiểu rồi."
 

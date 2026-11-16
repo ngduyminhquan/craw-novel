@@ -20,7 +20,7 @@ Bị mùi thơm lôi cuốn, Filma bất giác đưa một chiếc bánh quy và
 
 "...Không, tôi nghĩ bình thường chẳng ai dùng Hộp Vật Phẩm theo kiểu này đâu."
 
-Trước lời của Filma, Superbia cạn lời thốt lên.
+Trước lời của Filma, Superbia ngẩn người thốt lên.
 
 Thấy phản ứng của Superbia, Rei hiểu rằng cách dùng Hộp Vật Phẩm của mình quả thực khác người, cậu vừa cười trừ vừa đưa chiếc đĩa đựng bánh quy mới nướng còn lại ra trước mặt gã.
 
@@ -74,7 +74,7 @@ Dáng vẻ của Filma khác khá xa so với hình tượng tộc Elf trong tâ
 
 "Về cơ bản thì ma pháp hệ Hỏa là chủ yếu. Có điều uy lực mạnh nên phạm vi ảnh hưởng xung quanh cũng lớn. Khống chế uy lực thì cùng lắm cũng chỉ ở mức nướng tái hay cháy đen thui, nên nếu là chiến dịch tiêu diệt như lần này thì không sao, chứ cần bắt sống thì chịu chết."
 
-"Hửm. ...Đúng là dưới con mắt của tôi thì ma lực Rei sở hữu cao thật đấy. ...Thậm chí còn vượt xa người Elf bọn tôi, hay cả các vị High Elf thuộc chủng tộc cấp cao..."
+"Hửm. ...Đúng là dưới con mắt của tôi thì ma lực Rei sở hữu cao thật đấy. ...Thậm chí còn vượt xa người Elf bọn tôi, hay cả các vị High Elf vốn là chủng cấp cao..."
 
 Chỉ có câu cuối cùng là cô lẩm bẩm trong miệng để những người xung quanh không nghe thấy.
 
@@ -110,7 +110,7 @@ Dẫu ở trong tình cảnh ấy nhưng Superbia dường như chẳng muốn g
 
 Một lúc sau khi dặn dò hai người trên ghế đánh xe, họ tìm thấy một vị trí khuất sau vách đá khó bị xung quanh phát hiện, và quyết định dừng chân qua đêm tại đó.
 
-Cho xe ngựa dừng lại bên dưới bóng đá, tranh thủ lúc trời còn sáng, chiếc lều Rei mang theo được dựng làm chỗ ngủ cho nam, còn chiếc lều do Culotte mang theo dành cho nữ.
+Họ dừng xe ngựa ở chỗ khuất sau vách đá ấy rồi tranh thủ lúc trời còn sáng dựng chiếc lều của Rei làm chỗ ngủ cho nam, còn chiếc lều của Culotte thì dành cho nữ.
 
 Cùng lúc đó, nữ Elf Filma vào khu rừng gần đó nhặt củi, còn Arogan đi lấy nước từ bờ sông về, hoàn tất khâu chuẩn bị hạ trại.
 
@@ -136,7 +136,7 @@ Nghe câu hỏi đó, Culotte liền liếc nhìn gã như muốn hỏi có ph�
 
 Thấy Superbia gật đầu đồng thuận và cũng chẳng còn ai có ý kiến gì khác, khoảng thời gian sau đó chuyển thành giờ tự do.
 
-Culotte và Filma trò chuyện cùng nhau như hai người phụ nữ, Arogan thì ngồi lau chùi thanh ma kiếm đầy tự hào của gã. Scola có lẽ đang luyện tập ma pháp nên cứ liên tục tạo ra rồi lại giải trừ ngọn roi nước từng dùng trong trận đấu tập hôm qua. Gran chẳng nói nửa lời, chỉ lặng lẽ quan sát tình hình của mọi người, còn Rei thì tráng miệng bằng trái Kumu đã mua trong thành — thứ quả có kết cấu giòn giống lê cùng vị chua của quýt.
+Culotte và Filma ngồi trò chuyện tâm tình giữa con gái với nhau, Arogan thì lau chùi thanh ma kiếm đầy tự hào của gã. Scola có lẽ đang luyện tập ma pháp nên cứ liên tục tạo ra rồi lại giải trừ ngọn roi nước từng dùng trong trận đấu tập hôm qua. Gran chẳng nói nửa lời, chỉ lặng lẽ quan sát tình hình của mọi người, còn Rei thì tráng miệng bằng trái Kumu đã mua trong thành — thứ quả có kết cấu giòn giống lê cùng vị chua của quýt.
 
 Giữa lúc ấy, Superbia tiến lại gần chỗ Rei rồi cất tiếng.
 
@@ -164,7 +164,7 @@ Nghe Rei đề xuất như vậy, Superbia gật đầu.
 
 Sau khi báo một tiếng với những người có mặt, cả hai di chuyển ra một bãi đất hơi cách xa một chút; Rei lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù, còn Superbia tuốt kiếm khỏi bao rồi vào thế thủ.
 
-Culotte, Filma và Gran tỏ vẻ thích thú dõi theo hai người họ, còn Arogan ngoài mặt vờ như chẳng bận tâm nhưng chốc chốc lại lén liếc mắt nhìn sang. Kẻ duy nhất hoàn toàn không mảy may để ý là Scola đang mãi tập trung vào việc luyện tập ma pháp.
+Culotte, Filma và Gran tỏ vẻ thích thú dõi theo hai người họ, còn Arogan ngoài mặt vờ như chẳng bận tâm nhưng chốc chốc lại lén liếc mắt nhìn sang. Người duy nhất hoàn toàn không mảy may để ý là Scola đang mải tập trung vào việc luyện tập ma pháp.
 
 "Tới đi."
 
@@ -176,7 +176,7 @@ Diễn biến tới lúc này hoàn toàn trùng khớp với hôm qua. Hôm qua
 
 "Lựa chọn phải là né tránh chứ không phải đỡ đòn!"
 
-Cảm nhận được Lưỡi Hái Tử Thần đang quét tới từ bên sườn, gã lập tức hạ thấp trọng tâm như bò sát mặt đất để luồn qua đòn đánh chết chóc. Rồi từ ngay trước mắt, gã vung ngang một nhát kiếm nhắm thẳng vào cẳng chân...
+Cảm nhận được Lưỡi Hái Tử Thần đang quét tới từ bên sườn, gã lập tức hạ thấp trọng tâm như bò sát mặt đất để luồn qua đòn đánh chết chóc. Rồi gã vung ngang một nhát kiếm nhắm thẳng vào đôi chân ngay trước mắt...
 
 "Còn non lắm."
 
