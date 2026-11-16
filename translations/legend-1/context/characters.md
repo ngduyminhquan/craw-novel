@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 41: Hạ gục Orc King và Ngôi Sao Màn Đêm; được cả Bobbs và Bá tước biên cảnh Rowlocks nhắm thăng vượt cấp lên Hạng E và thi thăng Hạng D; được Elk truyền dạy ngón nghề mổ xẻ.
+- Trạng thái tính đến chương 42: Chính thức được Hội thông báo thăng đặc cách lên Hạng E và sắp tới sẽ làm bài thi thăng hạng lên Hạng D sau chiến công diệt Orc King; cùng đoàn thảo phạt diễu hành khải hoàn về Gilm.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
