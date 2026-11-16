@@ -39,14 +39,14 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 43: Thẻ Hội chính thức đổi sang Hạng E sau khi thanh toán thù lao thảo phạt Orc (nhận 9 đồng bạch kim); cùng Set bay ra vùng hoang dã chuẩn bị hấp thụ Ma Thạch.
+- Trạng thái tính đến chương 44: Thẻ Hội Hạng E; cùng Set hoàn tất hấp thụ Ma Thạch từ bộ lạc Orc (Lưỡi Hái Tử Thần học thêm Phi Trảm và Khiên Ma Thuật, Set nâng cấp Hơi Thở Lửa Lv.2 và học Mũi Tên Gió, Uy Áp Vương Giả); quay lại Gilm chuẩn bị thi thăng Hạng D.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
 - Tính cách: Trái ngược vẻ ngoài hung dữ của loài Griffin, Set cực kỳ thân thiện, thích làm nũng, ham ăn, thích đồ lấp lánh, thông minh và hiểu tiếng người.
 - Cách nói chuyện: Kêu `"Gùuu"`, `"Gừưư"`, `"Grrr!"` và biểu đạt qua cử chỉ dụi đầu, nghiêng đầu.
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
-- Kỹ năng: Thủy Cầu Lv.1 (chương 6), Hơi Thở Lửa Lv.1 (chương 18).
+- Kỹ năng: Thủy Cầu Lv.1 (chương 6), Hơi Thở Lửa Lv.2 (nâng cấp chương 44), Mũi Tên Gió Lv.1 (chương 44), Uy Áp Vương Giả Lv.1 (chương 44).
 - Trạng thái: bay được, cõng Rei bay và phi đường dài qua Rừng Ma; đã được cấp Vòng Cổ Tùng Ma tại thành phố Gilm.
 
 ### Ranga
