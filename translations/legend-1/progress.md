@@ -42,7 +42,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 35 |  | Chapter_0035 - オーク集落襲撃 - 第35話.txt | オーク集落襲撃 - 第35話 | reviewed |  |
 | 36 |  | Chapter_0036 - オーク集落襲撃 - 第36話.txt | オーク集落襲撃 - 第36話 | reviewed |  |
 | 37 |  | Chapter_0037 - オーク集落襲撃 - 第37話.txt | オーク集落襲撃 - 第37話 | done |  |
-| 38 |  | Chapter_0038 - オーク集落襲撃 - 第38話.txt | オーク集落襲撃 - 第38話 | todo |  |
+| 38 |  | Chapter_0038 - オーク集落襲撃 - 第38話.txt | オーク集落襲撃 - 第38話 | done |  |
 | 39 |  | Chapter_0039 - オーク集落襲撃 - 第39話.txt | オーク集落襲撃 - 第39話 | todo |  |
 | 40 |  | Chapter_0040 - オーク集落襲撃 - 第40話.txt | オーク集落襲撃 - 第40話 | todo |  |
 | 41 |  | Chapter_0041 - オーク集落襲撃 - 第41話.txt | オーク集落襲撃 - 第41話 | todo |  |

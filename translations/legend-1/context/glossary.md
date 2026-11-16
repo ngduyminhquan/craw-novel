@@ -140,3 +140,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | トレント | Treant | Treant | quái vật | 36 | Quái vật dạng cây cổ thụ |
 | アルラウネクイーン | Alraune Queen | Alraune Queen | quái vật | 36 | Quái vật dạng thực vật nhân dạng hoa cấp cao |
 | 誓約の魔法 | ma pháp thệ ước | Ma Pháp Thệ Ước | kỹ năng | 36 | Ma pháp ràng buộc lời thề/bí mật (vỏ bọc của ma thuật Hạt Giống Trừng Phạt của Zepairu) |
+| 戒めの種 |  | Hạt Giống Trừng Phạt | kỹ năng | 38 | Ma thuật hệ Hỏa của Zepairu cấy hạt lửa vào đầu mục tiêu, phản bội sẽ bị thiêu rụi từ bên trong |
