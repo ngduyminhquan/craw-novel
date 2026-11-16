@@ -16,7 +16,7 @@ Xung quanh Rei và bốn tên đó, người dân trong thành vẫn giữ kho�
 
 Lúc này mà bốn tên nhóm Vargas không say, lại chịu để ý nghe người xung quanh bàn tán, chắc chắn chúng đã nghe thấy chuyện Rei đi cùng Set dọc đại lộ rồi.
 
-Còn về phần Set, vừa lúc Rei bước ra khỏi Hội Mạo Hiểm Giả là nó đã cảm nhận được khí tức với ma lực của cậu rồi, nhưng mới ngẩng đầu lên thấy Rei nháy mắt ra hiệu nên nó lại nằm ườn ra nhắm mắt lại.
+Còn về phần Set, vừa lúc Rei bước ra khỏi Hội Mạo Hiểm Giả là nó đã cảm nhận được sự hiện diện và ma lực của cậu rồi, nhưng mới ngẩng đầu lên thấy Rei nháy mắt ra hiệu nên nó lại nằm ườn ra nhắm mắt lại.
 
 Bình thường Set hay làm nũng với Rei là thế, nhưng nó gần như cảm nhận được trình độ của đám mạo hiểm giả trước mặt bằng bản năng và thấy chẳng có gì đáng lo cả.
 
@@ -64,7 +64,7 @@ Bốn tên im bặt trước câu nói của Rei, cũng chẳng có gì lạ. Su
 
 Nghe Rei nói vậy, ánh mắt đám Vargas càng thêm hằn học.
 
-Thật ra lúc này Rei đang hiểu nhầm một chuyện. Cậu cứ tưởng dù có lột sạch toàn bộ tài sản bốn tên đang mang theo trên người thì ở nhà trọ hay đâu đó chúng vẫn còn chút tiền để dành. Nhưng đám Vargas sợ để tiền lại nhà trọ sẽ bị trộm mất nên đã mang theo hết toàn bộ gia sản theo đúng nghĩa đen. Mà nghĩ thế cũng chẳng có gì lạ. Thành Gilm tuy an ninh khá ổn so với một thành phố biên cảnh, nhưng tất nhiên chẳng thể nào không có trộm cắp được.
+Thật ra lúc này Rei đang hiểu nhầm một chuyện. Cậu cứ tưởng dù có lột sạch toàn bộ tài sản bốn tên đang mang theo trên người thì ở nhà trọ hay đâu đó chúng vẫn còn chút tiền để dành. Nhưng đám Vargas sợ để tiền lại nhà trọ sẽ bị trộm mất nên đã mang theo hết toàn bộ tài sản theo đúng nghĩa đen. Mà nghĩ thế cũng chẳng có gì lạ. Thành Gilm tuy an ninh khá ổn so với một thành phố biên cảnh, nhưng tất nhiên chẳng thể nào không có trộm cắp được.
 
 "...Được thôi."
 
@@ -80,7 +80,7 @@ Không biết là do câu đó của Vargas đánh trúng lòng tham, hay cả b
 
 Nghe Rei nói, cả bốn tên móc túi tiền trong người ra ném về phía chỗ đặt Nhẫn Sương Mù.
 
-Thấy vậy, Rei nhếch mép cười rồi lên tiếng. Đúng lúc đó, cửa Hội mở ra và có một người đàn ông bước ra, nhưng vì người này giấu kín khí tức nên chỉ có Rei với Set đứng cách đó một đoạn mới nhận ra.
+Thấy vậy, Rei nhếch mép cười rồi lên tiếng. Đúng lúc đó, cửa Hội mở ra và có một người đàn ông bước ra, nhưng vì người này giấu kín sự hiện diện nên chỉ có Rei với Set đứng cách đó một đoạn mới nhận ra.
 
 "Cơ mà, cứ để đống đồ ở đây mà lúc đánh nhau lỡ bị ai nẫng tay trên thì chẳng vui chút nào. ...Set!"
 
@@ -100,7 +100,7 @@ Vargas và mấy tên còn lại cũng chỉ biết trố mắt, đơ người n
 
 Nhìn bốn tên đó, Rei nhếch mép cười khẩy rồi nói.
 
-"Yên tâm đi, cỡ tép riu Nước Dãi Goblin như tụi mày thì chưa cần Set phải ra tay đâu. Một mình tao tiếp hết. Set, giờ tao sẽ đấu từng đứa một trong bốn tên này. Ai thắng thì mày trao đống phần thưởng dưới chân cho người đó, kể cả trong cái viễn cảnh không tưởng là tụi nó thắng đi nữa."
+"Yên tâm đi, cỡ tép riu Nước Dãi Goblin như tụi mày thì chưa cần Set phải ra tay đâu. Một mình tao tiếp hết. Set, giờ tao sẽ đấu từng đứa một trong bốn tên này. Ai thắng thì mày đưa đống phần thưởng dưới chân cho người đó nhé, dù có chuyện khó tin tới mức tụi nó thắng đi nữa."
 
 "Gùuu."
 
@@ -170,7 +170,7 @@ Trừng mắt nhìn Rei đầy căm thù, gã vung rìu chiến bổ xuống, h�
 
 Tốc độ và kỹ thuật ra đòn của gã khá ổn, người biết nhìn vào chắc chắn sẽ đánh giá sức chiến đấu này vượt trên mức Hạng D. Ít nhất cũng ăn đứt tên Zolit chẳng biết đường kiếm gì, chỉ biết vung bừa thanh trường kiếm.
 
-Thật ra chẳng qua vì từ lúc Rei lộ bộ mặt thật tới giờ cũng đã qua một lúc, nên Vargas mới hơi bình tĩnh lại được chút đỉnh.
+Thật ra chẳng qua vì từ lúc Rei lộ thực lực thật sự tới giờ cũng đã qua một lúc, nên Vargas mới hơi bình tĩnh lại được chút đỉnh.
 
 Nhưng mấy đòn tấn công liều mạng của Vargas trước thể chất và giác quan nhạy bén của Rei thì chẳng khó nhìn ra chút nào. Cú bổ từ trên xuống bị cậu xoay nửa người né gọn, đòn quét ngang bị cán Lưỡi Hái Tử Thần hất ra, còn cú hất từ sát mặt đất lên cũng bị cậu trượt cán hái gạt chệch đi.
 
@@ -180,7 +180,7 @@ Màn ăn miếng trả miếng như thế kéo dài vài phút. Vung rìu hết 
 
 Giữ được khoảng cách với Rei, Vargas vừa thở hổn hển vừa kiểm tra cánh tay tê rần chẳng còn chút cảm giác nào.
 
-Một trong các năng lực của Lưỡi Hái Tử Thần là giảm trọng lượng. Với người dùng là Rei thì nó nhẹ bẫng như đôi đũa dùng một lần, nhưng người đỡ đòn lại chẳng khác nào bị một cục sắt nặng hơn trăm ký đập thẳng vào. Tính ra, tuy mới chạm chiêu vài lần nhưng Vargas trụ được đến mức này cũng coi là khá lắm rồi.
+Một trong các năng lực của Lưỡi Hái Tử Thần là giảm trọng lượng. Với người dùng là Rei thì nó nhẹ bẫng như đôi đũa dùng một lần, nhưng người đỡ đòn lại chẳng khác gì bị một cục sắt nặng hơn trăm ký đập thẳng vào. Tính ra, tuy mới đọ sức vài lần nhưng Vargas trụ được đến mức này cũng coi là khá lắm rồi.
 
 "Nào, đã hết chiêu rồi à? Thế thì tới lượt tao ra tay nhé."
 

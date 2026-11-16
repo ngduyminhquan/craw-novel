@@ -24,7 +24,7 @@ Thấy cảnh đó, vài kẻ trong đám đông tặc lưỡi tiếc rẻ, như
 
 "Nào, xong việc chưa đấy?"
 
-Người vừa lên tiếng là gã đàn ông đã giấu kín khí tức bước ra khỏi Hội trước lúc trận đấu bắt đầu. Ông ta canh thấy vừa tầm nên mới bắt chuyện, nhưng Rei chỉ khẽ lắc đầu.
+Người vừa lên tiếng là người đàn ông đã giấu kín sự hiện diện bước ra khỏi Hội trước lúc trận đấu bắt đầu. Ông canh thấy vừa tầm nên mới bắt chuyện, nhưng Rei chỉ khẽ lắc đầu.
 
 "Chưa, đợi tôi chút đã."
 
@@ -68,7 +68,7 @@ Nghe vậy, Rei đưa Thẻ Hội ra. Người đàn ông cầm lấy rồi đi 
 
 Trong lúc đám đông vẫn đứng từ xa dòm ngó, có một người đàn ông bước lại gần chỗ Rei.
 
-Rei nhận ra người này. Đó là gã lúc đầu ngồi uống rượu chung với nhóm Vargas, nhưng sau thấy bọn kia quay sang kiếm chuyện với ma mới nên bỏ sang bàn khác ngồi uống một mình.
+Rei nhận ra người này. Đó là người đàn ông lúc đầu ngồi uống rượu chung với nhóm Vargas, nhưng sau thấy bọn kia quay sang kiếm chuyện với ma mới nên bỏ sang bàn khác ngồi uống một mình.
 
 "Nói bất ngờ cũng phải, mà bảo đoán trước được cũng đúng... Thôi thì mọi chuyện về đúng chỗ của nó cả rồi."
 
@@ -82,13 +82,13 @@ Rei nhận ra người này. Đó là gã lúc đầu ngồi uống rượu chun
 
 Quái vật. Nghe thấy từ đó, má Rei khẽ giật một cái.
 
-Không phải cậu khó chịu vì bị gọi là quái vật. Ngay từ đầu, chuyện cơ thể mình chẳng khác gì quái vật thì chính Rei là người biết rõ nhất. Nhưng đó là vì cậu nắm rõ sức mạnh cơ thể mình nên mới nói thế. Còn về Set, người ngồi tịt trong Hội như ông ta chắc chắn không thể biết được.
+Không phải cậu khó chịu vì bị gọi là quái vật. Ngay từ đầu, chuyện cơ thể mình chẳng khác gì quái vật thì chính Rei là người biết rõ nhất. Nhưng đó là vì cậu nắm rõ sức mạnh cơ thể mình nên mới nói thế. Còn về Set, người ngồi tịt trong Hội như ông chắc chắn không thể biết được.
 
 "Quái vật cơ à. Sao ông lại đánh giá tôi như thế? Chắc không phải nhìn vẻ ngoài mà đoán đấy chứ?"
 
-Rei nhìn chằm chằm vào Runo, kiểu hễ ông ta có động tĩnh gì khả nghi là cậu không bỏ qua đâu.
+Rei nhìn chằm chằm vào Runo, kiểu hễ ông có động tĩnh gì khả nghi là cậu không bỏ qua đâu.
 
-Nhưng Runo vội lắc đầu nguầy nguậy, ra bộ mình hoàn toàn không có ý đối địch.
+Nhưng Runo vội lắc đầu nguầy nguậy, tỏ rõ mình hoàn toàn không có ý thù địch.
 
 "Ấy ấy, đừng nhìn tôi bằng ánh mắt đó chứ. Tôi nói, tôi nói thật lòng mà."
 

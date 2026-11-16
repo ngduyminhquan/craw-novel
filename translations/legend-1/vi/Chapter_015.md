@@ -4,9 +4,9 @@
 
 Rei lẩm bẩm rồi cùng Set dừng lại trên đường. Người qua lại đều né hai đứa mà đi, nhưng cậu chẳng buồn để ý, chỉ ngước nhìn tấm biển hiệu.
 
-Trên tấm biển vẽ mặt trời đang lặn xuống đường chân trời cùng những bông lúa mì đỏ rực dưới ánh hoàng hôn. Có thể nói nó thể hiện y hệt cái tên quán trọ: Hoàng Hôn Mạch Đình.
+Trên tấm biển vẽ mặt trời đang lặn xuống đường chân trời cùng những bông lúa mì đỏ rực dưới ánh hoàng hôn. Có thể nói nó thể hiện y hệt cái tên nhà trọ: Hoàng Hôn Mạch Đình.
 
-Bản thân kích cỡ quán trọ thì chẳng khác mấy so với những quán khác mà Rei thấy dọc đường từ Hội tới đây. Kiểu kiến trúc cũng phổ thông thôi: tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt có lẽ là độ rộng của chuồng thú dựng phía sau quán. Riêng chỗ đó thôi đã đủ rộng để nhét vừa cả một quán trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là chỗ hay có các đoàn buôn hoặc nhóm lính đánh thuê khá lớn tới ở, hay cả đoàn tùy tùng của quý tộc ghé qua thành phố này nữa. Nói thêm thì với trường hợp cuối, bản thân vị quý tộc đó thường nghỉ ở những chỗ có giá vài đồng bạch kim một đêm cơ.
+Bản thân kích cỡ nhà trọ thì chẳng khác mấy so với những nhà trọ khác mà Rei thấy dọc đường từ Hội tới đây. Kiểu kiến trúc cũng phổ thông thôi: tầng một là quán rượu kiêm nhà ăn, còn tầng hai và tầng ba là phòng trọ. Điểm khác biệt có lẽ là độ rộng của chuồng thú dựng phía sau nhà trọ. Riêng chỗ đó thôi đã đủ rộng để nhét vừa cả một nhà trọ khác. Vốn dĩ Hoàng Hôn Mạch Đình là chỗ hay có các đoàn buôn hoặc nhóm lính đánh thuê khá lớn tới ở, hay cả đoàn tùy tùng của quý tộc ghé qua thành phố này nữa. Nói thêm thì với trường hợp cuối, bản thân vị quý tộc đó thường nghỉ ở những chỗ có giá vài đồng bạch kim một đêm cơ.
 
 Cánh cửa kêu kẽo kẹt khi cậu đẩy mở ra. Bên trong hầu như chẳng có ai, chắc tại giờ mới chỉ đầu giờ chiều. Chỉ có vài người đang ngồi ăn ở khu quán rượu tầng một.
 
@@ -14,11 +14,11 @@ Cánh cửa kêu kẽo kẹt khi cậu đẩy mở ra. Bên trong hầu như ch�
 
 Thấy Rei bước vào, một người phụ nữ trung niên dáng người đẫy đà liền cất tiếng hỏi.
 
-"Tôi muốn thuê phòng. Với lại ngoài cửa có quái vật tôi đã thuần phục, nên cho tôi gửi chuồng thú nữa."
+"Tôi muốn thuê phòng. Với lại ngoài cửa có quái vật tôi đã thuần hóa, nên cho tôi gửi chuồng thú nữa."
 
 Nghe Rei nói vậy, người phụ nữ gật đầu, nở nụ cười tươi tắn dễ mến.
 
-"Vâng, cảm ơn quý khách. Ở đây trả tiền phòng trước nhé, bao cả bữa sáng tối là ba đồng bạc một đêm. Nếu ở từ mười ngày trở lên thì tính hai đồng vàng bảy đồng bạc. Còn con quái vật cậu thuần phục là loài gì thế?"
+"Vâng, cảm ơn quý khách. Ở đây trả tiền phòng trước nhé, bao cả bữa sáng tối là ba đồng bạc một đêm. Nếu ở từ mười ngày trở lên thì tính hai đồng vàng bảy đồng bạc. Còn con quái vật cậu thuần hóa là loài gì thế?"
 
 "Là Griffin."
 
@@ -34,7 +34,7 @@ Chắc cũng nhờ ngày nào bà cũng tiếp xúc với dân mạo hiểm gi�
 
 Cậu gật đầu chẳng buồn nghĩ ngợi, lấy túi tiền trong áo ra rút năm đồng vàng đưa cho bà.
 
-Đằng nào cậu cũng nghe nói cả thành phố này chỉ có mỗi quán này cho dắt Set vào trọ, nên có muốn đắn đo cũng chẳng được.
+Đằng nào cậu cũng nghe nói cả thành phố này chỉ có mỗi nhà trọ này cho dắt Set vào ở, nên có muốn đắn đo cũng chẳng được.
 
 "Cảm ơn cậu, gửi lại cậu năm đồng bạc tiền thừa. Để tôi gọi người dẫn đường ra chuồng thú ngay, phiền cậu dắt Griffin theo cùng nhé?"
 
@@ -50,7 +50,7 @@ Nghe bà nói vậy, cậu rút luôn một đồng bạc trong chỗ tiền th�
 
 "Vậy sao, thời gian tới phiền cô giúp đỡ rồi. Tôi là Rei. Con Griffin ngoài kia tên là Set."
 
-"Vâng, mong cậu chiếu cố. ...A, nó tới rồi kìa. Thằng bé này sẽ dẫn cậu ra chuồng thú."
+"Vâng, có gì cậu cứ bảo tôi nhé. ...A, nó tới rồi kìa. Thằng bé này sẽ dẫn cậu ra chuồng thú."
 
 Người được Lana gọi tới là một thanh niên tầm hai mươi tuổi. Chắc là con trai bà, mặt mũi trông giống hệt nhau.
 
@@ -94,7 +94,7 @@ Drum lẩm bẩm đầy cảm động, cơ mà dĩ nhiên độ mượt này ch�
 
 "À, vâng! Xin lỗi cậu. Tôi dẫn đường ngay đây!"
 
-Theo chân Drum rẽ vào con hẻm nhỏ ngay cạnh cửa quán trọ rồi đi thẳng một đoạn, chẳng mấy chốc khu chuồng thú đã hiện ra.
+Theo chân Drum rẽ vào con hẻm nhỏ ngay cạnh cửa nhà trọ rồi đi thẳng một đoạn, chẳng mấy chốc khu chuồng thú đã hiện ra.
 
 Đúng là chỗ chuyên đón các đoàn buôn hay nhóm lính đánh thuê có khác, cái chuồng rộng gần bằng cả tầng một của Hoàng Hôn Mạch Đình luôn.
 
@@ -138,7 +138,7 @@ Rei gãi gãi đầu Set khi nó kêu lên nghe buồn buồn, rồi mới rời
 
 "Quý khách ơi, đồ ăn xong rồi đây."
 
-Bước vào trong quán trọ, nghe Lana gọi, cậu đi tới ngồi xuống một bàn ở khu quán rượu.
+Bước vào trong nhà trọ, nghe Lana gọi, cậu đi tới ngồi xuống một bàn ở khu quán rượu.
 
 "Chưa tới giờ chuẩn bị bữa tối nên chỉ có mấy món làm vội thế này thôi..."
 
@@ -192,11 +192,11 @@ Trong đầu Rei lúc này, kiến thức của Zepairu, nhất là những đi�
 
 Lẩm bẩm tới đó, cậu chợt nhìn thấy chiếc Nhẫn Sương Mù đeo trên tay phải. Thế là cậu nhớ ra đống tiền bạc và đồ đạc mới lột của nhóm Vargas mấy tiếng trước.
 
-Ngồi bật dậy trên giường, cậu hiện danh sách trong đầu, lấy bốn túi tiền ra đổ hết lên giường. Đếm thử thì được tới tám đồng bạch kim, bốn đồng vàng, mười lăm đồng bạc với chín đồng đồng, nhiều phết đấy.
+Ngồi bật dậy trên giường, cậu mở danh sách trong đầu, lấy bốn túi tiền ra đổ hết lên giường. Đếm thử thì được tới tám đồng bạch kim, bốn đồng vàng, mười lăm đồng bạc với chín đồng đồng, nhiều phết đấy.
 
 "Chắc bọn họ cũng cất bớt ở phòng trọ rồi, thế mà vẫn mang theo ngần này tiền cơ đấy."
 
-Rei lẩm bẩm vậy mà đâu có biết ngần này chính là toàn bộ gia tài của nhóm Vargas.
+Rei lẩm bẩm vậy mà đâu có biết ngần này chính là toàn bộ tài sản của nhóm Vargas.
 
 "Nghe bảo đi hầm ngục kiếm được bộn tiền... có điều bên trong chật quá."
 
