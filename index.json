@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T09:17:01Z",
+  "generatedAt": "2026-11-16T09:22:39Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2417,6 +2417,12 @@
           "title": "Chương 44: Bài thi thăng hạng (44)",
           "path": "translations/legend-1/vi/Chapter_044.md",
           "sha": "db441a36b085d0866d7a086e192e162c7d6a1099"
+        },
+        {
+          "number": 45,
+          "title": "Chương 45: Bài thi thăng hạng (45)",
+          "path": "translations/legend-1/vi/Chapter_045.md",
+          "sha": "f1ea91dc8558c2ec455623b6b45e623adeaba939"
         }
       ]
     },

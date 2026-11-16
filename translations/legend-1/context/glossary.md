@@ -153,3 +153,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 飛斬 |  | Phi Trảm | kỹ năng | 44 | Kỹ năng trảm kích tầm xa của Lưỡi Hái Tử Thần, học được từ Ma Thạch Orc Archer |
 | マジックシールド |  | Khiên Ma Thuật | kỹ năng | 44 | Kỹ năng tạo tấm khiên ánh sáng tự động đỡ 1 đòn của Lưỡi Hái Tử Thần, học được từ Ma Thạch Orc Mage |
 | 王の威圧 |  | Uy Áp Vương Giả | kỹ năng | 44 | Kỹ năng giảm khoảng 10% tốc độ của kẻ địch yếu hơn bản thân, Set học được từ Ma Thạch Orc King |
+| 魔剣 |  | ma kiếm | vật phẩm | 45 | Kiếm ma thuật, vũ khí chứa ma lực |
+| グレートソード |  | đại kiếm | vật phẩm | 45 | Vũ khí kiếm hai tay cỡ lớn |

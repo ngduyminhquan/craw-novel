@@ -31,6 +31,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Milein | ミレイヌ; Mireinu | Milein | Trưởng nhóm kiêm nữ kiếm sĩ của tổ đội Cơn Gió Rực Lửa (Hạng C) | Chương 36 |
 | Sulunin | スルニン | Sulunin | Ma pháp sư của tổ đội Cơn Gió Rực Lửa (Hạng C), túi khôn của nhóm | Chương 36 |
 | Ekril | エクリル; Ecryll | Ekril | Cung thủ của tổ đội Cơn Gió Rực Lửa (Hạng D) | Chương 36 |
+| Arogan | アロガン | Arogan | Mạo hiểm giả Hạng E tại Gilm, sở hữu ma kiếm | Chương 45 |
 
 ## Chi tiết
 
@@ -140,3 +141,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ekril
 - Thiếu nữ khoảng 16-17 tuổi, tóc ngắn, mặc giáp da nhẹ dùng cung tên, tính cách hoạt bát, dễ hoảng sợ khi gặp đối thủ quá mạnh
+
+### Arogan
+- Nam thanh niên trạc 18-22 tuổi, mạo hiểm giả Hạng E tại Gilm.
+- Sở hữu một thanh ma kiếm lưỡi đen hoa văn đỏ, tự tin thái quá và háo thắng.
