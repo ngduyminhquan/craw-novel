@@ -39,7 +39,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế tri thức của Zepairu.
-- Trạng thái tính đến chương 39: Tiêu diệt nhóm Ngôi Sao Màn Đêm và tự tay hạ gục Orc King; phô bày xác Orc King trước toàn đội thảo phạt, xóa bỏ định kiến coi thường tân binh Hạng G của các mạo hiểm giả.
+- Trạng thái tính đến chương 40: Hạ gục Orc King và Ngôi Sao Màn Đêm; được Bobbs nhắm đề xuất thăng vượt cấp lên Hạng E và thi thăng Hạng D; được Elk trực tiếp truyền dạy kỹ năng mổ xẻ quái vật.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -91,6 +91,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elk
 - Đội trưởng tổ đội Hạng A Rìu Lôi Thần, chồng của Min và bố của Rhodes.
 - Cơ bắp cuồn cuộn, tính tình sảng khoái, tếu táo; vũ khí là cây rìu chiến khổng lồ (Đạo Cụ Ma Thuật).
+- Thời trẻ có biệt danh 'Elk Ngỗ Ngược' lúc mới vào Hội; từng tham gia thảo phạt Kraken; thành thạo ngón nghề mổ xẻ quái vật và nhiệt tình chỉ dạy cho Rei.
 
 ### Min
 - Ma pháp sư tổ đội Hạng A Rìu Lôi Thần, vợ của Elk và mẹ của Rhodes.

@@ -143,3 +143,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 戒めの種 |  | Hạt Giống Trừng Phạt | kỹ năng | 38 | Ma thuật hệ Hỏa của Zepairu cấy hạt lửa vào đầu mục tiêu, phản bội sẽ bị thiêu rụi từ bên trong |
 | 魔笛 |  | Ma Địch | vật phẩm | 39 | Đạo Cụ Ma Thuật rẻ tiền dùng ma lực của người dùng để phát âm thanh the thé vang xa làm tín hiệu |
 | 犯罪奴隷 |  | nô lệ tội phạm | khác | 39 | Thân phận nô lệ bị xử phạt đối với tội phạm hoặc kẻ cướp bị bắt sống |
+| クラーケン |  | Kraken | quái vật | 40 | Quái vật biển khổng lồ |
+| 暴れん坊エルク |  | Elk Ngỗ Ngược | danh hiệu | 40 | Biệt danh thời trẻ của Elk khi còn là tân binh ngỗ nghịch |
+| カマイタチ |  | Liềm Gió | kỹ năng | 40 | Đòn phong ma pháp tạo luồng khí chém sắc bén như lưỡi liềm |
+| モンスターランク |  | Hạng quái vật | cấp bậc | 40 | Phân hạng quái vật; viết thường khi nói chung, viết hoa khi đi với tên hạng |
+| ランクアップ |  | thăng hạng | cấp bậc | 40 | Thăng cấp bậc mạo hiểm giả; viết thường |
