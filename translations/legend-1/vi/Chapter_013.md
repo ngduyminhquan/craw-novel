@@ -1,86 +1,86 @@
 # Chương 13: Đột kích bộ lạc Orc (13)
 
-Phía trước tòa nhà Hội Mạo Hiểm Giả. Lúc này, Rei đang đối mặt với bốn gã mạo hiểm giả vừa kiếm chuyện với cậu. ...Hay nói đúng hơn là đang đối đầu với chúng.
+Trước tòa nhà Hội Mạo Hiểm Giả. Lúc này, Rei đang đứng đối mặt với bốn gã mạo hiểm giả vừa kiếm chuyện với cậu. ...Nói đúng hơn là đang đối đầu với chúng mới phải.
 
-"Hế, giờ này có khóc lóc thì gãy một hai cánh tay cũng đừng hòng bọn tao tha nhé."
+"Hế, giờ có khóc lóc thì gãy một hai cánh tay bọn tao cũng chẳng tha cho đâu nhé."
 
 "Bọn tao sẽ bắt mày trả giá vì dám sỉ nhục Móng Vuốt Chim Ưng."
 
-Vargas lăm lăm cây rìu chiến, còn Zolit cầm thanh trường kiếm trong tay, cả hai ra sức thị uy trước mặt Rei.
+Vargas cầm cây rìu chiến, Zolit cầm thanh trường kiếm, cả hai ra vẻ hung hãn dọa nạt Rei.
 
-Ở phía sau, hai mạo hiểm giả đi cùng người cầm cung kẻ cầm đoản kiếm, nở nụ cười nhăn nhở nhìn về phía Rei.
+Phía sau đó, hai tên đi cùng mỗi đứa cầm một cây cung với một con đoản kiếm, cười nhăn nhở nhìn Rei.
 
-Cả bốn tên có lẽ vì đang tiệc tùng liên hoan nên ngoài vũ khí ra thì chẳng mang giáp trụ gì, chỉ mặc quần áo bình thường.
+Cả bốn tên chắc vì đang đi ăn mừng nên ngoài vũ khí ra thì chẳng mặc giáp gì, chỉ mặc đồ bình thường.
 
-Xung quanh Rei và bốn gã đó, cư dân trong thành phố dù giữ khoảng cách nhưng vẫn túm năm tụm ba xúm lại xem náo nhiệt.
+Xung quanh Rei và bốn tên đó, người dân trong thành vẫn giữ khoảng cách nhưng xúm lại hóng chuyện đông nghịt.
 
-Nếu lúc này nhóm bốn người Vargas không say xỉn và chịu để tâm lắng nghe tiếng bàn tán của những kẻ hiếu kỳ xung quanh, hẳn chúng đã nghe thấy người ta kháo nhau chuyện Rei đi cùng Set dọc theo đại lộ.
+Lúc này mà bốn tên nhóm Vargas không say, lại chịu để ý nghe người xung quanh bàn tán, chắc chắn chúng đã nghe thấy chuyện Rei đi cùng Set dọc đại lộ rồi.
 
-Về phần Set, khi Rei vừa bước ra khỏi Hội Mạo Hiểm Giả, nó đã sớm nhận ra nhờ khí tức và ma lực, nhưng vừa ngẩng đầu lên thì thấy cái nháy mắt ra hiệu của Rei nên lại tiếp tục nằm ườn nhắm mắt.
+Còn về phần Set, vừa lúc Rei bước ra khỏi Hội Mạo Hiểm Giả là nó đã cảm nhận được khí tức với ma lực của cậu rồi, nhưng mới ngẩng đầu lên thấy Rei nháy mắt ra hiệu nên nó lại nằm ườn ra nhắm mắt lại.
 
-Dù bình thường Set lúc nào cũng quấn quýt làm nũng với Rei, nhưng nó gần như cảm nhận được thực lực của đám mạo hiểm giả trước mặt bằng bản năng và xác định chẳng có gì đáng lo.
+Bình thường Set hay làm nũng với Rei là thế, nhưng nó gần như cảm nhận được trình độ của đám mạo hiểm giả trước mặt bằng bản năng và thấy chẳng có gì đáng lo cả.
 
-Đám người Vargas do men say, cộng thêm đinh ninh rằng giữa thành phố làm sao có Griffin được, nên hoàn toàn không nhận ra sự hiện diện của Set.
+Mà đám Vargas vừa vì đang say, vừa đinh ninh giữa thành phố thế này làm gì có chuyện có Griffin, nên chẳng hề nhận ra Set đang nằm ngay đó.
 
-Mà thực ra, người bình thường đoán được giữa lòng thành phố có Griffin mới là chuyện lạ.
+Cơ mà nói thật, bình thường ai mà đoán nổi giữa thành phố lại có Griffin mới là chuyện lạ.
 
-"Nào, lũ vô tích sự Nước Dãi Goblin. Nhân tiện làm một vụ cá cược không?"
+"Nào, lũ vô tích sự Nước Dãi Goblin. Nhân tiện chơi cá cược chút không?"
 
 "...Cá cược cơ à?"
 
-Dù trán nổi đầy gân xanh trước cái tên tổ đội nhục nhã ê chề là Nước Dãi Goblin, gã vẫn gặng hỏi tiếp lời Rei.
+Nghe cái tên tổ đội nhục không tả nổi là Nước Dãi Goblin, trán gã nổi đầy gân xanh nhưng vẫn hất hàm bảo Rei nói tiếp.
 
-Những người vây xem nghe thấy cái tên tổ đội quá mức nực cười ấy cũng bật cười, nhưng gã cầm cung tên trừng mắt đe dọa khiến xung quanh nín bặt.
+Đám đông đứng xem nghe thấy cái tên tổ đội quá sức buồn cười đó cũng bật cười thành tiếng, nhưng gã cầm cung liền trừng mắt lườm một vòng khiến cả bọn im bặt.
 
-"Phải. Cá cược. Nãy tao có nghe nói, tụi mày ăn may như có phép màu, dốc cạn vận may cả đời mới miễn cưỡng hoàn thành được ủy thác đúng không? Rồi nhân lúc mở tiệc ăn mừng, tụi mày lại kiếm chuyện với một đứa vừa tới đăng ký mạo hiểm giả như tao, bị nói trúng tim đen nên cái sĩ diện hão cao ngút trời đó..."
+"Ừ. Cá cược. Nãy tao nghe lỏm được, tụi mày ăn may như có phép màu, xài sạch vận may cả đời mới hoàn thành nổi ủy thác đúng không? Xong lúc đang đi ăn mừng thì lại quay sang kiếm chuyện với đứa vừa đăng ký mạo hiểm giả như tao, bị nói trúng tim đen nên cái sĩ diện hão cao ngất ngưởng đó..."
 
-"Câm mồm! Nãy giờ tao nhịn nghe là mày muốn nói nhảm gì thì nói hả! Hết vận may cả đời? Ăn may? Miễn cưỡng? Một thằng ma mới vừa đăng ký như mày lấy tư cách gì mà dám vênh váo coi thường bọn tao!"
+"Câm mồm! Nãy giờ tao im cho nói là mày muốn nói nhảm gì thì nói hả! Xài hết vận may cả đời? Ăn may? Chật vật lắm mới xong? Một thằng ma mới vừa đăng ký như mày lấy tư cách gì mà dám lên mặt coi thường bọn tao!"
 
-Bị Rei liên tục khiêu khích, Vargas vung mạnh cây rìu chiến thị uy rồi gầm lên.
+Thấy Rei cứ chọc tức từng câu một, Vargas vung mạnh cây rìu chiến dọa nạt rồi gầm lên.
 
-Tiếng xé gió phát ra khi vung chiếc rìu chứng minh Vargas tuyệt đối không phải kẻ chỉ biết khua môi múa mép.
+Tiếng gió rít lên theo cú vung rìu chứng tỏ Vargas hoàn toàn không phải loại chỉ biết nói mồm.
 
-"Thôi, bỏ qua mấy lời dong dài đi. Giờ là nội dung cá cược. Tao sẽ lần lượt đấu một chọi một với từng đứa trong bốn tên Nước Dãi Goblin tụi mày. Nếu tụi mày thắng... xem nào."
+"Thôi, bỏ qua mấy chuyện rắc rối đó đi. Giờ nói chuyện cá cược. Tao sẽ lần lượt đấu một chọi một với từng đứa trong bốn tên Nước Dãi Goblin tụi mày. Nếu tụi mày thắng... để xem nào."
 
-Cậu rút trong ngực áo ra túi đựng đồng vàng, con Dao Mithril, rồi tháo Nhẫn Sương Mù trên cổ tay phải.
+Cậu rút từ trong áo ra túi đựng đồng vàng với con Dao Mithril, rồi tháo chiếc Nhẫn Sương Mù ở cổ tay phải xuống.
 
-"7 đồng vàng, một con dao chế tác từ Mithril thượng hạng, và một Đạo Cụ Ma Thuật có chức năng Hộp Vật Phẩm. Tao sẽ cho tụi mày hết đống này."
+"7 đồng vàng, một con dao làm từ Mithril thượng hạng, cộng thêm một Đạo Cụ Ma Thuật có chức năng Hộp Vật Phẩm. Tao sẽ cho tụi mày hết đống này."
 
-Nhìn những thứ Rei đưa ra, nhóm Vargas xôn xao kinh ngạc. Không chỉ vậy, trong đám đông vây xem, những ai có chút hiểu biết về Đạo Cụ Ma Thuật đều trố mắt nhìn Nhẫn Sương Mù với vẻ khó tin, rồi giải thích cho người xung quanh biết những món đồ đó có giá trị lớn đến nhường nào.
+Nhìn mấy thứ Rei đưa ra, nhóm Vargas lập tức xôn xao. Không chỉ thế, trong đám đông đứng xem, những ai có chút hiểu biết về Đạo Cụ Ma Thuật đều nhìn chằm chằm vào Nhẫn Sương Mù như không tin nổi vào mắt mình, rồi quay sang giải thích cho người bên cạnh biết đống đồ Rei mang ra giá trị khủng khiếp cỡ nào.
 
 "Mày đùa đấy à! Một thằng ranh vừa mới đăng ký ở Hội hôm nay như mày thì lấy đâu ra những thứ đó! Định dùng đồ giả để bịp bọn tao thì đừng hòng!"
 
-Vargas gầm lên giận dữ. Cũng phải thôi. Đồng vàng thì không nói, nhưng Dao Mithril và Hộp Vật Phẩm nếu mua ngoài thực tế thì phải tốn đến hàng chục, thậm chí hàng trăm đồng quang kim. Tạm gác Dao Mithril sang một bên, Hộp Vật Phẩm quả thực là món đồ hiếm có đến mức ấy.
+Tiếng quát giận dữ của Vargas vang lên như sấm. Cũng dễ hiểu thôi. Đồng vàng thì không nói, nhưng Dao Mithril với Hộp Vật Phẩm mà đem đi mua thật thì ít nhất cũng tốn mấy chục, khéo lên tới cả trăm đồng quang kim. Chưa kể Dao Mithril, riêng Hộp Vật Phẩm vốn dĩ đã là đồ hiếm đến mức đó rồi.
 
-Thế nhưng Rei chẳng thèm bận tâm, chỉ nhìn bốn kẻ trước mặt bằng ánh mắt khinh miệt.
+Nhưng Rei chẳng thèm để tâm, vẫn nhìn bốn tên trước mặt bằng ánh mắt coi thường.
 
-"Thật hay giả thì nếu tụi mày thắng được tao, cứ việc đem đi đâu đó giám định hay tự dùng thử tùy thích. Cơ mà, tao đã bỏ ra đồ tầm cỡ này thì tụi mày cũng phải cược thứ gì tương xứng chứ nhỉ."
+"Thật hay giả thì đợi thắng được tao rồi muốn đem đi đâu giám định hay tự dùng thử cũng được. Cơ mà tao đã bỏ ra đồ tầm cỡ này, tụi mày cũng phải cược thứ gì xứng tầm chứ nhỉ."
 
 "..."
 
-Bốn tên im lặng trước lời của Rei, nhưng điều đó cũng dễ hiểu. Dù sao Vargas và đồng bọn cũng chỉ là mạo hiểm giả Hạng D. Đạo Cụ Ma Thuật như Hộp Vật Phẩm chúng còn chưa thấy tận mắt bao giờ, nói gì đến chuyện sở hữu đồ vật giá trị tương đương. Chúng chỉ biết toát mồ hôi hột, trừng mắt nhìn Rei đầy sát khí khi nhận ra mình đang bị bêu rếu như những chú hề trước mặt đám đông.
+Bốn tên im bặt trước câu nói của Rei, cũng chẳng có gì lạ. Suy cho cùng đám Vargas cũng chỉ là mạo hiểm giả Hạng D. Đến cả Đạo Cụ Ma Thuật dạng Hộp Vật Phẩm chúng còn chưa từng thấy tận mắt bao giờ, lấy đâu ra thứ ngang giá để cược. Cả bọn chỉ biết vã mồ hôi hột, trừng mắt nhìn Rei đầy hằn học vì tự dưng bị biến thành trò hề cho đám đông chỉ trỏ.
 
-"Sao thế? Đem đồ cược của tụi mày ra đi chứ. ...Cơ mà tao cũng đoán được lũ cắc ké Nước Dãi Goblin như tụi mày chẳng moi đâu ra được. Thế nên tao châm chước, chỉ lấy toàn bộ tài sản tụi mày đang mang theo trên người thôi. Đã đến đây liên hoan mừng hoàn thành ủy thác thì ít nhiều cũng phải có một mớ chứ?"
+"Sao thế? Đem đồ cược ra đi chứ. ...Mà tao cũng đoán được cỡ Nước Dãi Goblin tụi mày chắc chẳng có nổi đâu. Thế nên tao châm chước cho, chỉ cần cược toàn bộ tài sản tụi mày đang mang theo trên người thôi. Đã ra đây ăn mừng hoàn thành ủy thác thì ít nhiều cũng phải có một mớ chứ?"
 
-Nghe Rei nói, ánh mắt đám người Vargas càng hằn rõ sát ý.
+Nghe Rei nói vậy, ánh mắt đám Vargas càng thêm hằn học.
 
-Thật ra vào lúc này Rei đã hiểu lầm một chuyện. Cậu cứ ngỡ dù có tước đoạt toàn bộ tài sản bốn tên đang mang trên người thì ở quán trọ hay chỗ nào đó chúng vẫn còn chút của để dành. Nào ngờ nhóm Vargas vì sợ để tiền ở quán trọ bị trộm mất nên đã mang theo toàn bộ gia sản theo đúng nghĩa đen. Tuy nhiên, tính toán này cũng chẳng có gì kỳ lạ. Thành Gilm tuy có an ninh khá tốt so với một thành phố vùng biên cảnh, nhưng đương nhiên không có nghĩa là hoàn toàn vắng bóng phường trộm cắp.
+Thật ra lúc này Rei đang hiểu nhầm một chuyện. Cậu cứ tưởng dù có lột sạch toàn bộ tài sản bốn tên đang mang theo trên người thì ở nhà trọ hay đâu đó chúng vẫn còn chút tiền để dành. Nhưng đám Vargas sợ để tiền lại nhà trọ sẽ bị trộm mất nên đã mang theo hết toàn bộ gia sản theo đúng nghĩa đen. Mà nghĩ thế cũng chẳng có gì lạ. Thành Gilm tuy an ninh khá ổn so với một thành phố biên cảnh, nhưng tất nhiên chẳng thể nào không có trộm cắp được.
 
 "...Được thôi."
 
 "Vargas!?"
 
-Zolit cùng hai gã còn lại trừng mắt nhìn Vargas với vẻ trách móc khi thấy gã gật đầu.
+Thấy Vargas gật đầu, Zolit và hai tên còn lại quay sang nhìn gã đầy trách móc.
 
-"Tụi mày cũng chuẩn bị tinh thần đi. Bị sỉ nhục đến nước này mà còn cụp đuôi bỏ chạy thì từ mai bọn mình thành trò cười cho thiên hạ đấy! Vả lại chỉ cần thắng là xong chứ gì! Thắng một cái là Hộp Vật Phẩm với Dao Mithril kia sẽ thuộc về bọn mình!"
+"Tụi mày cũng liều một phen đi. Bị làm nhục đến nước này mà còn bỏ chạy thì từ mai bọn mình thành trò cười cho cả thiên hạ mất! Với lại chỉ cần thắng là xong chứ gì! Thắng một cái là Hộp Vật Phẩm với Dao Mithril kia về tay bọn mình hết!"
 
-Chẳng rõ do lời Vargas kích thích lòng tham hay nhận ra tình thế không còn đường lùi, ba gã còn lại cũng trừng trừng mắt nhìn về phía Rei.
+Không biết là do câu đó của Vargas đánh trúng lòng tham, hay cả bọn cũng hiểu đã hết đường lùi rồi, ba tên còn lại đều trừng mắt lườm Rei gằm gằm.
 
 "Có vẻ chốt xong rồi nhỉ. Vậy thì để toàn bộ tài sản của tụi mày xuống đó đi."
 
-Theo lời Rei, cả bốn tên móc túi tiền trong người ra ném về phía Nhẫn Sương Mù đang đặt trên mặt đất.
+Nghe Rei nói, cả bốn tên móc túi tiền trong người ra ném về phía chỗ đặt Nhẫn Sương Mù.
 
-Thấy vậy, Rei khẽ nhếch mép cười rồi mở lời. Đúng lúc ấy, cánh cửa Hội mở ra và một người đàn ông bước ra ngoài, nhưng vì người đó ẩn giấu khí tức nên chỉ có Rei và Set đang ở cách đó một đoạn nhận ra.
+Thấy vậy, Rei nhếch mép cười rồi lên tiếng. Đúng lúc đó, cửa Hội mở ra và có một người đàn ông bước ra, nhưng vì người này giấu kín khí tức nên chỉ có Rei với Set đứng cách đó một đoạn mới nhận ra.
 
 "Cơ mà, cứ để đống đồ ở đây mà lúc đánh nhau lỡ bị ai nẫng tay trên thì chẳng vui chút nào. ...Set!"
 
@@ -88,108 +88,108 @@ Thấy vậy, Rei khẽ nhếch mép cười rồi mở lời. Đúng lúc ấy,
 
 "Gừưưư!"
 
-Kèm theo tiếng gầm như tiếng rống xung trận, một con Griffin to lớn dài hơn hai mét vừa nằm dài lập tức dùng sức bật nhảy vọt tới. Thấy Set đứng chắn như để bảo vệ Nhẫn Sương Mù và Dao Mithril, chừng một nửa đám đông vây xem thét lên kinh hãi rồi bỏ chạy tán loạn. Dù vậy, số người bỏ chạy chỉ dừng lại ở khoảng một nửa là nhờ trước đó những kẻ hiếu kỳ đã xì xào chuyện Rei dắt theo Griffin, và trên cổ Set quả thực có đeo chiếc vòng cổ chứng nhận quái vật thuần hóa hoặc quái vật triệu hồi.
+Kèm theo tiếng gầm vang dội, một con Griffin khổng lồ dài hơn hai mét đang nằm dài bỗng bật vọt tới chỉ bằng một cú nhún. Thấy Set đứng sừng sững trước Nhẫn Sương Mù và Dao Mithril như đang canh giữ, khoảng một nửa đám đông đứng xem hét toáng lên rồi bỏ chạy tán loạn. Dù vậy, chỉ có một nửa bỏ chạy thôi là nhờ trước đó mọi người đã xì xào chuyện Rei dẫn theo Griffin, cộng thêm trên cổ Set đúng là có đeo chiếc vòng chứng nhận quái vật đã thuần hóa hoặc quái vật triệu hồi.
 
-...Đương nhiên, người bình thường vốn cả đời khó lòng thấy Griffin một lần nên cũng có tâm lý vừa sợ vừa tò mò muốn xem.
+...Tất nhiên, cũng có phần vì người thường cả đời chẳng mấy khi được thấy Griffin nên vừa sợ vừa tò mò muốn nán lại xem.
 
 "H-Híii!"
 
-Zolit đang cầm trường kiếm hét lên một tiếng rồi ngã bệt xuống đất. Dường như bủn rủn cả chân tay, gã chẳng có vẻ gì là đứng dậy nổi.
+Zolit đang cầm trường kiếm hét lên một tiếng rồi ngã phịch xuống đất. Chắc sợ tới mức nhũn hết chân tay, gã ngồi bệt luôn không đứng dậy nổi.
 
-Đám còn lại, đứng đầu là Vargas, cũng chỉ biết trố mắt chết lặng ngước nhìn Set.
+Vargas và mấy tên còn lại cũng chỉ biết trố mắt, đơ người ngước nhìn Set.
 
-Đối diện với bốn tên đó, Rei nhếch mép cười khẩy rồi cất lời.
+Nhìn bốn tên đó, Rei nhếch mép cười khẩy rồi nói.
 
-"Yên tâm đi, đối phó loại tép riu Nước Dãi Goblin như tụi mày thì chưa cần Set phải nhúng tay đâu. Một mình tao là đủ tiếp cả lũ. Set, tao sắp sửa đấu một chọi một lần lượt với bốn tên này. Ai thắng sẽ nhận được phần thưởng dưới chân mày, kể cả trong cái trường hợp hoang đường nhất là tụi nó thắng đi chăng nữa."
+"Yên tâm đi, cỡ tép riu Nước Dãi Goblin như tụi mày thì chưa cần Set phải ra tay đâu. Một mình tao tiếp hết. Set, giờ tao sẽ đấu từng đứa một trong bốn tên này. Ai thắng thì mày trao đống phần thưởng dưới chân cho người đó, kể cả trong cái viễn cảnh không tưởng là tụi nó thắng đi nữa."
 
 "Gùuu."
 
-Set khẽ kêu một tiếng đồng ý trước lời của Rei. Thấy vậy, cậu cầm Lưỡi Hái Tử Thần lên rồi cất tiếng gọi đám người Vargas.
+Set kêu khẽ một tiếng đồng ý. Thấy vậy, Rei cầm Lưỡi Hái Tử Thần lên rồi quay sang gọi đám Vargas.
 
-"Vậy nên cứ yên tâm mà để tao hạ gục đi. Nào, bắt đầu ngay thôi. Ai lên trước đây?"
+"Đấy, cứ yên tâm mà để tao đánh cho gục nhé. Nào, bắt đầu luôn thôi. Đứa nào lên trước?"
 
 "..."
 
-Rei hỏi thế, nhưng nhuệ khí ban nãy của đám Vargas chẳng biết đã biến đâu mất, chỉ biết tái mét mặt mày im thin thít. Sắc men say vương trên mặt vài phút trước giờ cũng tan biến sạch sẽ.
+Rei hỏi vậy, nhưng chẳng biết cái vẻ hống hách ban nãy của đám Vargas bay đi đâu mất, cả lũ chỉ tái mét mặt mày im thin thít. Hơi men còn vương trên mặt vài phút trước giờ cũng bay sạch không còn một mẩu.
 
-"Hầy, câm nín cả rồi à. ...Thôi được rồi. Thế thì xử cái tên Zolit đang bủn rủn ngồi bệt đằng kia trước nhé. Nào, tao lên đây."
+"Hầy, im hết rồi à. ...Thôi kệ. Thế thì bắt đầu từ thằng Zolit đang sợ nhũn chân đằng kia trước nhé. Nào, tao lên đây."
 
-Cậu tự ý tuyên bố, rồi cứ thế cầm Lưỡi Hái Tử Thần sải bước về phía Zolit đang sợ tới mức không đứng dậy nổi.
+Tự nói tự quyết xong, Rei cầm Lưỡi Hái Tử Thần đi thẳng về phía Zolit đang sợ đến mức không đứng dậy nổi.
 
 "Hí, híii! Đừng qua đây... Đừng có quaaaa đââââyyyy!"
 
-Có lẽ vì quá khiếp sợ Rei đang từng bước áp sát, Zolit cuống cuồng chộp lấy thanh trường kiếm lăn lóc dưới đất rồi vung chém loạn xạ trong cơn hoảng loạn tột độ.
+Chắc vì hoảng quá khi thấy Rei cứ tiến lại gần, Zolit cuống cuồng vớ lấy thanh trường kiếm nằm lăn dưới đất rồi vung chém loạn xạ trong cơn hoảng loạn.
 
-Đòn chém ấy chẳng hề có chút kỹ năng hay kinh nghiệm nào của một mạo hiểm giả Hạng D, mà chỉ là cú vung kiếm trong tuyệt vọng cốt sao xua đuổi được Rei trước mắt.
+Nhát chém đó chẳng có chút kỹ thuật hay kinh nghiệm nào của một mạo hiểm giả Hạng D, chỉ là vung bừa lên vì muốn đẩy được Rei ra xa.
 
 "Đồ tép riu."
 
-Đương nhiên nhát chém ấy làm sao trúng nổi Rei. Cậu nhìn thấu từng đường kiếm vung loạn xạ, khẽ lách người né sạch mọi đòn tấn công rồi vung cán Lưỡi Hái Tử Thần lên.
+Đương nhiên đòn đó làm sao trúng nổi Rei. Cậu nhìn rõ mồn một thanh kiếm đang vung loạn lên kia, chỉ nhích người nhẹ là né sạch mọi đòn đánh rồi giơ cán Lưỡi Hái Tử Thần lên.
 
-(Đến cả da thịt Gấu Nước còn bị đâm xuyên dễ dàng, tốt nhất tạm thời không nên dùng đòn đâm.)
+(Đến da thịt Gấu Nước còn đâm xuyên cái một, tốt nhất tạm thời đừng có đâm.)
 
-Dù đối phương kiếm chuyện, nhưng nếu vì thế mà giết người thì chẳng biết Hội sẽ giáng hình phạt nào. Do đó mục tiêu là đánh ngất toàn bộ. Tính vậy, Rei ngồi thụp xuống né đường kiếm chém ngang rồi luồn vào lòng Zolit, dùng khoảng ba phần mười lực giáng cán Lưỡi Hái Tử Thần vào mạn sườn ngay trước mắt coi như đáp lễ nhát chém vừa rồi.
+Dù sao cũng chỉ là kiếm chuyện, lỡ tay giết chết thì chẳng biết Hội sẽ phạt nặng tới đâu. Vậy nên đánh ngất cả lũ là đẹp nhất. Nghĩ vậy, Rei cúi người né cú chém ngang rồi lách sát vào người Zolit, dồn khoảng ba phần lực nện thẳng cán Lưỡi Hái Tử Thần vào mạn sườn ngay trước mặt, coi như trả lại đòn vừa nãy.
 
-Cảm nhận xương sườn của Zolit gãy rắc truyền qua tay, Rei vẫn dửng dưng đánh bay thân hình cao hơn mình tới ba mươi phân sang một bên.
+Cảm giác xương sườn của Zolit gãy rắc truyền qua tay, nhưng Rei vẫn tỉnh bơ đánh bay thân hình cao hơn mình tới ba mươi phân sang một bên.
 
-Bị gãy xương sườn, Zolit bay vút đi rồi đập thẳng vào tường của Hội Mạo Hiểm Giả...
+Gãy xương sườn, Zolit bay vèo đi rồi đập thẳng vào bức tường Hội Mạo Hiểm Giả...
 
 "Hự!"
 
-Phát ra một tiếng bẹp nặng nề trên mặt đất, gã đổ gục xuống và chìm vào bóng tối vô thức.
+Gã rơi xuống đất nghe cái bịch rõ nặng, rồi ngất lịm đi.
 
-"Thế là xong một tên. Tiếp theo, tên dùng đoản kiếm đằng kia. Lại đây."
+"Xong một tên. Tiếp theo, tên dùng đoản kiếm đằng kia. Lên đây."
 
-Chẳng buồn đoái hoài tới Zolit đã ngất lịm, Rei ngoắc tay gọi gã đàn ông đang cầm đoản kiếm đứng chết trân.
+Chẳng thèm liếc mắt tới Zolit đã ngất xỉu, Rei ngoắc tay gọi gã cầm đoản kiếm đang đứng đơ ra.
 
 "..."
 
-Thế nhưng gã đàn ông chưa kịp hoàn hồn trước diễn biến tình hình thậm chí chẳng dám nhúc nhích.
+Nhưng đầu óc gã chưa kịp tiêu hóa nổi chuyện vừa xảy ra nên cứ đứng trân ra không nhúc nhích.
 
 "Hầy. Tụi mày là Hạng D thật đấy à?"
 
-Vừa thở dài, cậu vừa tiến lại như với Zolit rồi vung cán hái đánh bay gã. Kế đó, gã cầm cung tên cũng bị đánh văng tương tự, kết quả là kẻ gãy tay kẻ gãy xương sườn.
+Thở dài một tiếng, Rei lại gần làm y như lúc nãy với Zolit, vung cán hái đánh bay gã đi. Tiếp theo, gã cầm cung cũng chịu chung số phận, kết quả đứa gãy tay đứa gãy xương sườn.
 
-Liếc nhìn ba kẻ đang nằm ngất lịm một cách thảm hại, Rei vừa quay người về phía kẻ cuối cùng còn lại là Vargas thì...
+Liếc qua ba tên đang nằm ngất lịm thảm hại dưới đất, Rei vừa quay sang phía người cuối cùng là Vargas thì...
 
 "Chậc!?"
 
-Thấy khuôn mặt Vargas áp sát trước mắt cùng cây rìu chiến sắp giáng xuống, cậu lập tức vung ngang cán Lưỡi Hái Tử Thần cản phá.
+Thấy mặt Vargas đã dí sát ngay trước mắt cùng cây rìu chiến sắp bổ xuống, cậu vội vung ngang cán Lưỡi Hái Tử Thần lên đỡ.
 
-Keng! Kèm theo tiếng va chạm chói tai, Lưỡi Hái Tử Thần và cây rìu chiến dội ngược ra.
+Một tiếng keng chói tai vang lên, Lưỡi Hái Tử Thần và cây rìu chiến cùng bật ngược ra.
 
-Dù đã nương tay để không giết người, nhưng thấy cây rìu chiến va chạm trực diện với cán Lưỡi Hái Tử Thần mà đến một vết mẻ cũng không có, lần đầu tiên Rei nhìn nó bằng ánh mắt đầy hứng thú.
+Dù đã nương tay để khỏi đánh chết người, nhưng thấy cây rìu chiến chạm thẳng vào cán Lưỡi Hái Tử Thần mà không hề bị mẻ chút nào, Rei bắt đầu nhìn nó đầy tò mò.
 
-Khỏi phải nói, Lưỡi Hái Tử Thần là Đạo Cụ Ma Thuật được tạo ra... không, chính xác hơn là được sáng tạo từ lượng ma lực khổng lồ vật chất hóa của Rei. Xét tới đặc tính tăng thêm kỹ năng nhờ hấp thụ Ma Thạch cùng vô số tính năng khác, thực chất nó còn là một món đồ quý hiếm hơn cả Nhẫn Sương Mù.
+Khỏi cần nói cũng biết, Lưỡi Hái Tử Thần là Đạo Cụ Ma Thuật được làm... không, đúng hơn là được tạo ra từ lượng ma lực khổng lồ hóa thành vật chất của Rei. Nếu tính cả khả năng hấp thụ Ma Thạch để học thêm kỹ năng cùng hàng loạt tính năng khác, thật ra nó còn hiếm hơn cả Nhẫn Sương Mù nữa.
 
-"Cây rìu đó là một loại Đạo Cụ Ma Thuật nào đó phải không?"
+"Cây rìu đó là Đạo Cụ Ma Thuật hả?"
 
 "Câm mồm! Chết tiệt, chết tiệt, chết tiệt tiệttt!"
 
-Trừng mắt nhìn Rei bằng ánh mắt ngập tràn căm thù, gã bổ rìu chiến xuống, hất ngược lên rồi lại nện tới tấp.
+Trừng mắt nhìn Rei đầy căm thù, gã vung rìu chiến bổ xuống, hất ngược lên rồi lại giáng tới tấp.
 
-Tốc độ và kỹ thuật của gã khá điêu luyện, người trong nghề nhìn vào ắt sẽ thấy tay nghề này vượt trên năng lực chiến đấu của một mạo hiểm giả Hạng D. Ít nhất cũng hơn đứt Zolit, kẻ chẳng có chút đường kiếm nào mà chỉ biết vung quáng quàng thanh trường kiếm.
+Tốc độ và kỹ thuật ra đòn của gã khá ổn, người biết nhìn vào chắc chắn sẽ đánh giá sức chiến đấu này vượt trên mức Hạng D. Ít nhất cũng ăn đứt tên Zolit chẳng biết đường kiếm gì, chỉ biết vung bừa thanh trường kiếm.
 
-Thật ra chẳng qua vì từ lúc Rei ra tay tới giờ đã qua một lúc, nên Vargas mới phần nào lấy lại được bình tĩnh mà thôi.
+Thật ra chẳng qua vì từ lúc Rei lộ bộ mặt thật tới giờ cũng đã qua một lúc, nên Vargas mới hơi bình tĩnh lại được chút đỉnh.
 
-Thế nhưng đợt tấn công liều mạng của Vargas chẳng khó để nhìn thấu trước năng lực thể chất và ngũ quan nhạy bén của Rei. Cú bổ xuống bị cậu xoay nửa người né gọn, đòn quét ngang bị cán Lưỡi Hái Tử Thần hất văng, còn nhát xúc từ sát mặt đất lên thì bị cậu trượt cán hái gạt chệch hướng.
+Nhưng mấy đòn tấn công liều mạng của Vargas trước thể chất và giác quan nhạy bén của Rei thì chẳng khó nhìn ra chút nào. Cú bổ từ trên xuống bị cậu xoay nửa người né gọn, đòn quét ngang bị cán Lưỡi Hái Tử Thần hất ra, còn cú hất từ sát mặt đất lên cũng bị cậu trượt cán hái gạt chệch đi.
 
-Màn giao tranh giằng co như thế kéo dài vài phút. Vargas liên tục vung rìu hết sức dường như cũng chạm tới giới hạn, gã tung một đòn chém ngang dữ dội để ép Rei lùi lại nhằm kéo giãn khoảng cách.
+Màn ăn miếng trả miếng như thế kéo dài vài phút. Vung rìu hết sức liên tục khiến Vargas có vẻ cũng tới giới hạn, gã vung một cú quét ngang thật mạnh ép Rei lùi lại để kéo giãn khoảng cách.
 
 "Hộc... hộc... hộc..."
 
-Tạo được khoảng cách với Rei, Vargas vừa thở dốc vừa kiểm tra cánh tay tê dại đã mất sạch cảm giác của mình.
+Giữ được khoảng cách với Rei, Vargas vừa thở hổn hển vừa kiểm tra cánh tay tê rần chẳng còn chút cảm giác nào.
 
-Một trong những năng lực của Lưỡi Hái Tử Thần là giảm trọng lượng. Đối với người sử dụng là Rei thì nó chỉ nhẹ như đôi đũa dùng một lần, nhưng kẻ đỡ đòn lại phải hứng trọn va đập từ một khối kim loại nặng hơn một trăm ký. Nghĩ đến điều đó, dù chỉ mới giao đấu vài chiêu thì Vargas cũng đã là kẻ cầm cự rất khá rồi.
+Một trong các năng lực của Lưỡi Hái Tử Thần là giảm trọng lượng. Với người dùng là Rei thì nó nhẹ bẫng như đôi đũa dùng một lần, nhưng người đỡ đòn lại chẳng khác nào bị một cục sắt nặng hơn trăm ký đập thẳng vào. Tính ra, tuy mới chạm chiêu vài lần nhưng Vargas trụ được đến mức này cũng coi là khá lắm rồi.
 
 "Nào, đã hết chiêu rồi à? Thế thì tới lượt tao ra tay nhé."
 
 "Câm mồồồồmmm!"
 
-Trước lời khiêu khích nhẹ nhàng, Vargas dù chưa kịp lấy lại nhịp thở vẫn lao vào tấn công lần nữa. Có lẽ đây chính là lý do khiến gã dù có kỹ năng chiến đấu nhưng vẫn mãi dậm chân ở Hạng D.
+Bị chọc nhẹ một câu, Vargas dù chưa kịp thở đều lại lao vào tiếp. Chắc đây cũng là lý do khiến gã có tay nghề khá vậy mà vẫn mãi kẹt ở Hạng D.
 
-Kèm theo tiếng thét, cây rìu chiến sắp sửa giáng xuống. Thấy vậy, Rei nhảy xéo về phía trước, tức ngay sát sườn Vargas... kích hoạt Giày Sleipnir đạp vào không trung! Cậu vận dụng cú bật tam giác lao thẳng vào lòng Vargas... và trước khi cây rìu chiến kịp bổ xuống, cán Lưỡi Hái Tử Thần đã nện gần như cùng lúc vào ba vị trí: cánh tay cầm rìu, mạn sườn và khớp gối.
+Cùng tiếng gào, cây rìu chiến lại sắp sửa bổ xuống. Thấy vậy, Rei nhảy xéo lên phía trước, ngay sát bên hông Vargas... rồi kích hoạt Giày Sleipnir đạp vào không trung! Cậu bật kiểu nhảy tường tam giác lao thẳng vào sát người Vargas... và trước khi cây rìu kịp chém xuống, cậu dùng cán Lưỡi Hái Tử Thần nện gần như cùng lúc vào ba chỗ: cánh tay cầm rìu, mạn sườn và khớp gối.
 
-Khớp tay bị bẻ gãy khiến cây rìu chiến rơi bộp xuống đất, mạn sườn trúng đòn làm gãy xương sườn, còn khớp gối bị đập vỡ vụn khiến gã đổ gục xuống mặt đất.
+Khớp tay bị đánh gãy khiến cây rìu chiến rơi cái rầm xuống đất, mạn sườn trúng đòn làm gãy xương sườn, còn khớp gối bị đập vỡ khiến gã ngã gục xuống đất.
 
-Chuỗi đòn tấn công đó diễn ra chỉ trong một cái chớp mắt, và Vargas đổ gục xuống đất rồi ngất lịm đi vì đau đớn.
+Cả chuỗi đòn đó diễn ra nhanh chưa tới một cái chớp mắt, Vargas ngã lăn ra đất rồi ngất lịm vì đau.
