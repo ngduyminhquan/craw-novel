@@ -164,3 +164,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ハイエルフ |  | High Elf | chủng tộc | 50 | Chủng tộc thượng đẳng của Elf |
 | クムの実 |  | trái Kumu | vật phẩm | 50 | Loại quả có vị chua của quýt và cảm giác nhai như lê |
 | ロングソード |  | kiếm dài | vật phẩm | 52 | Kiếm dài thông thường |
+| ウィンド・ブロー | ウィンドブロー | Cú Đấm Gió | kỹ năng | 53 | Ma pháp hệ Phong của Scola tạo ra hàng chục nắm đấm vô hình bằng gió tấn công diện rộng |
+| アイス・ニードル | アイスニードル | Mũi Kim Băng | kỹ năng | 53 | Ma pháp hệ Băng của Scola phóng ra hàng chục mũi kim băng như đoản kiếm găm vào mục tiêu |
