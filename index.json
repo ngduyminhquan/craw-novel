@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T15:33:04Z",
+  "generatedAt": "2026-11-16T15:36:52Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2182,7 +2182,7 @@
           "number": 5,
           "title": "Chương 5: Đột kích bộ lạc Orc (5)",
           "path": "translations/legend-1/vi/Chapter_005.md",
-          "sha": "4cae4ae8a969d97a793e5c9de5487ec81d09c6e1"
+          "sha": "3dfbc803355587691ecdfa9e5b7690a8989a2a33"
         },
         {
           "number": 6,

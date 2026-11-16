@@ -1,261 +1,261 @@
 # Chương 5: Đột kích bộ lạc Orc (5)
 
-Xung quanh ngôi nhà là bạt ngàn những thân cây khổng lồ sừng sững, ấy thế mà chẳng hiểu sao ánh nắng mai trong trẻo vẫn len lỏi rọi vào. Không khí ban sớm nơi đây trong lành đến lạ kỳ. Nếu có ai muốn đi dạo tắm mình giữa thiên nhiên thì đây hẳn là địa điểm lý tưởng... nếu người đó có thể đặt chân được tới tận chốn này.
+Xung quanh tòa nhà, cây cối khổng lồ mọc san sát, ấy vậy mà chẳng hiểu sao ánh nắng mai trong trẻo vẫn rọi xuống được. Không khí buổi sớm cũng vô cùng trong lành. Nếu có ai muốn tìm chỗ tắm rừng thư giãn thì đây hẳn là nơi lý tưởng... tất nhiên là với điều kiện người ta tới được tới đây.
 
-Cùng Set bước ra khỏi căn nhà ấy, Rei cẩn thận quan sát động tĩnh xung quanh.
+Rei cùng Set vừa bước ra khỏi tòa nhà, liền đưa mắt quan sát xung quanh.
 
-"Theo tri thức của Zepairu thì có một kết giới bao quanh nơi này trong bán kính chừng một trăm mét... hẳn là vậy."
+"Theo tri thức của Zepairu thì quanh tòa nhà này có giăng kết giới bán kính chừng một trăm mét... hẳn là vậy."
 
 "Gừưư."
 
-Set gật đầu trước lời của Rei.
+Nghe Rei nói, Set gật đầu.
 
-"Và chỉ cần bước ra ngoài kết giới dù chỉ một bước thôi thì nơi đó đã là thiên đường của đám quái vật rồi. ...Mày chuẩn bị tinh thần chưa?"
+"Và chỉ cần bước ra khỏi kết giới một bước thôi là coi như vào thẳng thiên đường của đám quái vật rồi đấy. ...Chuẩn bị tinh thần chưa?"
 
-Cậu chuyển thanh Lưỡi Hái Tử Thần đang vác trên vai sang tay phải để có thể ứng chiến bất cứ lúc nào.
+Cậu hạ cây Lưỡi Hái Tử Thần đang vác trên vai xuống, chuyển sang tay phải để sẵn sàng dùng bất cứ lúc nào.
 
 "Gừưư!"
 
-Set cất tiếng gầm gừ tràn đầy chiến ý. Cảm thấy an tâm trước sự đáng tin cậy của nó, một người một thú tiếp tục tiến bước. Đi được chừng ba phút, trước mắt họ hiện ra một thứ màng mỏng bao bọc lấy khu viện nghiên cứu.
+Set gầm gừ đầy chiến ý. Thấy nó đáng tin cậy như vậy, Rei cũng yên tâm phần nào, rồi một người một thú tiếp tục tiến bước. Đi được chừng ba phút, một lớp màng mỏng bao quanh viện nghiên cứu dần hiện ra trước mắt.
 
-"Đó là kết giới à. Bước ra ngoài đúng là có căng thẳng thật đấy... nhưng không ra thì kiểu gì cũng cầm chắc cái đói."
+"Kia là kết giới à. Nghĩ đến chuyện bước ra ngoài đúng là căng thẳng thật... nhưng không ra thì chỉ có nước chết đói thôi."
 
-Phải, khẩu phần lương thực dự trữ mười ngày vốn đã cạn sạch từ bữa sáng nay. Và thủ phạm ngốn sạch chỗ thức ăn mười ngày ấy chỉ sau hai bữa không ai khác chính là Set, kẻ lúc này đang vừa cảnh giác quan sát xung quanh vừa sẵn sàng che chắn cho Rei bất cứ lúc nào.
+Phải, chỗ lương thực dự trữ đủ dùng mười ngày đã cạn sạch ngay từ bữa sáng nay. Kẻ ngốn hết phần ăn mười ngày đó chỉ trong hai bữa chẳng phải ai khác mà chính là Set, lúc này đang đi cạnh Rei, vừa cảnh giác xung quanh vừa sẵn sàng che chắn cho cậu bất cứ lúc nào.
 
-Vốn dĩ Rei định giữ lại vài ổ bánh mì để bản thân ăn lót dạ trong rừng, nhưng trước ánh mắt buồn thiu vì đói và điệu bộ nũng nịu đòi bánh của Set, cậu đành chịu thua, thành ra ổ bánh mì cuối cùng cũng đã yên vị trong dạ dày của chú Griffin.
+Vốn dĩ Rei định giữ lại vài ổ bánh mì để phòng thân khi đi trong rừng. Nhưng trước ánh mắt đói meo buồn thiu cùng cái bộ làm nũng đòi ăn của Set, cậu đành chịu thua. Thành ra ổ bánh mì cuối cùng cũng đã nằm gọn trong bụng nó rồi.
 
-"...Mà thôi, thế cũng được. Tính đến tiền ăn sau này thì phải mau chóng tìm công việc gì kiếm ra tiền mới xong. Nếu vậy thì chẳng lẽ lại làm mạo hiểm giả hay nghề gì tương tự sao?"
+"...Mà thôi, kệ vậy. Nghĩ tới tiền ăn uống sau này thì phải mau chóng tìm việc gì kiếm ra tiền mới được. Tính ra thì chắc vẫn là làm mạo hiểm giả hay đại loại thế nhỉ?"
 
-Theo tri thức của Zepairu, nơi này dường như có Hội Mạo Hiểm Giả, nhưng phải là những thành phố tương đối lớn thì mới có chi nhánh hội. Nói cách khác, muốn kiếm tiền lo cái ăn cho bản thân và Set, cậu phải rời khỏi khu rừng này càng sớm càng tốt để tìm đến một thành phố lớn.
+Theo tri thức của Zepairu, thế giới này đúng là có Hội Mạo Hiểm Giả, nhưng phải là những thành phố thật sự lớn thì mới có chi nhánh. Thành ra muốn kiếm tiền nuôi miệng cả hai, cậu phải nhanh chóng thoát khỏi khu rừng này để tìm đến một thành phố lớn.
 
-"Nếu chỉ tính phần ăn của Set thì cứ hạ gục quái vật rồi lấy thịt cho nó ăn là được. May mà Set là sinh vật ma thuật, sức ăn thì hơn người thật đấy nhưng nó hấp thụ và chuyển hóa toàn bộ thành ma lực nên chẳng cần lo chuyện đi vệ sinh."
+"Nếu chỉ tính chuyện ăn của Set thì cứ săn bừa quái vật lấy thịt cho nó chén là xong. May mà nó là sinh vật ma thuật, ăn nhiều gấp mấy lần người thường thật đấy nhưng bao nhiêu cũng chuyển hóa thành ma lực hấp thụ hết vào người, khỏi phải lo chuyện đi vệ sinh."
 
-Có điều, vấn đề là sinh hoạt phí của Rei thì giải quyết ra sao. Cách an toàn nhất là đem bán những thứ Set không ăn được mà vẫn dùng làm nguyên liệu như sừng, móng hay da, nhưng rốt cuộc cách tốt nhất vẫn là ra khỏi khu rừng này, đến một thành phố có Hội Mạo Hiểm Giả rồi hành nghề mạo hiểm giả. Như thế thì còn có cơ hội nhận thêm tiền thù lao nữa.
+Có điều, nếu thế thì lại nảy sinh vấn đề tiền sinh hoạt của Rei. Nghĩ đơn giản thì vẫn có thể đem bán những phần Set không ăn mà dùng làm nguyên liệu được như sừng, móng hay da, nhưng xét cho cùng, cách ổn thỏa nhất vẫn là ra khỏi rừng, tới một thành phố có Hội Mạo Hiểm Giả để đăng ký làm mạo hiểm giả. Làm vậy còn có khả năng kiếm thêm tiền thù lao ủy thác nữa.
 
-Củng cố lại quyết tâm, Rei cùng Set bước chân ra ngoài kết giới.
+Hạ quyết tâm xong, Rei cùng Set bước ra ngoài kết giới.
 
 "Oa, thật đấy à."
 
-Vừa đặt chân ra ngoài kết giới, thứ cậu cảm nhận được ngay tức khắc là hiện diện dày đặc đến nghẹt thở của vô số sinh vật sống. Trước khi trở thành Rei, Reiji từng sống ở một thị trấn miền quê vùng Tohoku. Gần đó dĩ nhiên có núi non, sông suối. Những loài động vật như thỏ, sóc, hươu, khỉ, cáo, lửng chó hay lợn rừng vốn chẳng phải hiếm thấy. Đi sâu vào trong núi, đôi khi người ta thậm chí còn thấy cả gấu từ đằng xa. Thế nhưng, vô vàn khí tức mà Rei đang cảm nhận lúc này hoàn toàn vượt xa những điều đó.
+Vừa bước chân ra khỏi kết giới, cậu lập tức cảm nhận được vô số khí tức sinh vật dày đặc đến mức áp đảo. Trước khi thành Rei, Reiji từng sống ở một thị trấn miền quê vùng Tohoku, quanh đó dĩ nhiên có đủ núi non sông suối. Chuyện bắt gặp thỏ, sóc, hươu, khỉ, cáo, lửng chó hay lợn rừng chẳng có gì lạ. Vào sâu trong núi, thỉnh thoảng từ đằng xa còn thấy cả gấu nữa. Thế nhưng, những luồng khí tức mà Rei đang cảm nhận lúc này lại vượt trội hoàn toàn so với tất cả những thứ đó.
 
-"Vả lại, đúng là dị giới có khác."
+"Với lại, đúng là dị giới có khác."
 
-Những thảm thực vật như cỏ cây bao bọc xung quanh kết giới, đối với một người từng sống ngay cạnh núi như Rei, phần lớn đều là những thứ cậu thấy lần đầu trong đời.
+Cây cối, bụi cỏ mọc um tùm quanh rìa kết giới, phần lớn đều là những loài mà ngay cả một người lớn lên cạnh núi như Rei cũng chưa từng thấy bao giờ.
 
-Hít một hơi không khí ban mai trong lành, cậu cùng Set cất bước tiến sâu vào khu rừng.
+Rei hít một hơi không khí ban mai trong lành rồi cùng Set bắt đầu bước vào rừng.
 
-Đúng là nơi bị bỏ hoang hàng trăm năm, chẳng hề có con đường nào ra hồn. Cây đại thụ cao ngút ngàn mọc khắp nơi nhưng khoảng cách giữa chúng tương đối thoáng nên việc đi lại cũng không đến mức quá vất vả, dẫu vậy với thân hình dài hơn hai mét của Set thì dường như vẫn có phần chật chội, thi thoảng chú Griffin lại gầm gừ vẻ bực dọc trong họng.
+Đúng là nơi bị bỏ hoang hàng trăm năm, chẳng hề có lấy một lối mòn ra hồn. Những thân đại thụ cao ngút mọc rải rác với khoảng cách vừa phải nên đi bộ cũng chẳng vất vả lắm. Dẫu vậy, với thân hình dài hơn hai mét của Set thì lối đi vẫn hơi chật, thi thoảng nó lại gầm gừ bực dọc trong cổ họng.
 
 "Gừưư."
 
-Set khẽ vỗ cánh rồi cọ cọ mặt vào người cậu. Có vẻ như nó muốn bay trên bầu trời khoáng đạt không chút cản trở thay vì phải chen chúc dưới mặt đất vướng víu.
+Set khẽ đập cánh rồi dụi mặt vào người cậu. Xem ra nó muốn bay trên bầu trời thoáng đãng thay vì phải lội bộ dưới mặt đất vướng víu này.
 
-Cậu đưa tay gãi nhè nhẹ lên đầu nó, thủ thỉ dặn dò.
+Cậu đưa tay gãi nhẹ lên đầu nó, vừa nói nhỏ như dỗ dành.
 
-"Bình tĩnh nào. Hôm qua tao bảo rồi đấy, trong khu rừng này có cả loài rồng sinh sống. Cứ bay lên trời khéo lại thành bữa sáng cho chúng nó ngay tắp lự đấy."
+"Bình tĩnh nào. Hôm qua tao nói rồi đấy thôi, trong rừng này có cả loài rồng sinh sống. Bay lên trời là thành bữa sáng cho chúng nó ngay lập tức đấy."
 
 "Gùuu."
 
-Nghe lời Rei, Set tiu nghỉu rũ cánh xuống. Dáng người thì to lớn thật đấy, nhưng dẫu sao cũng mới chào đời sang ngày thứ hai nên tính kiên nhẫn của nó vẫn còn non nớt lắm.
+Nghe Rei nói vậy, Set tiu nghỉu xụ vai xuống. Thân hình thì to xác thật đấy, nhưng dẫu sao cũng mới chào đời sang ngày thứ hai nên nó vẫn còn thiếu kiên nhẫn lắm.
 
-Chừng ba mươi phút kể từ lúc ra khỏi kết giới. Thời gian trôi qua tuy ngắn, nhưng nhờ Rei mang Giày Sleipnir giúp tăng tốc độ di chuyển còn Set là loài Griffin nên cả hai tiến bước trong rừng với tốc độ khá nhanh. Giữa lúc ấy, Rei chợt để mắt tới một cái cây đằng trước trĩu những quả trông có màu đỏ. Cậu tiến lại gần, vươn tay hái lấy một quả trên cành.
+Ra khỏi kết giới được chừng ba mươi phút. Thời gian tuy chưa lâu, nhưng nhờ Rei mang đôi Giày Sleipnir tăng tốc độ, còn Set lại là loài Griffin, cả hai đi xuyên rừng với tốc độ khá nhanh. Đúng lúc đó, Rei để mắt tới một cái cây phía trước đang sai thứ gì trông như quả màu đỏ. Cậu bước tới, vươn tay hái xuống một quả.
 
 "Này Set. Mày nghĩ quả này ăn được không?"
 
-Cầm trên tay thứ quả đỏ mọng cỡ nắm tay trông thoáng qua tựa như quả táo, cậu quay sang hỏi Set.
+Cậu cầm trên tay thứ quả đỏ cỡ nắm tay trông thoáng qua giống quả táo, quay sang hỏi Set.
 
 "Gùuu?"
 
-Nhưng dĩ nhiên Set làm sao phân biệt được, nó chỉ nghiêng đầu ngơ ngác.
+Nhưng dĩ nhiên Set làm sao phân biệt được, nó chỉ biết nghiêng đầu.
 
-Rei cùng Set chăm chú nhìn thứ quả màu đỏ. Nhưng rồi như chợt nghĩ ra điều gì, cậu khẽ nở nụ cười.
+Rei cùng Set đứng nhìn thứ quả đỏ ấy. Chợt như nghĩ ra điều gì, cậu khẽ mỉm cười.
 
-"Những lúc thế này chính là dịp tận dụng tri thức của Zepairu rồi."
+"Những lúc thế này đúng là lúc lôi tri thức của Zepairu ra dùng đây."
 
-Cậu lục tìm thông tin về loại quả giống táo trên tay từ tri thức của Zepairu.
+Cậu lật tìm trong tri thức của Zepairu thông tin về thứ quả giống táo trên tay.
 
 [Quả Clara]
 
-Một loại quả mọc trong rừng. Phần thịt quả có vị chua ngọt rất thơm ngon. Tuy nhiên, cũng vì ngon miệng nên rất nhiều quái vật và dã thú yêu thích loại quả này, do đó khi tìm thấy Quả Clara cần phải hết sức cẩn thận với xung quanh.
+Một loại quả mọc trong rừng. Thịt quả có vị chua ngọt rất ngon. Tuy nhiên, cũng vì vị ngon ấy mà nhiều quái vật lẫn dã thú rất ưa chuộng, nên khi thấy Quả Clara cần phải cảnh giác xung quanh.
 
-Đọc xong đoạn giải thích, sắc mặt Rei khẽ giật giật.
+Đọc xong dòng giải thích đó, mặt Rei cứng đờ.
 
-"Nguy rồi. Set, trước mắt rời khỏi đây đã. Thứ quả này..."
+"Nguy rồi. Set, mau rời khỏi đây trước đã. Thứ quả này..."
 
 "Gừưưưưưư!"
 
-Rei toan rời đi ngay lập tức, nhưng xem ra đã chậm một bước, Set đang nhìn về phía bên phải khu rừng và cất tiếng gầm gừ đầy cảnh giác.
+Rei toan bỏ đi ngay, nhưng xem ra đã chậm một bước. Set đang nhìn chằm chằm về phía bên phải trong rừng, cổ họng phát ra tiếng gầm gừ cảnh giác.
 
-"...Chậm chân rồi à. Mà thôi, không tránh được thì đành chịu. Ngoan ngoãn biến thành thức ăn cho tao với Set nhé."
+"...Chậm mất rồi à. Mà thôi, đằng nào cũng chẳng tránh được. Ngoan ngoãn làm bữa ăn cho tao với Set vậy."
 
-Như thể chuyển đổi tâm lý trong tích tắc để lấy lại bình tĩnh, Rei cất Quả Clara vào Nhẫn Sương Mù rồi thủ thế với Lưỡi Hái Tử Thần.
+Rei bình tĩnh lại gần như ngay tức khắc, như vừa gạt phăng mọi phân tâm. Cậu cất Quả Clara vào Nhẫn Sương Mù rồi giơ Lưỡi Hái Tử Thần lên thủ thế.
 
-Lúc này bản thân cậu không hề nhận ra, nhưng trong lòng Rei hoàn toàn không có lấy một chút sợ hãi hay do dự thái quá trước trận chiến.
+Bản thân cậu lúc này không hề nhận ra, trong lòng mình hoàn toàn chẳng có chút sợ hãi hay do dự thừa thãi nào trước trận đánh.
 
-"Nào, xem con gì ló ra đây? Chí ít mong là động vật hoang dã như lợn rừng chứ đừng phải quái vật thì mừng quá."
+"Nào, xem thứ gì chui ra đây? Mong chỉ là thú rừng như lợn rừng thôi, chứ đừng phải quái vật thì tốt biết mấy."
 
-Cầu mong chẳng đáng gọi là hy vọng ấy nhanh chóng bị dập tắt, thứ lù lù xuất hiện thoạt nhìn trông như một con gấu dài chừng hai mét. Thế nhưng, một con gấu toàn thân như được bao bọc bởi một lớp nước bao quanh bộ lông thì dù nghĩ thế nào cũng là quái vật chứ chẳng thể là dã thú.
-
-"..."
+Mong ước nhỏ nhoi ấy nhanh chóng tan tành. Thứ lù lù bước ra thoạt nhìn giống một con gấu dài chừng hai mét. Thế nhưng, một con gấu có lớp nước phủ quanh bộ lông thế kia thì có nghĩ kiểu gì cũng là quái vật chứ chẳng thể nào là thú thường được.
 
 "..."
 
 "..."
 
-Trong vài giây, Rei và Set lặng lẽ nhìn trừng trừng vào con gấu trước mắt.
+"..."
 
-Kích thước của nó chưa đầy hai mét, nhưng vì thân hình cao lớn theo chiều dọc nên trông có phần to hơn cả Set. Dáng người nó vạm vỡ thấy rõ, đồng thời trên bộ lông luôn phủ một lớp nước. Hai chi trước mọc ra những chiếc vuốt dài sắc nhọn cỡ ba mươi phân, toát lên vẻ hung hãn dị thường. Trong đầu Rei còn đang mải thắc mắc sao nước phủ trên lông lại không nhỏ xuống thì con Gấu Nước (tên tạm gọi) trước mắt đã phá tan bầu không khí im lặng, đúng như dự đoán.
+Suốt vài giây, Rei, Set và con gấu trước mặt cứ thế im lặng nhìn nhau.
+
+Con gấu dài chưa tới hai mét, nhưng vì dáng cao lênh khênh theo chiều dọc nên trông lại to hơn cả Set. Thân hình nó vạm vỡ thấy rõ, trên bộ lông lúc nào cũng bọc một lớp nước. Từ hai chi trước mọc ra những chiếc vuốt sắc dài cỡ ba mươi phân, trông đến là dữ tợn. Trong đầu Rei còn đang mải thắc mắc sao nước bám trên lông mà chẳng nhỏ giọt xuống, thì đúng như dự liệu, con Gấu Nước (tên tạm gọi) trước mặt đã phá vỡ sự im lặng.
 
 "Gàoooooo!"
 
-Vừa gầm lên một tiếng vang vọng khắp khu rừng, nó vừa hạ bốn chân xuống đất rồi lao thẳng về phía Rei và Set.
+Nó gầm lên một tiếng vang dội khắp vùng, rồi chống cả bốn chân xuống đất, lao thẳng về phía Rei và Set.
 
 "Chậc, chỉ còn cách đánh thôi. Set, lên nào!"
 
 "Grrr!"
 
-Cất tiếng kêu dứt khoát như đáp đã rõ, Set bước lên phía trước nghênh chiến Gấu Nước. Rei cũng vào thế với Lưỡi Hái Tử Thần bám sát theo sau.
+Set rống lên một tiếng sắc lẹm như đáp lại, rồi lao lên phía trước đón đánh con Gấu Nước. Rei cũng nắm chặt Lưỡi Hái Tử Thần, bám sát ngay sau.
 
 "Gào!"
 
-Nhận thấy con mồi không tháo chạy mà lại xông thẳng về phía mình, con Gấu Nước nhe cặp nanh dài chừng mười phân, mượn đà lao tới vung bộ vuốt sắc nhọn giáng xuống Set.
+Thấy con mồi chẳng những không chạy mà còn xông thẳng tới, con Gấu Nước nhe hàm răng nanh dài phải đến mười phân, mượn luôn đà lao vung bộ vuốt sắc nhọn giáng xuống Set.
 
 "Grrr!"
 
-Set nghiêng mình nhảy sang một bên né đòn. Nó mượn lực đạp mạnh vào thân cây cạnh đó, mượn đà bật ngược lại theo thế tam giác rồi giáng mạnh móng vuốt đại bàng sắc nhọn ở chân trước vào thân mình con Gấu Nước vừa đánh hụt.
+Set nhảy sang ngang né gọn cú vồ. Tới thân cây bên cạnh, nó đạp mạnh bật ngược lại như thế nhảy tam giác, giáng thẳng cặp vuốt đại bàng sắc bén ở chân trước vào thân con Gấu Nước vừa đánh hụt.
 
-Liếc nhìn thân cây gãy rắc sau khi bị Set lấy làm điểm tựa giẫm lên, Rei vừa cười khổ trước sức mạnh cơ bắp của chú Griffin vừa chĩa Lưỡi Hái Tử Thần về phía trước... Có điều, cậu không chĩa phần lưỡi hái mà lại chĩa phần cán ra trước. Xét cho cùng, giữa cánh rừng này gần như chẳng có khoảng trống nào đủ rộng để thoải mái vung một lưỡi đại hái dài tới hai mét. Vì thế, cậu quyết định dùng phần cán như một ngọn thương.
+Liếc thấy thân cây mà Set vừa đạp làm bệ đỡ đã gãy rắc, Rei cười khổ trước sức mạnh của nó, rồi cũng đưa Lưỡi Hái Tử Thần lên thủ thế... Có điều, cậu không hướng phần lưỡi mà lại chĩa đầu cán ra trước. Trong khu rừng rậm rạp này gần như chẳng có khoảng trống nào để vung vẩy cây đại hái dài hai mét cả. Vậy nên cậu đành dùng phần cán như một cây thương.
 
 "Gao!"
 
-Trúng đòn cào xé từ vuốt sắc của Set, con Gấu Nước gầm lên đau đớn nhưng vẫn tiếp tục vung vuốt nhắm vào Set một lần nữa.
+Lĩnh trọn cú cào xé thịt từ vuốt sắc của Set, con Gấu Nước rống lên đau đớn, nhưng vẫn lập tức vung vuốt giáng xuống nó thêm lần nữa.
 
-Set nhảy lùi lại phía sau né đòn. Cú vung vuốt hụt khiến con Gấu Nước mất đà lảo đảo... và chớp đúng sơ hở ấy, Rei đâm thẳng cán Lưỡi Hái Tử Thần vào mạn sườn con quái vật!
+Set bật nhảy lùi lại né tránh. Đánh hụt, con Gấu Nước mất thăng bằng loạng choạng... Chớp đúng sơ hở ấy, Rei đâm thẳng cán Lưỡi Hái Tử Thần vào mạn sườn nó!
 
-Kèm theo một tiếng "thịch" trầm đục, cán Lưỡi Hái Tử Thần xuyên thẳng qua mạn sườn con Gấu Nước như thể lớp nước cùng bộ lông bọc quanh người nó hoàn toàn vô dụng.
-
-"Gàooo!"
-
-Cảm giác sền sệt khi đâm xuyên da thịt khiến Rei khẽ nhíu mày, nhưng thấy con Gấu Nước đang vung vuốt phải lên, cậu liền dồn sức rút cán hái ra rồi lùi lại giữ khoảng cách trước khi cú vung tay đầy uy lực kia giáng xuống. Khoảnh khắc cán hái rút ra, một ít máu của con quái vật bắn tóe lên những ngọn cỏ xung quanh, nhưng con Gấu Nước dường như chẳng hề bận tâm mà vẫn hung hãn bổ móng vuốt xuống.
+Kèm theo một tiếng thịch nặng nề, cán Lưỡi Hái Tử Thần đâm xuyên thẳng mạn sườn con Gấu Nước, mặc kệ lớp nước lẫn bộ lông dày của nó.
 
 "Gàooo!"
 
-Con Gấu Nước gầm rống vì kinh ngạc lẫn tức tối khi bị sinh vật nhỏ bé trước mắt làm bị thương, dẫu vậy vết thương đó cũng chẳng hề nhẹ. Có điều, nếu xét theo sức sống dẻo dai của loài quái vật thì đó vẫn chưa phải là vết thương chí mạng.
+Cảm giác sền sệt lúc đâm xuyên thịt khiến Rei khẽ nhíu mày, nhưng vừa thấy con Gấu Nước giơ vuốt phải lên, cậu liền gồng sức giật mạnh cán hái ra rồi lùi lại giữ khoảng cách trước khi cú tát trời giáng kịp ập xuống. Khi cán hái rút ra, chút máu rỉ ra vương vãi lên đám cỏ xung quanh, song con Gấu Nước chẳng thèm bận tâm, vẫn hung hãn bổ vuốt xuống.
 
-Quan sát con Gấu Nước, trong lòng Rei không giấu nổi nỗi ngạc nhiên trước năng lực thể chất của chính mình. Suy cho cùng, thứ cậu dùng để đâm chỉ là phần cán của cây đại hái. Nơi đó dĩ nhiên chẳng có lưỡi dao nào, thành ra cậu không ngờ đòn đánh của mình lại đủ uy lực để đâm thủng da thịt con quái vật như thế.
+"Gàooo!"
 
-(Khả năng thể chất của cơ thể này cao hơn mình tưởng.)
+Con Gấu Nước gầm rống vừa kinh ngạc vừa tức tối vì bị thứ sinh vật bé nhỏ trước mặt đả thương, mà thật ra vết thương kia cũng chẳng hề nhẹ. Có điều, xét đến sức sống dẻo dai của loài quái vật thì chừng đó vẫn chưa đủ chí mạng.
 
-Thầm nhủ trong lòng, cậu quan sát tình hình của con Gấu Nước.
+Vừa quan sát con Gấu Nước, Rei vừa không khỏi giật mình trước thể chất của bản thân. Suy cho cùng, thứ cậu vừa dùng để đâm chỉ là phần cán cây đại hái. Đầu cán dĩ nhiên chẳng có lưỡi dao nào cả, thế mà đòn đánh vẫn đủ lực xuyên thủng da thịt con quái vật.
+
+(Thể chất của cơ thể này đúng là cao hơn mình tưởng.)
+
+Thầm nhủ vậy, cậu tiếp tục dò xét tình hình con Gấu Nước.
 
 "...Gì cơ?"
 
-Nhưng lần này, đến lượt Rei phải sững sờ. Chỗ mạn sườn vốn bị cán hái đâm xuyên của con Gấu Nước vừa được lớp nước bao bọc lấy thì đã bắt đầu tái tạo với tốc độ mắt thường có thể nhìn thấy rõ. Chỉ trong khoảng mười giây Rei còn đang chết sững vì kinh ngạc, máu chảy ra từ vết thương nơi mạn sườn con quái vật đã ngưng hẳn, thậm chí ngay cả dấu vết tổn thương cũng biến mất không tì vết.
+Thế nhưng lần này lại đến lượt Rei sững sờ. Chỗ mạn sườn bị cán hái đâm xuyên vừa được lớp nước bọc lấy liền bắt đầu tái tạo với tốc độ thấy rõ bằng mắt thường. Chỉ trong khoảng mười giây cậu còn đang đứng sững ra nhìn, máu từ vết thương đã cầm hẳn, rồi cả miệng vết thương cũng khép lại biến mất tăm.
 
-"Đúng là quái vật có khác... Nghĩa là không còn cách nào ngoài việc tung một đòn đủ sức gây sát thương cực lớn mà không cho nó kịp thời gian hồi phục sao."
+"Đúng là quái vật có khác... Nói vậy là chỉ còn cách dứt điểm bằng một đòn thật nặng, không cho nó kịp thời gian hồi phục thôi."
 
-Cậu liếc nhìn về phía lưỡi của Lưỡi Hái Tử Thần, rồi chợt nhận ra.
+Cậu liếc mắt nhìn lên phần lưỡi đại hái, rồi chợt nhớ ra.
 
-(Chết tiệt. Mình quên khuấy mất Lưỡi Hái Tử Thần có khả năng tăng uy lực khi truyền ma lực vào. Đúng là trận chiến đầu tiên nên căng thẳng... Căng thẳng ư?)
+(Chết dở. Mình quên khuấy mất Lưỡi Hái Tử Thần còn có khả năng truyền ma lực vào để tăng uy lực. Đúng là trận đầu tiên nên căng thẳng... Mà căng thẳng ư?)
 
-Nghĩ đến đó, cậu mới nhận thức được mức độ căng thẳng của mình. Căng thẳng thì có, nhưng cậu lại không hề rơi vào tình trạng bất động vì quá sợ hãi như những tân binh hay tay mơ thường thấy trong tiểu thuyết.
+Nghĩ tới đây, cậu mới để ý mức độ căng thẳng của mình. Căng thẳng thì có thật, nhưng cậu chẳng hề bị cứng đờ tay chân vì quá run như đám tân binh hay tay mơ hay gặp trong tiểu thuyết.
 
-(Đây cũng là kết quả của việc dung hợp sao.)
+(Đây cũng là nhờ dung hợp sao.)
 
-Vừa ngẫm nghĩ, cậu vừa thăm dò động thái của con Gấu Nước lúc này đang phân vân không biết nên tấn công Rei hay Set.
+Vừa nghĩ, cậu vừa dè chừng quan sát con Gấu Nước đang lưỡng lự chưa biết nên nhắm vào cậu hay Set.
 
-(Trong số những quân bài hiện có thì Lưỡi Hái Tử Thần có sức tấn công cao nhất, nhưng giữa khu rừng này lại không đủ không gian để thoải mái vung hái. Còn dùng ma thuật hệ Hỏa trong rừng thì kiểu gì cũng hỏng bét.)
+(Trong tay mình lúc này, thứ đánh mạnh nhất là Lưỡi Hái Tử Thần, nhưng giữa rừng rậm thế này lấy đâu ra chỗ trống mà vung vẩy. Còn dùng ma thuật hệ Hỏa trong rừng thì kiểu gì cũng dở.)
 
-Trong lúc Rei còn đang cân nhắc trong đầu, một người hai thú gồm Set, con Gấu Nước và Rei đều không dám manh động, cục diện rơi vào thế giằng co.
+Trong lúc Rei còn đang tính toán, cả cậu, Set lẫn con Gấu Nước đều chẳng dám manh động, cục diện rơi vào thế giằng co.
 
-Về phía con Gấu Nước, nếu tấn công Set thì sẽ bị Rei chớp sơ hở, ngược lại nếu tấn công Rei thì Set cũng sẽ đánh úp.
+Con Gấu Nước thì hễ lao vào Set là bị Rei chớp sơ hở, mà quay sang đánh Rei thì lại hở lưng cho Set.
 
-Còn về phía Set và Rei, một đòn đâm xuyên mạn sườn mà đối phương chỉ mất khoảng mười giây đã hồi phục hoàn toàn thì việc tấn công bừa bãi dường như chẳng mang lại ý nghĩa gì.
+Còn phía Rei và Set, thấy một đòn đâm xuyên mạn sườn mà đối thủ chỉ mất mươi giây đã lành hẳn, nên đánh bừa cũng chẳng ích gì.
 
-Thật ra, lớp nước bao quanh người con Gấu Nước mỗi khi dùng để hồi phục như lúc nãy đều tiêu tốn ma lực, nhưng vì đây là trận đầu tiên nên Rei chưa hề nhận ra. Nếu biết được điều đó, hẳn cậu đã có thêm nhiều phương án để xử lý hơn rồi.
+Thật ra, lớp nước bọc quanh người con Gấu Nước hễ dùng để hồi phục như lúc nãy là lại tiêu hao ma lực, chỉ tiếc đây mới là trận đầu nên Rei không nhận ra. Giá mà biết sớm hơn, cậu đã có khối cách để đối phó.
 
 "Gàoo."
 
 "Gừưư."
 
-Con Gấu Nước và Set cùng gầm gừ như muốn uy hiếp đối phương. Quan sát cảnh tượng ấy, Rei ra sức vận dụng trí óc.
+Con Gấu Nước và Set cứ thế gầm gừ dọa nạt nhau. Vừa trông chừng hai bên, Rei vừa vắt óc suy tính.
 
-(Phải làm sao đây, hay là đánh cược truyền ma lực vào Lưỡi Hái Tử Thần rồi vung trọn một nhát đại hái? Với thể lực của cơ thể này thì chắc là chém đứt luôn cả cây cối xung quanh lẫn con gấu được. ...Không, trò đánh cược đó chỉ nên dùng làm hạ sách cuối cùng thôi. Nhưng ngoài ra thì còn cách nào khác... Chấp nhận nguy cơ cháy rừng để dùng ma thuật hệ Hỏa ư? Thế thì lại càng không được. Nghĩ đến độ rộng lớn của khu rừng trong mớ tri thức thì hậu quả của một vụ cháy rừng chẳng phải chuyện đùa đâu. ...Khoan đã. Cháy rừng? Ma thuật hệ Hỏa? Cán Lưỡi Hái Tử Thần... Hử!? Ra là thế!)
+(Làm sao đây, hay đánh liều truyền ma lực vào Lưỡi Hái Tử Thần rồi vung một nhát thật mạnh? Với sức vóc cơ thể này chắc chém đứt luôn cả cây cối xung quanh lẫn con gấu được đấy. ...Không, trò đánh cược kiểu đó chỉ nên để làm hạ sách thôi. Nhưng ngoài ra còn cách nào nữa... Đánh liều dùng ma thuật hệ Hỏa bất chấp cháy rừng ư? Thế thì càng không được. Nghĩ tới độ rộng của khu rừng này theo tri thức có được, lỡ cháy lan thì chẳng phải chuyện đùa đâu. ...Khoan đã. Cháy rừng? Ma thuật hệ Hỏa? Cán Lưỡi Hái Tử Thần... Hả!? Phải rồi!)
 
-Ý nghĩ lóe lên trong đầu và nhanh chóng được sắp xếp lại, Rei cất tiếng gọi Set lúc này đang trừng mắt nhìn con Gấu Nước.
+Vừa lóe lên ý tưởng và chốt xong kế hoạch trong tích tắc, Rei liền gọi Set lúc này vẫn đang gườm gườm nhìn con Gấu Nước.
 
-"Set, phiền mày làm con Gấu Nước đó mất thăng bằng lần nữa như lúc nãy nhé! Lúc đó phần còn lại cứ để tao lo!"
+"Set, phiền mày đánh cho con Gấu Nước kia mất thăng bằng thêm lần nữa như lúc nãy đi! Xong phần còn lại cứ để tao lo!"
 
 "Grrr!"
 
-Kêu vang một tiếng như bảo cứ để đó cho nó, Set bắt đầu di chuyển vòng quanh nhằm thu hút toàn bộ sự chú ý của con Gấu Nước về phía mình.
+Set kêu vang một tiếng như bảo cứ để đó cho nó, rồi bắt đầu đi vòng quanh để kéo hết sự chú ý của con Gấu Nước về phía mình.
 
 "Gàoo."
 
-Con Gấu Nước dường như cũng không thể ngó lơ hành động ấy, nó dần chuyển sự cảnh giác từ Rei sang tập trung vào Set.
+Con Gấu Nước cũng chẳng thể làm ngơ được mãi, nó dần rời mắt khỏi Rei, dồn hết sự chú ý sang Set.
 
-Thế giằng co ấy không biết đã kéo dài bao lâu. Với Rei thì cuộc đối đầu căng thẳng này tưởng chừng dài đằng đẵng, nhưng thực chất có lẽ chỉ diễn ra trong vài phút. Không thể kiên nhẫn chịu đựng thêm nữa, con Gấu Nước gầm vang.
+Khoảng thời gian ấy không biết đã kéo dài bao lâu. Với Rei thì màn đối đầu căng thẳng này ngỡ như dài đằng đẵng, nhưng thực tế chắc chỉ chừng vài phút. Cuối cùng, không nhịn nổi nữa, con Gấu Nước gầm vang.
 
 "Gàoooooooo!"
 
-Cùng lúc với tiếng gầm ấy, lớp nước bao bọc bộ lông con Gấu Nước bốc lên rồi biến thành ba quả cầu nước nhỏ lơ lửng trước mặt nó. Chớp mắt sau, ba quả cầu nước lập tức bắn thẳng về phía Set.
+Cùng lúc tiếng gầm vang lên, lớp nước bọc quanh bộ lông con Gấu Nước bốc lên không, tụ lại thành ba quả cầu nước nhỏ trước mặt nó. Ngay tích tắc sau, cả ba quả cầu phóng thẳng về phía Set.
 
 (Chính là lúc này!)
 
-Nhìn động thái của con Gấu Nước và Set, nhận định đây là thời khắc định đoạt thắng bại, Rei tập trung tinh thần chuẩn bị niệm chú bất cứ lúc nào, đồng thời siết chặt cán Lưỡi Hái Tử Thần dõi theo cục diện.
+Thấy cục diện giữa con Gấu Nước và Set sắp ngã ngũ, Rei liền tập trung tinh thần chuẩn bị sẵn sàng niệm chú, tay siết chặt cán Lưỡi Hái Tử Thần dõi theo diễn biến.
 
-Ba quả cầu nước xé toạc không trung phóng tới từ con Gấu Nước. Nhìn thấy rõ đòn tấn công, Set luồn lách qua các thân cây để thu hẹp khoảng cách với con quái vật.
+Ba quả cầu nước từ con Gấu Nước xé gió lao tới. Thấy vậy, Set luồn lách qua các thân cây, rút ngắn khoảng cách với con quái vật.
 
 "Grrr!"
 
-Một quả cầu nước trúng vào thân cây mà Set dùng làm lá chắn, khoét sâu một mảng lớn.
+Một quả cầu nước đập trúng thân cây Set dùng làm lá chắn, khoét sâu vào thớ gỗ.
 
 "Gừưư!"
 
-Quả cầu nước nhắm thẳng vào đầu Set bị nó cúi rạp người né tránh trong chớp mắt. Quả cầu bay sượt qua đầu rồi va vào thân cây phía sau, làm văng tung tóe những mảnh gỗ cùng những giọt nước ra tứ phía.
+Quả thứ hai nhắm thẳng vào đầu, nhưng Set kịp rạp người xuống đất né trong gang tấc. Quả cầu sượt qua đỉnh đầu nó rồi đâm sầm vào gốc cây phía sau, làm mảnh gỗ lẫn nước bắn tung tóe khắp nơi.
 
 "Gừưưưưưư!"
 
-Từ tư thế áp sát mặt đất, nó tận dụng sức bật của toàn thân lao vọt lên phía trước, nhanh chóng thu hẹp khoảng cách với con Gấu Nước.
+Từ tư thế nằm rạp dưới đất, nó bung hết sức bật toàn thân lao vút lên, áp sát con Gấu Nước trong chớp mắt.
 
-Cảnh tượng ấy trông như thể nó muốn tung một đòn vào con Gấu Nước trước khi quả cầu nước cuối cùng kịp bắn trúng mình.
+Nhìn cái đà ấy, rõ ràng nó định tung đòn vào con Gấu Nước trước khi quả cầu nước cuối cùng kịp đánh trúng mình.
 
 "Gào!"
 
-...Ít nhất là trong mắt con Gấu Nước thì có vẻ như vậy. Bởi thế con quái vật cất tiếng gầm đắc thắng. Nhưng không.
+...Ít nhất trong mắt con Gấu Nước thì là như thế. Bởi vậy nó mới cất tiếng gầm đắc thắng. Thế nhưng.
 
 "Gừưư!"
 
-Quả cầu nước đổi hướng giữa không trung rồi bổ thẳng từ trên xuống nhắm vào thân mình Set. Thế nhưng ngay trước khi đánh trúng cơ thể Set, đòn tấn công ấy bỗng vỡ tan thành từng mảnh như thể vừa va phải một vật cản vô hình.
+Quả cầu nước bẻ hướng giữa không trung, bổ thẳng từ trên xuống nhắm vào lưng Set. Ấy vậy mà ngay sát lúc sắp chạm vào người nó, quả cầu bỗng vỡ tung như thể đâm sầm phải một bức tường vô hình.
 
 "Gao!?"
 
-Con Gấu Nước không hiểu chuyện gì vừa xảy ra. Điều đó cũng dễ hiểu thôi. Là một quái vật, nó làm sao biết được một trong những chiếc vòng mà Set đang đeo, [Vòng Tay Điều Phong], có khả năng vô hiệu hóa mọi vũ khí tầm xa cùng ma thuật tấn công, dù chỉ giới hạn một lần duy nhất trong mười tiếng đồng hồ. Bởi vậy.
+Con Gấu Nước ngơ ngác chẳng hiểu chuyện gì vừa xảy ra. Điều đó cũng dễ hiểu thôi. Là một con quái vật, nó làm sao biết được chiếc [Vòng Tay Điều Phong] Set đang đeo có thể vô hiệu hóa mọi đòn tầm xa lẫn ma thuật tấn công, dù chỉ dùng được một lần mỗi mười tiếng. Thành ra.
 
 "Gừưưưưư!"
 
-Áp sát vào lòng con Gấu Nước, Set vừa gầm lên dũng mãnh vừa dùng chân trước bên phải móc một đòn hất văng chân đối thủ!
+Lọt vào sát sườn con Gấu Nước, Set gầm lên một tiếng rồi vung chân trước bên phải, quét mạnh một đòn móc thẳng vào chân đối thủ!
 
 "Gàoo!?"
 
-Bị ngáng chân theo đúng nghĩa đen, con Gấu Nước ngã nhào xuống đất. Đó là nhờ sức mạnh cơ bắp được gia tăng từ một chiếc vòng khác mà Set đang đeo, [Vòng Tay Cường Lực].
+Bị quét chân theo đúng nghĩa đen, con Gấu Nước ngã nhào ngay tại chỗ. Cú đánh nặng như vậy là nhờ chiếc vòng còn lại trên chân Set, [Vòng Tay Cường Lực], giúp tăng mạnh sức lực cho nó.
 
-Đặt trọn niềm tin vào Set và kiên nhẫn chờ thời cơ, ngay khoảnh khắc con Gấu Nước ngã xuống, Rei lập tức vận chuyển ma lực, vừa cất tiếng niệm chú vừa lao về phía con quái vật đang nằm sõng soài.
+Tin tưởng ở Set nên nãy giờ vẫn đứng chờ sẵn, ngay khoảnh khắc con Gấu Nước ngã xuống, Rei lập tức tụ ma lực, vừa niệm chú vừa lao thẳng về phía con quái vật.
 
 [Hỡi ngọn lửa, ngươi là mãng xà. Vì thế hãy thiêu rụi kẻ thù theo ý muốn của ta]
 
-Thế giới dần được viết lại bởi câu thần chú chứa chan ma lực. Ngọn lửa lập tức tụ lại nơi Lưỡi Hái Tử Thần đóng vai trò là vật phát động ma thuật...
+Câu thần chú thấm đẫm ma lực làm thế giới biến đổi. Ngọn lửa theo đó tụ lại nơi Lưỡi Hái Tử Thần, vật phát động ma thuật...
 
 "Ha!"
 
 "Gao!?"
 
-Cậu lại cắm phập cán Lưỡi Hái Tử Thần vào lưng con Gấu Nước đang nằm rạp dưới đất rồi hoàn tất câu chú cuối cùng.
+Cậu đâm thẳng cán Lưỡi Hái Tử Thần vào lưng con Gấu Nước đang nằm rạp rồi dứt câu chú cuối cùng.
 
 [Vũ Điệu Hỏa Xà!]
 
-Khoảnh khắc câu chú hoàn thành, con rắn bằng lửa phóng ra từ cán Lưỡi Hái Tử Thần trườn từ lưng lên đầu con Gấu Nước, thiêu đốt phần bên trong cơ thể nó...
+Vừa dứt câu chú, một con rắn lửa phóng ra từ cán Lưỡi Hái Tử Thần, trườn dọc từ lưng lên đầu con Gấu Nước, thiêu đốt toàn bộ bên trong thân xác nó...
 
 "Gàoooooooo!"
 
-Cất lên tiếng thét xé lòng chất chứa nỗi kinh hoàng và đau đớn tột cùng khi não bộ bị thiêu cháy, con Gấu Nước đổ sụp xuống đất, không còn cựa quậy.
+Thét lên một tiếng đầy kinh hoàng và đau đớn tột cùng khi bộ não bị thiêu rụi, con Gấu Nước đổ sụp xuống ngay tại chỗ.
