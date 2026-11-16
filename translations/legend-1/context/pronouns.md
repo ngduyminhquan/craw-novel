@@ -129,3 +129,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Scola | Rei | tôi | cậu / người này | 46 | Lịch sự, xin lỗi thay cho Culotte |
 | Rei | Scola | tôi | cậu | 46 | Lịch sự, tự nhiên |
 | Gran | * | ta / tôi | các cậu / các người / ngươi / cậu | 46 | Người phụ trách bài thi thăng hạng |
+| Scola | Filma | tôi | cô | 47 | Giao tiếp lịch sự giữa các thí sinh bài thi thăng hạng |
+| Filma | Scola | tôi | cậu | 47 | Giao tiếp lịch thiệp giữa các thí sinh bài thi thăng hạng |
+| Arogan | Culotte | tôi | cô | 47 | Arogan coi thường đối thủ nữ nhưng sau đó nghiêm túc |
+| Culotte | Arogan | tôi | anh | 47 | Culotte bực tức khi bị coi thường giới tính |
+| Superbia | Gran | tôi | giám khảo | 47 | Thí sinh nói với giám khảo bài thi |
+| Arogan | Gran | tôi | giám khảo | 47 | Arogan nói với giám khảo Gran |

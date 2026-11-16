@@ -149,6 +149,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Arogan
 - Nam thanh niên trạc 18-22 tuổi, mạo hiểm giả Hạng E tại Gilm.
 - Sở hữu một thanh ma kiếm lưỡi đen hoa văn đỏ, tự tin thái quá và háo thắng.
+- Vũ khí và năng lực: ma kiếm lưỡi đen hoa văn đỏ có hiệu lực tăng cường thể chất cho người cầm (đã sử dụng khá thuần thục, nhưng từng bị Rei đánh bật dễ dàng)
 
 ### Culotte
 - Thiếu nữ trạc 17-19 tuổi, tóc ngắn cắt gọn, mặc giáp da quái vật, hông dắt hai đoản kiếm; nghề nghiệp đạo tặc, chuyên trinh sát và đặt bẫy.
@@ -157,7 +158,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Scola
 - Nam thiếu niên trạc 17-19 tuổi, gương mặt mộc mạc chất phác, mặc áo choàng cầm gậy phép; bạn đồng hành tổ đội cùng Culotte.
 - Tính cách hiền lành, biết điều, dễ ngượng ngùng đỏ mặt khi được khen; hay cúi đầu xin lỗi thay cho cô bạn Culotte.
-- Kỹ năng: sử dụng được ma pháp hệ Thủy, Phong và ma pháp hồi phục (thiên phú hiếm có kết hợp cả công kích và hồi phục).
+- Kỹ năng: sử dụng được ma pháp hệ Thủy (Roi Nước), Phong (Mũi Tên Gió) và ma pháp hồi phục (thiên phú hiếm có kết hợp cả công kích và hồi phục)
 
 ### Superbia
 - Nam thanh niên ngoài 20 tuổi (khoảng 21-22), ánh mắt sắc bén lạnh lùng, trang bị kiếm dài thông thường; tác phong trầm tĩnh, tự tin vào kiếm thuật.
@@ -167,3 +168,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nữ Elf có ngoại hình thiếu nữ trạc 17-19 tuổi, gương mặt thanh tú, tai dài nhọn, mang theo cây cung lớn; tên đầy đủ là Filma Patrono, xuất thân quý tộc Elf.
 - Nghề nghiệp: Ranger (hoặc Tinh Linh Ma Pháp Sư), sở hữu tài năng hiếm có kết hợp cung thuật điêu luyện và Tinh Linh Ma Pháp.
 - Tính cách: điềm đạm, đoan trang, tự tin.
+- Kỹ năng: cung thuật, Tinh Linh Ma Pháp (giao tiếp trực tiếp với tinh linh không cần vật phát động; điều khiển Tinh Linh Gió tạo tường phòng thủ, Tinh Linh Đất làm sụt lún mặt đất, kết hợp cả hai trói buộc đối thủ)
