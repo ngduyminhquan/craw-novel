@@ -12,6 +12,7 @@
 - Văn hiện đại, tự nhiên như truyện viết bằng tiếng Việt. Không dùng giọng Hán Việt nặng kiểu tiên hiệp (không "ta/ngươi" tràn lan trừ khi nhân vật cổ xưa như Zepairu nói chuyện).
 - Hán Việt chỉ dùng cho tên kỹ năng/ma thuật/danh hiệu/thuật ngữ (xem `rules.md`) và những chỗ tiếng Việt vốn dùng Hán Việt.
 - Dịch thoát ý câu văn tiếng Nhật (vốn nhiều cấu trúc bị động, lặp từ nối `～のだが`, `～といった所か`, `～という訳だ`), viết lại cho gọn và xuôi tai tiếng Việt.
+- Trong lời dẫn ngôi thứ 3, giữ giọng điềm tĩnh, chừng mực (không dùng từ lóng mạng hay thành ngữ lệch sắc thái như "tin sái cổ", "đầu đời" cho trải nghiệm thường); không trượt đại từ `"mình"` khi chủ ngữ mệnh đề là nhân vật/sinh vật khác tác động lên Rei (viết `"nhìn cậu"`, `"dụi vào người cậu"` thay vì `"nhìn mình"`, `"dụi vào người mình"`).
 - Giữ sự đối lập thú vị giữa vẻ ngoài ngầu/đáng sợ của Rei - Set và tính cách thực tế, ham ăn, thích làm nũng của Set.
 - Từ cảm thán, tiếng kêu chuyển sang dạng tiếng Việt tương ứng, thống nhất theo bảng dưới.
 - Không thêm thắt nội dung, không tóm tắt, không kiểm duyệt.
