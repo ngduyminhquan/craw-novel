@@ -50,6 +50,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Trenma | Trenma / người đàn ông trung niên | 64 | Phó đoàn trưởng kỵ sĩ đoàn Gilm |
 | Linde | cậu thiếu niên / Linde | 72 | Thiếu niên tạp vụ quán trọ |
 | Worker | Worker / anh ta | 73 | Đại diện chi nhánh Hội |
+| Zack | người đàn ông / Zack | 77 | Đạo tặc trong tổ đội Hạng C gặp ở tầng 3 hầm ngục |
 
 ## Giữa các nhân vật
 
@@ -214,3 +215,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ara | Worker | tôi | anh | 73 | Nữ hiệp sĩ hộ vệ chất vấn đại diện Hội |
 | Worker | Ara | tôi | cô | 73 | Đại diện Hội xoa dịu nữ hiệp sĩ hộ vệ |
 | Elena | Kuust | ta | Kuust / cậu | 63 | Tiểu thư / chủ tướng nói với đội trưởng hộ vệ |
+| Zack | Rei | tôi | cậu | 77 | Mạo hiểm giả Hạng C giao tiếp với mạo hiểm giả trẻ tuổi |
+| Rei | Zack | tôi | anh | 77 | Mạo hiểm giả nói chuyện bình thường với mạo hiểm giả lớn tuổi hơn |

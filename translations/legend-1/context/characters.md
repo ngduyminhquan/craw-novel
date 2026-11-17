@@ -46,6 +46,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Trenma | トレンマ | Trenma | Phó đoàn trưởng kỵ sĩ đoàn Gilm | Chương 64 |
 | Linde | リンデ | Linde | Thiếu niên tạp vụ quán trọ ở ngôi làng quanh hầm ngục | Chương 72 |
 | Worker | ワーカー | Worker | Đại diện chi nhánh Hội Mạo Hiểm Giả tại ngôi làng quanh hầm ngục | Chương 73 |
+| Zack | ザック | Zack | Đạo tặc trong tổ đội mạo hiểm giả Hạng C chạm trán nhóm Rei ở tầng 3 hầm ngục | Chương 77 |
 
 ## Chi tiết
 
@@ -222,3 +223,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Worker
 - Nam thanh niên ngoài 20 đến đầu 30 tuổi, gương mặt hiền hòa dễ mến, giữ chức đại diện chi nhánh Hội Mạo Hiểm Giả kiêm quản lý tạm thời ngôi làng quanh hầm ngục.
+
+### Zack
+- Nam, ngoài 20 tuổi, đạo tặc của một tổ đội Hạng C gồm 4 người chạm trán nhóm Rei ở khu rừng nấm tầng 3 hầm ngục
+- Tính tình cởi mở, có kinh nghiệm, biết quan sát và giỏi thăm dò thực lực đối phương
