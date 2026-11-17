@@ -157,3 +157,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Filma | Superbia | tôi | anh / Superbia | 55 | Nói chuyện trong bài thi thăng hạng |
 | Scola | Superbia | tôi | anh | 55 | Thí sinh cùng tham gia bài thi thăng hạng |
 | Superbia | Scola | tôi | cậu | 55 | Thí sinh cùng tham gia bài thi thăng hạng |
+| Ekril | Lana | cháu / em | bác / cô | 59 | Khách quen gọi bà chủ quán trọ |

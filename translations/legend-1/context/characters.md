@@ -152,21 +152,25 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Sở hữu một thanh ma kiếm lưỡi đen hoa văn đỏ, tự tin thái quá và háo thắng.
 - Vũ khí và năng lực: ma kiếm lưỡi đen hoa văn đỏ có hiệu lực tăng cường thể chất cho người cầm (đã sử dụng khá thuần thục, nhưng từng bị Rei đánh bật dễ dàng)
 - Tâm lý: Hay hung hăng, ban đầu hoảng sợ trước việc giết chóc nhưng đến chương 53 đã vượt qua rào cản tâm lý và đoạt mạng người đầu tiên bằng ma kiếm
+- Trạng thái tính đến chương 59: Thăng lên Hạng D; cùng Culotte và Scola lập thành tổ đội 3 người
 
 ### Culotte
 - Thiếu nữ trạc 17-19 tuổi, tóc ngắn cắt gọn, mặc giáp da quái vật, hông dắt hai đoản kiếm; nghề nghiệp đạo tặc, chuyên trinh sát và đặt bẫy.
 - Tính cách hơi bốc đồng, sắc sảo, dễ căng thẳng trước bài thi lớn; hay để ý và cự nự vô cớ nhưng là bạn đồng hành ăn ý với Scola.
+- Trạng thái tính đến chương 59: Thăng lên Hạng D; cùng Scola và Arogan lập thành tổ đội 3 người
 
 ### Scola
 - Nam thiếu niên trạc 17-19 tuổi, gương mặt mộc mạc chất phác, mặc áo choàng cầm gậy phép; bạn đồng hành tổ đội cùng Culotte.
 - Tính cách hiền lành, biết điều, dễ ngượng ngùng đỏ mặt khi được khen; hay cúi đầu xin lỗi thay cho cô bạn Culotte.
 - Kỹ năng: sử dụng được ma pháp hệ Thủy (Roi Nước), Phong (Mũi Tên Gió, Cú Đấm Gió), Băng (Mũi Kim Băng) và ma pháp hồi phục (Thủy Trị Liệu; thiên phú hiếm có kết hợp cả công kích và hồi phục)
 - Tâm lý: Thiện lương, chưa từng giết người trước bài thi thăng hạng; dễ bị sốc tâm lý khi thấy đối phương quằn quại vì ma pháp của mình
+- Trạng thái tính đến chương 59: Thăng lên Hạng D; cùng Culotte và Arogan lập thành tổ đội 3 người
 
 ### Superbia
 - Nam thanh niên ngoài 20 tuổi (khoảng 21-22), ánh mắt sắc bén lạnh lùng, trang bị kiếm dài thông thường; tác phong trầm tĩnh, tự tin vào kiếm thuật.
 - Từng có kinh nghiệm thực chiến đoạt mạng người trong quá khứ.
 - Tính cách và tâm lý: Trầm tĩnh, biết tự nhìn nhận thực lực bản thân để học hỏi; ngầm ghen tị với những ai đào hoa được phái nữ vây quanh
+- Trạng thái tính đến chương 59: Thăng lên Hạng D; muốn tự rèn luyện nâng cao kiếm thuật ngang ngửa Rei trước khi tính chuyện lập tổ đội
 
 ### Filma
 - Nữ Elf có ngoại hình thiếu nữ trạc 17-19 tuổi, gương mặt thanh tú, tai dài nhọn, mang theo cây cung lớn; tên đầy đủ là Filma Patrono, xuất thân quý tộc Elf.
@@ -174,6 +178,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: điềm đạm, đoan trang, tự tin.
 - Kỹ năng: cung thuật, Tinh Linh Ma Pháp (giao tiếp trực tiếp với tinh linh không cần vật phát động; điều khiển Tinh Linh Gió tạo tường phòng thủ, Tinh Linh Đất làm sụt lún mặt đất hoặc phóng giáo đất từ dưới chân địch, kết hợp cả hai trói buộc đối thủ), cảm nhận ma lực nhạy bén (nhận biết lượng ma lực khổng lồ dị thường của Rei vượt xa tộc Elf lẫn High Elf)
 - Vũ khí: cây cung lớn là gia bảo truyền đời của gia tộc có thể cường hóa thuộc tính phong cho mũi tên
+- Trạng thái tính đến chương 59: Thăng lên Hạng D
 
 ### Kerebel
 - Nhân vật nòng cốt của Phe Quý Tộc, cha của Elena Kerebel (Công Chúa Tướng Quân)
