@@ -18,7 +18,7 @@ Lúc ấy, mấy con ngựa trong chuồng trông như vừa trút được gán
 
 Có lẽ do mùa hè đang dần khép lại, thời tiết hôm nay không giống những ngày trước mà có một lớp mây mỏng giăng kín trên bầu trời. Dưới tiết trời ấy, Rei và Set cùng nhau rảo bước ra phố.
 
-Trên đường tới Hội, cậu ghé vào mấy quầy hàng quen thuộc mua bánh sandwich rồi thịt xiên nướng vừa đi vừa chia cho Set cùng ăn; người dân thành phố Gilm thì cho Set thịt khô với bánh mì, lũ trẻ con cũng ríu rít ùa tới đùa nghịch bên cạnh nó. Cậu vừa đi vừa ngắm nhìn cảnh những người mới tới Gilm chưa biết chuyện vừa thoáng thấy Set đã hoảng hốt toan bỏ chạy, để rồi được những người xung quanh giữ lại giải thích. Cứ vừa đi vừa dạo như thế nên lúc hai đứa đến được Hội Mạo Hiểm Giả thì trời cũng đã xế chiều.
+Trên đường tới Hội, cậu ghé vào mấy quầy hàng quen thuộc mua bánh sandwich rồi thịt xiên nướng vừa đi vừa chia cho Set cùng ăn; người dân thành phố Gilm thì cho Set thịt khô với bánh mì, lũ trẻ con cũng ríu rít ùa tới đùa nghịch bên cạnh nó. Cậu vừa đi vừa ngắm nhìn cảnh những người mới tới Gilm chưa biết chuyện vừa thoáng thấy Set đã hoảng hốt toan bỏ chạy, để rồi được những người xung quanh giữ lại giải thích. Cứ vừa đi vừa dạo như thế nên lúc hai đứa đến được Hội Mạo Hiểm Giả thì buổi trưa cũng đã sắp qua.
 
 "Set, mày cứ đợi ở chỗ đỗ xe ngựa như mọi khi nhé. Có điều hôm nay có thể hơi lâu một chút đấy... Mà thôi, chắc chẳng sao đâu nhỉ."
 

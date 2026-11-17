@@ -45,6 +45,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elena | cô / tiểu thư Elena | 62 | Con gái Công tước Kerebel, Công Chúa Tướng Quân |
 | Kuust | anh / Kuust | 62 | Đội trưởng hộ vệ của Elena, thanh niên quý tộc 20 tuổi |
 | Daska | ông / Daska / Bá tước biên cảnh Rowlocks | 62 | Lãnh chúa thành phố Gilm |
+| Ara | cô / Ara | 63 | Nữ hiệp sĩ dưới 20 tuổi trong đội hộ vệ của Elena |
+| Vel | anh / Vel | 63 | Hiệp sĩ 20 tuổi trong đội hộ vệ của Elena |
 
 ## Giữa các nhân vật
 
@@ -171,3 +173,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rowlocks | Kuust | ta | cậu Kuust | 62 | Bá tước biên cảnh nói với con trai Hầu tước Brassin |
 | Kuust | Rowlocks | tôi | ngài / Bá tước biên cảnh Rowlocks | 62 | Đội trưởng hộ vệ quý tộc nói với Bá tước biên cảnh |
 | Kuust | Rei | ta | ngươi | 62 | Quý tộc kiêu ngạo nói với mạo hiểm giả thường dân |
+| Elena | Ara | ta | Ara / cô | 63 | Tiểu thư / chủ tướng nói với nữ hiệp sĩ hộ vệ |
+| Elena | Vel | ta | Vel / cậu | 63 | Tiểu thư / chủ tướng nói với nam hiệp sĩ hộ vệ |
+| Ara | Elena | tôi | tiểu thư Elena | 63 | Nữ hiệp sĩ hộ vệ nói với tiểu thư Elena |
+| Vel | Elena | tôi | tiểu thư Elena | 63 | Nam hiệp sĩ hộ vệ nói với tiểu thư Elena |
+| Ara | Vel | tôi | cậu / Vel | 63 | Nữ hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |
+| Vel | Ara | tôi | cô / Ara | 63 | Nam hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |

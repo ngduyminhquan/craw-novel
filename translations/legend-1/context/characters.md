@@ -41,7 +41,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elena | エレーナ; エレーナ・ケレベル | Elena | Tiểu thư nhà Công tước Kerebel, được mệnh danh là Công Chúa Tướng Quân | Chương 62 |
 | Kuust | キュステ; キュステ・ブラシン | Kuust | Đội trưởng đội hộ vệ của Elena Kerebel, con thứ của Hầu tước Brassin | Chương 62 |
 | Daska | ダスカー; ダスカー・ラルクス | Daska | Tên riêng của Bá tước biên cảnh Rowlocks (Daska Rowlocks) | Chương 62 |
-| Vel | ヴェル | Vel | Đồng nghiệp của Kuust trong đội hộ vệ của Elena Kerebel | Chương 62 |
+| Vel | ヴェル; ヴェル・セイルズ | Vel | Hộ vệ của Elena Kerebel, con thứ của Tử tước Sails, phụ trách hậu cần | Chương 62 |
+| Ara | アーラ; アーラ・スカーレイ | Ara | Hộ vệ của Elena Kerebel, con gái thứ ba của Bá tước Scarley | Chương 63 |
 
 ## Chi tiết
 
@@ -196,3 +197,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
 - Vũ khí và ma pháp: Dùng ma thương; có thể sử dụng ma pháp hồi phục hệ Thủy [Lam Dũ].
+
+### Ara
+- Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
+
+### Vel
+- Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
+
+### Elena
+- Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.

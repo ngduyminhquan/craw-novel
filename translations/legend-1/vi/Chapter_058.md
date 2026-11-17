@@ -44,7 +44,7 @@ Gran gật đầu trước câu hỏi của Rei.
 
 "...Nói kiểu đó, nghĩa là quý tộc à?"
 
-Ở thành phố Gilm cũng có không ít quý tộc. Không chỉ thuộc Phe Trung Lập do lãnh chúa thành phố Gilm là Bá tước biên cảnh Rowlocks đứng đầu, mà những kẻ thuộc Phe Quốc Vương hay Phe Quý Tộc cũng hiện diện khá nhiều nơi đây. Dù sao thì Gilm cũng là thị trấn duy nhất trong toàn bộ lãnh địa giáp ranh biên giới của Bá tước biên cảnh Rowlocks. Nói cách khác, họ vừa phải trực tiếp nắm bắt mối đe dọa từ lũ quái vật vùng biên cảnh, vừa nhăm nhe cơ hội chiêu mộ những mạo hiểm giả tài năng vốn thường tụ hội ở chốn hiểm địa này. Rei hỏi Gran vì ngỡ ủy thác đến từ một trong số những quý tộc ấy, thế nhưng...
+Ở thành phố Gilm cũng có không ít quý tộc. Không chỉ thuộc Phe Trung Lập do lãnh chúa thành phố Gilm là Bá tước biên cảnh Rowlocks đứng đầu, mà những kẻ thuộc Phe Quốc Vương hay Phe Quý Tộc cũng hiện diện khá nhiều nơi đây. Dù sao thì Gilm cũng là thành phố duy nhất trong toàn bộ lãnh địa giáp ranh biên giới của Bá tước biên cảnh Rowlocks. Nói cách khác, họ vừa phải trực tiếp nắm bắt mối đe dọa từ lũ quái vật vùng biên cảnh, vừa nhăm nhe cơ hội chiêu mộ những mạo hiểm giả tài năng vốn thường tụ hội ở chốn hiểm địa này. Rei hỏi Gran vì ngỡ ủy thác đến từ một trong số những quý tộc ấy, thế nhưng...
 
 "Ừ thì, bảo là quý tộc thì đúng là quý tộc thật. Dù sao người đó cũng là lãnh chúa cai quản thành phố Gilm này mà."
 
@@ -108,7 +108,7 @@ Thế nhưng, Gran chỉ cười trừ rồi lắc đầu với cậu.
 
 "Hình tượng tiểu thư quý tộc trong đầu tôi là những cô chiêu được nâng như nâng trứng hứng như hứng hoa, sống trong nhung lụa... Tôi có hình dung sai chỗ nào không đấy?"
 
-"Thì về cơ bản cậu có sai đâu. Thực tế phần lớn tiểu thư quý tộc ở Vương đô đều đúng y như cậu tưởng tượng. Nhưng tiểu thư Công tước Kerebel thì lại khác hẳn. Nghe đâu trong cuộc xung đột với Đế quốc Bestia cách đây hai năm, cô ấy đã đích thân dẫn đầu đoàn kỵ sĩ của Công tước Kerebel xông pha chiến trường, rồi cuối cùng còn chém đầu tướng địch trong một trận quyết đấu tay đôi nữa cơ mà."
+"Thì về cơ bản cậu có sai đâu. Thực tế phần lớn tiểu thư quý tộc ở vương đô đều đúng y như cậu tưởng tượng. Nhưng tiểu thư Công tước Kerebel thì lại khác hẳn. Nghe đâu trong cuộc xung đột với Đế quốc Bestia cách đây hai năm, cô ấy đã đích thân dẫn đầu đoàn kỵ sĩ của Công tước Kerebel xông pha chiến trường, rồi cuối cùng còn chém đầu tướng địch trong một trận quyết đấu tay đôi nữa cơ mà."
 
 Đế quốc Bestia. Đó là một trong những quốc gia giáp ranh với Vương quốc Mireana, đồng thời cũng là nước sở hữu tiềm lực thuộc hàng hùng mạnh nhất đại lục này. Ngay cả khi đặt cạnh một đại quốc tiếng tăm như Vương quốc Mireana, thực lực của họ vẫn nhỉnh hơn một bậc, và chính sách bành trướng lãnh thổ của họ thể hiện rõ qua việc từng bước thôn tính các tiểu quốc lân cận vào tầm kiểm soát.
 
@@ -156,7 +156,7 @@ Trước lời của Gran, Rei khẽ thở dài một hơi.
 
 Nghe Gran nói, Rei thầm cân nhắc về ủy thác trong bụng.
 
-(Xem ra không từ chối được rồi. Nhưng ủy thác này cũng xem như cơ hội tốt cho một người vốn muốn đến hầm ngục một lần như mình. Nghe đâu trong hầm ngục có cả quái vật hạng khá cao, nên có thể kỳ vọng thu thập được lượng Ma Thạch đáng kể cả về chất lẫn lượng. ...Vấn đề là liệu việc mình không bán đống Ma Thạch đó có bị ai sinh nghi hay không... Mà thôi, đối phương là tiểu thư Công tước từ Vương đô. Chẳng biết cô ta có việc gì mà mò tới hầm ngục, nhưng xong việc là sẽ chuồn thẳng khỏi chốn biên cảnh này ngay thôi. Thế thì khả năng cô ta để ý thấy điểm bất thường khi mình không bán Ma Thạch là rất thấp.)
+(Xem ra không từ chối được rồi. Nhưng ủy thác này cũng xem như cơ hội tốt cho một người vốn muốn đến hầm ngục một lần như mình. Nghe đâu trong hầm ngục có cả quái vật hạng khá cao, nên có thể kỳ vọng thu thập được lượng Ma Thạch đáng kể cả về chất lẫn lượng. ...Vấn đề là liệu việc mình không bán đống Ma Thạch đó có bị ai sinh nghi hay không... Mà thôi, đối phương là tiểu thư Công tước từ vương đô. Chẳng biết cô ta có việc gì mà mò tới hầm ngục, nhưng xong việc là sẽ chuồn thẳng khỏi chốn biên cảnh này ngay thôi. Thế thì khả năng cô ta để ý thấy điểm bất thường khi mình không bán Ma Thạch là rất thấp.)
 
 "Nhân tiện cho tôi hỏi, hầm ngục đó có dẫn Set vào cùng được không? Nói chính xác hơn là không gian bên trong hầm ngục có đủ rộng rãi để thân hình đồ sộ của Set thoải mái chiến đấu không?"
 
