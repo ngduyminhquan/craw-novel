@@ -198,3 +198,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Elena | tôi | tiểu thư Elena | 66 | Mạo hiểm giả nói chuyện với tiểu thư nhà Công tước |
 | Rei | Ara | tôi | cô | 66 | Rei đáp lại lời xin lỗi của nữ hiệp sĩ Ara |
 | Kuust | Elena | tôi | tiểu thư Elena | 66 | Đội trưởng hộ vệ nói chuyện với tiểu thư Elena |
+| Ara | Rei | tôi | cậu / cậu Rei | 66 | Sau khi hóa giải hiểu lầm và xin lỗi Rei |
