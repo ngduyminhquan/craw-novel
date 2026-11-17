@@ -165,6 +165,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Superbia
 - Nam thanh niên ngoài 20 tuổi (khoảng 21-22), ánh mắt sắc bén lạnh lùng, trang bị kiếm dài thông thường; tác phong trầm tĩnh, tự tin vào kiếm thuật.
 - Từng có kinh nghiệm thực chiến đoạt mạng người trong quá khứ.
+- Tính cách và tâm lý: Trầm tĩnh, biết tự nhìn nhận thực lực bản thân để học hỏi; ngầm ghen tị với những ai đào hoa được phái nữ vây quanh
 
 ### Filma
 - Nữ Elf có ngoại hình thiếu nữ trạc 17-19 tuổi, gương mặt thanh tú, tai dài nhọn, mang theo cây cung lớn; tên đầy đủ là Filma Patrono, xuất thân quý tộc Elf.
