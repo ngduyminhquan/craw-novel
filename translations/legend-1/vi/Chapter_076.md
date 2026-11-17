@@ -14,7 +14,7 @@ Rei bực bội lẩm bẩm, đưa mắt nhìn thứ đang quấn chặt quanh c
 
 "Cái bẫy ở chỗ cầu thang cũng do con này giăng ra sao. Và còn..."
 
-Thứ đang gườm gườm nhìn Ara cùng Elena, Kuust và Vel ở phía sau là những kẻ to hơn người thường một vòng, tay chân phủ đầy lớp vảy xanh lục. Chúng mang khuôn mặt loài bò sát với chiếc đuôi to dài — chủng tộc á nhân Lizardman.
+Thứ đang gườm gườm nhìn Ara cùng Elena, Kuust và Vel ở phía sau là những kẻ to hơn người thường một vòng, tay chân phủ đầy lớp vảy xanh lục. Chúng mang khuôn mặt loài bò sát với chiếc đuôi to dài. Đó là Lizardman, một chủng á nhân.
 
 Tên nào tên nấy lăm lăm vũ khí như cung, kiếm, giáo trong tay, chĩa ánh mắt ngập tràn sát khí về phía nhóm Ara.
 
@@ -70,7 +70,7 @@ Cán hái vung lên, quả Hỏa Cầu lập tức bắn ra. Khi nhận thấy l
 
 Xác nhận quả Hỏa Cầu đã trúng đích, Rei lập tức chuyển hướng nhìn sang đám Lizardman.
 
-Lizardman. Hạng quái vật của chúng là D, tương đương với loài Orc mà cậu từng tiêu diệt trước đây, nhưng điểm khác biệt rõ ràng nhất là chúng thông minh hơn Orc nhiều. Không giống Orc chỉ biết răm rắp nghe theo mệnh lệnh từ kẻ cấp cao hơn, từng con Lizardman đều biết tự phán đoán xem hành động nào là tối ưu nhất vào từng thời điểm rồi thực hiện. Đáng ra với trí khôn đó, chúng đã được xếp vào hạng cao hơn, nhưng vì khả năng sinh sản không cao nên mới bị xếp cùng hạng với Orc — loài tuy năng lực cá thể không quá mạnh nhưng khả năng sinh sản lại rất lớn. Ngoài ra, bộ phận xác nhận thảo phạt của chúng là chóp đuôi, được Hội thu mua với giá năm đồng bạc.
+Lizardman. Hạng quái vật của chúng là D, tương đương với loài Orc mà cậu từng tiêu diệt trước đây, nhưng điểm khác biệt rõ ràng nhất là chúng thông minh hơn Orc nhiều. Không giống Orc chỉ biết răm rắp nghe theo mệnh lệnh từ kẻ cấp cao hơn, từng con Lizardman đều biết tự phán đoán xem hành động nào là tối ưu nhất vào từng thời điểm rồi thực hiện. Đáng ra với trí khôn đó, chúng đã được xếp vào hạng cao hơn, nhưng vì khả năng sinh sản không cao nên mới bị xếp cùng hạng với Orc, loài tuy năng lực cá thể không quá mạnh nhưng khả năng sinh sản lại rất lớn. Ngoài ra, bộ phận xác nhận thảo phạt của chúng là chóp đuôi, được Hội thu mua với giá năm đồng bạc.
 
 Dù vậy, khi phải đối đầu với nhóm Kuust, Vel và Ara dưới sự chỉ huy của Elena, lũ Lizardman cũng không dễ bề chiếm thế thượng phong mà đôi bên đang giằng co khá ngang ngửa.
 

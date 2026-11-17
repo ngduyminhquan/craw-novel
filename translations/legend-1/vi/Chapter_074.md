@@ -8,7 +8,7 @@ Không khí đã mát mẻ hơn hẳn so với đợt cao điểm giữa hè, b�
 
 Vừa cảm nhận thời tiết ấy vừa rảo bước qua ngôi làng, họ bắt gặp những mạo hiểm giả có lẽ cũng đang hướng về hầm ngục. Từ những người đi độc hành cho tới các tổ đội chừng năm người, hoặc thậm chí đông hơn, lên tới gần mười người.
 
-Đám người đó thoạt đầu đều bị Set hớp hồn rồi thoáng căng thẳng, nhìn thấy Vòng Cổ Tùng Ma đeo trên cổ nó mới thở phào, tiếp đó lại sững sờ trước nhan sắc của Elena, rồi bị Kuust và Ara lườm lại bằng ánh mắt sắc lẹm — kịch bản quen thuộc ấy cứ lặp đi lặp lại.
+Đám người đó thoạt đầu đều bị Set hớp hồn rồi thoáng căng thẳng, nhìn thấy Vòng Cổ Tùng Ma đeo trên cổ nó mới thở phào, tiếp đó lại sững sờ trước nhan sắc của Elena, rồi bị Kuust và Ara lườm lại bằng ánh mắt sắc lẹm. Kịch bản quen thuộc ấy cứ lặp đi lặp lại.
 
 Hoặc có lẽ trong số những kẻ trông như ma pháp sư có người tối qua không có mặt ở Hội. Vừa thấy bóng Rei lọt vào tầm mắt, cũng có vài kẻ lập tức đông cứng người hoặc lùi lại vài bước.
 
@@ -212,7 +212,7 @@ Chặt bỏ chiếc sừng trông có vẻ vướng víu lúc ăn và moi sơ qu
 
 Set đớp lấy chuẩn xác rồi gần như nuốt chửng từng miếng một. Tuy chưa lột da nhưng nó có vẻ chẳng buồn bận tâm.
 
-Rồi dơi khổng lồ vốn dĩ to lớn, nhưng đó là tính cả sải cánh. Cắt bỏ đôi cánh chẳng có chỗ nào ăn được đi thì phần còn lại chỉ vừa cỡ một miếng ăn vặt của Set.
+Còn dơi khổng lồ thì trông to, nhưng đó là tính cả sải cánh. Cắt bỏ đôi cánh chẳng có chỗ nào ăn được đi thì phần còn lại chỉ vừa cỡ một miếng ăn vặt của Set.
 
 Nhân tiện, dù Set ăn cả Ma Thạch của Horn Rabbit lẫn dơi khổng lồ nhưng nó cũng chẳng học thêm được kỹ năng nào mới, điều đó khiến Rei có phần tiếc nuối.
 

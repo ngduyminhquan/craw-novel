@@ -26,7 +26,7 @@ Hơn nữa, vì là ngôi làng hình thành quanh hầm ngục, cư dân nơi �
 
 Khác với vẻ giận dữ của Kuust và Ara, Elena chẳng màng để tâm đến phản ứng xung quanh mà cứ thế rảo bước. Từng kinh qua chiến trường đẫm máu, Elena hiểu rõ để ý đến những chuyện thế này cũng bằng thừa nên chọn cách phớt lờ.
 
-Đương nhiên, cô có thể làm vậy một phần cũng nhờ sự tự tin vào thực lực bản thân. Dẫu sao cô cũng đã công khai tuyên bố muốn tán tỉnh mình thì chí ít phải mạnh hơn mình; kẻ nào mụ mẫm đầu óc xông tới thì cô cứ việc đánh cho tơi bời, mà thực tế từ trước đến nay cô vẫn làm thế.
+Đương nhiên, cô có thể làm vậy một phần cũng nhờ sự tự tin vào thực lực bản thân. Dù sao cô cũng đã công khai tuyên bố muốn tán tỉnh mình thì chí ít phải mạnh hơn mình; kẻ nào mụ mẫm đầu óc xông tới thì cô cứ việc đánh cho tơi bời, mà thực tế từ trước đến nay cô vẫn làm thế.
 
 Dù tạo thành một nhóm cực kỳ nổi bật như vậy, đoàn người do Elena dẫn đầu vẫn tiếp tục tiến bước qua ngôi làng.
 
@@ -146,7 +146,7 @@ Khác xa so với hình dung ban đầu, cả Vel và Ara đều lộ rõ vẻ n
 
 Về phần mình, Rei cũng khẽ nhướn mày ngạc nhiên.
 
-Dẫu sao đây cũng là Hội nằm ngay cạnh hầm ngục. Số lượng mạo hiểm giả đông đảo thì chắc chắn không thiếu những kẻ bặm trợn, liều lĩnh. Để quản thúc được một đám người như thế, cậu cứ đinh ninh người đại diện của Hội hẳn phải là một nhân vật cỡ như Bá tước biên cảnh Daska Rowlocks.
+Dù sao đây cũng là Hội nằm ngay cạnh hầm ngục. Số lượng mạo hiểm giả đông đảo thì chắc chắn không thiếu những kẻ bặm trợn, liều lĩnh. Để quản thúc được một đám người như thế, cậu cứ đinh ninh người đại diện của Hội hẳn phải là một nhân vật cỡ như Bá tước biên cảnh Daska Rowlocks.
 
 (Đây mà là đại diện của Hội sao? Cơ mà, nếu chỉ hiền lành thì làm sao quản nổi đám mạo hiểm giả, chắc cũng phải có bộ mặt khác giấu đằng sau...)
 

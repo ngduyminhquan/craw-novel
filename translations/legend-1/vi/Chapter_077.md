@@ -94,7 +94,7 @@ Và sau khi Rei thu dọn xong các thi thể, cả nhóm tiếp tục tiến s�
 
 "Hừm, đây là tầng ngầm thứ ba sao. Trông khác hẳn hai tầng trên nhỉ."
 
-Khoảng mười phút đi bộ tính từ chân cầu thang dẫn xuống tầng ngầm thứ ba — nơi diễn ra trận chiến với lũ Lizardman. Cho tới tận vừa rồi thì nơi đây vẫn mang dáng dấp của một hầm ngục bình thường, thế nhưng lúc này trải ra trước mắt nhóm Rei lại là một nơi có thể gọi là khu rừng tạo nên từ những cây nấm khổng lồ.
+Khoảng mười phút đi bộ tính từ chân cầu thang dẫn xuống tầng ngầm thứ ba, nơi diễn ra trận chiến với lũ Lizardman. Cho tới tận vừa rồi thì nơi đây vẫn mang dáng dấp của một hầm ngục bình thường, thế nhưng lúc này trải ra trước mắt nhóm Rei lại là một nơi có thể gọi là khu rừng tạo nên từ những cây nấm khổng lồ.
 
 Những cây nấm khổng lồ mọc khắp nơi, từ loại cao chừng hai mét cho tới những cây to lớn ước chừng phải cao tới gần năm mét.
 
@@ -232,7 +232,7 @@ Chẳng cần nói cũng biết anh ta đang hỏi về chuyện gì. Chính là
 
 "Trước hết thì trong số phụ nữ, cô nàng tóc vàng đúng là tuyệt phẩm. Từ bé đến giờ hơn hai mươi năm, tao cũng từng thấy kha khá phụ nữ rồi, thậm chí từng qua đêm với gái bao cao cấp, nhưng đây là lần đầu tiên trong đời thấy người phụ nữ đẹp đến mức ấy đấy. ...Mà đúng hơn là, người ta đẹp đến mức làm tao thấy tự ti thì quả là lần đầu tiên trải qua luôn."
 
-Trước câu nói của gã cầm kiếm, các đồng đội chỉ biết cười trừ. Bởi gã này mê gái đến cực độ và hầu như đêm nào cũng lui tới nhà thổ là chuyện ai cũng biết tỏng. Thậm chí có cảm giác phần lớn thu nhập của một tổ đội Hạng C — dĩ nhiên là phần chia của riêng gã — đều bị gã ném hết vào gái làng chơi.
+Trước câu nói của gã cầm kiếm, các đồng đội chỉ biết cười trừ. Bởi gã này mê gái đến cực độ và hầu như đêm nào cũng lui tới nhà thổ là chuyện ai cũng biết tỏng. Thậm chí có cảm giác phần lớn thu nhập của gã trong một tổ đội Hạng C, dĩ nhiên là phần được chia, đều bị gã ném hết vào gái làng chơi.
 
 "Tao thì vẫn để ý con Griffin kia hơn. Mà đúng hơn là lần đầu tiên tao thấy một con Griffin bằng xương bằng thịt đấy."
 
@@ -242,7 +242,7 @@ Thứ để lại ấn tượng sâu sắc nhất cho gã đạo tặc chính l�
 
 Người đàn ông đeo chiếc ba lô khổng lồ lẩm bẩm như vậy.
 
-Người khuân vác. Nói đơn giản, đó là cách gọi chung những người phụ trách mang vác nguyên liệu, Ma Thạch hoặc kho báu thu được khi thám hiểm hầm ngục. Ngẫm ra thì cũng phải, khi càng tiến sâu vào hầm ngục mà các chiến sĩ hay ma pháp sư phải ôm đồm mớ nguyên liệu và Ma Thạch thu thập được thì cử động hiển nhiên sẽ trở nên chậm chạp. Và một khi cử động chậm chạp thì họ sẽ gặp khó khăn khi đối phó với quái vật. Người giúp giải quyết vấn đề đó chính là những người chuyên làm công việc mang vác hành lý — người khuân vác.
+Người khuân vác. Nói đơn giản, đó là cách gọi chung những người phụ trách mang vác nguyên liệu, Ma Thạch hoặc kho báu thu được khi thám hiểm hầm ngục. Ngẫm ra thì cũng phải, khi càng tiến sâu vào hầm ngục mà các chiến sĩ hay ma pháp sư phải ôm đồm mớ nguyên liệu và Ma Thạch thu thập được thì cử động hiển nhiên sẽ trở nên chậm chạp. Và một khi cử động chậm chạp thì họ sẽ gặp khó khăn khi đối phó với quái vật. Người giúp giải quyết vấn đề đó chính là những người chuyên làm công việc mang vác hành lý: người khuân vác.
 
 "...Nói mới nhớ, ở đó chỉ có tên nhóc vác cây hái to tổ bố, hai nữ chiến sĩ, một tên dùng thương với một tên dùng cung thôi nhỉ."
 

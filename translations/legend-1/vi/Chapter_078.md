@@ -70,7 +70,7 @@ Nhắm vào một trong hai cây nấm định chồm lên hai người họ, El
 
 Cây nấm còn lại bị Vel bắn liên tiếp nhiều mũi tên vào người.
 
-Trúng chừng một mũi tên thì cây nấm chẳng hề tỏ vẻ suy suyển mà vẫn cố bò tới, nhưng dẫu tên không hạ được nó thì lực va đập cũng thừa sức làm chậm bước tiến. Và rồi mũi tên thứ hai, thứ ba, thứ tư liên tiếp cắm ngập vào người đã giúp hai người có đủ thời gian lùi lại.
+Trúng chừng một mũi tên thì cây nấm chẳng hề tỏ vẻ suy suyển mà vẫn cố bò tới, nhưng dù tên không hạ được nó thì lực va đập cũng thừa sức làm chậm bước tiến. Và rồi mũi tên thứ hai, thứ ba, thứ tư liên tiếp cắm ngập vào người đã giúp hai người có đủ thời gian lùi lại.
 
 Và rồi...
 
@@ -78,7 +78,7 @@ Và rồi...
 
 Lùi về phía sau, Ara ngơ ngẩn thốt lên khi nhìn thấy con phượng hoàng tạo từ ngọn lửa đang bay lướt qua trên đầu họ.
 
-Dẫu chẳng có chút thiên phú ma pháp nào, trực giác của một chiến sĩ vẫn mách bảo cô biết con phượng hoàng đó chứa đựng lượng ma lực khủng khiếp nhường nào. Cả vẻ đẹp rực rỡ của nó nữa.
+Dù chẳng có chút thiên phú ma pháp nào, trực giác của một chiến sĩ vẫn mách bảo cô biết con phượng hoàng đó chứa đựng lượng ma lực khủng khiếp nhường nào. Cả vẻ đẹp rực rỡ của nó nữa.
 
 Bên cạnh Ara, Kuust cũng vừa lùi lại, đang ngắm nhìn con phượng hoàng với vẻ thán phục hiếm thấy ở người như anh.
 

@@ -88,7 +88,7 @@ Bảo Set một tiếng, Rei đi vào trong hốc cây rồi tiện chân đá n
 
 "Kẻ địch? Kẻ địch là... Kẻ địch á!?"
 
-Đúng là hiệp sĩ có khác, Ara phản ứng ngay tức khắc với hai chữ 'kẻ địch'. Vừa dụi mắt, cô vừa vội với tay chụp lấy bao kiếm đặt bên cạnh.
+Đúng là kỵ sĩ có khác, Ara phản ứng ngay tức khắc với hai chữ 'kẻ địch'. Vừa dụi mắt, cô vừa vội với tay chụp lấy bao kiếm đặt bên cạnh.
 
 Kinh động tới mức này thì những người xung quanh cũng nhận ra điều bất thường, nhóm Elena bắt đầu lục đục cựa mình thức dậy.
 
@@ -206,7 +206,7 @@ Set cất tiếng kêu, vỗ cánh đáp xuống bên cạnh Rei. Vừa xoa lưn
 
 "Hây!"
 
-Lưỡi Hái Tử Thần chém ngược từ dưới lên cắm phập vào vai phải con Ogre đang nằm sóng xoài dưới đất, ngọt ngào cắt đứt lìa cánh tay phải của nó mà không gặp chút lực cản nào. Mượn đà ấy, Rei chuyển hướng vung lưỡi hái ngay giữa không trung, giáng mạnh xuống chiếc cổ cuồn cuộn cơ bắp... và cũng như bờ vai phải, lưỡi hái chém bay đầu con quái vật dễ dàng như không.
+Lưỡi Hái Tử Thần chém ngược từ dưới lên cắm phập vào vai phải con Ogre đang nằm sóng xoài dưới đất, ngọt xớt cắt lìa cánh tay phải của nó mà không gặp chút lực cản nào. Mượn đà ấy, Rei chuyển hướng vung lưỡi hái ngay giữa không trung, giáng mạnh xuống chiếc cổ cuồn cuộn cơ bắp... và cũng như bờ vai phải, lưỡi hái chém bay đầu con quái vật dễ dàng như không.
 
 "Phù, dù có còn sống đi nữa thì bay đầu rồi cũng chẳng làm gì được nữa. Set, làm tốt lắm. Móng Vuốt Độc à. Trông cũng hữu dụng đấy, nhưng chắc do mới Lv.1 nên độc chưa mạnh lắm nhỉ. Hay tại thân hình con Ogre to quá nên độc ngấm lâu hơn?"
 

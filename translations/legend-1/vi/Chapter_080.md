@@ -18,7 +18,7 @@ Tay cầm chắc kiếm như để hộ vệ cho Vel, Ara lên tiếng đáp l�
 
 Sau khi khen ngợi Vel, Elena đưa mắt quan sát xung quanh.
 
-Nơi có nguồn nước chắc chắn là điểm uống nước của lũ quái vật, mạo hiểm giả mà cứ vô tư hạ trại ở một chỗ như thế thì chẳng khác nào mời gọi chúng tới xâu xé.
+Nơi có nguồn nước chắc chắn là điểm uống nước của lũ quái vật, mạo hiểm giả mà cứ vô tư hạ trại ở một chỗ như thế thì có khác gì mời chúng tới xâu xé.
 
 Bởi vậy, một vị trí lý tưởng phải vừa gần nguồn nước, lại vừa kín đáo, không dễ bị xung quanh chú ý...
 

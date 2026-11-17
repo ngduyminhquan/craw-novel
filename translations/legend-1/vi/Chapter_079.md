@@ -152,7 +152,7 @@ Khoảnh khắc Set gầm lên một tiếng rền vang, kẻ địch đúng ngh
 
 Ngoại hình của chúng khá giống loài khỉ. Thế nhưng từ khóe miệng lại nhô ra những chiếc răng nanh sắc nhọn, và lớp da ngoài được bao bọc bởi một dòng nước chảy tuần hoàn. Kích thước thì con nhỏ chừng sáu mươi phân, con to cũng chỉ tầm một mét. Có điều, số lượng vây quanh nhóm Rei ước tính tới hai mươi con.
 
-"Khỉ bọc nước ư!? Bản khỉ của Gấu Nước, hình như trong cuốn từ điển quái vật có ghi là Water Monkey thì phải... Là nó sao?"
+"Khỉ bọc nước ư!? Phiên bản khỉ của Gấu Nước, hình như trong cuốn từ điển quái vật có ghi là Water Monkey thì phải... Là nó sao?"
 
 Elena lập tức phản ứng trước lời lẩm bẩm của Rei.
 

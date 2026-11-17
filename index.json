@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T08:35:40Z",
+  "generatedAt": "2026-11-17T08:39:37Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2590,55 +2590,55 @@
           "number": 73,
           "title": "Chương 73: Tế đàn kế thừa (73)",
           "path": "translations/legend-1/vi/Chapter_073.md",
-          "sha": "9e6f009515d1abd97721f665fb0496ac122fff41"
+          "sha": "a3aa542ed87e08b645bc72d266c23c2d08f6b854"
         },
         {
           "number": 74,
           "title": "Chương 74: Tế đàn kế thừa (74)",
           "path": "translations/legend-1/vi/Chapter_074.md",
-          "sha": "7c8268d7b6b6c1e1b1f758d067fcaa7d94c5aa86"
+          "sha": "22c56043b519159090ade95aa8635a741c790b3e"
         },
         {
           "number": 75,
           "title": "Chương 75: Tế đàn kế thừa (75)",
           "path": "translations/legend-1/vi/Chapter_075.md",
-          "sha": "037c139aeff76c7d430ac89b8763c71e61728eb7"
+          "sha": "5a7b1e4c4d1846df3d4b95659886170fe7aa2f79"
         },
         {
           "number": 76,
           "title": "Chương 76: Tế đàn kế thừa (76)",
           "path": "translations/legend-1/vi/Chapter_076.md",
-          "sha": "0fd0c201d18daae6b551cce9de0d29b449516182"
+          "sha": "621d44f36fba33f4505755dd405577cf045c6c7a"
         },
         {
           "number": 77,
           "title": "Chương 77: Tế đàn kế thừa (77)",
           "path": "translations/legend-1/vi/Chapter_077.md",
-          "sha": "239be8a72a65fb784194298517db630ac9806ced"
+          "sha": "a616e946dfd7858745e73816d55675351f4fb590"
         },
         {
           "number": 78,
           "title": "Chương 78: Tế đàn kế thừa (78)",
           "path": "translations/legend-1/vi/Chapter_078.md",
-          "sha": "3e027a3da2e91914619dea590bbc17847799a834"
+          "sha": "aa27ec7a5494088d84f625901a906b114ab020da"
         },
         {
           "number": 79,
           "title": "Chương 79: Tế đàn kế thừa (79)",
           "path": "translations/legend-1/vi/Chapter_079.md",
-          "sha": "cc9a08bd4ee70ad901c10111f8f656dfdc3ed90b"
+          "sha": "961737b8d1bf5427a963b1d5aef7b1fdac282d90"
         },
         {
           "number": 80,
           "title": "Chương 80: Tế đàn kế thừa (80)",
           "path": "translations/legend-1/vi/Chapter_080.md",
-          "sha": "d162d71f8d5a0d3cd85285a951d6d97f5d60ae0d"
+          "sha": "5212ebe5912aaec548315c87d76bab30250eed01"
         },
         {
           "number": 81,
           "title": "Chương 81: Tế đàn kế thừa (81)",
           "path": "translations/legend-1/vi/Chapter_081.md",
-          "sha": "0fa5009d7778b6445cc4984e216182b7257db781"
+          "sha": "c4057574811be31ad5e98330d5c93fc42a411054"
         }
       ]
     },

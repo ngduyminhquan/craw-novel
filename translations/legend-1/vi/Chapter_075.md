@@ -48,7 +48,7 @@ Phía sau cả đoàn, Set cất tiếng kêu. Đối với nhóm Elena thì đ�
 
 "Hử. Lũ quái vật gặp từ nãy tới giờ chẳng có con nào đủ thông minh để biết đánh gọng kìm, xem ra đợt này khác rồi nhỉ."
 
-"Mà, nói thì nói vậy chứ dẫu sao đây mới là tầng ngầm thứ hai của hầm ngục, chắc cũng chẳng phải loại quái vật hạng cao gì đâu."
+"Mà, nói thì nói vậy chứ dù sao đây mới là tầng ngầm thứ hai của hầm ngục, chắc cũng chẳng phải loại quái vật hạng cao gì đâu."
 
 Vel vừa lẩm bẩm vừa giương cung. Và kẻ lộ diện nơi đầu lối đi đúng là loại quái vật khác hẳn trước đó, nhưng đồng thời cũng đúng y như những gì Vel vừa nói.
 
@@ -122,7 +122,7 @@ Liếc nhìn con Goblin vừa hộc máu gục xuống đất, Rei quay sang ph�
 
 Set kêu lên đầy vẻ đắc chí như muốn khoe chiến tích, Rei vừa cười trừ vừa xoa đầu nó, đồng thời hướng mắt về phía nhóm Elena.
 
-Đó là hành động để xem thử đối phương có cần hỗ trợ hay không, nhưng cậu nhanh chóng hiểu ra đó là sự lo lắng thừa thãi. Dù sao thì đội hộ vệ của Elena về cơ bản toàn là tay có thực lực. ...Hay đúng hơn, dẫu tính cách có đôi chút vấn đề như Kuust chăng nữa, đội hộ vệ này vẫn được xây dựng quanh những kẻ thực sự có tài năng để bảo vệ Elena. Những kẻ như thế làm sao có chuyện chật vật trước lũ Goblin cho được.
+Đó là hành động để xem thử đối phương có cần hỗ trợ hay không, nhưng cậu nhanh chóng hiểu ra đó là sự lo lắng thừa thãi. Dù sao thì đội hộ vệ của Elena về cơ bản toàn là tay có thực lực. ...Hay đúng hơn, dù tính cách có đôi chút vấn đề như Kuust chăng nữa, đội hộ vệ này vẫn được xây dựng quanh những kẻ thực sự có tài năng để bảo vệ Elena. Những kẻ như thế làm sao có chuyện chật vật trước lũ Goblin cho được.
 
 Vel bắn tên ghìm chân lũ Goblin, và chớp lấy khoảng trống đó, Ara áp sát vung trường kiếm chém đôi con Goblin. Đáng kinh ngạc nhất vẫn là đường kiếm cương mãnh của cô, bởi dù là chiếc mũ sắt thô sơ đi nữa thì cô vẫn chém đứt ngọt con Goblin cùng chiếc mũ ấy.
 
@@ -174,7 +174,7 @@ Gỡ bẫy hầm ngục là trải nghiệm đầu tiên đối với cả Vel, 
 
 Trước lời của Elena, tất cả mọi người đều gật đầu. Lực lượng Goblin hay chuyện mũi tên bắn ra, nếu nhìn nhận riêng rẽ thì chẳng mấy đáng ngại. Nhưng điều cốt lõi là có quái vật sở hữu mưu trí để kết hợp cả hai yếu tố đó lại với nhau.
 
-"Như vừa rồi, dù là ở tầng nông cũng không thể lơ là. Mọi người, dẫu quái vật xuất hiện không mạnh thì cũng chớ chủ quan, hãy tập trung tinh thần vào."
+"Như vừa rồi, dù là ở tầng nông cũng không thể lơ là. Mọi người, dù quái vật xuất hiện không mạnh thì cũng chớ chủ quan, hãy tập trung tinh thần vào."
 
 Gật đầu trước lời nhắc nhở ấy, cả nhóm vừa xem bản đồ vừa cất bước dọc lối đi, nhắm về phía cầu thang dẫn xuống tầng ngầm thứ ba.
 
@@ -196,7 +196,7 @@ Dù nét mặt vẫn còn ngờ vực trước thái độ đó, Ara vẫn nheo 
 
 "Đây là... sợi tơ sao?"
 
-"Ừ. Chắc là của quái vật loài nhện. Cực kỳ mảnh lại còn nhẹ nữa. Sợi tơ đó dẫu có chạm phải thì bình thường thậm chí còn chẳng nhận ra là đã chạm vào. Huống chi lại đang mặc giáp như Ara hay chúng ta thì càng khó mà biết."
+"Ừ. Chắc là của quái vật loài nhện. Cực kỳ mảnh lại còn nhẹ nữa. Sợi tơ đó dù có chạm phải thì bình thường thậm chí còn chẳng nhận ra là đã chạm vào. Huống chi lại đang mặc giáp như Ara hay chúng ta thì càng khó mà biết."
 
 "Và đương nhiên chẳng đời nào một sợi tơ như thế lại vô cớ giăng ở chỗ này."
 
