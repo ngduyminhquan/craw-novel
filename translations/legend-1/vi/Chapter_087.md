@@ -24,7 +24,7 @@ Nhìn Ara mỉm cười nhẹ nhõm khi biết Elena không hề hấn gì, cô 
 
 Elena cất tiếng nói với Kuust lúc này đang rảo bước theo sau Ara.
 
-"Không có gì đâu ạ, trị liệu vốn cũng là nhiệm vụ của tôi."
+"Không có gì đâu, trị liệu vốn cũng là nhiệm vụ của tôi."
 
 Dù vừa xảy ra bao phen cãi vã với Rei vì chuyện Hạt Giống Trừng Phạt, bản thân Kuust dường như chẳng hề bất mãn chút nào với việc Elena chấp nhận điều đó. ...Phải rồi. Là không bất mãn với riêng Elena mà thôi.
 
@@ -46,7 +46,7 @@ Dõi theo bóng lưng cậu, Elena không khỏi đau đầu vì mối quan hệ
 
 "Gừưư."
 
-Chẳng hề hay biết Elena đang đau đầu sau lưng, Rei vừa nói chuyện với Set đang canh chừng phía khu rừng.
+Chẳng hề hay biết Elena đang đau đầu sau lưng, Rei bắt chuyện với Set đang canh chừng phía khu rừng.
 
 Trên tay cậu là một miếng thịt khô, và Set vừa gừ trong họng vừa dùng mỏ ngậm lấy miếng thịt khô được chìa ra rồi nuốt gọn, sau đó lăn kềnh ra đất.
 
@@ -108,7 +108,7 @@ Mọi công việc tạm thời xong xuôi, cuối cùng cũng tới lúc họ t
 
 "Nghe này, theo thông tin có được từ những mạo hiểm giả chạm trán ở tầng ngầm thứ ba thì tầng ngầm thứ năm sẽ có Undead xuất hiện. Vì vậy ta sẽ thay đổi đội hình. Tiền vệ là Rei sử dụng được ma pháp hệ Hỏa và Set có thể phun Hơi Thở Lửa. Trung vệ là ta và Vel. Hậu vệ là Ara và Kuust."
 
-"Dạ... tiểu thư Elena. Vũ khí của tôi là rìu mà lại ở vị trí hậu vệ thì..."
+"Ơ kìa, tiểu thư Elena. Vũ khí của tôi là rìu mà lại ở vị trí hậu vệ thì..."
 
 Ara ngập ngừng lẩm bẩm vẻ bối rối, nhưng Elena lắc đầu không chút do dự.
 
@@ -118,7 +118,7 @@ Ara ngập ngừng lẩm bẩm vẻ bối rối, nhưng Elena lắc đầu khôn
 
 "Ừ, trông cậy vào cô đấy. Kuust cũng không có ý kiến gì chứ?"
 
-"Không vấn đề gì ạ. Việc tập kích từ sau lưng cứ để tôi lo liệu."
+"Không vấn đề gì. Việc tập kích từ sau lưng cứ để tôi lo liệu."
 
 Kuust mỉm cười gật đầu.
 
@@ -192,7 +192,7 @@ Những tiếng động lách cách khô khốc ấy dần dần tiến lại g�
 
 Nhớ lại mục viết về Undead từng đọc trong từ điển quái vật, Rei khẽ lẩm bẩm.
 
-Câu trả lời ấy chính xác hay không được làm sáng tỏ chưa đầy một phút sau đó. Dưới ánh sáng từ những bức tường phát sáng, hai bộ xương trắng toát dần lộ diện.
+Chưa đầy một phút sau đã rõ ngay suy đoán ấy hoàn toàn chính xác. Dưới ánh sáng tỏa ra từ những bức tường, hai bộ xương trắng toát dần lộ diện.
 
 (Mà khoan. Là Skeleton thì nên đếm là hai con mới phải.)
 
@@ -210,6 +210,6 @@ Theo mệnh lệnh của Rei, Set bước lên một bước. Mặc cho lũ Skel
 
 "Gừưưư!"
 
-Cùng tiếng gầm vang dội, ngọn lửa dữ dội phun trào từ chiếc mỏ sắc nhọn. Đó là Hơi Thở Lửa, kỹ năng Lv.2 duy nhất mà Set sở hữu. Uy lực của nó lập tức nuốt chửng hai con Skeleton đang lăm lăm vũ khí áp sát vào trong biển lửa trong chớp mắt. Nhiệt độ trong hành lang hầm ngục tức thì tăng vọt lên vài độ C bởi ảnh hưởng của Hơi Thở Lửa, đồng thời soi sáng rực rỡ xung quanh, lấn át cả thứ ánh sáng mờ ảo phát ra từ những bức tường.
+Cùng tiếng gầm vang dội, ngọn lửa phun trào từ mỏ nó. Đó là Hơi Thở Lửa, kỹ năng Lv.2 duy nhất mà Set sở hữu. Uy lực của nó nuốt chửng hai con Skeleton đang lăm lăm vũ khí áp sát vào biển lửa trong chớp mắt. Sức nóng từ Hơi Thở Lửa làm nhiệt độ trong hành lang hầm ngục tức thì tăng lên vài độ C, đồng thời ánh lửa soi sáng rực rỡ xung quanh, lấn át cả thứ ánh sáng mờ ảo phát ra từ những bức tường.
 
 Vài giây sau, khi Set ngừng phun Hơi Thở Lửa, thứ còn sót lại chỉ là những mẩu xương cháy đen sụp đổ nằm ngổn ngang dưới đất, cùng hai món vũ khí là thanh kiếm dài và ngọn giáo đang chảy dở một nửa.

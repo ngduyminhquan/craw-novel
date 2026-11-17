@@ -34,7 +34,7 @@ Trước mệnh lệnh Elena vừa đưa ra, Rei khẽ nhướng mày. Cùng m�
 
 Nghe tiếng gầm tràn đầy chiến ý của Set sau lưng, Rei vừa bọc hậu bảo vệ phía sau cho Elena vừa ngẫm nghĩ.
 
-(Đúng là với sức mạnh của Set thì dù đối đầu bầy khỉ đó cũng chẳng lùi bước nào. Nhưng cô ấy lại dám giao lưng cho Set, ma thú thuộc quyền của một kẻ vừa đe dọa mình cách đây không lâu. Bảo là can đảm hay... cô ấy chẳng hề nghĩ tới khả năng mình sẽ bỏ mặc bọn họ mà chuồn mất sao? Không, có lẽ phải coi là cô ấy đã tính tới khả năng đó rồi mà vẫn quyết định giao phía sau lưng cho hai đứa mình thì đúng hơn.)
+(Đúng là với sức mạnh của Set thì dù đối đầu bầy khỉ đó cũng chẳng lùi bước nào. Nhưng cô ấy lại dám giao phía sau cho Set, con thú do một kẻ vừa nửa như đe dọa mình cách đây không lâu thuần hóa. Bảo là can đảm hay... cô ấy chẳng hề nghĩ tới khả năng mình sẽ bỏ mặc bọn họ mà chuồn mất sao? Không, có lẽ phải coi là cô ấy đã tính tới khả năng đó rồi mà vẫn quyết định giao phía sau lưng cho hai đứa mình thì đúng hơn.)
 
 Trong lúc cậu nghĩ ngợi, khoảng cách với bầy quái vật đang chực chờ phía trước dần được rút ngắn.
 
@@ -56,13 +56,13 @@ Chớp lấy khoảnh khắc đối phương chùn bước làm cơ hội ngàn 
 
 Cây Rìu Cường Lực trong tay Ara vung lên bổ dọc con Fang Wolf còn sót lại làm đôi theo đúng nghĩa đen, còn ma thương của Kuust đâm xuyên mình một con Goblin, tước đoạt mạng sống nó chỉ bằng một đòn. Một con Water Monkey định phóng Thủy Cầu yểm trợ hàng tiền vệ liền bị mũi tên của Vel bắn tới phá đám. Vừa đưa ra chỉ thị tỉ mỉ cho từng người, Elena vừa vung liên tiếp kiếm đọ đòn với con Lizardman đang lao tới chém.
 
-Lại một lần nữa thầm nể sự phối hợp ăn ý chuẩn xác đến từng ly từng tí ấy, Rei vừa di chuyển vòng rộng ra khỏi khu vực giao tranh để đánh tạt sườn.
+Lại một lần nữa thầm nể sự phối hợp ăn ý chuẩn xác đến từng ly từng tí ấy, Rei di chuyển vòng rộng ra khỏi khu vực giao tranh để đánh tạt sườn.
 
 Ở phía sau lưng nhóm Elena, bầy Water Monkey thấy thủ lĩnh bước vào giao chiến liền toan nhào tới hỗ trợ, nhưng lần nào cũng bị ánh mắt sắc lạnh của Set gườm vào khiến chúng chẳng dám cựa quậy.
 
 Vốn dĩ đẳng cấp quái vật đã chênh lệch một trời một vực, đằng này lại đang chịu tác động từ Uy Áp Vương Giả nên lũ Water Monkey càng không thể phát huy tốc độ sở trường. Không, hơn cả thế, nỗi sợ hãi tột cùng rằng hễ xông lên lúc này thì nắm chắc cái chết đã khiến chân cẳng chúng run rẩy chẳng nhấc nổi.
 
-Liếc mắt nhìn nhanh tình cảnh giằng co sau lưng trong chớp mắt, Rei cuối cùng cũng vòng qua chiến trường và áp sát ngay bên sườn bầy địch. Nói là vậy nhưng do đã điều Fang Wolf, Goblin và cả át chủ bài Lizardman ra nghênh chiến nhóm Elena, số lượng quái vật bên cạnh con Water Monkey chủng hiếm - vốn có thể coi là đại bản doanh - đã giảm đi đáng kể. Hiện tại chỉ còn bốn con Water Monkey to lớn hơn đồng loại làm cận vệ cho con chủng hiếm, cùng ba con Poison Toad bị rớt lại phía sau do tốc độ di chuyển quá chậm chạp không kịp tham chiến với nhóm Elena.
+Liếc mắt nhìn nhanh tình cảnh giằng co sau lưng trong chớp mắt, Rei cuối cùng cũng vòng qua chiến trường và áp sát ngay bên sườn bầy địch. Nói là vậy nhưng do đã điều Fang Wolf, Goblin và cả át chủ bài Lizardman ra nghênh chiến nhóm Elena, số lượng quái vật ở chỗ con Water Monkey chủng hiếm, nơi có thể coi là đại bản doanh, đã giảm đi đáng kể. Hiện tại chỉ còn bốn con Water Monkey to lớn hơn đồng loại làm cận vệ cho con chủng hiếm, cùng ba con Poison Toad bị rớt lại phía sau do tốc độ di chuyển quá chậm chạp không kịp tham chiến với nhóm Elena.
 
 Khóa bầy quái vật vào tầm mắt nhưng xác nhận khoảng cách vẫn còn đủ an toàn, Rei liền dừng bước ngay tại chỗ và bắt đầu niệm chú.
 
@@ -74,7 +74,7 @@ Có lẽ nhận ra một lượng lớn mũi tên lửa đột ngột xuất hi�
 
 [Hỏa Tiễn Trút Rơi!]
 
-Ma pháp kích hoạt, hơn năm mươi mũi tên lửa lơ lửng sau lưng Rei đồng loạt phóng theo hướng Lưỡi Hái Tử Thần - vốn là vật phát động ma pháp - vừa vung xuống, rồi trút thẳng xuống như mưa đúng như tên gọi của chiêu thức.
+Ma pháp kích hoạt, hơn năm mươi mũi tên lửa lơ lửng sau lưng Rei đồng loạt phóng theo hướng vung xuống của Lưỡi Hái Tử Thần, vật phát động ma pháp của cậu, rồi trút thẳng xuống như mưa đúng như tên gọi của chiêu thức.
 
 "Ki-ki-ki-ki-é!"
 
@@ -88,7 +88,7 @@ Thấy thế, đám Water Monkey xung quanh cũng lập tức bắt chước th�
 
 Và rồi loạt tên ập xuống. Những mũi tên lửa cắm phập vào thân xác lũ Poison Toad bị đem ra đỡ đòn, cũng như găm khắp người những con Water Monkey chậm chân chẳng kịp trở tay.
 
-Đồng thời, những mũi tên lửa không trúng địch găm thẳng xuống đất tạo nên chấn động mạnh, thổi tung một màn bụi đất mù mịt bao phủ xung quanh chẳng khác nào làn khói ngụy trang.
+Đồng thời, những mũi tên lửa không trúng địch găm thẳng xuống đất tạo nên chấn động mạnh, thổi tung một màn bụi đất mù mịt bao phủ xung quanh như một màn khói ngụy trang.
 
 "Kích hoạt Giày Sleipnir!"
 
@@ -126,7 +126,7 @@ Vừa ngồi thụp xuống, cậu vừa vung mạnh cán Lưỡi Hái Tử Th�
 
 "Ki-é!"
 
-Tiếp nối là tiếng ngã nhào xuống đất cùng một tiếng ré đau đớn tột cùng. Thoan thoắt xoay người lại, Rei vung Lưỡi Hái Tử Thần từ dưới sát mặt đất chém ngược lên một đường sắc lẹm, ngọt ngào cắt đứt cổ con Water Monkey đang nằm sõng soài phía sau.
+Tiếp nối là tiếng ngã nhào xuống đất cùng một tiếng ré đau đớn tột cùng. Thoan thoắt xoay người lại, Rei vung Lưỡi Hái Tử Thần từ dưới sát mặt đất chém ngược lên một đường sắc lẹm, cắt đứt cổ con Water Monkey đang ngã dưới đất phía sau.
 
 Đồng thời, liếc nhanh thấy một bóng đen to lớn bên mạn phải, cậu liền sút tung cái đầu vừa bị chặt đứt bay thẳng về phía đó, rồi lập tức đạp đất lao theo ngay sau, thủ sẵn Lưỡi Hái Tử Thần áp sát cự ly.
 
@@ -134,7 +134,7 @@ Tiếp nối là tiếng ngã nhào xuống đất cùng một tiếng ré đau 
 
 Cái bóng ấy to lớn vượt trội hơn hẳn mọi con quái vật cùng loại từng gặp từ trước tới nay. Vốn dĩ Water Monkey phải nhỏ hơn Rei rất nhiều, thế nhưng cái bóng cao hơn cậu hẳn một cái đầu này đích thị là con Water Monkey chủng hiếm đang thống lĩnh bầy đàn.
 
-Nó vung cái xác Poison Toad vừa dùng làm khiên đỡ tên lửa ban nãy lên đánh bạt chiếc đầu lâu của đồng loại đang bay tới. Rồi hướng về phía Rei đang lao sát ngay sau, nó há to cái miệng rộng hoác...
+Nó vung cái xác Poison Toad vừa dùng làm khiên đỡ tên lửa ban nãy lên đánh bạt cái đầu của đồng loại đang bay tới. Rồi hướng về phía Rei đang lao sát ngay sau, nó há to cái miệng rộng hoác...
 
 Khoảnh khắc nhìn vào cái miệng ấy, một cơn ớn lạnh chạy dọc sống lưng khiến Rei theo phản xạ đạp đất lách mạnh sang bên.
 
@@ -188,11 +188,11 @@ Trước mặt con chủng hiếm đang vừa đe dọa vừa gườm nhìn mọ
 
 "Ki-é?"
 
-Con chủng hiếm lộ vẻ ngơ ngác khó hiểu. Ngay trước mắt nó, Rei thu Lưỡi Hái Tử Thần cất vào bên trong Nhẫn Sương Mù.
+Con chủng hiếm lộ vẻ ngơ ngác khó hiểu. Ngay trước mắt nó, Rei cất Lưỡi Hái Tử Thần vào Nhẫn Sương Mù.
 
 "Ki-ki-é!?"
 
-Dĩ nhiên chẳng hề biết tới sự tồn tại của thứ gọi là Hộp Vật Phẩm, con chủng hiếm chỉ biết cuống cuồng la ó vì không thể hiểu nổi việc cây hái lớn trước mắt bỗng dưng biến mất, dẫu vậy nó vẫn duy trì cảnh giác để sẵn sàng phun dịch ăn mòn bất cứ lúc nào. Thế nhưng, chút cảnh giác ấy ngay khoảnh khắc tiếp theo liền tan biến sạch trơn, nhường chỗ cho cơn thịnh nộ choáng ngợp tâm trí. Bởi lẽ, trên tay chàng trai nhỏ con trước mặt bỗng xuất hiện một ngọn giáo quá đỗi quen mắt.
+Dĩ nhiên con chủng hiếm làm sao biết thứ gọi là Hộp Vật Phẩm, nên chỉ biết cuống cuồng la ó vì không hiểu nổi sao cây hái lớn trước mắt bỗng dưng biến mất, nhưng nó vẫn giữ cảnh giác để sẵn sàng phun dịch ăn mòn bất cứ lúc nào. Thế nhưng, chút cảnh giác ấy ngay khoảnh khắc tiếp theo liền tan biến sạch trơn, nhường chỗ cho cơn thịnh nộ choáng ngợp tâm trí. Bởi lẽ, trên tay chàng trai nhỏ con trước mặt bỗng xuất hiện một ngọn giáo quá đỗi quen mắt.
 
 Phải, đó chính là ngọn giáo y hệt không sai một ly so với ngọn giáo vừa rạch toạc vai phải của nó cách đây không lâu.
 

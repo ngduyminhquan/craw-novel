@@ -6,7 +6,7 @@ Ngay khoảnh khắc Rei cất lời, ánh mắt của tất cả mọi người
 
 "...Ồ, đó là cách gì vậy?"
 
-"Trước đó thì có một điều. Cách này chẳng khác nào con át chủ bài của tôi. Nếu không dùng thì bản thân tôi cũng gặp nguy hiểm nên đành phải đem ra, nhưng tôi có một điều kiện."
+"Trước đó thì có một điều. Cách này coi như là con át chủ bài của tôi. Nếu không dùng thì bản thân tôi cũng gặp nguy hiểm nên đành phải đem ra, nhưng tôi có một điều kiện."
 
 "Cậu nói xem."
 
@@ -28,7 +28,7 @@ Chỉ một lời. Đúng một câu phát ra từ miệng Rei, chân trước c
 
 Dù Kuust có tự tin vào năng lực của mình đến đâu thì hiển nhiên cũng không đời nào đọ lại sức mạnh cơ bắp của một con Griffin. Huống hồ Set còn đang trang bị Đạo Cụ Ma Thuật mang tên Vòng Tay Cường Lực nên sức mạnh càng được khuếch đại gấp bội.
 
-Cây ma thương trên tay bị đập văng xuống đất một cách dễ dàng, Kuust rên rỉ ôm lấy bàn tay tê rần.
+Bị đập văng cây ma thương trên tay xuống đất dễ như bỡn, Kuust rên rỉ vì bàn tay tê rần.
 
 Hướng ánh mắt lạnh lùng về phía Kuust, Rei thong thả nói tiếp.
 
@@ -64,7 +64,7 @@ Thấy vậy, Elena liếc nhìn Vel đang thở phào nhẹ nhõm rồi cất l
 
 "...Cho ta năm phút."
 
-Nói xong, Elena nhắm mắt bắt đầu trầm ngâm suy nghĩ.
+Nói xong, Elena nhắm mắt bắt đầu ngẫm nghĩ.
 
 Rei đang quan sát cô thì Vel đứng bên cạnh lên tiếng bắt chuyện.
 
@@ -86,7 +86,7 @@ Vừa vung mạnh cây Rìu Cường Lực trong tay, cô vừa hướng ánh m�
 
 "Nếu tiểu thư Elena ra lệnh hạ gục cậu Rei, tôi cũng chỉ việc tuân lệnh."
 
-"...Dù sao thì cây rìu đó cũng là của tôi đấy nhé. Tôi bảo cho Ara mượn chỉ là mượn tạm thôi, chứ chưa hề chuyển quyền sở hữu đâu."
+"...Dù sao thì cây rìu đó cũng là của tôi đấy nhé. Tôi đưa cho cô dùng cũng chỉ là cho mượn tạm thôi, chứ chưa hề chuyển quyền sở hữu đâu."
 
 "Đúng vậy. Cây Rìu Cường Lực này đúng là thuộc quyền sở hữu của cậu Rei. Nhưng hiện tại tôi đang mượn thì tôi dùng nó thế nào là quyền của tôi chứ?"
 
@@ -194,7 +194,7 @@ Chạy tiên phong là Ara và Kuust. Ara dùng Rìu Cường Lực nghênh chi�
 
 Từ phía sau những con lao vào cận chiến, vô số Thủy Cầu được bắn ra để yểm trợ. Dù đã chịu Uy Áp Vương Giả khiến động tác bắn Thủy Cầu chậm lại, nhưng tốc độ của bản thân quả cầu nước vẫn nhanh như trước. Đảm nhận việc đánh chặn chúng là Elena và Vel ở vị trí trung vệ. Lưỡi kiếm vươn dài biến thành dạng roi của liên tiếp kiếm liên tục đón đánh các quả Thủy Cầu bay tới, phá nát chúng trước khi chạm đích khiến nước bắn tung tóe xuống mặt đất. Còn những con Water Monkey vừa bắn Thủy Cầu do lãnh trọn Uy Áp Vương Giả của Set nên cử động bị chậm đi, lập tức bị những mũi tên Vel bắn ra găm thẳng vào người.
 
-Nhàn nhã nhất có lẽ là Rei và Set ở vị trí hậu vệ. Bởi lẽ có sự hiện diện của Set vừa tung ra Uy Áp Vương Giả, bầy Water Monkey bị nỗi sợ hãi, khiếp đảm hay sự kinh sợ bao trùm nên chẳng dám manh động tấn công. Dù vậy, vẫn có vài con ráng gượng thân thể chậm chạp để lao vào Rei đang chạy bên cạnh thay vì Set, nhưng cũng chỉ lèo tèo vài con chứ chẳng thể dùng chiến thuật biển người. Và những kẻ địch di chuyển chậm chạp đó đều bị Lưỡi Hái Tử Thần mà Rei vung lên tước đoạt sinh mạng.
+Nhàn nhã nhất có lẽ là Rei và Set ở vị trí hậu vệ. Bởi lẽ có Set vừa tung Uy Áp Vương Giả ở ngay đó, bầy Water Monkey đều hoảng sợ, khiếp đảm và e dè nên chẳng dám manh động tấn công. Dù vậy, vẫn có vài con ráng gượng cái thân chậm chạp để lao vào Rei đang chạy bên cạnh thay vì Set, nhưng cũng chỉ lèo tèo vài con chứ chẳng thể dùng chiến thuật biển người. Mà mấy con chậm chạp đó đều bị một đường Lưỡi Hái Tử Thần của Rei lấy mạng.
 
 "Tiểu thư Elena, sắp ra khỏi rừng rồi!"
 

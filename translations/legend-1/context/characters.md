@@ -55,7 +55,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 84: Thẻ Hội Hạng D; đang làm hộ vệ cho nhóm Elena ở tầng ngầm thứ tư của hầm ngục. Sau khi thu xác Ogre khổng lồ vào Nhẫn Sương Mù, cả nhóm bị hơn 100 con Water Monkey bao vây tập kích; Rei đã dựng [Hồng Liên Diễm Bích] bảo vệ đội, cho Ara mượn [Rìu Cường Lực] và chuẩn bị mở đường đột phá vòng vây.
+- Trạng thái tính đến chương 87: Thẻ Hội Hạng D; đang hộ vệ nhóm Elena thám hiểm hầm ngục. Sau khi thỏa thuận với Elena sẽ dùng [Hạt Giống Trừng Phạt] bảo mật năng lực của Set sau khi xong việc ở Tế đàn kế thừa, cả nhóm dùng [Uy Áp Vương Giả] đột phá vòng vây, hạ con Water Monkey chủng hiếm cao 2m (Rei cất toàn bộ xác vào Nhẫn Sương Mù) và tiến xuống tầng ngầm thứ năm có nhiều Undead với Rei và Set đi tiền vệ.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set

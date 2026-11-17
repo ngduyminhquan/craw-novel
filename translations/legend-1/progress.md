@@ -89,9 +89,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 82 |  | Chapter_0082 - 継承の祭壇 - 第82話.txt | 継承の祭壇 - 第82話 | reviewed |  |
 | 83 |  | Chapter_0083 - 継承の祭壇 - 第83話.txt | 継承の祭壇 - 第83話 | reviewed |  |
 | 84 |  | Chapter_0084 - 継承の祭壇 - 第84話.txt | 継承の祭壇 - 第84話 | reviewed |  |
-| 85 |  | Chapter_0085 - 継承の祭壇 - 第85話.txt | 継承の祭壇 - 第85話 | done |  |
-| 86 |  | Chapter_0086 - 継承の祭壇 - 第86話.txt | 継承の祭壇 - 第86話 | done |  |
-| 87 |  | Chapter_0087 - 継承の祭壇 - 第87話.txt | 継承の祭壇 - 第87話 | done |  |
+| 85 |  | Chapter_0085 - 継承の祭壇 - 第85話.txt | 継承の祭壇 - 第85話 | reviewed |  |
+| 86 |  | Chapter_0086 - 継承の祭壇 - 第86話.txt | 継承の祭壇 - 第86話 | reviewed |  |
+| 87 |  | Chapter_0087 - 継承の祭壇 - 第87話.txt | 継承の祭壇 - 第87話 | reviewed |  |
 | 88 |  | Chapter_0088 - 継承の祭壇 - 第88話.txt | 継承の祭壇 - 第88話 | todo |  |
 | 89 |  | Chapter_0089 - 継承の祭壇 - 第89話.txt | 継承の祭壇 - 第89話 | todo |  |
 | 90 |  | Chapter_0090 - 継承の祭壇 - 第90話.txt | 継承の祭壇 - 第90話 | todo |  |
