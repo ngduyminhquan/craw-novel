@@ -208,3 +208,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | スケルトンロード |  | Skeleton Lord | quái vật | 88 | Quái vật bộ xương cấp cao thuộc hệ Undead |
 | 薄き焔 |  | Bạc Diễm | kỹ năng | 89 | Ma thuật hệ Hỏa của Rei tạo màng lửa mỏng nhiệt độ thấp bao phủ bề mặt |
 | リッチ |  | Lich | quái vật | 89 | Quái vật Undead bắt nguồn từ ma pháp sư biến thành sau khi chết |
+| ウォーター・ファング |  | Nanh Nước | kỹ năng | 90 | Ma pháp tấn công hệ Thủy tạo ra 5 gai nước hình nón như răng nanh, do Kuust sử dụng |
+| 神聖魔法 |  | Thần Thánh Ma Pháp | kỹ năng | 90 | Loại ma pháp mang thuộc tính thần thánh có hiệu quả cao đối với Undead |

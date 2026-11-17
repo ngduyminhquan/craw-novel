@@ -55,7 +55,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 89: Thẻ Hội Hạng D; đang cùng nhóm Elena thám hiểm tầng ngầm thứ năm hầm ngục; đã công khai Đạo Cụ Ma Thuật [Vòng Tay Hấp Ma] ở cổ tay trái và dùng ma thuật [Bạc Diễm] phá giải bẫy vòng lặp không gian của hầm ngục.
+- Trạng thái tính đến chương 90: Thẻ Hội Hạng D; đang cùng nhóm Elena thám hiểm tầng ngầm thứ năm hầm ngục, vừa cùng Set tiêu diệt đàn Zombie giáp công và tiếp tục tìm đường xuống tầng sáu.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -201,7 +201,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
-- Vũ khí và ma pháp: Dùng ma thương; có thể sử dụng ma pháp hồi phục hệ Thủy [Lam Dũ].
+- Vũ khí và ma pháp: Dùng ma thương; khuyên tai bên phải là vật phát động ma pháp; sử dụng ma pháp hệ Thủy gồm hồi phục [Lam Dũ] và tấn công [Nanh Nước].
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
