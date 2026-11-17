@@ -44,7 +44,7 @@ Thấy Set tiến lại gần cất tiếng kêu có phần hối lỗi, Rei kh�
 
 Cậu vừa gãi đầu nó vừa đứng dậy, rồi lắc đầu nhìn về phía Elena đang dõi theo mình.
 
-"Không tận dụng được gì cả. Tạm thời trong phòng này cũng chẳng còn thứ gì khác, tôi nghĩ ta nên đi tiếp thì hơn."
+"Không tận dụng được gì cả. Tạm thời trong phòng này cũng chẳng còn thứ gì khác, tôi nghĩ chúng ta nên đi tiếp thì hơn."
 
 "Hẳn là vậy. ...Được rồi, tiếp tục thám hiểm thôi. Vel, Ara, Kuust."
 
@@ -94,11 +94,11 @@ Không Gian Ma Pháp vốn là loại ma pháp cấp cao rất khó học. Nhắ
 
 "Cũng nên tính đến khả năng đó. Dù nói thật là tôi chẳng muốn đụng độ chút nào."
 
-Lich. Đó là sự tồn tại sinh ra khi ma pháp sư hồi sinh dưới dạng Undead. Có trường hợp ma pháp sư tự tiến hành nghi thức để chuyển sinh thành Lich, và cũng có trường hợp hiếm hoi ma pháp sư chết đi nhưng ôm giữ nỗi oán hận, thù ghét hoặc vướng bận sâu sắc mà sống lại thành Lich.
+Lich. Đó là loài sinh ra khi ma pháp sư hồi sinh dưới dạng Undead. Có trường hợp ma pháp sư tự tiến hành nghi thức để chuyển sinh thành Lich, và cũng có trường hợp hiếm hoi ma pháp sư chết đi nhưng ôm giữ nỗi oán hận, thù ghét hoặc vướng bận sâu sắc mà sống lại thành Lich.
 
 Tùy thuộc vào năng lực khi còn sống của ma pháp sư mà độ nguy hiểm muôn hình vạn trạng, nghe đâu từng có trường hợp ma pháp sư chỉ cỡ Hạng G hồi sinh thành Lich.
 
-Chính vì vậy, quái vật Lich không có Hạng quái vật cố định; có Lich tương đương Hạng A, nhưng cũng có con chỉ tầm Hạng G như ví dụ trên. Về cơ bản chúng thường giữ được ý thức như con người, song cũng có những con mất sạch ý thức, chỉ biết phát cuồng theo bản năng.
+Chính vì vậy, quái vật Lich không có Hạng quái vật cố định; có Lich tương đương Hạng A, nhưng cũng có con chỉ tầm Hạng G như ví dụ trên. Về cơ bản chúng thường giữ được ý thức như con người, nhưng cũng có những con mất sạch ý thức, chỉ biết phát cuồng theo bản năng.
 
 "Hẳn là vậy. Quái vật biết dùng ma pháp lại còn là Undead thì phiền phức vô cùng. Cứ cầu mong không phải thế mà đi tiếp thôi."
 
@@ -114,7 +114,7 @@ Vách tường trước mắt đúng là chỗ Set đã cào cách đây khoản
 
 Người hỏi câu đó là Vel đang đứng sau lưng Rei. Trong giọng anh thoáng vẻ bán tín bán nghi.
 
-"Vâng. Vết cào này chắc chắn do Set tạo ra, không lệch đi đâu được. Có điều..."
+"Ừ. Vết cào này chắc chắn do Set tạo ra, không lệch đi đâu được. Có điều..."
 
 Rei liếc nhìn vách tường.
 
@@ -184,7 +184,7 @@ Nói đoạn, cậu đưa cổ tay trái ra cho mọi người xem thay vì cổ
 
 "...Thật không ngờ đấy. Đối với người dùng ma pháp thì đây quả là món Đạo Cụ Ma Thuật ai nấy đều thèm muốn. Món đó cũng do sư phụ cậu truyền lại sao?"
 
-"Đúng vậy ạ. Mà như tiểu thư Elena cũng biết đấy, lượng ma lực vốn có của tôi đã rất lớn rồi nên hiếm khi phải dựa vào thứ này. Vả lại về cơ bản ma pháp sư thường không có kỹ năng đánh cận chiến để gây sát thương trực tiếp lên kẻ địch. ...Vậy ta cứ tiến hành theo cách tôi vừa nêu nhé?"
+"Đúng vậy. Mà như tiểu thư Elena cũng biết đấy, lượng ma lực vốn có của tôi đã rất lớn rồi nên hiếm khi phải dựa vào thứ này. Vả lại về cơ bản ma pháp sư thường không có kỹ năng đánh cận chiến để gây sát thương trực tiếp lên kẻ địch. ...Vậy chúng ta cứ tiến hành theo cách tôi vừa nêu nhé?"
 
 "Một khi chưa nghĩ ra cách nào khác thì thử theo cách của Rei là tối ưu nhất rồi. Nhờ cậu đấy."
 
@@ -204,12 +204,12 @@ Vừa nghe giọng điệu bàng hoàng của Ara, Rei vừa tiếp tục rót m
 
 "...Tìm thấy rồi!"
 
-Vừa hét lên như vậy, Rei, người nãy giờ đang tập trung duy trì ngọn lửa, liền vung mạnh cây Lưỡi Hái Tử Thần làm dập tắt ngọn lửa đang tràn ngập hành lang rồi lao vụt đi.
+Vừa hét lên như vậy, Rei, người nãy giờ đang tập trung duy trì ngọn lửa, liền vung mạnh cây Lưỡi Hái Tử Thần xóa tan ngọn lửa đang tràn ngập hành lang rồi lao vụt đi.
 
-Set lập tức bám sát theo sau, Elena cũng chỉ thoáng ngập ngừng một thoáng rồi đuổi theo.
+Set lập tức bám sát theo sau, Elena cũng chỉ thoáng ngập ngừng rồi đuổi theo.
 
 Khi nhóm Elena đuổi kịp, Rei đã giương cao cây Lưỡi Hái Tử Thần nhắm vào một mảng tường.
 
 "Haaa!"
 
-Lưỡi hái của Lưỡi Hái Tử Thần chém mạnh xuống. Nhát chém xẻ toạc một phần vách tường... Ngay khoảnh khắc tiếp theo, âm thanh tựa như tiếng thủy tinh vỡ vang vọng khắp không gian xung quanh, và hiện ra trước mắt họ là cánh cửa dẫn tới căn phòng nhỏ nơi họ vừa giao chiến với con chó xương.
+Lưỡi hái của Lưỡi Hái Tử Thần chém mạnh xuống. Nhát chém xẻ toạc một phần vách tường... Ngay khoảnh khắc tiếp theo, âm thanh giống như tiếng thủy tinh vỡ vang vọng khắp không gian xung quanh, và hiện ra trước mắt họ là cánh cửa dẫn tới căn phòng nhỏ nơi họ vừa giao chiến với con chó xương.

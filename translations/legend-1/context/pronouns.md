@@ -218,3 +218,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zack | Rei | tôi | cậu | 77 | Mạo hiểm giả Hạng C giao tiếp với mạo hiểm giả trẻ tuổi |
 | Rei | Zack | tôi | anh | 77 | Mạo hiểm giả nói chuyện bình thường với mạo hiểm giả lớn tuổi hơn |
 | Elena | Set | ta | mày / Set | 88 | Elena nói chuyện thân thiện với Set |
+| Ara | Kuust | tôi | Kuust / cậu / anh ta | 90 | Nữ hiệp sĩ hộ vệ nói trực tiếp hoặc nhắc tới đội trưởng đồng trang lứa |

@@ -4,7 +4,7 @@
 
 Nghe thấy giọng của Vel từ phía sau vọng lại, Rei bất giác cười trừ.
 
-Hiện diện trước mắt cậu là thứ có thể gọi là tàn tích của hai con Skeleton đầu tiên lao vào tấn công khi cả nhóm vừa đặt chân xuống tầng ngầm thứ năm.
+Trước mắt cậu là thứ có thể gọi là xác của hai con Skeleton đầu tiên lao vào tấn công khi cả nhóm vừa đặt chân xuống tầng ngầm thứ năm.
 
 Những khúc xương vốn trắng muốt giờ đã cháy đen thui, thậm chí có phần đã hóa than rồi vỡ vụn. Xương xẩu ở tình trạng thảm hại như thế của hai con Skeleton nằm ngổn ngang trên sàn hầm ngục. Đây lại chẳng phải kết quả sau một trận kịch chiến bình thường, mà chỉ sau duy nhất một lần Set phun Hơi Thở Lửa đã ra nông nỗi này, bảo sao Vel không khỏi cất tiếng trầm trồ.
 
@@ -38,19 +38,19 @@ Dẫu sao khi không có bản đồ trong tay, việc chọn đúng con đườ
 
 Thấy cô quay sang hỏi Rei như vậy, có người bất giác nhíu mày khó chịu. Đó là Kuust, người được giao nhiệm vụ cùng Ara bọc hậu phía sau.
 
-(Vừa rồi tiểu thư Elena chẳng hề ngần ngại mà đi hỏi ý kiến hắn. Dĩ nhiên vì hắn là mạo hiểm giả nên chuyện đó cũng không hẳn là sai. Nhưng nếu là trước đây, chắc chắn tiểu thư sẽ bàn bạc với bọn mình trước, rồi sau đó mới nói với hắn. ...Rõ ràng tên đó đang gây ảnh hưởng xấu tới tiểu thư Elena.)
+(Vừa rồi tiểu thư Elena chẳng hề ngần ngại mà đi hỏi ý kiến hắn. Dĩ nhiên vì hắn là mạo hiểm giả nên chuyện đó cũng không hẳn là sai. Nhưng nếu là trước đây, chắc chắn tiểu thư sẽ bàn bạc với chúng ta trước, rồi sau đó mới nói với hắn. ...Rõ ràng tên đó đang gây ảnh hưởng xấu tới tiểu thư Elena.)
 
 Trong lúc anh ta đang nghiến chặt răng ken két thì Vel, người nãy giờ cũng đưa mắt nhìn Elena và Rei như Kuust nhưng bằng ánh mắt đầy thích thú, dường như đã nhận ra điều đó; anh khẽ cười trừ rồi rút bình nước từ chiếc túi bên hông ra chìa về phía Kuust.
 
-"Này, bình nước nè. Cậu cũng khát rồi đúng không?"
+"Này, trước mắt cứ uống chút nước cho bình tĩnh lại đi. Tôi hiểu là cậu không ưa Rei, nhưng một khi đây là hầm ngục thì việc dựa vào một mạo hiểm giả như Rei cũng là lẽ đương nhiên thôi."
 
-"...Cảm ơn."
+"...Hừ, nếu thật sự chỉ có thế thì đã tốt."
 
-Kuust nhận lấy bình nước, nhấp một ngụm rồi quẹt miệng và đưa mắt nhìn Vel.
+Giật phắt lấy bình nước Vel chìa ra để uống cho đỡ khát, anh ta hướng ánh mắt về phía Rei rồi buông lời cay độc.
 
-"Tiểu thư Elena ngày càng dựa dẫm vào hắn."
+"Cứ đà này khéo lại gây ảnh hưởng kỳ quặc tới nghi thức ở Tế đàn kế thừa mất."
 
-"Có thể là vậy, nhưng lòng người đâu phải thứ mình muốn thế này thế nọ là điều khiển được đâu?"
+"Nỗi lo của Kuust cũng có lý đấy, nhưng lòng người đâu phải thứ mình muốn thế này thế nọ là điều khiển được đâu?"
 
 "Chẳng hiểu sao Bá tước biên cảnh Rowlocks lại phái một tên mạo hiểm giả như thế tới đây. Vốn dĩ cũng tại cậu nói mấy lời kỳ quặc nên..."
 
@@ -58,7 +58,7 @@ Kuust định cằn nhằn thêm điều gì đó với Vel, nhưng chưa kịp 
 
 "Trước mắt chúng ta cứ đi sang phải. Dù nếu là đường cụt thì sẽ phải quay lại, nhưng mọi người đừng lơ là, cứ cẩn thận tiến lên."
 
-"Rõ ạ."
+"Rõ."
 
 "Mà, đằng nào cũng không có bản đồ nên đành trông vào trực giác thôi. Với cái mùi này thì dùng khứu giác để phát hiện kẻ địch cũng khó khăn."
 
@@ -112,7 +112,7 @@ Vel thò mặt qua khoảng trống giữa Rei và Set để bắt đầu kiểm
 
 "Ừm, ra là thế. Ồ, chỗ này làm thế này... Úi chà, cái này cũng là mồi nhử à. Vậy là bên này chăng?"
 
-Vel vừa lẩm bẩm vẻ thích thú vừa kiểm tra tay nắm, rồi vài phút sau... một tiếng "cạch" khô khốc vang lên giữa không gian xung quanh.
+Vel vừa lẩm bẩm vẻ thích thú vừa kiểm tra tay nắm, rồi vài phút sau... một tiếng cạch khô khốc vang lên giữa không gian xung quanh.
 
 "Phù, coi như gỡ bẫy thành công. Bẫy gài ở đây hiểm hóc phết đấy. Cứ kéo tay nắm này là một cây kim sẽ bắn vút ra. Chưa kể nhìn này, kim còn tẩm độc rành rành ra nữa chứ."
 
@@ -134,7 +134,7 @@ Nghe lời Rei, Vel ngẫm nghĩ vài giây rồi đưa mắt nhìn Elena; thấ
 
 "Đã bảo không sao rồi mà."
 
-Vừa nói, Rei vừa cất cây kim độc được trao vào bên trong Nhẫn Sương Mù.
+Vừa nói, Rei vừa cất cây kim độc Vel đưa vào trong Nhẫn Sương Mù.
 
 "Được rồi, mở cửa nhé."
 
@@ -162,7 +162,7 @@ Trước lời phân tích của Vel, Ara suy nghĩ vài giây... rồi lập t�
 
 "Ý cậu là cạm bẫy sao?"
 
-"Chắc là vậy đấy. ...Tiểu thư Elena, ta tính sao đây ạ? Ý tôi thì tốt nhất cứ mặc kệ nó."
+"Chắc là vậy đấy. ...Tiểu thư Elena, chúng ta tính sao đây? Ý tôi thì tốt nhất cứ mặc kệ nó."
 
 "Ta cũng nghĩ vậy. Đương nhiên ở đây chẳng có cầu thang nào cả, không cần thiết phải mạo hiểm vô ích... Lùi lại mau!"
 
@@ -178,9 +178,9 @@ Nó hoàn toàn câm lặng như đặc tính vốn có của Skeleton, thậm c
 
 "Thấy chưa, quả nhiên là bẫy mà!"
 
-"Giờ là lúc nói câu đấy đấy à! Anh Vel cũng mau thủ sẵn vũ khí đi! Con này tuy nhỏ nhưng nhanh nhẹn phết đấy!"
+"Giờ là lúc nói câu đấy à! Anh Vel cũng mau thủ sẵn vũ khí đi! Con này tuy nhỏ nhưng nhanh nhẹn phết đấy!"
 
-Nghe lời nhắc nhở của Rei khi cậu vừa thủ thế lại cây Lưỡi Hái Tử Thần vừa vung ra, Vel cũng rút con dao găm từ bên hông.
+Nghe Rei nhắc trong lúc thu cây Lưỡi Hái Tử Thần vừa vung ra về thủ thế lại, Vel cũng rút con dao găm bên hông.
 
 Hẳn anh nhận định trong tình huống cự ly gần và đối thủ di chuyển thoăn thoắt như thế này, dao găm sẽ chiếm ưu thế hơn nhiều so với cung tên.
 

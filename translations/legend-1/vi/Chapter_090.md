@@ -62,7 +62,7 @@ Set nhìn chằm chằm về phía cuối hành lang, bắt đầu gừ thấp t
 
 Vừa đáp lời Vel, Elena vừa thủ sẵn liên tiếp kiếm. Những người khác cũng đồng loạt vào thế sẵn sàng vũ khí, chuẩn bị chiến đấu bất cứ lúc nào.
 
-"Ara, Kuust. Hai cậu phải hết sức cảnh giác phía sau. Nếu lũ Undead ở tầng này đang bị ai đó chỉ huy thì hoàn toàn có khả năng chúng sẽ giáp công từ cả trước lẫn sau đấy."
+"Ara, Kuust. Hai người phải hết sức cảnh giác phía sau. Nếu lũ Undead ở tầng này đang bị ai đó chỉ huy thì hoàn toàn có khả năng chúng sẽ giáp công từ cả trước lẫn sau đấy."
 
 "Tôi rõ rồi. Cứ để phía sau cho tôi!"
 
@@ -136,7 +136,7 @@ Kuust tặc lưỡi, thủ sẵn ma thương rồi quay ngoắt ra sau.
 
 Đúng vậy. Tiếng bước chân vọng lại đúng là của Zombie, nhưng ngoài tiếng bước chân của những kẻ đang tiến đến trước mặt thì còn có những tiếng bước chân khác vang lên ngắt quãng, lệch nhịp. Mà lại không phải từ phía trước, mà là từ đằng sau lưng.
 
-"Tiểu thư Elena! Đúng như dự đoán, phía sau cũng có địch tập kích! Nghe tiếng bước chân thì có lẽ là Zombie ạ!"
+"Tiểu thư Elena! Đúng như dự đoán, phía sau cũng có địch tập kích! Nghe tiếng bước chân thì có lẽ là Zombie!"
 
 "Chẳng biết là kẻ nào, nhưng xem ra chúng đang tiếp đón chúng ta rất nồng hậu đấy. Ara, Kuust, tạm thời cứ tập trung phòng thủ cầm cự cho tới khi Rei và Set rảnh tay!"
 
@@ -146,7 +146,7 @@ Nhận mệnh lệnh đó từ Elena, nhìn đàn Zombie đang tiến lại gầ
 
 "Tôi cũng thế thôi."
 
-"Nhưng vũ khí của Kuust là thương mà. Xét về cự ly thì đằng ấy lợi thế hơn hẳn còn gì."
+"Nhưng vũ khí của Kuust là thương mà. Xét về cự ly thì bên cậu lợi thế hơn hẳn còn gì."
 
 "Dù vậy thì việc phải làm vấy bẩn cây ma thương gia truyền này bằng máu thịt thối rữa của lũ Undead như Zombie quả thật chẳng dễ chịu chút nào."
 
@@ -158,7 +158,7 @@ Hẳn là anh ta ghét phải dựa dẫm vào Rei lắm. Dù bực bội khịt
 
 [Hỡi Tinh Linh Nước vĩ đại, hãy để lộ năm chiếc nanh hung mãnh]
 
-Thông qua chiếc khuyên tai vốn là vật phát động ma pháp, thế giới bị biến đổi, tạo hình nên năm mũi gai hình nón cấu tạo từ nước. Đường kính chỉ chừng mười centimet, nhưng thật ra đây lại là ma pháp tấn công mạnh nhất mà Kuust có thể sử dụng. Dù sở trường là ma pháp hệ Thủy, nhưng cơ bản anh chỉ chuyên tâm vào ma pháp hồi phục nên ma pháp tấn công không quá nổi trội.
+Thông qua chiếc khuyên tai vốn là vật phát động ma pháp, thế giới bị biến đổi, tạo hình nên năm mũi gai hình nón bằng nước. Đường kính chỉ chừng mười centimet, nhưng thật ra đây lại là ma pháp tấn công mạnh nhất mà Kuust có thể sử dụng. Dù sở trường là ma pháp hệ Thủy, nhưng cơ bản anh chỉ chuyên tâm vào ma pháp hồi phục nên ma pháp tấn công không quá nổi trội.
 
 [Nanh Nước!]
 
@@ -168,7 +168,7 @@ Thế nhưng vốn dĩ Zombie chẳng hề có cảm giác đau đớn, nên sau
 
 "Không ăn thua rồi!"
 
-Vốn chẳng trông mong gì nhiều, nhưng có lẽ vẫn nuôi một tia hy vọng mong manh nên Ara không kiềm được mà cất tiếng bắt bẻ.
+Vốn chẳng trông mong gì nhiều, nhưng có lẽ vẫn nuôi một tia hy vọng mong manh nên Ara không kìm được mà cất tiếng bắt bẻ.
 
 Giữa lúc đó, một bóng đen bất chợt bay vút qua đầu Kuust và Ara rồi đáp xuống ngay trước mặt họ.
 
@@ -178,7 +178,7 @@ Thứ đó chẳng cần nói cũng biết chính là chú Griffin Set.
 
 Ara liếc nhanh về phía tiền vệ, nơi đó những kẻ trông như Zombie đã bị thiêu đen thui ngã gục khắp mặt đất. Vẫn còn vài con Zombie đang cử động, nhưng sinh mạng giả tạo của chúng cũng lần lượt bị những quả Hỏa Cầu do Rei bắn ra xóa sổ hoàn toàn.
 
-"Ara, Kuust! Nhờ có Set mà tiền vệ ổn rồi! Đám Zombie tập kích từ phía sau cũng giao cho Set, hai cậu chỉ cần tập trung phòng thủ thôi!"
+"Ara, Kuust! Nhờ có Set mà tiền vệ ổn rồi! Đám Zombie tập kích từ phía sau cũng giao cho Set, hai người chỉ cần tập trung phòng thủ thôi!"
 
 "Rõ!"
 
