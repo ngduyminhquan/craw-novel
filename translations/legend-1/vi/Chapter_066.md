@@ -6,7 +6,7 @@ Về phần Set đi cùng ở cổng chính, cả hai đã tách nhau ra từ tr
 
 Tiết trời đang dần chuyển từ hạ sang thu. Nhiệt độ bên ngoài dễ chịu đến mức như thể cái nóng nực của vài tuần trước chưa từng tồn tại.
 
-Dù nói vậy, nhưng là loài Griffin, Set sở hữu cơ thể chẳng màng hè hay đông đều có thể sinh hoạt bình thường.
+Cơ mà là loài Griffin nên cơ thể Set bất chấp cả nắng hè lẫn giá đông, mùa nào cũng sống khỏe re.
 
 Ghen tị thật đấy. Rei vừa thầm nghĩ vừa nhấp ngụm hồng trà do cô hầu gái mang tới lúc dẫn cậu vào phòng, mắt đảo quanh nhìn một lượt.
 
@@ -84,7 +84,7 @@ Daska cười trừ mở lời.
 
 "Dù sao thì đây là tiểu thư Elena, người mà lần này cậu sẽ hộ vệ. Thưa tiểu thư Elena, chàng trai này tên là Rei, mạo hiểm giả được thành phố Gilm phái tới làm hộ vệ cho tiểu thư lần này. Cậu ta tài giỏi đến mức nào thì với người đã trực tiếp giao kiếm như tiểu thư, hẳn ta không cần nói thêm nữa nhỉ?"
 
-"Ừm. Sau khi gạt đòn đánh đó, tay ta đã tê dại suốt một hồi lâu. Một người có thể tung ra đòn đánh mạnh cỡ đó thì tay nghề mạo hiểm giả chắc chắn thuộc hàng nhất lưu, ta không có gì để phàn nàn cả."
+"Ừm. Sau khi gạt đòn đánh đó, tay ta đã tê dại suốt một hồi lâu. Một người có thể tung ra đòn đánh mạnh cỡ đó thì tay nghề mạo hiểm giả chắc chắn thuộc hàng đầu, ta không có gì để phàn nàn cả."
 
 "Cảm ơn tiểu thư."
 
@@ -98,7 +98,7 @@ Nhận thấy vụ việc ban nãy có vẻ sẽ không bị phạt gì, Rei li�
 
 Ara vừa cúi đầu vừa nói, nhưng trong mắt cô lộ rõ vẻ bất mãn, đến người ngoài nhìn vào cũng thấy rõ cô chỉ miễn cưỡng xin lỗi vì Elena - người cô hết mực sùng kính - đã bảo như vậy.
 
-Dẫu vậy, hiện tại Rei rốt cuộc cũng chỉ là một mạo hiểm giả Hạng D. Cậu chẳng thể phàn nàn gì với một người mang thân phận kỵ sĩ như Ara, vả lại cũng chẳng thấy cần thiết phải làm thế, nên chỉ gật đầu mà không hề có vẻ gì là trách móc.
+Có điều, hiện tại Rei suy cho cùng cũng chỉ là một mạo hiểm giả Hạng D. Cậu chẳng thể phàn nàn gì với một người mang thân phận kỵ sĩ như Ara, vả lại cũng chẳng thấy cần thiết phải làm thế, nên chỉ gật đầu mà không hề có vẻ gì là trách móc.
 
 "Không đâu, bên tôi tuy chỉ là theo phản xạ nhưng cũng đã phản kích lại rồi. Cô không cần bận tâm. Cứ coi như huề cả làng đi."
 
@@ -110,7 +110,7 @@ Ara khẽ cúi đầu rồi lùi lại phía sau Elena. Liếc nhìn bóng lưng
 
 "Vâng."
 
-"Vậy à. Thế ta cứ gọi là Rei nhé. Ta mong cậu đừng hiểu lầm, không phải Ara có ác cảm gì với cậu đâu. Chỉ là... phải nói sao nhỉ. Đúng rồi, chẳng hiểu sao cứ liên quan đến ta là con bé lại lo lắng thái quá. Cho nên đừng ghét con bé nhé. Chúng ta sắp cùng nhau bước vào hầm ngục, chẳng ai muốn bất hòa vì mấy chuyện vụn vặt đâu nhỉ? Vả lại với tình trạng gượng gạo đó, lỡ trong hầm ngục xảy ra chuyện thì việc cứu được cũng thành không cứu nổi."
+"Vậy à. Thế ta cứ gọi là Rei nhé. Ta mong cậu đừng hiểu lầm, không phải Ara có ác cảm gì với cậu đâu. Chỉ là... phải nói sao nhỉ. Đúng rồi, chẳng hiểu sao cứ liên quan đến ta là cô ấy lại lo lắng thái quá. Cho nên đừng để bụng cô ấy nhé. Chúng ta sắp cùng nhau bước vào hầm ngục, chẳng ai muốn bất hòa vì mấy chuyện vụn vặt đâu nhỉ? Vả lại với bầu không khí gượng gạo đó, lỡ trong hầm ngục xảy ra chuyện thì chỗ đáng lẽ cứu được cũng thành không cứu nổi."
 
 "Đúng vậy ạ. Tôi cũng có cùng suy nghĩ. Bản thân tôi chưa từng bước chân vào hầm ngục bao giờ, nhưng sau khi nhận ủy thác chỉ định lần này tôi cũng đã tìm hiểu nhiều thứ... Xem ra đó chẳng phải nơi dễ dàng gì."
 
@@ -158,7 +158,7 @@ Rei gật đầu trước câu hỏi của Elena, tháo Hộp Vật Phẩm khỏ
 
 "Bình thường thì Hộp Vật Phẩm là thứ ai cũng dùng được. Chẳng hạn như tôi bỏ thuốc hồi phục vào chiếc Hộp Vật Phẩm này thì tiểu thư Elena cũng lấy ra được. Nhưng chiếc Hộp Vật Phẩm này trong lúc chế tác dường như được gia công hơi đặc biệt một chút, nên nó chỉ phản ứng với ma lực của chủ nhân. Nói cách khác, đồ tôi cất vào đây thì chỉ có mình tôi lấy ra được. Đồng thời người khác có muốn dùng chiếc Hộp Vật Phẩm này cũng không thể dùng nổi. Nó nhận diện chủ nhân thông qua ma lực đấy ạ."
 
-"...Hô. Tuyệt thật đấy. Vũ khí Đạo Cụ Ma Thuật nhận diện chủ nhân tuy không nhiều nhưng cũng có một số. Chẳng hạn như cây ma thương của Kuust kia kìa."
+"...Ồ. Tuyệt thật đấy. Vũ khí thuộc loại Đạo Cụ Ma Thuật biết nhận diện chủ nhân tuy không nhiều nhưng cũng có một số. Chẳng hạn như cây ma thương của Kuust kia kìa."
 
 Trước lời của Elena, Kuust nở nụ cười, khẽ gật đầu rồi lên tiếng.
 
@@ -168,7 +168,7 @@ Nghe lời giải thích đó, Rei mới nhận ra ngoại trừ Elena thì nh�
 
 (...Theo nghĩa đó thì kẻ sở hữu Nhẫn Sương Mù như mình có thể mang vũ khí theo dù gặp bất kỳ ai sao?)
 
-Rei thầm gật gù trong bụng. Quả thật, nếu có Nhẫn Sương Mù thì mang vũ khí vào bất cứ nơi nào cũng hoàn toàn khả thi. Nói cách khác, đây chính là nhân tuyển thích hợp nhất để làm sát thủ.
+Rei thầm gật gù trong bụng. Quả thật, nếu có Nhẫn Sương Mù thì mang vũ khí vào bất cứ nơi nào cũng hoàn toàn khả thi. Nói cách khác, cậu chính là người thích hợp nhất để đi ám sát.
 
 (Mà, mục đích của mình là thu thập Ma Thạch của quái vật nên trừ phi có biến cố gì ghê gớm lắm, chẳng đời nào mình làm cái trò ám sát đó đâu.)
 
@@ -190,7 +190,7 @@ Cuối cùng là Kuust.
 
 "Hừm, vậy là hai tán thành, hai phản đối à."
 
-"Thưa tiểu thư Elena, người tính thế nào ạ?"
+"Thưa tiểu thư Elena, tiểu thư tính thế nào ạ?"
 
 "Thế này đi, ta sẽ dùng quyền hạn của mình quyết định nhờ cậy Rei. Ý kiến của Vel và Kuust cũng có lý, nhưng chuẩn bị vào hầm ngục mà phải mang vác hành lý cồng kềnh làm chậm bước di chuyển thì sẽ là sơ hở chí mạng."
 
@@ -210,9 +210,9 @@ Rei gật đầu trước câu hỏi đó, vừa đeo Nhẫn Sương Mù lại v
 
 "Tôi còn dùng được chút ma pháp bổ trợ, ma pháp hệ Phong và ma pháp hệ Thổ nữa."
 
-"Hô, dùng được cả ba thuộc tính Hỏa, Phong, Thổ mà lại thêm cả ma pháp bổ trợ nữa à. Khá đấy chứ."
+"Ồ, dùng được cả ba thuộc tính Hỏa, Phong, Thổ mà lại thêm cả ma pháp bổ trợ nữa à. Khá đấy chứ."
 
-Elena gật đầu vẻ thán phục, nhưng việc Rei nhận được sự chú ý dường như khiến Ara thấy khó chịu. Cô nàng phóng ánh mắt sắc lẹm pha chút ghen tị lườm Rei.
+Elena gật đầu vẻ thán phục, nhưng thấy Rei được tiểu thư quan tâm như vậy có vẻ khiến Ara chướng mắt. Cô phóng ánh mắt sắc lẹm pha chút ghen tị lườm Rei.
 
 "Nhưng ngoài Hỏa ra thì những thuộc tính khác tôi chỉ biết chút đỉnh thôi. Ngoài ra cây lưỡi hái lớn đó tên là Lưỡi Hái Tử Thần, lối chiến đấu của tôi chủ yếu kết hợp dùng Đạo Cụ Ma Thuật tương tự như nó."
 
@@ -232,7 +232,7 @@ Rei vừa nhớ lại thân phận ngụy tạo của mình vừa hỏi như v�
 
 "Trường hợp của tôi là do sư phụ truyền lại."
 
-"À, nhắc mới nhớ sau khi tu luyện xong thì cậu bị sư phụ đuổi đi nhỉ. Chuyện đó ta cũng có nghe Bá tước biên cảnh Rowlocks kể sơ qua rồi. Chắc nhờ quá trình tu luyện ấy mà trong thời gian ngắn cậu đã thăng hạng lên Hạng D được thế này. ...Nào, vậy tiếp theo đến lượt bọn ta. Ta thì phong cách khá gần gũi với Rei. Là một Ma Pháp Chiến Sĩ sở trường tầm trung bằng liên tiếp kiếm và ma pháp. Thuộc tính sở trường là Phong."
+"À, nhắc mới nhớ sau khi tu luyện xong thì cậu bị sư phụ đuổi đi nhỉ. Chuyện đó ta cũng có nghe Bá tước biên cảnh Rowlocks kể sơ qua rồi. Chắc nhờ đợt tu luyện ấy mà chỉ trong thời gian ngắn cậu đã thăng hạng lên Hạng D được thế này. ...Nào, vậy tiếp theo đến lượt bọn ta. Ta thì phong cách khá gần với Rei. Là một Ma Pháp Chiến Sĩ sở trường đánh tầm trung bằng liên tiếp kiếm và ma pháp. Thuộc tính sở trường là Phong."
 
 (Cùng là kiểu Ma Pháp Chiến Sĩ, nhưng khác với mình phân chia rạch ròi giữa cận chiến bằng Lưỡi Hái Tử Thần và tầm xa bằng ma pháp, cô ấy lại chủ yếu đánh tầm trung à. Cô ấy sở hữu thực lực đủ sức đánh bật cả cây Lưỡi Hái Tử Thần nặng hơn 100 kg, vào trận chắc chắn sẽ rất đáng tin cậy đây.)
 
@@ -246,13 +246,13 @@ Thấy Rei gật đầu, Elena nở nụ cười rạng rỡ. Rei bất giác ng
 
 "Vâng, thưa tiểu thư Elena. Tôi là kỵ sĩ, vũ khí là thanh trường kiếm như ban nãy đã thấy. Là vị trí tiền vệ thuần túy nên chắc sẽ có lúc sát cánh chiến đấu bên cạnh cậu Rei, mong được cậu giúp đỡ."
 
-Rei nhớ lại chuyện xảy ra trước cổng chính. Quả thật nhát kiếm giáng xuống người cậu lúc đó là những đường kiếm cương mãnh không hề ăn nhập với vóc dáng mảnh mai kia, uy lực mạnh tới mức mũi kiếm găm ngập cả xuống đất. Nếu vung thanh kiếm đó lên, mấy con quái vật quanh đây chắc đứt làm đôi trong một chiêu là cái chắc.
+Rei nhớ lại chuyện xảy ra trước cổng chính. Quả thật nhát kiếm giáng xuống người cậu lúc đó là một đòn chém đầy sức mạnh không hề ăn nhập với vóc dáng mảnh mai kia, uy lực mạnh tới mức mũi kiếm găm ngập cả xuống đất. Nếu vung thanh kiếm đó lên, mấy con quái vật tầm thường chắc chắn sẽ bị chém đứt đôi chỉ trong một nhát.
 
 "Kuust."
 
 "Vũ khí của tôi như ban nãy đã nói là giáo, và thường đảm nhận vị trí trung vệ tương tự tiểu thư Elena. Về kiếm thì tôi không phải không biết dùng, nhưng rốt cuộc kiếm cũng chỉ mang ý nghĩa dự phòng. Thêm vào đó, vì sở trường là ma pháp hệ Thủy nên tôi cũng phụ trách vai trò hồi phục cho đội ngũ này."
 
-Hẳn là hắn cay cú vì thua Rei lắm. Kuust ngầm ý rằng hôm qua mình thua chẳng qua là do cầm thanh kiếm không quen tay. Thầm thở dài trước lòng tự tôn cao ngút trời một cách vô bổ ấy, Rei không khỏi ái ngại cho chuyến đi tới hầm ngục sắp tới.
+Hẳn là anh ta cay cú vì thua Rei lắm. Kuust ngầm tỏ ý rằng hôm qua mình thua chẳng qua là do cầm thanh kiếm không quen tay. Thầm thở dài trước lòng tự tôn cao ngút trời chẳng đâu vào đâu ấy, Rei không khỏi ái ngại cho chuyến đi tới hầm ngục sắp tới.
 
 "Vel."
 

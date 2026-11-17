@@ -10,7 +10,7 @@ Khi cùng Set rảo bước trên con phố lớn, người dân trong thành v�
 
 "Ủa, cậu Rei. Chẳng lẽ cậu cũng có liên quan đến nhóm người đằng kia à?"
 
-Vừa đưa Thẻ Hội và Vòng Cổ Tùng Ma cho Ranga trước cổng chính như mọi khi, cậu liền được hỏi như vậy.
+Vừa đưa Thẻ Hội và Vòng Cổ Tùng Ma cho Ranga trước cổng chính như mọi khi, cậu đã nghe anh bắt chuyện như vậy.
 
 Nghe nhắc tới nhóm người đằng kia, Rei nhìn theo hướng mắt Ranga và thấy Daska, tức Bá tước biên cảnh Rowlocks cai quản thành phố Gilm, cùng với Kuust, đội trưởng đội hộ vệ của Elena. Dĩ nhiên không chỉ có hai người bọn họ, mà còn cả toán hộ vệ và tùy tùng lên tới mười mấy người. Daska khoác trên mình bộ trang phục xa hoa xứng tầm một lãnh chúa, còn Kuust cũng mặc một bộ giáp tuy kém hơn hôm qua đôi chút nhưng nhìn qua là biết ngay hàng cao cấp.
 
@@ -18,7 +18,7 @@ Dù sao thì bộ giáp Kuust mặc đến tận hôm qua đã bị chính tay R
 
 (Thế nhưng, chuẩn bị được bộ giáp cỡ đó trong chớp mắt thì đúng là phải nể tiềm lực tài chính của họ thật.)
 
-Về độ bắt mắt thì đúng là nó thua xa bộ bị Rei phá hủy hôm qua, nhưng việc khiến mắt Rei bị hút vào chứng tỏ đây nhiều khả năng là một Đạo Cụ Ma Thuật.
+Về độ bắt mắt thì đúng là nó thua xa bộ bị Rei phá hủy hôm qua, nhưng nhìn cách nó thu hút ánh mắt của Rei thì nhiều khả năng đây cũng là một Đạo Cụ Ma Thuật.
 
 "Thế nào?"
 
@@ -36,7 +36,7 @@ Rei khẽ gật đầu trước câu hỏi của Ranga khi anh trả lại Thẻ
 
 "Ủa, thế cơ à?"
 
-"Vâng. Hôm qua có chút chuyện xảy ra rồi."
+"Ừ. Hôm qua có chút chuyện ấy mà."
 
 Chỉ nói bấy nhiêu rồi nhận lại Thẻ Hội, cậu cùng Set bước ra khỏi cổng chính và tiến về phía Daska cùng Kuust đang đứng gần đó.
 
@@ -126,17 +126,17 @@ Dù sao với tư cách người đứng đầu nơi đây, bất cứ chuyện 
 
 Daska thầm nghĩ.
 
-Danh hiệu Công Chúa Tướng Quân vang danh khắp các nước láng giềng quả thực sở hữu uy danh lẫy lừng đến nhường ấy.
+Danh hiệu Công Chúa Tướng Quân truyền khắp các nước láng giềng quả thực có tiếng tăm lẫy lừng đến mức đó.
 
 Chẳng mấy chốc, khi cỗ xe do hai con Warhorse kéo đã tới gần đến mức nhìn rõ từng chi tiết, Rei bất giác buông một tiếng trầm trồ.
 
 "Chà, cỗ xe ngựa xịn phết nhỉ."
 
-Nghe câu đó, Kuust khẽ nhướng mày, rồi trong một khoảnh khắc rất ngắn đưa ánh mắt như thể khâm phục nhìn về phía Rei. ...Tuy nhiên, ánh nhìn ấy nhanh chóng trở lại vẻ coi thường như trước.
+Nghe câu đó, Kuust khẽ nhướng mày, rồi trong một khoảnh khắc rất ngắn đưa ánh mắt như thể khâm phục nhìn về phía Rei. ...Có điều, ánh nhìn ấy nhanh chóng trở lại vẻ coi thường như trước.
 
 "Ồ, cậu cũng nhận ra à. Khá đấy."
 
-Daska cất lời với Rei với vẻ thán phục.
+Daska tỏ vẻ thán phục, cất lời với Rei.
 
 Bản thân ông dù giờ là lãnh chúa nhưng vốn xuất thân từ giới võ tướng, nên hoàn toàn cảm nhận được cỗ xe ngựa đang tiến lại gần kia là một Đạo Cụ Ma Thuật được chế tác với lượng ma lực lớn đến mức nào.
 
@@ -156,7 +156,7 @@ Daska nói đầy ẩn ý, như muốn ám chỉ nó cũng giống hệt chiếc
 
 (...Ông ta nhận ra rồi à. Đúng là không hổ danh.)
 
-Không ngờ hiệu ứng ẩn giấu của Áo Choàng Rồng do Esta Noor - người từng được mệnh danh là Giả Kim Thuật Sư vĩ đại nhất thời bấy giờ chế tạo - lại bị nhìn thấu, Rei thoáng lộ vẻ kinh ngạc.
+Không ngờ hiệu ứng ẩn giấu của Áo Choàng Rồng do Esta Noor, người từng được mệnh danh là Giả Kim Thuật Sư giỏi nhất thời bấy giờ, chế tạo ra lại bị nhìn thấu, Rei thoáng lộ vẻ kinh ngạc.
 
 Kuust lại liếc nhìn Rei sau lời nói của Daska, nhưng vì cỗ xe đã tới ngay trước mắt nên anh ta cũng không có thời gian mở miệng nói gì thêm.
 
@@ -174,21 +174,21 @@ Nhìn Kuust cười trừ trước điệu bộ của người đó, Rei cũng d
 
 Tiếng đáp từ bên trong vọng ra, và cánh cửa xe ngựa mở toang. Nhân vật bước ra ngay sau đó, chỉ một người duy nhất, nhưng khoảnh khắc bóng hình ấy xuất hiện, một cơn chấn động lập tức chạy dọc khắp hàng ngũ thuộc hạ của Daska lẫn những người đang tò mò đứng vây quanh xem chuyện gì xảy ra.
 
-Mái tóc vàng óng như được đúc từ vàng ròng lấp lánh phản chiếu ánh mặt trời, dung mạo xinh đẹp tuyệt trần đến mức hầu hết những người có mặt ở đây chưa từng thấy bao giờ. Bình thường người ta có thể ví von vẻ đẹp ấy như một con búp bê, nhưng ánh mắt sắc sảo toát lên ý chí kiên định cùng cá tính mạnh mẽ đã chứng minh nàng là một con người bằng xương bằng thịt. Và dù được bọc trong lớp giáp sắt, đôi gò bồng đảo đẫy đà của nàng vẫn không sao giấu nổi, chỉ có thể dùng từ nở nang đầy đặn để hình dung. Hơn nữa, khi bước xuống mặt đất, có người nhận ra tầm mắt của nàng gần như ngang bằng với đám đàn ông xung quanh, chứng tỏ nàng sở hữu chiều cao rất đáng nể đối với một phụ nữ.
+Mái tóc vàng óng như được đúc từ vàng ròng lấp lánh phản chiếu ánh mặt trời, dung mạo xinh đẹp tuyệt trần đến mức hầu hết những người có mặt ở đây chưa từng thấy bao giờ. Bình thường người ta có thể ví von vẻ đẹp ấy như một con búp bê, nhưng ánh mắt sắc sảo toát lên ý chí kiên định cùng cá tính mạnh mẽ đã chứng minh cô là một con người bằng xương bằng thịt. Và dù được bọc trong lớp giáp sắt, bộ ngực đẫy đà của cô vẫn không sao giấu nổi, chỉ có thể dùng từ căng tràn quyến rũ để hình dung. Hơn nữa, khi bước xuống mặt đất, có người nhận ra tầm mắt của cô gần như ngang bằng với đám đàn ông xung quanh, chứng tỏ cô có chiều cao rất đáng nể đối với một phụ nữ.
 
-Đám đàn ông xung quanh... không, ngay cả những người phụ nữ cũng bị hớp hồn, trước hết bởi nhan sắc diễm lệ của nàng, kế đến là đôi gò bồng đảo đẫy đà, và sau cùng là vóc dáng cao ráo.
+Đám đàn ông xung quanh... không, ngay cả những người phụ nữ cũng bị hớp hồn, trước hết bởi vẻ đẹp lộng lẫy của cô, kế đến là bộ ngực đẫy đà, và sau cùng là vóc dáng cao ráo.
 
-Dường như đã quá quen với việc trở thành tâm điểm của mọi ánh nhìn, người phụ nữ chẳng mấy bận tâm mà chỉ đưa mắt quan sát xung quanh... rồi nhận ra trong đám người quanh xe ngựa, có một kẻ duy nhất không dán mắt vào khuôn mặt hay cơ thể nàng, mà lại lần lượt nhìn vào thanh liên tiếp kiếm đeo bên hông, vào bộ giáp, rồi đến áo choàng và đôi giày - những món trang bị mà nàng hằng tự hào.
+Dường như đã quá quen với việc trở thành tâm điểm của mọi ánh nhìn, người phụ nữ chẳng mấy bận tâm mà chỉ đưa mắt quan sát xung quanh... rồi nhận ra trong đám người quanh xe ngựa, có một người duy nhất không dán mắt vào khuôn mặt hay cơ thể cô, mà lại lần lượt nhìn vào thanh liên tiếp kiếm đeo bên hông, vào bộ giáp, rồi đến áo choàng và đôi giày, những món trang bị mà cô hằng tự hào.
 
 (Ồ, thú vị đấy.)
 
-Điều khơi gợi sự hứng thú của nàng là người đàn ông đó - Rei - cũng mang đôi Giày Sleipnir giống hệt mình, và khoác trên người chiếc áo choàng chắc hẳn là một Đạo Cụ Ma Thuật sở hữu tính năng vô cùng vượt trội. Nhưng quan trọng hơn cả...
+Cô thấy hứng thú là bởi chàng trai đó, tức Rei, cũng mang đôi Giày Sleipnir giống hệt mình, lại còn khoác trên người chiếc áo choàng chắc hẳn là một Đạo Cụ Ma Thuật cực kỳ cao cấp. Nhưng quan trọng hơn cả...
 
 (Người đó có thực sự là con người không vậy? Lượng ma lực áp đảo đến mức cứ ngỡ như bản thân ma lực đã hóa thành một con người. Thật không ngờ nơi vùng biên viễn này lại có một nhân vật như thế.)
 
-Nhận ra ma lực của Rei, nàng thầm cảm thán trong lòng. Cách ví von ma lực hóa thành con người ấy tình cờ lại giống hệt cảm nhận mà cô gái Elf Filma từng có về Rei.
+Nhận ra ma lực của Rei, cô không khỏi cảm thán trong lòng. Cách ví von ma lực hóa thành con người ấy tình cờ lại giống hệt cảm nhận mà cô gái Elf Filma từng có về Rei.
 
-Rồi tầm mắt của Rei chuyển từ các Đạo Cụ Ma Thuật mà Elena trang bị lên gương mặt nàng.
+Rồi tầm mắt của Rei chuyển từ các Đạo Cụ Ma Thuật mà Elena trang bị lên gương mặt cô.
 
 Elena cũng tương tự, dời ánh mắt từ những Đạo Cụ Ma Thuật của Rei lên gương mặt cậu.
 
@@ -200,6 +200,6 @@ Elena cũng tương tự, dời ánh mắt từ những Đạo Cụ Ma Thuật c
 
 Chẳng có chuyện gì to tát xảy ra cả. Đơn thuần chỉ là việc hai ánh mắt giao nhau.
 
-Ấy thế mà chẳng hiểu sao, ngay khoảnh khắc nhìn thấy người phụ nữ tên Elena này, Rei khẽ lộ vẻ ngạc nhiên trên mặt, còn Elena thì gần như nín thở theo phản xạ.
+Thế mà chẳng hiểu sao, ngay khoảnh khắc nhìn thấy người phụ nữ tên Elena này, Rei bất giác thoáng lộ vẻ ngạc nhiên, còn Elena thì gần như nín thở theo phản xạ.
 
 Với những người xung quanh thì chỉ vỏn vẹn vài giây, nhưng với hai người đang nhìn nhau, giữa thứ cảm giác kỳ lạ vừa như kéo dài cả một giờ vừa như chỉ trong chớp mắt ấy, cả hai đều cảm nhận được một điều gì đó từ đối phương.

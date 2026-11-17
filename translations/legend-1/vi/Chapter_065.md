@@ -8,7 +8,7 @@ Thế nhưng Elena không trả lời, chỉ chăm chú nhìn thẳng vào mắt
 
 "Tiểu thư Elena? Có chuyện gì vậy, tiểu thư Elena!?"
 
-Bình thường hễ gọi là Elena sẽ đáp lại ngay, vậy mà lúc này cô chẳng hề phản ứng. Điều đó bất thường đến mức nào, Ara - người luôn túc trực bên cạnh với vai trò hộ vệ kiêm chăm sóc cho Elena suốt mấy năm qua - là người hiểu rõ nhất.
+Bình thường hễ gọi là Elena sẽ đáp lại ngay, vậy mà lúc này cô chẳng hề phản ứng. Chuyện đó bất thường đến mức nào, Ara, vốn luôn túc trực bên cạnh làm hộ vệ kiêm chăm sóc cho Elena suốt mấy năm qua, là người hiểu rõ nhất.
 
 Gần như theo phản xạ, Ara dõi theo hướng nhìn của Elena.
 
@@ -46,9 +46,9 @@ Thế nhưng, kỳ lạ chính là thanh kiếm đó. Trên tay Elena chỉ có 
 
 (Là liên tiếp kiếm à.)
 
-Cảm thấy bất ngờ khi liên tiếp kiếm - thứ vốn chỉ tồn tại trong tưởng tượng ở Trái Đất - lại có mặt tại Elgin, gương mặt cậu lộ rõ vẻ kinh ngạc.
+Vừa thấy bất ngờ vì liên tiếp kiếm, thứ vũ khí vốn chỉ có trong tưởng tượng ở Trái Đất, lại tồn tại ở Elgin này, trên mặt cậu đồng thời cũng lộ rõ vẻ sững sờ.
 
-Bởi lẽ thứ vừa bị đánh bật không phải vũ khí tầm thường. Đó là Đạo Cụ Ma Thuật được tạo ra từ Ma Thú Thuật, do chính ma lực của cậu vật chất hóa thành. Phải, một Đạo Cụ Ma Thuật sinh ra từ lượng ma lực khổng lồ đến cả Zepairu cũng phải sững sờ, và đây lại là đòn đánh dồn ma lực của Lưỡi Hái Tử Thần. Bình thường thì việc đỡ đòn hay gạt hướng đều vô dụng. Dù có dùng khiên chắn thì nhát chém cũng sẽ ngọt ngào cắt đôi cả tấm khiên, ngoài né tránh ra không có cách nào thoát chết. Vậy mà một đòn như thế lại bị đánh bật.
+Bởi lẽ thứ vừa bị đánh bật không phải vũ khí tầm thường. Đó là Đạo Cụ Ma Thuật được tạo ra từ Ma Thú Thuật, do chính ma lực của cậu vật chất hóa thành. Phải, một Đạo Cụ Ma Thuật sinh ra từ lượng ma lực khổng lồ đến cả Zepairu cũng phải sững sờ, và đây lại là đòn đánh dồn ma lực của Lưỡi Hái Tử Thần. Bình thường thì đỡ trực diện hay gạt chệch hướng đều vô dụng. Dù có lấy khiên che chắn thì nhát chém cũng sẽ cắt đôi cả tấm khiên ngọt xớt, ngoài né tránh ra không có cách nào thoát chết. Vậy mà một đòn như thế lại bị đánh bật.
 
 Và người kinh ngạc không chỉ có Rei... Không, sự kinh ngạc ập đến với Elena còn lớn hơn thế nhiều. Đòn đánh chí mạng vừa giáng xuống thuộc hạ bất ngờ lao lên của cô. Đó là đòn đánh sắc bén, uy lực và áp đảo hơn bất kỳ đòn tấn công nào cô từng thấy trước đây. Thực tế là bàn tay vừa chật vật gạt đòn của cô đến giờ vẫn còn tê rần vì chấn động, liệu cô còn có thể đỡ được đòn tấn công tương tự thêm mấy lần nữa? Vừa nghĩ vậy, một cảm giác rùng mình bỗng chạy dọc sống lưng cô.
 
@@ -56,7 +56,7 @@ Và người kinh ngạc không chỉ có Rei... Không, sự kinh ngạc ập �
 
 Giận dữ, sợ hãi, sốt ruột, đau buồn... không phải thứ nào trong số đó. Phải rồi, cảm giác cô đã lâu không nếm trải này... là hoan hỉ.
 
-Với một người vừa có thiên phú trời ban lại không bao giờ lười biếng tu luyện như Elena, ngay cả tướng quân của nước láng giềng cũng chẳng phải đối thủ khiến cô chật vật. Vậy mà đối phương lại có thể tung ra đòn đánh khiến cô bị áp đảo. Lần đầu tiên gặp được người có thể chiến đấu ngang ngửa, thậm chí trên cơ mình, cõi lòng Elena ngập tràn niềm hoan hỉ.
+Với một người vừa có tài năng thiên bẩm lại không bao giờ lười biếng khổ luyện như Elena, ngay cả tướng quân của nước láng giềng cũng chẳng phải đối thủ khiến cô chật vật. Vậy mà đối phương lại có thể tung ra đòn đánh khiến cô bị áp đảo. Lần đầu tiên gặp được người có thể chiến đấu ngang ngửa, thậm chí trên cơ mình, cõi lòng Elena ngập tràn niềm hoan hỉ.
 
 Có điều, cô nhanh chóng kìm nén niềm vui sướng đang dâng trào trong lòng lại rồi cất lời.
 
@@ -86,11 +86,11 @@ Khẽ gật đầu trước lời Daska, cậu liếc mắt sang hướng khác.
 
 Nghe tiếng gọi, Set khẽ kêu một tiếng ngắn rồi rảo bước về phía Rei.
 
-Set đã ở đâu? Câu trả lời là ngay trước mặt Kuust, kẻ vừa toan giương ma thương nhắm vào Rei vì thấy cậu định làm hại đồng nghiệp của mình. Ngay khoảnh khắc tay hắn vừa chạm vào ma thương, Set đã không một tiếng động đạp đất xuất hiện trước mặt Kuust, dùng ánh mắt sắc lẹm để kiềm tỏa hắn.
+Set đã ở đâu? Câu trả lời là ngay trước mặt Kuust, kẻ vừa toan giương ma thương nhắm vào Rei vì thấy cậu định làm hại đồng nghiệp của mình. Ngay khoảnh khắc tay anh ta vừa chạm vào ma thương, Set đã không một tiếng động đạp đất xuất hiện trước mặt Kuust, dùng ánh mắt sắc lẹm để kiềm tỏa anh ta.
 
 "Hự!"
 
-Dù là Griffin nhưng lại là con quái vật được thuần hóa bởi một kẻ mà hắn coi thường như Rei. Khuôn mặt Kuust méo mó vì nỗi nhục nhã khi bị một sinh vật như thế khóa chặt cử động. Thế nhưng việc hắn không thể nhúc nhích dù chỉ một li trước ánh nhìn sắc lẹm của Set - kẻ lúc này đang thong thả đi về phía Rei - lại là sự thật rành rành.
+Dù là Griffin nhưng đó lại là con quái vật được thuần hóa bởi một kẻ mà anh ta coi thường như Rei. Khuôn mặt Kuust méo mó vì nỗi nhục nhã khi bị một sinh vật như thế khóa chặt cử động. Thế nhưng chuyện anh ta không thể nhúc nhích dù chỉ một li trước ánh nhìn sắc lẹm của Set, con vật lúc này đang thong thả đi về phía Rei, lại là sự thật rành rành.
 
 Dù lòng tự tôn cao ngất ngưởng, nhưng Kuust vẫn không ngu ngốc đến mức nhắm mắt làm ngơ trước thực tế.
 
@@ -132,7 +132,7 @@ Niềm vui dâng trào trong lòng hiện rõ thành nụ cười trên gương 
 
 "Hèm, khụ. Vậy thì tiểu thư Elena. Chúng ta vào trong thành được chưa nhỉ?"
 
-"Vâng, dĩ nhiên là được chứ. Sau chuyện này chúng ta sẽ diện kiến người đó tại dinh thự của Bá tước biên cảnh Rowlocks đúng không?"
+"Ừ, dĩ nhiên là được chứ. Sau đây chúng ta sẽ gặp mặt người đó tại dinh thự của Bá tước biên cảnh Rowlocks đúng không?"
 
 "Tất nhiên rồi, ta đã thu xếp xong xuôi cả."
 
@@ -208,9 +208,9 @@ Người đó nở nụ cười hồn nhiên như một đứa trẻ nghịch ng
 
 Chính là các thành viên của tổ đội Hạng A Rìu Lôi Thần.
 
-"Elk đấy à? Lâu rồi không gặp. Kể từ vụ Tinh Linh Đất đợt trước nhỉ. Nhắc mới nhớ, anh cũng lấy thành phố Gilm này làm căn cứ điểm thì phải."
+"Elk đấy à? Lâu rồi không gặp. Kể từ vụ Tinh Linh Đất đợt trước nhỉ. Nhắc mới nhớ, anh cũng lấy thành phố Gilm này làm căn cứ hoạt động thì phải."
 
-Elena nở nụ cười trước người chiến hữu lâu ngày mới gặp lại. Elk cũng gãi đầu cười ngượng ngùng đáp lại, còn Min - vợ anh - khẽ mỉm cười. Riêng Rhodes, cậu con trai của hai người, khi thấy nụ cười trên gương mặt tuyệt mỹ của Elena thì mặt đỏ bừng rồi vội lảng mắt đi.
+Elena nở nụ cười trước người chiến hữu lâu ngày mới gặp lại. Elk cũng cười ngượng ngùng đáp lại, còn người vợ Min của ông thì khẽ mỉm cười. Riêng Rhodes, cậu con trai của hai người, khi thấy nụ cười trên gương mặt tuyệt mỹ của Elena thì mặt đỏ bừng rồi vội lảng mắt đi.
 
 Trông thấy điệu bộ của con trai, Elk vừa cười vừa mở lời.
 
@@ -268,7 +268,7 @@ Nói tới đó, Elk bỗng liếc mắt nhìn sang phía Rei.
 
 Vừa lẩm bẩm trong miệng định nói thêm gì đó... thì chiếc gậy phép trên tay Min đã giáng thẳng xuống đầu ông.
 
-"Elk, xin lỗi vì cắt ngang lúc anh đang cao hứng, nhưng bên ta cũng đâu có rảnh rỗi."
+"Elk, xin lỗi vì cắt ngang lúc anh đang cao hứng, nhưng bên mình cũng đâu có thong thả gì."
 
 "Ối, xin lỗi nhé. Thôi, thế thì bọn tôi xin phép đi trước đây. Chúc thám hiểm hầm ngục thuận lợi nhé. ...Cơ mà có Rei ở đó thì chắc trừ khi xảy ra chuyện động trời, còn lại chẳng sao đâu."
 
