@@ -96,7 +96,7 @@ Thế nhưng dĩ nhiên vẫn có kẻ không thể nào làm ngơ trước chuy
 
 Đang nói nửa chừng, chắc nhận ra ánh mắt Rei đang hướng về phía mình nên giọng của Arogan cứ lí nhí dần rồi tắt ngấm.
 
-Dẫu vậy, dường như không chịu nổi cảnh phần thù lao của mình bị hụt đi, Arogan liền quay sang nhìn Superbia và Filma cầu viện.
+Thế nhưng, dường như không chịu nổi cảnh phần thù lao của mình bị hụt đi, Arogan vẫn quay sang nhìn Superbia và Filma cầu viện.
 
 Cơ mà chuyện đó cũng dễ hiểu thôi. Dù sao thì việc tiêu diệt băng cướp này là bài thi thăng hạng, tiền thưởng đã được báo trước chỉ vỏn vẹn một đồng bạc. Nói cách khác, nếu muốn kiếm thêm thù lao thì chỉ còn nước trông cậy vào chiến lợi phẩm tích trữ của bọn cướp. Thế nhưng.
 
@@ -110,13 +110,13 @@ Có điều, xét trên phương diện mạo hiểm giả thì thật ra cách 
 
 May mắn thay, hai người thương nhân bị giam giữ lại là những người rất hiểu chuyện.
 
-"Thôi nào, xin mọi người đừng vì chuyện này mà bất hòa. Về phía chúng tôi, vừa được cứu mạng lại vừa lấy lại được hàng hóa, nếu không có chút quà cảm tạ thì thật lòng áy náy khôn nguôi. Vậy nên khi về đến thành phố Gilm, chúng tôi xin phép được gửi tặng một món quà tương xứng có được không? Chúng tôi có kinh doanh cả Đạo Cụ Ma Thuật, chắc chắn sẽ có món đồ khiến các vị hài lòng..."
+"Thôi nào, xin mọi người đừng vì chuyện này mà bất hòa. Về phía chúng tôi, vừa được cứu mạng lại vừa lấy lại được hàng hóa, nếu không có chút quà cảm tạ thì thật lòng áy náy lắm. Vậy nên khi về đến thành phố Gilm, chúng tôi xin phép được gửi tặng một món quà tương xứng có được không? Chúng tôi có kinh doanh cả Đạo Cụ Ma Thuật, chắc chắn sẽ có món đồ khiến các vị hài lòng..."
 
 Nghe người thương nhân trẻ hơn đề xuất như vậy, khuôn mặt Arogan lập tức giãn ra vì mừng rỡ khi nghe thấy cụm từ Đạo Cụ Ma Thuật.
 
 Đạo Cụ Ma Thuật đa phần đều là những món đồ đắt đỏ, nên gã có phản ứng như vậy cũng chẳng có gì lạ.
 
-Rút cuộc, chuyện cảm tạ ơn cứu mạng và trả lại hàng hóa đã được thống nhất là sau này khi về tới thành phố Gilm, nhóm mạo hiểm giả sẽ ghé qua cửa tiệm của hai thương nhân để nhận quà đáp lễ.
+Rốt cuộc, chuyện cảm tạ ơn cứu mạng và trả lại hàng hóa đã được thống nhất là sau này khi về tới thành phố Gilm, nhóm mạo hiểm giả sẽ ghé qua cửa tiệm của hai thương nhân để nhận quà đáp lễ.
 
 "Thế chuyện bên đó xong rồi, còn đống đồ trong kho này... tính sao đây?"
 
@@ -138,7 +138,7 @@ Nghe câu đó, Arogan vừa gật đầu vừa lộ vẻ mặt phức tạp, c�
 
 Nhất là Superbia, vì thanh kiếm dài của anh bị mẻ một mẩu trong lúc giao chiến với bọn cướp nên anh xin nhận trước một phần bằng cách đổi lấy một thanh kiếm dài trông còn khá tốt trong kho.
 
-Kế đó, Rei rảo bước quanh kho chứa rồi thu dọn hầu hết mọi thứ bên trong vào Hộp Vật Phẩm.
+Kế đó, Rei đi một vòng quanh kho chứa rồi cất hầu hết mọi thứ bên trong vào Hộp Vật Phẩm.
 
 Nhân tiện, hai người thương nhân vốn không hề hay biết chuyện Rei sở hữu Hộp Vật Phẩm nên chỉ biết trố mắt chết lặng nhìn cảnh tượng trước mắt.
 
@@ -150,7 +150,7 @@ Lần này ủy thác mà Cơn Gió Rực Lửa nhận là tiêu diệt năm con
 
 Bản thân Treant có Hạng quái vật là D, đối với một tổ đội Hạng C như Cơn Gió Rực Lửa thì không phải đối thủ quá khó nhằn. Huống hồ lần này lại có quái vật Hạng A như Set đi cùng, về mặt chiến lực thì chẳng có gì phải bận tâm.
 
-Có điều, đó là trong trường hợp đối đầu trực diện. Nói một cách đơn giản, Treant là loài quái vật mang khuôn mặt trên thân cây. Chúng có thể dùng rễ để di chuyển trên mặt đất, và ở trạng thái đó thì rất dễ phát hiện. Nhưng một khi chúng đứng im bất động thì chẳng khác nào cây cối bình thường mọc trong rừng, khiến việc tìm kiếm trở nên cực kỳ khó khăn. Bằng chứng là ngay cả Set với ngũ quan nhạy bén hơn hẳn con người cũng không tài nào tìm ra những con Treant đang ẩn mình.
+Có điều, đó là trong trường hợp đối đầu trực diện. Nói đơn giản thì Treant là loài quái vật có khuôn mặt trên thân cây. Chúng có thể dùng rễ để di chuyển trên mặt đất, và ở trạng thái đó thì rất dễ phát hiện. Nhưng một khi chúng đứng im bất động thì trông y hệt cây cối bình thường mọc trong rừng, nên cực kỳ khó tìm. Bằng chứng là ngay cả Set với ngũ quan nhạy bén hơn hẳn con người cũng không tài nào tìm ra những con Treant đang ẩn mình.
 
 "Aizz. Ai mà ngờ tốn tới ba ngày trời mà chẳng tìm nổi một con Treant cơ chứ."
 
@@ -162,7 +162,7 @@ Sulunin cất giọng dỗ dành Milein đang cằn nhằn, rồi đưa cho cô 
 
 "Cảm ơn nhé. Nhưng tôi không ngờ lại khó tìm đến mức này. Nhớ đợt trước nhận ủy thác tương tự, chúng ta tìm thấy dễ ợt còn gì."
 
-"A... vụ đó hả. Lần đấy tôi nghĩ không chỉ riêng mình tôi tưởng chừng sắp mất mạng đâu."
+"A... vụ đó hả. Lần đấy em nghĩ không chỉ riêng mình em tưởng sắp chết đến nơi đâu."
 
 Thành viên thứ ba là Ekril cười trừ, nhớ lại chuyện mà Milein vừa nhắc tới.
 
@@ -258,7 +258,7 @@ Cũng có con Treant quất dây leo tới như đòn đánh lén từ trong bó
 
 Bộ dạng tung hoành khi giao chiến với lũ Treant trông chẳng giống bảo vệ Cơn Gió Rực Lửa cho bằng đang trút nỗi uất ức, hậm hực vì phải xa Rei, có thể nói gần như là giận cá chém thớt.
 
-Rút cuộc, khi Cơn Gió Rực Lửa vừa hạ xong hai con Treant thì ba con còn lại đều đã bị bẻ gãy đôi thân mình mà kết liễu mạng sống. Ngay cả con Treant mang độc lẽ ra là chủng hiếm nguy hiểm cũng bị chiếc mỏ của Set đâm xuyên qua tâm cơ thể, đồng thời viên Ma Thạch bị mỏ nhọn khoét phăng ra rồi lọt thỏm vào bụng Set, chấm dứt chuỗi sinh mệnh của nó.
+Rốt cuộc, khi Cơn Gió Rực Lửa vừa hạ xong hai con Treant thì ba con còn lại đều đã bị bẻ gãy đôi thân mình mà mất mạng. Ngay cả con Treant mang độc vốn là chủng hiếm cũng bị chiếc mỏ của Set đâm xuyên qua giữa thân, đồng thời viên Ma Thạch bị mỏ nhọn khoét phăng ra rồi lọt thỏm vào bụng Set, thế là tắt thở.
 
 [Set đã học được kỹ năng "Móng Vuốt Độc Lv.1"]
 
@@ -274,7 +274,7 @@ Nhìn Milein đang mải say sưa ngắm Set bằng ánh mắt ngán ngẩm, Sul
 
 Ekril cũng với vẻ mặt đành chịu, bắt tay vào cắt lấy chồi non mọc duy nhất một chiếc trên mỗi con Treant - vốn là bộ phận xác nhận thảo phạt của chúng.
 
-Nhân tiện, chồi non Treant này vừa là bộ phận xác nhận thảo phạt lại vừa là một trong những nguyên liệu điều chế thuốc hồi phục được thu mua với giá khá cao, cùng với cành Treant dùng làm gậy pháp sư hay phụ tùng chế tác cung tên, nên đối với một Cơn Gió Rực Lửa đang kẹt tiền thì Treant là món hời quái vật tương đối béo bở.
+Nhân tiện, chồi non Treant này vừa là bộ phận xác nhận thảo phạt lại vừa là một trong những nguyên liệu điều chế thuốc hồi phục được thu mua với giá khá cao, cùng với cành Treant dùng làm gậy cho ma pháp sư hay bộ phận chế tác cung tên, nên với nhóm Cơn Gió Rực Lửa đang kẹt tiền thì Treant là con mồi tương đối béo bở.
 
 "...Nếu được thì tôi cũng muốn lấy cả Ma Thạch của chủng hiếm nữa cơ."
 

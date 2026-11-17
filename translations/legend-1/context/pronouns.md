@@ -39,6 +39,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Scola | cậu / Scola / chàng trai | 46 | Nam ma pháp sư tham gia bài thi thăng hạng |
 | Superbia | Superbia / gã / người đàn ông / nam kiếm sĩ | 46 | Nam kiếm sĩ tham gia bài thi thăng hạng |
 | Filma | cô / nữ Elf / Filma | 46 | Nữ Elf Ranger tham gia bài thi thăng hạng |
+| Superbia | Superbia / anh / gã / người đàn ông / nam kiếm sĩ | 55 | Nam kiếm sĩ tham gia bài thi thăng hạng |
 
 ## Giữa các nhân vật
 

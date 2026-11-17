@@ -10,7 +10,7 @@ Trong cỗ xe ngựa lớn hơn giữa hai cỗ xe, Gran lẩm bẩm.
 
 Từ khung cửa sổ, bức tường thành bên ngoài của thành phố Gilm đã lọt vào tầm mắt ông.
 
-"Aaa, mệt chết đi được. Dẫu biết là vì bài thi thăng hạng, nhưng đi xa liền mấy ngày thế này quả thật chẳng dễ chịu chút nào."
+"Aaa, mệt chết đi được. Dù biết là vì bài thi thăng hạng, cơ mà đi xa liền mấy ngày thế này đúng là oải thật."
 
 Có lẽ do thấy tường thành nên nhẹ nhõm, Culotte buột miệng cất tiếng than thở.
 
@@ -30,11 +30,11 @@ Trong lúc thành phố Gilm, nơi trở về của cả nhóm, dần hiện ra 
 
 Gật đầu trước tiếng đáp lời từ phía ghế đánh xe, Gran mở lời.
 
-"Được rồi, thành phố Gilm cũng đã ở ngay trước mắt nên ta phổ biến trước những việc cần làm sau khi vào thành. Nói thế chứ cũng chẳng có gì phức tạp đâu. Hôm nay sau khi về Hội thì giải tán luôn. Tiền thưởng cho đợt này thì lát nữa cứ ra quầy tiếp tân mà nhận. Rồi chiều mai tập trung tại phòng họp của Hội thêm một lần nữa. Kết quả bài thi thăng hạng sẽ được công bố vào lúc đó, nên cấm đứa nào bảo quên đấy nhé. Đại khái thế thôi, đơn giản vậy đấy. Có ai thắc mắc gì không?"
+"Được rồi, thành phố Gilm cũng đã ở ngay trước mắt nên ta phổ biến trước những việc cần làm sau khi vào thành. Nói thế chứ cũng chẳng có gì phức tạp đâu. Hôm nay sau khi về Hội thì giải tán luôn. Tiền thưởng cho đợt này thì lát nữa cứ ra quầy tiếp tân mà nhận. Rồi chiều mai tập trung tại phòng họp của Hội thêm một lần nữa. Kết quả bài thi thăng hạng sẽ được công bố vào lúc đó, nên đừng có cậu nào bảo quên đấy nhé. Đại khái thế thôi, đơn giản vậy đấy. Có ai thắc mắc gì không?"
 
 Nghe giọng Gran, Culotte liền lên tiếng.
 
-"Còn số chiến lợi phẩm mang về từ sào huyệt băng cướp thì sao ạ?"
+"Còn số chiến lợi phẩm mang về từ sào huyệt băng cướp thì sao?"
 
 "Mấy thứ đó thì các cậu cứ tự bàn bạc chia nhau. Có điều chớ dại mà cãi cọ làm ầm ĩ lên đấy."
 
@@ -50,7 +50,7 @@ Trong giới mạo hiểm giả cũng có không ít kẻ xấu tính cậy hạ
 
 Người chìa tay cứu nguy cho Culotte chính là Gran.
 
-"Ơ? Thật sao ạ? Vậy thì hết phải lo về chiến lợi phẩm rồi. Cảm ơn giám khảo Gran nhé!"
+"Ơ? Thật sao? Vậy thì hết phải lo về chiến lợi phẩm rồi. Cảm ơn giám khảo Gran nhé!"
 
 "Có gì đâu, bên ta cũng thấy thế còn đỡ hơn nhiều so với việc để các cậu gây gổ trong Hội."
 
@@ -90,7 +90,7 @@ Cứ thế, trong quãng thời gian ngắn ngủi trước khi tới thành ph�
 
 Vừa khi cỗ xe tới trước cổng chính, Ranga đã quen miệng cất tiếng chào hỏi.
 
-"Vâng, êm xuôi cả. Cũng chẳng có ai bị thương, giờ chỉ còn chờ xem có đỗ không nữa là không còn gì để chê... có điều..."
+"Ừ, êm xuôi cả. Cũng chẳng có ai bị thương, giờ chỉ còn đỗ bài thi nữa là không còn gì để chê rồi..."
 
 Vừa trò chuyện, cậu vừa chìa Thẻ Hội ra.
 
@@ -190,9 +190,9 @@ Vừa nói chuyện tào lao như thế, cả nhóm vừa bước vào trong ph�
 
 Được Culotte giục, Rei lấy từ Nhẫn Sương Mù ra vũ khí, giáp trụ, rồi đá quý, tiền tệ, thuốc hồi phục cùng mấy món Đạo Cụ Ma Thuật rẻ tiền thu được từ băng cướp và bày la liệt lên mặt bàn phòng họp.
 
-Số lượng nhiều tới mức nếu là loại bàn ọp ẹp thì e rằng đã gãy chân vì không chịu nổi sức nặng. Ấy vậy mà chiếc bàn vẫn vững chãi đỡ trọn khối lượng đó chẳng hề hấn gì, quả đúng là bàn trong phòng họp của Hội Mạo Hiểm Giả có khác.
+Số lượng nhiều tới mức nếu là loại bàn ọp ẹp thì e rằng đã gãy chân vì không chịu nổi sức nặng. Thế mà chiếc bàn vẫn vững chãi đỡ trọn khối lượng đó chẳng hề hấn gì, quả đúng là bàn trong phòng họp của Hội Mạo Hiểm Giả có khác.
 
-Năm người kia đứng nhìn các món đồ nối đuôi nhau xuất hiện từ khoảng không vô định mà nửa phần sững sờ. Nhưng chỉ chừng năm phút sau, khi mọi thứ đã được lấy ra hết, ánh mắt họ liền đổ dồn vào đống chiến lợi phẩm trên bàn.
+Năm người kia đứng nhìn các món đồ nối đuôi nhau xuất hiện từ khoảng không vô định mà không khỏi ngẩn người. Nhưng chỉ chừng năm phút sau, khi mọi thứ đã được lấy ra hết, ánh mắt họ liền đổ dồn vào đống chiến lợi phẩm trên bàn.
 
 "Được rồi, vấn đề là chia đống này thế nào đây... Bảo chia làm sáu phần đều nhau thì cũng khó. Trước mắt cứ thế này đi... mỗi người nêu mong muốn của mình xem. Tôi lấy vũ khí là được."
 
@@ -220,7 +220,7 @@ Trước câu nói của Culotte, tất cả mọi người có mặt đều g�
 
 "Có gì đâu, nếu coi như lao ném thì cũng có khối việc để dùng đấy."
 
-Vừa đáp lời Superbia, cậu vừa thu mười cây giáo và năm con dao găm trên bàn cất vào Nhẫn Sương Mù.
+Vừa đáp lời Superbia, cậu vừa lấy mười cây giáo và năm con dao găm trên bàn cất vào Nhẫn Sương Mù.
 
 "Thế nhé. Phần của tôi chừng này là đủ rồi, phần còn lại năm người tự bàn bạc chia nhau đi. Tôi xin phép về quán trọ đây, cũng đang lo cho Set nữa."
 
@@ -228,7 +228,7 @@ Vừa đáp lời Superbia, cậu vừa thu mười cây giáo và năm con dao 
 
 "Mà, nếu Rei thấy thế là được thì tốt rồi."
 
-Arogan gật đầu như nửa phần bị khí thế của cậu lấn át, còn Filma cũng đáp rằng không có vấn đề gì.
+Arogan gật đầu như có phần bị khí thế của cậu lấn át, còn Filma cũng đáp rằng không có vấn đề gì.
 
 Những người khác thấy phần của cậu chẳng đụng chạm gì tới thứ mình nhắm tới nên cũng gật đầu đồng ý chứ không ai đôi co thêm.
 

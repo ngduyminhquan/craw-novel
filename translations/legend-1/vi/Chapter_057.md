@@ -42,7 +42,7 @@ Thấy cảnh tượng lạ lẫm đó, Rei vừa nghĩ thầm vừa bước l�
 
 "Tôi đến để nghe công bố kết quả bài thi thăng hạng."
 
-"Vâng, tôi nghe rồi. Mấy người cùng thi cũng có vài người tới rồi đấy. Địa điểm vẫn là phòng họp hôm qua nhóm cậu mượn nhé."
+"Ừ, tôi nghe rồi. Mấy người cùng thi cũng có vài người tới rồi đấy. Địa điểm vẫn là phòng họp hôm qua nhóm cậu mượn nhé."
 
 "Vậy à."
 
@@ -132,17 +132,17 @@ Trong lúc Arogan và Culotte tiếp tục cãi cọ, Rei và Filma tán gẫu, 
 
 "Đúng thế thật. Cơ mà Gran vẫn chưa tới nên anh không cần bận tâm đâu."
 
-Vừa nói, Superbia vừa bước vào phòng họp. Trên người anh ta là một bộ giáp khác hẳn với hôm qua.
+Vừa nói, Superbia vừa bước vào phòng họp. Trên người anh là một bộ giáp khác hẳn với hôm qua.
 
 Tuy vẫn cùng chủng loại giáp da, nhưng trông cao cấp hơn hẳn.
 
-"Ra là thế, đó là bộ phòng cụ anh chọn à?"
+"Ra là thế, đó là bộ giáp anh chọn à?"
 
-"Ừ. ...Hôm qua mệt phết. Phòng cụ thì đương nhiên là nặng và cồng kềnh rồi. Tôi chỉ giữ lại bộ của mình với một bộ dự phòng, còn lại đem bán sạch cho tiệm..."
+"Ừ. ...Hôm qua mệt phết. Giáp trụ thì đương nhiên là nặng và cồng kềnh rồi. Tôi chỉ giữ lại bộ của mình với một bộ dự phòng, còn lại đem bán sạch cho tiệm..."
 
 "À, ra vậy."
 
-Những thứ như thuốc hồi phục hay đá quý thì không tốn mấy diện tích, còn Rei cũng chỉ lấy chừng mười cây giáo và năm con dao găm. Ngần ấy thứ thì mang theo cũng chẳng vất vả là bao, vả lại cậu còn có cả Nhẫn Sương Mù. Trái lại, thứ Superbia nhận về là phòng cụ. Dù là khiên hay giáp trụ, hễ làm từ kim loại hay da và xương quái vật thì ắt hẳn đều nặng khủng khiếp.
+Những thứ như thuốc hồi phục hay đá quý thì không tốn mấy diện tích, còn Rei cũng chỉ lấy chừng mười cây giáo và năm con dao găm. Ngần ấy thứ thì mang theo cũng chẳng vất vả là bao, vả lại cậu còn có cả Nhẫn Sương Mù. Trái lại, thứ Superbia nhận về là đồ bảo hộ. Dù là khiên hay giáp trụ, hễ làm từ kim loại hay da và xương quái vật thì ắt hẳn đều nặng khủng khiếp.
 
 "Rồi anh xử lý thế nào?"
 
@@ -196,7 +196,7 @@ Cậu mỉm cười đáp lại lời chúc của Filma bên cạnh, cả hai c�
 
 Theo tiếng gọi của Gran, một người có vẻ là nhân viên Hội bước vào phòng họp rồi tiến lại gần phía nhóm Rei.
 
-"Mọi người giao Thẻ Hội cho cậu này để cập nhật hạng nhé."
+"Tất cả đưa Thẻ Hội cho cậu này để cập nhật hạng đi."
 
 Cả nhóm làm theo chỉ thị, lần lượt nộp Thẻ Hội. Người nhân viên cẩn thận kiểm tra lại rồi thu thập từng thẻ một.
 
@@ -214,7 +214,7 @@ Rei gật đầu trước những lời của Gran.
 
 Thấy vậy, Gran liền chuyển ánh mắt sang phía Culotte.
 
-"Tiếp theo là Culotte. Hồi đầu bài thi, có lẽ do căng thẳng nên cô hay cự nự với Rei và Arogan, lại thêm chuyện trả hàng miễn phí cho thương nhân như ta vừa nói với Rei nữa, đó là những điểm trừ. Tuy nhiên, về mọi phương diện khác thì bản lĩnh đạo tặc của cô hoàn toàn xứng đáng với Hạng D, sau này hãy tiếp tục phát huy."
+"Tiếp theo là Culotte. Hồi đầu bài thi, có lẽ do căng thẳng nên cô hay cự nự với Rei và Arogan, lại thêm chuyện trả hàng miễn phí cho thương nhân như ta vừa nói với Rei nữa, đó là những điểm trừ. Nhưng ngoài điểm đó ra thì bản lĩnh đạo tặc của cô hoàn toàn xứng đáng với Hạng D, sau này hãy tiếp tục trau dồi."
 
 Culotte cũng gật đầu tiếp thu.
 
@@ -236,7 +236,7 @@ Hài lòng gật đầu trước phản ứng đó, Gran liền nhìn sang phía
 
 Thấy cả hai gật đầu, Gran quay sang người cuối cùng là Arogan.
 
-"Người bị đánh giá thấp nhất trong bài thi lần này chính là cậu. Quá tự tin vào thực lực bản thân rồi coi thường người khác. Điểm hẹn thì đến muộn. Giao tiếp với các đồng đội trong tổ đội cũng chẳng đâu vào đâu. Đã thế tinh thần lại còn suy sụp sau khi giết người. Nói thật, nếu cứ giữ nguyên tình trạng đó thì chắc chắn cậu đã trượt bài thi thăng hạng rồi. Nhưng về chuyện tinh thần yếu đuối sau khi giết người, cậu đã thẳng thắn bộc bạch với bọn Culotte và Scola để cùng nhau vượt qua, và cũng nhờ thế, dù chưa hẳn là lý do chính, mối quan hệ giữa các thành viên trong tổ đội đã đạt điểm sàn. ...Tuy nhiên, nghe cho rõ đây. Đừng bao giờ quên rằng cậu chỉ vừa suýt soát đỗ bài thi thăng hạng này trong đường tơ kẽ tóc thôi đấy nhé."
+"Người bị đánh giá thấp nhất trong bài thi lần này chính là cậu. Quá tự tin vào thực lực bản thân rồi coi thường người khác. Điểm hẹn thì đến muộn. Giao tiếp với các đồng đội trong tổ đội cũng chẳng đâu vào đâu. Đã thế tinh thần lại còn suy sụp sau khi giết người. Nói thật, nếu cứ giữ nguyên tình trạng đó thì chắc chắn cậu đã trượt bài thi thăng hạng rồi. Nhưng về chuyện tinh thần yếu đuối sau khi giết người, cậu đã thẳng thắn bộc bạch với bọn Culotte và Scola để cùng nhau vượt qua, và cũng nhờ thế, dù chưa hẳn là lý do chính, mối quan hệ giữa các thành viên trong tổ đội đã đạt điểm sàn. ...Tuy nhiên, nghe cho rõ đây. Đừng bao giờ quên rằng cậu chỉ vừa suýt soát đỗ bài thi thăng hạng này thôi đấy nhé."
 
 "...Biết rồi."
 
