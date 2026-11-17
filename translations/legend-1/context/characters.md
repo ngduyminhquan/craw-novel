@@ -52,7 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 62: Thẻ Hội Hạng D; đã tới dinh thự lãnh chúa gặp Daska Rowlocks và đánh bại màn thử sức của đội trưởng hộ vệ Kuust Brassin, nhận chi tiết ủy thác hộ tống tiểu thư Elena Kerebel tới Tế đàn kế thừa trong hầm ngục gần Gilm và hẹn hội quân trước cổng chính lúc 9 giờ sáng hôm sau
+- Trạng thái tính đến chương 66: Thẻ Hội Hạng D; diện kiến lãnh chúa Daska và Elena tại dinh thự, hóa giải hiềm khích với Ara; công khai Nhẫn Sương Mù là Hộp Vật Phẩm nhận diện ma lực và nhận trách nhiệm hậu cần, thống nhất vai trò Ma Pháp Chiến Sĩ chuẩn bị vào hầm ngục lúc 6 giờ sáng hôm sau
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -201,12 +201,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
+- Vũ khí và vị trí: Kỵ sĩ tiền vệ, sử dụng trường kiếm với kiếm phong cương mãnh.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
+- Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; biết ma pháp hệ Thổ và đảm nhận vai trò trinh sát, gỡ bẫy như đạo tặc.
 
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
+- Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong; trang bị Giày Sleipnir.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
