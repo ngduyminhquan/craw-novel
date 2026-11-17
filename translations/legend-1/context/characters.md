@@ -205,6 +205,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
 - Vũ khí và vị trí: Kỵ sĩ tiền vệ, sử dụng trường kiếm với kiếm phong cương mãnh.
+- Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
