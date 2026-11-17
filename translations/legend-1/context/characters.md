@@ -45,6 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Ara | アーラ; アーラ・スカーレイ | Ara | Hộ vệ của Elena Kerebel, con gái thứ ba của Bá tước Scarley | Chương 63 |
 | Trenma | トレンマ | Trenma | Phó đoàn trưởng kỵ sĩ đoàn Gilm | Chương 64 |
 | Linde | リンデ | Linde | Thiếu niên tạp vụ quán trọ ở ngôi làng quanh hầm ngục | Chương 72 |
+| Worker | ワーカー | Worker | Đại diện chi nhánh Hội Mạo Hiểm Giả tại ngôi làng quanh hầm ngục | Chương 73 |
 
 ## Chi tiết
 
@@ -218,3 +219,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Linde
 - Giới tính, tuổi: Nam, khoảng 15 tuổi, làm tạp vụ tại quán trọ cao cấp ở ngôi làng quanh hầm ngục
 - Tính cách: Ban đầu sợ sệt trước Set nhưng nhanh chóng làm quen và thích thú vuốt ve chăm sóc chú Griffin
+
+### Worker
+- Nam thanh niên ngoài 20 đến đầu 30 tuổi, gương mặt hiền hòa dễ mến, giữ chức đại diện chi nhánh Hội Mạo Hiểm Giả kiêm quản lý tạm thời ngôi làng quanh hầm ngục.

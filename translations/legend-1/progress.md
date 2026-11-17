@@ -77,7 +77,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 70 |  | Chapter_0070 - 継承の祭壇 - 第70話.txt | 継承の祭壇 - 第70話 | reviewed |  |
 | 71 |  | Chapter_0071 - 継承の祭壇 - 第71話.txt | 継承の祭壇 - 第71話 | reviewed |  |
 | 72 |  | Chapter_0072 - 継承の祭壇 - 第72話.txt | 継承の祭壇 - 第72話 | reviewed |  |
-| 73 |  | Chapter_0073 - 継承の祭壇 - 第73話.txt | 継承の祭壇 - 第73話 | todo |  |
+| 73 |  | Chapter_0073 - 継承の祭壇 - 第73話.txt | 継承の祭壇 - 第73話 | done |  |
 | 74 |  | Chapter_0074 - 継承の祭壇 - 第74話.txt | 継承の祭壇 - 第74話 | todo |  |
 | 75 |  | Chapter_0075 - 継承の祭壇 - 第75話.txt | 継承の祭壇 - 第75話 | todo |  |
 | 76 |  | Chapter_0076 - 継承の祭壇 - 第76話.txt | 継承の祭壇 - 第76話 | todo |  |

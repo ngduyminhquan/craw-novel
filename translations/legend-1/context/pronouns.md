@@ -49,6 +49,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vel | anh / Vel | 63 | Hiệp sĩ 20 tuổi trong đội hộ vệ của Elena |
 | Trenma | Trenma / người đàn ông trung niên | 64 | Phó đoàn trưởng kỵ sĩ đoàn Gilm |
 | Linde | cậu thiếu niên / Linde | 72 | Thiếu niên tạp vụ quán trọ |
+| Worker | Worker / anh ta | 73 | Đại diện chi nhánh Hội |
 
 ## Giữa các nhân vật
 
@@ -206,3 +207,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kuust | Ara | tôi | cô / Ara | 70 | Đội trưởng hộ vệ nói chuyện với nữ hiệp sĩ trong đội |
 | Linde | Rei | tôi | quý khách / anh Rei | 72 | Nhân viên tạp vụ quán trọ nói chuyện với khách mạo hiểm giả |
 | Rei | Linde | tôi | cậu / Linde | 72 | Nói chuyện thân thiện với thiếu niên tạp vụ quán trọ |
+| Worker | Elena | tôi | tiểu thư Elena / tiểu thư | 73 | Đại diện chi nhánh Hội nói chuyện với tiểu thư Công tước |
+| Elena | Worker | ta / tôi | anh / Worker | 73 | Tiểu thư Công tước nói chuyện với đại diện Hội |
+| Worker | Rei | tôi | cậu / cậu Rei | 73 | Đại diện Hội nói chuyện với mạo hiểm giả trẻ tuổi |
+| Rei | Worker | tôi | anh / Worker | 73 | Mạo hiểm giả nói chuyện với đại diện Hội |
+| Ara | Worker | tôi | anh | 73 | Nữ hiệp sĩ hộ vệ chất vấn đại diện Hội |
+| Worker | Ara | tôi | cô | 73 | Đại diện Hội xoa dịu nữ hiệp sĩ hộ vệ |
