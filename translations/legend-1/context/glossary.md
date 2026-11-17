@@ -193,3 +193,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ダンジョンの核 |  | lõi hầm ngục | hệ thống | 72 | Lõi ở tầng sâu nhất hầm ngục, tự động cưỡng ép dịch chuyển quái vật quanh vùng vào bên trong |
 | ホーンラビット |  | Horn Rabbit | quái vật | 74 | Quái vật thỏ có sừng ở tầng 1 hầm ngục |
 | 巨大蝙蝠 |  | dơi khổng lồ | quái vật | 74 | Quái vật dơi kích thước lớn ở tầng 1 hầm ngục |
+| リザードマン |  | Lizardman | quái vật | 76 | Quái vật á nhân bò sát vảy xanh có đuôi dài, Hạng D, trí tuệ cao hơn Orc, bộ phận thảo phạt là chóp đuôi |
+| リザードマン・ジェネラル |  | Lizardman General | quái vật | 76 | Chủng cấp cao của Lizardman, Hạng C, cao khoảng 2m, dùng đại kiếm và khiên kim loại |
+| 降り注ぐ炎矢 |  | Hỏa Tiễn Trút Rơi | kỹ năng | 76 | Ma thuật hệ Hỏa của Rei, tạo khoảng 50 mũi tên lửa trút xuống diện rộng như mưa |
