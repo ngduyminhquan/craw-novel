@@ -189,3 +189,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 火竜 |  | Hỏa Long | quái vật | 69 | loài rồng lửa dùng Hơi Thở Lửa nướng chín con mồi |
 | ライトニング・トルネード |  | Lốc Xoáy Sấm Sét | kỹ năng | 70 | Ma pháp hệ Phong kết hợp sấm sét do Elena thi triển |
 | ゴースト |  | Ghost | quái vật | 70 | Quái vật bóng ma thuộc hệ Undead |
+| 迷宮都市 |  | thành phố hầm ngục | địa danh | 72 | Thành phố được xây dựng quy hoạch quanh hầm ngục phòng thủ bài bản |
+| ダンジョンの核 |  | lõi hầm ngục | hệ thống | 72 | Lõi ở tầng sâu nhất hầm ngục, tự động cưỡng ép dịch chuyển quái vật quanh vùng vào bên trong |

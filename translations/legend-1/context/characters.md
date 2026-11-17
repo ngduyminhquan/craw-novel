@@ -44,6 +44,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Vel | ヴェル; ヴェル・セイルズ | Vel | Hộ vệ của Elena Kerebel, con thứ của Tử tước Sails, phụ trách hậu cần | Chương 62 |
 | Ara | アーラ; アーラ・スカーレイ | Ara | Hộ vệ của Elena Kerebel, con gái thứ ba của Bá tước Scarley | Chương 63 |
 | Trenma | トレンマ | Trenma | Phó đoàn trưởng kỵ sĩ đoàn Gilm | Chương 64 |
+| Linde | リンデ | Linde | Thiếu niên tạp vụ quán trọ ở ngôi làng quanh hầm ngục | Chương 72 |
 
 ## Chi tiết
 
@@ -213,3 +214,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
+
+### Linde
+- Giới tính, tuổi: Nam, khoảng 15 tuổi, làm tạp vụ tại quán trọ cao cấp ở ngôi làng quanh hầm ngục
+- Tính cách: Ban đầu sợ sệt trước Set nhưng nhanh chóng làm quen và thích thú vuốt ve chăm sóc chú Griffin
