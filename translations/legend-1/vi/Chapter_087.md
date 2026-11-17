@@ -170,7 +170,7 @@ Nó cất tiếng kêu có phần lại sức hơn ban nãy một chút, rồi b
 
 Vừa đi dọc hành lang hầm ngục, Rei vừa cầm sẵn Lưỡi Hái Tử Thần trên tay để có thể vung lên bất cứ lúc nào, đoạn nhìn sang dáng vẻ của Set mà bất giác khẽ nhíu mày.
 
-(Ở tầng này vì ảnh hưởng của mùi thối nên không trông cậy vào khứu giác của Set được rồi. ...Nhưng dẫu sao vẫn còn thị giác với thính giác để dựa vào thì cũng coi như may mắn. Chưa kể còn có cả trực giác kiểu giác quan thứ sáu nữa.)
+(Ở tầng này vì ảnh hưởng của mùi thối nên không trông cậy vào khứu giác của Set được rồi. ...Nhưng dù sao vẫn còn thị giác với thính giác để dựa vào thì cũng coi như may mắn. Chưa kể còn có cả trực giác kiểu giác quan thứ sáu nữa.)
 
 Cứ thế đi thẳng dọc lối đi chừng mười phút. Bỗng nhiên, bước chân của Set đang đi cạnh Rei khựng lại.
 
@@ -200,7 +200,7 @@ Toàn thân chúng được tạo nên hoàn toàn từ những khúc xương tr
 
 Con Skeleton bên phải cầm một thanh kiếm dài hoen gỉ, còn con bên trái cầm một ngọn giáo, mũi kiếm và mũi giáo của chúng đều đang chĩa thẳng về phía Rei và Set.
 
-Rồi hai con Skeleton ấy lặng lẽ lao vào tấn công nhóm Rei mà không phát ra một tiếng động nào.
+Rồi hai con Skeleton ấy lặng lẽ lao vào tấn công nhóm Rei, không phát ra lấy một tiếng kêu.
 
 Hai con quái vật áp sát với tiếng xương nện xuống sàn hầm ngục lách cách, lách cách. Bình tĩnh nhìn lũ Skeleton đang lao tới, Rei cất tiếng.
 

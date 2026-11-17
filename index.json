@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T10:13:47Z",
+  "generatedAt": "2026-11-17T10:16:11Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2644,25 +2644,25 @@
           "number": 82,
           "title": "Chương 82: Tế đàn kế thừa (82)",
           "path": "translations/legend-1/vi/Chapter_082.md",
-          "sha": "5f1e42f1e80ed49f32205f4a68916b5ee963057b"
+          "sha": "987c451e132b28383b0281ba9490fd89c000b2eb"
         },
         {
           "number": 83,
           "title": "Chương 83: Tế đàn kế thừa (83)",
           "path": "translations/legend-1/vi/Chapter_083.md",
-          "sha": "58ba70f6581c70537a79416ccd75727d0e2a67fa"
+          "sha": "dcd2e635068b7243f69304d5bf7acf60f5fe3b3e"
         },
         {
           "number": 84,
           "title": "Chương 84: Tế đàn kế thừa (84)",
           "path": "translations/legend-1/vi/Chapter_084.md",
-          "sha": "bc37623eb21c46e5091c6f242c72e15d67d299f7"
+          "sha": "af5f0b5b018b26e6ea5ef83fe7ae6cebeb328268"
         },
         {
           "number": 85,
           "title": "Chương 85: Tế đàn kế thừa (85)",
           "path": "translations/legend-1/vi/Chapter_085.md",
-          "sha": "5c1d5487186e1d7fbd04948e0c8bf9a0242867e8"
+          "sha": "e6b4da1d6d2e6b578dfded889d43771727728e25"
         },
         {
           "number": 86,
@@ -2674,25 +2674,25 @@
           "number": 87,
           "title": "Chương 87: Tế đàn kế thừa (87)",
           "path": "translations/legend-1/vi/Chapter_087.md",
-          "sha": "07d7f25bfaf5333f92f5ddc02305019fd736d2a8"
+          "sha": "35b57548013c1932098ddbb57d17d1f85135d731"
         },
         {
           "number": 88,
           "title": "Chương 88: Tế đàn kế thừa (88)",
           "path": "translations/legend-1/vi/Chapter_088.md",
-          "sha": "0a0a142624fb559690b1220aa07a7513e8c4f69e"
+          "sha": "864891d8e6ddc0f7f79ca76c813cdede01956b13"
         },
         {
           "number": 89,
           "title": "Chương 89: Tế đàn kế thừa (89)",
           "path": "translations/legend-1/vi/Chapter_089.md",
-          "sha": "d3531f180f72a0667dde0ef1ce75e01ba4d8199c"
+          "sha": "a8dd5dc1251c41027f7c7280095c518f34f17faa"
         },
         {
           "number": 90,
           "title": "Chương 90: Tế đàn kế thừa (90)",
           "path": "translations/legend-1/vi/Chapter_090.md",
-          "sha": "9fbf7e5658977d95a5aba7866310e2012de22f08"
+          "sha": "e148cb18033f90199d8e5e15e7ac11167a2f0f86"
         }
       ]
     },

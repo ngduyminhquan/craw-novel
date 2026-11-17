@@ -104,7 +104,7 @@ Trong lúc đó, Vel vừa nhìn lũ Zombie vừa nhận ra một sự thật, a
 
 Elena xác nhận suy đoán của Vel, cô nhìn đàn Zombie đang tiến lại gần với vẻ chán ghét tột cùng.
 
-Đã là mạo hiểm giả dấn thân vào hầm ngục thì dĩ nhiên ai cũng muốn tránh cái chết, nhưng một khi đã xuống hầm ngục thì hiểm nguy mất mạng luôn rình rập tứ phía. Có điều, dẫu có chết đi chăng nữa mà thi thể lại bị biến thành món đồ chơi cho Lich hay bất cứ thứ gì tương tự thì Vel tuyệt đối không bao giờ cam lòng. ...Không, chẳng riêng gì Vel, đó hẳn là suy nghĩ chung của tất cả mọi người có mặt ở đây.
+Đã là mạo hiểm giả dấn thân vào hầm ngục thì dĩ nhiên ai cũng muốn tránh cái chết, nhưng một khi đã xuống hầm ngục thì hiểm nguy mất mạng luôn rình rập tứ phía. Có điều, dù có chết đi chăng nữa mà thi thể lại bị biến thành món đồ chơi cho Lich hay bất cứ thứ gì tương tự thì Vel tuyệt đối không bao giờ cam lòng. ...Không, chẳng riêng gì Vel, đó hẳn là suy nghĩ chung của tất cả mọi người có mặt ở đây.
 
 Đối với Zombie, đòn tấn công hữu hiệu cũng giống như các Undead thông thường, Thần Thánh Ma Pháp hoặc ma pháp hệ Hỏa đều phát huy tác dụng tốt. Hoặc nếu không ngại chạm vào cái xác thối rữa, người ta cũng có thể nhắm thẳng vào Ma Thạch vùi sâu trong đống thịt thối rữa kia.
 
@@ -192,7 +192,7 @@ Rồi từ chiếc mỏ sắc nhọn, ngọn Hơi Thở Lửa phóng ra, bao tr�
 
 "Ối, khoan đã!"
 
-Dù dùng được Hơi Thở Lửa nhưng dẫu sao cũng mới chỉ ở Lv.2 nên không thể lập tức thiêu rụi Zombie thành than trong chớp mắt; toàn thân bốc cháy ngùn ngụt, con Zombie vẫn lảo đảo tiến về phía Ara, Kuust và Set. Ngay khoảnh khắc khoảng cách giữa nó và Set, kẻ đang chắn trước mặt Ara và Kuust, thu hẹp về con số không...
+Dù dùng được Hơi Thở Lửa nhưng dù sao cũng mới chỉ ở Lv.2 nên không thể lập tức thiêu rụi Zombie thành than trong chớp mắt; toàn thân bốc cháy ngùn ngụt, con Zombie vẫn lảo đảo tiến về phía Ara, Kuust và Set. Ngay khoảnh khắc khoảng cách giữa nó và Set, kẻ đang chắn trước mặt Ara và Kuust, thu hẹp về con số không...
 
 "Grrr!"
 
@@ -210,7 +210,7 @@ Cảnh tượng ấy lặp lại hai ba lần, tới khi Ara chợt nhận ra th
 
 "Gừưư."
 
-Vừa khen ngợi vừa lấy miếng thịt sấy từ Nhẫn Sương Mù thưởng cho Set, Rei quay sang nhìn Elena.
+Vừa khen ngợi vừa lấy miếng thịt khô từ Nhẫn Sương Mù thưởng cho Set, Rei quay sang nhìn Elena.
 
 "Tiểu thư Elena, trước mắt chúng ta cứ rời khỏi đây đã. Chẳng rõ kẻ nào đứng sau, nhưng nếu cứ nán lại đây thì e rằng sẽ có thêm Undead nào đó được phái tới làm viện binh mất."
 

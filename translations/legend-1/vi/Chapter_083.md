@@ -64,7 +64,7 @@ Trước câu trả lời của Rei, Vel thở dài ngán ngẩm.
 
 "Vả lại không như ma pháp, phóng giáo đâu thể dùng ma lực để dẫn đường được. Thành ra mới bắn trượt như vừa rồi."
 
-Rei đoán tiếng động trầm đục vừa rồi chắc là cắm trúng thân cây. Mà dẫu có trúng Water Monkey thì vết thương chắc cũng chẳng sâu lắm.
+Rei đoán tiếng động trầm đục vừa rồi chắc là cắm trúng thân cây. Mà dù có trúng Water Monkey thì vết thương chắc cũng chẳng sâu lắm.
 
 "À, hiểu rồi. Tính thế thì đúng là bất tiện thật."
 
@@ -132,7 +132,7 @@ Những đòn đâm liên hoàn từ ngọn ma thương của Kuust tác động
 
 Những mũi tên do Vel bắn ra dù bị lớp nước triệt tiêu gần hết uy lực khiến đầu tên không cắm sâu vào da thịt Water Monkey, nhưng lực va đập vẫn đủ sức hất văng chúng rơi xuống đất. Và nhát kiếm Ara bổ bồi xuống con mồi vừa ngã đất bất chấp cả lớp nước phòng hộ mà chém toạc cơ thể nó... không, phải nói là cậy sức mạnh cơ bắp xẻ nát ra mới đúng.
 
-Cục diện trận chiến nghiêng về phía nhóm Rei một cách áp đảo. Cứ con Water Monkey nào lao vào là bị hạ gục ngay tức khắc, máu của chúng nhuộm đỏ khắp xung quanh. Thế nhưng, nếu biến thành trận chiến tiêu hao kéo dài hai mươi, ba mươi phút thì lại là chuyện khác. Tạm không tính đến thể chất vượt xa người thường của Rei, bốn người còn lại dù là những hiệp sĩ thiện chiến thì cũng chỉ là người phàm. Đánh dốc toàn lực không một giây lơi lỏng suốt ba mươi phút liền như vậy, thể lực họ khó lòng chịu đựng nổi. Dù có tinh nhuệ đến đâu thì rốt cuộc cũng chỉ là cá nhân đơn lẻ, số người sở hữu sức mạnh đủ để chống lại biển địch đông đảo vốn chẳng có mấy ai.
+Cục diện trận chiến nghiêng về phía nhóm Rei một cách áp đảo. Cứ con Water Monkey nào lao vào là bị hạ gục ngay tức khắc, máu của chúng nhuộm đỏ khắp xung quanh. Thế nhưng, nếu biến thành trận chiến tiêu hao kéo dài hai mươi, ba mươi phút thì lại là chuyện khác. Tạm không tính đến thể chất vượt xa người thường của Rei, bốn người còn lại dù là những kỵ sĩ thiện chiến thì cũng chỉ là người phàm. Đánh dốc toàn lực không một giây lơi lỏng suốt ba mươi phút liền như vậy, thể lực họ khó lòng chịu đựng nổi. Dù có tinh nhuệ đến đâu thì rốt cuộc cũng chỉ là cá nhân đơn lẻ, số người sở hữu sức mạnh đủ để chống lại biển địch đông đảo vốn chẳng có mấy ai.
 
 "Hây a! ...Ơ? Á!"
 

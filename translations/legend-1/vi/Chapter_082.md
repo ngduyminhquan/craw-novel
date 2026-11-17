@@ -58,7 +58,7 @@ Thấy cả bốn người nhìn cậu, Rei cười trừ rồi đứng dậy b�
 
 "Vâng, dù sao nó cũng to lớn thế này mà. Chỉ bước đi thôi tiếng động đã vang dội, mặt đất cũng rung lên nhè nhẹ nên tôi nhận ra ngay. Cứ để mặc thì khu trại dễ biến thành chiến trường mất, nên tôi mới chủ động ra đón đầu."
 
-"...Ừm. Dù ta cũng có đôi điều muốn nói, nhưng nhìn chung phán đoán của cậu không sai. Thực tế là chỉ có hai đứa cậu và Set mà đã hạ gục nó chẳng chút xây xát đấy thôi."
+"...Ừm. Dù ta cũng có đôi điều muốn nói, nhưng nhìn chung phán đoán của cậu không sai. Thực tế là chỉ có cậu và Set mà đã hạ gục nó chẳng chút xây xát đấy thôi."
 
 Nói đến đó, Elena đưa mắt nhìn về phía con Ogre lúc này máu đã chảy yếu bớt.
 
@@ -114,7 +114,7 @@ Chắc bị mùi thơm hấp dẫn, Set cũng gừ gừ trong họng rồi dụi
 
 "Biết rồi, biết rồi. Của mày tao chuẩn bị riêng rồi, cứ yên tâm."
 
-Cậu lấy từ Nhẫn Sương Mù ra một tảng thịt Orc mà trước đó cậu cùng Elk, thành viên tổ đội Rìu Lôi Thần, đã pha sẵn thành cỡ vừa ăn, dùng mấy cành cây xiên qua để giữ thăng bằng rồi bắt đầu nướng trên đống lửa trại.
+Cậu lấy từ Nhẫn Sương Mù ra một tảng thịt Orc mà trước đó cậu cùng Elk, thành viên tổ đội Rìu Lôi Thần, đã xẻ sẵn thành cỡ vừa ăn, dùng mấy cành cây xiên qua để giữ thăng bằng rồi bắt đầu nướng trên đống lửa trại.
 
 Nói là kích cỡ vừa miệng nhưng thực ra là vừa miệng đối với Set, chứ với nhóm Rei thì nó to như cả một tảng lớn.
 

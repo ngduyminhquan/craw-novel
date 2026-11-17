@@ -32,7 +32,7 @@ Sau khi công việc dọn dẹp xong xuôi, cả nhóm tiếp tục cuộc thá
 
 Elena tỏ vẻ băn khoăn.
 
-Dẫu sao khi không có bản đồ trong tay, việc chọn đúng con đường phần lớn phụ thuộc vào may rủi. Mà nhìn vào tình cảnh của họ từ lúc bước xuống hầm ngục tới giờ, rõ ràng chẳng ai dám nhận mình may mắn cả.
+Dù sao khi không có bản đồ trong tay, việc chọn đúng con đường phần lớn phụ thuộc vào may rủi. Mà nhìn vào tình cảnh của họ từ lúc bước xuống hầm ngục tới giờ, rõ ràng chẳng ai dám nhận mình may mắn cả.
 
 "Rei, cậu nghĩ bên nào ổn hơn?"
 
@@ -104,7 +104,7 @@ Xoa đầu Set khi nó đang nghiêng nghiêng đầu như muốn hỏi có vào
 
 "Tiểu thư Elena, phía trước có một cánh cửa, chúng ta tính sao đây?"
 
-"...Cửa sao. Ta nghĩ vừa xuống tầng ngầm thứ năm thì chưa thể có ngay cầu thang xuống tầng ngầm thứ sáu được... nhưng dẫu sao vẫn không loại trừ khả năng hy hữu đó. Vel, kiểm tra xem có bẫy không."
+"...Cửa sao. Ta nghĩ vừa xuống tầng ngầm thứ năm thì chưa thể có ngay cầu thang xuống tầng ngầm thứ sáu được... nhưng dù sao vẫn không loại trừ khả năng hy hữu đó. Vel, kiểm tra xem có bẫy không."
 
 "Rõ luôn. Cho tôi mượn đường một chút nhé."
 
@@ -166,7 +166,7 @@ Trước lời phân tích của Vel, Ara suy nghĩ vài giây... rồi lập t�
 
 "Ta cũng nghĩ vậy. Đương nhiên ở đây chẳng có cầu thang nào cả, không cần thiết phải mạo hiểm vô ích... Lùi lại mau!"
 
-Ngay khoảnh khắc nghe thấy tiếng hô ấy, tất cả mọi người liền phản xạ bật lùi về phía sau, quả không hổ danh là những hiệp sĩ thân cận của Elena. Rei và Set cũng đồng thời nhảy lùi lại.
+Ngay khoảnh khắc nghe thấy tiếng hô ấy, tất cả mọi người liền phản xạ bật lùi về phía sau, quả không hổ danh là những kỵ sĩ thân cận của Elena. Rei và Set cũng đồng thời nhảy lùi lại.
 
 Nhận ra có thứ gì đó đang lao thẳng về phía mình, Rei theo phản xạ vung Lưỡi Hái Tử Thần lên. Có điều do thứ đó áp sát từ mạn sườn trái, nên phần va vào đối phương không phải lưỡi hái mà là cán hái.
 

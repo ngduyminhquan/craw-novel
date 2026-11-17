@@ -80,7 +80,7 @@ Ngay cả Kuust, kẻ ngày thường hễ mở mồm là cà khịa Rei, có l�
 
 Elena cũng nhận lấy bình nước rồi ngửa cổ uống một hơi.
 
-Rei mải ngắm chiếc cổ trắng ngần của cô chuyển động đầy quyến rũ khi nuốt từng ngụm nước, nhưng rồi giật mình hoàn hồn khi Set dùng mỏ kéo nhẹ tà Áo Choàng Rồng, cậu liền uống phần nước của cậu. Đồng thời cậu lấy mấy quả trái cây mọng nước từ Nhẫn Sương Mù đưa cho Set.
+Rei mải ngắm chiếc cổ trắng ngần của cô chuyển động đầy quyến rũ khi nuốt từng ngụm nước, nhưng rồi giật mình hoàn hồn khi Set dùng mỏ kéo nhẹ tà Áo Choàng Rồng, cậu liền uống phần nước của mình. Đồng thời cậu lấy mấy quả trái cây mọng nước từ Nhẫn Sương Mù đưa cho Set.
 
 "Sống lại rồi... Nào, giải thích giúp ta với."
 
@@ -154,7 +154,7 @@ Phải rồi, đúng là cậu không có thanh kiếm nào chịu nổi sức c
 
 Cho danh sách trong Nhẫn Sương Mù hiện lên trong đầu, cậu chọn vào mục có ghi Rìu Cường Lực.
 
-Đó là món đồ cậu thắng cược lấy được từ Vargas, tên cầm đầu tổ đội Hạng D Móng Vuốt Chim Ưng từng đến kiếm chuyện với cậu. Về sau nghe kể lại, đó là Đạo Cụ Ma Thuật mà chúng nhặt được khi khám phá mê cung, tức chính hầm ngục này.
+Đó là món đồ cậu thắng cược lấy được từ Vargas, tên cầm đầu tổ đội Hạng D Móng Vuốt Chim Ưng từng đến kiếm chuyện với cậu. Về sau nghe kể lại, đó là Đạo Cụ Ma Thuật mà chúng nhặt được khi khám phá chính hầm ngục này.
 
 (Lấy Đạo Cụ Ma Thuật nhặt được ở đây cho người vừa mất vũ khí cũng tại nơi này mượn, kể ra cũng thú vị đấy chứ.)
 
@@ -220,7 +220,7 @@ Nghe Elena nhắc nhở, cô thong thả cầm cây Rìu Cường Lực bằng m
 
 "Vậy thì chỉ còn nước chọn một điểm ngoài khu vực bẫy để đột phá. Nếu được thì ta rất muốn hạ luôn con chủng hiếm kia, nhưng mà..."
 
-"Nếu suy luận bình thường thì con chủng hiếm sẽ nấp sau nơi tập trung lực lượng đông nhất của địch... nhưng dẫu sao chúng cũng là quái vật mà. Không biết có chịu hành động theo đúng tính toán của mình không nữa."
+"Nếu suy luận bình thường thì con chủng hiếm sẽ nấp sau nơi tập trung lực lượng đông nhất của địch... nhưng dù sao chúng cũng là quái vật mà. Không biết có chịu hành động theo đúng tính toán của mình không nữa."
 
 Vel cũng đã hồi sức, cất giọng nhẹ tênh xen vào như thể đã lấy lại được phong độ thường ngày.
 

@@ -102,7 +102,7 @@ Chính vì vậy, quái vật Lich không có Hạng quái vật cố định; c
 
 "Hẳn là vậy. Quái vật biết dùng ma pháp lại còn là Undead thì phiền phức vô cùng. Cứ cầu mong không phải thế mà đi tiếp thôi."
 
-Nghe Rei nói, mọi người — kể cả Kuust — đều gật đầu, rồi vừa chú ý quan sát bờ tường bên phải nơi Set cào dấu vừa bước đi. Đi sâu vào trong hầm ngục chừng hai mươi phút nữa, cuối cùng cả nhóm cũng tới nơi có vết cào trên tường.
+Nghe Rei nói, mọi người, kể cả Kuust, đều gật đầu, rồi vừa chú ý quan sát bờ tường bên phải nơi Set cào dấu vừa bước đi. Đi sâu vào trong hầm ngục chừng hai mươi phút nữa, cuối cùng cả nhóm cũng tới nơi có vết cào trên tường.
 
 "Thế là rõ rồi nhỉ?"
 
@@ -176,7 +176,7 @@ Trước cách giải quyết chỉ có thể coi là ngông cuồng ấy, Elena
 
 "Chắc không vấn đề gì đâu. Hơn nữa nếu đeo chiếc vòng tay này, tôi còn có thể hút ma lực từ kẻ địch nữa."
 
-Nói đoạn, cậu đưa cổ tay trái ra cho mọi người xem thay vì cổ tay phải đang đeo Nhẫn Sương Mù.
+Nói rồi, cậu đưa cổ tay trái ra cho mọi người xem thay vì cổ tay phải đang đeo Nhẫn Sương Mù.
 
 Ở đó đúng là có đeo một chiếc vòng tay trông như Đạo Cụ Ma Thuật.
 

@@ -12,7 +12,7 @@ Ngay khoảnh khắc Rei cất lời, ánh mắt của tất cả mọi người
 
 "Trong số các ma pháp của tôi có một ma pháp gọi là 'Hạt Giống Trừng Phạt'. Ma pháp đó hoạt động theo nguyên lý nếu vi phạm điều kiện được đặt ra lúc thi triển, chẳng hạn như không được tiết lộ cho người khác năng lực tôi sắp thể hiện, thì ma pháp sẽ kích hoạt và thiêu rụi từ bên trong cơ thể. Nếu mọi người chấp nhận điều này thì tôi sẽ tung át chủ bài ra."
 
-Ngay khi Rei vừa dứt lời, mũi cây ma thương do Kuust phóng tới đã áp sát ngay sát bên mặt cậu.
+Ngay khi Rei vừa dứt lời, mũi ma thương của Kuust đã chĩa sát bên mặt cậu.
 
 "...Ngươi đừng có mà được đằng chân lân đằng đầu! Thân là thường dân mà dám đòi dùng ma pháp trói buộc hành động của một quý tộc như ta và tiểu thư Elena sao? Biết thân biết phận mình đi!"
 
