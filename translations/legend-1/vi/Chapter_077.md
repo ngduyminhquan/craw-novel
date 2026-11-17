@@ -2,7 +2,7 @@
 
 Không gian bên trong hầm ngục hoàn toàn yên ắng.
 
-Hiện diện nơi đó lúc này chỉ có con Lizardman General vừa bị chém đứt đôi người và Elena, người vừa vung trọn đường liên tiếp kiếm để làm điều đó.
+Hiện diện nơi đó lúc này chỉ có xác con Lizardman General vừa bị chém đứt đôi người và Elena trong tư thế vung hết đường liên tiếp kiếm.
 
 Elena thoáng liếc nhìn đối thủ quyết đấu vừa mất mạng, rồi vung mạnh liên tiếp kiếm để vẩy sạch vết máu Lizardman trước khi tra vào bao.
 
@@ -62,7 +62,7 @@ Thế nhưng Vel vẫn giữ thái độ thong dong, vừa mỉm cười vừa �
 
 "..."
 
-"Chưa kể điều kiện để tiểu thư Elena chọn làm bạn đời chí ít cũng phải mạnh hơn cô ấy. ...Thấy chưa, đối phương là Rei thì đâu có vấn đề gì chứ?"
+"Chưa kể điều kiện chọn bạn đời của tiểu thư Elena là đối phương chí ít cũng phải mạnh hơn chính mình. ...Thấy chưa, người đó là Rei thì đâu có vấn đề gì chứ?"
 
 Ngay lúc Vel vừa lẩm bẩm dứt câu, anh cảm nhận được mũi ma thương trong tay Kuust lướt qua sát sạt bên má mình.
 
@@ -112,7 +112,7 @@ Trong số đó, chỉ có Set là chẳng hề đổi sắc mặt, chỉ khẽ 
 
 Thế nhưng tâm trạng như đi vãn cảnh của cả nhóm nhanh chóng chấm dứt.
 
-Người đầu tiên nhận ra âm thanh đó là Set, sinh vật sở hữu ngũ quan vượt xa con người.
+Nhận ra âm thanh đó đầu tiên là Set, sinh vật sở hữu ngũ quan nhạy bén vượt xa con người.
 
 "Gừưư."
 
@@ -136,9 +136,9 @@ Bởi vì sáng nay nhóm của cậu là những người đầu tiên tiến v
 
 Rei ngập ngừng nói.
 
-Dù sao thì mạo hiểm giả là nghề mà ai đăng ký ở Hội cũng có thể làm được. Vì thế hiển nhiên luôn có một bộ phận mạo hiểm giả phẩm chất kém, trong đó thậm chí có kẻ còn tấn công mạo hiểm giả khác để cướp bóc hành lý. Huống hồ nơi nhóm Rei đang đứng lúc này là mê cung, dù có xảy ra biến cố gì ở đây đi nữa thì nếu không có ai tố cáo cũng chẳng gây nên ồn ào nào, chưa kể trước mắt người ta sẽ chỉ coi là đã bỏ mạng trong mê cung mà thôi. Khi cậu giải thích tình hình đó cho Elena, cô liền nghiêm túc gật đầu nhẹ.
+Dù sao thì mạo hiểm giả là nghề mà ai đăng ký ở Hội cũng có thể làm được. Vì thế hiển nhiên luôn có một bộ phận mạo hiểm giả phẩm chất kém, trong đó thậm chí có kẻ còn tấn công mạo hiểm giả khác để cướp bóc hành lý. Huống hồ nơi nhóm Rei đang đứng lúc này là hầm ngục, dù có xảy ra biến cố gì ở đây đi nữa thì nếu không có ai tố cáo cũng chẳng gây nên ồn ào nào, mà trước đó người ta hẳn cũng chỉ cho là đã bỏ mạng trong hầm ngục mà thôi. Khi cậu giải thích tình hình đó cho Elena, cô liền nghiêm túc gật đầu nhẹ.
 
-"Được rồi. Vậy trước hết cứ xem động thái của đối phương thế nào đã. Nếu họ là tổ đội tới thám hiểm mê cung thì chẳng có vấn đề gì. Nhưng nếu là lũ chẳng khác nào bọn cướp như lời Rei nói, ta sẽ cho chúng nếm mùi để biết mình vừa động vào ai."
+"Được rồi. Vậy trước hết cứ xem động thái của đối phương thế nào đã. Nếu họ là tổ đội tới thám hiểm hầm ngục thì chẳng có vấn đề gì. Nhưng nếu là lũ chẳng khác gì bọn cướp như lời Rei nói, ta sẽ cho chúng nếm mùi để biết mình vừa động vào ai."
 
 Mọi người đều gật đầu trước chỉ thị của Elena rồi đứng chờ tại chỗ.
 
@@ -224,7 +224,7 @@ Gã đạo tặc nói xong liền chia tay nhóm Rei và Elena tại chỗ rồi
 
 Nhóm Rei và Elena hướng về phía cầu thang dẫn xuống tầng ngầm thứ tư, còn nhóm những người đàn ông thì tiến về phía cầu thang dẫn lên tầng ngầm thứ hai.
 
-"...Này, mấy người thấy thế nào?"
+"...Này, mấy ông thấy thế nào?"
 
 Khi đã cách nhóm Rei một khoảng khá xa, người đàn ông chiến sĩ cầm kích liền lẩm bẩm.
 
@@ -236,13 +236,13 @@ Trước câu nói của gã cầm kiếm, các đồng đội chỉ biết cư�
 
 "Tao thì vẫn để ý con Griffin kia hơn. Mà đúng hơn là lần đầu tiên tao thấy một con Griffin bằng xương bằng thịt đấy."
 
-Thứ để lại ấn tượng sâu sắc nhất cho gã đạo tặc chính là chú Griffin. Đó là quái vật Hạng A, một sinh vật hùng mạnh đến mức còn được mệnh danh là tử thần trên không. Vì là đạo tặc nên gã rất giỏi ước lượng thực lực của người khác, thế nhưng con Griffin gã vừa thấy vẫn vượt xa trí tưởng tượng của gã. Có thể nói đẳng cấp tồn tại của nó đã ở một tầm hoàn toàn khác.
+Thứ để lại ấn tượng sâu sắc nhất cho gã đạo tặc chính là chú Griffin. Đó là quái vật Hạng A, một sinh vật hùng mạnh đến mức còn được mệnh danh là Tử Thần Bầu Trời. Vì là đạo tặc nên gã rất giỏi ước lượng thực lực của người khác, thế nhưng con Griffin gã vừa thấy vẫn vượt xa trí tưởng tượng của gã. Có thể nói đẳng cấp tồn tại của nó đã ở một tầm hoàn toàn khác.
 
 "Gái đẹp với Griffin thì rõ rồi, nhưng thứ tao để ý là họ không có người khuân vác."
 
 Người đàn ông đeo chiếc ba lô khổng lồ lẩm bẩm như vậy.
 
-Người khuân vác. Nói đơn giản, đó là cách gọi chung những người phụ trách mang vác nguyên liệu, Ma Thạch hoặc kho báu thu được khi thám hiểm hầm ngục. Ngẫm ra thì cũng phải, khi càng tiến sâu vào hầm ngục mà các chiến sĩ hay ma pháp sư phải ôm đồm mớ nguyên liệu và Ma Thạch thu thập được thì cử động hiển nhiên sẽ trở nên chậm chạp. Và một khi cử động chậm chạp thì họ sẽ gặp khó khăn khi đối phó với quái vật. Sự hiện diện giúp giải quyết vấn đề đó chính là những người chuyên trách mang vác hành lý — người khuân vác.
+Người khuân vác. Nói đơn giản, đó là cách gọi chung những người phụ trách mang vác nguyên liệu, Ma Thạch hoặc kho báu thu được khi thám hiểm hầm ngục. Ngẫm ra thì cũng phải, khi càng tiến sâu vào hầm ngục mà các chiến sĩ hay ma pháp sư phải ôm đồm mớ nguyên liệu và Ma Thạch thu thập được thì cử động hiển nhiên sẽ trở nên chậm chạp. Và một khi cử động chậm chạp thì họ sẽ gặp khó khăn khi đối phó với quái vật. Người giúp giải quyết vấn đề đó chính là những người chuyên làm công việc mang vác hành lý — người khuân vác.
 
 "...Nói mới nhớ, ở đó chỉ có tên nhóc vác cây hái to tổ bố, hai nữ chiến sĩ, một tên dùng thương với một tên dùng cung thôi nhỉ."
 

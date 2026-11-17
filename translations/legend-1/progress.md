@@ -80,9 +80,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 73 |  | Chapter_0073 - 継承の祭壇 - 第73話.txt | 継承の祭壇 - 第73話 | reviewed |  |
 | 74 |  | Chapter_0074 - 継承の祭壇 - 第74話.txt | 継承の祭壇 - 第74話 | reviewed |  |
 | 75 |  | Chapter_0075 - 継承の祭壇 - 第75話.txt | 継承の祭壇 - 第75話 | reviewed |  |
-| 76 |  | Chapter_0076 - 継承の祭壇 - 第76話.txt | 継承の祭壇 - 第76話 | done |  |
-| 77 |  | Chapter_0077 - 継承の祭壇 - 第77話.txt | 継承の祭壇 - 第77話 | done |  |
-| 78 |  | Chapter_0078 - 継承の祭壇 - 第78話.txt | 継承の祭壇 - 第78話 | done |  |
+| 76 |  | Chapter_0076 - 継承の祭壇 - 第76話.txt | 継承の祭壇 - 第76話 | reviewed |  |
+| 77 |  | Chapter_0077 - 継承の祭壇 - 第77話.txt | 継承の祭壇 - 第77話 | reviewed |  |
+| 78 |  | Chapter_0078 - 継承の祭壇 - 第78話.txt | 継承の祭壇 - 第78話 | reviewed |  |
 | 79 |  | Chapter_0079 - 継承の祭壇 - 第79話.txt | 継承の祭壇 - 第79話 | todo |  |
 | 80 |  | Chapter_0080 - 継承の祭壇 - 第80話.txt | 継承の祭壇 - 第80話 | todo |  |
 | 81 |  | Chapter_0081 - 継承の祭壇 - 第81話.txt | 継承の祭壇 - 第81話 | todo |  |

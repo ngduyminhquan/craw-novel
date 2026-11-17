@@ -52,7 +52,7 @@ Ra lệnh cho hai người đang đảm nhận vị trí tiền vệ, Elena vung
 
 Lưỡi liên tiếp kiếm vươn dài như roi sắt đâm xuyên thân cây nấm đang chực lao vào bên hông Ara; cùng lúc đó Elena lật nhẹ cổ tay, xẻ đôi thân cây nấm từ bên trong.
 
-(Lũ nấm này không biết đau sao? Dẫu nghe nói hiếm khi cũng có loại quái vật không có cảm giác đau, nhưng mà...)
+(Lũ nấm này không biết đau sao? Dù nghe nói hiếm khi cũng có loại quái vật không có cảm giác đau, nhưng mà...)
 
 Lẩm bẩm trong lòng, cô tiếp tục xoay cổ tay chém đứt thân một cây nấm khác cạnh bên.
 
@@ -92,7 +92,7 @@ Và khi bóng dáng phượng hoàng tan biến, thứ còn sót lại chỉ là
 
 Mấy cây nấm còn sót lại đó cũng nhanh chóng bị nhóm Elena kết liễu.
 
-Ban đầu họ gặp khó khăn vốn là vì số lượng nấm quá đông, cộng thêm vẻ quái dị khi bị trúng đòn mà không hề tỏ ra đau đớn, nên khi đã dọn gần hết thì việc còn lại chẳng khác nào giải quyết cho xong thủ tục.
+Ban đầu họ gặp khó khăn vốn là vì số lượng nấm quá đông, cộng thêm vẻ quái dị khi bị trúng đòn mà không hề tỏ ra đau đớn, nên khi đã dọn gần hết thì việc còn lại chỉ như giải quyết cho xong thủ tục.
 
 Nhưng mà...
 
@@ -120,7 +120,7 @@ Bản thân Kuust cũng chẳng nghĩ Vel lại làm ăn tắc trách. Dù bình
 
 Một câu lẩm bẩm vu vơ của Elena. Thế nhưng nó lại khiến Rei nhận ra điều gì đó, bất giác quay nhìn về phía những cái xác nấm chưa bị cháy thành tro.
 
-Hành động bất ngờ ấy khiến nhóm Elena ngạc nhiên nhìn theo, nhưng Rei chẳng mảy may để ý mà rảo bước lại gần xác nấm.
+Hành động bất ngờ ấy khiến nhóm Elena ngạc nhiên nhìn theo, nhưng Rei chẳng có vẻ gì là nhận ra mà cứ thế rảo bước lại gần xác nấm.
 
 "Này, sao thế? Trên người cây nấm đó làm gì có Ma Thạch hay nguyên liệu gì lấy được đâu. Lúc nãy tôi với cậu chẳng vừa cùng kiểm tra rồi còn gì?"
 
@@ -136,7 +136,7 @@ Elena cất tiếng hỏi, nhưng Rei chỉ khẽ lắc đầu.
 
 "Lời của ta sao?"
 
-"Vâng. Về con bọ ngựa đó. Lúc trước tôi cũng có nói rồi, con bọ ngựa đó nhiều khả năng là quái vật được tạo ra bằng Giả Kim Thuật. Còn lũ nấm vừa tấn công chúng ta, theo những gì đã kiểm tra thì chẳng khác nào nấm bình thường mọc ở tầng này. Bởi chém đứt thân chúng cũng không thấy chút nội tạng nào, thậm chí đến cả Ma Thạch vốn chắc chắn phải có ở quái vật cũng không hề có. Điểm duy nhất khác với những cây nấm khác chính là phần rễ cây cử động thay cho chân này."
+"Vâng. Về con bọ ngựa đó. Lúc trước tôi cũng có nói rồi, con bọ ngựa đó nhiều khả năng là quái vật được tạo ra bằng Giả Kim Thuật. Còn lũ nấm vừa tấn công chúng ta, theo những gì đã kiểm tra thì giống hệt nấm bình thường mọc ở tầng này. Bởi chém đứt thân chúng cũng không thấy chút nội tạng nào, thậm chí đến cả Ma Thạch vốn chắc chắn phải có ở quái vật cũng không hề có. Điểm duy nhất khác với những cây nấm khác chính là phần rễ cây cử động thay cho chân này."
 
 Chỉ bấy nhiêu cũng đủ để Elena hiểu Rei muốn nói gì. Cô khẽ nhíu đôi mày thanh tú rồi mở lời.
 
@@ -172,13 +172,13 @@ Liếc nhìn mẩu rễ cây trên tay Rei, Vel nói vậy rồi lại hướng 
 
 "Nghĩ một cách thông thường thì con bọ ngựa kia là tác phẩm độc nhất vô nhị được dồn hết tinh hoa kỹ thuật vào. Còn nếu phần rễ cây này thực sự được tạo ra từ Giả Kim Thuật, thì có lẽ kỹ thuật dùng cho nó chẳng quan trọng đến thế, dù có bị phát hiện cũng chẳng sao."
 
-"Tức là dẫu rễ cây thực sự là quái vật do Giả Kim Thuật tạo ra, thì kỹ thuật áp dụng cũng chỉ là loại phổ biến, khó lòng nghĩ là do cùng một Giả Kim Thuật Sư với con bọ ngựa làm ra nhỉ?"
+"Tức là dù rễ cây thực sự là quái vật do Giả Kim Thuật tạo ra, thì kỹ thuật áp dụng cũng chỉ là loại phổ biến, khó lòng nghĩ là do cùng một Giả Kim Thuật Sư với con bọ ngựa làm ra nhỉ?"
 
-"Đúng vậy. Dựa theo tình thế thì khó lòng nhầm là cùng một kẻ làm ra, nhưng phỏng đoán thì vẫn chỉ là phỏng đoán. Nếu bị khăng khăng bảo là trùng hợp ngẫu nhiên thì chúng ta cũng chẳng có chứng cứ gì để lật lại. ...Nghĩ đến đây, ta lại càng tiếc vì đã không giữ lại được chút nguyên liệu nào từ con bọ ngựa đó."
+"Đúng vậy. Xét theo bằng chứng gián tiếp thì chắc chắn là do cùng một kẻ làm ra, nhưng bằng chứng gián tiếp suy cho cùng vẫn chỉ là bằng chứng gián tiếp. Nếu bị khăng khăng bảo là trùng hợp ngẫu nhiên thì chúng ta cũng chẳng có chứng cứ gì để lật lại. ...Nghĩ đến đây, ta lại càng tiếc vì đã không giữ lại được chút nguyên liệu nào từ con bọ ngựa đó."
 
 Thở dài một hơi, Elena khẽ lẩm bẩm.
 
-Trong thâm tâm cô, chuyện vụ việc lần này có bàn tay của Giả Kim Thuật Sư nhúng vào vì lý do nào đó hẳn đã là điều chắc chắn.
+Trong thâm tâm cô, việc lần này có bàn tay của Giả Kim Thuật Sư nhúng vào vì lý do nào đó hẳn đã là điều chắc chắn.
 
 "Dù sao đi nữa, chỉ cần chúng ta không lơ là thì Giả Kim Thuật Sư có giở trò gì cũng chẳng đáng lo. Sắp tới cầu thang xuống tầng ngầm thứ tư rồi, tất cả tập trung vào."
 

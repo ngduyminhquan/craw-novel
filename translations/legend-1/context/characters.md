@@ -55,7 +55,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 72: Thẻ Hội Hạng D; cùng nhóm hộ vệ của Elena đã tới ngôi làng quanh hầm ngục sau khi tiêu diệt con bọ ngựa khổng lồ dị thường trên đường đi.
+- Trạng thái tính đến chương 78: Thẻ Hội Hạng D; cùng nhóm Elena tiến tới cầu thang xuống tầng 4 hầm ngục sau khi diệt Lizardman và đàn nấm biến dị ở tầng 3, nghi ngờ có Giả Kim Thuật Sư đứng sau nhắm vào nhóm Elena.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.

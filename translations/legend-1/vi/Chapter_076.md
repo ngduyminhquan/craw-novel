@@ -22,7 +22,7 @@ Tên nào tên nấy lăm lăm vũ khí như cung, kiếm, giáo trong tay, chĩ
 
 Elena hô lớn, đồng thời vung mạnh cây liên tiếp kiếm biến thành dạng roi quất thẳng vào đám Lizardman.
 
-Lưỡi kiếm vươn dài uốn lượn như roi, đòn quét của liên tiếp kiếm khiến mấy con đi đầu bị thương không hề nhẹ, khiến đội hình Lizardman lập tức rơi vào hỗn loạn. Nhanh chóng chớp lấy thời cơ, Ara cầm trường kiếm lao lên, Kuust phải lên tiền vệ thay cho vị trí của Rei cũng vào thế ma thương xông tới. Yểm trợ cho hai người họ là Vel giương cung và Elena. Đúng lúc một con Lizardman cầm cung toan bắn tên, liên tiếp kiếm đã lao vụt tới như một con rắn lướt trong không trung, tấn công thẳng vào nó.
+Lưỡi kiếm vươn dài uốn lượn như roi, đòn quét của liên tiếp kiếm làm mấy con đi đầu bị thương không nhẹ, đẩy đội hình Lizardman vào cảnh hỗn loạn. Nhanh chóng chớp lấy thời cơ, Ara cầm trường kiếm lao lên, còn Kuust lên trám vị trí tiền vệ của Rei cũng giương ma thương xông tới. Yểm trợ cho hai người họ là Vel giương cung và Elena. Đúng lúc một con Lizardman cầm cung toan bắn tên, liên tiếp kiếm đã lao vụt tới như một con rắn lướt trong không trung, tấn công thẳng vào nó.
 
 Vừa liếc mắt quan sát cục diện bên cạnh, Rei vừa kéo mạnh cán Lưỡi Hái Tử Thần đang bị tơ quấn nhằm lôi con nhện bám trên trần xuống; nhưng dường như biết rõ rơi xuống đất thì kết cục sẽ ra sao, con nhện cắm chặt vuốt vào trần nhà, liều mạng chống cự.
 
@@ -62,7 +62,7 @@ Rei lẩm bẩm rồi bắt đầu tập trung ma lực. Hiểu rõ Rei định 
 
 [Hỡi ngọn lửa, hãy tuân theo ý ta mà thiêu rụi kẻ thù]
 
-Dùng lời niệm thấm đẫm ma lực bẻ cong quy luật của thế giới, một quả cầu lửa đường kính khoảng 50 centimet hình thành ở phần đầu cán Lưỡi Hái Tử Thần.
+Cậu cất lời niệm thấm đẫm ma lực nhằm bẻ cong quy luật của thế giới, tạo ra một quả cầu lửa đường kính khoảng 50 centimet ở phần đầu cán Lưỡi Hái Tử Thần.
 
 [Hỏa Cầu!]
 
@@ -92,7 +92,7 @@ Cùng với lời niệm chú vang lên, quanh người Rei dần hình thành n
 
 Và khi ma pháp được kích hoạt, chừng năm mươi mũi tên lửa đồng loạt phóng theo đường cầu vồng, đúng nghĩa đen là trút như mưa xuống phía sau đám Lizardman.
 
-Vô số mũi tên lửa bất ngờ xuất hiện. Trước cơn mưa tên lửa trút xuống, lũ Lizardman ở hàng sau có con vội né tránh, có con giơ khiên lên đỡ; nhưng những con chọn né tránh dẫu lách được một hay hai mũi tên thì trước hơn chục mũi tên dồn dập ập tới cũng không tài nào né hết nổi, vừa trúng tên là lập tức bị đâm xuyên người. Ngọn lửa dữ dội liền bùng lên bao trùm toàn thân chúng chỉ trong chớp mắt, biến chúng thành những ngọn đuốc sáng rực soi tỏ xung quanh, át cả ánh sáng mờ ảo phát ra từ vách tường hầm ngục. Còn những con Lizardman vội giơ khiên lên chắn thì số phận lại càng bi thảm hơn. Nếu thứ Rei phóng ra là tên thường thì hành động đó chắc chắn là chuẩn xác, ngặt nỗi thứ được bắn ra lần này không phải tên bình thường mà là mũi tên kết tinh từ ngọn lửa.
+Vô số mũi tên lửa bất ngờ xuất hiện. Trước cơn mưa tên lửa trút xuống, lũ Lizardman ở hàng sau có con vội né tránh, có con giơ khiên lên đỡ; nhưng những con chọn né tránh dù lách được một hay hai mũi tên thì trước hơn chục mũi tên dồn dập ập tới cũng không tài nào né hết nổi, khoảnh khắc không tránh kịp nữa là lập tức bị tên lửa găm trúng người. Ngọn lửa dữ dội liền bùng lên bao trùm toàn thân chúng chỉ trong chớp mắt, biến chúng thành những ngọn đuốc sáng rực soi tỏ xung quanh, át cả ánh sáng mờ ảo phát ra từ vách tường hầm ngục. Còn những con Lizardman vội giơ khiên lên chắn thì số phận lại càng bi thảm hơn. Nếu thứ Rei phóng ra là tên thường thì hành động đó chắc chắn là chuẩn xác, có điều thứ được bắn ra lần này không phải tên bình thường mà là mũi tên kết tinh từ ngọn lửa.
 
 "Khèèèè!"
 
@@ -108,13 +108,13 @@ Dường như là kẻ dẫn đầu trong bầy, một con Lizardman to lớn h�
 
 Đúng vậy. Một người từng được xưng tụng là Công Chúa Tướng Quân như Elena đâu thể nào bỏ lỡ sơ hở chí mạng khi kẻ thù đang rơi vào hỗn loạn.
 
-Hậu vệ đã bị ma pháp của Rei tiêu diệt gần một nửa, đồng thời số lượng Lizardman trong cuộc chiến giằng co với nhóm Elena từ nãy tới giờ cũng đã rớt xuống dưới mười con, chúng hoàn toàn không còn sức để cản phá đợt tấn công đó nữa, từng con một cứ thế gục ngã.
+Hậu vệ gần như đã bị ma pháp của Rei xóa sổ, đồng thời số lượng Lizardman trong cuộc chiến giằng co với nhóm Elena từ nãy tới giờ cũng đã rớt xuống dưới mười con, chúng hoàn toàn không còn sức để cản phá đợt tấn công đó nữa, từng con một cứ thế gục ngã.
 
-Và chỉ chưa đầy vài phút sau khi Rei tung ma pháp, số Lizardman còn sống sót chỉ còn sót lại đúng một con đầu đàn vừa rống lớn ban nãy.
+Và chỉ chưa đầy vài phút sau khi Rei tung ma pháp, số Lizardman sống sót chỉ còn lại đúng một con đầu đàn vừa rống lớn ban nãy.
 
 "Khè-khè-khè-khè!"
 
-Con Lizardman ấy sở hữu diện mạo hoàn toàn xứng tầm thủ lĩnh của bầy. Chiều cao của nó phải ngót nghét hai mét, to lớn hơn hẳn đồng loại. Những khối cơ bắp cuồn cuộn như chực nổ tung được bọc trong một bộ giáp da dường như làm từ da quái vật. Tay phải nó lăm lăm thanh đại kiếm khổng lồ dài hơn một mét rưỡi, còn tay kia là kẻ duy nhất trong cả bầy sở hữu một tấm khiên bằng kim loại.
+Con Lizardman ấy sở hữu diện mạo hoàn toàn xứng tầm thủ lĩnh của bầy. Chiều cao của nó phải ngót nghét hai mét, to lớn hơn hẳn đồng loại. Những khối cơ bắp cuồn cuộn như chực nổ tung được bọc trong một bộ giáp da dường như làm từ da quái vật. Tay phải nó lăm lăm thanh đại kiếm khổng lồ dài hơn một mét rưỡi, còn tay kia cầm tấm khiên bằng kim loại duy nhất trong cả bầy Lizardman.
 
 Nó nhẹ nhàng vung thanh đại kiếm bằng một tay, chĩa mũi kiếm thẳng về phía Elena.
 
@@ -188,7 +188,7 @@ Và rồi sau vài giây, không ai bảo ai, cả hai bên cùng đồng thời
 
 Cả hai đồng thời đạp đất, nhanh chóng rút ngắn khoảng cách. Và người tung đòn phủ đầu là Elena, sở hữu cây liên tiếp kiếm có tầm đánh xa hơn thanh đại kiếm.
 
-Vung mạnh thanh liên tiếp kiếm, lưỡi kiếm uốn lượn như roi vẽ nên một quỹ đạo khó lường, mũi kiếm lao vút tới toan chém toạc đầu Lizardman General.
+Cô vung mạnh thanh liên tiếp kiếm, lưỡi kiếm liền uốn lượn như roi vẽ nên một quỹ đạo khó lường, mũi kiếm lao vút tới toan chém toạc đầu Lizardman General.
 
 "Khè!"
 
@@ -208,7 +208,7 @@ Nếu vũ khí của Elena chỉ là một ngọn roi bình thường thì đế
 
 Keeng!
 
-Cú bổ dốc toàn lực của thanh đại kiếm đã bị chặn đứng bởi cây liên tiếp kiếm đã được thu gọn về dạng kiếm dài.
+Cú bổ hết sức của thanh đại kiếm bị cây liên tiếp kiếm vừa thu gọn về dạng kiếm dài chặn đứng.
 
 "Khè!?"
 
@@ -220,4 +220,4 @@ Cây liên tiếp kiếm đang giằng co với đại kiếm nghiêng đi, trư
 
 "...!?"
 
-Để rồi Lizardman General thậm chí còn chưa kịp hiểu chuyện gì vừa xảy ra thì cơ thể đã đứt lìa làm hai nửa trên dưới, chấm dứt sinh mạng của mình.
+Để rồi Lizardman General thậm chí còn chưa kịp hiểu chuyện gì vừa xảy ra thì cơ thể đã đứt lìa làm hai nửa trên dưới rồi tắt thở.
