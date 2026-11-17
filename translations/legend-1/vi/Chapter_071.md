@@ -28,7 +28,7 @@ Trong lúc dõi theo cơn lốc xoáy dần tan biến, Elena khẽ mở lời �
 
 "Ít nhất thì trong số những kẻ tôi từng chạm trán, nó cũng phải ngang ngửa cấp Orc King... tôi nghĩ vậy."
 
-"Ngang tầm Orc King thuộc quái vật Hạng B sao. Quả thật theo đánh giá của ta thì nó cũng phải từ Hạng B trở lên và dưới Hạng A."
+"Ngang tầm quái vật Hạng B như Orc King sao. Quả thật theo đánh giá của ta thì nó cũng phải từ Hạng B trở lên và dưới Hạng A."
 
 Hai người vừa trò chuyện vừa đề phòng bất trắc, rồi cơn lốc sấm sét cũng hoàn toàn biến mất.
 
@@ -106,7 +106,7 @@ Rei gật đầu, cùng Set đứng cách cỗ xe một đoạn rồi tập trun
 
 Bên cạnh Rei, Set cũng chăm chú cảnh giới xung quanh hệt như vậy.
 
-Vừa lắng tai nghe ngóng, sẵn sàng vung Lưỡi Hái Tử Thần đón địch bất cứ lúc nào, Rei vừa trầm ngâm suy nghĩ.
+Vừa lắng tai nghe ngóng, sẵn sàng vung Lưỡi Hái Tử Thần đón địch bất cứ lúc nào, Rei vừa ngẫm nghĩ trong lòng.
 
 (Con bọ ngựa ban nãy, ít nhất cũng không xếp vào dạng quái vật thông thường được.)
 
@@ -184,7 +184,7 @@ Elena dõi theo bóng lưng cô với nụ cười dịu dàng trên môi.
 
 Nghe Elena nói vậy, Rei nhớ lại lần đầu gặp mặt ở thành phố Gilm.
 
-Độ sắc bén hay tốc độ trong từng đòn đánh của Ara không có gì quá nổi bật. Thế nhưng sức mạnh cơ bắp ấy, hay đúng hơn là lực đánh cương mãnh ấy, quả thực chẳng ngoa khi gọi là một kích tất sát.
+Độ sắc bén hay tốc độ trong từng đòn đánh của Ara không có gì quá nổi bật. Thế nhưng sức mạnh cơ bắp, hay đúng hơn là lực đánh mạnh bạo ấy, gọi là một đòn chí mạng cũng chẳng ngoa.
 
 "Đúng là sức mạnh đó mang lại lợi thế rất lớn khi đánh cận chiến."
 
@@ -240,7 +240,7 @@ Bản thân Elena có lẽ cũng chỉ hỏi thử xem sao mà thôi.
 
 "Khả năng thế nào?"
 
-"Là trường hợp con bọ ngựa đó là một dạng sinh vật nhân tạo được tạo ra bằng Giả Kim Thuật. Nếu vậy thì trong quá trình chế tạo con bọ ngựa, hoàn toàn có khả năng người ta đã cài cắm một cơ chế tiêu hủy chứng cứ, phòng khi nó sắp chết sẽ tự hủy xác để bí quyết kỹ thuật của Giả Kim Thuật Sư không bị lọt ra ngoài."
+"Đó là trường hợp con bọ ngựa kia vốn là một dạng sinh vật nhân tạo làm ra bằng Giả Kim Thuật. Nếu vậy thì trong quá trình chế tạo con bọ ngựa, hoàn toàn có khả năng người ta đã cài cắm một cơ chế tiêu hủy chứng cứ, phòng khi nó sắp chết sẽ tự hủy xác để bí quyết kỹ thuật của Giả Kim Thuật Sư không bị lọt ra ngoài."
 
 "...Ta không rành về Giả Kim Thuật, nhưng chuyện đó thực sự làm được sao?"
 

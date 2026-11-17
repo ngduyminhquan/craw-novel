@@ -10,7 +10,7 @@ Elena đang đọc cuốn sách về quân sự liền ngước mắt lên đáp
 
 Cỗ xe lúc này đã rời khỏi con đường chính, tiến vào nơi chẳng còn lối mòn rõ rệt.
 
-À không, nói chính xác thì mặt đất bị những người tới hầm ngục giẫm lên nhiều đến mức cũng coi như thành một lối đi bán phần.
+À không, nói chính xác thì mặt đất bị những người tới hầm ngục giẫm lên nhiều đến mức gần như thành một lối đi rồi.
 
 Cả nhóm cứ thế tiến về phía trước, và đúng như lời nói có vẻ buồn chán của Ara, chuyến đi diễn ra hết sức suôn sẻ.
 
@@ -76,7 +76,7 @@ Khẽ gật đầu trước lời của Ara, Elena dứt khoát đưa ra quyết
 
 "Lắm lời."
 
-"Vâng vâng. Thiệt tình, nữ hoàng nhà mình dũng cảm quả cảm hay nói đúng hơn là thích lao đầu vào nguy hiểm... À không, tôi có nói gì đâu ạ, vâng vâng."
+"Vâng vâng. Thiệt tình, nữ hoàng nhà mình dũng mãnh quả cảm hay nói đúng hơn là thích lao đầu vào nguy hiểm... À không, tôi có nói gì đâu ạ, vâng vâng."
 
 Thấy Ara lặng lẽ chĩa mũi kiếm sát bên mặt mình, Vel toát mồ hôi hột ngoan ngoãn hãm xe dừng lại.
 
@@ -152,7 +152,7 @@ Tiếng hét của Rei vang lên. Đúng vậy, thứ cậu vừa thấy là m�
 
 (Ngụy trang quang học à? Nhưng sao lại không hề có lấy một tiếng động? Chưa kể khứu giác của Set lẽ ra phải đánh hơi được chứ.)
 
-Dù trong lòng dấy lên nghi hoặc, nhưng khi nhớ lại kiến thức hồi còn sống ở vùng thôn quê, thắc mắc của cậu lập tức được giải tỏa.
+Rei thoáng thắc mắc trong bụng, nhưng vừa nhớ lại những gì mình biết hồi còn sống ở quê là cậu hiểu ra ngay.
 
 Bọ ngựa về cơ bản là loài săn mồi bằng cách phục kích. Nói cách khác, việc không nghe thấy tiếng động đơn giản là vì con bọ ngựa đã tàng hình nằm mai phục ở đây từ trước. Rồi vô tình Rei bước vào tầm tấn công của nó, và cậu đã kịp đỡ được.
 
@@ -202,7 +202,7 @@ Và cậu cũng thấy nó một đòn hất văng Ara ra xa, rồi vung lưỡi
 
 "Phi Trảm!"
 
-Nhận định rằng động tác của con bọ ngựa rất giống với Phi Trảm, một trong những kỹ năng của Lưỡi Hái Tử Thần, gần như hoàn toàn dựa vào bản năng. Nhưng chính phán đoán ấy đã cứu mạng Rei. Chiêu Phi Trảm phóng ra từ Lưỡi Hái Tử Thần cùng đòn đánh tương tự của con bọ ngựa va chạm ngay giữa không trung ngăn cách hai bên rồi triệt tiêu lẫn nhau.
+Gần như chỉ nhờ bản năng mà Rei nhận ra động tác của con bọ ngựa rất giống với Phi Trảm, một trong những kỹ năng của Lưỡi Hái Tử Thần. Nhưng chính phán đoán ấy đã cứu mạng cậu. Chiêu Phi Trảm phóng ra từ Lưỡi Hái Tử Thần cùng đòn đánh tương tự của con bọ ngựa va chạm ngay khoảng không chính giữa hai bên rồi triệt tiêu lẫn nhau.
 
 Thế nhưng đừng quên rằng, trong khi Rei chỉ có một cây Lưỡi Hái Tử Thần, thì con bọ ngựa lại sở hữu tới bốn chiếc lưỡi hái.
 
@@ -252,7 +252,7 @@ Bốn luồng trảm kích cùng loại với đòn vừa triệt tiêu Phi Tr�
 
 (Biết trước nó sẽ đánh tới chứ không như ban nãy thì có cả đống cách để đối phó!)
 
-Đòn trảm kích đầu tiên bị cậu nghiêng người né tránh; đòn thứ hai bị đường chém truyền ma lực từ Lưỡi Hái Tử Thần chém rách tả tơi; đòn thứ ba đồng thời bị cán hái đập nát. Còn đòn chém cuối cùng, cậu dùng Khiên Ma Thuật mà ban nãy chưa dùng đến trên không để chặn đứng và triệt tiêu. Liếc nhìn tàn dư của Khiên Ma Thuật đang tan biến như làn sương mờ, Rei tiếp tục lao tới. Lúc này, trước mắt cậu đã là hình bóng con bọ ngựa đang giương vuốt đợi sẵn.
+Đòn trảm kích đầu tiên cậu nghiêng người né tránh, đòn thứ hai dùng lưỡi của Lưỡi Hái Tử Thần đã truyền ma lực chém tan, đòn thứ ba đồng thời lấy cán hái đập nát. Còn đòn chém cuối cùng, cậu dùng Khiên Ma Thuật mà ban nãy chưa dùng đến trên không để chặn đứng và triệt tiêu. Liếc nhìn tàn dư của Khiên Ma Thuật đang tan biến như làn sương mờ, Rei tiếp tục lao tới. Lúc này, ngay trước mắt cậu đã là con bọ ngựa đang chực chờ sẵn.
 
 "Haaaaa!"
 
@@ -268,7 +268,7 @@ Vừa nghiêng người né những đòn ấy, Rei lại vung thêm một nhát
 
 (Cảm giác sai sai này là sao?)
 
-Đúng là trong số quái vật dạng côn trùng có những loại không biết đau. Thế nhưng, thường thì khi chịu va đập hay tổn thương chí mạng, chúng vẫn phải có phản ứng nào đó. Vậy mà con bọ ngựa khổng lồ trước mặt Rei, dù bị chém cụt hai chiếc lưỡi hái vốn là cánh tay kiêm vũ khí của nó, lại chẳng hề phát ra một tiếng đe dọa nào, cứ vô cảm tung tiếp đòn tấn công tiếp theo.
+Đúng là trong số quái vật dạng côn trùng có những loại không biết đau. Thế nhưng, thường thì khi chịu va đập hay tổn thương chí mạng, chúng vẫn phải có phản ứng nào đó. Vậy mà con bọ ngựa khổng lồ trước mặt Rei, dù bị chém cụt hai chiếc lưỡi hái vốn là cánh tay kiêm vũ khí của nó, lại chẳng hề phát ra một tiếng đe dọa nào, cứ vô cảm tung ra đòn tấn công tiếp theo.
 
 Thoáng phân tâm trước cảm giác kỳ dị khó hiểu ấy... và chỉ một khoảnh khắc đó thôi đã tạo ra sơ hở chết người.
 

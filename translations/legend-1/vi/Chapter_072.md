@@ -20,9 +20,9 @@ Lúc này, Set đã đeo chiếc Vòng Cổ Tùng Ma từng dùng ở thành ph�
 
 Dân làng nhìn thấy Griffin ban đầu cũng hoảng hốt, nhưng thấy chiếc Vòng Cổ Tùng Ma thì liền thở phào nhẹ nhõm.
 
-Khác với thành phố Gilm, hầu hết những người ở ngôi làng này đều là mạo hiểm giả, hoặc là những kẻ cất công tới tận đây buôn bán phục vụ mạo hiểm giả. Nhờ thế họ gan dạ hơn người bình thường nhiều, khi biết con ma thú không gây hại cho mình thì trái lại còn kỳ vọng nó sẽ là lực lượng phòng thủ cho ngôi làng nên đều chấp nhận cho qua. Vả lại, trong số mạo hiểm giả thám hiểm hầm ngục cũng có không ít người mang theo triệu hồi thú hay quái vật thuần hóa, điều đó có lẽ cũng ảnh hưởng phần nào.
+Khác với thành phố Gilm, hầu hết những người ở ngôi làng này đều là mạo hiểm giả, hoặc là những người cất công tới tận đây buôn bán phục vụ mạo hiểm giả. Nhờ thế họ gan dạ hơn người bình thường nhiều, khi biết chú Griffin không gây hại cho mình thì trái lại còn kỳ vọng nó sẽ là lực lượng phòng thủ cho ngôi làng nên đều chấp nhận cho qua. Vả lại, trong số mạo hiểm giả thám hiểm hầm ngục cũng có không ít người mang theo triệu hồi thú hay quái vật thuần hóa, điều đó có lẽ cũng ảnh hưởng phần nào.
 
-Dĩ nhiên không phải ai cũng nghĩ vậy, vẫn có vài kẻ nhìn chú Griffin với ánh mắt khó chịu, nhưng sự thật nó là một nguồn chiến lực hữu dụng nên họ cũng đành ngậm bồ hòn làm ngọt.
+Dĩ nhiên không phải ai cũng nghĩ vậy, vẫn có vài kẻ nhìn chú Griffin với ánh mắt khó chịu, nhưng sự thật nó là một nguồn chiến lực hữu dụng nên họ cũng đành nhắm mắt làm ngơ.
 
 "Tôi từng đọc sách trong thư viện thấy bảo lập một thị trấn ở biên cảnh khó khăn vô cùng, để xây được thành phố Gilm cũng phải huy động lượng lớn binh lính quân đội hoàng gia mới xong... Đúng là hầm ngục có khác nhỉ."
 
@@ -36,11 +36,11 @@ Lõi hầm ngục nằm ở tầng sâu nhất sẽ cưỡng ép dịch chuyển
 
 Thêm vào đó, nhiệm vụ phòng thủ làng dù không có quái vật tấn công thì vẫn nhận được một khoản thù lao nhỏ, nên được giới mạo hiểm giả rất ưa chuộng như một công việc kiếm thêm tiền tiêu vặt.
 
-Có điều, thứ hút quái vật quanh vùng đi chỉ là lõi hầm ngục, nên nếu phá hủy lõi đó thì quái vật xung quanh sẽ không còn bị dịch chuyển vào trong hầm ngục nữa, nơi đây sẽ trở lại thành vùng đất nguy hiểm cùng cực hệt như bao mảnh đất biên cảnh khác. Hơn nữa thi thoảng vẫn có quái vật từ chính hầm ngục chui ra ngoài, nên nơi này không thể là một ngôi làng hay thị trấn mà người sống bên trong có thể an tâm kê cao gối ngủ như thành phố Gilm.
+Có điều, thứ hút quái vật quanh vùng đi chỉ là lõi hầm ngục, nên nếu phá hủy lõi đó thì quái vật xung quanh sẽ không còn bị dịch chuyển vào trong hầm ngục nữa, nơi đây sẽ trở lại thành vùng đất nguy hiểm cùng cực hệt như bao mảnh đất biên cảnh khác. Hơn nữa dù cực kỳ hiếm hoi nhưng vẫn có khi quái vật từ chính hầm ngục chui ra ngoài, nên nơi này không thể là một ngôi làng hay thị trấn mà người bên trong có thể yên tâm sinh sống như thành phố Gilm.
 
 Những ngôi làng hay thị trấn hình thành gần hầm ngục vốn dĩ chỉ dành cho mạo hiểm giả vào chinh phục hầm ngục và thương nhân tới buôn bán, về cơ bản chỉ mang tính tạm thời.
 
-Sở dĩ nói "về cơ bản" là vì có những nơi được quốc gia hay lãnh chúa địa phương quy hoạch bài bản, bố trí sẵn kỵ sĩ đoàn hoặc quân đội hoàng gia phòng khi hữu sự để phát triển thành một thành phố hầm ngục thực thụ. Hiện tại nhóm Rei đang ở vùng biên cảnh nên quái vật rất nhiều, nhưng ở những khu vực gần trung tâm đất nước thì quái vật mò ra đường lớn không đông đúc như ở biên ải. Vài thành phố hầm ngục tại Vương quốc Mireana cũng được xây dựng tại những địa điểm như thế.
+Sở dĩ nói "về cơ bản" là vì có những nơi được quốc gia hay lãnh chúa địa phương quy hoạch bài bản, bố trí sẵn kỵ sĩ đoàn hoặc quân đội hoàng gia đề phòng bất trắc để phát triển thành một thành phố hầm ngục thực thụ. Hiện tại nhóm Rei đang ở vùng biên cảnh nên quái vật rất nhiều, nhưng ở những khu vực gần trung tâm đất nước thì quái vật mò ra đường lớn không đông đúc như ở biên cảnh. Vài thành phố hầm ngục tại Vương quốc Mireana cũng được xây dựng tại những địa điểm như thế.
 
 "Nào. Vào được bên trong an toàn rồi, giờ tính sao đây?"
 
@@ -64,7 +64,7 @@ Thế nhưng trước lời của Ara, chính Elena lại lắc đầu.
 
 "Ara, đừng đòi hỏi quá. Ta vốn là kẻ lăn lộn nơi chiến trường. Trừ phi quá tồi tàn, còn lại thì chẳng vấn đề gì đâu."
 
-"Nơi chiến trường thì đành chịu, nhưng là người mang dòng máu Công tước Kerebel, tôi nghĩ người nên nghỉ lại ở nơi xứng với địa vị của mình ạ."
+"Nơi chiến trường thì đành chịu, nhưng là người mang dòng máu Công tước Kerebel, tôi nghĩ tiểu thư nên nghỉ lại ở nơi xứng với địa vị của mình ạ."
 
 Kuust cũng lên tiếng nhắc nhở Elena như vậy.
 
@@ -222,7 +222,7 @@ Trước tiếng lẩm bẩm thán phục của Rei, Linde gật đầu với v�
 
 "Dù sao trong số mạo hiểm giả cũng có những người thuần hóa quái vật như anh Rei hoặc mang theo triệu hồi thú mà. Chưa kể lúc các thương hội lớn tới nhập hàng thì còn có cơ man nào là xe ngựa với ngựa của hộ vệ nữa."
 
-Vừa giải thích, cậu vừa mở cửa chuồng ngựa rồi cùng Set bước vào bên trong.
+Vừa giải thích, Linde vừa mở cửa chuồng ngựa rồi cùng Set bước vào bên trong.
 
 Bên trong có mấy con ngựa, phần lớn vừa thấy Set là lập tức đông cứng không dám nhúc nhích. Nhưng trong đó cũng có con chỉ liếc nhìn Set một cái rồi lại thản nhiên cắm cúi ăn tiếp. Có lẽ đó là Warhorse.
 
