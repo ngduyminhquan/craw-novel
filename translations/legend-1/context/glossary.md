@@ -178,3 +178,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 公爵 |  | Công tước | danh hiệu | 58 | Tước vị quý tộc cao cấp; viết hoa khi đi liền với tên riêng hoặc chỉ tước vị cụ thể: Công tước Kerebel |
 | フォレスト・クローラー | Forest Crawler | Forest Crawler | quái vật | 60 | Quái vật Hạng D hình sâu bướm khổng lồ sống trong rừng |
 | 大地の絆 | Earth's Bond | Mối Liên Kết Của Đất | tổ chức | 60 | Tổ đội mạo hiểm giả Hạng E do Beamter làm trưởng nhóm gồm các thiếu niên cùng cô nhi viện |
+| 魔槍 |  | ma thương | vật phẩm | 61 | giáo/thương ma thuật; viết thường tương tự ma kiếm |
