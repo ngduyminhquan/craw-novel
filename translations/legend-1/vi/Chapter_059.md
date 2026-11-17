@@ -4,7 +4,7 @@ Tại phòng họp, sau khi nghe Gran phổ biến nội dung ủy thác chỉ �
 
 "A, cậu Rei. Thấy mỗi mình cậu xuống muộn, có chuyện gì thế?"
 
-Thấy bóng dáng Rei, Kenny liền cất tiếng bắt chuyện, nhưng ở chốn đông người qua lại thế này đương nhiên chẳng thể bêu riếu chuyện tiểu thư Công tước ra được, nên cậu đành nói qua loa cho xong chuyện.
+Thấy bóng dáng Rei, Kenny liền cất tiếng bắt chuyện, nhưng ở chốn đông người qua lại thế này đương nhiên chẳng thể đem chuyện tiểu thư Công tước ra nói được, nên cậu đành lấp liếm cho qua chuyện.
 
 "Chỉ là chút chuyện về bài thi thăng hạng lần này thôi. Dù sao đây cũng là lần đầu tôi làm trưởng nhóm mà."
 
@@ -30,7 +30,7 @@ Trước mặt một Lenora đang sấn sổ bước tới, Kenny buông lời b
 
 Thấy thế thì Lenora đương nhiên chẳng thể chịu nhịn, và rồi màn cãi cọ như đùa giỡn quen thuộc giữa hai người lại bắt đầu.
 
-Điểm may mắn là lúc này đã sang buổi chiều, bên trong Hội hầu như chẳng có mấy mạo hiểm giả. Dẫu có thì phần lớn cũng chỉ là những người ăn trưa muộn hoặc hơi đói bụng đang ngồi ở khu quán rượu mà thôi.
+May mà lúc này đã sang buổi chiều, bên trong Hội hầu như chẳng có mấy mạo hiểm giả. Có chăng thì phần lớn cũng chỉ là mấy người ăn trưa muộn hoặc hơi đói bụng đang ngồi ở khu quán rượu mà thôi.
 
 ...Dù sao thì vào những khung giờ đông nghẹt mạo hiểm giả như sáng sớm hay chiều muộn, hẳn hai cô nàng cũng chẳng dại gì cãi nhau ỏm tỏi như thế.
 
@@ -114,7 +114,7 @@ Vừa thấy vậy, Lana như chỉ chờ có thế liền đặt một ly rư�
 
 "Cậu Rei, chúc mừng cậu đã đỗ bài thi thăng hạng nhé."
 
-"Vâng, cháu cũng qua được rồi ạ."
+"Vâng, tôi cũng qua được rồi."
 
 "Rồi, ly mừng của Rei cũng có rồi... Này, Rei. Cậu là trưởng nhóm nên giờ cũng phải chủ trì đi chứ."
 
@@ -144,7 +144,7 @@ Culotte ngập ngừng một thoáng, khẽ liếc mắt nhìn về phía Arogan
 
 Và rồi một câu tuyên bố gây chấn động vang lên.
 
-"Này, việc gì phải bêu riếu cho bọn họ biết chứ."
+"Này, có cần phải nói cho bọn họ biết đâu chứ."
 
 "Gì chứ. Dù sao cũng là bạn bè cùng nhau thăng hạng, nói ra có chết ai đâu. Nói nôm na thì là cùng lứa đấy, cùng lứa."
 
@@ -164,7 +164,7 @@ Người giải đáp thắc mắc ấy không phải Arogan hay Culotte, mà l�
 
 Nghe cuộc đối thoại giữa Rei và Scola, Superbia liền chen vào bắt bẻ, nhưng Scola chỉ khẽ gật đầu như thể chẳng có vấn đề gì to tát.
 
-"Này nhé, tớ với Culotte là ma pháp sư với đạo tặc đúng không? Hai đứa lập đội với nhau nên trước giờ bọn tớ vẫn bảo là đang thiếu tiền tuyến trầm trọng. Nếu bắt buộc chia hai đứa ra làm tiền tuyến và hậu phương thì Culotte đành phải đứng hàng trước... nhưng nói gì thì nói, cô ấy rốt cuộc vẫn là đạo tặc mà. Thiếu cả sức dứt điểm lẫn khả năng phòng ngự. Nghĩ thế nên một chiến sĩ mạnh mẽ như Arogan gia nhập tổ đội thì tớ cũng mừng lắm chứ."
+"Thì tôi với Culotte là ma pháp sư với đạo tặc đúng không? Hai đứa lập đội với nhau nên trước giờ bọn tôi vẫn bảo là đang thiếu tiền tuyến trầm trọng. Nếu bắt buộc chia hai đứa ra làm tiền tuyến và hậu phương thì Culotte đành phải đứng hàng trước... nhưng nói gì thì nói, cậu ấy rốt cuộc vẫn là đạo tặc mà. Thiếu cả sức dứt điểm lẫn khả năng phòng ngự. Nghĩ thế nên có một chiến sĩ mạnh mẽ như Arogan gia nhập tổ đội thì tôi cũng mừng lắm chứ."
 
 "Nhưng sự ăn ý trong tổ đội cũng quan trọng chứ?"
 
@@ -176,7 +176,7 @@ Trước câu hỏi của Filma, Scola cười trừ rồi đưa mắt nhìn v�
 
 Rei lẩm bẩm một câu, chẳng biết do trúng điểm buồn cười hay do tác dụng của men rượu mà cả ba người Scola, Superbia và Filma đều suýt phì cười.
 
-"Cơ mà bọn tớ ba người thành một đội rồi, còn ba người bên kia tính sao? Kiếm sĩ Superbia, Ma Pháp Chiến Sĩ Rei cân được cả tiền tuyến lẫn hậu phương, với lại hậu phương Filma dùng được cả Tinh Linh Ma Pháp lẫn cung tên, xét về độ cân bằng thì hoàn hảo còn gì."
+"Cơ mà ba người bọn tôi thành một đội rồi, còn ba người bên đó tính sao? Chiến sĩ Superbia, Ma Pháp Chiến Sĩ Rei cân được cả tiền tuyến lẫn hậu phương, thêm hậu phương Filma dùng được cả Tinh Linh Ma Pháp lẫn cung tên, xét về độ cân bằng thì hoàn hảo còn gì."
 
 "Ừm. Nghe cũng thú vị đấy, nhưng nếu lập tổ đội với đội hình đó thì chừng nào tôi chưa thắng được Rei... à không, chí ít cũng phải đánh ngang ngửa với cậu ta thì mới dám tính chuyện đó."
 
@@ -192,7 +192,7 @@ Trước lời của Filma, Rei khẽ lắc đầu.
 
 "Ơ kìa, sao lại thế?"
 
-Cảm nhận được ánh mắt của mọi người có mặt, kể cả Arogan và Culotte vừa mới đùa giỡn mấy giây trước, đều đang đổ dồn về phía mình, Rei nhận định nhóm này hẳn sẽ không bêu riếu chuyện đi quá xa nên liền mở lời.
+Cảm nhận được ánh mắt của mọi người có mặt, kể cả Arogan và Culotte vừa mới đùa giỡn mấy giây trước, đều đang đổ dồn về phía mình, Rei nghĩ bụng đám người này chắc sẽ không đem chuyện đi rêu rao khắp nơi nên mới mở lời.
 
 "Tôi vừa nhận một ủy thác nghe chừng khá hóc búa. Chưa biết sẽ mất bao lâu nên chuyện lập tổ đội các thứ chắc phải đợi xong việc này mới tính được."
 
@@ -238,7 +238,7 @@ Nghe Sulunin hỏi, Rei đưa mắt nhìn quanh mọi người, thấy ai nấy 
 
 "Mà công nhận cậu lên Hạng D nhanh thật đấy. Cứ đà này khéo chẳng mấy chốc cậu đuổi kịp bọn tôi mất."
 
-"Bác ơi, cho cháu với anh bên này hai vại bia ale nhé. Với lại kiếm món gì nhắm nhậu vừa vừa giúp cháu luôn."
+"Bác ơi, cho cháu với chú bên này hai vại bia ale nhé. Với lại kiếm món gì nhắm nhậu vừa vừa giúp cháu luôn."
 
 Ekril vừa ngồi xuống ghế vừa cất tiếng gọi món với Lana.
 

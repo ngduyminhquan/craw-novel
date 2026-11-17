@@ -18,7 +18,7 @@ Những cái bẫy đó có thể do các quái vật thông minh cư ngụ tron
 
 Vừa nghĩ vậy, cậu vừa thoáng lộ vẻ ngán ngẩm buông xuôi.
 
-Dẫu sao Gran cũng đã bảo ủy thác chỉ định này chỉ có một mình Rei đi cùng tiểu thư Công tước. Thành thử khả năng thuê thêm một đạo tặc ở Gilm gần như bằng không. Như vậy, niềm hy vọng duy nhất còn lại là đám tùy tùng của tiểu thư Công tước có ai đó sở hữu kỹ năng đạo tặc.
+Dù sao Gran cũng đã bảo ủy thác chỉ định này chỉ có một mình Rei đi cùng tiểu thư Công tước. Thành ra khả năng thuê thêm một đạo tặc ở Gilm gần như bằng không. Như vậy, niềm hy vọng duy nhất còn lại là đám tùy tùng của tiểu thư Công tước có ai đó sở hữu kỹ năng đạo tặc.
 
 "Hay là mình tự học cách gỡ mấy cái bẫy đơn giản nhỉ?"
 
@@ -70,7 +70,7 @@ Bản thân Milein cũng tò mò về thực lực chiến đấu của Rei khi 
 
 Đúng là phải chêm thêm câu đó mới đúng bản tính của Milein.
 
-Sau đó, cả bọn dắt Set ra khỏi chuồng ngựa rồi hướng về phía Hội quán như thường lệ.
+Sau đó, cả bọn dắt Set ra khỏi chuồng ngựa rồi hướng về phía Hội như thường lệ.
 
 Điểm khác biệt duy nhất so với mọi khi là lần này không phải chỉ có Rei và Set, mà có thêm cả Milein đi cùng.
 
@@ -90,7 +90,7 @@ Nghe Milein nói vậy, Rei đoán ngay kỹ năng Móng Vuốt Độc mà Set h
 
 Người dân trong thành phố Gilm cùng những mạo hiểm giả quen mặt Set lại xúm quanh Milein và chú Griffin, tạo nên một khung cảnh quen thuộc như bao ngày.
 
-Khi tới Hội quán, chẳng cần Rei phải nhắc, Set đã tự giác đi sang khu chờ dành cho xe ngựa và tùng ma rồi nằm ườn ra.
+Khi tới Hội, chẳng cần Rei phải nhắc, Set đã tự giác đi sang khu chờ dành cho xe ngựa và tùng ma rồi nằm ườn ra.
 
 Góc nắng ấm áp đó giờ coi như đã trở thành chỗ nằm riêng của Set.
 
@@ -98,7 +98,7 @@ Góc nắng ấm áp đó giờ coi như đã trở thành chỗ nằm riêng c�
 
 "Gùuu."
 
-Set cũng khẽ kêu một tiếng từ sâu trong họng để tiễn hai người, còn Rei và Milein không vào trong Hội quán mà đi thẳng sang sân tập.
+Set cũng khẽ kêu một tiếng từ sâu trong họng để tiễn hai người, còn Rei và Milein không vào trong Hội mà đi thẳng sang sân tập.
 
 "Hôm nay vắng người ghê nhỉ."
 
@@ -112,7 +112,7 @@ Năm người kia tụ lại một chỗ tập luyện cùng nhau, nhìn qua là
 
 Nếu là sáng sớm thì may ra còn có người tới vận động nhẹ trước khi đi làm ủy thác, chứ giờ đã là ban ngày. Những ai xuất hiện ở sân tập vào giờ này chỉ có thể là người đang nghỉ ngơi như Rei và Milein, hoặc lấy hôm nay làm ngày luyện tập.
 
-"Cũng đúng. Nào, vậy hai đứa mình khởi động cho nóng người một chút rồi bắt đầu nhé. Được chứ?"
+"Cũng đúng. Nào, vậy cả hai khởi động cho nóng người một chút rồi bắt đầu nhé. Được chứ?"
 
 "Được, không vấn đề gì."
 
@@ -122,7 +122,7 @@ Thấy cảnh đó, nhóm năm người đằng kia liền ồ lên ngạc nhiê
 
 Cậu chậm rãi bổ Lưỡi Hái Tử Thần xuống, chém ngược lên rồi tiện đà quét ngang một đường. Không chỉ dùng lưỡi liềm, cậu còn xoay trở cán vũ khí như một cây côn rồi đâm thẳng vào không trung.
 
-Những động tác uyển chuyển tựa như một bài múa võ khiến không chỉ năm người kia mà ngay cả Milein cũng bất giác nhìn đến mê mẩn.
+Những động tác uyển chuyển giống như một bài múa võ khiến không chỉ năm người kia mà ngay cả Milein cũng bất giác nhìn đến mê mẩn.
 
 "Ấy chết, mình làm cái trò gì thế này."
 
@@ -170,7 +170,7 @@ Có lẽ vì là một gương mặt trẻ đầy triển vọng ở thành ph�
 
 "Cảm ơn hai người. Tôi hứa sẽ không để tụi nó làm phiền đâu."
 
-Beamter cúi đầu cảm ơn rồi chạy vội về phía đồng đội. Nhìn theo bóng lưng anh ta, Milein cười trừ nhìn sang Rei.
+Beamter cúi đầu cảm ơn rồi chạy vội về phía đồng đội. Nhìn theo bóng lưng chàng trai, Milein cười trừ nhìn sang Rei.
 
 "Hơi bất ngờ đấy nhé. Một người lắm bí mật như Rei mà tôi cứ ngỡ cậu sẽ từ chối không cho ai xem đấu tập cơ."
 
@@ -186,7 +186,7 @@ Giữa lúc cậu đang miên man nhớ lại thì Beamter đã dắt theo bốn
 
 "Để hai người phải đợi rồi. Nào, mấy đứa."
 
-"[Chúng em xin nhờ anh chị giúp đỡ ạ!]"
+"Mong anh chị chỉ giáo ạ!"
 
 Cả bốn đứa đồng loạt cúi đầu theo lời nhắc của Beamter.
 
@@ -250,7 +250,7 @@ Vừa buông lời châm chọc nhau, cả hai vừa dùng ánh mắt và chuy�
 
 Hạ quyết tâm trong bụng, Rei vừa tiếp tục nói chuyện vừa dần dần để lộ ra sơ hở và cố tình nới rộng nó.
 
-Quan sát động thái đó, mỗi lần thấy sơ hở xuất hiện là Milein lại thoáng giật mình phản xạ, nhưng vì thừa hiểu đó là cái bẫy dụ kèo nên cô không dám khinh suất ra tay.
+Nhìn thấy vậy, mỗi lần sơ hở xuất hiện là Milein lại thoáng giật mình phản xạ, nhưng vì thừa hiểu đó là mồi nhử nên cô không dám khinh suất ra tay.
 
 Việc Rei cố tình để hở sườn dụ tấn công lại vô tình khiến Milein bắt đầu cảm thấy áp lực đè nặng, sợ rằng dù mình có đánh vào đâu cũng sẽ bị cậu chặn đứng.
 
@@ -266,4 +266,4 @@ Ngay khoảnh khắc tiếp theo, khi Milein đã trắng tay, lưỡi bén củ
 
 "Dừng lại! Người thắng, Rei!"
 
-Tiếng tuyên bố phân định thắng bại của Beamter vang vọng khắp sân tập, còn nhóm mạo hiểm giả đi cùng anh ta thì đồng loạt ồ lên kinh ngạc trước cảnh một mạo hiểm giả Hạng D đả bại mạo hiểm giả Hạng C.
+Tiếng tuyên bố phân định thắng bại của Beamter vang vọng khắp sân tập, còn nhóm mạo hiểm giả đồng đội của chàng trai thì đồng loạt ồ lên kinh ngạc trước cảnh một mạo hiểm giả Hạng D đả bại mạo hiểm giả Hạng C.

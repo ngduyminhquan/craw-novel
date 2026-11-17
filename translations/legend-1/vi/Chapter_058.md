@@ -26,7 +26,7 @@ Nghe Gran hỏi, Rei nhớ lại những lời Lenora từng dặn lúc mới đ
 
 "Hiểu đại khái thế là đúng rồi. Đương nhiên, đã cất công chỉ định đích danh thì độ khó thường khá cao, hoặc có khi bị ràng buộc nghĩa vụ bảo mật nghiêm ngặt. Hoặc giả là vì những uẩn khúc riêng từ phía người ủy thác."
 
-Vừa nói, Gran vừa thoáng nở một nụ cười gượng gạo. Điệu bộ ấy khiến Rei lờ mờ nhận ra dường như ông chẳng mấy thiện cảm với thứ gọi là ủy thác chỉ định.
+Vừa nói, Gran vừa thoáng lộ vẻ mặt chua chát. Nhìn vậy là Rei cũng đoán được ông chẳng mấy thiện cảm với mấy vụ ủy thác chỉ định này.
 
 "Vậy, giờ ông nói chuyện này với tôi có nghĩa là..."
 
@@ -70,7 +70,7 @@ Dù sao một lính mới vừa chân ướt chân ráo đăng ký ở Hội l�
 
 "Biết chứ. Sách trong thư viện có nhắc tới chuyện này rồi. Là ba phe gồm Phe Quốc Vương, Phe Quý Tộc và Phe Trung Lập đúng không?"
 
-"Đúng thế. Trong ba phe thì Phe Trung Lập là thế lực nhỏ nhất, và lãnh chúa nơi này là Bá tước biên cảnh Rowlocks lại được xem như nhân vật cộm cán trong Phe Trung Lập đó. Nói cách khác, nếu để thành phố Gilm bị rút mất một chiến lực hùng hậu thì chẳng khác nào làm suy giảm sức mạnh của Phe Trung Lập. Ta nghĩ ông ấy đang đề phòng chuyện đó... Cơ mà đây cũng chỉ là phỏng đoán của một nhân viên Hội quèn thôi, cậu không cần để tâm quá đâu."
+"Đúng thế. Trong ba phe thì Phe Trung Lập là thế lực nhỏ nhất, và lãnh chúa nơi này là Bá tước biên cảnh Rowlocks lại được xem như nhân vật cộm cán trong Phe Trung Lập đó. Tức là nếu để thành phố Gilm bị rút mất một chiến lực mạnh thì cũng giống như làm suy giảm sức mạnh của Phe Trung Lập vậy. Ta nghĩ ông ấy đang đề phòng chuyện đó... Cơ mà đây cũng chỉ là phỏng đoán của một nhân viên Hội quèn thôi, cậu không cần để tâm quá đâu."
 
 Gran vừa cười trừ vừa nói, nhưng đối với Rei thì đây là nhận định rất đáng để tham khảo nên cậu khẽ gật đầu đồng tình.
 
@@ -96,7 +96,7 @@ Nghe nhắc tới cái tên Runo, trong đầu Rei hiện lên khuôn mặt củ
 
 "Nói mới nhớ, đúng là họ có bảo thế thật. ...Nghĩa là mục đích tiểu thư Công tước đến đây là vì hầm ngục đó sao?"
 
-Rei nhìn Gran với vẻ mặt khó hiểu.
+Rei nhìn Gran với ánh mắt ngán ngẩm như muốn bảo đúng là hết nói nổi.
 
 Thế nhưng, Gran chỉ cười trừ rồi lắc đầu với cậu.
 
@@ -136,7 +136,7 @@ Nghe Gran giải thích, Rei vừa hiểu ra đầu đuôi vừa khẽ nhíu mà
 
 "Thì thế. Nhưng bị một nhân vật tầm cỡ Công tước đưa ra yêu cầu thì ngay cả Bá tước biên cảnh Rowlocks cũng chẳng thể từ chối nếu không có lý do chính đáng."
 
-Trên thực tế, xét về mặt quyền lực thì Phe Trung Lập và Phe Quý Tộc chênh lệch nhau một trời một vực, nên chỉ cần sơ suất một chút là Phe Trung Lập sẽ lập tức bị dồn vào thế bí. Thêm vào đó, xét về thân phận quý tộc thì giữa Bá tước biên cảnh và Công tước cũng có khoảng cách rõ rệt, thành thử Bá tước biên cảnh Rowlocks chỉ còn nước chấp thuận.
+Thực tế, quyền lực giữa Phe Trung Lập và Phe Quý Tộc vốn chênh lệch một trời một vực, chỉ cần sơ suất một chút là Phe Trung Lập sẽ lập tức bị dồn vào thế bí. Hơn nữa, tước vị Bá tước biên cảnh cũng thấp hơn Công tước, thành ra Bá tước biên cảnh Rowlocks chỉ còn nước chấp thuận.
 
 "Thế nên Bá tước biên cảnh Rowlocks cũng đành bấm bụng nhận lời, nhưng nếu vị tiểu thư Công tước lừng danh cả trong lẫn ngoài nước với danh hiệu Công Chúa Tướng Quân mà chẳng may mất mạng trên đất của mình thì... hậu quả ra sao, cậu cũng đoán được rồi chứ?"
 
@@ -192,6 +192,6 @@ Trước câu hỏi buột miệng ấy, Gran nghiêm mặt gật đầu.
 
 "Như ta đã nhắc đi nhắc lại rồi đấy, mức thù lao đó chứng minh ủy thác này trọng đại đến nhường nào. Nhớ khắc cốt ghi tâm điều đó vào."
 
-Cứ như thế, Rei vừa mới chân ướt chân ráo lên Hạng D đã rơi vào cảnh gần như bị ép buộc phải nhận ngay một ủy thác chỉ định bất ngờ.
+Cứ như thế, Rei vừa mới lên Hạng D chưa ấm chỗ đã rơi vào cảnh gần như bị ép phải nhận ngay một ủy thác chỉ định bất ngờ.
 
 Và ủy thác lần này chính là bước ngoặt trọng đại đối với Rei, dù bản thân cậu khi ấy chẳng thể nào ngờ tới.
