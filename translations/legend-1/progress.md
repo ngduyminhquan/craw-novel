@@ -68,7 +68,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 61 |  | Chapter_0061 - 継承の祭壇 - 第61話.txt | 継承の祭壇 - 第61話 | reviewed |  |
 | 62 |  | Chapter_0062 - 継承の祭壇 - 第62話.txt | 継承の祭壇 - 第62話 | reviewed |  |
 | 63 |  | Chapter_0063 - 継承の祭壇 - 第63話.txt | 継承の祭壇 - 第63話 | reviewed |  |
-| 64 |  | Chapter_0064 - 継承の祭壇 - 第64話.txt | 継承の祭壇 - 第64話 | todo |  |
+| 64 |  | Chapter_0064 - 継承の祭壇 - 第64話.txt | 継承の祭壇 - 第64話 | done |  |
 | 65 |  | Chapter_0065 - 継承の祭壇 - 第65話.txt | 継承の祭壇 - 第65話 | todo |  |
 | 66 |  | Chapter_0066 - 継承の祭壇 - 第66話.txt | 継承の祭壇 - 第66話 | todo |  |
 | 67 |  | Chapter_0067 - 継承の祭壇 - 第67話.txt | 継承の祭壇 - 第67話 | todo |  |

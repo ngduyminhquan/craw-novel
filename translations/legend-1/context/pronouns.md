@@ -47,6 +47,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Daska | ông / Daska / Bá tước biên cảnh Rowlocks | 62 | Lãnh chúa thành phố Gilm |
 | Ara | cô / Ara | 63 | Nữ hiệp sĩ dưới 20 tuổi trong đội hộ vệ của Elena |
 | Vel | anh / Vel | 63 | Hiệp sĩ 20 tuổi trong đội hộ vệ của Elena |
+| Trenma | Trenma / người đàn ông trung niên | 64 | Phó đoàn trưởng kỵ sĩ đoàn Gilm |
 
 ## Giữa các nhân vật
 
@@ -180,3 +181,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ara | Vel | tôi | cậu / Vel | 63 | Nữ hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |
 | Vel | Ara | tôi | cô / Ara | 63 | Nam hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |
 | Ara | Kuust | tôi | Kuust / anh ta | 63 | Nữ hiệp sĩ hộ vệ nhắc tới hoặc nói với đội trưởng đồng trang lứa |
+| Trenma | Rei | tôi | cậu Rei / cậu | 64 | Phó đoàn trưởng kỵ sĩ đoàn thăm dò theo lệnh lãnh chúa |
+| Rei | Trenma | tôi | anh / ông | 64 | Nói chuyện bình thường |
+| Rei | Kuust | tôi | anh | 64 | Nói chuyện bình thường, không kính cẩn |
