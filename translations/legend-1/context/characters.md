@@ -38,6 +38,10 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Filma | フィールマ・パトローノ; フィールマ | Filma | Nữ Ranger tộc Elf Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 | Kerebel | ケレベル | Kerebel | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana | Chương 58 |
 | Beamter | ベアムター; ベア | Beamter | Trưởng nhóm Hạng D của tổ đội Mối Liên Kết Của Đất | Chương 60 |
+| Elena | エレーナ; エレーナ・ケレベル | Elena | Tiểu thư nhà Công tước Kerebel, được mệnh danh là Công Chúa Tướng Quân | Chương 62 |
+| Kuust | キュステ; キュステ・ブラシン | Kuust | Đội trưởng đội hộ vệ của Elena Kerebel, con thứ của Hầu tước Brassin | Chương 62 |
+| Daska | ダスカー; ダスカー・ラルクス | Daska | Tên riêng của Bá tước biên cảnh Rowlocks (Daska Rowlocks) | Chương 62 |
+| Vel | ヴェル | Vel | Đồng nghiệp của Kuust trong đội hộ vệ của Elena Kerebel | Chương 62 |
 
 ## Chi tiết
 
@@ -86,6 +90,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Rowlocks
 - Đàn ông trung niên khoảng 40 tuổi, mặt bặm trợn có râu mép, phong thái võ tướng nhưng điềm tĩnh và thực tế.
+- Tên đầy đủ là Daska Rowlocks (ダスカー・ラルクス).
 
 ### Lenora
 - Vẻ ngoài: Nữ tiếp tân có mái tóc đuôi ngựa, tự ti về vòng một nhỏ.
@@ -187,3 +192,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Beamter
 - Nam thanh niên khoảng 18-22 tuổi, vẻ mặt hiền lành dễ mến; mạo hiểm giả Hạng D dẫn dắt tổ đội Hạng E gồm các đàn em cùng cô nhi viện
 - Tính cách: Lịch sự, chu đáo, hết lòng chăm lo cho đàn em; dễ ngượng ngùng khi bị trêu chọc
+
+### Kuust
+- Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
+- Vũ khí và ma pháp: Dùng ma thương; có thể sử dụng ma pháp hồi phục hệ Thủy [Lam Dũ].

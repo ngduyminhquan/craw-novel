@@ -42,6 +42,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Superbia | Superbia / anh / gã / người đàn ông / nam kiếm sĩ | 55 | Nam kiếm sĩ tham gia bài thi thăng hạng |
 | Kerebel | ông / Công tước Kerebel | 58 | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana |
 | Beamter | Beamter / chàng trai | 60 | Trưởng nhóm Hạng D của Mối Liên Kết Của Đất |
+| Elena | cô / tiểu thư Elena | 62 | Con gái Công tước Kerebel, Công Chúa Tướng Quân |
+| Kuust | anh / Kuust | 62 | Đội trưởng hộ vệ của Elena, thanh niên quý tộc 20 tuổi |
+| Daska | ông / Daska / Bá tước biên cảnh Rowlocks | 62 | Lãnh chúa thành phố Gilm |
 
 ## Giữa các nhân vật
 
@@ -163,3 +166,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Milein | Beamter | tôi | cậu / Beamter | 60 | Tiền bối Hạng C nói với mạo hiểm giả Hạng D |
 | Beamter | Rei | tôi | cậu | 60 | Nói chuyện với Rei |
 | Rei | Beamter | tôi | anh | 60 | Lịch sự với người lớn tuổi hơn |
+| Rowlocks | Rei | ta | cậu | 62 | Lãnh chúa nói với mạo hiểm giả trẻ tuổi |
+| Rei | Rowlocks | tôi | ngài / Bá tước | 62 | Mạo hiểm giả nói chuyện với lãnh chúa |
+| Rowlocks | Kuust | ta | cậu Kuust | 62 | Bá tước biên cảnh nói với con trai Hầu tước Brassin |
+| Kuust | Rowlocks | tôi | ngài / Bá tước biên cảnh Rowlocks | 62 | Đội trưởng hộ vệ quý tộc nói với Bá tước biên cảnh |
+| Kuust | Rei | ta | ngươi | 62 | Quý tộc kiêu ngạo nói với mạo hiểm giả thường dân |

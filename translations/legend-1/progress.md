@@ -66,7 +66,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 59 |  | Chapter_0059 - ランクアップ試験 - 第59話.txt | ランクアップ試験 - 第59話 | reviewed |  |
 | 60 |  | Chapter_0060 - ランクアップ試験 - 第60話.txt | ランクアップ試験 - 第60話 | reviewed |  |
 | 61 |  | Chapter_0061 - 継承の祭壇 - 第61話.txt | 継承の祭壇 - 第61話 | done |  |
-| 62 |  | Chapter_0062 - 継承の祭壇 - 第62話.txt | 継承の祭壇 - 第62話 | todo |  |
+| 62 |  | Chapter_0062 - 継承の祭壇 - 第62話.txt | 継承の祭壇 - 第62話 | done |  |
 | 63 |  | Chapter_0063 - 継承の祭壇 - 第63話.txt | 継承の祭壇 - 第63話 | todo |  |
 | 64 |  | Chapter_0064 - 継承の祭壇 - 第64話.txt | 継承の祭壇 - 第64話 | todo |  |
 | 65 |  | Chapter_0065 - 継承の祭壇 - 第65話.txt | 継承の祭壇 - 第65話 | todo |  |
