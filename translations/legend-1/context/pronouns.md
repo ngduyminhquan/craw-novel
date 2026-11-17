@@ -202,3 +202,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vel | Rei | tôi | cậu | 68 | Hiệp sĩ hộ vệ nói chuyện thân thiện với mạo hiểm giả trẻ tuổi |
 | Rei | Vel | tôi | anh | 68 | Mạo hiểm giả nói chuyện bình thường với hiệp sĩ lớn tuổi hơn |
 | Rei | Elena | tôi | tiểu thư Elena / tiểu thư | 67 | Lịch sự vừa phải, không gọi là cô hay người, không tự chêm dạ / ạ / thưa |
+| Kuust | Ara | tôi | cô / Ara | 70 | Đội trưởng hộ vệ nói chuyện với nữ hiệp sĩ trong đội |

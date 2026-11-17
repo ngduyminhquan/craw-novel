@@ -187,3 +187,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 大地の精霊 |  | Tinh Linh Đất | chủng tộc | 65 | Tinh linh hệ thổ; Elena và Elk từng cùng nhau xử lý một sự vụ liên quan |
 | アイアンスネーク |  | Iron Snake | quái vật | 68 | Quái vật rắn Hạng E, thân bao phủ bởi lớp vảy cứng như sắt, phòng ngự cao nhưng tấn công yếu và không có độc |
 | 火竜 |  | Hỏa Long | quái vật | 69 | loài rồng lửa dùng Hơi Thở Lửa nướng chín con mồi |
+| ライトニング・トルネード |  | Lốc Xoáy Sấm Sét | kỹ năng | 70 | Ma pháp hệ Phong kết hợp sấm sét do Elena thi triển |
+| ゴースト |  | Ghost | quái vật | 70 | Quái vật bóng ma thuộc hệ Undead |
