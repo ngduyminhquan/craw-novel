@@ -204,7 +204,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
-- Vũ khí và vị trí: Kỵ sĩ tiền vệ, sử dụng trường kiếm với kiếm phong cương mãnh.
+- Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4 và được Rei cho mượn Rìu Cường Lực (Đạo Cụ Ma Thuật) sử dụng bằng một tay.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
 
 ### Vel

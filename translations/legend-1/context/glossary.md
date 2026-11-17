@@ -203,3 +203,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ウォーターゴリラ |  | Water Gorilla | quái vật | 79 | Cách gọi ví von của Vel về con Water Monkey khổng lồ |
 | オーガ |  | Ogre | quái vật | 81 | Quái vật hình người to lớn da xanh thuộc hệ Goblin, Hạng C |
 | モンスター辞典 |  | từ điển quái vật | vật phẩm | 43 | Cuốn sách tra cứu thông tin quái vật mà Rei mua tại hiệu sách ở Gilm |
+| 炎の礫 |  | Hỏa Lịch | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei, bắn cầu lửa phát nổ rải đốm lửa nhỏ như sỏi đá |
+| 紅蓮の焔壁 |  | Hồng Liên Diễm Bích | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei tạo bức tường lửa bảo vệ diện rộng, tự phóng Hỏa Cầu phản kích đòn đánh |
