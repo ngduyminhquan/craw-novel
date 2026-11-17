@@ -191,3 +191,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ゴースト |  | Ghost | quái vật | 70 | Quái vật bóng ma thuộc hệ Undead |
 | 迷宮都市 |  | thành phố hầm ngục | địa danh | 72 | Thành phố được xây dựng quy hoạch quanh hầm ngục phòng thủ bài bản |
 | ダンジョンの核 |  | lõi hầm ngục | hệ thống | 72 | Lõi ở tầng sâu nhất hầm ngục, tự động cưỡng ép dịch chuyển quái vật quanh vùng vào bên trong |
+| ホーンラビット |  | Horn Rabbit | quái vật | 74 | Quái vật thỏ có sừng ở tầng 1 hầm ngục |
+| 巨大蝙蝠 |  | dơi khổng lồ | quái vật | 74 | Quái vật dơi kích thước lớn ở tầng 1 hầm ngục |

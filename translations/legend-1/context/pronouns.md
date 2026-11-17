@@ -213,3 +213,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Worker | tôi | anh / Worker | 73 | Mạo hiểm giả nói chuyện với đại diện Hội |
 | Ara | Worker | tôi | anh | 73 | Nữ hiệp sĩ hộ vệ chất vấn đại diện Hội |
 | Worker | Ara | tôi | cô | 73 | Đại diện Hội xoa dịu nữ hiệp sĩ hộ vệ |
+| Elena | Kuust | ta | Kuust / cậu | 63 | Tiểu thư / chủ tướng nói với đội trưởng hộ vệ |
