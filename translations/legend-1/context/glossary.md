@@ -206,3 +206,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 炎の礫 |  | Hỏa Lịch | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei, bắn cầu lửa phát nổ rải đốm lửa nhỏ như sỏi đá |
 | 紅蓮の焔壁 |  | Hồng Liên Diễm Bích | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei tạo bức tường lửa bảo vệ diện rộng, tự phóng Hỏa Cầu phản kích đòn đánh |
 | スケルトンロード |  | Skeleton Lord | quái vật | 88 | Quái vật bộ xương cấp cao thuộc hệ Undead |
+| 薄き焔 |  | Bạc Diễm | kỹ năng | 89 | Ma thuật hệ Hỏa của Rei tạo màng lửa mỏng nhiệt độ thấp bao phủ bề mặt |
+| リッチ |  | Lich | quái vật | 89 | Quái vật Undead bắt nguồn từ ma pháp sư biến thành sau khi chết |
