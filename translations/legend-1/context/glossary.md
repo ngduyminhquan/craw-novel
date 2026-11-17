@@ -172,3 +172,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | スケルトン |  | Skeleton | quái vật | 54 | Quái vật bộ xương thuộc hệ Undead |
 | 毒の爪 |  | Móng Vuốt Độc | kỹ năng | 55 | Kỹ năng của Set học từ Ma Thạch của Treant chủng hiếm mang độc |
 | 魔法書 |  | sách ma pháp | vật phẩm | 57 | sách ghi chép ma pháp; viết thường |
+| 指名依頼 |  | ủy thác chỉ định | hệ thống | 58 | Loại ủy thác chỉ định đích danh mạo hiểm giả cụ thể |
+| ベスティア |  | Bestia | địa danh | 58 | Đế quốc láng giềng đối địch với Vương quốc Mireana |
+| 姫将軍 |  | Công Chúa Tướng Quân | danh hiệu | 58 | Danh hiệu của ái nữ Công tước Kerebel khi chỉ huy quân đội đánh lui Đế quốc Bestia |
+| 公爵 |  | Công tước | danh hiệu | 58 | Tước vị quý tộc cao cấp; viết hoa khi đi liền với tên riêng hoặc chỉ tước vị cụ thể: Công tước Kerebel |

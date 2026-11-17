@@ -62,7 +62,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 55 |  | Chapter_0055 - ランクアップ試験 - 第55話.txt | ランクアップ試験 - 第55話 | reviewed |  |
 | 56 |  | Chapter_0056 - ランクアップ試験 - 第56話.txt | ランクアップ試験 - 第56話 | reviewed |  |
 | 57 |  | Chapter_0057 - ランクアップ試験 - 第57話.txt | ランクアップ試験 - 第57話 | reviewed |  |
-| 58 |  | Chapter_0058 - ランクアップ試験 - 第58話.txt | ランクアップ試験 - 第58話 | todo |  |
+| 58 |  | Chapter_0058 - ランクアップ試験 - 第58話.txt | ランクアップ試験 - 第58話 | done |  |
 | 59 |  | Chapter_0059 - ランクアップ試験 - 第59話.txt | ランクアップ試験 - 第59話 | todo |  |
 | 60 |  | Chapter_0060 - ランクアップ試験 - 第60話.txt | ランクアップ試験 - 第60話 | todo |  |
 | 61 |  | Chapter_0061 - 継承の祭壇 - 第61話.txt | 継承の祭壇 - 第61話 | todo |  |

@@ -36,6 +36,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Scola | スコラ | Scola | Nam ma pháp sư Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 | Superbia | スペルビア; スペルピア | Superbia | Nam kiếm sĩ Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 | Filma | フィールマ・パトローノ; フィールマ | Filma | Nữ Ranger tộc Elf Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
+| Kerebel | ケレベル | Kerebel | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana | Chương 58 |
 
 ## Chi tiết
 
@@ -44,7 +45,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 57: Thẻ Hội Hạng D; hoàn thành bài thi thăng hạng cùng tổ đội lâm thời; được Gran giữ lại phòng họp để nói chuyện riêng
+- Trạng thái tính đến chương 58: Thẻ Hội Hạng D; nhận ủy thác chỉ định từ Bá tước biên cảnh Rowlocks làm hộ vệ cho Công Chúa Tướng Quân (tiểu thư Công tước Kerebel) thám hiểm hầm ngục gần Gilm với thù lao 2 đồng quang kim; dưỡng sức chờ ngày nhận việc trong 1 tuần
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
@@ -173,3 +174,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: điềm đạm, đoan trang, tự tin.
 - Kỹ năng: cung thuật, Tinh Linh Ma Pháp (giao tiếp trực tiếp với tinh linh không cần vật phát động; điều khiển Tinh Linh Gió tạo tường phòng thủ, Tinh Linh Đất làm sụt lún mặt đất hoặc phóng giáo đất từ dưới chân địch, kết hợp cả hai trói buộc đối thủ), cảm nhận ma lực nhạy bén (nhận biết lượng ma lực khổng lồ dị thường của Rei vượt xa tộc Elf lẫn High Elf)
 - Vũ khí: cây cung lớn là gia bảo truyền đời của gia tộc có thể cường hóa thuộc tính phong cho mũi tên
+
+### Kerebel
+- Nhân vật nòng cốt của Phe Quý Tộc, cha của Elena Kerebel (Công Chúa Tướng Quân)

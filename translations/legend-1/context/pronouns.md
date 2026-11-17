@@ -40,6 +40,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Superbia | Superbia / gã / người đàn ông / nam kiếm sĩ | 46 | Nam kiếm sĩ tham gia bài thi thăng hạng |
 | Filma | cô / nữ Elf / Filma | 46 | Nữ Elf Ranger tham gia bài thi thăng hạng |
 | Superbia | Superbia / anh / gã / người đàn ông / nam kiếm sĩ | 55 | Nam kiếm sĩ tham gia bài thi thăng hạng |
+| Kerebel | ông / Công tước Kerebel | 58 | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana |
 
 ## Giữa các nhân vật
 
