@@ -52,15 +52,15 @@ Giữa lúc đó, chỉ có Elena là bình thản nhìn cảnh tượng ấy, r
 
 Nghe tiếng gọi, ba người kia cũng nhận ra Set đang nằm dài trên đất và Rei đang tựa người vào nó.
 
-Thấy cả bốn người nhìn mình, Rei cười trừ rồi đứng dậy bước lại gần nhóm Elena.
+Thấy cả bốn người nhìn cậu, Rei cười trừ rồi đứng dậy bước lại gần nhóm Elena.
 
 "Kẻ địch mà hai đứa phát hiện là con Ogre này à?"
 
 "Vâng, dù sao nó cũng to lớn thế này mà. Chỉ bước đi thôi tiếng động đã vang dội, mặt đất cũng rung lên nhè nhẹ nên tôi nhận ra ngay. Cứ để mặc thì khu trại dễ biến thành chiến trường mất, nên tôi mới chủ động ra đón đầu."
 
-"Hửm. Phán đoán chuẩn xác lắm. ...Mà phải công nhận, tay nghề của cậu cừ thật đấy. Hạ gục được cả Ogre mà không hề trầy xước."
+"...Ừm. Dù ta cũng có đôi điều muốn nói, nhưng nhìn chung phán đoán của cậu không sai. Thực tế là chỉ có hai đứa cậu và Set mà đã hạ gục nó chẳng chút xây xát đấy thôi."
 
-Đưa mắt nhìn con Ogre, Elena tấm tắc cất lời.
+Nói đến đó, Elena đưa mắt nhìn về phía con Ogre lúc này máu đã chảy yếu bớt.
 
 "Thế giờ hai đứa đang chờ xả máu à?"
 
@@ -114,7 +114,7 @@ Chắc bị mùi thơm hấp dẫn, Set cũng gừ gừ trong họng rồi dụi
 
 "Biết rồi, biết rồi. Của mày tao chuẩn bị riêng rồi, cứ yên tâm."
 
-Cậu lấy ra từ Nhẫn Sương Mù một tảng thịt Orc đã được sơ chế thành kích cỡ vừa miệng cùng với Elk - thành viên của tổ đội Rìu Lôi Thần, dùng mấy cành cây xiên qua để giữ thăng bằng rồi bắt đầu nướng trên đống lửa trại.
+Cậu lấy từ Nhẫn Sương Mù ra một tảng thịt Orc mà trước đó cậu cùng Elk, thành viên tổ đội Rìu Lôi Thần, đã pha sẵn thành cỡ vừa ăn, dùng mấy cành cây xiên qua để giữ thăng bằng rồi bắt đầu nướng trên đống lửa trại.
 
 Nói là kích cỡ vừa miệng nhưng thực ra là vừa miệng đối với Set, chứ với nhóm Rei thì nó to như cả một tảng lớn.
 
@@ -202,7 +202,7 @@ Ara cũng vừa uống trà vừa cất giọng hậm hực.
 
 Đính chính lại. Hóa ra cô hậm hực là vì trà không ngon.
 
-Với một người kiêm luôn vai trò như hầu gái cho Elena như Ara, ắt hẳn ấm trà pha qua loa chẳng theo quy trình nào của Rei khiến cô không vừa lòng chút nào.
+Ara vốn kiêm luôn việc chăm sóc Elena như hầu gái, nên ấm trà Rei pha qua loa chẳng theo quy trình nào chắc chắn làm cô không vừa lòng chút nào.
 
 Mặc dù vậy, bản thân Elena vốn quen với chuyện ăn uống nơi chiến trường nên cô cứ thế uống mà chẳng phàn nàn lấy một lời.
 

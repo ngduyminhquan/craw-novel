@@ -4,7 +4,7 @@
 
 Vel vừa hét lên vừa bắn một mũi tên về phía con Water Monkey đang từ trên cây nhảy xuống định vồ lấy Ara.
 
-Từ lúc bắt đầu giao chiến giữa khu rừng, vốn là địa bàn sở trường của bầy Water Monkey tập kích, tính đến nay đã hơn một tiếng đồng hồ. Vì phải chiến đấu liên miên không một phút ngơi nghỉ, thể lực của Ara và Kuust đều đã chạm ngưỡng giới hạn. Tình hình của Ara đặc biệt nghiêm trọng, cô gần như chỉ còn gượng trụ bằng ý chí. Để bọc lót cho cô, Vel phải liên tục bắn tên, khiến việc yểm trợ cho Kuust bị thiếu hụt và làm anh ta càng thêm mệt mỏi, rơi vào vòng luẩn quẩn. Nếu không có Elena dùng liên tiếp kiếm và phong ma pháp hỗ trợ, có lẽ tuyến phòng thủ đã sụp đổ từ lâu.
+Từ lúc bắt đầu giao chiến giữa khu rừng, vốn là địa bàn sở trường của bầy Water Monkey tập kích, tính đến nay đã hơn một tiếng đồng hồ. Vì phải chiến đấu liên miên không một phút ngơi nghỉ, thể lực của Ara và Kuust đều đã chạm ngưỡng giới hạn. Tình hình của Ara đặc biệt nghiêm trọng, cô gần như chỉ còn gượng trụ bằng ý chí. Để bọc lót cho cô, Vel phải liên tục bắn tên, khiến việc yểm trợ cho Kuust bị thiếu hụt và làm anh ta càng thêm mệt mỏi, rơi vào vòng luẩn quẩn. Nếu không có Elena dùng liên tiếp kiếm và ma pháp hệ Phong hỗ trợ, có lẽ tuyến phòng thủ đã sụp đổ từ lâu.
 
 Nghe Vel nói, Elena thoáng liếc nhìn về hướng cả nhóm vừa đi tới. Phía đó quả nhiên ít kẻ địch hơn hẳn, trông có vẻ rất dễ đột phá. ...Phải, cứ như thể chúng đang mời mọc mọi người hãy chạy thoát theo lối này vậy.
 
@@ -14,7 +14,7 @@ Với một người từng kinh qua vô số chiến trường như Elena, lố
 
 "Nhưng nếu cứ tiếp tục giằng co ở đây thì sức lực bên mình chỉ có nước bị bào mòn sạch thôi!"
 
-Tiếng hét của Vel nghe chẳng khác nào một tiếng kêu thét tuyệt vọng. Chính vì luôn ở tuyến sau yểm trợ cho Ara và Kuust nên anh là người hiểu rõ nhất hai người họ đã gần cạn kiệt sức lực đến mức nào.
+Tiếng hét của Vel nghe như một tiếng kêu thét tuyệt vọng. Chính vì luôn ở tuyến sau yểm trợ cho Ara và Kuust nên anh là người hiểu rõ nhất hai người họ đã gần cạn kiệt sức lực đến mức nào.
 
 (Đúng là nếu cứ tiếp diễn thế này, bên mình sẽ bị cuốn vào cuộc chiến tiêu hao và sức lực chỉ có cạn kiệt dần. Lúc này không tung ra nước cờ lớn thì không xong rồi.)
 
@@ -60,7 +60,7 @@ Ngay khoảnh khắc ma pháp được phát động, kèm theo một tiếng "�
 
 "Gùuu?"
 
-Vừa xoa đầu Set khi nó lo lắng dụi vào người mình, cậu vừa đưa mắt nhìn quanh.
+Vừa xoa đầu Set khi nó lo lắng dụi vào người cậu, cậu vừa đưa mắt nhìn quanh.
 
 Lũ Water Monkey quanh Rei vì giật mình trước đòn Hỏa Lịch nên đã rút lùi về sau, không còn con nào ở gần. Cùng lúc đó, xung quanh nơi Elena tả xung hữu đột cũng không còn bóng dáng kẻ địch, chỉ còn sót lại vài con mà nhóm Ara đang cầm cự là bị mắc kẹt lại bên trong bức tường lửa này.
 
@@ -80,7 +80,7 @@ Ngay cả Kuust, kẻ ngày thường hễ mở mồm là cà khịa Rei, có l�
 
 Elena cũng nhận lấy bình nước rồi ngửa cổ uống một hơi.
 
-Rei mải ngắm chiếc cổ trắng ngần của cô chuyển động đầy quyến rũ khi nuốt từng ngụm nước, nhưng rồi giật mình hoàn hồn khi Set dùng mỏ kéo nhẹ tà Áo Choàng Rồng, cậu liền uống nước của mình. Đồng thời cậu lấy mấy quả mọng mọng nước từ Nhẫn Sương Mù đưa cho Set.
+Rei mải ngắm chiếc cổ trắng ngần của cô chuyển động đầy quyến rũ khi nuốt từng ngụm nước, nhưng rồi giật mình hoàn hồn khi Set dùng mỏ kéo nhẹ tà Áo Choàng Rồng, cậu liền uống phần nước của cậu. Đồng thời cậu lấy mấy quả trái cây mọng nước từ Nhẫn Sương Mù đưa cho Set.
 
 "Sống lại rồi... Nào, giải thích giúp ta với."
 
@@ -124,7 +124,7 @@ Rei đang nhắm mắt thì nghe thấy tiếng của Kuust và Ara vang lên.
 
 "Cậu Rei, tôi dùng tiếp thanh kiếm này có được không?"
 
-Mở mắt trước câu hỏi đó, người lọt vào tầm nhìn của cậu hiển nhiên là chủ nhân của giọng nói—Ara.
+Mở mắt trước câu hỏi đó, người lọt vào tầm nhìn của cậu hiển nhiên là Ara, chủ nhân của giọng nói vừa rồi.
 
 (Mà nếu người đứng đây là Kuust thì chắc lại thêm phiền phức to chuyện rồi.)
 
@@ -144,7 +144,7 @@ Không rõ là vì không đành lòng nhìn Ara ủ rũ rủ vai hay đơn thu�
 
 "Đúng là sức mạnh của Ara ở hàng tiền vệ rất đáng gờm, nhưng tiếc là kiếm thì tôi chỉ còn cây cô ấy đang cầm thôi."
 
-Vốn dĩ Rei đã có Lưỡi Hái Tử Thần nên chẳng cần thêm vũ khí chính nào khác. Lưỡi Hái Tử Thần sinh ra từ chính ma lực của Rei nên vô cùng chắc chắn, lại thêm việc truyền ma lực vào khi sử dụng nên hầu như không có khả năng bị hư hại. Thành thử vũ khí Rei thu thập chỉ chủ yếu là các loại đoản kiếm hay dao găm dùng để mổ xẻ, các ngọn giáo dùng để ném, thứ được cho là nguyên nhân dẫn đến trận chiến lần này, hoặc các Đạo Cụ Ma Thuật vì giá trị hiếm có của chúng.
+Vốn dĩ Rei đã có Lưỡi Hái Tử Thần nên chẳng cần thêm vũ khí chính nào khác. Lưỡi Hái Tử Thần sinh ra từ chính ma lực của Rei nên vô cùng bền chắc, khi dùng lại được truyền thêm ma lực nên hầu như chẳng bao giờ hư hại. Thành thử vũ khí Rei thu thập chủ yếu chỉ là đoản kiếm hay dao găm dùng để mổ xẻ, những ngọn giáo dùng để phóng vốn là nguyên nhân châm ngòi cho trận chiến lần này, hoặc các Đạo Cụ Ma Thuật vì độ quý hiếm của chúng.
 
 (Khoan đã nào?)
 
@@ -154,7 +154,7 @@ Phải rồi, đúng là cậu không có thanh kiếm nào chịu nổi sức c
 
 Cho danh sách trong Nhẫn Sương Mù hiện lên trong đầu, cậu chọn vào mục có ghi Rìu Cường Lực.
 
-Đó là món đồ cậu cướp được làm tiền cá cược từ Vargas—tên cầm đầu tổ đội Hạng D Móng Vuốt Chim Ưng từng đến kiếm chuyện với cậu. Về sau nghe kể lại, đó là Đạo Cụ Ma Thuật mà chúng nhặt được khi khám phá mê cung, tức chính hầm ngục này.
+Đó là món đồ cậu thắng cược lấy được từ Vargas, tên cầm đầu tổ đội Hạng D Móng Vuốt Chim Ưng từng đến kiếm chuyện với cậu. Về sau nghe kể lại, đó là Đạo Cụ Ma Thuật mà chúng nhặt được khi khám phá mê cung, tức chính hầm ngục này.
 
 (Lấy Đạo Cụ Ma Thuật nhặt được ở đây cho người vừa mất vũ khí cũng tại nơi này mượn, kể ra cũng thú vị đấy chứ.)
 
@@ -182,7 +182,7 @@ Rei đặt cây Rìu Cường Lực vào bàn tay đang rụt rè đưa ra của
 
 "Á!"
 
-Trước sức nặng ngoài dự kiến của cây rìu chiến được trao, Ara thốt lên một tiếng kêu nhỏ chẳng hề ăn nhập với sức mạnh cơ bắp của mình, nhưng vẫn đón lấy một cách chắc chắn.
+Trước sức nặng ngoài dự kiến của cây rìu chiến vừa nhận lấy, Ara thốt lên một tiếng kêu nhỏ chẳng hề ăn nhập với sức mạnh cơ bắp của mình, nhưng vẫn cầm chắc trong tay.
 
 "Đây là... Đạo Cụ Ma Thuật sao."
 
@@ -190,7 +190,7 @@ Vừa lẩm bẩm, cô vừa một tay nắm lấy cán Rìu Cường Lực... n
 
 "Ồ."
 
-Chứng kiến cảnh đó, Rei bất giác thở ra một tiếng thán phục.
+Chứng kiến cảnh đó, Rei bất giác khẽ trầm trồ một tiếng.
 
 "Có chuyện gì vậy?"
 
@@ -234,13 +234,13 @@ Trước lời lẩm bẩm của Vel, mọi người đều gật đầu đồng
 
 "Gừưưư."
 
-Rei cũng phần nào hiểu được Set muốn nói gì. Đó là kỹ năng Set học được sau khi hấp thụ Ma Thạch. Nó đang giục cậu hãy dùng [Uy Áp Vương Giả]—kỹ năng có thể phát huy hiệu lực trên diện rộng mà lại không gây ra bất kỳ tổn hại thừa thãi nào như hỏa ma pháp của Rei.
+Rei cũng phần nào hiểu được Set muốn nói gì. Đó là kỹ năng Set học được sau khi hấp thụ Ma Thạch. Nó đang giục cậu hãy dùng [Uy Áp Vương Giả], kỹ năng có thể phát huy hiệu lực trên diện rộng mà lại không gây ra bất kỳ tổn hại thừa thãi nào như ma pháp hệ Hỏa của Rei.
 
 Hiệu quả của nó là dùng uy áp tỏa ra từ Set để khiến những quái vật đẳng cấp thấp hơn sợ co rúm lại và giảm khoảng mười phần trăm tốc độ. Với bầy Water Monkey nhanh nhẹn chắc chắn sẽ bám đuôi truy kích thì đây quả thực là một đòn hữu hiệu. Hơn nữa, vì đẳng cấp quái vật thấp hơn Set nên cậu cũng có thể kỳ vọng kỹ năng này sẽ phát huy tác dụng lên cả con chủng hiếm đang dẫn đầu bầy Water Monkey.
 
 "Rei, sao thế? Set đang muốn nói điều gì à?"
 
-Nghe Elena hỏi, trong lòng Rei không khỏi giằng xé.
+Nghe Elena hỏi vậy, Rei thầm đắn đo giằng xé trong lòng.
 
 (Tính sao đây? Vốn dĩ Griffin đã là quái vật Hạng A cực kỳ quý hiếm rồi. Giờ lại để lộ việc nó dùng được kỹ năng mà Griffin bình thường không có liệu có ổn không? Không, nếu chỉ có Elena thì chắc chẳng sao. Cô ấy là người trọng nghĩa khí nên nếu mình nhờ giữ bí mật thì chắc chắn cô ấy sẽ giữ lời. Còn Ara, chỉ cần Elena ra lệnh thì cô nàng cũng sẽ sống để bụng chết mang theo. Nhưng ngặt nỗi Kuust lúc nào cũng coi thường mình, còn Vel thì mồm mép tép nhảy. Hai tên này... Không, hay là cứ để Elena gánh trách nhiệm vụ đó nhỉ... Vả lại, thoát khỏi cơn nguy này xong mình vẫn có quyền dùng [Hạt Giống Trừng Phạt]. Dù có kẻ khó chịu nhưng lúc nguy cấp thì đành bắt họ chọn giữa việc đó với cái chết thôi.)
 

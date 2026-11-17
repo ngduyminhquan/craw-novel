@@ -56,6 +56,7 @@
 | ギィ / ギィッ | Gié | Tiếng kêu / hét của Goblin |
 | ギィギィッ / ギギギィ | Gi-gié / Gi-gi-gié | Tiếng la hét gọi bầy của Goblin |
 | ギャギャギャ！ | Gié-gié-gié! | Tiếng hét đe dọa / chiến đấu của Goblin |
+| キキキィッ / キキキキィッ | Ki-ki-é / Ki-ki-ki-ki-é | Tiếng kêu của Water Monkey |
 
 ## Đặc điểm ghi nhận theo chương
 

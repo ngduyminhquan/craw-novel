@@ -28,15 +28,15 @@ Chứng kiến cảnh đó, Rei vừa siết nhẹ cán Lưỡi Hái Tử Thần
 
 Kuust quay ngoắt lại nhìn Rei đang đi phía sau với vẻ khó chịu. Nhưng sau mấy ngày đồng hành, có lẽ đã quen với tính nết của Kuust nên Rei chẳng buồn để bụng, thản nhiên giải thích tiếp với Elena.
 
-"Nếu mục đích của chúng là làm cho ta tưởng chỉ cần ứng phó như hôm qua là xong thì sao?"
+"Nếu chúng cố tình hành động giống hệt hôm qua để khiến chúng ta tưởng mình dư sức ứng phó thì sao?"
 
 "Ra vậy, để dụ ta chủ quan. Rồi sau đó tung ra một đòn bất ngờ ngoài dự tính."
 
-"Vâng. Nghĩ vậy thì chúng ta nên hết sức cảnh giác. ...Nếu chúng không nấp sau lùm cây thì tôi có khối cách tấn công để kiềm chế, ngặt nỗi đúng là lũ quái vật bản địa, chúng tận dụng địa hình rất khéo để tránh tầm mắt của ta nên tôi chưa thể ra tay."
+"Vâng. Nghĩ vậy thì chúng ta nên hết sức cảnh giác. ...Nếu chúng không nấp sau lùm cây thì tôi có khối cách tấn công để kiềm chế, ngặt nỗi đúng là lũ quái vật bản địa, chúng tận dụng địa hình rất khéo để khuất khỏi tầm mắt chúng ta nên tôi chưa thể ra tay."
 
 "Hửm? Ngoài ma pháp ra cậu còn có cách tấn công tầm xa khác à?"
 
-Thấy Elena nhìn mình đầy vẻ tò mò, Rei liền lấy một ngọn giáo từ Nhẫn Sương Mù ra.
+Thấy Elena nhìn cậu đầy vẻ tò mò, Rei liền lấy một ngọn giáo từ Nhẫn Sương Mù ra.
 
 Nói là giáo, nhưng đó chẳng phải Đạo Cụ Ma Thuật như ngọn ma thương của Kuust, cũng chẳng phải vũ khí thượng hạng gì. Nó chỉ là cây giáo hết sức bình thường, loại mà lính tuần tra đi quanh phố hay dùng.
 
@@ -60,7 +60,7 @@ Vel ngẩn người lẩm bẩm, nhưng Rei chỉ im lặng lắc đầu.
 
 "À, ra thế. Ra là tính toán vậy à."
 
-Trước câu trả lời của Rei, Vel thở dài như cạn lời.
+Trước câu trả lời của Rei, Vel thở dài ngán ngẩm.
 
 "Vả lại không như ma pháp, phóng giáo đâu thể dùng ma lực để dẫn đường được. Thành ra mới bắn trượt như vừa rồi."
 
@@ -130,7 +130,7 @@ Những đòn đâm liên hoàn từ ngọn ma thương của Kuust tác động
 
 "Biết rồi. Đừng hòng đụng vào tiểu thư Elena!"
 
-Những mũi tên do Vel bắn ra dù bị lớp nước triệt tiêu gần hết uy lực khiến đầu tên không cắm sâu vào da thịt Water Monkey, nhưng lực va đập vẫn đủ sức hất văng chúng rơi xuống đất. Và nhát chém bồi theo của Ara giáng xuống mục tiêu vừa rơi xuống chẳng thèm bận tâm đến lớp nước phòng hộ, xẻ toạc cơ thể nó... không, phải nói là dùng sức mạnh cơ bắp chém nát mới đúng.
+Những mũi tên do Vel bắn ra dù bị lớp nước triệt tiêu gần hết uy lực khiến đầu tên không cắm sâu vào da thịt Water Monkey, nhưng lực va đập vẫn đủ sức hất văng chúng rơi xuống đất. Và nhát kiếm Ara bổ bồi xuống con mồi vừa ngã đất bất chấp cả lớp nước phòng hộ mà chém toạc cơ thể nó... không, phải nói là cậy sức mạnh cơ bắp xẻ nát ra mới đúng.
 
 Cục diện trận chiến nghiêng về phía nhóm Rei một cách áp đảo. Cứ con Water Monkey nào lao vào là bị hạ gục ngay tức khắc, máu của chúng nhuộm đỏ khắp xung quanh. Thế nhưng, nếu biến thành trận chiến tiêu hao kéo dài hai mươi, ba mươi phút thì lại là chuyện khác. Tạm không tính đến thể chất vượt xa người thường của Rei, bốn người còn lại dù là những hiệp sĩ thiện chiến thì cũng chỉ là người phàm. Đánh dốc toàn lực không một giây lơi lỏng suốt ba mươi phút liền như vậy, thể lực họ khó lòng chịu đựng nổi. Dù có tinh nhuệ đến đâu thì rốt cuộc cũng chỉ là cá nhân đơn lẻ, số người sở hữu sức mạnh đủ để chống lại biển địch đông đảo vốn chẳng có mấy ai.
 
@@ -140,7 +140,7 @@ Người đầu tiên bắt đầu chậm lại là Ara. So với Elena dùng li
 
 "Ara!"
 
-Nhát kiếm vung xuống bị lớp nước cản lại, con Water Monkey lập tức chồm lên phản đòn, nhưng mũi ma thương của Kuust đã kịp thời đâm tới. Do đạp đất lao tới lấy đà quá mạnh, con khỉ chẳng khác nào tự đâm sầm vào mũi thương; dưới tác dụng điều khiển nước của ngọn ma thương, lớp nước bọc quanh lông nó cũng mất tác dụng phòng hộ, khiến nó bị đâm xuyên người chết tươi.
+Nhát kiếm vung xuống bị lớp nước cản lại, con Water Monkey lập tức chồm lên phản đòn, nhưng mũi ma thương của Kuust đã kịp thời đâm tới. Do đạp đất lao tới lấy đà quá mạnh, con khỉ chẳng khác gì tự đâm sầm vào mũi thương; dưới tác dụng điều khiển nước của ngọn ma thương, lớp nước bọc quanh lông nó cũng mất tác dụng phòng hộ, khiến nó bị đâm xuyên người chết tươi.
 
 "Hộc, hộc, cảm ơn anh, Kuust."
 
@@ -164,7 +164,7 @@ Thế nhưng, nhát chém dùng sức quá đà đó có lẽ là sai lầm. Va 
 
 Con Water Monkey lườm Rei đầy căm hận rồi vẫn định lao tới tấn công Ara lúc này không còn vũ khí, nhưng có một bóng người đã ra tay nhanh hơn.
 
-"Ta không để các ngươi đụng vào thuộc hạ của ta đâu!"
+"Ta không để các ngươi hại đồng đội của ta đâu!"
 
 Lưỡi liên tiếp kiếm do Elena vung ra hóa thành ngọn roi uyển chuyển lướt đi giữa không trung như đang khiêu vũ, để lại phía sau là mấy con Water Monkey bị cắt đứt họng, máu tuôn xối xả rồi đổ gục xuống đất.
 
@@ -182,7 +182,7 @@ Vài con khác định nhân cơ hội đó ập vào, nhưng các mũi tên b�
 
 "Chậc, dai thật đấy!"
 
-Ba con Water Monkey cùng hai quả Thủy Cầu lại ập tới. Trước đợt công kích đó, Rei nghiêng người né quả Thủy Cầu đầu tiên rồi vung lưỡi hái chém toạc con khỉ đi đầu lẫn quả cầu nước còn lại. Liếc thấy bóng nó đổ sụp xuống đất cùng máu và nước bắn tung tóe, cậu xoay ngược lưỡi hái với chuyển động nhẹ bẫng — thật ra với Rei thì cây Lưỡi Hái Tử Thần gần như chẳng có chút trọng lượng nào — rồi chém đôi thân con Water Monkey đang chực lao lên từ sau lưng con vừa chết, còn con cuối cùng nhảy vọt lên cao tấn công từ góc chết ngay trên đỉnh đầu thì bị cậu xoay cổ tay đâm ngược mũi cán hái thẳng lên trên trong khi đà vung vừa dứt.
+Ba con Water Monkey cùng hai quả Thủy Cầu lại ập tới. Trước đợt công kích đó, Rei nghiêng người né quả Thủy Cầu đầu tiên rồi vung lưỡi hái chém toạc con khỉ đi đầu lẫn quả cầu nước còn lại. Liếc thấy bóng nó đổ sụp xuống đất cùng máu và nước bắn tung tóe, cậu xoay ngược lưỡi hái nhẹ bẫng (mà thật ra với Rei thì Lưỡi Hái Tử Thần gần như chẳng có chút sức nặng nào) rồi chém đôi thân con Water Monkey đang chực lao lên từ sau lưng con vừa chết. Cùng lúc đó, con cuối cùng nhảy vọt lên cao tấn công từ góc chết ngay trên đỉnh đầu, nhưng cậu đã nương theo đà vung vừa dứt mà lật cổ tay đâm ngược mũi cán hái thẳng lên trên.
 
 "Gié!?"
 
@@ -200,7 +200,7 @@ Nhờ đòn đánh của Rei, Elena cuối cùng cũng có thể thở phào m�
 
 (Đến cả Elena mà cũng thở dốc rồi à. Cơ mà chiến đấu liên tục suốt gần một tiếng không nghỉ thế này thì cũng chẳng trách được. Nghĩ lại thì Elena chỉ hơi thở gấp một chút thôi cũng đáng khen là bản lĩnh rồi.)
 
-Vừa chém đứt thân con Water Monkey bọc nước đang nhắm vào mình, Rei vừa thoáng đưa mắt nhìn quanh.
+Vừa chém đứt thân con Water Monkey bọc nước đang nhắm vào cậu, Rei vừa thoáng đưa mắt nhìn quanh.
 
 Thể lực của Ara đã gần chạm đáy, cô vừa thở hổn hển vừa vung kiếm, chỉ còn chống cự bằng ý chí; bên cạnh, Kuust múa ma thương cũng bắt đầu thở dốc. Phía sau, Vel bắn tên yểm trợ cho hai người họ cũng lộ rõ vẻ kiệt sức.
 
