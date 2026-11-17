@@ -24,7 +24,7 @@ Hôm qua, khi Rei ghé qua Hội như thường lệ, Lenora, người giờ đ�
 
 Vừa nhớ lại cuộc trò chuyện đó, Rei vừa đưa mắt nhìn những gương mặt xung quanh, những người sẽ cùng cậu tham gia bài thi thăng hạng.
 
-Đầu tiên là cái tên chẳng cần nói ai cũng biết, Arogan. Dù đã bẽ mặt trong vụ việc hôm nọ, nhưng gã dẫu sao vẫn là một kẻ dùng ma kiếm Hạng E. Tạm gác kỹ năng của bản thân sang một bên, đã cầm trong tay thanh ma kiếm có uy lực vượt trội như thế thì hẳn gã sẽ chuộng lối đánh lấy sức đè người.
+Đầu tiên là cái tên chẳng cần nói ai cũng biết, Arogan. Dù đã bẽ mặt trong vụ việc hôm nọ, nhưng gã dẫu sao vẫn là một kiếm sĩ Hạng E dùng ma kiếm. Tạm gác kỹ năng của bản thân sang một bên, đã cầm trong tay thanh ma kiếm có uy lực vượt trội như thế thì hẳn gã sẽ chuộng lối đánh lấy sức đè người.
 
 Người thứ hai là một cô gái cắt tóc ngắn gọn gàng để tiện bề cử động. Tương tự như mái tóc, cô mặc bộ giáp da làm từ da quái vật để không cản trở di chuyển, bên hông giắt hai thanh đoản kiếm. Hẳn là một đạo tặc chuyên trinh sát và kiểm tra bẫy. Tuổi đời trông chừng cuối độ tuổi thiếu niên.
 

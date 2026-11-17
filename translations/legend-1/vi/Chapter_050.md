@@ -40,7 +40,7 @@ Khác hẳn với bầu không khí căng thẳng bao trùm lấy Arogan đang n
 
 Ngay cả Culotte, người hôm qua vì quá căng thẳng mà hùng hổ kiếm chuyện với Rei, trải qua một ngày dường như cũng đã quen dần với áp lực nên thái độ đã hoàn toàn bình thường.
 
-Cảm thấy an lòng trước trạng thái của Culotte — người đóng vai trò là mắt, tai lẫn mũi của cả tổ đội, Rei vừa đưa chiếc bánh quy vào miệng vừa cất tiếng hỏi Gran.
+Cảm thấy an lòng trước trạng thái của Culotte, người đóng vai trò mắt, tai lẫn mũi của cả tổ đội, Rei vừa đưa chiếc bánh quy vào miệng vừa cất tiếng hỏi Gran.
 
 "Bài thi lần này là thảo phạt toán cướp, vậy chúng tôi có cần tính đến chuyện bắt sống không? Đợt thảo phạt Orc, tôi nghe Bobbs bảo nếu bắt sống được bọn cướp thì có thể đem bán làm nô lệ."
 
@@ -58,7 +58,7 @@ Trước lời lẩm bẩm đầy bất an của Culotte, Rei lên tiếng.
 
 Thực tế, dẫu mang danh là cướp, nhưng xét tổng thể cả về sức chiến đấu, khả năng phối hợp đồng bọn hay sự khôn ngoan của con người, thì mức độ nguy hiểm cùng thực lực tác chiến của chúng chỉ nằm ở khoảng trên Goblin và dưới Orc, xét theo thứ hạng thì cùng lắm chỉ tương đương Hạng E mà thôi.
 
-Chỉ có điều, vì cướp là con người — chính xác hơn là đôi khi có lẫn cả các á nhân như Elf, thú nhân hay Dwarf — nên mạo hiểm giả có khả năng sẽ ngần ngại xuống tay đoạt mạng, chính vì vậy mà thứ hạng nhiệm vụ mới được đẩy lên Hạng D.
+Chỉ có điều, vì cướp là con người (đôi khi có lẫn cả á nhân như Elf, thú nhân hay Dwarf) nên mạo hiểm giả có khả năng sẽ ngần ngại xuống tay đoạt mạng, chính vì vậy mà thứ hạng nhiệm vụ mới được đẩy lên Hạng D.
 
 "Chắc là vậy rồi. Quả thực, như giám khảo Gran từng nói, các thí sinh tham gia đợt thi lần này đều là những người có thực lực. Vả lại ngay từ đầu, trong tổ đội sáu người mà có tới ba người dùng được ma pháp thì đối với một nhiệm vụ diệt cướp, đội hình này đã là quá đỗi xa xỉ rồi."
 
@@ -136,7 +136,7 @@ Nghe câu hỏi đó, Culotte liền liếc nhìn gã như muốn hỏi có ph�
 
 Thấy Superbia gật đầu đồng thuận và cũng chẳng còn ai có ý kiến gì khác, khoảng thời gian sau đó chuyển thành giờ tự do.
 
-Culotte và Filma ngồi trò chuyện tâm tình giữa con gái với nhau, Arogan thì lau chùi thanh ma kiếm đầy tự hào của gã. Scola có lẽ đang luyện tập ma pháp nên cứ liên tục tạo ra rồi lại giải trừ ngọn roi nước từng dùng trong trận đấu tập hôm qua. Gran chẳng nói nửa lời, chỉ lặng lẽ quan sát tình hình của mọi người, còn Rei thì tráng miệng bằng trái Kumu đã mua trong thành — thứ quả có kết cấu giòn giống lê cùng vị chua của quýt.
+Culotte và Filma ngồi trò chuyện tâm tình giữa con gái với nhau, Arogan thì lau chùi thanh ma kiếm đầy tự hào của gã. Scola có lẽ đang luyện tập ma pháp nên cứ liên tục tạo ra rồi lại giải trừ ngọn roi nước từng dùng trong trận đấu tập hôm qua. Gran chẳng nói nửa lời, chỉ lặng lẽ quan sát tình hình của mọi người, còn Rei thì tráng miệng bằng trái Kumu đã mua trong thành, thứ quả có kết cấu giòn giống lê cùng vị chua của quýt.
 
 Giữa lúc ấy, Superbia tiến lại gần chỗ Rei rồi cất tiếng.
 

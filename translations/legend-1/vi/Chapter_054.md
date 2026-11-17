@@ -16,7 +16,7 @@ Cậu cầm Lưỡi Hái Tử Thần thủ thế, để tấm khiên ánh sáng 
 
 "C-Câm mồm! Đã là cướp thì còn sống sót mới có ý nghĩa! Này, tụi mày. Đồng loạt xông lên! Chỉ cần hạ được thằng này là chạy thoát!"
 
-Hắn quát bảo hai tên thân tín, bản thân cũng giương chiếc chiến rìu khổng lồ trên tay vào tư thế sẵn sàng chiến đấu.
+Hắn quát bảo hai tên thân tín, bản thân cũng giương chiếc rìu chiến khổng lồ trên tay vào tư thế sẵn sàng chiến đấu.
 
 "Hể, vẫn còn muốn đánh cơ à. ...Mà đằng nào thì mục đích lần này cũng là tiêu diệt toàn bộ bọn cướp, nên mày có chạy trốn, đầu hàng hay liều chết thì kết quả cũng chẳng thay đổi đâu."
 
@@ -32,11 +32,11 @@ Gã cầm giáo tận dụng tầm với vũ khí để không vướng víu hai
 
 Gã đàn ông còn lại chém kiếm từ bên phải Rei bổ xuống chân cậu.
 
-Và cuối cùng, tên thủ lĩnh cướp dồn sức mạnh cánh tay đáng tự hào của hắn bổ mạnh chiếc chiến rìu nhắm vào đầu Rei hòng đập nát sọ cậu.
+Và cuối cùng, tên thủ lĩnh cướp dồn sức mạnh cánh tay đáng tự hào của hắn bổ mạnh chiếc rìu chiến nhắm vào đầu Rei hòng đập nát sọ cậu.
 
 "Phối hợp còn non lắm."
 
-Cậu dùng Lưỡi Hái Tử Thần đã truyền ma lực đón đỡ đòn đánh của ngọn giáo, phạt đứt luôn mũi giáo, rồi ngay khoảnh khắc tiếp theo liền hất ngược cán hái lên gạt phăng lưỡi kiếm đang nhắm vào chân mình. Còn chiếc chiến rìu của tên thủ lĩnh nhắm vào đầu thì đã có Khiên Ma Thuật chặn đứng.
+Cậu dùng Lưỡi Hái Tử Thần đã truyền ma lực đón đỡ đòn đánh của ngọn giáo, phạt đứt luôn mũi giáo, rồi ngay khoảnh khắc tiếp theo liền hất ngược cán hái lên gạt phăng lưỡi kiếm đang nhắm vào chân mình. Còn chiếc rìu chiến của tên thủ lĩnh nhắm vào đầu thì đã có Khiên Ma Thuật chặn đứng.
 
 "Cái gì!?"
 
@@ -46,7 +46,7 @@ Gã cầm kiếm đổ sụp xuống đất trong khi máu từ cổ phun ra x�
 
 "M-Mày vừa làm gì thế hả!?"
 
-Về phần tên thủ lĩnh cướp, dẫu bàng hoàng trước việc đòn dốc sức của mình bị chặn đứng dễ như bỡn còn hơn cả việc hai tên thân tín bị hạ sát, hắn vẫn lập tức lùi lại và giương chiến rìu lên thủ thế lần nữa.
+Về phần tên thủ lĩnh cướp, dẫu bàng hoàng trước việc đòn dốc sức của mình bị chặn đứng dễ như bỡn còn hơn cả việc hai tên thân tín bị hạ sát, hắn vẫn lập tức lùi lại và giương rìu chiến lên thủ thế lần nữa.
 
 Dưới chân hắn lúc này máu me cùng ruột gan của gã cầm giáo đang vương vãi, nhưng trong cơn khát sống điên cuồng, tên thủ lĩnh chẳng màng tới điều đó mà chỉ dán mắt tìm kiếm sơ hở của Rei.
 
@@ -58,7 +58,7 @@ Cậu có thể mở lại Khiên Ma Thuật một lần nữa, nhưng nghĩ r�
 
 "Hự, khốn kiếp, chết tiệt, quân khốn nạn! Cất công bấy lâu nay mọi chuyện đều thuận buồm xuôi gió, cớ sao tụi mày lại đến phá đám hả! Nếu tụi mày không mò tới thì đâu đến nông nỗi nàyyy!"
 
-Tên thủ lĩnh vừa vung loạn xạ chiếc chiến rìu trên tay vừa gào thét. Biết rằng đường nào cũng chẳng thể trốn thoát, dường như hắn đã phát cơn cuồng loạn.
+Tên thủ lĩnh vừa vung loạn xạ chiếc rìu chiến trên tay vừa gào thét. Biết rằng đường nào cũng chẳng thể trốn thoát, dường như hắn đã phát cơn cuồng loạn.
 
 Rei nhìn bộ dạng đó của tên thủ lĩnh bằng vẻ mặt ngán ngẩm.
 
@@ -66,7 +66,7 @@ Rei nhìn bộ dạng đó của tên thủ lĩnh bằng vẻ mặt ngán ngẩm
 
 "Câm miệng đi thằng ranh con! Dám ăn nói hỗn láo với người lớn tuổi hơn mày à! Khôn hồn thì tránh đường raaa!"
 
-Chiếc chiến rìu bổ xuống kèm theo tiếng thét gào. Thế nhưng, đòn đánh đó chẳng có tốc độ, chẳng có uy lực, cũng chẳng có độ sắc bén. Đó thực sự chỉ là một nhát chém bạt mạng bằng sức tàn.
+Chiếc rìu chiến bổ xuống kèm theo tiếng thét gào. Thế nhưng, đòn đánh đó chẳng có tốc độ, chẳng có uy lực, cũng chẳng có độ sắc bén. Đó thực sự chỉ là một nhát chém bạt mạng bằng sức tàn.
 
 "...Thật khó coi. Hãy gặm nhấm tội lỗi của mình mà... chết đi."
 
@@ -82,7 +82,7 @@ Cậu vung mạnh Lưỡi Hái Tử Thần một đường để rũ sạch máu
 
 Nếu đối thủ là quái vật thì từ bước này sẽ chuyển sang mổ xẻ lấy nguyên liệu, nhưng dĩ nhiên chẳng có thứ nguyên liệu nào thu được từ con người, nên cậu cũng không cần phải làm cái trò quái đản là mổ xẻ xác người.
 
-(Dẫu sao thì đám bán nhân như Orc vẫn bị mổ xẻ đấy thôi, nên cảm giác này rốt cuộc cũng chỉ là chút đa cảm của con người mà thôi.)
+(Dẫu sao thì đám á nhân như Orc vẫn bị mổ xẻ đấy thôi, nên cảm giác này rốt cuộc cũng chỉ là chút đa cảm của con người mà thôi.)
 
 "Ừ. Tôi không ngờ lại phải đối đầu với ba mươi tên... Thế rồi, giờ tính sao đây?"
 

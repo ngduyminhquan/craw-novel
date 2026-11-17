@@ -28,9 +28,9 @@ Vừa thấy bóng dáng Rei, Ranga liền bước thẳng tới cất tiếng c
 
 "Không, là bài thi thăng hạng. Cơ mà đợi tôi một lát đã. Tôi có hẹn ở đây..."
 
-"Bé Set ơiii! Khỏe không em? A, Rei cũng từ hôm qua tới giờ nhỉ."
+"Bé Set ơiii! Khỏe không em? A, cả Rei nữa, mới gặp hôm qua nhỉ."
 
-Đúng là vừa nhắc tào tháo thì tào tháo tới, vừa ngoảnh lại đã thấy Milein, trưởng nhóm của tổ đội Cơn Gió Rực Lửa, nơi cậu gửi gắm Set, đang ôm chầm lấy Set, tíu tít xoa đầu vuốt lưng nó.
+Đúng là vừa nhắc Tào Tháo thì Tào Tháo tới, vừa ngoảnh lại đã thấy Milein, trưởng nhóm của tổ đội Cơn Gió Rực Lửa, nơi cậu gửi gắm Set, đang ôm chầm lấy Set, tíu tít xoa đầu vuốt lưng nó.
 
 "Chà, lông vẫn mềm mượt thích tay như mọi khi... Nhưng mà đúng là trông ỉu xìu thật đấy nhỉ. Xa Rei có thể buồn một chút, nhưng mấy ngày tới nhờ cậy em nhé."
 

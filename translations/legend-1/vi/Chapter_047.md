@@ -30,7 +30,7 @@ Khi đối diện với Superbia đã vào thế thủ vũ khí, cậu bất gi�
 
 Về phần mình, Superbia cũng quan sát tư thế cầm Lưỡi Hái Tử Thần của Rei và càng nâng cao cảnh giác.
 
-(Cậu ta tự xưng là Ma Pháp Chiến Sĩ... nhưng xem ra thiên về chiến sĩ nhiều hơn. Lại còn là tay cực kỳ thiện chiến nữa. Đứng đối mặt thế này mà chẳng tìm ra chút sơ hở nào để ra đòn. Có điều, vũ khí của cậu ta là cây lưỡi hái khổng lồ kia. Với thứ vũ khí dài ngoẵng như vậy, chỉ cần áp sát vào cự ly gần thì hẳn sẽ rất khó xoay xở. Vậy thì!)
+(Cậu ta tự xưng là Ma Pháp Chiến Sĩ... nhưng xem ra thiên về chiến sĩ nhiều hơn. Lại còn là tay cực kỳ thiện chiến nữa. Đứng đối mặt thế này mà chẳng tìm ra chút sơ hở nào để ra đòn. Có điều, vũ khí của cậu ta là cây lưỡi hái khổng lồ kia. Với thứ vũ khí dài ngoằng như vậy, chỉ cần áp sát vào cự ly gần thì hẳn sẽ rất khó xoay xở. Vậy thì!)
 
 "Haaaaaa!"
 
@@ -82,7 +82,7 @@ Thấy vậy, Rei cũng đi về một góc cách Superbia một đoạn.
 
 "Không, chẳng phải mơ đâu. Thực tế đấy. Kìa, nhìn đằng kia xem. Vết cày trên mặt đất vẫn còn rành rành ra đó kìa."
 
-"Ừ nhỉ. Cây lưỡi hái lớn đó trông to đùng như thế, bảo nó nặng với có sức tàn phá lớn thì còn hiểu được. Cơ mà thằng nhóc Rei trông nhỏ con, mảnh khảnh như thế, sao lại tung ra được thứ sức mạnh kinh người như vậy chứ? Với lại, bảo trình cỡ đó mà chỉ là Hạng E thì ai tin cho nổi?"
+"Ừ nhỉ. Cây lưỡi hái lớn đó trông to đùng như thế, bảo nó nặng với có sức tàn phá lớn thì còn hiểu được. Cơ mà thằng nhóc Rei trông nhỏ con, mảnh khảnh như thế, sao lại tung ra được thứ sức mạnh kinh người như vậy chứ? Với lại, trình cỡ đó mà bảo chỉ là Hạng E thì ai tin cho nổi?"
 
 "Mà tao cũng đoán trước được phần nào rồi."
 

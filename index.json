@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:55:40Z",
+  "generatedAt": "2026-11-17T02:27:14Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2428,13 +2428,13 @@
           "number": 46,
           "title": "Chương 46: Bài thi thăng hạng (46)",
           "path": "translations/legend-1/vi/Chapter_046.md",
-          "sha": "237f9fee3d1e5e17f24420c8b98261d1f14ecc6c"
+          "sha": "a0dfdb40b6e20aeba32951efb2ecb660028079ee"
         },
         {
           "number": 47,
           "title": "Chương 47: Bài thi thăng hạng (47)",
           "path": "translations/legend-1/vi/Chapter_047.md",
-          "sha": "6d7d228fc64190f55faabd2563ffb8689b8aacc1"
+          "sha": "24a3a239c6e680ef434c2c20a55ae86f6c6c9022"
         },
         {
           "number": 48,
@@ -2446,19 +2446,19 @@
           "number": 49,
           "title": "Chương 49: Bài thi thăng hạng (49)",
           "path": "translations/legend-1/vi/Chapter_049.md",
-          "sha": "f13c3326a9b7af1d8e0141167c24a5903333a896"
+          "sha": "8fcd16a79df8aa5ab9f2da642fe50d31bc41d63a"
         },
         {
           "number": 50,
           "title": "Chương 50: Bài thi thăng hạng (50)",
           "path": "translations/legend-1/vi/Chapter_050.md",
-          "sha": "2ea3cab9baee63cd016b9440525dc1d7bd685bd5"
+          "sha": "017e0d4c6899ea5f1cf1fe6ede901b8a4efa5a93"
         },
         {
           "number": 51,
           "title": "Chương 51: Bài thi thăng hạng (51)",
           "path": "translations/legend-1/vi/Chapter_051.md",
-          "sha": "2665279044054db1c3f8e24ae8182c772357b216"
+          "sha": "140b44543fcf1c85656c7c96bb93bf6d9cb2319c"
         },
         {
           "number": 52,
@@ -2470,13 +2470,13 @@
           "number": 53,
           "title": "Chương 53: Bài thi thăng hạng (53)",
           "path": "translations/legend-1/vi/Chapter_053.md",
-          "sha": "60755a1f7a1d104ecaa9e4b7c3a6f153b331491e"
+          "sha": "aeac37133dbb1e06a3c078017e44dc97a0de7dc9"
         },
         {
           "number": 54,
           "title": "Chương 54: Bài thi thăng hạng (54)",
           "path": "translations/legend-1/vi/Chapter_054.md",
-          "sha": "c04bbda10400942e1182857677cf98ac0e4fa729"
+          "sha": "f1e1631a9ea2a7f05578363157b2febe6a6fe699"
         }
       ]
     },

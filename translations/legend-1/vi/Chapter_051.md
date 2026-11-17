@@ -80,7 +80,7 @@ Trong tâm trí, cậu nhớ lại những lời từng giải thích với Rang
 
 "Chà. Nơi rừng sâu núi thẳm cơ à, thế thì sống hệt như tộc Elf bọn tôi rồi còn gì."
 
-"Có lẽ vậy. Rồi thì, tóm lại là sau khi học hết mọi ma pháp từ sư phụ, vừa xong xuôi là tôi cùng Set — à, con Griffin tôi thuần hóa ấy — bị ma pháp dịch chuyển tống thẳng tới một nơi gọi là Rừng Ma. Sau đó tôi thoát khỏi Rừng Ma rồi mới tới được thành phố Gilm này."
+"Có lẽ vậy. Rồi thì, tóm lại là sau khi học hết mọi ma pháp từ sư phụ, vừa xong xuôi là tôi cùng Set, à, con Griffin tôi thuần hóa ấy, bị ma pháp dịch chuyển tống thẳng tới một nơi gọi là Rừng Ma. Sau đó tôi thoát khỏi Rừng Ma rồi mới tới được thành phố Gilm này."
 
 Nghe Rei giải thích, Filma lộ vẻ mặt sững sờ.
 

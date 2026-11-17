@@ -94,7 +94,7 @@ Superbia quát lớn, một kiếm bổ thẳng vào đầu tên cướp bên c�
 
 Arogan cũng nhận ra đây chẳng phải lúc để hoang mang hay do dự, liền ra sức vung ma kiếm chém giết đối phương.
 
-Để hỗ trợ hai người họ, Scola liên tục tung các ma pháp công kích hệ Phong và hệ Thủy, trong khi Filma từ cây cung Đạo Cụ Ma Thuật không ngừng bắn ra những mũi tên mang thuộc tính phong yểm trợ đắc lực cho tuyến đầu.
+Để hỗ trợ hai người họ, Scola liên tục tung các ma pháp công kích hệ Phong và hệ Thủy, trong khi Filma từ cây cung Đạo Cụ Ma Thuật không ngừng bắn ra những mũi tên mang thuộc tính Phong yểm trợ đắc lực cho tuyến đầu.
 
 "Mẹ kiếp, xử lý ba đứa đằng sau trước đi!"
 
