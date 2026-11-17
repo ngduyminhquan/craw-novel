@@ -151,3 +151,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Culotte | Superbia | tôi | anh | 52 | Đồng đội trong bài thi thăng hạng |
 | Scola | Arogan | tôi | anh | 54 | Thí sinh cùng tham gia bài thi thăng hạng |
 | Arogan | Scola | tôi | cậu | 54 | Thí sinh cùng tham gia bài thi thăng hạng |
+| Superbia | Filma | tôi | cô / Filma | 55 | Nói chuyện trong bài thi thăng hạng |
+| Filma | Superbia | tôi | anh / Superbia | 55 | Nói chuyện trong bài thi thăng hạng |
+| Scola | Superbia | tôi | anh | 55 | Thí sinh cùng tham gia bài thi thăng hạng |
+| Superbia | Scola | tôi | cậu | 55 | Thí sinh cùng tham gia bài thi thăng hạng |

@@ -170,3 +170,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | アンデッド |  | Undead | quái vật | 54 | Chủng quái vật bất tử gồm Zombie, Skeleton, Ghost... |
 | ゾンビ |  | Zombie | quái vật | 54 | Quái vật xác sống thuộc hệ Undead |
 | スケルトン |  | Skeleton | quái vật | 54 | Quái vật bộ xương thuộc hệ Undead |
+| 毒の爪 |  | Móng Vuốt Độc | kỹ năng | 55 | Kỹ năng của Set học từ Ma Thạch của Treant chủng hiếm mang độc |

@@ -51,7 +51,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Trái ngược vẻ ngoài hung dữ của loài Griffin, Set cực kỳ thân thiện, thích làm nũng, ham ăn, thích đồ lấp lánh, thông minh và hiểu tiếng người.
 - Cách nói chuyện: Kêu `"Gùuu"`, `"Gừưư"`, `"Grrr!"` và biểu đạt qua cử chỉ dụi đầu, nghiêng đầu.
 - Quan hệ với nhân vật khác: Ma thú sinh ra từ ma lực của Rei, tuyệt đối trung thành và quấn quýt với Rei.
-- Kỹ năng: Thủy Cầu Lv.1 (chương 6), Hơi Thở Lửa Lv.2 (nâng cấp chương 44), Mũi Tên Gió Lv.1 (chương 44), Uy Áp Vương Giả Lv.1 (chương 44).
+- Kỹ năng: Thủy Cầu Lv.1 (chương 6), Hơi Thở Lửa Lv.2 (nâng cấp chương 44), Mũi Tên Gió Lv.1 (chương 44), Uy Áp Vương Giả Lv.1 (chương 44), Móng Vuốt Độc Lv.1 (chương 55).
 - Trạng thái: bay được, cõng Rei bay và phi đường dài qua Rừng Ma; đã được cấp Vòng Cổ Tùng Ma tại thành phố Gilm.
 
 ### Ranga
