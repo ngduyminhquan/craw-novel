@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T04:28:00Z",
+  "generatedAt": "2026-11-17T04:41:26Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2518,19 +2518,19 @@
           "number": 61,
           "title": "Chương 61: Tế đàn kế thừa (61)",
           "path": "translations/legend-1/vi/Chapter_061.md",
-          "sha": "efd5f7b8390c67ad307a102e335c2666c3182984"
+          "sha": "1091b03ebd19572c450e316ac9c1d81cf63e83cd"
         },
         {
           "number": 62,
           "title": "Chương 62: Tế đàn kế thừa (62)",
           "path": "translations/legend-1/vi/Chapter_062.md",
-          "sha": "c6df9d61392d0e5a5fd019343f5ceb920395cdbd"
+          "sha": "5c1c8f08fba316ea9ddc2ecdbec808bed9216e0a"
         },
         {
           "number": 63,
           "title": "Chương 63: Tế đàn kế thừa (63)",
           "path": "translations/legend-1/vi/Chapter_063.md",
-          "sha": "12a5dbea3425059aba3ebc0cc3be74bfb65d7a8e"
+          "sha": "ed051d6071545b01dd44168c3ab9af3d862e549b"
         }
       ]
     },

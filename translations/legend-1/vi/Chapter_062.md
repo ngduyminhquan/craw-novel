@@ -2,7 +2,7 @@
 
 Vừa bước vào phòng lãnh chúa, Rei đã bất ngờ bị tấn công. Dù đã lờ mờ đoán được thân phận của kẻ tập kích, cậu vẫn ứng chiến để phô diễn thực lực của mình, và ngay khoảnh khắc đòn chí mạng sắp sửa giáng xuống, chủ nhân căn phòng, tức Bá tước biên cảnh Rowlocks, lãnh chúa cai quản thành phố Gilm này, đã cất tiếng can ngăn.
 
-Bị hất bổng lên không trung và suýt chút nữa thì ăn trọn một đòn bổ từ lưỡi của Lưỡi Hái Tử Thần vào người, gã đàn ông cố gắng giữ thăng bằng rồi tiếp đất xuống sàn. Nhưng...
+Bị hất bổng lên không trung và suýt chút nữa thì ăn trọn một đòn bổ từ lưỡi của Lưỡi Hái Tử Thần vào người, người đàn ông cố gắng giữ thăng bằng rồi tiếp đất xuống sàn. Nhưng...
 
 "Hự..."
 
@@ -38,7 +38,7 @@ Trước tình huống đó, Rei cúi đầu với vẻ còn chút lúng túng r
 
 "À, không cần bận tâm đâu. Thay vào đó cứ ngồi xuống đằng kia đi. Giờ ta sẽ bàn chi tiết về ủy thác."
 
-Về cơ bản, ý thức của Rei vẫn là của Saeki Reiji — người lớn lên ở vùng Tohoku của Nhật Bản, mà lại là vùng quê hẻo lánh gần núi non. Lời ăn tiếng nói của cậu dĩ nhiên cũng đúng với xuất thân ấy, hoàn toàn không hợp để thưa gửi với quý tộc... Nhưng may thay, Bá tước biên cảnh Rowlocks vốn mang cốt cách võ tướng, tính tình không câu nệ lễ nghi tiểu tiết nên dường như chẳng hề bận tâm.
+Về cơ bản, ý thức của Rei vẫn là của Saeki Reiji, một người lớn lên ở vùng quê hẻo lánh gần núi thuộc vùng Tohoku của Nhật Bản. Lời ăn tiếng nói của cậu dĩ nhiên cũng đúng với xuất thân ấy, hoàn toàn không hợp để thưa gửi với quý tộc... Nhưng may thay, Bá tước biên cảnh Rowlocks vốn mang cốt cách võ tướng, tính tình không câu nệ lễ nghi tiểu tiết nên dường như chẳng hề bận tâm.
 
 ...Chỉ là, như để bù lại, Kuust lại đang ném về phía Rei một ánh mắt đầy ngờ vực.
 
@@ -118,13 +118,13 @@ Trước lời Kuust phản ứng vì nghĩ ông bảo quý tộc không có th�
 
 "...Vâng."
 
-"Và cuối cùng, cậu ta còn có một con Griffin — quái vật Hạng A đi theo hầu cận. Cậu vẫn còn điều gì chưa vừa ý sao?"
+"Và cuối cùng, cậu ta còn thu phục cả một con Griffin, loài quái vật Hạng A. Cậu vẫn còn điều gì chưa vừa ý sao?"
 
 "Không ạ. Đã là nhã ý của Bá tước biên cảnh Rowlocks thì tôi xin phép đón nhận. Vậy tôi xin phép cáo lui tại đây để chuẩn bị đón tiếp tiểu thư Elena vào ngày mai. ...Này, ngươi tên là Rei đúng không. Ngươi cũng cần phải gặp mặt tiểu thư Elena nữa đấy. Sáng mai khi chuông chín giờ sáng vang lên thì hãy có mặt trước cổng chính của thành phố. ...Dắt theo cả con Griffin gì đó của ngươi nữa. Nhớ đấy, tuyệt đối không được thất lễ trước mặt tiểu thư Elena đâu."
 
 Kuust liếc xéo Rei một cái đầy khinh miệt, nói xong bấy nhiêu liền rảo bước ra khỏi phòng.
 
-Dù có là chỉ thị của Bá tước biên cảnh Rowlocks, lãnh chúa của thành phố này đi nữa, anh ta vẫn không nuốt trôi việc một kẻ như Rei lại được sánh bước cùng những quý tộc như mình.
+Dù có là chỉ thị của Bá tước biên cảnh Rowlocks, lãnh chúa của thành phố này đi nữa, anh vẫn không nuốt trôi việc một kẻ như Rei lại được sánh bước cùng những quý tộc như mình.
 
 (Khốn kiếp, cớ sao một người như ta lại phải bận tâm tới loại thường dân như thế chứ. Bá tước biên cảnh cũng thật là. Lại để một kẻ không rõ lai lịch gốc gác đến gần tiểu thư Elena... Rốt cuộc ông ta tính toán cái gì? Chẳng lẽ đúng như Vel lo lắng, ông ta định nhân cơ hội này làm suy yếu quyền lực và lực lượng của Phe Quý Tộc sao?)
 
@@ -132,13 +132,13 @@ Những lời người đồng nghiệp Vel nói trước khi lên đường t�
 
 Đó là chuyện rất có thể Bá tước biên cảnh Rowlocks đang toan tính điều gì đó trong chuyến đi lần này của Elena. Vì thế, nhằm phòng ngừa nguy cơ bất trắc, Vel đã bàn với Công tước Kerebel chỉ cho phép mạo hiểm giả từ Hạng D trở xuống đi theo nhóm Elena...
 
-(Chiến lực vừa rồi có thế nào cũng không thể là Hạng D được. Nói về thực lực thì phải là Hạng B... không, bảo là Hạng A cũng chẳng ngoa. Đã thế lại còn có cả Griffin — quái vật Hạng A đi theo hầu cận nữa chứ? ...Nguy hiểm thật đấy. Tốt nhất khi nhóm tiểu thư Elena tới nơi, phải nhờ Vel điều tra gốc tích mới được.)
+(Chiến lực vừa rồi có thế nào cũng không thể là Hạng D được. Nói về thực lực thì phải là Hạng B... không, bảo là Hạng A cũng chẳng ngoa. Đã thế lại còn thu phục cả Griffin, quái vật Hạng A nữa chứ? ...Nguy hiểm thật đấy. Tốt nhất khi nhóm tiểu thư Elena tới nơi, phải nhờ Vel điều tra gốc tích mới được.)
 
 Kuust nhớ lại hình ảnh người đồng nghiệp tuy tính tình cợt nhả nhưng lại rất sành sỏi mấy chuyện điều tra ngầm.
 
 Vốn dĩ người đi tiền trạm cho đoàn của Elena phải là cấp dưới chứ không phải đội trưởng như anh. Thế nhưng Elena muốn thể hiện thành ý vì sắp tới sẽ phải nhờ vả nơi này, nên mới lệnh cho Kuust đích thân đi trước làm người báo tin.
 
-Ban đầu, việc phải rời xa Elena, người mà anh hết lòng sùng kính, chẳng khác nào nỗi đau cắt ruột. Nhưng giờ khi đã đặt chân tới thành phố Gilm và đích thân cảm nhận được nơi này nguy hiểm đến mức nào, anh thầm nghĩ chuyến đi này rốt cuộc lại là một điều may mắn.
+Ban đầu, phải rời xa Elena, người mà anh hết lòng sùng kính, khiến anh đau như cắt từng khúc ruột. Nhưng giờ khi đã đặt chân tới thành phố Gilm và đích thân cảm nhận được nơi này nguy hiểm đến mức nào, anh thầm nghĩ chuyến đi này rốt cuộc lại là một điều may mắn.
 
 "Thứ lỗi cho ta nhé."
 
@@ -148,15 +148,15 @@ Quý tộc bình thường vì thể diện uy quyền nên chẳng mấy khi m�
 
 "Không sao đâu ạ, với quý tộc thì thái độ kiểu đó có khi lại là chuyện bình thường, nên tôi cũng không để... để ý đâu."
 
-"Ha ha. Có vẻ cậu ngán dùng kính ngữ dữ lắm nhỉ."
+"Khục khục. Xem ra cậu không quen dùng kính ngữ lắm nhỉ."
 
 Daska bất giác bật cười trước cảnh Rei phải cố sửa lại lời. Nhưng rồi ông nhanh chóng lấy lại vẻ mặt nghiêm túc rồi nói tiếp.
 
 "Nhưng một khi đã lên Hạng D, khả năng cậu phải tiếp xúc với giới quý tộc cũng sẽ nhiều lên đấy. Huống hồ báo cáo gửi về cho biết nếu xét riêng thực lực thì cậu đã sánh ngang Hạng B hay Hạng A rồi. Nhân lúc này tập làm quen với cách ăn nói dần đi là vừa."
 
-"...Vâng. Nhưng dù có thực lực đi nữa, việc để một kẻ gần như mới gặp lần đầu như tôi ở riêng với ngài thế này chẳng phải quá nguy hiểm sao?"
+"...Vâng. Nhưng dù có thực lực đi nữa, để một người gần như mới gặp lần đầu như mình ở riêng với ngài thế này chẳng phải quá nguy hiểm sao?"
 
-"Chỗ đó thay vì xưng 'tôi' cộc lốc thì nên xưng là 'bản thân' hay 'kẻ hèn này' thì hơn đấy... cơ mà thôi, chuyện đó tuỳ người vậy. Dù sao chính ta cũng chẳng ưa kiểu ăn nói khép nép ấy. Mà nãy nói gì nhỉ? À, chuyện đối mặt thế này nguy hiểm chứ gì... Cậu cũng nhận ra rồi đúng không?"
+"Chỗ đó thay vì xưng 'mình' thì nên xưng là 'bản thân' hay 'tôi' mới phải... cơ mà thôi, chuyện đó tùy người vậy. Dù sao chính ta cũng chẳng dùng kiểu ăn nói khách sáo ấy. Mà nãy nói gì nhỉ? À, chuyện ngồi đối diện thế này nguy hiểm chứ gì... Cậu cũng nhận ra rồi đúng không?"
 
 Trước lời nói đầy ẩn ý của Daska, Rei khẽ liếc mắt về phía cánh cửa thông sang phòng bên cạnh, rồi nhìn lên trần nhà và xuống sàn.
 
@@ -184,11 +184,11 @@ Bản đồ hầm ngục đối với các tầng nông thường được bán 
 
 Nhưng mà.
 
-"Chuyện đó thì bên ta đã chuẩn bị rồi. Dù không thể có bản đồ tới tận khu tầng sâu nhất nơi có Tế đàn kế thừa, nhưng đến các tầng trung thì ta vẫn lo được. Có điều thông tin đó rất quý giá. Bản đồ chuẩn bị được chỉ có đúng một tấm, và người giữ nó không phải cậu mà là tiểu thư Elena — đội trưởng của chuyến thám hiểm lần này."
+"Chuyện đó thì bên ta đã chuẩn bị rồi. Dù không thể có bản đồ tới tận khu tầng sâu nhất nơi có Tế đàn kế thừa, nhưng đến các tầng trung thì ta vẫn lo được. Có điều thông tin đó rất quý giá. Bản đồ chuẩn bị được chỉ có đúng một tấm, và người giữ nó không phải cậu mà là tiểu thư Elena, đội trưởng của chuyến thám hiểm lần này."
 
 "Tôi hiểu rồi. Dù chỉ đến một tầng nhất định nhưng có bản đồ là đỡ lắm rồi."
 
-"...Trông cậy vào cậu đấy. Nói thật, ủy thác lần này có quá nhiều điểm mập mờ. Dẫu được gọi là Công Chúa Tướng Quân, nhưng nơi tiểu thư Elena từng trải chủ yếu vẫn là chiến trường giữa con người với nhau. Vậy mà đội hộ vệ chẳng hiểu sao chỉ có vài ba người. Đã thế mạo hiểm giả bên ta phái đi lại chỉ được từ Hạng D trở xuống. Lộ liễu đến mức này khiến người ta ngược lại còn ngờ rằng liệu có uẩn khúc gì đằng sau hay không. ...Nhưng ngộ nhỡ tiểu thư Elena mất mạng trong ủy thác lần này thì ta khó lòng tránh khỏi trách nhiệm."
+"...Trông cậy vào cậu đấy. Nói thật, ủy thác lần này có quá nhiều điểm mập mờ. Dù được gọi là Công Chúa Tướng Quân, nhưng nơi tiểu thư Elena từng trải chủ yếu vẫn là chiến trường giữa con người với nhau. Vậy mà đội hộ vệ chẳng hiểu sao chỉ có vài ba người. Đã thế mạo hiểm giả bên ta phái đi lại chỉ được từ Hạng D trở xuống. Lộ liễu đến mức này khiến người ta ngược lại còn tưởng là chẳng có uẩn khúc gì đằng sau. ...Nhưng ngộ nhỡ tiểu thư Elena mất mạng trong ủy thác lần này thì ta khó lòng tránh khỏi trách nhiệm."
 
 "Nhưng chẳng phải phía bên kia đòi hỏi quá vô lý sao? Cứ để tổ đội tầm cỡ như Rìu Lôi Thần đi cùng thì đâu còn vấn đề gì nữa..."
 
@@ -198,4 +198,4 @@ Daska lại một lần nữa cúi đầu.
 
 "Xin ngài ngẩng đầu lên đi ạ. Tôi cũng không muốn thành phố này bị mấy kẻ kỳ quặc đến quấy nhiễu đâu, nên tôi sẽ cố hết sức."
 
-Cứ như thế, Rei chẳng đặng đừng mà bị cuốn vào vòng xoáy tranh chấp của giới quý tộc.
+Cứ như thế, dù muốn hay không, Rei cũng bị cuốn vào cuộc tranh chấp của giới quý tộc.

@@ -16,17 +16,17 @@ Người phụ nữ vừa dứt lời liền vung mạnh thứ vũ khí đang c�
 
 Vũ khí đó thoạt nhìn chỉ dài hơn kiếm dài thông thường đôi chút, trông như một thanh kiếm bình thường. Nhưng khi người phụ nữ vung mạnh, mũi kiếm lại duỗi dài ra và uốn lượn như một ngọn roi, đồng thời các lưỡi dao cũng gắn rải rác dọc theo thân roi ấy. Đó chính là loại vũ khí được gọi là liên tiếp kiếm hay xà phúc kiếm. Vốn dĩ đây là một loại Đạo Cụ Ma Thuật đòi hỏi kỹ thuật cực kỳ cao mới có thể sử dụng được, thế nhưng người phụ nữ lại vung vẩy thanh liên tiếp kiếm như đang múa.
 
-Và người phụ nữ ấy cũng sở hữu một nhan sắc tuyệt trần, hoàn toàn xứng đôi với vũ điệu tuyệt mỹ kia. Gương mặt cô thanh tú tựa như một tác phẩm nghệ thuật, đôi mắt xếch sắc sảo toát lên vẻ mạnh mẽ và ý chí kiên định, cùng sức quyến rũ nồng nàn đặc trưng của độ tuổi mười tám đôi mươi—giai đoạn chuyển mình từ thiếu nữ thành phụ nữ. Mái tóc vàng óng ả lộng lẫy tựa như dệt từ những sợi chỉ vàng buông dài tới giữa lưng. Phần đuôi tóc uốn cong thành từng lọn tròn, kiểu tóc mà người ta hay gọi là tóc lọn xoăn.
+Và người phụ nữ ấy cũng sở hữu một nhan sắc tuyệt trần, hoàn toàn xứng đôi với vũ điệu tuyệt mỹ kia. Gương mặt cô thanh tú như một tác phẩm nghệ thuật, đôi mắt dài sắc sảo toát lên vẻ mạnh mẽ và ý chí kiên định, cùng sức quyến rũ nồng nàn đặc trưng của độ tuổi mười tám đôi mươi, giai đoạn chuyển mình từ thiếu nữ thành phụ nữ. Mái tóc vàng óng ả lộng lẫy như dệt từ những sợi chỉ vàng buông dài tới giữa lưng. Phần đuôi tóc uốn cong thành từng lọn tròn, kiểu tóc mà người ta hay gọi là tóc lọn xoăn.
 
-Bộ giáp bảo vệ cơ thể cô cũng là một Đạo Cụ Ma Thuật tương tự như thanh liên tiếp kiếm. Tác dụng của nó là ban phước lành của gió, giúp gia tăng tốc độ và mang lại cho người trang bị khả năng đọc gió. Tấm áo choàng hoàng kim mang sắc màu tương tự như mái tóc vàng bảo vệ phía sau lưng cô là Đạo Cụ Ma Thuật có tác dụng cảm nhận nguy hiểm. Đôi chân cô mang Giày Sleipnir, cho phép đạp vào không trung vài bước. Nơi khe ngực căng đầy đầy mê hoặc, đủ sức hút chặt mọi ánh nhìn của đàn ông, là một sợi dây chuyền giúp gia tăng ma pháp phòng ngự.
+Bộ giáp bảo vệ cơ thể cô cũng là một Đạo Cụ Ma Thuật tương tự như thanh liên tiếp kiếm. Tác dụng của nó là ban phước lành của gió, giúp gia tăng tốc độ và mang lại cho người trang bị khả năng đọc gió. Sau lưng cô là tấm áo choàng sắc vàng óng ả tiệp màu với mái tóc, một Đạo Cụ Ma Thuật có khả năng cảm nhận nguy hiểm. Đôi chân cô mang Giày Sleipnir, cho phép đạp vào không trung vài bước. Nơi khe ngực căng tròn mê hoặc, đủ sức hút chặt mọi ánh nhìn của đàn ông, là một sợi dây chuyền giúp tăng sức phòng ngự trước ma pháp.
 
 Người phụ nữ này quả thực được trang bị Đạo Cụ Ma Thuật từ đầu đến chân, nhưng điều đáng kinh ngạc hơn cả là cô không hề ỷ lại vào tính năng của chúng mà đã hoàn toàn làm chủ được tất cả.
 
 "Sao thế, muốn chiếm đoạt ta lắm chứ gì? Thế thì thể hiện sức mạnh của các ngươi ra xem nào! Ta tuyệt đối không bao giờ trao thân cho kẻ yếu hơn mình đâu!"
 
-Người phụ nữ vừa quát lớn vừa vung thanh liên tiếp kiếm. Có lẽ do những chuyển động vung kiếm mãnh liệt tựa như đang múa kia, lũ Orc dù biết tính mạng sắp bị tước đoạt nhưng vẫn ngây dại ngắm nhìn nhan sắc của cô cho tới tận khi đầu bị thanh liên tiếp kiếm chặt đứt. Vài giọt máu từ chiếc cổ bị chém đứt của con Orc bắn lên làn da trắng ngần, nhưng ngay cả những giọt máu ấy cũng chỉ như nét điểm trang càng làm tôn thêm vẻ diễm lệ của cô.
+Người phụ nữ vừa quát lớn vừa vung thanh liên tiếp kiếm. Có lẽ do những đường kiếm mãnh liệt uyển chuyển như múa kia, lũ Orc dù biết sắp mất mạng nhưng vẫn ngây dại ngắm nhìn nhan sắc của cô cho tới tận lúc thanh liên tiếp kiếm chém bay đầu. Vài giọt máu từ cổ con Orc văng lên làn da trắng ngần, nhưng ngay cả những giọt máu ấy cũng chỉ như nét điểm trang càng làm tôn thêm vẻ diễm lệ của cô.
 
-Dáng vẻ ấy vừa đẹp đẽ, hoa lệ khôn cùng, nhưng cũng vừa tàn nhẫn khôn xiết. Không chỉ có vẻ đẹp và sự tàn nhẫn, cô còn toát lên sức hút mê hoặc lòng người, hay nói cách khác là uy nghiêm của một vị tướng. Dáng hình có thể ví như chiến thần hay nữ thần sắc đẹp ấy, nếu gượng ép dùng một từ để diễn tả, thì có lẽ chính là chiến nữ thần.
+Dáng vẻ ấy vừa đẹp đẽ, lộng lẫy hết mức, mà cũng vừa tàn nhẫn vô cùng. Không chỉ có vẻ đẹp và sự tàn nhẫn, cô còn toát lên sức hút cuốn lấy ánh nhìn của người khác, hay cũng có thể gọi là uy nghiêm của một vị tướng. Dáng hình vừa giống thần chiến tranh vừa giống nữ thần sắc đẹp ấy, nếu phải gói gọn trong một từ thì có lẽ chính là Nữ thần chiến tranh.
 
 Đúng vậy, người phụ nữ đang một mình áp đảo hơn mười con Orc kia chính là Elena Kerebel. Cô là tiểu thư nhà Công tước Kerebel, một nhân vật vang danh với tư cách Công Chúa Tướng Quân không chỉ tại Vương quốc Mireana hay Đế quốc Bestia, nơi cô đã làm nên tên tuổi qua chiến công hiển hách, mà còn trên toàn thể các quốc gia lân cận.
 
@@ -34,7 +34,7 @@ Dáng vẻ ấy vừa đẹp đẽ, hoa lệ khôn cùng, nhưng cũng vừa tà
 
 "Đúng là tiểu thư Elena. Lũ Orc tép riu chẳng bõ để tiểu thư bận tâm."
 
-Người đang say đắm ngắm nhìn Elena săn lùng Orc tựa như đang múa là một nữ hiệp sĩ. Cô khoảng mười tám đôi mươi, nhưng kém Elena một chút tuổi. Tên cô là Ara Scarley, một trong những thành viên thuộc đội hộ vệ của Elena. Việc cô có họ quý tộc là nhờ thân phận con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
+Người đang say đắm ngắm nhìn Elena săn lùng Orc như đang múa là một nữ hiệp sĩ. Cô khoảng mười tám đôi mươi, nhỏ tuổi hơn Elena một chút. Tên cô là Ara Scarley, một thành viên trong đội hộ vệ của Elena. Cô có họ riêng vì là con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
 
 "Aizz, thật tình, nữ vương nhà mình đẹp thì đẹp thật nhưng cũng đáng sợ ghê, hay là vì đáng sợ nên mới đẹp đây..."
 
@@ -86,7 +86,7 @@ Ara nhẹ nhàng đưa ra một chiếc khăn tay lụa.
 
 "Cảm ơn Ara."
 
-Vừa dùng chiếc khăn tay lụa nhẹ nhàng lau đi vết máu trên má, cô vừa cất tiếng gọi Vel—người đang rạch ngực lũ Orc để lấy Ma Thạch từ tim chúng.
+Vừa dùng chiếc khăn tay lụa nhẹ nhàng lau vết máu trên má, cô vừa cất tiếng gọi Vel lúc này đang rạch ngực lũ Orc để lấy Ma Thạch từ tim chúng.
 
 "Vel. Thu hồi Ma Thạch cũng được nhưng nhanh lên đấy. Để lũ quái vật khác đánh hơi thấy mùi máu của bọn Orc rồi kéo tới thì phiền phức lắm."
 
@@ -110,7 +110,7 @@ Phát huy sự nhanh nhẹn ấy, Vel nhanh chóng lấy xong Ma Thạch từ h�
 
 Vel liếc mắt nhìn về phía cỗ xe ngựa.
 
-Cỗ xe ngựa thoạt nhìn chẳng khác gì xe ngựa bình thường này, thực chất lại là một Đạo Cụ Ma Thuật vô cùng cao cấp mà cực kỳ ít người có thể nhận ra. Đó là bởi nó đã được ếm thêm hiệu ứng ẩn giấu để tránh gây chú ý. Ngoài ra, bên trong xe còn được điều chỉnh bằng Không Gian Ma Pháp, tạo thành một căn phòng xa hoa rộng chừng ba mươi chiếu tatami. Không những vậy, bản thân cỗ xe còn được ma pháp cường hóa nên cực kỳ kiên cố, đao tên tầm thường hoàn toàn không thể làm suy chuyển. Thêm vào đó, nó còn mang hiệu ứng cường hóa năng lực của loài ngựa kéo, cộng với việc những con ngựa kéo xe đều là Warhorse thuộc hàng hiếm có của Vương quốc Mireana, khiến cỗ xe ngựa này chẳng khác nào một pháo đài di động. Nó còn có hiệu ứng cảm nhận ác ý, và nhờ thế mà họ đã tránh được đòn tập kích bất ngờ của lũ Orc.
+Cỗ xe ngựa thoạt nhìn chẳng khác gì xe ngựa bình thường này, thực chất lại là một Đạo Cụ Ma Thuật vô cùng cao cấp mà cực kỳ ít người có thể nhận ra. Để tránh gây chú ý, nó đã được ếm sẵn hiệu ứng ẩn giấu. Bên trong xe còn mở rộng bằng Không Gian Ma Pháp thành một căn phòng xa hoa rộng chừng năm mươi mét vuông. Bản thân cỗ xe cũng được cường hóa bằng ma pháp nên cực kỳ kiên cố, cung tên tầm thường hoàn toàn không thể làm suy chuyển. Chưa hết, nó còn có hiệu ứng gia tăng sức mạnh cho ngựa kéo, cộng thêm những con ngựa kéo xe đều là Warhorse thuộc hàng hiếm có của Vương quốc Mireana, biến cỗ xe ngựa này thành một pháo đài di động thực thụ. Nó còn có hiệu ứng cảm nhận ác ý, và nhờ thế mà họ đã tránh được đòn tập kích bất ngờ của lũ Orc.
 
 Tất cả những điều đó đều là nhờ tính năng của món Đạo Cụ Ma Thuật đặt làm riêng, thứ mà Công tước Kerebel đã không tiếc tiền bạc thuê các Giả Kim Thuật Sư tại Ozos, thành phố ma đạo được mệnh danh là nơi quy tụ những ma pháp sư hàng đầu thế giới này, chế tạo, nhằm bảo vệ cô con gái cưng đã dấn thân ra chiến trường để thực hiện nghĩa vụ cao quý của dòng dõi quý tộc.
 
@@ -128,17 +128,17 @@ Con Warhorse nheo mắt lại vẻ đầy dễ chịu khi được vuốt ve lư
 
 Nói câu đó xong, Elena bước vào bên trong cỗ xe ngựa. Ara bước theo sau cô vào xe, còn Vel thì ngồi lên ghế xà ích rồi cho xe lăn bánh.
 
-Bên trong cỗ xe bày biện la liệt những món đồ nội thất dường như được tạo ra từ đỉnh cao tay nghề của những người thợ thủ công. Đây cũng là những thứ mà người cha là Công tước Kerebel đã chuẩn bị để cô con gái có thể thư giãn đôi chút vì lo lắng khi cô bước chân tới những nơi hiểm nguy.
+Bên trong cỗ xe bài trí hàng loạt món đồ nội thất kết tinh từ tay nghề đỉnh cao của những người thợ thủ công. Đây cũng là những thứ mà người cha, Công tước Kerebel, vì lo cho con gái phải dấn thân vào chốn hiểm nguy nên đã chuẩn bị sẵn để cô có thể thư giãn đôi chút.
 
-Và trong cỗ xe ngựa được trang bị cả một gian bếp đơn giản bằng Đạo Cụ Ma Thuật, Ara đang pha trà, còn Elena thì ngồi trên ghế sofa đợi trà chín.
+Và trong cỗ xe ngựa có trang bị cả một gian bếp đơn giản bằng Đạo Cụ Ma Thuật, Ara đang pha hồng trà, còn Elena thì ngồi trên ghế sofa chờ thưởng trà.
 
-"Không biết anh Kuust có sao không nhỉ?"
+"Không biết Kuust có ổn không nhỉ?"
 
-"Sao lại không sao?"
+"Chuyện gì cơ?"
 
 Đặt tách trà mới pha lên chiếc bàn trước chiếc sofa Elena đang ngồi nghỉ ngơi, Ara lẩm bẩm.
 
-"Thì đấy, anh Kuust đối với quý tộc thì cơ bản là rất mực cung kính, nhưng hễ đối phương không phải quý tộc là lập tức trở nên thất lễ ngay. Đằng này nơi chúng ta sắp tới lại là lãnh địa của quý tộc Phe Trung Lập chứ chẳng phải Phe Quý Tộc mà tiểu thư Elena trực thuộc, nên tôi không muốn anh ấy gây chuyện ầm ĩ chút nào."
+"Thì Kuust ấy ạ, đối với quý tộc thì cơ bản là rất mực cung kính, nhưng hễ đối phương không phải quý tộc là lập tức trở nên thất lễ ngay. Đằng này nơi chúng ta sắp tới lại là lãnh địa của quý tộc Phe Trung Lập chứ chẳng phải Phe Quý Tộc mà tiểu thư Elena trực thuộc, nên tôi không muốn anh ta gây chuyện ầm ĩ chút nào."
 
 "Ara."
 
@@ -186,10 +186,10 @@ Nghe Ara nói vậy, Elena chỉ cười trừ rồi đưa bánh quy vào miện
 
 Dù say mê Elena đến đâu thì riêng chuyện này, Ara cũng không thể nhượng bộ mà lên tiếng.
 
-Văn võ song toàn lại sở hữu dung mạo kiều diễm. Cũng chính vì quá đỗi vượt trội so với người khác, nên Elena luôn đinh ninh rằng người kết duyên cùng mình ít nhất phải có một điểm nào đó hơn mình. Và bởi hiện tại cô đang là người mang danh xưng Công Chúa Tướng Quân, nên cô đã công khai tuyên bố người đó nhất định phải mạnh hơn cô.
+Văn võ song toàn lại thêm ngoại hình xinh đẹp tuyệt trần. Cũng chính vì quá vượt trội so với người khác, nên Elena luôn đinh ninh rằng người gắn bó cả đời với mình ít nhất phải có một điểm nào đó hơn cô. Và bởi hiện tại cô đang là người mang danh xưng Công Chúa Tướng Quân, nên cô đã công khai tuyên bố người đó nhất định phải mạnh hơn cô.
 
 Đương nhiên, đám quý tộc trẻ tuổi sau khi nghe thấy điều đó, ôm mộng nếu thắng được Elena sẽ có được một người vợ xinh đẹp tuyệt trần cùng toàn bộ gia tộc Công tước Kerebel, đã có biết bao kẻ, từ vài người, vài chục người, rồi hàng trăm người kéo đến thách đấu, nhưng tất cả đều bị Elena đánh cho tơi bời hoa lá.
 
 Chính vì lẽ đó, Elena mới đinh ninh rằng một người xứng đáng với mình hẳn là khó mà có được.
 
-...Thế nhưng, Elena đâu ngờ được rằng. Tại thành phố biên cảnh mà cô sắp sửa đặt chân tới, cô sẽ gặp được người có thể coi là định mệnh của cuộc đời mình. Và cũng chính tại nơi đó, lần đầu tiên cô mới nhận thức được rằng bản thân là một người phụ nữ.
+...Thế nhưng, Elena đâu ngờ rằng tại thành phố biên cảnh sắp đặt chân tới, cô sẽ gặp được người có thể coi là định mệnh của cuộc đời mình. Và cũng chính tại nơi đó, lần đầu tiên cô mới ý thức được mình là một người phụ nữ.

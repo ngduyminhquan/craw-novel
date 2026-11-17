@@ -179,3 +179,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vel | Elena | tôi | tiểu thư Elena | 63 | Nam hiệp sĩ hộ vệ nói với tiểu thư Elena |
 | Ara | Vel | tôi | cậu / Vel | 63 | Nữ hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |
 | Vel | Ara | tôi | cô / Ara | 63 | Nam hiệp sĩ nói với đồng nghiệp trong đội hộ vệ |
+| Ara | Kuust | tôi | Kuust / anh ta | 63 | Nữ hiệp sĩ hộ vệ nhắc tới hoặc nói với đội trưởng đồng trang lứa |

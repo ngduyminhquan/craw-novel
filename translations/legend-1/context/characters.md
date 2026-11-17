@@ -51,7 +51,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 58: Thẻ Hội Hạng D; nhận ủy thác chỉ định từ Bá tước biên cảnh Rowlocks làm hộ vệ cho Công Chúa Tướng Quân (tiểu thư Công tước Kerebel) thám hiểm hầm ngục gần Gilm với thù lao 2 đồng quang kim; dưỡng sức chờ ngày nhận việc trong 1 tuần
+- Trạng thái tính đến chương 62: Thẻ Hội Hạng D; đã tới dinh thự lãnh chúa gặp Daska Rowlocks và đánh bại màn thử sức của đội trưởng hộ vệ Kuust Brassin, nhận chi tiết ủy thác hộ tống tiểu thư Elena Kerebel tới Tế đàn kế thừa trong hầm ngục gần Gilm và hẹn hội quân trước cổng chính lúc 9 giờ sáng hôm sau
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
