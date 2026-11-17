@@ -71,9 +71,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 64 |  | Chapter_0064 - 継承の祭壇 - 第64話.txt | 継承の祭壇 - 第64話 | reviewed |  |
 | 65 |  | Chapter_0065 - 継承の祭壇 - 第65話.txt | 継承の祭壇 - 第65話 | reviewed |  |
 | 66 |  | Chapter_0066 - 継承の祭壇 - 第66話.txt | 継承の祭壇 - 第66話 | reviewed |  |
-| 67 |  | Chapter_0067 - 継承の祭壇 - 第67話.txt | 継承の祭壇 - 第67話 | done |  |
-| 68 |  | Chapter_0068 - 継承の祭壇 - 第68話.txt | 継承の祭壇 - 第68話 | done |  |
-| 69 |  | Chapter_0069 - 継承の祭壇 - 第69話.txt | 継承の祭壇 - 第69話 | done |  |
+| 67 |  | Chapter_0067 - 継承の祭壇 - 第67話.txt | 継承の祭壇 - 第67話 | reviewed |  |
+| 68 |  | Chapter_0068 - 継承の祭壇 - 第68話.txt | 継承の祭壇 - 第68話 | reviewed |  |
+| 69 |  | Chapter_0069 - 継承の祭壇 - 第69話.txt | 継承の祭壇 - 第69話 | reviewed |  |
 | 70 |  | Chapter_0070 - 継承の祭壇 - 第70話.txt | 継承の祭壇 - 第70話 | todo |  |
 | 71 |  | Chapter_0071 - 継承の祭壇 - 第71話.txt | 継承の祭壇 - 第71話 | todo |  |
 | 72 |  | Chapter_0072 - 継承の祭壇 - 第72話.txt | 継承の祭壇 - 第72話 | todo |  |

@@ -1,12 +1,12 @@
 # Chương 69: Tế đàn kế thừa (69)
 
-Đêm hôm xuất phát từ thành phố Gilm. Khi mặt trời còn chưa lặn hẳn, nhóm Rei và Elena đã dừng cỗ xe ngựa tại một nơi có tầm nhìn thoáng đãng để chuẩn bị hạ trại.
+Buổi tối ngày xuất phát từ thành phố Gilm. Khi mặt trời còn chưa lặn hẳn, nhóm Rei và Elena đã dừng cỗ xe ngựa tại một nơi có tầm nhìn thoáng đãng để chuẩn bị hạ trại.
 
 Có điều, nói là hạ trại chứ hai người Elena và Ara nghỉ ngơi trong căn phòng rộng rãi bên trong cỗ xe ngựa, thành ra chỉ có ba người đàn ông ngủ ngoài trời.
 
 Kuust và Vel dựng lều cho hai người bọn họ, còn Rei cũng dựng chiếc lều của riêng mình ở vị trí cách đó một đoạn.
 
-"Ngại quá, đều do tính khí thất thường của Kuust cả."
+"Ngại quá, đều tại tính cố chấp của Kuust cả."
 
 Vel tiến lại gần Rei đang dựng lều, cất tiếng bảo.
 
@@ -24,7 +24,7 @@ Nhận thấy trong giọng điệu của đối phương dường như không c
 
 Cậu liếc nhìn Set đang kéo giữ phía bên kia chiếc lều để nó khỏi đổ.
 
-"Hình như anh ta còn chẳng ưa Set hơn cả tôi. Nghĩ tới nguy cơ xảy ra mấy chuyện rắc rối thì thà tách riêng lều ra nghỉ ngơi từ đầu còn hơn."
+"Xem chừng tên đó với Set còn chẳng hợp nhau hơn cả với tôi. Nghĩ tới nguy cơ xảy ra mấy chuyện rắc rối thì thà tách riêng lều ra nghỉ ngơi từ đầu còn hơn."
 
 "Cậu thông cảm cho thế thì tốt quá. Kuust nhìn vậy chứ cũng có điểm tốt đấy. Cơ mà, hiếm khi cậu ta chịu thể hiện điều đó trước mặt người ngoài giới quý tộc lắm..."
 
@@ -50,7 +50,7 @@ Nói rồi, cậu cùng Set đi ra chỗ cách đó một đoạn.
 
 Vừa đi, Rei vừa nhớ lại cuộc trò chuyện ban nãy mà thầm nghi hoặc.
 
-(Hôm qua rõ ràng Vel còn cảnh giác với mình, điều đó không thể nhầm được. Nhưng cớ sao chỉ sau một ngày anh ta đã gạt bỏ sự cảnh giác đó? Ara cũng tương tự, nhưng cô nàng thì say mê... đúng hơn là ngưỡng mộ Elena, nên chỉ cần tiểu thư nói đỡ một lời là cô ta dễ dàng buông bỏ đề phòng ngay. Còn Vel thì không thuộc dạng đó. Huống chi anh ta còn đảm nhận vai trò đạo tặc trong tổ đội... Mà thôi, dù sao mình cũng chỉ là thành viên tạm thời, một hộ vệ được phái tới từ thành phố Gilm, hơi đâu dính mũi vào chuyện bao đồng làm gì.)
+(Hôm qua rõ ràng Vel còn cảnh giác với mình, chuyện đó không nhầm vào đâu được. Nhưng sao chỉ mới một ngày mà anh ta đã bỏ vẻ cảnh giác đó rồi? Ara cũng tương tự, có điều cô nàng thì sùng bái... hay đúng hơn là ngưỡng mộ Elena, nên chỉ cần Elena nói đỡ một lời là dễ dàng buông bỏ đề phòng ngay. Còn Vel thì đâu phải kiểu đó. Huống chi anh ta còn đảm nhận vai trò đạo tặc trong tổ đội... Mà thôi, dù sao mình cũng chỉ là thành viên tạm thời, một hộ vệ được phái tới từ thành phố Gilm, hơi đâu chõ mũi vào chuyện bao đồng làm gì.)
 
 Dù nghĩ vậy, nhưng cử chỉ và lời nói thiếu tự nhiên của Vel vẫn khiến cậu băn khoăn trong lòng.
 
@@ -102,7 +102,7 @@ Nghe Elena nói vậy, Rei cười trừ rồi ném miếng thịt vừa nướn
 
 Chú Griffin khéo léo dùng mỏ đón lấy miếng thịt đang bay tới rồi nuốt ngay vào miệng.
 
-"Tại nó sống với tôi từ trước tới giờ nên biết thịt nướng ngon hơn đấy ạ. Chứ Griffin bình thường chắc chỉ ăn thịt sống thôi."
+"Tại nó sống với tôi từ trước tới giờ nên biết thịt nướng ngon hơn đấy. Chứ Griffin bình thường chắc chỉ ăn thịt sống thôi."
 
 "Ừm. Ta từng chiến đấu với quái vật nhiều lần, nhưng chưa từng nghe nói có con nào ăn thịt nướng cả."
 
@@ -116,11 +116,11 @@ Thấy mình thu hút được sự chú ý của Elena, Ara mỉm cười hớn
 
 Đứng nhìn cảnh đó một lúc, đến khi Set ăn hết miếng thịt Iron Snake cuối cùng, Rei mới quay sang Elena.
 
-"Vậy, thưa tiểu thư Elena. Người cất công tới tận chỗ vắng này hẳn là có mục đích gì rồi đúng không ạ?"
+"Vậy, tiểu thư Elena. Tiểu thư cất công tới tận chỗ vắng này hẳn là có mục đích gì rồi nhỉ?"
 
 "Ừm. Ta muốn so tài với cậu như đã hẹn hồi trưa, trước khi trời tối hẳn."
 
-Elena khẽ búng ngón tay lên bao cây liên tiếp kiếm giắt bên hông, phát ra tiếng keng thanh thúy.
+Elena khẽ búng ngón tay lên bao cây liên tiếp kiếm giắt bên hông, phát ra tiếng keng trong trẻo.
 
 Dù chỉ là một cử chỉ vô tình, nhưng vẻ đẹp tuyệt mỹ cùng khí chất cuốn hút của Elena vẫn khiến người ta không thể rời mắt.
 
@@ -130,15 +130,15 @@ Nhưng Rei cười trừ, gạt bỏ sức hút ấy rồi đứng dậy, lùi r
 
 Cậu khẽ vuốt đầu Set đang ngơ ngác nhìn mình, bảo nó đừng lo, rồi lấy Lưỡi Hái Tử Thần ra khỏi Nhẫn Sương Mù và thủ thế.
 
-"Tôi hiểu rồi, đã hứa thì phải giữ lời, tôi xin tiếp chiêu. ...Nhưng dù sao đây cũng chỉ là trận đấu tập, lại thêm tiểu thư Elena là người thuê tôi, nên chúng ta không dùng ma pháp nguy hiểm mà chỉ đọ sức thuần túy bằng vũ khí có được không ạ?"
+"Tôi hiểu rồi, đã hứa thì phải giữ lời, tôi xin tiếp chiêu. ...Nhưng dù sao đây cũng chỉ là trận đấu tập, lại thêm tiểu thư Elena là người thuê tôi, nên chúng ta không dùng ma pháp nguy hiểm mà chỉ đọ sức thuần túy bằng vũ khí có được không?"
 
 "Ưm, ta cũng muốn xem thực lực của cậu khi dùng cả ma pháp cơ..."
 
 Elena tỏ vẻ tiếc nuối, nhưng câu nói ấy lập tức khiến Ara nhảy dựng lên.
 
-"Tiểu thư Elena, cậu Rei nói đúng đấy ạ! Lỡ làn da ngọc ngà của người bị trầy xước thì tính sao đây!"
+"Tiểu thư Elena, cậu Rei nói đúng đấy ạ! Lỡ làn da ngọc ngà của tiểu thư bị trầy xước thì tính sao đây!"
 
-"Thôi nào thôi nào, Ara bình tĩnh chút đi. Đấy là tiểu thư Elena cơ mà? Làm sao người lại dễ dàng bị thương thế được."
+"Thôi nào thôi nào, Ara bình tĩnh chút đi. Đấy là tiểu thư Elena cơ mà? Làm sao tiểu thư lại dễ dàng bị thương thế được."
 
 Vel lên tiếng bằng giọng nhẹ nhàng như mọi khi, nhưng ý kiến phản đối lại xuất phát từ một người không ai ngờ tới.
 
@@ -170,7 +170,7 @@ Rút thanh liên tiếp kiếm khỏi bao bên hông, Elena chĩa mũi kiếm v�
 
 Cả hai im lặng dò xét sơ hở của đối phương, từng chút một thu hẹp khoảng cách.
 
-Nếu là kiếm thường và đại liêm thì đại liêm có lợi thế tấn công từ khoảng cách xa hơn, nhưng thanh kiếm trên tay Elena lại chẳng phải kiếm thường, mà là cây liên tiếp kiếm mang cả đặc tính của roi lẫn kiếm. Xét về cự ly tầm đánh, Elena mới là người chiếm thế thượng phong.
+Nếu là kiếm thường và lưỡi hái lớn thì lưỡi hái lớn có lợi thế tấn công từ khoảng cách xa hơn, nhưng thanh kiếm trên tay Elena lại chẳng phải kiếm thường, mà là cây liên tiếp kiếm mang cả đặc tính của roi lẫn kiếm. Xét về cự ly tầm đánh, Elena mới là người chiếm thế thượng phong.
 
 (Thế mà chỉ cần biến về dạng trường kiếm là đánh cận chiến ngon lành, bảo là tiện lợi hay chơi ăn gian đây trời...)
 
@@ -202,7 +202,7 @@ Rei dùng cán Lưỡi Hái Tử Thần gạt văng đòn đánh đó đi.
 
 Thế nhưng ngọn liên tiếp kiếm bị gạt văng liền đổi hướng ngay giữa không trung theo cú xoay cổ tay của Elena, chĩa mũi kiếm nhắm vào thân mình Rei. Rei lại vung lưỡi hái hất mạnh nó ra một lần nữa, khóe môi khẽ nở nụ cười.
 
-"Vì có né thì cô cũng đổi hướng đòn đánh như vừa rồi thôi, ít nhất trong trường hợp này thì né đòn sát nút chẳng phải cách hay... đâu nhé!"
+"Vì có né thì tiểu thư cũng đổi hướng đòn đánh như vừa rồi thôi, ít nhất trong trường hợp này thì né đòn sát nút chẳng phải cách hay... đâu nhé!"
 
 Rei lại dùng Lưỡi Hái Tử Thần gạt thanh liên tiếp kiếm đang lao tới như những lần trước. Nhưng khác với ban nãy, lần này cậu vung hái với lực mạnh hơn hẳn. Bị hất văng mạnh hơn trước, nếu Elena muốn chuyển hướng quỹ đạo thì sơ hở lộ ra sẽ càng lớn.
 
@@ -212,7 +212,7 @@ Cậu nhanh thoăn thoắt đạp đất, áp sát vào tầm đánh của mình
 
 "Haaaa!"
 
-Lưỡi kiếm của cô gạt chệch đường vung của lưỡi đại liêm. Đã biết đòn đánh của Rei nặng đến mức nào, Elena hoàn toàn không có ý định đỡ trực diện. Bởi cô thừa hiểu nếu đỡ thẳng hay dùng sức đánh bật nó thì cánh tay sẽ tê dại như hôm qua, thậm chí tệ nhất là tuột tay rơi kiếm xuống đất.
+Lưỡi kiếm của cô gạt chệch đường vung của lưỡi hái lớn. Đã biết đòn đánh của Rei nặng đến mức nào, Elena hoàn toàn không có ý định đỡ trực diện. Bởi cô thừa hiểu nếu đỡ thẳng hay dùng sức đánh bật nó thì cánh tay sẽ tê dại như hôm qua, thậm chí tệ nhất là tuột tay rơi kiếm xuống đất.
 
 (Quả thực đòn đánh của Rei nặng đến khó tin. Nhưng cũng chính vì thế, sau một đòn toàn lực ắt hẳn sẽ để lộ sơ hở!)
 

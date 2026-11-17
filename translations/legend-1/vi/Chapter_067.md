@@ -2,9 +2,9 @@
 
 Sáng sớm hôm sau cuộc gặp mặt với nhóm Elena tại dinh thự lãnh chúa, Rei trong bộ trang phục quen thuộc gồm Áo Choàng Rồng và Giày Sleipnir đang rảo bước trên đại lộ của thành phố.
 
-Bên cạnh cậu dĩ nhiên cũng có bóng dáng Set như mọi khi, nhưng nó lại đang ủ rũ bước đi cạnh Rei với vẻ đầy tiếc nuối.
+Bên cạnh cậu dĩ nhiên vẫn là Set như mọi khi, có điều hôm nay nó lại ủ rũ bước đi với vẻ đầy tiếc nuối.
 
-Dù sao thì quy định tập hợp trước cổng chính trước khi tiếng chuông 6 giờ sáng vang lên, nên hầu như các quầy thức ăn ven đại lộ thường ngày đều chưa mở cửa. Có quầy mở thì chủ yếu cũng chỉ bán các loại súp cho những người phải hoạt động từ sáng sớm, chứ vừa đi vừa ăn món đó thì hơi bất khả thi. Tất nhiên nếu chịu khó tìm thì cũng có chỗ bán đồ ăn nhẹ như bánh sandwich, nhưng tiếc là trên lộ trình của Rei và Set lại chẳng có tiệm nào như vậy.
+Cũng tại hôm nay hẹn tập trung ở cổng chính trước tiếng chuông 6 giờ sáng, nên mấy quầy đồ ăn ven đường lớn mọi khi giờ này gần như chưa mở cửa. Quầy nào mở thì cũng chủ yếu bán các món súp cho những người đi làm từ sáng sớm, chẳng thể nào vừa đi vừa ăn được. Tất nhiên chịu khó tìm thì chắc vẫn có hàng bán đồ ăn nhẹ kiểu bánh sandwich, nhưng tiếc là trên đường Rei và Set đi qua lại chẳng có hàng nào như thế.
 
 "Gùuu..."
 
@@ -30,7 +30,7 @@ Cậu tháo Vòng Cổ Tùng Ma trên cổ Set ra, vừa đưa cùng Thẻ Hội
 
 Người lính đỡ lấy chúng, trên môi nở nụ cười trừ.
 
-"Đúng là Đội trưởng Ranga thường hay túc trực ở đây thật, nhưng đâu có nghĩa là ngày nào ông ấy cũng trực suốt ngày không nghỉ ngơi đâu ạ. Hôm nay Đội trưởng được nghỉ nên tôi sẽ phụ trách kiểm tra giúp cậu nhé."
+"Đúng là Đội trưởng Ranga thường hay túc trực ở đây thật, nhưng đâu có nghĩa là ngày nào ông ấy cũng trực suốt không nghỉ ngơi đâu. Hôm nay Đội trưởng được nghỉ nên tôi sẽ phụ trách kiểm tra giúp cậu nhé."
 
 "Ra vậy, tôi cứ ngỡ Ranga được chỉ định phụ trách riêng cho tôi cơ đấy... Mà, ông ấy không có ở đây thì đành chịu vậy."
 
@@ -58,7 +58,7 @@ Người lính mỉm cười ấm áp nhìn cảnh tượng đó, nhưng dườn
 
 "...Nghĩ vậy thì đúng là quen quá cũng không tốt thật. Nhưng cơ bản thì loại quái vật Hạng cao như Griffin đâu có dễ gì xuất hiện ở nơi con người sinh sống chứ?"
 
-"Đúng là vậy, nhưng cái chuyện vạn nhất ấy lại rất có thể xảy ra ở vùng biên cảnh này đấy ạ. ...Xong rồi, xin gửi lại cậu. Tôi đã kiểm tra xong Thẻ Hội. Chúc cậu lên đường cẩn thận."
+"Đúng là vậy, nhưng cái chuyện vạn nhất ấy lại rất có thể xảy ra ở vùng biên cảnh này đấy. ...Xong rồi, gửi lại cậu nhé. Tôi đã kiểm tra xong Thẻ Hội. Chúc cậu lên đường cẩn thận."
 
 Nhận lại Thẻ Hội, trong tiếng kêu khoan khoái từ sâu trong cổ họng của Set, cậu chào tạm biệt người lính rồi bước ra ngoài cổng chính.
 
@@ -102,7 +102,7 @@ Chẳng biết có phải do cô vuốt ve khéo tay hay không mà Set khoái c
 
 Đứng nhìn cảnh đó, Rei lấy phần bánh sandwich mà bà chủ Lana đã chuẩn bị riêng cho Set khi rời quán trọ sáng nay từ Nhẫn Sương Mù ra.
 
-"Tiểu thư Elena, xin mời cô cái này."
+"Tiểu thư Elena, tiểu thư cầm lấy cái này đi."
 
 "Này, ngươi định cho tiểu thư Elena ăn thứ tầm thường đó thật đấy à?!"
 
@@ -114,7 +114,7 @@ Nhìn chiếc bánh sandwich trên tay Rei, Kuust thở dài vẻ ngán ngẩm h
 
 Giải thích cho hai người kia xong, Rei lại chìa chiếc bánh sandwich về phía Elena.
 
-"Nếu thích thì cô thử cho nó ăn xem sao?"
+"Nếu thích thì tiểu thư thử cho nó ăn xem sao?"
 
 "Ồ. Đút cho quái vật ăn là việc ta chưa làm bao giờ nên nghe thú vị đấy. Nào, Set. Đồ ăn của nhóc này."
 
@@ -124,7 +124,7 @@ Set ngoạm lấy chiếc bánh sandwich do Elena chìa ra rồi nuốt luôn v�
 
 "Hửm? Sao cậu cứ nhìn chằm chằm vào tay ta thế?"
 
-"Dạ không, tôi chỉ nghĩ bàn tay của người đủ sức đánh bật đòn tấn công của tôi lại đẹp đến bất ngờ thôi."
+"Không có gì, tôi chỉ nghĩ bàn tay của một người đủ sức đánh bật đòn tấn công của tôi lại đẹp đến bất ngờ thôi."
 
 "...Này, tên kia. Vừa phải thôi nhé. Nãy giờ ngươi ăn nói hơi suồng sã với tiểu thư Elena rồi đấy."
 
@@ -132,7 +132,7 @@ Vừa nói, Kuust vừa chĩa mũi ma thương trên tay về phía Rei.
 
 Thế nhưng, người ngăn anh ta lại là Elena.
 
-"Thôi đi. Ta đã nói nhiều lần từ hôm qua rồi, chúng ta sẽ cùng người này hành động trong hầm ngục một thời gian. Cứ thoải mái mà phát huy được hết năng lực thì thế là đủ rồi. ...Có điều, ta cũng nói trước, nếu cậu có ý định tán tỉnh ta thì ít nhất cũng phải mạnh hơn ta rồi hãy thử..."
+"Thôi đi. Ta đã nói nhiều lần từ hôm qua rồi, chúng ta sẽ cùng người này hành động trong hầm ngục một thời gian. Nếu cư xử thoải mái với ta mà giúp cậu ta phát huy được hết năng lực thì thế là đủ rồi. ...Có điều, ta cũng nói trước, nếu cậu có ý định tán tỉnh ta thì ít nhất cũng phải mạnh hơn ta rồi hãy thử..."
 
 Vừa nói với Rei câu đó xong, Elena liền nhìn xuống bàn tay mình.
 
@@ -180,9 +180,9 @@ Theo cảm nhận của Rei, không gian bên trong phải rộng hơn ba mươi
 
 "Cậu ngạc nhiên lắm đúng không? Đây là thứ Công tước Kerebel đã chuẩn bị riêng cho tiểu thư đấy. Ngài đã chi hơn 50 đồng quang kim để hàng chục Giả Kim Thuật Sư hàng đầu tại thành phố ma đạo Ozos chế tác ròng rã suốt nhiều năm trời mới tạo ra được Đạo Cụ Ma Thuật này. Xét về độ quý hiếm thì vì là món đồ độc nhất vô nhị nên nó còn vượt trội hơn cả Hộp Vật Phẩm của cậu Rei đấy."
 
-Chẳng hiểu sao Ara lại ưỡn ngực đầy tự hào. Nghe cô nói vậy, Rei gật gù như đã hiểu ra.
+Thành phố ma đạo Ozos là một thành bang nằm gần trung tâm lục địa. Nơi đây sở hữu ngôi trường đào tạo ma pháp sư thuộc hàng bậc nhất lục địa, và dựa vào tiềm lực quân sự của các ma pháp sư trực thuộc để giữ vững nền độc lập trước các quốc gia xung quanh. Ngoài ra, nhờ quy tụ đông đảo Giả Kim Thuật Sư nên thành phố này cũng rất nổi tiếng với việc xuất khẩu các Đạo Cụ Ma Thuật chất lượng cao.
 
-"Ra vậy. Nếu là Đạo Cụ Ma Thuật tạo ra được không gian rộng lớn cỡ này thì hôm qua thấy nó có hiệu ứng ngụy trang bên ngoài cũng là điều dễ hiểu. ...Nhưng bản thân hiệu ứng che giấu không phải để giấu việc cỗ xe là Đạo Cụ Ma Thuật, mà là để che giấu thùng xe đang ứng dụng Không Gian Ma Pháp này nhỉ. Tức là, bằng cách để lộ nó là Đạo Cụ Ma Thuật, người ta sẽ khó mà nhận ra đây là một Đạo Cụ Ma Thuật tầm cỡ nhường này. Vả lại ngay cả bàn bếp lắp sẵn trong này cũng dùng Đạo Cụ Ma Thuật nữa chứ."
+"Chà, công nhận cái này đỉnh thật đấy. Hóa ra là dùng Không Gian Ma Pháp để mở rộng không gian bên trong thùng xe rồi cố định lại à. Cố định được một không gian lớn cỡ này hẳn phải là kỹ thuật cực kỳ cao cấp, đã thế bản thân thùng xe còn được yểm hiệu ứng che giấu để người ngoài khó nhìn ra đây là Đạo Cụ Ma Thuật nữa chứ. Ngay cả bàn bếp lắp sẵn trong này cũng dùng Đạo Cụ Ma Thuật luôn."
 
 "Đúng vậy đấy. Dù sao thì tiểu thư Elena không chỉ xông pha chiến trường với danh hiệu Công Chúa Tướng Quân mà đôi khi còn đi tiêu diệt quái vật nữa, nên Công tước Kerebel đã sắp xếp để tiểu thư có thể giải tỏa mệt mỏi bất cứ lúc nào. ...Nào, còn hành lý thì ở bên này."
 
@@ -206,7 +206,7 @@ Rei gật đầu trước lời của Ara, nhưng vừa đưa tay về phía m�
 
 Trước câu hỏi nghe chừng rất đỗi hiển nhiên ấy của Rei, Ara lắc đầu.
 
-"Cỗ xe này là Đạo Cụ Ma Thuật tính cả phần nối với lũ Warhorse, nên không thể tháo riêng thùng xe mang đi được đâu ạ. ...Tôi nghe nói Hộp Vật Phẩm không thể chứa sinh vật sống, chẳng lẽ cái của cậu Rei lại khác sao?"
+"Cỗ xe này là Đạo Cụ Ma Thuật tính cả phần khớp nối với ngựa Warhorse, nên không thể tháo riêng thùng xe mang đi được đâu. ...Tôi nghe nói Hộp Vật Phẩm không thể chứa sinh vật sống, chẳng lẽ cái của cậu Rei lại khác sao?"
 
 "Không, dĩ nhiên là không chứa được sinh vật sống rồi. ...Nhưng dù có hiệu ứng che giấu đi nữa, vứt cỗ xe này lại ở một nơi gần hầm ngục liệu có nguy hiểm quá không?"
 

@@ -10,7 +10,7 @@ Elena vừa lật giở từng trang sách vừa đưa tách trà lên miệng n
 
 Nhìn cảnh tượng đó, Rei đưa mắt đảo quanh bên trong cỗ xe ngựa.
 
-Xe chạy êm đến mức gần như chẳng hề rung lắc, tạo cảm giác cứ như đang ở trong một căn phòng bình thường nào đó, thế nhưng cỗ xe này lúc này quả thật đang lăn bánh hướng về phía hầm ngục.
+Xe chạy êm đến mức gần như chẳng hề rung lắc, tạo cảm giác cứ như đang ở trong một căn phòng bình thường nào đó, thế nhưng lúc này cỗ xe quả thật đang lăn bánh hướng về phía hầm ngục.
 
 "Đúng là quý tộc có khác."
 
@@ -34,7 +34,7 @@ Elena cất tiếng hỏi Rei khi thấy cậu có vẻ bồn chồn ngượng n
 
 "Hửm, ra là vậy. Nhưng từ đây tới hầm ngục phải mất chừng hai ngày đường đấy. Cứ từ từ rồi cũng quen thôi, giờ cậu cứ thả lỏng tinh thần mà tận hưởng chuyến đi đi. ...Nếu muốn, ta có thể cho cậu mượn mấy cuốn sách ta mang theo?"
 
-"Dạ thôi, sách vở thì tôi cũng có mang theo mấy cuốn rồi."
+"À không, sách vở thì tôi cũng có mang theo mấy cuốn rồi."
 
 Elena gật đầu tỏ vẻ khâm phục trước câu trả lời ấy. Sách vở ở thế giới này hầu như toàn là bản chép tay, do đó giá của mỗi cuốn cũng đắt đỏ tương ứng. Loại rẻ tiền cũng tốn vài đồng bạc, còn loại quý hiếm thì có khi lên tới cả mấy đồng bạch kim.
 
@@ -90,7 +90,7 @@ Nhận ra sự quan tâm chu đáo ấy của cấp trên mà mình hết mực 
 
 "Kể tiếp đi."
 
-"Ngay từ đầu, trong đợt tập kích ban đêm vào bộ lạc Orc, Rìu Lôi Thần đã được bố trí ở vị trí dễ gây chú ý nhất. Họ càn quét lũ Orc tưng bừng để thu hút toàn bộ quân Orc trong bộ lạc về phía mình... Quả không hổ là tổ đội Hạng A, họ một mình đương đầu với gần như toàn bộ lũ Orc bu lại mà chẳng hề lùi lấy nửa bước. Thành ra lũ Orc khắp bộ lạc cứ đổ dồn về phía nhóm anh Elk, vậy mà vẫn không tài nào hạ nổi họ. Cuối cùng, có lẽ nhận thấy không còn cửa thắng nên Orc King mới cùng vài tên cận vệ tìm cách trốn khỏi bộ lạc; đúng lúc ấy tôi đang cưỡi Set bay lượn trên bầu trời bộ lạc thì phát hiện ra, rồi phối hợp cùng nhóm Cơn Gió Rực Lửa ở gần đó để tiêu diệt nó. Câu chuyện đại khái là như vậy đấy."
+"Ngay từ đầu, trong đợt tập kích ban đêm vào bộ lạc Orc, Rìu Lôi Thần đã được bố trí ở vị trí dễ gây chú ý nhất. Họ càn quét lũ Orc tưng bừng để thu hút toàn bộ quân Orc trong bộ lạc về phía mình... Quả không hổ là tổ đội Hạng A, họ đương đầu với gần như toàn bộ lũ Orc kéo tới mà chẳng hề lùi lấy nửa bước. Thành ra lũ Orc khắp bộ lạc cứ đổ dồn về phía nhóm anh Elk, vậy mà vẫn không tài nào hạ nổi họ. Cuối cùng, có lẽ nhận thấy không còn cửa thắng nên Orc King mới cùng vài tên cận vệ tìm cách trốn khỏi bộ lạc; đúng lúc ấy tôi đang cưỡi Set bay lượn trên bầu trời bộ lạc thì phát hiện ra, rồi phối hợp cùng nhóm Cơn Gió Rực Lửa ở gần đó để tiêu diệt nó. Câu chuyện đại khái là như vậy đấy."
 
 "...Ra là vậy. Nghe câu chuyện thì đúng là không có Elk thì không xong thật... Nhưng liệu có đúng là cậu bó tay nếu không có anh ta hay không?"
 
@@ -170,7 +170,7 @@ Thân thể nó đúng như tên gọi, được bao bọc bởi lớp vảy c�
 
 Trái ngược với lớp phòng ngự kiên cố ấy, đòn thế tấn công của nó chỉ quanh quẩn siết chặt, cắn xé và quất đuôi, chẳng khác gì loài rắn thông thường. Vả lại răng nanh của nó cũng không có độc nên bản thân sức tấn công không phải mối đe dọa đáng sợ. Chỉ có điều, lớp giáp phòng thủ trâu bò cùng nguồn thể lực dồi dào vô tận kết hợp lại khiến nó bị xếp vào diện quái vật không mạnh nhưng cực kỳ phiền toái.
 
-Thế nhưng, một con quái vật như vậy cũng chẳng thể chống cự nổi trước một cú vồ của chú Griffin Set—lại còn được trang bị Đạo Cụ Ma Thuật gia tăng sức mạnh là Vòng Tay Cường Lực—mà ngoan ngoãn mất mạng trong chớp mắt.
+Thế nhưng, một con quái vật như vậy cũng chẳng thể chống cự nổi một đòn của chú Griffin Set, vốn còn đeo Đạo Cụ Ma Thuật gia tăng sức mạnh là Vòng Tay Cường Lực, mà mất mạng ngay trong chớp mắt.
 
 "Gừưưư!"
 
@@ -204,13 +204,13 @@ Chờ xe dừng hẳn, Rei mới bước xuống xe.
 
 "Gùuu."
 
-Set chìa đầu ra như muốn đòi khen ngợi; Rei xoa đầu chú một hồi rồi mới thu cái xác cụt đầu của con Iron Snake vào trong Hộp Vật Phẩm.
+Set chìa đầu ra như muốn đòi khen; Rei xoa đầu nó một hồi rồi mới cất cái xác cụt đầu của con Iron Snake vào Hộp Vật Phẩm.
 
 "Chà, tiện lợi thật đấy."
 
 Giọng nói đầy thán phục của Vel vang lên khi chứng kiến cảnh tượng đó. Rei vừa rút miếng thịt khô thưởng cho Set vừa đưa mắt nhìn về phía Vel.
 
-"Cũng tàm tạm. Đi mạo hiểm giả độc hành thì có nó là quá đủ rồi. ...Ủa mà, ngại quá. Nên xuất phát tiếp ngay thôi nhỉ."
+"Ừ, cũng tiện thật. Đi làm mạo hiểm giả độc hành thì nó giúp ích cho tôi nhiều lắm. ...Ấy, ngại quá. Mình nên xuất phát tiếp ngay thôi nhỉ."
 
 "Chuẩn rồi đấy. ...Cậu này, đối phó với Kuust có thể hơi mệt mỏi một chút, nhưng cậu ráng hòa thuận với cậu ta giùm nhé? Tính nết như thế nên cậu ta ít bạn bè lắm."
 
