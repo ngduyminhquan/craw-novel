@@ -34,7 +34,7 @@ Như muốn bảo không phải chuyện đó, Set quay đầu hướng về ph�
 
 "Rei, cậu có hiểu Set muốn nói gì không?"
 
-"Chắc là Set đã tìm thấy một nơi thích hợp để hạ trại theo hướng nó đang nhìn đấy ạ."
+"Chắc là Set đã tìm thấy một nơi thích hợp để hạ trại ở hướng nó đang nhìn đấy."
 
 "...Set đang chỉ cho chúng ta chỗ đó sao?"
 
@@ -44,7 +44,7 @@ Như muốn bảo không phải chuyện đó, Set quay đầu hướng về ph�
 
 Vừa lẩm bẩm vừa cất bước, Elena liền thấy Kuust cuống cuồng bám theo sau.
 
-"Tiểu thư Elena! Dẫu người có mạnh đến đâu, xin đừng liều lĩnh đi vào rừng một mình như vậy! Huống hồ, dù có thông minh đến mấy thì việc đi thám thính nơi do một con quái vật chỉ điểm cũng thật là..."
+"Tiểu thư Elena! Dù tiểu thư có mạnh đến đâu, xin đừng liều lĩnh đi vào rừng một mình như vậy! Huống hồ, dù nó có thông minh đến mấy thì đi thám thính nơi do một con quái vật chỉ điểm cũng thật là..."
 
 "...Kuust. Lòng trung thành của cậu đúng là đáng khen. Thế nhưng, không tin tưởng đồng đội đang chung một tổ đội với mình thì ta chẳng ưng chút nào đâu."
 
@@ -84,7 +84,7 @@ Dù Elena có chút ngờ vực khi đúng thời điểm này lại tìm thấy
 
 Dĩ nhiên, lời khẳng định chắc nịch của Rei rằng có thể tin tưởng vào giác quan của Set cũng là một nguồn động viên lớn. Chỉ có điều bên cạnh họ, Kuust vẫn giữ vẻ mặt khó chịu như mọi khi.
 
-Sau đó, cả hai đưa Ara và Vel tới đây rồi bắt tay ngay vào việc chuẩn bị hạ trại. Dù sao thì dẫu đang ở trong hầm ngục, hoàng hôn cũng đang dần buông xuống.
+Sau đó, họ gọi hai người Ara và Vel tới đây rồi bắt tay ngay vào việc chuẩn bị hạ trại. Dù sao thì tuy đang ở trong hầm ngục, hoàng hôn cũng đang dần buông xuống.
 
 "...Thiệt tình, rốt cuộc cái hầm ngục này hoạt động theo kiểu gì không biết? Có thứ ánh sáng trông như mặt trời thì còn hiểu được, chứ đến cả hoàng hôn với màn đêm mà cũng tái hiện được thì tôi chịu thật đấy."
 
@@ -110,17 +110,17 @@ Thấy Vel đang trêu chọc Ara như vậy, Elena vừa dọn sạch đống c
 
 Gật đầu trước lời Elena, nhưng Rei vẫn cảm thấy có chút gợn gợn khi một tiểu thư nhà Công tước như cô lại đích thân làm mấy việc vặt này.
 
-Cậu từng thẳng thắn hỏi cô về chuyện đó, nhưng chỉ nhận lại câu trả lời: "Tướng có làm gương thì thuộc hạ mới noi theo".
+Cậu cũng thử thẳng thắn hỏi cô về chuyện đó, nhưng chỉ nhận lại câu trả lời: "Tướng có làm gương thì thuộc hạ mới noi theo".
 
 Ngay cả Kuust, người mà với lòng tự tôn quý tộc hẳn là chẳng đời nào muốn đụng tay vào mấy việc tạp dịch, khi thấy cấp trên của mình là Elena tiên phong làm trước thì cũng chẳng thể trơ mắt đứng nhìn một mình trốn việc, đành miễn cưỡng xắn tay vào phụ giúp.
 
-Tận mắt chứng kiến tấm gương rõ mười mươi về việc tướng lĩnh hành động thì cấp dưới noi theo, Rei cũng đành phải thầm tâm phục khẩu phục trước lời giải thích của Elena.
+Tận mắt chứng kiến minh chứng sống động cho câu tướng có làm gương thì cấp dưới mới noi theo, Rei cũng đành phải công nhận lời Elena nói là đúng.
 
 "Thật ra chuyện này cũng không phức tạp đến thế đâu. Mọi người đều biết việc lõi hầm ngục dịch chuyển quái vật đến để bảo vệ bản thân nó rồi đúng không?"
 
 "Ừ. Khi nhận lệnh này từ phụ thân, ta đã tìm hiểu về hầm ngục nên có biết chuyện đó."
 
-"Vậy thì hẳn tiểu thư cũng hiểu, những quái vật bị dịch chuyển vốn dĩ sinh sống ở thế giới bên ngoài. Tức là chúng quen với nhịp sống có ngày và đêm, thử nghĩ xem nếu đột ngột bị đưa vào trong hầm ngục thì sẽ ra sao? Dẫu suy nghĩ có thể bị áp đặt hay tẩy não khi dịch chuyển, nhưng bản năng ăn sâu vào cơ thể qua chu kỳ ngày đêm từ trước tới nay thì nhiều khả năng có tẩy não cũng chẳng giải quyết được. Dù môi trường trong hầm ngục khác biệt là điều không tránh khỏi, nhưng chu kỳ sinh hoạt ngày đêm thì như mọi người thấy đấy, hoàn toàn có thể tái hiện được. Vậy nên tôi đoán đây là kết quả của việc tính đến thể trạng của lũ quái vật... Đại khái suy đoán của tôi là như vậy. Đương nhiên tôi biết giả thuyết này vẫn còn nhiều lỗ hổng."
+"Vậy thì hẳn tiểu thư cũng hiểu, những quái vật bị dịch chuyển vốn dĩ sinh sống ở thế giới bên ngoài. Tức là chúng quen với nhịp sống có ngày và đêm, thử nghĩ xem nếu đột ngột bị đưa vào trong hầm ngục thì sẽ ra sao? Cho dù lúc dịch chuyển có dùng ám thị hay tẩy não để kiểm soát suy nghĩ của chúng, nhưng bản năng đã ăn sâu vào cơ thể qua nhịp sống ngày đêm từ trước tới nay thì nhiều khả năng có tẩy não cũng chẳng giải quyết được. Môi trường trong hầm ngục khác biệt thì đành chịu, chứ khung giờ sinh hoạt thì như mọi người thấy đấy, hoàn toàn xoay xở được. Vậy nên tôi đoán lõi hầm ngục làm vậy để giữ thể trạng cho lũ quái vật... Đại khái suy đoán của tôi là như vậy. Đương nhiên tôi biết giả thuyết này vẫn còn nhiều lỗ hổng."
 
 "...Đúng thật, nếu quái vật có nhiệm vụ bảo vệ hầm ngục mà ngã bệnh thì nguồn chiến lực quý giá cũng thành vô dụng mất."
 
@@ -134,19 +134,19 @@ Elena gật gù lắng nghe lời giải thích của Rei, rồi như chợt nh�
 
 Elena gật đầu, những người khác dường như cũng đồng tình nên đều nhanh chóng hoàn tất khâu chuẩn bị hạ trại.
 
-"Hộp Vật Phẩm quả thực tiện lợi khôn xiết."
+"Hộp Vật Phẩm đúng là tiện lợi thật đấy."
 
 Vừa đưa thìa múc món súp hầm nhiều nguyên liệu nóng hổi vừa lấy ra từ chiếc nồi trong Nhẫn Sương Mù lên miệng, Elena vừa cất giọng cảm thán.
 
 Quả không hổ danh là tiểu thư nhà Công tước, dù đang ăn bữa tối giữa buổi hạ trại dã ngoại nhưng từng cử chỉ của cô vẫn toát lên vẻ thanh lịch, tao nhã.
 
-Vừa thầm thán phục phong thái ấy, Rei cũng đưa mẩu bánh mì nóng giòn vừa mới lấy ra từ Nhẫn Sương Mù lên miệng thưởng thức.
+Vừa thầm nể phong thái ấy, Rei cũng đưa ổ bánh mì nóng giòn vừa mới lấy ra từ Nhẫn Sương Mù lên miệng ăn.
 
 "Quả thật lúc đoàn kỵ sĩ hành quân thì bộ phận chậm chạp nhất chính là đội hậu cần tiếp tế mà. Nếu có người sở hữu Hộp Vật Phẩm thì tốc độ hành quân chắc chắn sẽ tăng lên gấp nhiều lần cho xem."
 
 Người lên tiếng bằng giọng điệu cợt nhả như thường lệ là Vel. Trên tay anh đang cầm xiên chân sau nướng của Poison Toad và một cốc rượu vang.
 
-Dĩ nhiên, vì đang hạ trại qua đêm trong hầm ngục nên dẫu gọi là rượu vang thì nồng độ cũng rất nhẹ, chẳng khác nào nước trái cây là bao.
+Dĩ nhiên, vì đang hạ trại qua đêm trong hầm ngục nên tuy gọi là rượu vang nhưng nồng độ rất nhẹ, chẳng khác nước trái cây là bao.
 
 Nhân tiện, mấy xiên thịt Poison Toad nướng chính là chiến lợi phẩm nhóm Rei đã hạ gục rồi thu gom ở tầng ngầm thứ nhất. Vel tự tay dùng dao lóc thịt, dùng chỗ nước sốt được cất trong Nhẫn Sương Mù rồi nướng chín trên đống lửa trại bập bùng trước mắt.
 
@@ -156,7 +156,7 @@ Bên cạnh bữa tối thịnh soạn đến mức khó tin là đang dùng b�
 
 Riêng Lizardman General và con nhện khổng lồ vì quá đỗi quý giá nên vẫn được cất nguyên vẹn bên trong Nhẫn Sương Mù.
 
-Dù cả Rei lẫn Set đều khá tiếc nuối khi Set nuốt Ma Thạch của Lizardman mà không học được kỹ năng nào, nhưng hương vị của thịt dường như không tồi chút nào nên Set vẫn vui vẻ gừ gừ trong cổ họng, vừa ngấu nghiến thịt Lizardman.
+Dù cả Rei lẫn Set đều khá tiếc nuối khi Set nuốt Ma Thạch của Lizardman mà không học được kỹ năng nào, nhưng hương vị của thịt dường như không tồi chút nào nên Set vẫn vừa vui vẻ gừ gừ trong cổ họng, vừa ngấu nghiến thịt Lizardman.
 
 Cứ thế, trong lúc mọi người đang dùng bữa, Elena đã ăn xong phần súp hầm cùng bánh mì và bắt đầu lên tiếng.
 

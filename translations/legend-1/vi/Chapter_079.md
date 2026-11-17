@@ -72,7 +72,7 @@ Elena cười trừ, nhưng Rei chỉ mỉm cười vuốt nhẹ lưng Set.
 
 "Gùuu."
 
-Set cất tiếng kêu đầy tự tin như muốn bảo cứ để đó cho nó. Chứng kiến cảnh ấy, nhóm Elena không khỏi nhìn chú Griffin với ánh mắt khâm phục các giác quan nhạy bén.
+Set cất tiếng kêu đầy tự tin như muốn bảo cứ để đó cho nó. Chứng kiến cảnh ấy, nhóm Elena đều nhìn chú Griffin với ánh mắt thán phục trước giác quan nhạy bén của nó.
 
 Trong số đó, điều làm Rei ngạc nhiên nhất là ngay cả Kuust cũng nhìn Set bằng ánh mắt thán phục.
 
@@ -88,7 +88,7 @@ Tất cả gật đầu trước mệnh lệnh của Elena, rồi cả nhóm b�
 
 May mắn là dù bảo là rừng rậm, nhưng cây cối cản đường lại chẳng có mấy, chẳng cần phải vất vả phạt cành mở lối mà vẫn đi lại dễ dàng, âu cũng là điều may cho cả đoàn.
 
-"Gừưư."
+"Gừưưư."
 
 Đi sâu vào trong rừng được chừng một tiếng đồng hồ thì Set bỗng cất tiếng gừ cảnh giác.
 
@@ -96,7 +96,7 @@ Giật mình trước tiếng gừ bất thình lình từ phía sau, Ara và Ve
 
 "...Có chuyện gì vậy?"
 
-Nhận thấy Elena điềm tĩnh gặng hỏi trong khi Set không ngừng dáo dác để ý xung quanh, Rei liền lên tiếng đáp.
+Trước câu hỏi điềm tĩnh của Elena, Rei nhận thấy Set đang không ngừng dáo dác để ý xung quanh nên liền lên tiếng đáp.
 
 "Nó đang cảnh giác xung quanh. Chắc là có quái vật."
 
@@ -140,7 +140,7 @@ Thấy cảnh đó, Vel liền cất giọng ngán ngẩm.
 
 Vào thế thủ với ma thương trên tay, sẵn sàng ứng phó với bất kỳ cuộc tập kích nào, Kuust lên tiếng nhắc nhở.
 
-Dẫu vậy, phải công nhận cả Ara lẫn Vel đều chẳng phải dạng vừa, miệng thì trêu chọc nhau nhưng tay Ara đã nắm chặt chuôi kiếm, còn Vel cũng đã lắp sẵn tên lên dây cung chờ bắn.
+Có điều, phải công nhận cả Ara lẫn Vel đều chẳng phải dạng vừa, miệng thì trêu chọc nhau nhưng Ara đã thủ sẵn kiếm trên tay, còn Vel cũng đã lắp sẵn tên lên dây cung chờ bắn.
 
 Elena cũng đã thủ thế với liên tiếp kiếm, Rei nắm chắc Lưỡi Hái Tử Thần, còn Set hạ thấp mình xuống để có thể phản ứng ngay tức khắc dù đòn tấn công ập tới từ bất kỳ hướng nào.
 
@@ -152,7 +152,7 @@ Khoảnh khắc Set gầm lên một tiếng rền vang, kẻ địch đúng ngh
 
 Ngoại hình của chúng khá giống loài khỉ. Thế nhưng từ khóe miệng lại nhô ra những chiếc răng nanh sắc nhọn, và lớp da ngoài được bao bọc bởi một dòng nước chảy tuần hoàn. Kích thước thì con nhỏ chừng sáu mươi phân, con to cũng chỉ tầm một mét. Có điều, số lượng vây quanh nhóm Rei ước tính tới hai mươi con.
 
-"Khỉ bọc nước ư!? Bản khỉ của Gấu Nước, hình như trong bách khoa quái vật có ghi là Water Monkey thì phải... Là nó sao?"
+"Khỉ bọc nước ư!? Bản khỉ của Gấu Nước, hình như trong cuốn từ điển quái vật có ghi là Water Monkey thì phải... Là nó sao?"
 
 Elena lập tức phản ứng trước lời lẩm bẩm của Rei.
 
@@ -168,7 +168,7 @@ Vung Lưỡi Hái Tử Thần uy hiếp bầy Water Monkey khiến chúng dè ch
 
 "Không, có còn hơn không. Cứ lấy đòn đó làm chủ công... Tới rồi!"
 
-Thấy Elena và Rei mải trao đổi, bầy Water Monkey dường như chẳng kìm nén nổi hưng phấn trước con mồi. Từ trên các cành cây, chúng nhe nanh lao bổ xuống. Lại có những con đóng vai trò yểm trợ ở phía sau, bắn ra những quả Thủy Cầu tuy nhỏ hơn nhiều so với thứ mà Gấu Nước từng dùng.
+Thấy Elena và Rei mải trao đổi, bầy Water Monkey dường như chẳng kìm nén nổi hưng phấn trước con mồi. Từ trên các cành cây, chúng nhe nanh lao bổ xuống. Lại có những con đóng vai trò yểm trợ ở phía sau, bắn ra những quả Thủy Cầu nhỏ hơn nhiều so với thứ mà Gấu Nước từng dùng.
 
 "Phi Trảm!"
 
@@ -196,15 +196,15 @@ Thấy mấy đồng loại bị nhấn chìm trong vũng máu chỉ trong chớ
 
 Người phủ nhận lời Kuust là Vel. Mắt anh vẫn chăm chú găm vào lũ Water Monkey đang bao vây trên các ngọn cây theo dõi nhất cử nhất động của nhóm mình, tay giữ chặt cây cung sẵn sàng bắn tên bất cứ lúc nào.
 
-"Nhưng chẳng lẽ chúng chưa nếm trải việc sức lực của mình không thể làm gì được chúng ta qua màn giao tranh vừa rồi sao?"
+"Nhưng qua màn giao tranh vừa rồi, chẳng lẽ chúng vẫn chưa nhận ra là sức chúng không làm gì nổi chúng ta sao?"
 
 "Lũ quái vật này mà khôn ngoan được đến mức đó thì đã mừng... Nhìn mắt chúng xem, trông có giống đã bỏ cuộc không?"
 
-Nghe Vel nói, Kuust liền quan sát vẻ mặt của lũ Water Monkey. Quả thực, ánh mắt chúng đong đầy sự thù địch khi thấy đồng loại bị giết cũng như ánh lên cơn thèm mồi coi nhóm anh như chiến lợi phẩm, chứ tuyệt nhiên chẳng thấy chút sợ hãi hay khiếp nhược nào.
+Nghe Vel nói, Kuust liền quan sát vẻ mặt của lũ Water Monkey. Quả thực, trong mắt chúng chỉ đầy vẻ thù địch vì đồng loại bị giết và ánh nhìn thèm thuồng coi nhóm anh như con mồi, chứ tuyệt nhiên chẳng thấy chút kính sợ hay kinh hãi nào.
 
 "Rốt cuộc cũng chỉ là lũ quái vật thấp kém. Đến thực lực của mình với đối phương mà cũng chẳng nhìn ra."
 
-Đúng khoảnh khắc Kuust lẩm bẩm vẻ khinh miệt thì.
+Đúng vào khoảnh khắc Kuust khinh miệt lẩm bẩm như vậy...
 
 "Graaaaaaaa!"
 

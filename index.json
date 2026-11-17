@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T08:19:11Z",
+  "generatedAt": "2026-11-17T08:35:40Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2626,19 +2626,19 @@
           "number": 79,
           "title": "Chương 79: Tế đàn kế thừa (79)",
           "path": "translations/legend-1/vi/Chapter_079.md",
-          "sha": "8407c4549b66686f610fbef8516af91aedb623d8"
+          "sha": "cc9a08bd4ee70ad901c10111f8f656dfdc3ed90b"
         },
         {
           "number": 80,
           "title": "Chương 80: Tế đàn kế thừa (80)",
           "path": "translations/legend-1/vi/Chapter_080.md",
-          "sha": "227d4e412af0a7d5ab3e25a388f4225fa6d12e26"
+          "sha": "d162d71f8d5a0d3cd85285a951d6d97f5d60ae0d"
         },
         {
           "number": 81,
           "title": "Chương 81: Tế đàn kế thừa (81)",
           "path": "translations/legend-1/vi/Chapter_081.md",
-          "sha": "9ac74cb7744b1b226edada78433fafc712108163"
+          "sha": "0fa5009d7778b6445cc4984e216182b7257db781"
         }
       ]
     },

@@ -149,7 +149,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | モンスターランク |  | Hạng quái vật | cấp bậc | 40 | Phân hạng quái vật; viết thường khi nói chung, viết hoa khi đi với tên hạng |
 | ランクアップ |  | thăng hạng | cấp bậc | 40 | Thăng cấp bậc mạo hiểm giả; viết thường |
 | ドラゴントカゲ |  | Thằn Lằn Rồng | quái vật | 43 | Quái vật thằn lằn cỡ lớn Hạng E, nhỉnh hơn người trưởng thành một chút, răng có độc nhẹ, nhược điểm là ma pháp hệ Băng |
-| ウィンドアロー |  | Mũi Tên Gió | kỹ năng | 44 | Kỹ năng ma thuật hệ Phong bắn ra 3-5 mũi tên gió vô hình tốc độ cao, Set học được từ Ma Thạch Orc Archer |
+| ウィンドアロー |  | Mũi Tên Gió | kỹ năng | 44 | Kỹ năng ma thuật hệ Phong bắn ra 3-5 mũi tên gió vô hình tốc độ cao, Set học được từ Ma Thạch Orc Archer; viết hoa khi là tên kỹ năng/ma pháp: Mũi Tên Gió; viết thường khi chỉ các mũi tên gió được bắn ra (風の矢): năm mũi tên gió |
 | 飛斬 |  | Phi Trảm | kỹ năng | 44 | Kỹ năng trảm kích tầm xa của Lưỡi Hái Tử Thần, học được từ Ma Thạch Orc Archer |
 | マジックシールド |  | Khiên Ma Thuật | kỹ năng | 44 | Kỹ năng tạo tấm khiên ánh sáng tự động đỡ 1 đòn của Lưỡi Hái Tử Thần, học được từ Ma Thạch Orc Mage |
 | 王の威圧 |  | Uy Áp Vương Giả | kỹ năng | 44 | Kỹ năng giảm khoảng 10% tốc độ của kẻ địch yếu hơn bản thân, Set học được từ Ma Thạch Orc King |
@@ -202,3 +202,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ウォーターモンキー |  | Water Monkey | quái vật | 79 | Quái vật loài khỉ bọc nước, Hạng D |
 | ウォーターゴリラ |  | Water Gorilla | quái vật | 79 | Cách gọi ví von của Vel về con Water Monkey khổng lồ |
 | オーガ |  | Ogre | quái vật | 81 | Quái vật hình người to lớn da xanh thuộc hệ Goblin, Hạng C |
+| モンスター辞典 |  | từ điển quái vật | vật phẩm | 43 | Cuốn sách tra cứu thông tin quái vật mà Rei mua tại hiệu sách ở Gilm |

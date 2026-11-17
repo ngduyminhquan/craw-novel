@@ -48,7 +48,7 @@ Sau đó, Rei cắt thịt Water Monkey thành từng miếng vừa ăn để nh
 
 Thịt nướng xèo xèo trên đống lửa dần tỏa ra mùi thơm nức mũi kích thích vị giác, khiến Set liên tục gừ gừ trong họng, háo hức chờ xiên thịt chín.
 
-Trong khu rừng đêm, chỉ riêng góc nhỏ nơi Rei và Set đang ngồi dường như trôi qua trong một bầu không khí yên bình đến lạ.
+Giữa khu rừng đêm, chỉ riêng ở góc nhỏ nơi Rei và Set đang ngồi là thời gian dường như trôi qua thật yên bình.
 
 "Này, cẩn thận nóng đấy."
 
@@ -66,7 +66,7 @@ Cứ thế, màn đêm chầm chậm trôi qua, đến khi phương đông vừa
 
 "...Cái gì thế? Vừa rồi hình như mặt đất rung lên..."
 
-Vừa dứt lời lẩm bẩm, Rei lại cảm nhận cơ thể khẽ đung đưa thêm lần nữa. Đâu đó vẳng lại tiếng "uỳnh, uỳnh" rất khẽ. Rồi âm thanh ấy cứ lớn dần lên, kéo theo độ rung chấn cũng ngày một mạnh hơn.
+Vừa dứt lời lẩm bẩm, Rei lại thấy người khẽ rung lên lần nữa. Đâu đó vẳng lại tiếng uỳnh, uỳnh rất nhỏ. Rồi âm thanh ấy cứ lớn dần lên, kéo theo độ rung chấn cũng ngày một mạnh hơn.
 
 (Dựa vào âm thanh đều đặn thế này, lẽ nào là tiếng bước chân của quái vật?)
 
@@ -82,7 +82,7 @@ Rei liếc mắt nhìn về phía hốc cây.
 
 Bảo Set một tiếng, Rei đi vào trong hốc cây rồi tiện chân đá nhẹ đánh thức Ara đang nằm gần nhất.
 
-"Ủa? Chuyện giề thía...?"
+"Ưm? Chuyện gì thế ạ...?"
 
 "Dậy đi, Ara. Kẻ địch đấy."
 
@@ -96,7 +96,7 @@ Kinh động tới mức này thì những người xung quanh cũng nhận ra �
 
 "Ơ, kìa, cậu Rei!?"
 
-Bỏ lại tiếng gọi của Ara sau lưng, Rei hướng mắt về nơi phát ra tiếng bước chân. Tiếng "uỳnh, uỳnh" vang lên ngày một gần, chẳng khó để nhận ra đích đến của nó chính là chỗ bọn họ.
+Bỏ lại tiếng gọi của Ara sau lưng, Rei hướng mắt về nơi phát ra tiếng bước chân. Tiếng uỳnh, uỳnh vang lên ngày một gần, chẳng khó để nhận ra đích đến của nó chính là chỗ bọn họ.
 
 Cầm lấy cây Lưỡi Hái Tử Thần vốn lấy ra từ trước để tiện đứng gác đêm, Rei bắt đầu chạy về hướng có tiếng động. Set lặng lẽ sải bước bám sát bên cạnh.
 
@@ -108,21 +108,21 @@ Chạy tiếp như vậy vài phút, chỉ vỏn vẹn vài phút sau, họ đã
 
 Khoảnh khắc nhìn thấy Rei và Set, kẻ đó liền ngoác cái miệng rộng hoác gầm lên một tiếng đe dọa.
 
-Chiều cao của nó chí ít cũng phải hơn năm mét, toàn thân phủ một lớp da màu xanh lục có lẽ vì thuộc hệ quái vật Goblin. Thế nhưng ẩn chứa bên trong cơ thể ấy lại là những múi cơ bắp cuồn cuộn nén chặt đến mức áp đảo. Trên tay nó cầm một khúc côn gỗ thực chất là cả một thân cây vừa bị nhổ rễ. Gương mặt với hai chiếc răng nanh chìa ra khỏi khóe miệng càng làm nổi bật nét hung bạo và gớm ghiếc. Nhìn con quái vật sừng sững trước mắt, Rei nhanh chóng lục lọi mớ kiến thức trong đầu để tìm ra lai lịch của nó.
+Chiều cao của nó chí ít cũng phải hơn năm mét, toàn thân phủ một lớp da màu xanh lục có lẽ vì thuộc hệ quái vật Goblin. Thế nhưng ẩn chứa bên trong cơ thể ấy lại là những múi cơ bắp cuồn cuộn nén chặt đến mức áp đảo. Trên tay nó cầm một khúc côn gỗ thực chất là cả một thân cây vừa bị nhổ rễ. Gương mặt với hai chiếc răng nanh chìa ra khỏi khóe miệng càng làm nổi bật nét hung bạo và gớm ghiếc. Rei biết rõ con quái vật đang đứng trước mắt mình vì từng đọc thấy trong sách. Đó chính là...
 
-(Ogre sao?)
+"Ogre à."
 
-Dù trí khôn chẳng cao là bao, nhưng xét về độ hung bạo cùng năng lực thể chất thì nó đứng vào hàng ngũ cấp cao trong giới quái vật.
+Tuy cũng thuộc họ Goblin, nhưng độ hung bạo, mức độ nguy hiểm cùng sức mạnh của nó thì lũ Goblin Hạng F chẳng thể nào sánh nổi. Cũng chính vì thế mà nó được xếp vào hàng quái vật cấp cao Hạng C.
 
-(Dẫu không bằng Orc King, cơ mà cũng lòi ra một con hàng cỡ bự đấy chứ.)
+Khi đứng đối diện với Rei, vốn có chiều cao chừng 165cm và thuộc dạng nhỏ con so với nam giới, thân hình nó cao gấp gần ba lần, đầu của Rei chỉ mới tới ngang đầu gối con Ogre. Nhìn Rei như vậy, con Ogre liền vung cao khúc côn gỗ như thể nghĩ bụng cứ đập bẹp trước rồi ăn thịt sau là được.
 
-Ngước nhìn con Ogre trước mặt, Rei thầm cảm thán.
+Thế nhưng, con Ogre không hề biết Rei là kẻ thế nào. Nếu biết được năng lực của cậu, hẳn nó đã chẳng đối phó hời hợt như vậy mà đã dồn hết sức bình sinh vào cú vung côn ngay từ đầu.
 
-Trong lúc đó, con Ogre nhẹ nhàng dùng một tay nhấc bổng khúc côn gỗ――thân cây to cỡ một vòng tay người lớn――rồi giáng thẳng xuống người Rei.
+Có điều, trái ngược với năng lực thể chất áp đảo ấy, con Ogre có trí thông minh thấp kém lại chỉ nhìn vẻ bề ngoài mà mặc định Rei là một kẻ chẳng đáng bận tâm.
 
-Uỳnh! Khúc côn gỗ nện thẳng xuống mặt đất kèm theo một tiếng nổ trầm đục, hất văng đất cát, lá cây cùng sỏi đá bay tung tóe.
+Ầm!
 
-Thế nhưng Rei đâu có chậm chạp tới mức để dính trọn đòn tấn công như thế.
+Khúc côn gỗ giáng xuống với khí thế như muốn nghiền nát mọi thứ nó chạm phải. Tuy là một đòn hoàn toàn chẳng có chút kỹ thuật nào mà chỉ vung bằng sức mạnh cơ bắp thuần túy, nhưng đòn tấn công ấy quả thực ẩn chứa sức phá hoại vô cùng khủng khiếp. ...Đúng vậy, miễn là nó đánh trúng.
 
 "Này này, ai thèm dính cái đòn vung tay vụng về thế chứ!"
 
@@ -166,15 +166,15 @@ Cuối cùng cũng nhận ra có kẻ đang ở ngang tầm mắt mình, khoản
 
 "Hộc!?"
 
-Cây Lưỡi Hái Tử Thần giáng xuống mang trọng lượng hơn một trăm ký, cộng hưởng cùng sức mạnh thể chất phi thường của bản thân Rei, lại thêm tác động của lượng ma lực truyền vào lưỡi hái, đã ngọt ngào chém đứt khúc côn――thứ đối với Rei chẳng khác nào một thân cây cổ thụ――như thể không hề gặp phải chút lực cản nào. Lưỡi hái tiếp tục xé gió lao thẳng về phía đầu con Ogre... Thế nhưng theo bản năng sinh tồn mách bảo, con Ogre đã kịp giật lùi cái thân hình hộ pháp ra sau, khiến nhát chém chỉ để lại một vết thương sâu hoắm trên ngực chứ chưa thể lấy mạng nó ngay trong một đòn.
+Cây Lưỡi Hái Tử Thần giáng xuống mang trọng lượng hơn một trăm ký, cộng hưởng cùng sức mạnh thể chất phi thường của bản thân Rei, lại thêm tác động của lượng ma lực truyền vào lưỡi hái, đã dễ dàng chém đứt ngọt khúc côn to như một thân cây cổ thụ đối với Rei mà chẳng gặp phải chút lực cản nào. Lưỡi hái tiếp tục xé gió lao thẳng về phía đầu con Ogre... Thế nhưng theo bản năng sinh tồn mách bảo, con Ogre đã kịp giật lùi cái thân hình hộ pháp ra sau, khiến nhát chém chỉ để lại một vết thương sâu hoắm trên ngực chứ chưa thể lấy mạng nó ngay trong một đòn.
 
 "Gàoooooooooooooooo!"
 
-Thứ con mồi nhỏ nhoi như loài bọ gậy trước mắt, thứ lẽ ra chỉ là món điểm tâm của nó, vậy mà lại dám đả thương nó. Chạm vào vết thương rồi nhìn vệt máu đỏ tươi dính bết trên tay, ngửi thấy mùi tanh tưởi của sắt, cơn giận của con Ogre đã bùng lên tới đỉnh điểm.
+Thứ con mồi nhỏ nhoi như sâu bọ trước mắt, thứ lẽ ra chỉ là bữa ăn sáng của nó, vậy mà lại dám đả thương nó. Chạm vào vết thương rồi nhìn vệt máu đỏ tươi dính bết trên tay, ngửi thấy mùi tanh tưởi của sắt, cơn giận của con Ogre đã bùng lên tới đỉnh điểm.
 
 "Gàoooo!"
 
-Cũng như cú đánh đầu tiên... không, lần này nó dồn lực còn khủng khiếp hơn để vung khúc côn――dù đã bị Lưỡi Hái Tử Thần chém cụt mất một đoạn khá dài――khiến Rei phải vội vã lùi xa né tránh.
+Cũng như cú đánh đầu tiên... không, lần này nó dồn lực còn mạnh hơn nữa để vung khúc côn đã bị Lưỡi Hái Tử Thần chém ngắn đi khá nhiều, khiến Rei phải bật nhảy thật rộng để né tránh.
 
 Bởi lẽ đòn đánh của Ogre tốc độ tuy chậm nhưng uy lực lại cực kỳ kinh người, mặt đất bị nện trúng bắn tung đất đá ra khắp xung quanh theo từng đợt chấn động. Do đó, bình thường Rei vốn sở trường né đòn trong gang tấc rồi chớp sơ hở phản công, thì nay lại chẳng thể áp dụng lối đánh đó được.
 
