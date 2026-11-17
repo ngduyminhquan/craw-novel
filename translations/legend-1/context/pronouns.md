@@ -41,6 +41,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Filma | cô / nữ Elf / Filma | 46 | Nữ Elf Ranger tham gia bài thi thăng hạng |
 | Superbia | Superbia / anh / gã / người đàn ông / nam kiếm sĩ | 55 | Nam kiếm sĩ tham gia bài thi thăng hạng |
 | Kerebel | ông / Công tước Kerebel | 58 | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana |
+| Beamter | Beamter / chàng trai | 60 | Trưởng nhóm Hạng D của Mối Liên Kết Của Đất |
 
 ## Giữa các nhân vật
 
@@ -158,3 +159,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Scola | Superbia | tôi | anh | 55 | Thí sinh cùng tham gia bài thi thăng hạng |
 | Superbia | Scola | tôi | cậu | 55 | Thí sinh cùng tham gia bài thi thăng hạng |
 | Ekril | Lana | cháu / em | bác / cô | 59 | Khách quen gọi bà chủ quán trọ |
+| Beamter | Milein | tôi | chị / chị Milein | 60 | Lễ phép với tiền bối Hạng C |
+| Milein | Beamter | tôi | cậu / Beamter | 60 | Tiền bối Hạng C nói với mạo hiểm giả Hạng D |
+| Beamter | Rei | tôi | cậu | 60 | Nói chuyện với Rei |
+| Rei | Beamter | tôi | anh | 60 | Lịch sự với người lớn tuổi hơn |

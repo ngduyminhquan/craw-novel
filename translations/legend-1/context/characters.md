@@ -37,6 +37,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Superbia | スペルビア; スペルピア | Superbia | Nam kiếm sĩ Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 | Filma | フィールマ・パトローノ; フィールマ | Filma | Nữ Ranger tộc Elf Hạng E tại Gilm tham gia bài thi thăng hạng lên Hạng D | Chương 46 |
 | Kerebel | ケレベル | Kerebel | Công tước thuộc Phe Quý Tộc của Vương quốc Mireana | Chương 58 |
+| Beamter | ベアムター; ベア | Beamter | Trưởng nhóm Hạng D của tổ đội Mối Liên Kết Của Đất | Chương 60 |
 
 ## Chi tiết
 
@@ -182,3 +183,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Kerebel
 - Nhân vật nòng cốt của Phe Quý Tộc, cha của Elena Kerebel (Công Chúa Tướng Quân)
+
+### Beamter
+- Nam thanh niên khoảng 18-22 tuổi, vẻ mặt hiền lành dễ mến; mạo hiểm giả Hạng D dẫn dắt tổ đội Hạng E gồm các đàn em cùng cô nhi viện
+- Tính cách: Lịch sự, chu đáo, hết lòng chăm lo cho đàn em; dễ ngượng ngùng khi bị trêu chọc
