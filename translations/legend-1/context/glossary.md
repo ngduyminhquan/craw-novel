@@ -201,3 +201,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 空を征く不死鳥 |  | Phượng Hoàng Lướt Trời | kỹ năng | 78 | Ma thuật hệ Hỏa của Rei, tạo ra phượng hoàng lửa sải cánh bay lượn thiêu rụi mục tiêu |
 | ウォーターモンキー |  | Water Monkey | quái vật | 79 | Quái vật loài khỉ bọc nước, Hạng D |
 | ウォーターゴリラ |  | Water Gorilla | quái vật | 79 | Cách gọi ví von của Vel về con Water Monkey khổng lồ |
+| オーガ |  | Ogre | quái vật | 81 | Quái vật hình người to lớn da xanh thuộc hệ Goblin, Hạng C |

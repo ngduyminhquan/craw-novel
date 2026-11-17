@@ -55,7 +55,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 80: Thẻ Hội Hạng D; cùng nhóm Elena hạ trại trong hốc đại thụ gần bờ sông ở tầng ngầm thứ tư, ăn tối và chuẩn bị thay phiên trực gác đêm cùng Set.
+- Trạng thái tính đến chương 81: Thẻ Hội Hạng D; cùng Set trực ca gác đêm cuối ở tầng ngầm thứ tư, chủ động đón đầu tiêu diệt một con Ogre (Hạng C) cao hơn 5m bằng Lưỡi Hái Tử Thần phối hợp độc của Set để bảo vệ khu trại.
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.

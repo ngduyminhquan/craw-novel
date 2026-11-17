@@ -85,7 +85,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 78 |  | Chapter_0078 - 継承の祭壇 - 第78話.txt | 継承の祭壇 - 第78話 | reviewed |  |
 | 79 |  | Chapter_0079 - 継承の祭壇 - 第79話.txt | 継承の祭壇 - 第79話 | done |  |
 | 80 |  | Chapter_0080 - 継承の祭壇 - 第80話.txt | 継承の祭壇 - 第80話 | done |  |
-| 81 |  | Chapter_0081 - 継承の祭壇 - 第81話.txt | 継承の祭壇 - 第81話 | todo |  |
+| 81 |  | Chapter_0081 - 継承の祭壇 - 第81話.txt | 継承の祭壇 - 第81話 | done |  |
 | 82 |  | Chapter_0082 - 継承の祭壇 - 第82話.txt | 継承の祭壇 - 第82話 | todo |  |
 | 83 |  | Chapter_0083 - 継承の祭壇 - 第83話.txt | 継承の祭壇 - 第83話 | todo |  |
 | 84 |  | Chapter_0084 - 継承の祭壇 - 第84話.txt | 継承の祭壇 - 第84話 | todo |  |
