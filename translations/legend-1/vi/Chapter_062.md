@@ -144,7 +144,7 @@ Ban đầu, phải rời xa Elena, người mà anh hết lòng sùng kính, khi
 
 Thấy bóng Kuust đã khuất sau cánh cửa, Daska cất lời xin lỗi ngắn gọn với Rei.
 
-Quý tộc bình thường vì thể diện uy quyền nên chẳng mấy khi mở miệng xin lỗi thường dân, nhưng việc thản nhiên làm điều đó lại cho thấy nét khác biệt của Daska, Bá tước biên cảnh Rowlocks. Có điều, cũng chính nhờ con người như vậy mà ông mới được tất cả kính trọng với tư cách lãnh chúa vùng biên viễn Gilm này.
+Quý tộc bình thường vì thể diện uy quyền nên chẳng mấy khi mở miệng xin lỗi thường dân, nhưng việc thản nhiên làm điều đó lại cho thấy nét khác biệt của Daska, Bá tước biên cảnh Rowlocks. Có điều, cũng chính nhờ con người như vậy mà ông mới được mọi người kính trọng với tư cách lãnh chúa vùng biên viễn Gilm này.
 
 "Không sao đâu ạ, với quý tộc thì thái độ kiểu đó có khi lại là chuyện bình thường, nên tôi cũng không để... để ý đâu."
 

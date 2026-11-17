@@ -16,7 +16,7 @@ Người phụ nữ vừa dứt lời liền vung mạnh thứ vũ khí đang c�
 
 Vũ khí đó thoạt nhìn chỉ dài hơn kiếm dài thông thường đôi chút, trông như một thanh kiếm bình thường. Nhưng khi người phụ nữ vung mạnh, mũi kiếm lại duỗi dài ra và uốn lượn như một ngọn roi, đồng thời các lưỡi dao cũng gắn rải rác dọc theo thân roi ấy. Đó chính là loại vũ khí được gọi là liên tiếp kiếm hay xà phúc kiếm. Vốn dĩ đây là một loại Đạo Cụ Ma Thuật đòi hỏi kỹ thuật cực kỳ cao mới có thể sử dụng được, thế nhưng người phụ nữ lại vung vẩy thanh liên tiếp kiếm như đang múa.
 
-Và người phụ nữ ấy cũng sở hữu một nhan sắc tuyệt trần, hoàn toàn xứng đôi với vũ điệu tuyệt mỹ kia. Gương mặt cô thanh tú như một tác phẩm nghệ thuật, đôi mắt dài sắc sảo toát lên vẻ mạnh mẽ và ý chí kiên định, cùng sức quyến rũ nồng nàn đặc trưng của độ tuổi mười tám đôi mươi, giai đoạn chuyển mình từ thiếu nữ thành phụ nữ. Mái tóc vàng óng ả lộng lẫy như dệt từ những sợi chỉ vàng buông dài tới giữa lưng. Phần đuôi tóc uốn cong thành từng lọn tròn, kiểu tóc mà người ta hay gọi là tóc lọn xoăn.
+Và người phụ nữ ấy cũng sở hữu một nhan sắc tuyệt trần, hoàn toàn xứng đôi với vũ điệu tuyệt mỹ kia. Gương mặt cô thanh tú như một tác phẩm nghệ thuật, đôi mắt dài sắc sảo toát lên vẻ mạnh mẽ và ý chí kiên định, cùng sức quyến rũ nồng nàn đặc trưng của tuổi mười bảy, mười tám, giai đoạn chuyển mình từ thiếu nữ thành phụ nữ. Mái tóc vàng óng ả lộng lẫy như dệt từ những sợi chỉ vàng buông dài tới giữa lưng. Phần đuôi tóc uốn cong thành từng lọn tròn, kiểu tóc mà người ta hay gọi là tóc lọn xoăn.
 
 Bộ giáp bảo vệ cơ thể cô cũng là một Đạo Cụ Ma Thuật tương tự như thanh liên tiếp kiếm. Tác dụng của nó là ban phước lành của gió, giúp gia tăng tốc độ và mang lại cho người trang bị khả năng đọc gió. Sau lưng cô là tấm áo choàng sắc vàng óng ả tiệp màu với mái tóc, một Đạo Cụ Ma Thuật có khả năng cảm nhận nguy hiểm. Đôi chân cô mang Giày Sleipnir, cho phép đạp vào không trung vài bước. Nơi khe ngực căng tròn mê hoặc, đủ sức hút chặt mọi ánh nhìn của đàn ông, là một sợi dây chuyền giúp tăng sức phòng ngự trước ma pháp.
 
@@ -34,11 +34,11 @@ Dáng vẻ ấy vừa đẹp đẽ, lộng lẫy hết mức, mà cũng vừa t�
 
 "Đúng là tiểu thư Elena. Lũ Orc tép riu chẳng bõ để tiểu thư bận tâm."
 
-Người đang say đắm ngắm nhìn Elena săn lùng Orc như đang múa là một nữ hiệp sĩ. Cô khoảng mười tám đôi mươi, nhỏ tuổi hơn Elena một chút. Tên cô là Ara Scarley, một thành viên trong đội hộ vệ của Elena. Cô có họ riêng vì là con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
+Người đang say đắm ngắm nhìn Elena săn lùng Orc như đang múa là một nữ hiệp sĩ. Cô cũng chừng mười bảy, mười tám, có lẽ nhỏ hơn Elena một chút. Tên cô là Ara Scarley, một thành viên trong đội hộ vệ của Elena. Cô có họ riêng vì là con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
 
 "Aizz, thật tình, nữ vương nhà mình đẹp thì đẹp thật nhưng cũng đáng sợ ghê, hay là vì đáng sợ nên mới đẹp đây..."
 
-Người đang cười trừ đầy ngán ngẩm là Vel Sails, một nam hiệp sĩ khoảng hơn hai mươi tuổi. Tương tự như Ara, anh cũng là con trai thứ hai của nhà Tử tước Sails thuộc Phe Quý Tộc và là một thành viên của đội hộ vệ.
+Người đang cười trừ đầy ngán ngẩm là Vel Sails, một nam hiệp sĩ chừng ngoài hai mươi. Tương tự như Ara, anh cũng là con trai thứ hai của nhà Tử tước Sails thuộc Phe Quý Tộc và là một thành viên của đội hộ vệ.
 
 Và hai người họ, cùng với Kuust, con trai thứ hai của Hầu tước Brassin, tạo thành đội hộ vệ gồm ba người được Công tước Kerebel lệnh bảo vệ Elena trên đường tới thành phố Gilm.
 

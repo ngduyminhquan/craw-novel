@@ -182,7 +182,7 @@ Hiểu ra là vậy, nhưng Rei cũng thừa biết trận chiến này sẽ kh�
 
 Vừa buông một câu cộc lốc, Rei lập tức đạp đất rút ngắn khoảng cách với người đàn ông.
 
-Người đàn ông cũng thủ ma kiếm chờ sẵn, đón đầu Rei – kẻ vừa tự mình vứt bỏ lợi thế của vũ khí cán dài để áp sát cự ly.
+Người đàn ông cũng thủ ma kiếm chờ sẵn, đón đầu Rei, kẻ vừa tự vứt bỏ lợi thế của vũ khí cán dài để áp sát.
 
 "Đỡ này!"
 
