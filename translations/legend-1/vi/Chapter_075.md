@@ -18,7 +18,7 @@ Chứng kiến cảnh ấy, Elena cũng điều khiển liên tiếp kiếm, vun
 
 "Quả đúng như tiểu thư Elena nói ạ."
 
-Kuust cũng gật đầu tán thành, đoạn đâm ma thương xuyên thủng một con Soldier Ant đang luồn lách qua kẽ hở giữa đội hình của nhóm Elena.
+Kuust vừa dùng ma thương đâm xuyên một con Soldier Ant đang luồn lách qua kẽ hở giữa đội hình của nhóm Elena, vừa gật đầu tán thành.
 
 "Tôi nghĩ có lẽ do số lượng quái vật sống trong hầm ngục giảm bớt nên lõi hầm ngục mới dịch chuyển thêm quái vật mới vào. Trong sách viết về hầm ngục có nhắc tới chuyện đó."
 
@@ -34,7 +34,7 @@ Rei lẩm bẩm trong lúc thủ sẵn Lưỡi Hái Tử Thần.
 
 "Lần này là gì thế, cậu Rei? Ếch? Kiến? Hay dơi? Thật lòng mà nói đối đầu với lũ tép riu như thế phiền toái vô cùng."
 
-"Có điều, cô nói với tôi thì tôi cũng chịu thôi. Muốn phàn nàn thì cứ đi mà tìm lõi hầm ngục hay quái vật trùm ấy. ...Hử? Có vẻ điều ước của Ara thành hiện thực rồi đấy."
+"Không, cô nói thế với tôi thì tôi cũng chịu thôi. Muốn phàn nàn thì cứ đi mà tìm lõi hầm ngục hay quái vật trùm ấy. ...Hử? Có vẻ mong muốn của cô thành hiện thực rồi đấy."
 
 "Dạ?"
 
@@ -48,7 +48,7 @@ Phía sau cả đoàn, Set cất tiếng kêu. Đối với nhóm Elena thì đ�
 
 "Hử. Lũ quái vật gặp từ nãy tới giờ chẳng có con nào đủ thông minh để biết đánh gọng kìm, xem ra đợt này khác rồi nhỉ."
 
-"Mà, nói thì nói vậy chứ dẫu sao đây mới là tầng ngầm thứ hai của hầm ngục, chắc cũng chẳng phải loại quái vật Hạng cao gì đâu."
+"Mà, nói thì nói vậy chứ dẫu sao đây mới là tầng ngầm thứ hai của hầm ngục, chắc cũng chẳng phải loại quái vật hạng cao gì đâu."
 
 Vel vừa lẩm bẩm vừa giương cung. Và kẻ lộ diện nơi đầu lối đi đúng là loại quái vật khác hẳn trước đó, nhưng đồng thời cũng đúng y như những gì Vel vừa nói.
 
@@ -68,7 +68,7 @@ Nghe lời Vel, Elena quyết định ngay tắp lự. Võ dũng cá nhân là m
 
 "Cứ thế này mà tìm cách tránh giao chiến thì ngược lại chỉ mất thời gian hơn. Đành vậy. Rei, năm con Goblin phía sau chỉ mình cậu và Set liệu có ổn không?"
 
-"Hoàn toàn không vấn đề gì ạ."
+"Hoàn toàn không thành vấn đề."
 
 "Vậy phía sau nhờ cậu. Mười con Goblin đằng trước cứ để chúng ta lo."
 
@@ -98,7 +98,7 @@ Dù sao thì Goblin cũng có trí khôn thấp. Chúng có thể phối hợp h
 
 Đáp lại tiếng hô của Rei bằng một tiếng kêu ngắn, Set đạp đất lao vọt về phía lũ Goblin. Bên cạnh nó, Rei cũng thủ sẵn Lưỡi Hái Tử Thần, rút ngắn khoảng cách với đối phương.
 
-"Gia-gia-gia!"
+"Gié-gié-gié!"
 
 Con Goblin hét lên đe dọa rồi vung trường kiếm chém vào Set đang lao tới, nhưng ngay khoảnh khắc thanh kiếm vung lên, Set đã đạp đất bật sang vách tường, mượn vách tường làm điểm tựa rồi tung mình bật ngược lại như động tác bật tường đổi hướng, vồ thẳng vào con Goblin vừa chém hụt.
 
@@ -158,17 +158,17 @@ Vel bất thình lình cất tiếng hô.
 
 "Vel?"
 
-Không đáp lại câu hỏi của Kuust, anh bước vượt lên trước Rei và Ara rồi bắt đầu kiểm tra mặt đất, vài phút sau, một tiếng "tách" vang lên rõ mồn một.
+Không đáp lại câu hỏi của Kuust, anh bước vượt lên trước Rei và Ara rồi bắt đầu kiểm tra mặt đất, vài phút sau, một tiếng tách vang lên rõ mồn một.
 
 Tới lúc đó thì tất cả mọi người có mặt đều đã hiểu vì sao Vel lại ngăn họ lại.
 
-"Phù, xong rồi đấy. Bẫy đã được giải rồi. Đó là bẫy giẫm phải công tắc thì tên sẽ bắn ra."
+"Phù, ổn rồi đấy. Tôi gỡ bẫy xong rồi. Đó là bẫy hễ giẫm phải lẫy là tên sẽ bắn ra."
 
 Gỡ bẫy hầm ngục là trải nghiệm đầu tiên đối với cả Vel, nên dù trông có vẻ căng thẳng nhưng anh vẫn nở nụ cười gật đầu.
 
 "Vừa hạ xong Goblin, bẫy lại được giăng ngay vào lúc tinh thần ít nhiều lơ là. ...Các cậu nghĩ đây là ngẫu nhiên sao?"
 
-"Chắc chắn không có chuyện đó đâu ạ. Tôi nghĩ khả năng cao là bẫy do lũ quái vật sống trong hầm ngục cố tình gài bẫy."
+"Chắc chắn không có chuyện đó đâu ạ. Tôi nghĩ khả năng cao là bẫy do lũ quái vật sống trong hầm ngục chủ đích giăng ra."
 
 "Kuust cũng nghĩ vậy à. ...Không ngờ mới ở tầng ngầm thứ hai mà đã có cạm bẫy hiểm hóc đến mức này. Xem ra từ đây trở đi càng phải cẩn trọng hơn rồi."
 
@@ -184,7 +184,7 @@ Thế nhưng, ngay khoảnh khắc Ara định bước chân lên bậc cầu th
 
 "Rei, giữ Ara lại!"
 
-Cùng lúc với tiếng hô đó, hình bóng ấy lọt vào tầm mắt của Rei, và gần như theo phản xạ, cậu túm lấy phần cổ giáp của Ara giật mạnh về phía sau.
+Cùng lúc với tiếng hô đó, thứ kia cũng lọt vào tầm mắt Rei, và gần như theo phản xạ, cậu túm lấy phần cổ giáp của Ara giật mạnh về phía sau.
 
 "Á! Cậu Rei, rốt cuộc cậu làm cái gì thế!?"
 
@@ -196,15 +196,15 @@ Dù nét mặt vẫn còn ngờ vực trước thái độ đó, Ara vẫn nheo 
 
 "Đây là... sợi tơ sao?"
 
-"Ừ. Chắc là của quái vật hệ nhện. Cực kỳ mảnh lại còn nhẹ nữa. Sợi tơ đó dẫu có chạm phải thì bình thường thậm chí còn chẳng nhận ra là đã chạm vào. Huống chi lại đang mặc giáp như Ara hay chúng ta thì càng khó mà biết."
+"Ừ. Chắc là của quái vật loài nhện. Cực kỳ mảnh lại còn nhẹ nữa. Sợi tơ đó dẫu có chạm phải thì bình thường thậm chí còn chẳng nhận ra là đã chạm vào. Huống chi lại đang mặc giáp như Ara hay chúng ta thì càng khó mà biết."
 
 "Và đương nhiên chẳng đời nào một sợi tơ như thế lại vô cớ giăng ở chỗ này."
 
 Nối tiếp lời Vel, Rei lẩm bẩm.
 
-"Đúng thế. Tôi nghĩ sợi tơ này khả năng cao là công tắc kích hoạt cạm bẫy nào đó. ...Mà, cứ thế ngây ngô dẫm vào thì dở quá, để tôi gỡ bẫy nhé?"
+"Đúng thế. Tôi nghĩ sợi tơ này khả năng cao là lẫy kích hoạt cạm bẫy nào đó. ...Mà, cứ thế ngây ngô dẫm vào thì dở quá, để tôi gỡ bẫy nhé?"
 
-Trước câu hỏi ấy, Elena trầm ngâm suy nghĩ một chút rồi thong thả gật đầu.
+Trước câu hỏi ấy, Elena ngẫm nghĩ một chút rồi thong thả gật đầu.
 
 "Được đấy. Nếu chỉ để chúng ta không vướng vào sợi tơ này thì bước qua là xong, nhưng nếu người đến sau vướng phải mà mất mạng thì lương tâm áy náy lắm. Vel, giao cho cậu đấy."
 
@@ -214,7 +214,7 @@ Trước câu hỏi ấy, Elena trầm ngâm suy nghĩ một chút rồi thong t
 
 "Tôi rõ rồi."
 
-Nói đoạn, cậu lấy bi đông nước cùng bánh sandwich từ Nhẫn Sương Mù ra rồi chia cho từng người.
+Nói rồi, cậu lấy bi đông nước cùng bánh sandwich từ Nhẫn Sương Mù ra rồi chia cho từng người.
 
 Ngay cả Kuust, người vốn ghét Rei, dường như cũng không để việc công lẫn lộn với việc tư nên chẳng nói nửa lời mà nhận lấy rồi đưa lên miệng ăn.
 

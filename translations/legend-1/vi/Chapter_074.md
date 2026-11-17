@@ -1,8 +1,8 @@
 # Chương 74: Tế đàn kế thừa (74)
 
-Sáng sớm hôm sau khi đặt chân tới vùng đất hầm ngục, tổ đội do Elena dẫn đầu lập tức toàn thể cùng nhau hướng về phía hầm ngục.
+Sáng sớm hôm sau khi đặt chân tới vùng đất có hầm ngục, cả tổ đội do Elena dẫn đầu lập tức cùng nhau lên đường tới hầm ngục.
 
-Thành viên tổ đội gồm tiền vệ Ara và Rei; trung vệ Elena và Kuust; hậu vệ Vel; cùng Set đóng vai trò lực lượng cơ động tự do, tổng cộng năm người và một con thú.
+Thành viên tổ đội gồm Ara và Rei ở vị trí tiền vệ, Elena và Kuust ở trung vệ, Vel ở hậu vệ, cùng Set đóng vai trò bọc lót cơ động, tổng cộng có năm người và một chú Griffin.
 
 Không khí đã mát mẻ hơn hẳn so với đợt cao điểm giữa hè, bầu trời quang đãng đến mức có thể gọi là một ngày trời thu trong xanh.
 
@@ -14,13 +14,13 @@ Hoặc có lẽ trong số những kẻ trông như ma pháp sư có người t�
 
 "Thật là, cái đám thường dân ô hợp này dám nhìn tiểu thư Elena bằng ánh mắt gì thế không biết. Bởi thế nên..."
 
-Có lẽ nghe thấy Kuust càu nhàu bực bội, Elena khẽ cười trừ rồi dỗ dành cậu.
+Có lẽ nghe thấy Kuust càu nhàu bực bội, Elena khẽ cười trừ rồi dỗ dành anh.
 
 "Kuust, chúng ta bị chú ý vốn là chuyện thường ngày rồi mà. Ta không để tâm, cậu cũng đừng bận lòng quá. Với lại bớt mấy lời phân biệt thường dân này nọ đi. Những người ở đây hầu hết đều là thường dân đấy. Làm họ phật ý thì chỉ rước thêm phiền toái thôi. ...Hơn nữa, việc nhìn ta bằng ánh mắt thèm thuồng đâu có phân biệt thường dân hay quý tộc, cùng ta vào sinh ra tử trên chiến trường rồi chắc cậu cũng hiểu chứ?"
 
 "...Vâng, tôi xin lỗi."
 
-Elena đã bị cuộc đời từ trước đến nay buộc phải tự nhận thức rằng mình là một mỹ nhân, thậm chí là đại mỹ nhân, nên việc đàn ông nhìn mình bằng ánh mắt kiểu đó cô đã quá quen rồi. Thành thử chỉ bị nhìn như thế thì cô chẳng hề dao động. Dĩ nhiên, nếu kẻ nào mù quáng lao vào tấn công thì thanh liên tiếp kiếm kia sẽ lập tức tuốt vỏ. Và số kẻ bị thương vì thế, bất kể quý tộc hay thường dân, đã lên tới một con số không hề nhỏ.
+Từ trước đến nay, dù muốn hay không Elena cũng đã quá rõ mình là một mỹ nhân, thậm chí là tuyệt sắc giai nhân, nên cô đã quen với những ánh nhìn kiểu đó từ cánh đàn ông. Thành thử chỉ bị nhìn như thế thì cô chẳng hề dao động. Dĩ nhiên, nếu kẻ nào mù quáng lao vào tấn công thì thanh liên tiếp kiếm kia sẽ lập tức tuốt vỏ. Và số kẻ bị thương vì thế, bất kể quý tộc hay thường dân, đã lên tới một con số không hề nhỏ.
 
 Nhìn Elena như vậy, Ara ái ngại cất tiếng.
 
@@ -48,21 +48,21 @@ Vel hừ mũi cười khẩy một tiếng với Ara.
 
 "T-thì nếu thế, thay vì dùng mấy đứa nó, mình thuê ngựa thường là được chứ sao!"
 
-"Vâng vâng. Rồi để ngựa sợ quái vật mà hoảng loạn lồng lên chứ gì. Hiểu rồi."
+"Rồi làm đôi Warhorse giận dỗi hả?"
 
 "Hự..."
 
-Ara nghẹn lời trước câu nói của Vel. Vừa nghe hai người họ đối đáp vừa rảo bước, chẳng mấy chốc trước mắt họ đã hiện ra một đám đông tụ tập.
+Bị Vel nói cho cứng họng hoàn toàn, chẳng rõ là vì ngượng hay vì tức giận khi bị bẽ mặt trước tiểu thư Elena mà cô hằng sùng bái, Ara cứ thế đỏ mặt im bặt.
 
-Nơi đó có thể coi là rìa của ngôi làng, chính vì thế xung quanh không hề có công trình nào đáng kể. ...Dù vậy, vẫn có vài sạp hàng bán thuốc hồi phục hay vài quầy hàng ăn uống đơn sơ.
+Cũng may đây là ngôi làng được xây dựng xoay quanh hầm ngục nên chẳng mất mấy thời gian đã tới được lối vào; có lẽ đó là điều may mắn cho cả Ara lẫn Vel.
 
-Và ngay giữa khoảng đất trống tựa như quảng trường ấy, tại nơi mặt đất được đào khoét sâu xuống thành các bậc thang, đông đảo mạo hiểm giả đang xếp thành hàng dài.
+"Chà, quả nhiên xếp hàng đông phết nhỉ."
 
-"Đó là lối vào hầm ngục sao."
+Rất nhiều mạo hiểm giả đang xếp hàng trước lối vào hầm ngục. Ước chừng khoảng ba mươi người, tầm mười tổ đội.
 
-Elena gật đầu trước lời lẩm bẩm của Rei.
+"Tiểu thư Elena, giờ tính sao ạ? Chúng ta cũng có thể dùng tấm thẻ nhận được hôm qua để vào trước."
 
-"Ừ. Vậy trước khi vào hầm ngục, hãy kiểm tra lại trang bị đã."
+"...Ừ. Đường tới Tế đàn kế thừa còn xa, không thể tốn thời gian vô ích ở đây được. Trước đó, mọi người tự kiểm tra lại trang bị đi. Vũ khí, giáp trụ, cả các loại thuốc hồi phục tự mang theo để dùng ngay khi khẩn cấp đều không có vấn đề gì chứ?"
 
 Trước lời của Elena, tất cả mọi người tại chỗ liền kiểm tra lại trang bị. Dù vậy, khác với những người còn lại, Rei chỉ việc lấy Lưỡi Hái Tử Thần ra từ Nhẫn Sương Mù. Về các loại thuốc hồi phục thì có thể lấy ra từ Nhẫn Sương Mù bất cứ lúc nào, nên ngoài Lưỡi Hái Tử Thần cậu chẳng mang theo thứ gì khác trên người.
 
@@ -106,7 +106,7 @@ Thứ cô đưa cho người đàn ông là tấm thẻ nhận từ Worker tối
 
 Gã mạo hiểm giả độc hành đang làm thủ tục với nhân viên Hội được gọi là 'bác' liền lên tiếng cằn nhằn, nhưng bị ông ta lườm một cái sắc lẹm là lập tức ngoan ngoãn im thin thít.
 
-"Tấm thẻ này là bằng chứng có quyền hạn tương đương đại diện Hội đấy. Người ta đã đưa cái này ra thì bọn tao chỉ có nước nghe theo thôi. ...Dù là vậy nhưng,"
+"Tấm thẻ này là bằng chứng có quyền hạn tương đương đại diện Hội đấy. Người ta đã đưa cái này ra thì bọn tao chỉ có nước nghe theo thôi. ...Có điều là..."
 
 Nói câu đó với gã mạo hiểm giả ở đầu hàng xong, người nhân viên Hội quay sang nhìn Elena.
 
@@ -114,7 +114,7 @@ Nói câu đó với gã mạo hiểm giả ở đầu hàng xong, người nhâ
 
 "Tên kia, dám ăn nói kiểu đó với tiểu thư Elena hả!"
 
-Nghe những lời nếu nói là xấc xược thì đúng là xấc xược thật, Kuust suýt nữa đã thủ thế cây ma thương trên tay, nhưng bao kiếm liên tiếp kiếm của Elena đã kịp giữ tay cậu lại.
+Nghe những lời chẳng lấy gì làm lịch sự đó, Kuust suýt nữa đã giơ ngọn ma thương trên tay lên thủ thế, nhưng bao thanh liên tiếp kiếm của Elena đã kịp giữ tay anh lại.
 
 "Thôi đi, Kuust. Dù đúng là có quyền hạn, nhưng chen ngang là chúng ta. Phía bị chen ngang thấy khó chịu cũng là lẽ đương nhiên."
 
@@ -154,7 +154,7 @@ Bản thân lối vào hầm ngục chỉ là một cầu thang bình thường.
 
 "Cầu thang này cũng là một phần của hầm ngục sao?"
 
-Vừa bước xuống cầu thang Ara vừa hỏi Vel, nhưng câu hỏi liền bị phủ nhận.
+Vừa bước xuống cầu thang Ara vừa hỏi Vel, nhưng anh phủ nhận ngay.
 
 "Không, cầu thang này là do Hội làm sau khi hầm ngục xuất hiện đấy. Này, bằng chứng là đằng kia kìa."
 
@@ -164,7 +164,7 @@ Nơi hết bậc cầu thang là một cánh cửa gỗ thô ráp. Đó là th�
 
 "Gừưư."
 
-Đoạn đường từ cầu thang tới cánh cửa không dài lắm, nhưng bề rộng lại chẳng mấy thênh thang. Vì độ rộng không đủ để Set sải cánh nên chú nhóc vừa bước dọc lối đi vừa càu nhàu gừ khẽ trong cổ họng.
+Đoạn đường từ cầu thang tới cánh cửa không dài lắm, nhưng bề rộng lại chẳng mấy thênh thang. Vì độ rộng không đủ để Set sải cánh nên chú Griffin vừa bước dọc lối đi vừa càu nhàu gừ khẽ trong cổ họng.
 
 Nhưng tiếng gừ bất mãn ấy lập tức im bặt ngay khi nhìn thấy khung cảnh phía sau cánh cửa mở ra. Bên kia cánh cửa, lối đi được tạo dựng khá rộng rãi, rộng tới mức ngay cả khi Set dang rộng hết cỡ đôi cánh thì vẫn còn thừa khoảng trống cho vài người thoải mái di chuyển.
 
@@ -214,7 +214,7 @@ Set đớp lấy chuẩn xác rồi gần như nuốt chửng từng miếng m�
 
 Rồi dơi khổng lồ vốn dĩ to lớn, nhưng đó là tính cả sải cánh. Cắt bỏ đôi cánh chẳng có chỗ nào ăn được đi thì phần còn lại chỉ vừa cỡ một miếng ăn vặt của Set.
 
-Nhân tiện, dù Set ăn cả Ma Thạch của Horn Rabbit lẫn dơi khổng lồ nhưng chú nhóc cũng chẳng học thêm được kỹ năng nào mới, điều đó khiến Rei có phần tiếc nuối.
+Nhân tiện, dù Set ăn cả Ma Thạch của Horn Rabbit lẫn dơi khổng lồ nhưng nó cũng chẳng học thêm được kỹ năng nào mới, điều đó khiến Rei có phần tiếc nuối.
 
 Ngoài ra, những thứ như sừng và nội tạng moi ra từ Horn Rabbit, hay đôi cánh xẻ ra từ dơi khổng lồ cứ việc vứt lại trên lối đi, lũ Slime kiêm lao công của hầm ngục sẽ dọn sạch tất cả. Vì thế, trong hầm ngục luôn có một quy ước ngầm là hãy tha cho những con Slime không chủ động tấn công.
 

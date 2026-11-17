@@ -16,7 +16,7 @@ Thêm vào đó, theo tin tức Vel hỏi được ở quán trọ, người ph�
 
 "Lại còn vóc dáng kia nữa chứ. Phải chi được chung chăn gối dù chỉ một đêm thì sướng biết mấy."
 
-Vốn dĩ Elena đã sở hữu dung nhan tuyệt mỹ đến mức khiến người ta phải run rẩy cùng những đường cong cơ thể nở nang đầy quyến rũ, nên chỉ cần cô bước đi trong làng là lập tức trở nên vô cùng nổi bật.
+Vốn dĩ Elena đã sở hữu vẻ đẹp quyến rũ mê người cùng đường cong cơ thể nở nang đầy sức hút, nên chỉ cần bước đi trong làng thôi cũng đủ thu hút mọi ánh nhìn.
 
 Hơn nữa, vì là ngôi làng hình thành quanh hầm ngục, cư dân nơi đây phần lớn là mạo hiểm giả; dù không biết tên nhau thì số người nhẵn mặt cũng nhiều đến bất ngờ. Tại một nơi như thế, khi một tuyệt sắc giai nhân chưa từng xuất hiện như Elena rảo bước đi qua thì sẽ ra sao? Câu trả lời lúc này đang hiển hiện ngay trước mắt nhóm Rei.
 
@@ -56,7 +56,7 @@ Chẳng hạn như ở Gilm, bảng ủy thác luôn dán đầy ắp yêu cầu
 
 Dưới hầm ngục thì đêm xuống quái vật cũng trở nên hung hăng và hoạt động mạnh hơn bên ngoài; do khung giờ xuống thám hiểm của các mạo hiểm giả gần như trùng nhau nên mới dẫn tới tình trạng ấy.
 
-Dĩ nhiên, trong số mạo hiểm giả vẫn có những kẻ săn tìm nguyên liệu từ quái vật chỉ xuất hiện ban đêm, hay đơn thuần là muốn so tài với quái vật mạnh hơn, song đó là những mạo hiểm giả Hạng cao nên số lượng cực kỳ ít ỏi.
+Dĩ nhiên, trong số mạo hiểm giả vẫn có những kẻ săn tìm nguyên liệu từ quái vật chỉ xuất hiện ban đêm, hay đơn thuần là muốn so tài với quái vật mạnh hơn, nhưng đó là những mạo hiểm giả hạng cao nên số lượng cực kỳ ít ỏi.
 
 Vả lại, cũng có người nhận những ủy thác hiếm hoi do Hội đưa ra như hộ vệ đoàn thương buôn, nên không phải ngoài những khung giờ cố định thì sảnh Hội vắng tanh không bóng người.
 
@@ -78,7 +78,7 @@ Dù thầm nể sự chuyên nghiệp ấy, Elena vẫn thản nhiên nói tiế
 
 "Được thôi, tôi có hai việc. Thứ nhất là về chuyện này."
 
-Nói đoạn, cô rút ra hai phong thư. Trên mỗi phong bì đều có con dấu sáp niêm phong mang gia huy của Bá tước biên cảnh Rowlocks và Công tước Kerebel.
+Nói rồi, cô đưa ra hai phong thư. Trên mỗi phong bì đều có con dấu sáp niêm phong mang gia huy của Bá tước biên cảnh Rowlocks và Công tước Kerebel.
 
 Nhân viên Hội có thể chưa biết gia huy nhà Công tước Kerebel, nhưng huy hiệu của Bá tước biên cảnh Rowlocks cai quản vùng đất này thì chắc chắn anh ta nhận ra. Chàng nhân viên hít một hơi thật sâu, đảo mắt nhìn qua nhìn lại hai ba lần giữa lá thư và gương mặt Elena.
 
@@ -142,17 +142,17 @@ Theo lời đáp từ bên trong, người nhân viên mở cửa bước vào p
 
 Người vừa đứng dậy khỏi bàn làm việc và cúi chào là một người đàn ông khoảng ngoài hai mươi, cùng lắm cũng chỉ tầm đầu ba mươi. Anh ta có nét mặt hiền hòa, toát lên vẻ dễ gần, thân thiện.
 
-Khác xa so với hình dung ban đầu, cả Vel và Ara đều lộ rõ vẻ ngạc nhiên; còn với Kuust, có lẽ hễ là thường dân thì ai cũng như nhau nên anh ta chẳng mảy may biến sắc, chỉ đưa mắt quan sát người đại diện bằng ánh nhìn lạnh lùng.
+Khác xa so với hình dung ban đầu, cả Vel và Ara đều lộ rõ vẻ ngạc nhiên; còn với Kuust, có lẽ hễ là thường dân thì ai cũng như nhau nên anh không hề đổi sắc mặt, chỉ nhìn người đại diện bằng ánh mắt dò xét.
 
 Về phần mình, Rei cũng khẽ nhướn mày ngạc nhiên.
 
-Dẫu sao đây cũng là Hội nằm ngay cạnh hầm ngục. Lượng mạo hiểm giả đông đảo ắt sẽ không thiếu những kẻ bặm trợn, liều lĩnh. Để quản thúc được một đám người như thế, người đứng đầu Hội hẳn phải là một nhân vật uy nghiêm, phong sương cỡ như Bá tước biên cảnh Daska Rowlocks — cậu từng đinh ninh như vậy.
+Dẫu sao đây cũng là Hội nằm ngay cạnh hầm ngục. Số lượng mạo hiểm giả đông đảo thì chắc chắn không thiếu những kẻ bặm trợn, liều lĩnh. Để quản thúc được một đám người như thế, cậu cứ đinh ninh người đại diện của Hội hẳn phải là một nhân vật cỡ như Bá tước biên cảnh Daska Rowlocks.
 
 (Đây mà là đại diện của Hội sao? Cơ mà, nếu chỉ hiền lành thì làm sao quản nổi đám mạo hiểm giả, chắc cũng phải có bộ mặt khác giấu đằng sau...)
 
 Trong lúc Rei thầm nghĩ trong bụng, Elena đã ngồi xuống chiếc ghế sofa tiếp khách, vẻ mặt điềm nhiên cất lời.
 
-Những người còn lại đóng vai trò hộ vệ, tề tựu đứng phía sau lưng cô.
+Những người còn lại đứng phía sau lưng cô với tư cách hộ vệ.
 
 "Đọc phong thư chắc anh cũng rõ, nhưng tôi xin phép được tự giới thiệu lại. Tôi là Elena Kerebel. Thân phụ tôi, Công tước Kerebel, phái tôi tới đây để tiến vào nơi gọi là Tế đàn kế thừa vừa được phát hiện trong hầm ngục này. Rất mong được anh giúp đỡ."
 
@@ -168,7 +168,7 @@ Elena vừa nói với Worker vừa đưa mắt nhìn qua Vel, Kuust, Ara và Re
 
 "Thuận lợi suôn sẻ sao... Ra là vậy."
 
-Worker vừa gật đầu vừa trầm ngâm suy nghĩ. Rồi anh ta lấy ra một vật trông giống như Thẻ Hội từ bàn làm việc.
+Worker vừa gật đầu vừa ngẫm nghĩ điều gì đó. Rồi anh ta lấy ra một vật trông giống như Thẻ Hội từ bàn làm việc.
 
 "Xin tiểu thư hãy cầm lấy tấm thẻ này. Người sở hữu nó sẽ được bảo đảm quyền hạn ngang với người đại diện Hội như tôi. Nhất là khi tiến vào hầm ngục, thứ này sẽ rất cần thiết đấy ạ."
 

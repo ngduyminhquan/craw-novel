@@ -55,6 +55,7 @@
 | ブギィッ | Éccc | Tiếng kêu the thé đau đớn của Orc khi bị trúng tên |
 | ギィ / ギィッ | Gié | Tiếng kêu / hét của Goblin |
 | ギィギィッ / ギギギィ | Gi-gié / Gi-gi-gié | Tiếng la hét gọi bầy của Goblin |
+| ギャギャギャ！ | Gié-gié-gié! | Tiếng hét đe dọa / chiến đấu của Goblin |
 
 ## Đặc điểm ghi nhận theo chương
 
