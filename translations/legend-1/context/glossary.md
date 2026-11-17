@@ -183,3 +183,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 青の癒し |  | Lam Dũ | kỹ năng | 62 | Ma pháp hồi phục hệ Thủy của Kuust |
 | オゾス |  | Ozos | địa danh | 63 | Thành phố ma đạo nổi tiếng, nơi tập trung nhiều ma pháp sư và giả kim thuật sư |
 | 連接剣 | 蛇腹剣 | liên tiếp kiếm | vật phẩm | 63 | Loại Đạo Cụ Ma Thuật có lưỡi kiếm kéo dài uốn lượn như roi, còn gọi là xà phúc kiếm |
+| トロール |  | Troll | quái vật | 65 | Quái vật hình người to lớn xuất hiện quấy nhiễu gần Gilm |
+| 大地の精霊 |  | Tinh Linh Đất | chủng tộc | 65 | Tinh linh hệ thổ; Elena và Elk từng cùng nhau xử lý một sự vụ liên quan |

@@ -184,3 +184,13 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Trenma | Rei | tôi | cậu Rei / cậu | 64 | Phó đoàn trưởng kỵ sĩ đoàn thăm dò theo lệnh lãnh chúa |
 | Rei | Trenma | tôi | anh / ông | 64 | Nói chuyện bình thường |
 | Rei | Kuust | tôi | anh | 64 | Nói chuyện bình thường, không kính cẩn |
+| Elena | Rowlocks | tôi | ngài / Bá tước biên cảnh Rowlocks | 65 | Tiểu thư nhà Công tước nói với Bá tước biên cảnh |
+| Rowlocks | Elena | ta | tiểu thư Elena | 65 | Bá tước biên cảnh tiếp đón tiểu thư nhà Công tước |
+| Elk | Elena | tôi | tiểu thư Công Chúa Tướng Quân / Elena / cô | 65 | Mạo hiểm giả Hạng A nói chuyện với chiến hữu cũ |
+| Elena | Elk | tôi / ta | Elk / anh | 65 | Tiểu thư Elena nói chuyện với chiến hữu cũ |
+| Elk | Rowlocks | tôi | Bá tước biên cảnh Rowlocks / ông | 65 | Mạo hiểm giả Hạng A trao đổi thoải mái với lãnh chúa |
+| Rowlocks | Elk | ta | anh / Elk | 65 | Lãnh chúa trao đổi ủy thác khẩn cấp với mạo hiểm giả Hạng A |
+| Vel | Kuust | tôi | Kuust / anh | 65 | Hiệp sĩ hộ vệ nói chuyện với đội trưởng cùng trang lứa |
+| Kuust | Vel | ta / tôi | cậu / Vel | 65 | Đội trưởng hộ vệ nói chuyện với thành viên trong đội |
+| Elena | Rhodes | ta | cậu / Rhodes | 65 | Tiểu thư Elena trêu con trai của Elk |
+| Ara | Rei | ta / tôi | ngươi / cậu | 65 | Nữ hiệp sĩ nổi giận tấn công Rei tưởng cậu hại Elena |
