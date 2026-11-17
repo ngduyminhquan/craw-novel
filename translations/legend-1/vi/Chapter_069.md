@@ -226,13 +226,13 @@ Nhờ năng lực đặc thù của Đạo Cụ Ma Thuật giúp người dùng 
 
 "Cái gì!?"
 
-Dẫu vậy, việc vẫn kịp phản ứng trước đòn đánh ấy quả không hổ danh là một Elena khiến các quốc gia lân cận phải khiếp sợ với danh xưng Công Chúa Tướng Quân. Theo phản xạ, cô rót ma lực kéo dài lưỡi liên tiếp kiếm ra và...
+Dù vậy, việc vẫn kịp phản ứng trước đòn đánh ấy quả không hổ danh là một Elena khiến các quốc gia lân cận phải khiếp sợ với danh xưng Công Chúa Tướng Quân. Theo phản xạ, cô rót ma lực kéo dài lưỡi liên tiếp kiếm ra và...
 
 "Hòa rồi nhé."
 
 "Xem ra đúng là vậy rồi."
 
-Lưỡi hái của Lưỡi Hái Tử Thần đang nằm sát sạt cổ Elena, đồng thời đầu ngọn liên tiếp kiếm dài như roi cũng đang chĩa thẳng vào mạn đầu của Rei.
+Lưỡi hái của Lưỡi Hái Tử Thần đang nằm sát sạt cổ Elena, đồng thời đầu ngọn liên tiếp kiếm dài như roi cũng đang chĩa thẳng vào thái dương Rei.
 
 "...Không thể nào, hòa với tiểu thư Elena ư? Lần đầu tiên tôi thấy đấy."
 

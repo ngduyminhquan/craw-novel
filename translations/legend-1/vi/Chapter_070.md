@@ -76,7 +76,7 @@ Khẽ gật đầu trước lời của Ara, Elena dứt khoát đưa ra quyết
 
 "Lắm lời."
 
-"Vâng vâng. Thiệt tình, nữ hoàng nhà mình dũng mãnh quả cảm hay nói đúng hơn là thích lao đầu vào nguy hiểm... À không, tôi có nói gì đâu ạ, vâng vâng."
+"Vâng vâng. Thiệt tình, nữ vương nhà mình dũng mãnh quả cảm hay nói đúng hơn là thích lao đầu vào nguy hiểm... À không, tôi có nói gì đâu ạ, vâng vâng."
 
 Thấy Ara lặng lẽ chĩa mũi kiếm sát bên mặt mình, Vel toát mồ hôi hột ngoan ngoãn hãm xe dừng lại.
 

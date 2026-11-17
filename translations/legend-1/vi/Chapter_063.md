@@ -30,15 +30,15 @@ Dáng vẻ ấy vừa đẹp đẽ, lộng lẫy hết mức, mà cũng vừa t�
 
 Đúng vậy, người phụ nữ đang một mình áp đảo hơn mười con Orc kia chính là Elena Kerebel. Cô là tiểu thư nhà Công tước Kerebel, một nhân vật vang danh với tư cách Công Chúa Tướng Quân không chỉ tại Vương quốc Mireana hay Đế quốc Bestia, nơi cô đã làm nên tên tuổi qua chiến công hiển hách, mà còn trên toàn thể các quốc gia lân cận.
 
-Ở một nơi cách đó một đoạn, có hai hiệp sĩ đang đứng dõi theo cấp trên của mình.
+Ở một nơi cách đó một đoạn, có hai kỵ sĩ đang đứng dõi theo cấp trên của mình.
 
 "Đúng là tiểu thư Elena. Lũ Orc tép riu chẳng bõ để tiểu thư bận tâm."
 
-Người đang say đắm ngắm nhìn Elena săn lùng Orc như đang múa là một nữ hiệp sĩ. Cô cũng chừng mười bảy, mười tám, có lẽ nhỏ hơn Elena một chút. Tên cô là Ara Scarley, một thành viên trong đội hộ vệ của Elena. Cô có họ riêng vì là con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
+Người đang say đắm ngắm nhìn Elena săn lùng Orc như đang múa là một nữ kỵ sĩ. Cô cũng chừng mười bảy, mười tám, có lẽ nhỏ hơn Elena một chút. Tên cô là Ara Scarley, một thành viên trong đội hộ vệ của Elena. Cô có họ riêng vì là con gái thứ ba của nhà Bá tước Scarley thuộc Phe Quý Tộc.
 
 "Aizz, thật tình, nữ vương nhà mình đẹp thì đẹp thật nhưng cũng đáng sợ ghê, hay là vì đáng sợ nên mới đẹp đây..."
 
-Người đang cười trừ đầy ngán ngẩm là Vel Sails, một nam hiệp sĩ chừng ngoài hai mươi. Tương tự như Ara, anh cũng là con trai thứ hai của nhà Tử tước Sails thuộc Phe Quý Tộc và là một thành viên của đội hộ vệ.
+Người đang cười trừ đầy ngán ngẩm là Vel Sails, một nam kỵ sĩ chừng ngoài hai mươi. Tương tự như Ara, anh cũng là con trai thứ hai của nhà Tử tước Sails thuộc Phe Quý Tộc và là một thành viên của đội hộ vệ.
 
 Và hai người họ, cùng với Kuust, con trai thứ hai của Hầu tước Brassin, tạo thành đội hộ vệ gồm ba người được Công tước Kerebel lệnh bảo vệ Elena trên đường tới thành phố Gilm.
 

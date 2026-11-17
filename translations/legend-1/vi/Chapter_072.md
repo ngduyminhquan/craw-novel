@@ -8,7 +8,7 @@ Nhìn qua cửa sổ xe ngựa ngó ra bên ngoài, Ara lẩm bẩm với vẻ v
 
 Nghe tiếng cô, Rei, Elena và Kuust cũng cùng nhìn ra ngoài cửa sổ xem tình hình.
 
-Theo tin tức thu thập được từ trước thì gần hầm ngục chỉ có một ngôi làng tự phát, nhưng nhìn từ cỗ xe ngựa, nơi này đã đạt tới quy mô của một thị trấn hơn là một ngôi làng. Dẫu vậy so với thành phố Gilm thì vẫn nhỏ hơn đáng kể.
+Theo tin tức thu thập được từ trước thì gần hầm ngục chỉ có một ngôi làng tự phát, nhưng nhìn từ cỗ xe ngựa, nơi này đã đạt tới quy mô của một thị trấn hơn là một ngôi làng. Dù vậy, so với thành phố Gilm thì vẫn nhỏ hơn đáng kể.
 
 Và trước cánh cổng đóng vai trò lối ra vào làng, một lượng lớn thương nhân có lẽ tới vì hàng hóa từ hầm ngục đang xếp thành hàng dài.
 
@@ -54,7 +54,7 @@ Thấy ánh mắt cô hướng về phía mình, Rei suy nghĩ chốc lát rồi
 
 "Như tiểu thư thấy đấy, ngôi làng này có bạt ngàn mạo hiểm giả và thương nhân. Nếu không nhanh chóng kiếm chỗ trọ thì e là chẳng còn chỗ mà ngủ mất."
 
-"Nhưng này cậu Rei, tôi nghĩ những quán trọ ở cái làng này vốn dĩ làm sao tìm được nơi xứng đáng để tiểu thư Elena nghỉ ngơi cơ chứ."
+"Nhưng này cậu Rei, tôi nghĩ ở cái làng này làm gì có quán trọ nào xứng để tiểu thư Elena nghỉ lại chứ."
 
 Ara lập tức phản bác trước đề xuất của Rei.
 

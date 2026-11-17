@@ -108,7 +108,7 @@ Elena hỏi vị lãnh chúa Gilm vừa tiến lại gần. Trước vẻ tò m�
 
 "Thứ lỗi cho tôi, nhưng do nông cạn nên tôi chưa từng nghe thấy ai có thể thuần hóa được quái vật tầm cỡ Griffin cả. Nếu có người như thế thì lẽ ra tiếng tăm cũng phải vang xa rồi chứ?"
 
-"Đúng là thế. Có điều, tính từ lúc thằng nhóc đó xuất hiện ở thành phố Gilm này tới giờ vẫn chưa đầy vài tháng. Tin đồn chắc chưa kịp bay tới Vương đô đâu."
+"Đúng là thế. Có điều, tính từ lúc thằng nhóc đó xuất hiện ở thành phố Gilm này tới giờ vẫn chưa đầy vài tháng. Tin đồn chắc chưa kịp bay tới vương đô đâu."
 
 "...Hừm, ra là vậy. Nếu đã đợi chúng tôi ở đây thì tức là người đó sẽ cùng chúng tôi vào hầm ngục à?"
 
@@ -240,7 +240,7 @@ Elena thoáng nhìn Elk với vẻ mặt bất ngờ, nhưng cô nhanh chóng nh
 
 Daska, người nãy giờ đứng cách một quãng quan sát cuộc trò chuyện giữa Elena, Ara và Elk, bèn cất tiếng góp vui với Elk.
 
-"Ủa, đường đường là Bá tước biên cảnh Rowlocks Daska mà lại đứng làm gì ở chỗ thế này nhỉ?"
+"Ủa, đường đường là Bá tước biên cảnh Rowlocks mà lại đứng làm gì ở chỗ thế này nhỉ?"
 
 "Đón tiểu thư Elena thôi. Còn bên anh thì sao, lại định đi đâu à?"
 

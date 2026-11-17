@@ -180,7 +180,7 @@ Elena dõi theo bóng lưng cô với nụ cười dịu dàng trên môi.
 
 "Hai người thân thiết thật đấy."
 
-"Hử? À, đúng là trông như vậy thật nhỉ. Dẫu sao ta cũng mang danh con gái Công tước mà lại là kẻ lập dị dấn thân vào chiến trận, nên bạn bè là nữ giới ít ỏi vô cùng. Thêm vào đó, đám quý tộc muốn lấy lòng ta thì nhiều vô kể, nhưng người thuần khiết ngưỡng mộ ta như Ara thì hiếm hoi chẳng kém. Chính vì vậy đối với ta, có lẽ Ara là người không gì thay thế được. ...Nói trước là ta không phải giữ Ara bên cạnh chỉ vì thế đâu đấy nhé? Bản lĩnh thực sự của cô ấy thế nào, hẳn cậu cũng quá rõ rồi mà?"
+"Hử? À, đúng là trông như vậy thật nhỉ. Dù sao ta cũng mang danh con gái Công tước mà lại là kẻ lập dị dấn thân vào chiến trận, nên bạn bè là nữ giới ít ỏi vô cùng. Thêm vào đó, đám quý tộc muốn lấy lòng ta thì nhiều vô kể, nhưng người thuần khiết ngưỡng mộ ta như Ara thì hiếm hoi chẳng kém. Chính vì vậy đối với ta, có lẽ Ara là người không gì thay thế được. ...Nói trước là ta không phải giữ Ara bên cạnh chỉ vì thế đâu đấy nhé? Bản lĩnh thực sự của cô ấy thế nào, hẳn cậu cũng quá rõ rồi mà?"
 
 Nghe Elena nói vậy, Rei nhớ lại lần đầu gặp mặt ở thành phố Gilm.
 
@@ -188,7 +188,7 @@ Nghe Elena nói vậy, Rei nhớ lại lần đầu gặp mặt ở thành phố
 
 "Đúng là sức mạnh đó mang lại lợi thế rất lớn khi đánh cận chiến."
 
-"Ừ. Có điều với tư cách hiệp sĩ được ta tin tưởng, Ara vẫn cần phải mạnh hơn nữa. Thêm vào đó, nếu sửa được cái tính hơi hấp tấp lỗ mãng kia thì chẳng còn gì để chê."
+"Ừ. Có điều với tư cách kỵ sĩ được ta tin tưởng, Ara vẫn cần phải mạnh hơn nữa. Thêm vào đó, nếu sửa được cái tính hơi hấp tấp lỗ mãng kia thì chẳng còn gì để chê."
 
 Trong lúc Rei và Elena đang trò chuyện như thế, hai tách hồng trà được nhẹ nhàng đặt xuống trước mặt hai người.
 
@@ -246,7 +246,7 @@ Bản thân Elena có lẽ cũng chỉ hỏi thử xem sao mà thôi.
 
 "Tôi cũng chỉ có thể nói là có khả năng thôi. Vốn dĩ sư phụ hầu như chẳng dạy tôi về Giả Kim Thuật. Chút hiểu biết vừa rồi tôi cũng chỉ nhớ mang máng là từng nghe nhắc tới chuyện có thứ tương tự trong lúc trò chuyện thôi."
 
-"Dẫu sao thì có chút manh mối vẫn tốt hơn không có gì. Khi tới hầm ngục, ta cứ tạm thời báo lại vụ con bọ ngựa cho văn phòng đại diện của Hội."
+"Dù sao thì có chút manh mối vẫn tốt hơn không có gì. Khi tới hầm ngục, ta cứ tạm thời báo lại vụ con bọ ngựa cho văn phòng đại diện của Hội."
 
 Sau đó cả nhóm bàn luận thêm đôi chút về con bọ ngựa, nhưng vì cái xác đã biến mất không còn lại chứng cứ nào, nên cũng chẳng ai đưa ra được ý kiến gì khả dĩ hơn giả thuyết mơ hồ của Rei.
 

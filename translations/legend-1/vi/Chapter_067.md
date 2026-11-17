@@ -56,7 +56,7 @@ Người lính mỉm cười ấm áp nhìn cảnh tượng đó, nhưng dườn
 
 "Cơ mà, quen với Set như thế này rồi... nghĩ lại cũng thấy hơi ghê. Chẳng biết lỡ gặp phải một con Griffin khác không phải Set thì tôi có phản ứng kịp không. Khéo lại cứ giữ đà này tiến lại gần rồi bị nó ngoạm cho một miếng thì nguy."
 
-"...Nghĩ vậy thì đúng là quen quá cũng không tốt thật. Nhưng cơ bản thì loại quái vật Hạng cao như Griffin đâu có dễ gì xuất hiện ở nơi con người sinh sống chứ?"
+"...Nghĩ vậy thì đúng là quen quá cũng không tốt thật. Nhưng cơ bản thì loại quái vật hạng cao như Griffin đâu có dễ gì xuất hiện ở nơi con người sinh sống chứ?"
 
 "Đúng là vậy, nhưng cái chuyện vạn nhất ấy lại rất có thể xảy ra ở vùng biên cảnh này đấy. ...Xong rồi, gửi lại cậu nhé. Tôi đã kiểm tra xong Thẻ Hội. Chúc cậu lên đường cẩn thận."
 
