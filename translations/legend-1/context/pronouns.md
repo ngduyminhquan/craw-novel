@@ -199,3 +199,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Ara | tôi | cô | 66 | Rei đáp lại lời xin lỗi của nữ hiệp sĩ Ara |
 | Kuust | Elena | tôi | tiểu thư Elena | 66 | Đội trưởng hộ vệ nói chuyện với tiểu thư Elena |
 | Ara | Rei | tôi | cậu / cậu Rei | 66 | Sau khi hóa giải hiểu lầm và xin lỗi Rei |
+| Vel | Rei | tôi | cậu | 68 | Hiệp sĩ hộ vệ nói chuyện thân thiện với mạo hiểm giả trẻ tuổi |
+| Rei | Vel | tôi | anh | 68 | Mạo hiểm giả nói chuyện bình thường với hiệp sĩ lớn tuổi hơn |
