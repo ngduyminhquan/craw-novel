@@ -227,6 +227,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 魔獣兵 |  | Ma Thú Binh | chức nghiệp | 100 | Binh sĩ Đế quốc Bestia sống sót qua Nghi thức kế thừa, sở hữu năng lực đặc thù từ quái vật |
 | ポイズンナイフ |  | Dao Độc | vật phẩm | 100 | Đạo Cụ Ma Thuật dạng dao găm lưỡi tím của Vel, có độc gây tê liệt khoảng 10 phút |
 | ゴーレム |  | Golem | quái vật | 101 | Quái vật chế tạo bằng Giả Kim Thuật; loại của Bestia cao khoảng 1.6m |
-| フルプレート |  | Full Plate | vật phẩm | 101 | Bộ giáp toàn thân |
+| フルプレート | フルプレートメイル | Full Plate | vật phẩm | 101 | Bộ giáp toàn thân |
 | オートマタ |  | Automata | khác | 101 | Người máy tự động; khái niệm Trái Đất trong suy nghĩ của Rei |
 | キメラ |  | Chimera | quái vật | 102 | sinh vật lai ghép do Giả Kim Thuật hoặc ma thuật tạo ra |

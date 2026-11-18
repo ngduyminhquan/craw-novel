@@ -14,7 +14,7 @@ Thế nhưng, Kuust chẳng thèm để tâm đến cảnh đó, ánh mắt anh 
 
 Nghiêng mặt đi vài centimet để né mũi thương nhắm thẳng vào mặt mình trong đường tơ kẽ tóc, Rei đưa mắt quan sát tình hình xung quanh.
 
-Cách đó một đoạn, trận chiến khốc liệt giữa Set và con Golem vẫn đang tiếp diễn. Xét về cục diện thì có thể coi là giằng co, nhưng tấm khiên của Golem đã nát bươm, trên thân thể nó cũng hằn lên vài vết cào sâu hoắm. Ngược lại, Set tuy có chịu vài vết thương nhẹ do nhát kiếm liều mạng của Golem, nhưng nhờ hiệu ứng từ Giọt Đá Từ Ái, Đạo Cụ Ma Thuật đeo ở cổ, mọi sát thương phải chịu đều được hồi phục tức thì. Nhìn vào đó thì ai cũng thấy rõ bên nào đang chiếm ưu thế. Dẫu vậy, con Golem không hề có ý chí riêng chỉ biết lầm lũi thực hiện mệnh lệnh được giao, dẫu bị thương cũng chẳng hề nao núng, và cái đầu của nó cũng chẳng biết tính toán việc tạm lùi lại để chỉnh đốn đội hình.
+Cách đó một đoạn, trận chiến khốc liệt giữa Set và con Golem vẫn đang tiếp diễn. Xét về cục diện thì có thể coi là giằng co, nhưng tấm khiên của Golem đã nát bươm, trên thân thể nó cũng hằn lên vài vết cào sâu hoắm. Ngược lại, Set tuy có chịu vài vết thương nhẹ do nhát kiếm liều mạng của Golem, nhưng nhờ hiệu ứng từ Giọt Đá Từ Ái, Đạo Cụ Ma Thuật đeo ở cổ, mọi sát thương phải chịu đều được hồi phục tức thì. Nhìn vào đó thì ai cũng thấy rõ bên nào đang chiếm ưu thế. Thế nhưng, con Golem không có ý chí riêng này chỉ biết lầm lũi làm theo mệnh lệnh được giao, dù bị thương cũng chẳng hề nao núng, và đầu óc nó cũng chẳng biết tính đến chuyện tạm lùi lại để lấy lại thế đứng.
 
 (Bên phía Set thì chắc chắn thắng rồi, nhưng vẫn cần thêm một lúc nữa... nhỉ.)
 
@@ -48,7 +48,7 @@ Việc cậu chẳng ưa nổi gã dùng thương trước mặt là sự thật
 
 Cùng với lời nói, Rei dùng cán Lưỡi Hái Tử Thần hất ngược mũi thương vừa đâm tới từ phía dưới lên.
 
-Với cây Lưỡi Hái Tử Thần nặng hơn 100kg kết hợp cùng sức mạnh phi nhân loại của Rei, cây ma thương bị hất văng lên cao đến mức lực nắm của Kuust, người nổi danh là một trong những tay dùng thương cừ khôi của hiệp sĩ đoàn Công tước Kerebel, cũng không thể giữ nổi, bay thẳng lên rồi cắm phập vào trần nhà. Giữ nguyên tư thế hất đòn, cậu xoay tròn Lưỡi Hái Tử Thần một vòng, áp chóp cán hái vào phần bụng vẫn còn bọc trong giáp của Kuust...
+Với cây Lưỡi Hái Tử Thần nặng hơn 100kg kết hợp cùng sức mạnh vượt xa con người của Rei, cây ma thương bị hất văng lên cao đến mức lực nắm của Kuust, người nổi danh là một trong những tay dùng thương cừ khôi của đoàn kỵ sĩ Công tước Kerebel, cũng không thể giữ nổi, bay thẳng lên rồi cắm phập vào trần nhà. Giữ nguyên tư thế hất đòn, cậu xoay tròn Lưỡi Hái Tử Thần một vòng, áp chóp cán hái vào phần bụng vẫn còn bọc trong giáp của Kuust...
 
 Rầm rắc! Một âm thanh kinh hoàng không giống thứ con người có thể phát ra vang lên, hất văng Kuust ra xa. Bị chóp cán Lưỡi Hái Tử Thần thúc trúng ở cự ly số không, phần thân của bộ giáp toàn thân Full Plate vốn đã chịu đòn thúc vào chấn thủy trước đó nay vỡ vụn hoàn toàn, những mảnh giáp văng tung tóe khắp mặt sàn.
 
@@ -132,7 +132,7 @@ Rồi sau khi con Golem biến mất, lọt vào tầm mắt Rei chính là hìn
 
 Rei vô thức hét lên.
 
-Đòn đánh thổi bay Kuust lúc nãy. Nếu bộ giáp tấm không bị đập nát bởi nhát đánh kết hợp giữa một Đạo Cụ Ma Thuật hùng mạnh tột cùng như Lưỡi Hái Tử Thần và sức mạnh phi nhân loại của Rei, thì có lẽ đây là đòn đánh mà anh đã có thể đỡ được.
+Đòn đánh thổi bay Kuust lúc nãy. Nếu bộ giáp tấm không bị đập nát bởi đòn đánh kết hợp giữa một Đạo Cụ Ma Thuật mạnh tột cùng như Lưỡi Hái Tử Thần và sức mạnh vượt xa con người của Rei, thì có lẽ anh đã đỡ được nhát kiếm này.
 
 "Hự... c... còn làm... cái gì thế. Hạ... Vel đi... mau!"
 
@@ -170,7 +170,7 @@ Rõ ràng nhận ra cứ đà này thì vô cùng nguy hiểm, Vel lập tức n
 
 "Hở?"
 
-Có lẽ chưa hiểu chuyện gì vừa xảy ra, Vel thốt lên một tiếng ngớ ngẩn, dẫu vậy hắn vẫn kịp nhận ra chiếc lọ thủy tinh mình vừa ném đang bị ném ngược lại nên vội vã né tránh...
+Có lẽ chưa hiểu chuyện gì vừa xảy ra, Vel thốt lên một tiếng ngớ ngẩn, nhưng hắn vẫn kịp nhận ra chiếc lọ thủy tinh mình vừa ném đang bay ngược lại nên vội vã né tránh...
 
 Choảng!
 
@@ -178,7 +178,7 @@ Những xúc tu thò ra từ vạt áo của Vel tự động chuyển động, 
 
 Phải rồi, những xúc tu thò ra từ vạt áo Vel được tạo ra bằng Giả Kim Thuật với đặc tính tự động phản kích lại mọi đòn tấn công. Cho dù đòn tấn công đó là kiếm, thương hay chiếc lưỡi hái lớn như Lưỡi Hái Tử Thần. ...Và cho dù đó có là một chiếc lọ thủy tinh thì nhiệm vụ của nó cũng chẳng hề thay đổi. Tức là, đầu nhọn sắc bén của nó đã đập vỡ nát chiếc lọ thủy tinh đang bay về phía Vel.
 
-Có lẽ nếu là một chiếc lọ thủy tinh bình thường thì nó đã không vỡ vụn mà chỉ lăn lốc trên sàn. Thế nhưng chiếc lọ Vel vừa ném lại được chế tạo chuyên dụng để ném nên rất dễ vỡ. Trong sự việc vừa rồi, điều khiến Vel kinh ngạc nhất hẳn chính là kỹ năng đáng kinh ngạc của Rei khi có thể đón lấy chiếc lọ đó mà không hề làm nó nứt vỡ.
+Có lẽ nếu là một chiếc lọ thủy tinh bình thường thì nó đã không vỡ vụn mà chỉ lăn lốc trên sàn. Thế nhưng chiếc lọ Vel vừa ném lại được chế tạo chuyên dụng để ném nên rất dễ vỡ. Trong pha vừa rồi, điều khiến Vel kinh ngạc nhất hẳn là kỹ thuật khéo léo đáng nể của Rei khi có thể bắt gọn chiếc lọ đó mà không làm nó vỡ.
 
 Chiếc lọ thủy tinh vỡ tan. Điều đó đồng nghĩa với việc thứ chất lỏng chứa bên trong trút thẳng lên người Vel.
 

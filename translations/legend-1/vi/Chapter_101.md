@@ -1,8 +1,8 @@
 # Chương 101: Tế đàn kế thừa (101)
 
-Kẻ vừa chắn ngang giữa Rei và Vel chính là Kuust — người vừa mới cản trở đòn tấn công của cậu nhắm vào Vel cách đây ít phút.
+Kẻ vừa chắn ngang giữa Rei và Vel chính là Kuust, người vừa mới cản trở đòn tấn công của cậu nhắm vào Vel ngay lúc nãy.
 
-Thế nhưng, đôi mắt anh ta không hề có ánh sáng của lý trí, như thể bị bao phủ bởi một làn sương mờ mịt, hoàn toàn mất đi ý chí của bản thân khi đứng chắn trước mặt Rei.
+Thế nhưng, đôi mắt anh không còn chút ánh sáng tỉnh táo nào mà cứ đờ đẫn như phủ một lớp sương mờ, đứng chắn trước mặt Rei như một kẻ hoàn toàn mất đi ý chí.
 
 "Thấy chưa, thế là giải quyết xong vai trò lá chắn rồi nhé."
 
@@ -10,7 +10,7 @@ Thế nhưng, đôi mắt anh ta không hề có ánh sáng của lý trí, như
 
 "Đúng là có thể dùng làm lá chắn đấy. Nhưng rốt cuộc cũng chỉ là Kuust thôi. Như ngươi thừa biết, xét về thực lực thuần túy thì giữa ta và Kuust có khoảng cách một trời một vực. Thế mà ngươi tính giao vai trò lá chắn cho một mình Kuust sao?"
 
-Vừa cố tình nói bằng giọng khiêu khích, Rei vừa tập trung cảm nhận khí tức của hai người đang bất tỉnh còn lại.
+Vừa cố tình nói bằng giọng khiêu khích, Rei vừa tập trung cảm nhận động tĩnh của hai người đang bất tỉnh còn lại.
 
 (Nếu Elena và Ara cũng bị thao túng bằng thủ đoạn nào đó, thì với tính cách của Vel, hẳn hắn đã đắc thắng lật con bài đó ra ngay lúc này rồi...)
 
@@ -30,7 +30,7 @@ Bọ ngựa. Nhắc tới từ đó, thứ hiện lên trong đầu Rei là con 
 
 "Hử? À, không phải đâu, hiểu nhầm rồi. Đúng là con quái vật đó là tác phẩm của Giả Kim Thuật Sư thuộc Đế quốc Bestia, nhưng tôi không hề dính líu tới vụ đó đâu. Với lại, bên kia dù có tôi phản bội Vương quốc Mireana đi chăng nữa, thì nếu có cơ hội giết được Công Chúa Tướng Quân Elena, chẳng cần nghĩ cũng biết họ sẽ ưu tiên bên nào hơn rồi."
 
-"Nói cách khác, ngươi chẳng khác nào một con tốt thí."
+"Tức là ngươi cũng chỉ như một con tốt thí thôi chứ gì."
 
 Rei cố ý buông lời khiêu khích gay gắt, nhưng nghe vậy Vel chẳng hề nao núng, chỉ thản nhiên bỏ ngoài tai như gió thoảng qua cành liễu.
 
@@ -38,23 +38,23 @@ Rei cố ý buông lời khiêu khích gay gắt, nhưng nghe vậy Vel chẳng 
 
 Nở một nụ cười, hắn rút một chiếc còi từ trong ngực áo ra và phô bày như để khoe mẽ.
 
-Khoảnh khắc nhìn thấy chiếc còi đó, sống lưng Rei chợt dấy lên một dự cảm chẳng lành rợn người...
+Khoảnh khắc nhìn thấy chiếc còi đó, sống lưng Rei chợt lạnh toát cùng một linh cảm chẳng lành...
 
 "Set!"
 
 "Gừưưư!"
 
-Ngay khi Rei cất tiếng gọi, Set liền bắn ra [Mũi Tên Gió]. Lướt qua Kuust đang dùng ma thương hệ Thủy gạt phăng mũi tên gió vừa phóng tới, Rei vung Lưỡi Hái Tử Thần chém thẳng về phía Vel — kẻ vừa đưa chiếc còi lên miệng. ...Không, ngay khoảnh khắc cậu toan bổ xuống, từ những xúc tu bao phủ khắp người Vel bất thần bắn ra hàng loạt vật thể trông như những quả trứng dài chừng vài centimet mà chẳng hề có dấu hiệu báo trước.
+Ngay khi Rei cất tiếng gọi, Set liền bắn ra Mũi Tên Gió. Lướt qua Kuust đang dùng ma thương hệ Thủy gạt phăng mũi tên gió vừa phóng tới, Rei vung Lưỡi Hái Tử Thần bổ thẳng về phía Vel, kẻ vừa đưa chiếc còi lên miệng. ...Không, ngay khoảnh khắc cậu toan bổ xuống, từ đám xúc tu đang che chắn quanh người Vel bất ngờ bắn ra hàng loạt vật thể trông như những quả trứng dài chừng vài centimet mà chẳng hề có dấu hiệu báo trước.
 
 "Chậc!"
 
 Rei né tránh hoặc dùng Lưỡi Hái Tử Thần chém nát những quả trứng đó gần như theo phản xạ, nhưng nhân sơ hở ấy, Vel đã nhảy lùi lại phía sau để kéo giãn khoảng cách với cậu. Rồi hắn hít một hơi thật sâu, thổi mạnh vào chiếc còi đang cầm trên tay.
 
-Một tiếng ré the thé kéo dài vang vọng khắp không gian xung quanh. Vốn đang liên tục bắn [Mũi Tên Gió], Set lập tức bật nhảy rời khỏi vị trí ban đầu. Và khoảnh khắc tiếp theo...
+Một tiếng còi the thé kéo dài vang vọng khắp không gian xung quanh. Đang liên tục bắn Mũi Tên Gió, Set lập tức bật nhảy rời khỏi vị trí vừa đứng. Và khoảnh khắc tiếp theo...
 
 Ầm! Kèm theo một tiếng động long trời lở đất, một thứ gì đó có kích thước xấp xỉ người bình thường đã đáp xuống đúng nơi Set vừa đứng cách đó một tích tắc.
 
-Nếu Set mải mê bắn [Mũi Tên Gió] mà chần chừ rời khỏi chỗ đó dù chỉ trong chớp mắt, thì thứ bị nghiền nát lúc này chắc hẳn không phải nền đá lát mà chính là xương sống của nó.
+Nếu Set mải mê bắn Mũi Tên Gió mà chần chừ rời khỏi chỗ đó dù chỉ trong chớp mắt, thì thứ bị nghiền nát lúc này chắc hẳn không phải nền đá lát mà chính là xương sống của nó.
 
 "...Đó cũng là ơn huệ từ Giả Kim Thuật à?"
 
@@ -62,7 +62,7 @@ Rei cùng Set tạm thời lùi lại, giữ khoảng cách với Vel và Kuust,
 
 "Đúng rồi đấy. Món đồ mà Đế quốc Bestia cho tôi mượn trong nhiệm vụ lần này. Có thể gọi nó là Golem. Mà, nhìn qua là cậu thấy rồi đấy, nó được chế tạo với hiệu năng vượt trội hơn hẳn Golem thông thường nhiều. Nói gì thì nói, nó bám theo sau mà chẳng để Rei, thậm chí ngay cả Set phát hiện ra cơ mà."
 
-Golem. Đó là một dạng sinh mệnh nhân tạo được tạo ra bằng Giả Kim Thuật từ nhiều loại vật liệu như đá, đất, gỗ, hay xương cốt. Dẫu gọi là sinh mệnh nhân tạo, nhưng về cơ bản chúng không có cảm xúc hay ý chí, chỉ biết lặng lẽ thực thi mệnh lệnh do chủ nhân ban xuống; đối với Rei, chúng mang lại ấn tượng chẳng khác nào một loại robot.
+Golem. Đó là một dạng sinh mệnh nhân tạo được tạo ra bằng Giả Kim Thuật từ nhiều loại vật liệu như đá, đất, gỗ, hay xương cốt. Dù gọi là sinh mệnh nhân tạo, nhưng về cơ bản chúng không có cảm xúc hay ý chí mà chỉ lặng lẽ làm theo mệnh lệnh của chủ nhân. Với Rei, chúng giống như một kiểu robot vậy.
 
 Và quả thực, con Golem đang đứng trước mặt Rei lúc này khác biệt rất nhiều so với những gì cậu biết qua kiến thức của Zepairu, hay nội dung trong những cuốn sách từng đọc ở thư viện. Trước hết là kích thước. Golem thông thường đa phần cao khoảng 3 mét, nhưng con Golem này lại có chiều cao không mấy chênh lệch với Rei. Tức là chỉ vào khoảng 1,6 mét. Bằng độ chừng một nửa kích thước của Golem thông thường.
 
@@ -108,7 +108,7 @@ Kuust trừng mắt nhìn Vel bằng ánh mắt ngập tràn sát khí dữ dộ
 
 "...Tên khốn, ngươi làm chuyện này nhằm mục đích gì?"
 
-"Thì chuyện đó quá rõ ràng rồi còn gì. Để quy hàng Đế quốc Bestia, nếu có thủ cấp của Công Chúa Tướng Quân, người từng khiến bên đó chịu đủ mọi khốn đốn, thì tôi sẽ được trọng đãi hậu hĩnh. ...Chà, tôi cũng vất vả lắm đấy chứ bộ? Bình thường thì Elena quá nhạy bén, lại thêm Kuust với Ara hoặc đám người khác trong đoàn kỵ sĩ kè kè hộ vệ nên tôi chẳng thể nào ra tay được. ...Thế rồi thông tin về Tế đàn kế thừa ập đến. Xét theo đặc tính của nghi thức này, tôi đoán người đi cùng chỉ có ba người bọn mình, cộng thêm vị trí hầm ngục thì bên Bá tước biên cảnh Rowlocks sẽ cử chừng một người, và đoán trúng phóc luôn. Cơ mà, sai số duy nhất và cũng là lớn nhất chính là việc tôi đã mách nước cho cha giới hạn yêu cầu mạo hiểm giả Hạng D, thế mà kẻ mạo hiểm giả Hạng D quan trọng đó lại là một tồn tại ngoài quy chuẩn như Rei cơ chứ."
+"Thì chuyện đó quá rõ ràng rồi còn gì. Để quy hàng Đế quốc Bestia, nếu có thủ cấp của Công Chúa Tướng Quân, người từng khiến bên đó chịu đủ mọi khốn đốn, thì tôi sẽ được trọng đãi hậu hĩnh. ...Chà, tôi cũng vất vả lắm đấy chứ bộ? Bình thường thì Elena quá nhạy bén, lại thêm Kuust với Ara hoặc đám người khác trong đoàn kỵ sĩ kè kè hộ vệ nên tôi chẳng thể nào ra tay được. ...Thế rồi thông tin về Tế đàn kế thừa ập đến. Xét theo đặc tính của nghi thức này, tôi đoán người đi cùng chỉ có ba người bọn mình, cộng thêm vị trí hầm ngục thì bên Bá tước biên cảnh Rowlocks sẽ cử chừng một người, và đoán trúng phóc luôn. Cơ mà, điều duy nhất và cũng là lớn nhất tôi tính sót chính là đã bày mưu cho cha giới hạn chỉ thuê mạo hiểm giả Hạng D, thế mà tay mạo hiểm giả Hạng D được chọn lại là một kẻ vượt xa bình thường như Rei cơ chứ."
 
 Tiếng nghiến răng kèn kẹt vang vọng khắp xung quanh. Nơi phát ra âm thanh ấy dĩ nhiên là từ phía Kuust.
 
@@ -120,7 +120,7 @@ Tiếng nghiến răng kèn kẹt vang vọng khắp xung quanh. Nơi phát ra �
 
 "Nào, giải thích thế là đủ rồi chứ? Vậy thì chuẩn bị hạ màn cho sân khấu này thôi nhỉ."
 
-Vel búng tay một tiếng "tách". Lập tức, cơ thể Kuust tự động cử động, nâng ngọn ma thương trong tay lên chĩa thẳng về phía Rei trong tư thế thủ thế.
+Tách! Vel búng tay một cái. Lập tức, cơ thể Kuust tự động cử động, nâng ngọn ma thương trong tay lên chĩa thẳng về phía Rei vào thế thủ.
 
 "Cái gì!?"
 
@@ -144,17 +144,17 @@ Trước ngọn ma thương đâm tới đầy sắc bén ấy, Rei vung Lưỡi
 
 Vừa nghe tiếng hò hét đắc ý của Vel, Rei vừa né tránh, phòng thủ và gạt đi những đòn đâm liên tiếp từ ngọn ma thương của Kuust.
 
-Cách đó không xa, trận chiến giữa Golem và Set cũng đã bùng nổ; Set liên tục né tránh những nhát chém từ thanh trường kiếm của Golem, rồi dùng móng vuốt sắc nhọn phản công cào xước bề mặt chiếc khiên của nó.
+Cách đó không xa, trận chiến giữa Golem và Set cũng đã bùng nổ. Set liên tục né tránh những nhát chém từ thanh trường kiếm của Golem, rồi dùng móng vuốt sắc nhọn phản công cào xước bề mặt chiếc khiên của nó.
 
 "Vel, tên khốn nhà ngươi! Dám tùy tiện điều khiển thân thể ta... Ta tuyệt đối không tha thứ cho ngươi!"
 
-Kuust gầm lên như bị cơn thịnh nộ nuốt chửng, nhưng Vel vẫn theo dõi trận chiến giữa Kuust và Rei với vẻ mặt đầy hứng thú, coi cơn giận dữ ấy chẳng mảy may liên quan đến mình.
+Kuust gầm lên như bị cơn thịnh nộ choáng hết tâm trí, nhưng Vel vẫn đầy hứng thú đứng nhìn trận chiến giữa Kuust và Rei như thể cơn giận dữ ấy chẳng liên quan gì đến mình.
 
 "Này này, nhìn về phía tôi như thế có ổn không đấy? Cơ thể Kuust đang tự động lao về phía Rei kìa."
 
 "Khốn kiếp!"
 
-Kuust tung ra ba đòn đâm liên hoàn nhắm thẳng vào bụng, ngực và yết hầu. Rei dùng cán Lưỡi Hái Tử Thần gạt phăng toàn bộ. Trên gương mặt cậu lúc này đã không còn nét bối rối như vài giây trước đó. Dù có tăng cường thể chất của Kuust để tùy ý điều khiển đến mức nào đi chăng nữa, thì đó rốt cuộc vẫn chỉ là sự thao túng một cách gượng ép và cưỡng bức. Hắn đâu thể nào thi triển trọn vẹn toàn bộ thuật dùng thương mà bản thân Kuust đã dày công khổ luyện.
+Kuust tung ra ba đòn đâm liên hoàn nhắm thẳng vào bụng, ngực và yết hầu. Rei dùng cán Lưỡi Hái Tử Thần gạt phăng toàn bộ. Trên gương mặt cậu lúc này đã không còn nét bối rối như vài giây trước đó. Dù có tăng cường thể chất của Kuust để tùy ý điều khiển đến mức nào đi chăng nữa, thì rốt cuộc hắn vẫn chỉ đang cưỡng ép điều khiển cơ thể anh mà thôi. Hắn đâu thể nào thi triển trọn vẹn toàn bộ thuật dùng thương mà bản thân Kuust đã dày công khổ luyện.
 
 (Không, nói chính xác hơn thì hắn đang dùng sức mạnh từ viên bảo thạch đó để cưỡng ép gia tăng thể chất của Kuust nhằm bù đắp cho phần kỹ năng không thể thi triển được.)
 
@@ -178,7 +178,7 @@ Cậu lẩm bẩm rồi thúc mạnh cán Lưỡi Hái Tử Thần nhắm thẳn
 
 Chẳng hiểu sao dù dính trọn đòn vào chấn thủy, Kuust vẫn giữ được sự tỉnh táo.
 
-Đúng là Kuust đang trang bị Full Plate — bộ giáp toàn thân với khả năng phòng ngự cực cao. Thế nhưng đòn vừa rồi đủ sức đập vỡ cả lớp giáp ấy để giáng thẳng vào chấn thủy. Vậy mà dính phải một đòn mà bình thường chắc chắn mười mươi sẽ ngất lịm, Kuust dù mặt mày méo mó vì thống khổ tột cùng vẫn không hề mất đi ý thức.
+Đúng là Kuust đang mặc Full Plate, bộ giáp toàn thân có khả năng phòng ngự rất cao. Thế nhưng đòn vừa rồi đã đập vỡ cả lớp giáp ấy để giáng thẳng vào chấn thủy. Vậy mà dính trọn một đòn bình thường chắc chắn sẽ ngất lịm, Kuust dù mặt mày méo mó vì đau đớn vẫn không hề mất đi ý thức.
 
 "A ha ha ha ha ha. Vô ích, vô ích thôi. Kuust bây giờ còn lâu mới làm được cái trò ngất xỉu... à không, không thể ngất nổi đâu. Được cường hóa đến mức đó rồi cơ mà. Có điều, cái giá phải trả là toàn thân anh ta đang phải chịu đựng nỗi đau đớn khủng khiếp đấy. Này, Kuust. Cảm giác thế nào hả? Thân thể không cử động theo ý mình mà ngất cũng chẳng xong, đối với một kẻ đầy lòng kiêu hãnh như Kuust thì nhục nhã lắm đúng không?"
 

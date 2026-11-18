@@ -4,15 +4,15 @@ Trong lúc Nghi thức kế thừa đang diễn ra, Vel bất ngờ rút đoản
 
 Thấy vậy, Rei lập tức lao tới, nhưng ngay trước khi bước thêm một bước để lọt vào tầm vung của Lưỡi Hái Tử Thần thì một ngọn ma thương từ phía sau bất ngờ đâm tới.
 
-Tiếng hô của Vel khiến Rei cảm nhận được hiểm nguy theo bản năng và vội vã nghiêng người né tránh, dẫu vậy ngọn ma thương đâm tới từ phía sau vẫn giáng một đòn chấn động dữ dội vào mạn sườn cậu.
+Tiếng hô của Vel khiến Rei cảm nhận được hiểm nguy theo bản năng và cố lách người né tránh, thế mà ngọn ma thương đâm tới từ phía sau vẫn giáng một lực chấn động dữ dội vào mạn sườn cậu.
 
-Trong cái rủi có cái may, thứ Rei đang khoác trên người là món Đạo Cụ Ma Thuật mang tên Áo Choàng Rồng. Thoạt nhìn nó chỉ như một chiếc áo choàng bình thường, nhưng thực chất lại là cực phẩm được ép vảy rồng vào giữa hai lớp da rồng, sở hữu khả năng phòng ngự ma pháp lẫn vật lý cực cao, vượt trội hơn hẳn mấy bộ giáp phiến thông thường. Nhờ thế mà cậu mới tránh được thảm cảnh bị ngọn ma thương đâm thủng mạn sườn.
+Trong cái rủi có cái may, thứ Rei đang khoác trên người là món Đạo Cụ Ma Thuật mang tên Áo Choàng Rồng. Thoạt nhìn nó chỉ như một chiếc áo choàng bình thường, nhưng thực chất lại là cực phẩm được ép vảy rồng vào giữa hai lớp da rồng, sở hữu khả năng phòng ngự ma pháp lẫn vật lý cực cao, vượt trội hơn hẳn mấy bộ giáp tấm thông thường. Nhờ thế mà cậu mới tránh được thảm cảnh bị ngọn ma thương đâm thủng mạn sườn.
 
 "Hự, c-cái gì thế này!?"
 
-Thế nhưng dẫu tránh được việc mạn sườn bị đâm thủng thì uy lực chấn động vẫn không thể triệt tiêu hoàn toàn. Với một người đang chuẩn bị bổ Lưỡi Hái Tử Thần xuống như Rei, đòn đánh đó vẫn đủ sức làm cậu mất thăng bằng.
+Nhưng dù không bị đâm thủng mạn sườn thì lực chấn động vẫn không triệt tiêu hết được. Với một người đang chuẩn bị bổ Lưỡi Hái Tử Thần xuống như Rei, đòn đánh đó vẫn đủ sức làm cậu mất thăng bằng.
 
-Dẫu vậy cậu vẫn không ngã quỵ xuống đất mà kịp chống tay gượng lại, âu cũng nhờ thể năng vượt trội phi thường. Theo phản xạ, Rei ngoảnh đầu nhìn lại thì thấy Kuust với đôi mắt đỏ ngầu đang thủ thế ma thương, toan đâm tiếp đòn nữa.
+Thế mà cậu vẫn không ngã xuống đất, kịp chống tay trụ lại được cũng là nhờ thể chất vượt trội của mình. Theo phản xạ, Rei ngoảnh đầu nhìn lại thì thấy Kuust với đôi mắt đỏ ngầu đang thủ thế ma thương, toan đâm tiếp đòn nữa.
 
 "Set!"
 
@@ -24,7 +24,7 @@ Dẫu vậy cậu vẫn không ngã quỵ xuống đất mà kịp chống tay g
 
 "Chậc, Set!"
 
-"Gùuu!"
+"Grrr!"
 
 Hiểu được chủ nhân muốn gì, Set lập tức dừng đòn chém ngang lại, chuyển sang giáng một cú đập từ trên xuống nện thẳng Kuust xuống ma pháp trận rồi đè chặt anh ta lại, khiến đối phương không thể cựa quậy.
 
@@ -106,7 +106,7 @@ Nếu trước đó là nụ cười thích thú trước trò vui thì lúc nà
 
 "Kẻ sát nhân tìm khoái cảm à."
 
-"Ồ? Cách gọi đó hay đấy. Ừ, từ giờ mình sẽ tự xưng như thế. 'Kẻ sát nhân tìm khoái cảm Vel Sails', nghe được đấy chứ."
+"Ồ? Cách gọi đó hay đấy. Ừ, từ giờ tôi sẽ tự xưng như thế. 'Kẻ sát nhân tìm khoái cảm Vel Sails', nghe được đấy chứ."
 
 "...Ta chẳng có tư cách nói người khác, nhưng giết người thì có gì vui?"
 
@@ -126,7 +126,7 @@ Lẩm bẩm một câu, Rei liếc mắt nhìn sang Kuust, người dù đã b�
 
 "Ai biết? Vốn dĩ Kuust đã ghét cậu rồi, không phải vì thế à?"
 
-"...Không đúng. Đúng là hắn ghét bỏ và xa lánh ta. Thậm chí nói là căm thù cũng chẳng ngoa. Nhưng dẫu vậy, tình cảm tôn kính, ngưỡng mộ và quý mến hắn dành cho Elena còn lớn hơn lòng căm ghét đối với ta nhiều. Ngươi nghĩ một kẻ như thế lại đi cản trở người khác tấn công kẻ rõ ràng đang gây hại cho cấp trên của mình chắc?"
+"...Không đúng. Đúng là hắn ghét bỏ và xa lánh ta. Thậm chí nói là căm thù cũng chẳng ngoa. Nhưng dù thế, tình cảm tôn kính, ngưỡng mộ và quý mến hắn dành cho Elena còn lớn hơn lòng căm ghét đối với ta nhiều. Ngươi nghĩ một người như thế lại đi cản ta tấn công kẻ rõ ràng đang định hại cấp trên của mình là Elena chắc?"
 
 Kuust luôn chĩa ánh nhìn khinh miệt và thái độ coi thường ra mặt về phía Rei, thế nhưng tình cảm mà anh ta dành cho cấp trên của mình là Elena lại hoàn toàn là thật lòng. Đó là tình cảm nam nữ, là sự ngưỡng mộ trước tầm vóc của một người được xưng tụng là Công Chúa Tướng Quân, hay đơn thuần chỉ vì cô là con gái của thủ lĩnh Phe Quý Tộc thì Rei không rõ, nhưng chắc chắn tình cảm đó là chân thật. Nếu không vì điều ấy thì có lẽ giờ này Kuust đã bị Lưỡi Hái Tử Thần chém gục từ lâu rồi.
 
@@ -176,7 +176,7 @@ Nhìn trảm kích chết chóc đang lao về phía mình, Vel vẫn nở nụ 
 
 Người thốt lên tiếng kêu đó không phải Vel... mà là Rei.
 
-Nơi tầm mắt của Rei vừa bất giác thốt lên kinh ngạc, một thứ trông như xúc tu màu tím nhờn nhợt đã đỡ lấy đường Phi Trảm mà Rei tung ra thay cho Vel và bị chém đứt lìa.
+Rei bất giác thốt lên kinh ngạc khi thấy ở phía trước, một thứ trông như xúc tu màu tím nhờn nhợt đã thay Vel đỡ lấy đường Phi Trảm cậu vừa tung ra và bị chém đứt lìa.
 
 Phần đầu xúc tu đỡ đường Phi Trảm bị cắt đứt lìa, vừa rơi xuống đất liền tan rã ngay tức khắc, thế nhưng một xúc tu khác lại nhanh chóng vươn ra, ngọ nguậy như để che chở cho Vel. Nơi xúc tu đó chui ra là từ trước ngực Vel, kéo dài từ bên trong lớp giáp da.
 
