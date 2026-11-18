@@ -56,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 106: Thẻ Hội Hạng D; đã đưa nhóm Elena rời hầm ngục an toàn về quán trọ, nhượng lại Rìu Cường Lực cho Elena lấy 2 đồng bạch kim (tặng cho Ara), và kinh ngạc khi Elena biết cơ thể cậu là sinh mệnh nhân tạo.
+- Trạng thái tính đến chương 107: Thẻ Hội Hạng D; xác nhận với Elena về thân phận sinh mệnh nhân tạo chuyển sinh từ dị giới và nguồn gốc Đạo Cụ Ma Thuật từ Esta Noor; cất 2 đồng bạch kim vào Nhẫn Sương Mù, nghỉ ngơi bên Set chuẩn bị cùng Elena rời làng hầm ngục.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -219,7 +219,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 106: Đã cùng nhóm an toàn rời hầm ngục về quán trọ; gửi thư hỏa tốc báo cáo Công tước Kerebel về kẻ phản bội Vel và nhà Sails; chi 2 đồng bạch kim mua lại Rìu Cường Lực từ Rei tặng Ara; kinh ngạc nhận thấy bàn tay Rei giống hệt người thường dù là sinh mệnh nhân tạo.
+- Trạng thái tính đến chương 107: Thẳng thắn trao đổi với Rei về thân phận sinh mệnh nhân tạo (do Ma Thạch Ancient Dragon bảo vệ ý thức khi Grimm ngưng đọng thời gian), cam kết giữ bí mật; thống nhất với Worker ngụy trang việc Kuust tử trận và Vel phản bội thành tai nạn do bẫy và quái vật trong hầm ngục; trả lại thẻ ưu tiên và hẹn sáng mai rời làng hầm ngục.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
@@ -239,3 +239,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Thân thế: Đại ma thuật sư chuyên về Tử Linh Thuật sống cách đây hàng nghìn năm cùng thời với Zepairu; tự thực hiện nghi thức biến mình thành Lich và tiếp tục tu luyện suốt mấy nghìn năm thành Lich Lord trong không gian bí mật ở tầng 5 hầm ngục.
 - Tính cách: Hào sảng, điềm tĩnh, ngưỡng mộ Zepairu; rất ưu ái và quý mến Rei và Set vì là người kế thừa Zepairu.
 - Cách nói chuyện: Giọng nói cổ xưa, tự xưng ta (儂), gọi Rei là ngươi / cậu (お主) hoặc Rei, gọi Zepairu là ngài Zepairu (ゼパイル殿); giao tiếp bằng thần giao cách cảm trực tiếp vào đầu.
+
+### Esta Noor
+- Tính cách: Đam mê nghiên cứu Giả Kim Thuật đến mức không muốn tốn thời gian dạy đệ tử, cả đời không kết hôn; được hậu thế tôn sùng là Giả Kim Thuật Sư vĩ đại nhất lịch sử.
