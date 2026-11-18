@@ -58,7 +58,7 @@ Gã lẩm bẩm như thế, rồi bỗng thấy có gì đó gợn lên.
 
 "Khoan đã. Nó là đệ tử của một ma pháp sư... thật à?"
 
-"Vâng. Tuy chưa xác minh được danh tính sư phụ cậu ta là ai, nhưng nghe nói đó là một ma pháp sư ẩn cư, suốt thời gian qua chỉ sống cùng hai người họ và con Griffin mà thôi."
+"Vâng. Tuy chưa xác minh được danh tính sư phụ cậu ta là ai, nhưng nghe nói đó là một ma pháp sư ẩn cư, suốt thời gian qua chỉ có hai thầy trò cùng con Griffin sống với nhau mà thôi."
 
 "Thế mà lúc định giết ta, nó lại chẳng thèm dùng ma pháp gì cả? Dù trên tay nó có cầm vật phát động ma pháp..."
 
@@ -80,7 +80,7 @@ Dù là một sự tồn tại đáng ghét, nhưng cứ thế bỏ qua thì ti�
 
 Hẳn đã hiểu ý chủ nhân, viên quản gia ngẫm nghĩ vài giây rồi mới mở lời.
 
-"Kẻ thực sự có thể gọi là chỗ dựa thì chắc chắn là Bá tước biên cảnh Rowlocks rồi ạ. Hơi ngược dòng thời gian một chút, nhưng trong cuộc đột kích bộ lạc Orc kể trên, có vẻ chính Rei là người đã hạ gục Orc King dẫn đầu bầy Orc. Khi ấy, dường như Bá tước biên cảnh Rowlocks đã ra tay chiêu mộ cậu ta. Kết quả là cậu ta được đặc cách làm bài thi thăng hạng và hiện tại đã lên Hạng D. Hơn nữa sau đó, chúng tôi cũng xác nhận ngài ấy từng giao ủy thác cho Rei dưới hình thức ủy thác chỉ định."
+"Người thực sự có thể coi là chỗ dựa thì chắc chắn là Bá tước biên cảnh Rowlocks rồi ạ. Hơi ngược dòng thời gian một chút, nhưng trong cuộc đột kích bộ lạc Orc dạo nọ, có vẻ chính Rei là người đã hạ gục Orc King dẫn đầu bầy Orc. Khi ấy, dường như Bá tước biên cảnh Rowlocks đã ra tay chiêu mộ cậu ta. Kết quả là cậu ta được đặc cách làm bài thi thăng hạng và hiện tại đã lên Hạng D. Hơn nữa sau đó, chúng tôi cũng xác nhận ngài ấy từng giao ủy thác cho Rei dưới hình thức ủy thác chỉ định."
 
 "...Nó có dây mơ rễ má với lãnh chúa à. Lại thêm chuyện phiền phức rồi."
 
@@ -108,7 +108,7 @@ Nếu chỉ có Daska, lãnh chúa thành phố Gilm này, thì dựa vào quy�
 
 "Liên hệ với toàn bộ các tiệm vũ khí trong thành phố Gilm cho ta. Bắt đầu từ nay, cấm tiệt tất cả bọn chúng bán vũ khí, bảo dưỡng hay thu mua đồ từ thằng ranh Rei đó. Dù có là vật phát động ma pháp đi chăng nữa, một khi đã dùng làm vũ khí thì chắc chắn sẽ cần bảo dưỡng. Đến lúc đó ắt nó phải nhờ cậy tới tiệm vũ khí. Và nếu khi ấy mọi tiệm vũ khí đều từ chối... thì thằng ranh đó khắc sẽ hiểu, đó chính là lời cảnh cáo đanh thép từ ta."
 
-"Chuyện đó... chẳng phải như thế cũng tính là trực tiếp ra tay hay sao ạ? Cậu Galahat từng tuyên bố sẽ không có lần thứ hai đâu ạ."
+"Chuyện đó... chẳng phải như thế cũng tính là trực tiếp ra tay hay sao ạ? Nghe nói cậu ta đã tuyên bố với cậu Galahat là sẽ không có lần thứ hai đâu ạ."
 
 Galahat. Vừa nghe thấy cái tên đó, Bolton liền cau mày khó chịu. Đối với Bolton, Galahat chỉ là đứa con do cha gã sinh ra với vợ lẽ khi đã về già, chỉ cần nghĩ đến chuyện mình cùng chung một nửa dòng máu với nó thôi là gã đã thấy buồn nôn từ tận đáy lòng rồi.
 
@@ -186,7 +186,7 @@ Galahat thốt lên lời xin lỗi khe khẽ.
 
 Galahat bỗng cảm thấy có gì đó bất thường trong chính những lời mình vừa thốt ra.
 
-Dù chỉ mang một nửa dòng máu, nhưng đó vẫn là người anh ruột thịt của anh. Anh hiểu rất rõ tính cách của gã. Phải, chẳng hạn gã không bao giờ tha thứ cho kẻ dám coi thường mình. Và vì món lợi của bản thân, gã sẵn sàng mặc kệ người khác sống chết ra sao. Thế nhưng song song với tính cách đó, người anh ấy cũng mang trong mình bản tính cực kỳ nhát chết. Chuyện xảy ra trưa nay khi suýt nữa chuốc lấy tai họa sát thân là minh chứng rõ ràng nhất. Một người anh như thế mà lại vì giận cá chém thớt trút giận lên một cô hầu gái đến mức thập tử nhất sinh ư?
+Dù chỉ mang một nửa dòng máu, nhưng đó vẫn là người anh máu mủ của anh. Anh hiểu rất rõ tính cách của gã. Phải, chẳng hạn gã không bao giờ tha thứ cho kẻ dám coi thường mình. Và vì món lợi của bản thân, gã sẵn sàng mặc kệ người khác sống chết ra sao. Thế nhưng song song với tính cách đó, người anh ấy cũng mang trong mình bản tính cực kỳ nhát chết. Chuyện xảy ra trưa nay khi suýt nữa chuốc lấy tai họa sát thân là minh chứng rõ ràng nhất. Một người anh như thế mà lại chỉ vì giận cá chém thớt mà đánh một cô hầu gái đến mức thập tử nhất sinh ư?
 
 (Mình cứ đinh ninh anh ấy đã khiếp sợ sau vụ trưa nay và sẽ không dám động tới Rei nữa. Nhưng nếu điều đó là sai lầm thì sao?)
 

@@ -10,7 +10,7 @@ Khi đang vừa đi vừa chia nhau đồ ăn vặt mua trên đường như m�
 
 Thoạt đầu, Rei ngỡ đó là đám người được Bolton phái tới để trả thù hay gì đó vì vụ hôm qua, nhưng do không cảm nhận được chút địch ý hay sát khí nào nên cậu lập tức gạt phăng suy nghĩ ấy đi.
 
-Cậu liếc mắt về phía phát ra ánh nhìn, nhưng đa phần những kẻ ở đó đều chẳng giống người quen chuyện đánh đấm. Dù có vài kẻ sở hữu cơ bắp cuồn cuộn do rèn luyện, song số người dạn dày va chạm thực chiến lại rất ít ỏi.
+Cậu liếc mắt về phía phát ra ánh nhìn, nhưng đa phần những kẻ ở đó đều chẳng giống người quen chuyện đánh đấm. Dù có vài kẻ sở hữu cơ bắp cuồn cuộn do rèn luyện, nhưng số người dạn dày va chạm thực chiến lại rất ít ỏi.
 
 (Chắc chắn có liên quan tới vụ việc hôm qua rồi, nhưng mà...)
 
@@ -30,7 +30,7 @@ Tuy mầm mống rắc rối có vẻ vẫn còn, nhưng Rei cho rằng sau khi 
 
 Cậu cũng từng thoáng nghĩ đến việc hỏi hai cô về những ánh mắt dò xét cảm nhận được trên đường tới đây, nhưng dù là Lenora hay Kenny thì rốt cuộc cũng chỉ là nhân viên tiếp tân bình thường của Hội. Cậu thấy tốt hơn hết không nên kể chuyện thừa thãi để tránh kéo họ vào mớ rắc rối có thể nổ ra trong tương lai gần hay xa.
 
-"Làm gì có chuyện gì đâu nà-o. Đâu phải tại lúc cậu Rei gặp khó khăn mà tôi lại nghỉ làm chẳng giúp được gì nên mới dỗi đâu nà-o."
+"Làm gì có chuyện gì đâu nào. Đâu phải tại lúc cậu Rei gặp khó khăn mà tôi lại nghỉ làm chẳng giúp được gì nên mới dỗi đâu nào."
 
 Thấy cô nàng dỗi hờn ra mặt một cách lộ liễu như thế, Rei bất giác cười trừ rồi lên tiếng.
 
@@ -110,7 +110,7 @@ Quả đúng là trên bảng có dán một tờ đơn ủy thác thảo phạt
 
 "Ủy thác thảo phạt Harpy mà lại là Hạng B ư? Nếu tôi nhớ không lầm thì Harpy vốn là quái vật Hạng D cơ mà."
 
-Đúng vậy, y như lời Rei nói, mức độ nguy hiểm của bản thân loài Harpy không cao đến thế. Dĩ nhiên đã là quái vật Hạng D thì chúng mạnh vượt trội hơn hẳn lũ quái vật cỡ Goblin, song việc được xếp vào ủy thác Hạng B vẫn là điều hết sức bất thường.
+Đúng vậy, y như lời Rei nói, mức độ nguy hiểm của bản thân loài Harpy không cao đến thế. Dĩ nhiên đã là quái vật Hạng D thì chúng mạnh vượt trội hơn hẳn lũ quái vật cỡ Goblin, nhưng việc được xếp vào ủy thác Hạng B vẫn là điều hết sức bất thường.
 
 Bởi lẽ nhắc tới quái vật Hạng B là nhắc tới bầy Emerald Wolf mà Rei từng chạm trán trong hầm ngục, hoặc ngang ngửa với Orc King mà cậu từng đối đầu tại bộ lạc Orc.
 
@@ -188,7 +188,7 @@ Nhưng mục đích ban đầu của Rei vốn là Ma Thạch trong cơ thể qu
 
 "Hử, Ma Thạch à? ...Freon, mày thấy thế nào? Ta thì thấy chẳng vấn đề gì."
 
-"A-, xem nào..."
+"À, xem nào..."
 
 Nghe Brazos nói, Freon vừa gãi tóc vừa đắn đo suy nghĩ... rồi đành gật đầu như thể chẳng còn cách nào khác.
 
@@ -198,9 +198,9 @@ Nghe Brazos nói, Freon vừa gãi tóc vừa đắn đo suy nghĩ... rồi đà
 
 Dù sao sau vụ hộ vệ Elena thì cậu chẳng hề thiếu thốn tiền bạc. Thậm chí nếu nghĩ rằng có thể bỏ tiền ra mua được Ma Thạch thì cái giá đó còn quá rẻ mạt.
 
-(Ủy, khoan đã? Nếu mình đã đăng ủy thác xẻ thịt lấy nguyên liệu thì cũng có thể đăng ủy thác thu mua Ma Thạch... Không, chuyện thu mua Ma Thạch vốn được phía Hội hết sức coi trọng, nếu mình tùy tiện đăng ủy thác như thế khéo lại bị Hội để mắt tới cũng nên. Trừ phi mình là một Giả Kim Thuật Sư thì họa may cách đó mới khả thi.)
+(Ủa, khoan đã? Nếu mình đã đăng ủy thác xẻ thịt lấy nguyên liệu thì cũng có thể đăng ủy thác thu mua Ma Thạch... Không, chuyện thu mua Ma Thạch vốn được phía Hội hết sức coi trọng, nếu mình tùy tiện đăng ủy thác như thế khéo lại bị Hội để mắt tới cũng nên. Trừ phi mình là một Giả Kim Thuật Sư thì họa may cách đó mới khả thi.)
 
-Ma Thạch là thứ đắt đỏ nhất trong số các nguyên liệu thu được từ quái vật. Đương nhiên, việc giá thu mua của nó cao vượt trội so với những nguyên liệu khác đều có lý do xác đáng. Bởi lẽ nó là nguyên liệu chế tạo Đạo Cụ Ma Thuật bằng Giả Kim Thuật, hoặc chỉ cần qua tay Giả Kim Thuật Sư gia công sơ bộ là có thể đóng vai trò như một nguồn cấp năng lượng cho Đạo Cụ Ma Thuật. Một kẻ chỉ là mạo hiểm giả bình thường chứ không phải Giả Kim Thuật Sư mà lại lùng sục thu gom thứ đó thì rõ ràng sẽ thu hút quá nhiều sự chú ý. Nó sẽ khiến người ta dòm ngó dữ dội hơn cả chuyện cậu sở hữu Hộp Vật Phẩm hay Griffin nhiều.
+Ma Thạch là thứ đắt đỏ nhất trong số các nguyên liệu thu được từ quái vật. Đương nhiên, giá thu mua của nó cao vượt trội so với những nguyên liệu khác là có lý do xác đáng. Bởi lẽ nó là nguyên liệu chế tạo Đạo Cụ Ma Thuật bằng Giả Kim Thuật, hoặc chỉ cần qua tay Giả Kim Thuật Sư gia công sơ bộ là có thể dùng làm nguồn cấp năng lượng cho Đạo Cụ Ma Thuật. Một kẻ chỉ là mạo hiểm giả bình thường chứ không phải Giả Kim Thuật Sư mà lại lùng sục thu gom thứ đó thì rõ ràng sẽ thu hút quá nhiều sự chú ý. Nó sẽ khiến người ta dòm ngó dữ dội hơn cả chuyện cậu sở hữu Hộp Vật Phẩm hay Griffin nhiều.
 
 "Rei?"
 

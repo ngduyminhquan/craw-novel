@@ -4,7 +4,7 @@
 
 Đó là yêu cầu của Bolton, chủ quản Thương Hội Azoth trong lần đầu tiên gặp mặt Rei.
 
-Sau vụ lộn xộn với lính gác cổng, mất một lúc sau thì buổi gặp mặt mới được chuẩn bị xong xuôi để Rei bước vào phòng Bolton, thế nhưng...
+Sau vụ lộn xộn với lính gác cổng, phải mất thêm một lúc người ta mới chuẩn bị xong xuôi buổi gặp mặt để Rei vào phòng Bolton, thế nhưng...
 
 Vừa thấy Rei bước vào phòng, câu đầu tiên Bolton thốt ra chính là yêu cầu đó.
 
@@ -48,7 +48,7 @@ Bolton gạt phăng đi mà chẳng thèm liếc nhìn Galahat lấy một cái.
 
 Vừa thầm nghĩ trong bụng, Rei vừa đưa mắt nhìn qua nhìn lại giữa Bolton và Galahat.
 
-Một người ở độ tuổi sáu mươi, một người ngoài ba mươi. Ngay cả Rei cũng không khỏi bất ngờ khi biết hai con người chênh lệch nhau tới gần ba mươi tuổi này lại là anh em cùng cha khác mẹ.
+Một người ở độ tuổi sáu mươi, một người ngoài ba mươi. Ngay cả Rei cũng hơi bất ngờ khi biết hai người chênh nhau tới gần ba mươi tuổi này lại là anh em cùng cha khác mẹ.
 
 "...Tôi đã thất lễ rồi."
 
@@ -56,7 +56,7 @@ Galahat nén chặt cảm xúc trước lời lẽ của Bolton, đáp một câ
 
 "Quả đúng là Đạo Cụ Ma Thuật như lời đồn. Ngươi giữ thì phí, rơi vào tay ta sẽ phát huy tác dụng tốt hơn nhiều. Hiểu rồi thì mau giao nộp ra đây. À, còn con Griffin ngươi dắt theo nữa. Để nó lại luôn đi. Bán cho kẻ nào thích của lạ, hoặc giết thịt lột lấy nguyên liệu cũng kiếm được khối món đấy. Cái ngữ mạo hiểm giả mà sở hữu nó thì uổng phí quá."
 
-Nghe câu đó, khóe môi Rei hơi giật giật. Ánh mắt cậu nhìn Bolton lúc này đã vượt qua cả sự chán ngán, vượt qua cả vẻ lạnh băng, và cuối cùng biến thành cái nhìn như thể đang nhìn một hòn đá ven đường. Phải, một hòn đá ven đường mà dẫu cậu có giẫm nát dưới chân thì cũng chẳng mảy may bận lòng.
+Nghe câu đó, má Rei khẽ giật giật. Ánh mắt cậu nhìn Bolton lúc này đã vượt qua cả sự chán ngán, vượt qua cả vẻ lạnh băng, và cuối cùng biến thành cái nhìn như đang nhìn một hòn đá ven đường. Phải, một hòn đá ven đường mà dù cậu có giẫm nát dưới chân thì cũng chẳng buồn bận tâm.
 
 "Sao thế? Mau giao ra đây. Ta bận rộn chứ đâu rảnh rỗi như cái ngữ mạo hiểm giả các ngươi. Đừng làm mất thì giờ của ta."
 
@@ -82,7 +82,7 @@ Nhận ra Rei định làm gì, Galahat lập tức đạp mạnh xuống sàn, 
 
 Cán hái của Lưỡi Hái Tử Thần giáng xuống mà hầu như chẳng hề nương tay.
 
-Dù vậy, việc không dùng phần lưỡi sắc bén để chém xuống chứng tỏ cậu vẫn còn giữ được chút lý trí. Thế nhưng...
+Dù vậy, chưa dùng phần lưỡi sắc bén để bổ xuống chứng tỏ cậu vẫn còn giữ được chút lý trí. Thế nhưng...
 
 "Hự!"
 
@@ -122,7 +122,7 @@ Rei cất lời như thể hoàn toàn bỏ ngoài tai những gì Bolton vừa 
 
 "Nhưng, ngươi vừa bảo sẽ làm gì với Griffin... với Set, cộng sự của ta? Bán tống bán tháo? Giết thịt lột nguyên liệu?"
 
-Lưỡi Hái Tử Thần xoay tít từng vòng trên tay cậu, lưỡi hái sượt qua đâu là đồ đạc trong phòng vỡ vụn, bị chém đứt lìa và nát vụn tới đó. Vừa xoay tròn lưỡi hái trong tay như thế, Rei vừa chậm rãi tiến từng bước một về phía Bolton, kẻ vẫn ngồi chết trân trên ghế, đôi má giật giật không thốt nên lời và chẳng thể nhúc nhích nổi.
+Lưỡi Hái Tử Thần xoay tít từng vòng trên tay cậu, lưỡi hái sượt qua đâu là đồ đạc trong phòng vỡ vụn, đứt lìa và tan tành tới đó. Vừa xoay tròn lưỡi hái trong tay như thế, Rei vừa chậm rãi tiến từng bước một về phía Bolton, kẻ vẫn ngồi chết trân trên ghế, đôi má giật giật không thốt nên lời và chẳng thể nhúc nhích nổi.
 
 "Mày... thằng ranh kia! Chỉ là cái ngữ mạo hiểm giả thấp kém mà nghĩ chống đối ta ở thành phố Gilm này mà yên thân được sao! Ta là chủ quản Thương Hội Azoth đấy!"
 
@@ -146,7 +146,7 @@ Phần thân trên vốn được bộ giáp da bảo vệ nay chỉ còn lại 
 
 Thế nhưng... dù vậy, Galahat vẫn còn sống. Thậm chí anh vẫn còn có thể cử động được. Dù vừa phải hứng trọn một đòn gần như không hề nương tay từ Lưỡi Hái Tử Thần của Rei. Cho dù đó chỉ là đòn đánh bằng cán chứ không phải lưỡi hái, thì trọng lượng vốn có của Lưỡi Hái Tử Thần kết hợp cùng sức mạnh cánh tay của Rei đáng lẽ là đòn chí mạng cầm chắc cái chết đối với một người bình thường.
 
-Trước tình cảnh đó của Galahat, Rei, người đang giữ gương mặt lạnh tanh chuẩn bị kết liễu Bolton, không khỏi thoáng lộ vẻ kinh ngạc.
+Trước tình cảnh đó của Galahat, Rei đang giữ gương mặt lạnh tanh chuẩn bị kết liễu Bolton cũng bất giác thoáng lộ vẻ kinh ngạc.
 
 "Xin cậu... Làm ơn đừng lấy mạng người đó... anh trai tôi."
 
@@ -158,11 +158,11 @@ Thế nhưng, nét kinh ngạc đó biến mất ngay tức khắc khi cậu ngh
 
 Chắc hẳn từ trước tới giờ chưa từng có ai dám nói thẳng vào mặt gã những lời như thế. Bolton toan phản xạ cãi lại điều gì đó, nhưng Galahat đã kịp lên tiếng trước. Phải, bởi anh hiểu rõ kẻ đang đứng trước mặt là một tử thần có thể mang đến cái chết dễ như trở bàn tay. Nếu lỡ lời nói bậy bạ, đầu của Bolton sẽ lìa khỏi cổ ngay tức khắc.
 
-"Dù là người thế nào... dù chỉ cùng một nửa dòng máu, ông ấy vẫn là người anh ruột thịt của tôi... Khụ."
+"Dù là người thế nào... dù chỉ cùng một nửa dòng máu, anh ấy vẫn là người anh máu mủ của tôi... Khụ."
 
 Có lẽ do nội tạng bị tổn thương mà lại gượng cử động, máu tươi lại ộc ra từ miệng anh. Nhưng chẳng màng tới chuyện đó, biết rằng nếu bỏ lỡ cơ hội này thì sẽ chẳng còn cơ hội nào nữa, Galahat cố mở miệng thốt ra từng lời lẫn trong máu.
 
-"Vả lại, dù là một người anh như thế... thì sự thật là ông ấy vẫn có vị thế không hề nhỏ ở thành phố Gilm này. Nếu giết một kẻ như vậy... cậu sẽ thành tội phạm bị truy nã, bị Hội săn lùng... đấy."
+"Vả lại, dù là một người anh như thế... thì sự thật là anh ấy vẫn có vị thế không hề nhỏ ở thành phố Gilm này. Nếu giết một kẻ như vậy... cậu sẽ thành tội phạm bị truy nã, bị Hội săn lùng... đấy."
 
 Không thể nào dùng tình cảm để cứu người anh của mình. Nghĩ vậy, Galahat liền đổi hướng sang chuyện thiệt hơn. Nếu tình cảm không lay chuyển được thì dùng lợi ích. Phán đoán nhanh nhạy đó quả không hổ danh là một mạo hiểm giả Hạng B. Bằng chứng là khi viễn cảnh phiền phức đó thoáng lướt qua tâm trí, Rei đã khẽ nhíu mày rồi thu Lưỡi Hái Tử Thần lại.
 
