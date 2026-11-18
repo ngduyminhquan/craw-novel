@@ -249,3 +249,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kumito | Set | em | Set | 113 | Cậu bé 10 tuổi thân thiện gọi tên Set |
 | Lenora | Schele | tôi | anh / anh Schele | 114 | Tiếp tân Hội nhắc nhở mạo hiểm giả |
 | Kenny | Epoca | cháu / tôi | bác Epoca | 118 | Kenny làm nũng, than phiền khi bị từ chối |
+| Lenora | Runo | tôi | anh / anh Runo | 119 | Tiếp tân Hội nói chuyện với mạo hiểm giả quen biết |
+| Runo | Lenora | tôi | cô bé Lenora / Lenora | 119 | Mạo hiểm giả trung niên thân thiện với tiếp tân |
