@@ -202,7 +202,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ウォーターモンキー |  | Water Monkey | quái vật | 79 | Quái vật loài khỉ bọc nước, Hạng D |
 | ウォーターゴリラ |  | Water Gorilla | quái vật | 79 | Cách gọi ví von của Vel về con Water Monkey khổng lồ |
 | オーガ |  | Ogre | quái vật | 81 | Quái vật hình người to lớn da xanh thuộc hệ Goblin, Hạng C |
-| モンスター辞典 |  | từ điển quái vật | vật phẩm | 43 | Cuốn sách tra cứu thông tin quái vật mà Rei mua tại hiệu sách ở Gilm |
+| モンスター辞典 | 魔物辞典 | từ điển quái vật | vật phẩm | 43 | Cuốn sách tra cứu thông tin quái vật mà Rei mua tại hiệu sách ở Gilm |
 | 炎の礫 |  | Hỏa Lịch | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei, bắn cầu lửa phát nổ rải đốm lửa nhỏ như sỏi đá |
 | 紅蓮の焔壁 |  | Hồng Liên Diễm Bích | kỹ năng | 84 | Ma thuật hệ Hỏa của Rei tạo bức tường lửa bảo vệ diện rộng, tự phóng Hỏa Cầu phản kích đòn đánh |
 | スケルトンロード |  | Skeleton Lord | quái vật | 88 | Quái vật bộ xương cấp cao thuộc hệ Undead |
@@ -218,3 +218,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 時空魔法 |  | Thời Không Ma Pháp | kỹ năng | 93 | Ma pháp thao túng không gian và thời gian |
 | 死霊術士 |  | Tử Linh Thuật Sĩ | chức nghiệp | 93 | Ma thuật sư chuyên về ma thuật tử linh thời cổ đại |
 | エメラルドウルフ |  | Emerald Wolf | quái vật | 94 | Quái vật dạng sói to lớn, Hạng C (bầy đàn tương đương Hạng B), có hai nanh dài màu lục thẫm và hai xúc tu mọc ở lưng |
+| スプリガン |  | Spriggan | quái vật | 96 | Quái vật Hạng B thuộc loài người khổng lồ, bình thường có hình dạng tiểu nhân da xanh lùn như Goblin nhưng khi chiến đấu sẽ hóa khổng lồ cao 6m |
