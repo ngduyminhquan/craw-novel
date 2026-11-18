@@ -217,3 +217,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 死霊魔法 |  | Tử Linh Ma Pháp | kỹ năng | 93 | Ma pháp điều khiển Undead và hiện tượng liên quan tới người chết |
 | 時空魔法 |  | Thời Không Ma Pháp | kỹ năng | 93 | Ma pháp thao túng không gian và thời gian |
 | 死霊術士 |  | Tử Linh Thuật Sĩ | chức nghiệp | 93 | Ma thuật sư chuyên về ma thuật tử linh thời cổ đại |
+| エメラルドウルフ |  | Emerald Wolf | quái vật | 94 | Quái vật dạng sói to lớn, Hạng C (bầy đàn tương đương Hạng B), có hai nanh dài màu lục thẫm và hai xúc tu mọc ở lưng |
