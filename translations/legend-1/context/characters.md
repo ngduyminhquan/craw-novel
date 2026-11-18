@@ -52,6 +52,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Filma Desir | フィルマ・デジール; フィルマ | Filma Desir | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel, con thứ của Hầu tước Desir | Chương 108 |
 | Kumito | クミト | Kumito | Cậu bé 10 tuổi, con trai thợ rèn Pamidoor mới chuyển đến Gilm | Chương 113 |
 | Pamidoor | パミドール | Pamidoor | Thợ rèn tay nghề cao mới chuyển đến Gilm, cha của Kumito (chương 113 được nhắc tên) | Chương 113 |
+| Schele | シェーレ | Schele | Mạo hiểm giả dùng thương mới đến Gilm | Chương 114 |
 
 ## Chi tiết
 
@@ -60,7 +61,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 112: Thẻ Hội Hạng D; hoàn thành ủy thác hộ vệ Elena, thành tích thăng Hạng C tạm bị đóng băng để bảo mật chuyện Vel phản bội; được Elena nhường toàn bộ chiến lợi phẩm quái vật trong hầm ngục và trao nụ hôn đầu đời.
+- Trạng thái tính đến chương 114: Thẻ Hội Hạng D; hoàn tất thủ tục nhận thưởng ủy thác hộ vệ Elena (2 đồng quang kim + 1 đồng bạch kim), thành tích thăng Hạng C tạm bị đóng băng; chuẩn bị mổ xẻ lấy nguyên liệu và Ma Thạch quái vật hầm ngục.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -261,3 +262,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Pamidoor
 - Giới tính, nghề nghiệp: Nam, thợ rèn tay nghề cao mới chuyển đến thành phố Gilm mở tiệm gần thư viện; cha của Kumito (chương 113 chỉ được nhắc tên).
+
+### Schele
+- Nam mạo hiểm giả dùng thương khoảng 25 tuổi, mới tới Gilm được 2 ngày cùng bạn đồng hành dùng kiếm; gây sự với Rei và bị dọa khiếp vía cõng bạn chạy trốn.

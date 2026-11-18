@@ -55,6 +55,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vel | anh / hắn / Vel | 99 | Lộ mặt là kẻ phản bội |
 | Filma Desir | anh / Filma | 108 | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel |
 | Kumito | cậu bé / Kumito / đứa trẻ | 113 | Cậu bé 10 tuổi con trai thợ rèn Pamidoor |
+| Schele | người đàn ông cầm thương / Schele | 114 | Mạo hiểm giả dùng thương mới đến Gilm |
 
 ## Giữa các nhân vật
 
@@ -245,3 +246,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kumito | Rei | em | anh / anh Rei | 113 | Cậu bé 10 tuổi nói chuyện và cảm ơn thiếu niên đã giải cứu mình |
 | Rei | Kumito | tôi / anh | nhóc / em | 113 | Thiếu niên mạo hiểm giả nói chuyện với cậu bé 10 tuổi |
 | Kumito | Set | em | Set | 113 | Cậu bé 10 tuổi thân thiện gọi tên Set |
+| Lenora | Schele | tôi | anh / anh Schele | 114 | Tiếp tân Hội nhắc nhở mạo hiểm giả |
