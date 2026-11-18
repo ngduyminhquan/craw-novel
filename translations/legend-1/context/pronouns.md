@@ -222,3 +222,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Ara | Kuust | tôi | Kuust / cậu / anh ta | 90 | Nữ hiệp sĩ hộ vệ nói trực tiếp hoặc nhắc tới đội trưởng đồng trang lứa |
 | Grimm | Rei | ta | ngươi / cậu / Rei | 93 | Giọng ma thuật sư cổ đại thân thiện với người kế thừa Zepairu |
 | Rei | Grimm | tôi | ông | 93 | Rei nói chuyện với Lich Lord cổ đại |
+| Elena | Grimm | tôi | ngài | 92 | Sau khi nhận ra thực lực áp đảo của chủ nhân giọng nói bí ẩn; lúc đầu chưa rõ thực lực ở đoạn 47 thì xưng 'ta', gọi 'ngươi' |
+| Grimm | Elena | ta | ngươi / cô bé | 92 | Lich Lord cổ đại nói chuyện với Elena |

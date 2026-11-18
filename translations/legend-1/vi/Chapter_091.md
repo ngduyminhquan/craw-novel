@@ -26,7 +26,7 @@ Cùng lúc ma pháp được phát động, quả Hỏa Cầu phóng ra từ cú
 
 Ngay cạnh đó, Set hít một hơi thật sâu rồi phun Hơi Thở Lửa, nuốt trọn nhiều con Zombie vào biển lửa.
 
-Nếu chỉ xét về uy lực thuần túy thì Hỏa Cầu của Rei có thể xóa sổ một con Zombie chỉ bằng một đòn, nhưng mục tiêu lại chỉ là một con duy nhất. Khá lắm thì cũng chỉ gây thêm chút sát thương cho con đó và đám địch xung quanh. Ngược lại, Hơi Thở Lửa của Set tuy uy lực không bằng Hỏa Cầu nhưng lại có thể tấn công trên diện rộng, nên họ chọn cách dùng Hỏa Cầu xử lý những con Zombie đã áp sát ở cự ly gần, còn những con ở xa hơn thì để Hơi Thở Lửa của Set quét sạch một mẻ.
+Nếu chỉ xét về uy lực thuần túy thì Hỏa Cầu của Rei có thể xóa sổ một con Zombie chỉ bằng một đòn, nhưng mục tiêu lại chỉ là một con duy nhất. Khá lắm thì ngoài con đó ra cũng chỉ gây thêm chút sát thương cho đám địch xung quanh. Ngược lại, Hơi Thở Lửa của Set tuy uy lực không bằng Hỏa Cầu nhưng lại có thể tấn công trên diện rộng, nên họ chọn cách dùng Hỏa Cầu xử lý những con Zombie đã áp sát ở cự ly gần, còn những con ở xa hơn thì để Hơi Thở Lửa của Set quét sạch một mẻ.
 
 Ban đầu kẻ địch xuất hiện chỉ toàn Skeleton, cứ ngỡ nhóm Rei và Set sẽ dễ dàng giải quyết, nhưng như muốn lặp lại cảnh tượng lúc thoát khỏi vòng lặp vô tận, đằng sau lưng lại có thêm một đàn Zombie xuất hiện. Rốt cuộc lũ Zombie phiền toái với mùi xú uế, thịt thối và dịch rữa được giao cho Rei và Set, những người có thể dùng Hỏa Cầu và Hơi Thở Lửa. Còn lũ Skeleton trơ xương ở phía trước thì do nhóm Elena đảm nhận.
 
@@ -36,13 +36,13 @@ Và khi Rei cùng Set đã quét sạch lũ Zombie theo đúng nghĩa đen rồi
 
 Nghe Vel than thở, Rei cười trừ gật đầu.
 
-"Chuẩn luôn. Nếu là Skeleton cấp cao hơn thì xương của chúng còn được thu mua làm nguyên liệu, chứ thế này thì đúng là vừa mất công vừa thiệt thân."
+"Chuẩn luôn. Nếu là Skeleton cấp cao hơn thì xương của chúng còn được thu mua làm nguyên liệu, chứ thế này thì đúng là nhọc công bẻ xương mà chẳng được tích sự gì."
 
 "Đó là gì thế?"
 
 Elena nghiêng đầu cất tiếng hỏi trước lời của Rei. Vừa dõi mắt nhìn những lọn tóc xoăn đu đưa theo cái nghiêng đầu của cô, cậu vừa giải thích.
 
-"Đó là câu tục ngữ sư phụ từng dạy tôi thôi. Đại ý là chỉ tổ mệt người mà chẳng thu được lợi lộc gì... Cơ mà nếu chỉ xét riêng trường hợp của tụi mình thì đúng là bẻ xương theo nghĩa đen thật."
+"Đó là câu tục ngữ sư phụ từng dạy tôi thôi. Đại ý là chỉ tổ mệt người mà chẳng thu được lợi lộc gì... Cơ mà nếu chỉ xét riêng trường hợp của chúng ta thì đúng là bẻ xương theo nghĩa đen thật."
 
 "Khặc khặc khặc. Ừ thì đúng là thế thật. Nói thế thì người nhọc công bẻ xương nhất chính là Ara rồi."
 
@@ -126,7 +126,7 @@ Ngó vào trong phòng, Vel vừa cười trừ vừa lắc đầu. Nhìn điệ
 
 Ara cười trừ. Những người còn lại dù không nói ra nhưng trong lòng hẳn cũng chung suy nghĩ với cô, người thì cười trừ, kẻ thì lặng lẽ lắc đầu, ai nấy đều không giấu nổi vẻ thất vọng.
 
-Bên trong phòng thực sự chẳng có gì cả. Ngay cả căn phòng nhỏ vốn là điểm khởi phát của vòng lặp vô tận khi nãy ít ra còn đặt một chiếc rương kho báu trông đầy ẩn ý — dẫu bên trong là quái vật — còn căn phòng này thì thực sự trống trơn. Nếu bị ép phải chỉ ra thứ duy nhất có trong phòng thì người ta chỉ có thể trả lời là bụi bẩn.
+Bên trong phòng thực sự chẳng có gì cả. Ngay cả căn phòng nhỏ mở đầu vòng lặp vô tận khi nãy ít ra còn đặt một chiếc rương kho báu trông đầy ẩn ý, dù bên trong là quái vật, còn căn phòng này thì thực sự trống trơn. Nếu buộc phải kể ra thứ duy nhất có trong phòng thì chắc chỉ có mỗi bụi bẩn.
 
 "...Vel, phiền cậu kiểm tra kỹ bên trong phòng một lượt xem sao. Biết đâu lại có cửa bí mật hay cầu thang ẩn giấu thì sao."
 
@@ -158,7 +158,7 @@ Thấy Set nghiêng đầu làm nũng như muốn xin một miếng, Rei bất g
 
 "Biết rồi, biết rồi. Cho nhóc nếm thử một chút từ phần của tao thôi đấy nhé."
 
-Vốn sở hữu cơ thể nhân tạo nên khả năng tiêu hao năng lượng kém hiệu quả khiến Rei ăn nhiều hơn người thường, nhưng lượng ăn của cậu vẫn ít hơn Set nhiều, xét theo hệ số Engel thì đây hẳn là điều may mắn. ...Trang bị đều là đồ tự có và hầu như chẳng hề hao mòn, thứ cậu phải mua sắm cùng lắm chỉ là đồ dùng hàng ngày, đồ tiêu hao cho ủy thác, hoặc sách vở vừa để giải trí vừa phục vụ công việc, nên dẫu hệ số Engel có cao thì cậu cũng chẳng đến mức phải chật vật.
+Do cơ thể nhân tạo ngốn nhiều năng lượng nên Rei ăn khỏe hơn người thường, nhưng lượng ăn của cậu vẫn ít hơn Set nhiều, xét theo hệ số Engel thì đây hẳn là điều may mắn. ...Trang bị đều là đồ tự có và hầu như chẳng hề hao mòn, thứ cậu phải mua sắm cùng lắm chỉ là đồ dùng hàng ngày, đồ tiêu hao cho ủy thác, hoặc sách vở vừa để giải trí vừa phục vụ công việc, nên dù hệ số Engel có cao thì cậu cũng chẳng đến mức phải chật vật.
 
 "...Oa, ngon quá! Vỏ bánh giòn rụm, bên trong thì ngập tràn thịt với nấm luôn này."
 
@@ -172,7 +172,7 @@ Còn Kuust thì ngồi tít ở phía đối diện với Rei, lẳng lặng đ�
 
 "Thịnh soạn cơ à? Bữa ăn thế này so với tiêu chuẩn quý tộc chẳng phải thuộc dạng đạm bạc sao?"
 
-"Đúng là nếu xét trên tiêu chuẩn bữa ăn quý tộc thì là vậy. Nhưng khi hành quân cùng kỵ sĩ đoàn hay quân đội, khẩu phần lương thực phát cho mọi người vốn dĩ rất đạm bạc. Trước khi rời thành phố Gilm, chẳng phải ta đã nhờ cậu mang giúp mấy món lương khô quân dụng rồi sao? Đó mới là chuyện thường thấy. ...Mà dĩ nhiên, cũng có nơi phân chia khẩu phần theo cấp bậc, hoặc mấy tên quý tộc ngu ngốc ảo tưởng còn dắt theo cả đầu bếp riêng của gia tộc để được ăn uống y như ở nhà... nhưng ở quân đội của Công tước Kerebel, để gắn kết tình đoàn kết giữa binh lính, kỵ sĩ và chỉ huy, về cơ bản mọi người đều ăn cùng một khẩu phần như nhau. Đứng ở cương vị đó mà nói, chẳng cần vất vả gì mà bữa nào cũng được ăn đồ nóng hổi, mới nấu như thế này thì quả thực vô cùng thịnh soạn rồi."
+"Đúng là nếu xét trên tiêu chuẩn bữa ăn quý tộc thì là vậy. Nhưng khi hành quân cùng kỵ sĩ đoàn hay quân đội, khẩu phần lương thực phát cho mọi người vốn dĩ rất đạm bạc. Trước khi rời thành phố Gilm, chẳng phải ta đã nhờ cậu mang giúp mấy món lương khô quân dụng rồi sao? Đó mới là chuyện thường thấy. ...Mà dĩ nhiên, cũng có nơi phân chia khẩu phần theo cấp bậc, hoặc mấy tên quý tộc ngu ngốc ảo tưởng còn dắt theo cả đầu bếp riêng của gia tộc để được ăn uống y như ở nhà... nhưng ở quân đội của Công tước Kerebel, để tạo sự gắn kết giữa binh lính, kỵ sĩ và chỉ huy, về cơ bản mọi người đều ăn cùng một khẩu phần như nhau. Đứng ở cương vị đó mà nói, chẳng cần vất vả gì mà bữa nào cũng được ăn đồ nóng hổi, mới nấu như thế này thì quả thực vô cùng thịnh soạn rồi."
 
 Vừa lắng nghe Elena kể chuyện trong lúc cô tao nhã đưa thìa súp lên miệng, Rei cũng ăn nốt miếng bánh pie thịt cuối cùng.
 

@@ -76,7 +76,7 @@ Rei đưa mắt nhìn sang phía Vel. Bắt gặp ánh mắt ấy, Vel hiểu ng
 
 Khoảnh khắc Vel vừa buông lời thắc mắc, tất cả mọi người có mặt tại đó đều nghe thấy giọng nói ấy.
 
-(...Không, nói là nghe thấy thì đúng hơn là âm thanh vang vọng thẳng vào trong đầu? Kiểu như thần giao cách cảm hay niệm thoại à?)
+(...Không, thay vì bảo là nghe thấy thì phải nói là âm thanh vang thẳng vào đầu mới đúng? Kiểu như thần giao cách cảm hay niệm thoại à?)
 
 Ngay khoảnh khắc giọng nói vang lên trong đầu, Rei nhanh như cắt vào thế thủ với Lưỡi Hái Tử Thần. Ngay bên cạnh, Elena cũng tuốt liên tiếp kiếm, sẵn sàng vũ khí để đối phó với bất kỳ đòn tấn công nào từ tứ phía. Cả Vel, Kuust lẫn Ara cũng lập tức làm điều tương tự.
 
@@ -100,7 +100,7 @@ Elena chĩa mũi liên tiếp kiếm về phía phòng nghiên cứu, thế như
 
 "..."
 
-Nghe giọng nói đó, Elena thoáng trầm ngâm suy nghĩ. Thấy vậy, Kuust quay về hướng giọng nói vô hình cất lời.
+Nghe giọng nói đó, Elena thoáng ngẫm nghĩ. Thấy vậy, Kuust quay về hướng giọng nói vô hình cất lời.
 
 "Cần thì cứ kiểm chứng xem lời ngươi nói có thật hay không là biết ngay chứ gì. Cái loại lén lút trốn chui trốn lủi trong hầm ngục thế này thì chắc cũng chẳng phải ngữ tử tế gì đâu."
 
@@ -162,7 +162,7 @@ Kuust đang nheo mắt lùng sục ráo riết xem kẻ sở hữu giọng nói 
 
 Ngay khi Elena vừa dứt lời, giọng nói vang vọng trong đầu bỗng bật cười sảng khoái.
 
-[Khục khục khục. Ha ha ha ha! Người... Ra là vậy, con người à! Chà, chẳng nhớ nổi đã bao lâu rồi ta mới lại thấy sảng khoái đến bực này đấy. Được lắm, xem như đáp lễ, ta hứa ở đây sẽ không đối địch với các ngươi. Thế điều thứ hai ngươi muốn hỏi là chuyện vừa rồi à?]
+[Khục khục khục. Ha ha ha ha! "Người" ư. Ra là vậy, coi ta là "người" à! Chà, chẳng nhớ nổi đã bao lâu rồi ta mới lại thấy sảng khoái đến mức này đấy. Được lắm, xem như đáp lễ, ta hứa ở đây sẽ không đối địch với các ngươi. Thế điều thứ hai ngươi muốn hỏi là chuyện vừa rồi à?]
 
 "Không. Tôi từng nghe nói quái vật trong hầm ngục về cơ bản đều do lõi hầm ngục dịch chuyển tới, và trong quá trình đó chúng sẽ bị một dạng tẩy não nào đó. Thế mà ngài lại chẳng hề có vẻ gì là muốn đối địch với chúng tôi, thậm chí còn trò chuyện bình thường thế này... Chẳng lẽ ngài không phải là quái vật được triệu hồi tới đây sao?"
 
@@ -190,7 +190,7 @@ Giọng nói vẫn đều đặn vang vọng trong đầu. Rồi khi Rei và nh�
 
 "...Dù sao thì tôi cũng xin gửi lời cảm ơn ngài. Vậy chúng tôi xin phép cáo lui tại đây."
 
-[Không có gì, bận tâm làm chi. Coi như chút quà mọn tạ ơn các ngươi đã giúp ta khuây khỏa sau ngần ấy năm trời. Vậy thôi, tạm biệt nhé.]
+[Không có gì, bận tâm làm chi. Coi như chút đáp lễ vì các ngươi đã giúp ta khuây khỏa sau ngần ấy năm trời. Vậy thôi, tạm biệt nhé.]
 
 "Xin ngài hãy đợi một chút! Nếu được, liệu tôi có thể xin quý danh của ngài không? Tôi là Elena Kerebel, xuất thân từ gia tộc Công tước Kerebel của Vương quốc Mireana."
 
@@ -200,4 +200,4 @@ Giọng nói vẫn đều đặn vang vọng trong đầu. Rồi khi Rei và nh�
 
 Nghe theo chỉ thị của Elena, Ara, Vel và Kuust lần lượt rời khỏi phòng nghiên cứu. Đúng lúc Rei định nối gót theo sau... một lần nữa giọng nói ấy lại vang vọng trong đầu, đồng thời toàn bộ mọi người trừ Rei và Set đều khựng người bất động.
 
-[Úi chà. Suýt nữa thì ta quên mất. Cái người dắt theo Griffin đằng kia, ta có vài điều muốn hỏi cậu đấy.]
+[Úi chà. Suýt nữa thì ta quên mất. Ta còn có chuyện muốn hỏi người dắt theo Griffin đằng kia nữa nhỉ.]
