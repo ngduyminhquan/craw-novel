@@ -229,3 +229,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ゴーレム |  | Golem | quái vật | 101 | Quái vật chế tạo bằng Giả Kim Thuật; loại của Bestia cao khoảng 1.6m |
 | フルプレート |  | Full Plate | vật phẩm | 101 | Bộ giáp toàn thân |
 | オートマタ |  | Automata | khác | 101 | Người máy tự động; khái niệm Trái Đất trong suy nghĩ của Rei |
+| キメラ |  | Chimera | quái vật | 102 | sinh vật lai ghép do Giả Kim Thuật hoặc ma thuật tạo ra |

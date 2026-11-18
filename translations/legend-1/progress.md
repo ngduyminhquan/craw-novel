@@ -106,7 +106,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 99 |  | Chapter_0099 - 継承の祭壇 - 第99話.txt | 継承の祭壇 - 第99話 | reviewed |  |
 | 100 |  | Chapter_0100 - 継承の祭壇 - 第100話.txt | 継承の祭壇 - 第100話 | done |  |
 | 101 |  | Chapter_0101 - 継承の祭壇 - 第101話.txt | 継承の祭壇 - 第101話 | done |  |
-| 102 |  | Chapter_0102 - 継承の祭壇 - 第102話.txt | 継承の祭壇 - 第102話 | todo |  |
+| 102 |  | Chapter_0102 - 継承の祭壇 - 第102話.txt | 継承の祭壇 - 第102話 | done |  |
 | 103 |  | Chapter_0103 - 継承の祭壇 - 第103話.txt | 継承の祭壇 - 第103話 | todo |  |
 | 104 |  | Chapter_0104 - 継承の祭壇 - 第104話.txt | 継承の祭壇 - 第104話 | todo |  |
 | 105 |  | Chapter_0105 - 継承の祭壇 - 第105話.txt | 継承の祭壇 - 第105話 | todo |  |

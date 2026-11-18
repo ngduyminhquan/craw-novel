@@ -203,7 +203,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
 - Vũ khí và ma pháp: Dùng ma thương; khuyên tai bên phải là vật phát động ma pháp; sử dụng ma pháp hệ Thủy gồm hồi phục [Lam Dũ] và tấn công [Nanh Nước].
-- Trạng thái tính đến chương 101: Bị Vel cắm bảo thạch hình chóp tam giác vào gáy, tỉnh lại nhưng cơ thể bị khống chế và cường hóa thể chất gấp gần 3 lần không thể ngất; van xin Rei giết mình để tiêu diệt Vel.
+- Trạng thái tính đến chương 102: Bị Rei đánh vỡ giáp toàn thân Full Plate đánh ngất; sau đó liều mình lấy thân mình chắn nhát kiếm của Golem nhỏ cứu mạng Elena, bị kiếm đâm ngập lưng trọng thương thập tử nhất sinh.
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
@@ -213,7 +213,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
 - Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; sở hữu Dao Độc và sinh vật ma pháp hộ vệ dạng xúc tu tím do Giả Kim Thuật Sư Bestia tạo ra; biết ma pháp hệ Thổ.
-- Trạng thái tính đến chương 101: Thổi còi triệu hồi Golem của Bestia tấn công Set; cắm bảo thạch hình chóp tam giác vào gáy Kuust để cường hóa thể chất và điều khiển Kuust dồn ép Rei.
+- Trạng thái tính đến chương 102: Dùng Golem nhỏ mang trường kiếm toan đâm lén kết liễu Elena nhưng bất thành; ném lọ độc tấn công Rei nhưng bị ném trả và bị xúc tu tự động của mình vô tình đập vỡ khiến mặt bị ăn mòn biến dạng, đồng thời bị Rei chém đứt lìa cánh tay trái.
 
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
