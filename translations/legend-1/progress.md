@@ -113,7 +113,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 106 |  | Chapter_0106 - 継承の祭壇 - 第106話.txt | 継承の祭壇 - 第106話 | reviewed |  |
 | 107 |  | Chapter_0107 - 継承の祭壇 - 第107話.txt | 継承の祭壇 - 第107話 | reviewed |  |
 | 108 |  | Chapter_0108 - 継承の祭壇 - 第108話.txt | 継承の祭壇 - 第108話 | reviewed |  |
-| 109 |  | Chapter_0109 - 継承の祭壇 - 第109話.txt | 継承の祭壇 - 第109話 | todo |  |
+| 109 |  | Chapter_0109 - 継承の祭壇 - 第109話.txt | 継承の祭壇 - 第109話 | done |  |
 | 110 |  | Chapter_0110 - アゾット商会 - 第110話.txt | アゾット商会 - 第110話 | todo |  |
 | 111 |  | Chapter_0111 - アゾット商会 - 第111話.txt | アゾット商会 - 第111話 | todo |  |
 | 112 |  | Chapter_0112 - アゾット商会 - 第112話.txt | アゾット商会 - 第112話 | todo |  |
