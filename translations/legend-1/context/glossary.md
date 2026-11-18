@@ -243,3 +243,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | アゾット商会 |  | Thương Hội Azoth | tổ chức | 110 | Thương hội lớn tại thành phố Gilm chuyên buôn bán vũ khí |
 | 子爵 |  | Tử tước | danh hiệu | 110 | Tước vị quý tộc; viết hoa khi đi liền với tên riêng: Tử tước Sails |
 | ビックボア | ビッグボア | Big Boar | quái vật | 113 | Quái vật lợn rừng lớn, thịt xiên nướng |
+| パワースラッシュ |  | Cường Lực Trảm | kỹ năng | 116 | Kỹ năng tăng uy lực đòn chém dồn lực bổ xuống của Lưỡi Hái Tử Thần, học được từ Ma Thạch Ogre |
+| サイズ変更 |  | Biến Đổi Kích Thước | kỹ năng | 116 | Kỹ năng thay đổi kích thước cơ thể của Set, học được từ Ma Thạch Spriggan (Lv.1 thu nhỏ còn 1m) |
+| トルネード |  | Lốc Xoáy | kỹ năng | 116 | Kỹ năng tạo lốc xoáy của Set, học được từ Ma Thạch Emerald Wolf; viết hoa khi là tên kỹ năng: Lốc Xoáy; viết thường khi là danh từ chỉ lốc xoáy (竜巻): cơn lốc xoáy |
+| 風の手 |  | Bàn Tay Gió | kỹ năng | 116 | Kỹ năng mọc xúc tu vô hình bằng ma lực gió từ Lưỡi Hái Tử Thần, học được từ Ma Thạch Emerald Wolf |
