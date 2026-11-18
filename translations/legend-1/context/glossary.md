@@ -210,3 +210,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | リッチ |  | Lich | quái vật | 89 | Quái vật Undead bắt nguồn từ ma pháp sư biến thành sau khi chết |
 | ウォーター・ファング |  | Nanh Nước | kỹ năng | 90 | Ma pháp tấn công hệ Thủy tạo ra 5 gai nước hình nón như răng nanh, do Kuust sử dụng |
 | 神聖魔法 |  | Thần Thánh Ma Pháp | kỹ năng | 90 | Loại ma pháp mang thuộc tính thần thánh có hiệu quả cao đối với Undead |
+| テレパシー |  | thần giao cách cảm | khác | 92 | giao tiếp bằng ý nghĩ |
+| 念話 |  | niệm thoại | khác | 92 | phương thức truyền âm qua ý nghĩ |

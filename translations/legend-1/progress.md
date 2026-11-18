@@ -96,7 +96,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 89 |  | Chapter_0089 - 継承の祭壇 - 第89話.txt | 継承の祭壇 - 第89話 | reviewed |  |
 | 90 |  | Chapter_0090 - 継承の祭壇 - 第90話.txt | 継承の祭壇 - 第90話 | reviewed |  |
 | 91 |  | Chapter_0091 - 継承の祭壇 - 第91話.txt | 継承の祭壇 - 第91話 | done |  |
-| 92 |  | Chapter_0092 - 継承の祭壇 - 第92話.txt | 継承の祭壇 - 第92話 | todo |  |
+| 92 |  | Chapter_0092 - 継承の祭壇 - 第92話.txt | 継承の祭壇 - 第92話 | done |  |
 | 93 |  | Chapter_0093 - 継承の祭壇 - 第93話.txt | 継承の祭壇 - 第93話 | todo |  |
 | 94 |  | Chapter_0094 - 継承の祭壇 - 第94話.txt | 継承の祭壇 - 第94話 | todo |  |
 | 95 |  | Chapter_0095 - 継承の祭壇 - 第95話.txt | 継承の祭壇 - 第95話 | todo |  |
