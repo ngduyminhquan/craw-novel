@@ -100,7 +100,7 @@ Cậu dùng Dao Mithril lột phần da có thể bán làm nguyên liệu ra kh
 
 "...Rei, ta hỏi cậu một câu được không?"
 
-Elena, người nãy giờ vẫn quan sát Rei pha thịt cánh tay Ogre, bất chợt cất tiếng hỏi.
+Elena, người nãy giờ vẫn quan sát Rei xẻ thịt cánh tay Ogre, bất chợt cất tiếng hỏi.
 
 "Vâng, có chuyện gì thế?"
 

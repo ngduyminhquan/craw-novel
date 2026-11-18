@@ -102,7 +102,7 @@ Vel nói vậy, nhưng bản thân cái bẫy hố sập này được ngụy tr
 
 Trong tâm trí Rei hiện lên ma thuật từng dùng để thoát khỏi không gian vòng lặp vô tận. [Bạc Diễm] đúng là ma thuật chuyên dùng để dò đường, và khi cả hai đứa cùng dấn thân vào hầm ngục thì đây hẳn là ma thuật không thể thiếu.
 
-Có điều ngay cả với [Bạc Diễm], phạm vi dò tìm cũng chỉ giới hạn ở sàn nhà, vách tường và trần nhà, nên không thể phát hiện ra những cạm bẫy bố trí ở nơi khác—chẳng hạn như bộ kích hoạt lơ lửng giữa không trung.
+Có điều ngay cả với [Bạc Diễm], phạm vi dò tìm cũng chỉ giới hạn ở sàn nhà, vách tường và trần nhà, nên không thể phát hiện ra những cạm bẫy bố trí ở nơi khác, chẳng hạn như bộ kích hoạt lơ lửng giữa không trung.
 
 "Cứ để mở toang cái hố sập này thế này thì người đến sau cũng sẽ dễ dàng nhận ra thôi. ...Trừ phi bị quái vật sửa lại."
 

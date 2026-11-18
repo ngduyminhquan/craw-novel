@@ -70,7 +70,7 @@ Nhìn cảnh đó, Elena bất giác nở nụ cười mỉm rồi gật đầu.
 
 "...Hừ."
 
-Trước lời của Vel, Kuust khịt mũi vẻ không hài lòng, song nếu hỏi anh ta có giải pháp nào tốt hơn không thì hẳn là không có rồi.
+Trước lời của Vel, Kuust khịt mũi vẻ không hài lòng, nhưng nếu hỏi anh ta có giải pháp nào tốt hơn không thì hẳn là không có rồi.
 
 "Ừ. Linh cảm của Rei đã giúp chúng ta biết bao lần để tới được đây rồi. Cứ nhờ cậy cậu ấy đến cùng đi."
 
@@ -112,7 +112,7 @@ Nghe Vel nói, Kuust bất giác thốt lên kinh ngạc, ngay cả Rei cũng đ
 
 Sư Tử Bạc. Đúng như lời Vel vừa nói, đây là quái vật Hạng S và số lần được nhìn thấy là cực kỳ hiếm hoi. Nguyên nhân là do bản tính hung tợn của nó, hễ ai chạm trán thì hầu hết đều bỏ mạng. Bộ lông màu bạc vốn là nguồn gốc tên gọi của nó được cho là có khả năng vô hiệu hóa gần như mọi ma pháp tấn công, và các loại vũ khí sắc bén cũng gần như chẳng có tác dụng gì. Muốn gây sát thương thì thay vì dùng lưỡi đao kiếm, người ta phải truyền chấn động cực mạnh trực tiếp vào bên trong cơ thể nó, bởi vậy nếu chạm trán nó mà không trang bị vũ khí như búa hay rìu thì chỉ còn nước liều mạng cắm đầu cắm cổ mà chạy trốn. Thêm vào đó, tiếng gầm được gọi là Tiếng Gầm Sư Tử của nó mang theo một dạng sóng xung kích, nếu nghe trực diện thì màng nhĩ sẽ bị xé toạc và mất đi cảm giác thăng bằng, là một kỹ năng cực kỳ phiền phức. Thay vì coi là một quái vật bình thường, gọi nó là một thực thể trong truyền thuyết thì đúng hơn.
 
-"Thế đối phương có phát hiện ra cậu không?"
+"Thế nó chưa phát hiện ra cậu chứ?"
 
 Đến cả Elena cũng phải lộ vẻ nghiêm nghị mà gặng hỏi, còn Vel vừa quệt mồ hôi đang túa ra như tắm trên trán vừa gật đầu.
 

@@ -152,7 +152,7 @@ Rei vừa lắng nghe cuộc đối thoại giữa Elena và giọng nói vô h�
 
 Kuust đang nheo mắt lùng sục ráo riết xem kẻ sở hữu giọng nói đang ẩn nấp ở đâu, còn Ara chỉ biết lặng lẽ chờ cuộc trò chuyện của Elena ngã ngũ. Về phần Vel, sau khi liếc nhìn Set đang co ro sợ hãi, dường như anh cũng lờ mờ đoán được thực lực kinh người của kẻ kia, nên cũng giống như Ara, chỉ hướng mắt về phía Elena chờ mong cuộc đối thoại kết thúc trong êm đẹp.
 
-[Hừm, nếu quả thực như vậy thì ta cũng chẳng thấy có lý do gì phải cất công đối địch với các ngươi. Có điều, dẫu chính miệng ta nói ra, nhưng liệu ngươi có tin vào lời của một kẻ còn chẳng thèm lộ mặt mà chỉ truyền âm thẳng vào đầu các ngươi thế này không đấy?]
+[Hừm, nếu quả thực như vậy thì ta cũng chẳng thấy có lý do gì phải cất công đối địch với các ngươi. Có điều, dù chính miệng ta nói ra, nhưng liệu ngươi có tin vào lời của một kẻ còn chẳng thèm lộ mặt mà chỉ truyền âm thẳng vào đầu các ngươi thế này không đấy?]
 
 "Chỉ qua cuộc đối thoại vừa rồi, tôi đã hiểu ngài là một tồn tại có ý thức và bản ngã rõ ràng. Về mặt ý chí, theo những gì ngài giãi bày thì tôi cũng không cảm nhận được bất kỳ ác ý nào nhắm vào chúng tôi cả."
 

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T03:02:34Z",
+  "generatedAt": "2026-11-18T03:14:01Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2704,49 +2704,49 @@
           "number": 92,
           "title": "Chương 92: Tế đàn kế thừa (92)",
           "path": "translations/legend-1/vi/Chapter_092.md",
-          "sha": "7bf6f5483b38985ddbcffc7159de74e1bd142756"
+          "sha": "afe6cf0bd04809358787c986bb15b32c6cd56f12"
         },
         {
           "number": 93,
           "title": "Chương 93: Tế đàn kế thừa (93)",
           "path": "translations/legend-1/vi/Chapter_093.md",
-          "sha": "eca82ecbc1cf4d71a586f2153aacfad7e4f04ff7"
+          "sha": "df8e98bb803c648723cb07f979cc1a53395c14ce"
         },
         {
           "number": 94,
           "title": "Chương 94: Tế đàn kế thừa (94)",
           "path": "translations/legend-1/vi/Chapter_094.md",
-          "sha": "7a9cad4efd304d4db94c098dd3205463a64e071c"
+          "sha": "2bc2059512f57098b24785a84d48ebc68965e02c"
         },
         {
           "number": 95,
           "title": "Chương 95: Tế đàn kế thừa (95)",
           "path": "translations/legend-1/vi/Chapter_095.md",
-          "sha": "4d772684ee54d507df71acbad1f04cf2c0b1cd75"
+          "sha": "9bce8e38818e699b2f1ff965c50d74fac0f11193"
         },
         {
           "number": 96,
           "title": "Chương 96: Tế đàn kế thừa (96)",
           "path": "translations/legend-1/vi/Chapter_096.md",
-          "sha": "671b800044781cfafb700a35b497d19df675bde0"
+          "sha": "32598a509a3a8ee7403865959ec4970ae68ab9ed"
         },
         {
           "number": 97,
           "title": "Chương 97: Tế đàn kế thừa (97)",
           "path": "translations/legend-1/vi/Chapter_097.md",
-          "sha": "898f12a043b444219c01fc28d72581c52cc72dee"
+          "sha": "7476dc45403e62ae9baf1e42d50b6684dad4fb3b"
         },
         {
           "number": 98,
           "title": "Chương 98: Tế đàn kế thừa (98)",
           "path": "translations/legend-1/vi/Chapter_098.md",
-          "sha": "66e66c91f833fba431e24e587757adec8c37ea68"
+          "sha": "2729bc4b1495fbe562fea3eb41848e0d7ebf5732"
         },
         {
           "number": 99,
           "title": "Chương 99: Tế đàn kế thừa (99)",
           "path": "translations/legend-1/vi/Chapter_099.md",
-          "sha": "5f35de0c04c7910119e1b7fb498666499bfa1ef4"
+          "sha": "8e565e65a3d1f1612013d41860a39859879c3ca4"
         }
       ]
     },

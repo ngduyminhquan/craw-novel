@@ -116,7 +116,7 @@ Chủ nhân giọng nói tuy lẩm bẩm như đang tự hạ thấp mình, như
 
 [Hừm, chắc hẳn ngươi đã đoán ra rồi chứ?]
 
-Rei gật đầu trước câu hỏi của đối phương. Bởi trước đó, cậu từng cùng nhóm Elena và Vel bàn luận về khả năng sinh vật ấy đang ẩn náu trong mê cung này.
+Rei gật đầu trước câu hỏi của đối phương. Bởi trước đó, cậu từng cùng nhóm Elena và Vel bàn luận về khả năng sinh vật ấy đang ẩn náu trong hầm ngục này.
 
 "Lich."
 

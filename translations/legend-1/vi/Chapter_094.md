@@ -130,7 +130,7 @@ Thế nhưng, ngọn ma thương phóng ra hòng chớp lấy sơ hở thoáng q
 
 Tiếng hét của Kuust vang lên khắp xung quanh, ai nấy đều thủ sẵn vũ khí trên tay và cảnh giác đề phòng kẻ địch.
 
-Rồi dưới ánh sáng mờ ảo phản chiếu từ vách tường mê cung, một con sói khổng lồ dần lộ diện. Tính từ chân lên tới đỉnh đầu, chiều cao của nó ngang tầm ngực Rei, với hai chiếc nanh dài nhọn hoắt màu lục thẫm chìa ra từ hàm trên như loài hổ răng kiếm đã tuyệt chủng trên Trái Đất. Không những thế, từ lưng nó còn mọc ra hai xúc tu chia đều sang hai bên trái phải, đang uốn éo xé gió vun vút giữa không trung. Đòn tấn công nhắm vào Ara vừa rồi ắt hẳn là từ chiếc xúc tu đó.
+Rồi dưới ánh sáng mờ ảo phản chiếu từ vách tường hầm ngục, một con sói khổng lồ dần lộ diện. Tính từ chân lên tới đỉnh đầu, chiều cao của nó ngang tầm ngực Rei, với hai chiếc nanh dài nhọn hoắt màu lục thẫm chìa ra từ hàm trên như loài hổ răng kiếm đã tuyệt chủng trên Trái Đất. Không những thế, từ lưng nó còn mọc ra hai xúc tu chia đều sang hai bên trái phải, đang uốn éo xé gió vun vút giữa không trung. Đòn tấn công nhắm vào Ara vừa rồi ắt hẳn là từ chiếc xúc tu đó.
 
 Có tổng cộng năm con sói khổng lồ như thế đúng như lời Vel nói; chúng đưa đôi mắt màu lục thẫm cùng màu với cặp nanh quan sát nhóm Rei, dường như đang chực chờ sơ hở để ra tay.
 

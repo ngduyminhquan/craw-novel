@@ -8,7 +8,7 @@ Phiên cảnh giới cũng đã lần lượt đổi từ Rei sang Ara, rồi t�
 
 "Vất vả rồi. Vel gỡ bẫy mất nhiều thời gian như vậy, nghỉ ngơi một chút đi. Cứ thế này mà tiến tiếp rồi đụng độ kẻ địch thì phiền phức lắm."
 
-"Quả không hổ danh nữ hoàng của chúng ta. Thu phục lòng cấp dưới điệu nghệ thật đấy."
+"Quả không hổ danh nữ vương nhà mình. Thu phục lòng cấp dưới điệu nghệ thật đấy."
 
 Hẳn là anh đã phải tập trung cao độ vào việc gỡ bẫy. Vel vừa uể oải lẩm bẩm vừa tựa lưng vào bức tường hầm ngục đang tỏa ánh sáng mờ ảo.
 
@@ -214,7 +214,7 @@ Mất đi bàn tay, Spriggan vung cánh tay trái đang túa máu từ cổ tay 
 
 Theo hiệu lệnh đó, Ara, người đã áp sát dưới chân Spriggan từ lúc nào không hay, vung cao cây Rìu Cường Lực trên tay... rồi giáng mạnh xuống chân trái của Spriggan!
 
-Sức mạnh phi thường vốn có của Ara kết hợp cùng hiệu ứng của Đạo Cụ Ma Thuật Rìu Cường Lực. Đòn đánh phát huy trọn vẹn cả hai yếu tố đó giáng thẳng vào chân trái Spriggan — chính xác là mắt cá chân — và phạt đứt được tới một nửa.
+Sức mạnh phi thường vốn có của Ara kết hợp cùng hiệu ứng của Đạo Cụ Ma Thuật Rìu Cường Lực. Đòn đánh phát huy trọn vẹn cả hai yếu tố đó giáng thẳng vào chân trái Spriggan, chính xác là mắt cá chân, và phạt đứt được tới một nửa.
 
 "Gaaaaahhh!"
 
