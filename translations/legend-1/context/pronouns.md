@@ -230,3 +230,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Elena | tôi | Elena / cô / tiểu thư Elena | 99 | Sau khi được phép bỏ kính ngữ ở chương 97, nói chuyện tự nhiên bình đẳng |
 | Vel | Elena | tôi / ta | Elena / cô / cô ta | 99 | Khi Vel lộ mặt là kẻ phản bội, bỏ kính ngữ với Elena |
 | Vel | Rei | tôi | cậu / Rei | 100 | Khi Vel lộ mặt là kẻ phản bội, nói chuyện cợt nhả, biến thái |
+| Elena | Linde | ta | cậu / Linde | 106 | Tiểu thư Công tước nói với thiếu niên tạp vụ quán trọ |
+| Linde | Elena | tôi / em | tiểu thư Elena / tiểu thư | 106 | Thiếu niên tạp vụ nói với tiểu thư Công tước |

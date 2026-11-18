@@ -56,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 105: Thẻ Hội Hạng D; đã đánh đuổi kẻ phản bội Vel tại Tế đàn kế thừa, cất thi thể Kuust vào Nhẫn Sương Mù, thi triển [Hạt Giống Trừng Phạt] lên Elena và Ara, rồi nhờ Grimm dịch chuyển cả nhóm lên tầng ngầm thứ nhất để rời hầm ngục.
+- Trạng thái tính đến chương 106: Thẻ Hội Hạng D; đã đưa nhóm Elena rời hầm ngục an toàn về quán trọ, nhượng lại Rìu Cường Lực cho Elena lấy 2 đồng bạch kim (tặng cho Ara), và kinh ngạc khi Elena biết cơ thể cậu là sinh mệnh nhân tạo.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -207,9 +207,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
-- Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4 và được Rei cho mượn Rìu Cường Lực (Đạo Cụ Ma Thuật) sử dụng bằng một tay.
+- Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4; được Elena mua lại Rìu Cường Lực (Đạo Cụ Ma Thuật) từ Rei tặng cho làm vũ khí chính.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
-- Trạng thái tính đến chương 105: Đã tiếp nhận [Hạt Giống Trừng Phạt] bảo mật thông tin của Rei và Set; cùng Elena và Rei dịch chuyển lên tầng ngầm thứ nhất và tiến về lối ra hầm ngục.
+- Trạng thái tính đến chương 106: Cùng nhóm an toàn rời hầm ngục về quán trọ; kiệt sức ngủ thiếp đi và được Elena mua lại Rìu Cường Lực từ Rei tặng làm vũ khí sở hữu chính thức.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
@@ -219,7 +219,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 105: Đã tiếp nhận [Hạt Giống Trừng Phạt] bảo mật thông tin của Rei và Set; được Grimm hỗ trợ mở cổng dịch chuyển lên tầng ngầm thứ nhất và cùng nhóm tiến về lối ra hầm ngục.
+- Trạng thái tính đến chương 106: Đã cùng nhóm an toàn rời hầm ngục về quán trọ; gửi thư hỏa tốc báo cáo Công tước Kerebel về kẻ phản bội Vel và nhà Sails; chi 2 đồng bạch kim mua lại Rìu Cường Lực từ Rei tặng Ara; kinh ngạc nhận thấy bàn tay Rei giống hệt người thường dù là sinh mệnh nhân tạo.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.

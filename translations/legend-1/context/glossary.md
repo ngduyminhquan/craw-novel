@@ -233,3 +233,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 竜言語魔法 |  | Long Ngôn Ma Pháp | kỹ năng | 104 | Loại ma pháp cổ sử dụng ngôn ngữ loài rồng |
 | アラクネ |  | Arachne | quái vật | 105 | Quái vật nửa người nửa nhện |
 | セイルズ |  | Sails | tổ chức | 105 | Gia tộc Tử tước Sails thuộc Phe Quý Tộc của Vương quốc Mireana |
+| 人工生命体 |  | sinh mệnh nhân tạo | khác | 106 | thể sống/sinh mệnh được tạo ra nhân tạo (như Golem, cơ thể Rei hay Ma Thú Thuật) |
+| 金貨 |  | đồng vàng | vật phẩm | 106 | Đồng tiền vàng trong hệ thống tiền tệ của Elgin, bằng 10 đồng bạc |
