@@ -52,6 +52,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Worker | Worker / anh ta | 73 | Đại diện chi nhánh Hội |
 | Zack | người đàn ông / Zack | 77 | Đạo tặc trong tổ đội Hạng C gặp ở tầng 3 hầm ngục |
 | Grimm | lão / Grimm | 93 | Lich Lord cổ đại sống từ thời Zepairu |
+| Vel | anh / hắn / Vel | 99 | Lộ mặt là kẻ phản bội |
 
 ## Giữa các nhân vật
 
@@ -225,3 +226,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elena | Grimm | tôi | ngài | 92 | Sau khi nhận ra thực lực áp đảo của chủ nhân giọng nói bí ẩn; lúc đầu chưa rõ thực lực ở đoạn 47 thì xưng 'ta', gọi 'ngươi' |
 | Grimm | Elena | ta | ngươi / cô bé | 92 | Lich Lord cổ đại nói chuyện với Elena |
 | Rei | Elena | tôi | tiểu thư Elena / cô | 97 | Từ chương 97, Elena cho phép Rei không dùng kính ngữ trừ dịp chính thức, nói chuyện tự nhiên |
+| Rei | Vel | ta / tôi | ngươi / anh / Vel | 99 | Khi Vel lộ mặt là kẻ phản bội |

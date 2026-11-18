@@ -222,3 +222,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 銀獅子 |  | Sư Tử Bạc | quái vật | 98 | Quái vật trùm Hạng S canh giữ lõi hầm ngục tại tầng đáy cùng |
 | 獅子の咆吼 |  | Tiếng Gầm Sư Tử | kỹ năng | 98 | Kỹ năng sóng xung kích phát ra từ tiếng gầm của Sư Tử Bạc |
 | 継承の儀式 |  | Nghi thức kế thừa | khác | 98 | Nghi thức tiến hành tại Tế đàn kế thừa để con người hấp thụ Ma Thạch quái vật thành sức mạnh của bản thân |
+| エンシェントドラゴン |  | Ancient Dragon | quái vật | 99 | Rồng cổ đại sống hàng nghìn năm, quái vật truyền thuyết sánh ngang hoặc vượt trên Lich Lord |
