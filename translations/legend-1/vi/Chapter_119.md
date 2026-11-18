@@ -12,9 +12,9 @@ Hài lòng với số tiền đó, Rei cất túi đựng đồng vàng và đ�
 
 "À, nhờ cô cả đấy."
 
-Tuy chưa tới mức ăn ý như hình với bóng, nhưng thấy hai người cứ trò chuyện tự nhiên như đã quen thân từ lâu, Kenny đang tiếp một mạo hiểm giả khác bên cạnh liền kín đáo liếc sang với ánh mắt ghen tuông nhè nhẹ.
+Tuy chưa tới mức tâm đầu ý hợp chỉ nhìn đã hiểu, nhưng thấy hai người cứ trò chuyện tự nhiên như đã quen thân từ lâu, Kenny đang tiếp một mạo hiểm giả khác bên cạnh liền kín đáo liếc sang với ánh mắt ghen tuông nhè nhẹ.
 
-Trước ánh mắt đó của Kenny, Lenora khẽ mỉm cười như muốn bảo thỉnh thoảng cho cậu nếm chút mùi này cũng tốt, rồi lấy ra vài tờ giấy tờ từ bên trong quầy tiếp tân.
+Trước ánh mắt đó của Kenny, Lenora khẽ mỉm cười như muốn bảo thỉnh thoảng cho cô bạn nếm chút mùi này cũng tốt, rồi lấy ra vài mẫu giấy tờ từ bên trong quầy tiếp tân.
 
 "Đây ạ, cậu điền nội dung ủy thác vào đây giúp tôi nhé. Về cơ bản, phí môi giới của Hội được quy định theo từng Hạng của ủy thác, điểm này mong cậu thông cảm. Còn về Hạng ủy thác thì phía Hội sẽ dựa vào nội dung để đánh giá và quyết định."
 
@@ -86,7 +86,7 @@ Lenora khẽ cúi chào rồi rời đi. Nhìn theo bóng bạn, Kenny nhân lú
 
 "À, thứ lỗi cho tôi nhé, tôi còn phải lo vụ tờ đơn ủy thác vừa nộp nữa. Xong xuôi đâu đấy thì tôi lại muốn nhận ủy thác mới rồi."
 
-"Gì kì vậy, cậu khéo trêu người ta ghê cơ... Thế lúc nào rảnh thì nhớ đi mua sắm với tôi đấy nhé."
+"Gì kì vậy, cậu khéo trêu người ta ghê cơ... Thế lúc nào rảnh thì nhớ đi mua sắm với chị đấy nhé."
 
 Kenny vừa nháy mắt vừa quay về chỗ ngồi ở quầy tiếp tân. Ngay sau đó, vài mạo hiểm giả vừa bước vào Hội liền tiến về phía cô. Rei lơ đãng dõi mắt nhìn theo, chợt nhận ra một gương mặt quen thuộc trong số họ. Phía bên kia dường như cũng nhận ra Rei gần như cùng lúc, vẻ mặt lộ rõ nét ngạc nhiên rồi quay sang dặn dò đồng đội vài câu, sau đó tách nhóm tiến thẳng về phía cậu.
 
@@ -124,7 +124,7 @@ Nghe tới số lượng quái vật nhiều đến mức làm không xuể, Run
 
 "Ở hầm ngục đấy. Cái chỗ mà ông bảo đã đi cùng đám Nước Dãi Goblin ấy."
 
-"...Thật hả? Cậu đi solo mà đúng không? Không lẽ dù có Griffin đi cùng thì hai đứa cậu cũng dám mò xuống hầm ngục thật à?"
+"...Thật hả? Cậu đi một mình mà đúng không? Không lẽ dù có Griffin đi cùng thì hai đứa cậu cũng dám mò xuống hầm ngục thật à?"
 
 "Không, tôi nhận một ủy thác chỉ định làm hộ vệ thôi. Rồi người tôi hộ vệ bảo toàn bộ quái vật hạ được cứ để tôi tùy ý xử lý."
 
@@ -170,4 +170,4 @@ Thấy Lenora áy náy cúi đầu xin lỗi, Rei khẽ thở dài rồi mở l�
 
 Chắc không muốn bầu không khí chùng xuống nên Runo mới nói đùa một câu như thế, và hiểu được ý ông, Lenora cũng mỉm cười trở lại, rồi cả ba người tiếp tục trò chuyện thêm một lúc.
 
-Ngoài ra thì lúc đó, việc Kenny nhìn Lenora với ánh mắt ghen tị theo một nghĩa nào đó cũng có thể coi là chuyện quá đỗi bình thường rồi.
+Mà lúc đó Kenny vẫn nhìn Lenora với ánh mắt đầy ghen tị, có điều xét theo một nghĩa nào đấy thì cảnh này cũng quá đỗi bình thường rồi.

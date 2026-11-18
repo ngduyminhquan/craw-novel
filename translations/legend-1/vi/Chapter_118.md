@@ -24,7 +24,7 @@ Trước câu đoán trúng phóc của Kenny, Rei thở dài gật đầu.
 
 "Này Kenny! Cậu nghĩ cái gì thế hả? Tiếp tân không còn ai trông quầy thì ra thể thống gì nữa!"
 
-Tiếng nói cất lên từ phía trong quầy lễ tân. Đó chính là giọng nói quen thuộc của Lenora.
+Tiếng nói cất lên từ phía trong quầy tiếp tân. Đó chính là giọng nói quen thuộc của Lenora.
 
 Xem ra hôm nay không phải ngày nghỉ của cô, chỉ đơn giản là cô vừa lui vào phòng trong một lát.
 
@@ -52,7 +52,7 @@ Phòng họp dường như không có ai dùng nên trống trơn. Trong lúc đ
 
 "Cô quen tay ghê nhỉ."
 
-Nghe cậu buột miệng nhận xét, Lenora vừa dịch chuyển bàn vừa giải thích.
+Nghe cậu buột miệng nhận xét, Lenora vừa kê bàn vừa giải thích.
 
 "Vâng. Cậu nhìn quầy tiếp tân là thấy, chỗ đó đâu có lớn lắm. Cho nên những tổ đội đông người, hoặc trường hợp nhiều tổ đội bắt tay nhau cùng làm ủy thác thì đều phải lên phòng họp này để kiểm tra nguyên liệu. Những lúc ấy họ chất đầy xe kéo hay xe ngựa chở nguyên liệu tới Hội, rồi lại phải khênh vác lên tận tầng hai này, phiền phức vô cùng. ...Đúng ra ở tầng một nên xây hẳn một khu chuyên dụng rộng rãi hơn, nhưng nghe đâu bên trên cũng vướng nhiều chuyện, đề xuất đưa lên là bị bác bỏ miết. ...Xong rồi đấy ạ. Chỗ đã chuẩn bị xong, cậu mang đồ ra đi."
 

@@ -8,9 +8,9 @@ Sau khi hoàn thành ủy thác hộ tống Elena, cậu dành ra một ngày đ
 
 Các ủy thác thảo phạt vốn là mục tiêu chính của Rei gần như chẳng còn lại gì, bởi các mạo hiểm giả khác đã nhanh chân giành hết theo kiểu ai đến trước nhận trước.
 
-Mấy ủy thác thảo phạt còn sót lại thì toàn Hạng A với Hạng B, hoặc họa hoằn lắm cũng chỉ là mấy loại ủy thác thường trực như săn Goblin.
+Mấy ủy thác thảo phạt còn sót lại thì toàn Hạng A với Hạng B, không thì cũng chỉ còn mấy loại ủy thác thường trực như săn Goblin.
 
-Nếu lập tổ đội thì Rei đã có thể nhận ủy thác Hạng B, nhưng hiềm một nỗi cậu là mạo hiểm giả độc hành, nên ủy thác nhận được chỉ cao hơn tối đa một bậc, tức là tới Hạng C.
+Nếu lập tổ đội thì Rei đã có thể nhận ủy thác Hạng B, nhưng ngặt nỗi cậu là mạo hiểm giả độc hành, nên ủy thác nhận được chỉ cao hơn tối đa một bậc, tức là tới Hạng C.
 
 (Đúng là vẫn muốn mau mau thăng hạng thật đấy.)
 
@@ -52,7 +52,7 @@ Cách xưng hô khó tin là thốt ra từ miệng phụ nữ khiến Rei ngớ
 
 "Hử? À. Tôi lập tổ đội với một người nữa ấy mà. Nhìn kìa, chính là lão bợm nhậu đằng kia."
 
-Vừa nói, người phụ nữ vừa chỉ về phía người đàn ông cao chừng 1m40 đang ngồi nốc rượu ở quán rượu cạnh Hội, dù trời vẫn còn sáng sớm. Cơ mà bảo gã thấp bé không có nghĩa là trông yếu ớt. Thậm chí nếu đứng cạnh nhau, người cao 1m65 như Rei khéo trông còn mỏng manh hơn. Bởi lẽ cơ thể gã cuồn cuộn những múi cơ dày đặc thấy rõ bằng mắt thường, còn thứ dựng cạnh bàn là một cây búa khổng lồ với cán dài gần 1 mét. Đầu búa làm bằng thứ kim loại đen tuyền như hút trọn ánh sáng, khiến kẻ không cảm nhận được ma lực như Rei cũng đoán ra đó hẳn là một loại ma pháp kim loại. Và nổi bật nhất chính là bộ râu cằm. Dáng người thấp đậm chắc nịch, chòm râu cằm dài tới tận ngực, mê rượu, vũ khí là búa lớn. Hội tụ đủ bốn điểm đó, ngay cả Rei cũng lập tức nhận ra thân phận người cộng sự mà cô vừa nhắc tới.
+Vừa nói, người phụ nữ vừa chỉ về phía người đàn ông cao chừng 1m40 đang ngồi nốc rượu ở quán rượu cạnh Hội, dù trời vẫn còn sáng sớm. Cơ mà bảo ông thấp bé không có nghĩa là trông yếu ớt. Thậm chí nếu đứng cạnh nhau, người cao 1m65 như Rei khéo trông còn mỏng manh hơn. Bởi lẽ cơ thể ông cuồn cuộn những múi cơ dày đặc thấy rõ bằng mắt thường, còn thứ dựng cạnh bàn là một cây búa khổng lồ với cán dài gần 1 mét. Đầu búa làm bằng thứ kim loại đen tuyền như hút trọn ánh sáng, khiến kẻ không cảm nhận được ma lực như Rei cũng đoán ra đó hẳn là một loại kim loại ma pháp. Và nổi bật nhất chính là bộ râu cằm. Dáng người thấp đậm chắc nịch, chòm râu cằm dài tới tận ngực, mê rượu, vũ khí là búa lớn. Hội tụ đủ bốn điểm đó, ngay cả Rei cũng lập tức nhận ra thân phận người cộng sự mà cô vừa nhắc tới.
 
 "Dwarf."
 
@@ -100,7 +100,7 @@ Nghe Freon giải thích, cậu lại đưa mắt nhìn tờ đơn ủy thác ba
 
 "Có gì đâu, lời khuyên này cũng đầy toan tính cả đấy chứ. Nhỡ đâu Rei đúng là mạo hiểm giả cừ khôi như lời đồn thì sau này lúc nhận ủy thác khó tôi còn nhờ cậu giúp một tay được. ...À, nếu được thì tôi muốn giới thiệu Rei với lão bợm nhậu đằng kia một tiếng, cậu thấy sao?"
 
-Freon liếc nhìn sang gã Dwarf Brazos đang hào sảng nốc rượu.
+Freon liếc nhìn sang chiến sĩ Dwarf Brazos đang hào sảng nốc rượu.
 
 (Mình chẳng mấy hứng thú với rượu bia... nhưng đằng nào hôm nay cũng chẳng có ủy thác nào ưng ý. Với lại cũng tò mò xem Dwarf ngoài đời ra sao.)
 
@@ -124,7 +124,7 @@ Rei bất giác thấy lời giải thích của Freon cũng chí lý. Chẳng q
 
 Vừa rảo bước về phía quán rượu, Freon vừa ghé tai Rei thì thào dặn dò, và cậu gật đầu đồng ý.
 
-Đáng nói là chứng kiến cảnh đó, cô nàng tiếp tân miêu á nhân của Hội bỗng tỏa sát khí ngùn ngụt, nhưng ngay lập tức đã bị cô bạn tiếp tân tóc đuôi ngựa đứng cạnh trấn áp.
+Có điều khi chứng kiến cảnh đó, cô nàng tiếp tân á nhân mèo của Hội bỗng tỏa sát khí ngùn ngụt, nhưng ngay lập tức đã bị cô bạn tiếp tân tóc đuôi ngựa đứng cạnh trấn áp.
 
 "Này, Brazos. Ông uống rượu từ sáng sớm thế vừa vừa phải phải thôi chứ. Sắp sửa đi làm ủy thác tới nơi rồi mà..."
 
@@ -156,7 +156,7 @@ Thấy hai người bỏ mặc mình sang một bên rồi quay sang cãi vã, R
 
 Nghe Freon nói, Brazos đưa ánh mắt đầy vẻ tò mò sang Rei.
 
-Ánh mắt gã nhìn Rei quả thực không hề có vẻ đục ngầu đặc trưng của kẻ say xỉn đúng như gã vừa tự nhận.
+Ánh mắt ông nhìn Rei quả thực không hề có vẻ đục ngầu đặc trưng của kẻ say xỉn đúng như ông vừa tự nhận.
 
 "Ồ, cậu nhóc thuần phục được Griffin sao. ...Đúng là cảm nhận được khí chất không phải dạng vừa đâu."
 

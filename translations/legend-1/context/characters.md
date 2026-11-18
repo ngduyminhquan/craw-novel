@@ -280,7 +280,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tự lượng sức uống rượu kém nên thường tỉnh táo khi nhậu với Brazos; hay cằn nhằn tật nghiện rượu của Brazos.
 
 ### Brazos
-- Chiến sĩ Dwarf cao chừng 1m40, cơ bắp cuồn cuộn, râu cằm dài chạm ngực, sử dụng búa chiến khổng lồ cán dài gần 1m bằng ma pháp kim loại đen tuyền.
+- Chiến sĩ Dwarf cao chừng 1m40, cơ bắp cuồn cuộn, râu cằm dài chạm ngực, sử dụng búa chiến khổng lồ cán dài gần 1m bằng kim loại ma pháp đen tuyền.
 - Thành viên tổ đội Hạng C Chiến Binh Đập Tan cùng Freon; cực kỳ mê rượu, coi rượu như nước lã nhưng tửu lượng cực khủng, không bao giờ say. Từng định theo nghề thợ rèn nhưng không hợp.
 
 ### Bolton

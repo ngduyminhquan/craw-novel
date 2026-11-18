@@ -58,7 +58,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Schele | người đàn ông cầm thương / Schele | 114 | Mạo hiểm giả dùng thương mới đến Gilm |
 | Epoca | người đàn ông lớn tuổi / ông | 118 | Nhân viên lớn tuổi của Hội Mạo Hiểm Giả Gilm |
 | Freon | cô / nữ chiến sĩ | 120 | Nữ chiến sĩ Hạng C |
-| Brazos | ông / gã Dwarf | 120 | Chiến sĩ người lùn Hạng C |
+| Brazos | ông / chiến sĩ Dwarf | 120 | Chiến sĩ người lùn Hạng C |
 | Bolton | gã / Bolton | 120 | Chủ quản Thương Hội Azoth |
 
 ## Giữa các nhân vật
