@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T09:01:09Z",
+  "generatedAt": "2026-11-18T09:10:19Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2806,55 +2806,55 @@
           "number": 109,
           "title": "Chương 109: Tế đàn kế thừa (109)",
           "path": "translations/legend-1/vi/Chapter_109.md",
-          "sha": "fd7c1babd3c0402e49289678dfcb26babc5dc629"
+          "sha": "d73db5ee0a7392a120a527a43b027469bc48518b"
         },
         {
           "number": 110,
           "title": "Chương 110: Thương Hội Azoth (110)",
           "path": "translations/legend-1/vi/Chapter_110.md",
-          "sha": "392cc91e512e52d06eb68a89f5b5862a24253e73"
+          "sha": "5af2d5348364b1d8e33f78dd5d2562b01d6a2752"
         },
         {
           "number": 111,
           "title": "Chương 111: Thương Hội Azoth (111)",
           "path": "translations/legend-1/vi/Chapter_111.md",
-          "sha": "a7625824ee09dbee8a9bb09411d4517f785057c1"
+          "sha": "90671707436db85536e25396d8dbf3b5648cf8c3"
         },
         {
           "number": 112,
           "title": "Chương 112: Thương Hội Azoth (112)",
           "path": "translations/legend-1/vi/Chapter_112.md",
-          "sha": "779a8ba9d869e872695777220288b0cfe1b845d9"
+          "sha": "216d9e761d85df14d0e7f0c7fe16b4a1579c6556"
         },
         {
           "number": 113,
           "title": "Chương 113: Thương Hội Azoth (113)",
           "path": "translations/legend-1/vi/Chapter_113.md",
-          "sha": "f36f3445db32d526fac39c0a847a7ba78746f111"
+          "sha": "61076217515641a0d5b23364f32e5dbbb5bf9f07"
         },
         {
           "number": 114,
           "title": "Chương 114: Thương Hội Azoth (114)",
           "path": "translations/legend-1/vi/Chapter_114.md",
-          "sha": "787aa5bde6c30813becce28c0ff9d93f29e6abfb"
+          "sha": "b04125ebccdd5e22b30fdeca5114ff0819f8e2b3"
         },
         {
           "number": 115,
           "title": "Chương 115: Thương Hội Azoth (115)",
           "path": "translations/legend-1/vi/Chapter_115.md",
-          "sha": "0ed6da948c1cd1ce553c9c3e534d55a2008eeb3e"
+          "sha": "331c18e57aeada7244ceb8c7c2f2db653a5acfb5"
         },
         {
           "number": 116,
           "title": "Chương 116: Thương Hội Azoth (116)",
           "path": "translations/legend-1/vi/Chapter_116.md",
-          "sha": "ca0a86cbfc47a57a36fc8b12695ffc7660e1d580"
+          "sha": "d14a53ba37c5ce58a55e8b70260c6dc5556e9c27"
         },
         {
           "number": 117,
           "title": "Chương 117: Thương Hội Azoth (117)",
           "path": "translations/legend-1/vi/Chapter_117.md",
-          "sha": "be29f28a20ec62d4e41e11d740f1bb1948f074b1"
+          "sha": "f68db36ca2abe72298f2cd524b1f673a23c42b5e"
         }
       ]
     },

@@ -132,7 +132,7 @@ Giọng thông báo vang lên trong tâm trí cậu.
 
 "Gừưư!"
 
-Set gật đầu trước lời của Rei rồi cất tiếng kêu vang. Đoạn, vào khoảnh khắc tiếp theo...
+Set gật đầu trước lời của Rei rồi cất tiếng kêu vang. Rồi vào khoảnh khắc tiếp theo...
 
 "...Cái gì cơ?"
 
@@ -214,7 +214,7 @@ Cậu mỉm cười xoa đầu Set khi nó đang nghiêng đầu như muốn h�
 
 "Đợi Lưỡi Hái Tử Thần hấp thụ Ma Thạch xong xuôi rồi thử nghiệm chút xem sao. Biết đâu cơn lốc xoáy này lại là một kỹ năng ngon lành đấy chứ."
 
-Nói với Set xong, cậu lại lôi thêm một con Emerald Wolf nữa ra khỏi Nhẫn Sương Mù rồi nhanh chóng xử lý như vừa nãy. Đoạn, cậu tung viên Ma Thạch lên rồi vung Lưỡi Hái Tử Thần chém lìa, và rồi...
+Nói với Set xong, cậu lại lôi thêm một con Emerald Wolf nữa ra khỏi Nhẫn Sương Mù rồi nhanh chóng xử lý như vừa nãy. Sau đó, cậu tung viên Ma Thạch lên rồi vung Lưỡi Hái Tử Thần chém lìa, và rồi...
 
 [Lưỡi Hái Tử Thần đã học được kỹ năng "Bàn Tay Gió Lv.1"]
 

@@ -26,7 +26,7 @@ Cậu lẩm bẩm, nhanh chóng sửa soạn đồ đạc rồi đi xuống nhà
 
 "Tôi biết rồi. Cậu cứ tìm chỗ ngồi đợi một lát nhé."
 
-Thấy Lana bận rộn buổi sáng nên chỉ chào hỏi ngắn gọn rồi thoăn thoắt đi vào bếp, Rei theo lời bà tìm đại một chỗ ngồi đợi. Chẳng mấy chốc, Lana quay lại dọn bữa sáng ra bàn. Thực đơn chỉ là những món quen thuộc gồm bánh mì đen thuôn dài, bít tết giăm bông, salad khoai tây, súp vị chua dịu và rượu vang pha nước. Thế nhưng món nào cũng được chế biến cầu kỳ, khiến Rei càng thêm công nhận Hoàng Hôn Mạch Đình quả xứng đáng là quán trọ tương đối cao cấp.
+Thấy Lana bận rộn buổi sáng nên chỉ chào hỏi ngắn gọn rồi thoăn thoắt đi vào bếp, Rei nghe theo tìm đại một chỗ ngồi đợi. Chẳng mấy chốc, Lana quay lại dọn bữa sáng ra bàn. Thực đơn chỉ là những món quen thuộc gồm bánh mì đen thuôn dài, bít tết giăm bông, salad khoai tây, súp vị chua dịu và rượu vang pha nước. Thế nhưng món nào cũng được chế biến cầu kỳ, khiến Rei càng thêm công nhận Hoàng Hôn Mạch Đình quả xứng đáng là quán trọ tương đối cao cấp.
 
 Thong thả dùng bữa sáng mất chừng ba mươi phút, cậu đi ra chuồng ngựa để đón Set thì...
 
@@ -118,7 +118,7 @@ Thế nhưng khi tiến gần tới dinh thự lãnh chúa, hàng quán ven đư
 
 Những câu hỏi dò xét kiểu đó cũng bắt đầu xuất hiện nhiều hơn.
 
-Dù hơi phân vân chưa biết nên đáp thế nào, bản thân Rei không hề thấy khó chịu với người lính trước mặt. Trái lại, việc họ không tỏ ra nao núng trước một kẻ dắt theo con Griffin dài hơn hai mét như cậu (dù cổ nó có đeo Vòng Cổ Tùng Ma) mà vẫn làm tròn bổn phận còn khiến cậu cảm thấy an tâm. Dẫu sao Daska, Bá tước biên cảnh Rowlocks cũng là một nhân vật cộm cán, được biết đến như trụ cột của Phe Trung Lập. Hiển nhiên sẽ có những kẻ coi ông là chướng ngại mà phái thích khách tới ám hại, nên việc cảnh giác cao độ thế này chẳng bao giờ là thừa.
+Dù hơi phân vân chưa biết nên đáp thế nào, bản thân Rei không hề thấy khó chịu với người lính trước mặt. Trái lại, việc họ không tỏ ra nao núng trước một kẻ dắt theo con Griffin dài hơn hai mét như cậu (dù cổ nó có đeo Vòng Cổ Tùng Ma) mà vẫn làm tròn bổn phận còn khiến cậu cảm thấy an tâm. Dù sao thì Daska, Bá tước biên cảnh Rowlocks cũng là một nhân vật cộm cán, được biết đến như trụ cột của Phe Trung Lập. Hiển nhiên sẽ có những kẻ coi ông là chướng ngại mà phái thích khách tới ám hại, nên việc cảnh giác cao độ thế này chẳng bao giờ là thừa.
 
 "Này, cậu ta không sao đâu."
 

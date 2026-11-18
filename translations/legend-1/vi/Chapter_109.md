@@ -58,7 +58,7 @@ Họ vừa thẫn thờ nhớ lại nhan sắc tuyệt trần của Elena vừa 
 
 Lắng nghe cuộc bàn tán của cấp dưới trong lúc dõi theo cỗ xe ngựa, Ranga khẽ cười trừ.
 
-Bởi với cương vị đội trưởng đội cảnh vệ, chính Ranga đã được Bá tước biên cảnh Rowlocks dặn dò tuyệt đối không được tiết lộ ra ngoài khi thông báo về việc tiểu thư Elena Kerebel của nhà Công tước, tức Công Chúa Tướng Quân vừa được nhắc tới, sẽ ghé qua nơi này. Dù có lệnh giữ kín miệng đến đâu, nhưng với một nhân vật xuất chúng và nổi bật nhường ấy, thân phận của cô cũng chẳng mất bao lâu để lan truyền dưới dạng những lời đồn thổi.
+Bởi với cương vị đội trưởng đội cảnh vệ, chính Ranga đã được Bá tước biên cảnh Rowlocks dặn dò tuyệt đối không được tiết lộ ra ngoài khi thông báo về việc tiểu thư Elena Kerebel của nhà Công tước, tức Công Chúa Tướng Quân vừa được nhắc tới, sẽ ghé qua nơi này. Dù có lệnh giữ kín miệng đến đâu, nhưng với một nhân vật xuất chúng và nổi bật đến thế, thân phận của cô cũng chẳng mất bao lâu để lan truyền dưới dạng những lời đồn thổi.
 
 "Nào, hai người. Cỗ xe ngựa sắp tới nơi rồi, dẹp mấy chuyện phiếm đó lại đi. Nếu người ngồi trên xe đúng là quý tộc mà để họ nghe thấy mấy lời vừa rồi thì hậu quả thế nào hai cậu thừa biết rồi đấy?"
 
@@ -100,7 +100,7 @@ Phía nhóm Elena đã có giấy tờ nhận từ Bá tước biên cảnh Rowl
 
 Vào tới thành phố Gilm, mạo hiểm giả được thuê đánh xe cất tiếng hỏi vào bên trong xe.
 
-Lúc mới được thuê, anh ta còn sợ rúm ró trước một con Griffin như Set, nhưng sau nhiều ngày cùng đi đường và sinh hoạt bên cạnh nhau tại các bãi hạ trại, cảm giác e dè dường như đã tan biến, đến mức giờ đây anh ta đã có thể đưa tay xoa nhẹ người nó. Đặc biệt là việc không phải căng mắt cảnh giác lúc canh gác đêm đối với một gã mạo hiểm giả đúng là nhẹ cả người. Nghĩ một cách bình thường, có quái vật Hạng A như Set đi cùng thì lũ quái vật dám lao vào tấn công đoàn người phần lớn đều là loài có trí khôn thấp kém, thành thử chẳng mấy khi phải bận tay bận chân, đối với một kẻ được thuê làm hộ vệ kiêm phu xe như anh ta thì đúng là vớ được món hời.
+Lúc mới được thuê, anh ta còn sợ rúm ró trước một con Griffin như Set, nhưng sau nhiều ngày cùng đi đường và sinh hoạt bên cạnh nhau tại các bãi hạ trại, cảm giác e dè dường như đã tan biến, đến mức giờ đây anh ta đã có thể đưa tay xoa nhẹ người nó. Đặc biệt là việc không phải căng mắt cảnh giác lúc canh gác đêm đối với một gã mạo hiểm giả đúng là nhẹ cả người. Nghĩ một cách bình thường, có quái vật Hạng A như Set đi cùng thì lũ quái vật dám lao vào tấn công đoàn người phần lớn đều là loài có trí khôn thấp kém, thành thử chẳng mấy khi phải bận tay bận chân, đối với một người được thuê làm hộ vệ kiêm đánh xe như anh ta thì đúng là vớ được món hời.
 
 Trước tiếng gọi của người đánh xe, cánh cửa xe ngựa mở ra và Rei thò đầu ra ngoài.
 

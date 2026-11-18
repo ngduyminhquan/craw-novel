@@ -108,7 +108,7 @@ Trước câu hỏi của Daska, Elena gật đầu như lẽ hiển nhiên.
 
 "...Không loại trừ khả năng bọn chúng sẽ đánh nhanh thắng nhanh, tấn công dồn dập từ thu sang đông sao?"
 
-"Tôi cũng từng nghĩ tới khả năng đó. Nhưng xưa nay Đế quốc Bestia chưa từng dấy binh vào mùa đông, hơn nữa hành quân giữa trời tuyết thì binh lính khó lòng chịu nổi. Nếu có, cùng lắm chỉ là vài vụ phá hoại của nhóm tinh nhuệ số lượng ít... Mà dẫu là tinh nhuệ của Đế quốc Bestia, chỉ cần ít người thì chúng ta vẫn đối phó được."
+"Tôi cũng từng nghĩ tới khả năng đó. Nhưng xưa nay Đế quốc Bestia chưa từng dấy binh vào mùa đông, hơn nữa hành quân giữa trời tuyết thì binh lính khó lòng chịu nổi. Nếu có, cùng lắm chỉ là vài vụ phá hoại của nhóm tinh nhuệ số lượng ít... Mà dù là tinh nhuệ của Đế quốc Bestia, chỉ cần ít người thì chúng ta vẫn đối phó được."
 
 "..."
 

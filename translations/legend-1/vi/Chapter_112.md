@@ -12,7 +12,7 @@ Bởi cô vừa bảo sẽ nhường lại toàn bộ số quái vật hạ đư
 
 Rei gật gù trong bụng, nhưng vẫn buông lời thắc mắc.
 
-"Đúng là không có mối thật. Nhưng nếu muốn bán thì tuy có thể bị ép giá, người ta vẫn thu mua chứ sao? Còn không thì nhờ anh chàng phu xe kia cũng được mà."
+"Đúng là không có mối thật. Nhưng nếu muốn bán thì tuy có thể bị ép giá, người ta vẫn thu mua chứ sao? Còn không thì nhờ người đánh xe kia cũng được mà."
 
 "Cũng phải. Nhưng lần này ta đã làm phiền Rei quá nhiều rồi. Thứ ta có thể trao cho cậu cũng chỉ có ngần này... A, không. Đâu phải. Vẫn còn một thứ nữa chứ nhỉ."
 
@@ -20,7 +20,7 @@ Rei gật gù trong bụng, nhưng vẫn buông lời thắc mắc.
 
 Thấy Elena chợt lẩm bẩm như vừa nghĩ ra điều gì, Rei gặng hỏi lại, nhưng cô chỉ lắc đầu như muốn bảo chẳng có gì.
 
-"Dù sao đi nữa, với ta thì toàn bộ số quái vật thu được trong chuyến này nhường hết cho Rei cũng chẳng sao. Với lại có thể Rei đã quên, chứ ta dẫu sao cũng mang thân phận tiểu thư Công tước, lại còn có chút tiếng tăm trong quân ngũ. Tiền bạc ta chẳng thiếu thốn gì, còn danh dự thì cũng đã được tặng cho cái danh hiệu to tát là Công Chúa Tướng Quân rồi."
+"Dù sao đi nữa, với ta thì toàn bộ số quái vật thu được trong chuyến này nhường hết cho Rei cũng chẳng sao. Với lại có thể Rei đã quên, chứ dù sao ta cũng mang thân phận tiểu thư Công tước, lại còn có chút tiếng tăm trong quân ngũ. Tiền bạc ta chẳng thiếu thốn gì, còn danh dự thì cũng đã được tặng cho cái danh hiệu to tát là Công Chúa Tướng Quân rồi."
 
 "Mà, nếu Elena đã thấy ổn thì tôi cũng chẳng phàn nàn gì đâu."
 
@@ -66,7 +66,7 @@ Cứ thế, hai bờ môi chạm nhau chẳng rõ đã qua bao lâu. Với Rei, 
 
 Rồi cuối cùng đôi môi hai người cũng khẽ rời nhau ra, để mặc căn phòng chìm vào tĩnh lặng.
 
-Tuy chỉ là một nụ hôn chạm môi đơn thuần, nhưng một bên là Rei, cậu thiếu niên sinh ra ở miền quê và vốn rất ngây ngô trong chuyện này, còn bên kia là Elena, dẫu mang thân phận tiểu thư Công tước có cơ hội tiếp xúc với chuyện yêu đương nhưng lại mải mê trui rèn võ nghệ tới mức được xưng tụng là Công Chúa Tướng Quân. Với hai con người như thế, cả hai đều là mối tình đầu của nhau.
+Tuy chỉ là một nụ hôn chạm môi đơn thuần, nhưng một bên là Rei, cậu thiếu niên sinh ra ở miền quê và vốn rất ngây ngô trong chuyện này, còn bên kia là Elena, dù mang thân phận tiểu thư Công tước có cơ hội tiếp xúc với chuyện yêu đương nhưng lại mải mê trui rèn võ nghệ tới mức được xưng tụng là Công Chúa Tướng Quân. Với hai con người như thế, cả hai đều là mối tình đầu của nhau.
 
 "T-Ta đã trao nụ hôn đầu đời cho cậu rồi, thù lao thế là quá đủ rồi chứ!?"
 
@@ -134,13 +134,13 @@ Dù còn nửa tin nửa ngờ, Ara cũng đành nghe theo, đặt đĩa bánh q
 
 Có điều ánh mắt găm về phía Rei hơi sắc lẹm hơn một chút, hẳn không phải là do cậu tưởng tượng rồi.
 
-Rút cuộc sau đó câu chuyện cũng chẳng rôm rả gì thêm, vả lại giờ khởi hành cũng đã cận kề nên cả nhóm cùng nhau đi ra tiền sảnh dinh thự lãnh chúa.
+Rốt cuộc sau đó câu chuyện cũng chẳng rôm rả gì thêm, vả lại giờ khởi hành cũng đã cận kề nên cả nhóm cùng nhau đi ra tiền sảnh dinh thự lãnh chúa.
 
 "Ồ, đúng lúc lắm. Ta đang định sai người đi gọi mấy đứa đây."
 
 Vừa bước ra trước tiền sảnh, chủ nhân dinh thự là Daska liền đưa mắt nhìn ba người cất tiếng.
 
-Gần chỗ Daska là cỗ xe ngựa mà nhóm Elena dùng, trên ghế xà ích gã đàn ông mạo hiểm giả được thuê đánh xe đã ngồi sẵn từ trước.
+Gần chỗ Daska là cỗ xe ngựa mà nhóm Elena dùng, trên ghế đánh xe, người mạo hiểm giả được thuê đánh xe đã ngồi sẵn từ trước.
 
 Thi thể của Kuust nằm trong Nhẫn Sương Mù được đặt vào chiếc quan tài vốn là một Đạo Cụ Ma Thuật chuyên dụng rồi chuyển lên cỗ xe, đặt bên cạnh là cây ma thương hệ Thủy mà anh từng sử dụng.
 
@@ -230,7 +230,7 @@ Và rồi, Elena cùng Ara tiến lại trước mặt Rei làm điểm dừng c
 
 "Được vậy thì tốt quá, nếu có Rei và Set thì dù Đế quốc Bestia có hùng mạnh tới đâu, ta cảm giác vẫn có thể đương đầu được."
 
-Elena mỉm cười trước lời Rei nói. Cảm giác nụ cười ấy khác hẳn thường ngày, phảng phất nét duyên dáng đằm thắm của người phụ nữ, nhưng Ara dẫu nhận ra cũng chẳng dám xen vào mà chỉ lặng lẽ dõi theo hai người.
+Elena mỉm cười trước lời Rei nói. Cảm giác nụ cười ấy khác hẳn thường ngày, phảng phất nét duyên dáng đằm thắm của người phụ nữ, nhưng Ara dù nhận ra cũng chẳng dám xen vào mà chỉ lặng lẽ dõi theo hai người.
 
 "Vậy thì... bảo trọng nhé."
 

@@ -30,7 +30,7 @@ Hướng mắt về phía bốn thiếu niên và một đứa trẻ đằng tr�
 
 Không, đối với bản thân chúng thì có lẽ cũng có nhiều chuyện rắc rối, nhưng với một người vừa trải qua biến cố lớn như việc gia tộc Tử tước Sails phản bội cấu kết với Đế quốc Bestia như Rei, chuyện này chỉ như trò đùa của lũ trẻ con. ...Dù bề ngoài của bản thân Rei cũng chỉ chừng 15 tuổi, chẳng khác là bao so với đám thiếu niên trước mắt.
 
-Cậu giữ khoảng cách một chút bám theo sau để năm người phía trước không phát hiện ra. Bởi dẫu có cách một quãng như vậy, với năng lực thể chất và ngũ quan của Rei thì việc nghe lỏm cuộc trò chuyện chẳng có gì khó khăn.
+Cậu giữ khoảng cách một chút bám theo sau để năm người phía trước không phát hiện ra. Bởi dù có cách một quãng như vậy, với năng lực thể chất và ngũ quan của Rei thì việc nghe lỏm cuộc trò chuyện chẳng có gì khó khăn.
 
 "Kumito, món đồ bọn tao bảo mày mang tới đâu rồi?"
 
@@ -96,7 +96,7 @@ Lẽ thường thì một chiếc que tre que gỗ chẳng đời nào cắm xuy
 
 (...Thành công rồi.)
 
-Rei thầm nhủ. Dù sao cậu cũng đã truyền ma lực vào que gỗ rồi mới phóng đi. Vốn dĩ nếu không phải kim loại đặc thù có khả năng dẫn ma lực thì dẫu có truyền vào, ma lực cũng sẽ nhanh chóng phân tán mất; thế nhưng với lượng ma lực vượt chuẩn của Rei, kết quả của việc dùng sức ép truyền ma lực rồi phóng đi là chiếc que gỗ cắm ngập vào tường gạch, một điều bình thường không tưởng nổi.
+Rei thầm nhủ. Dù sao cậu cũng đã truyền ma lực vào que gỗ rồi mới phóng đi. Vốn dĩ nếu không phải kim loại đặc thù có khả năng dẫn ma lực thì dù có truyền vào, ma lực cũng sẽ nhanh chóng phân tán mất, thế nhưng với lượng ma lực vượt chuẩn của Rei, kết quả của việc dùng sức ép truyền ma lực rồi phóng đi là chiếc que gỗ cắm ngập vào tường gạch, một điều bình thường không tưởng nổi.
 
 "Hừm, những lúc thế này người ta thường nói gì ấy nhỉ? À đúng rồi, thấy việc nghĩa không làm là kẻ vô dũng thì phải."
 

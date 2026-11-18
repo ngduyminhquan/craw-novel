@@ -50,7 +50,7 @@ Lẩm bẩm một câu, cậu liền chọn Lizardman trong tâm trí. Ngay kho�
 
 Vừa lẩm bẩm, cậu vừa dùng dao xẻ thịt cắt lấy chóp đuôi rồi cất vào Nhẫn Sương Mù. Tiếp đó, cậu cẩn thận lột da sao cho vảy không bị bong tróc, rồi như thường lệ vừa nhìn vào sách hướng dẫn xẻ thịt vừa thu thập những phần nguyên liệu có thể bán được.
 
-Với Lizardman, phần da dính vảy được dùng làm vật liệu chế tạo giáp bảo hộ; vài loại nội tạng dùng làm nguyên liệu cho Giả Kim Thuật hay bào chế thuốc hồi phục; còn tròng mắt thì có thể bán làm nguyên liệu chế tạo Đạo Cụ Ma Thuật bằng Giả Kim Thuật. Cậu làm đúng theo sách hướng dẫn: bỏ nhãn cầu vào chiếc lọ chuyên dụng, lọc lấy những phần nội tạng bán được, còn thịt thì cất vào Nhẫn Sương Mù. Phần đầu và nội tạng thừa còn lại, cậu đào một cái hố sâu rồi hất hết xuống đó.
+Với Lizardman, phần da dính vảy được dùng làm vật liệu chế tạo giáp bảo hộ, vài loại nội tạng dùng làm nguyên liệu cho Giả Kim Thuật hay bào chế thuốc hồi phục, còn tròng mắt thì có thể bán làm nguyên liệu chế tạo Đạo Cụ Ma Thuật bằng Giả Kim Thuật. Cậu làm đúng theo sách hướng dẫn: bỏ nhãn cầu vào chiếc lọ chuyên dụng, lọc lấy những phần nội tạng bán được, còn thịt thì cất vào Nhẫn Sương Mù. Phần đầu và nội tạng thừa còn lại, cậu đào một cái hố sâu rồi hất hết xuống đó.
 
 Và rồi...
 
@@ -174,7 +174,7 @@ Lẩm bẩm một câu, cậu lấy cái xác của con chủng hiếm ra khỏi
 
 So với lũ Water Monkey bình thường cao tầm một mét, kích thước con này lớn hơn hẳn, khiến cậu dễ dàng hiểu được tại sao nó lại có được năng lực vượt trội đến mức được gọi là chủng hiếm.
 
-Có điều dẫu là chủng hiếm thì về cơ bản nó vẫn là Water Monkey, trình tự xẻ thịt cũng chẳng khác là bao. Cắt tai phải làm bộ phận xác nhận thảo phạt, rồi dùng dao lột da... cậu xẻ thịt y hệt như các bước đã làm với Water Monkey thường. Đoạn, cậu rạch tim lấy viên Ma Thạch ra...
+Có điều dù là chủng hiếm thì về cơ bản nó vẫn là Water Monkey, trình tự xẻ thịt cũng chẳng khác là bao. Cắt tai phải làm bộ phận xác nhận thảo phạt, rồi dùng dao lột da... cậu xẻ thịt y hệt như các bước đã làm với Water Monkey thường. Xong xuôi, cậu rạch tim lấy viên Ma Thạch ra...
 
 "Set!"
 

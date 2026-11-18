@@ -8,7 +8,7 @@ Ngay khoảnh khắc ấy, cậu cảm nhận được một thứ giống như 
 
 Phải, chỉ là cảm nhận được. Cậu không hề nhìn thấy nó bằng mắt thường. Vốn dĩ Rei không có năng lực cảm nhận ma lực của người khác, nhưng sở dĩ cậu cảm nhận được thứ trông như xúc tu được dệt bằng ma lực hệ Phong này có lẽ là vì nó được tạo ra từ chính ma lực của cậu, hoặc cũng có thể là do nó được phát ra thông qua Lưỡi Hái Tử Thần.
 
-Dù sao thì, cậu cũng cảm nhận được sự tồn tại của chiếc xúc tu vô sắc trong suốt tạo bằng gió ấy.
+Dù sao thì cậu vẫn cảm nhận được chiếc xúc tu vô sắc trong suốt tạo bằng gió ấy.
 
 "Bảo là Bàn Tay Gió chứ gọi là Xúc Tu Gió nghe chừng còn hợp hơn đấy."
 
@@ -80,7 +80,7 @@ Xung quanh quả thực đúng là một vùng đất hoang cằn cỗi, đồng
 
 Nghe Set đáp lời, cậu lấy cây Lưỡi Hái Tử Thần vốn là vật phát động ma pháp ra khỏi Nhẫn Sương Mù.
 
-[Hỡi ngọn lửa, hãy hiển hiện sức mạnh nóng bỏng tựa thiêu đốt của ngươi thành cơn lốc xoáy]
+[Hỡi ngọn lửa, hãy hiển hiện sức mạnh nóng bỏng như thiêu đốt của ngươi thành cơn lốc xoáy]
 
 Cùng với lời niệm chú, ngọn lửa cô đọng dần hiện rõ trên phần cán của Lưỡi Hái Tử Thần. Vì vẫn đang trong giai đoạn thử nghiệm nên lượng ma lực truyền vào không quá nhiều. Có điều, "không quá nhiều" đó là chỉ riêng với Rei, chứ với một ma pháp sư bình thường thì chừng đó ma lực đủ coi là dốc toàn lực rồi.
 
@@ -122,7 +122,7 @@ Rei thầm nhủ. Hiện tượng cậu đang cố tái hiện chính là thứ 
 
 Thấy Set gật đầu trước lời mình nói, Rei lại truyền ma lực và cất lời niệm chú.
 
-[Hỡi ngọn lửa, hãy hiển hiện sức mạnh nóng bỏng tựa thiêu đốt của ngươi thành cơn lốc xoáy]
+[Hỡi ngọn lửa, hãy hiển hiện sức mạnh nóng bỏng như thiêu đốt của ngươi thành cơn lốc xoáy]
 
 Cậu vung Lưỡi Hái Tử Thần, phóng khối lửa tụ trên cán bay về phía trước.
 
@@ -134,7 +134,7 @@ Cơn lốc lửa lại xuất hiện. Vừa nhìn nó, cậu vừa siết chặt
 
 "Gừưưưư!"
 
-Cùng lúc Set cất tiếng gầm dài, cơn lốc gió cũng hiện ra chồng lên cơn lốc lửa. Thấy vậy, Rei và Set lập tức lùi xa như lúc nãy. Đoạn, cậu siết chặt Lưỡi Hái Tử Thần rồi kích hoạt Bàn Tay Gió.
+Cùng lúc Set cất tiếng gầm dài, cơn lốc gió cũng hiện ra chồng lên cơn lốc lửa. Thấy vậy, Rei và Set lập tức lùi xa như lúc nãy. Rồi cậu siết chặt Lưỡi Hái Tử Thần, kích hoạt Bàn Tay Gió.
 
 Chiếc xúc tu dệt bằng ma lực gió vươn ra từ Lưỡi Hái Tử Thần. Điểm đến đương nhiên là nơi hai cơn lốc lửa và gió đang chồng lên nhau. Đúng như dự đoán, ngọn lửa tạo ra từ ma pháp của Rei có uy lực cao hơn nên đang dần lấn át cơn lốc gió. Ngay khoảnh khắc ngỡ chừng kịch bản cũ sẽ lặp lại... đầu chiếc xúc tu dệt bằng ma lực gió đã chạm thành công vào hai cơn lốc lửa và gió ấy.
 

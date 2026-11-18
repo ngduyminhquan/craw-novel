@@ -60,7 +60,7 @@ Nghe Rei kể mà sức tưởng tượng không theo kịp, Kenny vừa nghiên
 
 Gã đàn ông trông như chiến binh đeo kiếm bên hông thô bạo giật phắt chiếc mũ trùm đầu của Rei ra. Lộ ra trước mắt hắn là gương mặt của Rei khoảng mười lăm tuổi, nét mặt trông vẫn còn non nớt trẻ con. Thấy bản mặt đó, gã đi cùng cầm ngọn thương liền bật cười thành tiếng.
 
-"Phụt, hóa ra chỉ là thằng ranh con à. Này này, dẫu biết tầm tuổi này thích làm ra vẻ ta đây, nhưng cái ngữ nhóc con như mày mà cũng bày đặt đi hầm ngục thì bốc phét vừa vừa thôi chứ."
+"Phụt, hóa ra chỉ là thằng ranh con à. Này này, dù biết tầm tuổi này thích làm ra vẻ ta đây, nhưng cái ngữ nhóc con như mày mà cũng bày đặt đi hầm ngục thì bốc phét vừa vừa thôi chứ."
 
 Nghe những lời đó, một góc trong Hội... những kẻ biết thực lực của Rei liền nhìn hai gã bằng ánh mắt ngán ngẩm, ngược lại đám không biết cậu là ai lại bắt đầu hò reo cổ vũ bảo lấn tới nữa đi.
 
