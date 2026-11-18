@@ -239,3 +239,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Lana | tôi | cô / bà chủ | 111 | Lịch sự với chủ trọ, thống nhất xưng tôi khi Lana xưng tôi gọi cậu |
 | Daska | Elena | ta | tiểu thư Elena / tiểu thư | 110 | Bá tước biên cảnh tiếp đón tiểu thư nhà Công tước |
 | Elena | Daska | tôi | ngài Daska / ngài | 110 | Tiểu thư nhà Công tước nói với Bá tước biên cảnh |
+| Ara | Daska | tôi | ngài Daska / Bá tước biên cảnh Rowlocks / ngài | 112 | Nữ hiệp sĩ quý tộc nói với Bá tước biên cảnh Rowlocks |
+| Ara | Set | tôi / bọn tôi | mày / Set | 112 | Ara trò chuyện thân thiện và cho Set ăn |
