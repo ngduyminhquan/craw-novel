@@ -278,3 +278,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Galahat | Sankant | tôi | hai người / các người / Sankant | 123 | Chỉ huy nhắc nhở lính gác dưới quyền |
 | Fader | Galahat | em / bọn em | anh / anh Galahat | 123 | Lính gác nói với chỉ huy |
 | Sankant | Galahat | em / bọn em | anh / anh Galahat | 123 | Lính gác nói với chỉ huy |
+| Bolton | Rei | ta / tao | ngươi / mày | 124 | Bolton hống hách ra lệnh và đe dọa Rei |
+| Rei | Bolton | tôi / ta | ngươi / lão | 124 | Rei lạnh lùng đối đầu và đe dọa Bolton |
+| Bolton | Galahat | ta / tao | mày | 124 | Bolton khinh thường em cùng cha khác mẹ là con vợ lẽ |
+| Galahat | Bolton | tôi / em | anh Bolton / anh | 124 | Galahat nói với anh trai cùng cha khác mẹ |

@@ -289,6 +289,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Bolton
 - Đứng đầu Thương Hội Azoth, kẻ nắm trùm mạng lưới các cửa hàng vũ khí tại Gilm; tính tình hống hách, lộng quyền nhưng có năng lực kinh doanh thực tế.
+- Quan hệ: Anh trai cùng cha khác mẹ hơn Galahat gần 30 tuổi, khinh bỉ em trai là con vợ lẽ; nuôi mối thù sâu sắc với Rei sau khi bị dọa chết vì đòi đoạt Đạo Cụ Ma Thuật và Set (chương 124).
 
 ### Fader
 - Lính canh cổng tại dinh thự của Bolton; mặc giáp kim loại, dùng thương, tính tình nóng nảy, hung hăng, thích dùng bạo lực.
@@ -299,6 +300,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Galahat
 - Nam, khoảng 30 tuổi, chiến sĩ mặc trang bị cao cấp, cử chỉ tao nhã lịch thiệp.
 - Điềm đạm, công bằng, biết lý lẽ, thẳng thắn nhận lỗi khi bên mình sai, được nhiều mạo hiểm giả kính trọng.
+- Quan hệ: Em trai cùng cha khác mẹ kém Bolton gần 30 tuổi, là con của vợ lẽ; dù bị hắt hủi vẫn liều mạng chịu đòn của Rei để cứu anh trai; biết cân nhắc lợi hại để thuyết phục Rei tha mạng (chương 124).
 
 ### Murt
 - Nam, mạo hiểm giả trẻ dùng kích.
