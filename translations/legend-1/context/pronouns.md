@@ -62,6 +62,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Bolton | gã / Bolton | 120 | Chủ quản Thương Hội Azoth |
 | Fader | gã / Fader | 122 | Lính canh cổng tại dinh thự Bolton |
 | Sankant | gã / Sankant | 122 | Lính canh cổng tại dinh thự Bolton |
+| Galahat | anh / Galahat | 123 | Mạo hiểm giả Hạng B khoảng 30 tuổi, trang bị cao cấp, lịch thiệp |
+| Murt | gã / Murt | 123 | Mạo hiểm giả trẻ dùng kích, nóng nảy hiếu chiến |
 
 ## Giữa các nhân vật
 
@@ -266,3 +268,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Sankant | Rei | tôi / chúng tôi | cậu / cậu em | 122 | Lính canh cổng ôn hòa hơn nói với Rei |
 | Fader | Sankant | tao | mày / Sankant | 122 | Đồng nghiệp lính canh |
 | Sankant | Fader | tôi | cậu / Fader | 122 | Đồng nghiệp lính canh |
+| Galahat | Rei | tôi | cậu / Rei | 123 | Mạo hiểm giả Hạng B lịch thiệp, tôn trọng Rei |
+| Rei | Galahat | tôi | anh / Galahat | 123 | Rei tôn trọng người biết lý lẽ |
+| Murt | Rei | tao | mày / nhóc | 123 | Mạo hiểm giả trẻ hiếu chiến coi thường Rei |
+| Rei | Murt | tôi | anh / cậu | 123 | Rei đáp trả mạo hiểm giả trẻ gây sự |
+| Murt | Galahat | tôi / em | anh / anh Galahat | 123 | Murt sùng bái và kính trọng Galahat |
+| Galahat | Murt | tôi / anh | cậu / Murt | 123 | Galahat chỉ huy, răn đe Murt |

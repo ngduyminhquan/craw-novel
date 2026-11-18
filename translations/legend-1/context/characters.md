@@ -59,6 +59,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Bolton | ボルンター; Boluntar; Borunta | Bolton | Chủ quản Thương Hội Azoth tại thành phố Gilm | Chương 120 |
 | Fader | フェーダー | Fader | Lính canh cổng tại dinh thự Bolton (Thương Hội Azoth) | Chương 122 |
 | Sankant | サンカント | Sankant | Lính canh cổng tại dinh thự Bolton (Thương Hội Azoth) | Chương 122 |
+| Galahat | ガラハト; Garahato | Galahat | Mạo hiểm giả Hạng B, chỉ huy dưới trướng Bolton (Thương Hội Azoth) | Chương 123 |
+| Murt | ムルト; Murto | Murt | Mạo hiểm giả dùng kích (halberd), đi theo và kính trọng Galahat | Chương 123 |
 
 ## Chi tiết
 
@@ -293,3 +295,11 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Sankant
 - Lính canh cổng tại dinh thự của Bolton; mặc giáp kim loại, dùng thương, tính tình cẩn thận, biết điều và ôn hòa hơn Fader.
+
+### Galahat
+- Nam, khoảng 30 tuổi, chiến sĩ mặc trang bị cao cấp, cử chỉ tao nhã lịch thiệp.
+- Điềm đạm, công bằng, biết lý lẽ, thẳng thắn nhận lỗi khi bên mình sai, được nhiều mạo hiểm giả kính trọng.
+
+### Murt
+- Nam, mạo hiểm giả trẻ dùng kích.
+- Tính tình nông nổi, hiếu chiến, coi thường người yếu hơn nhưng tuyệt đối nghe lời và sùng bái Galahat.
