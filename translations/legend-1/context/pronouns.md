@@ -57,6 +57,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kumito | cậu bé / Kumito / đứa trẻ | 113 | Cậu bé 10 tuổi con trai thợ rèn Pamidoor |
 | Schele | người đàn ông cầm thương / Schele | 114 | Mạo hiểm giả dùng thương mới đến Gilm |
 | Epoca | người đàn ông lớn tuổi / ông | 118 | Nhân viên lớn tuổi của Hội Mạo Hiểm Giả Gilm |
+| Freon | cô / nữ chiến sĩ | 120 | Nữ chiến sĩ Hạng C |
+| Brazos | ông / gã Dwarf | 120 | Chiến sĩ người lùn Hạng C |
+| Bolton | gã / Bolton | 120 | Chủ quản Thương Hội Azoth |
 
 ## Giữa các nhân vật
 
@@ -251,3 +254,9 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kenny | Epoca | cháu / tôi | bác Epoca | 118 | Kenny làm nũng, than phiền khi bị từ chối |
 | Lenora | Runo | tôi | anh / anh Runo | 119 | Tiếp tân Hội nói chuyện với mạo hiểm giả quen biết |
 | Runo | Lenora | tôi | cô bé Lenora / Lenora | 119 | Mạo hiểm giả trung niên thân thiện với tiếp tân |
+| Freon | Rei | tôi | nhóc / cậu / Rei | 120 | Nữ chiến sĩ nói chuyện với Rei |
+| Rei | Freon | tôi | cô / Freon | 120 | Rei nói chuyện với Freon |
+| Freon | Brazos | tôi | ông / Brazos | 120 | Đồng đội trong tổ đội Chiến Binh Đập Tan |
+| Brazos | Freon | ta / lão | mày / cô / Freon | 120 | Đồng đội trong tổ đội Chiến Binh Đập Tan |
+| Brazos | Rei | ta / lão | cậu / nhóc | 120 | Người lùn lớn tuổi nói với mạo hiểm giả trẻ |
+| Rei | Brazos | tôi | ông | 120 | Rei nói chuyện với người lùn lớn tuổi |

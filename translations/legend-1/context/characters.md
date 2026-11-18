@@ -54,6 +54,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Pamidoor | パミドール | Pamidoor | Thợ rèn tay nghề cao mới chuyển đến Gilm, cha của Kumito (chương 113 được nhắc tên) | Chương 113 |
 | Schele | シェーレ | Schele | Mạo hiểm giả dùng thương mới đến Gilm | Chương 114 |
 | Epoca | エポカ | Epoca | Nhân viên lớn tuổi tại Hội Mạo Hiểm Giả Gilm | Chương 118 |
+| Freon | フロン; Furon; Fron | Freon | Nữ chiến sĩ Hạng C, thành viên tổ đội Chiến Binh Đập Tan | Chương 120 |
+| Brazos | ブラッソ; Brasso | Brazos | Chiến sĩ người lùn Hạng C, thành viên tổ đội Chiến Binh Đập Tan | Chương 120 |
+| Bolton | ボルンター; Boluntar; Borunta | Bolton | Chủ quản Thương Hội Azoth tại thành phố Gilm | Chương 120 |
 
 ## Chi tiết
 
@@ -270,3 +273,15 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Epoca
 - Người đàn ông lớn tuổi làm việc phía trong quầy tiếp tân Hội Mạo Hiểm Giả ở Gilm, có thẩm quyền phê duyệt công việc cho nhân viên tiếp tân.
+
+### Freon
+- Nữ chiến sĩ trạc giữa ba mươi tuổi, mặc giáp da kết hợp vài mảnh giáp kim loại, tính cách phóng khoáng, thẳng thắn, xưng '俺' (tôi).
+- Thành viên tổ đội mạo hiểm giả Hạng C Chiến Binh Đập Tan, đi chung với người lùn Brazos.
+- Tự lượng sức uống rượu kém nên thường tỉnh táo khi nhậu với Brazos; hay cằn nhằn tật nghiện rượu của Brazos.
+
+### Brazos
+- Chiến sĩ Dwarf cao chừng 1m40, cơ bắp cuồn cuộn, râu cằm dài chạm ngực, sử dụng búa chiến khổng lồ cán dài gần 1m bằng ma pháp kim loại đen tuyền.
+- Thành viên tổ đội Hạng C Chiến Binh Đập Tan cùng Freon; cực kỳ mê rượu, coi rượu như nước lã nhưng tửu lượng cực khủng, không bao giờ say. Từng định theo nghề thợ rèn nhưng không hợp.
+
+### Bolton
+- Đứng đầu Thương Hội Azoth, kẻ nắm trùm mạng lưới các cửa hàng vũ khí tại Gilm; tính tình hống hách, lộng quyền nhưng có năng lực kinh doanh thực tế.
