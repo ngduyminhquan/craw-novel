@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T04:26:59Z",
+  "generatedAt": "2026-11-18T04:31:58Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2765,6 +2765,12 @@
           "title": "Chương 102: Tế đàn kế thừa (102)",
           "path": "translations/legend-1/vi/Chapter_102.md",
           "sha": "72688ff493b25b30651079de690d63cc1d2f06ad"
+        },
+        {
+          "number": 103,
+          "title": "Chương 103: Tế đàn kế thừa (103)",
+          "path": "translations/legend-1/vi/Chapter_103.md",
+          "sha": "dd02172b5352c261949516ebea0ef0f8fc12fd70"
         }
       ]
     },

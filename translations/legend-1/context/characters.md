@@ -203,17 +203,18 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
 - Vũ khí và ma pháp: Dùng ma thương; khuyên tai bên phải là vật phát động ma pháp; sử dụng ma pháp hệ Thủy gồm hồi phục [Lam Dũ] và tấn công [Nanh Nước].
-- Trạng thái tính đến chương 102: Bị Rei đánh vỡ giáp toàn thân Full Plate đánh ngất; sau đó liều mình lấy thân mình chắn nhát kiếm của Golem nhỏ cứu mạng Elena, bị kiếm đâm ngập lưng trọng thương thập tử nhất sinh.
+- Trạng thái tính đến chương 103: Đã hy sinh tại Tế đàn kế thừa tầng 7 sau khi lấy thân mình che chở cứu Elena; được Rei vuốt mắt an nghỉ và phủ vải sạch lên thi thể.
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
 - Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4 và được Rei cho mượn Rìu Cường Lực (Đạo Cụ Ma Thuật) sử dụng bằng một tay.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
+- Trạng thái tính đến chương 103: Tỉnh lại sau nghi thức gián đoạn; thề sẽ đích thân tiêu diệt Vel để báo thù cho Kuust.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
 - Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; sở hữu Dao Độc và sinh vật ma pháp hộ vệ dạng xúc tu tím do Giả Kim Thuật Sư Bestia tạo ra; biết ma pháp hệ Thổ.
-- Trạng thái tính đến chương 102: Dùng Golem nhỏ mang trường kiếm toan đâm lén kết liễu Elena nhưng bất thành; ném lọ độc tấn công Rei nhưng bị ném trả và bị xúc tu tự động của mình vô tình đập vỡ khiến mặt bị ăn mòn biến dạng, đồng thời bị Rei chém đứt lìa cánh tay trái.
+- Trạng thái tính đến chương 103: Bị chém đứt lìa cánh tay trái và bỏng nát mặt; cho Golem tự sát phát nổ cản chân Rei rồi kích hoạt bảo thạch ma pháp dịch chuyển đào tẩu dù bị dính kim độc vào đùi phải.
 
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
