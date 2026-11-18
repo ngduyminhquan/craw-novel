@@ -227,3 +227,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Grimm | Elena | ta | ngươi / cô bé | 92 | Lich Lord cổ đại nói chuyện với Elena |
 | Rei | Elena | tôi | tiểu thư Elena / cô | 97 | Từ chương 97, Elena cho phép Rei không dùng kính ngữ trừ dịp chính thức, nói chuyện tự nhiên |
 | Rei | Vel | ta / tôi | ngươi / anh / Vel | 99 | Khi Vel lộ mặt là kẻ phản bội |
+| Rei | Elena | tôi | Elena / cô / tiểu thư Elena | 99 | Sau khi được phép bỏ kính ngữ ở chương 97, nói chuyện tự nhiên bình đẳng |
+| Vel | Elena | tôi / ta | Elena / cô / cô ta | 99 | Khi Vel lộ mặt là kẻ phản bội, bỏ kính ngữ với Elena |

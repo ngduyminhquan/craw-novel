@@ -101,9 +101,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 94 |  | Chapter_0094 - 継承の祭壇 - 第94話.txt | 継承の祭壇 - 第94話 | reviewed |  |
 | 95 |  | Chapter_0095 - 継承の祭壇 - 第95話.txt | 継承の祭壇 - 第95話 | reviewed |  |
 | 96 |  | Chapter_0096 - 継承の祭壇 - 第96話.txt | 継承の祭壇 - 第96話 | reviewed |  |
-| 97 |  | Chapter_0097 - 継承の祭壇 - 第97話.txt | 継承の祭壇 - 第97話 | done |  |
-| 98 |  | Chapter_0098 - 継承の祭壇 - 第98話.txt | 継承の祭壇 - 第98話 | done |  |
-| 99 |  | Chapter_0099 - 継承の祭壇 - 第99話.txt | 継承の祭壇 - 第99話 | done |  |
+| 97 |  | Chapter_0097 - 継承の祭壇 - 第97話.txt | 継承の祭壇 - 第97話 | reviewed |  |
+| 98 |  | Chapter_0098 - 継承の祭壇 - 第98話.txt | 継承の祭壇 - 第98話 | reviewed |  |
+| 99 |  | Chapter_0099 - 継承の祭壇 - 第99話.txt | 継承の祭壇 - 第99話 | reviewed |  |
 | 100 |  | Chapter_0100 - 継承の祭壇 - 第100話.txt | 継承の祭壇 - 第100話 | todo |  |
 | 101 |  | Chapter_0101 - 継承の祭壇 - 第101話.txt | 継承の祭壇 - 第101話 | todo |  |
 | 102 |  | Chapter_0102 - 継承の祭壇 - 第102話.txt | 継承の祭壇 - 第102話 | todo |  |

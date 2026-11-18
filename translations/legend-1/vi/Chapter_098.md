@@ -2,7 +2,7 @@
 
 "Tất cả chuẩn bị xong chưa. Vậy chúng ta sẽ lập tức đột nhập vào tầng đáy cùng. Mọi người tuyệt đối không được lơ là."
 
-Hôm sau, sau khi dùng bữa và hoàn tất khâu chuẩn bị để tiến vào tầng đáy cùng, giọng của Elena vang lên trước cả nhóm.
+Hôm sau, khi cả nhóm đã dùng bữa và hoàn tất khâu chuẩn bị để tiến vào tầng đáy cùng, giọng của Elena vang lên.
 
 Những người nghe thấy giọng cô đều mang vẻ mặt nghiêm túc, tập trung cao độ, bởi rốt cuộc chỉ cần bước xuống cầu thang trước mắt là sẽ tới được tầng mục tiêu.
 
@@ -38,7 +38,7 @@ Cùng với lời tuyên bố ấy, cả nhóm bắt đầu bước xuống nh�
 
 Đứng ở tiền vệ, Ara nhìn khung cảnh tầng đáy cùng mà bất giác lẩm bẩm.
 
-Khung cảnh mở ra trước mắt nhóm Ara vẫn là những bức tường phát sáng, lối đi rộng rãi và sàn lát đá, thoạt nhìn không khác mấy so với các tầng trước đó. Có điều, cảm giác hiện diện ở đây lại hoàn toàn khác biệt. Bức tường được chạm khắc tinh xảo, trần nhà rải rác những vật trang trí dường như bằng đá rủ xuống. Sàn nhà tuy cũng làm bằng đá, nhưng lại được lát kín bằng loại vật liệu sáng bóng như đá cẩm thạch.
+Khung cảnh mở ra trước mắt nhóm Ara vẫn là những bức tường phát sáng, lối đi rộng rãi và sàn lát đá, thoạt nhìn không khác mấy so với các tầng trước đó. Có điều, vẻ bề thế mà nơi này toát ra lại hoàn toàn khác biệt. Bức tường được chạm khắc tinh xảo, trần nhà rải rác những vật trang trí dường như bằng đá rủ xuống. Sàn nhà tuy cũng làm bằng đá, nhưng lại được lát kín bằng loại vật liệu sáng bóng như đá cẩm thạch.
 
 "Nói sao nhỉ, cảm giác mọi vật liệu cấu thành ở đây đều cao cấp hơn hẳn các tầng trước của hầm ngục ấy."
 
@@ -96,7 +96,7 @@ Trên cánh cửa chạm khắc hình một con sư tử, thứ này gần giố
 
 "Cánh cửa phòng làm việc của Bá tước biên cảnh Rowlocks cũng ghê gớm lắm, nhưng nhìn cánh cửa này xong thì..."
 
-Dẫu vậy, quả không hổ danh Elena — người được mệnh danh là Công Chúa Tướng Quân cùng đoàn hiệp sĩ hộ vệ trực thuộc của cô; hơn nữa với Set là quái vật Hạng A và Rei là kẻ khác thường trong giới mạo hiểm giả, cánh cửa ấy cũng chỉ khiến họ nảy ra chừng đó cảm nghĩ là cùng.
+Có điều, với Elena, người được mệnh danh là Công Chúa Tướng Quân cùng đội kỵ sĩ hộ vệ trực thuộc của cô, cộng thêm quái vật Hạng A như Set và một mạo hiểm giả khác thường như Rei, cánh cửa ấy cùng lắm cũng chỉ khiến họ cảm thán đôi câu như vậy mà thôi.
 
 "Giờ thì, vấn đề là bên trong có thứ gì. ...Vel."
 
@@ -116,7 +116,7 @@ Sư Tử Bạc. Đúng như lời Vel vừa nói, đây là quái vật Hạng S
 
 Đến cả Elena cũng phải lộ vẻ nghiêm nghị mà gặng hỏi, còn Vel vừa quệt mồ hôi đang túa ra như tắm trên trán vừa gật đầu.
 
-"Vâng. Tôi nghĩ chắc phải bước hẳn vào bên trong căn phòng thì nó mới nhận diện là kẻ địch."
+"Ừ. Tôi nghĩ chắc phải bước hẳn vào bên trong căn phòng thì nó mới nhận diện là kẻ địch."
 
 "...Nhân tiện, bên trong có Tế đàn kế thừa không?"
 
@@ -124,7 +124,7 @@ Sư Tử Bạc. Đúng như lời Vel vừa nói, đây là quái vật Hạng S
 
 "Ra là vậy. Hèn gì hầm ngục này mãi vẫn chưa bị chinh phục. Ai mà ngờ được quái vật trùm lại là quái vật Hạng S như Sư Tử Bạc chứ."
 
-"Sư Tử Bạc... là cái con hay xuất hiện trong mấy câu chuyện cổ tích ấy ạ?"
+"Sư Tử Bạc... là cái con hay xuất hiện trong mấy câu chuyện cổ tích ấy hả?"
 
 Trước câu hỏi của Ara, Vel gật đầu, còn Kuust cười trừ đáp lại.
 
@@ -152,11 +152,11 @@ Trước lời của Elena, Ara vội vàng phân bua, rồi trừng mắt nhìn
 
 Nhờ Kuust can thiệp, bầu không khí cuối cùng cũng lắng xuống, rồi cả nhóm chuyển sang bàn xem tiếp theo nên đi đường nào.
 
-"Bên trái là phòng trùm rồi, tôi nghĩ đi lối đi bên phải ở hướng đối diện là hợp lý nhất đấy."
+"Bên trái là phòng trùm rồi, tôi nghĩ chọn lối đi bên phải ở hướng đối diện là hợp lý nhất đấy."
 
 "Tôi hiểu ý của Ara, nhưng riêng tôi thì muốn đề xuất lối đi phía trước hơn."
 
-"...Tiểu thư Elena, cứ thế này thì không quyết định được đâu ạ. Tôi nghĩ chỗ này nên để tiểu thư quyết định thì hơn."
+"...Tiểu thư Elena, cứ thế này thì không chốt được đâu. Tôi nghĩ chỗ này nên để tiểu thư quyết định thì hơn."
 
 "Ừ, vậy thử đi bên phải xem sao."
 
@@ -170,7 +170,7 @@ Cảm giác yên tâm khó tả mỗi khi nhìn Rei. Thứ cảm xúc ấy rốt
 
 "Được rồi, đi thôi. Tiếp theo chúng ta sẽ đi lối đi bên phải như vừa nói. ...Một khi quái vật trùm canh giữ lõi hầm ngục đã là Sư Tử Bạc, tốt hơn hết chúng ta nên dự liệu rằng các quái vật khác ở tầng đáy cùng này cũng cực kỳ mạnh mẽ. Tuyệt đối không được lơ là."
 
-Gật đầu trước giọng nói của Elena, cả nhóm bước vào lối đi bên phải. Và cũng giống như lúc nãy, sau chừng mười phút bước đi, một cánh cửa lại lọt vào tầm mắt họ.
+Nghe Elena nói vậy, cả nhóm gật đầu rồi tiến vào lối đi bên phải. Và cũng giống như lúc nãy, đi được chừng mười phút thì một cánh cửa lại lọt vào tầm mắt họ.
 
 "...Giờ thì, lần này sẽ thế nào đây. Vel, nhờ cậu đấy."
 

@@ -1,6 +1,6 @@
 # Chương 99: Tế đàn kế thừa (99)
 
-Cuối cùng thì nhóm Rei cũng đã đặt chân xuống tầng đáy cùng của hầm ngục và tới được đích đến là Tế đàn kế thừa. Tại đây, Elena đã giải thích về nghi thức được tiến hành ở Tế đàn kế thừa, thế nhưng nội dung của nó lại là hấp thụ Ma Thạch vào cơ thể mình, một điều hoàn toàn nằm ngoài dự liệu của Rei.
+Cuối cùng thì nhóm Rei cũng đã đặt chân xuống tầng đáy cùng của hầm ngục và tới được đích đến là Tế đàn kế thừa. Tại đây, Elena giải thích về nghi thức cử hành ở tế đàn, với nội dung hoàn toàn nằm ngoài dự liệu của Rei: hấp thụ Ma Thạch vào chính cơ thể mình.
 
 "...Hấp thụ... Ma Thạch sao?"
 
@@ -8,11 +8,11 @@ Nghe những lời đó, Rei nhanh chóng lục tìm thông tin từ kiến th�
 
 (Kiến thức của Zepairu cũng không có à. Vậy xem ra đây là nghi thức được nghĩ ra trong suốt mấy nghìn năm sau khi Zepairu biến mất rồi. Cơ mà xét theo nghĩa biến Ma Thạch thành sức mạnh của bản thân thì nghe cũng có vẻ giống Ma Thú Thuật nhỉ.)
 
-"Ừ. Quái vật sở hữu năng lực thể chất, ma lực và những sức mạnh đặc biệt vượt trội hoàn toàn so với con người chúng ta. Việc tìm cách hấp thụ Ma Thạch vốn được coi là căn nguyên của quái vật vào chính cơ thể mình đã được thử nghiệm từ lâu. Thế nhưng ở vương quốc chúng ta, do kỹ thuật này vẫn đang trong quá trình nghiên cứu nên tỷ lệ thành công cực kỳ thấp, khoảng chín mươi phần trăm trường hợp đều chết do phản ứng đào thải hoặc không chịu nổi sức mạnh khổng lồ tiếp nhận vào. Dù hiếm hoi lắm mới có kẻ thành công thì cơ thể cũng bị biến đổi hình dạng do ảnh hưởng của quái vật."
+"Ừ. Quái vật sở hữu năng lực thể chất, ma lực và những sức mạnh đặc biệt vượt trội hoàn toàn so với con người chúng ta. Từ lâu, người ta đã thử tìm cách hấp thụ Ma Thạch, thứ được coi là căn nguyên của quái vật, vào chính cơ thể mình. Thế nhưng ở vương quốc chúng ta, do kỹ thuật này vẫn đang nghiên cứu dở dang nên tỷ lệ thành công cực kỳ thấp, khoảng chín mươi phần trăm trường hợp đều chết do phản ứng đào thải hoặc không chịu nổi sức mạnh khổng lồ tiếp nhận vào. Dù hiếm hoi lắm mới có kẻ thành công thì cơ thể cũng bị biến đổi hình dạng do ảnh hưởng của quái vật."
 
 "Cái gì!?"
 
-Những lời giải thích từ miệng Elena khiến Rei không khỏi sững sờ. Nhưng cậu lập tức lấy lại bình tĩnh, nắm lấy bờ vai trông mảnh khảnh hơn vẻ bề ngoài của cô.
+Những lời giải thích từ miệng Elena khiến Rei sững người không nói nên lời. Nhưng cậu lập tức lấy lại bình tĩnh, nắm lấy bờ vai mảnh mai hơn hẳn vẻ bề ngoài của cô.
 
 "Cô dấn thân tới tận đây chỉ để làm cái nghi thức nguy hiểm thế này thôi sao!?"
 
@@ -26,11 +26,11 @@ Thấy vẻ mặt có phần cuống cuồng của cậu, Elena nở một nụ 
 
 Elena liếc nhìn về phía tế đàn nằm ở chính giữa ma pháp trận.
 
-"Như ta vừa nói, Nghi thức kế thừa được tiến hành bằng Tế đàn kế thừa này gần như khác biệt một trời một vực so với nghi thức mà giới học giả hay các ma pháp sư thực hiện. Nếu phải ví von thì giống như hòn đá ven đường với thiên thạch, đốm lửa tàn với ngọn lửa ngút trời, giọt nước với biển lớn, hay cơn gió thoảng với lốc xoáy vậy."
+"Như ta vừa nói, Nghi thức kế thừa được tiến hành bằng Tế đàn kế thừa này gần như khác biệt một trời một vực so với nghi thức mà giới học giả hay các ma pháp sư thực hiện. Nếu phải ví von thì giống như hòn đá ven đường với thiên thạch, đốm lửa mồi với biển lửa ngút trời, giọt nước với biển lớn, hay cơn gió thoảng với lốc xoáy vậy."
 
 "...Thay vì ví von, cô nói cụ thể hơn cho tôi nghe xem nào. Nếu dùng cái gọi là Tế đàn kế thừa này để làm nghi thức thì cụ thể sẽ ra sao?"
 
-"Thế này nhé, chuyện bị biến đổi ngoại hình do ảnh hưởng của Ma Thạch sẽ không xảy ra đâu. Có giả thuyết cho rằng việc biến đổi ngoại hình là do lỗi thuật thức phát sinh trong quá trình truyền sức mạnh của Ma Thạch vào người nhận, nhưng nếu thực hiện tại Tế đàn kế thừa nguyên bản này thì chẳng đời nào có chuyện đó. Hơn nữa, nó còn giúp người nhận hấp thụ một cách thuần khiết sức mạnh của Ma Thạch. ...Xem nào, nói ngắn gọn thì người hoàn thành nghi thức ở Tế đàn kế thừa sẽ trở thành một tồn tại cao hơn con người một bậc, nói thế cho dễ hiểu nhỉ?"
+"Thế này nhé, chuyện bị biến đổi ngoại hình do ảnh hưởng của Ma Thạch sẽ không xảy ra đâu. Có giả thuyết cho rằng việc biến đổi ngoại hình là do lỗi thuật thức phát sinh trong quá trình truyền sức mạnh của Ma Thạch vào người nhận, nhưng nếu thực hiện tại Tế đàn kế thừa nguyên bản này thì chẳng đời nào có chuyện đó. Hơn nữa, nó còn giúp người nhận hấp thụ trọn vẹn sức mạnh thuần khiết của Ma Thạch. ...Xem nào, nói ngắn gọn thì người hoàn thành nghi thức ở Tế đàn kế thừa sẽ bước lên một đẳng cấp vượt trên con người một bậc, nói thế cho dễ hiểu nhỉ?"
 
 Elena vừa giải thích vừa đưa mắt nhìn Kuust và Vel đang kiểm tra tế đàn để chuẩn bị cho nghi thức.
 
@@ -48,7 +48,7 @@ Elena vừa giải thích vừa đưa mắt nhìn Kuust và Vel đang kiểm tra
 
 "Dù vậy, chẳng lẽ đích thân Công tước Kerebel lại chấp nhận để con gái rượu của mình trở thành một kẻ vượt khỏi ranh giới con người sao?"
 
-"Đúng vậy. Và ta không hề có ý định phản đối chuyện đó. Ta không biết cậu nghĩ thế nào, nhưng ít nhất bản thân ta đã chấp nhận tất cả trước khi dấn thân vào hầm ngục này. Vả lại nếu nghi thức thành công, như ta đã nói lúc nãy, ta sẽ trở thành một tồn tại cao hơn con người về mặt sinh học. Mà đó lại là ta, biểu tượng của Phe Quý Tộc đấy. Cân nhắc giữa cái được và mất, chuyện cha ta do dự là điều không tưởng... mà nếu cha có do dự thì ta sẽ coi thường cha mất."
+"Đúng vậy. Và ta không hề có ý định phản đối chuyện đó. Ta không biết cậu nghĩ thế nào, nhưng ít nhất bản thân ta đã chấp nhận tất cả trước khi dấn thân vào hầm ngục này. Vả lại nếu nghi thức thành công, như ta đã nói lúc nãy, về mặt sinh học ta sẽ trở thành một sinh vật vượt trên cả con người. Mà đó lại là ta, biểu tượng của Phe Quý Tộc đấy. Cân nhắc giữa cái được và mất, chuyện cha ta do dự là điều không tưởng... mà nếu cha có do dự thì ta sẽ coi thường cha mất."
 
 Từ ánh mắt của Elena khi nói ra những lời đó, có thể cảm nhận được một ý chí cực kỳ kiên định. Thế nhưng ánh nhìn ấy bỗng chốc dịu lại, khóe môi cô khẽ nở một nụ cười.
 
@@ -64,7 +64,7 @@ Vẫn là nụ cười ấy nhưng nụ cười dịu dàng vừa nãy đã đ�
 
 Đó là một viên Ma Thạch màu hoàng kim to cỡ mặt người, chỉ cần đứng nhìn từ bên ngoài thôi cũng cảm nhận được ma lực cực kỳ mạnh mẽ toát ra.
 
-Nói thêm thì chiếc túi bên hông của Elena đã được mở rộng dung tích bằng Không Gian Ma Pháp. Dĩ nhiên dung tích của nó không phải là vô hạn như Nhẫn Sương Mù mà cùng lắm chỉ chứa được một gian phòng khá nhỏ — theo cảm giác của Rei thì cỡ khoảng hai tấm chiếu tatami. Dù vậy, đây vẫn là một Đạo Cụ Ma Thuật đắt đỏ đến mức quý tộc bình thường khó lòng sở hữu được.
+Nói thêm thì chiếc túi bên hông của Elena đã được mở rộng dung tích bằng Không Gian Ma Pháp. Dĩ nhiên dung tích của nó không phải là vô hạn như Nhẫn Sương Mù mà cùng lắm chỉ rộng cỡ một căn phòng khá nhỏ, theo ước lượng của Rei thì khoảng hai tấm chiếu tatami. Dù vậy, đây vẫn là một Đạo Cụ Ma Thuật đắt đỏ đến mức quý tộc bình thường khó lòng sở hữu được.
 
 "Đây là... Ma Thạch hoàng kim sao? Lại còn to đến mức này nữa."
 
@@ -92,11 +92,11 @@ Bị ánh mắt ấy nhìn thẳng, Rei toan mở miệng nói điều gì đó 
 
 Bởi cậu hiểu theo bản năng rằng dù có nói gì đi nữa cũng chẳng thể lay chuyển được quyết tâm của Elena.
 
-"Tiểu thư Elena, đã đến lúc tiến hành nghi thức rồi ạ."
+"Tiểu thư Elena, đã đến lúc tiến hành nghi thức rồi."
 
 Nghe Kuust lên tiếng nhắc nhở, Elena gật đầu. Cầm viên Ma Thạch Ancient Dragon trên tay, cô khẽ đặt nó lên tế đàn nằm ở chính giữa ma pháp trận.
 
-"Rei, và cả Set nữa. Trong lúc nghi thức diễn ra, về cơ bản ta sẽ không thể cử động được. Vì thế nếu có sự cố như quái vật đi lạc vào đây thì ta giao lại cho hai người đấy. Ba người Ara, Vel và Kuust đều phải tham gia vào Nghi thức kế thừa nên cũng như ta, họ không thể nhúc nhích được đâu."
+"Rei, và cả Set nữa. Trong lúc nghi thức diễn ra, về cơ bản ta sẽ không thể cử động được. Vì thế nếu có sự cố như quái vật đi lạc vào đây thì ta giao lại cho cả hai đấy. Ba người Ara, Vel và Kuust đều phải tham gia vào Nghi thức kế thừa nên cũng như ta, họ không thể nhúc nhích được đâu."
 
 "Tôi hiểu rồi. Dù là quái vật hay bất cứ thứ gì xuất hiện đi nữa, tôi nhất định sẽ bảo vệ cô. Thế nên cứ yên tâm bắt đầu nghi thức đi."
 
@@ -116,7 +116,7 @@ Elena nói rồi bước tới đứng giữa ma pháp trận bao quanh tế đ�
 
 Rei gật đầu trước lời của Vel rồi cùng Set di chuyển về phía cửa phòng.
 
-Trong lúc nắm chặt Lưỡi Hái Tử Thần và tì người vào cánh cửa phòng để cảnh giới bên ngoài, một luồng sáng chói lòa bỗng phát ra từ phía sau, dường như nghi thức đã bắt đầu.
+Trong lúc Rei nắm chặt Lưỡi Hái Tử Thần và tì người vào cánh cửa phòng để cảnh giới bên ngoài, một luồng sáng chói lòa bỗng phát ra từ phía sau, dường như nghi thức đã bắt đầu.
 
 (Nghi thức bắt đầu rồi à. Giờ thì việc mình có thể làm đúng như vừa nói, chỉ là không để quái vật lọt vào căn phòng này mà thôi.)
 
@@ -128,7 +128,7 @@ Nghi thức đang diễn ra trước mắt Rei quả thực không ngoa khi ví 
 
 Set cũng bị nghi thức thu hút sự chú ý, chỉ biết chăm chú dõi theo luồng sáng màu lục đang bị hút vào viên Ma Thạch hoàng kim.
 
-Vài phút sau khi ánh sáng màu lục phát ra từ ma pháp trận truyền vào Ma Thạch, quá trình hấp thụ hoàn tất, xung quanh chỉ còn lại ánh sáng từ viên Ma Thạch Ancient Dragon tỏa ra với một cảm giác hiện diện áp đảo.
+Ánh sáng màu lục từ ma pháp trận truyền vào Ma Thạch chừng vài phút thì được hấp thụ hết, xung quanh chỉ còn lại hào quang từ viên Ma Thạch Ancient Dragon tỏa sáng rực rỡ đầy áp đảo.
 
 Và Elena, người đang tắm mình trong luồng sáng ấy, cũng nhắm nghiền đôi mắt, trông như thể đã mất đi ý thức.
 
@@ -144,7 +144,7 @@ Sở dĩ nhận ra được cử động đó là bởi Rei vẫn đang mải m�
 
 Ban đầu Rei còn tưởng đó cũng là một phần của nghi thức, nhưng khi thấy Ara đứng trên ma pháp trận bên cạnh lộ rõ vẻ mặt kinh hoàng, cậu nhận ra có điều bất thường và bất giác gầm lên thật lớn.
 
-Về phần Ara, cô cũng đã nhận ra động thái đó của Vel, thế nhưng nếu lúc này ngay cả cô cũng rời khỏi ma pháp trận thì Nghi thức kế thừa sẽ không thể duy trì được nữa, và chẳng biết chuyện gì sẽ xảy ra với Elena. Vì thế, điều duy nhất cô có thể làm là vung búa Rìu Cường Lực, vũ khí duy nhất trên người mình, ném thẳng về phía Vel. Thế nhưng...
+Về phần Ara, cô cũng đã nhận ra động thái đó của Vel, thế nhưng nếu lúc này ngay cả cô cũng rời khỏi ma pháp trận thì Nghi thức kế thừa sẽ không thể duy trì được nữa, và chẳng biết chuyện gì sẽ xảy ra với Elena. Vì thế, điều duy nhất cô có thể làm là vung chiếc Rìu Cường Lực, vũ khí duy nhất trên người mình, ném thẳng về phía Vel. Thế nhưng...
 
 "Cái thứ đó, cô nghĩ tôi không né được chắc?"
 

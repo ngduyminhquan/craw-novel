@@ -68,7 +68,7 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 錬金術師 |  | Giả Kim Thuật Sư | chức nghiệp | 2 | Người dùng Giả Kim Thuật (Esta Noor) |
 | テイマー |  | Thuần Thú Sư | chức nghiệp | 10 | Người thuần hóa và điều khiển ma thú hoặc quái vật |
 | 辺境伯 |  | Bá tước biên cảnh | danh hiệu | 10 | Tước vị quý tộc cai quản vùng đất biên giới (vùng Gilm) |
-| ランク |  | Hạng | cấp bậc | 10 | Cấp bậc mạo hiểm giả hoặc quái vật/ma thú (vd: Hạng A) |
+| ランク |  | Hạng | cấp bậc | 10 | Cấp bậc mạo hiểm giả hoặc quái vật/ma thú; viết hoa khi đi với tên hạng: Hạng A, Hạng G; danh từ chung thì viết thường: thăng hạng, hạng cao, cùng hạng |
 | ジャルム |  | Jarm | quái vật | 11 | Tên địa phương của Sóc Bay Lưỡi Dao (刃ムササビ) |
 | 魔の森 |  | Rừng Ma | địa danh | 11 | Khu rừng nguy hiểm nơi Rei và Set xuất hiện sau khi chuyển sinh |
 | ミレアーナ |  | Mireana | địa danh | 11 | Đại quốc ở đại lục trung tâm thế giới Elgin |
@@ -223,3 +223,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 獅子の咆吼 |  | Tiếng Gầm Sư Tử | kỹ năng | 98 | Kỹ năng sóng xung kích phát ra từ tiếng gầm của Sư Tử Bạc |
 | 継承の儀式 |  | Nghi thức kế thừa | khác | 98 | Nghi thức tiến hành tại Tế đàn kế thừa để con người hấp thụ Ma Thạch quái vật thành sức mạnh của bản thân |
 | エンシェントドラゴン |  | Ancient Dragon | quái vật | 99 | Rồng cổ đại sống hàng nghìn năm, quái vật truyền thuyết sánh ngang hoặc vượt trên Lich Lord |
+| ボス部屋 |  | phòng trùm | khác | 97 | Phòng của quái vật trùm trong hầm ngục; viết thường |

@@ -16,25 +16,25 @@ Elena gật gù, nhưng bên cạnh cô, Vel lại đang nhíu mày đăm chiêu
 
 "Vel?"
 
-"A, không. Không có gì đâu. Tôi chỉ thắc mắc là nếu rẽ vào hai con đường còn lại ở ngã tư lúc nãy, liệu có phải cũng dẫn tới căn phòng dạng phòng boss thế này, và hạ xong quái vật ở đó thì cầu thang cũng xuất hiện hay không thôi."
+"A, không. Không có gì đâu. Tôi chỉ thắc mắc là nếu rẽ vào hai con đường còn lại ở ngã tư lúc nãy, liệu có phải cũng dẫn tới căn phòng dạng phòng trùm thế này, và hạ xong quái vật ở đó thì cầu thang cũng xuất hiện hay không thôi."
 
 "Ừ, nhìn tình hình căn phòng này thì khả năng cao là vậy. Nhưng đó cũng chỉ là phỏng đoán thôi. Phải thực sự đi thử mấy con đường kia từ ngã tư thì mới dám chắc được."
 
 Nhìn Rei đang thu dọn xác Spriggan, Ara nghiêng đầu thắc mắc.
 
-"Nhưng thưa tiểu thư Elena, việc có thông tin về Tế đàn kế thừa chứng tỏ từng có tổ đội xuống được tầng đáy cùng rồi đúng không? Vậy nếu chúng ta đến đúng căn phòng mà họ từng hạ quái vật thì cầu thang lẽ ra phải mở sẵn chứ ạ?"
+"Nhưng tiểu thư Elena này, có thông tin về Tế đàn kế thừa chứng tỏ từng có tổ đội xuống được tầng đáy cùng rồi đúng không? Vậy nếu chúng ta đến đúng căn phòng mà họ từng hạ quái vật thì cầu thang lẽ ra phải mở sẵn chứ?"
 
 Người giải đáp thắc mắc đó không phải Elena, người được hỏi, mà là Vel.
 
 "Không đâu, tôi nghĩ hễ con quái vật canh giữ cầu thang xuống tầng dưới bị tiêu diệt thì lõi hầm ngục sẽ triệu hồi một con quái vật mới. Có điều mất vài tiếng hay phải vài ngày mới triệu hồi lại thì chưa rõ."
 
-"Với lõi hầm ngục thì quái vật yếu như Goblin thì không nói, chứ quái vật Hạng B như Spriggan thì chắc cũng phải tốn thời gian triệu hồi... Mong là vậy. Chứ lúc xong nghi thức ở Tế đàn kế thừa quay lại tầng này mà thấy một con quái vật cùng Hạng Spriggan lù lù ở đây thì chẳng vui chút nào."
+"Với lõi hầm ngục, quái vật yếu như Goblin thì không nói, chứ quái vật Hạng B như Spriggan thì chắc cũng phải tốn thời gian triệu hồi... Mong là vậy. Chứ lúc xong nghi thức ở Tế đàn kế thừa quay lại tầng này mà thấy một con quái vật cùng hạng với Spriggan lù lù ở đây thì chẳng vui chút nào."
 
 "May mắn là nó chỉ có một con thôi nhỉ. Chứ kéo theo bầy đàn như lũ Emerald Wolf thì chẳng biết chuyện sẽ ra sao nữa."
 
 Đúng vậy. Dù là quái vật Hạng B đi nữa, nhưng chỉ có một con thì đối với nhóm Elena chiếm ưu thế về quân số, đánh thì có phiền toái thật đấy, nhưng cũng chưa đến mức khiến họ phải tuyệt vọng.
 
-Huống hồ trước đây một mình Rei đã từng hạ gục Orc King cùng Hạng, còn Set thì vốn là quái vật Hạng A rồi. Đã vậy, Elena với danh hiệu Công Chúa Tướng Quân cũng sở hữu chiến lực tiệm cận cả hai đứa nữa.
+Huống hồ trước đây một mình Rei đã từng hạ gục Orc King cùng hạng, còn Set thì vốn là quái vật Hạng A rồi. Đã vậy, Elena với danh hiệu Công Chúa Tướng Quân cũng sở hữu chiến lực tiệm cận cả hai đứa nữa.
 
 "Tiểu thư Elena, tôi đã thu dọn xong xác Spriggan rồi."
 
@@ -52,9 +52,9 @@ Nghĩ thầm trong bụng, cô liền chuyển ánh nhìn sang phía Vel.
 
 Chỉ mất vài giây sắp xếp lại suy nghĩ, cô cất tiếng nói với tất cả mọi người, bao gồm cả Rei đang tiến lại gần.
 
-"Đêm nay chúng ta sẽ ngủ lại căn phòng này, sáng mai mới xuống tầng đáy cùng. May là nhờ cánh cửa khổng lồ kia đã đóng chặt nên hướng duy nhất kẻ địch có thể xâm nhập chỉ có cầu thang dẫn xuống tầng đáy cùng mà thôi. Nhờ đó việc canh gác cũng không đến mức bận rộn như hồi ở trong rừng. Ngoài ra, con quái vật Hạng cao thay thế cho Spriggan ở phòng này thì như Vel vừa nói, nhiều khả năng nó chưa thể triệu hồi lại ngay được, nhưng mọi người vẫn không được lơ là. Nếu thấy có dấu hiệu bất thường, người gác phải lập tức đánh thức tất cả dậy."
+"Đêm nay chúng ta sẽ ngủ lại căn phòng này, sáng mai mới xuống tầng đáy cùng. May là nhờ cánh cửa khổng lồ kia đã đóng chặt nên hướng duy nhất kẻ địch có thể xâm nhập chỉ có cầu thang dẫn xuống tầng đáy cùng mà thôi. Nhờ đó việc canh gác cũng không đến mức bận rộn như hồi ở trong rừng. Ngoài ra, con quái vật hạng cao thay thế cho Spriggan ở phòng này thì như Vel vừa nói, nhiều khả năng nó chưa thể triệu hồi lại ngay được, nhưng mọi người vẫn không được lơ là. Nếu thấy có dấu hiệu bất thường, người gác phải lập tức đánh thức tất cả dậy."
 
-"Trong trường hợp đó, chúng ta có tiêu diệt con quái vật được triệu hồi lại không ạ?"
+"Trong trường hợp đó, chúng ta có tiêu diệt con quái vật được triệu hồi lại không?"
 
 Trước câu hỏi của Kuust, Elena khẽ lắc đầu.
 
@@ -102,11 +102,11 @@ Cậu dùng Dao Mithril lột phần da có thể bán làm nguyên liệu ra kh
 
 Elena, người nãy giờ vẫn quan sát Rei pha thịt cánh tay Ogre, bất chợt cất tiếng hỏi.
 
-"Vâng, có chuyện gì thế ạ?"
+"Vâng, có chuyện gì thế?"
 
 "Cậu bảo nấu nướng, nhưng lửa thì tính sao? Ta biết Rei rất giỏi ma pháp hệ Hỏa, nhưng không có củi thì đâu làm gì được chứ."
 
-"A, chuyện đó thì không sao đâu ạ. Từ trước tới giờ mỗi lần nhận ủy thác của Hội vào rừng, tôi đều cất sẵn một lượng củi khô vừa phải vào Hộp Vật Phẩm để phòng khi cần rồi."
+"A, chuyện đó thì không sao đâu. Từ trước tới giờ mỗi lần nhận ủy thác của Hội vào rừng, tôi đều cất sẵn một lượng củi khô vừa phải vào Hộp Vật Phẩm để phòng khi cần rồi."
 
 Vừa đáp lời Elena, Rei vừa lấy củi khô từ Nhẫn Sương Mù ra, nắm lấy Lưỡi Hái Tử Thần rồi cất lời niệm chú.
 
@@ -120,11 +120,11 @@ Ngửi thấy mùi thịt nướng thơm lừng bốc lên, Set bắt đầu rù
 
 "...Được rồi, giờ phân chia lượt gác đêm nay. Cứ theo thứ tự ta, Ara, Kuust, Vel rồi tới Rei nhé."
 
-Thoáng liếc nhìn về phía Set một cái, mọi người lắng nghe chỉ thị của Elena; sau khi xác nhận không ai có ý kiến gì khác thì cả nhóm bước vào giờ nghỉ tự do.
+Elena thoáng liếc về phía Set một cái khi đưa ra chỉ thị; sau khi xác nhận không ai có ý kiến gì khác thì cả nhóm bước vào giờ nghỉ tự do.
 
 Ara trò chuyện cùng Elena, còn Rei thì tiếp tục cắt những chỗ thịt Ogre đã chín cho Set ăn.
 
-Nhìn hai nhóm người trước mặt, Kuust vừa nhấp ngụm nước từ chiếc bình do Vel đưa qua vừa khẽ chau mày.
+Nhìn cảnh tượng của hai bên trước mặt, Kuust vừa nhấp ngụm nước từ bi đông do Vel đưa qua vừa khẽ chau mày.
 
 "Thiệt tình, đúng là cái đồ cứng đầu cứng cổ mà. ...Nè, ăn chút đi."
 
@@ -164,9 +164,9 @@ Dõi mắt nhìn Set, Rei dọn dẹp xong bữa ăn rồi cũng đứng dậy..
 
 "Rei, ta nói chuyện một chút được không?"
 
-Cậu được Elena, người nãy giờ vẫn chăm chú nhìn mình, cất tiếng gọi.
+Elena, người nãy giờ vẫn chăm chú nhìn cậu, chợt lên tiếng gọi.
 
-"Dạ? Được chứ ạ... Tiểu thư có muốn ăn nhẹ chút gì không?"
+"Vâng? Tôi không phiền đâu... Tiểu thư có muốn ăn nhẹ chút gì không?"
 
 "Không, nếu được thì ta muốn cậu nán lại trò chuyện một lát thôi. Dĩ nhiên nếu Rei thấy buồn ngủ rồi thì cứ từ chối, không sao cả."
 
@@ -184,7 +184,7 @@ Nghe câu đó, Elena bất giác cười trừ.
 
 "Ra là vậy. Quả nhiên cách nói chuyện bình thường của cậu là kiểu nói với Vel và Ara nhỉ."
 
-"Đương nhiên rồi ạ. Tôi làm gì có gia giáo tốt đến mức mở miệng ra là nói kính ngữ bao giờ đâu."
+"Đương nhiên rồi. Tôi làm gì có gia giáo tốt đến mức mở miệng ra là nói kính ngữ bao giờ đâu."
 
 "...Hừm, đúng thế thật. Coi như đây là lời cảm ơn vì cậu đã vất vả tới tận đây. Trừ những dịp chính thức ra, cậu không cần dùng kính ngữ với ta đâu, cứ nói chuyện bình thường là được."
 
@@ -192,7 +192,7 @@ Giữa tiếng tí tách lách tách của tàn lửa nhảy múa trong đống 
 
 Trong không gian vách tường xung quanh phát ra ánh sáng mờ ảo, ngọn lửa soi rọi bóng hình của hai người Elena và Rei.
 
-"Thế có được không ạ?"
+"Như thế có ổn không?"
 
 "Không sao. Quý tộc bình thường thì câu nệ lễ nghi thật đấy, nhưng như cậu biết rồi đấy, ta đâu phải tiểu thư quý tộc bình thường."
 
@@ -202,7 +202,7 @@ Trong không gian vách tường xung quanh phát ra ánh sáng mờ ảo, ngọ
 
 "Tôi xin lỗi... À không, xin lỗi nhé. Thế này được chưa?"
 
-"Ừ, cậu cứ xưng hô như vậy thì ta cũng thấy thoải mái hơn."
+"Ừ, cậu cứ nói chuyện tự nhiên như vậy thì ta cũng thấy thoải mái hơn."
 
 "Là tiểu thư quý tộc mà lại không thích nghe kính ngữ... có ổn không đấy?"
 
