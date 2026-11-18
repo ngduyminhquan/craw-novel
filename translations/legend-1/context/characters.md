@@ -57,6 +57,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Freon | フロン; Furon; Fron | Freon | Nữ chiến sĩ Hạng C, thành viên tổ đội Chiến Binh Đập Tan | Chương 120 |
 | Brazos | ブラッソ; Brasso | Brazos | Chiến sĩ người lùn Hạng C, thành viên tổ đội Chiến Binh Đập Tan | Chương 120 |
 | Bolton | ボルンター; Boluntar; Borunta | Bolton | Chủ quản Thương Hội Azoth tại thành phố Gilm | Chương 120 |
+| Fader | フェーダー | Fader | Lính canh cổng tại dinh thự Bolton (Thương Hội Azoth) | Chương 122 |
+| Sankant | サンカント | Sankant | Lính canh cổng tại dinh thự Bolton (Thương Hội Azoth) | Chương 122 |
 
 ## Chi tiết
 
@@ -285,3 +287,9 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Bolton
 - Đứng đầu Thương Hội Azoth, kẻ nắm trùm mạng lưới các cửa hàng vũ khí tại Gilm; tính tình hống hách, lộng quyền nhưng có năng lực kinh doanh thực tế.
+
+### Fader
+- Lính canh cổng tại dinh thự của Bolton; mặc giáp kim loại, dùng thương, tính tình nóng nảy, hung hăng, thích dùng bạo lực.
+
+### Sankant
+- Lính canh cổng tại dinh thự của Bolton; mặc giáp kim loại, dùng thương, tính tình cẩn thận, biết điều và ôn hòa hơn Fader.

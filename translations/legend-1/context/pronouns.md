@@ -60,6 +60,8 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Freon | cô / nữ chiến sĩ | 120 | Nữ chiến sĩ Hạng C |
 | Brazos | ông / chiến sĩ Dwarf | 120 | Chiến sĩ người lùn Hạng C |
 | Bolton | gã / Bolton | 120 | Chủ quản Thương Hội Azoth |
+| Fader | gã / Fader | 122 | Lính canh cổng tại dinh thự Bolton |
+| Sankant | gã / Sankant | 122 | Lính canh cổng tại dinh thự Bolton |
 
 ## Giữa các nhân vật
 
@@ -260,3 +262,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Brazos | Freon | ta / lão | mày / cô / Freon | 120 | Đồng đội trong tổ đội Chiến Binh Đập Tan |
 | Brazos | Rei | ta / lão | cậu / nhóc | 120 | Người lùn lớn tuổi nói với mạo hiểm giả trẻ |
 | Rei | Brazos | tôi | ông | 120 | Rei nói chuyện với người lùn lớn tuổi |
+| Fader | Rei | tao | mày / thằng ranh | 122 | Lính canh cổng hung hăng nói với Rei |
+| Sankant | Rei | tôi / chúng tôi | cậu / cậu em | 122 | Lính canh cổng ôn hòa hơn nói với Rei |
+| Fader | Sankant | tao | mày / Sankant | 122 | Đồng nghiệp lính canh |
+| Sankant | Fader | tôi | cậu / Fader | 122 | Đồng nghiệp lính canh |
