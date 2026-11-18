@@ -203,7 +203,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
 - Vũ khí và ma pháp: Dùng ma thương; khuyên tai bên phải là vật phát động ma pháp; sử dụng ma pháp hệ Thủy gồm hồi phục [Lam Dũ] và tấn công [Nanh Nước].
-- Trạng thái tính đến chương 103: Đã hy sinh tại Tế đàn kế thừa tầng 7 sau khi lấy thân mình che chở cứu Elena; được Rei vuốt mắt an nghỉ và phủ vải sạch lên thi thể.
+- Trạng thái tính đến chương 104: Đã hy sinh tại Tế đàn kế thừa tầng 7; thi thể được Rei cất vào Nhẫn Sương Mù theo nguyện vọng của Elena để mang về trao trả cho gia đình.
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
@@ -219,7 +219,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 100: Bất tỉnh trong ma pháp trận do Ma Thạch Ancient Dragon bị Vel phá hủy khiến Nghi thức kế thừa bị gián đoạn giữa chừng.
+- Trạng thái tính đến chương 104: Tỉnh lại sau nghi thức; hấp thụ được khoảng 7 phần sức mạnh của Ancient Dragon (thể chất và ngũ quan cường hóa, lượng ma lực khổng lồ, tiềm năng dùng Long Ngôn Ma Pháp); đang cùng nhóm tìm cách thoát khỏi hầm ngục.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.

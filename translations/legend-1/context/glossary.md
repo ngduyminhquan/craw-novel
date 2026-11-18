@@ -230,3 +230,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | フルプレート | フルプレートメイル | Full Plate | vật phẩm | 101 | Bộ giáp toàn thân |
 | オートマタ |  | Automata | khác | 101 | Người máy tự động; khái niệm Trái Đất trong suy nghĩ của Rei |
 | キメラ |  | Chimera | quái vật | 102 | sinh vật lai ghép do Giả Kim Thuật hoặc ma thuật tạo ra |
+| 竜言語魔法 |  | Long Ngôn Ma Pháp | kỹ năng | 104 | Loại ma pháp cổ sử dụng ngôn ngữ loài rồng |
