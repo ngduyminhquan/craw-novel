@@ -48,6 +48,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Worker | ワーカー | Worker | Đại diện chi nhánh Hội Mạo Hiểm Giả tại ngôi làng quanh hầm ngục | Chương 73 |
 | Zack | ザック | Zack | Đạo tặc trong tổ đội mạo hiểm giả Hạng C chạm trán nhóm Rei ở tầng 3 hầm ngục | Chương 77 |
 | Grimm | グリム | Grimm | Lich Lord cổ đại sống từ thời Zepairu hàng nghìn năm trước | Chương 93 |
+| Liberte | リベルテ | Liberte | Tên riêng của Công tước Kerebel (Liberte Kerebel) | Chương 108 |
+| Filma Desir | フィルマ・デジール; フィルマ | Filma Desir | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel, con thứ của Hầu tước Desir | Chương 108 |
 
 ## Chi tiết
 
@@ -195,6 +197,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Kerebel
 - Nhân vật nòng cốt của Phe Quý Tộc, cha của Elena Kerebel (Công Chúa Tướng Quân)
+- Tên đầy đủ là Liberte Kerebel (リベルテ・ケレベル).
 
 ### Beamter
 - Nam thanh niên khoảng 18-22 tuổi, vẻ mặt hiền lành dễ mến; mạo hiểm giả Hạng D dẫn dắt tổ đội Hạng E gồm các đàn em cùng cô nhi viện
@@ -242,3 +245,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Esta Noor
 - Tính cách: Đam mê nghiên cứu Giả Kim Thuật đến mức không muốn tốn thời gian dạy đệ tử, cả đời không kết hôn; được hậu thế tôn sùng là Giả Kim Thuật Sư vĩ đại nhất lịch sử.
+
+### Filma Desir
+- Nam, cuối độ tuổi 30, thân thể cường tráng; sở hữu tài điều binh thao lược, tầm nhìn bao quát và luôn xông pha nơi tiền tuyến cổ vũ sĩ khí; được mệnh danh là thủ hộ thần của lãnh địa Công tước Kerebel.

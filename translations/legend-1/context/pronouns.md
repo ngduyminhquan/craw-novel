@@ -53,6 +53,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Zack | người đàn ông / Zack | 77 | Đạo tặc trong tổ đội Hạng C gặp ở tầng 3 hầm ngục |
 | Grimm | lão / Grimm | 93 | Lich Lord cổ đại sống từ thời Zepairu |
 | Vel | anh / hắn / Vel | 99 | Lộ mặt là kẻ phản bội |
+| Filma Desir | anh / Filma | 108 | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel |
 
 ## Giữa các nhân vật
 
@@ -232,3 +233,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Vel | Rei | tôi | cậu / Rei | 100 | Khi Vel lộ mặt là kẻ phản bội, nói chuyện cợt nhả, biến thái |
 | Elena | Linde | ta | cậu / Linde | 106 | Tiểu thư Công tước nói với thiếu niên tạp vụ quán trọ |
 | Linde | Elena | tôi / em | tiểu thư Elena / tiểu thư | 106 | Thiếu niên tạp vụ nói với tiểu thư Công tước |
+| Kerebel | Filma Desir | ta | ngươi / Filma / Filma Desir | 108 | Công tước nói với thuộc cấp / đoàn trưởng kỵ sĩ đoàn |
+| Filma Desir | Kerebel | tôi | ngài / Công tước | 108 | Đoàn trưởng kỵ sĩ đoàn nói với Công tước Kerebel |

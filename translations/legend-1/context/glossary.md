@@ -235,3 +235,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | セイルズ |  | Sails | tổ chức | 105 | Gia tộc Tử tước Sails thuộc Phe Quý Tộc của Vương quốc Mireana |
 | 人工生命体 |  | sinh mệnh nhân tạo | khác | 106 | thể sống/sinh mệnh được tạo ra nhân tạo (như Golem, cơ thể Rei hay Ma Thú Thuật) |
 | 金貨 |  | đồng vàng | vật phẩm | 106 | Đồng tiền vàng trong hệ thống tiền tệ của Elgin, bằng 10 đồng bạc |
+| アネシス |  | Anesis | địa danh | 108 | Thành phố lớn thứ hai của Vương quốc Mireana, nơi đặt dinh thự của Công tước Kerebel |
+| カーフィリ |  | Karfili | địa danh | 108 | Thủ đô của Vương quốc Mireana |
+| デジール |  | Desir | tổ chức | 108 | Gia tộc Hầu tước Desir thuộc Phe Quý Tộc của Vương quốc Mireana |
+| ブラシン |  | Brassin | tổ chức | 108 | Gia tộc Hầu tước Brassin thuộc Phe Quý Tộc của Vương quốc Mireana, gia tộc của Kuust |
+| 開封 |  | Khai Phong | kỹ năng | 108 | Từ khóa hoặc ma pháp mở niêm phong phong thư |
