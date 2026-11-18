@@ -6,17 +6,17 @@ Elena khẽ thở phào nhẹ nhõm, vung nhẹ liên tiếp kiếm để vẩy 
 
 Cô đưa mắt đảo quanh một lượt, toàn bộ bầy Emerald Wolf lao vào tập kích họ lúc nãy giờ đây đều đã phơi thây trên mặt đất.
 
-Có con bị cô đâm xuyên đầu, có con bị Ara chém đứt đôi thân mình, có con bị Rei chém lìa cổ, lại có con bị [Hơi Thở Lửa] của Set thiêu rụi, tuy hình thức muôn hình vạn trạng nhưng điểm chung là tất cả đều đã tắt thở.
+Con thì bị cô đâm xuyên đầu, con bị Ara chém đứt đôi thân mình, con bị Rei chém lìa cổ, con lại bị Hơi Thở Lửa của Set thiêu rụi; tuy chết theo đủ kiểu khác nhau nhưng điểm chung là tất cả đều đã tắt thở.
 
 "Tiếng gầm thét sao. Nếu không có kỹ năng đó của Set thì hẳn đã chẳng giải quyết dễ dàng đến thế này."
 
-Vốn dĩ quái vật dạng sói luôn chú trọng vào tốc độ và khả năng phối hợp hơn là sức mạnh cơ bắp. Và tiếng gầm của Set—[Uy Áp Vương Giả]—đã kéo tốc độ của chúng giảm đi chừng mười phần trăm. Mười phần trăm. Xem đó chỉ là mười phần trăm ít ỏi, hay là giảm hẳn mười phần trăm? Câu trả lời đúng là gì thì nhìn vào cảnh tượng trải ra trước mắt Elena là thấy rõ ngay.
+Vốn dĩ quái vật dạng sói luôn chú trọng vào tốc độ và khả năng phối hợp hơn là sức mạnh cơ bắp. Và tiếng gầm của Set, tức Uy Áp Vương Giả, đã kéo tốc độ của chúng giảm đi chừng mười phần trăm. Mười phần trăm. Xem đó chỉ là mười phần trăm ít ỏi, hay là giảm hẳn mười phần trăm? Câu trả lời đúng là gì thì nhìn vào cảnh tượng trải ra trước mắt Elena là thấy rõ ngay.
 
 Cô hướng mắt về phía các thành viên trong nhóm, nhận thấy ai nấy về mặt thể lực vẫn còn rất dồi dào thì khẽ gật đầu.
 
-Quả nhiên việc nghỉ ngơi đầy đủ sau khi bước xuống tầng ngầm thứ sáu này là một quyết định hoàn toàn đúng đắn.
+Quả nhiên quyết định nghỉ ngơi đầy đủ sau khi bước xuống tầng ngầm thứ sáu này là hoàn toàn đúng đắn.
 
-Và việc bầy Emerald Wolf tập kích bị hạ gục không mấy khó khăn nhờ có Set vừa khiến lòng Elena nhẹ nhõm hơn, vừa khiến cô một lần nữa cảm nhận được thực lực của Rei và Set.
+Hơn nữa, nhờ có Set mà cả nhóm hạ gục bầy Emerald Wolf tập kích chẳng mấy khó khăn; điều đó vừa giúp Elena nhẹ lòng, vừa khiến cô một lần nữa cảm nhận rõ thực lực của hai đứa Rei và Set.
 
 (Không, giờ chẳng phải lúc nghĩ ngợi vẩn vơ. Phải tìm ra cầu thang dẫn xuống tầng sâu nhất càng sớm càng tốt. Dù với lý do gì đi nữa, Rei vẫn là đồng minh của mình... không, của chúng ta. Thế là đủ rồi.)
 
@@ -28,7 +28,7 @@ Khẽ lắc đầu xua tan những suy nghĩ kỳ lạ, cô vuốt lại mái t�
 
 Tuân theo chỉ thị của Elena, Rei cất xác những con Emerald Wolf bị chém lìa vào Nhẫn Sương Mù.
 
-Cả những con bị [Hơi Thở Lửa] của Set thiêu chết, tuy bộ lông không còn dùng được nữa nhưng các bộ phận như Ma Thạch, thịt hay nanh vuốt vẫn ở trạng thái thu thập được.
+Ngay cả con bị Hơi Thở Lửa của Set thiêu chết, tuy bộ lông không còn dùng được nữa nhưng các bộ phận như Ma Thạch, thịt hay nanh vẫn thu hồi được.
 
 "Tốt lắm, Set. Làm tốt lắm. Trừ bộ lông ra thì những thứ khác vẫn còn dùng tốt."
 
@@ -38,7 +38,7 @@ Cả những con bị [Hơi Thở Lửa] của Set thiêu chết, tuy bộ lông
 
 Bản thân Set cũng hiểu Rei sẽ vui nếu thu thập được nhiều nguyên liệu quái vật, nên thay vì thiêu rụi cả thịt lẫn xương như mọi khi, nó đã biết nương tay đôi chút. Sở dĩ Set kêu lên vui sướng như vậy một phần là vì được người nó yêu quý nhất là Rei khen ngợi, nhưng phần khác chắc hẳn cũng vì nó đã biết kiềm chế sức mạnh rất khéo.
 
-Sau đó vài phút, Rei xả bớt máu một cách qua loa rồi cất toàn bộ xác Emerald Wolf vào Nhẫn Sương Mù, chuyến thám hiểm tầng ngầm thứ sáu lại tiếp tục.
+Sau vài phút xả máu sơ qua rồi cất toàn bộ xác Emerald Wolf vào Nhẫn Sương Mù, cả nhóm lại tiếp tục thám hiểm tầng ngầm thứ sáu.
 
 "Ara, đừng có nói gở nữa. Tôi thấy cứ mỗi lần cô lẩm bẩm cái gì là y như rằng chúng ta lại gặp rắc rối đấy."
 
@@ -68,7 +68,7 @@ Nhớ ra thanh trường kiếm trấn lột từ nhóm Móng Vuốt Chim Ưng, 
 
 Dù lúc đầu còn đắn đo, nhưng Vel gật đầu nhận lấy thanh trường kiếm ngay sau đó.
 
-Thanh trường kiếm vừa được đưa ra có xuất xứ thế nào, dù sao Ara cũng từng dùng qua nên chắc hẳn cô đã nhận ra ngay. Do non tay mà làm hỏng thanh trường kiếm nên cô lúng túng cũng là lẽ thường tình. Nhìn Ara cất tiếng lẩm bẩm với vẻ hơi phụng phịu, Vel hướng ánh mắt thích thú về phía cô, khóe môi khẽ nở nụ cười.
+Vì từng cầm thanh trường kiếm đó chiến đấu một lúc nên hẳn Ara đã nhận ra ngay nó là thanh kiếm nào. Chính vì còn non tay mà cô mới làm hỏng nó, nên phản ứng như vậy cũng chẳng có gì lạ. Nhìn Ara cất tiếng lẩm bẩm với vẻ hơi phụng phịu, Vel hướng ánh mắt thích thú về phía cô, khóe môi khẽ nở nụ cười.
 
 "Ra vậy, nhắc mới nhớ đây là thanh trường kiếm Ara từng mượn nhỉ. Cơ mà nó không chịu nổi sự giày vò của Ara thôi."
 
@@ -80,7 +80,7 @@ Thanh trường kiếm vừa được đưa ra có xuất xứ thế nào, dù s
 
 Khi Ara đã miễn cưỡng chấp thuận, Vel liền dồn lực ném mạnh thanh trường kiếm về phía điểm đích.
 
-Dù không thể nhanh như khi phóng đoản kiếm, nhưng cú ném chan chứa kình lực vẫn khiến thanh kiếm cắm thẳng xuống nền đất... tạo ra một cái hố đường kính chừng hai mét rồi chìm lỉm xuống dưới.
+Dù không nhanh như khi phóng đoản kiếm, nhưng cú ném đầy lực ấy vẫn khiến thanh kiếm đập mạnh xuống nền đất... làm sập một cái hố đường kính chừng hai mét rồi rơi thẳng xuống dưới.
 
 "Rộng hơn tôi tưởng đấy."
 
@@ -88,9 +88,9 @@ Lẩm bẩm một câu, Vel ghé mắt nhìn xuống hố sập rồi bất giá
 
 "Oái, ác hiểm thật."
 
-Dưới tầm mắt của Vel, nơi đáy hố sập mọc lên vô số gai nhọn bằng kim loại dài chừng một mét, trông chẳng khác nào một bàn chông sắc lẹm.
+Dưới tầm mắt của Vel, đáy hố sập chi chít những chiếc gai kim loại nhọn hoắt dài chừng một mét, trông y hệt một bàn chông sắc lẹm.
 
-Nếu chẳng may rơi xuống hố sập này, trừ khi được trang bị bộ giáp cực phẩm hay loại Đạo Cụ Ma Thuật gia tăng phòng ngự, bằng không chắc chắn sẽ bị những chiếc gai nhọn dưới đáy đâm xuyên từ lòng bàn chân lên.
+Nếu chẳng may rơi xuống hố sập này, trừ khi mặc bộ giáp thượng hạng hay trang bị Đạo Cụ Ma Thuật gia tăng phòng ngự, bằng không chắc chắn sẽ bị những chiếc gai nhọn dưới đáy đâm xuyên từ lòng bàn chân lên.
 
 Chắc hẳn đã mường tượng ra cảnh tượng đó, Elena khẽ cau mày với vẻ khó chịu.
 
@@ -118,7 +118,7 @@ Sau đó thỉnh thoảng vẫn có quái vật xuất hiện, nhưng chỉ ở 
 
 "...Vel, đôi co thế đủ rồi, chỉ chỗ có nút bấm cho tôi xem nào."
 
-Kuust vừa cạn lời trước màn đối đáp của Ara và Vel, vừa lên tiếng giục Vel.
+Kuust vừa ngán ngẩm trước màn đối đáp của Ara và Vel, vừa lên tiếng giục Vel.
 
 Kể từ lúc phát hiện cái hố sập đầu tiên tới giờ đã qua vài tiếng đồng hồ. Quái vật xuất hiện ngoài bầy Emerald Wolf ban đầu ra thì hầu như toàn loại tép riu, nhưng bù lại, cạm bẫy lại được giăng khắp mọi nơi.
 
@@ -166,7 +166,7 @@ Nhận thấy cái bẫy này dường như có liên hoàn với các bẫy kh�
 
 "Cơ mà này, mấy cái bẫy này quái vật trong hầm ngục có bị dính không nhỉ?"
 
-"Chắc lõi hầm ngục - thứ triệu hồi quái vật - cũng tính đến chuyện đó rồi. ...Mà không, có báo cho quái vật biết có bẫy đi nữa thì lũ Goblin các thứ liệu có nhớ nổi không cũng khó nói lắm. Nếu vậy thì hợp lý nhất là bẫy được thiết kế để không phản ứng với quái vật trong hầm ngục."
+"Chắc lõi hầm ngục triệu hồi ra quái vật cũng tính đến chuyện đó rồi. ...Mà không, có báo cho quái vật biết có bẫy đi nữa thì lũ Goblin các thứ liệu có nhớ nổi không cũng khó nói lắm. Nếu vậy thì hợp lý nhất là bẫy được thiết kế để không phản ứng với quái vật trong hầm ngục."
 
 "...Thế thì hơi chơi ăn gian quá không?"
 
@@ -182,11 +182,11 @@ Trước câu hỏi đầy vẻ ngán ngẩm của Kuust, Vel đang dẫn đầu
 
 "...Tôi đâu thấy có thứ gì giống nút bấm đâu?"
 
-Kuust nhìn theo hướng Vel chỉ, nhưng trong mắt anh ta nơi đó trông chẳng khác gì một lối đi bình thường.
+Kuust nhìn theo hướng Vel chỉ, nhưng trong mắt anh nơi đó trông chẳng khác gì một lối đi bình thường.
 
 Thế nhưng Vel lại gật đầu như thể đó là lẽ dĩ nhiên.
 
-"Thì đương nhiên rồi. Không phải nút bấm, mà chính bản thân lối đi mới là điểm kích hoạt bẫy. Chỉ cần giẫm lên một đoạn đường phía trước là nó sẽ kích hoạt ngay. ...Chắc thế."
+"Thì đương nhiên rồi. Không phải nút bấm, mà chính lối đi này mới là điểm kích hoạt bẫy. Chỉ cần giẫm lên một đoạn đường phía trước là nó sẽ kích hoạt ngay. ...Chắc thế."
 
 Khác hẳn vẻ tự tin từ trước tới giờ, Vel lẩm bẩm với giọng có phần thiếu chắc chắn.
 
@@ -196,15 +196,15 @@ Khác hẳn vẻ tự tin từ trước tới giờ, Vel lẩm bẩm với giọ
 
 "...Vậy tính sao đây? Hay quay lại ngã tư kia rồi đi đường khác?"
 
-Trước câu hỏi vừa dò xét xung quanh vừa cất lên của Kuust, Vel khẽ lắc đầu.
+Kuust vừa dò xét xung quanh vừa hỏi, nhưng Vel chỉ khẽ lắc đầu.
 
 "Nên thôi thì hơn. Căn cứ vào cấu trúc của hầm ngục này, khả năng cao là hai lối đi còn lại cũng được bố trí bẫy tương tự. So với việc quay lại tốn thời gian thì tôi nghĩ thà tìm cách gỡ cái bẫy này rồi đi tiếp vẫn hơn."
 
-"Nhưng việc các lối đi còn lại cũng có bẫy chẳng qua chỉ là trực giác của Vel thôi đúng không? Thế thì cũng đáng để thử chứ..."
+"Nhưng chuyện hai lối đi còn lại cũng có bẫy chẳng qua chỉ là trực giác của cậu thôi đúng không? Thế thì cũng đáng để thử chứ..."
 
 "Kuust, tôi cũng đâu chỉ dựa vào trực giác suông. Tôi suy đoán dựa trên cấu trúc, vị trí đặt bẫy và tần suất xuất hiện của chúng từ lúc bước xuống tầng ngầm thứ sáu này tới giờ đấy chứ. ...Phải rồi. Nói nghe hơi khó lọt tai một chút, nhưng cái bẫy này cứ như đang bảo nếu không gỡ nổi thì đừng hòng có tư cách đi tiếp..."
 
-Vel vừa đáp lời Kuust vừa trầm ngâm suy nghĩ.
+Vel vừa đáp lời Kuust vừa ngẫm nghĩ.
 
 Nhìn hai người họ, Elena đưa ra quyết định.
 

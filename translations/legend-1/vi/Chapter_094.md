@@ -2,11 +2,11 @@
 
 Rảo bước xuống cầu thang do đích thân Lich Lord Grimm tạo ra chừng mười mấy phút, cả nhóm đã tới nơi. Cầu thang này vốn được liên kết với cầu thang thực sự dẫn xuống tầng ngầm thứ sáu nhờ Không Gian Ma Pháp, và ngay trước mắt họ, tầng ngầm thứ sáu đã mở ra như một lẽ hiển nhiên.
 
-"Oa, lời chủ nhân giọng nói đó quả nhiên là thật. Ai ngờ lại bẻ cong được cả không gian để nối tới nơi mình muốn cơ chứ... Này, Kuust. Đúng là may mà không phải đụng độ với chủ nhân giọng nói đó nhỉ. Chứ nếu cậu mà nổi nóng rồi phá tan tành phòng nghiên cứu ấy thì không biết chuyện sẽ ra nông nỗi nào nữa..."
+"Oa, lời chủ nhân giọng nói đó quả nhiên là thật. Ai ngờ lại bẻ cong được cả không gian để nối tới nơi mình muốn cơ chứ... Này, Kuust. Đúng là may mà không phải đụng độ với chủ nhân giọng nói đó nhỉ. Chứ nếu anh mà nổi nóng rồi phá tan tành phòng nghiên cứu ấy thì không biết chuyện sẽ ra nông nỗi nào nữa..."
 
 "..."
 
-Tận mắt chứng kiến rồi đích thân trải nghiệm cảnh tượng phi thực tế đến nhường này, ngay cả Kuust cũng hiểu được chủ nhân giọng nói ở tầng ngầm thứ năm là thứ quái vật phi thường đến mức nào. Không biết việc chẳng hay đối phương là Lich... không, là Lich Lord đã sống suốt mấy nghìn năm rốt cuộc là điều may hay rủi cho anh ta nữa. Dù sao thì trong lòng Kuust cũng thầm thở phào vì đã may mắn không phải đối đầu với chủ nhân giọng nói ấy.
+Tận mắt chứng kiến rồi đích thân trải nghiệm cảnh tượng phi thực tế đến nhường này, ngay cả Kuust cũng hiểu được chủ nhân giọng nói ở tầng ngầm thứ năm là thứ quái vật phi thường đến mức nào. Chẳng biết không nhận ra đối phương là một Lich... không, một Lich Lord đã sống suốt mấy nghìn năm rốt cuộc là may hay rủi cho anh nữa. Dù sao thì trong lòng Kuust cũng thầm thở phào vì đã may mắn không phải đối đầu với chủ nhân giọng nói ấy.
 
 "Vậy ra đây là tầng ngầm thứ sáu à..."
 
@@ -54,7 +54,7 @@ Mỉm cười đáp lại Ara xong, những người khác cũng không nói gì
 
 "Vel, nhớ kiểm tra bẫy cẩn thận nhé. Thật lòng ta không muốn lại lạc vào không gian phía sau nữa đâu."
 
-"Rõ rồi. Mà tôi nghĩ thứ quái vật cỡ như lão ấy chẳng nhan nhản khắp nơi đâu."
+"Rõ rồi. Mà tôi nghĩ thứ quái vật cỡ như kẻ đó chẳng nhan nhản khắp nơi đâu."
 
 "Dù vậy cũng không được chủ quan. Mọi người hãy tập trung tinh thần lên. Chỉ cần vượt qua tầng này là sẽ tới tầng sâu nhất, nơi có điểm đến của chúng ta là Tế đàn kế thừa."
 
@@ -122,13 +122,13 @@ Chừng mười giây sau thì Rei nhận ra, rồi chỉ vài giây sau nữa, 
 
 Vừa dứt lời ra lệnh, Elena đã lập tức hét lên với Ara ở tiền vệ. Vốn hết lòng sùng bái Elena, Ara chẳng chút ngần ngại mà giơ ngay cây Rìu Cường Lực trên tay chắn về phía trước.
 
-Coonggg!
+Khoảnh khắc đó, một tiếng keng kim loại đanh gọn vang vọng khắp xung quanh. Ngay lập tức, cây ma thương của Kuust đâm vút ra theo phản xạ.
 
-Một tiếng kim loại đanh gọn vang lên. Đó là âm thanh của một đòn tấn công vừa giáng thẳng vào cây Rìu Cường Lực.
+Thế nhưng, ngọn ma thương phóng ra hòng chớp lấy sơ hở thoáng qua của kẻ vừa tấn công lại chẳng thể xuyên thủng mục tiêu mà chỉ đâm vào khoảng không.
 
-Keeeeeeng!
+"Cẩn thận, chúng nhanh lắm đấy!"
 
-Ngay sau đó, một âm thanh kim loại chói tai lại rít lên khắp xung quanh. Tiếng động ấy hệt như có thứ gì đó vừa quẹt mạnh lên bề mặt lưỡi chiếc Rìu Cường Lực của Ara.
+Tiếng hét của Kuust vang lên khắp xung quanh, ai nấy đều thủ sẵn vũ khí trên tay và cảnh giác đề phòng kẻ địch.
 
 Rồi dưới ánh sáng mờ ảo phản chiếu từ vách tường mê cung, một con sói khổng lồ dần lộ diện. Tính từ chân lên tới đỉnh đầu, chiều cao của nó ngang tầm ngực Rei, với hai chiếc nanh dài nhọn hoắt màu lục thẫm chìa ra từ hàm trên như loài hổ răng kiếm đã tuyệt chủng trên Trái Đất. Không những thế, từ lưng nó còn mọc ra hai xúc tu chia đều sang hai bên trái phải, đang uốn éo xé gió vun vút giữa không trung. Đòn tấn công nhắm vào Ara vừa rồi ắt hẳn là từ chiếc xúc tu đó.
 
@@ -142,7 +142,7 @@ Rei biết rõ về con quái vật trước mắt này. Như mọi khi, thông 
 
 Elena vừa hỏi vừa thủ sẵn liên tiếp kiếm ở tư thế có thể vung ra bất cứ lúc nào. Đáp lại câu hỏi đó, Rei cũng thủ sẵn Lưỡi Hái Tử Thần rồi cất tiếng nói đủ to để tất cả cùng nghe thấy.
 
-"Là Emerald Wolf. Từng con riêng lẻ chỉ là quái vật Hạng C, nhưng như mọi người thấy đấy, chúng có tập tính đi theo đàn, và khi đi theo đàn thì tương đương Hạng B. Vũ khí nguy hiểm nhất của chúng không phải nanh vuốt... mà là cặp xúc tu mọc sau lưng kia, nên xin hãy cẩn thận. Cứ coi chúng như những chiếc roi sống cũng được. Chúng có thể điều khiển cặp xúc tu đó một cách tự do để gây sát thương, rồi tung đòn kết liễu bằng cặp nanh. Ngoài ra thể chất của chúng cực kỳ cao và còn dùng được ma pháp hệ Phong sơ cấp nữa."
+"Là Emerald Wolf. Từng con riêng lẻ chỉ là quái vật Hạng C, nhưng như mọi người thấy đấy, chúng có tập tính đi theo đàn, và khi đi theo đàn thì tương đương Hạng B. Vũ khí lợi hại nhất của chúng không phải cặp nanh... mà là hai chiếc xúc tu mọc sau lưng kia, nên mọi người hãy cẩn thận. Cứ coi chúng như những chiếc roi sống cũng được. Chúng điều khiển hai xúc tu đó vô cùng linh hoạt để gây sát thương, rồi tung đòn kết liễu bằng cặp nanh. Ngoài ra năng lực thể chất của chúng rất cao và còn dùng được ma pháp hệ Phong sơ cấp nữa."
 
 "...Ra thế, đúng là đối thủ phiền toái thật đấy."
 
@@ -178,7 +178,7 @@ Sự nhanh nhẹn ấy một khi đụng phải Uy Áp Vương Giả do Set phá
 
 "Tiểu thư Elena, Set vừa dùng tiếng gầm rồi. Tốc độ của Emerald Wolf đã giảm, nhân lúc này hãy hạ bớt số lượng của chúng đi!"
 
-Chém đứt đôi chiếc xúc tu đang lao tới chỉ bằng một nhát Lưỡi Hái Tử Thần, Rei cất tiếng gọi Elena lúc này đang vung liên tiếp kiếm hỗ trợ cho Ara và Kuust ở phía sau lưng cậu.
+Chém phăng chiếc xúc tu đang lao tới chỉ bằng một nhát Lưỡi Hái Tử Thần, Rei cất tiếng gọi Elena lúc này đang vung liên tiếp kiếm hỗ trợ cho Ara và Kuust ở phía sau lưng cậu.
 
 "Ra vậy, là tiếng gầm à! May quá. Vel, lúc này thì chúng khó né tên hơn rồi đấy. Bắn đi!"
 
@@ -202,7 +202,7 @@ Hiểu ý Rei, Set kêu lên một tiếng ngắn rồi lập tức lao về ph�
 
 "Gà... Gaaaaa!"
 
-Thấy Rei chẳng chút do dự thu hẹp khoảng cách trong khi bản thân bị chậm chạp, con Emerald Wolf thoáng bối rối một thoáng, nhưng nó vẫn dùng xúc tu hòng chặn đòn. Dù sao vũ khí của Rei cũng chỉ là một cây lưỡi hái khổng lồ đơn độc, trong khi chúng có tới hai chiếc xúc tu. Đã thế, xúc tu của chúng còn có độ cứng đủ để làm bật văng những lưỡi kiếm thông thường. Con Emerald Wolf phán đoán như vậy cũng chẳng có gì sai... nếu như đối thủ của nó là một mạo hiểm giả bình thường, hoặc vũ khí Rei đang vung không phải là Lưỡi Hái Tử Thần. Với trọng lượng hơn 100 kg, lại được vung ra bởi sức mạnh thể chất vượt xa người thường của Rei, chưa kể Lưỡi Hái Tử Thần còn được truyền ma lực vào nên lưỡi hái sắc bén đến mức có thể dễ dàng chém đứt ngọt cả kim loại. Không biết tới sự tồn tại mang tên Rei chính là điều bất hạnh lớn nhất của con Emerald Wolf này.
+Thấy Rei chẳng chút do dự thu hẹp khoảng cách trong khi cử động của mình đang chậm đi, con Emerald Wolf thoáng bối rối, nhưng vẫn dùng xúc tu hòng chặn đòn. Dù sao vũ khí của Rei cũng chỉ là một cây lưỡi hái khổng lồ đơn độc, trong khi chúng có tới hai chiếc xúc tu. Đã thế, xúc tu của chúng còn có độ cứng đủ để làm bật văng những lưỡi kiếm thông thường. Con Emerald Wolf phán đoán như vậy cũng chẳng có gì sai... nếu như đối thủ của nó là một mạo hiểm giả bình thường, hoặc vũ khí Rei đang vung không phải là Lưỡi Hái Tử Thần. Nó nặng hơn 100 kg, lại do chính Rei dùng sức mạnh vượt xa người thường để vung lên; chưa kể khi được truyền ma lực vào, lưỡi của Lưỡi Hái Tử Thần sắc bén đến mức cắt kim loại ngọt xớt. Không biết Rei là ai chính là nỗi bất hạnh lớn nhất của con Emerald Wolf này.
 
 "Ẳng!"
 
@@ -218,4 +218,4 @@ Chém đứt đầu con Emerald Wolf xong, Rei lùi lại một khoảng để t
 
 Chiêu Hơi Thở Lửa của Set tuy chỉ mới đạt Lv.2, chưa phải cấp độ quá cao, nhưng có vẻ uy lực của nó vẫn vượt trội hoàn toàn so với thứ ma pháp hệ Phong đơn giản mà Emerald Wolf sử dụng.
 
-Còn ở phía sau Rei, đầu của một con Emerald Wolf khác cũng bị mũi kiếm liên tiếp kiếm biến hóa thành dạng roi đâm xuyên thủng đoạt mạng, trong khi con cuối cùng bị chia làm hai nửa trên dưới sau đòn phối hợp của Kuust, Ara và Vel, với nhát chém từ cây Rìu Cường Lực giáng ngang hông của Ara.
+Còn ở phía sau Rei, một con Emerald Wolf khác cũng mất mạng khi bị mũi thanh liên tiếp kiếm hóa dạng roi đâm xuyên đầu, trong khi con cuối cùng hứng trọn đòn phối hợp của Kuust, Ara và Vel rồi bị Ara vung Rìu Cường Lực bổ ngang thân, cắt đôi thành hai nửa trên dưới.

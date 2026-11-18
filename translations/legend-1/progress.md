@@ -98,9 +98,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 91 |  | Chapter_0091 - 継承の祭壇 - 第91話.txt | 継承の祭壇 - 第91話 | reviewed |  |
 | 92 |  | Chapter_0092 - 継承の祭壇 - 第92話.txt | 継承の祭壇 - 第92話 | reviewed |  |
 | 93 |  | Chapter_0093 - 継承の祭壇 - 第93話.txt | 継承の祭壇 - 第93話 | reviewed |  |
-| 94 |  | Chapter_0094 - 継承の祭壇 - 第94話.txt | 継承の祭壇 - 第94話 | done |  |
-| 95 |  | Chapter_0095 - 継承の祭壇 - 第95話.txt | 継承の祭壇 - 第95話 | done |  |
-| 96 |  | Chapter_0096 - 継承の祭壇 - 第96話.txt | 継承の祭壇 - 第96話 | done |  |
+| 94 |  | Chapter_0094 - 継承の祭壇 - 第94話.txt | 継承の祭壇 - 第94話 | reviewed |  |
+| 95 |  | Chapter_0095 - 継承の祭壇 - 第95話.txt | 継承の祭壇 - 第95話 | reviewed |  |
+| 96 |  | Chapter_0096 - 継承の祭壇 - 第96話.txt | 継承の祭壇 - 第96話 | reviewed |  |
 | 97 |  | Chapter_0097 - 継承の祭壇 - 第97話.txt | 継承の祭壇 - 第97話 | todo |  |
 | 98 |  | Chapter_0098 - 継承の祭壇 - 第98話.txt | 継承の祭壇 - 第98話 | todo |  |
 | 99 |  | Chapter_0099 - 継承の祭壇 - 第99話.txt | 継承の祭壇 - 第99話 | todo |  |

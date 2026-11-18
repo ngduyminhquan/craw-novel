@@ -2,7 +2,7 @@
 
 "Được rồi, gỡ bẫy xong xuôi!"
 
-Vel tuyên bố như vậy sau khi bắt tay vào gỡ bẫy được chừng một tiếng đồng hồ.
+Vel cất tiếng báo như vậy sau khi bắt tay vào gỡ bẫy được chừng một tiếng đồng hồ.
 
 Phiên cảnh giới cũng đã lần lượt đổi từ Rei sang Ara, rồi từ Ara sang Kuust; ngay khi Elena đang tính đến lượt mình đổi ca thì giọng nói của Vel vang khắp xung quanh.
 
@@ -28,13 +28,13 @@ Kuust cũng cười trừ rồi đưa bi đông nước lên miệng uống.
 
 "...Cô chỉ giỏi nói, chẳng qua cô không tốn sức là nhờ hiệu ứng của Đạo Cụ Ma Thuật thôi chứ gì."
 
-Trước giọng điệu có phần trêu chọc của Ara, Vel nhìn cô với ánh mắt cạn lời. Về phần Ara, đây hẳn là dịp để cô trả đũa những lần hay bị anh trêu chọc.
+Trước giọng điệu có phần trêu chọc của Ara, Vel nhìn cô bằng nửa con mắt đầy ngán ngẩm. Về phần Ara, đây hẳn là dịp để cô trả đũa những lần hay bị anh trêu chọc.
 
 Dõi theo màn đối đáp của ba người họ, Rei tựa lưng vào Set đang nằm trên sàn cảnh giới xung quanh rồi vuốt ve lưng nó.
 
 "Được rồi, chuẩn bị tiếp tục thám hiểm thôi nào."
 
-Elena cất lời tuyên bố sau khi Vel đã nghỉ ngơi được khoảng ba mươi phút.
+Elena lên tiếng bảo vậy sau khi Vel đã nghỉ ngơi được khoảng ba mươi phút.
 
 Trước lời dặn đó, mọi người đều gật đầu, đứng dậy và vào tư thế thủ sẵn vũ khí.
 
@@ -64,7 +64,7 @@ Ara tròn mắt kinh ngạc vừa đi tiếp vừa nói, đúng lúc đó Kuust 
 
 "Mà trần nhà ở đây sập thì chẳng phải sàn tầng năm cũng sẽ sập theo luôn sao?"
 
-"Ai mà biết được chứ. Tới mức đó thì tôi cũng chịu, cơ mà đây là cái hầm ngục có cả rừng cây lẫn sông chảy bên trong đấy biết không? Giờ có ai bảo trần ở đây sập cũng chẳng mảy may ảnh hưởng gì tới tầng trên thì tôi cũng chẳng ngạc nhiên đâu."
+"Ai mà biết được chứ. Tới mức đó thì tôi cũng chịu, cơ mà đây là cái hầm ngục có cả rừng cây lẫn sông chảy bên trong đấy biết không? Giờ có ai bảo trần ở đây sập cũng chẳng ảnh hưởng chút nào tới tầng trên thì tôi cũng chẳng ngạc nhiên đâu."
 
 "...Cũng đúng."
 
@@ -82,7 +82,7 @@ Rei cũng đáp lời Elena trong khi luôn sẵn sàng vung Lưỡi Hái Tử T
 
 "Ừ. Xét lượng bẫy dày đặc từ lúc tiến vào tầng này đến giờ, cái bẫy vừa rồi hẳn là bài kiểm tra cuối cùng."
 
-"...Tiểu thư Elena, có khi chuẩn rồi đấy ạ."
+"...Tiểu thư Elena, có khi chuẩn rồi đấy."
 
 Nghe cuộc đối đáp giữa Elena và Rei, Vel bất chợt thốt lên khi phát hiện ra một thứ ở phía trước tầm mắt.
 
@@ -120,11 +120,11 @@ Ngoại hình đó thì ai nhìn vào cũng sẽ phán ngay là Goblin, thế nh
 
 Trong lúc Rei còn mải suy nghĩ, con Goblin trong phòng đã phát hiện ra nhóm Rei và cầm cây côn chạy ùa tới.
 
-Nhìn cảnh tượng đó, hai người ở hàng tiền vệ là Kuust và Vel bất giác thấy nản, bèn bước lên phía trước một bước.
+Nhìn cảnh tượng đó, hẳn là cũng bất giác thấy chưng hửng nên hai người ở hàng tiền vệ là Kuust và Vel liền bước lên phía trước một bước.
 
-"Tiểu thư Elena, lũ Goblin cỏn con thế này cứ để bọn tôi xử lý là đủ rồi."
+"Tiểu thư Elena, cỡ Goblin cỏn con thế này cứ để bọn tôi xử lý là đủ rồi."
 
-"...Thấy cứ sai sai thế nào ấy... Mà thôi, có Kuust ở đây thì lũ Goblin cỡ này xử lý kiểu gì chẳng xong."
+"...Thấy cứ sai sai thế nào ấy... Mà thôi, có Kuust ở đây thì cỡ Goblin thế này xử lý kiểu gì chẳng xong."
 
 Dù cảm thấy có điều bất thường y như Rei, Vel vẫn giương cung lên để yểm trợ Kuust đang tiến lên phía trước.
 
@@ -148,7 +148,7 @@ Con Goblin vốn dĩ chỉ cao ngang hông Rei. Ngay lúc Kuust còn mang suy ng
 
 Không, đó chẳng phải bức tường. Đó là một bóng người khổng lồ với chiều cao lên tới sáu mét.
 
-Spriggan. Bình thường chúng sống với kích thước nhỏ bé ngỡ như Goblin, nhưng hễ vào trận chiến là bản chất người khổng lồ sẽ lộ ra. Đó là loài quái vật mang hai hình thái: người khổng lồ và tiểu nhân xấu xí. Dù là một nhánh của loài người khổng lồ, chúng lại sở hữu trí khôn thấp kém cùng tính hung hãn cực kỳ thích ăn thịt người, là loài quái vật vô cùng hung tợn. Hạng quái vật của nó là Hạng B, ngang hàng với Orc King mà Rei từng hạ gục tại bộ lạc Orc.
+Spriggan. Bình thường chúng sống với kích thước nhỏ bé ngỡ như Goblin, nhưng hễ vào trận chiến là bản chất người khổng lồ sẽ lộ ra. Đó là loài quái vật mang hai hình thái: người khổng lồ và gã lùn xấu xí. Dù là một nhánh của loài người khổng lồ, chúng lại sở hữu trí khôn thấp kém cùng tính hung hãn cực kỳ thích ăn thịt người, là loài quái vật vô cùng hung tợn. Hạng quái vật của nó là Hạng B, ngang hàng với Orc King mà Rei từng hạ gục tại bộ lạc Orc.
 
 Về khoản thích ăn thịt người và tính hung bạo thì nó khá giống con Ogre mà Rei và Set từng chạm trán ở tầng bốn, nhưng khác với Ogre, nó lại có độ xảo quyệt nhất định nên cực kỳ khó đối phó. Dù vậy, việc nó không thể thi triển ma pháp như những giống người khổng lồ cấp cao hơn cũng là một điều may mắn cho nhóm Elena.
 
@@ -166,7 +166,7 @@ Kuust cũng lập tức hoàn hồn rồi nhảy lùi về phía sau, cùng lúc
 
 "Đùa nhau à!? Tên bắn không xuyên thì da nó làm bằng cái quái gì thế không biết!"
 
-Thân hình khổng lồ xem như một tấm bia ngắm lý tưởng, cả năm mũi tên bắn ra đều găm trúng thân mình Spriggan, nhưng rồi tất cả đều rơi rụng xuống sàn mà không để lại nổi một vết xước trên da nó.
+Thấy thân hình khổng lồ của nó chẳng khác gì một tấm bia ngắm lý tưởng, Vel bắn liền năm mũi tên; cả năm mũi đều trúng đích trên thân mình Spriggan, nhưng rồi tất cả đều rơi lộp bộp xuống sàn mà không để lại nổi một vết xước trên da nó.
 
 "Có bắn thì nhắm vào mặt ấy, đừng bắn vào người! Nhắm trúng mắt hay miệng thì may ra mới gây sát thương được!"
 
@@ -174,7 +174,7 @@ Vừa thủ sẵn Lưỡi Hái Tử Thần, Rei vừa hét lớn khi lướt qua
 
 "Gaaaahhh!"
 
-Nhận thấy Rei và Set đang lao thẳng về phía mình, lại thấy cả Ara cũng đang xông tới từ một hướng chếch sang bên cạnh, Spriggan gầm lên một tiếng đầy bực bội rồi vung cao cây côn trên tay.
+Trái ngược với Kuust vừa nhảy lùi về phía sau, Rei và Set lại đang lao thẳng về phía nó; nhận thấy cả Ara cũng đang xông tới từ một hướng hơi tách biệt với nhóm Rei, Spriggan gầm lên một tiếng đầy bực bội rồi vung cao cây côn trên tay.
 
 "Ara, tôi sẽ thu hút sự chú ý của nó, cô nhắm vào gân chân đi! Với sức mạnh của cô cùng Rìu Cường Lực thì chắc chắn có thể gây sát thương lên Spriggan đấy!"
 
@@ -196,7 +196,7 @@ Spriggan cũng chẳng buồn bận tâm tới vết thương cỏn con cỡ đ�
 
 "Gừưưưư!"
 
-Set lập tức kích hoạt Uy Áp Vương Giả lên Spriggan. Né đòn đánh đã bị giảm tốc bằng cách nhảy sang bên, Rei nhảy phắt lên thân cây côn vừa bổ xuống, chạy dọc theo cánh tay nó rồi vung Lưỡi Hái Tử Thần nhắm thẳng vào cổ Spriggan. Thế nhưng...
+Set lập tức kích hoạt Uy Áp Vương Giả lên Spriggan. Rei nhảy sang bên né đòn đánh đã chậm đi, rồi phóng thẳng lên thân cây côn vừa bổ xuống, chạy dọc theo cánh tay nó và vung Lưỡi Hái Tử Thần nhắm vào cổ Spriggan. Thế nhưng...
 
 "Gaaahhh!"
 
@@ -206,7 +206,7 @@ Bản năng mách bảo đòn đánh từ Lưỡi Hái Tử Thần của Rei ngu
 
 Thoáng hiện lên trong tâm trí hình ảnh con Ogre từng đụng độ ở tầng bốn, Rei đạp mạnh vào vai Spriggan để thoát ra khỏi tầm đánh của nó.
 
-Vừa mất bàn tay vừa vung vẩy cánh tay trái đang túa máu định đuổi theo Rei, Spriggan bất ngờ bị thanh liên tiếp kiếm do Elena điều khiển lao tới cực nhanh. Vẽ nên những quỹ đạo phức tạp như một con rắn uốn lượn giữa không trung, mũi kiếm đâm thẳng vào ngực Spriggan, nơi mà ngay cả tên của Vel cũng chẳng thể xuyên qua.
+Mất đi bàn tay, Spriggan vung cánh tay trái đang túa máu từ cổ tay định truy kích Rei, nhưng đúng lúc đó thanh liên tiếp kiếm do Elena điều khiển đã lao vút tới. Vẽ nên những quỹ đạo phức tạp như một con rắn uốn lượn giữa không trung, mũi kiếm đâm thẳng vào ngực Spriggan, nơi mà ngay cả tên của Vel cũng chẳng thể xuyên qua.
 
 Đúng khoảnh khắc đó. Ngay khi nó khựng người lại trước đòn đánh bất ngờ, tiếng hét của Elena vang rền khắp không gian.
 
