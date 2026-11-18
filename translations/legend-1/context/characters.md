@@ -58,7 +58,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 109: Thẻ Hội Hạng D; cùng nhóm Elena về tới thành phố Gilm an toàn và đến dinh thự của Bá tước biên cảnh Rowlocks.
+- Trạng thái tính đến chương 110: Thẻ Hội Hạng D; hoàn thành ủy thác hộ vệ Elena, thành tích thăng Hạng C tạm bị đóng băng để bảo mật chuyện Vel phản bội nhưng được Daska tăng thêm thù lao; đã về quán trọ nghỉ ngơi.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -213,7 +213,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
 - Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4; được Elena mua lại Rìu Cường Lực (Đạo Cụ Ma Thuật) từ Rei tặng cho làm vũ khí chính.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
-- Trạng thái tính đến chương 109: Sở hữu Rìu Cường Lực do Elena mua tặng từ Rei; cùng Elena và Rei về tới thành phố Gilm an toàn và đến dinh thự của Bá tước biên cảnh Rowlocks.
+- Trạng thái tính đến chương 110: Sở hữu Rìu Cường Lực; đã chính thức xin lỗi Rei về hiểu lầm lúc mới gặp và cảm tạ ơn cứu mạng; nghỉ đêm tại dinh thự Rowlocks cùng Elena chuẩn bị lên đường.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
@@ -223,7 +223,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 109: Đã hấp thụ sức mạnh của Ancient Dragon; cùng Rei và Ara về tới thành phố Gilm an toàn và đến dinh thự của Bá tước biên cảnh Rowlocks.
+- Trạng thái tính đến chương 110: Hấp thụ 7 phần sức mạnh Ma Thạch Ancient Dragon (bộc phát ma lực uy áp); đã báo cáo với Daska về kết quả hầm ngục và sự phản bội của Vel; nghỉ đêm tại dinh thự Rowlocks, chuẩn bị khởi hành lúc 9 giờ sáng mai.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
