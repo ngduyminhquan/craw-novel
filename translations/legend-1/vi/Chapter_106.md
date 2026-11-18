@@ -52,7 +52,7 @@ Nói rồi, cô nhanh mắt nhìn quanh để chắc chắn không có ai, sau �
 
 "Dù sao thì tuy chưa trọn vẹn, ta cũng vừa hấp thụ sức mạnh của Ancient Dragon rồi tức tốc thoát khỏi hầm ngục ngay. Quả thực là mệt mỏi rã rời."
 
-"Dẫu vậy tiểu thư vẫn bình an vô sự thì đúng là chỉ có tiểu thư Elena mới làm được. ...Phải chi Kuust cũng đang đứng ở đây..."
+"Thế mà tiểu thư vẫn bình an vô sự thì đúng là chỉ có tiểu thư Elena mới làm được. ...Phải chi Kuust cũng đang đứng ở đây..."
 
 Tiếng nghiến răng kèn kẹt của Ara vang lên trong không gian.
 
@@ -110,7 +110,7 @@ Cậu nhắm mắt khẽ lẩm bẩm.
 
 Nội dung ủy thác là hộ tống Elena, cô con gái duy nhất của Công tước Kerebel kiêm Công Chúa Tướng Quân lừng danh. Chí ít thì có thể nói cậu đã hoàn thành việc hộ tống ấy.
 
-Thế nhưng, nội bộ đội lại xuất hiện kẻ phản bội, và kẻ phản bội đó đã cướp đi sinh mạng của một thành viên mà quan hệ giữa cậu với anh ta chẳng hề êm đẹp — chính xác hơn là anh ta còn chẳng thèm thừa nhận sự tồn tại của cậu.
+Thế nhưng, nội bộ đội lại xuất hiện kẻ phản bội, và kẻ phản bội đó đã cướp đi sinh mạng của một thành viên mà quan hệ giữa cậu với anh ta chẳng hề êm đẹp, hay đúng hơn là anh ta còn chẳng coi sự có mặt của cậu ra gì.
 
 (Mình phải... mạnh hơn nữa mới được.)
 
@@ -124,11 +124,11 @@ Elena lẩm bẩm, đọc lại lá thư lần cuối để kiểm tra rồi b�
 
 Ara khăng khăng đòi thức đợi Elena viết xong thư, nhưng có vẻ sự mệt mỏi sau chuyến đi hầm ngục là thứ không thể cưỡng lại nổi. Nhìn cô buông lỏng chiếc Rìu Cường Lực vốn ôm khư khư, đổ ập xuống giường ngủ say như chết, Elena bất giác mỉm cười.
 
-Dù tính cách cô cấp dưới kiêm bạn thân này có phần hơi bốc đồng, nông nổi, nhưng tình cảm yêu mến thuần khiết mà cô dành cho Elena là điều không thể bàn cãi. Với thân phận tiểu thư Công tước của Elena, bấy nhiêu thôi cũng đã là một sự tồn tại quý giá không gì sánh bằng.
+Dù tính cách cô cấp dưới kiêm bạn thân này có phần hơi bốc đồng, nông nổi, nhưng tình cảm yêu mến thuần khiết mà cô dành cho Elena là điều không thể bàn cãi. Với một tiểu thư Công tước như Elena, chỉ bấy nhiêu thôi cũng đủ khiến Ara trở thành người quý giá không gì sánh bằng.
 
 (Kuust, mối oan hận của cậu, đích thân ta nhất định sẽ đòi lại. Đó là điều mà người cấp trên như ta phải làm.)
 
-Nói thật lòng, thứ tình cảm gần như sùng bái mà Kuust hướng về mình đôi khi cũng khiến cô phát ngấy. Nhưng tất cả những điều đó cũng là minh chứng cho thấy anh ta trân trọng cô đến nhường nào. Kuust là một quý tộc điển hình, chẳng xem ai ngoài quý tộc là con người, và cũng vì thế mà gây ra không ít rắc rối. Nhưng dẫu vậy, anh ta cũng không đáng phải bỏ mạng ở một nơi thế này... lại còn bị chính kẻ mình tin là đồng đội, kề vai sát cánh bấy lâu điều khiển cho đến chết.
+Nói thật lòng, thứ tình cảm gần như sùng bái mà Kuust hướng về cô đôi khi cũng khiến cô phát ngấy. Nhưng tất cả những điều đó cũng là minh chứng cho thấy anh ta trân trọng cô đến nhường nào. Kuust là một quý tộc điển hình, chẳng xem ai ngoài quý tộc là con người, và cũng vì thế mà gây ra không ít rắc rối. Nhưng dù vậy, anh ta cũng không đáng phải bỏ mạng ở một nơi thế này... lại còn bị chính kẻ mình tin là đồng đội, kề vai sát cánh bấy lâu điều khiển cho đến chết.
 
 "Không, giờ chẳng phải lúc chìm đắm trong cảm xúc. Phải gửi thư đi càng sớm càng tốt."
 
@@ -136,11 +136,11 @@ Cô lẩm bẩm, nhờ chủ quán rồi đưa năm đồng vàng cho người d
 
 Vào thời đại này, ngoại trừ Đạo Cụ Ma Thuật kết nối giữa các Hội với nhau, hầu hết việc liên lạc đều chủ yếu thông qua thư từ. Vì thế, các quán trọ cao cấp thường ký hợp đồng với những người dùng ma pháp triệu hồi để chuyển thư đi nhanh nhất có thể.
 
-Đặc biệt là quán trọ này nằm ở ngôi làng hình thành quanh hầm ngục, mà quy mô của nó thì đã có thể coi là một thị trấn. Thành thử, các đại thương nhân hay quý tộc tìm đến đây vì nhắm vào tài nguyên thu được từ hầm ngục đôi khi sẽ có nhu cầu liên lạc khẩn cấp vì lý do nào đó; trong những trường hợp ấy, những người triệu hồi hoặc thuần hóa quái vật biết bay, chim săn mồi, hay đơn giản là các loài chim sẽ nhận nhiệm vụ chuyển phát thư. Lẽ dĩ nhiên, do ma pháp sư phải cử quái vật mình sai khiến đi xa nên trong thời gian đó họ không thể làm việc với tư cách mạo hiểm giả, dẫn đến dịch vụ này có giá rất đắt đỏ.
+Đặc biệt là quán trọ này nằm ở ngôi làng hình thành quanh hầm ngục, mà quy mô của nó thì đã có thể coi là một thị trấn. Thành thử, các đại thương nhân hay quý tộc tìm đến đây vì nhắm vào tài nguyên thu được từ hầm ngục đôi khi sẽ có nhu cầu liên lạc khẩn cấp vì lý do nào đó. Trong những trường hợp ấy, những người triệu hồi hoặc thuần hóa quái vật biết bay, chim săn mồi, hay đơn giản là các loài chim sẽ nhận nhiệm vụ chuyển phát thư. Lẽ dĩ nhiên, do ma pháp sư phải cử quái vật mình sai khiến đi xa nên trong thời gian đó họ không thể làm việc với tư cách mạo hiểm giả, dẫn đến dịch vụ này có giá rất đắt đỏ.
 
-Dẫu vậy, thông thường một đồng vàng đã là cùng, thế nhưng lần này số tiền Elena chi trả lên tới năm đồng vàng. Sở dĩ như vậy là vì cô đã yêu cầu một ma pháp sư trình độ cao phải giao thư hỏa tốc và tuyệt đối an toàn.
+Có điều, thông thường một đồng vàng đã là cùng, thế mà lần này số tiền Elena chi trả lên tới năm đồng vàng. Sở dĩ như vậy là vì cô đã yêu cầu một ma pháp sư trình độ cao phải giao thư hỏa tốc và tuyệt đối an toàn.
 
-"Nào, vấn đề lớn nhất là lá thư cũng đã gửi xong. Vậy thì mình cũng nghỉ một chút... Hửm?"
+"Nào, vấn đề lớn nhất là lá thư cũng đã gửi xong. Vậy thì ta cũng nghỉ một chút... Hửm?"
 
 Vừa vươn vai, cô bất chợt nhìn ra ngoài cửa sổ thì thấy bóng dáng Rei và Set đang ngủ say bên gốc cây. Đó là ai thì cô nhận ra ngay, bởi dạo gần đây họ luôn hành động cùng nhau. Hơn nữa, tuy chưa trọn vẹn nhưng sau Nghi thức kế thừa, cô đã tiếp nhận sức mạnh của Ancient Dragon. Thị lực của cô đương nhiên cũng tinh tường hơn trước gấp bội phần.
 
@@ -164,7 +164,7 @@ Một thiếu niên kém mình chừng năm tuổi, nhưng lại sở hữu sứ
 
 Cô thầm nhủ trong lòng, rồi nhẹ nhàng tiến lại gần ngắm nhìn Rei đang ngủ.
 
-Chiếc mũ trùm áo choàng thường đội có lẽ vì vướng víu khi ngủ nên đã được kéo xuống, để lộ ra mái tóc đỏ rực... đỏ thắm như màu đỏ tươi.
+Chiếc mũ trùm áo choàng thường đội có lẽ vì vướng víu khi ngủ nên đã được kéo xuống, để lộ ra mái tóc màu đỏ... hay đúng hơn phải gọi là đỏ thẫm.
 
 Đôi mắt lúc này đang khép lại vốn xanh biếc như bầu trời xanh, tạo nên sự tương phản đầy ấn tượng với mái tóc ấy.
 
@@ -202,7 +202,7 @@ Không biết có nên gọi là trong cái rủi có cái may không, xung quan
 
 Trước câu hỏi của Rei, Elena vừa vuốt ve lớp lông mượt như lụa của Set vừa gật đầu.
 
-"À. Chuyện đó ta đã gửi cho phụ thân rồi. Người ta đã nhờ triệu hồi con chim bốn cánh nổi tiếng bay nhanh của quán trọ này để lập tức mang thư đi rồi. ...Mà này, dù chưa đến mức lạnh nhưng cũng sắp sang thu rồi đấy. Cứ ngủ ngoài trời thế này khéo cảm lạnh đấy."
+"À. Chuyện đó ta đã gửi cho phụ thân rồi. Ta đã nhờ triệu hồi con chim bốn cánh nổi tiếng bay nhanh của quán trọ này để lập tức mang thư đi rồi. ...Mà này, dù chưa đến mức lạnh nhưng cũng sắp sang thu rồi đấy. Cứ ngủ ngoài trời thế này khéo cảm lạnh đấy."
 
 "Tôi đâu có ốm yếu đến mức cảm lạnh vì ngần này. Vả lại còn có Set ở đây nữa."
 

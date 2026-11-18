@@ -24,11 +24,11 @@ Rảo bước chừng vài phút thì tới trước cửa phòng làm việc, a
 
 Bên trong là một căn phòng xa hoa, bài trí những món đồ nội thất có giá trị lên tới vài đồng bạch kim, thậm chí là vài đồng quang kim.
 
-Thế nhưng nơi này không hề mang cái vẻ kệch cỡm của kẻ mới giàu; từ sofa, bàn làm việc, ghế ngồi cho đến giá sách hay bàn trà, tất cả đều toát lên vẻ trang nhã đầy tinh tế. Những bức tranh treo trên tường cũng là tác phẩm của các danh họa nổi tiếng, giá trị của mỗi bức đủ để một thường dân sống sung túc an nhàn suốt mấy chục năm trời.
+Thế nhưng nơi này không hề mang cái vẻ kệch cỡm của kẻ mới giàu, mà từ sofa, bàn làm việc, ghế ngồi cho đến giá sách hay bàn trà, tất cả đều toát lên vẻ trang nhã đầy tinh tế. Những bức tranh treo trên tường cũng là tác phẩm của các danh họa nổi tiếng, giá trị của mỗi bức đủ để một thường dân sống sung túc an nhàn suốt mấy chục năm trời.
 
 Và ngồi sau bàn làm việc phía trong phòng, đang chăm chú đọc tài liệu là một người đàn ông tầm năm mươi tuổi. Nhân vật ấy chính là Công tước Liberte Kerebel, người nắm giữ quyền lực bậc nhất Vương quốc Mireana, kẻ thậm chí có thể được xem là vị vua thứ hai của đất nước.
 
-Vẻ ngoài của ông tuy mảnh khảnh nhưng tuyệt đối không hề yếu ớt. Trái lại, khí chất uy nghiêm của một bậc quân vương nhiều năm thống trị toát ra từ chính con người ông. Quanh khóe miệng là bộ râu rậm rạp, đôi mắt xếch tương tự như cô con gái Elena, cùng ánh nhìn sắc bén thể hiện rõ ý chí kiên định của Công tước Kerebel.
+Vẻ ngoài của ông tuy mảnh khảnh nhưng tuyệt đối không hề yếu ớt. Trái lại, từ con người ông toát ra sự uy nghiêm của một vị Công tước đã đứng trên đỉnh cao quyền lực suốt nhiều năm. Quanh khóe miệng là bộ râu rậm rạp, đôi mắt xếch tương tự như cô con gái Elena, cùng ánh nhìn sắc bén thể hiện rõ ý chí kiên định của Công tước Kerebel.
 
 "Xin thứ lỗi. Đây là thư do tiểu thư gửi tới ạ."
 
@@ -42,7 +42,7 @@ Nói với theo bóng lưng viên quản gia đang bước ra ngoài, ông tiế
 
 [Khai Phong]
 
-Bức thư được ếm ma pháp để chỉ người mang luồng ma lực nhất định mới có thể mở được; sau khi phá phong ấn, ông nhanh chóng lướt qua nội dung... rồi đọc lại thêm vài lần.
+Bức thư được ếm ma pháp để chỉ người mang luồng ma lực nhất định mới có thể mở được. Sau khi mở phong bì, ông nhanh chóng lướt qua nội dung... rồi đọc lại thêm vài lần.
 
 "...Tử tước Sails đổi phe sao."
 
@@ -78,7 +78,7 @@ Chưa đầy một phút để đọc hết, anh thở dài một hơi thật s�
 
 "Đúng vậy. ...Filma, ngươi có thể dẫn kỵ sĩ đoàn đi tiêu diệt Tử tước Sails trước khi hắn đào tẩu sang Đế quốc Bestia không?"
 
-Trước câu hỏi đó, anh trầm ngâm vài giây rồi lắc đầu.
+Trước câu hỏi đó, anh đắn đo vài giây rồi lắc đầu.
 
 "E rằng khó thưa ngài. Từ đây tới lãnh địa Tử tước Sails, phi ngựa nhanh cỡ nào cũng phải mất hai ngày. Mà một khi đã phản bội Vương quốc Mireana thì Tử tước Sails hẳn đã chuẩn bị cho tình huống xấu nhất. Nếu vậy, đuổi kịp được thì cũng đã ở rất gần biên giới Đế quốc Bestia rồi. Khi ấy thời gian có thể giao chiến gần như không có, hoặc nếu có thì cũng cực kỳ ngắn ngủi. Chưa kể không khéo phía Đế quốc Bestia còn phái quân ra tiếp ứng nữa."
 
@@ -104,7 +104,7 @@ Kỵ Sĩ Rồng. Đó là những hiệp sĩ cưỡi Phi Long đúng như tên g
 
 Dõi theo bóng lưng Filma cúi chào rồi bước ra khỏi phòng làm việc, Công tước Kerebel gạt bức thư của con gái sang một bên và cầm lấy một tờ giấy khác.
 
-Quả thực nội dung bức thư con gái gửi về là vô cùng quan trọng, nhưng với người nắm giữ lãnh địa rộng lớn như Công tước Kerebel thì ngoài việc đó ra vẫn còn hàng tá công vụ trọng đại khác cần xử lý. Trước hết, ông cầm bút lên để viết thư báo tin tử trận cho gia đình Kuust—đội trưởng đội hộ vệ của Elena, tức Hầu tước Brassin mà ông hết mực tin cậy.
+Quả thực nội dung bức thư con gái gửi về là vô cùng quan trọng, nhưng với người nắm giữ lãnh địa rộng lớn như Công tước Kerebel thì ngoài việc đó ra vẫn còn hàng tá công vụ trọng đại khác cần xử lý. Trước hết, ông cầm bút lên để viết thư báo tin tử trận cho gia đình của Kuust, đội trưởng đội hộ vệ của Elena, tức Hầu tước Brassin mà ông hết mực tin cậy.
 
 "Hừ, đúng là đồ ngu xuẩn."
 
@@ -178,7 +178,7 @@ Nghe những lời của Elena, Ara đang ngồi nhấp trà bên cạnh cũng n
 
 "Tôi hiểu ý Ara, nhưng cơ bản là tôi không hợp với quý tộc. Elena và Ara chỉ là ngoại lệ thôi, chứ cứ nhớ lại mối quan hệ giữa tôi với Kuust mà xem. Đó mới là chuyện thường thấy."
 
-Kuust từng ghét cay ghét đắng Rei đến mức không muốn hít thở chung một bầu không khí và ra mặt khinh bỉ cậu, trong khi Rei cũng chẳng buồn xem Kuust là đối thủ ngang hàng, chỉ coi anh ta là một tên quý tộc ngốc nghếch với lòng tự cao phình to mà thực lực chẳng tới đâu.
+Kuust từng ghét cay ghét đắng Rei đến mức không muốn hít thở chung một bầu không khí và ra mặt khinh bỉ cậu, trong khi Rei cũng chẳng buồn xem Kuust là đối thủ ngang hàng, chỉ coi anh ta là một tên quý tộc ngốc nghếch chỉ được cái tự cao tự đại chứ thực lực chẳng tới đâu.
 
 Dù ở trận chiến cuối cùng với Vel cái nhìn của hai người về nhau đã có phần chuyển biến tốt hơn, nhưng cả Elena lẫn Ara đều không được chứng kiến cảnh đó.
 
@@ -200,9 +200,9 @@ Rằng chỉ một cá thể ma thú duy nhất cũng đủ sức mạnh áp đ�
 
 Kể từ khi nghe câu chuyện đó, bên trong Rei trào dâng một khát khao mãnh liệt hơn bao giờ hết. Rằng bản thân cậu và Set rốt cuộc có thể mạnh tới mức nào.
 
-(Nếu tin theo lời Zepairu thì lượng ma lực trong người mình hẳn phải vô cùng to lớn. Tức là Set, vốn được sinh ra từ chính nguồn ma lực đó, nếu chỉ xét về tiềm năng thì chắc chắn còn vượt trội hơn cả những quái vật từng áp đảo cả quân đội một quốc gia được tạo ra từ Ma Thú Thuật của Zepairu. Cần phải hấp thụ thêm nhiều Ma Thạch hơn nữa, đồng thời tích lũy thêm nhiều kinh nghiệm chiến đấu. Bản thân mình cũng vậy, phải học cách sử dụng thuần thục nguồn ma lực đang ngủ say trong cơ thể này.)
+(Nếu tin theo lời Zepairu thì lượng ma lực trong người mình hẳn phải vô cùng to lớn. Tức là Set, vốn được sinh ra từ chính nguồn ma lực đó, nếu chỉ xét về tiềm năng thì chắc chắn còn vượt trội hơn cả những ma thú được tạo ra từ Ma Thú Thuật của Zepairu, vốn chỉ một con cũng từng áp đảo cả quân đội một quốc gia. Cần phải hấp thụ thêm nhiều Ma Thạch hơn nữa, đồng thời tích lũy thêm nhiều kinh nghiệm chiến đấu. Bản thân mình cũng vậy, phải học cách sử dụng thuần thục nguồn ma lực đang ngủ say trong cơ thể này.)
 
-Khẽ liếc mắt sang phía Elena.
+Cậu khẽ liếc mắt sang phía Elena.
 
 (Phải, cũng là để không bao giờ khiến những người đồng đội quan trọng rơi vào nguy hiểm thêm một lần nào nữa.)
 

@@ -1,6 +1,6 @@
 # Chương 107: Tế đàn kế thừa (107)
 
-Đang nói chuyện ở phía sau quán trọ, việc cụm từ [sinh mệnh nhân tạo] bất ngờ thốt ra từ miệng Elena khiến Rei không khỏi lộ vẻ kinh ngạc.
+Rei và Elena đang nói chuyện ở phía sau quán trọ thì cô bất ngờ nhắc tới cụm từ "sinh mệnh nhân tạo", khiến Rei thoáng sững người kinh ngạc.
 
 "...Cô nghe chuyện đó ở đâu?"
 
@@ -48,9 +48,9 @@ Chắc chắn là chẳng ai tin đâu, trước nụ cười giễu cợt của
 
 "Cũng phải. Ngay cả ta, nếu lúc đó không nghe cuộc trò chuyện giữa Rei và ngài Grimm thì chắc cũng chẳng đời nào tin. Huống chi người cứu vớt linh hồn của Rei rồi đưa tới thế giới này lại là Zepairu, kẻ bị gọi là Ma Nhân nữa chứ."
 
-"Đến tôi còn chẳng ngờ thế giới này đã trôi qua mấy nghìn năm kể từ khi Zepairu qua đời nữa là. Dù tiếp nhận kiến thức của Zepairu, nhưng sau mấy nghìn năm thì cũng có khối kiến thức chẳng còn dùng được nữa rồi."
+"Đến tôi còn chẳng ngờ thế giới này đã trôi qua mấy nghìn năm kể từ khi Zepairu qua đời nữa là. Dù nhận được kiến thức của Zepairu, nhưng sau mấy nghìn năm thì cũng có khối kiến thức chẳng còn dùng được nữa rồi."
 
-Vừa vuốt lưng Set – chú Griffin đang nằm làm đệm sofa cho mình, Rei vừa lẩm bẩm.
+Vừa vuốt lưng Set đang nằm làm ghế sofa cho cậu tựa vào, Rei vừa lẩm bẩm.
 
 "Chuyện đó là đương nhiên rồi. Suốt mấy nghìn năm thì cái gì chẳng đổi thay. ...Nhân tiện, nếu chuyện làm đệ tử ma pháp sư là nói dối, thì những Đạo Cụ Ma Thuật Rei đang mang trên người lẽ nào..."
 
@@ -74,7 +74,7 @@ Trước tính cách ngoài dự liệu của nhân vật vốn được hậu t
 
 Cứ thế hai người trò chuyện chừng một tiếng đồng hồ, cho tới khi thấy một bóng người nhỏ nhắn từ phía quán trọ đang tiến lại gần. Đó là Linde, thiếu niên tạp vụ của quán trọ.
 
-"Tiểu thư Elena, có khách tới tìm người ạ."
+"Tiểu thư Elena, có khách tới tìm tiểu thư ạ."
 
 Dường như biết rõ đối phương là quý tộc, cậu thiếu niên tuy thoáng đỏ mặt trước nhan sắc của Elena nhưng vẫn cất lời bằng giọng điệu hết sức lễ phép.
 
@@ -106,7 +106,7 @@ Rei khẽ gật đầu với Elena để xác nhận chuyện ngày mai.
 
 "Gùuu?"
 
-Set nãy giờ vẫn ngoan ngoãn nằm im làm ghế sofa, bấy giờ mới khẽ cất tiếng như muốn hỏi "cô có sao không?", rồi hướng đôi mắt tròn xoe về phía Elena.
+Set nãy giờ vẫn ngoan ngoãn nằm im làm ghế sofa, bấy giờ mới khẽ cất tiếng như muốn hỏi xem cô có sao không, rồi hướng đôi mắt tròn xoe về phía Elena.
 
 Trước vẻ đáng yêu đó, Elena thoáng nở nụ cười rạng rỡ như hoa hồng, khẽ xoa đầu chú Griffin rồi cùng Linde quay trở lại quán trọ.
 
@@ -138,21 +138,21 @@ Elena vừa khẽ nói vừa cân nhắc trong bụng xem nên giải thích th�
 
 Dù sao thì đây cũng là chuyện gia tộc Tử tước Sails, một thế lực thuộc Phe Quý Tộc lại còn thân cận với nhân vật nòng cốt là Công tước Kerebel, đã phản bội Vương quốc Mireana để đào tẩu sang Đế quốc Bestia. Đây tuyệt đối không phải chuyện có thể tùy tiện tiết lộ.
 
-(Không, chính xác thì có lẽ bọn chúng vẫn chưa kịp đào tẩu đâu. Đây là cuộc chạy đua xem lá thư của mình hay tin báo của Vel đến tay phụ thân và Tử tước Sails trước mà thôi.)
+(Không, chính xác thì có lẽ bọn chúng vẫn chưa kịp đào tẩu đâu. Đây là cuộc chạy đua xem lá thư của ta hay tin báo của Vel đến tay phụ thân và Tử tước Sails trước mà thôi.)
 
-Trước lời nói của Elena, Worker thoáng lộ vẻ trầm ngâm suy nghĩ.
+Trước lời nói của Elena, Worker thoáng ngẫm nghĩ đôi chút.
 
 Bản thân anh ta cũng là người có năng lực mới được giao trọng trách quản lý chi nhánh Hội ngay sát hầm ngục khi tuổi đời còn trẻ như vậy. Anh ta lập tức hiểu ngay phát ngôn của Elena mang hàm ý chính trị nên khẽ gật đầu.
 
 "Ra là vậy, thế thì chỉ cần những nội dung tiểu thư có thể chia sẻ cũng được ạ."
 
-"Ừm... Nói một cách ngắn gọn thì hai thuộc hạ của ta đã dính bẫy trong hầm ngục và bị quái vật tấn công mà bỏ mạng."
+"Ừm... Nói ngắn gọn thì hai thuộc hạ của ta đã dính bẫy trong hầm ngục và bị quái vật tấn công mà bỏ mạng."
 
 "...Cạm bẫy và quái vật sao ạ?"
 
 "Phải. Là cạm bẫy và quái vật. ...Anh hiểu ý ta chứ? Ít nhất thì coi như vậy sẽ tốt hơn cho anh đấy."
 
-Hai người nhìn nhau vài giây, à không, phải đến vài chục giây. Dù chỉ là ánh mắt giao nhau, nhưng bầu không khí xung quanh lại tràn ngập cảm giác căng thẳng ngột ngạt chẳng khác nào một trận đấu kiếm sinh tử.
+Hai người nhìn nhau vài giây, à không, phải đến vài chục giây. Dù chỉ là ánh mắt giao nhau, nhưng bầu không khí xung quanh lại tràn ngập cảm giác căng thẳng ngột ngạt y hệt một trận đấu kiếm sinh tử.
 
 "...Tôi hiểu rồi. Bản thân tôi cũng chẳng muốn dính dáng gì đến chuyện chính trị. Nếu tiểu thư Elena đã nói vậy thì tôi xin ghi nhận như thế."
 
@@ -162,7 +162,7 @@ Hai người nhìn nhau vài giây, à không, phải đến vài chục giây. 
 
 Worker nở nụ cười tươi tắn như thể bầu không khí căng thẳng ban nãy chưa từng tồn tại. Trước thái độ đó, Elena cũng mỉm cười.
 
-Cả hai đều đang mỉm cười, nhưng nụ cười của hai người đều có phần giả tạo và trống rỗng. Worker thì mang nụ cười gượng gạo như dán lên mặt, còn nụ cười của Elena do dung mạo tuyệt sắc lại phảng phất vẻ vô hồn tựa búp bê.
+Cả hai đều đang mỉm cười, nhưng nụ cười của hai người đều có phần giả tạo và trống rỗng. Worker thì mang nụ cười gượng gạo như dán lên mặt, còn nụ cười của Elena do dung mạo tuyệt sắc lại phảng phất vẻ vô hồn như búp bê.
 
 Đó không phải nụ cười xuất phát từ tận đáy lòng mà chỉ là nụ cười mang tính lễ nghi xã giao. Nụ cười không đọng lại chút chân thành nào, chỉ thuần túy là sự co giãn cơ mặt.
 
@@ -190,9 +190,9 @@ Vẫn giữ nguyên nụ cười trên môi, Worker cất tấm thẻ vào trong
 
 "Không chỉ là sắp tới đâu, dự định là ngay ngày mai ta sẽ rời khỏi đây."
 
-Trước câu trả lời đó, Worker thoáng lộ vẻ nhẹ nhõm dù chỉ là một thoáng.
+Trước câu trả lời đó, Worker khẽ lộ vẻ nhẹ nhõm dù chỉ trong thoáng chốc.
 
-Dẫu sao thì cô cũng là ái nữ của Công tước Kerebel – nhân vật nòng cốt của Phe Quý Tộc, lại còn là Elena lừng danh với biệt hiệu Công Chúa Tướng Quân. Bởi anh ta thừa hiểu rằng nếu chẳng may cô có mệnh hệ nào ở hầm ngục này, tai bay vạ gió chắc chắn sẽ trút xuống cả thị trấn đang dần hình thành từ ngôi làng bao quanh hầm ngục này.
+Dù sao thì cô cũng là con gái của Công tước Kerebel, nhân vật nòng cốt của Phe Quý Tộc, lại còn là Elena lừng danh với biệt hiệu Công Chúa Tướng Quân. Bởi anh ta thừa hiểu rằng nếu chẳng may cô có mệnh hệ nào ở hầm ngục này, tai bay vạ gió chắc chắn sẽ trút xuống cả thị trấn đang dần hình thành từ ngôi làng bao quanh hầm ngục này.
 
 Thầm đoán được suy nghĩ của Worker, Elena vẫn giữ nụ cười giả tạo như trước và tiếp tục cuộc trò chuyện.
 
@@ -204,7 +204,7 @@ Trước câu hỏi bất ngờ đó, Elena vừa nhấp một ngụm hồng tr�
 
 Nói đến đó, Elena bỗng thoáng ngập ngừng.
 
-(Về ngài Grimm thì tốt nhất là không nên hé răng. Nói cách khác, cả cái bẫy vòng lặp vô tận cũng thế.)
+(Về ngài Grimm thì tốt nhất là không nên nhắc tới. Vậy tức là cả cái bẫy vòng lặp vô tận cũng thế.)
 
 "Tiểu thư Elena?"
 
@@ -222,7 +222,7 @@ Sau đó hai người trao đổi ý kiến về hầm ngục thêm chừng mư�
 
 "Vâng, tôi hiểu rồi ạ."
 
-Đứng dậy khỏi ghế sofa, Worker cúi chào một cách lịch thiệp rồi rời khỏi quán trọ.
+Đứng dậy khỏi ghế sofa, Worker lịch thiệp cúi chào rồi rời khỏi quán trọ.
 
 Dõi theo bóng lưng anh ta khuất dần, Elena cũng quay về phòng của mình.
 

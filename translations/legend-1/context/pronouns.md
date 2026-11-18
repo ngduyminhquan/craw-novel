@@ -235,3 +235,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Linde | Elena | tôi / em | tiểu thư Elena / tiểu thư | 106 | Thiếu niên tạp vụ nói với tiểu thư Công tước |
 | Kerebel | Filma Desir | ta | ngươi / Filma / Filma Desir | 108 | Công tước nói với thuộc cấp / đoàn trưởng kỵ sĩ đoàn |
 | Filma Desir | Kerebel | tôi | ngài / Công tước | 108 | Đoàn trưởng kỵ sĩ đoàn nói với Công tước Kerebel |
+| Rei | Ara | tôi | cô / Ara | 108 | Rei gọi tên Ara tự nhiên khi trò chuyện thân thiết trong xe ngựa |

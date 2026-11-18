@@ -58,7 +58,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 107: Thẻ Hội Hạng D; xác nhận với Elena về thân phận sinh mệnh nhân tạo chuyển sinh từ dị giới và nguồn gốc Đạo Cụ Ma Thuật từ Esta Noor; cất 2 đồng bạch kim vào Nhẫn Sương Mù, nghỉ ngơi bên Set chuẩn bị cùng Elena rời làng hầm ngục.
+- Trạng thái tính đến chương 108: Thẻ Hội Hạng D; cùng nhóm Elena rời làng hầm ngục bằng xe ngựa do mạo hiểm giả thuê ở Hội cầm cương để quay về thành phố Gilm; từ chối lời mời gia nhập kỵ sĩ đoàn nhà Công tước Kerebel của Elena để tiếp tục thu thập Ma Thạch giúp Set phát triển.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -198,6 +198,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kerebel
 - Nhân vật nòng cốt của Phe Quý Tộc, cha của Elena Kerebel (Công Chúa Tướng Quân)
 - Tên đầy đủ là Liberte Kerebel (リベルテ・ケレベル).
+- Trạng thái tính đến chương 108: Nhận mật thư của Elena tại dinh thự ở đại đô thị Anesis; lệnh cho Filma Desir lập đội truy kích Kỵ Sĩ Rồng tiêu diệt Tử tước Sails trước khi hắn trốn sang Đế quốc Bestia và viết thư báo tin tử trận của Kuust cho Hầu tước Brassin.
 
 ### Beamter
 - Nam thanh niên khoảng 18-22 tuổi, vẻ mặt hiền lành dễ mến; mạo hiểm giả Hạng D dẫn dắt tổ đội Hạng E gồm các đàn em cùng cô nhi viện
@@ -212,7 +213,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
 - Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4; được Elena mua lại Rìu Cường Lực (Đạo Cụ Ma Thuật) từ Rei tặng cho làm vũ khí chính.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
-- Trạng thái tính đến chương 106: Cùng nhóm an toàn rời hầm ngục về quán trọ; kiệt sức ngủ thiếp đi và được Elena mua lại Rìu Cường Lực từ Rei tặng làm vũ khí sở hữu chính thức.
+- Trạng thái tính đến chương 108: Sở hữu Rìu Cường Lực do Elena mua tặng từ Rei; hoàn toàn cởi mở với Rei, cùng Elena và Rei lên xe ngựa rời làng hầm ngục quay về thành phố Gilm.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
@@ -222,7 +223,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 107: Thẳng thắn trao đổi với Rei về thân phận sinh mệnh nhân tạo (do Ma Thạch Ancient Dragon bảo vệ ý thức khi Grimm ngưng đọng thời gian), cam kết giữ bí mật; thống nhất với Worker ngụy trang việc Kuust tử trận và Vel phản bội thành tai nạn do bẫy và quái vật trong hầm ngục; trả lại thẻ ưu tiên và hẹn sáng mai rời làng hầm ngục.
+- Trạng thái tính đến chương 108: Đã hấp thụ sức mạnh của Ancient Dragon; cùng Rei và Ara rời làng hầm ngục về thành phố Gilm trên xe ngựa thuê mạo hiểm giả cầm cương; ngỏ lời mời Rei gia nhập kỵ sĩ đoàn nhà Công tước Kerebel nhưng bị từ chối.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
@@ -248,3 +249,4 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Filma Desir
 - Nam, cuối độ tuổi 30, thân thể cường tráng; sở hữu tài điều binh thao lược, tầm nhìn bao quát và luôn xông pha nơi tiền tuyến cổ vũ sĩ khí; được mệnh danh là thủ hộ thần của lãnh địa Công tước Kerebel.
+- Trạng thái tính đến chương 108: Nhận lệnh của Công tước Kerebel tại Anesis, lập đội truy kích Kỵ Sĩ Rồng đi tiêu diệt Tử tước Sails và đề phòng đám Ma Thú Binh.
