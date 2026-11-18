@@ -282,3 +282,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Bolton | tôi / ta | ngươi / lão | 124 | Rei lạnh lùng đối đầu và đe dọa Bolton |
 | Bolton | Galahat | ta / tao | mày | 124 | Bolton khinh thường em cùng cha khác mẹ là con vợ lẽ |
 | Galahat | Bolton | tôi / em | anh Bolton / anh | 124 | Galahat nói với anh trai cùng cha khác mẹ |
+| Brazos | Lenora | ta / lão | cô bé Lenora / Lenora | 127 | Chiến sĩ Dwarf lớn tuổi nói chuyện thân mật với tiếp tân |
+| Lenora | Brazos | tôi | bác Brazos / ông Brazos | 127 | Tiếp tân Hội nói chuyện với mạo hiểm giả Dwarf lớn tuổi quen biết |

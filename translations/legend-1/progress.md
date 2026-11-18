@@ -131,7 +131,7 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 124 |  | Chapter_0124 - アゾット商会 - 第124話.txt | アゾット商会 - 第124話 | reviewed |  |
 | 125 |  | Chapter_0125 - アゾット商会 - 第125話.txt | アゾット商会 - 第125話 | reviewed |  |
 | 126 |  | Chapter_0126 - アゾット商会 - 第126話.txt | アゾット商会 - 第126話 | reviewed |  |
-| 127 |  | Chapter_0127 - アゾット商会 - 第127話.txt | アゾット商会 - 第127話 | todo |  |
+| 127 |  | Chapter_0127 - アゾット商会 - 第127話.txt | アゾット商会 - 第127話 | done |  |
 | 128 |  | Chapter_0128 - アゾット商会 - 第128話.txt | アゾット商会 - 第128話 | todo |  |
 | 129 |  | Chapter_0129 - アゾット商会 - 第129話.txt | アゾット商会 - 第129話 | todo |  |
 | 130 |  | Chapter_0130 - アゾット商会 - 第130話.txt | アゾット商会 - 第130話 | todo |  |

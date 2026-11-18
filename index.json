@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T10:41:53Z",
+  "generatedAt": "2026-11-18T10:48:12Z",
   "novels": [
     {
       "slug": "everyone-else-is-a-returnee",
@@ -2909,6 +2909,12 @@
           "title": "Chương 126: Thương Hội Azoth (126)",
           "path": "translations/legend-1/vi/Chapter_126.md",
           "sha": "e3c4af1c1cd0bd444af6075b8ced9631e7de9a26"
+        },
+        {
+          "number": 127,
+          "title": "Chương 127: Thương Hội Azoth (127)",
+          "path": "translations/legend-1/vi/Chapter_127.md",
+          "sha": "5768c346647f6f7a6539aed8e9712cd924330b2c"
         }
       ]
     },
