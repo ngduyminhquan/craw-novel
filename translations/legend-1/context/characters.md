@@ -47,6 +47,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Linde | リンデ | Linde | Thiếu niên tạp vụ quán trọ ở ngôi làng quanh hầm ngục | Chương 72 |
 | Worker | ワーカー | Worker | Đại diện chi nhánh Hội Mạo Hiểm Giả tại ngôi làng quanh hầm ngục | Chương 73 |
 | Zack | ザック | Zack | Đạo tặc trong tổ đội mạo hiểm giả Hạng C chạm trán nhóm Rei ở tầng 3 hầm ngục | Chương 77 |
+| Grimm | グリム | Grimm | Lich Lord cổ đại sống từ thời Zepairu hàng nghìn năm trước | Chương 93 |
 
 ## Chi tiết
 
@@ -55,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 90: Thẻ Hội Hạng D; đang cùng nhóm Elena thám hiểm tầng ngầm thứ năm hầm ngục, vừa cùng Set tiêu diệt đàn Zombie giáp công và tiếp tục tìm đường xuống tầng sáu.
+- Trạng thái tính đến chương 93: Thẻ Hội Hạng D; gặp Lich Lord cổ đại Grimm ở phòng nghiên cứu bí mật tầng ngầm thứ năm, nhận Đạo Cụ Ma Thuật [Quả Cầu Đôi] và đang cùng nhóm Elena xuống tầng sáu.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -229,3 +230,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Zack
 - Nam, ngoài 20 tuổi, đạo tặc của một tổ đội Hạng C gồm 4 người chạm trán nhóm Rei ở khu rừng nấm tầng 3 hầm ngục
 - Tính tình cởi mở, có kinh nghiệm, biết quan sát và giỏi thăm dò thực lực đối phương
+
+### Grimm
+- Thân thế: Đại ma thuật sư chuyên về Tử Linh Thuật sống cách đây hàng nghìn năm cùng thời với Zepairu; tự thực hiện nghi thức biến mình thành Lich và tiếp tục tu luyện suốt mấy nghìn năm thành Lich Lord trong không gian bí mật ở tầng 5 hầm ngục.
+- Tính cách: Hào sảng, điềm tĩnh, ngưỡng mộ Zepairu; rất ưu ái và quý mến Rei và Set vì là người kế thừa Zepairu.
+- Cách nói chuyện: Giọng nói cổ xưa, tự xưng ta (儂), gọi Rei là ngươi / cậu (お主) hoặc Rei, gọi Zepairu là ngài Zepairu (ゼパイル殿); giao tiếp bằng thần giao cách cảm trực tiếp vào đầu.

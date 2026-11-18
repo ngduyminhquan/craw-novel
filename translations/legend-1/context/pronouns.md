@@ -51,6 +51,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Linde | cậu thiếu niên / Linde | 72 | Thiếu niên tạp vụ quán trọ |
 | Worker | Worker / anh ta | 73 | Đại diện chi nhánh Hội |
 | Zack | người đàn ông / Zack | 77 | Đạo tặc trong tổ đội Hạng C gặp ở tầng 3 hầm ngục |
+| Grimm | lão / Grimm | 93 | Lich Lord cổ đại sống từ thời Zepairu |
 
 ## Giữa các nhân vật
 
@@ -219,3 +220,5 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Zack | tôi | anh | 77 | Mạo hiểm giả nói chuyện bình thường với mạo hiểm giả lớn tuổi hơn |
 | Elena | Set | ta | mày / Set | 88 | Elena nói chuyện thân thiện với Set |
 | Ara | Kuust | tôi | Kuust / cậu / anh ta | 90 | Nữ hiệp sĩ hộ vệ nói trực tiếp hoặc nhắc tới đội trưởng đồng trang lứa |
+| Grimm | Rei | ta | ngươi / cậu / Rei | 93 | Giọng ma thuật sư cổ đại thân thiện với người kế thừa Zepairu |
+| Rei | Grimm | tôi | ông | 93 | Rei nói chuyện với Lich Lord cổ đại |

@@ -212,3 +212,8 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 神聖魔法 |  | Thần Thánh Ma Pháp | kỹ năng | 90 | Loại ma pháp mang thuộc tính thần thánh có hiệu quả cao đối với Undead |
 | テレパシー |  | thần giao cách cảm | khác | 92 | giao tiếp bằng ý nghĩ |
 | 念話 |  | niệm thoại | khác | 92 | phương thức truyền âm qua ý nghĩ |
+| リッチロード |  | Lich Lord | quái vật | 93 | Cấp bậc tiến hóa hoặc danh xưng của Lich sau hàng nghìn năm tu luyện ma thuật |
+| 対のオーブ |  | Quả Cầu Đôi | vật phẩm | 93 | Đạo Cụ Ma Thuật dạng cầu pha lê kết nối cho phép tự do liên lạc từ xa |
+| 死霊魔法 |  | Tử Linh Ma Pháp | kỹ năng | 93 | Ma pháp điều khiển Undead và hiện tượng liên quan tới người chết |
+| 時空魔法 |  | Thời Không Ma Pháp | kỹ năng | 93 | Ma pháp thao túng không gian và thời gian |
+| 死霊術士 |  | Tử Linh Thuật Sĩ | chức nghiệp | 93 | Ma thuật sư chuyên về ma thuật tử linh thời cổ đại |
