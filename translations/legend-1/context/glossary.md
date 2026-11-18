@@ -231,3 +231,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | オートマタ |  | Automata | khác | 101 | Người máy tự động; khái niệm Trái Đất trong suy nghĩ của Rei |
 | キメラ |  | Chimera | quái vật | 102 | sinh vật lai ghép do Giả Kim Thuật hoặc ma thuật tạo ra |
 | 竜言語魔法 |  | Long Ngôn Ma Pháp | kỹ năng | 104 | Loại ma pháp cổ sử dụng ngôn ngữ loài rồng |
+| アラクネ |  | Arachne | quái vật | 105 | Quái vật nửa người nửa nhện |
+| セイルズ |  | Sails | tổ chức | 105 | Gia tộc Tử tước Sails thuộc Phe Quý Tộc của Vương quốc Mireana |

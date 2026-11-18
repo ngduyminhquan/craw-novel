@@ -209,17 +209,17 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
 - Vũ khí và vị trí: Kỵ sĩ tiền vệ sở hữu quái lực; trường kiếm đã gãy ở hầm ngục tầng 4 và được Rei cho mượn Rìu Cường Lực (Đạo Cụ Ma Thuật) sử dụng bằng một tay.
 - Thành viên duy nhất trong đội hộ vệ của Elena không thể dùng ma pháp; kiêm vai trò chăm sóc sinh hoạt như hầu gái cho Elena.
-- Trạng thái tính đến chương 103: Tỉnh lại sau nghi thức gián đoạn; thề sẽ đích thân tiêu diệt Vel để báo thù cho Kuust.
+- Trạng thái tính đến chương 105: Đã tiếp nhận [Hạt Giống Trừng Phạt] bảo mật thông tin của Rei và Set; cùng Elena và Rei dịch chuyển lên tầng ngầm thứ nhất và tiến về lối ra hầm ngục.
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
 - Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; sở hữu Dao Độc và sinh vật ma pháp hộ vệ dạng xúc tu tím do Giả Kim Thuật Sư Bestia tạo ra; biết ma pháp hệ Thổ.
-- Trạng thái tính đến chương 103: Bị chém đứt lìa cánh tay trái và bỏng nát mặt; cho Golem tự sát phát nổ cản chân Rei rồi kích hoạt bảo thạch ma pháp dịch chuyển đào tẩu dù bị dính kim độc vào đùi phải.
+- Trạng thái tính đến chương 105: Dịch chuyển về doanh trại Ma Thú Binh của Đế quốc Bestia trong tình trạng cụt cánh tay trái, cháy nát mặt và bất tỉnh; bị đưa về Bestia làm vật liệu thí nghiệm cơ thể người.
 
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 104: Tỉnh lại sau nghi thức; hấp thụ được khoảng 7 phần sức mạnh của Ancient Dragon (thể chất và ngũ quan cường hóa, lượng ma lực khổng lồ, tiềm năng dùng Long Ngôn Ma Pháp); đang cùng nhóm tìm cách thoát khỏi hầm ngục.
+- Trạng thái tính đến chương 105: Đã tiếp nhận [Hạt Giống Trừng Phạt] bảo mật thông tin của Rei và Set; được Grimm hỗ trợ mở cổng dịch chuyển lên tầng ngầm thứ nhất và cùng nhóm tiến về lối ra hầm ngục.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.
