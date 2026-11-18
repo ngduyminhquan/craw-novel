@@ -53,6 +53,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Kumito | クミト | Kumito | Cậu bé 10 tuổi, con trai thợ rèn Pamidoor mới chuyển đến Gilm | Chương 113 |
 | Pamidoor | パミドール | Pamidoor | Thợ rèn tay nghề cao mới chuyển đến Gilm, cha của Kumito (chương 113 được nhắc tên) | Chương 113 |
 | Schele | シェーレ | Schele | Mạo hiểm giả dùng thương mới đến Gilm | Chương 114 |
+| Epoca | エポカ | Epoca | Nhân viên lớn tuổi tại Hội Mạo Hiểm Giả Gilm | Chương 118 |
 
 ## Chi tiết
 
@@ -266,3 +267,6 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Schele
 - Nam mạo hiểm giả dùng thương khoảng 25 tuổi, mới tới Gilm được 2 ngày cùng bạn đồng hành dùng kiếm; gây sự với Rei và bị dọa khiếp vía cõng bạn chạy trốn.
+
+### Epoca
+- Người đàn ông lớn tuổi làm việc phía trong quầy tiếp tân Hội Mạo Hiểm Giả ở Gilm, có thẩm quyền phê duyệt công việc cho nhân viên tiếp tân.

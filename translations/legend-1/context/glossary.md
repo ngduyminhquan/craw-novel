@@ -249,3 +249,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 風の手 |  | Bàn Tay Gió | kỹ năng | 116 | Kỹ năng mọc xúc tu vô hình bằng ma lực gió từ Lưỡi Hái Tử Thần, học được từ Ma Thạch Emerald Wolf |
 | 渦巻く業火 |  | Nghiệp Hỏa Cuộn Xoáy | kỹ năng | 117 | Ma thuật hệ Hỏa của Rei, bắn quả cầu lửa cô đọng tạo thành cơn lốc xoáy lửa |
 | 火災旋風 |  | Lốc Lửa | kỹ năng | 117 | Hiện tượng lốc lửa / đòn phối hợp giữa ma thuật Hỏa của Rei, [Lốc Xoáy] của Set và [Bàn Tay Gió] của Lưỡi Hái Tử Thần; viết hoa khi là tên chiêu/kỹ thuật kết hợp, viết thường khi nói về hiện tượng chung |
+| 従魔 |  | tùng ma | khác | 118 | quái vật thuần hóa hoặc triệu hồi đi theo chủ nhân |
