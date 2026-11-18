@@ -252,3 +252,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 従魔 |  | tùng ma | khác | 118 | quái vật thuần hóa hoặc triệu hồi đi theo chủ nhân |
 | 砕きし戦士 | Crushing Warriors | Chiến Binh Đập Tan | tổ chức | 120 | Tổ đội mạo hiểm giả Hạng C gồm nữ chiến sĩ Freon và người lùn Brazos |
 | 悔恨の炎 |  | Ngọn Lửa Hối Hận | kỹ năng | 121 | Ma pháp hệ Hỏa do Rei thi triển lên Nhẫn Sương Mù làm bẫy chống trộm, tự động phát hỏa thiêu đốt kẻ chạm vào nhẫn trái với ý chí của cậu |
+| ハーピー |  | Harpy | quái vật | 126 | Quái vật Hạng D biết bay, thường sống theo bầy trên núi |
+| 魔水晶 |  | Ma Thủy Tinh | vật phẩm | 126 | Khoáng thạch ma pháp làm vật dẫn trung gian phát động ma pháp, tăng nhẹ uy lực |
+| 火炎鉱石 |  | Quặng Hỏa Viêm | vật phẩm | 126 | Khoáng thạch chứa ma lực Hỏa dùng làm nguyên liệu Giả Kim Thuật, loại tinh khiết phát nổ khi va chạm mạnh |
