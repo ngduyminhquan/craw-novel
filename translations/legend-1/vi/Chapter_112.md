@@ -44,7 +44,7 @@ Tuy hơi thắc mắc, Rei vẫn đứng dậy khỏi ghế sofa bước sang b�
 
 "..."
 
-Thấy Elena cứ giữ im lặng, Rei thấy là lạ nhưng vẫn nán đợi vài giây; thấy cô mãi chẳng lại gần, cậu nghi hoặc toan quay mặt sang thì...
+Elena cứ giữ im lặng làm Rei thấy là lạ, nhưng cậu vẫn nán đợi vài giây. Đợi mãi chẳng thấy cô lại gần, cậu nghi hoặc toan quay mặt sang thì...
 
 Bất thình lình, bàn tay Elena áp lên má Rei, kéo mạnh mặt cậu quay thẳng về phía trước đối diện với cô.
 
@@ -66,7 +66,7 @@ Cứ thế, hai bờ môi chạm nhau chẳng rõ đã qua bao lâu. Với Rei, 
 
 Rồi cuối cùng đôi môi hai người cũng khẽ rời nhau ra, để mặc căn phòng chìm vào tĩnh lặng.
 
-Tuy chỉ là một nụ hôn chạm môi đơn thuần, nhưng một bên là Rei, cậu thiếu niên sinh ra ở miền quê và vốn rất ngây ngô trong chuyện này; bên kia là Elena, dẫu mang thân phận tiểu thư Công tước có cơ hội tiếp xúc với chuyện yêu đương nhưng lại mải mê trui rèn võ nghệ tới mức được xưng tụng là Công Chúa Tướng Quân. Giữa hai con người như thế, đây đều là đối phương đầu tiên của nhau.
+Tuy chỉ là một nụ hôn chạm môi đơn thuần, nhưng một bên là Rei, cậu thiếu niên sinh ra ở miền quê và vốn rất ngây ngô trong chuyện này, còn bên kia là Elena, dẫu mang thân phận tiểu thư Công tước có cơ hội tiếp xúc với chuyện yêu đương nhưng lại mải mê trui rèn võ nghệ tới mức được xưng tụng là Công Chúa Tướng Quân. Với hai con người như thế, cả hai đều là mối tình đầu của nhau.
 
 "T-Ta đã trao nụ hôn đầu đời cho cậu rồi, thù lao thế là quá đủ rồi chứ!?"
 
@@ -102,7 +102,7 @@ Nhưng một người sùng kính Elena hết mực như Ara đương nhiên kh�
 
 "Ủa, bầu không khí này là... Hả, cậu Rei, cậu đã làm gì tiểu thư Elena rồi sao?"
 
-Ara phóng ánh mắt sắc lẹm về phía Rei. Với Ara, mình chỉ vừa ra ngoài một lát, thế mà người mà cô tôn kính yêu quý là Elena lại đỏ ửng cả mặt, thỉnh thoảng còn liếc trộm Rei, cảnh tượng ấy đối với một người vốn biết rõ vẻ uy nghiêm lạnh lùng thường ngày của Elena... à không, chính vì biết rõ nên mới càng không thể nào tin nổi. Phải, dáng vẻ đó hệt như một thiếu nữ đang yêu...
+Ara phóng ánh mắt sắc lẹm về phía Rei. Với Ara, cô chỉ vừa ra ngoài một lát, thế mà người cô hết lòng tôn kính yêu quý là Elena lại đỏ ửng cả mặt, thỉnh thoảng còn liếc trộm Rei, cảnh tượng ấy đối với một người vốn biết rõ vẻ uy nghiêm lạnh lùng thường ngày của Elena... à không, chính vì biết rõ nên mới càng không thể nào tin nổi. Phải, dáng vẻ đó hệt như một thiếu nữ đang yêu...
 
 Nghĩ thầm như thế trong bụng, Ara vội vàng lắc đầu nguầy nguậy.
 
@@ -190,7 +190,7 @@ Trên bàn tay Ara chìa ra có mấy miếng thịt khô, Set thích thú dùng
 
 Bị những lời của Elena và Ara thu hút sự tò mò, Daska liền chen vào góp chuyện.
 
-Chẳng hề mảy may để tâm tới bầu không khí kỳ quặc ban nãy, quả không hổ danh là một Bá tước biên cảnh.
+Chẳng buồn để ý tới bầu không khí kỳ quặc ban nãy, quả không hổ danh là một Bá tước biên cảnh.
 
 "Đến mức mà ta nghĩ nếu Set và Rei hợp sức thì mấy tổ đội Hạng A tầm thường còn lâu mới theo kịp ấy chứ."
 
@@ -242,7 +242,7 @@ Elena mỉm cười trước lời Rei nói. Cảm giác nụ cười ấy khác
 
 "Thưa ngài Daska, tiểu thư Elena và cậu Rei đã cùng nhau vượt qua hiểm cảnh nên hiểu rằng đối phương là người đáng tin cậy, thành ra tiểu thư Elena mới bảo không cần phải gượng ép dùng kính ngữ ạ."
 
-Ara lên tiếng đỡ lời như để che chắn cho một Elena đang ấp úng, còn Daska dường như đã hiểu ra chuyện gì đó liền nở nụ cười đầy ẩn ý.
+Ara lên tiếng đỡ lời như để che chắn cho Elena đang ấp úng, còn Daska dường như đã hiểu ra chuyện gì đó liền nở nụ cười đầy ẩn ý.
 
 "Ra thế, ra thế. Giành được sự tín nhiệm của tiểu thư Công tước Kerebel, người nức tiếng với danh hiệu Công Chúa Tướng Quân cơ đấy. Khá lắm, Rei."
 
@@ -264,4 +264,4 @@ Nói dứt câu ngắn ngủi, để lại mùi hương rất riêng hòa quyệ
 
 Sau lời chào cuối cùng của Ara, cỗ xe ngựa lăn bánh rời khỏi dinh thự Bá tước biên cảnh Rowlocks, hướng về phía trung tâm thành phố.
 
-...Để lại một Rei với đôi gò má vẫn còn vương chút ửng hồng đứng trơ trọi tại nơi ấy.
+...Để lại Rei đứng đó với đôi gò má vẫn còn hơi ửng đỏ.

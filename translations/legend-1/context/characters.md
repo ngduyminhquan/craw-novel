@@ -259,6 +259,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Can đảm, bướng bỉnh không chịu khuất phục trước kẻ bắt nạt, biết tự vệ bằng đoản côn sắt do bố làm; rất thích ma thú, thân thiện với Set.
 - Quan hệ với nhân vật khác: Con trai duy nhất của thợ rèn Pamidoor; quý mến Rei và Set sau khi được giải cứu.
 - Trạng thái tính đến chương 113: Được Rei và Set giải cứu khỏi nhóm thiếu niên bắt nạt tống tiền vũ khí; giới thiệu tiệm rèn của cha gần thư viện cho Rei.
+- Cách nói chuyện: Hồn nhiên, thẳng thắn, thân thiện; nói trống/thân mật kiểu trẻ con ("ừm", "thế à"), khi nói với Rei xưng "em" - "anh" tự nhiên, không tự chêm "dạ / vâng / ạ" vào mọi câu.
 
 ### Pamidoor
 - Giới tính, nghề nghiệp: Nam, thợ rèn tay nghề cao mới chuyển đến thành phố Gilm mở tiệm gần thư viện; cha của Kumito (chương 113 chỉ được nhắc tên).

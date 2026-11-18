@@ -50,7 +50,7 @@ Vừa vắng bóng Lenora là mắt Kenny đã sáng rực lên vì tò mò, nh�
 
 "Ơ? Thật á? Chẳng phải hầm ngục cậu Rei đi nằm ở dưới lòng đất sao?"
 
-"Ừ, thực ra tầng hầm 1 và tầng hầm 2 thì bình thường... nói là bình thường có đúng không thì tôi chịu, nhưng tóm lại cũng như mọi hầm ngục khác. Có điều xuống tầng hầm 3 là cả một rừng nấm khổng lồ, tầng hầm 4 là một khu rừng thực sự. Tầng hầm 5 là sào huyệt của Undead, tầng hầm 6 đầy rẫy bẫy, còn tầng sâu nhất thì chẳng có con quái vật bình thường nào cả."
+"Ừ, thực ra tầng 1 và tầng 2 thì bình thường... nói là bình thường có đúng không thì tôi chịu, nhưng tóm lại cũng như mọi hầm ngục khác. Có điều xuống tầng 3 là cả một rừng nấm khổng lồ, tầng 4 là một khu rừng thực sự. Tầng 5 là sào huyệt của Undead, tầng 6 đầy rẫy bẫy, còn tầng sâu nhất thì chẳng có con quái vật bình thường nào cả."
 
 Nghe Rei kể mà sức tưởng tượng không theo kịp, Kenny vừa nghiêng đầu vừa gật gù.
 
@@ -82,7 +82,7 @@ Rõ ràng gã cầm thương không thể ngờ một người đàn ông cao h�
 
 Hành động đó khiến cả sảnh Hội chìm vào im lặng. Nhưng sự im lặng ấy lại chia làm hai luồng rõ rệt.
 
-Một bên là ý nghĩ [A, biết ngay mà...] của những kẻ biết rõ về Rei, và một bên là [Tên đó là quái nào thế?] của những kẻ chưa từng biết đến cậu.
+Một bên là ý nghĩ "A, biết ngay mà..." của những kẻ biết rõ về Rei, và một bên là "Tên đó là quái nào thế?" của những kẻ chưa từng biết đến cậu.
 
 "Mấy người mới đăng ký vào Hội gần đây đúng không."
 
@@ -94,7 +94,7 @@ Hẳn đến lúc này gã mới nhận ra kẻ mình vừa kiếm chuyện là 
 
 "P-Phải. Bọn tao... mới tới thành phố Gilm được hai hôm."
 
-Biết được thực lực đáng sợ của kẻ mình vừa chọc vào, gã cầm thương tái mét mặt mày cố mở miệng đáp lời. Đó chẳng phải vì ngoan cố hay gì, mà chỉ đơn thuần là nỗi sợ tột cùng vì không muốn chọc giận sự hiện diện trước mắt thêm nữa.
+Biết được thực lực đáng sợ của kẻ mình vừa chọc vào, gã cầm thương tái mét mặt mày cố mở miệng đáp lời. Đó chẳng phải vì ngoan cố hay gì, mà chỉ đơn thuần là nỗi sợ tột cùng vì không muốn chọc giận con người trước mắt thêm nữa.
 
 "Chắc vậy rồi. Chứ biết tôi..."
 
@@ -110,7 +110,7 @@ Ném cho gã cầm thương cái nhìn ngán ngẩm lần cuối, Rei thở dài
 
 "Eo ơi, cậu Rei ngầu ghê cơ! Đừng có vì chị mà đánh nhau chứ! Chị là của riêng cậu Rei thôi đấy nhé!"
 
-Cậu đành tạm thời phớt lờ một Kenny đang tự biên tự diễn quằn quại một mình.
+Cậu đành tạm thời phớt lờ Kenny đang tự biên tự diễn quằn quại một mình.
 
 "Ờm... Thế cái người đang nằm đo sàn đằng kia là sao ạ?"
 

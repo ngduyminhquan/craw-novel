@@ -16,7 +16,7 @@ Nhìn Set gật đầu như muốn bảo đồng ý, Rei tiếp tục rảo bư�
 
 Nếu chỉ là vài người bình thường thì cậu đã cứ thế đi qua rồi. Thế nhưng, trông thấy bốn thiếu niên tầm 15 tuổi trạc tuổi Rei đang vây quanh một đứa trẻ khoảng 10 tuổi và kéo về phía vắng người, cậu bất giác dừng mắt lại.
 
-Ở thành phố Gilm tập trung đông đảo những mạo hiểm giả bặm trợn, không ít kẻ có lối hành xử coi sức mạnh là tất cả. Mà trẻ con lớn lên khi chứng kiến lời ăn tiếng nói của người lớn thì việc bị ảnh hưởng là điều đương nhiên. Với đám thiếu niên ấy, điều xui xẻo lớn nhất của chúng có lẽ là việc Rei đang quá rảnh rỗi. Bình thường nếu thấy một đứa trẻ bị kéo vào ngõ hẻm thì cậu đã ngó lơ rồi, nhưng với một Rei đang thừa ra khoảng thời gian lửng lơ lúc này, đó lại là trò giết thời gian không thể thích hợp hơn.
+Ở thành phố Gilm tập trung đông đảo những mạo hiểm giả bặm trợn, không ít kẻ có lối hành xử coi sức mạnh là tất cả. Mà trẻ con lớn lên khi chứng kiến lời ăn tiếng nói của người lớn thì việc bị ảnh hưởng là điều đương nhiên. Với đám thiếu niên ấy, điều xui xẻo nhất có lẽ là đúng lúc Rei đang quá rảnh rỗi. Bình thường nếu thấy một đứa trẻ bị kéo vào ngõ hẻm thì cậu đã ngó lơ rồi, nhưng vì đang thừa ra khoảng thời gian lửng lơ nên với Rei lúc này, đó lại là trò giết thời gian không thể thích hợp hơn.
 
 "Set, qua đó ngó thử một chút không?"
 
@@ -114,7 +114,7 @@ Thấy thái độ của Rei, tên đang giữ đứa trẻ chắc mẩm mình b
 
 "Hả? Mày nói cái g..."
 
-Tên thiếu niên chưa kịp dứt lời thì nắm đấm của Rei đã sừng sững ngay trước mặt hắn. Với hắn, đó chỉ là một cái chớp mắt, thậm chí còn chưa bằng một khoảnh khắc ngắn ngủi.
+Tên thiếu niên chưa kịp dứt lời thì nắm đấm của Rei đã sừng sững ngay trước mặt hắn. Với hắn, chuyện chỉ diễn ra trong một tích tắc, thậm chí nói là một tích tắc vẫn còn quá dài thì nắm đấm đã hiện ra ngay trước mắt.
 
 "Với thực lực cỡ mày thì chắc cũng nhận ra sự chênh lệch giữa hai bên rồi chứ. Còn muốn đánh tiếp không?"
 
@@ -148,7 +148,7 @@ Thế nhưng đứa trẻ chẳng nói lời cảm ơn nào mà lẳng lặng đ
 
 Rei liếc mắt ra phía sau. Đưa mắt nhìn theo hướng đó, cậu bé không khỏi nín thở khi trông thấy chú Griffin đã xuất hiện ở đó tự lúc nào.
 
-"Kia là... Griffin ạ?"
+"Kia là... Griffin hả anh?"
 
 "Ừ. Nhóc chưa nghe bao giờ à? Ở thành phố Gilm này Set cũng có tiếng tăm phết đấy."
 
@@ -176,11 +176,11 @@ Rồi khẽ xoa đầu nó. Cậu bé cứ thế vuốt ve Set một lúc, cho �
 
 "Rồi, tính sao đây? Nhóc có muốn kể lý do bị bọn kia kiếm chuyện không?"
 
-"...Dạ thôi. Chuyện này em phải tự mình giải quyết."
+"...Không cần đâu. Chuyện này em phải tự mình giải quyết."
 
 "Vậy à. Mà tôi cũng chỉ xen vào để giết thời gian thôi, nhóc đã bảo thế thì tôi không gặng hỏi thêm nữa."
 
-"Dạ, ừm... hơi muộn một chút nhưng mà, cảm ơn anh đã cứu em nhé."
+"Ừm, thì... hơi muộn một chút nhưng mà, cảm ơn anh đã cứu em nhé."
 
 "Bận tâm làm gì. Vừa nói rồi đấy thôi, chỉ là giết thời gian chút đỉnh ấy mà."
 
@@ -188,9 +188,9 @@ Mỉm cười đáp lại cậu bé đang cúi đầu cảm ơn, Rei lấy từ 
 
 "Nè, cầm lấy ăn tạm đi."
 
-"A, vâng. Em cảm ơn."
+"A, ừm. Cảm ơn anh."
 
-Lấy thêm cho mình và Set mỗi đứa một xiên, hai người ngồi xuống chiếc thùng rỗng gần đó, còn Set nằm dài trên mặt đất cạnh bên vừa ngấu nghiến xiên nướng.
+Lấy thêm cho mình và Set mỗi đứa một xiên, hai người ngồi xuống chiếc thùng rỗng gần đó, còn Set nằm dài trên mặt đất ngay bên cạnh, ngấu nghiến xiên nướng.
 
 "Hà, phù... ngon quá... Cơ mà xiên này mới nướng xong đúng không anh? Anh lấy từ đâu ra thế?"
 
@@ -214,21 +214,21 @@ Nghe vậy, Rei vốn chẳng có ý định lấy mất nên không hề do d�
 
 "Hử? À, đây. Cơ mà nhóc cầm món đồ lạ mắt thật đấy. Cái này làm riêng cho nhóc à?"
 
-"A, vâng. Bố em bảo thành phố này phức tạp lắm nên làm cho em để phòng thân."
+"A, ừm. Bố em bảo thành phố này phức tạp lắm nên làm cho em để phòng thân đấy."
 
 "Bố nhóc làm á? Sao thế, bố nhóc là thợ rèn hay gì à?"
 
-"Đúng rồi ạ. Mới chuyển đến thành phố này gần đây thôi nhưng tay nghề của bố được khen lắm. Anh đã nghe tên Pamidoor bao giờ chưa?"
+"Đúng rồi đấy. Mới chuyển đến thành phố này gần đây thôi nhưng tay nghề của bố em được khen lắm. Anh đã nghe tên Pamidoor bao giờ chưa?"
 
 Cậu bé đưa mắt đầy vẻ mong đợi nhìn Rei, nhưng cậu chỉ khẽ lắc đầu.
 
 "Tiếc là tôi mới về lại thành phố này hôm qua thôi. Sau đó mệt quá nên về quán trọ ngủ li bì một giấc rồi."
 
-"Thế ạ..."
+"Thế à..."
 
 "Có dịp tôi sẽ ghé qua. Mà tiện thể tiệm mở ở đâu thế?"
 
-"Dạ, ở gần đó có thư viện!"
+"À thì, ở gần đó có thư viện đấy!"
 
 Hỏi kỹ hơn, Rei xác định được nơi đó cách thư viện tầm mười phút đi bộ. Vị trí ấy nằm trong phạm vi hoạt động của cậu nên cũng dễ hình dung.
 
@@ -236,7 +236,7 @@ Hỏi kỹ hơn, Rei xác định được nơi đó cách thư viện tầm mư
 
 "Ừm, lần tới có dịp tôi sẽ ghé qua."
 
-"Vâng. Em nhất định sẽ không chịu thua bọn nó đâu, anh nhớ tới đấy nhé."
+"Ừm. Em nhất định sẽ không chịu thua bọn nó đâu, anh nhớ tới đấy nhé."
 
 Nghe câu nói đó, Rei có thể đoán ra đại khái nguyên nhân cậu bé bị kiếm chuyện. Hẳn là đám thiếu niên kia đã đe dọa ép cậu bé mang vũ khí hay thứ gì đó do bố mình rèn tới. Chúng nghĩ con trai thợ rèn thì có thể lén lấy mà không bị bố phát hiện, lại là đứa nhỏ tuổi hơn nên không dám chống lại bọn chúng.
 
