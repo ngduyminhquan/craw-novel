@@ -72,7 +72,7 @@ Chưa đầy một phút để đọc hết, anh thở dài một hơi thật s�
 
 "Tử tước Sails phản bội sao ạ?"
 
-"Ừ. Giá như hắn chỉ chạy sang Phe Quốc Vương hay Phe Trung Lập, thì dẫu sao cũng là chuyện nội bộ Vương quốc Mireana, chẳng có vấn đề gì."
+"Ừ. Giá như hắn chỉ chạy sang Phe Quốc Vương hay Phe Trung Lập, thì dù sao cũng là chuyện nội bộ Vương quốc Mireana, chẳng có vấn đề gì."
 
 "Đúng là riêng chuyện cấu kết với Đế quốc Bestia thì không thể chấp nhận được."
 
@@ -96,7 +96,7 @@ Gật đầu trước lời của Filma, ông gõ ngón trỏ lên bàn làm vi�
 
 "...Đành chịu thôi. Họ tồn tại chính là vì những lúc thế này."
 
-Kỵ Sĩ Rồng. Đó là những hiệp sĩ cưỡi Phi Long đúng như tên gọi, không chỉ bay lượn được trên không trung mà còn sở hữu những đòn tấn công như hơi thở của Phi Long, sức chiến đấu cực kỳ khủng khiếp. Đổi lại, Kỵ Sĩ Rồng phải tự tay chăm sóc Phi Long từ lúc trứng mới nở, và chi phí nuôi dưỡng vô cùng đắt đỏ. Đắt đến mức ngay cả kỵ sĩ đoàn của Công tước Kerebel, người được mệnh danh là vị vua thứ hai của Vương quốc Mireana, cũng chỉ có vỏn vẹn chừng hai mươi kỵ mà thôi.
+Kỵ Sĩ Rồng. Đó là những kỵ sĩ cưỡi Phi Long đúng như tên gọi, không chỉ bay lượn được trên không trung mà còn sở hữu những đòn tấn công như hơi thở của Phi Long, sức chiến đấu cực kỳ khủng khiếp. Đổi lại, Kỵ Sĩ Rồng phải tự tay chăm sóc Phi Long từ lúc trứng mới nở, và chi phí nuôi dưỡng vô cùng đắt đỏ. Đắt đến mức ngay cả kỵ sĩ đoàn của Công tước Kerebel, người được mệnh danh là vị vua thứ hai của Vương quốc Mireana, cũng chỉ có vỏn vẹn chừng hai mươi kỵ mà thôi.
 
 "Vả lại, hãy dặn họ phải cẩn thận với đám Ma Thú Binh được nhắc tới trong thư."
 

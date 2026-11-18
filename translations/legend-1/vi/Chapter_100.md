@@ -36,7 +36,7 @@ Vel nở nụ cười giễu cợt, chẳng chút ngập ngừng vung thanh đo�
 
 "Dừng lại mauuu!"
 
-Rei thét lên, dẫu biết không kịp nhưng vẫn bổ Lưỡi Hái Tử Thần xuống...
+Rei thét lên, dù biết không kịp nhưng vẫn bổ Lưỡi Hái Tử Thần xuống...
 
 "Ối chà. Nguy hiểm thật đấy."
 
@@ -64,7 +64,7 @@ Cậu nhủ thầm trong lòng, cố ghìm lại cơn thịnh nộ đang trào d
 
 Rei và Vel. Về năng lực đạo tặc thì Vel nhỉnh hơn, nhưng nếu chỉ xét thuần túy về chiến lực thì Vel còn chẳng bằng một góc của Rei. Thế nhưng chẳng hiểu sao Vel vẫn nở nụ cười đầy ung dung, như thể đang xem một vở kịch thú vị.
 
-Dẫu lấy làm khó hiểu trước thái độ đó, Rei vẫn tiếp tục cuộc trò chuyện để thu thập thông tin.
+Dù lấy làm khó hiểu trước thái độ đó, Rei vẫn tiếp tục cuộc trò chuyện để thu thập thông tin.
 
 "Ngươi từng là một thành viên trong đoàn kỵ sĩ hộ vệ của Elena cơ mà? Thế tại sao đến nước này rồi lại giở trò phản bội cô ấy?"
 
@@ -132,7 +132,7 @@ Kuust luôn chĩa ánh nhìn khinh miệt và thái độ coi thường ra mặt
 
 "Ái chà chà. Ghét nhau ra mặt thế mà cậu lại tin tưởng anh ta bất ngờ nhỉ. Vậy thì để tôi cho một manh mối nhé. Đoán xem đây là gì nào?"
 
-Nói đoạn, hắn rút từ chiếc túi thắt lưng ra một bình nước trông chẳng có gì đặc biệt.
+Nói rồi, hắn rút từ chiếc túi thắt lưng ra một bình nước trông chẳng có gì đặc biệt.
 
 Thế nhưng khi nhìn thấy chiếc bình nước đó, ký ức suốt chặng đường qua bỗng ùa về trong tâm trí Rei.
 
@@ -194,7 +194,7 @@ Không hề bối rối, cũng chẳng chút hoảng loạn. Nghe câu trả l�
 
 "Cậu đang nói cái gì thế. Đòn tấn công của cậu đâu có ăn thua gì với tôi, sao lại tự tin đến thế hả?"
 
-"Chà, để xem đã. Đúng là đòn vừa rồi của ta không làm gì được ngươi. Nhưng ngươi đừng quên rằng thứ ngươi vừa đỡ được chẳng qua chỉ là một trong những chiêu thức của ta mà thôi. Vả lại... dẫu đòn của ta không có tác dụng thì ngươi cũng thế thôi. Đến cả đòn đánh lén của Kuust còn chẳng làm ta xây xát gì, thì một kẻ có sức tấn công thua xa Kuust như ngươi định làm gì được ta?"
+"Chà, để xem đã. Đúng là đòn vừa rồi của ta không làm gì được ngươi. Nhưng ngươi đừng quên rằng thứ ngươi vừa đỡ được chẳng qua chỉ là một trong những chiêu thức của ta mà thôi. Vả lại... dù đòn của ta không có tác dụng thì ngươi cũng thế thôi. Đến cả đòn đánh lén của Kuust còn chẳng làm ta xây xát gì, thì một kẻ có sức tấn công thua xa Kuust như ngươi định làm gì được ta?"
 
 "Đúng là có thể như thế thật. Nhưng cậu đỡ được đòn của Kuust là nhờ chiếc áo choàng đó thôi đúng không? Thế thì chỉ cần nhắm vào những chỗ chiếc áo choàng không che chắn được như mặt mũi hay tay chân là xong chứ gì."
 
@@ -202,13 +202,13 @@ Thứ hắn rút ra từ trong người là một con dao. Nhìn phần lưỡi 
 
 "Dao Độc. Dù sao thì đây cũng là món Đạo Cụ Ma Thuật đẳng cấp tương đối cao đấy. Chỉ cần bị con dao này rạch một vết xước nhỏ thôi là sẽ bị tê liệt đến bất động khoảng 10 phút, hiệu ứng tuyệt vời lắm đúng không... Không biết có đủ đối phó với Rei không nhỉ?"
 
-"Hừ, dẫu là Đạo Cụ Ma Thuật mạnh mẽ đến đâu thì rốt cuộc cũng chỉ có tác dụng lên mặt cùng tay chân của ta mà thôi. Vốn dĩ một kẻ cỡ ngươi mà nghĩ có thể làm gì được ta trong cận chiến à? Thứ ngươi làm được cùng lắm chỉ là núp sau lưng hàng tiên vệ rồi bắn cung hay ném dao, nhưng giờ chẳng có hàng tiên vệ nào cả. Ngươi định giao việc đó cho mấy cái xúc tu kia chắc?"
+"Hừ, dù là Đạo Cụ Ma Thuật mạnh mẽ đến đâu thì rốt cuộc cũng chỉ có tác dụng lên mặt cùng tay chân của ta mà thôi. Vốn dĩ một kẻ cỡ ngươi mà nghĩ có thể làm gì được ta trong cận chiến à? Thứ ngươi làm được cùng lắm chỉ là núp sau lưng hàng tiền vệ rồi bắn cung hay ném dao, nhưng giờ chẳng có hàng tiền vệ nào cả. Ngươi định giao việc đó cho mấy cái xúc tu kia chắc?"
 
 Rei bình thản chỉ ra điểm yếu của Vel đồng thời buông lời khiêu khích.
 
 Thế nhưng Vel nghe Rei nói vậy mà nụ cười trên môi vẫn không hề suy chuyển.
 
-"Ừ thì đúng là như cậu nói thật. Nếu thế thì chỉ cần tạo ra một hàng tiên vệ là xong chứ gì."
+"Ừ thì đúng là như cậu nói thật. Nếu thế thì chỉ cần tạo ra một hàng tiền vệ là xong chứ gì."
 
 Tách! Vel búng ngón tay một cái. Và khoảnh khắc tiếp theo...
 

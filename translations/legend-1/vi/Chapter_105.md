@@ -34,7 +34,7 @@ Thấy vậy, Rei tập trung ma lực rồi bắt đầu ngâm xướng câu th
 
 [Hỡi ngọn lửa, ngươi là hạt giống. Khi kẻ ký sinh phá vỡ khế ước với ta, hãy dùng sinh mệnh ấy nở rộ thành đóa diễm hoa rực rỡ]
 
-Theo từng lời niệm chú của Rei, ngọn lửa dần hiện rõ trên cán Lưỡi Hái Tử Thần — vốn cũng là vật phát động ma pháp. Chẳng mấy chốc ngọn lửa ấy được nén lại; ngọn lửa ban đầu to bằng nắm tay chỉ sau vài giây đã bị cô đọng đến mức nhỏ bé hệt như một hạt hoa.
+Theo từng lời niệm chú của Rei, ngọn lửa dần hiện rõ trên cán Lưỡi Hái Tử Thần, vốn cũng là vật phát động ma pháp. Chẳng mấy chốc ngọn lửa ấy được nén lại; ngọn lửa ban đầu to bằng nắm tay chỉ sau vài giây đã bị cô đọng đến mức nhỏ bé hệt như một hạt hoa.
 
 Cậu nâng cán Lưỡi Hái Tử Thần chạm nhẹ vào đầu Elena...
 
@@ -236,13 +236,13 @@ Hơn nữa, nếu có ai tình cờ bắt gặp bọn họ, kẻ đó ắt hẳn
 
 Giữa lúc ấy, kẻ có vẻ là thủ lĩnh của nhóm chợt ngẩng đầu lên.
 
-Hắn khoác áo choàng và cầm trượng, nhìn nửa thân trên thì chẳng khác nào một ma pháp sư loài người, nhưng nửa thân dưới lại là một con nhện. Thoạt nhìn cứ ngỡ là quái vật Arachne, nhưng việc phần thân trên là đàn ông đã cho thấy rõ hắn không thuộc giống loài ấy.
+Hắn khoác áo choàng và cầm trượng, nhìn nửa thân trên thì y như một ma pháp sư loài người, nhưng nửa thân dưới lại là một con nhện. Thoạt nhìn cứ ngỡ là quái vật Arachne, nhưng việc phần thân trên là đàn ông đã cho thấy rõ hắn không thuộc giống loài ấy.
 
 "...Đến rồi."
 
 Gã ma pháp sư dị dạng vừa lẩm bẩm, những sinh thể quái dị xung quanh cũng đồng loạt hướng mắt về phía ma pháp trận ở trung tâm doanh trại.
 
-Nếu có nhân vật cấp cao nào của Vương quốc Mireana nhìn thấy những kẻ này, họ sẽ nhận ra ngay thân phận của chúng. Bọn chúng chính là Ma Thú Binh — những kẻ được tạo ra từ Nghi thức kế thừa của Đế quốc Bestia. Đúng như tên gọi, diện mạo của chúng muôn hình vạn trạng, trông giống quái vật hơn là con người.
+Nếu có nhân vật cấp cao nào của Vương quốc Mireana nhìn thấy những kẻ này, họ sẽ nhận ra ngay thân phận của chúng. Bọn chúng chính là Ma Thú Binh, những kẻ được tạo ra từ Nghi thức kế thừa của Đế quốc Bestia. Đúng như tên gọi, diện mạo của chúng muôn hình vạn trạng, trông giống quái vật hơn là con người.
 
 Vài giây sau câu nói của gã ma pháp sư dị dạng, ma pháp trận giữa doanh trại lóe lên một luồng sáng chói lòa... Ngay khoảnh khắc tiếp theo, một bóng người xuất hiện giữa tâm trận.
 
@@ -254,9 +254,9 @@ Vài giây sau câu nói của gã ma pháp sư dị dạng, ma pháp trận gi�
 
 "Còn tên đần này tính sao đây ạ?"
 
-Trước câu hỏi của gã đàn ông có hai mang bên mặt, da phủ đầy vảy cá chẳng khác nào người cá, gã ma pháp sư lại liếc nhìn kẻ đang bất tỉnh trong ma pháp trận.
+Trước câu hỏi của gã đàn ông có hai mang bên mặt, da phủ đầy vảy cá trông như người cá, gã ma pháp sư lại liếc nhìn kẻ đang bất tỉnh trong ma pháp trận.
 
-Kẻ yếu ớt này nếu cứ vứt lại đây thì e rằng chẳng sống nổi quá vài tiếng đồng hồ. Nhưng dẫu sao hắn cũng đã quy thuận Đế quốc Bestia, nên thay vì bỏ mặc ở chốn này, mang hắn theo để khai thác thông tin hay làm việc gì đó có lẽ vẫn hữu ích đôi phần.
+Kẻ yếu ớt này nếu cứ vứt lại đây thì e rằng chẳng sống nổi quá vài tiếng đồng hồ. Nhưng dù sao hắn cũng đã quy thuận Đế quốc Bestia, nên thay vì bỏ mặc ở chốn này, mang hắn theo để khai thác thông tin hay làm việc gì đó có lẽ vẫn hữu ích đôi phần.
 
 "Mang hắn theo. Cho dù chẳng moi được tin tức gì ra hồn thì ít ra vẫn dùng làm vật liệu thí nghiệm cơ thể người được."
 

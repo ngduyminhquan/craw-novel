@@ -24,7 +24,7 @@ Nghe giọng Rei, Ara liền đưa mắt nhìn quanh.
 
 Và rồi, tận mắt chứng kiến cảnh tượng đang diễn ra trước mắt, Ara cũng nghẹn lời không thốt nên câu.
 
-Tế đàn nằm ngay cạnh Elena — nguyên do căn phòng này được gọi là Tế đàn kế thừa. Tế đàn nơi viên Ma Thạch Ancient Dragon bị Vel đập nát giữa chừng nghi thức vẫn còn nằm đó, giờ đây lại đang hóa thành làn sương mờ ảo, cứ như sự tồn tại của nó ở nơi này từ trước tới nay chỉ là một ảo ảnh.
+Tế đàn nằm ngay cạnh Elena, nguyên do căn phòng này được gọi là Tế đàn kế thừa. Tế đàn nơi viên Ma Thạch Ancient Dragon bị Vel đập nát giữa chừng nghi thức vẫn còn nằm đó, giờ đây lại đang hóa thành làn sương mờ ảo, cứ như sự tồn tại của nó ở nơi này từ trước tới nay chỉ là một ảo ảnh.
 
 Tế đàn kế thừa, ma pháp trận tỏa ra ba hướng... và cả ma pháp trận nơi Elena đang ngã gục. Tất cả đều biến thành sương mù... rồi ngay khoảnh khắc tiếp theo, chúng như bị hút ngược vào bên trong cơ thể Elena.
 
@@ -100,7 +100,7 @@ Thu lại lượng ma lực đang tỏa ra, Elena đưa mắt nhìn Rei. Đón n
 
 "Vậy... sao. Kuust đã ra đi thanh thản rồi à."
 
-"Ừ. Đúng là một tên khó ưa thật, nhưng đến cuối cùng cậu ta vẫn chết như một hiệp sĩ bảo vệ người mình cần bảo vệ."
+"Ừ. Đúng là một tên khó ưa thật, nhưng đến cuối cùng cậu ta vẫn chết như một kỵ sĩ bảo vệ người mình cần bảo vệ."
 
 "...Vậy sao. Thế thì ta cũng phải sống sao cho xứng đáng với sự hy sinh thanh thản đó của cậu ấy mới được."
 
@@ -132,7 +132,7 @@ Ara dõng dạc tuyên bố, Set cũng gừ nhẹ trong cổ họng tỏ vẻ đ
 
 Vừa bước ra hành lang tầng ngầm thứ sáu, một bầy ba con Emerald Wolf đã xuất hiện. Trước lũ quái vật vừa thấy nhóm Rei liền lao vào tập kích, Set lập tức dùng Uy Áp Vương Giả làm chậm cử động của chúng.
 
-Lũ Emerald Wolf bị chậm cử động giờ đây chẳng khác nào miếng mồi ngon cho Rei và Elena, còn con sót lại cũng bị một cú tát từ chân trước của Set đập nát đầu; trước cả khi Ara kịp ra tay... chỉ trong vỏn vẹn khoảng ba mươi giây kể từ khi chạm trán, lũ quái vật đã bị tiêu diệt sạch sẽ đúng nghĩa trong chớp mắt.
+Lũ Emerald Wolf bị chậm cử động giờ đây chẳng khác gì miếng mồi ngon cho Rei và Elena, còn con sót lại cũng bị một cú tát từ chân trước của Set đập nát đầu; trước cả khi Ara kịp ra tay... chỉ trong vỏn vẹn khoảng ba mươi giây kể từ khi chạm trán, lũ quái vật đã bị tiêu diệt sạch sẽ đúng nghĩa trong chớp mắt.
 
 "Hừm, xem ra cơ thể vẫn chưa quen lắm."
 
@@ -198,7 +198,7 @@ Ngẫm nghĩ lời Rei mất vài giây, vừa hiểu ra cậu đang nói gì, A
 
 "Phải làm sao gì chứ, cứ ngoan ngoãn... ủa khoan đã?"
 
-Đúng lúc ấy, Rei chợt nhớ ra chiếc Quả Cầu Đôi — Đạo Cụ Ma Thuật mà Grimm đã tặng cho cậu.
+Đúng lúc ấy, Rei chợt nhớ ra chiếc Quả Cầu Đôi, Đạo Cụ Ma Thuật mà Grimm đã tặng cho cậu.
 
 Cậu nhớ ra rằng nếu dùng nó để liên lạc với Grimm, một người sử dụng thành thạo Không Gian Ma Pháp như ông ấy hoàn toàn có thể đưa cả nhóm thẳng lên mặt đất cũng nên.
 
@@ -212,7 +212,7 @@ Thấy biểu cảm của Rei, Ara liền cất tiếng hỏi.
 
 Toan lắc đầu bảo không có gì... thì cậu chợt nhớ ra những người có mặt ở đây chỉ có cậu, Set, Elena và Ara.
 
-Đúng vậy. Nói cách khác, ở đây không còn kẻ phản bội như Vel, cũng chẳng còn Kuust — người luôn giữ ác cảm với Rei. Chỉ còn lại Elena và Ara, người tôn sùng Elena tới mức gần như phục tùng vô điều kiện mọi mệnh lệnh của cô.
+Đúng vậy. Nói cách khác, ở đây không còn kẻ phản bội như Vel, cũng chẳng còn Kuust, người luôn giữ ác cảm với Rei. Chỉ còn lại Elena và Ara, người tôn sùng Elena tới mức gần như phục tùng vô điều kiện mọi mệnh lệnh của cô.
 
 (Thế thì dùng [Hạt Giống Trừng Phạt] để bịt miệng là được nhỉ? Dù sao vì vụ của Vel và Kuust mà chưa kịp dùng [Hạt Giống Trừng Phạt] ở Tế đàn kế thừa, ai ngờ lại hữu dụng vào lúc này.)
 

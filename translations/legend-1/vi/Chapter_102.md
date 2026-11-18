@@ -80,7 +80,7 @@ Rei thoáng liếc nhìn về phía Elena đang nằm bất tỉnh trước Tế
 
 "Hừ, ngươi đã phản bội quê hương Vương quốc Mireana để theo Đế quốc Bestia, lại thêm những chuyện xảy ra từ trước đến nay, chứng tỏ trình độ Giả Kim Thuật của Đế quốc Bestia rất cao. Con Chimera dạng bọ ngựa khổng lồ kia chính là ví dụ điển hình nhất."
 
-"Chuẩn không cần chỉnh! Riêng về trình độ Giả Kim Thuật thì Đế quốc Bestia có khi còn ngang ngửa với Ma Đạo Đô Thị Ozos ấy chứ. ...Mà, dù vậy thì việc chế tạo một chiếc túi mở rộng không gian cũng tốn kém kinh khủng. Vả lại dung lượng chứa của túi tôi cũng nhỏ hơn của Elena nhiều."
+"Chuẩn không cần chỉnh! Riêng về trình độ Giả Kim Thuật thì Đế quốc Bestia có khi còn ngang ngửa với thành phố ma đạo Ozos ấy chứ. ...Mà, dù vậy thì việc chế tạo một chiếc túi mở rộng không gian cũng tốn kém kinh khủng. Vả lại dung lượng chứa của túi tôi cũng nhỏ hơn của Elena nhiều."
 
 "Có vẻ là vậy."
 

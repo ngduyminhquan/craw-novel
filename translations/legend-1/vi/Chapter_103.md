@@ -134,7 +134,7 @@ Ara trừng mắt nhìn Rei với ánh mắt xen lẫn sát khí, nhưng nghe đ
 
 Thấy Ara cuối cùng cũng bình tĩnh lại, Rei lấy một chiếc bình từ Nhẫn Sương Mù ra để giúp cô tỉnh táo hơn. Đó là rượu nho mua ở thành phố Gilm.
 
-Bản thân Rei không phải người uống rượu giỏi. Dù vậy, thỉnh thoảng cậu vẫn nhấp vài ngụm cho vui, và đây là thứ cậu mua sẵn để dùng trong những lúc khẩn cấp nhằm giúp tỉnh táo — chính là những lúc thế này.
+Bản thân Rei không phải người uống rượu giỏi. Dù vậy, thỉnh thoảng cậu vẫn nhấp vài ngụm cho vui, và đây là thứ cậu mua sẵn để giúp tỉnh táo những lúc khẩn cấp, như lúc này chẳng hạn.
 
 Cậu dùng sức rút nút bấc khỏi miệng bình, rót ra chiếc cốc rồi đưa về phía Ara.
 
@@ -222,7 +222,7 @@ Sau khi hạ quyết tâm sẽ tự tay tiêu diệt Vel và vết thương ở 
 
 "Thì đúng vậy. Lương thực vẫn còn dư dả, thịt quái vật trong Hộp Vật Phẩm cũng có... nhưng nằm ở chỗ này tôi không nghĩ là tốt cho sức khỏe đâu. ...Nếu chờ thêm nửa ngày nữa mà cô ấy vẫn chưa tỉnh thì dù mạo hiểm, chúng ta cũng sẽ đưa cô ấy ra ngoài."
 
-Rei lấy ra từ Hộp Vật Phẩm một chiếc đồng hồ cát — cũng là một Đạo Cụ Ma Thuật.
+Rei lấy ra từ Hộp Vật Phẩm một chiếc đồng hồ cát, cũng là một Đạo Cụ Ma Thuật.
 
 "Đồng hồ cát này mất hai tiếng để chảy hết cát. Dùng nó để tính nửa ngày, nếu chừng đó mà Elena vẫn chưa tỉnh thì..."
 

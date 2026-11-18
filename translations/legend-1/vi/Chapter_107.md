@@ -130,7 +130,7 @@ Elena gật đầu với Worker rồi ngồi xuống chiếc sofa đối diện.
 
 Cử chỉ nâng chén hồng trà lên miệng của cô toát lên vẻ tao nhã, Worker vừa dõi theo với ánh mắt thán phục vừa cất lời.
 
-"Tôi muốn hỏi xem chuyện gì đã xảy ra tại Tế đàn kế thừa. Dẫu sao một nhân vật lừng danh như Công Chúa Tướng Quân đích thân chinh phục hầm ngục, vậy mà lúc trở về quân số lại giảm đi gần một nửa. Với tư cách là người chịu trách nhiệm chi nhánh Hội nơi đây, tôi buộc phải nắm rõ những gì đã diễn ra."
+"Tôi muốn hỏi xem chuyện gì đã xảy ra tại Tế đàn kế thừa. Dù sao một nhân vật lừng danh như Công Chúa Tướng Quân đích thân chinh phục hầm ngục, vậy mà lúc trở về quân số lại giảm đi gần một nửa. Với tư cách là người chịu trách nhiệm chi nhánh Hội nơi đây, tôi buộc phải nắm rõ những gì đã diễn ra."
 
 "...Hừm. Ta hiểu điều anh nói, nhưng phía ta cũng có những chuyện có thể nói và không thể nói."
 
@@ -158,7 +158,7 @@ Hai người nhìn nhau vài giây, à không, phải đến vài chục giây. 
 
 "Cảm ơn anh. Lát nữa ta sẽ cho người gửi một khoản tiền cảm tạ."
 
-"Dạ không cần bận tâm... tôi cũng muốn nói thế lắm, nhưng dẫu sao đây cũng là chi nhánh Hội nơi biên cảnh xa xôi, nên nếu nhận được hỗ trợ thì chúng tôi vô cùng hoan nghênh."
+"Dạ không cần bận tâm... tôi cũng muốn nói thế lắm, nhưng dù sao đây cũng là chi nhánh Hội nơi biên cảnh xa xôi, nên nếu nhận được hỗ trợ thì chúng tôi vô cùng hoan nghênh."
 
 Worker nở nụ cười tươi tắn như thể bầu không khí căng thẳng ban nãy chưa từng tồn tại. Trước thái độ đó, Elena cũng mỉm cười.
 
@@ -216,7 +216,7 @@ Nói đến đó, Elena bỗng thoáng ngập ngừng.
 
 Sau đó hai người trao đổi ý kiến về hầm ngục thêm chừng mười phút, rồi Worker đứng dậy.
 
-"Thật ngại quá, tôi xin phép được cáo lui tại đây. Dẫu sao Hội ở đây cũng nhỏ bé nên nhân lực còn thiếu thốn nhiều bề."
+"Thật ngại quá, tôi xin phép được cáo lui tại đây. Dù sao Hội ở đây cũng nhỏ bé nên nhân lực còn thiếu thốn nhiều bề."
 
 "Vậy sao, lần này nhờ có anh giúp đỡ nhiều việc. Như ta đã nói ban nãy, ngày mai ta sẽ lên đường nên có lẽ đây là lần cuối chúng ta gặp nhau rồi."
 
