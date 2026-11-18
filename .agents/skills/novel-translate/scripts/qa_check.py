@@ -5,7 +5,8 @@
 
 Kiểm tra: số đoạn lệch (dấu hiệu bỏ sót), số đoạn [ ], từ tiếng Anh sót lại, T/N còn sót,
 thuật ngữ/tên trong glossary + characters có xuất hiện ở raw mà bản dịch không dùng đúng bản dịch,
-lẫn lộn kiểu ngoặc kép. Exit 1 nếu có LỖI, 0 nếu chỉ có cảnh báo hoặc sạch.
+lẫn lộn kiểu ngoặc kép, gạch ngang raw không có, cụm style.md bảo tránh (vế trái của "→"),
+đoạn thoại/lời dẫn lệch với raw (raw tiếng Nhật). Exit 1 nếu có LỖI, 0 nếu chỉ có cảnh báo hoặc sạch.
 """
 import argparse
 import re
@@ -30,6 +31,50 @@ IMAGE_RE = re.compile(r"^!\[([^\]]*)]\(([^)]+)\)$")
 # In nghiêng Markdown "*khụ*", "_nhồm nhoàm_". Không bắt chữ bị che kiểu "M** ***t", "dig*mon"
 # (dấu * dính liền chữ cái ở phía ngoài).
 ITALIC_RE = re.compile(r"(?<![\w*])\*(?=[^\s*])[^*\n]*?(?<=[^\s*])\*(?![\w*])|(?<![\w_])_(?=[^\s_])[^_\n]*?(?<=[^\s_])_(?![\w_])")
+
+
+# style.md liệt kê cụm cần tránh dạng: `"cụm cũ"` / `"cụm cũ 2"` → `"cụm thay"`. Lấy các cụm đứng trước "→".
+STYLE_PHRASE_RE = re.compile(r'`"([^"`]+)"`')
+def raw_kind(p):
+    """Loại đoạn raw tiếng Nhật: 'd' thoại 「」, 'b' cả đoạn bọc 『』/【】 (truyền âm, thông báo hệ thống,
+    bảng kỹ năng, có thể kèm 'new' ở cuối), 'n' lời dẫn."""
+    if p.startswith("「"):
+        return "d"
+    s = re.sub(r"\s*(new|ｎｅｗ)\s*$", "", p.rstrip(), flags=re.IGNORECASE)
+    if s[:1] in "『【" and s[-1:] in "』】":
+        return "b"
+    return "n"
+
+
+def vi_kind(line):
+    if line[:1] in '"“':
+        return "d"
+    return "b" if line[:1] == "[" else "n"
+
+
+def kind_mismatch(raw_p, vi_line):
+    rk, vk = raw_kind(raw_p), vi_kind(vi_line)
+    # 『』/【】 dịch thành [ ] hay ngoặc kép tùy ngữ cảnh (rules.md), chỉ báo khi thành lời dẫn.
+    return vk == "n" if rk == "b" else rk != vk
+
+
+def style_banned(ctx):
+    """Các cụm style.md bảo tránh (vế trái của "→"). Cụm viết hoa chữ đầu (từ nối đầu câu) so khớp phân biệt hoa thường."""
+    p = ctx / "style.md"
+    if not p.exists():
+        return []
+    out = []
+    for line in read_text(p).splitlines():
+        for seg in line.split(";"):
+            if "→" not in seg:
+                continue
+            for ph in STYLE_PHRASE_RE.findall(seg.split("→", 1)[0]):
+                ph = ph.strip()
+                if len(ph) < 3 or " / " in ph or "..." in ph or "…" in ph:
+                    continue
+                flags = 0 if ph[0].isupper() else re.IGNORECASE
+                out.append((ph, re.compile(r"(?<!\w)" + re.escape(ph) + r"(?!\w)", flags)))
+    return out
 
 
 def vi_paragraphs(text):
@@ -84,13 +129,18 @@ def check(novel, row):
         if missing_imgs:
             errors.append(f"thiếu dòng ảnh có trong raw: {', '.join(missing_imgs)} — giữ nguyên dòng ảnh ở đúng vị trí")
 
+    mismatched = []
     for n, line in enumerate(vi_paras, 1):
-        # Cặp gạch ngang "— ... —" tự sinh thay cho dấu phẩy (natural-vietnamese.md mục 5): chỉ báo khi đoạn raw
+        # Gạch ngang "—" tự sinh thay cho dấu phẩy (natural-vietnamese.md mục 5): chỉ báo khi đoạn raw
         # tương ứng không có gạch ngang nào (raw tiếng Nhật dùng "――" khi tác giả thật sự ngắt câu).
-        if ja and len(re.findall(r"[—–]", line)) >= 2 and n <= len(raw_paras) \
+        if ja and re.search(r"[—–]", line) and n <= len(raw_paras) \
                 and not re.search(r"[―—–─‐-]", raw_paras[n - 1]):
-            warns.append(f"đoạn {n} có cặp gạch ngang '— ... —' mà raw không có: thay bằng dấu phẩy hoặc tách câu "
+            warns.append(f"đoạn {n} có gạch ngang '—' mà raw không có: thay bằng dấu phẩy, hai chấm hoặc tách câu "
                          f"(natural-vietnamese.md mục 5): {line[:90]}")
+        # Đoạn thoại thành lời dẫn hay ngược lại: dấu hiệu dịch trượt mạch hoặc tự bịa đoạn nhưng vẫn giữ đủ số đoạn.
+        if ja and n <= len(raw_paras):
+            if kind_mismatch(raw_paras[n - 1], line):
+                mismatched.append(n)
         if ODD_SCRIPT_RE.search(line):
             errors.append(f"đoạn {n} có ký tự lạ ({', '.join(ODD_SCRIPT_RE.findall(line))[:30]}) — "
                           f"chữ Kirin/Thái/Hangul... lẫn vào, sửa lại: {line[:90]}")
@@ -108,10 +158,25 @@ def check(novel, row):
         if "![" in line:
             errors.append(f"đoạn {n} có ảnh lẫn trong đoạn văn, ảnh phải nằm riêng một dòng: {line[:90]}")
 
+    if mismatched:
+        msg = (f"đoạn {', '.join(map(str, mismatched[:12]))}{' ...' if len(mismatched) > 12 else ''} lệch thoại/lời dẫn "
+               "so với raw (raw là thoại 「」 mà bản dịch không phải, hoặc ngược lại) — đối chiếu bằng --side --full "
+               "--paras, nghi dịch trượt mạch hoặc tự bịa đoạn")
+        # Lệch liền 2 đoạn trở lên thì gần như chắc chắn trượt mạch.
+        if any(b - a == 1 for a, b in zip(mismatched, mismatched[1:])):
+            errors.append(msg)
+        else:
+            warns.append(msg)
+
     if "“" in vi_text or "”" in vi_text:
         warns.append("có ngoặc kép cong “ ” — đổi sang ngoặc kép thẳng \"...\" theo rules.md")
 
     ctx = novel["context"]
+    for ph, rx in style_banned(ctx):
+        found = [n for n, line in enumerate(vi_paras, 1) if rx.search(line)]
+        if found:
+            warns.append(f"dùng '{ph}' mà style.md bảo tránh ({len(found)} đoạn: "
+                         f"{', '.join(map(str, found[:8]))}{' ...' if len(found) > 8 else ''}) — đổi theo style.md")
     # Xét thuật ngữ dài trước và che phần đã khớp, để "God of Concealment" không bị tính là "God",
     # "Status points" không bị tính là "Status".
     char_entries = entries(ctx / "characters.md")

@@ -477,7 +477,9 @@ def get_arc(novel, no):
 def cmd_set_arc_summary(novel, no, text):
     check_summary_text(text)
     if len(text) > ARC_SUMMARY_LIMIT:
-        die(f"tóm tắt arc dài {len(text)} ký tự, tối đa {ARC_SUMMARY_LIMIT}: viết gọn lại")
+        die(f"tóm tắt arc dài {len(text)} ký tự, tối đa {ARC_SUMMARY_LIMIT}: cắt bớt ít nhất "
+            f"{len(text) - ARC_SUMMARY_LIMIT + 200} ký tự (nhắm khoảng {ARC_SUMMARY_LIMIT * 4 // 5} ký tự) rồi ghi lại. "
+            "Bỏ chi tiết đánh nhau, tên quái vật phụ, câu dẫn; giữ kết quả, nhân vật mới, mạch còn dở")
     a = get_arc(novel, no)
     path = arc_file(novel, a)
     _, chapters = read_arc_file(path)
@@ -487,7 +489,9 @@ def cmd_set_arc_summary(novel, no, text):
 
 def cmd_set_story(novel, no, text):
     if len(text) > STORY_LIMIT:
-        die(f"story-so-far dài {len(text)} ký tự, tối đa {STORY_LIMIT}: nén các arc cũ lại")
+        die(f"story-so-far dài {len(text)} ký tự, tối đa {STORY_LIMIT}: cắt bớt ít nhất "
+            f"{len(text) - STORY_LIMIT + 400} ký tự (nhắm khoảng {STORY_LIMIT * 5 // 6} ký tự) bằng cách nén các arc cũ "
+            "trong phần Diễn biến, gộp nhiều arc cũ thành một câu")
     a = get_arc(novel, no)
     p = arc_file(novel, a)
     if not (p.exists() and arc_summary_text(read_text(p))):
