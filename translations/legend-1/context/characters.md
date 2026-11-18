@@ -41,7 +41,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Elena | エレーナ; エレーナ・ケレベル | Elena | Tiểu thư nhà Công tước Kerebel, được mệnh danh là Công Chúa Tướng Quân | Chương 62 |
 | Kuust | キュステ; キュステ・ブラシン | Kuust | Đội trưởng đội hộ vệ của Elena Kerebel, con thứ của Hầu tước Brassin | Chương 62 |
 | Daska | ダスカー; ダスカー・ラルクス | Daska | Tên riêng của Bá tước biên cảnh Rowlocks (Daska Rowlocks) | Chương 62 |
-| Vel | ヴェル; ヴェル・セイルズ | Vel | Hộ vệ của Elena Kerebel, con thứ của Tử tước Sails, phụ trách hậu cần | Chương 62 |
+| Vel | ヴェル; ヴェル・セイルズ | Vel | Kẻ phản bội theo phe Đế quốc Bestia, kẻ sát nhân tìm khoái cảm, con thứ của Tử tước Sails | Chương 62 |
 | Ara | アーラ; アーラ・スカーレイ | Ara | Hộ vệ của Elena Kerebel, con gái thứ ba của Bá tước Scarley | Chương 63 |
 | Trenma | トレンマ | Trenma | Phó đoàn trưởng kỵ sĩ đoàn Gilm | Chương 64 |
 | Linde | リンデ | Linde | Thiếu niên tạp vụ quán trọ ở ngôi làng quanh hầm ngục | Chương 72 |
@@ -56,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 99: Thẻ Hội Hạng D; nhận lời bảo vệ Elena làm Nghi thức kế thừa với Ma Thạch Ancient Dragon thì bị Vel phản bội và bị Kuust đâm ma thương vào sườn.
+- Trạng thái tính đến chương 100: Thẻ Hội Hạng D; nhờ Áo Choàng Rồng đỡ đòn đâm lén của Kuust, đang một mình đối đầu Vel và Kuust bị thao túng tâm trí tại Tế đàn kế thừa.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set
@@ -203,7 +203,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Kuust
 - Nam, tầm 20 tuổi, mặt mũi khôi ngô, tóc màu cam; tính cách kiêu ngạo, coi thường thường dân và mạo hiểm giả, rất coi trọng thể diện quý tộc và trung thành với Elena.
 - Vũ khí và ma pháp: Dùng ma thương; khuyên tai bên phải là vật phát động ma pháp; sử dụng ma pháp hệ Thủy gồm hồi phục [Lam Dũ] và tấn công [Nanh Nước].
-- Trạng thái tính đến chương 99: Đột ngột tuân theo mệnh lệnh của Vel đâm ma thương vào sườn Rei từ phía sau khi Rei lao tới cản Vel phá Ma Thạch.
+- Trạng thái tính đến chương 100: Bị Vel dùng ma pháp dược kích thích ác cảm với Rei để thao túng tâm trí, đâm lén Rei rồi bị điều khiển làm tiên vệ cho Vel đối đầu Rei.
 
 ### Ara
 - Nữ hiệp sĩ dưới 20 tuổi, thành viên đội hộ vệ của Elena; xuất thân quý tộc (con gái thứ ba của Bá tước Scarley thuộc Phe Quý Tộc), cực kỳ say mê và sùng bái Elena.
@@ -212,13 +212,13 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 
 ### Vel
 - Nam hiệp sĩ khoảng hơn 20 tuổi, con thứ của Tử tước Sails, thành viên đội hộ vệ của Elena; tính cách thoải mái, hay nói đùa, phụ trách hậu cần và thu thập tin tức trong đội.
-- Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; biết ma pháp hệ Thổ và đảm nhận vai trò trinh sát, gỡ bẫy như đạo tặc.
-- Trạng thái tính đến chương 99: Lộ mặt là kẻ phản bội trong Nghi thức kế thừa, cố tình phá hủy Ma Thạch Ancient Dragon của Elena và ra lệnh cho Kuust đâm Rei.
+- Vũ khí và vị trí: Hậu vệ dùng cung, kiêm tiền vệ dùng đoản kiếm; sở hữu Dao Độc và sinh vật ma pháp hộ vệ dạng xúc tu tím do Giả Kim Thuật Sư Bestia tạo ra; biết ma pháp hệ Thổ.
+- Trạng thái tính đến chương 100: Phá hủy Ma Thạch Ancient Dragon làm gián đoạn nghi thức; dùng sinh vật ma pháp dạng xúc tu tím và Dao Độc, thao túng Kuust làm tiên vệ đối đầu Rei.
 
 ### Elena
 - Tiểu thư nhà Công tước Kerebel, nổi tiếng khắp nơi với danh hiệu Công Chúa Tướng Quân (từng đơn đả độc đấu hạ tướng quân Đế quốc Bestia); tuyệt sắc giai nhân, tóc vàng lọn xoăn, toàn thân trang bị Đạo Cụ Ma Thuật cao cấp. Tận tụy với nghĩa vụ quý tộc nhưng không màng tranh giành quyền lực; chỉ chấp nhận trao thân cho người mạnh hơn mình.
 - Vũ khí và ma pháp: Ma Pháp Chiến Sĩ sở trường trung vệ bằng liên tiếp kiếm và ma pháp hệ Phong (sử dụng được cả ma pháp kết hợp lôi như Lốc Xoáy Sấm Sét); trang bị Giày Sleipnir.
-- Trạng thái tính đến chương 99: Làm Nghi thức kế thừa tại Tế đàn kế thừa với Ma Thạch Ancient Dragon, đang tiếp nhận sức mạnh thì bị Vel và Kuust phản bội tấn công.
+- Trạng thái tính đến chương 100: Bất tỉnh trong ma pháp trận do Ma Thạch Ancient Dragon bị Vel phá hủy khiến Nghi thức kế thừa bị gián đoạn giữa chừng.
 
 ### Trenma
 - Nam trung niên cơ bắp cuồn cuộn, ánh mắt kiên định; phó đoàn trưởng kỵ sĩ đoàn bảo vệ thành phố Gilm, thuộc hạ thân tín của Daska Rowlocks.

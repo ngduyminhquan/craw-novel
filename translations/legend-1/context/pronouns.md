@@ -229,3 +229,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Vel | ta / tôi | ngươi / anh / Vel | 99 | Khi Vel lộ mặt là kẻ phản bội |
 | Rei | Elena | tôi | Elena / cô / tiểu thư Elena | 99 | Sau khi được phép bỏ kính ngữ ở chương 97, nói chuyện tự nhiên bình đẳng |
 | Vel | Elena | tôi / ta | Elena / cô / cô ta | 99 | Khi Vel lộ mặt là kẻ phản bội, bỏ kính ngữ với Elena |
+| Vel | Rei | tôi | cậu / Rei | 100 | Khi Vel lộ mặt là kẻ phản bội, nói chuyện cợt nhả, biến thái |

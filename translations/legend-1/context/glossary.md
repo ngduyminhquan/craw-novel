@@ -224,3 +224,5 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 継承の儀式 |  | Nghi thức kế thừa | khác | 98 | Nghi thức tiến hành tại Tế đàn kế thừa để con người hấp thụ Ma Thạch quái vật thành sức mạnh của bản thân |
 | エンシェントドラゴン |  | Ancient Dragon | quái vật | 99 | Rồng cổ đại sống hàng nghìn năm, quái vật truyền thuyết sánh ngang hoặc vượt trên Lich Lord |
 | ボス部屋 |  | phòng trùm | khác | 97 | Phòng của quái vật trùm trong hầm ngục; viết thường |
+| 魔獣兵 |  | Ma Thú Binh | chức nghiệp | 100 | Binh sĩ Đế quốc Bestia sống sót qua Nghi thức kế thừa, sở hữu năng lực đặc thù từ quái vật |
+| ポイズンナイフ |  | Dao Độc | vật phẩm | 100 | Đạo Cụ Ma Thuật dạng dao găm lưỡi tím của Vel, có độc gây tê liệt khoảng 10 phút |
