@@ -219,3 +219,6 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 死霊術士 |  | Tử Linh Thuật Sĩ | chức nghiệp | 93 | Ma thuật sư chuyên về ma thuật tử linh thời cổ đại |
 | エメラルドウルフ |  | Emerald Wolf | quái vật | 94 | Quái vật dạng sói to lớn, Hạng C (bầy đàn tương đương Hạng B), có hai nanh dài màu lục thẫm và hai xúc tu mọc ở lưng |
 | スプリガン |  | Spriggan | quái vật | 96 | Quái vật Hạng B thuộc loài người khổng lồ, bình thường có hình dạng tiểu nhân da xanh lùn như Goblin nhưng khi chiến đấu sẽ hóa khổng lồ cao 6m |
+| 銀獅子 |  | Sư Tử Bạc | quái vật | 98 | Quái vật trùm Hạng S canh giữ lõi hầm ngục tại tầng đáy cùng |
+| 獅子の咆吼 |  | Tiếng Gầm Sư Tử | kỹ năng | 98 | Kỹ năng sóng xung kích phát ra từ tiếng gầm của Sư Tử Bạc |
+| 継承の儀式 |  | Nghi thức kế thừa | khác | 98 | Nghi thức tiến hành tại Tế đàn kế thừa để con người hấp thụ Ma Thạch quái vật thành sức mạnh của bản thân |
