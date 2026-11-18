@@ -66,7 +66,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
 - Trạng thái tính đến chương 117: Thẻ Hội Hạng D; thành tích thăng Hạng C tạm bị đóng băng; cùng Set phát triển thành công chiêu phối hợp Lốc Lửa chuẩn bị đối phó Đế quốc Bestia.
-- Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm, Nghiệp Hỏa Cuộn Xoáy), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.2 (nâng cấp chương 115), Khiên Ma Thuật Lv.1 (chương 44), Cường Lực Trảm Lv.1 (chương 116), Bàn Tay Gió Lv.1 (chương 116).
+- Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm, Nghiệp Hỏa Cuộn Xoáy, Ngọn Lửa Hối Hận), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.2 (nâng cấp chương 115), Khiên Ma Thuật Lv.1 (chương 44), Cường Lực Trảm Lv.1 (chương 116), Bàn Tay Gió Lv.1 (chương 116).
 
 ### Set
 - Giới tính, tuổi/vẻ ngoài: Griffin (Điêu sư) dài hơn 2m, nửa thân trước đại bàng với mỏ đen sắc và mắt tròn xanh lam, nửa thân sau sư tử lông mượt như lụa, có cánh lớn.
