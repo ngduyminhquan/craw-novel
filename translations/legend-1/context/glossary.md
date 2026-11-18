@@ -255,3 +255,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | ハーピー |  | Harpy | quái vật | 126 | Quái vật Hạng D biết bay, thường sống theo bầy trên núi |
 | 魔水晶 |  | Ma Thủy Tinh | vật phẩm | 126 | Khoáng thạch ma pháp làm vật dẫn trung gian phát động ma pháp, tăng nhẹ uy lực |
 | 火炎鉱石 |  | Quặng Hỏa Viêm | vật phẩm | 126 | Khoáng thạch chứa ma lực Hỏa dùng làm nguyên liệu Giả Kim Thuật, loại tinh khiết phát nổ khi va chạm mạnh |
+| 地揺れの槌 |  | Búa Địa Chấn | vật phẩm | 129 | Cây búa chiến Đạo Cụ Ma Thuật của Brazos, tăng 3 lần uy lực đòn đánh nhưng cần 3 ngày để hồi ma lực |

@@ -286,6 +286,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Brazos
 - Chiến sĩ Dwarf cao chừng 1m40, cơ bắp cuồn cuộn, râu cằm dài chạm ngực, sử dụng búa chiến khổng lồ cán dài gần 1m bằng kim loại ma pháp đen tuyền.
 - Thành viên tổ đội Hạng C Chiến Binh Đập Tan cùng Freon; cực kỳ mê rượu, coi rượu như nước lã nhưng tửu lượng cực khủng, không bao giờ say. Từng định theo nghề thợ rèn nhưng không hợp.
+- Vũ khí: Cây búa chiến Đạo Cụ Ma Thuật [Búa Địa Chấn] do cha mẹ tặng; truyền ma lực tăng 3 lần uy lực một đòn đánh nhưng mất 3 ngày để hồi ma lực.
 
 ### Bolton
 - Đứng đầu Thương Hội Azoth, kẻ nắm trùm mạng lưới các cửa hàng vũ khí tại Gilm; tính tình hống hách, lộng quyền nhưng có năng lực kinh doanh thực tế.
