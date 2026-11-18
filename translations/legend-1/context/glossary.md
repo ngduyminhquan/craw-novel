@@ -242,3 +242,4 @@ Mục đã bị xoá vì là cụm miêu tả hay danh từ chung. Mỗi dòng: 
 | 開封 |  | Khai Phong | kỹ năng | 108 | Từ khóa hoặc ma pháp mở niêm phong phong thư |
 | アゾット商会 |  | Thương Hội Azoth | tổ chức | 110 | Thương hội lớn tại thành phố Gilm chuyên buôn bán vũ khí |
 | 子爵 |  | Tử tước | danh hiệu | 110 | Tước vị quý tộc; viết hoa khi đi liền với tên riêng: Tử tước Sails |
+| ビックボア | ビッグボア | Big Boar | quái vật | 113 | Quái vật lợn rừng lớn, thịt xiên nướng |

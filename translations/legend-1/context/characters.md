@@ -50,6 +50,8 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 | Grimm | グリム | Grimm | Lich Lord cổ đại sống từ thời Zepairu hàng nghìn năm trước | Chương 93 |
 | Liberte | リベルテ | Liberte | Tên riêng của Công tước Kerebel (Liberte Kerebel) | Chương 108 |
 | Filma Desir | フィルマ・デジール; フィルマ | Filma Desir | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel, con thứ của Hầu tước Desir | Chương 108 |
+| Kumito | クミト | Kumito | Cậu bé 10 tuổi, con trai thợ rèn Pamidoor mới chuyển đến Gilm | Chương 113 |
+| Pamidoor | パミドール | Pamidoor | Thợ rèn tay nghề cao mới chuyển đến Gilm, cha của Kumito (chương 113 được nhắc tên) | Chương 113 |
 
 ## Chi tiết
 
@@ -250,3 +252,12 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 ### Filma Desir
 - Nam, cuối độ tuổi 30, thân thể cường tráng; sở hữu tài điều binh thao lược, tầm nhìn bao quát và luôn xông pha nơi tiền tuyến cổ vũ sĩ khí; được mệnh danh là thủ hộ thần của lãnh địa Công tước Kerebel.
 - Trạng thái tính đến chương 108: Nhận lệnh của Công tước Kerebel tại Anesis, lập đội truy kích Kỵ Sĩ Rồng đi tiêu diệt Tử tước Sails và đề phòng đám Ma Thú Binh.
+
+### Kumito
+- Giới tính, tuổi/vẻ ngoài: Nam, khoảng 10 tuổi, ngoại hình lanh lợi, đáng yêu, hoàn toàn không giống ông bố thợ rèn bặm trợn.
+- Tính cách: Can đảm, bướng bỉnh không chịu khuất phục trước kẻ bắt nạt, biết tự vệ bằng đoản côn sắt do bố làm; rất thích ma thú, thân thiện với Set.
+- Quan hệ với nhân vật khác: Con trai duy nhất của thợ rèn Pamidoor; quý mến Rei và Set sau khi được giải cứu.
+- Trạng thái tính đến chương 113: Được Rei và Set giải cứu khỏi nhóm thiếu niên bắt nạt tống tiền vũ khí; giới thiệu tiệm rèn của cha gần thư viện cho Rei.
+
+### Pamidoor
+- Giới tính, nghề nghiệp: Nam, thợ rèn tay nghề cao mới chuyển đến thành phố Gilm mở tiệm gần thư viện; cha của Kumito (chương 113 chỉ được nhắc tên).

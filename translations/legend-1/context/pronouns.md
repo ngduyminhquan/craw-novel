@@ -54,6 +54,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Grimm | lão / Grimm | 93 | Lich Lord cổ đại sống từ thời Zepairu |
 | Vel | anh / hắn / Vel | 99 | Lộ mặt là kẻ phản bội |
 | Filma Desir | anh / Filma | 108 | Đoàn trưởng kỵ sĩ đoàn Công tước Kerebel |
+| Kumito | cậu bé / Kumito / đứa trẻ | 113 | Cậu bé 10 tuổi con trai thợ rèn Pamidoor |
 
 ## Giữa các nhân vật
 
@@ -241,3 +242,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Elena | Daska | tôi | ngài Daska / ngài | 110 | Tiểu thư nhà Công tước nói với Bá tước biên cảnh |
 | Ara | Daska | tôi | ngài Daska / Bá tước biên cảnh Rowlocks / ngài | 112 | Nữ hiệp sĩ quý tộc nói với Bá tước biên cảnh Rowlocks |
 | Ara | Set | tôi / bọn tôi | mày / Set | 112 | Ara trò chuyện thân thiện và cho Set ăn |
+| Kumito | Rei | em | anh / anh Rei | 113 | Cậu bé 10 tuổi nói chuyện và cảm ơn thiếu niên đã giải cứu mình |
+| Rei | Kumito | tôi / anh | nhóc / em | 113 | Thiếu niên mạo hiểm giả nói chuyện với cậu bé 10 tuổi |
+| Kumito | Set | em | Set | 113 | Cậu bé 10 tuổi thân thiện gọi tên Set |
