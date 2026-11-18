@@ -70,7 +70,7 @@ Cậu tung Ma Thạch lên không trung rồi nhanh thoăn thoắt vung Lưỡi 
 
 Rốt cuộc chẳng có giọng thông báo nào vang lên trong tâm trí, Rei chỉ biết thở dài.
 
-Sau đó, Rei cứ như một dây chuyền làm việc thuần thục, tiếp tục cắt lấy bộ phận xác nhận thảo phạt, nguyên liệu và Ma Thạch của lũ Lizardman. Thịt thì cất vào Nhẫn Sương Mù, phần nội tạng không dùng tới thì hất xuống hố đã đào; mất gần một tiếng đồng hồ kể từ khi bắt đầu con Lizardman đầu tiên, cuối cùng cậu cũng xử lý xong toàn bộ số xác của loài này.
+Sau đó, Rei cứ như một dây chuyền làm việc thuần thục, tiếp tục cắt lấy bộ phận xác nhận thảo phạt, nguyên liệu và Ma Thạch của lũ Lizardman. Thịt thì cất vào Nhẫn Sương Mù, phần nội tạng không dùng tới thì hất xuống hố đã đào. Mất gần một tiếng đồng hồ kể từ khi bắt đầu con Lizardman đầu tiên, cuối cùng cậu cũng xử lý xong toàn bộ số xác của loài này.
 
 "Tiếp theo là Lizardman General nhỉ. Con này là cá thể cấp cao của Lizardman nên Ma Thạch hẳn đáng trông đợi lắm đây... Chậc, sách hướng dẫn lại không ghi. Nguyên liệu có giống như Lizardman thường không ta?"
 
@@ -90,7 +90,7 @@ Tiếp đó, tương tự như với Lizardman, cậu cắt lấy phần chóp �
 
 "Gừưư."
 
-Trước câu hỏi của Rei, Set khẽ lắc đầu. Nhìn chú Griffin dùng đôi mắt tròn xoe như muốn bảo cậu hãy nhường cho Lưỡi Hái Tử Thần mà Rei sử dụng, Rei bất giác mỉm cười rồi đưa tay gãi gãi đầu cho nó.
+Trước câu hỏi của Rei, Set khẽ lắc đầu. Nhìn chú Griffin dùng đôi mắt tròn xoe như muốn bảo cậu hãy nhường cho Lưỡi Hái Tử Thần mà cậu sử dụng, Rei bất giác mỉm cười rồi đưa tay gãi gãi đầu cho nó.
 
 "Ngại quá, vậy tao nhận lòng tốt của nhóc nhé."
 
@@ -202,7 +202,7 @@ Set cất tiếng kêu đáp lại chỉ thị của Rei, hai quả Thủy Cầu
 
 Bốp!
 
-Hai quả Thủy Cầu va vào thân cây vỡ tung tóe với một âm thanh khô giòn. Uy lực của nó chỉ dừng lại ở mức làm tróc một phần vỏ ngoài của thân cây, chỉ nhỉnh hơn đôi chút so với hồi Lv.1; thế nhưng do số lượng Thủy Cầu tăng lên thành hai quả nên phạm vi ảnh hưởng đã rộng hơn trước đáng kể.
+Hai quả Thủy Cầu va vào thân cây vỡ tung tóe với một âm thanh khô giòn. Uy lực của nó chỉ dừng lại ở mức làm tróc một phần vỏ ngoài của thân cây, chỉ nhỉnh hơn đôi chút so với hồi Lv.1, thế nhưng do số lượng Thủy Cầu tăng lên thành hai quả nên phạm vi ảnh hưởng đã rộng hơn trước đáng kể.
 
 "Uy lực thì chưa bàn, nhưng phạm vi đã tăng lên rồi. Tốt lắm, nhóc làm khá lắm Set."
 

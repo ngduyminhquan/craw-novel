@@ -98,7 +98,7 @@ Rei gật gù hài lòng. Dù sao thì các kỹ năng Lưỡi Hái Tử Thần 
 
 "Gùuu."
 
-Bị Set giục giã mau cho nó ăn, Rei cất cái xác Ogre đang mổ dở dang và tạm hoãn róc xương xẻ thịt lại vào Nhẫn Sương Mù, rồi lôi xác con Spriggan ra. Kích thước của nó lên tới chừng 6m, vượt cả Ogre. Huống chi khác với Ogre bị chém cụt đầu, xác Spriggan chỉ cụt từ cổ tay trái trở đi nên thân hình đồ sộ của nó càng nổi bật hơn bao giờ hết.
+Bị Set giục giã mau tới lượt mình, Rei cất cái xác Ogre đang mổ dở dang và tạm hoãn róc xương xẻ thịt lại vào Nhẫn Sương Mù, rồi lôi xác con Spriggan ra. Kích thước của nó lên tới chừng 6m, vượt cả Ogre. Huống chi khác với Ogre bị chém cụt đầu, xác Spriggan chỉ cụt từ cổ tay trái trở đi nên thân hình đồ sộ của nó càng nổi bật hơn bao giờ hết.
 
 "Để xem... Spriggan, Spriggan..."
 
