@@ -176,6 +176,6 @@ Rốt cuộc ngày hôm đó, Rei đành phải ngồi tiếp rượu cùng hai 
 
 Người giải cứu Rei vào phút chót chính là Lenora, còn Freon và Brazos sau cuộc nhậu tưng bừng thì lại thong dong lên đường làm ủy thác.
 
-Đáng nói là lúc đó, Brazos trông chẳng hề có vẻ say xỉn, cộng với Freon đã quá quen tính đồng đội nên dẫu bữa rượu biến thành tiệc tùng thì cô cũng hầu như chẳng uống giọt nào, thành ra bước chân của cả hai vẫn hết sức vững vàng.
+Đáng nói là lúc đó, Brazos trông chẳng hề có vẻ say xỉn, cộng với Freon đã quá quen tính đồng đội nên dù bữa rượu biến thành tiệc tùng thì cô cũng hầu như chẳng uống giọt nào, thành ra bước chân của cả hai vẫn hết sức vững vàng.
 
 ...Còn Rei thì say quắc cần câu tại chỗ, chẳng còn hơi sức đâu mà nhận với chả làm ủy thác nữa.

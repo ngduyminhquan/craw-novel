@@ -36,7 +36,7 @@ Dứt lời chú, ngọn lửa tụ lại nơi lưỡi hái của Lưỡi Hái T
 
 Ngay khi ma pháp kích hoạt, ngọn lửa liền biến mất như thể ngấm dần vào trong Nhẫn Sương Mù.
 
-Đúng như lời chú niệm, hễ kẻ nào muốn cướp lấy Nhẫn Sương Mù trái với ý muốn của Rei... hoặc lúc cậu đang mất ý thức như ngày hôm qua, kẻ đó sẽ phải chịu sự thanh tẩy của ngọn lửa; đây là một loại ma pháp mang hiệu quả chống trộm. ...Có điều, uy lực của nó thì chẳng hề nhẹ nhàng như hai chữ "chống trộm" đâu.
+Đúng như lời chú niệm, hễ kẻ nào muốn cướp lấy Nhẫn Sương Mù trái với ý muốn của Rei... hoặc lúc cậu đang mất ý thức như ngày hôm qua, kẻ đó sẽ phải chịu sự thanh tẩy của ngọn lửa, đây là một loại ma pháp mang hiệu quả chống trộm. ...Có điều, uy lực của nó thì chẳng hề nhẹ nhàng như hai chữ "chống trộm" đâu.
 
 Sau đó, Rei chỉnh trang lại quần áo qua loa rồi đi xuống tầng một.
 
@@ -56,7 +56,7 @@ Lana vừa nói vừa dọn bữa sáng nhẹ lên bàn. Có lẽ biết cậu �
 
 "Vâng, nên thế ạ."
 
-Lana mỉm cười gật đầu rồi quay lại với công việc. Nhìn theo bóng lưng bà, Rei bắt đầu dùng bữa sáng.
+Lana mỉm cười gật đầu rồi quay lại với công việc. Nhìn theo bóng lưng cô, Rei bắt đầu dùng bữa sáng.
 
 "A, cậu Rei. Chào buổi sáng. Cậu không sao chứ?"
 

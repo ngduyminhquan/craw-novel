@@ -2,7 +2,7 @@
 
 "Vậy tiền thu mua nguyên liệu và bộ phận xác nhận thảo phạt tổng cộng là 1 đồng bạch kim và 8 đồng vàng. Mời cậu kiểm tra lại."
 
-Tại quầy tiếp tân ở tầng một của Hội, Rei kiểm tra số đồng vàng và đồng bạch kim vừa nhận từ Lenora. Về nguyên liệu quái vật mang tới lần này, cậu không đưa ra những con hiếm có như Spriggan, vả lại phần lớn Emerald Wolf vốn có giá mua bán rất cao cũng chưa được xẻ thịt mà vẫn nằm trong Nhẫn Sương Mù; xét đến điều đó thì mức giá thu mua nguyên liệu như vậy đã có thể coi là khá hời rồi.
+Tại quầy tiếp tân ở tầng một của Hội, Rei kiểm tra số đồng vàng và đồng bạch kim vừa nhận từ Lenora. Về nguyên liệu quái vật mang tới lần này, cậu không đưa ra những con hiếm có như Spriggan, vả lại phần lớn Emerald Wolf vốn có giá mua bán rất cao cũng chưa được xẻ thịt mà vẫn nằm trong Nhẫn Sương Mù, xét đến điều đó thì mức giá thu mua nguyên liệu như vậy đã có thể coi là khá hời rồi.
 
 Hài lòng với số tiền đó, Rei cất túi đựng đồng vàng và đồng bạch kim vào túi trong của Áo Choàng Rồng.
 

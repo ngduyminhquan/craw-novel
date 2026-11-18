@@ -70,7 +70,7 @@ Dĩ nhiên, không phải là không có những vật phát động ma pháp s�
 
 (Chỉ riêng món Đạo Cụ Ma Thuật đó thôi ắt hẳn cũng là một gia tài kếch xù. Và quan trọng nhất vẫn là Hộp Vật Phẩm.)
 
-Dù là một sự tồn tại đáng ghét, nhưng cứ thế bỏ qua thì tiếc quá. Quá đỗi nuối tiếc. Dù là các loại Đạo Cụ Ma Thuật nó đang sở hữu hay con Griffin kia, tất cả đều là những thứ giá trị đến nhường ấy.
+Dù là một kẻ đáng ghét, nhưng cứ thế bỏ qua thì tiếc quá. Quá đỗi nuối tiếc. Dù là các loại Đạo Cụ Ma Thuật nó đang sở hữu hay con Griffin kia, tất cả đều là những thứ giá trị đến mức đó.
 
 "Các mối quan hệ của thằng nhãi đó thế nào rồi?"
 
@@ -100,7 +100,7 @@ Viên quản gia thoáng ngập ngừng. Bolton liền ném cho ông ta ánh m�
 
 "...Khốn kiếp!"
 
-Nếu chỉ có Daska, lãnh chúa thành phố Gilm này, thì dựa vào quyền lực của mình gã vẫn có thể tính đường ngầm sắp đặt đối phó với Rei. Đương nhiên nếu bị phát giác thì sẽ vô cùng nguy hiểm và phải gánh chịu rủi ro tương ứng, nhưng tính đến lợi nhuận thu về thì vẫn thừa sức bù đắp. Thế nhưng toan tính đó sẽ hoàn toàn đổ sông đổ biển nếu đối phương thực sự có mối liên hệ với Công tước Kerebel như lời viên quản gia nói. Phe Quý Tộc sở hữu tầm ảnh hưởng áp đảo hoàn toàn so với Phe Trung Lập mà Bá tước biên cảnh Rowlocks, Daska, là nhân vật trung tâm. Một nhân vật đầu não của phe cánh ấy nắm trong tay quyền lực khủng khiếp đến mức nào chứ. Dùng tầm ảnh hưởng và quyền thế đó bóp chết một thương nhân nơi biên viễn thì chẳng có gì khó khăn cả.
+Nếu chỉ có Daska, lãnh chúa thành phố Gilm này, thì dựa vào quyền lực của mình gã vẫn có thể tính đường ngầm sắp đặt đối phó với Rei. Đương nhiên nếu bị phát giác thì sẽ vô cùng nguy hiểm và phải gánh chịu rủi ro tương ứng, nhưng tính đến lợi nhuận thu về thì vẫn thừa sức bù đắp. Thế nhưng toan tính đó sẽ hoàn toàn đổ sông đổ biển nếu đối phương thực sự có mối liên hệ với Công tước Kerebel như lời viên quản gia nói. Phe Quý Tộc sở hữu tầm ảnh hưởng áp đảo hoàn toàn so với Phe Trung Lập mà Bá tước biên cảnh Rowlocks, Daska, là nhân vật trung tâm. Một nhân vật đầu não của phe cánh ấy nắm trong tay quyền lực khủng khiếp đến mức nào chứ. Dùng tầm ảnh hưởng và quyền thế đó bóp chết một thương nhân nơi biên cảnh thì chẳng có gì khó khăn cả.
 
 "Gài bẫy nó thì quá nguy hiểm cho bản thân ta. Nếu vậy thì... hừm. Này."
 
@@ -114,9 +114,9 @@ Galahat. Vừa nghe thấy cái tên đó, Bolton liền cau mày khó chịu. �
 
 "Cái thứ ăn hại đó à. Dù gì cũng mang dòng máu của gia tộc ta nên ta mới dùng làm hộ vệ, thế mà lại bị một thằng ranh Hạng D quét sạch gọn gàng. Đúng là bôi tro trát trấu vào cái danh Hạng B."
 
-"Thưa ngài Bolton, vốn dĩ mạo hiểm giả tên Rei kia đã từng hạ gục Orc King có Hạng quái vật B từ khi mới ở Hạng G rồi ạ. Dẫu biết Hạng của Hội về cơ bản phản ánh thực lực, nhưng áp dụng điều đó lên một kẻ như Rei thì e là quá nguy hiểm."
+"Thưa ngài Bolton, vốn dĩ mạo hiểm giả tên Rei kia đã từng hạ gục Orc King có Hạng quái vật B từ khi mới ở Hạng G rồi ạ. Dù biết Hạng của Hội về cơ bản phản ánh thực lực, nhưng áp dụng điều đó lên một kẻ như Rei thì e là quá nguy hiểm."
 
-Trước lời lẽ của viên quản gia, Bolton khẽ nhíu mày. Ngay cả gã cũng đã thấm thía sự dị thường của tên mạo hiểm giả Rei kia bằng chính da thịt mình. Dù sao thì đối phương cũng đã toan giết chết gã, kẻ cầm đầu mạng lưới tiệm vũ khí ở thành phố Gilm này, mà chẳng hề do dự lấy một giây. Dẫu cuối cùng không mất mạng, nhưng nghĩ tới việc mình thoát chết lại là nhờ ơn cái thứ đáng ghét như Galahat khiến gã chẳng thể nào vui vẻ cho nổi.
+Trước lời lẽ của viên quản gia, Bolton khẽ nhíu mày. Ngay cả gã cũng đã thấm thía sự dị thường của tên mạo hiểm giả Rei kia bằng chính da thịt mình. Dù sao thì đối phương cũng đã toan giết chết gã, kẻ cầm đầu mạng lưới tiệm vũ khí ở thành phố Gilm này, mà chẳng hề do dự lấy một giây. Dù cuối cùng không mất mạng, nhưng nghĩ tới việc mình thoát chết lại là nhờ ơn cái thứ đáng ghét như Galahat khiến gã chẳng thể nào vui vẻ cho nổi.
 
 "Mặc kệ. Lần tới nếu nó dám manh động làm gì, khi ấy ta sẽ khiến nó thành tội phạm để luật pháp trừng trị."
 
@@ -150,7 +150,7 @@ Bật phắt nửa người trên dậy, chấn động khiến chiếc xương 
 
 "Anh Galahat! Phải nằm yên tĩnh dưỡng chứ! Bác sĩ bảo nếu đưa tới đây dùng ma pháp hồi phục chậm hai mươi phút nữa thôi là anh không qua khỏi rồi đấy!"
 
-Murt rơm rớm nước mắt nói. Thật vậy, đòn đánh của Rei đã làm xương sườn của Galahat gãy nát đâm thẳng vào nội tạng, và sở dĩ anh giữ được mạng sống hoàn toàn là nhờ Bolton đã cậy tiền thuê được bác sĩ có khả năng dùng ma pháp hồi phục cực kỳ cao tay. Đòn đánh do Rei tung ra mang uy lực khủng khiếp đến nhường ấy, vả lại vết thương nặng thêm còn do anh đã gượng đứng dậy khi chưa lành.
+Murt rơm rớm nước mắt nói. Thật vậy, đòn đánh của Rei đã làm xương sườn của Galahat gãy nát đâm thẳng vào nội tạng, và sở dĩ anh giữ được mạng sống hoàn toàn là nhờ Bolton đã cậy tiền thuê được bác sĩ có khả năng dùng ma pháp hồi phục cực kỳ cao tay. Đòn đánh do Rei tung ra mang uy lực khủng khiếp đến mức ấy, vả lại vết thương nặng thêm còn do anh đã gượng đứng dậy khi chưa lành.
 
 "Murt, a-anh Bolton sao rồi?"
 

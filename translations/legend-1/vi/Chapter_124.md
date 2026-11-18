@@ -26,7 +26,7 @@ Về Hộp Vật Phẩm, ngay từ khi tới thành phố Gilm, Rei đã không 
 
 (Biết cả Giày Sleipnir cơ à.)
 
-Người biết tới sự tồn tại của món đồ đó rất ít. Khả năng cao nhất là tin tức đã bị rò rỉ từ những mạo hiểm giả đi cùng trong vụ thảo phạt bộ lạc Orc, nhưng mà...
+Người biết tới món đồ đó rất ít. Khả năng cao nhất là tin tức đã bị rò rỉ từ những mạo hiểm giả đi cùng trong vụ thảo phạt bộ lạc Orc, nhưng mà...
 
 (Mà thôi, giờ có nghĩ ngợi chuyện đó cũng chẳng giải quyết được gì. Giờ thì, xử lý lão già chật đất này thế nào đây?)
 
@@ -128,7 +128,7 @@ Lưỡi Hái Tử Thần xoay tít từng vòng trên tay cậu, lưỡi hái s�
 
 "Thế thì sao? Vậy thì lấy quyền lực Thương Hội Azoth hay gì đó của ngươi ra mà tự bảo vệ mình xem nào. Nhìn đi, cái chết của ngươi đã cận kề ngay trước mắt rồi đấy?"
 
-Tốc độ xoay của Lưỡi Hái Tử Thần trong tay cậu ngày một nhanh hơn. Vốn dĩ uy lực của cây lưỡi hái này đã khủng khiếp đến mức ngay cả Galahat cũng chẳng thể đỡ nổi mà bị đánh bay. Giờ đây, uy lực ấy lại càng tăng lên gấp bội nhờ lực ly tâm từ những vòng xoay vun vút lao tới. Nỗi kinh hoàng tột độ khiến Bolton cuối cùng cũng hiểu ra rằng gã đã giẫm mạnh đến nhường nào vào chiếc đuôi cọp mà mình tuyệt đối không được phép đụng tới.
+Tốc độ xoay của Lưỡi Hái Tử Thần trong tay cậu ngày một nhanh hơn. Vốn dĩ uy lực của cây lưỡi hái này đã khủng khiếp đến mức ngay cả Galahat cũng chẳng thể đỡ nổi mà bị đánh bay. Giờ đây, uy lực ấy lại càng tăng lên gấp bội nhờ lực ly tâm từ những vòng xoay vun vút lao tới. Nỗi kinh hoàng tột độ khiến Bolton cuối cùng cũng hiểu ra rằng gã đã giẫm mạnh đến mức nào vào chiếc đuôi cọp mà mình tuyệt đối không được phép đụng tới.
 
 Nhưng đã quá muộn. Kẻ mang cái chết đến cho gã đang chém nát chiếc bàn làm việc trước mặt Bolton... Phải, ngay cả chiếc bàn làm việc được chế tạo đặc biệt để gã có thể chui xuống ẩn nấp chắn đòn khi bị thích khách tấn công lúc nguy cấp, cũng bị chém vụn dễ dàng như dao nóng cắt bánh mì.
 

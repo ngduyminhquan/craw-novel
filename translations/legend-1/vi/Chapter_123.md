@@ -6,7 +6,7 @@ Như thường lệ, vừa rời quán trọ cùng Set để hướng về phía
 
 Dù giọng điệu nghe như thăm dò, ánh mắt của hai gã lại ánh lên vẻ tin chắc Rei chính là người bọn chúng đang tìm.
 
-Dẫu sao thì một mạo hiểm giả dắt theo Griffin cũng chẳng thể nào lẫn vào đâu được.
+Dù sao thì một mạo hiểm giả dắt theo Griffin cũng chẳng thể nào lẫn vào đâu được.
 
 Chú Griffin Set vừa gừ trong cổ đầy khoái chí vừa nhai xiên thịt nướng. Rei khẽ gật đầu trước hai kẻ đang cố rời mắt khỏi Set để nhìn về phía cậu.
 
@@ -26,7 +26,7 @@ Rei đáp gọn lỏn, chẳng chút do dự.
 
 Câu trả lời quá đỗi bất ngờ khiến hai gã đàn ông sững sờ chẳng thốt nên lời.
 
-Cũng phải thôi. Kẻ thuê hai gã chính là thương nhân có máu mặt bậc nhất thành phố Gilm này, thậm chí có thể coi là ông trùm nắm mạng lưới các tiệm vũ khí. Nếu ở một thành phố bình thường thì chẳng nói làm gì, đằng này Gilm lại là vùng biên viễn nên số lượng mạo hiểm giả đương nhiên vô cùng đông đảo. Kéo theo đó, các tiệm vũ khí phục vụ họ cũng nhiều vô kể. Bọn chúng không thể ngờ có người lại dám thẳng thừng từ chối lời triệu tập từ một nhân vật tầm cỡ như thế mà chẳng cần suy nghĩ.
+Cũng phải thôi. Kẻ thuê hai gã chính là thương nhân có máu mặt bậc nhất thành phố Gilm này, thậm chí có thể coi là ông trùm nắm mạng lưới các tiệm vũ khí. Nếu ở một thành phố bình thường thì chẳng nói làm gì, đằng này Gilm lại là vùng biên cảnh nên số lượng mạo hiểm giả đương nhiên vô cùng đông đảo. Kéo theo đó, các tiệm vũ khí phục vụ họ cũng nhiều vô kể. Bọn chúng không thể ngờ có người lại dám thẳng thừng từ chối lời triệu tập từ một nhân vật tầm cỡ như thế mà chẳng cần suy nghĩ.
 
 "Có mỗi chuyện đó thôi đúng không? Vậy tôi đi đây."
 
@@ -54,7 +54,7 @@ Cậu dừng bước, bất giác thở dài một tiếng. Nếu đối phươn
 
 "Kìa, anh Galahat! Cần gì phải cúi đầu trước thằng ranh này chứ!"
 
-Một trong hai gã đàn ông, kẻ cầm kích, hốt hoảng lên tiếng khi thấy người thủ lĩnh đang cúi đầu — Galahat.
+Một trong hai gã đàn ông, kẻ cầm kích, hốt hoảng lên tiếng khi thấy người thủ lĩnh là Galahat đang cúi đầu.
 
 "Đã triệu tập người ta mà lính gác cổng lại đuổi về chẳng thèm nghe giải thích. Trường hợp này nhìn kiểu gì cũng là bên mình sai. Đã sai thì xin lỗi là chuyện đương nhiên."
 
@@ -66,7 +66,7 @@ Chắc cảm thấy có nói thêm với Galahat cũng vô ích, gã mạo hiể
 
 "Nhưng mà...!"
 
-Bị Galahat quở trách, gã cầm kích — Murt — phản xạ định cãi lại, nhưng rồi chỉ tặc lưỡi quay ngoắt đi.
+Bị Galahat quở trách, gã cầm kích Murt phản xạ định cãi lại, nhưng rồi chỉ tặc lưỡi quay ngoắt đi.
 
 "Thành thật xin lỗi vì đã làm phiền nhiều lần. Nếu cậu tiện thì giờ có thể đi cùng chúng tôi được không? Tôi xin hứa sẽ không để xảy ra chuyện khó chịu như ngày hôm qua nữa."
 

@@ -146,7 +146,7 @@ Nhưng vẻ mặt Lenora vẫn hết sức nghiêm túc, tiếp tục giải th�
 
 "Nghĩa là tay nghề thì giỏi nhưng sự đời lại lơ ngơ, cực kỳ dễ bị lôi kéo vào mấy vụ phạm pháp như tôi vừa nói. ...Cơ mà cỡ cậu Rei, tôi có cảm giác nếu biết mình bị gài bẫy thì cậu sẽ đập nát bấy luôn cả đối phương ấy chứ."
 
-Nói đoạn, cô vừa thở dài vừa khẽ lắc đầu.
+Nói rồi, cô vừa thở dài vừa khẽ lắc đầu.
 
 "À, nhưng mà nhờ dắt theo Griffin nên cậu Rei cũng nổi tiếng khắp thành phố Gilm theo nhiều nghĩa rồi, thành ra bọn họ muốn tiếp cận cũng phải dè chừng đấy."
 
