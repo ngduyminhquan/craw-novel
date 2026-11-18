@@ -224,3 +224,4 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Grimm | tôi | ông | 93 | Rei nói chuyện với Lich Lord cổ đại |
 | Elena | Grimm | tôi | ngài | 92 | Sau khi nhận ra thực lực áp đảo của chủ nhân giọng nói bí ẩn; lúc đầu chưa rõ thực lực ở đoạn 47 thì xưng 'ta', gọi 'ngươi' |
 | Grimm | Elena | ta | ngươi / cô bé | 92 | Lich Lord cổ đại nói chuyện với Elena |
+| Rei | Elena | tôi | tiểu thư Elena / cô | 97 | Từ chương 97, Elena cho phép Rei không dùng kính ngữ trừ dịp chính thức, nói chuyện tự nhiên |
