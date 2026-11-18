@@ -18,7 +18,7 @@ Có lẽ bị cấp dưới chọc trúng tim đen, Ranga cười trừ trên g�
 
 "Ủa, tầm giờ này mà có xe tới thì hiếm thật đấy. Chắc không phải bọn cướp đâu nhỉ. Cậu có nhìn quen mặt người đánh xe không?"
 
-Thời điểm hiện tại vừa qua giữa trưa được một lát, trời mới bước sang buổi chiều. Chừng vài tiếng nữa mới là lúc các mạo hiểm giả hoàn thành ủy thác quay về, cùng đông đảo thương nhân và người đi đường đổ xô vào thành phố Gilm trước khi trời tối để tránh bị quái vật tấn công, nên việc có người tới vào tầm giờ này về cơ bản là rất hiếm.
+Lúc này vừa qua giữa trưa được một lát, trời mới bước sang buổi chiều. Chừng vài tiếng nữa mới là giờ các mạo hiểm giả hoàn thành ủy thác quay về, cùng đông đảo thương nhân và người đi đường đổ xô vào thành phố Gilm trước khi trời tối để tránh bị quái vật tấn công, nên tầm giờ này hiếm khi có ai tìm đến.
 
 Mà bảo là hiếm vậy thôi, chứ mỗi ngày vẫn có lác đác vài người tới.
 
@@ -146,7 +146,7 @@ Với anh ta, Set vốn dĩ không phải loại quái vật có thể ung dung 
 
 "Thì... đúng là thế thật, cơ mà..."
 
-"Nói cách khác, Set đã trở thành một biểu tượng linh vật của thành phố Gilm này rồi đấy."
+"Tức là giờ Set đã thành linh vật của thành phố Gilm này rồi đấy."
 
 Trước lời giải thích như lẩm bẩm của Rei, người đánh xe nhìn cậu bằng ánh mắt như thể vừa thấy chuyện hoang đường nhất trần đời. Thế nhưng bằng chứng sờ sờ đang phơi bày ngay trước mắt khiến anh ta không tin cũng không được, đành đảo mắt nhìn cỗ xe, nhìn Set, rồi nhìn sang người dân trong thành phố, cuối cùng quay sang nhìn Rei với vẻ mặt dở khóc dở cười.
 
@@ -154,9 +154,9 @@ Trước lời giải thích như lẩm bẩm của Rei, người đánh xe nhì
 
 "Cũng phải."
 
-Gật đầu trước lời người đánh xe, Rei nhảy xuống khỏi ghế xà ích rồi bước lại gần chỗ Set.
+Gật đầu trước lời người đánh xe, Rei nhảy xuống khỏi ghế đánh xe rồi bước lại gần chỗ Set.
 
-"Ngại quá, lát nữa tôi phải tới dinh thự của Bá tước biên cảnh Rowlocks một chuyến, mọi người tạm dừng chơi với Set ở đây nhé. Từ mai chắc chắn nó sẽ ở lại trong thành phố, nên có muốn chơi thì để từ mai trở đi giúp tôi."
+"Ngại quá, giờ tôi đang phải tới dinh thự của Bá tước biên cảnh Rowlocks một chuyến, mọi người tạm dừng chơi với Set ở đây nhé. Từ mai chắc chắn nó sẽ ở lại trong thành phố, nên có muốn chơi thì để từ mai trở đi giúp tôi."
 
 "Hứ. Khó khăn lắm mới gặp lại bé Set mà."
 
@@ -176,7 +176,7 @@ Lũ trẻ dù phụng phịu không vui, nhưng khi Set vừa cất tiếng kêu
 
 "Dạ, tụi em biết rồi!"
 
-Đám trẻ hào hứng đáp lời, và lấy đó làm mốc, những người dân vây quanh Set cũng dần giải tán để quay lại với công việc của mình.
+Đám trẻ hào hứng đáp lời, nhân lúc đó những người dân vây quanh Set cũng dần giải tán để quay lại với công việc của mình.
 
 "Được rồi. Cho xe tới dinh thự của lãnh chúa đi."
 
@@ -198,7 +198,7 @@ Ara vừa cố nén nụ cười như sắp bật ra vừa cất tiếng hỏi, 
 
 "Cũng không lạ. Set quấn người thế cơ mà."
 
-Elena cũng là một trong những người đã đồng hành cùng Set trong chuyến đi hầm ngục lần này, được hưởng sự gần gũi thân thiện lẫn năng lực vượt trội của nó cứu giúp, nên cô đưa mắt qua cửa sổ nhìn Set đang sải bước bên cạnh cỗ xe với vẻ mặt đầy thỏa mãn.
+Elena cũng là một trong những người đã đồng hành cùng Set trong chuyến đi hầm ngục lần này, từng được tính cách quấn người thân thiện lẫn năng lực vượt trội của nó giúp đỡ rất nhiều, nên cô đưa mắt qua cửa sổ nhìn Set đang sải bước bên cạnh cỗ xe với vẻ mặt đầy thỏa mãn.
 
 Sau khi vụ huyên náo quanh Set lắng xuống, quãng đường còn lại chẳng gặp thêm phiền toái nào và cỗ xe ngựa thuận lợi dừng trước dinh thự của Bá tước biên cảnh Rowlocks.
 

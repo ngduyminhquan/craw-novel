@@ -236,3 +236,6 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Kerebel | Filma Desir | ta | ngươi / Filma / Filma Desir | 108 | Công tước nói với thuộc cấp / đoàn trưởng kỵ sĩ đoàn |
 | Filma Desir | Kerebel | tôi | ngài / Công tước | 108 | Đoàn trưởng kỵ sĩ đoàn nói với Công tước Kerebel |
 | Rei | Ara | tôi | cô / Ara | 108 | Rei gọi tên Ara tự nhiên khi trò chuyện thân thiết trong xe ngựa |
+| Rei | Lana | tôi | cô / bà chủ | 111 | Lịch sự với chủ trọ, thống nhất xưng tôi khi Lana xưng tôi gọi cậu |
+| Daska | Elena | ta | tiểu thư Elena / tiểu thư | 110 | Bá tước biên cảnh tiếp đón tiểu thư nhà Công tước |
+| Elena | Daska | tôi | ngài Daska / ngài | 110 | Tiểu thư nhà Công tước nói với Bá tước biên cảnh |

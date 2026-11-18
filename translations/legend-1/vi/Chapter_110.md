@@ -4,23 +4,23 @@ Cỗ xe ngựa dừng lại trước dinh thự của Bá tước biên cảnh R
 
 Phía sau bóng cỗ xe, Set cũng bước ra sóng bước bên cạnh Rei.
 
-Đón ba người cùng một chú ma thú, à không, tính cả gã mạo hiểm giả được thuê đánh xe thì là bốn người cùng một chú ma thú, Bá tước biên cảnh Rowlocks, Daska, bước tới nghênh đón.
+Trước ba người cùng một chú ma thú, à không, tính cả người mạo hiểm giả được thuê đánh xe thì là bốn người cùng một chú ma thú, Daska, Bá tước biên cảnh Rowlocks, bước lên phía trước nghênh đón.
 
-"Tiểu thư Elena, mừng cô đã bình an trở về. Cả Rei nữa, cậu đã bảo vệ tốt cho tiểu thư Elena rồi."
+"Tiểu thư Elena, mừng tiểu thư đã bình an trở về. Cả Rei nữa, cậu đã bảo vệ tốt cho tiểu thư Elena rồi."
 
 "...Không có gì đâu ạ, nếu tôi mạnh hơn thì đã có thể giảm bớt số người phải bỏ mạng rồi."
 
 Trước lời của Rei, Daska nhìn lại số người vừa bước xuống từ cỗ xe.
 
-Quả nhiên so với lúc rời thành phố Gilm, đội hình nhóm đã vắng bóng Kuust và Vel, thay vào đó là một gã mạo hiểm giả ngồi ở ghế phu xe.
+Quả nhiên so với lúc rời thành phố Gilm, đội hình nhóm đã vắng bóng Kuust và Vel, thay vào đó là một mạo hiểm giả mới ngồi ở ghế đánh xe.
 
 "Không, dù sao việc ta ủy thác cho cậu cũng là bảo vệ tiểu thư Elena. Người cần bảo vệ là tiểu thư Elena đã bình an trở về thì ta chẳng có gì để phàn nàn cả. ...Tiểu thư Elena, trước mắt chúng ta vào trong rồi nói chuyện được chứ?"
 
-Gật đầu trước lời Daska, Elena đưa mắt nhìn sang gã phu xe.
+Gật đầu trước lời Daska, Elena đưa mắt nhìn sang người đánh xe.
 
 "Phiền anh giao lại cỗ xe ngựa cho người của Bá tước biên cảnh Rowlocks. Sáng mai chúng ta dự định khởi hành trước khi chuông điểm chín giờ, nên hãy chuẩn bị chu đáo. Đây là khoản tiền tạm ứng trước, tách riêng với phần thù lao. Hôm nay anh cứ đi nghỉ ngơi cho lại sức đi."
 
-Nói rồi cô đưa mắt ra hiệu, Ara hiểu ý liền tiến tới trao vài đồng bạc cho gã phu xe.
+Nói rồi cô đưa mắt ra hiệu, Ara hiểu ý liền tiến tới trao vài đồng bạc cho người đánh xe.
 
 "C-Có thật là được không ạ? Ngoài thù lao ra lại còn nhiều thế này..."
 
@@ -28,7 +28,7 @@ Nói rồi cô đưa mắt ra hiệu, Ara hiểu ý liền tiến tới trao và
 
 "Tôi xin cảm ơn! Vậy tôi xin phép nhận lòng tốt của tiểu thư!"
 
-Gã phu xe cúi đầu thật sâu, rồi theo người của dinh thự dắt cỗ xe ngựa đi. Set cũng quen chân rảo bước đi theo sau cỗ xe.
+Người đánh xe cúi đầu thật sâu, rồi theo người của dinh thự dắt cỗ xe ngựa đi. Set cũng quen chân rảo bước đi theo sau cỗ xe.
 
 Nhìn theo một thoáng, Daska dẫn đường cho nhóm Elena bước vào trong dinh thự.
 
@@ -46,7 +46,7 @@ Thấy Rei như vậy, Daska thầm cười trừ vì cậu nhóc quá đỗi ng
 
 "Cũng... phải. Dù kết quả có đôi chút dở dang, nhưng coi như mục tiêu phần nào đã đạt được, có điều lại nảy sinh một rắc rối hoàn toàn khác thì đúng hơn."
 
-"...Cách nói lạ thật đấy. Cô có thể kể chi tiết hơn được không?"
+"...Cách nói lạ thật đấy. Tiểu thư có thể kể chi tiết hơn được không?"
 
 Elena thoáng ngập ngừng trước lời của Daska xem có nên kể hay không, nhưng dù sao đây cũng là chuyện xảy ra trong hầm ngục thuộc lãnh địa của Bá tước biên cảnh Rowlocks.
 
@@ -64,7 +64,7 @@ Ngay khoảnh khắc ấy, một luồng ma lực cuộn trào lấy Elena làm 
 
 "...Tôi vẫn chưa kiểm soát hoàn toàn được, nhưng đại khái là như vậy."
 
-"Không, phải nói là quá đỗi kinh ngạc. Quả thật cô đã nắm trong tay sức mạnh đáng gờm."
+"Không, phải nói là rất đáng nể. Quả thật tiểu thư đã nắm trong tay sức mạnh đáng gờm."
 
 Daska đáp lại như vậy, nhưng sau lưng ông mồ hôi lạnh đã toát ra ướt đầm đìa.
 
@@ -94,7 +94,7 @@ Nhìn Elena khẽ cúi đầu, ánh mắt Daska chợt chuyển sang Rei đang �
 
 "Rei, những gì tiểu thư Elena nói là thật chứ?"
 
-"Vâng. Đích thân Vel đã bảo hắn quy thuận Đế quốc Bestia."
+"Vâng. Đích thân Vel đã nói hắn phản bội theo Đế quốc Bestia."
 
 "...Tiểu thư Elena, còn Công tước Kerebel thì sao?"
 
@@ -132,7 +132,7 @@ Vừa gật đầu trước câu nói của Elena thì có tiếng gõ cửa, vi
 
 "Thưa ngài, phòng đã chuẩn bị xong rồi ạ."
 
-"Tốt lắm. Tiểu thư Elena, dù sao hôm nay cô cứ nghỉ ngơi cho lại sức sau chuyến đi dài đi. Nước tắm cũng đã chuẩn bị sẵn rồi."
+"Tốt lắm. Tiểu thư Elena, dù sao hôm nay tiểu thư cứ nghỉ ngơi cho lại sức sau chuyến đi dài đi. Nước tắm cũng đã chuẩn bị sẵn rồi."
 
 "Vậy tôi xin nhận thịnh tình của ngài Daska. Ara, đi thôi."
 
@@ -142,7 +142,7 @@ Elena và Ara chuẩn bị rời phòng, Rei cũng định bước theo thì có
 
 "Rei, cậu ở lại một chút. Ta có chuyện muốn nói riêng."
 
-"...Tôi hiểu rồi. Vậy thưa tiểu thư Elena, tôi xin phép dừng ở đây."
+"...Tôi hiểu rồi. Vậy tiểu thư Elena, tôi xin phép dừng ở đây."
 
 Trước mặt Daska, Rei dĩ nhiên không thể ăn nói suồng sã, cậu dùng lại cách nói chuyện lễ phép như lúc mới gặp để tiễn Elena.
 
@@ -178,7 +178,7 @@ Nói ra câu đó, trên gương mặt Daska phảng phất một thoáng áy n�
 
 "Cụ thể là chuyện Vel phản bội ạ?"
 
-Trước câu hỏi thẳng thắn của Rei, Daska cau mày như vừa nuốt phải giun đất rồi gật đầu.
+Trước câu hỏi thẳng thắn của Rei, Daska nhăn mặt như vừa nhai phải của đắng rồi gật đầu.
 
 "Phải. Dù Tử tước trong giới quý tộc không phải tước vị quá cao, nhưng quý tộc thì vẫn là quý tộc. Tệ hơn nữa, Tử tước Sails lại khá nổi tiếng với tư cách là cận thần thân tín của Công tước Kerebel. Nếu tin một kẻ như vậy phản bội đất nước lan ra ngoài thì sẽ gây chấn động dữ dội."
 

@@ -14,7 +14,7 @@ Cứ thế chừng vài phút, khi tiếng chuông sáu giờ sáng vang vọng 
 
 Chợt nhớ lại vô số quái vật đã hạ trong hầm ngục lần này, cậu đưa mắt nhìn về phía Nhẫn Sương Mù đeo trên cổ tay phải.
 
-"...Được rồi! Hơi sớm một chút nhưng ăn sáng xong mình sẽ qua dinh thự Lãnh chúa."
+"...Được rồi! Hơi sớm một chút nhưng ăn sáng xong mình sẽ qua dinh thự lãnh chúa."
 
 Cậu lẩm bẩm, nhanh chóng sửa soạn đồ đạc rồi đi xuống nhà ăn ở tầng một của quán trọ.
 
@@ -22,7 +22,7 @@ Cậu lẩm bẩm, nhanh chóng sửa soạn đồ đạc rồi đi xuống nhà
 
 Đón chào Rei khi cậu bước xuống nhà ăn tầng một là Lana, bà chủ của Hoàng Hôn Mạch Đình.
 
-"Vâng. Cháu có chút việc. Cho cháu xin bữa sáng nhé."
+"Ừ. Tôi có chút việc. Cho tôi phần bữa sáng nhé."
 
 "Tôi biết rồi. Cậu cứ tìm chỗ ngồi đợi một lát nhé."
 
@@ -88,7 +88,7 @@ Dù ngán ngẩm trước cảnh tượng đó, Rei vẫn rất biết ơn Milei
 
 "Gừưư?"
 
-Nhìn Set cọ đầu vào người như muốn hỏi có chuyện gì, Rei mỉm cười rồi cả hai cùng rời khỏi chuồng ngựa. Điểm đến vẫn là dinh thự Lãnh chúa như kế hoạch ban đầu.
+Nhìn Set cọ đầu vào người như muốn hỏi có chuyện gì, Rei mỉm cười rồi cả hai cùng rời khỏi chuồng ngựa. Điểm đến vẫn là dinh thự lãnh chúa như kế hoạch ban đầu.
 
 "Ồ, Rei đấy à. Nghe bảo cháu vừa hoàn thành ủy thác trở về, hóa ra là thật. Sao nào, làm món quen thuộc chứ?"
 
@@ -102,7 +102,7 @@ Rei thì vừa mới ăn sáng xong, còn Set dù được Milein tiếp tế ch
 
 "Gừưưư."
 
-Set kêu lên đầy thích thú khi nhai món sandwich kẹp thịt Fang Boar nướng tẩm nước sốt chua ngọt cùng các loại rau củ giòn tan.
+Set kêu lên đầy thích thú khi nhai món sandwich kẹp thịt Fang Boar nướng tẩm nước sốt mặn ngọt cùng rau lá giòn tan.
 
 Các chủ sạp hàng thì dõi theo điệu bộ của Set với nét mặt vô cùng ấm áp.
 
@@ -110,11 +110,11 @@ Rei vừa cười trừ trước cảnh tượng ấy vừa móc tiền trả ch
 
 Cứ thế, cả hai tiếp tục rảo bước giữa những màn chào mời quen thuộc như cơm bữa.
 
-Thế nhưng khi tiến gần tới dinh thự Lãnh chúa, hàng quán ven đường cũng thưa thớt dần, thay vào đó là sự xuất hiện ngày một nhiều của lính cảnh vệ và kỵ sĩ thuộc kỵ sĩ đoàn.
+Thế nhưng khi tiến gần tới dinh thự lãnh chúa, hàng quán ven đường cũng thưa thớt dần, thay vào đó là sự xuất hiện ngày một nhiều của lính cảnh vệ và kỵ sĩ thuộc kỵ sĩ đoàn.
 
 Đến nước này thì hiển nhiên...
 
-"Này cậu kia, phía trước chỉ có dinh thự của Lãnh chúa thôi, có việc gì không?"
+"Này cậu kia, phía trước chỉ có dinh thự của lãnh chúa thôi, có việc gì không?"
 
 Những câu hỏi dò xét kiểu đó cũng bắt đầu xuất hiện nhiều hơn.
 
@@ -136,13 +136,13 @@ Dù hơi phân vân chưa biết nên đáp thế nào, bản thân Rei không h
 
 "Cảm ơn nhé."
 
-Đáp lại hai người lính xong, Rei cùng Set tiếp tục tiến về phía dinh thự Lãnh chúa và chẳng mấy chốc tòa kiến trúc kiên cố như một pháo đài đã hiện ra trước mắt.
+Đáp lại hai người lính xong, Rei cùng Set tiếp tục tiến về phía dinh thự lãnh chúa và chẳng mấy chốc tòa kiến trúc kiên cố như một pháo đài đã hiện ra trước mắt.
 
 Trước cổng dinh thự có lính gác đứng trực, họ đưa mắt nhìn về phía Rei và Set đang tiến lại gần.
 
-Từng ghé qua dinh thự Lãnh chúa vài lần nên đôi bên cũng nhẵn mặt nhau, thế nhưng việc họ không hề lơ là cảnh giác chính là bằng chứng cho thấy trình độ của đám lính gác này rất cao.
+Từng ghé qua dinh thự lãnh chúa vài lần nên đôi bên cũng nhẵn mặt nhau, thế nhưng việc họ không hề lơ là cảnh giác chính là bằng chứng cho thấy trình độ của đám lính gác này rất cao.
 
-"Cậu có việc cần gặp Lãnh chúa à?"
+"Cậu có việc cần gặp lãnh chúa à?"
 
 Vừa tới trước cổng đã bị gặng hỏi, Rei khẽ lắc đầu.
 
@@ -162,7 +162,7 @@ Trong lúc cậu còn đang thầm tự hỏi, cuối cùng người lính gác 
 
 "Tiểu thư Elena đang đợi. Cậu hãy đi theo sự hướng dẫn của cô ấy."
 
-Xuất hiện theo hướng mắt người lính gác là Ara, gương mặt đã quá đỗi quen thuộc. Sau lưng cô đeo chiếc Rìu Cường Lực mà Rei nhượng lại, khiến cô trông giống một chiến binh hơn là một nữ hiệp sĩ.
+Xuất hiện theo hướng mắt người lính gác là Ara, gương mặt đã quá đỗi quen thuộc. Sau lưng cô đeo chiếc Rìu Cường Lực mà Rei nhượng lại, khiến cô trông giống một chiến binh hơn là một nữ kỵ sĩ.
 
 (Mà thôi, kỵ sĩ mà lại dùng rìu thì vốn dĩ đã là của hiếm rồi.)
 
@@ -208,7 +208,7 @@ Nghe giọng Elena vọng ra từ trong phòng, Ara mở cửa bước vào.
 
 Theo lời mời của Elena, Rei ngồi xuống chiếc ghế sofa.
 
-Cảm giác lún sâu đón lấy cơ thể thậm chí còn êm ái hơn cả bộ sofa tiếp khách trong phòng làm việc của Daska khiến Rei không khỏi ngạc nhiên, làm Elena mỉm cười.
+Chiếc ghế êm ngang ngửa... à không, còn êm ái hơn cả bộ sofa tiếp khách trong phòng làm việc của Daska, lún sâu đón lấy sức nặng cơ thể làm Rei thoáng bất ngờ, còn Elena nhìn thế thì mỉm cười.
 
 "Căn phòng này vốn để các yếu nhân nghỉ ngơi. Đặt bộ sofa thế này cũng chẳng có gì lạ. Chắc hẳn khi có quý tộc địa vị cao hơn ngài Daska tới thăm thì họ sẽ được xếp vào đây."
 
@@ -234,6 +234,6 @@ Ara ngồi cạnh Elena bùi ngùi lẩm bẩm.
 
 "Elena?"
 
-"Lần này ta đã làm phiền Rei quá nhiều, vả lại nếu không có cậu thì giờ này chắc ta chẳng còn ngồi đây mà nhâm nhi tách trà được nữa. Dù không hẳn là để đền đáp, nhưng toàn bộ quái vật đã cất vào Hộp Vật Phẩm thì cậu cứ tùy ý xử lý."
+"Lần này ta đã làm phiền cậu quá nhiều, vả lại nếu không có cậu thì giờ này chắc ta chẳng còn ngồi đây mà nhâm nhi tách trà được nữa. Dù không hẳn là để đền đáp, nhưng toàn bộ quái vật đã cất vào Hộp Vật Phẩm thì cậu cứ tùy ý xử lý."
 
 Elena buông một câu nhẹ bẫng như thể chuyện chẳng có gì to tát.
