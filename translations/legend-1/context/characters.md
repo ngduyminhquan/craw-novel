@@ -56,7 +56,7 @@ Bảng dưới được script đọc để nhận diện nhân vật trong chư
 - Tính cách: Thực tế, bình tĩnh (nhờ dung hợp với Zepairu), mê văn hóa giải trí Nhật Bản (game, manga, tiểu thuyết), rất cưng chiều Set, ham ăn ngon, không thích phiền phức nhưng ai kiếm chuyện thì xử lý thẳng tay.
 - Cách nói chuyện: Tự nhiên, thoải mái, hơi suồng sã kiểu nam sinh trung học nhưng biết giữ chừng mực với người lịch sự.
 - Quan hệ với nhân vật khác: Chủ nhân và bạn đồng hành gắn bó nhất của Set; người thừa kế kiến thức của Zepairu.
-- Trạng thái tính đến chương 100: Thẻ Hội Hạng D; nhờ Áo Choàng Rồng đỡ đòn đâm lén của Kuust, đang một mình đối đầu Vel và Kuust bị thao túng tâm trí tại Tế đàn kế thừa.
+- Trạng thái tính đến chương 105: Thẻ Hội Hạng D; đã đánh đuổi kẻ phản bội Vel tại Tế đàn kế thừa, cất thi thể Kuust vào Nhẫn Sương Mù, thi triển [Hạt Giống Trừng Phạt] lên Elena và Ara, rồi nhờ Grimm dịch chuyển cả nhóm lên tầng ngầm thứ nhất để rời hầm ngục.
 - Kỹ năng: Hỏa Thuật (Hỏa Cầu, Vũ Điệu Hỏa Xà, Vũ Điệu Hỏa Diễm, Cực Diễm Bích, Diễm Hoa Nở Rộ, Hỏa Tinh Loạn Vũ, Hỏa Tiễn Trút Rơi, Hỏa Lịch, Hồng Liên Diễm Bích, Bạc Diễm), Hạt Giống Trừng Phạt; kỹ năng của Lưỡi Hái Tử Thần: Ăn Mòn Lv.1 (chương 22), Phi Trảm Lv.1 (chương 44), Khiên Ma Thuật Lv.1 (chương 44).
 
 ### Set

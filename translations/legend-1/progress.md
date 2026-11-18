@@ -107,9 +107,9 @@ Cột `#` là số thứ tự file raw, cũng là số chương dùng trong bả
 | 100 |  | Chapter_0100 - 継承の祭壇 - 第100話.txt | 継承の祭壇 - 第100話 | reviewed |  |
 | 101 |  | Chapter_0101 - 継承の祭壇 - 第101話.txt | 継承の祭壇 - 第101話 | reviewed |  |
 | 102 |  | Chapter_0102 - 継承の祭壇 - 第102話.txt | 継承の祭壇 - 第102話 | reviewed |  |
-| 103 |  | Chapter_0103 - 継承の祭壇 - 第103話.txt | 継承の祭壇 - 第103話 | done |  |
-| 104 |  | Chapter_0104 - 継承の祭壇 - 第104話.txt | 継承の祭壇 - 第104話 | done |  |
-| 105 |  | Chapter_0105 - 継承の祭壇 - 第105話.txt | 継承の祭壇 - 第105話 | done |  |
+| 103 |  | Chapter_0103 - 継承の祭壇 - 第103話.txt | 継承の祭壇 - 第103話 | reviewed |  |
+| 104 |  | Chapter_0104 - 継承の祭壇 - 第104話.txt | 継承の祭壇 - 第104話 | reviewed |  |
+| 105 |  | Chapter_0105 - 継承の祭壇 - 第105話.txt | 継承の祭壇 - 第105話 | reviewed |  |
 | 106 |  | Chapter_0106 - 継承の祭壇 - 第106話.txt | 継承の祭壇 - 第106話 | todo |  |
 | 107 |  | Chapter_0107 - 継承の祭壇 - 第107話.txt | 継承の祭壇 - 第107話 | todo |  |
 | 108 |  | Chapter_0108 - 継承の祭壇 - 第108話.txt | 継承の祭壇 - 第108話 | todo |  |

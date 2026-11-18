@@ -84,7 +84,7 @@ Khẽ gật đầu trước lời nhờ vả của Elena, Rei cất thi thể v�
 
 Elena chỉ lẩm bẩm câu cuối trong miệng. Trong ánh mắt cô ánh lên tia sáng kiên định mãnh liệt, đồng thời toát ra khí chất của một thợ săn đang rình rập con mồi.
 
-"Tiểu thư Elena, người bảo đã kế thừa sức mạnh của Ancient Dragon... vậy cụ thể là đã thay đổi ở những điểm nào ạ? Ít nhất nhìn bề ngoài thì tiểu thư vẫn như trước giờ thôi."
+"Tiểu thư Elena, tiểu thư bảo đã kế thừa sức mạnh của Ancient Dragon... vậy cụ thể là đã thay đổi ở những điểm nào ạ? Ít nhất nhìn bề ngoài thì tiểu thư vẫn như trước giờ thôi."
 
 Trước câu hỏi có phần rụt rè của Ara, khí thế hung dữ vừa thoáng hiện vài giây trước trên người Elena lập tức biến mất; cô mỉm cười đưa tay xoa đầu Ara.
 
@@ -118,7 +118,7 @@ Thấy Rei lẩm bẩm, Elena mỉm cười lắc đầu.
 
 Nắm chặt chuôi thanh liên tiếp kiếm, Elena nói.
 
-Quả thực, Elena lúc này toát ra một sự uy dũng còn hơn cả trước khi tiến hành nghi thức. Vẫn giữ nguyên vẻ đẹp mê hoặc lòng người, nhưng cô mang lại cho Rei cảm giác của một thực thể có chiều sâu hơn hẳn.
+Quả thực, Elena lúc này toát ra một sự uy dũng còn hơn cả trước khi tiến hành nghi thức. Vẫn giữ nguyên vẻ đẹp mê hoặc lòng người, nhưng cô mang lại cho Rei cảm giác con người mình giờ đây có chiều sâu hơn hẳn.
 
 "Elena đã nói thế thì tốt thôi. Tranh thủ quay về ngay lúc này thì ở khu vực tầng ngầm thứ sáu, quái vật có khi vẫn chưa kịp hồi sinh lại đâu."
 
@@ -152,7 +152,7 @@ Vừa đáp lời Elena, Rei vừa nhanh tay cất ba con Emerald Wolf vào Nh�
 
 "Được rồi, đi thôi!"
 
-Cả nhóm gật đầu trước lời của Rei rồi bắt đầu chạy vội. Tốc độ di chuyển được điều chỉnh theo Ara — người chạy chậm nhất nhóm, nhưng chậm ở đây là khi so với ba đối tượng còn lại gồm Griffin Set, Rei sở hữu thể chất phi nhân loại và Elena đã kế thừa sức mạnh của Ancient Dragon; chứ xét theo tiêu chuẩn của người bình thường thì tốc độ đó vẫn thuộc hàng khá nhanh.
+Cả nhóm gật đầu trước lời của Rei rồi bắt đầu chạy vội. Tốc độ di chuyển được điều chỉnh theo Ara, người chạy chậm nhất nhóm, nhưng chậm ở đây là khi đem so với ba cái tên còn lại gồm Griffin Set, Rei với thể chất vượt xa con người và Elena vừa kế thừa sức mạnh của Ancient Dragon, chứ xét theo tiêu chuẩn người bình thường thì tốc độ đó đã thuộc hàng khá nhanh rồi.
 
 Cũng cần nói thêm, tầng ngầm thứ sáu lúc nhóm Rei lần đầu bước xuống từng dày đặc cạm bẫy giăng khắp nơi, nhưng đúng như lời Rei nói, những cái bẫy mà Vel đã vô hiệu hóa vẫn chưa được đặt lại, nhờ thế mà họ mới có thể chạy băng băng thế này.
 
@@ -188,7 +188,7 @@ Vừa nói, dường như vẫn không tài nào chịu nổi mùi hôi thối, 
 
 Ara hỏi lại như thể hoàn toàn chẳng hiểu Elena đang nói gì. Thấy vẻ mặt đó, Rei cười trừ rồi giải thích.
 
-"Lúc đi xuống bọn mình đã lọt vào cái gọi là không gian phía sau, rồi được chủ nhân giọng nói đó dùng sức mạnh tạo cho cầu thang dẫn xuống tầng ngầm thứ sáu cơ mà. Nghĩa là khác với tầng sáu hay tầng bảy, tụi mình đâu có tự lực vượt qua tầng này, thế nên giờ chẳng biết cầu thang dẫn lên tầng ngầm thứ tư nằm ở đâu cả."
+"Lúc đi xuống chúng ta đã lọt vào cái gọi là không gian phía sau, rồi được chủ nhân giọng nói đó dùng sức mạnh tạo cho cầu thang dẫn xuống tầng ngầm thứ sáu cơ mà. Nghĩa là khác với tầng sáu hay tầng bảy, chúng ta đâu có tự lực vượt qua tầng này, thế nên giờ chẳng biết cầu thang dẫn lên tầng ngầm thứ tư nằm ở đâu cả."
 
 "...A!"
 

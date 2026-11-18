@@ -88,7 +88,7 @@ Dù chưa nhìn thấy mặt, nhưng nhận ra giọng nói vừa vang lên tron
 
 "Nhờ ta à... Được thôi. Nhìn phản ứng từ Quả Cầu Đôi thì các ngươi đang ở tầng ngầm thứ năm nhỉ?"
 
-"Vâng."
+"Ừ."
 
 "Hừm, chờ một lát nhé."
 
@@ -108,7 +108,7 @@ Grimm xuất hiện ngay bên cạnh cả nhóm mà không hề báo trước b�
 
 "Ái chà, thứ lỗi nhé. Cứ cắm đầu nghiên cứu một mình mãi nên mấy khoản này ta hay lơ là, phiền thật đấy."
 
-Giọng nói pha chút cười trừ vang lên trong đầu ba người một thú, và ngay tức thì, áp lực vô hình tỏa ra từ Grimm bỗng chốc tan biến.
+Giọng nói pha chút cười trừ vang lên trong đầu ba người cùng Set, và ngay tức thì, áp lực vô hình tỏa ra từ Grimm bỗng chốc tan biến.
 
 "Vào việc luôn nhé, tôi muốn nhờ ông dùng Không Gian Ma Pháp đưa bọn tôi ra ngoài hầm ngục... À mà bị ai nhìn thấy thì phiền phức lắm. Đưa bọn tôi đến chỗ nào ít người ở tầm tầng ngầm thứ nhất được không? Có làm được không?"
 
@@ -146,7 +146,7 @@ Dù thầm kinh ngạc trong lòng, nhìn khoảng không gian méo mó ấy, El
 
 Thấy Rei có vẻ ngượng ngùng cúi đầu, Set đứng bên cạnh cũng khẽ cúi chào theo. Thấy cảnh đó, Grimm lại bật cười giòn tan trong tâm trí cả nhóm rồi nhẹ nhàng tan biến vào thinh không.
 
-"Vừa rồi... là thật đấy ạ?"
+"Chuyện vừa rồi... là thật đấy ư?"
 
 Vài giây sau khi Grimm biến mất, Ara vừa run run cánh tay đang nắm chặt cây Rìu Cường Lực vừa lẩm bẩm chẳng hướng vào ai.
 
@@ -164,7 +164,7 @@ Thấy Elena toan bước về phía khoảng không gian méo mó, Ara liền l
 
 "Chuyện đó thì..."
 
-"Thú thật là dù tôi với Set có hợp lực xông vào thì chắc cũng chẳng thắng nổi Grimm đâu. Chênh lệch thực lực lớn đến mức đó cơ mà. Nếu muốn làm gì bọn mình thì ông ấy thiếu gì cách, việc gì phải bày vẽ rắc rối thế này."
+"Thú thật là dù tôi với Set có hợp lực xông vào thì chắc cũng chẳng thắng nổi Grimm đâu. Chênh lệch thực lực lớn đến mức đó cơ mà. Nếu muốn làm gì chúng ta thì ông ấy thiếu gì cách, việc gì phải bày vẽ rắc rối thế này."
 
 "..."
 
@@ -204,7 +204,7 @@ Hét lên một tiếng, cô đạp mạnh xuống sàn lao thẳng vào khoản
 
 "Ừ."
 
-Gật đầu trước lời Elena, hai người một thú còn lại liền cất bước tiến về phía khoảng không gian méo mó.
+Gật đầu trước lời Elena, hai người cùng Set ở lại cũng liền cất bước tiến về phía khoảng không gian méo mó.
 
 "Nơi này... đúng là tầng ngầm thứ nhất rồi."
 

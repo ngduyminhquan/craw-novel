@@ -6,7 +6,7 @@ Bị chém đứt lìa cánh tay trái từ tận bả vai, máu phun ra xối x
 
 Thoáng sững người trước gương mặt kinh tởm ấy, nhưng nghĩ đây là quả báo đích đáng cho hắn, Rei lại toan bổ Lưỡi Hái Tử Thần xuống...
 
-"Gùuu!"
+"Grrr!"
 
 Nghe tiếng kêu gấp gáp của Set từ phía sau, đồng thời nhận thấy có thứ gì đó đang lao về phía mình, Rei lập tức vung Lưỡi Hái Tử Thần bổ xuống.
 
@@ -32,7 +32,7 @@ Cánh tay trái đứt lìa từ tận vai, mặt mũi thì tan chảy thối r�
 
 "Ha, ha ha ha ha. H-Hơi sơ sẩy chút rồi. ...Nhưng lần tới sẽ không như thế này nữa đâu."
 
-Nhăn nhó vì cơn đau dữ dội ở vai trái... khuôn mặt vốn đã tan chảy thối rữa của Vel càng méo mó gớm ghiếc hơn khi hắn cất lời tuyên bố.
+Cơn đau dữ dội ở vai trái làm Vel nhăn mặt... khiến gương mặt vốn đã tan chảy thối rữa của hắn càng méo mó gớm ghiếc hơn khi buông lời tuyên bố.
 
 Trong bàn tay phải duy nhất còn lại, hắn đang nắm một vật trông như viên bảo thạch và toan đập mạnh xuống đất...
 
@@ -60,9 +60,9 @@ Thế nhưng...
 
 "...Biến mất rồi sao."
 
-Khi ánh chớp chói lòa tan đi và tầm nhìn rõ trở lại, bóng dáng của Vel đã chẳng còn ở đó nữa.
+Luồng sáng chói lòa rực lên xung quanh. Khi ánh chớp ấy tắt đi, bóng dáng Vel đã chẳng còn ở đâu nữa, chỉ còn lại vũng máu chảy ra lúc hắn bị chém đứt tay trái trên mặt đất và cánh tay trái đứt lìa đang lăn lóc cách đó một đoạn, như bằng chứng cho thấy mới vừa nãy hắn vẫn còn ở chỗ này.
 
-Thứ duy nhất còn sót lại chỉ là vài vết xới sâu hoắm do những Mũi Tên Gió Set vừa phóng ra để lại.
+Còn ở bức tường sâu trong phòng, phía sau chỗ Vel vừa đứng, vẫn hằn lại một vết chém lớn có lẽ do Phi Trảm gây ra cùng hàng loạt vết xới sâu hoắm do những Mũi Tên Gió của Set để lại.
 
 Rei đã đoán ra câu trả lời cho việc Vel vừa dùng thứ gì. Có lẽ bên trong viên bảo thạch bị đập xuống đất kia đã được phong ấn Không Gian Ma Pháp. Hơn nữa lại là loại dịch chuyển không gian, thứ thường được gọi là ma pháp dịch chuyển. Chẳng cần nghĩ tới giá trị hiếm có của Hộp Vật Phẩm cũng hiểu việc yểm Không Gian Ma Pháp vào Đạo Cụ Ma Thuật là vô cùng khó khăn. Nhưng nếu không màng tới chi phí tốn kém và chỉ dùng một lần duy nhất thì với công nghệ của Đế quốc Bestia, điều đó vẫn nằm trong tầm tay.
 
@@ -146,7 +146,7 @@ Ara im lặng nhấp từng ngụm rượu nho nhỏ. Gương mặt cô đượm
 
 "...Ơ kìa? Cậu Rei, Vel phản bội, chuyện đó tôi hiểu rồi. ...Vậy còn Kuust thì sao? Chẳng lẽ Kuust cũng..."
 
-'Kuust cũng phản bội sao.' Cắt ngang lời Ara khi cô toan nói tiếp câu đó, Rei hướng ánh mắt về phía tấm vải sạch đang phủ bên cạnh Elena.
+Đoán Ara định hỏi tiếp có phải Kuust cũng phản bội không, Rei liền cắt ngang lời cô và hướng ánh mắt về phía tấm vải sạch đang phủ bên cạnh Elena.
 
 "Gùuu..."
 
@@ -180,7 +180,7 @@ Da trên nắm đấm của cô đã rách toạc để lộ cả thớ thịt, 
 
 "Không thể nào! Nhưng chính Vel cũng từng uống bình nước đó cơ mà!?"
 
-"Hắn đã chuẩn bị sẵn thuốc giải độc rồi. Sau đó hắn còn dùng Đạo Cụ Ma Thuật tăng cường năng lực thể chất lên người anh ta rồi lao vào đánh với tôi..."
+"Hắn đã chuẩn bị sẵn thuốc giải độc rồi. Sau đó anh ta còn bị hắn dùng Đạo Cụ Ma Thuật tăng cường năng lực thể chất rồi lao vào đánh với tôi..."
 
 Ngay khoảnh khắc cậu vừa dứt lời, ánh mắt của Ara bỗng ánh lên sát khí hướng thẳng về phía Rei.
 
@@ -212,7 +212,7 @@ Nhìn Ara cất lời đầy quyết tâm như muốn khắc sâu từng lời v
 
 Rưới lọ thuốc hồi phục lên tay phải thuận của mình, chưa đầy ba mươi giây sau, bàn tay của Ara đã lành lặn trở lại, không còn một vết xước.
 
-"Vậy còn tiểu thư Elena, chúng ta nên làm gì bây giờ ạ?"
+"Vậy còn tiểu thư Elena, giờ chúng ta nên làm thế nào?"
 
 Sau khi hạ quyết tâm sẽ tự tay tiêu diệt Vel và vết thương ở tay đã lành, Ara dường như đã bình tâm lại rồi hướng mắt về phía Elena vẫn chưa tỉnh lại ở giữa ma pháp trận, nhưng Rei chỉ khẽ lắc đầu.
 
