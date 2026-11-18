@@ -274,3 +274,7 @@ Quan hệ thay đổi thì KHÔNG sửa dòng cũ: thêm dòng mới với `Từ
 | Rei | Murt | tôi | anh / cậu | 123 | Rei đáp trả mạo hiểm giả trẻ gây sự |
 | Murt | Galahat | tôi / em | anh / anh Galahat | 123 | Murt sùng bái và kính trọng Galahat |
 | Galahat | Murt | tôi / anh | cậu / Murt | 123 | Galahat chỉ huy, răn đe Murt |
+| Galahat | Fader | tôi | hai người / các người / Fader | 123 | Chỉ huy nhắc nhở lính gác dưới quyền |
+| Galahat | Sankant | tôi | hai người / các người / Sankant | 123 | Chỉ huy nhắc nhở lính gác dưới quyền |
+| Fader | Galahat | em / bọn em | anh / anh Galahat | 123 | Lính gác nói với chỉ huy |
+| Sankant | Galahat | em / bọn em | anh / anh Galahat | 123 | Lính gác nói với chỉ huy |

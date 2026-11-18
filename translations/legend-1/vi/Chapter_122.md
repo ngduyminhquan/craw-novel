@@ -36,7 +36,7 @@ Rei chìa tấm bản đồ Lenora đưa cho đám người xem.
 
 Thái độ yêu cầu đường hoàng của cậu dường như lại khiến đám người buông lỏng cảnh giác. Có lẽ họ nghĩ nếu có mưu đồ mờ ám hay tới do thám, ắt hẳn cậu sẽ bỏ chạy hoặc hoảng hốt khi chạm mặt họ.
 
-"Chỗ này là... dinh thự của ông Bolton à. Thế thì cứ đi thẳng con đường này là thấy nó nằm bên tay phải. Mái ngói của dinh thự dát màu vàng kim nên nhìn một cái là nhận ra ngay."
+"Chỗ này là... dinh thự của ông Bolton à. Thế thì cứ đi thẳng con đường này là thấy nó nằm bên tay phải. Mái ngói của dinh thự nhuộm màu vàng kim nên nhìn một cái là nhận ra ngay."
 
 "...Vàng kim?"
 
@@ -44,7 +44,7 @@ Nghe gã nói, Rei bất giác hỏi lại.
 
 Dù sao từ vị trí hiện tại cũng nhìn thấy vài dinh thự, nhưng hầu hết mái nhà đều mang màu sắc trang nhã. Lọt thỏm giữa nơi này mà lại có màu vàng kim? Cậu thấy lạ lẫm cũng phải.
 
-Có lẽ hiểu được suy nghĩ của Rei, gã đàn ông cũng cười trừ cất lời.
+Có lẽ hiểu được suy nghĩ của Rei, gã đàn ông cũng cười trừ gật đầu.
 
 "Thì, đại loại thế đấy. Mấy tay lắm tiền nhiều của thì gu thẩm mỹ hẳn phải khác người như bọn mình rồi."
 
@@ -68,7 +68,7 @@ Cứ thế rảo bước chừng hai mươi phút trên con đường ấy, dinh
 
 Nhìn mái của dinh thự, Rei buột miệng thốt lên.
 
-Chính vì các dinh thự xung quanh đều mang dáng vẻ trang nhã, trầm mặc nên tòa dinh thự sở hữu mái ngói nhuộm màu vàng kim lại càng thêm nổi bật. Có điều, sự nổi bật ấy chỉ nổi theo chiều hướng xấu mà thôi.
+Chính vì các dinh thự xung quanh đều mang dáng vẻ trang nhã, trầm mặc nên tòa dinh thự có mái ngói nhuộm màu vàng kim lại càng thêm nổi bật. Có điều, nó chỉ nổi bật theo nghĩa xấu mà thôi.
 
 Và trước cánh cổng dẫn vào dinh thự ấy, cũng như những dinh thự khác, có lính canh cầm thương đứng gác.
 
@@ -142,7 +142,7 @@ Cùng với tiếng thét thịnh nộ, chiếc ly bị ném thẳng vào tườ
 
 Dù là tấm thảm, chiếc ly thủy tinh bị ném vỡ hay thứ rượu màu hổ phách sóng sánh bên trong, bất cứ món nào cũng có giá trị đủ để thường dân ăn chơi phè phỡn suốt mấy năm trời. Thế nhưng kẻ vừa ném chẳng thèm bận tâm đến điều đó, gã bực dọc ngả cả người ra ghế.
 
-Lưng ghế phát ra tiếng cọt kẹt khi đỡ lấy sức nặng của gã, dẫu vậy cơn bực bội trong gã vẫn chẳng hề lắng xuống.
+Lưng ghế phát ra tiếng cọt kẹt khi đỡ lấy sức nặng của gã, thế mà cơn bực bội trong gã vẫn chẳng hề lắng xuống.
 
 Người đàn ông đã ở độ tuổi xế chiều ấy, thoạt nhìn trông chẳng hề giống người giữ chức chủ quản thương hội. Dù đã ở độ tuổi sáu mươi, đôi mắt gã vẫn ánh lên nét hăng hái đầy sinh lực cùng vẻ mặt ngạo mạn khinh đời. Gã tin chắc từ tận đáy lòng rằng kẻ khác phải hành động theo ý mình là lẽ đương nhiên.
 

@@ -14,9 +14,9 @@ Chú Griffin Set vừa gừ trong cổ đầy khoái chí vừa nhai xiên thị
 
 Thấy Rei gật đầu, hai gã liếc mắt trao đổi điều gì đó rồi lại cất lời.
 
-"Ông Bolton của Thương Hội Azoth cho gọi mày. Đi theo bọn tao."
+"Ông Bolton của Thương Hội Azoth cho gọi cậu. Đi theo chúng tôi."
 
-Gã chiến sĩ trạc ba mươi tuổi có vẻ là người cầm đầu lên tiếng bảo, thế nhưng...
+Người chiến sĩ trạc ba mươi tuổi có vẻ là người dẫn đầu lên tiếng bảo, thế nhưng...
 
 "Tôi từ chối."
 
@@ -110,7 +110,7 @@ Thấy nhóm Galahat... hay đúng hơn là vừa trông thấy Set, bọn họ 
 
 Người đàn ông vừa cất tiếng chào Galahat đang đi đầu thì lập tức nhận ra một gương mặt quen thuộc, bởi hôm qua anh ta vừa thấy mặt cậu ngay quanh đây.
 
-"Gì thế nhóc? Hôm qua đến giờ nhóc vẫn còn việc với Thương Hội Azoth à?"
+"Gì thế nhóc? Hôm qua vừa đến, hôm nay nhóc lại có việc với Thương Hội Azoth nữa à?"
 
 Nghe hỏi vậy, Rei mới nhớ ra mấy người đàn ông trước mặt là ai.
 
@@ -144,7 +144,7 @@ Người đàn ông ngơ ngác khi thấy Galahat bất thình lình khẽ cúi 
 
 "À, thực ra hôm qua Rei có đến dinh thự ông Bolton... nhưng lại bị lính gác cổng đuổi về. Thành ra mới khiến cậu ấy phải mất công đi lại lần hai. Cả mấy cậu nữa, cất công chỉ đường cho người ta hôm qua mà rốt cuộc lại thành công cốc."
 
-"Ấy, không sao đâu mà. Anh đừng để bụng. Bọn tôi được anh giúp đỡ nhiều rồi, chút chuyện này bõ bèn gì."
+"Ấy, không sao đâu mà. Anh đừng để bụng. Bọn tôi được anh giúp đỡ nhiều rồi, chút chuyện này có đáng là bao."
 
 Theo lời người đàn ông, mấy người phía sau cũng gật đầu đồng tình.
 
@@ -180,7 +180,7 @@ Họ vừa tiếp tục rảo bước trên con đường khu quý tộc hướn
 
 "Đúng là hiếm thật. Nhưng mỗi mạo hiểm giả đều có hoàn cảnh riêng, bới móc chuyện đó thì vô duyên lắm. ...Nào, thấy rồi đấy."
 
-Xuôi theo ánh mắt của Galahat, đập vào mắt Rei là mái nhà dát vàng kim mà cậu mới nhìn thấy hôm qua. Và đứng trước cánh cổng kia chính là hai tên lính gác.
+Xuôi theo ánh mắt của Galahat, đập vào mắt Rei là mái nhà màu vàng kim mà cậu mới nhìn thấy hôm qua. Và đứng trước cánh cổng kia chính là hai tên lính gác.
 
 Hai tên gác cổng vẫn lăm lăm ngọn thương trừng trừng nhìn nhóm người đang tiến lại gần dinh thự của chủ nhân như hôm qua, thế nhưng...
 
@@ -216,7 +216,7 @@ Set bước lên chắn trước mặt Rei, cất tiếng gừ đầy hiếu chi
 
 Chạm thẳng vào ánh mắt đó của Set, Fader kinh hãi lùi vội ra sau, đập lưng vào người bạn đồng hành Sankant mới dừng lại được.
 
-"Lũ ngu này. Rei là người đích thân ông Bolton triệu tập. Chúng mày lại tự tiện đuổi người ta về. Nghĩa là chúng mày đã xua đuổi khách của ông Bolton đấy. ...Hơn nữa, chuyện này chắc chắn đã được dặn dò trước rồi, đừng bảo là chúng mày không nhớ đấy nhé?"
+"Đồ ngu. Rei là người đích thân ông Bolton triệu tập. Hai người lại tự tiện đuổi người ta về. Nghĩa là hai người đã xua đuổi khách của ông Bolton đấy. ...Hơn nữa, chuyện này chắc chắn đã được dặn dò trước rồi, đừng bảo là hai người không nhớ đấy nhé?"
 
 "Chuyện... chuyện là... tại bọn em không ngờ một thằng nhóc lếch thếch thế này lại là khách của ông Bolton..."
 

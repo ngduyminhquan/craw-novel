@@ -2,7 +2,7 @@
 
 "Ư..."
 
-Ánh ban mai rọi vào phòng khi Rei mở mắt trên giường. Thế nhưng vừa định ngồi dậy, một cơn đau âm ỉ lập tức ập đến trong đầu cậu.
+Ánh ban mai rọi vào phòng khi Rei mở mắt trên giường. Thế nhưng cậu vừa định ngồi dậy thì một cơn đau âm ỉ lập tức ập đến trong đầu.
 
 "Rốt cuộc mình... Không, mình ngủ từ lúc nào thế này?"
 
@@ -30,7 +30,7 @@ Cậu vừa định hình cụ thể ma pháp hệ Hỏa có thể dùng trong �
 
 [Hỡi ngọn lửa, nếu có kẻ chạm vào ngươi trái với ý chí của ta, hãy dùng nghiệp hỏa bỏng rát gieo rắc cho kẻ đó sự hối hận tột cùng]
 
-Dứt lời chú, ngọn lửa tụ lại nơi lưỡi liềm của Lưỡi Hái Tử Thần... và ma pháp lập tức được kích hoạt ở khoảnh khắc tiếp theo.
+Dứt lời chú, ngọn lửa tụ lại nơi lưỡi hái của Lưỡi Hái Tử Thần... rồi ngay khoảnh khắc tiếp theo, ma pháp lập tức phát động.
 
 [Ngọn Lửa Hối Hận]
 
@@ -42,7 +42,7 @@ Sau đó, Rei chỉnh trang lại quần áo qua loa rồi đi xuống tầng m�
 
 Có lẽ đã qua giờ cao điểm nên trong nhà ăn hầu như chẳng thấy bóng dáng khách trọ, chỉ còn lác đác vài người đang dùng bữa sáng muộn.
 
-Nhìn quanh một lượt rồi chọn một chiếc bàn trống ngồi xuống, bà chủ quán Hoàng Hôn Mạch Đình là Lana liền xuất hiện như thể chỉ chờ có vậy.
+Rei nhìn quanh một lượt rồi chọn một chiếc bàn trống ngồi xuống, đúng lúc đó bà chủ quán Hoàng Hôn Mạch Đình là Lana liền xuất hiện như thể chỉ chờ có vậy.
 
 "Chào buổi sáng. Hôm qua thấy cậu say bí tỉ, giờ đã đỡ hơn chưa?"
 
@@ -134,11 +134,11 @@ Nhận ra nét chữ trên tấm bản đồ chính là nét chữ quen thuộc 
 
 "...Thế à."
 
-Rei thở dài cạn lời, rồi khẽ lắc đầu lấy lại bình tĩnh.
+Rei thở dài chẳng biết nói gì hơn, rồi khẽ lắc đầu lấy lại bình tĩnh.
 
 "Dù sao thì có tấm bản đồ này cũng đỡ quá. Thế tôi đi luôn đây."
 
-"Vâng. Chúc cậu đi cẩn thận. À, về ủy thác xẻ thịt thì xin cậu đợi thêm một thời gian ngắn nữa nhé."
+"Vâng. Cậu đi cẩn thận nhé. À, về ủy thác xẻ thịt thì xin cậu đợi thêm một chút nữa nhé."
 
 "Tôi hiểu rồi."
 
@@ -194,7 +194,7 @@ Milein vừa vuốt lưng Set với nụ cười ngọt ngào như muốn tan ch
 
 "Nghe bảo thế. Hôm qua mạo hiểm giả tôi mới quen cũng bảo vậy. ...Còn Set, tính sao đây? Muốn đi cùng tao không?"
 
-Nghe Rei gọi khi đang mải ăn sandwich, Set toan đứng dậy như muốn nói "đương nhiên rồi", thế nhưng...
+Nghe Rei gọi khi đang mải ăn sandwich, Set toan đứng dậy như muốn bảo đương nhiên là có, thế nhưng...
 
 "Tốt nhất là đừng dắt bé Set theo thì hơn đấy."
 
@@ -210,7 +210,7 @@ Milein khẽ chau mày nhắc nhở. Nhìn biểu cảm ấy, rõ ràng là bả
 
 Thấy Milein có vẻ căng thẳng, Set dường như cũng cảm thấy bất an nên khẽ kêu một tiếng rầu rĩ trong cổ họng.
 
-"Đến mức đó cơ à? Giờ Set ở thành phố Gilm này cũng nổi tiếng chẳng khác gì người nổi tiếng rồi. À mà nó đâu phải người. Dám động vào Set thì chẳng phải tự biến cả cư dân thành phố thành kẻ thù sao?"
+"Đến mức đó cơ à? Giờ ở thành phố Gilm này, Set cũng là người nổi tiếng ra phết rồi. À mà nó đâu phải người. Dám động vào Set thì chẳng phải tự biến cả cư dân thành phố thành kẻ thù sao?"
 
 "Ừ, tôi cũng nghĩ thế. ...Nhưng cái ngữ dám trơ tráo làm mấy trò đó lại chính là Thương Hội Azoth... hay đúng hơn là lão Bolton đấy."
 
@@ -220,7 +220,7 @@ Khẽ thở dài, Milein lại tiếp tục giải thích.
 
 "Chơi bẩn thật đấy."
 
-Nghe Milein kể, Rei không khỏi thốt lên.
+Nghe Milein kể, Rei buột miệng thốt lên.
 
 Không bán vũ khí cho mạo hiểm giả. Điều đó đồng nghĩa với việc chặn đứng con đường hành nghề của họ. Nếu người đó thuộc hệ ma pháp sư thì có khi còn xoay xở được, chứ nếu là hệ chiến sĩ với mức độ hao mòn vũ khí cao thì...
 
